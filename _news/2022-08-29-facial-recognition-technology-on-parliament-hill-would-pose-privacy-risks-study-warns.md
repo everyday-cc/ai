@@ -25,17 +25,61 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition as Parliament Hill security tool would pose legal, privacy risks: study"
-    excerpt: "The report was completed in April by the Leadership Lab at Toronto Metropolitan University at the request of the Parliamentary Protective Service, which funded the research."
-    publishedDateTime: 2022-08-29T17:11:00Z
-    webUrl: "https://globalnews.ca/news/9092371/parliament-hill-facial-recognition-security-analysis/"
-    ampWebUrl: "https://globalnews.ca/news/9092371/parliament-hill-facial-recognition-security-analysis/amp/"
-    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/9092371/parliament-hill-facial-recognition-security-analysis/amp/"
+  - title: "Financial language and the evolution of speech recognition technology"
+    excerpt: "By Katy Wigdahl, CEO, Speechmatics Due to its long heritage and diverse spread of legacy technologies, it can be challenging to integrate new technological developments into the financial industry. But by not doing so,"
+    publishedDateTime: 2022-09-01T21:21:00Z
+    webUrl: "https://www.globalbankingandfinance.com/financial-language-and-the-evolution-of-speech-recognition-technology/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/financial-language-and-the-evolution-of-speech-recognition-technology/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/financial-language-and-the-evolution-of-speech-recognition-technology/"
     type: article
     provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 46
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 59
+    images:
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/09/iStock-861092546.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Facial recognition is the best tool to tackle the increase in financial fraud"
+    excerpt: "By Anton Nazarkin, Global Development Director at VisionLabs Financial fraud is on the rise and costs banks billions of dollars a year. Between 2016 to 2020, synthetic fraud[1] losses grew from $6 billion to $20 billion[2]."
+    publishedDateTime: 2022-08-29T14:57:00Z
+    webUrl: "https://www.globalbankingandfinance.com/facial-recognition-is-the-best-tool-to-tackle-the-increase-in-financial-fraud/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/facial-recognition-is-the-best-tool-to-tackle-the-increase-in-financial-fraud/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/facial-recognition-is-the-best-tool-to-tackle-the-increase-in-financial-fraud/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 56
+    images:
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/08/059.jpg"
+        width: 328
+        height: 328
+        isCached: true
+  - title: "What are the risks with facial recognition technology?"
+    excerpt: "Facial recognition systems are capable of up to 99,97% accuracy, but the technology does have some drawbacks. Cybersecurity experts at Ping Identity explore the importance of biometric authentication capabilities while protecting user privacy."
+    publishedDateTime: 2022-08-29T09:52:00Z
+    webUrl: "https://it-online.co.za/2022/08/29/what-are-the-risks-with-facial-recognition-technology/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 21
+  - title: "Emotion Detection and Recognition Market Latest Advancements and Business Opportunities 2031"
+    excerpt: "Emotion detection and recognition market is set to witness steady growth during 2021-2031. One of the major growth drivers for the emotion detection and recognition market happens to be the rising adoption of Internet of Things,"
+    publishedDateTime: 2022-08-30T13:26:00Z
+    webUrl: "https://www.fmiblog.com/2022/08/30/emotion-detection-and-recognition-market-latest-advancements-and-business-opportunities-2031/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 13
+    images:
+      - url: "https://www.fmiblog.com/wp-content/uploads/2022/08/Stringer-Pallets-Market-420x300.jpg"
+        width: 420
+        height: 300
+        isCached: true
 
 secured: "WRDb8O6xLQ3Q/cPcxMMiz8a/dllbTJjR3nwaKdIt37fglVNlKFv1oH2O9zRQCr9jRGSIREcwkGIWZtvloCZR+Z6dUBK7384uEgoC+nkIxy8IHKu0SjaO0bfiyIf9LkOP1Jq0G4LW2rZJO0EzmJZIvSB9TIjUvNOo9u0GY82XWlT2kv0TramA5bk+HCU+e2Vr4lR1yk2Yjlv4yDV9XserbVvTB+/fYtV2XQk6J9dz682YDOZV/FfjP1mIM+Yrakc4D2Aoh5d33mT/2yJZQLaHywlQ5Fm9sBpjRuME4zxQXBkrEDUlpgLKHzbPz9Ig3ThC3fujncxdAThTjKbkH+416MLX9YmU0lC+N1naQI1+gGZykRsenDTQ2eev6MGlOIc/h9ke1EMGQ4v9a7vDnmqz4w9O0aGO/gfGOwYiZ+aQbpu2DXEP6IBsfdQMpQzKwIuHhHN8xIiZEznIREN+8y/UrMHMci864+bCrZu1ZUKBBcqSZQmf3S3kBSWj86QmmbIznmH+cvZTLD444OrCJfpj0Q==;wuBOK/PLeBATlJaQpGlYrQ=="
 ---

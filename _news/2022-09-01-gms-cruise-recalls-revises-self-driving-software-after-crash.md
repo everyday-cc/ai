@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/gms-cruise-r
 webUrl: "https://www.reuters.com/business/autos-transportation/gms-cruise-recalls-revises-self-driving-software-after-crash-2022-09-01/"
 type: article
 quality: 54
-heat: 94
+heat: 114
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "GM's Cruise Recalls Self-Driving Software Involved in June Crash"
+    excerpt: "After two people were injured in the incident, Cruise blocked its robot vehicles from making left turns for several weeks before issuing a software update."
+    publishedDateTime: 2022-09-01T19:34:00Z
+    webUrl: "https://www.wired.com/story/gms-cruise-recalls-self-driving-software-involved-in-june-crash/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 34
   - title: "General Motors Recalls and Updates 80 Self-Driving Vehicles"
     excerpt: "General Motors' (NYSE:GM) startup unit, Cruise LLC, announced Thursday that it had recalled and updated software in 80 self-driving vehicles after a June crash in San Francisco left two people injured."
     publishedDateTime: 2022-09-01T15:26:00Z
@@ -87,6 +96,15 @@ related:
         width: 750
         height: 503
         isCached: true
+  - title: "GM Recalled Self-Driving Taxis. It’s a Win for the Technology."
+    excerpt: "Thursday, General Motors self-driving robotaxi company Cruise recalled some of its cars because of a risk of crash. It feels like a set back for all car companies with lofty robotaxi ambitions. Auto makers, including GM (ticker: GM) and Tesla (TSLA), hope ..."
+    publishedDateTime: 2022-09-01T19:58:00Z
+    webUrl: "https://www.barrons.com/articles/gm-recall-self-driving-taxis-51662062231"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 4
 
 secured: "0vZMCY0Xe48ypY86Dzd/jz46+UmjJb5vAtHS+PWiPeF9slDaE+745wxt4gUNFarOUD9kPHOZr3gg4fKwbjCz9gLs3yd4Txlyq3zGFy/1cTUYt8O2CgjDUidCctGOhv2m2vSRlxeO5vvwETjHKFa6WN+hE6k5bb0JINnjh2jdmUin9Kc1lK3dzejHyZ2IHMmC0lKTfaiHwCz3479yMSqOEf4tc1m5jOsahJVcfAgJD7UbV/hOCZvQXSZdKCc1uPPbxtQE8pa0NJ8qikoWYnWATOk3GWgYB5p7cmaQU4gbh+C5cZpIE/mhvakYL2ymG7ST+In8RTqqmjaud7lGJSE5sXMq+j/H+GnbGe7lfSsztMQ+GZUdv8toXA8Bc/VEze+iNUhpTPtNjUrkq7GZC30TDikrR0edQ+lS+1pI5OLxhCvUZt88+9dv1vlVMSomYuuL/e7NpX8+Dv/JOA5SLHeFlVDs5xLVTQPqZ+5Rsp4Yu23BSlSDx756MrV/j3l48ycAK0Y0cu1VAtuVMUWT6HEsyQ==;+n0u8CIDe28YJ93jZGtm/g=="
 ---

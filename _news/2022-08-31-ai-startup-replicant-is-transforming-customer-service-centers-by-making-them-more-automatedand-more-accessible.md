@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI, Machine Learning a must in the face of cyber threats"
+    excerpt: "By Nick Alevetsovitis The semiannual FortiGuard Labs Global Threat Landscape Report is out, and the news isn’t great for defenders. Among the plethora of risks facing organizations, ransomware variants almost doubled in the last six months alone."
+    publishedDateTime: 2022-09-01T20:34:00Z
+    webUrl: "https://www.itworldcanada.com/sponsored/ai-machine-learning-a-must-in-the-face-of-cyber-threats"
+    ampWebUrl: "https://www.itworldcanada.com/sponsored/ai-machine-learning-a-must-in-the-face-of-cyber-threats?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/sponsored/ai-machine-learning-a-must-in-the-face-of-cyber-threats?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 74
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2022/08/aimach08.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Get Your Game On: Calling Urgently On AI Startups Devising AI-First Products To Seek These Jumpstart Investment Funds"
     excerpt: "AI startups need to be aware of these key insights if they want to garner investor interest. Indeed, there is an open call for AI-first startups that budding AI entrepreneurs should be seriously aiming to get as a means of jumpstarting their efforts and aspirations."
     publishedDateTime: 2022-09-01T12:00:00Z

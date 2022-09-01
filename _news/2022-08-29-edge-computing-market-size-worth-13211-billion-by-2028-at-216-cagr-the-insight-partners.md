@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-29T10:30:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/08/n28664397/edge-computing-market-size-worth-132-11-billion-by-2028-at-21-6-cagr-the-insight-partners"
 webUrl: "https://www.benzinga.com/pressreleases/22/08/n28664397/edge-computing-market-size-worth-132-11-billion-by-2028-at-21-6-cagr-the-insight-partners"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: Benzinga.com
@@ -14,6 +17,38 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "Robot Software Market Size, Business Strategy and Regional Analysis by 2027 | IMARC Group"
+    excerpt: "Looking forward, IMARC Group expects the market to reach a value of US$ 40.1 Billion by 2027 exhibiting a CAGR of 21.50% during 2022-2027.The latest report published by IMARC Group, titled “Robot Soft"
+    publishedDateTime: 2022-08-30T00:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/ab28678753/robot-software-market-size-business-strategy-and-regional-analysis-by-2027-imarc-group"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28678753"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28678753"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 50
+    images:
+      - url: "https://www.abnewswire.com/uploads/1661793945.jpeg"
+        width: 474
+        height: 279
+        isCached: true
+  - title: "Face Recognition Systems Market 2022 – Future Developments, Key Vendors, Regional Analysis, and Industry Scope by 2028"
+    excerpt: "Moreover, the inflation rate, industrial performance, GDP, per capita income, and other factors all play a role in addressing these regions & global Face Recognition Systems market. The study covers a complete analysis of the different industrial growth strategies that assist in determining the predominant segments and knowing about various factors."
+    publishedDateTime: 2022-08-30T06:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-2022-future-developments-key-vendors-regional-analysis-and-industry-scope-by-2028-2022-08-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "W3Y2a1wzS5PNAn9dCfuzTIii1j/U4lofQ13N26h5Hnb/3+rUDHrrAM4i3drwgs/Csc9Nzf/8EPqG9U2YOCdN8T12vsz09QOG3Txe3xUVL587I3Ts26BDP67StpxpKNEr2Fp5uLFAquir01Ha/wJCpgaGBQqRvA3VpEArDsY9NcYL3TtXLEVbm50/HfI5ir1CFFjKQocMVJW7dAen2lrXPmNexqXWw0+LT5z5AKaAytjVPwnKWM/8BldERFgzd2kyEsi2nwtAEZLpikep40WxQBWgHb3V/jaLFaYHLPt0pcYRPcoYb+S6balQvWpIThtcyRhapRjFewzNehLWIwuLktZdHSMv3FqqmqC89nxWHDs=;taW+xk4Shf/nMARWFcJnkQ=="
 ---

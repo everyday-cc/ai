@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-01T17:55:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/09/n28723335/quickstart-is-delighted-to-welcome-dean-dennis-lanham-to-the-team"
 webUrl: "https://www.benzinga.com/pressreleases/22/09/n28723335/quickstart-is-delighted-to-welcome-dean-dennis-lanham-to-the-team"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Benzinga.com

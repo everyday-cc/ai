@@ -9,8 +9,8 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/jio
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/jio-haptik-collaborates-with-microsoft-azure-cognitive-services-to-improve-existing-hindi-conversational-ai-models/93877868"
 type: article
 quality: 84
-heat: 164
-published: true
+heat: -1
+published: false
 
 provider:
   name: India Times
@@ -28,69 +28,35 @@ images:
     isCached: true
 
 related:
-  - title: "Jio Haptik collaborates with Microsoft Azure to enhance Hindi chatbots"
-    excerpt: "The company claims that it has facilitated over 2 million conversations on Jio Mobility with an 80 per cent reduction in human interventions and a 2.5 times increase in localised queries. Jio Haptik at present supports conversation in 130 languages."
-    publishedDateTime: 2022-08-31T10:23:00Z
-    webUrl: "https://www.pcquest.com/jio-haptik-collaborates-with-microsoft-azure-to-enhance-hindi-chatbots/"
-    ampWebUrl: "https://www.pcquest.com/jio-haptik-collaborates-with-microsoft-azure-to-enhance-hindi-chatbots/amp/"
-    cdnAmpWebUrl: "https://www-pcquest-com.cdn.ampproject.org/c/s/www.pcquest.com/jio-haptik-collaborates-with-microsoft-azure-to-enhance-hindi-chatbots/amp/"
+  - title: "Microsoft Azure outage continues for some services relying on Ubuntu 'Bionic' release"
+    excerpt: "Azure problems for some running Ubuntu VMs are continuing into a second day, as Microsoft continues to try to remediate the situation, which is affecting services like AKS and ACA."
+    publishedDateTime: 2022-08-31T20:25:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-azure-outage-continues-for-some-services-relying-on-ubuntu-bionic-release/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-azure-outage-continues-for-some-services-relying-on-ubuntu-bionic-release/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-outage-continues-for-some-services-relying-on-ubuntu-bionic-release/"
     type: article
     provider:
-      name: PCQuest
-      domain: pcquest.com
-    quality: 74
+      name: ZDNet
+      domain: zdnet.com
+    quality: 97
     images:
-      - url: "https://www.pcquest.com/wp-content/uploads/2018/04/chatbots.jpg"
-        width: 750
-        height: 400
+      - url: "https://www.zdnet.com/a/img/resize/8416411e90bbe418f258796203c3085a40ede504/2022/08/31/80f3ce20-b36d-4c5b-a679-358656cfb300/canonicalubuntuazuredns.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 598
         isCached: true
-  - title: "Jio Haptik signs 1-year deal with Microsoft Azure to improve its Hindi chatbots"
-    excerpt: "Jio Haptik has signed a one-year deal with Microsoft's cloud computing service Azure to improve its existing Hindi language chatbots. Jio Haptik, the AI platform, s"
-    publishedDateTime: 2022-08-30T16:47:00Z
-    webUrl: "https://www.hindustantimes.com/technology/jio-haptik-signs-1-year-deal-with-microsoft-azure-to-improve-its-hindi-chatbots-101661873878526.html"
-    ampWebUrl: "https://www.hindustantimes.com/technology/jio-haptik-signs-1-year-deal-with-microsoft-azure-to-improve-its-hindi-chatbots-101661873878526-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/jio-haptik-signs-1-year-deal-with-microsoft-azure-to-improve-its-hindi-chatbots-101661873878526-amp.html"
+  - title: "Microsoft applying cloud security principles to Open RAN networks"
+    excerpt: "As 5G become smore cloudified, Microsoft is leveraging its cloud expertise to bring a zero-trust approach to Open RAN and other networks."
+    publishedDateTime: 2022-08-29T15:23:00Z
+    webUrl: "https://www.rcrwireless.com/20220829/telco-cloud/microsoft-applying-cloud-security-principles-to-open-ran-networks"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 70
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 56
     images:
-      - url: "https://images.hindustantimes.com/img/2022/08/30/1600x900/information-conversation-intelligence-smartphone-technology-artificial-interface_d20457ca-6f1f-11ea-ad54-628e87a77846_1661876427298_1661876427298.jpg"
-        width: 1600
-        height: 899
-        isCached: true
-  - title: "Jio Haptik collaborates with Microsoft to use Azure for improving Hindi chatbots"
-    excerpt: "The company claims to have facilitated over 2 million conversations on Jio Mobility with 80 per cent reduction in human interventions and 2.5 times increase in localised queries."
-    publishedDateTime: 2022-08-30T16:47:00Z
-    webUrl: "https://www.hindustantimes.com/technology/jio-haptik-collaborates-with-microsoft-to-use-azure-for-improving-hindi-chatbots-101661873878526.html"
-    ampWebUrl: "https://www.hindustantimes.com/technology/jio-haptik-collaborates-with-microsoft-to-use-azure-for-improving-hindi-chatbots-101661873878526-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/jio-haptik-collaborates-with-microsoft-to-use-azure-for-improving-hindi-chatbots-101661873878526-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 69
-    images:
-      - url: "https://images.hindustantimes.com/img/2022/08/30/1600x900/information-conversation-intelligence-smartphone-technology-artificial-interface_d20457ca-6f1f-11ea-ad54-628e87a77846_1661876427298_1661876427298.jpg"
-        width: 1600
-        height: 899
-        isCached: true
-  - title: "Jio Haptik collaborates with Microsoft to use Azure for improving Hindi chatbots"
-    excerpt: "Conversational AI platform Jio Haptik has tied up with Microsoft Azure to improve its existing hindi language chatbots, a joint statement said on Tuesday"
-    publishedDateTime: 2022-08-31T05:43:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/jio-haptik-collaborates-with-microsoft-to-use-azure-for-improving-hindi-chatbots/article65833091.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/jio-haptik-collaborates-with-microsoft-to-use-azure-for-improving-hindi-chatbots/article65833091.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/jio-haptik-collaborates-with-microsoft-to-use-azure-for-improving-hindi-chatbots/article65833091.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 69
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/vl3ctm/article65833106.ece/alternates/LANDSCAPE_615/IMG_BL04_FlightInvite_2_1_089LQLRQ.jpg"
-        width: 615
-        height: 383
+      - url: "https://www.rcrwireless.com/wp-content/uploads/2016/11/microsoft-big-logo-altered.jpg"
+        width: 720
+        height: 480
         isCached: true
   - title: "Canonical, Microsoft Bring Ubuntu on Arm to Azure"
     excerpt: "“These images provide the familiar Ubuntu experience, with an Azure-optimized kernel and configurations ... application servers, Machine Learning (ML), open-source databases, and in-memory caches.” Ampere Altra is also well suited for new use ..."
@@ -120,29 +86,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "Innovative Payment Solutions Introduces Voice Command Function for IPSIPay App Through Collaboration with Conversational AI Technology Provider DRUID"
-    excerpt: "William Corbett, IPSI’s Chairman and Chief Executive Officer, commented, “We believe our new collaboration with DRUID will dramatically enhance the functionality of our IPSIPay App, enabling users to execute remittances and other transactions,"
-    publishedDateTime: 2022-08-30T13:17:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-43dd32330de56b40d4b503cdbbed5410"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 4
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "IGM Financial Announces New Collaboration with Microsoft to Deliver Next-Generation Financial Services to Canadians"
-    excerpt: "IGM has chosen Microsoft Azure as a key provider of public cloud services to enable its digital infrastructure strategy, empower the creation of innovative solutions, and provide"
-    publishedDateTime: 2022-08-31T13:31:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-igm-financial-announces-new-collaboration-with-microsoft-deliver-/2022/08/31/9664960.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "3eFvzRJugQ4mVzUOBXX0S2zOWYw/OClnmZE7QQOC47fWa27bTWPidNfTw+CHEoo2BUvouQcENM0uY2Q2TB6YJxXAclBPWGRYw5+H8ZG/UC2B80leSRBhFGfSoqQmcr0hKn4Rm1v6EA2jJVi52PIQHm8opmNqPYJ/s04s1ZD8lb2RzMuXHdLziB1J9hmg7XYoNy8kXNnrUMoKNvz3GTxyIEu4rf+vKXo6CObuUePFDFwnp1a2zQFihLiESrP/wrtFSpJq+Q4Dd7AR6wCMma7SMNkNCjmZbHZCcRCseoGK5q5f18X/ANGHvn0QMNfdwkevcIqP81vGrM559c24ZA/x/MjIgideOHjkPkQH+6UXLYl0myh4tdeuTGx7vwn0TKHM9Hh5ol0GDDbMBQB7xgtdaPglcpGYcRY9CjfCUcAMrdPDOSEHZ4q95vhJYYEOPUNnawoqvHRjYz2pp128bnAilhY52crSKi5Mns0UPvGOwibRv/lsDZEtl56HfS0kvNEy1W2qJbJU7uQhYhMeFZHdLQ==;hzX+vUHDgxmSGDmSglynrg=="
 ---

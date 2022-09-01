@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 926
         isCached: true
+  - title: "Blockchain, AI, and the metaverse — tools for better decision-making?"
+    excerpt: "When it comes to working together, people need help — whether they're in a conference room or in the metaverse. Could technology such as blockchain and AI make a difference?"
+    publishedDateTime: 2022-09-01T07:06:00Z
+    webUrl: "https://www.computerworld.com/article/3672428/blockchain-ai-and-the-metaverse-tools-for-better-decision-making.html"
+    ampWebUrl: "https://www.computerworld.com/article/3672428/blockchain-ai-and-the-metaverse-tools-for-better-decision-making.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3672428/blockchain-ai-and-the-metaverse-tools-for-better-decision-making.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/11/22/busines_communication_network_partnership_collaboration_teams_hiring_by_metamorworks_gettyimages-1159740443_2400x1600-100852686-large-100921745-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The AI tasked with keeping the metaverse safe comes with a lot of GPU firepower"
     excerpt: "AI-powered servers with Nvidia GPUs will give potential metaverse hackers a few things to think about. At yesterday's VMware Explore 2022 conference in San Francisco, server giant VMWare announced the vSphere 8—a metaverse-ready data center platform with artificially intelligent security."
     publishedDateTime: 2022-08-31T09:11:00Z

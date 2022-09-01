@@ -69,6 +69,15 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "GM's Cruise Recalls Self-Driving Software Involved in June Crash"
+    excerpt: "After two people were injured in the incident, Cruise blocked its robot vehicles from making left turns for several weeks before issuing a software update."
+    publishedDateTime: 2022-09-01T19:34:00Z
+    webUrl: "https://www.wired.com/story/gms-cruise-recalls-self-driving-software-involved-in-june-crash/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 34
   - title: "General Motors Recalls and Updates 80 Self-Driving Vehicles"
     excerpt: "General Motors' (NYSE:GM) startup unit, Cruise LLC, announced Thursday that it had recalled and updated software in 80 self-driving vehicles after a June crash in San Francisco left two people injured."
     publishedDateTime: 2022-09-01T15:26:00Z
@@ -83,6 +92,15 @@ related:
         width: 800
         height: 499
         isCached: true
+  - title: "GM Recalled Self-Driving Taxis. It’s a Win for the Technology."
+    excerpt: "Thursday, General Motors self-driving robotaxi company Cruise recalled some of its cars because of a risk of crash. It feels like a set back for all car companies with lofty robotaxi ambitions. Auto makers, including GM (ticker: GM) and Tesla (TSLA), hope ..."
+    publishedDateTime: 2022-09-01T19:58:00Z
+    webUrl: "https://www.barrons.com/articles/gm-recall-self-driving-taxis-51662062231"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 4
 
 secured: "ag953aPyYOgnAdYStmNybRg7TYWz46EU2AyoSsYDY7MEbIi0nP5eA4cG7KktWP6WoZ9m+OImqOgiHbhQwWtuPf8E53cIgdL7zMc8MYbUn1bSWJyMRt1tlnfhHSHzi717otWXZIiTHCZ0tbigyympqO/lsX2D/slPI6NUZSjTjXxh4ZaaLHRLd+oVyvjxrjLupPefjk5C5gYbiS8hVlNPc0Id9fT27HIRh9c/9B/QlhMAL/CJRAWI66MlL6baYOWRZAgN29hzaM4CBFLJsOAMDR+kktQJAe0iHGNB0GtZT9DRNCjL4jeAgjxA3/c4gH+ryUtPMMFHXaGJOPJW9+BW4UK/bw7iJswYDT7KnAoWaXqcasxtiULYm5knUfUbKoDJydG6N8YtCfoDUfS5FGwe5WobeRiLldTmWTAekyT5NriEPkWcQqwsajVr78ZQb7KNvFZNhIrgtOUTUxsQBXpVXlphXAgqwr36icSaHfWIA8crmI+5Czi+HUc+FRTm88MIPLe51di7+B1eGqZsTA/6tg==;F2tAJiJYZPwISVgc6fBpbA=="
 ---

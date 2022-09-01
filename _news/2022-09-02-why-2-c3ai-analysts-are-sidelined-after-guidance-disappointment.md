@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-01T19:58:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/why-2-c3-ai-analysts-are-sidelined-after-guidance-disappointment-1031720367"
 webUrl: "https://markets.businessinsider.com/news/stocks/why-2-c3-ai-analysts-are-sidelined-after-guidance-disappointment-1031720367"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Business Insider

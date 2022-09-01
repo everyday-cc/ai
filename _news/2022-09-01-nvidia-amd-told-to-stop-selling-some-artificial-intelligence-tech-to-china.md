@@ -162,6 +162,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Nvidia Stock Tumbles As US Bans AI Chip Sales To China Clients: AMD Also Hit By New Export Rules"
+    excerpt: "The U.S. government unveiled fresh restrictions on the sale of computing chips for artificial intelligence to China late Wednesday, heaping pressure on Nvidia and Advanced Micro Devices shares."
+    publishedDateTime: 2022-09-01T13:36:00Z
+    webUrl: "https://www.thestreet.com/markets/nvidia-stock-tumbles-as-us-bans-ai-chip-exports-to-china-clients"
+    ampWebUrl: "https://www.thestreet.com/.amp/markets/nvidia-stock-tumbles-as-us-bans-ai-chip-exports-to-china-clients"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/markets/nvidia-stock-tumbles-as-us-bans-ai-chip-exports-to-china-clients"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 78
+    images:
+      - url: "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTgyNzczNTE5NDk3NTY5Njk5/t-mobile_2.jpg"
+        width: 620
+        height: 400
+        isCached: true
   - title: "Machine learning at the edge: The AI chip company challenging Nvidia and Qualcomm"
     excerpt: "Sima AI's machine learning system-on-chip (MLSoC) platform that enables ML deployment and scaling at the edge has started shipping."
     publishedDateTime: 2022-08-30T13:00:00Z
@@ -285,6 +301,20 @@ related:
         width: 619
         height: 377
         isCached: true
+  - title: "US restricts exports of advanced AI chips to China and Russia"
+    excerpt: "The U.S. government has implemented new restrictions that will limit exports of advanced artificial intelligence chips to China and Russia. Nvidia Corp., the leading maker of AI chips, disclosed in a Wednesday regulatory filing that it had been notified of the restrictions on August 26."
+    publishedDateTime: 2022-09-01T19:06:00Z
+    webUrl: "https://siliconangle.com/2022/09/01/us-restricts-exports-advanced-ai-chips-china-russia/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/Hopper-Arch-H100-SXM-Image.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "US limits sales of artificial intelligence chips to China"
     excerpt: "US chipmakers Nvidia and AMD have been required to obtain a new licence, effective immediately, to address the risk of semiconductors being \"used in, or diverted to a 'military end use'... in China and Russia\"."
     publishedDateTime: 2022-09-01T13:01:00Z
@@ -312,6 +342,15 @@ related:
       name: Guru3D.com
       domain: guru3d.com
     quality: 27
+  - title: "HPC-AI Chips in the News: NVIDIA, AMD Ensnared in US-China Trade War; Arm Sues Qualcomm"
+    excerpt: "NVIDIA and AMD, makers of advanced GPUs used in HPC-AI workloads, became embroiled this week in the deteriorating relations and ongoing trade war between the US and the People’s Republic of China. Yesterday,"
+    publishedDateTime: 2022-09-01T19:39:00Z
+    webUrl: "https://insidehpc.com/2022/09/hpc-ai-chips-in-the-news-nvidia-amd-ensnared-in-us-china-trade-war-arm-sues-qualcomm/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 26
   - title: "US restricts NVIDIA from exporting H100, A100 chips to China, Russia"
     excerpt: "US government informs NVIDIA it has restricted the GeForce RTX giant from exporting A100 and H100 server chips to both China and Russia."
     publishedDateTime: 2022-09-01T01:43:00Z

@@ -44,14 +44,14 @@ related:
         height: 576
         isCached: true
   - title: "ROBE Array could let small companies access popular form of AI"
-    excerpt: "ROBE Array, a breakthrough low-memory training technique for deep-learning recommendation models, could put one of the most resource-intensive forms of artificial intelligence within reach of ..."
-    publishedDateTime: 2022-08-29T19:53:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/08/220829143936.htm"
+    excerpt: "A breakthrough low-memory technique by Rice University computer scientists could put one of the most resource-intensive forms of artificial intelligence—deep-learning recommendation models (DLRM)—within reach of small companies."
+    publishedDateTime: 2022-08-29T19:48:00Z
+    webUrl: "https://techxplore.com/news/2022-08-robe-array-small-companies-access.html"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
+      name: techxplore
+      domain: techxplore.com
+    quality: 19
 
 secured: "35n94ezabR2bN93/mdEiZg0XmoFQ4zJpI3tV4AKAI3KGOPRpTV17Wcu8XKyhhwDhWI2oULhopmzj2PAZdVOAUkVUKjmI0Vewqzgxgy15h95qCEmsaTuJbYUUXRamBYecZ1Lo3pZYSP/Io30/gcVn82fT4Vr+JQWgF1S4hNKuWooV8Yk43wFJPbCBjtaY4+562iTaanURrk+gJMSmC6A2+6DlzdRiDbTwWt5WvVM0G4KcMkaFvpKMHadiME89Fuai7ldHIKZWZ52nSuobjp2ek4bQZhDDausxV+KSypdOra02d6EKfnn9bJRwh9/cXvibjMLcCBZB19TRySx4QKqqpylx6Vfq26IGYR92obGgB4FVS14QBLhRhUL0uQ8GCyh9xBBxsiCL6vdXLeGRv35n6qhVLPjxFF2I54DrVoKCzTgQYOSSxyxClNoMK/e+zPI41VOtxJxhzZxJPsRrbupSajdk9Wf3MJ784+n8hWzijamyFsUy2M1H+H+R1ZjEwsGPq0vFoRM+7OgGnGugxJHCPQ==;AS+IRBYqaH/lWczH9lgjgQ=="
 ---

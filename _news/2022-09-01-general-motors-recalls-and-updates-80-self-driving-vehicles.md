@@ -69,6 +69,15 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "GM's Cruise Recalls Self-Driving Software Involved in June Crash"
+    excerpt: "After two people were injured in the incident, Cruise blocked its robot vehicles from making left turns for several weeks before issuing a software update."
+    publishedDateTime: 2022-09-01T19:34:00Z
+    webUrl: "https://www.wired.com/story/gms-cruise-recalls-self-driving-software-involved-in-june-crash/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 34
   - title: "Cruise updates its fleet's self-driving software after crash"
     excerpt: "Autonomous vehicle upstart Cruise has recalled and updated software in 80 self-driving robotaxis, according to a regulatory filing. Read more."
     publishedDateTime: 2022-09-01T17:30:00Z
@@ -83,6 +92,15 @@ related:
         width: 750
         height: 503
         isCached: true
+  - title: "GM Recalled Self-Driving Taxis. It’s a Win for the Technology."
+    excerpt: "Thursday, General Motors self-driving robotaxi company Cruise recalled some of its cars because of a risk of crash. It feels like a set back for all car companies with lofty robotaxi ambitions. Auto makers, including GM (ticker: GM) and Tesla (TSLA), hope ..."
+    publishedDateTime: 2022-09-01T19:58:00Z
+    webUrl: "https://www.barrons.com/articles/gm-recall-self-driving-taxis-51662062231"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 4
 
 secured: "9FfUrGKPYbAC9miwTWlfOsHPf65MbEDAO26PC5vEuXJz40PNPVv9CBKMPIQ3H22IDomLbKh4APEs8xyIyrlYX5Rma/26cQX/MI5VaWTz92mi0lTXzOZmWQfzTQO8S/EVxNuzXNhxV8zalsgu7bxvz0cBUFYOVFxVMpoRU9ns5j+l9crbCDp5ibvi1k5KEzxj3kfDtt0BIXoaqB7CP/tLP3yigNqMsjiMXl2iplZ67fsMIrw6xhzBzJzZvOwZxNsvc4MRkIvlkoX+9t5fH7cFNWdHx2Re4ZsCF1vptVeWqijD3ZTBqe6xVsWJ4P3dXkH7DGLDgj6+RF1WLCMkNcjr4GCI2AnT5iprUjOPjVRptow=;i++ziGiFDSPU14sZJrTwAg=="
 ---

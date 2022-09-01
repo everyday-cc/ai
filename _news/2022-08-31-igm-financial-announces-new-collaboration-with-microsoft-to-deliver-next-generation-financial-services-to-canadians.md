@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Jio Haptik collaborates with Microsoft Azure Cognitive Services to improve existing Hindi conversational AI models"
-    excerpt: "The translation model will enable organizations to offer seamlessly localized and multilingual customer experiences. Jio Mobility is set to address 2M.."
-    publishedDateTime: 2022-08-30T10:21:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/jio-haptik-collaborates-with-microsoft-azure-cognitive-services-to-improve-existing-hindi-conversational-ai-models/93877868"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/jio-haptik-collaborates-with-microsoft-azure-cognitive-services-to-improve-existing-hindi-conversational-ai-models/93877868"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/jio-haptik-collaborates-with-microsoft-azure-cognitive-services-to-improve-existing-hindi-conversational-ai-models/93877868"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 84
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-93877868,imgsize-21916,width-1200,height-628,overlay-etcio/jio-haptik-collaborates-with-microsoft-azure-cognitive-services-to-improve-existing-hindi-conversational-ai-models.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Jio Haptik collaborates with Microsoft Azure to enhance Hindi chatbots"
     excerpt: "The company claims that it has facilitated over 2 million conversations on Jio Mobility with an 80 per cent reduction in human interventions and a 2.5 times increase in localised queries. Jio Haptik at present supports conversation in 130 languages."
     publishedDateTime: 2022-08-31T10:23:00Z
@@ -98,48 +82,6 @@ related:
       - url: "https://th-i.thgim.com/public/incoming/vl3ctm/article65833106.ece/alternates/LANDSCAPE_615/IMG_BL04_FlightInvite_2_1_089LQLRQ.jpg"
         width: 615
         height: 383
-        isCached: true
-  - title: "Canonical, Microsoft Bring Ubuntu on Arm to Azure"
-    excerpt: "“These images provide the familiar Ubuntu experience, with an Azure-optimized kernel and configurations ... application servers, Machine Learning (ML), open-source databases, and in-memory caches.” Ampere Altra is also well suited for new use ..."
-    publishedDateTime: 2022-08-29T17:33:00Z
-    webUrl: "https://www.thurrott.com/cloud/271494/canonical-brings-ubuntu-on-arm-to-azure"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 54
-    images:
-      - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2022/08/datacenter-rack.jpg"
-        width: 1066
-        height: 600
-        isCached: true
-  - title: "Microsoft releases virtual machines on Azure"
-    excerpt: "Uses its Arm-based Ampere Altra Microsoft announced the general availability of virtual machines (VMs) on Azure featuring the Ampere Altra, a processor based on the Arm architecture.  Vole said that the fhe first Azure VMs powered by Arm chips are accessible in 10 Azure regions today and"
-    publishedDateTime: 2022-08-30T10:03:00Z
-    webUrl: "https://www.fudzilla.com/news/memory-and-storage/55404-microsoft-releases-virtual-machines-on-azure"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/89c4601bdb56d5a35560438101ed5cac_L.jpg"
-        width: 620
-        height: 464
-        isCached: true
-  - title: "Innovative Payment Solutions Introduces Voice Command Function for IPSIPay App Through Collaboration with Conversational AI Technology Provider DRUID"
-    excerpt: "William Corbett, IPSI’s Chairman and Chief Executive Officer, commented, “We believe our new collaboration with DRUID will dramatically enhance the functionality of our IPSIPay App, enabling users to execute remittances and other transactions,"
-    publishedDateTime: 2022-08-30T13:17:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-43dd32330de56b40d4b503cdbbed5410"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 4
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "3Lk9vogFbwx1y1NouAe84VNQtwechc/Ks9HRQWyz5ZeRwb+ieUcAIT6ov2S4pdNdnyBfvyt4wnr64S/p63uWzJ6WzrMzKPNA8Zm6CLK0X0iVM1Om00hxfyCmpHWSHsB1RY68VI5mke4V2+2XUztwGsTQT5Touvk5dcMUx9LBfs0uCwrkCba3/0nnkikggqBpSalOfpDSRFQIWQoTMj3pLGvs5KvwX1Syx6oNob9YZ7Lbf2dr5ptvAuMs5uD7AswJyBsHOj0iWRtLN4HmauMcy/WKMfv2d3C9ubuMKmdyCzx80GrML1M0+ngMgPKACqq5J9/YSYmI9e5AJ+7y09G6Xlbh2bj/2oFM9Y2XvzQRsJ4p+u0kJv9YqdPt+HoNRj9pLDJPSf+fkjRCwxucdT4oyBpB+6FnfneRTW/ohEPXnYIKnwYyRwVw0Ao8Bopzwg7wkgcLLLd8cg3adJgZ9k7e87ApAwHQPInEqMLrNs19x5MLGY2YAa3u/tDKe66PUSaNZtrVLATrmxZ8ykzgIhHuaw==;HPdoCwmARVxR+iS8qY6acA=="

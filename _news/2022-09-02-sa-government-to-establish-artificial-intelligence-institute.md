@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-01T18:14:00Z
 originalUrl: "https://techcentral.co.za/sa-government-to-establish-artificial-intelligence-institute/214785/"
 webUrl: "https://techcentral.co.za/sa-government-to-establish-artificial-intelligence-institute/214785/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: TechCentral

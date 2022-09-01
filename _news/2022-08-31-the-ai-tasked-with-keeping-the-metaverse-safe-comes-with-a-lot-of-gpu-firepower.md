@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 926
         isCached: true
+  - title: "Blockchain, AI, and the metaverse — tools for better decision-making?"
+    excerpt: "When it comes to working together, people need help — whether they're in a conference room or in the metaverse. Could technology such as blockchain and AI make a difference?"
+    publishedDateTime: 2022-09-01T07:06:00Z
+    webUrl: "https://www.computerworld.com/article/3672428/blockchain-ai-and-the-metaverse-tools-for-better-decision-making.html"
+    ampWebUrl: "https://www.computerworld.com/article/3672428/blockchain-ai-and-the-metaverse-tools-for-better-decision-making.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3672428/blockchain-ai-and-the-metaverse-tools-for-better-decision-making.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/11/22/busines_communication_network_partnership_collaboration_teams_hiring_by_metamorworks_gettyimages-1159740443_2400x1600-100852686-large-100921745-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Harness the power of the metaverse, blockchain and AI through data centres"
     excerpt: "As the world tries to recover from the grips of COVID-19, the demand for virtual experiences has drastically increased. With new technologies related to the development of computers, graphics, and hardware,"
     publishedDateTime: 2022-08-30T09:03:00Z

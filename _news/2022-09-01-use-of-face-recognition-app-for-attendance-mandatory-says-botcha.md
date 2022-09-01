@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/national/andhra-pradesh/use-of-face-re
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/andhra-pradesh/use-of-face-recognition-app-for-attendance-mandatory-says-botcha/article65837716.ece/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1200
     height: 1200
     isCached: true
+
+related:
+  - title: "Andhra Pradesh: Snags hit facial recognition app on Day 1"
+    excerpt: "Vijayawada: The facial recognition app introduced by the state government for the attendance of teachers which has come into effect on Thursday led to teething problems. Majority of the teachers were reluctant to download the app in their personal mobile and those who downloaded could not register their attendance in time due to technical issues like slow network."
+    publishedDateTime: 2022-09-01T19:15:00Z
+    webUrl: "https://www.thehansindia.com/andhra-pradesh/andhra-pradesh-snags-hit-facial-recognition-app-on-day-1-760016"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 19
 
 secured: "5qzGjKZoZfy5d6iDRDjfx/w+noJ5Yax3dU0+wwW9mEvdLIcgU4wP1KBTQWPRxsxdzwROOxDkEkGF1ukVGqiVen9vcEyWNoFkw+kowjfoQ/ccosZSlXhmYode2u3O7gp/LKLVKvGVwFt14rAJ1Fwi1OEhunL8Upd3nrVRQJ5HNUBQhYuHVspeuXhWRW0sOE9i/9Dh7VrauI5dWm3XYZRzE7RxHQ1KhGb7UoR4p3sGmEC2Z2Hvs7ew4M0XW32VzR5ofxtQC7Kqr+ENdpZfmuhv4vmhykjiMIrFw5npsGqj5/cRfyyPPC+Pk3NUNA7RuEN9pAQBt6O6Q14PYa7665ke2lj3ZQwN5THavCRK27E/5iU=;3QQJ+nluBn544PDnQqjBww=="
 ---

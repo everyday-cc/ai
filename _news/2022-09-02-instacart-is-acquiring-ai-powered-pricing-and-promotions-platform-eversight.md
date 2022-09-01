@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/09/01/instacart-is-acquiring-ai-powered-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/01/instacart-is-acquiring-ai-powered-pricing-and-promotions-platform-eversight/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 596
         height: 350
         isCached: true
+  - title: "Instacart acquires Palo Alto startup Eversight"
+    excerpt: "San Francisco-based grocery delivery firm Instacart has acquired a Palo Alto startup that has developed an AI powered pricing and promotional platform for consumer package goods. The financial details of the acquisition were not made public."
+    publishedDateTime: 2022-09-01T18:38:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2022/09/01/instacart-acquires-palo-alto-startup.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 2
 
 secured: "c4eWmhT9suzgdyFs89EBxRIjdQUe0I34Ai/t8LTJ/CHTc7cBcNHNLNG5w7ZQ9Liz1YPNQgrMuHDJKysnjxV0b79BYx/aqNe1ks86wLl2y9Fkzjo1sefEN0Tr7u8cK8skjhEcVkRnmuLuBDjkvvaZpiosGGN123F0msmcXlMFG+Zg56DqTSHNVmslfp8VBEH4kHQbWWxD1Sd2iCKaeywA8zdShGjvXZDgCgLk2A1bFcJTmZW7fsextPH4K+R9fZZ5adHCeufpNcjDkZCF5Qm7OOCq0OXrKUl0NfOPDj4AELpTZ52xw8VVbgKO2URETj0crRDkB4qN+StUDlqCNRbfTf3jbWPkUD+mdNK7KffB3qgk8c2vM9Nw0yrqni1W9KxrimtuGtQt+RkZkgovbPGZhXIT9HSkyGIuyrJqAjRY+i82n21jbU4+KTLBWNI4tgFzWftfxqdGypFxdv/9kKIRYQnmmzrwoWFx+GojeLBUfo7FJPsXpzUROvmZGEoO9a+002rOKt0kwRk1qN7sdC9Anw==;q+4Y4wMGz795xID5XodBNg=="
 ---

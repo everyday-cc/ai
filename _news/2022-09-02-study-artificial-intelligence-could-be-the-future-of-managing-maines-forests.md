@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-01T19:06:00Z
 originalUrl: "https://www.bangordailynews.com/2022/09/01/news/artificial-intelligence-forest-management/"
 webUrl: "https://www.bangordailynews.com/2022/09/01/news/artificial-intelligence-forest-management/"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: Bangor Daily News

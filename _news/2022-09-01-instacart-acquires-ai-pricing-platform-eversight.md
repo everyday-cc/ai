@@ -40,6 +40,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Instacart acquires Palo Alto startup Eversight"
+    excerpt: "San Francisco-based grocery delivery firm Instacart has acquired a Palo Alto startup that has developed an AI powered pricing and promotional platform for consumer package goods. The financial details of the acquisition were not made public."
+    publishedDateTime: 2022-09-01T18:38:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2022/09/01/instacart-acquires-palo-alto-startup.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 2
 
 secured: "tiYFuEPMZQOEVK+J4VaTx1q9CgsoXqQghN8Wpnr8qlCbbMtjPnLVKKwpOMEDbShKFTeYVOQXqeuH13IpNWoPf4yXXgbHjNCAuoHuky4Sz8yCSLgxu6PCrX+Sq3LC8LhpN+LY6Os3Kq+Mb+xe/8NAoO82PGTpk0KNja6xXeT1OoNHBLwJGGocfarREBXbtusQiFuvmPzaH/0HIk2c9tOIW4Hp98hI+N+GJJXrjps2LoZOTtES6BosBejtqnW4xTnhH2XFb9FQvxMoXDrIeM3gk1zJBx3rCpJF0LdfamWHN9Db1XEXJMlQjx9qb/xSVE4mFAnWPSccOEgolIRZT+eDHvUVUPKyxxPb3gbQOQpDRVPY/tFVJFFor0kwcQB1aiUAPUPAvqdJAeMzfzb1IYXgvCNqnmyHZnIW3xl3m6vuYO48BswabL8jQ2m0CFffzZm2FkWoYcx/rFqv0aBnn75lHUSvAFs/FQkIk+jYBVBXXK+nc4cQOdT8j/sIEBipbQ095UBF2F88mCA552XhG60ppA==;NCxCjAFtsVn1KyPyK3cR0A=="
 ---

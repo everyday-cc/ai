@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-01T19:40:00Z
 originalUrl: "https://arstechnica.com/gaming/2022/09/pixel-art-comes-to-life-fan-upgrades-classic-ms-dos-games-with-ai/"
 webUrl: "https://arstechnica.com/gaming/2022/09/pixel-art-comes-to-life-fan-upgrades-classic-ms-dos-games-with-ai/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Ars Technica

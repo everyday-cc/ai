@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-01T15:26:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/09/g28720713/synaptics-announces-availability-of-the-katana-evaluation-kit-on-edge-impulse-studio-to-accelerate"
 webUrl: "https://www.benzinga.com/pressreleases/22/09/g28720713/synaptics-announces-availability-of-the-katana-evaluation-kit-on-edge-impulse-studio-to-accelerate"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: Benzinga.com

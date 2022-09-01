@@ -1,20 +1,26 @@
 ---
 category: news
 title: "AI-powered service Vidby translates Zelenskyy’s speeches into 50 languages – Denys Krasnikov"
-excerpt: "Meet Alexander Konovalov, Eugen von Rubenberg and Denys Krasnikov - the creators behind the unique machine video translation service called Vidby. Their online translation tool offers an unprecedented 99% translation accuracy - a result that as of now remains unmatched."
-publishedDateTime: 2022-08-23T20:18:00Z
-originalUrl: "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-8-23-ai-powered-service-vidby-translates-zelenskyys-speeches-into-50-languages-denys-krasnikov"
-webUrl: "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-8-23-ai-powered-service-vidby-translates-zelenskyys-speeches-into-50-languages-denys-krasnikov"
+excerpt: "Now, thanks to Vidby, this information is made available in your first language. If you think that an AI-powered translation tool is not something you can afford, you are in for a surprise."
+publishedDateTime: 2022-08-23T18:25:00Z
+originalUrl: "https://www.digitaljournal.com/pr/ai-powered-service-vidby-translates-zelenskyys-speeches-into-50-languages-denys-krasnikov"
+webUrl: "https://www.digitaljournal.com/pr/ai-powered-service-vidby-translates-zelenskyys-speeches-into-50-languages-denys-krasnikov"
 type: article
 
 provider:
-  name: Buffalo News
-  domain: buffalonews.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "DJ2CSXyMxbVo2LaUA38CAShs/ikP6O9runKLzdHEsNKcfTSclXu6+WMIRuS+CgtGRbCzYW2p1iuFCMqPA6GHX40EgvcuCRTA6L9MI8wif6Mng37iKAnos39H2V4KpGOYPOgR7LPhqS9LbXet34I9+wxudbkb6XCzctNp5+CEu5eNG0MR1LrV8lzxnuzdveDR/n2LzW2WUVjpLB86c12eXiRvuL3Cl10+dEAD5maK7UR07scN0PjjCTclayUGOJA48BqenKhO97Ub21ZZueL3tH7LLNKabPqSlyrLvCfWDPTsdjNT0Zm95dgT31Zloq30UaFlN9+6fJrOW3i8XkIwYKlkPsl2s3a1FZ5GofpGjN1xJM+yPWALotsh+XdYoyfq/fNA5p2Pjg74OPil51R+LpOFUtf/dHWopNJTyEEAPlBz57iEQKIDwoiBxHCDqJvkb5+7hvkJrdbt7tTN78xsB4Vpr2OKszO8sOQk431xHhLjeG2uua5tJRHERLXIld4SvNpOQWQB2jQzacjfq/wffw==;fpmWxFmHeNR4bsflJIf2Pw=="
+images:
+  - url: "https://www.abnewswire.com/uploads/1661205013.jpeg"
+    width: 1024
+    height: 768
+    isCached: true
+
+secured: "rIV3DH56QJGS14LZuvxlofU09uJAmLEmorJFUzhuXqwcvz6Y96B3QhEPLdGXoWXru0xh4UwTsyYZcEuf71BQyrkPWk+dm4PXalhzotCWHiuSznTwqEBmOMsZjeGP7/Z4KUKpjy4D3RXu+JUhfQ6MBcHoLR/CQGycVTLnCzPcJ/eFiQNGGTh9a3FGRkVuvhvw9BhjHU4tJCsfPa3w8rwqCQuQUt8Ain51+J+L9iM4tDCMg5Ebp6krr6trt6dCG4Fq5i8y2/hbRDsjseKd/J07L76xknNhmJd68gcjL5Ax1dsU+1WMHtz9wskc/tfX0yODeOxtd8p1BDXSoJfXE9JgLBiTOKr8DZAhbOQqMwlr67g=;wQeLjLUOdlU3FqGp1KX39Q=="
 ---
 
