@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Autos
 
 related:
   - title: "See How This AI Analyzes Breathing Patterns For Early Detection Of Parkinson’s"

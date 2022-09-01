@@ -1,29 +1,20 @@
 ---
 category: news
-title: "The Democratization Of Machine Learning: Here’S How Applied Machine Learning Days (AMLD) Africa Impacted (Almost) The Whole Continent"
-excerpt: "AMLD Africa ( ), a free Machine Learning conference, makes it possible for anyone in Africa to learn about AI with world-class speakers and e"
-publishedDateTime: 2022-09-01T06:41:00Z
-originalUrl: "https://menafn.com/1104792111/The-Democratization-Of-Machine-Learning-HereS-How-Applied-Machine-Learning-Days-AMLD-Africa-Impacted-Almost-The-Whole-Continent"
-webUrl: "https://menafn.com/1104792111/The-Democratization-Of-Machine-Learning-HereS-How-Applied-Machine-Learning-Days-AMLD-Africa-Impacted-Almost-The-Whole-Continent"
+title: "The Democratization of Machine Learning: Here’s how Applied Machine Learning Days (AMLD) Africa impacted (almost) the whole continent"
+excerpt: "AMLD Africa ( a free Machine Learning conference, makes it possible for anyone in Africa to learn about AI with world-class speakers and entities.  15.7 trillion US$. This is the expected contribution of Artificial Intelligence to the global economy by 2030 according to PwC’s report “Sizing the Price” ( Here’s how Applied Machine Learning Days (AMLD) Africa is offering free access to high-quality education around AI to democratize AI in Africa,"
+publishedDateTime: 2022-09-01T06:04:00Z
+originalUrl: "https://www.zawya.com/en/press-release/africa-press-releases/the-democratization-of-machine-learning-heres-how-applied-machine-learning-days-amld-africa-impacted-almost-bai0nowi"
+webUrl: "https://www.zawya.com/en/press-release/africa-press-releases/the-democratization-of-machine-learning-heres-how-applied-machine-learning-days-amld-africa-impacted-almost-bai0nowi"
 type: article
-quality: 23
-heat: 23
-published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Zawya
+  domain: zawya.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?578832"
-    width: 363
-    height: 250
-    isCached: true
-
-secured: "ChuojXj7Bm55o6AV53hRUmWTBnC/k3C/BQETP5MsSwShTrTHrlLItQzoZRd5QEGNIWFqf1NI+QOpox3k28ndRMJQRyx0ZUHcd/HAPvmCRSpfnRoG0J2/026c7eIrFW3mzihXs50wtm0X0bx7YpxQA//w6V4ooNKyTyc7jYYz1hTys/XOfJtFfMPDhZQtNDwZf+Bhxh2Tc6vsucvZqlB3IIowKGriovwnzoKC2cwIQG2z7EoOrMvU9nuqZ0aP+r3epNoWByAhvl/EFNp9a0cDYG1AouXUxlPiBH0tuikqtSJYzj8TMAK/rS8qyOhM3s613F7n78yT6WvCyZVElCVCJVINn9IO0xkoL3U3JnMg4V4=;UghGGZA4UIsIfXfdCAA/2Q=="
+secured: "Xtwpwf4uw0ZNUHQMMslZ/4hmeJwic/ZOMQ2IH4DGGG4kbXxZlPUgxl7RisqzEu04+9DvpHIlz3LUzJocjPbWXLDqahMRGvpcgWLG8h/QFD66+pwailMZ1VV3a1PO4MMoMENgqNa2HwVI9iHLyVFvcJ5VZe0jvL70v4KmufzKm8Zb2ghKLDJ3n9TTaQKsvhe0p5swudawAXLSitVm37LMVy0CxQhk1aAcg35d0jE77pt9bl6GbdwQ2ThwB/d5JRrboCEMi3viVDOIrB2FAGmUJmBlbJ402ndcokhYa8Fn4MBj0c0YK+24L0CpBwF5Py2WeDjZ1Y6D55BOTRYBaOHTDd8h6A+5EWWdFyvDIZgmA45eLJjoIqcCZuMAcG1pFwez/xNycAUqbZ5GL2FKpfyw3cblgx2+I/SNrmFzyLp8ik5RktWlkvoESSnbqqJ413X8EH8knyYLhyOaeWhHp1AVWk82FVcF6CThYK3iVERlYNNjjxhIwUazLpVEpLj0AfJnZAq9mT8a8d5baZKVH8jRJQ==;8peTeLrccQACOi8Esj0OdQ=="
 ---
 
