@@ -7,8 +7,8 @@ originalUrl: "https://www.rcrwireless.com/20220829/telco-cloud/microsoft-applyin
 webUrl: "https://www.rcrwireless.com/20220829/telco-cloud/microsoft-applying-cloud-security-principles-to-open-ran-networks"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: RCR Wireless News
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Challenges Intelligence Agency's $1B Task Order to Amazon"
+    excerpt: "The National Geospatial-Intelligence Agency went down the sole-source route, which of course led to a protest."
+    publishedDateTime: 2022-09-01T09:00:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2022/09/amazon-microsoft-rivalry-now-turns-1b-nga-contract/376595/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 41
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2022/08/31/NGAcloudWT20220831-1/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Microsoft opens first global datacenter region in Qatar, bringing new opportunities for a cloud-first economy"
     excerpt: "Microsoft announced the launch of its new datacenter region in Qatar, marking a major milestone for Microsoft as the first hyperscale cloud provider to deliver enterprise-grade services in the country."
     publishedDateTime: 2022-08-31T21:02:00Z

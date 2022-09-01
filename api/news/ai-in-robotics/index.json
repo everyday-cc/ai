@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-01-robots-that-stock-drinks-at-convenience-stores-aim-to-automate-all-boring-jobs-done-by-humans.md",
+      "title": "Robots that stock drinks at convenience stores aim to automate all 'boring jobs done by humans'",
+      "excerpt": "Telexistence, a robot company that operates out of Tokyo, is looking to use a robot, named TX SCARA, to replace 'repetitive' and 'boring' jobs currently done by humans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/robots-that-stock-drinks-convenience-stores-aim-automate-all-boring-jobs-done-humans",
+      "originalUrl": "https://www.foxbusiness.com/technology/robots-that-stock-drinks-convenience-stores-aim-automate-all-boring-jobs-done-humans",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/9359a89b-97a9-4b0a-afd5-2125fa888aee/22643dbc-e676-4908-a992-1ae138af5871/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/technology/robots-that-stock-drinks-convenience-stores-aim-automate-all-boring-jobs-done-humans.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/robots-that-stock-drinks-convenience-stores-aim-automate-all-boring-jobs-done-humans.amp",
+      "publishedDateTime": "2022-08-31T22:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-31-unilag-trains-youths-on-coding-robotics-programming.md",
       "title": "UNILAG Trains Youths on Coding, Robotics Programming",
       "excerpt": "Yinka-Banjo disclosed this at the Undergraduate Robotics Challenge, powered by Coderina and the closing ceremony of the 2022 one month summer coding and robotics programme. The programme is aimed at introducing young beginners to the field of robotics and progressively leadin them from basic concepts to actual work with robots.",
@@ -303,6 +346,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-28-startup-develops-ai-that-makes-call-center-employees-sound-like-white-american-robots.md",
+      "title": "Startup develops AI that makes call center employees sound like white, American robots",
+      "excerpt": "This time around, Palo Alto-based startup Sanas has introduced to the world an AI with the goal of making foreign call center employees sound accent-neutral, and the effect of making them sound white.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/ai-startup-makes-call-center-foreigners-sound-white",
+      "originalUrl": "https://mashable.com/article/ai-startup-makes-call-center-foreigners-sound-white",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/06flaA2qTkuYtTU1N3cKsg0/hero-image.fill.size_1200x675.v1661618885.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-27T17:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1303,84 +1389,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-20-hyosung-donates-ai-care-robots-to-older-veterans.md",
-      "title": "Hyosung donates AI care robots to older veterans",
-      "excerpt": "Pibo, an AI care robot developed by a South Korean startup, Circulus, offers information such as news and weather while also monitoring the user’s body temperature and heart rate. It also ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreaherald.com/view.php?ud=20220819000554",
-      "originalUrl": "https://www.koreaherald.com/view.php?ud=20220819000554",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Herald",
-        "domain": "koreaherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-robotics-and-automation-are-the-future-of-healthcare.md",
-      "title": "Robotics and automation are the future of healthcare",
-      "excerpt": "Advanced technologies, such as AI-guided robotics and automation, offer a potential solution to the provider shortage by freeing healthcare professionals from repetitive and time-consuming tasks and allow clinicians to focus on tasks that require a specialized touch.",
-      "sourceUrl": null,
-      "webUrl": "https://medcitynews.com/2022/08/robotics-and-automation-are-the-future-of-healthcare/",
-      "originalUrl": "https://medcitynews.com/2022/08/robotics-and-automation-are-the-future-of-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medcitynews.com/uploads/2020/12/GettyImages-1158546914.jpg",
-          "width": 703,
-          "height": 497,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedCity News",
-        "domain": "medcitynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

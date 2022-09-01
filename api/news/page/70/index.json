@@ -2,6 +2,100 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2022-07-04-facial-recognition-works-on-seals-no-really.md",
+      "title": "Facial recognition works on seals. No, really.",
+      "excerpt": "SealNet is a brand new facial recognition for, you guessed it, seals. Biologists have been training and testing it in Maine for two years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/environment/facial-recognition-software-seals/",
+      "originalUrl": "https://www.popsci.com/environment/facial-recognition-software-seals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2022/07/01/baby-harbor-seal-facial-recognition.jpg?auto=webp",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/environment/facial-recognition-software-seals/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/environment/facial-recognition-software-seals/?amp",
+      "publishedDateTime": "2022-07-03T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-04-employee-experience-automation-human-ai-care-for-your-workforce.md",
+      "title": "Employee experience automation: Human-AI care for your workforce",
+      "excerpt": "Apps for AI-enabled automation are for more than customer support and engagement. They offer value for many people-management activities.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/03/employee-experience-automation-human-ai-care-for-your-workforce/",
+      "originalUrl": "https://venturebeat.com/2022/07/03/employee-experience-automation-human-ai-care-for-your-workforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1169246375.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/03/employee-experience-automation-human-ai-care-for-your-workforce/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/03/employee-experience-automation-human-ai-care-for-your-workforce/amp/",
+      "publishedDateTime": "2022-07-03T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-04-ai-image-generation-sharpens-your-bad-photos-and-kills-photography.md",
       "title": "AI Image Generation Sharpens Your Bad Photos And Kills Photography?",
       "excerpt": "We don’t fully understand the appeal of asking an AI for a picture of a gorilla eating a waffle while wearing headphones is worthwhile. However, [Micael Widell] shows something in a recent",
@@ -1002,110 +1096,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-02-the-gpu-shortage-is-over.md",
-      "title": "The GPU shortage is over",
-      "excerpt": "We’ve liveblogged and livetweeted that hell of trying to buy a GPU online, fighting against an army of bots to navigate the buggy websites of retailers who didn’t have enough reason to care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/7/1/23191634/nvidia-amd-gpu-shortage-over-3080-3070-3060-radeon-rx-6900-6800",
-      "originalUrl": "https://www.theverge.com/2022/7/1/23191634/nvidia-amd-gpu-shortage-over-3080-3070-3060-radeon-rx-6900-6800",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/OTpmptgr7XcTVAJ27UBvIxl0vrg=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22049166/shollister_201117_4303_0003.0.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-01T18:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-02-driverless-cruise-robotaxis-stop-working-simultaneously-blocking-san-francisco-street.md",
-      "title": "Driverless Cruise robotaxis stop working simultaneously, blocking San Francisco street",
-      "excerpt": "A group of driverless Cruise robotaxis blocked traffic in San Francisco for hours on Tuesday evening after the cars stopped working without explanation. Cruise, which is backed by General Motors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/7/1/23191045/cruise-robotaxis-driverless-roadblock-san-francisco",
-      "originalUrl": "https://www.theverge.com/2022/7/1/23191045/cruise-robotaxis-driverless-roadblock-san-francisco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/vSc5PYoYxxqOvEWljQwateFk-sY=/0x92:2202x1245/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23665440/Screenshot_2022_07_01_at_11.47.43.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-01T17:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

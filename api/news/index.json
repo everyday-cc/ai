@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-01-ai-in-fintech-market-will-reach-more-than-61-billion-by-2031.md",
+      "title": "AI In Fintech Market Will Reach More Than $61 Billion, By 2031",
+      "excerpt": "Artificial Intelligence has been growing its influence in Fintech, and is projected to hit $61 billion in under 10 years. We tell you how.",
+      "sourceUrl": null,
+      "webUrl": "https://www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/",
+      "originalUrl": "https://www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.investingcube.com/wp-content/uploads/2022/06/Crypto-wallet.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/amp/",
+      "cdnAmpWebUrl": "https://www-investingcube-com.cdn.ampproject.org/c/s/www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/amp/",
+      "publishedDateTime": "2022-09-01T00:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestingCube",
+        "domain": "investingcube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-robots-that-stock-drinks-at-convenience-stores-aim-to-automate-all-boring-jobs-done-by-humans.md",
+      "title": "Robots that stock drinks at convenience stores aim to automate all 'boring jobs done by humans'",
+      "excerpt": "Telexistence, a robot company that operates out of Tokyo, is looking to use a robot, named TX SCARA, to replace 'repetitive' and 'boring' jobs currently done by humans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/robots-that-stock-drinks-convenience-stores-aim-automate-all-boring-jobs-done-humans",
+      "originalUrl": "https://www.foxbusiness.com/technology/robots-that-stock-drinks-convenience-stores-aim-automate-all-boring-jobs-done-humans",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/9359a89b-97a9-4b0a-afd5-2125fa888aee/22643dbc-e676-4908-a992-1ae138af5871/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/technology/robots-that-stock-drinks-convenience-stores-aim-automate-all-boring-jobs-done-humans.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/robots-that-stock-drinks-convenience-stores-aim-automate-all-boring-jobs-done-humans.amp",
+      "publishedDateTime": "2022-08-31T22:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-how-ai-is-helping-anonymize-clinical-trial-submissions.md",
       "title": "How AI Is Helping Anonymize Clinical Trial Submissions",
       "excerpt": "Anonymization of clinical trial submissions is tricky and risks regulatory penalties. Here’s how AI can help protect patient data privacy while ensuring transparency.",
@@ -10,7 +96,7 @@
       "originalUrl": "https://www.forbes.com/sites/ganeskesari/2022/08/31/how-ai-is-helping-anonymize-clinical-trial-submissions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -107,49 +193,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-01-ai-in-fintech-market-report-2022-27-size-share-growth-trends-and-forecast.md",
-      "title": "AI in Fintech Market Report 2022-27: Size, Share, Growth, Trends And Forecast",
-      "excerpt": "The global AI in fintech market reached a value of US$ 9.4 Billion in 2021. Looking forward, IMARC Group expects the market to reach US$ 36.1 Billion by 2027, exhibiting at a CAGR of 26.1% during 2022-2027.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/08/ab28710855/ai-in-fintech-market-report-2022-27-size-share-growth-trends-and-forecast",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/08/ab28710855/ai-in-fintech-market-report-2022-27-size-share-growth-trends-and-forecast",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1661925524.jpeg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28710855",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28710855",
-      "publishedDateTime": "2022-08-31T17:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-01-nvidia-says-us-order-restricts-sales-of-ai-chips-to-china.md",
       "title": "Nvidia Says US Order Restricts Sales of AI Chips to China",
       "excerpt": "New licensing requirements come amid concern that the chips could be put to military use, the chipmaker says in a regulatory filing.",
@@ -158,7 +201,7 @@
       "originalUrl": "https://www.cnet.com/tech/nvidia-says-us-order-restricts-sales-of-ai-chips-to-china/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 221,
+      "heat": 241,
       "tags": null,
       "images": [
         {
@@ -314,7 +357,7 @@
       "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/08/31/gaining-insights-from-private-data-using-federated-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1187,49 +1230,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-mits-ai-model-can-detect-parkinsons-by-tracking-breathing-patterns.md",
-      "title": "MITs AI model can detect Parkinsons by tracking breathing patterns",
-      "excerpt": "The U.S. Dina Katabi Dina Katabi, the Thuan and Nicole Pham Professor in the Department of Electrical Engineering and Computer Science (EECS) at MIT and principal investigator at MIT Jameel Clinic, and her team have developed an artificial intelligence model that can detect Parkinson’s just from reading a person’s breathing patterns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.poandpo.com/in-sickness-and-health/mit_s_ai_model_can_detect_parkinson_s_by_tracking_breathing_patterns/",
-      "originalUrl": "https://www.poandpo.com/in-sickness-and-health/mit_s_ai_model_can_detect_parkinson_s_by_tracking_breathing_patterns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/scotfiles/image/fetch/https://www.histerius.com/hs0822/dina_katabi.jpg",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.poandpo.com/in-sickness-and-health/mit_s_ai_model_can_detect_parkinson_s_by_tracking_breathing_patterns.amp",
-      "cdnAmpWebUrl": "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/in-sickness-and-health/mit_s_ai_model_can_detect_parkinson_s_by_tracking_breathing_patterns.amp",
-      "publishedDateTime": "2022-08-30T04:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "poandpo.com",
-        "domain": "poandpo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

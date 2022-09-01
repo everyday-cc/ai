@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxbusiness.com/technology/robots-that-stock-drinks-conv
 cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/robots-that-stock-drinks-convenience-stores-aim-automate-all-boring-jobs-done-humans.amp"
 type: article
 quality: 62
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Fox Business
@@ -25,6 +25,19 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Robot that stocks drinks is newest thing at the corner store"
+    excerpt: "A small robot with a clip-like hand and the smarts to know which drinks are popular is part of an effort to make convenience stores even more convenient."
+    publishedDateTime: 2022-09-01T08:45:00Z
+    webUrl: "https://www.seattletimes.com/business/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/"
+    ampWebUrl: "https://www.seattletimes.com/business/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
 
 secured: "wK+TRrq1euUcEOOtRFhrwHu/U/Q6JJlpF08cf89ZDe/zd5mnMNO0j+2AnKJDDXjeirlbSW/ot1ncLad1GQ/hdJ5Elz9Xf/1bVhVzB7PbzC++qvnBTtbFUbo+jEQQgVBLKwZjdlGruzhYOO7papddWB3PkPohw5Yo6O0Bg3rLai0GUKk72LbCFZXN5MWd4CuKwOju0tp6FyuNsPGNVM9XdDyA1thJueN3CTOC2PFpntpxXNko4zL99QociPVBD6aD2nadU5nX5NiiWTB5ptPOKE445ZnP50ImmYs/kkbuWxyxxmxliilo1j1YWirqL1gtP8hAEQLbO8iqtU3Hjw9LQ7gM7wKL+qMqBwhcGVPyhzsFIZvCg/p2VyaKVu6YQRz0tFjMRXZcGIAgRftgaNshlphOgQOtd+cJ9VNGuIr82916RiWFk49aNx+SFycMd/6Qlgo7x3AO/5dojzKh39DF+UTSFknnJNoR1r6SAjGYAcEM5UksGwQY1KKbTHLUS0alTBFwDp5MyPEEwofmXbZZAw==;WHO+4pJtFizh30Hdw/05aA=="
 ---

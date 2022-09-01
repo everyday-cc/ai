@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2022/08/28/the-labor-shortage-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2022/08/28/the-labor-shortage-is-killing-american-manufacturing-heres-how-ai-can-bring-it-back-to-life/amp/"
 type: article
 quality: 75
-heat: 85
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Startup develops AI that makes call center employees sound like white, American robots"
+    excerpt: "This time around, Palo Alto-based startup Sanas has introduced to the world an AI with the goal of making foreign call center employees sound accent-neutral, and the effect of making them sound white."
+    publishedDateTime: 2022-08-28T00:48:00Z
+    webUrl: "https://mashable.com/article/ai-startup-makes-call-center-foreigners-sound-white"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 76
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/06flaA2qTkuYtTU1N3cKsg0/hero-image.fill.size_1200x675.v1661618885.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "SiMa.ai, a U.S. startup by Indian-American founder, starts shipping machine learning chip and system"
     excerpt: "Silicon Valley-based SiMa.ai, a machine learning startup founded by Indian American, Krishna Rangasayee, and backed by Fidelity Management & Research Company, said on Tuesday, August 30, 2022, it started shipping chips and systems to customers that are testing them,"
     publishedDateTime: 2022-08-30T14:18:00Z

@@ -2,25 +2,19 @@
 category: news
 title: "BitOoda Partners with CoreWeave to Deliver High Performance Compute Solutions for Financial Markets"
 excerpt: "BitOoda, a pioneering Digital Asset investment Bank, announced a partnership with CoreWeave, the leading specialized cloud provider of high-performance compute solutions. The partnership will accelerate the penetration of CoreWeave’s services for compute-heavy workloads in financial applications."
-publishedDateTime: 2022-08-19T20:08:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-4be82c565d7c4bb5876d514f0fc3386a"
-webUrl: "https://apnews.com/press-release/business-wire/technology-4be82c565d7c4bb5876d514f0fc3386a"
+publishedDateTime: 2022-08-19T22:08:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-19-bitooda-partners-with-coreweave-to-deliver-high-performance-compute-solutions-for-financial-markets"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-19-bitooda-partners-with-coreweave-to-deliver-high-performance-compute-solutions-for-financial-markets"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "+LQyWJ4v/i2us3qYbPw+cMBNLssOAaYjRxSn90gprOuiToCdhy8c3mYOYKdTfIkbop6i/irwh+z0C8QsIwSButXWljNkvdZhQcOk8hLh1xh+O24w3Rdq5xuZVcfKkIKq3lsj0yCeBCYBc4XHkNMb+YUCfFThjJBTsp0CgkYpVCLjJZpycOSU3jzrC+KwRBahU0eij5OGk16CcSOOBvGrkePS0LCinK8Q1X113pxMegnD24MXn4hXvErs3RQIgmvcBrhiXgmVCuzn14Fc2cBNnFwVjsC4L9ZlhGVOjXQe9m1fL7Xb1ZH4RsU2F5p0xXGopS57D3LaQRU+f9BBKO+Fe16b1ArvBkeY91DczgnkOvk=;tH5nw7fEoQTp9EBnpgFskg=="
+secured: "88JeRp8cDSi3yDHuUMMkUswvIeBUuTFw5OECeFEYyyl+z5QAdfU3v15ZPEtirTOOO4hqgGVKUhbwyTPTKk9Z5z5WaUiiwZiT5OcUzsRg0V+CBIkR0jVxacG7aURRRldAdVg+CC98NlpxR/bq3GJGRTuJSc3kVjw8u+TkWuEW/2x7uxHJzvcIjBVDTNAx5qdp6CZ/8/3cYudIRmbg1f5sMDgeONRR7cYlXba68VuoOHjAmU4py1wDYSvmy23mTR4ClpKIag0krgoSRA/nJYT8GSGAMcd88fCeO+GEnMckoPYAerDE9gyuBCZaYIni+I8Z9yS2xTpkDpAVY1UYRyXrOogZMr+v7CRrjLGOsHLpmsI=;AdAc6OscPcKaoyQw73dL6A=="
 ---
 

@@ -2,6 +2,91 @@
   "page": 117,
   "value": [
     {
+      "path": "_news/2022-06-01-ai-in-fintech-market-2022-2030-scope-and-overview-growth-opportunity.md",
+      "title": "AI in Fintech Market 2022-2030 Scope and overview, Growth Opportunity",
+      "excerpt": "Jun 01, 2022 (Alliance News via COMTEX) -- Report Ocean published the latest research report on the AI in Fintech market. In order to comprehend a market holistically, a variety of factors must be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-2022-2030-scope-and-overview-growth-opportunity-2022-06-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-2022-2030-scope-and-overview-growth-opportunity-2022-06-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T04:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-artificial-intelligence-in-drug-discovery-market-research-report-2022-researchandmarketscom.md",
+      "title": "Artificial Intelligence in Drug Discovery Market Research Report 2022 - ResearchAndMarkets.com",
+      "excerpt": "The \"Artificial Intelligence In Drug Discovery Market Size, Share & Trends Analysis Report by Application (Drug Optimization & Repurposing, Preclinical Testing), by Therapeutic Area, by Region, and Segment Forecasts,",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-1-artificial-intelligence-in-drug-discovery-market-research-report-2022-researchandmarketscom",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-1-artificial-intelligence-in-drug-discovery-market-research-report-2022-researchandmarketscom",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T04:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-01-the-race-to-hide-your-voice.md",
       "title": "The Race to Hide Your Voice",
       "excerpt": "Voice recognition—and data collection—have boomed in recent years. Researchers are figuring out how to protect your privacy.",
@@ -987,102 +1072,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-tensorflow-now-defaults-to-intel-onednn-ai-optimizations.md",
-      "title": "TensorFlow now defaults to Intel oneDNN AI optimizations",
-      "excerpt": "OneDNN is an open-source cross-platform library intended for devs of deep learning applications and frameworks such as TensorFlow.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/31/tensorflow-now-defaults-to-intel-onednn-ai-optimizations/",
-      "originalUrl": "https://venturebeat.com/2022/05/31/tensorflow-now-defaults-to-intel-onednn-ai-optimizations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1216705894-e1644616451773.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/31/tensorflow-now-defaults-to-intel-onednn-ai-optimizations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/31/tensorflow-now-defaults-to-intel-onednn-ai-optimizations/amp/",
-      "publishedDateTime": "2022-05-31T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-google-assistant-personalized-speech-recognition-makes-the-ai-better.md",
-      "title": "Google Assistant Personalized Speech Recognition Makes The AI Better",
-      "excerpt": "... up to provide even better results to voice commands on a personal level thanks to newly-spotted “Personalized speech recognition” features. That’s based on an APK teardown of the latest Google app release performed by 9to5Google. Specifically ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2022/05/google-assistant-personalized-speech-recognition-makes-the-ai-better.html",
-      "originalUrl": "https://www.androidheadlines.com/2022/05/google-assistant-personalized-speech-recognition-makes-the-ai-better.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2022/02/00-Google-Assistant-speed-DG-AH-2022.jpg",
-          "width": 1600,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/2022/05/google-assistant-personalized-speech-recognition-makes-the-ai-better.html/amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/05/google-assistant-personalized-speech-recognition-makes-the-ai-better.html/amp",
-      "publishedDateTime": "2022-05-31T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

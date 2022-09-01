@@ -98,6 +98,50 @@
       ]
     },
     {
+      "path": "_news/2022-08-29-microsoft-applying-cloud-security-principles-to-open-ran-networks.md",
+      "title": "Microsoft applying cloud security principles to Open RAN networks",
+      "excerpt": "As 5G become smore cloudified, Microsoft is leveraging its cloud expertise to bring a zero-trust approach to Open RAN and other networks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rcrwireless.com/20220829/telco-cloud/microsoft-applying-cloud-security-principles-to-open-ran-networks",
+      "originalUrl": "https://www.rcrwireless.com/20220829/telco-cloud/microsoft-applying-cloud-security-principles-to-open-ran-networks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rcrwireless.com/wp-content/uploads/2016/11/microsoft-big-logo-altered.jpg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RCR Wireless News",
+        "domain": "rcrwireless.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-08-26-microsoft-and-bytedance-are-collaborating-on-a-big-ai-project-even-as-us-china-rivalry-heats-up.md",
       "title": "Microsoft and ByteDance are collaborating on a big AI project, even as US-China rivalry heats up",
       "excerpt": "Microsoft and TikTok parent ByteDance are working together on a software project intended to help companies more efficiently run AI apps.",
@@ -1122,18 +1166,27 @@
       "title": "Build Up Your Cognitive Reserves to Lower Your Risk of Dementia",
       "excerpt": "Using data from a national survey of health and development that began in 1946, the researchers looked at the cognitive reserves of more than 1,000 study participants at 69 years of age.",
       "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/cravings/202208/build-your-cognitive-reserves-lower-your-risk-dementia",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/cravings/202208/build-your-cognitive-reserves-lower-your-risk-dementia",
+      "webUrl": "https://www.psychologytoday.com/intl/blog/cravings/202208/build-your-cognitive-reserves-lower-your-risk-dementia",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/cravings/202208/build-your-cognitive-reserves-lower-your-risk-dementia",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-08/pexels_pixabay.jpeg.jpg?itok=LiTSREAH",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T16:27:00-07:00",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/cravings/202208/build-your-cognitive-reserves-lower-your-risk-dementia?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/cravings/202208/build-your-cognitive-reserves-lower-your-risk-dementia?amp",
+      "publishedDateTime": "2022-08-18T16:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Psychology Today",
@@ -1250,49 +1303,6 @@
         "name": "InfoQ",
         "domain": "infoq.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-professional-cloud-services-market-size-projections-future-opportunities-recorded-for-the-period-2022-2031.md",
-      "title": "Professional Cloud Services Market Size Projections & Future Opportunities Recorded for the Period 2022-2031",
-      "excerpt": "The professional cloud services market was valued at USD 21.51billion and is expected to reach a value of USD 57.54 billion, at a CAGR of 17.76 %, during the forecast period. The increase in the use of Artificial Intelligence (AI) with a growing focus on digital transformation initiatives are expected to provide growth opportunities for cloud services market - Moreover,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/professional-cloud-services-market-size-projections-future-opportunities-recorded-for-the-period-2022-2031-2022-08-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/professional-cloud-services-market-size-projections-future-opportunities-recorded-for-the-period-2022-2031-2022-08-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

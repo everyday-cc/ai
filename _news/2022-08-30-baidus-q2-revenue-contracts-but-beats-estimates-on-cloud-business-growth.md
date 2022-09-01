@@ -9,8 +9,8 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/international/baidu-s-
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/baidu-s-q2-revenue-contracts-but-beats-estimates-on-cloud-business-growth-122083000785_1.html"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Business Standard
@@ -27,17 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu Revenue Contracts but Beats Estimates on Cloud Business Growth"
-    excerpt: "China's search engine giant Baidu Inc beat quarterly revenue estimates on Tuesday, underpinned by growth in its cloud business, even as it reported its first year-on-year quarterly revenue contraction in two years."
-    publishedDateTime: 2022-08-30T09:00:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2022-08-30/baidu-beats-quarterly-revenue-estimates"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2022-08-30/baidu-beats-quarterly-revenue-estimates?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-08-30/baidu-beats-quarterly-revenue-estimates?context=amp"
+  - title: "Baidu revenue contracts but beats estimates on cloud business growth"
+    excerpt: "Revenue at Baidu’s AI Cloud unit grew 31% year-on-year in the quarter. Baidu has also been doubling down on self-driving technologies, in which it has heavily invested over the past five years."
+    publishedDateTime: 2022-08-30T13:18:00Z
+    webUrl: "https://www.euronews.com/next/2022/08/30/baidu-results"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 69
+      name: Euronews (Spain)
+      domain: euronews.com
+    quality: 39
+    images:
+      - url: "https://static.euronews.com/articles/wires/874/96/8749602/1000x563_qr8u3.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Baidu Swings Back to Profit Even as Revenue Slips"
     excerpt: "In the three months through June, Baidu reported a net profit of 3.6 billion yuan ($526.9 million), compared with a 583 million yuan loss a year ago, according to its earnings report released on Tuesday."
     publishedDateTime: 2022-08-31T11:47:00Z

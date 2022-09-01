@@ -71,6 +71,15 @@ related:
         width: 337
         height: 337
         isCached: true
+  - title: "How AI is accelerating front-end innovation"
+    excerpt: "Artificial intelligence (AI) is emerging as a valuable tool for food and beverage makers looking to bolster front-end innovation. Manufacturers, restaurants, ingredient suppliers, flavor houses and more are leveraging insights from machine learning to get closer to consumer trends and market more nuanced propositions."
+    publishedDateTime: 2022-08-31T12:12:00Z
+    webUrl: "https://www.foodbusinessnews.net/articles/22103-how-ai-is-accelerating-front-end-innovation"
+    type: article
+    provider:
+      name: FoodBusinessNews
+      domain: foodbusinessnews.net
+    quality: 17
 
 secured: "/gxBXgTV+yYjnlw97eH87oOdV8XWEc0M8VrQ5vOaPLjcjyFJfdu2rExx5X75mO3+dcF65POx1qfKBLPU6N7GZSgQr9SBq8qN0iLT/rlQ1GFSKVrVEszSbuQDLlpynS5sknsX80jgglKqVPuvi/zlxesImS+eHeZNqpIeTFRqS94qG8CfdEZ0a2jbQmHaR5SBT3uRCJ0mX14yvPf9GzQ2dGlp7nKK/tfe01sOhBpHqd5BwMLZFzFFTDFhw3GlK20EHoIPJZUq12M47SOIGosl7bpNa5B/Lkqz7qo5hNHqPGrqCpezkg21v7Zu0uuyTPDge+tG9xoTEbilco6YHSLAHsvCAhbvRIdr/R+kLAlYYlw=;uk1Od6NllItlQjwLQO1L+g=="
 ---

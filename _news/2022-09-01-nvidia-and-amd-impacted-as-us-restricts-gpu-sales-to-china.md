@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "NVIDIA reveals new US government rule restricting export of AI chips to China and Russia"
+    excerpt: "As The New York Times notes, AI and machine learning are used for various applications that include weapons development and surveillance. A US Department of Commerce spokesperson told Reuters: \"While we are not in a position to outline specific policy ..."
+    publishedDateTime: 2022-09-01T07:02:00Z
+    webUrl: "https://www.engadget.com/nvidia-government-rule-restricting-export-ai-chips-china-russia-061846437.html"
+    ampWebUrl: "https://www.engadget.com/amp/nvidia-government-rule-restricting-export-ai-chips-china-russia-061846437.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/nvidia-government-rule-restricting-export-ai-chips-china-russia-061846437.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 95
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-08/9b3ca8c0-2479-11ed-bfbd-99225c168e56"
+        width: 6000
+        height: 4000
+        isCached: true
   - title: "US blocks sales of some AI chips to China as tech crackdown intensifies"
     excerpt: "Move marks a major escalation of US efforts to restrict China’s military technology capabilities as tensions bubble over Taiwan"
     publishedDateTime: 2022-09-01T03:46:00Z
@@ -89,22 +105,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/220831223536-01-nvidia-amd-chips-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "NVIDIA reveals new US government rule restricting export of AI chips to China and Russia"
-    excerpt: "As The New York Times notes, AI and machine learning are used for various applications that include weapons development and surveillance. A US Department of Commerce spokesperson told Reuters: \"While we are not in a position to outline specific policy ..."
-    publishedDateTime: 2022-09-01T07:02:00Z
-    webUrl: "https://www.engadget.com/nvidia-government-rule-restricting-export-ai-chips-china-russia-061846437.html"
-    ampWebUrl: "https://www.engadget.com/amp/nvidia-government-rule-restricting-export-ai-chips-china-russia-061846437.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/nvidia-government-rule-restricting-export-ai-chips-china-russia-061846437.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 78
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-08/9b3ca8c0-2479-11ed-bfbd-99225c168e56"
-        width: 6000
-        height: 4000
         isCached: true
   - title: "Machine learning at the edge: The AI chip company challenging Nvidia and Qualcomm"
     excerpt: "Sima AI's machine learning system-on-chip (MLSoC) platform that enables ML deployment and scaling at the edge has started shipping."
@@ -143,6 +143,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nvidia told it can't export AI chips to China"
+    excerpt: "We don't want them cleverer than us US officials have told Nvidia to stop exporting two top computing chips for artificial intelligence work to China. The move is basically an attempt by US companies to cripply Chinese operations in areas such as image recognition."
+    publishedDateTime: 2022-09-01T09:38:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/55418-nvidia-told-it-can-t-export-ai-chips-to-china"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/fd5322ba610c30c44b7ae1edce12f434_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
+  - title: "US blocks Nvidia AI chip exports to China"
+    excerpt: "China has condemned a US move to end its access to high-end processors made by chipmaker Nvidia, after Washington stepped up its efforts to restrict exports of cutting-edge technology to its trade and military rival."
+    publishedDateTime: 2022-09-01T09:37:00Z
+    webUrl: "https://www.ft.com/content/7005d5d2-b02f-4092-a35c-8b44889a5f90"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/global-trade.jpg"
+        width: 619
+        height: 377
+        isCached: true
   - title: "Nvidia and AMD are warning about new US export limits to Russia and China on AI chips"
     excerpt: "The U.S. has begun to impose fresh restrictions on exports of advanced chips necessary for AI-related applications to Russia and China. Sales of the semiconductors that power systems sold by AMD and Nvidia without a license are affected. The controls ..."
     publishedDateTime: 2022-09-01T07:13:00Z
@@ -162,6 +190,6 @@ related:
       domain: tweaktown.com
     quality: 19
 
-secured: "wQ6urcQSGPug6t8hnabsSmrBq0yb2WUh9guTEuMh0hrUZ1jgWcEReNedSMfYY/KCVxF01/mbMJ3HoazS4mVQq2txT7AuJ2QzgO8hrwc2kFnNWLEf8KYDEe87fYa8Hc0kNQUfnogoDKh4Vdx8IBaLrHCLhWkCl6NR96Cu73k/SJC9HvY8oT2V4c51VoIgA61dNJDBdvgCM3ZZjv3vdAPaInqcw3lSZ317fjG9ZURfQ6w1aBL+x+T+10LyNxpafrMzmMC7hYZ8qgEW7pdtTlvgN0CT33/Ca9duKtE9kMMBc3jN00nRXf+Ds2ykkGH0iELQQ7Pw+2XexmywB2LnC0eOs2mtVlUf8u6yKljpizm+Xtg=;wmwhzzvB/rvpKRbCVVhmOA=="
+secured: "oDMiQdX/VfoaUAZ4BnaCTC9i2vSXHfJN8eoG1np095EVTyB7cvVVHeYFjGjpP8xuyhV3fsYjCnty9bxlwX6aR7rMpW1+qy0QbMWw9Vz76+V00844CpluYPsCY5HU6o/ywdyF2FlOitL8ZUwV5hdhESkAViKMiSYr53EXIkJ8VA7J4sSfj5dChcZSBdk5sGtq2cEfFK7YzY9zH/HfjsOCftt8pK63c/gMksV8GdL4nIZsL6K3Givyug9sC+tvbwufp3OHPt/3bTOg3PdGLWbgBQWksoA9yb+2YugzJxkl7jOl5JRqB/83OnUULlJ1HJmNFNKAwWG4iVXa2KcVf7aaySZCmkUIF90vXHY5fAemYvBbcf6ktDQ+s6U51vTZlkLV1OqLZkjGtdssSQYTMwaDYScGz9E6Rk8DxylCEBdUHr3hW4jYjlJe5BLjBQbqqQT0K458lUzc3IDJorNkGZ6Rvnw8KvJUK7oKlqxMpVvw23+GvOiRRgc0evVCCIXyQbbslam3DK19F2I3eI6v35z2XA==;lob0ukYuuRVYL2Ml/Et6yg=="
 ---
 

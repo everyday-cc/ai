@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Baidu Revenue Contracts but Beats Estimates on Cloud Business Growth"
-excerpt: "China's search engine giant Baidu Inc beat quarterly revenue estimates on Tuesday, underpinned by growth in its cloud business, even as it reported its first year-on-year quarterly revenue contraction in two years."
-publishedDateTime: 2022-08-30T09:00:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2022-08-30/baidu-beats-quarterly-revenue-estimates"
-webUrl: "https://www.usnews.com/news/technology/articles/2022-08-30/baidu-beats-quarterly-revenue-estimates"
-ampWebUrl: "https://www.usnews.com/news/technology/articles/2022-08-30/baidu-beats-quarterly-revenue-estimates?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-08-30/baidu-beats-quarterly-revenue-estimates?context=amp"
+title: "Baidu revenue contracts but beats estimates on cloud business growth"
+excerpt: "Revenue at Baidu’s AI Cloud unit grew 31% year-on-year in the quarter. Baidu has also been doubling down on self-driving technologies, in which it has heavily invested over the past five years."
+publishedDateTime: 2022-08-30T13:18:00Z
+originalUrl: "https://www.euronews.com/next/2022/08/30/baidu-results"
+webUrl: "https://www.euronews.com/next/2022/08/30/baidu-results"
 type: article
-quality: 69
-heat: 89
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Euronews (Spain)
+  domain: euronews.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://static.euronews.com/articles/wires/874/96/8749602/1000x563_qr8u3.jpg"
+    width: 1000
+    height: 563
+    isCached: true
 
 related:
   - title: "Baidu's Q2 revenue contracts, but beats estimates on cloud business growth"
@@ -56,6 +56,6 @@ related:
         height: 373
         isCached: true
 
-secured: "EjL7lzASIvdBobkqRYtUlOF0zhSHZSQAyl6iUrO0tVEfXaVKnMJ+AZOZyKQl3Fpt0D4crls/spbPPo7aWfp9tsuqVbbKZfzw05ap2l4l9/gYORnmeZhcuFQXc1xXYGYH6UxYSoby7Ctx2UA8ftWqyVi04JQR9+G4Xunzrwdvi4Wed7W19Vq8xG+kNuAzsKSseaqiHHeQJERn32YFZUWWdsvKME77TpraQ2NJECLTjcSvHKmk5/rry/PXdTBmUCVlOetCBq6zAao3nmlJ0Aqsoo/noVykAgVhbHX3aJc9K686dOToXH+17i4bQ1fGEV0m+6HBe5pgPd+alkvA97Qbhg5grlFZrN41xedNDm6EpELhsawfzYMYk2SPczvgfmxBgP07rNH1yetytiTZS3ZYP0CUHTlaWRki3+DfA39BCWLXAs5x4d6NNbA05mn/gdzbm2MJpRhT1Jsqhwq9iL3QLaALdi0gkBmHJLbhnoMmIddV91wGyI0k5Pt1ETCdyiV8m8q9JenMojeIUFh9lEbKuA==;8Tjzze1Nhq6fBjQYzBCdvg=="
+secured: "zLYUsr5AGvUZzAnUmAS2JpEkuVuRIfEezqG88oBIiv4r9hTK9ponkLTdAGvMudK5dQEDI7+pFfKjInelG7ihdqwcZ4/hNDqFDgZTQEGazRdlmN9omqNJT9WASEcCpPlcDzB+z8KrefKtFtosAqlQf1xL8tMWKb8haVILniHHEV4TXWtJUBgEfwjNzIWk2k/6QHCjlcsGnglUjZpCyLAgALXtodvd65iiFuBPNA++HroISGKvxqPeR9gyRQGvqhaK6qmR5ha9V3wVYn/qYudIgPnuwyagirgHxZ21+9XCJIA5nM2QZ61k7hz+hNeu5qolbhPpSwv6JMNWsAtY1myTCqAJS0BVda9thauiHp6NiVs=;nw2+mjmOck5kGA1kteaJww=="
 ---
 

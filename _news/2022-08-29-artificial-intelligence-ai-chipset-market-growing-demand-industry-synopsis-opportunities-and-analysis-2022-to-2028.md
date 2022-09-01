@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-growing-demand-industry-synopsis-opportunities-and-analysis-2022-to-2028-2022-08-28"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: MarketWatch
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Face Recognition Systems Market 2022 – Future Developments, Key Vendors, Regional Analysis, and Industry Scope by 2028"
+    excerpt: "Moreover, the inflation rate, industrial performance, GDP, per capita income, and other factors all play a role in addressing these regions & global Face Recognition Systems market. The study covers a complete analysis of the different industrial growth strategies that assist in determining the predominant segments and knowing about various factors."
+    publishedDateTime: 2022-08-30T06:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-2022-future-developments-key-vendors-regional-analysis-and-industry-scope-by-2028-2022-08-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "United States DoD Artificial Intelligence Market Analysis 2022: Programs Listed from the FY2022 DoD Budget Request and Contract Activity for FY2021"
     excerpt: "The \"United States DoD Artificial Intelligence Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. This research service focuses on US"
     publishedDateTime: 2022-08-30T20:15:00Z

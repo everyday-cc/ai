@@ -2,6 +2,51 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-16-massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip.md",
+      "title": "Massachusetts Institute of Technology: Engineers build LEGO-like artificial intelligence chip",
+      "excerpt": "Imagine a more sustainable future, where cellphones, smartwatches, and other wearable devices don’t have to be shelved or discarded for a newer model. Instead, they could be upgraded with the latest s",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip/",
+      "originalUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip/",
+      "publishedDateTime": "2022-06-15T23:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Hardware",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-artificial-intelligence-for-ai-to-work-data-use-must-be-right.md",
       "title": "Artificial Intelligence: For AI to work, data use must be right",
       "excerpt": "IT professionals in the financial services, media, energy, automotive, oil, and aerospace industries are most likely to report active deployment of AI by their company, while organisations in industries like retail, travel, healthcare and government ...",
@@ -1268,49 +1313,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-thermo-fisher-scientific-showcases-solutions-for-accelerating-next-generation-vaccine-and-therapy-research.md",
-      "title": "Thermo Fisher Scientific Showcases Solutions for Accelerating Next Generation Vaccine and Therapy Research",
-      "excerpt": "Thermo Fisher Scientific Inc. is showcasing new instruments, workflows, software and industry collaborations that enable customers to generate new analytical insights and accelerate next generation vaccine and therapy development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/vaccines/product-news/thermo-fisher-scientific-showcases-solutions-for-accelerating-next-generation-vaccine-and-therapy-362268",
-      "originalUrl": "https://www.technologynetworks.com/vaccines/product-news/thermo-fisher-scientific-showcases-solutions-for-accelerating-next-generation-vaccine-and-therapy-362268",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/362268/thermo-fisher-scientific-showcases-solutions-for-accelerating-next-generation-vaccine-and-therapy-362268-480x270.jpg?cb=11797389",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
         "images": null,
         "publishers": null,
         "authors": null

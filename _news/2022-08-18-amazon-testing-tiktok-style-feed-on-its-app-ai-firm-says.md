@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Amazon testing TikTok-style feed on its app, AI firm says"
-excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform"
-publishedDateTime: 2022-08-17T23:16:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88517916"
-webUrl: "https://abcnews.go.com/Business/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88517916"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88517916"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88517916"
+excerpt: "an Israeli-based artificial-intelligence firm that analyzes apps and has tracked the feature. The test doesn’t mean Amazon will roll out the widget to the public in its current form — or at all."
+publishedDateTime: 2022-08-18T15:03:00Z
+originalUrl: "https://www.clickorlando.com/business/2022/08/17/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says/"
+webUrl: "https://www.clickorlando.com/business/2022/08/17/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says/"
+ampWebUrl: "https://www.clickorlando.com/business/2022/08/17/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says/?outputType=amp"
+cdnAmpWebUrl: "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/business/2022/08/17/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says/?outputType=amp"
 type: article
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: News 6 WKMG
+  domain: clickorlando.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_d6c87ec91bcb4a3db6d7f763abbf3eca_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/23YUDDAXANF6LHSZORVR736KJU.jpg?_a=ATAK9fe0"
+    width: 700
+    height: 1633
     isCached: true
 
-secured: "SI92WuxaXCZ6oBKCncyUmuUBjIR0j+CBMZZzBgzjdF8bKEfbbcm3Ts3jdocxDPeJPLy9LefftVxyDN8x0qgOR9ZSyNaZnHZuID8r6J062uyHTWUpjI81yBoR4y8uyO3Dv8bKIhD/tG+345GTuVE0dO65vfVepklCdA+AnDvKJIXMI+gsR2RTt8pt/x48dyYXzhX3aFa7QJOCoGIRvUkFMySDRGed3B/xXOfSco1zdSbdHHomlcd9hWqGO0Nbm6mmjD4X42epEk2ovvEVf5Ugi5mVz18fehIoPMUASuxULdR1X4A3WnJHhMYxhAtem9BFfmMZGlm4peRW2hpyDcxaVaSxnh/1qrbpy2fp+4xz+2VBgRHht4gTdo7upV/Aoc2Uvq3qG+5lWQJehB+ae/eK3tKlqhriYxc2rpkNn1J5xDxCTNZI1lqBpCNQVQCUuCwV/7sEVicbDHj4D3dRtrDxi1w+J4URNBLCy4E2MIYsXWRxXDZL2GJoljPAxRvI7uegHx2bnOLWGfISa+67NeG9zQ==;EdKc2NEks/76UZS5Hohggw=="
+secured: "RlHLC5wxVhsLiR5CIdIFn57G4U54XWup5iGaRsDt3eclJo1BCCEfYL6OmDU7Pbw+kjGkqc2Phz20haKf5/PGk6tJBnCnev2XrSDMjeMjjCS4swJ4Do5TK1ZqWto7/pehZWY8kvAObzmLaJgzO2CzekIaPuQdsKyqTMHL7F5k15MrbPf2hgp9o+siPBF32fOmBedbMmT1cM7QCTIeHfOy4RmxPPiG1GrGgbl0ZVKSVNtv9lta8IcGHdHTjoNZrAkSGg1sxNqwl7AlXgUta2nqpi6FOVQvYM4iz+912JssHxZGWx/rDgeibclVONV2aM9QMde+RAsPB2A8S/XcoTC8byVsQPh6IuDaU8bMtUaiTLc=;UBK0gLp8nupE00goqTQ/YQ=="
 ---
 

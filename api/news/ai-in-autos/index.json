@@ -158,36 +158,36 @@
       ]
     },
     {
-      "path": "_news/2022-08-30-baidu-revenue-contracts-but-beats-estimates-on-cloud-business-growth.md",
-      "title": "Baidu Revenue Contracts but Beats Estimates on Cloud Business Growth",
-      "excerpt": "China's search engine giant Baidu Inc beat quarterly revenue estimates on Tuesday, underpinned by growth in its cloud business, even as it reported its first year-on-year quarterly revenue contraction in two years.",
+      "path": "_news/2022-08-30-baidus-q2-revenue-contracts-but-beats-estimates-on-cloud-business-growth.md",
+      "title": "Baidu's Q2 revenue contracts, but beats estimates on cloud business growth",
+      "excerpt": "Total revenue shrank by 5% to 29.65 billion yuan ($4.43 billion) in the second quarter, compared with analysts' average estimate of 29.30 billion yuan, according to Refinitiv data",
       "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2022-08-30/baidu-beats-quarterly-revenue-estimates",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2022-08-30/baidu-beats-quarterly-revenue-estimates",
+      "webUrl": "https://www.business-standard.com/article/international/baidu-s-q2-revenue-contracts-but-beats-estimates-on-cloud-business-growth-122083000785_1.html",
+      "originalUrl": "https://www.business-standard.com/article/international/baidu-s-q2-revenue-contracts-but-beats-estimates-on-cloud-business-growth-122083000785_1.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 77,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2018-03/02/full/1519964042-5025.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2022-08-30/baidu-beats-quarterly-revenue-estimates?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-08-30/baidu-beats-quarterly-revenue-estimates?context=amp",
-      "publishedDateTime": "2022-08-30T02:00:00-07:00",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/international/baidu-s-q2-revenue-contracts-but-beats-estimates-on-cloud-business-growth-122083000785_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/baidu-s-q2-revenue-contracts-but-beats-estimates-on-cloud-business-growth-122083000785_1.html",
+      "publishedDateTime": "2022-08-30T04:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -949,7 +949,8 @@
       ],
       "topics": [
         "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "AI in Healthcare"
       ]
     },
     {

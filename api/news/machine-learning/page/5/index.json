@@ -2,50 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2022-07-20-singapore-healthcare-mobile-app-taps-ai-to-diagnose-std.md",
-      "title": "Singapore healthcare mobile app taps AI to diagnose STD",
-      "excerpt": "Touted to offer a \"penis-checking\" tool powered by artificial intelligence, the HeHealth mobile app has processed 1,000 image analyses over an 18 months-long pilot and lets users receive their results anonymously.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/singapore-healthcare-mobile-app-taps-ai-to-diagnose-std/",
-      "originalUrl": "https://www.zdnet.com/article/singapore-healthcare-mobile-app-taps-ai-to-diagnose-std/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-healthcare-mobile-app-taps-ai-to-diagnose-std/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-healthcare-mobile-app-taps-ai-to-diagnose-std/",
-      "publishedDateTime": "2022-07-20T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-07-20-transform-2022-how-enterprises-crawl-walk-then-run-into-their-aiml-deployments.md",
       "title": "Transform 2022: How enterprises crawl, walk, then run into their AI/ML deployments",
       "excerpt": "Deploying AI is not easy or simple, but it’s becoming necessary in this third decade of the 21st century. Companies are learning to crawl, walk and run when it comes to utilizing their data in order to give them deeper insight into their protected business data.",
@@ -1402,6 +1358,50 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-googles-deepmind-ai-now-has-a-babys-understanding-of-object-physics.md",
+      "title": "Google’s DeepMind AI Now Has a Baby’s Understanding of Object Physics",
+      "excerpt": "Computer scientists have created an AI program that understands simple physical rules about objects, similar to a baby's understanding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2022/07/ai-baby-object/",
+      "originalUrl": "https://www.gizmodo.com.au/2022/07/ai-baby-object/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/07/14/ai-baby.jpg?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2022/07/ai-baby-object/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/07/ai-baby-object/amp/",
+      "publishedDateTime": "2022-07-13T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo Australia",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI",
         "Machine Learning"
       ]

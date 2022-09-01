@@ -2,6 +2,103 @@
   "page": 141,
   "value": [
     {
+      "path": "_news/2022-05-13-too-much-ai-may-not-be-good-for-your-health-or-the-nhs-google-and-ibm-exits-map-trend.md",
+      "title": "Too Much AI May Not Be Good for Your Health or the NHS; Google and IBM exits map trend",
+      "excerpt": "Grand promises that the technology could transform healthcare have struggled to bear fruit, with plenty of patient data collected in the meantime.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/too-much-ai-may-not-be-good-for-your-health-or-the-nhs-google-and-ibm-exits-map-trend-71652330748368.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/too-much-ai-may-not-be-good-for-your-health-or-the-nhs-google-and-ibm-exits-map-trend-71652330748368.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2022/05/12/1600x900/Google_Health_1621427558893_1652340789454.JPG",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/too-much-ai-may-not-be-good-for-your-health-or-the-nhs-google-and-ibm-exits-map-trend-71652330748368.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/too-much-ai-may-not-be-good-for-your-health-or-the-nhs-google-and-ibm-exits-map-trend-71652330748368.html",
+      "publishedDateTime": "2022-05-12T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-moderate-classify-and-process-documents-using-amazon-rekognition-and-amazon-textract.md",
+      "title": "Moderate, classify, and process documents using Amazon Rekognition and Amazon Textract",
+      "excerpt": "Many companies are overwhelmed by the abundant volume of documents they have to process, organize, and classify to serve their customers better. Examples of such can be loan applications, tax filing, and billing. Such documents are more commonly received in image formats and are mostly multi-paged and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/moderate-classify-and-process-documents-using-amazon-rekognition-and-amazon-textract/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/moderate-classify-and-process-documents-using-amazon-rekognition-and-amazon-textract/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/04/ML4749_InferencePipeline-776x630.png",
+          "width": 776,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-12T10:38:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-05-13-3d-printer-companies-makerbot-and-ultimaker-to-merge.md",
       "title": "3D printer companies MakerBot and Ultimaker to merge",
       "excerpt": "MakerBot Industries LLC, a major supplier of desktop 3D printers, today announced plans to merge with rival Ultimaker BV. The transaction is expected to be completed by the end of the third quarter.",
@@ -1060,108 +1157,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-this-startup-hopes-photonics-to-will-get-us-to-ai-systems-faster.md",
-      "title": "This startup hopes photonics to will get us to AI systems faster",
-      "excerpt": "Meanwhile, the speed of AI computation doubles every 3 or 4 months ... Salience Labs is an Oxford-based startup that thinks it has the answer, by combining an ultra-high-speed multi-chip processor ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/12/this-startup-hopes-photonics-to-will-get-us-to-ai-systems-faster/",
-      "originalUrl": "https://techcrunch.com/2022/05/12/this-startup-hopes-photonics-to-will-get-us-to-ai-systems-faster/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/f74lQ-V7xXg/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/12/this-startup-hopes-photonics-to-will-get-us-to-ai-systems-faster/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/12/this-startup-hopes-photonics-to-will-get-us-to-ai-systems-faster/amp/",
-      "publishedDateTime": "2022-05-12T01:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-microsoft-session-highlights-from-sap-sapphire-2022.md",
-      "title": "Microsoft session highlights from SAP Sapphire 2022",
-      "excerpt": "Microsoft and SAP are celebrating the one-year anniversary of RISE with SAP on the Microsoft Cloud, which helps organizations of all sizes accelerate their move of SAP solutions to the cloud. As you prepare your agenda for the event, be sure to take in some of the following sessions featuring Microsoft",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/microsoft-session-highlights-from-sap-sapphire-2022/",
-      "originalUrl": "https://azure.microsoft.com/blog/microsoft-session-highlights-from-sap-sapphire-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8794c53b-f72e-4acf-b595-38764c1aa351.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T01:00:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI"
       ]
     }
   ],

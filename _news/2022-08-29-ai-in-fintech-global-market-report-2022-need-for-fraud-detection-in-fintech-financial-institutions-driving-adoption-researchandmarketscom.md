@@ -25,21 +25,69 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition is the best tool to tackle the increase in financial fraud"
-    excerpt: "By Anton Nazarkin, Global Development Director at VisionLabs Financial fraud is on the rise and costs banks billions of dollars a year. Between 2016 to 2020, synthetic fraud[1] losses grew from $6 billion to $20 billion[2]."
-    publishedDateTime: 2022-08-29T14:57:00Z
-    webUrl: "https://www.globalbankingandfinance.com/facial-recognition-is-the-best-tool-to-tackle-the-increase-in-financial-fraud/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/facial-recognition-is-the-best-tool-to-tackle-the-increase-in-financial-fraud/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/facial-recognition-is-the-best-tool-to-tackle-the-increase-in-financial-fraud/"
+  - title: "AI In Fintech Market Will Reach More Than $61 Billion, By 2031"
+    excerpt: "Artificial Intelligence has been growing its influence in Fintech, and is projected to hit $61 billion in under 10 years. We tell you how."
+    publishedDateTime: 2022-09-01T07:39:00Z
+    webUrl: "https://www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/"
+    ampWebUrl: "https://www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/amp/"
+    cdnAmpWebUrl: "https://www-investingcube-com.cdn.ampproject.org/c/s/www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/amp/"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
+      name: InvestingCube
+      domain: investingcube.com
+    quality: 59
+    images:
+      - url: "https://www.investingcube.com/wp-content/uploads/2022/06/Crypto-wallet.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "AI in Fintech Market Report 2022-27: Size, Share, Growth, Trends And Forecast"
+    excerpt: "The global AI in fintech market reached a value of US$ 9.4 Billion in 2021. Looking forward, IMARC Group expects the market to reach US$ 36.1 Billion by 2027, exhibiting at a CAGR of 26.1% during 2022-2027."
+    publishedDateTime: 2022-09-01T00:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/ab28710855/ai-in-fintech-market-report-2022-27-size-share-growth-trends-and-forecast"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28710855"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28710855"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 56
     images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/08/059.jpg"
-        width: 328
-        height: 328
+      - url: "https://www.abnewswire.com/uploads/1661925524.jpeg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "How to Use ML and AI in the Fintech Industry?"
+    excerpt: "From appearing as frequent tech buzzwords less than a decade ago, they have become integral to how AI and ML tech innovations are shaped across the digital landscape. Driving innovations in certain industries,"
+    publishedDateTime: 2022-09-01T05:49:00Z
+    webUrl: "https://www.finextra.com/blogposting/22835/how-to-use-ml-and-ai-in-the-fintech-industry"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 36
+  - title: "AI in Fintech Market Size, Key Developmental Strategies, Future Scope, Technological Innovation And Forecasts To 2028"
+    excerpt: "The latest AI in Fintech Market Analysis is designed to help clients improve their market position, and in line"
+    publishedDateTime: 2022-08-28T07:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-key-developmental-strategies-future-scope-technological-innovation-and-forecasts-to-2028-2022-08-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+  - title: "29/08 – Weekly Fintech Recap"
+    excerpt: "Partnerships Wearable Tech Pioneer DIGISEQ Partners with AdornPay to Bring Passive Wearable Payments to the Netherlands DIGISEQ, the wearable payments tech pioneer, announced its partnership with Dutch wearable fashion brand,"
+    publishedDateTime: 2022-08-29T08:04:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/2908-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_20.jpeg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "O63mCRbXmRnEi8vp/2L0jgenr4TDCXSNdfEnprnDFLyZdXUIep84TypWkSdC2vzHMX5pyMbO5ey1CeFG1WNg3S58QBxZLs70fGyI4uDULue6M9M8fPfOTxHzaEZmefyg1fDvg7bcwNmo8IWyTMfGbo8lhhFIgBaanHB7q9aRsdnsYZ0E1dd2schIoAHdNuvoT0uK6ikL4WKkjNvBZMaN/33aDxoBGmSQur5zRWQH7oqYOiZu0fKzhT5Yn3pN4HwCBnoFnaAzfn+3tlRkwTeCrkLtQJwMdab4WxXhUYYZpZ0BkDlYZ+RtVtDFZzL5APanKb6C373T71ZsvNHYVk4kjs4C69ZYvaQa/Kh7RfBL4Gw=;hx4TKd8EbmXFavaSOQdRRw=="

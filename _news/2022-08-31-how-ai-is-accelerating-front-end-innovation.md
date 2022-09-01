@@ -18,97 +18,65 @@ topics:
   - AI
 
 related:
-  - title: "Improving AI-assisted conversation with zero-shot learning"
-    excerpt: "Zero-shot learning can improve conversation AI — bolstering everything from human interaction, to sales, to training and career coaching."
-    publishedDateTime: 2022-08-27T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/improving-ai-assisted-conversation-with-zero-shot-learning/"
-    ampWebUrl: "https://venturebeat.com/ai/improving-ai-assisted-conversation-with-zero-shot-learning/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/improving-ai-assisted-conversation-with-zero-shot-learning/amp/"
+  - title: "Gaining Insights From Private Data Using Federated Learning"
+    excerpt: "Sid Roy is Manager of Machine Learning Engineering at Devron, a federated machine learning platform dedicated to unlocking the innovation and insight of data while preserving privacy. Learn more about this growing discipline and why it matters for the future of AI."
+    publishedDateTime: 2022-08-31T15:21:00Z
+    webUrl: "https://www.forbes.com/sites/aparnadhinakaran/2022/08/31/gaining-insights-from-private-data-using-federated-learning/"
+    ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2022/08/31/gaining-insights-from-private-data-using-federated-learning/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/08/31/gaining-insights-from-private-data-using-federated-learning/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1169246375.jpg?w=1200&strip=all"
-        width: 1200
-        height: 652
+      - url: "https://imageio.forbes.com/specials-images/imageserve/630f794541acf1330e6047f6/0x0.jpg?format=jpg&width=1200"
+        width: 956
+        height: 561
         isCached: true
-  - title: "Artificial intelligence, machine learning applied to petroleum exploration"
-    excerpt: "The Vietnam Petroleum Institute (VPI), a member of the Vietnam Oil and Gas Group (PetroVietnam), has applied artificial intelligence (AI) and machine learning to quickly identify the presence of fractured granite basement,"
-    publishedDateTime: 2022-08-29T05:38:00Z
-    webUrl: "https://en.vietnamplus.vn/artificial-intelligence-machine-learning-applied-to-petroleum-exploration/236440.vnp"
-    ampWebUrl: "https://en.vietnamplus.vn/artificial-intelligence-machine-learning-applied-to-petroleum-exploration/236440.amp"
-    cdnAmpWebUrl: "https://en-vietnamplus-vn.cdn.ampproject.org/c/s/en.vietnamplus.vn/artificial-intelligence-machine-learning-applied-to-petroleum-exploration/236440.amp"
+  - title: "Chemical-free re-staining of tissue using deep learning"
+    excerpt: "This makes acquiring paired images of different stain types very challenging, which is an essential part of deep learning-based image translation methods. To alleviate this problem, the UCLA team ..."
+    publishedDateTime: 2022-08-29T16:24:00Z
+    webUrl: "https://phys.org/news/2022-08-chemical-free-re-staining-tissue-deep.html"
+    ampWebUrl: "https://phys.org/news/2022-08-chemical-free-re-staining-tissue-deep.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-chemical-free-re-staining-tissue-deep.amp"
     type: article
     provider:
-      name: VietnamPlus
-      domain: vietnamplus.vn
-    quality: 72
+      name: Phys.org
+      domain: phys.org
+    quality: 74
     images:
-      - url: "https://cdnimgen.vietnamplus.vn/t660/uploaded/wbxx/2022_08_29/bach_ho_oil_field.jpg"
-        width: 660
-        height: 439
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/chemical-free-re-stain.jpg"
+        width: 2500
+        height: 992
         isCached: true
-  - title: "Man Boasts About Winning Art Competition Using AI-Created Image"
-    excerpt: "Jason Allen's winning entry for the Colorado State Fair fine arts competition relied on an AI-powered program called Midjourney, which can generate images from a line of text."
-    publishedDateTime: 2022-08-31T18:13:00Z
-    webUrl: "https://www.pcmag.com/news/man-boasts-about-winning-art-competition-using-ai-created-image"
+  - title: "As the Machine Learns—Continuing AI IP and Privacy Considerations"
+    excerpt: "AI frequently automates routine tasks that were previously performed by people, eliminating tedious work, making business processes more efficient, and creating new capabilities and opportunities. Every business in the future will be using AI to some extent."
+    publishedDateTime: 2022-08-30T14:51:00Z
+    webUrl: "https://www.law.com/thelegalintelligencer/2022/08/30/as-the-machine-learns-continuing-ai-ip-and-privacy-considerations/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
+      name: Law
+      domain: law.com
+    quality: 41
     images:
-      - url: "https://i.pcmag.com/imagery/articles/07LHXzoytNISjOYTSehqJ5N-1.fit_lim.size_1200x630.v1661964398.jpg"
-        width: 1120
-        height: 630
+      - url: "https://images.law.com/contrib/content/uploads/sites/402/2022/08/Halt-Glabicki-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
-  - title: "How Emotion AI will change the online learning landscape"
-    excerpt: "With the development of technology, it has become evident that comprehension of both the cognitive and affective channels of human connection is crucial. Emotion recognition is a branch of affective computing that seeks to"
-    publishedDateTime: 2022-08-28T09:15:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-emotion-ai-will-change-the-online-learning-landscape/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-emotion-ai-will-change-the-online-learning-landscape/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-emotion-ai-will-change-the-online-learning-landscape/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/Vishal-Soni-Co-Founder-Lightbulb.ai_.jpeg"
-        width: 350
-        height: 470
-        isCached: true
-  - title: "Soaking up the sun with artificial intelligence"
-    excerpt: "The sun continuously transmits trillions of watts of energy to the Earth. It will be doing so for billions more years. Yet, we have only just begun tapping into that abundant, renewable source of energy at affordable cost."
-    publishedDateTime: 2022-08-31T20:39:00Z
-    webUrl: "https://techxplore.com/news/2022-08-sun-artificial-intelligence.html"
-    ampWebUrl: "https://techxplore.com/news/2022-08-sun-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-sun-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/soaking-up-the-sun-wit.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Yellow.ai named to Constellation ShortList for Conversational AI for Q3 2022"
-    excerpt: "Powered by Dynamic AI agents, Yellow.ai enables businesses to offer enriching, delightful, and personalized interactions with their customers and employees across their preferred choice of channel, language,"
-    publishedDateTime: 2022-08-29T08:27:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/yellowai-named-to-constellation-shortlist-for-conversational-ai-for-q3-2022-gvsvn3q5"
+  - title: "The Democratization of Machine Learning: Here’s how Applied Machine Learning Days (AMLD) Africa impacted (almost) the whole continent"
+    excerpt: "AMLD Africa ( a free Machine Learning conference, makes it possible for anyone in Africa to learn about AI with world-class speakers and entities.  15.7 trillion US$. This is the expected contribution of Artificial Intelligence to the global economy by 2030 according to PwC’s report “Sizing the Price” ( Here’s how Applied Machine Learning Days (AMLD) Africa is offering free access to high-quality education around AI to democratize AI in Africa,"
+    publishedDateTime: 2022-09-01T06:04:00Z
+    webUrl: "https://www.zawya.com/en/press-release/africa-press-releases/the-democratization-of-machine-learning-heres-how-applied-machine-learning-days-amld-africa-impacted-almost-bai0nowi"
     type: article
     provider:
       name: Zawya
       domain: zawya.com
-    quality: 38
+    quality: 23
     images:
-      - url: "https://static.zawya.com/version/c:NDVlN2VjZDgtNWE1MS00:ZmVlM2Q4/yellow-ai-jpg.jpg?f=3%3A2"
-        width: 810
-        height: 540
+      - url: "https://static.zawya.com/version/c:ODFkNTRmMzgtZDAwMC00:YWRmOWVk/fpr_3946_2022_03_01.jpg?f=1%3A1&q=0.75&w=3840"
+        width: 337
+        height: 337
         isCached: true
 
 secured: "JWaIihbbQ37k9S+5xC3dBFtYwG9PT8YvoH1GiQPPXKuuugOua3usZA6UpBdqUoM53qH3kZANwz59l3zWqYOmuZtlI+uq7/RvEFZdrqyPMslCVIVaQXQyfPcAnmWmVHnEb5EzHnWA/KPpuY/TvjErmKO0Zsg02gennSElMxjARC1eoS5N95YTESRjYG2vq5HjDfBC9EJ9gCRqxb9ymq5WhWgtIfbJz8GHww5NCcvavXVVQDHwTlD+oxb82pnnsR7wGXBUkVxB1yZnoxjYOsLjQScQXzjfvqFrcJ71zCi8NANPYW1I5GCpqzAcsedOZUIk/kAiBiniqI5PJsrwnetSqon2Xcz9Kx+EoLpqeVnEqyu/DAT0RleFHL6FLK0+TZN8ad7bHj/Wis0FkJhu8D6/Dq5zh7O7dfKTU4uznRwK/j+g3R0CPl9/QlpTtNuP6C3MXGAMQ3zcJzzF1HAG+sCPCP9wbgHSxhK90lkEVkTcVqPE16NvGmh5NeuOzfhRBfqkYwI9AxaGmt0K3wFb1g1Hrg==;20G7sJt2+cAhmyaPWuVPPg=="

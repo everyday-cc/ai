@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2022/08/31/gaining-ins
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/08/31/gaining-insights-from-private-data-using-federated-learning/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
         width: 337
         height: 337
         isCached: true
+  - title: "How AI is accelerating front-end innovation"
+    excerpt: "Artificial intelligence (AI) is emerging as a valuable tool for food and beverage makers looking to bolster front-end innovation. Manufacturers, restaurants, ingredient suppliers, flavor houses and more are leveraging insights from machine learning to get closer to consumer trends and market more nuanced propositions."
+    publishedDateTime: 2022-08-31T12:12:00Z
+    webUrl: "https://www.foodbusinessnews.net/articles/22103-how-ai-is-accelerating-front-end-innovation"
+    type: article
+    provider:
+      name: FoodBusinessNews
+      domain: foodbusinessnews.net
+    quality: 17
 
 secured: "V9uS/4aHsEgIFnFlrKLyBx2YmWSK3acJG3R8/t64TqAGO2ORkVMJSKUWBh357wZagCaWeyozcbLenlt7OabQWj5YoCviu/YymI+8bDbMvAmB6waTa+YCHPKNvmlThlo1+g78wGl7I+aseRfJjiar2FSt/7XdvTtVjV/C1Ukju9xfRqhbXb9AF+UaPQv61DyCvI/qwpXuybsnD/UwwMzD5/FEKsjq28ICPMF6JcprRNvM2m9dFuB+pveMS4QLH9Q6+QaCnc3f/02QlVaeRw5lDAimdTyVDLoK4w6Xn9mmayeqjKr03fsyxOEM77UNa3GOpWG6UpoTR9hJWXzG4cZLztLXa+TXxy+V3eo/TJrmIv8iNyR5Vcv7tQVZW15TPggaDMgIPYBB8RTylHGX2/3u8gQju1ECJUzIgmFgSsRJOoCj9oMsWx6/mDir6eP6Y3g/50kAUkMML9IthvqdKpBiv3g7cnRHpQZv5RE+QiwBI+c+flcQyDJLYIn/S47vPUTm34Mzn+j3rNbw+WxuzCi35w==;QQxopSSPC9qwdmIIYvzMcg=="
 ---

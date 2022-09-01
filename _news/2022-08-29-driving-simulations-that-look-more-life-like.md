@@ -35,6 +35,22 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Ohio State University: Driving simulations that look more life-like"
+    excerpt: "They don’t look realistic enough, particularly background objects, such as trees, and road markings. But researchers have developed a new way to create photorealistic images for simulators, paving the"
+    publishedDateTime: 2022-09-01T02:51:00Z
+    webUrl: "https://indiaeducationdiary.in/ohio-state-university-driving-simulations-that-look-more-life-like/"
+    ampWebUrl: "https://indiaeducationdiary.in/ohio-state-university-driving-simulations-that-look-more-life-like/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/ohio-state-university-driving-simulations-that-look-more-life-like/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 44
+    images:
+      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2021/03/ohio.jpg?fit=1024%2C683&ssl=1"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Driving simulations that look more life-like"
     excerpt: "This is especially important when testing how humans react when they are in driverless vehicles ... But, using artificial intelligence, GAN can be trained to generate realistic backgrounds and ..."
     publishedDateTime: 2022-08-29T18:52:00Z
