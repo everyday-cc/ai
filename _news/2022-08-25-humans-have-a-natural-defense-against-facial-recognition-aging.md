@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Humans Have a Natural Defense Against Facial Recognition: Aging"
-excerpt: "After just 5 years, facial recognition systems start struggling to identify us, and after 20 years they have no chance. I've been working at PCMag since November 2016, covering all areas of ..."
-publishedDateTime: 2022-08-24T18:16:00Z
-originalUrl: "https://www.pcmag.com/news/humans-have-a-natural-defense-against-facial-recognition-aging"
-webUrl: "https://www.pcmag.com/news/humans-have-a-natural-defense-against-facial-recognition-aging"
+excerpt: "Facial recognition systems have become very adept at identifying people in a crowd, but it turns out they don't cope very well with us getting older. As New Scientist reports, the algorithms used ..."
+publishedDateTime: 2022-08-25T02:26:00Z
+originalUrl: "https://uk.pcmag.com/security/142247/humans-have-a-natural-defense-against-facial-recognition-aging"
+webUrl: "https://uk.pcmag.com/security/142247/humans-have-a-natural-defense-against-facial-recognition-aging"
 type: article
 
 provider:
@@ -20,11 +20,11 @@ topics:
   - AI
 
 images:
-  - url: "https://i.pcmag.com/imagery/articles/05Pz8HRnBQxyCwqrSeEy3it-1.fit_lim.size_1200x630.v1661351863.jpg"
-    width: 1121
-    height: 630
+  - url: "https://sm.pcmag.com/t/pcmag_uk/news/h/humans-hav/humans-have-a-natural-defense-against-facial-recognition-agi_wtcf.1200.jpg"
+    width: 1200
+    height: 674
     isCached: true
 
-secured: "yU4wdeJxIUGynVUoCA0i2gdgjAaBf5JSXDWkIUdYrRW+SxlaVqUXwSRmCllraLL6x1rn7iZJrBaKO4qxgCHPGtriGxtOope5anU6ZmhocVdhvikcHIbTU++1hcUtZvGQskc3J2u+0mCpOtxPrgm0bQOBpt5LjwWaZknUJFww9Dj6biyJywywbFVvrU7eWZujDeBc6LxQwxO8JgyFJbAT2PySyAfSvwGs1E2tnHIiW93xBr9/z3jOQpYbwlwZUrqdL3qZyyEqo7AH64H7wjbt3hvob8WhIOS3cZrqQ9/ofpLmXWqtZhWQpyiKo4PpNrubPQNhhqX8iQEguSa5zDYQu2R3VFWruROnyugHWepdhznvD9XbkrwGLnFb099xMhgvzizluo4khWoakuZaxcfLBRk+gs8+BbT6dPhIWTaDviIX8mP+5qLfCukJJ/wTPdrU3iN22hTA69bi2H0W3fdLDx9gYmTv2Twnlrylq6/cZr5kqkCL1iDSUIl5oKHvEqDZVpFsutotVcnbiP6hevaF0w==;hJMXqmLczFDFK4+iHipgIQ=="
+secured: "ML/2mxLbFfjraEoAB0IFh9cHXXd8yreXQagO2M+YdyWDATNXjzwpHODENp/C6WjBuVSPbe9oT/6LvA9yuEO/if1cAKrItzbTWpZ86//LdWmMD+Mcn3H0LBFLd7ydP6/e+85QPgOPRKYzo+TLrkYWqzQpX/LHB51L8CmzrMFk1kZZ99LqyhWyBZ43A4m/WWe5QWi9VT7zUsX9dJK5WBDaOHr3ClzAeQ79WYS4S4Tz0yUUNeTgSVYHoJxSXlrGjluiHJbVULY+rm1YW5qwLzUGqIeseYGlBtM1fcv18HA7Py6xbC+5hB6Raj/Vl1Iv/CjPaUEOx9fwKMUN7Eb9HHhNADdTCqjQuLssno6OZ2XG3P4=;KbOgHoSSncT+oK7XO7cYpw=="
 ---
 

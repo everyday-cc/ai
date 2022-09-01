@@ -341,6 +341,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-26-new-study-highlights-opportunities-for-artificial-emotional-intelligence.md",
+      "title": "New Study Highlights Opportunities for Artificial Emotional Intelligence",
+      "excerpt": "How will artificial intelligence (AI ... Other projects include a scalable AI recommender system to customize therapy recommendations to improve mental health based on the user’s current ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-08/pic9722.jpg?itok=l-EICJdi",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence?amp",
+      "publishedDateTime": "2022-08-25T21:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-25-with-5137-cagr-artificial-intelligence-in-healthcare-market-would-rocket-up-to-usd-17522-billion-by-2029.md",
       "title": "With 51.37% CAGR, Artificial Intelligence in Healthcare Market would rocket up to USD 175.22 billion by 2029",
       "excerpt": "The significant Artificial Intelligence in Healthcare report offers comprehensive explanation of market definition, market segmentation, competitive analysis and key developments in the ...",
@@ -1383,60 +1426,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-marketing-artificial-intelligence-a-nice-time-slice-view-of-ai-in-one-arena.md",
-      "title": "Marketing Artificial Intelligence – A Nice Time Slice View Of AI In One Arena",
-      "excerpt": "Marketing Artificial Intelligence, by Paul Roetzer & Mike Kaput, is a nice image of the state of artificial intelligence (AI) focused on marketing solutions. This is a good book to introduce ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2022/08/16/marketing-artificial-intelligence--a-nice-time-slice-view-of-ai-in-one-arena/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2022/08/16/marketing-artificial-intelligence--a-nice-time-slice-view-of-ai-in-one-arena/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=876,493,x0,y23,safe&width=1200",
-          "width": 876,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2022/08/16/marketing-artificial-intelligence--a-nice-time-slice-view-of-ai-in-one-arena/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/08/16/marketing-artificial-intelligence--a-nice-time-slice-view-of-ai-in-one-arena/amp/",
-      "publishedDateTime": "2022-08-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Marketing",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -8,9 +8,9 @@ webUrl: "https://www.cnet.com/tech/nvidia-says-us-order-restricts-sales-of-ai-ch
 ampWebUrl: "https://www.cnet.com/google-amp/news/nvidia-says-us-order-restricts-sales-of-ai-chips-to-china/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-says-us-order-restricts-sales-of-ai-chips-to-china/"
 type: article
-quality: 104
-heat: -1
-published: false
+quality: 121
+heat: 161
+published: true
 
 provider:
   name: CNET
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI in Sales
+  - AI Hardware
 
 images:
   - url: "https://www.cnet.com/a/img/resize/621e8aff0309eba6ed29be58ac6ed33c53072f63/2021/07/19/376c0f07-cc4b-4ef1-8be1-a3d0145c8b33/gettyimages-1231345685.jpg?auto=webp&fit=crop&height=630&width=1200"
@@ -70,7 +71,16 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "US restricts NVIDIA from exporting H100, A100 chips to China, Russia"
+    excerpt: "US government informs NVIDIA it has restricted the GeForce RTX giant from exporting A100 and H100 server chips to both China and Russia."
+    publishedDateTime: 2022-09-01T01:43:00Z
+    webUrl: "https://www.tweaktown.com/news/88232/us-restricts-nvidia-from-exporting-h100-a100-chips-to-china-russia/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
-secured: "sWLC9Tz9+wTdkwFqkC+3GaovTmV1WhNu+spoQGZqPYgn9lmwacU2Zl5AEOgY+66JgbpsRFOrucqzuD38YrhlXx9sOIhYJVnXzvNcmCKgpuznFPMW2byg1RGJv9YRT5BGkbDdc9pPy1AjFzClv1u5HjS2NmbxS+N9aztQOfCZ/hFCKEriDmGAwg4JqaOYLF1VpM5mP7RvE93zWnG27g1ofGUbn8Rb8w0ygxFEtm80xApfEWiJ9Ay/gLjvCHU/LBMqQwOOPTokRhMUZP/6fJ26vfHfa18+EhR83AX5Z5AQoBff+k/rZ/obBQLiruQsBJfkfEiI97XUomTLLk4tcIoNQlcuiOdxCFK/Tb9HrWmkJVo=;yeSYKnQbDuMRHzQRRuQHdQ=="
+secured: "waCK3v8tH2ayE5NdZd2TCAIm1WUW4vWxYH8msjPnWN9j5rx1FwQZbGD+r5RVxcGI2omivyAKi/fdzQA8+jABsx9sTL7AS7yfU4Ycw5z5qT9Lgobtw8Ou9pzGyG1BSivCdR3Af+LTvAJsdkWyiP7xjyXxOcsti3n6KV4vJqc072ZAh55PkM3PjVMbqyMwUcPpbQdVZHFQPdRblcsUqalSRNX2ePkj8Hn9NjYvo/wCsISmkavGmeuhlOva6pmCZDukX8Epzb01GIUPtKAMEsLnNOW/+FsSnsEjq7I7trpJ1fyiTEfY+2HiNljZwvqSyvs9QTHiasHGzf7MGYAI2gHRPqWrXrRYg4oOqUCOBh8Gwtd16F4xXWvzGdcctd72wW0s/a2EvHrehSSU2ih42U5mmetiNmavUuVctUvVTLgJsZW1R0dqMR5CcF3mA48Y5unz0mCqNR0yJkfNXWKyMD4c3bqn4i71nuXTowSB0iIIS3eZh9GBq2gUGjYrlfQgT6eKJic1uUu+fGLfjCN79/tA4g==;LbihZonLl6KvGhvtK+KT+A=="
 ---
 

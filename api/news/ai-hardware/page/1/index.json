@@ -2,15 +2,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-09-01-nvidia-says-us-ordered-it-to-stop-sales-of-ai-chips-to-china.md",
-      "title": "Nvidia Says US Ordered It to Stop Sales of AI Chips to China",
-      "excerpt": "Ban is out of concern the chips could be used in or diverted to military use, the chipmaker says in a regulatory filing.",
+      "path": "_news/2022-09-01-nvidia-says-us-order-restricts-sales-of-ai-chips-to-china.md",
+      "title": "Nvidia Says US Order Restricts Sales of AI Chips to China",
+      "excerpt": "New licensing requirements come amid concern that the chips could be put to military use, the chipmaker says in a regulatory filing.",
       "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/nvidia-says-us-ordered-it-to-stop-sales-of-ai-chips-to-china/",
-      "originalUrl": "https://www.cnet.com/tech/nvidia-says-us-ordered-it-to-stop-sales-of-ai-chips-to-china/",
+      "webUrl": "https://www.cnet.com/tech/nvidia-says-us-order-restricts-sales-of-ai-chips-to-china/",
+      "originalUrl": "https://www.cnet.com/tech/nvidia-says-us-order-restricts-sales-of-ai-chips-to-china/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -24,8 +24,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidia-says-us-ordered-it-to-stop-sales-of-ai-chips-to-china/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-says-us-ordered-it-to-stop-sales-of-ai-chips-to-china/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidia-says-us-order-restricts-sales-of-ai-chips-to-china/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-says-us-order-restricts-sales-of-ai-chips-to-china/",
       "publishedDateTime": "2022-08-31T16:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -49,9 +49,9 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
         "AI",
-        "AI in Sales"
+        "AI in Sales",
+        "AI Hardware"
       ]
     },
     {

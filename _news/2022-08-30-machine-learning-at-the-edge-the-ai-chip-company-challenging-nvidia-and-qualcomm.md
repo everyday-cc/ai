@@ -24,6 +24,22 @@ topics:
   - Machine Learning
 
 related:
+  - title: "Nvidia Says US Order Restricts Sales of AI Chips to China"
+    excerpt: "New licensing requirements come amid concern that the chips could be put to military use, the chipmaker says in a regulatory filing."
+    publishedDateTime: 2022-08-31T23:19:00Z
+    webUrl: "https://www.cnet.com/tech/nvidia-says-us-order-restricts-sales-of-ai-chips-to-china/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/nvidia-says-us-order-restricts-sales-of-ai-chips-to-china/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-says-us-order-restricts-sales-of-ai-chips-to-china/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 121
+    images:
+      - url: "https://www.cnet.com/a/img/resize/621e8aff0309eba6ed29be58ac6ed33c53072f63/2021/07/19/376c0f07-cc4b-4ef1-8be1-a3d0145c8b33/gettyimages-1231345685.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Nvidia Says US Ordered It to Stop Sales of AI Chips to China"
     excerpt: "Ban is out of concern the chips could be used in or diverted to military use, the chipmaker says in a regulatory filing."
     publishedDateTime: 2022-08-31T23:19:00Z
@@ -35,22 +51,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 121
-    images:
-      - url: "https://www.cnet.com/a/img/resize/621e8aff0309eba6ed29be58ac6ed33c53072f63/2021/07/19/376c0f07-cc4b-4ef1-8be1-a3d0145c8b33/gettyimages-1231345685.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Nvidia Says US Order Restricts Sales of AI Chips to China"
-    excerpt: "New licensing requirements come amid concern that the chips could be put to military use, the chipmaker says in a regulatory filing."
-    publishedDateTime: 2022-08-31T23:19:00Z
-    webUrl: "https://www.cnet.com/tech/nvidia-says-us-order-restricts-sales-of-ai-chips-to-china/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/nvidia-says-us-order-restricts-sales-of-ai-chips-to-china/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-says-us-order-restricts-sales-of-ai-chips-to-china/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 104
     images:
       - url: "https://www.cnet.com/a/img/resize/621e8aff0309eba6ed29be58ac6ed33c53072f63/2021/07/19/376c0f07-cc4b-4ef1-8be1-a3d0145c8b33/gettyimages-1231345685.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
@@ -70,6 +70,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "US restricts NVIDIA from exporting H100, A100 chips to China, Russia"
+    excerpt: "US government informs NVIDIA it has restricted the GeForce RTX giant from exporting A100 and H100 server chips to both China and Russia."
+    publishedDateTime: 2022-09-01T01:43:00Z
+    webUrl: "https://www.tweaktown.com/news/88232/us-restricts-nvidia-from-exporting-h100-a100-chips-to-china-russia/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "5sFoLFWjkwbEGN6qCwjGBljS5iiHOFSpbMSqNN7F3MJWJIM2fWFlQD/mYYopYJH9Pl6bT4zzeKB5/nfh6j2+/GLAPZ03Ua5L+UQN3WPZBtfEUdQmG6kMXCBHUUY6yZORqPSXgs8lg/RgXdBqPdCJnGMGXd4ramcL/D1g29J1fNtmx35IY0WfgBYTKRGd1FBszRpVMZlDES4XiUGkPKMquDTBpOQsYPfbDoDDUmAIyWCOOIK7Zyvb2F9hVdL0hz0JgQdk+rZew3EX81wjtMA2v1H9VNof7KJp+U9KhhgfSlL+jNDnz1pomkveWT6N/svmSYvX3ktyhD5vcjZqM+mW9//zqMWf4ATQbgBW61gwYKn7UQbiSN0JHXsZIHnYpjTlK+yH9/lKdDG4WDpE4jsJv8FKhlT2Rccm99gIyf0VyQK8bCuNHm6grN9SWwYXaE8Z6JpbJMMA1mLv/Iff6fdgQ8vH+BFt86lU5DMo7UCdX5sWKBzsM+OsAapEItpH4UQe0p6p052IuNn/W7tyS0xQ/g==;9bKtyTfhY1b5dNugAaPCNA=="
 ---

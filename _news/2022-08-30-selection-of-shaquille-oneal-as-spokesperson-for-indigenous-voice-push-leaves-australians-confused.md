@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newshub.co.nz/home/world/2022/08/selection-of-shaquille-
 cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/world/2022/08/selection-of-shaquille-o-neal-as-spokesperson-for-indigenous-voice-push-leaves-australians-confused.amp.html"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -25,70 +25,6 @@ images:
     width: 768
     height: 438
     isCached: true
-
-related:
-  - title: "Shaquille O'Neal to help Australian Indigenous 'Voice' campaign"
-    excerpt: "Hailed as the greatest basketball player and center of all time, American basketballer Shaquille O'Neal announces his support behind the"
-    publishedDateTime: 2022-08-27T09:55:00Z
-    webUrl: "https://www.dailysabah.com/sports/basketball/shaquille-oneal-to-help-australian-indigenous-voice-campaign"
-    ampWebUrl: "https://www.dailysabah.com/sports/basketball/shaquille-oneal-to-help-australian-indigenous-voice-campaign/amp"
-    cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/sports/basketball/shaquille-oneal-to-help-australian-indigenous-voice-campaign/amp"
-    type: article
-    provider:
-      name: Daily Sabah
-      domain: dailysabah.com
-    quality: 59
-    images:
-      - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2022/08/27/thumbs/800x531/227323.jpg"
-        width: 1600
-        height: 1062
-        isCached: true
-  - title: "What does American basketballer Shaquille O’Neal have to do with the Indigenous Voice to Parliament?"
-    excerpt: "Is the Albanese government’s decision to bring NBA star Shaquille O'Neal in on Indigenous reform inspired or ‘cultural cringe’?"
-    publishedDateTime: 2022-08-29T09:35:00Z
-    webUrl: "https://theconversation.com/what-does-american-basketballer-shaquille-oneal-have-to-do-with-the-indigenous-voice-to-parliament-189533"
-    ampWebUrl: "https://theconversation.com/amp/what-does-american-basketballer-shaquille-oneal-have-to-do-with-the-indigenous-voice-to-parliament-189533"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/what-does-american-basketballer-shaquille-oneal-have-to-do-with-the-indigenous-voice-to-parliament-189533"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 29
-    images:
-      - url: "https://images.theconversation.com/files/481533/original/file-20220829-13-i60s6d.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
-  - title: "Barnaby Joyce hits out at Anthony Albanese over Shaquille O'Neal Voice to Parliament presser as Tanya Plibersek defends move"
-    excerpt: "The Coalition has continued to heap criticism on Prime Minister Anthony Albanese over his decision to hold a press conference with American basketball star Shaquille O'Neal over the Indigenous Voice to Parliament."
-    publishedDateTime: 2022-08-29T02:38:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/barnaby-joyce-hits-out-at-anthony-albanese-over-shaquille-oneal-voice-to-parliament-presser-as-tanya-plibersek-defends-move/news-story/b9b8049da29bd01780ab37fb23352f34"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/barnaby-joyce-hits-out-at-anthony-albanese-over-shaquille-oneal-voice-to-parliament-presser-as-tanya-plibersek-defends-move/news-story/b9b8049da29bd01780ab37fb23352f34?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/barnaby-joyce-hits-out-at-anthony-albanese-over-shaquille-oneal-voice-to-parliament-presser-as-tanya-plibersek-defends-move/news-story/b9b8049da29bd01780ab37fb23352f34?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 17
-    images:
-      - url: "https://content.api.news/v3/images/bin/da3de6e68e77393fbc7923736aa3d8ae"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Indigenous Senator Lidia Thorpe lashes Anthony Albanese for using Shaquille O'Neal to promote Voice to Parliament"
-    excerpt: "Indigenous Greens Senator Lidia Thorpe has slammed Prime Minister Anthony Albanese for using former American basketball star Shaquille O’Neal to spruik the Indigenous Voice to Parliament."
-    publishedDateTime: 2022-08-29T07:44:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/indigenous-senator-lidia-thorpe-lashes-anthony-albanese-for-using-shaquille-oneal-to-promote-voice-to-parliament/news-story/60d9a8c6ab25fcf064160cd2be493d98"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 3
-    images:
-      - url: "https://content.api.news/v3/images/bin/76c1d6655f3bfd8caab898777cb95d85"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "axrxR+pwFNLHPjtrMmY7auvSzuKHX6Nivjm3TBCK9GmuzjIv+LuujScdjVkH7/m7UmRHnPWguEhKkmYMLUbTHFm4JkMAZPHWlpLBdYw+Z2yAafE+M0QKBAZHqfo0Cb8+6fQUVxkj2cEjqSXDu+muwySFqDNowE0kT58VnhlRVGgwODK09nqlgawx1uTdYDLpLsfklDI9Yz1GhDfl8T2eSVNoPX40THEjenM/VhUD1ME+q37X9q8vNOuPo0oXDzGXx6YwPmCcmk4eYvUhwFga4GNaqHZmlDDBeleTLiq8kGVuofLHuA/k3PLGCWcGbqjFzJffbabi6rAk9ypHwroUf+1HwIZQEcWGX9RWT1FaBd4vn+FvX9qct72MwD61vKB33ciEugF3XOb82ng8LkKUcSenTjEFkXe+TlasZR9EH7lgZ3gEKYHjCBMT0t6UYBs0lU8ezW9JFOoBkKOcowT45JRjcMhtzPKgxnZRx7GqnhLBno5hXbcROqAWFWX8kIkC6WZoA1MDLS9/wywXlVcBZw==;4ZjMyedaWcGcr1dIdVrGyw=="
 ---

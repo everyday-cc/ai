@@ -27,37 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Shaquille O'Neal to help Australian Indigenous 'Voice' campaign"
-    excerpt: "Hailed as the greatest basketball player and center of all time, American basketballer Shaquille O'Neal announces his support behind the"
-    publishedDateTime: 2022-08-27T09:55:00Z
-    webUrl: "https://www.dailysabah.com/sports/basketball/shaquille-oneal-to-help-australian-indigenous-voice-campaign"
-    ampWebUrl: "https://www.dailysabah.com/sports/basketball/shaquille-oneal-to-help-australian-indigenous-voice-campaign/amp"
-    cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/sports/basketball/shaquille-oneal-to-help-australian-indigenous-voice-campaign/amp"
+  - title: "Is Albanese ‘Shaqtin’ a fool’ over the Indigenous Voice to parliament?"
+    excerpt: "Is the Albanese government’s decision to bring NBA star Shaquille O'Neal in on Indigenous reform inspired or ‘cultural cringe’?"
+    publishedDateTime: 2022-08-29T09:35:00Z
+    webUrl: "https://theconversation.com/is-albanese-shaqtin-a-fool-over-the-indigenous-voice-to-parliament-189533"
+    ampWebUrl: "https://theconversation.com/amp/is-albanese-shaqtin-a-fool-over-the-indigenous-voice-to-parliament-189533"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/is-albanese-shaqtin-a-fool-over-the-indigenous-voice-to-parliament-189533"
     type: article
     provider:
-      name: Daily Sabah
-      domain: dailysabah.com
-    quality: 59
+      name: The Conversation
+      domain: theconversation.com
+    quality: 44
     images:
-      - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2022/08/27/thumbs/800x531/227323.jpg"
-        width: 1600
-        height: 1062
-        isCached: true
-  - title: "Selection of Shaquille O'Neal as spokesperson for Indigenous Voice push leaves Australians confused"
-    excerpt: "The prime minister claimed O'Neal reached out to him because \"he wanted to inform himself about what this debate was about\". Now O'Neal will be a part of the government's campaign"
-    publishedDateTime: 2022-08-29T23:23:00Z
-    webUrl: "https://www.newshub.co.nz/home/world/2022/08/selection-of-shaquille-o-neal-as-spokesperson-for-indigenous-voice-push-leaves-australians-confused.html"
-    ampWebUrl: "https://www.newshub.co.nz/home/world/2022/08/selection-of-shaquille-o-neal-as-spokesperson-for-indigenous-voice-push-leaves-australians-confused.amp.html"
-    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/world/2022/08/selection-of-shaquille-o-neal-as-spokesperson-for-indigenous-voice-push-leaves-australians-confused.amp.html"
-    type: article
-    provider:
-      name: Newshub
-      domain: newshub.co.nz
-    quality: 30
-    images:
-      - url: "https://www.newshub.co.nz/home/world/2022/07/changes-to-501-law-abandoned-by-australia/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1658454095610/Albanese+Ardern+Getty+1120.jpg"
-        width: 768
-        height: 438
+      - url: "https://images.theconversation.com/files/481533/original/file-20220829-13-i60s6d.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+        width: 320
+        height: 213
         isCached: true
   - title: "Barnaby Joyce hits out at Anthony Albanese over Shaquille O'Neal Voice to Parliament presser as Tanya Plibersek defends move"
     excerpt: "The Coalition has continued to heap criticism on Prime Minister Anthony Albanese over his decision to hold a press conference with American basketball star Shaquille O'Neal over the Indigenous Voice to Parliament."

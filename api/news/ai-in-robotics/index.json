@@ -412,6 +412,58 @@
       ]
     },
     {
+      "path": "_news/2022-08-26-first-trust-exchange-traded-fund-vi-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaq-robt.md",
+      "title": "First Trust Exchange-Traded Fund VI - First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ: ROBT)",
+      "excerpt": "Calculated by average return of all stock recommendations since inception of the Stock Advisor service in February of 2002. Returns as of 08/26/2022. Discounted offers are only available to new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/quote/nasdaq/robt/",
+      "originalUrl": "https://www.fool.com/quote/nasdaq/robt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/misc-assets/hp-sa-cumulative-growth-chart.png",
+          "width": 843,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-26T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-25-smarter-robots-ai-machine-learning-and-3d-vision.md",
       "title": "Smarter Robots: AI, Machine Learning, and 3D Vision",
       "excerpt": "New systems from ABB, AMT, Pearson Packaging Systems, Schubert, and Shape Process Automation include new Artificial Intelligence features.",
@@ -881,20 +933,20 @@
     },
     {
       "path": "_news/2022-08-23-local-startup-tests-delivery-robot-in-msheireb.md",
-      "title": "Local Startup Tests Delivery Robot In Msheireb",
+      "title": "Local startup tests delivery robot in Msheireb",
       "excerpt": "A local startup Pass ... This robot weighs about 50 kg and has a length of 1 m and a width of 45 cm. With advanced machine learning and artificial intelligence technology, the device is more ...",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104736564/Local-Startup-Tests-Delivery-Robot-In-Msheireb",
-      "originalUrl": "https://menafn.com/1104736564/Local-Startup-Tests-Delivery-Robot-In-Msheireb",
+      "webUrl": "https://thepeninsulaqatar.com/article/22/08/2022/local-startup-tests-delivery-robot-in-msheireb",
+      "originalUrl": "https://thepeninsulaqatar.com/article/22/08/2022/local-startup-tests-delivery-robot-in-msheireb",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/updates/pr/2022-08/22/TP_6ff9dimage_story.jpg",
-          "width": 600,
-          "height": 400,
+          "url": "https://thepeninsulaqatar.com/get/maximage/20220822_1661188559-690.jpg?1661188559",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -904,11 +956,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-22T11:47:00-07:00",
+      "publishedDateTime": "2022-08-22T13:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MENAFN",
-        "domain": "menafn.com",
+        "name": "The Peninsula",
+        "domain": "thepeninsulaqatar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1049,6 +1101,49 @@
       "provider": {
         "name": "Los Angeles Business Journal",
         "domain": "labusinessjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-20-best-bitcoin-robot-2022-cheapest-robots-revealed.md",
+      "title": "Best Bitcoin Robot 2022 – Cheapest Robots Revealed",
+      "excerpt": "In terms of how Bitcoin Prime functions, the platform claims that the robot is governed by artificial intelligence (AI) and machine learning. Finally, Bitcoin Prime does not charge any fees.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business2community.com/cryptocurrency/bitcoin-robots",
+      "originalUrl": "https://www.business2community.com/cryptocurrency/bitcoin-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.business2community.com/B2C_FB.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-20T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business 2 Community",
+        "domain": "business2community.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1285,104 +1380,6 @@
       ],
       "topics": [
         "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-what-will-humanoid-robots-be-used-for-in-the-future.md",
-      "title": "What will humanoid robots be used for in the future?",
-      "excerpt": "The humanoid robot war is already raging between the United States' Tesla and China's Xiaomi. The Chinese company unveiled their AI robots",
-      "sourceUrl": null,
-      "webUrl": "https://www.citizen.co.za/lifestyle/3175680/humanoid-robots-xiamoi-cyberone/",
-      "originalUrl": "https://www.citizen.co.za/lifestyle/3175680/humanoid-robots-xiamoi-cyberone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.citizen.co.za/wp-content/uploads/2022/08/xiaomi-AI.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.citizen.co.za/lifestyle/3175680/humanoid-robots-xiamoi-cyberone/",
-      "cdnAmpWebUrl": "https://amp-citizen-co-za.cdn.ampproject.org/c/s/amp.citizen.co.za/lifestyle/3175680/humanoid-robots-xiamoi-cyberone/",
-      "publishedDateTime": "2022-08-18T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Citizen",
-        "domain": "citizen.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-artificial-intelligence-chip-market-size-worth-usd-832527-mn-by-2027-the-insight-partners.md",
-      "title": "Artificial Intelligence Chip Market Size Worth USD 83,252.7 Mn By 2027 | The Insight Partners",
-      "excerpt": "According to The Insight Partners' research, the Artificial Intelligence Chip Market to 2027 – Global Analysis and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-worth-usd-832527-mn-by-2027-the-insight-partners-2022-08-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-worth-usd-832527-mn-by-2027-the-insight-partners-2022-08-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos",
         "AI in Robotics"
       ]
     }
