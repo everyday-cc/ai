@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/nvidia-says-us-ordered-it-to-st
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-says-us-ordered-it-to-stop-sales-of-ai-chips-to-china/"
 type: article
 quality: 121
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia Says US Order Restricts Sales of AI Chips to China"
+    excerpt: "New licensing requirements come amid concern that the chips could be put to military use, the chipmaker says in a regulatory filing."
+    publishedDateTime: 2022-08-31T23:19:00Z
+    webUrl: "https://www.cnet.com/tech/nvidia-says-us-order-restricts-sales-of-ai-chips-to-china/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/nvidia-says-us-order-restricts-sales-of-ai-chips-to-china/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-says-us-order-restricts-sales-of-ai-chips-to-china/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 104
+    images:
+      - url: "https://www.cnet.com/a/img/resize/621e8aff0309eba6ed29be58ac6ed33c53072f63/2021/07/19/376c0f07-cc4b-4ef1-8be1-a3d0145c8b33/gettyimages-1231345685.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine learning at the edge: The AI chip company challenging Nvidia and Qualcomm"
     excerpt: "Sima AI's machine learning system-on-chip (MLSoC) platform that enables ML deployment and scaling at the edge has started shipping."
     publishedDateTime: 2022-08-30T13:00:00Z
@@ -56,6 +72,6 @@ related:
         height: 600
         isCached: true
 
-secured: "ZjdWT9yAag9ElrA7zKDz2N0G5RsJLMHwWtM2oozjpkJbtZYJq3JMJ7gSESXMCw4uiI4Dbyk/bsBjLqP4QpkMyhoElNFVkqyhkYVEoZQiS7yGaf5S6aUqJMJMIkp2sNU5zTZjd++66FeMBQKanj6OF0wvzbidQFZltXjOI6Q7jWp5M15yb7x/a1a00S3iWGeZX0NSki7VgFJXpBTJ5syr0CNfRFR7OoZJ/glomqZyUXGaQpTRi/SKmAv19EMvpvQqD4lFFtQz8Ga02aaXylAq8WfiIkM6hagELy/WjIiCXOQJlPHu4VuIWZHNVmh/7Fad1UTQxA0DRyFHoyXXAdwAKnBcrqMxOOdIG4dEJqpP6/8=;eY1yHyoUMAouqeu7zfdlmA=="
+secured: "PQV2rTwMWBQNkKAiTUUsHs6fR2PEgtyYkzTCWs/hGYqfvIH4cO6S9iUhOBIw0kSjnCYdc6ShBgpuIqzDqy3+HCOzDPcEGj01xRz/rXsv3KiiiNaSx5lHbKl2WE2uMc+f2bC5WqajlQnLCKYtiUGK5RRlWhIG2HFmV2GT13/T5/7a/WUm5qLzPGWukLgSLtov3wL1/+d68wPKQUY9LV1T0r7xJqhiD7SHdmXaIcpfYahUwiNDM8g31d7iUvakuKbhJL7WgQXOX7G6c70gtmeoEepwGnCrA4fNsVzetKg9BRyx4oP+Zw3BIOhmhdT4eHG/wfwi06klt6z/fUo/sf9inmxVLzpqpsonG1E5QT999xLHIDmVtGpiC7uTspT6gv4YRR4GrfC7r3K2hXiRWCA3tHwckV7S5DPkgmb4FLZbRWkJxAmbvLC4ytuhTaCO9QIdHjsn9tAKkHUve5CuywQ/0JX0ChbNzIggGzs8+dQeXr4QvrsbxoBj5mKeY3TNKUbRWVwTc4V5udGzTto0Dw75lQ==;G5758IwSbw6W9HUO9O/gOA=="
 ---
 

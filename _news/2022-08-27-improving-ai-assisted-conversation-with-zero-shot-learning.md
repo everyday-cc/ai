@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/improving-ai-assisted-conversation-with-z
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/improving-ai-assisted-conversation-with-zero-shot-learning/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://cdnimgen.vietnamplus.vn/t660/uploaded/wbxx/2022_08_29/bach_ho_oil_field.jpg"
         width: 660
         height: 439
+        isCached: true
+  - title: "Man Boasts About Winning Art Competition Using AI-Created Image"
+    excerpt: "Jason Allen's winning entry for the Colorado State Fair fine arts competition relied on an AI-powered program called Midjourney, which can generate images from a line of text."
+    publishedDateTime: 2022-08-31T18:13:00Z
+    webUrl: "https://www.pcmag.com/news/man-boasts-about-winning-art-competition-using-ai-created-image"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/07LHXzoytNISjOYTSehqJ5N-1.fit_lim.size_1200x630.v1661964398.jpg"
+        width: 1120
+        height: 630
         isCached: true
   - title: "How Emotion AI will change the online learning landscape"
     excerpt: "With the development of technology, it has become evident that comprehension of both the cognitive and affective channels of human connection is crucial. Emotion recognition is a branch of affective computing that seeks to"

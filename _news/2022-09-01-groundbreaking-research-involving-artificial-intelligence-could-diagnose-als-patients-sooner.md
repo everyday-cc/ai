@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Groundbreaking research involving artificial intelligence could diagnose ALS patients sooner"
-excerpt: "ALS is a progressive neurodegenerative disease that affects nerve cells in the brain and spinal cord. \"In the case of what I have, which is called limb onset ALS, you begin to lose the ability to do stuff like walk or stand up and sit down without assistance,"
-publishedDateTime: 2022-08-31T19:48:00Z
-originalUrl: "https://www.abcactionnews.com/news/national/groundbreaking-research-involving-artificial-intelligence-could-diagnose-als-patients-sooner"
-webUrl: "https://www.abcactionnews.com/news/national/groundbreaking-research-involving-artificial-intelligence-could-diagnose-als-patients-sooner"
+excerpt: "Five thousand people in the U.S. are diagnosed with a neurological disease called ALS every year. Medical experts say it typically takes an average of two years to diagnose, but new research will likely make that timetable a lot shorter."
+publishedDateTime: 2022-08-31T19:52:00Z
+originalUrl: "https://www.wtkr.com/news/national/groundbreaking-research-involving-artificial-intelligence-could-diagnose-als-patients-sooner"
+webUrl: "https://www.wtkr.com/news/national/groundbreaking-research-involving-artificial-intelligence-could-diagnose-als-patients-sooner"
 type: article
 quality: 26
 heat: 26
 published: false
 
 provider:
-  name: ABC Action News
-  domain: abcactionnews.com
+  name: WTKR.com
+  domain: wtkr.com
 
 topics:
   - AI
@@ -23,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "5+tdWFSLU/Cx+tm8AKq1m7T9EFH0doB4PLea3wl8tsnNEq6Yy1BpdDL0wKEii10CCjwKnU4HLOvG04gNri5ARAIc6cWDRAOIM1tU4elRocYDziRA7rc9Bmp5bwm1edoEgdsDix6Pk5tNr72EQFg820atK/MPIF2eec/douOYWTjSe22x3/2edquFfKzQzdNs456L8wqd1EBqUFuWpaswUk+fT2gxak6Lk/CzkRtMDTQ0M3YCcRjFsgVf927eOCLP8AXK1ltRknF17qLSUEhmTI2OWOUq5YPJGnv9ANxzS9gaaUJaAPASO3i5bRASNfja2BVcALMU3Qrn1IW1tUgwRnc4mPbkFl9uTf8jQ9CJxeE=;W+2OlWH6WiXS+35mnVqgcA=="
+secured: "ctP7K+PzEsCC2+LDUK0qRWdXj1NVIih1IUfWUQA3ve5D6LEK5/wSW5SavibOvufifeu80hoF9sPHAzmVr0ku/8Zsti8NUBjcGV2DSJs8q9lU0wivZmSl4bVY5ytctEsKcRZu0uk8P9pLiOzGhWnhfci+u3vOSZHR0R5amdg1lY5WRFFbNsSmECN66vHzbzZGqsBV6G1mV0yv2PjV/KzBHwqegNhpVylPZXRJuIG2jcGm2/gJBJIW43dbJB55ElnZCamu2/DVvc2Q/MRlQ2YA+bMiOhdkUtkTtnEtkSy2u80SNWib6aRPkm2YPfcsnmL11v1ZW6r6wBCLFeA8rLPDohxrQ8xtL8l8aiWb4WNp9zc=;+FQxv94d7HePL6VIDk5/nw=="
 ---
 

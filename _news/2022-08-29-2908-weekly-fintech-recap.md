@@ -7,7 +7,7 @@ originalUrl: "https://financialit.net/news/artificial-intelligence/2908-weekly-f
 webUrl: "https://financialit.net/news/artificial-intelligence/2908-weekly-fintech-recap"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,40 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "AI in Fintech Market Report 2022-27: Size, Share, Growth, Trends And Forecast"
+    excerpt: "The global AI in fintech market reached a value of US$ 9.4 Billion in 2021. Looking forward, IMARC Group expects the market to reach US$ 36.1 Billion by 2027, exhibiting at a CAGR of 26.1% during 2022-2027."
+    publishedDateTime: 2022-09-01T00:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/ab28710855/ai-in-fintech-market-report-2022-27-size-share-growth-trends-and-forecast"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28710855"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28710855"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 56
+    images:
+      - url: "https://www.abnewswire.com/uploads/1661925524.jpeg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Robot Software Market Size, Business Strategy and Regional Analysis by 2027 | IMARC Group"
+    excerpt: "Looking forward, IMARC Group expects the market to reach a value of US$ 40.1 Billion by 2027 exhibiting a CAGR of 21.50% during 2022-2027.The latest report published by IMARC Group, titled “Robot Soft"
+    publishedDateTime: 2022-08-30T00:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/ab28678753/robot-software-market-size-business-strategy-and-regional-analysis-by-2027-imarc-group"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28678753"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28678753"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 50
+    images:
+      - url: "https://www.abnewswire.com/uploads/1661793945.jpeg"
+        width: 474
+        height: 279
+        isCached: true
 
 secured: "rggTW+dhrryzCV4S8pOqkWhfSIN4BCQS7xvazy2PcyVbVRzL2+VdqIBQLzT48KG338fclZu4DD8fH23fv5pGj1xPNRT3CSDQSgS/yiTU35FKWIimf6WC1m+/ybaOdM1+2KrJOXvjQJ7Z6ndeCJHkgesyKCJIxevn8mvpOZcj/WTYgknRpAwqzjSfcgYzqCPGdsKHLXfGj4XxCAVFVssgwnNakvFbmZmLF03A+kcZjIMzHTWsqpnCpbbxUmgqKLTfDoEApJ3zvr+BULjTP8uUfMQ/YH3Cr6IkecQFvKNdxP+KfKVzVwKD5LTNnjCs8ZERl4IG0c0Aeessxat7KWOC4LPByXFW+RaY0E2y8WiZz0PWVSe4HKC0qAiSCgml5bEPFanglw9F6K/lrq4IiQCtl6jCnHxvtCcAHyaEHPFuPg9b3oVabQWSfb6zbzjN2aE7iNiOAG8IqLZOhPM5itOCHLWmQqm6ZOmEfr8jQyVjR00Jyc7uuVJUSv9ddK3n1n/BvEMPzLyJdp8ujkGX85WdBw==;0nOaBeSLgsY1xjxa/QAI7Q=="
 ---

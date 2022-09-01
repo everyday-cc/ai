@@ -75,15 +75,6 @@ related:
         width: 320
         height: 213
         isCached: true
-  - title: "Shaquille O’Neal to support Australia’s Indigenous ‘Voice’ campaign"
-    excerpt: "SYDNEY: American basketballer Shaquille O’Neal will throw his support behind the Australian government’s campaign to create an Indigenous “Voice to Parliament”, Prime Minister Anthony Albanese said today."
-    publishedDateTime: 2022-08-27T07:23:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/world/2022/08/27/shaquille-oneal-to-support-australias-indigenous-voice-campaign/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 19
   - title: "Indigenous Senator Lidia Thorpe lashes Anthony Albanese for using Shaquille O'Neal to promote Voice to Parliament"
     excerpt: "Indigenous Greens Senator Lidia Thorpe has slammed Prime Minister Anthony Albanese for using former American basketball star Shaquille O’Neal to spruik the Indigenous Voice to Parliament."
     publishedDateTime: 2022-08-29T07:44:00Z

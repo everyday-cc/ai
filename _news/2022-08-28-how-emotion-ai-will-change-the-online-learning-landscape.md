@@ -59,6 +59,20 @@ related:
         width: 660
         height: 439
         isCached: true
+  - title: "Man Boasts About Winning Art Competition Using AI-Created Image"
+    excerpt: "Jason Allen's winning entry for the Colorado State Fair fine arts competition relied on an AI-powered program called Midjourney, which can generate images from a line of text."
+    publishedDateTime: 2022-08-31T18:13:00Z
+    webUrl: "https://www.pcmag.com/news/man-boasts-about-winning-art-competition-using-ai-created-image"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/07LHXzoytNISjOYTSehqJ5N-1.fit_lim.size_1200x630.v1661964398.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Soaking up the sun with artificial intelligence"
     excerpt: "The sun continuously transmits trillions of watts of energy to the Earth. It will be doing so for billions more years. Yet, we have only just begun tapping into that abundant, renewable source of energy at affordable cost."
     publishedDateTime: 2022-08-31T20:39:00Z

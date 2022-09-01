@@ -1,20 +1,32 @@
 ---
 category: news
 title: "Driverless cars: Experts warn no easy answer to how safe they should be"
-excerpt: "There is no easy answer as to how safe self-driving cars should be, an adviser to a new government-backed report has told the BBC. The Centre for Data Ethics and Innovation (CDEI) report warns that it might not be enough for self-driving cars to be safer than human drivers."
+excerpt: "It says the public may have little tolerance for driverless car crashes - even if they are safer on average. It comes as the government sets out its plans for self-driving cars. No self-driving cars are currently allowed on UK roads,"
 publishedDateTime: 2022-08-18T23:17:00Z
-originalUrl: "https://www.bbc.co.uk/news/technology-62598618"
-webUrl: "https://www.bbc.co.uk/news/technology-62598618"
+originalUrl: "https://www.bbc.com/news/technology-62598618?at_medium=custom7&at_custom2=twitter&at_campaign=64&at_custom4=43EF959E-1F67-11ED-98A9-84BF4744363C&at_custom1=%5Bpost+type%5D"
+webUrl: "https://www.bbc.com/news/technology-62598618?at_medium=custom7&at_custom2=twitter&at_campaign=64&at_custom4=43EF959E-1F67-11ED-98A9-84BF4744363C&at_custom1=%5Bpost+type%5D"
+ampWebUrl: "https://www.bbc.com/news/technology-62598618.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62598618.amp"
 type: article
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-secured: "TTvH8ATJqjlbnP6m06Avu7YP4vjs+GEvUYO6m6q+nM8UKbC0SyBnUcJDTBkEhQiJJnvJwtxqEzA/ScJ3NHHpxBHoxEL6RXeuPjSXyX+9EYpi4QwbNdeMN55UaYeR9dtZf+IDberbGKHT+6ZD/Te8Kb8rcZvKNw7s5XdaEt6mW1Gt5N0kT80VIbC/TuCdoiidwvilsaxcrEg6HUncjYwRXWh1CfaLuMB+724V48YiWaT99WUHAGYTefOBO6JYv2vUGOaIiY4ZO8M6iyEFLxirK7hAQd53wZMq7dG9DWcMHYMkZpeRwQOInBpfDHqvWvghPzQAeFLJLSyrinfMSvVlD6NjRYvw24vSxkpWi61Rwi1E/X16gxvrqhFV9NgCJqiAcGOgKHj8jTFjVsn0OkovBmBzDiowqV1TWfFRyIa9heVLp5CEjb2iMPQoXN/aVIFJdHTkaMIn2Ks9ddK5UNZbzFHn/GnzPHpeg9zzzYHN7fMrcR7xrN4+SekjXJFIAwLdjNbga8/NTCsjuAKCZahWbA==;h8lNFrZLWWrHabfA5DguKQ=="
+images:
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/310D/production/_126375521_selfdrivinggettyimages-928081066.jpg"
+    width: 1024
+    height: 576
+    isCached: true
+
+secured: "ONmo6oXrbncwZt2vTzNja9CZL/667G+x2S9OJlEqrM5l3Y03YRrv3pqIb0Y99ewhAU/SqHfcuOhBrO5UyqRvtmtoQKeNXajanU+E5+GU3e+uQ/EuMtG5HVupzqGQWNZGcSZLhi5rMf8CLWDEBfy0GqFDbGqe6+jPIFQGtDtyEld/mHpkO+xgN15TH8ApAFYqPv6eU/SJ8ExfI9Tc68y54milaVayakm/0yfqU/1Orut0nDzdPGrUEwctaqYHvCAr/iivstwSPg9mrBhRH9nVcdxPl5jxl4vBN6+raB0l2/hRtEaKqN2gz55hLbKT/PiS7+cqpYZXYOEZxjDrv9yRCPZHKGutIwi66hC7zgDlcDc=;CHIDQLWIpzEv00FkZnb08Q=="
 ---
 
