@@ -2,26 +2,26 @@
 category: news
 title: "Self-driving cars: A primer"
 excerpt: "Self-driving cars are part of an uncertain future, but automakers have signaled they are constantly moving to a day when at least some of us won’t drive at all."
-publishedDateTime: 2022-08-28T19:02:00Z
-originalUrl: "https://www.wivb.com/automotive/self-driving-cars-a-primer/"
-webUrl: "https://www.wivb.com/automotive/self-driving-cars-a-primer/"
-ampWebUrl: "https://www.wivb.com/automotive/self-driving-cars-a-primer/amp/"
-cdnAmpWebUrl: "https://www-wivb-com.cdn.ampproject.org/c/s/www.wivb.com/automotive/self-driving-cars-a-primer/amp/"
+publishedDateTime: 2022-08-28T19:04:00Z
+originalUrl: "https://www.krqe.com/news/weird/self-driving-cars-a-primer/"
+webUrl: "https://www.krqe.com/news/weird/self-driving-cars-a-primer/"
+ampWebUrl: "https://www.krqe.com/news/weird/self-driving-cars-a-primer/amp/"
+cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/news/weird/self-driving-cars-a-primer/amp/"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: WIVB-TV
-  domain: wivb.com
+  name: KRQE
+  domain: krqe.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.wivb.com/wp-content/uploads/sites/97/2022/08/chevrolet-bolt-ev-cruise-automation-test-mule-in-san-francisco_100565635_h.jpg?w=1280"
+  - url: "https://www.krqe.com/wp-content/uploads/sites/12/2022/08/chevrolet-bolt-ev-cruise-automation-test-mule-in-san-francisco_100565635_h.jpg?w=1280"
     width: 1280
     height: 855
     isCached: true
@@ -85,6 +85,6 @@ related:
       domain: bizjournals.com
     quality: 3
 
-secured: "dtR1qEYqCrtHz0DE/hoSF9G9RcdxhNDQGQYdouUgvu+QqSiADqSfYrm2zI24Bd1A6FJxKwvHkCta6rL6738dXaiH/KXHzXxpls8lI+XvApIiRxY+++4SFlnntVMpSV86CHK8cwoHEhGdL6cwv0DgmD9n9RXVWt3qUZyRJiIgE0XdR6Fvm12qzKTpfpksZGWSmxJnGp8w1AvConCq91tGnzX02ETdDBj2Zto+NfPH2++9tERFE/svcTTTKodQocrGFB0KheLMJHHwQFKSJ0DffZ5bQWy5jCNMjxK8GX52zFvi7zYDjeqoNp5HSppnNso6G4JCscaVjh0Z5VKqu9SE/EVNo/O1nKTgJ11vHYK2rUQ=;jhugY6F4ImYwF27KV/HZCg=="
+secured: "Drrzga4p+K/TD39m8UUlc6GC5ecLAfZIYv0Kc6+kiWK/8Il8MJeWgHzFQWX8yLwisRK7ONh6rKbiqtCPPEpi1hXL1/5XNFlGGo8PlggGRa7+mgRG2lTly5AZrt1r4yvh6oske3P8pTp8Z+yWPtcZ3DUC5vvqVAlCzgyMVSRDOyOeWxOzlzLmr6yyHJVerRgHAx4ksVtdN1X51gpYO9QX/ADMAbRwxUtC+HmOXvouWqoB2U4RGwVDByiHInP5W/prGjyqf4n2/su6rQ+FrfuII/B4vSWyWG3Qail4XJudJ5BJlB7lcWMXp3ihy1sKjfVhA95uGqJ4B341Pw61PaPmveV2QZCMvZ+D0koRpz6P+G0=;/LoMrEkHax6r56U3ijNcgA=="
 ---
 

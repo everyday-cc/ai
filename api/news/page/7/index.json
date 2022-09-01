@@ -2,21 +2,21 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2022-08-24-pilot-travel-centers-explores-accommodating-self-driving-trucks.md",
-      "title": "Pilot Travel Centers Explores Accommodating Self-Driving Trucks",
-      "excerpt": "Pilot Travel Centers LLC, one of the largest operators of roadside travel centers in North America, said it made an equity investment in self-driving trucking startup Kodiak Robotics Inc. and is partnering with the company to incorporate services for ...",
+      "path": "_news/2022-08-24-deep-learning-algorithm-may-streamline-lung-cancer-radiotherapy-treatment.md",
+      "title": "Deep learning algorithm may streamline lung cancer radiotherapy treatment",
+      "excerpt": "More information: Hosny A et al. Clinical Validation of Deep Learning Algorithms for Lung Cancer Radiotherapy Targeting, The Lancet Digital Health (2022). DOI: 10.1016/S2589-7500(22)00129-7",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/pilot-travel-centers-explores-accommodating-self-driving-trucks-11661299412",
-      "originalUrl": "https://www.wsj.com/articles/pilot-travel-centers-explores-accommodating-self-driving-trucks-11661299412",
+      "webUrl": "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.wsj.net/im-609383/social",
-          "width": 1280,
-          "height": 640,
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/lung-scan.jpg",
+          "width": 2880,
+          "height": 1966,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T16:03:00-07:00",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.amp",
+      "publishedDateTime": "2022-08-23T15:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -49,7 +40,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "Machine Learning",
         "AI"
       ]
     },

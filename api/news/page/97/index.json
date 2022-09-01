@@ -2,6 +2,49 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2022-06-14-artificial-intelligence-in-precision-medicine-market-likely-to-boost-future-growth-by-2030-intel-ai-ibm-ge-healthcare-etc.md",
+      "title": "Artificial Intelligence in Precision Medicine Market Likely to Boost Future Growth by 2030 | Intel AI, IBM, GE Healthcare, etc.",
+      "excerpt": "The key vendors in the Global Artificial Intelligence in Precision Medicine Market include Intel AI, IBM, GE Healthcare, Thermo Fisher Scientific, Qiagen, Berg Health, Medasense Biometrics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-precision-medicine-market-likely-to-boost-future-growth-by-2030-intel-ai-ibm-ge-healthcare-etc",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-precision-medicine-market-likely-to-boost-future-growth-by-2030-intel-ai-ibm-ge-healthcare-etc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/Juneteenth-CC-BY-2.0-Wiki-600x337.jpeg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-self-driving-cars-market-to-witness-massive-growth-from-2022-to-2030-audi-ag-stomach-muscle-volvo-aptiv.md",
       "title": "Self Driving Cars Market to Witness Massive Growth from 2022 to 2030 | Audi AG, Stomach muscle Volvo, Aptiv",
       "excerpt": "Central members working in the worldwide self-driving car market incorporate Audi AG, Stomach muscle Volvo, Aptiv, BMW AG, Baidu, Mainland AG, Apple Inc., Mainland AG, DiDi Chuxing, Daimler AG ...",
@@ -1095,49 +1138,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-largest-order-for-ai-robotics-leader-in-its-short-amazing-history-artificial-intelligence-tech-stock-symbol-aitx.md",
-      "title": "Largest Order For AI Robotics Leader In Its Short Amazing History: Artificial Intelligence Tech: Stock Symbol: AITX",
-      "excerpt": "AITX SCOT. AITX AVA. AITX Collage. AITX Showcase. AITX ROAMEO. Largest Order for AI Robotics Leader in its Short Amazing History thus far; $AITX Receives a",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104369930/Largest-Order-For-AI-Robotics-Leader-In-Its-Short-Amazing-History-Artificial-Intelligence-Tech-Stock-Symbol-AITX",
-      "originalUrl": "https://menafn.com/1104369930/Largest-Order-For-AI-Robotics-Leader-In-Its-Short-Amazing-History-Artificial-Intelligence-Tech-Stock-Symbol-AITX",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-06/14/EP_1bc51image_story.jpeg",
-          "width": 893,
-          "height": 585,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T22:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

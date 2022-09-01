@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-05-16-artificial-intelligence-ai-in-sports-market-value-projected-to-reach-us-35559-million-by-2027-acumen-research-and-consulting.md",
+      "title": "Artificial Intelligence (AI) In Sports Market Value Projected To Reach US$ 3,555.9 Million By 2027: Acumen Research And Consulting",
+      "excerpt": "The Global Artificial Intelligence (AI) in Sports Market is expected to grow at a CAGR of around 32.8% from 2020 to 2027",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-sports-market-value-projected-to-reach-us-35559-million-by-2027-acumen-research-and-consulting-2022-05-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-sports-market-value-projected-to-reach-us-35559-million-by-2027-acumen-research-and-consulting-2022-05-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-15T20:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-11-man-vs-machine-the-1997-chess-game-that-brought-ai-into-view.md",
       "title": "Man vs. machine: The 1997 chess game that brought AI into view",
       "excerpt": "May 11, 1997 was a watershed for the relationship between man and machine, when the artificial intelligence (AI) supercomputer Deep Blue finally",

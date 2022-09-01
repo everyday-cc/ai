@@ -43,22 +43,6 @@ related:
         width: 1600
         height: 1062
         isCached: true
-  - title: "Shaquille O’Neal meets with PM in support of Indigenous voice to parliament"
-    excerpt: "Anthony Albanese announces the NBA legend will be part of the effort to mobilise support in the lead-up to a referendum"
-    publishedDateTime: 2022-08-27T06:12:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2022/aug/27/shaquille-oneal-meets-with-pm-in-support-of-indigenous-voice-to-parliament"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2022/aug/27/shaquille-oneal-meets-with-pm-in-support-of-indigenous-voice-to-parliament"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/aug/27/shaquille-oneal-meets-with-pm-in-support-of-indigenous-voice-to-parliament"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 42
-    images:
-      - url: "https://i.guim.co.uk/img/media/6f5db949c8cc9f329d607d2847af3ff1fc02fcba/0_550_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=5d7a4495d0db1d78aa4fe4ed492844a7"
-        width: 620
-        height: 372
-        isCached: true
   - title: "What does American basketballer Shaquille O’Neal have to do with the Indigenous Voice to Parliament?"
     excerpt: "Is the Albanese government’s decision to bring NBA star Shaquille O'Neal in on Indigenous reform inspired or ‘cultural cringe’?"
     publishedDateTime: 2022-08-29T09:35:00Z

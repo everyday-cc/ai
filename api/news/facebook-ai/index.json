@@ -102,6 +102,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-27-artist-ai-weiwei-warns-against-hubris-in-troublesome-times.md",
+      "title": "Artist Ai Weiwei warns against hubris in 'troublesome times'",
+      "excerpt": "Chinese dissident and artist Ai Weiwei lampoons the surveillance state and social media with his first glass sculpture, made on the Venetian island of Murano.",
+      "sourceUrl": null,
+      "webUrl": "https://www.local10.com/entertainment/2022/08/26/artist-ai-weiwei-warns-against-hubris-in-troublesome-times/",
+      "originalUrl": "https://www.local10.com/entertainment/2022/08/26/artist-ai-weiwei-warns-against-hubris-in-troublesome-times/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/QV54AUTTBVAWLF2YBJMD6IRINQ.jpg?_a=ATAK9fe0",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.local10.com/entertainment/2022/08/26/artist-ai-weiwei-warns-against-hubris-in-troublesome-times/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-local10-com.cdn.ampproject.org/c/s/www.local10.com/entertainment/2022/08/26/artist-ai-weiwei-warns-against-hubris-in-troublesome-times/?outputType=amp",
+      "publishedDateTime": "2022-08-26T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WPLG",
+        "domain": "local10.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-25-mckinsey-report-two-ai-trends-top-2022-outlook.md",
       "title": "McKinsey report: Two AI trends top 2022 outlook",
       "excerpt": "Newly-released McKinsey report named applied AI and industrializing machine learning as two significant technology trends unfolding today.",
@@ -1427,58 +1470,6 @@
         "AI",
         "AI Ethics",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-australian-ai-star-appen-flags-first-half-loss-shares-plunge.md",
-      "title": "Australian AI star Appen flags first-half loss, shares plunge",
-      "excerpt": "Aug 2 (Reuters) - Australia's Appen Ltd (APX.AX), which runs artificial intelligence training for Facebook ... analyst John Campbell wrote in a research note. RBC Capital Markets analyst Garry ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/australian-ai-star-appen-flags-first-half-loss-shares-plunge-2022-08-02/",
-      "originalUrl": "https://www.reuters.com/technology/australian-ai-star-appen-flags-first-half-loss-shares-plunge-2022-08-02/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=108",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-01T21:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

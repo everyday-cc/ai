@@ -1148,29 +1148,38 @@
       ]
     },
     {
-      "path": "_news/2022-08-24-deep-learning-algorithm-may-streamline-lung-cancer-radiotherapy-treatment.md",
-      "title": "Deep learning algorithm may streamline lung cancer radiotherapy treatment",
-      "excerpt": "Clinical validation of deep learning algorithms for radiotherapy targeting of non-small-cell lung cancer: an observational study. The Lancet Digital Health , 2022; 4 (9): e657 DOI: 10.1016/S2589 ...",
+      "path": "_news/2022-08-24-pilot-travel-centers-explores-accommodating-self-driving-trucks.md",
+      "title": "Pilot Travel Centers Explores Accommodating Self-Driving Trucks",
+      "excerpt": "Pilot Travel Centers LLC, one of the largest operators of roadside travel centers in North America, said it made an equity investment in self-driving trucking startup Kodiak Robotics Inc. and is partnering with the company to incorporate services for ...",
       "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/08/220824152208.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/08/220824152208.htm",
+      "webUrl": "https://www.wsj.com/articles/pilot-travel-centers-explores-accommodating-self-driving-trucks-11661299412",
+      "originalUrl": "https://www.wsj.com/articles/pilot-travel-centers-explores-accommodating-self-driving-trucks-11661299412",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 74,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-609383/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T16:59:00-07:00",
+      "publishedDateTime": "2022-08-23T16:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1186,7 +1195,7 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI in Autos",
         "AI"
       ]
     }

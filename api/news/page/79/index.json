@@ -2,6 +2,49 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2022-06-27-3d-em-uncovers-differences-in-neural-circuits-of-mice-monkeys-and-humans.md",
+      "title": "3D EM Uncovers Differences in Neural Circuits of Mice, Monkeys, and Humans",
+      "excerpt": "Neuroscientists use 3D EM data to gain insights into human neural circuitry, revealing an expanded network of interneurons in humans compared to mouse.",
+      "sourceUrl": null,
+      "webUrl": "https://www.genengnews.com/neuroscience/3d-em-uncovers-differences-in-neural-circuits-of-mice-monkeys-and-humans/",
+      "originalUrl": "https://www.genengnews.com/neuroscience/3d-em-uncovers-differences-in-neural-circuits-of-mice-monkeys-and-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.genengnews.com/wp-content/uploads/2022/06/Low-Res_mpi-brain-research-01.jpg.png",
+          "width": 700,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-27T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GEN",
+        "domain": "genengnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-27-india-to-get-facial-recognition-tech-at-airports-understanding-how-it-will-work.md",
       "title": "India to get facial recognition tech at airports: Understanding how it will work",
       "excerpt": "Starting from 31 August, the facial recognition technology under the Centre's DigiYatra scheme will facilitate passengers to proceed at airports without the need for physical boarding pass or identity cards.",
@@ -1082,49 +1125,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-25-three-insights-you-might-have-missed-from-snowflake-summit-2022.md",
-      "title": "Three insights you might have missed from Snowflake Summit 2022",
-      "excerpt": "Cloud data warehouse disruptor Snowflake Inc. is the rockstar of the data management scene. So, it is appropriate that the energy at Snowflake Summit 2022 was akin to the buzz at a live concert ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2022/06/24/3-insights-might-missed-snowflake-summit-snowflakesummit/",
-      "originalUrl": "https://siliconangle.com/2022/06/24/3-insights-might-missed-snowflake-summit-snowflakesummit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/Frank-Slootman-Snowflake-Summit-2022.jpg",
-          "width": 6240,
-          "height": 4160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-24T16:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

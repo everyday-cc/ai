@@ -2,6 +2,57 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-08-16-how-snipd-is-using-ai-to-unlock-knowledge-in-podcasts.md",
+      "title": "How Snipd is using AI to ‘unlock knowledge’ in podcasts",
+      "excerpt": "Podcasting has emerged as a major billion-dollar industry, with ad revenue in the U.S. alone expected to hit $2 billion this year — a figure that’s set to double by 2024. Against that backdrop, major players in the field are bolstering their podcasting armory,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/16/how-snipd-is-using-ai-to-unlock-knowledge-in-podcasts/",
+      "originalUrl": "https://techcrunch.com/2022/08/16/how-snipd-is-using-ai-to-unlock-knowledge-in-podcasts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1281135694-e1660645198951.jpg?w=1024",
+          "width": 1024,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/16/how-snipd-is-using-ai-to-unlock-knowledge-in-podcasts/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/16/how-snipd-is-using-ai-to-unlock-knowledge-in-podcasts/amp/",
+      "publishedDateTime": "2022-08-16T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-16-iq-ai-shares-fall-on-funding-requirement.md",
       "title": "IQ-AI Shares Fall on Funding Requirement",
       "excerpt": "By Ian Walker Shares of IQ-AI Ltd. fell as much as 16% on Tuesday after the company said that it will need extra funding in order to continue as a",
@@ -1123,49 +1174,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-pearl-recognized-as-hot-vendor-in-computer-vision.md",
-      "title": "Pearl recognized as 'hot vendor' in computer vision",
-      "excerpt": "Pearl, a dental artificial intelligence software company, was recently included on the 2022 list of \"'Hot Vendors' in Computer Vision\" by Aragon Research, a technology insight company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckersdental.com/ai-teledentistry/39127-pearl-recognized-as-hot-vendor-in-computer-vision.html",
-      "originalUrl": "https://www.beckersdental.com/ai-teledentistry/39127-pearl-recognized-as-hot-vendor-in-computer-vision.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckersdental.com/templates/beckers/assets/images/dental-og-image.png",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-15T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "beckersdental",
-        "domain": "beckersdental.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

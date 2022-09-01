@@ -2,6 +2,58 @@
   "page": 107,
   "value": [
     {
+      "path": "_news/2022-06-08-artificial-neural-networks-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2028.md",
+      "title": "Artificial Neural Networks Market Overview with Detailed Analysis, Competitive landscape, Forecast to 2028",
+      "excerpt": "Jun 07, 2022 (Market Insight Reports) -- According to our latest study, due to COVID-19 pandemic, the global Artificial Neural Networks market size is estimated to be worth US$ 174.2 million in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2028-2022-06-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2028-2022-06-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-07T11:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-08-researchers-use-overcooked-to-train-ai-to-be-a-better-gaming-buddy.md",
       "title": "Researchers use Overcooked to train AI to be a better gaming buddy",
       "excerpt": "DeepMind researchers have been using the chaotic cooking game Overcooked (opens in new tab) to teach AI to better collaborate with humans. MIT researchers have followed suit, gifting their AI the ...",
@@ -1062,49 +1114,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-next-emerging-trend-in-fintech-sector-is-neobanking-easebuzz-cto.md",
-      "title": "Next emerging trend in fintech sector is Neobanking: Easebuzz CTO",
-      "excerpt": "Software-enabled payments collection and payouts platform Easebuzz aims to speed up payment collection and reduce credit periods with a smooth end-user experience, Amit Kumar, CTO, said on Tuesday. According to Kumar,",
-      "sourceUrl": null,
-      "webUrl": "https://www.daijiworld.com/news/newsDisplay?newsID=966403",
-      "originalUrl": "https://www.daijiworld.com/news/newsDisplay?newsID=966403",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/square_daijiworld247.jpg",
-          "width": 280,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daijiworld",
-        "domain": "daijiworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

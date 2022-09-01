@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Deep learning algorithm may streamline lung cancer radiotherapy treatment"
-excerpt: "Clinical validation of deep learning algorithms for radiotherapy targeting of non-small-cell lung cancer: an observational study. The Lancet Digital Health , 2022; 4 (9): e657 DOI: 10.1016/S2589 ..."
-publishedDateTime: 2022-08-23T23:59:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/08/220824152208.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/08/220824152208.htm"
+excerpt: "More information: Hosny A et al. Clinical Validation of Deep Learning Algorithms for Lung Cancer Radiotherapy Targeting, The Lancet Digital Health (2022). DOI: 10.1016/S2589-7500(22)00129-7"
+publishedDateTime: 2022-08-23T22:32:00Z
+originalUrl: "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.html"
+webUrl: "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.amp"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "I1PFl+FecSYQ3FqUUvvHX2Tt3vGMg8IzclDA/kJjG8ux6sOGN9hixFU8vLmZEEXi63S6S2qoIjWLZiWtKx9hI13IlWzDSkOYQiFpzQd2SHDOHuogloyW/Nb0oikgs8Q2R0QG3NwX/vnaAp61m/OVTFyAHcbB3xz6K5IUQsqAlxKqFwopYAUiH0l9K1JN1Hdgm1e/x39Vf3sLElXyuhcApeL70D9t0kzTL2GsfwO+8hpiyCC8rGuOwX/D2t+uYwqfN2jNlLH/9U8AkPrJ0BvDbrWrInJKm77E7ukBZuLelKKXZ2Nrsvn+wltlzw1ft9pbeUT+wom2zd0Jf2t+kzMrzPvA7CJGBK/F5t5U4Uy7whQ=;I7uaIjNCORqNfOf1cZlRJA=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/lung-scan.jpg"
+    width: 2880
+    height: 1966
+    isCached: true
+
+secured: "9Xdn/LhxyKXap5MOX8I/h65Hdvv9hTnGeuNuG+0aL90BDl7yhP8iLj0pwIZMAleW/r8Z9kWwC2Uvg+XQbnVJudkSEAwxpuerCJ8Ebci1Nkx/wZMTh6B8xkxu+kTs2wv0HZPf6khQxiqMQJTl8toKvBT7D7KrPpDLaklZaOZo4/S+PL2lInohos/ICQDQ/PU7AYzkH65h6CierrDK5kl9A9eYuQ6OjLZ9092XPx6P+zqwyXpInMA+QeASL9XxT1v2mE3PUmi9z6qT4SNx/NsnL58DTe9BFQifhU35t45DYFtYnTvq7T7W2FbzhgZtUOiFRHyURKdDxgot5t6f2Nzei3tXwerna5bGKpUGae1Uhe8=;2Y6Zf79ObgGoia+ktHnDKw=="
 ---
 

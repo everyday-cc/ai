@@ -2,6 +2,59 @@
   "page": 104,
   "value": [
     {
+      "path": "_news/2022-06-09-neural-network-software-market-size-share-and-developments-by-type-sales-channel-application-and-segment-estimates-for-the-years-2022-2028.md",
+      "title": "Neural Network Software Market Size, share, and developments by type, sales channel, application, and segment estimates for the years 2022-2028",
+      "excerpt": "Jun 09, 2022 (Heraldkeepers) -- The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional. Based on artificial component segmentation it ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-share-and-developments-by-type-sales-channel-application-and-segment-estimates-for-the-years-2022-2028-2022-06-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-share-and-developments-by-type-sales-channel-application-and-segment-estimates-for-the-years-2022-2028-2022-06-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-training-a-robot-to-recognize-and-pour-water.md",
       "title": "Training a robot to recognize and pour water",
       "excerpt": "A horse, a zebra and artificial intelligence helped a team of Carnegie Mellon University researchers teach a robot to recognize water and pour it into a glass.",
@@ -1049,49 +1102,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-new-observability-features-for-aws-step-functions.md",
-      "title": "New Observability Features for AWS Step Functions",
-      "excerpt": "Recently, AWS announced a new opt-in capability on the state-machine page for Step Functions. Developers can quickly analyze, debug, and optimize Standard Workflows by enabling the new execution ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/06/aws-step-functions-observability/",
-      "originalUrl": "https://www.infoq.com/news/2022/06/aws-step-functions-observability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2022/06/aws-step-functions-observability/en/headerimage/generatedHeaderImage-1654535632137.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

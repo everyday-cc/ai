@@ -1,27 +1,31 @@
 ---
 category: news
 title: "CT-derived body composition with deep learning predicts cardiovascular events"
-excerpt: "\"we anticipate that fully automated body composition analysis using machine learning could be widely adopted to harness latent value from routine imaging studies,\" the authors of this AJR article concluded. American Roentgen Ray Society. (2022, August 31)."
-publishedDateTime: 2022-08-31T20:20:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/08/220831131201.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/08/220831131201.htm"
+excerpt: "According to ARRS' American Journal of Roentgenology (AJR), fully automated and normalized body composition analysis of abdominal CT has promise to augment traditional cardiovascular risk prediction models."
+publishedDateTime: 2022-08-31T17:22:00Z
+originalUrl: "https://medicalxpress.com/news/2022-08-ct-derived-body-composition-deep-cardiovascular.html"
+webUrl: "https://medicalxpress.com/news/2022-08-ct-derived-body-composition-deep-cardiovascular.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-08-ct-derived-body-composition-deep-cardiovascular.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-ct-derived-body-composition-deep-cardiovascular.amp"
 type: article
-quality: 46
-heat: 46
+quality: 56
+heat: 56
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "z3RuAbOWPcL+RsxwMGp4i5NjmrjRHav6ECYqKkwoCsVnozQ4OC26hTpp4ygXPVfeGlbkloP5fzLznHh5o5DMU4Ie+v0kkwfSdWtmbZyfPzluUgdTjvfWB8MyX3FAtXpRIhh2j7iK6bWFxMTgeWpEvIduhtGKEfhdIp+LP4w+n1Un2bRfBCTvuFEbZVK5a/tiahJgapUo3F+ShjX7FTcpcNfA7E6mtQ9H8BzAkxIgIfld8rq8ve2uwRF+632A4iT0AMjvJJqpXhBt03qxAmaUyb2pFH8rl4sfdMEgtXQkM9OtlA/xR7TxXkhmwnX5oLR2cN1F8ep4Dnq8UIPW1zOYT50LS1AAzFX79pFrytFxP38=;YIUcKITKNDrldpr7nax9Ig=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/ct-derived-body-compos.jpg"
+    width: 780
+    height: 325
+    isCached: true
+
+secured: "R3Pgq4jvATv928yQKCNHOE4tzoBkDYevf9mcywDx25a1KTXRgTO+NySZegPriIGBQKKMytG5YwHRhO5H5Rpecb/+ta9FqZV9ArKe3A674CapGrfOVAN5gdB6JXaap91IFDYiGhn+hdwpl/Sioh6IX0Cvlc+ojrFzt2V1NDJ3IV/obsWKAr3eHIm6tEI6n+DTDNcu6F1VyMc5IurKQouA5pWloEw/Gt1Eyj+kUGCv/NnE//NRn6VPYMTbmzXuBYtcahFT/1zBU4Oy1XEZaH7pkcw4xoOZZpzNwNQnzr//MSWLsHBo5P1iD6sJaFBUCnj6cCD2BOjcf3grqa3QTKqFkgi8X+Nb1qHJtGVXIBkrVlE=;5q57xcwjzmr1JbqA/MX0ZQ=="
 ---
 

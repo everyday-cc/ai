@@ -1152,26 +1152,35 @@
       ]
     },
     {
-      "path": "_news/2022-08-22-2-artificial-intelligence-growth-stocks-down-84-and-92-to-buy-now.md",
-      "title": "2 Artificial Intelligence Growth Stocks Down 84% and 92% to Buy Now",
-      "excerpt": "Shares of Upstart Holdings (NASDAQ: UPST) and Lemonade (NYSE: LMND) currently trade 92% and 84% off their highs, respectively, but both AI stocks could produce market-crushing returns in the years ahead.",
+      "path": "_news/2022-08-22-a-neural-networkbased-strategy-to-enhance-near-term-quantum-simulations.md",
+      "title": "A neural network–based strategy to enhance near-term quantum simulations",
+      "excerpt": "Near-term quantum computers, quantum computers developed today or in the near future, could help to tackle some problems more effectively than classical computers. One potential application for these computers could be in physics,",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/2-artificial-intelligence-growth-stocks-down-84-and-92-to-buy-now",
-      "originalUrl": "https://www.nasdaq.com/articles/2-artificial-intelligence-growth-stocks-down-84-and-92-to-buy-now",
+      "webUrl": "https://techxplore.com/news/2022-08-neural-networkbased-strategy-near-term-quantum.html",
+      "originalUrl": "https://techxplore.com/news/2022-08-neural-networkbased-strategy-near-term-quantum.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/a-neural-network-based.jpg",
+          "width": 1222,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/2-artificial-intelligence-growth-stocks-down-84-and-92-to-buy-now?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-artificial-intelligence-growth-stocks-down-84-and-92-to-buy-now?amp",
-      "publishedDateTime": "2022-08-22T03:41:00-07:00",
+      "ampWebUrl": "https://techxplore.com/news/2022-08-neural-networkbased-strategy-near-term-quantum.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-neural-networkbased-strategy-near-term-quantum.amp",
+      "publishedDateTime": "2022-08-22T06:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
+        "name": "techxplore",
+        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1181,6 +1190,7 @@
         "news"
       ],
       "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

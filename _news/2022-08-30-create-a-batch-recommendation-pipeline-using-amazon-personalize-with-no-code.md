@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/create-a-batch-recom
 webUrl: "https://aws.amazon.com/blogs/machine-learning/create-a-batch-recommendation-pipeline-using-amazon-personalize-with-no-code/"
 type: article
 quality: 86
-heat: 97
+heat: 96
 published: true
 
 provider:

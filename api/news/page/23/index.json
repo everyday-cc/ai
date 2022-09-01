@@ -2,6 +2,59 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2022-08-10-ai-and-computer-vision-powers-growing-shop-and-go-platform.md",
+      "title": "AI and computer vision powers growing shop-and-go platform",
+      "excerpt": "AiFi, which is powered only by cameras and computer vision, announced today that it now boasts a total of 80 checkout-free stores worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-and-computer-vision-shop-and-go-retail-platform-expands/",
+      "originalUrl": "https://venturebeat.com/ai/ai-and-computer-vision-shop-and-go-retail-platform-expands/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/Loop-Union-City-3-min-1024x683-1.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-and-computer-vision-shop-and-go-retail-platform-expands/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-and-computer-vision-shop-and-go-retail-platform-expands/amp/",
+      "publishedDateTime": "2022-08-10T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-sysdig-blocks-cryptojacking-in-the-cloud-with-99-precision-using-machine-learning.md",
       "title": "Sysdig Blocks Cryptojacking in the Cloud with 99% Precision Using Machine Learning",
       "excerpt": "Sysdig, the unified container and cloud security leader, today announced machine learning-powered cloud detection and response (CDR) to combat cryptojacking. The company’s threat engine and detection algorithms block cryptojacking in the cloud with 99% precision.",
@@ -1105,48 +1158,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-ai-ecg-heart-trace-can-accurately-predict-diabetes-and-pre-diabetes.md",
-      "title": "AI + ECG heart trace can accurately predict diabetes and pre-diabetes",
-      "excerpt": "An artificial intelligence (AI) algorithm, derived from the features of individual heartbeats recorded on an ECG (electrocardiogram), can accurately predict diabetes and pre-diabetes, suggests preliminary research published in the online journal BMJ Innovations.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-08-ai-ecg-heart-accurately-diabetes.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-08-ai-ecg-heart-accurately-diabetes.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2017/heartbeat.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-08-ai-ecg-heart-accurately-diabetes.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-ai-ecg-heart-accurately-diabetes.amp",
-      "publishedDateTime": "2022-08-09T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

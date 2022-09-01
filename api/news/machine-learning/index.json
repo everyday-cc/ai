@@ -159,50 +159,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-30-machine-learning-at-the-edge-the-ai-chip-company-challenging-nvidia-and-qualcomm.md",
-      "title": "Machine learning at the edge: The AI chip company challenging Nvidia and Qualcomm",
-      "excerpt": "Sima AI's machine learning system-on-chip (MLSoC) platform that enables ML deployment and scaling at the edge has started shipping.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/machine-learning-at-the-edge-the-ai-chip-company-challenging-nvidia-and-qualcomm/",
-      "originalUrl": "https://venturebeat.com/ai/machine-learning-at-the-edge-the-ai-chip-company-challenging-nvidia-and-qualcomm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-08-30-mits-ai-model-can-detect-parkinsons-by-tracking-breathing-patterns.md",
       "title": "MITs AI model can detect Parkinsons by tracking breathing patterns",
       "excerpt": "The U.S. Dina Katabi Dina Katabi, the Thuan and Nicole Pham Professor in the Department of Electrical Engineering and Computer Science (EECS) at MIT and principal investigator at MIT Jameel Clinic, and her team have developed an artificial intelligence model that can detect Parkinson’s just from reading a person’s breathing patterns.",
@@ -298,7 +254,7 @@
       "originalUrl": "https://analyticsindiamag.com/making-machine-learning-available-to-everyone-story-of-bigml/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1162,34 +1118,34 @@
     {
       "path": "_news/2022-08-24-deep-learning-algorithm-may-streamline-lung-cancer-radiotherapy-treatment.md",
       "title": "Deep learning algorithm may streamline lung cancer radiotherapy treatment",
-      "excerpt": "Clinical validation of deep learning algorithms for radiotherapy targeting of non-small-cell lung cancer: an observational study. The Lancet Digital Health , 2022; 4 (9): e657 DOI: 10.1016/S2589 ...",
+      "excerpt": "More information: Hosny A et al. Clinical Validation of Deep Learning Algorithms for Lung Cancer Radiotherapy Targeting, The Lancet Digital Health (2022). DOI: 10.1016/S2589-7500(22)00129-7",
       "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/08/220824152208.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/08/220824152208.htm",
+      "webUrl": "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/lung-scan.jpg",
+          "width": 2880,
+          "height": 1966,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T16:59:00-07:00",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.amp",
+      "publishedDateTime": "2022-08-23T15:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1437,6 +1393,51 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-ai-and-ml-reliability-and-security-blenderbot-and-other-cases.md",
+      "title": "AI and ML reliability and security: BlenderBot and other cases",
+      "excerpt": "Blenderbot is a conversational bot, and its statements about people, companies or politics appear to be unexpected and sometimes radical",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/ai-and-ml-reliability-and-security-blenderbot-and-other-cases-wfgyxiac",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/ai-and-ml-reliability-and-security-blenderbot-and-other-cases-wfgyxiac",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/version/c:NjM1MjYzMTQtNGQ5OC00:MWQxOTFl/23-8-22-jpg.jpg?f=3%3A2",
+          "width": 693,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T03:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning",
+        "AI in Security"
       ]
     }
   ],
