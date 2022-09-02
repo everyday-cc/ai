@@ -1,33 +1,20 @@
 ---
 category: news
 title: "AWS Launches Region in the United Arab Emirates"
-excerpt: "SEATTLE, (BUSINESS WIRE) -- Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the launch of its second Region in..."
-publishedDateTime: 2022-08-30T06:42:00Z
-originalUrl: "https://www.marketwatch.com/press-release/aws-launches-region-in-the-united-arab-emirates-2022-08-30"
-webUrl: "https://www.marketwatch.com/press-release/aws-launches-region-in-the-united-arab-emirates-2022-08-30"
+excerpt: "AWS is committed to helping customers in the UAE deploy the most advanced cloud technologies and achieve the highest levels of security, availability, and resiliency,” said Prasad Kalyanaraman, vice president of Infrastructure Services at AWS."
+publishedDateTime: 2022-08-30T06:27:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-economy-amazoncom-inc-d9b9452aac444bf3821796b7f621f354"
+webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-economy-amazoncom-inc-d9b9452aac444bf3821796b7f621f354"
 type: article
-quality: 69
-heat: 69
-published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "sm6BXXy3RSZxEsCmkR3p0VBqK2wBrMi0/RPsSsoCrxSvc9pXAAS8qNjZob+GDIRcOZIYxSIxDcOUIGGgRqZlG3LmWWdYAJFsJcanAPgGH8MbezTtcZtd679lFo1Tt6tD3KDkrK881QZdeH9+n78dzhPRmH6TtYjb4qO/3rvvEDJlWzvSf4P2BbliGJwehS6LqTkkwKAIxj2HFSOXrRCldM0mguE0tyNdl7wzxcjk48Cc1iUc2RXe0pOt20Gj16ej/cKfW/nd0JxyVJo067X4OjnlKrST65cpTFIiakVCOJwpr8nJf8bmeibELvNnTcVG0PZzqbs0rceKsppeKXkcXODnHFW+XGaNDmIOzIeT240=;3EcZ/iExwBsu0YEQH5h3/g=="
+secured: "AfGSFEQIe5k9bfOyPiMUBpuM2gikKBL/u9HSfIcYDD68acBD5amqb0XMwl3yQixuG8yvXOHuDYKapO+2E81sMCqSrWi2hqExDbIyHXKlHznX5ObmN0Vee8Wvi+xQ2YbWW1EBWj/sRyfto/PY8lNZr6k8AOi8j4kJCCKp+nlyM+iDuwPMUauzRIedlswlLSmslmVyz71n5jlD4zrgNkdyJkX2fNK5v7WcX+r3cQ8q5aXi4Y2L2EWe8nTya78TQJPmUGAZQMjUtZeuU+oJNmf9+V7wj8FKMfwhRgFMvyH1dBs7/wI1N5t8w9wJnyH38tjE+2TXnwGXUjE6UxkRutjA52vk3OFfDaWMBky1b5LDCDY=;4zEyfCD/yHDD+q0eKb04LA=="
 ---
 

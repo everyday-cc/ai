@@ -24,6 +24,7 @@ topics:
   - AI
   - Google AI
   - Facebook AI
+  - AI in Robotics
 
 images:
   - url: "https://media.wired.com/photos/631134163dfe1372fb611162/master/pass/soccer_HZ_science_GettyImages-520264154.jpg"
@@ -70,6 +71,6 @@ related:
       domain: newscientist.com
     quality: 19
 
-secured: "0c/4Nh1sNyoBc78B4S2el7Dwb+5FpofPRtmG4g6grp18X68Jh3tXW8NU2oyoSU8f7gqh2+v3UNASJ5fl14XrSeCMm5uQuv/JkyDW7NoERVAffikz00uFQUkgI7D8udaw6c8ICIRjZo0tlf4BjTAB0WymIc5CgobuU/dyQMHljU1f2oJel0l/MM787fKyMfs43eTjTORj4s/M75Fcx2JzURq+SGWjN50viMosnVBoavexw2l/SmKDnKveK3RFk4oEYUXVKzezNkCWseIraedI06z6L5+w5z5U6yfNe2MUTVhlOKYqe2/iM50+KPwemi+emEImzl/wrucf329ehKHRmV9Zm5uX9VVJiUDkckTg8QU=;VhzGnOS7uiEL4CgiLX/UFA=="
+secured: "Hi9+iRxVVdY6cjbBsPGT6EAgvV5M2pFWoztbng1Xemj09qB1mjoycJVCoq55tso+F2rxOsg44OWdFhXEnQnf+nC86N04rYN7dVpBjNyGmKxGTesBv+gaGnAkPtv6zYIHADcbc8iDtzvcQFrr+7QMgqF5xMi906rffQ3fwFKrOOoh4X9cq+K7NhXr3WBiBR/pYbV8zmaYmbyQo0NzmnJHC09M/PD6dpxxuZ03ck3jYD5ujfR+fNAo0m3KAAUXL//+MLqVy58OemQg+MjD1J8NKovmBa9RZu5u36064ZmzcL7aeS04SQnL7h1ycNE+LA3v7BU/3YP7o6fM+s5IhlAsB2UpssdBM3GqM3v2SSQlI2f5bdNoVNCioSjCIuD9CsFPiekiEQjbnu7cIPdRBIcS3mjpuisENmf1602HpGQsBKSuGkqlKdcMqFBJIp7p0Kc+U2qqM6mN9mmpwv9cC9ES7BSsmtJWo9/0DSDC0opRRtqISbbODZoZolJ3lpz8+NM5k3JFPDTMH+QjUdQFX9Kwvw==;18H9oE9kfyngcTsA9jgy6A=="
 ---
 
