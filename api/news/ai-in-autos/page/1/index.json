@@ -218,7 +218,7 @@
       "originalUrl": "https://www.usnews.com/news/technology/articles/2022-08-30/baidu-beats-quarterly-revenue-estimates",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -383,6 +383,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-waymo-opens-up-driverless-robotaxi-service-in-downtown-phoenix-to-vetted-passengers.md",
+      "title": "Waymo opens up driverless robotaxi service in downtown Phoenix to vetted passengers",
+      "excerpt": "Waymo, the autonomous vehicle developer under Alphabet, is opening up its driverless robotaxi service in downtown Phoenix to vetted local residents. People who have been accepted to Waymo’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/29/waymo-opens-up-driverless-robotaxi-service-in-downtown-phoenix-to-vetted-passengers/",
+      "originalUrl": "https://techcrunch.com/2022/08/29/waymo-opens-up-driverless-robotaxi-service-in-downtown-phoenix-to-vetted-passengers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/IPACE_3.jpeg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/29/waymo-opens-up-driverless-robotaxi-service-in-downtown-phoenix-to-vetted-passengers/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/29/waymo-opens-up-driverless-robotaxi-service-in-downtown-phoenix-to-vetted-passengers/amp/",
+      "publishedDateTime": "2022-08-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1394,40 +1446,6 @@
         "AI in Autos",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-driverless-trucks-can-be-safe-and-efficient-by-thomas-black.md",
-      "title": "Driverless trucks can be safe and efficient, by Thomas Black",
-      "excerpt": "Higher pay has also put upward pressure on rates. There is an obvious long-term solution to both these problems: driverless trucks. But only if the industry gets off on the right foot with maximum ...",
-      "sourceUrl": null,
-      "webUrl": "https://pressofatlanticcity.com/opinion/columnists/driverless-trucks-can-be-safe-and-efficient-by-thomas-black/article_207c39b7-28ac-56e3-bde8-395eccaa10ac.html",
-      "originalUrl": "https://pressofatlanticcity.com/opinion/columnists/driverless-trucks-can-be-safe-and-efficient-by-thomas-black/article_207c39b7-28ac-56e3-bde8-395eccaa10ac.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-21T21:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Press of Atlantic City",
-        "domain": "pressofatlanticcity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

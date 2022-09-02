@@ -27,15 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Unblu and Directlink Team Up to Combine Advanced AI and Conversational Banking Platform to Transform Digital-to-Human CX"
-    excerpt: "New collaboration leverages leading AI to streamline multiple conversation channels and reduce friction associated with costly and fragmented"
-    publishedDateTime: 2022-08-30T13:37:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/unblu-and-directlink-team-up-to-combine-advanced-ai-and-conversational-banking-platform-to-transform-digital-to-human-cx-1031713711"
+  - title: "LivePerson Blazes New Trails with Conversational AI: The 2022 CRM Conversation Starters"
+    excerpt: "LivePerson has a decades-long history in the contact center space, as it has been developing conversational technologies since its founding in 1995. Recent moves have brought the New York-based company deeper into the marketing,"
+    publishedDateTime: 2022-09-01T04:00:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/Editorial/Magazine-Features/LivePerson-Blazes-New-Trails-with-Conversational-AI-The-2022-CRM-Conversation-Starters-154622.aspx"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 22
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 48
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/147821-CRM_0922_awards_conversation-ORG.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "MF2QirBpEysoRYbz6ikdiwyKWDSJTO6pRII8dMV95kBbIlmiQ3+h0LjgtvIJvewfKWZ92jjPRJNO7X1GqA6NXxmTnMjkQJNxqCsn/3VS2bCkzk2Wesj4BYPVlF9HOJ/QDJiUBD2Tb68JHNhN9ZeHO0tv/V6wGzgoKBvJRZ8Z9zRGec2sB+Vf7Qi/kwrR4zJAoBXR46CyJZc2nK7LtjA6NMjuiSj1M1ernqtM35yNPwp6pwkKwb4EBKT42YNnZYGBG2NisQXT2D0CUJv3OdnnXmMuWrKz/3KYM+erqJtd/7jrL7Q2AveqXIjR8CODJfxW6nGbsjAEcLR9FRLdetYTIRKR+XtyuRIa5GVeJ7e4vTM=;FixHX6TAab+SgdugC+j0fQ=="
 ---

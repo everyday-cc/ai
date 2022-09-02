@@ -30,20 +30,20 @@ images:
 
 related:
   - title: "Use of facial recognition as security tool on Parliament Hill would pose risks: study"
-    excerpt: "The use of facial recognition technology as a security tool on Parliament Hill would pose substantial legal, privacy and human rights risks — and might even be unlawful, says a study prepared for the parliamentary security unit."
-    publishedDateTime: 2022-08-29T19:51:00Z
-    webUrl: "https://nationalpost.com/pmn/news-pmn/canada-news-pmn/use-of-facial-recognition-as-security-tool-on-parliament-hill-would-pose-risks-study"
-    ampWebUrl: "https://nationalpost.com/pmn/news-pmn/canada-news-pmn/use-of-facial-recognition-as-security-tool-on-parliament-hill-would-pose-risks-study/wcm/76d2c4ba-41f1-4a11-81de-4fad006e2269/amp/"
-    cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/news-pmn/canada-news-pmn/use-of-facial-recognition-as-security-tool-on-parliament-hill-would-pose-risks-study/wcm/76d2c4ba-41f1-4a11-81de-4fad006e2269/amp/"
+    excerpt: "The use of facial recognition technology as a security tool on Parliament Hill would pose substantial legal, privacy and human rights risks -- and might even be unlawful, says a study prepared for ..."
+    publishedDateTime: 2022-08-29T20:14:00Z
+    webUrl: "https://www.ctvnews.ca/politics/use-of-facial-recognition-as-security-tool-on-parliament-hill-would-pose-risks-study-1.6047069"
+    ampWebUrl: "https://beta.ctvnews.ca/national/politics/2022/8/29/1_6047069.amp.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/politics/2022/8/29/1_6047069.amp.html"
     type: article
     provider:
-      name: National Post
-      domain: nationalpost.com
+      name: CTV News
+      domain: ctvnews.ca
     quality: 69
     images:
-      - url: "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2022/08/rjb103-the-canadian-press-5.jpg"
-        width: 1000
-        height: 750
+      - url: "https://beta.ctvnews.ca/national/politics/2022/8/29/1_6047069/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+        width: 1020
+        height: 574
         isCached: true
 
 secured: "ZiUJzAiEOsZyRNSke0pU2UYXLlSnGeder9lkJ4nQJkDkqpHfF/63hVViOmBQldmp4updJTMrCl6PWJkoYVgZ+LHc+QAp4tEV9AMVNnCNWRT9IU+VRDOIk1X8vhzLvhKmM+vzGGZUW5R5moylzHe899W0JdGgAwnZi2Gs7+Mg7ROUeYFWuncxg1NIb2MAb3IgPYL1vYh943zL/tN72QKFQsiLQ2rNBOKyp5YODraEAMfqPh18G5s0/pOcIO47ruZpUSXDYE8b+gdbwM7EOsgzlUfwj4jGZCA+oS/1oJyQQOusUHNCRCU23yNwZwcl0It6lp/90dQUNjr2JcUQEnNOnVV5AHun+J8lEjRCCzgqgc/2n1MVTwRcChDHZ89BdZ/ugcPbdK5vp9t0SN0j4sUzLG9qHAzPQhncISLzHUpQcoxOsjfpTkZhS8VSuvoIL3jDQsoEHs5nY4QtS+GOm0aJcSLcuMAr1AvcKcRoeO4wS8hQR0IhjkkuBqf9QunpFa/qCNEGe2JaY3nLTYVRQ69XBQ==;lGhAsU4nMWA6At36eSn6gQ=="

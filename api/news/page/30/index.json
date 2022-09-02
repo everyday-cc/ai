@@ -2,6 +2,281 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2022-08-07-a-bionic-chip-analyzes-health-data-with-brain-mimicking-artificial-intelligence.md",
+      "title": "A bionic chip analyzes health data with brain-mimicking artificial intelligence",
+      "excerpt": "A team of US researchers have developed a flexible, stretchable computing chip that processes information by mimicking the human brain. The device, described in the journal Matter, aims to change the way health data is processed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digit.in/news/general/a-bionic-chip-analyzes-health-data-with-brain-mimicking-artificial-intelligence-64607.html",
+      "originalUrl": "https://www.digit.in/news/general/a-bionic-chip-analyzes-health-data-with-brain-mimicking-artificial-intelligence-64607.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.digit.in/default/9965a991f124a48186e400c6cd712e646cb7c34d.jpeg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digit.in/article/amp/general/64607/a-bionic-chip-analyzes-health-data-with-brain-mimicking-artificial-intelligence",
+      "cdnAmpWebUrl": "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/general/64607/a-bionic-chip-analyzes-health-data-with-brain-mimicking-artificial-intelligence",
+      "publishedDateTime": "2022-08-07T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digit",
+        "domain": "digit.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-08-07-sunak-promises-artificial-intelligence-in-schools-to-cut-teachers-workloads.md",
+      "title": "Sunak promises artificial intelligence in schools to cut teachers’ workloads",
+      "excerpt": "Rishi Sunak has said that as prime minister he would encourage the use of artificial intelligence (AI) technology in the classroom to reduce the workload on teachers. The promise to champion new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/independentpremium/uk-news/sunak-truss-education-artificial-intelligence-conservatives-b2141652.html",
+      "originalUrl": "https://www.independent.co.uk/independentpremium/uk-news/sunak-truss-education-artificial-intelligence-conservatives-b2141652.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2022/08/06/11/211ebc721a5af92d8aef148a9a7eebc8Y29udGVudHNlYXJjaGFwaSwxNjU5ODU4ODMz-2.68185792.jpg?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-07T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-07-why-i-downclock-my-powerful-gpu-and-you-should-too.md",
+      "title": "Why I downclock my powerful GPU, and you should too",
+      "excerpt": "Let me explain. I appreciate that off the back of a GPU pricing crisis, which saw almost everyone unable to find a card like this (let alone afford it), that sounds super wrong. I’m lucky that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/why-i-downclock-my-powerful-gpu/",
+      "originalUrl": "https://www.digitaltrends.com/computing/why-i-downclock-my-powerful-gpu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/05/amd-rx-6950-xt-review-8.jpg?p=1",
+          "width": 1500,
+          "height": 1001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/why-i-downclock-my-powerful-gpu/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/why-i-downclock-my-powerful-gpu/?amp",
+      "publishedDateTime": "2022-08-07T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "digitaltrends.com",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-07-for-vigil-over-lac-india-develops-ai-driven-drone-read-here.md",
+      "title": "For vigil over LAC, India develops AI-driven drone. Read here",
+      "excerpt": "The Hindustan Aeronautics Ltd is developing AI-driven multi-role, advanced and long-endurance drones as India prepares to step up vigilance strategically in high-altitude areas including along the fro",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/india/for-vigil-over-lac-india-develops-ai-driven-drone-read-here-11659869620462.html",
+      "originalUrl": "https://www.livemint.com/news/india/for-vigil-over-lac-india-develops-ai-driven-drone-read-here-11659869620462.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2022/08/07/600x338/f68e242c-d90e-11eb-a90e-4c7450222fea_1625059314853_1659869903884_1659869903884.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/india/for-vigil-over-lac-india-develops-ai-driven-drone-read-here/amp-11659869620462.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/for-vigil-over-lac-india-develops-ai-driven-drone-read-here/amp-11659869620462.html",
+      "publishedDateTime": "2022-08-07T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-07-metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical.md",
+      "title": "Meta’s New AI Bot Says “Mark Zuckerberg’s Practices Are Not Always Ethical”",
+      "excerpt": "Meta’s new AI bot said that chief Mark Zuckerberg’s “practices are not always ethical”. Furthermore, it also said that the founder of Facebook can be “creepy and controlling”. BlenderBot 3, a chatbot which is powered by artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical",
+      "originalUrl": "https://in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 192,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/photo/default/image-from-ios-2022-08-07t154118285_4quz.620.jpg",
+          "width": 619,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical?amp=1",
+      "publishedDateTime": "2022-08-07T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-07-you-need-to-stop-doing-this-on-your-ai-projects.md",
+      "title": "You Need To Stop Doing This On Your AI Projects",
+      "excerpt": "One of the biggest reasons for AI project failure is that companies don’t justify the use of AI from an return on investment (ROI) perspective. Simply put, they’re not worth the time and expense given the cost,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/07/you-need-to-stop-doing-this-on-your-ai-projects/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/07/you-need-to-stop-doing-this-on-your-ai-projects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62ef228fda71be391f4eacad/0x0.jpg?format=jpg&crop=2372,1335,x0,y39,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/07/you-need-to-stop-doing-this-on-your-ai-projects/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/08/07/you-need-to-stop-doing-this-on-your-ai-projects/amp/",
+      "publishedDateTime": "2022-08-07T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-08-07-tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-complaint-alleges.md",
       "title": "Tesla made misleading claims about autopilot and self driving, California DMV complaint alleges",
       "excerpt": "The complaint alleges that the company made \"untrue or misleading\" statements in advertisements on its website by claiming that Tesla vehicles were, or could be, equipped with advanced driver assistance system features.",
@@ -876,289 +1151,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-uk-may-use-facial-recognition-smartwatches-to-monitor-migrant-criminals.md",
-      "title": "UK may use facial recognition smartwatches to monitor migrant criminals",
-      "excerpt": "The UK government may soon start using facial recognition smartwatches to monitor migrants who have been convicted of crimes. The offenders would need to scan their faces up to five times per day, according to The Guardian.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/uk-facial-recognition-smartwatch-migrant-criminals-160623241.html",
-      "originalUrl": "https://www.engadget.com/uk-facial-recognition-smartwatch-migrant-criminals-160623241.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-08/38277eb0-14d7-11ed-bfed-63245ce47b6b",
-          "width": 5760,
-          "height": 3840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/uk-facial-recognition-smartwatch-migrant-criminals-160623241.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/uk-facial-recognition-smartwatch-migrant-criminals-160623241.html",
-      "publishedDateTime": "2022-08-05T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak.md",
-      "title": "Gartner research: 2 types of emerging AI near hype cycle peak",
-      "excerpt": "According to new Gartner research, emotion and generative AI are both reaching the peak of the digital advertising hype cycle.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/08/05/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/",
-      "originalUrl": "https://venturebeat.com/2022/08/05/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1346722826.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/08/05/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/05/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/amp/",
-      "publishedDateTime": "2022-08-05T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-trai-floats-paper-on-leverage-ai-big-data-for-sector.md",
-      "title": "Trai floats paper on leverage AI, big data for sector",
-      "excerpt": "As the market for AI and big data grows rapidly, its usage across sectors is also expanding. The telecom sector, for instance, can leverage AI and big data in areas such as quality of service, spectrum management and network security,",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/industry/telecom/trai-floats-paper-on-leverage-ai-big-data-for-sector/articleshow/93377396.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/industry/telecom/trai-floats-paper-on-leverage-ai-big-data-for-sector/articleshow/93377396.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-83810,msid-93377421/dot-floats-consultation-paper-on-need-for-new-legal-framework-for-sector.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/industry/telecom/trai-floats-paper-on-leverage-ai-big-data-for-sector/amp_articleshow/93377396.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/telecom/trai-floats-paper-on-leverage-ai-big-data-for-sector/amp_articleshow/93377396.cms",
-      "publishedDateTime": "2022-08-05T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-could-artificial-intelligence-assisted-colonoscopy-be-better-for-adenoma-detection.md",
-      "title": "Could Artificial Intelligence-Assisted Colonoscopy Be Better for Adenoma Detection?",
-      "excerpt": "ACCORDING to the results of a prospective randomised clinical trial, artificial intelligence (AI) colonoscopy has enhanced the detection rate of adenoma compared with standard colonoscopy. Remarkable efforts have been dedicated to improving adenoma ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.emjreviews.com/gastroenterology/news/could-artificial-intelligence-assisted-colonoscopy-be-better-for-adenoma-detection/",
-      "originalUrl": "https://www.emjreviews.com/gastroenterology/news/could-artificial-intelligence-assisted-colonoscopy-be-better-for-adenoma-detection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://emj.emg-health.com/wp-content/uploads/sites/2/2022/08/pexels-tara-winstead-8386369.jpg",
-          "width": 821,
-          "height": 547,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-05T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "emjreviews.com",
-        "domain": "emjreviews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-how-does-artificial-intelligence-benefit-self-driving-cars.md",
-      "title": "How Does Artificial Intelligence Benefit Self-Driving Cars?",
-      "excerpt": "While indeed sites selling new and used cars get thousands of visitors every day, they lack the popularity of websites talking about self-driving automobiles. In other words, these advanced vehicles are trending all over the Internet. If there’s any ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.tmcnet.com/topics/articles/2022/08/05/453108-how-does-artificial-intelligence-benefit-self-driving-cars.htm",
-      "originalUrl": "https://news.tmcnet.com/topics/articles/2022/08/05/453108-how-does-artificial-intelligence-benefit-self-driving-cars.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/tmc/misc/articles/image/2022-aug/1603424832-cars.png",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-05T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot.md",
-      "title": "Facebook Parent Meta Wants You to Converse With Its New AI-Powered Chatbot",
-      "excerpt": "Sitting in front of a computer screen, I'm typing messages to a new chatbot created by Facebook's parent company Meta. We talk about pizza, politics and even social media. \"What do you think about Facebook?",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/social-media/facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot/",
-      "originalUrl": "https://www.cnet.com/news/social-media/facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 277,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/3abc51f996503ec0faa83f567236fed169e31f5c/2022/05/16/06eca44f-31a2-4125-bb40-44bdda74f935/meta-with-facebook-emoji-reaction-faces-blue.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot/",
-      "publishedDateTime": "2022-08-05T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

@@ -313,8 +313,8 @@ related:
         isCached: true
   - title: "US blocks Nvidia AI chip exports to China"
     excerpt: "China has condemned a US move to end its access to high-end processors made by chipmaker Nvidia, after Washington stepped up its efforts to restrict exports of cutting-edge technology to its trade and military rival."
-    publishedDateTime: 2022-09-01T09:37:00Z
-    webUrl: "https://www.ft.com/content/7005d5d2-b02f-4092-a35c-8b44889a5f90"
+    publishedDateTime: 2022-09-01T13:43:00Z
+    webUrl: "https://www.ft.com/content/7005d5d2-b02f-4092-a35c-8b44889a5f90?curator=upstract.com"
     type: article
     provider:
       name: The Financial Times

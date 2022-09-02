@@ -7,8 +7,8 @@ originalUrl: "https://eturbonews.com/artificial-intelligence-ai-in-healthcare-ma
 webUrl: "https://eturbonews.com/artificial-intelligence-ai-in-healthcare-market-to-develop-strongly-and-cross-usd-10-7-billion-by-2028/"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: eTurboNews
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Facial Recognition Market To Power And Cross USD 12.67 billion By 2031"
+    excerpt: "The Facial Recognition Market is expected to reach USD 12.67 billion by 2031. This is a rise from USD 5.01 billion in 2021. It is projected to grow at a 14.3% CAGR between 2022-2031. Advancements ..."
+    publishedDateTime: 2022-08-29T21:07:00Z
+    webUrl: "https://eturbonews.com/global-facial-recognition-market-to-power-and-cross-usd-12-67-billion-by-2031/"
+    type: article
+    provider:
+      name: eturbonews.com
+      domain: eturbonews.com
+    quality: 36
+    images:
+      - url: "https://eturbonews.com/wp-content/uploads/2019/08/cropped-etn-logo2.jpg"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Global AI In Biopharmaceutical Development Market Worth $ 16.4 Billion By 2030-Report By Insightace Analytic"
     excerpt: "Global AI in the Biopharmaceutical Development market is valued US$ 452.33 Million in 2021, and it is expected to reach US$ 16.4 Billion by 2030, CAGR of 49.3% Major market players operating in AI in the biopharmaceutical Development market include IBM Watson Health,"
     publishedDateTime: 2022-08-29T11:02:00Z

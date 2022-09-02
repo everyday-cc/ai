@@ -41,6 +41,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Brain Changes Linked to Alzheimer's Risk Gene Revealed"
+    excerpt: "According to a study, the main susceptibility gene for Alzheimer’s disease, APOE4, leads to molecular changes in the brain’s blood vessels, which are followed by changes in the synapses that connect brain cells."
+    publishedDateTime: 2022-09-02T08:50:00Z
+    webUrl: "https://www.technologynetworks.com/neuroscience/news/brain-changes-linked-to-alzheimers-risk-gene-revealed-365314"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 39
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/365314/brain-changes-linked-to-alzheimers-risk-gene-revealed-365314-640x360.jpg?cb=20220902"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Using AI To Quickly Diagnose Alzheimer’s Disease and Dementia From Voice Recordings"
     excerpt: "Scientists develop an artificial intelligence program that detects cognitive impairment accurately and efficiently from voice recordings. A lot of time—and money—is required to diagnose Alzheimer’s disease."
     publishedDateTime: 2022-08-31T14:07:00Z

@@ -2,6 +2,283 @@
   "page": 112,
   "value": [
     {
+      "path": "_news/2022-06-06-were-told-ai-neural-networks-learn-the-way-humans-do-a-neuroscientist-explains-why-thats-not-the-case.md",
+      "title": "We’re told AI neural networks ‘learn’ the way humans do. A neuroscientist explains why that’s not the case",
+      "excerpt": "Most recent AI is built from artificial neural networks, or “neural nets” for short. The term “neural” is used because these networks are inspired by the human brain, in which billions of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.canadianmanufacturing.com/features/were-told-ai-neural-networks-learn-the-way-humans-do-a-neuroscientist-explains-why-thats-not-the-case/",
+      "originalUrl": "https://www.canadianmanufacturing.com/features/were-told-ai-neural-networks-learn-the-way-humans-do-a-neuroscientist-explains-why-thats-not-the-case/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.canadianmanufacturing.com/wp-content/uploads/2022/06/Neural_signaling.png",
+          "width": 640,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Canadian Manufacturing",
+        "domain": "canadianmanufacturing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-conversational-ai-trends-forecasts-application-options.md",
+      "title": "Conversational AI: Trends, Forecasts, Application Options",
+      "excerpt": "Text-to-speech dictation and language translation are two ways AI can help with accessibility. This can in turn help companies reduce entry barriers and become more accessible. As can be seen from above, AI chatbots and apps can reduce time and improve ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/06/conversational-ai-trends-forecasts-application-options/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/06/conversational-ai-trends-forecasts-application-options/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//629a305769a5cdb9454fcbbb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/06/conversational-ai-trends-forecasts-application-options/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/06/06/conversational-ai-trends-forecasts-application-options/amp/",
+      "publishedDateTime": "2022-06-06T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-as-the-society-grows-older-will-cognitive-robotics-become-more-relevant-than-ever.md",
+      "title": "As The Society Grows Older, Will Cognitive Robotics Become More Relevant Than Ever?",
+      "excerpt": "Robots can be very relevant in elderly care, offering companionship, assistance in doing mundane tasks, feeding and cleaning the owner and more. They can be preprogrammed with instructions or have a semi or fully automated mode of operation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/06/06/as-the-society-grows-older-will-cognitive-robotics-become-more-relevant-than-ever/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/06/06/as-the-society-grows-older-will-cognitive-robotics-become-more-relevant-than-ever/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//628dce5105c629476f59856e/0x0.png?format=png&width=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/06/06/as-the-society-grows-older-will-cognitive-robotics-become-more-relevant-than-ever/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/06/06/as-the-society-grows-older-will-cognitive-robotics-become-more-relevant-than-ever/amp/",
+      "publishedDateTime": "2022-06-06T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-cloud-natural-language-processing-market-2022-industry-size-trends-share-growth-analysis-and-forecast-to-2028.md",
+      "title": "Cloud Natural Language Processing Market 2022, Industry Size, Trends, Share, Growth, Analysis and Forecast to 2028",
+      "excerpt": "A New Market Study, Titled “Cloud Natural Language Processing Market Upcoming Trends, Growth Drivers and Challenges” has been featured on fusionmarketresearch. This report provides in-depth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/cloud-natural-language-processing-market-2022-industry-size-trends-share-growth-analysis-and-forecast-to-2028",
+      "originalUrl": "https://www.digitaljournal.com/pr/cloud-natural-language-processing-market-2022-industry-size-trends-share-growth-analysis-and-forecast-to-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/14d29a7a7e47b1a888bb643ae38ecb5e6b509a72-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-from-e-commerce-to-omnichannel-consumers-drive-retails-digital-transformation-in-mea.md",
+      "title": "From e-commerce to Omnichannel, Consumers Drive Retail’s Digital Transformation in MEA",
+      "excerpt": "By Ola Williams The pandemic left little room for error when it came to adapting to the new normal. For retail this meant e-commerce experienced a renaissance, “omnichannel” received a lot of",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisdaylive.com/index.php/2022/06/06/from-e-commerce-to-omnichannel-consumers-drive-retails-digital-transformation-in-mea/",
+      "originalUrl": "https://www.thisdaylive.com/index.php/2022/06/06/from-e-commerce-to-omnichannel-consumers-drive-retails-digital-transformation-in-mea/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/0b19560d-img-20220607-wa0004.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This Day",
+        "domain": "thisdaylive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-ai-translates-maths-problems-into-code-to-make-them-easier-to-solve.md",
+      "title": "AI translates maths problems into code to make them easier to solve",
+      "excerpt": "An artificial intelligence that can turn mathematical concepts written in English into a formal proving language for computers could make problems easier for other AIs to solve",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2322999-ai-translates-maths-problems-into-code-to-make-them-easier-to-solve/",
+      "originalUrl": "https://www.newscientist.com/article/2322999-ai-translates-maths-problems-into-code-to-make-them-easier-to-solve/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2022/06/06114333/SEI_107484895.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-06-how-traditional-enterprises-can-supercharge-legacy-products-and-operations-with-ai-and-wide-data.md",
       "title": "How Traditional Enterprises Can Supercharge Legacy Products And Operations With AI And Wide Data",
       "excerpt": "Many traditional enterprises are looking to artificial intelligence (AI) to help drive digital transformation. That might mean supercharging a company's own software or hardware products with AI capabilities that are being sold to their customer base and/or transforming their internal business processes.",
@@ -880,275 +1157,6 @@
         "Computer Vision",
         "Natural Language Processing",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-05-officer-involved-shootings-in-cognitive-context.md",
-      "title": "Officer-Involved Shootings in Cognitive Context",
-      "excerpt": "This is a critical question. Cognition is basic to any given socially mediated response; and as it turns out, the cognitive importance of language, in any given OIS case, may become paramount.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/the-forensic-view/202206/officer-involved-shootings-in-cognitive-context",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/the-forensic-view/202206/officer-involved-shootings-in-cognitive-context",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-06/fvsquarepic.jpg?itok=XgYUEu96",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-forensic-view/202206/officer-involved-shootings-in-cognitive-context?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-forensic-view/202206/officer-involved-shootings-in-cognitive-context?amp",
-      "publishedDateTime": "2022-06-04T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-05-technical-training-for-school-students-to-promote-robotics-ai.md",
-      "title": "Technical Training For School Students To Promote Robotics, AI",
-      "excerpt": "Learning curves have drastically shifted for school students in the past 2.5 years, owing to the Covid-19 induced challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/hans/education-careers/technical-training-for-school-students-to-promote-robotics-ai-746797",
-      "originalUrl": "https://www.thehansindia.com/hans/education-careers/technical-training-for-school-students-to-promote-robotics-ai-746797",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2022/06/04/1296068-training.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/hans/education-careers/technical-training-for-school-students-to-promote-robotics-ai-746797",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/education-careers/technical-training-for-school-students-to-promote-robotics-ai-746797",
-      "publishedDateTime": "2022-06-04T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-jain-deemed-to-be-university-to-provide-guaranteed-placements-for-all-the-aspiring-ai-and-data-engineers.md",
-      "title": "Jain (Deemed-To-Be University) to provide guaranteed placements for all the aspiring AI and data engineers",
-      "excerpt": "JAIN (Deemed-to-be University) and Futurense Technologies have joined hands to level the playing field for the upcoming talent in India with the launch of their remodelled B.Tech degree programme of Bachelor of Technology in Computer Science and Engineering with a specialisation in Artificial Intelligence and Data Engineering.",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/articles/Business/20220604/3948804.html",
-      "originalUrl": "https://news.webindia123.com/news/articles/Business/20220604/3948804.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-04T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-what-hugging-face-and-microsofts-collaboration-means-for-applied-ai.md",
-      "title": "What Hugging Face and Microsoft’s collaboration means for applied AI",
-      "excerpt": "What happens when one of the biggest cloud and enterprise software players teams up with a leading hub for transformer models?",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/what-hugging-face-and-microsofts-collaboration-means-for-applied-ai",
-      "originalUrl": "https://thenextweb.com/news/what-hugging-face-and-microsofts-collaboration-means-for-applied-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2FHugging-Face-Microsoft.jpg&signature=137aa33a60ae3a08c1badc772b43d00e",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-04T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-complete-guide-to-understanding-facial-biometrics-should-you-be-scared.md",
-      "title": "Complete Guide to Understanding Facial Biometrics: Should You Be Scared?",
-      "excerpt": "Or are we afraid that facial recognition might be utilized for \"precrime\" identification or an alternative form of big brother government surveillance? Probably not. As a new technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/426334",
-      "originalUrl": "https://www.entrepreneur.com/article/426334",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1653401552-shutterstock-783409390.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/article/426334",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/article/426334",
-      "publishedDateTime": "2022-06-04T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-ai-fintech-tifin-announces-launch-of-magnifi-to-stream-investing-insights.md",
-      "title": "AI Fintech TIFIN Announces Launch of Magnifi+ to “Stream” Investing Insights",
-      "excerpt": "TIFIN, a Fintech platform using artificial intelligence and \"investment-driven\" personalization, announced the launch of their Magnifi+ platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/06/191889-ai-fintech-tifin-announces-launch-of-magnifi-to-stream-investing-insights/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/06/191889-ai-fintech-tifin-announces-launch-of-magnifi-to-stream-investing-insights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2022/04/Find-Search-Money-Seek-Look-Binoculars.jpeg",
-          "width": 1280,
-          "height": 994,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/06/191889-ai-fintech-tifin-announces-launch-of-magnifi-to-stream-investing-insights/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/191889-ai-fintech-tifin-announces-launch-of-magnifi-to-stream-investing-insights/amp/",
-      "publishedDateTime": "2022-06-04T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

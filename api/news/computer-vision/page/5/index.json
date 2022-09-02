@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-07-12-the-best-amazon-prime-day-2022-robot-vacuum-deals-on-roomba-samsung-jet-bot-more.md",
+      "title": "The best Amazon Prime Day 2022 robot vacuum deals on Roomba, Samsung Jet Bot, more",
+      "excerpt": "Amazon Prime Day 2022 is a great time to pick up deals on robot vacuums. Shop on Prime Day and score savings on a smart-home appliance that'll clean your floors while you're out living your life. Here are the best deals we found on Amazon on top-rated,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/amazon-prime-day-2022-robot-vacuums-deals/",
+      "originalUrl": "https://www.cbsnews.com/essentials/amazon-prime-day-2022-robot-vacuums-deals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/07/07/f7a3df6f-2008-4e3a-8f75-077de5b2df8f/thumbnail/1200x630/ab8ffa1608ae5b817695d99e881bdabb/robot-vacuum-hero.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/amazon-prime-day-2022-robot-vacuums-deals/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/amazon-prime-day-2022-robot-vacuums-deals/",
+      "publishedDateTime": "2022-07-12T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-brad-pitt-believes-he-has-rare-face-blindness-disorder-what-is-it.md",
       "title": "Brad Pitt Believes He Has Rare 'Face Blindness' Disorder -- What Is It?",
       "excerpt": "It can be caused at birth from damage in a part of the brain called the fusiform gyrus, which is considered a key structure for high-level visual interpretation like facial and object recognition.",
@@ -1315,59 +1359,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-roboflow-expands-open-source-datasets-for-better-computer-vision-ai-models.md",
-      "title": "Roboflow expands open-source datasets for better computer vision AI models",
-      "excerpt": "The Roboflow Universe is about providing images that are curated in an approach that enables datasets to be used for AI-powered applications.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/28/roboflow-expands-open-source-datasets-for-better-computer-vision-ai-models/",
-      "originalUrl": "https://venturebeat.com/2022/06/28/roboflow-expands-open-source-datasets-for-better-computer-vision-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1013311574-e1656371218782.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 708,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/28/roboflow-expands-open-source-datasets-for-better-computer-vision-ai-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/28/roboflow-expands-open-source-datasets-for-better-computer-vision-ai-models/amp/",
-      "publishedDateTime": "2022-06-28T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

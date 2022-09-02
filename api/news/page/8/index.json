@@ -2,6 +2,291 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-08-24-jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work.md",
+      "title": "Jobs in the metaverse: This AI startup founder wants to change the future of work",
+      "excerpt": "Adam Turaev, the founder of Praktika.ai, an AI-based learning platform, believes the metaverse will remove barriers in workplace. He is striving to help non-native English speakers — or their avatars — to be hired by the international companies.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work/",
+      "originalUrl": "https://techbullion.com/jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work/amp/",
+      "publishedDateTime": "2022-08-24T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-humans-have-a-natural-defense-against-facial-recognition-aging.md",
+      "title": "Humans Have a Natural Defense Against Facial Recognition: Aging",
+      "excerpt": "Facial recognition systems have become very adept at identifying people in a crowd, but it turns out they don't cope very well with us getting older. As New Scientist reports, the algorithms used ...",
+      "sourceUrl": null,
+      "webUrl": "https://au.pcmag.com/security/95825/humans-have-a-natural-defense-against-facial-recognition-aging",
+      "originalUrl": "https://au.pcmag.com/security/95825/humans-have-a-natural-defense-against-facial-recognition-aging",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_au/news/h/humans-hav/humans-have-a-natural-defense-against-facial-recognition-agi_1daf.1200.jpg",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-24T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-automotive-artificial-intelligence-market-worth-70-billion-by-2027-exclusive-report-by-marketsandmarkets.md",
+      "title": "Automotive Artificial Intelligence Market worth $7.0 Billion by 2027 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "Automotive Artificial Intelligence market size is projected to grow from USD 2.3 Billion in 2022 to USD 7.0 Billion by 2027; it is expected to grow at a CAGR of 24.1% from 2022 to 2027, according to a new report by MarketsandMarkets™.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/08/24/9661661.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/08/24/9661661.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-24T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-tesla-releases-new-deep-dive-presentations-on-its-dojo-ai-supercomputer.md",
+      "title": "Tesla releases new deep-dive presentations on its Dojo AI supercomputer",
+      "excerpt": "Tesla has released two new deep-dive presentations into its Dojo AI supercomputer ahead of its upcoming AI Day 2. You can check the slides from both presentations below. Dojo is Tesla’s own custom supercomputer platform built from the ground up for AI machine learning and more specifically for video training using the video data coming",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/08/24/tesla-deep-dive-presentations-dojo-ai-supercomputer/",
+      "originalUrl": "https://electrek.co/2022/08/24/tesla-deep-dive-presentations-dojo-ai-supercomputer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/What-is-Tesla-Dojo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/08/24/tesla-deep-dive-presentations-dojo-ai-supercomputer/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/24/tesla-deep-dive-presentations-dojo-ai-supercomputer/amp/",
+      "publishedDateTime": "2022-08-24T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-how-leaders-are-using-ai-as-a-problem-solving-tool.md",
+      "title": "How Leaders Are Using AI As A Problem-Solving Tool",
+      "excerpt": "Leaders face more complex decisions than ever in today’s volitile world. So how can they get them right? The answer lies in using AI as a problem-solving too say experts",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/benjaminlaker/2022/08/24/how-leaders-are-using-ai-as-a-problem-solving-tool/",
+      "originalUrl": "https://www.forbes.com/sites/benjaminlaker/2022/08/24/how-leaders-are-using-ai-as-a-problem-solving-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6305d74a12727c38691b5fd1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/benjaminlaker/2022/08/24/how-leaders-are-using-ai-as-a-problem-solving-tool/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/benjaminlaker/2022/08/24/how-leaders-are-using-ai-as-a-problem-solving-tool/amp/",
+      "publishedDateTime": "2022-08-24T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-5g-in-healthcare-market-to-be-worth-4547-billion-by-2030-grand-view-research-inc.md",
+      "title": "5G In Healthcare Market to be Worth $454.7 Billion By 2030: Grand View Research, Inc.",
+      "excerpt": "Grand View Research, Inc. SAN FRANCISCO, /PRNewswire/ -- The global 5G in healthcare market size is expected to reach USD 454.7 billion by 2030, based on a new report by Grand View Research, Inc, expanding at a CAGR of 34.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/5g-in-healthcare-market-to-be-worth-4547-billion-by-2030-grand-view-research-inc-2022-08-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/5g-in-healthcare-market-to-be-worth-4547-billion-by-2030-grand-view-research-inc-2022-08-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-24T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-24-the-ai-startup-erasing-call-center-worker-accents-is-it-fighting-bias-or-perpetuating-it.md",
       "title": "The AI startup erasing call center worker accents: is it fighting bias – or perpetuating it?",
       "excerpt": "A Silicon Valley startup offers voice-altering tech to call center workers around the world: ‘Yes, this is wrong … but a lot of things exist in the world’",
@@ -911,272 +1196,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-deep-learning-algorithm-may-streamline-lung-cancer-radiotherapy-treatment.md",
-      "title": "Deep learning algorithm may streamline lung cancer radiotherapy treatment",
-      "excerpt": "Clinical validation of deep learning algorithms for radiotherapy targeting of non-small-cell lung cancer: an observational study. The Lancet Digital Health , 2022; 4 (9): e657 DOI: 10.1016/S2589 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/08/220824152208.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/08/220824152208.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-uk-controlled-robot-ship-surveys-pacific-ocean-volcano.md",
-      "title": "UK-controlled robot ship surveys Pacific Ocean volcano",
-      "excerpt": "STORY: This robotic boat is gathering data on an underwater ... So we can actually hand over the control the vessel from this office to anywhere else in the world to control that vessel, which ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/uk-controlled-robot-ship-surveys-223917368.html",
-      "originalUrl": "https://www.aol.com/news/uk-controlled-robot-ship-surveys-223917368.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/Te1aUOdi2bR3iSWL67UfeA--~B/aD01NDA7dz05NjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/video.reutersnews.com/1de53623ef7800652c9baa31b6a9fd65",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T16:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-pilot-travel-centers-explores-accommodating-self-driving-trucks.md",
-      "title": "Pilot Travel Centers Explores Accommodating Self-Driving Trucks",
-      "excerpt": "Pilot Travel Centers LLC, one of the largest operators of roadside travel centers in North America, said it made an equity investment in self-driving trucking startup Kodiak Robotics Inc. and is partnering with the company to incorporate services for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/pilot-travel-centers-explores-accommodating-self-driving-trucks-11661299412",
-      "originalUrl": "https://www.wsj.com/articles/pilot-travel-centers-explores-accommodating-self-driving-trucks-11661299412",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-609383/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-spark-teams-with-mavenir-aws-and-more-to-explore-standalone-5g.md",
-      "title": "Spark teams with Mavenir, AWS and more to explore 'standalone' 5G",
-      "excerpt": "Spark has created and run two proof-of-concepts for standalone 5G with technology providers Mavenir, AWS, Nokia and Oppo.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/700934/spark-teams-mavenir-aws-more-explore-standalone-5g/",
-      "originalUrl": "https://www.reseller.co.nz/article/700934/spark-teams-mavenir-aws-more-explore-standalone-5g/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/6-josh_bahlman_lr.jpg",
-          "width": 473,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-ray-the-machine-learning-tech-behind-openai-levels-up-to-ray-20.md",
-      "title": "Ray, the machine learning tech behind OpenAI, levels up to Ray 2.0",
-      "excerpt": "Ray, which enables machine learning models to scale across hardware resources, has released Ray 2.0 to simplify building AI workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ray-the-machine-learning-tech-behind-openai-levels-up-to-ray-2-0/",
-      "originalUrl": "https://venturebeat.com/ai/ray-the-machine-learning-tech-behind-openai-levels-up-to-ray-2-0/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/image1-4.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ray-the-machine-learning-tech-behind-openai-levels-up-to-ray-2-0/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ray-the-machine-learning-tech-behind-openai-levels-up-to-ray-2-0/amp/",
-      "publishedDateTime": "2022-08-23T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-ai-metrics-an-ai-medical-imaging-technology-startup-announces-new-chief-medical-officer-and-ceo.md",
-      "title": "AI Metrics, an AI Medical Imaging Technology Startup, Announces New Chief Medical Officer and CEO",
-      "excerpt": "Changes to executive leadership team will drive a continued focus on innovation in imaging, radiology and oncology AI Metrics, launched in 2019 by Jacobus, Paige Severino, and radiologist and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/ai-metrics-an-ai-medical-imaging-technology-startup-announces-new-chief-medical-officer-and-ceo/article_161400a4-5aa8-5c5d-8aac-b34c0c85ac9e.html",
-      "originalUrl": "https://www.news-journal.com/ai-metrics-an-ai-medical-imaging-technology-startup-announces-new-chief-medical-officer-and-ceo/article_161400a4-5aa8-5c5d-8aac-b34c0c85ac9e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

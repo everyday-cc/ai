@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-22-can-ai-serve-as-a-great-equalizer-in-the-real-estate-industry.md",
+      "title": "Can AI serve as a 'great equalizer' in the real estate industry?",
+      "excerpt": "Implementing artificial intelligence in real estate can help diversify home ownership, claims Anywhere Real Estate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/can-ai-serve-as-a-great-equalizer-in-the-real-estate-industry/",
+      "originalUrl": "https://www.zdnet.com/article/can-ai-serve-as-a-great-equalizer-in-the-real-estate-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/c6577b3060d93d9e16841239a58f5f621ecf0f5c/2021/11/12/807a95d0-c6f4-46b6-a879-5c477d972029/for-sale.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/can-ai-serve-as-a-great-equalizer-in-the-real-estate-industry/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-ai-serve-as-a-great-equalizer-in-the-real-estate-industry/",
+      "publishedDateTime": "2022-08-22T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-08-22-google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans.md",
       "title": "Google Gave Its Helper Robots AI Language Skills to Better Work With Humans",
       "excerpt": "Google has started to close the gap by marrying the latest language AI with state-of-the-art robots ... created new control software that taps into PaLM’s language skills to translate spoken or written commands from a human into the actions required ...",
@@ -1345,49 +1398,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-15-meet-brillo-the-robot-bartender-for-when-youre-tired-of-human-interaction.md",
-      "title": "Meet BRILLO: The robot bartender for when you're tired of human interaction",
-      "excerpt": "Have you ever wanted all the benefits of going to a bar without having to talk to the actual human being serving your drinks? You're in luck, because Italian scientists at the University of Naples Federico II have developed a machine that can do just that.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/brillo-the-italian-bartending-robot",
-      "originalUrl": "https://mashable.com/article/brillo-the-italian-bartending-robot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/00yOu5puoFrfaLCQqs3F1Ua/hero-image.fill.size_1200x675.v1660488402.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-14T19:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -37,6 +37,20 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "Chinese chip companies reveal new GPU, technologies at WAIC 2022 in Shanghai, demonstrating progress of China's chip design capabilities"
+    excerpt: "A number of new China-made chips and related technologies have been released during the ongoing three-day artificial intelligence (AI) gala World Artificial Intelligence Conference (WAIC) 2022, demonstrating the progress of China's chip design capabilities despite overseas efforts to cripple the country’s high-tech rise."
+    publishedDateTime: 2022-09-02T08:40:00Z
+    webUrl: "https://www.globaltimes.cn/page/202209/1274479.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 36
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-08-22/eacde520-ac09-4f53-92dc-685a5ff3117c.jpeg"
+        width: 800
+        height: 480
+        isCached: true
   - title: "A Chinese game company has appointed the world’s first humanoid robot as its CEO"
     excerpt: "Recently, the China-based mobile game company NetDragon Websoft appointed an artificial intelligence-supported virtual human being as the general manager named \"Tang Yu.\" The appointment was made on August 26 and the virtual CEO,"
     publishedDateTime: 2022-09-01T09:30:00Z

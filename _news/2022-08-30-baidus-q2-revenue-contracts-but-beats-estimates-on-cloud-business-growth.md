@@ -38,6 +38,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 69
+  - title: "Baidu beats quarterly revenue estimates"
+    excerpt: "China's search engine giant Baidu Inc beat quarterly revenue estimates on Tuesday, driven by a recovery in advertising sales and higher demand for its cloud products. Total revenue stood at 29.65 ..."
+    publishedDateTime: 2022-08-30T09:05:00Z
+    webUrl: "https://www.channelnewsasia.com/business/baidu-beats-quarterly-revenue-estimates-2909281"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--biXDvPGs--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-08-30t090706z_2_lynxmpei7t09t_rtroptp_3_usa-china-audit-investors.jpg?itok=0Es-SEjN"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Baidu Swings Back to Profit Even as Revenue Slips"
     excerpt: "In the three months through June, Baidu reported a net profit of 3.6 billion yuan ($526.9 million), compared with a 583 million yuan loss a year ago, according to its earnings report released on Tuesday."
     publishedDateTime: 2022-08-31T11:47:00Z

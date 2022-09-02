@@ -52,6 +52,20 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Baidu beats quarterly revenue estimates"
+    excerpt: "China's search engine giant Baidu Inc beat quarterly revenue estimates on Tuesday, driven by a recovery in advertising sales and higher demand for its cloud products. Total revenue stood at 29.65 ..."
+    publishedDateTime: 2022-08-30T09:05:00Z
+    webUrl: "https://www.channelnewsasia.com/business/baidu-beats-quarterly-revenue-estimates-2909281"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--biXDvPGs--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-08-30t090706z_2_lynxmpei7t09t_rtroptp_3_usa-china-audit-investors.jpg?itok=0Es-SEjN"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "9oKLIN1XeJNfhci8rXhj7JXdI7Eagd8O9QHcXZY6TLCcUbzif7+jyHnwUHI94HAByMv0Ueq2VVKoVYhEDKDxL7NhOK6BY0x6kw99HVWzM7khp9vPCWAwOSObhFVS5fxAvwfGe5aN8hDlr558T/hC7HQfERacCVK/5nwlts5lcox6Q2MAfypAyz0D7T/uncdCa6hhdWmkF1j/Nl+okcIdLiUfsMeJlbNGQn8/+MVTtA2X9dwsy2/C6xbpH0FEsmynojTbJU7I4ffYS4Rrrjb4AfSZdOUvboEfPUe7qRVQ7peBOEteFrSRJTQt3Fm0mSF5Q7E/RuPcaQw6u0bUpOdoFOBEtXfxCjcrbCP0EgbvrCga2kjYNSHXHgnnCDg0DsuY1ZYVs5Cx+oE6kVcY3/QICninJ2lgq48gOki0aqlwcvlQ9OuwZAA7GfmRpp6ca/QI3wtukq8lwr6Sjy/jIsoVuTRTlhz9hX1mzOnwDLEemsTpebrx0pRBiDz4jgqDmdpeh2On0NEMNRhFOwCzkakKaQ==;lN+mde+RFiTIh4nqE0MdTA=="
 ---

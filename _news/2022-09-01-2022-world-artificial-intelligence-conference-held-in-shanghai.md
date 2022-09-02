@@ -7,8 +7,8 @@ originalUrl: "https://english.news.cn/20220901/e13917c10b6f4dfea4d3e9f1d31589d7/
 webUrl: "https://english.news.cn/20220901/e13917c10b6f4dfea4d3e9f1d31589d7/c.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Xinhua
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "2022 World Artificial Intelligence Conference Held in Shanghai"
+    excerpt: "A staff member introduces a minimally invasive orthopedic surgery robot to visitors at the 2022 World Artificial Intelligence Conference (WAIC) in east China's Shanghai, Sept. 1, 2022. [Xinhua/Fang Zh"
+    publishedDateTime: 2022-09-02T08:02:00Z
+    webUrl: "https://www.womenofchina.cn/womenofchina/html1/news/2209/312-1.htm"
+    type: article
+    provider:
+      name: 中国妇女网
+      domain: womenofchina.cn
+    quality: 34
   - title: "Semnan University hosting first national AI conference"
     excerpt: "The first national conference on artificial intelligence and intelligent processing is held at Semnan University from August 31 to September 1."
     publishedDateTime: 2022-08-31T08:55:00Z

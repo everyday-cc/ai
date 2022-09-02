@@ -2,6 +2,102 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-30-tarci-secures-capital-for-ai-designed-to-spot-smb-sales-leads.md",
+      "title": "Tarci secures capital for AI designed to spot SMB sales leads",
+      "excerpt": "Tarci, formerly Leadgence, uses AI -- specifically natural language processing -- to track and analyze small- and medium-sized businesses for potential sales opportunities.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/30/tarci-lands-capital-for-ai-designed-to-spot-smb-sales-leads/",
+      "originalUrl": "https://techcrunch.com/2022/08/30/tarci-lands-capital-for-ai-designed-to-spot-smb-sales-leads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-645973021.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/30/tarci-lands-capital-for-ai-designed-to-spot-smb-sales-leads/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/30/tarci-lands-capital-for-ai-designed-to-spot-smb-sales-leads/amp/",
+      "publishedDateTime": "2022-08-30T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-artificial-intelligence-and-machine-learning-now-integral-to-smart-power-solutions.md",
+      "title": "Artificial intelligence and machine learning now integral to smart power solutions",
+      "excerpt": "They help to improve efficiency and profitability for utilities. The utilities’ space is rapidly transforming today. It’s shifting from the conventional and a highly-regulated environment to a tech-driven market at a fast clip.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-and-machine-learning-now-integral-to-smart-power-solutions/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-and-machine-learning-now-integral-to-smart-power-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/Raj.png",
+          "width": 295,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-and-machine-learning-now-integral-to-smart-power-solutions/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-and-machine-learning-now-integral-to-smart-power-solutions/",
+      "publishedDateTime": "2022-08-30T03:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-ageing-can-impact-the-security-of-facial-recognition.md",
       "title": "Ageing can impact the security of facial recognition",
       "excerpt": "Facial recognition algorithms can struggle to recognise individuals as the same person after as little as five years. This means that systems that rely on facial recognition may need to obtain new photographs of users on a regular basis or risk being unable to identify them,",
@@ -107,7 +203,7 @@
       "originalUrl": "https://www.usnews.com/news/technology/articles/2022-08-30/baidu-beats-quarterly-revenue-estimates",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -526,6 +622,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-artificial-intelligence-ai-in-healthcare-market-to-develop-strongly-and-cross-usd-107-billion-by-2028.md",
+      "title": "Artificial Intelligence Ai In Healthcare Market To Develop Strongly And Cross USD 10.7 Billion By 2028",
+      "excerpt": "Global artificial intelligence in healthcare market was valued at USD 10.7 Billion in 2021. It is projected to grow at a compound annual rate (CAGR of",
+      "sourceUrl": null,
+      "webUrl": "https://eturbonews.com/artificial-intelligence-ai-in-healthcare-market-to-develop-strongly-and-cross-usd-10-7-billion-by-2028/",
+      "originalUrl": "https://eturbonews.com/artificial-intelligence-ai-in-healthcare-market-to-develop-strongly-and-cross-usd-10-7-billion-by-2028/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://eturbonews.com/wp-content/uploads/2019/08/cropped-etn-logo2.jpg",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T12:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eTurboNews",
+        "domain": "eturbonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1059,145 +1199,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-artificial-intelligence-machine-learning-applied-to-petroleum-exploration.md",
-      "title": "Artificial intelligence, machine learning applied to petroleum exploration",
-      "excerpt": "The Vietnam Petroleum Institute (VPI), a member of the Vietnam Oil and Gas Group (PetroVietnam), has applied artificial intelligence (AI) and machine learning to quickly identify the presence of fractured granite basement,",
-      "sourceUrl": null,
-      "webUrl": "https://en.vietnamplus.vn/artificial-intelligence-machine-learning-applied-to-petroleum-exploration/236440.vnp",
-      "originalUrl": "https://en.vietnamplus.vn/artificial-intelligence-machine-learning-applied-to-petroleum-exploration/236440.vnp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnimgen.vietnamplus.vn/t660/uploaded/wbxx/2022_08_29/bach_ho_oil_field.jpg",
-          "width": 660,
-          "height": 439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://en.vietnamplus.vn/artificial-intelligence-machine-learning-applied-to-petroleum-exploration/236440.amp",
-      "cdnAmpWebUrl": "https://en-vietnamplus-vn.cdn.ampproject.org/c/s/en.vietnamplus.vn/artificial-intelligence-machine-learning-applied-to-petroleum-exploration/236440.amp",
-      "publishedDateTime": "2022-08-28T22:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VietnamPlus",
-        "domain": "vietnamplus.vn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-why-metas-large-language-model-does-not-work-for-researchers.md",
-      "title": "Why Meta’s large language model does not work for researchers",
-      "excerpt": "Language models can revolutionize how scientific researchers study and approach different disciplines — thus spurring scientific innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-metas-large-language-model-does-not-work-for-researchers/",
-      "originalUrl": "https://venturebeat.com/ai/why-metas-large-language-model-does-not-work-for-researchers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1206801125-ipopba.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-metas-large-language-model-does-not-work-for-researchers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-metas-large-language-model-does-not-work-for-researchers/amp/",
-      "publishedDateTime": "2022-08-28T17:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-how-machine-learning-and-blockchain-can-solve-world-hunger.md",
-      "title": "How Machine Learning and Blockchain can solve world hunger",
-      "excerpt": "However, we live in an era of the digital age where advancements in technologies such as machine learning and blockchain have been catapulted by the progress of the fourth industrial revolution. With such advancements in technologies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/education/how-machine-learning-and-blockchain-can-solve-world-hunger",
-      "originalUrl": "https://www.freepressjournal.in/education/how-machine-learning-and-blockchain-can-solve-world-hunger",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/freepressjournal/2021-10/6634f3e6-b427-4667-8eb9-02b2f4e95b0a/Hunger.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 715,
-          "height": 402,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freepressjournal.in/amp/education/how-machine-learning-and-blockchain-can-solve-world-hunger",
-      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/education/how-machine-learning-and-blockchain-can-solve-world-hunger",
-      "publishedDateTime": "2022-08-28T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

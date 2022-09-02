@@ -717,58 +717,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-23-ai-startup-anyscale-adds-99-million-to-andreessen-horowitz-led-funding-round.md",
-      "title": "AI Startup Anyscale Adds $99 Million to Andreessen Horowitz-Led Funding Round",
-      "excerpt": "The company initially announced a $100 million Series C venture investment round led by Andreessen Horowitz in December.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200",
-      "originalUrl": "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-608499/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200",
-      "publishedDateTime": "2022-08-23T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-23-new-gartner-survey-only-half-of-ai-models-make-it-into-production.md",
       "title": "New Gartner survey: Only half of AI models make it into production",
       "excerpt": "A new artificial intelligence survey from Gartner reported that, on average, only 54% of AI models move from pilot to production.",
@@ -1470,6 +1418,58 @@
       "topics": [
         "Facebook AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-06-gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak.md",
+      "title": "Gartner research: 2 types of emerging AI near hype cycle peak",
+      "excerpt": "According to new Gartner research, emotion and generative AI are both reaching the peak of the digital advertising hype cycle.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/",
+      "originalUrl": "https://venturebeat.com/ai/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1346722826.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/amp/",
+      "publishedDateTime": "2022-08-05T16:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

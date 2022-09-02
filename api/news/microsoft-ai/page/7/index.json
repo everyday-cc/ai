@@ -2,6 +2,83 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-30-birmingham-police-searching-for-missing-veteran-71-with-cognitive-disorder.md",
+      "title": "Birmingham police searching for missing veteran, 71, with cognitive disorder",
+      "excerpt": "Birmingham police asked for the public’s help Wednesday in finding a 71-year-old veteran with a cognitive disorder. Kerry Lee Walker was last seen at 7621 2nd Ave. South wearing a gray shirt ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.al.com/news/birmingham/2022/06/birmingham-police-searching-for-missing-veteran-71-with-cognitive-disorder.html",
+      "originalUrl": "https://www.al.com/news/birmingham/2022/06/birmingham-police-searching-for-missing-veteran-71-with-cognitive-disorder.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T19:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "al.com",
+        "domain": "al.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-inclusion-of-vr-technology-in-cognitive-rehabilitation-research-and-care-for-multiple-sclerosis.md",
+      "title": "Inclusion of VR technology in cognitive rehabilitation research and care for multiple sclerosis",
+      "excerpt": "In a recent article, Kessler Foundation scientists advocated for the incorporation of virtual reality (VR) technology in cognitive rehabilitation research in multiple sclerosis (MS). They ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220630/Inclusion-of-VR-technology-in-cognitive-rehabilitation-research-and-care-for-multiple-sclerosis.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220630/Inclusion-of-VR-technology-in-cognitive-rehabilitation-research-and-care-for-multiple-sclerosis.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Girl_in_wheelchair-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-30-tigergraph-cloud-adds-iam-capabilities.md",
       "title": "TigerGraph Cloud adds IAM capabilities",
       "excerpt": "Graph database as a service streamlines access management for enterprises and eases developer collaboration with a single login across multiple projects.",
@@ -1265,93 +1342,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-some-people-do-better-on-cognitive-tasks-while-walking.md",
-      "title": "Some People Do Better on Cognitive Tasks while Walking",
-      "excerpt": "Some young and healthy people improve performance on cognitive tasks while walking by changing the use of neural resources, according to a new study. It has long been thought that when walking is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.govexec.com/workforce/2022/06/some-people-do-better-cognitive-tasks-while-walking/368508/",
-      "originalUrl": "https://www.govexec.com/workforce/2022/06/some-people-do-better-cognitive-tasks-while-walking/368508/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.govexec.com/media/img/cd/2022/06/23/062322walking/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-24T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Executive",
-        "domain": "govexec.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-artificial-intelligence-in-fashion-retail-market-is-thriving-worldwide-by-2027-top-key-players-microsoft-ibm-google-aws.md",
-      "title": "Artificial Intelligence In Fashion Retail Market is Thriving worldwide by 2027| Top Key Players Microsoft, IBM, Google, AWS",
-      "excerpt": "utm_source=dj&utm_medium=46 The major players covered in Artificial Intelligence In Fashion Retail Markets: Microsoft, IBM, Google, AWS, SAP, Facebook, Adobe, Oracle, Catchoom, Huawei ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-fashion-retail-market-is-thriving-worldwide-by-2027-top-key-players-microsoft-ibm-google-aws",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-fashion-retail-market-is-thriving-worldwide-by-2027-top-key-players-microsoft-ibm-google-aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/7c85f8a109a88478f7c881b77157ec52afd8ef79-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-24T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

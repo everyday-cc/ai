@@ -41,6 +41,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Brain Changes Linked to Alzheimer's Risk Gene Revealed"
+    excerpt: "According to a study, the main susceptibility gene for Alzheimer’s disease, APOE4, leads to molecular changes in the brain’s blood vessels, which are followed by changes in the synapses that connect brain cells."
+    publishedDateTime: 2022-09-02T08:50:00Z
+    webUrl: "https://www.technologynetworks.com/neuroscience/news/brain-changes-linked-to-alzheimers-risk-gene-revealed-365314"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 39
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/365314/brain-changes-linked-to-alzheimers-risk-gene-revealed-365314-640x360.jpg?cb=20220902"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Study uncovers molecular changes in the brain’s blood vessels caused by Alzheimer’s susceptibility gene"
     excerpt: "Recent breakthroughs have revealed a great deal about Alzheimer's disease, but researchers have yet to paint a complete picture of how genetic risk for the illness causes the brain damage that ultimately leads to memory loss and cognitive decline."
     publishedDateTime: 2022-08-31T02:42:00Z

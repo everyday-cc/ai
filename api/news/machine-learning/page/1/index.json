@@ -787,20 +787,20 @@
     },
     {
       "path": "_news/2022-08-26-deep-learning-market-report-2022-swot-analysis-and-analysis-of-macro-economic-and-micro-economic-factors.md",
-      "title": "Deep Learning Market Report 2022 SWOT Analysis And Analysis Of Macro-Economic And Micro-Economic Factors.",
-      "excerpt": "The report titled Deep Learning Market which was recently added by Kenneth Research, aims at providing the clients with the business growth and investment opportunities present in the market globally.",
+      "title": "Deep Learning Market Report 2022 – SWOT Analysis and analysis of macro-economic and micro-economic factors.",
+      "excerpt": "The report titled Deep Learning Market which was recently added by Kenneth Research, aims at providing the clients with",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104760954/Deep-Learning-Market-Report-2022-SWOT-Analysis-And-Analysis-Of-Macro-Economic-And-Micro-Economic-Factors",
-      "originalUrl": "https://menafn.com/1104760954/Deep-Learning-Market-Report-2022-SWOT-Analysis-And-Analysis-Of-Macro-Economic-And-Micro-Economic-Factors",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-report-2022-swot-analysis-and-analysis-of-macro-economic-and-micro-economic-factors-2022-08-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-report-2022-swot-analysis-and-analysis-of-macro-economic-and-micro-economic-factors-2022-08-26",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?179537",
-          "width": 444,
-          "height": 250,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -810,12 +810,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-26T03:27:00-07:00",
+      "publishedDateTime": "2022-08-26T02:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MENAFN",
-        "domain": "menafn.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

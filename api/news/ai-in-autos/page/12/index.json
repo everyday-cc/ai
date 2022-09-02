@@ -2,6 +2,40 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-06-16-china-automotive-voice-industry-report-2022-from-ivi-software-to-adas-voice-enabled-functions-continue-to-evolve-with-iflytek-and-cerence-leading.md",
+      "title": "China Automotive Voice Industry Report 2022: From IVI Software to ADAS, Voice-enabled Functions Continue to Evolve with iFLYTEK and Cerence Leading",
+      "excerpt": "The \"China Automotive Voice Industry Report, 2021-2022\" report has been added to ResearchAndMarkets.com's offering. Automotive voice market: The boom of self-research by OEMs will promote reform in the supply mode.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-china-automotive-voice-industry-report-2022-from-ivi-/2022/06/16/9623502.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-china-automotive-voice-industry-report-2022-from-ivi-/2022/06/16/9623502.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-there-will-never-be-a-self-driving-ferrari-ceo-vigna-says.md",
       "title": "There Will Never Be a Self-Driving Ferrari, CEO Vigna Says",
       "excerpt": "Manufacturers from Tesla Inc. to Volkswagen AG are pursuing self-driving cars. Ferrari NV is having none of it. The Italian company recently hosted a couple of artificial intelligence experts who ...",
@@ -1244,58 +1278,6 @@
         "name": "PR Newswire",
         "domain": "prnewswire.co.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-2-artificial-intelligence-growth-stocks-to-buy-on-the-dip.md",
-      "title": "2 Artificial Intelligence Growth Stocks to Buy on the Dip",
-      "excerpt": "C3.ai is a trailblazer, helping companies across 11 industries access the power of artificial intelligence. Upstart is using AI to improve the decades-old FICO credit scoring system. Throughout ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/06/13/2-artificial-intelligence-growth-stocks-buy-on-dip/",
-      "originalUrl": "https://www.fool.com/investing/2022/06/13/2-artificial-intelligence-growth-stocks-buy-on-dip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/684716/a-digital-face-appearing-amongst-computer-code-and-a-digital-background.jpg",
-          "width": 2102,
-          "height": 1426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

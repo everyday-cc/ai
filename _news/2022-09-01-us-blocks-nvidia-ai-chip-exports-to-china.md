@@ -2,9 +2,9 @@
 category: news
 title: "US blocks Nvidia AI chip exports to China"
 excerpt: "China has condemned a US move to end its access to high-end processors made by chipmaker Nvidia, after Washington stepped up its efforts to restrict exports of cutting-edge technology to its trade and military rival."
-publishedDateTime: 2022-09-01T09:37:00Z
-originalUrl: "https://www.ft.com/content/7005d5d2-b02f-4092-a35c-8b44889a5f90"
-webUrl: "https://www.ft.com/content/7005d5d2-b02f-4092-a35c-8b44889a5f90"
+publishedDateTime: 2022-09-01T13:43:00Z
+originalUrl: "https://www.ft.com/content/7005d5d2-b02f-4092-a35c-8b44889a5f90?curator=upstract.com"
+webUrl: "https://www.ft.com/content/7005d5d2-b02f-4092-a35c-8b44889a5f90?curator=upstract.com"
 type: article
 quality: 54
 heat: -1
@@ -15,8 +15,8 @@ provider:
   domain: ft.com
 
 topics:
-  - AI Hardware
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/global-trade.jpg"
@@ -396,6 +396,6 @@ related:
       domain: arabianbusiness.com
     quality: 13
 
-secured: "5z6jRp6iZWA7B9heYGHU/Xoj26wPIm7JxHFJ1GigCie+t9uTXdxEDVs9nVYuIvl7H+h6x9mq3UIX84DdAR4y0YS8XC9EpiylrSVCcYFOOGRCVMb/mtquGbhcEoCOKa9N7amC3Fg3zAL0fKyr23nahZ2u+2ba+me1Nrn3QWfHG6s+s7xE/O2JE+adI6uukxuIPgbignsKBNopSVx6ze4D/28r136VR4TqMHij+63eOqIqtI9QlcqHFgip2510wQZEFpuDE8RgL+wjOJljtDDjbIfzAWU5ii1M6NOvrKVmPIAFOIg0qcYefH4HTzxsGZfRDQeUO2RC533qyuPkl+/SwgDVzL3q5BZ6WGpChOv7YELkwDC1U4TTtzcFMbpTzRVDvEetCbwrK7Jd8BwCv42dLpJG9GmYM46bWxzFsf6E7Px/Dq9YphxsveXilMiLQPiv1MbzE0IB6ft3o6zgNdbXaGO/UXw2q09stb9qOphsQg0lW4buitTAyY4VuWS31Z5/Rw9dQOT62bmvsascUO3K6Q==;H8aKF11J/V9BJBKyEn+BLA=="
+secured: "yaf+PALo0ax3pLpa3hJZpxqXoYFjA7eNlV0RR9PR0V1wm5xVunqlIjWMFFlqRES7aTgXqYI4jPGQ0mrXpqH0Xht+fPLXqV4sBqdMk3Av4JR7iODL4uUbjX3rm2E9sM4iDZ7ihE2+G9QhS508ocSP7wHVbb0w62zBgR7/uyrySZpPA5eN+mRkadXsh5jmHsXwTbhGDhFGUROkSXOjVf4W4cTKOxoU64g6c4uSP7Oqn19lf/hY5Hs4ymG2bmhVxqVwglCYOeVv/WHFGwt6eWaGjKfr294z6H5vPnKeXKfLu+7IvJiG34JMuWm6EzFCfhSbUHbjcxopZCqpP2c2FEwob9fCslCZS9hqw4+Z8SIWxY4=;ITMOtSTP8Dv3RdVq7bg8Ag=="
 ---
 

@@ -2,6 +2,112 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-03-neural-network-software-market-in-deep-analysis-and-experts-review-report-2022-2028-microsoft-intel-aws-nvidia-tflearn.md",
+      "title": "Neural Network Software Market In-deep Analysis And Experts Review Report 2022-2028 – Microsoft, Intel, AWS, NVIDIA, TFLearn",
+      "excerpt": "The Neural Network Software Market is expected to grow at a CAGR of 9.0% during the forecast period 2022-2028. Top Companies in the Global Neural Network Software Market: GMDH, Artificial Intelligence Techniques,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-in-deep-analysis-and-experts-review-report-2022-2028-microsoft-intel-aws-nvidia-tflearn-2022-08-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-in-deep-analysis-and-experts-review-report-2022-2028-microsoft-intel-aws-nvidia-tflearn-2022-08-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-03T01:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-03-aerobics-isnt-the-only-exercise-that-can-slow-mild-cognitive-decline-study-finds.md",
+      "title": "Aerobics isn't the only exercise that can slow mild cognitive decline, study finds",
+      "excerpt": "Regular stretching and balance and range of motion exercises are as good as aerobic exercise in slowing the progression of mild cognitive decline, a new study has found. \"My worry in the beginning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/08/02/health/stretching-cognitive-decline-wellness/index.html",
+      "originalUrl": "https://www.cnn.com/2022/08/02/health/stretching-cognitive-decline-wellness/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220728155815-stretching-stock-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/08/02/health/stretching-cognitive-decline-wellness/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/02/health/stretching-cognitive-decline-wellness/index.html",
+      "publishedDateTime": "2022-08-02T21:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-03-how-social-isolation-loneliness-can-affect-heart-health-cognitive-abilities.md",
       "title": "How Social Isolation, Loneliness Can Affect Heart Health, Cognitive Abilities",
       "excerpt": "a physician with AltaMed Health Services Program of All-Inclusive Care for the Elderly (PACE). “A large proportion of older adults have physical and cognitive limitations,” Spakowsky told ...",
@@ -1234,101 +1340,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-23-azure-synapse-vs-databricks-data-platform-comparison.md",
-      "title": "Azure Synapse vs. Databricks: Data Platform Comparison",
-      "excerpt": "For those wanting a top-class data warehouse for analytics, Azure Synapse wins. But for those needing more robust ELT (extract, load, transform), data science, and machine learning features ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/azure-synapse-vs-databricks/",
-      "originalUrl": "https://www.eweek.com/big-data-and-analytics/azure-synapse-vs-databricks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/01/Specops-bruce-mars-xj8qrWvuOEs-unsplash-1-scaled-1.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-23T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-23-sony-bravia-xr-oled-a80k-series-with-4k-resolution-cognitive-processor-xr-launched-in-india-check-price-specs.md",
-      "title": "Sony Bravia XR OLED A80K series with 4K resolution, cognitive processor XR launched in India: Check price, specs",
-      "excerpt": "Click to share on Twitter (Opens in new window) Click to share on Facebook (Opens in new window) Click to share on WhatsApp (Opens in new window) The cognitive processor XR powering the TVs will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/industry/technology/sony-bravia-xr-oled-a80k-series-tv-4k-resolution-india-launch-price-features/2603805/",
-      "originalUrl": "https://www.financialexpress.com/industry/technology/sony-bravia-xr-oled-a80k-series-tv-4k-resolution-india-launch-price-features/2603805/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/07/ezgif-2-cb277f5b6f.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/industry/technology/sony-bravia-xr-oled-a80k-series-tv-4k-resolution-india-launch-price-features/2603805/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/sony-bravia-xr-oled-a80k-series-tv-4k-resolution-india-launch-price-features/2603805/lite/",
-      "publishedDateTime": "2022-07-23T04:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
         "images": null,
         "publishers": null,
         "authors": null

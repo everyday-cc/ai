@@ -39,6 +39,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Global Facial Recognition Market To Power And Cross USD 12.67 billion By 2031"
+    excerpt: "The Facial Recognition Market is expected to reach USD 12.67 billion by 2031. This is a rise from USD 5.01 billion in 2021. It is projected to grow at a 14.3% CAGR between 2022-2031. Advancements ..."
+    publishedDateTime: 2022-08-29T21:07:00Z
+    webUrl: "https://eturbonews.com/global-facial-recognition-market-to-power-and-cross-usd-12-67-billion-by-2031/"
+    type: article
+    provider:
+      name: eturbonews.com
+      domain: eturbonews.com
+    quality: 36
+    images:
+      - url: "https://eturbonews.com/wp-content/uploads/2019/08/cropped-etn-logo2.jpg"
+        width: 512
+        height: 512
+        isCached: true
 
 secured: "sQiDQmUmVGyo+AQaD5NNuZ9MCAcRHKvy+2hyUjbI+KRgt5zWbQoaK3/CW9BOEQneMRHIN5hthEvP0O94TtWXfR/MGe5DU21PZ1C0uHUupfN2niOv4UBYs8uetmmdhclzt9Nf3vCFNGLy8xsG69IBtwGDB/CR1ii3iiI7W37ORlLQXhEtbMOnrTNc7c0YWAcOZf69bIDKy1xW3DjyJNV8po6nwMdRiJpYJxrVNaq2g9hf3492KQrFOHXG+HSieApIIKCzgm1m4e1pHwm1sSa8XVJ1UZxhHHsUVDZau4jiurOyzjEMEaE5vmvOBs3AZnD2quaGdZI5QZmLvkOHppr+Gq6t+ClIDqrjDjYg/o4tSfg=;Ef4KZeLdHfCNp43b2QXO3Q=="
 ---

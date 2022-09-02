@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-06-02-cruise-can-finally-charge-for-driverless-robotaxi-rides-in-san-francisco.md",
+      "title": "Cruise can finally charge for driverless robotaxi rides in San Francisco",
+      "excerpt": "Cruise, the autonomous vehicle unit of General Motors, has finally been given the green light to start charging fares for its driverless robotaxi service in San Francisco. The California Public ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/02/cruise-can-finally-charge-for-driverless-robotaxi-rides-in-san-francisco/",
+      "originalUrl": "https://techcrunch.com/2022/06/02/cruise-can-finally-charge-for-driverless-robotaxi-rides-in-san-francisco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Screen-Shot-2022-06-03-at-10.25.00-am.png",
+          "width": 723,
+          "height": 404,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/02/cruise-can-finally-charge-for-driverless-robotaxi-rides-in-san-francisco/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/02/cruise-can-finally-charge-for-driverless-robotaxi-rides-in-san-francisco/amp/",
+      "publishedDateTime": "2022-06-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-02-ethical-artificial-intelligence-potential-standards-for-medical-device-manufacturers.md",
       "title": "Ethical Artificial Intelligence: Potential Standards for Medical Device Manufacturers",
       "excerpt": "While artificial intelligence (AI) has the potential to revolutionize a number of industries, the technology isn’t without its controversies. Over the past few years, researchers and developers have raised concerns around the potential impacts of ...",
@@ -1287,49 +1339,6 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-the-man-who-invented-the-self-driving-car-in-1986.md",
-      "title": "The man who invented the self-driving car (in 1986)",
-      "excerpt": "The history of artificial intelligence is a history of buzzy springs followed ... among them U.S. tech giants like Alphabet’s Waymo, have been catching up. Experts describe the current race for leadership in autonomous driving technology as neck-and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/amp/",
-      "originalUrl": "https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/amp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2018/07/ericPetersen_selfDrivingCars_RGB-e1532325107404.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/amp/",
-      "publishedDateTime": "2022-05-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
