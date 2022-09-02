@@ -25,28 +25,39 @@ images:
     isCached: true
 
 related:
-  - title: "The Global Computer Vision Market Will Accelerate at a CAGR of over 7.1% through 2023-2032"
-    excerpt: "The global computer vision market will reach USD 12.12 billion in 2021. This CAGR will increase by 7.1% from 2023 to 2032. Computer vision systems are"
-    publishedDateTime: 2022-08-30T21:11:00Z
-    webUrl: "https://eturbonews.com/the-global-computer-vision-market-will-accelerate-at-a-cagr-of-over-7-1-through-2023-2032/"
+  - title: "Global Facial Recognition Market To Power And Cross USD 12.67 billion By 2031"
+    excerpt: "The Facial Recognition Market is expected to reach USD 12.67 billion by 2031. This is a rise from USD 5.01 billion in 2021. It is projected to grow at a 14.3% CAGR between 2022-2031. Advancements ..."
+    publishedDateTime: 2022-08-29T21:07:00Z
+    webUrl: "https://eturbonews.com/global-facial-recognition-market-to-power-and-cross-usd-12-67-billion-by-2031/"
     type: article
     provider:
-      name: eTurboNews
+      name: eturbonews.com
       domain: eturbonews.com
-    quality: 29
+    quality: 36
     images:
       - url: "https://eturbonews.com/wp-content/uploads/2019/08/cropped-etn-logo2.jpg"
         width: 512
         height: 512
         isCached: true
-  - title: "Geospatial Analytics Market: Growing At A CAGR Of 12.1% : Will Hit 134.23 Billion By 2028 : Says Emergen Research"
-    excerpt: "Emergen Research Logo Rising use of AI and ML in geospatial analytics, increasing number of government projects, & rapid urbanization som"
-    publishedDateTime: 2022-08-30T12:17:00Z
-    webUrl: "https://menafn.com/1104781363/Geospatial-Analytics-Market-Growing-At-A-CAGR-Of-121-Will-Hit-13423-Billion-By-2028-Says-Emergen-Research"
+  - title: "Investigation And Security Services Global Market to Reach $527.64 Billion by 2026"
+    excerpt: "The \"Investigation And Security Services Global Market Report 2022 by Type, Deployment Type, Application\" report has been added to ResearchAndMarkets.com's offering. The"
+    publishedDateTime: 2022-08-30T16:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/n28689098/investigation-and-security-services-global-market-to-reach-527-64-billion-by-2026"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28689098"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28689098"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
+  - title: "Cognitive Computing Market to be Worth $225.33 Billion by 2030: Grand View Research, Inc."
+    excerpt: "The global cognitive computing market size is projected to reach USD 225.33 billion by 2030, registering a CAGR of 27.6% from 2022 to 2030, according"
+    publishedDateTime: 2022-08-31T13:06:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56944647-cognitive-computing-market-to-be-worth-dollar-225-33-billion-by-2030-grand-view-research-inc-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
     quality: 0
 
 secured: "jsMOr7Z+kndNZizqWp6JBy+RgEUA9P2cIv5tiwKg5q5zJwtawFkl+RwDAdD2TYgFTemRz+EwgS63NuYYB8ofgcliR9feH63DxaVXjC1sRWyzS51neSvkRFtQDjDgpsvKJeszz9DcLRg6VuplJp0sm3mVv94J3RRaMH7FduNkKp0Jx0ADWTf/OfzWswLewJxon8FhyausMwPBFAMxFpNIrh3B5T1ieGCGLxHg0GSnu912JlStDiG9A3VrwQSCFdWMBCGigqPs7Uu3eSKAC7T+9b4N0TiIYBigbAND3+zyGKzWQAzXPkKB4hx0HzOrqInC55jUPM9yrVSWI749CLsWHsnSifEw1z4x3rS0z0DIWrM=;3ze5u99USJPb3CBvjL8nzg=="

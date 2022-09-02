@@ -38,13 +38,13 @@ related:
       domain: datanami.com
     quality: 4
   - title: "Teradata Announces ClearScape Analytics: The Most Powerful, Open, and Connected Cloud Analytics Available in the Industry"
-    excerpt: "ClearScape Analytics – which encompasses the same high-performing analytics that Teradata is known for but with 50+ new analytic functions – is available as part of Teradata VantageCloud and the new Teradata VantageCloud Lake,"
-    publishedDateTime: 2022-08-29T10:55:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry"
+    excerpt: "Teradata (NYSE: TDC) today announced ClearScape Analytics, the significantly expanded and newly named analytics capabilities that span the entire suite of Vantage products. Teradata Vantage's industry-leading analytics have long been the cornerstone of the platform's appeal to enterprise customers for its ability to accelerate data insights and time to value."
+    publishedDateTime: 2022-08-29T12:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/08/29/9663280.htm"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "pjK61qt2dZ7Z9l65I+835fvY2euyJca92294dyTm9eVyoE76M3FMPTwDd5sA81DMputOT9jnKUMETK9lYkiqeb2LxF6IZX/y9tC8xpK4cGAk9IFan9UtIi0SdcSM2K3es6nEZ1rv/8am91CdLsCS3YsSxVb2Nusg6m9tK3/79hH2Se7JgrtW3lORHB2vMGck6OO7753JU6YRG+Q9BUNw/UWKebYs05ix2Y8AO+JtP6enty+/9heBRA5zsxfuF4d4xbsCWEL9Pcr711IA1cqmaiucgxzGqcQnhnhmthBtmiPxtElHnRR8/6WJCtNUecpwUrvdBzFgrFhL55rFS4IUQbS0pe0/XyOC3PJUZoFGKWg=;ZriksmG1ir8BbK4qCLnaTg=="

@@ -1,23 +1,33 @@
 ---
 category: news
 title: "AWS Launches Region in the United Arab Emirates"
-excerpt: "AWS is committed to helping customers in the UAE deploy the most advanced cloud technologies and achieve the highest levels of security, availability, and resiliency,” said Prasad Kalyanaraman, vice president of Infrastructure Services at AWS."
-publishedDateTime: 2022-08-30T06:27:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-economy-amazoncom-inc-d9b9452aac444bf3821796b7f621f354"
-webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-economy-amazoncom-inc-d9b9452aac444bf3821796b7f621f354"
+excerpt: "SEATTLE, (BUSINESS WIRE) -- Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the launch of its second Region in..."
+publishedDateTime: 2022-08-30T06:42:00Z
+originalUrl: "https://www.marketwatch.com/press-release/aws-launches-region-in-the-united-arab-emirates-2022-08-30"
+webUrl: "https://www.marketwatch.com/press-release/aws-launches-region-in-the-united-arab-emirates-2022-08-30"
 type: article
-quality: 19
-heat: 19
+quality: 69
+heat: 69
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-secured: "TIHv8lDP1HZAA4F1PpbI9Xp1I+TJePILBplSX6jL/A7XAfkb/Uwmf9A1iiO1g1Qh+oqZ/eR+oN9FzP606h5Ao34LMjkm24Sck0UVh9IrVnibcTCLZmPVj80mBv5w+PND46ud5mypMdVpn4aQ1QzaQjkiWuC+Suh89BmzmGf91qrY3h7voJVYsS+OxxW6T6+tJFxIWfpaiHDSgg8cWk+P+xg6I6A11Vigi1Lm2AIsEgmWssKq8xD+CtGVWIOHBh4oNpHnMaZ4Up3Sw90n3wBKAK8bTRyopVoyOmyuydObaJ7sTarpe/OGTYKRQLQIE5ATG2DOdnRjS/4dB/x/REy3vFBHOPFDATDINk19XpUn3o4=;Nw6BKtFiMETa6CJ0TEhiLA=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "sm6BXXy3RSZxEsCmkR3p0VBqK2wBrMi0/RPsSsoCrxSvc9pXAAS8qNjZob+GDIRcOZIYxSIxDcOUIGGgRqZlG3LmWWdYAJFsJcanAPgGH8MbezTtcZtd679lFo1Tt6tD3KDkrK881QZdeH9+n78dzhPRmH6TtYjb4qO/3rvvEDJlWzvSf4P2BbliGJwehS6LqTkkwKAIxj2HFSOXrRCldM0mguE0tyNdl7wzxcjk48Cc1iUc2RXe0pOt20Gj16ej/cKfW/nd0JxyVJo067X4OjnlKrST65cpTFIiakVCOJwpr8nJf8bmeibELvNnTcVG0PZzqbs0rceKsppeKXkcXODnHFW+XGaNDmIOzIeT240=;3EcZ/iExwBsu0YEQH5h3/g=="
 ---
 

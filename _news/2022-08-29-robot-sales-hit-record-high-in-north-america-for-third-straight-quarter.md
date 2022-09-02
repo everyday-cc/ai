@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Robot Sales Hit Record High in North America for Third-Straight Quarter"
-excerpt: "For the third-straight quarter, robot sales in North America hit a record high, driven by a resurgence in sales to automotive companies and an ongoing need to manage increasing demand to automate logistics for e-commerce."
+excerpt: "a one-day event to help those interested start their journey to unlock the power of AI, with discussions on data strategy, advances in AI robotics and machine vision, and AI-powered optimization and prediction. The conference will take place September 29 ..."
 publishedDateTime: 2022-08-29T13:18:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-robot-sales-hit-record-high-in-north-america-for-third-straight-quarter"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-robot-sales-hit-record-high-in-north-america-for-third-straight-quarter"
+originalUrl: "https://www.joplinglobe.com/region/national_business/robot-sales-hit-record-high-in-north-america-for-third-straight-quarter/article_a7cef89e-4f6c-585c-8498-9c0c9ebaa7a8.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/robot-sales-hit-record-high-in-north-america-for-third-straight-quarter/article_a7cef89e-4f6c-585c-8498-9c0c9ebaa7a8.html"
 type: article
-quality: 51
-heat: -1
-published: false
+quality: 71
+heat: 81
+published: true
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI in Robotics
   - AI
   - AI in Sales
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/c/8a/c8acb928-d876-5a69-b46a-7b8f1ad41e18/630cc05a5d1a4.image.jpg?crop=1229%2C645%2C27%2C0&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Robot Sales Surge Across North America, Q2 Sales up 25% to $585M"
@@ -35,6 +41,6 @@ related:
         height: 500
         isCached: true
 
-secured: "YoAJX/Glo5m4rRgkQWIJhVo57X/zZNsw/TpQkjJJnj/X+oCA3PPry4Sd8AEO7zxB71bITa1qyeYvNF2Sn6MF+Z2cBSV2+JSB86b53OGwLLV774RfS/B/QoJjdMTfCYqrNDm4ZoGQ1WcicprSzwRIsyVgJRERXdxiNg0jstZJH/jufBe8VeIV2a87vYS57IqET9oVGX5wlHT0ycv7W/jvgEfjx8C1eD2OXsOFr9t9ybXGpJKJAiGq7utmTnzvJ4+KJrapSibXA+6VZZxtmmWzLf2MER8ONtKsyt/eyr4+fNT16uqka/VIqAmb7/HVHAjz+q7lCGxt/Pg7Kg1Fg9vBhC7O8R3Qmvragx83pdlP/u3zgp3HNoLuW3QlEbb63fvz95G5yz5CAzHWXAWtQkQfP15opufmXqjfDLLViJC06Yj5cNEeAGXPrNHXZLV2tw2FcL7zD4RlKGJjSe8T9cPIXq5AnuuPkLBc9ptCTkhgBiZO1jjYcT5Ihi98rs42zoQRhlU9lLVjdpvuABGmit90JQ==;rO7W6zYC9WLAPWeE5KvHhw=="
+secured: "nCwEj1gwgkgOm3LQ1R2fyGOVWYIIXisoP+e4pkq2lX1LCfwfeZ4vUp/QP6J3rMjHX04uEcW9D7+guCLD18i+7xysfOpv3YbPMRZ2+R1B1LDHJ3THlVxa4Ynp6YwqbQQdKtJDysLKdE8nYsSwzis6GoVs+sJDwWgRpsoF0joAeUrg+od81+8eL2MPX0McLqKnvfGEd1UFMMqZ6e7x2m2C+zhLeJAoW/hQ4jPS82qgnvOhBn9YOTnIIIGL66ht2WkF2AyVydBB/cWFuShpK1uT7DAl+2bdHDCW7QyS5ygAh4aAwy1W+uBlAprbiGKrznArdgkjjDBOcpPAQj3qldXS71t1+qnCMTo6Te7H0y8/W54=;xqQG1C4qxvqjnj2g98FwGw=="
 ---
 

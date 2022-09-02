@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why DeepMind Is Sending AI Humanoids to Soccer Camp"
+    excerpt: "There’s controlling the full humanoid body, coordination—which is really tough for AGI—and actually mastering both low-level motor control and things like long-term planning.” An AI has to re-create everything human players do—even the things we don’t have to consciously think about,"
+    publishedDateTime: 2022-09-02T11:00:00Z
+    webUrl: "https://www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-camp/"
+    ampWebUrl: "https://www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-camp/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-camp/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 106
+    images:
+      - url: "https://media.wired.com/photos/631134163dfe1372fb611162/master/pass/soccer_HZ_science_GettyImages-520264154.jpg"
+        width: 2400
+        height: 1799
+        isCached: true
   - title: "Forget chess, DeepMind’s training its new AI to play football"
     excerpt: "Watch out footballers, a new challenger has entered the arena as DeepMind switches its focus from board games to the world's favorite sport."
     publishedDateTime: 2022-09-01T22:09:00Z

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Teradata Announces ClearScape Analytics: The Most Powerful, Open, and Connected Cloud Analytics Available in the Industry"
-excerpt: "ClearScape Analytics – which encompasses the same high-performing analytics that Teradata is known for but with 50+ new analytic functions – is available as part of Teradata VantageCloud and the new Teradata VantageCloud Lake,"
-publishedDateTime: 2022-08-29T10:55:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry"
+excerpt: "Teradata (NYSE: TDC) today announced ClearScape Analytics, the significantly expanded and newly named analytics capabilities that span the entire suite of Vantage products. Teradata Vantage's industry-leading analytics have long been the cornerstone of the platform's appeal to enterprise customers for its ability to accelerate data insights and time to value."
+publishedDateTime: 2022-08-29T12:22:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/08/29/9663280.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/08/29/9663280.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
@@ -45,6 +45,6 @@ related:
       domain: datanami.com
     quality: 4
 
-secured: "VS0FkwMiY06AMxmNWn5QTSX8jwvO8BUfDVFO9H+WNOCtsP5CcY5FHhw2yZ6cX3n28HSr56Deq24iCThko2V7EcxoEm+Lt/FmnkQ8cahbX852E5w4/BmBh+BS3UBBRoYzbRKmlj61GSXWYRBCtbzgWUD3qU446LRWnOw3AyJImBKYgF5HK0n6EN5YYt9MOHFms7lZjTUbt937BWcYO2rOVk4nmpDSzlXqIDguSJOVR+3CcE+tTjiIEnTpHLZzH8GyPQWORZ+bLdTSu5l45aARZsZ7W0utM4001lg605EIXoYE/gUrV1tqzjirxS7AYLN8F+3Jvp9gZMFIoZXxCBm/esI1vU2XD0k8ZXX74RIaTFY=;1x7Wjsrjow23taux2/wLJA=="
+secured: "QA+x2/W0fS8qd6h6qdyFJFvQcOj1MlPpXwIFa+083d4hsRsL3WzPgxYOSqbh8PKUB2xik0JttQu8hvEudfela+i+6acSUGmVzY9rBWMaBbVEbv2yRfwdsY0wNfGKi/0Ko6YUIxgeiSe4dsgSNHFTmv9iT7Rp3jJwDM7nZIbi9MqfC9fTZNDfH577xYW9/ilJJvXgy3XljtLhPVBNiPQNdRrS7di6t5W0oHR0o5qsyOfEroOAFufZxbv0LJeJogol3mZdkTMWbosPS9fsaTy9KfZ6iwXzEYO0QwuTD8tz+2V+tPHs16U/ybI8kakHIWughRNNcMO7BfT7lJwWGNP0sFGs+6JdxBeVZV4U57kebU0=;Ltm5KUZHkaaklOdIRQsmOg=="
 ---
 

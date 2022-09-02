@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Ai In Healthcare Market To Develop Strongly And Cross USD 10.7 Billion By 2028"
-    excerpt: "Global artificial intelligence in healthcare market was valued at USD 10.7 Billion in 2021. It is projected to grow at a compound annual rate (CAGR of"
-    publishedDateTime: 2022-08-29T19:34:00Z
-    webUrl: "https://eturbonews.com/artificial-intelligence-ai-in-healthcare-market-to-develop-strongly-and-cross-usd-10-7-billion-by-2028/"
+  - title: "Artificial Intelligence-powered (AI) Spatial Biology Market Market to Record an Exponential CAGR by 2030 - Exclusive Report by InsightAce Analytic"
+    excerpt: "According to the latest research by InsightAce Analytic, the global artificial intelligence-powered (AI) spatial biology market is expected to record a promising CAGR of 16.4% during the period of 2022-2030."
+    publishedDateTime: 2022-08-30T11:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-powered-ai-spatial-biology-market-market-to-record-an-exponential-cagr-by-2030---exclusive-report-by-insightace-analytic-2022-08-30-72033211"
     type: article
     provider:
-      name: eTurboNews
-      domain: eturbonews.com
-    quality: 55
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
     images:
-      - url: "https://eturbonews.com/wp-content/uploads/2019/08/cropped-etn-logo2.jpg"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "Global Facial Recognition Market To Power And Cross USD 12.67 billion By 2031"
-    excerpt: "The Facial Recognition Market is expected to reach USD 12.67 billion by 2031. This is a rise from USD 5.01 billion in 2021. It is projected to grow at a 14.3% CAGR between 2022-2031. Advancements ..."
-    publishedDateTime: 2022-08-29T21:07:00Z
-    webUrl: "https://eturbonews.com/global-facial-recognition-market-to-power-and-cross-usd-12-67-billion-by-2031/"
-    type: article
-    provider:
-      name: eturbonews.com
-      domain: eturbonews.com
-    quality: 36
-    images:
-      - url: "https://eturbonews.com/wp-content/uploads/2019/08/cropped-etn-logo2.jpg"
-        width: 512
-        height: 512
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "sQiDQmUmVGyo+AQaD5NNuZ9MCAcRHKvy+2hyUjbI+KRgt5zWbQoaK3/CW9BOEQneMRHIN5hthEvP0O94TtWXfR/MGe5DU21PZ1C0uHUupfN2niOv4UBYs8uetmmdhclzt9Nf3vCFNGLy8xsG69IBtwGDB/CR1ii3iiI7W37ORlLQXhEtbMOnrTNc7c0YWAcOZf69bIDKy1xW3DjyJNV8po6nwMdRiJpYJxrVNaq2g9hf3492KQrFOHXG+HSieApIIKCzgm1m4e1pHwm1sSa8XVJ1UZxhHHsUVDZau4jiurOyzjEMEaE5vmvOBs3AZnD2quaGdZI5QZmLvkOHppr+Gq6t+ClIDqrjDjYg/o4tSfg=;Ef4KZeLdHfCNp43b2QXO3Q=="

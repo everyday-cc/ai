@@ -33,20 +33,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Global Chatbot Market Is Poised To Value Over USD 14.8 Billion By 2031 | CAGR 24.61%"
-    excerpt: "Global Chatbot Market had a value of USD 3.3 Billion in 2020. By 2031, it is expected to rise to USD 14.8 billion with a rising CAGR (24.6%) during the"
-    publishedDateTime: 2022-08-29T19:50:00Z
-    webUrl: "https://eturbonews.com/global-chatbot-market-is-poised-to-value-over-usd-14-8-billion-by-2031-cagr-24-61/"
-    type: article
-    provider:
-      name: eTurboNews
-      domain: eturbonews.com
-    quality: 17
-    images:
-      - url: "https://eturbonews.com/wp-content/uploads/2019/08/cropped-etn-logo2.jpg"
-        width: 512
-        height: 512
-        isCached: true
 
 secured: "9WIPB/fYe6p0nLI/8EboJF5wvdt8DfvHhs7ZCk4yV8nx3bHPGbJ6jfasNOgbrckyKi2unp3PO3qq3Ho2qLx7gA0+oJ0HOuFCxj3Wp4zez+9XMqi0jrLCpPSiQOqi4lz4En7F+tZgx9cuDxIiZ7BO0TfNHVvMjv79LwvVYSUAPEzc+rjSQDUyzxPBKdzsZyEVQiUy1pJFmNp5xi/h+LM+TQOZNGOFNXE2l7BTgFfRkSrnAoPdpGdKwFJw7tcyaAge8eL8Q4w/Q/DoQyL0FOP/ljrQcLqdRLXxzY2Iitti1Y75Efs/dR20hfYb8sbf7lTzGw0A391yc5azTcbfJzAFoHO7K0IV/HrrvGaOI2V7Wgc=;36J1945aF01eURei+SfexA=="
 ---

@@ -1,23 +1,25 @@
 ---
 category: news
-title: "U.S. startup SiMa.ai starts shipping machine learning chip and system"
-excerpt: "Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management & Research Company, said on Tuesday it started shipping chips and systems to customers that are testing them, an important step for mass production. We apologize ..."
-publishedDateTime: 2022-08-30T13:36:00Z
-originalUrl: "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system"
-webUrl: "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system"
-ampWebUrl: "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system/wcm/d3b033f1-d689-4d7b-bd86-a55744e847fe/amp/"
-cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system/wcm/d3b033f1-d689-4d7b-bd86-a55744e847fe/amp/"
+title: "U.S. Startup SiMa.ai Starts Shipping Machine Learning Chip and System"
+excerpt: "(Reuters) - Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management ... It is used for industrial robotics, drones, security cameras, satellite imaging and ..."
+publishedDateTime: 2022-08-30T13:24:00Z
+originalUrl: "https://money.usnews.com/investing/news/articles/2022-08-30/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system"
+webUrl: "https://money.usnews.com/investing/news/articles/2022-08-30/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system"
 type: article
-quality: 73
+quality: 83
 heat: -1
 published: false
 
 provider:
-  name: Financial Post
-  domain: financialpost.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Finance
+  - AI in Robotics
   - AI
   - Machine Learning
   - AI Hardware
@@ -134,6 +136,6 @@ related:
       domain: tmcnet.com
     quality: 8
 
-secured: "wND2TCcuCyLfovVCp7xBX5n1hBiFbKhzX7AjRMh9DOgEGk/iqlG1/mBewJ8B5FqOxeuQCmt+sKE/IAOSCsS1GZRTjrvppkfN/dNvpS77LwRxIUKr5Xpx/stcectKg3l9b+tpDAS+XlpVy3zYgorXZJU2PvjLsFzTaXi6wWzfIEzkOZpWTg7hnD63eG2EXnr9JMTJpnQOomAW+rKnsyegzU10COAY2eZbspLLrRX6f3j6V6qd+MMOFf+ymt11g3GhoRGc69mlguU1hzaobG2GYz95q/teEq5EJyE4Tv4507W9g/nZe6ZhxMkanUAdMDzplt+soCy3HcjCfigPa+W+tHD1I8vhJNw/ttzlLY7eW6w=;NyF+NepXRULqzmzgWGtucw=="
+secured: "cCYCgGzP48cr1H12fv0qFK4mBUBLJ5wZgsGXO0N+9qrqeJIdrK+5CQqfd607NazfzhkBplEUjIdwYkAIG0a8Y7vcM+c+IhIxHUQoZj5A/PBgL8+qs5HYnBIb/MNppMBBCPevSZQyr6OvSv020vAZMVfZKOa3gTyWmlFYKZnR6X5oDr4eCWQoTjSxWbhRyje7pqTiDuDyHKzrBlBYMI/OGJ+yeR0FtAwuuPu0hzmtNWvlMzbTP+vneEeBmopd48PWdqEe/mbvV+ycD0jt23Q9vI8AW7ZHFfYx/kuXiCGUlb0JxHoFhoftsVwaRlACE0viOImLzxddZn59jPSJErj7K1TbphxjzAtNhvmaFoEjEHM=;CSC3zRC4rvnf01an5iP1Mg=="
 ---
 

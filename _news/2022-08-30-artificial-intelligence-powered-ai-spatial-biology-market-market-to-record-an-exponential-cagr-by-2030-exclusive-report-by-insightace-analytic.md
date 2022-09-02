@@ -1,28 +1,49 @@
 ---
 category: news
 title: "Artificial Intelligence-powered (AI) Spatial Biology Market Market to Record an Exponential CAGR by 2030 - Exclusive Report by InsightAce Analytic"
-excerpt: "JERSEY CITY, N.J., Aug. 30, 2022 /PRNewswire/ -- InsightAce Analytic Pvt. Ltd. announces the release of market assessment report on \"Global Artificial Intelligence-powered (AI) Spatial Biology Market By Data Analyzed (DNA, RNA, and Protein) By Application ..."
-publishedDateTime: 2022-08-30T11:31:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-powered-ai-spatial-biology-market-market-to-record-an-exponential-cagr-by-2030-exclusive-report-by-insightace-analytic-869479411.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-powered-ai-spatial-biology-market-market-to-record-an-exponential-cagr-by-2030-exclusive-report-by-insightace-analytic-869479411.html"
+excerpt: "According to the latest research by InsightAce Analytic, the global artificial intelligence-powered (AI) spatial biology market is expected to record a promising CAGR of 16.4% during the period of 2022-2030."
+publishedDateTime: 2022-08-30T11:32:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-powered-ai-spatial-biology-market-market-to-record-an-exponential-cagr-by-2030---exclusive-report-by-insightace-analytic-2022-08-30-72033211"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-powered-ai-spatial-biology-market-market-to-record-an-exponential-cagr-by-2030---exclusive-report-by-insightace-analytic-2022-08-30-72033211"
 type: article
-quality: 14
-heat: 14
+quality: 46
+heat: 46
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1729637/InsightAce_Analytic_Logo.jpg?p=facebook"
-    width: 600
-    height: 314
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "6dsFLuE3OJbhr8hqOv3bKtmVZQDog9XgHvXHKHy68MPCDAXooD5enbtfMRVnWegIZBDIaOwDGuXbuGMEKMIDHcyw/w5dmiDslXipzqrhQYt4utOxZGypgECYFaz3ad4MmJj3/i0tjXOmA29Q4Qr97OfujchgjuAe3ZUJ6/b63dwafKkWulK9Vgou2Q6R/P5cpGw0maK0KZJqIwbVTwyr81//TwZf4D0DOXbnh9Iu/Evhx6asIc6SJoUoCZqUloGTuGox1vv2gDgo51SSpqZ4Lx+2ySbAmQX+twiE8AYT2KY0UrdkRqyJmjLGWo/WE3mhQ85rFmj0Ws8n1zuTG4KSYwqHdsZmA7bfNEJVzA/mtAo=;mxbj7CXxkhed8GAWRL2jAg=="
+related:
+  - title: "Global AI In Biopharmaceutical Development Market Worth $ 16.4 Billion By 2030-Report By Insightace Analytic"
+    excerpt: "Global AI in the Biopharmaceutical Development market is valued US$ 452.33 Million in 2021, and it is expected to reach US$ 16.4 Billion by 2030, CAGR of 49.3% Major market players operating in AI in the biopharmaceutical Development market include IBM Watson Health,"
+    publishedDateTime: 2022-08-29T11:02:00Z
+    webUrl: "https://menafn.com/1104773930/Global-AI-In-Biopharmaceutical-Development-Market-Worth-164-Billion-By-2030-Report-By-Insightace-Analytic"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 20
+    images:
+      - url: "https://menafn.com/updates/pr/2022-08/29/EP_9336bimage_story.jpeg"
+        width: 600
+        height: 314
+        isCached: true
+
+secured: "jbH/J0uuuuwKDe1gyo4a677XR+fgQNexCXPu8dQ+Rmoy0G6CVIn0O4xubXuKEbkSUehD8T1iGH5SPSqtrv9ujQ69UmZaP/zOiIgrVVrtPUxTbrvrqlmPbGFyIab8z0cM7hTjuUTv3Xt4qcje3l80zMo5hB4bUvWVugcfr7e4iznDdmlMoaxbkElDdlBKowwC/+1ED27VTMOkutZm6O1gJ128u/mKSsrDEjnh6ySJNM4LaBBnKFVxk3ju57jZuj6bHxswXgmoiSnZ7lWQ7aFDkMiRnytHpXgpctYUhPSitNwbi0Vmr3uD/7uCE4yJ6jrHvcVNJlyHuGfrmIDYlnlPhZE3Fwv5MCdkpRGEresw0xY=;ZOPn6xTg7eLoxeYQ72vHFg=="
 ---
 

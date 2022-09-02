@@ -7,7 +7,7 @@ originalUrl: "https://www.bbntimes.com/science/how-artificial-intelligence-augme
 webUrl: "https://www.bbntimes.com/science/how-artificial-intelligence-augments-animal-healthcare"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "Healthcare AI Can Augment Clinical Workflows"
+    excerpt: "The current state of healthcare is where healthcare providers sit and type in front of a computer while caring for patients. By doing so, critical aspects of their stories can be missed. As artificial intelligence (AI) advances,"
+    publishedDateTime: 2022-09-02T11:08:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-health-artificial-intelligence-d161438367430be8c153fc236c833a10"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "bYQZ5VlwFb9094c/OE3nEXkkAgyekcy74OyQ6n6EBwvxIgfGw4LkpJ6e7azjBpKOBYE0Shds17d4AtifUQWxew+YcE/dX/Nr/g4EL9hNj+W7NNDdJ9LoXBsQOQwbIg1YS+gnPcYXezfbl3FAPBY7ofESSN/78tr/H155F0WVBDuUMV4PQdXCQCa6L0Gnwyo28Wj/3zBMVdnqubLElH5tXAMwkFdrC5/jZmlWRli4cTXt8G31HODL1DjNMQbyDw6U+3dqwtrFZf0esT0NjLh+LIyC+iYCFUTo5xAcOJkrxXHIHOSu6Z0loglxb7VkHPF6vXir7E4v0GqFCxLq32x/YGI+gA8LCOK8YM52IqSkd2LX08Rz6TYHYD1i3xj8uW2WxtlDi3BuBldMo3h9DGvz/3i7AvJ4yt+ay9KrlcU/J3fYGtGzYRgOk9qxqh9RNEBBt3XuS2tGBte7R9wkhCVkStRbHQIw4njELgEZaeq0nHOW+qwUoYGXSeGKGF69cjSt384GP2kqNx5SC8dB3fb6Lw==;hzlBJWaJWICukm360na6Kw=="
 ---

@@ -29,14 +29,14 @@ images:
     isCached: true
 
 related:
-  - title: "Cognitive Computing Market to be Worth $225.33 Billion by 2030: Grand View Research, Inc."
-    excerpt: "The global cognitive computing market size is projected to reach USD 225.33 billion by 2030, registering a CAGR of 27.6% from 2022 to 2030, according"
-    publishedDateTime: 2022-08-31T13:06:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56944647-cognitive-computing-market-to-be-worth-dollar-225-33-billion-by-2030-grand-view-research-inc-008.htm"
+  - title: "Global Speech & Voice Recognition Market Research Report to 2027 - Featuring Amazon, Apple and Baidu Among Others - ResearchAndMarkets.com"
+    excerpt: "The \"Speech & Voice Recognition Market Research Report by Delivery Method, Technology, Deployment Mode, Vertical, Region - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2022-08-31T11:33:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-8-31-global-speech-and-voice-recognition-market-research-report-to-2027-featuring-amazon-apple-and-baidu-among-others-researchandmarketscom"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
+      name: Buffalo News
+      domain: buffalonews.com
     quality: 0
 
 secured: "MzEIXdSzN5tmIQ34twk9LdXpUwgTf8EYKQUqcKLkYvUVMclpfyQGKliGw6RkXVcadnL7u63NpWLILup6qS7IP+I4FVHGWune7yO5rA8eRrRacqg5RgbQfJlAk43M4dsxX+PnccOKLkm+2AoPQxZQ/apmILUOSaHzlnkGLTgQt9i6n5CE2WfNckj4xUqYYBIQCWKz0RoAw265GIXfxTGAcQcmTT3a69TOYfKV+hbJPdSrytpC7nGbJAFjmraNw/LAM4FZLn4kqFZ4LSlvSVyilfcJB0ZWKShW9C4EhcE4KSTs/Zrs0HoYlUWkV+qalVoBHkrYaanT13+Y8MvgSbG+aKgskf0RqR2EPWGM/oWRSr4=;5G5awFxx177XaMVo65eZRg=="

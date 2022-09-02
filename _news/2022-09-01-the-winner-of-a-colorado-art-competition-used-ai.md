@@ -84,6 +84,15 @@ related:
         width: 802
         height: 588
         isCached: true
+  - title: "This AI-generated artwork just won first place in a state competition"
+    excerpt: "Colorado man Jason Allen has used AI software Midjourney to create Theatre D'opera Spatial, an art piece that won first place at the Colorado State Fair."
+    publishedDateTime: 2022-09-02T10:34:00Z
+    webUrl: "https://www.tweaktown.com/news/88265/this-ai-generated-artwork-just-won-first-place-in-state-competition/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "48jDMmU+ITY3aA+u4DKrzCAXzR4BXBG4dYQPPplX+AdbfJThbKU6NJfzaLXMLACB8W4bbuMAAD7AIg60OSuHH08eAU6Ht/gppUiEf+7vNLgddX+8blbUEAaJN9l89foLsgidlgRjg8DG1EJmxLMGfskjmMD0c/ScoihP+isp4edDhs1H50SG4pdEYCu44fnikJ5RIzl5p1P7KV8Dqns2DRjujOU6h4FApGNiJbl2dz3UBzzVsfcRn8L3xVA+uQvPPu3DsqRP65Oj0Ex+NO0US9561qOyO2DDe1FD6OhPq/WssF1mwu6QvHJWwTk0EXM9TTUCoOL+4clQ9JrVX0Jeht5ahaF6Ds2mx7fA8Uhea5xI09xoVHziGPM+G1bNue+wCBQIjY9aaWbaluZf/AlgvKteggbFymnQONeqrHZlMPA0iJt7BEXeMf5FuZLswcp7iFAAgz+5e1qjU/xZqENW2uoVAWwoB/JgI9Ov/s0ifFlrnFw5QF+PigMk4EKLZ8v1nRwhgvyKyJTyJ2s4Qf789A==;uNSsxQGkXhaX8PJYkxP07A=="
 ---

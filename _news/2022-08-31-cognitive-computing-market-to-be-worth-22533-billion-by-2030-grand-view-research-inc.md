@@ -19,19 +19,44 @@ topics:
   - AI
 
 related:
-  - title: "How The Speech and Voice Recognition Market Will Boom In Coming Years And Which Region Has The Highest Market Share?"
-    excerpt: "The speech and voice recognition market size was valued at USD 6.9 Billion in 2018, and is projected to reach USD 28.3 Billion by 2026 growing at a CAGR of 19.8% during the forecast period. What Information does this report contain?"
-    publishedDateTime: 2022-08-29T05:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/how-the-speech-and-voice-recognition-market-will-boom-in-coming-years-and-which-region-has-the-highest-market-share-2022-08-29"
+  - title: "Global Facial Recognition Market To Power And Cross USD 12.67 billion By 2031"
+    excerpt: "The Facial Recognition Market is expected to reach USD 12.67 billion by 2031. This is a rise from USD 5.01 billion in 2021. It is projected to grow at a 14.3% CAGR between 2022-2031. Advancements ..."
+    publishedDateTime: 2022-08-29T21:07:00Z
+    webUrl: "https://eturbonews.com/global-facial-recognition-market-to-power-and-cross-usd-12-67-billion-by-2031/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
+      name: eturbonews.com
+      domain: eturbonews.com
+    quality: 36
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://eturbonews.com/wp-content/uploads/2019/08/cropped-etn-logo2.jpg"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "Investigation And Security Services Global Market to Reach $527.64 Billion by 2026"
+    excerpt: "The \"Investigation And Security Services Global Market Report 2022 by Type, Deployment Type, Application\" report has been added to ResearchAndMarkets.com's offering. The"
+    publishedDateTime: 2022-08-30T16:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/n28689098/investigation-and-security-services-global-market-to-reach-527-64-billion-by-2026"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28689098"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28689098"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
+  - title: "Global Chatbot Market Is Poised To Value Over USD 14.8 Billion By 2031 | CAGR 24.61%"
+    excerpt: "Global Chatbot Market had a value of USD 3.3 Billion in 2020. By 2031, it is expected to rise to USD 14.8 billion with a rising CAGR (24.6%) during the"
+    publishedDateTime: 2022-08-29T19:50:00Z
+    webUrl: "https://eturbonews.com/global-chatbot-market-is-poised-to-value-over-usd-14-8-billion-by-2031-cagr-24-61/"
+    type: article
+    provider:
+      name: eTurboNews
+      domain: eturbonews.com
+    quality: 17
+    images:
+      - url: "https://eturbonews.com/wp-content/uploads/2019/08/cropped-etn-logo2.jpg"
+        width: 512
+        height: 512
         isCached: true
 
 secured: "GCiVQhMhmPF5gM4d6xxqaCoNcWC8Y8nY81moHUAtLFhQDSrzJCxR57JJ/K/B1zUtnFveFLyQdl69GQWi3eU7TAmknoxolcEkYfsnKY01cy8DEnku5isn0A0XsNbOrVfbBxaP/dWHLl8V7EEkd6IHSYP3XbAls0ntAxrSUBiNQPVDuI+9TJ+DbARnUei8yhVYxSJgo9PwcnNnReG9xh6O/XCcPLfgkkvS5wpQJm5hhS7H7PqWAb3vl6E2pO6h0W3Keh7Fu2pPr1c+cDGcdbCkn4S2Ago01vhPTHHS/aH93ZtCpFs70yyCuheBbegJ4SfgcgygBJBOOaBxMytDIW858Z06AtY2IZCCS3iwzA7bbvw=;cW1U2B3HEwXA8hC9uMePCg=="

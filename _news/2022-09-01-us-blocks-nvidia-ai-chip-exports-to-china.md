@@ -232,6 +232,22 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "US Deals Heavy Blow to China Tech Ambitions With Nvidia Chip Ban"
+    excerpt: "The US government’s new restrictions on the ability of Nvidia Corp. to sell artificial intelligence chips to Chinese customers threatens to deal a heavy blow to the country’s development of a sweeping range of cutting-edge technologies."
+    publishedDateTime: 2022-09-02T10:58:00Z
+    webUrl: "https://www.bnnbloomberg.ca/us-deals-heavy-blow-to-china-tech-ambitions-with-nvidia-chip-ban-1.1813842"
+    ampWebUrl: "https://www.bnnbloomberg.ca/us-deals-heavy-blow-to-china-tech-ambitions-with-nvidia-chip-ban-1.1813842.amp.html"
+    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/us-deals-heavy-blow-to-china-tech-ambitions-with-nvidia-chip-ban-1.1813842.amp.html"
+    type: article
+    provider:
+      name: bnnbloomberg
+      domain: bnnbloomberg.ca
+    quality: 61
+    images:
+      - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1813843!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/nvidia-headquarters-in-santa-clara-california-u-s-on-tuesday-feb-23-2021-nvidia-corp-is-expected-to-release-earnings-figures-on-february-24.png"
+        width: 620
+        height: 349
+        isCached: true
   - title: "Nvidia and AMD impacted as US restricts GPU sales to China"
     excerpt: "The US has once gain tightened the loop around China's semiconductor industry, and this time it is specifically targeting China's high-performance computing, especially machine learning infrastructure."
     publishedDateTime: 2022-09-01T06:10:00Z
@@ -396,6 +412,6 @@ related:
       domain: arabianbusiness.com
     quality: 13
 
-secured: "yaf+PALo0ax3pLpa3hJZpxqXoYFjA7eNlV0RR9PR0V1wm5xVunqlIjWMFFlqRES7aTgXqYI4jPGQ0mrXpqH0Xht+fPLXqV4sBqdMk3Av4JR7iODL4uUbjX3rm2E9sM4iDZ7ihE2+G9QhS508ocSP7wHVbb0w62zBgR7/uyrySZpPA5eN+mRkadXsh5jmHsXwTbhGDhFGUROkSXOjVf4W4cTKOxoU64g6c4uSP7Oqn19lf/hY5Hs4ymG2bmhVxqVwglCYOeVv/WHFGwt6eWaGjKfr294z6H5vPnKeXKfLu+7IvJiG34JMuWm6EzFCfhSbUHbjcxopZCqpP2c2FEwob9fCslCZS9hqw4+Z8SIWxY4=;ITMOtSTP8Dv3RdVq7bg8Ag=="
+secured: "v1xGc+GfFifJ56zuAXqvrXs1YbECMs4P7dEXK48QYjuRWpjCvezhTE10law3matHNtPYNRhfY2iVRs4lpIQJePB9mF3yx6W7HnNJ6+FgGxK9a/zxuAUdzeem6AGQeFLkD0iVbehOIKYDqqUkKEnsyaYAkAN73XSa4mt7AgI+lCZmR6uLwdYQqVi2luzpFGincm6K8WPn6seXyf8gD7JWZhj95rWHNmX53S9Fy2JEVwbxy9l8+ghE6iNhg3O2iLxDawMv84I4DPDO0uOq8leRnsSMEpDvgTMIz1lC01EPLVVYkPWl5gicxz5WR6G2PVOMmkwgSNDDZdzVif3GozcJsJaFeP7xIKhmvsf9yqPDBIkMDgTA1AbjoEb29gIe4SL8jPXppxvvL7AAIckfw0Ex1eLiggcWM4tF4pdOqLlv20wjz24+/ZPUr7F1Cs1wrO1TaNVy6pEp5gxMPmXNb59MM/qibMv5UoZlMVbrTzYPmSb9LqHdICSzlz15rjvyGxAXg8wblMeq5ECcMxIfeSBA2g==;rFGtULNhbi5pAAi8WhWu5g=="
 ---
 

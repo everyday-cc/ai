@@ -44,6 +44,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 34
+  - title: "Enhanced Road Simulations To Help Self-Driving Cars Developed"
+    excerpt: "Researchers have developed a new way to create photorealistic images for simulators, paving the way for better testing of driverless cars."
+    publishedDateTime: 2022-08-30T09:02:00Z
+    webUrl: "https://www.technologynetworks.com/informatics/news/enhanced-road-simulations-to-help-self-driving-cars-developed-365147"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 24
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/365147/enhanced-road-simulations-to-help-self-driving-cars-developed-365147-640x360.jpg?cb=20220830"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "dVGsq0hIIGz/ODEocjqpx8JsgfCIj6/JUW/8iVl071cy41uBSaaPYhvvy7rMgHXa1IULEKBjlhLguOVUfW016TonErTmq/Ohhxs2Kb4+hzl17q4Ez+qzqKP9Rtt7H5WqgPJYQYrk8wAX5x13dhN/uXArd8oM1OF9Fo9WKoAUaD4d54oZVQyoURerPRGUTK/JDg6H/xD1AFeZm8aI5wIdwMXwQeSuQpCvVAooZR8GMpPRO6/5JvG++jiq3/Jbh6YJgy4Po+UicfZ6qMbcfcPqMaUpijkUWItaD0sHurD96IDtqhAAc1og7QHHdN10haHGcLcbDjNuqD3hjueby+xKz2hEEi+Wsw/EP6U3xBBqFME=;IooSZhO6qRGEOs7dgXFX1w=="
 ---

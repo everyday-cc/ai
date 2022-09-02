@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/forget-chess-deepminds-training-new-ai
 webUrl: "https://thenextweb.com/news/forget-chess-deepminds-training-new-ai-play-football"
 type: article
 quality: 84
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Next Web
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why DeepMind Is Sending AI Humanoids to Soccer Camp"
+    excerpt: "There’s controlling the full humanoid body, coordination—which is really tough for AGI—and actually mastering both low-level motor control and things like long-term planning.” An AI has to re-create everything human players do—even the things we don’t have to consciously think about,"
+    publishedDateTime: 2022-09-02T11:00:00Z
+    webUrl: "https://www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-camp/"
+    ampWebUrl: "https://www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-camp/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-camp/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 106
+    images:
+      - url: "https://media.wired.com/photos/631134163dfe1372fb611162/master/pass/soccer_HZ_science_GettyImages-520264154.jpg"
+        width: 2400
+        height: 1799
+        isCached: true
   - title: "DeepMind AI learns to play soccer using decades of match simulations"
     excerpt: "An artificial intelligence learned to skilfully control digital humanoid soccer players by working through decades worth of soccer matches in just a few weeks"
     publishedDateTime: 2022-08-31T19:50:00Z

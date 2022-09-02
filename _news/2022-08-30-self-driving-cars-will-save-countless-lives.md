@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Self-driving cars: A primer"
-    excerpt: "Self-driving cars are part of an uncertain future, but automakers have signaled they are constantly moving to a day when at least some of us won’t drive at all."
-    publishedDateTime: 2022-08-28T19:04:00Z
-    webUrl: "https://www.krqe.com/news/weird/self-driving-cars-a-primer/"
-    ampWebUrl: "https://www.krqe.com/news/weird/self-driving-cars-a-primer/amp/"
-    cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/news/weird/self-driving-cars-a-primer/amp/"
-    type: article
-    provider:
-      name: KRQE
-      domain: krqe.com
-    quality: 44
-    images:
-      - url: "https://www.krqe.com/wp-content/uploads/sites/12/2022/08/chevrolet-bolt-ev-cruise-automation-test-mule-in-san-francisco_100565635_h.jpg?w=1280"
-        width: 1280
-        height: 855
-        isCached: true
   - title: "Self-driving cars have nothing on Japan’s self-captaining ships"
     excerpt: "It was grimy from nautical toil and decidedly ugly on the eye, but there are few more thrilling ships out on the seas. And if you like your gadgetry game-changing but also attractive to barnacles and a challenge to the idea that Silicon Valley has a pre-eminent right to define “tech”,"
     publishedDateTime: 2022-08-31T04:00:00Z
@@ -48,20 +32,6 @@ related:
       - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
         width: 619
         height: 377
-        isCached: true
-  - title: "Enhanced Road Simulations To Help Self-Driving Cars Developed"
-    excerpt: "Researchers have developed a new way to create photorealistic images for simulators, paving the way for better testing of driverless cars."
-    publishedDateTime: 2022-08-30T09:02:00Z
-    webUrl: "https://www.technologynetworks.com/informatics/news/enhanced-road-simulations-to-help-self-driving-cars-developed-365147"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 24
-    images:
-      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/365147/enhanced-road-simulations-to-help-self-driving-cars-developed-365147-640x360.jpg?cb=20220830"
-        width: 640
-        height: 360
         isCached: true
   - title: "More People Want Electric Cars Than Self-Driving Ones"
     excerpt: "Ipsos' latest Mobility Navigator Study shows that while almost half of drivers (49%) say they're interested in an electric vehicle for their next car, only 31% would be interested in a fully autonomous,"
@@ -77,17 +47,34 @@ related:
         width: 1404
         height: 1112
         isCached: true
-  - title: "Self-Driving Car Tech Forgotten by Automakers Is Still Kept Alive by Federal Agency"
-    excerpt: "There was a time when the answer to how to make self-driving cars work was to design a singular technology that would allow every vehicle on the road to communicate with everything — other cars, pieces of infrastructure,"
-    publishedDateTime: 2022-08-30T22:30:00Z
-    webUrl: "https://jalopnik.com/self-driving-car-tech-forgotten-by-automakers-is-still-1849475361"
-    ampWebUrl: "https://jalopnik.com/self-driving-car-tech-forgotten-by-automakers-is-still-1849475361/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/self-driving-car-tech-forgotten-by-automakers-is-still-1849475361/amp"
+  - title: "GM's self-driving outfit is looking to fill 200 open roles. Cruise's top engineering exec shares his 4 tips for acing the interview."
+    excerpt: "The top engineering exec at GM's Cruise, gives 4 ways a job candidate can ace an interview at the self-driving vehicle company."
+    publishedDateTime: 2022-08-31T09:51:00Z
+    webUrl: "https://www.businessinsider.com/interview-tips-self-driving-general-motors-cruise-open-roles-jobs-2022-8"
     type: article
     provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 18
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 23
+    images:
+      - url: "https://i.insider.com/630e374cabd32c00180a0024?width=700"
+        width: 700
+        height: 525
+        isCached: true
+  - title: "A self-driving bus is carting Michigan State students to campus this fall"
+    excerpt: "Michigan State University’s new electric autonomous bus began full service routes Monday just as students returned to campus. At 27 feet long with 22 seats, the bus is one of the largest of its kind to operate on roadways in the U."
+    publishedDateTime: 2022-08-31T21:54:00Z
+    webUrl: "https://www.crainsdetroit.com/transportation/michigan-state-self-driving-bus-starts-routes-east-lansing"
+    type: article
+    provider:
+      name: Crain's Detroit
+      domain: crainsdetroit.com
+    quality: 23
+    images:
+      - url: "https://s3-prod.crainsdetroit.com/styles/1200x630/s3/msubus.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Don't trust self-driving cars? NC State researchers trying to change that"
     excerpt: "If the idea of a self-driving vehicle zooming down Interstate 40 and trying to reach the offramp at rush hour scares you, you’re not alone. The autonomous vehicle market is projected to eclipse $724 billion by 2027, according to a report from Emergen ..."
     publishedDateTime: 2022-08-30T12:00:00Z

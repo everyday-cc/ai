@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/man-boasts-about-winning-art-competitio
 webUrl: "https://www.pcmag.com/news/man-boasts-about-winning-art-competition-using-ai-created-image"
 type: article
 quality: 67
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -85,6 +85,15 @@ related:
         width: 802
         height: 588
         isCached: true
+  - title: "This AI-generated artwork just won first place in a state competition"
+    excerpt: "Colorado man Jason Allen has used AI software Midjourney to create Theatre D'opera Spatial, an art piece that won first place at the Colorado State Fair."
+    publishedDateTime: 2022-09-02T10:34:00Z
+    webUrl: "https://www.tweaktown.com/news/88265/this-ai-generated-artwork-just-won-first-place-in-state-competition/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "j6UN0xIbUCdyL/KyDZvm1PSfiU1ATZZGx3PM5WLRsiFkEsxrvYmwZbh/YMwmCC8bB+by5JfKaX6+EUfigxaL5JaZipd4uk5GL7FeZQB81aYAu+J5x0SxPFyuS+MlRwuJ1psbWmvafHep/8+JpkXMWwFP03wiT/64W6zeodI+86L7Wum4VdoCzrnvEZyxZihvsjgoQ89IgHYMhel6+l8Lc1vjTYQuzdNHtSVDLbqKR7vklxQeKW42Tq8aZ3qlw/SmQRKI9FHMQ4sxCq6uWIaKWeJKx/Floi2XfdEDhM/Hbqu/BZ7cImFLmb5N7ZmBkah4LqALGwCx/30Y0sxY2YabNU6tDWU+W+CR/DmuvKOS9tmNrKqAZnyTYkDP3V9vpdd9CRc/7rzhaKvv6kPLzIdBDnPgaRX0lXHDhL09jASZhZE170/vIPE7ZK9Euo0RidVfKH6snS6+axKTNxSGCY8nEoz8rWzkuIgnUULzq4sjnhU27amrO3FiEu4W1SNx5f7FA95Ye0T9QQoSSyCxMbSLoA==;9AIoin9GEXoUHRV6rdvOag=="
 ---

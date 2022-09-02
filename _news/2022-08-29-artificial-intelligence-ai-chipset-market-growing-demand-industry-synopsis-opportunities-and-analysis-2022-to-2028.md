@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Drug Discovery Market Size, Set for Rapid Growth and Trend by 2022-2030"
+    excerpt: "The artificial intelligence (AI) in drug discovery market size is expected to reach USD 4.13 billion by 2030 according to a new study by Report Ocean. Request To Download Sample of This Strategic Report:-  Report Ocean presents a new report on artificial intelligence (AI) in drug discovery market size,"
+    publishedDateTime: 2022-08-31T04:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-size-set-for-rapid-growth-and-trend-by-2022-2030-2022-08-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Fintech Market Report 2022-27: Size, Share, Growth, Trends And Forecast"
     excerpt: "The global AI in fintech market reached a value of US$ 9.4 Billion in 2021. Looking forward, IMARC Group expects the market to reach US$ 36.1 Billion by 2027, exhibiting at a CAGR of 26.1% during 2022-2027."
     publishedDateTime: 2022-09-01T00:15:00Z
@@ -88,6 +102,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Deep Learning Chip Market Size and Share 2022 Analysis Report by Key Players, Geographical Regions, Future Development and Forecast to 2028"
+    excerpt: "Aug (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Deep Learning Chip Market”"
+    publishedDateTime: 2022-08-30T07:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-size-and-share-2022-analysis-report-by-key-players-geographical-regions-future-development-and-forecast-to-2028-2022-08-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Software Platform Market Size Share Volume Trends Demand Forecast Report 2022-2028"
     excerpt: "The global Artificial Intelligence Software Platform Market is expected to exceed more than US$ 11.5 Billion by 2024, at"
     publishedDateTime: 2022-09-01T14:01:00Z
@@ -97,6 +125,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Fintech Market Size Share with Top Countries Data, Industry Trends, Growth, Opportunities and Forecast to 2022-2031"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Japan, Japan, Mon, 29 Aug 2022 09:35:57 / Comserve Inc. / -- AI in Fintech Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players ..."
+    publishedDateTime: 2022-08-29T13:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-share-with-top-countries-data-industry-trends-growth-opportunities-and-forecast-to-2022-2031-2022-08-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
