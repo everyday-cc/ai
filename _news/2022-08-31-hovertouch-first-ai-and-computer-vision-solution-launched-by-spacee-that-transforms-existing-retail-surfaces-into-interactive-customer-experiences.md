@@ -1,24 +1,28 @@
 ---
 category: news
 title: "HoverTouch™: First AI and Computer Vision Solution launched by Spacee that Transforms Existing Retail Surfaces Into Interactive Customer Experiences"
-excerpt: "Using only light and a projector, HoverTouch lets customers explore products virtually, collecting crucial data and boosting sales DUBAI, United Arab Emirates,  /PRNewswire/ -- Spacee, which provides"
-publishedDateTime: 2022-08-31T06:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/08/n28695868/hovertouch-first-ai-and-computer-vision-solution-launched-by-spacee-that-transforms-existing-retai"
-webUrl: "https://www.benzinga.com/pressreleases/22/08/n28695868/hovertouch-first-ai-and-computer-vision-solution-launched-by-spacee-that-transforms-existing-retai"
-ampWebUrl: "https://www.benzinga.com/amp/content/28695868"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28695868"
+excerpt: "HoverTouch is designed to help drive in-store traffic and boost sales. Building on the success of Spacee's previous interactive experience solution, Sense, HoverTouch adds significant new ..."
+publishedDateTime: 2022-08-31T06:01:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/hovertouch-tm-first-ai-and-computer-vision-solution-launched-by-spacee-that-transforms-existing-retail-surfaces-into-interactive-customer-experiences-812240898.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/hovertouch-tm-first-ai-and-computer-vision-solution-launched-by-spacee-that-transforms-existing-retail-surfaces-into-interactive-customer-experiences-812240898.html"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1887981/HoverTouch_Interactivity_Anywhere.mp4?p=thumbnail"
+    width: 512
+    height: 288
+    isCached: true
 
 related:
   - title: "Top 6 industries being touched and transformed by AI"
@@ -31,6 +35,6 @@ related:
       domain: telegraphindia.com
     quality: 17
 
-secured: "DZhCI8P3D1T4DB3RFP7XUmy+DVjRlTdNTd6CtRtHmOVwZELjZfrIfayMfDlsRe/xu+cww4WamsgyVnmPC31q1qM8R5YCzpThFKEKMf0/SIfBMwel+x8J2oYQFoV2i3LHruRCBU1U5Q8Nv0GjO2oUoWcm9yyfStdguRsm/c6PqqNDhR5jFrAaTE+kBUZYamxN3KB8iUNMfjm0bm1szzRutKb81U52z46qBjRxSI3grbNDxdp0yXQ+CPOqNJvhjIbqPXzJ/glDSQARPZ5hrIAI+/FnxDLzNORRpaQgVZ+6vqCNRPPDvFDR4lB0k9zShnbpnaLjXMogXvd8884lYgVzl8xP/NavQFdw4b4+6HOdzmw=;f8YWm5tEOEd/iJ2U2QjBHQ=="
+secured: "SV5SSutpBlimuuqg18Oh+EaGGMaZoq2rgyiknAKyPa/ah6IWLTJTPrJ7ZBmJdLXyizMxJw74NyiJ6dmjP52P7u64XrQ8zBZ/hWlXL9c/RW28Yds7kd1m8yrpwczZ0tS2qNOmKboVWovd0cOUJWaM5MIiSb2P6/zfgI4xcc062RUBn5VCAsdC7ZORA9+W3gHFVdK8tWhCqR067SE99N7Zc4lTUFHP4u+FIAg1uzIqGC9fmHweM7cCrFIXj73q0L4T4wXrQgcX+xrhuTm0tqRsdm6a16u/5gXj5e/EoAvNY8aA/s3EN7pG0uBC8AIb3U8a1Uv/KNyaf7w15fG/TPqhccfjyuOb7PBtBxU9+PE+Zj0=;p+fM0U3KCYvcUSiVsnEmQg=="
 ---
 

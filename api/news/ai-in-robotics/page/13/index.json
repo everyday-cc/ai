@@ -2,83 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2022-06-01-how-is-robotics-innovation-progressing-in-the-air-force-industry.md",
-      "title": "How is robotics innovation progressing in the air force industry?",
-      "excerpt": "Analysis of patent filings revealse the top companies for robotics related applications in the industry over the past year",
-      "sourceUrl": null,
-      "webUrl": "https://www.airforce-technology.com/dashboards/patents/how-is-robotics-innovation-progressing-in-the-air-force-industry/",
-      "originalUrl": "https://www.airforce-technology.com/dashboards/patents/how-is-robotics-innovation-progressing-in-the-air-force-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.airforce-technology.com/wp-content/uploads/sites/6/2022/05/il8Zm-1038x778.png",
-          "width": 1038,
-          "height": 778,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Airforce Technology",
-        "domain": "airforce-technology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-tiny-robot-crab-to-perform-tasks-inside-body.md",
-      "title": "Tiny Robot Crab to Perform Tasks Inside Body",
-      "excerpt": "Engineers at Northwestern University have developed a tiny remote controlled crab robot. The device is just half a millimeter wide, and can perform a variety of impressive tasks, including jumping ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medgadget.com/2022/06/tiny-robot-crab-to-perform-tasks-inside-body.html",
-      "originalUrl": "https://www.medgadget.com/2022/06/tiny-robot-crab-to-perform-tasks-inside-body.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medgadget",
-        "domain": "medgadget.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-31-how-has-robotics-changed-manufacturing-technology.md",
       "title": "How Has Robotics Changed Manufacturing Technology?",
       "excerpt": "Robotics has been changing manufacturing technology for decades. Production has advanced in numerous ways since the introduction of robots. Primarily, industrial robots can do repetitive tasks much more quickly than humans.",
@@ -1299,6 +1222,92 @@
       "provider": {
         "name": "7News Miami",
         "domain": "wsvn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-robots-are-displacing-manual-labor-jobs.md",
+      "title": "Robots Are Displacing Manual Labor Jobs",
+      "excerpt": "While the panelists agreed that robots will replace may of the jobs that Leavitt referred to as “mind-numbing repetitive manual labor ... Rob Spiegel has covered automation and control for 17 years, 15 of them for Design News. Other topics he has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/robots-are-displacing-manual-labor-jobs",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/robots-are-displacing-manual-labor-jobs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/styles/article_featured_standard/public/download_3.jpg?itok=8H3bGPP8",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-tiny-robotic-crab-is-smallest-ever-remote-controlled-walking-robot.md",
+      "title": "Tiny robotic crab is smallest-ever remote-controlled walking robot",
+      "excerpt": "Northwestern University engineers have developed the smallest-ever remote-controlled walking robot—and it comes in the form of a tiny, adorable peekytoe crab.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-05-tiny-robotic-crab-smallest-ever-remote-controlled.html",
+      "originalUrl": "https://techxplore.com/news/2022-05-tiny-robotic-crab-smallest-ever-remote-controlled.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx1.b-cdn.net/csz/news/800/2022/tiny-robotic-crab-is-s-1.jpg",
+          "width": 800,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-05-tiny-robotic-crab-smallest-ever-remote-controlled.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-tiny-robotic-crab-smallest-ever-remote-controlled.amp",
+      "publishedDateTime": "2022-05-25T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null

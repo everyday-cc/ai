@@ -9,7 +9,7 @@ ampWebUrl: "https://www.poandpo.com/in-sickness-and-health/mit_s_ai_model_can_de
 cdnAmpWebUrl: "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/in-sickness-and-health/mit_s_ai_model_can_detect_parkinson_s_by_tracking_breathing_patterns.amp"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-08/pic1166.gif.jpg?itok=1yCRk8y8"
         width: 1528
         height: 800
-        isCached: true
-  - title: "Breakthrough in detecting Parkinson’s using AI and breathing patterns"
-    excerpt: "An MIT Jameel Clinic-developed device with the appearance of a Wi-Fi router uses a neural network to discern the presence and severity of one of the fastest-growing neurological diseases in the world"
-    publishedDateTime: 2022-08-28T11:30:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/breakthrough-in-detecting-parkinsons-using-ai-and-breathing-patterns-ueqok5qc"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
-    images:
-      - url: "https://static.zawya.com/version/c:M2ZhMjgwNjEtZjYxMi00:NzBhNTEz/edroom-jpg.jpg?f=3%3A2"
-        width: 889
-        height: 593
         isCached: true
   - title: "AI can now detect Parkinson’s disease as we sleep"
     excerpt: "Artificial intelligence analyses the respiratory patterns ... either from radio signals that bounce off their body or from a breathing belt they wear while sleeping. A neural network, ie, a series of algorithms, is able to deduce whether or not the person ..."

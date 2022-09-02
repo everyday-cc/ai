@@ -9,7 +9,7 @@ ampWebUrl: "https://www.investingcube.com/ai-in-fintech-market-will-reach-more-t
 cdnAmpWebUrl: "https://www-investingcube-com.cdn.ampproject.org/c/s/www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 100
 published: true
 
 provider:

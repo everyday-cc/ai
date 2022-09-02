@@ -385,6 +385,15 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 19
+  - title: "US bans export of artificial intelligence-related chips to China fearing misuse"
+    excerpt: "Nvidia shares tank after it estimated a loss of $400 million as it is prevented from exporting two types of chips that can be used for military use; AMD also affected US bans export of artificial inte"
+    publishedDateTime: 2022-09-02T05:12:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/us-bans-export-of-artificial-intelligence-related-chips-to-china-fearing-misuse"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 13
 
 secured: "k0avAVrejnZ1ygKegdjZwxjdFfoRsHG1W0C9lmantyE/mwaD2LlMMh9M3dMPEfNSIio+eMvqSlS84G3T6iAJlwjDk+BhY6xa/fEBN4FXRLU2KfuxNYh3M1ri0ai0+jgXLtsUZ8d36lKK83q2SqKcr5pxy2MvdUsK1yaFemmMjEghV7c4rASfjEZWcvDAnpJKKpqAMeKAd08qCSRMkyPZt74y92/PmPvnslf7Y247q7iFvGpxaGtjRkn9IfBJsX1yy8jVHimQo3cRc7oVjdBWkujX6ZObtOh3qhqKGUGOw39jPMg8///7DPW2pKoND3tTNObsyroAZUJ+ptsK7XLn6m47pbfAe1TrYQtRKG/xveQ=;fWUW3gaMh1h6mv6y76YCew=="
 ---

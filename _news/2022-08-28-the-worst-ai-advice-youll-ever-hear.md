@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2022/08/28/the-worst-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/08/28/the-worst-ai-advice-youll-ever-hear/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2022/09/01160256/SEI_122402626.jpg"
         width: 1200
         height: 799
+        isCached: true
+  - title: "Navigate the quest for artificial intelligence"
+    excerpt: "Navigate the quest for artificial intelligence. MIT Technology Review is the go-to source for insightful and thought-provoking stories about technology and its implications in our"
+    publishedDateTime: 2022-09-02T05:56:00Z
+    webUrl: "https://www.technologyreview.com/supertopic/artificial-intelligence-featured-stories/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 37
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/05/Imagen-comp.jpeg?resize=1200,600"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "3ZhjWCJINGdGJLX5pD0FcgONwHLJKVpTsILHiC9NNzR5MDRcSLOoJs9uIxd2MvDKpGag/HYdLYcq2dUMrAHKPv2lKJEdGLhbKTC1x5g/9QTH6TkWM+Hda6KYZLecI1NE9810dmv2I4Hhd0ZHVTuPsvwRo2tBxikIqymtg+JE61dlgKzty+LxcignF41Za8ljvMd/LBGBCv8OPs7LxLE3Rie5RpBRNVP2qd52yWUS0XIzWuZH6YWgf/Lx0Y19uwoNZt8uteqCsUxFaXBv3WhLeYCHU5OqhtCeXNYjjynQNzsV366AT9Ixjze+a3jCsN/AbUi4y45rH/Ms9oKYnF9lEZaki7SYgd2KTQUxu1QjtberE1Bt3tGwiFq1KUx156tE7Wm5c2BsYo3sN1dkzXayPDUbWWO6ldg4VN1Jg1JoHHLajWKRxMxKT+mgQmloXmDF/BgWSBSfCopGjTdu6OiTcmHOGKCcx4aamLS0WC9dy3Q2pJYWlQYfvitkyxCTgBhBWCIP6dAqkhToEIBykb6J/w==;NqzVvFuSGX/VL4NwFVgE2Q=="

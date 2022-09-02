@@ -21,31 +21,15 @@ topics:
   - AI
 
 related:
-  - title: "Robot Software Market Size, Business Strategy and Regional Analysis by 2027 | IMARC Group"
-    excerpt: "Looking forward, IMARC Group expects the market to reach a value of US$ 40.1 Billion by 2027 exhibiting a CAGR of 21.50% during 2022-2027.The latest report published by IMARC Group, titled “Robot Soft"
-    publishedDateTime: 2022-08-30T00:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/08/ab28678753/robot-software-market-size-business-strategy-and-regional-analysis-by-2027-imarc-group"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28678753"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28678753"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 50
-    images:
-      - url: "https://www.abnewswire.com/uploads/1661793945.jpeg"
-        width: 474
-        height: 279
-        isCached: true
-  - title: "Face Recognition Systems Market 2022 – Future Developments, Key Vendors, Regional Analysis, and Industry Scope by 2028"
-    excerpt: "Moreover, the inflation rate, industrial performance, GDP, per capita income, and other factors all play a role in addressing these regions & global Face Recognition Systems market. The study covers a complete analysis of the different industrial growth strategies that assist in determining the predominant segments and knowing about various factors."
-    publishedDateTime: 2022-08-30T06:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-2022-future-developments-key-vendors-regional-analysis-and-industry-scope-by-2028-2022-08-30"
+  - title: "Artificial Intelligence Chip Market is Slated to Witness Tremendous Revenue Growth of US$ 83,252.7 million by 2027- The Insight Partners"
+    excerpt: "Latest market study on “Artificial Intelligence Chip Market to 2027 – Global Analysis and Forecasts by Segment (Data"
+    publishedDateTime: 2022-08-29T05:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-is-slated-to-witness-tremendous-revenue-growth-of-us-832527-million-by-2027--the-insight-partners-2022-08-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

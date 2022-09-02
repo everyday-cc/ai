@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Breakthrough in detecting Parkinson’s using AI and breathing patterns"
-    excerpt: "An MIT Jameel Clinic-developed device with the appearance of a Wi-Fi router uses a neural network to discern the presence and severity of one of the fastest-growing neurological diseases in the world"
-    publishedDateTime: 2022-08-28T11:30:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/breakthrough-in-detecting-parkinsons-using-ai-and-breathing-patterns-ueqok5qc"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
-    images:
-      - url: "https://static.zawya.com/version/c:M2ZhMjgwNjEtZjYxMi00:NzBhNTEz/edroom-jpg.jpg?f=3%3A2"
-        width: 889
-        height: 593
-        isCached: true
   - title: "AI can now detect Parkinson’s disease as we sleep"
     excerpt: "Artificial intelligence analyses the respiratory patterns ... either from radio signals that bounce off their body or from a breathing belt they wear while sleeping. A neural network, ie, a series of algorithms, is able to deduce whether or not the person ..."
     publishedDateTime: 2022-08-31T03:35:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2022-09-01T14:01:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-share-size-growth-future-trends-key-players-and-industry-analysis-2022-2028-2022-09-01"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-share-size-growth-future-trends-key-players-and-industry-analysis-2022-2028-2022-09-01"
 type: article
-quality: 63
+quality: 65
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

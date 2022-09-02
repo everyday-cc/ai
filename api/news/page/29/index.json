@@ -2,92 +2,6 @@
   "page": 29,
   "value": [
     {
-      "path": "_news/2022-08-08-baidu-bags-chinas-first-fully-driverless-robotaxi-licenses.md",
-      "title": "Baidu bags China's first fully driverless robotaxi licenses",
-      "excerpt": "Baidu said they marked a \"turning point\" in ... with milestone-setting autonomous driving policies. In January, self-driving company Cruise received a permit from the California Public Utilities ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses/article65744609.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses/article65744609.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th-i.thgim.com/public/incoming/dcm2x3/article65744612.ece/alternates/LANDSCAPE_615/2022-08-01T010022Z_1809726800_RC2HLV92ACD2_RTRMADP_3_CHINA-USA-TECH-ROBOTAXI.JPG",
-          "width": 615,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses/article65744609.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses/article65744609.ece/amp/",
-      "publishedDateTime": "2022-08-08T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-veritone-creates-ai-driven-revenue-opportunities-on-aws.md",
-      "title": "Veritone creates AI-driven revenue opportunities on AWS",
-      "excerpt": "Veritone, the creator of aiWARE, a hyper-expansive enterprise Artificial Intelligence (AI) platform, has announced an extension of its work with Amazon and Amazon Web Services (AWS) to support its media and entertainment customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.intelligentcio.com/north-america/2022/08/08/veritone-creates-ai-driven-revenue-opportunities-on-aws/",
-      "originalUrl": "https://www.intelligentcio.com/north-america/2022/08/08/veritone-creates-ai-driven-revenue-opportunities-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.intelligentcio.com/north-america/wp-content/uploads/sites/45/2022/08/AdobeStock_452528209_Editorial_Use_Only-w.jpg",
-          "width": 1000,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-08T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "intelligentcio.com",
-        "domain": "intelligentcio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-08-prospera-financial-services-inc-takes-68000-position-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.md",
       "title": "Prospera Financial Services Inc Takes $68,000 Position in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT)",
       "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF has a 1 year low of $35.92 and a 1 year high of $58.00. The firm’s fifty day simple moving average is $39.17 and its 200 day simple ...",
@@ -1130,6 +1044,93 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-07-tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-complaint-alleges.md",
+      "title": "Tesla made misleading claims about autopilot and self driving, California DMV complaint alleges",
+      "excerpt": "The complaint alleges that the company made \"untrue or misleading\" statements in advertisements on its website by claiming that Tesla vehicles were, or could be, equipped with advanced driver assistance system features.",
+      "sourceUrl": null,
+      "webUrl": "https://abc7.com/tesla-california-dmv-complaint-self-driving-autopilot-cars/12105978/",
+      "originalUrl": "https://abc7.com/tesla-california-dmv-complaint-self-driving-autopilot-cars/12105978/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/12105989_080622-kabc-6pm-CA-DMV-tesla-vid.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc7.com/amp/tesla-california-dmv-complaint-self-driving-autopilot-cars/12105978/",
+      "cdnAmpWebUrl": "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/tesla-california-dmv-complaint-self-driving-autopilot-cars/12105978/",
+      "publishedDateTime": "2022-08-06T20:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC7",
+        "domain": "abc7.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-07-artificial-intelligence-chip-market-is-expected-to-reach-us-832527-million-by-2027-with-350-cagr-prominent-key-players-with-region-and.md",
+      "title": "Artificial Intelligence Chip Market Is Expected To Reach US$ 83,252.7 Million By 2027 With 35.0% CAGR | Prominent Key players with Region and Forecast",
+      "excerpt": "According to our latest market study, titled” Artificial Intelligence Chip Market” and its applications such as machine learning and deep learning have been growing tremendously over the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-chip-market-is-expected-to-reach-us-83252-7-million-by-2027-with-35-0-cagr-prominent-key-players-with-region-and-forecast",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-chip-market-is-expected-to-reach-us-83252-7-million-by-2027-with-35-0-cagr-prominent-key-players-with-region-and-forecast",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/f86be8715ba54a39f5be728e02ae3bd8cf31255b-e1660978014168-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-06T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

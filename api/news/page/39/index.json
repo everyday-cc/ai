@@ -2,93 +2,6 @@
   "page": 39,
   "value": [
     {
-      "path": "_news/2022-07-31-persistent-loss-of-smell-due-to-covid-19-closely-connected-to-long-lasting-cognitive-problems.md",
-      "title": "PERSISTENT LOSS OF SMELL DUE TO COVID-19 CLOSELY CONNECTED TO LONG-LASTING COGNITIVE PROBLEMS",
-      "excerpt": "\"As this virus will likely be with us for a long time, identifying the risk and protective factors for cognitive symptoms can assist with the treatment and prevention of 'long COVID' moving forward.\"",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1268576&cat=PR News Wire",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1268576&cat=PR News Wire",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-31-what-will-it-cost-to-fix-that-door-ding-artificial-intelligence-can-help.md",
-      "title": "What Will It Cost To Fix That Door Ding? Artificial Intelligence Can Help",
-      "excerpt": "Artificial Intelligence is potentially a game-changer for anyone with a smartphone who needs a detailed auto damage report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jimhenry/2022/07/30/what-will-it-cost-to-fix-that-door-ding-artificial-intelligence-can-help/",
-      "originalUrl": "https://www.forbes.com/sites/jimhenry/2022/07/30/what-will-it-cost-to-fix-that-door-ding-artificial-intelligence-can-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62e5648e4207a7d5d8b0c77e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jimhenry/2022/07/30/what-will-it-cost-to-fix-that-door-ding-artificial-intelligence-can-help/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimhenry/2022/07/30/what-will-it-cost-to-fix-that-door-ding-artificial-intelligence-can-help/amp/",
-      "publishedDateTime": "2022-07-30T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-07-30-mythic-how-an-analog-processor-could-revolutionize-edge-ai.md",
       "title": "Mythic: How An Analog Processor Could Revolutionize Edge AI",
       "excerpt": "Mythic: How an Analog Processor Could Revolutionize Edge AI Alberto Romero, LLM Analyst Karl Freund, Founder and Principal Analyst Cambrian-AI Research.",
@@ -1158,6 +1071,101 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-see-scientists-transform-dead-spiders-into-creepy-reanimated-robots.md",
+      "title": "See scientists transform dead spiders into creepy reanimated robots",
+      "excerpt": "If you thought that science couldn’t go too far, you may change your mind soon. A group of researchers ... back to life using puffs of air to control its legs. The researchers shared a video ...",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/science/see-scientists-transform-dead-spiders-into-creepy-robots/",
+      "originalUrl": "https://bgr.com/science/see-scientists-transform-dead-spiders-into-creepy-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2022/03/AdobeStock_235257673.jpeg?quality=82&strip=all&w=720&h=405&crop=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bgr.com/science/see-scientists-transform-dead-spiders-into-creepy-robots/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/science/see-scientists-transform-dead-spiders-into-creepy-robots/amp/",
+      "publishedDateTime": "2022-07-29T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-why-googles-deepmind-ai-prediction-of-200-million-protein-structures-matters.md",
+      "title": "Why Google's DeepMind AI Prediction of 200 Million Protein Structures Matters",
+      "excerpt": "At last, the decades-old protein folding problem may finally be put to rest. It wasn't until 1957 when scientists earned special access to the molecular third dimension. After 22 years of grueling experimentation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/science/biology/why-googles-deepmind-ai-prediction-of-200-million-protein-structures-matters/",
+      "originalUrl": "https://www.cnet.com/science/biology/why-googles-deepmind-ai-prediction-of-200-million-protein-structures-matters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/07fd24f6e895baa36441c82a2b640657f3f2cbd8/2022/07/28/8f1688f9-ef38-476c-b270-5967d88de874/gettyimages-154963443.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/why-googles-deepmind-ai-prediction-of-200-million-protein-structures-matters/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/why-googles-deepmind-ai-prediction-of-200-million-protein-structures-matters/",
+      "publishedDateTime": "2022-07-29T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
       ]
     }
   ],

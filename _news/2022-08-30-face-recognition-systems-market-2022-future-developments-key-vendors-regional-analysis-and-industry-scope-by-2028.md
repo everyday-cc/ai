@@ -45,17 +45,6 @@ related:
         width: 474
         height: 279
         isCached: true
-  - title: "Edge Computing Market Size Worth $132.11 Billion by 2028 at 21.6% CAGR | The Insight Partners"
-    excerpt: "The Insight Partners published latest research study on \"Edge Computing Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Component (Hardware, Software, and"
-    publishedDateTime: 2022-08-29T10:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/08/n28664397/edge-computing-market-size-worth-132-11-billion-by-2028-at-21-6-cagr-the-insight-partners"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28664397"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28664397"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 13
 
 secured: "QWTJxvrZaX0MRsT2o3202WddEyYlyOMtnndX6mWkGp/S/UFmFQ0SipI0NAWrbqE5zFEjoXmsP6LyzSwCT9PXP0MBA6qV9Ig/iGdu5Mrz3nBzhkS8/wV1HwLQIADvwQfBIlXrfwHFWzIAslxaAdkoc/l9PkSvnT4l21cPbXMSmWIb2/JgEsqNpKVX4Y1HTkH4OOsQel45SUG3eR+KYhCka+LYufiNUBCApr2zcx0hFQNzciJqbgSatOMVRVobryBjm55obkY5CIcE0g+YyUBOUQytH8GqHk8z0tCX3hPv5XMAu0PYOd3hhT8DaMMYk38BpYmDJ8QrzJAukYUwtvyT2dlO3vlEnI4rpj3jDFP8qAY=;KuWvKPspcNE7QZc01ElZEQ=="
 ---

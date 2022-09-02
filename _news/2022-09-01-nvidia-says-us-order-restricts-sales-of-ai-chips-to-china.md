@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/nvidia-says-us-order-restricts-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-says-us-order-restricts-sales-of-ai-chips-to-china/"
 type: article
 quality: 121
-heat: 391
+heat: 401
 published: true
 
 provider:
@@ -391,6 +391,15 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 19
+  - title: "US bans export of artificial intelligence-related chips to China fearing misuse"
+    excerpt: "Nvidia shares tank after it estimated a loss of $400 million as it is prevented from exporting two types of chips that can be used for military use; AMD also affected US bans export of artificial inte"
+    publishedDateTime: 2022-09-02T05:12:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/us-bans-export-of-artificial-intelligence-related-chips-to-china-fearing-misuse"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 13
 
 secured: "waCK3v8tH2ayE5NdZd2TCAIm1WUW4vWxYH8msjPnWN9j5rx1FwQZbGD+r5RVxcGI2omivyAKi/fdzQA8+jABsx9sTL7AS7yfU4Ycw5z5qT9Lgobtw8Ou9pzGyG1BSivCdR3Af+LTvAJsdkWyiP7xjyXxOcsti3n6KV4vJqc072ZAh55PkM3PjVMbqyMwUcPpbQdVZHFQPdRblcsUqalSRNX2ePkj8Hn9NjYvo/wCsISmkavGmeuhlOva6pmCZDukX8Epzb01GIUPtKAMEsLnNOW/+FsSnsEjq7I7trpJ1fyiTEfY+2HiNljZwvqSyvs9QTHiasHGzf7MGYAI2gHRPqWrXrRYg4oOqUCOBh8Gwtd16F4xXWvzGdcctd72wW0s/a2EvHrehSSU2ih42U5mmetiNmavUuVctUvVTLgJsZW1R0dqMR5CcF3mA48Y5unz0mCqNR0yJkfNXWKyMD4c3bqn4i71nuXTowSB0iIIS3eZh9GBq2gUGjYrlfQgT6eKJic1uUu+fGLfjCN79/tA4g==;LbihZonLl6KvGhvtK+KT+A=="
 ---

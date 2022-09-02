@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Navigate the quest for artificial intelligence"
+    excerpt: "Navigate the quest for artificial intelligence. MIT Technology Review is the go-to source for insightful and thought-provoking stories about technology and its implications in our"
+    publishedDateTime: 2022-09-02T05:56:00Z
+    webUrl: "https://www.technologyreview.com/supertopic/artificial-intelligence-featured-stories/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 37
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/05/Imagen-comp.jpeg?resize=1200,600"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "5QPq5z4VnVFgHHQc1NIx7jjXEwSGWh8teUxfLwQJV93duiQ9WOofQkJAcuspH4h7+F1bxSTqJHlE6vtDQjFMRrz1ayu9UYItNmbkEQykH4RHjlVOKpq2WGqFKg9IP79m3hqVzU5BMeZrOb3jIz+01BY8ilvpyQwLMBYrZhaaxg0lJJe6qFQGO2pnG5pUdMxFr5emdZTuxtjewz9PpSuwK0+tE5vvbRW1hKiSMx4xhm7g9G2GD+B7t1hLnx4Ofi7ysUXrdmDjPuj/6w0UCEs0WTmoAWXkHsRXcImeFpdi+kHbK7dXmOdSIgm2vvD05Yl2d/t/KTXJmJkSoTUN/NurxNNkWRvvX60HnYOrNoYl1WHFJoG3hJYNWlEjZHBZEHF3RX2VsPgVKTybMhIR19+Zw7sgvY+N/2oBO6dqJdYwR3sGWLdCuHBzLN8SLnGIb0uFDZByKBre96Br/yKfmpdInHXWOWPb0qPOB0ytU5ZNKWbWRTR4UXD4/aAFK3dqdl1xB4lgOpsGfN6IsxCN3J75Sw==;58mRjB++QME2m573vNiO/A=="
 ---

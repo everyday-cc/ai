@@ -2,109 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2022-08-24-the-ai-startup-erasing-call-center-worker-accents-is-it-fighting-bias-or-perpetuating-it.md",
-      "title": "The AI startup erasing call center worker accents: is it fighting bias – or perpetuating it?",
-      "excerpt": "A Silicon Valley startup offers voice-altering tech to call center workers around the world: ‘Yes, this is wrong … but a lot of things exist in the world’",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american?source=Snapzu",
-      "originalUrl": "https://www.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american?source=Snapzu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/b78a80dcbe5e356a1d5b5cdcb8bec72fd38da9e8/453_682_6496_3898/master/6496.jpg?width=620&quality=85&auto=format&fit=max&s=506613242ac1f196cf1c3c70b0c77f6a",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american",
-      "publishedDateTime": "2022-08-24T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-capitol-records-pulls-plug-on-racist-ai-rapper-after-barely-a-week.md",
-      "title": "Capitol Records Pulls Plug On Racist ‘AI Rapper’ After Barely A Week",
-      "excerpt": "The record label pulled the controversial artist it \"signed\" after an activist group called it \"an amalgamation of gross stereotypes.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/ai-rapper-capitol-records-ends_n_6305a3e9e4b0e323a25a07d7?d_id=4814382&ncid_tag=tweetlnkushpmg00000050",
-      "originalUrl": "https://www.huffpost.com/entry/ai-rapper-capitol-records-ends_n_6305a3e9e4b0e323a25a07d7?d_id=4814382&ncid_tag=tweetlnkushpmg00000050",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/6305a8232500001f00245b2f.png?cache=JGZtNfCIZ7&ops=1200_630",
-          "width": 1198,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.huffpost.com/entry/ai-rapper-capitol-records-ends_n_6305a3e9e4b0e323a25a07d7/amp",
-      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/ai-rapper-capitol-records-ends_n_6305a3e9e4b0e323a25a07d7/amp",
-      "publishedDateTime": "2022-08-24T05:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-24-ai-ethics-lucidly-questioning-this-whole-hallucinating-ai-popularized-trend-that-has-got-to-stop.md",
       "title": "AI Ethics Lucidly Questioning This Whole Hallucinating AI Popularized Trend That Has Got To Stop",
       "excerpt": "There is an increasing trend of referring to AI as being able to hallucinate, which AI Ethics frets about as an improper recasting of the human notion of hallucinations. Details are given and the tradeoffs of this emerging catchphrase are closely examined.",
@@ -1178,6 +1075,102 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-ai-powered-service-vidby-translates-zelenskyys-speeches-into-50-languages-denys-krasnikov.md",
+      "title": "AI-powered service Vidby translates Zelenskyy’s speeches into 50 languages – Denys Krasnikov",
+      "excerpt": "Now, thanks to Vidby, this information is made available in your first language. If you think that an AI-powered translation tool is not something you can afford, you are in for a surprise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/ai-powered-service-vidby-translates-zelenskyys-speeches-into-50-languages-denys-krasnikov",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-powered-service-vidby-translates-zelenskyys-speeches-into-50-languages-denys-krasnikov",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1661205013.jpeg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T11:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-the-benefits-of-artificial-intelligence.md",
+      "title": "The Benefits of Artificial Intelligence",
+      "excerpt": "Artificial intelligence benefits are realized across many sectors, from robotic process automation to self-driving cars to AI-powered data analytics platforms. Across the world of enterprise and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/enterprise-apps/benefits-of-artificial-intelligence/",
+      "originalUrl": "https://www.eweek.com/enterprise-apps/benefits-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-Database-05-1088x725-1.jpg",
+          "width": 1088,
+          "height": 725,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T11:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
       ]
     }
   ],

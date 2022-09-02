@@ -385,6 +385,15 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 26
+  - title: "US bans export of artificial intelligence-related chips to China fearing misuse"
+    excerpt: "Nvidia shares tank after it estimated a loss of $400 million as it is prevented from exporting two types of chips that can be used for military use; AMD also affected US bans export of artificial inte"
+    publishedDateTime: 2022-09-02T05:12:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/us-bans-export-of-artificial-intelligence-related-chips-to-china-fearing-misuse"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 13
 
 secured: "5SPW2xZc4SeoWyT77cBEGOJx6b6bGAZ0xn1bzsPQtpfWSw/7Td3s4dS3XRPfM4NswTkc3MZy9gv+CZroeFhbN3y6GQPL/59HqBOTZy3bvVHr6a9unq0B7tjx/L+VDgXzHREaQGcPobioF7MVGWLxia/Ug+GfxNcHgiJuao69yjXO+s0ybneFPun2Dh1dn41BerBYpzExQKE8u0pJTOwCJgkAdmZl9kYSaBBU9mIgcN119ldMhDvumrSovHiHysw+kP37YRaiOz3ph1J7Jda7MFU1nfUcKbuD8Z4xl7glWi0iaTEI0VKGtgVajOxH+jsjXX/mXKI+Rr5B059s3fi+fH4zVJOoc0K2MrmsKFNhiWY=;gBoAejWbFVOg5uZjhiZumw=="
 ---
