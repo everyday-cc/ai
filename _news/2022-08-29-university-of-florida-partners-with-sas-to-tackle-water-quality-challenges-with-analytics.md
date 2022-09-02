@@ -1,34 +1,20 @@
 ---
 category: news
 title: "University of Florida partners with SAS to tackle water quality challenges with analytics"
-excerpt: "The project will evaluate the connections between water quality and key economic sectors in the region. As part of the yearlong project, SAS and CCS will use SAS® Viya® on Microsoft Azure to develop a web-based water analytics platform to integrate a diversity of data streams to facilitate scientific research,"
-publishedDateTime: 2022-08-29T14:49:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/science-technology-water-quality-artificial-intelligence-university-of-florida-3b539368a328bb6eda66e6a3fe625976"
-webUrl: "https://apnews.com/press-release/pr-newswire/science-technology-water-quality-artificial-intelligence-university-of-florida-3b539368a328bb6eda66e6a3fe625976"
+excerpt: "The project will evaluate the connections between water quality and key economic sectors in the region. As part of the yearlong project, SAS and CCS will use SAS ® Viya ® on Microsoft Azure to develop a web-based water analytics platform to integrate a diversity of data streams to facilitate scientific research,"
+publishedDateTime: 2022-08-29T16:15:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-university-florida-partners-with-sas-tackle-water-quality-/2022/08/29/9663581.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-university-florida-partners-with-sas-tackle-water-quality-/2022/08/29/9663581.htm"
 type: article
-quality: 0
-heat: -1
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
-related:
-  - title: "UF Partners with SAS to Tackle Water Quality Challenges with Analytics"
-    excerpt: "The project will evaluate the connections between water quality and key economic sectors in the region. As part of the yearlong project, SAS and CCS will use SAS Viya on Microsoft Azure to develop a web-based water analytics platform to integrate a diversity of data streams to facilitate scientific research,"
-    publishedDateTime: 2022-08-30T14:18:00Z
-    webUrl: "https://www.datanami.com/this-just-in/uf-partners-with-sas-to-tackle-water-quality-challenges-with-analytics/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 4
-
-secured: "dU7sPf2KmvbIN+820wTYgvv2pdMQGbNWnSBB/T0V0O6XVK9CLIOQPSf+VJ+Vo749O4uJt+nKHPK9j16SCp8OwBxCA5z0SHsXeZcpkM/hfSW+a+z88GIH/lkPCzmPLhFSSTjgLK949EdODP38Qtv2ZS43r1F93THU12fS3H4oWrnf6sdEfmaP/uMiy67zemknQGjzNXccO6ylQj1RcIpMAASQeoW4YyLUulzkEP3aj0irQ5/dwDI1Yj1rBdG8TQ5kD6PpcqalOMcizdVal8H/D/dqcUtTiN+cjMvVNKR3m8t/+sak3foeHOBf9oE8l32DFtx/NvBilhkcg711AJVoscDj9PD7cvmxK2vTccuu1Es=;4bHWzCTaFKI92JIq5ptkIw=="
+secured: "gfTEVP3xF6KAJlxEbIHl4gJvnfc738Y184u5kzyHqVV7CxlaoWfRk1zuVaj48iWR+8MR4XfoHWlcx0yNd0AoRlup4pl2MJtvZ3Hkk5Qo618oH0oqhyO0gb1DHULBzd1En6TdE5piQd+RTGuDPENu5Imt+ruwc4X498NBVu0gHxjtn7zOuXXh3+RVcQsgG6OKJvSllb9mqYL8RQff30DQ07Grbc6o8f2udFuczFzqO4iEQDJwmzzKmD5kVHkicYuxAJoa5+cJR/5BOdzr0H9Ll1WCX1Kggr5P4JlGSk+kt6yJDVzbpszm+ZbKZ0NwfkwFcoTB/DnuuJoCvZd6/kUCBs1mX6m1232d4UxHfwf8wT7M5ZqISgpiE47mcZH8d+5200njvuaueifXJjYw9rG3jd+fhdtEub67nTjziFJiFDMjq3GUKui7jAuar1OuJx3tZ/ouCHs9HM8W+qLEUIYyqXv/vhv8CZ9P+fMS4K1J/W07QOS67KpYd7wTeFbPVfyNRObNm7O29DMsRqZ+2taMYw==;YlU4k/fv2iZ430u9NMQohQ=="
 ---
 

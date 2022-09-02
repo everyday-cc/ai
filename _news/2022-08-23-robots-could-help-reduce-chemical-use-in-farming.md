@@ -2,19 +2,19 @@
 category: news
 title: "Robots could help reduce chemical use in farming"
 excerpt: "A robotics manufacturer is looking at the possibility of developing machines that will remove weeds and tend farmland without the need for so many chemicals."
-publishedDateTime: 2022-08-23T01:51:00Z
-originalUrl: "https://www.wcpo.com/news/national/robots-could-help-reduce-chemical-use-in-farming"
-webUrl: "https://www.wcpo.com/news/national/robots-could-help-reduce-chemical-use-in-farming"
+publishedDateTime: 2022-08-23T15:15:00Z
+originalUrl: "https://www.kztv10.com/news/national/robots-could-help-reduce-chemical-use-in-farming"
+webUrl: "https://www.kztv10.com/news/national/robots-could-help-reduce-chemical-use-in-farming"
 type: article
 
 provider:
-  name: WCPO Cincinnati
-  domain: wcpo.com
+  name: Action 10 News
+  domain: kztv10.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "eu1E6T5gXEJUirvZY7XeJYqevc6w893eVAzyg14c2Yk+umhH3TP2Kp15dI4i4hrEa4pvcDv0GGtYUOrak7PRLZePmAScSWRkfE3+UpUl64G/czKJhjKfptDF7mUF9Wpwq0ij2j6TWyLYRBkcuzrYufmyeqo/dIAv6IU7je+eugO+iKuSa2duUXDMx98gaDUjcVIey7caMZqZlemCuQXZ2r73JpAxoAubZigrC5ielTxIz0r8vp7vytS0Yz4ebFCkVKbdTWIqFoXkRjW7tADjXih8NfLvMU13MjjymrNDIYu0oQ6svh0XQNLlcBAuRxcFthu30yD3Qy1rIHUuIxWR01p5yyXGjKKsJrdXOaSGCmvjeOMaIhCp1vrmYOGo5Txn4zY7tkq35hHSEZSJrn6FcBUKc6aATebbp7oBVrc0EN4g0URvAvFbysBj5N87EIqbDGHvKnZ7W28ORDgVty8mCJKaALu4KzP+cxxr2DENSc6MY2fdcBu5iLB4ijca3MydLNM8lpZ6zD9e49ynOQRqsg==;crEPpZ6iT1z2aZ89uHwGMA=="
+secured: "PyuHsYRYjRZPDImwKXC6CHC6fvk3DZ5PmJ0QHQbM4WZxmAMoDYYE9YuuwdqFGMbacK1qxn0AslVnHzX5tDAVZggXNRgKznrp6/hVkWqZ6hbFA256Z8eZ3AJ2iDxdH3L60rKSzacwjvbCUxhZv/qREzd2XDVnBRiPyFzyu9z6U6+ZYonlcb0eoHn3hTYu+1ZLJqe9xRxcNNgd5LrGR5xtiK2s5zXn7Ys9C0Pt0q/88g5nMY7RvQPmgWmaWGFKE48MeEg4iKt9ufETqMSY6GhwMMp06IlbRhuUKp52P8GCSzbhVm7MbIKLt+F/oOIhoiZfx1znr9rBIhLzwemhuIJyXhywjF6NwafksV/VqLa2Lcta76NoYp9zDki/2xJ21PZvmH7DsA5veHLV1twyo2r3SaJxeC2vEuBF+kbtUJXujEnf79Rf7LKzgmjXROrT60tm3MhBtANElTXk2yxvtw8jnIgCrb64yezYGJPvptBgukKk/p7rcyJA05KIQlt/wCOyqsnbZiLZjgmVbeh865zXUw==;eSP0UH4F2SA1Unlli7LriA=="
 ---
 

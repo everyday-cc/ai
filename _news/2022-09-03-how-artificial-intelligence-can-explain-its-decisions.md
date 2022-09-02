@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/how-artificial-intelli-1.jpg"
@@ -69,6 +70,6 @@ related:
         height: 675
         isCached: true
 
-secured: "N3lw3GEjzMf0iMTZPn9ZnckFuocIskke4TxZl3x7EV4bX5x4Z9xNDATO/Ky2x+XCASvtUvfw3YwKi+zpt0hAp3HxHr/mph95W29rWmq97glBkZTp3Skd/uRDBxWU09W9DRS9LWWoD7ZB0KXURHNLYZBKVmw4y6g5zRkWE9aVwJItvSZNV0TNOZctJdNG39pfA8Dch1YGYeYRkJ3lfscN1vmhVldPEzxNP+4UOX7Nvlw+mTrYBCgLRkyUF9Z9rAav01qHLjX8v6gmB4Syi4p5gqW/nlVTQmdpj2h07I6QVb13P/drRGjKbCKDl3dOdTSx2fZTVtMr9qk4QgR6ezAie71P8C06ce8gcFMzC3OpQUM=;H2WGO+V4fR/8i33KmW2eTQ=="
+secured: "x2LLYK8oUFDS3tHeSvBt+LqcCg4UjcXjBIphRAc1tO8verMmSRD97+rWvASZDwqZ9RxOjUrBKz5DosRL5QloDy/jhWXYkIwajxi99eN+9HRM8c1vlEnaWWWEp5PE4kieF3uvakHkmyT5z2at6JPiuS8hWS4d2D3FESHeI2GpwzMllPsH7Nnlt79otu6jSyUafF+RQ/AhQ13MnYxBvDKTn2X4z86BM0hSw6kS3rSxMWYKN71F23kqKugiGcaZzl8hqbJicLTaHWJUHkzhSpVKlxIC/ZrM81EktjVjFXA776BIVB/4P8n41scLV99Tqw/8S9MLnPvp4fGKSTavqD+2QHbNn5Ha60gx6UtQnumFm7YNGqNKJbrC4QRvySpudakIj8iXrthtGvtd1b+W7chjmZ9I4fby9EprjkBt7wBct+Pp2fGQKOsnhjJYKCdLVemEocXRlhP+8asL+lGy3tAIc9V2FiMdk8kCcuFjiIX1lGXo+aqfBuNHAXmUlYwpwtHiuVgbMJGlLs4wwS0bs/nB/A==;02tmLYf7MZ/2QwIK9Bav5g=="
 ---
 

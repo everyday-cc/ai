@@ -1,27 +1,20 @@
 ---
 category: news
 title: "VTEX Receives Industry Recognition While Seeing Continued Customer Momentum and Success"
-excerpt: "Named a Visionary in 2022 Gartner® Magic Quadrant™ for Digital Commerce. VTEX Adds and Expands US and Global Customers, Hosts 230+ Successful"
-publishedDateTime: 2022-09-01T13:45:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/vtex-receives-industry-recognition-while-seeing-continued-customer-momentum-and-success-1031719435"
-webUrl: "https://markets.businessinsider.com/news/stocks/vtex-receives-industry-recognition-while-seeing-continued-customer-momentum-and-success-1031719435"
+excerpt: "VTEX Adds and Expands US and Global Customers, Hosts 230+ Successful Live Shopping Events in Q2 NEW YORK, Sept. 1, 2022 /PRNewswire/ -- VTEX (NYSE: VTEX), the global digital commerce platform for premier brands and retailers,"
+publishedDateTime: 2022-09-01T14:17:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-0c87e64801eddf998fff1cf72c4bb53a"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-0c87e64801eddf998fff1cf72c4bb53a"
 type: article
-quality: 26
-heat: 26
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "P1SEDeZeQkO/JEiy8Aplv4N9VLW1yKGxCm5Qwgiv4T0UHEXMRQMZXPudMjXOfPG5LnZ+BkSYyifSL8lHNhUa+23PIDWUuoPFhNJN45vG1vjnb6QsCmfgqqae4d2WQ8P/4swHad5DmkZ1Z+kHrWjkTnSSDlptAc/EDyLWlAK7zCxDFcmYBwtlELEDyBNgOhkEiHrYVxScbZ7hI1FfGzfKoE4fGD/wGPDOAXxuCKohBxgTa50P17vedMAJzVHPrxyeeyQh0F+iTArk3ChleH4dqKOaDsP5IMoXUsXE3hDl82EB7BxNfvDkSrDOrghl3e2+Mzsag6PboBTDtujxB8y8HL4yY8sVl4CQUoZzpalg7ic=;gjb5Jfjy2RiKBCx/K+SBgw=="
+secured: "bgd0FyMOESJbcD7Fm+s4PcZ90JMqe1ZhVsOojcgTzP8WbqzR6NoCkrC2YbAsVIWSc1X6KQT2sPmYCT13OTDaKcc4HnFknYo5+GrhJZH/oF6jHbv/KDJ/cnhXS/6k1D9fgRvMSihAZ2fmQJ+zEDhzKMZ/ZIVQbC3V+ucktfHI9JrFlSVbAbHvQikQjgMO3zllqk/vIk+RI7rXCdbQ2Rk8wl743rRfJ9qnse/B05pibEsb9xnRlwFskhKf0ZuErXj0exgXXxj/JeRXXrvUJ6IPBGlrvVqJPgIDwfI1whhY+uhxsmCxXPzffW8EzMBFA+qPchDDhHOs3CCsOcH2tfZOvr4N/n0EW6VS8OyXL8xoCLE=;HoGXZnwrJHykJjol1E3j/A=="
 ---
 

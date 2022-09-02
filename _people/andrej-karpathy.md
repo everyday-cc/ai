@@ -10,7 +10,7 @@ website: https://t.co/UnoPfBvH9V
 twitter:
   username: karpathy
   url: https://twitter.com/karpathy
-  followers: 519306
+  followers: 519321
 
 linkedin:
   url: https://www.linkedin.com/in/andrej-karpathy-9a650716/
