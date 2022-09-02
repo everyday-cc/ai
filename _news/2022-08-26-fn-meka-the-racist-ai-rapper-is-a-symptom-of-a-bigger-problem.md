@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-08/220825-ROB-Ai-rapper-an-b434e7.jpg"

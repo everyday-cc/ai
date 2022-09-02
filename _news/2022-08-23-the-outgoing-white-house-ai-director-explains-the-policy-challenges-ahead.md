@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2022/08/Lynne-Parker-v1-IMG_8981-1024x683-1500x1000.jpg.webp?w=1280"

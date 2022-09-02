@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-01T11:53:00Z
 originalUrl: "https://www.shine.cn/news/metro/2209019962/"
 webUrl: "https://www.shine.cn/news/metro/2209019962/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Facebook AI
 
 images:
   - url: "https://obj.shine.cn/files/2022/09/01/3c6bd5ac-2e45-432f-adbb-b4834b701d20_0.jpeg"

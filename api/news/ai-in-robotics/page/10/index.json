@@ -2,6 +2,61 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-06-21-using-artificial-intelligence-to-improve-business-decisions.md",
+      "title": "Using Artificial Intelligence To Improve Business Decisions",
+      "excerpt": "Artificial intelligence (AI) is to business what telescopes are to star gazing—an incredible technological boost that magnifies, clarifies and illuminates business decisions. AI-enabled technology drives everything from algorithms that filter spam emails to complex systems that can drive cars without human intervention.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//620a556214ce14ae732b0ac7/0x0.jpg?format=jpg&width=1200",
+          "width": 753,
+          "height": 502,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/amp/",
+      "publishedDateTime": "2022-06-21T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-06-21-incredible-moment-australian-soldiers-control-ghost-robots-with-their-minds-using-new-technology-designed-to-keep-hands-free-for-weapons.md",
       "title": "Incredible moment Australian soldiers control 'ghost robots' with their MINDS using new technology designed to keep hands free for weapons",
       "excerpt": "The technology allows soldiers to control the robots hands-free which is ideal ... visual concentration rather than having to clear your mind and have mindfulness.'",
@@ -1248,40 +1303,6 @@
       "provider": {
         "name": "NHK",
         "domain": "nhk.or.jp",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-stanford-engineers-develop-tiny-robots-to-bring-health-care-closer-to-precisely-targeted-drug-delivery.md",
-      "title": "Stanford engineers develop tiny robots to bring health care closer to precisely targeted drug delivery",
-      "excerpt": "... also provides untethered control for non-invasive operation and separates the control unit from the device to allow for miniaturization. Zhao said their most recent robot, featured this month in Nature Communications, is “the most robust and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/955421",
-      "originalUrl": "https://www.eurekalert.org/news-releases/955421",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null

@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/intel-ai-chief-wei-li-someone-has-to-brin
 ampWebUrl: "https://www.zdnet.com/google-amp/article/intel-ai-chief-wei-li-someone-has-to-bring-todays-ai-supercomputing-to-the-masses/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-ai-chief-wei-li-someone-has-to-bring-todays-ai-supercomputing-to-the-masses/"
 type: article
-quality: 85
-heat: 85
+quality: 87
+heat: 87
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Machine Learning
   - AI
   - AI Hardware
+  - Facebook AI
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/79dd0cf649ed1fe2683dcc04a0f678e42fe4fa96/2022/09/01/76e323ce-37d1-4bda-997f-c1a80a552302/wei-li-headshot.jpg?width=1200&fit=bounds&auto=webp"

@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2021/10/i-was-there-when-header101221.jpg?w=3000"

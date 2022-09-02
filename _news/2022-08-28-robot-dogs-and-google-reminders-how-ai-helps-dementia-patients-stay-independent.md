@@ -24,19 +24,6 @@ images:
     height: 628
     isCached: true
 
-related:
-  - title: "Robot dogs and Google reminders: How AI helps people with dementia stay independent"
-    excerpt: "Bobby Redman, who lives with dementia, uses movement sensors, a virtual assistant and recorded messages on her smartphone to stay living independently."
-    publishedDateTime: 2022-08-28T14:25:00Z
-    webUrl: "https://www.smh.com.au/lifestyle/health-and-wellness/robot-dogs-and-google-reminders-how-ai-helps-dementia-patients-stay-independent-20220828-p5bdar.html"
-    ampWebUrl: "https://amp.smh.com.au/lifestyle/health-and-wellness/robot-dogs-and-google-reminders-how-ai-helps-dementia-patients-stay-independent-20220828-p5bdar.html"
-    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/lifestyle/health-and-wellness/robot-dogs-and-google-reminders-how-ai-helps-dementia-patients-stay-independent-20220828-p5bdar.html"
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 48
-
 secured: "rzOwlW8LINZxYSpa0cifFfG479RoPG0290Rg3h9qVp/2Ehsolh4ewUR/mI7vkBBa4fIiopMlVnarPUh6VVtmwfdaZCdKgYdUmFJ8QOzqgxvECm3+Pig+AFnKYpxznYHqd4dtTrLjXS3VrQCt4PsoONwMuJaS161uqpciik6A6IH9D6RwFLkpfPlhtlgcL4LOEYPKS5TfCVXcMX2j7UwnZG3zcKZpilaEQL0q5xgT54tKUDdiWmUm8+3wuYK8v1wYFAVAwBI2IMR85XJorNyNqntRDhR8Qs8weNCDayaEHetQnek8505Tq5tM8zpDOVC1NknhfOZU/TRuGZPKMpQAUiJoUmvMD5M1v8JoqBzKD4IM/NcnGwadhq0sZeuawROGvqmY4Jap+5eme4OHxzOr7VIuezvdFoYqkYobRlcD8Bfro8dET8rxpUTOFkIo6uFBj83rXNFCv/PUa2CZ1630IjZDnwkVqfY4JWB2qf0UrxJVMaAZ6paTrykE1EZ8gp+YqR0fsda8px1+qKjpC+wUtQ==;bA+bDz1jt0NO8pRJAqPXCQ=="
 ---
 

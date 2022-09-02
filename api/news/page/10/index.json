@@ -2,6 +2,100 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-08-23-robotics-artificial-intelligence-competition-to-spur-production-underway.md",
+      "title": "Robotics, Artificial Intelligence : Competition to Spur Production Underway",
+      "excerpt": "Some 60 students, start-upers, researchers from across the country that were preselected have begun competing for prizes.",
+      "sourceUrl": null,
+      "webUrl": "https://cameroon-tribune.cm/article.html/50569/en.html/robotics-artificial-intelligence-competition-spur-production",
+      "originalUrl": "https://cameroon-tribune.cm/article.html/50569/en.html/robotics-artificial-intelligence-competition-spur-production",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cameroon-tribune.cm//administrateur/photo/normal_7b6e847.jpg",
+          "width": 960,
+          "height": 460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cameroon",
+        "domain": "cameroon-tribune.cm",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-raising-startup-funding-used-to-be-easynot-anymore.md",
+      "title": "Raising Startup Funding Used to Be Easy—Not Anymore",
+      "excerpt": "In recent years investors greeted founders with generous checks and warm smiles, but now CEOs seeking cash encounter cold shoulders.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/raising-startup-funding-used-to-be-easy-not-anymore/",
+      "originalUrl": "https://www.wired.com/story/raising-startup-funding-used-to-be-easy-not-anymore/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63041d38b07577beee1be839/master/pass/Raising-Startup-Funding-Used-To-Be-Easy-Business-111035742.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/raising-startup-funding-used-to-be-easy-not-anymore/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/raising-startup-funding-used-to-be-easy-not-anymore/amp",
+      "publishedDateTime": "2022-08-23T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-23-ai-and-ml-reliability-and-security-blenderbot-and-other-cases.md",
       "title": "AI and ML reliability and security: BlenderBot and other cases",
       "excerpt": "Blenderbot is a conversational bot, and its statements about people, companies or politics appear to be unexpected and sometimes radical",
@@ -1087,100 +1181,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-honeywell-shrinks-the-industrial-skills-gap-with-ai.md",
-      "title": "Honeywell Shrinks The Industrial Skills Gap With AI",
-      "excerpt": "Massive labor shortages will require companies to rethink how technology can help their clients thrive in such an untenable position.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/maribellopez/2022/08/22/honeywell-shrinks-the-industrial-skills-gap-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/maribellopez/2022/08/22/honeywell-shrinks-the-industrial-skills-gap-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63027314dced4a5c05f3e7ef/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/maribellopez/2022/08/22/honeywell-shrinks-the-industrial-skills-gap-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2022/08/22/honeywell-shrinks-the-industrial-skills-gap-with-ai/amp/",
-      "publishedDateTime": "2022-08-22T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-5-best-artificial-intelligence-stocks-to-buy-now.md",
-      "title": "5 Best Artificial Intelligence Stocks To Buy Now",
-      "excerpt": "The company’s Meta AI is working towards developing artificial intelligence in the digital ... self-driving cars through its subsidiary, Waymo. In addition, the company’s subsidiary DeepMind ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-now-1058867/?singlepage=1",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-now-1058867/?singlepage=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/09/29221800/istockphoto-1274437411-170667a.jpg",
-          "width": 584,
-          "height": 296,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-22T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

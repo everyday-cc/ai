@@ -35,22 +35,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Conference on healthcare data analytics"
-    excerpt: "A two-day conference on healthcare data analytics was organised by The Sankara Nethralaya Academy in hybrid mode. The conference was inaugurated by Girish Shiva Rao, president of Medical Research Foundation,"
-    publishedDateTime: 2022-08-28T14:49:00Z
-    webUrl: "https://www.thehindu.com/news/national/tamil-nadu/conference-on-healthcare-data-analytics/article65822543.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/tamil-nadu/conference-on-healthcare-data-analytics/article65822543.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/tamil-nadu/conference-on-healthcare-data-analytics/article65822543.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://www.thehindu.com/theme/images/amp-og-image.jpg"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "Teradata Announces ClearScape Analytics: The Most Powerful, Open, and Connected Cloud Analytics Available in the Industry"
     excerpt: "ClearScape Analytics – which encompasses the same high-performing analytics that Teradata is known for but with 50+ new analytic functions – is available as part of Teradata VantageCloud and the new Teradata VantageCloud Lake,"
     publishedDateTime: 2022-08-29T10:55:00Z

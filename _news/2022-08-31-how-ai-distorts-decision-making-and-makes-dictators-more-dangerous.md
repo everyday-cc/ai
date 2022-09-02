@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-31T04:21:00Z
 originalUrl: "https://www.foreignaffairs.com/world/spirals-delusion-artificial-intelligence-decision-making"
 webUrl: "https://www.foreignaffairs.com/world/spirals-delusion-artificial-intelligence-decision-making"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2022/08/23/AI_art_1.jpg?itok=Jrwk7Ka_"

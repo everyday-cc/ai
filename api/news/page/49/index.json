@@ -2,6 +2,83 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2022-07-23-dynamic-mental-illness-indicators-caught-by-advanced-ai-in-brain-imaging.md",
+      "title": "Dynamic mental illness indicators caught by advanced AI in brain imaging",
+      "excerpt": "New research by Georgia State University's TReNDS Center may lead to early diagnosis of devastating conditions such as Alzheimer's disease, schizophrenia and autism—in time to help prevent and more easily treat these disorders.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-07-dynamic-mental-illness-indicators-caught.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-07-dynamic-mental-illness-indicators-caught.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/4-brain.jpg",
+          "width": 1920,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-07-dynamic-mental-illness-indicators-caught.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-dynamic-mental-illness-indicators-caught.amp",
+      "publishedDateTime": "2022-07-22T12:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-22-omaha-selected-as-host-site-for-notified-artificial-intelligence-bootcamp-applications-now-open.md",
+      "title": "Omaha Selected as Host Site for Notified Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!",
+      "excerpt": "Notified is one of 20+ host companies selected to host 30 camps across the U.S. in the Fall of 2022. The Notified Bootcamp will be held over four consecutive Saturdays starting on October 22nd and ending on November 12th.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-omaha-selected-as-host-site-notified-artificial-intelligence-/2022/07/22/9643775.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-omaha-selected-as-host-site-notified-artificial-intelligence-/2022/07/22/9643775.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-22T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-22-tech-giants-new-robotaxi-with-removable-steering-wheel-not-legal-yet-in-china.md",
       "title": "Tech giant's new robotaxi with removable steering wheel not legal yet in China",
       "excerpt": "Chinese tech giant Baidu revealed its plan to roll out Apollo RT6, an autonomous self-driving car with a detachable steering wheel, even though Chinese authorities haven't approved the concept yet.",
@@ -1009,92 +1086,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-ibm-watson-gets-a-factory-job.md",
-      "title": "IBM Watson Gets a Factory Job",
-      "excerpt": "The goal is to combine ABB’s domain knowledge and digital solutions with IBM’s artificial intelligence and machine-learning capabilities. The first two joint industry solutions powered by ABB Ability and Watson were designed to bring real-time ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/ibm-watson-gets-factory-job",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/ibm-watson-gets-factory-job",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/IBM_Watson_2.PNG",
-          "width": 800,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-uw-medicine-researchers-train-artificial-intelligence-to-build-vaccines-medications.md",
-      "title": "UW Medicine researchers 'train' artificial intelligence to build vaccines, medications",
-      "excerpt": "Researchers with UW Medicine and Harvard have developed AI software to build proteins used in health science. These can be used to make vaccines, cancer treatments or even pull carbon pollution out of the air,",
-      "sourceUrl": null,
-      "webUrl": "https://www.q13fox.com/news/uw-medicine-researchers-train-artificial-intelligence-to-build-proteins",
-      "originalUrl": "https://www.q13fox.com/news/uw-medicine-researchers-train-artificial-intelligence-to-build-proteins",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.foxtv.com/static.q13fox.com/www.q13fox.com/content/uploads/2022/07/932/470/dall-e-2.png?ve=1&tl=1",
-          "width": 932,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.q13fox.com/news/uw-medicine-researchers-train-artificial-intelligence-to-build-proteins.amp",
-      "cdnAmpWebUrl": "https://www-q13fox-com.cdn.ampproject.org/c/s/www.q13fox.com/news/uw-medicine-researchers-train-artificial-intelligence-to-build-proteins.amp",
-      "publishedDateTime": "2022-07-21T16:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Q13 FOX News",
-        "domain": "q13fox.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

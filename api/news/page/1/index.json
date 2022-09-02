@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-02-a-chinese-ai-powered-robot-aims-to-tackle-complex-surgeries.md",
+      "title": "A Chinese AI-Powered Robot Aims to Tackle Complex Surgeries",
+      "excerpt": "The four-arm laparoscopic surgical robot clinched the topmost award at the 2022 World Artificial Intelligence Conference.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sixthtone.com/news/1011147/a-chinese-ai-powered-robot-aims-to-tackle-complex-surgeries?source=channel_home",
+      "originalUrl": "https://www.sixthtone.com/news/1011147/a-chinese-ai-powered-robot-aims-to-tackle-complex-surgeries?source=channel_home",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image5.sixthtone.com/image/5/57/771.jpg",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-01T20:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sixth Tone",
+        "domain": "sixthtone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-02-teachers-union-say-to-new-face-recognition-app-education-minister-satyanarayan.md",
       "title": "Teachers’ union say to new face recognition app: Education Minister Satyanarayan",
       "excerpt": "The minister expressed confidence that technical glitches will not be a hindrance and they will be sorted out in the due course.",
@@ -963,7 +1006,7 @@
       "originalUrl": "https://www.zdnet.com/article/intel-ai-chief-wei-li-someone-has-to-bring-todays-ai-supercomputing-to-the-masses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1004,7 +1047,8 @@
       "topics": [
         "Machine Learning",
         "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "Facebook AI"
       ]
     },
     {
@@ -1204,57 +1248,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-man-boasts-about-winning-art-competition-using-ai-created-image.md",
-      "title": "Man Boasts About Winning Art Competition Using AI-Created Image",
-      "excerpt": "Jason Allen's winning entry for the Colorado State Fair fine arts competition relied on an AI-powered program called Midjourney, which can generate images from a line of text.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/man-boasts-about-winning-art-competition-using-ai-created-image",
-      "originalUrl": "https://www.pcmag.com/news/man-boasts-about-winning-art-competition-using-ai-created-image",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/07LHXzoytNISjOYTSehqJ5N-1.fit_lim.size_1200x630.v1661964398.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-31T11:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - Facebook AI
 
 images:
   - url: "https://image.cnbcfm.com/api/v1/image/106712070-16007759162020-09-22t013536z_1430815479_rc2d3j9nics6_rtrmadp_0_usa-tiktok-china.jpeg?v=1600775963"

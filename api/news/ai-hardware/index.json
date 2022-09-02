@@ -62,7 +62,7 @@
       "originalUrl": "https://www.zdnet.com/article/intel-ai-chief-wei-li-someone-has-to-bring-todays-ai-supercomputing-to-the-masses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -103,7 +103,8 @@
       "topics": [
         "Machine Learning",
         "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "Facebook AI"
       ]
     },
     {
@@ -211,7 +212,7 @@
       "originalUrl": "https://www.zdnet.com/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 186,
+      "heat": 196,
       "tags": null,
       "images": [
         {

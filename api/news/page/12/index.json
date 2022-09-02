@@ -2,6 +2,111 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-08-21-why-youve-never-heard-of-this-top-ai-company.md",
+      "title": "Why You’ve Never Heard Of This Top AI Company",
+      "excerpt": "with the only notable vendor-specific response (AWS SageMaker) trailing in the 5th spot. This doesn’t mean that companies aren’t using vendors for those open source implementations, not at all. This does mean that they aren’t focusing on the vendor ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/21/why-youve-never-heard-of-this-top-ai-company/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/21/why-youve-never-heard-of-this-top-ai-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/630176959a27f7799058f19a/0x0.jpg?format=jpg&crop=4153,2336,x0,y13,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/21/why-youve-never-heard-of-this-top-ai-company/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/08/21/why-youve-never-heard-of-this-top-ai-company/amp/",
+      "publishedDateTime": "2022-08-20T22:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-08-21-after-binge-watching-tv-googles-deepmind-ai-can-now-read-lips-better-than-humans.md",
+      "title": "After binge-watching TV, Google's DeepMind AI can now read lips better than humans",
+      "excerpt": "Google’s DeepMind artificial intelligence system has learned another useful skill. The soon-to-become-Skynet AI can now read lips with a higher accuracy than humans, after it watched thousands ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/after-binge-watching-tv-googles-deepmind-ai-can-now-read-lips-better-than-humans/",
+      "originalUrl": "https://www.neowin.net/news/after-binge-watching-tv-googles-deepmind-ai-can-now-read-lips-better-than-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2016/11/1479985769_hal_9000_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/after-binge-watching-tv-googles-deepmind-ai-can-now-read-lips-better-than-humans/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/after-binge-watching-tv-googles-deepmind-ai-can-now-read-lips-better-than-humans/",
+      "publishedDateTime": "2022-08-20T15:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-21-why-ai-regulation-will-resemble-privacy-regulation.md",
       "title": "Why AI regulation will resemble privacy regulation",
       "excerpt": "Concerns over data privacy have sparked regulations in the U.S. and Europe. How will AI regulations look as they come to fruition?",
@@ -1025,100 +1130,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-ring-camera-recordings-exposed-due-to-vulnerability-in-android-app.md",
-      "title": "Ring Camera Recordings Exposed Due to Vulnerability in Android App",
-      "excerpt": "A vulnerability patched recently by Amazon in the Android app for its Ring surveillance cameras exposed user data and video recordings, according to cybersecurity firm Checkmarx, whose researchers identified the flaw.",
-      "sourceUrl": null,
-      "webUrl": "https://www.securityweek.com/ring-camera-recordings-exposed-due-vulnerability-android-app",
-      "originalUrl": "https://www.securityweek.com/ring-camera-recordings-exposed-due-vulnerability-android-app",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png",
-          "width": 256,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Security Week",
-        "domain": "securityweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-whirlpool-ceo-ai-is-making-kitchens-and-appliances-smarter.md",
-      "title": "Whirlpool CEO: AI is making kitchens and appliances smarter",
-      "excerpt": "Marc Bitzer reveals why Whirlpool is a magnet for AI tech experts.",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/videos/watch/whirlpool-ceo%3A-ai-is-making-kitchens-and-appliances-smarter-/7c21f374-e607-4cb5-845d-f4674a9d6e52",
-      "originalUrl": "https://fortune.com/videos/watch/whirlpool-ceo%3A-ai-is-making-kitchens-and-appliances-smarter-/7c21f374-e607-4cb5-845d-f4674a9d6e52",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2byebo1j9i40c.cloudfront.net/7c21f374-e607-4cb5-845d-f4674a9d6e52/Images/posterImage-ver1-1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/videos/watch/whirlpool-ceo%3A-ai-is-making-kitchens-and-appliances-smarter-/7c21f374-e607-4cb5-845d-f4674a9d6e52/amp",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/whirlpool-ceo%3A-ai-is-making-kitchens-and-appliances-smarter-/7c21f374-e607-4cb5-845d-f4674a9d6e52/amp",
-      "publishedDateTime": "2022-08-19T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

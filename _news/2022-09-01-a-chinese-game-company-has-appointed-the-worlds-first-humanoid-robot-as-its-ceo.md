@@ -7,7 +7,7 @@ originalUrl: "https://interestingengineering.com/innovation/chinese-company-huma
 webUrl: "https://interestingengineering.com/innovation/chinese-company-humanoid-ceo"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,31 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "A Chinese AI-Powered Robot Aims to Tackle Complex Surgeries"
+    excerpt: "The four-arm laparoscopic surgical robot clinched the topmost award at the 2022 World Artificial Intelligence Conference."
+    publishedDateTime: 2022-09-02T03:56:00Z
+    webUrl: "https://www.sixthtone.com/news/1011147/a-chinese-ai-powered-robot-aims-to-tackle-complex-surgeries?source=channel_home"
+    type: article
+    provider:
+      name: Sixth Tone
+      domain: sixthtone.com
+    quality: 54
+    images:
+      - url: "https://image5.sixthtone.com/image/5/57/771.jpg"
+        width: 2000
+        height: 1000
+        isCached: true
+  - title: "Chinese propose to build a dam with a distributed 3D printer"
+    excerpt: "A study recently published by a team of researchers at Beijing’s Tsinghua University has revealed plans to construct a 594-foot-tall dam using robots, 3D printing, and artificial intelligence. The researchers claim that no human labor needs to be directly employed in building this massive structure—if the plan moves forward,"
+    publishedDateTime: 2022-08-29T16:38:00Z
+    webUrl: "https://arstechnica.com/science/2022/08/chinese-propose-to-build-a-dam-with-a-distributed-3d-printer/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 34
 
 secured: "CvI11HyIB9o3keLputiJ5pRZ26KfJH4Zu965/6p3+iVXtdyTwLnyguLz+5BAzvK9N7/kIVscrSl8R4ng+dUrbhIcaqHpMzxydNcexbOs4NQqArt5BGTkD4QD/1Xz3pr6QlPU37x5mDLluPygf3UidXXLuQp9fMRZFNR02UIkXq+q3Bl+BxcuMN1M63z57kHvpNC4Yc2eko8M4ECbTaSgkrT034cf1ktOXxS0GorbfOWgg4gS0jHV9n11y6RXb/6/bXniRmjm2CJv7nCq3mczeSkZ3A07D8kmSax3QWLWD/3xkQIQAlXZcWrzEUcAfCQAubXBt+cvngqQzpyFYE6NmYncX2X2zwXWJTgEH5RY57w=;tsKAdp7F4+OoGtJvo48Qzg=="
 ---

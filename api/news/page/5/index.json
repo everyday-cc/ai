@@ -2,6 +2,111 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-08-27-the-uses-of-ethical-ai-in-hiring-opaque-vs-transparent-ai.md",
+      "title": "The uses of ethical AI in hiring: Opaque vs. transparent AI",
+      "excerpt": "Ethical AI enables organizations to understand the technology’s processes and audit them to make sure the AI remains unbiased.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/the-uses-of-ethical-ai-in-hiring-opaque-vs-transparent-ai/",
+      "originalUrl": "https://venturebeat.com/ai/the-uses-of-ethical-ai-in-hiring-opaque-vs-transparent-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/intellectual_property.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 873,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/the-uses-of-ethical-ai-in-hiring-opaque-vs-transparent-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-uses-of-ethical-ai-in-hiring-opaque-vs-transparent-ai/amp/",
+      "publishedDateTime": "2022-08-26T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-26-process-mortgage-documents-with-intelligent-document-processing-using-amazon-textract-and-amazon-comprehend.md",
+      "title": "Process mortgage documents with intelligent document processing using Amazon Textract and Amazon Comprehend",
+      "excerpt": "Organizations in the lending and mortgage industry process thousands of documents on a daily basis. From a new mortgage application to mortgage refinance, these business processes involve hundreds of documents per application. There is limited automation available today to process and extract information",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/process-mortgage-documents-with-intelligent-document-processing-using-amazon-textract-and-amazon-comprehend/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/process-mortgage-documents-with-intelligent-document-processing-using-amazon-textract-and-amazon-comprehend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/10/Arch-Diag-Mortgage.jpg",
+          "width": 3684,
+          "height": 2484,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-26T09:28:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-08-26-first-trust-exchange-traded-fund-vi-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaq-robt.md",
       "title": "First Trust Exchange-Traded Fund VI - First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ: ROBT)",
       "excerpt": "Calculated by average return of all stock recommendations since inception of the Stock Advisor service in February of 2002. Returns as of 08/26/2022. Discounted offers are only available to new ...",
@@ -351,7 +456,8 @@
       ],
       "topics": [
         "AI",
-        "Microsoft AI"
+        "Microsoft AI",
+        "Facebook AI"
       ]
     },
     {
@@ -1109,100 +1215,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-tesla-full-self-driving-debate-escalates-with-legal-threats-banned-videos.md",
-      "title": "Tesla ‘full self-driving’ debate escalates with legal threats, banned videos",
-      "excerpt": "Tesla fans rushed to defend the automaker after a prominent critic released a video showing one of the company's cars with the feature it calls \"full self-driving\" plowing into child-size mannequins.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/08/25/business/tesla-dan-odowd-videos/index.html",
-      "originalUrl": "https://www.cnn.com/2022/08/25/business/tesla-dan-odowd-videos/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220825123609-03-tesla-autopilot-file-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/08/25/business/tesla-dan-odowd-videos/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/25/business/tesla-dan-odowd-videos/index.html",
-      "publishedDateTime": "2022-08-25T13:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-fn-meka-the-racist-ai-rapper-is-a-symptom-of-a-bigger-problem.md",
-      "title": "FN Meka, the racist AI 'rapper,' is a symptom of a bigger problem",
-      "excerpt": "Capitol Records ended its record deal with a stereotypical 'rapper' that rhymes in the digital world. The controversy showed a major pitfall of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.msnbc.com/the-reidout/reidout-blog/fn-meka-capitol-records-ai-rapper-rcna44785",
-      "originalUrl": "https://www.msnbc.com/the-reidout/reidout-blog/fn-meka-capitol-records-ai-rapper-rcna44785",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-08/220825-ROB-Ai-rapper-an-b434e7.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna44785",
-      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna44785",
-      "publishedDateTime": "2022-08-25T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSNBC",
-        "domain": "msnbc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
