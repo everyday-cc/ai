@@ -24,6 +24,17 @@ images:
     height: 314
     isCached: true
 
+related:
+  - title: "Edge Computing Market Size Worth $132.11 Billion by 2028 at 21.6% CAGR | The Insight Partners"
+    excerpt: "The Insight Partners published latest research study on \"Edge Computing Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Co"
+    publishedDateTime: 2022-08-29T11:56:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-edge-computing-market-size-worth-13211-billion-2028-/2022/08/29/9663269.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
 secured: "p+C5UnxSm/siohz3ujOAq4iWf8CbfZpaE2pUNdAhMAcoZB6jqlXUbEiImZWE0rat2pDrxe1f64EICEDJrCvcX1VfR0gWwI+6+VrO4oaUjX7x5Y66ctTi0G16p6NCb1LoSUPub2RKCO08ISnLUjHv+ylpG2S9j/PJEg4e5vjE/w0KyB2itjwofx7q5iYx7KgezskUoxU/Am2QmR+oPAvG1a7iMJ1OJG7c7/eyN55sBTD5ITteBeRBbeECzHseFBDnRi8z7n6OHD08n5UcJLIFaOakfhit++AkThdnLbvaQUeVpydslImcv+CItbKHf81SzGCea47+gfO3rU1aAhsQUPGUfQIhonlZ7Toura2K6zOZhszdqo0hAjA27f1EaQrtT4uqXUNbiHdoFyX6P+jxTWx0Xo4fHqRbD4kb2TMdGlpJ8qbZasEdNo1PE9z0Aq7C/oBGw0boAZ5lThuBRkMX+gH1NGpPhbAScBOve4lzB3xgpwjyYqGH6OytYFASzDMuJUEi/IMdUzRjfHy13eKSeQ==;xtJl7ASbwZ87wDwerG+ziQ=="
 ---
 

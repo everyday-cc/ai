@@ -82,7 +82,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 53
+    quality: 55
     images:
       - url: "https://www.abnewswire.com/uploads/1662012669.jpeg"
         width: 1200
@@ -116,15 +116,6 @@ related:
         width: 1173
         height: 614
         isCached: true
-  - title: "AI in Fintech Market Size, Key Developmental Strategies, Future Scope, Technological Innovation And Forecasts To 2028"
-    excerpt: "The latest AI in Fintech Market Analysis is designed to help clients improve their market position, and in line"
-    publishedDateTime: 2022-08-28T07:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-key-developmental-strategies-future-scope-technological-innovation-and-forecasts-to-2028-2022-08-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
 
 secured: "sDXcRWIeQ2CBJFgo8IGqV7Ljpjfk05kUD3Ypk5YiG+gu7MP6NlchEZCVONdVUX4a5hGl8AW8CeOkGDKrMB1A1IXw1QCyOil3pNALHaiE8dSHCz1FLvkY02WbkcwD9I2GRwBYriQQ8WUm874ugA+TE1N2lqmdKnQx0XGH3J7HMVswFfDPzqKF5OSTD4hjDuLM8+AoxbD65efieSNfM5jKBfTsaRtp/uhIMWHSgy61XOpQonCoR6JL7La/sh33bEgIi4m1qjZC/765l3ekGvwmDzroeGx/M3g7z0dc4TPnN6+takpn1m173gd5UOibhAQi7ZWAQ5m4TMGsBU5zyUFS1m3kVK4WAs47ieN96tEa5v0=;loErqSSUlKMK1iCuFRdzXw=="
 ---

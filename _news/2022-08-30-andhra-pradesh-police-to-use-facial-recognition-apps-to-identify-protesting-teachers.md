@@ -35,6 +35,15 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "Andhra Pradesh: Snags hit facial recognition app on Day 1"
+    excerpt: "Vijayawada: The facial recognition app introduced by the state government for the attendance of teachers which has come into effect on Thursday led to teething problems. Majority of the teachers were reluctant to download the app in their personal mobile and those who downloaded could not register their attendance in time due to technical issues like slow network."
+    publishedDateTime: 2022-09-01T19:15:00Z
+    webUrl: "https://www.thehansindia.com/andhra-pradesh/andhra-pradesh-snags-hit-facial-recognition-app-on-day-1-760016"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 19
 
 secured: "fvkVhRagFBSEH5M3Gg7kASroeG3e/Wj8L/J1RaM++sIBXjm2Hu7siVjnQNsz//dvyXPd7C6abW5mrnG613bLsNc1ZdZNbj4iGTO8cy7apqSAsvVNaRH/yZoA0mSsXYk5eDt7oQg2eDzrlJLD9mPXkYxtIwiebx/A9PJX3tlbaT6JOP8rJZi+oF0rgmnKR5jDUx0EuhZbECx4GZWT70YIWAh+PUDo0frTZe2lt2HEhrT4AHHxHmrqUXcjz9FDqMXiPkNUkgOJtPahE9uKPMR1Hg4IZ3ur6zP+gPsqi3ifbWPvyQgB7W6HvWO8AB/YhFL7gN8UciE5lLh8lHR3oBtunEwh9zHDj7EPf/2VCifhGeYXpRuJeCOHPXMfLKrpUxoDq8wYyGpzrqPKg/nT4iB2grXRLO6lcI7yJ9sP9ccWFkZmOuc74qCULq8YEvN4etAqzJqGHPOk+ExI0J8QiLsWmIkF2wXmNYM9tGQW4dUTreR92Q/XkdNVqPcpb+VxIhvGPWkdn8pECoNAl5YSHwPsnQ==;McwolvayYtgScivAH9BWpA=="
 ---

@@ -68,6 +68,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "One man's long-held dream of fusing AI with common sense becoming reality"
+    excerpt: "who led the team that built IBM's famed Watson computer, was elated when it beat the best-ever human \"Jeopardy!\" players in 2011, in a televised triumph for artificial intelligence. But Ferrucci ..."
+    publishedDateTime: 2022-08-29T07:14:00Z
+    webUrl: "https://buffalonews.com/one-mans-long-held-dream-of-fusing-ai-with-common-sense-becoming-reality/article_b41b196c-8d41-5263-98c9-bfd64d31e3f1.html"
+    ampWebUrl: "https://buffalonews.com/one-mans-long-held-dream-of-fusing-ai-with-common-sense-becoming-reality/article_b41b196c-8d41-5263-98c9-bfd64d31e3f1.amp.html"
+    cdnAmpWebUrl: "https://buffalonews-com.cdn.ampproject.org/c/s/buffalonews.com/one-mans-long-held-dream-of-fusing-ai-with-common-sense-becoming-reality/article_b41b196c-8d41-5263-98c9-bfd64d31e3f1.amp.html"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 58
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/a/f4/af435594-3678-52b2-8fa7-688606b9bea0/630c527255a09.image.jpg?resize=802%2C588"
+        width: 802
+        height: 588
+        isCached: true
 
 secured: "48jDMmU+ITY3aA+u4DKrzCAXzR4BXBG4dYQPPplX+AdbfJThbKU6NJfzaLXMLACB8W4bbuMAAD7AIg60OSuHH08eAU6Ht/gppUiEf+7vNLgddX+8blbUEAaJN9l89foLsgidlgRjg8DG1EJmxLMGfskjmMD0c/ScoihP+isp4edDhs1H50SG4pdEYCu44fnikJ5RIzl5p1P7KV8Dqns2DRjujOU6h4FApGNiJbl2dz3UBzzVsfcRn8L3xVA+uQvPPu3DsqRP65Oj0Ex+NO0US9561qOyO2DDe1FD6OhPq/WssF1mwu6QvHJWwTk0EXM9TTUCoOL+4clQ9JrVX0Jeht5ahaF6Ds2mx7fA8Uhea5xI09xoVHziGPM+G1bNue+wCBQIjY9aaWbaluZf/AlgvKteggbFymnQONeqrHZlMPA0iJt7BEXeMf5FuZLswcp7iFAAgz+5e1qjU/xZqENW2uoVAWwoB/JgI9Ov/s0ifFlrnFw5QF+PigMk4EKLZ8v1nRwhgvyKyJTyJ2s4Qf789A==;uNSsxQGkXhaX8PJYkxP07A=="
 ---

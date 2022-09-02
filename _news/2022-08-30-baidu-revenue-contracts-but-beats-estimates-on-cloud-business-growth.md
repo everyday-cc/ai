@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Baidu revenue contracts but beats estimates on cloud business growth"
-excerpt: "Revenue at Baidu’s AI Cloud unit grew 31% year-on-year in the quarter. Baidu has also been doubling down on self-driving technologies, in which it has heavily invested over the past five years."
-publishedDateTime: 2022-08-30T13:18:00Z
-originalUrl: "https://www.euronews.com/next/2022/08/30/baidu-results"
-webUrl: "https://www.euronews.com/next/2022/08/30/baidu-results"
+title: "Baidu Revenue Contracts but Beats Estimates on Cloud Business Growth"
+excerpt: "Revenue at Baidu's AI Cloud unit grew 31% year-on-year in the quarter. Baidu has also been doubling down on self-driving technologies, in which it has heavily invested over the past five years."
+publishedDateTime: 2022-08-30T09:06:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2022-08-30/baidu-beats-quarterly-revenue-estimates"
+webUrl: "https://www.usnews.com/news/technology/articles/2022-08-30/baidu-beats-quarterly-revenue-estimates"
+ampWebUrl: "https://www.usnews.com/news/technology/articles/2022-08-30/baidu-beats-quarterly-revenue-estimates?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-08-30/baidu-beats-quarterly-revenue-estimates?context=amp"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 69
+heat: 89
+published: true
 
 provider:
-  name: Euronews (Spain)
-  domain: euronews.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://static.euronews.com/articles/wires/874/96/8749602/1000x563_qr8u3.jpg"
-    width: 1000
-    height: 563
-    isCached: true
 
 related:
   - title: "Baidu's Q2 revenue contracts, but beats estimates on cloud business growth"
@@ -56,6 +56,6 @@ related:
         height: 373
         isCached: true
 
-secured: "zLYUsr5AGvUZzAnUmAS2JpEkuVuRIfEezqG88oBIiv4r9hTK9ponkLTdAGvMudK5dQEDI7+pFfKjInelG7ihdqwcZ4/hNDqFDgZTQEGazRdlmN9omqNJT9WASEcCpPlcDzB+z8KrefKtFtosAqlQf1xL8tMWKb8haVILniHHEV4TXWtJUBgEfwjNzIWk2k/6QHCjlcsGnglUjZpCyLAgALXtodvd65iiFuBPNA++HroISGKvxqPeR9gyRQGvqhaK6qmR5ha9V3wVYn/qYudIgPnuwyagirgHxZ21+9XCJIA5nM2QZ61k7hz+hNeu5qolbhPpSwv6JMNWsAtY1myTCqAJS0BVda9thauiHp6NiVs=;nw2+mjmOck5kGA1kteaJww=="
+secured: "t7uApenEeZr2mIyMV8VTMDgfvMRtpaLtGI1ivfnk/dpr+zkM+tBpUOSphkip+nEt0fO1ZrJ7cpLhy1mwkfIS1zZWZ8IMZdpOMGLLxLLidEXuMqipwWh2hQl29ubrYhBZYQSdBlBVzylPV2FOyokwrTGmQR995KpGnx32mt2Wv05ZBhFU9lV8z3QVxylCQQ1xvQtCg3jpWmjHKIWOs3uAygFV2XY2Q1luFH+61TU5sKdY48zQVjkOx0b/wsXD0ezI6iIlpa3ke19sBGqI6yqt4bdXQUIkTiuEZu0qMPW+xzoJuc85uzU2cr7E5Wr3zH41SWMJverJ4Xaa66L5zMeVv0MCeiLTHfnQqGuwDfKGVsw=;rdah7JS07xcz3Y21M3/sug=="
 ---
 

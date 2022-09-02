@@ -8,7 +8,7 @@ webUrl: "https://www.benzinga.com/pressreleases/22/09/ab28727692/artificial-inte
 ampWebUrl: "https://www.benzinga.com/amp/content/28727692"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28727692"
 type: article
-quality: 53
+quality: 55
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.abnewswire.com/uploads/1662012669.jpeg"
@@ -112,16 +113,7 @@ related:
         width: 1173
         height: 614
         isCached: true
-  - title: "AI in Fintech Market Size, Key Developmental Strategies, Future Scope, Technological Innovation And Forecasts To 2028"
-    excerpt: "The latest AI in Fintech Market Analysis is designed to help clients improve their market position, and in line"
-    publishedDateTime: 2022-08-28T07:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-key-developmental-strategies-future-scope-technological-innovation-and-forecasts-to-2028-2022-08-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
 
-secured: "+rT3ZBIL39PlUNymL1G9X+MPnqmzBIgmGeasU+XHIASyALxPsDXy5axwacHlYIcecCh/4gFIKVHWZFJV7mD180H2ZEcFcSa/lUblLFGXwZ2Di0VJeS8RrUsopU/MHwbO7d0j1ZwM+5CIsnHGJSEhDtP79vq+FcRiKXhShfqmyzKrctVHfL/JFR3XKh6sI4mrDwcpzNGUcFDfjsj6dlLADgOH/RzO5aBRzleNCYd4eTAplXvYsnzdQ6c5Gk8L6RMPyZPSh17JNqC/inGhIPLA6x6Wk432W6Gfcp5uF89cbHJZgioK38wrZrxESFOQKu/N6+oSHwdufTxTnEE608kbdZsL2OyaiTVQJnWvgKBgAJo=;fY3rflyiddjIOqXqtdyN6Q=="
+secured: "B8IQqFkk/lWbunJZGtfw6YXqNaZ7bh1dxGvY0ZsHNb/dqXjXs7vxGxAaOApqSAcNFDSZHvFI/qb+dD/kTmT11jS19zeCCAFMC4H8uCDnN1/yIUh92hJnmpp3r0p9hDLiRseq7bVyo8/cRyX2qm9y7Beg6dlwRpW7PRA7xOMJ4mYJRwRcAh5oEHvJxx+En8f51L2ricJNVN4DALVI8l7nvTeq2nWDjVT6/hL3aOwn7Sf+Xo2m5e03QLdYyu1QP8vyJNeBODJj9M9P0N8vSBtmsB3bmrDFRnL4fRuDmEoUM3DHNAtdmm9DDTUtGUBBzdxA7kzo204/CyuSuasePo2U+5S7WhK4+tKrCrrGj+845pSOUiksl8zAEOtR6raF5BvoIQq31dYguwYuJ0WadNkpQ4bV+oCcMRI6AKDCG9dOiJlhEi7OI15F8319V5Ltvoss8dKyv8SCgnnG3xL233Enf8V+hYcE3LTUvOUSxwfGPtvmfDocJHXHk8zoY5hlbwYlI4PbCP6HrXlJre1rrhPZWw==;pakJrL2Nj4UkmdguYB26cw=="
 ---
 

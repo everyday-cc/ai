@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-market-size-share-volume-trends-demand-forecast-report-2022-2028-2022-09-01"
 type: article
 quality: 65
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -83,7 +83,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 53
+    quality: 55
     images:
       - url: "https://www.abnewswire.com/uploads/1662012669.jpeg"
         width: 1200
@@ -117,15 +117,6 @@ related:
         width: 1173
         height: 614
         isCached: true
-  - title: "AI in Fintech Market Size, Key Developmental Strategies, Future Scope, Technological Innovation And Forecasts To 2028"
-    excerpt: "The latest AI in Fintech Market Analysis is designed to help clients improve their market position, and in line"
-    publishedDateTime: 2022-08-28T07:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-key-developmental-strategies-future-scope-technological-innovation-and-forecasts-to-2028-2022-08-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
 
 secured: "PkiS6j6E1sFvltEGS/hJH89wh5wPk9HUecpAS7mX4eTnxJLueBzi8qhg4GUmdehS9BHjdhh4GfybxTb2OGiIba+Y0cGeeopWH/InOLJe4GJXtXkNyunwWNKc0SsHSdD2gMSeQhBMqXGaU+oeYFAe31o9BzCswqU+AVgl3AATMvD48Nhd2cJ9msrwRnwvxSGUWp0uqrX9ZqEbcYpIauF7jo1DGxoh6Fn0K6u1RDFUUsilCQxk0xKVGUWa/OQfGgPVrGv7zVTxdbQMKHD4xfQfBH6ptBvpXrkc2tD2K4tIgzaicyNIutWtdOCQ+TSuHd9j0xQHWELh8NCLOaEciBzuhzuR6ajycPEjiWpJAwhy/oc=;1EI/CsgwOmHMiilJSMboHw=="
 ---

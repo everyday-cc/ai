@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Baidu Revenue Contracts but Beats Estimates on Cloud Business Growth"
+    excerpt: "Revenue at Baidu's AI Cloud unit grew 31% year-on-year in the quarter. Baidu has also been doubling down on self-driving technologies, in which it has heavily invested over the past five years."
+    publishedDateTime: 2022-08-30T09:06:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2022-08-30/baidu-beats-quarterly-revenue-estimates"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2022-08-30/baidu-beats-quarterly-revenue-estimates?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-08-30/baidu-beats-quarterly-revenue-estimates?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 69
   - title: "Baidu's Q2 revenue contracts, but beats estimates on cloud business growth"
     excerpt: "Total revenue shrank by 5% to 29.65 billion yuan ($4.43 billion) in the second quarter, compared with analysts' average estimate of 29.30 billion yuan, according to Refinitiv data"
     publishedDateTime: 2022-08-30T11:09:00Z
@@ -40,20 +51,6 @@ related:
       - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2018-03/02/full/1519964042-5025.jpg"
         width: 620
         height: 464
-        isCached: true
-  - title: "Baidu revenue contracts but beats estimates on cloud business growth"
-    excerpt: "Revenue at Baidu’s AI Cloud unit grew 31% year-on-year in the quarter. Baidu has also been doubling down on self-driving technologies, in which it has heavily invested over the past five years."
-    publishedDateTime: 2022-08-30T13:18:00Z
-    webUrl: "https://www.euronews.com/next/2022/08/30/baidu-results"
-    type: article
-    provider:
-      name: Euronews (Spain)
-      domain: euronews.com
-    quality: 39
-    images:
-      - url: "https://static.euronews.com/articles/wires/874/96/8749602/1000x563_qr8u3.jpg"
-        width: 1000
-        height: 563
         isCached: true
 
 secured: "9oKLIN1XeJNfhci8rXhj7JXdI7Eagd8O9QHcXZY6TLCcUbzif7+jyHnwUHI94HAByMv0Ueq2VVKoVYhEDKDxL7NhOK6BY0x6kw99HVWzM7khp9vPCWAwOSObhFVS5fxAvwfGe5aN8hDlr558T/hC7HQfERacCVK/5nwlts5lcox6Q2MAfypAyz0D7T/uncdCa6hhdWmkF1j/Nl+okcIdLiUfsMeJlbNGQn8/+MVTtA2X9dwsy2/C6xbpH0FEsmynojTbJU7I4ffYS4Rrrjb4AfSZdOUvboEfPUe7qRVQ7peBOEteFrSRJTQt3Fm0mSF5Q7E/RuPcaQw6u0bUpOdoFOBEtXfxCjcrbCP0EgbvrCga2kjYNSHXHgnnCDg0DsuY1ZYVs5Cx+oE6kVcY3/QICninJ2lgq48gOki0aqlwcvlQ9OuwZAA7GfmRpp6ca/QI3wtukq8lwr6Sjy/jIsoVuTRTlhz9hX1mzOnwDLEemsTpebrx0pRBiDz4jgqDmdpeh2On0NEMNRhFOwCzkakKaQ==;lN+mde+RFiTIh4nqE0MdTA=="
