@@ -7,7 +7,7 @@ originalUrl: "https://www.foreignaffairs.com/world/spirals-delusion-artificial-i
 webUrl: "https://www.foreignaffairs.com/world/spirals-delusion-artificial-intelligence-decision-making"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,36 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "How artificial intelligence can explain its decisions"
+    excerpt: "Today, when an algorithm identifies a tumour in a tissue sample, it doesn’t reveal how it arrived at this result. And that’s not very trustworthy. Researchers in Bochum are therefore pursuing a new approach."
+    publishedDateTime: 2022-09-02T14:04:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/963644"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 54
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/bc5e8a87-496d-4021-8859-1d7a822ea861/Rendition/low-res/Content/Public"
+        width: 700
+        height: 467
+        isCached: true
+  - title: "When — and Why — You Should Explain How Your AI Works"
+    excerpt: "AI adds value by identifying patterns so complex that they can defy human understanding. That can create a problem: AI can be a black box, which often renders us unable to answer crucial questions about its operations."
+    publishedDateTime: 2022-08-31T14:11:00Z
+    webUrl: "https://hbr.org/2022/08/when-and-why-you-should-explain-how-your-ai-works"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 39
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2022/08/Aug22_31_1308454794.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "spFLQYlmyOUNn/4XCx+5SJpxr/LhOfxpkc4Q1jCxHBnqEfs5iTDzr1u+RPYeF7rbbhuK9HWZvNSDtxh2Mrxex3L2c72G9IWnSpAr+OXFZjvKmoltiwRDk350R3m5aGL1yAghJviIDxv/fx/gosPsz1GovHMw8NQa8Nzbw3XhwFJx+8qM2JL8NTg4PCaNGczZLaGNqNZpTtV2LhUvLWqqNUwmKzY3iXjdNZ3OkEF1hYksrRvsJ0C91V5ZTzTSkYT9Xz0wOnuDHNDC5z7IDbH/zX/CBqA+SSEhDjHok1GONEet28B3VVu8O0Vryl4SU26O4qMtxXHNS+6auzP+p5E/UlQ3MS2BH6MbhOhFAgFgbBaoLXnth1aHrJhlgEZnSqIfjcqSRJqFEkhVL4zpty3tuq4KwGLTSCKh+KF8Eg82VMe0zngPvraNcHwjG0B+uKO5W1WRuGnCI+mICgiZcV6C5fYRNYP5xDK8VoAJFlatrGmzWrYCTfDBduP8MbXEeiBWngIvxjBweMONCYpw6v9USQ==;0Rf0rgFFOEHRV+FyBwUbbg=="
 ---

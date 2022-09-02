@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-29T10:26:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-asia-south-america-0232c251b16047f18c094cc48e26a795"
 webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-asia-south-america-0232c251b16047f18c094cc48e26a795"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: Associated Press
@@ -14,6 +17,63 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "AI In Fintech Market Will Reach More Than $61 Billion, By 2031"
+    excerpt: "Artificial Intelligence has been growing its influence in Fintech, and is projected to hit $61 billion in under 10 years. We tell you how."
+    publishedDateTime: 2022-09-01T07:39:00Z
+    webUrl: "https://www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/"
+    ampWebUrl: "https://www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/amp/"
+    cdnAmpWebUrl: "https://www-investingcube-com.cdn.ampproject.org/c/s/www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/amp/"
+    type: article
+    provider:
+      name: InvestingCube
+      domain: investingcube.com
+    quality: 59
+    images:
+      - url: "https://www.investingcube.com/wp-content/uploads/2022/06/Crypto-wallet.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Fintech Market Plays A Vital Role In Mobile Banking – Reports and Data"
+    excerpt: "The size of the global fintech market was USD 100.09 billion in 2020, and it is anticipated to grow in value at an 8.5% CAGR. Rising demand for smartphones, growing private investor involvement in fintech firms,"
+    publishedDateTime: 2022-09-01T10:29:00Z
+    webUrl: "https://techbullion.com/fintech-market-plays-a-vital-role-in-mobile-banking-reports-and-data/"
+    ampWebUrl: "https://techbullion.com/fintech-market-plays-a-vital-role-in-mobile-banking-reports-and-data/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/fintech-market-plays-a-vital-role-in-mobile-banking-reports-and-data/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 59
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/08/Fintech.jpg"
+        width: 2560
+        height: 1706
+        isCached: true
+  - title: "How to Use ML and AI in the Fintech Industry?"
+    excerpt: "From appearing as frequent tech buzzwords less than a decade ago, they have become integral to how AI and ML tech innovations are shaped across the digital landscape. Driving innovations in certain industries,"
+    publishedDateTime: 2022-09-01T05:49:00Z
+    webUrl: "https://www.finextra.com/blogposting/22835/how-to-use-ml-and-ai-in-the-fintech-industry"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 36
+  - title: "29/08 – Weekly Fintech Recap"
+    excerpt: "Partnerships Wearable Tech Pioneer DIGISEQ Partners with AdornPay to Bring Passive Wearable Payments to the Netherlands DIGISEQ, the wearable payments tech pioneer, announced its partnership with Dutch wearable fashion brand,"
+    publishedDateTime: 2022-08-29T08:04:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/2908-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_20.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "GXIv9sjmUdWgr0zMS607gnxAUo+wJKc/ZB9tfWCBipK0dQpQtOSgo0Pox1WXS590eLCmMHGTJ/jVvPzUt+syvnZkK+aRgXZ6ScFbTnlL0xvwhwBm8akjF6mqlRrlREC3BNqLo5tM6NVofLHWj+yVurtDQ57iQIUYPp6ZitMv/MvoWIbWeH5Lkj9ZYDIEXhjbV33QA40IRccBxXLcmEniMoyK3CWgmjYTwIdmq9PjHA2FRDSoC6DBuXZ5k398eyN6JsE8B7GileDKYXXYyp3C4BNCREJXaiDTNY0XxsF6///ki9Y58iP1yrA0oTYj7fMnJXGCYLCCCyWTVhFmp2fyELAOQAspQeYlmbheLY0ejLQ=;hXKnXgK+og+Lc651t/fDjQ=="
 ---

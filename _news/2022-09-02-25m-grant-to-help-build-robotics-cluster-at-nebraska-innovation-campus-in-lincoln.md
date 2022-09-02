@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-02T13:40:00Z
 originalUrl: "https://journalstar.com/business/local/25m-grant-to-help-build-robotics-cluster-at-nebraska-innovation-campus-in-lincoln/article_2f80def9-3490-582f-8442-27dbbb25f4b4.html"
 webUrl: "https://journalstar.com/business/local/25m-grant-to-help-build-robotics-cluster-at-nebraska-innovation-campus-in-lincoln/article_2f80def9-3490-582f-8442-27dbbb25f4b4.html"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: Lincoln Journal Star

@@ -8,8 +8,8 @@ webUrl: "https://www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-camp/
 ampWebUrl: "https://www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-camp/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-camp/amp"
 type: article
-quality: 106
-heat: 136
+quality: 108
+heat: 138
 published: true
 
 provider:

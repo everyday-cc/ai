@@ -83,6 +83,15 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "AutoX Tests Downtown Shanghai’s First L4 Robotaxi Service"
+    excerpt: "To reach a large-scale standardized implementation of robotaxis, it’s essential to have an efficient central operation network,” AutoX founder and Chief Executive Officer Xiao Jianxiong told Yicai Global."
+    publishedDateTime: 2022-09-02T11:45:00Z
+    webUrl: "https://www.yicaiglobal.com/news/autox-tests-downtown-shanghai-first-l4-robotaxi-service"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 19
 
 secured: "uV0HHu6lJKZ1LX5H8yG9iPHuS/W1YCdExTWhfEO17G9zc36TnLPefG/gnOTkjYGO3iAVL1331dyVNpjSBfMukDPbQfH4ZjCIQT71/2YoacK/3UrySf+5x7WhPhR95O4etOAdDOCvkOlrRmnfkomWhbdsgqACDqnZ5mCcZdNcyPWedu0oDIeEQVRu2N2JIwb+SMaM4ZO8MP2zMfEUXd8lAaUle5RnIpOkTIgPXeI55f2Zo9OjC30R19h3jc74qgllmXBMTw/TCYxLtqq6O3eNWUFs09p0isLJddCg115UGwXhHLodTL2Xo48Mu0Jz2Gc1DokuuHZPouIuk5gBJ8snZ2zk7Y6aMtfR+QigrE6dRTw=;j063OrOG9HlAhEsZid+k+g=="
 ---

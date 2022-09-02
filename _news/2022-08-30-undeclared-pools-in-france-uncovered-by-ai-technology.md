@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-europe-62717599.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-europe-62717599.amp"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -91,6 +91,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/b2e09692384a075af04aed6c188ac7353e0a7837/0_739_2577_1546/master/2577.jpg?width=620&quality=85&auto=format&fit=max&s=20aa812b23c81f8aba8eb2ff0f1f0104"
         width: 620
         height: 372
+        isCached: true
+  - title: "Sun West unveils NFT loan powered by AI technology"
+    excerpt: "Sun West has unveiled the latest version of its AI platform, which enables it to convert property-specific home loans into tradable NFTs."
+    publishedDateTime: 2022-09-02T14:59:00Z
+    webUrl: "https://www.housingwire.com/articles/sun-west-unveils-nft-loan-powered-by-ai-technology/"
+    type: article
+    provider:
+      name: HousingWire
+      domain: housingwire.com
+    quality: 39
+    images:
+      - url: "https://www.housingwire.com/wp-content/uploads/2020/07/AdobeStock_302675535.jpeg?w=1024&#038;resize=540,275"
+        width: 1024
+        height: 678
         isCached: true
   - title: "France uses AI to spot (and tax) undeclared swimming pools"
     excerpt: "The program found more than 20,000 undisclosed pools, brought in $10 million in extra tax revenue and will be rolled out across France during a record drought."

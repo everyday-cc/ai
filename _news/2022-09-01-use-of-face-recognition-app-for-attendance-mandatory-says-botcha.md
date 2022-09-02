@@ -43,6 +43,15 @@ related:
         width: 600
         height: 390
         isCached: true
+  - title: "Teachers agree to attendance on face recognition app, says Botsa"
+    excerpt: "VIJAYAWADA: Education minister Botsa Satyanarayana on Thursday declared that government teachers in the state have agreed to use face recognition app on their mobile phones to mark their attendance. On its part,"
+    publishedDateTime: 2022-09-02T11:59:00Z
+    webUrl: "https://www.deccanchronicle.com/nation/in-other-news/020922/teachers-agree-to-attendance-on-face-recognition-app-says-botsa.html"
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 19
 
 secured: "5qzGjKZoZfy5d6iDRDjfx/w+noJ5Yax3dU0+wwW9mEvdLIcgU4wP1KBTQWPRxsxdzwROOxDkEkGF1ukVGqiVen9vcEyWNoFkw+kowjfoQ/ccosZSlXhmYode2u3O7gp/LKLVKvGVwFt14rAJ1Fwi1OEhunL8Upd3nrVRQJ5HNUBQhYuHVspeuXhWRW0sOE9i/9Dh7VrauI5dWm3XYZRzE7RxHQ1KhGb7UoR4p3sGmEC2Z2Hvs7ew4M0XW32VzR5ofxtQC7Kqr+ENdpZfmuhv4vmhykjiMIrFw5npsGqj5/cRfyyPPC+Pk3NUNA7RuEN9pAQBt6O6Q14PYa7665ke2lj3ZQwN5THavCRK27E/5iU=;3QQJ+nluBn544PDnQqjBww=="
 ---

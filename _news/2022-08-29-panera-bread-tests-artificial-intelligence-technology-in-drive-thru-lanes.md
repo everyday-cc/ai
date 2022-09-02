@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Panera Bread tests artificial intelligence technology in drive-thru lanes"
+    excerpt: "Two Panera Bread locations in upstate New York are testing artificial intelligence technology that takes drive-thru orders. Restaurants have been investing in improving the drive-thru experience ..."
+    publishedDateTime: 2022-08-29T21:25:00Z
+    webUrl: "https://www.cnbc.com/2022/08/29/panera-bread-tests-artificial-intelligence-technology-in-drive-thru-lanes.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2022/08/29/panera-bread-tests-artificial-intelligence-technology-in-drive-thru-lanes.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/08/29/panera-bread-tests-artificial-intelligence-technology-in-drive-thru-lanes.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 88
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106972691-1636466150088-gettyimages-1280324270-1006_32_fl200924107.jpeg?v=1661775251"
+        width: 3800
+        height: 2533
+        isCached: true
   - title: "Panera Bread Tests Artificial Intelligence Drive-Thru Ordering"
     excerpt: "Panera Bread announced on Monday that it will be testing out artificial intelligence ordering technology at select locations with drive-thru services to analyze if the system can work more efficiently than currently."
     publishedDateTime: 2022-08-29T23:31:00Z

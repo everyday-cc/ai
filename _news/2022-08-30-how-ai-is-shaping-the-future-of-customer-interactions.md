@@ -82,6 +82,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 27
+  - title: "Why AI is the solution for IVF accessibility"
+    excerpt: "By augmenting the embryologist in selecting the most viable embryo, there is potential for AI to help a patient conceive in one or two cycles, reducing the inherent cost of IVF therapy, and making the treatment more accessible to diverse populations that often don’t have ease of access to treatments today."
+    publishedDateTime: 2022-09-02T13:00:00Z
+    webUrl: "https://medcitynews.com/2022/09/why-ai-is-the-solution-for-ivf-accessibility/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 17
 
 secured: "Ea2SwjXOsNXmKiv3tri1yBojGhsNmmRYaIEHc4rBUpGAO/5+7gw2wONGvj/id5NspRrOrVtIfi3aSiswRRdR9mUDfBdX4leDl5RYhxcjD3oLj3lXFbyuM0AS7AO4YWktJgHlLSUwFIwP+iM0CVa34G3WC6ZHARIXfECO3L/LFvQpPtURcNI3fBhaRDdJsL4jWC4OyxAXFsUOIFvemCE4E66xWnh7quBhudHbs8jF+L7kzPoBztcMJdfRKPxeP++MdNj4WZjxyEPkEVI4J0tfJD7oLplwbnKYQ8KAHiyNSIf004OAigXH9SJWiUtwijQp18Qt6f6Z68h3wClPDqFRvQ60rDpCAIr7oHScnSktIiI6VrIjqQg9nPXp2LPgpdJWKtCZnf2Y3/nbLRiUE5HJ0yA3t2e6Z2FfD3M5SRkGSwlzpUAM2cOTh7TigW/J2TRMagiR2b9OKdgsVEl3B4452RAa2iFKO2ogcdWUlaLyrhzN7iHlSn49HVfcdIa2ZYGf4vVD9FV/anaE2iWhzSNzKQ==;wwmlBcV45ZsY5I9uNaFibg=="
 ---

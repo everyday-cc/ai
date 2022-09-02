@@ -8,7 +8,7 @@ webUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-treatmen
 ampWebUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-treatment-women-heart.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-artificial-intelligence-treatment-women-heart.amp"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-61.jpg"

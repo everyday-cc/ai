@@ -85,6 +85,20 @@ related:
         width: 802
         height: 588
         isCached: true
+  - title: "Will artificial intelligence replace artists after winning a competition?"
+    excerpt: "Allen told the Pueblo Chieftain in an interview, \"I wanted to make a statement with artificial intelligence art. I think I did that, and I'm not going to feel bad about it.\" Allen sent in three pieces he made with Midjourney after trying out different phrases,"
+    publishedDateTime: 2022-09-02T14:46:00Z
+    webUrl: "https://www.artmajeur.com/en/magazine/2-art-news/will-artificial-intelligence-replace-artists-after-winning-a-competition/332026"
+    type: article
+    provider:
+      name: Artmajeur
+      domain: artmajeur.com
+    quality: 36
+    images:
+      - url: "https://www.artmajeur.com/medias/hd/s/e/selena-mattei/blog/302768718-471040697999512-6820767108283761749-n.jpg"
+        width: 1000
+        height: 623
+        isCached: true
   - title: "This AI-generated artwork just won first place in a state competition"
     excerpt: "Colorado man Jason Allen has used AI software Midjourney to create Theatre D'opera Spatial, an art piece that won first place at the Colorado State Fair."
     publishedDateTime: 2022-09-02T10:34:00Z

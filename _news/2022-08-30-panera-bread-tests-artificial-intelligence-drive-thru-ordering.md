@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ibtimes.com/panera-bread-tests-artificial-intelligence-d
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/panera-bread-tests-artificial-intelligence-drive-thru-ordering-3606957?amp=1"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: International Business Times
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Panera Bread tests artificial intelligence technology in drive-thru lanes"
+    excerpt: "Two Panera Bread locations in upstate New York are testing artificial intelligence technology that takes drive-thru orders. Restaurants have been investing in improving the drive-thru experience ..."
+    publishedDateTime: 2022-08-29T21:25:00Z
+    webUrl: "https://www.cnbc.com/2022/08/29/panera-bread-tests-artificial-intelligence-technology-in-drive-thru-lanes.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2022/08/29/panera-bread-tests-artificial-intelligence-technology-in-drive-thru-lanes.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/08/29/panera-bread-tests-artificial-intelligence-technology-in-drive-thru-lanes.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 88
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106972691-1636466150088-gettyimages-1280324270-1006_32_fl200924107.jpeg?v=1661775251"
+        width: 3800
+        height: 2533
+        isCached: true
   - title: "Panera Bread Tests Artificial Intelligence Technology in Drive-Thru Lanes"
     excerpt: "Two Panera Bread locations in upstate New York are testing artificial intelligence technology that takes drive-thru orders. Restaurants have been investing in improving the drive-thru experience for customers, adding more lanes and testing tech that would ..."
     publishedDateTime: 2022-08-29T13:33:00Z

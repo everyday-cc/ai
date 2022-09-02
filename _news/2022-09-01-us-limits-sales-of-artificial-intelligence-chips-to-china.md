@@ -356,6 +356,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Nvidia gets US nod to export key chip H100"
+    excerpt: "US chip designer Nvidia Corp, a key source of computing chips for Chinese companies, announced late on Thursday that \"the US government has authorized exports, reexports, and in-country transfers needed to continue its development of H100 integrated circuits\","
+    publishedDateTime: 2022-09-02T15:33:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202209/02/WS6311570da310fd2b29e758d4.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202209/02/6311570da310fd2bec9f67af.jpeg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "NVIDIA and AMD ordered to stop selling AI chips to China by US government"
     excerpt: "A new license requirement by the U.S. government prevents two of the world's largest chipmakers from selling certain tech to China."
     publishedDateTime: 2022-09-01T13:30:00Z

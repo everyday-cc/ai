@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-30T05:00:00Z
 originalUrl: "https://www.army-technology.com/news/revealed-the-aerospace-and-defence-companies-leading-the-way-in-artificial-intelligence-2/"
 webUrl: "https://www.army-technology.com/news/revealed-the-aerospace-and-defence-companies-leading-the-way-in-artificial-intelligence-2/"
 type: article
-quality: 28
-heat: 28
+quality: 30
+heat: 30
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/08/zcpsR-1038x778.png"

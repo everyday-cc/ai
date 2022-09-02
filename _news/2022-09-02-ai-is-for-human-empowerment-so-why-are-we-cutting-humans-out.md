@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-02T12:30:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/02/ai-is-for-human-empowerment-so-why-are-we-cutting-humans-out/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/02/ai-is-for-human-empowerment-so-why-are-we-cutting-humans-out/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

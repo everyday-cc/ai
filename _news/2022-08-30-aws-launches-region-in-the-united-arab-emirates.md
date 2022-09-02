@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-30T06:27:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-economy-amazoncom-inc-d9b9452aac444bf3821796b7f621f354"
 webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-economy-amazoncom-inc-d9b9452aac444bf3821796b7f621f354"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Associated Press

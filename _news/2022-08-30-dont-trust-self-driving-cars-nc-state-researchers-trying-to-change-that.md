@@ -84,6 +84,15 @@ related:
       name: Manhattan Institute
       domain: manhattan-institute.org
     quality: 4
+  - title: "Self-driving cars roll around Austin"
+    excerpt: "Earlier this year, autonomous vehicle technology company Argo AI launched its driverless operation in Austin. Argo AI public policy and government relations manager Sly Majid said these cars are"
+    publishedDateTime: 2022-09-02T12:16:00Z
+    webUrl: "https://www.kxan.com/news/local/austin/self-driving-cars-roll-around-austin/"
+    type: article
+    provider:
+      name: KXAN
+      domain: kxan.com
+    quality: 4
 
 secured: "S8fPEEiKcvN8o4GALl5kI23eaj+Choap0qgyJ+sJ+QYcuTyvMkWiuHR2obvZW9GLHBfZRE1gn3QIQBxI0d0s+F85r/DJa/MCd9zEfcY66unmF4GDdn9uhfq/Umwrdrvc70GmtKH37rdVb6TUonlTplQeniBVUmzuJ4XAON9aG07DMHN3UjKjiZAQ1rt9HsOfbGojx7nL2+QgxHBgCeSnvyKLC09QQkshp790GoZkdHFhLTua13ranekcqnTVzTXc5wH44k19fRfE2Q3E9sIAHpG/OCOJoM5/qLfZka2SIW4lC+8IW5djc1fx9rNYn06BHAeoK9Ddkhu6E7d/y4XmUiBwHo2LUeSoBEb/SMCawQGnCGKlllzv+SDiUPk7OdKyETFn142YUCjusQrCUAhjbQPnvRwHtKhDTN36pdGiv0Bnx0lt87SriMIL16a6LdaiH6ADBvBNvMFy/6G2er9R6PtyKcPf4pskRpeVl0r++24LZXmxv4XLL/HfSN08foaNUui0fk6RCStyQfxfkUm7AA==;WIvyqvxH8kEwMhyBWQcEgw=="
 ---

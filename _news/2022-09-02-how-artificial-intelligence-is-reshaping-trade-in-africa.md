@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-02T12:54:00Z
 originalUrl: "https://www.cnbcafrica.com/media/6311746386112/"
 webUrl: "https://www.cnbcafrica.com/media/6311746386112/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: CNBC Africa

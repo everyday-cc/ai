@@ -31,7 +31,7 @@ related:
     provider:
       name: Army Technology
       domain: army-technology.com
-    quality: 28
+    quality: 30
     images:
       - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/08/zcpsR-1038x778.png"
         width: 1038

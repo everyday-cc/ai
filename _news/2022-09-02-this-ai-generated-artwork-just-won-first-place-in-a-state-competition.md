@@ -90,6 +90,20 @@ related:
         width: 802
         height: 588
         isCached: true
+  - title: "Will artificial intelligence replace artists after winning a competition?"
+    excerpt: "Allen told the Pueblo Chieftain in an interview, \"I wanted to make a statement with artificial intelligence art. I think I did that, and I'm not going to feel bad about it.\" Allen sent in three pieces he made with Midjourney after trying out different phrases,"
+    publishedDateTime: 2022-09-02T14:46:00Z
+    webUrl: "https://www.artmajeur.com/en/magazine/2-art-news/will-artificial-intelligence-replace-artists-after-winning-a-competition/332026"
+    type: article
+    provider:
+      name: Artmajeur
+      domain: artmajeur.com
+    quality: 36
+    images:
+      - url: "https://www.artmajeur.com/medias/hd/s/e/selena-mattei/blog/302768718-471040697999512-6820767108283761749-n.jpg"
+        width: 1000
+        height: 623
+        isCached: true
 
 secured: "gVrq8DjmguLa83XvJ4uy/fHmhPsBWq67ZU4dufqybBmMy8Q9FSWr10pG5LH0hmTRVekRKM0pJRpnFl/apENUTzvisUhhPbA9neZ0pmNP0+CQXBiqbJHUPRXPjh6TDlDgXs2lRf6s8ue4usZ9GCEbE072/CM4NaeqZGW1pK4ntBx0RjE1PTrdaIsCrycyqeMMtnV716Qce/aDPZBOL1Jq8CS9PY4vDcJCd3peshNNiNE1nWTyMhPDwQtZsNtbB+O6AI2SMZd1GqCxH0GwH3Qhb1NixAPba7jOCOhn0ZOKUGU6Lal2J6k+5K/h2mgkFBRLOkwu9v9NNAl3kZqgwwLas5DFBjfKE2z3mwbZQsLomoM=;ZK0a5gk/tZ6zVMp6LimErg=="
 ---

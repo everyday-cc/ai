@@ -9,8 +9,8 @@ ampWebUrl: "https://theconversation.com/amp/metas-ai-chatbot-hates-mark-zuckerbe
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/metas-ai-chatbot-hates-mark-zuckerberg-but-why-is-it-less-bothered-about-racism-189657"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: The Conversation
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meta's AI chatbot hates Mark Zuckerberg, but why is it less bothered about racism?"
+    excerpt: "It was all quite predictable, really. Meta, Facebook's parent company, released the latest version of its groundbreaking AI chatbot in August 2022. Immediately, journalists around the world began peppering the system,"
+    publishedDateTime: 2022-09-02T14:53:00Z
+    webUrl: "https://techxplore.com/news/2022-09-meta-ai-chatbot-zuckerberg-bothered.html"
+    ampWebUrl: "https://techxplore.com/news/2022-09-meta-ai-chatbot-zuckerberg-bothered.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-meta-ai-chatbot-zuckerberg-bothered.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 53
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/metas-ai-chatbot-hates-1.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Google AI Chatbot Now Open for Public Testing"
     excerpt: "Registrations are open for early access, with AI Test Kitchen serving rotating demos centered around cutting-edge AI technologies"
     publishedDateTime: 2022-08-29T13:06:00Z

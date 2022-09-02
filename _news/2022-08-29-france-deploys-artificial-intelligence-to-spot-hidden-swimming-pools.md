@@ -88,6 +88,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Sun West unveils NFT loan powered by AI technology"
+    excerpt: "Sun West has unveiled the latest version of its AI platform, which enables it to convert property-specific home loans into tradable NFTs."
+    publishedDateTime: 2022-09-02T14:59:00Z
+    webUrl: "https://www.housingwire.com/articles/sun-west-unveils-nft-loan-powered-by-ai-technology/"
+    type: article
+    provider:
+      name: HousingWire
+      domain: housingwire.com
+    quality: 39
+    images:
+      - url: "https://www.housingwire.com/wp-content/uploads/2020/07/AdobeStock_302675535.jpeg?w=1024&#038;resize=540,275"
+        width: 1024
+        height: 678
+        isCached: true
   - title: "France uses AI to spot (and tax) undeclared swimming pools"
     excerpt: "The program found more than 20,000 undisclosed pools, brought in $10 million in extra tax revenue and will be rolled out across France during a record drought."
     publishedDateTime: 2022-08-30T02:37:00Z

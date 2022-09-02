@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "How The Speech and Voice Recognition Market Will Boom In Coming Years And Which Region Has The Highest Market Share?"
-    excerpt: "The speech and voice recognition market size was valued at USD 6.9 Billion in 2018, and is projected to reach USD 28.3 Billion by 2026 growing at a CAGR of 19.8% during the forecast period. What Information does this report contain?"
-    publishedDateTime: 2022-08-29T05:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/how-the-speech-and-voice-recognition-market-will-boom-in-coming-years-and-which-region-has-the-highest-market-share-2022-08-29"
+  - title: "Researchers propose new and more effective model for automatic speech recognition"
+    excerpt: "Popular voice assistants like Siri and Amazon Alexa have introduced automatic speech recognition (ASR) to the wider public. Though decades in the making, ASR models struggle with consistency and reliability,"
+    publishedDateTime: 2022-09-02T15:45:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/963671"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 34
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/ff580ddf-2490-4f58-a063-d58988bd9449/Rendition/low-res/Content/Public"
+        width: 700
+        height: 317
         isCached: true
 
 secured: "hxIylI9hNhkggyLjAkqYKK38lVhKAMv5vSlTAmbujnWWO2Fc0GKRzEC4XnkByQEO+8Sb47igCgtT8gqEDXBdjprZYF9//vIEWVuIwMm/npL93VOXZH1KVX/J+hWQG2UZM/K9IdCx/mjqfOlEYV+I8jD74GMS7MR+YEQqf0g4h3mFSUIxoX637s5g4Xe2IyQeR1hX04I+bB7tSiGYlFRLr/ACwXYwgQ3oDV7zMWfWxD91Vk5JvCnrwyfEV5FaON2Z8yxehSbmteXyoxMcXiuC+mEAoEwULV2E0sMMh5r8ZBMsonYdLBMGrPjFwwy4lR1nPztQ7yxiJ/+gHH+YfYwT2K1vCHaSlAK5a1maOtkOcOI=;5ZJpc30vPZmlYDL8btO5xg=="

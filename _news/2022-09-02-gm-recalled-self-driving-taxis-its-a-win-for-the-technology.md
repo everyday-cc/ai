@@ -116,6 +116,20 @@ related:
         width: 750
         height: 503
         isCached: true
+  - title: "GM's Cruise unit is recalling self-driving cars after crash"
+    excerpt: "Cruise said in a rare circumstance, the software caused the autonomous vehicle to hard brake while performing an unprotected left turn that it deemed necessary to avoid a severe front-end collision."
+    publishedDateTime: 2022-09-02T09:17:00Z
+    webUrl: "https://europe.autonews.com/automakers/why-gms-cruise-unit-recalling-80-self-driving-cars"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/CRUISE-MAIN_i_1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "4VUyvZI3w1M9akenfJRdDyG5Y1piPDLH3SZAIGKMLqfIbaqHQodfzkdwwBI4AhPfGToOOycgQChznrm2tvKdvLyZEUVMMx8tRxHLYNPhWBmSCxSN/CsB0EjuI8WNCz9crA+XERNgf+QmGU4LhAfsqbCmQwaoOy0irGUlOQNT8HDSfwX6SxKReq1jfzKgHmn/1dLNJdmvkXMpI7DsYfmLAZL0jM0hV6rOwX6UXt3L3bp1uiJm41Q18eu2EXwkQBSeQ7UpTU9/7Mlxurz24lIpt/VOW6t6HPpC8CBv3UK7ehB1pLDcL2yxUEjlZWcg09VkyYrChTrHgtqe7Iox/O6e7NAQOMI8dgK7QkYTZQtmPTmZF/jtFr/3s4sEqHQqnVeq1zQBpxDKFskSRCHrbv/jgONhydV+8wfEdToIQtZ89iiL4AWpBA2BQ+YCh6pqCac+aVrotJG8f9M7kngp61gXBUyFlKxEicxXv+JZ6NMlx86WvRZjGLnHWtwdEyhLRUQznlt4PdBc6kQOzQQnoU8ZUw==;fLjJ/ctolAw3iiHuYqNnCg=="
 ---

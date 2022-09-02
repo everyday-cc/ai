@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newindianexpress.com/cities/vijayawada/2022/sep/02/teach
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/vijayawada/2022/sep/02/teachers-union-sayto-new-face-recognition-appeducation-ministersatyanarayan-2494005.amp"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Teachers agree to attendance on face recognition app, says Botsa"
+    excerpt: "VIJAYAWADA: Education minister Botsa Satyanarayana on Thursday declared that government teachers in the state have agreed to use face recognition app on their mobile phones to mark their attendance. On its part,"
+    publishedDateTime: 2022-09-02T11:59:00Z
+    webUrl: "https://www.deccanchronicle.com/nation/in-other-news/020922/teachers-agree-to-attendance-on-face-recognition-app-says-botsa.html"
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 19
 
 secured: "r6EO/b+U96aivWaXgUh4tvM7hS6S8m7AX5q1vhfT+9CwWUBpRIllT7XtYixE9tv4i9+mfuaU2LXYuq7wGUEGOuzo3AZyuVkrL91WMTifDW0QWa5X9rGWeU9i0cgJ7JLllle6IEDLn0llnOv8XzUv4fRRi1577lpCL2ycdxgVQYbgYZ/MDrkFnVzzVwXhV2/Ho7Iv4ui97XBgB+tZY7Vq2pF4+47kuQ3AzXXTsjKZGktc6Jo6NoUWT9znT5DReni5QFaZwANU84IO/jA92jcfbDq2ZIbaUIj6vlj4y4CSQUaK9752we2saWEHrEsU5yKwih58A50Pztc/dkY1zEmRYCjMylmcUnM26WaYAA5KL8+56WFOldXaJtRvfEbtCfY2p6ChF8s8DbLjCAs/XN1bTBSZyo6kscVNbDyU0y2PIpJEqdOZrta4HSeGTS8nxvEMBGE5aWTpZ2A84NL0UIp5k/emCkEyI+Yd9X60gE2tB0Tj2PaYUQtMEMp4NTkF/LSPyo7NI/h7g1EQTcSWPAufEQ==;9eMzovP/kbXrF7lzYYAkEg=="
 ---

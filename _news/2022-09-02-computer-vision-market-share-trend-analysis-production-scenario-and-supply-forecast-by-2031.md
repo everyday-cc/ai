@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Chipset Market Growing Demand, Industry Synopsis, Opportunities and Analysis 2022 to 2028"
-    excerpt: "This report studies the Global Artificial Intelligence (AI) Chipset Market size, industry status and forecast, competition landscape, and growth opportunity. This research report categorizes the global Artificial Intelligence (AI) Chipset market by companies,"
-    publishedDateTime: 2022-08-28T20:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-growing-demand-industry-synopsis-opportunities-and-analysis-2022-to-2028-2022-08-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Drug Discovery Market Size, Set for Rapid Growth and Trend by 2022-2030"
     excerpt: "The artificial intelligence (AI) in drug discovery market size is expected to reach USD 4.13 billion by 2030 according to a new study by Report Ocean. Request To Download Sample of This Strategic Report:-  Report Ocean presents a new report on artificial intelligence (AI) in drug discovery market size,"
     publishedDateTime: 2022-08-31T04:57:00Z
@@ -75,7 +61,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -155,6 +141,24 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automotive Artificial Intelligence Market Share, Size, Growth, Future Trends, Key Players and Industry Analysis 2022-2028"
+    excerpt: "The global Automotive Artificial Intelligence market is segregated on the basis of Component as Hardware, Software,"
+    publishedDateTime: 2022-09-01T14:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-share-size-growth-future-trends-key-players-and-industry-analysis-2022-2028-2022-09-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
+  - title: "Speech And Voice Recognition Market Size, Trends, Revenue Share Analysis, Forecast Till 2030"
+    excerpt: "North America emerged as the largest market for the global speech and voice recognition market, with a 33% share of the market revenue in 2021. NEWARK, UNITED STATES, August 30, 2022 /EINPresswire ..."
+    publishedDateTime: 2022-08-30T11:49:00Z
+    webUrl: "https://menafn.com/1104780974/Speech-And-Voice-Recognition-Market-Size-Trends-Revenue-Share-Analysis-Forecast-Till-2030"
+    type: article
+    provider:
+      name: MENAFN
+      domain: menafn.com
+    quality: 0
 
 secured: "WnORFVargheiFClyxlX9Xspk5pZRs04vol5VwENpMPvxmmgBAzw6zgaV8ArQ/7YP6zuxkcQHYLoL4Zqc5oo1/N05ebe96KAktUFrnhWtAw7reOhXt0ceZgbJAhO0CrTFtFqs3PtVHR0rg8xOJFrq6j5X5OKsE/cJonOXsUQXGuWMf44Sgfai1gQJBb9+KGPmHAx4Rrl7BerESDpp+twKZj2mR1LbvT1oaOWZ7auuuTmamsfeBTARprz27vR6Nk4fEUCg/+MZLcdSzgEzuvW5abES5+jcsdNRlRmay++IoU3HJ7/wCwPHiKGRlUUHzK7K73anF8klobUzWK+Dwz3Fzmkn8aemxRz/Yf08t9X7MR/AHzRD9GNuh+b1nGbymkz+dUX43EU/8iy5NgaC1bwtxxTiptkC9QYcwFSd84lpnZKwtfNje/p8uVlY2Hd1PoJ7FBPCmU35s/e8vTvCkyb1avpvDxyVOLYsVC0R1YmxzP3zAr2JeWJr/rD01lf7kHX3ywGYLtujlwmfaLYMEKXXXA==;1Hs+Omc3GWt/38OteG8LgA=="
 ---

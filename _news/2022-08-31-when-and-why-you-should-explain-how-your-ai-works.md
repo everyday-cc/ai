@@ -7,7 +7,7 @@ originalUrl: "https://hbr.org/2022/08/when-and-why-you-should-explain-how-your-a
 webUrl: "https://hbr.org/2022/08/when-and-why-you-should-explain-how-your-ai-works"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,36 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "How artificial intelligence can explain its decisions"
+    excerpt: "Today, when an algorithm identifies a tumour in a tissue sample, it doesn’t reveal how it arrived at this result. And that’s not very trustworthy. Researchers in Bochum are therefore pursuing a new approach."
+    publishedDateTime: 2022-09-02T14:04:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/963644"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 54
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/bc5e8a87-496d-4021-8859-1d7a822ea861/Rendition/low-res/Content/Public"
+        width: 700
+        height: 467
+        isCached: true
+  - title: "How AI Distorts Decision-Making and Makes Dictators More Dangerous"
+    excerpt: "But thinking about AI in terms of a race for dominance misses the more fundamental ways in which AI is transforming global politics. AI will not transform the rivalry between powers so much as it will transform the rivals themselves."
+    publishedDateTime: 2022-08-31T04:21:00Z
+    webUrl: "https://www.foreignaffairs.com/world/spirals-delusion-artificial-intelligence-decision-making"
+    type: article
+    provider:
+      name: Foreign Affairs
+      domain: foreignaffairs.com
+    quality: 41
+    images:
+      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2022/08/23/AI_art_1.jpg?itok=Jrwk7Ka_"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "aDx++G4WFSER17QpWWI1UqyUWYpbvrqPCfOrfQ6U8aSnqIAMnZA7yh0kOzgpgc6OehIGRbBDjM5UO1y8c++IfcMLAmN9IqBPnlNlfxD+YuJD4ixrNyAganBpXVGnvtJ7raD5I+/LtSLMIO5WJIIJlV1ryPopj5bsGfH1Bo5DYEF7YROdohapOMsER4O/Lj5oH6zYltKgxQO4At8eFtStgc47/vegooX33I9cXenObrKHhd7wDES1AP45U9qLapzAfFFXwun5pZnHu6PaP2sWM88xf1Z63SL9q20f/WUYj3Cq/oIeLQ2PaWuOn/xSSjKJ48WNPCiSCdwqY/HxTUm0R5+mUyVgONGT5k7gdbSM+sPBlQi5L3sFL9ahf990em4zCziMmcZ9iUHHHavoL7tZzjeynPIfZ9Ie5sleeVlUa5wsy8JxbyvtJ+ndFhyK8tgrUaVkFtZe/DVcuwu0gnJwMjkKwOJ5+QB0QnCsMp9hI+fhZdk6v9sl4nLNoUe2/PiMpE9uBeJ8xikp+9a9PgNzVw==;y+/U3xHqtFicskP117uNJQ=="
 ---

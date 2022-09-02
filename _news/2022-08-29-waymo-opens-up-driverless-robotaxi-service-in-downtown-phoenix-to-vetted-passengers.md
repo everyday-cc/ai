@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/08/29/waymo-opens-up-driverless-robotaxi
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/29/waymo-opens-up-driverless-robotaxi-service-in-downtown-phoenix-to-vetted-passengers/amp/"
 type: article
 quality: 98
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -87,6 +87,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AutoX Tests Downtown Shanghai’s First L4 Robotaxi Service"
+    excerpt: "To reach a large-scale standardized implementation of robotaxis, it’s essential to have an efficient central operation network,” AutoX founder and Chief Executive Officer Xiao Jianxiong told Yicai Global."
+    publishedDateTime: 2022-09-02T11:45:00Z
+    webUrl: "https://www.yicaiglobal.com/news/autox-tests-downtown-shanghai-first-l4-robotaxi-service"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 19
 
 secured: "2wEYNys916Ct+h84dvVpLdUVYOYmsf/F6w+LyJItUr/DDKElm/r/+1JwCdCyMG8pGFJ/JSiGXYjR+0ANmp4BAc63PQ2W+HhYEOEQBhi72AVoL899CIiphuvFaKitVWb22H1sSmKJlfLzfLJOOamZkzEfQJG9hisTv69J19dU0tBUjd3r/VW6rggawRcGsst/i+odB/WTmKxzn6Hf4w8vdIeMZcKRXk+onDcEnoj5WnvH3SfeW4PKFW51TxJSFVpsFuT7pQwXZq3jUVRS8HCMGbcaFA49NIIq4jUX4mnfvi1e/cMXOqW/d4d0fMbcwAoK+7O0Yx5lByu+4oBObOPhj60yaCSXv/nT9ncJV2svS+s=;2jbYcaHgqxR7iDddJ4Dlug=="
 ---

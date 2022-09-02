@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-02T13:07:00Z
 originalUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/fundings/2022/09/02/southwestern-pennsylvania-wins-build-back-better.html"
 webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/fundings/2022/09/02/southwestern-pennsylvania-wins-build-back-better.html"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: The Business Journals

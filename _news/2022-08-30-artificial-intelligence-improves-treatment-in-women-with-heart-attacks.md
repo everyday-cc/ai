@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-29T19:01:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2022/08/220829112918.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/08/220829112918.htm"
 type: article
-quality: 49
+quality: 51
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 related:
   - title: "Study finds Artificial Intelligence helps in treating Women with heart attacks"

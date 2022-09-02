@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/in-the-fac
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/01/in-the-face-of-recession-investing-in-ai-is-a-smarter-strategy-than-ever/amp/"
 type: article
 quality: 86
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -85,6 +85,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 27
+  - title: "Why AI is the solution for IVF accessibility"
+    excerpt: "By augmenting the embryologist in selecting the most viable embryo, there is potential for AI to help a patient conceive in one or two cycles, reducing the inherent cost of IVF therapy, and making the treatment more accessible to diverse populations that often don’t have ease of access to treatments today."
+    publishedDateTime: 2022-09-02T13:00:00Z
+    webUrl: "https://medcitynews.com/2022/09/why-ai-is-the-solution-for-ivf-accessibility/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 17
 
 secured: "fdiOo2L+cdtC6/VOFstA/46r0Ci4r/xf+7cHgE1Sd8bw513/TpjYZtsYrx/SrKfnS9EHcgGfX8sN3t9Cx3k5fsrQ+jcFIFrLu1CWxkPqOSmbhrHDmwmPMpzFgjLWeFUsZOpJOrbT4P+KVo31I+2MmEJ8Wu/Uz4tsToDRH3USZ3/2Yf34yt4VhQs8nTgc77KsCiWc/Un2/X7lLndvdCZ2/p0yekKv2ZSRLLiYWORblBFg4cGem70KinQWzOT7iTcXh5UhLUWQd2pu7nTdszbd7RsMQa44JQ4PyjElU4fxbs93o/WFqMkWeJRftZRCyNILqaCTZmf5YPtGSAIw9bwqGyZBwbr0Kwd4zPR1AcvNoRt1LMk6vf2KIXBh+2+fEcWoMP9zG+lQCZOXf+nDmDKrxzGFZZa6ss/zRb4bupF1K/vkqfTC1t34iAXLlYKSJwq09GtxCXfAo8a0eUqxNVICU2dcSjKosR86s8CNaZasW6OXDPzIkGB+ZdoS77XXvrF25O6S6Pw8quti2q7ScUcdTg==;8b2lwdjJo1kV/G4sVklH8g=="
 ---

@@ -84,6 +84,15 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Why AI is the solution for IVF accessibility"
+    excerpt: "By augmenting the embryologist in selecting the most viable embryo, there is potential for AI to help a patient conceive in one or two cycles, reducing the inherent cost of IVF therapy, and making the treatment more accessible to diverse populations that often don’t have ease of access to treatments today."
+    publishedDateTime: 2022-09-02T13:00:00Z
+    webUrl: "https://medcitynews.com/2022/09/why-ai-is-the-solution-for-ivf-accessibility/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 17
 
 secured: "58NEP3/NhiV05VC3JUQaJmazMdDg4ysdlaOOHVr8jjlftax56CqKyAPvhgszDx+yyfm+fqlipwmcWOW8PRJkn4IRqj7t6gELLMDXHXTuW3hIDm6QgIWlaYB4YpUTpNT5KZP1rJYoCah0RMR8+i9DQz+ym9Aisw0pgp2hYR11g49oOB+JCsfvLsK46LvrvGqRfQKihRxDIQNOl+Q5uV7j8ozRVH1iTnGvz1nhHvtLOMAkEp3W1WcRHVZv7QXGSrtUyG3MgZeAcZdvra7Q5I/LoCcq92nyly8uGsvkHsu+xSSVNy7vuOq33j2LigGTewNfqerjxIaxLBmiMFZ+z2KpHI7OTyBmMZkLGo8AS++PxGDWae4wKS1SIlVV0q3r7lyXdeT9CnUyOUBDuRgUdw/lfJQydbkkKuDZRQOFNaKA/2JXaBdySRRy48rKmK2gt0qQV2xktW/CGH+AAXWHEzy9OyYDqTiEA33g/uuh56HIyk+C1Den6xTdpAQZoWkiZ6ttzWgMvNjpHotzHEoRzz+kvA==;ymoPPc4ug22xH2mLs78mOQ=="
 ---

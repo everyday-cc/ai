@@ -108,6 +108,20 @@ related:
         width: 750
         height: 503
         isCached: true
+  - title: "GM's Cruise unit is recalling self-driving cars after crash"
+    excerpt: "Cruise said in a rare circumstance, the software caused the autonomous vehicle to hard brake while performing an unprotected left turn that it deemed necessary to avoid a severe front-end collision."
+    publishedDateTime: 2022-09-02T09:17:00Z
+    webUrl: "https://europe.autonews.com/automakers/why-gms-cruise-unit-recalling-80-self-driving-cars"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/CRUISE-MAIN_i_1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "GM Recalled Self-Driving Taxis. It’s a Win for the Technology."
     excerpt: "Thursday, General Motors self-driving robotaxi company Cruise recalled some of its cars because of a risk of crash. It feels like a set back for all car companies with lofty robotaxi ambitions. Auto makers, including GM (ticker: GM) and Tesla (TSLA), hope ..."
     publishedDateTime: 2022-09-01T19:58:00Z
