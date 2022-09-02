@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-azure-outage-cont
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-outage-continues-for-some-services-relying-on-ubuntu-bionic-release/"
 type: article
 quality: 97
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -89,6 +89,15 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Self-driving tech company says a sale to Apple or Microsoft is possible"
+    excerpt: "Chris Urmson, who co-founded Aurora after running Google's self-driving car project, also outlined cost cuts and floated measures including taking the company private, spinning off or selling assets and pursuing a small capital raise in a memo labeled \"board discussion pre-read\" dated Aug."
+    publishedDateTime: 2022-09-02T19:07:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-tech-company-says-sale-apple-or-microsoft-possible"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 21
 
 secured: "NKWruAHl7Ip4LS/UzytvxUjaAPVYSjs9bLRxiqe9UjTsIkzMtutxQVK85sBly4IiAH1Uao/Sq3HBYh+FpJPfe+BCk2rG7tOeACXeohejDG5zsbV/hLfH0VMUonu8q065JZ2WgaejwxnMOJVixR7Sk/Pkhxf7nrIMT3SPlyRpDoFDOSn7WacYz971SF47fxB9SHdXENLdWf2QVbntWeCrzhcnx1+871ittG8S+99EQL55IBiozuXg0cvunkC9aVT1DxHF64RHAiQ7vdIjdsXr2g4z9q50ORD2QPS7cNYTIG6tCMWQBUA3qDuHkk4cErRxZpzU0TUvzQza/O4GPU8+Hzg8IokMslo+FoIc8BQUrws=;NGbiNiCkHvMfs5Ioas7qfg=="
 ---

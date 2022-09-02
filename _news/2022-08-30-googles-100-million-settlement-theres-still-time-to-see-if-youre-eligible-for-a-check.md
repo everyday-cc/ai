@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/googles-100-million-settlement-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-100-million-settlement-theres-still-time-to-see-if-your-eligible-for-a-check/"
 type: article
 quality: 64
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: CNET
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Google's $100 Million Photo Privacy Settlement: You Could Be Entitled to Receive Up to $400"
+    excerpt: "Google agreed this spring to settle a $100 million class-action lawsuit alleging the search giant illicitly uses a facial-recognition program to sort pictures in Fa"
+    publishedDateTime: 2022-09-02T18:23:00Z
+    webUrl: "https://www.cnet.com/personal-finance/googles-100-million-privacy-settlement-you-could-be-entitled-to-receive-up-to-400/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 24
 
 secured: "qF1ZvQCHPhdpxMWGLDzoLXQsdvFiJhl/F67/T0OZJxEIxlfWENv8WASfKrDmREoH8Sgxx+Leoko7X1+zSQ05p5yLM9EABXaIK4UfmYf+KB4TzwiwLKdZPnM8J1zCRaR/QKQ4zniCD1qZvgOKUpY6p/wmIYZyIvnk0T5JCgE08gsYKUry6yMu8B5hlInqWNGyHQdCVQnkOTDWs++SYnumR7xWCj2jC/KMRHyY9c7myHTKbtzBjTv1pWGXr5Ot/5ZTlue2IxGsKKVOiciZNFYbhbKEZIL9NaanZN0thFDUCahyLjcYP/DewoMA9tWJZQn/1uZlQDgGr/WLC3IvNsfaXhNWYZsFL5NHqNQk+mTkv61AYzkibXx7ZzAjf6+wFL4AkCCQz+VJJf+ggiZjhZJxh9lsx0LeSrmP0HnVt6trzN25DkFyr/USxVCWN9/3XGUK+pqHdkaBkrHDhxDsfATJpPMzU9km63v4O3bVn1TNT+bsehpL50KtgAG7wTfJOiCirI2oc3YfBBkzt4ihDcKe4A==;MUEfFXp8T/Op3Pwb0v3Zag=="
 ---

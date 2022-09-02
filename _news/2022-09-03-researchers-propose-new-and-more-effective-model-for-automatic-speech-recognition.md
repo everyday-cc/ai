@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-09-effective-automatic-speech-recog
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-effective-automatic-speech-recognition.amp"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 700
         height: 317
         isCached: true
+  - title: "Researchers suggest more effective way for automatic speech recognition"
+    excerpt: "Popular voice assistants such as Siri and Amazon Alexa have made automated speech recognition (ASR) available to the general public. Despite decades of development, ASR models suffer with consistency and dependability,"
+    publishedDateTime: 2022-09-02T18:43:00Z
+    webUrl: "https://theprint.in/features/researchers-suggest-more-effective-way-for-automatic-speech-recognition-2/1114253/"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 19
   - title: "Global Speech & Voice Recognition Market Research Report to 2027 - Featuring Amazon, Apple and Baidu Among Others - ResearchAndMarkets.com"
     excerpt: "The \"Speech & Voice Recognition Market Research Report by Delivery Method, Technology, Deployment Mode, Vertical, Region - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2022-08-31T11:33:00Z

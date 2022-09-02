@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-30T22:02:00Z
 originalUrl: "https://www.seattletimes.com/seattle-news/chinook-indian-nation-members-rally-for-federal-recognition/"
 webUrl: "https://www.seattletimes.com/seattle-news/chinook-indian-nation-members-rally-for-federal-recognition/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Seattle Times

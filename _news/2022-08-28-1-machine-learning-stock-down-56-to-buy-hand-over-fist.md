@@ -5,6 +5,8 @@ excerpt: "Machine learning is a subfield of artificial intelligence, and it's pr
 publishedDateTime: 2022-08-28T11:15:00Z
 originalUrl: "https://www.nasdaq.com/articles/1-machine-learning-stock-down-56-to-buy-hand-over-fist"
 webUrl: "https://www.nasdaq.com/articles/1-machine-learning-stock-down-56-to-buy-hand-over-fist"
+ampWebUrl: "https://www.nasdaq.com/articles/1-machine-learning-stock-down-56-to-buy-hand-over-fist?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/1-machine-learning-stock-down-56-to-buy-hand-over-fist?amp"
 type: article
 
 provider:
@@ -15,6 +17,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "lq5CiHBGdsShnPB+lq4UhCqyN3L6VDNiG6z+4irCrpIs7NfwhZa67KXXBEU5SaIACmaOyz28ZUBgkFlwNYJiMZj6iFT3EllV1+1IrBkx9NodVd01mzyNhNwkbuCsY0EGWt0GoMCT8KUmlfJ+ved1G6gFifkjA3gqZslB62Ce56yFhxy54dnG+OycUi5OJaFYiv665pIaM3jlAf5NN8yoW7TTzOf2+ugyzz1JI97Mz85zTqH10+k761LMYt5JrVNqxjGeTrm49E9Ux5Lmi8Nz3OueLarNVp0C/m3ZJZSYn3LSRBDkMahpsZ9hV7IDSUICUcn7x04z7Ewd+WzlVChkNO8Y9HQ4XjYlotwvmJvg59xzV5sSCcl/0yAnEGQJtTF4sZnri3al1QdUkFVffJ0fGtzUCLVgT44zdre3QVim4z9dyIKFsG0ZhKe9orBCx1Sx6Dp5bDcVzpqzujUo1zXnz7js2H3dXsfsA82Q929RRWVBy3tIYAyR63zGqGD+5Ve3YO3zYd6L7lUKAYFo1pZQZQ==;nx2sISmkId6nKYcAYkKQNg=="
+secured: "i6WM0I6TNm4UrQbq1C+lmzgc4R35kbggWUuhei/sjIRjnEqIq2p4MnDCqJQjisUApsszzceLbzls80nAUU/5ljyrDKeuiTyYxWLBvE9ZMXiYrVmIQfMmFnnM0GbHsERJOmxbxtqYNEmtuITkVGutpWRROMfqQZN/p2Vpp5m7OymVS4GqCObgZzaD6n+c6FeT3NSFOJQiedXvRlAwaQZFnb8Z7eN+bIXrDRqZ0sh/ZU6iov0v00ltNUuzG7kuqtB+wzu8ycegNMUyxIaHjsUF+MAU7lELLH13ch1sMCxypVs2JftnEzG1/gbiqUG9q2ff8oCK5dgG5XnX0AJRU4Y3nA1lvY9GZ0qHsCjHDgZxjgEisliqctqTMNbiF8Nv1qkwcThrhq3HFpGsy/FZniRf6mGJPk+ChmbTw3kdsJg5tolnLHq+2CA/NM2KEt9xsQ4yV1UWuP6SXvkQ1TTPTphgPZ6wrvXLz+AMyimavp7B8t/9/x8WIU9DOSAHkz7gOhJyuJ5m2qVm4Il3YLdW77SWWA==;RbWof1Jcto8ovjuVrOl9vA=="
 ---
 

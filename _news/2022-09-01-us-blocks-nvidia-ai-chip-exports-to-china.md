@@ -2,9 +2,9 @@
 category: news
 title: "US blocks Nvidia AI chip exports to China"
 excerpt: "China has condemned a US move to end its access to high-end processors made by chipmaker Nvidia, after Washington stepped up its efforts to restrict exports of cutting-edge technology to its trade and military rival."
-publishedDateTime: 2022-09-01T13:43:00Z
-originalUrl: "https://www.ft.com/content/7005d5d2-b02f-4092-a35c-8b44889a5f90?curator=upstract.com"
-webUrl: "https://www.ft.com/content/7005d5d2-b02f-4092-a35c-8b44889a5f90?curator=upstract.com"
+publishedDateTime: 2022-09-01T09:37:00Z
+originalUrl: "https://www.ft.com/content/7005d5d2-b02f-4092-a35c-8b44889a5f90"
+webUrl: "https://www.ft.com/content/7005d5d2-b02f-4092-a35c-8b44889a5f90"
 type: article
 quality: 54
 heat: -1
@@ -189,9 +189,9 @@ related:
   - title: "US blocks sale of some Nvidia and AMD AI chips to China"
     excerpt: "The US government’s effort will restrict Chinese AI researchers using the chips to train machine-learning models."
     publishedDateTime: 2022-09-01T14:42:00Z
-    webUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.html"
-    ampWebUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.amp.html"
+    webUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-chips-to-china.html"
+    ampWebUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-chips-to-china.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-chips-to-china.amp.html"
     type: article
     provider:
       name: Network World
@@ -440,6 +440,6 @@ related:
       domain: arabianbusiness.com
     quality: 13
 
-secured: "v1xGc+GfFifJ56zuAXqvrXs1YbECMs4P7dEXK48QYjuRWpjCvezhTE10law3matHNtPYNRhfY2iVRs4lpIQJePB9mF3yx6W7HnNJ6+FgGxK9a/zxuAUdzeem6AGQeFLkD0iVbehOIKYDqqUkKEnsyaYAkAN73XSa4mt7AgI+lCZmR6uLwdYQqVi2luzpFGincm6K8WPn6seXyf8gD7JWZhj95rWHNmX53S9Fy2JEVwbxy9l8+ghE6iNhg3O2iLxDawMv84I4DPDO0uOq8leRnsSMEpDvgTMIz1lC01EPLVVYkPWl5gicxz5WR6G2PVOMmkwgSNDDZdzVif3GozcJsJaFeP7xIKhmvsf9yqPDBIkMDgTA1AbjoEb29gIe4SL8jPXppxvvL7AAIckfw0Ex1eLiggcWM4tF4pdOqLlv20wjz24+/ZPUr7F1Cs1wrO1TaNVy6pEp5gxMPmXNb59MM/qibMv5UoZlMVbrTzYPmSb9LqHdICSzlz15rjvyGxAXg8wblMeq5ECcMxIfeSBA2g==;rFGtULNhbi5pAAi8WhWu5g=="
+secured: "Z+nJ9ykDdd6NnPEQS1MvtGtUT24F4iSS0C3iAEgfgdDrFgpeD3H8siXP7lB9U1tXK2don8heKSTMnRpXOv688uVlg12SkfMI7RaqBEi4N/jYmCougxLWhV2hqtNy0C6HQui3ixnbXWP3otrKi4enyd71Jix9E/D6tY14ZQhSm12U7VpU4pLo9rVp7eRUtqHW5Rfop/Med63sRzlm/Z/y5NzGoZF81ZXEFUPh1bNI+rjWKmBFJKO4hFb20Km1nlg8toQUQVd1CnlZTzbL6tMdckN6loDz2EMod9wBmfTC7Z7nymEfqFCXra+szhMDXwmnU4oibZmwyYwLkqV98xBEGHXkyrQ5isCyljovFXEV1jY=;5nnDsAdz0WGpLgTmcOYDdA=="
 ---
 

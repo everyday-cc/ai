@@ -138,13 +138,13 @@ related:
         height: 720
         isCached: true
   - title: "AI in FinTech Global Market Report 2022: Need for Fraud Detection in Fintech & Financial Institutions Driving Adoption - ResearchAndMarkets.com"
-    excerpt: "The global AI in fintech market is expected to grow from $7.25 billion in 2021 to $9.13 billion in 2022 at a compound annual growth rate (CAGR) of 25.9%. The AI in fintech market is expected to grow to $24."
-    publishedDateTime: 2022-08-29T10:25:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-ai-in-fintech-global-market-report-2022-need-for-fraud-detection-in-fintech-and-financial-institutions-driving-adoption-researchandmarketscom"
+    excerpt: "The “AI in FinTech Global Market Report 2022” report has been added to ResearchAndMarkets.com’s offering. The global AI in fintech market is expected to grow from $7.25 billion in 2021 to $9.13 billion in 2022 at a compound annual growth rate (CAGR) of 25."
+    publishedDateTime: 2022-08-29T10:26:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-asia-south-america-0232c251b16047f18c094cc48e26a795"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
+      name: Associated Press
+      domain: apnews.com
     quality: 0
 
 secured: "zdWAz9Of1BCmN9Yz0NI0C4ZlZYKhEwNxGFmDpou8sVgDQ3zSCSO10/YpSxyCdJrDjP0YWm6lMXnpUX+ju0hBbYsTyRHUnduWk6lqd922PKkIDnbGEpV/NAifKQmMpYNWic7ikAvoXrlFcT1eeGestKYV0AAFc+FNMn2NM+yo2GhyYHVlmSm/o2WICZ2qJeuaPDdrPvgjVNAfq19slS0Vc1EdCHrkZOFHba2xkv96n1F9EpgDdm6EK6faPp8YowUkMEyGUDZ6OGPzdtZPrs9k1L03dggi2RZEIldaRf5LXTIVWgYMR2j8jKLYA5WhbcZjpQX10j9I3MFyejDWmWup5VzivdCLJFR6hkqtDKoKwwM=;PgkpaRFoefV2Q7BOuu4VwA=="

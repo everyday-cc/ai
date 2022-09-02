@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2022/8/29/23323593/waymo-driverless-vehic
 webUrl: "https://www.theverge.com/2022/8/29/23323593/waymo-driverless-vehicles-passengers-downtown-phoenix"
 type: article
 quality: 83
-heat: 123
+heat: 143
 published: true
 
 provider:
@@ -71,6 +71,24 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Phoenix Gets Driverless Cars (not Teslas)"
+    excerpt: "That's because Waymo, Alphabet's (GOOGL) self-driving division, has its driverless vehicles picking up passengers in the desert city's downtown. Kate Gallego, the mayor of Phoenix, went for a ..."
+    publishedDateTime: 2022-08-30T15:07:00Z
+    webUrl: "https://www.thestreet.com/investing/driverless-cars-picking-up-passengers-in-phoenix"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 34
+  - title: "Waymo Brings Its Driverless Taxis To Downtown Phoenix"
+    excerpt: "The Alphabet-owned company this week started picking up “trusted” passengers in the region using its driverless taxis, The Verge reports. These robot taxis come without human safety drivers ..."
+    publishedDateTime: 2022-08-31T00:00:00Z
+    webUrl: "https://www.androidheadlines.com/2022/08/waymo-driverless-taxis-downtown-phoenix.html"
+    type: article
+    provider:
+      name: androidheadlines.com
+      domain: androidheadlines.com
+    quality: 34
   - title: "Case IH Trident 5550 Applies Raven Autonomy for Driverless Spreading"
     excerpt: "The Case IH Trident 5550 is built to be a combination applicator—both liquid and dry applications—but now equipped with Raven Autonomy, the machine can also be run in either autonomous mode or manual mode."
     publishedDateTime: 2022-08-30T15:29:00Z

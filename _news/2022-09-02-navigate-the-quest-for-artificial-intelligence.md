@@ -38,6 +38,15 @@ related:
         width: 300
         height: 205
         isCached: true
+  - title: "AI is getting better at generating porn. We might not be prepared for the consequences."
+    excerpt: "AI image generators like Stable Diffusion are powering new websites that generate highly customize porn. The trend could have far-reaching consequences."
+    publishedDateTime: 2022-09-02T18:43:00Z
+    webUrl: "https://techcrunch.com/2022/09/02/ai-is-getting-better-at-generating-porn-we-might-not-be-prepared-for-the-consequences/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 39
   - title: "AIM Consulting Announces Databricks Partnership, Accelerating Its Ability to Offer Expert Implementation in Data and Artificial Intelligence (AI)"
     excerpt: "AIM Consulting, an Addison Group Company, an industry award-winning technology consulting firm, today announced that they have added Databricks, data & AI leader and pioneer of the data lakehouse paradigm,"
     publishedDateTime: 2022-08-31T16:00:00Z

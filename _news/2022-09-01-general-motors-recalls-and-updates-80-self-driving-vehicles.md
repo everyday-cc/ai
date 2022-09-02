@@ -94,6 +94,15 @@ related:
       name: Wired
       domain: wired.com
     quality: 34
+  - title: "GM’s Cruise recalls 80 self-driving EVs citing collision risks when turning"
+    excerpt: "General Motors’ self-driving rideshare service Cruise announced that it has recalled 80 of its electric robotaxis in order to update their software following an accident in June that injured two people."
+    publishedDateTime: 2022-09-02T18:33:00Z
+    webUrl: "https://electrek.co/2022/09/02/gms-cruise-recalls-80-self-driving-evs-citing-collision-risks/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 32
   - title: "Cruise updates its fleet's self-driving software after crash"
     excerpt: "Autonomous vehicle upstart Cruise has recalled and updated software in 80 self-driving robotaxis, according to a regulatory filing. Read more."
     publishedDateTime: 2022-09-01T17:30:00Z

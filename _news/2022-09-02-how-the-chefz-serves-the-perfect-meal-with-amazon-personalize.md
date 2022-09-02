@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-02T18:30:57Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-the-chefz-serves-the-perfect-meal-with-amazon-personalize/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-the-chefz-serves-the-perfect-meal-with-amazon-personalize/"
 type: article
+quality: 69
+heat: 69
+published: false
 
 provider:
   name: AWS

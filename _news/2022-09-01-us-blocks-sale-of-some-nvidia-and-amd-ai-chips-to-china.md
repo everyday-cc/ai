@@ -3,10 +3,10 @@ category: news
 title: "US blocks sale of some Nvidia and AMD AI chips to China"
 excerpt: "The US government’s effort will restrict Chinese AI researchers using the chips to train machine-learning models."
 publishedDateTime: 2022-09-01T14:42:00Z
-originalUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.html"
-webUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.html"
-ampWebUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.amp.html"
-cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.amp.html"
+originalUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-chips-to-china.html"
+webUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-chips-to-china.html"
+ampWebUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-chips-to-china.amp.html"
+cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-chips-to-china.amp.html"
 type: article
 quality: 74
 heat: -1
@@ -322,8 +322,8 @@ related:
         isCached: true
   - title: "US blocks Nvidia AI chip exports to China"
     excerpt: "China has condemned a US move to end its access to high-end processors made by chipmaker Nvidia, after Washington stepped up its efforts to restrict exports of cutting-edge technology to its trade and military rival."
-    publishedDateTime: 2022-09-01T13:43:00Z
-    webUrl: "https://www.ft.com/content/7005d5d2-b02f-4092-a35c-8b44889a5f90?curator=upstract.com"
+    publishedDateTime: 2022-09-01T09:37:00Z
+    webUrl: "https://www.ft.com/content/7005d5d2-b02f-4092-a35c-8b44889a5f90"
     type: article
     provider:
       name: The Financial Times
@@ -440,6 +440,6 @@ related:
       domain: arabianbusiness.com
     quality: 13
 
-secured: "TMniVIgOwEaU2iPO5sRy27o0AeV2WV6qVUJInWK1Pizu/2hANJV58wtIqqo2owtP96naCLvNmLomh/4TkvgC3BSmamIN/w1LA8gGM8e9VTVq/XsRyyewmi32g/XF7okjn5nB07yGDRUNEGMnhsHWfY8+Z9h3UjhYbl/QW0WEpeNqkDoyUKDEslu7LVyck+R8zl1nb8dKgveMCa/HCIGhTRdAaU43ChQA0/k77wvEjoIVS25kCbKBGumpMkuILqRMsP/6w8TPuY1LgfoK/+3oEVZN05o+o2g0DAMj3oC7YdXUZklTEjldXEauZ6tVv/TxJmgb69Sy1ICR8GARmmvf7i/VcNQa/FyDRAN8P8Rb7EdJcegASB8kGY3JJkbUfg4No/J3blk3drZUQo36NtbbvUbd3zzmdHmvICLbkZSwLAOp/VeuM4ojCzbmEujhgMpEkaBTKG8oU0BerokrhXshpZcveqThrTXH2B75tX4kO+uizScZQmjRVAT3v6EaDbALx+uQ+KTv+e9ULWG3mztxRw==;MEkxUUWOjWOZspTn00BtRg=="
+secured: "D46q0LH/gnUrv01ee9w9bIU97Y8Jd+SG4/Ix6roIGI3e4XDr1IG5VqwANzX4ktEE93i//fb9JWPZF1ijZEL0T1Hh6TqTNL/ptvrLj13DNY+M3rxfp/3dPtYPd+eKvzkJkdmzj7J5+2grCgG34TVPia7KA+w0VOSGzZJloUrqwrylvXGMd2ZcgfNMvapONUhqKv1Rc88dCjZW6581fdAFtSaksDDoX5r1VcBGyfWektlCtlOVxoopUozvvcKLnNsWzxD5YnL4lkihC04KkSdIQOCaRR0yF4SNUsCib8TJ5zKszRf0f3Cw4pFlTk5BaeTozdP+4koEoVyfcpsygR7gJffD16jncCKvmWQKSBfP7ic=;gZENGdCzW2v1bd53DYCQGQ=="
 ---
 

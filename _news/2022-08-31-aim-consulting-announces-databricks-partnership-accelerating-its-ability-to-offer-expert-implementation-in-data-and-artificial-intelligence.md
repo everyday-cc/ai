@@ -32,6 +32,15 @@ related:
         width: 300
         height: 205
         isCached: true
+  - title: "AI is getting better at generating porn. We might not be prepared for the consequences."
+    excerpt: "AI image generators like Stable Diffusion are powering new websites that generate highly customize porn. The trend could have far-reaching consequences."
+    publishedDateTime: 2022-09-02T18:43:00Z
+    webUrl: "https://techcrunch.com/2022/09/02/ai-is-getting-better-at-generating-porn-we-might-not-be-prepared-for-the-consequences/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 39
   - title: "Navigate the quest for artificial intelligence"
     excerpt: "Navigate the quest for artificial intelligence. MIT Technology Review is the go-to source for insightful and thought-provoking stories about technology and its implications in our"
     publishedDateTime: 2022-09-02T05:56:00Z

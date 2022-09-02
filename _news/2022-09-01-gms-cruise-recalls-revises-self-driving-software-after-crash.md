@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/gms-cruise-r
 webUrl: "https://www.reuters.com/business/autos-transportation/gms-cruise-recalls-revises-self-driving-software-after-crash-2022-09-01/"
 type: article
 quality: 54
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -84,6 +84,15 @@ related:
       name: Wired
       domain: wired.com
     quality: 34
+  - title: "GM’s Cruise recalls 80 self-driving EVs citing collision risks when turning"
+    excerpt: "General Motors’ self-driving rideshare service Cruise announced that it has recalled 80 of its electric robotaxis in order to update their software following an accident in June that injured two people."
+    publishedDateTime: 2022-09-02T18:33:00Z
+    webUrl: "https://electrek.co/2022/09/02/gms-cruise-recalls-80-self-driving-evs-citing-collision-risks/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 32
   - title: "General Motors Recalls and Updates 80 Self-Driving Vehicles"
     excerpt: "General Motors' (NYSE:GM) startup unit, Cruise LLC, announced Thursday that it had recalled and updated software in 80 self-driving vehicles after a June crash in San Francisco left two people injured."
     publishedDateTime: 2022-09-01T15:26:00Z

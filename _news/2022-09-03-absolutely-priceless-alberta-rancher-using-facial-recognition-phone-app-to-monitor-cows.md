@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-02T18:51:00Z
 originalUrl: "https://edmonton.ctvnews.ca/absolutely-priceless-alberta-rancher-using-facial-recognition-phone-app-to-monitor-cows-1.6053576"
 webUrl: "https://edmonton.ctvnews.ca/absolutely-priceless-alberta-rancher-using-facial-recognition-phone-app-to-monitor-cows-1.6053576"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: CTV News

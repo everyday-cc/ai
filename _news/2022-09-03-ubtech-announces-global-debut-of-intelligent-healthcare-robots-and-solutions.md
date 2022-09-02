@@ -6,9 +6,9 @@ publishedDateTime: 2022-09-02T17:34:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/ubtech-announces-global-debut-of-intelligent-healthcare-robots-and-solutions-1031722479"
 webUrl: "https://markets.businessinsider.com/news/stocks/ubtech-announces-global-debut-of-intelligent-healthcare-robots-and-solutions-1031722479"
 type: article
-quality: 66
-heat: 66
-published: false
+quality: 83
+heat: 83
+published: true
 
 provider:
   name: Business Insider

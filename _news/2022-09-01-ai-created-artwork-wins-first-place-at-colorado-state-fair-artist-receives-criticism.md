@@ -40,6 +40,15 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Human uses AI to win art competition—other humans angry"
+    excerpt: "Jason Allen lives in Colorado, and last week lit the fuse on a debate that's going to run and run: he used AI software to create art, submitted it to the Colorado State Fair fine arts competition, and took first prize."
+    publishedDateTime: 2022-09-02T17:32:00Z
+    webUrl: "https://www.pcgamer.com/human-uses-ai-to-win-art-competition-other-humans-angry/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 19
 
 secured: "BfvUie999nUutg5Aj1NtfZjrsMmD+07d7yAQL/2QBtUzH4KX8U/ahGYxZvxCPmOEFlqxyQi5O6S+NQh7hm2XFHslRWXz9T9ExL/FyHhsp1vD9EKaiGrWH05J195gUlLVLLVUv9ei4FxNimJ206e90qC7ylDgk3L3yrNUW1hRkqWT66zIwYDDOBxElheXw/XqlQQUK+fSHfLeQOEec0VOsNitVrE674ivOshqJvbCVPpvvsvDw8yy5P38Ss6yUXh/Q/UPS19sFR/UhmB8g99CMWd/CPm9RDJzNixlovpmW/V/nCtHMb8qLSDB4PakgtcHQus581mzvaUA6w6fMqGl8Sjp3FtKdR8g28+NHOAs96SpW/S8bAC60o4IsWTbp2WOd/89o6e5CtRWa+0HLryzVk/Ip78lk5bhgCh3KQ4qqmbeUiF12W63wAGihsSYYWbCH0u+hGAgHPPAe42dkfsz1OsWTiJhGdgY0/k8sbKk0vlqi8eB1waR1QLGkZTNSTcHdEXlwZ30/mlEcC6fRpmIAA==;MKv13ybdudPDmWVJQ9jZzg=="
 ---

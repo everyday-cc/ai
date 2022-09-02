@@ -7,7 +7,7 @@ originalUrl: "https://news.microsoft.com/en-xm/2022/08/31/microsoft-opens-first-
 webUrl: "https://news.microsoft.com/en-xm/2022/08/31/microsoft-opens-first-global-datacenter-region-in-qatar-bringing-new-opportunities-for-a-cloud-first-economy/"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 300
     height: 250
     isCached: true
+
+related:
+  - title: "The Network Binds The Increasingly Distributed Datacenter"
+    excerpt: "Before founding software-defined networking startup PlumGrid and then moving to VMware when it bought his company in 2016, Pere Monclus spent almost 12"
+    publishedDateTime: 2022-09-02T18:44:00Z
+    webUrl: "https://www.nextplatform.com/2022/09/02/the-network-binds-the-increasingly-distributed-datacenter/"
+    ampWebUrl: "https://www.nextplatform.com/2022/09/02/the-network-binds-the-increasingly-distributed-datacenter/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/09/02/the-network-binds-the-increasingly-distributed-datacenter/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 44
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/network-liqid-logo-2.jpg"
+        width: 685
+        height: 357
+        isCached: true
 
 secured: "zoKxmCeHG0r+k0Ps6Doyft+G7g3lgRSvb4ah5BrAA9dOf/dZB7z7y0HrcSMacuVO2KGQ9mlcYRV+R5ymkP8+Oo2wwS9x4fq/2z33QD7m2t32Ha9YsknmSmutGZrfh4msdE/WrVOnNrDfvwROCJISK+EzTYrtpy2mxMLID08kN6XetzyyGieaHfz25KZLxFWvo/T2TpLm1UhjeXVJN4LDHbORUTPpM1u3DgNMHx3zc2LJ7Jo3Q8nrhNEbSnf+z4UT39+3eO0J/mYbS63FjjDvMIx/jjraSoAvWCl5sAP/hmSUvr1JbStR8o0mNBtCiRQDq9HBETH4Jr2RG66BN1pwZgZ1nZpIWQIasZHrJCDwZhsrDMI6by70XEzO95OBPb0arRwsYK+qfd+D6WCY6hkK8kBdjvk+fqm6toZtUYAxkqwZ/6qMjEumW63L9znuIwWvsGG3XVc438E+NYpoATtt1HbxJHi9y4MIvaSigM2m8emRJ4KXYUdCZwHRplullmBw4yj+OGgLCB96o4Wzd3CSNg==;nhXYan+gV5XHoryhdbnLhw=="
 ---

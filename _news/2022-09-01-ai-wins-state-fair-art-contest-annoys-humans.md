@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2022/08/ai-wins-sta
 webUrl: "https://arstechnica.com/information-technology/2022/08/ai-wins-state-fair-art-contest-annoys-humans/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Human uses AI to win art competition—other humans angry"
+    excerpt: "Jason Allen lives in Colorado, and last week lit the fuse on a debate that's going to run and run: he used AI software to create art, submitted it to the Colorado State Fair fine arts competition, and took first prize."
+    publishedDateTime: 2022-09-02T17:32:00Z
+    webUrl: "https://www.pcgamer.com/human-uses-ai-to-win-art-competition-other-humans-angry/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 19
 
 secured: "Yn7DcWggLfZWqy8eGtUTOA7Mn3D8SXOIU4sbujzmZFiDTB62xjj16c5T/psfYmUJ0nIFbtyJMlARnXt+CXALo+1/Gq7opTnf3mA/rxJayUHb9LISNYt8acsn7oIb12eqQr7KSIrpRDJpAR9ojmZtyjtugOjjIqPh12/F3bsFZgJY9BE/16N46YtwKmihMd/5ISR1vB+No7Nk6MdSNbSRZzmddzB5HyULWJStJMvtKzIDhZgWvliJ2Iqt+u13nZDbC9DWIkyOJz9fkpgxr7BxJHVf1KAslqZ3L/K3MLtCcZSfGGnD8ayWlI6oj63yJqG8qrj+Da0GZlr+J6lafNxPAzDcJILvNEdAzRoxB2nUs+fxtIQ4XY5PHOhLGOenROryPB1Pe2ZsX4Cq5BJJhZOk03xysPABdHu9gPE0cVlVKs70FoS4FEuV6jzha3pnXw6Z3mD6WyDH+vreg93bUtstNYm/b28cmMsSBl2mSt+zEMsbWmHOh/xGq8zCuyuZMrKckE/i0iofu+R7NcMQz9BpIA==;1A605arg5xnYdC8Mj9TSCA=="
 ---

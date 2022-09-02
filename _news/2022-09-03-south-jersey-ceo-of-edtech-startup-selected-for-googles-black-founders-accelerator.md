@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-02T18:50:00Z
 originalUrl: "https://www.bizjournals.com/philadelphia/inno/stories/news/2022/09/02/south-jersey-co-founder-joins-google-accelerator.html"
 webUrl: "https://www.bizjournals.com/philadelphia/inno/stories/news/2022/09/02/south-jersey-co-founder-joins-google-accelerator.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Business Journals

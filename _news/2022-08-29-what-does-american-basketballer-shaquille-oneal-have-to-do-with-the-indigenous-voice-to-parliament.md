@@ -43,22 +43,6 @@ related:
         width: 320
         height: 213
         isCached: true
-  - title: "Barnaby Joyce hits out at Anthony Albanese over Shaquille O'Neal Voice to Parliament presser as Tanya Plibersek defends move"
-    excerpt: "The Coalition has continued to heap criticism on Prime Minister Anthony Albanese over his decision to hold a press conference with American basketball star Shaquille O'Neal over the Indigenous Voice to Parliament."
-    publishedDateTime: 2022-08-29T02:38:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/barnaby-joyce-hits-out-at-anthony-albanese-over-shaquille-oneal-voice-to-parliament-presser-as-tanya-plibersek-defends-move/news-story/b9b8049da29bd01780ab37fb23352f34"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/barnaby-joyce-hits-out-at-anthony-albanese-over-shaquille-oneal-voice-to-parliament-presser-as-tanya-plibersek-defends-move/news-story/b9b8049da29bd01780ab37fb23352f34?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/barnaby-joyce-hits-out-at-anthony-albanese-over-shaquille-oneal-voice-to-parliament-presser-as-tanya-plibersek-defends-move/news-story/b9b8049da29bd01780ab37fb23352f34?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 17
-    images:
-      - url: "https://content.api.news/v3/images/bin/da3de6e68e77393fbc7923736aa3d8ae"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Indigenous Senator Lidia Thorpe lashes Anthony Albanese for using Shaquille O'Neal to promote Voice to Parliament"
     excerpt: "Indigenous Greens Senator Lidia Thorpe has slammed Prime Minister Anthony Albanese for using former American basketball star Shaquille O’Neal to spruik the Indigenous Voice to Parliament."
     publishedDateTime: 2022-08-29T07:44:00Z

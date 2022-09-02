@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-severe-a
 ampWebUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-severe-aortic-stenosis.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-artificial-intelligence-severe-aortic-stenosis.amp"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 61
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-59.jpg"

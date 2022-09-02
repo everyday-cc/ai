@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-02T04:00:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/09/n28729508/new-fiction-novel-delves-into-the-emerging-field-of-artificial-intelligence-its-benefits-and-disad"
 webUrl: "https://www.benzinga.com/pressreleases/22/09/n28729508/new-fiction-novel-delves-into-the-emerging-field-of-artificial-intelligence-its-benefits-and-disad"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

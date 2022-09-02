@@ -57,22 +57,6 @@ related:
         width: 320
         height: 213
         isCached: true
-  - title: "Barnaby Joyce hits out at Anthony Albanese over Shaquille O'Neal Voice to Parliament presser as Tanya Plibersek defends move"
-    excerpt: "The Coalition has continued to heap criticism on Prime Minister Anthony Albanese over his decision to hold a press conference with American basketball star Shaquille O'Neal over the Indigenous Voice to Parliament."
-    publishedDateTime: 2022-08-29T02:38:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/barnaby-joyce-hits-out-at-anthony-albanese-over-shaquille-oneal-voice-to-parliament-presser-as-tanya-plibersek-defends-move/news-story/b9b8049da29bd01780ab37fb23352f34"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/barnaby-joyce-hits-out-at-anthony-albanese-over-shaquille-oneal-voice-to-parliament-presser-as-tanya-plibersek-defends-move/news-story/b9b8049da29bd01780ab37fb23352f34?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/barnaby-joyce-hits-out-at-anthony-albanese-over-shaquille-oneal-voice-to-parliament-presser-as-tanya-plibersek-defends-move/news-story/b9b8049da29bd01780ab37fb23352f34?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 17
-    images:
-      - url: "https://content.api.news/v3/images/bin/da3de6e68e77393fbc7923736aa3d8ae"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "NjrbaNXCohDbQcZAfunxOT2M0/FzO/OvEg/4UHfQ5uRNI64cJIR0Pt4JGO43x8T2MdlV70/4TZctOXdL1hradGknEFb23zvAMcTVchNS1E0SEIxRNunyWyaZLzQQHkFOwGV7Qi4wPCfIc83oIIpp8RupUQbXMQQoPpdHbczSZuO6lZ3dVdGaVgEI7gV+38bzaucBg+U/wPUaDFpiGvv93fRIV1KJEsLD3CHzaC36JJTsXfJPEGkf/N/N2vV1xQaUktIKZsEfp+d5vLt7E8Hj+8CZJP21fQm07j7toO86yFpBKBwNDtthBeO4WciWwwdU4l7eYDS754ccVMdrj2f3oP+c8Y3gQ5xf2KxbTbYaCqIL8lJFxXgbzb45WKnLwTS64jkc/bsbRv9MA3yLGtOuV3tPGZPsUdej5psxBII9DOyPIFcChiKSiKS2OI278/GthjTB+IQxKnkhL9X/74qAOz/019PZ2NPCUafL7DN5FJuDNKmHAqulQ1lUQv5nS0Eqsq3MtH8MjUF7jkdJkfTqEw==;Wsohl+PsSJycabTZ3d0riA=="
 ---
