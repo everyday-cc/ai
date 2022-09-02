@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/963671"
 webUrl: "https://www.eurekalert.org/news-releases/963671"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers propose new and more effective model for automatic speech recognition"
+    excerpt: "Popular voice assistants like Siri and Amazon Alexa have introduced automatic speech recognition (ASR) to the wider public. Though decades in the making, ASR models struggle with consistency and reliability,"
+    publishedDateTime: 2022-09-02T17:17:00Z
+    webUrl: "https://techxplore.com/news/2022-09-effective-automatic-speech-recognition.html"
+    ampWebUrl: "https://techxplore.com/news/2022-09-effective-automatic-speech-recognition.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-effective-automatic-speech-recognition.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 54
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/researchers-propose-ne-4.jpg"
+        width: 1024
+        height: 463
+        isCached: true
   - title: "Global Speech & Voice Recognition Market Research Report to 2027 - Featuring Amazon, Apple and Baidu Among Others - ResearchAndMarkets.com"
     excerpt: "The \"Speech & Voice Recognition Market Research Report by Delivery Method, Technology, Deployment Mode, Vertical, Region - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2022-08-31T11:33:00Z

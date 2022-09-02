@@ -72,22 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Fintech Market Report 2022-27: Size, Share, Growth, Trends And Forecast"
-    excerpt: "The global AI in fintech market reached a value of US$ 9.4 Billion in 2021. Looking forward, IMARC Group expects the market to reach US$ 36.1 Billion by 2027, exhibiting at a CAGR of 26.1% during 2022-2027."
-    publishedDateTime: 2022-09-01T00:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/08/ab28710855/ai-in-fintech-market-report-2022-27-size-share-growth-trends-and-forecast"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28710855"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28710855"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 56
-    images:
-      - url: "https://www.abnewswire.com/uploads/1661925524.jpeg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Artificial Intelligence Market Size, Trends, Industry Research Report 2022-2027"
     excerpt: "According to IMARC Group's latest reserach report the global artificial intelligence market reached a value of US$ 56.5 Billion in 2021. Looking forward, IMARC Group expects the market to reach US$ 308."
     publishedDateTime: 2022-09-01T22:55:00Z
@@ -113,20 +97,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in Fintech Market Size Share with Top Countries Data, Industry Trends, Growth, Opportunities and Forecast to 2022-2031"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Japan, Japan, Mon, 29 Aug 2022 09:35:57 / Comserve Inc. / -- AI in Fintech Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players ..."
-    publishedDateTime: 2022-08-29T13:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-share-with-top-countries-data-industry-trends-growth-opportunities-and-forecast-to-2022-2031-2022-08-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

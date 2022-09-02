@@ -50,15 +50,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 34
-  - title: "Driving simulations that look more life-like"
-    excerpt: "They don’t look realistic enough, particularly background objects, such as trees, and road markings. But researchers have developed a new way to create photorealistic images for simulators, paving the way for better testing of driverless cars."
-    publishedDateTime: 2022-08-29T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/963184"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 4
 
 secured: "P78xP0tmqaJwOkMRgikc2Hv7xvAAqLpJqFa+F/U3kcrAGxVto5VI7oTUuJxcb1wy1FFIJPRzMK6OFft4rY2e8GgUEtlVDnwZiuWHmKRrRNdwxN8inV+jn1YGESi0TATYCai4d+6R6Lhaq7tADIADv7kkLkkOu1d4isjxY/Ym6HJz+iXu1HjpyR1Jds5frsrJQeCqVkEka0J9wjqdcrQVi0+G3/tcQ0ZoUJFo1e5naL992lSWNkgC0MNAa1Gr+giw98rndnlu/ZsdZuvaLawxtewKSbft8zs/B2500FD4XgSPnxuJJQduy7JWSJCjbswRNH/0gXgJcKLaRl364yr2+3SadeN3iS/QKJreVe/YoEOxoCP9g8iiaN6HyEeYcWlixWusRlVxfAXI+sOmIO7JKExq6RcgIJ9gIFpHRNu5BMz7VQMdx8PTiigG+x/cKmp35w4hikrzZeXE4gZQs7HH9bYWBXc5QnND/nYpWOXOPocWIPrUtyau1SQqI7Z0ppO9AJxSivQtfLf/BVO3qMKhng==;0J/oYDlQHbULyA3bRR2uHw=="
 ---

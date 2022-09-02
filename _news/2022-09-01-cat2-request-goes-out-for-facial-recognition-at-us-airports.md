@@ -7,8 +7,8 @@ originalUrl: "https://www.biometricupdate.com/202208/cat2-request-goes-out-for-f
 webUrl: "https://www.biometricupdate.com/202208/cat2-request-goes-out-for-facial-recognition-at-us-airports"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Biometric Companies
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Def Con contest pits hackers against facial recognition systems"
+    excerpt: "Participants have been given online access to ten headshot sets of celebrities and a facial recognition model trained to recognize them."
+    publishedDateTime: 2022-09-02T17:25:00Z
+    webUrl: "https://www.biometricupdate.com/202209/def-con-contest-pits-hackers-against-facial-recognition-systems"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
+        isCached: true
   - title: "Canadian academic report urges no facial recognition at legislature, reasons why sow confusion"
     excerpt: "The use of facial recognition around Parliament Hill would raise numerous questions around risk to legally enshrined rights, according to the report."
     publishedDateTime: 2022-08-31T22:20:00Z

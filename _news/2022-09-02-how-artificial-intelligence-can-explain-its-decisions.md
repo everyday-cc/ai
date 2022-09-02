@@ -7,8 +7,8 @@ originalUrl: "https://www.eurekalert.org/news-releases/963644"
 webUrl: "https://www.eurekalert.org/news-releases/963644"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: EurekAlert!
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "How artificial intelligence can explain its decisions"
+    excerpt: "Artificial intelligence (AI) can be trained to recognize whether a tissue image contains a tumor. However, exactly how it makes its decision has remained a mystery until now. A team from the Research Center for Protein Diagnostics (PRODI) at Ruhr-Universität Bochum is developing a new approach that will render an AI's decision transparent and thus trustworthy."
+    publishedDateTime: 2022-09-02T17:53:00Z
+    webUrl: "https://techxplore.com/news/2022-09-artificial-intelligence-decisions.html"
+    ampWebUrl: "https://techxplore.com/news/2022-09-artificial-intelligence-decisions.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-artificial-intelligence-decisions.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 72
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/how-artificial-intelli-1.jpg"
+        width: 1607
+        height: 769
+        isCached: true
   - title: "How AI Distorts Decision-Making and Makes Dictators More Dangerous"
     excerpt: "But thinking about AI in terms of a race for dominance misses the more fundamental ways in which AI is transforming global politics. AI will not transform the rivalry between powers so much as it will transform the rivals themselves."
     publishedDateTime: 2022-08-31T04:21:00Z

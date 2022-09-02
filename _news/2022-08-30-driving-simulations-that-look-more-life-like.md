@@ -53,15 +53,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Driving simulations that look more life-like"
-    excerpt: "They don’t look realistic enough, particularly background objects, such as trees, and road markings. But researchers have developed a new way to create photorealistic images for simulators, paving the way for better testing of driverless cars."
-    publishedDateTime: 2022-08-29T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/963184"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 4
 
 secured: "gEt9PZ1TCqgdyW4kemMES/QDraR0uOp5+N1QtboQ8NZEnG9stFkTFiKDGqVu3S3aeOVA0y81M0CGtzpowVpGKa3SeWfqfzkPMIBEEd7ckZOEMIx6BOnOW7sVhbHohC/f2jmnsFoUGFZYNJ4UFUvpgsZHSjzEAGBBWmqKiWIhZw7kjIUZJMNrtom75UzTsiMthP9F0xlRHn5zwvAXa6alA47EE/e8mFcFHYDvE3ULhs3LKeKq7M69kl8WAZdiGKalEtvX0E+6JmAA7ycWobZLuMw2tAhNH3uJRgO9sZ0FG5VQ9RDpm7/fS5M1XZbgBu0+tpRG0/KKF+nXbyoSiww4qj7bFIzDGWaUzHrK4ZpPaZE=;M3cD+QBoJLdNa5nSiszRcQ=="
 ---

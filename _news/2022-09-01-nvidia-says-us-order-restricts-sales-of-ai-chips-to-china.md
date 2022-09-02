@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/nvidia-says-us-order-restricts-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-says-us-order-restricts-sales-of-ai-chips-to-china/"
 type: article
 quality: 121
-heat: 421
+heat: 431
 published: true
 
 provider:
@@ -352,6 +352,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/Hopper-Arch-H100-SXM-Image.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "US deals heavy blow to China tech ambitions with Nvidia chip ban"
+    excerpt: "The US government’s new restrictions on the ability of Nvidia Corp to sell artificial intelligence (AI) chips to Chinese customers threatens to deal a heavy blow to the country’s development of a sweeping range of cutting-edge technologies."
+    publishedDateTime: 2022-09-02T17:35:00Z
+    webUrl: "https://www.gulf-times.com/story/723601/US-deals-heavy-blow-to-China-tech-ambitions-with-N"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 41
+    images:
+      - url: "https://www.gulf-times.com/Content/Upload/Slider/920222203510947722915.jpg"
+        width: 620
+        height: 355
         isCached: true
   - title: "Nvidia gets US nod to export key chip H100"
     excerpt: "US chip designer Nvidia Corp, a key source of computing chips for Chinese companies, announced late on Thursday that \"the US government has authorized exports, reexports, and in-country transfers needed to continue its development of H100 integrated circuits\","

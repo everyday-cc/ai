@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/why-2-c3-ai-analys
 webUrl: "https://markets.businessinsider.com/news/stocks/why-2-c3-ai-analysts-are-sidelined-after-guidance-disappointment-1031720367"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "What 4 Analyst Ratings Have To Say About C3.ai"
+    excerpt: "These 4 analysts have an average price target of $17.5 versus the current price of C3.ai at $14.52, implying upside. Below is a summary of how these 4 analysts rated C3.ai over the past 3 months. The greater the number of bullish ratings,"
+    publishedDateTime: 2022-09-02T14:37:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/what-4-analyst-ratings-have-to-say-about-c3-ai-1031722043"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2022/analyst_ratings_image_2546.png"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "3ja6dRye0n0U9lSSW6/bS0CZi3OmI5wBgHwzaZtbVejbDVtp07c0IgYLZSrZW2ejDrLnAuFDYdn9oCoBxrvyEzfuz1SeOKwzEFBAtkGEzxCjEr8a3bYgSST3kNp1Ux25jzdfA0n0cGP6yoUJSW7XcBKvvkPSTIr7rcbR1n152DDaWxGNxXpqS+qL+15FCr+r9/ixkODOvHkFBj5PNyg4JMnS9FjUNBQUDWXYL6IeXFtT9Nnd5iUDrfUnuj8rsIAa6v7jwHZ2OFt7dBziTQCoc0lfrZpVDdKdvR4cNPTqxYSgu9D0XBmpwfpGpMEf5hdx384jjLMSuIc/jOwGqWUg0xQt7F0yqBxyv6YHp6pD9ciEgJgomX81e7MoOqo0x9G6UkSqa2raQOzVCicu4sgKnmYMSIJef5T8y16d0SCEjEYihB9Pic9OIKBp/EYO9cZcb+8pCzfC3herY8HHvFddiW/M5sUE4tdRwf4RigVaeYWQCy+CGVfMH0xEo4jduV4bli/kq1u7TZA08fIvZIjcSQ==;xkH02Q9X2KTpwWf+60RsxQ=="
 ---

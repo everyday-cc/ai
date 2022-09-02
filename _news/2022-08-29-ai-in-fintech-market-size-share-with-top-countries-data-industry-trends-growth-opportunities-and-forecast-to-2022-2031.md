@@ -29,47 +29,51 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) In Supply Chain Market Size Share Volume Trends Demand Forecast Report 2022-2028"
-    excerpt: "The global Artificial Intelligence (AI) In Supply Chain market is segregated on the basis of Technology as Machine"
-    publishedDateTime: 2022-09-01T13:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-market-size-share-volume-trends-demand-forecast-report-2022-2028-2022-09-01"
+  - title: "AI in FinTech Global Market to Reach $24.17 Billion by 2026"
+    excerpt: "AI in FinTech Global Market to Reach $24.17 Billion by 2026 Aug 31, 2022 (PRNewswire via COMTEX) -- PR Newswire DUBLIN, DUBLIN, Aug. 31,"
+    publishedDateTime: 2022-08-31T10:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-global-market-to-reach-2417-billion-by-2026-2022-08-31"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 65
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Robots Market Share, Size, Growth, Future Trends, Key Players and Industry Analysis 2022-2028"
-    excerpt: "Robots Market is expected to exceed more than US$ 12 Billion by 2024 at a CAGR of 29% in the given forecast period. Browse the full report here:  The Artificial Intelligence (AI) Robots Market is segmented on the Basis of Offering Type,"
-    publishedDateTime: 2022-09-01T14:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-share-size-growth-future-trends-key-players-and-industry-analysis-2022-2028-2022-09-01"
+  - title: "AI In Fintech Market Will Reach More Than $61 Billion, By 2031"
+    excerpt: "Artificial Intelligence has been growing its influence in Fintech, and is projected to hit $61 billion in under 10 years. We tell you how."
+    publishedDateTime: 2022-09-01T07:39:00Z
+    webUrl: "https://www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/"
+    ampWebUrl: "https://www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/amp/"
+    cdnAmpWebUrl: "https://www-investingcube-com.cdn.ampproject.org/c/s/www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Drug Discovery Market Size, Set for Rapid Growth and Trend by 2022-2030"
-    excerpt: "The artificial intelligence (AI) in drug discovery market size is expected to reach USD 4.13 billion by 2030 according to a new study by Report Ocean. Request To Download Sample of This Strategic Report:-  Report Ocean presents a new report on artificial intelligence (AI) in drug discovery market size,"
-    publishedDateTime: 2022-08-31T04:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-size-set-for-rapid-growth-and-trend-by-2022-2030-2022-08-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: InvestingCube
+      domain: investingcube.com
     quality: 59
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.investingcube.com/wp-content/uploads/2022/06/Crypto-wallet.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Fintech Market Plays A Vital Role In Mobile Banking – Reports and Data"
+    excerpt: "The size of the global fintech market was USD 100.09 billion in 2020, and it is anticipated to grow in value at an 8.5% CAGR. Rising demand for smartphones, growing private investor involvement in fintech firms,"
+    publishedDateTime: 2022-09-01T10:29:00Z
+    webUrl: "https://techbullion.com/fintech-market-plays-a-vital-role-in-mobile-banking-reports-and-data/"
+    ampWebUrl: "https://techbullion.com/fintech-market-plays-a-vital-role-in-mobile-banking-reports-and-data/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/fintech-market-plays-a-vital-role-in-mobile-banking-reports-and-data/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 59
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/08/Fintech.jpg"
+        width: 2560
+        height: 1706
         isCached: true
   - title: "AI in Fintech Market Report 2022-27: Size, Share, Growth, Trends And Forecast"
     excerpt: "The global AI in fintech market reached a value of US$ 9.4 Billion in 2021. Looking forward, IMARC Group expects the market to reach US$ 36.1 Billion by 2027, exhibiting at a CAGR of 26.1% during 2022-2027."
@@ -87,81 +91,60 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Artificial Intelligence Market Size, Trends, Industry Research Report 2022-2027"
-    excerpt: "According to IMARC Group's latest reserach report the global artificial intelligence market reached a value of US$ 56.5 Billion in 2021. Looking forward, IMARC Group expects the market to reach US$ 308."
-    publishedDateTime: 2022-09-01T22:55:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/ab28727692/artificial-intelligence-market-size-trends-industry-research-report-2022-2027"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28727692"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28727692"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 55
-    images:
-      - url: "https://www.abnewswire.com/uploads/1662012669.jpeg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Deep Learning Chip Market Size and Share 2022 Analysis Report by Key Players, Geographical Regions, Future Development and Forecast to 2028"
-    excerpt: "Aug (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Deep Learning Chip Market”"
-    publishedDateTime: 2022-08-30T07:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-size-and-share-2022-analysis-report-by-key-players-geographical-regions-future-development-and-forecast-to-2028-2022-08-30"
+  - title: "Investigation And Security Services Global Market to Reach $527.64 Billion by 2026"
+    excerpt: "Investigation And Security Services Global Market to Reach $527.64 Billion by 2026 Aug 30, 2022 (PRNewswire via COMTEX) -- PR Newswire"
+    publishedDateTime: 2022-08-30T16:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/investigation-and-security-services-global-market-to-reach-52764-billion-by-2026-2022-08-30"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Software Platform Market Size Share Volume Trends Demand Forecast Report 2022-2028"
-    excerpt: "The global Artificial Intelligence Software Platform Market is expected to exceed more than US$ 11.5 Billion by 2024, at"
-    publishedDateTime: 2022-09-01T14:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-platform-market-size-share-volume-trends-demand-forecast-report-2022-2028-2022-09-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer Vision Market Share | Trend Analysis, Production Scenario And Supply Forecast By 2031"
-    excerpt: "Computer Vision Market Size Computer Vision Market size was valued at USD 11.22 billion in 2021 and is expected to expand at a compound a"
-    publishedDateTime: 2022-09-01T17:56:00Z
-    webUrl: "https://menafn.com/1104795560/Computer-Vision-Market-Share-Trend-Analysis-Production-Scenario-And-Supply-Forecast-By-2031"
+    quality: 45
+  - title: "Global Artificial Intelligence In Cancer Diagnosis And Therapy Market Worth $ 5.62 Billion By 2030"
+    excerpt: "Global Artificial Intelligence in Cancer Diagnosis and Therapy Market info. Global Artificial Intelligence in Cancer Diagnosis and Therapy Market seg. Glob"
+    publishedDateTime: 2022-08-29T10:58:00Z
+    webUrl: "https://menafn.com/1104774038/Global-Artificial-Intelligence-In-Cancer-Diagnosis-And-Therapy-Market-Worth-562-Billion-By-2030"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 27
+    quality: 42
     images:
-      - url: "https://menafn.com/updates/pr/2022-09/01/EP_ec4a4image_story.jpeg"
-        width: 1173
-        height: 614
+      - url: "https://menafn.com/updates/pr/2022-08/29/EP_6cb89image_story.jpeg"
+        width: 600
+        height: 314
         isCached: true
-  - title: "Automotive Artificial Intelligence Market Share, Size, Growth, Future Trends, Key Players and Industry Analysis 2022-2028"
-    excerpt: "The global Automotive Artificial Intelligence market is segregated on the basis of Component as Hardware, Software,"
-    publishedDateTime: 2022-09-01T14:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-share-size-growth-future-trends-key-players-and-industry-analysis-2022-2028-2022-09-01"
+  - title: "How to Use ML and AI in the Fintech Industry?"
+    excerpt: "From appearing as frequent tech buzzwords less than a decade ago, they have become integral to how AI and ML tech innovations are shaped across the digital landscape. Driving innovations in certain industries,"
+    publishedDateTime: 2022-09-01T05:49:00Z
+    webUrl: "https://www.finextra.com/blogposting/22835/how-to-use-ml-and-ai-in-the-fintech-industry"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
-  - title: "Speech And Voice Recognition Market Size, Trends, Revenue Share Analysis, Forecast Till 2030"
-    excerpt: "North America emerged as the largest market for the global speech and voice recognition market, with a 33% share of the market revenue in 2021. NEWARK, UNITED STATES, August 30, 2022 /EINPresswire ..."
-    publishedDateTime: 2022-08-30T11:49:00Z
-    webUrl: "https://menafn.com/1104780974/Speech-And-Voice-Recognition-Market-Size-Trends-Revenue-Share-Analysis-Forecast-Till-2030"
+      name: Finextra
+      domain: finextra.com
+    quality: 36
+  - title: "29/08 – Weekly Fintech Recap"
+    excerpt: "Partnerships Wearable Tech Pioneer DIGISEQ Partners with AdornPay to Bring Passive Wearable Payments to the Netherlands DIGISEQ, the wearable payments tech pioneer, announced its partnership with Dutch wearable fashion brand,"
+    publishedDateTime: 2022-08-29T08:04:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/2908-weekly-fintech-recap"
     type: article
     provider:
-      name: MENAFN
-      domain: menafn.com
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_20.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "AI in FinTech Global Market Report 2022: Need for Fraud Detection in Fintech & Financial Institutions Driving Adoption - ResearchAndMarkets.com"
+    excerpt: "The global AI in fintech market is expected to grow from $7.25 billion in 2021 to $9.13 billion in 2022 at a compound annual growth rate (CAGR) of 25.9%. The AI in fintech market is expected to grow to $24."
+    publishedDateTime: 2022-08-29T10:25:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-ai-in-fintech-global-market-report-2022-need-for-fraud-detection-in-fintech-and-financial-institutions-driving-adoption-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
     quality: 0
 
 secured: "zdWAz9Of1BCmN9Yz0NI0C4ZlZYKhEwNxGFmDpou8sVgDQ3zSCSO10/YpSxyCdJrDjP0YWm6lMXnpUX+ju0hBbYsTyRHUnduWk6lqd922PKkIDnbGEpV/NAifKQmMpYNWic7ikAvoXrlFcT1eeGestKYV0AAFc+FNMn2NM+yo2GhyYHVlmSm/o2WICZ2qJeuaPDdrPvgjVNAfq19slS0Vc1EdCHrkZOFHba2xkv96n1F9EpgDdm6EK6faPp8YowUkMEyGUDZ6OGPzdtZPrs9k1L03dggi2RZEIldaRf5LXTIVWgYMR2j8jKLYA5WhbcZjpQX10j9I3MFyejDWmWup5VzivdCLJFR6hkqtDKoKwwM=;PgkpaRFoefV2Q7BOuu4VwA=="

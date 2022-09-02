@@ -21,6 +21,22 @@ topics:
 related:
   - title: "Researchers propose new and more effective model for automatic speech recognition"
     excerpt: "Popular voice assistants like Siri and Amazon Alexa have introduced automatic speech recognition (ASR) to the wider public. Though decades in the making, ASR models struggle with consistency and reliability,"
+    publishedDateTime: 2022-09-02T17:17:00Z
+    webUrl: "https://techxplore.com/news/2022-09-effective-automatic-speech-recognition.html"
+    ampWebUrl: "https://techxplore.com/news/2022-09-effective-automatic-speech-recognition.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-effective-automatic-speech-recognition.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 54
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/researchers-propose-ne-4.jpg"
+        width: 1024
+        height: 463
+        isCached: true
+  - title: "Researchers propose new and more effective model for automatic speech recognition"
+    excerpt: "Popular voice assistants like Siri and Amazon Alexa have introduced automatic speech recognition (ASR) to the wider public. Though decades in the making, ASR models struggle with consistency and reliability,"
     publishedDateTime: 2022-09-02T15:45:00Z
     webUrl: "https://www.eurekalert.org/news-releases/963671"
     type: article

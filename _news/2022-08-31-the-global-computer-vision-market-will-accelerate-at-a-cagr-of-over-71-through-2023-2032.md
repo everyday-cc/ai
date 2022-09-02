@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Chatbot Market Is Poised To Value Over USD 14.8 Billion By 2031 | CAGR 24.61%"
-    excerpt: "Global Chatbot Market had a value of USD 3.3 Billion in 2020. By 2031, it is expected to rise to USD 14.8 billion with a rising CAGR (24.6%) during the"
-    publishedDateTime: 2022-08-29T19:50:00Z
-    webUrl: "https://eturbonews.com/global-chatbot-market-is-poised-to-value-over-usd-14-8-billion-by-2031-cagr-24-61/"
-    type: article
-    provider:
-      name: eTurboNews
-      domain: eturbonews.com
-    quality: 17
-    images:
-      - url: "https://eturbonews.com/wp-content/uploads/2019/08/cropped-etn-logo2.jpg"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Geospatial Analytics Market: Growing At A CAGR Of 12.1% : Will Hit 134.23 Billion By 2028 : Says Emergen Research"
     excerpt: "Emergen Research Logo Rising use of AI and ML in geospatial analytics, increasing number of government projects, & rapid urbanization som"
     publishedDateTime: 2022-08-30T12:17:00Z

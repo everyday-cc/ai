@@ -362,6 +362,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "US deals heavy blow to China tech ambitions with Nvidia chip ban"
+    excerpt: "The US government’s new restrictions on the ability of Nvidia Corp to sell artificial intelligence (AI) chips to Chinese customers threatens to deal a heavy blow to the country’s development of a sweeping range of cutting-edge technologies."
+    publishedDateTime: 2022-09-02T17:35:00Z
+    webUrl: "https://www.gulf-times.com/story/723601/US-deals-heavy-blow-to-China-tech-ambitions-with-N"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 41
+    images:
+      - url: "https://www.gulf-times.com/Content/Upload/Slider/920222203510947722915.jpg"
+        width: 620
+        height: 355
+        isCached: true
   - title: "US limits sales of artificial intelligence chips to China"
     excerpt: "US chipmakers Nvidia and AMD have been required to obtain a new licence, effective immediately, to address the risk of semiconductors being \"used in, or diverted to a 'military end use'... in China and Russia\"."
     publishedDateTime: 2022-09-01T13:01:00Z

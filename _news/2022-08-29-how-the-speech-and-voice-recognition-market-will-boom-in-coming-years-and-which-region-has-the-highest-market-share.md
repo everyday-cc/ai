@@ -28,17 +28,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Cognitive Computing Market to be Worth $225.33 Billion by 2030: Grand View Research, Inc."
-    excerpt: "The global cognitive computing market size is projected to reach USD 225.33 billion by 2030, registering a CAGR of 27.6% from 2022 to 2030, according"
-    publishedDateTime: 2022-08-31T13:06:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56944647-cognitive-computing-market-to-be-worth-dollar-225-33-billion-by-2030-grand-view-research-inc-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
-
 secured: "MzEIXdSzN5tmIQ34twk9LdXpUwgTf8EYKQUqcKLkYvUVMclpfyQGKliGw6RkXVcadnL7u63NpWLILup6qS7IP+I4FVHGWune7yO5rA8eRrRacqg5RgbQfJlAk43M4dsxX+PnccOKLkm+2AoPQxZQ/apmILUOSaHzlnkGLTgQt9i6n5CE2WfNckj4xUqYYBIQCWKz0RoAw265GIXfxTGAcQcmTT3a69TOYfKV+hbJPdSrytpC7nGbJAFjmraNw/LAM4FZLn4kqFZ4LSlvSVyilfcJB0ZWKShW9C4EhcE4KSTs/Zrs0HoYlUWkV+qalVoBHkrYaanT13+Y8MvgSbG+aKgskf0RqR2EPWGM/oWRSr4=;5G5awFxx177XaMVo65eZRg=="
 ---
 

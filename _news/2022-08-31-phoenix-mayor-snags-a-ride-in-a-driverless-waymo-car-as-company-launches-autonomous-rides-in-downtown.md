@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo opens up driverless robotaxi service in downtown Phoenix to vetted passengers"
-    excerpt: "Waymo, the autonomous vehicle developer under Alphabet, is opening up its driverless robotaxi service in downtown Phoenix to vetted local residents. People who have been accepted to Waymo’s ..."
-    publishedDateTime: 2022-08-29T00:00:00Z
-    webUrl: "https://techcrunch.com/2022/08/29/waymo-opens-up-driverless-robotaxi-service-in-downtown-phoenix-to-vetted-passengers/"
-    ampWebUrl: "https://techcrunch.com/2022/08/29/waymo-opens-up-driverless-robotaxi-service-in-downtown-phoenix-to-vetted-passengers/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/29/waymo-opens-up-driverless-robotaxi-service-in-downtown-phoenix-to-vetted-passengers/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 98
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/05/IPACE_3.jpeg?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Waymo’s driverless vehicles are picking up passengers in downtown Phoenix"
     excerpt: "Waymo’s fully driverless vehicles are picking up passengers in downtown Phoenix, five months after the Alphabet-owned company expanded its service area to include denser, more complex areas of ..."
     publishedDateTime: 2022-08-29T17:19:00Z
@@ -83,14 +67,14 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "AutoX Tests Downtown Shanghai’s First L4 Robotaxi Service"
-    excerpt: "To reach a large-scale standardized implementation of robotaxis, it’s essential to have an efficient central operation network,” AutoX founder and Chief Executive Officer Xiao Jianxiong told Yicai Global."
-    publishedDateTime: 2022-09-02T11:45:00Z
-    webUrl: "https://www.yicaiglobal.com/news/autox-tests-downtown-shanghai-first-l4-robotaxi-service"
+  - title: "Case IH Trident 5550 Applies Raven Autonomy for Driverless Spreading"
+    excerpt: "The Case IH Trident 5550 is built to be a combination applicator—both liquid and dry applications—but now equipped with Raven Autonomy, the machine can also be run in either autonomous mode or manual mode."
+    publishedDateTime: 2022-08-30T15:29:00Z
+    webUrl: "https://www.agweb.com/news/machinery/new-machinery/case-ih-trident-5550-applies-raven-autonomy-driverless-spreading"
     type: article
     provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
+      name: AgWeb
+      domain: agweb.com
     quality: 19
 
 secured: "uV0HHu6lJKZ1LX5H8yG9iPHuS/W1YCdExTWhfEO17G9zc36TnLPefG/gnOTkjYGO3iAVL1331dyVNpjSBfMukDPbQfH4ZjCIQT71/2YoacK/3UrySf+5x7WhPhR95O4etOAdDOCvkOlrRmnfkomWhbdsgqACDqnZ5mCcZdNcyPWedu0oDIeEQVRu2N2JIwb+SMaM4ZO8MP2zMfEUXd8lAaUle5RnIpOkTIgPXeI55f2Zo9OjC30R19h3jc74qgllmXBMTw/TCYxLtqq6O3eNWUFs09p0isLJddCg115UGwXhHLodTL2Xo48Mu0Jz2Gc1DokuuHZPouIuk5gBJ8snZ2zk7Y6aMtfR+QigrE6dRTw=;j063OrOG9HlAhEsZid+k+g=="

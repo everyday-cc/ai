@@ -27,6 +27,22 @@ images:
 
 related:
   - title: "How artificial intelligence can explain its decisions"
+    excerpt: "Artificial intelligence (AI) can be trained to recognize whether a tissue image contains a tumor. However, exactly how it makes its decision has remained a mystery until now. A team from the Research Center for Protein Diagnostics (PRODI) at Ruhr-Universität Bochum is developing a new approach that will render an AI's decision transparent and thus trustworthy."
+    publishedDateTime: 2022-09-02T17:53:00Z
+    webUrl: "https://techxplore.com/news/2022-09-artificial-intelligence-decisions.html"
+    ampWebUrl: "https://techxplore.com/news/2022-09-artificial-intelligence-decisions.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-artificial-intelligence-decisions.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 72
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/how-artificial-intelli-1.jpg"
+        width: 1607
+        height: 769
+        isCached: true
+  - title: "How artificial intelligence can explain its decisions"
     excerpt: "Today, when an algorithm identifies a tumour in a tissue sample, it doesn’t reveal how it arrived at this result. And that’s not very trustworthy. Researchers in Bochum are therefore pursuing a new approach."
     publishedDateTime: 2022-09-02T14:04:00Z
     webUrl: "https://www.eurekalert.org/news-releases/963644"
