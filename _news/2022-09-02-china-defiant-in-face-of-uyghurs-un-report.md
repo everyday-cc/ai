@@ -1,25 +1,31 @@
 ---
 category: news
-title: "China defiant in face of Uyghurs UN report"
-excerpt: "A highly anticipated report from the United Nations chronicles China’s mistreatment of the Uyghur ethnic group, a Muslim minority in the far western region of Xinjiang that according to the United States is suffering genocide."
-publishedDateTime: 2022-09-01T22:01:00Z
-originalUrl: "https://www.catholicnewsagency.com/news/252189/china-defiant-in-face-of-uyghurs-un-report"
-webUrl: "https://www.catholicnewsagency.com/news/252189/china-defiant-in-face-of-uyghurs-un-report"
-ampWebUrl: "https://www.catholicnewsagency.com/amp/news/252189/china-defiant-in-face-of-uyghurs-un-report"
-cdnAmpWebUrl: "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/252189/china-defiant-in-face-of-uyghurs-un-report"
+title: "China Defiant in Face of Uyghurs UN Report"
+excerpt: "The report includes testimony from 40 people who say they were subjected to arbitrary detention as well as various forms of torture and humiliation, including sexual mistreatment."
+publishedDateTime: 2022-09-02T02:47:00Z
+originalUrl: "https://www.ncregister.com/cna/china-defiant-in-face-of-uyghurs-un-report"
+webUrl: "https://www.ncregister.com/cna/china-defiant-in-face-of-uyghurs-un-report"
+ampWebUrl: "https://www.ncregister.com/cna/china-defiant-in-face-of-uyghurs-un-report?amp"
+cdnAmpWebUrl: "https://www-ncregister-com.cdn.ampproject.org/c/s/www.ncregister.com/cna/china-defiant-in-face-of-uyghurs-un-report?amp"
 type: article
-quality: 24
-heat: 24
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Catholic News Agency
-  domain: catholicnewsagency.com
+  name: National Catholic Register
+  domain: ncregister.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "/jMa051LjEQE7pD6R+SpKhu4M9XA6mtcEElEmaldnoBGDT65zJAgOetThHmqGY4E5lRtufU8S15ZFSuFCx1fNGwXVRXesr01ZNXByxtqzKw8fpds7CahQo8qB69X/Prrchn/Ddo0bRqKCd0TAnBhA+EgpiK0gjKadOkmBaPBYhNukrmXBir78tq9Qxg1A9JtR3GjkAjZNMekMoKjKhiJf2g5wgGG6JWWVY9aThETxnZImFRgVE1mFiBmn/FTTsWDDZ/iPpyRFQIygvJUMqdHx6C73ynkpO+fq4i6uLockCiUzSeJHSwYl2m5awNT3YYUU2f542ulbreWZttiQgkJvvK8dQ9LHDcSr2HNGWEsjvjoVF3+K8f+X3JAcXH2yQjs5lCZ20MHXHpMsSE4kTIHsPlYKDusJUh97BLB0LdL2J+yHzH976yHPd8LVmjY4DRH0F3Ibz1Z8X0PZ9euTdRvUxKoB+/5XyoDg7+gL/IXN25uSgY5UYovyHj123PpUm+brDCApzVOeaRvMRw2PN3IaA==;AI300GiCPX/D9ZtzsE4i/w=="
+images:
+  - url: "https://publisher-publish.s3.eu-central-1.amazonaws.com/pb-ncregister/swp/hv9hms/media/2022090200094_63112c9086c25620efd35ea2jpeg.jpg"
+    width: 900
+    height: 600
+    isCached: true
+
+secured: "HKRMbqeWwkhZ7emWk0cPdLkwv8tW3CewECus2FIKXe4m9ym7riy2bgcnprCg7RH9UZRwvdFRl+bj0p9BSCBtoccD0mWHpamncT75nY2wTuQlcv12D3mqQjmdnw5t198wvruqB8UE8Y7s9zuS3/ihVESoEaVmLHgrPYUNm6Cn9FezEkdCyVcCENNvznMZ/4fP5+hx0T8dZ2Fkpo0uLLC5LARywiat0iJXd7KP75A+vq1AR+DyC3L/6f0ogRrLPKI10N8gcLPBis57lzIwvHsVLAR+HQICVdSlPxJH9Ol0LHMYALuQcntiCHedj0fjwwGX/EEbxQsx1+9MeIL6lsLFokfnp2TPZd3Bc6jGBG2EJfs=;m4ibTXfyPzy7a5knv26j9w=="
 ---
 

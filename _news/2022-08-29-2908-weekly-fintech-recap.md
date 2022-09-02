@@ -67,19 +67,14 @@ related:
       domain: finextra.com
     quality: 36
   - title: "AI in FinTech Global Market Report 2022: Need for Fraud Detection in Fintech & Financial Institutions Driving Adoption - ResearchAndMarkets.com"
-    excerpt: "The “AI in FinTech Global Market Report 2022” report has been added to ResearchAndMarkets.com’s offering. The global AI in fintech market is expected to grow from $7.25 billion in 2021 to $9.13 billion in 2022 at a compound annual growth rate (CAGR) of 25."
-    publishedDateTime: 2022-08-29T10:26:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-asia-south-america-0232c251b16047f18c094cc48e26a795"
+    excerpt: "The global AI in fintech market is expected to grow from $7.25 billion in 2021 to $9.13 billion in 2022 at a compound annual growth rate (CAGR) of 25.9%. The AI in fintech market is expected to grow to $24."
+    publishedDateTime: 2022-08-29T10:25:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-ai-in-fintech-global-market-report-2022-need-for-fraud-detection-in-fintech-and-financial-institutions-driving-adoption-researchandmarketscom"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 3
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "rggTW+dhrryzCV4S8pOqkWhfSIN4BCQS7xvazy2PcyVbVRzL2+VdqIBQLzT48KG338fclZu4DD8fH23fv5pGj1xPNRT3CSDQSgS/yiTU35FKWIimf6WC1m+/ybaOdM1+2KrJOXvjQJ7Z6ndeCJHkgesyKCJIxevn8mvpOZcj/WTYgknRpAwqzjSfcgYzqCPGdsKHLXfGj4XxCAVFVssgwnNakvFbmZmLF03A+kcZjIMzHTWsqpnCpbbxUmgqKLTfDoEApJ3zvr+BULjTP8uUfMQ/YH3Cr6IkecQFvKNdxP+KfKVzVwKD5LTNnjCs8ZERl4IG0c0Aeessxat7KWOC4LPByXFW+RaY0E2y8WiZz0PWVSe4HKC0qAiSCgml5bEPFanglw9F6K/lrq4IiQCtl6jCnHxvtCcAHyaEHPFuPg9b3oVabQWSfb6zbzjN2aE7iNiOAG8IqLZOhPM5itOCHLWmQqm6ZOmEfr8jQyVjR00Jyc7uuVJUSv9ddK3n1n/BvEMPzLyJdp8ujkGX85WdBw==;0nOaBeSLgsY1xjxa/QAI7Q=="
 ---
