@@ -67,6 +67,22 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "General Motors' Cruise recalls 80 self-driving vehicles owing to a crash"
+    excerpt: "General Motors' startup unit Cruise LLC said on Thursday that it has recalled and updated software in 80 self-driving vehicles owing to a June crash in San Francisco that left two people injured. The National Highway Traffic Safety Administration (NHTSA) said the recalled software could,"
+    publishedDateTime: 2022-09-01T23:43:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/cars/general-motors-cruise-recalls-80-self-driving-vehicles-owing-to-a-crash-41662033142533.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/general-motors-cruise-recalls-80-self-driving-vehicles-owing-to-a-crash/amp-41662033142533.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/general-motors-cruise-recalls-80-self-driving-vehicles-owing-to-a-crash/amp-41662033142533.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 43
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2022/09/01/1600x900/2020-05-14T200545Z_2106968023_RC2KOG9FKP3Q_RTRMADP_3_GM-AUTONOMOUS-LAYOFFS_1589863619313_1662034152119_1662034152119.JPG"
+        width: 1599
+        height: 900
+        isCached: true
   - title: "General Motors Recalls and Updates 80 Self-Driving Vehicles"
     excerpt: "General Motors' (NYSE:GM) startup unit, Cruise LLC, announced Thursday that it had recalled and updated software in 80 self-driving vehicles after a June crash in San Francisco left two people injured."
     publishedDateTime: 2022-09-01T15:26:00Z

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI to Treat Women with Heart Problems"
-    excerpt: "Women are more likely than men to die from heart attacks. The causes are age disparities and the burdens of comorbidities, which makes risk assessment in women difficult."
-    publishedDateTime: 2022-08-30T14:52:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=13195"
-    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=13195"
-    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=13195"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 59
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_13195_16618709843685787.jpg"
-        width: 1000
-        height: 666
-        isCached: true
   - title: "Study finds Artificial Intelligence helps in treating Women with heart attacks"
     excerpt: "Researchers from Switzerland and the United Kingdom analyzed data from 420,781 patients across Europe who had suffered the most common type of heart a.."
     publishedDateTime: 2022-08-31T04:04:00Z

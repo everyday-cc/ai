@@ -20,18 +20,18 @@ topics:
 
 related:
   - title: "First Driverless Spreader Introduced by Case IH and Raven Industries"
-    excerpt: "A new driverless spreader has been introduced this week by CNH Industrial. The Case IH Trident(TM) 5550 applicator with Raven Autonomy(TM) can be operated with or without a driver. CNH Industrial, which owns both Case IH and Raven Industries,"
-    publishedDateTime: 2022-08-31T03:25:00Z
-    webUrl: "https://1010wcsi.com/hoosier-ag-today/first-driverless-spreader-introduced-by-case-ih-and-raven-industries/"
+    excerpt: "A new driverless spreader has been introduced this week by CNH Industrial. The Case IH Trident™ 5550 applicator with Raven Autonomy™ can be"
+    publishedDateTime: 2022-08-30T21:30:00Z
+    webUrl: "https://hoosieragtoday.com/first-driverless-spreader-introduced-by-case-ih-and-raven/"
     type: article
     provider:
-      name: WCSI
-      domain: 1010wcsi.com
+      name: Hoosier AG Today
+      domain: hoosieragtoday.com
     quality: 39
     images:
-      - url: "https://mediaassets.theindychannel.com/weatherimages/WEB_Planner_Scripps.jpg"
+      - url: "https://d30hko96l9xirl.cloudfront.net/media/2022/08/The-Case-IH-Trident%E2%84%A2-5550-applicator-with-Raven-Autonomy%E2%84%A2-allows-for-one-or-more-driverless-machines-in-the-field_622498.jpg"
         width: 1920
-        height: 1080
+        height: 1280
         isCached: true
   - title: "First Driverless Spreader Introduced by Case IH and Raven"
     excerpt: "A new driverless spreader has been introduced this week by CNH Industrial. The Case IH Trident™ 5550 applicator with Raven Autonomy™ can be"

@@ -35,6 +35,20 @@ related:
         width: 999
         height: 550
         isCached: true
+  - title: "Digital identity verification checks to hit $30 billion by 2027: Juniper Research"
+    excerpt: "Digital identity verification checks spending will reach US$20.8 billion ($30 billion) globally in 2027 up from US$$11.6 billion ($16 billion) in 2022 driven by the prevalence of digital services requiring onboarding and the growing requirement for more robust identity verification systems in the"
+    publishedDateTime: 2022-09-01T21:54:00Z
+    webUrl: "https://itwire.com/business-it-news/security/digital-identity-verification-checks-to-hit-$30-billion-by-2027-juniper-research.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 19
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/a7b62858f43c2ddf5a8d650e465c8522_M.jpg"
+        width: 375
+        height: 385
+        isCached: true
   - title: "Digital identity verification spend to exceed $20bn globally by 2027"
     excerpt: "A new study from Juniper Research has found spend on digital identity verification checks will reach $20.8 billion (R351bn) globally in 2027; up from $11.6bn in 2022."
     publishedDateTime: 2022-08-31T10:00:00Z

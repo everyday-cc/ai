@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-01T16:23:00Z
 originalUrl: "https://telecoms.com/517274/ibm-says-ai-is-going-to-be-critical-to-telecoms-but-the-key-is-doing-it-ethically/"
 webUrl: "https://telecoms.com/517274/ibm-says-ai-is-going-to-be-critical-to-telecoms-but-the-key-is-doing-it-ethically/"
 type: article
-quality: 31
-heat: 31
+quality: 33
+heat: 33
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2022/09/Stephen-Rose-Profile-Photo-1024x639.jpg"

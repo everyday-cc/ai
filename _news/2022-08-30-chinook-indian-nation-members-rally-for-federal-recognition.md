@@ -37,13 +37,20 @@ related:
         isCached: true
   - title: "Chinook Indian Nation members rally for federal recognition"
     excerpt: "Federal recognition would mean access to federal dollars for healthcare and housing for this group of tribes, which are based in Southwestern Washington."
-    publishedDateTime: 2022-08-30T22:10:00Z
-    webUrl: "https://www.mlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html"
+    publishedDateTime: 2022-08-30T17:16:00Z
+    webUrl: "https://www.oregonlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html"
+    ampWebUrl: "https://www.oregonlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html?outputType=amp"
     type: article
     provider:
-      name: MLive
-      domain: mlive.com
-    quality: 4
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 44
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BDPWLIXENRFN5FMNDB6TY6JQTM.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
 
 secured: "1/wB78IZvTNVRzrBLSxhE5PmTlXVXJFXx9yQn8RIupdf2ax+UByZNGjsvvT4tAq38aKsNDHk91iBWiCFsjYN23Cth5qqMq3E46UVLoJeyJU9GuFtq0Fg2hNi2N2J0d9UpaGU9fNsi9eP4Q7GvA/g4effmn1BYlOIgq3FiKNZ420uoEfVllbh6yiT4mWU35NJ17Ro3MSN0ipa+1NUMbHDxZwxjZ9Grhc39xRdBzHQRLv/D3mNRdVFUmReTYopLVAyupE9Pu79QojcdOEaFgubRaFhXZm42X0/G2VEQK5s2Cy4JeDKC6KyBTm1sG56dntySF9viTAhNcqI3s+gjDjnn+4gl18pe6TCq0vVz9npvq9h0SIPYRz20NlUVWN8jrOvaPsgazqk8xkMm6XXEMwZfp5zjnF+VBtb8wULdD5DD0JMPYzrt8CAQc5hIcSdFuAhIZlvw3Avf7ienqG7oy0NN/sZwcuRonoammctFHpl/tY9QHl7MfKz3dQWobmk4GwRZKblS54QMhpY0mTZ3YFiew==;NUt8d8QZd0uFE+NTWnv65Q=="
 ---

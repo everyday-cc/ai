@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/gms-cruise-r
 webUrl: "https://www.reuters.com/business/autos-transportation/gms-cruise-recalls-revises-self-driving-software-after-crash-2022-09-01/"
 type: article
 quality: 54
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1813508!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/a-cruise-vehicle-in-san-francisco-california-photographer-david-paul-morris-bloomberg.jpg"
         width: 620
         height: 349
+        isCached: true
+  - title: "General Motors' Cruise recalls 80 self-driving vehicles owing to a crash"
+    excerpt: "General Motors' startup unit Cruise LLC said on Thursday that it has recalled and updated software in 80 self-driving vehicles owing to a June crash in San Francisco that left two people injured. The National Highway Traffic Safety Administration (NHTSA) said the recalled software could,"
+    publishedDateTime: 2022-09-01T23:43:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/cars/general-motors-cruise-recalls-80-self-driving-vehicles-owing-to-a-crash-41662033142533.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/general-motors-cruise-recalls-80-self-driving-vehicles-owing-to-a-crash/amp-41662033142533.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/general-motors-cruise-recalls-80-self-driving-vehicles-owing-to-a-crash/amp-41662033142533.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 43
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2022/09/01/1600x900/2020-05-14T200545Z_2106968023_RC2KOG9FKP3Q_RTRMADP_3_GM-AUTONOMOUS-LAYOFFS_1589863619313_1662034152119_1662034152119.JPG"
+        width: 1599
+        height: 900
         isCached: true
   - title: "GM's Cruise Recalls Self-Driving Software Involved in June Crash"
     excerpt: "After two people were injured in the incident, Cruise blocked its robot vehicles from making left turns for several weeks before issuing a software update."

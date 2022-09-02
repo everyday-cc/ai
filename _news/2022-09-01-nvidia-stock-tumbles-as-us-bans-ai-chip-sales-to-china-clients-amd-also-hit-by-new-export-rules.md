@@ -173,6 +173,22 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 76
+  - title: "US blocks sale of some Nvidia and AMD AI chips to China"
+    excerpt: "The US government’s effort will restrict Chinese AI researchers using the chips to train machine-learning models."
+    publishedDateTime: 2022-09-01T14:42:00Z
+    webUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.html"
+    ampWebUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 74
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/05/nvidia-a100-gpu-100842029-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 678
+        isCached: true
   - title: "US government blocks sale of some Nvidia and AMD AI chips to China"
     excerpt: "The US government’s ongoing attempts to restrict China’s military capabilities will affect Chinese AI researchers using the chips to train machine learning models."
     publishedDateTime: 2022-09-01T14:42:00Z
@@ -335,6 +351,15 @@ related:
       name: Windows Central
       domain: windowscentral.com
     quality: 33
+  - title: "Nvidia could take a $400M revenue hit from new government restrictions on AI chips"
+    excerpt: "New restrictions are limiting both @Nvidia and @AMD 's ability to sell advanced chips in China. #SiliconValley"
+    publishedDateTime: 2022-09-01T22:24:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2022/09/01/government-restrictions-set-to-cost-nvidia-400m.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 28
   - title: "Nvidia and AMD are warning about new US export limits to Russia and China on AI chips"
     excerpt: "The U.S. has begun to impose fresh restrictions on exports of advanced chips necessary for AI-related applications to Russia and China. Sales of the semiconductors that power systems sold by AMD and Nvidia without a license are affected. The controls ..."
     publishedDateTime: 2022-09-01T07:13:00Z
@@ -363,6 +388,6 @@ related:
       domain: tweaktown.com
     quality: 19
 
-secured: "31tWLJM1KpIcm/pgkbmRKK8ZfAO8cZPyFC2/U2C0A+ic6gCu9Q4T85zpr0+L7RnWTcD3sxcwqdgrR/F+ZTDs9idNdM6YyIAtJXZ8LTqWjl4G8xMKcwYHhr8UMRmhU5wf2XoGn7B58HOGtK8s7nq/JlMeYHRTd/E4llcf/c5S+d6gJTV7ln9ebLaPYLeopeiqBow6BS7gNvggnllhDRiyi7BT3oLE3ZP650Q/WT+Cufz80qFQCiIYOSD/jCSUyRAPrYrA0sI5Vt1kDNqNwld4H6TsQKXy0XgFFuPzc/wUOdjRpC/HS5q18wL9HbrDt5IKtKLgWOLhuJ+JzGn7kagngbml9mkFtwQ2JwjA5c64SGc=;MOO1cfI4Dj1/xa0lxKMmhQ=="
+secured: "brjQyc1FW3OBSpetaUYpsjeU8iWhIS0L8Y4xDPj1GjvIWotYp+zeL0p0dowSbHSPAEnxl+GHZIygFYi+okhGaiEw9en/WbiLHoq6K+wjTeBJm9MLciBfQlYyFkIb7bef/G/hzvCGY3/qV2dR3iJ9TvqbpjchHC943qxzwRnO422PoNWV2QqU6nuWDafiDwFtLVd3jnOGmuNZXRVcRIWWwmrD0UpIfPxwgVZxRIVHc9SNSQtswen9eA05iP2dLjn4t4CvHspeFkCeKjOZWdFZyT3H4FygEA/71mlIjyenkCkOqvQX7ohzF/6gfhc2wM90s1FM9F27zEhnLZ0Wy9dpIVb6xEn01xQQODCiitJBBC0qK5Wz64NSyctylB4j1WCsG155Um/p/Msk1xXROvKt44QoYJ19GOMrqJn953EEqcc7leLCd3iw8/KwiiCBblKd5RW86ofizQ7kUcva41pwNbf16hnZl8foWlhbHkEkImE7832Q2KsvffLXcsF6jOelLMBP3Y1m/aEqmhllTbSQLA==;zoXdX1jz59kNaXw8kcIEzg=="
 ---
 

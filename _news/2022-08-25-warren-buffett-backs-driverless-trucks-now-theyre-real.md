@@ -6,9 +6,6 @@ publishedDateTime: 2022-08-25T16:37:00Z
 originalUrl: "https://www.washingtonpost.com/business/energy/warren-buffett-backs-driverless-trucks-now-theyre-real/2022/08/25/62e25994-2469-11ed-a72f-1e7149072fbc_story.html"
 webUrl: "https://www.washingtonpost.com/business/energy/warren-buffett-backs-driverless-trucks-now-theyre-real/2022/08/25/62e25994-2469-11ed-a72f-1e7149072fbc_story.html"
 type: article
-quality: 39
-heat: -1
-published: false
 
 provider:
   name: Washington Post
@@ -24,17 +21,6 @@ images:
     height: 960
     isCached: true
 
-related:
-  - title: "Tesla accused of silencing safety campaigners demonstrating against driverless technology"
-    excerpt: "In the letter, the electric car titan required the Dawn Project to take down its TV commercials, which show a driverless Tesla running down child-sized mannequins as part of a safety test."
-    publishedDateTime: 2022-08-25T18:27:00Z
-    webUrl: "https://www.cityam.com/tesla-accused-of-silencing-safety-campaigners-demonstrating-against-driverless-technology/"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 40
-
-secured: "7TM14yBRkObgZqdIcm8z3Rgrp86cLO7tsRiUisE1Fs6rCHhA82iyLQ1srrFnAKqxqt306M10Av0bfcGyskUw8mNrMf1VvtpjNtwa/q63UzqwNePVMxt1Jg/xq3z8dmoB9WqtA3V/GXBQxsDOpcVzVVkpgkIx7XKaYNVUOTX7KD1E2GM3cSe1Vso3Ah0fs8P1B8lIPGIZkApFLfiZXv8ZeiXPvUeEG2Hp1vEPIFhqCJdBg60PHa+biTGI8jIHUXcbYtiyD22LixRvTJFeCFE5x/xUE7TgJLWpIkFivaDh0a+IR5Z9qeoAZz9B4DudXH3La8ikd5IV+pt2qvc5+26A+bbTEzrqzhhde9g/64056dI=;zD52fKXFnYYUI5Xc0w/v+Q=="
+secured: "U3qew7Tw1pZzjQqJFUgqUELFeQgiOd7Ankgrmu3Wu57pj8CdvIenbPHkFm8QtZ9TkbxIyfmKhWsFG3otvqATcjIKC8rL4nKr+sfc7X4mKH5b8hEnkE6YmXmUB0sDWmqEJZRuuBrJXR9+/1GANV5MlbjTuizb6tQt2p/Rh4+B3AkR0/ueRGueofqsuYy3LW3CyMKhvbnP34ft7gaBsgR5pwn1ktIeqZ/As8jHgaeebt4f5B6CRrqGskHpCiBbZmIKdgzEVLwzB+ybbvlOTrZQV2xpLCBDNj0Il1iqnTjFEOLFjcxCqtRih5pBKoEmF6MII3czTOl2WEPAVPh0jiySkt4dGgPJzdNZDgCvAHXuDlA=;vUJP6S5neuAVOKbZGMbEfQ=="
 ---
 

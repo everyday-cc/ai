@@ -10,7 +10,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-market-size-share-volume-trends-demand-forecast-report-2022-2028-2022-09-01",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -54,21 +54,21 @@
       ]
     },
     {
-      "path": "_news/2022-08-30-ai-to-treat-women-with-heart-problems.md",
-      "title": "AI to Treat Women with Heart Problems",
-      "excerpt": "Women are more likely than men to die from heart attacks. The causes are age disparities and the burdens of comorbidities, which makes risk assessment in women difficult.",
+      "path": "_news/2022-08-31-study-finds-artificial-intelligence-helps-in-treating-women-with-heart-attacks.md",
+      "title": "Study finds Artificial Intelligence helps in treating Women with heart attacks",
+      "excerpt": "Researchers from Switzerland and the United Kingdom analyzed data from 420,781 patients across Europe who had suffered the most common type of heart a..",
       "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=13195",
-      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=13195",
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/study-finds-artificial-intelligence-helps-in-treating-women-with-heart-attacks/93894432",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/study-finds-artificial-intelligence-helps-in-treating-women-with-heart-attacks/93894432",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 125,
       "tags": null,
       "images": [
         {
-          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_13195_16618709843685787.jpg",
-          "width": 1000,
-          "height": 666,
+          "url": "https://etimg.etb2bimg.com/thumb/msid-93894432,imgsize-40566,width-1200,height-628,overlay-etcio/study-finds-artificial-intelligence-helps-in-treating-women-with-heart-attacks.jpg",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,13 +76,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=13195",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=13195",
-      "publishedDateTime": "2022-08-30T07:52:00-07:00",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/study-finds-artificial-intelligence-helps-in-treating-women-with-heart-attacks/93894432",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/study-finds-artificial-intelligence-helps-in-treating-women-with-heart-attacks/93894432",
+      "publishedDateTime": "2022-08-30T21:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
+        "name": "India Times",
+        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null

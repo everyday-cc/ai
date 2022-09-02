@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thisdaylive.com/index.php/2022/08/31/unilag-trains-youth
 cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2022/08/31/unilag-trains-youths-on-coding-robotics-programming/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

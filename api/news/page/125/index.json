@@ -2,6 +2,187 @@
   "page": 125,
   "value": [
     {
+      "path": "_news/2022-05-26-ai-less-about-killer-robots-more-about-pentagon-transformation-groen-says.md",
+      "title": "AI less about ‘killer robots,’ more about Pentagon transformation, Groen says",
+      "excerpt": "Implementation in the department, of course, is always a challenge,” the director said, “as new technology meets legacy processes, legacy organizations and legacy technology.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.defensenews.com/artificial-intelligence/2022/05/26/ai-less-about-killer-robots-more-about-pentagon-transformation-groen-says/",
+      "originalUrl": "https://www.defensenews.com/artificial-intelligence/2022/05/26/ai-less-about-killer-robots-more-about-pentagon-transformation-groen-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.defensenews.com/resizer/ONcq6SIv1d1nvIPTPhqzHchK3Z0=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/QJ6RVWDRVZGCRIYT4HX4ZLAZY4.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Defense News",
+        "domain": "defensenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-pramana-labs-to-power-natural-language-search-in-the-domo-platform.md",
+      "title": "Pramana Labs to Power Natural Language Search in the Domo Platform",
+      "excerpt": "Raleigh, N.C., May 26, 2022 (GLOBE NEWSWIRE) -- Raleigh, N.C. - Pramana Labs, an AI technology company, today announced that its powerful natural language processing (NLP) will be integrated into ...",
+      "sourceUrl": null,
+      "webUrl": "https://ktla.com/business/press-releases/globenewswire/8560791/pramana-labs-to-power-natural-language-search-in-the-domo-platform/",
+      "originalUrl": "https://ktla.com/business/press-releases/globenewswire/8560791/pramana-labs-to-power-natural-language-search-in-the-domo-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png",
+          "width": 600,
+          "height": 207,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTLA",
+        "domain": "ktla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity.md",
+      "title": "Ethical AI Development: A Moral Responsibility And A Commercial Necessity",
+      "excerpt": "The full potential of AI will only be unleashed when its human inputs are truly valued and properly nurtured believes Shoma Kimura, Senior Director of AI Services for TaskUs. Amid the high-tech excitement and ever-rising expectations surrounding it,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/taskus/2022/05/26/ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity/",
+      "originalUrl": "https://www.forbes.com/sites/taskus/2022/05/26/ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//6286108612fba45d9fab7b9e/0x0.jpg?format=jpg&width=1200",
+          "width": 904,
+          "height": 732,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/taskus/2022/05/26/ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/taskus/2022/05/26/ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity/amp/",
+      "publishedDateTime": "2022-05-26T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-baidu-announces-first-quarter-2022-results.md",
+      "title": "Baidu Announces First Quarter 2022 Results",
+      "excerpt": "\"Baidu delivered solid first quarter results, especially with regard to our cloud and intelligent driving businesses. Baidu AI Cloud reported another quarter of strong revenue growth and Apollo Go ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/baidu-announces-first-quarter-2022-results-1031490339",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/baidu-announces-first-quarter-2022-results-1031490339",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-26-is-california-still-investigating-teslas-self-driving-claims.md",
       "title": "Is California Still Investigating Tesla’s Self-Driving Claims?",
       "excerpt": "(TNS) — It's been a year since the California Department of Motor Vehicles opened an investigation into Tesla's sales pitch for its Full Self-Driving feature, the $12,000 software package that supposedly enables a Tesla car to drive itself through city ...",
@@ -895,179 +1076,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-face-recognition-amazon-tech-under-fire-from-lawmakers.md",
-      "title": "Face-Recognition Amazon Tech Under Fire From Lawmakers",
-      "excerpt": "The controversial artificial intelligence software, called Rekognition, scans images and videos to identify objects, emotions, people, text and activities, according to the Seattle-based company’s website. Amazon, which runs Rekognition on its servers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.courthousenews.com/amazon-face-recognition-tech-under-fire-from-lawmakers/",
-      "originalUrl": "https://www.courthousenews.com/amazon-face-recognition-tech-under-fire-from-lawmakers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Courthouse News Service",
-        "domain": "courthousenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-fortindr-adds-network-detection-response-to-fortinet-security-fabric.md",
-      "title": "FortiNDR adds network detection, response to Fortinet Security Fabric",
-      "excerpt": "FortiNDR accelerates threat detection with artificial intelligence With the ... virtual security analyst (VSA), which employs deep neural networks – the next-generation of AI – and is designed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/6GxRKqYQ6ENqb3Wj",
-      "originalUrl": "https://www.itweb.co.za/content/6GxRKqYQ6ENqb3Wj",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/jHrWB3nT2F4uggbnMwTC5aZ8MujuCdU93936VZkzwCmqLVQAWomcfxZA1c2nBgNpk9KZQ97FgdoFwokqttxbUTw=w816-h428",
-          "width": 761,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/6GxRKqYQ6ENqb3Wj",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/6GxRKqYQ6ENqb3Wj",
-      "publishedDateTime": "2022-05-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-kyrgyzstan-to-kings-cross-the-star-baker-cooking-up-code.md",
-      "title": "Kyrgyzstan to King’s Cross: the star baker cooking up code",
-      "excerpt": "My day can vary, it really depends on which phase of the project I'm on. Let’s say we want to add a feature to our product – my tasks could range from designing solutions and working with the team to find the best one, to deploying new features into production and doing maintenance. Along the way, I’ll",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/kyrgyzstan-to-kings-cross-the-star-baker-cooking-up-code",
-      "originalUrl": "https://www.deepmind.com/blog/kyrgyzstan-to-kings-cross-the-star-baker-cooking-up-code",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/628f550a5c25a7d58313bca8_aliyah-3.jpg",
-          "width": 1600,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-robots-are-displacing-manual-labor-jobs.md",
-      "title": "Robots Are Displacing Manual Labor Jobs",
-      "excerpt": "While the panelists agreed that robots will replace may of the jobs that Leavitt referred to as “mind-numbing repetitive manual labor ... Rob Spiegel has covered automation and control for 17 years, 15 of them for Design News. Other topics he has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/robots-are-displacing-manual-labor-jobs",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/robots-are-displacing-manual-labor-jobs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/styles/article_featured_standard/public/download_3.jpg?itok=8H3bGPP8",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

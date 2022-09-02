@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-02-forget-chess-deepminds-training-its-new-ai-to-play-football.md",
+      "title": "Forget chess, DeepMind’s training its new AI to play football",
+      "excerpt": "Watch out footballers, a new challenger has entered the arena as DeepMind switches its focus from board games to the world's favorite sport.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/forget-chess-deepminds-training-new-ai-play-football",
+      "originalUrl": "https://thenextweb.com/news/forget-chess-deepminds-training-new-ai-play-football",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F09%2Fdeepmindfootball.jpg&signature=c9c7547e41dd0811817adb1b56c4a07d",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-01T15:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-29-tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.md",
       "title": "TensorFlow, PyTorch, and JAX: Choosing a deep learning framework",
       "excerpt": "Three widely used frameworks are leading the way in deep learning research and production today. One is celebrated for ease of use, one for features and maturity, and one for immense scalability. Which one should you use?",
@@ -1343,60 +1395,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-deepminds-perceiver-ar-a-step-toward-more-ai-efficiency.md",
-      "title": "DeepMind's Perceiver AR: a step toward more AI efficiency",
-      "excerpt": "The auto-regressive attention at the heart of the Transformer, and programs like it, becomes a scaling nightmare. A recent DeepMind/Google work proposes a way to put such programs on a diet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/deepminds-perceiver-ar-a-step-toward-more-ai-efficiency/",
-      "originalUrl": "https://www.zdnet.com/article/deepminds-perceiver-ar-a-step-toward-more-ai-efficiency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/1ca1c71e44c68dcca6cd4405a9acd075d5cd7bfc/2022/08/01/36a1f60d-c3f1-4438-956c-df33405caee8/perceiver-ar-crop-for-twitter.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-31T20:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Google AI",
-        "Machine Learning"
       ]
     }
   ],

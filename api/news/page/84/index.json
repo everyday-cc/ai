@@ -2,6 +2,178 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2022-06-24-pentagons-long-awaited-responsible-ai-pathway-highlights-flexibility-trust.md",
+      "title": "Pentagon’s long-awaited ‘Responsible AI’ pathway highlights flexibility, ‘trust’",
+      "excerpt": "One key element is ensuring a transformation from \"viewing AI as an enigmatic and incomprehensible technology to understanding the capabilities and limitations of this widely adopted and accepted technology.",
+      "sourceUrl": null,
+      "webUrl": "https://breakingdefense.com/2022/06/pentagons-long-awaited-responsible-ai-pathway-highlights-flexibility-trust/",
+      "originalUrl": "https://breakingdefense.com/2022/06/pentagons-long-awaited-responsible-ai-pathway-highlights-flexibility-trust/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sites.breakingmedia.com/uploads/sites/3/2021/02/KathHicks.jpg",
+          "width": 1800,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://breakingdefense.com/2022/06/pentagons-long-awaited-responsible-ai-pathway-highlights-flexibility-trust/amp/",
+      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2022/06/pentagons-long-awaited-responsible-ai-pathway-highlights-flexibility-trust/amp/",
+      "publishedDateTime": "2022-06-23T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Breaking Defense",
+        "domain": "breakingdefense.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-instagram-tests-using-ai-other-tools-for-age-verification.md",
+      "title": "Instagram tests using AI, other tools for age verification",
+      "excerpt": "By BARBARA ORTUTAY and MATT O’BRIEN AP Technology Writers Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID.",
+      "sourceUrl": null,
+      "webUrl": "https://krdo.com/news/ap-national-business/2022/06/23/instagram-tests-using-ai-other-tools-for-age-verification/",
+      "originalUrl": "https://krdo.com/news/ap-national-business/2022/06/23/instagram-tests-using-ai-other-tools-for-age-verification/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://krdo.b-cdn.net/2021/06/krdo-biz-and-tech.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KRDO",
+        "domain": "krdo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-deep-learning-in-machine-vision-market-is-predicted-to-see-lucrative-gains-of-usd-926240-million-by-2029.md",
+      "title": "Deep Learning in Machine Vision Market Is Predicted to See Lucrative Gains of USD 9,262.40 Million By 2029",
+      "excerpt": "Deep learning in machine vision market is expected to gain market growth in the forecast period of 2022 to 2029. Data Bridge Market Research analyses that the market is growing with a CAGR of 12 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/deep-learning-in-machine-vision-market-is-predicted-to-see-lucrative-gains-of-usd-9262-40-million-by-2029",
+      "originalUrl": "https://www.digitaljournal.com/pr/deep-learning-in-machine-vision-market-is-predicted-to-see-lucrative-gains-of-usd-9262-40-million-by-2029",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/Oceans-Plastic-AFP-1K-02-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-adtheorent-wins-machine-learning-innovation-award-in-2022-artificial-intelligence-ai-breakthrough-awards-program.md",
+      "title": "AdTheorent Wins \"Machine Learning Innovation Award\" in 2022 Artificial Intelligence (AI) Breakthrough Awards Program",
+      "excerpt": "Marks AdTheorent's Fifth Consecutive AI Breakthrough Awards Win . NEW YORK, June 23, 2022 /PRNewswire/ -- AdTheorent Holding Company, Inc. (\"AdTheorent\" or the \"Company) (Nas",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/adtheorent-wins-machine-learning-innovation-award-in-2022-artificial-intelligence-ai-breakthrough-awards-program-01655989537",
+      "originalUrl": "https://www.barrons.com/articles/adtheorent-wins-machine-learning-innovation-award-in-2022-artificial-intelligence-ai-breakthrough-awards-program-01655989537",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/barrons/images/social_highres.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/adtheorent-wins-machine-learning-innovation-award-in-2022-artificial-intelligence-ai-breakthrough-awards-program-01655989537",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/adtheorent-wins-machine-learning-innovation-award-in-2022-artificial-intelligence-ai-breakthrough-awards-program-01655989537",
+      "publishedDateTime": "2022-06-23T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-06-24-how-machine-learning-ai-is-going-to-change-gaming-forever.md",
       "title": "How machine learning AI is going to change gaming forever",
       "excerpt": "Services like Craiyon that automatically generate rough AI images based on virtually any input prompt have produced a range of wild and wacky collages across the net, which you ca",
@@ -966,195 +1138,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-ai-adoption-to-add-500-billion-to-indias-gdp-by-2025-nasscom.md",
-      "title": "AI adoption to add $500 billion to India's GDP by 2025: Nasscom",
-      "excerpt": "The AI adoption in four key sectors -- BFSI, consumer packaged goods (CPG) and retail, healthcare, and industrials/automotive -- can contribute 60% of the total $ 500 billion opportunity ...",
-      "sourceUrl": null,
-      "webUrl": "https://telecom.economictimes.indiatimes.com/news/ai-adoption-to-add-500-billion-to-indias-gdp-by-2025-nasscom/92411737",
-      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/ai-adoption-to-add-500-billion-to-indias-gdp-by-2025-nasscom/92411737",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-92411737,imgsize-111048,width-1200,height-628,overlay-ettelecom/ai-adoption-to-add-500-billion-to-india-s-gdp-by-2025-nasscom.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/ai-adoption-to-add-500-billion-to-indias-gdp-by-2025-nasscom/92411737",
-      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/ai-adoption-to-add-500-billion-to-indias-gdp-by-2025-nasscom/92411737",
-      "publishedDateTime": "2022-06-23T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "telecom.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-innovation-a-key-enabler-of-safe-traffic-management.md",
-      "title": "Innovation: A key enabler of safe traffic management",
-      "excerpt": "While driverless vehicles and flying taxis ... traffic management, and Artificial Intelligence Enforcement solutions, but also investing massively to enhance drivers’ lifestyle through many ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/business/innovation-a-key-enabler-of-safe-traffic-management",
-      "originalUrl": "https://www.khaleejtimes.com/business/innovation-a-key-enabler-of-safe-traffic-management",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.khaleejtimes.com?uuid=5e6aa570-905d-56a2-98b0-656266918f72&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8992&x=0&y=0&width=1200&height=675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khaleejtimes.com/business/innovation-a-key-enabler-of-safe-traffic-management?amp=1",
-      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/business/innovation-a-key-enabler-of-safe-traffic-management?amp=1",
-      "publishedDateTime": "2022-06-23T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-can-wall-crawling-robots-help-solve-our-infrastructure-problems.md",
-      "title": "Can wall crawling robots help solve our infrastructure problems?",
-      "excerpt": "With federal dollars for infrastructure increasing, the technology could have additional public sector applications. But how big a difference can robots make? Is it too little too",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/can-wall-crawling-robots-solve-infrastructure-problems/",
-      "originalUrl": "https://www.zdnet.com/article/can-wall-crawling-robots-solve-infrastructure-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/f40053e0e058a596fc5c696dd4c51098272ee76d/2022/06/22/59c9d5d3-83d7-4825-8fd1-20e550c568c2/brooklyn-bridge.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/can-wall-crawling-robots-solve-infrastructure-problems/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-wall-crawling-robots-solve-infrastructure-problems/",
-      "publishedDateTime": "2022-06-23T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-the-ai-first-database-ecosystem.md",
-      "title": "The AI-First Database Ecosystem",
-      "excerpt": "An AI-first database ecosystem has emerged, and it might just transform your company’s search and recommendation capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/23/the-ai-first-database-ecosystem/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/23/the-ai-first-database-ecosystem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//61950180a260c12d22db736c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/23/the-ai-first-database-ecosystem/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/23/the-ai-first-database-ecosystem/amp/",
-      "publishedDateTime": "2022-06-23T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

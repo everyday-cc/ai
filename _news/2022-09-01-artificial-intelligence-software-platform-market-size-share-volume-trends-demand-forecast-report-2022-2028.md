@@ -87,6 +87,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Artificial Intelligence Market Size, Trends, Industry Research Report 2022-2027"
+    excerpt: "According to IMARC Group's latest reserach report the global artificial intelligence market reached a value of US$ 56.5 Billion in 2021. Looking forward, IMARC Group expects the market to reach US$ 308."
+    publishedDateTime: 2022-09-01T22:55:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/ab28727692/artificial-intelligence-market-size-trends-industry-research-report-2022-2027"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28727692"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28727692"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 53
+    images:
+      - url: "https://www.abnewswire.com/uploads/1662012669.jpeg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Computer Vision Market Share | Trend Analysis, Production Scenario And Supply Forecast By 2031"
     excerpt: "Computer Vision Market Size Computer Vision Market size was valued at USD 11.22 billion in 2021 and is expected to expand at a compound a"
     publishedDateTime: 2022-09-01T17:56:00Z

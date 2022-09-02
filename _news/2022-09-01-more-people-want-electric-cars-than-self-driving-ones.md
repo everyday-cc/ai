@@ -55,6 +55,20 @@ related:
         width: 619
         height: 377
         isCached: true
+  - title: "Enhanced Road Simulations To Help Self-Driving Cars Developed"
+    excerpt: "Researchers have developed a new way to create photorealistic images for simulators, paving the way for better testing of driverless cars."
+    publishedDateTime: 2022-08-30T09:02:00Z
+    webUrl: "https://www.technologynetworks.com/informatics/news/enhanced-road-simulations-to-help-self-driving-cars-developed-365147"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 24
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/365147/enhanced-road-simulations-to-help-self-driving-cars-developed-365147-640x360.jpg?cb=20220830"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Self-Driving Car Tech Forgotten by Automakers Is Still Kept Alive by Federal Agency"
     excerpt: "There was a time when the answer to how to make self-driving cars work was to design a singular technology that would allow every vehicle on the road to communicate with everything — other cars, pieces of infrastructure,"
     publishedDateTime: 2022-08-30T22:30:00Z

@@ -180,6 +180,22 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 76
+  - title: "US blocks sale of some Nvidia and AMD AI chips to China"
+    excerpt: "The US government’s effort will restrict Chinese AI researchers using the chips to train machine-learning models."
+    publishedDateTime: 2022-09-01T14:42:00Z
+    webUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.html"
+    ampWebUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 74
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/05/nvidia-a100-gpu-100842029-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 678
+        isCached: true
   - title: "US government blocks sale of some Nvidia and AMD AI chips to China"
     excerpt: "The US government’s ongoing attempts to restrict China’s military capabilities will affect Chinese AI researchers using the chips to train machine learning models."
     publishedDateTime: 2022-09-01T14:42:00Z
@@ -342,6 +358,15 @@ related:
       name: Windows Central
       domain: windowscentral.com
     quality: 33
+  - title: "Nvidia could take a $400M revenue hit from new government restrictions on AI chips"
+    excerpt: "New restrictions are limiting both @Nvidia and @AMD 's ability to sell advanced chips in China. #SiliconValley"
+    publishedDateTime: 2022-09-01T22:24:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2022/09/01/government-restrictions-set-to-cost-nvidia-400m.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 28
   - title: "HPC-AI Chips in the News: NVIDIA, AMD Ensnared in US-China Trade War; Arm Sues Qualcomm"
     excerpt: "NVIDIA and AMD, makers of advanced GPUs used in HPC-AI workloads, became embroiled this week in the deteriorating relations and ongoing trade war between the US and the People’s Republic of China. Yesterday,"
     publishedDateTime: 2022-09-01T19:39:00Z

@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-07-13-googles-deepmind-ai-now-has-a-babys-understanding-of-object-physics.md",
+      "title": "Google’s DeepMind AI Now Has a Baby’s Understanding of Object Physics",
+      "excerpt": "Computer scientists have created an AI program that understands simple physical rules about objects, similar to a baby's understanding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2022/07/ai-baby-object/",
+      "originalUrl": "https://www.gizmodo.com.au/2022/07/ai-baby-object/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/07/14/ai-baby.jpg?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2022/07/ai-baby-object/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/07/ai-baby-object/amp/",
+      "publishedDateTime": "2022-07-13T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo Australia",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-07-13-top-10-causes-of-stalled-aiml-projects.md",
       "title": "Top 10 causes of stalled AI/ML projects",
       "excerpt": "Discussing the ten most common causes of AI/ML projects stalling (and eventually being cancelled), and how CIOs can formulate a plan to accelerate project process.",
@@ -1274,50 +1318,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-07-02-support-vector-machines-lead-machine-learning-models-in-predicting-liver-decompensation.md",
-      "title": "Support vector machines lead machine learning models in predicting liver decompensation",
-      "excerpt": "Disclosures: Healio was unable to confirm relevant financial disclosures at the ... subset of patients in Germany compared with other machine learning models, according to data presented at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.healio.com/news/gastroenterology/20220629/support-vector-machines-lead-machine-learning-models-in-predicting-liver-decompensation",
-      "originalUrl": "https://www.healio.com/news/gastroenterology/20220629/support-vector-machines-lead-machine-learning-models-in-predicting-liver-decompensation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.healio.com/~/media/images/fscss/i3wyanokecdncom/healio_safe_image.png",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-02T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healio",
-        "domain": "healio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
