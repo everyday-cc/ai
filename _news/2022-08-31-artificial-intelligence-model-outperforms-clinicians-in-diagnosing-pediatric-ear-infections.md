@@ -37,7 +37,7 @@ related:
     provider:
       name: Medindia
       domain: medindia.net
-    quality: 59
+    quality: 61
     images:
       - url: "https://images.medindia.net/amp-images/health-images/hear-aid-baby1.jpg"
         width: 1200

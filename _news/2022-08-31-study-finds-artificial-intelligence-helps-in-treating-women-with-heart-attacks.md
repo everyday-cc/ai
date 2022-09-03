@@ -9,8 +9,8 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technolog
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/study-finds-artificial-intelligence-helps-in-treating-women-with-heart-attacks/93894432"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: India Times
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence can treat women with heart attacks: Study"
+    excerpt: "Heart attacks are one of the most common causes of death globally, with women dying at a higher rate than males. Cardiologists have been concerned about this for decades, and it has sparked debate in the medical community concerning the causes and consequences of potential treatment gaps."
+    publishedDateTime: 2022-09-03T18:44:00Z
+    webUrl: "https://theprint.in/health/artificial-intelligence-can-treat-women-with-heart-attacks-study/1115408/"
+    ampWebUrl: "https://theprint.in/health/artificial-intelligence-can-treat-women-with-heart-attacks-study/1115408/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/health/artificial-intelligence-can-treat-women-with-heart-attacks-study/1115408/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 59
+    images:
+      - url: "https://static.theprint.in/wp-content/uploads/2022/09/ANI-20220903181240.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Artificial Intelligence can help in treatment of heart attacks among women: Study"
     excerpt: "The issue begins with the symptoms: unlike males, who typically experience chest pain spreading to the left arm, a heart attack in women frequently appears as abdomen discomfort radiating to the back or nausea and vomiting."
     publishedDateTime: 2022-08-30T08:49:00Z

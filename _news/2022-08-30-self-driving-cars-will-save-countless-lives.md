@@ -89,6 +89,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "NC State researchers test safety benefits of self driving cars"
+    excerpt: "Hajbabaie is trying to slowly build up the idea that self-driving cars a way to a future with fewer crashes and fewer casualties."
+    publishedDateTime: 2022-09-03T19:38:00Z
+    webUrl: "https://www.cbs17.com/news/local-news/wake-county-news/nc-state-researchers-test-safety-benefits-of-self-driving-cars/"
+    type: article
+    provider:
+      name: cbs17.com
+      domain: cbs17.com
+    quality: 19
   - title: "Self-driving cars roll around Austin"
     excerpt: "Earlier this year, autonomous vehicle technology company Argo AI launched its driverless operation in Austin. Argo AI public policy and government relations manager Sly Majid said these cars are"
     publishedDateTime: 2022-09-02T12:16:00Z

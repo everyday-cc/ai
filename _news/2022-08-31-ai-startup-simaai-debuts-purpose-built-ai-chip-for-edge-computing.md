@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. Startup SiMa.ai Starts Shipping Machine Learning Chip And System"
-    excerpt: "industrial robots, and eventually self-driving cars in, San Jose, California, U.S., in this undated handout photo. Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity ..."
-    publishedDateTime: 2022-08-30T16:39:00Z
-    webUrl: "https://www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305"
-    ampWebUrl: "https://www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 93
-    images:
-      - url: "https://d.ibtimes.com/en/full/3810267/us-startup-simaai-starts-shipping-machine-learning-chip-system.jpg"
-        width: 1200
-        height: 798
-        isCached: true
   - title: "US startup SiMa.ai starts shipping machine learning chips and systems"
     excerpt: "Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management & Research Company, said on Tuesday it started shipping chips and systems to customers that are testing them, an important step for mass production."
     publishedDateTime: 2022-08-30T16:19:00Z
@@ -78,6 +62,15 @@ related:
         width: 1000
         height: 665
         isCached: true
+  - title: "U.S. startup SiMa.ai starts shipping machine learning chip and system"
+    excerpt: "Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management & Research Company, said on Tuesday it started shipping chips and systems to customers that are testing them, an important step for mass production. We apologize ..."
+    publishedDateTime: 2022-08-30T13:24:00Z
+    webUrl: "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system"
+    type: article
+    provider:
+      name: Financial Post
+      domain: financialpost.com
+    quality: 53
   - title: "SiMa.ai Develops the Industry’s First Purpose-Built Machine Learning System-on-Chipwith TSMC’s Power Efficient Technology"
     excerpt: "SiMa.ai Develops the Industry’s First Purpose-Built Machine Learning System-on-Chipwith TSMC’s Power Efficient Technology"
     publishedDateTime: 2022-08-31T04:49:00Z

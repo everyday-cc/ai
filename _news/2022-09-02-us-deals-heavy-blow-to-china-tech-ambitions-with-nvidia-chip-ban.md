@@ -203,6 +203,22 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 76
+  - title: "US blocks sale of some Nvidia and AMD AI chips to China"
+    excerpt: "The US government’s effort will restrict Chinese AI researchers using the chips to train machine-learning models."
+    publishedDateTime: 2022-09-01T14:42:00Z
+    webUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.html"
+    ampWebUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 74
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/05/nvidia-a100-gpu-100842029-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 678
+        isCached: true
   - title: "US government blocks sale of some Nvidia and AMD AI chips to China"
     excerpt: "The US government’s ongoing attempts to restrict China’s military capabilities will affect Chinese AI researchers using the chips to train machine learning models."
     publishedDateTime: 2022-09-01T14:42:00Z
@@ -375,6 +391,20 @@ related:
         width: 620
         height: 355
         isCached: true
+  - title: "US restricts semiconductor sales to China, Russia"
+    excerpt: "According to many US media sites on Thursday and naming two significant US chipmakers, Nvidia and AMD, Washington has placed limits on the sale of sp"
+    publishedDateTime: 2022-09-03T20:14:00Z
+    webUrl: "https://menafn.com/1104806303/US-restricts-semiconductor-sales-to-China-Russia"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 41
+    images:
+      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_Politics_1088.jpg"
+        width: 1920
+        height: 1345
+        isCached: true
   - title: "Biden weighs curbs on US investment in China tech and action against TikTok, as new limits on AI chips also considered"
     excerpt: "The Biden administration is considering an executive order targeting US investments into Chinese tech companies as part of a broader strategy that also involves new restrictions on chips sales to China."
     publishedDateTime: 2022-09-03T13:33:00Z
@@ -398,15 +428,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "US blocks sale of some Nvidia and AMD AI chips to China"
-    excerpt: "The US government’s effort will restrict Chinese AI researchers using the chips to train machine-learning models."
-    publishedDateTime: 2022-09-01T14:42:00Z
-    webUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 34
   - title: "US limits sales of artificial intelligence chips to China"
     excerpt: "US chipmakers Nvidia and AMD have been required to obtain a new licence, effective immediately, to address the risk of semiconductors being \"used in, or diverted to a 'military end use'... in China and Russia\"."
     publishedDateTime: 2022-09-01T13:01:00Z

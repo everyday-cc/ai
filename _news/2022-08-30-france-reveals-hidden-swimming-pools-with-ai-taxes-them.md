@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2022/08/france-reve
 webUrl: "https://arstechnica.com/information-technology/2022/08/france-reveals-hidden-swimming-pools-with-ai-taxes-them/"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/soaking-up-the-sun-wit.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "France uses AI to spot (and tax) undeclared swimming pools"
-    excerpt: "The program found more than 20,000 undisclosed pools, brought in $10 million in extra tax revenue and will be rolled out across France during a record drought."
-    publishedDateTime: 2022-08-30T02:37:00Z
-    webUrl: "https://www.washingtonpost.com/world/2022/08/30/france-undeclared-swimming-pools-artificial-intelligence/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PV6ZGQG7IEI6XIT7RMUUSMHJLM.jpg&w=1440"
-        width: 1440
-        height: 961
         isCached: true
   - title: "Google AI helps France tax over 20,000 undeclared pools"
     excerpt: "An unusual experiment allowed French tax officials to discover thousands of undeclared swimming pools by using artificial intelligence."

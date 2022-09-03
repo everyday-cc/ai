@@ -20,17 +20,6 @@ topics:
 
 related:
   - title: "Chinook Indian Nation members rally for federal recognition"
-    excerpt: "Members of the Chinook Indian Nation rallied Monday on the steps of a federal building in Seattle to raise awareness for their long fight to get federal recognition."
-    publishedDateTime: 2022-08-30T02:55:00Z
-    webUrl: "https://www.q13fox.com/news/chinook-indian-nation-members-rally-for-federal-recognition"
-    ampWebUrl: "https://www.q13fox.com/news/chinook-indian-nation-members-rally-for-federal-recognition.amp"
-    cdnAmpWebUrl: "https://www-q13fox-com.cdn.ampproject.org/c/s/www.q13fox.com/news/chinook-indian-nation-members-rally-for-federal-recognition.amp"
-    type: article
-    provider:
-      name: Q13 FOX News
-      domain: q13fox.com
-    quality: 24
-  - title: "Chinook Indian Nation members rally for federal recognition"
     excerpt: "Federal recognition would mean access to federal dollars for healthcare and housing for this group of tribes, which are based in Southwestern Washington."
     publishedDateTime: 2022-08-30T17:16:00Z
     webUrl: "https://www.oregonlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html"

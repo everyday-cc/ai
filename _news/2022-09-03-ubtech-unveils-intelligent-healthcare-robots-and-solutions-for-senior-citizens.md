@@ -28,7 +28,7 @@ images:
 related:
   - title: "UBTECH announces global debut of intelligent healthcare robots and solutions"
     excerpt: "At the event, UBTECH announced its strategy of creating a smart elderly-care system with several sub-systems within specific elderly-care scenarios. They also launched several robotics products for the healthcare and elderly-care domain."
-    publishedDateTime: 2022-09-02T17:34:00Z
+    publishedDateTime: 2022-09-02T19:26:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/ubtech-announces-global-debut-of-intelligent-healthcare-robots-and-solutions-1031722479"
     type: article
     provider:

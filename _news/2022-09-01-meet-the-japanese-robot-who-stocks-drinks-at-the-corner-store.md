@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/434550"
 webUrl: "https://www.entrepreneur.com/article/434550"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -89,6 +89,15 @@ related:
     provider:
       name: New York Post
       domain: nypost.com
+    quality: 19
+  - title: "Robot that stocks drinks is newest thing at the corner store"
+    excerpt: "TX SCARA can restock up to 1,000 bottles and cans a day  Tokyo: A small robot with a clip-like hand and enough smarts to know which drinks are popular is part of an effort to make convenience stores even more convenient."
+    publishedDateTime: 2022-09-03T19:47:00Z
+    webUrl: "https://gulfnews.com/technology/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store-1.1662234433501"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
     quality: 19
 
 secured: "IEcisSawJVm1ytK9RLqs5XJND3Zgu6QglYN2+uMqwjGye7JaJjtzIN8FOPKxZwDncezn+6bjbRWIkgt6P2K1OwO/uM5aqNAQWlffIDII3VhHO1wV/yDUMdNiER5hv1+HBbfTLC33+WdXX232jFx4TyKFB3BCmJ82ijbFobJn+gTtQRqejlydaliEKBbkz51jPdXUx/v/WCNmpmgZCezO5y60+5W4xwDMlPaP9Eh7KQpJXasPd8GizFedWHyVLozitIpyqXWb+Nx6ecZwE5QM2N6H7/o8jlmhak+DqsUfEoXFuJ0C/jq83sZBfb4xnadyoton3oyW9AMUgUK3J84eAOnxMzQILX9KcHz3a86CM25QoTfyKm0/2a2Vr9j+0Zo9/txla8jjMS7dEYlqc6FAa1s4RFuTq4mGoqyEUF11OCipabbV6+MoUGP7HPbW1h7oE2ccPfC5x0xOtHytUAb/jE+iDs3HbGtPD8C3eWOi7ohP7CGTIC8XQpaUShZSxyhGnvbWjgdg7l/CXXpEdcPxJQ==;bL9gAwmtJme7fbCNI99V8A=="

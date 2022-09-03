@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Cloud Computing Degree Programs Help Fill Workforce Gaps"
-excerpt: "The demand for cloud computing skills is sky-high, and colleges and universities are helping their students attain them."
-publishedDateTime: 2022-08-23T17:30:00Z
-originalUrl: "https://edtechmagazine.com/higher/article/2022/08/cloud-computing-degree-programs-help-fill-workforce-gaps"
-webUrl: "https://edtechmagazine.com/higher/article/2022/08/cloud-computing-degree-programs-help-fill-workforce-gaps"
-ampWebUrl: "https://edtechmagazine.com/higher/article/2022/08/cloud-computing-degree-programs-help-fill-workforce-gaps?amp"
-cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2022/08/cloud-computing-degree-programs-help-fill-workforce-gaps?amp"
+excerpt: "In his own classes, Cain plans to help students build skills around Amazon Redshift (the cloud vendor’s data warehousing and operational database platform); Amazon SageMaker (a machine learning modeling suite); and tools that use artificial intelligence ..."
+publishedDateTime: 2022-08-23T17:32:00Z
+originalUrl: "https://edtechmagazine.com/higher/k12/article/2022/08/cloud-computing-degree-programs-help-fill-workforce-gaps"
+webUrl: "https://edtechmagazine.com/higher/k12/article/2022/08/cloud-computing-degree-programs-help-fill-workforce-gaps"
+ampWebUrl: "https://edtechmagazine.com/higher/k12/article/2022/08/cloud-computing-degree-programs-help-fill-workforce-gaps?amp"
+cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/k12/article/2022/08/cloud-computing-degree-programs-help-fill-workforce-gaps?amp"
 type: article
 
 provider:
@@ -18,11 +18,11 @@ topics:
   - AI
 
 images:
-  - url: "https://edtechmagazine.com/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202208/HiEd_Q322_F_Hennick_Hero.jpg?itok=fjOAQQW4"
+  - url: "https://edtechmagazine.com/higher/k12/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202208/HiEd_Q322_F_Hennick_Hero.jpg?itok=fjOAQQW4"
     width: 1440
     height: 500
     isCached: true
 
-secured: "k7fWqjQDSjpYscLm/2OULKsDL9+SEtyi/1n5wDSqgshZT++v9mXrAAfVgGCJQD7crLUPjmGKnu3U04XQAtf1l5b+khtN688hjDakZV9FPpChmvlpDv8FGMfIkcvIUdytU4BshNE1/vq5bS6K8yvOonjwBwkNDVPPG5aVEagF2Ey6MI26m11X21WZ6OISRtsBPL0ytJdEJjkiktKEqRjz8SEPENWy946sHYtqU6zB1fZiyo0Ipvaojpl1Lk8JEET0HupBTFKzhNIwNOZE/Bqj3KNjzr9vH9yCnfiBv0Zy6WXm6IqD+vBPv0YDDSA+w0Njace9JZxhwChv4ZRdNxjD0M2NApwzz2Sj0dauoNaMRH5ZbtkxL+v3/T9U127iLryONZ2ZJYgPXQBQXg7JtZ4k/t4SmX/g0VxVV+N1PB/dyjMrljJtZUBYQhrMCahcisdthaQDNHaGMYBKhS4vd97PRVsbTGhi3EzcZ3CKtvvkoBlB/H7vLUBSGi5TnZZ+Y2NAKNMlVba79DVz9EjjIE78gg==;wblRSVw+5tdY1kKDht756Q=="
+secured: "N/zAQu72mD6yez9BuKKeVNXfZmZo7PCkQmVv/Z/ax2o+V0EUu1JlZ1XfZ4lP7g+bbZgLmrDYELe5ldV1J3XseOoLcrFOvNPrkQstRsPbFMsalP/5RUo5Ad5hp9kRE7tQJUkLSQIld8HvPAWC2tt1TnL8UZy34S4VLUHAoS44xUx6JFtQ7Z3UILyauKfMW/EjyCGP/HAgVR1N2iOu1KZOZcIdeuZ2NTcY/33BSTBG5CSJ6HILK7nFay/ZjxbLlK7f6rmPloZhnjF6yUlsgBtNwYSmi1mCom24w7xhbvYLeyiBT1pXE5ObmHyMfiukUIzJbIx4beQQhArp7A8uKpfUps6GVuOzuhMYyIe4GCf0gCQ=;5iLZ+NqqS+DF40WXiZcN2w=="
 ---
 

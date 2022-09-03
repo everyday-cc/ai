@@ -87,6 +87,15 @@ related:
       name: New York Post
       domain: nypost.com
     quality: 19
+  - title: "Robot that stocks drinks is newest thing at the corner store"
+    excerpt: "TX SCARA can restock up to 1,000 bottles and cans a day  Tokyo: A small robot with a clip-like hand and enough smarts to know which drinks are popular is part of an effort to make convenience stores even more convenient."
+    publishedDateTime: 2022-09-03T19:47:00Z
+    webUrl: "https://gulfnews.com/technology/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store-1.1662234433501"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 19
 
 secured: "7SMugB42ad38ZPVQpBbGUMBrUkhhb7Um0ITt6n2hU2K/5Jg0u7yuz4a8SFPo72lG0fXfYXC8lIY04kyaTtqKwur2/gtgvetquJD43g/Vk53guSSZJXNojbYTin5Rs4Is0FXw4SZX1EnOzy/lIvNmwQdTyVdleH/+H1jJ+ldG55saVcIOGq3hCygFkYLbUW0sK9TvjgASS8V9hU5EuMIRidiP0HB5rCzSCfJz1QLa80xNpOfyNbuXPsWSKunAn8grHJzpzyUYr27g3+b28IpLwC11AeL2N/sfCld2iLZ8JxfAPiZT/0Xn7LbsqJJptvYN1tIyrQr/biIcW6PrFI5fX3aJSGKmGuReAKLI58zc22O5JqFKDwXlcE2DnSJy1YaCNK8R1GV79WsfVhUF4Xuy8J0YKH16V1fDHZOP04tYEYQKa2CyqU+ZtMsCYtgfUtxrfU8ylmAI0lMLhO6g/af12iut3AkDdqQoZJ9P9+2pd0i0x/6iXnDpNeOLQsrGBWAKRZwaw8f2Nyf4SY6Lk2tm1Q==;RXQlKsk98MsfTmZyG6xA9g=="
 ---

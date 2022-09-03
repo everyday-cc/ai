@@ -8,9 +8,9 @@ webUrl: "https://www.medindia.net/news/artificial-intelligence-in-diagnosing-ped
 ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-in-diagnosing-pediatric-ear-infections-208463-1.htm"
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-in-diagnosing-pediatric-ear-infections-208463-1.htm"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: Medindia

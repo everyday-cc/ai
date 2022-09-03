@@ -43,19 +43,14 @@ related:
         height: 769
         isCached: true
   - title: "How artificial intelligence can explain its decisions"
-    excerpt: "Today, when an algorithm identifies a tumour in a tissue sample, it doesn’t reveal how it arrived at this result. And that’s not very trustworthy. Researchers in Bochum are therefore pursuing a new approach."
-    publishedDateTime: 2022-09-02T14:04:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/963644"
+    excerpt: "Today, when an algorithm identifies a tumor in a tissue sample, it doesn't reveal how it arrived at this result. And that does not inspire trust. Researchers are therefore pursuing a new approach."
+    publishedDateTime: 2022-09-02T15:28:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/09/220902103300.htm"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/bc5e8a87-496d-4021-8859-1d7a822ea861/Rendition/low-res/Content/Public"
-        width: 700
-        height: 467
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 62
   - title: "When — and Why — You Should Explain How Your AI Works"
     excerpt: "AI adds value by identifying patterns so complex that they can defy human understanding. That can create a problem: AI can be a black box, which often renders us unable to answer crucial questions about its operations."
     publishedDateTime: 2022-08-31T14:11:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-30T06:27:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-economy-amazoncom-inc-d9b9452aac444bf3821796b7f621f354"
 webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-economy-amazoncom-inc-d9b9452aac444bf3821796b7f621f354"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - AWS AI
   - AI
 
-secured: "AfGSFEQIe5k9bfOyPiMUBpuM2gikKBL/u9HSfIcYDD68acBD5amqb0XMwl3yQixuG8yvXOHuDYKapO+2E81sMCqSrWi2hqExDbIyHXKlHznX5ObmN0Vee8Wvi+xQ2YbWW1EBWj/sRyfto/PY8lNZr6k8AOi8j4kJCCKp+nlyM+iDuwPMUauzRIedlswlLSmslmVyz71n5jlD4zrgNkdyJkX2fNK5v7WcX+r3cQ8q5aXi4Y2L2EWe8nTya78TQJPmUGAZQMjUtZeuU+oJNmf9+V7wj8FKMfwhRgFMvyH1dBs7/wI1N5t8w9wJnyH38tjE+2TXnwGXUjE6UxkRutjA52vk3OFfDaWMBky1b5LDCDY=;4zEyfCD/yHDD+q0eKb04LA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "hW0t+96E73Ve9elMC36Fh6uz88jcYD1zAJG42p4hvCMnHsdpBctKgtr3uL+FO81fnuZGbVGloM5Z5klY3dQX+xcEl0xZBaiwkb1F8qgIV8VYvpy/6+IEz3uZph6z0vCrSri6jFWWYoF3/xbmRwV5M1QwKSO1EZPcLnIlO5ttY/qk6M/3YLT62LD/tYVgtnKPAne33HRIn4ctzejr0BAsJk+r3lMzpSTU4Nadn9rKmPJtU4RM4DTxSULIhdn+Qz/+6hYn4KjGPaZFUk/0guzvySaab+T4krYwhBPlJcxVeVz10H1L6YBkcgjd/CfhsOGZ4eszHzTIiZyaKgsHjVAtgyF+8rKZaqqUS7i742n+cVI=;earz3SqfdkiP1ukoUd2IRg=="
 ---
 

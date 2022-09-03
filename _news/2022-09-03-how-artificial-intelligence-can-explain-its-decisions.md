@@ -30,19 +30,14 @@ images:
 
 related:
   - title: "How artificial intelligence can explain its decisions"
-    excerpt: "Today, when an algorithm identifies a tumour in a tissue sample, it doesn’t reveal how it arrived at this result. And that’s not very trustworthy. Researchers in Bochum are therefore pursuing a new approach."
-    publishedDateTime: 2022-09-02T14:04:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/963644"
+    excerpt: "Today, when an algorithm identifies a tumor in a tissue sample, it doesn't reveal how it arrived at this result. And that does not inspire trust. Researchers are therefore pursuing a new approach."
+    publishedDateTime: 2022-09-02T15:28:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/09/220902103300.htm"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/bc5e8a87-496d-4021-8859-1d7a822ea861/Rendition/low-res/Content/Public"
-        width: 700
-        height: 467
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 62
   - title: "How AI Distorts Decision-Making and Makes Dictators More Dangerous"
     excerpt: "But thinking about AI in terms of a race for dominance misses the more fundamental ways in which AI is transforming global politics. AI will not transform the rivalry between powers so much as it will transform the rivals themselves."
     publishedDateTime: 2022-08-31T04:21:00Z

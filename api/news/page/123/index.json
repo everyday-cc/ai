@@ -2,6 +2,186 @@
   "page": 123,
   "value": [
     {
+      "path": "_news/2022-05-31-can-video-games-boost-kids-cognitive-development.md",
+      "title": "Can video games boost kids’ cognitive development?",
+      "excerpt": "Researchers have found that children between the ages of eight and 12 who play video games perform better on a variety of tests associated with intelligence and cognitive development. Can video ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2022/05/31/can-video-games-boost-kids-cognitive-development",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2022/05/31/can-video-games-boost-kids-cognitive-development",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2022/05/30/1604464.jpg",
+          "width": 1240,
+          "height": 826,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-31T04:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-three-consumer-trends-influencing-loyaltyand-how-to-leverage-ai-to-capitalize-on-them.md",
+      "title": "Three Consumer Trends Influencing Loyalty—And How To Leverage AI To Capitalize On Them",
+      "excerpt": "With ever-changing customer expectations and increasing competition, keeping customers happy and loyal is proving quite difficult.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/three-consumer-trends-influencing-loyalty-and-how-to-leverage-ai-to-capitalize-on-them/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/three-consumer-trends-influencing-loyalty-and-how-to-leverage-ai-to-capitalize-on-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//5eea68028b106d000799955a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/three-consumer-trends-influencing-loyalty-and-how-to-leverage-ai-to-capitalize-on-them/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/31/three-consumer-trends-influencing-loyalty-and-how-to-leverage-ai-to-capitalize-on-them/amp/",
+      "publishedDateTime": "2022-05-31T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-etna-device-from-the-leading-digital-health-ai-company-innodem-neurosciences-receives-fda-breakthrough-designation-for-multiple-sclerosis.md",
+      "title": "ETNA™ DEVICE FROM THE LEADING DIGITAL HEALTH & AI COMPANY INNODEM NEUROSCIENCES RECEIVES FDA \"BREAKTHROUGH\" DESIGNATION FOR MULTIPLE SCLEROSIS",
+      "excerpt": "PRNewswire/ - Innodem Neurosciences, a leading provider of innovation and technology for the convergence of neurosciences, digital health, pharmaceutical and artificial intelligence, is proud to announce that its novel mobile eye tracking technology for people living with multiple sclerosis has been granted \"Breakthrough Device\" designation by the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mystateline.com/business/press-releases/cision/20220531MO73100/etna-device-from-the-leading-digital-health-ai-company-innodem-neurosciences-receives-fda-breakthrough-designation-for-multiple-sclerosis/",
+      "originalUrl": "https://www.mystateline.com/business/press-releases/cision/20220531MO73100/etna-device-from-the-leading-digital-health-ai-company-innodem-neurosciences-receives-fda-breakthrough-designation-for-multiple-sclerosis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-31T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTVO",
+        "domain": "mystateline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-scotiabanks-perspectives-on-aiml-governance-and-future.md",
+      "title": "Scotiabank’s Perspectives On AI/ML Governance And Future",
+      "excerpt": "This is a five-part blog series from an interview that I recently had with Grace Lee, Chief Data and Analytics Officer and Dr. Yannick Lallement, Vice President, AI & ML Solutions at Scotiabank. This blog focuses on AI Governance and Future views of Scotiabank's AI and ML practices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/05/31/scotiabanks-perspectives-on-aiml--governance-and-future/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/05/31/scotiabanks-perspectives-on-aiml--governance-and-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//6105c099fb00ca9f0f49f14a/0x0.jpg?format=jpg&width=1200",
+          "width": 986,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2022/05/31/scotiabanks-perspectives-on-aiml--governance-and-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/05/31/scotiabanks-perspectives-on-aiml--governance-and-future/amp/",
+      "publishedDateTime": "2022-05-31T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-05-31-tension-inside-google-over-a-fired-ai-researchers-conduct.md",
       "title": "Tension Inside Google Over a Fired AI Researcher’s Conduct",
       "excerpt": "Google has said that TPUs have enabled breakthroughs in its AI research and services, and rents out the chips through its cloud unit. Yet Chatterjee’s criticisms of Morpheus continued even after Google’s hardware leaders decided they trusted it enough ...",
@@ -929,169 +1109,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-c3ai-ai-to-report-q4-earnings-whats-in-the-offing.md",
-      "title": "C3.ai (AI) to Report Q4 Earnings: What's in the Offing?",
-      "excerpt": "C3.ai AI is set to report fourth-quarter fiscal 2022 results on Jun 1. For the quarter, C3.ai expects revenues between $71 million and $72 million. The Zacks Consensus Estimate for revenues is currently pegged at $71.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/c3.ai-ai-to-report-q4-earnings%3A-whats-in-the-offing",
-      "originalUrl": "https://www.nasdaq.com/articles/c3.ai-ai-to-report-q4-earnings%3A-whats-in-the-offing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/c3.ai-ai-to-report-q4-earnings%3A-whats-in-the-offing?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/c3.ai-ai-to-report-q4-earnings%3A-whats-in-the-offing?amp",
-      "publishedDateTime": "2022-05-30T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-aws-introduces-new-p4de-instance-for-ai-training.md",
-      "title": "AWS Introduces New P4de Instance for AI Training",
-      "excerpt": "which is included in the company’s EC2 Inf1 instances, is designed for inference workloads and can execute up to 128 trillion operations per second. AWS showed off AWS Trainium, a second AI processor tailored for AI training, in November.",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/quick-bytes/aws-introduces-new-p4de-instance-for-ai-training/",
-      "originalUrl": "https://enterprisetalk.com/quick-bytes/aws-introduces-new-p4de-instance-for-ai-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/05/AWS-Introduces-New-P4de-Instance-for-AI-Training-1024x585.png",
-          "width": 1024,
-          "height": 585,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/aws-introduces-new-p4de-instance-for-ai-training/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/aws-introduces-new-p4de-instance-for-ai-training/amp/",
-      "publishedDateTime": "2022-05-30T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-ai-in-fintech-market-overview-cost-structure-analysis-growth-opportunities-and-forecast-to-2029.md",
-      "title": "AI in Fintech Market Overview, Cost Structure Analysis, Growth Opportunities and Forecast To 2029",
-      "excerpt": "The prime aim of the Global AI in Fintech Market is to provide industry investors, private equity companies, company leaders and stakeholders with complete information to help them make well ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-overview-cost-structure-analysis-growth-opportunities-and-forecast-to-2029",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-overview-cost-structure-analysis-growth-opportunities-and-forecast-to-2029",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/0bf852fa68a14af3033fbd770f898c7280985c4b-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-30T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-ibm-adds-side-order-of-nlp-to-mcdonalds-ai-drive-thru-chatbots.md",
-      "title": "IBM adds side order of NLP to McDonald's AI drive-thru chatbots",
-      "excerpt": "CEO talks up 'great economics to franchisees ... through the power of software... AI and creative construct'.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/05/30/ibm/",
-      "originalUrl": "https://www.theregister.com/2022/05/30/ibm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2021/06/10/mcdonalds.jpg",
-          "width": 5782,
-          "height": 3854,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/05/30/ibm/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/30/ibm/",
-      "publishedDateTime": "2022-05-30T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

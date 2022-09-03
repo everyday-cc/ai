@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Deep learning algorithm may streamline lung cancer radiotherapy treatment"
-excerpt: "Clinical validation of deep learning algorithms for radiotherapy targeting of non-small-cell lung cancer: an observational study. The Lancet Digital Health , 2022; 4 (9): e657 DOI: 10.1016/S2589 ..."
-publishedDateTime: 2022-08-23T23:59:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/08/220824152208.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/08/220824152208.htm"
+excerpt: "Lung cancer, the most common cancer worldwide, is targeted with radiation therapy (RT) in nearly one-half of cases. RT planning is a manual, resource-intensive process that can take days to weeks to complete,"
+publishedDateTime: 2022-08-23T22:30:00Z
+originalUrl: "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.html"
+webUrl: "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.amp"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "8qjMKbFFLD5/QsvaDQb8dfDHdzDvvg/dG+6d8nrw4+mMXjCEtS7skXAJMpCCREBVK8Hfmo7IBJrfPNKRkes8R0eEJSD1Ucy1Q1WtQBQzd222NiBz8FPNyHuvYbDUNprb8U/txISEye7XgZ+nTNICvXTsoLvr9lVFYBRoYEra7SXEGu/FGejFjWMyqpZqer/bzzAfwPpqQDUilg9sXrIuJNBkX70y+WFORwbeFrkHFJrVrzTZbboO1q1sYoHCdlt7hBuP16VSsIH0KwgSFBs855xDoANhbprvaDrwXnhb9/iwWVOIWg4PU5dyygX20m8toKW9O+7YWlTrsyi0azsby8ygCVs2qWhDfqZO5bKf6F0=;HauXteSnfrWVMRlxxLjJnw=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/lung-scan.jpg"
+    width: 2880
+    height: 1966
+    isCached: true
+
+secured: "mZPG1lwbsHykR3hVeWPETPYTSy+rG66GJf6LawpgxZPVOiK/BRMof2oLqyf/1q7Ou78E7NBkJUfg076wTNC3I6bX71gsGwBjSctt+96fi/NaqQg09mDGI7LNTqolcuwnvp3r2uPXuC0MDC52+GwLow1DGnEZ8q48smchWw8gqxDyR0QRBdJYtYfB+A6eOxu6KB6Kvfue/bofBwQSImpcUOEpIEimfUTzFD+ho9BgPlunP5i+ErARJlsatzFlZ/JShf86zRrVFvPFREi3/6PdtFzm6xaswz4IyIPE7nevJaImOL3WgbcIajUj5HEnYxg0OJ85jYHXz4kI6uQMoAHzcLNRr00dQUXExjlSWPOYz8c=;oZnfPUXQq6L8/Kgtv/6EaQ=="
 ---
 

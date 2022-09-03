@@ -85,6 +85,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "NC State researchers test safety benefits of self driving cars"
+    excerpt: "Hajbabaie is trying to slowly build up the idea that self-driving cars a way to a future with fewer crashes and fewer casualties."
+    publishedDateTime: 2022-09-03T19:38:00Z
+    webUrl: "https://www.cbs17.com/news/local-news/wake-county-news/nc-state-researchers-test-safety-benefits-of-self-driving-cars/"
+    type: article
+    provider:
+      name: cbs17.com
+      domain: cbs17.com
+    quality: 19
   - title: "Self-Driving Cars Will Save Countless Lives"
     excerpt: "Policy-makers must keep up with technological developments in automobiles so that better cars can save lives.The black Mercedes-Benz sped south on L.A.’s La Brea Avenue at, allegedly, more than 90 miles per hour."
     publishedDateTime: 2022-08-30T13:21:00Z

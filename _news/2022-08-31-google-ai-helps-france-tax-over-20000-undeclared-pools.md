@@ -48,20 +48,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "France uses AI to spot (and tax) undeclared swimming pools"
-    excerpt: "The program found more than 20,000 undisclosed pools, brought in $10 million in extra tax revenue and will be rolled out across France during a record drought."
-    publishedDateTime: 2022-08-30T02:37:00Z
-    webUrl: "https://www.washingtonpost.com/world/2022/08/30/france-undeclared-swimming-pools-artificial-intelligence/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PV6ZGQG7IEI6XIT7RMUUSMHJLM.jpg&w=1440"
-        width: 1440
-        height: 961
-        isCached: true
   - title: "Artificial Intelligence Helps French Tax Authorities Find Thousands of Untaxed Swimming Pools"
     excerpt: "Using aerial photos and artificial intelligence, French tax officials have reportedly identified more than 20,000 previously untaxed residential swimming pools—potentially netting the French government a windfall of more than 10 million euros ($10 million)."
     publishedDateTime: 2022-08-31T18:40:00Z

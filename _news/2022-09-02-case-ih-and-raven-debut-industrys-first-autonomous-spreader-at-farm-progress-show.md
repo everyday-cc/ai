@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Industry’s first autonomous spreader debuts at Farm Progress Show"
-    excerpt: "Case IH and Raven Industries introduce the agriculture industry’s first autonomous spreader: the Case IH Trident ™ 5550 applicator with Raven Autonomy ™. Unveiled at Farm Progress Show 2022, this innovative solution delivers on customers’ demands for autonomous equipment to help solve labor challenges and increase productivity on their operations."
-    publishedDateTime: 2022-08-30T14:32:00Z
-    webUrl: "https://www.eagletribune.com/region/industry-s-first-autonomous-spreader-debuts-at-farm-progress-show/article_bd0c3b06-7889-504f-b01b-c4540ac61a68.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/f7/6f732a6f-663d-5699-9263-ff52f4203a6d/630e214bf2e79.image.jpg?crop=606%2C318%2C522%2C0&resize=606%2C318&order=crop%2Cresize"
-        width: 606
-        height: 318
-        isCached: true
   - title: "Raven introduces first autonomous spreader"
     excerpt: "Autonomous equipment can perform a consistent job each time, which is very important to me, as we’ve built our farm’s reputation on being flawless and doing high-quality work.”"
     publishedDateTime: 2022-08-31T16:34:00Z
@@ -67,6 +53,15 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "Industry's first autonomous spreader debuts at Farm Progress Show"
+    excerpt: "With artificial intelligence, Raven&CloseCurlyQuote ... 1 The Case IH Trident 5550 applicator with Raven Autonomy allows for one or more driverless machines in the field without an operator present in the cab, providing the flexibility of full control ..."
+    publishedDateTime: 2022-08-30T14:41:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/08/30/industry-s-first-autonomous-spreader-debuts-at-farm-progress-show"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 4
 
 secured: "yxTxa+GMF3CadfR54tumZN6RrAORIMd4KOKvWkgqF7lBFyZMNuzLlT9D0c/v6B9AYg5Dt9Avna3PH1MQl6r6qwiKXH68rFCBV2FJo++yHOKmjSld+CmvbPwdNS1f7pzmK9fEvnmXyTYTM2Y8bLuXIm1BNkaHsoSlrGkTyBYgl+m+sbu3raYduHjU0Cr1GzrA3DIE3sBCrPRzZ51OyRECBXLJz5arnyIuOIFNcKUILzo41x1n7Loc4Ph//aq7d9UBv/lUoxLS1HmsRNgk9KBAaPW5AzPauENyycfLaT1M+QnGW+B99Qp3opLOqPn9DYV2YsRQe3bV+ThmQbx6+rNDz/f7S0uf8GVqNxtD01RG5dyURln16Akg5qsYQ/mQ9LcwEaXYy7AZYGMmOxS7iJ/pmj5cXgt2LNTpcmzUHl4NJw/kzhdFt56+phMdk1ksGph7XEsz1fZDwH1vpXq4z9nK7Os7lBrsNrEvCtoq4ZOSRiDJAOSQSiFz3OZbIIrQdF2Li6DkpH1VusKqtNs7NT9wCw==;NTqVGWuZ1H2QwxneBr93KQ=="
 ---
