@@ -1,50 +1,21 @@
 ---
 category: news
 title: "Cerebras Systems Enables GPU-Impossible™ Long Sequence Lengths Improving Accuracy in Natural Language Processing Models"
-excerpt: "This new capability is expected to lead to breakthroughs in natural language processing (NLP). By providing vastly more context to the understanding of a given word, phrase or strand of DNA, the long sequence length capability enables NLP models a much ..."
-publishedDateTime: 2022-08-31T13:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/cerebras-systems-enables-gpu-impossibletm-long-sequence-lengths-improving-accuracy-in-natural-language-processing-models-2022-08-31"
-webUrl: "https://www.marketwatch.com/press-release/cerebras-systems-enables-gpu-impossibletm-long-sequence-lengths-improving-accuracy-in-natural-language-processing-models-2022-08-31"
+excerpt: "This type of GPU infrastructure requires specialized expertise ... designed for the singular purpose of accelerating AI and changing the future of AI work forever. Our flagship product, the ..."
+publishedDateTime: 2022-08-31T13:33:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20220831005105/cerebras-systems-enables-gpu-impossible-long-sequence-lengths-improving-accuracy-in-natural-language-processing-models"
+webUrl: "https://www.morningstar.com/news/business-wire/20220831005105/cerebras-systems-enables-gpu-impossible-long-sequence-lengths-improving-accuracy-in-natural-language-processing-models"
 type: article
-quality: 62
-heat: 72
-published: true
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - AI Hardware
+  - AI
+  - Natural Language Processing
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-related:
-  - title: "Cerebras Systems Enables GPU-Impossible™ Long Sequence Lengths Improving Accuracy in Natural Language Processing Models"
-    excerpt: "Cerebras Systems Enables GPU-Impossible™ Long Sequence Lengths Improving Accuracy in Natural Language Processing Models"
-    publishedDateTime: 2022-09-01T06:20:00Z
-    webUrl: "https://www.businesswireindia.com/cerebras-systems-enables-gpuimpossible-long-sequence-lengths-improving-accuracy-in-natural-language-processing-models-80462.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 32
-    images:
-      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_80462.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-
-secured: "cm89FfuHIQJIwzsCAyfG+7p54NNhxpnct7fnoZ2UNIaAVlxcrlKriqNctMjzkdQUMGDKeutWiXIo/3wS7t7uitYp3sStRg+753lr+7jVVQwtyPJENZKsK+g67CJf+puB+1Jbe5IZE0ZJy7+HzIIj5s99bTDtGgcqa/Zyv04dXQpPxorS2T35nP9RuPcIW+F9EkigjjFIiKDh7FmcCa5zsITJsCulXZRULNl2r6wG023mk7SVYDqRPo2jxYZ5r8f2B96adOf3pKhv/Zbj6XPF3nlfWpuWAsjnAl4o4y7UGThZa5DV24IuMq3sk4tsvYRnOvwOpREkjU3PbvDPNXhD4/e3LgBVwGEuFgcXaloHcbQ=;77JN2tAQZdvreZnvg9U05g=="
+secured: "BPhHZsUrJhQbWwBg+UlCWLMpO8i0ybAruv3MZYYQKqteKd6v1CUC2kW1M2rkzuVh71lra4ROWNN3bMkhshM9FqjBRLWMRdAZphOgMxLEjG2Z0SCXIVvXVCzNAowLyn2KQEDpC3apt5H0xHVUdff3hjMjuZy94T6knheyCxCEC3Tiu+ebmCEC4BiqQxrC74FmHXibgvLC6XSFHUjtlc2tPkVx1kiYE7wQsgiin844p9nzlSdFyL3pgElOPQDM7lwJJ61DPS4Ct03LIRQMO9KDr6LQ9HisKEyJ9y+SK97CgKQrF+BgWC5liVmXcg3nxO05wYc2m9iYxmLde6sMWuxm6qts5BasUj0PgYAJPpgYAuk=;ZVJq4/RFqqNwG4QtTGYVgw=="
 ---
 

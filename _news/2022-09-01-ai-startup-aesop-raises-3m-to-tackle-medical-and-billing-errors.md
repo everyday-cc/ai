@@ -1,44 +1,23 @@
 ---
 category: news
 title: "AI Startup AESOP Raises $3M to Tackle Medical and Billing Errors"
-excerpt: "Digital health startup AESOP Technology has raised a $2.95 million series pre-A round to address the growing medical and billing errors problem. The round was led"
-publishedDateTime: 2022-08-31T17:00:00Z
-originalUrl: "https://www.asiaone.com/business/ai-startup-aesop-raises-3m-tackle-medical-and-billing-errors"
-webUrl: "https://www.asiaone.com/business/ai-startup-aesop-raises-3m-tackle-medical-and-billing-errors"
+excerpt: "Originally from Taiwan, AESOP started as a university spin-off from Taipei Medical University (TMU). Professor Yu Chuan (Jack) Li, the founder and current president of the International Medical Informatics Association,"
+publishedDateTime: 2022-08-31T18:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ai-startup-aesop-raises-3m-to-tackle-medical-and-billing-errors-1031716828"
+webUrl: "https://markets.businessinsider.com/news/stocks/ai-startup-aesop-raises-3m-to-tackle-medical-and-billing-errors-1031716828"
 type: article
-quality: 37
-heat: -1
-published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Sep2022/pr-newswire_500_4.jpg?h=7de12b8a&itok=WQje1YM1"
-    width: 600
-    height: 316
-    isCached: true
-
-related:
-  - title: "AI Startup AESOP Raises $3M to Tackle Medical and Billing Errors"
-    excerpt: "AI Startup AESOP Raises $3M to Tackle Medical and Billing Errors Aug 31, 2022 (PRNewswire via COMTEX) -- PR Newswire SAN FRANCISCO, Aug. 31, 2022"
-    publishedDateTime: 2022-08-31T16:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-startup-aesop-raises-3m-to-tackle-medical-and-billing-errors-2022-08-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-
-secured: "mHZpa5PnlPHnVMX70qKF+1Qtw7SLOxkQ4LQiB0CuVXXXpY7uSv00LLSPoaNxztJ+EF5bl5BODnTDgD1cTl5o/9+ajaqSszMapuvd2JDnA6ScBHGQoBGO+bAh0ZXfWJTfPg1yB3b+rj60FdTSQI/aSVxteYJii1ZofNG9psr+lGL9+V2BeJRF5BP0zwYSMqWrLncb/A/F2KN/F1COIDybJECCEf3JQ8bKvjkwEC1DONC5jp/A/bvDKqANb7FeEtanO+B2kzltJjWHUGPJLFX/mH0v6PEZa8LTdPJ5Xl5cXHEEMcU/7osNR7yAwtJzBGsz0a5oYUCTH1bI03qtL0/iQhdgaa+KGqiXSfMX8gCARvIoPCURXRvS/QL1S86ypdYPonc877qPQke2WNrPNrw4waenm1WYaBjRNz2fLLgEYAx83/qpe57vwmedxmX8vmtpsYYJb1z03A0S+d2SN8A9ZWveZdJ5lnFcbft5VJ2cdTQQcUs7G18ooPzIkv8+QGVjfTv27KcqVOcb7qGgf7JPjg==;IlRR4Hh/M5goIKurLz7Pvg=="
+secured: "6L7KlQ5HvpzB2DfrGKP1abvXcAlQhs5zORZSthzCPEdyYSzo2PML4TtE6z15Ks0P29Lx0lj7fQE4dSiFGIwQhuImeyq+pg74c1pnBqR+vnLBzdnBN75VZSKw+al2e9Bo+Ms16pnlOO1vdeeIqQP/4qgsS72xk9h1kAHsxAu9R9MZS/PJ9oywNKYQ22ZdHE5HFz6APzmBuPu0Iv+Voyw3DRwmAV7pC8SO58w6rw7Auv5t9mM/FiiLPS+VGrldZc5SbrKfPusPNE8SVuGAsBXn1Ver5Hel4QGCoo5HESDsfD8p7ZuJGFq5mi0nKt9uZqsCWkO5YjT01h3ineIgH3ZlGEDFYKl2ZnKUsXP+tMBJaSo=;QpH9U6pjk16ea+5SdBN6sA=="
 ---
 

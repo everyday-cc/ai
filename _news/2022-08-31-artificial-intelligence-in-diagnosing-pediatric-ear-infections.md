@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://images.medindia.net/amp-images/health-images/hear-aid-baby1.jpg"
@@ -43,6 +44,6 @@ related:
         height: 428
         isCached: true
 
-secured: "gYtYvoJVOYHR0ZZbSCoH6n1KR/zuRkl9IFTyHNP/d1sNwUd4D8AfVrwtcLxSjG5zl00y1rMRt/laEJcM33GqeBlxdknlp5vTldNRbduugUSZxmef8i6GGhnYgnX8SPM9sbx/8lGzBV8Ozl/jiI/oTwC3ODfoz3rPikDOSmpx8OO506rN5qJeUkHr4GBWWgPN/bIiMSbTS6/zOifinvLPzMzfFhjgrEuiqZ6ZEqhMs+HlqXUzpZ99b2RK4NYwtmcsQjHAcv00bxe96ePZOM93VVgQidfBewGI63EfFOSU3O3hRnkDBcQquoB/B9EtOCLMV0u3fajmhfxOOURqSu6JHmLCTmqL3Hs2IVUeMWU5Hwg=;MRsckhEacFvIfJpOpjGfsQ=="
+secured: "EpgqdULMrgHKhK8g7CVeOPetmbtST5/NiIVFYEjUUVVuB6pPBDwrYW15D0oBeiRqWM8QqYN5rMqxeAtDYIPWg/EeUJj2hHofwvKJKzCLsaDt+IahFeBRh3mz8KWAM9Jms9q/asHEO9VD/ibgNfII9qadz8uzQTIRslxMrsqfVfZGu6Ex9Y8J+fGRsiU1lL99r6mOsgsxvrHYWm90uqv1RUC2H97dlw2pYi1vwxMNuH6NQKuX1BGImBbRRvqAK5XYb0mdrG+GZiMXKSdReuQTsGuRn1TuAWpclLNLbUQtBWUjKJxy1ka0EPf2zlH4FZ2Kru2lwuNF/8lFW5CeIaIIM6US6DCtbV/2QF7y/bH83HQIcmIdJ4Jrty6RTi9YyxXlTgTGAZApJi66qxdlzk3vXvVuT66TQhh+JG8SPAkUg46NT7+zwEK7WjesuCT4l1tDY4LcRDmIi0AxzVb9CGo6AZBhD5XRqItAJQ2S+cYMAAZy8ZeWfi9tSamUrngvSrsgSdBfmC9p0SUR1yQgCFix9A==;c96Ui7mQqOTwDrULL3PTSg=="
 ---
 
