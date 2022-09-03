@@ -4,7 +4,7 @@ otherNames:
   - "Viz.ai Inc."
 overview: "Viz.ai, Inc is emerging as the leader in applied artificial intelligence in healthcare. Our mission is to fundamentally improve how healthcare is delivered in the world, through intelligent software that promises to reduce time to treatment and improve access to care."
 type: "profile"
-heat: 65
+heat: 64
 
 website: https://www.viz.ai/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=y3P9aVwDOig"
 
-secured: "MYwvolalikAiRvurXjgK5YLChH+L2Oa9GFIwjyyLRqUq+K8zdBzBSXyUrz4qkJ6fnbylODaJvtf65liogg0pt6pc7uqE7Ww/H9homA/K6i3g6GY1nkAASIpvOvOgkajGlczT1XaKBO68uUhZGnxCEIEOiD/K41UwzzMud6noNbFwf6A0td3n4IPghA2eRQC1X3eFupZkuUIUHyf7IKn60/2yMqlCwL+MprICQfwvOa/j1VaTa1Icdcb+pYws+5q3szlkrYrMFuqEWjTs4m3EWn8IUdQLhG8Y8uU5nXb3EcySIsLqtUIZNYTTnrVlf0qfu3S/HOwJlmZHmhsYS0PZQLeiu/4MWU9Rwpvzm0yslJMw6hQzWIkhbItMxeUBq1Hhxuqmfa/oGizcfEkHubqoHyS1twZXkFwIqrMN2K3zP9k=;DL323pk8un3RRLMrZzIqZQ=="
+secured: "yj4Jofo3NpQb7eXh4kYQcb3hdCwb6mW4Eiy0P5uY/LUXTip+uSOImsEYm+hIvRQjopZDkpr5OmFBvnMehRG/5dDvI2+2IwxAnDY99/djY8EETw+7AlQ0atJQc0TTtcwdi95IDXf6uN2SEN52xiTpdlwTbEuPBMvYfTP6cJ+DB5/QLW5jgJPBKryce+ajOFoVQ5rpXpB0QARTcvvEe65PitKLllHc1Z4gavnlgFLPIB8NjI4CYpQmO+cTV/NB4kTcR00coxVDjQQ0jelC8WjGGn+owYjOIO4ZSRkoponthkl2A8ltuj/lSSpEGhQCvlH/8tERTC9a0jWQ8mnxBBRf+VryBmYbnbStVgph8hIkCoGPJDW4flRXGISw0hBnOtrNusqJ4vrk6HDFe6vsxHQI6gcY5zoIlulOSfLqQ/6Paik=;YIQYh8aFujGJAq2chCJK1A=="
 ---
 

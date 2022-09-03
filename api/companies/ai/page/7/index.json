@@ -4,129 +4,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_companies/deepzen.io.md",
-      "title": "Deepzen",
-      "excerpt": "We're a London based AI company. We are building deep learning based text understanding and speech synthesis systems to provide unified highly scaleable solutions for organisations and individuals.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/deepzen.io/index.json",
-      "webUrl": "https://everyday.cc/ai/company/deepzen.io/",
-      "type": "profile",
-      "name": "Deepzen",
-      "overview": "We're a London based AI company. We are building deep learning based text understanding and speech synthesis systems to provide unified highly scaleable solutions for organisations and individuals.",
-      "website": "http://deepzen.io",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/deepzen.io/",
-        "followers": 298
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/deep-zen"
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "London, England"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=kaNKxfTjpzQ"
-        }
-      ],
-      "heat": 50,
-      "tags": [
-        "Natural Language Generation"
-      ],
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFGxMuC_cMpXw/company-logo_200_200/0?e=1594857600&v=beta&t=LjusR1qYQN4IoyQ-Kzs3Pi3MYwd0ucgVi2Ca-CbeVnI",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/diagnocat.md",
-      "title": "Diagnocat",
-      "excerpt": "Diagnocat AI analyzes dental 3D x-rays, recognizes anatomical areas and detects various pathologies of maxillo-facial area.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/diagnocat/index.json",
-      "webUrl": "https://everyday.cc/ai/company/diagnocat/",
-      "type": "profile",
-      "name": "Diagnocat",
-      "overview": "Diagnocat AI analyzes dental 3D x-rays, recognizes anatomical areas and detects various pathologies of maxillo-facial area.",
-      "website": "http://diagnocat.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/diagnocat",
-        "followers": 42
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/diagnocat"
-      },
-      "size": "2-10 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "Moscow, Moscow City",
-        "San Francisco, CA",
-        "San Francisco, California"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=bCv1_PbU_Ow"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHu9yjeG42QzQ/company-logo_200_200/0?e=1594857600&v=beta&t=0jm63TMeGeTyK_DYbh9K6Yb_ROFncAOJ4OC5vwHfCMY",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/eigentech.md",
-      "title": "Eigen Technologies",
-      "excerpt": "",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/eigentech/index.json",
-      "webUrl": "https://everyday.cc/ai/company/eigentech/",
-      "type": "profile",
-      "name": "Eigen Technologies",
-      "overview": "",
-      "website": "https://www.eigentech.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/eigen-technologies"
-      },
-      "yearFounded": 0,
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=kSe7NAV0UOo"
-        }
-      ],
-      "heat": 50,
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/embodied.me.md",
       "title": "Embodied",
       "excerpt": "Paolo Pirjanian the former CTO of iRobot and founder &amp; CEO of Evolution Robotics (acquired by iRobot) founded Embodied with a mission to create the next big thing in robotics.  Embodied draws on more than 15 years of robotics commercialization experience, combined with our team's expertise in computational neuroscience, psychology, and storytelling and leverages the confluence of technologies including machine vision, speech, and machine learning to create robots that will revolutionize care and wellness for humans.  We are hiring!  See our web site and join us in creating robots that improve human wellness and quality of life.",
@@ -282,116 +159,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/fdna.md",
-      "title": "FDNA",
-      "excerpt": "We're a technology company based in NYC on a mission to improve lives by learning from the experience of every cancer patient.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/fdna/index.json",
-      "webUrl": "https://everyday.cc/ai/company/fdna/",
-      "type": "profile",
-      "name": "FDNA",
-      "overview": "We're a technology company based in NYC on a mission to improve lives by learning from the experience of every cancer patient.",
-      "website": "https://www.fdna.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/fdna",
-        "followers": 1151
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/fdna-inc"
-      },
-      "twitter": {
-        "username": "FDNA",
-        "url": "https://twitter.com/FDNA",
-        "followers": 6320
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2011,
-      "locations": [
-        "Boston, MA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=qUDQnRMJOcw"
-        }
-      ],
-      "heat": 50,
-      "tags": [
-        "Cancer"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1280825066377416707/qtusxek3_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "FDNA",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFPigzRHh6z8A/company-logo_200_200/0?e=1594857600&v=beta&t=9DM7xRDfFMkueOV4i4_4EjmyDN-c3k1q_nRGaBQ31QY",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/feedzai.md",
-      "title": "Feedzai",
-      "excerpt": "Feedzai is AI. We’re coding the future of commerce with a leading platform powered by artificial intelligence and big data. Founded and developed by data scientists and aerospace engineers, Feedzai has one critical mission: make commerce safe. The world’s largest banks, payment providers and retailers use Feedzai’s machine learning technology to manage risks associated with banking and shopping, whether it’s in person, online or via mobile devices.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/feedzai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/feedzai/",
-      "type": "profile",
-      "name": "Feedzai",
-      "overview": "Feedzai is AI. We’re coding the future of commerce with a leading platform powered by artificial intelligence and big data. Founded and developed by data scientists and aerospace engineers, Feedzai has one critical mission: make commerce safe. The world’s largest banks, payment providers and retailers use Feedzai’s machine learning technology to manage risks associated with banking and shopping, whether it’s in person, online or via mobile devices.",
-      "website": "https://feedzai.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/feedzai",
-        "followers": 19521
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/feedzai"
-      },
-      "twitter": {
-        "username": "feedzai",
-        "url": "https://twitter.com/feedzai",
-        "followers": 3176
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2009,
-      "locations": [
-        "San Mateo, CA"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/997213460776665088/KwaiDTTw_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Feedzai",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHiwjKZmD2YAA/company-logo_200_200/0?e=1594857600&v=beta&t=jHfH7EYkWdt4W-WkVPZINLzdX18h0pgH8aAEmxaXzL8",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/fraugster.md",
       "title": "Fraugster",
       "excerpt": "A German-Israeli payment security company that uses AI to eliminate e-commerce fraud and increase customers’ profits. #fraudfree #AI #ecommerce",
@@ -506,46 +273,118 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/grok.md",
-      "title": "Grok",
-      "excerpt": "The Leading AIOPS Platform For Intelligent Incident Prediction And Self-Healing Operations In IT Service Assurance",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/grok/index.json",
-      "webUrl": "https://everyday.cc/ai/company/grok/",
+      "path": "_companies/gnshealthcare.md",
+      "title": "GNS Healthcare",
+      "excerpt": "We solve healthcare’s matching problem. We provide technology, services, and solutions that precisely match health interventions to individuals, helping our clients improve health outcomes and avoid the billions of healthcare dollars wasted on ineffective treatments.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/gnshealthcare/index.json",
+      "webUrl": "https://everyday.cc/ai/company/gnshealthcare/",
       "type": "profile",
-      "name": "Grok",
-      "overview": "The Leading AIOPS Platform For Intelligent Incident Prediction And Self-Healing Operations In IT Service Assurance",
-      "website": "https://grokstream.com/",
+      "name": "GNS Healthcare",
+      "overview": "We solve healthcare’s matching problem. We provide technology, services, and solutions that precisely match health interventions to individuals, helping our clients improve health outcomes and avoid the billions of healthcare dollars wasted on ineffective treatments.",
+      "website": "http://www.gnshealthcare.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/grok-llc/",
-        "followers": 225
+        "url": "https://www.linkedin.com/company/gns-healthcare/",
+        "followers": 3017
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/grok"
+        "url": "https://www.crunchbase.com/organization/gns-healthcare"
       },
       "twitter": {
-        "username": "grokstream",
-        "url": "https://twitter.com/grokstream",
-        "followers": 552
+        "username": "gnshealthcare",
+        "url": "https://twitter.com/gnshealthcare",
+        "followers": 2614
       },
-      "size": "11-50 employees",
-      "yearFounded": 2015,
+      "size": "51-200 employees",
+      "yearFounded": 2000,
       "locations": [
-        "San Clemente, CA"
+        "Cambridge, MA"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=1063wrnhLHE"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1865800231/twitlogo2_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "GNS Healthcare",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/gumgum.md",
+      "title": "GumGum",
+      "excerpt": "GumGum is an artificial intelligence company with deep expertise in computer vision and natural language processing. Its mission is to solve hard problems across media by teaching machines to see and understand the world. Since 2008, the company has applied its patented capabilities to serving media-related industries, including advertising and professional sports.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/gumgum/index.json",
+      "webUrl": "https://everyday.cc/ai/company/gumgum/",
+      "type": "profile",
+      "name": "GumGum",
+      "overview": "GumGum is an artificial intelligence company with deep expertise in computer vision and natural language processing. Its mission is to solve hard problems across media by teaching machines to see and understand the world. Since 2008, the company has applied its patented capabilities to serving media-related industries, including advertising and professional sports.",
+      "website": "https://gumgum.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/gumgum/",
+        "followers": 12380
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/gumgum"
+      },
+      "twitter": {
+        "username": "GumGum",
+        "url": "https://twitter.com/GumGum",
+        "followers": 3594
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2007,
+      "locations": [
+        "Santa Monica, CA",
+        "Santa Monica, California"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ],
+      "videos": [
+        {
+          "url": "https://vimeo.com/179087754",
+          "thumbnail": {
+            "url": "https://i.vimeocdn.com/video/586908314_640.jpg",
+            "width": 640,
+            "height": 360,
+            "title": "GumGum",
+            "isCached": false
+          }
+        }
       ],
       "heat": 50,
       "tags": [
-        "AIOPS"
+        "Image Recognition"
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1374790150761418759/6_d9KaY6_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1543244722810019841/zZGKLBHR_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Grok",
+          "title": "GumGum",
           "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQEwptMmUu9nXQ/company-logo_200_200/0?e=1594857600&v=beta&t=Xi6UgpRhfMCgxqTtgb-d10wcID3x2wVB716aIQU53TI",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -583,65 +422,6 @@
       "images": [
         {
           "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHYuBzqN910hw/company-logo_200_200/0?e=1594857600&v=beta&t=PaPJS_YRkaES-G8ZldABvD4ip9R-a9iPMcvebuJSnAM",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/healx.io.md",
-      "title": "Healx",
-      "excerpt": "Healx is an AI-powered and patient-inspired technology company, accelerating the discovery and development of rare disease treatments.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/healx.io/index.json",
-      "webUrl": "https://everyday.cc/ai/company/healx.io/",
-      "type": "profile",
-      "name": "Healx",
-      "overview": "Healx is an AI-powered and patient-inspired technology company, accelerating the discovery and development of rare disease treatments.",
-      "website": "https://healx.io/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/healx/",
-        "followers": 2126
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/healx"
-      },
-      "twitter": {
-        "username": "healx",
-        "url": "https://twitter.com/healx",
-        "followers": 2740
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2014,
-      "locations": [
-        "Cambridge, UK",
-        "Cambridge, Cambridgeshire"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=6ZsujFTH3-A"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1542510713008099328/Qrp2AIRU_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Healx",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFaOvuN38Y6gA/company-logo_200_200/0?e=1594857600&v=beta&t=AnycYfO1V3P33O-PE6iw22z9FgAd2DvOwp8acd6UElE",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -744,62 +524,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/invoca.md",
-      "title": "Invoca",
-      "excerpt": "Invoca is an AI-powered call tracking and conversational analytics company that brings the depth of marketing analytics traditionally limited to digital consumer interactions to the world of human-to-human selling. With Invoca, marketers can use real-time call and conversational analytics to maximize the return of their paid media campaigns in Google and Facebook, and improve the buying experience by enriching customer profiles in Salesforce and Adobe Experience Cloud. With Fortune 500 customers and deep partnerships with the technologies marketers use every day, Invoca has raised $116M from leading venture capitalists including Accel, Upfront Ventures, H.I.G. Growth Partners, Morgan Stanley, and Salesforce Ventures. For more information, visit www.invoca.com.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/invoca/index.json",
-      "webUrl": "https://everyday.cc/ai/company/invoca/",
-      "type": "profile",
-      "name": "Invoca",
-      "overview": "Invoca is an AI-powered call tracking and conversational analytics company that brings the depth of marketing analytics traditionally limited to digital consumer interactions to the world of human-to-human selling. With Invoca, marketers can use real-time call and conversational analytics to maximize the return of their paid media campaigns in Google and Facebook, and improve the buying experience by enriching customer profiles in Salesforce and Adobe Experience Cloud. With Fortune 500 customers and deep partnerships with the technologies marketers use every day, Invoca has raised $116M from leading venture capitalists including Accel, Upfront Ventures, H.I.G. Growth Partners, Morgan Stanley, and Salesforce Ventures. For more information, visit www.invoca.com.",
-      "website": "https://www.invoca.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/invoca-com/",
-        "followers": 8022
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/invoca"
-      },
-      "twitter": {
-        "username": "Invoca",
-        "url": "https://twitter.com/Invoca",
-        "followers": 4511
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2008,
-      "locations": [
-        "Santa Barbara, CA",
-        "Santa Barbara, California"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=NLLaC8pNKY8"
-        }
-      ],
-      "heat": 50,
-      "tags": [
-        "Speech Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1542966362389131264/0J6jdSDq_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Invoca",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/iov42.md",
       "title": "IOV42",
       "excerpt": "",
@@ -871,32 +595,32 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/just-ai.md",
-      "title": "Just AI",
-      "excerpt": "Just AI develops conversational Artificial Intelligence (AI) technologies empowering a dialogue between a human and a machine.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/just-ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/just-ai/",
+      "path": "_companies/kadaxis.md",
+      "title": "Kadaxis",
+      "excerpt": "We help publishers improve book discoverability on retailer search engines (like Amazon) leading to increased recurring revenue. We use the latest data science technology to find keywords for books, through reader audience analysis.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/kadaxis/index.json",
+      "webUrl": "https://everyday.cc/ai/company/kadaxis/",
       "type": "profile",
-      "name": "Just AI",
-      "overview": "Just AI develops conversational Artificial Intelligence (AI) technologies empowering a dialogue between a human and a machine.",
-      "website": "http://just-ai.com/",
+      "name": "Kadaxis",
+      "overview": "We help publishers improve book discoverability on retailer search engines (like Amazon) leading to increased recurring revenue. We use the latest data science technology to find keywords for books, through reader audience analysis.",
+      "website": "https://kadaxis.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/just-ai-uk",
-        "followers": 106
+        "url": "https://www.linkedin.com/company/kadaxis",
+        "followers": 50
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/just-ai"
+        "url": "https://www.crunchbase.com/organization/kadaxis"
       },
       "twitter": {
-        "username": "JustAIglobal",
-        "url": "https://twitter.com/JustAIglobal",
-        "followers": 1065
+        "username": "kadaxis",
+        "url": "https://twitter.com/kadaxis",
+        "followers": 28526
       },
-      "size": "51-200 employees",
-      "yearFounded": 2016,
+      "size": "2-10 employees",
+      "yearFounded": 2013,
       "locations": [
-        "London, UK",
-        "London, England"
+        "New York, NY",
+        "New York, New York"
       ],
       "topics": [
         "AI",
@@ -904,16 +628,16 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=u9qpsrqV5wo"
+          "url": "https://www.youtube.com/watch?v=3ELoLhZNxb0"
         }
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1300462173521616896/Tr7qJwSp_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/378800000400606775/857c753a4104fa5ecb94afd6f6e2a5bc_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Just AI",
+          "title": "Kadaxis",
           "isCached": true
         }
       ],
@@ -1247,6 +971,64 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/labgeni.us.md",
+      "title": "LabGenius",
+      "excerpt": "LabGenius is the first biopharmaceutical company developing next generation protein therapeutics using a machine learning-driven evolution engine (EVA™).",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/labgeni.us/index.json",
+      "webUrl": "https://everyday.cc/ai/company/labgeni.us/",
+      "type": "profile",
+      "name": "LabGenius",
+      "overview": "LabGenius is the first biopharmaceutical company developing next generation protein therapeutics using a machine learning-driven evolution engine (EVA™).",
+      "website": "http://www.labgeni.us/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/labgenius/",
+        "followers": 2073
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/labgenius"
+      },
+      "twitter": {
+        "username": "labgeni_us",
+        "url": "https://twitter.com/labgeni_us",
+        "followers": 2543
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "London, UK"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=wy1AobL6x44"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1526563861154889729/ar0ihhMG_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "LabGenius",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGBR3Rh4HTaeg/company-logo_200_200/0?e=1594857600&v=beta&t=80aKsG_ar1rvSb5D4EEZlyzv_D4upOEsVzHI170r7T4",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/leapmind.io.md",
       "title": "LeapMind",
       "excerpt": "We are carrying out research on original chip architectures in order to implement Neural Networks on a circuit with low power.",
@@ -1299,55 +1081,213 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/luminouscomputing.md",
-      "title": "Luminous Computing",
-      "excerpt": "MAPEGY is organizing the world’s information on innovation to answer questions about what technologies, markets, companies and experts to invest in. @pwalde",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/luminouscomputing/index.json",
-      "webUrl": "https://everyday.cc/ai/company/luminouscomputing/",
+      "path": "_companies/lexmachina.md",
+      "title": "Lex Machina",
+      "excerpt": "Lex Machina provides lawyers with facts on which to base opinions – the core element of good lawyering. Lawyers can now predict the behaviors and outcomes that different legal strategies will produce and craft successful strategies to win cases and close business",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/lexmachina/index.json",
+      "webUrl": "https://everyday.cc/ai/company/lexmachina/",
       "type": "profile",
-      "name": "Luminous Computing",
-      "overview": "MAPEGY is organizing the world’s information on innovation to answer questions about what technologies, markets, companies and experts to invest in. @pwalde",
-      "website": "https://www.luminouscomputing.com/",
+      "name": "Lex Machina",
+      "overview": "Lex Machina provides lawyers with facts on which to base opinions – the core element of good lawyering. Lawyers can now predict the behaviors and outcomes that different legal strategies will produce and craft successful strategies to win cases and close business",
+      "website": "https://lexmachina.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/luminous-computing",
-        "followers": 421
+        "url": "https://www.linkedin.com/company/732353",
+        "followers": 2484
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/luminous-computing"
+        "url": "https://www.crunchbase.com/organization/lex-machina"
       },
       "twitter": {
-        "username": "LuminousAI",
-        "url": "https://twitter.com/LuminousAI",
-        "followers": 1433
+        "username": "lexmachina",
+        "url": "https://twitter.com/lexmachina",
+        "followers": 5269
       },
-      "size": "2-10 employees",
-      "yearFounded": 2018,
+      "size": "51-200 employees",
+      "yearFounded": 2010,
       "locations": [
-        "Palo Alto, CA"
+        "Menlo Park, CA"
       ],
-      "funding": {
-        "status": "Seed"
-      },
       "topics": [
         "AI",
-        "AI Hardware"
+        "Natural Language Processing"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=mzAX5DS3xYw"
+          "url": "https://www.youtube.com/watch?v=6Hg_SXrumV4"
         }
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1499140808942899200/xp3VenO4_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1286777045360377857/aqKDO9by_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Luminous Computing",
+          "title": "Lex Machina",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHcbIuYidU8Eg/company-logo_200_200/0?e=1594857600&v=beta&t=iEiUdkXFnltxhJGJWcyw0iQBvirv81o4Zv-BUivoLNI",
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFVs0DaphlwZQ/company-logo_200_200/0?e=1594857600&v=beta&t=DOQKNW1nIiylXeJvYR6Z6Y5rxBF2tzD7JIQ2Yg47g7c",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/lighttag.io.md",
+      "title": "LightTag",
+      "excerpt": "LightTag is a service for managing annotation projects with a team. Our mission is to increase the velocity and yield of natural language processing projects.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/lighttag.io/index.json",
+      "webUrl": "https://everyday.cc/ai/company/lighttag.io/",
+      "type": "profile",
+      "name": "LightTag",
+      "overview": "LightTag is a service for managing annotation projects with a team. Our mission is to increase the velocity and yield of natural language processing projects.",
+      "website": "https://www.lighttag.io/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/lighttag"
+      },
+      "twitter": {
+        "username": "LabeledData",
+        "url": "https://twitter.com/LabeledData",
+        "followers": 181
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=dA2uo9sGIj8"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1306917715408543750/b4hTeZ27_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "LightTag",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/liulishuo.md",
+      "title": "Liulishuo",
+      "excerpt": "Founded by Yi Wang, Hui Lin and Ben Hu in 2012, Liulishuo is the world's leading \"AI + Education\"​ company. The Company has developed the world's first “AI English Teacher” based on deep learning, which provides a personalized and adaptive learning path for every learner. It is proven to triple the learning efficiency (reduce the required learning time to one third) compared to human teachers by CEFR (Common European Framework of Reference for Language) standards, according to a study using the TOEIC Bridge Test from ETS.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/liulishuo/index.json",
+      "webUrl": "https://everyday.cc/ai/company/liulishuo/",
+      "type": "profile",
+      "name": "Liulishuo",
+      "overview": "Founded by Yi Wang, Hui Lin and Ben Hu in 2012, Liulishuo is the world's leading \"AI + Education\"​ company. The Company has developed the world's first “AI English Teacher” based on deep learning, which provides a personalized and adaptive learning path for every learner. It is proven to triple the learning efficiency (reduce the required learning time to one third) compared to human teachers by CEFR (Common European Framework of Reference for Language) standards, according to a study using the TOEIC Bridge Test from ETS.",
+      "website": "https://www.liulishuo.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/liulishuo/",
+        "followers": 3501
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/liulishuo"
+      },
+      "twitter": {
+        "username": "lingochamp",
+        "url": "https://twitter.com/lingochamp",
+        "followers": 1487
+      },
+      "size": "1,001-5,000 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "Shanghai, Shanghai"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=GF8KvuIJUvg"
+        }
+      ],
+      "heat": 50,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1326830321157898240/14TzFVZF_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Liulishuo",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQG5rLftUNFeCA/company-logo_200_200/0?e=1594857600&v=beta&t=1f3B0p4jXCfxQiBgnrTzY2DtsjjW_ilKP5msAKeTB2A",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/lumiata.md",
+      "title": "Lumiata",
+      "excerpt": "Lumiata is the industry's first AI Platform purpose-built for healthcare. Lumiata is powered by 75 million-member data, proprietary clinical, risk and financial algorithms, and industry leading data science and machine learning talent. We help Business, Benefits and Care Management teams at health plans, providers and employers make better decisions–– from identifying and managing individual's risk to retaining customers in competitive insurance markets–– using easy-to-use, fast-to-deploy AI applications. The Lumiata AI Platform also arms internal data science teams in healthcare organizations rapidly develop and deploy predictive models and applications. Silicon Valley-based Lumiata is backed by tier 1 investors Khosla Ventures, BlueCross BlueShield Venture Partners, Sandbox Industries and Intel Capital.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/lumiata/index.json",
+      "webUrl": "https://everyday.cc/ai/company/lumiata/",
+      "type": "profile",
+      "name": "Lumiata",
+      "overview": "Lumiata is the industry's first AI Platform purpose-built for healthcare. Lumiata is powered by 75 million-member data, proprietary clinical, risk and financial algorithms, and industry leading data science and machine learning talent. We help Business, Benefits and Care Management teams at health plans, providers and employers make better decisions–– from identifying and managing individual's risk to retaining customers in competitive insurance markets–– using easy-to-use, fast-to-deploy AI applications. The Lumiata AI Platform also arms internal data science teams in healthcare organizations rapidly develop and deploy predictive models and applications. Silicon Valley-based Lumiata is backed by tier 1 investors Khosla Ventures, BlueCross BlueShield Venture Partners, Sandbox Industries and Intel Capital.",
+      "website": "http://www.lumiata.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/lumiata",
+        "followers": 2608
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/lumiata"
+      },
+      "twitter": {
+        "username": "Lumiata",
+        "url": "https://twitter.com/Lumiata",
+        "followers": 1083
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2013,
+      "locations": [
+        "San Mateo, CA",
+        "San Mateo, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=1uxjtyJdxbU"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1258149706590334977/SYwr_9wT_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Lumiata",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGVE82mwAXfog/company-logo_200_200/0?e=1594857600&v=beta&t=3cC6ya_XrTzzMu6c2KHPZQ-VKjYq5e-NlrtFpPd-9nA",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -1458,6 +1398,126 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C560BAQFPTn9geZL7DA/company-logo_200_200/0?e=1594857600&v=beta&t=u_cOwl2JpQy-41n1BqnN6gT6V0_YHPgAu3gSynqh4eY",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/maxq.ai.md",
+      "title": "MaxQ AI",
+      "excerpt": "MaxQ AI is at the forefront Medical Diagnostic AI. Our mission is to meaningfully reduce misdiagnosis and healthcare costs by making artificial intelligence (AI) intrinsic to the diagnostic process for time sensitive and life-threatening conditions. We are transforming healthcare by empowering physicians to provide “smarter care” through intelligent imaging with AI actionable insights.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/maxq.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/maxq.ai/",
+      "type": "profile",
+      "name": "MaxQ AI",
+      "otherNames": [
+        "MedyMatch Technology"
+      ],
+      "overview": "MaxQ AI is at the forefront Medical Diagnostic AI. Our mission is to meaningfully reduce misdiagnosis and healthcare costs by making artificial intelligence (AI) intrinsic to the diagnostic process for time sensitive and life-threatening conditions. We are transforming healthcare by empowering physicians to provide “smarter care” through intelligent imaging with AI actionable insights.",
+      "website": "https://maxq.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/medymatch-technologies/",
+        "followers": 1260
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/medymatch"
+      },
+      "twitter": {
+        "username": "maximumqai",
+        "url": "https://twitter.com/maximumqai",
+        "followers": 462
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2013,
+      "locations": [
+        "Tel Aviv-Yafo, Israel"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=KlK9C4s1lvo"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1151589543222620160/QsHz1RLQ_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "MaxQ AI",
+          "isCached": true
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/C4D0BAQGR7mB_vul_hw/company-logo_400_400/0?e=1582761600&v=beta&t=JlYSP6pjXWrdalCmE8Z0PdC--8CZAD-_WDu0Ynkb4WU",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/mediktor.md",
+      "title": "Mediktor",
+      "excerpt": "Free face detection and recogniton API provider. Leading Face Recognition on Cloud.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/mediktor/index.json",
+      "webUrl": "https://everyday.cc/ai/company/mediktor/",
+      "type": "profile",
+      "name": "Mediktor",
+      "overview": "Free face detection and recogniton API provider. Leading Face Recognition on Cloud.",
+      "website": "https://www.mediktor.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/mediktor",
+        "followers": 869
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/teckel-medical"
+      },
+      "twitter": {
+        "username": "Mediktor",
+        "url": "https://twitter.com/Mediktor",
+        "followers": 2655
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2011,
+      "locations": [
+        "Beijing, China",
+        "Barcelona, Cataluña / Catalunya"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=VrnosHhMfgA"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1417523717513560068/HlhDXSXf_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Mediktor",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHEYqgnmCjhZg/company-logo_200_200/0?e=1594857600&v=beta&t=73PMeeLZjqgIWE7R_CONeYVNGUHxlASyQ-ZSchElGyk",
           "width": 400,
           "height": 400,
           "title": "logo",
