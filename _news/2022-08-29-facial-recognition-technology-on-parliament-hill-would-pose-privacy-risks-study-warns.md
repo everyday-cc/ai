@@ -57,15 +57,6 @@ related:
         width: 328
         height: 328
         isCached: true
-  - title: "What are the risks with facial recognition technology?"
-    excerpt: "Facial recognition systems are capable of up to 99,97% accuracy, but the technology does have some drawbacks. Cybersecurity experts at Ping Identity explore the importance of biometric authentication capabilities while protecting user privacy."
-    publishedDateTime: 2022-08-29T09:52:00Z
-    webUrl: "https://it-online.co.za/2022/08/29/what-are-the-risks-with-facial-recognition-technology/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 21
   - title: "Emotion Detection and Recognition Market Latest Advancements and Business Opportunities 2031"
     excerpt: "Emotion detection and recognition market is set to witness steady growth during 2021-2031. One of the major growth drivers for the emotion detection and recognition market happens to be the rising adoption of Internet of Things,"
     publishedDateTime: 2022-08-30T13:26:00Z

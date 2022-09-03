@@ -55,6 +55,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "DeepMind’s AI can now play football after learning how to work as a team"
+    excerpt: "Google’s artificial intelligence division DeepMind has taught AI humanoids how to work as a team in order to play football together. The researchers trained physically simulated AI to play two ..."
+    publishedDateTime: 2022-09-01T13:52:00Z
+    webUrl: "https://www.independent.co.uk/tech/deepmind-artificial-intelligence-ai-football-b2157565.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 53
+    images:
+      - url: "https://static.independent.co.uk/2022/09/01/14/deepmind%20ai%20football.png?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Watch DeepMind's digital humanoids learn to play soccer"
     excerpt: "DeepMind’s artificial intelligence has learned to play soccer. By learning from decades worth of computer simulations, the AI took digital humanoids from flailing tots to proficient players. DeepMind researchers trained the AI how to play soccer in a computer simulation through an athletic curriculum resembling a sped-up version of growing a human baby into a football player."
     publishedDateTime: 2022-08-31T18:00:00Z

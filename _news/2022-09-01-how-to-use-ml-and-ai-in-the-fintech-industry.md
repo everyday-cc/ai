@@ -105,29 +105,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence In Cancer Diagnosis And Therapy Market Worth $ 5.62 Billion By 2030"
-    excerpt: "Global Artificial Intelligence in Cancer Diagnosis and Therapy Market info. Global Artificial Intelligence in Cancer Diagnosis and Therapy Market seg. Glob"
-    publishedDateTime: 2022-08-29T10:58:00Z
-    webUrl: "https://menafn.com/1104774038/Global-Artificial-Intelligence-In-Cancer-Diagnosis-And-Therapy-Market-Worth-562-Billion-By-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 42
-    images:
-      - url: "https://menafn.com/updates/pr/2022-08/29/EP_6cb89image_story.jpeg"
-        width: 600
-        height: 314
-        isCached: true
-  - title: "AI in FinTech Global Market Report 2022: Need for Fraud Detection in Fintech & Financial Institutions Driving Adoption - ResearchAndMarkets.com"
-    excerpt: "The global AI in fintech market is expected to grow from $7.25 billion in 2021 to $9.13 billion in 2022 at a compound annual growth rate (CAGR) of 25.9%. The AI in fintech market is expected to grow to $24."
-    publishedDateTime: 2022-08-29T10:25:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-ai-in-fintech-global-market-report-2022-need-for-fraud-detection-in-fintech-and-financial-institutions-driving-adoption-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "CaXY1Vj+PGmwlqACKyVS975Pk4Mby2mJva1RQ1CeyVeMYVvL1bNHGYUhDrZjvlURIy0D+hY94++PPslcqBy5RkzOkz2s7ovU/07WsXQsSgIwLlG6fLyAOQR7uuqoGLDyj7HpBanWfbT6yxJ7BQ+N5BwIkFCI9auoSfu5WC77QXlGkYJu+u9zwZkRRLqgn6Ol+hVyMURBHpvB3zglCUWIsjDZgL++7gUfeMPuI6ez7Q8PcrNqQZiBK+UJVNAqpU2VIh4I7A5jHOet07Zz9+NbaWC8Gg119hvySxrvgvxFuvlsbPiji97gUc/rcdpn4QMXxfOVm/5H7sFI+mKmcLXNm0J5hq/Mk0tkyBd4+j/L3O8=;vYEuy1SfxQuc489rRTIE7Q=="
 ---

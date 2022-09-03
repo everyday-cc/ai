@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial intelligence-based algorithm to be used for reporting of lymph node status in colon cancer"
-excerpt: "A collaboration is looking at the development of an AI-based digital pathology solution to detect cancer from colorectal surgery cases."
-publishedDateTime: 2022-08-30T11:06:00Z
-originalUrl: "https://www.labiotech.eu/trends-news/collaboration-looks-development-ai-based-digital-pathology-solution-detect-cancer-colorectal-surgery-cases/"
-webUrl: "https://www.labiotech.eu/trends-news/collaboration-looks-development-ai-based-digital-pathology-solution-detect-cancer-colorectal-surgery-cases/"
+excerpt: "A collaboration between Indica Labs and iCAIRD is looking at the development of an AI-based digital tool to detect cancer within lymph nodes."
+publishedDateTime: 2022-08-30T14:34:00Z
+originalUrl: "https://www.labiotech.eu/trends-news/indica-labs-partners-with-icaird-on-ai-based-digital-pathology-solution/"
+webUrl: "https://www.labiotech.eu/trends-news/indica-labs-partners-with-icaird-on-ai-based-digital-pathology-solution/"
 type: article
 quality: 24
 heat: 24
@@ -35,6 +35,6 @@ related:
       domain: 360dx.com
     quality: 17
 
-secured: "AeKwPYzC8dcNXbDBWdIXN68Nh62YjtsADPNn+H/iYKomup+ekKhfYl0+mPOlU8s1mGuFINnH4lVmzWPzA6QIwtgC+Ao/Zujpj9WRbOnNUxsrnbY4N86X/JAfhCCV6cc5S/q44MJ+IT+5b0CzHXDmaXFmnXZBV4T8NyepM0BHut3d7fgn+JAEpEb5WW8eDVIL8GQ/63ySTEupc7+XJ7pz1/SYiLh9dsKoeAPD+ztXixImoaofMPLIKPOfaO71UdP+OdEZo79NO3+PUBsEopLUmYdKqn8C+dn2LuHafNPqBm4z81fvFhycFC9eAH/p/RHJ3SBFtlcBkNf3Z4xHuG3dHVNoFLfchhYECyhCs64zrgl38XwGkxuWaK1cEfxz76ka+IIoC7JIXPBx/1sZ20dPKJwrEKSdNVSB1JcRJu7jeD137q0XKXsDiqlk+6d3dIPWuKQ/DFbBljqMu6/414J4DPOEuFAjrNEPtmLPAgJH9x8HO10PbSl44012mxx8M/9okBclXNKowQ+O2948Ps6PEA==;mSfF51NyfU+qQ7YXa4/m8A=="
+secured: "fxrqyOJRNelJyreOpF+V20jHxGuLsWwrwUWFJ8P1Qp+hEC8wfn8edO15VceEwlsTkX5FUfjW9H7+QXn4xR1X59XGJNUxrOdAa962VT0kSoSimykTm9LjzAgEkn41129Ss4ez+Ruq3MuRkkQYURuvb4mP088ChD5O0wVLmNs5XKUr1PuYCdehfNO+SrIngk/MgY4/tJ10+535CAGnuN4Ja45xDKyd/nplxlmkq8iznkfbIX5OXUWLaoc6TGKCap3HA+hMOYGWfzoJeMrq6l9Ymc11drhWEk2/J/Mabqel32CvRLzOELuzIVCvkVg/VpqsPq3nRYaYGZsFdn4k6dHeRJYkGEnEJXZELsZzsbIahoU=;xcbnbsVNy/d+i3E8mNf56w=="
 ---
 

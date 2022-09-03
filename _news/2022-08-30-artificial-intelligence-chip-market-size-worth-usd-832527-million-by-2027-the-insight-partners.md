@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-worth-usd-832527-million-by-2027-the-insight-partners-2022-08-30"
 type: article
 quality: 72
-heat: 122
+heat: 92
 published: true
 
 provider:
@@ -57,45 +57,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Global AI-Enabled X-Ray Imaging Solutions Market Worth $ 508.32 Million By 2030-Report By Insightace Analytic"
-    excerpt: "Global AI-Enabled X-Ray Imaging Solutions Market info. Global AI-Enabled X-Ray Imaging Solutions Market seg. Global AI-Enabled X-Ray Imaging Solutions Mark"
-    publishedDateTime: 2022-08-29T10:55:00Z
-    webUrl: "https://menafn.com/1104773931/Global-AI-Enabled-X-Ray-Imaging-Solutions-Market-Worth-50832-Million-By-2030-Report-By-Insightace-Analytic"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 20
-    images:
-      - url: "https://menafn.com/updates/pr/2022-08/29/EP_63319image_story.jpeg"
-        width: 600
-        height: 314
-        isCached: true
-  - title: "Edge Computing Market Size Worth $132.11 Billion by 2028 at 21.6% CAGR | The Insight Partners"
-    excerpt: "The Insight Partners published latest research study on \"Edge Computing Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Component (Hardware, Software, and"
-    publishedDateTime: 2022-08-29T10:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/08/n28664397/edge-computing-market-size-worth-132-11-billion-by-2028-at-21-6-cagr-the-insight-partners"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28664397"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28664397"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 13
-  - title: "Digital Twin Financial Services And Insurance Market Size Worth USD 12.07 Billion By 2029, Growing A CAGR Of 16.30%"
-    excerpt: "Global Digital Twin Financial Services and Insurance Market Sizing Digital Twin Market, By Technology (IoT and IIoT, Blockchain, Artificial Intelligence and Machine Learning, Augmented Reality, Virtual Reality, and Mixed Reality, Big Data Analytics ..."
-    publishedDateTime: 2022-08-29T10:53:00Z
-    webUrl: "https://menafn.com/1104774190/Digital-Twin-Financial-Services-And-Insurance-Market-Size-Worth-USD-1207-Billion-By-2029-Growing-A-CAGR-Of-1630"
-    type: article
-    provider:
-      name: MENAFN
-      domain: menafn.com
-    quality: 2
-    images:
-      - url: "https://menafn.com/updates/pr/2022-08/29/EP_042f4image_story.jpeg"
-        width: 600
-        height: 314
         isCached: true
 
 secured: "J//YOPDfgKWHYaE6mPsigDuCNZc+BguTwjI2bSEAcngRV4jLLTDc6PYvpPf3FZK39dzUN+6gpxIDw3CtWIdPgNCZX85V2Azfxb8o51EdQBW6TTGBQXaliQijYtY2IjGo6k+w0boDLB32imoion97OPNVF5w2bPIgQKTWrNbPdH36vlhZxdxXJX6QbLx05/dVVTo/m8HAwjyzmGsbf+dF8KQxg0ctPxj10BmWQ8C4sSma+EcMw5cHbycjO0rdlu2sQfQqJSxn9iLzJNDJbflsFFaBrx0e1buT7tl2rs51f1NanX0Nvab9pz99e8EDn5E3xpRnP0CRUJTczzTERQrzU2VxUklXiFf35pPDt8zu/LQ=;zHh3EneGWomCZ0wW2q7Ipg=="

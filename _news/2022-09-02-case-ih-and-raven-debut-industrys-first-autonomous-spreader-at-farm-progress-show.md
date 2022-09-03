@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Industry’s first autonomous spreader debutsat Farm Progress Show"
+    excerpt: "Case IH and Raven Industries introduce the agriculture industry’s first autonomous spreader: the Case IH Trident™"
+    publishedDateTime: 2022-08-30T14:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/industrys-first-autonomous-spreader-debutsat-farm-progress-show-2022-08-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Raven introduces first autonomous spreader"
     excerpt: "Autonomous equipment can perform a consistent job each time, which is very important to me, as we’ve built our farm’s reputation on being flawless and doing high-quality work.”"
     publishedDateTime: 2022-08-31T16:34:00Z

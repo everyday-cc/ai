@@ -2,45 +2,31 @@
 category: news
 title: "Chinook Indian Nation members rally for federal recognition"
 excerpt: "Federal recognition would mean access to federal dollars for healthcare and housing for this group of tribes, which are based in Southwestern Washington."
-publishedDateTime: 2022-08-30T22:10:00Z
-originalUrl: "https://www.mlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html"
-webUrl: "https://www.mlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html"
-ampWebUrl: "https://www.mlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html?outputType=amp"
-cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html?outputType=amp"
+publishedDateTime: 2022-08-30T17:16:00Z
+originalUrl: "https://www.oregonlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html"
+webUrl: "https://www.oregonlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html"
+ampWebUrl: "https://www.oregonlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html?outputType=amp"
+cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html?outputType=amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
-  name: MLive
-  domain: mlive.com
+  name: Oregonian
+  domain: oregonlive.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LMMPTFFNCBH4FLHLG5BPF5DKTI.JPG"
-    width: 5184
-    height: 3456
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BDPWLIXENRFN5FMNDB6TY6JQTM.jpg"
+    width: 3000
+    height: 2000
     isCached: true
 
 related:
-  - title: "Behind Indian Government Supported AI & Robotics Innovation Firm"
-    excerpt: "If we can get self-driving cars to work on Silk Board in Bengaluru, it will work in the US, it will work in Europe, it will work in Elon Musk’s backyard as well."
-    publishedDateTime: 2022-08-29T10:30:00Z
-    webUrl: "https://analyticsindiamag.com/behind-indian-government-supported-ai-robotics-innovation-firm/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 71
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/ARTPARK.jpeg"
-        width: 1766
-        height: 993
-        isCached: true
   - title: "Chinook Indian Nation members rally for federal recognition"
     excerpt: "Members of the Chinook Indian Nation rallied Monday on the steps of a federal building in Seattle to raise awareness for their long fight to get federal recognition."
     publishedDateTime: 2022-08-30T02:55:00Z
@@ -52,7 +38,25 @@ related:
       name: Q13 FOX News
       domain: q13fox.com
     quality: 24
+  - title: "Chinook Indian Nation members rally in Seattle for federal recognition"
+    excerpt: "Members of the Chinook Indian Nation rallied at the federal building in Seattle on Monday to raise awareness for their long fight to get federal recognition."
+    publishedDateTime: 2022-08-30T22:02:00Z
+    webUrl: "https://www.seattletimes.com/seattle-news/chinook-indian-nation-members-rally-for-federal-recognition/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 4
+  - title: "Showgirls members call for recognition"
+    excerpt: "Each year during football season, 16 hours of work is put into a few minutes worth of dancing during halftime. The Truman State Showgirls Dance team currently consists of 11 student-athletes. They"
+    publishedDateTime: 2022-09-01T17:00:00Z
+    webUrl: "https://tmn.truman.edu/blog/sports/showgirls-members-call-for-recognition/"
+    type: article
+    provider:
+      name: TMN
+      domain: truman.edu
+    quality: 4
 
-secured: "dQpevi3XcEHoAYx1oy/q5NaZCoC9VV42BZ7NDWo2itPAvGafLiNsqwI+EizT1fFzgW5Rej9Pgv+njtR3HYsdC1U+QfG6BoSOIxYQsQzvG+fYmeWXyUnEAc3DUjP63+/quJlvfccFF3PxDhZw/xFP8irEARbB0wyTkeeEbFeeXC4Nu/lus28oTWer9Q1kNpx+3QfjoXlNDbFuMPaehsgi6i0eVJUQeIMq0q644hoETDChL10K3to2GtvBdPP/9iWHNYahQdxtufYldehWUR0bdTDZjPbDRj6KG/OX61cuF11bxHlW5QgFcSFfsZ/WZdbPr71Y++uBgGnnKaJ+z0JB1B9eZ+8o4In8keza4parwVBdf/QAGWj7xsi3XC6yoBtp+mZM1U16eA53qF9DcMPUksYnl6zc0yRnB1It7RLF72np0W/dXKs3EuEn6cxm4FNFgx3czoWk0JIf726p8AwLHPOeus4B8sFfqUo4YzaSrpoAPqc+mMUtLmHTods5F3Hm+ymU0jUIn5Rz+hwis2O/oA==;J01U1X+d3Rr9IV1iyWh8kg=="
+secured: "0O8BhgHaeo80v6+zt6BHjjFl1RrmyDx+w9OacG/cfGi/BbA0w/KrIU1Q9sBPAHkEBbkJ3Jz+1c8C7ZGhN6KONfGTJpbtcOrj5hi/c5tBrBFlAMIom+/L03Wv5nEHV8+ipixr1aZYX5fylxCaqVHSWEEWLzUY8Q18E+E56I/nxW+VvVAmWKhp0AseOlmXiYZbRPUHs3YeOI+Mky2dpFhqvwwtl4Pq0V79OEblXnrXqmYotE+urtIA484AH4EgS1/WDXPJfhPp/yw497NmTcauC47wMdXHT1jKEOqEEMfns72dvxHV3pmpsGlch8Likig6i+PFV0nNUH6LidENk7uOKxmXvkmo0EFZr2ckKqJdiB8=;ytRARnw9zI4pNdrqR1gZsw=="
 ---
 

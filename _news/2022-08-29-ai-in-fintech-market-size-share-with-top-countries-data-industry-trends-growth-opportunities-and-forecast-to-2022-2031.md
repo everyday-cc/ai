@@ -100,20 +100,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
-  - title: "Global Artificial Intelligence In Cancer Diagnosis And Therapy Market Worth $ 5.62 Billion By 2030"
-    excerpt: "Global Artificial Intelligence in Cancer Diagnosis and Therapy Market info. Global Artificial Intelligence in Cancer Diagnosis and Therapy Market seg. Glob"
-    publishedDateTime: 2022-08-29T10:58:00Z
-    webUrl: "https://menafn.com/1104774038/Global-Artificial-Intelligence-In-Cancer-Diagnosis-And-Therapy-Market-Worth-562-Billion-By-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 42
-    images:
-      - url: "https://menafn.com/updates/pr/2022-08/29/EP_6cb89image_story.jpeg"
-        width: 600
-        height: 314
-        isCached: true
   - title: "How to Use ML and AI in the Fintech Industry?"
     excerpt: "From appearing as frequent tech buzzwords less than a decade ago, they have become integral to how AI and ML tech innovations are shaped across the digital landscape. Driving innovations in certain industries,"
     publishedDateTime: 2022-09-01T05:49:00Z
@@ -123,15 +109,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 36
-  - title: "AI in FinTech Global Market Report 2022: Need for Fraud Detection in Fintech & Financial Institutions Driving Adoption - ResearchAndMarkets.com"
-    excerpt: "The global AI in fintech market is expected to grow from $7.25 billion in 2021 to $9.13 billion in 2022 at a compound annual growth rate (CAGR) of 25.9%. The AI in fintech market is expected to grow to $24."
-    publishedDateTime: 2022-08-29T10:25:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-ai-in-fintech-global-market-report-2022-need-for-fraud-detection-in-fintech-and-financial-institutions-driving-adoption-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "zdWAz9Of1BCmN9Yz0NI0C4ZlZYKhEwNxGFmDpou8sVgDQ3zSCSO10/YpSxyCdJrDjP0YWm6lMXnpUX+ju0hBbYsTyRHUnduWk6lqd922PKkIDnbGEpV/NAifKQmMpYNWic7ikAvoXrlFcT1eeGestKYV0AAFc+FNMn2NM+yo2GhyYHVlmSm/o2WICZ2qJeuaPDdrPvgjVNAfq19slS0Vc1EdCHrkZOFHba2xkv96n1F9EpgDdm6EK6faPp8YowUkMEyGUDZ6OGPzdtZPrs9k1L03dggi2RZEIldaRf5LXTIVWgYMR2j8jKLYA5WhbcZjpQX10j9I3MFyejDWmWup5VzivdCLJFR6hkqtDKoKwwM=;PgkpaRFoefV2Q7BOuu4VwA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/09/220902154904.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/09/220902154904.htm"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -24,6 +24,20 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "Artificial intelligence can be used to better monitor Maine’s forests, UMaine study finds"
+    excerpt: "The University of Maine has developed a novel method of using artificial intelligence and machine learning to make monitoring soil moisture more energy and cost efficient. The software learns over time how to make the best use of available network resources,"
+    publishedDateTime: 2022-09-03T02:52:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/963724"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 43
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/3d9752f1-cb41-4347-88aa-67a57076be04/Rendition/low-res/Content/Public"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Study: Artificial intelligence could be the future of managing Maine’s forests"
     excerpt: "Monitoring soil conditions can typically be a time-consuming job, with soil conditions changing on a daily, weekly and monthly basis."
     publishedDateTime: 2022-09-01T19:06:00Z

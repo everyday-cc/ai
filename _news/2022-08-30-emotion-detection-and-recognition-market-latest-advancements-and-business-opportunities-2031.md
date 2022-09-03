@@ -71,15 +71,6 @@ related:
         width: 1200
         height: 680
         isCached: true
-  - title: "What are the risks with facial recognition technology?"
-    excerpt: "Facial recognition systems are capable of up to 99,97% accuracy, but the technology does have some drawbacks. Cybersecurity experts at Ping Identity explore the importance of biometric authentication capabilities while protecting user privacy."
-    publishedDateTime: 2022-08-29T09:52:00Z
-    webUrl: "https://it-online.co.za/2022/08/29/what-are-the-risks-with-facial-recognition-technology/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 21
 
 secured: "cJJsaT9kgEybuzR0AnQQH/3RocNgaePZGv8AJJRlAonYmGghqooySb+ODVkN/Gd5MUiaamX7NoSbkaaSWaLOuF8qx91fsklBEXL3KSz1T+R4u8QGDLAXpukPg92dwCQraecWLkwVtW0VjGMrt9sTizgnRiTYzQNEwSfxJCJuMC93sdhxwujJUynP1hePxuUNht+Zmns9vygQBIVLiwUh2huXABRJ3QmMA3v/hZ+KYJ0zIKV99b4tl1O8xZFFQKWdCtzsxvCfAA0BXjl9zjZ6JsWZLZAyXHWJOl4vieMd3jKtZG/H9hY+GhNrKOf/ZTO77a49yLlRhjoVapAjyBQldMERQnPWRaYueob+44u3Lpk=;HgA0cheBMEU45kon69Q3lQ=="
 ---
