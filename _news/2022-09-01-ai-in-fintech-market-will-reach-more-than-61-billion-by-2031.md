@@ -119,28 +119,14 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 36
-  - title: "29/08 – Weekly Fintech Recap"
-    excerpt: "Partnerships Wearable Tech Pioneer DIGISEQ Partners with AdornPay to Bring Passive Wearable Payments to the Netherlands DIGISEQ, the wearable payments tech pioneer, announced its partnership with Dutch wearable fashion brand,"
-    publishedDateTime: 2022-08-29T08:04:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/2908-weekly-fintech-recap"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_20.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "AI in FinTech Global Market Report 2022: Need for Fraud Detection in Fintech & Financial Institutions Driving Adoption - ResearchAndMarkets.com"
-    excerpt: "The “AI in FinTech Global Market Report 2022” report has been added to ResearchAndMarkets.com’s offering. The global AI in fintech market is expected to grow from $7.25 billion in 2021 to $9.13 billion in 2022 at a compound annual growth rate (CAGR) of 25."
-    publishedDateTime: 2022-08-29T10:26:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-asia-south-america-0232c251b16047f18c094cc48e26a795"
+    excerpt: "The global AI in fintech market is expected to grow from $7.25 billion in 2021 to $9.13 billion in 2022 at a compound annual growth rate (CAGR) of 25.9%. The AI in fintech market is expected to grow to $24."
+    publishedDateTime: 2022-08-29T10:25:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-ai-in-fintech-global-market-report-2022-need-for-fraud-detection-in-fintech-and-financial-institutions-driving-adoption-researchandmarketscom"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Daily Herald
+      domain: dailyherald.com
     quality: 0
 
 secured: "2H11M4+jfMzAFd4ivIh0607IT5UnJZ0KOwgEEmLSTf996cN6ErOYUqL/6TPLtv0gCvbJX8JrTL4QSd6gUTrgszWveY7FY2KzJ+nupDDQZMIXEnZzoZrjy9lC0hdU4QWlf4WFIBgmz4RppGhjc8fWzK0MkJM3iyry0MKdhCvqGHu0jq59DrQ2TuU0smvW/oC5V4hiVTWuD5EuVCMt3r9Fn33AKZgRgRWSTO5RJixtTez3lGy/jJ/fILuJgbaxGg8a43mTUX6ZOLcMY/p6P1szqlz4vDlQVhtGZqc7JSi0WnI5Q9UQOfOh3oTC4K2/Gw253dKIx8h/nHWHGzLiGw140IUHE0qKVCX3x88OKSluRPQ=;Xnb7t6oblE0U5nGIdRspuQ=="

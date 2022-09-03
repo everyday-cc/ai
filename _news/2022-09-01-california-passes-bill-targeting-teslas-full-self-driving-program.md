@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Bill targeting Tesla's 'self-driving' claims passes California Legislature"
+    excerpt: "Tired of waiting for the DMV to act on what they see as a serious matter of public safety, California lawmakers took the matter into their own hands."
+    publishedDateTime: 2022-08-31T20:28:00Z
+    webUrl: "https://www.aol.com/news/bill-targeting-teslas-self-driving-172843729.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 52
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/A04Icjb83SH.MLctRI1XKg--~B/aD01NjA7dz04NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/aol_la_times_articles_830/95ce4b9bc18a14620ae6317c323faae9"
+        width: 840
+        height: 560
+        isCached: true
   - title: "California Legislature Passes Law That Would Force Tesla to Change Name of Full Self-Driving"
     excerpt: "Following a complaint filed by the DMV calling FSD's name misleading, California lawmakers have passed a law that would force Tesla to drop the title."
     publishedDateTime: 2022-09-02T23:22:00Z
@@ -58,15 +72,6 @@ related:
       name: The Drive
       domain: thedrive.com
     quality: 19
-  - title: "How Are Teachers Trained To Help Students With Dyslexia? Many California Educators Want Change"
-    excerpt: "A growing number of teacher-educators are getting on board with the idea that the best way to teach dyslexic students is also the best way to teach all students."
-    publishedDateTime: 2022-08-31T13:00:00Z
-    webUrl: "https://laist.com/news/education/dyslexia-california-teacher-preparation-training-structured-literacy"
-    type: article
-    provider:
-      name: LAist
-      domain: laist.com
-    quality: 7
 
 secured: "6qOIJ45QtVMbEIQ9Do3giqa2Z+l4FRpaXkaBfVDqy9scfLZXAqUGJyKkTMTRBqHlhzIa9LAIoZfIeRNi2Cbp9YT48fP3led/CdKGk0UOpcyzFVlY0fgdKA6zRcb1oUm1eGpQYVgtSEo6Ojku4h1L8yRnSUIusNxZ9MW3MjqJKDFtwvbgTPN+AQJRT5a+Qi12cECZ1bMtd1wxvi2/FSxTes5a1i/tZDZhfGkfu+rNTAppg8DQJnCFgxmfb5mOwNOzZsCHNKGm5vwk1gD2rvkwNjNYhaLLw/JG+NBApEsInAj0UxVwrlE9bGVkdzinRhzxaoA+w3ZDhgG7uzts4o76/zFBWTiLi2JzCE43VEwlfq1G1+DjzJZVYk+POLrplJ6rk1hkc6r0UmqctvNO2RGNk5uYBiGZ9Xm2VmU+g8aSlY0jAcvDN2VgTnpRhU0hI47NX/ZTF4WTMY76lS9OjcFGDwkrgUbAg/PbXvekOT1gM5NDxz+FatFk2XoLDOu3JYScTGkFDKBo9tXRfKP++CMO0g==;R3a/2BV7GIGq3elUgKAfBg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/man-boasts-about-winning-art-competitio
 webUrl: "https://www.pcmag.com/news/man-boasts-about-winning-art-competition-using-ai-created-image"
 type: article
 quality: 67
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -68,22 +68,6 @@ related:
       - url: "https://images.livemint.com/img/2022/09/01/600x338/AI_1662050666776_1662050666924_1662050666924.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "One man's long-held dream of fusing AI with common sense becoming reality"
-    excerpt: "who led the team that built IBM's famed Watson computer, was elated when it beat the best-ever human \"Jeopardy!\" players in 2011, in a televised triumph for artificial intelligence. But Ferrucci ..."
-    publishedDateTime: 2022-08-29T07:14:00Z
-    webUrl: "https://buffalonews.com/one-mans-long-held-dream-of-fusing-ai-with-common-sense-becoming-reality/article_b41b196c-8d41-5263-98c9-bfd64d31e3f1.html"
-    ampWebUrl: "https://buffalonews.com/one-mans-long-held-dream-of-fusing-ai-with-common-sense-becoming-reality/article_b41b196c-8d41-5263-98c9-bfd64d31e3f1.amp.html"
-    cdnAmpWebUrl: "https://buffalonews-com.cdn.ampproject.org/c/s/buffalonews.com/one-mans-long-held-dream-of-fusing-ai-with-common-sense-becoming-reality/article_b41b196c-8d41-5263-98c9-bfd64d31e3f1.amp.html"
-    type: article
-    provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 58
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/a/f4/af435594-3678-52b2-8fa7-688606b9bea0/630c527255a09.image.jpg?resize=802%2C588"
-        width: 802
-        height: 588
         isCached: true
   - title: "Will artificial intelligence replace artists after winning a competition?"
     excerpt: "Allen told the Pueblo Chieftain in an interview, \"I wanted to make a statement with artificial intelligence art. I think I did that, and I'm not going to feel bad about it.\" Allen sent in three pieces he made with Midjourney after trying out different phrases,"

@@ -1,25 +1,23 @@
 ---
 category: news
-title: "HoverTouch™: First AI and Computer Vision Solution launched by Spacee that Transforms Existing Retail Surfaces Into Interactive Customer Experiences"
-excerpt: "Using only light and a projector, HoverTouch lets customers explore products virtually, collecting crucial data and boosting sales DUBAI, United Arab Emirates,  /PRNewswire/ -- Spacee, which provides"
-publishedDateTime: 2022-08-31T06:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/08/n28695868/hovertouch-first-ai-and-computer-vision-solution-launched-by-spacee-that-transforms-existing-retai"
-webUrl: "https://www.benzinga.com/pressreleases/22/08/n28695868/hovertouch-first-ai-and-computer-vision-solution-launched-by-spacee-that-transforms-existing-retai"
-ampWebUrl: "https://www.benzinga.com/amp/content/28695868"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28695868"
+title: "HoverTouch: First AI and Computer Vision Solution launched by Spacee that Transforms Existing Retail Surfaces Into Interactive Customer Experiences"
+excerpt: "About Spacee Spacee provides the best computer vision and AI solutions that help businesses drive new insights, improve efficiency and boost revenue. Spacee's interactive displays help engage and ..."
+publishedDateTime: 2022-08-31T08:03:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56938910-hovertouch-first-ai-and-computer-vision-solution-launched-by-spacee-that-transforms-existing-retail-surfaces-into-interactive-customer-experiences-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56938910-hovertouch-first-ai-and-computer-vision-solution-launched-by-spacee-that-transforms-existing-retail-surfaces-into-interactive-customer-experiences-008.htm"
 type: article
-quality: 15
-heat: 15
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - Computer Vision
   - AI
 
-secured: "lTDR1v+yqmw8v3iizssRNro1Eh7ODob/HKqFpNdhK3H5IBhD0Qkl363Nc6+50OrR3lWBpgWCHi9Q7ZRyd9/WFlbx8EcNbc4aw/fuKMy26cvHCmPdWE3ECSCtNcmypLmPCBQ66bPuh4Neq80telKpK/rev7BDPILkNcmKnA8JHiWkvSmp97H72H8474u1DxLJnH/zRgsbQz0HDmrhL8jsqDfapd/oV6i+W4anthL4/4+wG3aEQu4IjmgqhDvsCxzr+hNGBCTcirzFw+KA+CPVDLo0sE747oA6NMsnnfmQbs5FKZYRHBPwnGdKAJ2WTLv39FY+r/ZbEBVGt9mfq0cXCyxFNKA27xF744g0LwkGUx4=;ou09hpF27X/1v/g90AqTBA=="
+secured: "I+nsi+ZdNs9oKv90hKh2ftJYWCzSIm/6VEsSqs17zWW+J6qrL7P7SyPBmckDkoFU2NKTXin6gpUTbE+opzR558IZxD0nYRDKVJr0H2UcEdFgbNWqSQ6joF7Trcv+as3elmL3ZNw1xMLIqWd24kAxyd53ozqfiqndt2m09SWAYFUjAXLH6E+zuqFAW8naHYDzZMFDC12sioVC3I/YaJ4HLDMTS/MU91BlfvXT9ImWgh7PNzw0AucWT59aCS9sl/As30AODHWCVhLCWQfZQHBi4R2Wm5Wn9Qppqo/URTVvuwxuZ98aamilArZPZeL/gaIC1GBNhg6jia672J9cxYc6SQOlFEexNpKk2ei/IwmxJFA=;7mbej1MTyZHTZrtjavBz5A=="
 ---
 

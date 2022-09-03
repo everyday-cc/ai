@@ -43,20 +43,6 @@ related:
         width: 320
         height: 213
         isCached: true
-  - title: "Indigenous Senator Lidia Thorpe lashes Anthony Albanese for using Shaquille O'Neal to promote Voice to Parliament"
-    excerpt: "Indigenous Greens Senator Lidia Thorpe has slammed Prime Minister Anthony Albanese for using former American basketball star Shaquille O’Neal to spruik the Indigenous Voice to Parliament."
-    publishedDateTime: 2022-08-29T07:44:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/indigenous-senator-lidia-thorpe-lashes-anthony-albanese-for-using-shaquille-oneal-to-promote-voice-to-parliament/news-story/60d9a8c6ab25fcf064160cd2be493d98"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 3
-    images:
-      - url: "https://content.api.news/v3/images/bin/76c1d6655f3bfd8caab898777cb95d85"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "BqzwhYBz7ZRHq4GrOWrvH6tHPJQ1zrPg3xHFMlzMko1i3CRcmNFK15iw06ypAqxO9y0Qr0DYD/YJYltgVtKkTN5IdcmJs4dbwtFLG3xtQhh7tlLnqziPs1h/H3Sj9TqCxl0eM0Y08g7yKInqaLxnQ0vfHQN4KGgt89X3fAbMg9Qdz1S+FcxX/c1dPSgbr32b9VmHVto55KcqxBWk2AwkAZxTvyEaikpgzSOxs/wad30e48Qdfb17c9+faonuQSAhYSE/qcdkaXYQZ0oiShIulAT3cXsvLcLmRl5wohPlsZjvEoykoepv+Bgyot6l83x2RzlTVM0UAaKM3926gFKtOIqdKXZ5QkQ2TIt8ghC+dV4Rrtsm4aNom8WcdjoHxTm6AqjCebI8+xKGkURMbtYbcJNWDBFqcHb6NEYhvhONugCtb5Z8b/jP4aYCNk13Ehvwb+YFFPN8olb+XPtqJNzcX7j2Uhulzz8vNJDPP9nJEiXY1rKoNabxuV/kOSrDSPkYd4EU4qhTG7ruXMmWhUfmpg==;dSFlQpv79U+6XuYZLx5stw=="
 ---

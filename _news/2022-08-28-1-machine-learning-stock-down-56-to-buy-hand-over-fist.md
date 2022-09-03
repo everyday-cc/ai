@@ -1,31 +1,22 @@
 ---
 category: news
 title: "1 Machine Learning Stock Down 56% to Buy Hand Over Fist"
-excerpt: "Splunk sees an opportunity in the machine learning industry, which is growing at 44% annually. Splunk is in the midst of a transformative shift to offer its services in the cloud to make them more ..."
-publishedDateTime: 2022-08-28T11:39:00Z
-originalUrl: "https://www.fool.com/investing/2022/08/28/machine-learning-stock-down-56-buy-hand--over-fist/"
-webUrl: "https://www.fool.com/investing/2022/08/28/machine-learning-stock-down-56-buy-hand--over-fist/"
+excerpt: "Machine learning is a subfield of artificial intelligence, and it's primarily used to make sense of mountains of data to deliver valuable insights to the end user. Thanks to companies like Splunk (NASDAQ: SPLK),"
+publishedDateTime: 2022-08-28T11:15:00Z
+originalUrl: "https://www.nasdaq.com/articles/1-machine-learning-stock-down-56-to-buy-hand-over-fist"
+webUrl: "https://www.nasdaq.com/articles/1-machine-learning-stock-down-56-to-buy-hand-over-fist"
+ampWebUrl: "https://www.nasdaq.com/articles/1-machine-learning-stock-down-56-to-buy-hand-over-fist?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/1-machine-learning-stock-down-56-to-buy-hand-over-fist?amp"
 type: article
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
-images:
-  - url: "https://g.foolcdn.com/editorial/images/698259/a-person-working-on-a-digital-dashboard-analyzing-data.jpg"
-    width: 5760
-    height: 3240
-    isCached: true
-
-secured: "XTRu8wPci/eZgVbXNUmPIExeRVh5DZO+ZHOfATYhYiuF1leABcYEXX+5mxl+sjCZZnwXZAWDpllg91ScMYUzYAybZodUtslTeqaYvljETgNTn/69bV/X3K7Gyvol8Svr3H3bYOzfS2Ut0IopHuOKGQlDwDbkMnM3xRjfCj3XkesiL2iajWdsIDxKoA0zJufUjxIbaxvUbrDKGpUpBqU1KFCSh8c2Vq1RSymsnLJxd1F1yEeaUw+RCySHFiT4DGvWfuWxmiSMQChdqYiIXBbzHTkQ1fqECfL/qEBWAYjhmTxNhKwd1aQoMUMF3AVfAow3Z82RkUQ51a2FCjIyJ8Emst2bcw99Px1v8RqXPWOQjjg=;ySL/ELAMcl6bwUXEEhZXvw=="
+secured: "4oufxTRa5bDEUGVuD2Lqj8eU4RyssJOP1Du18rHpAm/qPSH+aZPcms26iwHqmNhqB35ZSHfbM0CKH1K4eA1S6efvRN4PXktqags2+uHPI8pf5vsWXqJNC+IJxo+N41sgWmsVoV908C/NhnwVK0C5JOoTnZ4hfR4OCgObfFeaaOs18HdwSWj+cNcoFxEIRrQkXe6PriJ3K8iEGIEOVJAsh5FWcH48Pj/EH0kxclxoaiE3QgvmE8gDjNCmZNXmkb9O0IJA1+aYi6zy2s+LSBpxq1Ing7BTbS2awblzAcdc7VWr75co7lXnHz8J6uouHpz4+6gqC1m78sTIBn2vsOgfOXkBAEpAlFPnDnAHKAaiTusx7+BTf/A0ISQFPuSmqDgy0h9vIuUMl6B7j+5Ew8jSdC8/1pnRsK2zPdD2t0B21/Qf2sV93+O+B4t9jybE3WVSZ0toKZ08uLg80T/MZYx8HDmZJlbNa4n8zC32E3GMEzrGDO9OubWETaVqSNSIV88m1b7MOmsSagBGSJRB+YPiPw==;PBtAbPR5DH4XYO7ELrvCHQ=="
 ---
 

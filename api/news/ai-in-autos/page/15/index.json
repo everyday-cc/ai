@@ -2,6 +2,163 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-06-03-elon-musk-says-tesla-ai-day-pushed-to-sept-30.md",
+      "title": "Elon Musk says Tesla AI Day pushed to Sept 30",
+      "excerpt": "Electric vehicle major Tesla Inc Chief Executive Officer Elon Musk said on Thursday that Tesla's AI Day has now been pushed to Sept. 30.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/elon-musk-says-tesla-ai-day-pushed-sept-30-2022-06-03/",
+      "originalUrl": "https://www.reuters.com/technology/elon-musk-says-tesla-ai-day-pushed-sept-30-2022-06-03/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/3NNM9uV9ThNnzmnNHy32TFr22_Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3LFCZXMPA5PDXL5MUIP5J22M6A.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-03T01:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-06-03-elon-musk-says-tesla-may-have-a-working-humanoid-robot-prototype-by-sept-30.md",
+      "title": "Elon Musk says Tesla may have a working humanoid robot prototype by Sept 30",
+      "excerpt": "Elon Musk announced that Tesla might have a working prototype of Tesla Bot, the automaker's humanoid robot, by September 30th.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/06/02/tesla-bot-have-humanoid-robot-prototype-elon-musk-sept-30/",
+      "originalUrl": "https://electrek.co/2022/06/02/tesla-bot-have-humanoid-robot-prototype-elon-musk-sept-30/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 226,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/01/elon-tesla-bot.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/06/02/tesla-bot-have-humanoid-robot-prototype-elon-musk-sept-30/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/06/02/tesla-bot-have-humanoid-robot-prototype-elon-musk-sept-30/amp/",
+      "publishedDateTime": "2022-06-02T18:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-06-03-california-regulators-approve-first-driverless-taxi-fleet-in-san-francisco.md",
+      "title": "California regulators approve first driverless taxi fleet in San Francisco",
+      "excerpt": "California regulators on Thursday gave a robotic taxi service the green light to begin charging passengers for driverless rides in San Francisco, a first in a state where dozens of companies have ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/california-regulators-approve-first-driverless-taxi-fleet-in-san-francisco-01654217344",
+      "originalUrl": "https://www.marketwatch.com/story/california-regulators-approve-first-driverless-taxi-fleet-in-san-francisco-01654217344",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-522029/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/california-regulators-approve-first-driverless-taxi-fleet-in-san-francisco-01654217344",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/california-regulators-approve-first-driverless-taxi-fleet-in-san-francisco-01654217344",
+      "publishedDateTime": "2022-06-02T18:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-03-gms-cruise-wins-first-california-permit-to-carry-paying-riders-in-driverless-cars.md",
       "title": "GM's Cruise wins first California permit to carry paying riders in driverless cars",
       "excerpt": "OAKLAND, Calif., June 2 (Reuters) - General Motors Co's (GM.N) Cruise on Thursday became the first company to secure a permit to charge for self-driving car rides in San Francisco, after it ...",
@@ -1209,126 +1366,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-the-worlds-new-youngest-self-made-billionaire-is-a-25-year-old-college-dropout.md",
-      "title": "The world’s new youngest self-made billionaire is a 25-year-old college dropout",
-      "excerpt": "The new youngest self-made billionaire of the world Alexandr Wang is a 25 year old college dropout from New Mexico.",
-      "sourceUrl": null,
-      "webUrl": "https://techstory.in/the-worlds-new-youngest-self-made-billionaire-is-a-25-year-old-college-dropout/",
-      "originalUrl": "https://techstory.in/the-worlds-new-youngest-self-made-billionaire-is-a-25-year-old-college-dropout/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techstory.in/wp-content/uploads/2022/05/darikNews.img361.jpeg",
-          "width": 800,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T03:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tech",
-        "domain": "techstory.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-biography-meet-zimbabwes-serial-entrepreneur-william-sachiti-who-owns-uks-first-black-owned-driverless-car-company.md",
-      "title": "Biography: Meet Zimbabwe’s Serial Entrepreneur William Sachiti Who Owns UK’s First Black-Owned Driverless Car Company",
-      "excerpt": "From creating digital advertising bins to driverless cars, the serial inventor is not ... In 2015 Sachiti enrolled at Aberystwyth University in Wales, where he studied artificial intelligence and robotics. He kept fledging and flourishing at the university ...",
-      "sourceUrl": null,
-      "webUrl": "https://iharare.com/biography-meet-zimbabwes-serial-entrepreneur-william-sachiti-who-owns-uks-first-black-owned-driverless-car-company/",
-      "originalUrl": "https://iharare.com/biography-meet-zimbabwes-serial-entrepreneur-william-sachiti-who-owns-uks-first-black-owned-driverless-car-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cy4ad5.c2.acecdn.net/wp-content/uploads/2022/05/william-sachiti-1.jpg",
-          "width": 1200,
-          "height": 846,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://iharare.com/biography-meet-zimbabwes-serial-entrepreneur-william-sachiti-who-owns-uks-first-black-owned-driverless-car-company/amp/",
-      "cdnAmpWebUrl": "https://iharare-com.cdn.ampproject.org/c/s/iharare.com/biography-meet-zimbabwes-serial-entrepreneur-william-sachiti-who-owns-uks-first-black-owned-driverless-car-company/amp/",
-      "publishedDateTime": "2022-05-27T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "iHarare News",
-        "domain": "iharare.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-tech-shares-lead-hk-market-higher-amid-hopes-for-better-china-us-ties.md",
-      "title": "Tech shares lead HK market higher amid hopes for better China-U.S. ties",
-      "excerpt": "Hong Kong stocks jumped nearly 3% on Friday, led by tech shares following forecast-beating results from Alibaba Group and Baidu, while comments by a U.S. official on relations with China were interpreted by some as positive. We apologize, but this video ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/business-pmn/tech-shares-lead-hk-market-higher-amid-hopes-for-better-china-u-s-ties",
-      "originalUrl": "https://financialpost.com/pmn/business-pmn/tech-shares-lead-hk-market-higher-amid-hopes-for-better-china-u-s-ties",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

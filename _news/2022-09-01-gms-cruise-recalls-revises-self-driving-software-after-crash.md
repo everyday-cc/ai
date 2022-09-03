@@ -29,19 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "GM's Cruise unit recalls and revises self-driving software after crash"
+  - title: "GM's Cruise Unit Recalls And Revises Self-driving Software After Crash"
     excerpt: "General Motors' startup unit Cruise LLC said Thursday it had recalled and updated software in 80 self-driving vehicles after a June crash in San Francisco that left two people injured."
-    publishedDateTime: 2022-09-01T13:26:00Z
-    webUrl: "https://www.reuters.com/article/cruise-recall/gms-cruise-unit-recalls-and-revises-self-driving-software-after-crash-idUSKBN2Q2336"
+    publishedDateTime: 2022-09-01T14:39:00Z
+    webUrl: "https://www.ibtimes.com/gms-cruise-unit-recalls-revises-self-driving-software-after-crash-3608357"
+    ampWebUrl: "https://www.ibtimes.com/gms-cruise-unit-recalls-revises-self-driving-software-after-crash-3608357?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/gms-cruise-unit-recalls-revises-self-driving-software-after-crash-3608357?amp=1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 44
     images:
-      - url: "https://www.reuters.com/resizer/JOqAhF2tr6Sz-OwrSoBK8ivT_To=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/V2MG2V6VQJNHPIAI2U6QYPO2XA.jpg"
+      - url: "https://d.ibtimes.com/en/full/3811457/cruise-self-driving-car-which-owned-general-motors-corp-seen-outside-companys.jpg"
         width: 1200
-        height: 628
+        height: 788
         isCached: true
   - title: "GM’s Cruise Recalls 80 Self-Driving Cars Due to Risk of Crash"
     excerpt: "General Motors Co.’s Cruise self-driving car unit has recalled an older version of software used by its robotaxis at the time of a crash in San Francisco in June, according to federal transportation regulators."

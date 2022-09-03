@@ -2,6 +2,93 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-06-19-cognitive-restructuring-and-its-techniques.md",
+      "title": "Cognitive restructuring and its techniques",
+      "excerpt": "Cognitive restructuring is a technique that helps people change the way they think. It can help people feel differently about things that worry or frustrate them, and this in turn can affect ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medicalnewstoday.com/articles/cognitive-restructuring",
+      "originalUrl": "https://www.medicalnewstoday.com/articles/cognitive-restructuring",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2022/05/Cognitive_restructuring_GettyImages1127955961_Thumb.jpg",
+          "width": 732,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical News Today",
+        "domain": "medicalnewstoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-19-real-world-data-show-efficacy-of-digital-cognitive-behavioral-therapy-for-insomnia.md",
+      "title": "Real-world Data Show Efficacy of Digital Cognitive Behavioral Therapy for Insomnia",
+      "excerpt": "Real-world data showed that cognitive behavioral therapy for insomnia (CBT-I) delivered via a digital therapeutic was effective, according to a study published in Behaviour Research and Therapy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ajmc.com/view/real-world-data-show-efficacy-of-digital-cognitive-behavioral-therapy-for-insomnia",
+      "originalUrl": "https://www.ajmc.com/view/real-world-data-show-efficacy-of-digital-cognitive-behavioral-therapy-for-insomnia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.sanity.io/images/0vv8moc6/ajmc/72867d7f281bc29c668a24c000e99f955cb6d1a6-1731x1109.jpg?fit=crop&auto=format",
+          "width": 1731,
+          "height": 1109,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-18T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The American Journal of Managed Care",
+        "domain": "ajmc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-06-18-this-simple-cognitive-bias-can-have-serious-consequences.md",
       "title": "This Simple Cognitive Bias Can Have Serious Consequences",
       "excerpt": "Recently, I became acutely aware and impacted by left-digit bias. At first, it seemed benign—a few letters and a freebie from the AARP—but then the discriminatory communications began to roll ...",
@@ -1245,83 +1332,6 @@
       "provider": {
         "name": "Digital Journal",
         "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-cognitive-behavioral-cbt-therapists-in-sammamish-wa.md",
-      "title": "Cognitive Behavioral (CBT) Therapists in Sammamish, WA",
-      "excerpt": "My therapeutic style is warm, engaging, empathic and collaborative, and is rooted in evidence-based approaches like Cognitive behavioral Therapy,Family Systems and Acceptance and Commitment therapy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/therapists/wa/sammamish?category=cognitive-behavioral-cbt",
-      "originalUrl": "https://www.psychologytoday.com/us/therapists/wa/sammamish?category=cognitive-behavioral-cbt",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-a-worrying-phone-call-adds-to-concerns-about-sen-dianne-feinsteins-cognitive-health.md",
-      "title": "A worrying phone call adds to concerns about Sen. Dianne Feinstein's cognitive health",
-      "excerpt": "And while Traister's feature piece does center on Feinstein's long and storied career, it also evokes questions about the senator's cognitive health. NPR's All Things Considered spoke with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.npr.org/2022/06/13/1104843151/senator-dianne-feinstein-cognitive-health-continues-to-raise-concerns-traister",
-      "originalUrl": "https://www.npr.org/2022/06/13/1104843151/senator-dianne-feinstein-cognitive-health-continues-to-raise-concerns-traister",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/assets/img/2022/06/13/gettyimages-1240601779_wide-3616d7a7c5252ab0382618dd132f940c65b86c60.jpg?s=1400",
-          "width": 1400,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NPR",
-        "domain": "npr.org",
         "images": null,
         "publishers": null,
         "authors": null

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "AI in FinTech Global Market Report 2022: Need for Fraud Detection in Fintech & Financial Institutions Driving Adoption - ResearchAndMarkets.com"
-excerpt: "The “AI in FinTech Global Market Report 2022” report has been added to ResearchAndMarkets.com’s offering. The global AI in fintech market is expected to grow from $7.25 billion in 2021 to $9.13 billion in 2022 at a compound annual growth rate (CAGR) of 25."
-publishedDateTime: 2022-08-29T10:26:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-asia-south-america-0232c251b16047f18c094cc48e26a795"
-webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-asia-south-america-0232c251b16047f18c094cc48e26a795"
+excerpt: "The global AI in fintech market is expected to grow from $7.25 billion in 2021 to $9.13 billion in 2022 at a compound annual growth rate (CAGR) of 25.9%. The AI in fintech market is expected to grow to $24."
+publishedDateTime: 2022-08-29T10:25:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-ai-in-fintech-global-market-report-2022-need-for-fraud-detection-in-fintech-and-financial-institutions-driving-adoption-researchandmarketscom"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-ai-in-fintech-global-market-report-2022-need-for-fraud-detection-in-fintech-and-financial-institutions-driving-adoption-researchandmarketscom"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI in Finance
@@ -127,21 +127,7 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 36
-  - title: "29/08 – Weekly Fintech Recap"
-    excerpt: "Partnerships Wearable Tech Pioneer DIGISEQ Partners with AdornPay to Bring Passive Wearable Payments to the Netherlands DIGISEQ, the wearable payments tech pioneer, announced its partnership with Dutch wearable fashion brand,"
-    publishedDateTime: 2022-08-29T08:04:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/2908-weekly-fintech-recap"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_20.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
 
-secured: "jVXgALX58guvfZ/rxy1HrrmnSmtlkUK389RForS39cYdn4IVwLk4S2VZNpl17ym+g76Xdj1Z3bwFNvkVDfT3gNwwqzxQQd5I+uk8CBe76l0UK96cd7oAJC9rnT7ut0era+VXTylV3pQcV5bT4gjVT/vW1fSzPajBAdJwIbbCp0AG3tqcdCIRtK9HQpqJsbA5jwNP3VOqbdhi+Ev3zpFaQ39wjSASlhnMiF8CQj5nBeYm1q9FEvSDbfvckD3hQrNc6SlA9HASrkWcMgU6syhVxu9Ad+hwDSx1dXzBWBl/NCtY6YLJzOpXyeLjmBnC6l+qpyvuchZE1NISKuMooC/1sHHx83FQmNKa6zH+jWCXyQ8=;ClKp8RTuBONjoLY7Eiyjrg=="
+secured: "SAN8b9tBWFv24XBQ2svPGRexerI67sfoZX7jpm9h3j8nt6EJBRJ3e7gKGpLfsBN2vVO1ZorIv7BXNI49ATy4DlyczongdBEb6RwYuCX+73vLC8GxymLFS2urGiphBTKa8+Lhzbeura4dZ6b5/LBnoprGoSPf3HHk+8jPQvTdjs97HKr+oCt4wh4aRaRtCXetZs8Mucb7/oEaQjuh5AS80ax8aU6OZXGvNAH4mumwRGC4WIgJSfAHtvbepM4HBVQVgMe69tusekWhuw0BEwUmgmRpYbc0i9l+EvnF8IMWAdEtxpP14liGCu1yj1PUGhIudzPLMtMLqvwrX4MRzLd6tsDjdXC4jNMjljSFL10gers=;VsNKlfLNfyuFvvDUs7ZGRQ=="
 ---
 

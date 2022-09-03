@@ -27,18 +27,20 @@ images:
 
 related:
   - title: "Artificial intelligence model outperforms clinicians in diagnosing pediatric ear infections"
-    excerpt: "An artificial-intelligence model built at Mass Eye and Ear was shown to be significantly more accurate than doctors at diagnosing pediatric ear infections in the first head-to-head evaluation of its kind."
-    publishedDateTime: 2022-08-31T12:02:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/963336"
+    excerpt: "An artificial-intelligence (AI) model built at Mass Eye and Ear was shown to be significantly more accurate than doctors at diagnosing pediatric ear infections in the first head-to-head evaluation of its kind,"
+    publishedDateTime: 2022-08-31T16:30:00Z
+    webUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-outperforms-clinicians-pediatric.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-outperforms-clinicians-pediatric.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-artificial-intelligence-outperforms-clinicians-pediatric.amp"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 27
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 47
     images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a4c0f958-76a6-48a5-9765-166256f6814c/Rendition/thumbnail/Content/Public"
-        width: 252
-        height: 300
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-62.jpg"
+        width: 359
+        height: 428
         isCached: true
 
 secured: "gYtYvoJVOYHR0ZZbSCoH6n1KR/zuRkl9IFTyHNP/d1sNwUd4D8AfVrwtcLxSjG5zl00y1rMRt/laEJcM33GqeBlxdknlp5vTldNRbduugUSZxmef8i6GGhnYgnX8SPM9sbx/8lGzBV8Ozl/jiI/oTwC3ODfoz3rPikDOSmpx8OO506rN5qJeUkHr4GBWWgPN/bIiMSbTS6/zOifinvLPzMzfFhjgrEuiqZ6ZEqhMs+HlqXUzpZ99b2RK4NYwtmcsQjHAcv00bxe96ePZOM93VVgQidfBewGI63EfFOSU3O3hRnkDBcQquoB/B9EtOCLMV0u3fajmhfxOOURqSu6JHmLCTmqL3Hs2IVUeMWU5Hwg=;MRsckhEacFvIfJpOpjGfsQ=="

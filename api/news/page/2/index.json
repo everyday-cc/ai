@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-01-artificial-intelligence-ai-in-supply-chain-market-size-share-volume-trends-demand-forecast-report-2022-2028.md",
+      "title": "Artificial Intelligence (AI) In Supply Chain Market Size Share Volume Trends Demand Forecast Report 2022-2028",
+      "excerpt": "The global Artificial Intelligence (AI) In Supply Chain market is segregated on the basis of Technology as Machine",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-market-size-share-volume-trends-demand-forecast-report-2022-2028-2022-09-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-market-size-share-volume-trends-demand-forecast-report-2022-2028-2022-09-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-01T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-report-conversational-ai-reduces-barriers-to-mental-health-treatment.md",
       "title": "Report: Conversational AI reduces barriers to mental health treatment",
       "excerpt": "In a study by Botco AI, 100% of respondents said they expanded virtual behavioral support, including conversational AI, during the pandemic.",
@@ -112,7 +164,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/do-conversational-ai-systems-understand-humor/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -607,6 +659,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-01-bill-targeting-teslas-self-driving-claims-passes-california-legislature.md",
+      "title": "Bill targeting Tesla's 'self-driving' claims passes California Legislature",
+      "excerpt": "Tired of waiting for the DMV to act on what they see as a serious matter of public safety, California lawmakers took the matter into their own hands.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/bill-targeting-teslas-self-driving-172843729.html",
+      "originalUrl": "https://www.aol.com/news/bill-targeting-teslas-self-driving-172843729.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/A04Icjb83SH.MLctRI1XKg--~B/aD01NjA7dz04NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/aol_la_times_articles_830/95ce4b9bc18a14620ae6317c323faae9",
+          "width": 840,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T13:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-microsoft-azure-outage-continues-for-some-services-relying-on-ubuntu-bionic-release.md",
       "title": "Microsoft Azure outage continues for some services relying on Ubuntu 'Bionic' release",
       "excerpt": "Azure problems for some running Ubuntu VMs are continuing into a second day, as Microsoft continues to try to remediate the situation, which is affecting services like AKS and ACA.",
@@ -667,7 +762,7 @@
       "originalUrl": "https://www.pcmag.com/news/man-boasts-about-winning-art-competition-using-ai-created-image",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -968,7 +1063,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-global-market-to-reach-2417-billion-by-2026-2022-08-31",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1146,101 +1241,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-ai-startup-simaai-debuts-purpose-built-ai-chip-for-edge-computing.md",
-      "title": "AI startup SiMa.ai debuts 'purpose-built' AI chip for edge computing",
-      "excerpt": "The chip company places special emphasis on software innovations such as compiler optimization to improve performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/",
-      "originalUrl": "https://www.zdnet.com/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 196,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/880f030bba7a4480fe84f79f48a479e12de7a17e/2022/08/30/9a7626ba-c727-4205-8109-e0d5caf30154/sima-mlsoc-evaluation-board.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 749,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/",
-      "publishedDateTime": "2022-08-30T15:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-this-woman-created-an-ai-system-to-monitor-her-cats-poop.md",
-      "title": "This Woman Created An AI System to Monitor Her Cat's Poop",
-      "excerpt": "She then took thousands of pictures of her cats pooping, and fed the pictures to a machine learning system so that it could differentiate between Teddy and Luna.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/cat-litter-robot-machine-learning-ai-raspberry-pi-poop-1849475626",
-      "originalUrl": "https://gizmodo.com/cat-litter-robot-machine-learning-ai-raspberry-pi-poop-1849475626",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/cat-litter-robot-machine-learning-ai-raspberry-pi-poop-1849475626/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/cat-litter-robot-machine-learning-ai-raspberry-pi-poop-1849475626/amp",
-      "publishedDateTime": "2022-08-30T14:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

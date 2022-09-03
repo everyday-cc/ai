@@ -1,31 +1,29 @@
 ---
 category: news
-title: "GM's Cruise unit recalls and revises self-driving software after crash"
+title: "GM's Cruise Unit Recalls And Revises Self-driving Software After Crash"
 excerpt: "General Motors' startup unit Cruise LLC said Thursday it had recalled and updated software in 80 self-driving vehicles after a June crash in San Francisco that left two people injured."
-publishedDateTime: 2022-09-01T13:26:00Z
-originalUrl: "https://www.reuters.com/article/cruise-recall/gms-cruise-unit-recalls-and-revises-self-driving-software-after-crash-idUSKBN2Q2336"
-webUrl: "https://www.reuters.com/article/cruise-recall/gms-cruise-unit-recalls-and-revises-self-driving-software-after-crash-idUSKBN2Q2336"
+publishedDateTime: 2022-09-01T14:39:00Z
+originalUrl: "https://www.ibtimes.com/gms-cruise-unit-recalls-revises-self-driving-software-after-crash-3608357"
+webUrl: "https://www.ibtimes.com/gms-cruise-unit-recalls-revises-self-driving-software-after-crash-3608357"
+ampWebUrl: "https://www.ibtimes.com/gms-cruise-unit-recalls-revises-self-driving-software-after-crash-3608357?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/gms-cruise-unit-recalls-revises-self-driving-software-after-crash-3608357?amp=1"
 type: article
-quality: 54
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/JOqAhF2tr6Sz-OwrSoBK8ivT_To=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/V2MG2V6VQJNHPIAI2U6QYPO2XA.jpg"
+  - url: "https://d.ibtimes.com/en/full/3811457/cruise-self-driving-car-which-owned-general-motors-corp-seen-outside-companys.jpg"
     width: 1200
-    height: 628
+    height: 788
     isCached: true
 
 related:
@@ -145,6 +143,6 @@ related:
       domain: barrons.com
     quality: 4
 
-secured: "q1b4qsDbCpdXQzKfhx8112vIARtvLoiS4czWl3tsuhajMBfpSlrDX6mO+KfubTLyujPmwN+AknSRTsn+aI1gyZ6NhfgjuRHYp+wvRLNwpeQm+Pm6eBXQNMe7Zzfy1PIGKkCJHUeTLhwqvsi4d5+jWGSgGwOQZveWIKnBTynk4NQGy02ePdzBn1UTgZ/SIMd8gRu9KvpJ6daY1TNfn31z8WSF6i6zh7SSMp3mndo5ipEfAHLZrtZFFlDiPA8DOGzBVtucEmVDE5D9U1sCAwvLFi8t9rUeJn9+ayk/h+NDmx/z9W+QaniX7HX/LeELLifRBSC/UIog/8UpK1FQnD3tBuF4kiT152ClIDofDr2zNlo=;AgFaGS5nfhsN+zz8Qi/YKw=="
+secured: "dhfhCQVUuycMOqZmEd/AJgEcokKq8uOiX3fNNY52oc3aS/vLjhbKRnzun71jYdnVq26h5QQxYzG0GEf6QMpRRJH+Gy0tbckwkUOx9T57uApQ9oFU+AnwIvEdiEJLZE/3i4s/kunKmO58tI0brpKX6mvtg82Ltow2oDDYQUO4VH5rYAJ/TC3qgo1eG0PcoXUcHg1at2+sABR+pXY4qpvcsFZI/eBoPgDWZJTyMtfsKsCJJWZMMDPFs+rlIFGZDVvCJd7D4+TSKv+5p8pJvNstsmBM4R010VxURBpj09VV1Adi2cOKvJgUMskXazoOV7x/KFIyn+tGETq6Q+jwER3KEjHRY728OUG8HbdtoD8ycI4=;6ht5VgtQEUcaPa1+UNGVuA=="
 ---
 

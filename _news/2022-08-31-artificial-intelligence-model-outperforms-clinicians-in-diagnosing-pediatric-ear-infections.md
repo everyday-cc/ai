@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Artificial intelligence model outperforms clinicians in diagnosing pediatric ear infections"
-excerpt: "An artificial-intelligence model built at Mass Eye and Ear was shown to be significantly more accurate than doctors at diagnosing pediatric ear infections in the first head-to-head evaluation of its kind."
-publishedDateTime: 2022-08-31T12:02:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/963336"
-webUrl: "https://www.eurekalert.org/news-releases/963336"
+excerpt: "An artificial-intelligence (AI) model built at Mass Eye and Ear was shown to be significantly more accurate than doctors at diagnosing pediatric ear infections in the first head-to-head evaluation of its kind,"
+publishedDateTime: 2022-08-31T16:30:00Z
+originalUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-outperforms-clinicians-pediatric.html"
+webUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-outperforms-clinicians-pediatric.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-outperforms-clinicians-pediatric.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-artificial-intelligence-outperforms-clinicians-pediatric.amp"
 type: article
-quality: 27
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a4c0f958-76a6-48a5-9765-166256f6814c/Rendition/thumbnail/Content/Public"
-    width: 252
-    height: 300
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-62.jpg"
+    width: 359
+    height: 428
     isCached: true
 
 related:
@@ -41,6 +43,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "QsaWx0Llh6GC1QY8l2gOtVTuhlzd+wuO1IZMqaEEh2IQWA0yNAQpxNZdvrnRzPZ9S5VumBH8Bs7HqNS30ub2aIYNOjPRe1SR6Q253LjsEZPvpBbJe15sr+3FWQ7m08y+s9cXRsmlT3esNN382WRKJ6mhHgjwC51s71Yx+Ey+S630NEML/WN5UP1X4mPZhQCgJ8OyHOnwh0zwK60n5tmC2Ps2hCCVTlO2C92Qrv638Aq56QC5BpkkzyuS7eC/VJ12bNOxHtVScPVXl44IvA5oAW8d3PFgbNlMA3Z//oZOLfYzIxhhwofSvpfZWauLYTbGSPylpfAZj6kUm2IeZpK8k7vzDd5R5j1kk8oFYX92dwg=;RYQRJgqFMhdMqJn9LGYqqg=="
+secured: "gxlFvT2GWAfPvxAZuXMwiAfy4qCUEJPuy3FHlEgZOkhjtp4sCRnxPC1bc4GX/Jq991hlBgkBPNipij5uug1HeKyReydQ2SgJ6QUzxOWjd9PRtu0HaF5M+qapIyW4CAGFGdMqrYTmm7BaRnBPcJelzkT4G5E79zyHEwXUMoXKf3NONbpJ7g9+C3trYtKtvHhNfbLOPvcPY/0gvz/abLaMBrNByEZ6kQupas3/MwQ3GBUfFE1MDy+F3b9fJjre0Rn9eN7iZgyCiSEjEKpG7ceQ0SzdYA15E/YG9nyMIKHrcohKwkhOC8f7P9Q+1Hd1E38ZEMIDsyIA9ONgzyrA+W0Y0H5XjwmFG8tQpAxSk1xibwM=;0QUtvD2RemyHFZbbQN64CA=="
 ---
 

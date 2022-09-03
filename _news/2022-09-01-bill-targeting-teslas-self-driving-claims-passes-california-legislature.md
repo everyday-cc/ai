@@ -1,0 +1,79 @@
+---
+category: news
+title: "Bill targeting Tesla's 'self-driving' claims passes California Legislature"
+excerpt: "Tired of waiting for the DMV to act on what they see as a serious matter of public safety, California lawmakers took the matter into their own hands."
+publishedDateTime: 2022-08-31T20:28:00Z
+originalUrl: "https://www.aol.com/news/bill-targeting-teslas-self-driving-172843729.html"
+webUrl: "https://www.aol.com/news/bill-targeting-teslas-self-driving-172843729.html"
+type: article
+quality: 52
+heat: 92
+published: true
+
+provider:
+  name: AOL
+  domain: aol.com
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://s.yimg.com/uu/api/res/1.2/A04Icjb83SH.MLctRI1XKg--~B/aD01NjA7dz04NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/aol_la_times_articles_830/95ce4b9bc18a14620ae6317c323faae9"
+    width: 840
+    height: 560
+    isCached: true
+
+related:
+  - title: "California Legislature Passes Law That Would Force Tesla to Change Name of Full Self-Driving"
+    excerpt: "Following a complaint filed by the DMV calling FSD's name misleading, California lawmakers have passed a law that would force Tesla to drop the title."
+    publishedDateTime: 2022-09-02T23:22:00Z
+    webUrl: "https://futurism.com/the-byte/california-legislature-law-full-self-driving"
+    ampWebUrl: "https://futurism.com/california-legislature-law-full-self-driving?amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/california-legislature-law-full-self-driving?amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 48
+    images:
+      - url: "https://wp-assets.futurism.com/2022/09/california-legislature-law-full-self-driving-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Legislature Poised to Authorize 'Voice Writers' in California Courtrooms"
+    excerpt: "Commonly used in other state courts, voice writers record proceedings by repeating verbatim what speakers say into a device that transcribes speech into written words. New legislation would allow regulators to license voice writers in an effort to expand a shrinking pool of court reporters."
+    publishedDateTime: 2022-08-29T20:06:00Z
+    webUrl: "https://www.law.com/therecorder/2022/08/29/legislature-poised-to-authorize-voice-writers-in-california-courtrooms/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 23
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/403/2018/02/Sacramento-State-Capitol-Article-201802140225.jpg"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "California Passes Bill Targeting Tesla’s Full Self-Driving Program"
+    excerpt: "A bill targeting Tesla's (NASDAQ: TSLA) depiction of its “Full Self-Driving” (FSD) program passed the California state Senate on Tuesday night and now heads to Gov. Gavin Newsom for his signature. The electric vehicle leader has been marketing its FSD option since 2016."
+    publishedDateTime: 2022-08-31T18:56:00Z
+    webUrl: "https://ca.investing.com/news/stock-market-news/california-passes-bill-targeting-teslas-full-selfdriving-program-432SI-2760776"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 19
+  - title: "California Targets Tesla ‘Full Self-Driving’ With Newly Passed Bill"
+    excerpt: "A newly passed bill looks to hold automakers accountable for how they name and market partially-automated driving features."
+    publishedDateTime: 2022-09-01T19:27:00Z
+    webUrl: "https://www.thedrive.com/news/california-targets-tesla-full-self-driving-with-newly-passed-bill"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 19
+
+secured: "/obPSAQa1sC4jh1qDQC14qaMn9mqQeGr6RRceRaI0THIzi/+J8V52Bg0WITMaCaGpzFY2hyD2oqpGX7hS1l9c18oCQXJ2/7x3/KQi7ksSQw/AdgMN1XHXXVL3HkHbs60g3ZfMfYO6EWUvHmVz0PNplzyKhbx5jWqhZvPgUFG/2uxrTFRx5MKJF47cHCRIJh846npwuYcjQrVg7JJgR8RfhMewb4Z01VuO1wJ9ujjlHbLw4PQYFAODuI0LYYElc0CmU62GGNvPcsRLz73P7Lmb/o1atdKe8JcWUqmvSiv0ivXZ0/v/KcysxsJksZME5EKdzKnn8vyVcS8JFdrY8lIlZKjrVd5NMjHIYmUAc39kn0=;Ve3aX0k/ZQcDc66+z0MBdA=="
+---
+

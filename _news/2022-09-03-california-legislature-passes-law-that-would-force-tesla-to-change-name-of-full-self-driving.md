@@ -9,7 +9,7 @@ ampWebUrl: "https://futurism.com/california-legislature-law-full-self-driving?am
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/california-legislature-law-full-self-driving?amp"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Bill targeting Tesla's 'self-driving' claims passes California Legislature"
+    excerpt: "Tired of waiting for the DMV to act on what they see as a serious matter of public safety, California lawmakers took the matter into their own hands."
+    publishedDateTime: 2022-08-31T20:28:00Z
+    webUrl: "https://www.aol.com/news/bill-targeting-teslas-self-driving-172843729.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 52
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/A04Icjb83SH.MLctRI1XKg--~B/aD01NjA7dz04NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/aol_la_times_articles_830/95ce4b9bc18a14620ae6317c323faae9"
+        width: 840
+        height: 560
+        isCached: true
   - title: "Legislature Poised to Authorize 'Voice Writers' in California Courtrooms"
     excerpt: "Commonly used in other state courts, voice writers record proceedings by repeating verbatim what speakers say into a device that transcribes speech into written words. New legislation would allow regulators to license voice writers in an effort to expand a shrinking pool of court reporters."
     publishedDateTime: 2022-08-29T20:06:00Z
@@ -59,15 +73,6 @@ related:
       name: The Drive
       domain: thedrive.com
     quality: 19
-  - title: "How Are Teachers Trained To Help Students With Dyslexia? Many California Educators Want Change"
-    excerpt: "A growing number of teacher-educators are getting on board with the idea that the best way to teach dyslexic students is also the best way to teach all students."
-    publishedDateTime: 2022-08-31T13:00:00Z
-    webUrl: "https://laist.com/news/education/dyslexia-california-teacher-preparation-training-structured-literacy"
-    type: article
-    provider:
-      name: LAist
-      domain: laist.com
-    quality: 7
 
 secured: "AzlJDIa+Qb3MBs2XYWUNLl5B+6HzSOAI5+fkA7Hq8EkCS7gAyMfh1l0t+AjZlzzzXEIf4iZiptzhQJOhaqFvsqYl9YfSD4Qrt7QS8bDx8VFYdWarmbHas/vYrYSIpN2Wmhu2Dg8uOFeCGWWgEAeuoPTA4fdGRB7hw4mtXqb3xL6rK8is2tNeh0HvHf22vZiRMxF0qIq+4XW2ef5RtsFLkuLUCjvjeExc6UlzqafttU7xOsaQGnHh7KcPYOEaJRr7g/yK0zPva+qKKpUf557ITpo+nywqRGsJTV/6OjhyQ7pIepXakAlJq+DAUovzgcDaz+0vdPPlD8+iu9lrw1RvbG/e0TNko3m2f684PtudhsU=;nrvHO7KjCFstzyd1amy64w=="
 ---
