@@ -2,6 +2,259 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2022-06-22-artificial-intelligence-technology-can-secure-sites-by-scanning-major-venues-for-weapons.md",
+      "title": "Artificial intelligence technology can secure sites by scanning major venues for weapons",
+      "excerpt": "Artificial intelligence, or AI, is being used to help secure sites from sports arenas to churches and schools. The technology is being used to scan for weapons, including guns, knives and explosives as people walk between standing panels. If a weapon is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/artificial-intelligence-technology-secure-sites-major-venues-weapons",
+      "originalUrl": "https://www.foxnews.com/tech/artificial-intelligence-technology-secure-sites-major-venues-weapons",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d262911-3051-4d40-81af-4cb803967068/6b65f27f-d026-4d2f-91f7-2215ce60715e/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/artificial-intelligence-technology-secure-sites-major-venues-weapons.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/artificial-intelligence-technology-secure-sites-major-venues-weapons.amp",
+      "publishedDateTime": "2022-06-21T13:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-this-ukrainian-deep-tech-startup-has-trained-an-ai-to-paint-war-art.md",
+      "title": "This Ukrainian deep tech startup has trained an AI to paint war art",
+      "excerpt": "A Ukrainian deep tech startup is launching a charity NFT project to sell AI-generated artworks with the twin goal of raising money to support people affected by Russia’s war of aggression and also — it hopes — keep attention locked on the conflict as it approaches its fourth",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/21/ukraine-sirens-gallery-nft-ai-war-art/",
+      "originalUrl": "https://techcrunch.com/2022/06/21/ukraine-sirens-gallery-nft-ai-war-art/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/5.1.3.jpg?w=1024",
+          "width": 1024,
+          "height": 568,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/21/ukraine-sirens-gallery-nft-ai-war-art/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/21/ukraine-sirens-gallery-nft-ai-war-art/amp/",
+      "publishedDateTime": "2022-06-21T13:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-the-power-and-pitfalls-of-ai-for-us-intelligence.md",
+      "title": "The Power and Pitfalls of AI for US Intelligence",
+      "excerpt": "From cyber operations to disinformation, artificial intelligence extends the reach of national security threats that can target individuals and whole societies with precision, speed, and scale. As the US competes to stay ahead,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-machine-learning-us-intelligence-community/",
+      "originalUrl": "https://www.wired.com/story/ai-machine-learning-us-intelligence-community/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/62b225d8e0a13316321d22ea/master/pass/Artificial-Intelligence-Communities-Security-GettyImages-1293344881.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-machine-learning-us-intelligence-community/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-machine-learning-us-intelligence-community/amp",
+      "publishedDateTime": "2022-06-21T13:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-accelerate-your-career-with-ml-skills-through-the-aws-machine-learning-engineer-scholarship.md",
+      "title": "Accelerate your career with ML skills through the AWS Machine Learning Engineer Scholarship",
+      "excerpt": "Amazon Web Services and Udacity are partnering to offer free services to educate developers of all skill levels on machine learning (ML) concepts with the AWS Machine Learning Engineer Scholarship program. The program offers free enrollment to the AWS Machine Learning Foundations course and 325 scholarships",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-your-career-with-ml-skills-through-the-aws-machine-learning-engineer-scholarship/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-your-career-with-ml-skills-through-the-aws-machine-learning-engineer-scholarship/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/21/accelerate-your-career.jpg",
+          "width": 1247,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T13:11:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-researchers-release-open-source-photorealistic-simulator-for-autonomous-driving.md",
+      "title": "Researchers release open-source photorealistic simulator for autonomous driving",
+      "excerpt": "Hyper-realistic virtual worlds have been heralded as the best driving schools for autonomous vehicles (AVs), since they've proven fruitful test beds for safely trying out dangerous driving scenarios.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-06-open-source-photorealistic-simulator-autonomous.html",
+      "originalUrl": "https://techxplore.com/news/2022-06-open-source-photorealistic-simulator-autonomous.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/researchers-release-op.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-06-open-source-photorealistic-simulator-autonomous.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-open-source-photorealistic-simulator-autonomous.amp",
+      "publishedDateTime": "2022-06-21T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-artificial-intelligence-ai-chipset-market-size-worldwide-opportunities-driving-forces-future-potential-2028.md",
       "title": "Artificial Intelligence (AI) Chipset Market Size, Worldwide Opportunities, Driving Forces, Future Potential 2028",
       "excerpt": "Jun 21, 2022 (Market Insight Reports) -- Latest Report Artificial Intelligence (AI) Chipset Market by Type (Deep Learning, Neural networks, Natural language processing, Others), By Application ...",
@@ -936,213 +1189,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-opinion-artificial-intelligence-takes-on-a-new-challenge-chemistry.md",
-      "title": "Opinion: Artificial intelligence takes on a new challenge — chemistry",
-      "excerpt": "Artificial intelligence has changed the way science is done by allowing researchers to analyze the massive amounts of data modern scientific instruments generate. It can find a needle in a million haystacks of information and,",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php",
-      "originalUrl": "https://www.chron.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/26/17/72/22609559/4/rawImage.jpg",
-          "width": 1800,
-          "height": 1203,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-accurate-diagnosis-of-brain-tumors-using-artificial-intelligence.md",
-      "title": "Accurate diagnosis of brain tumors using artificial intelligence",
-      "excerpt": "Artificial intelligence was found to be superior in the areas of accuracy, precision and misclassification, among others, while professionals performed better in sensitivity and specificity.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-06-accurate-diagnosis-brain-tumors-artificial.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-06-accurate-diagnosis-brain-tumors-artificial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/accurate-diagnosis-of.jpg",
-          "width": 2880,
-          "height": 1347,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-06-accurate-diagnosis-brain-tumors-artificial.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-accurate-diagnosis-brain-tumors-artificial.amp",
-      "publishedDateTime": "2022-06-21T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-sea-machines-debuts-ai-ris-computer-vision-for-commercial-vessels.md",
-      "title": "Sea Machines Debuts AI-ris Computer Vision for Commercial Vessels",
-      "excerpt": "Marine perception sensor aims to provide high-def situational awareness to eliminate at-sea collisions and allisionsSea",
-      "sourceUrl": null,
-      "webUrl": "https://www.marinetechnologynews.com/news/machines-debuts-computer-vision-620557",
-      "originalUrl": "https://www.marinetechnologynews.com/news/machines-debuts-computer-vision-620557",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.marinetechnologynews.com/images/maritime/w800/image-courtesy-machines-133099.jpg",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "marinetechnologynews.com",
-        "domain": "marinetechnologynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-slimai-introduces-beta-software-supply-chain-container-security-as-a-service.md",
-      "title": "Slim.AI introduces beta software supply chain container security as a service",
-      "excerpt": "Want to make sure your code is safe? Slim.AI helps you secure your containerized programs with its \"Four S Approach\" -- Software Bill of Materials (SBOM), signing, slimming, and sharing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/slim-ai-introduces-beta-software-supply-chain-container-security-as-a-service/",
-      "originalUrl": "https://www.zdnet.com/article/slim-ai-introduces-beta-software-supply-chain-container-security-as-a-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-what-if-an-artificial-intelligence-program-actually-becomes-sentient.md",
-      "title": "What if an Artificial Intelligence program actually becomes sentient?",
-      "excerpt": "If an AI program became sentient, would the law apply to AI just as it does to humans? NPR's A Martinez asks law professor Ifeoma Ajunwa to imagine the legal implications for sentient AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.capeandislands.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient",
-      "originalUrl": "https://www.capeandislands.org/2022-06-21/what-if-an-artificial-intelligence-program-actually-becomes-sentient",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cape and Islands NPR",
-        "domain": "capeandislands.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

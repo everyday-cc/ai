@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-03-can-we-use-maths-to-beat-the-robots.md",
+      "title": "Can we use maths to beat the robots?",
+      "excerpt": "However it’ll require changes in how we think about and teach maths and we may still have to leave the simple adding up to the computers. Junaid Mubeen, author of Mathematical Intelligence, tells Tim Harford what it’ll take to stay ahead of the machines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/programmes/p0cy2fnr",
+      "originalUrl": "https://www.bbc.co.uk/programmes/p0cy2fnr",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/images/ic/1200x675/p0cy2fwx.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-02T22:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-03-these-cute-robots-could-deliver-your-next-coffee.md",
+      "title": "These cute robots could deliver your next coffee",
+      "excerpt": "Hong Kong startup Rice Robotics' delivery bot Rice is designed to assist in settings like cafes and hotels. It's already serving up drinks around the city -- and the company hopes it will help to bring about a robot revolution in the hospitality sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/travel/article/rice-robotics-hong-kong-hospitality-hnk-spc-intl/index.html",
+      "originalUrl": "https://www.cnn.com/travel/article/rice-robotics-hong-kong-hospitality-hnk-spc-intl/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dynaimage.cdn.cnn.com/cnn/w_1200/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F220901160252-01-hospitality-service-robots-super-tease.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnn.com/travel/amp/rice-robotics-hong-kong-hospitality-hnk-spc-intl/index.html",
+      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/travel/amp/rice-robotics-hong-kong-hospitality-hnk-spc-intl/index.html",
+      "publishedDateTime": "2022-09-02T22:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-03-southwestern-pa-awarded-63m-to-boost-robotics-and-ai-industries-in-region.md",
       "title": "Southwestern Pa. awarded $63M to boost robotics and AI industries in region",
       "excerpt": "Southwestern Pennsylvania has secured a $62.7 million federal grant that local officials hope will boost the region’s robotics and artificial intelligence industries and allow small businesses to take advantage of that growth.",
@@ -1301,83 +1397,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-uk-controlled-robot-ship-surveys-pacific-ocean-volcano.md",
-      "title": "UK-controlled robot ship surveys Pacific Ocean volcano",
-      "excerpt": "STORY: This robotic boat is gathering data on an underwater ... So we can actually hand over the control the vessel from this office to anywhere else in the world to control that vessel, which ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/uk-controlled-robot-ship-surveys-223917368.html",
-      "originalUrl": "https://www.aol.com/news/uk-controlled-robot-ship-surveys-223917368.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/Te1aUOdi2bR3iSWL67UfeA--~B/aD01NDA7dz05NjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/video.reutersnews.com/1de53623ef7800652c9baa31b6a9fd65",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T16:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-robots-could-help-reduce-chemical-use-in-farming.md",
-      "title": "Robots could help reduce chemical use in farming",
-      "excerpt": "A robotics manufacturer is looking at the possibility of developing machines that will remove weeds and tend farmland without the need for so many chemicals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kztv10.com/news/national/robots-could-help-reduce-chemical-use-in-farming",
-      "originalUrl": "https://www.kztv10.com/news/national/robots-could-help-reduce-chemical-use-in-farming",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Action 10 News",
-        "domain": "kztv10.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

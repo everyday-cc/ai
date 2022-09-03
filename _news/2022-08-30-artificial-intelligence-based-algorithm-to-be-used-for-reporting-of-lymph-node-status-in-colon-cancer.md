@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial intelligence-based algorithm to be used for reporting of lymph node status in colon cancer"
-excerpt: "A collaboration between Indica Labs and iCAIRD is looking at the development of an AI-based digital tool to detect cancer within lymph nodes."
-publishedDateTime: 2022-08-30T14:34:00Z
-originalUrl: "https://www.labiotech.eu/trends-news/indica-labs-partners-with-icaird-on-ai-based-digital-pathology-solution/"
-webUrl: "https://www.labiotech.eu/trends-news/indica-labs-partners-with-icaird-on-ai-based-digital-pathology-solution/"
+excerpt: "A collaboration is looking at the development of an AI-based digital pathology solution to detect cancer from colorectal surgery cases."
+publishedDateTime: 2022-08-30T11:06:00Z
+originalUrl: "https://www.labiotech.eu/trends-news/collaboration-looks-development-ai-based-digital-pathology-solution-detect-cancer-colorectal-surgery-cases/"
+webUrl: "https://www.labiotech.eu/trends-news/collaboration-looks-development-ai-based-digital-pathology-solution-detect-cancer-colorectal-surgery-cases/"
 type: article
 quality: 24
 heat: 24
@@ -35,6 +35,6 @@ related:
       domain: 360dx.com
     quality: 17
 
-secured: "fxrqyOJRNelJyreOpF+V20jHxGuLsWwrwUWFJ8P1Qp+hEC8wfn8edO15VceEwlsTkX5FUfjW9H7+QXn4xR1X59XGJNUxrOdAa962VT0kSoSimykTm9LjzAgEkn41129Ss4ez+Ruq3MuRkkQYURuvb4mP088ChD5O0wVLmNs5XKUr1PuYCdehfNO+SrIngk/MgY4/tJ10+535CAGnuN4Ja45xDKyd/nplxlmkq8iznkfbIX5OXUWLaoc6TGKCap3HA+hMOYGWfzoJeMrq6l9Ymc11drhWEk2/J/Mabqel32CvRLzOELuzIVCvkVg/VpqsPq3nRYaYGZsFdn4k6dHeRJYkGEnEJXZELsZzsbIahoU=;xcbnbsVNy/d+i3E8mNf56w=="
+secured: "2EMjEPG0UexcvgQiVUcM5j9HnPMSaJ0kZls/qZqmyhycXHEQjlNQQOobjz48+Uvq3zbDQuQnHOP1ANe/6wm5BVrp9HTq947A4S6YiNprQYjt7qlrXTUsQjB1kuvzH4SnSrBLWi/R9Yen1Q0Uq+JL+KoXKgoat8MMj19sfmeWcQbpZHJT9WSbBo/7Gbq9iNMaBudKHRoIGx53ScfRItNTZWAUem5ztW7KlQRr3GTcDoJQPanzmzMEKFHDJaKM+6QIRcOT5NxzN3kyRtw0Y9YGESPI/3ikj0ZE62tGbMIpZMjhHbg5aonDWHWhdBTNee5c2rYQV8l4vPd14sPOusaNEOGX5IqBPKgozWk7lN0EYzU=;6ihi94HftliAU3xS32z1kw=="
 ---
 

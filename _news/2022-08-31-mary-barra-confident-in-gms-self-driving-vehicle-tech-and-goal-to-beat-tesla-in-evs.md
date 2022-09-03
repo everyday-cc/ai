@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/08/30/mary-barra-gm-self-driving-tech-beat-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/30/mary-barra-gm-self-driving-tech-beat-tesla-evs/amp/"
 type: article
 quality: 82
-heat: 162
+heat: 142
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/b0d6788/2147483647/strip/true/crop/1170x610+0+85/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Faf%2F77%2Ffd83a96ca726f6eeeac47c572fba%2Fsacramento-dkidd.jpg"
         width: 840
         height: 438
-        isCached: true
-  - title: "Tesla aims for self-driving vehicle approval by end of the year"
-    excerpt: "A new Tesla ( TSLA) full self-driving beta is going out to 1K people this week, with potentially 10K people being added to the beta if no major issues are seen. In regard to safety, the electric vehicle maker is utilizing a five-strike system focused on ensuring that FSD Beta testers are paying attention as they test the software."
-    publishedDateTime: 2022-08-29T11:17:00Z
-    webUrl: "https://seekingalpha.com/news/3877348-tesla-aims-for-self-driving-vehicle-approval-by-end-of-the-year"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 54
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/187005526/image_187005526.jpg?io=getty-c-w750"
-        width: 750
-        height: 500
         isCached: true
   - title: "Elon Musk aims to release full self-driving Tesla cars by end of year"
     excerpt: "While speaking at the ONS 2022 energy conference, Tesla CEO Elon Musk commented on the company's full self-driving vehicle technology."
@@ -118,15 +104,6 @@ related:
       name: New York Post
       domain: nypost.com
     quality: 34
-  - title: "Musk focuses on getting Tesla's self-driving tech in wide release by year-end"
-    excerpt: "Elon Musk hopes Tesla’s self-driving technology could be in wide release in the U.S. by the end of the year, and possibly also in Europe, depending on regulatory approval."
-    publishedDateTime: 2022-08-29T12:29:00Z
-    webUrl: "https://europe.autonews.com/automakers/musk-focuses-getting-teslas-self-driving-tech-wide-release-year-end"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 16
 
 secured: "wPWLurqh0vjvAFN3F2sw91a70YeAmNQ+ve+/O2UopIu4DNbY1CUYEyI9D2EN/Mh7DIrQnjZBqTJHU9NgxFl1HjFEZh/g3ySg7e9xjVMpTMiL3WqgNaSroA8K1txjBpKrjfaza2dEcBHZ7eJ1IR2iPJu65NZl7rpv+GedifktVC9RNGkCJ7rVVk7C0zqla+re6Zx+22uwW9KZaXUQmC6/P/IFj1f8m0HekE0X7ghAg/MkvfKLLmoPhIBnWqPoDGhZSkQLwbbyk/Pdxsk5j0me6DpbaYbs6e0HBef7BRbtKK7Rq1PSmDm8VvzhsqvzGguduSTtReZjs7uxlun2rD/T1T51bhIcovFdEVQvyIumlOmVkW+lVO+9COSllXNLvuZ5q4fL2ERAVySDuXe/nGPtlfNzSXJjLLnDic7uVum4RodMLXmg3VNA/3XfpAlVLCiNp4KvSsl5eBy2rrECCQCrIVVUzSQFg7FEUVVRsTO7o8aCNLNoMLCIvJfeV2EUoxWvD8D3lNCl8PM8UAfQEEv0GA==;bucRJKyUhD3E2u4X484y4Q=="
 ---

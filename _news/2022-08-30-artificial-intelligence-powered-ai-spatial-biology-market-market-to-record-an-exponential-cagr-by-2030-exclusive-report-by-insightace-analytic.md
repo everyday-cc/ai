@@ -28,22 +28,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Global AI In Biopharmaceutical Development Market Worth $ 16.4 Billion By 2030-Report By Insightace Analytic"
-    excerpt: "Global AI in the Biopharmaceutical Development market is valued US$ 452.33 Million in 2021, and it is expected to reach US$ 16.4 Billion by 2030, CAGR of 49.3% Major market players operating in AI in the biopharmaceutical Development market include IBM Watson Health,"
-    publishedDateTime: 2022-08-29T11:02:00Z
-    webUrl: "https://menafn.com/1104773930/Global-AI-In-Biopharmaceutical-Development-Market-Worth-164-Billion-By-2030-Report-By-Insightace-Analytic"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 20
-    images:
-      - url: "https://menafn.com/updates/pr/2022-08/29/EP_9336bimage_story.jpeg"
-        width: 600
-        height: 314
-        isCached: true
-
 secured: "jbH/J0uuuuwKDe1gyo4a677XR+fgQNexCXPu8dQ+Rmoy0G6CVIn0O4xubXuKEbkSUehD8T1iGH5SPSqtrv9ujQ69UmZaP/zOiIgrVVrtPUxTbrvrqlmPbGFyIab8z0cM7hTjuUTv3Xt4qcje3l80zMo5hB4bUvWVugcfr7e4iznDdmlMoaxbkElDdlBKowwC/+1ED27VTMOkutZm6O1gJ128u/mKSsrDEjnh6ySJNM4LaBBnKFVxk3ju57jZuj6bHxswXgmoiSnZ7lWQ7aFDkMiRnytHpXgpctYUhPSitNwbi0Vmr3uD/7uCE4yJ6jrHvcVNJlyHuGfrmIDYlnlPhZE3Fwv5MCdkpRGEresw0xY=;ZOPn6xTg7eLoxeYQ72vHFg=="
 ---
 

@@ -33,36 +33,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Focused on getting self-driving Teslas in wide release by year-end: Musk"
-    excerpt: "Speaking at an energy conference in Norway, Tesla CEO said his attention was currently focused on his SpaceX Starship spacecraft and self-driving Tesla electric cars"
-    publishedDateTime: 2022-08-29T11:49:00Z
-    webUrl: "https://www.business-standard.com/article/international/focused-on-getting-self-driving-teslas-in-wide-release-by-year-end-musk-122082900808_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/international/focused-on-getting-self-driving-teslas-in-wide-release-by-year-end-musk-122082900808_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/focused-on-getting-self-driving-teslas-in-wide-release-by-year-end-musk-122082900808_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 58
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-04/15/full/1649988141-9693.jpg"
-        width: 620
-        height: 464
-        isCached: true
-  - title: "Elon Musk aims to have self-driving Teslas ready by year-end"
-    excerpt: "Tesla’s self-driving technology could be in wide release in the U.S. by the end of the year, and possibly also in Europe, depending on regulatory approval."
-    publishedDateTime: 2022-08-29T12:29:00Z
-    webUrl: "https://europe.autonews.com/automakers/elon-musk-aims-have-self-driving-teslas-ready-year-end"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 54
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/Tesla%20self%20drive%20rtrs%20web_3.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Musk aiming for widespread release of self-driving Teslas by end of year"
     excerpt: "Elon Musk says that he aims to get Tesla's self-driving technology ready for wide release in the US, and possibly Europe, by the end of the year. Nasa has postponed for at least four days the launch of its colossal next-generation rocket, Artemis I ..."
     publishedDateTime: 2022-08-29T15:34:00Z
@@ -90,20 +60,6 @@ related:
       - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/018/2022-08-29T114020Z_2_LYNXMPEI7S0AM_RTROPTP_4_NORWAY-ENERGY.JPG"
         width: 1200
         height: 799
-        isCached: true
-  - title: "Musk focused on getting self-driving Teslas in wide release by year-end"
-    excerpt: "Tesla chief Elon Musk said today he aimed to get the electric automaker's self-driving technology ready by the end of the year. He also said it hopes it could be in wide release in the US and possibly in Europe, depending on regulatory approval. Speaking ..."
-    publishedDateTime: 2022-08-29T11:55:00Z
-    webUrl: "https://www.rte.ie/news/business/2022/0829/1319400-musk-on-self-drive-cars-energy/"
-    type: article
-    provider:
-      name: RTE Online
-      domain: www.rte.ie
-    quality: 39
-    images:
-      - url: "https://img.rasset.ie/001c5de0-1600.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Elon Musk Says Full Self-Driving Will Be ‘Self-Driving’ This Year, Maybe"
     excerpt: "Elon Musk is sure that this is the year Tesla’s Full Self-Driving system finally learns to self-drive, Honda is investing $4.5 billion in a U.S. battery plant, and France will offer EV leasing for as little as $100 a month."
@@ -143,15 +99,6 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 19
-  - title: "Elon Musk says he's focused on wide release of self-driving Teslas by year-end"
-    excerpt: "\"The two technologies I am focused on, trying to ideally get done before the end of the year, are getting our Starship into orbit ... and then having Tesla cars to be able to do self-driving.\""
-    publishedDateTime: 2022-08-29T12:28:00Z
-    webUrl: "https://www.autoblog.com/2022/08/29/tesla-self-driving-end-of-2022-elon-musk/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 15
   - title: "Skoda Vision 7S Concept, VW Tavendor For China, And Musk Wants Self-Driving Teslas By End Of Year: Your Morning Brief"
     excerpt: "Skoda offers a glimpse of its upcoming flagship SUV with the Vision 7S Concept. With three rows of seats and an electric drivetrain, the production version of the Vision 7S concept will replace the Kodiaq,"
     publishedDateTime: 2022-08-31T12:35:00Z

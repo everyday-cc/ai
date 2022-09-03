@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-06-23-gms-cruise-starts-charging-fares-for-driverless-rides-in-san-francisco.md",
+      "title": "GM's Cruise starts charging fares for driverless rides in San Francisco",
+      "excerpt": "June 23 (Reuters) - General Motors Co's (GM.N) Cruise has started charging fares for driverless rides in San Francisco, the company said on Thursday, a step towards commercialization of the service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/gms-cruise-starts-charging-fares-driverless-rides-san-francisco-2022-06-23/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/gms-cruise-starts-charging-fares-driverless-rides-san-francisco-2022-06-23/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/MOAR8CRw1cjC3hfAaS31AxUss7c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6CPCJS5RENKQFCLZ7ABT3Q2FHU.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-23-cruise-ceo-on-launching-driverless-taxi-service-in-san-fransisco.md",
       "title": "Cruise CEO on launching driverless taxi service in San Fransisco",
       "excerpt": "Cruise CEO Kyle Vogt joins CNBC's 'Squawk Box' to discuss the prospect of the driverless ridesharing industry after General Motors' majority-owned autonomous vehicle unit launched its service for ...",
@@ -1291,40 +1343,6 @@
       "provider": {
         "name": "Information Age",
         "domain": "information-age.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-serial-entrepreneur-anoop-ambika-is-new-ceo-of-kerala-startup-mission.md",
-      "title": "Serial entrepreneur Anoop Ambika is new CEO of Kerala Startup Mission",
-      "excerpt": "Artificial Intelligence, and Machine Learning, Life Sciences, ideation, and entrepreneurship. The Government issued the notification appointing Anoop in the position for a period of three years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ciol.com/serial-entrepreneur-anoop-ambika-new-ceo-kerala-startup-mission/",
-      "originalUrl": "https://www.ciol.com/serial-entrepreneur-anoop-ambika-new-ceo-kerala-startup-mission/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ciol.com/serial-entrepreneur-anoop-ambika-new-ceo-kerala-startup-mission/amp/",
-      "cdnAmpWebUrl": "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/serial-entrepreneur-anoop-ambika-new-ceo-kerala-startup-mission/amp/",
-      "publishedDateTime": "2022-06-19T23:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIOL",
-        "domain": "ciol.com",
         "images": null,
         "publishers": null,
         "authors": null

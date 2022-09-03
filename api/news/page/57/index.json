@@ -2,6 +2,258 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2022-07-18-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook.md",
+      "title": "UK Publishes Proposal For Artificial Intelligence (AI) Rulebook",
+      "excerpt": "The UK government has issued a proposal to provide guidance to fast-growing artificial intelligence (AI) technology. The proposal will impact financial",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook/",
+      "originalUrl": "https://www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/AI-Face-Digital-ID-Artificial-Intelligence.jpg",
+          "width": 1080,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook/amp/",
+      "publishedDateTime": "2022-07-18T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-18-building-a-business-case-for-zero-trust-multicloud-security.md",
+      "title": "Building a business case for zero-trust, multicloud security",
+      "excerpt": "Building a business case for securing multicloud configurations needs to surpass the costs and benefits, while recognizing that public clouds lack advanced zero-trust features and unified reporting.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/18/building-a-business-case-for-zero-trust-multicloud-security/",
+      "originalUrl": "https://venturebeat.com/2022/07/18/building-a-business-case-for-zero-trust-multicloud-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/zero-trust.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/18/building-a-business-case-for-zero-trust-multicloud-security/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/18/building-a-business-case-for-zero-trust-multicloud-security/amp/",
+      "publishedDateTime": "2022-07-18T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-07-18-microsoft-launches-simulator-to-train-drone-ai-systems.md",
+      "title": "Microsoft launches simulator to train drone AI systems",
+      "excerpt": "Microsoft has launched a platform to train the artificial intelligence (AI) systems of autonomous aircraft. Project AirSim is, in effect, a flight simulator for drones, which companies can use to train and develop software controlling them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-62202118",
+      "originalUrl": "https://www.bbc.com/news/technology-62202118",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/AB45/production/_125954834_airtonomy.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/technology-62202118.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62202118.amp",
+      "publishedDateTime": "2022-07-18T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-18-intrinsic-ceo-wendy-tan-white-discusses-robotics-software-and-acquiring-vicarious.md",
+      "title": "Intrinsic CEO Wendy Tan White discusses robotics software and acquiring Vicarious",
+      "excerpt": "There’s a parallel I’m seeing now in the robotics space,” she tells TechCrunch. “People need much quicker ways to get applications spun up and deployed fast, but also more reusable.” Almost exactly a year ago to date,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/18/wendy-tan-white-intrinsic-interview/",
+      "originalUrl": "https://techcrunch.com/2022/07/18/wendy-tan-white-intrinsic-interview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/1_ctE__hKyugfxRaoXUQpqmQ.gif",
+          "width": 768,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/18/wendy-tan-white-intrinsic-interview/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/18/wendy-tan-white-intrinsic-interview/amp/",
+      "publishedDateTime": "2022-07-18T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-18-riot-games-and-aws-are-teaming-up-to-deliver-fresh-esports-content.md",
+      "title": "Riot Games and AWS are teaming up to deliver fresh esports content",
+      "excerpt": "Riot Games is teaming up with Amazon Web Services to bring all new data analytics and experiences to esports fans around the world.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/18/riot-games-and-aws-are-teaming-up-to-deliver-fresh-esports-content/",
+      "originalUrl": "https://venturebeat.com/2022/07/18/riot-games-and-aws-are-teaming-up-to-deliver-fresh-esports-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/Riot_AWS-1.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/18/riot-games-and-aws-are-teaming-up-to-deliver-fresh-esports-content/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/18/riot-games-and-aws-are-teaming-up-to-deliver-fresh-esports-content/amp/",
+      "publishedDateTime": "2022-07-18T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-github-copilot-can-this-ai-programmer-really-improve-developer-productivity.md",
       "title": "GitHub Copilot: Can this 'AI programmer' really improve developer productivity?",
       "excerpt": "GitHub knows Copilot's code suggestions aren't always accurate or fast, but its engineers argue that misses the point.",
@@ -888,222 +1140,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-forget-apple-here-are-2-lesser-known-artificial-intelligence-stocks-to-watch.md",
-      "title": "Forget Apple: Here Are 2 Lesser-Known Artificial Intelligence Stocks to Watch",
-      "excerpt": "All are tech pioneers and Artificial Intelligence (AI) is widely used by all – from the iPhone’s FaceID and Google’s search algorithms on to Amazon’s cloud computing solutions which are used by millions across the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/forget-apple%3A-here-are-2-lesser-known-artificial-intelligence-stocks-to-watch",
-      "originalUrl": "https://www.nasdaq.com/articles/forget-apple%3A-here-are-2-lesser-known-artificial-intelligence-stocks-to-watch",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/forget-apple%3A-here-are-2-lesser-known-artificial-intelligence-stocks-to-watch?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/forget-apple%3A-here-are-2-lesser-known-artificial-intelligence-stocks-to-watch?amp",
-      "publishedDateTime": "2022-07-17T17:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-as-ai-language-skills-grow-so-do-scientists-concerns.md",
-      "title": "As AI language skills grow, so do scientists' concerns",
-      "excerpt": "Big Tech company Meta, the parent of Facebook and Instagram ... set their own internal AI safeguards, Liang said what's needed are broader community standards to guide research and decisions ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.stuff.co.nz/technology/digital-living/300639733/as-ai-language-skills-grow-so-do-scientists-concerns",
-      "originalUrl": "https://www.stuff.co.nz/technology/digital-living/300639733/as-ai-language-skills-grow-so-do-scientists-concerns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resources.stuff.co.nz/content/dam/images/4/y/w/h/3/q/image.related.StuffLandscapeSixteenByNine.1420x800.4yzr3p.png/1658101675506.jpg",
-          "width": 1420,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-17T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stuff.co.nz",
-        "domain": "stuff.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-basics-of-the-python-programming-environment.md",
-      "title": "Basics of the Python Programming Environment",
-      "excerpt": "Related: Coders, Software Engineers Find Work with Right Skills One of the appealing aspects of Python is its applications in technologies like AI ... language, not a compiled one. An interpreted language uses an interpreter to translate the instructions ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/design-software/basics-python-programming-environment",
-      "originalUrl": "https://www.designnews.com/design-software/basics-python-programming-environment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/AdobeStock_375072598_1540-800.jpeg",
-          "width": 1540,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-17T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-forsight-sees-a-world-without-cataracts-with-its-surgery-robot.md",
-      "title": "ForSight sees a world without cataracts with its surgery robot",
-      "excerpt": "It leverages cutting-edge technologies (pun intended) in microsurgical robotics, computer vision and machine learning. The platform aims to automate ophthalmic surgeries that treat diseases ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/18/here-comes-the-scalpel/",
-      "originalUrl": "https://techcrunch.com/2022/07/18/here-comes-the-scalpel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/ForSight-Robotics.jpg?w=1024",
-          "width": 1024,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/18/here-comes-the-scalpel/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/18/here-comes-the-scalpel/amp/",
-      "publishedDateTime": "2022-07-17T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-how-ibms-watson-can-help-cut-your-tax-bill.md",
-      "title": "How IBM’s Watson Can Help Cut Your Tax Bill",
-      "excerpt": "H&R Block has “hired” IBM’s Watson--a powerful artificial intelligence system--to act as a cyberguide in preparing taxes. To study for the job, Watson digested the federal tax code (more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kiplinger.com/article/investing/t057-c000-s002-how-ibm-watson-can-help-cut-your-tax-bill.html",
-      "originalUrl": "https://www.kiplinger.com/article/investing/t057-c000-s002-how-ibm-watson-can-help-cut-your-tax-bill.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediacloud.kiplinger.com/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1615837136/kiplinger_placeholder.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kiplinger.com/article/investing/t057-c000-s002-how-ibm-watson-can-help-cut-your-tax-bill.html?amp",
-      "cdnAmpWebUrl": "https://www-kiplinger-com.cdn.ampproject.org/c/s/www.kiplinger.com/article/investing/t057-c000-s002-how-ibm-watson-can-help-cut-your-tax-bill.html?amp",
-      "publishedDateTime": "2022-07-17T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kiplinger",
-        "domain": "kiplinger.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

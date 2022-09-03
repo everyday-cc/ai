@@ -6,7 +6,7 @@ publishedDateTime: 2022-09-03T02:52:00Z
 originalUrl: "https://www.eurekalert.org/news-releases/963724"
 webUrl: "https://www.eurekalert.org/news-releases/963724"
 type: article
-quality: 43
+quality: 45
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/3d9752f1-cb41-4347-88aa-67a57076be04/Rendition/low-res/Content/Public"
@@ -43,6 +44,6 @@ related:
       domain: bangordailynews.com
     quality: 28
 
-secured: "8gikLDqpavw0lj5Vcfw1HOQn2i9NknQmwOl9BuNy5HHbPlQy5oKVyrEZ4itcTDgIdD4CRNBAQQZ8PlWrH3UK+WXfB14wXnR3gFTv+KHtr8sSzRMtXB4HTcp9OnYFGQR1ZsqYH1YHcC7vF8cpurjnSNqV65GhSYUPq59O1DUm3ItgBOCrQXm0Q5l6AeMMUcHwDLJgqGmCjbyR6M3K7EvVrbw/i17r9jomdKFUMgj+4tV3bdojg2+JbBATSNemBe89FtcmRVga6xnYKbcLO5KEzuWtC2Fa3+sro69ckh8fJSv8VV4WbB44sFzZg4oKLfIuilzj4HzPKdOCMtZtlcZWRiZWtGuT6V1bXppUX+HjuZ8=;NA00+oHfonNMWIj2bSDK7w=="
+secured: "qf4EtWFLGEDonX0Joct3XmA71b24+RXcAI/ayk0WXQ/lJrgOoqiiiUEPx09eSP8nNAWGQ19yLoacxM7r073WuPbXzPnin2uCs7FGnZAqluLfLJy4lMYANfCaaP3SczOzRlRTdEePi9HHCZLvdWEJFpP8oc0+0AAhtZOtB0QgExNDigfkpOwvgjLq+bWFAi0vroDUu+cQrcZ0IhvvIwJTHCADVZKhWtW2pBOrzlpA+LxJFzUbMxHCqExM+VSIAsS9SbTxSoYElxrGPzdH7MKG+JOdUqex2VGaXmng27BS0XbUP9sKdBxRha6O9sTh/gDVHC9oqpaXz99x31YOSm6S+/a/vw0sizr1xCFubtf+dvmwrXmoQ7LQDQCyo0rvUEbQsMJoAWKz8eNEVCB8jlabu7ZWi6NMFW/mDTNsiVVaE0ZuiJBuvZitdbHPd8hKara/Qd64NVf9OPLXshta+cGiSEWtcR+JYsx636w5SiwxAMP+fIsfLexM/Sa/IBcCLo6Fe/KpqqVLSyDj+Xnswkq9qQ==;fn8PD252BkTHquIhDr2sRQ=="
 ---
 

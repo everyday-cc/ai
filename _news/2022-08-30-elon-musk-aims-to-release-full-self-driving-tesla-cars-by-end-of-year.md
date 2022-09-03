@@ -57,20 +57,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Tesla aims for self-driving vehicle approval by end of the year"
-    excerpt: "A new Tesla ( TSLA) full self-driving beta is going out to 1K people this week, with potentially 10K people being added to the beta if no major issues are seen. In regard to safety, the electric vehicle maker is utilizing a five-strike system focused on ensuring that FSD Beta testers are paying attention as they test the software."
-    publishedDateTime: 2022-08-29T11:17:00Z
-    webUrl: "https://seekingalpha.com/news/3877348-tesla-aims-for-self-driving-vehicle-approval-by-end-of-the-year"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 54
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/187005526/image_187005526.jpg?io=getty-c-w750"
-        width: 750
-        height: 500
-        isCached: true
   - title: "California Has a Bill to Go After Tesla’s Self-Driving Claims"
     excerpt: "Lawmakers in California are targeting Tesla’s self-driving claims with a new false advertising bill, VW’s next boss says the firm must speed up its switch to electric vehicles, and GM recalls its autonomous Cruise cars."
     publishedDateTime: 2022-09-01T14:43:00Z
@@ -114,15 +100,6 @@ related:
       name: New York Post
       domain: nypost.com
     quality: 34
-  - title: "Musk focuses on getting Tesla's self-driving tech in wide release by year-end"
-    excerpt: "Elon Musk hopes Tesla’s self-driving technology could be in wide release in the U.S. by the end of the year, and possibly also in Europe, depending on regulatory approval."
-    publishedDateTime: 2022-08-29T12:29:00Z
-    webUrl: "https://europe.autonews.com/automakers/musk-focuses-getting-teslas-self-driving-tech-wide-release-year-end"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 16
 
 secured: "ve+xrX05isC4cIfOhIXli5JpAgUuZcdQw0zyz4BLq30dkFe45Mgy6qBAtE6tpzBZWEbOThJEnY7+9Jq1tH7ngjBO6MFPISmBL//wnMLY/9u8xIsgx1ox8D2Cp4woxovl4oP8MFRTcdl2LcVIgBr/X8Yy6OE0ChRiTRgRalsg3bkEV0msv7oVsLgVFrYr0FRJy36IM3c7fvpTiATbjPhb8Os9GN3hhFDP6DnX7Z/PI1LKpeeId9B7OSfzM6UcEdndIclNRE1yOLoAXESy1htkT3sW7rOwFi7j5BwyBRmnvGQyYLWvPWYphcXI1qJCpxrD97GGImZmnSMMBKruW5Em/D0NDO0nK51lLjzr+zSfJ+Y=;N2O2fmOKVo6LDlKi0Ivh2g=="
 ---

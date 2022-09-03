@@ -2,6 +2,92 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-07-27-artificial-skin-sweats-on-command.md",
+      "title": "Artificial skin sweats on command",
+      "excerpt": "I therefore like to start a project with a clear goal in mind ... complement traditional robotics rather than compete with it. With the skin, we found that we could control the topology (mountains ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-07-artificial-skin.html",
+      "originalUrl": "https://phys.org/news/2022-07-artificial-skin.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/artificial-skin-sweats.jpg",
+          "width": 900,
+          "height": 331,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-07-artificial-skin.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-07-artificial-skin.amp",
+      "publishedDateTime": "2022-07-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-learning-method-enables-robots-to-learn-by-watching-humans.md",
+      "title": "Learning Method Enables Robots to Learn by Watching Humans",
+      "excerpt": "A new learning method developed by researchers at Carnegie Mellon University (CMU) enables robots to directly learn from human-interaction videos and generalize the information to new tasks, which helps them learn how to carry out household chores.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/learning-method-enables-robots-to-learn-by-watching-humans/",
+      "originalUrl": "https://www.unite.ai/learning-method-enables-robots-to-learn-by-watching-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:900/h:543/q:mauto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/07/whirl-web.jpg",
+          "width": 900,
+          "height": 543,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-26T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-26-robot-that-learns-social-cues-could-feed-people-with-tetraplegia.md",
       "title": "Robot that learns social cues could feed people with tetraplegia",
       "excerpt": "People who can’t control their legs or arms can use commercial robotic arms to help them eat ... in an aquarium turns out to be new species 5 mind-bending numbers that could reveal the secrets ...",
@@ -1328,102 +1414,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-this-robot-dog-just-taught-itself-to-walk.md",
-      "title": "This robot dog just taught itself to walk",
-      "excerpt": "The robot dog is waving its legs in the air like an exasperated beetle. After 10 minutes of struggling, it manages to roll over to its front. Half an hour in, the robot is taking its first clumsy steps,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/07/18/1056059/robot-dog-ai-reinforcement/",
-      "originalUrl": "https://www.technologyreview.com/2022/07/18/1056059/robot-dog-ai-reinforcement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xAXvfVTgqr0/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/07/18/1056059/robot-dog-ai-reinforcement/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/07/18/1056059/robot-dog-ai-reinforcement/amp/",
-      "publishedDateTime": "2022-07-18T01:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-forsight-sees-a-world-without-cataracts-with-its-surgery-robot.md",
-      "title": "ForSight sees a world without cataracts with its surgery robot",
-      "excerpt": "It leverages cutting-edge technologies (pun intended) in microsurgical robotics, computer vision and machine learning. The platform aims to automate ophthalmic surgeries that treat diseases ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/18/here-comes-the-scalpel/",
-      "originalUrl": "https://techcrunch.com/2022/07/18/here-comes-the-scalpel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/ForSight-Robotics.jpg?w=1024",
-          "width": 1024,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/18/here-comes-the-scalpel/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/18/here-comes-the-scalpel/amp/",
-      "publishedDateTime": "2022-07-17T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

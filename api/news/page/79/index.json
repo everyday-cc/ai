@@ -2,6 +2,230 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2022-06-29-how-ai-can-help-solve-cybersecuritys-predicament.md",
+      "title": "How AI Can Help Solve Cybersecurity’s Predicament",
+      "excerpt": "As thought leaders search for a failsafe cybersecurity standard, they’ve realized that a hard shift away from software and toward a hardware solution is critical.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/how-ai-can-help-solve-cybersecuritys-predicament/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/how-ai-can-help-solve-cybersecuritys-predicament/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62bb116946bce888db123430/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/how-ai-can-help-solve-cybersecuritys-predicament/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/how-ai-can-help-solve-cybersecuritys-predicament/amp/",
+      "publishedDateTime": "2022-06-29T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-global-industrial-robot-market-report-2022-2026-growing-electronics-industry-and-growing-role-of-artificial-intelligence-in-robotics-driving.md",
+      "title": "Global Industrial Robot Market Report 2022-2026: Growing Electronics Industry and Growing Role of Artificial Intelligence in Robotics Driving Sector",
+      "excerpt": "Some of these innovations include underwater robotics, human-robot interaction, legged mobility, machine learning (ML), and self-driving vehicles. More trends in the market are believed to grow ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/06/g27896023/global-industrial-robot-market-report-2022-2026-growing-electronics-industry-and-growing-role-of-a",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/g27896023/global-industrial-robot-market-report-2022-2026-growing-electronics-industry-and-growing-role-of-a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27896023",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27896023",
+      "publishedDateTime": "2022-06-29T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-how-to-make-ai-art-dall-e-mini-ai-dungeon-and-more.md",
+      "title": "How to make AI art: DALL-E mini, AI Dungeon, and more",
+      "excerpt": "AI art encompasses everything from text adventures to AI-generated images produced by DALL-E Mini and Latitude Vantage, as well as text-to-speech apps that will \"speak\" in the voice of your favorite characters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/788422/how-to-get-started-with-ai-art-dall-e-mini-ai-dungeon-and-more.html",
+      "originalUrl": "https://www.pcworld.com/article/788422/how-to-get-started-with-ai-art-dall-e-mini-ai-dungeon-and-more.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://b2c-contenthub.com/wp-content/uploads/2022/06/craiyon_2022-6-21_9-42-40.png?w=981",
+          "width": 980,
+          "height": 1199,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/788422/how-to-get-started-with-ai-art-dall-e-mini-ai-dungeon-and-more.html/amp",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/788422/how-to-get-started-with-ai-art-dall-e-mini-ai-dungeon-and-more.html/amp",
+      "publishedDateTime": "2022-06-29T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-aurora-mobile-brings-jpush-to-amazon-web-services-marketplace.md",
+      "title": "Aurora Mobile Brings JPush to Amazon Web Services Marketplace",
+      "excerpt": "Aurora Mobile Brings JPush to Amazon Web Services Marketplace. SHENZHEN, China, June 29, 2022 (GLOBE NEWSWIRE) -- Aurora Mobile Limited (NASDAQ: JG) (“Aurora Mobile” or the Co",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobilitytechzone.com/lte/news/2022/06/29/9630584.htm",
+      "originalUrl": "https://www.mobilitytechzone.com/lte/news/2022/06/29/9630584.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobility Techzone",
+        "domain": "mobilitytechzone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-the-role-of-ai-and-edge-computing-in-building-the-checkout-free-store.md",
+      "title": "The Role Of AI And Edge Computing In Building The Checkout-Free Store",
+      "excerpt": "The foundation of a seamless, checkout-free shopping experience is a set of sophisticated, compute-intensive AI models that map a customer's journey through a store.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/29/the-role-of-ai-and-edge-computing-in-building-the-checkout-free-store/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/29/the-role-of-ai-and-edge-computing-in-building-the-checkout-free-store/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//6183e5d5ee59e3b06ef1404b/0x0.jpg?format=jpg&width=1200",
+          "width": 1028,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/29/the-role-of-ai-and-edge-computing-in-building-the-checkout-free-store/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/29/the-role-of-ai-and-edge-computing-in-building-the-checkout-free-store/amp/",
+      "publishedDateTime": "2022-06-29T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-cognitive-immobility-when-youre-mentally-trapped-in-a-place-from-your-past.md",
       "title": "‘Cognitive immobility’ – when you’re mentally trapped in a place from your past",
       "excerpt": "This describes what I have dubbed “cognitive immobility”, outlined in my new research article, published in Culture & Psychology. The study used autoethnography, a research method in which the ...",
@@ -846,221 +1070,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-the-uk-wants-to-boost-ai-development-by-removing-data-mining-hurdles.md",
-      "title": "The UK wants to boost AI development by removing data mining hurdles",
-      "excerpt": "These changes make the most of the greater flexibilities following Brexit. They will help make the UK more competitive as a location for firms doing data mining",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/28/the-uk-plans-to-boost-ai-development-by-removing-legal-hurdles-for-data-mining/",
-      "originalUrl": "https://techcrunch.com/2022/06/28/the-uk-plans-to-boost-ai-development-by-removing-legal-hurdles-for-data-mining/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Concept-Illustration-Hurdling-e1656446452746.jpeg?w=1024",
-          "width": 1024,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/28/the-uk-plans-to-boost-ai-development-by-removing-legal-hurdles-for-data-mining/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/28/the-uk-plans-to-boost-ai-development-by-removing-legal-hurdles-for-data-mining/amp/",
-      "publishedDateTime": "2022-06-28T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-cloocus-recognized-as-the-winner-of-the-2022-microsoft-country-partner-of-the-year-for-the-second-consecutive-year.md",
-      "title": "Cloocus recognized as the winner of the 2022 Microsoft Country Partner of the Year for the second consecutive year",
-      "excerpt": "SEOUL, South Korea, June 28, 2022 /PRNewswire/ -- Cloocus, a leading cloud experts group specialized in Microsoft, today announced it has won the Country of the Year 2022 Microsoft Partner of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://fox59.com/business/press-releases/cision/20220628CN02566/cloocus-recognized-as-the-winner-of-the-2022-microsoft-country-partner-of-the-year-for-the-second-consecutive-year/",
-      "originalUrl": "https://fox59.com/business/press-releases/cision/20220628CN02566/cloocus-recognized-as-the-winner-of-the-2022-microsoft-country-partner-of-the-year-for-the-second-consecutive-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1849080/image_1.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T12:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX59 News",
-        "domain": "fox59.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-qa-the-investment-case-for-robotics.md",
-      "title": "Q&A: The Investment Case for Robotics",
-      "excerpt": "As robotics and artificial intelligence advance together, more complex tasks can be automated. There are two key areas where we see the next generation of robotics driving change: logistics and ...",
-      "sourceUrl": null,
-      "webUrl": "https://money.usnews.com/financial-advisors/articles/q-a-the-investment-case-for-robotics",
-      "originalUrl": "https://money.usnews.com/financial-advisors/articles/q-a-the-investment-case-for-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T12:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-create-audio-for-content-in-multiple-languages-with-the-same-tts-voice-persona-in-amazon-polly.md",
-      "title": "Create audio for content in multiple languages with the same TTS voice persona in Amazon Polly",
-      "excerpt": "Amazon Polly is a leading cloud-based service that converts text into lifelike speech. Following the adoption of Neural Text-to-Speech (NTTS), we have continuously expanded our portfolio of available voices in order to provide a wide selection of distinct speakers in supported languages. Today, we are",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-audio-for-content-in-multiple-languages-with-the-same-tts-voice-persona-in-amazon-polly/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-audio-for-content-in-multiple-languages-with-the-same-tts-voice-persona-in-amazon-polly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T12:28:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-gms-approach-innovate-collaboratively-integrate-tech-uniquely.md",
-      "title": "GM’s Approach: Innovate Collaboratively, Integrate Tech Uniquely",
-      "excerpt": "The advancement of artificial intelligence (AI ... Today, we use deep learning and convolutional (visual-based) neural networks in the vision systems that monitor quality in our assembly lines. These trace their roots back to the early 1970s, when ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.industryweek.com/technology-and-iiot/emerging-technologies/article/21245437/gms-approach-innovate-collaboratively-integrate-tech-uniquely",
-      "originalUrl": "https://www.industryweek.com/technology-and-iiot/emerging-technologies/article/21245437/gms-approach-innovate-collaboratively-integrate-tech-uniquely",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T11:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IndustryWeek",
-        "domain": "industryweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

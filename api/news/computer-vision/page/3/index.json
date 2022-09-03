@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-05-first-they-banned-facial-recognition-now-theyre-not-so-sure.md",
+      "title": "First, they banned facial recognition. Now they're not so sure",
+      "excerpt": "Over the past few years, a number of cities and some states enacted rules banning or restricting local police use of facial-recognition software. Now, in a handful of locations around the country ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kake.com/story/47040949/first-they-banned-facial-recognition-now-theyre-not-so-sure",
+      "originalUrl": "https://www.kake.com/story/47040949/first-they-banned-facial-recognition-now-theyre-not-so-sure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-05T05:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KAKE.com",
+        "domain": "kake.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-04-aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-conversational-artificial-intelligence.md",
       "title": "Aragon Research Announces the 2022 Hot Vendors in Computer Vision, Intelligent Contact Centers, and Conversational Artificial Intelligence",
       "excerpt": "Aragon Research Announces the 2022 Hot Vendors in Computer Vision, Intelligent Contact Centers, and Conversational Artificial Intelligence Aug 04,",
@@ -1314,49 +1348,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-why-we-dont-trust-apples-homekit-secure-videoand-you-shouldnt-either.md",
-      "title": "Why We Don’t Trust Apple’s HomeKit Secure Video—and You Shouldn’t Either",
-      "excerpt": "HSV adds some smart features, such as face and object recognition, including people, animals, vehicles, and packages. It even allows you to mix and match camera brands and integrate them with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/wirecutter/blog/apple-homekit-secure-video-review/",
-      "originalUrl": "https://www.nytimes.com/wirecutter/blog/apple-homekit-secure-video-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-24T17:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

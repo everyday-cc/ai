@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-07-14-teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company.md",
+      "title": "Tesla’s head of AI, an ardent supporter of ‘full self driving,’ has exited the company",
+      "excerpt": "Andrej Karpathy, Tesla’s director of artificial intelligence, announced Wednesday he’s leaving the company only months before its anticipated release of its long-delayed “full self-driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://kvia.com/cnn-business-consumer-3/2022/07/14/teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company/",
+      "originalUrl": "https://kvia.com/cnn-business-consumer-3/2022/07/14/teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kvia.b-cdn.net/2022/07/hypatia-h_7d277fc62268077ed482b4e6679d65f9-h_a5de2b2ec07b206570c63e15f6907e94-300.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-14T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KVIA",
+        "domain": "kvia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-14-artificial-intelligence-in-insurtech-market-type-application-key-players-region-forecasts-over-2022-2028-latest-research-by-ibi.md",
       "title": "Artificial Intelligence In Insurtech Market Type, Application, Key Players, Region-Forecasts Over 2022-2028 |Latest Research By IBI",
       "excerpt": "and self-driving vehicles, speed up the artificial intelligence (AI) insurtech market development. The expansion deprived to offer customized protection administrations and reception of AI ...",
@@ -1325,40 +1368,6 @@
         "AI in Autos",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
-      "title": "China's Baidu races Waymo, GM to develop self-driving cars",
-      "excerpt": "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane. The taxi stops a half-car-length away. \"So sorry,\" a recorded voice ...",
-      "sourceUrl": null,
-      "webUrl": "https://japantoday.com/category/tech/china%27s-baidu-races-waymo-gm-to-develop-self-driving-cars",
-      "originalUrl": "https://japantoday.com/category/tech/china%27s-baidu-races-waymo-gm-to-develop-self-driving-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Japan Today",
-        "domain": "japantoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

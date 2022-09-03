@@ -2,6 +2,41 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-07-13-the-best-robot-vacuums-of-2022-tested-and-rated.md",
+      "title": "The best robot vacuums of 2022 tested and rated",
+      "excerpt": "If you’re looking into buying a robot vacuum, you will no doubt have noticed some of the latest features on offer too, such as self-emptying bases and object recognition. Bear in mind that these ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tomsguide.com/us/best-robot-vacuums,review-2000.html",
+      "originalUrl": "https://www.tomsguide.com/us/best-robot-vacuums,review-2000.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-13T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-07-13-lime-has-built-its-own-camera-based-sidewalk-detection-technology.md",
       "title": "Lime has built its own camera-based sidewalk detection technology",
       "excerpt": "At a Lime event in Paris, the startup shared plans to pilot an in-house built computer vision platform that will leverage cameras to detect when users are riding on the sidewalk. While it will be ...",
@@ -1297,59 +1332,6 @@
         "Natural Language Processing",
         "AI Hardware",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-tesla-reportedly-lays-off-200-autopilot-employees.md",
-      "title": "Tesla Reportedly Lays Off 200 Autopilot Employees",
-      "excerpt": "In early June, Tesla CEO Elon Musk reportedly told executives that Tesla needed to cut 10% of its staff, based on a \"super bad feeling\" about the economy. Now, as Tesla pares back its workforce, new reports are highlighting where some of those cuts are taking place.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/tesla-reportedly-lays-off-200-autopilot-employees/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-reportedly-lays-off-200-autopilot-employees/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/a6733534d3a0516b9621818e4cf8b5c7b7103cc8/2022/06/29/fbc4a995-8be5-45a1-ab52-23c6a2d76843/elon-musk-getty-1395371342-ogi.jpg?auto=webp",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-reportedly-lays-off-200-autopilot-employees/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-reportedly-lays-off-200-autopilot-employees/",
-      "publishedDateTime": "2022-06-29T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

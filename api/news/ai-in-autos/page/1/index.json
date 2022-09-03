@@ -247,7 +247,7 @@
       "originalUrl": "https://electrek.co/2022/08/30/mary-barra-gm-self-driving-tech-beat-tesla-evs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 162,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -700,7 +700,7 @@
       "originalUrl": "https://www.reuters.com/business/energy/elon-musk-says-world-still-needs-oil-gas-2022-08-29/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 186,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -846,6 +846,59 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-global-artifical-intelligence-chip-market-size-by-major-players-trends-key-regions-and-growth-forecast-to-2022-2031.md",
+      "title": "Global Artifical Intelligence Chip Market Size by Major Players, Trends, Key Regions and Growth Forecast to 2022-2031",
+      "excerpt": "The worldwide artificial intelligence chip market size is esteemed to mark revenue of USD 9 billion in 2021 and is",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artifical-intelligence-chip-market-size-by-major-players-trends-key-regions-and-growth-forecast-to-2022-2031-2022-08-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artifical-intelligence-chip-market-size-by-major-players-trends-key-regions-and-growth-forecast-to-2022-2031-2022-08-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1386,59 +1439,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else.md",
-      "title": "Why Tesla Thinks It'll Build Self-Driving Cars Before Everyone Else",
-      "excerpt": "Their job is to process video from the fleet of Tesla cars on the road today to learn how real-world driving works. That training process is the foundation for the FSD, short for Full Self Driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/this-is-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/this-is-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 221,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/271a46fb3adb415aeca54f56d60baeddc11e3033/2022/08/24/0f2b65be-0d7e-461e-b630-2d3103b9c76e/tesla-d1-dojo-chip.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/this-is-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-is-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else/",
-      "publishedDateTime": "2022-08-25T00:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

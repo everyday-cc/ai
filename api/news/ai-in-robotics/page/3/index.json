@@ -2,6 +2,112 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-16-googles-new-robot-learned-to-take-orders-by-scraping-the-web.md",
+      "title": "Google’s New Robot Learned to Take Orders by Scraping the Web",
+      "excerpt": "The robot’s library of physical actions was learned through a separate training process in which humans remotely controlled the robot to demonstrate how to do things like pick up objects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/google-robot-learned-to-take-orders-by-scraping-the-web/",
+      "originalUrl": "https://www.wired.com/story/google-robot-learned-to-take-orders-by-scraping-the-web/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/62fae4897e7512dc132d18dd/master/pass/PaLM-SayCan-Robot-Still-Business.jpg",
+          "width": 1481,
+          "height": 987,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/google-robot-learned-to-take-orders-by-scraping-the-web/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-robot-learned-to-take-orders-by-scraping-the-web/amp",
+      "publishedDateTime": "2022-08-16T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-08-16-elon-musk-drops-details-about-teslas-humanoid-robot.md",
+      "title": "Elon Musk drops details about Tesla's humanoid robot",
+      "excerpt": "Tesla is set to unveil a new humanoid robot, called Optimus, in late September. There's been a lot of speculation surrounding Tesla's strategy in entering the robotics market, and a recent post by boss Elon Musk sheds some new light.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/elon-musk-drops-details-about-teslas-humanoid-robot/",
+      "originalUrl": "https://www.zdnet.com/article/elon-musk-drops-details-about-teslas-humanoid-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/bb82a1b68d61171587c5d41c6fe6f42425701dc2/2022/08/15/7fd1c0ef-9d2c-4ec0-8ba7-a72afdbd0d35/tesla-humanoid.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/elon-musk-drops-details-about-teslas-humanoid-robot/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/elon-musk-drops-details-about-teslas-humanoid-robot/",
+      "publishedDateTime": "2022-08-16T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-08-16-best-robot-vacuum-deals-you-can-get-right-now-at-amazon-irobot-roomba-i7-roborock-and-more.md",
       "title": "Best robot vacuum deals you can get right now at Amazon: iRobot Roomba i7+, Roborock and more",
       "excerpt": "Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch your robot vacuum operate no matter where you are, using Samsung's SmartThings App. The Jet Bot AI+ ...",
@@ -1305,92 +1411,6 @@
       "provider": {
         "name": "Just Auto",
         "domain": "just-auto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-a-new-explainable-ai-paradigm-that-could-enhance-human-robot-collaboration.md",
-      "title": "A new explainable AI paradigm that could enhance human-robot collaboration",
-      "excerpt": "Artificial intelligence (AI) methods have become increasingly advanced over the past few decades, attaining remarkable results in many real-world tasks. Nonetheless, most existing AI systems do not share their analyses and the steps that led to their predictions with human users,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-08-ai-paradigm-human-robot-collaboration.html",
-      "originalUrl": "https://techxplore.com/news/2022-08-ai-paradigm-human-robot-collaboration.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/a-new-explainable-ai-p.jpg",
-          "width": 2880,
-          "height": 2245,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-08-ai-paradigm-human-robot-collaboration.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-ai-paradigm-human-robot-collaboration.amp",
-      "publishedDateTime": "2022-08-10T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-top-5-bitcoin-trading-robots-for-2022.md",
-      "title": "Top 5 Bitcoin Trading Robots for 2022",
-      "excerpt": "Crypto trading robots must be alert and available to trade at all times if they want to make the greatest transactions. Once again, some traders can lose out on successful transactions due to trading slowdowns and transaction delays.",
-      "sourceUrl": null,
-      "webUrl": "https://www.peacefmonline.com/pages/business/news/202208/471995.php",
-      "originalUrl": "https://www.peacefmonline.com/pages/business/news/202208/471995.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://w5p2r8x5.stackpathcdn.com/photos/news/202111/768212374_698734.jpg",
-          "width": 600,
-          "height": 444,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-10T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Peace FM Online",
-        "domain": "peacefmonline.com",
         "images": null,
         "publishers": null,
         "authors": null
