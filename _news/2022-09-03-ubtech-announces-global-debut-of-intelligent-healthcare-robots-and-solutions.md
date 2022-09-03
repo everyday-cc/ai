@@ -2,48 +2,19 @@
 category: news
 title: "UBTECH announces global debut of intelligent healthcare robots and solutions"
 excerpt: "At the event, UBTECH announced its strategy of creating a smart elderly-care system with several sub-systems within specific elderly-care scenarios. They also launched several robotics products for the healthcare and elderly-care domain."
-publishedDateTime: 2022-09-02T17:34:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ubtech-announces-global-debut-of-intelligent-healthcare-robots-and-solutions-1031722479"
-webUrl: "https://markets.businessinsider.com/news/stocks/ubtech-announces-global-debut-of-intelligent-healthcare-robots-and-solutions-1031722479"
+publishedDateTime: 2022-09-02T17:28:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-health-japan-robotics-climate-and-environment-e740f2b22dca8eb11247fe2493b02924"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-japan-robotics-climate-and-environment-e740f2b22dca8eb11247fe2493b02924"
 type: article
-quality: 66
-heat: 76
-published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1890962/image_1.jpg"
-    width: 400
-    height: 266
-    isCached: true
-
-related:
-  - title: "UBTech unveils intelligent healthcare robots and solutions for senior citizens"
-    excerpt: "Chinese artificial intelligence pioneer UBTech Robotics has unveiled its smart health care strategy with a string of new products and strategic cooperation agreements with companies such as Medical Care Service Company Inc,"
-    publishedDateTime: 2022-09-03T11:59:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202209/03/WS63132ddea310fd2b29e75c74.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 52
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202209/03/63132ddea310fd2bec9f9f62.jpeg"
-        width: 431
-        height: 287
-        isCached: true
-
-secured: "sx3RjMK4xuv/f+uYnTiUl/vgat3G0y9iwB6fKBoR10uwtyW+/2BjTYopbWBp5kgH95hsaGqrxrzAwkahdmV8bRtQIFrVX/bCHjNbT2AzWsPEWdppDHjKcp1l+t0sLcJLaajEo4BZCBGohygAfmb2CwWgbr5ES4IPtB7weB8QnjQR0AbEQDba6UdGjYbu/uNGy900AtE2/nRPPim2/T8YZXZikmdLTM4nnCrEvl3DXr+XIrN5tljOt3EOGzkornETrBxuY0stShIGGhgK49bbjjNokjxkbawOU60PeQ5h9+E0nVWD0iXzGKhq6HFrZeIHBhKHJCT6HEdoD2MkxyGlwl/dhvQWZQ+JnjaU2KyXSgI=;Rxs0yKmQFngxUjJtkwU5Kw=="
+secured: "9J8lOeQDTiPjr+wPI6Ot1tpq4VPKjSHMBhhOzqZ2vYnjQlbY9Uk5djzp9ir9354fbdBEQhgT2AR+h+T40eySOsqBptYVZmwNnM8G7kbi2IIrmft7Q0JJ/C1r1+Zt2OrTJagaZm/tpYtR/hm2KPKaJmP21NwWdn4dwp9VXddIfqyoU+vCiaC//EXu38PxdZJkJfcW8IUMVpR/e2J2smw2jTr10S6a5Lt4E/UhtVEXpC/Z0L0eH0hSOsc3Xqqk92OKbazS8Oydh1yO0bCqcAAvLQIjZjHmCz+NsVsujeBodEKdPje9oTke/bk+m2KXE1rc83wrhf5u34pylMTza7NZYQDV+2+MvdchoHIh2oEEMkY=;37hyGHua1J427kKFHPl+qQ=="
 ---
 

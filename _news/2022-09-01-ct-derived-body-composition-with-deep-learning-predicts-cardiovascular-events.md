@@ -1,27 +1,20 @@
 ---
 category: news
 title: "CT-derived body composition with deep learning predicts cardiovascular events"
-excerpt: "A fully automated and normalized body composition analysis of abdominal CT has promise to augment traditional cardiovascular risk prediction models."
-publishedDateTime: 2022-08-31T21:31:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/08/220831131201.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/08/220831131201.htm"
+excerpt: "According to ARRS' American Journal of Roentgenology (AJR), fully automated and normalized body composition analysis of abdominal CT has promise to augment traditional cardiovascular risk prediction models."
+publishedDateTime: 2022-08-31T17:22:00Z
+originalUrl: "https://medicalxpress.com/news/2022-08-ct-derived-body-composition-deep-cardiovascular.html"
+webUrl: "https://medicalxpress.com/news/2022-08-ct-derived-body-composition-deep-cardiovascular.html"
 type: article
-quality: 46
-heat: 46
-published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "wJjrKoFJnwUIWRevTC8YbMYZXlnhnSXXhNATLK70+bzfCKvasx8xizwy64Sp3klkkbax1yNShwRivyMzHskaOZ5AQe9Be8L3M/1Ov9UlvjOToJQ/pH6sdBdPiG0SUVq8UMlWAeMsfwJtW90nUKY79fU/PJj8+G3lOybtJOyo4OHf8gvV6IUCQi3v4aVDotf7ULtwY8dEwIiE+E/qvQ8WUSj84nLCK9Rx5d3N021kLLFtlEG3ZI0HAxIWIKgXoqUADAs4bpXGSIUQer+3KLcWq0FlhQWOWg53DGYb79SuwmP+IcED1AlwTVwKMe0qGlcpyg9nWRdWh+V+hEJJenPxYsVGkK4IHkr8L7zkKMlgbuQ=;oK79s8mbhHRLG2ZEdeVgiw=="
+secured: "1BghWov0TU6c2rTfk0gnUIQ+7qKRHkd4v660giNrgkhcRCLIbJUxgHTvh5UPNOEdLL7H/VsCsFLdYv5BVKQAdOXCPFxGotppKMd4+JGhMeaD/XQcXugtg1tOIZ4s8MpRsOHTjSmB9DaYSSYMj7eFBTVuCTw6WdQnPMhBhvVXM81qhQ76N9vmK9Jt9iXUxAJ1nu90jr0UJgS3BO394mCuaiJOW2myqMoNtiNBYZOQ3SoZUZBt3PpQ7PZCPpgzPgw5PsZ1syuy2NV//574hzPDzUs06MnEYY+Uk2IdA5cXf/vCnm7aLiVIBnLuEN+0/LSgYn4IcE2PKooG88lc7ebhfBr5Kj5cbj33/Ex5ZDn+gpk6fHra2cI/iK/2/uKdn6p4spWdlyUQC8AMXswLxHwH+xdUodZbiEIZX/ohihiEjN48iIosSFKQ+9SEjV4EMD2a1kguRmoQWUeOBkn21UygbvhWRetPZxavIk4+Ks/PQ/HMe71gXDbMQiFT7Z5vGthmonHma1enCZFz2sf0aSVgKg==;i75GO8+QF7YQ/V1aM/7gVg=="
 ---
 

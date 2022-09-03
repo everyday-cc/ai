@@ -14,12 +14,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://helios-i.mashable.com/imagery/articles/06flaA2qTkuYtTU1N3cKsg0/hero-image.fill.size_1200x675.v1661618885.jpg"
-    width: 1200
-    height: 675
-    isCached: true
-
-secured: "UpybyW1nDVsDtCJGwKxtKrfFIOLWNNFy7Nj76VA5Zn8Jy5lUqmEow6HXTmV4xWlS0F+duxLwlYOxdIy6IYA0ewEZSmRxMWaA552DeE2LTIsxCh41jCo+tvKAe0qOYKXIA9Pfzj/HsgDN+k2gXCMpCwYCxP6tTW4Oh0EYs3PJJ+QIBU4uFCBPJTwYWptvLAfK+ReHvUjebDkt8x8FVUpHvzTnPP5plr1Bvr6N//AN9q08uWMBrHt+rLXa4LOvBeQeI57ZQ0WTDOTK+ptygkLVqtWIOeoJk+MSAX2RGSWweBY7FFBaQYHol8glXHeSuwqWS8h/GVYlEs2TgsSX/S3jpVy7iBWDT0Dy9I+BsogGj3c=;cyj/ttBIOD8IAkJUueQ6Tg=="
+secured: "MtaG7ILJ1cf0jelnJqxf+BCyP0+xAODvXSpjXiM+BHxprjZC7yyghgb4hHIZn6NK9IUdRb8MFKmSmiD/1YTjOdvmh6hcR4IPHBVY66jM8kEknyzxE0qdzQhxRWLzujmpNooBQJiZpkYz8S7tTz8SqDd6vM4KhV+OUyXPKn5BJNTscjnsAPzg3bsA/YDG0XreevaRJD/XGwQxdlRtRowv0T68sKiuQy/TC4Ks39zC11JNuKfL8pBS8oSnEOpXD33O0Sh2BOzmY39m1KdHQWoKyvPIxn5WuwiSqx9B7cWE9c019f4JJcykT1lUB2WJfMvbJ3dX4mbY66AgHzAYVYgrbZPnoUWl+d+1DmA2iz0zfdc=;cLVWi8lVmFUauomRXRbL2g=="
 ---
 

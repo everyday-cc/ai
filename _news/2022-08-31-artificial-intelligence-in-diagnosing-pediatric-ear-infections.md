@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Autos
 
 images:
   - url: "https://images.medindia.net/amp-images/health-images/hear-aid-baby1.jpg"
