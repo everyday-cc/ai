@@ -7,7 +7,7 @@ originalUrl: "https://www.dbusiness.com/daily-news/robot-sales-surge-across-nort
 webUrl: "https://www.dbusiness.com/daily-news/robot-sales-surge-across-north-america-q2-sales-up-25-to-585m/"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 800
     height: 500
     isCached: true
-
-related:
-  - title: "Robot Sales Hit Record High in North America for Third-Straight Quarter"
-    excerpt: "a one-day event to help those interested start their journey to unlock the power of AI, with discussions on data strategy, advances in AI robotics and machine vision, and AI-powered optimization and prediction. The conference will take place September 29 ..."
-    publishedDateTime: 2022-08-29T13:18:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/robot-sales-hit-record-high-in-north-america-for-third-straight-quarter/article_a7cef89e-4f6c-585c-8498-9c0c9ebaa7a8.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 51
 
 secured: "3GC8ZPUagQ3J20KQosgamR3eLFQo8nM1C4xCO3hVl4FoucrF7GhHcYmlR6+DLZZ9wq1gFEcpAtInt10WzcLGw5ZFicRhYPNWyFQzdn7kZGqRxwqJuQB3od9qHCN9wFJdHt3wRbt8qUxFjzInu9oYM7fsUzLNzmkf/jeDMzBj4q7xbdb2DK+9xMC1zVrzod+0a47su8LgkS1uflGffSzUypjA9X0kgpCoc6XpmoLgS3HmADsdBSmSiB+KiztQl4jDwLpabOSlt/+uu94ZwX0MZBVC8ryryCJxGZCjN2eh0LNyN0C+ssWtrguEeD6eTYPeyxevQD5qvZYZkiEOS0+UTS6LpAokLaT+m5GfXCix3O4hROvibM/7H8SNZib2Fi8ns26eLLeQ9DcHW+W3JkWqjbBydQNnUYEzcduwhzGyuopwOM805ia+NMks2oo6sjLLJ6QmuD7wNj3opvKWOi2/StSN5PsPftWhLQMTKIbpM/0+prJ7zYhPfME/HzVAF/VGhX12Vf/IAh+Su9LiULWH4Q==;V6JpIUizg/YitImF/774Dw=="
 ---

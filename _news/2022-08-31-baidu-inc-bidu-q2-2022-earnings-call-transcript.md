@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Apollo Go Might Be Baidu's Biggest 10 Year Catalyst"
-    excerpt: "Apollo Go is emerging as a leader in China's robotaxi industry. See why I believe the future is bright for Apollo Go in the long run."
-    publishedDateTime: 2022-08-29T14:48:00Z
-    webUrl: "https://seekingalpha.com/article/4537659-apollo-go-might-be-baidus-biggest-10-year-catalyst"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 39
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1392926948/image_1392926948.jpg?io=getty-c-w750"
-        width: 750
-        height: 490
-        isCached: true
   - title: "Baidu’s Apollo Go robotaxi business surpasses 1M rides in China"
     excerpt: "With Geely’s automotive expertise and Baidu’s advanced software, JIDU, the self-driving EV startup, was born in March 2021. Since its foundation, JIDU has unveiled several EV concepts, starting with the ROBO-01. State-of-the-art Nvidia Drive Orin ..."
     publishedDateTime: 2022-08-31T02:57:00Z

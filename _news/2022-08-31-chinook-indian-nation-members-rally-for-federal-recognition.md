@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Chinook Indian Nation members rally for federal recognition"
-excerpt: "Federal recognition would mean access to federal dollars for healthcare and housing for this group of tribes, which are based in Southwestern Washington."
-publishedDateTime: 2022-08-30T17:16:00Z
-originalUrl: "https://www.oregonlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html"
-webUrl: "https://www.oregonlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html"
-ampWebUrl: "https://www.oregonlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html?outputType=amp"
-cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html?outputType=amp"
+excerpt: "Members of the Chinook Indian Nation rallied on Monday on the steps of a federal building in Seattle to raise awareness for their long fight to get federal recognition. Chairman Tony Johnson, whose tribal name is Naschio,"
+publishedDateTime: 2022-08-30T19:34:00Z
+originalUrl: "https://www.opb.org/article/2022/08/30/chinook-indian-nation-seattle-rally-federal-recognition/"
+webUrl: "https://www.opb.org/article/2022/08/30/chinook-indian-nation-seattle-rally-federal-recognition/"
+ampWebUrl: "https://www.opb.org/article/2022/08/30/chinook-indian-nation-seattle-rally-federal-recognition/?outputType=amp"
+cdnAmpWebUrl: "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2022/08/30/chinook-indian-nation-seattle-rally-federal-recognition/?outputType=amp"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: Oregonian
-  domain: oregonlive.com
+  name: OPB
+  domain: opb.org
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BDPWLIXENRFN5FMNDB6TY6JQTM.jpg"
-    width: 3000
-    height: 2000
+  - url: "https://opb-opb-prod.cdn.arcpublishing.com/resizer/Tfk6CMS5hlh0EbY1JDUCHSliVng=/767x0/smart/cloudfront-us-east-1.images.arcpublishing.com/opb/3FLA3PFBOJGJHLNEI4OVMJEFZM.jpg"
+    width: 767
+    height: 472
     isCached: true
 
 related:
@@ -57,6 +57,6 @@ related:
       domain: truman.edu
     quality: 4
 
-secured: "s8PsDqiw/Tdz6DbiltKrc+on/corVBriS79NHAn8punuEmVfH/4EttviiD9kPkYqiFxp631PbYuYPaxlZ4Z1GJQVGazaJT6NJBM4twE0eS6uXuFoQlaRWapxwkGbLg/U8IFbMA3WmrzA8ivoIVtVNcKp2C8nYPjORU93ihRdweg31S5VNI6iTNCpR42qEaDXJFEvFQexyCiQQsIPtnb3FfVtvoBfGxAJ/K4pVlsM/TFTTwFjbLekNlqGE4EqtkEvIP4f22tZAIPZZIj5d8XaLkcmGBEH+1mQqPlIwy8nXOGwaNqo5TD/jErqoUNe0i0Vbmwd5I/p51/BRHFcMpOEqVlFNBUyfvZ1//VWjjml4mF+/2gMNnL6ijJnPSObfq9npNkpAvKy9j0jlUkW71wvBp7l/a1dF4MYTXyerEXbvOkbt2vPoOiAqELQpon93ZkvgkoPHLd2sxuAEZ5z61YCONJ5MeYeKkEf+l5wwzD7AENNEdzAyrVlDUCgCedaln66FyyZ4jQK3eEZTJWYqsAGXw==;1IXZLcse8EBb/0rLU3BStQ=="
+secured: "XLH6eKR7ri0RGmeY0eNajg/ybbwyIKyUlsXeY2k0x2F4zJ4s7FlLzNnNs9QI0wf+i5U0EuKWVf2yPkH3C5jTVxaDWB5q3a8TdCulH2OtHX5TsV+tFNgTI8yypYQCBofhqMAoncGfrk2MY/BAkJ8RBUUwXpmx7fOVyPAG7vus0cWn8WgztgRduwQ5taga2CrZ2igQYFk7207hpLwesy3RiLPXOm4c92vrXhPL96Mpd00aWoCJK9lUdMQbu2MR+ohA2j2rDvrWSaNBn6hdzEUH9rrdHFyA8MGfn5pWiMubGl2lW0ueEX6NicfJzi3CjbcFgAySBXDrqCvcNt1gmmYmKEodMI48JNMw/rNFj7M+oKE=;WMHaA6xuZjbZYL9A+uAu2Q=="
 ---
 

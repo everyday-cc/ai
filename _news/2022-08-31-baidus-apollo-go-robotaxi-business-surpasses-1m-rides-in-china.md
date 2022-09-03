@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Apollo Go Might Be Baidu's Biggest 10 Year Catalyst"
-    excerpt: "Apollo Go is emerging as a leader in China's robotaxi industry. See why I believe the future is bright for Apollo Go in the long run."
-    publishedDateTime: 2022-08-29T14:48:00Z
-    webUrl: "https://seekingalpha.com/article/4537659-apollo-go-might-be-baidus-biggest-10-year-catalyst"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 39
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1392926948/image_1392926948.jpg?io=getty-c-w750"
-        width: 750
-        height: 490
-        isCached: true
   - title: "Baidu, Inc. (BIDU) Q2 2022 Earnings Call Transcript"
     excerpt: "Q2 2022 Results Conference Call August 30, 2022 08:00 AM ET Company Participants Juan Lin - Head of Investor Relations Robin Li - Co-Founder and"
     publishedDateTime: 2022-08-30T17:00:00Z

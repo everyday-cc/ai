@@ -9,8 +9,8 @@ ampWebUrl: "https://theconversation.com/amp/metas-ai-chatbot-hates-mark-zuckerbe
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/metas-ai-chatbot-hates-mark-zuckerberg-but-why-is-it-less-bothered-about-racism-189657"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: The Conversation
@@ -43,15 +43,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Google AI Chatbot Now Open for Public Testing"
-    excerpt: "Registrations are open for early access, with AI Test Kitchen serving rotating demos centered around cutting-edge AI technologies"
-    publishedDateTime: 2022-08-29T13:06:00Z
-    webUrl: "https://analyticsindiamag.com/google-ai-chatbot-now-open-for-public-testing/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 17
 
 secured: "Sd7jrZe4BpcJd5UkOtNwcp8vM4cct6Sb12pkCA4iRxrkxHKTwF1x/mcnTx+hdWYzWUZA2kp3AuH0u1aoHkafmok5IwxmSzly3ygb11MGQ3u9czWyiQrjFY09Gk3Nc2pEKV0t2Q8YitibXNYvXpdnrON7Xhm/f0YD/AQCt2GWcX9e6mNx0Fc5yGkIHVsoyaZAYZOD8ftNk1RirGi8GFgeTqy0AubyOwgGihAfL2OV0qLXIGqL5fj0rxTb3h1spk6EX7lQ6JdniHz4AMDZCQTcrUx4ukj0RsYZzSxub5CqtRymQ8AZhAWhZjnWWSZRWwpFp1gWEWCzLXfP+d6kBvRO6IJ+nPa26QZeOt1d7jYGMFmFJMWcZ6rVdNeS7da+F13bbKgTDv5E7Adms2nWmgO3pZiDGX3qAJGmyUrhN2jJ+qTrjTg9yUqIZhq3SAnpCcZyIbZzjTbs9zuz2c2nDA6cuXbsRcHTueeTYRmCd0rH8ivyoEp3Pa5E4+aMGrILm+SzO3e2nJUVA1DA02THhrdjVw==;w17QJi1BJAC0MTco/h8YvQ=="
 ---

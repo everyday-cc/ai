@@ -41,22 +41,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Facial recognition is the best tool to tackle the increase in financial fraud"
-    excerpt: "By Anton Nazarkin, Global Development Director at VisionLabs Financial fraud is on the rise and costs banks billions of dollars a year. Between 2016 to 2020, synthetic fraud[1] losses grew from $6 billion to $20 billion[2]."
-    publishedDateTime: 2022-08-29T14:57:00Z
-    webUrl: "https://www.globalbankingandfinance.com/facial-recognition-is-the-best-tool-to-tackle-the-increase-in-financial-fraud/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/facial-recognition-is-the-best-tool-to-tackle-the-increase-in-financial-fraud/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/facial-recognition-is-the-best-tool-to-tackle-the-increase-in-financial-fraud/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 56
-    images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/08/059.jpg"
-        width: 328
-        height: 328
-        isCached: true
   - title: "Emotion Detection and Recognition Market Latest Advancements and Business Opportunities 2031"
     excerpt: "Emotion detection and recognition market is set to witness steady growth during 2021-2031. One of the major growth drivers for the emotion detection and recognition market happens to be the rising adoption of Internet of Things,"
     publishedDateTime: 2022-08-30T13:26:00Z

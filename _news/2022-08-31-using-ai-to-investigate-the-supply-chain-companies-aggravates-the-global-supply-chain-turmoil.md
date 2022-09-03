@@ -7,7 +7,7 @@ originalUrl: "https://finance.dailyherald.com/dailyherald/article/wdwire-2022-8-
 webUrl: "https://finance.dailyherald.com/dailyherald/article/wdwire-2022-8-31-using-ai-to-investigate-the-supply-chain-companies-aggravates-the-global-supply-chain-turmoil"
 type: article
 quality: 8
-heat: -1
+heat: 8
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "Navigate the quest for artificial intelligence"
-    excerpt: "Navigate the quest for artificial intelligence. MIT Technology Review is the go-to source for insightful and thought-provoking stories about technology and its implications in our"
-    publishedDateTime: 2022-09-02T05:56:00Z
-    webUrl: "https://www.technologyreview.com/supertopic/artificial-intelligence-featured-stories/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 37
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/05/Imagen-comp.jpeg?resize=1200,600"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "mVmdQqFvzYn8LLSh2GLuFNtKRTaJ1nEhfiZpAXyR2gevPq6wlzyTaKCZoBxSBdIJQD2QLEfRJLSbFC4HQloHsk+bbgurRaD39okelPZT/Zehq8m2a6YdPuSh9ozi8iuaM20ktIYcm2WtN3POHlTFwjHN+KejQL5xuJSLbFnclmhGdjRv8HtAm3KQrSTAsfqXT2igDlsWcnmNxaJHnYNvBdA4cAykfBKKT+tl+ZwyqaEh8o0k2uE0Q1qJPFMGXLu4w0jIH7r9cRb31BQwH6wSk8NJWhVtNJ9azVe8TPRBc+gryahZNYZqrY8RIM9LLvoIxx1PQSIS7vNAkssf+LdEGBv/JoV9WSv3OYouAMXawG4=;DAQhDho2udNiZdsM4jq7Dg=="
 ---

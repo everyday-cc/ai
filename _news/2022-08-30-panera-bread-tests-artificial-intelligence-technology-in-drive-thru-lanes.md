@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2022/08/29/panera-bread-tests-artificial-in
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/08/29/panera-bread-tests-artificial-intelligence-technology-in-drive-thru-lanes.html"
 type: article
 quality: 88
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://d.ibtimes.com/en/full/3395558/panera-bread-baguette-diamand-rings.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Panera Bread Tests Artificial Intelligence Technology in Drive-Thru Lanes"
-    excerpt: "Two Panera Bread locations in upstate New York are testing artificial intelligence technology that takes drive-thru orders. Restaurants have been investing in improving the drive-thru experience for customers, adding more lanes and testing tech that would ..."
-    publishedDateTime: 2022-08-29T13:33:00Z
-    webUrl: "https://www.nbcphiladelphia.com/news/business/money-report/panera-bread-tests-artificial-intelligence-technology-in-drive-thru-lanes/3347674/"
-    ampWebUrl: "https://www.nbcphiladelphia.com/news/business/money-report/panera-bread-tests-artificial-intelligence-technology-in-drive-thru-lanes/3347674/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/business/money-report/panera-bread-tests-artificial-intelligence-technology-in-drive-thru-lanes/3347674/?amp=1"
-    type: article
-    provider:
-      name: NBC 10 Philadelphia
-      domain: nbcphiladelphia.com
-    quality: 56
-    images:
-      - url: "https://media.nbcphiladelphia.com/2022/08/106972691-1636466150088-gettyimages-1280324270-1006_32_fl200924107.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Panera tests drive-thru AI"
     excerpt: "The chain is working with OpenCity to deploy AI technology to two cafes in upstate New York, aiming to improve speed of service, order accuracy and personalization."

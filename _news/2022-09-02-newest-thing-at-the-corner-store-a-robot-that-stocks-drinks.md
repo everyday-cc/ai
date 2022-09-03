@@ -54,6 +54,22 @@ related:
         height: 720
         isCached: true
   - title: "Robot that stocks drinks is newest thing at the corner store"
+    excerpt: "A small robot with a clip-like hand and enough smarts to know which drinks are popular is part of an effort to make convenience stores even"
+    publishedDateTime: 2022-08-31T14:11:00Z
+    webUrl: "https://mynorthwest.com/3614371/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/"
+    ampWebUrl: "https://mynorthwest.com/3614371/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/amp/"
+    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3614371/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/amp/"
+    type: article
+    provider:
+      name: MyNorthwest.com
+      domain: mynorthwest.com
+    quality: 61
+    images:
+      - url: "https://mynorthwest.com/wp-content/uploads/2022/08/ap_50fa119f88e046efacc597befb3a52ab.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Robot that stocks drinks is newest thing at the corner store"
     excerpt: "A small robot with a clip-like hand and the smarts to know which drinks are popular is part of an effort to make convenience stores even more convenient."
     publishedDateTime: 2022-09-02T07:40:00Z
     webUrl: "https://www.seattletimes.com/business/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/"

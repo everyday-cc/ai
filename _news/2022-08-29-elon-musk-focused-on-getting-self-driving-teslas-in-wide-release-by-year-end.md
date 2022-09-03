@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/energy/elon-musk-says-world-still
 webUrl: "https://www.reuters.com/business/energy/elon-musk-says-world-still-needs-oil-gas-2022-08-29/"
 type: article
 quality: 66
-heat: 146
+heat: 126
 published: true
 
 provider:
@@ -57,26 +57,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Elon Musk Says Full Self-Driving Will Be ‘Self-Driving’ This Year, Maybe"
-    excerpt: "Elon Musk is sure that this is the year Tesla’s Full Self-Driving system finally learns to self-drive, Honda is investing $4.5 billion in a U.S. battery plant, and France will offer EV leasing for as little as $100 a month."
-    publishedDateTime: 2022-08-29T14:30:00Z
-    webUrl: "https://jalopnik.com/elon-musk-says-full-self-driving-will-be-self-driving-1849468102"
-    ampWebUrl: "https://jalopnik.com/elon-musk-says-full-self-driving-will-be-self-driving-1849468102/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/elon-musk-says-full-self-driving-will-be-self-driving-1849468102/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 23
-  - title: "Elon Musk wants self-driving Teslas in Europe by year-end"
-    excerpt: "Tesla chief Elon Musk said he aims to get the electric auto maker's self-driving technology ready by year-end and hopes it could be in wide release in the United States and possibly in Europe, depending on regulatory approval."
-    publishedDateTime: 2022-08-29T13:31:00Z
-    webUrl: "https://www.irishexaminer.com/business/technology/arid-40950212.html"
-    type: article
-    provider:
-      name: Irish Examiner
-      domain: irishexaminer.com
-    quality: 19
   - title: "Elon Musk wants self-driving US Teslas ready by year end – report"
     excerpt: "Tesla founder Elon Musk has said he aimed to get self driving Teslas ready by the end of 2022 and hoped they could be in wide release in the United States and possibly in Europe, depending on regulatory approval,"
     publishedDateTime: 2022-08-30T11:23:00Z

@@ -98,21 +98,21 @@
       ]
     },
     {
-      "path": "_news/2022-09-03-southwestern-pa-awarded-63m-to-boost-robotics-and-ai-industries-in-region.md",
-      "title": "Southwestern Pa. awarded $63M to boost robotics and AI industries in region",
-      "excerpt": "Southwestern Pennsylvania has secured a $62.7 million federal grant that local officials hope will boost the region’s robotics and artificial intelligence industries and allow small businesses to take advantage of that growth.",
+      "path": "_news/2022-09-03-self-driving-tech-company-floats-possible-sale-to-apple-or-microsoft.md",
+      "title": "Self-driving tech company floats possible sale to Apple or Microsoft",
+      "excerpt": "Aurora Innovation Inc.'s chief executive officer recently laid out a range of options for the self-driving company to respond to worsening market conditions and partners pushing out timelines, including a possible sale to Apple or Microsoft,",
       "sourceUrl": null,
-      "webUrl": "https://triblive.com/local/regional/southwestern-pa-awarded-63m-to-boost-robotics-and-ai-industries-in-region/",
-      "originalUrl": "https://triblive.com/local/regional/southwestern-pa-awarded-63m-to-boost-robotics-and-ai-industries-in-region/",
+      "webUrl": "https://www.spokesman.com/stories/2022/sep/02/self-driving-tech-company-floats-possible-sale-to-/",
+      "originalUrl": "https://www.spokesman.com/stories/2022/sep/02/self-driving-tech-company-floats-possible-sale-to-/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 101,
       "tags": null,
       "images": [
         {
-          "url": "https://assets-varnish.triblive.com/2022/09/5395364_web1_ptr-Biden013-012922.jpg",
-          "width": 640,
-          "height": 427,
+          "url": "https://thumb.spokesman.com/Se5c2OT9-lqqD-VC1ZUm_QstAGo=/480x0/media.spokesman.com/photos/2022/09/02/6312882c6765e.hires.jpg",
+          "width": 480,
+          "height": 311,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -120,13 +120,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T14:46:00-07:00",
+      "ampWebUrl": "https://www.spokesman.com/stories/2022/sep/02/self-driving-tech-company-floats-possible-sale-to-/?amp-content=amp",
+      "cdnAmpWebUrl": "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2022/sep/02/self-driving-tech-company-floats-possible-sale-to-/?amp-content=amp",
+      "publishedDateTime": "2022-09-02T17:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TribLIVE.com",
-        "domain": "triblive.com",
+        "name": "The Spokesman-Review",
+        "domain": "spokesman.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -136,8 +136,9 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -182,59 +183,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-self-driving-tech-firm-aurora-mulls-sale-to-apple-or-microsoft-bloomberg-news.md",
-      "title": "Self-driving tech firm Aurora mulls sale to Apple or Microsoft - Bloomberg News",
-      "excerpt": "Aurora Innovation Inc Chief Executive Chris Urmson recently outlined several options for the self-driving tech firm to combat challenging market conditions, including a possible sale to Apple Inc or Microsoft Corp,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/aurora-reorganization/update-1-self-driving-tech-firm-aurora-mulls-sale-to-apple-or-microsoft-bloomberg-news-idUSL4N309326",
-      "originalUrl": "https://www.reuters.com/article/aurora-reorganization/update-1-self-driving-tech-firm-aurora-mulls-sale-to-apple-or-microsoft-bloomberg-news-idUSL4N309326",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20220902&t=2&i=1607825902&r=LYNXMPEI810Z6&w=800",
-          "width": 728,
-          "height": 546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -839,7 +787,7 @@
       "originalUrl": "https://www.globalbankingandfinance.com/financial-language-and-the-evolution-of-speech-recognition-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1028,49 +976,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-01-metas-ai-chatbot-hates-mark-zuckerberg-but-why-is-it-less-bothered-about-racism.md",
-      "title": "Meta’s AI chatbot hates Mark Zuckerberg – but why is it less bothered about racism?",
-      "excerpt": "Meta, Facebook’s parent company, released the latest version of its groundbreaking AI chatbot in August 2022. Immediately, journalists around the world began peppering the system, called BlenderBot3,",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/metas-ai-chatbot-hates-mark-zuckerberg-but-why-is-it-less-bothered-about-racism-189657",
-      "originalUrl": "https://theconversation.com/metas-ai-chatbot-hates-mark-zuckerberg-but-why-is-it-less-bothered-about-racism-189657",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/481845/original/file-20220830-8728-w1icdt.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/metas-ai-chatbot-hates-mark-zuckerberg-but-why-is-it-less-bothered-about-racism-189657",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/metas-ai-chatbot-hates-mark-zuckerberg-but-why-is-it-less-bothered-about-racism-189657",
-      "publishedDateTime": "2022-09-01T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-01-fairmarkits-ai-fueled-platform-delivers-autonomous-procurement-sourcing.md",
       "title": "Fairmarkit’s AI-fueled platform delivers autonomous procurement sourcing",
       "excerpt": "Fairmarkit has been working on a tail spend procurement solution and has built a modern platform with a large dose of artificial intelligence.",
@@ -1203,6 +1108,109 @@
         "name": "Xinhua",
         "domain": "news.cn",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-how-ai-can-help-document-legacy-cobol-code-before-its-too-late.md",
+      "title": "How AI can help document legacy COBOL code, before it’s too late",
+      "excerpt": "COBOL is 60 years old, and when the existing pool of its developers retires, some worry the knowledge of how COBOL applications have been built and structured will be lost. AI tools could be a solution.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/programming-development/how-ai-can-help-document-legacy-cobol-code-before-its-too-late/",
+      "originalUrl": "https://venturebeat.com/programming-development/how-ai-can-help-document-legacy-cobol-code-before-its-too-late/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1168836247.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/programming-development/how-ai-can-help-document-legacy-cobol-code-before-its-too-late/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/programming-development/how-ai-can-help-document-legacy-cobol-code-before-its-too-late/amp/",
+      "publishedDateTime": "2022-09-01T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-meet-the-japanese-robot-who-stocks-drinks-at-the-corner-store.md",
+      "title": "Meet the Japanese Robot Who Stocks Drinks at the Corner Store",
+      "excerpt": "A robot in Tokyo named TX SCARA is helping stock drinks at FamilyMart convenience stores following a worker shortage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/434550",
+      "originalUrl": "https://www.entrepreneur.com/article/434550",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1662046330-robot-convience-stores-japan-getty.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-01T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -43,15 +43,6 @@ related:
         width: 320
         height: 213
         isCached: true
-  - title: "Google AI Chatbot Now Open for Public Testing"
-    excerpt: "Registrations are open for early access, with AI Test Kitchen serving rotating demos centered around cutting-edge AI technologies"
-    publishedDateTime: 2022-08-29T13:06:00Z
-    webUrl: "https://analyticsindiamag.com/google-ai-chatbot-now-open-for-public-testing/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 17
 
 secured: "gdItqVy4tkzfp6BEDWywt0RCtaBYFx20AD+geAxk9mXFEJQ6lj2VWFMBnDP8evvz2MXuDtyCoiNFLfg+qh5NG66a9cWk1nR93SCA14Heh3t1G2qjshYjEt6HTo90JV9m0TglLaUaKnrrfCUjE0B/SQRmdy1N5xwpmswXelZm6OXtzcOD3p/q0IipoDEWwRFrFgRdHj94cIuqiber1P+b2430kYRKX9sc5kpLLMkWnvoxWd+pP/MOwvwVMvv/1uTF6/DkB9JZTU49IRt7BH8/UplKNyBD1y56HmaJLY1F2JPtFPuKWLoWnPPYCkJ9m1QQfAZsKm78mrEDZNTOTcKvoKWpqHIBXq7/H2FCzlgeNxeS/AI7S+Zj97d/M7mtBUHPwa4tlkt7aXUq+MeXLCWJk2zg85pzOAwMOLstQcNnhBys8PZ7FcuOwdchf204nVUV7JNke1jxvs6dQxpSOVKn1gP3Xt+8wTFiV/ZjIkpVqUYcSX7zGmckxGIW3XlOjCIew3kpxP1k3idvTY/chAS0WA==;5WIz8G5nuuVfclGQip9lRg=="
 ---

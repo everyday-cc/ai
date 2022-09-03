@@ -2,19 +2,27 @@
 category: news
 title: "Robots could help reduce chemical use in farming"
 excerpt: "A robotics manufacturer is looking at the possibility of developing machines that will remove weeds and tend farmland without the need for so many chemicals."
-publishedDateTime: 2022-08-23T15:15:00Z
-originalUrl: "https://www.kztv10.com/news/national/robots-could-help-reduce-chemical-use-in-farming"
-webUrl: "https://www.kztv10.com/news/national/robots-could-help-reduce-chemical-use-in-farming"
+publishedDateTime: 2022-08-23T01:51:00Z
+originalUrl: "https://www.wcpo.com/news/national/robots-could-help-reduce-chemical-use-in-farming"
+webUrl: "https://www.wcpo.com/news/national/robots-could-help-reduce-chemical-use-in-farming"
+ampWebUrl: "https://www.wcpo.com/news/national/robots-could-help-reduce-chemical-use-in-farming?_amp=true"
+cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/robots-could-help-reduce-chemical-use-in-farming?_amp=true"
 type: article
 
 provider:
-  name: Action 10 News
-  domain: kztv10.com
+  name: WCPO Cincinnati
+  domain: wcpo.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "PyuHsYRYjRZPDImwKXC6CHC6fvk3DZ5PmJ0QHQbM4WZxmAMoDYYE9YuuwdqFGMbacK1qxn0AslVnHzX5tDAVZggXNRgKznrp6/hVkWqZ6hbFA256Z8eZ3AJ2iDxdH3L60rKSzacwjvbCUxhZv/qREzd2XDVnBRiPyFzyu9z6U6+ZYonlcb0eoHn3hTYu+1ZLJqe9xRxcNNgd5LrGR5xtiK2s5zXn7Ys9C0Pt0q/88g5nMY7RvQPmgWmaWGFKE48MeEg4iKt9ufETqMSY6GhwMMp06IlbRhuUKp52P8GCSzbhVm7MbIKLt+F/oOIhoiZfx1znr9rBIhLzwemhuIJyXhywjF6NwafksV/VqLa2Lcta76NoYp9zDki/2xJ21PZvmH7DsA5veHLV1twyo2r3SaJxeC2vEuBF+kbtUJXujEnf79Rf7LKzgmjXROrT60tm3MhBtANElTXk2yxvtw8jnIgCrb64yezYGJPvptBgukKk/p7rcyJA05KIQlt/wCOyqsnbZiLZjgmVbeh865zXUw==;eSP0UH4F2SA1Unlli7LriA=="
+images:
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/cb84d0e/2147483647/strip/true/crop/3666x2062+61+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F07%2F00%2Fe618017b4f60acd3ac6f7b3020e4%2Fscreen-shot-2022-08-22-at-10.50.57%20PM.png"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "uC20OrXsd5uSzuGl4g7B8g7QCZ4QNTyqnLOyMDm8/Nbj4sqQaq3ZCqwwBaTPRP9aLuOn9uxwQNmy6ebMhNaVui2QfMo4Imk9rz6LGXvT29gZncobCJxJg64hXLXCryprFcBo5BU58VBfXeyQ7TjiJDiHrXH4HjmvGkmJpXWE+uv9UH1UYh+ohgbxAzYUrLLSbkQBl9t0rn7MJOiEe3phdrGdc3ycKk1CMOiIiKp56eC87mAWpcPtAub6dUi2DTVcrezTwHTHRWYEXpeyUVOuKvl8ajE7kjrDBUTFxG9lJHC1IevaolNLt+iv5PQs/n+X4WKKS3N8vbs/6WMr5VdTapUgtqZd/26rDV0KD3Kt200=;FeBpUXwwK20wgh5UzbGuCQ=="
 ---
 

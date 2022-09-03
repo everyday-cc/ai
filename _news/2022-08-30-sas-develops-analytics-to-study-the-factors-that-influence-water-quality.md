@@ -36,15 +36,6 @@ related:
     quality: 43
   - title: "Teradata launches VantageCloud Lake for ad-hoc analytics"
     excerpt: "VantageCloud Lake edition comes with expanded ClearScape Analytics suite that supports in-database analytics for artificial intelligence and machine learning operations."
-    publishedDateTime: 2022-08-29T13:30:00Z
-    webUrl: "https://www.infoworld.com/article/3671135/teradata-launches-vantagecloud-lake-for-ad-hoc-analytics.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 34
-  - title: "Teradata launches VantageCloud Lake for ad-hoc analytics"
-    excerpt: "VantageCloud Lake edition comes with expanded ClearScape Analytics suite that supports in-database analytics for artificial intelligence and machine learning operations."
     publishedDateTime: 2022-08-30T00:51:00Z
     webUrl: "https://www.arnnet.com.au/article/701076/teradata-launches-vantagecloud-lake-ad-hoc-analytics/"
     type: article

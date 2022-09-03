@@ -1,22 +1,31 @@
 ---
 category: news
 title: "Robot that stocks drinks is newest thing at the corner store"
-excerpt: "A small robot with a clip-like hand and enough smarts to know which drinks are popular is part of an effort to make convenience stores even more convenient."
-publishedDateTime: 2022-09-01T12:52:00Z
-originalUrl: "https://nypost.com/2022/09/01/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/"
-webUrl: "https://nypost.com/2022/09/01/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/"
+excerpt: "A small robot with a clip-like hand and enough smarts to know which drinks are popular is part of an effort to make convenience stores even"
+publishedDateTime: 2022-08-31T14:11:00Z
+originalUrl: "https://mynorthwest.com/3614371/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/"
+webUrl: "https://mynorthwest.com/3614371/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/"
+ampWebUrl: "https://mynorthwest.com/3614371/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/amp/"
+cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3614371/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/amp/"
 type: article
-quality: 19
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: MyNorthwest.com
+  domain: mynorthwest.com
 
 topics:
-  - AI in Robotics
+  - AI in Healthcare
   - AI
+  - AI in Robotics
+
+images:
+  - url: "https://mynorthwest.com/wp-content/uploads/2022/08/ap_50fa119f88e046efacc597befb3a52ab.jpg"
+    width: 1280
+    height: 853
+    isCached: true
 
 related:
   - title: "Meet the Japanese Robot Who Stocks Drinks at the Corner Store"
@@ -49,22 +58,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Robot that stocks drinks is newest thing at the corner store"
-    excerpt: "A small robot with a clip-like hand and enough smarts to know which drinks are popular is part of an effort to make convenience stores even"
-    publishedDateTime: 2022-08-31T14:11:00Z
-    webUrl: "https://mynorthwest.com/3614371/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/"
-    ampWebUrl: "https://mynorthwest.com/3614371/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/amp/"
-    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3614371/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/amp/"
-    type: article
-    provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 61
-    images:
-      - url: "https://mynorthwest.com/wp-content/uploads/2022/08/ap_50fa119f88e046efacc597befb3a52ab.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Newest Thing At The Corner Store: A Robot That Stocks Drinks"
     excerpt: "A small robot with a clip-like hand and enough smarts to know which drinks are popular is part of an effort to make convenience stores even more convenient."
     publishedDateTime: 2022-09-01T19:18:00Z
@@ -85,7 +78,16 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "Robot that stocks drinks is newest thing at the corner store"
+    excerpt: "A small robot with a clip-like hand and enough smarts to know which drinks are popular is part of an effort to make convenience stores even more convenient."
+    publishedDateTime: 2022-09-01T12:52:00Z
+    webUrl: "https://nypost.com/2022/09/01/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 19
 
-secured: "dFl/omSj5gpB55er6OLH0Rjka5vLB/aeM5hkYBEWSMNPaBrCHKKCmS+7ypbKfqQzgbb9kGwZdpW3CYd4PCBd2xCJnwZObHJHSVO97rXIwL1K+AyJs4hUrJOyrFSZp3WbskZ5gG7+Whsoy7q0zfmcOxaM8dklaSN+5NMB3Y9UnYKm0SEF/21l3E0cz+uc7k37QeBExDLMsRlhic2Xs5m2P+9sErgmdpX4B3LsnF9qTdoL61UqpDXTJ5ZR74U5fqKunjfOevas7nGVpEvU2F4qxesqMzavNkq4DwVYNRBC12vj1+wgYWeTG7JeBfopE/mLgiA4eUPN6r0C0MxeQ//vXGIms39rqUWIi1WNBBu/bqMWiELc9jbUNT7++CwlNcpp/6FfUYhzSKuadmHKLOapYVuroDgsEoFl4HtRzLuU8wwge7522q7aHZmYtaeG6e9BTtEmZZZkQw0GXFR/XkD7MhS+berx1Rjrj+8cprbgwPlXQXN8v4FZtDRuFjSSJB5x4jpgfc0XO+rc37mooZ2eCA==;RkO1cRDL1kkurzHzRtb+8w=="
+secured: "WXj4I0qFv0g/mBgvzcBTH9EZZHTKycRmzFkxoDKs5m6itW5UdGQk41S//dYMOT6J56HvXzEJv9y9nwmu043ZwoqJznkDgrEZ1VeYQOdegMylyskqIJ5S/Kuyu9OibBzYbXpjq80qEfWqgC3zTHOTdnJIn8oDWCQjxO07SjcChwRfrtlv8pFCt300H2C7/+2lPBpN44xxh6JhuMpcDpmKGgW5jnxcmeiytG2cfgzvaTgJ9F1JvH/o1kPYtWS6IoLUsakbVZNHehyrqHAyP/wrY7iHnOtKqW0lHcaTdY0qn9aNGRUFNcD6JAocW1uQNOZGy/prcZd+ljKeRHQLELvcdAcv9Y6Ss9qeJmAQDEjjKc0=;2GaodWS4jyQRC/OgPk0R7g=="
 ---
 

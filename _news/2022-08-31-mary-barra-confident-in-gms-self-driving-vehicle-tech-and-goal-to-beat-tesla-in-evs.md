@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/08/30/mary-barra-gm-self-driving-tech-beat-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/30/mary-barra-gm-self-driving-tech-beat-tesla-evs/amp/"
 type: article
 quality: 82
-heat: 142
+heat: 132
 published: true
 
 provider:
@@ -81,20 +81,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 44
-  - title: "Musk says he wants to get Tesla's self-driving tech in wide release by year-end"
-    excerpt: "Elon Musk hopes Tesla’s self-driving technology could be in wide release in the U.S. by the end of the year, and possibly also in Europe, depending on regulatory approval."
-    publishedDateTime: 2022-08-29T13:24:00Z
-    webUrl: "https://www.autonews.com/mobility-report/why-elon-musk-thinks-he-can-get-teslas-self-driving-tech-wide-release-year-end"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 35
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Tesla%20self%20drive%20rtrs%20web_2.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Elon Musk says Tesla aims to roll out self-driving cars by year end"
     excerpt: "Tesla is aiming to have its self-driving technology ready and widely available by the end of 2022, CEO Elon Musk announced Monday. Musk made the comments during an energy conference in Norway, saying the vehicles will not need human drivers."
     publishedDateTime: 2022-08-29T19:13:00Z

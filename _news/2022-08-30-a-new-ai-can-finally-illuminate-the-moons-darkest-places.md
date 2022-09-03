@@ -7,7 +7,7 @@ originalUrl: "https://interestingengineering.com/innovation/new-ai-illuminate-mo
 webUrl: "https://interestingengineering.com/innovation/new-ai-illuminate-moons-darkest-places"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI illuminates permanently shadowed regions on the moon"
-    excerpt: "The study's findings could have direct implications for future missions, including Intuitive Machines Mission 2, which will be conducted on a commercial basis by a start-up. This robotic mission in the spring of 2023 aims to collect and analyze the first ..."
-    publishedDateTime: 2022-08-29T14:08:00Z
-    webUrl: "https://phys.org/news/2022-08-ai-illuminates-permanently-shadowed-regions.html"
-    ampWebUrl: "https://phys.org/news/2022-08-ai-illuminates-permanently-shadowed-regions.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-ai-illuminates-permanently-shadowed-regions.amp"
+  - title: "Navigate the quest for artificial intelligence"
+    excerpt: "Navigate the quest for artificial intelligence. MIT Technology Review is the go-to source for insightful and thought-provoking stories about technology and its implications in our"
+    publishedDateTime: 2022-09-02T05:56:00Z
+    webUrl: "https://www.technologyreview.com/supertopic/artificial-intelligence-featured-stories/"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 37
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/where-to-land-on-the-m.jpg"
-        width: 1286
-        height: 643
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/05/Imagen-comp.jpeg?resize=1200,600"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Permanently dark region of the Moon finally illuminated with AI help"
     excerpt: "NASA's Lunar Reconnaissance Orbiter has captured the few photons that reach into the shadowed areas of the Lunar south pole to reveal what is inside."
@@ -49,15 +47,6 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 19
-  - title: "Artemis: Artificial intelligence shines a light on the Moon’s permanently shadowed regions"
-    excerpt: "A LIGHT is being shone on the Moon's permanently shadowed regions by artificial intelligence (AI) - and the findings will be used to help identify suitable locations for future lunar missions like the Artemis programme."
-    publishedDateTime: 2022-08-30T19:03:00Z
-    webUrl: "https://www.express.co.uk/news/science/1662435/artemis-artificial-intelligence-shines-light-moon-permanently-shadowed-regions"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 7
 
 secured: "vX1Krrnakk07DTYtMAiigGw9GLfR7WZj+159QYz1v5Kq2m1nIA0tlplxhqCcCI3u9tbhWYI+w0VLKSm3103mYS5GtGn0HVQdxObNk1OO7bMNdizENkEREB6yW6AEb5OgNyE6xLkaa6zH7AmF9WA7ZICbyYWr8offy3iG+ZZH7wfi+w2GW1taYdhp7UEEoN6l0duGn73Fz7zOIQoE5CHj5JAFIr8kkpo6Bu/5fj+fbrX3tc/6XwbSI8HKGq2Hj7EGxtq/7+DDpg2edza5+aj9t3ep9tWbq7djnNOY0Nm8nSNes8hSrJZ22jGOQKJ9dt5gkxs3DeDa0PRgcLBnKKWiuSWCW0k9CHyG2TRW75EC6eI=;kfgE2C49Ta3dSAArNSSY3Q=="
 ---
