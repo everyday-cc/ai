@@ -14,14 +14,14 @@ website: http://t.co/M6c0l3S5lb
 twitter:
   username: rosalindpicard
   url: https://twitter.com/rosalindpicard
-  followers: 12384
+  followers: 12385
 
 linkedin:
   url: https://www.linkedin.com/in/rosalind-picard-0111bb/
 
 googleScholar:
   url: https://scholar.google.com/citations?user=1-hcASEAAAAJ
-  citations: 65377
+  citations: 65413
 
 topics:
   - AI
