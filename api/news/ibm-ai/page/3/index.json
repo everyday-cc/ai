@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-06-13-how-important-is-ethics-in-artificial-intelligence.md",
+      "title": "How important is ethics in artificial intelligence?",
+      "excerpt": "Artificial intelligence can assist a workforce by simplifying and automating manual tasks, but it needs to be fair and ethical.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/6GxRKqYQDGkqb3Wj",
+      "originalUrl": "https://www.itweb.co.za/content/6GxRKqYQDGkqb3Wj",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/03PcCfu86IIDErXtgvCAJqH960Ex7PoXj8kUD-mFGxuuqNtVVBiQ5pM-bLmSKphWBr47elyT-eDnVSO5tF4zyA=w816-h428",
+          "width": 761,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/6GxRKqYQDGkqb3Wj",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/6GxRKqYQDGkqb3Wj",
+      "publishedDateTime": "2022-06-13T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-06-13-massachusetts-institute-of-technology-student-powered-machine-learning.md",
       "title": "Massachusetts Institute of Technology: Student-powered machine learning",
       "excerpt": "From their early days at MIT, and even before, Emma Liu '22, MNG '22, Yo-whan “John” Kim '22, MNG '22, and Clemente Ocejo '21, MNG '22 knew they wanted to perform computational research and explore artificial intelligence and machine learning.",

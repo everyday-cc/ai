@@ -7,8 +7,8 @@ originalUrl: "https://www.biometricupdate.com/202209/us-views-ai-chips-as-indust
 webUrl: "https://www.biometricupdate.com/202209/us-views-ai-chips-as-industrial-security-and-a-treasure-not-to-be-shared-freely"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Biometric Companies
@@ -25,17 +25,6 @@ images:
     height: 1069
     isCached: true
 
-related:
-  - title: "Top 6 industries being touched and transformed by AI"
-    excerpt: "Artificial Intelligence (AI) is a human intelligent process by the means of machines or to be very specific computer systems, allowing a more enhanced version of the human mind Industries and businesses have also witnessed a huge growth in terms of capitalisation and marketing solely due to AI assistance Alexa!"
-    publishedDateTime: 2022-08-29T13:02:00Z
-    webUrl: "https://www.telegraphindia.com/edugraph/career/top-6-industries-being-touched-and-transformed-by-ai/cid/1883262"
-    type: article
-    provider:
-      name: The Telegraph
-      domain: telegraphindia.com
-    quality: 17
-
-secured: "x/WinFRZDgaLppEJ04vcx9Np3DoYIAvRWcBDeX4s07OKQCxklBwQvSakioVGE9hiJ/sm+mVuNQMr2FQ8iaI2mRcub3/kHltjJ58OeNfCkv+T2a4xomTBk7NaTTPcg1JLQbBSf19eFHydaXAkxx6VCxmKmK5n9Vvc863UZrk8yvtGreztp2Vntd7fh7MpuuCdOlVr4whOYsmzpi9VnKq7Nzx/ByH2bK562cmAObs/mSHQDeaQSzIQeCX2rAsBfH/ae8hFCKXhKiljRYRf2Phtff2eog7HGMJW1Pox3ePahMPZuz57pRdrzzjaT7gZyKhWGAd5rAfoWRkUSz+gVv7SGXSPMH2Vkc08YrVsnkOCV5M=;xn3AcoX04etfMrfT7ztbPg=="
+secured: "+jGcEBE/iRKksTE+/GqD7QQnrlYcpkpcbqgfS/AnpSeuLG/H1lTlVV0zNTkENFCLQ0i8GnMUZ+E6dJgqWgH1Kvxy4Ezgiy0N3PxBXxkD3GFE0fNaqdlA1XFaC67hTauviysgmyXlDm35hoEqLmkEkVZWFrNyqiJudYhWNoC6EwTK1pqn6Nue+fTiArBJbqkPvRaMc4+tBxJ6/fr3j0tHZPeaYuugFHxd/gKoXhWf8ekAppSTaKEYKqOET4gjGhLb9aITjS3TU6RVUsJTKRketS9MWeXxCXKFhB7WN3ltNtaQa105Xlbj3uEeUfseFa0Ik5LN6ShHHd3IN+zoYZYUQAcF1QL+UV9gCBHqevLRuYt4SU7BNmQd+7XGY0CP0kKWmepm1Z05QCJlyureuYfgdvI2t84UM57ycbGVxJWVPAnkwV8xXP3dke+t/PgD4vI9X0vAZGxZ46Km3YmvPIs79LfCxAse1SgOqdT36Tsh996L9tlgIMmSSE2awBMFJQT1WdoAyUTRYUYZX+7Ekdb0nA==;ix91BpS2fxjpw6nJoxL8MQ=="
 ---
 

@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-30-undeclared-pools-in-france-uncovered-by-ai-technology.md",
+      "title": "Undeclared pools in France uncovered by AI technology",
+      "excerpt": "The discovery of thousands of undeclared private swimming pools in France has provided an unexpected windfall for French tax authorities. Following an experiment using artificial intelligence (AI), more than 20,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-europe-62717599",
+      "originalUrl": "https://www.bbc.com/news/world-europe-62717599",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/4B27/production/_126493291_gettyimages-178924445.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/world-europe-62717599.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-europe-62717599.amp",
+      "publishedDateTime": "2022-08-29T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-googles-100-million-settlement-theres-still-time-to-see-if-youre-eligible-for-a-check.md",
+      "title": "Google's $100 Million Settlement: There's Still Time to See if You're Eligible for a Check",
+      "excerpt": "Google Photos' Face Grouping tool lets users organize images of the same person via facial recognition algorithms ... The deadline to opt out of or object to the settlement was Aug. 10. A final approval hearing for the settlement is scheduled for Sept.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/personal-finance/googles-100-million-settlement-theres-still-time-to-see-if-your-eligible-for-a-check/",
+      "originalUrl": "https://www.cnet.com/personal-finance/googles-100-million-settlement-theres-still-time-to-see-if-your-eligible-for-a-check/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/95ce5ca58f4c78b55da7303cc63a9f06721a1e3d/2022/08/25/f0a2866b-e71b-40d6-9c3d-2d0c873b3407/gettyimages-1242657903.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-100-million-settlement-theres-still-time-to-see-if-your-eligible-for-a-check/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-100-million-settlement-theres-still-time-to-see-if-your-eligible-for-a-check/",
+      "publishedDateTime": "2022-08-29T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-coauthor-stanford-experiments-with-human-ai-collaborative-writing.md",
       "title": "CoAuthor: Stanford experiments with human-AI collaborative writing",
       "excerpt": "Researchers at Stanford have been studying how humans and AI can write together by designing large interaction datasets.",
@@ -1036,25 +1139,43 @@
     {
       "path": "_news/2022-08-28-1-machine-learning-stock-down-56-to-buy-hand-over-fist.md",
       "title": "1 Machine Learning Stock Down 56% to Buy Hand Over Fist",
-      "excerpt": "Machine learning is a subfield of artificial intelligence, and it's primarily used to make sense of mountains of data to deliver valuable insights to the end user. Thanks to companies like Splunk (NASDAQ: SPLK),",
+      "excerpt": "Splunk sees an opportunity in the machine learning industry, which is growing at 44% annually. Splunk is in the midst of a transformative shift to offer its services in the cloud to make them more ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/1-machine-learning-stock-down-56-to-buy-hand-over-fist",
-      "originalUrl": "https://www.nasdaq.com/articles/1-machine-learning-stock-down-56-to-buy-hand-over-fist",
+      "webUrl": "https://www.fool.com/investing/2022/08/28/machine-learning-stock-down-56-buy-hand--over-fist/",
+      "originalUrl": "https://www.fool.com/investing/2022/08/28/machine-learning-stock-down-56-buy-hand--over-fist/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/698259/a-person-working-on-a-digital-dashboard-analyzing-data.jpg",
+          "width": 5760,
+          "height": 3240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/1-machine-learning-stock-down-56-to-buy-hand-over-fist?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/1-machine-learning-stock-down-56-to-buy-hand-over-fist?amp",
-      "publishedDateTime": "2022-08-28T04:15:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-28T04:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1063,8 +1184,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1115,101 +1237,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-28-one-mans-dream-of-fusing-ai-with-common-sense.md",
-      "title": "One Man’s Dream of Fusing A.I. With Common Sense",
-      "excerpt": "Artificial intelligence systems can process vast amounts of data in seconds, but they can’t make sense of the world or explain their decisions. David Ferrucci wants to change that.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/08/28/business/ai-artificial-intelligence-david-ferrucci.html",
-      "originalUrl": "https://www.nytimes.com/2022/08/28/business/ai-artificial-intelligence-david-ferrucci.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/08/13/business/00-AI-Ferrucci-01/00-AI-Ferrucci-01-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/08/28/business/ai-artificial-intelligence-david-ferrucci.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/08/28/business/ai-artificial-intelligence-david-ferrucci.amp.html",
-      "publishedDateTime": "2022-08-28T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-28-google-sued-over-access-to-millions-of-nhs-blood-tests.md",
-      "title": "Google sued over access to millions of NHS blood tests",
-      "excerpt": "DeepMind, which was bought by Google in 2014, may have been handed the results of blood tests that were “processed by the Royal Free London NHS Foundation Trust laboratories” according to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/business/2022/08/28/google-sued-access-millions-nhs-blood-tests/",
-      "originalUrl": "https://www.telegraph.co.uk/business/2022/08/28/google-sued-access-millions-nhs-blood-tests/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/business/2022/08/26/TELEMMGLPICT000306217278_trans_NvBQzQNjv4BqA7N2CxnJWnYI3tCbVBgu9T0aesusvN1TE7a0ddd_esI.jpeg?impolicy=logo-overlay",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-28T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

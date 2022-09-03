@@ -2,6 +2,170 @@
   "page": 89,
   "value": [
     {
+      "path": "_news/2022-06-22-adelaide-city-council-votes-against-purchasing-facial-recognition-software-for-city-security-cameras.md",
+      "title": "Adelaide City Council votes against purchasing facial recognition software for city security cameras",
+      "excerpt": "Police have refused to speculate whether they would invest in facial recognition software after Adelaide City Council voted unanimously not to include the technology in new security cameras being installed across the CBD. Adelaide City Council is due to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.abc.net.au/news/2022-06-22/adelaide-city-council-votes-no-to-facial-recognition-in-cctv/101172924",
+      "originalUrl": "https://www.abc.net.au/news/2022-06-22/adelaide-city-council-votes-no-to-facial-recognition-in-cctv/101172924",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://live-production.wcms.abc-cdn.net.au/fb369f7e109175142e930c5c6200fb72?impolicy=wcms_crop_resize&cropH=330&cropW=587&xPos=103&yPos=38&width=862&height=485",
+          "width": 587,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.abc.net.au/article/101172924",
+      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101172924",
+      "publishedDateTime": "2022-06-21T19:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Australian Broadcasting Corporation",
+        "domain": "abc.net.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-what-would-a-sentient-conscious-robot-mean-for-humans.md",
+      "title": "What would a sentient, conscious robot mean for humans?",
+      "excerpt": "A Google engineer claimed an AI software of theirs became sentient. Now there is debate on if these sentient machines have a place in the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedenverchannel.com/news/national/what-would-a-sentient-conscious-robot-mean-for-humans",
+      "originalUrl": "https://www.thedenverchannel.com/news/national/what-would-a-sentient-conscious-robot-mean-for-humans",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newsy.com/images/videos/m/1655851252_oKWgGT.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thedenverchannel.com/news/national/what-would-a-sentient-conscious-robot-mean-for-humans?_amp=true",
+      "cdnAmpWebUrl": "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national/what-would-a-sentient-conscious-robot-mean-for-humans?_amp=true",
+      "publishedDateTime": "2022-06-21T19:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "7News and TheDenverChannel.com",
+        "domain": "thedenverchannel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-siberian-federal-university-sibfu-student-has-taught-artificial-intelligence-to-understand-sign-language.md",
+      "title": "Siberian Federal University: SibFU Student Has Taught Artificial Intelligence to Understand Sign Language",
+      "excerpt": "Vladislava Zhukovskaya, a student of the School of Space and Information Technology at Siberian Federal University, has developed a method for recognizing Russian sign language gestures from video sequences,",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/siberian-federal-university-sibfu-student-has-taught-artificial-intelligence-to-understand-sign-language/",
+      "originalUrl": "https://indiaeducationdiary.in/siberian-federal-university-sibfu-student-has-taught-artificial-intelligence-to-understand-sign-language/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T17:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-aws-summit-online-2021-90-sessions-to-help-startups-leverage-the-cloud-to-scale-up.md",
+      "title": "AWS Summit Online 2021: 90+ Sessions To Help Startups Leverage The Cloud To Scale Up",
+      "excerpt": "AWS Deepracer league: AWS is organising a global competition for machine-learning enthusiasts to participate in an online workshop. The developers can chat with ML experts to improve their skills ...",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/features/aws-summit-online-2021-90-sessions-to-help-startups-to-scale-up/",
+      "originalUrl": "https://inc42.com/features/aws-summit-online-2021-90-sessions-to-help-startups-to-scale-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2021/06/AWS-Online-Summit-2021-social-1.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/features/aws-summit-online-2021-90-sessions-to-help-startups-to-scale-up/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/features/aws-summit-online-2021-90-sessions-to-help-startups-to-scale-up/amp/",
+      "publishedDateTime": "2022-06-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-perimeter-medical-imaging-ai-appoints-artificial-intelligence-leader-anantha-kancherla-to-board-of-directors.md",
       "title": "Perimeter Medical Imaging AI Appoints Artificial Intelligence Leader Anantha Kancherla to Board of Directors",
       "excerpt": "His pioneering experience applying artificial intelligence and machine learning software ... Mr. Kancherla led the Level5 software team responsible for building the self-driving car. Mr. Kancherla previously worked on Windows at Microsoft focusing on ...",
@@ -959,191 +1123,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-are-future-humans-doomed-to-be-replaced-by-artificial-intelligence.md",
-      "title": "Are Future Humans Doomed To Be Replaced By Artificial Intelligence?",
-      "excerpt": "Are we just wetware, natural computers doomed to obsolescence by tomorrow’s ultra-powerful artificial intelligence? A pioneer in computing intelligence says “no way.” Robert J. Marks, II newest book,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-c23440f01a223c0f005241e6af9c6ca4",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-c23440f01a223c0f005241e6af9c6ca4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-googles-ai-is-something-even-stranger-than-conscious.md",
-      "title": "Google’s AI Is Something Even Stranger Than Conscious",
-      "excerpt": "LaMDA is no more conscious than a pocket calculator. More importantly, the silly fantasy of machine sentience has once again been allowed to dominate the artificial-intelligence conversation when much stranger and richer,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/technology/archive/2022/06/google-palm-ai-artificial-consciousness/661329/",
-      "originalUrl": "https://www.theatlantic.com/technology/archive/2022/06/google-palm-ai-artificial-consciousness/661329/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/1RcywjNbiaw9JpLVBsnfMv2osqs=/0x51:2396x1299/1200x625/media/img/mt/2022/06/GettyImages_515342070/original.jpg",
-          "width": 1200,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-engineers-build-artificial-intelligence-chip.md",
-      "title": "Engineers build artificial intelligence chip",
-      "excerpt": "In a recent study published in Nature Electronics, engineers built a new artificial intelligence chip, with a view toward sustainable, modular electronics. The chip can be reconfigured, with layers that can be swapped out or stacked on, such as to add new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.labroots.com/trending/technology/23006/engineers-build-artificial-intelligence-chip-2",
-      "originalUrl": "https://www.labroots.com/trending/technology/23006/engineers-build-artificial-intelligence-chip-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.labroots.com/_public/_files/system/ck/trending/FEATURED%20IMAGE_c0bef8cb9b3c1e676ec10f2430385b83.jpg",
-          "width": 347,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.labroots.com/trending/technology/23006/engineers-build-artificial-intelligence-chip-2/amp",
-      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/23006/engineers-build-artificial-intelligence-chip-2/amp",
-      "publishedDateTime": "2022-06-21T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Labroots",
-        "domain": "labroots.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-botz-a-strong-cocktail-of-robotics-and-ai-for-the-long-term.md",
-      "title": "BOTZ: A Strong Cocktail Of Robotics And AI For The Long Term",
-      "excerpt": "With its exposure to high valuation IT and industrial stocks, BOTZ has suffered from considerable downside from the start of this year. Learn more here.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4519507-botz-a-strong-cocktail-of-robotics-and-ai-for-the-long-term",
-      "originalUrl": "https://seekingalpha.com/article/4519507-botz-a-strong-cocktail-of-robotics-and-ai-for-the-long-term",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1314271305/image_1314271305.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

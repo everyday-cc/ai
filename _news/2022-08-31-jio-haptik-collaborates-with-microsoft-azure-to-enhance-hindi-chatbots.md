@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcquest.com/jio-haptik-collaborates-with-microsoft-azure
 cdnAmpWebUrl: "https://www-pcquest-com.cdn.ampproject.org/c/s/www.pcquest.com/jio-haptik-collaborates-with-microsoft-azure-to-enhance-hindi-chatbots/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://th-i.thgim.com/public/incoming/vl3ctm/article65833106.ece/alternates/LANDSCAPE_615/IMG_BL04_FlightInvite_2_1_089LQLRQ.jpg"
         width: 615
         height: 383
+        isCached: true
+  - title: "Turning Drive Time into Thrive Time: Cerence Collaborates with Microsoft to Bring Teams to On-the-Go Professionals in Their Cars"
+    excerpt: "By bringing relevant Azure Communication Services components into the car via a voice-first user experience, Cerence enables drivers to supercharge their in-car travel time, transforming the car into a workstation on wheels where meetings and communications are intertwined with a safe,"
+    publishedDateTime: 2022-08-30T12:03:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/cerence-inc-33d47064bbf1742a07e238613e7a5901"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 10
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "IGM Financial Announces New Collaboration with Microsoft to Deliver Next-Generation Financial Services to Canadians"
     excerpt: "IGM has chosen Microsoft Azure as a key provider of public cloud services to enable its digital infrastructure strategy, empower the creation of innovative solutions, and provide"

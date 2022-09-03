@@ -1,23 +1,27 @@
 ---
 category: news
 title: "VTEX Receives Industry Recognition While Seeing Continued Customer Momentum and Success"
-excerpt: "VTEX Adds and Expands US and Global Customers, Hosts 230+ Successful Live Shopping Events in Q2 NEW YORK, Sept. 1, 2022 /PRNewswire/ -- VTEX (NYSE: VTEX), the global digital commerce platform for premier brands and retailers,"
-publishedDateTime: 2022-09-01T14:17:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/business-0c87e64801eddf998fff1cf72c4bb53a"
-webUrl: "https://apnews.com/press-release/pr-newswire/business-0c87e64801eddf998fff1cf72c4bb53a"
+excerpt: "Named a Visionary in 2022 Gartner® Magic Quadrant™ for Digital Commerce. VTEX Adds and Expands US and Global Customers, Hosts 230+ Successful"
+publishedDateTime: 2022-09-01T13:45:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/vtex-receives-industry-recognition-while-seeing-continued-customer-momentum-and-success-1031719435"
+webUrl: "https://markets.businessinsider.com/news/stocks/vtex-receives-industry-recognition-while-seeing-continued-customer-momentum-and-success-1031719435"
 type: article
-quality: 0
-heat: 0
+quality: 26
+heat: 26
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "bgd0FyMOESJbcD7Fm+s4PcZ90JMqe1ZhVsOojcgTzP8WbqzR6NoCkrC2YbAsVIWSc1X6KQT2sPmYCT13OTDaKcc4HnFknYo5+GrhJZH/oF6jHbv/KDJ/cnhXS/6k1D9fgRvMSihAZ2fmQJ+zEDhzKMZ/ZIVQbC3V+ucktfHI9JrFlSVbAbHvQikQjgMO3zllqk/vIk+RI7rXCdbQ2Rk8wl743rRfJ9qnse/B05pibEsb9xnRlwFskhKf0ZuErXj0exgXXxj/JeRXXrvUJ6IPBGlrvVqJPgIDwfI1whhY+uhxsmCxXPzffW8EzMBFA+qPchDDhHOs3CCsOcH2tfZOvr4N/n0EW6VS8OyXL8xoCLE=;HoGXZnwrJHykJjol1E3j/A=="
+secured: "Bu3VcclNrQkzK0on9OHs1zhg4kB2lUsFqcMyqqGiLuKQRrvAmJuCTT0r+zF6hnpJEDDWKgz2GTEjZW7f4UGlk67yrWWvmLKZqoYnDmKalIRcKq9FxYIUL1W5LsimHCqDdEhs1zh9n+n6HNkCvj87mEXa3SmHYteXxQt3uYEAKdXhjRz3ACA91Rks033kjoeO3ZAj1XcLFF+Y6LjS5renyrmbd1Z646+TI9fUvbgpP4LJCOSnJt0s6ft3lWY4mYwMLF82GPV9lHyhtGiFkDvGlJ7DmAtzurFtnQjxVcXUQaSyVNVLRHljbN6A3POE/RpLc6/YMWbtC6NmOsO7CkAeDN0ZBjFk66UuOJIdsHdkN1M=;9iWPEtxY1fBjaKaFmIheYg=="
 ---
 

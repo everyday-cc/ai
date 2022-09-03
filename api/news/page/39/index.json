@@ -2,6 +2,178 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2022-08-01-ai-in-fintech-market-to-reach-6130-billion-globally-by-2031-at-225-cagr-allied-market-research.md",
+      "title": "AI in Fintech Market to Reach $61.30 Billion, Globally, by 2031 at 22.5% CAGR: Allied Market Research",
+      "excerpt": "Allied Market Research published a report, titled, ' AI in Fintech Market by Component (Solution, Services), by Deployment Mode (On-premise, Cloud), by Application (Virtual Assistants (Chatbots), Business Analytics and Reporting,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-ai-fintech-market-reach-6130-billion-globally-2031-/2022/08/01/9647909.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-ai-fintech-market-reach-6130-billion-globally-2031-/2022/08/01/9647909.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-01-money-keeps-raining-down-from-the-aws-cloud.md",
+      "title": "Money Keeps Raining Down From The AWS Cloud",
+      "excerpt": "AWS should surpass Lenovo this year and Dell before too long, and over the longest of hauls AWS has a good chance to catch Microsoft; it has already blown by IBM, Hewlett Packard Enterprise, and Cisco Systems. A lot depends on where you want to draw the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2022/08/01/money-keeps-raining-down-from-the-aws-cloud/",
+      "originalUrl": "https://www.nextplatform.com/2022/08/01/money-keeps-raining-down-from-the-aws-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/aws-datacenter-racks.jpg",
+          "width": 746,
+          "height": 489,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2022/08/01/money-keeps-raining-down-from-the-aws-cloud/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/08/01/money-keeps-raining-down-from-the-aws-cloud/amp/",
+      "publishedDateTime": "2022-08-01T05:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-01-uipath-acquires-reinfer-bringing-natural-language-processing-to-enhance-everyday-customer-conversations-through-automation.md",
+      "title": "UiPath Acquires Re:infer Bringing Natural Language Processing to Enhance Everyday Customer Conversations Through Automation",
+      "excerpt": "Leading enterprise automation software company, UiPath (NYSE: PATH), today announced it has acquired Re:infer, a London-based natural language processing (NLP) company for unstructured documents and communications.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-e7387ed4fd5c4d83837ba78a0ee38411",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-e7387ed4fd5c4d83837ba78a0ee38411",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-01-can-artificial-intelligence-really-help-us-talk-to-the-animals.md",
+      "title": "Can artificial intelligence really help us talk to the animals?",
+      "excerpt": "to decode non-human communication using a form of artificial intelligence (AI) called machine learning, and make all the knowhow publicly available, thereby deepening our connection with other ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/science/2022/jul/31/can-artificial-intelligence-really-help-us-talk-to-the-animals",
+      "originalUrl": "https://www.theguardian.com/science/2022/jul/31/can-artificial-intelligence-really-help-us-talk-to-the-animals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T04:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-01-how-long-can-cognitive-impairment-persist-after-hospitalization-due-to-covid-19.md",
       "title": "How long can cognitive impairment persist after hospitalization due to COVID-19?",
       "excerpt": "In a recent study published in the Open Forum Infectious Diseases journal, researchers examined the aspects of cognitive impairment after hospitalization due to coronavirus disease 2019 (COVID-19).",
@@ -983,168 +1155,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-31-diagnostic-robotics-raises-45m-in-series-b-funding-round.md",
-      "title": "Diagnostic Robotics Raises $45M In Series B Funding Round",
-      "excerpt": "The Israeli company that develops AI technologies for the healthcare industry has raised $45 million in a Series B funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://nocamels.com/2022/07/diagnostic-robotics-raises-45m-funding/",
-      "originalUrl": "https://nocamels.com/2022/07/diagnostic-robotics-raises-45m-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2020/04/Diagnostic-Robotics-e1659255666908.jpg",
-          "width": 1500,
-          "height": 757,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-31T01:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NoCamels - Israeli Innovation News",
-        "domain": "nocamels.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-31-how-dewa-uses-ai-to-monitor-cyberattacks-leaks-and-faults.md",
-      "title": "How DEWA uses AI to monitor cyberattacks, leaks and faults",
-      "excerpt": "Dubai: Dubai Electricity and Water Authority (DEWA) has developed several innovations using Artificial Intelligence (AI) to improve the efficiency of operations in Dubai’s water network, monitor cyberattacks,",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/uae/how-dewa-uses-ai-to-monitor-cyberattacks-leaks-and-faults-1.89626002",
-      "originalUrl": "https://gulfnews.com/uae/how-dewa-uses-ai-to-monitor-cyberattacks-leaks-and-faults-1.89626002",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2022/03/31/STOCK-DEWA--_17fe08691f3_medium.jpeg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/uae/how-dewa-uses-ai-to-monitor-cyberattacks-leaks-and-faults-1.89626002",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/how-dewa-uses-ai-to-monitor-cyberattacks-leaks-and-faults-1.89626002",
-      "publishedDateTime": "2022-07-30T22:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-31-facebook-engineers-panic-pull-plug-on-ai-after-bots-develop-their-own-language.md",
-      "title": "Facebook engineers panic, pull plug on AI after bots develop their own language",
-      "excerpt": "Facebook engineers were forced to pull the plug on one of the company’s AI systems after its bots began communicating with each other in a completely new language which humans simply couldn’t ...",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/science/facebook-ai-shutdown-language/",
-      "originalUrl": "https://bgr.com/science/facebook-ai-shutdown-language/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bgr.com/wp-content/uploads/2016/02/facebooklogo.jpg?quality=82&strip=all",
-          "width": 1368,
-          "height": 1022,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bgr.com/science/facebook-ai-shutdown-language/amp/",
-      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/science/facebook-ai-shutdown-language/amp/",
-      "publishedDateTime": "2022-07-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-31-persistent-loss-of-smell-due-to-covid-19-closely-connected-to-long-lasting-cognitive-problems.md",
-      "title": "PERSISTENT LOSS OF SMELL DUE TO COVID-19 CLOSELY CONNECTED TO LONG-LASTING COGNITIVE PROBLEMS",
-      "excerpt": "\"As this virus will likely be with us for a long time, identifying the risk and protective factors for cognitive symptoms can assist with the treatment and prevention of 'long COVID' moving forward.\"",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1268576&cat=PR News Wire",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1268576&cat=PR News Wire",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

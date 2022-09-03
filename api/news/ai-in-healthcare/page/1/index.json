@@ -54,7 +54,7 @@
       "originalUrl": "https://techxplore.com/news/2022-09-artificial-intelligence-decisions.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -86,7 +86,8 @@
       "topics": [
         "AI",
         "AI in Healthcare",
-        "Machine Learning"
+        "Machine Learning",
+        "AI in Autos"
       ]
     },
     {
@@ -140,6 +141,59 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-09-02-four-ways-voice-recognition-will-improve-healthcare.md",
+      "title": "Four Ways Voice Recognition Will Improve Healthcare",
+      "excerpt": "The severe stress our health system endured restricted its capacity to respond as fully and quickly as it may have in the pre-pandemic era. Thus, consumers often looked elsewhere to find answers to their pressing questions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/02/four-ways-voice-recognition-will-improve-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/02/four-ways-voice-recognition-will-improve-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6310bd9b5bc94a00b06398ad/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/02/four-ways-voice-recognition-will-improve-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/02/four-ways-voice-recognition-will-improve-healthcare/amp/",
+      "publishedDateTime": "2022-09-02T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1406,52 +1460,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-machine-learning-in-healthcare-market-next-big-thing-major-giants-deepmind-technologies-microsoft-nvidia-intel.md",
-      "title": "Machine Learning in Healthcare Market Next Big Thing | Major Giants DeepMind Technologies, Microsoft, NVIDIA, Intel",
-      "excerpt": "Advance Market Analytics published a new research publication on “Machine Learning in Healthcare Market Insights, to 2027” with 232 pages and enriched with self-explained Tables and charts in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/machine-learning-in-healthcare-market-next-big-thing-major-giants-deepmind-technologies-microsoft-nvidia-intel",
-      "originalUrl": "https://www.digitaljournal.com/pr/machine-learning-in-healthcare-market-next-big-thing-major-giants-deepmind-technologies-microsoft-nvidia-intel",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/ab7f3269651c1b7147d1916b39da6c740fd66e6c-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare",
-        "Microsoft AI"
       ]
     }
   ],

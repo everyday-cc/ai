@@ -36,7 +36,7 @@ related:
     provider:
       name: techxplore
       domain: techxplore.com
-    quality: 76
+    quality: 78
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/how-artificial-intelli-1.jpg"
         width: 1607

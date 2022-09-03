@@ -43,6 +43,15 @@ related:
         width: 350
         height: 233
         isCached: true
+  - title: "International Web3 Startup ParallelOffice is Raising a Seed Round Of Funds To Launch Their Revolutionary Business Metaverse"
+    excerpt: "Fondly regarded as the next-gen evolution of work from home, ParallelOffice web3 platform combines VR, AI and Blockchain technologies to create a virtual reality 3d office that allows users to be more productive,"
+    publishedDateTime: 2022-09-03T00:00:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/etrendy-2022-9-2-international-web3-startup-paralleloffice-is-raising-a-seed-round-of-funds-to-launch-their-revolutionary-business-metaverse"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "Id57SynqljlS9YG0jeHbSAnl4S6t1cohdxdb8WqpuW0TybPKYMhjA5CUN+vPbe88vUWnijSGjaUvKD49uXsdHVz7IWA/RWH1BKUyEllyYrOKZQEkJWhRpaiDyozt9LqOKEnDi0mnP1aIVaRxVRJJIvTtmcS3nbaMQeupvhmCn3/bsCDVNyUmcukD7hDq/W08LomUhz5iPBUvOGDVIs/aI7wm8B3h4eIAPvndrqcetIx2XXFEQecGURF8WJMlGwN17Wpnn+ouai6pxz1R0kuSuHcgRN0mksMFpHhGDh6hm7EBYVm+mh4SYvgWgsnfX340tG7aSk6suvPLMcmGnXWNyA71JLr/viAUYpouKXyMwsUJJCNiZPN+QTPPJMkAHYDoRF34OR4OBP86ub9JeLYqFUTwtkMY7SJnKiMqJF/DapVrRZRK1R+uvBHESuA1qK4qk7UERVrdc7uzc0cXbIKAXdmBJ1YgrxLtymf799ezZk0rMHXwAR2Eh9HzuEwua7je0si1Xn3cCzi08lo0VnF1Ow==;gBVR8Zgs42l8h+XTYYSBew=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-worth-usd-832527-million-by-2027-the-insight-partners-2022-08-30"
 type: article
 quality: 72
-heat: 132
+heat: 122
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://eturbonews.com/wp-content/uploads/2019/08/cropped-etn-logo2.jpg"
         width: 512
         height: 512
-        isCached: true
-  - title: "Artificial Intelligence Chip Market is Slated to Witness Tremendous Revenue Growth of US$ 83,252.7 million by 2027- The Insight Partners"
-    excerpt: "Latest market study on “Artificial Intelligence Chip Market to 2027 – Global Analysis and Forecasts by Segment (Data"
-    publishedDateTime: 2022-08-29T05:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-is-slated-to-witness-tremendous-revenue-growth-of-us-832527-million-by-2027--the-insight-partners-2022-08-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Wireless Connectivity Market worth USD 127,880.0 Mn by 2027 – Exclusive Research by The Insight Partners"
     excerpt: "According to The Insight Partners' research, the Wireless connectivity Market to 2027 – Global Analysis and Forecasts"

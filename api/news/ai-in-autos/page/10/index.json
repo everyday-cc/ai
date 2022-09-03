@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-06-30-waymo-opens-a-new-self-driving-trucking-hub-in-lancaster.md",
+      "title": "Waymo opens a new self-driving trucking hub in Lancaster",
+      "excerpt": "Workers are spread across the trucking hub, some doing maintenance on the self-driving Waymo Via big rig technology and others cleaning the exterior or monitoring other operations. When the facility is in full operation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.dallasnews.com/business/autos/2022/06/29/waymo-opens-a-new-self-driving-trucking-hub-in-lancaster/",
+      "originalUrl": "https://www.dallasnews.com/business/autos/2022/06/29/waymo-opens-a-new-self-driving-trucking-hub-in-lancaster/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/I3ZJpQ8RKNjwwQTVFERFUkW1z-g=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/GL4BTWS6TVE63IINRYM7KYHAW4.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dallasnews.com/business/autos/2022/06/29/waymo-opens-a-new-self-driving-trucking-hub-in-lancaster/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/autos/2022/06/29/waymo-opens-a-new-self-driving-trucking-hub-in-lancaster/?outputType=amp",
+      "publishedDateTime": "2022-06-29T21:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dallas Morning News",
+        "domain": "dallasnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-30-new-system-allows-self-driving-cars-to-make-more-human-decisions.md",
       "title": "New System Allows Self-Driving Cars to Make More Human Decisions",
       "excerpt": "(Image source: Chelsea Turner) A team of scientists at MIT have created a system using simple maps and visual data to enable driverless cars to navigate ... director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) and a professor ...",
@@ -1245,40 +1288,6 @@
       "provider": {
         "name": "Middle East North Africa Financial Network",
         "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-can-we-make-artificial-intelligence-less-racist.md",
-      "title": "Can we make artificial intelligence less racist?",
-      "excerpt": "Three years ago, a Georgia Tech study uncovered a major flaw in self-driving vehicles ... were testing how accurately the vehicles’ artificial intelligence–based object detection models ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thespec.com/ts/business/mars/2022/06/22/can-we-make-artificial-intelligence-less-racist.html",
-      "originalUrl": "https://www.thespec.com/ts/business/mars/2022/06/22/can-we-make-artificial-intelligence-less-racist.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hamilton Spectator",
-        "domain": "thespec.com",
         "images": null,
         "publishers": null,
         "authors": null

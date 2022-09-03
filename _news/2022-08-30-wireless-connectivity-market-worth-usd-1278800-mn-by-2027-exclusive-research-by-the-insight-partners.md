@@ -57,20 +57,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Artificial Intelligence Chip Market is Slated to Witness Tremendous Revenue Growth of US$ 83,252.7 million by 2027- The Insight Partners"
-    excerpt: "Latest market study on “Artificial Intelligence Chip Market to 2027 – Global Analysis and Forecasts by Segment (Data"
-    publishedDateTime: 2022-08-29T05:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-is-slated-to-witness-tremendous-revenue-growth-of-us-832527-million-by-2027--the-insight-partners-2022-08-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global AI-Enabled X-Ray Imaging Solutions Market Worth $ 508.32 Million By 2030-Report By Insightace Analytic"
     excerpt: "Global AI-Enabled X-Ray Imaging Solutions Market info. Global AI-Enabled X-Ray Imaging Solutions Market seg. Global AI-Enabled X-Ray Imaging Solutions Mark"
     publishedDateTime: 2022-08-29T10:55:00Z

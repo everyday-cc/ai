@@ -10,7 +10,7 @@
       "originalUrl": "https://techxplore.com/news/2022-09-artificial-intelligence-decisions.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -42,7 +42,60 @@
       "topics": [
         "AI",
         "AI in Healthcare",
-        "Machine Learning"
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-02-ai-software-the-bridge-from-data-to-insights.md",
+      "title": "AI software: The bridge from data to insights",
+      "excerpt": "These might include AI analytics toolkits, development and deployment toolkits, end-to-end distributed AI toolkits, reference toolkits and AutoML toolkits. Also: domain specific toolkits ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-software-the-bridge-from-data-to-insights/",
+      "originalUrl": "https://venturebeat.com/ai/ai-software-the-bridge-from-data-to-insights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1293487802-I-am-3D-animator-artist.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-software-the-bridge-from-data-to-insights/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-software-the-bridge-from-data-to-insights/amp/",
+      "publishedDateTime": "2022-09-01T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -683,25 +736,43 @@
     {
       "path": "_news/2022-08-28-1-machine-learning-stock-down-56-to-buy-hand-over-fist.md",
       "title": "1 Machine Learning Stock Down 56% to Buy Hand Over Fist",
-      "excerpt": "Machine learning is a subfield of artificial intelligence, and it's primarily used to make sense of mountains of data to deliver valuable insights to the end user. Thanks to companies like Splunk (NASDAQ: SPLK),",
+      "excerpt": "Splunk sees an opportunity in the machine learning industry, which is growing at 44% annually. Splunk is in the midst of a transformative shift to offer its services in the cloud to make them more ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/1-machine-learning-stock-down-56-to-buy-hand-over-fist",
-      "originalUrl": "https://www.nasdaq.com/articles/1-machine-learning-stock-down-56-to-buy-hand-over-fist",
+      "webUrl": "https://www.fool.com/investing/2022/08/28/machine-learning-stock-down-56-buy-hand--over-fist/",
+      "originalUrl": "https://www.fool.com/investing/2022/08/28/machine-learning-stock-down-56-buy-hand--over-fist/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/698259/a-person-working-on-a-digital-dashboard-analyzing-data.jpg",
+          "width": 5760,
+          "height": 3240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/1-machine-learning-stock-down-56-to-buy-hand-over-fist?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/1-machine-learning-stock-down-56-to-buy-hand-over-fist?amp",
-      "publishedDateTime": "2022-08-28T04:15:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-28T04:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -710,8 +781,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1392,60 +1464,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-assembly-ai-offers-ai-as-a-service-api-to-ease-model-development.md",
-      "title": "Assembly AI offers AI-as-a-service API to ease model development",
-      "excerpt": "Offered as an AI-as-a-service model, Assembly AI's latest APIs can perform various tasks ranging from summarization and content moderation to topic detection.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/assembly-ai-offers-ai-as-a-service-api-to-ease-model-development/",
-      "originalUrl": "https://venturebeat.com/ai/assembly-ai-offers-ai-as-a-service-api-to-ease-model-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/Assembly-AI.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/assembly-ai-offers-ai-as-a-service-api-to-ease-model-development/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/assembly-ai-offers-ai-as-a-service-api-to-ease-model-development/amp/",
-      "publishedDateTime": "2022-08-23T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware",
-        "Machine Learning"
       ]
     }
   ],

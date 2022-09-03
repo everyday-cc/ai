@@ -45,6 +45,59 @@
       ]
     },
     {
+      "path": "_news/2022-09-02-four-ways-voice-recognition-will-improve-healthcare.md",
+      "title": "Four Ways Voice Recognition Will Improve Healthcare",
+      "excerpt": "The severe stress our health system endured restricted its capacity to respond as fully and quickly as it may have in the pre-pandemic era. Thus, consumers often looked elsewhere to find answers to their pressing questions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/02/four-ways-voice-recognition-will-improve-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/02/four-ways-voice-recognition-will-improve-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6310bd9b5bc94a00b06398ad/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/02/four-ways-voice-recognition-will-improve-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/02/four-ways-voice-recognition-will-improve-healthcare/amp/",
+      "publishedDateTime": "2022-09-02T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-09-02-financial-language-and-the-evolution-of-speech-recognition-technology.md",
       "title": "Financial language and the evolution of speech recognition technology",
       "excerpt": "By Katy Wigdahl, CEO, Speechmatics Due to its long heritage and diverse spread of legacy technologies, it can be challenging to integrate new technological developments into the financial industry. But by not doing so,",
@@ -96,7 +149,7 @@
       "originalUrl": "https://www.forbes.com/sites/ganeskesari/2022/08/31/how-ai-is-helping-anonymize-clinical-trial-submissions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -971,19 +1024,19 @@
     {
       "path": "_news/2022-08-23-language-translation-device-market-to-hit-usd-25-bn-by-2030-says-global-market-insights-inc.md",
       "title": "Language Translation Device Market to hit USD 2.5 Bn by 2030, Says Global Market Insights Inc.",
-      "excerpt": "The language translation device market is expected to reach a valuation of USD 2.5 billion by 2030, as reported in a research study by",
+      "excerpt": "Major language translation device market participants include Sourcenext Inc., Jarvisen (iFLYTEK), Cheetah Mobile, Inc., Vasco Electronics LLC, Waverly Labs Inc., and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/language-translation-device-market-to-hit-usd-2-5-bn-by-2030-says-global-market-insights-inc--875237142.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/language-translation-device-market-to-hit-usd-2-5-bn-by-2030-says-global-market-insights-inc--875237142.html",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/08/n28596363/language-translation-device-market-to-hit-usd-2-5-bn-by-2030-says-global-market-insights-inc",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/08/n28596363/language-translation-device-market-to-hit-usd-2-5-bn-by-2030-says-global-market-insights-inc",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1883515/Language_Translation_Device_Market.jpg?p=facebook",
-          "width": 1200,
-          "height": 628,
+          "url": "https://mma.prnewswire.com/media/1883515/Language_Translation_Device_Market.jpg",
+          "width": 400,
+          "height": 209,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -991,13 +1044,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T03:15:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28596363",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28596363",
+      "publishedDateTime": "2022-08-23T03:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1373,40 +1426,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-natural-language-processing-market-nlp-demands-key-players-size-growth-trends-technology-and-forecasts-to-2027-reportsnreports.md",
-      "title": "Natural Language Processing Market (NLP) Demands, Key Players, Size, Growth, Trends, Technology and Forecasts to 2027 - ReportsnReports",
-      "excerpt": "PUNE, India, Aug. 19, 2022 /PRNewswire/ -- ReportsnReports added Global Natural Language Processing (NLP) Market Report to its research database with its 336 no. of research pages report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/natural-language-processing-market-nlp-demands-key-players-size-growth-trends-technology-and-forecasts-to-2027-reportsnreports-807719247.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/natural-language-processing-market-nlp-demands-key-players-size-growth-trends-technology-and-forecasts-to-2027-reportsnreports-807719247.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T01:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

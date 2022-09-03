@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Chinook Indian Nation members rally for federal recognition"
-excerpt: "Members of the Chinook Indian Nation rallied on Monday on the steps of a federal building in Seattle to raise awareness for their long fight to get federal recognition. Chairman Tony Johnson, whose tribal name is Naschio,"
-publishedDateTime: 2022-08-30T19:34:00Z
-originalUrl: "https://www.opb.org/article/2022/08/30/chinook-indian-nation-seattle-rally-federal-recognition/"
-webUrl: "https://www.opb.org/article/2022/08/30/chinook-indian-nation-seattle-rally-federal-recognition/"
+excerpt: "Federal recognition would mean access to federal dollars for healthcare and housing for this group of tribes, which are based in Southwestern Washington."
+publishedDateTime: 2022-08-30T22:10:00Z
+originalUrl: "https://www.mlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html"
+webUrl: "https://www.mlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html"
+ampWebUrl: "https://www.mlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html?outputType=amp"
+cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html?outputType=amp"
 type: article
-quality: 4
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: OPB
-  domain: opb.org
+  name: MLive
+  domain: mlive.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LMMPTFFNCBH4FLHLG5BPF5DKTI.JPG"
+    width: 5184
+    height: 3456
+    isCached: true
 
 related:
   - title: "Behind Indian Government Supported AI & Robotics Innovation Firm"
@@ -45,6 +53,6 @@ related:
       domain: q13fox.com
     quality: 24
 
-secured: "pYDQTJrvqRggNvVBJraPaDK4pp3AXT9Ihwvivsi8/HOfQUjbBMLIHAC2SQWqm6CSCCh6Vl2AnoUvKvq78n1X9YMyB3xyLlBVOWaUo0bRQ6Y3/Xci5IYMAuRXXmrI5YktfbC5QwoV1phkXkvjcCZQOj+BrsOQ2LlOZHZsd0NRoSYdi5WtATpTwXH3E8yaTGDilcOj2ZWNIeg6mYasMbFfW/ebVhfbdwDeaHrTQyEpsEBC4y1A01DldvYUIXHS40gDsv7l1gj0k4yzZCDjZN9LC/g8K3yvEjzwDo6lriyrJT1SCOaNH1KfxWn1Amk5JirwheB2/iaKTKCacH/Zb1lEXmGVCCJmuvD7rYx9a8jG7MnOtQE2IuL3XMvoYHFRJTxj2o1T8TQ8U86rXCvJFZ+r2/iDd7TgLHRjFvERk6ozJw6rwZGWslPulTE0YWGUtTuLNBe//cpeLFJvMLZ7mtWKqbXz6epZg0LGyPo/4nn9fjdEbEMBri1EqEl4TtOjFDb1QbyVJuSq3x9SOWTG5OASKA==;gajT1gftRNBl4CtF3DNamA=="
+secured: "KwFjhhgveFSwFSdCj3UpSVH/B2BdvVlRBbd6obypHQSTPA/Pclqza6XCbj1+Hx6BmsQ8eIWZ0mfYjnoD4Z+A+0o1q7O42PhdoJ46Y8nZwh9Wh1q64GT8lrZbRpMQn92ekduKeky8C9scHn8jw3bLUXvBDIM2kOn2WpaI+/gcvHp7q3xGos5KD+v1ALTiA9Sq1BQDngU/X7fDSlOtA7039adH+U7MrvIP8IOptWdQCUqBIeQpK+ybUEL9hn24t+veHOUotKsTh6nYDhNzw1oukNuHccfSXyBd/kTYg8kg8sSkh2eYNb/9se4sa093yUjfiNsmN2xDY8N1l0XsJByfI656lAjDx3gXOi2xA6DyahU=;Nzko4VLD/fGLQtQUrctiBQ=="
 ---
 

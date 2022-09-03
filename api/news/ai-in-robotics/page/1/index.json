@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-03-southwestern-pa-awarded-63m-to-boost-robotics-and-ai-industries-in-region.md",
+      "title": "Southwestern Pa. awarded $63M to boost robotics and AI industries in region",
+      "excerpt": "Southwestern Pennsylvania has secured a $62.7 million federal grant that local officials hope will boost the region’s robotics and artificial intelligence industries and allow small businesses to take advantage of that growth.",
+      "sourceUrl": null,
+      "webUrl": "https://triblive.com/local/regional/southwestern-pa-awarded-63m-to-boost-robotics-and-ai-industries-in-region/",
+      "originalUrl": "https://triblive.com/local/regional/southwestern-pa-awarded-63m-to-boost-robotics-and-ai-industries-in-region/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-varnish.triblive.com/2022/09/5395364_web1_ptr-Biden013-012922.jpg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-02T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TribLIVE.com",
+        "domain": "triblive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-03-ubtech-announces-global-debut-of-intelligent-healthcare-robots-and-solutions.md",
       "title": "UBTECH announces global debut of intelligent healthcare robots and solutions",
       "excerpt": "At the event, UBTECH announced its strategy of creating a smart elderly-care system with several sub-systems within specific elderly-care scenarios. They also launched several robotics products for the healthcare and elderly-care domain.",
@@ -1334,49 +1377,6 @@
       "provider": {
         "name": "Action 10 News",
         "domain": "kztv10.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-robotics-artificial-intelligence-competition-to-spur-production-underway.md",
-      "title": "Robotics, Artificial Intelligence : Competition to Spur Production Underway",
-      "excerpt": "Some 60 students, start-upers, researchers from across the country that were preselected have begun competing for prizes.",
-      "sourceUrl": null,
-      "webUrl": "https://cameroon-tribune.cm/article.html/50569/en.html/robotics-artificial-intelligence-competition-spur-production",
-      "originalUrl": "https://cameroon-tribune.cm/article.html/50569/en.html/robotics-artificial-intelligence-competition-spur-production",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cameroon-tribune.cm//administrateur/photo/normal_7b6e847.jpg",
-          "width": 960,
-          "height": 460,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cameroon",
-        "domain": "cameroon-tribune.cm",
         "images": null,
         "publishers": null,
         "authors": null

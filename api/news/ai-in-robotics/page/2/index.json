@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-23-robotics-artificial-intelligence-competition-to-spur-production-underway.md",
+      "title": "Robotics, Artificial Intelligence : Competition to Spur Production Underway",
+      "excerpt": "Some 60 students, start-upers, researchers from across the country that were preselected have begun competing for prizes.",
+      "sourceUrl": null,
+      "webUrl": "https://cameroon-tribune.cm/article.html/50569/en.html/robotics-artificial-intelligence-competition-spur-production",
+      "originalUrl": "https://cameroon-tribune.cm/article.html/50569/en.html/robotics-artificial-intelligence-competition-spur-production",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cameroon-tribune.cm//administrateur/photo/normal_7b6e847.jpg",
+          "width": 960,
+          "height": 460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cameroon",
+        "domain": "cameroon-tribune.cm",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-23-ai-robots-power-hungry-or-empowering.md",
       "title": "AI Robots: Power Hungry Or Empowering?",
       "excerpt": "IT leaders in consumer-facing organizations who have not yet made the plunge into AI but wish to remain competitive are scrambling to figure out how to incorporate AI technology into their contact centers and customer engagement hubs.",
@@ -150,25 +193,34 @@
     },
     {
       "path": "_news/2022-08-23-local-startup-tests-delivery-robot-in-msheireb.md",
-      "title": "Local startup tests delivery robot in Msheireb",
+      "title": "Local Startup Tests Delivery Robot In Msheireb",
       "excerpt": "A local startup Pass ... This robot weighs about 50 kg and has a length of 1 m and a width of 45 cm. With advanced machine learning and artificial intelligence technology, the device is more ...",
       "sourceUrl": null,
-      "webUrl": "https://thepeninsulaqatar.com/article/22/08/2022/local-startup-tests-delivery-robot-in-msheireb",
-      "originalUrl": "https://thepeninsulaqatar.com/article/22/08/2022/local-startup-tests-delivery-robot-in-msheireb",
+      "webUrl": "https://menafn.com/1104736564/Local-Startup-Tests-Delivery-Robot-In-Msheireb",
+      "originalUrl": "https://menafn.com/1104736564/Local-Startup-Tests-Delivery-Robot-In-Msheireb",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-08/22/TP_6ff9dimage_story.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-22T13:13:00-07:00",
+      "publishedDateTime": "2022-08-22T11:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Peninsula",
-        "domain": "thepeninsulaqatar.com",
+        "name": "MENAFN",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -309,6 +361,49 @@
       "provider": {
         "name": "Los Angeles Business Journal",
         "domain": "labusinessjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-22-small-combat-robots-pack-a-punch-in-antweight-division.md",
+      "title": "Small Combat Robots Pack A Punch In Antweight Division",
+      "excerpt": "In combat robotics, contenders generally maneuver their remote-controlled machines to pin or immobilize their opponent. This can happen as a result of damaging them to the point that they stop ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2022/08/22/small-combat-robots-pack-a-punch-in-antweight-division/",
+      "originalUrl": "https://hackaday.com/2022/08/22/small-combat-robots-pack-a-punch-in-antweight-division/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2022/08/AWS64-Robots.jpg",
+          "width": 4522,
+          "height": 2544,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-21T19:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1311,92 +1406,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-best-robot-vacuum-deals-you-can-get-right-now-at-amazon-irobot-roomba-i7-roborock-and-more.md",
-      "title": "Best robot vacuum deals you can get right now at Amazon: iRobot Roomba i7+, Roborock and more",
-      "excerpt": "Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch your robot vacuum operate no matter where you are, using Samsung's SmartThings App. The Jet Bot AI+ ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-you-can-get-right-now/",
-      "originalUrl": "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-you-can-get-right-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/08/04/731af944-c1c9-4d22-9695-d65d29ab3893/thumbnail/1200x630/a7cbccd3d7293ee2eb74e73e654ca2d2/71iszddwljl-ac-sl1500.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-robot-vacuum-deals-you-can-get-right-now/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-robot-vacuum-deals-you-can-get-right-now/",
-      "publishedDateTime": "2022-08-16T03:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-global-artificial-intelligence-ai-in-operating-room-market-analysis-and-forecast-technologies-demand-growth-research-and-development.md",
-      "title": "Global Artificial Intelligence (AI) in Operating Room Market Analysis And Forecast | Technologies, Demand, Growth, Research And Development",
-      "excerpt": "Key Companies Covered in the Global Artificial Intelligence (AI) in Operating Room Research are Activ Surgical Inc., Brainomix Limited, Caresyntax Corp, DeepOR S.A.S, ExplORer Surgical Corp., Hanson Meditec Co.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-operating-room-market-analysis-and-forecast-technologies-demand-growth-research-and-development-2022-08-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-operating-room-market-analysis-and-forecast-technologies-demand-growth-research-and-development-2022-08-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-16T01:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

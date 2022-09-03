@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-09-03-us-views-ai-chips-as-industrial-security-and-a-treasure-not-to-be-shared-freely.md",
-      "title": "US views AI chips as industrial security and a treasure not to be shared freely",
-      "excerpt": "Washington is embargoing AI chips and directing manufacturing. The chips play an increasing role in facial and other biometric recognition systems.",
+      "path": "_news/2022-09-03-southwestern-pa-awarded-63m-to-boost-robotics-and-ai-industries-in-region.md",
+      "title": "Southwestern Pa. awarded $63M to boost robotics and AI industries in region",
+      "excerpt": "Southwestern Pennsylvania has secured a $62.7 million federal grant that local officials hope will boost the region’s robotics and artificial intelligence industries and allow small businesses to take advantage of that growth.",
       "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202209/us-views-ai-chips-as-industrial-security-and-a-treasure-not-to-be-shared-freely",
-      "originalUrl": "https://www.biometricupdate.com/202209/us-views-ai-chips-as-industrial-security-and-a-treasure-not-to-be-shared-freely",
+      "webUrl": "https://triblive.com/local/regional/southwestern-pa-awarded-63m-to-boost-robotics-and-ai-industries-in-region/",
+      "originalUrl": "https://triblive.com/local/regional/southwestern-pa-awarded-63m-to-boost-robotics-and-ai-industries-in-region/",
       "featuredContent": null,
       "highlight": null,
       "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/02162027/computer-chips-scaled.jpg",
-          "width": 2048,
-          "height": 1069,
+          "url": "https://assets-varnish.triblive.com/2022/09/5395364_web1_ptr-Biden013-012922.jpg",
+          "width": 640,
+          "height": 427,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +26,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T14:08:00-07:00",
+      "publishedDateTime": "2022-09-02T14:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
+        "name": "TribLIVE.com",
+        "domain": "triblive.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,9 +40,8 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -98,7 +97,7 @@
       "originalUrl": "https://techxplore.com/news/2022-09-artificial-intelligence-decisions.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -130,7 +129,8 @@
       "topics": [
         "AI",
         "AI in Healthcare",
-        "Machine Learning"
+        "Machine Learning",
+        "AI in Autos"
       ]
     },
     {
@@ -437,6 +437,59 @@
       ]
     },
     {
+      "path": "_news/2022-09-02-four-ways-voice-recognition-will-improve-healthcare.md",
+      "title": "Four Ways Voice Recognition Will Improve Healthcare",
+      "excerpt": "The severe stress our health system endured restricted its capacity to respond as fully and quickly as it may have in the pre-pandemic era. Thus, consumers often looked elsewhere to find answers to their pressing questions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/02/four-ways-voice-recognition-will-improve-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/02/four-ways-voice-recognition-will-improve-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6310bd9b5bc94a00b06398ad/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/02/four-ways-voice-recognition-will-improve-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/02/four-ways-voice-recognition-will-improve-healthcare/amp/",
+      "publishedDateTime": "2022-09-02T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-09-02-why-deepmind-is-sending-ai-humanoids-to-soccer-camp.md",
       "title": "Why DeepMind Is Sending AI Humanoids to Soccer Camp",
       "excerpt": "DeepMind’s attempt to teach an AI to play soccer started with a virtual player writhing around on the floor—so it nailed at least one aspect of the game right from kickoff. But pinning down the mechanics of the beautiful game—from basics like running and kicking to higher-order concepts like teamwork and tackling—proved a lot more challenging,",
@@ -668,6 +721,58 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-02-ai-software-the-bridge-from-data-to-insights.md",
+      "title": "AI software: The bridge from data to insights",
+      "excerpt": "These might include AI analytics toolkits, development and deployment toolkits, end-to-end distributed AI toolkits, reference toolkits and AutoML toolkits. Also: domain specific toolkits ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-software-the-bridge-from-data-to-insights/",
+      "originalUrl": "https://venturebeat.com/ai/ai-software-the-bridge-from-data-to-insights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1293487802-I-am-3D-animator-artist.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-software-the-bridge-from-data-to-insights/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-software-the-bridge-from-data-to-insights/amp/",
+      "publishedDateTime": "2022-09-01T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -1114,108 +1219,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-report-conversational-ai-reduces-barriers-to-mental-health-treatment.md",
-      "title": "Report: Conversational AI reduces barriers to mental health treatment",
-      "excerpt": "In a study by Botco AI, 100% of respondents said they expanded virtual behavioral support, including conversational AI, during the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/report-conversational-ai-reduces-barriers-to-mental-health-treatment/",
-      "originalUrl": "https://venturebeat.com/ai/report-conversational-ai-reduces-barriers-to-mental-health-treatment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_734436697-e1510716853185.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/report-conversational-ai-reduces-barriers-to-mental-health-treatment/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/report-conversational-ai-reduces-barriers-to-mental-health-treatment/amp/",
-      "publishedDateTime": "2022-09-01T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-in-the-face-of-recession-investing-in-ai-is-a-smarter-strategy-than-ever.md",
-      "title": "In The Face Of Recession, Investing In AI Is A Smarter Strategy Than Ever",
-      "excerpt": "By making a few smart investments today, businesses can emerge from any oncoming recession, more effective and efficient than they were before.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/in-the-face-of-recession-investing-in-ai-is-a-smarter-strategy-than-ever/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/in-the-face-of-recession-investing-in-ai-is-a-smarter-strategy-than-ever/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5fc7e538b6f0e3645ec8ff41/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/in-the-face-of-recession-investing-in-ai-is-a-smarter-strategy-than-ever/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/01/in-the-face-of-recession-investing-in-ai-is-a-smarter-strategy-than-ever/amp/",
-      "publishedDateTime": "2022-09-01T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

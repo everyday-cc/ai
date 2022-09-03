@@ -2,6 +2,177 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2022-06-13-open-banking-fintech-kevin-enhances-transaction-monitoring-with-sentinels.md",
+      "title": "Open Banking Fintech kevin. Enhances Transaction Monitoring with Sentinels",
+      "excerpt": "Sentinels, a Fenergo company and Europe’s intelligent transaction monitoring platform, has been appointed by payments fintech kevin.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2022/06/192220-open-banking-fintech-kevin-enhances-transaction-monitoring-with-sentinels/",
+      "originalUrl": "https://www.crowdfundinsider.com/2022/06/192220-open-banking-fintech-kevin-enhances-transaction-monitoring-with-sentinels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2021/02/Vault-Safe-Open.jpeg",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2022/06/192220-open-banking-fintech-kevin-enhances-transaction-monitoring-with-sentinels/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/192220-open-banking-fintech-kevin-enhances-transaction-monitoring-with-sentinels/amp/",
+      "publishedDateTime": "2022-06-13T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-nerding-out-with-the-boys-obi-wan-kenobi-and-robots.md",
+      "title": "Nerding Out with The Boys, Obi-Wan Kenobi and Robots",
+      "excerpt": "Death & Robots feels as unique as it did when the series first came to Netflix, delivering on the promise of the first volume’s mind-blowing animation. The techniques seen here elevate the sci ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.laweekly.com/nerding-out-with-the-boys-obi-wan-kenobi-and-robots/",
+      "originalUrl": "https://www.laweekly.com/nerding-out-with-the-boys-obi-wan-kenobi-and-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.laweekly.com/wp-content/uploads/2022/06/JTF-FF-002049.jpg",
+          "width": 1500,
+          "height": 1099,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Laweekly",
+        "domain": "laweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-are-driverless-car-searches-constitutional.md",
+      "title": "Are driverless car searches constitutional?",
+      "excerpt": "Whether we like it or not, automated, driverless vehicles are quickly becoming a reality and a norm in our society. Along with all the benefits the technology and associated services provide ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.abajournal.com/columns/article/are-driverless-car-searches-constitutional",
+      "originalUrl": "https://www.abajournal.com/columns/article/are-driverless-car-searches-constitutional",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.abajournal.com/images/mag_images/0717Docket_SelfDrive.png",
+          "width": 450,
+          "height": 290,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABA Journal",
+        "domain": "abajournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-ai-system-facilitates-plant-imaging-from-germination-to-root-development.md",
+      "title": "AI system facilitates plant imaging from germination to root development",
+      "excerpt": "For plant biologists, understanding how plants grow and interact with soil is vital for selecting resilient crops that can efficiently take up water and nutrients. But how do you monitor what is happening underground?",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-06-ai-imaging-germination-root.html",
+      "originalUrl": "https://phys.org/news/2022-06-ai-imaging-germination-root.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-system-facilitates.jpg",
+          "width": 2826,
+          "height": 1373,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-06-ai-imaging-germination-root.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-06-ai-imaging-germination-root.amp",
+      "publishedDateTime": "2022-06-13T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-13-artificial-intelligence-in-accounting-market-opportunities-analysis-and-forecasts-report-2027.md",
       "title": "Artificial Intelligence in Accounting Market Opportunities, Analysis and Forecasts Report 2027",
       "excerpt": "Global Artificial Intelligence in Accounting Market to reach USD 15.66 billion by 2027. Global Artificial Intelligence in Accounting Market is valued approximately USD 0.988 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 48.",
@@ -948,194 +1119,6 @@
         "Natural Language Processing",
         "Machine Learning",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-over-400-sc-verdicts-translated-until-covid-stalled-ai-project.md",
-      "title": "Over 400 SC verdicts translated, until Covid stalled AI project",
-      "excerpt": "While 469 verdicts have been translated since the launch of the ambitious project in August 2018, it came to a halt during the pandemic and is yet to be revived.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/cities/chandigarh/over-400-sc-verdicts-translated-until-covid-stalled-ai-project-7966509/",
-      "originalUrl": "https://indianexpress.com/article/cities/chandigarh/over-400-sc-verdicts-translated-until-covid-stalled-ai-project-7966509/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2022/06/supreme-court.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/cities/chandigarh/over-400-sc-verdicts-translated-until-covid-stalled-ai-project-7966509/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/chandigarh/over-400-sc-verdicts-translated-until-covid-stalled-ai-project-7966509/lite/",
-      "publishedDateTime": "2022-06-12T15:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-google-suspends-engineer-who-claimed-its-ai-system-is-a-person.md",
-      "title": "Google Suspends Engineer Who Claimed Its AI System Is a Person",
-      "excerpt": "A software engineer at Google told the company he believed that its Language Model for Dialogue Applications, or LaMDA, is a person who has rights and might well have a soul.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/google-suspends-engineer-who-claimed-its-ai-system-is-a-person-11655074917",
-      "originalUrl": "https://www.wsj.com/articles/google-suspends-engineer-who-claimed-its-ai-system-is-a-person-11655074917",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-562388/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/google-suspends-engineer-who-claimed-its-ai-system-is-a-person-11655074917",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-suspends-engineer-who-claimed-its-ai-system-is-a-person-11655074917",
-      "publishedDateTime": "2022-06-12T15:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-half-of-finance-ai-projects-to-be-cancelled-by-2024.md",
-      "title": "Half of finance AI projects to be cancelled by 2024",
-      "excerpt": "CFOs face major barriers to scaling up the use of AI in-house and will increasingly turn to business process outsourcing (BPO) solutions to meet their digital transformation objectives",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/business/half-of-finance-ai-projects-to-be-cancelled-by-2024-748246",
-      "originalUrl": "https://www.thehansindia.com/business/half-of-finance-ai-projects-to-be-cancelled-by-2024-748246",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bizzbuzz.news/h-upload/2022/06/12/500x300_1544750-ai.jpg",
-          "width": 500,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/business/half-of-finance-ai-projects-to-be-cancelled-by-2024-748246",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/half-of-finance-ai-projects-to-be-cancelled-by-2024-748246",
-      "publishedDateTime": "2022-06-12T11:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-06-12-putting-the-s-in-esg-how-ai-and-automation-can-drive-social-impact.md",
-      "title": "Putting the ‘S’ in ESG: How AI and automation can drive social impact",
-      "excerpt": "Rather than taking the traditional training approach, we believe that AI and automation technologies have the potential to help companies reduce biases in processes at scale. Organizations can ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/12/putting-the-s-in-esg-how-ai-and-automation-can-drive-social-impact/",
-      "originalUrl": "https://venturebeat.com/2022/06/12/putting-the-s-in-esg-how-ai-and-automation-can-drive-social-impact/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-1204589722.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 556,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/12/putting-the-s-in-esg-how-ai-and-automation-can-drive-social-impact/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/12/putting-the-s-in-esg-how-ai-and-automation-can-drive-social-impact/amp/",
-      "publishedDateTime": "2022-06-12T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

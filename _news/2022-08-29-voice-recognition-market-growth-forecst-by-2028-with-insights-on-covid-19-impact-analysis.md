@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech & Voice Recognition Systems Market 2022 Growth Factor, Sales, Dynamics, Types, Applications, Segments and Forecast to 2028"
-    excerpt: "The global Speech & Voice Recognition Systems market is projected to reach USD million by 2028 from an estimated USD million in 2022, at a CAGR during 2023 and 2028. Global “Speech and Voice ..."
-    publishedDateTime: 2022-08-29T06:20:00Z
-    webUrl: "https://www.digitaljournal.com/pr/speech-voice-recognition-systems-market-2022-growth-factor-sales-dynamics-types-applications-segments-and-forecast-to-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
 
 secured: "lWhKr2l/Mqi4jkShoDvX74ZrmJI1GgrBPzgdU6Yf8gEYX+jlhg6zYUxWDpUH86G1ufyO3IF363EJEZGbuCPnBq5q0q7KKL1UAq5+O950XQrufoDnFibZdoES+CjBy/biUCWvkgu3jJyUA0i5Y/9P8LPf3JYwk0eMLVypiatpVQ67S09PFKapQ8gTVbFHyje6H98WI8VlgAJIWPP9jb/fHJ9kmrsmSRqnL/pAScmh5ZhN9vUNwtOmjHR1/52dcp4WZbZ8rIuIImBTIqx4PRyP0eZOmrxKqVi4llzQJJz6ac//r8LZG7i/a76jRBmsnvMM4DqHo42IGYVNo7zCSxhVxM06lyGZ4p5cjItVMUfOp5E=;7BX02UrP66gEvfgU7m6hfw=="
 ---

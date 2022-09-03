@@ -189,9 +189,9 @@ related:
   - title: "US blocks sale of some Nvidia and AMD AI chips to China"
     excerpt: "The US government’s effort will restrict Chinese AI researchers using the chips to train machine-learning models."
     publishedDateTime: 2022-09-01T14:42:00Z
-    webUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-chips-to-china.html"
-    ampWebUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-chips-to-china.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-chips-to-china.amp.html"
+    webUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.html"
+    ampWebUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.amp.html"
     type: article
     provider:
       name: Network World
@@ -440,6 +440,6 @@ related:
       domain: arabianbusiness.com
     quality: 13
 
-secured: "Z+nJ9ykDdd6NnPEQS1MvtGtUT24F4iSS0C3iAEgfgdDrFgpeD3H8siXP7lB9U1tXK2don8heKSTMnRpXOv688uVlg12SkfMI7RaqBEi4N/jYmCougxLWhV2hqtNy0C6HQui3ixnbXWP3otrKi4enyd71Jix9E/D6tY14ZQhSm12U7VpU4pLo9rVp7eRUtqHW5Rfop/Med63sRzlm/Z/y5NzGoZF81ZXEFUPh1bNI+rjWKmBFJKO4hFb20Km1nlg8toQUQVd1CnlZTzbL6tMdckN6loDz2EMod9wBmfTC7Z7nymEfqFCXra+szhMDXwmnU4oibZmwyYwLkqV98xBEGHXkyrQ5isCyljovFXEV1jY=;5nnDsAdz0WGpLgTmcOYDdA=="
+secured: "oZZQQgiPMH4fe1mZ5BCMuSsQDlfRm5PdBjFked6MfY4Uz+EmKfpAilIXQkIa9+6pWeR8CC3yvPLSYpppMY+1an1flCN56SguPYozytJ4WbrflrfjrT24Ect8n8LIJlHsAivs99Gh4mR02WMdUA90M2/4XSLnZb3rKgy4F2kwmgqAcg/PTfm62cW3MGH4/bA4L7kh5oBTS5034D3wflol+Zl9EIHLYihwhTt9k74P9JGPsIlv0RLzLx5eEIoBBMrDJEYpnoVbPk57DD69gyIuU7ZhJxmK0RbPPqtt+tFVPLxi0eMBEvjN3NCGCrb+FM1jl5ph+iTTpOeb6snTV1r0V1brQN6cuOz4L7YvYlc8HHqbq8E3R9r5jY4VRuIV6bd1NwZOLf+9/tvhAMtcEzzVVBrLBe0wUKksqHifD/JVoRpRG5qvQrvgqkoOPBxjjA5IOsFnuo+59b0cQRg20AWP1RO0a3gDTXk7p56hcIqOOWQcludUr5t1xsVS5n9kj+F0VZ2+EKhEEmY0ghOZAUrE4A==;Iz/Ewfx1DxIkfnXcMRnwcg=="
 ---
 

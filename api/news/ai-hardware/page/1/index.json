@@ -2,50 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-09-03-us-views-ai-chips-as-industrial-security-and-a-treasure-not-to-be-shared-freely.md",
-      "title": "US views AI chips as industrial security and a treasure not to be shared freely",
-      "excerpt": "Washington is embargoing AI chips and directing manufacturing. The chips play an increasing role in facial and other biometric recognition systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202209/us-views-ai-chips-as-industrial-security-and-a-treasure-not-to-be-shared-freely",
-      "originalUrl": "https://www.biometricupdate.com/202209/us-views-ai-chips-as-industrial-security-and-a-treasure-not-to-be-shared-freely",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/02162027/computer-chips-scaled.jpg",
-          "width": 2048,
-          "height": 1069,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T14:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2022-09-01-us-export-ban-on-some-advanced-ai-chips-to-hit-china-tech-majors.md",
       "title": "U.S. export ban on some advanced AI chips to hit China tech majors",
       "excerpt": "A U.S. order to ban exports of some advanced chips to China is likely to hit almost any major tech company running public clouds or advanced artificial intelligence training modules in the country, experts said.",
@@ -352,7 +308,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-worth-usd-832527-million-by-2027-the-insight-partners-2022-08-30",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -1482,6 +1438,58 @@
         "AI",
         "AI Hardware",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-intel-vp-talks-ai-strategy-as-company-takes-on-nvidia.md",
+      "title": "Intel VP talks AI strategy as company takes on Nvidia",
+      "excerpt": "Intel is on an AI mission to compete in the AI software and hardware space, according to Wei Li, VP and GM of AI and analytics at Intel.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/intel-vp-talks-ai-strategy-as-company-takes-on-nvidia/",
+      "originalUrl": "https://venturebeat.com/ai/intel-vp-talks-ai-strategy-as-company-takes-on-nvidia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-664440974.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/intel-vp-talks-ai-strategy-as-company-takes-on-nvidia/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/intel-vp-talks-ai-strategy-as-company-takes-on-nvidia/amp/",
+      "publishedDateTime": "2022-08-17T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

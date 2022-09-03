@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2022-09-artificial-intelligence-decisions.h
 ampWebUrl: "https://techxplore.com/news/2022-09-artificial-intelligence-decisions.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-artificial-intelligence-decisions.amp"
 type: article
-quality: 76
-heat: 106
+quality: 78
+heat: 108
 published: true
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI
   - AI in Healthcare
   - Machine Learning
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/how-artificial-intelli-1.jpg"
