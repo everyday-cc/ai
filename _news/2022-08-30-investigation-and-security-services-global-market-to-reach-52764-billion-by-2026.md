@@ -95,6 +95,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 36
+  - title: "AI in FinTech Global Market Report 2022: Key Players Microsoft, Google, IBM & Others Driving 27.6% Annual Growth"
+    excerpt: "Dublin, Aug. 30, 2022 (GLOBE NEWSWIRE) -- The \"AI in FinTech Global Market Report 2022\" report has been added to ResearchAndMarkets.com's offering. The global AI in fintech market is expected to ..."
+    publishedDateTime: 2022-08-30T10:03:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/g28680688/ai-in-fintech-global-market-report-2022-key-players-microsoft-google-ibm-others-driving-27-6-annua"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 15
 
 secured: "46cCI4uvRrgNT+12fsc/zmKPGV6n+rSu0bV5TMVuwoa2PJH8xS5cwnumTp8iTp8swfA0lovnZ4NpiRnGqdw3Jw2sfTRecD8XtXOiBqtfSkRt7lX+Jiv8WuFQwvF0n915Ia1qEyzcs3cZzo6MVOZHDrCd6HawaVm54PyY+ByUBJ5aca8u8EGPM4PAN9xI82YXZqhw+aNJY16ntT5wf1LH3L0+3FlgNUqdl5eEI/phNlDFBk7t9xMg5JFahy2+EJwOeK67jE/N6sz8MpDcaEG0CQsJowMdRV2qpcLDVG+ofpJLqvcyzJweGVv3NZ0kiKtuTlqpcCa1vQfLQvlmgQPlBsnhRb4NQwakxMaTb+TZtaU=;KTTpdDfdQJ7tI+xbyh2X9A=="
 ---

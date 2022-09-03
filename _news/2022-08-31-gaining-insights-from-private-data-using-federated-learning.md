@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2022/08/31/gaining-ins
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/08/31/gaining-insights-from-private-data-using-federated-learning/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "Unpacking The Best Top Ten Quotes About Artificial Intelligence Leveraging Modern-Day AI Ethics Thinking"
+    excerpt: "This is a carefully devised set of Top Ten quotes about AI, providing an explanation about each quote and illuminating key insights about the future of AI, doing so with a keen eye toward the latest in AI Ethics thinking."
+    publishedDateTime: 2022-09-03T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/09/03/unpacking-the-best-top-ten-quotes-about-artificial-intelligence-leveraging-modern-day-ai-ethics-thinking/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "As the Machine Learns—Continuing AI IP and Privacy Considerations"
     excerpt: "AI frequently automates routine tasks that were previously performed by people, eliminating tedious work, making business processes more efficient, and creating new capabilities and opportunities. Every business in the future will be using AI to some extent."
     publishedDateTime: 2022-08-30T14:51:00Z

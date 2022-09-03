@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/learn-how-amazon-sag
 webUrl: "https://aws.amazon.com/blogs/machine-learning/learn-how-amazon-sagemaker-clarify-helps-detect-bias/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: AWS
@@ -27,22 +27,6 @@ images:
     width: 800
     height: 400
     isCached: true
-
-related:
-  - title: "Use Amazon SageMaker pipeline sharing to view or manage pipelines across AWS accounts"
-    excerpt: "On August 9, 2022, we announced the general availability of cross-account sharing of Amazon SageMaker Pipelines entities. You can now use cross-account support for Amazon SageMaker Pipelines to share pipeline entities across AWS accounts and access shared pipelines directly through Amazon SageMaker API"
-    publishedDateTime: 2022-08-29T22:35:00Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-pipeline-sharing-to-view-or-manage-pipelines-across-aws-accounts/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 97
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/29/sagemaker-pipeline-sharing.jpg"
-        width: 1532
-        height: 764
-        isCached: true
 
 secured: "KvHE9LZgp9w77ulBLn/+69AmoHyctImnj9op9y4G1YmdeTsUA+XajAV/l8kaH1m6lQ37K1o1oL+NU4aUMiEniawThR/Bz+iWrgYYjQ81b0019Lcbnwzyg/eXEsQ3sNeFdN6eYmFEMra6NJSrvPcDzlg8tt4isuYKXXmuMXSAcX8ja7EYRn4a2bbr3fELTUqa0wjrkogfUa7nHrZkcp+8xoWON/oHfVAFupjiONRMM4A8gklfJStGKX+oTF7EKPnkpXSFxbXSPB9l4IiR9inWgpnLYN9VumMLAGQ54UnUykxD+M4y3fX0NjUnOcuI0kzqHIEP4ROewL1zyAoNkUowGVUcflvoZnAGqV0KQERv2Q0=;cIjWhNRrnRh6N54+jTCHMQ=="
 ---

@@ -49,20 +49,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Legislature Poised to Authorize 'Voice Writers' in California Courtrooms"
-    excerpt: "Commonly used in other state courts, voice writers record proceedings by repeating verbatim what speakers say into a device that transcribes speech into written words. New legislation would allow regulators to license voice writers in an effort to expand a shrinking pool of court reporters."
-    publishedDateTime: 2022-08-29T20:06:00Z
-    webUrl: "https://www.law.com/therecorder/2022/08/29/legislature-poised-to-authorize-voice-writers-in-california-courtrooms/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 23
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/403/2018/02/Sacramento-State-Capitol-Article-201802140225.jpg"
-        width: 620
-        height: 372
-        isCached: true
   - title: "California Targets Tesla ‘Full Self-Driving’ With Newly Passed Bill"
     excerpt: "A newly passed bill looks to hold automakers accountable for how they name and market partially-automated driving features."
     publishedDateTime: 2022-09-01T19:27:00Z

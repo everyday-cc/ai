@@ -67,24 +67,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Elon Musk says that the self-driving Tesla could be ready by the end of the year"
-    excerpt: "After a six-year wait, Musk says he's aiming for the self-driving technology to be released by the end of this year. However, precedent points to this being unlikely."
-    publishedDateTime: 2022-08-29T19:07:00Z
-    webUrl: "https://www.zdnet.com/article/elon-musk-says-that-the-self-driving-tesla-could-be-ready-by-the-end-of-the-year/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 44
-  - title: "Elon Musk says Tesla aims to roll out self-driving cars by year end"
-    excerpt: "Tesla is aiming to have its self-driving technology ready and widely available by the end of 2022, CEO Elon Musk announced Monday. Musk made the comments during an energy conference in Norway, saying the vehicles will not need human drivers."
-    publishedDateTime: 2022-08-29T19:13:00Z
-    webUrl: "https://nypost.com/2022/08/29/elon-musk-says-tesla-aims-to-roll-out-self-driving-cars-by-year-end/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 34
 
 secured: "D1O3KWQ/9UmirEvp5zMR+W2uAUGwHrkcwEY5mhhLnLXw/SMuFXQEKeZZbgCYQpCJvuyOSzeWODHL6VjL4enynSZ5KJEO8VxPuRjpDTaTQv2mZkXwsUPWS9b/OZLzS8Y98L8LQuJU52UPbjgVjo46hHNv+p2BE11zOBWBEjJSEGR8/LbW5ucIdNZkh7e21DmG0NmWKNg6slCSIPFT6Ex+0MRvODscwbWXlmYaYzr7xHW/nJH0we7ag6EWLROjQwNKCUTjdkfexo2xUlaN3o768f6ltxSQ66C02Q5X0lrYDT1kDNyFFZMmuZpbt6TGRiXhk/rO7RV9ygMQUBtrApxA2QXTONWar5oHqQ8oLbLitWnJPaw5WIiFNbBDziqB8bYmMBiOyHvwqFp+yBKG9WyhKf0+6MGmy+zpxzkblJzpMJ87DEMU0KbSeYRpvxWpGa0mT5up8SjgTviEqAaHhEZje7/sZYnKGSUvy4xV0KpLkDzdQ8imPRgZgDIf4/+E2XN4gadRgWgUZRUgYEm+NqkW1A==;QaadIFsUIko1R0YBPjRtfw=="
 ---

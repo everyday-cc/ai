@@ -8,7 +8,7 @@ webUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-outperfo
 ampWebUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-outperforms-clinicians-pediatric.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-artificial-intelligence-outperforms-clinicians-pediatric.amp"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 
@@ -37,7 +37,7 @@ related:
     provider:
       name: Medindia
       domain: medindia.net
-    quality: 57
+    quality: 59
     images:
       - url: "https://images.medindia.net/amp-images/health-images/hear-aid-baby1.jpg"
         width: 1200

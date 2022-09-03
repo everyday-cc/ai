@@ -200,22 +200,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 76
-  - title: "US blocks sale of some Nvidia and AMD AI chips to China"
-    excerpt: "The US government’s effort will restrict Chinese AI researchers using the chips to train machine-learning models."
-    publishedDateTime: 2022-09-01T14:42:00Z
-    webUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-chips-to-china.html"
-    ampWebUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-chips-to-china.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-chips-to-china.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 74
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/05/nvidia-a100-gpu-100842029-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 678
-        isCached: true
   - title: "US government blocks sale of some Nvidia and AMD AI chips to China"
     excerpt: "The US government’s ongoing attempts to restrict China’s military capabilities will affect Chinese AI researchers using the chips to train machine learning models."
     publishedDateTime: 2022-09-01T14:42:00Z
@@ -291,6 +275,20 @@ related:
       - url: "https://wraltechwire.com/wp-content/uploads/2018/03/mother-board-581597_960_720.jpg"
         width: 960
         height: 720
+        isCached: true
+  - title: "AMD says U.S. told it to stop shipping top AI chip to China"
+    excerpt: "The company said new license requirements prevent shipment of its MI250 chips to China but it believes its MI100 chips are not affected by the new requirement. The company said it does not believe ..."
+    publishedDateTime: 2022-08-31T22:59:00Z
+    webUrl: "https://www.investing.com/news/stock-market-news/amd-says-us-told-it-to-stop-shipping-top-ai-chip-to-china-2883804"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 54
+    images:
+      - url: "https://i-invdn-com.investing.com/news/LYNXMPEB440WA_L.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Nvidia, AMD warned of new US export restrictions on AI chips"
     excerpt: "The U.S. government has issued new export licensing requirements to Nvidia and AMD for export to China and Russia of the advanced GPUs used for AI."
@@ -390,6 +388,24 @@ related:
         width: 620
         height: 355
         isCached: true
+  - title: "Biden weighs curbs on US investment in China tech and action against TikTok, as new limits on AI chips also considered"
+    excerpt: "The Biden administration is considering an executive order targeting US investments into Chinese tech companies as part of a broader strategy that also involves new restrictions on chips sales to China."
+    publishedDateTime: 2022-09-03T13:33:00Z
+    webUrl: "https://www.scmp.com/tech/policy/article/3191227/biden-weighs-curbs-us-investment-china-tech-and-action-against-tiktok?module=live&pgtype=homepage"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 40
+  - title: "US blocks sale of some Nvidia and AMD AI chips to China"
+    excerpt: "The US government’s effort will restrict Chinese AI researchers using the chips to train machine-learning models."
+    publishedDateTime: 2022-09-01T14:42:00Z
+    webUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 34
   - title: "US limits sales of artificial intelligence chips to China"
     excerpt: "US chipmakers Nvidia and AMD have been required to obtain a new licence, effective immediately, to address the risk of semiconductors being \"used in, or diverted to a 'military end use'... in China and Russia\"."
     publishedDateTime: 2022-09-01T13:01:00Z

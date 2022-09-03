@@ -68,24 +68,6 @@ related:
       name: Jalopnik
       domain: jalopnik.com
     quality: 54
-  - title: "Elon Musk says that the self-driving Tesla could be ready by the end of the year"
-    excerpt: "After a six-year wait, Musk says he's aiming for the self-driving technology to be released by the end of this year. However, precedent points to this being unlikely."
-    publishedDateTime: 2022-08-29T19:07:00Z
-    webUrl: "https://www.zdnet.com/article/elon-musk-says-that-the-self-driving-tesla-could-be-ready-by-the-end-of-the-year/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 44
-  - title: "Elon Musk says Tesla aims to roll out self-driving cars by year end"
-    excerpt: "Tesla is aiming to have its self-driving technology ready and widely available by the end of 2022, CEO Elon Musk announced Monday. Musk made the comments during an energy conference in Norway, saying the vehicles will not need human drivers."
-    publishedDateTime: 2022-08-29T19:13:00Z
-    webUrl: "https://nypost.com/2022/08/29/elon-musk-says-tesla-aims-to-roll-out-self-driving-cars-by-year-end/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 34
 
 secured: "ve+xrX05isC4cIfOhIXli5JpAgUuZcdQw0zyz4BLq30dkFe45Mgy6qBAtE6tpzBZWEbOThJEnY7+9Jq1tH7ngjBO6MFPISmBL//wnMLY/9u8xIsgx1ox8D2Cp4woxovl4oP8MFRTcdl2LcVIgBr/X8Yy6OE0ChRiTRgRalsg3bkEV0msv7oVsLgVFrYr0FRJy36IM3c7fvpTiATbjPhb8Os9GN3hhFDP6DnX7Z/PI1LKpeeId9B7OSfzM6UcEdndIclNRE1yOLoAXESy1htkT3sW7rOwFi7j5BwyBRmnvGQyYLWvPWYphcXI1qJCpxrD97GGImZmnSMMBKruW5Em/D0NDO0nK51lLjzr+zSfJ+Y=;N2O2fmOKVo6LDlKi0Ivh2g=="
 ---

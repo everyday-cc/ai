@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Study finds Artificial Intelligence helps in treating Women with heart attacks"
-    excerpt: "Heart attacks are one of the main causes of death worldwide with women having a greater mortality rate than men Cardiologists have been concerned about this f"
-    publishedDateTime: 2022-08-29T19:13:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272686119/study-finds-artificial-intelligence-helps-in-treating-women-with-heart-attacks"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 35
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1661797459.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "University of Zurich: Artificial Intelligence Improves Treatment in Women with Heart Attacks"
     excerpt: "Researchers at the University of Zurich have now developed a novel artificial-intelligence-based risk score ... These symptoms are unfortunately often misinterpreted by the patients and healthcare personnel – with disastrous consequences."
     publishedDateTime: 2022-08-31T23:04:00Z

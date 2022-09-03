@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers suggest more effective way for automatic speech recognition"
+    excerpt: "Popular voice assistants such as Siri and Amazon Alexa have made automated speech recognition (ASR) available to the general public. Despite decades of development, ASR models suffer with consistency and dependability,"
+    publishedDateTime: 2022-09-02T18:43:00Z
+    webUrl: "https://theprint.in/features/researchers-suggest-more-effective-way-for-automatic-speech-recognition-2/1114253/"
+    ampWebUrl: "https://theprint.in/features/researchers-suggest-more-effective-way-for-automatic-speech-recognition-2/1114253/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/features/researchers-suggest-more-effective-way-for-automatic-speech-recognition-2/1114253/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 59
+    images:
+      - url: "https://static.theprint.in/wp-content/uploads/2022/09/ANI-20220902182110.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Researchers propose new and more effective model for automatic speech recognition"
     excerpt: "Popular voice assistants like Siri and Amazon Alexa have introduced automatic speech recognition (ASR) to the wider public. Though decades in the making, ASR models struggle with consistency and reliability,"
     publishedDateTime: 2022-09-02T17:17:00Z
@@ -41,24 +57,6 @@ related:
         width: 1024
         height: 463
         isCached: true
-  - title: "Researchers suggest more effective way for automatic speech recognition"
-    excerpt: "Popular voice assistants such as Siri and Amazon Alexa have made automated speech recognition (ASR) available to the general public. Despite decades of development, ASR models suffer with consistency and dependability,"
-    publishedDateTime: 2022-09-02T18:43:00Z
-    webUrl: "https://theprint.in/features/researchers-suggest-more-effective-way-for-automatic-speech-recognition-2/1114253/"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 19
-  - title: "Global Speech & Voice Recognition Market Research Report to 2027 - Featuring Amazon, Apple and Baidu Among Others - ResearchAndMarkets.com"
-    excerpt: "The \"Speech & Voice Recognition Market Research Report by Delivery Method, Technology, Deployment Mode, Vertical, Region - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2022-08-31T11:33:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-8-31-global-speech-and-voice-recognition-market-research-report-to-2027-featuring-amazon-apple-and-baidu-among-others-researchandmarketscom"
-    type: article
-    provider:
-      name: Buffalo News
-      domain: buffalonews.com
-    quality: 0
 
 secured: "JhyZ/vX4fFfns5hY/IQS2Q4u6IW844nAgGxq9GaZFDxnQdBQQYDkXo0pwLcvOBCDIS2b22EM9RgKtS75Lirgg1nPtqfeW0hvVO1tsX5cMNk46cwhsZPd5//UoCPZD1cqf+Y7eq4tb+/Ldq3FfGlOlb8BK3YikHOq2HBpdzJ/OQ9JgBaJ4punX2NeQ7JPZLuSfx8tDamCS79yDxEduNJRSXHUFgURqnH3OlR70jSDjv17i8a3F7X230wqgEGkzgsba9eK6b4mFjbdDrPceAM7bZsr8Z0wM9Ak5B/9zwFh6PxKVRKBtYMBTacbvXNST3ScRU4TvPK5TfRp/1HHyedZNdk2C30MNNqo44jKPnEgQjc=;bJgsgKisFCKl9cXERVNqDQ=="
 ---

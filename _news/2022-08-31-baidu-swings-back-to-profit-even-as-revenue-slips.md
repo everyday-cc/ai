@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu revenue contracts but beats estimates on cloud business growth"
-    excerpt: "Revenue at Baidu's AI Cloud unit grew 31% year-on-year in the quarter. Baidu has also been doubling down on self-driving technologies, in which it has heavily invested over the past five years."
-    publishedDateTime: 2022-08-30T10:25:00Z
-    webUrl: "https://www.reuters.com/technology/baidu-beats-quarterly-revenue-estimates-2022-08-30/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/VcMhCTIPuZkROATTg3O8vy954F8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DO6AEQYAIVJRHB6NSPK3CHZTQA.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Baidu Stock Is Tumbling. An Earnings Beat Can’t Offset Falling Revenue."
     excerpt: "Baidu is the latest Chinese tech giant to show that a slowdown this year in the world’s second-largest economy is causing financial pain. Despite notching double-digit growth in its key ..."
     publishedDateTime: 2022-08-30T10:22:00Z
@@ -55,36 +41,15 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Baidu's Q2 revenue contracts, but beats estimates on cloud business growth"
-    excerpt: "Total revenue shrank by 5% to 29.65 billion yuan ($4.43 billion) in the second quarter, compared with analysts' average estimate of 29.30 billion yuan, according to Refinitiv data"
-    publishedDateTime: 2022-08-30T11:09:00Z
-    webUrl: "https://www.business-standard.com/article/international/baidu-s-q2-revenue-contracts-but-beats-estimates-on-cloud-business-growth-122083000785_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/international/baidu-s-q2-revenue-contracts-but-beats-estimates-on-cloud-business-growth-122083000785_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/baidu-s-q2-revenue-contracts-but-beats-estimates-on-cloud-business-growth-122083000785_1.html"
+  - title: "Baidu Revenue Contracts but Beats Estimates on Cloud Business Growth"
+    excerpt: "Revenue at Baidu's AI Cloud unit grew 31% year-on-year in the quarter. Baidu has also been doubling down on self-driving technologies, in which it has heavily invested over the past five years."
+    publishedDateTime: 2022-08-30T09:06:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2022-08-30/baidu-beats-quarterly-revenue-estimates"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 57
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2018-03/02/full/1519964042-5025.jpg"
-        width: 620
-        height: 464
-        isCached: true
-  - title: "Baidu beats quarterly revenue estimates"
-    excerpt: "China's search engine giant Baidu Inc beat quarterly revenue estimates on Tuesday, driven by a recovery in advertising sales and higher demand for its cloud products. Total revenue stood at 29.65 ..."
-    publishedDateTime: 2022-08-30T09:05:00Z
-    webUrl: "https://www.channelnewsasia.com/business/baidu-beats-quarterly-revenue-estimates-2909281"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--biXDvPGs--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-08-30t090706z_2_lynxmpei7t09t_rtroptp_3_usa-china-audit-investors.jpg?itok=0Es-SEjN"
-        width: 1200
-        height: 676
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
 
 secured: "9oKLIN1XeJNfhci8rXhj7JXdI7Eagd8O9QHcXZY6TLCcUbzif7+jyHnwUHI94HAByMv0Ueq2VVKoVYhEDKDxL7NhOK6BY0x6kw99HVWzM7khp9vPCWAwOSObhFVS5fxAvwfGe5aN8hDlr558T/hC7HQfERacCVK/5nwlts5lcox6Q2MAfypAyz0D7T/uncdCa6hhdWmkF1j/Nl+okcIdLiUfsMeJlbNGQn8/+MVTtA2X9dwsy2/C6xbpH0FEsmynojTbJU7I4ffYS4Rrrjb4AfSZdOUvboEfPUe7qRVQ7peBOEteFrSRJTQt3Fm0mSF5Q7E/RuPcaQw6u0bUpOdoFOBEtXfxCjcrbCP0EgbvrCga2kjYNSHXHgnnCDg0DsuY1ZYVs5Cx+oE6kVcY3/QICninJ2lgq48gOki0aqlwcvlQ9OuwZAA7GfmRpp6ca/QI3wtukq8lwr6Sjy/jIsoVuTRTlhz9hX1mzOnwDLEemsTpebrx0pRBiDz4jgqDmdpeh2On0NEMNRhFOwCzkakKaQ==;lN+mde+RFiTIh4nqE0MdTA=="
 ---

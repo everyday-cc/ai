@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-03T12:00:00Z
 originalUrl: "https://www.cnet.com/tech/ironox-shows-us-the-farm-of-the-near-future-staffed-by-robots/"
 webUrl: "https://www.cnet.com/tech/ironox-shows-us-the-farm-of-the-near-future-staffed-by-robots/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: CNET

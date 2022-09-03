@@ -25,65 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu revenue contracts but beats estimates on cloud business growth"
-    excerpt: "Revenue at Baidu's AI Cloud unit grew 31% year-on-year in the quarter. Baidu has also been doubling down on self-driving technologies, in which it has heavily invested over the past five years."
-    publishedDateTime: 2022-08-30T10:25:00Z
-    webUrl: "https://www.reuters.com/technology/baidu-beats-quarterly-revenue-estimates-2022-08-30/"
+  - title: "China’s internet giant Baidu unveils first quantum computer"
+    excerpt: "China’s Baidu revealed today its first superconducting quantum computer that fully integrates hardware, software, and applications. The supercomputer, named Qian Shi, offers a quantum computing ..."
+    publishedDateTime: 2022-08-30T13:40:00Z
+    webUrl: "https://www.itpro.co.uk/hardware/368889/chinas-internet-giant-baidu-unveils-first-quantum-computer"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: IT Pro
+      domain: itpro.co.uk
     quality: 69
     images:
-      - url: "https://www.reuters.com/resizer/VcMhCTIPuZkROATTg3O8vy954F8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DO6AEQYAIVJRHB6NSPK3CHZTQA.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Baidu Stock Is Tumbling. An Earnings Beat Can’t Offset Falling Revenue."
-    excerpt: "Baidu is the latest Chinese tech giant to show that a slowdown this year in the world’s second-largest economy is causing financial pain. Despite notching double-digit growth in its key ..."
-    publishedDateTime: 2022-08-30T10:22:00Z
-    webUrl: "https://www.barrons.com/articles/baidu-stock-earnings-revenue-51661851921"
-    ampWebUrl: "https://www.barrons.com/amp/articles/baidu-stock-earnings-revenue-51661851921"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/baidu-stock-earnings-revenue-51661851921"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
-    images:
-      - url: "https://images.barrons.com/im-384397/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Baidu's Q2 revenue contracts, but beats estimates on cloud business growth"
-    excerpt: "Total revenue shrank by 5% to 29.65 billion yuan ($4.43 billion) in the second quarter, compared with analysts' average estimate of 29.30 billion yuan, according to Refinitiv data"
-    publishedDateTime: 2022-08-30T11:09:00Z
-    webUrl: "https://www.business-standard.com/article/international/baidu-s-q2-revenue-contracts-but-beats-estimates-on-cloud-business-growth-122083000785_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/international/baidu-s-q2-revenue-contracts-but-beats-estimates-on-cloud-business-growth-122083000785_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/baidu-s-q2-revenue-contracts-but-beats-estimates-on-cloud-business-growth-122083000785_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 57
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2018-03/02/full/1519964042-5025.jpg"
-        width: 620
-        height: 464
-        isCached: true
-  - title: "Baidu Swings Back to Profit Even as Revenue Slips"
-    excerpt: "In the three months through June, Baidu reported a net profit of 3.6 billion yuan ($526.9 million), compared with a 583 million yuan loss a year ago, according to its earnings report released on Tuesday."
-    publishedDateTime: 2022-08-31T11:47:00Z
-    webUrl: "https://www.caixinglobal.com/2022-08-31/baidu-swings-back-to-profit-even-as-revenue-slips-101933809.html"
-    type: article
-    provider:
-      name: Caixin Global
-      domain: caixinglobal.com
-    quality: 39
-    images:
-      - url: "https://img.caixin.com/2022-08-31/166194633088141_560_373.jpg"
-        width: 560
-        height: 373
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1661426076/itpro/2022/August/Baidu_Quantum_Computer_China_APAC.jpg"
+        width: 1260
+        height: 710
         isCached: true
 
 secured: "a3F/mdW4wmeAgAPemDhNTQuUkeeVmOLIH3RONCrT4NT+0zFHUcRo14knFbpIKqo48HDQjksrdUg5KIqpjK3wu+EoJR9z/iv2NJi7SBpkQD5hIer76H5/rdm6Wj13Fp98knbBzifU9qNVBHyUxlw22x2yHWZR45xbyKiq/+J5xCzq+Ov6xJh/JrK7gXn+IXo/lkAEkplqr0e2r2wdsudydXJ+fa+FAyzf6KiIEE9pM8S1qolqo8CZE1vOMQ6irPo45uodzOapytsJ+7O14bSMknPFpINF3GOGN7iZM5j5WvA8apzK9jREec1Fk1Mef9SddNcBMTOwjiq83FRgoDwCetpA4uFqu64KAPJwVqEJTBk=;VvIVPtvFtZnJv/RowaQXDg=="

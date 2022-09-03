@@ -1,24 +1,31 @@
 ---
 category: news
 title: "CT-derived body composition with deep learning predicts cardiovascular events"
-excerpt: "A fully automated and normalized body composition analysis of abdominal CT has promise to augment traditional cardiovascular risk prediction models."
-publishedDateTime: 2022-08-31T21:31:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/08/220831131201.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/08/220831131201.htm"
+excerpt: "According to ARRS' American Journal of Roentgenology (AJR), fully automated and normalized body composition analysis of abdominal CT has promise to augment traditional cardiovascular risk prediction models."
+publishedDateTime: 2022-08-31T17:22:00Z
+originalUrl: "https://medicalxpress.com/news/2022-08-ct-derived-body-composition-deep-cardiovascular.html"
+webUrl: "https://medicalxpress.com/news/2022-08-ct-derived-body-composition-deep-cardiovascular.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-08-ct-derived-body-composition-deep-cardiovascular.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-ct-derived-body-composition-deep-cardiovascular.amp"
 type: article
+quality: 56
+heat: 56
+published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "xHmDnZbAz7BPhI5duU9E+1Q4WuBguLZKqepiHMa5zZxuCtRmVW6uRZOkkZrWTY+hv/2oHcNRTzTpHZqk67+B0vJz/1okZ2l1b39L+KW3HKgijR0yYo9DTL+Jne449wCq5V82UaOcP9iOtgPIfNZ2bVDPk0UMZgvt6oVXQ76Hu1ZMBn+QjqffpSYtP3lVZ3+zByd4G0W4clpTrvClGc0dw23wjGLemD2BuSysfIG8xkEUmKIsAGY375oY62Oi13+QN83RgA6pzNCW2Ze8dLIxZXL78yj3qNeXVlDR8hGAPJ4D9E2+BnFwai5oUByGsD9XqQdSGAFblUz3xrPwcCc3igIFrtDGuQUZyfojYrUaoMY=;3XbAb/F4A5cY8ZtnPliKGA=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/ct-derived-body-compos.jpg"
+    width: 780
+    height: 325
+    isCached: true
+
+secured: "sWh4E98BepLdEuxxgcmB6OQpQ+obC7fAHc3CABv/aUK0sibrJS0sWyNWgDYxlIiS36WzL4Axi0CjJ5IEbu2gHjWXNZgKbfAs5YsLBWWh9wpC7BHWKmMjfAhWyxh3xP3SpVC/DMq+ccdQvO1LeoOu5fk69kvfYNttx9ka2XCodBo/WWElxbB3/+b3YtsbFkCJ+msEgw0c+rFHc2m5PGu7PjflvOACxu12SIyTPgigpd2OCJpp9nYFhq+g2cB8C5A0odBzbMPMpdMGrWdWg1eWfNKlO+MNQkEADbaXpeHzx7ju0nyDLdP6loBiYRL5LJMhkqz86VyuNc5RL+5Ch5p+Uv5f05TfeeoSbafIHHqHQJQ=;sNr1Dy1DGs9uCwyXu03Y4g=="
 ---
 

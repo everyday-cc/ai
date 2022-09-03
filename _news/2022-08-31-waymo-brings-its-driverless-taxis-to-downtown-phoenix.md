@@ -19,6 +19,50 @@ topics:
   - AI
 
 related:
+  - title: "Waymo opens driverless robotaxi service in Phoenix to locals who can't share experiences online"
+    excerpt: "Waymo is rolling out its driverless robotaxi service in Phoenix for members of the Alphabet-owned company's 'trusted tester' program - but users can't share their experience on social media and ..."
+    publishedDateTime: 2022-08-30T17:32:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11161047/Waymo-opens-driverless-robotaxi-service-Phoenix-locals-share-experiences-online.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-11161047/amp/Waymo-opens-driverless-robotaxi-service-Phoenix-locals-share-experiences-online.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11161047/amp/Waymo-opens-driverless-robotaxi-service-Phoenix-locals-share-experiences-online.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 62
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/08/30/17/61875391-0-image-a-10_1661876995094.jpg"
+        width: 636
+        height: 382
+        isCached: true
+  - title: "First Driverless Spreader Introduced by Case IH and Raven Industries"
+    excerpt: "A new driverless spreader has been introduced this week by CNH Industrial. The Case IH Trident™ 5550 applicator with Raven Autonomy™ can be"
+    publishedDateTime: 2022-08-30T21:30:00Z
+    webUrl: "https://hoosieragtoday.com/first-driverless-spreader-introduced-by-case-ih-and-raven/"
+    type: article
+    provider:
+      name: Hoosier AG Today
+      domain: hoosieragtoday.com
+    quality: 39
+    images:
+      - url: "https://d30hko96l9xirl.cloudfront.net/media/2022/08/The-Case-IH-Trident%E2%84%A2-5550-applicator-with-Raven-Autonomy%E2%84%A2-allows-for-one-or-more-driverless-machines-in-the-field_622498.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "First Driverless Spreader Introduced by Case IH and Raven"
+    excerpt: "A new driverless spreader has been introduced this week by CNH Industrial. The Case IH Trident™ 5550 applicator with Raven Autonomy™ can be"
+    publishedDateTime: 2022-08-30T21:30:00Z
+    webUrl: "https://hoosieragtoday.com/first-driverless-spreader-introduced-by-case-ih-and-raven/"
+    type: article
+    provider:
+      name: Hoosier AG Today
+      domain: hoosieragtoday.com
+    quality: 39
+    images:
+      - url: "https://d30hko96l9xirl.cloudfront.net/media/2022/08/The-Case-IH-Trident%E2%84%A2-5550-applicator-with-Raven-Autonomy%E2%84%A2-allows-for-one-or-more-driverless-machines-in-the-field_622498.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Phoenix mayor snags a ride in a driverless Waymo car as company launches autonomous rides in downtown"
     excerpt: "Phoenix's mayor recently took a spin in a driverless Waymo car to announce the launch of fully autonomous car rides in downtown Monday, though only for a small subset of people. The self ..."
     publishedDateTime: 2022-08-31T08:45:00Z
@@ -42,14 +86,14 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 34
-  - title: "Case IH Trident 5550 Applies Raven Autonomy for Driverless Spreading"
-    excerpt: "The Case IH Trident 5550 is built to be a combination applicator—both liquid and dry applications—but now equipped with Raven Autonomy, the machine can also be run in either autonomous mode or manual mode."
-    publishedDateTime: 2022-08-30T15:29:00Z
-    webUrl: "https://www.agweb.com/news/machinery/new-machinery/case-ih-trident-5550-applies-raven-autonomy-driverless-spreading"
+  - title: "AutoX Tests Downtown Shanghai’s First L4 Robotaxi Service"
+    excerpt: "To reach a large-scale standardized implementation of robotaxis, it’s essential to have an efficient central operation network,” AutoX founder and Chief Executive Officer Xiao Jianxiong told Yicai Global."
+    publishedDateTime: 2022-09-02T11:45:00Z
+    webUrl: "https://www.yicaiglobal.com/news/autox-tests-downtown-shanghai-first-l4-robotaxi-service"
     type: article
     provider:
-      name: AgWeb
-      domain: agweb.com
+      name: Yicai Global
+      domain: yicaiglobal.com
     quality: 19
 
 secured: "yc8CsDQ8iHPt2rIsWxpgtPFNJ7fU8ru9w4NClB7w7sCpvUGmvtCUP7sSDzGJXg+6ZSvs7QzXRJXo9eDI/MNgQDJksj+/zEOYwW2hB/P9ex2djW/u1AIuvq2/znFUeY5c9/ZitrXzGn+HgrQfGA2pjm4yP4PGMAvvU6dsYAesZmYaf6LU0y5D4SY+0yD6J1raQpsYCFfVNBcL3EGX4kHhrhOaQ949iBnRVefIYHfPcneXk6ZrNf0RP/Xel+mDpqHuAyQGEfz+l5LEWIOYACtOSOSMuHPYJhVwUp7FiR1/aV/YPE4Ef0RPk5+4SAir1UFXpQ5A3xcH7R3gfW+eGOk8mvWQZT+5Ugx4g5fzxbFMdOc=;w5GpjaimeEW7PiPtcAKaZA=="

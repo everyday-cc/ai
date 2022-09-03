@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-11-10-top-artificial-intelligence-ai-solutions-in-2022.md",
+      "title": "10 top artificial intelligence (AI) solutions in 2022",
+      "excerpt": "As AI-powered technologies continue to advance and more organizations adopt them, IT leaders must be sure to ask themselves how the solutions they choose fit into their goals as a business.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/",
+      "originalUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1131331897-e1655419471228.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/amp/",
+      "publishedDateTime": "2022-08-10T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "IBM AI",
+        "AI in Healthcare",
+        "Microsoft AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-ai-and-computer-vision-powers-growing-shop-and-go-platform.md",
       "title": "AI and computer vision powers growing shop-and-go platform",
       "excerpt": "AiFi, which is powered only by cameras and computer vision, announced today that it now boasts a total of 80 checkout-free stores worldwide.",
@@ -1368,50 +1424,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-study-education-job-and-social-life-may-help-protect-brain-from-cognitive-decline.md",
-      "title": "Study: Education, job, and social life may help protect brain from cognitive decline",
-      "excerpt": "Researchers looked at genetic and life course factors that may help create a \"cognitive reserve\" that provides a buffer against the disease in a study published in the August 3, 2022, online issue ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-08-job-social-life-brain-cognitive.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-08-job-social-life-brain-cognitive.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/5-brain.jpg",
-          "width": 1920,
-          "height": 1390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-08-job-social-life-brain-cognitive.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-job-social-life-brain-cognitive.amp",
-      "publishedDateTime": "2022-08-03T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

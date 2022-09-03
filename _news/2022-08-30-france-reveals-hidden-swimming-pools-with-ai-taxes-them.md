@@ -7,8 +7,8 @@ originalUrl: "https://arstechnica.com/information-technology/2022/08/france-reve
 webUrl: "https://arstechnica.com/information-technology/2022/08/france-reveals-hidden-swimming-pools-with-ai-taxes-them/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: Ars Technica
@@ -28,51 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Undeclared pools in France uncovered by AI technology"
-    excerpt: "The discovery of thousands of undeclared private swimming pools in France has provided an unexpected windfall for French tax authorities. Following an experiment using artificial intelligence (AI), more than 20,"
-    publishedDateTime: 2022-08-29T21:00:00Z
-    webUrl: "https://www.bbc.com/news/world-europe-62717599"
-    ampWebUrl: "https://www.bbc.com/news/world-europe-62717599.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-europe-62717599.amp"
+  - title: "Soaking up the sun with artificial intelligence"
+    excerpt: "The sun continuously transmits trillions of watts of energy to the Earth. It will be doing so for billions more years. Yet, we have only just begun tapping into that abundant, renewable source of energy at affordable cost."
+    publishedDateTime: 2022-08-31T20:39:00Z
+    webUrl: "https://techxplore.com/news/2022-08-sun-artificial-intelligence.html"
+    ampWebUrl: "https://techxplore.com/news/2022-08-sun-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-sun-artificial-intelligence.amp"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4B27/production/_126493291_gettyimages-178924445.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "French tax officials use AI to spot 20,000 undeclared pools"
-    excerpt: "Scheme to be extended across the country after trial in nine departments led to extra €10m in tax receipts"
-    publishedDateTime: 2022-08-29T22:05:00Z
-    webUrl: "https://www.theguardian.com/world/2022/aug/29/french-tax-officials-use-ai-to-spot-20000-undeclared-pools?ref=upstract.com&curator=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/world/2022/aug/29/french-tax-officials-use-ai-to-spot-20000-undeclared-pools"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/aug/29/french-tax-officials-use-ai-to-spot-20000-undeclared-pools"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: techxplore
+      domain: techxplore.com
     quality: 57
     images:
-      - url: "https://i.guim.co.uk/img/media/b2e09692384a075af04aed6c188ac7353e0a7837/0_739_2577_1546/master/2577.jpg?width=620&quality=85&auto=format&fit=max&s=20aa812b23c81f8aba8eb2ff0f1f0104"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Sun West unveils NFT loan powered by AI technology"
-    excerpt: "Sun West has unveiled the latest version of its AI platform, which enables it to convert property-specific home loans into tradable NFTs."
-    publishedDateTime: 2022-09-02T14:59:00Z
-    webUrl: "https://www.housingwire.com/articles/sun-west-unveils-nft-loan-powered-by-ai-technology/"
-    type: article
-    provider:
-      name: HousingWire
-      domain: housingwire.com
-    quality: 39
-    images:
-      - url: "https://www.housingwire.com/wp-content/uploads/2020/07/AdobeStock_302675535.jpeg?w=1024&#038;resize=540,275"
-        width: 1024
-        height: 678
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/soaking-up-the-sun-wit.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "France uses AI to spot (and tax) undeclared swimming pools"
     excerpt: "The program found more than 20,000 undisclosed pools, brought in $10 million in extra tax revenue and will be rolled out across France during a record drought."
@@ -88,20 +58,6 @@ related:
         width: 1440
         height: 961
         isCached: true
-  - title: "Google AI spots 20,000 undeclared pools in $14 million tax windfall for French government"
-    excerpt: "AI software developed by Google has found thousands of undeclared swimming pools in French backyards, resulting in a hefty tax bill for the owners."
-    publishedDateTime: 2022-08-30T01:55:00Z
-    webUrl: "https://www.smartcompany.com.au/technology/google-ai-undeclared-pools-tax-windfall-france/"
-    type: article
-    provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 28
-    images:
-      - url: "https://www.smartcompany.com.au/wp-content/uploads/2017/02/computer-holiday-e1644452338610.jpg"
-        width: 681
-        height: 336
-        isCached: true
   - title: "Google AI helps France tax over 20,000 undeclared pools"
     excerpt: "An unusual experiment allowed French tax officials to discover thousands of undeclared swimming pools by using artificial intelligence."
     publishedDateTime: 2022-08-31T13:49:00Z
@@ -111,6 +67,15 @@ related:
       name: New York Post
       domain: nypost.com
     quality: 17
+  - title: "Artificial Intelligence Helps French Tax Authorities Find Thousands of Untaxed Swimming Pools"
+    excerpt: "Using aerial photos and artificial intelligence, French tax officials have reportedly identified more than 20,000 previously untaxed residential swimming pools—potentially netting the French government a windfall of more than 10 million euros ($10 million)."
+    publishedDateTime: 2022-08-31T18:40:00Z
+    webUrl: "https://reason.com/2022/08/31/artificial-intelligence-helps-french-tax-officials-find-thousands-of-untaxed-swimming-pools/"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 6
 
 secured: "gMGyBN5ja9iWIR37zIuD56Wd5h3XWOGHlJ/YOxSGXft4a5fkCJK40D13LEvI5S/JmZR9d9fCzEW2wOGQvtKEricmvziSSmdlP/yWa0GF/v5J4WGhN/gvemCbh0uj5UU91EbO63rbLLm5iS5IMvl2pcGvnz4R/qEX96A1u3ZKM5iiRf+ClkhRZsntxIvryxXaRrbc18K5MSegZigFop2FFlRk3gMzp6sIaY9D+L9GCOxpcDXhwCnGbcFXuEULd/+ASBQ141gza6b8lc+V8Cw5/EBVc3spgDz2y9kiQXgyDnwq/eyG3ygIOmREnhkieyKXYr1UGfRAVSDnSlmO9sCfyrsXFTLtxiYI/AvM9R2wM9Oq4GPW2jXxe2H91DvN+Y9VOmp2i6fNHedttM8x8ZGIg2FjUG4PzRiTMKg2ifERSEK+phBu0eysHxf3wKq/ZbLi1chKjnFNEGT4og8gJQRSNggEjs0HQp32pExL0QWUTzARSNyG5fgIridHX1bP49v1ry2/1aOLj735dciLpgwnuA==;49GEuMGrrsYOh/s6w2NmgQ=="
 ---

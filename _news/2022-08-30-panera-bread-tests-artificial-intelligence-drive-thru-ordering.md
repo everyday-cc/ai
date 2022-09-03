@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ibtimes.com/panera-bread-tests-artificial-intelligence-d
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/panera-bread-tests-artificial-intelligence-drive-thru-ordering-3606957?amp=1"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Panera Bread tests artificial intelligence technology in drive-thru lanes"
-    excerpt: "Two Panera Bread locations in upstate New York are testing artificial intelligence technology that takes drive-thru orders. Restaurants have been investing in improving the drive-thru experience ..."
-    publishedDateTime: 2022-08-29T21:25:00Z
-    webUrl: "https://www.cnbc.com/2022/08/29/panera-bread-tests-artificial-intelligence-technology-in-drive-thru-lanes.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2022/08/29/panera-bread-tests-artificial-intelligence-technology-in-drive-thru-lanes.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/08/29/panera-bread-tests-artificial-intelligence-technology-in-drive-thru-lanes.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 88
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106972691-1636466150088-gettyimages-1280324270-1006_32_fl200924107.jpeg?v=1661775251"
-        width: 3800
-        height: 2533
-        isCached: true
 
 secured: "LfchOZwMt/JyaIIKpQOy08+/BQYiq4+UJbjFs1gQhPK9pOsmyP3a1MNLHcCrnM0ACcIVM0gF0T5nWiLHhq9XEgdTY4L7oHrrsTyLSX4PupGZJGHktBEGJwPqfMbB8x6v7f7pP2p/Fd6Sxm7ptwTyXw+OYT2vFaaJhCBifJKxdyIHhgY9Wi+mmQJpDDCJRp0AutYtfFInGzXENKVtdc4Qru0aUuOc1fgracOy6BzongHpdhAeiYpZTY6gOpjhdn3crmFMZpIa9KDdEzCPWepfgZzBx1XMzRCgSS/+FiaQr42GBwXR9dFV4NBl39vExjDzO8nQPibi0AsOBL2lN38VvqxFEjyEnu5ZyUka0cl8djcf681K5PUY1AxbrJGlP5fS43AtpXZ0H4OgxK72geseG3cIq5vmDOymckbqYOJzA++6DssJ5cxEHVFIgJQMAMW4XNW+eqlRwSBEBaRPpO71cW3ajK+dRtiW11NpEx8XiBZts/88CyHTOoHzejTN7ogh3L/dtRIa3uyHgzCpYYoD+Q==;QLz7EkoWnFvdbMFwceheag=="
 ---

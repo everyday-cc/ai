@@ -29,21 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Use of facial recognition as security tool on Parliament Hill would pose risks: study"
-    excerpt: "The use of facial recognition technology as a security tool on Parliament Hill would pose substantial legal, privacy and human rights risks -- and might even be unlawful, says a study prepared for ..."
-    publishedDateTime: 2022-08-29T20:14:00Z
-    webUrl: "https://www.ctvnews.ca/politics/use-of-facial-recognition-as-security-tool-on-parliament-hill-would-pose-risks-study-1.6047069"
-    ampWebUrl: "https://beta.ctvnews.ca/national/politics/2022/8/29/1_6047069.amp.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/politics/2022/8/29/1_6047069.amp.html"
+  - title: "Removing the data security barriers and concerns to accelerate speech recognition usage in radiology"
+    excerpt: "According to Scribetech, security is a key barrier to adopting speech recognition – despite its potential to accelerate reporting time, drive accuracy, and enable radiologists to deal with a ..."
+    publishedDateTime: 2022-08-31T09:20:00Z
+    webUrl: "https://www.nbc4i.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/"
     type: article
     provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 69
+      name: NBC4i
+      domain: nbc4i.com
+    quality: 41
     images:
-      - url: "https://beta.ctvnews.ca/national/politics/2022/8/29/1_6047069/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-        width: 1020
-        height: 574
+      - url: "https://i0.wp.com/www.nbc4i.com/wp-content/uploads/sites/18/2022/09/cover.jpg?w=2000&#038;ssl=1"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "ZiUJzAiEOsZyRNSke0pU2UYXLlSnGeder9lkJ4nQJkDkqpHfF/63hVViOmBQldmp4updJTMrCl6PWJkoYVgZ+LHc+QAp4tEV9AMVNnCNWRT9IU+VRDOIk1X8vhzLvhKmM+vzGGZUW5R5moylzHe899W0JdGgAwnZi2Gs7+Mg7ROUeYFWuncxg1NIb2MAb3IgPYL1vYh943zL/tN72QKFQsiLQ2rNBOKyp5YODraEAMfqPh18G5s0/pOcIO47ruZpUSXDYE8b+gdbwM7EOsgzlUfwj4jGZCA+oS/1oJyQQOusUHNCRCU23yNwZwcl0It6lp/90dQUNjr2JcUQEnNOnVV5AHun+J8lEjRCCzgqgc/2n1MVTwRcChDHZ89BdZ/ugcPbdK5vp9t0SN0j4sUzLG9qHAzPQhncISLzHUpQcoxOsjfpTkZhS8VSuvoIL3jDQsoEHs5nY4QtS+GOm0aJcSLcuMAr1AvcKcRoeO4wS8hQR0IhjkkuBqf9QunpFa/qCNEGe2JaY3nLTYVRQ69XBQ==;lGhAsU4nMWA6At36eSn6gQ=="

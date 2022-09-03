@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/in-the-fac
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/01/in-the-face-of-recession-investing-in-ai-is-a-smarter-strategy-than-ever/amp/"
 type: article
 quality: 86
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -94,6 +94,15 @@ related:
       name: MedCity News
       domain: medcitynews.com
     quality: 17
+  - title: "IoE AI is the Investment Tool Providing a Complete Toolkit for Investors Using the State of the Art Technology."
+    excerpt: "The future of investment is here as the Internet of Everything; IoE AI uses cloud-based artificial intelligence to model complex communication networks, object identification, data integrity, and device interoperability IoE AI provides state of the art toolset for modern customized complex models which are eccentric and high-tech."
+    publishedDateTime: 2022-09-01T21:03:00Z
+    webUrl: "https://apnews.com/press-release/newmediawire/technology-artificial-intelligence-944699f06faba38dd438f0cc643fdebb"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
 secured: "fdiOo2L+cdtC6/VOFstA/46r0Ci4r/xf+7cHgE1Sd8bw513/TpjYZtsYrx/SrKfnS9EHcgGfX8sN3t9Cx3k5fsrQ+jcFIFrLu1CWxkPqOSmbhrHDmwmPMpzFgjLWeFUsZOpJOrbT4P+KVo31I+2MmEJ8Wu/Uz4tsToDRH3USZ3/2Yf34yt4VhQs8nTgc77KsCiWc/Un2/X7lLndvdCZ2/p0yekKv2ZSRLLiYWORblBFg4cGem70KinQWzOT7iTcXh5UhLUWQd2pu7nTdszbd7RsMQa44JQ4PyjElU4fxbs93o/WFqMkWeJRftZRCyNILqaCTZmf5YPtGSAIw9bwqGyZBwbr0Kwd4zPR1AcvNoRt1LMk6vf2KIXBh+2+fEcWoMP9zG+lQCZOXf+nDmDKrxzGFZZa6ss/zRb4bupF1K/vkqfTC1t34iAXLlYKSJwq09GtxCXfAo8a0eUqxNVICU2dcSjKosR86s8CNaZasW6OXDPzIkGB+ZdoS77XXvrF25O6S6Pw8quti2q7ScUcdTg==;8b2lwdjJo1kV/G4sVklH8g=="
 ---

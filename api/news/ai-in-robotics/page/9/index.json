@@ -2,84 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2022-06-29-global-industrial-robot-market-report-2022-2026-growing-electronics-industry-and-growing-role-of-artificial-intelligence-in-robotics-driving.md",
-      "title": "Global Industrial Robot Market Report 2022-2026: Growing Electronics Industry and Growing Role of Artificial Intelligence in Robotics Driving Sector",
-      "excerpt": "Some of these innovations include underwater robotics, human-robot interaction, legged mobility, machine learning (ML), and self-driving vehicles. More trends in the market are believed to grow ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/g27896023/global-industrial-robot-market-report-2022-2026-growing-electronics-industry-and-growing-role-of-a",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/g27896023/global-industrial-robot-market-report-2022-2026-growing-electronics-industry-and-growing-role-of-a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27896023",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27896023",
-      "publishedDateTime": "2022-06-29T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-qa-the-investment-case-for-robotics.md",
-      "title": "Q&A: The Investment Case for Robotics",
-      "excerpt": "As robotics and artificial intelligence advance together, more complex tasks can be automated. There are two key areas where we see the next generation of robotics driving change: logistics and ...",
-      "sourceUrl": null,
-      "webUrl": "https://money.usnews.com/financial-advisors/articles/q-a-the-investment-case-for-robotics",
-      "originalUrl": "https://money.usnews.com/financial-advisors/articles/q-a-the-investment-case-for-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T12:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-28-tesla-stock-split-seen-drawing-ai-investors.md",
       "title": "Tesla Stock Split Seen Drawing AI Investors",
       "excerpt": "Tesla (TSLA)’s planned three-for-one stock split is expected to broaden its investor base, drawing artificial intelligence (AI) buyers. This should happen as the electric vehicle (EV) maker times its AI Day 2 event to generate buzz around its humanoid robot and ‘a few other exciting things.",
@@ -1297,6 +1219,83 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-fieldpoint-private-securities-llc-sells-730-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.md",
+      "title": "Fieldpoint Private Securities LLC Sells 730 Shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ)",
+      "excerpt": "Fieldpoint Private Securities LLC reduced its position in shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) by 41.5% in the 1st quarter, according to its most recent filing with the Securities & Exchange Commission.",
+      "sourceUrl": null,
+      "webUrl": "https://www.defenseworld.net/2022/06/23/fieldpoint-private-securities-llc-sells-730-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.html",
+      "originalUrl": "https://www.defenseworld.net/2022/06/23/fieldpoint-private-securities-llc-sells-730-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T01:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Defense World",
+        "domain": "defenseworld.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-robots-become-racist-and-sexist-when-programmed-with-common-ai-system-researchers-claim.md",
+      "title": "Robots become racist and sexist when programmed with common AI system, researchers claim",
+      "excerpt": "A ROBOT programmed with a popular artificial intelligence system turned racist and sexist, according to researchers. The robot was found to prefer men to women and white people over people of color.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesun.co.uk/tech/18974467/racist-sexist-robot-ai-artificial-intelligence/",
+      "originalUrl": "https://www.thesun.co.uk/tech/18974467/racist-sexist-robot-ai-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.co.uk/wp-content/uploads/2022/06/me-off-plat-racist-robot.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.co.uk/tech/18974467/racist-sexist-robot-ai-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/18974467/racist-sexist-robot-ai-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-06-22T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "thesun.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },

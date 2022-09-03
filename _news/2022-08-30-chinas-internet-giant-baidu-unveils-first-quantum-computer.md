@@ -7,8 +7,8 @@ originalUrl: "https://www.itpro.co.uk/hardware/368889/chinas-internet-giant-baid
 webUrl: "https://www.itpro.co.uk/hardware/368889/chinas-internet-giant-baidu-unveils-first-quantum-computer"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: IT Pro
@@ -27,6 +27,22 @@ images:
     width: 1260
     height: 710
     isCached: true
+
+related:
+  - title: "Baidu beats quarterly revenue estimates"
+    excerpt: "China's search engine giant Baidu Inc beat quarterly revenue estimates on Tuesday, driven by a recovery in advertising sales and higher demand for its cloud products. Total revenue stood at 29.65 ..."
+    publishedDateTime: 2022-08-30T09:05:00Z
+    webUrl: "https://www.channelnewsasia.com/business/baidu-beats-quarterly-revenue-estimates-2909281"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--biXDvPGs--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-08-30t090706z_2_lynxmpei7t09t_rtroptp_3_usa-china-audit-investors.jpg?itok=0Es-SEjN"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "DiJy9p4PpPT7RpCW7w2IfWVusGGy14+VLia5KPw9xV4NIwS2jMjB0VxztVh/esA+5HfWhrwiqJCWfjIqHmIHCbwkzBWiLEIe0mMYCHikAIvX4ShVjs348czvFAVZ5nWaeOp8W7i9SVvf2PN7kvfMDIYAcBXBZ9FYKrVtSiIpDkFadjvrhbhB1IaV/lnM7LWbELrjKKLSM0VpFarTuMVde37vJiLRiMVswxcsJGgGaHeM7tEjp2PJoouUG1n9Nc0oNpZhhl8/wbuorqGtkwRmVm6RB3EJCTPLZBALb2ZeFRKK9zHHdkIjyDbzaaSIZ6Z70r+8F9kd/skMdQHxH5tq7F812vhKzcmwnn6lFt+q3Jk=;fUUT6osjbfTIneJcqTs/jA=="
 ---

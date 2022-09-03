@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-31T18:00:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/ai-startup-aesop-raises-3m-to-tackle-medical-and-billing-errors-1031716828"
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-startup-aesop-raises-3m-to-tackle-medical-and-billing-errors-1031716828"
 type: article
+quality: 47
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -17,6 +20,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "AI Startup AESOP Raises $3M to Tackle Medical and Billing Errors"
+    excerpt: "AI Startup AESOP Raises $3M to Tackle Medical and Billing Errors Aug 31, 2022 (PRNewswire via COMTEX) -- PR Newswire SAN FRANCISCO, Aug. 31, 2022"
+    publishedDateTime: 2022-08-31T16:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-startup-aesop-raises-3m-to-tackle-medical-and-billing-errors-2022-08-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "6L7KlQ5HvpzB2DfrGKP1abvXcAlQhs5zORZSthzCPEdyYSzo2PML4TtE6z15Ks0P29Lx0lj7fQE4dSiFGIwQhuImeyq+pg74c1pnBqR+vnLBzdnBN75VZSKw+al2e9Bo+Ms16pnlOO1vdeeIqQP/4qgsS72xk9h1kAHsxAu9R9MZS/PJ9oywNKYQ22ZdHE5HFz6APzmBuPu0Iv+Voyw3DRwmAV7pC8SO58w6rw7Auv5t9mM/FiiLPS+VGrldZc5SbrKfPusPNE8SVuGAsBXn1Ver5Hel4QGCoo5HESDsfD8p7ZuJGFq5mi0nKt9uZqsCWkO5YjT01h3ineIgH3ZlGEDFYKl2ZnKUsXP+tMBJaSo=;QpH9U6pjk16ea+5SdBN6sA=="
 ---

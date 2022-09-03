@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-08-05-ethical-ai-and-biometrics-move-forward-more-industry-academia-effort-needed.md",
-      "title": "Ethical AI and biometrics move forward. More industry, academia effort needed",
-      "excerpt": "The road toward ethical, inclusive AI is still long, fortunately, new generations are being provided with the tools to help research move in this direction.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202208/ethical-ai-and-biometrics-move-forward-more-industry-academia-effort-needed",
-      "originalUrl": "https://www.biometricupdate.com/202208/ethical-ai-and-biometrics-move-forward-more-industry-academia-effort-needed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/07162020/synthetic-data-scaled.jpg",
-          "width": 2048,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T14:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-03-what-tech-leaders-should-consider-about-the-ethical-use-of-ai-in-the-metaverse.md",
       "title": "What Tech Leaders Should Consider About The Ethical Use Of AI In The Metaverse",
       "excerpt": "With the advent of the metaverse which utilizes AI-based technology, ethical use will become an important point of concern for both brands and users.",
@@ -1463,6 +1420,49 @@
       "provider": {
         "name": "Sun Journal",
         "domain": "sunjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-11-be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh.md",
+      "title": "Be prepared for upheaval due to Artificial Intelligence: Rajnath Singh",
+      "excerpt": "We have to use Artificial Intelligence (AI) for humanity's progress and peace. It should not be the case that a country or a group of countries establish their dominance on this technology -- just like nuclear power -- and the remaining countries are not able to enjoy the fruits of this technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.oneindia.com/india/be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh-3432183.html",
+      "originalUrl": "https://www.oneindia.com/india/be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh-3432183.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.oneindia.com/img/2022/07/rajnath-singh3-1657525837.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.oneindia.com/amphtml/india/be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh-3432183.html",
+      "cdnAmpWebUrl": "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/india/be-prepared-for-upheaval-due-to-artificial-intelligence-rajnath-singh-3432183.html",
+      "publishedDateTime": "2022-07-11T00:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oneindia",
+        "domain": "oneindia.com",
         "images": null,
         "publishers": null,
         "authors": null

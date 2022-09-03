@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/news/bill-targeting-teslas-self-driving-172843
 webUrl: "https://www.aol.com/news/bill-targeting-teslas-self-driving-172843729.html"
 type: article
 quality: 52
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://wp-assets.futurism.com/2022/09/california-legislature-law-full-self-driving-600x315.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Legislature Poised to Authorize 'Voice Writers' in California Courtrooms"
-    excerpt: "Commonly used in other state courts, voice writers record proceedings by repeating verbatim what speakers say into a device that transcribes speech into written words. New legislation would allow regulators to license voice writers in an effort to expand a shrinking pool of court reporters."
-    publishedDateTime: 2022-08-29T20:06:00Z
-    webUrl: "https://www.law.com/therecorder/2022/08/29/legislature-poised-to-authorize-voice-writers-in-california-courtrooms/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 23
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/403/2018/02/Sacramento-State-Capitol-Article-201802140225.jpg"
-        width: 620
-        height: 372
         isCached: true
   - title: "California Passes Bill Targeting Tesla’s Full Self-Driving Program"
     excerpt: "A bill targeting Tesla's (NASDAQ: TSLA) depiction of its “Full Self-Driving” (FSD) program passed the California state Senate on Tuesday night and now heads to Gov. Gavin Newsom for his signature. The electric vehicle leader has been marketing its FSD option since 2016."

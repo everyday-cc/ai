@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-worth-usd-832527-million-by-2027-the-insight-partners-2022-08-30"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Ai In Healthcare Market To Develop Strongly And Cross USD 10.7 Billion By 2028"
-    excerpt: "Global artificial intelligence in healthcare market was valued at USD 10.7 Billion in 2021. It is projected to grow at a compound annual rate (CAGR of"
-    publishedDateTime: 2022-08-29T19:34:00Z
-    webUrl: "https://eturbonews.com/artificial-intelligence-ai-in-healthcare-market-to-develop-strongly-and-cross-usd-10-7-billion-by-2028/"
-    type: article
-    provider:
-      name: eTurboNews
-      domain: eturbonews.com
-    quality: 55
-    images:
-      - url: "https://eturbonews.com/wp-content/uploads/2019/08/cropped-etn-logo2.jpg"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Wireless Connectivity Market worth USD 127,880.0 Mn by 2027 – Exclusive Research by The Insight Partners"
     excerpt: "According to The Insight Partners' research, the Wireless connectivity Market to 2027 – Global Analysis and Forecasts"
     publishedDateTime: 2022-08-30T12:43:00Z

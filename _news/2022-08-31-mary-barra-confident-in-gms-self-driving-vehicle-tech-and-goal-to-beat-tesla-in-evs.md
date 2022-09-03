@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/08/30/mary-barra-gm-self-driving-tech-beat-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/30/mary-barra-gm-self-driving-tech-beat-tesla-evs/amp/"
 type: article
 quality: 82
-heat: 132
+heat: 112
 published: true
 
 provider:
@@ -72,24 +72,6 @@ related:
       name: Jalopnik
       domain: jalopnik.com
     quality: 54
-  - title: "Elon Musk says that the self-driving Tesla could be ready by the end of the year"
-    excerpt: "After a six-year wait, Musk says he's aiming for the self-driving technology to be released by the end of this year. However, precedent points to this being unlikely."
-    publishedDateTime: 2022-08-29T19:07:00Z
-    webUrl: "https://www.zdnet.com/article/elon-musk-says-that-the-self-driving-tesla-could-be-ready-by-the-end-of-the-year/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 44
-  - title: "Elon Musk says Tesla aims to roll out self-driving cars by year end"
-    excerpt: "Tesla is aiming to have its self-driving technology ready and widely available by the end of 2022, CEO Elon Musk announced Monday. Musk made the comments during an energy conference in Norway, saying the vehicles will not need human drivers."
-    publishedDateTime: 2022-08-29T19:13:00Z
-    webUrl: "https://nypost.com/2022/08/29/elon-musk-says-tesla-aims-to-roll-out-self-driving-cars-by-year-end/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 34
 
 secured: "wPWLurqh0vjvAFN3F2sw91a70YeAmNQ+ve+/O2UopIu4DNbY1CUYEyI9D2EN/Mh7DIrQnjZBqTJHU9NgxFl1HjFEZh/g3ySg7e9xjVMpTMiL3WqgNaSroA8K1txjBpKrjfaza2dEcBHZ7eJ1IR2iPJu65NZl7rpv+GedifktVC9RNGkCJ7rVVk7C0zqla+re6Zx+22uwW9KZaXUQmC6/P/IFj1f8m0HekE0X7ghAg/MkvfKLLmoPhIBnWqPoDGhZSkQLwbbyk/Pdxsk5j0me6DpbaYbs6e0HBef7BRbtKK7Rq1PSmDm8VvzhsqvzGguduSTtReZjs7uxlun2rD/T1T51bhIcovFdEVQvyIumlOmVkW+lVO+9COSllXNLvuZ5q4fL2ERAVySDuXe/nGPtlfNzSXJjLLnDic7uVum4RodMLXmg3VNA/3XfpAlVLCiNp4KvSsl5eBy2rrECCQCrIVVUzSQFg7FEUVVRsTO7o8aCNLNoMLCIvJfeV2EUoxWvD8D3lNCl8PM8UAfQEEv0GA==;bucRJKyUhD3E2u4X484y4Q=="
 ---

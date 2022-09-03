@@ -159,7 +159,7 @@
       "originalUrl": "https://www.cnet.com/tech/nvidia-says-us-order-restricts-sales-of-ai-chips-to-china/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 441,
+      "heat": 461,
       "tags": null,
       "images": [
         {
@@ -258,7 +258,7 @@
     {
       "path": "_news/2022-08-31-cerebras-systems-enables-gpu-impossible-long-sequence-lengths-improving-accuracy-in-natural-language-processing-models.md",
       "title": "Cerebras Systems Enables GPU-Impossible™ Long Sequence Lengths Improving Accuracy in Natural Language Processing Models",
-      "excerpt": "This new capability is expected to lead to breakthroughs in natural language processing (NLP). By providing vastly more context to the understanding of a given word, phrase or strand of DNA, the long sequence length capability enables NLP models a much ...",
+      "excerpt": "This type of GPU infrastructure requires specialized expertise and valuable ... We have come together to build a new class of computer system, designed for the singular purpose of accelerating AI and changing the future of AI work forever.",
       "sourceUrl": null,
       "webUrl": "https://www.marketwatch.com/press-release/cerebras-systems-enables-gpu-impossibletm-long-sequence-lengths-improving-accuracy-in-natural-language-processing-models-2022-08-31",
       "originalUrl": "https://www.marketwatch.com/press-release/cerebras-systems-enables-gpu-impossibletm-long-sequence-lengths-improving-accuracy-in-natural-language-processing-models-2022-08-31",
@@ -303,9 +303,9 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AI Hardware",
         "AI",
-        "AI Hardware"
+        "Natural Language Processing"
       ]
     },
     {
@@ -413,7 +413,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-worth-usd-832527-million-by-2027-the-insight-partners-2022-08-30",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 82,
       "tags": null,
       "images": [
         {

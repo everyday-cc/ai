@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Industry’s first autonomous spreader debutsat Farm Progress Show"
-    excerpt: "Case IH and Raven Industries introduce the agriculture industry’s first autonomous spreader: the Case IH Trident™"
-    publishedDateTime: 2022-08-30T14:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/industrys-first-autonomous-spreader-debutsat-farm-progress-show-2022-08-30"
+  - title: "Waymo opens driverless robotaxi service in Phoenix to locals who can't share experiences online"
+    excerpt: "Waymo is rolling out its driverless robotaxi service in Phoenix for members of the Alphabet-owned company's 'trusted tester' program - but users can't share their experience on social media and ..."
+    publishedDateTime: 2022-08-30T17:32:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11161047/Waymo-opens-driverless-robotaxi-service-Phoenix-locals-share-experiences-online.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-11161047/amp/Waymo-opens-driverless-robotaxi-service-Phoenix-locals-share-experiences-online.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11161047/amp/Waymo-opens-driverless-robotaxi-service-Phoenix-locals-share-experiences-online.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 62
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://i.dailymail.co.uk/1s/2022/08/30/17/61875391-0-image-a-10_1661876995094.jpg"
+        width: 636
+        height: 382
         isCached: true
   - title: "First Driverless Spreader Introduced by Case IH and Raven"
     excerpt: "A new driverless spreader has been introduced this week by CNH Industrial. The Case IH Trident™ 5550 applicator with Raven Autonomy™ can be"
@@ -53,48 +55,47 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Industry’s first autonomous spreader debuts at Farm Progress Show"
-    excerpt: "Case IH and Raven Industries introduce the agriculture industry’s first autonomous spreader: the Case IH Trident ™ 5550 applicator with Raven Autonomy ™. Unveiled at Farm Progress Show 2022, this innovative solution delivers on customers’ demands for autonomous equipment to help solve labor challenges and increase productivity on their operations."
-    publishedDateTime: 2022-08-30T14:32:00Z
-    webUrl: "https://www.eagletribune.com/region/industry-s-first-autonomous-spreader-debuts-at-farm-progress-show/article_bd0c3b06-7889-504f-b01b-c4540ac61a68.html"
+  - title: "Phoenix mayor snags a ride in a driverless Waymo car as company launches autonomous rides in downtown"
+    excerpt: "Phoenix's mayor recently took a spin in a driverless Waymo car to announce the launch of fully autonomous car rides in downtown Monday, though only for a small subset of people. The self ..."
+    publishedDateTime: 2022-08-31T08:45:00Z
+    webUrl: "https://www.azcentral.com/story/news/local/phoenix/2022/08/29/waymo-program-lets-you-ride-driverless-solo-who-can-apply/7906028001/"
     type: article
     provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 24
+      name: AZ Central
+      domain: azcentral.com
+    quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/f7/6f732a6f-663d-5699-9263-ff52f4203a6d/630e214bf2e79.image.jpg?crop=606%2C318%2C522%2C0&resize=606%2C318&order=crop%2Cresize"
-        width: 606
-        height: 318
+      - url: "https://www.gannett-cdn.com/presto/2022/08/26/PPHX/ae46da1e-8443-4cd9-9487-cb6a013fa3bc-Waymo_-_Phoenix_-_Gallego.jpg?auto=webp&crop=2999,1687,x0,y201&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Raven introduces first autonomous spreader"
-    excerpt: "Autonomous equipment can perform a consistent job each time, which is very important to me, as we’ve built our farm’s reputation on being flawless and doing high-quality work.”"
-    publishedDateTime: 2022-08-31T16:34:00Z
-    webUrl: "https://www.agupdate.com/midwestmessenger/news/state-and-regional/raven-introduces-first-autonomous-spreader/article_bfb24874-294a-11ed-8ade-175f2fc79fb2.html"
+  - title: "Phoenix Gets Driverless Cars (not Teslas)"
+    excerpt: "That's because Waymo, Alphabet's (GOOGL) self-driving division, has its driverless vehicles picking up passengers in the desert city's downtown. Kate Gallego, the mayor of Phoenix, went for a ..."
+    publishedDateTime: 2022-08-30T15:07:00Z
+    webUrl: "https://www.thestreet.com/investing/driverless-cars-picking-up-passengers-in-phoenix"
     type: article
     provider:
-      name: agupdate
-      domain: agupdate.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/agupdate.com/shared-content/art/tncms/templates/libraries/flex/components/themes/resources/images/user_no_avatar.82c8fc38eb25dca10493a994ca1bfb90.png"
-        width: 256
-        height: 256
-        isCached: true
-  - title: "Case IH and Raven Debut Industry's First Autonomous Spreader at Farm Progress Show"
-    excerpt: "Two of CNH Industrial’s brands, Case IH and Raven Industries, introduce the agriculture industry’s first autonomous spreader: the Case IH Trident™ 5550 applicator with Raven Autonomy™."
-    publishedDateTime: 2022-09-01T17:42:00Z
-    webUrl: "https://www.csrwire.com/press_releases/753861-case-ih-and-raven-debut-industrys-first-autonomous-spreader-farm-progress"
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 34
+  - title: "Waymo Brings Its Driverless Taxis To Downtown Phoenix"
+    excerpt: "The Alphabet-owned company this week started picking up “trusted” passengers in the region using its driverless taxis, The Verge reports. These robot taxis come without human safety drivers ..."
+    publishedDateTime: 2022-08-31T00:00:00Z
+    webUrl: "https://www.androidheadlines.com/2022/08/waymo-driverless-taxis-downtown-phoenix.html"
     type: article
     provider:
-      name: CSR Wire
-      domain: csrwire.com
-    quality: 18
-    images:
-      - url: "https://back.3blmedia.com/sites/default/files/inline-images/CASEIHSPREADER_CNHINDUSTRIAL_2022.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: androidheadlines.com
+      domain: androidheadlines.com
+    quality: 34
+  - title: "AutoX Tests Downtown Shanghai’s First L4 Robotaxi Service"
+    excerpt: "To reach a large-scale standardized implementation of robotaxis, it’s essential to have an efficient central operation network,” AutoX founder and Chief Executive Officer Xiao Jianxiong told Yicai Global."
+    publishedDateTime: 2022-09-02T11:45:00Z
+    webUrl: "https://www.yicaiglobal.com/news/autox-tests-downtown-shanghai-first-l4-robotaxi-service"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 19
 
 secured: "wwZImaVzvEJ7tHxDmXGgRRP0k+ObSmVPMO30ZB9kOuQ5en+iC9tLk9+2XE1UoM5e89THUN/uags6FygpLbQgvDON6AlPrj+rGl97fsnT0G3M2V7NM5RwrDcsjZaBdpmd12DD1g3WuSZXROGKr21tdxnBcI07JG64pwyTYNTJgaWtdGYdLh6YpvR+DHjy4BQyg6b+o6AamzZdsU2D6//pjTLfvSWrLf6fXWmlBcehL9zdetxcokfxF97e49+n6QWgqVf9J6jW66xhqgMuoIs56XBCPMi2tTI9vdGx8DeQLKooQlthuRxK2hdb8yvmQ6hsb8agx/uhSnJ8LJs/5umY8MFe6Sv0EWX440cdP63p6v0eC0yVfZybTPvmhl5jEOOlLV3JhgXYPGbsavAHoUOuE7zJa6iu+TxQMEBmTZXwWyI2C50w5nWhXtozX+4GRnJbU+zg/ofGy11bfXNvORzkyEhK2vXviipLgko7Gcr5K4QKB73sYeGJ5qRqg9NxVVvpgIoLUeMHYegwiOoXXcyrqA==;DxiN1E5uilqFO5F7JwaD3A=="
 ---

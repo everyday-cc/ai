@@ -27,7 +27,7 @@ images:
 
 related:
   - title: "Cerebras Systems Enables GPU-Impossible™ Long Sequence Lengths Improving Accuracy in Natural Language Processing Models"
-    excerpt: "This new capability is expected to lead to breakthroughs in natural language processing (NLP). By providing vastly more context to the understanding of a given word, phrase or strand of DNA, the long sequence length capability enables NLP models a much ..."
+    excerpt: "This type of GPU infrastructure requires specialized expertise and valuable ... We have come together to build a new class of computer system, designed for the singular purpose of accelerating AI and changing the future of AI work forever."
     publishedDateTime: 2022-08-31T13:00:00Z
     webUrl: "https://www.marketwatch.com/press-release/cerebras-systems-enables-gpu-impossibletm-long-sequence-lengths-improving-accuracy-in-natural-language-processing-models-2022-08-31"
     type: article

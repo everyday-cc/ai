@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Musk Focused On Getting Self-Driving Teslas In Wide Release By Year-End"
-    excerpt: "Tesla chief Elon Musk said on Monday he aimed to get the electric auto maker's self-driving technology ready by year-end and hopes it could be in"
-    publishedDateTime: 2022-08-29T19:52:00Z
-    webUrl: "https://menafn.com/1104776987/Musk-Focused-On-Getting-Self-Driving-Teslas-In-Wide-Release-By-Year-End"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 19
   - title: "Elon Musk Wants Self-Driving Teslas Ready Before The End Of The Year"
     excerpt: "Tesla's CEO revealed his top priorities while speaking about the importance of fossil fuels in the ongoing energy crisis"
     publishedDateTime: 2022-08-30T18:29:00Z

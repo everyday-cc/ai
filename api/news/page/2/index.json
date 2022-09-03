@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-01-how-ai-can-help-document-legacy-cobol-code-before-its-too-late.md",
+      "title": "How AI can help document legacy COBOL code, before it’s too late",
+      "excerpt": "COBOL is 60 years old, and when the existing pool of its developers retires, some worry the knowledge of how COBOL applications have been built and structured will be lost. AI tools could be a solution.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/programming-development/how-ai-can-help-document-legacy-cobol-code-before-its-too-late/",
+      "originalUrl": "https://venturebeat.com/programming-development/how-ai-can-help-document-legacy-cobol-code-before-its-too-late/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1168836247.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/programming-development/how-ai-can-help-document-legacy-cobol-code-before-its-too-late/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/programming-development/how-ai-can-help-document-legacy-cobol-code-before-its-too-late/amp/",
+      "publishedDateTime": "2022-09-01T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-meet-the-japanese-robot-who-stocks-drinks-at-the-corner-store.md",
+      "title": "Meet the Japanese Robot Who Stocks Drinks at the Corner Store",
+      "excerpt": "A robot in Tokyo named TX SCARA is helping stock drinks at FamilyMart convenience stores following a worker shortage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/434550",
+      "originalUrl": "https://www.entrepreneur.com/article/434550",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1662046330-robot-convience-stores-japan-getty.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-01T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-artificial-intelligence-ai-in-supply-chain-market-size-share-volume-trends-demand-forecast-report-2022-2028.md",
       "title": "Artificial Intelligence (AI) In Supply Chain Market Size Share Volume Trends Demand Forecast Report 2022-2028",
       "excerpt": "The global Artificial Intelligence (AI) In Supply Chain market is segregated on the basis of Technology as Machine",
@@ -113,7 +216,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/in-the-face-of-recession-investing-in-ai-is-a-smarter-strategy-than-ever/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -519,7 +622,7 @@
       "originalUrl": "https://www.cnet.com/tech/nvidia-says-us-order-restricts-sales-of-ai-chips-to-china/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 441,
+      "heat": 461,
       "tags": null,
       "images": [
         {
@@ -607,58 +710,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-01-ai-wins-state-fair-art-contest-annoys-humans.md",
-      "title": "AI wins state fair art contest, annoys humans",
-      "excerpt": "Allen's victory prompted lively discussions on Twitter, Reddit, and the Midjourney Discord server about the nature of art and what it means to be an artist. Some commenters think human artistry is doomed thanks to AI and that all artists are destined to be replaced by machines.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/08/ai-wins-state-fair-art-contest-annoys-humans/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/08/ai-wins-state-fair-art-contest-annoys-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/art_contest_winner-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-31T14:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2022-09-01-bill-targeting-teslas-self-driving-claims-passes-california-legislature.md",
       "title": "Bill targeting Tesla's 'self-driving' claims passes California Legislature",
       "excerpt": "Tired of waiting for the DMV to act on what they see as a serious matter of public safety, California lawmakers took the matter into their own hands.",
@@ -667,7 +718,7 @@
       "originalUrl": "https://www.aol.com/news/bill-targeting-teslas-self-driving-172843729.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -750,57 +801,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-man-boasts-about-winning-art-competition-using-ai-created-image.md",
-      "title": "Man Boasts About Winning Art Competition Using AI-Created Image",
-      "excerpt": "Jason Allen's winning entry for the Colorado State Fair fine arts competition relied on an AI-powered program called Midjourney, which can generate images from a line of text.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/man-boasts-about-winning-art-competition-using-ai-created-image",
-      "originalUrl": "https://www.pcmag.com/news/man-boasts-about-winning-art-competition-using-ai-created-image",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/07LHXzoytNISjOYTSehqJ5N-1.fit_lim.size_1200x630.v1661964398.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-31T11:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -915,7 +915,7 @@
       "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/08/31/gaining-insights-from-private-data-using-federated-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1013,7 +1013,7 @@
     {
       "path": "_news/2022-08-31-cerebras-systems-enables-gpu-impossible-long-sequence-lengths-improving-accuracy-in-natural-language-processing-models.md",
       "title": "Cerebras Systems Enables GPU-Impossible™ Long Sequence Lengths Improving Accuracy in Natural Language Processing Models",
-      "excerpt": "This new capability is expected to lead to breakthroughs in natural language processing (NLP). By providing vastly more context to the understanding of a given word, phrase or strand of DNA, the long sequence length capability enables NLP models a much ...",
+      "excerpt": "This type of GPU infrastructure requires specialized expertise and valuable ... We have come together to build a new class of computer system, designed for the singular purpose of accelerating AI and changing the future of AI work forever.",
       "sourceUrl": null,
       "webUrl": "https://www.marketwatch.com/press-release/cerebras-systems-enables-gpu-impossibletm-long-sequence-lengths-improving-accuracy-in-natural-language-processing-models-2022-08-31",
       "originalUrl": "https://www.marketwatch.com/press-release/cerebras-systems-enables-gpu-impossibletm-long-sequence-lengths-improving-accuracy-in-natural-language-processing-models-2022-08-31",
@@ -1058,9 +1058,9 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AI Hardware",
         "AI",
-        "AI Hardware"
+        "Natural Language Processing"
       ]
     },
     {

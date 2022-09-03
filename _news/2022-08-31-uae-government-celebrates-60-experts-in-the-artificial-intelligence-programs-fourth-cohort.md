@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence is our future, coding our language, UAE minister tells graduates"
+    excerpt: "Dubai: The UAE government celebrated 60 experts who graduated from the fourth cohort of the Artificial Intelligence (AI) programme. It was organised in collaboration between UAE Minister of State for Artificial intelligence,"
+    publishedDateTime: 2022-09-03T14:24:00Z
+    webUrl: "https://gulfnews.com/uae/artificial-intelligence-is-our-future-coding-our-language-uae-minister-tells-graduates-1.90234839"
+    ampWebUrl: "https://gulfnews.com/amp/uae/artificial-intelligence-is-our-future-coding-our-language-uae-minister-tells-graduates-1.90234839"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/artificial-intelligence-is-our-future-coding-our-language-uae-minister-tells-graduates-1.90234839"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 48
+    images:
+      - url: "https://imagevars.gulfnews.com/2022/09/03/The-UAE-Government-celebrates-the-fourth-cohort-of-the-Artificial-intelligence-program--3--1662214640560_18303b693ef_medium.jpg"
+        width: 540
+        height: 405
+        isCached: true
   - title: "UAE Government Celebrates 60 Experts In Artificial Intelligence Programme's Fourth Cohort"
     excerpt: "DUBAI, 31st August, 2022 (WAM) -- The UAE government celebrated 60 experts who graduated from the fourth cohort of the Artificial intelligence programme, organised in collaboration between the UAE Minister of State for Artificial intelligence,"
     publishedDateTime: 2022-08-31T17:19:00Z

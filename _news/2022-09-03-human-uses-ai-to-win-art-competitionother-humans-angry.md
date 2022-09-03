@@ -19,20 +19,49 @@ topics:
   - AI
 
 related:
-  - title: "AI wins state fair art contest, annoys humans"
-    excerpt: "Allen's victory prompted lively discussions on Twitter, Reddit, and the Midjourney Discord server about the nature of art and what it means to be an artist. Some commenters think human artistry is doomed thanks to AI and that all artists are destined to be replaced by machines."
-    publishedDateTime: 2022-08-31T21:19:00Z
-    webUrl: "https://arstechnica.com/information-technology/2022/08/ai-wins-state-fair-art-contest-annoys-humans/"
+  - title: "Colorado State Fair Competition Names An Unlikely Winner: AI-Made Artwork"
+    excerpt: "The piece saw a storm of criticism this week as onlookers debated the use of artificial intelligence in the arts."
+    publishedDateTime: 2022-09-03T15:20:00Z
+    webUrl: "https://www.huffpost.com/entry/colorado-state-fair-ai-art_n_63106fc4e4b063d5e621ef1a"
+    ampWebUrl: "https://www.huffpost.com/entry/colorado-state-fair-ai-art_n_63106fc4e4b063d5e621ef1a/amp"
+    cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/colorado-state-fair-ai-art_n_63106fc4e4b063d5e621ef1a/amp"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
+      name: HuffPost
+      domain: huffpost.com
+    quality: 86
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/08/art_contest_winner-760x380.jpg"
-        width: 760
-        height: 380
+      - url: "https://img.huffingtonpost.com/asset/6312c3a32300001c00b7ea48.jpg?cache=Ya4ddTpBVY&ops=1200_630"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "A man won an art competition in Colorado using AI-generated art, prompting a debate over what art is"
+    excerpt: "A man used an artificial intelligence program called Midjourney to create artwork that won a blue ribbon for digital art at the Colorado State Fair."
+    publishedDateTime: 2022-09-03T11:03:00Z
+    webUrl: "https://www.businessinsider.com/ai-art-wins-competition-angering-artists-2022-9"
+    ampWebUrl: "https://www.businessinsider.com/ai-art-wins-competition-angering-artists-2022-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-art-wins-competition-angering-artists-2022-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://i.insider.com/63126efd023509001aecc5f0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "The Winner of a Colorado Art Competition Used AI"
+    excerpt: "Many of us have had our fun with AI art generators— like DALL-E —over the last few months, but one artist in Colorado took it a step further and won the state fair’s fine art competition with a work generated with the help of an algorithm."
+    publishedDateTime: 2022-09-01T15:45:00Z
+    webUrl: "https://gizmodo.com/ai-art-midjourney-1849484280"
+    ampWebUrl: "https://gizmodo.com/ai-art-midjourney-1849484280/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ai-art-midjourney-1849484280/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 67
   - title: "AI-created artwork wins first place at Colorado State Fair, artist receives criticism"
     excerpt: "At the Colorado State Fair, a piece of digital artwork that won first place in a competition, has some people in the art community concerned."
     publishedDateTime: 2022-08-31T23:14:00Z
@@ -48,6 +77,20 @@ related:
       - url: "https://x-default-stgec.uplynk.com/ausw/slices/dc8/b2da66f716dc47439b09dfbbeb8a98d1/dc85658f78fe4b4785e4ad65b62f3a54/poster_777b4ef44d7c483ba700186bac100b1c.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Will artificial intelligence replace artists after winning a competition?"
+    excerpt: "Allen told the Pueblo Chieftain in an interview, \"I wanted to make a statement with artificial intelligence art. I think I did that, and I'm not going to feel bad about it.\" Allen sent in three pieces he made with Midjourney after trying out different phrases,"
+    publishedDateTime: 2022-09-02T14:46:00Z
+    webUrl: "https://www.artmajeur.com/en/magazine/2-art-news/will-artificial-intelligence-replace-artists-after-winning-a-competition/332026"
+    type: article
+    provider:
+      name: Artmajeur
+      domain: artmajeur.com
+    quality: 36
+    images:
+      - url: "https://www.artmajeur.com/medias/hd/s/e/selena-mattei/blog/302768718-471040697999512-6820767108283761749-n.jpg"
+        width: 1000
+        height: 623
         isCached: true
 
 secured: "Na5+ymq5a1j8CNiOuHvaHs+i8p+/6hPxCBb/CwIAdnRtnxpBB/iIK8DAPZN3hZRg4oZyzaCuP5mUiyVPKxdC4iFbyRNZGn6rabR0+wt3G60/qs0DZ2Wlr0bLBNscTu7SOQNlao0MLJyWVj0zvdG94ixzCX/nP0BSyrGbSHjzbZwzLyks+mHoc5O2S6zsYETMlJNIdFe6htj2upFOKImaT4yQketmDYGITMBjFm5NyYC7I/HMNJavStTrr+wqBImj53prIeiMmW6Fq2hRVRlFgeT0qFR77epcorzXxXHNtX5W/EwkWEOGNIv/IWnq91/i3+yeyYKCTHbPVhvFF1j16FCOsI8q63Qq3j19eXjsMEY=;ObhRPI0eZurxkkh4vWiCEQ=="

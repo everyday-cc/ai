@@ -42,15 +42,6 @@ related:
       name: Just Auto
       domain: just-auto.com
     quality: 19
-  - title: "Musk Focused On Getting Self-Driving Teslas In Wide Release By Year-End"
-    excerpt: "Tesla chief Elon Musk said on Monday he aimed to get the electric auto maker's self-driving technology ready by year-end and hopes it could be in"
-    publishedDateTime: 2022-08-29T19:52:00Z
-    webUrl: "https://menafn.com/1104776987/Musk-Focused-On-Getting-Self-Driving-Teslas-In-Wide-Release-By-Year-End"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 19
   - title: "Skoda Vision 7S Concept, VW Tavendor For China, And Musk Wants Self-Driving Teslas By End Of Year: Your Morning Brief"
     excerpt: "Skoda offers a glimpse of its upcoming flagship SUV with the Vision 7S Concept. With three rows of seats and an electric drivetrain, the production version of the Vision 7S concept will replace the Kodiaq,"
     publishedDateTime: 2022-08-31T12:35:00Z

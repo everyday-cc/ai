@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Face biometrics providers considering expansion and tough questions"
+    excerpt: "Biometrics are reaching a crucial point in the adoption curve, with new research forecasting that people are ready to use biometric technologies."
+    publishedDateTime: 2022-09-03T15:29:00Z
+    webUrl: "https://www.biometricupdate.com/202209/face-biometrics-providers-considering-expansion-and-tough-questions"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/01142748/panasonic-facial-recognition-payment.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
   - title: "Voice Biometrics Market Is Expected To Grow As Biometrics Used As Credentials Thorough Algorithms To Verify Users."
     excerpt: "The size of the global voice biometrics market is anticipated to grow at a revenue CAGR of 22.3% from 2017 to 2028, reaching USD 5,889.9 million. Voice biometrics market revenue growth is anticipated to be driven by the rising requirement for more reliable and secure means of operating and accessing components,"
     publishedDateTime: 2022-09-02T00:55:00Z

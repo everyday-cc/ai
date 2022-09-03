@@ -215,7 +215,7 @@
       "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/08/31/gaining-insights-from-private-data-using-federated-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -654,6 +654,49 @@
         "Google AI",
         "Facebook AI",
         "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-global-ai-machine-learning-market-business-overview-upcoming-trends-and-top-company-analysis-forecast-2021-2031.md",
+      "title": "Global AI Machine Learning Market: Business overview, Upcoming Trends and Top Company Analysis Forecast 2021-2031",
+      "excerpt": "The report titled Global AI Machine Learning Market which was recently added by Kenneth Research, aims at providing",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-ai-machine-learning-market-business-overview-upcoming-trends-and-top-company-analysis-forecast-2021-2031-2022-08-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-machine-learning-market-business-overview-upcoming-trends-and-top-company-analysis-forecast-2021-2031-2022-08-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T01:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1387,58 +1430,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-ray-the-machine-learning-tech-behind-openai-levels-up-to-ray-20.md",
-      "title": "Ray, the machine learning tech behind OpenAI, levels up to Ray 2.0",
-      "excerpt": "Ray, which enables machine learning models to scale across hardware resources, has released Ray 2.0 to simplify building AI workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ray-the-machine-learning-tech-behind-openai-levels-up-to-ray-2-0/",
-      "originalUrl": "https://venturebeat.com/ai/ray-the-machine-learning-tech-behind-openai-levels-up-to-ray-2-0/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/image1-4.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ray-the-machine-learning-tech-behind-openai-levels-up-to-ray-2-0/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ray-the-machine-learning-tech-behind-openai-levels-up-to-ray-2-0/amp/",
-      "publishedDateTime": "2022-08-23T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

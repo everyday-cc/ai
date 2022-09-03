@@ -54,21 +54,21 @@
       ]
     },
     {
-      "path": "_news/2022-08-30-create-a-batch-recommendation-pipeline-using-amazon-personalize-with-no-code.md",
-      "title": "Create a batch recommendation pipeline using Amazon Personalize with no code",
-      "excerpt": "With personalized content more likely to drive customer engagement, businesses continuously seek to provide tailored content based on their customer’s profile and behavior. Recommendation systems in particular seek to predict the preference an end-user would give to an item. Some common use cases include",
+      "path": "_news/2022-09-01-learn-how-amazon-sagemaker-clarify-helps-detect-bias.md",
+      "title": "Learn How Amazon SageMaker Clarify Helps Detect Bias",
+      "excerpt": "Bias detection in data and model outcomes is a fundamental requirement for building responsible artificial intelligence (AI) and machine learning (ML) models. Unfortunately, detecting bias isn’t an easy task for the vast majority of practitioners due to the large number of ways in which it can be measured",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-a-batch-recommendation-pipeline-using-amazon-personalize-with-no-code/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-a-batch-recommendation-pipeline-using-amazon-personalize-with-no-code/",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/learn-how-amazon-sagemaker-clarify-helps-detect-bias/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/learn-how-amazon-sagemaker-clarify-helps-detect-bias/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/30/batch-recommendation-personalize.jpg",
-          "width": 1533,
-          "height": 766,
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/01/Featured-images-for-ML-9368.jpg",
+          "width": 800,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -78,7 +78,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T08:39:14-07:00",
+      "publishedDateTime": "2022-09-01T09:06:15-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",

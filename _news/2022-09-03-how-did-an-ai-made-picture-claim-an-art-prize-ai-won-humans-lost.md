@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-03T13:00:00Z
 originalUrl: "https://www.seattletimes.com/business/how-did-an-ai-made-picture-claim-an-art-prize-ai-won-humans-lost/"
 webUrl: "https://www.seattletimes.com/business/how-did-an-ai-made-picture-claim-an-art-prize-ai-won-humans-lost/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Seattle Times

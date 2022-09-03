@@ -10,7 +10,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-global-market-to-reach-2417-billion-by-2026-2022-08-31",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -114,7 +114,7 @@
       "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/study-finds-artificial-intelligence-helps-in-treating-women-with-heart-attacks/93894432",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -200,7 +200,7 @@
       "originalUrl": "https://electrek.co/2022/08/30/mary-barra-gm-self-driving-tech-beat-tesla-evs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -391,6 +391,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-31-waymo-opens-driverless-robotaxi-service-in-phoenix-to-locals-who-cant-share-experiences-online.md",
+      "title": "Waymo opens driverless robotaxi service in Phoenix to locals who can't share experiences online",
+      "excerpt": "Waymo is rolling out its driverless robotaxi service in Phoenix for members of the Alphabet-owned company's 'trusted tester' program - but users can't share their experience on social media and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-11161047/Waymo-opens-driverless-robotaxi-service-Phoenix-locals-share-experiences-online.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-11161047/Waymo-opens-driverless-robotaxi-service-Phoenix-locals-share-experiences-online.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2022/08/30/17/61875391-0-image-a-10_1661876995094.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-11161047/amp/Waymo-opens-driverless-robotaxi-service-Phoenix-locals-share-experiences-online.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11161047/amp/Waymo-opens-driverless-robotaxi-service-Phoenix-locals-share-experiences-online.html",
+      "publishedDateTime": "2022-08-30T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-31-is-it-ever-okay-to-ghost-a-new-employer.md",
       "title": "Is it ever okay to ghost a new employer?",
       "excerpt": "Ghosting an employer could potentially have negative repercussions for your job search and reputation. Learn why.",
@@ -539,21 +582,21 @@
       ]
     },
     {
-      "path": "_news/2022-08-30-create-a-batch-recommendation-pipeline-using-amazon-personalize-with-no-code.md",
-      "title": "Create a batch recommendation pipeline using Amazon Personalize with no code",
-      "excerpt": "With personalized content more likely to drive customer engagement, businesses continuously seek to provide tailored content based on their customer’s profile and behavior. Recommendation systems in particular seek to predict the preference an end-user would give to an item. Some common use cases include",
+      "path": "_news/2022-08-30-france-reveals-hidden-swimming-pools-with-ai-taxes-them.md",
+      "title": "France reveals hidden swimming pools with AI, taxes them",
+      "excerpt": "Using an artificial intelligence computer vision system developed by French IT firm Capgemini, the French tax office (often called \"Le Fisc\") has identified 20,356 residential swimming pools that had previously gone undeclared.",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-a-batch-recommendation-pipeline-using-amazon-personalize-with-no-code/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-a-batch-recommendation-pipeline-using-amazon-personalize-with-no-code/",
+      "webUrl": "https://arstechnica.com/information-technology/2022/08/france-reveals-hidden-swimming-pools-with-ai-taxes-them/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/08/france-reveals-hidden-swimming-pools-with-ai-taxes-them/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 107,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/30/batch-recommendation-personalize.jpg",
-          "width": 1533,
-          "height": 766,
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/french-pool-760x380.jpg",
+          "width": 760,
+          "height": 380,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -563,14 +606,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T08:39:14-07:00",
+      "publishedDateTime": "2022-08-30T09:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -586,8 +629,7 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AWS AI"
+        "AI"
       ]
     },
     {
@@ -703,7 +745,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/industrys-first-autonomous-spreader-debutsat-farm-progress-show-2022-08-30",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -842,6 +884,58 @@
       ]
     },
     {
+      "path": "_news/2022-08-30-chinas-internet-giant-baidu-unveils-first-quantum-computer.md",
+      "title": "China’s internet giant Baidu unveils first quantum computer",
+      "excerpt": "China’s Baidu revealed today its first superconducting quantum computer that fully integrates hardware, software, and applications. The supercomputer, named Qian Shi, offers a quantum computing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/hardware/368889/chinas-internet-giant-baidu-unveils-first-quantum-computer",
+      "originalUrl": "https://www.itpro.co.uk/hardware/368889/chinas-internet-giant-baidu-unveils-first-quantum-computer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1661426076/itpro/2022/August/Baidu_Quantum_Computer_China_APAC.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-nvidia-dell-vmware-add-ai-zero-trust-security-into-new-data-center-package.md",
       "title": "Nvidia, Dell, VMware add AI, zero-trust security into new data center package",
       "excerpt": "Dell servers containing Nvidia DPUs, GPUs, and VMware vSphere 8 use multiple firewalls to improve security for cloud-based workloads.",
@@ -955,7 +1049,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-worth-usd-832527-million-by-2027-the-insight-partners-2022-08-30",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -1143,102 +1237,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-baidu-revenue-contracts-but-beats-estimates-on-cloud-business-growth.md",
-      "title": "Baidu revenue contracts but beats estimates on cloud business growth",
-      "excerpt": "Revenue at Baidu's AI Cloud unit grew 31% year-on-year in the quarter. Baidu has also been doubling down on self-driving technologies, in which it has heavily invested over the past five years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/baidu-beats-quarterly-revenue-estimates-2022-08-30/",
-      "originalUrl": "https://www.reuters.com/technology/baidu-beats-quarterly-revenue-estimates-2022-08-30/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/VcMhCTIPuZkROATTg3O8vy954F8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DO6AEQYAIVJRHB6NSPK3CHZTQA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-artificial-intelligence-and-machine-learning-now-integral-to-smart-power-solutions.md",
-      "title": "Artificial intelligence and machine learning now integral to smart power solutions",
-      "excerpt": "They help to improve efficiency and profitability for utilities. The utilities’ space is rapidly transforming today. It’s shifting from the conventional and a highly-regulated environment to a tech-driven market at a fast clip.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-and-machine-learning-now-integral-to-smart-power-solutions/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-and-machine-learning-now-integral-to-smart-power-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/Raj.png",
-          "width": 295,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-and-machine-learning-now-integral-to-smart-power-solutions/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-and-machine-learning-now-integral-to-smart-power-solutions/",
-      "publishedDateTime": "2022-08-30T03:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

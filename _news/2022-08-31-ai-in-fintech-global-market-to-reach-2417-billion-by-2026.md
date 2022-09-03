@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-global-mar
 webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-global-market-to-reach-2417-billion-by-2026-2022-08-31"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -95,6 +95,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 36
+  - title: "AI in FinTech Global Market Report 2022: Key Players Microsoft, Google, IBM & Others Driving 27.6% Annual Growth"
+    excerpt: "Dublin, Aug. 30, 2022 (GLOBE NEWSWIRE) -- The \"AI in FinTech Global Market Report 2022\" report has been added to ResearchAndMarkets.com's offering. The global AI in fintech market is expected to ..."
+    publishedDateTime: 2022-08-30T10:03:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/g28680688/ai-in-fintech-global-market-report-2022-key-players-microsoft-google-ibm-others-driving-27-6-annua"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 15
 
 secured: "gB1GKG5Dc/dJKtAIMv8GPIw08diBEx8u2UYVnyDzc33St2dy0hw42r/XyNw73RbEaUufor8rp9VCJU5eTSkTSgNNQd2OnQ/mT/GeaDx/jHjyAU3p4ATPfJWGcLliQ71ESqukrpx6PPfG2KXtftCHrve8aPCumnYnonroGNVHH6OjZheQNucgR37qoH9kX+TfbwBbQxPK07kXSxwxyjN62ZMjull5rczGFpC0/CeMPhpEsgbOBKRNrrSRGE9WD8WP0tZknv3CYT9OJUs+ag4rqLkoNVrarVMGrx9xbK6RFPBLXU5zzwevK5ln6n6rYpJVFnC6JgdOzxX9WpNKiWmz3SPAYm0hn+edFtX9cT20Pn4=;ES0GnJiJ3g4uZpOTB5XCqA=="
 ---

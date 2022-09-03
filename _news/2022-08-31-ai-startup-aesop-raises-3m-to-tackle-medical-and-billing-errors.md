@@ -29,19 +29,14 @@ images:
 
 related:
   - title: "AI Startup AESOP Raises $3M to Tackle Medical and Billing Errors"
-    excerpt: "Digital health startup AESOP Technology has raised a $2.95 million series pre-A round to address the growing medical and billing errors problem. The round was led"
-    publishedDateTime: 2022-08-31T17:00:00Z
-    webUrl: "https://www.asiaone.com/business/ai-startup-aesop-raises-3m-tackle-medical-and-billing-errors"
+    excerpt: "Originally from Taiwan, AESOP started as a university spin-off from Taipei Medical University (TMU). Professor Yu Chuan (Jack) Li, the founder and current president of the International Medical Informatics Association,"
+    publishedDateTime: 2022-08-31T18:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-startup-aesop-raises-3m-to-tackle-medical-and-billing-errors-1031716828"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 37
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Sep2022/pr-newswire_500_4.jpg?h=7de12b8a&itok=WQje1YM1"
-        width: 600
-        height: 316
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "2ZlUhmjcUGOtaxtzU7/TByZGGZPedMR9Qb6f54FYQizzf0TIkYbwj22fsOcF2pZDByKAeWuKAqiuebAmr4lUHuh02C2DM0KM/LrhP2tAssogEi/es6WtoRKSUrZWLlwo6vMV5EXTVWNAVHJJuQUPyh8dAXeo+zD7DSUtpCuf9Dr2M1hf7d6E78rHNSQ1BZPsZkFcug5OB6lLtM6fIwu8B/0npV6Qr1VAbN/vqP/hmQexCxLeC/31XPH8dx3gDZ0b8Wm8l1rFsq4p7XV9sjI+HPzcpxqpTtyFu2aNXNBG+A0sGgs4GgD6dAPGWD/hDPIm+g8ZtZyi+RqWYR8unjj+bgkd3CtYYhsK2+1Uo0kgoYk=;+dBbrhon1CPAnPoloCEdQw=="
 ---

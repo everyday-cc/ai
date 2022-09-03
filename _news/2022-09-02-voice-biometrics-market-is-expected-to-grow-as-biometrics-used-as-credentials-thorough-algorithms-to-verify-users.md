@@ -41,6 +41,20 @@ related:
         width: 852
         height: 480
         isCached: true
+  - title: "Face biometrics providers considering expansion and tough questions"
+    excerpt: "Biometrics are reaching a crucial point in the adoption curve, with new research forecasting that people are ready to use biometric technologies."
+    publishedDateTime: 2022-09-03T15:29:00Z
+    webUrl: "https://www.biometricupdate.com/202209/face-biometrics-providers-considering-expansion-and-tough-questions"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/01142748/panasonic-facial-recognition-payment.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
 
 secured: "i3FjnVc03Ohyh3qPcOh3x6EoeMj6cZZKkmwKoyXbngjv30bVltFBphD6caBjEiPz7Ef020xfXnf4Go1lrSbokyx4sYeokzyFHYCC8+qTrFW2+5ViVGdofxPJAZSpfV459p41PbabzWRBWGtgLqNPHc9+W6fal4YpxU/VUQTWVUA8ZoFvGyUXC5s+/b2Pzhsy+AoGZxwTZvQk3rnPrZlXhrAqiOnaGZ6UD6Vplg3VQTn0bGbTV9SwJOUc9ZTEnB5ITV9P5/6NELgznRJQ2BH2oP956tcpQxiQ8BuqiUJMNbSu162EdrSD9a0n6OqS7X7ZuGPzKOb9cdWooQZqrkTrlH2q/w9zDUpcWP3FJTJ0lJi5C4Fm/B/4mRUf5YtRjJW+GHA8sIIXr1LpolSOaEWJWt19Dt9l5m8MHu1pV+irrHPZgV7cba4dTXYY6ytcOlnZ/hX/2wk6/RrORxDwZQsJdY1rxL37tS5IIm17UeibaYO0T2I98Js6OvEF3QNnVivARik+cIdyaNH4jUWhs5JmMQ==;8cITf9wDBbjbQXL5eISyug=="
 ---

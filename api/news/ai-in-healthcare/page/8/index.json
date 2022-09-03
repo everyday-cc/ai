@@ -2,59 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2022-06-09-how-ai-data-are-transforming-healthcare-three-key-trends-that-could-change-the-face-of-medicine.md",
-      "title": "How AI, data are transforming healthcare: three key trends that could change the face of medicine",
-      "excerpt": "The Stat Health Tech Summit in the United States put inventors with some great ideas for changing healthcare into the spotlight. We take a look at three highlights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/lifestyle/health-wellness/article/3180813/how-ai-data-are-transforming-healthcare-three-key-trends",
-      "originalUrl": "https://www.scmp.com/lifestyle/health-wellness/article/3180813/how-ai-data-are-transforming-healthcare-three-key-trends",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/06/08/b9326f2e-f80e-45be-bac9-18ac2f181fff_205e9f0b.jpg?itok=Lb076e6s&v=1654657778",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/lifestyle/health-wellness/article/3180813/how-ai-data-are-transforming-healthcare-three-key-trends",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/health-wellness/article/3180813/how-ai-data-are-transforming-healthcare-three-key-trends",
-      "publishedDateTime": "2022-06-08T16:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-06-09-why-healthcare-organizations-select-amazon-web-services-over-google-microsoft.md",
       "title": "Why healthcare organizations select Amazon Web Services over Google, Microsoft",
       "excerpt": "Healthcare organizations chose Amazon Web Services over rival cloud computing companies Google and Microsoft for artificial intelligence and machine learning because it was the most mature platform, had good name and brand recognition and came with high reliability,",
@@ -1296,6 +1243,49 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-inveniai-and-kyowa-kirin-announce-achievement-of-milestone-in-research-collaboration.md",
+      "title": "InveniAI and Kyowa Kirin Announce Achievement of Milestone in Research Collaboration",
+      "excerpt": "InveniAI® LLC, a global leader in applying Artificial Intelligence (AI) and Machine Learning (ML) to transform drug and target discovery and development, and Kyowa Kirin Co., Ltd. (Kyowa Kirin, TSE:4151),",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-health-artificial-intelligence-7bc178ab2bb27255598601b684090154",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-health-artificial-intelligence-7bc178ab2bb27255598601b684090154",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-31T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],
