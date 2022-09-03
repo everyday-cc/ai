@@ -42,6 +42,20 @@ related:
         width: 480
         height: 311
         isCached: true
+  - title: "Self-driving tech firm Aurora mulls sale to Apple or Microsoft, says report"
+    excerpt: "Aurora Innovation Inc chief executive Chris Urmson recently outlined several options for the self-driving tech firm to combat challenging market conditions, including a possible sale to Apple Inc or Microsoft Corp,"
+    publishedDateTime: 2022-09-03T09:58:00Z
+    webUrl: "https://www.carsifu.my/news/self-driving-tech-firm-aurora-mulls-sale-to-apple-or-microsoft-says-report"
+    type: article
+    provider:
+      name: CarSifu
+      domain: carsifu.my
+    quality: 39
+    images:
+      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2022/09/Clipboard02.jpg"
+        width: 1024
+        height: 517
+        isCached: true
   - title: "Self-driving tech firm Aurora mulls sale to Apple or Microsoft - Bloomberg News"
     excerpt: "Aurora Innovation Inc Chief Executive Chris Urmson recently outlined several options for the self-driving tech firm to combat challenging market conditions, including a possible sale to Apple Inc or Microsoft Corp,"
     publishedDateTime: 2022-09-03T07:58:00Z

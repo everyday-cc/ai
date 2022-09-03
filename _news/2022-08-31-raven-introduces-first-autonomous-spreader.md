@@ -39,6 +39,48 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "First Driverless Spreader Introduced by Case IH and Raven Industries"
+    excerpt: "A new driverless spreader has been introduced this week by CNH Industrial. The Case IH Trident™ 5550 applicator with Raven Autonomy™ can be"
+    publishedDateTime: 2022-08-30T21:30:00Z
+    webUrl: "https://hoosieragtoday.com/first-driverless-spreader-introduced-by-case-ih-and-raven/"
+    type: article
+    provider:
+      name: Hoosier AG Today
+      domain: hoosieragtoday.com
+    quality: 39
+    images:
+      - url: "https://d30hko96l9xirl.cloudfront.net/media/2022/08/The-Case-IH-Trident%E2%84%A2-5550-applicator-with-Raven-Autonomy%E2%84%A2-allows-for-one-or-more-driverless-machines-in-the-field_622498.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "First Driverless Spreader Introduced by Case IH and Raven"
+    excerpt: "A new driverless spreader has been introduced this week by CNH Industrial. The Case IH Trident™ 5550 applicator with Raven Autonomy™ can be"
+    publishedDateTime: 2022-08-30T21:30:00Z
+    webUrl: "https://hoosieragtoday.com/first-driverless-spreader-introduced-by-case-ih-and-raven/"
+    type: article
+    provider:
+      name: Hoosier AG Today
+      domain: hoosieragtoday.com
+    quality: 39
+    images:
+      - url: "https://d30hko96l9xirl.cloudfront.net/media/2022/08/The-Case-IH-Trident%E2%84%A2-5550-applicator-with-Raven-Autonomy%E2%84%A2-allows-for-one-or-more-driverless-machines-in-the-field_622498.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "Industry’s first autonomous spreader debuts at Farm Progress Show"
+    excerpt: "Case IH and Raven Industries introduce the agriculture industry’s first autonomous spreader: the Case IH Trident ™ 5550 applicator with Raven Autonomy ™. Unveiled at Farm Progress Show 2022, this innovative solution delivers on customers’ demands for autonomous equipment to help solve labor challenges and increase productivity on their operations."
+    publishedDateTime: 2022-08-30T14:32:00Z
+    webUrl: "https://www.eagletribune.com/region/industry-s-first-autonomous-spreader-debuts-at-farm-progress-show/article_bd0c3b06-7889-504f-b01b-c4540ac61a68.html"
+    type: article
+    provider:
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/f7/6f732a6f-663d-5699-9263-ff52f4203a6d/630e214bf2e79.image.jpg?crop=606%2C318%2C522%2C0&resize=606%2C318&order=crop%2Cresize"
+        width: 606
+        height: 318
+        isCached: true
   - title: "Case IH and Raven Debut Industry's First Autonomous Spreader at Farm Progress Show"
     excerpt: "Two of CNH Industrial’s brands, Case IH and Raven Industries, introduce the agriculture industry’s first autonomous spreader: the Case IH Trident™ 5550 applicator with Raven Autonomy™."
     publishedDateTime: 2022-09-01T17:42:00Z
@@ -53,15 +95,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Industry's first autonomous spreader debuts at Farm Progress Show"
-    excerpt: "With artificial intelligence, Raven&CloseCurlyQuote ... 1 The Case IH Trident 5550 applicator with Raven Autonomy allows for one or more driverless machines in the field without an operator present in the cab, providing the flexibility of full control ..."
-    publishedDateTime: 2022-08-30T14:41:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/08/30/industry-s-first-autonomous-spreader-debuts-at-farm-progress-show"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 4
 
 secured: "ea7eBJiCyQVFxzOrOz2Y9DQ55NXzZzOTqF8mVnn02bQHj7tS5bWE2u7KEfaJvSZF/ppnqGWaNPVmdQG/RDbx4yrZfEwx584K5FPg/Gdc67872O3wZ1uu5xABrWc2Tjas9h6Uh8h2CnM+9+a8m+nUze7Pq/22hSLo3ExvQWGzRB00GYdrHLUT1f4uCEiC09hF7OEbhyJixmScU1xiM962xmdirJCPmFOSL7A9brJgXoc1ZRd2rDA9NdB0PifQ41QKdiuKnKdeIw2plzb1nY//gxe7kr+v0tfXiReOn4YnZ8nvduaMs7faEifvPyKgUVYuhWq7c6kzeBPB2/M9cFsBEToiNsfm4afLEdZj0qp9WDAj9fG18qOJAxkGS3ASJOQ6CNtTOUd6/19N/d5dMhcXJtAZEzquKn3HiOJs6ZzkWhI8cgrYtW0zDSQ1kyvpBVnCuf+cx/UKOrwwESLTyiDAtgjMvv1Sf9GIHVg6I/J63rc6zcMwyEWggABUUVOsq+F9/8SuDzBl6JeyInvy6gIYng==;Q7kYEC6KnmUrTDcpdKYVPw=="
 ---

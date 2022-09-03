@@ -7,7 +7,7 @@ originalUrl: "https://www.infoq.com/news/2022/08/meta-blenderbot3-chatbot/"
 webUrl: "https://www.infoq.com/news/2022/08/meta-blenderbot3-chatbot/"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,56 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "Meta's AI chatbot hates Mark Zuckerberg - but does it care about racism?"
+    excerpt: "AI chatbots learn the patterns of our prejudices, biases, preoccupations and anxieties from the linguistic data we supply them with, before paraphrasing them back at us."
+    publishedDateTime: 2022-09-03T10:46:00Z
+    webUrl: "https://economictimes.indiatimes.com/magazines/panache/metas-ai-chatbot-hates-mark-zuckerberg-but-does-it-care-about-racism/articleshow/93968867.cms"
+    ampWebUrl: "https://m.economictimes.com/magazines/panache/metas-ai-chatbot-hates-mark-zuckerberg-but-does-it-care-about-racism/amp_articleshow/93968867.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/metas-ai-chatbot-hates-mark-zuckerberg-but-does-it-care-about-racism/amp_articleshow/93968867.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 58
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-17778,msid-93968907/meta.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Meta’s AI chatbot hates Mark Zuckerberg – but why is it less bothered about racism?"
+    excerpt: "Meta, Facebook’s parent company, released the latest version of its groundbreaking AI chatbot in August 2022. Immediately, journalists around the world began peppering the system, called BlenderBot3,"
+    publishedDateTime: 2022-09-01T15:42:00Z
+    webUrl: "https://theconversation.com/metas-ai-chatbot-hates-mark-zuckerberg-but-why-is-it-less-bothered-about-racism-189657"
+    ampWebUrl: "https://theconversation.com/amp/metas-ai-chatbot-hates-mark-zuckerberg-but-why-is-it-less-bothered-about-racism-189657"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/metas-ai-chatbot-hates-mark-zuckerberg-but-why-is-it-less-bothered-about-racism-189657"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 53
+    images:
+      - url: "https://images.theconversation.com/files/481845/original/file-20220830-8728-w1icdt.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+        width: 320
+        height: 213
+        isCached: true
+  - title: "Meta's AI chatbot hates Mark Zuckerberg, but why is it less bothered about racism?"
+    excerpt: "It was all quite predictable, really. Meta, Facebook's parent company, released the latest version of its groundbreaking AI chatbot in August 2022. Immediately, journalists around the world began peppering the system,"
+    publishedDateTime: 2022-09-02T14:53:00Z
+    webUrl: "https://techxplore.com/news/2022-09-meta-ai-chatbot-zuckerberg-bothered.html"
+    ampWebUrl: "https://techxplore.com/news/2022-09-meta-ai-chatbot-zuckerberg-bothered.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-meta-ai-chatbot-zuckerberg-bothered.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 53
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/metas-ai-chatbot-hates-1.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "LK3eTIZgz61QRC78zCsJXn4yDEK5v6goE6LeEbgEBELKFXcCip2khlc3I4tHL5pJcCD5DY+RrDskPG4FhHaEt1nm+3k+CHZlxTw7ES0SGgWNDzDcJns9jTeJ4/A1QJqaAu8dhQ3eQHZBSPmrspjQkYzjTXHqUKhup8+Q3Yt2HG5tX/+c33tWH60pywIT8KQOxcKzyT2Gp/rSjmQ2ut12fymxJQVjbDMgorx6U6VhOS8DItGnihzTm+5a7nOGkgYUq97mNVaGgGSzA6XWcZvggA4KaYl36H18NV306rE/R/faNOR68+yBsKm981e79O9FYWyfwcRJMY/CLcUnJYjZ8nPPbcQbPrpzcrLkLUV1BF12TL8y6YoqIgl2CXDSxYky0w3vjgPtJTSmP2lutLnBV5qKPXGSh9d/x7yFhRKdkeuhhuhymSq7KKGfPVRhXNlFer+n1dGcZCmzca/TXv1vkHvhIprfPo32R96nRtsCW/N0JyS46p1IYxgXkpEkX9nvXTboc39rYqKGU54vnQWjjA==;RBa1xcl1UdH6p8OV8WFiyg=="
 ---

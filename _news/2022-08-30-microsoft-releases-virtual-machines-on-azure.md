@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Canonical, Microsoft Bring Ubuntu on Arm to Azure"
-    excerpt: "“These images provide the familiar Ubuntu experience, with an Azure-optimized kernel and configurations ... application servers, Machine Learning (ML), open-source databases, and in-memory caches.” Ampere Altra is also well suited for new use ..."
-    publishedDateTime: 2022-08-29T17:33:00Z
-    webUrl: "https://www.thurrott.com/cloud/271494/canonical-brings-ubuntu-on-arm-to-azure"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 54
-    images:
-      - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2022/08/datacenter-rack.jpg"
-        width: 1066
-        height: 600
-        isCached: true
   - title: "Self-driving tech company says a sale to Apple or Microsoft is possible"
     excerpt: "Chris Urmson, who co-founded Aurora after running Google's self-driving car project, also outlined cost cuts and floated measures including taking the company private, spinning off or selling assets and pursuing a small capital raise in a memo labeled \"board discussion pre-read\" dated Aug."
     publishedDateTime: 2022-09-02T19:07:00Z

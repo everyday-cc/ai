@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "A huge Chinese database of faces and vehicle license plates spilled online"
+    excerpt: "While its contents might seem unremarkable for China, where facial recognition is routine and state surveillance is ubiquitous, the sheer size of the exposed database is staggering. At its peak ..."
+    publishedDateTime: 2022-08-30T00:00:00Z
+    webUrl: "https://techcrunch.com/2022/08/30/china-database-face-recognition/"
+    ampWebUrl: "https://techcrunch.com/2022/08/30/china-database-face-recognition/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/30/china-database-face-recognition/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 72
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/08/china-xinai-license-database-expose.jpg?w=1024"
+        width: 1024
+        height: 619
+        isCached: true
   - title: "A Chinese AI-Powered Robot Aims to Tackle Complex Surgeries"
     excerpt: "The four-arm laparoscopic surgical robot clinched the topmost award at the 2022 World Artificial Intelligence Conference."
     publishedDateTime: 2022-09-02T03:56:00Z

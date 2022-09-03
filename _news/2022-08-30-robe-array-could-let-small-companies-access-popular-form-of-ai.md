@@ -1,21 +1,25 @@
 ---
 category: news
 title: "ROBE Array could let small companies access popular form of AI"
-excerpt: "A breakthrough low-memory technique by Rice University computer scientists could put one of the most resource-intensive forms of artificial intelligence—deep-learning recommendation models (DLRM)—within reach of small companies."
-publishedDateTime: 2022-08-29T19:48:00Z
-originalUrl: "https://techxplore.com/news/2022-08-robe-array-small-companies-access.html"
-webUrl: "https://techxplore.com/news/2022-08-robe-array-small-companies-access.html"
+excerpt: "ROBE Array could let small companies access popular form of AI: Low-memory technique for deep-learning recommendation systems. ScienceDaily . Retrieved August 31, 2022 from www.sciencedaily.com ..."
+publishedDateTime: 2022-08-30T02:36:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/08/220829143936.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/08/220829143936.htm"
 type: article
-quality: 19
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Hardware
+  - Machine Learning
   - AI
 
 related:
@@ -52,6 +56,6 @@ related:
         height: 683
         isCached: true
 
-secured: "vc2P3XkTf9SxCLRSFKFJSctpFbQGsgQitzdrgsU4nMHRQIWiReqHL9hkNirPQeRDjJR0xj4AIyYsfJyBe2mX3EaQZ0GpATiM9YxqFk7ZrzpuvUoWrExlft0ieH205ZI/Oma/1ixzJdG8SNoLcji+9g8DBB0fi0V5FbaEoU2M/mKFfIsN+qTWsg0Xja4jayIn9Ir46uLsitrbCqFswwDLQdOAL1h9TLu9hu5w9z1CPN29j3Wa0tvQJVgCGU6dNczWIw7VuwDOJMK9y/ODJm6VB7fCU+6MEwzVWNxyJP3dioV0eF2tyUxvEVqu4go3HykAQ18PwV/3ChMNXYtus1q/RnEYJNfTutMLBQQRi5Y7fSwEBwhttPMxnUPfZ0s+JXoYQem2/nEv+UPCDPx8KxzYZ6nL1pWmYKBO7iGRVY57u1icfxcKn9tVfD/Q2vXyNwIUEX/09E+eL8t90pPy5Svqo4DNTSMxfxkj6aSjEV6rb6AL8+6FWP/FZYQ4fBBxOdNWpwEZbwYjsl01yYH0+mdYpw==;NaWPyh/rNMTAEj67NTydvQ=="
+secured: "gVVzK/qMBQPxHwIY8I2oogjLQegzvFJjcbsZIyRO9IUnLdDanuVj16h2wfmoEhf+wWOGyHASFjeoLW71EeUvraSbvEDjM+vFj/kWn2BcbK+TOfwAqzBH217RtkQeTetniLhB3T+dgNfo57rpMEsvoWy5VYFMFBo+iMSep1r76ARGkU2/zAviMPKXS0kU8r7UdSjbTqaush4G3wsx+HIsEPYNBrI4caXXyyVMU4GMcBMvnda6Yi07K8160t7oSB6HGHY1yfstEfp7w3k9GlFS09a4CmgTG0A5JnN8wl/IZgw9VoIXulJLis2QIeXoSTqgG3LZSwig19Lb1jWZY1ZHNH6z5awPo98dH3gQVjsJHoc=;12HOhLHtCbtHeRs171LvIw=="
 ---
 

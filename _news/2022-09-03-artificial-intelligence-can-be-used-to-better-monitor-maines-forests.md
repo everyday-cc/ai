@@ -7,8 +7,8 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/09/220902154904.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/09/220902154904.htm"
 type: article
 quality: 66
-heat: 86
-published: true
+heat: -1
+published: false
 
 provider:
   name: Science Daily
@@ -24,6 +24,22 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "Artificial intelligence can be used to better monitor Maine's forests, study finds"
+    excerpt: "Monitoring and measuring forest ecosystems is a complex challenge because of an existing combination of softwares, collection systems and computing environments that require increasing amounts of energy to power."
+    publishedDateTime: 2022-09-03T10:12:00Z
+    webUrl: "https://phys.org/news/2022-09-artificial-intelligence-maine-forests.html"
+    ampWebUrl: "https://phys.org/news/2022-09-artificial-intelligence-maine-forests.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-artificial-intelligence-maine-forests.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 66
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-63.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
   - title: "Artificial intelligence can be used to better monitor Maine’s forests, UMaine study finds"
     excerpt: "The University of Maine has developed a novel method of using artificial intelligence and machine learning to make monitoring soil moisture more energy and cost efficient. The software learns over time how to make the best use of available network resources,"
     publishedDateTime: 2022-09-03T02:52:00Z

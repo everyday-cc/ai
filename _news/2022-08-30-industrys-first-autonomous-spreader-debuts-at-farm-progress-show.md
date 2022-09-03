@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Industry's first autonomous spreader debuts at Farm Progress Show"
-excerpt: "With artificial intelligence, Raven&CloseCurlyQuote ... 1 The Case IH Trident 5550 applicator with Raven Autonomy allows for one or more driverless machines in the field without an operator present in the cab, providing the flexibility of full control ..."
-publishedDateTime: 2022-08-30T14:41:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2022/08/30/industry-s-first-autonomous-spreader-debuts-at-farm-progress-show"
-webUrl: "https://stockhouse.com/news/press-releases/2022/08/30/industry-s-first-autonomous-spreader-debuts-at-farm-progress-show"
+title: "Industry’s first autonomous spreader debuts at Farm Progress Show"
+excerpt: "Case IH and Raven Industries introduce the agriculture industry’s first autonomous spreader: the Case IH Trident ™ 5550 applicator with Raven Autonomy ™. Unveiled at Farm Progress Show 2022, this innovative solution delivers on customers’ demands for autonomous equipment to help solve labor challenges and increase productivity on their operations."
+publishedDateTime: 2022-08-30T14:32:00Z
+originalUrl: "https://www.eagletribune.com/region/industry-s-first-autonomous-spreader-debuts-at-farm-progress-show/article_bd0c3b06-7889-504f-b01b-c4540ac61a68.html"
+webUrl: "https://www.eagletribune.com/region/industry-s-first-autonomous-spreader-debuts-at-farm-progress-show/article_bd0c3b06-7889-504f-b01b-c4540ac61a68.html"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/f7/6f732a6f-663d-5699-9263-ff52f4203a6d/630e214bf2e79.image.jpg?crop=606%2C318%2C522%2C0&resize=606%2C318&order=crop%2Cresize"
+    width: 606
+    height: 318
+    isCached: true
 
 related:
   - title: "Industry’s first autonomous spreader debutsat Farm Progress Show"
@@ -32,6 +38,34 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "First Driverless Spreader Introduced by Case IH and Raven Industries"
+    excerpt: "A new driverless spreader has been introduced this week by CNH Industrial. The Case IH Trident™ 5550 applicator with Raven Autonomy™ can be"
+    publishedDateTime: 2022-08-30T21:30:00Z
+    webUrl: "https://hoosieragtoday.com/first-driverless-spreader-introduced-by-case-ih-and-raven/"
+    type: article
+    provider:
+      name: Hoosier AG Today
+      domain: hoosieragtoday.com
+    quality: 39
+    images:
+      - url: "https://d30hko96l9xirl.cloudfront.net/media/2022/08/The-Case-IH-Trident%E2%84%A2-5550-applicator-with-Raven-Autonomy%E2%84%A2-allows-for-one-or-more-driverless-machines-in-the-field_622498.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "First Driverless Spreader Introduced by Case IH and Raven"
+    excerpt: "A new driverless spreader has been introduced this week by CNH Industrial. The Case IH Trident™ 5550 applicator with Raven Autonomy™ can be"
+    publishedDateTime: 2022-08-30T21:30:00Z
+    webUrl: "https://hoosieragtoday.com/first-driverless-spreader-introduced-by-case-ih-and-raven/"
+    type: article
+    provider:
+      name: Hoosier AG Today
+      domain: hoosieragtoday.com
+    quality: 39
+    images:
+      - url: "https://d30hko96l9xirl.cloudfront.net/media/2022/08/The-Case-IH-Trident%E2%84%A2-5550-applicator-with-Raven-Autonomy%E2%84%A2-allows-for-one-or-more-driverless-machines-in-the-field_622498.jpg"
+        width: 1920
+        height: 1280
         isCached: true
   - title: "Raven introduces first autonomous spreader"
     excerpt: "Autonomous equipment can perform a consistent job each time, which is very important to me, as we’ve built our farm’s reputation on being flawless and doing high-quality work.”"
@@ -62,6 +96,6 @@ related:
         height: 720
         isCached: true
 
-secured: "bv3re/ciERMD69N4ZEK8gSn7fjbLDzeqQX8FGNK2Uiig2ISftYHuHKhpW6CqWD5Do0cwMCf6rweIGBWftfcWAMYyzFH0PSLMlowVI4MIBIpCPprTFUiZGputw1Dw/2uKgwz/OO0MMHh4p9p8gkLX/ZBpAPTbvSkN7xXiBmnyhStEM4lMnNicn09zaexz7cSvzjSgbIgeQfWSuRYmLrIgjAyc6fgrYFw1WH+oRxxFBSx5qQ0/tDGh8TSoT6O97M+2c9zD1xHSohxMYHiPAjcTjfpXl0Ws8Es8cX1ESChJ5IWgAZgmrmpHw7P4F0HqrpqHuVKpLrhcNpEZ7Yvw/tCktCnDNKV5sJtoqPbkv1WnSik=;3gGeKu7ysUvmMdwXOpZUSA=="
+secured: "s/pLLg6KgntDB96z64h3NRy7y28gVfHWVJ8AkKHkEEEVK3fv+jV07Seq94vdEmQ1pTzTl7fI5pyNOp2uVnwR0CoPg3u4dKnGpo44FYfvBM/bhOBiIsrogGVdEJe471hZ2HI8dlBZqtbFTYJkf9kjeWL6m4ff/vnBYSEnBfYuYhzB4w40PKDoSgmmHzl9OAFVkKlDyhCMzcPkd1q6dDXeUg45aHh5D3zlLEXjYcb1MZE3kWrlarc3n2qeRHW0hWHuQdiWZiTAYrkZ9KpOtrk8D3mZk2UvwlwdCeLC5gybxCBnte8nYV9WxdYNEroF9rHa654PcSgxvSEdDpRo2gB9xQrjk+63BbWQt8A2tAUl6t0=;SqTSdi0HVBALKUtcmXAWHQ=="
 ---
 

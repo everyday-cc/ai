@@ -1,28 +1,32 @@
 ---
 category: news
-title: "Baidu Revenue Contracts but Beats Estimates on Cloud Business Growth"
+title: "Baidu revenue contracts but beats estimates on cloud business growth"
 excerpt: "Revenue at Baidu's AI Cloud unit grew 31% year-on-year in the quarter. Baidu has also been doubling down on self-driving technologies, in which it has heavily invested over the past five years."
-publishedDateTime: 2022-08-30T09:06:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2022-08-30/baidu-beats-quarterly-revenue-estimates"
-webUrl: "https://www.usnews.com/news/technology/articles/2022-08-30/baidu-beats-quarterly-revenue-estimates"
-ampWebUrl: "https://www.usnews.com/news/technology/articles/2022-08-30/baidu-beats-quarterly-revenue-estimates?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-08-30/baidu-beats-quarterly-revenue-estimates?context=amp"
+publishedDateTime: 2022-08-30T10:25:00Z
+originalUrl: "https://www.reuters.com/technology/baidu-beats-quarterly-revenue-estimates-2022-08-30/"
+webUrl: "https://www.reuters.com/technology/baidu-beats-quarterly-revenue-estimates-2022-08-30/"
 type: article
 quality: 69
 heat: 109
 published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.reuters.com/resizer/VcMhCTIPuZkROATTg3O8vy954F8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DO6AEQYAIVJRHB6NSPK3CHZTQA.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Baidu Stock Is Tumbling. An Earnings Beat Can’t Offset Falling Revenue."
@@ -86,6 +90,6 @@ related:
         height: 373
         isCached: true
 
-secured: "LMSVeuhZFIM7UQfOu/5QsZGHKDrqbX7vDdSwTe/3qJjhRdX/W9NFepgrjwaW+zMHjSGp+bAJGzZ8MDdGwIOv0IUKvGqIS2ZI49Upo3gKCTTh2wv6GbrxkIPaJBxANSadp7kvuGIKmSuFXd3tKl5dLbrtQDHZOFocAP+18oPrnOhLCv1fBU+YJDC27Scm439vx1ZkLTWcQwbvEGS076r8UKg23AOUl3l5RTmrfrTKz7k2bHs58H6+TCuWhpWwikkb4XtUJLOmpMc13xD/hlbhI5jnQWzFoRAfAxzxYGUDBSvv5p+KS+Ssx+AwRSXduabjY9ichCvLdqu+w3Jwe9dpD4WKXrToWg+tmRDTvcYuxEDghdHbNTkEcp5TbO1M9uCNUNiPmaB2+74roGziTCoQ0g47KOMFresM6FyYlhSSunJaSKy66xSIsqEOpoMkObtPZITS9t29v5h+997/cGQVaDg+Fi0VYtDOo6YfFnbmhSCTAOraqjXR84WqEj2vrKxYbNpxi1CT99T8amItvXoQqw==;i1AH+YEr+jT0+QJyYqrIhw=="
+secured: "BoANNTzUJcZRyKfhb4YIaWQla2sBf5xgmiaXPH8Yz4ugCM9+stON8r4NXQ6YlxxmHLjvF6B9POcS6eNmYjiw4/JdOnmSdaBPmXh/TwM5beskA4QcjCsXAQZq3oo7UaVBv225E34eydcq1xwf88VMNP3TIwKXwSs5bIcxTHMLgn3YAZ3VoaiDhsex+6BJFc105PTYmhyXaYseIwtAS9TcLogfNJYeCRvFOptFkJysR2WBMU5o7baToJ/8BbjCDrK6vU/UMtO5tX9QnYmpok1G4nVsy/eh5JkI65LFIbCmT+fKtIEMEAk0ArunB2mzyJP+ilzrvIWKqQ07jWYgPcfgkVhVm05EU6DZKsUPAUkt+bM=;m0YK+G6wpXzHlZbhGBzWVg=="
 ---
 

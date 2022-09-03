@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/cognitiveworld/2022/09/03/why-do-we-keep-r
 ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2022/09/03/why-do-we-keep-repeating-the-same-mistakes-on-ai/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/09/03/why-do-we-keep-repeating-the-same-mistakes-on-ai/amp/"
 type: article
-quality: 91
-heat: 91
+quality: 93
+heat: 93
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AI
   - AI in Autos
   - Machine Learning
+  - Natural Language Processing
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6312667f63bf3c4af5475054/0x0.jpg?format=jpg&crop=2531,1423,x158,y207,safe&width=1200"
@@ -31,6 +32,6 @@ images:
     height: 675
     isCached: true
 
-secured: "COqXPy/inr2ZLb9fR3lca6MA4Ad3vmOJwfSCheb9lqtc6OvabqnlDEBozBxGbl18b2R/wrhs/zEeZXF3AdhGhMeVXC2ZvXIF6nX3R+1W4VeF2tNYv2svmkhkacmpwB/F5dYsXqTMj9zicqVY4ucW1WxDt1wHGMg6uSctDYE45/r9sMqGLzq9f7SisqdfFRur/4AIeHTAGqpj6kSh177klB9ZAgNrHxPtikDtxsFKdd+tjNfi3XUaXW4ZkrUensFSPZBXMohpVOwEwpcKrPwUgAgJvHFBuDubk4OjaGJFYMfoe4wE9UB+/PEQT71A3fo0As5f+13CzT0thFD8FruPfh56Sd4bG04Y/hBJ97Eam48=;fD28c3weaHrMCpkIRJHBIw=="
+secured: "PL9a6f610uimhwi7DpgaLJfzeKyy5dR6io0yeqcN+4ULwYGBofHnSou9HswsH54pxmmVi1jAB1ozoLR3++yepAe/DG2CoMrH2rH2LIBY3rsf37xt/QpH+V+kqjxgS1zpiknuvWtSdCDERSqSXubrQPSDqM092oWTM7ycRtyo+gy0k97y4cEKgJadeuKYcebJyu5CduxYKVGPznWKOjGp5Iems0i3FtlrElzZLBMf6zN0irxm5VQMLMTHMCoWaLIPTZ81bRU/BQFCjnRMeQghCclWvlGFsjU6cQiRX0HanlLdaneaVfc+L7HBFnIEpdkfnhooc2+g7IoyqvVz88MGWOMJdWWYqrdYuHOcOb1TCr2bSr5+LtDvpIC/LB7pTuPDet7hHNkhG+D7Z6v9VkkzfYFUCo2aiukjuf7yYG7CVeL2drA7hopqVw4lTEhHdw2WNVFZWZDrK62o7VcvrqcQ0LHrI8kk56LvCnhwmAG7mSrwnyYXyYnD4UR3H9ktv22iCXJcssv7nNrsaT0ugcbc8A==;lHhiJeG5klGbpa+1C7ARbg=="
 ---
 

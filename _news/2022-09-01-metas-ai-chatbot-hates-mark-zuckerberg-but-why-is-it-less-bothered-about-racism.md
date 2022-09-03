@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/metas-ai-chatbot-hates-mark-zuckerbe
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/metas-ai-chatbot-hates-mark-zuckerberg-but-why-is-it-less-bothered-about-racism-189657"
 type: article
 quality: 53
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meta's AI chatbot hates Mark Zuckerberg - but does it care about racism?"
+    excerpt: "AI chatbots learn the patterns of our prejudices, biases, preoccupations and anxieties from the linguistic data we supply them with, before paraphrasing them back at us."
+    publishedDateTime: 2022-09-03T10:46:00Z
+    webUrl: "https://economictimes.indiatimes.com/magazines/panache/metas-ai-chatbot-hates-mark-zuckerberg-but-does-it-care-about-racism/articleshow/93968867.cms"
+    ampWebUrl: "https://m.economictimes.com/magazines/panache/metas-ai-chatbot-hates-mark-zuckerberg-but-does-it-care-about-racism/amp_articleshow/93968867.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/metas-ai-chatbot-hates-mark-zuckerberg-but-does-it-care-about-racism/amp_articleshow/93968867.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 58
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-17778,msid-93968907/meta.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Meta's AI chatbot hates Mark Zuckerberg, but why is it less bothered about racism?"
     excerpt: "It was all quite predictable, really. Meta, Facebook's parent company, released the latest version of its groundbreaking AI chatbot in August 2022. Immediately, journalists around the world began peppering the system,"
     publishedDateTime: 2022-09-02T14:53:00Z
@@ -43,6 +59,15 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Meta Open-Sources 175B Parameter Chatbot BlenderBot 3"
+    excerpt: "Meta AI Research open-sourced BlenderBot 3, a 175B parameter chatbot that can learn from live interactions with users \"in the wild.\" In evaluations by human judges, BlenderBot 3 achieves a 31% rating increase compared to the previous BlenderBot version."
+    publishedDateTime: 2022-08-30T13:35:00Z
+    webUrl: "https://www.infoq.com/news/2022/08/meta-blenderbot3-chatbot/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 4
 
 secured: "Sd7jrZe4BpcJd5UkOtNwcp8vM4cct6Sb12pkCA4iRxrkxHKTwF1x/mcnTx+hdWYzWUZA2kp3AuH0u1aoHkafmok5IwxmSzly3ygb11MGQ3u9czWyiQrjFY09Gk3Nc2pEKV0t2Q8YitibXNYvXpdnrON7Xhm/f0YD/AQCt2GWcX9e6mNx0Fc5yGkIHVsoyaZAYZOD8ftNk1RirGi8GFgeTqy0AubyOwgGihAfL2OV0qLXIGqL5fj0rxTb3h1spk6EX7lQ6JdniHz4AMDZCQTcrUx4ukj0RsYZzSxub5CqtRymQ8AZhAWhZjnWWSZRWwpFp1gWEWCzLXfP+d6kBvRO6IJ+nPa26QZeOt1d7jYGMFmFJMWcZ6rVdNeS7da+F13bbKgTDv5E7Adms2nWmgO3pZiDGX3qAJGmyUrhN2jJ+qTrjTg9yUqIZhq3SAnpCcZyIbZzjTbs9zuz2c2nDA6cuXbsRcHTueeTYRmCd0rH8ivyoEp3Pa5E4+aMGrILm+SzO3e2nJUVA1DA02THhrdjVw==;w17QJi1BJAC0MTco/h8YvQ=="
 ---

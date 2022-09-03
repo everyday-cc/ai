@@ -25,31 +25,89 @@ images:
     isCached: true
 
 related:
-  - title: "Developing driving simulations that look more life-like"
-    excerpt: "They don't look realistic enough, particularly background objects, such as trees, and road markings. But researchers have developed a new way to create photorealistic images for simulators, paving the way for better testing of driverless cars."
-    publishedDateTime: 2022-08-29T17:08:00Z
-    webUrl: "https://techxplore.com/news/2022-08-simulations-life-like.html"
-    ampWebUrl: "https://techxplore.com/news/2022-08-simulations-life-like.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-simulations-life-like.amp"
+  - title: "Self-driving cars have nothing on Japan’s self-captaining ships"
+    excerpt: "It was grimy from nautical toil and decidedly ugly on the eye, but there are few more thrilling ships out on the seas. And if you like your gadgetry game-changing but also attractive to barnacles and a challenge to the idea that Silicon Valley has a pre-eminent right to define “tech”,"
+    publishedDateTime: 2022-08-31T04:00:00Z
+    webUrl: "https://www.ft.com/content/e767201d-5287-4ffd-9995-e495d4a6a69b"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 44
+      name: The Financial Times
+      domain: ft.com
+    quality: 39
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/driving-simulator.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
         isCached: true
-  - title: "Driving simulations that look more life-like"
-    excerpt: "This is especially important when testing how humans react when they are in driverless vehicles ... But, using artificial intelligence, GAN can be trained to generate realistic backgrounds and ..."
-    publishedDateTime: 2022-08-29T18:52:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/08/220829130002.htm"
+  - title: "More People Want Electric Cars Than Self-Driving Ones"
+    excerpt: "Ipsos' latest Mobility Navigator Study shows that while almost half of drivers (49%) say they're interested in an electric vehicle for their next car, only 31% would be interested in a fully autonomous,"
+    publishedDateTime: 2022-08-31T17:21:00Z
+    webUrl: "https://www.timesunion.com/news/article/More-People-Want-Electric-Cars-Than-Self-Driving-17410270.php?IPID=Times-Union-cars-headlines"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 34
+      name: Times Union
+      domain: timesunion.com
+    quality: 24
+    images:
+      - url: "https://s.hdnux.com/photos/01/27/20/67/22875641/3/rawImage.jpg"
+        width: 1404
+        height: 1112
+        isCached: true
+  - title: "GM's self-driving outfit is looking to fill 200 open roles. Cruise's top engineering exec shares his 4 tips for acing the interview."
+    excerpt: "The top engineering exec at GM's Cruise, gives 4 ways a job candidate can ace an interview at the self-driving vehicle company."
+    publishedDateTime: 2022-08-31T09:51:00Z
+    webUrl: "https://www.businessinsider.com/interview-tips-self-driving-general-motors-cruise-open-roles-jobs-2022-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 23
+    images:
+      - url: "https://i.insider.com/630e374cabd32c00180a0024?width=700"
+        width: 700
+        height: 525
+        isCached: true
+  - title: "A self-driving bus is carting Michigan State students to campus this fall"
+    excerpt: "Michigan State University’s new electric autonomous bus began full service routes Monday just as students returned to campus. At 27 feet long with 22 seats, the bus is one of the largest of its kind to operate on roadways in the U."
+    publishedDateTime: 2022-08-31T21:54:00Z
+    webUrl: "https://www.crainsdetroit.com/transportation/michigan-state-self-driving-bus-starts-routes-east-lansing"
+    type: article
+    provider:
+      name: Crain's Detroit
+      domain: crainsdetroit.com
+    quality: 23
+    images:
+      - url: "https://s3-prod.crainsdetroit.com/styles/1200x630/s3/msubus.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-Driving Cars Will Save Countless Lives"
+    excerpt: "Policy-makers must keep up with technological developments in automobiles so that better cars can save lives.The black Mercedes-Benz sped south on L.A.’s La Brea Avenue at, allegedly, more than 90 miles per hour."
+    publishedDateTime: 2022-08-30T13:21:00Z
+    webUrl: "https://www.manhattan-institute.org/self-driving-cars-will-save-countless-lives"
+    type: article
+    provider:
+      name: Manhattan Institute
+      domain: manhattan-institute.org
+    quality: 4
+  - title: "Self-driving cars roll around Austin"
+    excerpt: "Earlier this year, autonomous vehicle technology company Argo AI launched its driverless operation in Austin. Argo AI public policy and government relations manager Sly Majid said these cars are"
+    publishedDateTime: 2022-09-02T12:16:00Z
+    webUrl: "https://www.kxan.com/news/local/austin/self-driving-cars-roll-around-austin/"
+    type: article
+    provider:
+      name: KXAN
+      domain: kxan.com
+    quality: 4
+  - title: "Don't trust self-driving cars? NC State researchers trying to change that"
+    excerpt: "If the idea of a self-driving vehicle zooming down Interstate 40 and trying to reach the offramp at rush hour scares you, you’re not alone. The autonomous vehicle market is projected to eclipse $724 billion by 2027, according to a report from Emergen ..."
+    publishedDateTime: 2022-08-30T12:00:00Z
+    webUrl: "https://www.bizjournals.com/triad/news/2022/08/30/nc-state-research-driverless-cars-public-trust.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 3
 
 secured: "P78xP0tmqaJwOkMRgikc2Hv7xvAAqLpJqFa+F/U3kcrAGxVto5VI7oTUuJxcb1wy1FFIJPRzMK6OFft4rY2e8GgUEtlVDnwZiuWHmKRrRNdwxN8inV+jn1YGESi0TATYCai4d+6R6Lhaq7tADIADv7kkLkkOu1d4isjxY/Ym6HJz+iXu1HjpyR1Jds5frsrJQeCqVkEka0J9wjqdcrQVi0+G3/tcQ0ZoUJFo1e5naL992lSWNkgC0MNAa1Gr+giw98rndnlu/ZsdZuvaLawxtewKSbft8zs/B2500FD4XgSPnxuJJQduy7JWSJCjbswRNH/0gXgJcKLaRl364yr2+3SadeN3iS/QKJreVe/YoEOxoCP9g8iiaN6HyEeYcWlixWusRlVxfAXI+sOmIO7JKExq6RcgIJ9gIFpHRNu5BMz7VQMdx8PTiigG+x/cKmp35w4hikrzZeXE4gZQs7HH9bYWBXc5QnND/nYpWOXOPocWIPrUtyau1SQqI7Z0ppO9AJxSivQtfLf/BVO3qMKhng==;0J/oYDlQHbULyA3bRR2uHw=="
 ---

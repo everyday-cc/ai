@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-azure-outage-cont
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-outage-continues-for-some-services-relying-on-ubuntu-bionic-release/"
 type: article
 quality: 97
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-93877868,imgsize-21916,width-1200,height-628,overlay-etcio/jio-haptik-collaborates-with-microsoft-azure-cognitive-services-to-improve-existing-hindi-conversational-ai-models.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Canonical, Microsoft Bring Ubuntu on Arm to Azure"
-    excerpt: "“These images provide the familiar Ubuntu experience, with an Azure-optimized kernel and configurations ... application servers, Machine Learning (ML), open-source databases, and in-memory caches.” Ampere Altra is also well suited for new use ..."
-    publishedDateTime: 2022-08-29T17:33:00Z
-    webUrl: "https://www.thurrott.com/cloud/271494/canonical-brings-ubuntu-on-arm-to-azure"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 54
-    images:
-      - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2022/08/datacenter-rack.jpg"
-        width: 1066
-        height: 600
         isCached: true
   - title: "Microsoft releases virtual machines on Azure"
     excerpt: "Uses its Arm-based Ampere Altra Microsoft announced the general availability of virtual machines (VMs) on Azure featuring the Ampere Altra, a processor based on the Arm architecture.  Vole said that the fhe first Azure VMs powered by Arm chips are accessible in 10 Azure regions today and"

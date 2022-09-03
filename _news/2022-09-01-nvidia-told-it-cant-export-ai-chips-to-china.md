@@ -161,6 +161,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "With new China AI chip restrictions, U.S. takes aim at a critical niche"
+    excerpt: "The United States beefed up its effort to cut off the flow of advanced technology to China by instructing Nvidia Corp and Advanced Micro Devices to stop sending their flagship artificial intelligence chips there."
+    publishedDateTime: 2022-09-01T19:37:00Z
+    webUrl: "https://www.reuters.com/markets/us/with-new-ai-chip-rules-us-takes-aim-critical-niche-2022-09-01/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/eV_gFCcnk0mB3RWyjki3Q3V9Y24=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SZN5DDVTSFM35KGV52W2454S6E.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Nvidia Stock Tumbles As US Bans AI Chip Sales To China Clients: AMD Also Hit By New Export Rules"
     excerpt: "The U.S. government unveiled fresh restrictions on the sale of computing chips for artificial intelligence to China late Wednesday, heaping pressure on Nvidia and Advanced Micro Devices shares."
     publishedDateTime: 2022-09-01T13:36:00Z
@@ -189,9 +203,9 @@ related:
   - title: "US blocks sale of some Nvidia and AMD AI chips to China"
     excerpt: "The US government’s effort will restrict Chinese AI researchers using the chips to train machine-learning models."
     publishedDateTime: 2022-09-01T14:42:00Z
-    webUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.html"
-    ampWebUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.amp.html"
+    webUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-chips-to-china.html"
+    ampWebUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-chips-to-china.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-chips-to-china.amp.html"
     type: article
     provider:
       name: Network World

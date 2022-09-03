@@ -39,6 +39,20 @@ related:
         width: 619
         height: 377
         isCached: true
+  - title: "Enhanced Road Simulations To Help Self-Driving Cars Developed"
+    excerpt: "Researchers have developed a new way to create photorealistic images for simulators, paving the way for better testing of driverless cars."
+    publishedDateTime: 2022-08-30T09:02:00Z
+    webUrl: "https://www.technologynetworks.com/informatics/news/enhanced-road-simulations-to-help-self-driving-cars-developed-365147"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 24
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/365147/enhanced-road-simulations-to-help-self-driving-cars-developed-365147-640x360.jpg?cb=20220830"
+        width: 640
+        height: 360
+        isCached: true
   - title: "GM's self-driving outfit is looking to fill 200 open roles. Cruise's top engineering exec shares his 4 tips for acing the interview."
     excerpt: "The top engineering exec at GM's Cruise, gives 4 ways a job candidate can ace an interview at the self-driving vehicle company."
     publishedDateTime: 2022-08-31T09:51:00Z

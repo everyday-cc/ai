@@ -1,0 +1,23 @@
+---
+category: news
+title: "Cambridge Investment Research Advisors Inc. Grows Position in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT)"
+excerpt: "Cambridge Investment Research Advisors Inc. increased its position in shares of First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) by 12.0% during the first quarter,"
+publishedDateTime: 2022-09-03T10:16:00Z
+originalUrl: "https://www.defenseworld.net/2022/09/03/cambridge-investment-research-advisors-inc-grows-position-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.html"
+webUrl: "https://www.defenseworld.net/2022/09/03/cambridge-investment-research-advisors-inc-grows-position-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.html"
+type: article
+quality: 17
+heat: 17
+published: false
+
+provider:
+  name: Defense World
+  domain: defenseworld.net
+
+topics:
+  - AI in Robotics
+  - AI
+
+secured: "EsOozTqZkov8veWz2D1Z71LScfap57VMbs4H3RSx9kW0+6teBBWQ6d1TkVpR/4r7qK1gpS5owkILa6MLhc7ZbVA4yuCiFTL1aIQ0/RjLWPhspRY3uIBTZJo34IY5qiAwjF/xV+9cfAqWXqjAqzOQyosEKPUh+X4csMLIMtXVtCVzA3ci6Z7tbtM2+XdDLswWRrb7pH5Pf0xTkRObeuFMQIKw89IRhSVpNwTb+UctGmb37EWvaO8AeM97gdNVx8RZ6ouDw2+Fr8loWM81pvz0crxsytuRpkqsa3/oEJApfVlDTm9AdYrTaA9lxYuce3I49qAVtIVPBYMXeCUUzsUzRtJO/3lvCcpSr5GngjWwhPFuyA1sWs8eLyM3UZ0ChGHHbgnqoyUdGEDXYPARDJKugN0V91ZSTGtasRuMNkFuL2OHNDl7PylzTWYrj1TwsydeLpcb3GVJ4aIt8ZEhCdGGbDbJcqgtOZ+73KihX335gNjm2B3ZV/G/p+XG1AqbBnepW0jepi99SQCFJTVS3RtzsQ==;OODjmeypQFvn/sqTwElUCA=="
+---
+

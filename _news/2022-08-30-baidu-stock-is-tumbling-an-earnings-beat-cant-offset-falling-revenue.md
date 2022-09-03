@@ -27,17 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu Revenue Contracts but Beats Estimates on Cloud Business Growth"
+  - title: "Baidu revenue contracts but beats estimates on cloud business growth"
     excerpt: "Revenue at Baidu's AI Cloud unit grew 31% year-on-year in the quarter. Baidu has also been doubling down on self-driving technologies, in which it has heavily invested over the past five years."
-    publishedDateTime: 2022-08-30T09:06:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2022-08-30/baidu-beats-quarterly-revenue-estimates"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2022-08-30/baidu-beats-quarterly-revenue-estimates?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-08-30/baidu-beats-quarterly-revenue-estimates?context=amp"
+    publishedDateTime: 2022-08-30T10:25:00Z
+    webUrl: "https://www.reuters.com/technology/baidu-beats-quarterly-revenue-estimates-2022-08-30/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: Reuters
+      domain: reuters.com
     quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/VcMhCTIPuZkROATTg3O8vy954F8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DO6AEQYAIVJRHB6NSPK3CHZTQA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Baidu's Q2 revenue contracts, but beats estimates on cloud business growth"
     excerpt: "Total revenue shrank by 5% to 29.65 billion yuan ($4.43 billion) in the second quarter, compared with analysts' average estimate of 29.30 billion yuan, according to Refinitiv data"
     publishedDateTime: 2022-08-30T11:09:00Z

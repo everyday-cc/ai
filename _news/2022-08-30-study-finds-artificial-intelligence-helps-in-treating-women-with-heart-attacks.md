@@ -57,15 +57,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Artificial Intelligence Improves Treatment in Women with Heart Attacks"
-    excerpt: "Heart attacks in women are more likely to be fatal than in men. The reasons are differences in age and in comorbidity burden which makes risk assessment in women a challenge. Researchers have now developed a novel artificial-intelligence-based risk score that improves personalized care for female patients with heart attacks."
-    publishedDateTime: 2022-08-29T19:01:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/08/220829112918.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 51
   - title: "University of Zurich: Artificial Intelligence Improves Treatment in Women with Heart Attacks"
     excerpt: "Researchers at the University of Zurich have now developed a novel artificial-intelligence-based risk score ... These symptoms are unfortunately often misinterpreted by the patients and healthcare personnel – with disastrous consequences."
     publishedDateTime: 2022-08-31T23:04:00Z
@@ -77,29 +68,6 @@ related:
       name: India Education Diary
       domain: indiaeducationdiary.in
     quality: 28
-  - title: "Artificial intelligence-based risk score improves personalized care for women with heart attacks"
-    excerpt: "Heart attacks in women are more likely to be fatal than in men. The reasons are differences in age and in comorbidity burden which makes risk assessment in women a challenge."
-    publishedDateTime: 2022-08-29T17:14:00Z
-    webUrl: "https://www.news-medical.net/news/20220829/Artificial-intelligence-based-risk-score-improves-personalized-care-for-women-with-heart-attacks.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 26
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
-  - title: "Artificial Intelligence Enhances Heart Attack Treatment In Women"
-    excerpt: "The use of artificial intelligence for the management of heart attacks both in male and female patients will improve the survival of patients."
-    publishedDateTime: 2022-08-29T18:13:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-enhances-heart-attack-treatment-in-women-208444-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 19
 
 secured: "T2RGNQbLnymQaTKwI423duBfTcFNFTXSGppBjY/mPLT0C9VfprTTFw8uMTD3x1Y/GMNUrvGm+ai4o0R5emxascUAI2E4gNHVjE/EDFR9muBqof+2oO4iqHyphlR9g1D1yhf8FsWoxrWwfg24mLXBh2j8y5OvwEpvDSfCc0uQtCaBv0s5PRaYd1xFBNW6invk0DQ7lRf/X/T3THslLjCsyItBi9pKp00LzUBlKMBApTu/exgH9cC0SBMuy1Me/Cay9t1EFPrpZ70lDcO18osWY+p7Kz9yW+YW0WgiLnBKqH008ShkVY2begvHHDc6kT6yW7XrJQXB1hOgPbylVEACAfMnyfFUT5uVRbH14N7z2d8=;1v2UKoCsoeGxpvz2YbbQcw=="
 ---

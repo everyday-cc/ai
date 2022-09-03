@@ -3,10 +3,10 @@ category: news
 title: "US blocks sale of some Nvidia and AMD AI chips to China"
 excerpt: "The US government’s effort will restrict Chinese AI researchers using the chips to train machine-learning models."
 publishedDateTime: 2022-09-01T14:42:00Z
-originalUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.html"
-webUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.html"
-ampWebUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.amp.html"
-cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.amp.html"
+originalUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-chips-to-china.html"
+webUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-chips-to-china.html"
+ampWebUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-chips-to-china.amp.html"
+cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-chips-to-china.amp.html"
 type: article
 quality: 74
 heat: -1
@@ -162,6 +162,20 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/0428h4RvpfRvCDQ6E4Ps6W4-1.fit_lim.size_1200x630.v1662024102.jpg"
         width: 1120
         height: 630
+        isCached: true
+  - title: "With new China AI chip restrictions, U.S. takes aim at a critical niche"
+    excerpt: "The United States beefed up its effort to cut off the flow of advanced technology to China by instructing Nvidia Corp and Advanced Micro Devices to stop sending their flagship artificial intelligence chips there."
+    publishedDateTime: 2022-09-01T19:37:00Z
+    webUrl: "https://www.reuters.com/markets/us/with-new-ai-chip-rules-us-takes-aim-critical-niche-2022-09-01/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/eV_gFCcnk0mB3RWyjki3Q3V9Y24=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SZN5DDVTSFM35KGV52W2454S6E.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Nvidia Stock Tumbles As US Bans AI Chip Sales To China Clients: AMD Also Hit By New Export Rules"
     excerpt: "The U.S. government unveiled fresh restrictions on the sale of computing chips for artificial intelligence to China late Wednesday, heaping pressure on Nvidia and Advanced Micro Devices shares."
@@ -440,6 +454,6 @@ related:
       domain: arabianbusiness.com
     quality: 13
 
-secured: "Px49CY6yLoWqC2nvaXzDaUPdz3Ri7+n/Tjj4BTcl1gG2+/2534fyve5Cq2aKfZwocsISSVaMnfUcZVGpGWX1BYo5peixqctfyHQnVNkGUZEpT+2TyWvdHYgk5iU9AbSJ3Lmj47yoqKiUWuIYVPPYL8m9JRz6vAQsJPsJESqIiUvAqG8n3askJt3h9A0ZcCsvqeo+cev6TfZDyWaCE7Cq3kM7GuZInM8iJZj6lE6v7EJIzGtNEJgFxEeqesbBby/2+AUDRhTad0uM3jCEQa/5dHgs1uVNWG9c85ScKqrLgl7idjX+jJiqcQxFOJHb6ZADnSd11/rm5mEZUCj9ivNCitLFw78WBie2Zp6URTkmSkcJI0gcQtGht9sUL595b2fGmIxuW+V5wmLqXfJJitbSI8qGtj233qWvBaqoocWQfRyswd1mslRGSr+rSmmsNCKQJlgH/VsOzvzUjSj6JZm12hah0VpkOgzLlLiD3IDmx+9P+8/kyTc1Frd4xRlKSSDUKDKurykfUeQWA7x+G0x9Ew==;lJaPfv5PWbgagKCOhfwUBA=="
+secured: "4D8CjuXa+3lDoF9SNYjT9OjPwddBCQQjbmfo6JosC95IXe/+Xf2oMQNQ49+wP+q6OVnQGu8Tl/Acc4vyBppK8Ax9Luqem29w8ALmzNUqMmQ8GxWSyDbZJdb9JNgUk2/X/SBW4MPSTzEs7e+zwajZsQLgMRuBFymeszuTBQVXGU/DqIPdlBW9YzexFdEjGD+lLqbhohgaQXqFRyN4cqjGhLZVSF+nyQyQ+wCg6dxB3R3HWtJXBzJugiyc5hHTxrAQCz0OfvHE4K2KFKt+fbyW21DFdc1cVaag06E+fYz9BnPPoTaBJhk76HTV8s+CDwzSNgYU2PLAXwmkCGNjAjm+CdJx/dOF88Tzpo/Z98u8zy0=;2KTH4HF93RJwinc5SbCiDQ=="
 ---
 
