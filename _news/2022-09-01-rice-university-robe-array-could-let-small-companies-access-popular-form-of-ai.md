@@ -9,8 +9,8 @@ ampWebUrl: "https://indiaeducationdiary.in/rice-university-robe-array-could-let-
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/rice-university-robe-array-could-let-small-companies-access-popular-form-of-ai/"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: India Education Diary
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "ROBE Array could let small companies access popular form of AI"
-    excerpt: "ROBE Array could let small companies access popular form of AI: Low-memory technique for deep-learning recommendation systems. ScienceDaily . Retrieved August 31, 2022 from www.sciencedaily.com ..."
-    publishedDateTime: 2022-08-30T02:36:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/08/220829143936.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "Ohio State University: Driving simulations that look more life-like"
     excerpt: "They don’t look realistic enough, particularly background objects, such as trees, and road markings. But researchers have developed a new way to create photorealistic images for simulators, paving the"
     publishedDateTime: 2022-09-01T02:51:00Z

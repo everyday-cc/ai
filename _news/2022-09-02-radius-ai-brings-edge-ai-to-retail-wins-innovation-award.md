@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/radius-ai-brings-edge-ai-to-retail-wins-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/radius-ai-brings-edge-ai-to-retail-wins-innovation-award/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "How AI is accelerating front-end innovation"
+    excerpt: "Artificial intelligence (AI) is emerging as a valuable tool for food and beverage makers looking to bolster front-end innovation. Manufacturers, restaurants, ingredient suppliers, flavor houses and more are leveraging insights from machine learning to get closer to consumer trends and market more nuanced propositions."
+    publishedDateTime: 2022-08-31T12:12:00Z
+    webUrl: "https://www.foodbusinessnews.net/articles/22103-how-ai-is-accelerating-front-end-innovation"
+    type: article
+    provider:
+      name: FoodBusinessNews
+      domain: foodbusinessnews.net
+    quality: 17
 
 secured: "fEQQ7xGC1/7B4zAYpckm8vbsoi624j3ccOUxy6IeIRgcOpCZSv74+ffpa0n/RO8gw+D8xA5HHLo9fL2mAKdE18N+yuDiEzAlzK/cKVPATUwRbtWgiGb7OIRgjDXQbroLmJcy9c59nm/AaWL89lCBRxuL61DhTxAT3alb5uBHWs3ehXl1MvFreU7KgesO6uVzWpw4VmvxahiSbPA0l/9MyaeeEj8eclEhYO335CP392clVDFqicKB2xh7VJyHWRZwjtupxuPEa+sBKGSCj3lOEpqSMqQfRUVOO/7BCMSxPdQXd0MXtjmBFBJ3ba8LL1/FMWHDaS+Tk3kXGpMqZXBAOG5ZJVYjEjat6gxbJ4qQa1FpzlLUQRzf4A5f0dEK7l+8LLU9E8FvyHfiFhVJO1OkhcmGbYCwDWnp4CypQhxlcCSWuDtk6sPwo6VQKYwIiLF0+0J/ECAeHy4EUkFNLepRJ0LjN7MLOpEEYMyPIkusDy+d4VIjY2H/Z2RGmNwu3rMgERMSkhehR2Ig92uCstlqsA==;McMKkTgx+BazDdXIcndCBQ=="
 ---

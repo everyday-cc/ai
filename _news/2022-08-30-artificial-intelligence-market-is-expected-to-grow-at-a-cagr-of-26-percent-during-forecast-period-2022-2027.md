@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-is-expected-to-grow-at-a-cagr-of-26-percent-during-forecast-period-2022-2027-2022-08-30"
 type: article
 quality: 51
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 420
         height: 300
         isCached: true
+  - title: "Business Intelligence Market is Anticipated to Increase its Market Dominance at a 7.0% Average CAGR Between 2022 and 2032"
+    excerpt: "The business intelligence market is expected to rise at a CAGR of 7% throughout the forecast period. The valuation of the business intelligence market is projected to reach US$ 52.6 Bn by 2032 from US$ 26."
+    publishedDateTime: 2022-09-01T09:40:00Z
+    webUrl: "https://www.fmiblog.com/2022/09/01/business-intelligence-market-is-anticipated-to-increase-its-market-dominance-at-a-7-0-average-cagr-between-2022-and-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 0
 
 secured: "LMS0iCO2CUU2pUASjdwslkcBSSyUOw+gQ2Q4vHRb7SCTfgp2A6D46aRyRjl0FpEYjHUiC5+RIixRMKfuCAYVhycv7jRDt/5p3HLQ+mhuShUtDJ9+Hf9LtAUfIDIDnKTtTtJz12I7CoTbyPIyeIxSNl7JicCgfsDDD+Vn2fSJEUhfD3K0CJZGdixmrosoCRvlfoQN3QbJ/lKN5e1zD7hQFbTJrKgI9SHuWjiExeMc1qD/DvMFPTd607us6ttBhQ6Ud4fIyFDY9B/fUaBGfNVK5LqGqhCFbwwLPcgC0mJ1I4xiwxAvL0kqGc2qGfwFlQJC6gCC4RcofDBOd13sMPC325EA58otRMNWhE4RoFLAOQo=;fYagi5F6yRIfKGiobA/pCA=="
 ---

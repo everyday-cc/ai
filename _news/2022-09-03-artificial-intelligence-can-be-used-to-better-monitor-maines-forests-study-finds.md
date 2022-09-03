@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2022-09-artificial-intelligence-maine-forests.
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-artificial-intelligence-maine-forests.amp"
 type: article
 quality: 66
-heat: 96
-published: true
+heat: -1
+published: false
 
 provider:
   name: Phys.org
@@ -34,7 +34,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 66
+    quality: 68
   - title: "Artificial intelligence can be used to better monitor Maine’s forests, UMaine study finds"
     excerpt: "The University of Maine has developed a novel method of using artificial intelligence and machine learning to make monitoring soil moisture more energy and cost efficient. The software learns over time how to make the best use of available network resources,"
     publishedDateTime: 2022-09-03T02:52:00Z

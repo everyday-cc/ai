@@ -6,9 +6,9 @@ publishedDateTime: 2022-09-02T20:57:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2022/09/220902154904.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/09/220902154904.htm"
 type: article
-quality: 66
-heat: -1
-published: false
+quality: 68
+heat: 98
+published: true
 
 provider:
   name: Science Daily
@@ -22,6 +22,7 @@ topics:
   - AI in Autos
   - AI
   - AI in Healthcare
+  - AWS AI
 
 related:
   - title: "Artificial intelligence can be used to better monitor Maine's forests, study finds"

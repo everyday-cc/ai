@@ -1,23 +1,31 @@
 ---
 category: news
 title: "1 Machine Learning Stock Down 56% to Buy Hand Over Fist"
-excerpt: "Machine learning is a subfield of artificial intelligence, and it's primarily used to make sense of mountains of data to deliver valuable insights to the end user. Thanks to companies like Splunk (NASDAQ: SPLK),"
-publishedDateTime: 2022-08-28T11:15:00Z
-originalUrl: "https://www.nasdaq.com/articles/1-machine-learning-stock-down-56-to-buy-hand-over-fist"
-webUrl: "https://www.nasdaq.com/articles/1-machine-learning-stock-down-56-to-buy-hand-over-fist"
-ampWebUrl: "https://www.nasdaq.com/articles/1-machine-learning-stock-down-56-to-buy-hand-over-fist?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/1-machine-learning-stock-down-56-to-buy-hand-over-fist?amp"
+excerpt: "Splunk sees an opportunity in the machine learning industry, which is growing at 44% annually. Splunk is in the midst of a transformative shift to offer its services in the cloud to make them more ..."
+publishedDateTime: 2022-08-28T07:15:00Z
+originalUrl: "https://www.fool.com/investing/2022/08/28/machine-learning-stock-down-56-buy-hand--over-fist/"
+webUrl: "https://www.fool.com/investing/2022/08/28/machine-learning-stock-down-56-buy-hand--over-fist/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-secured: "J73IYJJ2JV5qUcjBTnk1SXeNtc0+Z9X2/b9P7nExIs6Lg6khLXGanbWw+ZZna3JWBeZA7t00ADiK+h+DCTNWomebZ6426+xpBMzx2RO9goTZWOyYe5VDUp0e1ZRNEfWE3twdTMNp92Sq6UaD9fNvKyraHLfPiz0EcuieCDxG533u7q+15cf5RGMpAfFIMDy18O9u1q1R7//p0bFoRPu4xRSCsFLi3Uv15ZSMinGOjpC2j5QnL38cSKFTBVVkT3hV2/XdL4CdAKknwEgMxZChN/xlhNQSrwQIQG36QYAC6Fg7C3zOk+HpBwcJIMzOX0rfo/eEUbnBRxyLUtLo2Zz2td2zDXYJzyqtQJSp4rGSp/FdVf9p4s/C2saQx7mP/qVrr+1icToUXtxm+XgO5dfHDCEgwlPXfae2kga3BFudv8mzX68bQ8VJlhwrn6wd4IK41VzQH1qiRdG72BzLwHcfXeLbuuKRFMFRJNPvbsZDXu+a+EUJpZUoU3gUPSiEq2UsW++vbCNNC/XaUYnPBuRz3g==;L5oDM+o7iB/UVVts+O4T9A=="
+images:
+  - url: "https://g.foolcdn.com/editorial/images/698259/a-person-working-on-a-digital-dashboard-analyzing-data.jpg"
+    width: 5760
+    height: 3240
+    isCached: true
+
+secured: "hCp6zZDsEGe/5CGy0ypMvhmEWDYvjL1kqt23UAXLorCN1RQwoHwbPwCY5dgWoTRUbARSuaR6muqLAB8JgN8aNq5Bxq7vAHoSvyh5OyrpeeAVD5q/TCvSaZukhsdGRMlH/K8vrjEPcnj5vqzvFzJqGvFavyVVn6UEMYarnQ7890KAGlHrbvri55nCiH9jM9d1nAp1nWS3n2Int/Hkr2ra/CQ+G1w4d9YhoNBtlxe2SgDCYAAmcunhH1X89kJiIaWxgIELfeFE/eWVRGJVWrO38ccSjZgSIdKqbDAcxuINPr/kfuQVEZAUnYEph/4vX/cDVFrzU1ZcA9oehKIoutJEUdNXd2cqyMQKeX+PgHyIf9I=;OyqAaNGR8i81acyIgKEFRA=="
 ---
 

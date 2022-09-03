@@ -18,6 +18,15 @@ topics:
   - AI
 
 related:
+  - title: "Artificial intelligence can be used to better monitor Maine's forests"
+    excerpt: "Researchers have developed a novel method of using artificial intelligence and machine learning to make monitoring soil moisture more energy and cost efficient. The software learns over time how to make the best use of available network resources,"
+    publishedDateTime: 2022-09-02T20:57:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/09/220902154904.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 68
   - title: "Artificial intelligence can be used to better monitor Maine's forests, study finds"
     excerpt: "Monitoring and measuring forest ecosystems is a complex challenge because of an existing combination of softwares, collection systems and computing environments that require increasing amounts of energy to power."
     publishedDateTime: 2022-09-03T10:12:00Z
@@ -34,15 +43,6 @@ related:
         width: 2880
         height: 1920
         isCached: true
-  - title: "Artificial intelligence can be used to better monitor Maine's forests"
-    excerpt: "Researchers have developed a novel method of using artificial intelligence and machine learning to make monitoring soil moisture more energy and cost efficient. The software learns over time how to make the best use of available network resources,"
-    publishedDateTime: 2022-09-02T20:57:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/09/220902154904.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 66
   - title: "Artificial intelligence can be used to better monitor Maine’s forests, UMaine study finds"
     excerpt: "The University of Maine has developed a novel method of using artificial intelligence and machine learning to make monitoring soil moisture more energy and cost efficient. The software learns over time how to make the best use of available network resources,"
     publishedDateTime: 2022-09-03T02:52:00Z

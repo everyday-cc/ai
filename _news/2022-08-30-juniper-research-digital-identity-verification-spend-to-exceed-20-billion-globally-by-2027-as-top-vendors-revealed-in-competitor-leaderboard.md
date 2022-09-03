@@ -2,21 +2,17 @@
 category: news
 title: "Juniper Research: Digital Identity Verification Spend to Exceed $20 Billion Globally by 2027, as Top Vendors Revealed in Competitor Leaderboard"
 excerpt: "A new study from Juniper Research has found spend on digital identity verification checks will reach $20.8 billion globally in 2027; up from $11.6 billion in 2022. It predicts this growth will be driven by both the increasing prevalence of digital services requiring digital onboarding journeys,"
-publishedDateTime: 2022-08-30T06:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/juniper-research-digital-identity-verification-spend-to-exceed-20-billion-globally-by-2027-as-top-vendors-revealed-in-competitor-leaderboard-2022-08-30"
-webUrl: "https://www.marketwatch.com/press-release/juniper-research-digital-identity-verification-spend-to-exceed-20-billion-globally-by-2027-as-top-vendors-revealed-in-competitor-leaderboard-2022-08-30"
+publishedDateTime: 2022-08-30T07:22:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-juniper-research-digital-identity-verification-spend-exceed-20-/2022/08/30/9663806.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-juniper-research-digital-identity-verification-spend-exceed-20-/2022/08/30/9663806.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
@@ -72,6 +68,6 @@ related:
       domain: iol.co.za
     quality: 4
 
-secured: "uhFAH41jpD4qMbNc7mc0SiXsAl9jMgzKNNfVEbXr34sUtRrETE38tGfpf9Sk4nVIzE9PbcwIakHmqKDOIhcnRNoHbaNEKnhFitET7amalKuY6K/6om+n5ts5qY81G3f9yRu0JhSegJ32HLwDfuBWDLhSuhlsVkP4EQLeG7x3s1lQL89O8H5gRBUCs9VOwOawgEbpI1zMCKzRgin5g4b8c9gXdXCT1m3V4YkG8A2FsthGdBja5zSNWVzjRO0Im/Lyvcp039PwIzuWChFok0Nz9BkuMlMGg4klH4TzJczHDtQU4kHvmBuYwc1kAGGY0aKSlX/vJxypqJzkUIQbq87PWDoTmJFcCIpafD4CxTQfhK0=;K2QNvYm5xdW/MKwroJPGxA=="
+secured: "OR3envS26IlRheAMvO25w/UPd0/C1owaISPxzUSizXv5tG9Ehw1F5Tot6RPtldZulSFpcnpqvx6YdWocFHJsLWtbp1ebgJJvLQNDzpeq3EjG3TL13BLXIQo64ov5a43aaRrHXs/D3CK96sVTiHwBh4Y52Soi3NWMm+s7xJ5/xnOuDBs+92dX3E6rs2J6r3UBDFx+EWWA67QKbO456C17eBjH2dqgYHfTYzDRWujjSVoSthaGgO3OxgGAYjbp4Vv1Kg5xtRXihKAKwaY3iSbOxqMfImkIOFmvOz/QhAfuVCEDp6Wen1x8LP9t2WK+aKu65EnJDpuXPVUI37IvC+ZyFo+Gc/sFTZ2oXvMNcLO72bXUDO4tjzeggjaCStyuv60EWhKjBU9JvK2AmdUUvSp0hbhAJXDjZsIcjRxCsntUMakfV/KZ7/4NiOrrznxzWpdEDTx96kY4wB30tBNQtcV1lOWSPvx5IA3BOUozwgi9uacdvRz5/FqcBIKE+59qOTwOd0/S/jzFY1ne4qkW8j1PXg==;caTeZZCPZ5wRMVFbkg/cOA=="
 ---
 

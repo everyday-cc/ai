@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2022/08/31/gaining-ins
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/08/31/gaining-insights-from-private-data-using-federated-learning/amp/"
 type: article
 quality: 89
-heat: 129
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -35,48 +35,36 @@ related:
     excerpt: "This is a carefully devised set of Top Ten quotes about AI, providing an explanation about each quote and illuminating key insights about the future of AI, doing so with a keen eye toward the latest in AI Ethics thinking."
     publishedDateTime: 2022-09-03T12:00:00Z
     webUrl: "https://www.forbes.com/sites/lanceeliot/2022/09/03/unpacking-the-best-top-ten-quotes-about-artificial-intelligence-leveraging-modern-day-ai-ethics-thinking/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/09/03/unpacking-the-best-top-ten-quotes-about-artificial-intelligence-leveraging-modern-day-ai-ethics-thinking/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/09/03/unpacking-the-best-top-ten-quotes-about-artificial-intelligence-leveraging-modern-day-ai-ethics-thinking/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 64
-  - title: "As the Machine Learns—Continuing AI IP and Privacy Considerations"
-    excerpt: "AI frequently automates routine tasks that were previously performed by people, eliminating tedious work, making business processes more efficient, and creating new capabilities and opportunities. Every business in the future will be using AI to some extent."
-    publishedDateTime: 2022-08-30T14:51:00Z
-    webUrl: "https://www.law.com/thelegalintelligencer/2022/08/30/as-the-machine-learns-continuing-ai-ip-and-privacy-considerations/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 41
+    quality: 106
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/402/2022/08/Halt-Glabicki-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62d7369da6293b308a7896a2/0x0.jpg?format=jpg&crop=2297,1531,x0,y0,safe&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "As the Machine Learns—Continuing AI IP and Privacy Considerations"
-    excerpt: "AI frequently automates routine tasks that were previously performed by people, eliminating tedious work, making business processes more efficient, and creating new capabilities and opportunities. Every business in the future will be using AI to some extent."
-    publishedDateTime: 2022-08-30T17:06:00Z
-    webUrl: "https://www.law.com/legaltechnews/2022/08/30/as-the-machine-learns-continuing-ai-ip-and-privacy-considerations/"
+  - title: "AI Ethics Asking Aloud Whether Large Language Models And Their Bossy Believers Are Taking AI Down A Dead-End Path"
+    excerpt: "Large Language Models (LLMs) are all the rage right now in AI, but some wonder whether this might be a dead-end path on the way to true AI. All kinds of AI Ethics issues arise and are closely explored in this probing analysis."
+    publishedDateTime: 2022-08-30T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/08/30/ai-ethics-asking-aloud-whether-large-language-models-and-their-bossy-believers-are-taking-ai-down-a-dead-end-path/"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 41
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/402/2022/08/Halt-Glabicki-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "How AI is accelerating front-end innovation"
-    excerpt: "Artificial intelligence (AI) is emerging as a valuable tool for food and beverage makers looking to bolster front-end innovation. Manufacturers, restaurants, ingredient suppliers, flavor houses and more are leveraging insights from machine learning to get closer to consumer trends and market more nuanced propositions."
-    publishedDateTime: 2022-08-31T12:12:00Z
-    webUrl: "https://www.foodbusinessnews.net/articles/22103-how-ai-is-accelerating-front-end-innovation"
+      name: Forbes
+      domain: forbes.com
+    quality: 45
+  - title: "AI Ethics Asking Aloud Whether Large Language Models And Their Most Ardent Believers Are Taking AI Down A Dead-End Path"
+    excerpt: "Notably, this raises serious AI Ethics considerations. For my ongoing and extensive coverage of AI Ethics and Ethical AI issues, see the link here and the link here, just to name a few."
+    publishedDateTime: 2022-08-31T11:14:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/08/30/ai-ethics-asking-aloud-whether-large-language-models-and-their-bossy-believers-are-taking-ai-down-a-dead-end-path/"
     type: article
     provider:
-      name: FoodBusinessNews
-      domain: foodbusinessnews.net
-    quality: 17
+      name: Forbes
+      domain: forbes.com
+    quality: 40
 
 secured: "V9uS/4aHsEgIFnFlrKLyBx2YmWSK3acJG3R8/t64TqAGO2ORkVMJSKUWBh357wZagCaWeyozcbLenlt7OabQWj5YoCviu/YymI+8bDbMvAmB6waTa+YCHPKNvmlThlo1+g78wGl7I+aseRfJjiar2FSt/7XdvTtVjV/C1Ukju9xfRqhbXb9AF+UaPQv61DyCvI/qwpXuybsnD/UwwMzD5/FEKsjq28ICPMF6JcprRNvM2m9dFuB+pveMS4QLH9Q6+QaCnc3f/02QlVaeRw5lDAimdTyVDLoK4w6Xn9mmayeqjKr03fsyxOEM77UNa3GOpWG6UpoTR9hJWXzG4cZLztLXa+TXxy+V3eo/TJrmIv8iNyR5Vcv7tQVZW15TPggaDMgIPYBB8RTylHGX2/3u8gQju1ECJUzIgmFgSsRJOoCj9oMsWx6/mDir6eP6Y3g/50kAUkMML9IthvqdKpBiv3g7cnRHpQZv5RE+QiwBI+c+flcQyDJLYIn/S47vPUTm34Mzn+j3rNbw+WxuzCi35w==;QQxopSSPC9qwdmIIYvzMcg=="
 ---

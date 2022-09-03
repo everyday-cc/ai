@@ -8,8 +8,8 @@ webUrl: "https://www.popsci.com/technology/artificial-intelligence-animal-langua
 ampWebUrl: "https://www.popsci.com/technology/artificial-intelligence-animal-language/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/artificial-intelligence-animal-language/?amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
 images:
   - url: "https://www.popsci.com/uploads/2022/09/01/ken-chan-7fwFqfMb5cU-unsplash-scaled.jpg?auto=webp"

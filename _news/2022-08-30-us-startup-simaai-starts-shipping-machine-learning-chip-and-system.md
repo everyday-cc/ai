@@ -1,28 +1,32 @@
 ---
 category: news
-title: "U.S. Startup SiMa.ai Starts Shipping Machine Learning Chip and System"
-excerpt: "(Reuters) - Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management ... It is used for industrial robotics, drones, security cameras, satellite imaging and ..."
-publishedDateTime: 2022-08-30T13:24:00Z
-originalUrl: "https://money.usnews.com/investing/news/articles/2022-08-30/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system"
-webUrl: "https://money.usnews.com/investing/news/articles/2022-08-30/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system"
+title: "U.S. Startup SiMa.ai Starts Shipping Machine Learning Chip And System"
+excerpt: "industrial robots, and eventually self-driving cars in, San Jose, California, U.S., in this undated handout photo. Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity ..."
+publishedDateTime: 2022-08-30T16:39:00Z
+originalUrl: "https://www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305"
+webUrl: "https://www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305"
+ampWebUrl: "https://www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305?amp=1"
 type: article
-quality: 83
+quality: 93
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AI in Robotics
   - AI
   - Machine Learning
   - AI Hardware
+
+images:
+  - url: "https://d.ibtimes.com/en/full/3810267/us-startup-simaai-starts-shipping-machine-learning-chip-system.jpg"
+    width: 1200
+    height: 798
+    isCached: true
 
 related:
   - title: "AI startup SiMa.ai debuts 'purpose-built' AI chip for edge computing"
@@ -136,6 +140,6 @@ related:
       domain: tmcnet.com
     quality: 8
 
-secured: "mWg7mKE7fKOM5QkGUaNf/d+/+5QTcIwsEJlwEySgkILkvNk141VAhInZu0Yo8p/GSx95wul+a40uDKB0LwGAt0qr04wnW/w+7ce4emrXkFRJpqOS5CO7Ye6lfdtwLFWYD06RyD07MAWKN1aygRlBtM62D8sdcdHCKukmb5i7/m+EjWKTad7oi/izjo6V4nEKNQLtMGGEI/ZPybXwn3xf8J8x+8weTe1n86tiVXHLrozKv1QhSBguCI66pijp9zO3qLCuu8dje7rVLhe98RuwqJWO02+KMy5zQF1wlxAlfObX68eN+5yG5kvJV9NfqD6V8oTRsTh3eFYhbzdfPnwgtJny9W8WnwhXi7p7JgaIYXE=;aNKECyinRlmXLf77sEG/bA=="
+secured: "DGZ9teMLlootgfKaMtJXfMcZlXPRQVTP8CJblXQo35R4cTNxNkBu5JAZpw7PWCBFmUbkcD7DY4t6Gi3Qx5Po/5be0bkT8rPdUpdb4orck1j1lCtMfVRWZ4shv6STaZ1EONvgp9JNZeLtmy9LSBfphfs5s5ZOEnJcPenBI3dlupBMrz+b8btdND6AO/4l7jLeY5R8q2kRCnRAQ1QC+C/VGE9MDMTNIoYNLgwknFHPQbbPdhbXKrxCa1odp49ANBvodpv9GRpxbY2pDO/TIhQSCi4r7ngpx8viXECfHNn2yILlYvoufx5Nln8DtAwXlPViCnnrEp9EpU2ZQbcZ2WLcT7vNAxjAxsBYeRh2jyp4+k0=;TQ0xCdw4PkIMkPTVFmjtzw=="
 ---
 

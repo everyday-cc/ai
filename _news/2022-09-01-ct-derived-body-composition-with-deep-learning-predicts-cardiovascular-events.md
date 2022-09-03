@@ -1,31 +1,27 @@
 ---
 category: news
 title: "CT-derived body composition with deep learning predicts cardiovascular events"
-excerpt: "According to ARRS' American Journal of Roentgenology (AJR), fully automated and normalized body composition analysis of abdominal CT has promise to augment traditional cardiovascular risk prediction models."
-publishedDateTime: 2022-08-31T17:22:00Z
-originalUrl: "https://medicalxpress.com/news/2022-08-ct-derived-body-composition-deep-cardiovascular.html"
-webUrl: "https://medicalxpress.com/news/2022-08-ct-derived-body-composition-deep-cardiovascular.html"
-ampWebUrl: "https://medicalxpress.com/news/2022-08-ct-derived-body-composition-deep-cardiovascular.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-ct-derived-body-composition-deep-cardiovascular.amp"
+excerpt: "A fully automated and normalized body composition analysis of abdominal CT has promise to augment traditional cardiovascular risk prediction models."
+publishedDateTime: 2022-08-31T21:31:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/08/220831131201.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/08/220831131201.htm"
 type: article
-quality: 56
-heat: 56
+quality: 46
+heat: 46
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/ct-derived-body-compos.jpg"
-    width: 780
-    height: 325
-    isCached: true
-
-secured: "sWh4E98BepLdEuxxgcmB6OQpQ+obC7fAHc3CABv/aUK0sibrJS0sWyNWgDYxlIiS36WzL4Axi0CjJ5IEbu2gHjWXNZgKbfAs5YsLBWWh9wpC7BHWKmMjfAhWyxh3xP3SpVC/DMq+ccdQvO1LeoOu5fk69kvfYNttx9ka2XCodBo/WWElxbB3/+b3YtsbFkCJ+msEgw0c+rFHc2m5PGu7PjflvOACxu12SIyTPgigpd2OCJpp9nYFhq+g2cB8C5A0odBzbMPMpdMGrWdWg1eWfNKlO+MNQkEADbaXpeHzx7ju0nyDLdP6loBiYRL5LJMhkqz86VyuNc5RL+5Ch5p+Uv5f05TfeeoSbafIHHqHQJQ=;sNr1Dy1DGs9uCwyXu03Y4g=="
+secured: "wJjrKoFJnwUIWRevTC8YbMYZXlnhnSXXhNATLK70+bzfCKvasx8xizwy64Sp3klkkbax1yNShwRivyMzHskaOZ5AQe9Be8L3M/1Ov9UlvjOToJQ/pH6sdBdPiG0SUVq8UMlWAeMsfwJtW90nUKY79fU/PJj8+G3lOybtJOyo4OHf8gvV6IUCQi3v4aVDotf7ULtwY8dEwIiE+E/qvQ8WUSj84nLCK9Rx5d3N021kLLFtlEG3ZI0HAxIWIKgXoqUADAs4bpXGSIUQer+3KLcWq0FlhQWOWg53DGYb79SuwmP+IcED1AlwTVwKMe0qGlcpyg9nWRdWh+V+hEJJenPxYsVGkK4IHkr8L7zkKMlgbuQ=;oK79s8mbhHRLG2ZEdeVgiw=="
 ---
 

@@ -26,31 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "Gaining Insights From Private Data Using Federated Learning"
-    excerpt: "Sid Roy is Manager of Machine Learning Engineering at Devron, a federated machine learning platform dedicated to unlocking the innovation and insight of data while preserving privacy. Learn more about this growing discipline and why it matters for the future of AI."
-    publishedDateTime: 2022-08-31T15:21:00Z
-    webUrl: "https://www.forbes.com/sites/aparnadhinakaran/2022/08/31/gaining-insights-from-private-data-using-federated-learning/"
-    ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2022/08/31/gaining-insights-from-private-data-using-federated-learning/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/08/31/gaining-insights-from-private-data-using-federated-learning/amp/"
+  - title: "Artificial intelligence and machine learning now integral to smart power solutions"
+    excerpt: "They help to improve efficiency and profitability for utilities. The utilities’ space is rapidly transforming today. It’s shifting from the conventional and a highly-regulated environment to a tech-driven market at a fast clip."
+    publishedDateTime: 2022-08-30T10:21:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-and-machine-learning-now-integral-to-smart-power-solutions/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-and-machine-learning-now-integral-to-smart-power-solutions/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-and-machine-learning-now-integral-to-smart-power-solutions/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: India Times
+      domain: indiatimes.com
+    quality: 70
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/630f794541acf1330e6047f6/0x0.jpg?format=jpg&width=1200"
-        width: 956
-        height: 561
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/Raj.png"
+        width: 295
+        height: 256
         isCached: true
-  - title: "Unpacking The Best Top Ten Quotes About Artificial Intelligence Leveraging Modern-Day AI Ethics Thinking"
-    excerpt: "This is a carefully devised set of Top Ten quotes about AI, providing an explanation about each quote and illuminating key insights about the future of AI, doing so with a keen eye toward the latest in AI Ethics thinking."
-    publishedDateTime: 2022-09-03T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/09/03/unpacking-the-best-top-ten-quotes-about-artificial-intelligence-leveraging-modern-day-ai-ethics-thinking/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "As the Machine Learns—Continuing AI IP and Privacy Considerations"
     excerpt: "AI frequently automates routine tasks that were previously performed by people, eliminating tedious work, making business processes more efficient, and creating new capabilities and opportunities. Every business in the future will be using AI to some extent."
     publishedDateTime: 2022-08-30T14:51:00Z
@@ -65,15 +56,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "How AI is accelerating front-end innovation"
-    excerpt: "Artificial intelligence (AI) is emerging as a valuable tool for food and beverage makers looking to bolster front-end innovation. Manufacturers, restaurants, ingredient suppliers, flavor houses and more are leveraging insights from machine learning to get closer to consumer trends and market more nuanced propositions."
-    publishedDateTime: 2022-08-31T12:12:00Z
-    webUrl: "https://www.foodbusinessnews.net/articles/22103-how-ai-is-accelerating-front-end-innovation"
-    type: article
-    provider:
-      name: FoodBusinessNews
-      domain: foodbusinessnews.net
-    quality: 17
 
 secured: "YPS3k9uKff9/EJImv6xkwBK6Qiqx1i1dz6x3ifyN7gtW5/8VgWf5tPTHihjZQbhRd0Xr9PIrM2Q+UH9/kGmMTI2AfGoKZcmds9gc4eITcwSj+7x/ybzr4U9+plLViitrZTe4G4KeztSg75i9ECpmk2zcifyoVeC1Sjp8WxYFRFUZjSVtwcnS1B6TYTr3x8AHJS9SeX9JiRbGnAwqsgInfCgZLHxvzpMigBH5u6WnLvKS04qe/uOusyp/SgFP7rw+DWEVITDGr2AR+6Yc8lTyodToz+/ZW+mRG3IizypDGAGov46Js3E0C4OJXCs/SeNknFK4mqDrUHicnEm9pXuGrO20aIgMmC74m8YT/hkDMhN9RXOqc3y85iC0xBLWsu6+vQbyiLROIQ86WvivynlYQ1Gm8Ti0FuYQee9AOQ0qIlrt6SxZTzjUOh+CwXO+HmtnevzoZUtcdlUSkcrsZYL0s0f/UKlZRJEhnAVzqxRjx+2QcM2xRv4/a/DfpeBCXm0hsflCVoZl6PijZBbwNzy7zg==;bWjdGpZzmb9ehTIZ67J5Vg=="
 ---

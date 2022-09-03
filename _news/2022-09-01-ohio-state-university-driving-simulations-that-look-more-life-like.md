@@ -43,15 +43,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "ROBE Array could let small companies access popular form of AI"
-    excerpt: "ROBE Array could let small companies access popular form of AI: Low-memory technique for deep-learning recommendation systems. ScienceDaily . Retrieved August 31, 2022 from www.sciencedaily.com ..."
-    publishedDateTime: 2022-08-30T02:36:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/08/220829143936.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "35n94ezabR2bN93/mdEiZg0XmoFQ4zJpI3tV4AKAI3KGOPRpTV17Wcu8XKyhhwDhWI2oULhopmzj2PAZdVOAUkVUKjmI0Vewqzgxgy15h95qCEmsaTuJbYUUXRamBYecZ1Lo3pZYSP/Io30/gcVn82fT4Vr+JQWgF1S4hNKuWooV8Yk43wFJPbCBjtaY4+562iTaanURrk+gJMSmC6A2+6DlzdRiDbTwWt5WvVM0G4KcMkaFvpKMHadiME89Fuai7ldHIKZWZ52nSuobjp2ek4bQZhDDausxV+KSypdOra02d6EKfnn9bJRwh9/cXvibjMLcCBZB19TRySx4QKqqpylx6Vfq26IGYR92obGgB4FVS14QBLhRhUL0uQ8GCyh9xBBxsiCL6vdXLeGRv35n6qhVLPjxFF2I54DrVoKCzTgQYOSSxyxClNoMK/e+zPI41VOtxJxhzZxJPsRrbupSajdk9Wf3MJ784+n8hWzijamyFsUy2M1H+H+R1ZjEwsGPq0vFoRM+7OgGnGugxJHCPQ==;AS+IRBYqaH/lWczH9lgjgQ=="
 ---

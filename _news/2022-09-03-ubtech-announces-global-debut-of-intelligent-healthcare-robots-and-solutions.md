@@ -2,27 +2,30 @@
 category: news
 title: "UBTECH announces global debut of intelligent healthcare robots and solutions"
 excerpt: "At the event, UBTECH announced its strategy of creating a smart elderly-care system with several sub-systems within specific elderly-care scenarios. They also launched several robotics products for the healthcare and elderly-care domain."
-publishedDateTime: 2022-09-02T17:28:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-health-japan-robotics-climate-and-environment-e740f2b22dca8eb11247fe2493b02924"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-japan-robotics-climate-and-environment-e740f2b22dca8eb11247fe2493b02924"
+publishedDateTime: 2022-09-02T17:34:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ubtech-announces-global-debut-of-intelligent-healthcare-robots-and-solutions-1031722479"
+webUrl: "https://markets.businessinsider.com/news/stocks/ubtech-announces-global-debut-of-intelligent-healthcare-robots-and-solutions-1031722479"
 type: article
-quality: 53
-heat: 63
-published: false
+quality: 66
+heat: 76
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1890962/image_1.jpg"
+    width: 400
+    height: 266
     isCached: true
 
 related:
@@ -41,6 +44,6 @@ related:
         height: 287
         isCached: true
 
-secured: "gNRhzQLA6odN400OMrN//Y2Fsm7+AFRA53yJRvQOIw2tBL6aBriqzTmDSJO+YnPbKCNVFxqTAS1KYww/w5uoe4mnnqCOug2rksT7fcvILRJ9p/BHUSlAy64SYsWdnw+jxwASAP8KpJZS9mVi30rR3ZB6zSUswqvVXdNo/O6qW6YDKcVNhXByAaNh3rCYnWUg2JYlsMjCyWAvNc/CoH8UqJO8qrQqexmjZuA8CneI2Bws93QDZvJUALIGibzLoCIRIRiGxAIpQELsJf1g6lvIC1ePsfVC8DHYJHNE0zBebjlbXtPCPrIUeQ0TNg/OkBAQixltB3tQiNfgqFCDnFN657ax4s1j5IHsRhx4NXr1E+M=;ygWv1LUdZ9fhbmQ7Je1dCA=="
+secured: "sx3RjMK4xuv/f+uYnTiUl/vgat3G0y9iwB6fKBoR10uwtyW+/2BjTYopbWBp5kgH95hsaGqrxrzAwkahdmV8bRtQIFrVX/bCHjNbT2AzWsPEWdppDHjKcp1l+t0sLcJLaajEo4BZCBGohygAfmb2CwWgbr5ES4IPtB7weB8QnjQR0AbEQDba6UdGjYbu/uNGy900AtE2/nRPPim2/T8YZXZikmdLTM4nnCrEvl3DXr+XIrN5tljOt3EOGzkornETrBxuY0stShIGGhgK49bbjjNokjxkbawOU60PeQ5h9+E0nVWD0iXzGKhq6HFrZeIHBhKHJCT6HEdoD2MkxyGlwl/dhvQWZQ+JnjaU2KyXSgI=;Rxs0yKmQFngxUjJtkwU5Kw=="
 ---
 

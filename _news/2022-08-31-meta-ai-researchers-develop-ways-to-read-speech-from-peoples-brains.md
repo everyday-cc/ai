@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "University of Texas researchers develop brainlike transistors"
-    excerpt: "The advancement could potentially help scientists rebuild neural pathways or create brain implants in the future."
-    publishedDateTime: 2022-08-30T14:54:00Z
-    webUrl: "https://www.statesman.com/story/news/education/2022/08/30/university-of-texas-austin-researchers-biocompatible-transistors-brain-synapses/65420296007/"
+  - title: "Researchers Develop Computer Chip to Carry Out Variety of Artificial Intelligence Functions"
+    excerpt: "In a recent study published in Nature, an international research team have created a computer chip, called the NeuRRAM neuromorphic chip, that performs com | Technology"
+    publishedDateTime: 2022-09-03T17:00:00Z
+    webUrl: "https://www.labroots.com/trending/technology/23475/researchers-develop-computer-chip-carry-variety-artificial-intelligence-functions-2"
+    ampWebUrl: "https://www.labroots.com/trending/technology/23475/researchers-develop-computer-chip-carry-variety-artificial-intelligence-functions-2/amp"
+    cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/23475/researchers-develop-computer-chip-carry-variety-artificial-intelligence-functions-2/amp"
     type: article
     provider:
-      name: Austin American-Statesman
-      domain: statesman.com
+      name: Labroots
+      domain: labroots.com
+    quality: 64
+    images:
+      - url: "https://assets.labroots.com/_public/_files/system/ck/trending/artificial-intelligence-gd8c21572c_1280_a8f5b10e23fba74f635210edb7370eb2.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "ISU researcher to develop AI for 6G wireless networks"
+    excerpt: "The cutting-edge research to develop the next generation of mobile networks will be happening at Idaho State University."
+    publishedDateTime: 2022-09-03T17:00:00Z
+    webUrl: "https://localnews8.com/news/pocatello/2022/09/03/isu-researcher-to-develop-ai-for-6g-wireless-networks/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
     quality: 39
     images:
-      - url: "https://www.gannett-cdn.com/presto/2022/08/19/NAAS/61005da9-8ff4-412c-b64b-b175e6af6fcd-UT_Tower_SED_001.JPG?auto=webp&crop=1552,873,x0,y61&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://localnews8.b-cdn.net/2022/09/Mostafa-Fouda-poses-for-a-photo-at-Idaho-State-Universitys-Pocatello-campus..jpeg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "OCjKZ3aqgn5nn3zat1ynRMjY04n3f9q/LQUGo7D0yeQ+XtTVvJzyRXHXmbFPcB5qXhbeLVJNEBgcLAGwBPANKmMsLJG9vNut74o5w+J09jMYavvabUHfUr6wzQ7+1O52nURmTt2Q/Tn5NJgdmfXDpJelzdLtbyog0CDLRitqnHSs8iz1LiVcwdTdClVIe9fQPy/yHpsNLn//oRjUnMGw0PtRnQUhXq7qboOeLbxcHj6tu53BzKXQIVUlIWFePdHUZfsRBG0XUCIEx6mZAQ/pSwhCbdWh94i8q3OuzaQQk6xQ3IvmRs8mrVAL1UakuXIJD2gU1JCTYLCR2NxUK8bUUKMCwbtVJTR9Q4wOmjzqMGncD7JxzncdQOf/DBLyKw103Bdp4+QtSk0mESGC8Ym1VJhkbcwI5+rVvcpcwTq/sfn0D5iRt3PLT9/hoXvt0xagBA+PLr1mr0/MqOC7orGIKkZjoWpsLHaqlyZ9pJWlVR5r1+0DDMLeDnU9b9oAvUDD4N74CpNtiNJQdbxk96giRA==;VGoLD9h0GiFAF+3oi0JOCQ=="
