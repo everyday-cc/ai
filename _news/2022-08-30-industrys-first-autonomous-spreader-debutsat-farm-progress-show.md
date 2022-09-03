@@ -57,14 +57,14 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Industry’s first autonomous spreader debuts at Farm Progress Show"
-    excerpt: "Case IH and Raven Industries introduce the agriculture industry’s first autonomous spreader: the Case IH Trident ™ 5550 applicator with Raven Autonomy ™. Unveiled at Farm Progress Show 2022, this innovative solution delivers on customers’ demands for autonomous equipment to help solve labor challenges and increase productivity on their operations."
-    publishedDateTime: 2022-08-30T14:32:00Z
-    webUrl: "https://www.eagletribune.com/region/industry-s-first-autonomous-spreader-debuts-at-farm-progress-show/article_bd0c3b06-7889-504f-b01b-c4540ac61a68.html"
+  - title: "Industry's first autonomous spreader debuts at Farm Progress Show"
+    excerpt: "With artificial intelligence, Raven&CloseCurlyQuote ... 1 The Case IH Trident 5550 applicator with Raven Autonomy allows for one or more driverless machines in the field without an operator present in the cab, providing the flexibility of full control ..."
+    publishedDateTime: 2022-08-30T14:41:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/08/30/industry-s-first-autonomous-spreader-debuts-at-farm-progress-show"
     type: article
     provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
+      name: Stockhouse
+      domain: stockhouse.com
     quality: 4
 
 secured: "ByCbvDVbVOBDfLRv+tAtAj2fcLy0ZaqyQ5cX3OLf14wDY06fmIWZl8gp0iF/O1BrzO393JDQlMh7SaX7ZK5SpGNvCldhPp8zpMggWvpqUMpPA0pA9hCKaRVoqbrvRNNougMVx0hbtjgrkliDMKKjovLiBvbUX65UAOwdr2uP1gxdaGoHXGFR2lio0ZPBZBhBJYLUhb34aHiRta3zpiM5I9WYUFv7U0Way5kVqAlWM0GmcFw2VHb+80WhDlWD4ijzHAiqN3LxgJjvknzzhXl9rV9dpLpPg9UhDNN8K09D9J/1OyLg1p5OW9Ldr+0wOkBjyi4P4Fe8+lCw39cD1cwTwAEl3e596XASmoD+WjI0IjM=;0Z/Vc7SFruTkA4vitR5FYg=="

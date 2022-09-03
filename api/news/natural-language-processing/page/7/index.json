@@ -2,49 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2022-07-07-global-natural-language-processing-market-to-be-worth-usd-4394-billion-at-a-cagr-of-2110-by-the-year-2027.md",
-      "title": "Global Natural Language Processing Market to be Worth USD 43.94 Billion At A CAGR Of 21.10% by the Year 2027",
-      "excerpt": "Global Natural Language Processing Market Is Expected To Reach USD 43.94 Billion By 2027 At A CAGR Of 21.10 percent. A report on the Global Natural Language Processing Market by Maximize Market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/global-natural-language-processing-market-to-be-worth-usd-43-94-billion-at-a-cagr-of-21-10-by-the-year-2027",
-      "originalUrl": "https://www.digitaljournal.com/pr/global-natural-language-processing-market-to-be-worth-usd-43-94-billion-at-a-cagr-of-21-10-by-the-year-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/07/da27e1d0cfdc0cb35577339dc1eb00792ba71b27-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-07-metas-ai-machine-translation-research-helps-break-language-barriers.md",
       "title": "Meta’s AI Machine Translation Research Helps Break Language Barriers",
       "excerpt": "Kindly share this postMeta has announced that it has built and open sourced ‘No Language Left Behind’ NLLB-200, a single AI model that is the first to translate across 200 different languages, including 55 African languages with state-of-the-art results.",
@@ -1437,6 +1394,60 @@
         "AI",
         "Microsoft AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-27-amazon-just-say-no-the-looming-horror-of-ai-voice-replication.md",
+      "title": "Amazon, just say no: The looming horror of AI voice replication",
+      "excerpt": "If an AI like Alexa really can convert less than a minute of recorded voice into real-time speech, it opens the door to dystopian gaslighting at a whole new level. It's frightening, creepy, and disturbing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/just-say-no-the-potential-horrors-of-ai-voice-replication/",
+      "originalUrl": "https://www.zdnet.com/article/just-say-no-the-potential-horrors-of-ai-voice-replication/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/c88a1fe04f375fb5f453e199411c0f747b9bc8ce/2022/06/27/3d36094a-0ee2-4e13-92b8-74e1cd38fa8c/gettyimages-543194887-cloud-faces.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/just-say-no-the-potential-horrors-of-ai-voice-replication/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/just-say-no-the-potential-horrors-of-ai-voice-replication/",
+      "publishedDateTime": "2022-06-27T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI Hardware",
+        "AI in Robotics"
       ]
     }
   ],

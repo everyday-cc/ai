@@ -7,7 +7,7 @@ originalUrl: "https://www.sixthtone.com/news/1011147/a-chinese-ai-powered-robot-
 webUrl: "https://www.sixthtone.com/news/1011147/a-chinese-ai-powered-robot-aims-to-tackle-complex-surgeries?source=channel_home"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
         width: 800
         height: 480
         isCached: true
-  - title: "Chinese propose to build a dam with a distributed 3D printer"
-    excerpt: "A study recently published by a team of researchers at Beijing’s Tsinghua University has revealed plans to construct a 594-foot-tall dam using robots, 3D printing, and artificial intelligence. The researchers claim that no human labor needs to be directly employed in building this massive structure—if the plan moves forward,"
-    publishedDateTime: 2022-08-29T16:38:00Z
-    webUrl: "https://arstechnica.com/science/2022/08/chinese-propose-to-build-a-dam-with-a-distributed-3d-printer/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 34
   - title: "A Chinese game company has appointed the world’s first humanoid robot as its CEO"
     excerpt: "Recently, the China-based mobile game company NetDragon Websoft appointed an artificial intelligence-supported virtual human being as the general manager named \"Tang Yu.\" The appointment was made on August 26 and the virtual CEO,"
     publishedDateTime: 2022-09-01T09:30:00Z

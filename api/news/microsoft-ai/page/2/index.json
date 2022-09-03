@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-19-cognitive-rehab-may-help-older-adults-clear-covid-related-brain-fog.md",
+      "title": "Cognitive rehab may help older adults clear COVID-related brain fog",
+      "excerpt": "It’s a suite of interventions designed to help people recover from brain injuries, if possible, and adapt to ongoing cognitive impairment. Services are typically provided by speech and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailynewsonline.com/news/publicservicenews/cognitive-rehab-may-help-older-adults-clear-covid-related-brain-fog/article_f58172b2-2819-5695-8081-6d6aef4f3104.html",
+      "originalUrl": "https://www.thedailynewsonline.com/news/publicservicenews/cognitive-rehab-may-help-older-adults-clear-covid-related-brain-fog/article_f58172b2-2819-5695-8081-6d6aef4f3104.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-19T01:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily News Online",
+        "domain": "thedailynewsonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-19-build-up-your-cognitive-reserves-to-lower-your-risk-of-dementia.md",
       "title": "Build Up Your Cognitive Reserves to Lower Your Risk of Dementia",
       "excerpt": "Using data from a national survey of health and development that began in 1946, the researchers looked at the cognitive reserves of more than 1,000 study participants at 69 years of age.",
@@ -1295,50 +1329,6 @@
         "Computer Vision",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-a-security-pros-primer-on-azure-identity-and-access-management.md",
-      "title": "A security pro’s primer on Azure identity and access management",
-      "excerpt": "Azure Attack Paths are more difficult to secure ... There's a lot of worry about \"fakes\" especially in a world rapidly adopting AI/ML, so it's time for solutions. \"Solid\" is the W3C open standard ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmagazine.com/perspective/identity-and-access/a-security-pros-primer-on-azure-identity-and-access-management",
-      "originalUrl": "https://www.scmagazine.com/perspective/identity-and-access/a-security-pros-primer-on-azure-identity-and-access-management",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://files.scmagazine.com/wp-content/uploads/2022/08/AndyRobbinsCol-1-e1659901360381.jpg",
-          "width": 1280,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-10T02:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SC Magazine",
-        "domain": "scmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

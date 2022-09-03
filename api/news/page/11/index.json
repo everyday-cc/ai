@@ -2,6 +2,240 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-08-23-oppo-unveils-its-latest-ai-technology-for-creating-animated-digital-avatar.md",
+      "title": "OPPO unveils its latest AI technology for creating Animated Digital Avatar",
+      "excerpt": "This marks a breakthrough in OPPO AI technology. It is an AI-driven technology that can create animated digital avatars using a few phones. The new OPPO AI technology is adept at loose clothes appearance learning and skeleton motion modeling. The new OPPO ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2022/08/23/oppo-ai-technology-creating-animated-digital-avatar/",
+      "originalUrl": "https://www.gizmochina.com/2022/08/23/oppo-ai-technology-creating-animated-digital-avatar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2022/08/OPPO-Digital-Avatar-Technology-2.jpg",
+          "width": 1024,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2022/08/23/oppo-ai-technology-creating-animated-digital-avatar/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/08/23/oppo-ai-technology-creating-animated-digital-avatar/?amp=1",
+      "publishedDateTime": "2022-08-23T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-machine-learning-algorithm-predicts-how-to-get-the-most-out-of-electric-vehicle-batteries.md",
+      "title": "Machine learning algorithm predicts how to get the most out of electric vehicle batteries",
+      "excerpt": "Researchers have developed a machine learning algorithm that could help reduce charging times and prolong battery life in electric vehicles by predicting how different driving patterns affect battery performance,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-08-machine-algorithm-electric-vehicle-batteries.html",
+      "originalUrl": "https://techxplore.com/news/2022-08-machine-algorithm-electric-vehicle-batteries.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/electric-car.jpg",
+          "width": 1920,
+          "height": 1275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-08-machine-algorithm-electric-vehicle-batteries.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-machine-algorithm-electric-vehicle-batteries.amp",
+      "publishedDateTime": "2022-08-23T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-how-is-machine-learning-affecting-advertising-and-marketing.md",
+      "title": "How is Machine Learning Affecting Advertising and Marketing?",
+      "excerpt": "Machine learning is transforming the dynamics of the advertising and marketing industry by segmenting and targeting specific audiences with relevant messages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbntimes.com/technology/how-is-machine-learning-affecting-advertising-and-marketing",
+      "originalUrl": "https://www.bbntimes.com/technology/how-is-machine-learning-affecting-advertising-and-marketing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bbntimes.com/images/articles/global-economy/How_is_Machine_Learning_Affecting_Advertising_and_Marketing_.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bbntimes",
+        "domain": "bbntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-untether-ai-unveils-its-second-generation-at-memory-compute-architecture-at-hot-chips-2022.md",
+      "title": "Untether AI Unveils Its Second-Generation At-Memory Compute Architecture at HOT CHIPS 2022",
+      "excerpt": "Untether AITM, the leader in at-memory computation for artificial intelligence (AI) workloads, today announced at the HOT CHIPS 2022 conference its next-generation architecture for accelerating AI inference workloads called speedAI devices,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-palo-alto-climate-and-environment-5798dcbf47da4517b54a0db9143c109c",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-palo-alto-climate-and-environment-5798dcbf47da4517b54a0db9143c109c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-florida-holds-primary-elections-that-will-decide-who-will-face-off-against-superstar-gop-gov-ron-desantis-in-november.md",
+      "title": "Florida holds primary elections that will decide who will face off against superstar GOP Gov. Ron DeSantis in November",
+      "excerpt": "The Democratic nomination for US Senate is expected to go to Rep. Val Demings, a former Orlando police chief who'd face off against GOP Sen. Marco Rubio.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/florida-primaries-for-senate-and-governors-race-results-2022-8",
+      "originalUrl": "https://www.businessinsider.com/florida-primaries-for-senate-and-governors-race-results-2022-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6303e6c2c9a2da00180920c2?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/florida-primaries-for-senate-and-governors-race-results-2022-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/florida-primaries-for-senate-and-governors-race-results-2022-8?amp",
+      "publishedDateTime": "2022-08-23T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-23-capitol-records-blasted-for-promoting-ai-rapper-fn-meka-using-n-word.md",
       "title": "Capitol Records blasted for promoting AI rapper FN Meka using n word",
       "excerpt": "Capitol Records blasted for promoting an AI rapper named FN Meka that was created by a white man and uses the n word",
@@ -624,6 +858,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-23-language-translation-device-market-to-hit-usd-25-bn-by-2030-says-global-market-insights-inc.md",
+      "title": "Language Translation Device Market to hit USD 2.5 Bn by 2030, Says Global Market Insights Inc.",
+      "excerpt": "Major language translation device market participants include Sourcenext Inc., Jarvisen (iFLYTEK), Cheetah Mobile, Inc., Vasco Electronics LLC, Waverly Labs Inc., and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/08/n28596363/language-translation-device-market-to-hit-usd-2-5-bn-by-2030-says-global-market-insights-inc",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/08/n28596363/language-translation-device-market-to-hit-usd-2-5-bn-by-2030-says-global-market-insights-inc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1883515/Language_Translation_Device_Market.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28596363",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28596363",
+      "publishedDateTime": "2022-08-23T03:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-23-ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round.md",
       "title": "AI Startup Anyscale Adds $99 Million to Andressen Horowitz-Led Funding Round",
       "excerpt": "The company initially announced a $100 million Series C venture investment round led by Andressen Horowitz in December.",
@@ -723,49 +1000,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-language-translation-device-market-to-hit-usd-25-bn-by-2030-says-global-market-insights-inc.md",
-      "title": "Language Translation Device Market to hit USD 2.5 Bn by 2030, Says Global Market Insights Inc.",
-      "excerpt": "The language translation device market is expected to reach a valuation of USD 2.5 billion by 2030, as reported in a research study by",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/language-translation-device-market-to-hit-usd-2-5-bn-by-2030-says-global-market-insights-inc--875237142.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/language-translation-device-market-to-hit-usd-2-5-bn-by-2030-says-global-market-insights-inc--875237142.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1883515/Language_Translation_Device_Market.jpg?p=facebook",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
@@ -948,238 +1182,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-robots-could-help-reduce-chemical-use-in-farming.md",
-      "title": "Robots could help reduce chemical use in farming",
-      "excerpt": "A robotics manufacturer is looking at the possibility of developing machines that will remove weeds and tend farmland without the need for so many chemicals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wcpo.com/news/national/robots-could-help-reduce-chemical-use-in-farming",
-      "originalUrl": "https://www.wcpo.com/news/national/robots-could-help-reduce-chemical-use-in-farming",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/cb84d0e/2147483647/strip/true/crop/3666x2062+61+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F07%2F00%2Fe618017b4f60acd3ac6f7b3020e4%2Fscreen-shot-2022-08-22-at-10.50.57%20PM.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wcpo.com/news/national/robots-could-help-reduce-chemical-use-in-farming?_amp=true",
-      "cdnAmpWebUrl": "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/robots-could-help-reduce-chemical-use-in-farming?_amp=true",
-      "publishedDateTime": "2022-08-22T18:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WCPO Cincinnati",
-        "domain": "wcpo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-bci-brain-controlled-robot-market-report-in-depth-market-analysis-and-forecast-2022-to-2028-of-market-insights.md",
-      "title": "BCI Brain-controlled Robot Market Report, In-Depth Market Analysis and FORECAST 2022 To 2028 of market insights.",
-      "excerpt": "In this research report, \"2022 to 2028,\" the current situation and potential future developments of the \"BCI Brain-controlled Robot Market\" are presented. The research offers a thorough ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/bci-brain-controlled-robot-market-report-in-depth-market-analysis-and-forecast-2022-to-2028-of-market-insights-2022-08-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/bci-brain-controlled-robot-market-report-in-depth-market-analysis-and-forecast-2022-to-2028-of-market-insights-2022-08-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-how-to-use-artificial-intelligence-to-predict-cryptocurrency-price-trends.md",
-      "title": "How To Use Artificial Intelligence To Predict Cryptocurrency Price Trends",
-      "excerpt": "Artificial intelligence (AI) has become an essential tool for cryptocurrency traders looking to remain one step ahead of their competition. By integrating various data sources and advanced ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2022/08/how-to-use-artificial-intelligence-to-predict-cryptocurrency-price-trends.html",
-      "originalUrl": "https://www.androidheadlines.com/2022/08/how-to-use-artificial-intelligence-to-predict-cryptocurrency-price-trends.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "androidheadlines.com",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-ai-detects-parkinsons-disease-by-tracking-your-breathing-patterns.md",
-      "title": "AI detects Parkinson’s disease by tracking your breathing patterns",
-      "excerpt": "A compelling new study indicates Parkinson’s disease (PD) could be diagnosed by remotely tracking a person’s breathing patterns. Led by researchers from MIT, the study presents an AI system that uses radio waves to monitor breathing while a person sleeps.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/health-wellbeing/ai-parkinsons-disease-sleep-breathing-patterns-mit",
-      "originalUrl": "https://newatlas.com/health-wellbeing/ai-parkinsons-disease-sleep-breathing-patterns-mit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/1f864fd/2147483647/strip/true/crop/800x420+0+90/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F61%2F90%2F1e3d4dc9497c909b9aeb6bf860f0%2Fparkinson-ai-breath-detector-mit-00-0.jpg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-22T16:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-nexla-to-provide-pre-packaged-ready-to-use-datasets-with-latest-acquisition.md",
-      "title": "Nexla to provide pre-packaged ready-to-use datasets with latest acquisition",
-      "excerpt": "California-based Nexla has announced the acquisition of Fidap to provide enterprises with pre-packaged, ready-to-use datasets.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/nexla-to-provide-pre-packaged-ready-to-use-datasets-with-latest-acquisition/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/nexla-to-provide-pre-packaged-ready-to-use-datasets-with-latest-acquisition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1330516352.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 611,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/data-infrastructure/nexla-to-provide-pre-packaged-ready-to-use-datasets-with-latest-acquisition/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/nexla-to-provide-pre-packaged-ready-to-use-datasets-with-latest-acquisition/amp/",
-      "publishedDateTime": "2022-08-22T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

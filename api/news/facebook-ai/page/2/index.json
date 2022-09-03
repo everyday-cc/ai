@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-08-06-gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak.md",
-      "title": "Gartner research: 2 types of emerging AI near hype cycle peak",
-      "excerpt": "According to new Gartner research, emotion and generative AI are both reaching the peak of the digital advertising hype cycle.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/",
-      "originalUrl": "https://venturebeat.com/ai/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1346722826.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/amp/",
-      "publishedDateTime": "2022-08-05T16:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-05-facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot.md",
       "title": "Facebook Parent Meta Wants You to Converse With Its New AI-Powered Chatbot",
       "excerpt": "Sitting in front of a computer screen, I'm typing messages to a new chatbot created by Facebook's parent company Meta. We talk about pizza, politics and even social media. \"What do you think about Facebook?",
@@ -1463,6 +1411,49 @@
         "Facebook AI",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-meta-claims-breakthrough-in-superpower-ai-translation-as-it-interprets-more-than-200-languages.md",
+      "title": "Meta claims breakthrough in 'superpower' AI translation as it interprets more than 200 languages",
+      "excerpt": "A new paper from artificial intelligence researchers at Facebook's parent company Meta ... this model and retrain it on their own, fostering research in that area.\" \"So yeah, I think it is a ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.sky.com/story/meta-claims-breakthrough-in-superpower-ai-translation-as-it-interprets-more-than-200-languages-12646868",
+      "originalUrl": "https://news.sky.com/story/meta-claims-breakthrough-in-superpower-ai-translation-as-it-interprets-more-than-200-languages-12646868",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://e3.365dm.com/20/02/1600x900/skynews-zuckerberg-facebook_4912565.jpg?20200206020224",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.sky.com/story/amp/meta-claims-breakthrough-in-superpower-ai-translation-as-it-interprets-more-than-200-languages-12646868",
+      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/meta-claims-breakthrough-in-superpower-ai-translation-as-it-interprets-more-than-200-languages-12646868",
+      "publishedDateTime": "2022-07-06T19:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sky",
+        "domain": "sky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     }
   ],

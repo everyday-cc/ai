@@ -2,6 +2,60 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-19-how-ml-powered-video-surveillance-could-improve-security.md",
+      "title": "How ML-powered video surveillance could improve security",
+      "excerpt": "This can include count-based alerts when the number of people in a certain area exceeds a set limit, alerts triggered by object identification or, where applicable, face recognition. Video content ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/18/how-ml-powered-video-surveillance-could-improve-security/",
+      "originalUrl": "https://venturebeat.com/2022/06/18/how-ml-powered-video-surveillance-could-improve-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1311084163-e1652290730534.jpg?fit=800%2C534&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/18/how-ml-powered-video-surveillance-could-improve-security/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/18/how-ml-powered-video-surveillance-could-improve-security/amp/",
+      "publishedDateTime": "2022-06-18T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-06-17-2023-genesis-gv60-not-just-another-face-in-the-crowd.md",
       "title": "2023 Genesis GV60: Not Just Another Face in the Crowd",
       "excerpt": "Built on a platform shared by other Hyundai Motor Group EVs, this premium all-electric crossover has a highly distinctive look—and innovative tech (including fingerprint and facial recognition) to tem",
@@ -1240,50 +1294,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-a-new-optical-brain-like-chip-can-process-2-billion-images-per-second.md",
-      "title": "A new optical brain-like chip can process 2 billion images per second",
-      "excerpt": "Researchers at the Penn School of Engineering and Applied Science have created a new optical brain-like chip that processes 2 billion images a second.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/optical-chip-2-billion-images-per-second",
-      "originalUrl": "https://interestingengineering.com/optical-chip-2-billion-images-per-second",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/lV6DaWMDwx/sizes/new-penn-chip_resize_md.jpg",
-          "width": 744,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/optical-chip-2-billion-images-per-second",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/optical-chip-2-billion-images-per-second",
-      "publishedDateTime": "2022-06-08T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

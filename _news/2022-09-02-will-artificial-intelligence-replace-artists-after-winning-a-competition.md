@@ -79,6 +79,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "An AI-generated picture won an art prize. Artists aren’t happy."
+    excerpt: "But one entrant, Jason M. Allen of Pueblo West, Colorado, didn’t make his entry with a brush or a lump of clay. He created it with Midjourney, an artificial intelligence program that turns lines of text into hyper-realistic graphics."
+    publishedDateTime: 2022-09-03T08:54:00Z
+    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/an-ai-generated-picture-won-an-art-prize-artists-arent-happy-8128626/"
+    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/an-ai-generated-picture-won-an-art-prize-artists-arent-happy-8128626/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/an-ai-generated-picture-won-an-art-prize-artists-arent-happy-8128626/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.indianexpress.com/2022/09/Untitled-design-2022-09-03T141912.927.jpg"
+        width: 1200
+        height: 667
+        isCached: true
   - title: "This AI-generated artwork just won first place in a state competition"
     excerpt: "Colorado man Jason Allen has used AI software Midjourney to create Theatre D'opera Spatial, an art piece that won first place at the Colorado State Fair."
     publishedDateTime: 2022-09-02T10:34:00Z

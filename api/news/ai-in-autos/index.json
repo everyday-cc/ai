@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-03-why-do-we-keep-repeating-the-same-mistakes-on-ai.md",
+      "title": "Why Do We Keep Repeating The Same Mistakes On AI?",
+      "excerpt": "Artificial intelligence has been on the horizon for over seventy years. Why does it seem so close but also so unattainable? Are we repeating the same mistakes over and over?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/09/03/why-do-we-keep-repeating-the-same-mistakes-on-ai/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/09/03/why-do-we-keep-repeating-the-same-mistakes-on-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6312667f63bf3c4af5475054/0x0.jpg?format=jpg&crop=2531,1423,x158,y207,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/09/03/why-do-we-keep-repeating-the-same-mistakes-on-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/09/03/why-do-we-keep-repeating-the-same-mistakes-on-ai/amp/",
+      "publishedDateTime": "2022-09-03T01:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-09-03-self-driving-tech-company-floats-possible-sale-to-apple-or-microsoft.md",
       "title": "Self-driving tech company floats possible sale to Apple or Microsoft",
       "excerpt": "Aurora Innovation Inc.'s chief executive officer recently laid out a range of options for the self-driving company to respond to worsening market conditions and partners pushing out timelines, including a possible sale to Apple or Microsoft,",
@@ -217,6 +270,58 @@
         "name": "AOL",
         "domain": "aol.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-baidu-claims-its-robotaxis-have-grabbed-10-of-the-ride-hailing-market-in-a-suburb-of-beijing.md",
+      "title": "Baidu claims its robotaxis have grabbed 10% of the ride-hailing market in a suburb of Beijing",
+      "excerpt": "Chinese tech giant Baidu said its robotaxis have grabbed about 10% of the ride-hailing market in a suburb of Beijing city. Baidu began offering free robotaxi rides in the suburban region in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/08/31/baidu-claims-its-robotaxis-have-grabbed-10percent-of-a-ride-hailing-market.html",
+      "originalUrl": "https://www.cnbc.com/2022/08/31/baidu-claims-its-robotaxis-have-grabbed-10percent-of-a-ride-hailing-market.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107111680-1661904834859-gettyimages-1355764512-vcg111359334633.jpeg?v=1661907038",
+          "width": 3988,
+          "height": 2652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/08/31/baidu-claims-its-robotaxis-have-grabbed-10percent-of-a-ride-hailing-market.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/08/31/baidu-claims-its-robotaxis-have-grabbed-10percent-of-a-ride-hailing-market.html",
+      "publishedDateTime": "2022-08-30T22:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -499,7 +604,7 @@
       "originalUrl": "https://www.usnews.com/news/technology/articles/2022-08-30/baidu-beats-quarterly-revenue-estimates",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -534,21 +639,21 @@
       ]
     },
     {
-      "path": "_news/2022-08-30-medical-moment-artificial-intelligence-without-internet.md",
-      "title": "Medical Moment: Artificial intelligence without internet",
-      "excerpt": "Researchers at the University of Central Florida are developing devices that won’t rely on internet connections to work in remote areas.",
+      "path": "_news/2022-08-30-elon-musk-aims-to-have-self-driving-teslas-ready-by-year-end-in-the-us.md",
+      "title": "Elon Musk: aims to have self-driving Teslas ready by year-end in the U.S",
+      "excerpt": "Tesla founder Elon Musk said on Monday he aimed to get self-driving Teslas ready by year-end and hopes they could be in wide release in the United States and possibly in Europe, depending on regulatory approval.",
       "sourceUrl": null,
-      "webUrl": "https://www.wndu.com/2022/08/29/medical-moment-artificial-intelligence-without-internet/",
-      "originalUrl": "https://www.wndu.com/2022/08/29/medical-moment-artificial-intelligence-without-internet/",
+      "webUrl": "https://business-reporter.co.uk/technology/elon-musk-aims-to-have-self-driving-teslas-ready-by-year-end-in-the-us-7072",
+      "originalUrl": "https://business-reporter.co.uk/technology/elon-musk-aims-to-have-self-driving-teslas-ready-by-year-end-in-the-us-7072",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 93,
       "tags": null,
       "images": [
         {
-          "url": "https://gray-wndu-prod.cdn.arcpublishing.com/resizer/Zjrp52IWw1kfNqZiri7HqgaeAvY=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/T5PZWRAKHRDDNBCFVXCYT3H66Q.jpg",
-          "width": 800,
-          "height": 450,
+          "url": "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/018/2022-08-29T114020Z_2_LYNXMPEI7S0AM_RTROPTP_4_NORWAY-ENERGY.JPG",
+          "width": 1200,
+          "height": 799,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -556,13 +661,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wndu.com/2022/08/29/medical-moment-artificial-intelligence-without-internet/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wndu-com.cdn.ampproject.org/c/s/www.wndu.com/2022/08/29/medical-moment-artificial-intelligence-without-internet/?outputType=amp",
-      "publishedDateTime": "2022-08-29T14:58:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T00:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WNDU",
-        "domain": "wndu.com",
+        "name": "business-reporter.co.uk",
+        "domain": "business-reporter.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -572,10 +677,8 @@
         "news"
       ],
       "topics": [
-        "AI",
         "AI in Autos",
-        "Facebook AI",
-        "AI in Robotics"
+        "AI"
       ]
     },
     {
@@ -587,7 +690,7 @@
       "originalUrl": "https://www.cnbc.com/2022/08/29/panera-bread-tests-artificial-intelligence-technology-in-drive-thru-lanes.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -1324,101 +1427,6 @@
       "provider": {
         "name": "Tech Zone 360",
         "domain": "techzone360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-tesla-full-self-driving-debate-escalates-with-legal-threats-banned-videos.md",
-      "title": "Tesla ‘full self-driving’ debate escalates with legal threats, banned videos",
-      "excerpt": "Tesla fans rushed to defend the automaker after a prominent critic released a video showing one of the company's cars with the feature it calls \"full self-driving\" plowing into child-size mannequins.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/08/25/business/tesla-dan-odowd-videos/index.html",
-      "originalUrl": "https://www.cnn.com/2022/08/25/business/tesla-dan-odowd-videos/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220825123609-03-tesla-autopilot-file-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/08/25/business/tesla-dan-odowd-videos/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/25/business/tesla-dan-odowd-videos/index.html",
-      "publishedDateTime": "2022-08-25T13:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-warren-buffett-backs-driverless-trucks-now-theyre-real.md",
-      "title": "Warren Buffett Backs Driverless Trucks. Now They’re Real.",
-      "excerpt": "A cardboard cut out in the likeness of Warren Buffett, chairman and chief executive officer of Berkshire Hathaway Inc., sits in the driver’s seat of a truck on display during the Berkshire ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/energy/warren-buffett-backs-driverless-trucks-now-theyre-real/2022/08/25/62e25994-2469-11ed-a72f-1e7149072fbc_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/energy/warren-buffett-backs-driverless-trucks-now-theyre-real/2022/08/25/62e25994-2469-11ed-a72f-1e7149072fbc_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MIXRGURENEI63JZPDZYUSBZPXQ.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-25T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
         "images": null,
         "publishers": null,
         "authors": null

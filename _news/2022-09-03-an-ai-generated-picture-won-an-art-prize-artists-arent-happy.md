@@ -1,0 +1,111 @@
+---
+category: news
+title: "An AI-generated picture won an art prize. Artists aren’t happy."
+excerpt: "But one entrant, Jason M. Allen of Pueblo West, Colorado, didn’t make his entry with a brush or a lump of clay. He created it with Midjourney, an artificial intelligence program that turns lines of text into hyper-realistic graphics."
+publishedDateTime: 2022-09-03T08:54:00Z
+originalUrl: "https://indianexpress.com/article/technology/tech-news-technology/an-ai-generated-picture-won-an-art-prize-artists-arent-happy-8128626/"
+webUrl: "https://indianexpress.com/article/technology/tech-news-technology/an-ai-generated-picture-won-an-art-prize-artists-arent-happy-8128626/"
+ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/an-ai-generated-picture-won-an-art-prize-artists-arent-happy-8128626/lite/"
+cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/an-ai-generated-picture-won-an-art-prize-artists-arent-happy-8128626/lite/"
+type: article
+quality: 59
+heat: -1
+published: false
+
+provider:
+  name: The Indian Express
+  domain: indianexpress.com
+
+topics:
+  - AI Ethics
+  - AI
+
+images:
+  - url: "https://images.indianexpress.com/2022/09/Untitled-design-2022-09-03T141912.927.jpg"
+    width: 1200
+    height: 667
+    isCached: true
+
+related:
+  - title: "Man Boasts About Winning Art Competition Using AI-Created Image"
+    excerpt: "Jason Allen's winning entry for the Colorado State Fair fine arts competition relied on an AI-powered program called Midjourney, which can generate images from a line of text."
+    publishedDateTime: 2022-08-31T18:13:00Z
+    webUrl: "https://www.pcmag.com/news/man-boasts-about-winning-art-competition-using-ai-created-image"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/07LHXzoytNISjOYTSehqJ5N-1.fit_lim.size_1200x630.v1661964398.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "The Winner of a Colorado Art Competition Used AI"
+    excerpt: "Many of us have had our fun with AI art generators— like DALL-E —over the last few months, but one artist in Colorado took it a step further and won the state fair’s fine art competition with a work generated with the help of an algorithm."
+    publishedDateTime: 2022-09-01T15:45:00Z
+    webUrl: "https://gizmodo.com/ai-art-midjourney-1849484280"
+    ampWebUrl: "https://gizmodo.com/ai-art-midjourney-1849484280/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ai-art-midjourney-1849484280/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 67
+  - title: "An AI-generated artwork won a state competition, and people don’t know what to think"
+    excerpt: "Jason Allen entered the artwork titled “Theatre d’Opera Spatial” in the “ Digital Arts / Digitally-Manipulated Photography ” category of the Colorado State Fair fine arts competition but created the piece using a popular text-to-image AI generator named Midjourney."
+    publishedDateTime: 2022-09-01T16:23:00Z
+    webUrl: "https://www.theverge.com/2022/9/1/23332684/ai-generated-artwork-wins-state-fair-competition-colorado"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 60
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/PXIITnGyOi4R_r8kCgV7y9yfhBI=/0x79:4032x2190/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23988389/20220825_174538.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "A fascination with breathing life into AI creations can mislead us"
+    excerpt: "AI legend Douglas Hofstadter debunked Lemoine’s pronouncement by asking LaMDA and similar models nonsense questions like, “How many pieces of sound are there in a typical cumulonimbus cloud?\" and “What do fried eggs (sunny side up) eat for breakfast?"
+    publishedDateTime: 2022-09-01T16:47:00Z
+    webUrl: "https://www.livemint.com/opinion/columns/a-fascination-with-breathing-life-into-ai-creations-can-mislead-us-11662050548176.html"
+    ampWebUrl: "https://www.livemint.com/opinion/columns/a-fascination-with-breathing-life-into-ai-creations-can-mislead-us/amp-11662050548176.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/a-fascination-with-breathing-life-into-ai-creations-can-mislead-us/amp-11662050548176.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2022/09/01/600x338/AI_1662050666776_1662050666924_1662050666924.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Will artificial intelligence replace artists after winning a competition?"
+    excerpt: "Allen told the Pueblo Chieftain in an interview, \"I wanted to make a statement with artificial intelligence art. I think I did that, and I'm not going to feel bad about it.\" Allen sent in three pieces he made with Midjourney after trying out different phrases,"
+    publishedDateTime: 2022-09-02T14:46:00Z
+    webUrl: "https://www.artmajeur.com/en/magazine/2-art-news/will-artificial-intelligence-replace-artists-after-winning-a-competition/332026"
+    type: article
+    provider:
+      name: Artmajeur
+      domain: artmajeur.com
+    quality: 36
+    images:
+      - url: "https://www.artmajeur.com/medias/hd/s/e/selena-mattei/blog/302768718-471040697999512-6820767108283761749-n.jpg"
+        width: 1000
+        height: 623
+        isCached: true
+  - title: "This AI-generated artwork just won first place in a state competition"
+    excerpt: "Colorado man Jason Allen has used AI software Midjourney to create Theatre D'opera Spatial, an art piece that won first place at the Colorado State Fair."
+    publishedDateTime: 2022-09-02T10:34:00Z
+    webUrl: "https://www.tweaktown.com/news/88265/this-ai-generated-artwork-just-won-first-place-in-state-competition/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
+
+secured: "lVRWka65ojcYyrL1nlwT66Nensw+r6k/BFZW3Jld5rMSaw0rTZzlOJDVs/Yi6K2UpLdEgosT7zf3X0qIKe+2YYan5JuevcBLU/2kCMYiTDHXlK9s48du3Gdd2rhusIkPuCm72f+cCue0zTYSDx9ketZd32uxmoE/F2Zogq22fx5hx5bfX227ApfjqYkjLwbx1Lwr8GL9fRGxfhBbMekBVL2kTrTztCzynAggR9WhFZ360ACZOmBsnOGP7MoKx+LRl+rFzaXrwUnxoBKkdwe4+in/W3RwlIFKfyb2Dtg17q6tEcttvjMduXzrS66Q6GoKm6A6FI/9kyCRCeBXsF5qh8/h66/e7on4Yuth8bcl2rU=;tnb7ngJl4MBlktKP9tCLlw=="
+---
+

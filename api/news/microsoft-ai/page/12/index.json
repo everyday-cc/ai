@@ -2,6 +2,41 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-05-31-henson-group-and-ingram-micro-cloud-align-to-deliver-100m-in-azure-sales.md",
+      "title": "Henson Group and Ingram Micro Cloud Align to Deliver $100M+ in Azure Sales",
+      "excerpt": "The Henson Group, an elite Azure Expert MSP, and Ingram Micro Cloud, operator of one of the world's largest cloud marketplaces for the channel, have announced a multi-year agreement to",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailyrecordnews.com/news/state/henson-group-and-ingram-micro-cloud-align-to-deliver-100m-in-azure-sales/article_145290cc-f151-55ea-a25b-b55db039796d.html",
+      "originalUrl": "https://www.dailyrecordnews.com/news/state/henson-group-and-ingram-micro-cloud-align-to-deliver-100m-in-azure-sales/article_145290cc-f151-55ea-a25b-b55db039796d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-31T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ellensburg Daily Record",
+        "domain": "dailyrecordnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-05-31-signal-detection-theory-may-serve-as-a-novel-tool-to-understand-cognitive-fatigue-in-ms-patients.md",
       "title": "Signal detection theory may serve as a novel tool to understand cognitive fatigue in MS patients",
       "excerpt": "These findings were reported in Frontiers in Behavioral Neuroscience on March 16, 2022, in the open access article \"Signal Detection Theory as a Novel Tool to Understand Cognitive Fatigue in ...",
@@ -1275,58 +1310,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-cognitive-analytics-market-share-size-global-growth-analysis-trends-industry-analysis-key-players-and-valueopportunity-forecast-to-2028.md",
-      "title": "Cognitive Analytics Market Share, Size Global Growth Analysis, Trends, Industry Analysis, Key Players and Value,Opportunity Forecast to 2028",
-      "excerpt": "May 24, 2022 (The Expresswire) -- Global Cognitive Analytics Market Research Report is an In-Depth Analysis of the Latest Developments, Market Size, Status, upcoming technologies, industry drivers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-share-size-global-growth-analysis-trends-industry-analysis-key-players-and-valueopportunity-forecast-to-2028-2022-05-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-share-size-global-growth-analysis-trends-industry-analysis-key-players-and-valueopportunity-forecast-to-2028-2022-05-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

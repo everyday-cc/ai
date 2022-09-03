@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Bridgestone and AWS Announce Strategic Relationship Focused on Platform Development and Launch of New Customer Solutions"
-    excerpt: "Bridgestone will utilize AWS capabilities to accelerate its digital platform development and launch new customer solutions such as a services"
-    publishedDateTime: 2022-08-29T15:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/bridgestone-and-aws-announce-strategic-relationship-focused-on-platform-development-and-launch-of-new-customer-solutions-1031711248"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 44
-    images:
-      - url: "https://mma.prnewswire.com/media/1886227/AWS_logo_RGB_Logo.jpg"
-        width: 400
-        height: 239
-        isCached: true
   - title: "Bridgestone to launch last-mile marketplace with AWS"
     excerpt: "Bridgestone Corp. ( OCTUS: BRDCY ), known as the world’s largest producer of tires, has announced it will be using Amazon Web Services to build a marketplace for last-mile services and fleet solutions."
     publishedDateTime: 2022-08-30T13:47:00Z

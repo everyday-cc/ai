@@ -38,6 +38,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 69
+  - title: "Baidu Stock Is Tumbling. An Earnings Beat Can’t Offset Falling Revenue."
+    excerpt: "Baidu is the latest Chinese tech giant to show that a slowdown this year in the world’s second-largest economy is causing financial pain. Despite notching double-digit growth in its key ..."
+    publishedDateTime: 2022-08-30T10:22:00Z
+    webUrl: "https://www.barrons.com/articles/baidu-stock-earnings-revenue-51661851921"
+    ampWebUrl: "https://www.barrons.com/amp/articles/baidu-stock-earnings-revenue-51661851921"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/baidu-stock-earnings-revenue-51661851921"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://images.barrons.com/im-384397/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Baidu beats quarterly revenue estimates"
     excerpt: "China's search engine giant Baidu Inc beat quarterly revenue estimates on Tuesday, driven by a recovery in advertising sales and higher demand for its cloud products. Total revenue stood at 29.65 ..."
     publishedDateTime: 2022-08-30T09:05:00Z

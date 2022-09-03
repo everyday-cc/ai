@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2022/08/29/panera-bread-tests-artificial-in
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/08/29/panera-bread-tests-artificial-intelligence-technology-in-drive-thru-lanes.html"
 type: article
 quality: 88
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://d.ibtimes.com/en/full/3395558/panera-bread-baguette-diamand-rings.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Panera tests drive-thru AI"
-    excerpt: "The chain is working with OpenCity to deploy AI technology to two cafes in upstate New York, aiming to improve speed of service, order accuracy and personalization."
-    publishedDateTime: 2022-08-29T15:57:00Z
-    webUrl: "https://www.restaurantdive.com/news/panera-tests-drive-thru-ai-technology/630678/"
-    type: article
-    provider:
-      name: restaurantdive
-      domain: restaurantdive.com
-    quality: 37
-    images:
-      - url: "https://www.restaurantdive.com/imgproxy/R-5zHHNlyhWf7Wpieu8sHHPgWpXJKd3tBvULO0RA3nw/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL1BhbmVyYV9OZXh0R2VuX0V4dGVyaW9yX0Zyb250X2lKYTlaMVIuanBn.jpg"
-        width: 770
-        height: 364
         isCached: true
 
 secured: "w4J+lIrQbjydTdW4IND9pb11yBqzHwCkm1TdbNL5FGegMrQZHScGlGds3oksKV5j6EOo4S6c1K5zz9Mpik6zPgZoHv7kBhnv2JRFsCWm1DpNXT8fObIvxuXK36j+w8ibGrjuJ33YrGXrOXoMD6ou0JvVT20rF6e20s8VRpsUFlTR6PEDvlchgC2WRRg5h4Y+Re5aIzAPQu6Jr7VzO0kV3C8coeirmw8kp/htWhU3lL3RoZvPm0UeMQ/Kg1qBTodPFykQQfBn8/m3GNOhkYqpVLcwOufl4xXLX+B02IT/x2fJgaG4BN0PhXEyJvaaxd/7gJudr6U42kHuRU7XVaxEAKM/eY3x23jcW3alYh23TrE=;kOuK8pRsBw9p8KAIWq3gVQ=="

@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Microsoft applying cloud security principles to Open RAN networks"
-    excerpt: "As 5G become smore cloudified, Microsoft is leveraging its cloud expertise to bring a zero-trust approach to Open RAN and other networks."
-    publishedDateTime: 2022-08-29T15:23:00Z
-    webUrl: "https://www.rcrwireless.com/20220829/telco-cloud/microsoft-applying-cloud-security-principles-to-open-ran-networks"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 56
-    images:
-      - url: "https://www.rcrwireless.com/wp-content/uploads/2016/11/microsoft-big-logo-altered.jpg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "Microsoft releases virtual machines on Azure"
     excerpt: "Uses its Arm-based Ampere Altra Microsoft announced the general availability of virtual machines (VMs) on Azure featuring the Ampere Altra, a processor based on the Arm architecture.  Vole said that the fhe first Azure VMs powered by Arm chips are accessible in 10 Azure regions today and"
     publishedDateTime: 2022-08-30T10:03:00Z

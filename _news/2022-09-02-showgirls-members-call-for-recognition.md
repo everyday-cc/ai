@@ -20,20 +20,20 @@ topics:
 
 related:
   - title: "Chinook Indian Nation members rally for federal recognition"
-    excerpt: "Members of the Chinook Indian Nation rallied on Monday on the steps of a federal building in Seattle to raise awareness for their long fight to get federal recognition. Chairman Tony Johnson, whose tribal name is Naschio,"
-    publishedDateTime: 2022-08-30T19:34:00Z
-    webUrl: "https://www.opb.org/article/2022/08/30/chinook-indian-nation-seattle-rally-federal-recognition/"
-    ampWebUrl: "https://www.opb.org/article/2022/08/30/chinook-indian-nation-seattle-rally-federal-recognition/?outputType=amp"
-    cdnAmpWebUrl: "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2022/08/30/chinook-indian-nation-seattle-rally-federal-recognition/?outputType=amp"
+    excerpt: "Federal recognition would mean access to federal dollars for healthcare and housing for this group of tribes, which are based in Southwestern Washington."
+    publishedDateTime: 2022-08-30T22:10:00Z
+    webUrl: "https://www.mlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html"
+    ampWebUrl: "https://www.mlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html?outputType=amp"
     type: article
     provider:
-      name: OPB
-      domain: opb.org
+      name: MLive
+      domain: mlive.com
     quality: 44
     images:
-      - url: "https://opb-opb-prod.cdn.arcpublishing.com/resizer/Tfk6CMS5hlh0EbY1JDUCHSliVng=/767x0/smart/cloudfront-us-east-1.images.arcpublishing.com/opb/3FLA3PFBOJGJHLNEI4OVMJEFZM.jpg"
-        width: 767
-        height: 472
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LMMPTFFNCBH4FLHLG5BPF5DKTI.JPG"
+        width: 5184
+        height: 3456
         isCached: true
   - title: "Chinook Indian Nation members rally for federal recognition"
     excerpt: "Members of the Chinook Indian Nation rallied Monday on the steps of a federal building in Seattle to raise awareness for their long fight to get federal recognition."

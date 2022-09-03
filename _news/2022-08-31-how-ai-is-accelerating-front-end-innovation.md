@@ -34,22 +34,6 @@ related:
         width: 956
         height: 561
         isCached: true
-  - title: "Chemical-free re-staining of tissue using deep learning"
-    excerpt: "This makes acquiring paired images of different stain types very challenging, which is an essential part of deep learning-based image translation methods. To alleviate this problem, the UCLA team ..."
-    publishedDateTime: 2022-08-29T16:24:00Z
-    webUrl: "https://phys.org/news/2022-08-chemical-free-re-staining-tissue-deep.html"
-    ampWebUrl: "https://phys.org/news/2022-08-chemical-free-re-staining-tissue-deep.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-chemical-free-re-staining-tissue-deep.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/chemical-free-re-stain.jpg"
-        width: 2500
-        height: 992
-        isCached: true
   - title: "As the Machine Learns—Continuing AI IP and Privacy Considerations"
     excerpt: "AI frequently automates routine tasks that were previously performed by people, eliminating tedious work, making business processes more efficient, and creating new capabilities and opportunities. Every business in the future will be using AI to some extent."
     publishedDateTime: 2022-08-30T14:51:00Z

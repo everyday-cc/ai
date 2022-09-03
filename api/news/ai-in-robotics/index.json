@@ -212,7 +212,7 @@
       "originalUrl": "https://www.sixthtone.com/news/1011147/a-chinese-ai-powered-robot-aims-to-tackle-complex-surgeries?source=channel_home",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -429,21 +429,21 @@
       ]
     },
     {
-      "path": "_news/2022-08-30-medical-moment-artificial-intelligence-without-internet.md",
-      "title": "Medical Moment: Artificial intelligence without internet",
-      "excerpt": "Researchers at the University of Central Florida are developing devices that won’t rely on internet connections to work in remote areas.",
+      "path": "_news/2022-08-29-robot-sales-hit-record-high-in-north-america-for-third-straight-quarter.md",
+      "title": "Robot Sales Hit Record High in North America for Third-Straight Quarter",
+      "excerpt": "Association for Advancing Automation latest stats show the most robots sold in any quarter; automotive industry returns to historic norms, while food & consumer goods continues interest in automation to handle e-commerce logistics boom.",
       "sourceUrl": null,
-      "webUrl": "https://www.wndu.com/2022/08/29/medical-moment-artificial-intelligence-without-internet/",
-      "originalUrl": "https://www.wndu.com/2022/08/29/medical-moment-artificial-intelligence-without-internet/",
+      "webUrl": "https://www.automation.com/en-us/articles/august-2022/robot-sales-hit-record-high-north-america",
+      "originalUrl": "https://www.automation.com/en-us/articles/august-2022/robot-sales-hit-record-high-north-america",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://gray-wndu-prod.cdn.arcpublishing.com/resizer/Zjrp52IWw1kfNqZiri7HqgaeAvY=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/T5PZWRAKHRDDNBCFVXCYT3H66Q.jpg",
-          "width": 800,
-          "height": 450,
+          "url": "https://www.automation.com/getmedia/78715b12-b6e5-4559-9d38-61e4938d9b6f/Robots-news-Aug-29-2022-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -451,13 +451,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wndu.com/2022/08/29/medical-moment-artificial-intelligence-without-internet/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wndu-com.cdn.ampproject.org/c/s/www.wndu.com/2022/08/29/medical-moment-artificial-intelligence-without-internet/?outputType=amp",
-      "publishedDateTime": "2022-08-29T14:58:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T08:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WNDU",
-        "domain": "wndu.com",
+        "name": "Automation",
+        "domain": "automation.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -467,10 +467,9 @@
         "news"
       ],
       "topics": [
+        "AI in Robotics",
         "AI",
-        "AI in Autos",
-        "Facebook AI",
-        "AI in Robotics"
+        "AI in Sales"
       ]
     },
     {
@@ -660,17 +659,17 @@
       "title": "Startup develops AI that makes call center employees sound like white, American robots",
       "excerpt": "This time around, Palo Alto-based startup Sanas has introduced to the world an AI with the goal of making foreign call center employees sound accent-neutral, and the effect of making them sound white.",
       "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/ai-startup-makes-call-center-foreigners-sound-white",
-      "originalUrl": "https://mashable.com/article/ai-startup-makes-call-center-foreigners-sound-white",
+      "webUrl": "https://www.aol.com/startup-develops-ai-makes-call-192648461.html",
+      "originalUrl": "https://www.aol.com/startup-develops-ai-makes-call-192648461.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://helios-i.mashable.com/imagery/articles/06flaA2qTkuYtTU1N3cKsg0/hero-image.fill.size_1200x675.v1661618885.jpg",
+          "url": "https://s.yimg.com/ny/api/res/1.2/9Q3Nzya3jKi3ygpRe8Scjw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_mashable_370/cb35956c039b7fe15852e5ea8716b040",
           "width": 1200,
-          "height": 675,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -678,13 +677,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-27T17:48:00-07:00",
+      "ampWebUrl": "https://www.aol.com/amphtml/startup-develops-ai-makes-call-192648461.html",
+      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/startup-develops-ai-makes-call-192648461.html",
+      "publishedDateTime": "2022-08-27T12:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
+        "name": "AOL",
+        "domain": "aol.com",
         "images": null,
         "publishers": null,
         "authors": null

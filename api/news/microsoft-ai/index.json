@@ -54,7 +54,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-azure-outage-continues-for-some-services-relying-on-ubuntu-bionic-release/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -180,6 +180,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-university-of-florida-partners-with-sas-to-tackle-water-quality-challenges-with-analytics.md",
+      "title": "University of Florida partners with SAS to tackle water quality challenges with analytics",
+      "excerpt": "The project will evaluate the connections between water quality and key economic sectors in the region. As part of the yearlong project, SAS and CCS will use SAS® Viya® on Microsoft Azure to develop a web-based water analytics platform to integrate a diversity of data streams to facilitate scientific research,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/science-technology-water-quality-artificial-intelligence-university-of-florida-3b539368a328bb6eda66e6a3fe625976",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/science-technology-water-quality-artificial-intelligence-university-of-florida-3b539368a328bb6eda66e6a3fe625976",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1299,40 +1342,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-cognitive-rehab-may-help-older-adults-clear-covid-related-brain-fog.md",
-      "title": "Cognitive rehab may help older adults clear COVID-related brain fog",
-      "excerpt": "It’s a suite of interventions designed to help people recover from brain injuries, if possible, and adapt to ongoing cognitive impairment. Services are typically provided by speech and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailynewsonline.com/news/publicservicenews/cognitive-rehab-may-help-older-adults-clear-covid-related-brain-fog/article_f58172b2-2819-5695-8081-6d6aef4f3104.html",
-      "originalUrl": "https://www.thedailynewsonline.com/news/publicservicenews/cognitive-rehab-may-help-older-adults-clear-covid-related-brain-fog/article_f58172b2-2819-5695-8081-6d6aef4f3104.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T01:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily News Online",
-        "domain": "thedailynewsonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -160,51 +160,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-30-medical-moment-artificial-intelligence-without-internet.md",
-      "title": "Medical Moment: Artificial intelligence without internet",
-      "excerpt": "Researchers at the University of Central Florida are developing devices that won’t rely on internet connections to work in remote areas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wndu.com/2022/08/29/medical-moment-artificial-intelligence-without-internet/",
-      "originalUrl": "https://www.wndu.com/2022/08/29/medical-moment-artificial-intelligence-without-internet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wndu-prod.cdn.arcpublishing.com/resizer/Zjrp52IWw1kfNqZiri7HqgaeAvY=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/T5PZWRAKHRDDNBCFVXCYT3H66Q.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wndu.com/2022/08/29/medical-moment-artificial-intelligence-without-internet/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wndu-com.cdn.ampproject.org/c/s/www.wndu.com/2022/08/29/medical-moment-artificial-intelligence-without-internet/?outputType=amp",
-      "publishedDateTime": "2022-08-29T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WNDU",
-        "domain": "wndu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "Facebook AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2022-08-29-tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.md",
       "title": "TensorFlow, PyTorch, and JAX: Choosing a deep learning framework",
       "excerpt": "Three widely used frameworks are leading the way in deep learning research and production today. One is celebrated for ease of use, one for features and maturity, and one for immense scalability. Which one should you use?",
@@ -1470,6 +1425,58 @@
       "topics": [
         "Facebook AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-06-gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak.md",
+      "title": "Gartner research: 2 types of emerging AI near hype cycle peak",
+      "excerpt": "According to new Gartner research, emotion and generative AI are both reaching the peak of the digital advertising hype cycle.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/",
+      "originalUrl": "https://venturebeat.com/ai/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1346722826.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/amp/",
+      "publishedDateTime": "2022-08-05T16:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.freightwaves.com/news/bridgestone-to-launch-last-mile-
 webUrl: "https://www.freightwaves.com/news/bridgestone-to-launch-last-mile-marketplace-with-aws"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Bridgestone and AWS Announce Strategic Relationship Focused on Platform Development and Launch of New Customer Solutions"
-    excerpt: "Bridgestone will utilize AWS capabilities to accelerate its digital platform development and launch new customer solutions such as a services"
-    publishedDateTime: 2022-08-29T15:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/bridgestone-and-aws-announce-strategic-relationship-focused-on-platform-development-and-launch-of-new-customer-solutions-1031711248"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 44
-    images:
-      - url: "https://mma.prnewswire.com/media/1886227/AWS_logo_RGB_Logo.jpg"
-        width: 400
-        height: 239
-        isCached: true
   - title: "Bridgestone hopes AWS cloud system accelerates digital growth"
     excerpt: "Bridgestone Corp. has begun using Amazon Web Services as its cloud provider to accelerate the creation of digital platforms, launch new solutions for its customers, improve data analysis and streamline IT operations."
     publishedDateTime: 2022-08-31T18:47:00Z

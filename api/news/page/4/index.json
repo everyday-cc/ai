@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-30-can-a-metaverse-ai-win-americas-got-talent-and-what-that-means-for-the-industry.md",
+      "title": "Can A Metaverse AI Win America's Got Talent? (And What That Means For The Industry)",
+      "excerpt": "When “Simon Cowell” performed on the America’s Got Talent stage, no one was more shocked than the man himself. How did this happen? In their one-of-a-kind audition, leading AI company Metaphysic transformed singer Daniel Emmet into Cowell and earned a spot in the semifinals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/08/30/can-a-metaverse-ai-win-americas-got-talent-and-what-that-means-for-the-industry/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/08/30/can-a-metaverse-ai-win-americas-got-talent-and-what-that-means-for-the-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/630daea09d4909d48e04b7ea/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 926,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/08/30/can-a-metaverse-ai-win-americas-got-talent-and-what-that-means-for-the-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/08/30/can-a-metaverse-ai-win-americas-got-talent-and-what-that-means-for-the-industry/amp/",
+      "publishedDateTime": "2022-08-29T23:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-making-machine-learning-available-to-everyone-story-of-bigml.md",
+      "title": "Making Machine Learning Available to Everyone: Story of BigML",
+      "excerpt": "BigML allows you to build machine learning and deep learning models without the need for any coding. In an exclusive conversation with Analytics India Magazine, Atakan Cetinsoy, vice president, Predictive Applications at BigML, explained, “Our mission ...",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/making-machine-learning-available-to-everyone-story-of-bigml/",
+      "originalUrl": "https://analyticsindiamag.com/making-machine-learning-available-to-everyone-story-of-bigml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/export-BIGML_USERNAMEmy_name-export-BIGML_API_KEY123456789-export-BIGML_AUTHusernameBIGML_USERNAMEapi_keyBIGML_API_KEY.jpg",
+          "width": 2240,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T21:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-08-29-use-amazon-sagemaker-pipeline-sharing-to-view-or-manage-pipelines-across-aws-accounts.md",
       "title": "Use Amazon SageMaker pipeline sharing to view or manage pipelines across AWS accounts",
       "excerpt": "On August 9, 2022, we announced the general availability of cross-account sharing of Amazon SageMaker Pipelines entities. You can now use cross-account support for Amazon SageMaker Pipelines to share pipeline entities across AWS accounts and access shared pipelines directly through Amazon SageMaker API",
@@ -54,51 +149,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-30-medical-moment-artificial-intelligence-without-internet.md",
-      "title": "Medical Moment: Artificial intelligence without internet",
-      "excerpt": "Researchers at the University of Central Florida are developing devices that won’t rely on internet connections to work in remote areas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wndu.com/2022/08/29/medical-moment-artificial-intelligence-without-internet/",
-      "originalUrl": "https://www.wndu.com/2022/08/29/medical-moment-artificial-intelligence-without-internet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wndu-prod.cdn.arcpublishing.com/resizer/Zjrp52IWw1kfNqZiri7HqgaeAvY=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/T5PZWRAKHRDDNBCFVXCYT3H66Q.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wndu.com/2022/08/29/medical-moment-artificial-intelligence-without-internet/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wndu-com.cdn.ampproject.org/c/s/www.wndu.com/2022/08/29/medical-moment-artificial-intelligence-without-internet/?outputType=amp",
-      "publishedDateTime": "2022-08-29T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WNDU",
-        "domain": "wndu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "Facebook AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2022-08-30-panera-bread-tests-artificial-intelligence-technology-in-drive-thru-lanes.md",
       "title": "Panera Bread tests artificial intelligence technology in drive-thru lanes",
       "excerpt": "Two Panera Bread locations in upstate New York are testing artificial intelligence technology that takes drive-thru orders. Restaurants have been investing in improving the drive-thru experience ...",
@@ -107,7 +157,7 @@
       "originalUrl": "https://www.cnbc.com/2022/08/29/panera-bread-tests-artificial-intelligence-technology-in-drive-thru-lanes.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -460,6 +510,50 @@
       ]
     },
     {
+      "path": "_news/2022-08-29-robot-sales-hit-record-high-in-north-america-for-third-straight-quarter.md",
+      "title": "Robot Sales Hit Record High in North America for Third-Straight Quarter",
+      "excerpt": "Association for Advancing Automation latest stats show the most robots sold in any quarter; automotive industry returns to historic norms, while food & consumer goods continues interest in automation to handle e-commerce logistics boom.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/articles/august-2022/robot-sales-hit-record-high-north-america",
+      "originalUrl": "https://www.automation.com/en-us/articles/august-2022/robot-sales-hit-record-high-north-america",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.automation.com/getmedia/78715b12-b6e5-4559-9d38-61e4938d9b6f/Robots-news-Aug-29-2022-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-08-29-ethics-in-the-time-of-artificial-intelligence-and-their-sentient-attorneys.md",
       "title": "Ethics In The Time of Artificial Intelligence (and their sentient attorneys)",
       "excerpt": "By Matt Heisie, co-founder and head of product marketing of Ferret, an AI platform that provides critical intelligence to empower companies and individuals. A Google engineer stated earlier this year that the company’s AI bot known as LaMDA not only had achieved sentience but perhaps in the most obvious sign of modern human intelligence,",
@@ -499,6 +593,49 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-university-of-florida-partners-with-sas-to-tackle-water-quality-challenges-with-analytics.md",
+      "title": "University of Florida partners with SAS to tackle water quality challenges with analytics",
+      "excerpt": "The project will evaluate the connections between water quality and key economic sectors in the region. As part of the yearlong project, SAS and CCS will use SAS® Viya® on Microsoft Azure to develop a web-based water analytics platform to integrate a diversity of data streams to facilitate scientific research,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/science-technology-water-quality-artificial-intelligence-university-of-florida-3b539368a328bb6eda66e6a3fe625976",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/science-technology-water-quality-artificial-intelligence-university-of-florida-3b539368a328bb6eda66e6a3fe625976",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -642,26 +779,35 @@
       ]
     },
     {
-      "path": "_news/2022-08-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry.md",
-      "title": "Teradata Announces ClearScape Analytics: The Most Powerful, Open, and Connected Cloud Analytics Available in the Industry",
-      "excerpt": "Teradata (NYSE: TDC) today announced ClearScape Analytics, the significantly expanded and newly named analytics capabilities that span the entire suite of Vantage products. Teradata Vantage's industry-leading analytics have long been the cornerstone of the platform's appeal to enterprise customers for its ability to accelerate data insights and time to value.",
+      "path": "_news/2022-08-29-global-artificial-intelligence-ai-chips-market-2022-2027-expected-to-reach-usd-6723166-million-and-growing-at-cagr-of-3828.md",
+      "title": "Global Artificial Intelligence (AI) Chips Market | 2022-2027 | Expected to Reach USD 67231.66 Million and Growing at CAGR of 38.28%",
+      "excerpt": "The global Artificial Intelligence (AI) Chips market size was valued at USD 9615.51 Million in 2021 and is expected to expand at a CAGR of 38.28% during the forecast period, reaching USD 67231.66 ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/08/29/9663280.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/08/29/9663280.htm",
+      "webUrl": "https://www.digitaljournal.com/pr/global-artificial-intelligence-ai-chips-market-2022-2027-expected-to-reach-usd-67231-66-million-and-growing-at-cagr-of-38-28",
+      "originalUrl": "https://www.digitaljournal.com/pr/global-artificial-intelligence-ai-chips-market-2022-2027-expected-to-reach-usd-67231-66-million-and-growing-at-cagr-of-38-28",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/09/d0100701654b5d46553dbd6e3f8a6c108ba2955e-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T05:22:00-07:00",
+      "publishedDateTime": "2022-08-29T06:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -671,7 +817,7 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "AI Hardware",
         "AI"
       ]
     },
@@ -777,6 +923,92 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-facial-recognition-devices-market-2022-142-cagr-share-industry-size-opportunities-analysis-and-forecast-to-2028.md",
+      "title": "Facial Recognition Devices Market 2022 [14.2% CAGR] Share, Industry Size, Opportunities, Analysis and Forecast to 2028",
+      "excerpt": "\" Facial Recognition Devices Market \" Insights 2022 By Types (Handheld Devices, Fixed Devices), Applications (Security and Protection, Transportation, BFSI, Others), By Segmentation, Regions and Forecast to 2028.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-devices-market-2022-142-cagr-share-industry-size-opportunities-analysis-and-forecast-to-2028-2022-08-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-devices-market-2022-142-cagr-share-industry-size-opportunities-analysis-and-forecast-to-2028-2022-08-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry.md",
+      "title": "Teradata Announces ClearScape Analytics: The Most Powerful, Open, and Connected Cloud Analytics Available in the Industry",
+      "excerpt": "ClearScape Analytics – which encompasses the same high-performing analytics that Teradata is known for but with 50+ new analytic functions – is available as part of Teradata VantageCloud and the new Teradata VantageCloud Lake,",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -972,258 +1204,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-image-recognition-market-size-by-major-players-trends-key-regions-and-growth-forecast-to-2022-2031.md",
-      "title": "Image Recognition Market Size by Major Players, Trends, Key Regions and Growth Forecast to 2022-2031",
-      "excerpt": "\"Increasing use of image recognition applications is driving the Global Image Recognition Market \" The image recognition market is projected to grow from USD 15.95 billion in 2022 to USD 38.92 billion by 2031,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-market-size-by-major-players-trends-key-regions-and-growth-forecast-to-2022-2031-2022-08-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-market-size-by-major-players-trends-key-regions-and-growth-forecast-to-2022-2031-2022-08-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T01:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-artificial-intelligence-in-iot-market-worldwide-demand-development-growth-and-business-attractions-2028-uptake-c3-iot-hitachi-ptc-aws.md",
-      "title": "Artificial Intelligence in IoT Market Worldwide Demand, Development Growth and Business Attractions 2028 | Uptake, C3 IoT, Hitachi, PTC, AWS",
-      "excerpt": "The Artificial Intelligence in IoT report offers in-depth assessment of the growth and other aspects of the Artificial Intelligence in IoT market in important regions. Key regions covered in the report are North America,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-worldwide-demand-development-growth-and-business-attractions-2028-uptake-c3-iot-hitachi-ptc-aws-2022-08-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-worldwide-demand-development-growth-and-business-attractions-2028-uptake-c3-iot-hitachi-ptc-aws-2022-08-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T01:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-amazon-vs-apple-only-one-will-rewrite-the-rules-of-healthcare.md",
-      "title": "Amazon Vs. Apple: Only One Will Rewrite The Rules Of Healthcare",
-      "excerpt": "One company is dutifully abiding by an old, unwritten rule of health technology. The other is poised to rewrite the healthcare rulebook altogether.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robertpearl/2022/08/29/amazon-vs-apple-only-one-will-rewrite-the-rules-of-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/robertpearl/2022/08/29/amazon-vs-apple-only-one-will-rewrite-the-rules-of-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6308d893ea15b506f9653b4f/0x0.jpg?format=jpg&crop=3887,2591,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robertpearl/2022/08/29/amazon-vs-apple-only-one-will-rewrite-the-rules-of-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertpearl/2022/08/29/amazon-vs-apple-only-one-will-rewrite-the-rules-of-healthcare/amp/",
-      "publishedDateTime": "2022-08-29T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-andhra-pradesh-police-to-use-facial-recognition-apps-to-identity-protesting-teachers.md",
-      "title": "Andhra Pradesh police to use facial recognition apps to identity protesting teachers",
-      "excerpt": "Highly placed sources in the Department said special teams equipped with facial recognition cameras and mobile apps will be deployed at all bus stations, railway stations, checkposts, across the State with special focus on entry routes,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-police-to-use-facial-recognition-apps-to-identity-protesting-teachers/article65825486.ece",
-      "originalUrl": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-police-to-use-facial-recognition-apps-to-identity-protesting-teachers/article65825486.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th-i.thgim.com/public/incoming/8pu2u3/article65400588.ece/alternates/LANDSCAPE_615/IMG_iStock-925574754__1__2_1_9M8TJHT4.jpg",
-          "width": 615,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-police-to-use-facial-recognition-apps-to-identity-protesting-teachers/article65825486.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-police-to-use-facial-recognition-apps-to-identity-protesting-teachers/article65825486.ece/amp/",
-      "publishedDateTime": "2022-08-29T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-global-artifical-intelligence-chip-market-size-by-major-players-trends-key-regions-and-growth-forecast-to-2022-2031.md",
-      "title": "Global Artifical Intelligence Chip Market Size by Major Players, Trends, Key Regions and Growth Forecast to 2022-2031",
-      "excerpt": "The worldwide artificial intelligence chip market size is esteemed to mark revenue of USD 9 billion in 2021 and is",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artifical-intelligence-chip-market-size-by-major-players-trends-key-regions-and-growth-forecast-to-2022-2031-2022-08-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artifical-intelligence-chip-market-size-by-major-players-trends-key-regions-and-growth-forecast-to-2022-2031-2022-08-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T01:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

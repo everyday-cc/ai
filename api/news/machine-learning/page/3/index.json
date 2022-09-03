@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-10-machine-learning-at-the-forefront-of-telemental-health.md",
+      "title": "Machine Learning At The Forefront Of Telemental Health",
+      "excerpt": "Michael Stefferson received his PhD in Physics from the University of Colorado before deciding to make the jump into machine learning (ML). Here's why he did, and why AI can transform the future of telemental health.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/08/10/machine-learning-at-the-forefront-of-telemental-health/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/08/10/machine-learning-at-the-forefront-of-telemental-health/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62f3c73336ae7d0584fe6374/0x0.jpg?format=jpg&width=1200",
+          "width": 956,
+          "height": 561,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/08/10/machine-learning-at-the-forefront-of-telemental-health/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/08/10/machine-learning-at-the-forefront-of-telemental-health/amp/",
+      "publishedDateTime": "2022-08-10T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-sysdig-blocks-cryptojacking-in-the-cloud-with-99-precision-using-machine-learning.md",
       "title": "Sysdig Blocks Cryptojacking in the Cloud with 99% Precision Using Machine Learning",
       "excerpt": "Sysdig, the unified container and cloud security leader, today announced machine learning-powered cloud detection and response (CDR) to combat cryptojacking. The company’s threat engine and detection algorithms block cryptojacking in the cloud with 99% precision.",
@@ -1384,49 +1436,6 @@
       "provider": {
         "name": "EurekAlert!",
         "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-neural-networks-youve-got-it-so-easy.md",
-      "title": "Neural Networks: You’ve Got It So Easy",
-      "excerpt": "And so it was Scientific American magazine’s September 1992 special issue on Mind and Brain that introduced me to neural networks, both the biological and artificial kinds. Back then you had the ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2017/04/24/neural-networks-youve-got-it-so-easy/",
-      "originalUrl": "https://hackaday.com/2017/04/24/neural-networks-youve-got-it-so-easy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2017/04/neural_network_books-featured.jpg",
-          "width": 1110,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
         "images": null,
         "publishers": null,
         "authors": null

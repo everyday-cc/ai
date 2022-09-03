@@ -2,6 +2,105 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-18-exploring-ai-ethics-and-accountability.md",
+      "title": "Exploring AI ethics and accountability",
+      "excerpt": "A schoolchild? The dilemma and its variants are often cited as the type of problems artificial intelligence will have to grapple with as it becomes ever more prevalent in our lives. Driverless cars, for example, will have split seconds to make exactly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/",
+      "originalUrl": "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2018/02/GettyImages-679721306.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/amp/",
+      "publishedDateTime": "2022-08-18T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico Europe",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-artificial-intelligence-chip-market-size-worth-usd-832527-mn-by-2027-the-insight-partners.md",
+      "title": "Artificial Intelligence Chip Market Size Worth USD 83,252.7 Mn By 2027 | The Insight Partners",
+      "excerpt": "According to The Insight Partners' research, the Artificial Intelligence Chip Market to 2027 – Global Analysis and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-worth-usd-832527-mn-by-2027-the-insight-partners-2022-08-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-worth-usd-832527-mn-by-2027-the-insight-partners-2022-08-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-18T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-08-18-global-agricultural-robots-market-to-generate-usd-3593-billion-by-2030-outlines-a-new-report-by-next-move-strategy-consulting.md",
       "title": "Global Agricultural Robots Market to Generate USD 35.93 Billion by 2030, Outlines a New Report by Next Move Strategy Consulting",
       "excerpt": "The research provides the Covid-19 analysis along with the impact on the global agricultural robots market size. Equipping the thorough analysis about every aspect of the market in 256 pages accompanied by 141 tables and 111 figures,",
@@ -1245,101 +1344,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-costs-of-sydneys-driverless-train-conversion-outweigh-the-benefits.md",
-      "title": "Costs of Sydney’s driverless train conversion outweigh the benefits",
-      "excerpt": "But even without overruns pushing the cost of the driverless-train project to more than A$55 billion, the economics of the “Sydney Metro” project are questionable – in particular the ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/costs-of-sydneys-driverless-train-conversion-outweigh-the-benefits-188210",
-      "originalUrl": "https://theconversation.com/costs-of-sydneys-driverless-train-conversion-outweigh-the-benefits-188210",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/479092/original/file-20220815-485-8q5rsz.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/costs-of-sydneys-driverless-train-conversion-outweigh-the-benefits-188210",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/costs-of-sydneys-driverless-train-conversion-outweigh-the-benefits-188210",
-      "publishedDateTime": "2022-08-15T13:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-15-we-tested-tesla-full-self-driving-beta-in-the-blue-ridge-mountains-and-it-was-scary.md",
-      "title": "We tested Tesla Full Self-Driving Beta in the Blue Ridge Mountains, and it was scary",
-      "excerpt": "Beta in the Blue Ridge Mountains in North Carolina, and it was a scary experience. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system, but the driver needs to remain vigilant and ready to take control at all times.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/08/15/tesla-full-self-driving-beta-blue-ridge-mountains-scary/",
-      "originalUrl": "https://electrek.co/2022/08/15/tesla-full-self-driving-beta-blue-ridge-mountains-scary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-Full-Sefl-Driving-Beta-Blue-Ridge-Mountain-Test.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/08/15/tesla-full-self-driving-beta-blue-ridge-mountains-scary/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/15/tesla-full-self-driving-beta-blue-ridge-mountains-scary/amp/",
-      "publishedDateTime": "2022-08-15T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

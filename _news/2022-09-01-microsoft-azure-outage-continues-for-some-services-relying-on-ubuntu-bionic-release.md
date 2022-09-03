@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-azure-outage-cont
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-outage-continues-for-some-services-relying-on-ubuntu-bionic-release/"
 type: article
 quality: 97
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-93877868,imgsize-21916,width-1200,height-628,overlay-etcio/jio-haptik-collaborates-with-microsoft-azure-cognitive-services-to-improve-existing-hindi-conversational-ai-models.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Microsoft applying cloud security principles to Open RAN networks"
-    excerpt: "As 5G become smore cloudified, Microsoft is leveraging its cloud expertise to bring a zero-trust approach to Open RAN and other networks."
-    publishedDateTime: 2022-08-29T15:23:00Z
-    webUrl: "https://www.rcrwireless.com/20220829/telco-cloud/microsoft-applying-cloud-security-principles-to-open-ran-networks"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 56
-    images:
-      - url: "https://www.rcrwireless.com/wp-content/uploads/2016/11/microsoft-big-logo-altered.jpg"
-        width: 720
-        height: 480
         isCached: true
   - title: "Canonical, Microsoft Bring Ubuntu on Arm to Azure"
     excerpt: "“These images provide the familiar Ubuntu experience, with an Azure-optimized kernel and configurations ... application servers, Machine Learning (ML), open-source databases, and in-memory caches.” Ampere Altra is also well suited for new use ..."

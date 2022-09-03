@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usnews.com/news/technology/articles/2022-08-30/baidu-bea
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-08-30/baidu-beats-quarterly-revenue-estimates?context=amp"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -25,6 +25,22 @@ topics:
   - AI
 
 related:
+  - title: "Baidu Stock Is Tumbling. An Earnings Beat Can’t Offset Falling Revenue."
+    excerpt: "Baidu is the latest Chinese tech giant to show that a slowdown this year in the world’s second-largest economy is causing financial pain. Despite notching double-digit growth in its key ..."
+    publishedDateTime: 2022-08-30T10:22:00Z
+    webUrl: "https://www.barrons.com/articles/baidu-stock-earnings-revenue-51661851921"
+    ampWebUrl: "https://www.barrons.com/amp/articles/baidu-stock-earnings-revenue-51661851921"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/baidu-stock-earnings-revenue-51661851921"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://images.barrons.com/im-384397/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Baidu's Q2 revenue contracts, but beats estimates on cloud business growth"
     excerpt: "Total revenue shrank by 5% to 29.65 billion yuan ($4.43 billion) in the second quarter, compared with analysts' average estimate of 29.30 billion yuan, according to Refinitiv data"
     publishedDateTime: 2022-08-30T11:09:00Z

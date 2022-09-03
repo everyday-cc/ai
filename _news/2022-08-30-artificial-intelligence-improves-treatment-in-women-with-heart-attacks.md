@@ -57,17 +57,6 @@ related:
         height: 720
         isCached: true
   - title: "Study finds Artificial Intelligence helps in treating Women with heart attacks"
-    excerpt: "Heart attacks are one of the main causes of death worldwide, with women having a greater mortality rate than men. Cardiologists have been concerned about this for decades, and it has sparked debate in the medical community regarding the reasons and repercussions of potential gaps in treatment."
-    publishedDateTime: 2022-08-29T16:43:00Z
-    webUrl: "https://theprint.in/health/study-finds-artificial-intelligence-helps-in-treating-women-with-heart-attacks/1106846/"
-    ampWebUrl: "https://theprint.in/health/study-finds-artificial-intelligence-helps-in-treating-women-with-heart-attacks/1106846/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/health/study-finds-artificial-intelligence-helps-in-treating-women-with-heart-attacks/1106846/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 35
-  - title: "Study finds Artificial Intelligence helps in treating Women with heart attacks"
     excerpt: "Heart attacks are one of the main causes of death worldwide with women having a greater mortality rate than men Cardiologists have been concerned about this f"
     publishedDateTime: 2022-08-29T19:13:00Z
     webUrl: "https://www.bignewsnetwork.com/news/272686119/study-finds-artificial-intelligence-helps-in-treating-women-with-heart-attacks"

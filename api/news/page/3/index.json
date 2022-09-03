@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-31-unilag-trains-youths-on-coding-robotics-programming.md",
+      "title": "UNILAG Trains Youths on Coding, Robotics Programming",
+      "excerpt": "Yinka-Banjo disclosed this at the Undergraduate Robotics Challenge, powered by Coderina and the closing ceremony of the 2022 one month summer coding and robotics programme. The programme is aimed at introducing young beginners to the field of robotics and progressively leadin them from basic concepts to actual work with robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisdaylive.com/index.php/2022/08/31/unilag-trains-youths-on-coding-robotics-programming/",
+      "originalUrl": "https://www.thisdaylive.com/index.php/2022/08/31/unilag-trains-youths-on-coding-robotics-programming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thisday-846548948316-wp-data.storage.googleapis.com/wp-media/d070e8aa-unilag.jpg?mrf-size=m",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thisdaylive.com/index.php/2022/08/31/unilag-trains-youths-on-coding-robotics-programming/amp/",
+      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2022/08/31/unilag-trains-youths-on-coding-robotics-programming/amp/",
+      "publishedDateTime": "2022-08-30T16:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This Day",
+        "domain": "thisdaylive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-31-mary-barra-confident-in-gms-self-driving-vehicle-tech-and-goal-to-beat-tesla-in-evs.md",
       "title": "Mary Barra confident in GM’s self-driving vehicle tech and goal to beat Tesla in EVs",
       "excerpt": "As we roll along in the third quarter of 2022, GM’s long-promised EV lineup is beginning to materialize and gain some serious momentum. The American automaker now has several EVs on the market and has even more in its production pipeline.",
@@ -1105,7 +1148,7 @@
       "originalUrl": "https://www.usnews.com/news/technology/articles/2022-08-30/baidu-beats-quarterly-revenue-estimates",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1140,72 +1183,21 @@
       ]
     },
     {
-      "path": "_news/2022-08-30-can-a-metaverse-ai-win-americas-got-talent-and-what-that-means-for-the-industry.md",
-      "title": "Can A Metaverse AI Win America's Got Talent? (And What That Means For The Industry)",
-      "excerpt": "When “Simon Cowell” performed on the America’s Got Talent stage, no one was more shocked than the man himself. How did this happen? In their one-of-a-kind audition, leading AI company Metaphysic transformed singer Daniel Emmet into Cowell and earned a spot in the semifinals.",
+      "path": "_news/2022-08-30-elon-musk-aims-to-have-self-driving-teslas-ready-by-year-end-in-the-us.md",
+      "title": "Elon Musk: aims to have self-driving Teslas ready by year-end in the U.S",
+      "excerpt": "Tesla founder Elon Musk said on Monday he aimed to get self-driving Teslas ready by year-end and hopes they could be in wide release in the United States and possibly in Europe, depending on regulatory approval.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/08/30/can-a-metaverse-ai-win-americas-got-talent-and-what-that-means-for-the-industry/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/08/30/can-a-metaverse-ai-win-americas-got-talent-and-what-that-means-for-the-industry/",
+      "webUrl": "https://business-reporter.co.uk/technology/elon-musk-aims-to-have-self-driving-teslas-ready-by-year-end-in-the-us-7072",
+      "originalUrl": "https://business-reporter.co.uk/technology/elon-musk-aims-to-have-self-driving-teslas-ready-by-year-end-in-the-us-7072",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 93,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/630daea09d4909d48e04b7ea/0x0.jpg?format=jpg&width=1200",
+          "url": "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/018/2022-08-29T114020Z_2_LYNXMPEI7S0AM_RTROPTP_4_NORWAY-ENERGY.JPG",
           "width": 1200,
-          "height": 926,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/08/30/can-a-metaverse-ai-win-americas-got-talent-and-what-that-means-for-the-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/08/30/can-a-metaverse-ai-win-americas-got-talent-and-what-that-means-for-the-industry/amp/",
-      "publishedDateTime": "2022-08-29T23:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-making-machine-learning-available-to-everyone-story-of-bigml.md",
-      "title": "Making Machine Learning Available to Everyone: Story of BigML",
-      "excerpt": "BigML allows you to build machine learning and deep learning models without the need for any coding. In an exclusive conversation with Analytics India Magazine, Atakan Cetinsoy, vice president, Predictive Applications at BigML, explained, “Our mission ...",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/making-machine-learning-available-to-everyone-story-of-bigml/",
-      "originalUrl": "https://analyticsindiamag.com/making-machine-learning-available-to-everyone-story-of-bigml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/export-BIGML_USERNAMEmy_name-export-BIGML_API_KEY123456789-export-BIGML_AUTHusernameBIGML_USERNAMEapi_keyBIGML_API_KEY.jpg",
-          "width": 2240,
-          "height": 1260,
+          "height": 799,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1215,11 +1207,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T21:31:00-07:00",
+      "publishedDateTime": "2022-08-30T00:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
+        "name": "business-reporter.co.uk",
+        "domain": "business-reporter.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1229,9 +1221,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

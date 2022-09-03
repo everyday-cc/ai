@@ -2,6 +2,247 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2022-06-27-india-to-get-facial-recognition-tech-at-airports-understanding-how-it-will-work.md",
+      "title": "India to get facial recognition tech at airports: Understanding how it will work",
+      "excerpt": "Starting from 31 August, the facial recognition technology under the Centre's DigiYatra scheme will facilitate passengers to proceed at airports without the need for physical boarding pass or identity cards.",
+      "sourceUrl": null,
+      "webUrl": "https://www.firstpost.com/india/india-to-get-facial-recognition-tech-at-airports-understanding-how-it-will-work-10842621.html",
+      "originalUrl": "https://www.firstpost.com/india/india-to-get-facial-recognition-tech-at-airports-understanding-how-it-will-work-10842621.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.firstpost.com/wp-content/uploads/2022/05/Bengaluru-Kempegowda-International-Airport.jpg",
+          "width": 640,
+          "height": 362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.firstpost.com/india/india-to-get-facial-recognition-tech-at-airports-understanding-how-it-will-work-10842621.html/amp",
+      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/india/india-to-get-facial-recognition-tech-at-airports-understanding-how-it-will-work-10842621.html/amp",
+      "publishedDateTime": "2022-06-27T04:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Firstpost",
+        "domain": "firstpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-27-dall-e-mini-is-the-internets-favorite-ai-meme-machine.md",
+      "title": "DALL-E Mini Is the Internet's Favorite AI Meme Machine",
+      "excerpt": "The viral image generation app is good, absurd fun. It's also giving the world an education in how artificial intelligence may warp reality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/dalle-ai-meme-machine/",
+      "originalUrl": "https://www.wired.com/story/dalle-ai-meme-machine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/62b63286e0a13316321d2421/master/w_1680,h_979,c_limit/AI-Meme-Machine-Dall-E-Mini-Craiyon-3-Business.jpg",
+          "width": 1680,
+          "height": 979,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/dalle-ai-meme-machine/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dalle-ai-meme-machine/amp",
+      "publishedDateTime": "2022-06-27T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-27-coretech-system-joins-hands-with-microsoft-azure-and-creates-new-values-for-application-of-molding-analysis.md",
+      "title": "CoreTech System joins hands with Microsoft Azure and creates new values for application of molding analysis",
+      "excerpt": "The lineups of Microsoft Azure Data Services, namely Azure Synapse Analytics, Azure Machine Learning, Azure Datalake, Azure Data Explorer, and Power BI, furnish customers with data analysis model ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20220624PR200.html&chid=9",
+      "originalUrl": "https://www.digitimes.com/news/a20220624PR200.html&chid=9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20220624pr200_files/5_r.jpg",
+          "width": 336,
+          "height": 224,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-27T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-27-training-data-the-overlooked-problem-of-modern-ai.md",
+      "title": "Training Data: The Overlooked Problem Of Modern AI",
+      "excerpt": "The importance of data labeling had been hugely underestimated and treated as a nontechnological, ineffective and boring management task.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/27/training-data-the-overlooked-problem-of-modern-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/27/training-data-the-overlooked-problem-of-modern-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62b5c1181f0fc88fc17a1f19/0x0.jpg?format=jpg&crop=1660,934,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/27/training-data-the-overlooked-problem-of-modern-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/27/training-data-the-overlooked-problem-of-modern-ai/amp/",
+      "publishedDateTime": "2022-06-27T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-27-machine-learning-courses-market-competitive-landscape-analysis-with-forecast-by-2028.md",
+      "title": "Machine Learning Courses Market| Competitive Landscape Analysis With Forecast By 2028",
+      "excerpt": "Market Trends for Machine Learning Courses Market Insights and Forecast to 2028 from 2022 to 2028 According to the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-courses-market-competitive-landscape-analysis-with-forecast-by-2028-2022-06-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-courses-market-competitive-landscape-analysis-with-forecast-by-2028-2022-06-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-27T02:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-27-poolbeg-pharma-partner-completes-ai-model-for-rsv-drug-identification.md",
       "title": "Poolbeg Pharma Partner Completes AI Model for RSV Drug Identification",
       "excerpt": "Poolbeg Pharma PLC said Monday that partner OneThree Biotech has completed its artificial intelligence model optimization to identify treatments for respiratory syncytial virus, with results expected in the fourth quarter. The pharmaceutical company said ...",
@@ -884,246 +1125,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-choose-specific-timeseries-to-forecast-with-amazon-forecast.md",
-      "title": "Choose specific timeseries to forecast with Amazon Forecast",
-      "excerpt": "Today, we’re excited to announce that&nbsp;Amazon Forecast&nbsp;offers the ability to generate forecasts on a selected subset of items. This helps you to leverage the full value of your data, and apply it selectively on your choice of items reducing the time and effort to get forecasted results. Generating",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/choose-specific-timeseries-to-forecast-with-amazon-forecast/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/choose-specific-timeseries-to-forecast-with-amazon-forecast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/24/choose-timeseries.jpg",
-          "width": 1246,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-24T16:11:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-25-flawed-ai-makes-robots-racist-sexist.md",
-      "title": "Flawed AI makes robots racist, sexist",
-      "excerpt": "The work, led by Johns Hopkins University, the Georgia Institute of Technology, and University of Washington researchers, is believed to be the first to show that robots loaded with an accepted and widely used model operate with significant gender and racial biases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/957065",
-      "originalUrl": "https://www.eurekalert.org/news-releases/957065",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/7667c6ad-9eb3-4059-bf6d-ab9842d2fbc4/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-24T15:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-25-how-ai-is-quietly-revolutionizing-the-back-office.md",
-      "title": "How AI is quietly revolutionizing the back office",
-      "excerpt": "The challenge for enterprises is to allow AI to place traditionally manual processes under fully automated control.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing-the-back-office/",
-      "originalUrl": "https://venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing-the-back-office/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/AI.enterprise.shutterstock_1039492387.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing-the-back-office/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing-the-back-office/amp/",
-      "publishedDateTime": "2022-06-24T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-25-covid-cognitive-decline-more-widespread-than-thought-say-researchers-at-australias-first-long-covid-clinic.md",
-      "title": "COVID cognitive decline more widespread than thought, say researchers at Australia's first long-COVID clinic",
-      "excerpt": "And the team has found something startling. Around one quarter of the ADAPT study's participants were experiencing noticeable cognitive decline a year after getting COVID. And, some sort of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc.net.au/news/2022-06-25/long-covid-clinic-st-vincents-cognitive-decline/101178450",
-      "originalUrl": "https://www.abc.net.au/news/2022-06-25/long-covid-clinic-st-vincents-cognitive-decline/101178450",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://live-production.wcms.abc-cdn.net.au/ffb1a11f12f1797b90baf63522d04857?impolicy=wcms_crop_resize&cropH=394&cropW=700&xPos=0&yPos=0&width=862&height=485",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.abc.net.au/article/101178450",
-      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101178450",
-      "publishedDateTime": "2022-06-24T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Australian Broadcasting Corporation",
-        "domain": "abc.net.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-25-ai-powered-video-platform-salesroom-comes-out-of-stealth.md",
-      "title": "AI-Powered Video Platform Salesroom Comes Out Of Stealth",
-      "excerpt": "\"You’re talking too fast; consider slowing down.\" That's a statement you’d expect coming from a mentor or friend. But they’re computer-generated prompts designed to help someone trying to sell a product via video call.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/phoebeliu/2022/06/24/ai-powered-video-platform-salesroom-comes-out-of-stealth/",
-      "originalUrl": "https://www.forbes.com/sites/phoebeliu/2022/06/24/ai-powered-video-platform-salesroom-comes-out-of-stealth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62b62578551931f3067a1f15/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/phoebeliu/2022/06/24/ai-powered-video-platform-salesroom-comes-out-of-stealth/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/phoebeliu/2022/06/24/ai-powered-video-platform-salesroom-comes-out-of-stealth/amp/",
-      "publishedDateTime": "2022-06-24T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
