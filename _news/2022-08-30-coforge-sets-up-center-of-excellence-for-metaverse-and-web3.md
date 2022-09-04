@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Coforge to open centre of excellence for Metaverse and Web3; stock jumps ~2%"
-    excerpt: "Coforge Limited announced the opening of its center of excellence (CoE) for the Metaverse and Web3. The institution will encourage multidisciplinary research and discover multiple use cases for the metaverse and its interaction with digital technologies such as blockchain,"
-    publishedDateTime: 2022-08-30T09:06:00Z
-    webUrl: "https://www.indiainfoline.com/article/news-top-story/coforge-to-open-centre-of-excellence-for-metaverse-and-web3-stock-jumps-2-122083000439_1.html"
-    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-top-story/coforge-to-open-centre-of-excellence-for-metaverse-and-web3-stock-jumps-2-122083000439_1.html"
-    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/coforge-to-open-centre-of-excellence-for-metaverse-and-web3-stock-jumps-2-122083000439_1.html"
-    type: article
-    provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 41
-    images:
-      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
-        width: 350
-        height: 233
-        isCached: true
   - title: "International Web3 Startup ParallelOffice is Raising a Seed Round Of Funds To Launch Their Revolutionary Business Metaverse"
     excerpt: "Fondly regarded as the next-gen evolution of work from home, ParallelOffice web3 platform combines VR, AI and Blockchain technologies to create a virtual reality 3d office that allows users to be more productive,"
     publishedDateTime: 2022-09-03T00:00:00Z

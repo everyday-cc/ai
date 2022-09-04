@@ -70,20 +70,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How AI Is Shaping the Future of Customer Interactions"
-    excerpt: "Artificial intelligence isn’t going anywhere. In fact, it’s beginning to take the lead on customer interactions — but not without challenges."
-    publishedDateTime: 2022-08-30T11:02:00Z
-    webUrl: "https://www.cmswire.com/customer-experience/how-ai-is-shaping-the-future-of-customer-interactions/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 39
-    images:
-      - url: "https://www.cmswire.com/-/media/5fa25dc1474f429fac7153892ff8d022.ashx"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Why AI is the solution for IVF accessibility"
     excerpt: "By augmenting the embryologist in selecting the most viable embryo, there is potential for AI to help a patient conceive in one or two cycles, reducing the inherent cost of IVF therapy, and making the treatment more accessible to diverse populations that often don’t have ease of access to treatments today."
     publishedDateTime: 2022-09-02T13:00:00Z

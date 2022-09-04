@@ -91,15 +91,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
-  - title: "AI in FinTech Global Market Report 2022: Key Players Microsoft, Google, IBM & Others Driving 27.6% Annual Growth"
-    excerpt: "Dublin, Aug. 30, 2022 (GLOBE NEWSWIRE) -- The \"AI in FinTech Global Market Report 2022\" report has been added to ResearchAndMarkets.com's offering. The global AI in fintech market is expected to ..."
-    publishedDateTime: 2022-08-30T10:03:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/08/g28680688/ai-in-fintech-global-market-report-2022-key-players-microsoft-google-ibm-others-driving-27-6-annua"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 15
 
 secured: "CaXY1Vj+PGmwlqACKyVS975Pk4Mby2mJva1RQ1CeyVeMYVvL1bNHGYUhDrZjvlURIy0D+hY94++PPslcqBy5RkzOkz2s7ovU/07WsXQsSgIwLlG6fLyAOQR7uuqoGLDyj7HpBanWfbT6yxJ7BQ+N5BwIkFCI9auoSfu5WC77QXlGkYJu+u9zwZkRRLqgn6Ol+hVyMURBHpvB3zglCUWIsjDZgL++7gUfeMPuI6ez7Q8PcrNqQZiBK+UJVNAqpU2VIh4I7A5jHOet07Zz9+NbaWC8Gg119hvySxrvgvxFuvlsbPiji97gUc/rcdpn4QMXxfOVm/5H7sFI+mKmcLXNm0J5hq/Mk0tkyBd4+j/L3O8=;vYEuy1SfxQuc489rRTIE7Q=="
 ---

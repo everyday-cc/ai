@@ -2,47 +2,71 @@
 category: news
 title: "Removing the data security barriers and concerns to accelerate speech recognition usage in radiology"
 excerpt: "According to Scribetech, security is a key barrier to adopting speech recognition – despite its potential to accelerate reporting time, drive accuracy, and enable radiologists to deal with a ..."
-publishedDateTime: 2022-08-31T09:20:00Z
-originalUrl: "https://www.nbc4i.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/"
-webUrl: "https://www.nbc4i.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/"
+publishedDateTime: 2022-08-31T08:50:00Z
+originalUrl: "https://www.kxan.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/"
+webUrl: "https://www.kxan.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/"
 type: article
-quality: 41
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: NBC4i
-  domain: nbc4i.com
+  name: KXAN
+  domain: kxan.com
 
 topics:
   - Natural Language Processing
   - AI
   - AI in Security
 
-images:
-  - url: "https://i0.wp.com/www.nbc4i.com/wp-content/uploads/sites/18/2022/09/9-2-22-PM-WX-COVER.jpg?w=2000&#038;ssl=1"
-    width: 1920
-    height: 1080
-    isCached: true
-
 related:
-  - title: "Ageing can impact the security of facial recognition"
-    excerpt: "Facial recognition algorithms can struggle to recognise individuals as the same person after as little as five years. This means that systems that rely on facial recognition may need to obtain new photographs of users on a regular basis or risk being unable to identify them,"
-    publishedDateTime: 2022-08-30T09:47:00Z
-    webUrl: "https://www.itweb.co.za/content/RgeVDvPRYPbMKJN3"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/RgeVDvPRYPbMKJN3"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/RgeVDvPRYPbMKJN3"
+  - title: "Financial language and the evolution of speech recognition technology"
+    excerpt: "By Katy Wigdahl, CEO, Speechmatics Due to its long heritage and diverse spread of legacy technologies, it can be challenging to integrate new technological developments into the financial industry. But by not doing so,"
+    publishedDateTime: 2022-09-01T21:21:00Z
+    webUrl: "https://www.globalbankingandfinance.com/financial-language-and-the-evolution-of-speech-recognition-technology/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/financial-language-and-the-evolution-of-speech-recognition-technology/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/financial-language-and-the-evolution-of-speech-recognition-technology/"
     type: article
     provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 78
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 59
     images:
-      - url: "https://lh3.googleusercontent.com/xWYSG2AbERBRwLqbiTZHMrOsueCLWsKZI3GAFCZaiAPRn1qBny7jW-n-U5EL6Sgiw-xz6RkxBVVnwjxpVEDvh4cVcImCrkmRJ3M=w816-h428"
-        width: 761
-        height: 428
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/09/iStock-861092546.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Researchers propose automatic speech recognition tech"
+    excerpt: "Popular voice assistants like Siri and Amazon Alexa have introduced automatic speech recognition to the wider public. Though decades in the making, ASR models struggle with consistency and reliability,"
+    publishedDateTime: 2022-09-04T00:26:00Z
+    webUrl: "https://punchng.com/researchers-propose-automatic-speech-recognition-tech/"
+    ampWebUrl: "https://punchng.com/researchers-propose-automatic-speech-recognition-tech/?amp"
+    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/researchers-propose-automatic-speech-recognition-tech/?amp"
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 59
+    images:
+      - url: "https://cdn.punchng.com/wp-content/uploads/2016/10/17155511/punchlogo.png"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Emotion Detection and Recognition Market Latest Advancements and Business Opportunities 2031"
+    excerpt: "Emotion detection and recognition market is set to witness steady growth during 2021-2031. One of the major growth drivers for the emotion detection and recognition market happens to be the rising adoption of Internet of Things,"
+    publishedDateTime: 2022-08-30T13:26:00Z
+    webUrl: "https://www.fmiblog.com/2022/08/30/emotion-detection-and-recognition-market-latest-advancements-and-business-opportunities-2031/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 13
+    images:
+      - url: "https://www.fmiblog.com/wp-content/uploads/2022/08/Stringer-Pallets-Market-420x300.jpg"
+        width: 420
+        height: 300
         isCached: true
 
-secured: "aYAdVcUWrKj1v3Ib9PmP28YYliVpDIJQaNqky67uIFVYEUNbKSNa+1w9d5Htq7G0i0+RnUNPqOslq7t/eTF+3LZtlGCoQ2hxtLFdVx/MSmf7OCH+ai0EtKAk9bfZFOrBIAQJJdOJDXRaU4WTIvMfqApq0hW2CuyCPPgw5k1Cct7TV2bMlYKX9e03u9RjuEkk26ScpCbNXT3V7b8SCYL2+y0n17XoA3ftIHAc0u1V4EDF5An04PH+Vru0XYEfmS7qoRfEQP8Ag7gEy7g8URS7OEg5MLwQ37Wzi7tNEqtIYRcEUZXQUP9TcngftcaA2D55+EIVfP3EZu/dK+cX35C3sbztdxCvVHFt26OCUOORFj8=;GSklsJkHq++5+Rhb6yVoEw=="
+secured: "O8vXcQAq1jNlfAh0ZgnbHGGEK8NycarU7s6J3VGzEt3wEpZ6bby92s3ANNE4q9hhInL7u8kdtcxe5iVMr1FxaTRQEmwfig2jLqwlAiY+oobVEvzq3roX5h9IKsV2zC5huKjJI1NeTwsw09dzmfjRdBPTl0UY008xToLGOkYEhegk4d2MukM3pUYbpWRtd8hHjTbBxwEKmoivAm7SObZluS5AfcyD1pzaIIJls9vukeh4C/fenJCD9RdcBVrLG8ViTF+QnwruVwiWkJsyvUl/h/NZs5U9AWkEAfRVe4Ewc+Bk7l0IsyDD5IGJjtx97m2XxM9ZE5LWUSpHKc2TAkz9Ab33SYkLsYyecnMShIR46XA=;86lnOQ1S+w2n1AjXmGSGhQ=="
 ---
 

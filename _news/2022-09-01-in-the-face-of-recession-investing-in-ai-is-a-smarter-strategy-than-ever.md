@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/in-the-fac
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/01/in-the-face-of-recession-investing-in-ai-is-a-smarter-strategy-than-ever/amp/"
 type: article
 quality: 86
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/631028f6b8a74560cf6398a9/0x0.jpg?format=jpg&crop=1703,958,x161,y64,safe&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "How AI Is Shaping the Future of Customer Interactions"
-    excerpt: "Artificial intelligence isn’t going anywhere. In fact, it’s beginning to take the lead on customer interactions — but not without challenges."
-    publishedDateTime: 2022-08-30T11:02:00Z
-    webUrl: "https://www.cmswire.com/customer-experience/how-ai-is-shaping-the-future-of-customer-interactions/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 39
-    images:
-      - url: "https://www.cmswire.com/-/media/5fa25dc1474f429fac7153892ff8d022.ashx"
-        width: 640
-        height: 480
         isCached: true
   - title: "AI Startup Replicant Is Transforming Customer Service Centers By Making Them More Automated—And More Accessible"
     excerpt: "The company is harnessing artificial intelligence and machine learning technology in an effort to remake call centers everywhere."

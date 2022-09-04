@@ -29,20 +29,18 @@ images:
 
 related:
   - title: "Artificial intelligence model outperforms clinicians in diagnosing pediatric ear infections"
-    excerpt: "An artificial-intelligence (AI) model built at Mass Eye and Ear was shown to be significantly more accurate than doctors at diagnosing pediatric ear infections in the first head-to-head evaluation of its kind,"
-    publishedDateTime: 2022-08-31T16:30:00Z
-    webUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-outperforms-clinicians-pediatric.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-outperforms-clinicians-pediatric.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-artificial-intelligence-outperforms-clinicians-pediatric.amp"
+    excerpt: "An artificial-intelligence model built at Mass Eye and Ear was shown to be significantly more accurate than doctors at diagnosing pediatric ear infections in the first head-to-head evaluation of its kind."
+    publishedDateTime: 2022-08-31T12:02:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/963336"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 49
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 29
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-62.jpg"
-        width: 359
-        height: 428
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a4c0f958-76a6-48a5-9765-166256f6814c/Rendition/thumbnail/Content/Public"
+        width: 252
+        height: 300
         isCached: true
 
 secured: "EpgqdULMrgHKhK8g7CVeOPetmbtST5/NiIVFYEjUUVVuB6pPBDwrYW15D0oBeiRqWM8QqYN5rMqxeAtDYIPWg/EeUJj2hHofwvKJKzCLsaDt+IahFeBRh3mz8KWAM9Jms9q/asHEO9VD/ibgNfII9qadz8uzQTIRslxMrsqfVfZGu6Ex9Y8J+fGRsiU1lL99r6mOsgsxvrHYWm90uqv1RUC2H97dlw2pYi1vwxMNuH6NQKuX1BGImBbRRvqAK5XYb0mdrG+GZiMXKSdReuQTsGuRn1TuAWpclLNLbUQtBWUjKJxy1ka0EPf2zlH4FZ2Kru2lwuNF/8lFW5CeIaIIM6US6DCtbV/2QF7y/bH83HQIcmIdJ4Jrty6RTi9YyxXlTgTGAZApJi66qxdlzk3vXvVuT66TQhh+JG8SPAkUg46NT7+zwEK7WjesuCT4l1tDY4LcRDmIi0AxzVb9CGo6AZBhD5XRqItAJQ2S+cYMAAZy8ZeWfi9tSamUrngvSrsgSdBfmC9p0SUR1yQgCFix9A==;c96Ui7mQqOTwDrULL3PTSg=="

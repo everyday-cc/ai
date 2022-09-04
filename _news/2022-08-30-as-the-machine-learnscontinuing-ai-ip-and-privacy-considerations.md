@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence and machine learning now integral to smart power solutions"
-    excerpt: "They help to improve efficiency and profitability for utilities. The utilities’ space is rapidly transforming today. It’s shifting from the conventional and a highly-regulated environment to a tech-driven market at a fast clip."
-    publishedDateTime: 2022-08-30T10:21:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-and-machine-learning-now-integral-to-smart-power-solutions/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-and-machine-learning-now-integral-to-smart-power-solutions/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-and-machine-learning-now-integral-to-smart-power-solutions/"
+  - title: "How advanced analytics and machine learning are transforming the role of ‘Finance Controllers’"
+    excerpt: "Equipping Financial Controllers with predictive capabilities, advanced analytics and ML will help them elevate their role from providing back-office support to business partnering. The role of a finance controller is changing. It is expected that ..."
+    publishedDateTime: 2022-08-30T14:39:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-advanced-analytics-and-machine-learning-are-transforming-the-role-of-finance-controllers/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-advanced-analytics-and-machine-learning-are-transforming-the-role-of-finance-controllers/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-advanced-analytics-and-machine-learning-are-transforming-the-role-of-finance-controllers/"
     type: article
     provider:
-      name: India Times
+      name: Indiatimes
       domain: indiatimes.com
-    quality: 70
+    quality: 64
     images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/Raj.png"
-        width: 295
-        height: 256
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/anshuman.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "As the Machine Learns—Continuing AI IP and Privacy Considerations"
     excerpt: "AI frequently automates routine tasks that were previously performed by people, eliminating tedious work, making business processes more efficient, and creating new capabilities and opportunities. Every business in the future will be using AI to some extent."

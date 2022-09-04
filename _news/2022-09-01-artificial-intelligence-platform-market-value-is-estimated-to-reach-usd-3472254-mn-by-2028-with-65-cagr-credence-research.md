@@ -27,6 +27,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Facial Recognition Market to reach USD 3.8 billion by 2022 from USD 8.5 billion in 2031, at a CAGR of 17.2% during the forecast period"
+    excerpt: "The major factors driving the growth of the facial recognition market are the growing importance of the surveillance industry, increasing investment in facial recognition technologies by the government and defense sector,"
+    publishedDateTime: 2022-08-31T10:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-to-reach-usd-38-billion-by-2022-from-usd-85-billion-in-2031-at-a-cagr-of-172-during-the-forecast-period-2022-08-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "0gQC5b/0uPAK2OsQtHoDRSVphCN1813IP9wQv52PrXAoOz37fh6+mecj65bpm1CHtVvf/SU2UzQ1JMdut0YsEdtQlBb0pWqcussHegEqI5lANyRn5/bXjsCaIcicNTyMjDKM+0yG6R23khpSpNKgPiDPSi41W7F6res8ef4bI251xrFdPRpARrg6ey+vByfptpXmQsQZWkLVoCK8MUXjy5GPoiij7aIDIMqZHpi9FmLDR5tlzd39FxDpGxm6sa1ZM4FgMCn9CUUk3Gs8rx0NaIm2ToY3YZILy9kleaTtzcyq40GAUTvoY4rHNoW+dcGU2KZOPuCLvhrWLpvfmPGD6/FgafvbMn1nRxBNIZjIjTQ=;dKfhhryYWTGTnsZtqV4Xeg=="
 ---
 

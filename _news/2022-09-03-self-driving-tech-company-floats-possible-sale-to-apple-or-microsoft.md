@@ -9,7 +9,7 @@ ampWebUrl: "https://www.spokesman.com/stories/2022/sep/02/self-driving-tech-comp
 cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2022/sep/02/self-driving-tech-company-floats-possible-sale-to-/?amp-content=amp"
 type: article
 quality: 61
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -83,20 +83,6 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/403/2022/09/Delivery-van-767x633.jpg"
         width: 768
         height: 633
-        isCached: true
-  - title: "Democratizing the quantum ecosystem: Microsoft’s Krysta Svore on the pathway towards a scalable quantum computer"
-    excerpt: "Krysta Svore, vice-president of Microsoft Quantum, talks to Tushna Commissariat about the company’s journey to quantum advantage"
-    publishedDateTime: 2022-08-30T09:30:00Z
-    webUrl: "https://physicsworld.com/a/democratizing-the-quantum-ecosystem-microsofts-krysta-svore-on-the-pathway-towards-a-scalable-quantum-computer/"
-    type: article
-    provider:
-      name: Physics World
-      domain: physicsworld.com
-    quality: 18
-    images:
-      - url: "https://physicsworld.com/wp-content/uploads/2022/08/Svore-frontis.jpg"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "rpUG+cmJZ54c5Z32y6HoCnk/Dp/gBA6lGDYYny32eG8QeZatftzeU5YZYOe32zro4K5YWH9DGoM0neDPT3eUABRdQAEH/Y/tH/H5dO5PkYIUB3KYbjAK7to/NST+GubGQs77r5awalfYniNUMZznvcud2DQybkA6d5q8iMSufdjtJ1s39vbLjfX/n5KXS/F1x51auDG/ITietteRfbdWJbMLVbw4SqDtLhs30WlGxkCyovobw/0YwOdfDMrT2m7cQv64bqE+4ZNWIIAj4aD1UxGdzN0/Ziqz79Q2YeIRqpjloOKlruVmD369MqrQhZnouwPmVcwDGCo/eQ0oB+HOxTs132ZhzoYzn/xx7uCvCUyf5uc5YWqx+Q+WL41XQAz0ouVoXeVwPPSbcN1vmsLSn/caIi+TMv5bxv4qgKcdllTaGI17Ml97SZ+zOxpAov7v75Ix6XiIMWhQK4K/J8tewriw+mPwaVsA1kBF4bfQ3evmDth7Cv4chhFRCAqR3i+XdkFJ3jHE/OG4UHauzH/zjQ==;qWglGFkk7zrvtMaAbIsrsw=="

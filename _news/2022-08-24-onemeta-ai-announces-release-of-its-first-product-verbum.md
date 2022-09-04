@@ -1,26 +1,26 @@
 ---
 category: news
 title: "OneMeta AI Announces Release of its First Product: Verbum"
-excerpt: "Today OneMeta AI announced that it has released its first product, Verbum ( 'We are very pleased that we have released Verbum to the public. With Verbum, language is no longer a barrier to your meetings or communications."
-publishedDateTime: 2022-08-24T14:08:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/272664698/onemeta-ai-announces-release-of-its-first-product-verbum"
-webUrl: "https://www.bignewsnetwork.com/news/272664698/onemeta-ai-announces-release-of-its-first-product-verbum"
+excerpt: "LAS VEGAS, NV / ACCESSWIRE / August 24, 2022 / OneMeta AI (  ) (OTC PINK:ONEI). Today OneMeta AI announced that it has released its first product, Verbum (  ). “We are very pleased that we have released Verbum to the public."
+publishedDateTime: 2022-08-24T13:21:00Z
+originalUrl: "https://apnews.com/press-release/accesswire/technology-419c56bc1679a79c70e00d56bccf8cc1"
+webUrl: "https://apnews.com/press-release/accesswire/technology-419c56bc1679a79c70e00d56bccf8cc1"
 type: article
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/cus1662181135505.jpg"
-    width: 630
-    height: 420
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "CZskU1KDR8fS7Wfadu7Rr+62jO47MAv86zwAJBsz8Ao0nAswyJ2QcMpbsWR/EPNdU9fNpJvTCve+KIRjV23GRCxmr5P6QEX3vfhea1B3BBnn4kk8kMjkYBaxKkJ36yl0HOf8dk9Mqg4KYNxWN3U5bqTKgRhW2JpMjHfjQbxaxngkPyM6efk0Vqg9TLeyZrsTg9zCcHs9zYzfVg4dN2wHGS6Bc3eB7W6vAx7h2OA7+b0XY6KhDGtJz6jJ/2fZpPTLRQWRPeRDCIyUfmBQ84tk3egcJE9522ywgi9Ku8zfuFsduN8RHTMN8nNO6wlHJ01SrhW+vmTK5rjfT1gn2M/D6WQTgw3ZaTKhahdij3+Az6E=;6czibamFNFCoKFWKdNqSPA=="
+secured: "AxHX425dCr1Esz3w8e4O03sxdcaHKuxwrcbb2n0DSq3GVk7VIG5r8Yfj0hRb7p9vwTAnjRq4JzU3rfLpICyukwRgx33Y519I9XDZFY92YRk1zHXIUIS+j4SJmEowD5eru+XWB0E2+nr8sjr4HvSQjKMvS1aKMcMmwUXX1f+MMSQRNMZhPT19nWgRcr8NaN15rQCvMykrjTq96vCX+Oykv2dnQwuTcY11w/TbC1jceYEeOJ9ebAJ4mEwPoFpul+8+YyqpYXHI7C5GnLZM4Zlutcc8NJHy4d5ly8pyRs2XNxnwAcRYqORowfaFVmXe/rBtBVPCyZmh9Fvq0dggxdJG7ylh5TK3NqnZmCM98qp4ETQ=;LA63Q/4W3ox9yzjlCtjPlQ=="
 ---
 

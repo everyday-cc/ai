@@ -84,20 +84,6 @@ related:
         width: 768
         height: 633
         isCached: true
-  - title: "Democratizing the quantum ecosystem: Microsoft’s Krysta Svore on the pathway towards a scalable quantum computer"
-    excerpt: "Krysta Svore, vice-president of Microsoft Quantum, talks to Tushna Commissariat about the company’s journey to quantum advantage"
-    publishedDateTime: 2022-08-30T09:30:00Z
-    webUrl: "https://physicsworld.com/a/democratizing-the-quantum-ecosystem-microsofts-krysta-svore-on-the-pathway-towards-a-scalable-quantum-computer/"
-    type: article
-    provider:
-      name: Physics World
-      domain: physicsworld.com
-    quality: 18
-    images:
-      - url: "https://physicsworld.com/wp-content/uploads/2022/08/Svore-frontis.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "tEz4TcilWT3ePEA7KYXKCcg6dpRaXgktixIWLU3d6Au+pr9lYyQl4mZDY0cKbOChWKDc4Fe9xBEYMkwuJd5JZzPshZY1JtBj1iGwfNBgZOoOHst2lFO5KpdUsFohcpjs3oECcd8left6jK0YKwUwxN4M/Mx6ETVEkD9H/8B0JXKdzhdTp3sE9QVpDgHYDmz32RyvNGdUMNwJeh/Y+4F4VmCUxWdwrYhCfIU+uy90JG/3xz09X/a0gBzWMKUx2iba2dRylSnAFo09tNDRm1EvDwHeZhTvmBRutz+Lw1lHco2AxXVQlUkz3GlrpmAZyKykYW4L3XCLP+Hd7vbhApIBr1OlPzYF3yFLAYqty9A9p+jwc2co8+iVmrESQzHajf7jtU5Y3HF+JvdJWCiN3XygDTSHGRgYhX5oklA2w65xRmyMhxtLK5TzWC3craa2QF7RDZYqDOwpKW0AuHl9cX/c/VsOrDtpGJipoCUEgyrF7iQsduhBnJKvPqYtxPc5BCymb4X0ErCnlTkDtxgyJniVjg==;+i1FxcQa4TNdrwSyfXh8Gw=="
 ---

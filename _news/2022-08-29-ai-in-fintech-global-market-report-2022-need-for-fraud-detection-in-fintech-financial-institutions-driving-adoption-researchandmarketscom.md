@@ -1,20 +1,26 @@
 ---
 category: news
 title: "AI in FinTech Global Market Report 2022: Need for Fraud Detection in Fintech & Financial Institutions Driving Adoption - ResearchAndMarkets.com"
-excerpt: "The global AI in fintech market is expected to grow from $7.25 billion in 2021 to $9.13 billion in 2022 at a compound annual growth rate (CAGR) of 25.9%. The AI in fintech market is expected to grow to $24."
-publishedDateTime: 2022-08-29T10:25:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-ai-in-fintech-global-market-report-2022-need-for-fraud-detection-in-fintech-and-financial-institutions-driving-adoption-researchandmarketscom"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-ai-in-fintech-global-market-report-2022-need-for-fraud-detection-in-fintech-and-financial-institutions-driving-adoption-researchandmarketscom"
+excerpt: "The “AI in FinTech Global Market Report 2022” report has been added to ResearchAndMarkets.com’s offering. The global AI in fintech market is expected to grow from $7.25 billion in 2021 to $9.13 billion in 2022 at a compound annual growth rate (CAGR) of 25."
+publishedDateTime: 2022-08-29T10:26:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-asia-south-america-0232c251b16047f18c094cc48e26a795"
+webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-asia-south-america-0232c251b16047f18c094cc48e26a795"
 type: article
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "eGsvZH1oSfDWx68Qxra9nKIbIJQ2vrqbp7X0rGWZSfV/EpUH6GmpzrJx6P5WoSPvlZuRcAdGdivokddHGKvpsbVmFwKMHwfNuY7h6OKdA5mMjZQsS6VQOsY0pXlt6LMHfM7p3tfh6/5IPS5XZhvOx2YqFiTlRIwt6jarANdZtRWzOmEKgyB8YdaS3iNJD7xpaD9dv0gOcvxUBvqL+pgcLgpcLx+1b7XoruWzMeySjWGjKe+L5gPDV92EU4gOnsTnUuQZyQunzgrRr7LUQBBnIunlrzsHmT1Sw+dm1bvFc5XhkDbkrvkLrSNFfY7gl8cwfRH2OKQRFujmn7RuBdcXD3lpCsRWVnAk7jobyXuEkpw=;SADLXDoYWZ0WqJBH0oWSBA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "mki3dcOZeXz8xpwgYcOXIrp2Q8njvRlYXh66QxYg+tyCdMTCH99w4d4xeoT/eWJ5bDbS6Bs6lqt94rmKhm+sk/sow6PAheLKwd5lthDc9/gTscYMnNA2obgU1dgIXT1YSgfF2sTFCHP6BVMvGzn1tLACjnUR/nmHcv11sz3JRuwPL4ljJenhM/d4pHqdcm1Ua7iF665xp7bFgtyPdeBzvZ7H9DkSGv7mg3SS9ekqDISdkqB2e/uMpIS44Hq5jr42RlSjIA5g9dFYxmNytQ2gxZOM0pAuRfQhJhFgWxKk1ll20uWLB3MOwDhGHVlf/qpbgqb6mardvk0APQsGuHbVchKMHZH0LQ4voENetujcHhI=;tr2kDUEgD3WSWYp6bFX/Gg=="
 ---
 

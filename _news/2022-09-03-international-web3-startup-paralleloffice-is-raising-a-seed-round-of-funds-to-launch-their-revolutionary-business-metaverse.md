@@ -34,22 +34,6 @@ related:
         width: 615
         height: 383
         isCached: true
-  - title: "Coforge to open centre of excellence for Metaverse and Web3; stock jumps ~2%"
-    excerpt: "Coforge Limited announced the opening of its center of excellence (CoE) for the Metaverse and Web3. The institution will encourage multidisciplinary research and discover multiple use cases for the metaverse and its interaction with digital technologies such as blockchain,"
-    publishedDateTime: 2022-08-30T09:06:00Z
-    webUrl: "https://www.indiainfoline.com/article/news-top-story/coforge-to-open-centre-of-excellence-for-metaverse-and-web3-stock-jumps-2-122083000439_1.html"
-    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-top-story/coforge-to-open-centre-of-excellence-for-metaverse-and-web3-stock-jumps-2-122083000439_1.html"
-    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/coforge-to-open-centre-of-excellence-for-metaverse-and-web3-stock-jumps-2-122083000439_1.html"
-    type: article
-    provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 41
-    images:
-      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
-        width: 350
-        height: 233
-        isCached: true
 
 secured: "7KwNsFwjpHrbmCf/Az+dPvweJ59gtUWBnPbIDjeOwmxIlj975nyXzLnZaaXl9wpcUDoZEHm/JwPz6arX/G2dBqoWY6iEJmLlLMSvVtIt+UnFbXYqHZ8Ay5q0r08CJyPuo9ZjmTpDkMA3AQ3XTkXEAEEMbQvFN+eo400vWV48olIYE8OY40tmgTJ7g/h9KhZUvU6rWtHTy6RN/hqjMvJ80a3uVBR/d/LMEBQmF2xEnHAs2IGNIx6Cqb5X1G7WHEMaCe+aT1BTTgdb69647sCqp9IiRGUBllhRZzWfXQjZJ7ZAe+HdV8hd44giyfbTK0Z86Sl1ALn7EBIU3lXY/ACWzYRXM5ux1ijKVva+p0ygACM=;nVt64hCpl20SwivulVftuQ=="
 ---

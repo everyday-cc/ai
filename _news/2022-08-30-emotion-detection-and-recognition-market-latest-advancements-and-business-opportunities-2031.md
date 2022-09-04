@@ -41,6 +41,31 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Researchers propose automatic speech recognition tech"
+    excerpt: "Popular voice assistants like Siri and Amazon Alexa have introduced automatic speech recognition to the wider public. Though decades in the making, ASR models struggle with consistency and reliability,"
+    publishedDateTime: 2022-09-04T00:26:00Z
+    webUrl: "https://punchng.com/researchers-propose-automatic-speech-recognition-tech/"
+    ampWebUrl: "https://punchng.com/researchers-propose-automatic-speech-recognition-tech/?amp"
+    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/researchers-propose-automatic-speech-recognition-tech/?amp"
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 59
+    images:
+      - url: "https://cdn.punchng.com/wp-content/uploads/2016/10/17155511/punchlogo.png"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Removing the data security barriers and concerns to accelerate speech recognition usage in radiology"
+    excerpt: "According to Scribetech, security is a key barrier to adopting speech recognition – despite its potential to accelerate reporting time, drive accuracy, and enable radiologists to deal with a ..."
+    publishedDateTime: 2022-08-31T08:50:00Z
+    webUrl: "https://www.kxan.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/"
+    type: article
+    provider:
+      name: KXAN
+      domain: kxan.com
+    quality: 21
 
 secured: "cJJsaT9kgEybuzR0AnQQH/3RocNgaePZGv8AJJRlAonYmGghqooySb+ODVkN/Gd5MUiaamX7NoSbkaaSWaLOuF8qx91fsklBEXL3KSz1T+R4u8QGDLAXpukPg92dwCQraecWLkwVtW0VjGMrt9sTizgnRiTYzQNEwSfxJCJuMC93sdhxwujJUynP1hePxuUNht+Zmns9vygQBIVLiwUh2huXABRJ3QmMA3v/hZ+KYJ0zIKV99b4tl1O8xZFFQKWdCtzsxvCfAA0BXjl9zjZ6JsWZLZAyXHWJOl4vieMd3jKtZG/H9hY+GhNrKOf/ZTO77a49yLlRhjoVapAjyBQldMERQnPWRaYueob+44u3Lpk=;HgA0cheBMEU45kon69Q3lQ=="
 ---

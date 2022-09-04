@@ -63,20 +63,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "How AI Is Shaping the Future of Customer Interactions"
-    excerpt: "Artificial intelligence isn’t going anywhere. In fact, it’s beginning to take the lead on customer interactions — but not without challenges."
-    publishedDateTime: 2022-08-30T11:02:00Z
-    webUrl: "https://www.cmswire.com/customer-experience/how-ai-is-shaping-the-future-of-customer-interactions/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 39
-    images:
-      - url: "https://www.cmswire.com/-/media/5fa25dc1474f429fac7153892ff8d022.ashx"
-        width: 640
-        height: 480
-        isCached: true
   - title: "AI Startup Replicant Is Transforming Customer Service Centers By Making Them More Automated—And More Accessible"
     excerpt: "The company is harnessing artificial intelligence and machine learning technology in an effort to remake call centers everywhere."
     publishedDateTime: 2022-08-30T18:19:00Z
