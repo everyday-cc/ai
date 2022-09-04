@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI in Security
+  - AI Hardware
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/31ca8a86b0b988f06219255b37675f4373f61dcd/2021/06/09/9a678cf1-16a0-46b5-b168-4a1cf67d1a6c/data-center.png?width=1200&fit=bounds&format=pjpg&auto=webp"

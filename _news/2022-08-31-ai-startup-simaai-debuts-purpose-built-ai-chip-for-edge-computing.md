@@ -24,6 +24,7 @@ topics:
   - AI
   - AI Hardware
   - Machine Learning
+  - AI in Robotics
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/880f030bba7a4480fe84f79f48a479e12de7a17e/2022/08/30/9a7626ba-c727-4205-8109-e0d5caf30154/sima-mlsoc-evaluation-board.png?width=1200&fit=bounds&format=pjpg&auto=webp"

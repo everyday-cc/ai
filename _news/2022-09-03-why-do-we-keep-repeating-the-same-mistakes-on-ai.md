@@ -25,6 +25,7 @@ topics:
   - AI in Autos
   - Machine Learning
   - Natural Language Processing
+  - AI Hardware
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6312667f63bf3c4af5475054/0x0.jpg?format=jpg&crop=2531,1423,x158,y207,safe&width=1200"

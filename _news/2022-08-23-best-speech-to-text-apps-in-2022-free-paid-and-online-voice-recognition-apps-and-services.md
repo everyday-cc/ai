@@ -3,8 +3,8 @@ category: news
 title: "Best speech-to-text apps in 2022: Free, paid and online voice recognition apps and services"
 excerpt: "Here then are the best in speech-to-text recognition programs, which should be more than capable for most situations and circumstances. Dragon Anywhere is the Nuance mobile product for Android and ..."
 publishedDateTime: 2022-08-23T05:47:00Z
-originalUrl: "https://www.techradar.com/uk/news/best-speech-to-text-app"
-webUrl: "https://www.techradar.com/uk/news/best-speech-to-text-app"
+originalUrl: "https://www.techradar.com/news/best-speech-to-text-app"
+webUrl: "https://www.techradar.com/news/best-speech-to-text-app"
 type: article
 
 provider:
@@ -19,12 +19,6 @@ topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://cdn.mos.cms.futurecdn.net/uAcBuTUyyJJiE8ZyAKKW9D-1200-80.jpg"
-    width: 1200
-    height: 675
-    isCached: true
-
-secured: "Xx+gexQV3ov5xNdZBc+Qv69xKv/rz+g6B6Xp5Rl3aq3FZDy6BDJ3I0ImaFZKyB8GWN6LMYk1iHPypxvTiaOhrWd9cSF6tC/psQ8t1/fMGq072Wn3yB3HfSpg0OuhbN1F3lrcZ+3Qtso1U/9dDuYMTm/Nz2f+RqrC0NMCrWwQXFHyNUbAitHR/z6tXarZiVHwEWhHdQ8AGTKOgCyDmRMVwF02bjE1K0ZFMB276A2z4e0jmsLOISR3Pf6cbt63uco25km8kAE1vDMYz60C6mWKQ49g0M8qFAMFMa9lA5AH4DkZ5ybHvAJ+AbUQKG50sTyFoDVCjL1IdtWwm+OQrjRWlijl5CvP+3adYM+Ih+rZBPI=;jzx4xV8gZwHFTK4RL9wk2w=="
+secured: "FWC2Sp/jIiDOeCwCmlI3Y9U9w73mQZVjbt1AjBp4iiGH1Kt/4B5SUrEhYdlK7lE99WW7TecLONic3DKJcpdeFhOZWxdo0cOiQ5xBP9bKduJGhlZqTfM4lpP4+guKzKfEUXJqaQD1WhOHXSUTNlY64v9emSI8AkfRRnT903IAARF0/YPyvQgvVGFsC8AvqCyUlxvWjg9BOiEVv1Gf+P2W3DulnkW5M+2h2uka48bgpqI9YdNYfXb37asK7UHjgcm0LWsa2m61y2KI1b1bP8SlQBGd0GfrtV1pYFgwbioPwAzv1E0a2a5E2A8iZg5E41mPwrPb3hWdUUx5SLmukzKuwXyk6bBVEj4WT60ZKE5VEyc=;HaoT+kd70KeaGG8lyHDbvg=="
 ---
 
