@@ -7,7 +7,7 @@ originalUrl: "https://www.technologyreview.com/supertopic/artificial-intelligenc
 webUrl: "https://www.technologyreview.com/supertopic/artificial-intelligence-featured-stories/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "A new AI can finally illuminate the Moon's darkest places"
-    excerpt: "The Moon's rotation ensures it gets consistent sun around its equator. However, some pockets never receive any rays, deep craters, and pocks at high latitudes, as well as the Moon's polar regions, which have high walls that protect the crater floor from harsh solar radiation."
-    publishedDateTime: 2022-08-30T15:38:00Z
-    webUrl: "https://interestingengineering.com/innovation/new-ai-illuminate-moons-darkest-places"
+  - title: "Using AI to Investigate the Supply-chain Companies Aggravates the Global Supply-chain Turmoil"
+    excerpt: "We have to say that both the scope of crackdown and the proving period lead to high cost of compliance that global companies have to face in the short term. Evan Smith, CEO of Altana AI,aSupply Chain Big Data Analytics Company,"
+    publishedDateTime: 2022-08-31T00:25:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/wdwire-2022-8-31-using-ai-to-investigate-the-supply-chain-companies-aggravates-the-global-supply-chain-turmoil"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 37
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/2022/08/30/image/jpeg/jOBQAgfPdKm0KUUC8sTLUuEgmespDS1LNKYuGztV.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 8
 
 secured: "tFctIbxFqNPnuVq6xE29VrNwSLiweIjFXXxK0o6Ru6TWCKysI8vmONb9quC3KEYQr7IiGrNUr2DACbsx25pbqnFLJBqypHbdiEinyW3Ii5PhkS0oYfCJ+8NUlV4sQnsjc43wKgYNhlR6Bw9gDM1a/jEA9fMWgjbf1JdydDkQck87S/bjeHKrMx9AyeWUpvWPnc0gHWl72VnFsWzEXxBoAQAQyxGCQE9fFGVgaFsm3SnCLNS7n7tTvPLbHHl51hPz1L0frtue7KklxzyH/YNpXHMcAjxeSpfKa/cfhVPaTHemPR1sqoTOvWZyH25rlO4EcRWWk6XbyF157zU1ps/3WQ4xm+79bKHIMfQe8pscEUqftQEdujiq1XPjl3vXQDuOAorl9MQCSjSzeWaCHnH8SR09F679RDFUEVucIZUD5/X9I728tkNcVKF/mRrfTNDq3LEUt4mgb6dDXene9j3A8bc/xQmKzM01hRDnOqjNBgAn+1FgoXQneOzb+Rem7rXGZ4qLbUKHpzCN0SUssRtDuw==;bv9IXdrjwYaUpbwy1CNI4A=="
 ---

@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) Chips Market Future Growth and Business Opportunities 2022-2025|Latest Research Report"
+    excerpt: "Global \"Artificial Intelligence (AI) Chips Market\" in the forecast period of 2022-2025. Artificial Intelligence (AI)"
+    publishedDateTime: 2022-09-02T08:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-future-growth-and-business-opportunities-2022-2025latest-research-report-2022-09-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) In Supply Chain Market Size Share Volume Trends Demand Forecast Report 2022-2028"
     excerpt: "The global Artificial Intelligence (AI) In Supply Chain market is segregated on the basis of Technology as Machine"
     publishedDateTime: 2022-09-01T13:50:00Z
@@ -57,19 +71,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Drug Discovery Market Size, Set for Rapid Growth and Trend by 2022-2030"
-    excerpt: "The artificial intelligence (AI) in drug discovery market size is expected to reach USD 4.13 billion by 2030 according to a new study by Report Ocean. Request To Download Sample of This Strategic Report:-  Report Ocean presents a new report on artificial intelligence (AI) in drug discovery market size,"
-    publishedDateTime: 2022-08-31T04:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-size-set-for-rapid-growth-and-trend-by-2022-2030-2022-08-31"
+  - title: "AI in Fintech Market Report 2022-27: Size, Share, Growth, Trends And Forecast"
+    excerpt: "The global AI in fintech market reached a value of US$ 9.4 Billion in 2021. Looking forward, IMARC Group expects the market to reach US$ 36.1 Billion by 2027, exhibiting at a CAGR of 26.1% during 2022-2027."
+    publishedDateTime: 2022-09-01T00:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/ab28710855/ai-in-fintech-market-report-2022-27-size-share-growth-trends-and-forecast"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28710855"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28710855"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 56
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.abnewswire.com/uploads/1661925524.jpeg"
+        width: 750
+        height: 500
         isCached: true
   - title: "Artificial Intelligence Market Size, Trends, Industry Research Report 2022-2027"
     excerpt: "According to IMARC Group's latest reserach report the global artificial intelligence market reached a value of US$ 56.5 Billion in 2021. Looking forward, IMARC Group expects the market to reach US$ 308."
@@ -87,29 +103,17 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Computer Vision Market Share | Trend Analysis, Production Scenario And Supply Forecast By 2031"
-    excerpt: "Computer Vision Market Size Computer Vision Market size was valued at USD 11.22 billion in 2021 and is expected to expand at a compound a"
-    publishedDateTime: 2022-09-01T17:56:00Z
-    webUrl: "https://menafn.com/1104795560/Computer-Vision-Market-Share-Trend-Analysis-Production-Scenario-And-Supply-Forecast-By-2031"
+  - title: "United States DoD Artificial Intelligence Market Analysis 2022: Programs Listed from the FY2022 DoD Budget Request and Contract Activity for FY2021"
+    excerpt: "The \"United States DoD Artificial Intelligence Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. This research service focuses on US"
+    publishedDateTime: 2022-08-30T20:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/n28692864/united-states-dod-artificial-intelligence-market-analysis-2022-programs-listed-from-the-fy2022-dod"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28692864"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28692864"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 27
-    images:
-      - url: "https://menafn.com/updates/pr/2022-09/01/EP_ec4a4image_story.jpeg"
-        width: 1173
-        height: 614
-        isCached: true
-  - title: "Automotive Artificial Intelligence Market Share, Size, Growth, Future Trends, Key Players and Industry Analysis 2022-2028"
-    excerpt: "The global Automotive Artificial Intelligence market is segregated on the basis of Component as Hardware, Software,"
-    publishedDateTime: 2022-09-01T14:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-share-size-growth-future-trends-key-players-and-industry-analysis-2022-2028-2022-09-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 1
 
 secured: "GIt4P4GXwYLlYCh5tSxMUoSMMq5GyHFpy7GsgaihMyJxU/f/2HIcwlpIb9BfVGjeDhjKOSHmHD1OhlsmhpAGCEPijMBY3NaDwb9Mkx4YYW0mtdLK27Vj+93CvKVTksf2An7q0IH+fmsg4WylSeww6ROjtEx3y9DEp4iVXw09xvnYFAizCo6B1C7aARCwAYcDim8VfymTPAyXwWc/s0474cVxXcIef1553ZWJYlDul1tCstwv76gl1VJEalRNns3KagDhQgSfgJ23IE1TlYcn7iNb2FbCz+Xl1V4ozQcvCFltA7TIiiowC3SXD4x49DMNokO6FSCP6dgXoW6ElI5IPlS173Me/hmowK9cNmvNiQc=;cpsO4jzxmbekbYg2kgXskA=="
 ---

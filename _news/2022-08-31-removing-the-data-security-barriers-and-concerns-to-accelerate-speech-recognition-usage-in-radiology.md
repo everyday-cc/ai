@@ -2,22 +2,28 @@
 category: news
 title: "Removing the data security barriers and concerns to accelerate speech recognition usage in radiology"
 excerpt: "According to Scribetech, security is a key barrier to adopting speech recognition – despite its potential to accelerate reporting time, drive accuracy, and enable radiologists to deal with a ..."
-publishedDateTime: 2022-08-31T08:50:00Z
-originalUrl: "https://www.kxan.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/"
-webUrl: "https://www.kxan.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/"
+publishedDateTime: 2022-08-31T08:49:00Z
+originalUrl: "https://www.wdtn.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/"
+webUrl: "https://www.wdtn.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/"
 type: article
-quality: 21
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: KXAN
-  domain: kxan.com
+  name: WDTN
+  domain: wdtn.com
 
 topics:
   - Natural Language Processing
   - AI
   - AI in Security
+
+images:
+  - url: "https://i0.wp.com/www.wdtn.com/wp-content/uploads/sites/45/2022/09/AP22247098588016.jpg?w=2000&#038;ssl=1"
+    width: 1999
+    height: 1659
+    isCached: true
 
 related:
   - title: "Financial language and the evolution of speech recognition technology"
@@ -53,6 +59,6 @@ related:
         height: 400
         isCached: true
 
-secured: "O8vXcQAq1jNlfAh0ZgnbHGGEK8NycarU7s6J3VGzEt3wEpZ6bby92s3ANNE4q9hhInL7u8kdtcxe5iVMr1FxaTRQEmwfig2jLqwlAiY+oobVEvzq3roX5h9IKsV2zC5huKjJI1NeTwsw09dzmfjRdBPTl0UY008xToLGOkYEhegk4d2MukM3pUYbpWRtd8hHjTbBxwEKmoivAm7SObZluS5AfcyD1pzaIIJls9vukeh4C/fenJCD9RdcBVrLG8ViTF+QnwruVwiWkJsyvUl/h/NZs5U9AWkEAfRVe4Ewc+Bk7l0IsyDD5IGJjtx97m2XxM9ZE5LWUSpHKc2TAkz9Ab33SYkLsYyecnMShIR46XA=;86lnOQ1S+w2n1AjXmGSGhQ=="
+secured: "i6Ig2IDcEZaEQgyeCUeGUV1C7t6IVY7kHbGkY147wG5Ids0U/dZve6wI3qecHn9vseXoJeBLfFEFJbMqe91NxaUg2da9dnxeV7f0eUWo0kcBauUymq62p8xbPFfGgOTH9cM2FWUkhC39SeimrkIsiETJXe/TG90y38qJAorKkG+jl5KlSpizzEMKFTfSwWFzP5AlCdo+sDKvXyQJ4eV4lYxK+XRO10Xq+42SaJsUmVVgNeVrn2d175p5FLpxAPyOKBA1pVfTv/0KpnMGbtHvezti4EzL1+NGQi4pVlw/DXLKTWMeIAIOkRGVud66r2z63uxpneRw0S2svJ9jGeEyKVHOsgTmliuFsKIsgo3siRs=;0+XN2mbi3gMkA9poET5EPg=="
 ---
 

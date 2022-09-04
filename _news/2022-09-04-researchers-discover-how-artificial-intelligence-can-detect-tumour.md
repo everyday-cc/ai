@@ -38,7 +38,7 @@ related:
     provider:
       name: Hindustan Times
       domain: hindustantimes.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://images.hindustantimes.com/img/2022/09/04/1600x900/_b58a8de0-332a-11e8-9916-7e63ef9446cf_1662275576577_1662275576577.jpg"
         width: 1600

@@ -45,13 +45,18 @@ related:
         isCached: true
   - title: "Removing the data security barriers and concerns to accelerate speech recognition usage in radiology"
     excerpt: "According to Scribetech, security is a key barrier to adopting speech recognition – despite its potential to accelerate reporting time, drive accuracy, and enable radiologists to deal with a ..."
-    publishedDateTime: 2022-08-31T08:50:00Z
-    webUrl: "https://www.kxan.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/"
+    publishedDateTime: 2022-08-31T08:49:00Z
+    webUrl: "https://www.wdtn.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/"
     type: article
     provider:
-      name: KXAN
-      domain: kxan.com
-    quality: 21
+      name: WDTN
+      domain: wdtn.com
+    quality: 41
+    images:
+      - url: "https://i0.wp.com/www.wdtn.com/wp-content/uploads/sites/45/2022/09/AP22247098588016.jpg?w=2000&#038;ssl=1"
+        width: 1999
+        height: 1659
+        isCached: true
 
 secured: "kMp/EjPsQsPs+O56+YdL1Peu+x3HixlyA+qg2oUcJNR42SUMFVstPdiGpgxl+f00Kll8CVUiP7wNSD8+XRl+6fmdrIANvwqY3S6I0gHYSQYzdZxxRo73dJx7OPecG1XqoHMm4JtwcwHsR9kQSbkSXI5vkSUKsYE/XnqnwFxe1VxmLGsSCcg/MTQmNugdC90brKHkHypC78lwcGqq6q326NQBdS98sFvlAurW5Q+F99QxQUZx88zhdHwW21UFnSdjI8iRcpEV305MqNT9XF0gww7LbWsTtqV4NE6Irjl3FMEydSsyylaZzYdPtbLNdHGTjQUhB4lRbg6v1MP14b8Lu7mcyzDbXyxT5xSYvf1Uh90=;p04CKKzMfBTeqJR8/A1MnQ=="
 ---

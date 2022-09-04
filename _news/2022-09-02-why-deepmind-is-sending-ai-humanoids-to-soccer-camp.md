@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Why DeepMind Is Sending AI Humanoids to Soccer Camp"
-excerpt: "DeepMind’s attempt to teach an AI to play soccer started with a virtual player writhing around on the floor—so it nailed at least one aspect of the game right from kickoff. But pinning down the mechanics of the beautiful game—from basics like running and kicking to higher-order concepts like teamwork and tackling—proved a lot more challenging,"
+excerpt: "There’s controlling the full humanoid body, coordination—which is really tough for AGI—and actually mastering both low-level motor control and things like long-term planning.” An AI has to re-create everything human players do—even the things we don’t have to consciously think about,"
 publishedDateTime: 2022-09-02T11:00:00Z
 originalUrl: "https://www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-camp/"
 webUrl: "https://www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-camp/"
@@ -21,9 +21,9 @@ provider:
       height: 50
 
 topics:
+  - AI in Robotics
   - AI
   - Google AI
-  - AI in Robotics
 
 images:
   - url: "https://media.wired.com/photos/631134163dfe1372fb611162/master/pass/soccer_HZ_science_GettyImages-520264154.jpg"
@@ -84,6 +84,6 @@ related:
       domain: newscientist.com
     quality: 19
 
-secured: "X5alfkPGH5zMTIGOYqa0UZJeHPCdZ9edGYNkUo9LxEQxMZyOKJeVqv1v2t3/4eUx/ndYcWmi/tJSq3T+dSGrqcOhiX3jbylsC3hgxhVOBMACUthA/gkOc9TQ5miFsOlE3M0iYO1L6Jx8p8EB/4ozMpDBWdM1rQiJlpwVNT5mZcFHhSIsg6f719NDUChQpmlFLKvnt1LPe+VMN3UneM92lHeBvQDfxgacSmKAXmlhUAVvPXU3HJIf6R6OZs4i+yoHF2+dj4zX2Me512U09oS5dgPQCy1KeV9SOlNVsl0ooBEEeJQpMhm4LoUaHTH+h79/vpENUyEnihn29u/B7XQ6aDOcW9OM18588mjk7K2GGuNJ2BNiE6qzrqA19wT3Oq2cIqn8TDyOLA7FX0aAT3RL+aAF++tA+zN+LY8lJ9HX9PgtNuW5H282um6rKWEBXvyKVjIvhUwq5ryQtokkC3kB0vEAHS0x2dVHOIrrb7FjI9QFx7Uyw2EQzWcn++69K/aDlpYArPtChiazTF5X4AospA==;JwJ2b+s4ZYyqEZ76LlzlVA=="
+secured: "2rw6NVGIVpjFqYyrV1GTVoy/mWFhGn/e+RDDl1zmgO3Rj+9eA/rhEwJqWTHGgoVKSf0aY4gxVa/Q+9j4wBtbkZTh/7WSD7+sW58aLtDvrXEzdsJLlZ15Zs9FgDDMOO0NziJWImyznoIC6ln5I/0Av7I5fJRTwtXSTTUCeqi5n0bUTEsREb8gj2VMl8lBf49DEqG4gIb1vSCI6aRgkJSUqeUsAUOllRX0aT25AQL2ztPaUc/dl20coLVPibu+s7RdUa3BTgBZNotA2QVK9OqmmnIKX5F0nq091KUCF02MA7IsHN8PGuUs6soSzyA2OIaMajOoZelxqM5/8xbqoA92GRDAvSS9rU6UWRQgeqnRdhg=;fURpaf+a15J1sWxlh2WzWg=="
 ---
 

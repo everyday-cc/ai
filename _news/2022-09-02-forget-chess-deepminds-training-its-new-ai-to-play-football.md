@@ -30,7 +30,7 @@ images:
 
 related:
   - title: "Why DeepMind Is Sending AI Humanoids to Soccer Camp"
-    excerpt: "DeepMind’s attempt to teach an AI to play soccer started with a virtual player writhing around on the floor—so it nailed at least one aspect of the game right from kickoff. But pinning down the mechanics of the beautiful game—from basics like running and kicking to higher-order concepts like teamwork and tackling—proved a lot more challenging,"
+    excerpt: "There’s controlling the full humanoid body, coordination—which is really tough for AGI—and actually mastering both low-level motor control and things like long-term planning.” An AI has to re-create everything human players do—even the things we don’t have to consciously think about,"
     publishedDateTime: 2022-09-02T11:00:00Z
     webUrl: "https://www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-camp/"
     ampWebUrl: "https://www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-camp/amp"

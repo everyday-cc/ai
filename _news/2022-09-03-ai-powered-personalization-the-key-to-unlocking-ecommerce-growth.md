@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/ai-powered-personalization-the-key-to-unl
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-powered-personalization-the-key-to-unlocking-ecommerce-growth/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Create a batch recommendation pipeline using Amazon Personalize with no code"
-    excerpt: "With personalized content more likely to drive customer engagement, businesses continuously seek to provide tailored content based on their customer’s profile and behavior. Recommendation systems in particular seek to predict the preference an end-user would give to an item. Some common use cases include"
-    publishedDateTime: 2022-08-30T15:39:14Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/create-a-batch-recommendation-pipeline-using-amazon-personalize-with-no-code/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 86
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/30/batch-recommendation-personalize.jpg"
-        width: 1533
-        height: 766
-        isCached: true
   - title: "Trust building: 3 top tips for better AI-powered experiences in ecommerce"
     excerpt: "Overcome the obstacles to building consumer trust in your AI-powered ecommerce website and learn the top 3 ways to build that trust."
     publishedDateTime: 2022-09-02T17:07:00Z

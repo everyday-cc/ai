@@ -66,31 +66,6 @@ related:
         width: 2560
         height: 1706
         isCached: true
-  - title: "AI in Fintech Market Report 2022-27: Size, Share, Growth, Trends And Forecast"
-    excerpt: "The global AI in fintech market reached a value of US$ 9.4 Billion in 2021. Looking forward, IMARC Group expects the market to reach US$ 36.1 Billion by 2027, exhibiting at a CAGR of 26.1% during 2022-2027."
-    publishedDateTime: 2022-09-01T00:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/08/ab28710855/ai-in-fintech-market-report-2022-27-size-share-growth-trends-and-forecast"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28710855"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28710855"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 56
-    images:
-      - url: "https://www.abnewswire.com/uploads/1661925524.jpeg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Investigation And Security Services Global Market to Reach $527.64 Billion by 2026"
-    excerpt: "Investigation And Security Services Global Market to Reach $527.64 Billion by 2026 Aug 30, 2022 (PRNewswire via COMTEX) -- PR Newswire"
-    publishedDateTime: 2022-08-30T16:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/investigation-and-security-services-global-market-to-reach-52764-billion-by-2026-2022-08-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
   - title: "Fintech move to forefront of residential mortgage lending as top banks retrench"
     excerpt: "Triad consumers who choose a bank or credit union to originate or refinance a residential mortgage are becoming increasingly in the minority."
     publishedDateTime: 2022-09-04T04:01:00Z

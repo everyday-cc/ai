@@ -1,28 +1,24 @@
 ---
 category: news
 title: "ROBE Array could let small companies access popular form of AI"
-excerpt: "A breakthrough low-memory technique by Rice University computer scientists could put one of the most resource-intensive forms of artificial intelligence—deep-learning recommendation models (DLRM)—within reach of small companies."
-publishedDateTime: 2022-08-29T19:48:00Z
-originalUrl: "https://techxplore.com/news/2022-08-robe-array-small-companies-access.html"
-webUrl: "https://techxplore.com/news/2022-08-robe-array-small-companies-access.html"
-ampWebUrl: "https://techxplore.com/news/2022-08-robe-array-small-companies-access.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-robe-array-small-companies-access.amp"
+excerpt: "ROBE Array could let small companies access popular form of AI: Low-memory technique for deep-learning recommendation systems. ScienceDaily . Retrieved August 31, 2022 from www.sciencedaily.com ..."
+publishedDateTime: 2022-08-30T02:36:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/08/220829143936.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/08/220829143936.htm"
 type: article
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Hardware
+  - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/robe-array-could-let-s.jpg"
-    width: 1650
-    height: 1099
-    isCached: true
-
-secured: "TEI+/YtC3yh6YnDjtpz131tD3BnxTD/Hr3nDyyg59t1I1I7yrkXJKI7i4w4XpMuKDuEgA3cKvIIey7/j5wYaIId6QVqEfdSoZF6TQqjJU9tQNSjQiS4AfMW/PARU3c4ON2EMtyHLcAOjbChWsm4um7VkpD6gymg1NRjRznn3I5vz1ZDMAAuQruJ+ZS6yi/B3xDIVNU1JjE3mNAq420yNrcl511RgjzVIPC/RB8VGcm6Th85nLcuh7S3dacTnnhw5HfEmvwd3lXJn58Xxy/5NYkRyklNLvZcArbEHDGFx6D+FJeQH82q1XCwhw/LSHQgBzpXKPcCr00BXQFZWtxhYPiM6FJ7JESIKneQCPU/UsDU=;qS6Sua5QywcOFbeCsDSA6w=="
+secured: "p5P9+VE+ij3VuYQUKpFkkfO1TmgZeiXgLI3n2KC/E5njH+Or1HTGsGJ5pWxQc39MkHE6Ec0hRN847J9diLw/VexhS4N5KKldo9Hd8/Rdf6mF0XnqNivJejJ2qhNRB+ODjdPhiFlgU8hQBwRE9BzM0oCQWx2IU+tyeZXji8rH5ck0bFXOP/7hvO2Z4dlMRvWiWHHDKGdnNm9t8GYSSdAhxBodyPOEXyvIUpTDRGi5L6vC48dmm5r7OO9CroE/rz9MhZ155blTWl+WYPqtNL2ubRCnAjolfvEiQ9s3sm0p64zcYpDi6X+ybCX4j93SjkCT+4zckH6l3evY5P14k3r3t/rz5JlzCL86A4UGhQrXXbA=;oEZb/q9oLIhq02bpIxuGfQ=="
 ---
 

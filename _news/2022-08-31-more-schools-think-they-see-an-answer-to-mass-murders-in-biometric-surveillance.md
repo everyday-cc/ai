@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202208/more-schools-think-they-see
 webUrl: "https://www.biometricupdate.com/202208/more-schools-think-they-see-an-answer-to-mass-murders-in-biometric-surveillance"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "SiLC doubles its lidar range, could make face biometric matches farther away"
-    excerpt: "A vision sensor startup claims its silicon photonics can see, identify and avoid objects more than a kilometer in the distance."
-    publishedDateTime: 2022-08-30T17:00:00Z
-    webUrl: "https://www.biometricupdate.com/202208/silc-doubles-its-lidar-range-could-make-face-biometric-matches-farther-away"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 21
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/14130058/biometric-identification-from-distance.png"
-        width: 1284
-        height: 853
-        isCached: true
 
 secured: "yCivihC7/xX6lEHI2D73fxKdTBycIhtxFawGjEbNamtFPakBSQLWtVetdzcA80BHWnPF/pOEDQrNnORmOZ/1GhxgFrprfE38/Gk6FFJ10i4FvY55uFt/S6s1Hc+PlLlP/dW+hct1QWKmSal4ZnEPztKvCLLhxPBpcan1Q2HbsJzrMeUcOdx1gF8Fohj/6g0hKC1bWSA5LkHo/UTSNEXr8bkpAhP5Xp8UWRZnRGVRyaxVdLFxGPD6OLJkgfpV6Yk14v14v+Zy6GAya+taigaf7V6v6xJkuGNYV1kKhiIizpCNbblAsqLYpdiKO5eUii3kksnkAU9kkIkqMwuvhhZBMM71Ogo5tyKEZoSiSQQOzMTkRPJQ9VpP4J5fDqHTTvvFUMPn/y9Ym3ojFEpk65+agXu00f3EmdUa5JbQ8salrAPndELGlXZHzMF71/owif6CukLLl/2yOvV7VGxj0SgSH5stWTe4wEW3CaxRFh44cpBwlcdrpItntxvWBy+TAB6LVZzY99/k3o3jF1QAl0QIhg==;Rtr4UbuH1SwNhf+q/UKLwg=="
 ---

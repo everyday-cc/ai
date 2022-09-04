@@ -77,15 +77,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Phoenix Gets Driverless Cars (not Teslas)"
-    excerpt: "That's because Waymo, Alphabet's (GOOGL) self-driving division, has its driverless vehicles picking up passengers in the desert city's downtown. Kate Gallego, the mayor of Phoenix, went for a ..."
-    publishedDateTime: 2022-08-30T15:07:00Z
-    webUrl: "https://www.thestreet.com/investing/driverless-cars-picking-up-passengers-in-phoenix"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 34
   - title: "AutoX Tests Downtown Shanghai’s First L4 Robotaxi Service"
     excerpt: "To reach a large-scale standardized implementation of robotaxis, it’s essential to have an efficient central operation network,” AutoX founder and Chief Executive Officer Xiao Jianxiong told Yicai Global."
     publishedDateTime: 2022-09-02T11:45:00Z

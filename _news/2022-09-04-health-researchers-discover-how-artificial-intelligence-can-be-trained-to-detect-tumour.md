@@ -35,7 +35,7 @@ related:
     provider:
       name: Hindustan Times
       domain: hindustantimes.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://images.hindustantimes.com/img/2022/09/04/1600x900/_b58a8de0-332a-11e8-9916-7e63ef9446cf_1662275576577_1662275576577.jpg"
         width: 1600
@@ -72,6 +72,6 @@ related:
         height: 420
         isCached: true
 
-secured: "nRBugzjlcM07R83TZ5knqoCEmPN+ionYsrxj1Um5DYWLGoDwT/FhLU9hkRenHn+Y//OPlqCxkN4ZppKnntpptGqxMLhAtcDtX62W8ejtd//oFrAeU1+lSUhjpdZa1Layt9Bfn8R3sgco5RASlfRrr478sy4LhjjXBKKUbFF1g9ezbtbNOmVjyZl8XrQxRkQFysZjrqt3jKdAZByhZrz3Fyr+ji79WRxblakFRmejZns5bdXYaZeWc5gpzIsHLln9afvzzryukNKlSQh8T19wCKT3hiEn44S/5byvg1OHD7aGxPlIwJkUqTHG09HUWPsUNdX5SV8mEh79ypniCAEyBypIz9bc/Hjx9MuuW74EMe8=;Cme7sdGtRP0yFNIyN8+dzQ=="
+secured: "ykVPbW+Gr9aDenJ4NOano8hUD9e9kHT3PEg9dVNEq1MMpzd7kD3WNtJzfCHuNM6xv+QPrIsuMQCeHWbi+qFYpEZePEWQ6KtRlAQt2o3gFUebfzvVXz8aGqo3LS/YD4kR1oriEwGhB6xNBe+3DLEWYSSjV+OEgSnEg7Aok4tWEUxINMfsAiordJRjyV+wm3bKu4zbBkpgHZq6izuOV8nzIMXdL2snTLkDjQodc+lHDTF5B5MgDihV3X1qq/wY+1DyMNMIlcl6VzseHrsvlGKUIJP/l8MTdu87OF/eevmKkugg8HIf8SBhc54sGs3OrTp1jCrHpaoQcHNK0DVC6eWLAmcQfcxbNRPhiEowTmOhZAJFrCP117YK7P3FiUTnp9C987bWhWzyXebYro4V0Aj5bkRVl40Dj8mwSQzUlJebnMS+TsJgBXwq12VQ7R9TqoUVHeO0r1Az5aCjAlkJX9Y1x9E1E2A+3VY6vkMzj9lNtsSgeMCBSlACwJYTPQ1l6FEK36+EvxU+aVl2BWl9BiaWMQ==;YBNl5Mjg9O6MOntJygF7cQ=="
 ---
 

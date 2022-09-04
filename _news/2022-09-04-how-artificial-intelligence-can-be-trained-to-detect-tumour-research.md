@@ -8,8 +8,8 @@ webUrl: "https://www.hindustantimes.com/lifestyle/health/how-artificial-intellig
 ampWebUrl: "https://www.hindustantimes.com/lifestyle/health/how-artificial-intelligence-can-be-trained-to-detect-tumour-research-101662275513848-amp.html"
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/health/how-artificial-intelligence-can-be-trained-to-detect-tumour-research-101662275513848-amp.html"
 type: article
-quality: 74
-heat: 104
+quality: 76
+heat: 106
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - Machine Learning
 
 images:
   - url: "https://images.hindustantimes.com/img/2022/09/04/1600x900/_b58a8de0-332a-11e8-9916-7e63ef9446cf_1662275576577_1662275576577.jpg"
@@ -72,6 +73,6 @@ related:
         height: 533
         isCached: true
 
-secured: "GJOHV1eQX9aUPHrbMtrUtbecRmVRMtDQiRuADcEEXVCvqjP0W4AEVOUJrQFKzKgSJWZrEq3b8N0VDG00b8RjB8ccFiLt9Mhp36R96kxqCjXeASBfaOioSYweN0qhH6kdkyNwDr6ysf3vu5dk8qFEbKTwxQQRpY+/3VEt6lLSd1MHABNkib2P6S37mfquweMybiGo0+yw6nz4yhQvNHYUiU5oO+LJpFkpoWe/4N12vrazzUKzAPD/TJ503onixZhgsrzjSJDz/WVizeWcQMvpDnsoylOYREDbpEmBMNgnCy6NRy1pnNzJ+ASluzOgPQ0YRCzplIeWJa4p7wbGnkxaxna6MR4tCVTX08fR3Wi/igg=;MRqBWK2ZgrEchWOnFUHw2g=="
+secured: "sdhmV5wmJeKYeb7RM3W2DLKxicxZl/cuuTfc2msYNvpGzvLekRXJS6psiTClzUeZnSjxktUuPf5F+GrBrnHgzfB8KVS1UpYoAzA7zOZbxoEvBWxHOTqPLROkb789z6rm++RLVOGiJjQC376asCXtwtnwLZZitzIrYx21RkwLADsnuOVrJx0vhkgpP+2ZmRTjilu5jY5AVxt+RKZjvTwN0X2OsCrHJ3HMa+jbgue/iU6T3cVbpWIHBC/GnptJXSlRVebIVoE2sSOH41KC/oA/eNo6CXb4whRWk5I82EDCmbSxAum1NZLx6L0o/dpwELTuM3NaNl4mxHKTjp4VGBWxIBR9Wmy4VBW+z37XloHC5uG+ow8Z17I4v3EQIWKglAx2mc3fhMC4uYc9SxZiRt2qTuK+qlPwxZ66IsVB5kldMlB8d5k4NAJQyDrnFxQuhGVWaqPG5LEzyIvdMyaDKDTsK0o4U2lh2vdMIa+MXLrCrOYqGxGcyqiLEQ/74GMxN5b5Hw4ABzXjTNZhOY2qjtHsLg==;88e1ZeUVRhkYxZvExHvGbg=="
 ---
 

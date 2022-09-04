@@ -27,14 +27,16 @@ images:
 
 related:
   - title: "UBTECH announces global debut of intelligent healthcare robots and solutions"
-    excerpt: "At the event, UBTECH announced its strategy of creating a smart elderly-care system with several sub-systems within specific elderly-care scenarios. They also launched several robotics products for the healthcare and elderly-care domain."
-    publishedDateTime: 2022-09-02T19:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ubtech-announces-global-debut-of-intelligent-healthcare-robots-and-solutions-1031722479"
+    excerpt: "On August 31, UBTECH ROBOTICS CORP LTD hosted a forum on \"The Integration of the High Technology and the Elderly-care Service Industry \" together with the launching"
+    publishedDateTime: 2022-09-02T17:26:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/n28737306/ubtech-announces-global-debut-of-intelligent-healthcare-robots-and-solutions"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28737306"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28737306"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 56
     images:
       - url: "https://mma.prnewswire.com/media/1890962/image_1.jpg"
         width: 400

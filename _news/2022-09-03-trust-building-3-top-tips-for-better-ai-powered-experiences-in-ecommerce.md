@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 618
         isCached: true
-  - title: "Create a batch recommendation pipeline using Amazon Personalize with no code"
-    excerpt: "With personalized content more likely to drive customer engagement, businesses continuously seek to provide tailored content based on their customer’s profile and behavior. Recommendation systems in particular seek to predict the preference an end-user would give to an item. Some common use cases include"
-    publishedDateTime: 2022-08-30T15:39:14Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/create-a-batch-recommendation-pipeline-using-amazon-personalize-with-no-code/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 86
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/30/batch-recommendation-personalize.jpg"
-        width: 1533
-        height: 766
-        isCached: true
 
 secured: "YqpfWgtTzU7drrVUwEBshSWGZzH7MZxtt2WHU+Pb2Wycc9q2f7QeSMUyF6o5Z5PQOXcT+LwvZf2fvMY1tDntfbMZCjROqvCn1ACZt69IKd8hI+tIZ6K7h2Vuu1jAZkzuRchxJbM/OXAgP5vD2iZp1V1xzcrfAwv0UbaphL4AFbqhw/UVk+KYPQEsw6dj18bVWHx2QtTzBwZOEKkKy2L6kpURWJRlUo4WM4aB3DjeFbacckMSfKxhfnCzUJiKv+1p5DRRFVKAewmJOFJX7M4rV9o+LS6grEKY2QwJ+hNOVcSNYtQQ+e5nHjEdflXB+FcTivloc5qKyXQS0EHIRVrPS7IySulGumBNJW1xiy7u0qLi98tsNdlrBIx7Ty4zsY3toLTshqjv0+i7joPQEXpC4WThFvKnAr61scroodwnWxdCEDhKrJnhbBEhDm4JGxCQNO7TjZQlNVGZi5clyAcG0DP3mXrbp5ZOUby8Ee8nfMqEYON4JFc6hRjj9VkOaDeC9atBU1FnR4umbjsTuF++LA==;VGiPRG9kkcddtcqpuKDp7Q=="
 ---
