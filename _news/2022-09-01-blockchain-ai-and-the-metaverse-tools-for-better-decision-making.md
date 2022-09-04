@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3672428/blockchain-ai-and-the-
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3672428/blockchain-ai-and-the-metaverse-tools-for-better-decision-making.amp.html"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
         width: 2560
         height: 1706
         isCached: true
-  - title: "Harness the power of the metaverse, blockchain and AI through data centres"
-    excerpt: "As the world tries to recover from the grips of COVID-19, the demand for virtual experiences has drastically increased. With new technologies related to the development of computers, graphics, and hardware,"
-    publishedDateTime: 2022-08-30T09:03:00Z
-    webUrl: "https://it-online.co.za/2022/08/30/harness-the-power-of-the-metaverse-blockchain-and-ai-through-data-centres/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 17
   - title: "AICP Introduces The First Artificial Intelligence Blockchain Designed And Developed By The Ruleless Algorithm"
     excerpt: "AICPrime is making a splash in Artificial Intelligence and blockchain technology after introducing the AICPrime Blockchain, an expandable AI blockchain powered by ruleless algorithms that have the ability to process and model data beyond human-known patterns."
     publishedDateTime: 2022-09-03T03:27:00Z

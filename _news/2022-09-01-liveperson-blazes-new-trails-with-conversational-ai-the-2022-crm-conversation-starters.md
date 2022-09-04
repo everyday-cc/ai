@@ -27,14 +27,19 @@ images:
 
 related:
   - title: "Innovative Payment Solutions Introduces Voice Command Function for IPSIPay App Through Collaboration with Conversational AI Technology Provider DRUID"
-    excerpt: "William Corbett, IPSI’s Chairman and Chief Executive Officer, commented, \"We believe our new collaboration with DRUID will dramatically enhance the functionality of our IPSIPay App, enabling users to execute remittances and other transactions,"
-    publishedDateTime: 2022-08-30T15:25:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/08/30/9664347.htm"
+    excerpt: "William Corbett, IPSI’s Chairman and Chief Executive Officer, commented, “We believe our new collaboration with DRUID will dramatically enhance the functionality of our IPSIPay App, enabling users to execute remittances and other transactions,"
+    publishedDateTime: 2022-08-30T13:17:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-43dd32330de56b40d4b503cdbbed5410"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Associated Press
+      domain: apnews.com
     quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "9I/1r9wt6UhMCi5SS4EUqaC0TI27DhAvaYHfW0QF7CFMVxCkrCfd8UanGOuFsLxRaszwz6fhVTMJY0iPcVhSXnbWpXY+CqN8Lxf2BTpOHxvf/wtSbg8sKAOmAakE23q9cfzBEZZ8fsfucBMSOGN3Rp4Yttq2PS3aKqtFNKpX+Fvp2w2LIIG/Zl0dBJzxyxOSV0aRsgXON4dGlB18D+v1Uj1TxH13OscVDA1cOyq7iAR9jtLS3O1TIXyl/PT39bAgiPiTlk3ZS7di/NUEMuPYR2uzCjZS1tgSTRiKMIEY4aINcjjwG1NOM4NckWclQDP+nyDz8ygNWSmdm0wEXazoykzGTEo+TloW3FITfLmrX6U=;yB8btMtAPb/UOf4Rr9x5BQ=="
 ---

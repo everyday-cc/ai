@@ -87,20 +87,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Deep Learning Chip Market Size and Share 2022 Analysis Report by Key Players, Geographical Regions, Future Development and Forecast to 2028"
-    excerpt: "Aug (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Deep Learning Chip Market”"
-    publishedDateTime: 2022-08-30T07:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-size-and-share-2022-analysis-report-by-key-players-geographical-regions-future-development-and-forecast-to-2028-2022-08-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Computer Vision Market Share | Trend Analysis, Production Scenario And Supply Forecast By 2031"
     excerpt: "Computer Vision Market Size Computer Vision Market size was valued at USD 11.22 billion in 2021 and is expected to expand at a compound a"
     publishedDateTime: 2022-09-01T17:56:00Z

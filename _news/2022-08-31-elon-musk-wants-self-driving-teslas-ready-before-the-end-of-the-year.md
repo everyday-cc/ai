@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Elon Musk: aims to have self-driving Teslas ready by year-end in the U.S"
-    excerpt: "Tesla founder Elon Musk said on Monday he aimed to get self-driving Teslas ready by year-end and hopes they could be in wide release in the United States and possibly in Europe, depending on regulatory approval."
-    publishedDateTime: 2022-08-30T07:53:00Z
-    webUrl: "https://business-reporter.co.uk/technology/elon-musk-aims-to-have-self-driving-teslas-ready-by-year-end-in-the-us-7072"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 53
-    images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/018/2022-08-29T114020Z_2_LYNXMPEI7S0AM_RTROPTP_4_NORWAY-ENERGY.JPG"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "Elon Musk wants self-driving US Teslas ready by year end – report"
     excerpt: "Tesla founder Elon Musk has said he aimed to get self driving Teslas ready by the end of 2022 and hoped they could be in wide release in the United States and possibly in Europe, depending on regulatory approval,"
     publishedDateTime: 2022-08-30T11:23:00Z

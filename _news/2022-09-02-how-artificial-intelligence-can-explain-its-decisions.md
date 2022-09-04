@@ -6,7 +6,7 @@ publishedDateTime: 2022-09-02T15:28:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2022/09/220902103300.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/09/220902103300.htm"
 type: article
-quality: 62
+quality: 64
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "How artificial intelligence can explain its decisions"

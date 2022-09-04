@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Pick n Pay Selects AWS as Its Strategic Cloud Provider"
-excerpt: "View the full release here:  \"Leveraging the cloud to achieve greater operational efficiency and improved customer experiences is a game-changing strategy for Pick n Pay and the South African retail sector."
-publishedDateTime: 2022-08-25T05:24:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-pick-n-pay-selects-aws-as-its-strategic-/2022/08/25/9662000.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-pick-n-pay-selects-aws-as-its-strategic-/2022/08/25/9662000.htm"
+excerpt: "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ..."
+publishedDateTime: 2022-08-25T04:02:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/pick-n-pay-selects-aws-as-its-strategic-cloud-provider/article_b1057995-2d27-5766-b934-f40c2a00b1b4.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/pick-n-pay-selects-aws-as-its-strategic-cloud-provider/article_b1057995-2d27-5766-b934-f40c2a00b1b4.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "FASjmk4rhtDQMmWB5ILJkOIVlF1bvpdk65tbV3rPOmIhQjW/oE+vHsY9YAcqyT1wd2zOrNMUSl8U870X0U+JBl0QWaVIy3P0Do2ABRyyAlafEqAg/1J2a0kflqDRxL5Xdy1uBZKL7pzbsSb6aEskxvJSuhB90dWNy/gVR+TrIWq1cXCNnKDggM4EDY9pxSja2EhtdgyIMg11D50SGPiEcAHJh10BlCB+zONFVtWmeqzfe+GP/RlMObXO2kKGQp6yYRCH7bBnXtFR9M13Rngz2HdO9lwCKWVjW4hxidMBhAMInn/hzFKyxTglzNtsXB059RukfydL2kCvWaGUsAgXdI9JjYZYO/5PEDoQ7/kvcag+Rv9kvdBTOsBPJQFP7WXtXDfFhm7ZZ6PEpOCWFNjhoO4dABoUEw3y/OdtTgDJNq9DAgv54e+Ff1nJUlHTvg91g2C4oSbCSB72IeCYSOoyDq1rT0SzCoKQiEe2e9RYI4J25jhgnYdeGf7zN+BdqgXUYYrDQB4UDup5OrFvg299tg==;TNplV/w8aUVrXVl5UVCKsQ=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/a/be/abebbf6c-31fc-58bf-8862-5b6956b59977/6306f4e345651.image.jpg?crop=1756%2C922%2C0%2C129&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "hD9Z6djMmqokkQiD7sJVgphzRJLmQ0rZxRbRpsF+YLZlXO9354n2beNTiaFUEAmmqJBOhVjGTPutjdkG/DZiYpLCVsRN3QB9ChGg1F7upOrPY1IVwnMKkxmzOpGFZKzONWlxL8vHP/kUQMj3IqZHnHS6sTnFpXppIHgMzBFofSEOyKTXyuS46Xsr07KV4/KCT9FV2cj6mpe0GuMz+O+i3yOsoXNFw6P5sLNMjECmISdsi0QAjBXqfucRoWu/14PcnsRtN/3Dq+tFLLMPxzLozOZuoGCpUML6zwgBu7NkuOLGMDJ6S6L7t9hiKqLbDeyL2x+FuzNa3XCEOI0guuGwBCONpuHtWOAhBTYvWwB9tYk=;UPyhPb9sKxo+kNqPlOC5JA=="
 ---
 

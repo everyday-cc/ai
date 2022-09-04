@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Artificial intelligence can treat women with heart attacks: Study"
-excerpt: "Heart attacks are one of the most common causes of death globally, with women dying at a higher rate than males. Cardiologists have been concerned about this for decades, and it has sparked debate in the medical community concerning the causes and consequences of potential treatment gaps."
-publishedDateTime: 2022-09-03T18:44:00Z
-originalUrl: "https://theprint.in/health/artificial-intelligence-can-treat-women-with-heart-attacks-study/1115408/"
-webUrl: "https://theprint.in/health/artificial-intelligence-can-treat-women-with-heart-attacks-study/1115408/"
-ampWebUrl: "https://theprint.in/health/artificial-intelligence-can-treat-women-with-heart-attacks-study/1115408/?amp"
-cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/health/artificial-intelligence-can-treat-women-with-heart-attacks-study/1115408/?amp"
+excerpt: "Heart attacks are one of the most common causes of death globally, with women dying at a higher rate than males"
+publishedDateTime: 2022-09-04T01:41:00Z
+originalUrl: "https://www.business-standard.com/article/current-affairs/artificial-intelligence-can-treat-women-with-heart-attacks-study-122090301231_1.html"
+webUrl: "https://www.business-standard.com/article/current-affairs/artificial-intelligence-can-treat-women-with-heart-attacks-study-122090301231_1.html"
+ampWebUrl: "https://wap.business-standard.com/article-amp/current-affairs/artificial-intelligence-can-treat-women-with-heart-attacks-study-122090301231_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/current-affairs/artificial-intelligence-can-treat-women-with-heart-attacks-study-122090301231_1.html"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
-  name: ThePrint
-  domain: theprint.in
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
-  - url: "https://static.theprint.in/wp-content/uploads/2022/09/ANI-20220903181240.jpg"
-    width: 600
-    height: 450
+  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2017-10/06/full/1507265319-4521.png"
+    width: 620
+    height: 464
     isCached: true
 
 related:
@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Artificial Intelligence can help in treatment of heart attacks among women: Study"
-    excerpt: "The issue begins with the symptoms: unlike males, who typically experience chest pain spreading to the left arm, a heart attack in women frequently appears as abdomen discomfort radiating to the back or nausea and vomiting."
-    publishedDateTime: 2022-08-30T08:49:00Z
-    webUrl: "https://www.timesnownews.com/health/artificial-intelligence-can-help-in-treatment-of-heart-attacks-among-women-study-article-93875489"
-    ampWebUrl: "https://www.timesnownews.com/health/artificial-intelligence-can-help-in-treatment-of-heart-attacks-among-women-study-article-93875489/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/health/artificial-intelligence-can-help-in-treatment-of-heart-attacks-among-women-study-article-93875489/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 54
-    images:
-      - url: "https://static.tnn.in/thumb/msid-93875489,imgsize-100,width-1280,height-720,resizemode-75/93875489.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "University of Zurich: Artificial Intelligence Improves Treatment in Women with Heart Attacks"
     excerpt: "Researchers at the University of Zurich have now developed a novel artificial-intelligence-based risk score ... These symptoms are unfortunately often misinterpreted by the patients and healthcare personnel – with disastrous consequences."
     publishedDateTime: 2022-08-31T23:04:00Z
@@ -71,6 +55,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 28
 
-secured: "m2fUkGOoPL5Cx15FbhBkyybR+lAb76FvwdAPXBr/i2o7U/4aw9l7kwpY5fEqg2m3/g+zAgP/uOWA0TufCoYYDfSewBCbn6FxSYuTdhV/aGKZRRePNT99u6x2mt6JmmiOsL806USNlCIEmMNQBNhOop/aod66RyiwUq1Bzj9f6DvO9k9NNnVA8pgEJA1S7uXbVb+UpeJt+KdDhSbDHOrsTxa7mhI6XUxT0UiTaLacmxcQToaOhCXasohqK3TXSSfMgEiOTZscBAoDPV22rE6CZB1kIPeBaFU0fXyR4dAWWTOX7ae9Cn/cC6+USOa/t1hPpKpTBzgmigCg10ZKIhXocyhzSVRiOveSmW0D7dM3w/w=;Fdi48SMA5TVgiklQSIOC6A=="
+secured: "BPi26Avs4y4TdyKD0uMc3ISx9pDam5a/oa7AYKQ633tPfGL/5twhPNdfCa8RpuM/fMBxH7hM725ZyEyWj/oRqMnewAei2IixsgMuQ6YQ6MmlijIhiepbs1izZohJG+iCPz1tOx/8EX7wNBmlXuFbltI4DdRb7xabmicpF/C4rHr0S5j2F3d+1Z4PEPXlPCzGwjip3FafvTkA3qUfJT7HO0/mTK4NL21B9angzI4IhNa8E6vtw+7fpif/MdHP5agxUcFu9BOxpkX/DwtqAuwQlxbvbTUzOMbQ8Bl1dIVC+4sr4ndyzv7TegBPVn98qvE55n3A3pLYUk5XrWAV7hJqkqRkzSYyF1jWsnTG8LQhaJ4=;Tx1FwcWZHPy+NS8PcAlrew=="
 ---
 

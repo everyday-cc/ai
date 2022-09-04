@@ -49,7 +49,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 62
+    quality: 64
   - title: "How AI Distorts Decision-Making and Makes Dictators More Dangerous"
     excerpt: "But thinking about AI in terms of a race for dominance misses the more fundamental ways in which AI is transforming global politics. AI will not transform the rivalry between powers so much as it will transform the rivals themselves."
     publishedDateTime: 2022-08-31T04:21:00Z

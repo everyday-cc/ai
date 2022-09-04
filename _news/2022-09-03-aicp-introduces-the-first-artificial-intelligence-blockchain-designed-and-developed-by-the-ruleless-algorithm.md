@@ -62,15 +62,6 @@ related:
         width: 2560
         height: 1706
         isCached: true
-  - title: "Harness the power of the metaverse, blockchain and AI through data centres"
-    excerpt: "As the world tries to recover from the grips of COVID-19, the demand for virtual experiences has drastically increased. With new technologies related to the development of computers, graphics, and hardware,"
-    publishedDateTime: 2022-08-30T09:03:00Z
-    webUrl: "https://it-online.co.za/2022/08/30/harness-the-power-of-the-metaverse-blockchain-and-ai-through-data-centres/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 17
 
 secured: "afXukj6y1lOgYU/Z+NfoeDAIIMdsstYv/u9Lnrhzb4uWHFkQCyXFEkQt1ejUWeLSUnFSNJPAM0gFUEhBOTRJsUD5Q64+z1MLeOpuW1VVcDSzg4LG8BfVqpRFBMLmAyUuv9+JwMLi6O85S5wFh6m79jFBQnsM69xB7Ku1yd0QWY1ht51kvHMIa+5MpBijnoBeHjrtJy8fMfDm1nXxFwWxHXBdkIJWW174+xn+nLrJUg6m1juUcZ1cc6beSAaXdpilYZjal92qurJvpfUZHad2k80qqW6GJp0UThvcIOxvGoS1+orVc8u5ZJ+v1RLelW8h/FtVC3BexQjHDg0rkKT/LhU39yZtu7ZC1dt291Hz/u7xr+ajzU+Zl+8X2DP6WGG4W08Q9Hjq+j06Y57p+SvdWWnxbDRwPMlFwXw4W57mZ6V0N2XyGIFE8vpk9xvsW1pJ309Bok1gA9B1CkZlOU5MJuJRbANjqhzNbhiu5va/aqA/uiXfsXKMzBqLs0KAiqddcGkc9762G9pRpxx2TMKRmg==;awikBiDKw2PmxIrlMNbCEw=="
 ---

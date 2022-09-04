@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Language Translation Device Market to hit USD 2.5 Bn by 2030, Says Global Market Insights Inc."
-excerpt: "The language translation device market is expected to reach a valuation of USD 2.5 billion by 2030, as reported in a research study by"
-publishedDateTime: 2022-08-23T10:15:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/language-translation-device-market-to-hit-usd-2-5-bn-by-2030-says-global-market-insights-inc--875237142.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/language-translation-device-market-to-hit-usd-2-5-bn-by-2030-says-global-market-insights-inc--875237142.html"
+excerpt: "Major language translation device market participants include Sourcenext Inc., Jarvisen (iFLYTEK), Cheetah Mobile, Inc., Vasco Electronics LLC, Waverly Labs Inc., and ..."
+publishedDateTime: 2022-08-23T10:33:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/08/n28596363/language-translation-device-market-to-hit-usd-2-5-bn-by-2030-says-global-market-insights-inc"
+webUrl: "https://www.benzinga.com/pressreleases/22/08/n28596363/language-translation-device-market-to-hit-usd-2-5-bn-by-2030-says-global-market-insights-inc"
+ampWebUrl: "https://www.benzinga.com/amp/content/28596363"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28596363"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1883515/Language_Translation_Device_Market.jpg?p=facebook"
-    width: 1200
-    height: 628
+  - url: "https://mma.prnewswire.com/media/1883515/Language_Translation_Device_Market.jpg"
+    width: 400
+    height: 209
     isCached: true
 
-secured: "R+uVYoP/nn3HldycO0laT6IvpwK63Kg+BiI0WhbKqvMERzOeIArYGnHTELze6KDb/rg7GSzRoSHo6CeVplGHx1Dgr3AXEOxukRaeYy5AdobyHcjSp4oTTfyu0pMFX+x4ClJB6f3/ZuDVDy/HPsJ+2v0bTzXFHYvazl5vw0S3djyZ/lYKV05JdGX937K5l4v0SmrAXrEGUgCI8jLC0BHxO3zTAYTH+E30Fh9EPnapd3vIi2WkGVBfmwBu3O3ahVo7rounriv7DtOWNTnw/Pc2uoFbkj77FvPZSvgqXekGFTVFY+qMCY507Yg6RVer8yNIayA2U1ngbeC1RGQ1j/EiUNfqd5spdR3QOnmEdIDnjGs=;qQ+3LnrLfHWYWGhd70mxQA=="
+secured: "fPuflzH8ALjRI8BtpfEEZWYUQjTC4WHnNhkN2kkidEGPOdxF5a28a5yshXIz+v/OWoWfTUeWGEOvmPs2q2djgo6wgb2TOi6yXXSmuz3giYpO5Mdb/LjHvanroB2q3AyO64RgifdP/FJrOvcvVxCznb4F3UQ7EuMFkhKPtYHcI0P0gi3urEYwXeAW/5eRXuInKvazfGvMuc45zJBXkRAp2LI8majCXHdcf2N6/hldktAgaEAXahsFOqUbHOspXpD/flkO/3ucsA9KvIQq42va2QxJjA5MJNLHjoDL19bdnk7/iiGjdVcYOV4hm+l1J9jkERBO102TQC7FY6ufUOsNDUeF/5RDWMom+r2D0KP15uk=;5pZIerOCHl+QB6asQob7WQ=="
 ---
 

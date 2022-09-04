@@ -53,20 +53,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Elon Musk aims to release full self-driving Tesla cars by end of year"
-    excerpt: "While speaking at the ONS 2022 energy conference, Tesla CEO Elon Musk commented on the company's full self-driving vehicle technology."
-    publishedDateTime: 2022-08-30T09:01:00Z
-    webUrl: "https://www.cbtnews.com/elon-musk-aims-to-release-full-self-driving-tesla-cars-by-end-of-year/"
-    type: article
-    provider:
-      name: cbtnews
-      domain: cbtnews.com
-    quality: 54
-    images:
-      - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2022/08/Elon-Musk.png"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "D1O3KWQ/9UmirEvp5zMR+W2uAUGwHrkcwEY5mhhLnLXw/SMuFXQEKeZZbgCYQpCJvuyOSzeWODHL6VjL4enynSZ5KJEO8VxPuRjpDTaTQv2mZkXwsUPWS9b/OZLzS8Y98L8LQuJU52UPbjgVjo46hHNv+p2BE11zOBWBEjJSEGR8/LbW5ucIdNZkh7e21DmG0NmWKNg6slCSIPFT6Ex+0MRvODscwbWXlmYaYzr7xHW/nJH0we7ag6EWLROjQwNKCUTjdkfexo2xUlaN3o768f6ltxSQ66C02Q5X0lrYDT1kDNyFFZMmuZpbt6TGRiXhk/rO7RV9ygMQUBtrApxA2QXTONWar5oHqQ8oLbLitWnJPaw5WIiFNbBDziqB8bYmMBiOyHvwqFp+yBKG9WyhKf0+6MGmy+zpxzkblJzpMJ87DEMU0KbSeYRpvxWpGa0mT5up8SjgTviEqAaHhEZje7/sZYnKGSUvy4xV0KpLkDzdQ8imPRgZgDIf4/+E2XN4gadRgWgUZRUgYEm+NqkW1A==;QaadIFsUIko1R0YBPjRtfw=="
 ---

@@ -59,15 +59,6 @@ related:
       name: IOL News
       domain: iol.co.za
     quality: 4
-  - title: "Juniper Research: Digital Identity Verification Spend to Exceed $20 Billion Globally by 2027, as Top Vendors Revealed in Competitor Leaderboard"
-    excerpt: "A new study from Juniper Research has found spend on digital identity verification checks will reach $20.8 billion globally in 2027; up from $11.6 billion in 2022. It predicts this growth will be driven by both the increasing prevalence of digital services requiring digital onboarding journeys,"
-    publishedDateTime: 2022-08-30T07:22:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-juniper-research-digital-identity-verification-spend-exceed-20-/2022/08/30/9663806.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "jd5sTE5bs6VwtO5W7NkAk54Q3oYr8JL/yOmigYcbCng2J2LQTR2TrwrNGC5TnGky8QlucdJmlINHh8ijW0a6sxV65TVA1Zlh3uK+zFWhMr8/lmsnWF6mjKtdZx4/NQENY0ypfJHg00mZEjOXoyxAHfL+WxLWv7owaKolp3GUtSh5f6G0IsZo2jr7MGxSJWy+eIwuxgwS7+lDnWhM2FLzXD2/e9o8+JU1TcVs1JAfMoNwVV2Po9rhJelknd4poqOrKSWup+ZYhGJKM0MrCTt68VOKz7onE/zEGxJqXbN/9HYAOlEf4t7NVx750pBfwG33y4iKyWFG6GLbRDm2dAyxgecPkdCrVz4mJgsa6Gr5JFUY56hRqvQxLPibVRHNeTPLmmOw/v3Ay9H1Mlpae+DkrBoqtocc2N1cGTOscfsEUDtmajd/7K28BUvw2ytXbt5uTfM6eW9MgNmn+RdcDRKLrKndCMg54TU2Oa9a0fRis8dtfe0cWq2xokmX5We9hAnihGAONaLDapcWfHFeur91+Q==;4laBIafuilOrnsloMyVf+Q=="
 ---

@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Vision Screeners Market is expected to grow at a CAGR of 5.9% during the forecast period 2022-2029"
-    excerpt: "Global vision screener sales are likely to near US$ 500 Mn by the end of 2022. According to a new research intelligence study presented by Future Market Insights (FMI), the Vision Screeners Market will continue to witness an average 5."
-    publishedDateTime: 2022-08-30T08:46:00Z
-    webUrl: "https://www.fmiblog.com/2022/08/30/vision-screeners-market-is-expected-to-grow-at-a-cagr-of-5-9-during-the-forecast-period-2022-2029-9/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 10
-    images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2022/08/Pet-Furniture-420x300.jpg"
-        width: 420
-        height: 300
-        isCached: true
 
 secured: "qQsI+cMy5ee+fMGRu5qngWPwZ5Jnz0xTHAtLBnnrVVP4CHVI27pt8afALusb8FevfpjmewQfWHl+aXMTHowDgNplLJqzou54KoJp8Z+JXFJVupzinCCJErMF4B59Qn22AZdoYYavGxXHY6up2Lc9TVCMkXyWDEyHh0pfAqa8IuKuKdUbdflYwI+vRHjsqsFNmmFKs9evI7QNovWxjESKaOgfW5ke6K3vnWQeE7Q+GWNvZq51lrWCJ4nDBZAlw5sQN0yx/uNV5K9pcWQMuoOdmJbTMtXvEO6nD/MvOvW2ggZacW6CkvO0n+uRuhaVBUFAG1u5rTtLuTqLYKcs4xGI+5SqQB3MrI9NdMAFkxi68ow=;k3C2mB4L81y1BDf1HxDPFQ=="
 ---

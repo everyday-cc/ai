@@ -39,20 +39,6 @@ related:
         width: 619
         height: 377
         isCached: true
-  - title: "Enhanced Road Simulations To Help Self-Driving Cars Developed"
-    excerpt: "Researchers have developed a new way to create photorealistic images for simulators, paving the way for better testing of driverless cars."
-    publishedDateTime: 2022-08-30T09:02:00Z
-    webUrl: "https://www.technologynetworks.com/informatics/news/enhanced-road-simulations-to-help-self-driving-cars-developed-365147"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 24
-    images:
-      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/365147/enhanced-road-simulations-to-help-self-driving-cars-developed-365147-640x360.jpg?cb=20220830"
-        width: 640
-        height: 360
-        isCached: true
   - title: "More People Want Electric Cars Than Self-Driving Ones"
     excerpt: "Ipsos' latest Mobility Navigator Study shows that while almost half of drivers (49%) say they're interested in an electric vehicle for their next car, only 31% would be interested in a fully autonomous,"
     publishedDateTime: 2022-08-31T17:21:00Z

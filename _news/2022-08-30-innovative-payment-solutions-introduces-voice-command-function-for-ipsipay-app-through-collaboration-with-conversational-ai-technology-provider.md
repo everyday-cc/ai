@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Innovative Payment Solutions Introduces Voice Command Function for IPSIPay App Through Collaboration with Conversational AI Technology Provider DRUID"
-excerpt: "William Corbett, IPSI’s Chairman and Chief Executive Officer, commented, \"We believe our new collaboration with DRUID will dramatically enhance the functionality of our IPSIPay App, enabling users to execute remittances and other transactions,"
-publishedDateTime: 2022-08-30T15:25:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/08/30/9664347.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/08/30/9664347.htm"
+excerpt: "William Corbett, IPSI’s Chairman and Chief Executive Officer, commented, “We believe our new collaboration with DRUID will dramatically enhance the functionality of our IPSIPay App, enabling users to execute remittances and other transactions,"
+publishedDateTime: 2022-08-30T13:17:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-43dd32330de56b40d4b503cdbbed5410"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-43dd32330de56b40d4b503cdbbed5410"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "LivePerson Blazes New Trails with Conversational AI: The 2022 CRM Conversation Starters"
@@ -34,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "vIg3M62mCUQadcWoSKoeiY2+V1BXIGrs5EBMwqjEF7t2GYt6mRrHZQi4qBa5EIkZYgSQAOaetVKUAxR/mgrzOFYhD3Tp/yVTsaHrhPBt7o1CcAnlfT7XsyFz/3KHvLr+93AHDJF6st3YiQkASOxLQilbsK5yuDKB4jI65cokc7TDBtNWrIZqqpNVj25OMnCGF4HFw82Nx4V8AsPZEeBX5O7o7f0b2tnnKlOOL7HarY0HdVmf44PJWi61L8WoA3ZJZGYV3TtrLzt6I3rR/ZigE2Kw3oHdpGUdcsZFanLoNZNbS49fbG8g2iYXVmHiCh9tp6JRSESpYTSNJd7o4tIL51jPWrFz9uOmdvKd0lKxKKo=;RyYlcgDIis7g2RKJzWkCXQ=="
+secured: "eECy2Q/QNltPThTLmgMECbvzJXFBV2HNVbPGMilw5H+6NEM8WrClsPzMowGq9GBHzl5Cf5hJbWsGsIEkzn0u961gPXwNBUWzdePL+WyJ+C5oEjrpw9oh0+5abPGgpJrRMPotBz1BlEyial/2DCdcG6PZldxQASDkKjc0qq6runnBHnh0Vi+3jRqZGJOdsGDTqqdazhSnXgY/FFrk4hb2ZTl3UBK99knqYtOYOWP/48ndDWBq0vvv3Nl8gJShtwnHdxV4SD+EdEMzpgZLgHoVKYgKhpg6XUnOVkqHu5oHu51PoRQgkp1lcgELVVy2+tvoqgCL6KQbemTTK/MVQPaRoCgipGu9Sn4DD5L4olAsA7M=;JzBWmDDR6Bdt7NGhZIvL6w=="
 ---
 
