@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/in-the-fac
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/01/in-the-face-of-recession-investing-in-ai-is-a-smarter-strategy-than-ever/amp/"
 type: article
 quality: 86
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -62,15 +62,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI Startup Replicant Is Transforming Customer Service Centers By Making Them More Automated—And More Accessible"
-    excerpt: "The company is harnessing artificial intelligence and machine learning technology in an effort to remake call centers everywhere."
-    publishedDateTime: 2022-08-30T18:19:00Z
-    webUrl: "https://www.forbes.com/sites/stevenaquino/2022/08/30/ai-startup-replicant-is-transforming-customer-service-centers-by-making-them-more-automated-and-more-accessible/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 27
   - title: "Why AI is the solution for IVF accessibility"
     excerpt: "By augmenting the embryologist in selecting the most viable embryo, there is potential for AI to help a patient conceive in one or two cycles, reducing the inherent cost of IVF therapy, and making the treatment more accessible to diverse populations that often don’t have ease of access to treatments today."
     publishedDateTime: 2022-09-02T13:00:00Z

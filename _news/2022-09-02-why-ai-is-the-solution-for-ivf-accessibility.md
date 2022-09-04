@@ -66,15 +66,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI Startup Replicant Is Transforming Customer Service Centers By Making Them More Automated—And More Accessible"
-    excerpt: "The company is harnessing artificial intelligence and machine learning technology in an effort to remake call centers everywhere."
-    publishedDateTime: 2022-08-30T18:19:00Z
-    webUrl: "https://www.forbes.com/sites/stevenaquino/2022/08/30/ai-startup-replicant-is-transforming-customer-service-centers-by-making-them-more-automated-and-more-accessible/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 27
   - title: "IoE AI is the Investment Tool Providing a Complete Toolkit for Investors Using the State of the Art Technology."
     excerpt: "The future of investment is here as the Internet of Everything; IoE AI uses cloud-based artificial intelligence to model complex communication networks, object identification, data integrity, and device interoperability IoE AI provides state of the art toolset for modern customized complex models which are eccentric and high-tech."
     publishedDateTime: 2022-09-01T21:03:00Z

@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Waymo opens driverless robotaxi service in Phoenix to locals who can't share experiences online"
-    excerpt: "Waymo is rolling out its driverless robotaxi service in Phoenix for members of the Alphabet-owned company's 'trusted tester' program - but users can't share their experience on social media and ..."
-    publishedDateTime: 2022-08-30T17:32:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11161047/Waymo-opens-driverless-robotaxi-service-Phoenix-locals-share-experiences-online.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-11161047/amp/Waymo-opens-driverless-robotaxi-service-Phoenix-locals-share-experiences-online.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11161047/amp/Waymo-opens-driverless-robotaxi-service-Phoenix-locals-share-experiences-online.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 62
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/08/30/17/61875391-0-image-a-10_1661876995094.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "First Driverless Spreader Introduced by Case IH and Raven Industries"
     excerpt: "A new driverless spreader has been introduced this week by CNH Industrial. The Case IH Trident™ 5550 applicator with Raven Autonomy™ can be"
     publishedDateTime: 2022-08-30T21:30:00Z
@@ -77,15 +61,34 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AutoX Tests Downtown Shanghai’s First L4 Robotaxi Service"
-    excerpt: "To reach a large-scale standardized implementation of robotaxis, it’s essential to have an efficient central operation network,” AutoX founder and Chief Executive Officer Xiao Jianxiong told Yicai Global."
-    publishedDateTime: 2022-09-02T11:45:00Z
-    webUrl: "https://www.yicaiglobal.com/news/autox-tests-downtown-shanghai-first-l4-robotaxi-service"
+  - title: "Raven introduces first autonomous spreader"
+    excerpt: "Autonomous equipment can perform a consistent job each time, which is very important to me, as we’ve built our farm’s reputation on being flawless and doing high-quality work.”"
+    publishedDateTime: 2022-08-31T16:34:00Z
+    webUrl: "https://www.agupdate.com/midwestmessenger/news/state-and-regional/raven-introduces-first-autonomous-spreader/article_bfb24874-294a-11ed-8ade-175f2fc79fb2.html"
     type: article
     provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 19
+      name: agupdate
+      domain: agupdate.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/agupdate.com/shared-content/art/tncms/templates/libraries/flex/components/themes/resources/images/user_no_avatar.82c8fc38eb25dca10493a994ca1bfb90.png"
+        width: 256
+        height: 256
+        isCached: true
+  - title: "Case IH and Raven Debut Industry's First Autonomous Spreader at Farm Progress Show"
+    excerpt: "Two of CNH Industrial’s brands, Case IH and Raven Industries, introduce the agriculture industry’s first autonomous spreader: the Case IH Trident™ 5550 applicator with Raven Autonomy™."
+    publishedDateTime: 2022-09-01T17:42:00Z
+    webUrl: "https://www.csrwire.com/press_releases/753861-case-ih-and-raven-debut-industrys-first-autonomous-spreader-farm-progress"
+    type: article
+    provider:
+      name: CSR Wire
+      domain: csrwire.com
+    quality: 18
+    images:
+      - url: "https://back.3blmedia.com/sites/default/files/inline-images/CASEIHSPREADER_CNHINDUSTRIAL_2022.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "yc8CsDQ8iHPt2rIsWxpgtPFNJ7fU8ru9w4NClB7w7sCpvUGmvtCUP7sSDzGJXg+6ZSvs7QzXRJXo9eDI/MNgQDJksj+/zEOYwW2hB/P9ex2djW/u1AIuvq2/znFUeY5c9/ZitrXzGn+HgrQfGA2pjm4yP4PGMAvvU6dsYAesZmYaf6LU0y5D4SY+0yD6J1raQpsYCFfVNBcL3EGX4kHhrhOaQ949iBnRVefIYHfPcneXk6ZrNf0RP/Xel+mDpqHuAyQGEfz+l5LEWIOYACtOSOSMuHPYJhVwUp7FiR1/aV/YPE4Ef0RPk5+4SAir1UFXpQ5A3xcH7R3gfW+eGOk8mvWQZT+5Ugx4g5fzxbFMdOc=;w5GpjaimeEW7PiPtcAKaZA=="
 ---

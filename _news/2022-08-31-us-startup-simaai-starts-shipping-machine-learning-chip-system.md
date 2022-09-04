@@ -71,15 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "SiMa.ai Ships Purpose-built Machine Learning SoC Platform to Customers for Embedded Edge Applications"
-    excerpt: "SiMa.ai, the machine learning company enabling effortless deployment and scaling at the embedded edge, announced that it has begun shipping the industry’s first purpose-built software-centric Machine Learning System-on-Chip platform for the embedded edge – the MLSoC."
-    publishedDateTime: 2022-08-30T17:23:00Z
-    webUrl: "https://insidebigdata.com/2022/08/30/sima-ai-ships-purpose-built-machine-learning-soc-platform-to-customers-for-embedded-edge-applications/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 21
   - title: "Allegro DVT Partners with SiMa.ai to Optimize Power Efficiency for Embedded Edge Applications"
     excerpt: "Seamless power optimization is critical for computer vision applications at the edge. With Allegro DVT's Encoder and Decoder IPs, SiMa.ai's customers can achieve high performance with low power without compromising efficiency or ease of use across markets such as smart vision,"
     publishedDateTime: 2022-08-31T16:04:00Z

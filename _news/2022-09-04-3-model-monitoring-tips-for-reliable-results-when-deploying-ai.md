@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/3-model-monitoring-tips-for-reliable-resu
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-model-monitoring-tips-for-reliable-results-when-deploying-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 689
     isCached: true
-
-related:
-  - title: "Monitoring A Cat’s Litter Box Usage With AI"
-    excerpt: "Estefannie] is a proud cat owner, but one of her cats has a bad habit of eating plastic. That means she needs to keep an eye on that cat’s bowel movements, but with two cats in the house,"
-    publishedDateTime: 2022-08-30T18:30:00Z
-    webUrl: "https://hackaday.com/2022/08/30/monitoring-a-cats-litter-box-usage-with-ai/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 19
 
 secured: "kCWqZMVYiF6ImJPLZnop6lY+Q/WPK1rcLYR+ANfBlG29h/w2oetmsKhXQGDjYXTChQJc/ucdi1SXwBaKfYd7jmwcZ7FUhBGYdF4rQrK6w3eCk07fMZ4ds6mu4MXUR0fKpJKz9yaK56e3LDqjTOB6z23r5cvIPXgEme8L9c25FG+2uWle41fyVCu5Bk9XNUQNva2OzSvGC39QpzKmPHMRX57yEtwiKA9qYbmpNQ0Ew/9WXPVOJNj4KWFFoC3xXi/kUlXsX1vCJR7S4uZ7+RqfBQToedx7kp50VY8H4rAwjFXzlKrE1qFzjvaYIltQ0nSq6XfvvwtiP/w+4XqXEs159aAc9X2NoeBh353twh3pSo7R9vnzN2HVa60cyg/RPkopHPYttrkC6pslV9PVl4D8PCiFQTh5hydo3dKuI2Toj5atdXP5N4FVYlSaOjWjz5FOVFwWmRmTOnuSgFU7ujyryOpFcRPqQSf9q4sNzWYFneM81uLDvkPf5cuFubFmxzvbFBIy7zVZpA3mMtigdsPbpQ==;CdaMdNudtvByYLfz/pCvOQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-08-ct-derived-body-composition-d
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-ct-derived-body-composition-deep-cardiovascular.amp"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -26,6 +26,17 @@ images:
     height: 325
     isCached: true
 
-secured: "J/uMg/rPpeKIF4kI3GtIzX9jasWTjNRNLNeOGA7MXOmdJfFKjmFWZLFJiY/+qYsz47gWe1vt2b8PWp8N6X4nk2ZcbPH4ia/Sp95ypJ+nKzQfaF3q4SDAwW/WoBKLPIxldmunzkbV7pyejIO32bpFrWLilsSR820nv7SJ6AbxbREidcryLPFhfGCuklZCFqZb9FSE59IWE4UhtdtWzy64ino/GMoHSQZ5HCps6KrwmbAmJW9MGTaPnrlm7WzaSHC4GgClb+X7+uvr820zWqJSx6YwyYWq8OJSxs9obmWi6Bj2QJamRExeYkHJZDjlUQBPF3nfXyBLc464UysN6l3vg4NtP/LNUGq6gOzjQLRWtOY=;8XbxD+ieHjSufnKNKfrL7w=="
+related:
+  - title: "CT-derived body composition with deep learning predicts cardiovascular events"
+    excerpt: "Fully automated deep learning body composition analysis was performed at the L3 vertebral level to determinate three body composition areas: skeletal muscle area, visceral fat area, and ..."
+    publishedDateTime: 2022-08-31T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/08/220831131201.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 46
+
+secured: "rwgQD3kwkg5eliNm2HZS0L5jwSz8NMby28FRLyFrSMyjJSMCp5f3SVjKFsI5lwCqPNJ4A47XZQcLeKfoVvRjhZrda8YSlDkshy1iadmO1Xt2CyFcyUarvqeNa1q4A38c7n61ONGiMwWFS6973xQbijiijAgERD/TKOe5gClhgtbaq/RRvVhUXpbGs00VOx0jkz45HD1zwsCqsVu41Jnk9oHcz8w1+LFGdDp1r1YoYU2FGCRjT8OUaxSxYq3p72P2KQdAD/KRZVYWMwC/0wnHofcw6h8Uj/s/1s0B6Vd2n01DxbSU5ZxkIsjuVksuW7juYYI5VAOCvau1dFxmNbVZKkuX31PLjhm5j3Z2YEyHHiFAlGaZgidMp4luU12EXQokqUkCRsbPVsCygPutloWUqD7tyHUecY8BsI7MPnsfCiPwWap8vyAZc3868OvUbBegsVThhfoF1TiD4o+GUOReojNxP7jDITF8umdr92rAz7W7YBCRoANQWkoHnUqGUB/gxVuWaFQU80MwPE1JXEgx1w==;UVJ+luwgFE7bsot+75xLnQ=="
 ---
 
