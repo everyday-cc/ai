@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 42
+heat: 50
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "c8vez3QRR0nozJEDyHhzEo33dleB1abZkEGweimpQMSlctK0gxE208mVeLtl0zlslsm17CESsFadDPynpt/5U/7sGoZ1VwlioPdVmOQhzZFEZcsXiy8p1r9IiO39LNmZ3eTBX0VkyzdmYnfV7yA3C/6+YTEcpCSShQhbIIB9GI3kCLOG/ebc1P83gvTDtcsVdCMA3/3D0Hr41JTD6SX09uM3sMYNDPiK3vNRIiQC2K85qqtIQPF1/X609eItklgqiwvEMxpF7/HYvrjB48REnQpJDyxP7fkjDi1LwiZ+EqNt9wziGFBqrf5lUGO1+cs9HCm/NSN8QyCwq3HICJHbO5ckOvJXzD7a5c8GylMSDDQ+8kyjgbEEaH6/O/vCKH6L3OFlabxcEV26sKXjfyf8aAqlPb+LOaKJTku1av0UX7A=;LxmdftR+VKpF67CMKChz8A=="
+secured: "V+cEi2LWgIOMDmnXYZlheiEAQkc94sclYsqDlEjK+/q7QuoeJ3H2Pwi7/01UuNcrGePVPZJEQLbyESNsIeMocTKVvhxnphJG7BED0YcJq2t8cboz7bgqfG12vbC2YYE7b4nJELLcPScfIEI4OE3i/D5qmgD/IZw0w21pPlO5yeZg8mewXiu6PvzvBLAE1cSbjXXFKo4DbKUyMdpZbM1A+Hao7ZuHAff3NsO+1qjCWhm/nTkjdxMc2K7VOooe41vjOO8ltOWf1ZrolMMXhqi9soLQuQl5+ssgRQZ+el1LuwZlmD0qrLHmXQINPNBqhmTraS2ljd5fD2B1CLZIyRyhqVynrPkf4SuV9X6vcjQI43taUbfeHMqBsleMgOeftU2rqqJDqRlBR27QVa1KWfwa3AuS91JkiIjqygpuaUSH4aE=;FGCPV97i73BpqgDhKonM5g=="
 ---
 
