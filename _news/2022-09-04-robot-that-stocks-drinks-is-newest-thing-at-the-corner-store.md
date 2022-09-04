@@ -65,6 +65,22 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Robot that stocks drinks is newest thing at the corner store"
+    excerpt: "A small robot with a clip-like hand and the smarts to know which drinks are popular is part of an effort to make convenience stores even more convenient"
+    publishedDateTime: 2022-09-01T13:52:00Z
+    webUrl: "https://abcnews.go.com/Weird/wireStory/robot-stocks-drinks-newest-thing-corner-store-89163673"
+    ampWebUrl: "https://abcnews.go.com/amp/Weird/wireStory/robot-stocks-drinks-newest-thing-corner-store-89163673"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Weird/wireStory/robot-stocks-drinks-newest-thing-corner-store-89163673"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 59
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_50fa119f88e046efacc597befb3a52ab_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Newest Thing At The Corner Store: A Robot That Stocks Drinks"
     excerpt: "A small robot with a clip-like hand and enough smarts to know which drinks are popular is part of an effort to make convenience stores even more convenient."
     publishedDateTime: 2022-09-01T19:18:00Z
@@ -85,15 +101,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
-  - title: "Robot that stocks drinks is newest thing at the corner store"
-    excerpt: "A small robot with a clip-like hand and enough smarts to know which drinks are popular is part of an effort to make convenience stores even more convenient."
-    publishedDateTime: 2022-09-01T12:52:00Z
-    webUrl: "https://nypost.com/2022/09/01/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 19
 
 secured: "wbz8AE9b5EZ71TsI9RBjA6/UZgmJKUs5fiZmLNzgZ603QdrR99HnjRQYtor4SuCkuAYowzWMzSiwKz+fOPgxpkyICRtEJVN1BXoQbGtkS7JexEtoSvkC8n/anc6qt6m3CLMyNSsinKBNxGdzyYLtfH154PhWH7dAmdFW+4b1/zyF39M4QIJ5V+HSehAZH6kO5moPC81STrhYbDJZQqoXxza3Kns8X1huU4nkHCoqielmFkcMi2EQA2raGX2Y4NAns8niiOQSmTLSOOW/fBNNedp2IAThVCWc7S0HWj+OsJxkXf2YEV2ScFYvv3yorwVtyNKXm4agVaaxpLIi2CQnlYhpezJUJ+9cXdlS45VHKoxG+Ca3+vjY8EcW8fyAd0bHSz9V8t3SqkNPc7l9sQFvRa7/K/u/O1ORxvNkaTY+Vwpo9xieGb+yd64APfZgIDNqNtXumvXsY0QbO9fIV1lltZVV6wFAKmpRBs4ErgyXntCzxe0hZ/CWgBP5tFUv5nEoMXAYmFiupQxALHubr77BOA==;IOSpi+9IfQXhnXJLyzdfNQ=="
 ---

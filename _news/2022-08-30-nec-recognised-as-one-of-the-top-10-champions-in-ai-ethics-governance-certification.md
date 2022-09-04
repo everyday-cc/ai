@@ -1,29 +1,20 @@
 ---
 category: news
 title: "NEC recognised as one of the Top 10 Champions in AI Ethics & Governance Certification"
-excerpt: "Singapore Computer Society awards NEC's commitment to building a trusted AI ecosystem SINGAPORE, Aug. 30, 2022 /PRNewswire/ -- NEC Asia Pacific (NEC APAC), the regional headquarters"
-publishedDateTime: 2022-08-30T04:00:00Z
-originalUrl: "https://www.asiaone.com/business/nec-recognised-one-top-10-champions-ai-ethics-governance-certification"
-webUrl: "https://www.asiaone.com/business/nec-recognised-one-top-10-champions-ai-ethics-governance-certification"
+excerpt: "NEC Asia Pacific (NEC APAC), the regional headquarters for leading information and communications technology provider NEC Corporation (HQ: Japan) in Southeast Asia, has been recognised as one of the Singapore Computer Society's (SCS) Inaugural Top 10 Champions In AI Ethics & Governance Certification during the recent Tech 3 Forum 2022 organized by SCS in partnership with Singapore's Infocomm Media Development Authority (IMDA)."
+publishedDateTime: 2022-08-30T05:33:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/08/30/9663795.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/08/30/9663795.htm"
 type: article
-quality: 47
-heat: 47
-published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Ethics
   - AI
 
-images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Aug2022/pr-newswire_500_4_1641.jpg?h=7de12b8a&itok=HX7R56dG"
-    width: 600
-    height: 316
-    isCached: true
-
-secured: "2NcEubKpxCi7ifmVkY78t8fnqr+Kfau7NpS1Aldl75xWtsvCNFkY71QAWlUMJo7/r19JnNCpPPqJeNEswPml0sqcNx1HjU+0s1utFYWxm0bnchCZy5HFvvPYssWPdloQvSCAH3oniSJI+skRQVKoiaDkvCszjfzJTKImdQIsdO2gJgktpjOe3uzgoIv7U8hN5hsERZyUE+1SRb/pNQs11OWPjXd0kYImnVcmaOy2Ls3DPqtd2zmEakjFAyIdzTbPdZDNpsJivzSnm1njaMIxrHeZd5rsdwhrOnf/iVhxAfbYU0BTDO5XH64mFf5bme0l3MGGkHCv7n8r1h8eahirZ9y+wt2NhjoxoVthHzitE4uVM2M+xfJ6BSaY8baUKKUwxj5olW/Jql0t9aw8GtDKiOug5qr1LGy2sketVbXUy6v6lSfqYK0rny30VK1O4g8Mke7Sh7SLr2eIAbg2lErj4l3XDlp+hJNKwHJV+A0/rX0ky8w+3k6yWcOW6/r0IaQLmY0Md6SeCt5kVLnAWPGaJg==;NB1+bobNgRpCVAcJxTPJog=="
+secured: "0QQ+jexM9D3dSBhg6w83M+fWiupyYA8t8FoJ7qJeyuCIOPtY6ov1p3uskiHZ6VNH6uYgwAp4FCyvV86ejcPB9dsyEPeCKxIf99IWlDsy2zmYGkw7Hcpf/KmyhYOZZNy99VAJIH+4JDTP5ri2avJ3xQHQFYt7l2tsY3e4NJID7M1jkRUcswg3q+h2yMnqUBdgi+6HkNytTrx/xqk4pav5+z7vkBVfjATzr6/EwX65ibCoeOs6lA0UCg+4xJBKkRSjggnYvdma/JPzif36aONVIqZTRhUBId29iqOW2FmTpfe0qHGCaGvOF7rZCFu4GFVFp2kz4PUaTiDtFA0nRgxO4G1jBDVRb0rirxOq6r4ileo=;I8n1gUsFjxN6jYaIyug1dw=="
 ---
 

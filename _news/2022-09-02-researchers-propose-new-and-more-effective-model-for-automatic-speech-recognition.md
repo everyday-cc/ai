@@ -28,9 +28,9 @@ related:
   - title: "Researchers suggest more effective way for automatic speech recognition"
     excerpt: "Popular voice assistants such as Siri and Amazon Alexa have made automated speech recognition (ASR) available to the general public. Despite decades of development, ASR models suffer with consistency and dependability,"
     publishedDateTime: 2022-09-02T18:43:00Z
-    webUrl: "https://theprint.in/features/researchers-suggest-more-effective-way-for-automatic-speech-recognition-2/1114253/"
-    ampWebUrl: "https://theprint.in/features/researchers-suggest-more-effective-way-for-automatic-speech-recognition-2/1114253/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/features/researchers-suggest-more-effective-way-for-automatic-speech-recognition-2/1114253/?amp"
+    webUrl: "https://theprint.in/features/researchers-suggest-more-effective-way-for-automatic-speech-recognition/1114252/"
+    ampWebUrl: "https://theprint.in/features/researchers-suggest-more-effective-way-for-automatic-speech-recognition/1114252/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/features/researchers-suggest-more-effective-way-for-automatic-speech-recognition/1114252/?amp"
     type: article
     provider:
       name: ThePrint

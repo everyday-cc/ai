@@ -1,31 +1,27 @@
 ---
 category: news
-title: "GM's self-driving outfit is looking to fill 200 open roles. Cruise's top engineering exec shares his 4 tips for acing the interview."
-excerpt: "The top engineering exec at GM's Cruise, gives 4 ways a job candidate can ace an interview at the self-driving vehicle company."
-publishedDateTime: 2022-08-31T09:51:00Z
-originalUrl: "https://www.businessinsider.com/interview-tips-self-driving-general-motors-cruise-open-roles-jobs-2022-8"
-webUrl: "https://www.businessinsider.com/interview-tips-self-driving-general-motors-cruise-open-roles-jobs-2022-8"
+title: "Self-driving cars are a thing of the future. But is that future right around the corner?"
+excerpt: "The future of driving isn’t just about electrification. It's about automation. Yes, just as it seems like science-fiction to drive several hundred miles without a drop of gas – available now ..."
+publishedDateTime: 2022-08-30T12:52:00Z
+originalUrl: "https://www.usatoday.com/story/tech/2022/08/29/self-driving-cars-future-gm-tesla/7896389001/"
+webUrl: "https://www.usatoday.com/story/tech/2022/08/29/self-driving-cars-future-gm-tesla/7896389001/"
 type: article
-quality: 23
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: USA Today
+  domain: usatoday.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://i.insider.com/630e374cabd32c00180a0024?width=700"
-    width: 700
-    height: 525
+  - url: "https://www.gannett-cdn.com/presto/2019/07/25/USAT/672df511-5caf-4574-abf2-e16795544a55-GTY_545144498.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -71,6 +67,20 @@ related:
         width: 1404
         height: 1112
         isCached: true
+  - title: "GM's self-driving outfit is looking to fill 200 open roles. Cruise's top engineering exec shares his 4 tips for acing the interview."
+    excerpt: "The top engineering exec at GM's Cruise, gives 4 ways a job candidate can ace an interview at the self-driving vehicle company."
+    publishedDateTime: 2022-08-31T09:51:00Z
+    webUrl: "https://www.businessinsider.com/interview-tips-self-driving-general-motors-cruise-open-roles-jobs-2022-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 23
+    images:
+      - url: "https://i.insider.com/630e374cabd32c00180a0024?width=700"
+        width: 700
+        height: 525
+        isCached: true
   - title: "A self-driving bus is carting Michigan State students to campus this fall"
     excerpt: "Michigan State University’s new electric autonomous bus began full service routes Monday just as students returned to campus. At 27 feet long with 22 seats, the bus is one of the largest of its kind to operate on roadways in the U."
     publishedDateTime: 2022-08-31T21:54:00Z
@@ -94,20 +104,6 @@ related:
       name: cbs17.com
       domain: cbs17.com
     quality: 19
-  - title: "Self-driving cars are a thing of the future. But is that future right around the corner?"
-    excerpt: "The future of driving isn’t just about electrification. It's about automation. Yes, just as it seems like science-fiction to drive several hundred miles without a drop of gas – available now ..."
-    publishedDateTime: 2022-08-30T12:52:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2022/08/29/self-driving-cars-future-gm-tesla/7896389001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 15
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/07/25/USAT/672df511-5caf-4574-abf2-e16795544a55-GTY_545144498.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Self-Driving Cars Will Save Countless Lives"
     excerpt: "Policy-makers must keep up with technological developments in automobiles so that better cars can save lives.The black Mercedes-Benz sped south on L.A.’s La Brea Avenue at, allegedly, more than 90 miles per hour."
     publishedDateTime: 2022-08-30T13:21:00Z
@@ -136,6 +132,6 @@ related:
       domain: bizjournals.com
     quality: 3
 
-secured: "9vMbHSXj2IqT3TtA3MDVgr/Q8ueXjAGya4Up5k2g0dCwkSDXAouuihLI92tOoOJf7B0gcZBYgeOeTzgAJvLUGjX5JMoas6E1p3DZ7UhaXcb65A9QS2p5/ssGFwWi9o9vmbfadBDQVpxIUsQjFQklmDNZntDgVeHYVpLw/JN7s/Az99PJDzPca0O7QMzWZlgxmEK+XDIAPHBWzS11X2BlFPe4BDSePRpFpOjiWCWFlQEN8JYcnrlYaN54ErU2SZI/22qy2s+22QeDhxWzvw4Iw648hMvPnc+s9Dwy37TVd9o9NZ6sxS3qKZRDG7tYqhHtGUr2Z+Le09LY9brAaLv/UoFhvJtuo+N/W8XDhTQmDV1xWT00XacDhkkzKILPudkLRef+kYcxuhlDscM0ibECFAjAh/9DWpLiWmn0Z8K8h7R9/iJ7LtrYpTM2reG4Fw8rRjV4GZ4Pe2PWR58aaW0NNcEbs0sgVG7nCwwJzpjL1gu8OBbU0vJl6H2Xojx3zwh3WqEWxxPl9h/XxNgFIFGb1Q==;7Y3WrZ8tP/+nZmhR98ltlw=="
+secured: "AGShuOUOSIUXIaJtxwuhFGtDb8zohPHee9Lk4C2OFBLVbwAUFpcnwIYKVUGpU3skuyABWuC++gPpJdYBu5EFXWNSZZ44pajZ8ouceAHl36qGBy8/x1sWrJHWlnI0062/HpW2nYHWBoPy6q8GoDe9zuTiWznjQCyayHQiMzrDSAN85xgIt1o1QTHNz8EJAzPmFPQGN+7M24ddAtnjtr5ksgfk+DNO0Vn+CzIYZx9B1LP32N1srYqqQmvRiAT1lH9TBd8trwzIE1YzDgvpiPNIrBq8IScVv1CQsi/hhTK1jH69oIdhyZa9U6t/s///4cegItDaC8bsTnotyM+hSBySSoIORhpRBpuX0exwoOOrcRM=;5hwaKmb91acrumHEDF+1Eg=="
 ---
 

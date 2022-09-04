@@ -9,8 +9,8 @@ ampWebUrl: "https://www.computerworld.com/article/3672428/blockchain-ai-and-the-
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3672428/blockchain-ai-and-the-metaverse-tools-for-better-decision-making.amp.html"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Computerworld
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Can A Metaverse AI Win America's Got Talent? (And What That Means For The Industry)"
-    excerpt: "When “Simon Cowell” performed on the America’s Got Talent stage, no one was more shocked than the man himself. How did this happen? In their one-of-a-kind audition, leading AI company Metaphysic transformed singer Daniel Emmet into Cowell and earned a spot in the semifinals."
-    publishedDateTime: 2022-08-30T06:31:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2022/08/30/can-a-metaverse-ai-win-americas-got-talent-and-what-that-means-for-the-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/08/30/can-a-metaverse-ai-win-americas-got-talent-and-what-that-means-for-the-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/08/30/can-a-metaverse-ai-win-americas-got-talent-and-what-that-means-for-the-industry/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/630daea09d4909d48e04b7ea/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 926
-        isCached: true
   - title: "The AI tasked with keeping the metaverse safe comes with a lot of GPU firepower"
     excerpt: "AI-powered servers with Nvidia GPUs will give potential metaverse hackers a few things to think about. At yesterday's VMware Explore 2022 conference in San Francisco, server giant VMWare announced the vSphere 8—a metaverse-ready data center platform with artificially intelligent security."
     publishedDateTime: 2022-08-31T09:11:00Z
@@ -56,6 +40,20 @@ related:
         width: 630
         height: 354
         isCached: true
+  - title: "Exploring WAIC 2022: 5 highlights from the metaverse and AI-focused Shanghai tech event"
+    excerpt: "This year’s WAIC places a heavy focus on the metaverse, aiming to demonstrate the integration of AI with the metaverse."
+    publishedDateTime: 2022-09-02T11:07:00Z
+    webUrl: "https://technode.com/2022/09/02/exploring-waic-2022-5-highlights-from-the-metaverse-and-ai-focused-shanghai-tech-event/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 33
+    images:
+      - url: "https://technode.com/wp-content/uploads/2022/09/3C6A9991-scaled.jpg"
+        width: 2560
+        height: 1706
+        isCached: true
   - title: "Harness the power of the metaverse, blockchain and AI through data centres"
     excerpt: "As the world tries to recover from the grips of COVID-19, the demand for virtual experiences has drastically increased. With new technologies related to the development of computers, graphics, and hardware,"
     publishedDateTime: 2022-08-30T09:03:00Z
@@ -65,6 +63,15 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 17
+  - title: "AICP Introduces The First Artificial Intelligence Blockchain Designed And Developed By The Ruleless Algorithm"
+    excerpt: "AICPrime is making a splash in Artificial Intelligence and blockchain technology after introducing the AICPrime Blockchain, an expandable AI blockchain powered by ruleless algorithms that have the ability to process and model data beyond human-known patterns."
+    publishedDateTime: 2022-09-03T03:27:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/marketersmedia-2022-9-3-aicp-introduces-the-first-artificial-intelligence-blockchain-designed-and-developed-by-the-ruleless-algorithm"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 13
 
 secured: "kkQXULrZXzBnq5Tn5uvxZBbWv7ZfgWU9tYX4vNwXhUar4wFdK0n2JaGMQvBA1ddZnG/4XozeTFJMnFhSE+0lvweMtnH98IZSmK71ZYOmy6ZVnPL6731u55c3gJHBKktiRTmX8VNF13O6kexBfKuN+3MwGpgwr1HDycKf1nQmuohxY3NMAxrUUr0vC5VW2VOek+yfux7kArF8w95s+L9Q1HBhUnMcZG7qRGvDaQTdNsB9Hh19ZgmJ3xm1zxBQRZGkpOc2+TC2lXtV+Up8eVHPqy+Jn8Imuat6OzQ8O0ZpDXvaWpSJZvp+BuA6XqCpFftKuZtsFvCNc4KdaqrUxLGQum7948f3Im3X1k8GSNDgODhkq5iBAjIu++MZMb4eabS2dxU4PH6RM1HoLA5nmqKM6L85zz0T1gYNgs3OUiD/pDRW2+2R47Ipnj7/rutMVahQJcGUm5LrG48DXigShMYUw1PXhQk2kh9ul6XkX0OhBDet2+NqKsRNBJOC25f40B3B/NG3gq2XiK0e/ySdnWiTmw==;0gPa53AiETb0Qqyx4MyKMA=="
 ---

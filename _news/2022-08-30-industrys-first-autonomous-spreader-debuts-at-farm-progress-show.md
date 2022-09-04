@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Industry's first autonomous spreader debuts at Farm Progress Show"
-excerpt: "With artificial intelligence, Raven&CloseCurlyQuote ... 1 The Case IH Trident 5550 applicator with Raven Autonomy allows for one or more driverless machines in the field without an operator present in the cab, providing the flexibility of full control ..."
-publishedDateTime: 2022-08-30T14:41:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2022/08/30/industry-s-first-autonomous-spreader-debuts-at-farm-progress-show"
-webUrl: "https://stockhouse.com/news/press-releases/2022/08/30/industry-s-first-autonomous-spreader-debuts-at-farm-progress-show"
+title: "Industry’s first autonomous spreader debuts at Farm Progress Show"
+excerpt: "Case IH and Raven Industries introduce the agriculture industry’s first autonomous spreader: the Case IH Trident ™ 5550 applicator with Raven Autonomy ™. Unveiled at Farm Progress Show 2022, this innovative solution delivers on customers’ demands for autonomous equipment to help solve labor challenges and increase productivity on their operations."
+publishedDateTime: 2022-08-30T14:32:00Z
+originalUrl: "https://www.eagletribune.com/region/industry-s-first-autonomous-spreader-debuts-at-farm-progress-show/article_bd0c3b06-7889-504f-b01b-c4540ac61a68.html"
+webUrl: "https://www.eagletribune.com/region/industry-s-first-autonomous-spreader-debuts-at-farm-progress-show/article_bd0c3b06-7889-504f-b01b-c4540ac61a68.html"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/f7/6f732a6f-663d-5699-9263-ff52f4203a6d/630e214bf2e79.image.jpg?crop=606%2C318%2C522%2C0&resize=606%2C318&order=crop%2Cresize"
+    width: 606
+    height: 318
+    isCached: true
 
 related:
   - title: "Industry’s first autonomous spreader debutsat Farm Progress Show"
@@ -62,6 +68,6 @@ related:
         height: 720
         isCached: true
 
-secured: "h4kEQpDpn5G3ZgXP06sao4irXz7XD2tMZ++x8Ra3/MHJkhYvCCPeB54dVOw+07O9FoIgOSK2crmgAvbGCoAP1PeoFYOZ0D+urfKaxCxUOP+nRGTims1RAqRikppMp96aQpnLN5zAhw+t5lX+fUDXqTG3Wkg+ePB7LsDy+x1WOoTu2QzJ3/hjxmD2AcaMVFpRW9xefEYFUJuzQmkJpfA+3v94gRi/vOOA/zED5AT6+By0KgaokWqS8Q2NgKCCdKqADOtQZ1kQFDVGSq5IQD2iyWpJD+6IytZerGu6aRkJQJWsfdeM8w0ioEFNzPicSOwhbpsbvbYgAE8sQeOzocT/s1Pro/R3HmIk0X/YF0Gj8y4=;JjsWHDNfE/M6qOEWSymYDQ=="
+secured: "+um60O92vE+vEKYD0/7xNk26u/HrmSMiv+lj9CivTix1BUTLtNaCN5RY8Soc4daNc0Gnl76jwidtCGWF3R4e4yedF5LZXLRjpzaDZt02xjdB7D/hmV2FcSvojFzPA8x1y9XR0DPKY9QdSIKtJRmkGeYwCMPsP/UAtSSZ7aWDcbPeKe9pB56XEZZS8rM70hMa4pryBr+WYgZGcylj3TRsrrtSoLDQKaq5UryqoDEaWMZhWO+48SZDrhisteJERtBTaFbEuyLZBZDUnf9QS49szlQxgoF5Kfhoi69J29lITO67oNtirzvV87LwkaWKHGmFDXrAbcCvHNYpOleplkA8kqFPqShOdd1by8Q7o2/MQ5E=;We4U7KXE2jjIUSBIQjjX4w=="
 ---
 

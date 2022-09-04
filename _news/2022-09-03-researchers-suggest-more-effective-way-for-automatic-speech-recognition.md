@@ -3,10 +3,10 @@ category: news
 title: "Researchers suggest more effective way for automatic speech recognition"
 excerpt: "Popular voice assistants such as Siri and Amazon Alexa have made automated speech recognition (ASR) available to the general public. Despite decades of development, ASR models suffer with consistency and dependability,"
 publishedDateTime: 2022-09-02T18:43:00Z
-originalUrl: "https://theprint.in/features/researchers-suggest-more-effective-way-for-automatic-speech-recognition-2/1114253/"
-webUrl: "https://theprint.in/features/researchers-suggest-more-effective-way-for-automatic-speech-recognition-2/1114253/"
-ampWebUrl: "https://theprint.in/features/researchers-suggest-more-effective-way-for-automatic-speech-recognition-2/1114253/?amp"
-cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/features/researchers-suggest-more-effective-way-for-automatic-speech-recognition-2/1114253/?amp"
+originalUrl: "https://theprint.in/features/researchers-suggest-more-effective-way-for-automatic-speech-recognition/1114252/"
+webUrl: "https://theprint.in/features/researchers-suggest-more-effective-way-for-automatic-speech-recognition/1114252/"
+ampWebUrl: "https://theprint.in/features/researchers-suggest-more-effective-way-for-automatic-speech-recognition/1114252/?amp"
+cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/features/researchers-suggest-more-effective-way-for-automatic-speech-recognition/1114252/?amp"
 type: article
 quality: 59
 heat: 79
@@ -58,6 +58,6 @@ related:
         height: 317
         isCached: true
 
-secured: "V4l2u6nDZwynvMHziYwxJ3Ose3eUpHsRUTfDkCAXbCt65ffFCAwxkJZ2ihGIlb1/8PFX6lat1ww0GqnasSp7HnK5ofcaJirpCq38LnEDoRPL17yBhNKNOIaHN5RNSmgc0yGrrGV9DjG/dbg90X+naDxB22ys39/f3ALNvOwP0dnhqrJZVg7lcV8zZ+MikMEJ7jqVLZecogjZBKG0B/OIyzo1Fdj7bK1kxgPPQpez3p6i4USUBTfD3L0rgnyNmgmOjyEB+QjJ2LcotDwjsclAczuLhaEZln2abqU4bdVpPIsFJ3f2jdDu3RLTdDXN0FYV1d6YmFPmwiabTvtvss03bI4nwbqNFwFktOXxWLN4zYI=;d0lH5b4Cw5Y9w64gJaoIpA=="
+secured: "/xutetEF+ebkIuM2jtLBiolFDiuIgSVv6DbX0eH+j3qUXbK7tfagnFVMrsDsGmA+VKbSD/7RMr/JVg0iefdeSZhxge0srQSdwa5WjfmklBzk91F7QlD9hou/oUux7U6VionIDHkRHNLO9vkQluaLaFBORvtkltLRvMg0le9TSo6rh6RsT5SgfR1LCvKOoAAlirqpR1t9r49LIKGfyzYoBY43+4Kcp/lcWHS5ZVfr0P7aMSi7MIsoxE7CyX2LQpHkv0fhtGTyP21Nvn140UPvKsujAX1r59tWtaNxSg7Ppfo0wKiV42aLiY40W3FDoQTe791stU8whtyYaebagnsmEbSekPf2AraAlkySzqfJayU=;4oHJuRvQTqbldOGJ705EdA=="
 ---
 

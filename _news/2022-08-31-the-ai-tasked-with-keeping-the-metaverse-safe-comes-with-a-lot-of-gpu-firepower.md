@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Can A Metaverse AI Win America's Got Talent? (And What That Means For The Industry)"
-    excerpt: "When “Simon Cowell” performed on the America’s Got Talent stage, no one was more shocked than the man himself. How did this happen? In their one-of-a-kind audition, leading AI company Metaphysic transformed singer Daniel Emmet into Cowell and earned a spot in the semifinals."
-    publishedDateTime: 2022-08-30T06:31:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2022/08/30/can-a-metaverse-ai-win-americas-got-talent-and-what-that-means-for-the-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/08/30/can-a-metaverse-ai-win-americas-got-talent-and-what-that-means-for-the-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/08/30/can-a-metaverse-ai-win-americas-got-talent-and-what-that-means-for-the-industry/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/630daea09d4909d48e04b7ea/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 926
-        isCached: true
   - title: "Blockchain, AI, and the metaverse — tools for better decision-making?"
     excerpt: "When it comes to working together, people need help — whether they're in a conference room or in the metaverse. Could technology such as blockchain and AI make a difference?"
     publishedDateTime: 2022-09-01T07:06:00Z
@@ -57,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Exploring WAIC 2022: 5 highlights from the metaverse and AI-focused Shanghai tech event"
+    excerpt: "This year’s WAIC places a heavy focus on the metaverse, aiming to demonstrate the integration of AI with the metaverse."
+    publishedDateTime: 2022-09-02T11:07:00Z
+    webUrl: "https://technode.com/2022/09/02/exploring-waic-2022-5-highlights-from-the-metaverse-and-ai-focused-shanghai-tech-event/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 33
+    images:
+      - url: "https://technode.com/wp-content/uploads/2022/09/3C6A9991-scaled.jpg"
+        width: 2560
+        height: 1706
+        isCached: true
   - title: "Harness the power of the metaverse, blockchain and AI through data centres"
     excerpt: "As the world tries to recover from the grips of COVID-19, the demand for virtual experiences has drastically increased. With new technologies related to the development of computers, graphics, and hardware,"
     publishedDateTime: 2022-08-30T09:03:00Z
@@ -66,6 +64,15 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 17
+  - title: "AICP Introduces The First Artificial Intelligence Blockchain Designed And Developed By The Ruleless Algorithm"
+    excerpt: "AICPrime is making a splash in Artificial Intelligence and blockchain technology after introducing the AICPrime Blockchain, an expandable AI blockchain powered by ruleless algorithms that have the ability to process and model data beyond human-known patterns."
+    publishedDateTime: 2022-09-03T03:27:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/marketersmedia-2022-9-3-aicp-introduces-the-first-artificial-intelligence-blockchain-designed-and-developed-by-the-ruleless-algorithm"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 13
 
 secured: "OXZvQNevriSdTeE3LmgVB7fs9gHp+vERs9E8Nadr2QtNXvbl782u39YJ16vXVYcueHObWJUTQzLWEz4zCrQgalip3M3egwG/eIPnIz8g0lNORamv5efccQE79M3Jgl8i2DgFqdCyBn9wJf0kReofCnypUJPJYpAbI7lQLxMLDCCM1rrbWiVIVe3OsQP3vq+E30YwYYrhGSnLulsUF3qmSUVjA6511YWAAsdnw0NByk49Dr1BFLe5yViwwbWomOGMcove77V88UlrRksCQ6LWhWooZzJsCmLNITXfuUNUUC0J7L972cNjAMWDGebeLGFk9LPZJIWZzOD2MIhLi1tndMHC2wtDOvw7c7ZrY/zIfS1QhalvfhoHygbIxA8zrvQOjMZKLhDdywI2SDIoFU5ce7cSrXyxQrP5xJUbX/6pLdeeUckTq95gK/1BNSRuBn0AYnMsIHhtePTAOSt2TVd+XB3JzsZj/6vOC21sjxXxdXg23zuGzUxP1gVOsOjkDPgn2CLVMSIR0B9y1ldz3uVkcg==;jwA5iu/aKjYXat+oj96CpA=="
 ---

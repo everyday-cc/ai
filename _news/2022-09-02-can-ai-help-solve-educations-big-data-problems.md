@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/education/computers-tech/intel-usin
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/education/computers-tech/intel-using-ai-to-solve-education-big-data-problems/"
 type: article
 quality: 104
-heat: 115
+heat: 114
 published: true
 
 provider:

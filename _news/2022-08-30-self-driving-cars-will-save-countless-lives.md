@@ -98,6 +98,20 @@ related:
       name: cbs17.com
       domain: cbs17.com
     quality: 19
+  - title: "Self-driving cars are a thing of the future. But is that future right around the corner?"
+    excerpt: "The future of driving isn’t just about electrification. It's about automation. Yes, just as it seems like science-fiction to drive several hundred miles without a drop of gas – available now ..."
+    publishedDateTime: 2022-08-30T12:52:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2022/08/29/self-driving-cars-future-gm-tesla/7896389001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 15
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/07/25/USAT/672df511-5caf-4574-abf2-e16795544a55-GTY_545144498.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Self-driving cars roll around Austin"
     excerpt: "Earlier this year, autonomous vehicle technology company Argo AI launched its driverless operation in Austin. Argo AI public policy and government relations manager Sly Majid said these cars are"
     publishedDateTime: 2022-09-02T12:16:00Z

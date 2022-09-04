@@ -1195,17 +1195,26 @@
       ]
     },
     {
-      "path": "_news/2022-08-26-impacts-of-artificial-intelligence-on-gambling.md",
-      "title": "Impacts of Artificial Intelligence on Gambling",
-      "excerpt": "There are many implications of artificial intelligence (AI) in the gambling industry, and this article will discuss some of these impacts. AI can be used to improve player experiences and identify problem gamblers. It can also help online casinos manage ...",
+      "path": "_news/2022-08-26-artificial-neural-networks-market-2022-receive-overwhelming-hike-in-revenue-that-will-boost-overall-industry-growth-to-2030.md",
+      "title": "Artificial Neural Networks Market 2022 Receive Overwhelming Hike in Revenue That Will Boost Overall Industry Growth to 2030",
+      "excerpt": "The Artificial Neural Networks market revenue was $$ Million USD in 2016, grew to $$ Million USD in 2022, and will reach $$ Million USD in 2030, with a CAGR of % during 2022-2030. Global ...",
       "sourceUrl": null,
-      "webUrl": "https://www.techzone360.com/topics/techzone/articles/2022/08/26/453315-impacts-artificial-intelligence-gambling.htm",
-      "originalUrl": "https://www.techzone360.com/topics/techzone/articles/2022/08/26/453315-impacts-artificial-intelligence-gambling.htm",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-2022-receive-overwhelming-hike-in-revenue-that-will-boost-overall-industry-growth-to-2030-2022-08-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-2022-receive-overwhelming-hike-in-revenue-that-will-boost-overall-industry-growth-to-2030-2022-08-26",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -1213,9 +1222,18 @@
       "publishedDateTime": "2022-08-25T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Tech Zone 360",
-        "domain": "techzone360.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1224,7 +1242,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "Machine Learning",
         "AI"
       ]
     }

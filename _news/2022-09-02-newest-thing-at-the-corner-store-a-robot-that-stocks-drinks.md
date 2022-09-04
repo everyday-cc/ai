@@ -70,6 +70,22 @@ related:
         height: 853
         isCached: true
   - title: "Robot that stocks drinks is newest thing at the corner store"
+    excerpt: "A small robot with a clip-like hand and the smarts to know which drinks are popular is part of an effort to make convenience stores even more convenient"
+    publishedDateTime: 2022-09-01T13:52:00Z
+    webUrl: "https://abcnews.go.com/Weird/wireStory/robot-stocks-drinks-newest-thing-corner-store-89163673"
+    ampWebUrl: "https://abcnews.go.com/amp/Weird/wireStory/robot-stocks-drinks-newest-thing-corner-store-89163673"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Weird/wireStory/robot-stocks-drinks-newest-thing-corner-store-89163673"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 59
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_50fa119f88e046efacc597befb3a52ab_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Robot that stocks drinks is newest thing at the corner store"
     excerpt: "A small robot with a clip-like hand and the smarts to know which drinks are popular is part of an effort to make convenience stores even more convenient."
     publishedDateTime: 2022-09-02T07:40:00Z
     webUrl: "https://www.seattletimes.com/business/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/"
@@ -80,15 +96,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
-  - title: "Robot that stocks drinks is newest thing at the corner store"
-    excerpt: "A small robot with a clip-like hand and enough smarts to know which drinks are popular is part of an effort to make convenience stores even more convenient."
-    publishedDateTime: 2022-09-01T12:52:00Z
-    webUrl: "https://nypost.com/2022/09/01/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 19
   - title: "Robot that stocks drinks is newest thing at the corner store"
     excerpt: "TX SCARA can restock up to 1,000 bottles and cans a day  Tokyo: A small robot with a clip-like hand and enough smarts to know which drinks are popular is part of an effort to make convenience stores even more convenient."
     publishedDateTime: 2022-09-03T19:47:00Z

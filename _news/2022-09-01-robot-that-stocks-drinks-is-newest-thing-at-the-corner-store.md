@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Robot that stocks drinks is newest thing at the corner store"
-excerpt: "A small robot with a clip-like hand and enough smarts to know which drinks are popular is part of an effort to make convenience stores even more convenient."
-publishedDateTime: 2022-09-01T12:52:00Z
-originalUrl: "https://nypost.com/2022/09/01/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/"
-webUrl: "https://nypost.com/2022/09/01/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/"
+excerpt: "A small robot with a clip-like hand and the smarts to know which drinks are popular is part of an effort to make convenience stores even more convenient"
+publishedDateTime: 2022-09-01T13:52:00Z
+originalUrl: "https://abcnews.go.com/Weird/wireStory/robot-stocks-drinks-newest-thing-corner-store-89163673"
+webUrl: "https://abcnews.go.com/Weird/wireStory/robot-stocks-drinks-newest-thing-corner-store-89163673"
+ampWebUrl: "https://abcnews.go.com/amp/Weird/wireStory/robot-stocks-drinks-newest-thing-corner-store-89163673"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Weird/wireStory/robot-stocks-drinks-newest-thing-corner-store-89163673"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://s.abcnews.com/images/Technology/WireAP_50fa119f88e046efacc597befb3a52ab_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Meet the Japanese Robot Who Stocks Drinks at the Corner Store"
@@ -95,6 +103,6 @@ related:
       domain: gulfnews.com
     quality: 19
 
-secured: "dFl/omSj5gpB55er6OLH0Rjka5vLB/aeM5hkYBEWSMNPaBrCHKKCmS+7ypbKfqQzgbb9kGwZdpW3CYd4PCBd2xCJnwZObHJHSVO97rXIwL1K+AyJs4hUrJOyrFSZp3WbskZ5gG7+Whsoy7q0zfmcOxaM8dklaSN+5NMB3Y9UnYKm0SEF/21l3E0cz+uc7k37QeBExDLMsRlhic2Xs5m2P+9sErgmdpX4B3LsnF9qTdoL61UqpDXTJ5ZR74U5fqKunjfOevas7nGVpEvU2F4qxesqMzavNkq4DwVYNRBC12vj1+wgYWeTG7JeBfopE/mLgiA4eUPN6r0C0MxeQ//vXGIms39rqUWIi1WNBBu/bqMWiELc9jbUNT7++CwlNcpp/6FfUYhzSKuadmHKLOapYVuroDgsEoFl4HtRzLuU8wwge7522q7aHZmYtaeG6e9BTtEmZZZkQw0GXFR/XkD7MhS+berx1Rjrj+8cprbgwPlXQXN8v4FZtDRuFjSSJB5x4jpgfc0XO+rc37mooZ2eCA==;RkO1cRDL1kkurzHzRtb+8w=="
+secured: "v1CkT0b1c7y02GWwfEt6+3sgrZYTI55J0JD9ZSPQjQ+es/YHuFlkt7/FRvxI3eIbW5HFDgZV4ad1aLyRgdaOC7NnMPMbaduMoihSMLiSoljH2vyLHyISdLly1WQW2S/je7sCSq7oP6Q12wGY1iJ9H+YbuvZsz45pykVCpfb8MIUekmUIoarRXxjmUCo9cangMUfckgvpjhySx8NTvwOcJm6MRAk4w9UXED7XB8pY9edY/qg0NmmrkbZGwf5+DfEakGZo8bw/7Wrudxj9B4PuqRz2dAi+Up+cJc4UpdtYL6bnX5jLQkBSic6pdoZnQ+g0Mjf+UbsFpl2k2hLAHLEiYdL9iK34VAZik+NQfVJyShc=;jQhaXtLyIknJ++iOhJOnJQ=="
 ---
 

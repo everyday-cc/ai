@@ -31,18 +31,13 @@ images:
 related:
   - title: "Removing the data security barriers and concerns to accelerate speech recognition usage in radiology"
     excerpt: "According to Scribetech, security is a key barrier to adopting speech recognition – despite its potential to accelerate reporting time, drive accuracy, and enable radiologists to deal with a ..."
-    publishedDateTime: 2022-08-31T08:29:00Z
-    webUrl: "https://www.woodtv.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/"
+    publishedDateTime: 2022-08-31T08:50:00Z
+    webUrl: "https://www.kxan.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/"
     type: article
     provider:
-      name: WOOD-TV
-      domain: woodtv.com
-    quality: 41
-    images:
-      - url: "https://i0.wp.com/www.woodtv.com/wp-content/uploads/sites/51/2022/09/Port-Sheldon.png?w=2000&#038;ssl=1"
-        width: 790
-        height: 585
-        isCached: true
+      name: KXAN
+      domain: kxan.com
+    quality: 21
 
 secured: "ZiUJzAiEOsZyRNSke0pU2UYXLlSnGeder9lkJ4nQJkDkqpHfF/63hVViOmBQldmp4updJTMrCl6PWJkoYVgZ+LHc+QAp4tEV9AMVNnCNWRT9IU+VRDOIk1X8vhzLvhKmM+vzGGZUW5R5moylzHe899W0JdGgAwnZi2Gs7+Mg7ROUeYFWuncxg1NIb2MAb3IgPYL1vYh943zL/tN72QKFQsiLQ2rNBOKyp5YODraEAMfqPh18G5s0/pOcIO47ruZpUSXDYE8b+gdbwM7EOsgzlUfwj4jGZCA+oS/1oJyQQOusUHNCRCU23yNwZwcl0It6lp/90dQUNjr2JcUQEnNOnVV5AHun+J8lEjRCCzgqgc/2n1MVTwRcChDHZ89BdZ/ugcPbdK5vp9t0SN0j4sUzLG9qHAzPQhncISLzHUpQcoxOsjfpTkZhS8VSuvoIL3jDQsoEHs5nY4QtS+GOm0aJcSLcuMAr1AvcKcRoeO4wS8hQR0IhjkkuBqf9QunpFa/qCNEGe2JaY3nLTYVRQ69XBQ==;lGhAsU4nMWA6At36eSn6gQ=="
 ---
