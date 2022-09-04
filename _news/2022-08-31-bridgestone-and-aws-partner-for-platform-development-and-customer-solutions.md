@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Bridgestone to launch last-mile marketplace with AWS"
-    excerpt: "Bridgestone Corp. ( OCTUS: BRDCY ), known as the world’s largest producer of tires, has announced it will be using Amazon Web Services to build a marketplace for last-mile services and fleet solutions."
-    publishedDateTime: 2022-08-30T13:47:00Z
-    webUrl: "https://www.freightwaves.com/news/bridgestone-to-launch-last-mile-marketplace-with-aws"
-    type: article
-    provider:
-      name: freightwaves.com
-      domain: freightwaves.com
-    quality: 19
   - title: "Bridgestone hopes AWS cloud system accelerates digital growth"
     excerpt: "Bridgestone Corp. has begun using Amazon Web Services as its cloud provider to accelerate the creation of digital platforms, launch new solutions for its customers, improve data analysis and streamline IT operations."
     publishedDateTime: 2022-08-31T18:47:00Z

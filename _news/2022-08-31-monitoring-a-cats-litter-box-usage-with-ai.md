@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 689
         isCached: true
-  - title: "Four Tips For Hiring AI Candidates Who Will Stick Around"
-    excerpt: "Putting AI technology into commercial products demands a diverse set of skills and values that can make identifying and hiring a long, expensive process."
-    publishedDateTime: 2022-08-30T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/30/four-tips-for-hiring-ai-candidates-who-will-stick-around/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "dbDtlSDaI8Q0XLLJ9SGEYHlHkHegRXdKKUVE21VCddaGmxAOxluhK4bRTUwll2k121vt9WEzIO08P5GFe/9RE1rt1VF7pWkRd1dAXcB0SmOIkzLX6L7eGI6C32li6ggnz9uDhAkla23+Efuk4nc+xdotnf/M1p9pO8/Oz5wI/PJ+UsbCDh9/4Jm+zBZuZfHw5jF1yH+YaMoiN7wpH+WKxbuSzBvh+mXUypIWtj4rMbKBtYATa36wZnDVe1jVRBvDFLtkzx1W9PefymdWqmazdsK/IXL8Drf+mit3N22yIomacl1aLJDbMoK9Qgr62k9O+k1VyRpLVkfPHTA1PFFVX+eoEsVFXua6s0k/c4ElBYs=;WgiwvbaF7i7sUP30nfFvsg=="
 ---

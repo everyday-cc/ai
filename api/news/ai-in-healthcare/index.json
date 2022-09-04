@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-09-04-researchers-discover-how-artificial-intelligence-can-detect-tumour.md",
-      "title": "Researchers discover how artificial intelligence can detect tumour",
-      "excerpt": "AI can be trained to detect whether or not a tissue picture contains a tumour. However, until recently, it has remained a mystery as to how it makes its judgement",
+      "path": "_news/2022-09-04-how-artificial-intelligence-can-be-trained-to-detect-tumour-research.md",
+      "title": "How artificial intelligence can be trained to detect tumour: Research",
+      "excerpt": "The Bochum team's explainable AI is therefore based on the only kind of meaningful statements known to science: on falsifiable hypotheses. If a hypothesis is false, this fact must be demonstrable through an experiment.",
       "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/international/researchers-discover-how-artificial-intelligence-can-detect-tumour-122090400071_1.html",
-      "originalUrl": "https://www.business-standard.com/article/international/researchers-discover-how-artificial-intelligence-can-detect-tumour-122090400071_1.html",
+      "webUrl": "https://www.hindustantimes.com/lifestyle/health/how-artificial-intelligence-can-be-trained-to-detect-tumour-research-101662275513848.html",
+      "originalUrl": "https://www.hindustantimes.com/lifestyle/health/how-artificial-intelligence-can-be-trained-to-detect-tumour-research-101662275513848.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-01/14/full/1610640588-3918.jpg",
-          "width": 620,
-          "height": 464,
+          "url": "https://images.hindustantimes.com/img/2022/09/04/1600x900/_b58a8de0-332a-11e8-9916-7e63ef9446cf_1662275576577_1662275576577.jpg",
+          "width": 1600,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/international/researchers-discover-how-artificial-intelligence-can-detect-tumour-122090400071_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/researchers-discover-how-artificial-intelligence-can-detect-tumour-122090400071_1.html",
-      "publishedDateTime": "2022-09-03T20:46:00-07:00",
+      "ampWebUrl": "https://www.hindustantimes.com/lifestyle/health/how-artificial-intelligence-can-be-trained-to-detect-tumour-research-101662275513848-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/health/how-artificial-intelligence-can-be-trained-to-detect-tumour-research-101662275513848-amp.html",
+      "publishedDateTime": "2022-09-04T00:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,9 +40,8 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
         "AI",
-        "Machine Learning"
+        "AI in Healthcare"
       ]
     },
     {
@@ -442,10 +441,10 @@
     {
       "path": "_news/2022-08-27-sanford-health-partners-to-overcome-data-bottleneck-hindering-medical-ai-tools.md",
       "title": "Sanford Health partners to overcome data ‘bottleneck’ hindering medical AI tools",
-      "excerpt": "The use of artificial intelligence, which enables computers to learn, has been hampered by a lack of clinical data. Sanford Health has joined with Dandelion Health and Sharp HealthCare to try to solve that problem.",
+      "excerpt": "SIOUX FALLS, S.D. — The power of computer-driven artificial intelligence has offered ... along with San Diego-based Sharp HealthCare. Sanford is the country’ largest rural health system ...",
       "sourceUrl": null,
-      "webUrl": "https://www.inforum.com/newsmd/sanford-joins-partnership-to-overcome-data-bottleneck-hindering-medical-artificial-intelligence-tools",
-      "originalUrl": "https://www.inforum.com/newsmd/sanford-joins-partnership-to-overcome-data-bottleneck-hindering-medical-artificial-intelligence-tools",
+      "webUrl": "https://www.grandforksherald.com/newsmd/sanford-joins-partnership-to-overcome-data-bottleneck-hindering-medical-artificial-intelligence-tools",
+      "originalUrl": "https://www.grandforksherald.com/newsmd/sanford-joins-partnership-to-overcome-data-bottleneck-hindering-medical-artificial-intelligence-tools",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -464,11 +463,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-27T08:37:00-07:00",
+      "publishedDateTime": "2022-08-27T08:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "INFORUM",
-        "domain": "inforum.com",
+        "name": "Grand Forks Herald",
+        "domain": "grandforksherald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -478,9 +477,8 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {

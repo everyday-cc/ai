@@ -96,6 +96,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "For Japan’s small shops, robot in store"
+    excerpt: "A small robot with a clip-like hand and enough smarts to know which drinks are popular is part of an effort to make convenience stores even more convenient."
+    publishedDateTime: 2022-09-04T06:50:00Z
+    webUrl: "https://www.arkansasonline.com/news/2022/sep/04/for-japans-small-shops-robot-in-store/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 39
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2022/09/04/2Gjapan0904-1cmyk_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Robot that stocks drinks is newest thing at the corner store"
     excerpt: "TX SCARA can restock up to 1,000 bottles and cans a day  Tokyo: A small robot with a clip-like hand and enough smarts to know which drinks are popular is part of an effort to make convenience stores even more convenient."
     publishedDateTime: 2022-09-03T19:47:00Z

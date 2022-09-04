@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/news/ma-researchers-create-ai-algori
 webUrl: "https://healthitanalytics.com/news/ma-researchers-create-ai-algorithm-to-enhance-lung-cancer-radiation-therapy"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -19,28 +19,14 @@ topics:
   - AI
 
 related:
-  - title: "AI May Help Predict Colon Cancer Recurrence"
-    excerpt: "Researchers developed an artificial intelligence algorithm to potentially improve the prediction of colon cancer recurrence, which may help patients receive the appropriate treatment."
-    publishedDateTime: 2022-08-30T15:00:00Z
-    webUrl: "https://www.curetoday.com/view/ai-may-help-predict-colon-cancer-recurrence"
+  - title: "The researchers using AI to analyse peer review"
+    excerpt: "Anna Severin explains how her team used machine learning to try to assess the quality of thousands of reviewers’ reports."
+    publishedDateTime: 2022-09-01T13:30:00Z
+    webUrl: "https://www.nature.com/articles/d41586-022-02787-5"
     type: article
     provider:
-      name: Cure Today
-      domain: curetoday.com
-    quality: 39
-    images:
-      - url: "https://media.curetoday.com/images/0vv8moc6/curetoday/6335051b45c870d35067e0bdc9258aecc299f735-3600x2045.jpg?fit=crop&auto=format"
-        width: 3600
-        height: 2045
-        isCached: true
-  - title: "Using AI to predict COVID surges"
-    excerpt: "A team of researchers recently developed an artificial intelligence model that can predict which coronavirus variants will likely dominate and cause surges. The work was led by Jacob Lemieux, an assistant professor of medicine at Harvard Medical School and Massachusetts General Hospital,"
-    publishedDateTime: 2022-08-30T13:45:00Z
-    webUrl: "https://medicalxpress.com/news/2022-08-ai-covid-surges.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
+      name: Nature
+      domain: nature.com
     quality: 17
 
 secured: "AvbFckqTaPGWKZjXcdAFidBDaUz7OfRFKSlmH07iA2jbj3787D72YvJX6VtR39/PjYNvS0gxmPJYktOhzrdki7jPQp9UCsXbt5uuw6FkJkq4Mb7GxbFyLvEZcikxvT4gGkrdrZpbJXskVnxFpu7HOfexoKWVOckTthN6HUURgokOhub1BoNj508oYxm3mwtREMM7SCUC2Qv0uZnuZWZcTRVE/6P8pFlxjtJcHEpZk3UlcSJ4X/95K/i1TcRnmf+c0C2uM5u/tmQZ8ZkVLusIvIotJIZLNJdKsGbGinPJMqTVIK0kD60IwhJ78uYAP2QxitZeFF+9fXcxTekxsPzVBsaxrXnyoSPKxHcYIHEhFGk=;DaaZSondC3hIFXlEeqEEcw=="

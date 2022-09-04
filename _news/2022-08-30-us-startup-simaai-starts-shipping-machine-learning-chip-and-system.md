@@ -1,28 +1,32 @@
 ---
 category: news
-title: "U.S. Startup SiMa.ai Starts Shipping Machine Learning Chip and System"
-excerpt: "(Reuters) - Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management ... It is used for industrial robotics, drones, security cameras, satellite imaging and ..."
-publishedDateTime: 2022-08-30T13:24:00Z
-originalUrl: "https://money.usnews.com/investing/news/articles/2022-08-30/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system"
-webUrl: "https://money.usnews.com/investing/news/articles/2022-08-30/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system"
+title: "U.S. Startup SiMa.ai Starts Shipping Machine Learning Chip And System"
+excerpt: "industrial robots, and eventually self-driving cars in, San Jose, California, U.S., in this undated handout photo. Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity ..."
+publishedDateTime: 2022-08-30T16:39:00Z
+originalUrl: "https://www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305"
+webUrl: "https://www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305"
+ampWebUrl: "https://www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305?amp=1"
 type: article
-quality: 83
+quality: 93
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AI in Robotics
   - AI
   - Machine Learning
   - AI Hardware
+
+images:
+  - url: "https://d.ibtimes.com/en/full/3810267/us-startup-simaai-starts-shipping-machine-learning-chip-system.jpg"
+    width: 1200
+    height: 798
+    isCached: true
 
 related:
   - title: "AI startup SiMa.ai debuts 'purpose-built' AI chip for edge computing"
@@ -108,15 +112,6 @@ related:
       name: insidebigdata.com
       domain: insidebigdata.com
     quality: 21
-  - title: "SiMa.ai Ships First Industry Leading Purpose-built Machine Learning SoC Platform to Customers for Embedded Edge Applications"
-    excerpt: "SiMa.ai, the machine learning company enabling effortless deployment and scaling at the embedded edge, today announced that it has begun shipping the industry’s first purpose-built software-centric Machine Learning System-on-Chip platform for the embedded edge – the MLSoC."
-    publishedDateTime: 2022-08-30T13:40:00Z
-    webUrl: "https://www.design-reuse.com/news/52563/sima-machine-learning-soc-platform.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 9
   - title: "Allegro DVT Partners with SiMa.ai to Optimize Power Efficiency for Embedded Edge Applications"
     excerpt: "Seamless power optimization is critical for computer vision applications at the edge. With Allegro DVT's Encoder and Decoder IPs, SiMa.ai's customers can achieve high performance with low power without compromising efficiency or ease of use across markets such as smart vision,"
     publishedDateTime: 2022-08-31T16:04:00Z
@@ -127,6 +122,6 @@ related:
       domain: tmcnet.com
     quality: 8
 
-secured: "GXUz6pBdHzoMKnddEJkEwHtJEHJTGNNm/eTAo/a0V1B1NXesIlC7XK3uYeCVyty5vDSkAg55M9opZ8AkM9dNXzSaBBp1rdJaLR3Gt1QIKeofkSbHGJ+hR5nDhgBxDunvs+rUtqYCeWkRgtPGTJebej07WD3PP4aUQOiivu3bvGqb3+vB7V+inY9ops4S/e040WyY+duwu739g0U7N6NhMi7ZLpep61HPB3oOSOn06poJwx7XD/kFWBFz6/BXquZXDkwjV4hmwpMxJxYlwodI0mQI0jLjN1p367tGTgNk630pHHXkDM955rJxbvTMLYPTAnLXfjHSwSVKMf9vlG0P/2q6tr7J6Whoi1GJDlS5a+A=;Gw7iCRB+KGavpR2OpRdBLA=="
+secured: "0GlfBeG3sRmKjc28/NSQDi7DEOcMXanKPFV3AtCM3LiIAvql/FYZan4/HCbJI8QsHvb9ueSHaD4i7oLIGqKePppbNji4AJMEWqD+irSelBsuMUYC8nnyU0AbgOGHcpnyRKpGnbv1JjhM66c+2kFxTqQhh99DKwUaJmX/RLBUT8dZlmHFbFQ/sSstqSLBE5CwOloeriJPM1JWGZDfvZfHgnFNeu76l9JUyW1shlwgmXoUqgHebv0oxh44T8wRPGsuQsRi85kwCM4kAFb3Fj8M2zJ+MNwYxJp6sdJMdhmgk+B9lBBO9hjcooBxXhb4rAV5F2pNmOmwguQNWFK+71rmis2WnwF/XeN2FTel14Ii+b0=;8/5qQY8kqMO6Z9gSNm/i4w=="
 ---
 

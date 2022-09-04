@@ -93,6 +93,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "For Japan’s small shops, robot in store"
+    excerpt: "A small robot with a clip-like hand and enough smarts to know which drinks are popular is part of an effort to make convenience stores even more convenient."
+    publishedDateTime: 2022-09-04T06:50:00Z
+    webUrl: "https://www.arkansasonline.com/news/2022/sep/04/for-japans-small-shops-robot-in-store/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 39
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2022/09/04/2Gjapan0904-1cmyk_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Robot that stocks drinks is newest thing at the corner store"
     excerpt: "TX SCARA can restock up to 1,000 bottles and cans a day  Tokyo: A small robot with a clip-like hand and enough smarts to know which drinks are popular is part of an effort to make convenience stores even more convenient."
     publishedDateTime: 2022-09-03T19:47:00Z
@@ -103,6 +117,6 @@ related:
       domain: gulfnews.com
     quality: 19
 
-secured: "v1CkT0b1c7y02GWwfEt6+3sgrZYTI55J0JD9ZSPQjQ+es/YHuFlkt7/FRvxI3eIbW5HFDgZV4ad1aLyRgdaOC7NnMPMbaduMoihSMLiSoljH2vyLHyISdLly1WQW2S/je7sCSq7oP6Q12wGY1iJ9H+YbuvZsz45pykVCpfb8MIUekmUIoarRXxjmUCo9cangMUfckgvpjhySx8NTvwOcJm6MRAk4w9UXED7XB8pY9edY/qg0NmmrkbZGwf5+DfEakGZo8bw/7Wrudxj9B4PuqRz2dAi+Up+cJc4UpdtYL6bnX5jLQkBSic6pdoZnQ+g0Mjf+UbsFpl2k2hLAHLEiYdL9iK34VAZik+NQfVJyShc=;jQhaXtLyIknJ++iOhJOnJQ=="
+secured: "m7rPWzzDTEbuAc0DI5M5EWsEtj7LHqFHiHYTkxoX1w0to4Ru0xBB9AXyMRV6Ky9oj+inJlWPadKE1ilkZ+2gcVZ5e+p9qLrllJrwujybBGG29t6Yx38hYkWQR2Ob3czJwZqPzFFI32vK9vPEclS+HfIFQdbAF3Lc6Rbbjq27/qnRsHp1SqGu8XOV3buN+TtZOPv0b9bkPsw+6V268qMZe/XAr3deNRqGImHnnE84oD4FMP7QiZeV9qnk+8hOIF+YuXTJxlCxc9XOB38vwLbg2klqCIgULgDco96LF9AGUb6m1uLsf+oTimc266xzZkGgalYGbMYi4Rq4a8GiRtqpOcZpowLFdNTXFxO2WjqT/CkfoBHZiqClG0i6i8GPyCIRzNZTAb91FuMcjDQfqKq6PumBZOXnfJh8qjIOJgyJJ9aAbftDKg7m0Kngo+RGmlCeF2lFAsF0XhuCuKmgYrK3jpLbae/gSFqNXjJYi67Eixdy1pJTTQ6cPIArAqx5IlsYTtWK/1AWoOhcqYC721kW9w==;hW2i9dCt2xSZsWv9Uor+pA=="
 ---
 

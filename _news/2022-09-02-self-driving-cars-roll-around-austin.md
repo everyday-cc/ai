@@ -84,15 +84,6 @@ related:
       name: cbs17.com
       domain: cbs17.com
     quality: 19
-  - title: "Self-Driving Cars Will Save Countless Lives"
-    excerpt: "Policy-makers must keep up with technological developments in automobiles so that better cars can save lives.The black Mercedes-Benz sped south on L.A.’s La Brea Avenue at, allegedly, more than 90 miles per hour."
-    publishedDateTime: 2022-08-30T13:21:00Z
-    webUrl: "https://www.manhattan-institute.org/self-driving-cars-will-save-countless-lives"
-    type: article
-    provider:
-      name: Manhattan Institute
-      domain: manhattan-institute.org
-    quality: 4
 
 secured: "poJWVZx5YgQ6VPtJymsNxXxuEpLeURo3dtmyi6TeAfZFl7cgwHUODAYcYdkEQGNzNUo0v8HUOZDwEoT2qNCJuP5FhJJmY/CLOTJ+jt9YsbHLNildZjVoauw0Tay6NH8TwC4amBT79+12MiUQeD9vCAxllWBI/o4tbpUs/OvjFj+SV9YoojF1KNTV5N3GWfJf1/8pZjHvnXFEJA9hXc4MHj0bsubMEhQTPkGnrEXyJOzvzoBchVecnplB6R3jtEMctwWEBBNkMGvrwZ4o7x7rLxnV8dm742+q8fI25L/Di2NqcQ0D6s5H+egLbxqrJ3UV9OsZfpHyt/zpbDJIHhfGkEGlT+0kAjUwQJ4b1+oyOecBg/qrGmwxFFrIt951ASfjYtQ039Z74tlW1uFN+Qk4tIAMOzE/KmCdiC9/nYjkT6Lm2w2oz9Fffgi9IMSbZIakGjzGv71DsrnvkVzdmyRTetCZdmRJlODSUC/vD2IWnTSYDjTdtRfFPCH1rKOzdLWEd2MjJQwL2GfJc8IrHdmZog==;2iSJ8MiJA7ve+6LGrn0UdA=="
 ---

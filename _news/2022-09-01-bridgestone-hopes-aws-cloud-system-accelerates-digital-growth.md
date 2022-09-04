@@ -7,7 +7,7 @@ originalUrl: "https://www.tirebusiness.com/news/bridgestone-hopes-amazon-cloud-s
 webUrl: "https://www.tirebusiness.com/news/bridgestone-hopes-amazon-cloud-system-accelerates-growth"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Bridgestone to launch last-mile marketplace with AWS"
-    excerpt: "Bridgestone Corp. ( OCTUS: BRDCY ), known as the world’s largest producer of tires, has announced it will be using Amazon Web Services to build a marketplace for last-mile services and fleet solutions."
-    publishedDateTime: 2022-08-30T13:47:00Z
-    webUrl: "https://www.freightwaves.com/news/bridgestone-to-launch-last-mile-marketplace-with-aws"
-    type: article
-    provider:
-      name: freightwaves.com
-      domain: freightwaves.com
-    quality: 19
   - title: "Bridgestone and AWS partner for platform development and customer solutions"
     excerpt: "Corporation (Bridgestone) announced that the company is using Amazon Web Services, Inc. (AWS) as its strategic cloud provider in support of the company’s sustainable mobility solutions. Using AWS Internet of Things (IoT),"
     publishedDateTime: 2022-08-31T09:24:00Z

@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "How artificial intelligence can be trained to detect tumour: Research"
+    excerpt: "The Bochum team's explainable AI is therefore based on the only kind of meaningful statements known to science: on falsifiable hypotheses. If a hypothesis is false, this fact must be demonstrable through an experiment."
+    publishedDateTime: 2022-09-04T07:16:00Z
+    webUrl: "https://www.hindustantimes.com/lifestyle/health/how-artificial-intelligence-can-be-trained-to-detect-tumour-research-101662275513848.html"
+    ampWebUrl: "https://www.hindustantimes.com/lifestyle/health/how-artificial-intelligence-can-be-trained-to-detect-tumour-research-101662275513848-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/health/how-artificial-intelligence-can-be-trained-to-detect-tumour-research-101662275513848-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 74
+    images:
+      - url: "https://images.hindustantimes.com/img/2022/09/04/1600x900/_b58a8de0-332a-11e8-9916-7e63ef9446cf_1662275576577_1662275576577.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Researchers discover how artificial intelligence can detect tumour"
     excerpt: "AI can be trained to detect whether or not a tissue picture contains a tumour. However, until recently, it has remained a mystery as to how it makes its judgement"
     publishedDateTime: 2022-09-04T03:46:00Z
@@ -41,6 +57,20 @@ related:
       - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-01/14/full/1610640588-3918.jpg"
         width: 620
         height: 464
+        isCached: true
+  - title: "Health: Researchers discover how artificial intelligence can be trained to detect tumour"
+    excerpt: "Artificial intelligence (AI) can be trained to detect whether or not a tissue picture contains a tumour. Read more on Dynamite News"
+    publishedDateTime: 2022-09-04T07:17:00Z
+    webUrl: "https://www.dynamitenews.com/story/health-researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour"
+    type: article
+    provider:
+      name: Dynamite News
+      domain: dynamitenews.com
+    quality: 45
+    images:
+      - url: "https://www.dynamitenews.com/images/2022/09/04/health-researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour/631450fc124d0.jpg"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "LRwodczAawb0RHVhG/AKW5jicsewsoeobGH9rrepDs9xlMYjJOjmoDG3LEYH4g0EQOmWkOYQJSO4zx13iu+1hmIEmkTaoiB+SL4iGaWtDy53kgHxOLqWWcmRfesKrtZwafeuKqPoFvowaaOQiLjdK4us/YdZkOkqG97czcq17tRy0Ze9QDO1C2a0udNuZFRdzaiTHN7rK82LdIG0+asqEjT+n4WI5HPDGsayCyQhMOWxmAk5kBDLsWbjb/OChY7zJIdNfqma3/udPGgK3bQzdoo4yDvIH2OWU2fs/+DK810XBvAWPUhc3x1Iz5+Tiwxx9nQ5rTd+t8qCZ4m9NMPU2EI5nD/wwcZsh7oiN7gWYA0=;5WXB8mwSAlHjjFK4BhbYcA=="

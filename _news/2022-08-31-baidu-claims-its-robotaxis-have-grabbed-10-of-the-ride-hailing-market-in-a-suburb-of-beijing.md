@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2022/08/31/baidu-claims-its-robotaxis-have-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/08/31/baidu-claims-its-robotaxis-have-grabbed-10percent-of-a-ride-hailing-market.html"
 type: article
 quality: 78
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 3988
     height: 2652
     isCached: true
+
+related:
+  - title: "Baidu’s Apollo Go robotaxi business surpasses 1M rides in China"
+    excerpt: "With Geely’s automotive expertise and Baidu’s advanced software, JIDU, the self-driving EV startup, was born in March 2021. Since its foundation, JIDU has unveiled several EV concepts, starting with the ROBO-01. State-of-the-art Nvidia Drive Orin ..."
+    publishedDateTime: 2022-08-31T02:57:00Z
+    webUrl: "https://techstory.in/baidus-apollo-go-robotaxi-business-surpasses-1m-rides-in-china/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/08/Baidu-Apollo-RT6.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "BWB9E7k3FoBanC3UOb80E2ha7FtB1G154ILc9CkSzcnYba7SqDdJymH2dINrEBbN0ZzDXZfbRGi+IO566Fa9XECZAbDBJIZ7BJsU2Y7BVrUU8FFgnRxu0ulXT30W/LYtrYqW0LzwGPeEZgHDs7TQr+KdA/zA9Ng4RSE6/v3HM2T20ywJWp8vCsce3PnIWKTT8kPGq2ch8xSYyUu3bWUtVf/aoPtdT0QP1jQetEMx+60X087SutLBFmrv8sOl7kDSlNReNvBk0jIJCUxHr+SRFhMIVMheHtyQ9dTUiEPm+mjgm/tO88bGRM3H7dug5eMt7HLEo6U9GEQ5/P+DAO0FGrO5QHmgUSrjg3DwC6o97k0=;4y5bAAwAAF+lntwMrRS9pQ=="
 ---

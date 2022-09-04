@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/magazines/panache/metas-ai-chatbot-hates
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/metas-ai-chatbot-hates-mark-zuckerberg-but-does-it-care-about-racism/amp_articleshow/93968867.cms"
 type: article
 quality: 58
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Meta Open-Sources 175B Parameter Chatbot BlenderBot 3"
-    excerpt: "Meta AI Research open-sourced BlenderBot 3, a 175B parameter chatbot that can learn from live interactions with users \"in the wild.\" In evaluations by human judges, BlenderBot 3 achieves a 31% rating increase compared to the previous BlenderBot version."
-    publishedDateTime: 2022-08-30T13:35:00Z
-    webUrl: "https://www.infoq.com/news/2022/08/meta-blenderbot3-chatbot/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 4
 
 secured: "WbTcClQmSF59B2KT2Qcn1jGcgUryIdujFXmuM1HoQzvDEjxDZ4EIdMSPOc1Eh+YjaxbgiriWNjm0Q/zAumeamVNPlCLBZFrUDs2PpRbmgrNCJLZ3IpswVBN0RNrsSEZsa1IC3bZbyXiWSMfGV7ejKoR0ViL9K2UflyyzrsUYvQivK1sVXgvjIc7bRI1Phq88vI6YgCDMghrC+MULnZpLT8Cz5WlZ05hCBSQkzt7B1K7TxPauipyxxcDt0LddOpd1h+JrNR8SoEy3ytdwjK9D9n6ZKaex+X7anlOd0bj+K67muv0RIGUFtkHa1jexIhwhsqQUbYJ5CiwqHeEtCKTZ2NeDJsw/EMg/KeJTGqQ1picsjxcj2N2eMoFXOyI5pAT+9RI+crjpVh5xTDCuTxMv4gnbH1gqeGXNixxNP1SZt365ubiq1rgNT7MN+KJrfbfoRG0DOSfjvTRF155JaozalzjoNIgaJmj0GynCvSfzDemxyGaq6LGBZfueghY4ilFmcL5x6aolMh+GMp3FMZoAcA==;X9QvGHjpwafOP5fRyC/E1A=="
 ---

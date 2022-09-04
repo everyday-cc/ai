@@ -7,7 +7,7 @@ originalUrl: "https://www.freemalaysiatoday.com/category/leisure/health/2022/08/
 webUrl: "https://www.freemalaysiatoday.com/category/leisure/health/2022/08/31/ai-can-now-detect-parkinsons-disease-as-we-sleep/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,24 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "AI Detects Parkinson’s Disease from Nocturnal Breathing"
-    excerpt: "There are over 10 million people worldwide living with Parkinson’s disease (PD) according to the Parkinson’s Foundation. A new study published in Nature Medicine shows how artificial intelligence (AI) machine learning can detect Parkinson’s disease and monitor its progression from nocturnal breathing."
-    publishedDateTime: 2022-08-30T13:31:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202208/ai-detects-parkinson-s-disease-nocturnal-breathing"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202208/ai-detects-parkinson-s-disease-nocturnal-breathing?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202208/ai-detects-parkinson-s-disease-nocturnal-breathing?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-08/pic1166.gif.jpg?itok=1yCRk8y8"
-        width: 1528
-        height: 800
-        isCached: true
 
 secured: "j+2svM1rXWeteoGD/gclSUWV3EDgiTIYjw7aSGU0aJZ/yrK/mtVcEIprGhCOr5Hjq2uv7hs4/VZjYV0iW+6RfpF+hZgzhsxYe6eo95v7XXQnRYjxlm+94xWvWFf+BWl+xY2RQEv3YyOLzndze80k1tnzXOfoLTnW0uU+fvAaADqilCQzehWra+xEPC0ZoVoByKpBv+uVv47WB97vF5yNviQcrgF6l7/AHHJRqUlt6LTBJT7IbPrFke4ehyGXfsHbUyLfMnr4CLmqLVi/y+3pYPcz3CbJehUf/XIduY6/Pyezl+MZCD5ZhOP5aUl/yA7XyAek6n+QS9N+VaFZyyDmfOC/eRS3Dq3RO9MAbjK8B/Aa2IbdvqTfHchMXgS2jevSsUS7DBFBoMtwQrzPI4UHStm98ouUP1Cj1JJVoVjgpAKHTcJ7v96ZIJbZ/GIUqqNm8abgVaiIQ5qCiOfgnwsECi5INqaDjnb8heQFGUJGmzLa7sEfUpYGDUkWFfq9gJ0A8j9CbpNZ6zQnw+vhOT063g==;tk6GXJmTRZg0QrCpVIALTg=="
 ---

@@ -76,15 +76,6 @@ related:
       name: cbs17.com
       domain: cbs17.com
     quality: 19
-  - title: "Self-Driving Cars Will Save Countless Lives"
-    excerpt: "Policy-makers must keep up with technological developments in automobiles so that better cars can save lives.The black Mercedes-Benz sped south on L.A.’s La Brea Avenue at, allegedly, more than 90 miles per hour."
-    publishedDateTime: 2022-08-30T13:21:00Z
-    webUrl: "https://www.manhattan-institute.org/self-driving-cars-will-save-countless-lives"
-    type: article
-    provider:
-      name: Manhattan Institute
-      domain: manhattan-institute.org
-    quality: 4
   - title: "Self-driving cars roll around Austin"
     excerpt: "Earlier this year, autonomous vehicle technology company Argo AI launched its driverless operation in Austin. Argo AI public policy and government relations manager Sly Majid said these cars are"
     publishedDateTime: 2022-09-02T12:16:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/3-model-monitoring-tips-for-reliable-resu
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-model-monitoring-tips-for-reliable-results-when-deploying-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Four Tips For Hiring AI Candidates Who Will Stick Around"
-    excerpt: "Putting AI technology into commercial products demands a diverse set of skills and values that can make identifying and hiring a long, expensive process."
-    publishedDateTime: 2022-08-30T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/30/four-tips-for-hiring-ai-candidates-who-will-stick-around/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Monitoring A Cat’s Litter Box Usage With AI"
     excerpt: "Estefannie] is a proud cat owner, but one of her cats has a bad habit of eating plastic. That means she needs to keep an eye on that cat’s bowel movements, but with two cats in the house,"
     publishedDateTime: 2022-08-30T18:30:00Z

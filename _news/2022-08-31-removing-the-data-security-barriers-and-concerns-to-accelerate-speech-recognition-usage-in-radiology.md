@@ -52,20 +52,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Emotion Detection and Recognition Market Latest Advancements and Business Opportunities 2031"
-    excerpt: "Emotion detection and recognition market is set to witness steady growth during 2021-2031. One of the major growth drivers for the emotion detection and recognition market happens to be the rising adoption of Internet of Things,"
-    publishedDateTime: 2022-08-30T13:26:00Z
-    webUrl: "https://www.fmiblog.com/2022/08/30/emotion-detection-and-recognition-market-latest-advancements-and-business-opportunities-2031/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 13
-    images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2022/08/Stringer-Pallets-Market-420x300.jpg"
-        width: 420
-        height: 300
-        isCached: true
 
 secured: "O8vXcQAq1jNlfAh0ZgnbHGGEK8NycarU7s6J3VGzEt3wEpZ6bby92s3ANNE4q9hhInL7u8kdtcxe5iVMr1FxaTRQEmwfig2jLqwlAiY+oobVEvzq3roX5h9IKsV2zC5huKjJI1NeTwsw09dzmfjRdBPTl0UY008xToLGOkYEhegk4d2MukM3pUYbpWRtd8hHjTbBxwEKmoivAm7SObZluS5AfcyD1pzaIIJls9vukeh4C/fenJCD9RdcBVrLG8ViTF+QnwruVwiWkJsyvUl/h/NZs5U9AWkEAfRVe4Ewc+Bk7l0IsyDD5IGJjtx97m2XxM9ZE5LWUSpHKc2TAkz9Ab33SYkLsYyecnMShIR46XA=;86lnOQ1S+w2n1AjXmGSGhQ=="
 ---

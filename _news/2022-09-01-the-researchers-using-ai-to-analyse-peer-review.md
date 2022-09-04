@@ -7,7 +7,7 @@ originalUrl: "https://www.nature.com/articles/d41586-022-02787-5"
 webUrl: "https://www.nature.com/articles/d41586-022-02787-5"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "MA Researchers Create AI Algorithm to Enhance Lung Cancer Radiation Therapy"
+    excerpt: "Research from Brigham and Women’s Hospital shows that providers can save time and bandwidth on lung cancer radiation therapy with the help of a deep-learning algorithm."
+    publishedDateTime: 2022-08-31T17:32:00Z
+    webUrl: "https://healthitanalytics.com/news/ma-researchers-create-ai-algorithm-to-enhance-lung-cancer-radiation-therapy"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 32
 
 secured: "oJhyv0NC8hbzGfEAdJNMMOfJvjjX4+7NUeUoIDsfnjkTWJbx7nRocW88aS7QSgv11smtY23ZOzuQ53O5EmEBklL+8tApl8/qD0ocLrqvso+kXUyv4dW8K4fZT3frRvTPLnlctQFjAJdBDQUm2pqViqYXrV5zsUbvU4AlopSyZkohQpuDB+uH/fiz5Jz8wDecXF8AkVdeBoRmo07uE6gVIpuWIWSvEO15iTo6+JyepFKJZN8Baxnu7/rVJG1KNYNSG7+xaa0RUNp3XqtKxMIPBWUSBPniExXAJCCtvUuQMQ8MyqlwcbuIq00zBupo1010zDoPAcNer4VBnMZAO75YF3uvlf4nqRKvnmdTB55jcThhlTL8WZ5YGGjjkC4OC++MogEHWZ4+5bhvsSQ8rZ0a8AjZpPx+fz9JutM43cSLzTIhwmR0HC4tsI+37ZQh1gnHDNX8idxb9EaPZsZ0mXCkLLZOxryK0HL6Vx/rsGAWgM3AvXNPEo7iobvqUoveQUMss1Zn5xvyRCq12J5ogg2usA==;EcC94EJJ4h/KkRW8PVOvtw=="
 ---

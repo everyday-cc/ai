@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-startup-sima-debuts-purp
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/"
 type: article
 quality: 106
-heat: 186
+heat: 176
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "U.S. Startup SiMa.ai Starts Shipping Machine Learning Chip And System"
+    excerpt: "industrial robots, and eventually self-driving cars in, San Jose, California, U.S., in this undated handout photo. Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity ..."
+    publishedDateTime: 2022-08-30T16:39:00Z
+    webUrl: "https://www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305"
+    ampWebUrl: "https://www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 93
+    images:
+      - url: "https://d.ibtimes.com/en/full/3810267/us-startup-simaai-starts-shipping-machine-learning-chip-system.jpg"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "US startup SiMa.ai starts shipping machine learning chips and systems"
     excerpt: "Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management & Research Company, said on Tuesday it started shipping chips and systems to customers that are testing them, an important step for mass production."
     publishedDateTime: 2022-08-30T16:19:00Z
@@ -48,15 +64,6 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "U.S. Startup SiMa.ai Starts Shipping Machine Learning Chip and System"
-    excerpt: "(Reuters) - Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management ... It is used for industrial robotics, drones, security cameras, satellite imaging and ..."
-    publishedDateTime: 2022-08-30T13:24:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2022-08-30/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 83
   - title: "US startup SiMa.ai starts shipping machine learning chip, system"
     excerpt: "The product, called MLSoC (machine learning system on chip), is designed to process video and images using machine learning and traditional computing on a single platform. It is designed for industrial robotics,"
     publishedDateTime: 2022-08-30T20:25:00Z
@@ -108,15 +115,6 @@ related:
       name: insidebigdata.com
       domain: insidebigdata.com
     quality: 21
-  - title: "SiMa.ai Ships First Industry Leading Purpose-built Machine Learning SoC Platform to Customers for Embedded Edge Applications"
-    excerpt: "SiMa.ai, the machine learning company enabling effortless deployment and scaling at the embedded edge, today announced that it has begun shipping the industry’s first purpose-built software-centric Machine Learning System-on-Chip platform for the embedded edge – the MLSoC."
-    publishedDateTime: 2022-08-30T13:40:00Z
-    webUrl: "https://www.design-reuse.com/news/52563/sima-machine-learning-soc-platform.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 9
   - title: "Allegro DVT Partners with SiMa.ai to Optimize Power Efficiency for Embedded Edge Applications"
     excerpt: "Seamless power optimization is critical for computer vision applications at the edge. With Allegro DVT's Encoder and Decoder IPs, SiMa.ai's customers can achieve high performance with low power without compromising efficiency or ease of use across markets such as smart vision,"
     publishedDateTime: 2022-08-31T16:04:00Z

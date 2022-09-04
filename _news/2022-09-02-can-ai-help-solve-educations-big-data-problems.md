@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/education/computers-tech/intel-usin
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/education/computers-tech/intel-using-ai-to-solve-education-big-data-problems/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "AI to Treat Women with Heart Problems"
-    excerpt: "Women are more likely than men to die from heart attacks. The causes are age disparities and the burdens of comorbidities, which makes risk assessment in women difficult."
-    publishedDateTime: 2022-08-30T14:52:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=13195"
-    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=13195"
-    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=13195"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 59
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_13195_16618709843685787.jpg"
-        width: 1000
-        height: 666
-        isCached: true
 
 secured: "b0mwCgh+NjcO8Kdm8UVKF1CjD7TvKxhStAPBDWpoQnvqlYwa0cZD4ovGBh3wZhkM2RcFzivoyjjTLz0V4Kc8Uiqg61XJvRmZwtlBiJe8eeYgyhby5nZAGDXj0GUYI77Kpx4rgZt1jtAelXB/MR+ZvB6cDVYkS8fiC+q6t5GHSJailst5LOUS5V92dipLfw+A9F2TKpuP/cumwJmTkpnihjq0o/TM4z5WUvZiOg4rNcs8sUVRxYom8VvijEmimClJlAlFCJNiEmXP9MWjHzy4sq0i0ZJk9wDulQZu8u2DfCbRmkqewy6din//AWFKx4UKyGOfslQPj6nzlVlaKzRlwrhkZmb5Z5bu9L5I9GfAp/d1x3RJy1P27QsctEJI0x13UgpfkCo37WaKZX68jTympeABZoIYDW7+0g8b9P0q1ixgpACkaIdBoyX2isWmQGQ2Z/1nVenXQXoWvwDkK3cy3JBaI/mQMl0cSC+SqFsRrui9FC801THZ/fhC9viJcCVsEH7dKjXv7cvofWOahxg+MA==;ANOZepK4rq8rz3Ql1fo3UA=="
 ---

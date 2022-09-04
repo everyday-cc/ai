@@ -52,20 +52,6 @@ related:
       name: KXAN
       domain: kxan.com
     quality: 21
-  - title: "Emotion Detection and Recognition Market Latest Advancements and Business Opportunities 2031"
-    excerpt: "Emotion detection and recognition market is set to witness steady growth during 2021-2031. One of the major growth drivers for the emotion detection and recognition market happens to be the rising adoption of Internet of Things,"
-    publishedDateTime: 2022-08-30T13:26:00Z
-    webUrl: "https://www.fmiblog.com/2022/08/30/emotion-detection-and-recognition-market-latest-advancements-and-business-opportunities-2031/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 13
-    images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2022/08/Stringer-Pallets-Market-420x300.jpg"
-        width: 420
-        height: 300
-        isCached: true
 
 secured: "kMp/EjPsQsPs+O56+YdL1Peu+x3HixlyA+qg2oUcJNR42SUMFVstPdiGpgxl+f00Kll8CVUiP7wNSD8+XRl+6fmdrIANvwqY3S6I0gHYSQYzdZxxRo73dJx7OPecG1XqoHMm4JtwcwHsR9kQSbkSXI5vkSUKsYE/XnqnwFxe1VxmLGsSCcg/MTQmNugdC90brKHkHypC78lwcGqq6q326NQBdS98sFvlAurW5Q+F99QxQUZx88zhdHwW21UFnSdjI8iRcpEV305MqNT9XF0gww7LbWsTtqV4NE6Irjl3FMEydSsyylaZzYdPtbLNdHGTjQUhB4lRbg6v1MP14b8Lu7mcyzDbXyxT5xSYvf1Uh90=;p04CKKzMfBTeqJR8/A1MnQ=="
 ---

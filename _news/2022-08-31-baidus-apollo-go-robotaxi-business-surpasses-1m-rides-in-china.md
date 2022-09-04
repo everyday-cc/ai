@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu’s (BIDU) Apollo Go service strikes 1 million EV autonomous ride milestone in China"
-    excerpt: "Chinese tech giant Baidu (BIDU) beat Wall Street’s Q2 earnings estimates on Tuesday despite several headwinds in China’s economy. Baidu’s Apollo Go, its robotaxi business, unveiled its next-gen autonomous EV,"
-    publishedDateTime: 2022-08-30T14:56:00Z
-    webUrl: "https://electrek.co/2022/08/30/baidus-apollo-go-service-strikes-1-million-ev-autonomous-rides/"
-    ampWebUrl: "https://electrek.co/2022/08/30/baidus-apollo-go-service-strikes-1-million-ev-autonomous-rides/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/30/baidus-apollo-go-service-strikes-1-million-ev-autonomous-rides/amp/"
+  - title: "Baidu claims its robotaxis have grabbed 10% of the ride-hailing market in a suburb of Beijing"
+    excerpt: "Chinese tech giant Baidu said its robotaxis have grabbed about 10% of the ride-hailing market in a suburb of Beijing city. Baidu began offering free robotaxi rides in the suburban region in ..."
+    publishedDateTime: 2022-08-31T05:32:00Z
+    webUrl: "https://www.cnbc.com/2022/08/31/baidu-claims-its-robotaxis-have-grabbed-10percent-of-a-ride-hailing-market.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2022/08/31/baidu-claims-its-robotaxis-have-grabbed-10percent-of-a-ride-hailing-market.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/08/31/baidu-claims-its-robotaxis-have-grabbed-10percent-of-a-ride-hailing-market.html"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 80
+      name: CNBC
+      domain: cnbc.com
+    quality: 78
     images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Baidu-Apollo-Go.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Baidu, Inc. (BIDU) Q2 2022 Earnings Call Transcript"
-    excerpt: "Q2 2022 Results Conference Call August 30, 2022 08:00 AM ET Company Participants Juan Lin - Head of Investor Relations Robin Li - Co-Founder and"
-    publishedDateTime: 2022-08-30T17:00:00Z
-    webUrl: "https://seekingalpha.com/article/4537971-baidu-inc-bidu-q2-2022-earnings-call-transcript"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 39
-    images:
-      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
-        width: 1200
-        height: 1200
+      - url: "https://image.cnbcfm.com/api/v1/image/107111680-1661904834859-gettyimages-1355764512-vcg111359334633.jpeg?v=1661907038"
+        width: 3988
+        height: 2652
         isCached: true
 
 secured: "rDF8bnzoVYLPTss2ueu1MijIuOMrilFMESfHORNynRafTB56d3mNYijikRDc4hRKr7+o/KX2XqIGmDT2QwSDxXTDyp8HhRpZLMsnFLpxTrPxl4oQdlhJg28DDC9gSp3IO+RjHQC8/KiOdBsSm121sMd8NaSVUuYczlXkIAnFlhGw2ecgWLt+GbsYAzH2GCcUDK1A+Sw3OZd8y2v1fdgO/rj0CquPNAhq/FT0/VFQyRd0t8Nlf5JCBgEZC5Xo2M8R06632H0NtZ4Qg8Rt/JlXSQap2VMxFM1fIs/3nP5mOye6q1YL8sXbwieh3a1I0QuwZs2vzHPjKyXRO3syfvGSUIDYrC19qmG3EVGj0xzlzvtw9TeDqejNnWTKXbcMMuceI2MEH6VHFDaSMtu8MgL0zNOu2GCLJuO204OXWQa/vcQ1Qp2gXxHZEQn2QRR1RyzSTjncELULK89ARWiAbOPxdkfeuMyFz+wC3ej4PvF24re1inPE599fJ5Sa7u3LYkENBRFJVz9yoeBrZaqBj+hWag==;wDoEtZhfSqRdLFsnfNnI5g=="
