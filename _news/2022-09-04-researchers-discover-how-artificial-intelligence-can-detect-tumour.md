@@ -8,9 +8,9 @@ webUrl: "https://www.business-standard.com/article/international/researchers-dis
 ampWebUrl: "https://wap.business-standard.com/article-amp/international/researchers-discover-how-artificial-intelligence-can-detect-tumour-122090400071_1.html"
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/researchers-discover-how-artificial-intelligence-can-detect-tumour-122090400071_1.html"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: Business Standard
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-01/14/full/1610640588-3918.jpg"
@@ -42,6 +43,6 @@ related:
         height: 420
         isCached: true
 
-secured: "BtnzX6uFWGssNwEnvrzM6EdfRAfkor950D4naXGkgKyBiX3JZc90ot8se/hCsAU30QKArAcatk5cpT5PgfMSPbPX8gKD0eP7PUOly+841riFeP7SbmOK3QMNY+COt1bo7GXd5mddZgOpFlpPkCxwG7/+C6baWRjUJgCAuB3W/7Fixj+XGX0h+tOvVRBwmVxpN0/VqSzux+mU0M9FzkXqbYzV4UGU21oDHfe51/6Ss3Atc2wyQBmYU1a5XfHSD0FR2B/BHUNle9OjYDCkbJy3ToX8BRwedXtAHtCkfEMA76JP6WeBBWymzuw9uM+cyrCQGjnBKc+YeawKwEmG0rKQdmeZeHDS2HDf52gB+3a3510=;JiwoZlMj+al9FMdpMb9RZQ=="
+secured: "DYgrOutqa4p7LBBsl8SX4KBGh4OJ9t3dqCXjiFQhmsYCimdYeuj81UlvM0jDvNRHK4Cch5Z6eCDo6akufIf2odzgAi6KL4mEVZYC3YFJ7bjeC6ATz6IY4um1UL0230wzE1OxoqpEAlCuWFcfdjYtvRl6SLVj4/HCko8cs95r+d5nBgPAphqbZPQluuZ3WsvWl6WY5VfakQ5iluxDI1DnrugZP0kZBI/hOcqMrUssqz9A8xsLSLdZNFgSdRGiCty9lARp3a3yNnbNeykx0Ms8YFz+vlNqbZTNvJyklNGOyGenFTQLR9e1Eorpix6gWWotg6kR2rHHV6pbY5hyHrsObQNuqtoPjGYDuDD8feYEwojKrJV2XS2rrH1zLrk6R+mXUTWFGUGE0uAIUvYm/o2ChuztT6yzBJ3jwAr2OcBYI9x/EVebMrsqtWewFd6IrTYu/65o+4sOOu3aMtAjOz9H5P9IvAUiShPKVYYOkDwOwwmVrauWs/pDNte0LFFkZu61nFqSYzOrUhraMfX7l7wvfg==;SoF9B55AF46CXwwYiJb51g=="
 ---
 

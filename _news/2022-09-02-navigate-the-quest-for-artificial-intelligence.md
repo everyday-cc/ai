@@ -38,15 +38,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Permanently dark region of the Moon finally illuminated with AI help"
-    excerpt: "NASA's Lunar Reconnaissance Orbiter has captured the few photons that reach into the shadowed areas of the Lunar south pole to reveal what is inside."
-    publishedDateTime: 2022-08-30T11:05:00Z
-    webUrl: "https://www.tweaktown.com/news/88208/permanently-dark-region-of-the-moon-finally-illuminated-with-ai-help/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
 
 secured: "tFctIbxFqNPnuVq6xE29VrNwSLiweIjFXXxK0o6Ru6TWCKysI8vmONb9quC3KEYQr7IiGrNUr2DACbsx25pbqnFLJBqypHbdiEinyW3Ii5PhkS0oYfCJ+8NUlV4sQnsjc43wKgYNhlR6Bw9gDM1a/jEA9fMWgjbf1JdydDkQck87S/bjeHKrMx9AyeWUpvWPnc0gHWl72VnFsWzEXxBoAQAQyxGCQE9fFGVgaFsm3SnCLNS7n7tTvPLbHHl51hPz1L0frtue7KklxzyH/YNpXHMcAjxeSpfKa/cfhVPaTHemPR1sqoTOvWZyH25rlO4EcRWWk6XbyF157zU1ps/3WQ4xm+79bKHIMfQe8pscEUqftQEdujiq1XPjl3vXQDuOAorl9MQCSjSzeWaCHnH8SR09F679RDFUEVucIZUD5/X9I728tkNcVKF/mRrfTNDq3LEUt4mgb6dDXene9j3A8bc/xQmKzM01hRDnOqjNBgAn+1FgoXQneOzb+Rem7rXGZ4qLbUKHpzCN0SUssRtDuw==;bv9IXdrjwYaUpbwy1CNI4A=="
 ---

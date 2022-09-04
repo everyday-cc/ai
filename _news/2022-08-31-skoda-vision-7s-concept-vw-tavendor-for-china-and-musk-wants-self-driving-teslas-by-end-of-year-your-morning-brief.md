@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Elon Musk wants self-driving US Teslas ready by year end – report"
-    excerpt: "Tesla founder Elon Musk has said he aimed to get self driving Teslas ready by the end of 2022 and hoped they could be in wide release in the United States and possibly in Europe, depending on regulatory approval,"
-    publishedDateTime: 2022-08-30T11:23:00Z
-    webUrl: "https://www.just-auto.com/news/elon-musk-wants-self-driving-us-teslas-ready-by-year-end-report/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 19
   - title: "Elon Musk Wants Self-Driving Teslas Ready Before The End Of The Year"
     excerpt: "Tesla's CEO revealed his top priorities while speaking about the importance of fossil fuels in the ongoing energy crisis"
     publishedDateTime: 2022-08-30T18:29:00Z

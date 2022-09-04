@@ -91,6 +91,20 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 36
+  - title: "Fintech move to forefront of residential mortgage lending as top banks retrench"
+    excerpt: "Triad consumers who choose a bank or credit union to originate or refinance a residential mortgage are becoming increasingly in the minority."
+    publishedDateTime: 2022-09-04T04:01:00Z
+    webUrl: "https://journalnow.com/business/local/fintech-move-to-forefront-of-residential-mortgage-lending-as-top-banks-retrench/article_a619fef2-28b9-11ed-b4a8-5b8e80e2fe79.html"
+    type: article
+    provider:
+      name: Winston-Salem Journal
+      domain: journalnow.com
+    quality: 35
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/9/97/9977d978-29a2-11ed-9be2-ff7df5e29b45/6310211052232.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "jm1LCWqy+WbLnEnuNG8V7bZAG4S+KXGS6dZSP4J+snzVBytS9OhdiK2PQEo6uLNV7OtkU/eHozXh9/srfqb6ERiJGytXCad0Ak/+aODpvnkSIGFJ7n8Vw5mbnZmoS275NS//TBvj3SStSmhf/MblQzy0GFG46BMxVVaijSygeYtOzsF+wj4L3/UBn12w2HeLxirs0ei3TRvmGqe4T9rnj/2lFRmSGC/YQ1F2hg++o+ZAjiZcu8bmwvZgsLCc1sfx0HRpAUr1WzjEtSzR7HWGnyI0M89XOuNrmKmVBlbLJKYu2K39zdGOPjUlRXWRtt6IqbjWwycljoqdPvP5u7jLTJrAPbeZz/V2vVuvXrXDipA1PGprE1XbLTsD/BQYLazFNqg19l70rFo/AFQcbzgIdKPE/1jd1xcsG5cOwInaGxndxdlFN/Jq1Mzw/kAthYwa7ijuaQv06Waqhw12kdLPeYT7Kac0ialgv0VB9zJ0juQBFI7ooLMN2PqOTnqHoYBkawIIbP22eijMdVtrJxAD/A==;8Nhu0NAr4vx/09watU9hyg=="
 ---

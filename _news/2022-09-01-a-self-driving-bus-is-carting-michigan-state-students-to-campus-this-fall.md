@@ -76,20 +76,6 @@ related:
       name: cbs17.com
       domain: cbs17.com
     quality: 19
-  - title: "Self-driving cars are a thing of the future. But is that future right around the corner?"
-    excerpt: "The future of driving isn’t just about electrification. It's about automation. Yes, just as it seems like science-fiction to drive several hundred miles without a drop of gas – available now ..."
-    publishedDateTime: 2022-08-30T12:52:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2022/08/29/self-driving-cars-future-gm-tesla/7896389001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 15
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/07/25/USAT/672df511-5caf-4574-abf2-e16795544a55-GTY_545144498.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Self-Driving Cars Will Save Countless Lives"
     excerpt: "Policy-makers must keep up with technological developments in automobiles so that better cars can save lives.The black Mercedes-Benz sped south on L.A.’s La Brea Avenue at, allegedly, more than 90 miles per hour."
     publishedDateTime: 2022-08-30T13:21:00Z
@@ -108,15 +94,6 @@ related:
       name: KXAN
       domain: kxan.com
     quality: 4
-  - title: "Don't trust self-driving cars? NC State researchers trying to change that"
-    excerpt: "If the idea of a self-driving vehicle zooming down Interstate 40 and trying to reach the offramp at rush hour scares you, you’re not alone. The autonomous vehicle market is projected to eclipse $724 billion by 2027, according to a report from Emergen ..."
-    publishedDateTime: 2022-08-30T12:00:00Z
-    webUrl: "https://www.bizjournals.com/triad/news/2022/08/30/nc-state-research-driverless-cars-public-trust.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 3
 
 secured: "oCbnn90dZ3Cu9UEA/RYi+ikglbBde99KOxdKpMsVYOq8h6VpHlIjpI7d7CM2sKTmayTeRBN4OaFhJRalzj5zMqKVa4oRIp8gQX0qR0WMKOYPxgooaPRNNSrdEYK3ay7gtcYBI0aPVKPX/u21HLC0Cftg4Z0mwxXU6fTDdvZUns3Hwzo+dCZQVZL3v6y7IQ3lZ26e9H0vXV82/P4JMdMOPJznVKlMUDRwW6D6zmYrmCyOul+T8LKKcMI3zJik2gvSsu7Mijwi/F7s1D6ULolgKEX6NKvgFSgIQBXp+SzuBSa8rHgP0GwmuVzMEnqMKqETUGhippu6+VMdpzydROgo12AacTcym0Ps36uZp7lTQyKEaURjBwwak/aU2HsIIzRGMzcj6RtvgOsDrhwvbSkR40U1a/BJ0U0X6yQxW1XzgzKogaSezs3T2Lmpd8lt3ywQYxwZ2Zn2CJcytzI13mbuyosA4/a6TFBb+Fn6llN1kdGA3rEwVoDij2LpiQ02jDF2aem4NI/vS9mWNINllAa1RQ==;n0P4mpcoDTqE9zS7UtXeng=="
 ---

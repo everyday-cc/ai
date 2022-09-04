@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "MITs AI model can detect Parkinsons by tracking breathing patterns"
-    excerpt: "The U.S. Dina Katabi Dina Katabi, the Thuan and Nicole Pham Professor in the Department of Electrical Engineering and Computer Science (EECS) at MIT and principal investigator at MIT Jameel Clinic, and her team have developed an artificial intelligence model that can detect Parkinson’s just from reading a person’s breathing patterns."
-    publishedDateTime: 2022-08-30T11:27:00Z
-    webUrl: "https://www.poandpo.com/in-sickness-and-health/mit_s_ai_model_can_detect_parkinson_s_by_tracking_breathing_patterns/"
-    ampWebUrl: "https://www.poandpo.com/in-sickness-and-health/mit_s_ai_model_can_detect_parkinson_s_by_tracking_breathing_patterns.amp"
-    cdnAmpWebUrl: "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/in-sickness-and-health/mit_s_ai_model_can_detect_parkinson_s_by_tracking_breathing_patterns.amp"
-    type: article
-    provider:
-      name: poandpo.com
-      domain: poandpo.com
-    quality: 59
-    images:
-      - url: "https://res.cloudinary.com/scotfiles/image/fetch/https://www.histerius.com/hs0822/dina_katabi.jpg"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "AI Detects Parkinson’s Disease from Nocturnal Breathing"
     excerpt: "There are over 10 million people worldwide living with Parkinson’s disease (PD) according to the Parkinson’s Foundation. A new study published in Nature Medicine shows how artificial intelligence (AI) machine learning can detect Parkinson’s disease and monitor its progression from nocturnal breathing."
     publishedDateTime: 2022-08-30T13:31:00Z

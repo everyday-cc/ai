@@ -1,21 +1,25 @@
 ---
 category: news
-title: "U.S. startup SiMa.ai starts shipping machine learning chip and system"
-excerpt: "Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management & Research Company, said on Tuesday it started shipping chips and systems to customers that are testing them, an important step for mass production. We apologize ..."
+title: "U.S. Startup SiMa.ai Starts Shipping Machine Learning Chip and System"
+excerpt: "(Reuters) - Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management ... It is used for industrial robotics, drones, security cameras, satellite imaging and ..."
 publishedDateTime: 2022-08-30T13:24:00Z
-originalUrl: "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system"
-webUrl: "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system"
+originalUrl: "https://money.usnews.com/investing/news/articles/2022-08-30/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system"
+webUrl: "https://money.usnews.com/investing/news/articles/2022-08-30/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system"
 type: article
-quality: 53
+quality: 83
 heat: -1
 published: false
 
 provider:
-  name: Financial Post
-  domain: financialpost.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Finance
+  - AI in Robotics
   - AI
   - Machine Learning
   - AI Hardware
@@ -95,15 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "SiMa.ai Develops the Industry’s First Purpose-Built Machine Learning System-on-Chip with TSMC’s Power Efficient Technology"
-    excerpt: "The SiMa.ai MLSoC, which is shipping to customers now, addresses any computer vision application and delivers a 10x better performance/watt solution – operating at the most efficient frames per second/watt."
-    publishedDateTime: 2022-08-30T13:05:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-30-simaai-develops-the-industrys-first-purpose-built-machine-learning-system-on-chip-with-tsmcs-power-efficient-technology"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 25
   - title: "SiMa.ai Ships Purpose-built Machine Learning SoC Platform to Customers for Embedded Edge Applications"
     excerpt: "SiMa.ai, the machine learning company enabling effortless deployment and scaling at the embedded edge, announced that it has begun shipping the industry’s first purpose-built software-centric Machine Learning System-on-Chip platform for the embedded edge – the MLSoC."
     publishedDateTime: 2022-08-30T17:23:00Z
@@ -132,6 +127,6 @@ related:
       domain: tmcnet.com
     quality: 8
 
-secured: "aU2RvfbU3lUWKWtk6mveVIgk3TKd+mHsYN/qjon9S/dlsZqGfhEPBVYERF0IxDXgJXJhDdtR68i7cSuXHXISFxWfXKrhvbPbyLRi8W76mZyytGHHFFn+FaabIalnA6OqIXka6azLMQMNvsWYJgG95OufyHtUaHJ2dHNL3wymkgSCHc8t8RMU+UpUMrTIRrI9aOS3wk7bgFqfLSnv0k23W+Smj4EuXiquCagkX33V66srwlG6aJL5Gpg9sZAkY5aIXvYlB46IOYTtAvaF4AVxbJPNp5yeNqwUBsSFOaXt367UTXts6590KImLZ+/v6b3f9K7cVc8ZA5lefQaqXD+EEAHLtBoCOcQAaTSYOELpXBQ=;amzzG2/KpxOzLTpamkx9xQ=="
+secured: "GXUz6pBdHzoMKnddEJkEwHtJEHJTGNNm/eTAo/a0V1B1NXesIlC7XK3uYeCVyty5vDSkAg55M9opZ8AkM9dNXzSaBBp1rdJaLR3Gt1QIKeofkSbHGJ+hR5nDhgBxDunvs+rUtqYCeWkRgtPGTJebej07WD3PP4aUQOiivu3bvGqb3+vB7V+inY9ops4S/e040WyY+duwu739g0U7N6NhMi7ZLpep61HPB3oOSOn06poJwx7XD/kFWBFz6/BXquZXDkwjV4hmwpMxJxYlwodI0mQI0jLjN1p367tGTgNk630pHHXkDM955rJxbvTMLYPTAnLXfjHSwSVKMf9vlG0P/2q6tr7J6Whoi1GJDlS5a+A=;Gw7iCRB+KGavpR2OpRdBLA=="
 ---
 

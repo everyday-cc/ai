@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-market-size-share-volume-trends-demand-forecast-report-2022-2028-2022-09-01"
 type: article
 quality: 65
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -110,15 +110,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 22
-  - title: "Speech And Voice Recognition Market Size, Trends, Revenue Share Analysis, Forecast Till 2030"
-    excerpt: "North America emerged as the largest market for the global speech and voice recognition market, with a 33% share of the market revenue in 2021. NEWARK, UNITED STATES, August 30, 2022 /EINPresswire ..."
-    publishedDateTime: 2022-08-30T11:49:00Z
-    webUrl: "https://menafn.com/1104780974/Speech-And-Voice-Recognition-Market-Size-Trends-Revenue-Share-Analysis-Forecast-Till-2030"
-    type: article
-    provider:
-      name: MENAFN
-      domain: menafn.com
-    quality: 0
 
 secured: "PkiS6j6E1sFvltEGS/hJH89wh5wPk9HUecpAS7mX4eTnxJLueBzi8qhg4GUmdehS9BHjdhh4GfybxTb2OGiIba+Y0cGeeopWH/InOLJe4GJXtXkNyunwWNKc0SsHSdD2gMSeQhBMqXGaU+oeYFAe31o9BzCswqU+AVgl3AATMvD48Nhd2cJ9msrwRnwvxSGUWp0uqrX9ZqEbcYpIauF7jo1DGxoh6Fn0K6u1RDFUUsilCQxk0xKVGUWa/OQfGgPVrGv7zVTxdbQMKHD4xfQfBH6ptBvpXrkc2tD2K4tIgzaicyNIutWtdOCQ+TSuHd9j0xQHWELh8NCLOaEciBzuhzuR6ajycPEjiWpJAwhy/oc=;1EI/CsgwOmHMiilJSMboHw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.carscoops.com/2022/08/elon-musk-wants-self-driving-tes
 webUrl: "https://www.carscoops.com/2022/08/elon-musk-wants-self-driving-teslas-before-the-end-of-the-year/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Elon Musk wants self-driving US Teslas ready by year end – report"
-    excerpt: "Tesla founder Elon Musk has said he aimed to get self driving Teslas ready by the end of 2022 and hoped they could be in wide release in the United States and possibly in Europe, depending on regulatory approval,"
-    publishedDateTime: 2022-08-30T11:23:00Z
-    webUrl: "https://www.just-auto.com/news/elon-musk-wants-self-driving-us-teslas-ready-by-year-end-report/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 19
   - title: "Skoda Vision 7S Concept, VW Tavendor For China, And Musk Wants Self-Driving Teslas By End Of Year: Your Morning Brief"
     excerpt: "Skoda offers a glimpse of its upcoming flagship SUV with the Vision 7S Concept. With three rows of seats and an electric drivetrain, the production version of the Vision 7S concept will replace the Kodiaq,"
     publishedDateTime: 2022-08-31T12:35:00Z

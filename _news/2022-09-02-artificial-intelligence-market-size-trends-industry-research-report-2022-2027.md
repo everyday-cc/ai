@@ -106,15 +106,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 22
-  - title: "Speech And Voice Recognition Market Size, Trends, Revenue Share Analysis, Forecast Till 2030"
-    excerpt: "North America emerged as the largest market for the global speech and voice recognition market, with a 33% share of the market revenue in 2021. NEWARK, UNITED STATES, August 30, 2022 /EINPresswire ..."
-    publishedDateTime: 2022-08-30T11:49:00Z
-    webUrl: "https://menafn.com/1104780974/Speech-And-Voice-Recognition-Market-Size-Trends-Revenue-Share-Analysis-Forecast-Till-2030"
-    type: article
-    provider:
-      name: MENAFN
-      domain: menafn.com
-    quality: 0
 
 secured: "B8IQqFkk/lWbunJZGtfw6YXqNaZ7bh1dxGvY0ZsHNb/dqXjXs7vxGxAaOApqSAcNFDSZHvFI/qb+dD/kTmT11jS19zeCCAFMC4H8uCDnN1/yIUh92hJnmpp3r0p9hDLiRseq7bVyo8/cRyX2qm9y7Beg6dlwRpW7PRA7xOMJ4mYJRwRcAh5oEHvJxx+En8f51L2ricJNVN4DALVI8l7nvTeq2nWDjVT6/hL3aOwn7Sf+Xo2m5e03QLdYyu1QP8vyJNeBODJj9M9P0N8vSBtmsB3bmrDFRnL4fRuDmEoUM3DHNAtdmm9DDTUtGUBBzdxA7kzo204/CyuSuasePo2U+5S7WhK4+tKrCrrGj+845pSOUiksl8zAEOtR6raF5BvoIQq31dYguwYuJ0WadNkpQ4bV+oCcMRI6AKDCG9dOiJlhEi7OI15F8319V5Ltvoss8dKyv8SCgnnG3xL233Enf8V+hYcE3LTUvOUSxwfGPtvmfDocJHXHk8zoY5hlbwYlI4PbCP6HrXlJre1rrhPZWw==;pakJrL2Nj4UkmdguYB26cw=="
 ---

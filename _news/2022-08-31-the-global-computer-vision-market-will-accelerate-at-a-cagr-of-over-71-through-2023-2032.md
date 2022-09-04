@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Geospatial Analytics Market: Growing At A CAGR Of 12.1% : Will Hit 134.23 Billion By 2028 : Says Emergen Research"
-    excerpt: "Emergen Research Logo Rising use of AI and ML in geospatial analytics, increasing number of government projects, & rapid urbanization som"
-    publishedDateTime: 2022-08-30T12:17:00Z
-    webUrl: "https://menafn.com/1104781363/Geospatial-Analytics-Market-Growing-At-A-CAGR-Of-121-Will-Hit-13423-Billion-By-2028-Says-Emergen-Research"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 0
   - title: "Business Intelligence Market is Anticipated to Increase its Market Dominance at a 7.0% Average CAGR Between 2022 and 2032"
     excerpt: "The business intelligence market is expected to rise at a CAGR of 7% throughout the forecast period. The valuation of the business intelligence market is projected to reach US$ 52.6 Bn by 2032 from US$ 26."
     publishedDateTime: 2022-09-01T09:40:00Z

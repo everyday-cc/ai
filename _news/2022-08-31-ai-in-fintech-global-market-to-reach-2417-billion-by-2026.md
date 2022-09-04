@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-global-mar
 webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-global-market-to-reach-2417-billion-by-2026-2022-08-31"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -95,6 +95,20 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 36
+  - title: "Fintech move to forefront of residential mortgage lending as top banks retrench"
+    excerpt: "Triad consumers who choose a bank or credit union to originate or refinance a residential mortgage are becoming increasingly in the minority."
+    publishedDateTime: 2022-09-04T04:01:00Z
+    webUrl: "https://journalnow.com/business/local/fintech-move-to-forefront-of-residential-mortgage-lending-as-top-banks-retrench/article_a619fef2-28b9-11ed-b4a8-5b8e80e2fe79.html"
+    type: article
+    provider:
+      name: Winston-Salem Journal
+      domain: journalnow.com
+    quality: 35
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/9/97/9977d978-29a2-11ed-9be2-ff7df5e29b45/6310211052232.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "gB1GKG5Dc/dJKtAIMv8GPIw08diBEx8u2UYVnyDzc33St2dy0hw42r/XyNw73RbEaUufor8rp9VCJU5eTSkTSgNNQd2OnQ/mT/GeaDx/jHjyAU3p4ATPfJWGcLliQ71ESqukrpx6PPfG2KXtftCHrve8aPCumnYnonroGNVHH6OjZheQNucgR37qoH9kX+TfbwBbQxPK07kXSxwxyjN62ZMjull5rczGFpC0/CeMPhpEsgbOBKRNrrSRGE9WD8WP0tZknv3CYT9OJUs+ag4rqLkoNVrarVMGrx9xbK6RFPBLXU5zzwevK5ln6n6rYpJVFnC6JgdOzxX9WpNKiWmz3SPAYm0hn+edFtX9cT20Pn4=;ES0GnJiJ3g4uZpOTB5XCqA=="
 ---

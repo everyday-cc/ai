@@ -33,15 +33,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Geospatial Analytics Market: Growing At A CAGR Of 12.1% : Will Hit 134.23 Billion By 2028 : Says Emergen Research"
-    excerpt: "Emergen Research Logo Rising use of AI and ML in geospatial analytics, increasing number of government projects, & rapid urbanization som"
-    publishedDateTime: 2022-08-30T12:17:00Z
-    webUrl: "https://menafn.com/1104781363/Geospatial-Analytics-Market-Growing-At-A-CAGR-Of-121-Will-Hit-13423-Billion-By-2028-Says-Emergen-Research"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 0
 
 secured: "qQsI+cMy5ee+fMGRu5qngWPwZ5Jnz0xTHAtLBnnrVVP4CHVI27pt8afALusb8FevfpjmewQfWHl+aXMTHowDgNplLJqzou54KoJp8Z+JXFJVupzinCCJErMF4B59Qn22AZdoYYavGxXHY6up2Lc9TVCMkXyWDEyHh0pfAqa8IuKuKdUbdflYwI+vRHjsqsFNmmFKs9evI7QNovWxjESKaOgfW5ke6K3vnWQeE7Q+GWNvZq51lrWCJ4nDBZAlw5sQN0yx/uNV5K9pcWQMuoOdmJbTMtXvEO6nD/MvOvW2ggZacW6CkvO0n+uRuhaVBUFAG1u5rTtLuTqLYKcs4xGI+5SqQB3MrI9NdMAFkxi68ow=;k3C2mB4L81y1BDf1HxDPFQ=="
 ---

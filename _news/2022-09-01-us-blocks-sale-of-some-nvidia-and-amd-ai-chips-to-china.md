@@ -3,10 +3,10 @@ category: news
 title: "US blocks sale of some Nvidia and AMD AI chips to China"
 excerpt: "The US government’s effort will restrict Chinese AI researchers using the chips to train machine-learning models."
 publishedDateTime: 2022-09-01T14:42:00Z
-originalUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.html"
-webUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.html"
-ampWebUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.amp.html"
-cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.amp.html"
+originalUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-chips-to-china.html"
+webUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-chips-to-china.html"
+ampWebUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-chips-to-china.amp.html"
+cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-chips-to-china.amp.html"
 type: article
 quality: 74
 heat: -1
@@ -105,6 +105,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "U.S. Officials Order Nvidia To Halt Sales Of Top AI Chips To China"
+    excerpt: "Chip designer Nvidia Corp on Wednesday said that U.S. officials told it to stop exporting two top computing chips for artificial intelligence work to China, a move that could cripple Chinese firms ..."
+    publishedDateTime: 2022-09-01T03:15:00Z
+    webUrl: "https://www.ibtimes.com/us-officials-order-nvidia-halt-sales-top-ai-chips-china-3608002"
+    ampWebUrl: "https://www.ibtimes.com/us-officials-order-nvidia-halt-sales-top-ai-chips-china-3608002?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/us-officials-order-nvidia-halt-sales-top-ai-chips-china-3608002?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 91
+    images:
+      - url: "https://d.ibtimes.com/en/full/3811072/logo-technology-company-nvidia-seen-its-headquarters-santa-clara.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "US orders Nvidia and AMD to stop selling AI chips to China"
     excerpt: "Two of America's top chipmakers have been ordered to stop selling some of their technology to China that can be used for artificial intelligence."
     publishedDateTime: 2022-09-01T04:28:00Z
@@ -193,15 +209,6 @@ related:
         width: 620
         height: 400
         isCached: true
-  - title: "Machine learning at the edge: The AI chip company challenging Nvidia and Qualcomm"
-    excerpt: "Sima AI's machine learning system-on-chip (MLSoC) platform that enables ML deployment and scaling at the edge has started shipping."
-    publishedDateTime: 2022-08-30T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/machine-learning-at-the-edge-the-ai-chip-company-challenging-nvidia-and-qualcomm/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 76
   - title: "US government blocks sale of some Nvidia and AMD AI chips to China"
     excerpt: "The US government’s ongoing attempts to restrict China’s military capabilities will affect Chinese AI researchers using the chips to train machine learning models."
     publishedDateTime: 2022-09-01T14:42:00Z
@@ -491,6 +498,6 @@ related:
       domain: arabianbusiness.com
     quality: 13
 
-secured: "9H563DQBGYaPrTaRKlUmgLNy/Z5u42mI6lYB15EOSK1GWCg8uOGdYd6t0F1yVcUlZe8SdYJT8svIIFmTrk4VW46Py7cyauWW32In6tRj5mv9F3H++Jy5wtLOJgtaLa8XxMN0VKknlKHP3wo718ds0bqvDatp3hiiKwctkmqTnclRxYNxkYDLw9xdSUlmwXZM1AirUz+KofsEgds5tpKobc5ZjLARJTVFN0HgQW325OaC4dsllLR5MQYh0Bk3rybsGd8iXbrXRDGXOEHU2uFrmLECl71ZDvAL9jW6XlKYciBulKP0DK3KHyqz/XunbRYYeSChaNkDiTb48edBSWlcXA7o8fdNB2+0O92I7nyWrHXJ3z0bDitQ2mu61d6DG+rMsVxwQx25rGe+AK4DRPF0fgeBtdofO3yV+yklO8asW7e0C7PAV92j+j8HG6arFuTDyqphU+h1EhbE/ojCCmfDBnhiruh5e2+GhFykGIhX/8gkqfBLxTxMCN5D572oburWIcFDiNngPqTjTNsf1vZ8jw==;dlkNxbHjJIZYn8b4Mh1zpg=="
+secured: "vkqJ6JcI48uibC/xplaWDxAvYZj9bE5XLPImAiaQJeyGHCBQ0e81oegtXgCb38clMgXjHMfSYkF7gQgt2bQKkhNKd+EZrWdSMWWNC+zk6rEjXmPUGTHTQhIeHKfOaxAjaQ/PHbWiDp2i/1/wsuIDYqAtBIMc+URL/Jg7yNJnKdYe6m5oySeciGr0zhqhZbHIoZpn1P/8mJXJyO11H045Jq0cLSaalbbWSFi+cQhzglNkXt5JetXzflsTyfNiexePldqYy5C2WEsM6JPNSw+HIje8XLnbUPA1I0yqrVELrBsmDX7MxL0eEbXxP4+0YjgzRUC31r/CqTpG8bXuP4WWNIsVnN8sokNZTHDCgS6xnOQ=;AbeTuwPGPLrEnRgzO2oe2w=="
 ---
 
