@@ -43,14 +43,28 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Removing the data security barriers and concerns to accelerate speech recognition usage in radiology"
-    excerpt: "According to Scribetech, security is a key barrier to adopting speech recognition – despite its potential to accelerate reporting time, drive accuracy, and enable radiologists to deal with a ..."
-    publishedDateTime: 2022-08-31T09:20:00Z
-    webUrl: "https://www.nbc4i.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/"
+  - title: "Speech and Voice Recognition Technology Market – increasing demand with Industry Professionals | 104 Report Pages"
+    excerpt: "The latest independent research report on Speech and Voice Recognition Technology Market explore investment in Market."
+    publishedDateTime: 2022-09-02T04:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-increasing-demand-with-industry-professionals-104-report-pages-2022-09-02"
     type: article
     provider:
-      name: NBC4i
-      domain: nbc4i.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Removing the data security barriers and concerns to accelerate speech recognition usage in radiology"
+    excerpt: "According to Scribetech, security is a key barrier to adopting speech recognition – despite its potential to accelerate reporting time, drive accuracy, and enable radiologists to deal with a ..."
+    publishedDateTime: 2022-08-31T08:50:00Z
+    webUrl: "https://www.kxan.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/"
+    type: article
+    provider:
+      name: KXAN
+      domain: kxan.com
     quality: 21
 
 secured: "kMp/EjPsQsPs+O56+YdL1Peu+x3HixlyA+qg2oUcJNR42SUMFVstPdiGpgxl+f00Kll8CVUiP7wNSD8+XRl+6fmdrIANvwqY3S6I0gHYSQYzdZxxRo73dJx7OPecG1XqoHMm4JtwcwHsR9kQSbkSXI5vkSUKsYE/XnqnwFxe1VxmLGsSCcg/MTQmNugdC90brKHkHypC78lwcGqq6q326NQBdS98sFvlAurW5Q+F99QxQUZx88zhdHwW21UFnSdjI8iRcpEV305MqNT9XF0gww7LbWsTtqV4NE6Irjl3FMEydSsyylaZzYdPtbLNdHGTjQUhB4lRbg6v1MP14b8Lu7mcyzDbXyxT5xSYvf1Uh90=;p04CKKzMfBTeqJR8/A1MnQ=="

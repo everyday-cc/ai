@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2022/09/03/why-do-we-kee
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/09/03/why-do-we-keep-repeating-the-same-mistakes-on-ai/amp/"
 type: article
 quality: 93
-heat: 93
+heat: 94
 published: true
 
 provider:

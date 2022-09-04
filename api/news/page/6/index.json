@@ -2,35 +2,60 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2022-08-29-ai-in-fintech-global-market-report-2022-need-for-fraud-detection-in-fintech-financial-institutions-driving-adoption-researchandmarketscom.md",
-      "title": "AI in FinTech Global Market Report 2022: Need for Fraud Detection in Fintech & Financial Institutions Driving Adoption - ResearchAndMarkets.com",
-      "excerpt": "The “AI in FinTech Global Market Report 2022” report has been added to ResearchAndMarkets.com’s offering. The global AI in fintech market is expected to grow from $7.25 billion in 2021 to $9.13 billion in 2022 at a compound annual growth rate (CAGR) of 25.",
+      "path": "_news/2022-08-29-edge-computing-market-size-worth-13211-billion-by-2028-at-216-cagr-the-insight-partners.md",
+      "title": "Edge Computing Market Size Worth $132.11 Billion by 2028 at 21.6% CAGR | The Insight Partners",
+      "excerpt": "The Insight Partners published latest research study on \"Edge Computing Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Component (Hardware, Software, and",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-middle-east-asia-south-america-0232c251b16047f18c094cc48e26a795",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-middle-east-asia-south-america-0232c251b16047f18c094cc48e26a795",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/08/n28664397/edge-computing-market-size-worth-132-11-billion-by-2028-at-21-6-cagr-the-insight-partners",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/08/n28664397/edge-computing-market-size-worth-132-11-billion-by-2028-at-21-6-cagr-the-insight-partners",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28664397",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28664397",
+      "publishedDateTime": "2022-08-29T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
       ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-ai-in-fintech-global-market-report-2022-need-for-fraud-detection-in-fintech-financial-institutions-driving-adoption-researchandmarketscom.md",
+      "title": "AI in FinTech Global Market Report 2022: Need for Fraud Detection in Fintech & Financial Institutions Driving Adoption - ResearchAndMarkets.com",
+      "excerpt": "The global AI in fintech market is expected to grow from $7.25 billion in 2021 to $9.13 billion in 2022 at a compound annual growth rate (CAGR) of 25.9%. The AI in fintech market is expected to grow to $24.",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-ai-in-fintech-global-market-report-2022-need-for-fraud-detection-in-fintech-and-financial-institutions-driving-adoption-researchandmarketscom",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-ai-in-fintech-global-market-report-2022-need-for-fraud-detection-in-fintech-and-financial-institutions-driving-adoption-researchandmarketscom",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T03:26:00-07:00",
+      "publishedDateTime": "2022-08-29T03:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1141,58 +1166,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-28-one-mans-dream-of-fusing-ai-with-common-sense.md",
-      "title": "One Man’s Dream of Fusing A.I. With Common Sense",
-      "excerpt": "Artificial intelligence systems can process vast amounts of data in seconds, but they can’t make sense of the world or explain their decisions. David Ferrucci wants to change that.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/08/28/business/ai-artificial-intelligence-david-ferrucci.html",
-      "originalUrl": "https://www.nytimes.com/2022/08/28/business/ai-artificial-intelligence-david-ferrucci.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/08/13/business/00-AI-Ferrucci-01/00-AI-Ferrucci-01-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/08/28/business/ai-artificial-intelligence-david-ferrucci.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/08/28/business/ai-artificial-intelligence-david-ferrucci.amp.html",
-      "publishedDateTime": "2022-08-28T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

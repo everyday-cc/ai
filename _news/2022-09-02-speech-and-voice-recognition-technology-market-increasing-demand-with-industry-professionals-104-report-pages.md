@@ -1,23 +1,32 @@
 ---
 category: news
-title: "Removing the data security barriers and concerns to accelerate speech recognition usage in radiology"
-excerpt: "According to Scribetech, security is a key barrier to adopting speech recognition – despite its potential to accelerate reporting time, drive accuracy, and enable radiologists to deal with a ..."
-publishedDateTime: 2022-08-31T08:50:00Z
-originalUrl: "https://www.kxan.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/"
-webUrl: "https://www.kxan.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/"
+title: "Speech and Voice Recognition Technology Market – increasing demand with Industry Professionals | 104 Report Pages"
+excerpt: "The latest independent research report on Speech and Voice Recognition Technology Market explore investment in Market."
+publishedDateTime: 2022-09-02T04:47:00Z
+originalUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-increasing-demand-with-industry-professionals-104-report-pages-2022-09-02"
+webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-increasing-demand-with-industry-professionals-104-report-pages-2022-09-02"
 type: article
-quality: 21
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: KXAN
-  domain: kxan.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
-  - AI in Security
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Financial language and the evolution of speech recognition technology"
@@ -52,21 +61,16 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Speech and Voice Recognition Technology Market – increasing demand with Industry Professionals | 104 Report Pages"
-    excerpt: "The latest independent research report on Speech and Voice Recognition Technology Market explore investment in Market."
-    publishedDateTime: 2022-09-02T04:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-increasing-demand-with-industry-professionals-104-report-pages-2022-09-02"
+  - title: "Removing the data security barriers and concerns to accelerate speech recognition usage in radiology"
+    excerpt: "According to Scribetech, security is a key barrier to adopting speech recognition – despite its potential to accelerate reporting time, drive accuracy, and enable radiologists to deal with a ..."
+    publishedDateTime: 2022-08-31T08:50:00Z
+    webUrl: "https://www.kxan.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: KXAN
+      domain: kxan.com
+    quality: 21
 
-secured: "gi+bKposg0kHC8LW8e5pv/7p4sVu4EeLQSUL87Ysr382L1xaamSktLJ/d6pCbNLGRWsnrYft8ErY8Uu3X83/U4/+n+51Dkv3Z+jwLG0fpXFX4D84m10Qkvb88KEpDS1Fn4GBhh8b4Dt4gzIY3IottAeXL9MLPjZ8jYSEf3GDZRAb38UahOT2rcmx26f57LUOdkvcE4v40wC1g+ps8jqgtFOIfz7D4V/BLjrZ77WvI5pjusman1LCrGixP6RZk+hO7GONtxm566QUUw48vY8FAtqIQIvVEjAuy6HEgPJsDZMMbg6r9bohyhm21ivxFUc5ajpwfp8a+M/SOLAUyHyDZrETXjjfRgzTTR04rho5agQ=;/d5SGEIevx7q1KGfj1hv4Q=="
+secured: "ghoTxH1uGlMRNYoKvN4OtY4BwL2+FZpUrw3bttJxiERIjrH8tMcCxB6fOTUQQ/FJla1NWR5rp1MDcv/nu1iTZH0lMvvEKhueAVODuJCAnWVmkvs51QQYd9b7LSw1ZOfgn6qfZcLBkrmdKhie11eEMTWuUzaG6/QWTr20AU0v+aq5ahEiOxCk/P100g93d5rZyS2k2+wSAALM4Z2z7lTkDls1Y62YT1ZjfmSfvZPnF+7IoNbq4jt1/RW/CBFIQvxnBCGui/hWFerlYuxxJ2aUHD/x0nM0V1XY2+U55rVYGauBKs4xfk3B89e4Pbq8h2+B+v1/C3x2ObiJ9wWlPTZfRwEH4DdEM3HxMjiaKwOAbFk=;rXfQ56bCqjCrXbTL8T6lag=="
 ---
 

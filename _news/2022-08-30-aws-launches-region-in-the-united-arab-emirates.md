@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AWS Launches Region in the United Arab Emirates"
-excerpt: "We have automated student attendance using Amazon Rekognition, reducing 93% of the time spent in marking attendance. We have also developed an automated quiz generation and assessment platform ..."
-publishedDateTime: 2022-08-30T06:47:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/aws-launches-region-in-the-united-arab-emirates/article_6090d8da-9a73-523e-88f7-1c8fbecc5e55.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/aws-launches-region-in-the-united-arab-emirates/article_6090d8da-9a73-523e-88f7-1c8fbecc5e55.html"
+excerpt: "AWS is committed to helping customers in the UAE deploy the most advanced cloud technologies and achieve the highest levels of security, availability, and resiliency,” said Prasad Kalyanaraman, vice president of Infrastructure Services at AWS."
+publishedDateTime: 2022-08-30T06:27:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-economy-amazoncom-inc-d9b9452aac444bf3821796b7f621f354"
+webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-economy-amazoncom-inc-d9b9452aac444bf3821796b7f621f354"
 type: article
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg"
-    width: 350
-    height: 456
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "Sq4DbUX7WRXWwgq56Ievx02J4y9ua/8q5FtdGHxIW6Zl8YZEXbZr/+GFLupHhqztG8GVQclIHTWxqNeP3B3/7DDTML/vGJsnHf2fdLSMY6OJaBaqj6idzdJd6AuFMdgn+v7Xw8Lpbs6fjlKBz9z/pO08Pjngyd8/63816g4I6WW8mZ2d07XtOWU5lzLa6iq6sB2VzjiShluq4tkT9ffzEwV98rqF0RMm37OHl39xSbk8edpQoS6YM++mVH6Qx/B4yPm8Vk69V3MIlLH6n4Yaq2t+zww2TcJRBQtQdokLA5K/hZ1HLpxyzcxDNmNOESuz7Z3fiu2niGUvjA8TzN8AXh1Hn04cHhAuOLP1/PlzXQo=;pUJUsoGRkKD1nvPXFHh2xQ=="
+secured: "AYi7IYT/hJkOblfD+zSLwzHD1mqLqAgKxNGDVKyrmIUqqfwJX/kkTgzE0nvcXEbejXkOG0nnxHWhKcBtj5tL92ZUZ1PD/Ss0/5A4D3meFJM5ywP8Y5NzOb4TxZsnN+6lO/I622VK8B6BVJp7Gfsy7g9ih0+Dji1XVkQKYFHEQ4vAsxb7JnbSrOUfmV0pV1Wkg13V0s3S38bd3PKdyTf9it8zl7Xl8066rSyBK3sRvkAvASZk05Onjr6LW9rVhbpjvKBZZVyF8HL6pvcc0XZ42RBujvFnLfB6PyRyrBDGc/q06IWHW5v1WyVrNci/xrBcQX9+UE2Gs3PFqycYB36hiFeRl2hgiYOdWEsiKzQsMJQ=;Gb/QBaZl41mGyyuN3ee9Mg=="
 ---
 

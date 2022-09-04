@@ -1,24 +1,28 @@
 ---
 category: news
 title: "ROBE Array could let small companies access popular form of AI"
-excerpt: "ROBE Array could let small companies access popular form of AI: Low-memory technique for deep-learning recommendation systems. ScienceDaily . Retrieved August 31, 2022 from www.sciencedaily.com ..."
-publishedDateTime: 2022-08-30T02:36:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/08/220829143936.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/08/220829143936.htm"
+excerpt: "A breakthrough low-memory technique by Rice University computer scientists could put one of the most resource-intensive forms of artificial intelligence—deep-learning recommendation models (DLRM)—within reach of small companies."
+publishedDateTime: 2022-08-29T19:48:00Z
+originalUrl: "https://techxplore.com/news/2022-08-robe-array-small-companies-access.html"
+webUrl: "https://techxplore.com/news/2022-08-robe-array-small-companies-access.html"
+ampWebUrl: "https://techxplore.com/news/2022-08-robe-array-small-companies-access.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-robe-array-small-companies-access.amp"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: techxplore
+  domain: techxplore.com
 
 topics:
-  - Machine Learning
+  - AI Hardware
   - AI
 
-secured: "bdKiRjnVcP0GYMJFZxsD4qTlxc5C1GJByCmJrhsUPNpfDaRFFd0bQv5Cxl19xXjV/e2N9q3Zo6+5HEtyTs/ZI1l+f6nIaUCeUNPVgXsUlpkzWN9ekFlHR3ENzc8MNoOP+kIBvKtb5GB5dNxCJlH5YIS1Jw9myoFCl57UEjKyz0+Y7oHKtRCZK/lfMZlooWUfRuFx6fDceBOceLlfpo2nQ2MofYBwybuUraQgevCkRFGfhZbnZ0g4gWRCmzmJRThJ7xdvvJ83DM4yI/S2L/BRSus0yNa22T/JNPqCuwD+gJBTr8g0MIuW8IplQB6lZELDF7LUml+bVQ3++x+zoQISSUtH84LFzv9GFZHiV7DsnA4=;bFFiB2crj7/mPAXa40ijLw=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/robe-array-could-let-s.jpg"
+    width: 1650
+    height: 1099
+    isCached: true
+
+secured: "AUeNH+fxIBfxmidIohTSvnZfcpHFF+C3sEs58uYI6FgJJwuNVkeHeoqZq9h2gQaylivUjgGbG5sRy/kWvStzAEb+jzfp092nlXEcnu+Oaj3XW2ydY+Wu2In9PiGkCp4GmkrzB/ts4vTwyOFyNy0JKooTNoiUgbS9UugjdhfvRLE7kCGmAghql/MnbV6tALqXHbSKLbsdX1oyvsVnMbFqVMXVNQqEt/xvCjg8klV8/u4InUge7t90SfMq9meoLjr2e0OWj7AaJC0tfxvlujgPq6itEIFJTuzM+p6B0rnAY7xp+UvVnay56ICpV2KN6BA3g8IZ/u1yrh4dhaexQvSY+VG6c4xTL5efieV1Ri3JpMY=;W8QhzX4FoNM/Az7v+A9SPw=="
 ---
 

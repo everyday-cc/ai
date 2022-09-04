@@ -9,7 +9,7 @@ ampWebUrl: "https://www.globalbankingandfinance.com/financial-language-and-the-e
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/financial-language-and-the-evolution-of-speech-recognition-technology/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -43,14 +43,28 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Removing the data security barriers and concerns to accelerate speech recognition usage in radiology"
-    excerpt: "According to Scribetech, security is a key barrier to adopting speech recognition – despite its potential to accelerate reporting time, drive accuracy, and enable radiologists to deal with a ..."
-    publishedDateTime: 2022-08-31T09:20:00Z
-    webUrl: "https://www.nbc4i.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/"
+  - title: "Speech and Voice Recognition Technology Market – increasing demand with Industry Professionals | 104 Report Pages"
+    excerpt: "The latest independent research report on Speech and Voice Recognition Technology Market explore investment in Market."
+    publishedDateTime: 2022-09-02T04:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-increasing-demand-with-industry-professionals-104-report-pages-2022-09-02"
     type: article
     provider:
-      name: NBC4i
-      domain: nbc4i.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Removing the data security barriers and concerns to accelerate speech recognition usage in radiology"
+    excerpt: "According to Scribetech, security is a key barrier to adopting speech recognition – despite its potential to accelerate reporting time, drive accuracy, and enable radiologists to deal with a ..."
+    publishedDateTime: 2022-08-31T08:50:00Z
+    webUrl: "https://www.kxan.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/"
+    type: article
+    provider:
+      name: KXAN
+      domain: kxan.com
     quality: 21
 
 secured: "Dz1MG9gVACsN2FVJOaXLFKHJWVdCa32L/Y75ZIP3RoypYo5Woq/7LbuFqYVqOvgUG+ws1tNSvbe+IrkRAgskHAfFj9AxoYvRMG+5idcHnFXeBgqCv7oeYAH3t7N7ul+l0XoHMiIP//RQXmFHOr+Iqom/LU9eypFv7kboLGxiz8OPwzYTp7t94LZwjRGd26KajbN1dF+N1In7R/b3mBoD3GtHtDl+zvT/lRxcSNiCpgcU10+04XB5q6gP/E0cAm3znn9PXzDpodaYpDmYprdeUSBCWSMh0dk7EOxvPJaOKBTfaQAlObCHTnhyUoM8N55aHNoLpaVnGXZjK5dJB9mwin/t06JsBuIO2qfwtZAW7sDlNr57WSsiMvxoB5rtAdwZ9Q7XdJ0yNj501hIS03nxw5rGPGZjiMADym/PFAuVn56mdWMBxrS7asqfpvzFTQfoESKUtN55KE9HheRoabwQxTuNX5ksXGFGYftRusV2nVq1TaCBo8y5CpYl4s+dCDN3rE/r/lmWlC4wVVbVS9zoMw==;YxVwu27txhqDaZ7VO7iZog=="

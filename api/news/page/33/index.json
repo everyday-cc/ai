@@ -2,6 +2,94 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2022-08-08-ibm-watson-powered-augmented-intelligence-seeks-an-edge-in-travel-marketing.md",
+      "title": "IBM Watson-Powered Augmented Intelligence Seeks an Edge in Travel Marketing",
+      "excerpt": "Watson refers to IBM’s cognitive artificial intelligence (AI) platform. Watson is best-known for tricks like defeating contestants on the U.S. quiz show “Jeopardy!” It can interpret ...",
+      "sourceUrl": null,
+      "webUrl": "https://skift.com/2017/08/08/ibm-watson-powered-artificial-intelligence-seeks-an-edge-in-travel-marketing/",
+      "originalUrl": "https://skift.com/2017/08/08/ibm-watson-powered-artificial-intelligence-seeks-an-edge-in-travel-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://skift.com/wp-content/uploads/2017/08/ibm-watson-marketing-.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://skift.com/2017/08/08/ibm-watson-powered-artificial-intelligence-seeks-an-edge-in-travel-marketing/amp/",
+      "cdnAmpWebUrl": "https://skift-com.cdn.ampproject.org/c/s/skift.com/2017/08/08/ibm-watson-powered-artificial-intelligence-seeks-an-edge-in-travel-marketing/amp/",
+      "publishedDateTime": "2022-08-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Skift",
+        "domain": "skift.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-in-simulation-of-how-water-freezes-artificial-intelligence-breaks-the-ice.md",
+      "title": "In simulation of how water freezes, artificial intelligence breaks the ice",
+      "excerpt": "Combining artificial intelligence and quantum mechanics, researchers have simulated what happens at the molecular level when water freezes. The result is the most complete yet simulation of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/08/220808162234.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/08/220808162234.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-08-08-microsoft-spreads-fud-on-office-connections-to-microsoft-365-services.md",
       "title": "Microsoft Spreads FUD on Office Connections to Microsoft 365 Services",
       "excerpt": "Microsoft appears to be deliberately trying to confuse the public on Office 2016 and Office 2019 connections to Microsoft 365 services. In a July Redmond article, I reported on Microsoft's plans ...",
@@ -1043,104 +1131,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-06-ai-is-not-sentient-why-do-people-say-it-is.md",
-      "title": "AI is not sentient. Why do people say it is?",
-      "excerpt": "The problem is that the people closest to the technology — the people explaining it to the public — live with one foot in the future. They sometimes see what they believe will happen as much as they s",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/world/ai-is-not-sentient-why-do-people-say-it-is-8967631.html",
-      "originalUrl": "https://www.moneycontrol.com/news/world/ai-is-not-sentient-why-do-people-say-it-is-8967631.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2021/03/Artificial-intelligence.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/world/ai-is-not-sentient-why-do-people-say-it-is-8967631.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/ai-is-not-sentient-why-do-people-say-it-is-8967631.html/amp",
-      "publishedDateTime": "2022-08-06T00:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI Ethics",
-        "AI Hardware",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-06-no-youre-not-alone-google-is-also-making-this-big-mistake-on-ai.md",
-      "title": "No, You’re Not Alone. Google Is Also Making This Big Mistake On AI",
-      "excerpt": "As AI goes, garbage in is most definitely garbage out, and AI projects are suffering from significant bad data garbage. If Google, ImageNet, and others are making this mistake, for sure you are making this mistake as well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/06/no-youre-not-alone-google-is-also-making-this-big-mistake-on-ai/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/06/no-youre-not-alone-google-is-also-making-this-big-mistake-on-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62eadf98d17679765fb6862c/0x0.jpg?format=jpg&crop=2209,1243,x0,y136,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/06/no-youre-not-alone-google-is-also-making-this-big-mistake-on-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/08/06/no-youre-not-alone-google-is-also-making-this-big-mistake-on-ai/amp/",
-      "publishedDateTime": "2022-08-05T22:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],
