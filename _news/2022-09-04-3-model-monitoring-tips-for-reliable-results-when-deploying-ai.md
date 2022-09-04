@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/3-model-monitoring-tips-for-reliable-resu
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-model-monitoring-tips-for-reliable-results-when-deploying-ai/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

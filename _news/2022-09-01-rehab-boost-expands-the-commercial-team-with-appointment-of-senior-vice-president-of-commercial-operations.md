@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-01T13:00:00Z
 originalUrl: "https://www.marketwatch.com/press-release/rehab-boost-expands-the-commercial-team-with-appointment-of-senior-vice-president-of-commercial-operations-2022-09-01"
 webUrl: "https://www.marketwatch.com/press-release/rehab-boost-expands-the-commercial-team-with-appointment-of-senior-vice-president-of-commercial-operations-2022-09-01"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: MarketWatch

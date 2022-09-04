@@ -2,6 +2,248 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-06-30-pitch-your-startup-at-tc-sessions-robotics.md",
+      "title": "Pitch your startup at TC Sessions: Robotics",
+      "excerpt": "Robotics 2022 – is coming back virtually July 21. It’s slated to be one of the best programming lineups in the robotics industry with luminaries like U.S. secretary of labor, Marty Walsh; inventor Dean Kamen;",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/30/pitch-your-startup-at-tc-sessions-robotics/",
+      "originalUrl": "https://techcrunch.com/2022/06/30/pitch-your-startup-at-tc-sessions-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Robotics-Sessions.webp?w=1024",
+          "width": 1024,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/30/pitch-your-startup-at-tc-sessions-robotics/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/30/pitch-your-startup-at-tc-sessions-robotics/amp/",
+      "publishedDateTime": "2022-06-30T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-trackforce-valiant-announces-the-acquisition-of-tracktik-software-to-provide-visibility-and-control-for-the-physical-security-workforce.md",
+      "title": "Trackforce Valiant announces the acquisition of TrackTik Software to provide visibility and control for the physical security workforce",
+      "excerpt": "Trackforce Valiant, a provider of security workforce management solutions, announces the acquisition of TrackTik Software, one of the most innovative and fastest-growing cloud-based security",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/trackforce-valiant-announces-acquisition-tracktik-software-co-1547478593-ga-co-1568095304-ga.1656589900.html",
+      "originalUrl": "https://www.sourcesecurity.com/news/trackforce-valiant-announces-acquisition-tracktik-software-co-1547478593-ga-co-1568095304-ga.1656589900.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/trackforce-valiant-announces-acquisition-tracktik-software-co-1547478593-ga-co-1568095304-ga.1656589900.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/trackforce-valiant-announces-acquisition-tracktik-software-co-1547478593-ga-co-1568095304-ga.1656589900.html",
+      "publishedDateTime": "2022-06-30T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-arable-matters-is-the-agbot-robot-tractor-a-game-changer.md",
+      "title": "Arable Matters: Is the AgBot robot tractor a game changer?",
+      "excerpt": "I guess like most visitors to the Highland last week one of the 'must see' items was the driverless robot tractor – the ... probably be their new sprayer technology – which uses artificial intelligence (you’re probably best not to go with the term ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thescottishfarmer.co.uk/arable/20245078.arable-matters-agbot-robot-tractor-game-changer/",
+      "originalUrl": "https://www.thescottishfarmer.co.uk/arable/20245078.arable-matters-agbot-robot-tractor-game-changer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T04:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Scottish Farmer",
+        "domain": "thescottishfarmer.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-guardforce-stock-gains-on-collaboration-with-hong-kong-industrial-ai-robotics-centre.md",
+      "title": "Guardforce stock gains on collaboration with Hong Kong Industrial AI, Robotics Centre",
+      "excerpt": "Guardforce AI (GFAI) is rising 7.1% premarket on Thursday after it entered in a collaboration pact with Hong Kong Industrial Artificial Intelligence and Robotics Centre, founded by",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3853175-guardforce-stock-gains-on-collaboration-with-hong-kong-industrial-ai-robotics-centre",
+      "originalUrl": "https://seekingalpha.com/news/3853175-guardforce-stock-gains-on-collaboration-with-hong-kong-industrial-ai-robotics-centre",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-wealthcare-advisory-partners-llc-has-314000-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo.md",
+      "title": "Wealthcare Advisory Partners LLC Has $314,000 Position in iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO)",
+      "excerpt": "Wealthcare Advisory Partners LLC lessened its holdings in iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO – Get Rating) by 6.7% in the first quarter, according to the company in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.etfdailynews.com/2022/06/30/wealthcare-advisory-partners-llc-has-314000-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/",
+      "originalUrl": "https://www.etfdailynews.com/2022/06/30/wealthcare-advisory-partners-llc-has-314000-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks7.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.etfdailynews.com/2022/06/30/wealthcare-advisory-partners-llc-has-314000-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/amp/",
+      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/06/30/wealthcare-advisory-partners-llc-has-314000-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/amp/",
+      "publishedDateTime": "2022-06-30T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ETF Daily News",
+        "domain": "etfdailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-the-robot-handbook-has-arrived-for-the-traveller-rpg.md",
+      "title": "The Robot Handbook has Arrived for the Traveller RPG",
+      "excerpt": "The Robot Handbook is designed to be both quick and easy to use, and configurable to customise all aspects of a robot’s functions, capabilities and skills; a standard robot can be built in just a few minutes.",
+      "sourceUrl": null,
+      "webUrl": "https://thegaminggang.com/game-news/the-robot-handbook-has-arrived-for-the-traveller-rpg/",
+      "originalUrl": "https://thegaminggang.com/game-news/the-robot-handbook-has-arrived-for-the-traveller-rpg/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Gaming Gang",
+        "domain": "thegaminggang.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-robotic-prosthetic-market-segmentation-consumption-revenue-and-growth-rate-by-2028.md",
       "title": "Robotic Prosthetic Market Segmentation, Consumption, Revenue And Growth Rate By 2028",
       "excerpt": "The global robotic prosthetic market size is expected ... according to latest report by Reports and Data. Emergence of mind-controlled humonics is considered one of the most important factors ...",
@@ -1004,264 +1246,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-westworld-ep-teases-new-worlds-ed-harris-secrets-in-season-4.md",
-      "title": "‘Westworld’ EP Teases New ‘Worlds’ & Ed Harris’ Secrets in Season 4",
-      "excerpt": "Some things are very, very, very different. Some things have stayed the same,' says executive producer Lisa Joy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.the-messenger.com/lifestyles/entertainment/article_56b03c3f-4eaa-57ba-8f79-fdd8a928af56.html",
-      "originalUrl": "https://www.the-messenger.com/lifestyles/entertainment/article_56b03c3f-4eaa-57ba-8f79-fdd8a928af56.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-24T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Messenger",
-        "domain": "the-messenger.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-gilbert-student-wins-international-robotics-award.md",
-      "title": "Gilbert student wins international robotics award",
-      "excerpt": "Humans have been exploring the topic of machines surpassing us and becoming a threat as far back as 1872, when the novel “Erewhon” worried about them gaining consciousness and being",
-      "sourceUrl": null,
-      "webUrl": "https://www.gilbertsunnews.com/community/gilbert-student-wins-international-robotics-award/article_ab0acb5c-f0d4-11ec-a891-87d760a0e990.html",
-      "originalUrl": "https://www.gilbertsunnews.com/community/gilbert-student-wins-international-robotics-award/article_ab0acb5c-f0d4-11ec-a891-87d760a0e990.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/gilbertsunnews.com/content/tncms/assets/v3/editorial/f/a3/fa3341a0-f0d4-11ec-af66-4ba2ea28592f/62b0d443ea519.image.jpg?crop=1280%2C672%2C0%2C90&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-24T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gilbert Sun News",
-        "domain": "gilbertsunnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-coimbatore-airport-has-now-ai-powered-robots-know-how-they-help-flyers.md",
-      "title": "Coimbatore airport has now AI-powered robots. Know how they help flyers",
-      "excerpt": "The Airport Authority of India (AAI) said it is bringing the help desk to the passenger rather than passengers approaching the help desk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/india-news/coimbatore-airport-has-now-ai-powered-robots-know-how-they-help-flyers-101656061106109.html",
-      "originalUrl": "https://www.hindustantimes.com/india-news/coimbatore-airport-has-now-ai-powered-robots-know-how-they-help-flyers-101656061106109.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2022/06/24/1600x900/coimbatore_airport_robot_1656061098972_1656061099178.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/india-news/coimbatore-airport-has-now-ai-powered-robots-know-how-they-help-flyers-101656061106109-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/india-news/coimbatore-airport-has-now-ai-powered-robots-know-how-they-help-flyers-101656061106109-amp.html",
-      "publishedDateTime": "2022-06-24T02:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-nigerias-oil-sector-looks-as-robotics-adoption-picks-up.md",
-      "title": "Nigeria’s oil sector looks as robotics adoption picks up",
-      "excerpt": "The world is prepping for an oil and gas industry where completely unmanned assets are operated, inspected and maintained with digitisation and artificial",
-      "sourceUrl": null,
-      "webUrl": "https://businessday.ng/uncategorized/article/nigerias-oil-sector-looks-as-robotics-adoption-picks-up/",
-      "originalUrl": "https://businessday.ng/uncategorized/article/nigerias-oil-sector-looks-as-robotics-adoption-picks-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2017/11/How-robots-will-change-dynamics-of-shared-services-centralised-processing-1-1.jpg?resize=450%2C300&ssl=1",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://businessday.ng/amp/uncategorized/article/nigerias-oil-sector-looks-as-robotics-adoption-picks-up/",
-      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/uncategorized/article/nigerias-oil-sector-looks-as-robotics-adoption-picks-up/",
-      "publishedDateTime": "2022-06-23T18:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businessday",
-        "domain": "businessday.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-robots-and-artificial-intelligence.md",
-      "title": "Robots and Artificial Intelligence",
-      "excerpt": "Why DoD’s New Approach to Data and Artificial Intelligence Should Enhance National Defense The DoD’s updated efforts on artificial intelligence (AI) are requiring some disruptive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cfr.org/robots-and-artificial-intelligence",
-      "originalUrl": "https://www.cfr.org/robots-and-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cfr.org//themes/custom/cfr_theme/src/assets/images/cfr-logo-og.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cfr.org",
-        "domain": "cfr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-amazon-robots-will-join-its-warehouse-workforce.md",
-      "title": "Amazon Robots Will Join Its Warehouse Workforce",
-      "excerpt": "While Amazon's Astro started hauling drinks from room to room in some homes this year, two new working robots will start hauling and sorting boxes at the company's warehouses in 2023. O, Amazon gave a first look at Proteus and Cardinal,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/amazon-robots-will-join-its-warehouse-workforce/",
-      "originalUrl": "https://www.cnet.com/tech/amazon-robots-will-join-its-warehouse-workforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/c58b82d01bac03ecddd20850eaf2bc8d99d26ca3/2022/06/22/c974b7b0-bbfe-4bcf-8ada-b6bbcd7d7e67/gettyimages-1241014040-amazon-building.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/amazon-robots-will-join-its-warehouse-workforce/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-robots-will-join-its-warehouse-workforce/",
-      "publishedDateTime": "2022-06-23T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

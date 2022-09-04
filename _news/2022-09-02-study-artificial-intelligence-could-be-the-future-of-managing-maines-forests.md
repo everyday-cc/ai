@@ -6,7 +6,7 @@ publishedDateTime: 2022-09-01T19:06:00Z
 originalUrl: "https://www.bangordailynews.com/2022/09/01/news/artificial-intelligence-forest-management/"
 webUrl: "https://www.bangordailynews.com/2022/09/01/news/artificial-intelligence-forest-management/"
 type: article
-quality: 28
+quality: 50
 heat: -1
 published: false
 
@@ -16,6 +16,13 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://bdn-data.s3.amazonaws.com/uploads/2022/09/Artificial-intelligence-forests-UMaine1.jpg"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "Artificial intelligence can be used to better monitor Maine's forests"
@@ -58,6 +65,6 @@ related:
         height: 467
         isCached: true
 
-secured: "Qosvg91t4Y2Qd7/MwQsnxc6jUOeSBLU0C77AMSo6VSF8ABTZBwDL+OWKkmYC/AmdD3WUlqXsFL0dnpfrszxclTiYlIEZkAqswgTq2oVNdbqMbRWxhao9La0TJcR/7NVrcIGPQwlIonXJRdyY1v1KHY+5CIOuOTplQm9o2COkBn80uexuduEP0vFT6GcWcf+42KzQt7vE7XhObHfHq/f7jOFEdvt04QO1wgTYrugAaq7ArK1fPRuRI+xZPPbcXKCVPZCjoYoF2bO6e9yakbNHAuvePUz1ydini+VBJew0jtsPXpMjJZxnziHf+8HVQ90pFy+JNaDq0tnaY6JutLqMxju0EcxpIPM6pi+FE61Ouz76mldwj9nPLCvZCICjzcmPx7HdVU42hnkQpiY557GVRjKk2nHHtn3Cf2aMzh1KAC6s7fK1aXElQ7M3JUeDWk7uSSugynyZV89N5+KKOvdcjcPdCpTnnHK9hbgpz4Dbp/w+GmC4ptlXVGluLKa2xZxejkM6bY7k2np53RM6xLBbLw==;vrCzXtGUG2vLIMULp9XTIw=="
+secured: "pZGnP6CvHcYVoTOBzXrycJ6hZ9DuzeUhMIahvHflr8pn/187YIxaCGqn6zLt/vKuSoOZQFppIzN1XPpYLqbR1txu8z41fysozdldZG2rhfkW39w8ghixqI2jqffqqImpOedxhn2ERPeOfB3i94UYtem11VmjcxSJVFs1EXY7LfZQKRiCygFaEHrumRhOErSrFJ+TKe9ydKcF2ZCNUS7jLLKqRqoqcvue+flTEwYeoSXXG3NV4tT02Aeis25j5wEYNcQy/cVP6R7aNJnj1Ny5zWj2dW5TL9tLtD/hazYkXIRvD4bOxlYxB0mqRCPb3M3UmF7SKr4rAh83zpnDpwe1WCofXQA0aBl1Qhp9zP0MSHQ=;rbiKQYbFse9HUK//h6T1WQ=="
 ---
 

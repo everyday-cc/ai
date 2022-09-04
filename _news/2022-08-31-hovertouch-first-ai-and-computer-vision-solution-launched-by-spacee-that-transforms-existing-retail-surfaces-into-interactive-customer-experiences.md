@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-31T08:03:00Z
 originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56938910-hovertouch-first-ai-and-computer-vision-solution-launched-by-spacee-that-transforms-existing-retail-surfaces-into-interactive-customer-experiences-008.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56938910-hovertouch-first-ai-and-computer-vision-solution-launched-by-spacee-that-transforms-existing-retail-surfaces-into-interactive-customer-experiences-008.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Finanznachrichten

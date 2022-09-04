@@ -39,20 +39,6 @@ related:
         width: 777
         height: 437
         isCached: true
-  - title: "Study uncovers molecular changes in the brain’s blood vessels caused by Alzheimer’s susceptibility gene"
-    excerpt: "Recent breakthroughs have revealed a great deal about Alzheimer's disease, but researchers have yet to paint a complete picture of how genetic risk for the illness causes the brain damage that ultimately leads to memory loss and cognitive decline."
-    publishedDateTime: 2022-08-31T02:42:00Z
-    webUrl: "https://www.news-medical.net/news/20220830/Study-uncovers-molecular-changes-in-the-braine28099s-blood-vessels-caused-by-Alzheimere28099s-susceptibility-gene.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 23
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "AI Diagnoses Alzheimer And Dementia From Voice Recordings"
     excerpt: "Researchers develop an artificial intelligence system that detects cognitive impairment accurately and efficiently from voice recording."
     publishedDateTime: 2022-09-01T11:53:00Z

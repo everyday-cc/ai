@@ -7,7 +7,7 @@ originalUrl: "https://www.azcentral.com/story/news/local/phoenix/2022/08/29/waym
 webUrl: "https://www.azcentral.com/story/news/local/phoenix/2022/08/29/waymo-program-lets-you-ride-driverless-solo-who-can-apply/7906028001/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,77 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "GM’s Driverless-Car Unit Recalls Software Used in Some Robotaxis"
+    excerpt: "General Motors driverless-car unit has issued a recall related to the software in some of its robotaxis, after a crash earlier this year resulted in minor injuries. Cruise LLC, in a notice ..."
+    publishedDateTime: 2022-09-01T14:27:00Z
+    webUrl: "https://www.wsj.com/articles/gms-driverless-car-unit-recalls-software-used-in-some-robotaxis-11662041338?mod=hp_lista_pos2"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-614944/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "GM's Cruise recalls, revises self-driving software after crash"
+    excerpt: "General Motors startup unit Cruise LLC said Thursday it had recalled 80 self-driving vehicles and updated their software after a June crash in San Francisco left two people injured."
+    publishedDateTime: 2022-09-01T09:36:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/gms-cruise-recalls-revises-self-driving-software-after-crash-2022-09-01/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://www.reuters.com/resizer/JOqAhF2tr6Sz-OwrSoBK8ivT_To=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/V2MG2V6VQJNHPIAI2U6QYPO2XA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "GM's Cruise Unit Recalls And Revises Self-driving Software After Crash"
+    excerpt: "General Motors' startup unit Cruise LLC said Thursday it had recalled and updated software in 80 self-driving vehicles after a June crash in San Francisco that left two people injured."
+    publishedDateTime: 2022-09-01T14:39:00Z
+    webUrl: "https://www.ibtimes.com/gms-cruise-unit-recalls-revises-self-driving-software-after-crash-3608357"
+    ampWebUrl: "https://www.ibtimes.com/gms-cruise-unit-recalls-revises-self-driving-software-after-crash-3608357?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/gms-cruise-unit-recalls-revises-self-driving-software-after-crash-3608357?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 44
+    images:
+      - url: "https://d.ibtimes.com/en/full/3811457/cruise-self-driving-car-which-owned-general-motors-corp-seen-outside-companys.jpg"
+        width: 1200
+        height: 788
+        isCached: true
+  - title: "GM’s Cruise Recalls 80 Self-Driving Cars Due to Risk of Crash"
+    excerpt: "General Motors Co.’s Cruise self-driving car unit has recalled an older version of software used by its robotaxis at the time of a crash in San Francisco in June, according to federal transportation regulators."
+    publishedDateTime: 2022-09-01T17:04:00Z
+    webUrl: "https://www.bnnbloomberg.ca/gm-s-cruise-recalls-80-self-driving-cars-due-to-risk-of-crash-1.1813507"
+    ampWebUrl: "https://www.bnnbloomberg.ca/gm-s-cruise-recalls-80-self-driving-cars-due-to-risk-of-crash-1.1813507.amp.html"
+    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/gm-s-cruise-recalls-80-self-driving-cars-due-to-risk-of-crash-1.1813507.amp.html"
+    type: article
+    provider:
+      name: bnnbloomberg
+      domain: bnnbloomberg.ca
+    quality: 44
+    images:
+      - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1813508!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/a-cruise-vehicle-in-san-francisco-california-photographer-david-paul-morris-bloomberg.jpg"
+        width: 620
+        height: 349
+        isCached: true
+  - title: "GM's Cruise Recalls Self-Driving Software Involved in June Crash"
+    excerpt: "After two people were injured in the incident, Cruise blocked its robot vehicles from making left turns for several weeks before issuing a software update."
+    publishedDateTime: 2022-09-01T19:34:00Z
+    webUrl: "https://www.wired.com/story/gms-cruise-recalls-self-driving-software-involved-in-june-crash/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 34
 
 secured: "uV0HHu6lJKZ1LX5H8yG9iPHuS/W1YCdExTWhfEO17G9zc36TnLPefG/gnOTkjYGO3iAVL1331dyVNpjSBfMukDPbQfH4ZjCIQT71/2YoacK/3UrySf+5x7WhPhR95O4etOAdDOCvkOlrRmnfkomWhbdsgqACDqnZ5mCcZdNcyPWedu0oDIeEQVRu2N2JIwb+SMaM4ZO8MP2zMfEUXd8lAaUle5RnIpOkTIgPXeI55f2Zo9OjC30R19h3jc74qgllmXBMTw/TCYxLtqq6O3eNWUFs09p0isLJddCg115UGwXhHLodTL2Xo48Mu0Jz2Gc1DokuuHZPouIuk5gBJ8snZ2zk7Y6aMtfR+QigrE6dRTw=;j063OrOG9HlAhEsZid+k+g=="
 ---

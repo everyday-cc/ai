@@ -2,6 +2,93 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-21-asx-tech-stocks-archers-chip-compatible-with-semi-fabs-and-a-super-fast-plasma-boring-robot.md",
+      "title": "ASX Tech Stocks: Archer’s chip compatible with semi fabs and a super fast plasma boring robot",
+      "excerpt": "Archer's 12CQ quantum chip is compatible with industrial semiconductor fabrication processes and a plasma robot digger with lightsaber arms.",
+      "sourceUrl": null,
+      "webUrl": "https://stockhead.com.au/tech/asx-tech-stocks-archers-chip-compatible-with-semi-fabs-and-a-super-fast-plasma-boring-robot/",
+      "originalUrl": "https://stockhead.com.au/tech/asx-tech-stocks-archers-chip-compatible-with-semi-fabs-and-a-super-fast-plasma-boring-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://stockhead.com.au/wp-content/uploads/2022/07/GettyImages-168623087.jpg",
+          "width": 1933,
+          "height": 1087,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://stockhead.com.au/tech/asx-tech-stocks-archers-chip-compatible-with-semi-fabs-and-a-super-fast-plasma-boring-robot/?amp",
+      "cdnAmpWebUrl": "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/asx-tech-stocks-archers-chip-compatible-with-semi-fabs-and-a-super-fast-plasma-boring-robot/?amp",
+      "publishedDateTime": "2022-07-20T20:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "stockhead",
+        "domain": "stockhead.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-07-20-fibocom-launches-ai-smart-module-sca825-w-unleashing-the-potential-of-aiot-with-superior-computing-power.md",
+      "title": "Fibocom Launches AI Smart Module SCA825-W, Unleashing the Potential of AIoT with Superior Computing Power",
+      "excerpt": "The combination of AI and IoT has opened up new possibilities for industries requiring automated real-time decision-making and data analysis. The demand for 5G AIoT solutions is expected to skyrocket,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-8534a23541c6ab9feb351fbe8858cb40",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-8534a23541c6ab9feb351fbe8858cb40",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T03:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-20-3-chip-stocks-to-buy-ahead-of-earnings.md",
       "title": "3 Chip Stocks to Buy Ahead of Earnings",
       "excerpt": "T he world's top chip manufacturer Taiwan Semiconductor Manufacturing's , better known as TSMC, second-quarter 2022 earnings report indicates chip spending is still very healthy,",
@@ -1290,101 +1377,6 @@
         "AI Hardware",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-risc-v-development-laptop-introduced-by-deepcomputing-and-xcalibyte.md",
-      "title": "RISC-V development laptop introduced by DeepComputing and Xcalibyte",
-      "excerpt": "“A Web3-friendly platform with NFT creation and publication plus integrated MetaMask-style wallet, ROMA will create an even more integrated experience with future AR glasses and AI speakers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/risc-v-laptop-04-07-2022/",
-      "originalUrl": "https://www.geeky-gadgets.com/risc-v-laptop-04-07-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2022/07/RISC-V-laptop.jpg",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-04T05:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-htc-a101-tablet-launched-with-10-inch-display-unisoc-t618-chip.md",
-      "title": "HTC A101 tablet launched with 10-inch display, Unisoc T618 chip",
-      "excerpt": "HTC A101 tablet has gone official in South Africa and Russia. It is a mid-range tablet that offers key features such as a 10-inch display, a Unisoc chipset, dual rear cameras, and a big battery. Here is all the information on the specifications,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/07/04/htc-a101-tablet-launched-with-10-inch-display-unisoc-t618-chip/",
-      "originalUrl": "https://www.gizmochina.com/2022/07/04/htc-a101-tablet-launched-with-10-inch-display-unisoc-t618-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/07/HTC-A101-Tablet.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/07/04/htc-a101-tablet-launched-with-10-inch-display-unisoc-t618-chip/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/07/04/htc-a101-tablet-launched-with-10-inch-display-unisoc-t618-chip/?amp=1",
-      "publishedDateTime": "2022-07-04T02:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

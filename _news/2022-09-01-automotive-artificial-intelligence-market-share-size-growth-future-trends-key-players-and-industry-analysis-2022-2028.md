@@ -22,15 +22,15 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Drug Discovery Market Size, Set for Rapid Growth and Trend by 2022-2030"
-    excerpt: "The artificial intelligence (AI) in drug discovery market size is expected to reach USD 4.13 billion by 2030 according to a new study by Report Ocean. Request To Download Sample of This Strategic Report:-  Report Ocean presents a new report on artificial intelligence (AI) in drug discovery market size,"
-    publishedDateTime: 2022-08-31T04:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-size-set-for-rapid-growth-and-trend-by-2022-2030-2022-08-31"
+  - title: "Machine Learning Market Share 2022 | Trends, Emerging Factors, Demands, Key Players, Emerging Technologies"
+    excerpt: "Machine learning (ML) is the application of artificial intelligence (AI) for developing systems capability to learn automatically and improve their overall performance through experience, without being programmed explicitly."
+    publishedDateTime: 2022-08-31T05:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-share-2022-trends-emerging-factors-demands-key-players-emerging-technologies-2022-08-31"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

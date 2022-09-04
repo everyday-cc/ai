@@ -2,59 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-07-26-its-finally-time-for-ai-in-healthcare.md",
-      "title": "It’s Finally Time For AI In Healthcare",
-      "excerpt": "Artificial intelligence (AI) has been the promise of healthcare for nearly a decade, but the industry has yet to adopt it widely. Applications of AI in arguably more difficult domains, such as search,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/its-finally-time-for-ai-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/its-finally-time-for-ai-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/609e821d654474333e16c7cf/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/its-finally-time-for-ai-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/26/its-finally-time-for-ai-in-healthcare/amp/",
-      "publishedDateTime": "2022-07-26T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-07-25-artificial-intelligence-in-drug-discovery-market-size-to-develop-with-increased-global-emphasis-on-industrialization-2030.md",
       "title": "Artificial Intelligence in Drug Discovery Market Size, To Develop with Increased Global Emphasis On Industrialization -2030",
       "excerpt": "Report Ocean presents a new report on artificial intelligence (AI) in drug discovery market size, share, growth, industry trends, and forecast 2030, covering various industry elements and growth trends helpful for predicting the market’s future.",
@@ -1389,6 +1336,49 @@
         "AI",
         "Google AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-medtronic-announces-co-promotion-agreement-with-cathworks-with-path-toward-acquisition.md",
+      "title": "Medtronic announces co-promotion agreement with CathWorks, with path toward acquisition",
+      "excerpt": "In contrast to traditional FFR, the FFRangio System combines artificial intelligence (AI) and advanced computational ... Fractional Flow Reserve–Guided PCI versus Medical Therapy in stable coronary disease. The New England Journal of Medicine 2012 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.idahostatejournal.com/news/world/medtronic-announces-co-promotion-agreement-with-cathworks-with-path-toward-acquisition/article_7d828ffd-62ed-5b00-93d6-3b6fa103870a.html",
+      "originalUrl": "https://www.idahostatejournal.com/news/world/medtronic-announces-co-promotion-agreement-with-cathworks-with-path-toward-acquisition/article_7d828ffd-62ed-5b00-93d6-3b6fa103870a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/idahostatejournal.com/content/tncms/custom/image/8f842262-b887-11e9-b93f-572c463bdda4.png",
+          "width": 660,
+          "height": 345,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Idaho State Journal",
+        "domain": "idahostatejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

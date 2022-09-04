@@ -47,20 +47,6 @@ related:
         width: 777
         height: 437
         isCached: true
-  - title: "Study uncovers molecular changes in the brain’s blood vessels caused by Alzheimer’s susceptibility gene"
-    excerpt: "Recent breakthroughs have revealed a great deal about Alzheimer's disease, but researchers have yet to paint a complete picture of how genetic risk for the illness causes the brain damage that ultimately leads to memory loss and cognitive decline."
-    publishedDateTime: 2022-08-31T02:42:00Z
-    webUrl: "https://www.news-medical.net/news/20220830/Study-uncovers-molecular-changes-in-the-braine28099s-blood-vessels-caused-by-Alzheimere28099s-susceptibility-gene.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 23
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "iD0t81RzuKtSR5KX/g1NQaO8l7RWQz0OL0Rx43NPoF0ejKxuDct7u4sTRIn+MZXGVqiAPOYCVDyTtHLVpN5yIQNL0kowneiXiOlipvAWEcpyl1iCyPei6uqoXFZc1JqhmABpEZfkM15TSeAq4Tir2hDOlrBTRjd5PCXABAK05ZcvqVp9t4nNSxvR3bhTOVto1qWWQxqx9OaW9c/O5JW1EywnZyEJY54o3IKjxQCv4nj38E7R7VNfRHQLSJWRfgPq14tJMqYGapqRaUZu9hwrSOjzN0m7t3+2FaUIgOcYsu8zVqNZO3MwmeKoodYm595piC1XQcVMGQ4nHXRhpzXqXaeLFIPl/OGTmQCccwmQIJkcFAJTCc8xqDYxPSEav8dSEX+VkwsF0Z2+N8R39Ly5rO1sL4q60utz8/WrYfJodaj4eWOhc7ntCk4w0Z8FnByski+lQpuRp+WC6s4KCLGKn8o3FKqPl5qPLiWFJUd/9G71smu7V5YsC5QJRBANqiW7/yR0Dsv1OfK8G4ewdw0eOg==;7s+Pd+R9KG3NuAHRrsz4QQ=="
 ---

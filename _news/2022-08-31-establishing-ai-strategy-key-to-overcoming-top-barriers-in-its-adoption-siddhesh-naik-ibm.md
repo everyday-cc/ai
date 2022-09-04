@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-31T12:43:00Z
 originalUrl: "https://www.businessworld.in/article/Establishing-AI-Strategy-Key-To-Overcoming-Top-Barriers-In-Its-Adoption-Siddhesh-Naik-IBM/31-08-2022-444638/"
 webUrl: "https://www.businessworld.in/article/Establishing-AI-Strategy-Key-To-Overcoming-Top-Barriers-In-Its-Adoption-Siddhesh-Naik-IBM/31-08-2022-444638/"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: Businessworld

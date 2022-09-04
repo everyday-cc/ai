@@ -1,24 +1,26 @@
 ---
 category: news
 title: "Baidu revenue contracts but beats estimates on cloud business growth"
-excerpt: "Revenue at Baidu's AI Cloud unit grew 31% year-on-year in the quarter. Baidu has also been doubling down on self-driving technologies, in which it has heavily invested over the past five years."
-publishedDateTime: 2022-08-30T10:25:00Z
-originalUrl: "https://www.reuters.com/technology/baidu-beats-quarterly-revenue-estimates-2022-08-30/"
-webUrl: "https://www.reuters.com/technology/baidu-beats-quarterly-revenue-estimates-2022-08-30/"
+excerpt: "Revenue at Baidu’s AI Cloud unit grew 31% year-on-year in the quarter. Baidu has also been doubling down on self-driving technologies, in which it has heavily invested over the past five years."
+publishedDateTime: 2022-08-30T13:18:00Z
+originalUrl: "https://www.euronews.com/next/2022/08/30/baidu-results"
+webUrl: "https://www.euronews.com/next/2022/08/30/baidu-results"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Euronews (Spain)
+  domain: euronews.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "KjOIK5YOtl8nbcvrxnWZgq/GXaaf3H5wIRix0ZmLssTaMw+JJ32bQUcCSUJRjxro1Fb9F+nY+3DQ0hxA/nZSOSrYvse6UixmCKbZzi+n/I6tC8H+VKVW06gnutN7WDeO7t/M45MNJtTtLwzIDB8IUz1TuQ160XHgYkKfqZFDC8yAKD7x2asC7lTMKNjtIkaWQOzzBYJfhBd9yOAypKPYrFhdugLzhb/HfHhuVf7791wPv06xvvR8GbtvkVPiYNogmtgGmliRyA5H95rxgyILiAewrIIhV8JF90uBbHFHDc0DrmMGn5mjzngJ5liDMD2isOwnlC2niIiVLRZbV1aOhIV6Z+I6vd0z2gMQvhX7iyY=;rm/AKvyBGrEZ3gn6mWHNTg=="
+images:
+  - url: "https://static.euronews.com/articles/wires/874/96/8749602/1000x563_qr8u3.jpg"
+    width: 1000
+    height: 563
+    isCached: true
+
+secured: "UtUR4Q+1zZltVqmxmPMPyknz1ZX9bi07EY5/jE7ibqFBbQFn71DpzwsvH8JJeOpVEycJMwT7831LIirN1eBaEOdrN6f1k0BRRwdnfwTvLwE22sREaLDcNh6PdAnPR03o+R8qV1GGSXL1XH7XhRN9MSkTT2ILA+mRmeWAMSxAiNtvq1XZ1aNUTFi4dhqASCpYbqwBhY51l7A/+cApFv8JMYJ2nVH1DkP2DXGYSTaZOoZd5I4oihZLc861ZIlRj8UqhLrpLOHfjCzsSH7YV9N9zfc6QC88lxjEz7wF7+adZdgRDu/Wg2WQYaUTNd1dg17tuDfQUDQIg4R6CH7D7nCJGMgpWQo/lvEfjUIEVYxyDco=;VGN8Ov8MydZmJcpYsFvouw=="
 ---
 

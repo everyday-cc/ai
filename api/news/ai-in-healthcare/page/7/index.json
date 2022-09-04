@@ -2,58 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2022-06-21-responsible-ai-in-healthcare-addressing-biases-and-equitable-outcomes.md",
-      "title": "Responsible AI in healthcare: Addressing biases and equitable outcomes",
-      "excerpt": "So what does that look like? A call to fight bias with the help of algorithms Let’s start by talking about when AI fails and when AI succeeds at organizations overall. MIT and Boston ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/20/responsible-ai-in-healthcare-addressing-biases-and-equitable-outcomes/",
-      "originalUrl": "https://venturebeat.com/2022/06/20/responsible-ai-in-healthcare-addressing-biases-and-equitable-outcomes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1251551899-e1642523643912.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/20/responsible-ai-in-healthcare-addressing-biases-and-equitable-outcomes/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/20/responsible-ai-in-healthcare-addressing-biases-and-equitable-outcomes/amp/",
-      "publishedDateTime": "2022-06-20T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-06-20-how-artificial-intelligence-is-revolutionising-healthcare.md",
       "title": "How Artificial Intelligence is revolutionising healthcare",
       "excerpt": "Artificial Intelligence (AI) may never be able to adopt the comforting 'bedside manner' that good doctors are known for, but it may be better equipped to diagnose your ailments accurately.",
@@ -1378,6 +1326,49 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-global-healthcare-artificial-intelligence-research-report-2022-researchandmarketscom.md",
+      "title": "Global Healthcare Artificial Intelligence Research Report 2022 - ResearchAndMarkets.com",
+      "excerpt": "The \"Global Healthcare Artificial Intelligence Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. This report examines the role of artificial intelligence (AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesunchronicle.com/news/nation_world/global-healthcare-artificial-intelligence-research-report-2022---researchandmarkets-com/article_10ce40eb-2afc-5a33-bf4c-efbe3b84b100.html",
+      "originalUrl": "https://www.thesunchronicle.com/news/nation_world/global-healthcare-artificial-intelligence-research-report-2022---researchandmarkets-com/article_10ce40eb-2afc-5a33-bf4c-efbe3b84b100.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/thesunchronicle.com/content/tncms/assets/v3/eedition/2/e6/2e602f87-3b50-5cc8-a798-838046514119/62afc7cc16660.preview-300.jpg?resize=300%2C579",
+          "width": 300,
+          "height": 579,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun Chronicle",
+        "domain": "thesunchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

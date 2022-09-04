@@ -109,20 +109,6 @@ related:
         width: 1599
         height: 900
         isCached: true
-  - title: "Self-driving cars have nothing on Japan’s self-captaining ships"
-    excerpt: "It was grimy from nautical toil and decidedly ugly on the eye, but there are few more thrilling ships out on the seas. And if you like your gadgetry game-changing but also attractive to barnacles and a challenge to the idea that Silicon Valley has a pre-eminent right to define “tech”,"
-    publishedDateTime: 2022-08-31T04:00:00Z
-    webUrl: "https://www.ft.com/content/e767201d-5287-4ffd-9995-e495d4a6a69b"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 39
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-        width: 619
-        height: 377
-        isCached: true
   - title: "GM’s Cruise recalls 80 self-driving EVs citing collision risks when turning"
     excerpt: "General Motors’ self-driving rideshare service Cruise announced that it has recalled 80 of its electric robotaxis in order to update their software following an accident in June that injured two people."
     publishedDateTime: 2022-09-02T18:33:00Z

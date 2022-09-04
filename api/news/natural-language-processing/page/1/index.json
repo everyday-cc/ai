@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/09/03/why-do-we-keep-repeating-the-same-mistakes-on-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -52,7 +52,8 @@
         "AI",
         "AI in Autos",
         "Machine Learning",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "AI Hardware"
       ]
     },
     {
@@ -1409,22 +1410,13 @@
       "title": "Best speech-to-text apps in 2022: Free, paid and online voice recognition apps and services",
       "excerpt": "Here then are the best in speech-to-text recognition programs, which should be more than capable for most situations and circumstances. Dragon Anywhere is the Nuance mobile product for Android and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/uk/news/best-speech-to-text-app",
-      "originalUrl": "https://www.techradar.com/uk/news/best-speech-to-text-app",
+      "webUrl": "https://www.techradar.com/news/best-speech-to-text-app",
+      "originalUrl": "https://www.techradar.com/news/best-speech-to-text-app",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/uAcBuTUyyJJiE8ZyAKKW9D-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,

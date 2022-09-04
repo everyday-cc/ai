@@ -9,7 +9,7 @@ ampWebUrl: "https://www.huffpost.com/entry/colorado-state-fair-ai-art_n_63106fc4
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/colorado-state-fair-ai-art_n_63106fc4e4b063d5e621ef1a/amp"
 type: article
 quality: 86
-heat: 136
+heat: 137
 published: true
 
 provider:

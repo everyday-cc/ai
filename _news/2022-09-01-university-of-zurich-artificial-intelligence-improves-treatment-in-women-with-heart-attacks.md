@@ -37,22 +37,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "Study finds Artificial Intelligence helps in treating Women with heart attacks"
-    excerpt: "Researchers from Switzerland and the United Kingdom analyzed data from 420,781 patients across Europe who had suffered the most common type of heart a.."
-    publishedDateTime: 2022-08-31T04:04:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/study-finds-artificial-intelligence-helps-in-treating-women-with-heart-attacks/93894432"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/study-finds-artificial-intelligence-helps-in-treating-women-with-heart-attacks/93894432"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/study-finds-artificial-intelligence-helps-in-treating-women-with-heart-attacks/93894432"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 55
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-93894432,imgsize-40566,width-1200,height-628,overlay-etcio/study-finds-artificial-intelligence-helps-in-treating-women-with-heart-attacks.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "DoCPQG6PToZu8mQeEpTHh3nTMUomlMRBm2AA2IW939rVPOKSenFjFD+i4iOZ17dDKBs6If72hEyEaN3zkmTTbvNj7hBzsSm6/kOUWxyZPz+GHtCPY/P35M2+BGHG/05nehu8lru2dOXUopJ/2QepnaKT9tEopLT++p0k3bK96JpSfh6Jxuz4Q0MawlUX5GIwbAlk90FZPFD0OKT284XVZF97Np/2gNZPSPchkb+4C4QF/nAQeTqH8jNJtYd4DHYZSz/RmdbVOhDHtaLlUeb0dJLdfM5wYruezNj+2GP5zxQybukGWppXWBdfQgwqMkm0ErmIJwjX2a2MKN5yr4zooGKxw4mJbwibflqLpNLhju4=;+hKgWBP9g9fd/gUbM8TzLg=="
 ---

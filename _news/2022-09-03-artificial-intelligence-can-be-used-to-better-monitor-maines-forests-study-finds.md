@@ -35,6 +35,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 68
+  - title: "Study: Artificial intelligence could be the future of managing Maine’s forests"
+    excerpt: "Monitoring soil conditions can typically be a time-consuming job, with soil conditions changing on a daily, weekly and monthly basis."
+    publishedDateTime: 2022-09-01T19:06:00Z
+    webUrl: "https://www.bangordailynews.com/2022/09/01/news/artificial-intelligence-forest-management/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 50
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2022/09/Artificial-intelligence-forests-UMaine1.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Artificial intelligence can be used to better monitor Maine’s forests, UMaine study finds"
     excerpt: "The University of Maine has developed a novel method of using artificial intelligence and machine learning to make monitoring soil moisture more energy and cost efficient. The software learns over time how to make the best use of available network resources,"
     publishedDateTime: 2022-09-03T02:52:00Z
@@ -49,15 +63,6 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "Study: Artificial intelligence could be the future of managing Maine’s forests"
-    excerpt: "Monitoring soil conditions can typically be a time-consuming job, with soil conditions changing on a daily, weekly and monthly basis."
-    publishedDateTime: 2022-09-01T19:06:00Z
-    webUrl: "https://www.bangordailynews.com/2022/09/01/news/artificial-intelligence-forest-management/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 28
 
 secured: "FzmMmyceIp8M/KPWI29xxdTt/fpJj0Dwrk2gsjgnQCmXd2yxloT+uHjeTy77XQtgbxa7XIE403BMVwnjvMIDlYVQl+gmDlEXBDmD3JyYemcMD5CMe8p++aTXaudmPfpTLvASuXHMrIvmmCUAJQHRBVY8zqTtrghJGpMK8Z8H3KBZQYz39jnO5HZAQIRnJprxUZQOLklZrbOhLP2R5lvL/FZO9GGCyjPzAPNuXkmuN2sJqpHl12i27wCkjk084kigwB3zesBpIxZWZ37DuYYxuYtUP81Gq21M/RiBsd66mtq87j2fFapTSweN8ShLRLJVpTyK/Np1pHlh+lvFxc4Pq4JqlbVJVO7TD51bI8VGr1KAZD52FC0tCKAn/k460FjeN1fGeUOBJX/xl4DTAh5+yFP8JoSZVoga9ty7ApJvdgokjDLAIDN1N5qJxa7roOOC3uqWWMaaZMKs5RH4MnELmbzThVdOQXcqJePrxyAY30i3jMdAOjsd9kRXKSuh0b9at+0htSFolagn+D9/57bJ2g==;JsmWcC4Yb2XhV3V7rfKZfw=="
 ---

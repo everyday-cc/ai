@@ -289,6 +289,58 @@
       ]
     },
     {
+      "path": "_news/2022-09-01-artificial-intelligence-ai-robots-market-projected-to-reach-worth-353-billion-by-2026-exclusive-report-by-marketsandmarketstm.md",
+      "title": "Artificial Intelligence (AI) Robots Market Projected to Reach worth $35.3 billion by 2026 - Exclusive Report by MarketsandMarkets(TM)",
+      "excerpt": "At a CAGR - 38.6% Geographic regions covered - North America, APAC, Europe, and RoW Ask for PDF Brochure:  Browse in-depth TOC on \" Artificial Intelligence (AI) Robots Market \" 178 - Tables 81- Figures 253 - Pages NVIDIA develops GPUs and delivers value to its consumers through PC,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-projected-to-reach-worth-353-billion-by-2026---exclusive-report-by-marketsandmarketstm-2022-09-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-projected-to-reach-worth-353-billion-by-2026---exclusive-report-by-marketsandmarketstm-2022-09-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-01T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-31-unilag-trains-youths-on-coding-robotics-programming.md",
       "title": "UNILAG Trains Youths on Coding, Robotics Programming",
       "excerpt": "Yinka-Banjo disclosed this at the Undergraduate Robotics Challenge, powered by Coderina and the closing ceremony of the 2022 one month summer coding and robotics programme. The programme is aimed at introducing young beginners to the field of robotics and progressively leadin them from basic concepts to actual work with robots.",
@@ -329,6 +381,60 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-ai-startup-simaai-debuts-purpose-built-ai-chip-for-edge-computing.md",
+      "title": "AI startup SiMa.ai debuts 'purpose-built' AI chip for edge computing",
+      "excerpt": "The chip company places special emphasis on software innovations such as compiler optimization to improve performance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/",
+      "originalUrl": "https://www.zdnet.com/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/880f030bba7a4480fe84f79f48a479e12de7a17e/2022/08/30/9a7626ba-c727-4205-8109-e0d5caf30154/sima-mlsoc-evaluation-board.png?width=1200&fit=bounds&format=pjpg&auto=webp",
+          "width": 1200,
+          "height": 749,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/",
+      "publishedDateTime": "2022-08-30T15:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Machine Learning",
+        "AI in Robotics"
       ]
     },
     {
@@ -643,6 +749,49 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-28-startup-develops-ai-that-makes-call-center-employees-sound-like-white-american-robots.md",
+      "title": "Startup develops AI that makes call center employees sound like white, American robots",
+      "excerpt": "This time around, Palo Alto-based startup Sanas has introduced to the world an AI with the goal of making foreign call center employees sound accent-neutral, and the effect of making them sound white.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/ai-startup-makes-call-center-foreigners-sound-white",
+      "originalUrl": "https://mashable.com/article/ai-startup-makes-call-center-foreigners-sound-white",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/06flaA2qTkuYtTU1N3cKsg0/hero-image.fill.size_1200x675.v1661618885.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-27T23:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1081,6 +1230,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-24-jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work.md",
+      "title": "Jobs in the metaverse: This AI startup founder wants to change the future of work",
+      "excerpt": "Adam Turaev, the founder of Praktika.ai, an AI-based learning platform, believes the metaverse will remove barriers in workplace. He is striving to help non-native English speakers — or their avatars — to be hired by the international companies.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work/",
+      "originalUrl": "https://techbullion.com/jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work/amp/",
+      "publishedDateTime": "2022-08-24T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-08-24-how-leaders-are-using-ai-as-a-problem-solving-tool.md",
       "title": "How Leaders Are Using AI As A Problem-Solving Tool",
       "excerpt": "Leaders face more complex decisions than ever in today’s volitile world. So how can they get them right? The answer lies in using AI as a problem-solving too say experts",
@@ -1176,21 +1368,21 @@
       ]
     },
     {
-      "path": "_news/2022-08-24-google-robots-are-more-human-like-can-perform-complex-tasks.md",
-      "title": "Google robots are more human-like – can perform complex tasks",
-      "excerpt": "While the Google robot won’t be a smart cook anytime soon, it represents a major breakthrough that Google claims. Using recently developed artificial intelligence (AI) software known as large ...",
+      "path": "_news/2022-08-24-zilliz-the-startup-behind-the-milvus-open-source-vector-database-for-ai-applications-raises-60m-and-relocates-to-sf.md",
+      "title": "Zilliz, the startup behind the Milvus open-source vector database for AI applications, raises $60M and relocates to SF",
+      "excerpt": "Chinese startup Zilliz — which builds cloud-native software to process data for AI applications and unstructured data analytics, and is the creator of Milvus, the popular open source vector database for similarity searches — raised $43 million to scale its business and prep",
       "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2022/08/24/google-robots-are-more-human-like-can-perform-complex-tasks/",
-      "originalUrl": "https://www.gizchina.com/2022/08/24/google-robots-are-more-human-like-can-perform-complex-tasks/",
+      "webUrl": "https://techcrunch.com/2022/08/24/zilliz-the-startup-behind-the-milvus-open-source-vector-database-for-ai-applications-raises-60m-and-relocates-to-sf/",
+      "originalUrl": "https://techcrunch.com/2022/08/24/zilliz-the-startup-behind-the-milvus-open-source-vector-database-for-ai-applications-raises-60m-and-relocates-to-sf/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 73,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2022/08/Google-Robot.png",
-          "width": 916,
-          "height": 628,
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-95769788.jpg?w=1024",
+          "width": 1024,
+          "height": 691,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1198,102 +1390,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2022/08/24/google-robots-are-more-human-like-can-perform-complex-tasks/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/08/24/google-robots-are-more-human-like-can-perform-complex-tasks/amp/",
-      "publishedDateTime": "2022-08-23T21:40:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2022/08/24/zilliz-the-startup-behind-the-milvus-open-source-vector-database-for-ai-applications-raises-60m-and-relocates-to-sf/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/24/zilliz-the-startup-behind-the-milvus-open-source-vector-database-for-ai-applications-raises-60m-and-relocates-to-sf/amp/",
+      "publishedDateTime": "2022-08-24T04:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-disney-collaborates-with-miko-a-historic-first-for-the-consumer-robotics-space.md",
-      "title": "Disney Collaborates with Miko: A Historic First For The Consumer Robotics Space",
-      "excerpt": "The magical worlds of Disney and Pixar have arrived on the Miko 3 robot. The collaboration is a historic “first” for the consumer robotics space and the latest indication that AI will play a growing role in the future of kid’s entertainment.",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/disney-collaborates-with-miko-a-historic-first-for-the-consumer-robotics-space/",
-      "originalUrl": "https://indiaeducationdiary.in/disney-collaborates-with-miko-a-historic-first-for-the-consumer-robotics-space/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2022/08/Disney-on-Miko-3.jpg?fit=508%2C287&ssl=1",
-          "width": 508,
-          "height": 287,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/disney-collaborates-with-miko-a-historic-first-for-the-consumer-robotics-space/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/disney-collaborates-with-miko-a-historic-first-for-the-consumer-robotics-space/",
-      "publishedDateTime": "2022-08-23T19:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-artificial-intelligence-ai-robots-market-research-report-forecast-2022-to-2028-latest-industry-news-top-company-analysis-research-methodology.md",
-      "title": "Artificial Intelligence (AI) Robots Market Research report forecast 2022 To 2028, Latest Industry News, Top Company Analysis, Research Methodology.",
-      "excerpt": "According to our recent \"Artificial Intelligence (AI) Robots market research report\", the Artificial Intelligence (AI) Robots market with a compound annual growth rate (CAGR) of a percent 2022-2028.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-research-report-forecast-2022-to-2028-latest-industry-news-top-company-analysis-research-methodology-2022-08-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-research-report-forecast-2022-to-2028-latest-industry-news-top-company-analysis-research-methodology-2022-08-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1309,85 +1415,8 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-uk-controlled-robot-ship-surveys-pacific-ocean-volcano.md",
-      "title": "UK-controlled robot ship surveys Pacific Ocean volcano",
-      "excerpt": "STORY: This robotic boat is gathering data on an underwater ... So we can actually hand over the control the vessel from this office to anywhere else in the world to control that vessel, which ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/uk-controlled-robot-ship-surveys-223917368.html",
-      "originalUrl": "https://www.aol.com/news/uk-controlled-robot-ship-surveys-223917368.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/Te1aUOdi2bR3iSWL67UfeA--~B/aD01NDA7dz05NjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/video.reutersnews.com/1de53623ef7800652c9baa31b6a9fd65",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T16:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-robotic-legs-help-a-boy-from-hugo-now-he-hopes-to-help-others.md",
-      "title": "Robotic legs help a boy from Hugo, now he hopes to help others",
-      "excerpt": "Sometimes a simple walk around the block can become a meaningful journey. “He loves to move. He does not like sitting in his chair,” said Tiffany Goodchild, mother of 6-year-old Karter ...",
-      "sourceUrl": null,
-      "webUrl": "https://kstp.com/kstp-news/top-news/robotic-legs-help-a-boy-from-hugo-now-he-hopes-to-help-others/",
-      "originalUrl": "https://kstp.com/kstp-news/top-news/robotic-legs-help-a-boy-from-hugo-now-he-hopes-to-help-others/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSTP",
-        "domain": "kstp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

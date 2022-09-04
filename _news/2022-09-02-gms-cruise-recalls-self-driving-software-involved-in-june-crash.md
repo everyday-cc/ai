@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "GM’s Driverless-Car Unit Recalls Software Used in Some Robotaxis"
+    excerpt: "General Motors driverless-car unit has issued a recall related to the software in some of its robotaxis, after a crash earlier this year resulted in minor injuries. Cruise LLC, in a notice ..."
+    publishedDateTime: 2022-09-01T14:27:00Z
+    webUrl: "https://www.wsj.com/articles/gms-driverless-car-unit-recalls-software-used-in-some-robotaxis-11662041338?mod=hp_lista_pos2"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-614944/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "GM's Cruise recalls, revises self-driving software after crash"
     excerpt: "General Motors startup unit Cruise LLC said Thursday it had recalled 80 self-driving vehicles and updated their software after a June crash in San Francisco left two people injured."
     publishedDateTime: 2022-09-01T09:36:00Z
@@ -69,43 +83,20 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "General Motors Recalls and Updates 80 Self-Driving Vehicles"
-    excerpt: "General Motors' (NYSE:GM) startup unit, Cruise LLC, announced Thursday that it had recalled and updated software in 80 self-driving vehicles after a June crash in San Francisco left two people injured."
-    publishedDateTime: 2022-09-01T15:26:00Z
-    webUrl: "https://za.investing.com/news/general-motors-recalls-and-updates-80-selfdriving-vehicles-432SI-2610548"
+  - title: "Phoenix mayor snags a ride in a driverless Waymo car as company launches autonomous rides in downtown"
+    excerpt: "Phoenix's mayor recently took a spin in a driverless Waymo car to announce the launch of fully autonomous car rides in downtown Monday, though only for a small subset of people. The self ..."
+    publishedDateTime: 2022-08-31T08:45:00Z
+    webUrl: "https://www.azcentral.com/story/news/local/phoenix/2022/08/29/waymo-program-lets-you-ride-driverless-solo-who-can-apply/7906028001/"
     type: article
     provider:
-      name: Investing.com
-      domain: investing.com
-    quality: 24
+      name: AZ Central
+      domain: azcentral.com
+    quality: 39
     images:
-      - url: "https://i-invdn-com.investing.com/news/LYNXNPEC9O0PR_L.jpg"
-        width: 800
-        height: 499
-        isCached: true
-  - title: "GM's Cruise unit is recalling self-driving cars after crash"
-    excerpt: "Cruise said in a rare circumstance, the software caused the autonomous vehicle to hard brake while performing an unprotected left turn that it deemed necessary to avoid a severe front-end collision."
-    publishedDateTime: 2022-09-02T09:17:00Z
-    webUrl: "https://europe.autonews.com/automakers/why-gms-cruise-unit-recalling-80-self-driving-cars"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/CRUISE-MAIN_i_1.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2022/08/26/PPHX/ae46da1e-8443-4cd9-9487-cb6a013fa3bc-Waymo_-_Phoenix_-_Gallego.jpg?auto=webp&crop=2999,1687,x0,y201&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "GM Recalled Self-Driving Taxis. It’s a Win for the Technology."
-    excerpt: "Thursday, General Motors self-driving robotaxi company Cruise recalled some of its cars because of a risk of crash. It feels like a set back for all car companies with lofty robotaxi ambitions. Auto makers, including GM (ticker: GM) and Tesla (TSLA), hope ..."
-    publishedDateTime: 2022-09-01T19:58:00Z
-    webUrl: "https://www.barrons.com/articles/gm-recall-self-driving-taxis-51662062231"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 4
 
 secured: "8NoYMC46nHb+PqK4rzqdN5osQGFd0Pjn6RTTrGK6NC9C0JMsW96GXOVSWVHPacai2bWc+UgztYz3fmbAntawrberhSxr/DFa0432/95OnfqGNn+JXhB+TfxBQZHqM/Cvfc9mUEZhYSS1GPfqwgQ4n6FGC5RVgnSJsgqNxfFOeU728pcMZH0Dt4Vlu2mgWsmf57gEvmM/KbXy2egu0fPoMYxhAGg25vFGMKpH3ydN+kSGoNMiABmtMPSyrFyGFlmyUukLO8JG4w4pw++a5RfIeX46OzF6Bg1CK31M3O4lXAMNeeAqtlLxFBnIOcrLbZSUofmeOrGkBJZ6vf4WIOmmeHHPgbXFz0FJI/7rcQP7uEjNg9GWXP1pJfyeDR0JkgmscImOI/B/TEfOquIzQ/Tk/u49z/tCk5UZ7JtLoi25Zo0gjKiwk8ktYSITMxnEOaLt1X7gLwcIya0hisurmTCqmXSZtmugqby/l/Ybc1VmSE9NXUvDlDS7GscyXTOpJ/NYDs90IHFHpjlRo0iWar+HkA==;fYJU0v83cc/IWz9h2YRsuQ=="
 ---

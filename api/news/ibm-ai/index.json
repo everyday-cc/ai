@@ -62,7 +62,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/gatc-health-appoints-medical-ai-veteran-robert-keith-sorrentino-md-as-chief-medical-officer-1031705730",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -78,7 +78,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-25T05:35:00-07:00",
+      "publishedDateTime": "2022-08-25T07:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -101,9 +101,8 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
-        "AI",
-        "IBM AI"
+        "IBM AI",
+        "AI"
       ]
     },
     {

@@ -64,7 +64,7 @@
       "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/09/03/why-do-we-keep-repeating-the-same-mistakes-on-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -106,7 +106,8 @@
         "AI",
         "AI in Autos",
         "Machine Learning",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "AI Hardware"
       ]
     },
     {
@@ -216,7 +217,7 @@
       "originalUrl": "https://techxplore.com/news/2022-09-artificial-intelligence-decisions.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -261,7 +262,7 @@
       "originalUrl": "https://www.govtech.com/policy/california-passes-bill-targeting-teslas-self-driving-claims",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -296,21 +297,21 @@
       ]
     },
     {
-      "path": "_news/2022-09-01-gms-cruise-recalls-revises-self-driving-software-after-crash.md",
-      "title": "GM's Cruise recalls, revises self-driving software after crash",
-      "excerpt": "General Motors startup unit Cruise LLC said Thursday it had recalled 80 self-driving vehicles and updated their software after a June crash in San Francisco left two people injured.",
+      "path": "_news/2022-09-01-gms-driverless-car-unit-recalls-software-used-in-some-robotaxis.md",
+      "title": "GM’s Driverless-Car Unit Recalls Software Used in Some Robotaxis",
+      "excerpt": "General Motors driverless-car unit has issued a recall related to the software in some of its robotaxis, after a crash earlier this year resulted in minor injuries. Cruise LLC, in a notice ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/gms-cruise-recalls-revises-self-driving-software-after-crash-2022-09-01/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/gms-cruise-recalls-revises-self-driving-software-after-crash-2022-09-01/",
+      "webUrl": "https://www.wsj.com/articles/gms-driverless-car-unit-recalls-software-used-in-some-robotaxis-11662041338?mod=hp_lista_pos2",
+      "originalUrl": "https://www.wsj.com/articles/gms-driverless-car-unit-recalls-software-used-in-some-robotaxis-11662041338?mod=hp_lista_pos2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 119,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/JOqAhF2tr6Sz-OwrSoBK8ivT_To=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/V2MG2V6VQJNHPIAI2U6QYPO2XA.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://images.wsj.net/im-614944/social",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -320,14 +321,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-01T02:36:00-07:00",
+      "publishedDateTime": "2022-09-01T07:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -400,7 +401,7 @@
       "originalUrl": "https://www.cnbc.com/2022/08/31/baidu-claims-its-robotaxis-have-grabbed-10percent-of-a-ride-hailing-market.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -476,6 +477,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-artificial-intelligence-powered-by-google-helps-french-officials-tax-over-20000-undeclared-pools.md",
+      "title": "Artificial Intelligence powered by Google helps French officials tax over 20,000 undeclared pools",
+      "excerpt": "An unusual experiment allowed French tax officials to discover thousands of undeclared swimming pools by using artificial intelligence. More than 20,000 hidden pools generated nearly €10m (£8 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/world/artificial-intelligence-google-french-tax-undeclared-pools",
+      "originalUrl": "https://www.foxnews.com/world/artificial-intelligence-google-french-tax-undeclared-pools",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2019/09/23/1200/675/694940094001_6088542466001_6088555437001-vs.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/world/artificial-intelligence-google-french-tax-undeclared-pools.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/artificial-intelligence-google-french-tax-undeclared-pools.amp",
+      "publishedDateTime": "2022-08-30T13:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -647,8 +700,8 @@
       "title": "Industry’s first autonomous spreader debuts at Farm Progress Show",
       "excerpt": "Case IH and Raven Industries introduce the agriculture industry’s first autonomous spreader: the Case IH Trident ™ 5550 applicator with Raven Autonomy ™. Unveiled at Farm Progress Show 2022, this innovative solution delivers on customers’ demands for autonomous equipment to help solve labor challenges and increase productivity on their operations.",
       "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-30-industrys-first-autonomous-spreader-debuts-at-farm-progress-show",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-30-industrys-first-autonomous-spreader-debuts-at-farm-progress-show",
+      "webUrl": "https://www.eagletribune.com/region/industry-s-first-autonomous-spreader-debuts-at-farm-progress-show/article_bd0c3b06-7889-504f-b01b-c4540ac61a68.html",
+      "originalUrl": "https://www.eagletribune.com/region/industry-s-first-autonomous-spreader-debuts-at-farm-progress-show/article_bd0c3b06-7889-504f-b01b-c4540ac61a68.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -658,11 +711,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T07:30:00-07:00",
+      "publishedDateTime": "2022-08-30T07:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -716,6 +769,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-baidu-revenue-contracts-but-beats-estimates-on-cloud-business-growth.md",
+      "title": "Baidu revenue contracts but beats estimates on cloud business growth",
+      "excerpt": "Revenue at Baidu’s AI Cloud unit grew 31% year-on-year in the quarter. Baidu has also been doubling down on self-driving technologies, in which it has heavily invested over the past five years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.euronews.com/next/2022/08/30/baidu-results",
+      "originalUrl": "https://www.euronews.com/next/2022/08/30/baidu-results",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.euronews.com/articles/wires/874/96/8749602/1000x563_qr8u3.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Euronews (Spain)",
+        "domain": "euronews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1351,84 +1447,6 @@
       "provider": {
         "name": "KRON4",
         "domain": "kron4.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-28-artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story.md",
-      "title": "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story",
-      "excerpt": "New Jersey, NJ -- (SBWIRE) -- 08/27/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ...",
-      "sourceUrl": null,
-      "webUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-45",
-      "originalUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-45",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-27T15:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insurancenewsnet.com",
-        "domain": "insurancenewsnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-28-national-jobs-summit-a-chance-for-australia-to-hit-reset-on-artificial-intelligence-say-business-leaders.md",
-      "title": "National jobs summit a chance for Australia to hit reset on artificial intelligence, say business leaders",
-      "excerpt": "Earlier this week an artificial intelligence-powered rapper was dropped from its label (yes, it had a label) after its algorithm learned to use racial slurs in its lyrics. Artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc.net.au/news/2022-08-28/artificial-intelligence-policy-australia-jobs-summit/101366726",
-      "originalUrl": "https://www.abc.net.au/news/2022-08-28/artificial-intelligence-policy-australia-jobs-summit/101366726",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://live-production.wcms.abc-cdn.net.au/4720965b409b32025766819103817e98?impolicy=wcms_crop_resize&cropH=381&cropW=572&xPos=0&yPos=83&width=862&height=575",
-          "width": 572,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.abc.net.au/article/101366726",
-      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101366726",
-      "publishedDateTime": "2022-08-27T14:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Australian Broadcasting Corporation",
-        "domain": "abc.net.au",
         "images": null,
         "publishers": null,
         "authors": null

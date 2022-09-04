@@ -9,8 +9,8 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/current-affairs/artifi
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/current-affairs/artificial-intelligence-can-treat-women-with-heart-attacks-study-122090301231_1.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Business Standard
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Study finds Artificial Intelligence helps in treating Women with heart attacks"
-    excerpt: "Researchers from Switzerland and the United Kingdom analyzed data from 420,781 patients across Europe who had suffered the most common type of heart a.."
-    publishedDateTime: 2022-08-31T04:04:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/study-finds-artificial-intelligence-helps-in-treating-women-with-heart-attacks/93894432"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/study-finds-artificial-intelligence-helps-in-treating-women-with-heart-attacks/93894432"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/study-finds-artificial-intelligence-helps-in-treating-women-with-heart-attacks/93894432"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 55
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-93894432,imgsize-40566,width-1200,height-628,overlay-etcio/study-finds-artificial-intelligence-helps-in-treating-women-with-heart-attacks.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "University of Zurich: Artificial Intelligence Improves Treatment in Women with Heart Attacks"
     excerpt: "Researchers at the University of Zurich have now developed a novel artificial-intelligence-based risk score ... These symptoms are unfortunately often misinterpreted by the patients and healthcare personnel – with disastrous consequences."
     publishedDateTime: 2022-08-31T23:04:00Z

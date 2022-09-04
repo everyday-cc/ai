@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-04T16:49:00Z
 originalUrl: "https://apnews.com/press-release/kisspr/technology-immigration-artificial-intelligence-legal-services-a51c06cc905ec8895d5a18fe9bd1faff"
 webUrl: "https://apnews.com/press-release/kisspr/technology-immigration-artificial-intelligence-legal-services-a51c06cc905ec8895d5a18fe9bd1faff"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Associated Press

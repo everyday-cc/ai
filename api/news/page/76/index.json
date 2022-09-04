@@ -2,6 +2,170 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2022-07-02-tickerwin-releases-report-on-how-blockchain-is-improving-the-efficiency-of-ai-and-machine-learning.md",
+      "title": "TickerWin Releases Report on 'How Blockchain is Improving the Efficiency of AI and Machine Learning'",
+      "excerpt": "HONG KONG, CHINA / ACCESSWIRE / July 2, 2022 / TickerWin, one of the leading market research companies, has released a report on 'How Blockchain Improving the Efficiency of AI and Machine Learning'. AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/markets-news/accesswire/8993668/tickerwin-releases-report-on-how-blockchain-is-improving-the-efficiency-of-ai-and-machine-learning/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/markets-news/accesswire/8993668/tickerwin-releases-report-on-how-blockchain-is-improving-the-efficiency-of-ai-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-02T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-07-02-reddit-buys-natural-language-processing-company-meaningcloud.md",
+      "title": "Reddit buys natural language processing company MeaningCloud",
+      "excerpt": "Reddit said that the technology will strengthen the company's machine learning (ML) proficiencies and understanding of unstructured data, ultimately providing the most relevant information for redditors.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/reddit-buys-natural-language-processing-company-meaningcloud/articleshow/92614428.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/reddit-buys-natural-language-processing-company-meaningcloud/articleshow/92614428.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-35726,msid-92614445/reddit.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/reddit-buys-natural-language-processing-company-meaningcloud/amp_articleshow/92614428.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/reddit-buys-natural-language-processing-company-meaningcloud/amp_articleshow/92614428.cms",
+      "publishedDateTime": "2022-07-02T00:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-02-facial-recognition-software-mental-healthcare-in-schools-among-63-new-alabama-laws.md",
+      "title": "Facial recognition software, mental healthcare in schools among 63 new Alabama laws",
+      "excerpt": "On July 1, more than 60 new laws went into effect in Alabama, among those are laws regarding facial-recognition software and mental healthcare in schools. State Senator Arthur Orr sponsored several new laws in the 2022 legislative session,",
+      "sourceUrl": null,
+      "webUrl": "https://www.waff.com/2022/07/02/facial-recognition-software-mental-healthcare-schools-among-63-new-alabama-laws/",
+      "originalUrl": "https://www.waff.com/2022/07/02/facial-recognition-software-mental-healthcare-schools-among-63-new-alabama-laws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-waff-prod.cdn.arcpublishing.com/resizer/XlXt-tLT2A48ziQkvqnMnVz_XQQ=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/7Q47P474QJD6JIIRH23WO737WA.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.waff.com/2022/07/02/facial-recognition-software-mental-healthcare-schools-among-63-new-alabama-laws/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-waff-com.cdn.ampproject.org/c/s/www.waff.com/2022/07/02/facial-recognition-software-mental-healthcare-schools-among-63-new-alabama-laws/?outputType=amp",
+      "publishedDateTime": "2022-07-02T00:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WAFF",
+        "domain": "waff.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-07-02-researchers-use-ai-to-detect-new-family-of-genes-in-gut-bacteria.md",
+      "title": "Researchers use AI to detect new family of genes in gut bacteria",
+      "excerpt": "Using artificial intelligence, UT Southwestern researchers have discovered a new family of sensing genes in enteric bacteria that are linked by structure and probably function, but not genetic sequence.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-07-ai-family-genes-gut-bacteria.html",
+      "originalUrl": "https://phys.org/news/2022-07-ai-family-genes-gut-bacteria.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/ut-southwestern-resear-1.jpg",
+          "width": 1000,
+          "height": 1422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-07-ai-family-genes-gut-bacteria.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-07-ai-family-genes-gut-bacteria.amp",
+      "publishedDateTime": "2022-07-02T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-02-global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-12.md",
       "title": "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ) Shares Up 1.2%",
       "excerpt": "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ – Get Rating) shot up 1.2% during trading on Friday . The company traded as high as $20.57 and last traded at $20.57.",
@@ -935,195 +1099,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-swarm-of-malfunctioning-driverless-taxis-brings-traffic-to-a-halt-for-hours.md",
-      "title": "Swarm of malfunctioning driverless taxis brings traffic to a halt for hours",
-      "excerpt": "More than a dozen taxis held up traffic for around two hours before employees made it to the scene Credit: Reddit A swarm of driverless taxis held up traffic for hours at a junction after one of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/technology/2022/07/01/swarm-malfunctioning-driverless-taxis-brings-traffic-halt-hours/",
-      "originalUrl": "https://www.telegraph.co.uk/technology/2022/07/01/swarm-malfunctioning-driverless-taxis-brings-traffic-halt-hours/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/technology/2022/07/01/TELEMMGLPICT000301470649_trans_NvBQzQNjv4BqIwa83j0hzDEjtjMPhBXPCHSFJkRLhAlarA5CDiEErnI.jpeg?impolicy=logo-overlay",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-01T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-risk-transfer-is-the-key-to-successful-ai.md",
-      "title": "Risk Transfer Is The Key To Successful AI",
-      "excerpt": "The most significant challenge, as it pertains to AI, that businesses face is inventing new workflows to leverage AI in existing or new business models, allowing them to significantly grow their market share within existing or new areas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/01/risk-transfer-is-the-key-to-successful-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/01/risk-transfer-is-the-key-to-successful-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//60aebd253bb898555bf94d92/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/01/risk-transfer-is-the-key-to-successful-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/01/risk-transfer-is-the-key-to-successful-ai/amp/",
-      "publishedDateTime": "2022-07-01T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-ai-predicts-crime-a-week-in-advance-with-90-per-cent-accuracy-but-may-also-perpetuate-racist-bias.md",
-      "title": "AI predicts crime a week in advance with 90 per cent accuracy - but may also perpetuate racist bias",
-      "excerpt": "London-based startup Facesoft has been training an AI on micro-expressions seen on the faces of real-life people, as well as in a database of 300 million expressions. The firm has been in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-10972437/AI-predicts-crime-week-advance-90-cent-accuracy-perpetuate-racist-bias.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10972437/AI-predicts-crime-week-advance-90-cent-accuracy-perpetuate-racist-bias.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/07/01/11/59749759-0-image-a-4_1656671558012.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-10972437/amp/AI-predicts-crime-week-advance-90-cent-accuracy-perpetuate-racist-bias.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10972437/amp/AI-predicts-crime-week-advance-90-cent-accuracy-perpetuate-racist-bias.html",
-      "publishedDateTime": "2022-07-01T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-meta-was-restricting-abortion-content-all-along.md",
-      "title": "Meta Was Restricting Abortion Content All Along",
-      "excerpt": "Jessica Ensley, digital outreach and opposition research director ... by mail” on Facebook in English from the US. The post was not flagged. “Content moderation with AI and machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/meta-abortion-content-restriction/",
-      "originalUrl": "https://www.wired.com/story/meta-abortion-content-restriction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/62be29b451f58063018c359f/master/pass/Meta-Restricting-Abortion-Content-Business-1145262125.jpg",
-          "width": 2400,
-          "height": 1602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/meta-abortion-content-restriction/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/meta-abortion-content-restriction/amp",
-      "publishedDateTime": "2022-07-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

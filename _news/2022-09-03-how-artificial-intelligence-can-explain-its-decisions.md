@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-09-artificial-intelligence-decision
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-artificial-intelligence-decisions.amp"
 type: article
 quality: 78
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 64
-  - title: "How AI Distorts Decision-Making and Makes Dictators More Dangerous"
-    excerpt: "But thinking about AI in terms of a race for dominance misses the more fundamental ways in which AI is transforming global politics. AI will not transform the rivalry between powers so much as it will transform the rivals themselves."
-    publishedDateTime: 2022-08-31T04:21:00Z
-    webUrl: "https://www.foreignaffairs.com/world/spirals-delusion-artificial-intelligence-decision-making"
-    type: article
-    provider:
-      name: Foreign Affairs
-      domain: foreignaffairs.com
-    quality: 41
-    images:
-      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2022/08/23/AI_art_1.jpg?itok=Jrwk7Ka_"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "When — and Why — You Should Explain How Your AI Works"
     excerpt: "AI adds value by identifying patterns so complex that they can defy human understanding. That can create a problem: AI can be a black box, which often renders us unable to answer crucial questions about its operations."
     publishedDateTime: 2022-08-31T14:11:00Z

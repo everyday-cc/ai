@@ -8,7 +8,7 @@ webUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-outperfo
 ampWebUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-outperforms-clinicians-pediatric.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-artificial-intelligence-outperforms-clinicians-pediatric.amp"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-62.jpg"

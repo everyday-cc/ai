@@ -46,49 +46,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-04-artificial-intelligence-can-treat-women-with-heart-attacks-study.md",
-      "title": "Artificial intelligence can treat women with heart attacks: Study",
-      "excerpt": "Heart attacks are one of the most common causes of death globally, with women dying at a higher rate than males",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/current-affairs/artificial-intelligence-can-treat-women-with-heart-attacks-study-122090301231_1.html",
-      "originalUrl": "https://www.business-standard.com/article/current-affairs/artificial-intelligence-can-treat-women-with-heart-attacks-study-122090301231_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2017-10/06/full/1507265319-4521.png",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/current-affairs/artificial-intelligence-can-treat-women-with-heart-attacks-study-122090301231_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/current-affairs/artificial-intelligence-can-treat-women-with-heart-attacks-study-122090301231_1.html",
-      "publishedDateTime": "2022-09-03T18:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-03-artificial-intelligence-can-be-used-to-better-monitor-maines-forests.md",
       "title": "Artificial intelligence can be used to better monitor Maine's forests",
       "excerpt": "Researchers have developed a novel method of using artificial intelligence and machine learning to make monitoring soil moisture more energy and cost efficient. The software learns over time how to make the best use of available network resources,",
@@ -142,7 +99,7 @@
       "originalUrl": "https://techxplore.com/news/2022-09-artificial-intelligence-decisions.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -1434,6 +1391,58 @@
         "AI in Healthcare",
         "AI in Autos",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-artificial-intelligence-in-drug-discovery-market-share-size-analysis-prominent-players-and-forecast-2028.md",
+      "title": "Artificial Intelligence in Drug Discovery Market Share, Size, Analysis, Prominent Players and Forecast 2028",
+      "excerpt": "The Global Artificial Intelligence in Drug Discovery Market is poised to value USD 5740 million by 2028 end at a CAGR",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-share-size-analysis-prominent-players-and-forecast-2028-2022-08-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-share-size-analysis-prominent-players-and-forecast-2028-2022-08-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-18T05:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

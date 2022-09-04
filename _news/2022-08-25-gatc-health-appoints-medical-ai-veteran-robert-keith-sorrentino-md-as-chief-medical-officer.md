@@ -1,20 +1,30 @@
 ---
 category: news
 title: "GATC Health Appoints Medical AI Veteran Robert Keith Sorrentino, MD as Chief Medical Officer"
-excerpt: "Aug. 25, 2022 /PRNewswire/ -- GATC Health, a science and technology company revolutionizing drug discovery and disease prediction using artificial intelligence ... at the IBM Watson Research ..."
-publishedDateTime: 2022-08-25T14:18:00Z
-originalUrl: "https://www.victoriaadvocate.com/gatc-health-appoints-medical-ai-veteran-robert-keith-sorrentino-md-as-chief-medical-officer/article_c2f9b5c7-36e4-533c-9385-8fdd59c1599c.html"
-webUrl: "https://www.victoriaadvocate.com/gatc-health-appoints-medical-ai-veteran-robert-keith-sorrentino-md-as-chief-medical-officer/article_c2f9b5c7-36e4-533c-9385-8fdd59c1599c.html"
+excerpt: "GATC Health, a science and technology company revolutionizing drug discovery and disease prediction using artificial intelligence (AI), today announced Robert Keith Sorrentino, MD, as Chief Medical Officer."
+publishedDateTime: 2022-08-25T14:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/gatc-health-appoints-medical-ai-veteran-robert-keith-sorrentino-md-as-chief-medical-officer-1031705730"
+webUrl: "https://markets.businessinsider.com/news/stocks/gatc-health-appoints-medical-ai-veteran-robert-keith-sorrentino-md-as-chief-medical-officer-1031705730"
 type: article
 
 provider:
-  name: The Victoria Advocate
-  domain: victoriaadvocate.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
-secured: "V5abMBBb8yQ6nUM8H9OU6NOdE7p9d33kQMKAnSkdrdwo682x6UAomMr5UfC4ykVLVhtbAC2hWTjslZCENw7HBNAl+wL/xRe65TWJWh6DxoNftUx3f+RoTPC48kzUDy737ldIKaZ5UWIVn8HMGqpAlNQvveg6nX/GFbuF7bbc6as/PCTVmb0143wR7su3ImcvtfJXnOjvV9oWmH3zfWxIaceLf8x04CtXJUok1nBZLm4cPpRtOwrTHlp/51pmYuNQxIwCWnuv9lIsVmWAlA/J9v1W5zfVT4IkK+k4jAefpENcOTNcq9weXjxSr9QQm3WdFRtrMgo8vWU27tfVmKOZ6MSj39eQSUisnAdS5goWlXQ=;8LNOMYy9jT0zS857scXN7g=="
+images:
+  - url: "https://mma.prnewswire.com/media/1669428/GATC_Logo.jpg"
+    width: 400
+    height: 265
+    isCached: true
+
+secured: "5uKF6hNIUeCfd+1vqVNC+KqlP7H4sbUpZuNTAmjey9WWpJc97Jqrj792L3d+zdrzHBxWWn31WJkgFG+iWP4SeL/IBynRrdPFHmO3I9iZrN8LuYEb4UeWcvpHz2PW+TH5+xlirxucIg6SyWskDUUdgPq+j7vQjmTAf/s8xrZSm7bGLyT/9VzmjFit1tCLULslOMLY9dnLlsDAijYDR3NqJGTqOS2pit9aMelD+A3TvCkK3SMjKgl8w71CWwOgLpHxinYvsWmEa7yDP0O2jJjG4enUwH5mJxqCrxhovw2BJ2Z4vOqh70MnSjoX/ItioAGqqGtLZnPp0fS6R0FoYoPrbvHfa6GqvPZXKPbuBiXqFLw=;+SsDSpT9QYKY7I7tRYP1Iw=="
 ---
 

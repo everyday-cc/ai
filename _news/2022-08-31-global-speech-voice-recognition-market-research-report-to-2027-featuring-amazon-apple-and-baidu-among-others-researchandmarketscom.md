@@ -19,15 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Cognitive Computing Market to be Worth $225.33 Billion by 2030: Grand View Research, Inc."
-    excerpt: "The global cognitive computing market size is projected to reach USD 225.33 billion by 2030, registering a CAGR of 27.6% from 2022 to 2030, according"
-    publishedDateTime: 2022-08-31T13:06:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56944647-cognitive-computing-market-to-be-worth-dollar-225-33-billion-by-2030-grand-view-research-inc-008.htm"
+  - title: "Artificial Intelligence (AI) Robots Market Projected to Reach worth $35.3 billion by 2026 - Exclusive Report by MarketsandMarkets(TM)"
+    excerpt: "At a CAGR - 38.6% Geographic regions covered - North America, APAC, Europe, and RoW Ask for PDF Brochure:  Browse in-depth TOC on \" Artificial Intelligence (AI) Robots Market \" 178 - Tables 81- Figures 253 - Pages NVIDIA develops GPUs and delivers value to its consumers through PC,"
+    publishedDateTime: 2022-09-01T13:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-projected-to-reach-worth-353-billion-by-2026---exclusive-report-by-marketsandmarketstm-2022-09-01"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "hxIylI9hNhkggyLjAkqYKK38lVhKAMv5vSlTAmbujnWWO2Fc0GKRzEC4XnkByQEO+8Sb47igCgtT8gqEDXBdjprZYF9//vIEWVuIwMm/npL93VOXZH1KVX/J+hWQG2UZM/K9IdCx/mjqfOlEYV+I8jD74GMS7MR+YEQqf0g4h3mFSUIxoX637s5g4Xe2IyQeR1hX04I+bB7tSiGYlFRLr/ACwXYwgQ3oDV7zMWfWxD91Vk5JvCnrwyfEV5FaON2Z8yxehSbmteXyoxMcXiuC+mEAoEwULV2E0sMMh5r8ZBMsonYdLBMGrPjFwwy4lR1nPztQ7yxiJ/+gHH+YfYwT2K1vCHaSlAK5a1maOtkOcOI=;5ZJpc30vPZmlYDL8btO5xg=="
 ---

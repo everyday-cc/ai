@@ -28,6 +28,15 @@ related:
       name: Tire Business
       domain: tirebusiness.com
     quality: 19
+  - title: "Bridgestone uses Amazon cloud system to accelerate digital growth"
+    excerpt: "Bridgestone Corp. has begun using Amazon Web Services as its cloud provider to accelerate the creation of digital platforms, launch new solutions for its customers, improve data analysis and streamline IT operations."
+    publishedDateTime: 2022-09-02T21:04:00Z
+    webUrl: "https://www.rubbernews.com/news/bridgestone-use-amazon-web-services-accelerate-growth"
+    type: article
+    provider:
+      name: Rubber and Plastics News
+      domain: rubbernews.com
+    quality: 4
 
 secured: "PUw5eureYTTiKtvA4FJbmBhKDgbUDVPEizvsVJkugA8MynB7UtdyyzjM23/rfHZ2XxKXKZDC4vyia9XVt074ZZWuqOSlKkTB8xfqhLCvNDrjUWGMk3IJeMh3/jq8hNZfezKPgWaqtQQtYFNirUkLH3W7KAPAaynadSsdfj0r3igWJfHJ1yWAHS41YIuSpMSjUD8mcRIoHozDjwbKRoliyCZUvhmMs5Ywb6ulBW3qxs2XygLPAIwOtjGH6/O5f9vnsBFQf9WulHCAl0rQZZva2+FjMtyhQ5YsN0khV9p2Sd35pr+2Qglvf1nBgNCLjR4PVKD/3VgSiBn3b+wd8TAcovhU2QgEa0AHp6j6l7Z+35g=;BdyUkl03Z8anTQHxlnxoVQ=="
 ---

@@ -59,6 +59,20 @@ related:
         width: 320
         height: 213
         isCached: true
+  - title: "Meta's AI chatbot hates Zuckerberg but is less bothered about racism"
+    excerpt: "It was all quite predictable, really. Meta, Facebook's parent company, released the latest version of its ground-breaking AI chatbot last month. Immediately, journalists around the world began peppering the system,"
+    publishedDateTime: 2022-09-04T21:00:00Z
+    webUrl: "https://www.straitstimes.com/opinion/metas-ai-chatbot-hates-zuckerberg-but-is-less-bothered-about-racism"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 37
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/09/05/dw-meta-bot-220904.jpg?VersionId=f8duEPud.5MOnC06gzh6ePuduLEJsDnE"
+        width: 860
+        height: 573
+        isCached: true
 
 secured: "gdItqVy4tkzfp6BEDWywt0RCtaBYFx20AD+geAxk9mXFEJQ6lj2VWFMBnDP8evvz2MXuDtyCoiNFLfg+qh5NG66a9cWk1nR93SCA14Heh3t1G2qjshYjEt6HTo90JV9m0TglLaUaKnrrfCUjE0B/SQRmdy1N5xwpmswXelZm6OXtzcOD3p/q0IipoDEWwRFrFgRdHj94cIuqiber1P+b2430kYRKX9sc5kpLLMkWnvoxWd+pP/MOwvwVMvv/1uTF6/DkB9JZTU49IRt7BH8/UplKNyBD1y56HmaJLY1F2JPtFPuKWLoWnPPYCkJ9m1QQfAZsKm78mrEDZNTOTcKvoKWpqHIBXq7/H2FCzlgeNxeS/AI7S+Zj97d/M7mtBUHPwa4tlkt7aXUq+MeXLCWJk2zg85pzOAwMOLstQcNnhBys8PZ7FcuOwdchf204nVUV7JNke1jxvs6dQxpSOVKn1gP3Xt+8wTFiV/ZjIkpVqUYcSX7zGmckxGIW3XlOjCIew3kpxP1k3idvTY/chAS0WA==;5WIz8G5nuuVfclGQip9lRg=="
 ---
