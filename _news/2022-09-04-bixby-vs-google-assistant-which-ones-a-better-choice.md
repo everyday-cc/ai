@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-04T13:03:00Z
 originalUrl: "https://joyofandroid.com/bixby-vs-google-assistant/"
 webUrl: "https://joyofandroid.com/bixby-vs-google-assistant/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: FaceTime On Android

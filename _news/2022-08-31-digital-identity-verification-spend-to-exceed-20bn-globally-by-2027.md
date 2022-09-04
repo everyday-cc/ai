@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Digital identity verification spend to exceed $20 billion globally by 2027, study reveals"
-    excerpt: "For example, Microsoft has taken a leading role in verification, particularly with its Azure AD solution in a remote work ... LexisNexis Risk Solutions is leveraging its broad data coverage using machine learning to verify identity."
-    publishedDateTime: 2022-08-30T19:45:00Z
-    webUrl: "https://www.itworldcanada.com/article/digital-identity-verification-spend-to-exceed-20-billion-globally-by-2027-study-reveals/500593"
-    ampWebUrl: "https://www.itworldcanada.com/article/digital-identity-verification-spend-to-exceed-20-billion-globally-by-2027-study-reveals/500593?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/digital-identity-verification-spend-to-exceed-20-billion-globally-by-2027-study-reveals/500593?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 35
-    images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2019/12/Screen-Shot-2019-12-13-at-4.48.36-PM.png"
-        width: 999
-        height: 550
-        isCached: true
   - title: "Digital identity verification checks to hit $30 billion by 2027: Juniper Research"
     excerpt: "Digital identity verification checks spending will reach US$20.8 billion ($30 billion) globally in 2027 up from US$$11.6 billion ($16 billion) in 2022 driven by the prevalence of digital services requiring onboarding and the growing requirement for more robust identity verification systems in the"
     publishedDateTime: 2022-09-01T21:54:00Z

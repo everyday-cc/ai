@@ -34,18 +34,13 @@ images:
 related:
   - title: "UW Health Nurses in Madison Deliver Official Notice of Their Strike for Quality Care and Union Recognition, Will Hold Labor Day Press Conference"
     excerpt: "UW Health an official advanced notice of their strike for quality patient care, safe staffing, and recognition of their union. On Labor Day, they will hold a press conference at the Madison LaborFest,"
-    publishedDateTime: 2022-09-03T02:40:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/covid-health-wisconsin-madison-strikes-bc70c42880f4d89645c6a0f63706dfab"
+    publishedDateTime: 2022-09-03T02:55:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/uw-health-nurses-in-madison-deliver-official-notice-of-their-strike-for-quality-care-and-union-recognition-will-hold-labor-day-press-conference-1031722854"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "oY55f6CfX/1G2fht+LdUmdukLmJq2uO+j7LvdJ66/e858eTFV0qsC+kmlrCWWWV3G29Sfvya3q7ufT1YBoSMNguieEAsW94jQ7mM/wqKKN6LzROE7+uFOjzT0ainkv/Kkxxy/jD7vNG1tWtFT52mDF+NT0ByCcTW1FDFZKEr3k9yYkSCJMwBzBBzzZ0gw2Nma0+3YezmnCPN/vuBXZfq6Si4KhzH+hr1YrXvLn2w6Moxf+wCNBRzQiL5XZtnBvSnDUsH+eZ69rhUmR9NV4Ld0OL3DX6RzxGEasoFRFgsDDCIwe/OrrmifGioqR9UUsKpKC3iGPHGVQ9HNWnFCvBrsNPhpk1wxQ0Sx70lR3ZbQy6CXTRhCwItqOkknLHYxsRAMZQNXd9vnXEumupKGOJ7nbajADsLLLnC0QZRZRgZIQIKPpz49grbVeV4PvUCxEfhTdrwyAz+AE6ikqohFXp8SG6uWoIYvYhcsWOHnJ1UjxCeqBNc+305IUwuMcqR0W68NJyJU1y3WRdyODzp8yenLw==;WcScCMJbX7JJn3gg9dmZ6A=="
 ---

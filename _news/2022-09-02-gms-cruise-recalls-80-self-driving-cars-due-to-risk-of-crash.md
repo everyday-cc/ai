@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 788
         isCached: true
-  - title: "General Motors' Cruise recalls 80 self-driving vehicles owing to a crash"
-    excerpt: "General Motors' startup unit Cruise LLC said on Thursday that it has recalled and updated software in 80 self-driving vehicles owing to a June crash in San Francisco that left two people injured. The National Highway Traffic Safety Administration (NHTSA) said the recalled software could,"
-    publishedDateTime: 2022-09-01T23:43:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/cars/general-motors-cruise-recalls-80-self-driving-vehicles-owing-to-a-crash-41662033142533.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/general-motors-cruise-recalls-80-self-driving-vehicles-owing-to-a-crash/amp-41662033142533.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/general-motors-cruise-recalls-80-self-driving-vehicles-owing-to-a-crash/amp-41662033142533.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 43
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2022/09/01/1600x900/2020-05-14T200545Z_2106968023_RC2KOG9FKP3Q_RTRMADP_3_GM-AUTONOMOUS-LAYOFFS_1589863619313_1662034152119_1662034152119.JPG"
-        width: 1599
-        height: 900
-        isCached: true
   - title: "GM's Cruise Recalls Self-Driving Software Involved in June Crash"
     excerpt: "After two people were injured in the incident, Cruise blocked its robot vehicles from making left turns for several weeks before issuing a software update."
     publishedDateTime: 2022-09-01T19:34:00Z
@@ -82,15 +66,6 @@ related:
       name: Wired
       domain: wired.com
     quality: 34
-  - title: "GM’s Cruise recalls 80 self-driving EVs citing collision risks when turning"
-    excerpt: "General Motors’ self-driving rideshare service Cruise announced that it has recalled 80 of its electric robotaxis in order to update their software following an accident in June that injured two people."
-    publishedDateTime: 2022-09-02T18:33:00Z
-    webUrl: "https://electrek.co/2022/09/02/gms-cruise-recalls-80-self-driving-evs-citing-collision-risks/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 32
   - title: "General Motors Recalls and Updates 80 Self-Driving Vehicles"
     excerpt: "General Motors' (NYSE:GM) startup unit, Cruise LLC, announced Thursday that it had recalled and updated software in 80 self-driving vehicles after a June crash in San Francisco left two people injured."
     publishedDateTime: 2022-09-01T15:26:00Z
@@ -104,20 +79,6 @@ related:
       - url: "https://i-invdn-com.investing.com/news/LYNXNPEC9O0PR_L.jpg"
         width: 800
         height: 499
-        isCached: true
-  - title: "Cruise updates its fleet's self-driving software after crash"
-    excerpt: "Autonomous vehicle upstart Cruise has recalled and updated software in 80 self-driving robotaxis, according to a regulatory filing. Read more."
-    publishedDateTime: 2022-09-01T17:30:00Z
-    webUrl: "https://seekingalpha.com/news/3879474-cruise-updates-its-fleets-self-driving-software-after-crash"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 24
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/971998294/image_971998294.jpg?io=getty-c-w750"
-        width: 750
-        height: 503
         isCached: true
   - title: "GM's Cruise unit is recalling self-driving cars after crash"
     excerpt: "Cruise said in a rare circumstance, the software caused the autonomous vehicle to hard brake while performing an unprotected left turn that it deemed necessary to avoid a severe front-end collision."

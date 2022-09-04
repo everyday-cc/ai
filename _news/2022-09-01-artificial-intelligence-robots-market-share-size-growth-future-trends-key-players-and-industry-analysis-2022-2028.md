@@ -105,17 +105,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "United States DoD Artificial Intelligence Market Analysis 2022: Programs Listed from the FY2022 DoD Budget Request and Contract Activity for FY2021"
-    excerpt: "The \"United States DoD Artificial Intelligence Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. This research service focuses on US"
-    publishedDateTime: 2022-08-30T20:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/08/n28692864/united-states-dod-artificial-intelligence-market-analysis-2022-programs-listed-from-the-fy2022-dod"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28692864"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28692864"
+  - title: "Artificial Intelligence in Energy Market Research Report By Opportunities & Challenges in Near Future with Different Segments and Forecast to 2029"
+    excerpt: "Top Leading Companies of Global Artificial Intelligence in Energy Market are – Schneider Electric, General Electric, Alphabet, Watty, Grid4C, BuildingIQ, IBM, ABB, Enlighted, Siemens and others. -Comprehensive assessment of all opportunities and risk in the Artificial Intelligence in Energy market."
+    publishedDateTime: 2022-09-02T11:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-research-report-by-opportunities-challenges-in-near-future-with-different-segments-and-forecast-to-2029-2022-09-02"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 1
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 9
 
 secured: "VDGAlmn2oQse3691iYZwX0l4LTbbHSgfEWUOpHto1m7GYp00NxZ73Pr5WZ5q5XpZXjE9d5vYszuLfrKzcFJeoMu4CR7raFbhM03F5k6pHlHLfa+yZ2R9JgMxUDc0cO+rxNOxECOP80ZdZYGyMj1VCiiStzQIzyap4FO2h6AuMweOgWc3RpueW5SK3IoPum7+RUCrQ9CqsRtMApSFvHhLSIewdMtNMMclE3CElNBeVEjEDU1GRusbQ0deZtyKFgYyMTzSo1B8WzRdxSIRlAHtyUDGqhGwh3tQXrua2/gUPvXse3/sYJ8mgUzdQCaIyRfWn0jc5gvCnxs6H0vkSHKMmYaVIzywcGEqC4dGhSo64W4=;3XE5Wf9KTdL48LeuIljZEQ=="
 ---

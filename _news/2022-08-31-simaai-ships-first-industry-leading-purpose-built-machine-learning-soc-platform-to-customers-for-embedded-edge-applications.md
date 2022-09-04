@@ -25,50 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI startup SiMa.ai debuts 'purpose-built' AI chip for edge computing"
-    excerpt: "The chip company places special emphasis on software innovations such as compiler optimization to improve performance."
-    publishedDateTime: 2022-08-30T22:31:00Z
-    webUrl: "https://www.zdnet.com/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/"
+  - title: "SiMa.ai Ships ML SoC Platform for Embedded Edge Applications"
+    excerpt: "Edge machine learning company SiMa.ai today announced it has begun shipping what the company said is the industry’s first purpose-built software-centric machine learning system-on-chip platform for the embedded edge – the MLSoC."
+    publishedDateTime: 2022-08-31T19:01:00Z
+    webUrl: "https://insidehpc.com/2022/08/sima-ai-ships-ml-soc-platform-for-embedded-edge-applications/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 106
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/880f030bba7a4480fe84f79f48a479e12de7a17e/2022/08/30/9a7626ba-c727-4205-8109-e0d5caf30154/sima-mlsoc-evaluation-board.png?width=1200&fit=bounds&format=pjpg&auto=webp"
-        width: 1200
-        height: 749
-        isCached: true
-  - title: "US startup SiMa.ai starts shipping machine learning chip, system"
-    excerpt: "The product, called MLSoC (machine learning system on chip), is designed to process video and images using machine learning and traditional computing on a single platform. It is designed for industrial robotics,"
-    publishedDateTime: 2022-08-30T20:25:00Z
-    webUrl: "https://www.itnews.com.au/news/us-startup-simaai-starts-shipping-machine-learning-chip-system-584645"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 73
-    images:
-      - url: "https://i.nextmedia.com.au/News/2022-08-30T130839Z_1_LYNXMPEI7T0IS_RTROPTP_4_CHIPS-SIMA.JPG"
-        width: 1000
-        height: 665
-        isCached: true
-  - title: "SiMa.ai Develops the Industry’s First Purpose-Built Machine Learning System-on-Chipwith TSMC’s Power Efficient Technology"
-    excerpt: "SiMa.ai Develops the Industry’s First Purpose-Built Machine Learning System-on-Chipwith TSMC’s Power Efficient Technology"
-    publishedDateTime: 2022-08-31T04:49:00Z
-    webUrl: "https://www.businesswireindia.com/simaai-develops-the-industrys-first-purpose-built-machine-learning-system-on-chipwith-tsmcs-power-efficient-technology-80438.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 29
-    images:
-      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_80438.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 36
   - title: "Allegro DVT Partners with SiMa.ai to Optimize Power Efficiency for Embedded Edge Applications"
     excerpt: "Seamless power optimization is critical for computer vision applications at the edge. With Allegro DVT's Encoder and Decoder IPs, SiMa.ai's customers can achieve high performance with low power without compromising efficiency or ease of use across markets such as smart vision,"
     publishedDateTime: 2022-08-31T16:04:00Z

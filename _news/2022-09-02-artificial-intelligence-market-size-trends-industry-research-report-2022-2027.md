@@ -99,17 +99,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "United States DoD Artificial Intelligence Market Analysis 2022: Programs Listed from the FY2022 DoD Budget Request and Contract Activity for FY2021"
-    excerpt: "The \"United States DoD Artificial Intelligence Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. This research service focuses on US"
-    publishedDateTime: 2022-08-30T20:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/08/n28692864/united-states-dod-artificial-intelligence-market-analysis-2022-programs-listed-from-the-fy2022-dod"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28692864"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28692864"
+  - title: "Artificial Intelligence in Energy Market Research Report By Opportunities & Challenges in Near Future with Different Segments and Forecast to 2029"
+    excerpt: "Top Leading Companies of Global Artificial Intelligence in Energy Market are – Schneider Electric, General Electric, Alphabet, Watty, Grid4C, BuildingIQ, IBM, ABB, Enlighted, Siemens and others. -Comprehensive assessment of all opportunities and risk in the Artificial Intelligence in Energy market."
+    publishedDateTime: 2022-09-02T11:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-research-report-by-opportunities-challenges-in-near-future-with-different-segments-and-forecast-to-2029-2022-09-02"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 1
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 9
 
 secured: "B8IQqFkk/lWbunJZGtfw6YXqNaZ7bh1dxGvY0ZsHNb/dqXjXs7vxGxAaOApqSAcNFDSZHvFI/qb+dD/kTmT11jS19zeCCAFMC4H8uCDnN1/yIUh92hJnmpp3r0p9hDLiRseq7bVyo8/cRyX2qm9y7Beg6dlwRpW7PRA7xOMJ4mYJRwRcAh5oEHvJxx+En8f51L2ricJNVN4DALVI8l7nvTeq2nWDjVT6/hL3aOwn7Sf+Xo2m5e03QLdYyu1QP8vyJNeBODJj9M9P0N8vSBtmsB3bmrDFRnL4fRuDmEoUM3DHNAtdmm9DDTUtGUBBzdxA7kzo204/CyuSuasePo2U+5S7WhK4+tKrCrrGj+845pSOUiksl8zAEOtR6raF5BvoIQq31dYguwYuJ0WadNkpQ4bV+oCcMRI6AKDCG9dOiJlhEi7OI15F8319V5Ltvoss8dKyv8SCgnnG3xL233Enf8V+hYcE3LTUvOUSxwfGPtvmfDocJHXHk8zoY5hlbwYlI4PbCP6HrXlJre1rrhPZWw==;pakJrL2Nj4UkmdguYB26cw=="
 ---

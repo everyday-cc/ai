@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/policy/california-passes-bill-targeting-tesl
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/california-passes-bill-targeting-teslas-self-driving-claims?_amp=true"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 194
+published: true
 
 provider:
   name: Government Technology
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mary Barra confident in GM’s self-driving vehicle tech and goal to beat Tesla in EVs"
-    excerpt: "As we roll along in the third quarter of 2022, GM’s long-promised EV lineup is beginning to materialize and gain some serious momentum. The American automaker now has several EVs on the market and has even more in its production pipeline."
-    publishedDateTime: 2022-08-30T22:42:00Z
-    webUrl: "https://electrek.co/2022/08/30/mary-barra-gm-self-driving-tech-beat-tesla-evs/"
-    ampWebUrl: "https://electrek.co/2022/08/30/mary-barra-gm-self-driving-tech-beat-tesla-evs/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/30/mary-barra-gm-self-driving-tech-beat-tesla-evs/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 82
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/GM-Telsla-Mary-Barra.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "California Has a Bill to Go After Tesla’s Self-Driving Claims"
     excerpt: "Lawmakers in California are targeting Tesla’s self-driving claims with a new false advertising bill, VW’s next boss says the firm must speed up its switch to electric vehicles, and GM recalls its autonomous Cruise cars."
     publishedDateTime: 2022-09-01T14:43:00Z
@@ -54,6 +38,146 @@ related:
       name: Jalopnik
       domain: jalopnik.com
     quality: 54
+  - title: "TSLA Stock Can Go to $500 if Musk Delivers on 2022 Full Self-Driving"
+    excerpt: "Apparently, Tesla’s full self-driving (FSD) feature will soon cost more. Not everyone will appreciate this announcement, but a potential revenue increase could boost TSLA stock. Is it breaking news anymore to say that Musk said or wrote something divisive?"
+    publishedDateTime: 2022-09-03T08:01:00Z
+    webUrl: "https://www.nasdaq.com/articles/tsla-stock-can-go-to-%24500-if-musk-delivers-on-2022-full-self-driving"
+    ampWebUrl: "https://www.nasdaq.com/articles/tsla-stock-can-go-to-$500-if-musk-delivers-on-2022-full-self-driving?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tsla-stock-can-go-to-$500-if-musk-delivers-on-2022-full-self-driving?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+  - title: "Bill targeting Tesla's 'self-driving' claims passes California Legislature"
+    excerpt: "Tired of waiting for the DMV to act on what they see as a serious matter of public safety, California lawmakers took the matter into their own hands."
+    publishedDateTime: 2022-08-31T20:28:00Z
+    webUrl: "https://www.aol.com/news/bill-targeting-teslas-self-driving-172843729.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 52
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/A04Icjb83SH.MLctRI1XKg--~B/aD01NjA7dz04NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/aol_la_times_articles_830/95ce4b9bc18a14620ae6317c323faae9"
+        width: 840
+        height: 560
+        isCached: true
+  - title: "California Legislature Passes Law That Would Force Tesla to Change Name of Full Self-Driving"
+    excerpt: "Following a complaint filed by the DMV calling FSD's name misleading, California lawmakers have passed a law that would force Tesla to drop the title."
+    publishedDateTime: 2022-09-02T23:22:00Z
+    webUrl: "https://futurism.com/the-byte/california-legislature-law-full-self-driving"
+    ampWebUrl: "https://futurism.com/california-legislature-law-full-self-driving?amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/california-legislature-law-full-self-driving?amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 48
+    images:
+      - url: "https://wp-assets.futurism.com/2022/09/california-legislature-law-full-self-driving-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "General Motors' Cruise recalls 80 self-driving vehicles owing to a crash"
+    excerpt: "General Motors' startup unit Cruise LLC said on Thursday that it has recalled and updated software in 80 self-driving vehicles owing to a June crash in San Francisco that left two people injured. The National Highway Traffic Safety Administration (NHTSA) said the recalled software could,"
+    publishedDateTime: 2022-09-01T23:43:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/cars/general-motors-cruise-recalls-80-self-driving-vehicles-owing-to-a-crash-41662033142533.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/general-motors-cruise-recalls-80-self-driving-vehicles-owing-to-a-crash/amp-41662033142533.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/general-motors-cruise-recalls-80-self-driving-vehicles-owing-to-a-crash/amp-41662033142533.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 43
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2022/09/01/1600x900/2020-05-14T200545Z_2106968023_RC2KOG9FKP3Q_RTRMADP_3_GM-AUTONOMOUS-LAYOFFS_1589863619313_1662034152119_1662034152119.JPG"
+        width: 1599
+        height: 900
+        isCached: true
+  - title: "Self-driving cars have nothing on Japan’s self-captaining ships"
+    excerpt: "It was grimy from nautical toil and decidedly ugly on the eye, but there are few more thrilling ships out on the seas. And if you like your gadgetry game-changing but also attractive to barnacles and a challenge to the idea that Silicon Valley has a pre-eminent right to define “tech”,"
+    publishedDateTime: 2022-08-31T04:00:00Z
+    webUrl: "https://www.ft.com/content/e767201d-5287-4ffd-9995-e495d4a6a69b"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
+        isCached: true
+  - title: "GM’s Cruise recalls 80 self-driving EVs citing collision risks when turning"
+    excerpt: "General Motors’ self-driving rideshare service Cruise announced that it has recalled 80 of its electric robotaxis in order to update their software following an accident in June that injured two people."
+    publishedDateTime: 2022-09-02T18:33:00Z
+    webUrl: "https://electrek.co/2022/09/02/gms-cruise-recalls-80-self-driving-evs-citing-collision-risks/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 32
+  - title: "Downtown roads newly opened for self-driving vehicle testing"
+    excerpt: "Shanghai has opened downtown roads for self-driving testing in a boost to the burgeoning industry. The Jinqiao Intelligent Connected Vehicle (ICV) Testing Demonstration Zone in the Pudong New Area was officially launched as a highlight of the  (WAIC),"
+    publishedDateTime: 2022-09-01T06:52:00Z
+    webUrl: "https://www.shine.cn/news/metro/2209019934/"
+    type: article
+    provider:
+      name: SHINE
+      domain: shine.cn
+    quality: 24
+    images:
+      - url: "https://obj.shine.cn/files/2022/09/01/833c45a6-76bb-4725-a46d-0428a6926dcd_0.gif"
+        width: 500
+        height: 282
+        isCached: true
+  - title: "Cruise updates its fleet's self-driving software after crash"
+    excerpt: "Autonomous vehicle upstart Cruise has recalled and updated software in 80 self-driving robotaxis, according to a regulatory filing. Read more."
+    publishedDateTime: 2022-09-01T17:30:00Z
+    webUrl: "https://seekingalpha.com/news/3879474-cruise-updates-its-fleets-self-driving-software-after-crash"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 24
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/971998294/image_971998294.jpg?io=getty-c-w750"
+        width: 750
+        height: 503
+        isCached: true
+  - title: "GM's self-driving outfit is looking to fill 200 open roles. Cruise's top engineering exec shares his 4 tips for acing the interview."
+    excerpt: "The top engineering exec at GM's Cruise, gives 4 ways a job candidate can ace an interview at the self-driving vehicle company."
+    publishedDateTime: 2022-08-31T09:51:00Z
+    webUrl: "https://www.businessinsider.com/interview-tips-self-driving-general-motors-cruise-open-roles-jobs-2022-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 23
+    images:
+      - url: "https://i.insider.com/630e374cabd32c00180a0024?width=700"
+        width: 700
+        height: 525
+        isCached: true
+  - title: "California Passes Bill Targeting Tesla’s Full Self-Driving Program"
+    excerpt: "A bill targeting Tesla's (NASDAQ: TSLA) depiction of its “Full Self-Driving” (FSD) program passed the California state Senate on Tuesday night and now heads to Gov. Gavin Newsom for his signature. The electric vehicle leader has been marketing its FSD option since 2016."
+    publishedDateTime: 2022-08-31T18:56:00Z
+    webUrl: "https://ca.investing.com/news/stock-market-news/california-passes-bill-targeting-teslas-full-selfdriving-program-432SI-2760776"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 19
+  - title: "California Targets Tesla ‘Full Self-Driving’ With Newly Passed Bill"
+    excerpt: "A newly passed bill looks to hold automakers accountable for how they name and market partially-automated driving features."
+    publishedDateTime: 2022-09-01T19:27:00Z
+    webUrl: "https://www.thedrive.com/news/california-targets-tesla-full-self-driving-with-newly-passed-bill"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 19
 
 secured: "gt5RMeowL9h8NwZz72vH0u/5XvaySUuHkfw3AMPrC6SqY3Hb6YAVnKZXtBYOEEaRwPwuG0vm8hDAlEfY3jwn+01JSdv+7rTSvcCrTQiv/gcpurx7P/RRLqh71OrO3dhV9oezfcfuRoKh/VPIq3GRzZHGQBE9PhO7iGXVx3rE+5pXtdfAn7QuYUac5UQUMJw8OdZBftNqvXtpRa4YnZ4lrd2+7fSG2koR2iSm8kZfvwtptxnp7Blzr25vIk2MqI6hwnuPn/3WqlgOrGKSRz4wBKqHGEdgZsHqUoHXbCUWWwGyV5dAQLvkSKyUMSFxCt7mJYZTt8WYF0diGpEBFFHezYqW0MNXy4eyaS6sR7kQtGXG7LtPi1A2QEB27yupdkhtfOau2Zg6RVt/gLW8cGzjhL2UYd+2OBPMnmVnkwSzF2jB86t7dfyzAGqGatI2HPETL7B/+y+qv8/cjXNE4bnDrg4uNUSDn1ZW+1mSA7JIRTXSbYedT6F24BrzIJL1TngaMt/TpR5H48eZJT8+Cdul+w==;6ijKskf02X8xmLgNOg3ung=="
 ---

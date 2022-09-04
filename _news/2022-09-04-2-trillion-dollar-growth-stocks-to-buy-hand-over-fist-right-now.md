@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-04T11:59:00Z
 originalUrl: "https://www.nasdaq.com/articles/2-trillion-dollar-growth-stocks-to-buy-hand-over-fist-right-now"
 webUrl: "https://www.nasdaq.com/articles/2-trillion-dollar-growth-stocks-to-buy-hand-over-fist-right-now"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Nasdaq

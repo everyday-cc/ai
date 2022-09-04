@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-01T23:34:00Z
 originalUrl: "https://dallasinnovates.com/chinas-netdragon-has-a-new-robot-ceo-and-north-texas-ties/"
 webUrl: "https://dallasinnovates.com/chinas-netdragon-has-a-new-robot-ceo-and-north-texas-ties/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Dallas Innovates

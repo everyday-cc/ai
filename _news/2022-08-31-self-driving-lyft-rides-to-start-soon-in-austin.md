@@ -18,6 +18,17 @@ topics:
   - AI in Autos
   - AI
 
+related:
+  - title: "Self-driving cars roll around Austin"
+    excerpt: "Earlier this year, autonomous vehicle technology company Argo AI launched its driverless operation in Austin. Argo AI public policy and government relations manager Sly Majid said these cars are"
+    publishedDateTime: 2022-09-02T12:16:00Z
+    webUrl: "https://www.kxan.com/news/local/austin/self-driving-cars-roll-around-austin/"
+    type: article
+    provider:
+      name: KXAN
+      domain: kxan.com
+    quality: 4
+
 secured: "d12lqfAe8f3uh52N+OMr2kw6ALwGMQVicUaCs6y5B/1zWXV2sSve5BzydXegG0RAuRM0S2YSKai3+Ol9Y1X3BeMW1YhdmKbrTscrr0OOrk+vIGxV/P75H8z+iTPtk4DuBzIWPsJrSAa/xatgcpbuxUQ0Q9L6buB3L098KJDvaMGIdYpUVu/dJekjrVEhincu2vW9YuMSrDX/hrJ6QeEX6g0Z+JJX6DYx8PktkxJnlcm+Hr6dKtkIWQalyfOV33bbZX3OeEWzpx75+QK1s9Uij1VH5qoUwsYlHBlYz8etyXcmqrcCoWOs/lcQK3f90+2vuLKOkjqGuczMTrqh/B0/XycwCJG7YkVXCa1Vbj9uQHsOj9hkzP3G2YN76I9/qkJGD15lBp5itTr2FDQM8ZojR40che6B/xlN4d4YdQcN8m3MEQvBNugMwr2aB+e3EPMuPHsXFZULRa0g+8TITBL9Kvc19yd7d+bNxm+VJFzYSpNcygeoekd+UpD1693BdFuuR+gjetK0ARkgQgrYVfEZzg==;SNSEGEJtQ9HfdLPQeT4fmw=="
 ---
 

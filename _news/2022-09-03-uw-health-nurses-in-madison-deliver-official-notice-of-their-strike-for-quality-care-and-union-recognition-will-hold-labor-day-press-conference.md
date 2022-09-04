@@ -2,27 +2,25 @@
 category: news
 title: "UW Health Nurses in Madison Deliver Official Notice of Their Strike for Quality Care and Union Recognition, Will Hold Labor Day Press Conference"
 excerpt: "UW Health an official advanced notice of their strike for quality patient care, safe staffing, and recognition of their union. On Labor Day, they will hold a press conference at the Madison LaborFest,"
-publishedDateTime: 2022-09-03T02:40:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/covid-health-wisconsin-madison-strikes-bc70c42880f4d89645c6a0f63706dfab"
-webUrl: "https://apnews.com/press-release/pr-newswire/covid-health-wisconsin-madison-strikes-bc70c42880f4d89645c6a0f63706dfab"
+publishedDateTime: 2022-09-03T02:55:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/uw-health-nurses-in-madison-deliver-official-notice-of-their-strike-for-quality-care-and-union-recognition-will-hold-labor-day-press-conference-1031722854"
+webUrl: "https://markets.businessinsider.com/news/stocks/uw-health-nurses-in-madison-deliver-official-notice-of-their-strike-for-quality-care-and-union-recognition-will-hold-labor-day-press-conference-1031722854"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Four Ways Voice Recognition Will Improve Healthcare"
@@ -42,6 +40,6 @@ related:
         height: 800
         isCached: true
 
-secured: "utkxzl9Envy8ZpOxXx7ex1FMbpKHD9H3EGjvN/HKeHzxvhMDw+Kl+oTPo1lRcJFzhTPMZ7a37Xe8uT1XJJCOs7UTEegZXPbr+PHaWdF0lnViXUPVaLPMsT+cN1u4KXs0wNNdXuf7xApiEHd4TF0hUpc5RnXWqxXDdAlfvTJxgwo5TGkbl4R/s0amurZKUQVjxyI4TgsNspw4fwdiY4Au5SBK888D+4ZJlUa+A+Qgrb/Dw33BHLrP91UYzKssGaRnv/8bBid1aJJliKM7kn0zkpWL1u3+4kPJoeX2r5g08UiTPgDF9CwPVUf+RlnXz5faWRM9yH1XAVz1mGEBQqXo/EfoRYE8btZjQLuurfNpN+Y=;Fz7AigYBi60Bw46+oDPUQQ=="
+secured: "hh0boZQu12VLiHn5wk7VwMM0FKuZgWBrNRfwqKfyNInoaYNDuNTn881BP8lGBK6icvzGG69fO12x/jbk+24oSSyX0iqExcbqIeNQhF5j9Ss4WpXZAJlNtLF8efPIwEFkeBSMgKxX+m3Gm5BkUsgTTCSF3uxUIQ9dadjlA0152orFD8xX/IXgR7hihmXR8D3ec9hpPskKGMLwnpG4JUlObAo9s7/FKe5EXeI+TFY4+p6TtLUlmqbcj65/UM8oCEYPsAqJ1iPW8ievWdR+R6Ig82fPAfARuzvu5hGTbCHzpHtjUN0155oWAkEapF3UGSQwhlnPC/dYhSfiYNcUE2gz52QdAx7p8KFqU6Mq67e91Cs=;kwVIckTLLRPq9lhLNZIv6Q=="
 ---
 

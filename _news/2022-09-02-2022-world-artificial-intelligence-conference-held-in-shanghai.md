@@ -42,15 +42,6 @@ related:
       name: IRNA
       domain: irna.ir
     quality: 19
-  - title: "Inworld AI makes life-like characters for virtual worlds"
-    excerpt: "With the rise of the metaverse, brands are realizing they need to market themselves on virtual platforms. But, humans being humans, real people exploring these worlds likely don’t want to interact with soulless chat bots."
-    publishedDateTime: 2022-09-02T10:00:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/awards/2022/09/02/inworld-ai-makes-characters-for-virtual-worlds.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "BssVFC1ezV9xVFNGcUfeXnVZEiOmPyle0+IkSvPTf+FKYao3a3IQG7j3sitHq+OVITR+clX6ZpAHincFTJWh7IQwezPWrtCL1S+hkt8SxuTp/svPvtoM8QuuCTxPOAthHsMFHZ7L/4H9zr7iZgiqvO+mnqc8z/ApPzgmkfBuuEaR2gpMAt3H9deTbvbL2Pi0nY9YrQedJ8JckN6x5mru6j+6/KfLdJNVPtnzz7SYOva2BZeidFFgud44ympRmUTYu8R2aVBponjkc1WJPblTgUDuiEQn9sLzfPicZrYYzbZE+yoMqEmtR6xxIv/LhSFukHCVVcs6D54FGss9ozVY2etCJGew72BLyFKUET7ZB2Mod8QIGI9SpwkQR6QKwXZPfXTAHYMdyOubow/yDm6th/IB/KhXQzSuJG5tSDh5l4CSYkZRBCY+ixtcbK/eueeQ8gik4x4y/Jn/btdDM8cVV1nPOjQYmEHMKV1Fm8FtK5NkPHYWLi0HqMlwWoKIfdCOnSASRuM0WQWBKQS4plfagw==;LCxCrysq8lnbNnN+tMPXFw=="
 ---

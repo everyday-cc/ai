@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-01T18:00:00Z
 originalUrl: "https://www.packworld.com/machinery/robotics/article/22340568/new-technology-drives-packaging-robots"
 webUrl: "https://www.packworld.com/machinery/robotics/article/22340568/new-technology-drives-packaging-robots"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Packaging World

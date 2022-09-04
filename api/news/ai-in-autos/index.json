@@ -216,7 +216,7 @@
       "originalUrl": "https://techxplore.com/news/2022-09-artificial-intelligence-decisions.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -253,6 +253,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-01-california-passes-bill-targeting-teslas-self-driving-claims.md",
+      "title": "California Passes Bill Targeting Tesla’s Self-Driving Claims",
+      "excerpt": "The California Department of Motor Vehicles has rules banning the advertisement of cars as self-driving when they are not, but it has not enforced them. Now, the Legislature is making it a state law.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/policy/california-passes-bill-targeting-teslas-self-driving-claims",
+      "originalUrl": "https://www.govtech.com/policy/california-passes-bill-targeting-teslas-self-driving-claims",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/b0d6788/2147483647/strip/true/crop/1170x610+0+85/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Faf%2F77%2Ffd83a96ca726f6eeeac47c572fba%2Fsacramento-dkidd.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/policy/california-passes-bill-targeting-teslas-self-driving-claims?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/california-passes-bill-targeting-teslas-self-driving-claims?_amp=true",
+      "publishedDateTime": "2022-09-01T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-gms-cruise-recalls-revises-self-driving-software-after-crash.md",
       "title": "GM's Cruise recalls, revises self-driving software after crash",
       "excerpt": "General Motors startup unit Cruise LLC said Thursday it had recalled 80 self-driving vehicles and updated their software after a June crash in San Francisco left two people injured.",
@@ -261,7 +304,7 @@
       "originalUrl": "https://www.reuters.com/business/autos-transportation/gms-cruise-recalls-revises-self-driving-software-after-crash-2022-09-01/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -292,49 +335,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-bill-targeting-teslas-self-driving-claims-passes-california-legislature.md",
-      "title": "Bill targeting Tesla's 'self-driving' claims passes California Legislature",
-      "excerpt": "Tired of waiting for the DMV to act on what they see as a serious matter of public safety, California lawmakers took the matter into their own hands.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/bill-targeting-teslas-self-driving-172843729.html",
-      "originalUrl": "https://www.aol.com/news/bill-targeting-teslas-self-driving-172843729.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/A04Icjb83SH.MLctRI1XKg--~B/aD01NjA7dz04NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/aol_la_times_articles_830/95ce4b9bc18a14620ae6317c323faae9",
-          "width": 840,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-31T13:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-01T10:29:00Z
 originalUrl: "https://www.marketwatch.com/press-release/deep-learning-chipsets-market-in-deep-analysis-and-experts-review-report-2022-2028-brainchip-mobileye-wave-computing-ceva-movidius-2022-09-01"
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipsets-market-in-deep-analysis-and-experts-review-report-2022-2028-brainchip-mobileye-wave-computing-ceva-movidius-2022-09-01"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: MarketWatch

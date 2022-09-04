@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/report-conversational-ai-reduces-barriers
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/report-conversational-ai-reduces-barriers-to-mental-health-treatment/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
