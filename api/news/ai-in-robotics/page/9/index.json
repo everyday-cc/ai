@@ -2,6 +2,93 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-07-02-elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus.md",
+      "title": "Elon Musk gives official reveal date for Tesla’s humanoid AI robot, ‘Optimus’",
+      "excerpt": "LOS ANGELES - Elon Musk said Tesla’s long-awaited AI humanoid robot \"Optimus\" which has both wowed and terrified consumers, will be officially unveiled in just a few months. Speaking at the Qatar Economic Forum on June 21,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox13news.com/news/elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus",
+      "originalUrl": "https://www.fox13news.com/news/elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2021/08/932/470/Tesla-bot.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox13news.com/news/elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus.amp",
+      "cdnAmpWebUrl": "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/news/elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus.amp",
+      "publishedDateTime": "2022-07-01T13:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox 13",
+        "domain": "fox13news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-vladimir-suvorov-artificial-intelligence-will-have-its-place-in-art.md",
+      "title": "Vladimir Suvorov: ‘Artificial Intelligence Will Have its Place in Art.’",
+      "excerpt": "I met Vladimir Suvorov, the founder of Van Der Bot, at the Armenia Art Fair of Contemporary Art, held in the end of May. What he presented was beyond imagination — a contemporary robot artist named Van Der Bot,",
+      "sourceUrl": null,
+      "webUrl": "https://mirrorspectator.com/2022/07/01/vladimir-suvorov-artificial-intelligence-will-have-its-place-in-art/",
+      "originalUrl": "https://mirrorspectator.com/2022/07/01/vladimir-suvorov-artificial-intelligence-will-have-its-place-in-art/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mirrorspectator.com/wp-content/uploads/2022/07/Artsvi-e1656685306566.jpeg",
+          "width": 300,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-01T07:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Armenian Mirror-Spectator",
+        "domain": "mirrorspectator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-01-ai-predicts-crime-a-week-in-advance-with-90-per-cent-accuracy-but-may-also-perpetuate-racist-bias.md",
       "title": "AI predicts crime a week in advance with 90 per cent accuracy - but may also perpetuate racist bias",
       "excerpt": "London-based startup Facesoft has been training an AI on micro-expressions seen on the faces of real-life people, as well as in a database of 300 million expressions. The firm has been in ...",
@@ -1165,93 +1252,6 @@
       "provider": {
         "name": "technologynetworks",
         "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-ai-ai-o-the-first-driverless-robot-tractor-unveiled-to-farmers-at-show.md",
-      "title": "AI-AI-O: The first driverless robot tractor unveiled to farmers at show",
-      "excerpt": "Capable of a multitude of farm tasks using normal farm implement attachments, the AgBot 5.115T2 is a 156hp dual tracked driverless tractor which is now available to buy from Angus-based precision ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scotsman.com/country-and-farming/ai-ai-o-the-first-driverless-robot-tractor-unveiled-to-farmers-at-show-3745900",
-      "originalUrl": "https://www.scotsman.com/country-and-farming/ai-ai-o-the-first-driverless-robot-tractor-unveiled-to-farmers-at-show-3745900",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.scotsman.com/webimg/b25lY21zOmExMDliNTViLTAzMzMtNDRhYi04MTQ2LTI0ZjVkMGI3YmQ1MzplZmMyNDY0Yi01N2JiLTQwOTMtYmNlOS0yZjFkYjlhYzlmYzQ=.jpg?width=1200&enable=upscale",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-26T22:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Scotsman",
-        "domain": "scotsman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-area-high-school-students-learn-about-robotics-at-summer-camp.md",
-      "title": "Area high school students learn about robotics at summer camp",
-      "excerpt": "Isa Alstrom and Brody Guajardo worked together Tuesday to build a robot and create a program that will allow the robot to detect colors using sensors during the University of",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/news/area-high-school-students-learn-about-robotics-at-summer-camp/article_7846e020-f264-11ec-8346-2f09bd6ec0c0.html",
-      "originalUrl": "https://www.victoriaadvocate.com/news/area-high-school-students-learn-about-robotics-at-summer-camp/article_7846e020-f264-11ec-8346-2f09bd6ec0c0.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/c/02/c02058d6-f264-11ec-b8b3-3f74528f226c/62b3730067bfb.image.jpg?resize=400%2C302",
-          "width": 400,
-          "height": 302,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-26T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
         "images": null,
         "publishers": null,
         "authors": null

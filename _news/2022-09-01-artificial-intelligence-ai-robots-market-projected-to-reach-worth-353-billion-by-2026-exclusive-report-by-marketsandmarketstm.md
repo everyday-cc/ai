@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-projected-to-reach-worth-353-billion-by-2026---exclusive-report-by-marketsandmarketstm-2022-09-01"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -40,6 +40,17 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
+  - title: "Automotive Artificial Intelligence Market worth $7.0 Billion by 2027 – Exclusive Report by MarketsandMarkets™"
+    excerpt: "Automotive Artificial Intelligence Market size is projected to grow from USD 2.3 Billion in 2022 to USD 7.0 Billion by 2027; it is expected to grow at a CAGR of 24.1% from"
+    publishedDateTime: 2022-09-05T13:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28748082/automotive-artificial-intelligence-market-worth-7-0-billion-by-2027-exclusive-report-by-marketsand"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28748082"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28748082"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
 
 secured: "Cd5YtIOZc5e8A13v6PvgPKJUY3J0Tp5CwjucUiD5Jzq5QNqy21ZC/zPi/UytNP3wtBJ1e4FYL4fIdrC/pZtMqsR+A1yh8wT81idbU3rbEvgAmfKewkj6WGuMTyrEULOSWKsJk5eOwxiJALz/AoMpTWOHxez+asZ7XYdavCLjNJoCNuTXD6PoymESgh3j1KywfhzWeFjf3TxfwkRzeogk782k/JWp0K8eFncxkzGkrld0FziXZwUE1FykbeySQ/96rcHZOjKZkhcU8yRyG/pywohgJDdqg0qpgAJd0jtAGgDYqmFBbBhnWyb1NZ3K6jxbEF3yahfbzBawR/pRVk7V1llSCNHbv2bq9VTO1YjAw4c=;gNcAJNA1d3yedUP8SnWWAw=="
 ---

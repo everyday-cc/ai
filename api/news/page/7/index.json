@@ -2,6 +2,61 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-08-29-tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.md",
+      "title": "TensorFlow, PyTorch, and JAX: Choosing a deep learning framework",
+      "excerpt": "Three widely used frameworks are leading the way in deep learning research and production today. One is celebrated for ease of use, one for features and maturity, and one for immense scalability. Which one should you use?",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3670114/tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.html",
+      "originalUrl": "https://www.infoworld.com/article/3670114/tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/12/artificial-intelligence-concept-picture-id1160995648-100855293-large-100912931-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3670114/tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3670114/tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.amp.html",
+      "publishedDateTime": "2022-08-29T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI",
+        "Facebook AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2022-08-29-elon-musk-aims-to-have-self-driving-teslas-ready-by-year-end-in-the-us.md",
       "title": "Elon Musk: aims to have self-driving Teslas ready by year-end in the U.S.",
       "excerpt": "Tesla founder Elon Musk said on Monday he aimed to get self-driving Teslas ready by year-end and hopes they could be in wide release in the United States and possibly in Europe, depending on regulatory approval.",
@@ -677,6 +732,58 @@
       ]
     },
     {
+      "path": "_news/2022-08-29-ai-in-fintech-market-forecast-2022-2030-size-share-price-trend-and-growth.md",
+      "title": "AI in fintech Market Forecast 2022-2030 Size, Share, Price, Trend, and Growth",
+      "excerpt": "Aug 29, 2022 (Alliance News via COMTEX) -- The global AI in fintech market size was US$ 7.87 billion in 2021. The global AI in fintech market is forecast to grow to US$ 41.1 billion by 2030 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-forecast-2022-2030-size-share-price-trend-and-growth-2022-08-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-forecast-2022-2030-size-share-price-trend-and-growth-2022-08-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-29-waymo-opens-up-driverless-robotaxi-service-in-downtown-phoenix-to-vetted-passengers.md",
       "title": "Waymo opens up driverless robotaxi service in downtown Phoenix to vetted passengers",
       "excerpt": "Waymo, the autonomous vehicle developer under Alphabet, is opening up its driverless robotaxi service in downtown Phoenix to vetted local residents. People who have been accepted to Waymo’s ...",
@@ -1013,41 +1120,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-28-1-machine-learning-stock-down-56-to-buy-hand-over-fist.md",
-      "title": "1 Machine Learning Stock Down 56% to Buy Hand Over Fist",
-      "excerpt": "Machine learning is a subfield of artificial intelligence, and it's primarily used to make sense of mountains of data to deliver valuable insights to the end user. Thanks to companies like Splunk ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/1-machine-learning-stock-down-56-to-buy-hand-over-fist",
-      "originalUrl": "https://www.nasdaq.com/articles/1-machine-learning-stock-down-56-to-buy-hand-over-fist",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/1-machine-learning-stock-down-56-to-buy-hand-over-fist?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/1-machine-learning-stock-down-56-to-buy-hand-over-fist?amp",
-      "publishedDateTime": "2022-08-28T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-08-28-the-labor-shortage-is-killing-american-manufacturing-heres-how-ai-can-bring-it-back-to-life.md",
       "title": "The Labor Shortage Is Killing American Manufacturing. Here’s How AI Can Bring It Back To Life.",
       "excerpt": "The manufacturing labor shortage has paved the way for widespread deployment of some very exciting innovations in Artificial Intelligence for manufacturing.",
@@ -1147,49 +1219,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-28-google-sued-over-access-to-millions-of-nhs-blood-tests.md",
-      "title": "Google sued over access to millions of NHS blood tests",
-      "excerpt": "DeepMind, which was bought by Google in 2014, may have been handed the results of blood tests that were “processed by the Royal Free London NHS Foundation Trust laboratories” according to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/business/2022/08/28/google-sued-access-millions-nhs-blood-tests/",
-      "originalUrl": "https://www.telegraph.co.uk/business/2022/08/28/google-sued-access-millions-nhs-blood-tests/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/business/2022/08/26/TELEMMGLPICT000306217278_trans_NvBQzQNjv4BqA7N2CxnJWnYI3tCbVBgu9T0aesusvN1TE7a0ddd_esI.jpeg?impolicy=logo-overlay",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-28T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

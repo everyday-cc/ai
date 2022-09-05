@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-22-ai-holdings-shares-rise-sharply-after-fiscal-year-net-profit-jump.md",
+      "title": "Ai Holdings Shares Rise Sharply After Fiscal-Year Net Profit Jump",
+      "excerpt": "By Kosaku Narioka Ai Holdings Corp. shares rose sharply Monday morning after the Japanese security-equipment company posted a 32% jump in fiscal-year",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/ai-holdings-shares-rise-sharply-after-fiscal-year-net-profit-jump-271661133332",
+      "originalUrl": "https://www.marketwatch.com/story/ai-holdings-shares-rise-sharply-after-fiscal-year-net-profit-jump-271661133332",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/ai-holdings-shares-rise-sharply-after-fiscal-year-net-profit-jump-271661133332",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-holdings-shares-rise-sharply-after-fiscal-year-net-profit-jump-271661133332",
+      "publishedDateTime": "2022-08-21T18:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-22-unprecedented-ai-chip-could-revolutionise-artificial-intelligence.md",
       "title": "‘Unprecedented’ AI chip could revolutionise artificial intelligence",
       "excerpt": "An “unprecedented” new computer chip could help revolutionise AI, according to its creators. The system should allow increasingly complex artificial intelligence to live on chips themselves ...",
@@ -1393,49 +1445,6 @@
         "AI Hardware",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-gpu-as-a-service-deployment-to-be-maximum-across-real-estate-registering-a-cagr-of-361-until-2032-future-market-insights-inc.md",
-      "title": "GPU as a Service Deployment to be Maximum across Real Estate, registering a CAGR of 36.1% until 2032- Future Market Insights, Inc.",
-      "excerpt": "The rising adoption of Artificial Intelligence (AI) across industries such as healthcare, BFSI, and others, is considered as one of the emerging trends. Major players across the GPU as a service ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/08/g28409243/gpu-as-a-service-deployment-to-be-maximum-across-real-estate-registering-a-cagr-of-36-1-until-2032",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/08/g28409243/gpu-as-a-service-deployment-to-be-maximum-across-real-estate-registering-a-cagr-of-36-1-until-2032",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.giphy.com/media/EzXPrmT1OkFzSOZCYk/giphy.gif?cid=790b76117b7eac17bcda03db891dbf848ba5609ab58125f6&rid=giphy.gif&ct=g",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28409243",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28409243",
-      "publishedDateTime": "2022-08-08T16:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

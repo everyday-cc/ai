@@ -15,6 +15,7 @@ topics:
   - AI in Autos
   - AI
   - Microsoft AI
+  - AI in Robotics
 
 images:
   - url: "https://www.rd.com/wp-content/uploads/2022/08/RD-robots-taking-jobs-GettyImages-1356768388-578183815-JVedit.jpg"

@@ -2,6 +2,101 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2022-07-22-fico-and-israels-open-financeai-to-streamline-decision-making-in-credit-insurance.md",
+      "title": "FICO and Israel’s Open-Finance.ai to Streamline Decision-Making in Credit, Insurance",
+      "excerpt": "Global analytics software provider FICO (NYSE: FICO) announced a partnership agreement with Israel’s Open-Finance.ai.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2022/07/193932-fico-and-israels-open-finance-ai-to-streamline-decision-making-in-credit-insurance/",
+      "originalUrl": "https://www.crowdfundinsider.com/2022/07/193932-fico-and-israels-open-finance-ai-to-streamline-decision-making-in-credit-insurance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/10/Tel-Aviv-Israel-1-1024x885.jpg",
+          "width": 1024,
+          "height": 885,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2022/07/193932-fico-and-israels-open-finance-ai-to-streamline-decision-making-in-credit-insurance/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/07/193932-fico-and-israels-open-finance-ai-to-streamline-decision-making-in-credit-insurance/amp/",
+      "publishedDateTime": "2022-07-21T15:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-22-new-orleans-reverses-facial-recognition-ban-amid-surging-crime.md",
+      "title": "New Orleans reverses facial recognition ban amid surging crime",
+      "excerpt": "City leaders in New Orleans voted to reinstate the use of facial recognition technology, despite privacy concerns, as crime continues to trend upward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-amid-surging-crime",
+      "originalUrl": "https://www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-amid-surging-crime",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae14444a-8801-419c-a5e8-91ea9a737fd1/e322ffb4-4448-495b-8740-72f544425087/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-amid-surging-crime.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-amid-surging-crime.amp",
+      "publishedDateTime": "2022-07-21T15:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-22-robotics-and-ai-are-going-from-cage-to-stage.md",
       "title": "Robotics and AI are going from cage to stage",
       "excerpt": "Discussion of some of the most obvious technical considerations founders need to keep in mind when shifting from a research to a mass production process.",
@@ -1040,92 +1135,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-new-ai-creates-images-from-text-in-testing-phase.md",
-      "title": "New AI creates images from text in testing phase",
-      "excerpt": "Entering its testing phase, a new artificial neural network that creates images from text captions will offer a chance to a million enthusiasts to",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailysabah.com/arts/new-ai-creates-images-from-text-in-testing-phase/news",
-      "originalUrl": "https://www.dailysabah.com/arts/new-ai-creates-images-from-text-in-testing-phase/news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idsb.tmgrup.com.tr/ly/uploads/images/2022/07/21/thumbs/800x531/219647.jpg",
-          "width": 1600,
-          "height": 1062,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailysabah.com/arts/new-ai-creates-images-from-text-in-testing-phase/news/amp",
-      "cdnAmpWebUrl": "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/arts/new-ai-creates-images-from-text-in-testing-phase/news/amp",
-      "publishedDateTime": "2022-07-20T23:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Sabah",
-        "domain": "dailysabah.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-baidu-unveils-autonomous-vehicle-without-steering-wheel.md",
-      "title": "Baidu unveils autonomous vehicle without steering wheel",
-      "excerpt": "China's search engine giant Baidu Inc on Thursday unveiled its new autonomous vehicle (AV) with a detachable steering wheel, with plans to put it to use for its robotaxi service in China next year. Cost per unit will drop to 250,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tbsnews.net/tech/baidu-unveils-autonomous-vehicle-without-steering-wheel-462234",
-      "originalUrl": "https://www.tbsnews.net/tech/baidu-unveils-autonomous-vehicle-without-steering-wheel-462234",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/07/21/baidu.png?itok=OsQDVE1m",
-          "width": 600,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tbsnews.net/tech/baidu-unveils-autonomous-vehicle-without-steering-wheel-462234?amp",
-      "cdnAmpWebUrl": "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/tech/baidu-unveils-autonomous-vehicle-without-steering-wheel-462234?amp",
-      "publishedDateTime": "2022-07-20T22:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tbsnews",
-        "domain": "tbsnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

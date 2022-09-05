@@ -2,6 +2,92 @@
   "page": 115,
   "value": [
     {
+      "path": "_news/2022-06-07-ai-tech-company-nala-robotics-introduces-pizzaiola-a-fully-autonomous-pizzeria-restaurant.md",
+      "title": "AI Tech Company Nala Robotics Introduces Pizzaiola, A Fully Autonomous Pizzeria Restaurant",
+      "excerpt": "Nala Robotics, an AI technology company revolutionizing the culinary industry with its restaurant-as-a-service platform , today unveiled Pizzaiola™, a fully automated,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/ai-tech-company-nala-robotics-introduces-pizzaiola-a-fully-autonomous-pizzeria-restaurant/article_49aefc11-3756-5b6f-a863-3e69ed34da80.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/ai-tech-company-nala-robotics-introduces-pizzaiola-a-fully-autonomous-pizzeria-restaurant/article_49aefc11-3756-5b6f-a863-3e69ed34da80.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-07T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-phishing-attacks-will-use-powerful-text-generation-say-machine-learning-engineers.md",
+      "title": "Phishing attacks will use powerful text generation, say machine-learning engineers",
+      "excerpt": "The most basic phishing attacks in the future will come from personas with detailed web presences, machine-learning engineers with Armorblox will argue at the RSA Conference on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmagazine.com/analysis/rsac/phishing-attacks-will-use-powerful-text-generation-say-machine-learning-engineers",
+      "originalUrl": "https://www.scmagazine.com/analysis/rsac/phishing-attacks-will-use-powerful-text-generation-say-machine-learning-engineers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://files.scmagazine.com/wp-content/uploads/2022/06/060622_artificial_intelligence.jpg",
+          "width": 1500,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-07T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SC Media",
+        "domain": "scmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-07-next-emerging-trend-in-fintech-sector-is-neobanking-easebuzz-cto.md",
       "title": "Next emerging trend in fintech sector is Neobanking: Easebuzz CTO",
       "excerpt": "Software-enabled payments collection and payouts platform Easebuzz aims to speed up payment collection and reduce credit periods with a smooth end-user experience, Amit Kumar, CTO, said on Tuesday. According to Kumar,",
@@ -1002,103 +1088,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-reinventing-retail-with-no-code-machine-learning-sales-forecasting-using-amazon-sagemaker-canvas.md",
-      "title": "Reinventing retail with no-code machine learning: Sales forecasting using Amazon SageMaker Canvas",
-      "excerpt": "Retail businesses are data-driven—they analyze data to get insights about consumer behavior, understand shopping trends, make product recommendations, optimize websites, plan for inventory, and forecast sales. A common approach for sales forecasting is to use historical sales data to predict future demand.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reinventing-retail-with-no-code-machine-learning-sales-forecasting-using-amazon-sagemaker-canvas/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reinventing-retail-with-no-code-machine-learning-sales-forecasting-using-amazon-sagemaker-canvas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T12:23:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-meta-shakes-up-ai-unit-amid-drive-for-growth.md",
-      "title": "Meta Shakes Up AI Unit Amid Drive for Growth",
-      "excerpt": "AI hubs will become part of product groups as a way of turning research into business assets more quickly, and in line with the company’s metaverse aspirations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/meta-shakes-up-ai-unit-amid-drive-for-growth-11654546470",
-      "originalUrl": "https://www.wsj.com/articles/meta-shakes-up-ai-unit-amid-drive-for-growth-11654546470",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-558336/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/meta-shakes-up-ai-unit-amid-drive-for-growth-11654546470",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/meta-shakes-up-ai-unit-amid-drive-for-growth-11654546470",
-      "publishedDateTime": "2022-06-06T12:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

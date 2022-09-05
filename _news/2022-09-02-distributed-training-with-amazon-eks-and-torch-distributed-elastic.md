@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/distributed-training
 webUrl: "https://aws.amazon.com/blogs/machine-learning/distributed-training-with-amazon-eks-and-torch-distributed-elastic/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

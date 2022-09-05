@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/us-export-ban-some-advanced-ai-
 webUrl: "https://www.reuters.com/technology/us-export-ban-some-advanced-ai-chips-hit-almost-all-china-tech-majors-analysts-2022-09-01/"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 64
+  - title: "US bans export of artificial intelligence-related chips to China fearing misuse"
+    excerpt: "Nvidia shares tank after it estimated a loss of $400 million as it is prevented from exporting two types of chips that can be used for military use; AMD also affected US bans export of artificial inte"
+    publishedDateTime: 2022-09-02T05:12:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/us-bans-export-of-artificial-intelligence-related-chips-to-china-fearing-misuse"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 13
 
 secured: "AqoLx9YCHvATozrIWYz3+nQD7t6ODExpz01I1rg9o/GSt6vPgHKtkG5HNUR7dyUss7iLfitLdfFEV7EpXO9UsnUUlaBpeTBn9oVEG0dUpQ8G4WkIdmMdLC/uD5QlNg7RnLXiHtigBzy+5T78V6u4otf/WXsbYow0UufV28CQFTZPKhEnLVm66TYNudNVYUQSlnfMJP+s0ts6uI0Z6mBh0PiWDNTnEUvhg4jLmeS9M9UmvJUGWmzNaFADM3oqOb/1bVs+T0c3ZdP5xVf82+wI1AOAENJ/kkNmFW0flS3PP8L8VXbCd82PuI7f9l/yk4KyeSGKyeoPY4Dru57Mp9J2pCAekhxt+fMHsbQNoT1L3qDSN9Ra7JP3C2Jy2x6EFKkilgqF4rIO2shVRn8V4dyyNvD+xvlEG9CVqy8uwzRR//YgwIY7CHVeILircmGUGKiywuclgxfaWEUGnZeTL7CLDUKE5tdb3FcyNjMGlYyfB6AezczVfFywskjIRRavALQXXXw9X30AAcRP8Ia7LSLlXw==;+PJH9EOZmHJeN0h49j1x3Q=="
 ---

@@ -26,38 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia Says US Order Restricts Sales of AI Chips to China"
-    excerpt: "New licensing requirements come amid concern that the chips could be put to military use, the chipmaker says in a regulatory filing."
-    publishedDateTime: 2022-08-31T23:19:00Z
-    webUrl: "https://www.cnet.com/tech/nvidia-says-us-order-restricts-sales-of-ai-chips-to-china/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/nvidia-says-us-order-restricts-sales-of-ai-chips-to-china/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-says-us-order-restricts-sales-of-ai-chips-to-china/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 121
-    images:
-      - url: "https://www.cnet.com/a/img/resize/621e8aff0309eba6ed29be58ac6ed33c53072f63/2021/07/19/376c0f07-cc4b-4ef1-8be1-a3d0145c8b33/gettyimages-1231345685.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Nvidia Says US Ordered It to Stop Sales of AI Chips to China"
-    excerpt: "Ban is out of concern the chips could be used in or diverted to military use, the chipmaker says in a regulatory filing."
-    publishedDateTime: 2022-08-31T23:19:00Z
-    webUrl: "https://www.cnet.com/tech/nvidia-says-us-ordered-it-to-stop-sales-of-ai-chips-to-china/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/nvidia-says-us-ordered-it-to-stop-sales-of-ai-chips-to-china/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-says-us-ordered-it-to-stop-sales-of-ai-chips-to-china/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 121
-    images:
-      - url: "https://www.cnet.com/a/img/resize/621e8aff0309eba6ed29be58ac6ed33c53072f63/2021/07/19/376c0f07-cc4b-4ef1-8be1-a3d0145c8b33/gettyimages-1231345685.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "US restricts sales of high-end Nvidia AI chips to China and Russia"
     excerpt: "In a Securities and Exchange Commission filing last Friday, Nvidia reported that US government officials have ordered restrictions on sales of its top AI chips to China and Russia. The new restrictions (in the form of licensing requirements,"
     publishedDateTime: 2022-09-01T14:58:00Z
@@ -302,20 +270,6 @@ related:
         width: 960
         height: 720
         isCached: true
-  - title: "Nvidia, AMD warned of new US export restrictions on AI chips"
-    excerpt: "The U.S. government has issued new export licensing requirements to Nvidia and AMD for export to China and Russia of the advanced GPUs used for AI."
-    publishedDateTime: 2022-08-31T23:06:00Z
-    webUrl: "https://www.protocol.com/bulletins/nvidia-amd-ai-chips"
-    type: article
-    provider:
-      name: Protocol
-      domain: protocol.com
-    quality: 54
-    images:
-      - url: "https://www.protocol.com/media-library/flag-of-china-on-a-computer-binary-codes-falling-from-the-top-and-fading-away.jpg?id=30842540&width=1200&height=600&coordinates=0%2C114%2C0%2C114"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Nvidia and AMD ordered to cease selling AI chips to China by US"
     excerpt: "Regulatory filing by chipmakers indicates the new licensing requirements arise out of concerns that the chips could be used for military purposes"
     publishedDateTime: 2022-09-01T07:34:00Z
@@ -505,15 +459,6 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 19
-  - title: "US bans export of artificial intelligence-related chips to China fearing misuse"
-    excerpt: "Nvidia shares tank after it estimated a loss of $400 million as it is prevented from exporting two types of chips that can be used for military use; AMD also affected US bans export of artificial inte"
-    publishedDateTime: 2022-09-02T05:12:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/technology/us-bans-export-of-artificial-intelligence-related-chips-to-china-fearing-misuse"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 13
 
 secured: "oDMiQdX/VfoaUAZ4BnaCTC9i2vSXHfJN8eoG1np095EVTyB7cvVVHeYFjGjpP8xuyhV3fsYjCnty9bxlwX6aR7rMpW1+qy0QbMWw9Vz76+V00844CpluYPsCY5HU6o/ywdyF2FlOitL8ZUwV5hdhESkAViKMiSYr53EXIkJ8VA7J4sSfj5dChcZSBdk5sGtq2cEfFK7YzY9zH/HfjsOCftt8pK63c/gMksV8GdL4nIZsL6K3Givyug9sC+tvbwufp3OHPt/3bTOg3PdGLWbgBQWksoA9yb+2YugzJxkl7jOl5JRqB/83OnUULlJ1HJmNFNKAwWG4iVXa2KcVf7aaySZCmkUIF90vXHY5fAemYvBbcf6ktDQ+s6U51vTZlkLV1OqLZkjGtdssSQYTMwaDYScGz9E6Rk8DxylCEBdUHr3hW4jYjlJe5BLjBQbqqQT0K458lUzc3IDJorNkGZ6Rvnw8KvJUK7oKlqxMpVvw23+GvOiRRgc0evVCCIXyQbbslam3DK19F2I3eI6v35z2XA==;lob0ukYuuRVYL2Ml/Et6yg=="
 ---

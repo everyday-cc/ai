@@ -9,7 +9,7 @@ ampWebUrl: "https://sea.mashable.com/tech/21298/ai-generated-painting-wins-art-a
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/21298/ai-generated-painting-wins-art-award-but-everyone-else-is-super-pissed?amp=1"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

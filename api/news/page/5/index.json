@@ -2,6 +2,102 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-08-30-i-have-face-blindness.md",
+      "title": "I Have Face Blindness.",
+      "excerpt": "I Have Face Blindness. This Is How I Recognize You. When you can’t rely on facial recognition, you look beyond the obvious. When you can’t rely on facial recognition, you look beyond the obvious.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/08/30/opinion/face-blindness-prosopagnosia.html",
+      "originalUrl": "https://www.nytimes.com/2022/08/30/opinion/face-blindness-prosopagnosia.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/10/28/autossell/FACE_BLINDNESS_16x9/FACE_BLINDNESS_16x9-facebookJumbo.png",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/08/30/opinion/face-blindness-prosopagnosia.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/08/30/opinion/face-blindness-prosopagnosia.amp.html",
+      "publishedDateTime": "2022-08-30T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-altavec-uses-aws-ml-for-bushfire-prevention.md",
+      "title": "Altavec uses AWS ML for bushfire prevention",
+      "excerpt": "Altavec has been the trusted partner of Australian utilities for over 20 years. Delivering excellence in geospatial services via advanced geoanalytics, our technology platform empowers best-practice asset management using complex data to provide informed and actionable insights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.spatialsource.com.au/altavec-uses-aws-ml-for-bushfire-prevention/",
+      "originalUrl": "https://www.spatialsource.com.au/altavec-uses-aws-ml-for-bushfire-prevention/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.spatialsource.com.au/wp-content/uploads/2022/08/Altavec_web.jpg",
+          "width": 624,
+          "height": 442,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Spatial Source",
+        "domain": "spatialsource.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-this-mighty-brain-chip-is-so-efficient-it-could-bring-advanced-ai-to-your-phone.md",
       "title": "This Mighty Brain Chip Is So Efficient It Could Bring Advanced AI to Your Phone",
       "excerpt": "The NeuRRAM chip is a powerful neuromorphic computing behemoth with 48 parallel cores and 3 million memory cells.",
@@ -42,42 +138,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-us-startup-simaai-starts-shipping-machine-learning-chip-and-system.md",
-      "title": "U.S. startup SiMa.ai starts shipping machine learning chip and system",
-      "excerpt": "Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management & Research Company, said on Tuesday it started shipping chips and systems to customers that are testing them, an important step for mass production. We apologize ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system",
-      "originalUrl": "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system/wcm/d3b033f1-d689-4d7b-bd86-a55744e847fe/amp/",
-      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system/wcm/d3b033f1-d689-4d7b-bd86-a55744e847fe/amp/",
-      "publishedDateTime": "2022-08-30T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
       ]
     },
     {
@@ -1101,59 +1161,8 @@
       "topics": [
         "AI in Autos",
         "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-use-amazon-sagemaker-pipeline-sharing-to-view-or-manage-pipelines-across-aws-accounts.md",
-      "title": "Use Amazon SageMaker pipeline sharing to view or manage pipelines across AWS accounts",
-      "excerpt": "On August 9, 2022, we announced the general availability of cross-account sharing of Amazon SageMaker Pipelines entities. You can now use cross-account support for Amazon SageMaker Pipelines to share pipeline entities across AWS accounts and access shared pipelines directly through Amazon SageMaker API",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-pipeline-sharing-to-view-or-manage-pipelines-across-aws-accounts/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-pipeline-sharing-to-view-or-manage-pipelines-across-aws-accounts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/29/sagemaker-pipeline-sharing.jpg",
-          "width": 1532,
-          "height": 764,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T15:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
+        "Microsoft AI",
+        "AI in Robotics"
       ]
     }
   ],

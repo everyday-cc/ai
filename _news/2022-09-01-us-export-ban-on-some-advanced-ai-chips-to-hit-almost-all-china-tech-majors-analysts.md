@@ -44,6 +44,15 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 64
+  - title: "US bans export of artificial intelligence-related chips to China fearing misuse"
+    excerpt: "Nvidia shares tank after it estimated a loss of $400 million as it is prevented from exporting two types of chips that can be used for military use; AMD also affected US bans export of artificial inte"
+    publishedDateTime: 2022-09-02T05:12:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/us-bans-export-of-artificial-intelligence-related-chips-to-china-fearing-misuse"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 13
 
 secured: "dH8j1JZ+7yzcfEWs+bOyS0Bv9oIksF0nNh1LOrlrGhZ4I+wio6h8qPu5wX+oGoVfnWN2UvFRe49xm8z1vSBqIUctgf99ssBDsmjdnatJw+C8USZg9aSSDtrwpTumTWBP8SqUG8oke5jy8Xvia+0vc6zWyyNlr5RhDigblYs0wJ86T5BY6frnctMKQiRd2ydTXQxddxMGzcx/Y8SZJkBQzVjvn8zxIYyt51U/OnAaIKoFc16bG8+UkcOovsVXrd/RksK8TtbJehC06NbCUHiQ/d3uFXcRopJehoZN4Ffa6O9owOcTCXbKkWskPtQ8Sj5sKkbTCzgLyY9WGVwSatNuAup/w9DQCWyNfKCOGSkHnCE=;0eZYOF/zsJ7lJbCs/weNlQ=="
 ---
