@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3672428/blockchain-ai-and-the-
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3672428/blockchain-ai-and-the-metaverse-tools-for-better-decision-making.amp.html"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "The AI tasked with keeping the metaverse safe comes with a lot of GPU firepower"
-    excerpt: "AI-powered servers with Nvidia GPUs will give potential metaverse hackers a few things to think about. At yesterday's VMware Explore 2022 conference in San Francisco, server giant VMWare announced the vSphere 8—a metaverse-ready data center platform with artificially intelligent security."
-    publishedDateTime: 2022-08-31T09:11:00Z
-    webUrl: "https://www.pcgamer.com/vmware-vsphere-8-ai-metaverse-server/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 50
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/F69JkkSeNU7hNjBygwRAh7-1200-80.jpg"
-        width: 630
-        height: 354
-        isCached: true
   - title: "Exploring WAIC 2022: 5 highlights from the metaverse and AI-focused Shanghai tech event"
     excerpt: "This year’s WAIC places a heavy focus on the metaverse, aiming to demonstrate the integration of AI with the metaverse."
     publishedDateTime: 2022-09-02T11:07:00Z

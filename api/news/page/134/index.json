@@ -2,6 +2,40 @@
   "page": 134,
   "value": [
     {
+      "path": "_news/2022-05-24-remarkable-science-exploring-our-ai-and-robot-supported-future.md",
+      "title": "Remarkable science: Exploring our AI and robot-supported future",
+      "excerpt": "On May 13, the Day of AI, we brought together a panel of experts to talk about the future of AI and robots. This is the first installment of our series Remarkable Science -- featuring conversations with scientists about their discoveries,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wwno.org/2022-05-24/remarkable-science-exploring-our-ai-and-robot-supported-future",
+      "originalUrl": "https://www.wwno.org/2022-05-24/remarkable-science-exploring-our-ai-and-robot-supported-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WWNO",
+        "domain": "wwno.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-24-neuromorphic-chips-up-to-16-times-more-energy-efficient-for-deep-learning.md",
       "title": "Neuromorphic chips 'up to 16 times more energy efficient' for deep learning",
       "excerpt": "Neuromorphic chips have been endorsed in research showing that they are much more energy efficient at operating large deep learning networks than non-neuromorphic hardware. This may become important as AI adoption increases.",
@@ -1066,49 +1100,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-hondas-asimo-gets-mind-control-interface.md",
-      "title": "Honda's Asimo gets mind control interface",
-      "excerpt": "From there, we assume, it's only a matter of time before the bots learn to reverse the process, initiating a mind control link over their would-be masters. [Via Robot Gossip] All products ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/2006-05-24-hondas-asimo-gets-mind-control-interface.html",
-      "originalUrl": "https://www.engadget.com/2006-05-24-hondas-asimo-gets-mind-control-interface.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

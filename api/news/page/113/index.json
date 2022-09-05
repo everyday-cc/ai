@@ -2,6 +2,49 @@
   "page": 113,
   "value": [
     {
+      "path": "_news/2022-06-08-sharp-nec-display-solutions-debuts-navisense-computer-vision-at-infocomm-2022.md",
+      "title": "Sharp NEC Display Solutions Debuts NaViSense Computer Vision at InfoComm 2022",
+      "excerpt": "NaViSense is launching a cost-effective computer vision solution for gathering anonymous customer attributes using off-the-shelf or existing camera sources and processing them through a variety of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/sharp-nec-display-solutions-debuts-navisense-computer-vision-at-infocomm-2022/article_029fb2b6-0cea-5211-b35b-5268b3a73763.html",
+      "originalUrl": "https://www.eagletribune.com/region/sharp-nec-display-solutions-debuts-navisense-computer-vision-at-infocomm-2022/article_029fb2b6-0cea-5211-b35b-5268b3a73763.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/2d/62d2bb23-7e35-5e95-8f1a-7103a5c7f257/629fba635c2c4.image.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
+          "width": 1196,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-07T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-08-video-sleep-depression-age-can-predict-future-cognitive-impairment.md",
       "title": "VIDEO: Sleep, depression, age can predict future cognitive impairment",
       "excerpt": "Keil S, et al. Longitudinal sleep instability contributes to cognitive decline and Alzheimer’s pathology: findings from the Seattle Longitudinal Study.",
@@ -1080,50 +1123,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-open-systems-recognized-as-a-microsoft-security-excellence-awards-winner-for-security-mssp-of-the-year.md",
-      "title": "Open Systems Recognized as a Microsoft Security Excellence Awards Winner for Security MSSP of The Year",
-      "excerpt": "Open Systems, the only cybersecurity services provider with Mission Control, today announced it has won the Security MSSP of the Year award at the Microsoft Security Excellence Awards 2022. The company’s achievements have helped it rise to the top of the Microsoft Intelligent Security Association (MISA) – an ecosystem of independent software vendors and services that have integrated their security products and services with Microsoft’s.",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/open-systems-recognized-as-a-microsoft-security-excellence-awards-winner-for-security-mssp-of-the/article_c3ec7f11-315b-5d50-924f-4223057486ec.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/open-systems-recognized-as-a-microsoft-security-excellence-awards-winner-for-security-mssp-of-the/article_c3ec7f11-315b-5d50-924f-4223057486ec.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg",
-          "width": 415,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T05:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

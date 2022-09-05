@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-08-23-professional-cloud-services-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis.md",
+      "title": "Professional Cloud Services Market Size Is Likely to Experience a Tremendous Growth by 2031 Covid-19 Analysis",
+      "excerpt": "The professional cloud services market was valued at USD 21.51billion in 2022 and is expected to reach a value of USD 57.54 billion by 2031, at a CAGR of 17.76 %, during the forecast period. The increase in the use of Artificial Intelligence (AI) with a growing focus on digital transformation initiatives are expected to provide growth opportunities for cloud services market - Moreover,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/professional-cloud-services-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis-2022-08-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/professional-cloud-services-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis-2022-08-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-23-oppo-unveils-its-latest-ai-technology-for-creating-animated-digital-avatar.md",
       "title": "OPPO unveils its latest AI technology for creating Animated Digital Avatar",
       "excerpt": "This marks a breakthrough in OPPO AI technology. It is an AI-driven technology that can create animated digital avatars using a few phones. The new OPPO AI technology is adept at loose clothes appearance learning and skeleton motion modeling. The new OPPO ...",
@@ -1129,49 +1181,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-best-speech-to-text-apps-in-2022-free-paid-and-online-voice-recognition-apps-and-services.md",
-      "title": "Best speech-to-text apps in 2022: Free, paid and online voice recognition apps and services",
-      "excerpt": "Here then are the best in speech-to-text recognition programs, which should be more than capable for most situations and circumstances. Dragon Anywhere is the Nuance mobile product for Android and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/best-speech-to-text-app",
-      "originalUrl": "https://www.techradar.com/news/best-speech-to-text-app",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-22T22:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

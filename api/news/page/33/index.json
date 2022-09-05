@@ -2,6 +2,40 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2022-08-08-5-stocks-ill-almost-certainly-still-own-in-2030.md",
+      "title": "5 Stocks I'll Almost Certainly Still Own in 2030",
+      "excerpt": "I also think that Alphabet has a huge growth opportunity in artificial intelligence (AI). The most obvious one is with its Waymo self-driving car technology business. However, the company is also ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/5-stocks-ill-almost-certainly-still-own-in-2030",
+      "originalUrl": "https://www.nasdaq.com/articles/5-stocks-ill-almost-certainly-still-own-in-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/5-stocks-ill-almost-certainly-still-own-in-2030?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-stocks-ill-almost-certainly-still-own-in-2030?amp",
+      "publishedDateTime": "2022-08-08T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-08-baidu-bags-chinas-first-fully-driverless-robotaxi-licenses.md",
       "title": "Baidu bags China's first fully driverless robotaxi licenses",
       "excerpt": "Baidu said they marked a \"turning point\" in ... with milestone-setting autonomous driving policies. In January, self-driving company Cruise received a permit from the California Public Utilities ...",
@@ -1078,58 +1112,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-07-you-need-to-stop-doing-this-on-your-ai-projects.md",
-      "title": "You Need To Stop Doing This On Your AI Projects",
-      "excerpt": "One of the biggest reasons for AI project failure is that companies don’t justify the use of AI from an return on investment (ROI) perspective. Simply put, they’re not worth the time and expense given the cost,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/07/you-need-to-stop-doing-this-on-your-ai-projects/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/07/you-need-to-stop-doing-this-on-your-ai-projects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62ef228fda71be391f4eacad/0x0.jpg?format=jpg&crop=2372,1335,x0,y39,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/07/you-need-to-stop-doing-this-on-your-ai-projects/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/08/07/you-need-to-stop-doing-this-on-your-ai-projects/amp/",
-      "publishedDateTime": "2022-08-07T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

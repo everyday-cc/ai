@@ -2,6 +2,59 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2022-07-19-signal-ai-opens-external-intelligence-graph-for-enterprise-use.md",
+      "title": "Signal AI opens External Intelligence Graph for enterprise use",
+      "excerpt": "Signal AI unveiled its new tool, a data structure that constantly tracks the major and minor events for companies that course through the news sphere each day.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/18/signal-ai-opens-its-external-intelligence-graph/",
+      "originalUrl": "https://venturebeat.com/2022/07/18/signal-ai-opens-its-external-intelligence-graph/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/Signal-A.I.-Grows-Global-Footprint-with-Strategic-North-American-and-Asia-Pacific-Expansion-e1571678390601.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/18/signal-ai-opens-its-external-intelligence-graph/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/18/signal-ai-opens-its-external-intelligence-graph/amp/",
+      "publishedDateTime": "2022-07-18T14:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-07-19-ai-art-is-challenging-the-boundaries-of-curation.md",
       "title": "AI art is challenging the boundaries of curation",
       "excerpt": "In just a few years, the number of artworks produced by self-described AI artists has dramatically increased. Some of these works have been sold by large auction houses for dizzying prices and have found their way into prestigious curated collections.",
@@ -1100,40 +1153,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-whats-the-better-passive-income-tech-stock-ibm-or-verizon.md",
-      "title": "What's the Better Passive Income Tech Stock: IBM or Verizon?",
-      "excerpt": "It has built on that move by acquiring over 20 smaller companies since the former head of the cloud and cognitive software ... a CAGR of 52% for the global 5G services market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/whats-the-better-passive-income-tech-stock%3A-ibm-or-verizon",
-      "originalUrl": "https://www.nasdaq.com/articles/whats-the-better-passive-income-tech-stock%3A-ibm-or-verizon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/whats-the-better-passive-income-tech-stock%3A-ibm-or-verizon?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/whats-the-better-passive-income-tech-stock%3A-ibm-or-verizon?amp",
-      "publishedDateTime": "2022-07-18T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

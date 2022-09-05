@@ -2,6 +2,57 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2022-07-29-cubo-ai-launches-new-sleep-sensor-pad-to-boost-award-winning-ai-baby-monitoring-system-at-tta-pavilion.md",
+      "title": "Cubo Ai launches new sleep sensor pad to boost award-winning AI baby monitoring system at TTA Pavilion",
+      "excerpt": "To further boost the safety of newborn babies as well as the peace of mind of parents, Taiwanese tech startup Cubo Ai has launched a new product to augment its award-winning Cubo Ai Plus Smart Baby Monitor - the AI Sleep Sensor Pad.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cubo-ai-launches-new-sleep-sensor-pad-to-boost-award-winning-ai-baby-monitoring-system-at-tta-pavilion-1031627921",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/cubo-ai-launches-new-sleep-sensor-pad-to-boost-award-winning-ai-baby-monitoring-system-at-tta-pavilion-1031627921",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1868825/image_5019932_7247023.jpg",
+          "width": 400,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T23:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-29-computer-vision-in-automation-market-2022-growth-company-profiles-developing-technologies-investment-opportunities-till-2030.md",
       "title": "Computer Vision in Automation Market 2022 | Growth, Company Profiles, Developing Technologies, Investment Opportunities till 2030",
       "excerpt": "The global Computer Vision in Automation market size will reach USD million in 2030, growing at a CAGR of % during the analysis period. As the global economy recovers in 2021 and the supply of the industrial chain improves,",
@@ -1129,57 +1180,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-how-ai-is-improving-warehouse-performance-and-easing-supply-chain-disruptions.md",
-      "title": "How AI is improving warehouse performance and easing supply chain disruptions",
-      "excerpt": "AI and ML are designed into the foundation of ... Stress-testing supply chains needs to start in the warehouse, where small process improvements made at scale can make a difference in keeping ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/28/how-ai-is-improving-warehouse-performance-and-easing-supply-chain-disruptions/",
-      "originalUrl": "https://venturebeat.com/2022/07/28/how-ai-is-improving-warehouse-performance-and-easing-supply-chain-disruptions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/12/supply_chain1-e1659022314267.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 770,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/28/how-ai-is-improving-warehouse-performance-and-easing-supply-chain-disruptions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/28/how-ai-is-improving-warehouse-performance-and-easing-supply-chain-disruptions/amp/",
-      "publishedDateTime": "2022-07-28T09:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

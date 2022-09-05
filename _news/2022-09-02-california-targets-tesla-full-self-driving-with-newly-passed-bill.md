@@ -140,20 +140,6 @@ related:
         width: 750
         height: 503
         isCached: true
-  - title: "GM's self-driving outfit is looking to fill 200 open roles. Cruise's top engineering exec shares his 4 tips for acing the interview."
-    excerpt: "The top engineering exec at GM's Cruise, gives 4 ways a job candidate can ace an interview at the self-driving vehicle company."
-    publishedDateTime: 2022-08-31T09:51:00Z
-    webUrl: "https://www.businessinsider.com/interview-tips-self-driving-general-motors-cruise-open-roles-jobs-2022-8"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
-    images:
-      - url: "https://i.insider.com/630e374cabd32c00180a0024?width=700"
-        width: 700
-        height: 525
-        isCached: true
   - title: "California Passes Bill Targeting Tesla’s Full Self-Driving Program"
     excerpt: "A bill targeting Tesla's (NASDAQ: TSLA) depiction of its “Full Self-Driving” (FSD) program passed the California state Senate on Tuesday night and now heads to Gov. Gavin Newsom for his signature. The electric vehicle leader has been marketing its FSD option since 2016."
     publishedDateTime: 2022-08-31T18:56:00Z

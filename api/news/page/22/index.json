@@ -2,6 +2,49 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2022-08-17-windows-speech-recognition-doesnt-work-fixed.md",
+      "title": "Windows Speech Recognition doesn’t work [Fixed]",
+      "excerpt": "Speech recognition is a relatively new but important feature in Windows computers. This option allows you to voice type and give commands to use applications in Windows. However, in some cases ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thewindowsclub.com/windows-speech-recognition-doesnt-work-fixed",
+      "originalUrl": "https://www.thewindowsclub.com/windows-speech-recognition-doesnt-work-fixed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thewindowsclub.com/wp-content/uploads/2022/08/Speech-Recognition-Setup-Doesnt-Work.jpg",
+          "width": 700,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T15:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Windows Club",
+        "domain": "thewindowsclub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-16-cloud-based-medical-imaging-reconstruction-using-deep-neural-networks.md",
       "title": "Cloud-based medical imaging reconstruction using deep neural networks",
       "excerpt": "Medical imaging techniques like computed tomography (CT), magnetic resonance imaging (MRI), medical x-ray imaging, ultrasound imaging, and others are commonly used by doctors for various reasons. Some examples include detecting changes in the appearance of organs, tissues, and vessels, and detecting",
@@ -1068,49 +1111,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-how-can-natural-language-processing-help-in-business.md",
-      "title": "How Can Natural Language Processing Help in Business?",
-      "excerpt": "Natural language processing (NLP) is an effective mixture of linguistics and computer science that, wrapped up in the study of language and the introduction of intelligent systems, makes human ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/how-can-natural-language-processing-help-in-business",
-      "originalUrl": "https://www.digitaljournal.com/pr/how-can-natural-language-processing-help-in-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/077787ed8274d4370cac36f9e7f70c511534e1d3-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-16T05:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null

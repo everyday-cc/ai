@@ -9,8 +9,8 @@ ampWebUrl: "https://www.investingcube.com/ai-in-fintech-market-will-reach-more-t
 cdnAmpWebUrl: "https://www-investingcube-com.cdn.ampproject.org/c/s/www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: InvestingCube
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI in FinTech Global Market to Reach $24.17 Billion by 2026"
-    excerpt: "AI in FinTech Global Market to Reach $24.17 Billion by 2026 Aug 31, 2022 (PRNewswire via COMTEX) -- PR Newswire DUBLIN, DUBLIN, Aug. 31,"
-    publishedDateTime: 2022-08-31T10:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-global-market-to-reach-2417-billion-by-2026-2022-08-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Fintech Market Plays A Vital Role In Mobile Banking – Reports and Data"
     excerpt: "The size of the global fintech market was USD 100.09 billion in 2020, and it is anticipated to grow in value at an 8.5% CAGR. Rising demand for smartphones, growing private investor involvement in fintech firms,"
     publishedDateTime: 2022-09-01T10:29:00Z

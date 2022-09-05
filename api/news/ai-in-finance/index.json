@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-01-ai-in-fintech-market-will-reach-more-than-61-billion-by-2031.md",
+      "title": "AI In Fintech Market Will Reach More Than $61 Billion, By 2031",
+      "excerpt": "Artificial Intelligence has been growing its influence in Fintech, and is projected to hit $61 billion in under 10 years. We tell you how.",
+      "sourceUrl": null,
+      "webUrl": "https://www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/",
+      "originalUrl": "https://www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.investingcube.com/wp-content/uploads/2022/06/Crypto-wallet.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/amp/",
+      "cdnAmpWebUrl": "https://www-investingcube-com.cdn.ampproject.org/c/s/www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/amp/",
+      "publishedDateTime": "2022-09-01T00:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestingCube",
+        "domain": "investingcube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-31-ai-in-fintech-global-market-to-reach-2417-billion-by-2026.md",
       "title": "AI in FinTech Global Market to Reach $24.17 Billion by 2026",
       "excerpt": "AI in FinTech Global Market to Reach $24.17 Billion by 2026 Aug 31, 2022 (PRNewswire via COMTEX) -- PR Newswire DUBLIN, DUBLIN, Aug. 31,",
@@ -1272,58 +1315,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-ai-in-fintech-market-size-key-facts-dynamics-segments-and-forecast-predictions-presented-2022-2031.md",
-      "title": "AI in Fintech Market Size: Key Facts, Dynamics, Segments and Forecast Predictions Presented 2022-2031",
-      "excerpt": "Japan, Japan, Wed, 03 Aug 2022 12:04:26 / Comserve Inc. / -- AI in Fintech Market offers overview of leading companies encompassing their successful marketing strategies, market contribution ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-key-facts-dynamics-segments-and-forecast-predictions-presented-2022-2031-2022-08-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-key-facts-dynamics-segments-and-forecast-predictions-presented-2022-2031-2022-08-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

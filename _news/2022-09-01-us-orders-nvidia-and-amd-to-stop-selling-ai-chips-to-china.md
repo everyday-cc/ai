@@ -124,6 +124,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Nvidia says U.S. government allows A.I. chip development in China"
+    excerpt: "Nvidia said in an SEC filing Wednesday that the U.S. government is restricting sales of high-performance AI chips for servers, the A100 and H100, to China and Russia. Sales of both chips are still ..."
+    publishedDateTime: 2022-09-01T23:25:00Z
+    webUrl: "https://www.cnbc.com/2022/09/01/nvidia-says-us-government-allows-ai-chip-development-in-china.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2022/09/01/nvidia-says-us-government-allows-ai-chip-development-in-china.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/09/01/nvidia-says-us-government-allows-ai-chip-development-in-china.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107067150-1653504509165-gettyimages-1399238927-0j5a8860_7b828a63-4abc-4260-8e26-82fd1b37b3b6.jpeg?v=1653504562"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "U.S. allows Nvidia to do exports, transfers needed to develop its AI chip"
     excerpt: "Nvidia Corp said on Thursday that the U.S. government has allowed exports and in-country transfers needed to develop the company's H100 artificial intelligence chip."
     publishedDateTime: 2022-09-01T10:43:00Z

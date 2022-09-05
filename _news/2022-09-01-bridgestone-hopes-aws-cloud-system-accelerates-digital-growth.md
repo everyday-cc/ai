@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Bridgestone and AWS partner for platform development and customer solutions"
-    excerpt: "Corporation (Bridgestone) announced that the company is using Amazon Web Services, Inc. (AWS) as its strategic cloud provider in support of the company’s sustainable mobility solutions. Using AWS Internet of Things (IoT),"
-    publishedDateTime: 2022-08-31T09:24:00Z
-    webUrl: "https://rubberworld.com/bridgestone-and-aws-partner-for-platform-development-and-customer-solutions/"
-    type: article
-    provider:
-      name: Rubber World
-      domain: rubberworld.com
-    quality: 17
   - title: "Bridgestone uses Amazon cloud system to accelerate digital growth"
     excerpt: "Bridgestone Corp. has begun using Amazon Web Services as its cloud provider to accelerate the creation of digital platforms, launch new solutions for its customers, improve data analysis and streamline IT operations."
     publishedDateTime: 2022-09-02T21:04:00Z

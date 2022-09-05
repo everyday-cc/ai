@@ -2,6 +2,50 @@
   "page": 114,
   "value": [
     {
+      "path": "_news/2022-06-07-open-systems-recognized-as-a-microsoft-security-excellence-awards-winner-for-security-mssp-of-the-year.md",
+      "title": "Open Systems Recognized as a Microsoft Security Excellence Awards Winner for Security MSSP of The Year",
+      "excerpt": "Open Systems, the only cybersecurity services provider with Mission Control, today announced it has won the Security MSSP of the Year award at the Microsoft Security Excellence Awards 2022. The company’s achievements have helped it rise to the top of the Microsoft Intelligent Security Association (MISA) – an ecosystem of independent software vendors and services that have integrated their security products and services with Microsoft’s.",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/open-systems-recognized-as-a-microsoft-security-excellence-awards-winner-for-security-mssp-of-the/article_c3ec7f11-315b-5d50-924f-4223057486ec.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/open-systems-recognized-as-a-microsoft-security-excellence-awards-winner-for-security-mssp-of-the/article_c3ec7f11-315b-5d50-924f-4223057486ec.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg",
+          "width": 415,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-07T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-06-07-bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience.md",
       "title": "Bengaluru Airport Introduces AI Robots For Enhanced Passenger Experience",
       "excerpt": "Currently at the trial stage, these 10 robots have been deployed at the airport to help guide passengers and answer basic queries.",
@@ -1044,58 +1088,6 @@
         "name": "Brink – The Edge of Risk",
         "domain": "brinknews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-axons-taser-drone-plans-prompt-ai-ethics-board-resignations.md",
-      "title": "Axon’s Taser Drone Plans Prompt AI Ethics Board Resignations",
-      "excerpt": "A majority of Axon’s AI ethics board resigned in protest yesterday, following an announcement last week that the company planned to equip drones with Tasers and cameras as a way to end mass shootings in schools. The company backed down on its proposal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/taser-drone-axon-ai-ethics-board/",
-      "originalUrl": "https://www.wired.com/story/taser-drone-axon-ai-ethics-board/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/629e51d2726e817487080861/master/pass/business-axon-drone-wired.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/taser-drone-axon-ai-ethics-board/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/taser-drone-axon-ai-ethics-board/amp",
-      "publishedDateTime": "2022-06-06T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

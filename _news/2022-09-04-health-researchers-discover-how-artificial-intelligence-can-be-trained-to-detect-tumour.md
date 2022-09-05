@@ -41,6 +41,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Researchers discover how artificial intelligence can be trained to detect tumour"
+    excerpt: "\"Thanks to the interdisciplinary structures at PRODI, we have the best prerequisites for incorporating the hypothesis-based approach into the developm.."
+    publishedDateTime: 2022-09-05T03:29:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/business-analytics/researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour/93993860"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/business-analytics/researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour/93993860"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/business-analytics/researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour/93993860"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 67
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-93993860,imgsize-25480,width-1200,height-628,overlay-etcio/researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Researchers discover how artificial intelligence can detect tumour"
     excerpt: "AI can be trained to detect whether or not a tissue picture contains a tumour. However, until recently, it has remained a mystery as to how it makes its judgement"
     publishedDateTime: 2022-09-04T03:46:00Z

@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The AI tasked with keeping the metaverse safe comes with a lot of GPU firepower"
-    excerpt: "AI-powered servers with Nvidia GPUs will give potential metaverse hackers a few things to think about. At yesterday's VMware Explore 2022 conference in San Francisco, server giant VMWare announced the vSphere 8—a metaverse-ready data center platform with artificially intelligent security."
-    publishedDateTime: 2022-08-31T09:11:00Z
-    webUrl: "https://www.pcgamer.com/vmware-vsphere-8-ai-metaverse-server/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 50
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/F69JkkSeNU7hNjBygwRAh7-1200-80.jpg"
-        width: 630
-        height: 354
-        isCached: true
   - title: "AICP Introduces The First Artificial Intelligence Blockchain Designed And Developed By The Ruleless Algorithm"
     excerpt: "AICPrime is making a splash in Artificial Intelligence and blockchain technology after introducing the AICPrime Blockchain, an expandable AI blockchain powered by ruleless algorithms that have the ability to process and model data beyond human-known patterns."
     publishedDateTime: 2022-09-03T03:27:00Z

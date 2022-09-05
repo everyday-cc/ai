@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI in FinTech Global Market to Reach $24.17 Billion by 2026"
-    excerpt: "AI in FinTech Global Market to Reach $24.17 Billion by 2026 Aug 31, 2022 (PRNewswire via COMTEX) -- PR Newswire DUBLIN, DUBLIN, Aug. 31,"
-    publishedDateTime: 2022-08-31T10:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-global-market-to-reach-2417-billion-by-2026-2022-08-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI In Fintech Market Will Reach More Than $61 Billion, By 2031"
     excerpt: "Artificial Intelligence has been growing its influence in Fintech, and is projected to hit $61 billion in under 10 years. We tell you how."
     publishedDateTime: 2022-09-01T07:39:00Z

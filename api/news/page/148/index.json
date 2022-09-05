@@ -2,6 +2,49 @@
   "page": 148,
   "value": [
     {
+      "path": "_news/2022-05-12-voice-control-for-your-camera-i-was-sceptical-but-theres-big-potential.md",
+      "title": "Voice control for your camera? I was sceptical, but there's big potential",
+      "excerpt": "Sony has applied for a patent on the technology for controlling a camera's interface and controls using voice commands. You could be forgiven for jumping to the conclusion that this is a silly idea - I mean,",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitalcameraworld.com/au/news/voice-control-for-your-camera-i-was-sceptical-but-theres-big-potential",
+      "originalUrl": "https://www.digitalcameraworld.com/au/news/voice-control-for-your-camera-i-was-sceptical-but-theres-big-potential",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/4B5PNNZ7nTNGiA3mHJA9rW-1200-80.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-11T14:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "digitalcameraworld",
+        "domain": "digitalcameraworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-12-racing-tiny-cars-using-only-artificial-intelligence-and-machine-learning.md",
       "title": "Racing tiny cars using only Artificial Intelligence and Machine Learning",
       "excerpt": "It's called the Amazon Web Services DeepRacer League, where small 1/18th scale cars are being trained to complete a racetrack as fast as possible, by themselves. “It has major components in ...",
@@ -1130,58 +1173,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-immersive-view-now-in-maps-plus-more-updates.md",
-      "title": "Immersive view now in Maps — plus more updates",
-      "excerpt": "Google Maps helps over one billion people navigate and explore. And over the past few years, our investments in AI have supercharged the ability to bring you the most helpful information about the real world, including when a business is open and how crowded your bus is. Today at Google I/O, we announced",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/maps/three-maps-updates-io-2022/",
-      "originalUrl": "https://blog.google/products/maps/three-maps-updates-io-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_-_I_O_Geo_.max-1300x1300.png",
-          "width": 1300,
-          "height": 695,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-11T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],
