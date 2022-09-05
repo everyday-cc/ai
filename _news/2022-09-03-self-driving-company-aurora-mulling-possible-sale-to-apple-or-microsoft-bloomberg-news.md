@@ -77,6 +77,15 @@ related:
       name: Automotive News
       domain: autonews.com
     quality: 21
+  - title: "Self-driving tech company floats possible sale to Apple or Microsoft"
+    excerpt: "Inc.'s chief executive officer recently laid out a range of options for the self-driving company to respond to worsening market conditions and partners pushing o"
+    publishedDateTime: 2022-09-05T18:00:00Z
+    webUrl: "https://www.stuff.co.nz/motoring/300678344/selfdriving-tech-company-floats-possible-sale-to-apple-or-microsoft"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 21
 
 secured: "8CS+3atC2sWUc7k4vJpKmdsHzDjYjFI+gOHAPP3hwnUi2JCH2NVT/yT3Gs8hc8W4+EVYMl3RYgiSzQ1Hjg2H0OErmWwfBWwGkWADL5juUhN4/mWIwO29MiwKxVO7vUqFWaqQqPhx6MDUUULPZgG4JLhTa9Lj4dlniALnlg6kYy3rht5/bPqH4YreEnkB5ol4J+i+6iF3KdNIbiiDxy73yKCaDpiXHy++Z8fYgFQaKUxxp1eb9YL70zw8QRAXU1g91vJDlRevEuVLaVbXRsYEHXz3qdO6x/wa8stjgMeozRrF5MoDSYzE/JHcbmfWmf9FVDHoAmFbyUa2jS0rfww/SPV6CNwgLDr7VwMAzUJvpJg=;WxbxkMhU35UaatYicGvN2A=="
 ---

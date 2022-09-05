@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-05T18:26:00Z
 originalUrl: "https://www.wxow.com/video/health-minute-artificial-intelligence-for-women-in-labor/video_0889ce90-57ff-5fbc-8bd1-21a7a4d51879.html"
 webUrl: "https://www.wxow.com/video/health-minute-artificial-intelligence-for-women-in-labor/video_0889ce90-57ff-5fbc-8bd1-21a7a4d51879.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: WXOW

@@ -3,25 +3,25 @@ category: news
 title: "Iran to use facial recognition cameras to enforce new hijab laws in chilling crackdown on women not covering up"
 excerpt: "IRANIAN authorities are plotting to use facial recognition cameras to spot women defying strict new laws on wearing hijabs. The chilling crackdown will see women who refuse to cover up tracked"
 publishedDateTime: 2022-09-05T09:35:00Z
-originalUrl: "https://www.thesun.co.uk/news/19708882/iran-facial-recognition-cameras-enforce-hijab/"
-webUrl: "https://www.thesun.co.uk/news/19708882/iran-facial-recognition-cameras-enforce-hijab/"
-ampWebUrl: "https://www.thesun.co.uk/news/19708882/iran-facial-recognition-cameras-enforce-hijab/amp/"
-cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/19708882/iran-facial-recognition-cameras-enforce-hijab/amp/"
+originalUrl: "https://www.thesun.ie/news/9358412/iran-facial-recognition-cameras-enforce-hijab/"
+webUrl: "https://www.thesun.ie/news/9358412/iran-facial-recognition-cameras-enforce-hijab/"
+ampWebUrl: "https://www.thesun.ie/news/9358412/iran-facial-recognition-cameras-enforce-hijab/amp/"
+cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/news/9358412/iran-facial-recognition-cameras-enforce-hijab/amp/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Sun
-  domain: thesun.co.uk
+  name: Irish Sun
+  domain: thesun.ie
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.thesun.co.uk/wp-content/uploads/2022/09/newspress-collage-19708882-1662371431207.jpg?1662375048&strip=all&quality=100&w=1920&h=1080&crop=1"
+  - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2022/09/newspress-collage-19708882-1662371431207.jpg?1662375170&strip=all&quality=100&w=1920&h=1080&crop=1"
     width: 1920
     height: 1080
     isCached: true
@@ -44,6 +44,6 @@ related:
         height: 445
         isCached: true
 
-secured: "eymI6Y/n7AgD+9ntL7sZhia5Q8MUwHz7HQL18nGZOBjw4JkqUdzwFWejVZnUyiNSTNJ6FxbTUrMpP/qnlKH0eEPk3Jg4BX3fqI8EiASgpOvDP75BoN04euBeC/W3e6cxUoaPKFcVslYmgMi/k29etwgiNgAEXWvDQ2yRJGD5E4D12dhdVSKgJWzJ27ClGP8VkcfwvK3BsP2YKjqLX0tUDFCNEF2GMDNRKYd7GZlFV7Qo7AuYyAYzVo2vUp+xv9Luz4sK3V09zuVGmGIArYaQYlSOYEdf20i3j+tICxOG6JVt9XP6GI7W6NlW847YEvmZ+eoTVG5NEkDV6VuQ8/2dy+yt+V55+hoqcNqOZ8DUOCOOh0RnWv5PYPaBxL6WtBmlpP61Ps52CHCyIWtWv5GJGYMXOInM0GGy1QgpqlN8ofnHmCFwQFLnrBcZDx1dsY/FRd1rTHOPS+dXTgkiQNSlOXlHUSKW8m+Mv3GwHc5X0bgjl7MKHnaPy/d/TI1mIABgZxG+Op6VnUinjs52gPe4Rg==;xMFriKxMhCr06ysBVZoHTg=="
+secured: "cHZT2jufEacSGXZafVsvG9oG0pygdBffg9zGUml51/p2uDAD5eWBzIvfanWW7v7YkU8gT98XQZ/LABKE8S10dVVd5N7iFH1VekECmWkcx1Up/ZN3fpFT0tfXatyQHuBtFuB72fml4jFlXdasQQl6Kca2NI+9e4uI8Kp2vMH6EGyQw5HFtOTENOW24kFcXKPGE9vPe0ZWZJ0FLY1Lcb33jMs06atpX5nmLDX6NwoFmw35sBGQQESux8+bLLaCb8MVwIihRy3kDOxfPAltjvOjj6VtNK8DRolCSDUolNd0IXacgD6VbA05Ezi/Li36MC530VvJJRHh/PP2M0JsJjO01fi4B23KJohbTdk3xvnla64=;9ARfCekAtZIY1kv3lH1N3w=="
 ---
 

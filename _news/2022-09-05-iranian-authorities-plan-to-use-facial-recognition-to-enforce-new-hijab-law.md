@@ -34,16 +34,16 @@ related:
   - title: "Iran to use facial recognition cameras to enforce new hijab laws in chilling crackdown on women not covering up"
     excerpt: "IRANIAN authorities are plotting to use facial recognition cameras to spot women defying strict new laws on wearing hijabs. The chilling crackdown will see women who refuse to cover up tracked"
     publishedDateTime: 2022-09-05T09:35:00Z
-    webUrl: "https://www.thesun.co.uk/news/19708882/iran-facial-recognition-cameras-enforce-hijab/"
-    ampWebUrl: "https://www.thesun.co.uk/news/19708882/iran-facial-recognition-cameras-enforce-hijab/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/19708882/iran-facial-recognition-cameras-enforce-hijab/amp/"
+    webUrl: "https://www.thesun.ie/news/9358412/iran-facial-recognition-cameras-enforce-hijab/"
+    ampWebUrl: "https://www.thesun.ie/news/9358412/iran-facial-recognition-cameras-enforce-hijab/amp/"
+    cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/news/9358412/iran-facial-recognition-cameras-enforce-hijab/amp/"
     type: article
     provider:
-      name: The Sun
-      domain: thesun.co.uk
+      name: Irish Sun
+      domain: thesun.ie
     quality: 39
     images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2022/09/newspress-collage-19708882-1662371431207.jpg?1662375048&strip=all&quality=100&w=1920&h=1080&crop=1"
+      - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2022/09/newspress-collage-19708882-1662371431207.jpg?1662375170&strip=all&quality=100&w=1920&h=1080&crop=1"
         width: 1920
         height: 1080
         isCached: true

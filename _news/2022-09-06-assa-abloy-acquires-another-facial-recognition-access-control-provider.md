@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-05T19:46:00Z
 originalUrl: "https://www.biometricupdate.com/202209/assa-abloy-acquires-another-facial-recognition-access-control-provider"
 webUrl: "https://www.biometricupdate.com/202209/assa-abloy-acquires-another-facial-recognition-access-control-provider"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Biometric Companies

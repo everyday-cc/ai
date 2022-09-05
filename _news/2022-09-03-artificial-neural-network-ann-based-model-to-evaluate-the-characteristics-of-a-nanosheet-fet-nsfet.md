@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-02T20:28:00Z
 originalUrl: "https://semiengineering.com/artificial-neural-network-ann-based-model-to-evaluate-the-characteristics-of-a-nanosheet-fet-nsfet/"
 webUrl: "https://semiengineering.com/artificial-neural-network-ann-based-model-to-evaluate-the-characteristics-of-a-nanosheet-fet-nsfet/"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Semiconductor Engineering

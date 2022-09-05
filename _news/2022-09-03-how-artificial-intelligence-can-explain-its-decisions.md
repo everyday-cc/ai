@@ -37,7 +37,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 62
+    quality: 66
   - title: "An Analysis of How AI Processes Its Information"
     excerpt: "To achieve this, they supplied the AI with a vast number of photos of microscopic tissues, some of which had tumors and others did not. Neural networks are initially a black box: it’s unclear which identifying features a network learns from the training data."
     publishedDateTime: 2022-09-05T15:06:00Z

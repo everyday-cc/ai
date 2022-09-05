@@ -1,20 +1,28 @@
 ---
 category: news
 title: "Artificial intelligence model outperforms clinicians in diagnosing pediatric ear infections"
-excerpt: "An artificial-intelligence model built at Mass Eye and Ear was shown to be significantly more accurate than doctors at diagnosing pediatric ear infections in the first head-to-head evaluation of its kind."
-publishedDateTime: 2022-08-31T12:02:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/963336"
-webUrl: "https://www.eurekalert.org/news-releases/963336"
+excerpt: "An artificial-intelligence (AI) model built at Mass Eye and Ear was shown to be significantly more accurate than doctors at diagnosing pediatric ear infections in the first head-to-head evaluation ..."
+publishedDateTime: 2022-08-31T16:31:00Z
+originalUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-outperforms-clinicians-pediatric.html"
+webUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-outperforms-clinicians-pediatric.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-outperforms-clinicians-pediatric.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-artificial-intelligence-outperforms-clinicians-pediatric.amp"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
-  - IBM AI
+  - AI in Autos
   - AI
 
-secured: "9cGMPWjc5DlZVvh/nlOgTQOBEqNYH+MgYZeQlOA2AV42u6MvI88Nbo5cCOYrFblWlFjmu+fShY4xxm1EXt/4HQ5qrBx1aBOOrMxz0G+gQOIK16J0VD4fNIsLgMFKgFNoffyRVq1/wFzWB+QaFpEMicfHt9geLcE96Nac/bYn3tAtZviZEdB+BJdkMK/XatjkndBV4Arb9sVfrHfy9f8PSmT2uVYD4JU/B27pqZjwMIFNry1w/AvlAZzRPtd/yQllKb+LsTWKcTrDukvhcw+mtDtXFbtzqtIdXVLfpjp6rnXfC+o8wsBsGpniMDmg4gQUhJ+x95AkV24UYSuqWPRz3xFdOaKFV7hNf9c3yxlPRtdvvY0Jeoih86YM4mQoecxw/wL5ee8M28nCFFl213blCHvQsCcIUJi7mNMXBgPRdsSZs09N6GvA7OgXrnNXME8Tt7oy5/DlF/vRsYPwPX5OfDGEzLuE0nQHItuutmn1/hG07fookQJjh8s3oJF6LdoqO6BfZKF2kVZ0MjQOjTn6gQ==;9udw25FcYH7CoQQzas+QMA=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-62.jpg"
+    width: 359
+    height: 428
+    isCached: true
+
+secured: "vmejx5VtU7T18f3sg7QaGcMv4gfDn2miQQK+cHYGFwpSLGOWk89ZtKHddvMqfLbMu+bkgjWzQQqXjgdPW7OU3KShPURyVskkaVX+6JNT2t7JP1ao1pp/cOz2sUO5BF7wvl2Ny06ZqHtSTzfFUifyvPSS3OQKWNlHuIrliHI2/MqGOAEraktEPEzIkNLiWHELPxEysNas3qCz/LUVyf2UJqIR8d61RVqk1/+Md8LS0DPaDQm7P4J9AURPP3XgiuVEj3zFszqtKLQT2fCLcBZ4X0DIkBWO6TeOyktTvq9dEik4pO1CU5HsduhOIWFAKiiT05gfvstof18Rv1IzYbswQ8v1Q6qzhNzRWY9cuwsHoQA=;YEFReoO0jKxy6IS7Z5ozRw=="
 ---
 

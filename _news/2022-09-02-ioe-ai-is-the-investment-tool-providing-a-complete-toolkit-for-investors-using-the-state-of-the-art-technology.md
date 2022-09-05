@@ -67,6 +67,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Dumb AI is a bigger risk than strong AI"
+    excerpt: "AI is very promising, but we need to make it simple to ensure it's truly smart every step of the way to avoid real risk and even catastrophe."
+    publishedDateTime: 2022-09-05T18:07:00Z
+    webUrl: "https://venturebeat.com/ai/dumb-ai-is-a-bigger-risk-than-strong-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
   - title: "Why AI is the solution for IVF accessibility"
     excerpt: "By augmenting the embryologist in selecting the most viable embryo, there is potential for AI to help a patient conceive in one or two cycles, reducing the inherent cost of IVF therapy, and making the treatment more accessible to diverse populations that often don’t have ease of access to treatments today."
     publishedDateTime: 2022-09-02T13:00:00Z

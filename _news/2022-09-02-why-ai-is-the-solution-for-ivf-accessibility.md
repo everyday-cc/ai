@@ -66,6 +66,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Dumb AI is a bigger risk than strong AI"
+    excerpt: "AI is very promising, but we need to make it simple to ensure it's truly smart every step of the way to avoid real risk and even catastrophe."
+    publishedDateTime: 2022-09-05T18:07:00Z
+    webUrl: "https://venturebeat.com/ai/dumb-ai-is-a-bigger-risk-than-strong-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
   - title: "IoE AI is the Investment Tool Providing a Complete Toolkit for Investors Using the State of the Art Technology."
     excerpt: "The future of investment is here as the Internet of Everything; IoE AI uses cloud-based artificial intelligence to model complex communication networks, object identification, data integrity, and device interoperability IoE AI provides state of the art toolset for modern customized complex models which are eccentric and high-tech."
     publishedDateTime: 2022-09-01T21:03:00Z

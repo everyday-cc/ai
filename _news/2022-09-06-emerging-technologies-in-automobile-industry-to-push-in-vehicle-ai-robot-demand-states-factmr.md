@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-05T19:00:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/09/g28749623/emerging-technologies-in-automobile-industry-to-push-in-vehicle-ai-robot-demand-states-fact-mr"
 webUrl: "https://www.benzinga.com/pressreleases/22/09/g28749623/emerging-technologies-in-automobile-industry-to-push-in-vehicle-ai-robot-demand-states-fact-mr"
 type: article
+quality: 22
+heat: 22
+published: false
 
 provider:
   name: Benzinga.com

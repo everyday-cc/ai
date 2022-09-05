@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-05T13:32:00Z
 originalUrl: "https://www.theguardian.com/politics/2022/sep/05/four-things-liz-truss-said-in-her-victory-speech-and-what-they-may-mean?amp;amp;amp"
 webUrl: "https://www.theguardian.com/politics/2022/sep/05/four-things-liz-truss-said-in-her-victory-speech-and-what-they-may-mean?amp;amp;amp"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: The Guardian

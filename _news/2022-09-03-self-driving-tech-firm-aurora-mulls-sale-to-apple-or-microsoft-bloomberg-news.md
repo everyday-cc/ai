@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/self-driving-company-aurora-mul
 webUrl: "https://www.reuters.com/technology/self-driving-company-aurora-mulling-possible-sale-apple-or-microsoft-bloomberg-2022-09-02/"
 type: article
 quality: 67
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -77,6 +77,15 @@ related:
     provider:
       name: Automotive News
       domain: autonews.com
+    quality: 21
+  - title: "Self-driving tech company floats possible sale to Apple or Microsoft"
+    excerpt: "Inc.'s chief executive officer recently laid out a range of options for the self-driving company to respond to worsening market conditions and partners pushing o"
+    publishedDateTime: 2022-09-05T18:00:00Z
+    webUrl: "https://www.stuff.co.nz/motoring/300678344/selfdriving-tech-company-floats-possible-sale-to-apple-or-microsoft"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
     quality: 21
 
 secured: "/afVUA7Qfyi8S9HlBhsOzJ5qsClO9LUCBtZGI3BdvKQtYQParWlYRXJl9ak1491WwFShpqob4C9oblFAMuW8KKeYUgxTRqHk9sDw8flW5ApksVW35JQgsZ5tlISaFjpdOZvcQ/4mEqf+lPUgnZBY5N8GJvlPH6L5Nri1RoIvcEwoT1sHZxjWHTsrdSn87dy8ifTHrWMtCf4YcIJxLjMUTgAit5QHgWo4ZT00PkHYDbGK4a9F2eExO669OiTgZRRd0k9m129i20UsGyAmLJdrfn1SGz6GBqRYpBjOh/E6nleLPZpPfFuPg3U8nn1pf3EhGQQA2CTbEFYarhzS/8ZZ7c7abqH8wlZOcR3NIgjN3vj3ugkeycLXhoAwQyCdOMoEmH8lwcq9u9vHVb0V1C1F4VjLhRpLk9g2ehh09RC/9/lBp0t5/aOlEM0ygepBOmWw98NdkM3nXWKbvDvYO+6ICel+7aESLZqH9TeW/fx+mZQ0YNiBORP+YFm2dO+R0QnnfThV17Bf5i76y7m0zXMaRA==;D20ALs+LCPs03WS3OhxbCQ=="

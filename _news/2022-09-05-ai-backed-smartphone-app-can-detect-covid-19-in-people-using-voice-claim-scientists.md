@@ -9,8 +9,8 @@ ampWebUrl: "https://www.hindustantimes.com/technology/artificial-intelligence-ba
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/artificial-intelligence-backed-mobile-app-can-detect-covid-19-in-people-using-voice-claim-scientists-101662373586202-amp.html"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: -1
+published: false
 
 provider:
   name: Hindustan Times
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "New AI-based Smartphone App may Detect COVID-19 Infection"
+    excerpt: "Novel smartphone app using artificial intelligence (AI) can help detect COVID-19 infection in people’s voices."
+    publishedDateTime: 2022-09-05T21:30:00Z
+    webUrl: "https://www.medindia.net/news/healthwatch/new-ai-based-smartphone-app-may-detect-covid-19-infection-208511-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/healthwatch/new-ai-based-smartphone-app-may-detect-covid-19-infection-208511-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/healthwatch/new-ai-based-smartphone-app-may-detect-covid-19-infection-208511-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 57
+    images:
+      - url: "https://www.medindia.net/health-images/indicators-that-your-covid-19-anxiety.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "AI model detects COVID-19 infection in people’s voices"
     excerpt: "Artificial intelligence (AI) can be used to detect COVID-19 infection in people's voices by means of a mobile phone app, according to research to be presented on Monday at the European Respiratory Society International Congress in Barcelona,"
     publishedDateTime: 2022-09-05T04:45:00Z

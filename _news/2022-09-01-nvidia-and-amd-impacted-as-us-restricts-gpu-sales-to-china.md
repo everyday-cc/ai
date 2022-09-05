@@ -56,38 +56,6 @@ related:
         width: 6000
         height: 4000
         isCached: true
-  - title: "US blocks sales of some AI chips to China as tech crackdown intensifies"
-    excerpt: "Move marks a major escalation of US efforts to restrict China’s military technology capabilities as tensions bubble over Taiwan"
-    publishedDateTime: 2022-09-01T03:46:00Z
-    webUrl: "https://www.theguardian.com/world/2022/sep/01/us-blocks-sales-of-some-ai-chips-to-china-as-tech-crackdown-intensifies"
-    ampWebUrl: "https://amp.theguardian.com/world/2022/sep/01/us-blocks-sales-of-some-ai-chips-to-china-as-tech-crackdown-intensifies"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/sep/01/us-blocks-sales-of-some-ai-chips-to-china-as-tech-crackdown-intensifies"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 91
-    images:
-      - url: "https://i.guim.co.uk/img/media/81f12dadd0e98b3ca222064b416434feaceac722/0_233_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=9ac201c8344dd822183b398db114dee2"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "U.S. Officials Order Nvidia To Halt Sales Of Top AI Chips To China"
-    excerpt: "Chip designer Nvidia Corp on Wednesday said that U.S. officials told it to stop exporting two top computing chips for artificial intelligence work to China, a move that could cripple Chinese firms ..."
-    publishedDateTime: 2022-09-01T03:15:00Z
-    webUrl: "https://www.ibtimes.com/us-officials-order-nvidia-halt-sales-top-ai-chips-china-3608002"
-    ampWebUrl: "https://www.ibtimes.com/us-officials-order-nvidia-halt-sales-top-ai-chips-china-3608002?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/us-officials-order-nvidia-halt-sales-top-ai-chips-china-3608002?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 91
-    images:
-      - url: "https://d.ibtimes.com/en/full/3811072/logo-technology-company-nvidia-seen-its-headquarters-santa-clara.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Nvidia says U.S. government allows A.I. chip development in China"
     excerpt: "Nvidia said in an SEC filing Wednesday that the U.S. government is restricting sales of high-performance AI chips for servers, the A100 and H100, to China and Russia. Sales of both chips are still ..."
     publishedDateTime: 2022-09-01T23:25:00Z
@@ -118,22 +86,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "US orders Nvidia and AMD to stop selling AI chips to China"
-    excerpt: "Two of America's top chipmakers have been ordered to stop selling some of their technology to China that can be used for artificial intelligence."
-    publishedDateTime: 2022-09-01T04:28:00Z
-    webUrl: "https://www.cnn.com/2022/09/01/tech/us-nvidia-amd-chips-china-sales-block-intl-hnk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/09/01/tech/us-nvidia-amd-chips-china-sales-block-intl-hnk/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/01/tech/us-nvidia-amd-chips-china-sales-block-intl-hnk/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 87
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220831223536-01-nvidia-amd-chips-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "U.S. allows Nvidia exports needed to develop flagship AI chip"
     excerpt: "Nvidia Corp said on Thursday the U.S. government has allowed exports needed to complete the development of its flagship artificial intelligence chip, a day after it disclosed that Washington had restricted shipments of two chips to China."
     publishedDateTime: 2022-09-01T13:44:00Z
@@ -161,20 +113,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/0428h4RvpfRvCDQ6E4Ps6W4-1.fit_lim.size_1200x630.v1662024102.jpg"
         width: 1120
         height: 630
-        isCached: true
-  - title: "With new China AI chip restrictions, U.S. takes aim at a critical niche"
-    excerpt: "The United States beefed up its effort to cut off the flow of advanced technology to China by instructing Nvidia Corp and Advanced Micro Devices to stop sending their flagship artificial intelligence chips there."
-    publishedDateTime: 2022-09-01T19:37:00Z
-    webUrl: "https://www.reuters.com/markets/us/with-new-ai-chip-rules-us-takes-aim-critical-niche-2022-09-01/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/eV_gFCcnk0mB3RWyjki3Q3V9Y24=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SZN5DDVTSFM35KGV52W2454S6E.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Nvidia Stock Tumbles As US Bans AI Chip Sales To China Clients: AMD Also Hit By New Export Rules"
     excerpt: "The U.S. government unveiled fresh restrictions on the sale of computing chips for artificial intelligence to China late Wednesday, heaping pressure on Nvidia and Advanced Micro Devices shares."
@@ -238,6 +176,15 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "With New China AI Chip Restrictions, U.S. Takes Aim at a Critical Niche"
+    excerpt: "(Reuters) - The United States beefed up its effort to cut off the flow of advanced technology to China by instructing Nvidia Corp and Advanced Micro Devices to stop sending their flagship ..."
+    publishedDateTime: 2022-09-01T20:55:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2022-09-01/with-new-ai-chip-rules-u-s-takes-aim-at-a-critical-niche"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
   - title: "US Deals Heavy Blow to China Tech Ambitions With Nvidia Chip Ban"
     excerpt: "The US government’s new restrictions on the ability of Nvidia Corp. to sell artificial intelligence chips to Chinese customers threatens to deal a heavy blow to the country’s development of a sweeping range of cutting-edge technologies."
     publishedDateTime: 2022-09-02T10:58:00Z
@@ -450,15 +397,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 26
-  - title: "US restricts NVIDIA from exporting H100, A100 chips to China, Russia"
-    excerpt: "US government informs NVIDIA it has restricted the GeForce RTX giant from exporting A100 and H100 server chips to both China and Russia."
-    publishedDateTime: 2022-09-01T01:43:00Z
-    webUrl: "https://www.tweaktown.com/news/88232/us-restricts-nvidia-from-exporting-h100-a100-chips-to-china-russia/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
 
 secured: "oDMiQdX/VfoaUAZ4BnaCTC9i2vSXHfJN8eoG1np095EVTyB7cvVVHeYFjGjpP8xuyhV3fsYjCnty9bxlwX6aR7rMpW1+qy0QbMWw9Vz76+V00844CpluYPsCY5HU6o/ywdyF2FlOitL8ZUwV5hdhESkAViKMiSYr53EXIkJ8VA7J4sSfj5dChcZSBdk5sGtq2cEfFK7YzY9zH/HfjsOCftt8pK63c/gMksV8GdL4nIZsL6K3Givyug9sC+tvbwufp3OHPt/3bTOg3PdGLWbgBQWksoA9yb+2YugzJxkl7jOl5JRqB/83OnUULlJ1HJmNFNKAwWG4iVXa2KcVf7aaySZCmkUIF90vXHY5fAemYvBbcf6ktDQ+s6U51vTZlkLV1OqLZkjGtdssSQYTMwaDYScGz9E6Rk8DxylCEBdUHr3hW4jYjlJe5BLjBQbqqQT0K458lUzc3IDJorNkGZ6Rvnw8KvJUK7oKlqxMpVvw23+GvOiRRgc0evVCCIXyQbbslam3DK19F2I3eI6v35z2XA==;lob0ukYuuRVYL2Ml/Et6yg=="
 ---

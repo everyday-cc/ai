@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "New AI-based Smartphone App may Detect COVID-19 Infection"
+    excerpt: "Novel smartphone app using artificial intelligence (AI) can help detect COVID-19 infection in people’s voices."
+    publishedDateTime: 2022-09-05T21:30:00Z
+    webUrl: "https://www.medindia.net/news/healthwatch/new-ai-based-smartphone-app-may-detect-covid-19-infection-208511-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/healthwatch/new-ai-based-smartphone-app-may-detect-covid-19-infection-208511-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/healthwatch/new-ai-based-smartphone-app-may-detect-covid-19-infection-208511-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 57
+    images:
+      - url: "https://www.medindia.net/health-images/indicators-that-your-covid-19-anxiety.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "AI-backed smartphone app can detect Covid-19 in people using voice, claim scientists"
     excerpt: "According to the researchers, this method can be used in low-income countries where the RT-PCR tests are expensive and difficult to be carried out. The research finding was presented before the European Respiratory Society International Congress in Barcelona,"
     publishedDateTime: 2022-09-05T11:01:00Z

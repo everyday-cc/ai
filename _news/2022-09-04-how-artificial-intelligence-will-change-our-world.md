@@ -9,7 +9,7 @@ ampWebUrl: "https://troymedia.com/technology/how-artificial-intelligence-will-ch
 cdnAmpWebUrl: "https://troymedia-com.cdn.ampproject.org/c/s/troymedia.com/technology/how-artificial-intelligence-will-change-our-world/amp/"
 type: article
 quality: 59
-heat: 80
+heat: 79
 published: true
 
 provider:

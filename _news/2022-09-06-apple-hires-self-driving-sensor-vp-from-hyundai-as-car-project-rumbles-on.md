@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-05T18:01:00Z
 originalUrl: "https://www.imore.com/apple/apple-hires-self-driving-sensor-vp-from-hyundai-as-car-project-rumbles-on"
 webUrl: "https://www.imore.com/apple/apple-hires-self-driving-sensor-vp-from-hyundai-as-car-project-rumbles-on"
 type: article
+quality: 38
+heat: 38
+published: false
 
 provider:
   name: iMore
@@ -15,6 +18,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "jb+hti9DJ5tMIi0cZqhTLUzK+jdnqdHShL+WvN+pLixbVSxH6peml6gzpBjixy0QO8QaC1alHtJgPCsncLPjfro3U32oLHfvz9B+VPyOul8PA2QbaqR+fJDFHUqOXlZ1vjjPS1D2TmGocU8ZEd0h2KLuXTTQJI7nC3s5ILLybWHVeehw2OmX/i8Md/sRlvyGWvjBLM1td6vv1tWWZn2WnoX6A9tGA5OAG07iw1R3Z7ZgrLRD1gzIYLz3jj3naAIojzG7EnCrCGtcaWkufICGqc3bJotdgMFUSpxQj2WNORIcNUolZAoN/UlJIZCX7cdhqjXZBDAcgjiWlXGB/exy84fbpSE923jsv40oU+zRks0=;GMbAy2iSuVcPxn7Wv14gMA=="
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/6RuJ4sGCuJV5fRaonrFfRg-1200-80.jpg"
+    width: 1200
+    height: 647
+    isCached: true
+
+secured: "Wh9w4EOYSqZxCsQLiHNr4x1/rZWh/Pyv24wJZXYnoEaqjj/FE7iolfh28fwZ6FBY1X32+X78TbKFEBgBW3xXy1kzat6VZYmWOF705evzInvYl5GHrzxa2TNDdmVnMdNlqWlUvzcfcpg7WOU9mhmZ+IK5mhxdZ/BpzqPJjalGf9EgfE8qQnWJ8i96vlncAH74JTkwewlwnyGPGWs+QZc7X4BIWs5KqFWZPheOfmdwse0x6GpR59LsOm2Lu3gTWn06cBtZlVVNXscbsXEJTzLXwXnDlnIATIbRaiQ01vhE/QS/cLx7Y87fNjNDWJdaBRyDqHVnmLeZ0OnJ+yHnrklPKnGOY7NgLCi1LZVKH3gESPI=;XZFqXoM3lT6jM4hFHvUjxw=="
 ---
 
