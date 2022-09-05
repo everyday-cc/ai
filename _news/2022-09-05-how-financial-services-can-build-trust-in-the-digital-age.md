@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-05T09:44:00Z
 originalUrl: "https://www.bobsguide.com/2022/09/05/how-financial-services-can-build-trust-in-the-digital-age/"
 webUrl: "https://www.bobsguide.com/2022/09/05/how-financial-services-can-build-trust-in-the-digital-age/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Bobs Guide

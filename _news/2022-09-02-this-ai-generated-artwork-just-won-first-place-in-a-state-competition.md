@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 620
         isCached: true
-  - title: "AI wins state fair art contest, annoys humans"
-    excerpt: "Allen's victory prompted lively discussions on Twitter, Reddit, and the Midjourney Discord server about the nature of art and what it means to be an artist. Some commenters think human artistry is doomed thanks to AI and that all artists are destined to be replaced by machines."
-    publishedDateTime: 2022-08-31T21:19:00Z
-    webUrl: "https://arstechnica.com/information-technology/2022/08/ai-wins-state-fair-art-contest-annoys-humans/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/08/art_contest_winner-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "An AI-generated artwork won a state competition, and people don’t know what to think"
     excerpt: "Jason Allen entered the artwork titled “Theatre d’Opera Spatial” in the “ Digital Arts / Digitally-Manipulated Photography ” category of the Colorado State Fair fine arts competition but created the piece using a popular text-to-image AI generator named Midjourney."
     publishedDateTime: 2022-09-01T16:23:00Z
@@ -94,6 +80,22 @@ related:
       - url: "https://images.indianexpress.com/2022/09/Untitled-design-2022-09-03T141912.927.jpg"
         width: 1200
         height: 667
+        isCached: true
+  - title: "AI-generated artwork wins prize in art competition in US! Find out how"
+    excerpt: "Allen is the president of Incarnate Games, a tabletop gaming company in Colorado. His work is called \"Space Opera Theater\"."
+    publishedDateTime: 2022-09-05T15:41:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/international/us/ai-generated-artwork-wins-prize-in-art-competition-in-us-find-out-how/articleshow/94010529.cms"
+    ampWebUrl: "https://m.economictimes.com/news/international/us/ai-generated-artwork-wins-prize-in-art-competition-in-us-find-out-how/amp_articleshow/94010529.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/international/us/ai-generated-artwork-wins-prize-in-art-competition-in-us-find-out-how/amp_articleshow/94010529.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-254162,msid-94010587/ai-generated-artworkwins-prize-in-art-competition-in-us.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "AI-generated artwork wins US competition, angers art community"
     excerpt: "Allen won in the Digital Arts / Digitally Manipulated Photography category with a work called “Théâtre D'opéra Spatial” which is an AI-generated image printed on a canvas. The painting depicts a scene that resembles a space opera."

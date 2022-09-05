@@ -1,26 +1,26 @@
 ---
 category: news
 title: "University of Florida partners with SAS to tackle water quality challenges with analytics"
-excerpt: "The project will evaluate the connections between water quality and key economic sectors in the region. As part of the yearlong project, SAS and CCS will use SAS ® Viya ® on Microsoft Azure to develop a web-based water analytics platform to integrate a diversity of data streams to facilitate scientific research,"
-publishedDateTime: 2022-08-29T16:15:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-university-florida-partners-with-sas-tackle-water-quality-/2022/08/29/9663581.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-university-florida-partners-with-sas-tackle-water-quality-/2022/08/29/9663581.htm"
+excerpt: "The project will evaluate the connections between water quality and key economic sectors in the region. As part of the yearlong project, SAS and CCS will use SAS® Viya® on Microsoft Azure to develop a web-based water analytics platform to integrate a diversity of data streams to facilitate scientific research,"
+publishedDateTime: 2022-08-29T14:49:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/science-technology-water-quality-artificial-intelligence-university-of-florida-3b539368a328bb6eda66e6a3fe625976"
+webUrl: "https://apnews.com/press-release/pr-newswire/science-technology-water-quality-artificial-intelligence-university-of-florida-3b539368a328bb6eda66e6a3fe625976"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1886232/SAS_Water_Quality.jpg"
-    width: 400
-    height: 267
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "ZaQuTOMqteiINHuf8QEtDbyM1NIiDI7AvuvMg63i9jb2w89vWmmHS/7Ruxoz+1Ph+lgQXv84w/lgcjJwldHg7QXrLrQWapHn38gzbTL+wt2s7xjybbP9leuQXhuM9ro3mxh8iE+VUdNvfl8SirDYPDWbUnzzaGItbIhZeOdP42iNNv+bQAf/NjSftVOJ4+/7gdbylz2G/s+Xaxex1Hmr7U/66rNSEOka0zOe8BZpFidqcgFRU3jkTTW2W53M7Y5MZwfGTME9CdKr+vJFD3c5Sa7KJtzVi+Or78HXtQZXLIYZ4pHVI5fY3aIOdKwGd1DYcXZpQMWGbHofjdk5an9+2AW3JDlHtOXWT6Dl0JivVY9/2xmL3IVFlawxwlEAqgDGUTsyoM+i4cfuNjvVeZIE9tAMrLBdQTIFEaevp7mF/KI3HjCnCRXWd/W7/4VVSb1fcje/pFln+/xIVkoVMZo5Y77ytcKzTIcTTPqi8WjI+6w0SQdF7M0okItJoZcLQsHqVc55gLNSbjjN6L2VjZD2sQ==;MXTcDz3aF1SXpz/u9ZMMjw=="
+secured: "FZKNeRBCyIIvuubVaJPrHheaf6S/h+7KlbAl4XhO0Y3J47A/YqaP7d+AktiV+rCJ7xHYPSeXncZtBCsYAPHWpyMgYehCaL3mdOACDd4Kra01Icu9NIzDaDxjf9SnckZU36vT8DB3fG2J8DhuQGvea2DF1T2Ek1oXUumVc6Hr64fXTtDEzOjpalHYyveAP9iuMeDi7z0tWnmYcekq2i7aRKK789AEX2+A+8oeoycQLp3uyP+vz46Gar5CGUUVVdtt5LUSVyUrejpdLNERT1LCJhtf3m8wLIaEkKHM4lH7zCyheAiLqsT4Wtt//6bRbPFKp/te03TXkJrU+z4rHPC1iftwdn//xgOs0hcgO9s+veA=;XkNJA/Ez/GFyu8mR4Nw5wQ=="
 ---
 

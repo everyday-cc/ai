@@ -1,20 +1,29 @@
 ---
 category: news
 title: "Five Experts Address Trends in Artificial Intelligence and Machine Learning"
-excerpt: "Over the summer of 2022, Wow AI, a global provider of high-quality AI training data based in New York City, invited a panel of experts from different industries and areas of expertise to share their insights into the current state of artificial intelligence and machine learning (AI/ML) and discuss the factors that have accelerated the recent adoption of AI in applications."
-publishedDateTime: 2022-09-05T13:00:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/five-experts-address-trends-in-artificial-intelligence-and-machine-learning-863146899.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/five-experts-address-trends-in-artificial-intelligence-and-machine-learning-863146899.html"
+excerpt: "Trends and risks in a Golden Age of Artificial Intelligence and Machine Learning By David Churbuck, Founder & former Editor-in chief of Forbes.com NEW YORK, Sept. 5, 2022 /PRNewswire/ -- Over the summer of 2022,"
+publishedDateTime: 2022-09-05T14:26:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-five-experts-address-trends-artificial-intelligence-machine-learning-/2022/09/05/9666953.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-five-experts-address-trends-artificial-intelligence-machine-learning-/2022/09/05/9666953.htm"
 type: article
+quality: 52
+heat: 52
+published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "DkNH6sPu7MaDbNQf2EYQcT/217XWLJnGRNZS580GitxvEHSzoynrRIE8lur0MVtIltnomPHC8B5TvE5C+tOSLx8OVw/EXk6Bxr8B2OB2awy3HjglHbGgX+3yDZ9PFq/S5Y0Im8ha+f/U+pfvght3BFnK0WmxSQTz8kUBbf1TJPghcY5DbS3hMqArmWzRXc4PEqPQl5XXTKNuyB5u8JsJmVBKQaL9VhMG7lA2WTiFMb+W9oeJ90ESvDlIHxbOMeEG7XxY8ztdZJrjlTA3b3mXE594t+DpBrnHkvnQp/Ig7il6bLrAbVi4QeLkd08MWC1rc1xoLjdo42WkpeZNnxHAfooLg36wBiNJvq3BFFHSr76IjJI4/HZE1qWnB1ZwjOUqkjfoUeHCzjUSshXRsCJxZUD6bPn6DlILS09nF3qvEWgQbT99ELrvP2B1ZjO1nUtsFbii0emRWP5k1Cigh0RkVBNTf4PExOt6kRock/+FgT/YMXhkDeVmMdWszXuYee6oAG4+3QyHJ6X8t69atp+8FA==;5ryMU9EoOErYgZRh5kbHLw=="
+images:
+  - url: "https://mma.prnewswire.com/media/1890464/2__1.jpg"
+    width: 400
+    height: 210
+    isCached: true
+
+secured: "6qcA81JaH/m0gceHfedoNuEQWaB9uWQYf9wjDm8muQwuSTZWleDvQOm8njsGh3LG0YU2LkC6Tqkf4++zm3CNJhh+CzJW/4q1O+ge9LkKwPLJWdV2YOH8NXhdJj9HbQlfI//F8Wq8d3cOgo5nOmenMj6gLNlTuLQlfrDIYKaA3uS6T6K71gKm+43QpEZLkQU695gsJjTtIfrNCyrMJi5GbYwZHqbBBwyYRICXZKJ2hI3ZEJGdxCmm97F8zywIz6OJjjY+PsUdMT7r3kZtcHLEVWzCIzTi8Ga3LOJ1qnSQ1WAaeEtje5mLfTgRZOCK0bTUkip2fLmcgh/lCPTFuid7wjcnM4bKCxRltMT1Gc9BxJg=;QMxLgD3ouFI7si32hbRExA=="
 ---
 

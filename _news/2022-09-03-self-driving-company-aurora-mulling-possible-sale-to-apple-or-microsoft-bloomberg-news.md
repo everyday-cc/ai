@@ -68,6 +68,15 @@ related:
         width: 1024
         height: 517
         isCached: true
+  - title: "Self-driving tech company says a sale to Apple or Microsoft is possible"
+    excerpt: "Chris Urmson, who co-founded Aurora after running Google's self-driving car project, also outlined cost cuts and floated measures including taking the company private, spinning off or selling assets and pursuing a small capital raise in a memo labeled \"board discussion pre-read\" dated Aug."
+    publishedDateTime: 2022-09-02T19:07:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-tech-company-says-sale-apple-or-microsoft-possible"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 21
 
 secured: "8CS+3atC2sWUc7k4vJpKmdsHzDjYjFI+gOHAPP3hwnUi2JCH2NVT/yT3Gs8hc8W4+EVYMl3RYgiSzQ1Hjg2H0OErmWwfBWwGkWADL5juUhN4/mWIwO29MiwKxVO7vUqFWaqQqPhx6MDUUULPZgG4JLhTa9Lj4dlniALnlg6kYy3rht5/bPqH4YreEnkB5ol4J+i+6iF3KdNIbiiDxy73yKCaDpiXHy++Z8fYgFQaKUxxp1eb9YL70zw8QRAXU1g91vJDlRevEuVLaVbXRsYEHXz3qdO6x/wa8stjgMeozRrF5MoDSYzE/JHcbmfWmf9FVDHoAmFbyUa2jS0rfww/SPV6CNwgLDr7VwMAzUJvpJg=;WxbxkMhU35UaatYicGvN2A=="
 ---

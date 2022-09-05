@@ -37,6 +37,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "U.S. export ban on some advanced AI chips to hit almost all China tech majors - analysts"
+    excerpt: "A U.S. order to ban exports of some advanced chips to China is likely to hit almost any major tech company running public clouds or advanced artificial intelligence training modules in the country ..."
+    publishedDateTime: 2022-09-01T10:25:00Z
+    webUrl: "https://www.nasdaq.com/articles/u.s.-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts"
+    ampWebUrl: "https://www.nasdaq.com/articles/u.s.-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/u.s.-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 75
 
 secured: "j6Ll4c3yVc9zRBeabC7/A94BhRPyfDLu2eQuDUKVEMps5rq143HmiqOWDoE/cGmyX0XBIBs9ebi2bOQmYWSTbfgsMYhMQno3vE8kqPfS16VgmyKESg0PMxXlFzeKCE3eVrHFh5pjwhtFspOUX1myrIy8i1QFL9ufndV83nk+016U5KQ1eTUmcsk0TQPyEuGSFLz0oTw1aG7+qA4nHmgmvk83F63tSs7ujYDgy8MInQF7cG0MkmpR885n3KHak06MmDeSi5f80r+tDuF8LBTAtQ4vICEbAw7klmn9dbZnlaOjTD7u7wQqmx5Yalt2cTMLWQTyKt+bMkejSJj035DrjDykYMRqrz5w34CBHvaSL/+NaRf0OC6nhx+jtJ/jhP3A3Nd/XRh5+h/eFx4eqKrcYN0tjOqgKWtaRMAugJ43S6VTzw0iLRCFRBRfI05/zCVO2LbOyGlRw8JJl4tr7biiMp+VBtykXm15GW+2LTevv/0azVQ4F/k0eNdTE+2NyVwD090PcJM8hHoevXYdUPYRZQ==;R61vbVLeEy0Ai1R/hDeJ4g=="
 ---

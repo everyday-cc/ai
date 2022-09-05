@@ -28,20 +28,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
-  - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
-    excerpt: "New Jersey, NJ -- (SBWIRE) -- 08/31/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ..."
-    publishedDateTime: 2022-09-01T03:12:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-48"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 48
-    images:
-      - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "MSRcosmos recognized as a finalist of 2022 Microsoft SAP on Azure Partner of the Year"
     excerpt: "MSRcosmos recognized as a finalist of 2022 Microsoft SAP on Azure Partner of the Year - MSRcosmos has been named a finalist of 2022 Microsoft Partner of the Year Awards in the SAP on Azure"
     publishedDateTime: 2022-09-01T08:46:00Z

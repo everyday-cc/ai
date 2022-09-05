@@ -55,19 +55,21 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "DeepMind AI learns to play soccer using decades of match simulations"
-    excerpt: "An artificial intelligence learned to skilfully control digital humanoid soccer players by working through decades worth of soccer matches in just a few weeks"
-    publishedDateTime: 2022-08-31T19:50:00Z
-    webUrl: "https://www.newscientist.com/article/2336132-deepmind-ai-learns-to-play-soccer-using-decades-of-match-simulations/"
+  - title: "DeepMind is back at it again, this time teaching AI how to play football"
+    excerpt: "We’re taking a look into DeepMind’s latest venture; teaching an AI how to play the beautiful game. Which shouldn’t be harder than"
+    publishedDateTime: 2022-09-05T13:31:00Z
+    webUrl: "https://stuff.co.za/2022/09/05/deepmind-is-back-at-it-again-this-time-teaching-ai-how-to-play-football/"
+    ampWebUrl: "https://stuff.co.za/2022/09/05/deepmind-is-back-at-it-again-this-time-teaching-ai-how-to-play-football/?amp=1"
+    cdnAmpWebUrl: "https://stuff-co-za.cdn.ampproject.org/c/s/stuff.co.za/2022/09/05/deepmind-is-back-at-it-again-this-time-teaching-ai-how-to-play-football/?amp=1"
     type: article
     provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 54
+      name: stuff.co.za
+      domain: stuff.co.za
+    quality: 73
     images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/08/31163831/SEI_122197283.jpg"
-        width: 818
-        height: 545
+      - url: "https://stuff.co.za/wp-content/uploads/2022/09/Untitled-design-3-1.jpg"
+        width: 1600
+        height: 1000
         isCached: true
   - title: "DeepMind’s AI can now play football after learning how to work as a team"
     excerpt: "Google’s artificial intelligence division DeepMind has taught AI humanoids how to work as a team in order to play football together. The researchers trained physically simulated AI to play two ..."

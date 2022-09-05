@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-05T12:43:00Z
 originalUrl: "https://www.pna.gov.ph/articles/1182964"
 webUrl: "https://www.pna.gov.ph/articles/1182964"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Gov

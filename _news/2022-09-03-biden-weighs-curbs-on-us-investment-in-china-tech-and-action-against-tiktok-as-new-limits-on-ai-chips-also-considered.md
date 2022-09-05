@@ -313,20 +313,6 @@ related:
         width: 960
         height: 720
         isCached: true
-  - title: "AMD says U.S. told it to stop shipping top AI chip to China"
-    excerpt: "The company said new license requirements prevent shipment of its MI250 chips to China but it believes its MI100 chips are not affected by the new requirement. The company said it does not believe ..."
-    publishedDateTime: 2022-08-31T22:59:00Z
-    webUrl: "https://www.investing.com/news/stock-market-news/amd-says-us-told-it-to-stop-shipping-top-ai-chip-to-china-2883804"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 54
-    images:
-      - url: "https://i-invdn-com.investing.com/news/LYNXMPEB440WA_L.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Nvidia, AMD warned of new US export restrictions on AI chips"
     excerpt: "The U.S. government has issued new export licensing requirements to Nvidia and AMD for export to China and Russia of the advanced GPUs used for AI."
     publishedDateTime: 2022-08-31T23:06:00Z

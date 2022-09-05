@@ -26,38 +26,26 @@ images:
     isCached: true
 
 related:
-  - title: "Cognitive Services Market 2022 Disclosing Latest Trends and Advancement Outlook 2028 – Microsoft, Google, AWS"
-    excerpt: "Top Companies in the global Cognitive Services market are IBM, Microsoft, Google, AWS, Baidu, Nuance Communications, Qualcomm Technologies, SAS, Apple, TCS, Nokia, Expert System, Verbio Technologies,"
-    publishedDateTime: 2022-09-01T10:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-2022-disclosing-latest-trends-and-advancement-outlook-2028-microsoft-google-aws-2022-09-01"
+  - title: "Xbox’s Matt Booty Asked Microsoft To Invent AI Bot QA Testers For Games"
+    excerpt: "‘Help me figure out how to use an AI bot to go test a game.’ “Because I would love to be able to start up 10,000 instances of a game in the cloud, so there’s 10,000 copies of the game running, deploy an AI bot to spend all night testing that ..."
+    publishedDateTime: 2022-09-05T13:55:00Z
+    webUrl: "https://www.forbes.com/sites/paultassi/2022/09/05/xboxs-matt-booty-asked-microsoft-to-invent-ai-bot-qa-testers-for-games/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-  - title: "MSRcosmos recognized as a finalist of 2022 Microsoft SAP on Azure Partner of the Year"
-    excerpt: "MSRcosmos recognized as a finalist of 2022 Microsoft SAP on Azure Partner of the Year - MSRcosmos has been named a finalist of 2022 Microsoft Partner of the Year Awards in the SAP on Azure"
-    publishedDateTime: 2022-09-01T08:46:00Z
-    webUrl: "https://www.siliconindia.com/news/general/msrcosmos-recognized-as-a-finalist-of-2022-microsoft-sap-on-azure-partner-of-the-year-nid-219888-cid-1.html"
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+  - title: "Xbox's Matt Booty Dreams About Using AI To Do QA Testing"
+    excerpt: "So Matt Booty will no doubt have enamored himself no end to such people with the weekend’s tone-deaf statement. As reported by VGC, Booty was explaining how each time a new feature is added, a game needs to be re-tested start to finish."
+    publishedDateTime: 2022-09-05T12:12:00Z
+    webUrl: "https://kotaku.com/xbox-microsoft-matt-booty-qa-crunch-ai-mistreatment-1849496926"
+    ampWebUrl: "https://kotaku.com/xbox-microsoft-matt-booty-qa-crunch-ai-mistreatment-1849496926/amp"
+    cdnAmpWebUrl: "https://kotaku-com.cdn.ampproject.org/c/s/kotaku.com/xbox-microsoft-matt-booty-qa-crunch-ai-mistreatment-1849496926/amp"
     type: article
     provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 47
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/K0DC9WQA.jpg"
-        width: 570
-        height: 367
-        isCached: true
-  - title: "Microsoft's Ed Doran becomes a chief of staff at Google"
-    excerpt: "Doran is best known for co-founding the Cortana project, Microsoft's unsuccessful cloud-based virtual assistant. Doran said that, while at Microsoft for more than 13 years, he cofounded four separate billion-dollar product new projects/businesses,"
-    publishedDateTime: 2022-09-04T13:29:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsofts-ed-doran-becomes-a-chief-of-staff-at-google/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 19
+      name: Kotaku
+      domain: kotaku.com
+    quality: 37
 
 secured: "dMZCKGiIdZwXnsNOemn9Q7x1jGtyioEQn5HRq5tx1af61K0FxJiWFRKFSFOK2thvjA5AaLyb5N2qrO8hkNPVNHJPcsETAHZCt4MgzXUCnqETjCiuaTTXouf5g2NQ3z7jcGXKftIrn9/YyJUni4ugcjzvj6xrGaNORyGj5o8IWEGOuFGOtTuU3bZYH1nmQbZz3Ic/TW9MBxDILoCbvLpgpu0kv3ae8cVLbmW3P8DNXHEJyNvc/LO5pApechL4bLxdshfvsTaczlCYcEYwf6tzD7fiBOOl4oPxFGjq/+hCuZAL+hLaYxn6R4e7JpMkfATtwlDehcL7WTb3bnQ8/GOuRnCNxIMa8fzQTaFuT76Ihd0=;ZSfLFw2v9kR5wG7uywSJvA=="
 ---

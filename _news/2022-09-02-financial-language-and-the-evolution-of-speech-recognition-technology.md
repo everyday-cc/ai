@@ -9,7 +9,7 @@ ampWebUrl: "https://www.globalbankingandfinance.com/financial-language-and-the-e
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/financial-language-and-the-evolution-of-speech-recognition-technology/"
 type: article
 quality: 59
-heat: 79
+heat: 99
 published: true
 
 provider:
@@ -57,6 +57,24 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Iran to use facial recognition technology to enforce grim new laws on women"
+    excerpt: "Iran is introducing an oppressive tightening of its strict hijab laws. Women can be spotted by facial recognition technology on public transport if they do not dress 'correctly'"
+    publishedDateTime: 2022-09-05T12:19:00Z
+    webUrl: "https://www.mirror.co.uk/news/world-news/iran-use-facial-recognition-technology-27910625"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 17
+  - title: "Lexicala Launches New Multilingual Lexical Data Solutions for the Language Technology Industry"
+    excerpt: "Lexicala has already won the first deal from a leading international corporation to provide parallel corpora for its machine translation systems TEL AVIV, Israel, Sept. 5, 2022 // -- Lexicala, a conte"
+    publishedDateTime: 2022-09-05T10:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/n28746839/lexicala-launches-new-multilingual-lexical-data-solutions-for-the-language-technology-industry"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "Dz1MG9gVACsN2FVJOaXLFKHJWVdCa32L/Y75ZIP3RoypYo5Woq/7LbuFqYVqOvgUG+ws1tNSvbe+IrkRAgskHAfFj9AxoYvRMG+5idcHnFXeBgqCv7oeYAH3t7N7ul+l0XoHMiIP//RQXmFHOr+Iqom/LU9eypFv7kboLGxiz8OPwzYTp7t94LZwjRGd26KajbN1dF+N1In7R/b3mBoD3GtHtDl+zvT/lRxcSNiCpgcU10+04XB5q6gP/E0cAm3znn9PXzDpodaYpDmYprdeUSBCWSMh0dk7EOxvPJaOKBTfaQAlObCHTnhyUoM8N55aHNoLpaVnGXZjK5dJB9mwin/t06JsBuIO2qfwtZAW7sDlNr57WSsiMvxoB5rtAdwZ9Q7XdJ0yNj501hIS03nxw5rGPGZjiMADym/PFAuVn56mdWMBxrS7asqfpvzFTQfoESKUtN55KE9HheRoabwQxTuNX5ksXGFGYftRusV2nVq1TaCBo8y5CpYl4s+dCDN3rE/r/lmWlC4wVVbVS9zoMw==;YxVwu27txhqDaZ7VO7iZog=="
 ---

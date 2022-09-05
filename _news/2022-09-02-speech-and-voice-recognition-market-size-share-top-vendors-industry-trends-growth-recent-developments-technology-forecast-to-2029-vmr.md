@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Thermometer with Face Recognition Market Global Outlook, and Forecast 2022 To 2028."
+    excerpt: "The \" Thermometer with Face Recognition Market Research Report \" published by Report Mines is segmented into regions (country), Company, Application, and Type. The report presents the research and analysis provided within the Thermometer with Face Recognition Market Research is meant to benefit stakeholders,"
+    publishedDateTime: 2022-09-02T08:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/thermometer-with-face-recognition-market-global-outlook-and-forecast-2022-to-2028-2022-09-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI Chatbot Market 2022 Size, Share, Industry Top Leaders, Growth Factors, Trends, Competitive Landscape and Regional Forecast 2029"
     excerpt: "The research report on the Global AI Chatbot Market 2022 provides consumption market share by region, segment analysis, revenue estimates, production capacity by region, and size estimates. The AI Chatbot Market report also includes recent developments,"
     publishedDateTime: 2022-09-05T07:44:00Z
@@ -43,15 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Artificial Intelligence Market Share, Size, Growth, Future Trends, Key Players and Industry Analysis 2022-2028"
-    excerpt: "The global Automotive Artificial Intelligence market is segregated on the basis of Component as Hardware, Software,"
-    publishedDateTime: 2022-09-01T14:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-share-size-growth-future-trends-key-players-and-industry-analysis-2022-2028-2022-09-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
 
 secured: "aqKSB3AORKgH6ZLl+GByIKHqLYFLCTTxYyFfZROOqfKzcLLincF2zzN59+VsVDlsy51YyBm8ott6wbwj4FGZnQYDIF5L9s9V8N12opZfjSkzZjX7uB7aIl1gUf6QnqxHrNFVFaL0fODbWQ2w7TFRg5OYJdcHx/KIDxSbLpxPiqyW4BrzCWNJ03QD0QswuGi36qT4HnXXjpAiVQNg2Ypp8Qmz9GKjQv/a5ZnNqIN8KrP+ANZapnd/wJazc+KH6rWcna2Bw5+QzQPp82WB3j0tY1DimeYnysXS6RZTSDDoG3JEAmUM4O2D3ZLqhnG+0q85JNBtYqGEmZiOh1aoBM174bg/3xJ0oiwDZWS0CWaMg0k=;yDJt/0MxzgFET4asAO3tLQ=="
 ---

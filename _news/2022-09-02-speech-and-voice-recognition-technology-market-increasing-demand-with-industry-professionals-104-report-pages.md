@@ -61,6 +61,24 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Iran to use facial recognition technology to enforce grim new laws on women"
+    excerpt: "Iran is introducing an oppressive tightening of its strict hijab laws. Women can be spotted by facial recognition technology on public transport if they do not dress 'correctly'"
+    publishedDateTime: 2022-09-05T12:19:00Z
+    webUrl: "https://www.mirror.co.uk/news/world-news/iran-use-facial-recognition-technology-27910625"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 17
+  - title: "Lexicala Launches New Multilingual Lexical Data Solutions for the Language Technology Industry"
+    excerpt: "Lexicala has already won the first deal from a leading international corporation to provide parallel corpora for its machine translation systems TEL AVIV, Israel, Sept. 5, 2022 // -- Lexicala, a conte"
+    publishedDateTime: 2022-09-05T10:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/n28746839/lexicala-launches-new-multilingual-lexical-data-solutions-for-the-language-technology-industry"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "ghoTxH1uGlMRNYoKvN4OtY4BwL2+FZpUrw3bttJxiERIjrH8tMcCxB6fOTUQQ/FJla1NWR5rp1MDcv/nu1iTZH0lMvvEKhueAVODuJCAnWVmkvs51QQYd9b7LSw1ZOfgn6qfZcLBkrmdKhie11eEMTWuUzaG6/QWTr20AU0v+aq5ahEiOxCk/P100g93d5rZyS2k2+wSAALM4Z2z7lTkDls1Y62YT1ZjfmSfvZPnF+7IoNbq4jt1/RW/CBFIQvxnBCGui/hWFerlYuxxJ2aUHD/x0nM0V1XY2+U55rVYGauBKs4xfk3B89e4Pbq8h2+B+v1/C3x2ObiJ9wWlPTZfRwEH4DdEM3HxMjiaKwOAbFk=;rXfQ56bCqjCrXbTL8T6lag=="
 ---

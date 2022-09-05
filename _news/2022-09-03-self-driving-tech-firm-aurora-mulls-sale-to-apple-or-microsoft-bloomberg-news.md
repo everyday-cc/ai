@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/self-driving-company-aurora-mul
 webUrl: "https://www.reuters.com/technology/self-driving-company-aurora-mulling-possible-sale-apple-or-microsoft-bloomberg-2022-09-02/"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -69,6 +69,15 @@ related:
         width: 1024
         height: 517
         isCached: true
+  - title: "Self-driving tech company says a sale to Apple or Microsoft is possible"
+    excerpt: "Chris Urmson, who co-founded Aurora after running Google's self-driving car project, also outlined cost cuts and floated measures including taking the company private, spinning off or selling assets and pursuing a small capital raise in a memo labeled \"board discussion pre-read\" dated Aug."
+    publishedDateTime: 2022-09-02T19:07:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-tech-company-says-sale-apple-or-microsoft-possible"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 21
 
 secured: "/afVUA7Qfyi8S9HlBhsOzJ5qsClO9LUCBtZGI3BdvKQtYQParWlYRXJl9ak1491WwFShpqob4C9oblFAMuW8KKeYUgxTRqHk9sDw8flW5ApksVW35JQgsZ5tlISaFjpdOZvcQ/4mEqf+lPUgnZBY5N8GJvlPH6L5Nri1RoIvcEwoT1sHZxjWHTsrdSn87dy8ifTHrWMtCf4YcIJxLjMUTgAit5QHgWo4ZT00PkHYDbGK4a9F2eExO669OiTgZRRd0k9m129i20UsGyAmLJdrfn1SGz6GBqRYpBjOh/E6nleLPZpPfFuPg3U8nn1pf3EhGQQA2CTbEFYarhzS/8ZZ7c7abqH8wlZOcR3NIgjN3vj3ugkeycLXhoAwQyCdOMoEmH8lwcq9u9vHVb0V1C1F4VjLhRpLk9g2ehh09RC/9/lBp0t5/aOlEM0ygepBOmWw98NdkM3nXWKbvDvYO+6ICel+7aESLZqH9TeW/fx+mZQ0YNiBORP+YFm2dO+R0QnnfThV17Bf5i76y7m0zXMaRA==;D20ALs+LCPs03WS3OhxbCQ=="
 ---

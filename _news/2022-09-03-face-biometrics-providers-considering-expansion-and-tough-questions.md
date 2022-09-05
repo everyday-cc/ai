@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202209/face-biometrics-providers-c
 webUrl: "https://www.biometricupdate.com/202209/face-biometrics-providers-considering-expansion-and-tough-questions"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Gait recognition could be better than face biometrics to ID coboting workers"
-    excerpt: "Citing the need for a workplace robot to know the humans working around it, researchers say gait recognition is the better option compared to face biometrics."
-    publishedDateTime: 2022-08-31T21:43:00Z
-    webUrl: "https://www.biometricupdate.com/202208/gait-recognition-could-be-better-than-face-biometrics-to-id-coboting-workers"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/05/01173355/biometric-gait-recognition.jpg"
-        width: 852
-        height: 480
-        isCached: true
   - title: "Voice Biometrics Market Is Expected To Grow As Biometrics Used As Credentials Thorough Algorithms To Verify Users."
     excerpt: "The size of the global voice biometrics market is anticipated to grow at a revenue CAGR of 22.3% from 2017 to 2028, reaching USD 5,889.9 million. Voice biometrics market revenue growth is anticipated to be driven by the rising requirement for more reliable and secure means of operating and accessing components,"
     publishedDateTime: 2022-09-02T00:55:00Z

@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Gait recognition could be better than face biometrics to ID coboting workers"
-    excerpt: "Citing the need for a workplace robot to know the humans working around it, researchers say gait recognition is the better option compared to face biometrics."
-    publishedDateTime: 2022-08-31T21:43:00Z
-    webUrl: "https://www.biometricupdate.com/202208/gait-recognition-could-be-better-than-face-biometrics-to-id-coboting-workers"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/05/01173355/biometric-gait-recognition.jpg"
-        width: 852
-        height: 480
-        isCached: true
   - title: "Face biometrics providers considering expansion and tough questions"
     excerpt: "Biometrics are reaching a crucial point in the adoption curve, with new research forecasting that people are ready to use biometric technologies."
     publishedDateTime: 2022-09-03T15:29:00Z

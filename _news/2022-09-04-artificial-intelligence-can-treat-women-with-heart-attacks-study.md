@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/current-affairs/artifi
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/current-affairs/artificial-intelligence-can-treat-women-with-heart-attacks-study-122090301231_1.html"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,19 +25,6 @@ images:
     width: 620
     height: 464
     isCached: true
-
-related:
-  - title: "University of Zurich: Artificial Intelligence Improves Treatment in Women with Heart Attacks"
-    excerpt: "Researchers at the University of Zurich have now developed a novel artificial-intelligence-based risk score ... These symptoms are unfortunately often misinterpreted by the patients and healthcare personnel – with disastrous consequences."
-    publishedDateTime: 2022-08-31T23:04:00Z
-    webUrl: "https://indiaeducationdiary.in/university-of-zurich-artificial-intelligence-improves-treatment-in-women-with-heart-attacks/"
-    ampWebUrl: "https://indiaeducationdiary.in/university-of-zurich-artificial-intelligence-improves-treatment-in-women-with-heart-attacks/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-zurich-artificial-intelligence-improves-treatment-in-women-with-heart-attacks/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 28
 
 secured: "mf6j5o3oU/RSwpgXGZj7Wvs9X5yt17/VIr6IxTn94rmrZtufgxj1W9YzGSz/Wfbb7AL/3PqO4AAmGZ7IgOs/nK117ELOgxYfgvfzgOtKmN/go3yLYtkan4ucJi2FhO2LPa9wrnTISn81fArix1AFCCsvWQtnCIVdPNW7lxVqtKjni62uuBVgOzpO5m5lnZJlA71w6H/znhpQWAgx6Yf1ofhgPskqAgm+DqI2WCKaOx0T8Iyap4rSmdHZCkxsdS6hRLPPRB5zyA38ylVAEgvP+XvrBL7hUIej/hqngAq7ZISA6H3EjFq9gfrrmqS7oAyAM6Pq2XUOUGPtAcS2Yza2/qAs1xcwMRPDCp2m6ZERuYo3TeOtT5t5/yxK3lFlm0cFRsnBTzcx1NPytMSETdQIn1hUShCfH97eyir0BvDLRLcGIxgOyG7VMyqDIIhkHj5ykZ/Cu7sPzanVR8W6yY9gbImse6GYDWbOG3irWwWCZc/2YgBX6yFgGRnaDxl+TcxS+/HTf8tMj2ZcDh+17MjUog==;8tykT50DaGj9kjxo2vVQWA=="
 ---

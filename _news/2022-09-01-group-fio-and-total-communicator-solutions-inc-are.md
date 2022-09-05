@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-01T10:42:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-group-fio-total-communicator-solutions-inc-announcing-collaboration-/2022/09/01/9665659.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-group-fio-total-communicator-solutions-inc-announcing-collaboration-/2022/09/01/9665659.htm"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: TMCnet
