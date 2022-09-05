@@ -83,15 +83,6 @@ related:
         width: 1500
         height: 800
         isCached: true
-  - title: "Watch DeepMind's digital humanoids learn to play soccer"
-    excerpt: "DeepMind’s artificial intelligence has learned to play soccer. By learning from decades worth of computer simulations, the AI took digital humanoids from flailing tots to proficient players. DeepMind researchers trained the AI how to play soccer in a computer simulation through an athletic curriculum resembling a sped-up version of growing a human baby into a football player."
-    publishedDateTime: 2022-08-31T18:00:00Z
-    webUrl: "https://www.newscientist.com/video/2336145-watch-deepminds-digital-humanoids-learn-to-play-soccer/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 19
 
 secured: "7b6h06Fc72Yux/Db4YFsFP1yPIh83bc5D6WDvXZ4rtBxTauJ/53UFa24vTV5L87QUDbVFCTxzhn7MPcKXo3wJt8ldFK5mpC6A8SfXvUru6zngr4rYBc6omU98e+6B+zdWL0TO7OKGON1KBXOY4HpVaccqD0V/BQSFCRWHDL9KSnQwwuS7VR+XnTncnT5BaWys+NMCV9gEK6E5jYKmjVxV5h/hoizz+12sL//iepYU26gRrj5idjuJ8ulIXtPoYGonGkh6lBUhlJ9ll8Dcd/IxYSL4U3/flgpJruSmqbsJBiFIT5m/wKX4v1zKSgYGvXvSy5+FkacLrZuvStTdSyiMpEQJYekRzRQxrc39QAy7WQ=;tqGWpxfYod7ORAtPiUOy8g=="
 ---

@@ -2,6 +2,144 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2022-08-10-chinas-baidu-to-operate-driverless-taxis-in-two-cities.md",
+      "title": "China's Baidu to operate driverless taxis in two cities",
+      "excerpt": "WUHAN - Chinese tech giant Baidu has obtained permission to operate fully driverless taxis commercially on public roads in the cities of Wuhan and Chongqing. Baidu will offer the commercial robotaxi service -- with no driver present -- in some areas of the two cities via the company's autonomous ride-hailing platform Apollo Go.",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202208/10/WS62f38671a310fd2b29e71788.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202208/10/WS62f38671a310fd2b29e71788.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img2.chinadaily.com.cn/images/202208/10/62f38671a310fd2bec9b7f07.jpeg",
+          "width": 660,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T04:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-the-morning-after-kim-kardashian-is-the-face-of-beats-skin-colored-earbuds.md",
+      "title": "The Morning After: Kim Kardashian is the face of Beats’ skin-colored earbuds",
+      "excerpt": "President Biden signs CHIPS Act to boost semiconductor production, Kim Kardashian is the face of Beat’s skin-colored earbuds, Ford will reopen F-150 Lightning orders this week at a much higher starting price.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/the-morning-after-kim-kardashian-is-the-face-of-beats-skin-colored-earbuds-111518653.html",
+      "originalUrl": "https://www.engadget.com/the-morning-after-kim-kardashian-is-the-face-of-beats-skin-colored-earbuds-111518653.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-08/42f12f10-14fc-11ed-9deb-223f6720bcd5",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/the-morning-after-kim-kardashian-is-the-face-of-beats-skin-colored-earbuds-111518653.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/the-morning-after-kim-kardashian-is-the-face-of-beats-skin-colored-earbuds-111518653.html",
+      "publishedDateTime": "2022-08-10T04:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-top-5-bitcoin-trading-robots-for-2022.md",
+      "title": "Top 5 Bitcoin Trading Robots for 2022",
+      "excerpt": "Crypto trading robots must be alert and available to trade at all times if they want to make the greatest transactions. Once again, some traders can lose out on successful transactions due to trading slowdowns and transaction delays.",
+      "sourceUrl": null,
+      "webUrl": "https://www.peacefmonline.com/pages/business/news/202208/471995.php",
+      "originalUrl": "https://www.peacefmonline.com/pages/business/news/202208/471995.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://w5p2r8x5.stackpathcdn.com/photos/news/202111/768212374_698734.jpg",
+          "width": 600,
+          "height": 444,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Peace FM Online",
+        "domain": "peacefmonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-machine-learning-is-causing-a-reproducibility-crisis-in-science.md",
       "title": "Machine Learning Is Causing a ‘Reproducibility Crisis’ in Science",
       "excerpt": "AI hype has researchers in fields from medicine to political science rushing to use techniques that they don’t always understand—causing a wave of spurious results.",
@@ -1019,142 +1157,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-teslas-self-driving-technology-fails-to-detect-children-in-the-road-tests-find.md",
-      "title": "Tesla’s self-driving technology fails to detect children in the road, tests find",
-      "excerpt": "Professional test driver using Tesla’s Full Self-Driving mode repeatedly hit a child-sized mannequin in its path A safe-technology advocacy group issued claimed on Tuesday that Tesla’s full ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/aug/09/tesla-self-driving-technology-safety-children?source=Snapzu",
-      "originalUrl": "https://www.theguardian.com/technology/2022/aug/09/tesla-self-driving-technology-safety-children?source=Snapzu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/6618f44ee85df1594f8482429ec86c85ae6385a6/0_275_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=fbf921f078e580f8b039211ce1212cdb",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2022/aug/09/tesla-self-driving-technology-safety-children",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/09/tesla-self-driving-technology-safety-children",
-      "publishedDateTime": "2022-08-09T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months.md",
-      "title": "Artificial intelligence innovation among automotive industry companies has dropped off in the last three months",
-      "excerpt": "Analysis of patent filings shows a shrinking level of AI related applications in the industry over the past three months, compared to last year",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-auto.com/analysis/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months/",
-      "originalUrl": "https://www.just-auto.com/analysis/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2022/08/KrBV9-1038x778.png",
-          "width": 1038,
-          "height": 778,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Just Auto",
-        "domain": "just-auto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-artificial-intelligence-innovation-among-power-industry-companies-has-dropped-off-in-the-last-three-months.md",
-      "title": "Artificial intelligence innovation among power industry companies has dropped off in the last three months",
-      "excerpt": "Research and innovation in artificial intelligence in the power industry operations and technologies sector has declined in the last year. The most recent figures show that the number of AI related patent applications in the industry stood at 286 in the th ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.power-technology.com/analysis/artificial-intelligence-innovation-among-power-industry-companies-has-dropped-off-in-the-last-three-months/",
-      "originalUrl": "https://www.power-technology.com/analysis/artificial-intelligence-innovation-among-power-industry-companies-has-dropped-off-in-the-last-three-months/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.power-technology.com/wp-content/uploads/sites/21/2022/08/s0jN5-1038x778.png",
-          "width": 1038,
-          "height": 778,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "power-technology",
-        "domain": "power-technology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

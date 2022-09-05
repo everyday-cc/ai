@@ -2,6 +2,126 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2022-08-08-natural-language-processing-in-and-for-design-research.md",
+      "title": "Natural language processing in-and-for design research",
+      "excerpt": "Natural language processing in-and-for design research - Volume 8",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/design-science/article/natural-language-processing-inandfor-design-research/5EE5CF29BC6632A1280EA30574D54076",
+      "originalUrl": "https://www.cambridge.org/core/journals/design-science/article/natural-language-processing-inandfor-design-research/5EE5CF29BC6632A1280EA30574D54076",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-using-ai-chips-to-design-better-ai-chips.md",
+      "title": "Using AI Chips To Design Better AI Chips",
+      "excerpt": "Nvidia’s “Hopper” GPU architecture, introduced in March and expanding the company’s already expansive focus on AI, machine learning and neural networks, contains almost 13,000 instances of circuits designed using AI techniques. In a six-page ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2022/08/08/using-ai-chips-to-design-better-ai-chips/",
+      "originalUrl": "https://www.nextplatform.com/2022/08/08/using-ai-chips-to-design-better-ai-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/nvidia-hopper-die-shot.jpg",
+          "width": 435,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2022/08/08/using-ai-chips-to-design-better-ai-chips/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/08/08/using-ai-chips-to-design-better-ai-chips/amp/",
+      "publishedDateTime": "2022-08-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-your-financial-road-map-in-an-uncertain-future.md",
+      "title": "Your Financial Road Map in an Uncertain Future",
+      "excerpt": "Edward-Elmhurst Health has also been named a Top 15 Health System in the country for the fourth year in a row by IBM Watson Health/Fortune ... adopt tech that will reduce expenses through artificial intelligence [AI],\" Chamberlain says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthleadersmedia.com/finance/your-financial-road-map-uncertain-future",
+      "originalUrl": "https://www.healthleadersmedia.com/finance/your-financial-road-map-uncertain-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.healthleadersmedia.com/sites/hlmp/files/files/Jim%20Dietsche.jpg",
+          "width": 2732,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HealthLeaders Media",
+        "domain": "healthleadersmedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-08-risks-posed-by-ai-are-real-eu-moves-to-beat-the-algorithms-that-ruin-lives.md",
       "title": "‘Risks posed by AI are real’: EU moves to beat the algorithms that ruin lives",
       "excerpt": "Darko Matovski, the chief executive and co-founder of London-headquartered AI startup causaLens, believes his firm is among them. The startup, which publicly launched in January 2021, has already ...",
@@ -1030,136 +1150,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-06-accelerating-azure-databricks-runtime-for-machine-learning.md",
-      "title": "Accelerating Azure Databricks Runtime for Machine Learning",
-      "excerpt": "Intel-optimized ML libraries on Azure Databricks Databricks Runtime for Machine Learning includes the stock versions of scikit-learn and TensorFlow. To boost performance, however, Intel engineers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3669311/accelerating-azure-databricks-runtime-for-machine-learning.html",
-      "originalUrl": "https://www.infoworld.com/article/3669311/accelerating-azure-databricks-runtime-for-machine-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2022/08/istock-1135710814-article-3-100930991-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-05T15:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-06-open-source-protein-structures-dtns-4332.md",
-      "title": "Open Source Protein Structures – DTNS 4332",
-      "excerpt": "DeepMind announced it was releasing and making free the expanded database filled with 200 million highly accurate protein structure predictions generated by DeepMind’s AI,",
-      "sourceUrl": null,
-      "webUrl": "https://dailytechnewsshow.com/2022/08/05/open-source-protein-structures-dtns-4332/",
-      "originalUrl": "https://dailytechnewsshow.com/2022/08/05/open-source-protein-structures-dtns-4332/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-05T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Tech News Show",
-        "domain": "dailytechnewsshow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-06-cognitive-rehab-may-help-older-adults-clear-covid-related-brain-fog.md",
-      "title": "Cognitive Rehab May Help Older Adults Clear Covid-Related Brain Fog",
-      "excerpt": "Eight months after falling ill with covid-19, the 73-year-old woman couldn’t remember what her husband had told her a few hours before. She would forget to remove laundry from the dryer at the ...",
-      "sourceUrl": null,
-      "webUrl": "https://khn.org/news/article/cognitive-rehab-older-adults-covid-brain-fog/",
-      "originalUrl": "https://khn.org/news/article/cognitive-rehab-older-adults-covid-brain-fog/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://khn.org/wp-content/uploads/sites/2/2022/08/GettyImages-1333713912.jpeg",
-          "width": 3840,
-          "height": 2560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://khn.org/news/article/cognitive-rehab-older-adults-covid-brain-fog/amp/",
-      "cdnAmpWebUrl": "https://khn-org.cdn.ampproject.org/c/s/khn.org/news/article/cognitive-rehab-older-adults-covid-brain-fog/amp/",
-      "publishedDateTime": "2022-08-05T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kaiser Health News",
-        "domain": "khn.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

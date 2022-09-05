@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Swiss National Bank Has $1.28 Million Stake in Veritone, Inc. (NASDAQ:VERI)"
+    excerpt: "Swiss National Bank lifted its position in shares of Veritone, Inc. (NASDAQ:VERI – Get Rating) by 14.2% in the 1st quarter, HoldingsChannel reports. The institutional investor owned 70,100 shares of the company’s stock after purchasing an additional 8,"
+    publishedDateTime: 2022-09-05T08:16:00Z
+    webUrl: "https://www.defenseworld.net/2022/09/05/swiss-national-bank-has-1-28-million-stake-in-veritone-inc-nasdaqveri.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 19
   - title: "Cambridge Investment Research Advisors Inc. Grows Position in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT)"
     excerpt: "Cambridge Investment Research Advisors Inc. increased its position in shares of First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) by 12.0% during the first quarter,"
     publishedDateTime: 2022-09-03T10:16:00Z

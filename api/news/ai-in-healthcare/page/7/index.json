@@ -2,6 +2,59 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-21-artificial-intelligence-could-be-about-to-change-soccer-player-scouting.md",
+      "title": "Artificial Intelligence Could Be About To Change Soccer Player Scouting",
+      "excerpt": "Chelsea are among the clubs using a phone app based on AI to help them scout players. The app allows scouts to compare amateurs' ability with the benchmarks set by the clubs' own players.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/steveprice/2022/06/21/artificial-intelligence-could-be-about-to-change-soccer-player-scouting/",
+      "originalUrl": "https://www.forbes.com/sites/steveprice/2022/06/21/artificial-intelligence-could-be-about-to-change-soccer-player-scouting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62b03e9a7db151884b3b268d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/steveprice/2022/06/21/artificial-intelligence-could-be-about-to-change-soccer-player-scouting/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveprice/2022/06/21/artificial-intelligence-could-be-about-to-change-soccer-player-scouting/amp/",
+      "publishedDateTime": "2022-06-21T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-06-21-responsible-ai-in-healthcare-addressing-biases-and-equitable-outcomes.md",
       "title": "Responsible AI in healthcare: Addressing biases and equitable outcomes",
       "excerpt": "So what does that look like? A call to fight bias with the help of algorithms Let’s start by talking about when AI fails and when AI succeeds at organizations overall. MIT and Boston ...",
@@ -1334,50 +1387,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-artificial-intelligence-with-metamemory-acts-more-humanlike.md",
-      "title": "Artificial Intelligence With Metamemory Acts More Humanlike",
-      "excerpt": "A new study reveals the creation of a new artificial intelligence (AI) machine-learning algorithm with an adaptable intelligence based on what it already knows—a step toward endowing machines ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike",
-      "originalUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-06/pic907815.jpg?itok=4iHfALuG",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/au/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike?amp",
-      "publishedDateTime": "2022-06-09T16:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

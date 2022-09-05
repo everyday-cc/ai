@@ -2,6 +2,152 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-08-30-mits-ai-model-can-detect-parkinsons-by-tracking-breathing-patterns.md",
+      "title": "MITs AI model can detect Parkinsons by tracking breathing patterns",
+      "excerpt": "The U.S. Dina Katabi Dina Katabi, the Thuan and Nicole Pham Professor in the Department of Electrical Engineering and Computer Science (EECS) at MIT and principal investigator at MIT Jameel Clinic, and her team have developed an artificial intelligence model that can detect Parkinson’s just from reading a person’s breathing patterns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.poandpo.com/in-sickness-and-health/mit_s_ai_model_can_detect_parkinson_s_by_tracking_breathing_patterns/",
+      "originalUrl": "https://www.poandpo.com/in-sickness-and-health/mit_s_ai_model_can_detect_parkinson_s_by_tracking_breathing_patterns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/scotfiles/image/fetch/https://www.histerius.com/hs0822/dina_katabi.jpg",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.poandpo.com/in-sickness-and-health/mit_s_ai_model_can_detect_parkinson_s_by_tracking_breathing_patterns.amp",
+      "cdnAmpWebUrl": "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/in-sickness-and-health/mit_s_ai_model_can_detect_parkinson_s_by_tracking_breathing_patterns.amp",
+      "publishedDateTime": "2022-08-30T04:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "poandpo.com",
+        "domain": "poandpo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-ai-vs-ai-the-battle-against-human-level-cognitive-threats.md",
+      "title": "AI Vs. AI: The Battle Against Human-Level Cognitive Threats",
+      "excerpt": "One of the greatest threats that AI represents today is how it can be abused by cybercriminals, specifically in its capability to deceive people and trick them into engaging in actions with unwanted or underestimated consequences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/30/ai-vs-ai-the-battle-against-human-level-cognitive-threats/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/30/ai-vs-ai-the-battle-against-human-level-cognitive-threats/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/630cc41128e9e1b5d87ec5a3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/30/ai-vs-ai-the-battle-against-human-level-cognitive-threats/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/30/ai-vs-ai-the-battle-against-human-level-cognitive-threats/amp/",
+      "publishedDateTime": "2022-08-30T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-tarci-secures-capital-for-ai-designed-to-spot-smb-sales-leads.md",
+      "title": "Tarci secures capital for AI designed to spot SMB sales leads",
+      "excerpt": "Tarci, formerly Leadgence, uses AI -- specifically natural language processing -- to track and analyze small- and medium-sized businesses for potential sales opportunities.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/30/tarci-lands-capital-for-ai-designed-to-spot-smb-sales-leads/",
+      "originalUrl": "https://techcrunch.com/2022/08/30/tarci-lands-capital-for-ai-designed-to-spot-smb-sales-leads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-645973021.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/30/tarci-lands-capital-for-ai-designed-to-spot-smb-sales-leads/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/30/tarci-lands-capital-for-ai-designed-to-spot-smb-sales-leads/amp/",
+      "publishedDateTime": "2022-08-30T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-baidu-revenue-contracts-but-beats-estimates-on-cloud-business-growth.md",
       "title": "Baidu revenue contracts but beats estimates on cloud business growth",
       "excerpt": "Revenue at Baidu's AI Cloud unit grew 31% year-on-year in the quarter. Baidu has also been doubling down on self-driving technologies, in which it has heavily invested over the past five years.",
@@ -367,6 +513,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-30-aws-launches-region-in-the-united-arab-emirates.md",
+      "title": "AWS Launches Region in the United Arab Emirates",
+      "excerpt": "We have automated student attendance using Amazon Rekognition, reducing 93% of the time spent in marking attendance. We have also developed an automated quiz generation and assessment platform ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/aws-launches-region-in-the-united-arab-emirates/article_6090d8da-9a73-523e-88f7-1c8fbecc5e55.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/aws-launches-region-in-the-united-arab-emirates/article_6090d8da-9a73-523e-88f7-1c8fbecc5e55.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg",
+          "width": 350,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T23:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-can-a-metaverse-ai-win-americas-got-talent-and-what-that-means-for-the-industry.md",
       "title": "Can A Metaverse AI Win America's Got Talent? (And What That Means For The Industry)",
       "excerpt": "When “Simon Cowell” performed on the America’s Got Talent stage, no one was more shocked than the man himself. How did this happen? In their one-of-a-kind audition, leading AI company Metaphysic transformed singer Daniel Emmet into Cowell and earned a spot in the semifinals.",
@@ -414,49 +603,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-aws-launches-region-in-the-united-arab-emirates.md",
-      "title": "AWS Launches Region in the United Arab Emirates",
-      "excerpt": "AWS is committed to helping customers in the UAE deploy the most advanced cloud technologies and achieve the highest levels of security, availability, and resiliency,” said Prasad Kalyanaraman, vice president of Infrastructure Services at AWS.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-middle-east-economy-amazoncom-inc-d9b9452aac444bf3821796b7f621f354",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-middle-east-economy-amazoncom-inc-d9b9452aac444bf3821796b7f621f354",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T23:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     },
@@ -1035,154 +1181,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-use-of-facial-recognition-as-security-tool-on-parliament-hill-would-pose-risks-study.md",
-      "title": "Use of facial recognition as security tool on Parliament Hill would pose risks: study",
-      "excerpt": "OTTAWA — The use of facial recognition technology as a security tool on Parliament Hill would pose substantial legal, privacy and human rights risks — and might even be unlawful, says a study ...",
-      "sourceUrl": null,
-      "webUrl": "https://ottawacitizen.com/pmn/news-pmn/canada-news-pmn/use-of-facial-recognition-as-security-tool-on-parliament-hill-would-pose-risks-study/wcm/4e7701a4-0e4b-4093-a3d8-772693b67fe9",
-      "originalUrl": "https://ottawacitizen.com/pmn/news-pmn/canada-news-pmn/use-of-facial-recognition-as-security-tool-on-parliament-hill-would-pose-risks-study/wcm/4e7701a4-0e4b-4093-a3d8-772693b67fe9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.gprod.postmedia.digital/ottawacitizen/wp-content/uploads/2020/03/875518498.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://ottawacitizen.com/pmn/news-pmn/canada-news-pmn/use-of-facial-recognition-as-security-tool-on-parliament-hill-would-pose-risks-study/wcm/4e7701a4-0e4b-4093-a3d8-772693b67fe9/amp/",
-      "cdnAmpWebUrl": "https://ottawacitizen-com.cdn.ampproject.org/c/s/ottawacitizen.com/pmn/news-pmn/canada-news-pmn/use-of-facial-recognition-as-security-tool-on-parliament-hill-would-pose-risks-study/wcm/4e7701a4-0e4b-4093-a3d8-772693b67fe9/amp/",
-      "publishedDateTime": "2022-08-29T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ottawa Citizen",
-        "domain": "ottawacitizen.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-waymos-driverless-vehicles-are-picking-up-passengers-in-downtown-phoenix.md",
-      "title": "Waymo’s driverless vehicles are picking up passengers in downtown Phoenix",
-      "excerpt": "Waymo’s fully driverless vehicles are picking up passengers in downtown Phoenix, five months after the Alphabet-owned company expanded its service area to include denser, more complex areas of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/8/29/23323593/waymo-driverless-vehicles-passengers-downtown-phoenix",
-      "originalUrl": "https://www.theverge.com/2022/8/29/23323593/waymo-driverless-vehicles-passengers-downtown-phoenix",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/vtjG0Vqkwjh8mmGXyWImPG0Uihk=/0x231:2040x1299/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22309273/vpavic_4412_20210111_0003.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T10:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-elon-musk-focused-on-getting-self-driving-teslas-in-wide-release-by-year-end.md",
-      "title": "Elon Musk: focused on getting self-driving Teslas in wide release by year-end",
-      "excerpt": "The world must continue to extract oil and gas in order to sustain civilisation, while continuing to also develop sustainable sources of energy, Tesla founder Elon Musk told reporters at a conference in Norway on Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/energy/elon-musk-says-world-still-needs-oil-gas-2022-08-29/",
-      "originalUrl": "https://www.reuters.com/business/energy/elon-musk-says-world-still-needs-oil-gas-2022-08-29/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/R4cQPqkeAFIqFa7vRkbVIZLmGzE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RNKFK5ENWZLSBKGNTC4P5OADEE.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

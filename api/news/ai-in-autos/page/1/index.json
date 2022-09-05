@@ -262,7 +262,7 @@
       "originalUrl": "https://www.govtech.com/policy/california-passes-bill-targeting-teslas-self-driving-claims",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -1440,15 +1440,15 @@
       "title": "Self-driving cars: A primer",
       "excerpt": "Self-driving cars are part of an uncertain future, but automakers have signaled they are constantly moving to a day when at least some of us won’t drive at all.",
       "sourceUrl": null,
-      "webUrl": "https://www.kron4.com/automotive/self-driving-cars-a-primer/",
-      "originalUrl": "https://www.kron4.com/automotive/self-driving-cars-a-primer/",
+      "webUrl": "https://www.cbs42.com/automotive/self-driving-cars-a-primer/",
+      "originalUrl": "https://www.cbs42.com/automotive/self-driving-cars-a-primer/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.kron4.com/wp-content/uploads/sites/11/2022/08/chevrolet-bolt-ev-cruise-automation-test-mule-in-san-francisco_100565635_h.jpg?w=1280",
+          "url": "https://www.cbs42.com/wp-content/uploads/sites/81/2022/08/chevrolet-bolt-ev-cruise-automation-test-mule-in-san-francisco_100565635_h.jpg?w=1280",
           "width": 1280,
           "height": 855,
           "title": null,
@@ -1458,13 +1458,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.kron4.com/automotive/self-driving-cars-a-primer/amp/",
-      "cdnAmpWebUrl": "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/automotive/self-driving-cars-a-primer/amp/",
-      "publishedDateTime": "2022-08-28T12:04:00-07:00",
+      "ampWebUrl": "https://www.cbs42.com/automotive/self-driving-cars-a-primer/amp/",
+      "cdnAmpWebUrl": "https://www-cbs42-com.cdn.ampproject.org/c/s/www.cbs42.com/automotive/self-driving-cars-a-primer/amp/",
+      "publishedDateTime": "2022-08-28T12:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KRON4",
-        "domain": "kron4.com",
+        "name": "CBS 42",
+        "domain": "cbs42.com",
         "images": null,
         "publishers": null,
         "authors": null

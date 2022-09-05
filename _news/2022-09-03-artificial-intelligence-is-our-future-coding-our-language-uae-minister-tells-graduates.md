@@ -25,22 +25,6 @@ images:
     height: 405
     isCached: true
 
-related:
-  - title: "UAE Government Celebrates 60 Experts In Artificial Intelligence Programme's Fourth Cohort"
-    excerpt: "DUBAI, 31st August, 2022 (WAM) -- The UAE government celebrated 60 experts who graduated from the fourth cohort of the Artificial intelligence programme, organised in collaboration between the UAE Minister of State for Artificial intelligence,"
-    publishedDateTime: 2022-08-31T17:19:00Z
-    webUrl: "https://menafn.com/1104787915/UAE-Government-Celebrates-60-Experts-In-Artificial-Intelligence-Programmes-Fourth-Cohort"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 28
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?393109"
-        width: 440
-        height: 249
-        isCached: true
-
 secured: "VKQVFqDyDiKKG1Op8o8E0wifmLa89mp932PDm5jhi056kaVEBlCjyl5Oli6KRxnCeLqkBSqpmttxCvoLp4DC5IeaCCblsHHF8M30Dlo4IvmlqhMtS500WN9hIwgYcQwLjdxsld0uatr2hktU6EEjdZtYidwlpzmnMrwuAsHLTlRvnHDVLlZjw9p3Sjy5smMRyRYU9k6icxOx9Z52Jzb+XoHhU2dH2iRciktgeBj6FG8NGr11SkpC+WuTpuNTA8yBgUNuJBg4bfVjH8/WX09SQkuqSQOC1NdOy07+1JpqLmh/7SflrmbE4HyOZRrksLcT6zzKFGBbi893J+7CbpplkiWamG+x10rDc/25tlBBWuchQt9wYcSJM4FMpbz7UrSSTRdK1wxPDTtc7K8PBPOeinsVNUUHlXYTGsIs0z+6WClr5VKjePK0+eJe3pmTjI8RlfanlDfE6GRy/k+ziHFn0ZdsB/wwenP/nJLCrOCAtFsQ+n/ydQgbwEZw/x8pcs5F2ee81WQMmZ25twBgqWtR/w==;qf8JHPU9fjoKWstJOLV9vA=="
 ---
 

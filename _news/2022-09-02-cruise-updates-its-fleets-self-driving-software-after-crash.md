@@ -132,15 +132,6 @@ related:
         width: 500
         height: 282
         isCached: true
-  - title: "California Passes Bill Targeting Tesla’s Full Self-Driving Program"
-    excerpt: "A bill targeting Tesla's (NASDAQ: TSLA) depiction of its “Full Self-Driving” (FSD) program passed the California state Senate on Tuesday night and now heads to Gov. Gavin Newsom for his signature. The electric vehicle leader has been marketing its FSD option since 2016."
-    publishedDateTime: 2022-08-31T18:56:00Z
-    webUrl: "https://ca.investing.com/news/stock-market-news/california-passes-bill-targeting-teslas-full-selfdriving-program-432SI-2760776"
-    type: article
-    provider:
-      name: Investing.com
-      domain: investing.com
-    quality: 19
   - title: "California Targets Tesla ‘Full Self-Driving’ With Newly Passed Bill"
     excerpt: "A newly passed bill looks to hold automakers accountable for how they name and market partially-automated driving features."
     publishedDateTime: 2022-09-01T19:27:00Z

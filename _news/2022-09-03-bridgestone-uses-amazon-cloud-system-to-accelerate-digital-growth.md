@@ -7,7 +7,7 @@ originalUrl: "https://www.rubbernews.com/news/bridgestone-use-amazon-web-service
 webUrl: "https://www.rubbernews.com/news/bridgestone-use-amazon-web-services-accelerate-growth"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AWS AI
   - AI
-
-related:
-  - title: "Bridgestone hopes AWS cloud system accelerates digital growth"
-    excerpt: "Bridgestone Corp. has begun using Amazon Web Services as its cloud provider to accelerate the creation of digital platforms, launch new solutions for its customers, improve data analysis and streamline IT operations."
-    publishedDateTime: 2022-08-31T18:47:00Z
-    webUrl: "https://www.tirebusiness.com/news/bridgestone-hopes-amazon-cloud-system-accelerates-growth"
-    type: article
-    provider:
-      name: Tire Business
-      domain: tirebusiness.com
-    quality: 19
 
 secured: "JH+CxrVG2T6L5rfG3pCJxQKcehEvI/0YkOdPeDgfV1wNkcj9gDmKEbP2Ack8DrGPzH6kARosW3OssnA8RBov15Z/huzDABmtyf9hB+CNN7CLDEehNk+J/+IbvDL0iQtSZq6KQ2l8Hue89dodThpFVh2I5nVszX0yeQWomHipl4oUOwf4nJqX+iYB2zkDHDlnkYpwvVLia/BaWYt+7FhP3lO+S6nDlbadZ3pZ1JGj8Sm5sAvR7ovDZEcSh0fJWkkx+zeAL71bYGdU/SPs9QWmLxX+EhQjgCNm+LgHh7RFBMjlWXWp/NE2XxZVC/AxTA7+XygaPJnJJksVc89wC4tun5SeCBU3j3y4KBUhmvcDnB0LfxZ+dY56vVNkFqGNFOgWYnWoJJ3U340CR91wATh4m4AyYmyKOZna/ugwd4bIxSXSyw4ZqqDe5qMZF4mSLL5gwg8zgB9ksYWxzC5u9dl9ZMolJwTUBJVBo2zCejoH0cHbBZ1pjQRljhKJzr28BFgXb2S234oHV4yvJPjB8A8YKQ==;E3MFNNaxlkxP+51A/5ZQUA=="
 ---

@@ -2,6 +2,146 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-08-29-andhra-pradesh-police-to-use-facial-recognition-apps-to-identity-protesting-teachers.md",
+      "title": "Andhra Pradesh police to use facial recognition apps to identity protesting teachers",
+      "excerpt": "Highly placed sources in the Department said special teams equipped with facial recognition cameras and mobile apps will be deployed at all bus stations, railway stations, checkposts, across the State with special focus on entry routes,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-police-to-use-facial-recognition-apps-to-identity-protesting-teachers/article65825486.ece",
+      "originalUrl": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-police-to-use-facial-recognition-apps-to-identity-protesting-teachers/article65825486.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/incoming/8pu2u3/article65400588.ece/alternates/LANDSCAPE_615/IMG_iStock-925574754__1__2_1_9M8TJHT4.jpg",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-police-to-use-facial-recognition-apps-to-identity-protesting-teachers/article65825486.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-police-to-use-facial-recognition-apps-to-identity-protesting-teachers/article65825486.ece/amp/",
+      "publishedDateTime": "2022-08-29T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-global-artifical-intelligence-chip-market-size-by-major-players-trends-key-regions-and-growth-forecast-to-2022-2031.md",
+      "title": "Global Artifical Intelligence Chip Market Size by Major Players, Trends, Key Regions and Growth Forecast to 2022-2031",
+      "excerpt": "The worldwide artificial intelligence chip market size is esteemed to mark revenue of USD 9 billion in 2021 and is",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artifical-intelligence-chip-market-size-by-major-players-trends-key-regions-and-growth-forecast-to-2022-2031-2022-08-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artifical-intelligence-chip-market-size-by-major-players-trends-key-regions-and-growth-forecast-to-2022-2031-2022-08-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story.md",
+      "title": "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story",
+      "excerpt": "New Jersey, NJ -- (SBWIRE) -- 08/29/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ...",
+      "sourceUrl": null,
+      "webUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-46",
+      "originalUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-46",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-28T23:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insurancenewsnet.com",
+        "domain": "insurancenewsnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-29-machine-translation-market-to-grow-by-usd-85062-million-from-2021-to-2026-use-of-multilingual-ai-is-one-of-the-key-trends.md",
       "title": "Machine Translation Market to Grow by USD 850.62 Million from 2021 to 2026, Use of Multilingual AI is One of the Key Trends",
       "excerpt": "Browse Summary of the LANGUAGE TRANSLATION SOFTWARE MARKET Report by Solution and Geography - Forecast and Analysis 2022-2026: The market value is set to grow by USD 14.70 billion, progressing at ...",
@@ -334,15 +474,15 @@
       "title": "Self-driving cars: A primer",
       "excerpt": "Self-driving cars are part of an uncertain future, but automakers have signaled they are constantly moving to a day when at least some of us won’t drive at all.",
       "sourceUrl": null,
-      "webUrl": "https://www.kron4.com/automotive/self-driving-cars-a-primer/",
-      "originalUrl": "https://www.kron4.com/automotive/self-driving-cars-a-primer/",
+      "webUrl": "https://www.cbs42.com/automotive/self-driving-cars-a-primer/",
+      "originalUrl": "https://www.cbs42.com/automotive/self-driving-cars-a-primer/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.kron4.com/wp-content/uploads/sites/11/2022/08/chevrolet-bolt-ev-cruise-automation-test-mule-in-san-francisco_100565635_h.jpg?w=1280",
+          "url": "https://www.cbs42.com/wp-content/uploads/sites/81/2022/08/chevrolet-bolt-ev-cruise-automation-test-mule-in-san-francisco_100565635_h.jpg?w=1280",
           "width": 1280,
           "height": 855,
           "title": null,
@@ -352,13 +492,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.kron4.com/automotive/self-driving-cars-a-primer/amp/",
-      "cdnAmpWebUrl": "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/automotive/self-driving-cars-a-primer/amp/",
-      "publishedDateTime": "2022-08-28T12:04:00-07:00",
+      "ampWebUrl": "https://www.cbs42.com/automotive/self-driving-cars-a-primer/amp/",
+      "cdnAmpWebUrl": "https://www-cbs42-com.cdn.ampproject.org/c/s/www.cbs42.com/automotive/self-driving-cars-a-primer/amp/",
+      "publishedDateTime": "2022-08-28T12:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KRON4",
-        "domain": "kron4.com",
+        "name": "CBS 42",
+        "domain": "cbs42.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1007,153 +1147,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-28-solve-the-problem-of-unstructured-data-with-machine-learning.md",
-      "title": "Solve the problem of unstructured data with machine learning",
-      "excerpt": "As unstructured data is used in more business decisions and ops, ML-based quality controls help ensure your data is accurate and useful.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/solve-the-problem-of-unstructured-data-with-machine-learning/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/solve-the-problem-of-unstructured-data-with-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1269967057.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/data-infrastructure/solve-the-problem-of-unstructured-data-with-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/solve-the-problem-of-unstructured-data-with-machine-learning/amp/",
-      "publishedDateTime": "2022-08-27T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-founder-of-collapsed-ai-start-up-metigy-in-18m-property-buying-spree.md",
-      "title": "Founder of collapsed AI start-up Metigy in $18m property buying spree",
-      "excerpt": "Administrators are now urging the sale of the properties - a mansion in Mosman and a luxury estate in Kangaroo Valley with a private rainforest waterfall - to claw back funds for creditors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theage.com.au/business/companies/founder-of-collapsed-ai-start-up-metigy-in-18m-property-buying-spree-20220828-p5bdbc.html",
-      "originalUrl": "https://www.theage.com.au/business/companies/founder-of-collapsed-ai-start-up-metigy-in-18m-property-buying-spree-20220828-p5bdbc.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theage.com.au/business/companies/founder-of-collapsed-ai-start-up-metigy-in-18m-property-buying-spree-20220828-p5bdbc.html",
-      "cdnAmpWebUrl": "https://amp-theage-com-au.cdn.ampproject.org/c/s/amp.theage.com.au/business/companies/founder-of-collapsed-ai-start-up-metigy-in-18m-property-buying-spree-20220828-p5bdbc.html",
-      "publishedDateTime": "2022-08-27T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Age",
-        "domain": "theage.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-improving-ai-assisted-conversation-with-zero-shot-learning.md",
-      "title": "Improving AI-assisted conversation with zero-shot learning",
-      "excerpt": "Zero-shot learning can improve conversation AI — bolstering everything from human interaction, to sales, to training and career coaching.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/improving-ai-assisted-conversation-with-zero-shot-learning/",
-      "originalUrl": "https://venturebeat.com/ai/improving-ai-assisted-conversation-with-zero-shot-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1169246375.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 652,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/improving-ai-assisted-conversation-with-zero-shot-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/improving-ai-assisted-conversation-with-zero-shot-learning/amp/",
-      "publishedDateTime": "2022-08-27T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

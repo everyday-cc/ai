@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20220905/AI-model-detects-COVID-
 webUrl: "https://www.news-medical.net/news/20220905/AI-model-detects-COVID-19-infection-in-peoplee28099s-voices.aspx"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI-backed smartphone app can detect Covid-19 in people using voice, claim scientists"
+    excerpt: "According to the researchers, this method can be used in low-income countries where the RT-PCR tests are expensive and difficult to be carried out. The research finding was presented before the European Respiratory Society International Congress in Barcelona,"
+    publishedDateTime: 2022-09-05T11:01:00Z
+    webUrl: "https://www.hindustantimes.com/technology/artificial-intelligence-backed-mobile-app-can-detect-covid-19-in-people-using-voice-claim-scientists-101662373586202.html"
+    ampWebUrl: "https://www.hindustantimes.com/technology/artificial-intelligence-backed-mobile-app-can-detect-covid-19-in-people-using-voice-claim-scientists-101662373586202-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/artificial-intelligence-backed-mobile-app-can-detect-covid-19-in-people-using-voice-claim-scientists-101662373586202-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 50
+    images:
+      - url: "https://images.hindustantimes.com/img/2022/09/05/1600x900/Covid-19_1662375443909_1662375444098_1662375444098.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Mobile phone app accurately detects COVID-19 infection in people’s voices with the help of artificial intelligence"
     excerpt: "Two presentations to be made at the European Respiratory Society International Congress in Barcelona, Spain, on Monday show how artificial intelligence (AI) can be used to detect COVID-19 in people's voices via a mobile phone app,"
     publishedDateTime: 2022-09-04T00:00:00Z

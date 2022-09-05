@@ -60,20 +60,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Man Boasts About Winning Art Competition Using AI-Created Image"
-    excerpt: "Jason Allen's winning entry for the Colorado State Fair fine arts competition relied on an AI-powered program called Midjourney, which can generate images from a line of text."
-    publishedDateTime: 2022-08-31T18:13:00Z
-    webUrl: "https://www.pcmag.com/news/man-boasts-about-winning-art-competition-using-ai-created-image"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/07LHXzoytNISjOYTSehqJ5N-1.fit_lim.size_1200x630.v1661964398.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "An AI-generated artwork won a state competition, and people don’t know what to think"
     excerpt: "Jason Allen entered the artwork titled “Theatre d’Opera Spatial” in the “ Digital Arts / Digitally-Manipulated Photography ” category of the Colorado State Fair fine arts competition but created the piece using a popular text-to-image AI generator named Midjourney."
     publishedDateTime: 2022-09-01T16:23:00Z

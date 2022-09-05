@@ -37,6 +37,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 22
+  - title: "Speech and Voice Recognition Market Size, Share, Top Vendors, Industry Trends, Growth, Recent Developments, Technology Forecast to 2029 - VMR"
+    excerpt: "Speech and Voice Recognition Market was valued at USD 8.83 Billion in 2019 and is projected to reach USD 33.62 Billion by 2027, growing at a CAGR of 19.63% from 2020 to 2027.The Global Speech and Voice Recognition Market research includes an in-depth analysis of key geographical trends,"
+    publishedDateTime: 2022-09-02T03:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-share-top-vendors-industry-trends-growth-recent-developments-technology-forecast-to-2029---vmr-2022-09-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "7JcerLRqacia7eX32g94fgKpm/LBSMBEVdczHwe0jYWnIMkL6UfwQUeAWJcmJf9kYHcS22ezdEn1WScIjn9zDZlMdZIbKjHIz2ejfIg2g2EjWSw7DGN3iXNmPSBNdZvbaBGiaq2PYoL413Nkz1FHxrqTiDjXcr+vmct2zQ3kv1EMjwT54aFufANy2e++E+nz26VQHYl9jVJnTXy6hA/8Rkia1KpX0bQpkzo3DHPjUNq7fySGiEAlA9c13n2vc7j+pQtdFp9T2Bond+pEIQ2UQmf/EO7dL7HWDZyVWf55/kY8SRtTtwjTE0PFAmeIE0BQSx3X1ZCxrXSVopt0XlnpDWuIFVTJ4j/90hTsAria8kQ=;tWSdax05rKLGljGBW6aHyQ=="
 ---

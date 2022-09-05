@@ -2,6 +2,127 @@
   "page": 127,
   "value": [
     {
+      "path": "_news/2022-05-29-aws-releases-first-graviton3-instances.md",
+      "title": "AWS Releases First Graviton3 Instances",
+      "excerpt": "AWS has recently announced the general availability of the C7g instances, the first EC2 instances running Graviton3 processors. Designed for compute-intensive workloads, they provide always-on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2022/05/aws-ec2-graviton3/",
+      "originalUrl": "https://www.infoq.com/news/2022/05/aws-ec2-graviton3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-28-deepmind-why-is-ai-so-good-at-language-its-something-in-language-itself.md",
+      "title": "DeepMind: Why is AI so good at language? It's something in language itself",
+      "excerpt": "Impressive deep learning programs such as OpenAI's GPT-3 may be exploiting statistical oddities of human language such as polysemy and homonyms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/deepmind-why-is-ai-so-good-at-language-its-something-in-language-itself/",
+      "originalUrl": "https://www.zdnet.com/article/deepmind-why-is-ai-so-good-at-language-its-something-in-language-itself/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/3ffd901c4c60d15791e3a11b786df6f9c59e485d/2022/05/27/ae1ac90a-e2b4-4b21-8343-f18ef904f3c4/deepmind-omniglot-modified-challenge-may-2022.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/deepmind-why-is-ai-so-good-at-language-its-something-in-language-itself/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deepmind-why-is-ai-so-good-at-language-its-something-in-language-itself/",
+      "publishedDateTime": "2022-05-28T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-28-she-thought-a-dark-moment-in-her-past-was-forgotten-then-she-scanned-her-face-online.md",
+      "title": "She thought a dark moment in her past was forgotten. Then she scanned her face online.",
+      "excerpt": "With a few clicks of a mouse, a facial-recognition website brought back a real-life nightmare that occurred nearly two decades ago.",
+      "sourceUrl": null,
+      "webUrl": "https://dothaneagle.com/news/national/she-thought-a-dark-moment-in-her-past-was-forgotten-then-she-scanned-her-face/article_03b97309-3c54-5d98-8a6f-71b306d3b767.html",
+      "originalUrl": "https://dothaneagle.com/news/national/she-thought-a-dark-moment-in-her-past-was-forgotten-then-she-scanned-her-face/article_03b97309-3c54-5d98-8a6f-71b306d3b767.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-28T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dothan Eagle",
+        "domain": "dothaneagle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-28-ranking-the-episodes-of-love-death-robots-volume-3.md",
       "title": "Ranking the Episodes of 'Love, Death, & Robots: Volume 3'",
       "excerpt": "Netflix’s mind-bending and ambitious anthology series Love, Death & Robots recently returned to ... army of creatures that humans can control, leading to unforeseen dangers.",
@@ -975,117 +1096,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-biography-meet-zimbabwes-serial-entrepreneur-william-sachiti-who-owns-uks-first-black-owned-driverless-car-company.md",
-      "title": "Biography: Meet Zimbabwe’s Serial Entrepreneur William Sachiti Who Owns UK’s First Black-Owned Driverless Car Company",
-      "excerpt": "From creating digital advertising bins to driverless cars, the serial inventor is not ... In 2015 Sachiti enrolled at Aberystwyth University in Wales, where he studied artificial intelligence and robotics. He kept fledging and flourishing at the university ...",
-      "sourceUrl": null,
-      "webUrl": "https://iharare.com/biography-meet-zimbabwes-serial-entrepreneur-william-sachiti-who-owns-uks-first-black-owned-driverless-car-company/",
-      "originalUrl": "https://iharare.com/biography-meet-zimbabwes-serial-entrepreneur-william-sachiti-who-owns-uks-first-black-owned-driverless-car-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cy4ad5.c2.acecdn.net/wp-content/uploads/2022/05/william-sachiti-1.jpg",
-          "width": 1200,
-          "height": 846,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://iharare.com/biography-meet-zimbabwes-serial-entrepreneur-william-sachiti-who-owns-uks-first-black-owned-driverless-car-company/amp/",
-      "cdnAmpWebUrl": "https://iharare-com.cdn.ampproject.org/c/s/iharare.com/biography-meet-zimbabwes-serial-entrepreneur-william-sachiti-who-owns-uks-first-black-owned-driverless-car-company/amp/",
-      "publishedDateTime": "2022-05-27T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "iHarare News",
-        "domain": "iharare.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-tech-shares-lead-hk-market-higher-amid-hopes-for-better-china-us-ties.md",
-      "title": "Tech shares lead HK market higher amid hopes for better China-U.S. ties",
-      "excerpt": "Hong Kong stocks jumped nearly 3% on Friday, led by tech shares following forecast-beating results from Alibaba Group and Baidu, while comments by a U.S. official on relations with China were interpreted by some as positive. We apologize, but this video ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/business-pmn/tech-shares-lead-hk-market-higher-amid-hopes-for-better-china-u-s-ties",
-      "originalUrl": "https://financialpost.com/pmn/business-pmn/tech-shares-lead-hk-market-higher-amid-hopes-for-better-china-u-s-ties",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-artificial-intelligence-in-marketing-market-to-grow-at.md",
-      "title": "Artificial Intelligence in Marketing Market to grow at",
-      "excerpt": "Artificial intelligence in marketing market report offers a comprehensive analysis by Deployment (On-premise and Cloud) and Geography (North America, APAC, Europe, Middle East, and Africa, and South America) NEW YORK,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-marketing-market-grow-a-cagr-2684-/2022/05/27/9610662.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-marketing-market-grow-a-cagr-2684-/2022/05/27/9610662.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

@@ -2,6 +2,111 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-02-what-4-analyst-ratings-have-to-say-about-c3ai.md",
+      "title": "What 4 Analyst Ratings Have To Say About C3.ai",
+      "excerpt": "These 4 analysts have an average price target of $17.5 versus the current price of C3.ai at $14.52, implying upside. Below is a summary of how these 4 analysts rated C3.ai over the past 3 months. The greater the number of bullish ratings,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/what-4-analyst-ratings-have-to-say-about-c3-ai-1031722043",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/what-4-analyst-ratings-have-to-say-about-c3-ai-1031722043",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2022/analyst_ratings_image_2546.png",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-02T07:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-02-four-ways-voice-recognition-will-improve-healthcare.md",
+      "title": "Four Ways Voice Recognition Will Improve Healthcare",
+      "excerpt": "The severe stress our health system endured restricted its capacity to respond as fully and quickly as it may have in the pre-pandemic era. Thus, consumers often looked elsewhere to find answers to their pressing questions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/02/four-ways-voice-recognition-will-improve-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/02/four-ways-voice-recognition-will-improve-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6310bd9b5bc94a00b06398ad/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/02/four-ways-voice-recognition-will-improve-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/02/four-ways-voice-recognition-will-improve-healthcare/amp/",
+      "publishedDateTime": "2022-09-02T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-09-02-why-deepmind-is-sending-ai-humanoids-to-soccer-camp.md",
       "title": "Why DeepMind Is Sending AI Humanoids to Soccer Camp",
       "excerpt": "There’s controlling the full humanoid body, coordination—which is really tough for AGI—and actually mastering both low-level motor control and things like long-term planning.” An AI has to re-create everything human players do—even the things we don’t have to consciously think about,",
@@ -10,7 +115,7 @@
       "originalUrl": "https://www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-camp/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -485,7 +590,7 @@
       "originalUrl": "https://www.govtech.com/policy/california-passes-bill-targeting-teslas-self-driving-claims",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -1095,101 +1200,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/do-conversational-ai-systems-understand-humor/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/01/do-conversational-ai-systems-understand-humor/amp/",
       "publishedDateTime": "2022-09-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-cognitive-services-market-2022-disclosing-latest-trends-and-advancement-outlook-2028-microsoft-google-aws.md",
-      "title": "Cognitive Services Market 2022 Disclosing Latest Trends and Advancement Outlook 2028 – Microsoft, Google, AWS",
-      "excerpt": "Top Companies in the global Cognitive Services market are IBM, Microsoft, Google, AWS, Baidu, Nuance Communications, Qualcomm Technologies, SAS, Apple, TCS, Nokia, Expert System, Verbio Technologies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-2022-disclosing-latest-trends-and-advancement-outlook-2028-microsoft-google-aws-2022-09-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-2022-disclosing-latest-trends-and-advancement-outlook-2028-microsoft-google-aws-2022-09-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-01T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-how-to-prepare-faster-for-looming-ai-regulation-turn-defense-into-offense.md",
-      "title": "How To Prepare Faster For Looming AI Regulation: Turn Defense Into Offense",
-      "excerpt": "With AI, the same elements of an effective culture of compliance can also spark innovation, collaboration and agility with data science.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/how-to-prepare-faster-for-looming-ai-regulation-turn-defense-into-offense/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/how-to-prepare-faster-for-looming-ai-regulation-turn-defense-into-offense/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/630f5e5918c93764f06047ca/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/how-to-prepare-faster-for-looming-ai-regulation-turn-defense-into-offense/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/01/how-to-prepare-faster-for-looming-ai-regulation-turn-defense-into-offense/amp/",
-      "publishedDateTime": "2022-09-01T03:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

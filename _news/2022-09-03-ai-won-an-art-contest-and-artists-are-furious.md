@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/09/03/tech/ai-art-fair-winner-controver
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/03/tech/ai-art-fair-winner-controversy/index.html"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/08/art_contest_winner-760x380.jpg"
         width: 760
         height: 380
-        isCached: true
-  - title: "Man Boasts About Winning Art Competition Using AI-Created Image"
-    excerpt: "Jason Allen's winning entry for the Colorado State Fair fine arts competition relied on an AI-powered program called Midjourney, which can generate images from a line of text."
-    publishedDateTime: 2022-08-31T18:13:00Z
-    webUrl: "https://www.pcmag.com/news/man-boasts-about-winning-art-competition-using-ai-created-image"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/07LHXzoytNISjOYTSehqJ5N-1.fit_lim.size_1200x630.v1661964398.jpg"
-        width: 1120
-        height: 630
         isCached: true
   - title: "An AI-generated artwork won a state competition, and people don’t know what to think"
     excerpt: "Jason Allen entered the artwork titled “Theatre d’Opera Spatial” in the “ Digital Arts / Digitally-Manipulated Photography ” category of the Colorado State Fair fine arts competition but created the piece using a popular text-to-image AI generator named Midjourney."

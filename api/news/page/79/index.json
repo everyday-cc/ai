@@ -2,6 +2,144 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2022-06-30-what-it-takes-to-create-and-implement-ethical-artificial-intelligence.md",
+      "title": "What It Takes To Create And Implement Ethical Artificial Intelligence",
+      "excerpt": "Artificial intelligence “acts” unethically in ways that are different from humans, even if the harms that both AI and humans can cause are similar. For example, even if both humans and AI can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/irabedzow/2022/06/30/what-it-takes-to-create-and-implement-ethical-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/irabedzow/2022/06/30/what-it-takes-to-create-and-implement-ethical-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62bdaf29f10cfef9f670f110/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/irabedzow/2022/06/30/what-it-takes-to-create-and-implement-ethical-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/irabedzow/2022/06/30/what-it-takes-to-create-and-implement-ethical-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-06-30T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-softheon-expands-to-artificial-intelligence-in-care-management-for-health-plans-through-acquisition-of-nexthealth-technologies.md",
+      "title": "Softheon Expands to Artificial Intelligence in Care Management for Health Plans through Acquisition of NextHealth Technologies",
+      "excerpt": "Softheon, a leading cloud-based eligibility, enrollment, and billing provider for health plans and government agencies, has acquired NextHealth Technologies, an AI-powered SaaS-based healthcare analytics platform.",
+      "sourceUrl": null,
+      "webUrl": "https://insurancenewsnet.com/oarticle/softheon-expands-to-artificial-intelligence-in-care-management-for-health-plans-through-acquisition-of-nexthealth-technologies",
+      "originalUrl": "https://insurancenewsnet.com/oarticle/softheon-expands-to-artificial-intelligence-in-care-management-for-health-plans-through-acquisition-of-nexthealth-technologies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insurancenewsnet.com",
+        "domain": "insurancenewsnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-meta-warns-employees-of-serious-times-in-internal-memo-listing-key-product-bets.md",
+      "title": "Meta warns employees of ‘serious times’ in internal memo listing key product bets",
+      "excerpt": "Cox says teams will have to “prioritize more ruthlessly” Cox also lays out six areas where he believes Facebook ... Research SuperCluster). The FAIR team will continue to drive AI research ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/6/30/23190164/meta-chris-cox-internal-memo-product-bets-tiktok-metaverse",
+      "originalUrl": "https://www.theverge.com/2022/6/30/23190164/meta-chris-cox-internal-memo-product-bets-tiktok-metaverse",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-30-cybersecurity-startup-inspectiv-closes-in-on-86-million-funding-expands-c-suite.md",
       "title": "Cybersecurity Startup Inspectiv Closes In On $8.6 Million Funding, Expands C-Suite",
       "excerpt": "Have you ever felt like your entire life has been leading up to one moment?” Melika said. “This is it for me.\"",
@@ -986,137 +1124,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-ai-ethics-should-be-hardcoded-like-security-by-design.md",
-      "title": "AI ethics should be hardcoded like security by design",
-      "excerpt": "With security by design essential to ensure IT systems are built to be robust from development, the same approach should be applied to artificial intelligence tools so these can be deployed responsibly and without bias,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-ethics-should-be-hardcoded-like-security-by-design/",
-      "originalUrl": "https://www.zdnet.com/article/ai-ethics-should-be-hardcoded-like-security-by-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-ethics-should-be-hardcoded-like-security-by-design/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-ethics-should-be-hardcoded-like-security-by-design/",
-      "publishedDateTime": "2022-06-30T01:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-chinas-baidu-joins-race-to-develop-driverless-cars.md",
-      "title": "China’s Baidu joins race to develop driverless cars",
-      "excerpt": "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane.",
-      "sourceUrl": null,
-      "webUrl": "https://www.arkansasonline.com/news/2022/jun/30/chinas-baidu-joins-race-to-develop-driverless-cars/",
-      "originalUrl": "https://www.arkansasonline.com/news/2022/jun/30/chinas-baidu-joins-race-to-develop-driverless-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wehco.media.clients.ellingtoncms.com/img/photos/2022/06/29/2DChinaCars0630_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T00:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Arkansas Democrat-Gazette",
-        "domain": "arkansasonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-healthcare-natural-language-processing-market-major-technology-giants-in-buzz-again-nuance-health-fidelity-apixio.md",
-      "title": "Healthcare Natural Language Processing Market – Major Technology Giants in Buzz Again | Nuance, Health Fidelity, Apixio",
-      "excerpt": "Advance Market Analytics published a new research publication on “Global Healthcare Natural Language Processing Market Insights, to 2027” with 232 pages and enriched with self-explained Tables ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/healthcare-natural-language-processing-market-major-technology-giants-in-buzz-again-nuance-health-fidelity-apixio",
-      "originalUrl": "https://www.digitaljournal.com/pr/healthcare-natural-language-processing-market-major-technology-giants-in-buzz-again-nuance-health-fidelity-apixio",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/07/Supreme-Court-USA-SCOTUS-Kavanaugh-Roberts-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T22:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

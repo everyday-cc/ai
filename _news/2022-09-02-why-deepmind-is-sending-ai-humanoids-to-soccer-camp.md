@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-ca
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-camp/amp"
 type: article
 quality: 106
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -88,15 +88,6 @@ related:
         width: 1500
         height: 800
         isCached: true
-  - title: "Watch DeepMind's digital humanoids learn to play soccer"
-    excerpt: "DeepMind’s artificial intelligence has learned to play soccer. By learning from decades worth of computer simulations, the AI took digital humanoids from flailing tots to proficient players. DeepMind researchers trained the AI how to play soccer in a computer simulation through an athletic curriculum resembling a sped-up version of growing a human baby into a football player."
-    publishedDateTime: 2022-08-31T18:00:00Z
-    webUrl: "https://www.newscientist.com/video/2336145-watch-deepminds-digital-humanoids-learn-to-play-soccer/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 19
 
 secured: "t2VHKwedM+8jNEe+zLzN7C0FSqjpZQ1jMt5ltCT/BDkZff9e23t1hKSuCD5lfDOmhFhVzUW8N5jM5TTjDUMKQmaHHtcGQXRA6aZfG72f0laOiXG6eUvGJUsg5K7CvFVv8fotKjUVlhUAOQGIAHskcdtflmgqcgj5SdXTGeTKPJBMRn2YPjUaJiNqm2h5Jo4Z33b8J66M3Ucc9xGTxO39NGn8tpwUUcrb3w7fRI4c6CToqqONu+A2L7D041L1nIVzLDgZuSLX8mxeiWvXVhqyMuKXSoWNtXgps7Jf4b8DWJPZWsKsi+Jehw9DnatYd2OdMt1nF0lp/oywHKoGKfDtfsjecjeqRetCdyU2deFQJ+T7ifv/4KzSa0OmFh6jia0ulpFmqGfxPpILvTUJBSNXssen2j5O6SMNLf5BJy04/THM2f7fpVUZ49wWmRn6ozQHcMm3nb5wez1+y5MvxWC7RXYz2yZQKqMSvWiHJ4ZxqOdhkeJqKsJ/9GhzdE8L+9JiF6BW2++R4DYwFt3ymiXvoQ==;Z0nINfNQF8NZ5uPkvjuHWg=="
 ---

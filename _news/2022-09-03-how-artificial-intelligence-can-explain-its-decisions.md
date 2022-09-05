@@ -30,14 +30,19 @@ images:
 
 related:
   - title: "How artificial intelligence can explain its decisions"
-    excerpt: "Today, when an algorithm identifies a tumor in a tissue sample, it doesn't reveal how it arrived at this result. And that does not inspire trust. Researchers are therefore pursuing a new approach."
-    publishedDateTime: 2022-09-02T15:28:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/09/220902103300.htm"
+    excerpt: "Artificial intelligence (AI) can be trained to recognise whether a tissue image contains a tumour. However, exactly how it makes its decision has"
+    publishedDateTime: 2022-09-02T09:07:00Z
+    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/224609"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 64
+      name: AlphaGalileo
+      domain: alphagalileo.org
+    quality: 54
+    images:
+      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/67927760-8fc1-481b-8af1-c1270b1f86a5-9781616765767.jpg"
+        width: 400
+        height: 600
+        isCached: true
 
 secured: "x2LLYK8oUFDS3tHeSvBt+LqcCg4UjcXjBIphRAc1tO8verMmSRD97+rWvASZDwqZ9RxOjUrBKz5DosRL5QloDy/jhWXYkIwajxi99eN+9HRM8c1vlEnaWWWEp5PE4kieF3uvakHkmyT5z2at6JPiuS8hWS4d2D3FESHeI2GpwzMllPsH7Nnlt79otu6jSyUafF+RQ/AhQ13MnYxBvDKTn2X4z86BM0hSw6kS3rSxMWYKN71F23kqKugiGcaZzl8hqbJicLTaHWJUHkzhSpVKlxIC/ZrM81EktjVjFXA776BIVB/4P8n41scLV99Tqw/8S9MLnPvp4fGKSTavqD+2QHbNn5Ha60gx6UtQnumFm7YNGqNKJbrC4QRvySpudakIj8iXrthtGvtd1b+W7chjmZ9I4fby9EprjkBt7wBct+Pp2fGQKOsnhjJYKCdLVemEocXRlhP+8asL+lGy3tAIc9V2FiMdk8kCcuFjiIX1lGXo+aqfBuNHAXmUlYwpwtHiuVgbMJGlLs4wwS0bs/nB/A==;02tmLYf7MZ/2QwIK9Bav5g=="
 ---

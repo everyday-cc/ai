@@ -1,26 +1,28 @@
 ---
 category: news
 title: "How artificial intelligence can explain its decisions"
-excerpt: "Today, when an algorithm identifies a tumor in a tissue sample, it doesn't reveal how it arrived at this result. And that does not inspire trust. Researchers are therefore pursuing a new approach."
-publishedDateTime: 2022-09-02T15:28:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/09/220902103300.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/09/220902103300.htm"
+excerpt: "Artificial intelligence (AI) can be trained to recognise whether a tissue image contains a tumour. However, exactly how it makes its decision has"
+publishedDateTime: 2022-09-02T09:07:00Z
+originalUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/224609"
+webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/224609"
 type: article
-quality: 64
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: AlphaGalileo
+  domain: alphagalileo.org
 
 topics:
+  - AI in Autos
   - AI
-  - AI in Healthcare
+
+images:
+  - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/67927760-8fc1-481b-8af1-c1270b1f86a5-9781616765767.jpg"
+    width: 400
+    height: 600
+    isCached: true
 
 related:
   - title: "How artificial intelligence can explain its decisions"
@@ -40,6 +42,6 @@ related:
         height: 769
         isCached: true
 
-secured: "+0EesJSfO89UB4gBh2bfnUkMD3lKe7iHeCpxqSi4+cCSN9TFxrr6+8F3Tb8o2rfSFBoba/rcV+bJVrygoHLwQsUOhxG1ROGagXtDe1JRE+qY2+N1uCvwWmAuS9EKytKmIDHK9RpmbitFz4urUZ0tN6cGow5vO1f/eaw02GAijUjDk8m4gpnTQ6rBrWASXFggRKH5DkFtm/qspGTPLMSjaExAf9c6lplRfmI1n2MN9BCqk17zk0ypW/cZ7qSfQ5kNb8zgD3cjT0VtrUKtgt4w2tsaRDGtu7sIbdEz3mHo/J78FDJaY2WgB6Ro5cqCaSnm5EFkhR9uhOFXVYLQzPcV4ABLjbfA4gCDcYv0/DOw+60=;meN0d9x1V0coD8OoGeCjuA=="
+secured: "Sa/p8ePY2OtPCCiWcx2KM07LZ6fGX2ll+9SDdXS55vtdPVLaWXRr8PBAlbWYVaUpM9zYgMUwnx/Oyruq5XW9fVuh1mWAjLlqlfZrUMPu1MrcnB560S9DNprD4MlYZq4az+O2q262pPhkEdkpxnWR89+nMmJPi3j5ub/kNCvtPlI1V7u0p7Lbnhyi1oEN92ZygKeZGH0sHn4LrU/lvRKFPhoOz/mmGLEMUj5eavcia1XrBvC2S1ZQwvhrihoYvxHkknD3nl2SPQNzKLsECcNE9My+z4yOCmLXM7k+X+FvCFrPmkKYrwbDWNCVJMN/vXegL0KmXXUUt32cXehoDNmeD9PC4CPmbZf6t42OzVWAxgw=;7r7S6vtguBCRE8YJX5/coA=="
 ---
 
