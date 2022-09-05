@@ -20,20 +20,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "SiMa.ai Ships First Industry Leading Purpose-built Machine Learning SoC Platform to Customers for Embedded Edge Applications"
-    excerpt: "SiMa.ai Ships First Industry Leading Purpose-built Machine Learning SoC Platform to Customers for Embedded Edge Applications"
-    publishedDateTime: 2022-08-31T05:27:00Z
-    webUrl: "https://www.businesswireindia.com/simaai-ships-first-industry-leading-purpose-built-machine-learning-soc-platform-to-customers-for-embedded-edge-applications-80442.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 27
-    images:
-      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_80442.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Allegro DVT Partners with SiMa.ai to Optimize Power Efficiency for Embedded Edge Applications"
     excerpt: "Seamless power optimization is critical for computer vision applications at the edge. With Allegro DVT's Encoder and Decoder IPs, SiMa.ai's customers can achieve high performance with low power without compromising efficiency or ease of use across markets such as smart vision,"
     publishedDateTime: 2022-08-31T16:04:00Z

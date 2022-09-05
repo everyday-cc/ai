@@ -56,6 +56,15 @@ related:
         width: 480
         height: 311
         isCached: true
+  - title: "Self-Driving Company Aurora Mulling Possible Sale to Apple or Microsoft - Bloomberg News"
+    excerpt: "Aurora Innovation Inc Chief Executive Chris Urmson recently laid out a series of options for the self-driving company to combat challenging market conditions, including a possible sale to Apple Inc or Microsoft Corp,"
+    publishedDateTime: 2022-09-02T19:58:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2022-09-02/self-driving-company-aurora-mulling-possible-sale-to-apple-or-microsoft-bloomberg-news"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 42
 
 secured: "e+rD4bbXUqHiSWnZ8Jgloxj28F3NK2MeowULW09sVydpGuHRpqxm4hUbNVzoz0QG9EvdorwS4A+2c3ZP1MavxwFaQ/lra38U9Hu7i61TiVv1TOTyM9qC18SkNnOo0aDSVrfUVg8e4V9Ql1YtjyfR5QbasiXHfBDNFnG+n3mpOeg6SJg+AwLJBhCWomCJ4Yx9u4QvinhIig1MlHodAXVvWBLAmwW22GPKcksCZ9pBcZmkZD/IhX7O62TxyOU/9v52Q5DHmv45h9N4l3tvFAGBKEVXxhPJHYlBOh/29GuAjU3Q8rtwpbXxpNOEIRtWAFEeJdh/XtkNjmJ6xFVCQ2ukNaLteZMOgNRHWY6lBUK4gAw=;IClC38SdpeWqBeybWwMcYw=="
 ---

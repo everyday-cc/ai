@@ -104,6 +104,20 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "AI-generated artwork wins US competition, angers art community"
+    excerpt: "Allen won in the Digital Arts / Digitally Manipulated Photography category with a work called “Théâtre D'opéra Spatial” which is an AI-generated image printed on a canvas. The painting depicts a scene that resembles a space opera."
+    publishedDateTime: 2022-09-04T14:31:00Z
+    webUrl: "https://interestingengineering.com/culture/ai-artwork-wins-angers-art-community"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 37
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/2022/09/04/image/jpeg/Skvetx8TJ4uzrUmlGIT0tpr5pOmRT0xyHMSZVk1E.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "This AI-generated artwork just won first place in a state competition"
     excerpt: "Colorado man Jason Allen has used AI software Midjourney to create Theatre D'opera Spatial, an art piece that won first place at the Colorado State Fair."
     publishedDateTime: 2022-09-02T10:34:00Z

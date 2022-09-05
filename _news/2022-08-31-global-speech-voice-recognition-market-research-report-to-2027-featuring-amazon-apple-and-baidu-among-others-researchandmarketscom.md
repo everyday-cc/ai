@@ -33,6 +33,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Robots Market Projected to Reach worth $35.3 billion by 2026 – Exclusive Report by MarketsandMarkets™"
+    excerpt: "Companies are now increasingly focusing on developing robots that are suitable for the entire family and excel in performing the abovementioned tasks. Artificial Intelligence in Manufacturing ..."
+    publishedDateTime: 2022-09-01T13:38:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28718013/artificial-intelligence-ai-robots-market-projected-to-reach-worth-35-3-billion-by-2026-exclusive-r"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28718013"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28718013"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
 
 secured: "hxIylI9hNhkggyLjAkqYKK38lVhKAMv5vSlTAmbujnWWO2Fc0GKRzEC4XnkByQEO+8Sb47igCgtT8gqEDXBdjprZYF9//vIEWVuIwMm/npL93VOXZH1KVX/J+hWQG2UZM/K9IdCx/mjqfOlEYV+I8jD74GMS7MR+YEQqf0g4h3mFSUIxoX637s5g4Xe2IyQeR1hX04I+bB7tSiGYlFRLr/ACwXYwgQ3oDV7zMWfWxD91Vk5JvCnrwyfEV5FaON2Z8yxehSbmteXyoxMcXiuC+mEAoEwULV2E0sMMh5r8ZBMsonYdLBMGrPjFwwy4lR1nPztQ7yxiJ/+gHH+YfYwT2K1vCHaSlAK5a1maOtkOcOI=;5ZJpc30vPZmlYDL8btO5xg=="
 ---

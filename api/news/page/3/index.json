@@ -2,6 +2,112 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-01-how-ai-is-helping-anonymize-clinical-trial-submissions.md",
+      "title": "How AI Is Helping Anonymize Clinical Trial Submissions",
+      "excerpt": "Anonymization of clinical trial submissions is tricky and risks regulatory penalties. Here’s how AI can help protect patient data privacy while ensuring transparency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ganeskesari/2022/08/31/how-ai-is-helping-anonymize-clinical-trial-submissions/",
+      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2022/08/31/how-ai-is-helping-anonymize-clinical-trial-submissions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63102c3817aeb905d3213ebc/0x0.jpg?format=jpg&crop=2550,1435,x0,y131,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2022/08/31/how-ai-is-helping-anonymize-clinical-trial-submissions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2022/08/31/how-ai-is-helping-anonymize-clinical-trial-submissions/amp/",
+      "publishedDateTime": "2022-08-31T20:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-intel-ai-chief-wei-li-someone-has-to-bring-todays-ai-supercomputing-to-the-masses.md",
+      "title": "Intel AI chief Wei Li: Someone has to bring today's AI supercomputing to the masses",
+      "excerpt": "Software is key to broadening the reach of AI, and much of it goes back to decades-old approaches in compiler technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/intel-ai-chief-wei-li-someone-has-to-bring-todays-ai-supercomputing-to-the-masses/",
+      "originalUrl": "https://www.zdnet.com/article/intel-ai-chief-wei-li-someone-has-to-bring-todays-ai-supercomputing-to-the-masses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/79dd0cf649ed1fe2683dcc04a0f678e42fe4fa96/2022/09/01/76e323ce-37d1-4bda-997f-c1a80a552302/wei-li-headshot.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/intel-ai-chief-wei-li-someone-has-to-bring-todays-ai-supercomputing-to-the-masses/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-ai-chief-wei-li-someone-has-to-bring-todays-ai-supercomputing-to-the-masses/",
+      "publishedDateTime": "2022-08-31T18:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-nvidia-says-us-order-restricts-sales-of-ai-chips-to-china.md",
       "title": "Nvidia Says US Order Restricts Sales of AI Chips to China",
       "excerpt": "New licensing requirements come amid concern that the chips could be put to military use, the chipmaker says in a regulatory filing.",
@@ -512,7 +618,7 @@
       "originalUrl": "https://www.pcquest.com/jio-haptik-collaborates-with-microsoft-azure-to-enhance-hindi-chatbots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1136,101 +1242,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-waymo-opens-driverless-robotaxi-service-in-phoenix-to-locals-who-cant-share-experiences-online.md",
-      "title": "Waymo opens driverless robotaxi service in Phoenix to locals who can't share experiences online",
-      "excerpt": "Waymo is rolling out its driverless robotaxi service in Phoenix for members of the Alphabet-owned company's 'trusted tester' program - but users can't share their experience on social media and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-11161047/Waymo-opens-driverless-robotaxi-service-Phoenix-locals-share-experiences-online.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-11161047/Waymo-opens-driverless-robotaxi-service-Phoenix-locals-share-experiences-online.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/08/30/17/61875391-0-image-a-10_1661876995094.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-11161047/amp/Waymo-opens-driverless-robotaxi-service-Phoenix-locals-share-experiences-online.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11161047/amp/Waymo-opens-driverless-robotaxi-service-Phoenix-locals-share-experiences-online.html",
-      "publishedDateTime": "2022-08-30T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-is-it-ever-okay-to-ghost-a-new-employer.md",
-      "title": "Is it ever okay to ghost a new employer?",
-      "excerpt": "Ghosting an employer could potentially have negative repercussions for your job search and reputation. Learn why.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/programming-development/is-it-ever-okay-to-ghost-a-new-employer/",
-      "originalUrl": "https://venturebeat.com/programming-development/is-it-ever-okay-to-ghost-a-new-employer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/My-project-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/programming-development/is-it-ever-okay-to-ghost-a-new-employer/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/programming-development/is-it-ever-okay-to-ghost-a-new-employer/amp/",
-      "publishedDateTime": "2022-08-30T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

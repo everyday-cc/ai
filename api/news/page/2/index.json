@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-02-a-chinese-ai-powered-robot-aims-to-tackle-complex-surgeries.md",
+      "title": "A Chinese AI-Powered Robot Aims to Tackle Complex Surgeries",
+      "excerpt": "The four-arm laparoscopic surgical robot clinched the topmost award at the 2022 World Artificial Intelligence Conference.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sixthtone.com/news/1011147/a-chinese-ai-powered-robot-aims-to-tackle-complex-surgeries?source=channel_home",
+      "originalUrl": "https://www.sixthtone.com/news/1011147/a-chinese-ai-powered-robot-aims-to-tackle-complex-surgeries?source=channel_home",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image5.sixthtone.com/image/5/57/771.jpg",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-01T20:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sixth Tone",
+        "domain": "sixthtone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-02-teachers-union-say-to-new-face-recognition-app-education-minister-satyanarayan.md",
       "title": "Teachers’ union say to new face recognition app: Education Minister Satyanarayan",
       "excerpt": "The minister expressed confidence that technical glitches will not be a hindrance and they will be sorted out in the due course.",
@@ -137,6 +180,40 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-02-with-new-ai-chip-rules-us-takes-aim-at-a-critical-niche.md",
+      "title": "With new AI chip rules, U.S. takes aim at a critical niche",
+      "excerpt": "What the affected chips share is the ability to carry out calculations for artificial intelligence work quickly, at huge scale and with high precision. Less powerful AI chips can work quickly at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/with-new-ai-chip-rules-u.s.-takes-aim-at-a-critical-niche",
+      "originalUrl": "https://www.nasdaq.com/articles/with-new-ai-chip-rules-u.s.-takes-aim-at-a-critical-niche",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/with-new-ai-chip-rules-u.s.-takes-aim-at-a-critical-niche?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/with-new-ai-chip-rules-u.s.-takes-aim-at-a-critical-niche?amp",
+      "publishedDateTime": "2022-09-01T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -698,7 +775,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-projected-to-reach-worth-353-billion-by-2026---exclusive-report-by-marketsandmarketstm-2022-09-01",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1125,112 +1202,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-how-ai-is-helping-anonymize-clinical-trial-submissions.md",
-      "title": "How AI Is Helping Anonymize Clinical Trial Submissions",
-      "excerpt": "Anonymization of clinical trial submissions is tricky and risks regulatory penalties. Here’s how AI can help protect patient data privacy while ensuring transparency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ganeskesari/2022/08/31/how-ai-is-helping-anonymize-clinical-trial-submissions/",
-      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2022/08/31/how-ai-is-helping-anonymize-clinical-trial-submissions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63102c3817aeb905d3213ebc/0x0.jpg?format=jpg&crop=2550,1435,x0,y131,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2022/08/31/how-ai-is-helping-anonymize-clinical-trial-submissions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2022/08/31/how-ai-is-helping-anonymize-clinical-trial-submissions/amp/",
-      "publishedDateTime": "2022-08-31T20:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-intel-ai-chief-wei-li-someone-has-to-bring-todays-ai-supercomputing-to-the-masses.md",
-      "title": "Intel AI chief Wei Li: Someone has to bring today's AI supercomputing to the masses",
-      "excerpt": "Software is key to broadening the reach of AI, and much of it goes back to decades-old approaches in compiler technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/intel-ai-chief-wei-li-someone-has-to-bring-todays-ai-supercomputing-to-the-masses/",
-      "originalUrl": "https://www.zdnet.com/article/intel-ai-chief-wei-li-someone-has-to-bring-todays-ai-supercomputing-to-the-masses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/79dd0cf649ed1fe2683dcc04a0f678e42fe4fa96/2022/09/01/76e323ce-37d1-4bda-997f-c1a80a552302/wei-li-headshot.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/intel-ai-chief-wei-li-someone-has-to-bring-todays-ai-supercomputing-to-the-masses/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-ai-chief-wei-li-someone-has-to-bring-todays-ai-supercomputing-to-the-masses/",
-      "publishedDateTime": "2022-08-31T18:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "Facebook AI"
       ]
     }
   ],

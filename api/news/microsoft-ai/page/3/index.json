@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-12-microsofts-new-azure-fluid-relay-service-now-generally-available.md",
+      "title": "Microsoft’s New Azure Fluid Relay Service Now Generally Available",
+      "excerpt": "The Ballerina “Table” data structure can be more effective than maps in representing indexed data collections In this annual report, the InfoQ editors discuss the current state of AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2022/08/azure-fluid-relay-service/?amp;amp;amp",
+      "originalUrl": "https://www.infoq.com/news/2022/08/azure-fluid-relay-service/?amp;amp;amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2022/08/azure-fluid-relay-service/en/headerimage/generatedHeaderImage-1659899905932.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-12T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-12-office-2016-and-2019-users-wont-be-cut-off-from-microsoft-365-back-end-services-next-year.md",
       "title": "Office 2016 and 2019 users won't be cut off from Microsoft 365 back-end services next year",
       "excerpt": "Even though Microsoft is all-in on the cloud, it still is continuing to roll out \"perpetual\" (non-subscription) versions of Office every few years. Recently, some of those users -- namely those ...",
@@ -1377,49 +1420,6 @@
       "provider": {
         "name": "Digital Journal",
         "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-regular-exercise-program-may-stall-cognitive-decline.md",
-      "title": "Regular Exercise Program May Stall Cognitive Decline",
-      "excerpt": "Sedentary older adults with amnestic mild cognitive impairment who engaged in regular exercise for a year maintained their cognition without decline, topline data from the EXERT trial showed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/meetingcoverage/aaic/100054",
-      "originalUrl": "https://www.medpagetoday.com/meetingcoverage/aaic/100054",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.medpagetoday.net/media/images/100xxx/100054.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T14:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedPage Today",
-        "domain": "medpagetoday.com",
         "images": null,
         "publishers": null,
         "authors": null

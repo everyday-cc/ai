@@ -109,6 +109,20 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "AI-generated artwork wins US competition, angers art community"
+    excerpt: "Allen won in the Digital Arts / Digitally Manipulated Photography category with a work called “Théâtre D'opéra Spatial” which is an AI-generated image printed on a canvas. The painting depicts a scene that resembles a space opera."
+    publishedDateTime: 2022-09-04T14:31:00Z
+    webUrl: "https://interestingengineering.com/culture/ai-artwork-wins-angers-art-community"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 37
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/2022/09/04/image/jpeg/Skvetx8TJ4uzrUmlGIT0tpr5pOmRT0xyHMSZVk1E.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "gVrq8DjmguLa83XvJ4uy/fHmhPsBWq67ZU4dufqybBmMy8Q9FSWr10pG5LH0hmTRVekRKM0pJRpnFl/apENUTzvisUhhPbA9neZ0pmNP0+CQXBiqbJHUPRXPjh6TDlDgXs2lRf6s8ue4usZ9GCEbE072/CM4NaeqZGW1pK4ntBx0RjE1PTrdaIsCrycyqeMMtnV716Qce/aDPZBOL1Jq8CS9PY4vDcJCd3peshNNiNE1nWTyMhPDwQtZsNtbB+O6AI2SMZd1GqCxH0GwH3Qhb1NixAPba7jOCOhn0ZOKUGU6Lal2J6k+5K/h2mgkFBRLOkwu9v9NNAl3kZqgwwLas5DFBjfKE2z3mwbZQsLomoM=;ZK0a5gk/tZ6zVMp6LimErg=="
 ---

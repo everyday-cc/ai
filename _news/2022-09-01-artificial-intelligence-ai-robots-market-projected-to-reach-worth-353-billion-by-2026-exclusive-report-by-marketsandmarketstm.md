@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-projected-to-reach-worth-353-billion-by-2026---exclusive-report-by-marketsandmarketstm-2022-09-01"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) Robots Market Projected to Reach worth $35.3 billion by 2026 – Exclusive Report by MarketsandMarkets™"
+    excerpt: "Companies are now increasingly focusing on developing robots that are suitable for the entire family and excel in performing the abovementioned tasks. Artificial Intelligence in Manufacturing ..."
+    publishedDateTime: 2022-09-01T13:38:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28718013/artificial-intelligence-ai-robots-market-projected-to-reach-worth-35-3-billion-by-2026-exclusive-r"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28718013"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28718013"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
   - title: "Global Speech & Voice Recognition Market Research Report to 2027 - Featuring Amazon, Apple and Baidu Among Others - ResearchAndMarkets.com"
     excerpt: "The \"Speech & Voice Recognition Market Research Report by Delivery Method, Technology, Deployment Mode, Vertical, Region - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2022-08-31T11:33:00Z

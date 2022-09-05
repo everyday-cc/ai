@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/self-driving-company-aurora-mul
 webUrl: "https://www.reuters.com/technology/self-driving-company-aurora-mulling-possible-sale-apple-or-microsoft-bloomberg-2022-09-02/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 480
         height: 311
         isCached: true
+  - title: "Self-Driving Company Aurora Mulling Possible Sale to Apple or Microsoft - Bloomberg News"
+    excerpt: "Aurora Innovation Inc Chief Executive Chris Urmson recently laid out a series of options for the self-driving company to combat challenging market conditions, including a possible sale to Apple Inc or Microsoft Corp,"
+    publishedDateTime: 2022-09-02T19:58:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2022-09-02/self-driving-company-aurora-mulling-possible-sale-to-apple-or-microsoft-bloomberg-news"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 42
   - title: "Self-driving tech firm Aurora mulls sale to Apple or Microsoft, says report"
     excerpt: "Aurora Innovation Inc chief executive Chris Urmson recently outlined several options for the self-driving tech firm to combat challenging market conditions, including a possible sale to Apple Inc or Microsoft Corp,"
     publishedDateTime: 2022-09-03T09:58:00Z

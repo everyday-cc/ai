@@ -2,6 +2,179 @@
   "page": 126,
   "value": [
     {
+      "path": "_news/2022-05-30-artificial-intelligence-a-gift-for-healthcare.md",
+      "title": "Artificial Intelligence: A gift for healthcare",
+      "excerpt": "From diagnosis to treatment, from prevention to therapeutics, artificial intelligence has made many things possible which had been unachievable before.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/home/education/news/artificial-intelligence-a-gift-for-healthcare/articleshow/91880430.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/home/education/news/artificial-intelligence-a-gift-for-healthcare/articleshow/91880430.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-91880419,width-1070,height-580,imgsize-156724,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1069,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/home/education/news/artificial-intelligence-a-gift-for-healthcare/amp_articleshow/91880430.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/artificial-intelligence-a-gift-for-healthcare/amp_articleshow/91880430.cms",
+      "publishedDateTime": "2022-05-29T20:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-05-30-new-insights-into-the-complexity-of-the-brain.md",
+      "title": "New Insights Into the Complexity of the Brain",
+      "excerpt": "Neurology research can include information involving brain research, neurological disorders, medicine, brain cancer, peripheral nervous systems, central nervous systems, nerve damage, brain tumors, seizures,",
+      "sourceUrl": null,
+      "webUrl": "https://neurosciencenews.com/computer-neuron-model-20693/",
+      "originalUrl": "https://neurosciencenews.com/computer-neuron-model-20693/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-29T20:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neuroscience News",
+        "domain": "neurosciencenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-30-i-tried-googles-text-to-image-ai-and-i-was-shocked-by-the-results.md",
+      "title": "I tried Google's text-to-image AI, and I was shocked by the results",
+      "excerpt": "Text-to-image artificial intelligence programs aren’t anything new. Indeed, existing neural networks like DALL-E have impressed us with their ability to generate simple, photorealistic images ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/i-tried-googles-text-to-image-ai-and-was-shocked-by-the-results",
+      "originalUrl": "https://www.techradar.com/news/i-tried-googles-text-to-image-ai-and-was-shocked-by-the-results",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/uFKwu2BZZ5mhKVe5YmpbDS-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-29T17:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-30-meet-the-smallest-ever-remote-controlled-walking-robot.md",
+      "title": "Meet the smallest ever remote-controlled walking robot",
+      "excerpt": "Engineers have unveiled the smallest remote-controlled walking robot ever created - even tinier than a flea. The tiny robotic crab can \"walk, bend, twist, turn and jump\" according to engineers ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.sky.com/story/meet-the-smallest-ever-remote-controlled-walking-robot-12622380?dcmp=snt-sf-twitter",
+      "originalUrl": "https://news.sky.com/story/meet-the-smallest-ever-remote-controlled-walking-robot-12622380?dcmp=snt-sf-twitter",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://e3.365dm.com/22/05/1600x900/skynews-robot-coin-tiny-crab_5785721.jpg?20220527114832",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.sky.com/story/amp/meet-the-smallest-ever-remote-controlled-walking-robot-12622380",
+      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/meet-the-smallest-ever-remote-controlled-walking-robot-12622380",
+      "publishedDateTime": "2022-05-29T15:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sky",
+        "domain": "sky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-30-global-artificial-intelligence-platform-market-2022-business-scenario-corporate-profiles-competitive-strategy-analysis-and-forecast-2028.md",
       "title": "Global Artificial Intelligence Platform Market 2022 - Business Scenario, Corporate Profiles, Competitive Strategy Analysis and Forecast 2028",
       "excerpt": "The Global Artificial Intelligence Platform Market industry study has been published by MarketsandResearch.biz",
@@ -916,186 +1089,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-deep-work-in-the-office-will-look-different-now.md",
-      "title": "Deep Work in the Office Will Look Different Now",
-      "excerpt": "Deep learning is one of the five elements that drive these areas. It lets people debate concepts in healthy ways, get feedback and understand subtle contextual differences that might change what ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/426453",
-      "originalUrl": "https://www.entrepreneur.com/article/426453",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1652799299-GettyImages-545163603.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-ai-based-tech-company-hitlab-is-shaking-up-the-music-industry.md",
-      "title": "AI-Based Tech Company HITLAB Is Shaking Up The Music Industry",
-      "excerpt": "AI-based music technology company, HITLAB, is revolutionizing how entertainment content is discovered, produced, and consumed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlmoore/2022/05/27/ai-based-tech-company-hitlab-is-shaking-up-the-music-industry/",
-      "originalUrl": "https://www.forbes.com/sites/karlmoore/2022/05/27/ai-based-tech-company-hitlab-is-shaking-up-the-music-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62900a18798f8afff74d8a31/0x0.jpg?format=jpg&crop=1767,1178,x204,y7,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlmoore/2022/05/27/ai-based-tech-company-hitlab-is-shaking-up-the-music-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlmoore/2022/05/27/ai-based-tech-company-hitlab-is-shaking-up-the-music-industry/amp/",
-      "publishedDateTime": "2022-05-27T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-smarter-health-how-ai-is-transforming-health-care.md",
-      "title": "Smarter health: How AI is transforming health care",
-      "excerpt": "American health care is complex. Expensive. Hard to access. Could artificial intelligence change that? In the first episode in our series Smarter health, we explore the potential",
-      "sourceUrl": null,
-      "webUrl": "https://www.wwno.org/2022-05-27/smarter-health-how-ai-is-transforming-health-care",
-      "originalUrl": "https://www.wwno.org/2022-05-27/smarter-health-how-ai-is-transforming-health-care",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WWNO",
-        "domain": "wwno.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-ai-in-fintech-market-size-industry-trends-share-analysis-growth-and-forecast-2030.md",
-      "title": "AI in Fintech Market Size Industry Trends Share Analysis Growth and Forecast 2030",
-      "excerpt": "This section includes regional segmentation that accentuates the recent and future demand for AI in Fintech market across North America, Europe, Asia-Pacific, Middle East & Africa, and South America.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-size-industry-trends-share-analysis-growth-and-forecast-2030",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-size-industry-trends-share-analysis-growth-and-forecast-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/Trump-Capitol-Riots-Washington-AFP-1K-01-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

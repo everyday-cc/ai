@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-05-cost-time-and-security-savings-with-artificial-intelligence-and-machine-learning.md",
+      "title": "Cost, Time, and Security Savings with Artificial Intelligence and Machine Learning",
+      "excerpt": "Sascha Giese, Head Geek, SolarWinds shared the state of cost, time, and security savings with artificial intelligence and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://techwireasia.com/2022/09/cost-time-and-security-savings-with-artificial-intelligence-and-machine-learning/",
+      "originalUrl": "https://techwireasia.com/2022/09/cost-time-and-security-savings-with-artificial-intelligence-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techwireasia.com/wp-content/uploads/2022/09/shutterstock_726337747-scaled.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-04T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-09-04-how-lord-of-the-rings-used-ai-to-change-big-screen-battles-forever.md",
       "title": "How 'Lord of the Rings' Used AI to Change Big-Screen Battles Forever",
       "excerpt": "Massive software has spawned armies of artificially intelligent crowds, from Lord of the Rings to Avengers: Endgame.",
@@ -765,6 +809,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-30-robe-array-could-let-small-companies-access-popular-form-of-ai.md",
+      "title": "ROBE Array could let small companies access popular form of AI",
+      "excerpt": "ROBE Array could let small companies access popular form of AI: Low-memory technique for deep-learning recommendation systems. ScienceDaily . Retrieved August 31, 2022 from www.sciencedaily.com ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/08/220829143936.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/08/220829143936.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T19:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-29-why-artificial-general-intelligence-isnt-further-along.md",
       "title": "Why Artificial General Intelligence Isn’t Further Along",
       "excerpt": "For all the devastation it has caused, the Covid-19 pandemic could rightfully claim responsibility for accelerating the adaptation of artificial intelligence (AI) in the business world. Harris Poll, working with Appen, found that 55% of surveyed companies ...",
@@ -1332,103 +1419,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-smarter-robots-ai-machine-learning-and-3d-vision.md",
-      "title": "Smarter Robots: AI, Machine Learning, and 3D Vision",
-      "excerpt": "New systems from ABB, AMT, Pearson Packaging Systems, Schubert, and Shape Process Automation include new Artificial Intelligence features.",
-      "sourceUrl": null,
-      "webUrl": "https://www.packworld.com/machinery/robotics/article/22340562/smarter-robots-ai-machine-learning-and-3d-vision",
-      "originalUrl": "https://www.packworld.com/machinery/robotics/article/22340562/smarter-robots-ai-machine-learning-and-3d-vision",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.packworld.com/files/base/pmmi/all/image/2022/07/Mitarbeiter_Cobot_032_20211020.62d891ea15c52.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
-          "width": 1200,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-25T09:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Packaging World",
-        "domain": "packworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-north-america-deep-learning-chip-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2027.md",
-      "title": "North America Deep Learning Chip Market Segmentation, Future Trends, Growth Overview, Key Companies and Forecast by 2027",
-      "excerpt": "Driving factor such as the rising investments in deep learning chip start-ups is propelling the growth of the deep learning chip market. Further, the increasing adoption of cloud-based computing across several industries is anticipated to boost the deep learning chip market growth in the near future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/north-america-deep-learning-chip-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2027-2022-08-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/north-america-deep-learning-chip-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2027-2022-08-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-25T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

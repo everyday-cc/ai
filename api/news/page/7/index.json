@@ -2,6 +2,203 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-08-29-self-driving-cars-a-primer.md",
+      "title": "Self-driving cars: A primer",
+      "excerpt": "Self-driving cars are part of an uncertain future, but automakers have signaled they are constantly moving to a day when at least some of us won’t drive at all.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kron4.com/automotive/self-driving-cars-a-primer/",
+      "originalUrl": "https://www.kron4.com/automotive/self-driving-cars-a-primer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kron4.com/wp-content/uploads/sites/11/2022/08/chevrolet-bolt-ev-cruise-automation-test-mule-in-san-francisco_100565635_h.jpg?w=1280",
+          "width": 1280,
+          "height": 855,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kron4.com/automotive/self-driving-cars-a-primer/amp/",
+      "cdnAmpWebUrl": "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/automotive/self-driving-cars-a-primer/amp/",
+      "publishedDateTime": "2022-08-28T12:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KRON4",
+        "domain": "kron4.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-28-grow-up-5-reasons-why-many-businesses-are-still-in-ai-adolescence.md",
+      "title": "Grow up: 5 reasons why many businesses are still in ‘AI adolescence’",
+      "excerpt": "Many organizations are still \"adolescents\" when it comes to their AI journeys. But there’s plenty of room for growth around AI for everyone.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/grow-up-5-reasons-why-many-businesses-are-still-in-ai-adolescence/",
+      "originalUrl": "https://venturebeat.com/ai/grow-up-5-reasons-why-many-businesses-are-still-in-ai-adolescence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1187320478-Sutad-Watthanakul-EyeEm.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 613,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/grow-up-5-reasons-why-many-businesses-are-still-in-ai-adolescence/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/grow-up-5-reasons-why-many-businesses-are-still-in-ai-adolescence/amp/",
+      "publishedDateTime": "2022-08-28T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-28-the-worst-ai-advice-youll-ever-hear.md",
+      "title": "The Worst AI Advice You’ll Ever Hear",
+      "excerpt": "There’s a difference between Iterating to Success and Breaking Things The problem with these failures is that since AI is still nascent, despite over seven decades of development, organizations are tempted to give up altogether without ever reaching the success point.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/28/the-worst-ai-advice-youll-ever-hear/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/28/the-worst-ai-advice-youll-ever-hear/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/630b88712f0caddf0068ecce/0x0.jpg?format=jpg&crop=1892,1064,x0,y725,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/28/the-worst-ai-advice-youll-ever-hear/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/08/28/the-worst-ai-advice-youll-ever-hear/amp/",
+      "publishedDateTime": "2022-08-28T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-28-dive-into-robotics-with-84-off-this-six-axis-mini-robot-arm.md",
+      "title": "Dive into robotics with $84 off this six-axis mini robot arm",
+      "excerpt": "So as interest in the merger between automation and AI grows, you might want to consider introducing your children to robotics as a hobby. This smart robot arm by WLKATA could be a great first step, and it’s currently on sale for $1,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/wlkata-mirobot-deal-sale-145553119.html",
+      "originalUrl": "https://www.engadget.com/wlkata-mirobot-deal-sale-145553119.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-08/9a435b10-23bd-11ed-9dfe-6e340fa17b0f",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-28T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-28-sticker-makes-police-aware-of-those-with-cognitive-disabilities.md",
       "title": "Sticker makes police AWARE of those with cognitive disabilities",
       "excerpt": "Families may help police and protect their loved ones with cognitive disabilities just by placing a sticker on their front door. The AWARE stickers alert police, firefighters, and medics that ...",
@@ -226,49 +423,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-28-startup-develops-ai-that-makes-call-center-employees-sound-like-white-american-robots.md",
-      "title": "Startup develops AI that makes call center employees sound like white, American robots",
-      "excerpt": "This time around, Palo Alto-based startup Sanas has introduced to the world an AI with the goal of making foreign call center employees sound accent-neutral, and the effect of making them sound white.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/ai-startup-makes-call-center-foreigners-sound-white",
-      "originalUrl": "https://mashable.com/article/ai-startup-makes-call-center-foreigners-sound-white",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/06flaA2qTkuYtTU1N3cKsg0/hero-image.fill.size_1200x675.v1661618885.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-27T23:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2022-08-28-save-money-and-time-with-this-discounted-voice-transcription-tool.md",
       "title": "Save money and time with this discounted voice transcription tool",
       "excerpt": "Unfortunately, the ensuing transcription process can be tedious and time-consuming unless you have the right tools. The Voicetapp Speech-to-Text Transcription app is designed to turn speech into text with a wide range accurately.",
@@ -438,6 +592,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-28-startup-develops-ai-that-makes-call-center-employees-sound-like-white-american-robots.md",
+      "title": "Startup develops AI that makes call center employees sound like white, American robots",
+      "excerpt": "This time around, Palo Alto-based startup Sanas has introduced to the world an AI with the goal of making foreign call center employees sound accent-neutral, and the effect of making them sound white.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/startup-develops-ai-makes-call-192648461.html",
+      "originalUrl": "https://www.aol.com/startup-develops-ai-makes-call-192648461.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/9Q3Nzya3jKi3ygpRe8Scjw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_mashable_370/cb35956c039b7fe15852e5ea8716b040",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.aol.com/amphtml/startup-develops-ai-makes-call-192648461.html",
+      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/startup-develops-ai-makes-call-192648461.html",
+      "publishedDateTime": "2022-08-27T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -950,179 +1147,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-who-will-establish-metaverse-ethics.md",
-      "title": "Who will establish metaverse ethics?",
-      "excerpt": "The metaverse is not a new concept. The term was coined by science fiction novelist Neal Stephenson in his 1992 book Snow Crash, which depicts a hyper-capitalist dystopia in which humanity has collectively opted into life in virtual environments.",
-      "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202208/27/WS6309699da310fd2b29e74891.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202208/27/WS6309699da310fd2b29e74891.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img2.chinadaily.com.cn/images/202208/27/6309699da310fd2bec9e80fb.jpeg",
-          "width": 428,
-          "height": 285,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-26T20:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-fintech-and-msmes-are-together-changing-the-face-of-digitalisation.md",
-      "title": "Fintech and MSMEs are together changing the face of digitalisation",
-      "excerpt": "Fintech companies are betting on the power of AI, machine learning, and big data to drive growth and innovation in the MSME sector. The fintech space has witnessed enormous success in the Asia ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/smbstory/fintech-startups-msme-sector-small-businesses-changing-face-of-digitalisation-india/amp",
-      "originalUrl": "https://yourstory.com/smbstory/fintech-startups-msme-sector-small-businesses-changing-face-of-digitalisation-india/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/21/0a385fc03e6011e999df3d1594bbde2c/Imageybe01574423681172jpg ",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/smbstory/fintech-startups-msme-sector-small-businesses-changing-face-of-digitalisation-india/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/smbstory/fintech-startups-msme-sector-small-businesses-changing-face-of-digitalisation-india/amp",
-      "publishedDateTime": "2022-08-26T19:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YourStory",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-how-artificial-intelligence-is-finding-critical-heart-failure-patients.md",
-      "title": "How artificial intelligence is finding critical heart failure patients",
-      "excerpt": "Over 6 million American adults suffer from heart failure. But now, doctors are harnessing AI technology to catch the problem before it's fatal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wqad.com/article/news/health/your-health/artificial-intelligence-critical-heart-failure-ai/526-a95d8163-6ee4-4819-81d4-42448018834f",
-      "originalUrl": "https://www.wqad.com/article/news/health/your-health/artificial-intelligence-critical-heart-failure-ai/526-a95d8163-6ee4-4819-81d4-42448018834f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.tegna-media.com/assets/WQAD/images/995c409e-08a4-4d28-9233-f96e3239ae90/995c409e-08a4-4d28-9233-f96e3239ae90_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wqad.com/amp/article/news/health/your-health/artificial-intelligence-critical-heart-failure-ai/526-a95d8163-6ee4-4819-81d4-42448018834f",
-      "cdnAmpWebUrl": "https://www-wqad-com.cdn.ampproject.org/c/s/www.wqad.com/amp/article/news/health/your-health/artificial-intelligence-critical-heart-failure-ai/526-a95d8163-6ee4-4819-81d4-42448018834f",
-      "publishedDateTime": "2022-08-26T16:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WQAD",
-        "domain": "wqad.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-warren-buffett-bullish-on-driverless-trucks-after-purchasing-stake-in-kodiak-robotics.md",
-      "title": "Warren Buffett bullish on driverless trucks after purchasing stake in Kodiak Robotics",
-      "excerpt": "This investment is a significant validation by Berkshire Hathaway, through Pilot, that driverless trucks are on the cusp of being a reality. It may be hard and even scary to imagine an 18-wheeler ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autonews.com/mobility-report/why-warren-buffett-bullish-driverless-trucks",
-      "originalUrl": "https://www.autonews.com/mobility-report/why-warren-buffett-bullish-driverless-trucks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/buffett_0.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-26T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

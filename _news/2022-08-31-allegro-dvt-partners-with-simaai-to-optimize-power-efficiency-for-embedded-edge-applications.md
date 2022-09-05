@@ -28,20 +28,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 36
-  - title: "SiMa.ai Ships First Industry Leading Purpose-built Machine Learning SoC Platform to Customers for Embedded Edge Applications"
-    excerpt: "SiMa.ai Ships First Industry Leading Purpose-built Machine Learning SoC Platform to Customers for Embedded Edge Applications"
-    publishedDateTime: 2022-08-31T05:27:00Z
-    webUrl: "https://www.businesswireindia.com/simaai-ships-first-industry-leading-purpose-built-machine-learning-soc-platform-to-customers-for-embedded-edge-applications-80442.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 27
-    images:
-      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_80442.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "DMZGA3cIkUudjoI9ukxLum8ECiwdYzsYc/Ie3MoQgOPmxQZTTCLbLwlPOLNATDGSx0Yp23Otin9wLTogpCDu3Nu8xuWATzVjyWiJY5KG4DOMSqg9IXOb1P0iLbZRvEhSFRd/gSoFXZpkfqWQ2PXY2/xrM/ur0Hk+ZunLfU1NempaKpAwCbcEs6vzXJ70Rzsw2VRnOWR36KHVmQ1HLEZdkRHf7N/jn6tkuPKvsMrPuFhoQ76Brd9f7aXJ0cI8rx7nxYXWPymHONOonJSSSwnKqgqgcMNVkhtTXVehf43dDcx7/nvOtMdW8NYEknsc5gFpyHIuvyv01mE0yH+Qc0YGCVIHuKAMeEsGAwRYse/cwLE=;mif3ORxWGFP028eBvbk/Jw=="
 ---

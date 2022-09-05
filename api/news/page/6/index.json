@@ -2,6 +2,207 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-08-29-why-artificial-general-intelligence-isnt-further-along.md",
+      "title": "Why Artificial General Intelligence Isn’t Further Along",
+      "excerpt": "For all the devastation it has caused, the Covid-19 pandemic could rightfully claim responsibility for accelerating the adaptation of artificial intelligence (AI) in the business world. Harris Poll, working with Appen, found that 55% of surveyed companies ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/29/why-artificial-general-intelligence-isnt-further-along/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/29/why-artificial-general-intelligence-isnt-further-along/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62c83cadb3da67a5ff548ecf/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/29/why-artificial-general-intelligence-isnt-further-along/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/29/why-artificial-general-intelligence-isnt-further-along/amp/",
+      "publishedDateTime": "2022-08-29T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-global-artificial-intelligence-ai-chips-market-2022-2027-expected-to-reach-usd-6723166-million-and-growing-at-cagr-of-3828.md",
+      "title": "Global Artificial Intelligence (AI) Chips Market | 2022-2027 | Expected to Reach USD 67231.66 Million and Growing at CAGR of 38.28%",
+      "excerpt": "The global Artificial Intelligence (AI) Chips market size was valued at USD 9615.51 Million in 2021 and is expected to expand at a CAGR of 38.28% during the forecast period, reaching USD 67231.66 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/global-artificial-intelligence-ai-chips-market-2022-2027-expected-to-reach-usd-67231-66-million-and-growing-at-cagr-of-38-28",
+      "originalUrl": "https://www.digitaljournal.com/pr/global-artificial-intelligence-ai-chips-market-2022-2027-expected-to-reach-usd-67231-66-million-and-growing-at-cagr-of-38-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/09/d0100701654b5d46553dbd6e3f8a6c108ba2955e-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-will-untether-ais-speedai240-boqueria-inferencing-chip-be-the-one.md",
+      "title": "Will Untether AI’s SpeedAI240 “Boqueria” Inferencing Chip Be “The One”?",
+      "excerpt": "One of the latest AI/ML chips to appear was revealed at last week’s Hot Chips 34 conference. Untether AI’s founder Martin Snelgrove and VP of Product Bob Beachler rolled out their company’s speedAI chip family,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2022/08/29/is-untether-ais-speedai240-boqueria-inferencing-chip-the-one/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2022/08/29/is-untether-ais-speedai240-boqueria-inferencing-chip-the-one/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/630c2f17dc25910550390ffe/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2022/08/29/is-untether-ais-speedai240-boqueria-inferencing-chip-the-one/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2022/08/29/is-untether-ais-speedai240-boqueria-inferencing-chip-the-one/amp/",
+      "publishedDateTime": "2022-08-29T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-new-ai-cryptographic-technology-can-help-combat-counterfeiting.md",
+      "title": "New AI Cryptographic Technology Can Help Combat Counterfeiting",
+      "excerpt": "The ability to implement an invisible cryptographic seal into existing packaging without changes to existing manufacturing and supply chain processes could transform the ability of companies to stop counterfeiting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/29/new-ai-cryptographic-technology-can-help-combat-counterfeiting/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/29/new-ai-cryptographic-technology-can-help-combat-counterfeiting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/913017298/0x0.jpg?format=jpg&crop=8000,4500,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/29/new-ai-cryptographic-technology-can-help-combat-counterfeiting/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/29/new-ai-cryptographic-technology-can-help-combat-counterfeiting/amp/",
+      "publishedDateTime": "2022-08-29T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-29-facial-recognition-devices-market-2022-142-cagr-share-industry-size-opportunities-analysis-and-forecast-to-2028.md",
       "title": "Facial Recognition Devices Market 2022 [14.2% CAGR] Share, Industry Size, Opportunities, Analysis and Forecast to 2028",
       "excerpt": "\" Facial Recognition Devices Market \" Insights 2022 By Types (Handheld Devices, Fixed Devices), Applications (Security and Protection, Transportation, BFSI, Others), By Segmentation, Regions and Forecast to 2028.",
@@ -56,24 +257,33 @@
     {
       "path": "_news/2022-08-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry.md",
       "title": "Teradata Announces ClearScape Analytics: The Most Powerful, Open, and Connected Cloud Analytics Available in the Industry",
-      "excerpt": "ClearScape Analytics – which encompasses the same high-performing analytics that Teradata is known for but with 50+ new analytic functions – is available as part of Teradata VantageCloud and the new Teradata VantageCloud Lake,",
+      "excerpt": "Teradata (NYSE: TDC ) today announced ClearScape Analytics, the significantly expanded and newly named analytics capabilities that span t",
       "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry",
+      "webUrl": "https://www.joplinglobe.com/region/national_business/teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the/article_e5c099aa-df86-5cb9-b6bb-c03fdef2e41f.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the/article_e5c099aa-df86-5cb9-b6bb-c03fdef2e41f.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg",
+          "width": 350,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T03:55:00-07:00",
+      "publishedDateTime": "2022-08-29T03:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -168,10 +378,10 @@
     {
       "path": "_news/2022-08-29-ai-in-fintech-global-market-report-2022-need-for-fraud-detection-in-fintech-financial-institutions-driving-adoption-researchandmarketscom.md",
       "title": "AI in FinTech Global Market Report 2022: Need for Fraud Detection in Fintech & Financial Institutions Driving Adoption - ResearchAndMarkets.com",
-      "excerpt": "The “AI in FinTech Global Market Report 2022” report has been added to ResearchAndMarkets.com’s offering. The global AI in fintech market is expected to grow from $7.25 billion in 2021 to $9.13 billion in 2022 at a compound annual growth rate (CAGR) of 25.",
+      "excerpt": "The global AI in fintech market is expected to grow from $7.25 billion in 2021 to $9.13 billion in 2022 at a compound annual growth rate (CAGR) of 25.9%. The AI in fintech market is expected to grow to $24.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-middle-east-asia-south-america-0232c251b16047f18c094cc48e26a795",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-middle-east-asia-south-america-0232c251b16047f18c094cc48e26a795",
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-ai-in-fintech-global-market-report-2022-need-for-fraud-detection-in-fintech-and-financial-institutions-driving-adoption-researchandmarketscom",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-ai-in-fintech-global-market-report-2022-need-for-fraud-detection-in-fintech-and-financial-institutions-driving-adoption-researchandmarketscom",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -181,11 +391,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T03:26:00-07:00",
+      "publishedDateTime": "2022-08-29T03:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -971,203 +1181,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-self-driving-cars-a-primer.md",
-      "title": "Self-driving cars: A primer",
-      "excerpt": "Self-driving cars are part of an uncertain future, but automakers have signaled they are constantly moving to a day when at least some of us won’t drive at all.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kron4.com/automotive/self-driving-cars-a-primer/",
-      "originalUrl": "https://www.kron4.com/automotive/self-driving-cars-a-primer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kron4.com/wp-content/uploads/sites/11/2022/08/chevrolet-bolt-ev-cruise-automation-test-mule-in-san-francisco_100565635_h.jpg?w=1280",
-          "width": 1280,
-          "height": 855,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kron4.com/automotive/self-driving-cars-a-primer/amp/",
-      "cdnAmpWebUrl": "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/automotive/self-driving-cars-a-primer/amp/",
-      "publishedDateTime": "2022-08-28T12:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KRON4",
-        "domain": "kron4.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-28-grow-up-5-reasons-why-many-businesses-are-still-in-ai-adolescence.md",
-      "title": "Grow up: 5 reasons why many businesses are still in ‘AI adolescence’",
-      "excerpt": "Many organizations are still \"adolescents\" when it comes to their AI journeys. But there’s plenty of room for growth around AI for everyone.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/grow-up-5-reasons-why-many-businesses-are-still-in-ai-adolescence/",
-      "originalUrl": "https://venturebeat.com/ai/grow-up-5-reasons-why-many-businesses-are-still-in-ai-adolescence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1187320478-Sutad-Watthanakul-EyeEm.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 613,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/grow-up-5-reasons-why-many-businesses-are-still-in-ai-adolescence/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/grow-up-5-reasons-why-many-businesses-are-still-in-ai-adolescence/amp/",
-      "publishedDateTime": "2022-08-28T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-28-the-worst-ai-advice-youll-ever-hear.md",
-      "title": "The Worst AI Advice You’ll Ever Hear",
-      "excerpt": "There’s a difference between Iterating to Success and Breaking Things The problem with these failures is that since AI is still nascent, despite over seven decades of development, organizations are tempted to give up altogether without ever reaching the success point.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/28/the-worst-ai-advice-youll-ever-hear/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/28/the-worst-ai-advice-youll-ever-hear/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/630b88712f0caddf0068ecce/0x0.jpg?format=jpg&crop=1892,1064,x0,y725,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/28/the-worst-ai-advice-youll-ever-hear/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/08/28/the-worst-ai-advice-youll-ever-hear/amp/",
-      "publishedDateTime": "2022-08-28T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-28-dive-into-robotics-with-84-off-this-six-axis-mini-robot-arm.md",
-      "title": "Dive into robotics with $84 off this six-axis mini robot arm",
-      "excerpt": "So as interest in the merger between automation and AI grows, you might want to consider introducing your children to robotics as a hobby. This smart robot arm by WLKATA could be a great first step, and it’s currently on sale for $1,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/wlkata-mirobot-deal-sale-145553119.html",
-      "originalUrl": "https://www.engadget.com/wlkata-mirobot-deal-sale-145553119.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-08/9a435b10-23bd-11ed-9dfe-6e340fa17b0f",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-28T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

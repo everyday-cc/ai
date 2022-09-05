@@ -39,20 +39,6 @@ related:
         width: 390
         height: 280
         isCached: true
-  - title: "Renesas to acquire Steradian to expand reach in radar market"
-    excerpt: "Japan's Renesas Electronics has announced that it has entered into a definitive agreement to acquire India-based fabless Steradian Semiconductors that provides 4D imaging radar solutions, in an all-cash transaction."
-    publishedDateTime: 2022-08-31T07:02:00Z
-    webUrl: "https://www.digitimes.com/news/a20220831VL203/adas-automotive-ic-renesas-steradian.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 24
-    images:
-      - url: "https://img.digitimes.com/newsshow/20220831vl203_files/2_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "1XAmTstJATVNCbErj6GOVvYzB1cb2o3TCTLPnvHw8b719eLmKatpc/jJM6ihyLbx4JbncYX26AzcYdKqfUklAwODfywMqel65kpqiJqVnfGbP+BwoqLLnMllNYu8dIpL/ODFs1At647tsyXtpSgoprLgWo5gLkd0ihFvu1EpamDfGyxt2lnWkNmZ4bdebq5NhcV6b7lBSAyzdUkD1Ye/ubj0ih1ZBHPcdDJsmqF0CsFRmZyfVWm/dzowKDLKgNlvhwXdW0eT3n+6BUc9qzMOws4PAzM45da21k9QYoL59OCyPVc55vbuxmH116R9eKOyox78CYe+c6pgrBTYxrF+dDDcCVlknrbhIPnXS8HMZXCOh1PucrvC/jbHqGGejf2KMvZBLM2bIDpYt6/g0GIRlWQFthhyIZeb8rdPCBSYdN8U+U2WxZi5OCVCUdewcMfDiQ9put2QyE4D/5Olx4pA+6Bw8oPa6TcOtCygW7DRPR85G7KrZCBSOwfppg3Z/mpq1ilfL92L1VezSwv+nRspKA==;AqQEPYjCHxxlJe5uTSJPRw=="
 ---
