@@ -1,49 +1,20 @@
 ---
 category: news
 title: "Artificial intelligence model outperforms clinicians in diagnosing pediatric ear infections"
-excerpt: "An artificial-intelligence (AI) model built at Mass Eye and Ear was shown to be significantly more accurate than doctors at diagnosing pediatric ear infections in the first head-to-head evaluation of its kind,"
-publishedDateTime: 2022-08-31T16:30:00Z
-originalUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-outperforms-clinicians-pediatric.html"
-webUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-outperforms-clinicians-pediatric.html"
-ampWebUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-outperforms-clinicians-pediatric.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-artificial-intelligence-outperforms-clinicians-pediatric.amp"
+excerpt: "An artificial-intelligence model built at Mass Eye and Ear was shown to be significantly more accurate than doctors at diagnosing pediatric ear infections in the first head-to-head evaluation of its kind."
+publishedDateTime: 2022-08-31T12:02:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/963336"
+webUrl: "https://www.eurekalert.org/news-releases/963336"
 type: article
-quality: 49
-heat: -1
-published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
+  - IBM AI
   - AI
-  - AI in Autos
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-62.jpg"
-    width: 359
-    height: 428
-    isCached: true
-
-related:
-  - title: "Artificial Intelligence in Diagnosing Pediatric Ear Infections"
-    excerpt: "An artificial-intelligence (AI) model developed was significantly more accurate than doctors at diagnosing pediatric ear infections."
-    publishedDateTime: 2022-08-31T16:50:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-in-diagnosing-pediatric-ear-infections-208463-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-in-diagnosing-pediatric-ear-infections-208463-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-in-diagnosing-pediatric-ear-infections-208463-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 61
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/hear-aid-baby1.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
-
-secured: "QxDWVlDuwo0MTNuRe8fHpppArgAkvry9i1Up6TQF5nFt5qhHAbjF7cpq8stbdwDQUlMQYI9odKT/XPUBDnFR0lyVUEgyNJJr8xfPlITa0u/3BrHVQuApTGhDA9umL3rA9CLYFXtfcdymR6ud4GRq1fkjGIiIBIlaw2xTLmPwS04Yh9BJmsctQJKRZDF5cO77eoEroUrvwPo/l2jmYSKgiW2aML8R5PxF0n6zGKwH14/pswAPFcZN9wQIB99VM3cKLv7RSnn20BkHvNwv4kNwI3aLJ1kDUygShd153lBKu8MdpLoiQgbumahwPTZ/EccZW+LGzZ0dR2dPu4zbutM4At4ESSKzMZi0eyWcbt314ShJZ29Al7xnIbXxbAUwy52EuNCTqLNyVsaIXNtbBFoXdQYX5RNIs1mcOkDQs0W4b8eiRj8GjhT6sIiUjAHzXMQ4pmoSz/8o9M1N0/cLDk+yCFjteAQ10lJvE6uhJz6cWbRXhkMBkMWEMZpfZ67cokwVYi0gPHiyen2tFCbZIiiV/w==;zUJ35piQgqC84+SMvEobgQ=="
+secured: "9cGMPWjc5DlZVvh/nlOgTQOBEqNYH+MgYZeQlOA2AV42u6MvI88Nbo5cCOYrFblWlFjmu+fShY4xxm1EXt/4HQ5qrBx1aBOOrMxz0G+gQOIK16J0VD4fNIsLgMFKgFNoffyRVq1/wFzWB+QaFpEMicfHt9geLcE96Nac/bYn3tAtZviZEdB+BJdkMK/XatjkndBV4Arb9sVfrHfy9f8PSmT2uVYD4JU/B27pqZjwMIFNry1w/AvlAZzRPtd/yQllKb+LsTWKcTrDukvhcw+mtDtXFbtzqtIdXVLfpjp6rnXfC+o8wsBsGpniMDmg4gQUhJ+x95AkV24UYSuqWPRz3xFdOaKFV7hNf9c3yxlPRtdvvY0Jeoih86YM4mQoecxw/wL5ee8M28nCFFl213blCHvQsCcIUJi7mNMXBgPRdsSZs09N6GvA7OgXrnNXME8Tt7oy5/DlF/vRsYPwPX5OfDGEzLuE0nQHItuutmn1/hG07fookQJjh8s3oJF6LdoqO6BfZKF2kVZ0MjQOjTn6gQ==;9udw25FcYH7CoQQzas+QMA=="
 ---
 

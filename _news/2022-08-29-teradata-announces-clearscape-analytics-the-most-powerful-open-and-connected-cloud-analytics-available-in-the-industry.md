@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Teradata Announces ClearScape Analytics: The Most Powerful, Open, and Connected Cloud Analytics Available in the Industry"
-excerpt: "Teradata (NYSE: TDC) today announced ClearScape Analytics, the significantly expanded and newly named analytics capabilities that span the entire suite of Vantage products. Teradata Vantage's industry-leading analytics have long been the cornerstone of the platform's appeal to enterprise customers for its ability to accelerate data insights and time to value."
-publishedDateTime: 2022-08-29T12:22:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/08/29/9663280.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/08/29/9663280.htm"
+excerpt: "ClearScape Analytics – which encompasses the same high-performing analytics that Teradata is known for but with 50+ new analytic functions – is available as part of Teradata VantageCloud and the new Teradata VantageCloud Lake,"
+publishedDateTime: 2022-08-29T10:55:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "PY9gXfPOn9M7utnHAnPt64gXDM7AvhnUl5RrF3XIoWMmxFRp3ibOmycEFAvVL92t39w9A0d+l1X8GdUG3aYcoR1XfWfAuOWtThYMtjrUNVDrLvPMS5WMWm5MaadQXOz8ifjNZ/s/fr6o6I38DS5qbVvAlHES3LYabr1+e0jZPSh6nIMC5jok+LGQ6EgBR5JcVpDrQO3vGcvRVOinkdPS8/iyUrURF108ptDcgxw09RrCg/UCFgSkN15NfaJgmJCEHHAspf/2bVOMEyQLgFsaqssOj603pclAmU+l5v/G2WetXXE+WRDwN3B8/sN6vwl0B6b8GYwsgE7wJeTETA/151Vso5xueQBGfl38M17M3lI=;JV7iUO9ccO7wfjzR8zeuhQ=="
+secured: "dioaepb/4++dvxaySQtbPuaz0UI0E3L3dUmCM2X4Ar6DLRKuSkWt5SoB/d3zyUrMyVUSj+NRJhNcv1yEYBncQnYUmXWreYrZlr3fhDMRP3OZMqgXbmAemu8c5KmA+4Y4KTD60aU3LbHBcedLXt9Lwz3oLQBg8COYvSO2kMjnXqodzpqTphRRGp3dqywcUHSsZhMrhmMfpskLXQVoDegMe9dFmfOrQCX5auqWwFs6Cf2qo9DRCWEussheuIwWdudekytHiWgfbSIN779V1Dbsrx+KPym3r9iXjdVrpVuyCas64jJndWGTRiv5+eIX13sHMBy/pt1l3hO3ME1dc9VHVg7hqB7fGewtOXdfofNTI1Y=;YVG4WXqSDiCALaqC32oE6w=="
 ---
 

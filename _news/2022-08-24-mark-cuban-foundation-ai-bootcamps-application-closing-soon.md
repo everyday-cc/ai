@@ -3,8 +3,8 @@ category: news
 title: "Mark Cuban Foundation AI Bootcamps- Application Closing Soon!"
 excerpt: "The Mark Cuban Foundation will host Artificial Intelligence (AI) Bootcamps for high school students in the Fall of 2022. The No Cost AI Bootcamp will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
 publishedDateTime: 2022-08-23T18:20:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-mark-cuban-foundation-ai-bootcamps-application-closing-soon-/2022/08/23/9661107.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-mark-cuban-foundation-ai-bootcamps-application-closing-soon-/2022/08/23/9661107.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2022/08/23/9661107.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/08/23/9661107.htm"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "L0KSWVKLW1OLfE0qx97rCSu+vpHfCeaHaEQ7Obd/sOKEcOOk0sx+2rL7zpGW8ji7yspn9w9iHDAvWcfvvQgsyLXUyInHYVhBW2YqALCzVh9PBIsacZrtami3VTU+dF3NhbX8YDVhKMG4NI1W2y+yXJDl9DBnktrlxd49MLrYo4oPD8Dd6GIYhGwSdNjZ5X6toosMCvuUFXb9p0Cpje07HxN7PZIDgNHG7D8hOXR0B/V9RRVnrSh59NstzouGffmX0wURhW5mk9fBdw6wXeQuUgzAkFwlMsnW7qNxjd/xB0Bf9/gtZOtn1a2uk/IKEaJe1ILOPO2LcmV3QMmXpL8vMsb44VD6iaSwDwFdjJnX7pM=;H6lYgh5YOulzidcjsJPPZw=="
+secured: "B6WOLIXltW0eIcKWFIqA5ETNL1f7PimL/yLygPt/qO6GVUIuaTl6qddxWKKT2d+qPmwM1eXyIUHGP2F57mQFVKOrvu1/DQ3MiuFDXEBXAwuY0/2Hd9GkGxIpZl9CwwEulV+x9QJSIhw+mJbhQtmyP1pHCv8nrtHPg8kU/nYFcs3Dgbxw9V6iKFGjEgYKOrCE5iC4S7nUhkvS6cohTn7+qF3JoZ8tkemNV0fbQKZnG7/5RfC6nZbvQnxd5exD/QFz+iqGnguAgzodj2jW/nGjwP3GFjQUlmPRs8xabBvtoRPklB0aX5SCOKj3MY2Ry9SdZUGg5e87bP+xcEPogURDtBZ+gN+PUgCX3yhaZNQeS2g=;A1IPMWrw/+0oT3iaxxPXRw=="
 ---
 

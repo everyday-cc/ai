@@ -6,9 +6,6 @@ publishedDateTime: 2022-09-01T20:36:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2022/09/220901151604.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/09/220901151604.htm"
 type: article
-quality: 48
-heat: -1
-published: false
 
 provider:
   name: Science Daily
@@ -23,24 +20,6 @@ topics:
   - AI
   - AI in Healthcare
 
-related:
-  - title: "Migraine tied to lower cognitive, language function"
-    excerpt: "Cognitive function and language function are lower in individuals with migraine versus those without, according to a systematic review and meta-analysis published online July 26 in The Journal of ..."
-    publishedDateTime: 2022-09-01T17:30:00Z
-    webUrl: "https://medicalxpress.com/news/2022-09-migraine-tied-cognitive-language-function.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-09-migraine-tied-cognitive-language-function.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-migraine-tied-cognitive-language-function.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/migraine-tied-to-lower.jpg"
-        width: 800
-        height: 600
-        isCached: true
-
-secured: "HOfO4ZKqNAbcYSFgB3okFWuHHVWaLTv+SMuT0lSV20o+KakShZXX2YBUh/LSXIqKW5eO9pvZRc9JZJporsCUEFWnczfGg9B+wBcmsq4op0iltjqlqZEJ4x0Qz1/Vtxo2qNUVHhQtvfIGezqndjYJqosSjs0hPOJ8uWcWRbB79y1wW95Pmi8NkOlt6HuWfB/GTaHgxlGfdgk0xjSq7jRjKCjGTIoOtEUFGxT+ncRwrk1YNyFYg7wkkcjnOuvz7uhBfmpWVSNALdQGM0NECAdUsz9nbBH2oaL6X9VQScTyPCvFWEqUgimva3Wcjn6g+fxy18sJzGdT+VwsU2iInNsjdPQSwn/NPZX5t2MvivnT5nU=;U5mJEHAJDQaYo/nosxMB0A=="
+secured: "tgpTfr7jKXcMQzbesuk7gWY70XWmWkD/wVokTGtG8eF/ZF+l1vs10kDKkttLXx3SGlm3p6VcxF1mQKYTX0jUAZC8z2RgMWGhbxT6lzzEMyfabPpbBjDW0kegeJUgdhltZ7hmrQ2k2Gp0jq3kBDapDpBzeidn/uK8bGp69oEgzlDAkJ98dcSZEdDuKQb35VBcgocXm8KzouPwG1z61WdxuVTS82koBb48PnAodyg8PXN2lW65K0TMYdUjiwYCsFkgfeW5fqxSFNihd2Rn5vZ1zYZBuP3WD0EhaggrJWS7L7lJyBITJSxe8aKxDtcIiN+H6IBh35sWY306Mg7e86kDrnqEg05y3epY9BOzJBaC25E=;qEChypgRYu1wF7KHRLxczA=="
 ---
 
