@@ -7,7 +7,7 @@ originalUrl: "https://www.sbs.com.au/news/article/australia-you-welcomed-my-moth
 webUrl: "https://www.sbs.com.au/news/article/australia-you-welcomed-my-mother-my-family-dai-le-shares-her-journey-from-refugee-to-mp-in-first-speech/5e0q7nf7w"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Dai Le likens Covid lockdowns in western Sydney to ‘communist dictatorship’ in first speech"
+    excerpt: "Independent MP for Fowler says her community was ‘neglected and abandoned by the major parties’ as she spoke of her family’s arrival in Australia as refugees"
+    publishedDateTime: 2022-09-05T04:54:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2022/sep/05/dai-le-likens-covid-lockdowns-in-western-sydney-to-communist-dictatorship-in-first-speech"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2022/sep/05/dai-le-likens-covid-lockdowns-in-western-sydney-to-communist-dictatorship-in-first-speech"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/sep/05/dai-le-likens-covid-lockdowns-in-western-sydney-to-communist-dictatorship-in-first-speech"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 49
+    images:
+      - url: "https://i.guim.co.uk/img/media/a239b229bdeab72f537e9bdcdbab124c9e89c49a/0_0_8256_5504/master/8256.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8444713e5bd1c07106b7dcb490ec674e"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "5NhaQT0atsSStmJY1pj4ubUAIr+rN2MfFEtp70U+shPgegqCQetZrCafmY7HktIQ7xfh0zMVYo0iyDMo2605OH9hit2dVS6zbTgJUN4xKPXhnpm5lHCoqbrqEIz+20tfDpF+kiXYyj0BR2GznTXWXEeNj5k+2MlROBY1PA4AAS/POmAdlCy+rVIvPu+ezLj3y7fsqRMQTgG1V057pNEMEbE0nvZCXELtOyED98LWBYm7GO5kK2A4O5El9tujuUPvSk3f9q14LeDpnEmOM3yk42Vk7cTkqzl2RMjo3cGyIfW7gNgHfjB0/6WBuDbldjQKolqyh5JOf3rQOV51zGiyFAZo2ZVT3bCKqIhOzpSypsg=;JEcJy3rDiCPCedrbZfvLbw=="
 ---

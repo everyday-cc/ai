@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Innovative Payment Solutions Introduces Voice Command Function for IPSIPay App Through Collaboration with Conversational AI Technology Provider DRUID"
-excerpt: "William Corbett, IPSI’s Chairman and Chief Executive Officer, commented, \"We believe our new collaboration with DRUID will dramatically enhance the functionality of our IPSIPay App, enabling users to execute remittances and other transactions,"
-publishedDateTime: 2022-08-30T15:25:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/08/30/9664347.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/08/30/9664347.htm"
+excerpt: "William Corbett, IPSI’s Chairman and Chief Executive Officer, commented, “We believe our new collaboration with DRUID will dramatically enhance the functionality of our IPSIPay App, enabling users to execute remittances and other transactions,"
+publishedDateTime: 2022-08-30T13:17:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-43dd32330de56b40d4b503cdbbed5410"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-43dd32330de56b40d4b503cdbbed5410"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "D/gSTxl5zCGmyTd2CeorOcNwSMOZvNX6WpvG6HaHBXgL28For2luImcMcXeIj1dLukOo0OMuP9qOoCXlNW9CxPAR9bx2I8FiYyCAGeE3s2Umlfe/kn4dpq3kqjadFJafYIOzRscyG0jCLbRw/cqZnM/J3wklLrPU/BXllfFixS2zLZKqAUJmd1xDzPnIUTvq7vwePighaYgEu2N3NYzOJFGEYDEYKWokvVwRdvuXXVy5uS+6c13ZvzGOmaYesMY2dx5C0rrUxZF4D7ji6mk8N8Ihdr4uRz7RdP7qIHhDBVc5/vcT2GmsQ7+l1MgCeEC6z6I+hnkXpzbBbb4jDz/Qs55s2HKBikMfwQHtp9lLDLQ=;RKPmrf1gps3zGkp2aSd/UA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "t9Skkw6RwyyEBpe4+1ZglqN3GockNcGVs1x24d4pXsaYtKWUZSR5lGHOzHkNkg2lczygyn3DqGHF6kK508zuz0oyNWJ8+da/Or4teyrpH5FThtWUJ4UpuMK3Cn9hNuf/kLhCtPHBD2b5EiybWbMTdUPoyaRu+4Y/qcCWrTpUiXad3yqx0TXCoQ5eBD6upp31uYSfLoBNbJjXU3gt5fF+1mDt93hGWJUr1KbZHfvSh+RwpSRORP0v4awzN7iCOnJDnD5Rr0IIbvqBzBV0RHWkOsXHPJtie1HNj2MGT3HIaOAnElUZH+gnOXG2n+4SNw6uEJ/bPQl28cON4LAzOkvpIOs2Y8d6C3ODarAUUnFgs9s=;0CVZNEoyln3kwnTe7ay1aw=="
 ---
 

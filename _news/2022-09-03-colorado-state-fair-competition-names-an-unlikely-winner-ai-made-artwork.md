@@ -9,7 +9,7 @@ ampWebUrl: "https://www.huffpost.com/entry/colorado-state-fair-ai-art_n_63106fc4
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/colorado-state-fair-ai-art_n_63106fc4e4b063d5e621ef1a/amp"
 type: article
 quality: 86
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "A man won an art competition in Colorado using AI-generated art, prompting a debate over what art is"
-    excerpt: "A man used an artificial intelligence program called Midjourney to create artwork that won a blue ribbon for digital art at the Colorado State Fair."
-    publishedDateTime: 2022-09-03T11:03:00Z
-    webUrl: "https://www.businessinsider.com/ai-art-wins-competition-angering-artists-2022-9"
-    ampWebUrl: "https://www.businessinsider.com/ai-art-wins-competition-angering-artists-2022-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-art-wins-competition-angering-artists-2022-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
-    images:
-      - url: "https://i.insider.com/63126efd023509001aecc5f0?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "The Winner of a Colorado Art Competition Used AI"
     excerpt: "Many of us have had our fun with AI art generators— like DALL-E —over the last few months, but one artist in Colorado took it a step further and won the state fair’s fine art competition with a work generated with the help of an algorithm."
     publishedDateTime: 2022-09-01T15:45:00Z

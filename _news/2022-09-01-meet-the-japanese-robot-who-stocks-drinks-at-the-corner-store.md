@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/434550"
 webUrl: "https://www.entrepreneur.com/article/434550"
 type: article
 quality: 69
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/9359a89b-97a9-4b0a-afd5-2125fa888aee/22643dbc-e676-4908-a992-1ae138af5871/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Robot that stocks drinks is newest thing at the corner store"
-    excerpt: "A small robot with a clip-like hand and enough smarts to know which drinks are popular is part of an effort to make convenience stores even"
-    publishedDateTime: 2022-08-31T14:11:00Z
-    webUrl: "https://mynorthwest.com/3614371/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/"
-    ampWebUrl: "https://mynorthwest.com/3614371/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/amp/"
-    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3614371/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/amp/"
-    type: article
-    provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 61
-    images:
-      - url: "https://mynorthwest.com/wp-content/uploads/2022/08/ap_50fa119f88e046efacc597befb3a52ab.jpg"
-        width: 1280
-        height: 853
         isCached: true
   - title: "Robot that stocks drinks is newest thing at the corner store"
     excerpt: "A small robot with a clip-like hand and the smarts to know which drinks are popular is part of an effort to make convenience stores even more convenient"

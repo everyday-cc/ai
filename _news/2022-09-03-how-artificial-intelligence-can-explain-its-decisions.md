@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-09-artificial-intelligence-decision
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-artificial-intelligence-decisions.amp"
 type: article
 quality: 78
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 64
-  - title: "When — and Why — You Should Explain How Your AI Works"
-    excerpt: "AI adds value by identifying patterns so complex that they can defy human understanding. That can create a problem: AI can be a black box, which often renders us unable to answer crucial questions about its operations."
-    publishedDateTime: 2022-08-31T14:11:00Z
-    webUrl: "https://hbr.org/2022/08/when-and-why-you-should-explain-how-your-ai-works"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 39
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2022/08/Aug22_31_1308454794.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "x2LLYK8oUFDS3tHeSvBt+LqcCg4UjcXjBIphRAc1tO8verMmSRD97+rWvASZDwqZ9RxOjUrBKz5DosRL5QloDy/jhWXYkIwajxi99eN+9HRM8c1vlEnaWWWEp5PE4kieF3uvakHkmyT5z2at6JPiuS8hWS4d2D3FESHeI2GpwzMllPsH7Nnlt79otu6jSyUafF+RQ/AhQ13MnYxBvDKTn2X4z86BM0hSw6kS3rSxMWYKN71F23kqKugiGcaZzl8hqbJicLTaHWJUHkzhSpVKlxIC/ZrM81EktjVjFXA776BIVB/4P8n41scLV99Tqw/8S9MLnPvp4fGKSTavqD+2QHbNn5Ha60gx6UtQnumFm7YNGqNKJbrC4QRvySpudakIj8iXrthtGvtd1b+W7chjmZ9I4fby9EprjkBt7wBct+Pp2fGQKOsnhjJYKCdLVemEocXRlhP+8asL+lGy3tAIc9V2FiMdk8kCcuFjiIX1lGXo+aqfBuNHAXmUlYwpwtHiuVgbMJGlLs4wwS0bs/nB/A==;02tmLYf7MZ/2QwIK9Bav5g=="
 ---

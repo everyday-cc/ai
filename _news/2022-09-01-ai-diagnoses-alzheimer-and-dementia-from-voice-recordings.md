@@ -33,20 +33,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Using AI To Quickly Diagnose Alzheimer’s Disease and Dementia From Voice Recordings"
-    excerpt: "Scientists develop an artificial intelligence program that detects cognitive impairment accurately and efficiently from voice recordings. A lot of time—and money—is required to diagnose Alzheimer’s disease."
-    publishedDateTime: 2022-08-31T14:07:00Z
-    webUrl: "https://scitechdaily.com/using-ai-to-quickly-diagnose-alzheimers-disease-and-dementia-from-voice-recordings/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 33
-    images:
-      - url: "https://scitechdaily.com/images/Digital-Brain-Scan-AI-Analysis.gif"
-        width: 777
-        height: 437
-        isCached: true
 
 secured: "iD0t81RzuKtSR5KX/g1NQaO8l7RWQz0OL0Rx43NPoF0ejKxuDct7u4sTRIn+MZXGVqiAPOYCVDyTtHLVpN5yIQNL0kowneiXiOlipvAWEcpyl1iCyPei6uqoXFZc1JqhmABpEZfkM15TSeAq4Tir2hDOlrBTRjd5PCXABAK05ZcvqVp9t4nNSxvR3bhTOVto1qWWQxqx9OaW9c/O5JW1EywnZyEJY54o3IKjxQCv4nj38E7R7VNfRHQLSJWRfgPq14tJMqYGapqRaUZu9hwrSOjzN0m7t3+2FaUIgOcYsu8zVqNZO3MwmeKoodYm595piC1XQcVMGQ4nHXRhpzXqXaeLFIPl/OGTmQCccwmQIJkcFAJTCc8xqDYxPSEav8dSEX+VkwsF0Z2+N8R39Ly5rO1sL4q60utz8/WrYfJodaj4eWOhc7ntCk4w0Z8FnByski+lQpuRp+WC6s4KCLGKn8o3FKqPl5qPLiWFJUd/9G71smu7V5YsC5QJRBANqiW7/yR0Dsv1OfK8G4ewdw0eOg==;7s+Pd+R9KG3NuAHRrsz4QQ=="
 ---

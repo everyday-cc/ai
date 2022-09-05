@@ -7,8 +7,8 @@ originalUrl: "https://techwireasia.com/2022/09/cost-time-and-security-savings-wi
 webUrl: "https://techwireasia.com/2022/09/cost-time-and-security-savings-with-artificial-intelligence-and-machine-learning/"
 type: article
 quality: 65
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: techwireasia.com
@@ -24,17 +24,6 @@ images:
     width: 2560
     height: 1707
     isCached: true
-
-related:
-  - title: "Traceable AI Announces API Security Testing"
-    excerpt: "Prevents breaches by eliminating API security flaws through testing pre-production APIsSAN FRANCISCO, Aug. 31, 2022 /PRNewswire/ -- Traceable AI,"
-    publishedDateTime: 2022-08-31T13:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/traceable-ai-announces-api-security-testing-1031716270"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
 
 secured: "OfdrnnZu2dwbjhYb59V9pS5TJAzAhwViE+ccXL+o+rgEg5Tno/UCU4C+Ra18b+BuevjjFNJm7YLYvuycI6KsaDez4GxsSYifSBf95tzxdiT7rAwqN46Mar9Jd5tt33MKTqJ1dLAikIW353rwKDKSSjh/dn81hTqqjslLvhkHoUWDa+gbl8f7ZOUTVs3nY8TeZ9QMylOZl7UOUv66ZjGQo0S8FuoLtSpLUOuvBFStZmIrzJfTIQtzzUgfRjeFDERjU8TCJAZoBscYx7U9+Qr1toZLuZDxMzCt8x7aKepvo/aJSM9hQzVa6mPSlJEbWZr6ZKCjMr3dwRhYtjzsNyStZLOfMdcIH4fR/FTI30z8Q39pBLmqX8yZnvs14pL/5SjXSz66r8AyZ7Ij6HVEN8nvWCpmu7+lo2sKI4F3FUqQbUbTI+5HExDOSwfPIQ6d1BBFIYRt1JTtDeHXA1Of6SEltJup7nppByzIArW9J5fw5OdMhgUaVsH81HNNdmD/zxHpDY6eaEMhm15UbP5W4J+zWA==;c41LYh46D8KGA/zGwfTtfw=="
 ---

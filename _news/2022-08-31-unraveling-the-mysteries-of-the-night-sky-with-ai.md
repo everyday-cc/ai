@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2022-08-unraveling-mysteries-night-sky-ai.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-unraveling-mysteries-night-sky-ai.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Phys.org
@@ -41,6 +41,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/soaking-up-the-sun-wit.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Enhancing Nigeria’s cyber security with artificial intelligence"
+    excerpt: "BABA Among the major trends in technology is the rapid development of artificial intelligence and its wide range of applications. In addition to"
+    publishedDateTime: 2022-09-05T07:27:00Z
+    webUrl: "https://www.vanguardngr.com/2022/09/enhancing-nigerias-cyber-security-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: Vanguard
+      domain: vanguardngr.com
+    quality: 54
+    images:
+      - url: "https://cdn.vanguardngr.com/wp-content/uploads/2018/05/tech-per.jpg"
+        width: 412
+        height: 250
         isCached: true
 
 secured: "ggostLpm9PJ//CU+p5gFqffbW3YzqOZkksUrewQdqhA5OnBiJM9JercTmFlrKhWcBVyZRVPVe9tDwv1A3aUVs57wwdt+x7Rl0DrB0lygrhjQBXmDAW+ZyNSSQsWm4k2Q1eWWLZYeVhMMpJznwC2sEFYXM8HOQYrPKF1ZUBGBLZNaWbigIY4D5trvDkJLwyYvBHvOmqGcGKB3+VWZLrvbHWTqCSmeBsu6ya//0DTKTGpmRB2jPtrRsdaxH7yxRl0/KiQzoZE5ZSeq4lugefYboNVdszXUPMzZjHxMuQ4jz9PfXqARYkTLvpe/rlkNIcG7YM3Xh2Nk8t549+B9qd05+N1socWKNsa+Ng5oQMHMKwo=;IhcoK052rcPSFhzYs80J2w=="

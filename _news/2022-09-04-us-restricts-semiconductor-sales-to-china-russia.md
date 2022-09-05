@@ -414,6 +414,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "China may step up purchases of AI GPUs from Nvidia, AMD prior to export ban"
+    excerpt: "The fresh US ban on exports of AI GPUs to China has sparked market speculation that the restriction may prompt Chinese clients to accelerate and increase shipment pull-ins for advanced GPUs from major suppliers Nvidia and AMD before a buffer period expires on September 1,"
+    publishedDateTime: 2022-09-05T06:11:00Z
+    webUrl: "https://www.digitimes.com/news/a20220905PD200/amd-gpu-nvidia.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 52
+    images:
+      - url: "https://img.digitimes.com/newsshow/20220905pd200_files/2_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "US deals heavy blow to China tech ambitions with Nvidia chip ban"
     excerpt: "The US government’s new restrictions on the ability of Nvidia Corp to sell artificial intelligence (AI) chips to Chinese customers threatens to deal a heavy blow to the country’s development of a sweeping range of cutting-edge technologies."
     publishedDateTime: 2022-09-02T17:35:00Z

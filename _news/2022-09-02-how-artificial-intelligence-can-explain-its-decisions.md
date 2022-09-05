@@ -39,20 +39,6 @@ related:
         width: 1607
         height: 769
         isCached: true
-  - title: "When — and Why — You Should Explain How Your AI Works"
-    excerpt: "AI adds value by identifying patterns so complex that they can defy human understanding. That can create a problem: AI can be a black box, which often renders us unable to answer crucial questions about its operations."
-    publishedDateTime: 2022-08-31T14:11:00Z
-    webUrl: "https://hbr.org/2022/08/when-and-why-you-should-explain-how-your-ai-works"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 39
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2022/08/Aug22_31_1308454794.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "+0EesJSfO89UB4gBh2bfnUkMD3lKe7iHeCpxqSi4+cCSN9TFxrr6+8F3Tb8o2rfSFBoba/rcV+bJVrygoHLwQsUOhxG1ROGagXtDe1JRE+qY2+N1uCvwWmAuS9EKytKmIDHK9RpmbitFz4urUZ0tN6cGow5vO1f/eaw02GAijUjDk8m4gpnTQ6rBrWASXFggRKH5DkFtm/qspGTPLMSjaExAf9c6lplRfmI1n2MN9BCqk17zk0ypW/cZ7qSfQ5kNb8zgD3cjT0VtrUKtgt4w2tsaRDGtu7sIbdEz3mHo/J78FDJaY2WgB6Ro5cqCaSnm5EFkhR9uhOFXVYLQzPcV4ABLjbfA4gCDcYv0/DOw+60=;meN0d9x1V0coD8OoGeCjuA=="
 ---

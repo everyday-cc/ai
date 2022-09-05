@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "A man won an art competition in Colorado using AI-generated art, prompting a debate over what art is"
-    excerpt: "A man used an artificial intelligence program called Midjourney to create artwork that won a blue ribbon for digital art at the Colorado State Fair."
-    publishedDateTime: 2022-09-03T11:03:00Z
-    webUrl: "https://www.businessinsider.com/ai-art-wins-competition-angering-artists-2022-9"
-    ampWebUrl: "https://www.businessinsider.com/ai-art-wins-competition-angering-artists-2022-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-art-wins-competition-angering-artists-2022-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
-    images:
-      - url: "https://i.insider.com/63126efd023509001aecc5f0?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "AI-created artwork wins first place at Colorado State Fair, artist receives criticism"
     excerpt: "At the Colorado State Fair, a piece of digital artwork that won first place in a competition, has some people in the art community concerned."
     publishedDateTime: 2022-08-31T23:14:00Z
