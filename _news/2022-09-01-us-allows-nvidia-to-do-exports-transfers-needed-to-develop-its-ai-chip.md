@@ -6,7 +6,7 @@ publishedDateTime: 2022-09-01T10:43:00Z
 originalUrl: "https://www.reuters.com/technology/us-allows-nvidia-do-exports-transfers-needed-develop-its-ai-chip-2022-09-01/"
 webUrl: "https://www.reuters.com/technology/us-allows-nvidia-do-exports-transfers-needed-develop-its-ai-chip-2022-09-01/"
 type: article
-quality: 85
+quality: 87
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ topics:
   - AI Hardware
   - AI
   - AI in Sales
+  - Facebook AI
 
 images:
   - url: "https://www.reuters.com/resizer/qkwow85lqROrYmQSCg3MurxYbWg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YHNENNNI3JN4ZJXKIUWO7ZIX5U.jpg"

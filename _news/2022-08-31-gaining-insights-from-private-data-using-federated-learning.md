@@ -47,15 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI Ethics Asking Aloud Whether Large Language Models And Their Most Ardent Believers Are Taking AI Down A Dead-End Path"
-    excerpt: "Notably, this raises serious AI Ethics considerations. For my ongoing and extensive coverage of AI Ethics and Ethical AI issues, see the link here and the link here, just to name a few."
-    publishedDateTime: 2022-08-31T11:14:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/08/30/ai-ethics-asking-aloud-whether-large-language-models-and-their-bossy-believers-are-taking-ai-down-a-dead-end-path/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 40
 
 secured: "V9uS/4aHsEgIFnFlrKLyBx2YmWSK3acJG3R8/t64TqAGO2ORkVMJSKUWBh357wZagCaWeyozcbLenlt7OabQWj5YoCviu/YymI+8bDbMvAmB6waTa+YCHPKNvmlThlo1+g78wGl7I+aseRfJjiar2FSt/7XdvTtVjV/C1Ukju9xfRqhbXb9AF+UaPQv61DyCvI/qwpXuybsnD/UwwMzD5/FEKsjq28ICPMF6JcprRNvM2m9dFuB+pveMS4QLH9Q6+QaCnc3f/02QlVaeRw5lDAimdTyVDLoK4w6Xn9mmayeqjKr03fsyxOEM77UNa3GOpWG6UpoTR9hJWXzG4cZLztLXa+TXxy+V3eo/TJrmIv8iNyR5Vcv7tQVZW15TPggaDMgIPYBB8RTylHGX2/3u8gQju1ECJUzIgmFgSsRJOoCj9oMsWx6/mDir6eP6Y3g/50kAUkMML9IthvqdKpBiv3g7cnRHpQZv5RE+QiwBI+c+flcQyDJLYIn/S47vPUTm34Mzn+j3rNbw+WxuzCi35w==;QQxopSSPC9qwdmIIYvzMcg=="
 ---

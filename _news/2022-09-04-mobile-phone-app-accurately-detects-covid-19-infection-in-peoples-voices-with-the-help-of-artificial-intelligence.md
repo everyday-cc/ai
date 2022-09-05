@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-04T00:00:00Z
 originalUrl: "https://www.eurekalert.org/news-releases/963516"
 webUrl: "https://www.eurekalert.org/news-releases/963516"
 type: article
-quality: 15
-heat: 15
+quality: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/59491f98-561b-44c7-93d4-7a268a0e3d47/Rendition/thumbnail/Content/Public"
@@ -23,6 +24,22 @@ images:
     height: 214
     isCached: true
 
-secured: "DpwVoOIIPV9aAP2CcxX/0imlazrPaknCzlYLQNCKWqP6fYLlJAWiA2uPQZSuZBy7BRJncS3o5ZROyvYiaQbK2gNyeib7iCBBmbzVf8FPLZ26VKYTKGGw2FaBOlCb//oYIWt4goHbG6bFg7rpolnKk4vbpElFw5ebaoTS45CFZ1a4sznXZtYhoYi3zwNSNfdr+Fq/Ok8JF/5Zb1vtrShPdoFnSsG+azvAnpgjaQZBs2cI6bClnSaNFHSON2t5sC8gx/W6TnsrZHeR/c/JWs/rOrx9ReF/sC/G8bRUSvrtLHqnXFSw067EAEhEwO06LnXxhMpMnHX+3NFfC0Jzyz6+6VzbjeQH8EHkU+3sbRgGYkU=;epmSe0Ul/LOmwik5Ut+rUw=="
+related:
+  - title: "AI model detects COVID-19 infection in people’s voices"
+    excerpt: "Artificial intelligence (AI) can be used to detect COVID-19 infection in people's voices by means of a mobile phone app, according to research to be presented on Monday at the European Respiratory Society International Congress in Barcelona,"
+    publishedDateTime: 2022-09-05T04:45:00Z
+    webUrl: "https://www.news-medical.net/news/20220905/AI-model-detects-COVID-19-infection-in-peoplee28099s-voices.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 37
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+
+secured: "VB6jZRhZAymcKtH+tBacus1DS5ecVm/MnwmuYldlmtzVU/xGlNf+eX2qVky20ioEB8W/6lUQvJCT/cZGxugvS/bosOnPuBPmt5XY3ZlTmDg49k8I8TlxHVUEzvPWEl7SA2QnU8w+tAn2+EuSZMGqPL5m5r82jwpzh58zXuvMELouA6i6w3oyBsVgkuxbZas2dDsqT/+5QbfHFI08bDsTdzjrcjcMhN6LRsDhGMJmZQebiqIVfax2a9IAOVf/9C87IgHP8VyyIRZoqJMjhFfvnIpklz0ewSZfA88dLQjU2E3b9zDwTV4sa5PCWuBJq+5imf2PgLrPj3r0My7w5uKled2nmclKbj8LqFOz+esmkpQcnkM8BKYzCrAktLTak1nrO/ruSACXvSvL/pZ9Ly2+C4jrns+Z1W9dH1ytizqNC70uE3SWGrFoMgSF6PMWuoHFcipO84TDIB8oaQ1K1azNrOoiFic3r3qJ8F2VtUTwLaP1/vnL46pL0LmpaXXvIfkiWB92QThO1xErY1ItCeWJsA==;AzZldT11HMLa3hwlf5up4w=="
 ---
 

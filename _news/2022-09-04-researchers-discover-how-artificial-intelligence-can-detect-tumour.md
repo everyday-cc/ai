@@ -54,7 +54,7 @@ related:
     provider:
       name: India Times
       domain: indiatimes.com
-    quality: 67
+    quality: 71
     images:
       - url: "https://etimg.etb2bimg.com/thumb/msid-93993860,imgsize-25480,width-1200,height-628,overlay-etcio/researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour.jpg"
         width: 1200

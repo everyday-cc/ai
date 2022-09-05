@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Speech & Voice Recognition Market Research Report to 2027 - Featuring Amazon, Apple and Baidu Among Others - ResearchAndMarkets.com"
-    excerpt: "The \"Speech & Voice Recognition Market Research Report by Delivery Method, Technology, Deployment Mode, Vertical, Region - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2022-08-31T11:33:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-8-31-global-speech-and-voice-recognition-market-research-report-to-2027-featuring-amazon-apple-and-baidu-among-others-researchandmarketscom"
-    type: article
-    provider:
-      name: Buffalo News
-      domain: buffalonews.com
-    quality: 0
 
 secured: "V/nOTKwwiRatXRNEVz24pzqz/Ft9yHiAvtTPsi11dn5YLILoFp3DKx5Mzcz7AWRehZvAWb9bmx0i5wfFzElxnfMBh9shlhgRzlE3Rd0sok9XovLptyeq2TRnEbE3sGHSAlvp/PJUCS5P27aylU+TCkmt3iYGsDNpvQi9Ph1h9fbz/ymSFlnk+UBQiyOUxBTUl17b/tTdqzUlbYbzC5YqdbRQ+TrF+VBPlPxG9JGZXt9++LMGZ+IwCQbcOXC88R+1Ltun623de9Ikp22OslYL3uxG/5RANq+XTs4et8kQU/JAfF4x3TJXjJxLtGNjNATqugXVD0OfursgdJ/GT+JVEMlX55CMUGL9uLl3zNzhawc=;Paf5jwVEOMBb72LROkLtTQ=="
 ---

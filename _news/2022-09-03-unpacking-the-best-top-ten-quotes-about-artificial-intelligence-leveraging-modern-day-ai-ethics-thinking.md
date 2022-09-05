@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/09/03/unpacking-the-bes
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/09/03/unpacking-the-best-top-ten-quotes-about-artificial-intelligence-leveraging-modern-day-ai-ethics-thinking/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -49,15 +49,6 @@ related:
         width: 956
         height: 561
         isCached: true
-  - title: "AI Ethics Asking Aloud Whether Large Language Models And Their Most Ardent Believers Are Taking AI Down A Dead-End Path"
-    excerpt: "Notably, this raises serious AI Ethics considerations. For my ongoing and extensive coverage of AI Ethics and Ethical AI issues, see the link here and the link here, just to name a few."
-    publishedDateTime: 2022-08-31T11:14:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/08/30/ai-ethics-asking-aloud-whether-large-language-models-and-their-bossy-believers-are-taking-ai-down-a-dead-end-path/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 40
 
 secured: "WoREcsBDUQkmm0Vxlk9wopGNA9ScVQhcwxHFRdtBwMD4huXs/KdJ5Lzcxid5RrrD9RqcnudvqjusQi2KSjSzgmozhE44QnDYZHbirv+2gOkFPsd1yMipU7ipZG3VMtg+sCjYdLU/EATSjHTuEe378ZSFIOfYYrAxa1ydmXIebJtMfuHm7NyhqYY7p2uMgkczzspC0jsv6/tpfD02ppf//KDn6uRDonPp4UPikqAMW5JtA1XL3S9hUO39TI2Uk5c35ZOEg+d7LFY5coHuNFXaHbcMqWNWjefy/SeGMyEGGnd4Wy3S6cTlsUeb6RiejyajRLsfZyB6lG/K/B9lnXMPsKHzw03DTNdzrnjOML4Ts1n1CKpoLffaeayuiVhLK/VRT6P18oPhFMxTtIpBUgSxG1zh7W3wMK3FlWTrDZqdaBHkb/bJmSuLk44lIZ6tuIfDBZgUJLhq20GdUElfRjSpAf9esTcAQ9xPZEaAiOKDsHNl7zmzRaMyQS0jPBWl89JBefSjAb8d5OGPD0cTgFbiEA==;NzJu7mnYryJ9YG9SNuFnlQ=="
 ---

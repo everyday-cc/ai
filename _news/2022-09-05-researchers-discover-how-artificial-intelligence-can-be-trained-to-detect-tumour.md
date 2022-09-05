@@ -8,7 +8,7 @@ webUrl: "https://cio.economictimes.indiatimes.com/news/business-analytics/resear
 ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/business-analytics/researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour/93993860"
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/business-analytics/researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour/93993860"
 type: article
-quality: 67
+quality: 71
 heat: -1
 published: false
 
@@ -18,6 +18,8 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
+  - AI in Healthcare
 
 images:
   - url: "https://etimg.etb2bimg.com/thumb/msid-93993860,imgsize-25480,width-1200,height-628,overlay-etcio/researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour.jpg"
@@ -87,6 +89,6 @@ related:
         height: 533
         isCached: true
 
-secured: "TCwCnEXm8JeFw5KlxSDEJFFMaZZq5C85hhKFx0Z4U0irC+b1/FRcRJETsMVyg4kU6+4VQ77tNASrVu1sdlJK1iZECLzSsGGZ/b5cjkbOYJXMMhJovzOycnqDbq1MBNMA8R3g9EkCCGL7JbeR78Gse82kyE1qk7GuKsYNc6iVJqVVXvBs7wKefj/oH3GzrahijnHK7OHSMJU9hsAk0RO62zF6SFcNo1GwhgICm+PDiV3dHDlp9W2mlhPf2CSne11PDjpy20ONe/JpXqIH7xgDs/fsCIbYtcAR65g1rOGKp90BU59wm10YA8hUwtv96Q5eNtL5vTJNVLVpkAoBm5X7PqS4pW1sVqRW2wq+wQkSRWc=;yO0iNjVSRitoHPjo1k+JuQ=="
+secured: "qbxEYO01ToSA7pzY+DSoJ+ckeeZeg8UdFvsLAuAtxTS+jFqiyjO/OUtVufkLkm0M96FYgqGXM9y3e7X8eFOPCWJGZYla33dvygI7cddMPGHAo5sCY7IewMaIG+w6tsvRddNIoB99suSXDPQ0ckujopSmswrz0hnuQGiseLs1dL4Z/3h0YS23KpRQ7Yhvv7KhMvahiSwxIAHLzcn0vWp/iLzImVaNhCihSpiS5IVouAZAzTwd4lKuKt++7hYVTnjy5L8PDfKcruFW2gffMTi5mywmi4Cz4VQhYlTjb7+aYQGUPzRYzLPb8vEPoKE5Z5mliPooMRjMdgPdgc24DCXiDT4zafjbKWKwHWMywsYW0ay3ty0IrnsxxQtBk5OCBhYsAVGMgvNej7RcVxh+BdphetQ9mg0X+4p4Arh3bK/ejDAd/USGcB4M5D6aiteSkhP0/bZjtWSJ9cfiuEYEiFRQgqeKk8Mb9KtmwhZlhDmT2O9e/zQcGjaUGGlGk6njTtK0cSnhSBnaOGpWWtk30zF/5w==;vPrZgWATA2ry1wxfbRPOeQ=="
 ---
 

@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://images.wsj.net/im-608499/social"
@@ -26,6 +27,6 @@ images:
     height: 640
     isCached: true
 
-secured: "yWkYmsngk32pr2RwMTQWNtSPjFUeeHNjJ2wRt25jvT70aWcTq/BHMnvzXXF8STaJesQmwDIdUIqdUkR669yz7UWgTLNlVg3n85FQtG1eJr1tb1scKH34zcSVeId97fZ9YSPZCoq5ZEixQWprdLJBAE5zxLjGMeqGteqfl0lS38QHF29srMHssm+edaor2ooMig0mnSYnflQ677NaZwpkTIVTD+FQdLJnwcmqlbHQwz77th/GmztiVb07o9zZ8GAklrgSQPo+3bZuX/WEhhvaA+d/aBg/BAWsrlzopmilIM0zlZk6u7hUAOMoqf83EweA4HLn6/IywnApTzwcb4kHuHUQXuJXGTq3fEO9pItONp0=;h+ew98cda31Xxhv9nl7sNQ=="
+secured: "vaUH8yPrLTX0ReHCpbqleC/TB5ggAgIKgKnqix4AlrHaQIVaiGQ56IitI8/uPOItQi1m/uJT7kPYb9uH6WDZPzvUDS8yeBLgdVB/o8FB0/KsU5BmIP2wuj1PiwjwWeaDckonu7Eme5DfXUKz8laxnoqrpn8ZdhPytEblARzavif6yxNfzIZDpFW5B6g5tgDTdgPzQhZwFsn9MzxXlL5BlKChTKcPJJlX5bz6wtl/DRSGNeR4W9/Rs5fq7610Hytyt9vMDx+4KjmuFJe1lBffalkDA0m27AzE2rCt1X6qIAYvmgSxslETw+Ty+tuUB0FtBp2kFx+ViDqP6DkNlsWXDffrFFvCVq1J2VxBShbB9MIa7ZOrkxFCxdr8w+vroY8eXPi2ppcmLS8fTqFOEGrs+8gOQ7OoFi5LH2wwb1j8j8LfXKPKAIKZ1RIhF0oWrEetBKfvrbGw7kGrkqmRjk+Ti6nc2lfFgkjYWK+5RIoxK2j3JyaHTdVmlHFaTxiq7h4vRPh5auove1EKWbQKC/Zmjg==;3eCsgoi38OyLUs0VcVSBsg=="
 ---
 

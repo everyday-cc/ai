@@ -9,7 +9,7 @@ ampWebUrl: "https://www.labroots.com/trending/technology/23475/researchers-devel
 cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/23475/researchers-develop-computer-chip-carry-variety-artificial-intelligence-functions-2/amp"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta AI researchers develop ways to read speech from people’s brains"
-    excerpt: "Researchers at Meta Platform Inc.’s Facebook AI Research Labs have been putting this knowledge along with artificial intelligence to work in order to learn how to assist people who have suffered traumatic neurological injuries that have left them unable to communicate through speech,"
-    publishedDateTime: 2022-08-31T13:00:00Z
-    webUrl: "https://siliconangle.com/2022/08/31/meta-ai-researchers-develop-ways-read-speech-peoples-brains/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/artificial-intelligence-4469138_1920-geralt-pixabay.jpeg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "ISU researcher to develop AI for 6G wireless networks"
     excerpt: "The cutting-edge research to develop the next generation of mobile networks will be happening at Idaho State University."
     publishedDateTime: 2022-09-03T17:00:00Z

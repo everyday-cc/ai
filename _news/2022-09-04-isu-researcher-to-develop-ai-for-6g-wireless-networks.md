@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Meta AI researchers develop ways to read speech from people’s brains"
-    excerpt: "Researchers at Meta Platform Inc.’s Facebook AI Research Labs have been putting this knowledge along with artificial intelligence to work in order to learn how to assist people who have suffered traumatic neurological injuries that have left them unable to communicate through speech,"
-    publishedDateTime: 2022-08-31T13:00:00Z
-    webUrl: "https://siliconangle.com/2022/08/31/meta-ai-researchers-develop-ways-read-speech-peoples-brains/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/artificial-intelligence-4469138_1920-geralt-pixabay.jpeg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "bqNCkYhTX8Ip7fntIvr0doceLsZmd6kFgpdVyy3egAl+97Np5eJ9iboTmxUYUJ5nfN65ljLdFjrnBDk6skRFeVLz+NyiahhuaEnY0Bl5qA7Y5RB52quNmwu4qQ5+dfiv1dijXxqHI+5BZxR68b8uEFBX2RVcjW1P094mEoCpLryemZfRzuU9uKVFgS7LWypsdXPixjSCVLSVagERyjoXbo/iURbYxQm6eaoCD3H9z36OgZAZJZdoDGzG8o3qIQVd7Q0vgfLTzfdComfiF23DCcZvVZ+aI5V9ZuMJZoLnIGnZZkVsOiHRe0lqMRoYBQ8gACqRdNbkQYIXwqmYgibUA7a0r1NgNjU36aPNTx5IrGbWFLaAK0ubKL3HngB1PU2rfUuPSDMSUP8C1QO0VVASbk5Qa966JidsPGqE24tB0LgNEJZc8pN6cU56XX9RuqRHOFJlwtfehbjK0P72XYE1hz0OlHlLEs3mPQBirIi5OPOIJtuigvIpaOnblhq9ZxoonftPCPcJlwzJKAm32xKIbQ==;aYx1YpT7vtS6ntt+Hku+nA=="
 ---
