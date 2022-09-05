@@ -77,6 +77,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Meta develops mind-reading AI model"
+    excerpt: "Researchers from Meta developed an AI model that decodes speech from thought. The technology allows people to produce words without speaking. When humans"
+    publishedDateTime: 2022-09-05T07:55:00Z
+    webUrl: "https://www.techzine.eu/news/analytics/87881/meta-develops-mind-reading-ai-model/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 39
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/01/Meta-Whatsapp.png"
+        width: 1500
+        height: 800
+        isCached: true
 
 secured: "Ap7khJPORjFVchopLaGZfOgVRpbncqImiyjVJx6Ukl2UJpbMGhlqH3Qjb+iXftwMU7w+Oy6/SLzwSB2WF7/hUFxdJfxNZWh62IYlBEtcyx2PJVbCYEI8PKcD6i2iJ0/vmBrccXrVFmKiodXZ649F1fXE6iTAI8GYHWrX7UCT2j6GRNl+R2sErdxQ5iXEQNCoQARDbRCmW739BZlSGj/JTUN/sW9snJaLqyNSxxLUYvXOSSwGyLuEa47/m01izVVmXKQUAcmzEDZqxY1b0X3+SP9Mw2LxH35DjSqg2FNHbKt8YnFCE6hkyuG0M7qdh5YisfMuugVqcCkIj9krgmwF+WWYJxSx6SXFx47SRYBqbnRWAN1hmxjpsUj/XFWPwQyAfg5zKFOkCAXcjY9U8KBb0QUhX3ZX+EMCMOBu5fjeZM174CvTdTeLjIEKURc4Mbh2Tk55RU/20i+/cd/aqeXv730C4FaG7Zq/hHCyRzHuQ7WnNFaeOGXr/qQLP8pQRGBAKuP8+k2mckJ8LrrqP5B4LQ==;0parnHLMvoXEk9WagF/IDQ=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2022-09-05T04:10:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/dada-now-on-waic-ai-brings-better-efficiency-and-customer-experience-for-on-demand-delivery-1031723612"
 webUrl: "https://markets.businessinsider.com/news/stocks/dada-now-on-waic-ai-brings-better-efficiency-and-customer-experience-for-on-demand-delivery-1031723612"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1891449/General_Manager_Dada_Now_Bing_FU_sharing_insights_WAIC.jpg"

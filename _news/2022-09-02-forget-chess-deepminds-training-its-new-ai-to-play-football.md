@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Meta develops mind-reading AI model"
+    excerpt: "Researchers from Meta developed an AI model that decodes speech from thought. The technology allows people to produce words without speaking. When humans"
+    publishedDateTime: 2022-09-05T07:55:00Z
+    webUrl: "https://www.techzine.eu/news/analytics/87881/meta-develops-mind-reading-ai-model/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 39
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/01/Meta-Whatsapp.png"
+        width: 1500
+        height: 800
+        isCached: true
   - title: "Watch DeepMind's digital humanoids learn to play soccer"
     excerpt: "DeepMind’s artificial intelligence has learned to play soccer. By learning from decades worth of computer simulations, the AI took digital humanoids from flailing tots to proficient players. DeepMind researchers trained the AI how to play soccer in a computer simulation through an athletic curriculum resembling a sped-up version of growing a human baby into a football player."
     publishedDateTime: 2022-08-31T18:00:00Z

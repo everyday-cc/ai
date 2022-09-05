@@ -7,8 +7,8 @@ originalUrl: "https://english.news.cn/20220901/e13917c10b6f4dfea4d3e9f1d31589d7/
 webUrl: "https://english.news.cn/20220901/e13917c10b6f4dfea4d3e9f1d31589d7/c.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Xinhua
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Robots, Cameras, and More: World AI Conference Highlights"
+    excerpt: "From fall detection cameras to COVID-19-testing robots, the event showcased several technological innovations."
+    publishedDateTime: 2022-09-05T02:03:00Z
+    webUrl: "https://www.sixthtone.com/news/1011153/robots%2C-cameras%2C-and-more-world-ai-conference-highlights?source=channel_home"
+    type: article
+    provider:
+      name: Sixth Tone
+      domain: sixthtone.com
+    quality: 54
+    images:
+      - url: "https://image5.sixthtone.com/image/5/57/842.jpg"
+        width: 2000
+        height: 1001
+        isCached: true
   - title: "2022 World Artificial Intelligence Conference Held in Shanghai"
     excerpt: "A staff member introduces a minimally invasive orthopedic surgery robot to visitors at the 2022 World Artificial Intelligence Conference (WAIC) in east China's Shanghai, Sept. 1, 2022. [Xinhua/Fang Zh"
     publishedDateTime: 2022-09-02T08:02:00Z

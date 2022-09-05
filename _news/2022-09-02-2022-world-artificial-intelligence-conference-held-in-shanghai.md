@@ -33,6 +33,20 @@ related:
         width: 1024
         height: 659
         isCached: true
+  - title: "Robots, Cameras, and More: World AI Conference Highlights"
+    excerpt: "From fall detection cameras to COVID-19-testing robots, the event showcased several technological innovations."
+    publishedDateTime: 2022-09-05T02:03:00Z
+    webUrl: "https://www.sixthtone.com/news/1011153/robots%2C-cameras%2C-and-more-world-ai-conference-highlights?source=channel_home"
+    type: article
+    provider:
+      name: Sixth Tone
+      domain: sixthtone.com
+    quality: 54
+    images:
+      - url: "https://image5.sixthtone.com/image/5/57/842.jpg"
+        width: 2000
+        height: 1001
+        isCached: true
 
 secured: "BssVFC1ezV9xVFNGcUfeXnVZEiOmPyle0+IkSvPTf+FKYao3a3IQG7j3sitHq+OVITR+clX6ZpAHincFTJWh7IQwezPWrtCL1S+hkt8SxuTp/svPvtoM8QuuCTxPOAthHsMFHZ7L/4H9zr7iZgiqvO+mnqc8z/ApPzgmkfBuuEaR2gpMAt3H9deTbvbL2Pi0nY9YrQedJ8JckN6x5mru6j+6/KfLdJNVPtnzz7SYOva2BZeidFFgud44ympRmUTYu8R2aVBponjkc1WJPblTgUDuiEQn9sLzfPicZrYYzbZE+yoMqEmtR6xxIv/LhSFukHCVVcs6D54FGss9ozVY2etCJGew72BLyFKUET7ZB2Mod8QIGI9SpwkQR6QKwXZPfXTAHYMdyOubow/yDm6th/IB/KhXQzSuJG5tSDh5l4CSYkZRBCY+ixtcbK/eueeQ8gik4x4y/Jn/btdDM8cVV1nPOjQYmEHMKV1Fm8FtK5NkPHYWLi0HqMlwWoKIfdCOnSASRuM0WQWBKQS4plfagw==;LCxCrysq8lnbNnN+tMPXFw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.defenseworld.net/2022/09/03/cambridge-investment-resea
 webUrl: "https://www.defenseworld.net/2022/09/03/cambridge-investment-research-advisors-inc-grows-position-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.html"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "Cambridge Investment Research Advisors Inc. Decreases Stake in Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ)"
+    excerpt: "Cambridge Investment Research Advisors Inc. trimmed its position in shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) by 10.2% during the first quarter, Holdings Channel reports."
+    publishedDateTime: 2022-09-05T09:02:00Z
+    webUrl: "https://www.defenseworld.net/2022/09/05/cambridge-investment-research-advisors-inc-decreases-stake-in-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 22
 
 secured: "EsOozTqZkov8veWz2D1Z71LScfap57VMbs4H3RSx9kW0+6teBBWQ6d1TkVpR/4r7qK1gpS5owkILa6MLhc7ZbVA4yuCiFTL1aIQ0/RjLWPhspRY3uIBTZJo34IY5qiAwjF/xV+9cfAqWXqjAqzOQyosEKPUh+X4csMLIMtXVtCVzA3ci6Z7tbtM2+XdDLswWRrb7pH5Pf0xTkRObeuFMQIKw89IRhSVpNwTb+UctGmb37EWvaO8AeM97gdNVx8RZ6ouDw2+Fr8loWM81pvz0crxsytuRpkqsa3/oEJApfVlDTm9AdYrTaA9lxYuce3I49qAVtIVPBYMXeCUUzsUzRtJO/3lvCcpSr5GngjWwhPFuyA1sWs8eLyM3UZ0ChGHHbgnqoyUdGEDXYPARDJKugN0V91ZSTGtasRuMNkFuL2OHNDl7PylzTWYrj1TwsydeLpcb3GVJ4aIt8ZEhCdGGbDbJcqgtOZ+73KihX335gNjm2B3ZV/G/p+XG1AqbBnepW0jepi99SQCFJTVS3RtzsQ==;OODjmeypQFvn/sqTwElUCA=="
 ---

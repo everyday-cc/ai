@@ -35,7 +35,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://mma.prnewswire.com/media/1891449/General_Manager_Dada_Now_Bing_FU_sharing_insights_WAIC.jpg"
         width: 400
