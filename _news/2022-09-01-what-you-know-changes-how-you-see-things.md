@@ -2,26 +2,28 @@
 category: news
 title: "What you know changes how you see things"
 excerpt: "Researchers at the George Washington University have gained important insight into how the human brain processes an object in the visual system and where in the brain this processing takes place. Their study,"
-publishedDateTime: 2022-08-31T20:20:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/963472"
-webUrl: "https://www.eurekalert.org/news-releases/963472"
+publishedDateTime: 2022-08-31T20:39:00Z
+originalUrl: "https://medicalxpress.com/news/2022-08-what-you-how-things.html"
+webUrl: "https://medicalxpress.com/news/2022-08-what-you-how-things.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-08-what-you-how-things.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-what-you-how-things.amp"
 type: article
-quality: 24
-heat: 24
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/62942170-2000-4e0a-bdee-ff671f06a652/Rendition/low-res/Content/Public"
-    width: 534
-    height: 700
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/vision.jpg"
+    width: 2880
+    height: 1920
     isCached: true
 
 related:
@@ -35,6 +37,6 @@ related:
       domain: earth.com
     quality: 4
 
-secured: "LmUB3NZoppXNUD8T5mj/0JpBhlefVuXPPk8MQFeg7y1hlBwpGTsPXtjzQ19jj8mrFO8jZVrDXJnv3BoxCOfNvw9qERbj1oa1uzIWiDKRuteEhWR7p/mzKFHaS/ScQgb2GKTCiNTE6JA0MCIzsI4vUX7Kz/ioZQ4q74zAXWCOw1g5jFmDdFYnpIQJVu1fq2DnGyztc4OmpOnLjK9CKXV4dE5POHPgn3lPALfGJZM4jN0R385FV/1jSQt8aQMJxfTXfsGKeCdI3f0ZJFW1WsSL8cPvweWFGchPOV5XYXNxMPehuMQdXc+gaeyz2aSVNxOcz2ehFl14Fe+QUycyuRWlRtfi0E0PnlddLAH8Dnvj/k8=;CzEO58ir1JeRFX3Z2tT8Lw=="
+secured: "+O0wQiInS8+oVqZVE94/JYuANfvwQNKdrb3Y3nnvZ2rBodXaxHN9lTzLzwar8fyVr48YYGkCPJwyYbTupECaBIGa9HO8Xx97snMVSM2oXeiIgVtwDFf+eRIv5cCD5ArgLxy2fWyGnFLiOiERBs0v3nVH+DBVmwR49EHTtLI080noxZ9w4J+QSqWrUNDPQyn53M/k5MHUN8htL/5aU+HaEGt57lfsPnlAsfnT0PABkrzQqRqYWDULFrr9J88KQ3ukGHiU3njFHBWtEchAROeAbeDXEEF7XQyFZCEwAXbAdzDTHbmwyW6tugOY7kq7QWiAapgyPifdETygA9qRGaiGV1YGwE3BtWpnClafRREbh60=;BnZpvWHgiIb1y4p5Q3z65g=="
 ---
 

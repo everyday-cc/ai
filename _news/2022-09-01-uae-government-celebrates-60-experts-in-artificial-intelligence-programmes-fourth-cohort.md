@@ -40,20 +40,6 @@ related:
         width: 540
         height: 405
         isCached: true
-  - title: "UAE Government celebrates 60 experts in the Artificial intelligence Program’s Fourth Cohort"
-    excerpt: "Empowering talents with the tools necessary to create solutions for future challenges in digital fields Designing initiatives and programs in line with the UAE Strategy for Artificial Intelligence 2031 Dubai: The UAE government celebrated 60 experts who graduated from the fourth cohort of the Artificial intelligence program,"
-    publishedDateTime: 2022-08-31T08:55:00Z
-    webUrl: "https://www.zawya.com/en/press-release/government-news/uae-government-celebrates-60-experts-in-the-artificial-intelligence-programs-fourth-cohort-f81iaoh1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 27
-    images:
-      - url: "https://static.zawya.com/version/c:N2Q4MGY2NzMtYWRjYS00:YjU0N2Y1/enceprogram-1-jpg.jpg?f=3%3A2"
-        width: 759
-        height: 506
-        isCached: true
 
 secured: "rJr5goE8K9l8lx/5q2O3vjThii5hpD16eyVBIlk/JLL7yzW14vr3+mmyxKu9Ka9qZX+ptcaxknmM/0s1gxof4tuZQpoU/RbKpu9eLYQCC988dwCsvcNT/QO4At5d/Iwp1tI2qcENJUergqtR8Y941SGDJosyjd1vbHZLUZvbKsPLk2Y1+6r2m/Pq6latK02Zl6fcWPswm+MabMVdBF3l9XYESTqC8q4Uvk7UufjX2UMglV85ASscvexNJVQP//Gb4B1mBf01V1IQ51qZAbvgUGi9U3CfsHu7G0A8UXkm+M3wDU/MrJedXKmxZGH2MZ8P4vI4rNaW3J9dhsvWSGepmw7Yr8X0Scme/NpLKnf2Vu0=;ibd0WBe54sPUqacGpDpsdQ=="
 ---

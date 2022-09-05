@@ -33,15 +33,6 @@ related:
         width: 1024
         height: 659
         isCached: true
-  - title: "Semnan University hosting first national AI conference"
-    excerpt: "The first national conference on artificial intelligence and intelligent processing is held at Semnan University from August 31 to September 1."
-    publishedDateTime: 2022-08-31T08:55:00Z
-    webUrl: "https://en.irna.ir/news/84873830/Semnan-University-hosting-first-national-AI-conference"
-    type: article
-    provider:
-      name: IRNA
-      domain: irna.ir
-    quality: 19
 
 secured: "BssVFC1ezV9xVFNGcUfeXnVZEiOmPyle0+IkSvPTf+FKYao3a3IQG7j3sitHq+OVITR+clX6ZpAHincFTJWh7IQwezPWrtCL1S+hkt8SxuTp/svPvtoM8QuuCTxPOAthHsMFHZ7L/4H9zr7iZgiqvO+mnqc8z/ApPzgmkfBuuEaR2gpMAt3H9deTbvbL2Pi0nY9YrQedJ8JckN6x5mru6j+6/KfLdJNVPtnzz7SYOva2BZeidFFgud44ympRmUTYu8R2aVBponjkc1WJPblTgUDuiEQn9sLzfPicZrYYzbZE+yoMqEmtR6xxIv/LhSFukHCVVcs6D54FGss9ozVY2etCJGew72BLyFKUET7ZB2Mod8QIGI9SpwkQR6QKwXZPfXTAHYMdyOubow/yDm6th/IB/KhXQzSuJG5tSDh5l4CSYkZRBCY+ixtcbK/eueeQ8gik4x4y/Jn/btdDM8cVV1nPOjQYmEHMKV1Fm8FtK5NkPHYWLi0HqMlwWoKIfdCOnSASRuM0WQWBKQS4plfagw==;LCxCrysq8lnbNnN+tMPXFw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/gms-driverless-car-unit-recalls-softw
 webUrl: "https://www.wsj.com/articles/gms-driverless-car-unit-recalls-software-used-in-some-robotaxis-11662041338?mod=hp_lista_pos2"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1813508!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/a-cruise-vehicle-in-san-francisco-california-photographer-david-paul-morris-bloomberg.jpg"
         width: 620
         height: 349
-        isCached: true
-  - title: "Phoenix mayor snags a ride in a driverless Waymo car as company launches autonomous rides in downtown"
-    excerpt: "Phoenix's mayor recently took a spin in a driverless Waymo car to announce the launch of fully autonomous car rides in downtown Monday, though only for a small subset of people. The self ..."
-    publishedDateTime: 2022-08-31T08:45:00Z
-    webUrl: "https://www.azcentral.com/story/news/local/phoenix/2022/08/29/waymo-program-lets-you-ride-driverless-solo-who-can-apply/7906028001/"
-    type: article
-    provider:
-      name: AZ Central
-      domain: azcentral.com
-    quality: 39
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2022/08/26/PPHX/ae46da1e-8443-4cd9-9487-cb6a013fa3bc-Waymo_-_Phoenix_-_Gallego.jpg?auto=webp&crop=2999,1687,x0,y201&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "GM's Cruise Recalls Self-Driving Software Involved in June Crash"
     excerpt: "After two people were injured in the incident, Cruise blocked its robot vehicles from making left turns for several weeks before issuing a software update."

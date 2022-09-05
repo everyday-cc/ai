@@ -83,20 +83,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Phoenix mayor snags a ride in a driverless Waymo car as company launches autonomous rides in downtown"
-    excerpt: "Phoenix's mayor recently took a spin in a driverless Waymo car to announce the launch of fully autonomous car rides in downtown Monday, though only for a small subset of people. The self ..."
-    publishedDateTime: 2022-08-31T08:45:00Z
-    webUrl: "https://www.azcentral.com/story/news/local/phoenix/2022/08/29/waymo-program-lets-you-ride-driverless-solo-who-can-apply/7906028001/"
-    type: article
-    provider:
-      name: AZ Central
-      domain: azcentral.com
-    quality: 39
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2022/08/26/PPHX/ae46da1e-8443-4cd9-9487-cb6a013fa3bc-Waymo_-_Phoenix_-_Gallego.jpg?auto=webp&crop=2999,1687,x0,y201&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "8NoYMC46nHb+PqK4rzqdN5osQGFd0Pjn6RTTrGK6NC9C0JMsW96GXOVSWVHPacai2bWc+UgztYz3fmbAntawrberhSxr/DFa0432/95OnfqGNn+JXhB+TfxBQZHqM/Cvfc9mUEZhYSS1GPfqwgQ4n6FGC5RVgnSJsgqNxfFOeU728pcMZH0Dt4Vlu2mgWsmf57gEvmM/KbXy2egu0fPoMYxhAGg25vFGMKpH3ydN+kSGoNMiABmtMPSyrFyGFlmyUukLO8JG4w4pw++a5RfIeX46OzF6Bg1CK31M3O4lXAMNeeAqtlLxFBnIOcrLbZSUofmeOrGkBJZ6vf4WIOmmeHHPgbXFz0FJI/7rcQP7uEjNg9GWXP1pJfyeDR0JkgmscImOI/B/TEfOquIzQ/Tk/u49z/tCk5UZ7JtLoi25Zo0gjKiwk8ktYSITMxnEOaLt1X7gLwcIya0hisurmTCqmXSZtmugqby/l/Ybc1VmSE9NXUvDlDS7GscyXTOpJ/NYDs90IHFHpjlRo0iWar+HkA==;fYJU0v83cc/IWz9h2YRsuQ=="
 ---
