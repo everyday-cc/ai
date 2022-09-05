@@ -20,6 +20,8 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+  - Machine Learning
 
 related:
   - title: "How artificial intelligence can explain its decisions"

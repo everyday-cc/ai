@@ -21,6 +21,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/630c279385d0b9a9d200c481/0x0.jpg?format=jpg&crop=3520,1979,x0,y10,safe&width=1200"

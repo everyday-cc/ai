@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://images.newscientist.com/wp-content/uploads/2022/09/05140202/SEI_122621756.jpg"
@@ -23,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "dXR9V2tdkuk9WSzN0ChmqV2+NeW+PY3eXzoGXFe9/vnSpjN1O8pirVvpLtPmklU6hLVSpfpJ7ZsAveMMi8gf8tsOi5fUEK3tSAQGYWguIRlqxNUzqDQJuxXiftYaUcnm5uRmGrFLoF337JsOpqNQYQvD+MKWAFIUANxRgKN9IE8I5T1/uEM8l0wARnouUAZDq2KWKO9BtwdeKq866SZEwpNPRNiCawjQYOpcdBjJcV22lCLWH+WsBDnPeFrYYFmjfRKW4kQ6F+moQkiFyYpM83gPCVhnUfaC61as2TGNPQzKUOMf0flCcxThHQ8UIPW9DrSiPJutIkP1Co5sUsvgEE4McnNfU/SOEAGpuk5fhyc=;CTBlUV4TYubEOgqRQD76Yw=="
+secured: "/hINz7DcvihBhN6Iv4r2Bqah9Jo0zcCf/ZM9rNDAeXZMcwLFLOki2NwT+6iIvIJr16vhMGxiDBHyqTJ3jYh9XCxuA7nBArzxpIG0lzXuBjIFZOONgCsa8PCwfEwytVHrEL7d44n9/chp4vwW8EVfdKBlPhWPn63gzi2doJyUqAjFoJDMxpAfDlVPGAzDxKWfVzhsJkt1rFKggx9YzXgjqhzR5LdjqUK/tuDWByVbAqtf1eCz4+o7Pq1C99Vl5fioz/IzCwS/g2VJS9LemHo7AYwRbnWmo1Uvfps4PS9uCBqe8KN6l1bVyFHR9SDT+is79r70XpVO+m4Sy1NLDtO+GpFQv3llBeobUGMyP1cNA2IdckT6XBu6Q5qQG5U3VWGyIAK/0RXE9pMt7H7ZfIYxDMdfq67XhdGNKW2/98tee/79dO51YAjN3J5k+AXiMZgYUd71MVDdnQUtKasCmIfcCmrqbvwTO4SvuvEUPYauHCRsjCAN/BwEbPfLezegwFuroQVImDCjXYqtsSv4xdJm8A==;PXC/Jab4dKFqY/pDB7CcIw=="
 ---
 

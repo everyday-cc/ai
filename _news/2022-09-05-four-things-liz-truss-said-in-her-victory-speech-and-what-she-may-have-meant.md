@@ -2,15 +2,10 @@
 category: news
 title: "Four things Liz Truss said in her victory speech – and what she may have meant"
 excerpt: "From praising Boris Johnson to dealing with energy crisis, Tory winner gave strong hints about her future priorities"
-publishedDateTime: 2022-09-05T12:46:00Z
-originalUrl: "https://www.theguardian.com/politics/2022/sep/05/four-things-liz-truss-said-in-her-victory-speech-and-what-they-may-mean"
-webUrl: "https://www.theguardian.com/politics/2022/sep/05/four-things-liz-truss-said-in-her-victory-speech-and-what-they-may-mean"
-ampWebUrl: "https://amp.theguardian.com/politics/2022/sep/05/four-things-liz-truss-said-in-her-victory-speech-and-what-they-may-mean"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/2022/sep/05/four-things-liz-truss-said-in-her-victory-speech-and-what-they-may-mean"
+publishedDateTime: 2022-09-05T13:32:00Z
+originalUrl: "https://www.theguardian.com/politics/2022/sep/05/four-things-liz-truss-said-in-her-victory-speech-and-what-they-may-mean?amp;amp;amp"
+webUrl: "https://www.theguardian.com/politics/2022/sep/05/four-things-liz-truss-said-in-her-victory-speech-and-what-they-may-mean?amp;amp;amp"
 type: article
-quality: 35
-heat: 35
-published: false
 
 provider:
   name: The Guardian
@@ -24,6 +19,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "JSylYNlat+3r5pZidM3uIXRyyj7oQyHlZu9Vk1pnYEJmWXwA028pZGCb2gu0XxbN4Q5jecGceGm/XeMAzX5CjcqtBgX/2lXR8RzcPAabTGoCIzrKueaiALT2t2FKO9Trtv9CcHXt4ug/ep/0DsDXqDSLT2h0crTaf4lLC61Qu0ZfIFLH71x0knsxKImV0hPIofK595vrpQmJmdOY7Z/dFbZl/yeFRd8beQEYGNmE8ETP5A9kq5NJo4bAil5NHh1Mjmx6KAE8YX9wUyuR7PU4ttMtGuCGFUK5B+fTmHtkzEgKlZm2hqWsuKm9aSRZAsH0IjhBKzJg5ye7gj/MDmpM4cL0/wknJpNdUv4QY/l7EeE0SnV+3OfMFT107wgBnovrheYBezCnKHkRAsU01aV0Tzkea/2Ti8HVOx8m6/EDHH//q/vkvQhThGKNtqFA8IQ6OR+b3d37tX32VZj5OAKtflJsmd206H+J5an8UVncM5DQR3wAu2RNcobGpuGYwukT9yJxjAjdLDpw8g6OQAJu4w==;l/zw4+7bhza59V9XhBUqNA=="
+secured: "NJJUUBi0pDXz4UWBZlYy1cPPV8seXjs8Zk6KfUfGO+Zpo7A+ePxikaaQ+qhZoFb5gk1y+gt6eveO2WIQUoJi0KGqeKU1bX1zhiuYI2W2fhlxhIn60JG4lQqts7BIu4UlwbNf5JLfVTvRchwZro4VR2KyKVerCDOS/95qv6KUnvabYXursPLGit/Ee54D+B2H0DZ9xvkbVmkQ4+/RR6nfjE7WFnlNuTAEh+86RNkR15tWDSEAJoDn1N+b3kWK+2ejc2e04mfyKeJoPWd2Iz5PtvdANdjfTd9pfBqZYyXnodY8mn1QQ+tuzKNEycGMq43PMO8ajoBVXUS62YXO87V2/Jr7f2L2CnL/mITIdrdHD+I=;mDfz6JfAa+0ykC9sUMgDJA=="
 ---
 
