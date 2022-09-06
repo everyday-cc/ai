@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 50
+heat: 64
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "V+cEi2LWgIOMDmnXYZlheiEAQkc94sclYsqDlEjK+/q7QuoeJ3H2Pwi7/01UuNcrGePVPZJEQLbyESNsIeMocTKVvhxnphJG7BED0YcJq2t8cboz7bgqfG12vbC2YYE7b4nJELLcPScfIEI4OE3i/D5qmgD/IZw0w21pPlO5yeZg8mewXiu6PvzvBLAE1cSbjXXFKo4DbKUyMdpZbM1A+Hao7ZuHAff3NsO+1qjCWhm/nTkjdxMc2K7VOooe41vjOO8ltOWf1ZrolMMXhqi9soLQuQl5+ssgRQZ+el1LuwZlmD0qrLHmXQINPNBqhmTraS2ljd5fD2B1CLZIyRyhqVynrPkf4SuV9X6vcjQI43taUbfeHMqBsleMgOeftU2rqqJDqRlBR27QVa1KWfwa3AuS91JkiIjqygpuaUSH4aE=;FGCPV97i73BpqgDhKonM5g=="
+secured: "k9YTx0LLFdfBe3rJ3uBvKfzRvUU7GDE3awAoqOG8he0ZhchNLUDg4VnnKjqHy4lFYNVVs0boP3d1cNYJ5TZpdK4HFBjDcE2v8efSE49qyg4dLnw1RqDjF8pd/kQeuF0UrI0tauZ41UZvXcoI0v5QTGmVByFUCd/nDEbWyPeEAWkcm+xhEFuVxWTIZLz45faYRiVuvSSXm83IEDpfuRyZUPXzO9ZYT3BGQGtwt9BHWxIGMGb47PNewgq6Ktw8UrDf0HW/ubf8wxtaKPt3sbX3B94FhHG9t/LzPqAAzfgIo/pj8RzKilqWA0rgDrVI4GncEaxfKulNd1oqGRvBT8gIjW+WOceXCI0budrNz+EasgCp8LdYQFubzwIU7F3z0AXqxpbTte5H3iUOCsKqW7qgGUt5KIPVYi1D1737zePp5w0=;ctjiDnGYsmJFnO5Y3z40dQ=="
 ---
 

@@ -2,7 +2,7 @@
 name: "Tetra"
 overview: "Delivering the benefits of self-driving technology safely, quickly, and broadly"
 type: "profile"
-heat: 41
+heat: 50
 
 website: https://t.co/Rou5HQzEBc
 
@@ -35,6 +35,6 @@ images:
     isCached: true
     title: "Tetra"
 
-secured: "Hf/ffU0ZlXnDtbBtC/mviCpFEz8lxpk9BHZUbUAUruLZBNFjpc0Oqpvlw3yFAYqpcxvjQ55VpO52OWcGWfyuOnqbjcFRYwhJt7+bRMft0BvoSe5xqGu1p2Ax8QJQ+ZwIAi6xcCT5WDcFPy+PGqFEbibkYJ1O+9Uox1YE7EgRnv0UzijeriRqMqQas026aDton6IShhlhwcIvrGOQ/1sPSWiXB/PosNdSNo1/I+scpAqwbzctPBj+HlbZEnbi1nji8wPrOZ6t60VcwsIyVJ0tqTvCBPinmGAuODHzz1trG4j7E7RkOwkQ/qvulaZa8AvU2AeUchh48ok0BsO+kJx7OKohKnZtOI1WzD2mZuo0NBuRjhz04O1HOdX3egQ2g3KzY3hyum+97nf99H11bN46qQ==;hWWBdz/xyh+eFJ6sVlv+mQ=="
+secured: "Vk+gRlftOnwRT/3xkT9aWTz24WZSYAV1I+R5o8sSYWRCvhefiHTgO/dp63/YOBC0K/wqYx6FRenvfQeG8ZPANxERfwbYRhikSEhJ5pm5X2wiWx9nYO/xfOTsN9lLJO5x2B3+7Kwx2DjZ2//mhxUkSg1qrMMPdPysUUyCkH/N15l35dNX1KQrVaRV33O8Quk4XG0xUxwTBnWMwYCX6SevfxggaDUfCp940PPEqyvPPPJBiWilq1EEZ1a11KzIcu+KVImewVrt3rMteW4xT+aJ4XfnCAKqsk7n5O86Nak6hTtN/Z3qoxKkwXpdTSDpjljVFKtQUAjlNqJXPkRXXAHBbzlVZXwY8X63DDMDiE84xY0kVHUEIiGiW+jdqHJAhOYJ3+rTL4cGqSDZfHHCfNzP2w==;vjxQpYW/sCQT+yhDYA8Zdg=="
 ---
 
