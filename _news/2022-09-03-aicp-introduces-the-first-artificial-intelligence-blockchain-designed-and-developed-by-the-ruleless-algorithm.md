@@ -7,7 +7,7 @@ originalUrl: "https://finance.dailyherald.com/dailyherald/article/marketersmedia
 webUrl: "https://finance.dailyherald.com/dailyherald/article/marketersmedia-2022-9-3-aicp-introduces-the-first-artificial-intelligence-blockchain-designed-and-developed-by-the-ruleless-algorithm"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -16,38 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Blockchain, AI, and the metaverse — tools for better decision-making?"
-    excerpt: "When it comes to working together, people need help — whether they're in a conference room or in the metaverse. Could technology such as blockchain and AI make a difference?"
-    publishedDateTime: 2022-09-01T07:06:00Z
-    webUrl: "https://www.computerworld.com/article/3672428/blockchain-ai-and-the-metaverse-tools-for-better-decision-making.html"
-    ampWebUrl: "https://www.computerworld.com/article/3672428/blockchain-ai-and-the-metaverse-tools-for-better-decision-making.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3672428/blockchain-ai-and-the-metaverse-tools-for-better-decision-making.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/11/22/busines_communication_network_partnership_collaboration_teams_hiring_by_metamorworks_gettyimages-1159740443_2400x1600-100852686-large-100921745-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Exploring WAIC 2022: 5 highlights from the metaverse and AI-focused Shanghai tech event"
-    excerpt: "This year’s WAIC places a heavy focus on the metaverse, aiming to demonstrate the integration of AI with the metaverse."
-    publishedDateTime: 2022-09-02T11:07:00Z
-    webUrl: "https://technode.com/2022/09/02/exploring-waic-2022-5-highlights-from-the-metaverse-and-ai-focused-shanghai-tech-event/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 33
-    images:
-      - url: "https://technode.com/wp-content/uploads/2022/09/3C6A9991-scaled.jpg"
-        width: 2560
-        height: 1706
-        isCached: true
 
 secured: "afXukj6y1lOgYU/Z+NfoeDAIIMdsstYv/u9Lnrhzb4uWHFkQCyXFEkQt1ejUWeLSUnFSNJPAM0gFUEhBOTRJsUD5Q64+z1MLeOpuW1VVcDSzg4LG8BfVqpRFBMLmAyUuv9+JwMLi6O85S5wFh6m79jFBQnsM69xB7Ku1yd0QWY1ht51kvHMIa+5MpBijnoBeHjrtJy8fMfDm1nXxFwWxHXBdkIJWW174+xn+nLrJUg6m1juUcZ1cc6beSAaXdpilYZjal92qurJvpfUZHad2k80qqW6GJp0UThvcIOxvGoS1+orVc8u5ZJ+v1RLelW8h/FtVC3BexQjHDg0rkKT/LhU39yZtu7ZC1dt291Hz/u7xr+ajzU+Zl+8X2DP6WGG4W08Q9Hjq+j06Y57p+SvdWWnxbDRwPMlFwXw4W57mZ6V0N2XyGIFE8vpk9xvsW1pJ309Bok1gA9B1CkZlOU5MJuJRbANjqhzNbhiu5va/aqA/uiXfsXKMzBqLs0KAiqddcGkc9762G9pRpxx2TMKRmg==;awikBiDKw2PmxIrlMNbCEw=="
 ---

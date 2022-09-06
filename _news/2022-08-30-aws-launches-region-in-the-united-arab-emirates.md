@@ -1,20 +1,20 @@
 ---
 category: news
 title: "AWS Launches Region in the United Arab Emirates"
-excerpt: "AWS is committed to helping customers in the UAE deploy the most advanced cloud technologies and achieve the highest levels of security, availability, and resiliency,” said Prasad Kalyanaraman, vice president of Infrastructure Services at AWS."
-publishedDateTime: 2022-08-30T06:27:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-economy-amazoncom-inc-d9b9452aac444bf3821796b7f621f354"
-webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-economy-amazoncom-inc-d9b9452aac444bf3821796b7f621f354"
+excerpt: "Get 7 Days Free Sign In Sign In Topics"
+publishedDateTime: 2022-08-30T12:10:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20220829005779/aws-launches-region-in-the-united-arab-emirates"
+webUrl: "https://www.morningstar.com/news/business-wire/20220829005779/aws-launches-region-in-the-united-arab-emirates"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "b1MgzbZZXEIScpRdTIqewv3RhsLRt07ULlZ/bZQxGHWVSas4pNsnmSTrS/INyHdcvwsTdvOPmScBNf+qoZPq3U5QjrdLt4NVZfqnEgw9OFMTQOMHAlGcYF6RCYhikKvMu3a/ypan8UrkF1SLshZCOV05zmogafv0l28l+sokNWP9+j/AtWgFmVV6lEeo+lN61lA7DB9rvytI2OjqUyeVO/1CbCzTlQYvCQbkitRzHZcI69WGauXiutD4D8WrCM+/jjP9WEbNCwFPOSx6znKr3DXo6K+AGb6hIlpNoKVams+ZSq12tbIArDRfFREqPXYWd00Fuv4+5JD0tQtid1gjOp0T+ZfNZcXUWhbYGjIkFVk=;Pr1/yvqCUE9SyUvjPaKl4Q=="
+secured: "39ID/Y/lZBNc0FlDoTSb03MR/02lZC9FfYbaDX9Zfgmsvyh/C+H8tHEveMZhgVOKg254w3TnOLk/U+iVTyj48Vix5NKiudBdqdRLiTZzeLv8spd6S4LvVg0SUo1jLfi+tIhCPqMsMDJMsxkzkVt/Tsxp8gBgrdvAA2ASl75bomKwWGq9n4NPbwWdRuKmOsrlxOwusWKKUkicprzcoBJWJql/g5B5bk3eXbXZJwrC9vFOV6TpcvhS++eolXkk2HjemqZaBy+Cb4Z+Nel8h94V487uwiSF8Rj49k9oRuaIn6053Mdf2N0xKBPNc2XL+PwQ/YBZpzBfgg39raAF1f2LCiOqgQoLtHBOfE17ldUPJHU=;o6XXky2Ea88+/tkYTfuwXA=="
 ---
 

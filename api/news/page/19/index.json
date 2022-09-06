@@ -2,6 +2,49 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-08-19-driverless-cars-experts-warn-no-easy-answer-to-how-safe-they-should-be.md",
+      "title": "Driverless cars: Experts warn no easy answer to how safe they should be",
+      "excerpt": "There is no easy answer as to how safe self-driving cars should be, an adviser to a new government-backed report has told the BBC. The Centre for Data Ethics and Innovation (CDEI) report warns that it might not be enough for self-driving cars to be safer than human drivers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/technology-62598618",
+      "originalUrl": "https://www.bbc.co.uk/news/technology-62598618",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/310D/production/_126375521_selfdrivinggettyimages-928081066.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/technology-62598618.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-62598618.amp",
+      "publishedDateTime": "2022-08-18T16:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-19-experts-warn-no-easy-answer-to-how-safe-self-driving-cars-should-be.md",
       "title": "Experts warn no easy answer to how safe self-driving cars should be",
       "excerpt": "The Centre for Data Ethics and Innovation (CDEI) report warns that it might not be enough for self-driving cars to be safer than human drivers. It suggests the public may have much higher expectations of self-driving car safety.",
@@ -1098,58 +1141,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-innovation-and-the-implications-of-the-chips-and-science-act-with-synopsys-ceo.md",
-      "title": "Innovation And The Implications Of The CHIPS And Science Act With Synopsys CEO",
-      "excerpt": "The CHIPS and Science Act is a comprehensive piece of legislation that will ultimately inject upwards of $280 billion into the U.S. economy, in an effort to solidify and spur growth and innovation in a number of key",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marcochiappetta/2022/08/18/innovation-and-the-implications-of-the-chips-and-science-act-with-synopsys-ceo/",
-      "originalUrl": "https://www.forbes.com/sites/marcochiappetta/2022/08/18/innovation-and-the-implications-of-the-chips-and-science-act-with-synopsys-ceo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62fd7f0764f2cba6bbce7c7c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 778,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marcochiappetta/2022/08/18/innovation-and-the-implications-of-the-chips-and-science-act-with-synopsys-ceo/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2022/08/18/innovation-and-the-implications-of-the-chips-and-science-act-with-synopsys-ceo/amp/",
-      "publishedDateTime": "2022-08-18T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/cognitive-services-marke
 webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-2022-disclosing-latest-trends-and-advancement-outlook-2028-microsoft-google-aws-2022-09-01"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -24,20 +24,6 @@ topics:
   - AWS AI
 
 related:
-  - title: "MSRcosmos recognized as a finalist of 2022 Microsoft SAP on Azure Partner of the Year"
-    excerpt: "MSRcosmos recognized as a finalist of 2022 Microsoft SAP on Azure Partner of the Year - MSRcosmos has been named a finalist of 2022 Microsoft Partner of the Year Awards in the SAP on Azure"
-    publishedDateTime: 2022-09-01T08:46:00Z
-    webUrl: "https://www.siliconindia.com/news/general/msrcosmos-recognized-as-a-finalist-of-2022-microsoft-sap-on-azure-partner-of-the-year-nid-219888-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 47
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/K0DC9WQA.jpg"
-        width: 570
-        height: 367
-        isCached: true
   - title: "Microsoft's Ed Doran becomes a chief of staff at Google"
     excerpt: "Doran is best known for co-founding the Cortana project, Microsoft's unsuccessful cloud-based virtual assistant. Doran said that, while at Microsoft for more than 13 years, he cofounded four separate billion-dollar product new projects/businesses,"
     publishedDateTime: 2022-09-04T13:29:00Z

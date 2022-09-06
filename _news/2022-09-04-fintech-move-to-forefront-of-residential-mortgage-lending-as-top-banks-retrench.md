@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI In Fintech Market Will Reach More Than $61 Billion, By 2031"
-    excerpt: "Artificial Intelligence has been growing its influence in Fintech, and is projected to hit $61 billion in under 10 years. We tell you how."
-    publishedDateTime: 2022-09-01T07:39:00Z
-    webUrl: "https://www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/"
-    ampWebUrl: "https://www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/amp/"
-    cdnAmpWebUrl: "https://www-investingcube-com.cdn.ampproject.org/c/s/www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/amp/"
-    type: article
-    provider:
-      name: InvestingCube
-      domain: investingcube.com
-    quality: 59
-    images:
-      - url: "https://www.investingcube.com/wp-content/uploads/2022/06/Crypto-wallet.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Fintech Market Plays A Vital Role In Mobile Banking – Reports and Data"
     excerpt: "The size of the global fintech market was USD 100.09 billion in 2020, and it is anticipated to grow in value at an 8.5% CAGR. Rising demand for smartphones, growing private investor involvement in fintech firms,"
     publishedDateTime: 2022-09-01T10:29:00Z

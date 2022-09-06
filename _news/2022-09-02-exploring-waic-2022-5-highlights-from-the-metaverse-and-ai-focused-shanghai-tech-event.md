@@ -7,7 +7,7 @@ originalUrl: "https://technode.com/2022/09/02/exploring-waic-2022-5-highlights-f
 webUrl: "https://technode.com/2022/09/02/exploring-waic-2022-5-highlights-from-the-metaverse-and-ai-focused-shanghai-tech-event/"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -24,33 +24,6 @@ images:
     width: 2560
     height: 1706
     isCached: true
-
-related:
-  - title: "Blockchain, AI, and the metaverse — tools for better decision-making?"
-    excerpt: "When it comes to working together, people need help — whether they're in a conference room or in the metaverse. Could technology such as blockchain and AI make a difference?"
-    publishedDateTime: 2022-09-01T07:06:00Z
-    webUrl: "https://www.computerworld.com/article/3672428/blockchain-ai-and-the-metaverse-tools-for-better-decision-making.html"
-    ampWebUrl: "https://www.computerworld.com/article/3672428/blockchain-ai-and-the-metaverse-tools-for-better-decision-making.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3672428/blockchain-ai-and-the-metaverse-tools-for-better-decision-making.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/11/22/busines_communication_network_partnership_collaboration_teams_hiring_by_metamorworks_gettyimages-1159740443_2400x1600-100852686-large-100921745-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AICP Introduces The First Artificial Intelligence Blockchain Designed And Developed By The Ruleless Algorithm"
-    excerpt: "AICPrime is making a splash in Artificial Intelligence and blockchain technology after introducing the AICPrime Blockchain, an expandable AI blockchain powered by ruleless algorithms that have the ability to process and model data beyond human-known patterns."
-    publishedDateTime: 2022-09-03T03:27:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/marketersmedia-2022-9-3-aicp-introduces-the-first-artificial-intelligence-blockchain-designed-and-developed-by-the-ruleless-algorithm"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 13
 
 secured: "JDCtny81hQTNUvtc9hbqwcgGssgx85jyNFYNIBrkEZ8Zx6akpixxYcTOmQRqwGC2S1Bz+xorKsD2QBBNpEpzC/0X2P1H81y840TiqgTgurKRHTQvyolyZVAultcwh9J2ulR2QJSGxSKfQTry3SJpv+pJypLG1xXO3krXC4fJW0YHUf2PoPX/KCfAqIOA1x7oesQLC55BLbA6cj8iErSU8ya+4jKfdc5l8CXWLfHXbhtUSZ1gsLEto3SE1U0lqLZhXUvRs2B0OVAiBKCNodjA10B7vMuMB13UubjGcV7T/3TrHbXKUl8kPoP0jC/TXH+4oXRHJYa3ualEPr+5CPkOdBAs75EbpM3OjG7tAEmRMOk=;FNNa5/wE0zm76ubLARiNLw=="
 ---

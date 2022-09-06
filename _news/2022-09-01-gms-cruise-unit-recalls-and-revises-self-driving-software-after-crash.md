@@ -29,8 +29,8 @@ images:
 related:
   - title: "GM’s Driverless-Car Unit Recalls Software Used in Some Robotaxis"
     excerpt: "General Motors driverless-car unit has issued a recall related to the software in some of its robotaxis, after a crash earlier this year resulted in minor injuries. Cruise LLC, in a notice ..."
-    publishedDateTime: 2022-09-01T14:27:00Z
-    webUrl: "https://www.wsj.com/articles/gms-driverless-car-unit-recalls-software-used-in-some-robotaxis-11662041338?mod=hp_lista_pos2"
+    publishedDateTime: 2022-09-01T14:08:00Z
+    webUrl: "https://www.wsj.com/articles/gms-driverless-car-unit-recalls-software-used-in-some-robotaxis-11662041338"
     type: article
     provider:
       name: Wall Street Journal

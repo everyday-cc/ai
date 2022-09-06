@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/fintech-market-plays-a-vital-role-in-mobile-
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/fintech-market-plays-a-vital-role-in-mobile-banking-reports-and-data/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI In Fintech Market Will Reach More Than $61 Billion, By 2031"
-    excerpt: "Artificial Intelligence has been growing its influence in Fintech, and is projected to hit $61 billion in under 10 years. We tell you how."
-    publishedDateTime: 2022-09-01T07:39:00Z
-    webUrl: "https://www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/"
-    ampWebUrl: "https://www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/amp/"
-    cdnAmpWebUrl: "https://www-investingcube-com.cdn.ampproject.org/c/s/www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/amp/"
-    type: article
-    provider:
-      name: InvestingCube
-      domain: investingcube.com
-    quality: 59
-    images:
-      - url: "https://www.investingcube.com/wp-content/uploads/2022/06/Crypto-wallet.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Fintech move to forefront of residential mortgage lending as top banks retrench"
     excerpt: "Triad consumers who choose a bank or credit union to originate or refinance a residential mortgage are becoming increasingly in the minority."
     publishedDateTime: 2022-09-04T04:01:00Z
