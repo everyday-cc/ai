@@ -24,6 +24,19 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Divisions in Australia over Plan for Indigenous Voice to Parliament"
+    excerpt: "It also plans to mandate consultation with them on decisions that affect their lives by adding a so-called Indigenous Voice to parliament. The Australian constitution can only be altered by referendum,"
+    publishedDateTime: 2022-09-06T10:54:00Z
+    webUrl: "https://www.voanews.com/a/divisions-in-australia-over-plan-for-indigenous-voice-to-parliament/6732931.html"
+    ampWebUrl: "https://www.voanews.com/amp/divisions-in-australia-over-plan-for-indigenous-voice-to-parliament/6732931.html"
+    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/divisions-in-australia-over-plan-for-indigenous-voice-to-parliament/6732931.html"
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 24
+
 secured: "TFMo9BDjGrp2qtfw6sfaP72RCto4A7HVsHznIDThD4j05q+FwJZ96hgouUq+D72D93cCT0TyZcRIkrVZqbgBz6Y2Ehh1eAchLzf3pXOQLOvG7LUy7bw4wYauxeiveJINKR+bzexjTUeKOUqw4Ix5dT6S1RLYUbKWx/4j57V1b09ArsLnHPO2Y4f6Mp5d+0emkOtESUPz6tNZm3SMJAx1rNqZwd/g/hJgHaFtkLYPL9dP24G3VnbVZiFwDNKJCXHFPh1vpegdVAdzNgjhXPezyg5pUvT0E7xn1b9OHzITv0+5023bk0KdBKSxXMfyRs5nROvz9WKK/3N/Zt/a6T1KfucBqEi3qqO/XQz9FZuLnYg=;ylouswbLTbS8hpsz0IB2zQ=="
 ---
 

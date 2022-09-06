@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market 2022-2027: Size, Share, Trends And Forecast"
-    excerpt: "According to IMARC Group's latest report, titled \"Artificial Intelligence in Healthcare Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027,\" the global artificial intelligence in healthcare market reached a value of US$ 3."
-    publishedDateTime: 2022-09-02T06:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2022-2027-size-share-trends-and-forecast-2022-09-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
   - title: "Artificial Intelligence Market Size, Trends, Industry Research Report 2022-2027"
     excerpt: "According to IMARC Group's latest reserach report the global artificial intelligence market reached a value of US$ 56.5 Billion in 2021. Looking forward, IMARC Group expects the market to reach US$ 308."
     publishedDateTime: 2022-09-01T22:55:00Z
@@ -77,6 +68,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 9
+  - title: "Global Artificial Intelligence (AI) Mega Trends Report 2022: AIaaS Model is Emerging as a Key Growth Driving Strategy - ResearchAndMarkets.com"
+    excerpt: "The \"Global Artificial Intelligence Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. This research service identifies growth opportunities related to providing integration services to build customized solutions for AI,"
+    publishedDateTime: 2022-09-06T10:32:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-6-global-artificial-intelligence-ai-mega-trends-report-2022-aiaas-model-is-emerging-as-a-key-growth-driving-strategy-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "xGiQxvWwooQHKIyX+LYKxYMUZFB7jWrGUee9Sy3PKP3vBbPnARev11a3iv4EopyI+hep+uIXGAv4CyiE4bAkJBDaDT4RuthJz32dCYZ2R8va9jWE+4mMBYYJx2SIM66+R8I+NQ2sPbvu7sianKXIod1iaqKj8BK6eeDr4Ei5aaSgbFJazyt0vipsxQPxM2QjUstHT2FHcq3zAqhgAKuZPEommWCRLdrGS3Gsy6OAN4bMf2VvzNct3J0fz8eIZazpQpa8d1crVD5KwPQr87i38eBlSQ+MeONIGbgtIyS9gwIrgOBwZg42znEpOPHBDJzRe7a0olfF5n/fTMdX/JExmtnKSZzZ8uXW0Y1oJw6L570=;Cmep4KGSDIHS40P/x3dDrQ=="
 ---

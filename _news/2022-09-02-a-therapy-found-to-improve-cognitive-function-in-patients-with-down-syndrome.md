@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/09/220901151604.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/09/220901151604.htm"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -23,24 +23,6 @@ topics:
   - AI
   - AI in Healthcare
 
-related:
-  - title: "Migraine tied to lower cognitive, language function"
-    excerpt: "Cognitive function and language function are lower in individuals with migraine versus those without, according to a systematic review and meta-analysis published online July 26 in The Journal of ..."
-    publishedDateTime: 2022-09-01T17:30:00Z
-    webUrl: "https://medicalxpress.com/news/2022-09-migraine-tied-cognitive-language-function.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-09-migraine-tied-cognitive-language-function.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-migraine-tied-cognitive-language-function.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/migraine-tied-to-lower.jpg"
-        width: 800
-        height: 600
-        isCached: true
-
-secured: "YMd/K5Htslf5UunkYHnifEvrdvknRsdau+GuMQIUe3R+v1GVhyfyGusfmp3/GERG3ev8wI6BW/Y29zgqMZtRo0nRwNLC3zVLdy9TiZRXtnkfbr1wTyZGh2TJ4CmePLArxUGVPqLpw99bMdA+BTDJEh4NB/v3DYw6B2j+mdeO93cwqTWetBgvgnQffHcMsj/fcf25fQ6YWAX3ea2AR4x3BlwCOj8//81hs6iyIKk1woldj4VtE/yAd7z68cVLi1afLubpqkdt243zyVyS9oR2/KRpJIclZELrmBlpYFCmjsjJFpADVwLclZxkF8r13wWEgeBHtua2HV+6QNUkP1sADgg+zoYCkU/Ji0ypFAlc/aQ=;174Msu7dT30mfUJitZX+4g=="
+secured: "3sHREnyZZo6mcaJt0WaNUJp2s32t851MA5ojimuVtgHGdhfKlDNq82FkGz3ShCEgzes2IFu97mSTWf3XqQkYafC7tru8+JyWhI97O90MhlVZQK1UY9S4TT8dHu9bhHprizBaUK+m8AYRKsTLDmk169jZLMNResYkDsJb4viUrzj/JcNzxml+/pZve9HSj02S6XfzD5bOaEie7joPyzGjIZmOrk8BCsH+QlzoPVR28MgIFpvxZG9CBZZ4vNz6f78fwAirZ+tp8SnuWB+lxARHH3Co2RNZ3Hk8m2dnu9WM7DXGY0JBbTBRcebBtgQuOs3UQt2iey0kbMR2JHPeR3K8jGXCoD36gLTWnjr4cHvBdY0=;hMhmTDpKadyOu477TdtTxQ=="
 ---
 

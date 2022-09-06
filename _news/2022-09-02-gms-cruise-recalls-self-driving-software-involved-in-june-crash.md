@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/gms-cruise-recalls-self-driving-softwa
 webUrl: "https://www.wired.com/story/gms-cruise-recalls-self-driving-software-involved-in-june-crash/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "GM’s Cruise Recalls 80 Self-Driving Cars Due to Risk of Crash"
-    excerpt: "General Motors Co.’s Cruise self-driving car unit has recalled an older version of software used by its robotaxis at the time of a crash in San Francisco in June, according to federal transportation regulators."
-    publishedDateTime: 2022-09-01T17:04:00Z
-    webUrl: "https://www.bnnbloomberg.ca/gm-s-cruise-recalls-80-self-driving-cars-due-to-risk-of-crash-1.1813507"
-    ampWebUrl: "https://www.bnnbloomberg.ca/gm-s-cruise-recalls-80-self-driving-cars-due-to-risk-of-crash-1.1813507.amp.html"
-    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/gm-s-cruise-recalls-80-self-driving-cars-due-to-risk-of-crash-1.1813507.amp.html"
-    type: article
-    provider:
-      name: bnnbloomberg
-      domain: bnnbloomberg.ca
-    quality: 44
-    images:
-      - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1813508!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/a-cruise-vehicle-in-san-francisco-california-photographer-david-paul-morris-bloomberg.jpg"
-        width: 620
-        height: 349
-        isCached: true
   - title: "GM’s Cruise recalls 80 self-driving EVs citing collision risks when turning"
     excerpt: "General Motors’ self-driving rideshare service Cruise announced that it has recalled 80 of its electric robotaxis in order to update their software following an accident in June that injured two people."
     publishedDateTime: 2022-09-02T18:33:00Z
@@ -48,20 +32,6 @@ related:
       name: Electrek
       domain: electrek.co
     quality: 32
-  - title: "Cruise updates its fleet's self-driving software after crash"
-    excerpt: "Autonomous vehicle upstart Cruise has recalled and updated software in 80 self-driving robotaxis, according to a regulatory filing. Read more."
-    publishedDateTime: 2022-09-01T17:30:00Z
-    webUrl: "https://seekingalpha.com/news/3879474-cruise-updates-its-fleets-self-driving-software-after-crash"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 24
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/971998294/image_971998294.jpg?io=getty-c-w750"
-        width: 750
-        height: 503
-        isCached: true
   - title: "GM's Cruise unit is recalling self-driving cars after crash"
     excerpt: "Cruise said in a rare circumstance, the software caused the autonomous vehicle to hard brake while performing an unprotected left turn that it deemed necessary to avoid a severe front-end collision."
     publishedDateTime: 2022-09-02T09:17:00Z
@@ -76,24 +46,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "NC State researchers test safety benefits of self driving cars"
-    excerpt: "Hajbabaie is trying to slowly build up the idea that self-driving cars a way to a future with fewer crashes and fewer casualties."
-    publishedDateTime: 2022-09-03T19:38:00Z
-    webUrl: "https://www.cbs17.com/news/local-news/wake-county-news/nc-state-researchers-test-safety-benefits-of-self-driving-cars/"
-    type: article
-    provider:
-      name: cbs17.com
-      domain: cbs17.com
-    quality: 19
-  - title: "GM Recalled Self-Driving Taxis. It’s a Win for the Technology."
-    excerpt: "Thursday, General Motors self-driving robotaxi company Cruise recalled some of its cars because of a risk of crash. It feels like a set back for all car companies with lofty robotaxi ambitions. Auto makers, including GM (ticker: GM) and Tesla (TSLA), hope ..."
-    publishedDateTime: 2022-09-01T19:58:00Z
-    webUrl: "https://www.barrons.com/articles/gm-recall-self-driving-taxis-51662062231"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 4
 
 secured: "8NoYMC46nHb+PqK4rzqdN5osQGFd0Pjn6RTTrGK6NC9C0JMsW96GXOVSWVHPacai2bWc+UgztYz3fmbAntawrberhSxr/DFa0432/95OnfqGNn+JXhB+TfxBQZHqM/Cvfc9mUEZhYSS1GPfqwgQ4n6FGC5RVgnSJsgqNxfFOeU728pcMZH0Dt4Vlu2mgWsmf57gEvmM/KbXy2egu0fPoMYxhAGg25vFGMKpH3ydN+kSGoNMiABmtMPSyrFyGFlmyUukLO8JG4w4pw++a5RfIeX46OzF6Bg1CK31M3O4lXAMNeeAqtlLxFBnIOcrLbZSUofmeOrGkBJZ6vf4WIOmmeHHPgbXFz0FJI/7rcQP7uEjNg9GWXP1pJfyeDR0JkgmscImOI/B/TEfOquIzQ/Tk/u49z/tCk5UZ7JtLoi25Zo0gjKiwk8ktYSITMxnEOaLt1X7gLwcIya0hisurmTCqmXSZtmugqby/l/Ybc1VmSE9NXUvDlDS7GscyXTOpJ/NYDs90IHFHpjlRo0iWar+HkA==;fYJU0v83cc/IWz9h2YRsuQ=="
 ---

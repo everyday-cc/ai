@@ -24,17 +24,6 @@ images:
     height: 482
     isCached: true
 
-related:
-  - title: "SA government to establish artificial intelligence institute"
-    excerpt: "South Africa intends to enhance the teaching of robotics and coding in public schools through the establishment of an Artificial Intelligence Institute. Communications minister Khumbudzo Ntshavheni said the AI Institute is being established in partnership with institutions of higher learning,"
-    publishedDateTime: 2022-09-01T18:14:00Z
-    webUrl: "https://techcentral.co.za/sa-government-to-establish-artificial-intelligence-institute/214785/"
-    type: article
-    provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 19
-
 secured: "2Xj4a4YDHunTtPbXnJaOxmwYURRE8lpL5J2ib1eISyRLy1Dln8weuwALnGRfr8Sk7w66yq8Hx16jjTUgZLG8XTrOm6CtOn62YrPO3Tl/6h783etsIXWvgEs958Ltfrk54VKN78Um3u2OhAYV5ZBASyoYkmgXnxl5+L4ZVfhNZbiV1uqn7/rFhwIU6T5yAiUEqlpc5gKFfu6Jvsq1SJP2aGDt/qizTZ9EMYOPiOwUOvDujfd27EM4IMJL7jfQyh8TbaqYeq9g5wrQd00vMr0YLmU6f4RXyihMhe80pez8hmMOnGoXHvyLftneiKJ5Uy3uowW4CRMpcvv6Lt/yL6XVbKrcQGjFD7U3jhVP0WRSq3AXpMMWaCJlhMJdK0j2XpYB6GYJBXH7BlW1GcN7Hem5y1c4QUEvE5g8Jpl71Pto+Ju70OwgQUdmmuBwca3u5n/TWAMRmWjSf+YpJnJA2caeoFKcLm13oLOFE5/pTl75H9h4Mn4iybLOubQHzhPcrU/YArirxStf8PacVL6kscwtAA==;8lVIdB7ILbfY17aA8vhsvA=="
 ---
 

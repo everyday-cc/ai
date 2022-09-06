@@ -18,6 +18,36 @@ topics:
   - AI
 
 related:
+  - title: "This is likely why US banned AI chips to China"
+    excerpt: "High-profile universities and state-run research institutes in China have been relying on a US computing chip to power their artificial intelligence (AI) technology but whose export to the country Washington has now restricted,"
+    publishedDateTime: 2022-09-06T11:06:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/this-is-likely-why-us-banned-ai-chips-to-china/articleshow/94026320.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/this-is-likely-why-us-banned-ai-chips-to-china/amp_articleshow/94026320.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/this-is-likely-why-us-banned-ai-chips-to-china/amp_articleshow/94026320.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-94026320,imgsize-171552,width-800/94026320.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "US views AI chips as industrial security and a treasure not to be shared freely"
+    excerpt: "Washington is embargoing AI chips and directing manufacturing. The chips play an increasing role in facial and other biometric recognition systems."
+    publishedDateTime: 2022-09-02T21:08:00Z
+    webUrl: "https://www.biometricupdate.com/202209/us-views-ai-chips-as-industrial-security-and-a-treasure-not-to-be-shared-freely"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 67
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/02162027/computer-chips-scaled.jpg"
+        width: 2048
+        height: 1069
+        isCached: true
   - title: "US restricts exports of advanced AI chips to China and Russia"
     excerpt: "The U.S. government has implemented new restrictions that will limit exports of advanced artificial intelligence chips to China and Russia. Nvidia Corp., the leading maker of AI chips, disclosed in a Wednesday regulatory filing that it had been notified of the restrictions on August 26."
     publishedDateTime: 2022-09-01T19:06:00Z
@@ -59,34 +89,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?531717"
         width: 375
         height: 250
-        isCached: true
-  - title: "US restricts semiconductor sales to China, Russia"
-    excerpt: "According to many US media sites on Thursday and naming two significant US chipmakers, Nvidia and AMD, Washington has placed limits on the sale of sp"
-    publishedDateTime: 2022-09-03T20:14:00Z
-    webUrl: "https://menafn.com/1104806303/US-restricts-semiconductor-sales-to-China-Russia"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 41
-    images:
-      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_Politics_1088.jpg"
-        width: 1920
-        height: 1345
-        isCached: true
-  - title: "Fresh US chip export restrictions to curb China homegrown IC development"
-    excerpt: "China's progress in developing its homegrown AI and HPC processor industry will be curbed by the US fresh restrictions on exports of advanced GPUs crucial for artificial intelligence and high ..."
-    publishedDateTime: 2022-09-02T09:00:00Z
-    webUrl: "https://www.digitimes.com/news/a20220901PD209/ai-gpu-hpc-nvidia-us-china-trade-war.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 38
-    images:
-      - url: "https://img.digitimes.com/newsshow/20220901pd209_files/2_b.jpg"
-        width: 640
-        height: 427
         isCached: true
 
 secured: "LLMjwIvnxZG7hfpEslRlQVLSDlEsvRAAbcJZyhDgOuR+lyG83mTfbGAOslrsggt44/6sAEeesYvrAWlRrVEjVGR+p2dvclC8X/Erc5Xv9nltzIkdrYfvXVEWABgWkBkEowBGzLX0RkGA/t845uKqkvAEC6YWoWi276jXZ728nWp/6aaK9eg25Y5mnBVEdQ19DLwC/SrQDGnJSXjJJEX4sdr2uwiUiDTXSkUlgfBXyC4S/XhEz26Zk7ID+9kLY3tHbiOS9BfCrfQLi/bHLvok8S/BsVMEmHlJdlWOszD8NRh9oMsh5vnMX/OJ0bjL6dQ0NdwoEzxMhLcNZJmuUc994lOoiIOKlQzYRtfIJrA5cuEDrQFy/8jmK6CD1Z2tm89IdW2eqSp1rhOu5xT0uoJbVJ6I+rfc19Ahqc/zJE/FeEs2jcPB2DVO5gzJpSyky6HBx/ZoTyubVXLGlKKg9Lsdbzvb9t3Z3sM2YgJgdLbY4En/Ss3pVX8zebM1iPyvckKF604qzBby7xjGfLGrbbEAjw==;Dme0tpEQFS/RPXg9aEa7FA=="

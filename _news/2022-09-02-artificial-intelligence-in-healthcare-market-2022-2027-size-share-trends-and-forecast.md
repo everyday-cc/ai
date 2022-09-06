@@ -23,59 +23,61 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) Chips Market Future Growth and Business Opportunities 2022-2025|Latest Research Report"
-    excerpt: "Global \"Artificial Intelligence (AI) Chips Market\" in the forecast period of 2022-2025. Artificial Intelligence (AI)"
-    publishedDateTime: 2022-09-02T08:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-future-growth-and-business-opportunities-2022-2025latest-research-report-2022-09-02"
+  - title: "6 AI companies disrupting healthcare in 2022"
+    excerpt: "These AI startups are disrupting a variety of healthcare areas, from drug discovery and operational efficiency to disease detection."
+    publishedDateTime: 2022-09-06T10:00:00Z
+    webUrl: "https://venturebeat.com/ai/6-ai-companies-disrupting-healthcare-in-2022/"
+    ampWebUrl: "https://venturebeat.com/ai/6-ai-companies-disrupting-healthcare-in-2022/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/6-ai-companies-disrupting-healthcare-in-2022/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 77
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1158965842.jpg?w=1200&strip=all"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "Artificial Intelligence (AI) Robots Market Size Is Expected To Grow At A CAGR Of 21.3% During Assessment Period 2022-2028 | 122 Report Pages"
-    excerpt: "This report analyzes the impact of the pandemic on the Artificial Intelligence (AI) Robots market from a Global and Regional perspective. The report outlines the market size, market characteristics, and market growth for Artificial Intelligence (AI) Robots industry,"
-    publishedDateTime: 2022-09-05T04:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-size-is-expected-to-grow-at-a-cagr-of-213-during-assessment-period-2022-2028-122-report-pages-2022-09-05"
+  - title: "The role of AI in healthcare"
+    excerpt: "We live in a digital age where everything is readily available at the click of a mouse, but have we ever imagined a doctor who can predict a patient’s illnesses beforehand and prescribe preventive medication in"
+    publishedDateTime: 2022-09-06T10:31:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-role-of-ai-in-healthcare/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-role-of-ai-in-healthcare/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-role-of-ai-in-healthcare/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
+      name: India Times
+      domain: indiatimes.com
+    quality: 74
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/09/Dr.-Rajendra-Patankar-CEO-Jupiter-Hospital-Pune.jpg"
+        width: 682
+        height: 1024
         isCached: true
-  - title: "Artificial Intelligence Market Size, Trends, Industry Research Report 2022-2027"
-    excerpt: "According to IMARC Group's latest reserach report the global artificial intelligence market reached a value of US$ 56.5 Billion in 2021. Looking forward, IMARC Group expects the market to reach US$ 308."
-    publishedDateTime: 2022-09-01T22:55:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/ab28727692/artificial-intelligence-market-size-trends-industry-research-report-2022-2027"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28727692"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28727692"
+  - title: "Healthcare AI Can Augment Clinical Workflows"
+    excerpt: "The current state of healthcare is where healthcare providers sit and type in front of a computer while caring for patients. By doing so, critical aspects of their stories can be missed. As artificial intelligence (AI) advances,"
+    publishedDateTime: 2022-09-02T11:08:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-health-artificial-intelligence-d161438367430be8c153fc236c833a10"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 55
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
     images:
-      - url: "https://www.abnewswire.com/uploads/1662012669.jpeg"
-        width: 1200
-        height: 900
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Artificial Intelligence in Energy Market Research Report By Opportunities & Challenges in Near Future with Different Segments and Forecast to 2029"
-    excerpt: "Top Leading Companies of Global Artificial Intelligence in Energy Market are – Schneider Electric, General Electric, Alphabet, Watty, Grid4C, BuildingIQ, IBM, ABB, Enlighted, Siemens and others. -Comprehensive assessment of all opportunities and risk in the Artificial Intelligence in Energy market."
-    publishedDateTime: 2022-09-02T11:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-research-report-by-opportunities-challenges-in-near-future-with-different-segments-and-forecast-to-2029-2022-09-02"
+  - title: "2022 World Artificial Intelligence Conference Held in Shanghai"
+    excerpt: "A staff member introduces a minimally invasive orthopedic surgery robot to visitors at the 2022 World Artificial Intelligence Conference (WAIC) in east China's Shanghai, Sept. 1, 2022. [Xinhua/Fang Zh"
+    publishedDateTime: 2022-09-02T08:02:00Z
+    webUrl: "https://www.womenofchina.cn/womenofchina/html1/news/2209/312-1.htm"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 9
+      name: 中国妇女网
+      domain: womenofchina.cn
+    quality: 34
 
 secured: "aIyrcrCmKXiz0oDjQr2LzypkMXHJaSXYQDabZY1eq7u6W4I/3cz1lt53L7eErW8LSWp0qEIyLKdWonmi3TnIESHzEVmiJXNtoK9zF83PASdgsYg6IiJRha6XrwX280VUOupptAVXYpqmgJq/SJ1M5Hibd9DfjCoRF4cCoV+bOkGWbNJGEelJvUeGoCMLwDOSybM6Z0lucgNhtqDm5mg8p0nwzpf1TJLEvVgUijjrGiRJOjPKlJkQnyrkBZdCHvXS43qallITyDM6KhmBTmtsS/bioC/SkXeSWdsf1W1zEVCxWtFLBDSlBLy+EpBs7ZxIAwmuT+Hb9hR1LEX9LjYkYFbikO+A624COqZ1nv0DIj4=;Q6ygB8fGE9/2elMq5COkwg=="
 ---

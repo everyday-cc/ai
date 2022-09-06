@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market 2022-2027: Size, Share, Trends And Forecast"
-    excerpt: "According to IMARC Group's latest report, titled \"Artificial Intelligence in Healthcare Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027,\" the global artificial intelligence in healthcare market reached a value of US$ 3."
-    publishedDateTime: 2022-09-02T06:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2022-2027-size-share-trends-and-forecast-2022-09-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
   - title: "Artificial Intelligence in Energy Market Research Report By Opportunities & Challenges in Near Future with Different Segments and Forecast to 2029"
     excerpt: "Top Leading Companies of Global Artificial Intelligence in Energy Market are – Schneider Electric, General Electric, Alphabet, Watty, Grid4C, BuildingIQ, IBM, ABB, Enlighted, Siemens and others. -Comprehensive assessment of all opportunities and risk in the Artificial Intelligence in Energy market."
     publishedDateTime: 2022-09-02T11:47:00Z
@@ -73,6 +64,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 9
+  - title: "Global Artificial Intelligence (AI) Mega Trends Report 2022: AIaaS Model is Emerging as a Key Growth Driving Strategy - ResearchAndMarkets.com"
+    excerpt: "The \"Global Artificial Intelligence Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. This research service identifies growth opportunities related to providing integration services to build customized solutions for AI,"
+    publishedDateTime: 2022-09-06T10:32:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-6-global-artificial-intelligence-ai-mega-trends-report-2022-aiaas-model-is-emerging-as-a-key-growth-driving-strategy-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "B8IQqFkk/lWbunJZGtfw6YXqNaZ7bh1dxGvY0ZsHNb/dqXjXs7vxGxAaOApqSAcNFDSZHvFI/qb+dD/kTmT11jS19zeCCAFMC4H8uCDnN1/yIUh92hJnmpp3r0p9hDLiRseq7bVyo8/cRyX2qm9y7Beg6dlwRpW7PRA7xOMJ4mYJRwRcAh5oEHvJxx+En8f51L2ricJNVN4DALVI8l7nvTeq2nWDjVT6/hL3aOwn7Sf+Xo2m5e03QLdYyu1QP8vyJNeBODJj9M9P0N8vSBtmsB3bmrDFRnL4fRuDmEoUM3DHNAtdmm9DDTUtGUBBzdxA7kzo204/CyuSuasePo2U+5S7WhK4+tKrCrrGj+845pSOUiksl8zAEOtR6raF5BvoIQq31dYguwYuJ0WadNkpQ4bV+oCcMRI6AKDCG9dOiJlhEi7OI15F8319V5Ltvoss8dKyv8SCgnnG3xL233Enf8V+hYcE3LTUvOUSxwfGPtvmfDocJHXHk8zoY5hlbwYlI4PbCP6HrXlJre1rrhPZWw==;pakJrL2Nj4UkmdguYB26cw=="
 ---

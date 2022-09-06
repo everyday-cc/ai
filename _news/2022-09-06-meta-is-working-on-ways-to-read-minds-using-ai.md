@@ -6,7 +6,7 @@ publishedDateTime: 2022-09-06T08:21:00Z
 originalUrl: "https://www.siliconrepublic.com/machines/meta-mind-reading-ai-decode-language"
 webUrl: "https://www.siliconrepublic.com/machines/meta-mind-reading-ai-decode-language"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/09/AdobeStock_207650808.jpeg"

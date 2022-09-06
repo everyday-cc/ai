@@ -79,7 +79,7 @@ related:
     provider:
       name: SiliconRepublic
       domain: siliconrepublic.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/09/AdobeStock_207650808.jpeg"
         width: 800

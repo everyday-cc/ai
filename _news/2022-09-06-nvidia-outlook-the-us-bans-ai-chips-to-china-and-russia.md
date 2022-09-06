@@ -73,19 +73,19 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Banned U.S. AI chips in high demand at Chinese state institutes"
-    excerpt: "U.S. chip designer Nvidia Corp last week said U.S. government officials have ordered it to stop exporting its A100 and H100 chips to China. Local peer Advanced Micro Devices Inc also said new licence"
-    publishedDateTime: 2022-09-06T07:37:00Z
-    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/banned-us-ai-chips-in-high-demand-at-chinese-state-institutes-eusv5qgh"
+  - title: "AI Chips and China, Geopolitical Considerations, Nvidia Considerations"
+    excerpt: "Nvidia and AMD graphics chips are barred from sale in China, signaling a permanent shift in the U.S.’s approach to selling tech to China"
+    publishedDateTime: 2022-09-06T11:01:00Z
+    webUrl: "https://stratechery.com/2022/ai-chips-and-china-geopolitical-considerations-nvidia-considerations/"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
+      name: Stratechery
+      domain: stratechery.com
     quality: 54
     images:
-      - url: "https://static.zawya.com/version/c:NzBiZWZlN2UtM2UyMi00:YWFiMTE5/china-usa-chips.JPG?f=3%3A2"
-        width: 900
-        height: 600
+      - url: "https://i0.wp.com/stratechery.com/wp-content/uploads/2018/03/cropped-android-chrome-512x512-1.png?fit=512%2C512&#038;ssl=1"
+        width: 512
+        height: 512
         isCached: true
   - title: "US deals heavy blow to China tech ambitions with Nvidia chip ban"
     excerpt: "The US government’s new restrictions on the ability of Nvidia Corp to sell artificial intelligence (AI) chips to Chinese customers threatens to deal a heavy blow to the country’s development of a sweeping range of cutting-edge technologies."

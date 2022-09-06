@@ -61,6 +61,20 @@ related:
         width: 1600
         height: 1000
         isCached: true
+  - title: "Meta is working on ways to read minds using AI"
+    excerpt: "In a pre-print study, Meta scientists said their AI model was able to decode speech segments by listening to three seconds of brain activity."
+    publishedDateTime: 2022-09-06T08:21:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/meta-mind-reading-ai-decode-language"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 41
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/09/AdobeStock_207650808.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Meta develops mind-reading AI model"
     excerpt: "Researchers from Meta developed an AI model that decodes speech from thought. The technology allows people to produce words without speaking. When humans"
     publishedDateTime: 2022-09-05T07:55:00Z
@@ -74,20 +88,6 @@ related:
       - url: "https://www.techzine.eu/wp-content/uploads/2022/01/Meta-Whatsapp.png"
         width: 1500
         height: 800
-        isCached: true
-  - title: "Meta is working on ways to read minds using AI"
-    excerpt: "In a pre-print study, Meta scientists said their AI model was able to decode speech segments by listening to three seconds of brain activity."
-    publishedDateTime: 2022-09-06T08:21:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/meta-mind-reading-ai-decode-language"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/09/AdobeStock_207650808.jpeg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "SbYELwP9DKabcQqg9j6OIL3wiepUjor2bN6JC91mHmG/5Y7L11fDfuO+BtsUnHctT6gBTZ63oSFmE5YDVeCcA6lmvM+cFfD3V8KHjX5O8OOddD7yp1jng2/3/PSdLYqEsd33kMBbpRHcQtdl6PG27CPWJ/uEDxhbY+vpoggB37dL4B4y2cVX5ol+/IVdcCyB1QjhWs1cb+S9ih9T4uFGrE6tkCPiRXX/vNq5/N5uTIqANVrH6vINfYil+Tns5tAPk0mUM6fNMMCAYAFz0pD4KLBEai2xqZfWFhfWl/7xkOwx/2db1qMzas8WK5AkZqS0ZFdo0N7vIgb3HGhAOc7AWt1cwjAzYvJ0GV9pDfWcYp4kG2uMFLC1lu3MQCu0QmLDYIiOEsEZwTCjcG17pfdVd8Hv+XwvKSQvBwhdnfhFMhC4ir1m/eiezbv4ID611FdXnIsz0h+FLMz0uxOxBF48zCXguvmwguQ9A5LFKYNdMzTZ9n/oLxGPQDEqHB7uP0iHmxN9AKYSz1XChOBrg2ZeOg==;K0xlZpqQmCMvtPByNHQnsA=="
