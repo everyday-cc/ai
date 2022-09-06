@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/thermometer-with-face-re
 webUrl: "https://www.marketwatch.com/press-release/thermometer-with-face-recognition-market-global-outlook-and-forecast-2022-to-2028-2022-09-02"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech and Voice Recognition Market Size, Share, Top Vendors, Industry Trends, Growth, Recent Developments, Technology Forecast to 2029 - VMR"
-    excerpt: "Speech and Voice Recognition Market was valued at USD 8.83 Billion in 2019 and is projected to reach USD 33.62 Billion by 2027, growing at a CAGR of 19.63% from 2020 to 2027.The Global Speech and Voice Recognition Market research includes an in-depth analysis of key geographical trends,"
-    publishedDateTime: 2022-09-02T03:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-share-top-vendors-industry-trends-growth-recent-developments-technology-forecast-to-2029---vmr-2022-09-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

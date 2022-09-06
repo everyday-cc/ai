@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-06T18:38:00Z
 originalUrl: "https://www.psychologytoday.com/us/blog/why-religion-is-natural-and-science-is-not/202209/how-make-inflation-invisible"
 webUrl: "https://www.psychologytoday.com/us/blog/why-religion-is-natural-and-science-is-not/202209/how-make-inflation-invisible"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Psychology Today

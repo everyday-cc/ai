@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-06T19:32:00Z
 originalUrl: "https://www.cbsnews.com/miami/news/uber-passenger-exposes-self-threatens-to-rape-kill-driver/"
 webUrl: "https://www.cbsnews.com/miami/news/uber-passenger-exposes-self-threatens-to-rape-kill-driver/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: CBS News

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-06T18:29:00Z
 originalUrl: "https://medicalxpress.com/news/2022-09-technique-boosts-online-medical-results.html"
 webUrl: "https://medicalxpress.com/news/2022-09-technique-boosts-online-medical-results.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Medical Xpress

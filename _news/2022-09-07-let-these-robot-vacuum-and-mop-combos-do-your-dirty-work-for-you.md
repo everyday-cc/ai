@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-06T18:30:00Z
 originalUrl: "https://www.thedailybeast.com/best-robot-vacuum-mops"
 webUrl: "https://www.thedailybeast.com/best-robot-vacuum-mops"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Daily Beast

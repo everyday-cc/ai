@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-06T17:43:00Z
 originalUrl: "https://www.aol.com/finance/robot-manicure-shakes-multibillion-dollar-174322289.html"
 webUrl: "https://www.aol.com/finance/robot-manicure-shakes-multibillion-dollar-174322289.html"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: AOL

@@ -43,6 +43,15 @@ related:
         width: 750
         height: 489
         isCached: true
+  - title: "The Head Of Xbox Game Studios Wants Artificial Intelligence For QA Testing"
+    excerpt: "At a Q&A during PAX West, Xbox Game Studios head Matt Booty expressed a desire to bring AI technology to QA and testing in video games. As spotted by VGC, Booty stated that he has asked AI researchers to develop a system that could test games."
+    publishedDateTime: 2022-09-06T18:41:00Z
+    webUrl: "https://www.gamespot.com/articles/the-head-of-xbox-game-studios-wants-artificial-intelligence-for-qa-testing/1100-6507135/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 15
 
 secured: "qKTFds8QQ1Rw6GWBcd4Hl1oD2YNF2CoIbt3/xsAZCLz1HEE0MwGn4N3oIQzK9xEXE8+KNvNlWzZxxkO387v+of+rf2+mP3xkatfiMJ5dpGGksGqxxazzbmLcc0LP/A5cBjB675VUsZsta2vRot3SYti48+oSG09HrlKD0BGkf1VCs7YEGdXmYUdsJbTTasl9y0XDLPgl2EFfTMHiPUsOkAVGNb3ApsILFYp+OdoeKgQ9CA6mm9C7vp7lAFLPs+QSerauv0uts48vX84g5laPGvv9pWPgdwdSIMHgEVWDdS/nYnuxJtqex6psRG0xFCnSi+EUvhh5hKFxZVd610YMBvbmmxHDBuQIOJXr19HUmI9VaDi7ktFf01iS3iGOCd5G/GE//Sf9Z4XXYTaU9DP/44zLmU7yeWbDoS/aM617c1/WhRAQd5oT9WJAqiOYOn7FiDV+iXlAIpRsEuwPzr4MyTBcLdcR16ql1+Qtf/JTWvAYuffl1cKNy687/16IUXJ0BUuIQ1FN/K9ehKoOYEUSeg==;LVE+7W/szDmQ2+Jg3AD4mg=="
 ---

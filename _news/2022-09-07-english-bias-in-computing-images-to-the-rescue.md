@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-06T18:55:00Z
 originalUrl: "https://techxplore.com/news/2022-09-english-bias-images.html"
 webUrl: "https://techxplore.com/news/2022-09-english-bias-images.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: techxplore

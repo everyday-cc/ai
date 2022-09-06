@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-movai-lanner-electronics-announce-
 webUrl: "https://www.tmcnet.com/usubmit/-movai-lanner-electronics-announce-fully-integrated-platform-powered-/2022/09/06/9667466.htm"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "MOV.AI and Lanner Electronics partner on integrated platform powered by NVIDIA Isaac ROS"
-    excerpt: "Platform aims to simplify and accelerate robotics development and improve operational efficiency in warehousing and other industrial environments"
-    publishedDateTime: 2022-09-06T17:51:00Z
-    webUrl: "https://www.logisticsmgmt.com/article/mov.ai_and_lanner_electronics_partner_on_integrated_platform_powered_by_nvi"
-    type: article
-    provider:
-      name: Logistics Management
-      domain: logisticsmgmt.com
-    quality: 28
-    images:
-      - url: "https://www.mmh.com/images/2022_article/Lanner_Mov_AI_sm.jpg"
-        width: 682
-        height: 384
-        isCached: true
 
 secured: "6ctPUR4WhGGLgu+MQ/UTq/P7PHFKXHF7bkMo0xadc7kQpK3D/rkT1BMSFFrU2we71dKetEwizjFFu38l/DDjtH8l3Go+0qZSntFS7GOjCPKNYUT4CPGoEDspZilhRvnGeaXEy9euqPzTIf887zLXlJl2THOGHxa6SYJZhi4CX2rUxGBnACwXr+i+RKP3Blnf+O8MadB5sZZBas4Qsd5afpTfpVFsKPoaNmQvpPd5Gsci1ytAO5V4d+Wql9Am4m1GA31+NXlhOyD3uI+c0LBzYT2dn6SrrWmUvUp8pSwe82j5bR75N3PU9Sri/Qz3omhxDz5zn5fqJAyX1hyZUkDp/rMprH1yYTg6BgCwsp4pITM=;Hp0iY0nbaPuQZFrAyRc2kg=="
 ---

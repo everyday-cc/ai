@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-06T18:33:00Z
 originalUrl: "https://www.biometricupdate.com/202209/prosegur-knightscope-add-facial-recognition-to-physical-security-robots"
 webUrl: "https://www.biometricupdate.com/202209/prosegur-knightscope-add-facial-recognition-to-physical-security-robots"
 type: article
+quality: 52
+heat: 52
+published: false
 
 provider:
   name: Biometric Companies

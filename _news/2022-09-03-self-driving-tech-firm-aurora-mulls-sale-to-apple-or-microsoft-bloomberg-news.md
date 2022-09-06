@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/self-driving-company-aurora-mul
 webUrl: "https://www.reuters.com/technology/self-driving-company-aurora-mulling-possible-sale-apple-or-microsoft-bloomberg-2022-09-02/"
 type: article
 quality: 67
-heat: 127
+heat: 128
 published: true
 
 provider:

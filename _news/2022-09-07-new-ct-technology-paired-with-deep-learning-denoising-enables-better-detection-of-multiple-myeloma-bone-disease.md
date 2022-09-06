@@ -35,6 +35,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 34
+  - title: "Novel photon-counting CT improves myeloma bone disease detection"
+    excerpt: "New CT technology paired with artificial intelligence (AI)-based noise reduction offers superior detection of bone disease associated with multiple myeloma at lower radiation doses than conventional CT,"
+    publishedDateTime: 2022-09-06T19:10:00Z
+    webUrl: "https://medicalxpress.com/news/2022-09-photon-counting-ct-myeloma-bone-disease.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 4
 
 secured: "uk+cCuu7FKcu0AiMyBIC8FQngpmb1lCSH0kDzaihxOfJv+MhxsrIpB8gBGixJhONS94d65sbkf5sdnNEMNfqPEgSxTI1nCmI7LE+xaIbRybToZLIFgE8wq3U8ba51pbEcBKtu5lHKTTuoG/nmxK9GXWtUz2VT8pp7E6GV83tc7nZQFBDusd+GZ1TZ//4E6ZvqHViMh3cUGmfPPsBLMgkkDTZJi6hhLssUo5gYNOMY1dvGqS15YkmNJgj//uN/Pl57+u7xbWD4w43/kXxxubln3lZ9TDWKHVQ9BdZRK/roJsSsqdxwvQSQIpIhWnx0Nln+xyFsej6bsBvz+tSKJN+8hpIltLInmLOLLcwS+TlTGq51C9/gla0+uFyynQnsUw4694xEoHrS7WVGargu0OJsyjTSBc4BAYLticG90zBnHK9E2GHTJExwzTn0ecXCTiQS2kfQh0UG8cuPAMyCw9shjqZwtHA1jlrYTYZvkHxIkwo0kwBud5Vpnt4Sfn2DTF+y83UHgVRyB26e7CkfgKCcA==;S3BMDz4tj6rhPP1O3bQN1Q=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-06T19:06:00Z
 originalUrl: "https://syncedreview.com/2022/09/06/deepminds-selection-inference-language-model-system-generates-humanly-interpretable-reasoning-traces/"
 webUrl: "https://syncedreview.com/2022/09/06/deepminds-selection-inference-language-model-system-generates-humanly-interpretable-reasoning-traces/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: syncedreview

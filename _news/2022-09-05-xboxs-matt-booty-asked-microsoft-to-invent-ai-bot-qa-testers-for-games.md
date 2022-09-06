@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/paultassi/2022/09/05/xboxs-matt-booty
 webUrl: "https://www.forbes.com/sites/paultassi/2022/09/05/xboxs-matt-booty-asked-microsoft-to-invent-ai-bot-qa-testers-for-games/"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
       name: Kotaku
       domain: kotaku.com
     quality: 37
+  - title: "The Head Of Xbox Game Studios Wants Artificial Intelligence For QA Testing"
+    excerpt: "At a Q&A during PAX West, Xbox Game Studios head Matt Booty expressed a desire to bring AI technology to QA and testing in video games. As spotted by VGC, Booty stated that he has asked AI researchers to develop a system that could test games."
+    publishedDateTime: 2022-09-06T18:41:00Z
+    webUrl: "https://www.gamespot.com/articles/the-head-of-xbox-game-studios-wants-artificial-intelligence-for-qa-testing/1100-6507135/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 15
 
 secured: "voGx7C3yyXY8wLmiQ6vFhcx5mp4EkU/0qAs4iSOmlyMP0bcURCBu42FnJxDh+evYY9vUC+qZmhCmyVY3JVZH8UKYeSLbwoZ7y4sk+RjqTKZOxaHm1ysD6M7lu49U4Y7kKfMe5NkJG6b4xzqRJ818HNsr4B5JiuQHfXT/Qr1L+3e9N+Clj2j2xaP08AE4bHyR6av5//HwL1lkFj+fMbPn511dfW/DoYibMpew2UCE+SMlWAyNfVwcSurmhs2lkxma2LbSoRbQhevUHEYXbF195mtgWGf+FajgVI6DhFKHVZAkivS8dW+qKMRQxxxVgyZyicLZosQCNPgK8uGNfoo+AGVeANzD/mCPxR6mbXKC0pkH3E3A6qIwMiNsdJIkZKlGDJ7LtFMTPO/LDCooeaCEeTNCfj3dhJm1ytv9v4YhdrvQKtIt2fapzfaw+qMBRjdcqqrl2prPFbNR2NEAVhX8Y7FXcjPc0Pbggw1g1n6yOdwZiReUmwPSc6X3+tacuZ9htlfsn3G+TEiHA9QjqfGhMQ==;Mf+PNfpaZvHjua5fsTXLCQ=="
 ---

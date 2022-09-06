@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-06T11:10:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-robotics-denmark-30825cea33ea8c9e588c8ddf1dadd63e"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-robotics-denmark-30825cea33ea8c9e588c8ddf1dadd63e"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Associated Press

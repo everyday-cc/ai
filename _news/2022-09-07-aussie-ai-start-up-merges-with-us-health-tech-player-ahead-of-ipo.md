@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-06T19:00:00Z
 originalUrl: "https://www.afr.com/technology/aussie-ai-start-up-merges-with-us-health-tech-player-ahead-of-ipo-20220906-p5bfsr"
 webUrl: "https://www.afr.com/technology/aussie-ai-start-up-merges-with-us-health-tech-player-ahead-of-ipo-20220906-p5bfsr"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Australian Financial Review

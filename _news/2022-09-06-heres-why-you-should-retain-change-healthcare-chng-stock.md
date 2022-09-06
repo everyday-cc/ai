@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-06T15:12:00Z
 originalUrl: "https://www.nasdaq.com/articles/heres-why-you-should-retain-change-healthcare-chng-stock-3"
 webUrl: "https://www.nasdaq.com/articles/heres-why-you-should-retain-change-healthcare-chng-stock-3"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: Nasdaq

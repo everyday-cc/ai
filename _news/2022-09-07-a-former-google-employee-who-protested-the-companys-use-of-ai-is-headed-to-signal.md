@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-06T18:19:00Z
 originalUrl: "https://observer.com/2022/09/a-former-google-employee-who-protested-the-companys-use-of-ai-is-headed-to-signal/"
 webUrl: "https://observer.com/2022/09/a-former-google-employee-who-protested-the-companys-use-of-ai-is-headed-to-signal/"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Observer

@@ -22,6 +22,17 @@ topics:
   - Computer Vision
   - AI
 
+related:
+  - title: "The roundup: L.A. startup news you need to know"
+    excerpt: "Here's a roundup of recent L.A. startups news you need to know: WEB3 STREAMING: \\\\Stacked raised $12.9 million in a Series A round. Pantera Capital led the financing. Stacked is a"
+    publishedDateTime: 2022-09-06T17:16:00Z
+    webUrl: "https://www.bizjournals.com/losangeles/inno/stories/news/2022/09/06/la-startup-news.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 2
+
 secured: "SuuqTfta2xWcjfLnvPuwDxG9USzOPmjVQwTuRvY2+Kn9e5NxxuxnDStHcfbVMGLmRVnhs2fR75T+0fszr93tTfUBTknDdNXOzfjfvlAWVoeJ6FJ0SMdbZfOSuRbRda5O3XcdPfoCj2OtctDOGQ4F13apHqUEgkWe21HmOV9KmMETkRrOl+Yylbt3tWGtF4sXpI4ufCPq4fwI8LPfx+8CnE5k2ORVgNlPAuN5qE9LplzYQTWNNLra5fzW0yvNftP0IpuGRAq3lW31I7i7WdpwBAWU+8CWTYBM40u6vWCyvH/Umyh/c6poBLjFySyUdRx/rayXbN9hcRBXQAJ2GFbsoCsfmon/0jBeQjiY7nqvG0IPsAVxWMPBZEh6IIF/frOMvNxYkZg7HgZKPKEmdPhBzD19rvqHK7Fe+Z+Pa8IK2BNDj9XTvCnnWPn3NLpaRGVovdxQiR+Z7DzGr2lD52AhO2CUzXShAFghtYI+Ag9gk4YmhQ/cSRDl+cWpy61oX6yU+erwKiYpqNCB9kWSJ27X7Q==;5ZwNthmPLco0flbR0aLDbA=="
 ---
 

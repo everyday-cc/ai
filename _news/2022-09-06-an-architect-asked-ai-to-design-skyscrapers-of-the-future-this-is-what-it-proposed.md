@@ -3,10 +3,10 @@ category: news
 title: "An architect asked AI to design skyscrapers of the future. This is what it proposed"
 excerpt: "Manas Bhatia has a bold vision of the future -- one where residential skyscrapers covered in trees, plants and algae act as \"air purification towers.\" In a series of detailed images, the New Delhi-based architect and computational designer has brought the idea to life."
 publishedDateTime: 2022-09-06T09:20:00Z
-originalUrl: "https://edition.cnn.com/style/article/ai-architecture-manas-bhatia/index.html"
-webUrl: "https://edition.cnn.com/style/article/ai-architecture-manas-bhatia/index.html"
-ampWebUrl: "https://www.cnn.com/style/amp/ai-architecture-manas-bhatia/index.html"
-cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ai-architecture-manas-bhatia/index.html"
+originalUrl: "https://edition.cnn.com/style/article/ai-architecture-manas-bhatia"
+webUrl: "https://edition.cnn.com/style/article/ai-architecture-manas-bhatia"
+ampWebUrl: "https://www.cnn.com/style/amp/ai-architecture-manas-bhatia"
+cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ai-architecture-manas-bhatia"
 type: article
 quality: 81
 heat: 91
@@ -45,6 +45,6 @@ related:
         height: 826
         isCached: true
 
-secured: "S7+WCODfUCTY9KDlgm2yJajSSrfjvyzqbd677HqimU/vwZ8H4Z79Iz+51hUrelMM3sGNZbpZnsDzJMhMv1312Odp0n3D8lySqzlgbM8a44mYft+0slLTr7uWmfcRxoxJxcLTHPgj/eNlnLxn9/pcErjZPM/A6teaayW2IFWEJnxC+oUIqOoquFSLxXdG41Ur1Cm1OJRZ1Or+o7+xhZdGQSCi/GbGKISjCKU9qB6VRDSe6Y7jZZXNdE9sJ/tvhe1O22dQWJNtgstt0pJyLGiNK3SL9USdPK9ddGFFaFqGcw+ZExmKxMywMhG4uZA6QNDU5EbNUt48xEUwhDXY9+v+ZqOkFwwh9D+O58hexZnGzblMTbV4K6z+aF5YonP/cLd3XUiP2klhEukvHrwi9VwB0g9TyhIuKqCtG8B8cQK2Uj88wUZAxJqFfhNGJjS9aY/wIOJbOLTVcZXa5ZV6dkOzSwdESzn8qKCT6QITZsByt3S9yCvT9HZvOO6MJZw0b9/g/jB0+H/3sSOqvQs0evPhDQ==;TIXTy9YiCbCeS74U4KAfog=="
+secured: "duLS3wemtqq+R04QHy60s9B6qFtfkZg4NqNvdaydz246wXe2kIfH5UnLrhOKoos+xCmbwv//tSGdMODLTk1da2PGRV8fMzrT2pga0FpIA+gUBmci1lrgJ0VnphSOffMizqzhWRk1it9fH6nH6zQiND5Z6cFBq0fa2D7pi8EWSoXsr+0kldyPfJXQrsI9XQiQW0xK+HVe0WgEw+Do4M08vE4Teq2fRrYi8nQaEbEpRjuvgfL/8HLogK7fjUVNM7frQOuj9JTKef+aZHTE0sJSqOVnKWpkkBnpiiCkDROaq/E65+2/p59egNZNlnRiD6ic4w7cbCoTtjGMzyHaQrunFfZ6QbtdkBak99vMGolUfHI=;TNLaZXOuky2eRSDPJLv04w=="
 ---
 

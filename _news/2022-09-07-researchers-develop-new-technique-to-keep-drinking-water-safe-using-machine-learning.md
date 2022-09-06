@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-06T19:11:00Z
 originalUrl: "https://phys.org/news/2022-09-technique-safe-machine.html"
 webUrl: "https://phys.org/news/2022-09-technique-safe-machine.html"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Phys.org
