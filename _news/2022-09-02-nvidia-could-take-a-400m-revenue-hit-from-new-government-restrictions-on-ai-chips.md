@@ -67,20 +67,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Officials limit Nvidia's ability to provide AI chips to China"
-    excerpt: "United States officials told the chip design company Nvidia that it had to stop exporting computing chips to China."
-    publishedDateTime: 2022-09-01T15:41:00Z
-    webUrl: "https://www.washingtonexaminer.com/restoring-america/courage-strength-optimism/officials-limit-nvidias-ability-to-provide-ai-chips-to-china"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 54
-    images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/f970c4f/2147483647/strip/true/crop/1024x538+0+60/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F36%2F8a%2F7fa100f24894b95d25da3ee68bd4%2Fap22126534046833.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Banned U.S. AI chips in high demand at Chinese state institutes"
     excerpt: "U.S. chip designer Nvidia Corp last week said U.S. government officials have ordered it to stop exporting its A100 and H100 chips to China. Local peer Advanced Micro Devices Inc also said new licence"
     publishedDateTime: 2022-09-06T07:37:00Z

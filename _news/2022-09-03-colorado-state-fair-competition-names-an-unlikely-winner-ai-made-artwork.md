@@ -9,7 +9,7 @@ ampWebUrl: "https://www.huffpost.com/entry/colorado-state-fair-ai-art_n_63106fc4
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/colorado-state-fair-ai-art_n_63106fc4e4b063d5e621ef1a/amp"
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Winner of a Colorado Art Competition Used AI"
-    excerpt: "Many of us have had our fun with AI art generators— like DALL-E —over the last few months, but one artist in Colorado took it a step further and won the state fair’s fine art competition with a work generated with the help of an algorithm."
-    publishedDateTime: 2022-09-01T15:45:00Z
-    webUrl: "https://gizmodo.com/ai-art-midjourney-1849484280"
-    ampWebUrl: "https://gizmodo.com/ai-art-midjourney-1849484280/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ai-art-midjourney-1849484280/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 67
   - title: "Will artificial intelligence replace artists after winning a competition?"
     excerpt: "Allen told the Pueblo Chieftain in an interview, \"I wanted to make a statement with artificial intelligence art. I think I did that, and I'm not going to feel bad about it.\" Allen sent in three pieces he made with Midjourney after trying out different phrases,"
     publishedDateTime: 2022-09-02T14:46:00Z

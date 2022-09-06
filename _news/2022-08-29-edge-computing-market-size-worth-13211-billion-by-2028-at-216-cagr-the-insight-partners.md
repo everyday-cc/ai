@@ -1,20 +1,22 @@
 ---
 category: news
 title: "Edge Computing Market Size Worth $132.11 Billion by 2028 at 21.6% CAGR | The Insight Partners"
-excerpt: "The Insight Partners published latest research study on \"Edge Computing Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Co"
-publishedDateTime: 2022-08-29T11:56:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/08/29/9663269.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/08/29/9663269.htm"
+excerpt: "The Insight Partners published latest research study on \"Edge Computing Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Component (Hardware, Software, and"
+publishedDateTime: 2022-08-29T10:30:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/08/n28664397/edge-computing-market-size-worth-132-11-billion-by-2028-at-21-6-cagr-the-insight-partners"
+webUrl: "https://www.benzinga.com/pressreleases/22/08/n28664397/edge-computing-market-size-worth-132-11-billion-by-2028-at-21-6-cagr-the-insight-partners"
+ampWebUrl: "https://www.benzinga.com/amp/content/28664397"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28664397"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI in Finance
+  - Microsoft AI
   - AI
 
-secured: "rzEtGKjd1VlsltcNqJBeNnRB9dtAhHvhag/3YFbkAm4O45wKIivcNu5JIGQ9KIW5sOc5rH0EXouq80Bfo4+o6b44UaGi8McXt6crED77nooJvui/NYFY+1bdRcSErJbtW0kF5nJZDzLLuKyJNV3EccgiLdx52YUyGKPXmp0uZL/OU3KNZFiNoSQ/r6wmsAqTHdTIVCYvnmG/VB12Z6EllXo5yNwrzUkGiTX/v8oUT4xT5AsKc5aNvt89Buf10wOYR6sbypr7dYzliPnCHJdFw00Z8QtLM4RpihOxATdqehPuRK82xt+hn5hPDcisI+gDqAs3xUS/qxvqKxwL+rf/e4vAKlFXHIM9FjuZVI7XI53kmF4EQsSz8Gf/QbKnAUPgQU/+FV5pWXC33ZfqHV/2RGBqqeFUAkxZ4GXG/VZXalljVdU8o/DMPtUp5SJpMiXD7Iyf0pebU7Rp7Wk1oLK71RG0ZO4XXuXkhp4iLcmsO2NGOCuqsgWhgcEtV2Dfeml0wcN9bsT1xHEHmpqrtMjP0A==;KPFr31UBJJPLw4Epi9k7KQ=="
+secured: "uKbf9ICySticP88vlAIToMsEMKkQ17pRuBV+jar0wC7w408DDGhkRD/G2xc9isaKSvMCPlYy6eVsK/Gbw6cYWMEPu7n22V65TdJRluAEk1BDnwAP+UDkEdAwQ05hi3NmILosn85cLPraS6a+/Ato/Yn3eAyJ+5AUwZ9PYTTs1J/HY56TVr7ANN9r6eEYavJW8DxF+tNmMFyV1LgLTv5fVwiu21oOJ2rJpQasUsuN1pC8xfo23qDsWbDVdLeWHj2U/xQ1Tb4YI1pDrJSJcERh96DMGqWx+StBACKtWqshKam1TcqGsfqbhotGlsKHsq8nfEwZA3xiuSs4Q96NPtKZfnJej8xveMz7+eTQNR/oWZY=;LZYrJMwBkSRzIp0eQ8p/+A=="
 ---
 

@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 620
         isCached: true
-  - title: "An AI-generated artwork won a state competition, and people don’t know what to think"
-    excerpt: "Jason Allen entered the artwork titled “Theatre d’Opera Spatial” in the “ Digital Arts / Digitally-Manipulated Photography ” category of the Colorado State Fair fine arts competition but created the piece using a popular text-to-image AI generator named Midjourney."
-    publishedDateTime: 2022-09-01T16:23:00Z
-    webUrl: "https://www.theverge.com/2022/9/1/23332684/ai-generated-artwork-wins-state-fair-competition-colorado"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 60
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/PXIITnGyOi4R_r8kCgV7y9yfhBI=/0x79:4032x2190/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23988389/20220825_174538.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "An AI-generated picture won an art prize. Artists aren’t happy."
     excerpt: "But one entrant, Jason M. Allen of Pueblo West, Colorado, didn’t make his entry with a brush or a lump of clay. He created it with Midjourney, an artificial intelligence program that turns lines of text into hyper-realistic graphics."
     publishedDateTime: 2022-09-03T08:54:00Z

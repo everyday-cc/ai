@@ -35,22 +35,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Use of face recognition app for attendance mandatory, says Botcha"
-    excerpt: "Education Minister Botcha Satyanarayana on Thursday made it clear that use of the face recognition app to register attendance for teachers was mandatory. Addressing a meeting attended by the officials of the School Education Department and representatives of various teacher associations,"
-    publishedDateTime: 2022-09-01T16:17:00Z
-    webUrl: "https://www.thehindu.com/news/national/andhra-pradesh/use-of-face-recognition-app-for-attendance-mandatory-says-botcha/article65837716.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/andhra-pradesh/use-of-face-recognition-app-for-attendance-mandatory-says-botcha/article65837716.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/andhra-pradesh/use-of-face-recognition-app-for-attendance-mandatory-says-botcha/article65837716.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://www.thehindu.com/theme/images/amp-og-image.jpg"
-        width: 1200
-        height: 1200
-        isCached: true
 
 secured: "Q2EiKv4iIS7kMPjbIeN5TkRqs//y43fDulU9Ii7osdyIZ44bEzbIPhsMHp9z2747GG843TYqLEF9TY2ZEX1BTLDK7ydczrT+JnHZwjrSzoS8UBeLnjgM570gWEImNRUA6sxB5nt1aTtoD/lnj3g/UFRUlyMpjm+G5XU44oIzc+81OdDmKL5SNm0Nw30ZcnLmGxYM751jXGtdxoCTDuc8FlN+Y+qjyYLgIjwROGnQK2uHjrqxcFRmmnyfAtdmnjN082BmHp4xaO1JXfCqz4jnc/KmEm89I/WElWICO0HmQV57zJp9gNuWlEQTh2w6ziqnZjRLeaXJKZnxHMn3H2nTnlI686Uorq7QZq1QhKVNK4FZ7kd1ZSmkxS9A4+kQfY5wQ2nzh+l/zNB4bgwfjMYVWkqia4OLH10AR2fRp8WkiH7rE7GHnlpFlu6QkENaxMG4d+W8GJw+VCVtfIg0PAP5kxgPCtV1PYLf4XnQjeWwhQYFNK8yEhiJ1jZKxTR6twbf7QTWbcG5OG84ugmZ2BGdNQ==;soLyMWSrntwTGMc3PEtpvQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/how-the-authors-behind-the-transform
 webUrl: "https://analyticsindiamag.com/how-the-authors-behind-the-transformers-research-paper-are-transforming-the-ai-startup-landscape/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "How avatars and machine learning are helping this company to fast track digital transformation"
+    excerpt: "By developing in-house talent and working with pioneering startups, LNER is moving towards its digital destination – and its experiences provide lessons for all businesses."
+    publishedDateTime: 2022-09-06T09:29:00Z
+    webUrl: "https://www.zdnet.com/article/how-avatars-and-machine-learning-are-helping-this-company-to-fast-track-digital-transformation/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-avatars-and-machine-learning-are-helping-this-company-to-fast-track-digital-transformation/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-avatars-and-machine-learning-are-helping-this-company-to-fast-track-digital-transformation/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 77
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/ed783a2f65ffc74133755054e8c6ce6cca442c79/2022/09/06/1a29cd1a-d332-43c1-8155-6e5699e53cdb/lner-azuma-york.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "MRsI4Vg3Ou2pwblRv6Et/EVfzPwAC6AGH7jLw78vUfGdfC6rCYjRYRXXlTGtWCTGyoFdnvBHnO6WY4RemSr0anRGvB+E9p8zHeGi3YTJtYy0DGwg21ZmH54sJHtlNoE3bwH5RQgVyBSSGtWvXcHU22PIAaME2632Ma0geHlPJV2XgPHkqEYAbWHsGagEg5fZ33B0iEnm6xDaOrHOxBsAZqZg4ScvgsVGYeVFrmHf0smOjdl0YpWIDHhcPYM6eTiVnEFMKIqDUMAuTGiw6we6uTAAynGUbiJhiu0iOYR8xze9kBg5sF7gDjo2VxHux6g4ZVei2mtBrLOhfalFqQBU05ATfklfhU4WUBLefKxKPxDalS2t0bpqgSwVNhriGwmQzcqouQ69T6yIqlzunVS9CIK6V3FSq7RwihMC3x0p2nobqdFI49mBHMNjS4eHg78pefxBNiQS/tyzn7a2l5t1nN/Fd8k09Sxc9ncQxvyOEgNDwbHzGISlqbFpl/b+YaPTjpotLT1mMFBPdMrA8vunVg==;sUGZnk2VJL8ZcJ+A+EvSpQ=="
 ---

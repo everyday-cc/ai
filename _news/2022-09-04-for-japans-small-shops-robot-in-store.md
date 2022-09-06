@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meet the Japanese Robot Who Stocks Drinks at the Corner Store"
-    excerpt: "A robot in Tokyo named TX SCARA is helping stock drinks at FamilyMart convenience stores following a worker shortage."
-    publishedDateTime: 2022-09-01T15:09:00Z
-    webUrl: "https://www.entrepreneur.com/article/434550"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1662046330-robot-convience-stores-japan-getty.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Newest Thing At The Corner Store: A Robot That Stocks Drinks"
     excerpt: "A small robot with a clip-like hand and enough smarts to know which drinks are popular is part of an effort to make convenience stores even more convenient."
     publishedDateTime: 2022-09-01T19:18:00Z

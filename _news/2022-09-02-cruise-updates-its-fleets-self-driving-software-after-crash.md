@@ -59,20 +59,6 @@ related:
       name: Electrek
       domain: electrek.co
     quality: 32
-  - title: "General Motors Recalls and Updates 80 Self-Driving Vehicles"
-    excerpt: "General Motors' (NYSE:GM) startup unit, Cruise LLC, announced Thursday that it had recalled and updated software in 80 self-driving vehicles after a June crash in San Francisco left two people injured."
-    publishedDateTime: 2022-09-01T15:26:00Z
-    webUrl: "https://za.investing.com/news/general-motors-recalls-and-updates-80-selfdriving-vehicles-432SI-2610548"
-    type: article
-    provider:
-      name: Investing.com
-      domain: investing.com
-    quality: 24
-    images:
-      - url: "https://i-invdn-com.investing.com/news/LYNXNPEC9O0PR_L.jpg"
-        width: 800
-        height: 499
-        isCached: true
   - title: "GM's Cruise unit is recalling self-driving cars after crash"
     excerpt: "Cruise said in a rare circumstance, the software caused the autonomous vehicle to hard brake while performing an unprotected left turn that it deemed necessary to avoid a severe front-end collision."
     publishedDateTime: 2022-09-02T09:17:00Z

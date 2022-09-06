@@ -45,6 +45,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-05-robots-cameras-and-more-world-ai-conference-highlights.md",
+      "title": "Robots, Cameras, and More: World AI Conference Highlights",
+      "excerpt": "From fall detection cameras to COVID-19-testing robots, the event showcased several technological innovations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sixthtone.com/news/1011153/robots%2C-cameras%2C-and-more-world-ai-conference-highlights?source=channel_home",
+      "originalUrl": "https://www.sixthtone.com/news/1011153/robots%2C-cameras%2C-and-more-world-ai-conference-highlights?source=channel_home",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image5.sixthtone.com/image/5/57/842.jpg",
+          "width": 2000,
+          "height": 1001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-04T19:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sixth Tone",
+        "domain": "sixthtone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-05-us-startup-simaai-starts-shipping-machine-learning-chip-and-system.md",
       "title": "US startup SiMa.ai starts shipping machine learning chip and system",
       "excerpt": "SiMa.ai/Handout via REUTERS Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management & Research Company, said on Tuesday it started shipping chips and systems to ...",
@@ -216,6 +259,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-newest-robotic-arm-on-iss-successfully-moves-payload-in-space.md",
+      "title": "Newest robotic arm on ISS successfully moves payload in space",
+      "excerpt": "The European Robotic Arm (ERA) successfully completed the first transfer following commands from cosmonauts inside the Space Station last week. Teams in Moscow, Russia and at ESA's control room in ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-09-robotic-arm-iss-successfully-payload.html",
+      "originalUrl": "https://phys.org/news/2022-09-robotic-arm-iss-successfully-payload.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/one-small-step-for-a-r.jpg",
+          "width": 1458,
+          "height": 1362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-09-robotic-arm-iss-successfully-payload.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-robotic-arm-iss-successfully-payload.amp",
+      "publishedDateTime": "2022-09-01T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -470,51 +556,6 @@
         "AI Hardware",
         "Machine Learning",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-us-startup-simaai-starts-shipping-machine-learning-chip-and-system.md",
-      "title": "U.S. Startup SiMa.ai Starts Shipping Machine Learning Chip And System",
-      "excerpt": "industrial robots, and eventually self-driving cars in, San Jose, California, U.S., in this undated handout photo. Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305",
-      "originalUrl": "https://www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.ibtimes.com/en/full/3810267/us-startup-simaai-starts-shipping-machine-learning-chip-system.jpg",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305?amp=1",
-      "publishedDateTime": "2022-08-30T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
       ]
     },
     {
@@ -1321,49 +1362,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-best-robot-vacuum-for-avoiding-dog-poop-plus-more-pet-friendly-vacuums.md",
-      "title": "Best robot vacuum for avoiding dog poop (plus more pet-friendly vacuums)",
-      "excerpt": "The iRobot Roomba j7+ is designed with the issue of dog poop in mind. This smart ... device -- the better to control the appliance remotely. The best part? This Lefant robot vacuum is priced ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/irobot-roomba-j7-robot-vacuums-avoid-dog-poop/",
-      "originalUrl": "https://www.cbsnews.com/essentials/irobot-roomba-j7-robot-vacuums-avoid-dog-poop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/08/17/95c7974e-3fc7-4bdc-984c-a8ad7429f73c/thumbnail/1200x630/e0539f7cb83c9c07473062067a48cc39/roomba-dog-poop-header.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/irobot-roomba-j7-robot-vacuums-avoid-dog-poop/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/irobot-roomba-j7-robot-vacuums-avoid-dog-poop/",
-      "publishedDateTime": "2022-08-25T15:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

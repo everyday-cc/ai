@@ -40,17 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Winner of a Colorado Art Competition Used AI"
-    excerpt: "Many of us have had our fun with AI art generators— like DALL-E —over the last few months, but one artist in Colorado took it a step further and won the state fair’s fine art competition with a work generated with the help of an algorithm."
-    publishedDateTime: 2022-09-01T15:45:00Z
-    webUrl: "https://gizmodo.com/ai-art-midjourney-1849484280"
-    ampWebUrl: "https://gizmodo.com/ai-art-midjourney-1849484280/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ai-art-midjourney-1849484280/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 67
   - title: "Human uses AI to win art competition—other humans angry"
     excerpt: "Jason Allen lives in Colorado, and last week lit the fuse on a debate that's going to run and run: he used AI software to create art, submitted it to the Colorado State Fair fine arts competition, and took first prize."
     publishedDateTime: 2022-09-02T17:32:00Z

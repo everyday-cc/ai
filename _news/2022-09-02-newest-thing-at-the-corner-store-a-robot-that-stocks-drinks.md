@@ -7,7 +7,7 @@ originalUrl: "https://www.huffpost.com/entry/robot-stocks-drinks-corner-store_n_
 webUrl: "https://www.huffpost.com/entry/robot-stocks-drinks-corner-store_n_631103d8e4b07d96a24c5c49"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Meet the Japanese Robot Who Stocks Drinks at the Corner Store"
-    excerpt: "A robot in Tokyo named TX SCARA is helping stock drinks at FamilyMart convenience stores following a worker shortage."
-    publishedDateTime: 2022-09-01T15:09:00Z
-    webUrl: "https://www.entrepreneur.com/article/434550"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1662046330-robot-convience-stores-japan-getty.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Robot that stocks drinks is newest thing at the corner store"
     excerpt: "A small robot with a clip-like hand and the smarts to know which drinks are popular is part of an effort to make convenience stores even more convenient."
     publishedDateTime: 2022-09-02T07:40:00Z

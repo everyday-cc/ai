@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "2022 World Artificial Intelligence Conference held in Shanghai"
-    excerpt: "A visitor experiences a massage robot at the 2022 World Artificial Intelligence Conference (WAIC) in east China's Shanghai, Sept. 1, 2022. With the theme of \"Intelligent Connectivity, Infinite Multiverse\","
-    publishedDateTime: 2022-09-01T15:10:00Z
-    webUrl: "https://english.news.cn/20220901/e13917c10b6f4dfea4d3e9f1d31589d7/c.html"
-    type: article
-    provider:
-      name: Xinhua
-      domain: news.cn
-    quality: 54
-    images:
-      - url: "https://english.news.cn/20220901/e13917c10b6f4dfea4d3e9f1d31589d7/20220901e13917c10b6f4dfea4d3e9f1d31589d7_202209013037fa74d4df4de7b4bdc8e04a17b30c.jpg"
-        width: 1024
-        height: 659
-        isCached: true
   - title: "Robots, Cameras, and More: World AI Conference Highlights"
     excerpt: "From fall detection cameras to COVID-19-testing robots, the event showcased several technological innovations."
     publishedDateTime: 2022-09-05T02:03:00Z
@@ -47,6 +33,15 @@ related:
         width: 2000
         height: 1001
         isCached: true
+  - title: "Cobots and EOATs and AI, Oh My!"
+    excerpt: "New developments in heavy-payload cobots, end-of-arm tools, and AI, among others allow robots to take on increasingly complex packaging tasks."
+    publishedDateTime: 2022-09-01T18:00:00Z
+    webUrl: "https://www.packworld.com/machinery/robotics/article/22340568/new-technology-drives-packaging-robots"
+    type: article
+    provider:
+      name: Packaging World
+      domain: packworld.com
+    quality: 19
 
 secured: "BssVFC1ezV9xVFNGcUfeXnVZEiOmPyle0+IkSvPTf+FKYao3a3IQG7j3sitHq+OVITR+clX6ZpAHincFTJWh7IQwezPWrtCL1S+hkt8SxuTp/svPvtoM8QuuCTxPOAthHsMFHZ7L/4H9zr7iZgiqvO+mnqc8z/ApPzgmkfBuuEaR2gpMAt3H9deTbvbL2Pi0nY9YrQedJ8JckN6x5mru6j+6/KfLdJNVPtnzz7SYOva2BZeidFFgud44ympRmUTYu8R2aVBponjkc1WJPblTgUDuiEQn9sLzfPicZrYYzbZE+yoMqEmtR6xxIv/LhSFukHCVVcs6D54FGss9ozVY2etCJGew72BLyFKUET7ZB2Mod8QIGI9SpwkQR6QKwXZPfXTAHYMdyOubow/yDm6th/IB/KhXQzSuJG5tSDh5l4CSYkZRBCY+ixtcbK/eueeQ8gik4x4y/Jn/btdDM8cVV1nPOjQYmEHMKV1Fm8FtK5NkPHYWLi0HqMlwWoKIfdCOnSASRuM0WQWBKQS4plfagw==;LCxCrysq8lnbNnN+tMPXFw=="
 ---

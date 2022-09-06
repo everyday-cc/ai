@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "California Passes Bill Targeting Tesla’s Self-Driving Claims"
-    excerpt: "The California Department of Motor Vehicles has rules banning the advertisement of cars as self-driving when they are not, but it has not enforced them. Now, the Legislature is making it a state law."
-    publishedDateTime: 2022-09-01T16:27:00Z
-    webUrl: "https://www.govtech.com/policy/california-passes-bill-targeting-teslas-self-driving-claims"
-    ampWebUrl: "https://www.govtech.com/policy/california-passes-bill-targeting-teslas-self-driving-claims?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/california-passes-bill-targeting-teslas-self-driving-claims?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 74
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/b0d6788/2147483647/strip/true/crop/1170x610+0+85/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Faf%2F77%2Ffd83a96ca726f6eeeac47c572fba%2Fsacramento-dkidd.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "California Legislature Passes Law That Would Force Tesla to Change Name of Full Self-Driving"
     excerpt: "Following a complaint filed by the DMV calling FSD's name misleading, California lawmakers have passed a law that would force Tesla to drop the title."
     publishedDateTime: 2022-09-02T23:22:00Z
@@ -83,6 +67,6 @@ related:
       domain: thedrive.com
     quality: 19
 
-secured: "JGQ5eZM2NCpuD2sTShRyLVQbOG/uy5qY2ZJsTG7XOLs9rWgaVaaESO1g7IlOUXhVnTi3gyZE9nhUTQvNZO0foj6uh612yYXmvaT1BT2qngGEqxVyw207/1K2lHoSxq1EOwPxzTdwJJEG31hxax4ioLZfdBhr6am0bjNXmY9UXPehTtFYqkwX4xOpCs756zxJWnpusErxCIjTdaeHC7fjpxYkTm9y7sOcDuodTKUfM+0AmEOYwI8vHueLf/BuakJgD5pmkhPaOenZ2Su/314kcNRQzMSOvyxbRIWQZ31GfMZJUtn4xtGejX6zIAnOHc7rRevMyNSnwB0Wr5qp9qIstyrqoAVA8wh9dp4sfOJTxBs=;6KD4M2g4A7kuBn5npnw94w=="
+secured: "dj17M2Ofe1uE84wXpHBJgg+y+gPGmRrYLH7Hnc3kV4B3vLGkeW4iDJpssMDH9cFafyl1XFBObvfFTFBZnPPFhojPBZugeLMrllcUlh1BJUkJmrTasPvk5YOCMX8T2XvPpfJtLB2/F/jrv98aSWVwApNiqnAJXINE283ejOy/NeNtBzScSSkZx8LS0wgTS8nZPc9q3rEtVGXizmv1LYUxa58Od3Mp5APCm9n0wAKEegfpYbTOuSaCm+bcSiP4aEak79xSDvH2vX5lbEMvKXGKpCPjKKG8wO2gcAXsCXLvpPdff8vhtnxTaGIYnQFPKv9MUBlg4hC/JJ3SWWGlWEvLLJsjxlsjzd7a/m4Z/YTYXAwYJrIaRtkm/YzuNT+SyT7C8wy6Sigr2j5WUcCb2uDkciQYrtz9qgPEoW2/5X7dDbtr+/V+vtnaU/XWNq53xTd8by/V76dF17v7qmqKyHHGBKcEZupgr64IyGFasCjHlKdDjU+nI1a+dNhptVH+N8DO2f52HsPU2Ry346I3n/2Stg==;RQR27VmJ0cdBCoUnyxrydA=="
 ---
 

@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "California Passes Bill Targeting Tesla’s Self-Driving Claims"
-    excerpt: "The California Department of Motor Vehicles has rules banning the advertisement of cars as self-driving when they are not, but it has not enforced them. Now, the Legislature is making it a state law."
-    publishedDateTime: 2022-09-01T16:27:00Z
-    webUrl: "https://www.govtech.com/policy/california-passes-bill-targeting-teslas-self-driving-claims"
-    ampWebUrl: "https://www.govtech.com/policy/california-passes-bill-targeting-teslas-self-driving-claims?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/california-passes-bill-targeting-teslas-self-driving-claims?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 74
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/b0d6788/2147483647/strip/true/crop/1170x610+0+85/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Faf%2F77%2Ffd83a96ca726f6eeeac47c572fba%2Fsacramento-dkidd.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "Tesla Enhanced Autopilot vs Full Self Driving: which one should you buy?"
     excerpt: "Teslas are also capable of coming with Enhanced Autopilot and Full Self Driving. By parting with several thousand dollars, you can ensure your car can do more things without (much"
     publishedDateTime: 2022-09-06T07:00:00Z
