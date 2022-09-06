@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Innovative Payment Solutions Introduces Voice Command Function for IPSIPay App Through Collaboration with Conversational AI Technology Provider DRUID"
-excerpt: "William Corbett, IPSI’s Chairman and Chief Executive Officer, commented, \"We believe our new collaboration with DRUID will dramatically enhance the functionality of our IPSIPay App, enabling users to execute remittances and other transactions,"
-publishedDateTime: 2022-08-30T15:25:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/08/30/9664347.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/08/30/9664347.htm"
+excerpt: "William Corbett, IPSI’s Chairman and Chief Executive Officer, commented, “We believe our new collaboration with DRUID will dramatically enhance the functionality of our IPSIPay App, enabling users to execute remittances and other transactions,"
+publishedDateTime: 2022-08-30T13:17:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-43dd32330de56b40d4b503cdbbed5410"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-43dd32330de56b40d4b503cdbbed5410"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Microsoft AI
+  - Natural Language Processing
   - AI
 
-secured: "tprXRYra8xNyQKTUfUxDbOA6ng27kvULQgWIeJ0j/yZ38pfIfCQuW2Mtu7HWh6UHCQGbAy4HXrYdlxLEb3AxXD98f9719RXLS+Nq2635W5R3BHpFPzUyQzx94241zKDhK5PQ15rYG31ptqp84aGkJK+nghUuA1OIJnQp+1earoaaGZ6io0bHYUVayBk2xKWu8l8FB2NBBe7DEJW5uqz4+GBY3l1Hza62BP8+tybpSj9ZM9+m0c8MMW0xUarohwrVYO/Xar4Q9+oVGco5bSc6ECcQxaLR/EwIwFkFXVBMRQcXYzn5kdy1FTOTtJv+YXQd1RAXP3fS3hmA0IJqQspGbpUkdf0ACk5cUMCW42gD9iA=;7UQQgeZnC3XbkqG43HXtlw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "j+xcQ+5J3YuHfUO3aOlg97sX4ljECkHBBWR9i/zHaVKlzn8SnInqJdRHwe4EgoQdUDN0eCmPfx0si5dbVpULK5PsSVJvaA4BxIZ2+Z2l6C0pe9pDKFPY0hQMP0aHSs9H61yyt77QXBVgemVvoApP8aCV038SEij1+QPCPMhGdFUTZck2XMqakXsZqXL37IIA2H/bHvLwSKPplnNVGg1ZBv5vkt9elDNCHB7opuI82Kry8OJ6Ok0n20bQhw5Wm2sEcY4glQ7z7nY1B17Mc4Mp11zv/01ADiH8Q1f+9ZcOKqa8pBzkT+2yykTLNBIB/yb+VhG1wAFSf27pJ7hdutzZUsk/hnHMyaZph7aKw/X5Quo=;HAmL8YeOwnpcwkc2c26BAA=="
 ---
 

@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Biden weighs curbs on US investment in China tech and action against TikTok, as new limits on AI chips also considered"
+    excerpt: "The Biden administration is considering an executive order targeting US investments into Chinese tech companies as part of a broader strategy that also involves new restrictions on chips sales to China."
+    publishedDateTime: 2022-09-03T13:33:00Z
+    webUrl: "https://www.scmp.com/tech/policy/article/3191227/biden-weighs-curbs-us-investment-china-tech-and-action-against-tiktok?module=live&pgtype=homepage"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 40
 
 secured: "gBz3Ndu4Q3OCRhI/k9RWOJE/v7zYKXIuSdlMpSd4NAP5NTY9/9ymvgCfJyieNuF2B9cPJEgsCQNdnl5P+hHk5h9t0NlldDf59eBABqhoNcrhkfP7ZPvjG0idM+BLZpTocpoB2Mhathy8ymzaTYNATA1YS5nyywv6+Ymm8d6do1wtk/CbhJnt87JHuqe2lNpTzzkru/0J+PNDPzc8RRfQM9X1qqjATln15Y6M1WKf/wzOAmRwZiwUj0cAB2Yno3uUzyipvRaFUPk5xdVyq9e1s9s6ox6TUxYty4Mj49XKgoeEJI6HEa/dIhKVcHgRHB34e6TXrbgDqKS1W61GsinUkqhvJkylDqhyZRBs8zgz2e9/IsN0aDsOVpVH0flxp2h24j7HbsIk1LwHWTtHAtfvFT5T0i2yYpVsdt/pn0BG/d2wddLgDg2UFtzrRWOIEvHawaF97TNvO4Ai9fHKGnvTuGoEwioohLnqwgLmNemp9RCd84LDebvYQjpWE5fy0mnFqprjQ7LO3NjYmR8QGO9c3w==;LnrOD5ZlvzPX7eRY2v5bIg=="
 ---

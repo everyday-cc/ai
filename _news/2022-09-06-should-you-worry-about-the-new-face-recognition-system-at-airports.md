@@ -9,7 +9,7 @@ ampWebUrl: "https://m.rediff.com/amp/business/report/tech-should-you-worry-about
 cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/business/report/tech-should-you-worry-about-the-new-face-recognition-system-at-airports/20220906.htm"
 type: article
 quality: 74
-heat: 74
+heat: 76
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 230
     isCached: true
 
-secured: "bXBrpGgQdiJmfbCBtc3SROYXKcXieeqz8wjirPGfEKX30nqoENPKPxXRV9xc7GrD64+wmCFsnY06gQs00rwLlqHeCVE5XiOfOanjcxFciVeMiwbbP2ztAn8qdWQyK0W9Txz/5EyfJ1iZ1UByZQO/zTeVrX0QHOZI365l4stKAS5udC7Zgxis5S2SXnJT+zyO+BvdxqMi3vVeFAqQV8DG6eSySW82csqAtwxxdbA+LVwQYGB7vlQqgraY4s+hVKQsg2s1qHKkWlN6SqoLwdDofbUNDLyRa+wI4cKnOuX/UzVwFbhpIokDeXqOQTx+dbRn0VNW5SCwFeM5y86jEs1fpBmVOkPURomlsZSLoxv4wsE=;eHwCN4JwEHX6krtB2g6wMQ=="
+secured: "f9GCtJCynOynfNx2JKs5ni7m6H9PhX4hOHEyETl8LbIrqkF2wc3Pz2O/cMwdsetreUVsLcoGFB0zbhntsy6S6XptD3OGGvy63vx4XGlRPpvjJyHCccBOBJy0x56UK9G/3RIZ7e2nLAf8GPk/ux9XzA/crH92HVXw5voowO/Xcp9u+A21VF/FXlrgAWoSsy0Bl/sKTHHDM/Hr//0zk6/qsP878uZMk7p9A8TolrMQ0peyYHHC41ltqozQxH3mffIqHvOgjmTKbOBUYidlKf+QSvNOeJnOV3kb59fgf6UWT/d4JfJ7bf5K1H0Fl64LLspZ87276iiH96UIRHnNQG2bxvYrgw8yo7ADQV80hW8Gyd3DWJ+639QGjVuMKbashstWjZAg3vai/kOr0a04GkAcNAN9LHG8yXMx3MugSGnW358sfcmN1bK1jotjADa39spEgvAr4viOOie7P1Pz55Wu8kiWxRjl7RjTZKUI2tNDwh2GpwZTR6JxJ0jP1Ebam2fcibnrkGh64V725GJPRLwnKg==;a2Jcj36VQrr6suZ5R5bQYw=="
 ---
 

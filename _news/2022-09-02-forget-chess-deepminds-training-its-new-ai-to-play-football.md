@@ -61,20 +61,6 @@ related:
         width: 1600
         height: 1000
         isCached: true
-  - title: "DeepMind’s AI can now play football after learning how to work as a team"
-    excerpt: "Google’s artificial intelligence division DeepMind has taught AI humanoids how to work as a team in order to play football together. The researchers trained physically simulated AI to play two ..."
-    publishedDateTime: 2022-09-01T13:52:00Z
-    webUrl: "https://www.independent.co.uk/tech/deepmind-artificial-intelligence-ai-football-b2157565.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 53
-    images:
-      - url: "https://static.independent.co.uk/2022/09/01/14/deepmind%20ai%20football.png?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Meta develops mind-reading AI model"
     excerpt: "Researchers from Meta developed an AI model that decodes speech from thought. The technology allows people to produce words without speaking. When humans"
     publishedDateTime: 2022-09-05T07:55:00Z

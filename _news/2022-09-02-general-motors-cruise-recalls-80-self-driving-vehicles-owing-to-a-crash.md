@@ -9,7 +9,7 @@ ampWebUrl: "https://auto.hindustantimes.com/auto/cars/general-motors-cruise-reca
 cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/general-motors-cruise-recalls-80-self-driving-vehicles-owing-to-a-crash/amp-41662033142533.html"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -27,28 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "GM’s Cruise recalls 80 self-driving EVs citing collision risks when turning"
-    excerpt: "General Motors’ self-driving rideshare service Cruise announced that it has recalled 80 of its electric robotaxis in order to update their software following an accident in June that injured two people."
-    publishedDateTime: 2022-09-02T18:33:00Z
-    webUrl: "https://electrek.co/2022/09/02/gms-cruise-recalls-80-self-driving-evs-citing-collision-risks/"
+  - title: "GM Driverless Car Unit Recalls Vehicles After Accident"
+    excerpt: "The company, which is the first to have deployed driverless taxis in San Francisco in June, sent a notice this week to the US agency in charge of road safety, the National Highway Traffic Safety ..."
+    publishedDateTime: 2022-09-01T23:58:00Z
+    webUrl: "https://www.ibtimes.com/gm-driverless-car-unit-recalls-vehicles-after-accident-3608505"
+    ampWebUrl: "https://www.ibtimes.com/gm-driverless-car-unit-recalls-vehicles-after-accident-3608505?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/gm-driverless-car-unit-recalls-vehicles-after-accident-3608505?amp=1"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 32
-  - title: "General Motors Recalls and Updates 80 Self-Driving Vehicles"
-    excerpt: "General Motors' (NYSE:GM) startup unit, Cruise LLC, announced Thursday that it had recalled and updated software in 80 self-driving vehicles after a June crash in San Francisco left two people injured."
-    publishedDateTime: 2022-09-01T15:26:00Z
-    webUrl: "https://za.investing.com/news/general-motors-recalls-and-updates-80-selfdriving-vehicles-432SI-2610548"
-    type: article
-    provider:
-      name: Investing.com
-      domain: investing.com
-    quality: 24
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 59
     images:
-      - url: "https://i-invdn-com.investing.com/news/LYNXNPEC9O0PR_L.jpg"
-        width: 800
-        height: 499
+      - url: "https://d.ibtimes.com/en/full/3811638/general-motors-cruise-self-driving-car-designed-operate-its-own-no-driver-steering-wheel.jpg"
+        width: 768
+        height: 512
+        isCached: true
+  - title: "GM Struggles to Make Driverless Cars"
+    excerpt: "The heads of all the world’s big car companies say that the future of the industry lies with electronic vehicles (EVs) and driverless cars. Some of these organizations have made impressive ..."
+    publishedDateTime: 2022-09-02T22:29:00Z
+    webUrl: "https://247wallst.com/autos/2022/09/02/gm-struggles-to-make-driverless-cars/"
+    ampWebUrl: "https://247wallst.com/autos/2022/09/02/gm-struggles-to-make-driverless-cars/amp/"
+    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/autos/2022/09/02/gm-struggles-to-make-driverless-cars/amp/"
+    type: article
+    provider:
+      name: 24/7 Wall St
+      domain: 247wallst.com
+    quality: 59
+    images:
+      - url: "https://247wallst.com/wp-content/uploads/2019/05/imageforentry3-opp.jpg?w=400"
+        width: 400
+        height: 224
         isCached: true
 
 secured: "FPdaDRDeoq6tiRWtjKM4YQljC8Vc2ltztdgzDT0lZTjas7poSFwbKRuvP/vAbzEn5096GyZwmwsO+5wr5LFfDZiKF3tlkNHR37lKytzqZWQMXwVJ7zYZP9PAxeA6sT3uNyPNMKIIEfsLW05enxAHb3TPxp27lKRA6osOOOXWa91gogGjxwRhYmOUXFhhPx0CvAeeRWNRL0v+fbV+x+pZY/L9QuSjIsK9UQfU4pgOA3u1oCcg9M/eIIMc51P6wuqvcMgu+Dsz2JrO4frBaiEAntrllhBJktuiXvh0gP8CN1A8cDJ++VIcu7y3U8iFzLwi9zbNEThod5eaHLhWbQIFLF1twQP60G0HuWhIjgsacYA=;OhSXn+i4LmdMmRtiFGMUzA=="

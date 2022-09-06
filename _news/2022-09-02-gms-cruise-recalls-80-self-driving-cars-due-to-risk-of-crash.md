@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bnnbloomberg.ca/gm-s-cruise-recalls-80-self-driving-cars
 cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/gm-s-cruise-recalls-80-self-driving-cars-due-to-risk-of-crash-1.1813507.amp.html"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,36 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "GM’s Driverless-Car Unit Recalls Software Used in Some Robotaxis"
-    excerpt: "General Motors driverless-car unit has issued a recall related to the software in some of its robotaxis, after a crash earlier this year resulted in minor injuries. Cruise LLC, in a notice ..."
-    publishedDateTime: 2022-09-01T14:08:00Z
-    webUrl: "https://www.wsj.com/articles/gms-driverless-car-unit-recalls-software-used-in-some-robotaxis-11662041338"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 69
-    images:
-      - url: "https://images.wsj.net/im-614944/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "GM's Cruise Unit Recalls And Revises Self-driving Software After Crash"
-    excerpt: "General Motors' startup unit Cruise LLC said Thursday it had recalled and updated software in 80 self-driving vehicles after a June crash in San Francisco that left two people injured."
-    publishedDateTime: 2022-09-01T14:39:00Z
-    webUrl: "https://www.ibtimes.com/gms-cruise-unit-recalls-revises-self-driving-software-after-crash-3608357"
-    ampWebUrl: "https://www.ibtimes.com/gms-cruise-unit-recalls-revises-self-driving-software-after-crash-3608357?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/gms-cruise-unit-recalls-revises-self-driving-software-after-crash-3608357?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 44
-    images:
-      - url: "https://d.ibtimes.com/en/full/3811457/cruise-self-driving-car-which-owned-general-motors-corp-seen-outside-companys.jpg"
-        width: 1200
-        height: 788
-        isCached: true
   - title: "GM's Cruise Recalls Self-Driving Software Involved in June Crash"
     excerpt: "After two people were injured in the incident, Cruise blocked its robot vehicles from making left turns for several weeks before issuing a software update."
     publishedDateTime: 2022-09-01T19:34:00Z
@@ -66,6 +36,75 @@ related:
       name: Wired
       domain: wired.com
     quality: 34
+  - title: "GM’s Cruise recalls 80 self-driving EVs citing collision risks when turning"
+    excerpt: "General Motors’ self-driving rideshare service Cruise announced that it has recalled 80 of its electric robotaxis in order to update their software following an accident in June that injured two people."
+    publishedDateTime: 2022-09-02T18:33:00Z
+    webUrl: "https://electrek.co/2022/09/02/gms-cruise-recalls-80-self-driving-evs-citing-collision-risks/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 32
+  - title: "General Motors Recalls and Updates 80 Self-Driving Vehicles"
+    excerpt: "General Motors' (NYSE:GM) startup unit, Cruise LLC, announced Thursday that it had recalled and updated software in 80 self-driving vehicles after a June crash in San Francisco left two people injured."
+    publishedDateTime: 2022-09-01T15:26:00Z
+    webUrl: "https://za.investing.com/news/general-motors-recalls-and-updates-80-selfdriving-vehicles-432SI-2610548"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 24
+    images:
+      - url: "https://i-invdn-com.investing.com/news/LYNXNPEC9O0PR_L.jpg"
+        width: 800
+        height: 499
+        isCached: true
+  - title: "Cruise updates its fleet's self-driving software after crash"
+    excerpt: "Autonomous vehicle upstart Cruise has recalled and updated software in 80 self-driving robotaxis, according to a regulatory filing. Read more."
+    publishedDateTime: 2022-09-01T17:30:00Z
+    webUrl: "https://seekingalpha.com/news/3879474-cruise-updates-its-fleets-self-driving-software-after-crash"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 24
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/971998294/image_971998294.jpg?io=getty-c-w750"
+        width: 750
+        height: 503
+        isCached: true
+  - title: "GM's Cruise unit is recalling self-driving cars after crash"
+    excerpt: "Cruise said in a rare circumstance, the software caused the autonomous vehicle to hard brake while performing an unprotected left turn that it deemed necessary to avoid a severe front-end collision."
+    publishedDateTime: 2022-09-02T09:17:00Z
+    webUrl: "https://europe.autonews.com/automakers/why-gms-cruise-unit-recalling-80-self-driving-cars"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/CRUISE-MAIN_i_1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "NC State researchers test safety benefits of self driving cars"
+    excerpt: "Hajbabaie is trying to slowly build up the idea that self-driving cars a way to a future with fewer crashes and fewer casualties."
+    publishedDateTime: 2022-09-03T19:38:00Z
+    webUrl: "https://www.cbs17.com/news/local-news/wake-county-news/nc-state-researchers-test-safety-benefits-of-self-driving-cars/"
+    type: article
+    provider:
+      name: cbs17.com
+      domain: cbs17.com
+    quality: 19
+  - title: "GM Recalled Self-Driving Taxis. It’s a Win for the Technology."
+    excerpt: "Thursday, General Motors self-driving robotaxi company Cruise recalled some of its cars because of a risk of crash. It feels like a set back for all car companies with lofty robotaxi ambitions. Auto makers, including GM (ticker: GM) and Tesla (TSLA), hope ..."
+    publishedDateTime: 2022-09-01T19:58:00Z
+    webUrl: "https://www.barrons.com/articles/gm-recall-self-driving-taxis-51662062231"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 4
 
 secured: "ydaMuWmEcs0aqddgUX8ey6NpNYr3zP8cTm3z7Sk6CyrLa0Att03spGRUYEpmtD45arLsMPMMGgd+QE4H9TO6qx7PdVG7Zvk3n3lf0f9pNShGTusbZQbRn8OOYdI4BRlhcPm5S4AwttusY4m1DFqWN4jQOcS09Sc/e/o7/r9/3hLZpumXzHMmIL7XKMGnat42/3+YzGv3nnHxxVVuq88PRo5UOB8uZkecuhuSsP9BZEqvQ0hvvFjL8Y3KaSXWJkm45kmB6T5Zr8bKCmeVBcMqE8NHg2RUhZUIIM8ridySo5ja8Xhfsq80C63LFaion7gde+PigZMc1QJ2je6Q0RMINJHfLD+xkxt+Y0x6EbxBhU0=;sDa7UcmSKKXUWPpbnz/yew=="
 ---

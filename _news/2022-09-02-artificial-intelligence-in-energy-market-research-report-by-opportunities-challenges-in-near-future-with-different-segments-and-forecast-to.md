@@ -36,34 +36,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) In Supply Chain Market Size Share Volume Trends Demand Forecast Report 2022-2028"
-    excerpt: "The global Artificial Intelligence (AI) In Supply Chain market is segregated on the basis of Technology as Machine"
-    publishedDateTime: 2022-09-01T13:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-market-size-share-volume-trends-demand-forecast-report-2022-2028-2022-09-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Robots Market Share, Size, Growth, Future Trends, Key Players and Industry Analysis 2022-2028"
-    excerpt: "Robots Market is expected to exceed more than US$ 12 Billion by 2024 at a CAGR of 29% in the given forecast period. Browse the full report here:  The Artificial Intelligence (AI) Robots Market is segmented on the Basis of Offering Type,"
-    publishedDateTime: 2022-09-01T14:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-share-size-growth-future-trends-key-players-and-industry-analysis-2022-2028-2022-09-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) Robots Market Size Is Expected To Grow At A CAGR Of 21.3% During Assessment Period 2022-2028 | 122 Report Pages"
     excerpt: "This report analyzes the impact of the pandemic on the Artificial Intelligence (AI) Robots market from a Global and Regional perspective. The report outlines the market size, market characteristics, and market growth for Artificial Intelligence (AI) Robots industry,"
     publishedDateTime: 2022-09-05T04:21:00Z
@@ -102,20 +74,6 @@ related:
       - url: "https://www.abnewswire.com/uploads/1662012669.jpeg"
         width: 1200
         height: 900
-        isCached: true
-  - title: "Artificial Intelligence Software Platform Market Size Share Volume Trends Demand Forecast Report 2022-2028"
-    excerpt: "The global Artificial Intelligence Software Platform Market is expected to exceed more than US$ 11.5 Billion by 2024, at"
-    publishedDateTime: 2022-09-01T14:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-platform-market-size-share-volume-trends-demand-forecast-report-2022-2028-2022-09-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "W6mdVHed9Lezf/YZ6XMn+yyTtAWfn7q1kKlOLymAShQ6AZXwOfbzezVAjtXQyRKWFoxAVBojHguqF5w8Eq+Tx5STt+kakduyKttJa5qYpSw4H+9boqdzDWxJh1HYyQJP2vXCyvMSS8uEQ4I+uzctUI0wm4Dc5/ETO9GDv4HyWFKhG2AQybTHnwcFC3Q2h/nyJSoyUgkVniDnd8/a9XeSXDJdfolXdAo15vtOAxpQlD4C/WPjDkjVQK19A9SjzEzywc9Qgwwb46ZlUEohr++CBRehZGZlyfyyRuryWmafAqbyX7d4ZkBwb363uvxQBi0A1Qbs9b0H8txDiC2K3tEFIdnHFjGFJ+36MwNQKkjMWlk=;fmtL1A0//XoB1+Dv0gI+4Q=="

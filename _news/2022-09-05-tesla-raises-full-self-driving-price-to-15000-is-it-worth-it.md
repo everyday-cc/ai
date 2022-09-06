@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/09/05/tesla-raises-full-self-driving-price-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/05/tesla-raises-full-self-driving-price-to-15000-is-it-worth-it/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/b0d6788/2147483647/strip/true/crop/1170x610+0+85/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Faf%2F77%2Ffd83a96ca726f6eeeac47c572fba%2Fsacramento-dkidd.jpg"
         width: 840
         height: 438
+        isCached: true
+  - title: "Tesla Enhanced Autopilot vs Full Self Driving: which one should you buy?"
+    excerpt: "Teslas are also capable of coming with Enhanced Autopilot and Full Self Driving. By parting with several thousand dollars, you can ensure your car can do more things without (much"
+    publishedDateTime: 2022-09-06T07:00:00Z
+    webUrl: "https://www.tomsguide.com/face-off/tesla-enhanced-autopilot-vs-full-self-driving"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 53
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/6kavFKbT3MZ5oD4gMGgChT-1200-80.jpg"
+        width: 1200
+        height: 638
         isCached: true
   - title: "California Legislature Passes Law That Would Force Tesla to Change Name of Full Self-Driving"
     excerpt: "Following a complaint filed by the DMV calling FSD's name misleading, California lawmakers have passed a law that would force Tesla to drop the title."

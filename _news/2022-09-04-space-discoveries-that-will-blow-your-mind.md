@@ -3,16 +3,16 @@ category: news
 title: "Space discoveries that will blow your mind"
 excerpt: "The size of the universe is hard to fathom, and it’s expanding even faster than scientists originally thought."
 publishedDateTime: 2022-09-04T14:00:00Z
-originalUrl: "https://www.richmond-news.com/living/space-discoveries-that-will-blow-your-mind-5750231"
-webUrl: "https://www.richmond-news.com/living/space-discoveries-that-will-blow-your-mind-5750231"
+originalUrl: "https://www.nsnews.com/living/space-discoveries-that-will-blow-your-mind-5750231"
+webUrl: "https://www.nsnews.com/living/space-discoveries-that-will-blow-your-mind-5750231"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: Richmond News
-  domain: richmond-news.com
+  name: News
+  domain: nsnews.com
 
 topics:
   - AI in Robotics
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "vARWcaNrAiPrViBmV3pus/ArTNwCIMuCGW+ruCUy8INZeh1SAC+aBYf3i8G9X4vawqTcj/hUzLw9IHhBYZPybrXjTri4ySVoxpUSZCoAZRRSc/xBSlf7VTTaJhlF4uTe09VO8asFCuf4IwhDkoRbAZhZxtvMgRTWtMHuy7RmCF56VXMXgiZ187qs6mOedwoKgu+aI8gGDmq9cpKkW0Eq4sBhB37Azs5ekI2Rim608R7tCn2/onfjY1b8HULKwBJBSedmYZPlVAOC4eVYVco9ekxgoS/fSLVenVC0pYLXLVjjV0MsxSZOqVSh9GKieM5rahEa3FMgGB/X81And1lHlsYyMrfL3VMxFU897XfYnK4VDfiKLjfL7sh0PPhf0sZXK54AurlH0/xtqLiUsMzoqZIFSs8++XZIUEFTMwHjoR5JX3n5KZk+baRu4wJHyv6Evlkn0T8S7gpkFAsfRgLxl0GByK+wn7XB1aaZpOfmaKt8D+e7YV9Ujzif0H1Vm2MXdqf0GomoPHKN1ed9iSfRGA==;JpoF1+e6t9apeuW169EYOg=="
+secured: "K4arKlNSC7+LNTJdLFrXBNCddDM6ZdaXKamhE4faYXYurjsitUcRy0G0AvtGDU53kQeyPdUA91ThGhpc80QkW4K7IILczu9l7ME6uz155mQwiS2E6XGBXJ+eSOki7rUPiY7E0FPO2tYqfjCGIdfbZrl/Hob6fyBIe4D4xVFQcOfl8zwGji5D3u8a0bat8JOr2aeItfUDb3bs7Ny9T8+SN54C/SPcrhrGisVSMY4UqxExlFlckuMw6CVBfdSkTcTkdLfRGhC8M25Y+j/c9C8LTynPAt5cIncFPpaU9/VkS9eTlnapbSHczmI5Bt7sALI40O27pO6tNAtSsfW1b8T1m7DMlNyH2s1iwCDwfm6IVaI=;v7LWcuJS5GsMb0hAifhzIQ=="
 ---
 

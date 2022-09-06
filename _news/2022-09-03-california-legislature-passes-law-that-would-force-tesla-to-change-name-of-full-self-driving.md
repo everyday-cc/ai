@@ -59,6 +59,20 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Tesla Enhanced Autopilot vs Full Self Driving: which one should you buy?"
+    excerpt: "Teslas are also capable of coming with Enhanced Autopilot and Full Self Driving. By parting with several thousand dollars, you can ensure your car can do more things without (much"
+    publishedDateTime: 2022-09-06T07:00:00Z
+    webUrl: "https://www.tomsguide.com/face-off/tesla-enhanced-autopilot-vs-full-self-driving"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 53
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/6kavFKbT3MZ5oD4gMGgChT-1200-80.jpg"
+        width: 1200
+        height: 638
+        isCached: true
   - title: "California Targets Tesla ‘Full Self-Driving’ With Newly Passed Bill"
     excerpt: "A newly passed bill looks to hold automakers accountable for how they name and market partially-automated driving features."
     publishedDateTime: 2022-09-01T19:27:00Z

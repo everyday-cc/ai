@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/09/03/usa-white-house-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/09/03/usa-white-house-president-joe-biden-advances-regional-innovation-in-cleantech-energy-and-ai/amp/"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 700
         height: 449
         isCached: true
+  - title: "Biden weighs curbs on US investment in China tech and action against TikTok, as new limits on AI chips also considered"
+    excerpt: "The Biden administration is considering an executive order targeting US investments into Chinese tech companies as part of a broader strategy that also involves new restrictions on chips sales to China."
+    publishedDateTime: 2022-09-03T13:33:00Z
+    webUrl: "https://www.scmp.com/tech/policy/article/3191227/biden-weighs-curbs-us-investment-china-tech-and-action-against-tiktok?module=live&pgtype=homepage"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 40
 
 secured: "ugGssjvoQP9PeadUcKpV1awBvLVyyyT46jRBVmEQXD+aHyQqDT9uJCP/ERCiKYCZWDVjHTomz7X94luuLPecI6G1wqcrRn2qp8qI8f6sGGt+eimhrc2ztLBkXNsxlwK9n/EMhiWxI/i6BIiWFJkmAF5Mkj7CSrwC5nWsds1ajw/6zfLo90+5o2TH9I35v50P47iNygRnoWPIFPOWYXeCXeNbOSkxdkU1DRtB5HseDJJqRwwHm+7qbYeieXVRK6DsPmY2hBDaxCPlgX4hCOv4QQg+xdBnPeYF+hPfPhWMYf5grHQklbetGnLGv6wOAX1yihqbW2cwhLQOBDg9o3vtMJv9wG5r+p6R5U0QJ4xxdD0g4yDkt/QXa6YpebXRC0fe1M3CGo7/aQv8q2LQNBRV70L2YPVOuaG3flW5dIAt/OY7dBzCbETh91hfKK1Kq7Wa0RipOaHNEO/1hE+5fHKn8vrZQylNOz9reFVDacRJMat6vH5Cu0W8JswmdoyqlnmwN5wZAjdXuBWyYnqG5YG14Q==;1Pm8siYRLJqMmmzMPs0tMg=="
 ---

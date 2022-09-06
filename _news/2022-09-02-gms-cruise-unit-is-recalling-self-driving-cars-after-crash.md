@@ -25,17 +25,54 @@ images:
     isCached: true
 
 related:
-  - title: "California Has a Bill to Go After Tesla’s Self-Driving Claims"
-    excerpt: "Lawmakers in California are targeting Tesla’s self-driving claims with a new false advertising bill, VW’s next boss says the firm must speed up its switch to electric vehicles, and GM recalls its autonomous Cruise cars."
-    publishedDateTime: 2022-09-01T14:43:00Z
-    webUrl: "https://jalopnik.com/california-has-a-bill-to-go-after-tesla-s-self-driving-1849484108"
-    ampWebUrl: "https://jalopnik.com/california-has-a-bill-to-go-after-tesla-s-self-driving-1849484108/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/california-has-a-bill-to-go-after-tesla-s-self-driving-1849484108/amp"
+  - title: "GM’s Cruise Recalls 80 Self-Driving Cars Due to Risk of Crash"
+    excerpt: "General Motors Co.’s Cruise self-driving car unit has recalled an older version of software used by its robotaxis at the time of a crash in San Francisco in June, according to federal transportation regulators."
+    publishedDateTime: 2022-09-01T17:04:00Z
+    webUrl: "https://www.bnnbloomberg.ca/gm-s-cruise-recalls-80-self-driving-cars-due-to-risk-of-crash-1.1813507"
+    ampWebUrl: "https://www.bnnbloomberg.ca/gm-s-cruise-recalls-80-self-driving-cars-due-to-risk-of-crash-1.1813507.amp.html"
+    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/gm-s-cruise-recalls-80-self-driving-cars-due-to-risk-of-crash-1.1813507.amp.html"
     type: article
     provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 54
+      name: bnnbloomberg
+      domain: bnnbloomberg.ca
+    quality: 44
+    images:
+      - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1813508!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/a-cruise-vehicle-in-san-francisco-california-photographer-david-paul-morris-bloomberg.jpg"
+        width: 620
+        height: 349
+        isCached: true
+  - title: "GM's Cruise Recalls Self-Driving Software Involved in June Crash"
+    excerpt: "After two people were injured in the incident, Cruise blocked its robot vehicles from making left turns for several weeks before issuing a software update."
+    publishedDateTime: 2022-09-01T19:34:00Z
+    webUrl: "https://www.wired.com/story/gms-cruise-recalls-self-driving-software-involved-in-june-crash/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 34
+  - title: "GM’s Cruise recalls 80 self-driving EVs citing collision risks when turning"
+    excerpt: "General Motors’ self-driving rideshare service Cruise announced that it has recalled 80 of its electric robotaxis in order to update their software following an accident in June that injured two people."
+    publishedDateTime: 2022-09-02T18:33:00Z
+    webUrl: "https://electrek.co/2022/09/02/gms-cruise-recalls-80-self-driving-evs-citing-collision-risks/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 32
+  - title: "General Motors Recalls and Updates 80 Self-Driving Vehicles"
+    excerpt: "General Motors' (NYSE:GM) startup unit, Cruise LLC, announced Thursday that it had recalled and updated software in 80 self-driving vehicles after a June crash in San Francisco left two people injured."
+    publishedDateTime: 2022-09-01T15:26:00Z
+    webUrl: "https://za.investing.com/news/general-motors-recalls-and-updates-80-selfdriving-vehicles-432SI-2610548"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 24
+    images:
+      - url: "https://i-invdn-com.investing.com/news/LYNXNPEC9O0PR_L.jpg"
+        width: 800
+        height: 499
+        isCached: true
   - title: "Cruise updates its fleet's self-driving software after crash"
     excerpt: "Autonomous vehicle upstart Cruise has recalled and updated software in 80 self-driving robotaxis, according to a regulatory filing. Read more."
     publishedDateTime: 2022-09-01T17:30:00Z
@@ -50,6 +87,15 @@ related:
         width: 750
         height: 503
         isCached: true
+  - title: "NC State researchers test safety benefits of self driving cars"
+    excerpt: "Hajbabaie is trying to slowly build up the idea that self-driving cars a way to a future with fewer crashes and fewer casualties."
+    publishedDateTime: 2022-09-03T19:38:00Z
+    webUrl: "https://www.cbs17.com/news/local-news/wake-county-news/nc-state-researchers-test-safety-benefits-of-self-driving-cars/"
+    type: article
+    provider:
+      name: cbs17.com
+      domain: cbs17.com
+    quality: 19
   - title: "GM Recalled Self-Driving Taxis. It’s a Win for the Technology."
     excerpt: "Thursday, General Motors self-driving robotaxi company Cruise recalled some of its cars because of a risk of crash. It feels like a set back for all car companies with lofty robotaxi ambitions. Auto makers, including GM (ticker: GM) and Tesla (TSLA), hope ..."
     publishedDateTime: 2022-09-01T19:58:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-ca
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-camp/amp"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
         width: 1600
         height: 1000
         isCached: true
-  - title: "DeepMind’s AI can now play football after learning how to work as a team"
-    excerpt: "Google’s artificial intelligence division DeepMind has taught AI humanoids how to work as a team in order to play football together. The researchers trained physically simulated AI to play two ..."
-    publishedDateTime: 2022-09-01T13:52:00Z
-    webUrl: "https://www.independent.co.uk/tech/deepmind-artificial-intelligence-ai-football-b2157565.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 53
-    images:
-      - url: "https://static.independent.co.uk/2022/09/01/14/deepmind%20ai%20football.png?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Meta develops mind-reading AI model"
     excerpt: "Researchers from Meta developed an AI model that decodes speech from thought. The technology allows people to produce words without speaking. When humans"
     publishedDateTime: 2022-09-05T07:55:00Z
@@ -90,6 +76,6 @@ related:
         height: 800
         isCached: true
 
-secured: "h9vPB0QbrNXKbD87UeqnHyllZ56M6Ojdzo9hPjN2N0ZsgIT0huESanii1k6DMMBEPdQA2WRbvX6Fg/5FrLd9I3YnlI2mkyI0cfZYMTkHxH0t7CXslTGUiYDZn1HeDxNgAysbbsg5Dtv4ZPg74LGiwy0wPYo5O5ZzmNN+mNBlYdzunfGu+/cMHITsLAqhD44J5jwWuctJyJmRCrxU6IlWVR1a4P97ClEcNRYbHEssSZxf7KWXtoQk3qOM0JAe6KrZWPS5cC8PVaPywpduv5QnQWruiPXHaKihHc1naZUqUo8SbFPLeRUbPvwFq2kg6sP8XcepKTZQ5EYAu2z5lLsoL59ob5HSyqQkLuq/5iu83gg=;tDNgYEHBk1Mc7ZPWYAGULg=="
+secured: "SbYELwP9DKabcQqg9j6OIL3wiepUjor2bN6JC91mHmG/5Y7L11fDfuO+BtsUnHctT6gBTZ63oSFmE5YDVeCcA6lmvM+cFfD3V8KHjX5O8OOddD7yp1jng2/3/PSdLYqEsd33kMBbpRHcQtdl6PG27CPWJ/uEDxhbY+vpoggB37dL4B4y2cVX5ol+/IVdcCyB1QjhWs1cb+S9ih9T4uFGrE6tkCPiRXX/vNq5/N5uTIqANVrH6vINfYil+Tns5tAPk0mUM6fNMMCAYAFz0pD4KLBEai2xqZfWFhfWl/7xkOwx/2db1qMzas8WK5AkZqS0ZFdo0N7vIgb3HGhAOc7AWt1cwjAzYvJ0GV9pDfWcYp4kG2uMFLC1lu3MQCu0QmLDYIiOEsEZwTCjcG17pfdVd8Hv+XwvKSQvBwhdnfhFMhC4ir1m/eiezbv4ID611FdXnIsz0h+FLMz0uxOxBF48zCXguvmwguQ9A5LFKYNdMzTZ9n/oLxGPQDEqHB7uP0iHmxN9AKYSz1XChOBrg2ZeOg==;K0xlZpqQmCMvtPByNHQnsA=="
 ---
 

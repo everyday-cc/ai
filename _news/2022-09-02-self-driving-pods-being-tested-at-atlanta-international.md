@@ -26,17 +26,6 @@ images:
     height: 438
     isCached: true
 
-related:
-  - title: "Self-driving Pods Tested at Hartsfield-Jackson for Mobility Assistance"
-    excerpt: "Could self-driving pods help people with reduced mobility move around big spaces like airports and malls? That's the vision of a Canadian robotics technology company that recently tested the mobility devices at Hartsfield-Jackson International Airport."
-    publishedDateTime: 2022-09-01T13:53:00Z
-    webUrl: "https://www.aviationpros.com/ground-handling/ground-handlers-service-providers/passenger-services/news/21279458/selfdriving-pods-tested-at-hartsfieldjackson-for-mobility-assistance"
-    type: article
-    provider:
-      name: AviationPros
-      domain: aviationpros.com
-    quality: 4
-
 secured: "0tTLtjQHUJ3suagxGdjl48BimZQ1J0fWoI+p7gUwVx3VYMaTyK5FUATY86UepjGhJGtV5HwKWw9eGPJxPQgGGuM0grYflqkhCQJZQ71MClnhWSMK7ZfLduF0Kx5QYJEAqe4x8n9wpZtrqxey62r9E8yR4FZqr8up1DIxFQJpDN0sC9K+cpOkngXjtSMGP730iH/6AlS/fJsqZjnhlD90sOyp/DQb7VRZB+kCxsswVjVCqd8/fjpsqQe/E7X/EcrreYRcR2AW+GpeKOpgAaqs5wZS6L+X4Rr7dLFwtjvzVkKCvhfzP5BJh2RRI77VAu0Jnuo1l22HC5MOOe9I+9sAidkJVp0CapmBfOlEz/TtsqZ9BETKZScrGVF6LrXCKhl6ThLE7s8qcnrdBWV7juronaZokO2R269Gb0cZKF1ihB/aetEihjWV4a6jg4UeaRXiE4/ZTcKz7TTnPxKsH445Qgy/hXbhfquzruuCmRRLwBfgwvHap9VBfw7TmYROWw1GUlxNDIvIDE23zZyiLqU9MA==;MAZUKm9FKyUoh8QQdqlhFA=="
 ---
 

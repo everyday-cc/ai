@@ -17,7 +17,14 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Finance
 
-secured: "V5thPOJRa4PORiX/SCvqGfqzgyRHDgKcNjyK8FcMKPlMCbUVKIxM7paHjLE06tqY0wgIizBes+aMfPv0FgBapG9si9QF2FscswcQt+PUBoBA918vlKB/lhRGD39mjHKA7vVoJ2HtZwcoK3d8d8gxfkYBcQF+UwqW/yJHkv/Jhk+NI3THNX1/hr/i2nZj0tRs7HnEUe0meVy3bDJfaOH6UdkU7JbMTsyf5O9PdafQhmXvtA6zx0puhqy4Sc0yfSrm6E1723uh61yEsKc2gFPh2++detio82sfSpc8oPPoB8eLCigc+YZlDpPq3wWmmL51vhLuv48/H83nWREpi29/yqS7TMqD++zphUHTCguDKlU9t94jONoEO4mGwq/vz23xDYIk9wbOlKKVBfYo0rzM7q2GdiDIAl0g+5NzrjSCSOPfXgvka5xKI0F8lzxz6csoOBxnYdTDeAP3tcXz/89FreDyM37eN0yxeALyyw+oqi9/mFU253bt2BWD+BrTUVm8nVeowOXKNxt3u4CxiNhvTg==;r3tjjstyDKNhve4obYU1dA=="
+images:
+  - url: "https://federalnewsnetwork.com/wp-content/uploads/2020/11/Copy-of-Untitled.jpg"
+    width: 500
+    height: 304
+    isCached: true
+
+secured: "7uW6yLg4eK915Q9L0PSb0LKMrET5/AZm59k/zghJE+b1IRtJQ6PAs9NgpaUzZUkcn4zw0+PZ5HW6aY3omqikNc+EwlsbnjweM38o6yyX94Dv7hfSWJw4s/KwWps0Q+HGKxs709u6/mgHfk8wtklJqSiD4OclTm//28/baFCeMTHGCi4MdnGCZVoGjs0sNi5eIt0m5/7KkJzjnWqtDyLZ6jC9o3B7Uec+81oG9H9p1xOhP2vJ/eruQN5jRQBARK5BToczLVfS+VDRwHxlJ0t8bd6SeO8Tq14PLHRYkd9pk+wjBfwHSJctb+vsZsmmCRCnlEycbhAlQM+y6KFceKQJPcrqGq9w6rpv53Pg0ygJnsI=;ZKiYSRuuiOXBbgRTGHI0DQ=="
 ---
 
