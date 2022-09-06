@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-06T12:15:00Z
 originalUrl: "https://www.forbes.com/sites/erikkobayashisolomon/2022/09/06/this-16-year-old-created-an-ai-powered-app-to-help-farmers-the-world-over/"
 webUrl: "https://www.forbes.com/sites/erikkobayashisolomon/2022/09/06/this-16-year-old-created-an-ai-powered-app-to-help-farmers-the-world-over/"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: Forbes

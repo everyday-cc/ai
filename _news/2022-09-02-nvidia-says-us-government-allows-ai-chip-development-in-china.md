@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2022/09/01/nvidia-says-us-government-allows
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/09/01/nvidia-says-us-government-allows-ai-chip-development-in-china.html"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -119,15 +119,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "Nvidia could take a $400M revenue hit from new government restrictions on AI chips"
-    excerpt: "New restrictions are limiting both @Nvidia and @AMD 's ability to sell advanced chips in China. #SiliconValley"
-    publishedDateTime: 2022-09-01T22:24:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2022/09/01/government-restrictions-set-to-cost-nvidia-400m.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 28
 
 secured: "8FRLoyWEIJyKHjLE6l51bG5/vVDkcnNvsaq0y7PR8ULh6bah4VowrvX/LgtikapSk6onWr80r0OqUHGaX7NLZNa2NomeVJFwJxkZ95OomL+HmnZZWdQC9zrW5TVIR6thSqkm65b+AnEjUPX6udLqkkuV8AEYBgTEoXoeluiFulUMa0H8+9of2u4v1TfeFvoVmDtl8NkW3XOhkTWEm6axX4mOA0SAEy0YZsmgY1sorabUdPzgWayvLvCdn2Xx0W7rvSUWT5zK+doJT7Nj9H1/zAX857o3FWXVZPvmAXh3NfW0AfrkToVIOvmigVOSGKpTlS4FJpgLPc9VeF6vtLjbEy/31XEsO5h2/dsaHGzweA4=;80Of7Mot3wa/tPeZEJn6KA=="
 ---

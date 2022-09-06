@@ -2,6 +2,257 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2022-08-09-nnaisense-announces-release-of-evotorch-a-rare-open-source-evolutionary-algorithm.md",
+      "title": "NNAISENSE announces release of EvoTorch, a rare open-source evolutionary algorithm",
+      "excerpt": "AI vendor NNAISENSE today announced the formal release of its EvoTorch open-source evolutionary algorithm technology.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nnaisense-announces-release-of-evotorch-a-rare-open-source-evolutionary-algorithm/",
+      "originalUrl": "https://venturebeat.com/ai/nnaisense-announces-release-of-evotorch-a-rare-open-source-evolutionary-algorithm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/07/AI-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/nnaisense-announces-release-of-evotorch-a-rare-open-source-evolutionary-algorithm/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nnaisense-announces-release-of-evotorch-a-rare-open-source-evolutionary-algorithm/amp/",
+      "publishedDateTime": "2022-08-09T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-englands-rare-diseases-action-plan-needs-ai-to-succeed.md",
+      "title": "England’s Rare Diseases Action Plan Needs AI To Succeed",
+      "excerpt": "By further incentivizing investment in AI-led drug discovery and more direct collaboration between the government, the NHS and the life sciences and biotech sectors, we can make a difference at scale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/09/englands-rare-diseases-action-plan-needs-ai-to-succeed/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/09/englands-rare-diseases-action-plan-needs-ai-to-succeed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5fabe26daa1946a71defd95f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/09/englands-rare-diseases-action-plan-needs-ai-to-succeed/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/09/englands-rare-diseases-action-plan-needs-ai-to-succeed/amp/",
+      "publishedDateTime": "2022-08-09T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-why-devops-needs-a-better-approach-to-cloud-networking.md",
+      "title": "Why devops needs a better approach to cloud networking",
+      "excerpt": "A full-stack networking platform with machine learning, autonomous capabilities, and multicloud support allows devops engineers to focus on what matters most—building applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3668551/why-devops-needs-a-better-approach-to-cloud-networking.html",
+      "originalUrl": "https://www.infoworld.com/article/3668551/why-devops-needs-a-better-approach-to-cloud-networking.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2017/10/cloud_computing_network_connections_synchronization_thinkstock_584207196_3x2-100740711-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3668551/why-devops-needs-a-better-approach-to-cloud-networking.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3668551/why-devops-needs-a-better-approach-to-cloud-networking.amp.html",
+      "publishedDateTime": "2022-08-09T03:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-microsoft-is-a-leader-in-2022-gartner-magic-quadrant-for-cloud-ai-developer-services.md",
+      "title": "Microsoft is a Leader in 2022 Gartner Magic Quadrant for Cloud AI Developer Services",
+      "excerpt": "Gartner has recognized Microsoft as a Leader in the 2022 Gartner® Magic Quadrant™ for Cloud AI Developer Services, with Microsoft placed furthest in “Completeness of Vision”.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/microsoft-is-a-leader-in-2022-gartner-magic-quadrant-for-cloud-ai-developer-services/",
+      "originalUrl": "https://azure.microsoft.com/blog/microsoft-is-a-leader-in-2022-gartner-magic-quadrant-for-cloud-ai-developer-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/612d9b03-4232-4a4f-8026-4e15bcd3d653.png",
+          "width": 739,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-09T03:00:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-asia-pacific-artificial-intelligence-in-fintech.md",
+      "title": "Asia Pacific Artificial Intelligence In Fintech...",
+      "excerpt": "The \"Asia Pacific Artificial Intelligence In Fintech Market Size, Share & Industry Trends Analysis Report By Component (Solutions and Services), By Deployment",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/08/g28411655/asia-pacific-artificial-intelligence-in-fintech-market-report-2022-featuring-key-players-ibm-oracl",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/08/g28411655/asia-pacific-artificial-intelligence-in-fintech-market-report-2022-featuring-key-players-ibm-oracl",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.giphy.com/media/EzXPrmT1OkFzSOZCYk/giphy.gif?cid=790b76117b7eac17bcda03db891dbf848ba5609ab58125f6&rid=giphy.gif&ct=g",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28411655",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28411655",
+      "publishedDateTime": "2022-08-09T02:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-09-3-ways-azure-speech-transforms-game-development-with-ai.md",
       "title": "3 ways Azure Speech transforms game development with AI",
       "excerpt": "With Azure Cognitive Services for Speech, customers can build voice-enabled apps confidently and quickly with the Speech SDK. We make it easy for customers to transcribe speech to text (STT) with high accuracy, produce natural-sounding text-to-speech (TTS) voices, and translate spoken audio.",
@@ -918,202 +1169,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-artificial-intelligence-tools-predict-dnas-regulatory-role-and-3d-structure.md",
-      "title": "Artificial intelligence tools predict DNA's regulatory role and 3D structure",
-      "excerpt": "Newly developed artificial intelligence (AI) programs have accurately predicted the role of DNA's regulatory elements and three-dimensional (3D) structure based solely on its raw sequence, according to two recent studies in Nature Genetics.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-08-artificial-intelligence-tools-dna-regulatory.html",
-      "originalUrl": "https://phys.org/news/2022-08-artificial-intelligence-tools-dna-regulatory.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-56.jpg",
-          "width": 2115,
-          "height": 1939,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-08-artificial-intelligence-tools-dna-regulatory.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-artificial-intelligence-tools-dna-regulatory.amp",
-      "publishedDateTime": "2022-08-08T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-enterprise-artificial-intelligence-ai-market-worth-1552-billion-by-2030-grand-view-research-inc.md",
-      "title": "Enterprise Artificial Intelligence (AI) Market Worth $155.2 Billion by 2030: Grand View Research, Inc.",
-      "excerpt": "The global enterprise artificial intelligence market size is anticipated to reach USD 155.2 billion by 2030, according to a new report by Grand View Research, Inc. The market is expected to grow at a CAGR of 34.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/08/08/9652242.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/08/08/9652242.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-08T12:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-in-simulation-of-how-water-freezes-artificial-intelligence-breaks-the-ice.md",
-      "title": "In simulation of how water freezes, artificial intelligence breaks the ice",
-      "excerpt": "became possible when the researchers incorporated deep neural networks, a form of artificial intelligence, into their methods. The study was published in the journal Proceedings of the National Ac ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/960990",
-      "originalUrl": "https://www.eurekalert.org/news-releases/960990",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8ee15a21-65f9-414f-95f3-179301e49a33/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-08T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-artificial-intelligence-self-driving-cars.md",
-      "title": "Artificial Intelligence Self Driving Cars",
-      "excerpt": "Participants can compete for a prize money valued at $2,300,000 (AED8,447,923 approximately) and $300,000 (AED1,101,904.50) for industry leaders and local academia, respectively",
-      "sourceUrl": null,
-      "webUrl": "https://www.arabianbusiness.com/tags/artificial-intelligence-self-driving-cars",
-      "originalUrl": "https://www.arabianbusiness.com/tags/artificial-intelligence-self-driving-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-08T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Arabian Business",
-        "domain": "arabianbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-brain-robot-therapy-reroutes-motor-pathway-in-stroke-patients.md",
-      "title": "Brain-robot therapy reroutes motor pathway in stroke patients",
-      "excerpt": "Brain-robot interfaces — apparatuses where brain activity controls the movements of a robotic device that supports a hand or limb — show promise in rehabilitating paralyzed stroke patients. Yet the exact way the therapy impacts the brain is unknown,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/960933",
-      "originalUrl": "https://www.eurekalert.org/news-releases/960933",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/de0626de-b5a5-455f-8ba0-af79c260a7ac/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-08T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

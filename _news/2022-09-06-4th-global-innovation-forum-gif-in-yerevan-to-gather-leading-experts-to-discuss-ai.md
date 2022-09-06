@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-06T11:36:00Z
 originalUrl: "https://armenpress.am/eng/news/1091825.html"
 webUrl: "https://armenpress.am/eng/news/1091825.html"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Armenpress

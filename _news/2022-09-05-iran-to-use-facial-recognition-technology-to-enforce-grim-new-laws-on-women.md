@@ -19,61 +19,38 @@ topics:
   - AI
 
 related:
-  - title: "Financial language and the evolution of speech recognition technology"
-    excerpt: "By Katy Wigdahl, CEO, Speechmatics Due to its long heritage and diverse spread of legacy technologies, it can be challenging to integrate new technological developments into the financial industry. But by not doing so,"
-    publishedDateTime: 2022-09-01T21:21:00Z
-    webUrl: "https://www.globalbankingandfinance.com/financial-language-and-the-evolution-of-speech-recognition-technology/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/financial-language-and-the-evolution-of-speech-recognition-technology/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/financial-language-and-the-evolution-of-speech-recognition-technology/"
+  - title: "Iranian authorities plan to use facial recognition to enforce new hijab law"
+    excerpt: "Government says it will use technology on public transport in crackdown on women’s dress"
+    publishedDateTime: 2022-09-05T04:00:00Z
+    webUrl: "https://www.theguardian.com/global-development/2022/sep/05/iran-government-facial-recognition-technology-hijab-law-crackdown"
+    ampWebUrl: "https://amp.theguardian.com/global-development/2022/sep/05/iran-government-facial-recognition-technology-hijab-law-crackdown"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/global-development/2022/sep/05/iran-government-facial-recognition-technology-hijab-law-crackdown"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 59
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
     images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/09/iStock-861092546.jpg"
-        width: 750
-        height: 500
+      - url: "https://i.guim.co.uk/img/media/0e5362e30c4fa3e8e292390007a270942c7c9273/0_0_5578_4000/master/5578.jpg?width=620&quality=85&auto=format&fit=max&s=66f0b55770711a01c83060ad768c4ef6"
+        width: 620
+        height: 445
         isCached: true
-  - title: "Researchers propose automatic speech recognition tech"
-    excerpt: "Popular voice assistants like Siri and Amazon Alexa have introduced automatic speech recognition to the wider public. Though decades in the making, ASR models struggle with consistency and reliability,"
-    publishedDateTime: 2022-09-04T00:26:00Z
-    webUrl: "https://punchng.com/researchers-propose-automatic-speech-recognition-tech/"
-    ampWebUrl: "https://punchng.com/researchers-propose-automatic-speech-recognition-tech/?amp"
-    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/researchers-propose-automatic-speech-recognition-tech/?amp"
+  - title: "Iran to use facial recognition cameras to enforce new hijab laws in chilling crackdown on women not covering up"
+    excerpt: "IRANIAN authorities are plotting to use facial recognition cameras to spot women defying strict new laws on wearing hijabs. The chilling crackdown will see women who refuse to cover up tracked"
+    publishedDateTime: 2022-09-05T09:35:00Z
+    webUrl: "https://www.thesun.ie/news/9358412/iran-facial-recognition-cameras-enforce-hijab/"
+    ampWebUrl: "https://www.thesun.ie/news/9358412/iran-facial-recognition-cameras-enforce-hijab/amp/"
+    cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/news/9358412/iran-facial-recognition-cameras-enforce-hijab/amp/"
     type: article
     provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 59
+      name: Irish Sun
+      domain: thesun.ie
+    quality: 39
     images:
-      - url: "https://cdn.punchng.com/wp-content/uploads/2016/10/17155511/punchlogo.png"
-        width: 400
-        height: 400
+      - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2022/09/newspress-collage-19708882-1662371431207.jpg?1662375170&strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Speech and Voice Recognition Technology Market – increasing demand with Industry Professionals | 104 Report Pages"
-    excerpt: "The latest independent research report on Speech and Voice Recognition Technology Market explore investment in Market."
-    publishedDateTime: 2022-09-02T04:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-increasing-demand-with-industry-professionals-104-report-pages-2022-09-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Lexicala Launches New Multilingual Lexical Data Solutions for the Language Technology Industry"
-    excerpt: "Lexicala has already won the first deal from a leading international corporation to provide parallel corpora for its machine translation systems TEL AVIV, Israel, Sept. 5, 2022 // -- Lexicala, a conte"
-    publishedDateTime: 2022-09-05T10:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/n28746839/lexicala-launches-new-multilingual-lexical-data-solutions-for-the-language-technology-industry"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "6+TM25D2gK/YRMlYaAxTFOlpHfelZiKqjnyPNTzj0oA2b8PuX74g4eFB4Vh7uAQU4ePlVRwJFe5OWb4jEZguMPsf6k88xByu6JYLeMN5F1nooxBbZ2nlh8U3ng8CiUSsP1GKVRCOfECAeUFMq/I/qSbrws1TSlYEc3ug5v1qPiHaaVcBvgFQ072nHOch8Db0ZI2WIQQ0rIOHipWENQM/oG05DLas9iP4i66hEiwvZW77+r8Fa13/chUdmsSt3g514xqvzmdc/HO2swmLWduuZ9ZMsyzINZjbM4f/CsHlRu2DtM8t3CL5BSBSzdqD23T1BgAe9hkt/pD5DD2rgXGjjSSb2AwYgP6p432nuS6/VEhW0u60hjRVwbCMto3z3L0YTiQNqen/MqEw87AbEyxZbH7WprTNu3XO3Qrb5xgDZbxNQ58BZAj6ZYx2tW5om3/0K8QUYsH7gmzlYK6A86ypCk+xqMDNGhaVuSKdC3L5vAshcgHBDrhk941kfRhuEX7CgpY/GV9sJ4YJR6URNPT2Fg==;eC4dm90GnLzYyPK7pSYfQQ=="
 ---

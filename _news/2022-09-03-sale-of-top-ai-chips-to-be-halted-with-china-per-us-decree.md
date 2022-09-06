@@ -55,19 +55,19 @@ related:
         width: 2048
         height: 1069
         isCached: true
-  - title: "US restricts exports of advanced AI chips to China and Russia"
-    excerpt: "The U.S. government has implemented new restrictions that will limit exports of advanced artificial intelligence chips to China and Russia. Nvidia Corp., the leading maker of AI chips, disclosed in a Wednesday regulatory filing that it had been notified of the restrictions on August 26."
-    publishedDateTime: 2022-09-01T19:06:00Z
-    webUrl: "https://siliconangle.com/2022/09/01/us-restricts-exports-advanced-ai-chips-china-russia/"
+  - title: "Banned U.S. AI chips in high demand at Chinese state institutes"
+    excerpt: "The development signaled a major escalation of a U.S. campaign to stymie China's technological capability as tensions bubble over the fate of Taiwan."
+    publishedDateTime: 2022-09-06T08:55:00Z
+    webUrl: "https://www.japantimes.co.jp/news/2022/09/06/business/tech/banned-us-ai-chips-china/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: ジャパンタイムズ
+      domain: japantimes.co.jp
     quality: 54
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/Hopper-Arch-H100-SXM-Image.jpg"
-        width: 1600
-        height: 900
+      - url: "https://cdn-japantimes.com/wp-content/uploads/2022/09/np_file_180676-870x489.jpeg"
+        width: 870
+        height: 489
         isCached: true
   - title: "US Chip-Export Ban Throws Wrench Into China AI Works"
     excerpt: "The development of China's artificial intelligence sector is expected to be slowed in the coming few years by the United States' new ban on expor"

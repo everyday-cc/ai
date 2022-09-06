@@ -2,6 +2,59 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-06-11-7-steps-to-more-ethical-artificial-intelligence.md",
+      "title": "7 Steps To More Ethical Artificial Intelligence",
+      "excerpt": "Even those who spend a lot of time in the field of AI ethics have a lot of difficulty understanding what’s to be done.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/06/10/7-steps-to-more-ethical-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/06/10/7-steps-to-more-ethical-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62a3b38e4305a1d890db1ac4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/06/10/7-steps-to-more-ethical-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/06/10/7-steps-to-more-ethical-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-06-10T15:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-06-10-global-healthcare-artificial-intelligence-market.md",
       "title": "Global Healthcare Artificial Intelligence Market...",
       "excerpt": "Dublin, June 10, 2022 (GLOBE NEWSWIRE) -- The \"Global Healthcare Artificial Intelligence Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. This report examines the ...",
@@ -1224,50 +1277,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-artificial-intelligence-technology-solutions-files-10-k-and-audited-financials.md",
-      "title": "Artificial Intelligence Technology Solutions Files 10-K and Audited Financials",
-      "excerpt": "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), a global leader in AI-driven security and productivity solutions for enterprise clients, filed its annual report on Form 10-K with the Securities and Exchange Commission for its fiscal year 2022 ended February 28,",
-      "sourceUrl": null,
-      "webUrl": "https://fox8.com/business/press-releases/globenewswire/8563633/artificial-intelligence-technology-solutions-files-10-k-and-audited-financials/",
-      "originalUrl": "https://fox8.com/business/press-releases/globenewswire/8563633/artificial-intelligence-technology-solutions-files-10-k-and-audited-financials/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png",
-          "width": 800,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX8 Cleveland",
-        "domain": "fox8.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

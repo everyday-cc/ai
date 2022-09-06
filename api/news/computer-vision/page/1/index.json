@@ -45,6 +45,58 @@
       ]
     },
     {
+      "path": "_news/2022-09-05-iranian-authorities-plan-to-use-facial-recognition-to-enforce-new-hijab-law.md",
+      "title": "Iranian authorities plan to use facial recognition to enforce new hijab law",
+      "excerpt": "Government says it will use technology on public transport in crackdown on women’s dress",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/global-development/2022/sep/05/iran-government-facial-recognition-technology-hijab-law-crackdown",
+      "originalUrl": "https://www.theguardian.com/global-development/2022/sep/05/iran-government-facial-recognition-technology-hijab-law-crackdown",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/0e5362e30c4fa3e8e292390007a270942c7c9273/0_0_5578_4000/master/5578.jpg?width=620&quality=85&auto=format&fit=max&s=66f0b55770711a01c83060ad768c4ef6",
+          "width": 620,
+          "height": 445,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/global-development/2022/sep/05/iran-government-facial-recognition-technology-hijab-law-crackdown",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/global-development/2022/sep/05/iran-government-facial-recognition-technology-hijab-law-crackdown",
+      "publishedDateTime": "2022-09-04T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-04-how-lord-of-the-rings-used-ai-to-change-big-screen-battles-forever.md",
       "title": "How 'Lord of the Rings' Used AI to Change Big-Screen Battles Forever",
       "excerpt": "Massive software has spawned armies of artificially intelligent crowds, from Lord of the Rings to Avengers: Endgame.",
@@ -1379,49 +1431,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-computer-vision-development-market-size-cagr-status-key-dynamics-share-size-top-key-manufacturers-regional-segmentation-and-forecast-to.md",
-      "title": "Computer Vision Development Market Size, CAGR Status, Key Dynamics, Share, Size, Top Key Manufacturers, Regional Segmentation and Forecast to 2029",
-      "excerpt": "Computer Vision Development Market Report 2022 presents strategic analysis of growth predictions, future trends analysis, sales-revenue, sales patterns, production, consumption and highlighted key ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/computer-vision-development-market-size-cagr-status-key-dynamics-share-size-top-key-manufacturers-regional-segmentation-and-forecast-to-2029",
-      "originalUrl": "https://www.digitaljournal.com/pr/computer-vision-development-market-size-cagr-status-key-dynamics-share-size-top-key-manufacturers-regional-segmentation-and-forecast-to-2029",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/Artemis1-NASA-Moon-AFP-1K-04-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-24T00:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

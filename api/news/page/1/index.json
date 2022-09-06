@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-06-qualcomms-snapdragon-6-and-4-gen-1-chips-are-big-deals-for-cheap-phones.md",
+      "title": "Qualcomm’s Snapdragon 6 and 4 Gen 1 chips are big deals for cheap phones",
+      "excerpt": "Qualcomm's latest Snapdragon 6 Gen 1 and Snapdragon 4 Gen 1 chips promise impressive camera, gaming, and connectivity upgrades for budget Android smartphones.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/mobile/qualcomm-snapdragon-6-gen-1-4-gen-1-news/",
+      "originalUrl": "https://www.digitaltrends.com/mobile/qualcomm-snapdragon-6-gen-1-4-gen-1-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/09/qualcomm-snapdragon-6-4-gen-new-chips.jpg?p=1",
+          "width": 2100,
+          "height": 1400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/mobile/qualcomm-snapdragon-6-gen-1-4-gen-1-news/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/qualcomm-snapdragon-6-gen-1-4-gen-1-news/?amp",
+      "publishedDateTime": "2022-09-06T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-the-eus-ai-act-could-have-a-chilling-effect-on-open-source-efforts-experts-warn.md",
+      "title": "The EU’s AI Act could have a chilling effect on open source efforts, experts warn",
+      "excerpt": "As written, the European Union's AI Act, which seeks to regulate certain types of AI systems, could impose onerous requirements on open source developers, some experts believe.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/06/the-eus-ai-act-could-have-a-chilling-effect-on-open-source-efforts-experts-warn/",
+      "originalUrl": "https://techcrunch.com/2022/09/06/the-eus-ai-act-could-have-a-chilling-effect-on-open-source-efforts-experts-warn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png",
+          "width": 2000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/06/the-eus-ai-act-could-have-a-chilling-effect-on-open-source-efforts-experts-warn/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/06/the-eus-ai-act-could-have-a-chilling-effect-on-open-source-efforts-experts-warn/amp/",
+      "publishedDateTime": "2022-09-06T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-06-this-is-likely-why-us-banned-ai-chips-to-china.md",
       "title": "This is likely why US banned AI chips to China",
       "excerpt": "High-profile universities and state-run research institutes in China have been relying on a US computing chip to power their artificial intelligence (AI) technology but whose export to the country Washington has now restricted,",
@@ -295,6 +398,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-06-in-conversation-with-ai-building-better-language-models.md",
+      "title": "In conversation with AI: building better language models",
+      "excerpt": "Our new paper, In conversation with AI: aligning language models with human values, explores a different approach, asking what successful communication between humans and an artificial conversational agent might look like and what values should guide conversation in these contexts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/in-conversation-with-ai-building-better-language-models",
+      "originalUrl": "https://www.deepmind.com/blog/in-conversation-with-ai-building-better-language-models",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-06-new-ai-based-smartphone-app-may-detect-covid-19-infection.md",
       "title": "New AI-based Smartphone App may Detect COVID-19 Infection",
       "excerpt": "Novel smartphone app using artificial intelligence (AI) can help detect COVID-19 infection in people’s voices.",
@@ -397,7 +543,7 @@
       "originalUrl": "https://www.forbes.com/sites/paultassi/2022/09/05/xboxs-matt-booty-asked-microsoft-to-invent-ai-bot-qa-testers-for-games/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -557,6 +703,58 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-05-iranian-authorities-plan-to-use-facial-recognition-to-enforce-new-hijab-law.md",
+      "title": "Iranian authorities plan to use facial recognition to enforce new hijab law",
+      "excerpt": "Government says it will use technology on public transport in crackdown on women’s dress",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/global-development/2022/sep/05/iran-government-facial-recognition-technology-hijab-law-crackdown",
+      "originalUrl": "https://www.theguardian.com/global-development/2022/sep/05/iran-government-facial-recognition-technology-hijab-law-crackdown",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/0e5362e30c4fa3e8e292390007a270942c7c9273/0_0_5578_4000/master/5578.jpg?width=620&quality=85&auto=format&fit=max&s=66f0b55770711a01c83060ad768c4ef6",
+          "width": 620,
+          "height": 445,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/global-development/2022/sep/05/iran-government-facial-recognition-technology-hijab-law-crackdown",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/global-development/2022/sep/05/iran-government-facial-recognition-technology-hijab-law-crackdown",
+      "publishedDateTime": "2022-09-04T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -992,214 +1190,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-ai-powered-personalization-the-key-to-unlocking-ecommerce-growth.md",
-      "title": "AI-powered personalization: The key to unlocking ecommerce growth",
-      "excerpt": "AI-powered personalization allows businesses to predict their customers’ requirements and be proactive with solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-powered-personalization-the-key-to-unlocking-ecommerce-growth/",
-      "originalUrl": "https://venturebeat.com/ai/ai-powered-personalization-the-key-to-unlocking-ecommerce-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1337253139-Dilok-Klaisataporn.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-powered-personalization-the-key-to-unlocking-ecommerce-growth/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-powered-personalization-the-key-to-unlocking-ecommerce-growth/amp/",
-      "publishedDateTime": "2022-09-03T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-colorado-state-fair-competition-names-an-unlikely-winner-ai-made-artwork.md",
-      "title": "Colorado State Fair Competition Names An Unlikely Winner: AI-Made Artwork",
-      "excerpt": "The piece saw a storm of criticism this week as onlookers debated the use of artificial intelligence in the arts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/colorado-state-fair-ai-art_n_63106fc4e4b063d5e621ef1a",
-      "originalUrl": "https://www.huffpost.com/entry/colorado-state-fair-ai-art_n_63106fc4e4b063d5e621ef1a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/6312c3a32300001c00b7ea48.jpg?cache=Ya4ddTpBVY&ops=1200_630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.huffpost.com/entry/colorado-state-fair-ai-art_n_63106fc4e4b063d5e621ef1a/amp",
-      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/colorado-state-fair-ai-art_n_63106fc4e4b063d5e621ef1a/amp",
-      "publishedDateTime": "2022-09-03T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-ai-won-an-art-contest-and-artists-are-furious.md",
-      "title": "AI won an art contest, and artists are furious",
-      "excerpt": "Jason M. Allen was almost too nervous to enter his first art competition. Now, his award-winning image is sparking controversy about whether art can be generated by a computer, and what, exactly, it means to be an artist.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/09/03/tech/ai-art-fair-winner-controversy/index.html",
-      "originalUrl": "https://www.cnn.com/2022/09/03/tech/ai-art-fair-winner-controversy/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220902164101-01-thtre-dopra-spatial-ai-generated-art-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/09/03/tech/ai-art-fair-winner-controversy/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/03/tech/ai-art-fair-winner-controversy/index.html",
-      "publishedDateTime": "2022-09-03T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-unpacking-the-best-top-ten-quotes-about-artificial-intelligence-leveraging-modern-day-ai-ethics-thinking.md",
-      "title": "Unpacking The Best Top Ten Quotes About Artificial Intelligence Leveraging Modern-Day AI Ethics Thinking",
-      "excerpt": "This is a carefully devised set of Top Ten quotes about AI, providing an explanation about each quote and illuminating key insights about the future of AI, doing so with a keen eye toward the latest in AI Ethics thinking.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/09/03/unpacking-the-best-top-ten-quotes-about-artificial-intelligence-leveraging-modern-day-ai-ethics-thinking/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/09/03/unpacking-the-best-top-ten-quotes-about-artificial-intelligence-leveraging-modern-day-ai-ethics-thinking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62d7369da6293b308a7896a2/0x0.jpg?format=jpg&crop=2297,1531,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/09/03/unpacking-the-best-top-ten-quotes-about-artificial-intelligence-leveraging-modern-day-ai-ethics-thinking/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/09/03/unpacking-the-best-top-ten-quotes-about-artificial-intelligence-leveraging-modern-day-ai-ethics-thinking/amp/",
-      "publishedDateTime": "2022-09-03T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics",
-        "AWS AI"
       ]
     }
   ],

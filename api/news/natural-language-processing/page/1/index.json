@@ -117,7 +117,7 @@
       "originalUrl": "https://theprint.in/features/researchers-suggest-more-effective-way-for-automatic-speech-recognition-2/1114253/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -160,7 +160,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/02/four-ways-voice-recognition-will-improve-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1346,10 +1346,10 @@
     {
       "path": "_news/2022-08-24-ai-powered-service-vidby-translates-zelenskyys-speeches-into-50-languages-denys-krasnikov.md",
       "title": "AI-powered service Vidby translates Zelenskyy’s speeches into 50 languages – Denys Krasnikov",
-      "excerpt": "Meet Alexander Konovalov, Eugen von Rubenberg and Denys Krasnikov - the creators behind the unique machine video translation service called Vidby. Their online translation tool offers an unprecedented 99% translation accuracy - a result that as of now remains unmatched.",
+      "excerpt": "Now, thanks to Vidby, this information is made available in your first language. If you think that an AI-powered translation tool is not something you can afford, you are in for a surprise.",
       "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-8-23-ai-powered-service-vidby-translates-zelenskyys-speeches-into-50-languages-denys-krasnikov",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-8-23-ai-powered-service-vidby-translates-zelenskyys-speeches-into-50-languages-denys-krasnikov",
+      "webUrl": "https://www.digitaljournal.com/pr/ai-powered-service-vidby-translates-zelenskyys-speeches-into-50-languages-denys-krasnikov",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-powered-service-vidby-translates-zelenskyys-speeches-into-50-languages-denys-krasnikov",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1359,11 +1359,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T13:18:00-07:00",
+      "publishedDateTime": "2022-08-23T11:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,41 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-09-artificial-intelligence-market-worth-4070-billion-by-2027-exclusive-report-by-marketsandmarkets.md",
+      "title": "Artificial Intelligence Market Worth $407.0 Billion By 2027 - Exclusive Report by MarketsandMarkets",
+      "excerpt": "Artificial Intelligence Market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 36.2% during the forecast period, to reach USD 407.0",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56765242-artificial-intelligence-market-worth-dollar-407-0-billion-by-2027-exclusive-report-by-marketsandmarkets-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56765242-artificial-intelligence-market-worth-dollar-407-0-billion-by-2027-exclusive-report-by-marketsandmarkets-008.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-09T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-08-09-u-of-a-integrating-artificial-intelligence-into-exoskeleton-technology.md",
       "title": "U of A integrating artificial intelligence into exoskeleton technology",
       "excerpt": "A group of University of Alberta researchers are trying to redefine medical assistance for those with mobility issues by combing artificial intelligence with exoskeleton technology.",
@@ -1315,58 +1350,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-global-artificial-intelligence-in-accounting-market-emerging-growth-analysis-future-demand-and-business-opportunities-2028.md",
-      "title": "Global Artificial Intelligence in Accounting Market Emerging Growth Analysis, Future Demand and Business Opportunities 2028",
-      "excerpt": "As the global economy mends, the 2021 growth of Metaverse in Healthcare will have significant change from previous year. According to our (LP Information) latest study, the global Metaverse in Healthcare market size is USD million in 2022 from USD million in 2021,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-accounting-market-emerging-growth-analysis-future-demand-and-business-opportunities-2028-2022-07-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-accounting-market-emerging-growth-analysis-future-demand-and-business-opportunities-2028-2022-07-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-26T11:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

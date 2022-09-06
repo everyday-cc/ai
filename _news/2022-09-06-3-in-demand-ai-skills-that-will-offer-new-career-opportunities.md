@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-06T12:30:00Z
 originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/09/06/3-in-demand-ai-skills-that-will-offer-new-career-opportunities/"
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/09/06/3-in-demand-ai-skills-that-will-offer-new-career-opportunities/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/global-development/2022/sep/05/iran-gove
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/global-development/2022/sep/05/iran-government-facial-recognition-technology-hijab-law-crackdown"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Guardian
@@ -47,6 +47,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Iran to use facial recognition technology to enforce grim new laws on women"
+    excerpt: "Iran is introducing an oppressive tightening of its strict hijab laws. Women can be spotted by facial recognition technology on public transport if they do not dress 'correctly'"
+    publishedDateTime: 2022-09-05T12:19:00Z
+    webUrl: "https://www.mirror.co.uk/news/world-news/iran-use-facial-recognition-technology-27910625"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 17
 
 secured: "lPt/TCNeMqLF9MZaSWsAorA782kvFo7aHlj1058uSeWJJ41+2rDLUl/Al1oJPNl78umc5pvFp7DYtNeVBmGS3hozyVnSBQUKOxefT+JNn5jiIY3FBCR8ZTYrS+duVjHNTlLcdErYzx/2ECqd3M+/CrbKGJPzwP/EVoWbwmLHJo4YWEzLqpzW81h6rJbL4HuositsyF+or18hHYzV29SycmEOuR/DzaUAH31tdGdCtODmwNhOPO5XJRxPw7mE+i4gt8Pq+w3UtLG71MayZIYdi1P2Kk8H8vrx2v01W6FbwtrPtcrQuHDcLeG6RgnJJ4oDQAu7gQn6qeum8E/xEgBR+NOTAArqy41viSTe1RPuZDzmuLCfLUrW1Z2Uxc3XcLWS5gBYyEA/JlUOu3j4mGpBPRk8QpqwPuz7N+gM00ywS17IIbSDooWsIRY74rGw6iN14ur9U/1WaEsmalGHXOPbceqKDq+JVHc8cP6dUt6eIsMsVT3yrsWGakokapRzcVOYFgPZP5/DEMCPDmNDrimUyA==;xSre3hRC/ipngH4MhG+Nyw=="
 ---

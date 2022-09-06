@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-06T13:29:00Z
 originalUrl: "https://www.aviationpros.com/airports/airport-technology/press-release/21279711/smiths-detection-smiths-detections-advanced-carryon-baggage-scanner-added-to-tsas-checkpoint-property-screening-system-midsize-qualified-products-list"
 webUrl: "https://www.aviationpros.com/airports/airport-technology/press-release/21279711/smiths-detection-smiths-detections-advanced-carryon-baggage-scanner-added-to-tsas-checkpoint-property-screening-system-midsize-qualified-products-list"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: AviationPros

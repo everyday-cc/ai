@@ -1,20 +1,24 @@
 ---
 category: news
-title: "With new China AI chip restrictions, US takes aim at a critical niche"
-excerpt: "The restricted chips have the ability to carry out AI calculations quickly, at huge scale, and with high precision, necessary for tasks such as designing fighter jets The United States beefed up ..."
-publishedDateTime: 2022-09-02T11:27:00Z
-originalUrl: "https://www.rappler.com/technology/china-ai-chip-nvidia-amd-restrictions-september-2022/"
-webUrl: "https://www.rappler.com/technology/china-ai-chip-nvidia-amd-restrictions-september-2022/"
+title: "With New China AI Chip Restrictions, U.S. Takes Aim at a Critical Niche"
+excerpt: "(Reuters) - The United States beefed up its effort to cut off the flow of advanced technology to China by instructing Nvidia Corp and Advanced Micro Devices to stop sending their flagship ..."
+publishedDateTime: 2022-09-01T20:55:00Z
+originalUrl: "https://money.usnews.com/investing/news/articles/2022-09-01/with-new-ai-chip-rules-u-s-takes-aim-at-a-critical-niche"
+webUrl: "https://money.usnews.com/investing/news/articles/2022-09-01/with-new-ai-chip-rules-u-s-takes-aim-at-a-critical-niche"
 type: article
 
 provider:
-  name: Rappler
-  domain: rappler.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-secured: "MhDMsWBDNkg13dMYsA+DJ6lANFJGcQ0Lob40n/kl7LYaXw2eHTnoIAi49cTZMh6fVguD5zngx0+VZFTCKyAT96yNALUfYM9wJuzHwIo1K3G3Qkq/t2QCylkCnUCPtPrfu7AHzzbSImgD5lsvnO7yvegZLbGHW9/TvECo8J6dj8lKcT7bzOWZyTM/H7K9yrEg5OO1Vq3kiO0YQ5aooQvvQwBadYdkQWV52/pjruA0wJ97bj3/xeRubvZ6ENZt77XMoZP0WcZ5lkqGfHRkfOLEcFUpMObutx/mCBmGcvEU+rYEdE63ahVRliQrtGIxp+IZx5rO0Iqldvs3ecdsy+PhZEMzB109eCtETicWz5V9gg4=;gt6Xm/K90W1Ys1QfuGhqqQ=="
+secured: "O100N0Wj9x8jNr5rWo7JzrGLiWsSo8BLGpvf2N9OfDgpx0/0G7lfHcisjDVQ0cJ827yobTBtE8AI+TX0b3VDBFPMQoZioT/SarmsVe/obb/1BzuqWdOJkkdMQvmtHOxs3YjhJycrpcZHWkGtY4A0dIPeMB0U/mXReFfXSHodgxjcmff+LWLO+4X5IOZJMD3fgbJnSotr+hr28j4S11ocCvKA7MBocpJKX1P/U+sdgZG+QPun2ubbBFEIqymd09hKvRQfaqbz0BVKXk3Rp+pI7RRW/bQLGEBqduwHz2qa88pnRm5lBleMOUuPhSqkK2Cb54TKMvDDwO0lOMzZ1IrDROwCM5YrAWfQEExh+YeM7D0=;R/7jVd9CebYQOkGQf1M3iQ=="
 ---
 

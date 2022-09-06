@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/02/four-ways-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/02/four-ways-voice-recognition-will-improve-healthcare/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
+    quality: 0
+  - title: "Prime Healthcare and Steer Health Announce Strategic Partnership to Improve Patient Outcomes and Access to Care"
+    excerpt: "Investments in digital tools and innovative communication solutions provide an improved patient experience. Prime Healthcare, an award-winning national health system, and Steer He"
+    publishedDateTime: 2022-09-06T15:00:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-6-prime-healthcare-and-steer-health-announce-strategic-partnership-to-improve-patient-outcomes-and-access-to-care"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
     quality: 0
 
 secured: "oY55f6CfX/1G2fht+LdUmdukLmJq2uO+j7LvdJ66/e858eTFV0qsC+kmlrCWWWV3G29Sfvya3q7ufT1YBoSMNguieEAsW94jQ7mM/wqKKN6LzROE7+uFOjzT0ainkv/Kkxxy/jD7vNG1tWtFT52mDF+NT0ByCcTW1FDFZKEr3k9yYkSCJMwBzBBzzZ0gw2Nma0+3YezmnCPN/vuBXZfq6Si4KhzH+hr1YrXvLn2w6Moxf+wCNBRzQiL5XZtnBvSnDUsH+eZ69rhUmR9NV4Ld0OL3DX6RzxGEasoFRFgsDDCIwe/OrrmifGioqR9UUsKpKC3iGPHGVQ9HNWnFCvBrsNPhpk1wxQ0Sx70lR3ZbQy6CXTRhCwItqOkknLHYxsRAMZQNXd9vnXEumupKGOJ7nbajADsLLLnC0QZRZRgZIQIKPpz49grbVeV4PvUCxEfhTdrwyAz+AE6ikqohFXp8SG6uWoIYvYhcsWOHnJ1UjxCeqBNc+305IUwuMcqR0W68NJyJU1y3WRdyODzp8yenLw==;WcScCMJbX7JJn3gg9dmZ6A=="

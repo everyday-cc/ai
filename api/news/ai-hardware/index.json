@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-06-qualcomms-snapdragon-6-and-4-gen-1-chips-are-big-deals-for-cheap-phones.md",
+      "title": "Qualcomm’s Snapdragon 6 and 4 Gen 1 chips are big deals for cheap phones",
+      "excerpt": "Qualcomm's latest Snapdragon 6 Gen 1 and Snapdragon 4 Gen 1 chips promise impressive camera, gaming, and connectivity upgrades for budget Android smartphones.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/mobile/qualcomm-snapdragon-6-gen-1-4-gen-1-news/",
+      "originalUrl": "https://www.digitaltrends.com/mobile/qualcomm-snapdragon-6-gen-1-4-gen-1-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/09/qualcomm-snapdragon-6-4-gen-new-chips.jpg?p=1",
+          "width": 2100,
+          "height": 1400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/mobile/qualcomm-snapdragon-6-gen-1-4-gen-1-news/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/qualcomm-snapdragon-6-gen-1-4-gen-1-news/?amp",
+      "publishedDateTime": "2022-09-06T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-06-this-is-likely-why-us-banned-ai-chips-to-china.md",
       "title": "This is likely why US banned AI chips to China",
       "excerpt": "High-profile universities and state-run research institutes in China have been relying on a US computing chip to power their artificial intelligence (AI) technology but whose export to the country Washington has now restricted,",
@@ -196,7 +248,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-future-growth-and-business-opportunities-2022-2025latest-research-report-2022-09-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -248,7 +300,7 @@
       "originalUrl": "https://www.cnbc.com/2022/09/01/nvidia-says-us-government-allows-ai-chip-development-in-china.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -272,6 +324,49 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-02-with-new-china-ai-chip-restrictions-us-takes-aim-at-a-critical-niche.md",
+      "title": "With New China AI Chip Restrictions, U.S. Takes Aim at a Critical Niche",
+      "excerpt": "(Reuters) - The United States beefed up its effort to cut off the flow of advanced technology to China by instructing Nvidia Corp and Advanced Micro Devices to stop sending their flagship ...",
+      "sourceUrl": null,
+      "webUrl": "https://money.usnews.com/investing/news/articles/2022-09-01/with-new-ai-chip-rules-u-s-takes-aim-at-a-critical-niche",
+      "originalUrl": "https://money.usnews.com/investing/news/articles/2022-09-01/with-new-ai-chip-rules-u-s-takes-aim-at-a-critical-niche",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-01T13:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -741,51 +836,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-30-us-startup-simaai-starts-shipping-machine-learning-chip-and-system.md",
-      "title": "U.S. Startup SiMa.ai Starts Shipping Machine Learning Chip And System",
-      "excerpt": "industrial robots, and eventually self-driving cars in, San Jose, California, U.S., in this undated handout photo. Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305",
-      "originalUrl": "https://www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.ibtimes.com/en/full/3810267/us-startup-simaai-starts-shipping-machine-learning-chip-system.jpg",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305?amp=1",
-      "publishedDateTime": "2022-08-30T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2022-08-30-this-mighty-brain-chip-is-so-efficient-it-could-bring-advanced-ai-to-your-phone.md",
       "title": "This Mighty Brain Chip Is So Efficient It Could Bring Advanced AI to Your Phone",
       "excerpt": "The NeuRRAM chip is a powerful neuromorphic computing behemoth with 48 parallel cores and 3 million memory cells.",
@@ -826,6 +876,42 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-us-startup-simaai-starts-shipping-machine-learning-chip-and-system.md",
+      "title": "U.S. startup SiMa.ai starts shipping machine learning chip and system",
+      "excerpt": "Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management & Research Company, said on Tuesday it started shipping chips and systems to customers that are testing them, an important step for mass production. We apologize ...",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system",
+      "originalUrl": "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI Hardware"
       ]
     },
     {
@@ -1380,102 +1466,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else.md",
-      "title": "Why Tesla Thinks It'll Build Self-Driving Cars Before Everyone Else",
-      "excerpt": "Their job is to process video from the fleet of Tesla cars on the road today to learn how real-world driving works. That training process is the foundation for the FSD, short for Full Self Driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/this-is-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/this-is-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 221,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/271a46fb3adb415aeca54f56d60baeddc11e3033/2022/08/24/0f2b65be-0d7e-461e-b630-2d3103b9c76e/tesla-d1-dojo-chip.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/this-is-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-is-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else/",
-      "publishedDateTime": "2022-08-25T00:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-intel-launches-flex-series-arctic-sound-m-gpu-for-visual-cloud-workloads.md",
-      "title": "Intel Launches Flex Series Arctic Sound-M GPU For Visual Cloud Workloads",
-      "excerpt": "Intel's Arctic Sound has finally made its way to market. Intel just formally introduced the datacenter GPU, now known properly as the \"Data Center GPU Flex Series.\" The cards, which come in at least two variants,",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/intel-launch-arctic-sound-m-data-center-gpu-flex-series",
-      "originalUrl": "https://hothardware.com/news/intel-launch-arctic-sound-m-data-center-gpu-flex-series",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/59427/content/small_intel-datacenter-gpu-arctic-sound-1.jpg",
-          "width": 708,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/intel-launch-arctic-sound-m-data-center-gpu-flex-series",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-launch-arctic-sound-m-data-center-gpu-flex-series",
-      "publishedDateTime": "2022-08-24T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

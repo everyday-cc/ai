@@ -2,6 +2,249 @@
   "page": 148,
   "value": [
     {
+      "path": "_news/2022-05-12-image-classification-and-object-detection-using-amazon-rekognition-custom-labels-and-amazon-sagemaker-jumpstart.md",
+      "title": "Image classification and object detection using Amazon Rekognition Custom Labels and Amazon SageMaker JumpStart",
+      "excerpt": "In the last decade, computer vision use cases have been a growing trend, especially in industries like insurance, automotive, ecommerce, energy, retail, manufacturing, and others. Customers are building computer vision machine learning (ML) models to bring operational efficiencies and automation to their",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/image-classification-and-object-detection-using-amazon-rekognition-custom-labels-and-amazon-sagemaker-jumpstart/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/image-classification-and-object-detection-using-amazon-rekognition-custom-labels-and-amazon-sagemaker-jumpstart/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/12/Featured-images-for-ML-9522.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-12T15:07:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say.md",
+      "title": "Safer Driver Assistance Tech Now More Important Than Self-Driving Cars, Consumers Say",
+      "excerpt": "Drivers want automakers to improve existing semi-autonomous driver support features before developing fully autonomous vehicles, as inconsistent performance remains a problem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say/",
+      "originalUrl": "https://www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/627d8169661424cee95ca2c9/0x0.jpg?format=jpg&width=1200",
+          "width": 826,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2022/05/12/safer-driver-assistance-tech-now-more-important-than-self-driving-cars-consumers-say/amp/",
+      "publishedDateTime": "2022-05-12T14:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-a-closer-look-at-solving-the-kubernetes-complexity-gap.md",
+      "title": "A closer look at solving the Kubernetes complexity gap",
+      "excerpt": "The coming decade is set to be the season of the supercloud, according to enterprise technology analysts. Who will optimize it? Businesses seem to be settling on hybrid models embracing on ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/05/12/closer-look-solving-kubernetes-complexity-gap-stormforgeseries/",
+      "originalUrl": "https://siliconangle.com/2022/05/12/closer-look-solving-kubernetes-complexity-gap-stormforgeseries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/close-the-gap.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-12T14:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-us-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates.md",
+      "title": "U.S. warns of discrimination in using artificial intelligence to screen job candidates",
+      "excerpt": "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates",
+      "originalUrl": "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/698123e/2147483647/strip/true/crop/3846x2164+0+360/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F20%2Fgettyimages-1398144370-7943bd836e3ca79a7bcbc11dc12dbb04d8e3b45f.jpg",
+          "width": 430,
+          "height": 242,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true",
+      "cdnAmpWebUrl": "https://www-iowapublicradio-org.cdn.ampproject.org/c/s/www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true",
+      "publishedDateTime": "2022-05-12T14:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Iowa Public Radio",
+        "domain": "iowapublicradio.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-intelligently-search-your-jira-projects-with-amazon-kendra-jira-cloud-connector.md",
+      "title": "Intelligently search your Jira projects with Amazon Kendra Jira cloud connector",
+      "excerpt": "Organizations use agile project management platforms such as Atlassian Jira to enable teams to collaborate to plan, track, and ship deliverables. Jira captures organizational knowledge about the workings of the deliverables in the issues and comments logged during project implementation. However, making",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/intelligently-search-your-jira-projects-with-amazon-kendra-jira-cloud-connector/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/intelligently-search-your-jira-projects-with-amazon-kendra-jira-cloud-connector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/12/jira-kendra-cloud-connector.jpg",
+          "width": 1040,
+          "height": 519,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-12T13:37:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-13-ai-hiring-tools-can-violate-disability-protections-government-warns.md",
       "title": "AI Hiring Tools Can Violate Disability Protections, Government Warns",
       "excerpt": "The Justice Department and the Equal Employment Opportunity Commission said companies whose use of AI tools leads to discrimination could face legal trouble.",
@@ -940,230 +1183,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-china-scrutiny-stymies-jdcom-fintech-units-2-billion-hong-kong-ipo-sources.md",
-      "title": "China Scrutiny Stymies JD.Com Fintech Unit's $2 Billion Hong Kong IPO - Sources",
-      "excerpt": "JD Technology, the fintech arm of Chinese e-commerce company JD.Com, has been forced to delay an up to $2 billion Hong Kong IPO because domestic regulatory approval for the listing has not been forthcoming,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/china-scrutiny-stymies-jdcom-fintech-units-2-billion-hong-kong-ipo-sources-3504473",
-      "originalUrl": "https://www.ibtimes.com/china-scrutiny-stymies-jdcom-fintech-units-2-billion-hong-kong-ipo-sources-3504473",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T02:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-apeejay-education-aws-launch-nep-accelerator-programme.md",
-      "title": "Apeejay Education, AWS launch NEP Accelerator programme",
-      "excerpt": "This is the first program in India to support the technology transformation of education institutions as per the NEP 2020, according to Apeejay Education.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/education/employment-news/apeejay-education-aws-launch-nep-accelerator-programme-101652344953532.html",
-      "originalUrl": "https://www.hindustantimes.com/education/employment-news/apeejay-education-aws-launch-nep-accelerator-programme-101652344953532.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2022/05/12/1600x900/congress-santiago-american-business-technology-services-america_b095090a-3ae3-11eb-95ec-0fdf1bc83475_1652346526516.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/education/employment-news/apeejay-education-aws-launch-nep-accelerator-programme-101652344953532-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/education/employment-news/apeejay-education-aws-launch-nep-accelerator-programme-101652344953532-amp.html",
-      "publishedDateTime": "2022-05-12T02:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-google-announces-ai-test-kitchen-app-for-beta-testing-of-the-latest-language-models-at-io-2022.md",
-      "title": "Google Announces AI Test Kitchen App For Beta Testing Of The Latest Language Models At I/O 2022",
-      "excerpt": "The American search giant revealed a bunch of new updates that will fall under the AI technology. Moving forward, we can clearly see that Google will be using a lot of AI technology in the future and the new upcoming features that were announced include multisearch that will allow a user to pair the image searches with the text searches and addition of support for 24 new languages in Google Translate.",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/31599/google-announces-ai-test-kitchen-app-for-beta-testing-of-the-latest-language-models-at-io-2022",
-      "originalUrl": "https://in.mashable.com/tech/31599/google-announces-ai-test-kitchen-app-for-beta-testing-of-the-latest-language-models-at-io-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/photo/default/image-from-ios-71_1d9a.620.jpg",
-          "width": 619,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/31599/google-announces-ai-test-kitchen-app-for-beta-testing-of-the-latest-language-models-at-io-2022?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/31599/google-announces-ai-test-kitchen-app-for-beta-testing-of-the-latest-language-models-at-io-2022?amp=1",
-      "publishedDateTime": "2022-05-12T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-the-man-who-controls-computers-with-his-mind.md",
-      "title": "The Man Who Controls Computers With His Mind",
-      "excerpt": "Staring at the computer screen, searching his mind for a way to begin ... interfaces have learned to play simple tunes on a digital keyboard, control exoskeletons and maneuver robotic limbs with enough dexterity to drink from a bottle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/05/12/magazine/brain-computer-interface.html",
-      "originalUrl": "https://www.nytimes.com/2022/05/12/magazine/brain-computer-interface.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/05/15/magazine/15mag-BCI/15mag-BCI-facebookJumbo-v5.png",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/05/12/magazine/brain-computer-interface.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/12/magazine/brain-computer-interface.amp.html",
-      "publishedDateTime": "2022-05-12T01:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-californias-ai-powered-wildfire-prevention-efforts-contend-with-data-challenge.md",
-      "title": "California’s AI-Powered Wildfire Prevention Efforts Contend With Data Challenge",
-      "excerpt": "The state’s utilities are racing to build AI models capable of identifying equipment problems that could cause wildfires.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/californias-ai-powered-wildfire-prevention-efforts-contend-with-data-challenge-11652347803",
-      "originalUrl": "https://www.wsj.com/articles/californias-ai-powered-wildfire-prevention-efforts-contend-with-data-challenge-11652347803",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-542314/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/californias-ai-powered-wildfire-prevention-efforts-contend-with-data-challenge-11652347803",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/californias-ai-powered-wildfire-prevention-efforts-contend-with-data-challenge-11652347803",
-      "publishedDateTime": "2022-05-12T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

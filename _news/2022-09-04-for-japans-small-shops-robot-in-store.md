@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Newest Thing At The Corner Store: A Robot That Stocks Drinks"
-    excerpt: "A small robot with a clip-like hand and enough smarts to know which drinks are popular is part of an effort to make convenience stores even more convenient."
-    publishedDateTime: 2022-09-01T19:18:00Z
-    webUrl: "https://www.huffpost.com/entry/robot-stocks-drinks-corner-store_n_631103d8e4b07d96a24c5c49"
-    type: article
-    provider:
-      name: HuffPost
-      domain: huffpost.com
-    quality: 49
   - title: "Robot that stocks drinks is newest thing at the corner store"
     excerpt: "A small robot with a clip-like hand and the smarts to know which drinks are popular is part of an effort to make convenience stores even more convenient."
     publishedDateTime: 2022-09-02T07:40:00Z

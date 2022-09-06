@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-06T13:09:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/rope-inc-begins-crowdfunding-for-ai-traffic-accident-detector-on-indiegogo-1031726295"
 webUrl: "https://markets.businessinsider.com/news/stocks/rope-inc-begins-crowdfunding-for-ai-traffic-accident-detector-on-indiegogo-1031726295"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: Business Insider

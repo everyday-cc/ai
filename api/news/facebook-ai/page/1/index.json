@@ -45,58 +45,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-02-what-4-analyst-ratings-have-to-say-about-c3ai.md",
-      "title": "What 4 Analyst Ratings Have To Say About C3.ai",
-      "excerpt": "These 4 analysts have an average price target of $17.5 versus the current price of C3.ai at $14.52, implying upside. Below is a summary of how these 4 analysts rated C3.ai over the past 3 months. The greater the number of bullish ratings,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/what-4-analyst-ratings-have-to-say-about-c3-ai-1031722043",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/what-4-analyst-ratings-have-to-say-about-c3-ai-1031722043",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2022/analyst_ratings_image_2546.png",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-01-us-export-ban-on-some-advanced-ai-chips-to-hit-china-tech-majors.md",
       "title": "U.S. export ban on some advanced AI chips to hit China tech majors",
       "excerpt": "A U.S. order to ban exports of some advanced chips to China is likely to hit almost any major tech company running public clouds or advanced artificial intelligence training modules in the country, experts said.",
@@ -1450,6 +1398,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-facebooks-ai-chatbot-still-thinks-donald-trump-is-president.md",
+      "title": "Facebook’s AI chatbot still thinks Donald Trump is president",
+      "excerpt": "The chatbot also seemed to propagate anti-semitic conspiracy theories (Credits: AP) Facebook owner, Meta’s new Artificial Intelligence ... collected through research studies with annotators ...",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2022/08/09/facebooks-ai-chatbot-still-thinks-donald-trump-is-president-17152552/",
+      "originalUrl": "https://metro.co.uk/2022/08/09/facebooks-ai-chatbot-still-thinks-donald-trump-is-president-17152552/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2022/06/SEI_108824475.jpg?quality=90&strip=all&zoom=1&resize=600%2C400",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2022/08/09/facebooks-ai-chatbot-still-thinks-donald-trump-is-president-17152552/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/08/09/facebooks-ai-chatbot-still-thinks-donald-trump-is-president-17152552/amp/",
+      "publishedDateTime": "2022-08-09T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },

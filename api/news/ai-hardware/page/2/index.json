@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-25-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else.md",
+      "title": "Why Tesla Thinks It'll Build Self-Driving Cars Before Everyone Else",
+      "excerpt": "Their job is to process video from the fleet of Tesla cars on the road today to learn how real-world driving works. That training process is the foundation for the FSD, short for Full Self Driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/this-is-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/this-is-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 221,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/271a46fb3adb415aeca54f56d60baeddc11e3033/2022/08/24/0f2b65be-0d7e-461e-b630-2d3103b9c76e/tesla-d1-dojo-chip.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/this-is-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-is-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else/",
+      "publishedDateTime": "2022-08-25T00:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-intel-launches-flex-series-arctic-sound-m-gpu-for-visual-cloud-workloads.md",
+      "title": "Intel Launches Flex Series Arctic Sound-M GPU For Visual Cloud Workloads",
+      "excerpt": "Intel's Arctic Sound has finally made its way to market. Intel just formally introduced the datacenter GPU, now known properly as the \"Data Center GPU Flex Series.\" The cards, which come in at least two variants,",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/intel-launch-arctic-sound-m-data-center-gpu-flex-series",
+      "originalUrl": "https://hothardware.com/news/intel-launch-arctic-sound-m-data-center-gpu-flex-series",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/59427/content/small_intel-datacenter-gpu-arctic-sound-1.jpg",
+          "width": 708,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/intel-launch-arctic-sound-m-data-center-gpu-flex-series",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-launch-arctic-sound-m-data-center-gpu-flex-series",
+      "publishedDateTime": "2022-08-24T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-24-tesla-releases-new-deep-dive-presentations-on-its-dojo-ai-supercomputer.md",
       "title": "Tesla releases new deep-dive presentations on its Dojo AI supercomputer",
       "excerpt": "Tesla has released two new deep-dive presentations into its Dojo AI supercomputer ahead of its upcoming AI Day 2. You can check the slides from both presentations below. Dojo is Tesla’s own custom supercomputer platform built from the ground up for AI machine learning and more specifically for video training using the video data coming",
@@ -1371,92 +1467,6 @@
         "Natural Language Processing",
         "AI Hardware",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-memryx-begins-customer-sampling-of-ai-accelerator-chip.md",
-      "title": "MemryX Begins Customer Sampling of AI Accelerator Chip",
-      "excerpt": "MemryX Inc., a pioneering start-up that designs breakthrough silicon for artificial intelligence (AI) processing for edge devices, announced today it has begun customer sampling of its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/memryx-begins-customer-sampling-of-ai-accelerator-chip/article_1851bf0b-53ab-5af7-bf7a-4ff8022392e1.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/memryx-begins-customer-sampling-of-ai-accelerator-chip/article_1851bf0b-53ab-5af7-bf7a-4ff8022392e1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg",
-          "width": 350,
-          "height": 456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-10T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-china-creates-its-most-powerful-gpu-biren-br1100-reducing-its-dependency-on-nvidias-ai-gpus.md",
-      "title": "China creates its most powerful GPU Biren BR1100, reducing its dependency on NVIDIA's AI GPUs",
-      "excerpt": "The Biren BR1100 is based on a 7nm process, houses 77 billion transistors, and is reportedly faster than NVIDIA's Ampere in AI power.",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesnownews.com/technology-science/china-creates-its-most-powerful-gpu-biren-br1100-reducing-its-dependency-on-nvidias-ai-gpus-article-93479666",
-      "originalUrl": "https://www.timesnownews.com/technology-science/china-creates-its-most-powerful-gpu-biren-br1100-reducing-its-dependency-on-nvidias-ai-gpus-article-93479666",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tnn.in/thumb/msid-93479666,imgsize-100,width-1280,height-720,resizemode-75/93479666.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesnownews.com/technology-science/china-creates-its-most-powerful-gpu-biren-br1100-reducing-its-dependency-on-nvidias-ai-gpus-article-93479666/amp",
-      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/china-creates-its-most-powerful-gpu-biren-br1100-reducing-its-dependency-on-nvidias-ai-gpus-article-93479666/amp",
-      "publishedDateTime": "2022-08-10T04:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "timesnownews",
-        "domain": "timesnownews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ubtech-announces-g
 webUrl: "https://markets.businessinsider.com/news/stocks/ubtech-announces-global-debut-of-intelligent-healthcare-robots-and-solutions-1031722479"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 431
         height: 287
         isCached: true
+  - title: "ET Soonicorns Summit: Watch startups from Web3, fintech, gametech, healthtech and other sectors in deep-dive discussions"
+    excerpt: "The ET Soonicorns Summit, powered by AWS and Intel, will host in-depth conversations through sector roundtable focussed on healthtech, agritech, Web3, gametech, SaaS, fintech, and AI/ML, among others."
+    publishedDateTime: 2022-09-06T13:15:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/startups/et-soonicorns-summit-watch-startups-from-web3-fintech-gametech-healthtech-and-other-sectors-in-deep-dive-discussions/articleshow/94031661.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 0
 
 secured: "EOVHGPkg/lZsb3TL/XJ0VYoYltfx3IZmglQVRPEcn8X56IGoChr8EOsEC5Z6NWfSO4BmWJL/OeVTeCEm0bSxZ8kLGNr1dQHla792Bzc3M3R7sV160UxBOG6UXOSSeB/KxdXg8RkgMpgE7lBOy6RFuvAVDvafq6zug02D/cwCJ8szOBSUVxlHmxhrWReYJBm6vnyp0rgXLKK0G5HE/qTO/FPAeoGviNkOe+CJJkMxlFTRdsAp6ytlRPZQJNQU1xzwZ4uxQCYdDqD+WtpY7xvVOeRuDSJmsckmU0bLus1keYGWMtUlV/BlgXkStx+5vrHAIhkRRGoeW0EL7DpxWArszVDKhJtwL84vYFfUE9FiAi4=;Iefe3/QR+IkauMB0C0bVBg=="
 ---

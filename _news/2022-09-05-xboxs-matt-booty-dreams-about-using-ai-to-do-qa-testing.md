@@ -29,6 +29,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "Where Will Microsoft Stock Be In 5 Years?"
+    excerpt: "I expect Microsoft to grow its top line by a low-to-mid teens percentage CAGR in the coming five years. Read more to see the 5-year outlook for MSFT stock."
+    publishedDateTime: 2022-09-06T15:34:00Z
+    webUrl: "https://seekingalpha.com/article/4539139-microsoft-stock-5-years"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1132529735/image_1132529735.jpg?io=getty-c-w750"
+        width: 750
+        height: 489
+        isCached: true
 
 secured: "qKTFds8QQ1Rw6GWBcd4Hl1oD2YNF2CoIbt3/xsAZCLz1HEE0MwGn4N3oIQzK9xEXE8+KNvNlWzZxxkO387v+of+rf2+mP3xkatfiMJ5dpGGksGqxxazzbmLcc0LP/A5cBjB675VUsZsta2vRot3SYti48+oSG09HrlKD0BGkf1VCs7YEGdXmYUdsJbTTasl9y0XDLPgl2EFfTMHiPUsOkAVGNb3ApsILFYp+OdoeKgQ9CA6mm9C7vp7lAFLPs+QSerauv0uts48vX84g5laPGvv9pWPgdwdSIMHgEVWDdS/nYnuxJtqex6psRG0xFCnSi+EUvhh5hKFxZVd610YMBvbmmxHDBuQIOJXr19HUmI9VaDi7ktFf01iS3iGOCd5G/GE//Sf9Z4XXYTaU9DP/44zLmU7yeWbDoS/aM617c1/WhRAQd5oT9WJAqiOYOn7FiDV+iXlAIpRsEuwPzr4MyTBcLdcR16ql1+Qtf/JTWvAYuffl1cKNy687/16IUXJ0BUuIQ1FN/K9ehKoOYEUSeg==;LVE+7W/szDmQ2+Jg3AD4mg=="
 ---

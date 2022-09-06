@@ -9,7 +9,7 @@ ampWebUrl: "https://theprint.in/features/researchers-suggest-more-effective-way-
 cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/features/researchers-suggest-more-effective-way-for-automatic-speech-recognition-2/1114253/?amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers propose automatic speech recognition tech"
+    excerpt: "Popular voice assistants like Siri and Amazon Alexa have introduced automatic speech recognition to the wider public. Though decades in the making, ASR models struggle with consistency and reliability,"
+    publishedDateTime: 2022-09-04T00:26:00Z
+    webUrl: "https://punchng.com/researchers-propose-automatic-speech-recognition-tech/"
+    ampWebUrl: "https://punchng.com/researchers-propose-automatic-speech-recognition-tech/?amp"
+    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/researchers-propose-automatic-speech-recognition-tech/?amp"
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 59
+    images:
+      - url: "https://cdn.punchng.com/wp-content/uploads/2016/10/17155511/punchlogo.png"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Researchers propose new and more effective model for automatic speech recognition"
     excerpt: "Popular voice assistants like Siri and Amazon Alexa have introduced automatic speech recognition (ASR) to the wider public. Though decades in the making, ASR models struggle with consistency and reliability,"
     publishedDateTime: 2022-09-02T17:17:00Z

@@ -50,22 +50,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Size, Trends, Industry Research Report 2022-2027"
-    excerpt: "According to IMARC Group's latest reserach report the global artificial intelligence market reached a value of US$ 56.5 Billion in 2021. Looking forward, IMARC Group expects the market to reach US$ 308."
-    publishedDateTime: 2022-09-01T22:55:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/ab28727692/artificial-intelligence-market-size-trends-industry-research-report-2022-2027"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28727692"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28727692"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 55
-    images:
-      - url: "https://www.abnewswire.com/uploads/1662012669.jpeg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Global Artificial Intelligence (AI) Mega Trends Report 2022: AIaaS Model is Emerging as a Key Growth Driving Strategy - ResearchAndMarkets.com"
     excerpt: "The \"Global Artificial Intelligence Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. This research service identifies growth opportunities related to providing integration services to build customized solutions for AI,"
     publishedDateTime: 2022-09-06T10:32:00Z

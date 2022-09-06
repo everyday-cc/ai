@@ -50,20 +50,6 @@ related:
         width: 2880
         height: 1920
         isCached: true
-  - title: "Study: Artificial intelligence could be the future of managing Maine’s forests"
-    excerpt: "Monitoring soil conditions can typically be a time-consuming job, with soil conditions changing on a daily, weekly and monthly basis."
-    publishedDateTime: 2022-09-01T19:06:00Z
-    webUrl: "https://www.bangordailynews.com/2022/09/01/news/artificial-intelligence-forest-management/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 50
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2022/09/Artificial-intelligence-forests-UMaine1.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "qf4EtWFLGEDonX0Joct3XmA71b24+RXcAI/ayk0WXQ/lJrgOoqiiiUEPx09eSP8nNAWGQ19yLoacxM7r073WuPbXzPnin2uCs7FGnZAqluLfLJy4lMYANfCaaP3SczOzRlRTdEePi9HHCZLvdWEJFpP8oc0+0AAhtZOtB0QgExNDigfkpOwvgjLq+bWFAi0vroDUu+cQrcZ0IhvvIwJTHCADVZKhWtW2pBOrzlpA+LxJFzUbMxHCqExM+VSIAsS9SbTxSoYElxrGPzdH7MKG+JOdUqex2VGaXmng27BS0XbUP9sKdBxRha6O9sTh/gDVHC9oqpaXz99x31YOSm6S+/a/vw0sizr1xCFubtf+dvmwrXmoQ7LQDQCyo0rvUEbQsMJoAWKz8eNEVCB8jlabu7ZWi6NMFW/mDTNsiVVaE0ZuiJBuvZitdbHPd8hKara/Qd64NVf9OPLXshta+cGiSEWtcR+JYsx636w5SiwxAMP+fIsfLexM/Sa/IBcCLo6Fe/KpqqVLSyDj+Xnswkq9qQ==;fn8PD252BkTHquIhDr2sRQ=="
 ---

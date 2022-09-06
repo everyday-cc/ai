@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-06T12:28:00Z
 originalUrl: "https://www.pilotonline.com/inside-business/vp-ib-biznotes-0905-20220906-hfxuqiqt3naxxjy6x2ml7io4wu-story.html"
 webUrl: "https://www.pilotonline.com/inside-business/vp-ib-biznotes-0905-20220906-hfxuqiqt3naxxjy6x2ml7io4wu-story.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Virginian-Pilot

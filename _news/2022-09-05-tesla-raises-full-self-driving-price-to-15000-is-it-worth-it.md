@@ -61,15 +61,20 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "California Targets Tesla ‘Full Self-Driving’ With Newly Passed Bill"
-    excerpt: "A newly passed bill looks to hold automakers accountable for how they name and market partially-automated driving features."
-    publishedDateTime: 2022-09-01T19:27:00Z
-    webUrl: "https://www.thedrive.com/news/california-targets-tesla-full-self-driving-with-newly-passed-bill"
+  - title: "State Senate Passes Bill That Could Ban Tesla’s ‘Full Self-Driving’"
+    excerpt: "The misleading term is being challenged by California lawmakers, who recently passed a bill in the Senate that could ban the software's name. According to the LA Times, the California Department of Motor Vehicles’ rules don’t allow the advertisement of cars as “self-driving” if they do not have the capability."
+    publishedDateTime: 2022-09-06T14:32:00Z
+    webUrl: "https://www.manufacturing.net/video/video/22431745/state-senate-passes-bill-that-could-ban-teslas-full-selfdriving"
     type: article
     provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 19
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 39
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/09/MM1152.631753961cc6f.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Y+XzIVn8xEYJkXeockMlE1wHOM6thDrPdB2rNAJnJ2y4oRdCyf9+P83JBVsoPn8PwQb3oJx17JwGIbYyLtYQlz8Cae95G3VF/twbL3Xu55Cto5a0NdHelm/7e3zztMcjWXp3RzhOu3JBIiCbBNyYyTIKDOmSfvUCG6Im8LcZp5ffRRc4jPn0P0q++w6a341uevjq7v9Yhn09RJGoIvnOxTUNJYG2kolFqpWqvKmbKXEW8t/1xT0QZnipHoWYa9ZDxDdweK/vPSRMQCK678CkDmtgsHGsk82DXKJRUnV/O39BPLEASuW4zUMNOEsT2jc+N4C8dJOFN57WAn0bjr5mYFweP/yOZTyZN+gTtly+KXLuKUTRzM2dhR+11tLbG2qMHenB4jKpE5tK/8HqCCGnOWjmYBHZVi2UOaL0gRV5Z7VhwYH5nOAUyH67JDquSIU2BjyQdu06PoYQuQRZkw4ezy+eRB1F6AiUeFg+R08tYZxuRqbPZM7+2o0D6sueWwtq4Y4Y/cL7VRxxum8ts2pDug==;aDVbk2SZv/Vgn/H4IJW5qg=="
 ---

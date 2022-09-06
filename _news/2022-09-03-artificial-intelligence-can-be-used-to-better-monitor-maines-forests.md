@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/09/220902154904.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/09/220902154904.htm"
 type: article
 quality: 68
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-63.jpg"
         width: 2880
         height: 1920
-        isCached: true
-  - title: "Study: Artificial intelligence could be the future of managing Maine’s forests"
-    excerpt: "Monitoring soil conditions can typically be a time-consuming job, with soil conditions changing on a daily, weekly and monthly basis."
-    publishedDateTime: 2022-09-01T19:06:00Z
-    webUrl: "https://www.bangordailynews.com/2022/09/01/news/artificial-intelligence-forest-management/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 50
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2022/09/Artificial-intelligence-forests-UMaine1.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Artificial intelligence can be used to better monitor Maine’s forests, UMaine study finds"
     excerpt: "The University of Maine has developed a novel method of using artificial intelligence and machine learning to make monitoring soil moisture more energy and cost efficient. The software learns over time how to make the best use of available network resources,"

@@ -115,15 +115,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "Nvidia could take a $400M revenue hit from new government restrictions on AI chips"
-    excerpt: "New restrictions are limiting both @Nvidia and @AMD 's ability to sell advanced chips in China. #SiliconValley"
-    publishedDateTime: 2022-09-01T22:24:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2022/09/01/government-restrictions-set-to-cost-nvidia-400m.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 28
 
 secured: "yA99zIH4EZ+Pjul6Ba24ZY0up03iDnk4QH75EJfHyE0rzd3EWuafAbDLgkhPEVe0/pBC+ABZK+mg7tPHzybAh71nqArWsIuRfInmAEI27Wg+MjMn6BEGCz9SCrQaxVWBnfh48sRyBL9WOmRhNRSBCiBvmu0Vw+psIyfuJ9U2lWkL2bJmgRpIh4rZjPJciiaPwZIJohvlqDoLVx3aKbRWV1sZmyhx6v5joOk5CpiJJrjxvpfDtVfvmg8UK0jPpwNjaNiioW5UNucNpOGH9zPjGeBekJQrKemdhHzYtHJt1CpiRnp9GfKpyK4aMCLpR3/n9EufaSL4TDNAHUYbW/IRq0DBFHSRPKOGWs2AFtiSNadjjYhnoUp4i2JsiPNVMVFCG0ABp8+8HQB2GruBXH+sOA6BeJ+jCL2AP/TZvhbw+H/k6cJLnOE3IUDfFWZJR1rS3OX5GqlvEHWbERBj+60a2I2KQPm75iVgWxYCxz+a/e5ndlKnjYY9bPf1xIUvdQxuh2DTZyUSqLDH9DEg1IxMOQ==;qSWvliaA2Ns7a5IFtmlXhA=="
 ---

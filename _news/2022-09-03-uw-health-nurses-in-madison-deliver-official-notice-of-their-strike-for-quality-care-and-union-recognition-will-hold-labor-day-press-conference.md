@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Prime Healthcare and Steer Health Announce Strategic Partnership to Improve Patient Outcomes and Access to Care"
+    excerpt: "Investments in digital tools and innovative communication solutions provide an improved patient experience. Prime Healthcare, an award-winning national health system, and Steer He"
+    publishedDateTime: 2022-09-06T15:00:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-6-prime-healthcare-and-steer-health-announce-strategic-partnership-to-improve-patient-outcomes-and-access-to-care"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "hh0boZQu12VLiHn5wk7VwMM0FKuZgWBrNRfwqKfyNInoaYNDuNTn881BP8lGBK6icvzGG69fO12x/jbk+24oSSyX0iqExcbqIeNQhF5j9Ss4WpXZAJlNtLF8efPIwEFkeBSMgKxX+m3Gm5BkUsgTTCSF3uxUIQ9dadjlA0152orFD8xX/IXgR7hihmXR8D3ec9hpPskKGMLwnpG4JUlObAo9s7/FKe5EXeI+TFY4+p6TtLUlmqbcj65/UM8oCEYPsAqJ1iPW8ievWdR+R6Ig82fPAfARuzvu5hGTbCHzpHtjUN0155oWAkEapF3UGSQwhlnPC/dYhSfiYNcUE2gz52QdAx7p8KFqU6Mq67e91Cs=;kwVIckTLLRPq9lhLNZIv6Q=="
 ---

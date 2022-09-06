@@ -26,6 +26,22 @@ images:
     height: 507
     isCached: true
 
+related:
+  - title: "Why Self-propagating Robots Are the Future of Space"
+    excerpt: "From asteroid mining to on-orbit servicing, autonomous robots are key to the future of space exploration and defense."
+    publishedDateTime: 2022-09-06T12:01:00Z
+    webUrl: "https://www.defenseone.com/sponsors/2022/09/why-self-propagating-robots-are-future-space/374786/"
+    type: article
+    provider:
+      name: Defense One
+      domain: defenseone.com
+    quality: 39
+    images:
+      - url: "https://cdn.defenseone.com/media/img/cd/2022/07/21/Robots_Space2050_Earth_Access_Space/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+
 secured: "RocR8dDfg0WoIKjYalYskhl8/wMJdtvs6bY0drAhpz0/wHMTjdRmQ5Dd2nO/cEcH+pL5rY9WFWw4fPmdvme1cccKHcBA7eCfmJ2bK37Ct1/vOl14axHDZtoA3aLpt9dEgsbIJT3HxKmz2cNLEgMbrvdTQBVgnVre1RxOYtu6ovrrNQu7SSMC3hshYXRut1sT8blgDLoH6nWno631d8g6kK9I0lg+TBmxjgwp7oA9i5L8yUT6ODU/eD2MYkKSjjPtaD7ZCenI/orkw/kRTP978I+uOKYtUCQjkD2a6y4e9AI0SFObD9CURqqTtMn7mo7xSrBRx/OmdiffBYK8oTfqQSN86tfMCgglssSK8eQgjLhSaTwjM+/tSN1Zs4oMeJhqn8Q+9hr29G+UKMGf5H1h5tDW2USOhWX9fGUO5xzflHFYx80jfFCZJva8jThwycMuE0oUBYGVL4PNWzcc6shaELLzAxqjtD1aGa5LyKWGNi+fMUX3XgPMdJOSGJKFarx0oJiMDwtdtOJWrrQAvI8cgg==;Bj/RGPjWMGDayuLDYwx/NA=="
 ---
 

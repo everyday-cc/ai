@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-06T13:05:00Z
 originalUrl: "https://www.infoq.com/news/2022/09/stable-diffusion-image-gen/"
 webUrl: "https://www.infoq.com/news/2022/09/stable-diffusion-image-gen/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: InfoQ

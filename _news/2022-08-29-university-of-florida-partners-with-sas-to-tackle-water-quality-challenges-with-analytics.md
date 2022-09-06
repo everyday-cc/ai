@@ -1,20 +1,26 @@
 ---
 category: news
 title: "University of Florida partners with SAS to tackle water quality challenges with analytics"
-excerpt: "The project will evaluate the connections between water quality and key economic sectors in the region. As part of the yearlong project, SAS and CCS will use SAS® Viya® on Microsoft Azure to develop a web-based water analytics platform to integrate a diversity of data streams to facilitate scientific research,"
-publishedDateTime: 2022-08-29T14:49:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/science-technology-water-quality-artificial-intelligence-university-of-florida-3b539368a328bb6eda66e6a3fe625976"
-webUrl: "https://apnews.com/press-release/pr-newswire/science-technology-water-quality-artificial-intelligence-university-of-florida-3b539368a328bb6eda66e6a3fe625976"
+excerpt: "The project will evaluate the connections between water quality and key economic sectors in the region. As part of the yearlong project, SAS and CCS will use SAS ® Viya ® on Microsoft Azure to develop a web-based water analytics platform to integrate a diversity of data streams to facilitate scientific research,"
+publishedDateTime: 2022-08-29T16:15:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-university-florida-partners-with-sas-tackle-water-quality-/2022/08/29/9663581.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-university-florida-partners-with-sas-tackle-water-quality-/2022/08/29/9663581.htm"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "eACFPTxZUog8voPq1rnpx4nKmDegBdp3aWr5cl4XftoPFnzPDRwCdM7XkQsUt0D6imBtjvvMY6EfU3d3N63Naninjug168fRzMWBVrb1YqBD2lqlIxYRfBm7OHYxfAdsPAZj3O7CLqnJkGIfBTW4A8Tj4mGrhKEtOlZmpZD9mfCz0YqRRH+znSFKzUvcD9GpCx0RoRMnfVo2DEntiiNRRO4ZB1OqtWWEhUHlOlVHaJJdGctI8gI0vuGmwUQE15lE+dltL8b673wEYqRLxCVQP4cIKB4Jm6+w3gWX+1TKstpvvVmk7l8tW3bqc3vhNCeFLMXxxfi58snmq+tqAMyUrIulsYhaKMwv63rtBg04KJ8=;Hwl06Z0NjBTxl2CzhyiZDA=="
+images:
+  - url: "https://mma.prnewswire.com/media/1886232/SAS_Water_Quality.jpg"
+    width: 400
+    height: 267
+    isCached: true
+
+secured: "yfDNFTTANauW7FmVYKw3N/ewA8EP0Q6tiBOkyQt223ku0aPGumOTKq+iUpWlUs8KWMGbkFNVFzb9wDxMe7e6alrgcEuips/BlwXOx0pcyPVVai6x3YAnGVzCuZwlus3eqqg/UuR9Dc9Rb96zV7f6ZwLw4VXl7+u78KrnGInwmy2I0TxTMEJjQX21sn5B0XJrhJmmugPt2RztPGl1X5SnwGCCVesukK4wzQliX7xOGZuuWJOyxHL0MLg8YKlKEMPDUxUA1w/mUox8wvmt5UKyAgrhoSI0bGxLC6N2ZhnF1p/veb88q55+QzArjGdvlrkbsq7GzR0jK7n/2TCtKk1dkurBzx86epSL6oXPblMstqg=;VBZsnLP8xm2qf8ouuskIpg=="
 ---
 

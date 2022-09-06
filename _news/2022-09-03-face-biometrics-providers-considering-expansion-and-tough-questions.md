@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Totm wins $4.9M contract for face biometrics security with Indonesian agency"
+    excerpt: "Totm Technologies is supplying biometric solutions to an Indonesian law enforcement agency under a US$4.9 million contract."
+    publishedDateTime: 2022-09-06T15:17:00Z
+    webUrl: "https://www.biometricupdate.com/202209/totm-wins-4-9m-contract-for-face-biometrics-security-with-indonesian-agency"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
+        width: 2048
+        height: 1812
+        isCached: true
   - title: "RecFaces supports face biometrics expansion with new training center in Dubai"
     excerpt: "The facility will showcase RecFaces' biometric security and surveillance products, plus a solution that tracks employees' working hours using face recognition."
     publishedDateTime: 2022-09-05T16:45:00Z

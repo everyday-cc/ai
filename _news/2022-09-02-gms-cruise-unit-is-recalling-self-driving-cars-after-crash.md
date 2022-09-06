@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "GM's Cruise Recalls Self-Driving Software Involved in June Crash"
-    excerpt: "After two people were injured in the incident, Cruise blocked its robot vehicles from making left turns for several weeks before issuing a software update."
-    publishedDateTime: 2022-09-01T19:34:00Z
-    webUrl: "https://www.wired.com/story/gms-cruise-recalls-self-driving-software-involved-in-june-crash/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 34
   - title: "GM’s Cruise recalls 80 self-driving EVs citing collision risks when turning"
     excerpt: "General Motors’ self-driving rideshare service Cruise announced that it has recalled 80 of its electric robotaxis in order to update their software following an accident in June that injured two people."
     publishedDateTime: 2022-09-02T18:33:00Z

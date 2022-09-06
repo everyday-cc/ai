@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/paultassi/2022/09/05/xboxs-matt-booty
 webUrl: "https://www.forbes.com/sites/paultassi/2022/09/05/xboxs-matt-booty-asked-microsoft-to-invent-ai-bot-qa-testers-for-games/"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "Where Will Microsoft Stock Be In 5 Years?"
+    excerpt: "I expect Microsoft to grow its top line by a low-to-mid teens percentage CAGR in the coming five years. Read more to see the 5-year outlook for MSFT stock."
+    publishedDateTime: 2022-09-06T15:34:00Z
+    webUrl: "https://seekingalpha.com/article/4539139-microsoft-stock-5-years"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1132529735/image_1132529735.jpg?io=getty-c-w750"
+        width: 750
+        height: 489
+        isCached: true
   - title: "Xbox's Matt Booty Dreams About Using AI To Do QA Testing"
     excerpt: "So Matt Booty will no doubt have enamored himself no end to such people with the weekend’s tone-deaf statement. As reported by VGC, Booty was explaining how each time a new feature is added, a game needs to be re-tested start to finish."
     publishedDateTime: 2022-09-05T12:12:00Z

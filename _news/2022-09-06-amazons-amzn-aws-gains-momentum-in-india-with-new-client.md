@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-06T11:06:00Z
 originalUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-gains-momentum-in-india-with-new-client"
 webUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-gains-momentum-in-india-with-new-client"
 type: article
+quality: 66
+heat: 66
+published: false
 
 provider:
   name: Nasdaq
