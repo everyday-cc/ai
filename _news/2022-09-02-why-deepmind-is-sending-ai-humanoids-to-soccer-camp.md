@@ -1,34 +1,27 @@
 ---
 category: news
 title: "Why DeepMind Is Sending AI Humanoids to Soccer Camp"
-excerpt: "There’s controlling the full humanoid body, coordination—which is really tough for AGI—and actually mastering both low-level motor control and things like long-term planning.” An AI has to re-create everything human players do—even the things we don’t have to consciously think about,"
-publishedDateTime: 2022-09-02T11:00:00Z
-originalUrl: "https://www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-camp/"
-webUrl: "https://www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-camp/"
-ampWebUrl: "https://www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-camp/amp"
-cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-camp/amp"
+excerpt: "DeepMind’s attempt to teach an AI to play soccer started with a virtual player writhing around on the floor—so it nailed at least one aspect of the game right from kickoff. But pinning down ..."
+publishedDateTime: 2022-09-02T12:00:00Z
+originalUrl: "https://www.wired.co.uk/article/alphabet-deepmind-ai-humanoids-soccer-camp"
+webUrl: "https://www.wired.co.uk/article/alphabet-deepmind-ai-humanoids-soccer-camp"
 type: article
-quality: 106
-heat: 146
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: Wired
-  domain: wired.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Wired UK
+  domain: wired.co.uk
 
 topics:
-  - AI in Robotics
-  - AI
   - Google AI
+  - AI
 
 images:
-  - url: "https://media.wired.com/photos/631134163dfe1372fb611162/master/pass/soccer_HZ_science_GettyImages-520264154.jpg"
-    width: 2400
-    height: 1799
+  - url: "https://media.wired.co.uk/photos/63111e070bb794e4e22df11b/16:9/w_1280,c_limit/soccer_HZ_science_GettyImages-520264154.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -76,21 +69,7 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Meta develops mind-reading AI model"
-    excerpt: "Researchers from Meta developed an AI model that decodes speech from thought. The technology allows people to produce words without speaking. When humans"
-    publishedDateTime: 2022-09-05T07:55:00Z
-    webUrl: "https://www.techzine.eu/news/analytics/87881/meta-develops-mind-reading-ai-model/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 39
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2022/01/Meta-Whatsapp.png"
-        width: 1500
-        height: 800
-        isCached: true
 
-secured: "t2VHKwedM+8jNEe+zLzN7C0FSqjpZQ1jMt5ltCT/BDkZff9e23t1hKSuCD5lfDOmhFhVzUW8N5jM5TTjDUMKQmaHHtcGQXRA6aZfG72f0laOiXG6eUvGJUsg5K7CvFVv8fotKjUVlhUAOQGIAHskcdtflmgqcgj5SdXTGeTKPJBMRn2YPjUaJiNqm2h5Jo4Z33b8J66M3Ucc9xGTxO39NGn8tpwUUcrb3w7fRI4c6CToqqONu+A2L7D041L1nIVzLDgZuSLX8mxeiWvXVhqyMuKXSoWNtXgps7Jf4b8DWJPZWsKsi+Jehw9DnatYd2OdMt1nF0lp/oywHKoGKfDtfsjecjeqRetCdyU2deFQJ+T7ifv/4KzSa0OmFh6jia0ulpFmqGfxPpILvTUJBSNXssen2j5O6SMNLf5BJy04/THM2f7fpVUZ49wWmRn6ozQHcMm3nb5wez1+y5MvxWC7RXYz2yZQKqMSvWiHJ4ZxqOdhkeJqKsJ/9GhzdE8L+9JiF6BW2++R4DYwFt3ymiXvoQ==;Z0nINfNQF8NZ5uPkvjuHWg=="
+secured: "O7dqkONvIJzq6Dqz64zqDayIfdwEeRH+1E2aDqIFd3f4BREgtSnBVQOSYSk2+IQT29n1PpBTQLliP08sjR9VGbneWB/HSxanj5xoAKLJBwlOgV4heExKg6tFBFlLPdJCfEWCqN7NYnSIvYLmVeRpfzEWetCa3BEkczR0frlJBwYb8IbLKLvWf31MEuRYMfgRQI0GxgEAG4vjIFJuuHwEa7+9sJJtqC2uIXZUyPXW379OJBDNjGGyV42wMBEiMn3Du2znb8OoUxfstfJwDa8Lk96FMdn+I2yVeLuRfFi8bkXg0JRed0gn7iwf56kCsEifL8zzbaxiCJb3zOcI2AY4gNGDw1QA1vpY2SFKEsZhLlw=;MrhIHB0cxgB6Aydf4jwjAQ=="
 ---
 

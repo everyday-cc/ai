@@ -18,17 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "U.S. export ban on some advanced AI chips to hit almost all China tech majors - analysts"
-    excerpt: "A U.S. order to ban exports of some advanced chips to China is likely to hit almost any major tech company running public clouds or advanced artificial intelligence training modules in the country ..."
-    publishedDateTime: 2022-09-01T10:25:00Z
-    webUrl: "https://www.nasdaq.com/articles/u.s.-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts"
-    ampWebUrl: "https://www.nasdaq.com/articles/u.s.-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/u.s.-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 75
   - title: "US Chip-Export Ban Throws Wrench Into China AI Works"
     excerpt: "The development of China's artificial intelligence sector is expected to be slowed in the coming few years by the United States' new ban on expor"
     publishedDateTime: 2022-09-06T01:24:00Z

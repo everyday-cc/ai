@@ -1,29 +1,27 @@
 ---
 category: news
-title: "US government blocks sale of some Nvidia and AMD AI chips to China"
-excerpt: "The US government’s ongoing attempts to restrict China’s military capabilities will affect Chinese AI researchers using the chips to train machine learning models."
-publishedDateTime: 2022-09-01T14:42:00Z
-originalUrl: "https://www.networkworld.com/article/3672237/us-government-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.html"
-webUrl: "https://www.networkworld.com/article/3672237/us-government-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.html"
-ampWebUrl: "https://www.networkworld.com/article/3672237/us-government-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.amp.html"
-cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3672237/us-government-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.amp.html"
+title: "Nvidia outlook: the US bans AI chips to China and Russia"
+excerpt: "The end of August saw Nvidia state in an SEC filing that the US government is restricting the sale of its high-performance AI chips to China and Russia. The chips, created for the A100 and H100 servers,"
+publishedDateTime: 2022-09-06T02:14:00Z
+originalUrl: "https://www.ig.com/en-ch/news-and-trade-ideas/nvidia-outlook--the-us-bans-ai-chips-to-china-and-russia-220906"
+webUrl: "https://www.ig.com/en-ch/news-and-trade-ideas/nvidia-outlook--the-us-bans-ai-chips-to-china-and-russia-220906"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Network World
-  domain: networkworld.com
+  name: ig.com
+  domain: ig.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://images.idgesg.net/images/article/2020/05/nvidia-a100-gpu-100842029-large.jpg?auto=webp&quality=85,70"
-    width: 1200
-    height: 678
+  - url: "https://a.c-dn.net/c/content/dam/publicsites/igcom/uk/images/news-article-image-folder/bg_nvidia_333689036.jpg"
+    width: 600
+    height: 450
     isCached: true
 
 related:
@@ -107,6 +105,22 @@ related:
     webUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.html"
     ampWebUrl: "https://www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.amp.html"
     cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3672237/us-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 74
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/05/nvidia-a100-gpu-100842029-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 678
+        isCached: true
+  - title: "US government blocks sale of some Nvidia and AMD AI chips to China"
+    excerpt: "The US government’s ongoing attempts to restrict China’s military capabilities will affect Chinese AI researchers using the chips to train machine learning models."
+    publishedDateTime: 2022-09-01T14:42:00Z
+    webUrl: "https://www.networkworld.com/article/3672237/us-government-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.html"
+    ampWebUrl: "https://www.networkworld.com/article/3672237/us-government-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3672237/us-government-blocks-sale-of-some-nvidia-and-amd-ai-chips-to-china.amp.html"
     type: article
     provider:
       name: Network World
@@ -230,20 +244,6 @@ related:
         width: 260
         height: 260
         isCached: true
-  - title: "Nvidia outlook: the US bans AI chips to China and Russia"
-    excerpt: "The end of August saw Nvidia state in an SEC filing that the US government is restricting the sale of its high-performance AI chips to China and Russia. The chips, created for the A100 and H100 servers,"
-    publishedDateTime: 2022-09-06T02:14:00Z
-    webUrl: "https://www.ig.com/en-ch/news-and-trade-ideas/nvidia-outlook--the-us-bans-ai-chips-to-china-and-russia-220906"
-    type: article
-    provider:
-      name: ig.com
-      domain: ig.com
-    quality: 54
-    images:
-      - url: "https://a.c-dn.net/c/content/dam/publicsites/igcom/uk/images/news-article-image-folder/bg_nvidia_333689036.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "China may step up purchases of AI GPUs from Nvidia, AMD prior to export ban"
     excerpt: "The fresh US ban on exports of AI GPUs to China has sparked market speculation that the restriction may prompt Chinese clients to accelerate and increase shipment pull-ins for advanced GPUs from major suppliers Nvidia and AMD before a buffer period expires on September 1,"
     publishedDateTime: 2022-09-05T06:11:00Z
@@ -346,6 +346,6 @@ related:
       domain: insidehpc.com
     quality: 26
 
-secured: "UpxH32MJ2tObIS0yVn4tzeOOI2cwir26JmB1O5KpkLSS6u6ZCklZjTDLg+YwIgB8pNWXi3ANCkbfDh9smzV1lBUrrKCwr2HTMBCiQ4QlVJU+jPpJft7p1ypIc01Jxha+IxIeMgLu/v+4OoYX6pf+H5Ju0ccDg6sJlUD1zhjaTv8rGPMgHW4ZFqhYfxTchyo4cdbrMc0IYYxt8wucmYjsYFloWJcDUM8lqY8kJVwcigPZgUiuGy7BMZNsXID4dJQy/85XDbZoxCQ2Osk1tTFzkBFQv4LbgevXvcGXCWi/kvastm4g/eahnM3s6C1IOBvFkUeWNmF5AuqIEcDUzbf8an4+de7Hv+7fKiAE1Ad+BqR0PXEjXlScduLVDjzA/ceVJ62uiDAaNZEuXgUljrdUQRyzl8TWIocLfuNMPm7y3CdiIPkq7VRDSiLMe3124/TZgNOyqpSQ0wJr1sHC8JCKIr1huGOMfHYFZ10fuyMDCO5QVnYeCut2f+KFaAulGPgP4s3BUrtgwJRXtJglC5ws1w==;IZvVgOhiqhYRBR2TB51RRQ=="
+secured: "8OfXZvoVl+bZ6dk9dhoeprlYB+nXsZ1d48HTZCwslK3mYzf1lUK+iQ8YSSSQ2BsiHmcnJrBfhnNl1Qj83SXDq6eMUImgDAZWH0kuYWQy3Bll8IZASlFAzd5uFJMuLV7MRFLu7+iZG59n2tz03351APZgUdNo0NEizKH8gOT8XAmzoJksEIg+zPIJpP719P9ytl9PXRcXIGBBmBE00fwMARn79BIUcpX3SZY5RvPw9ixWC2vcFCDZZ0/ZVJuqKvrKDgN+1wctd73PSdETfP5THw4aKEJiw5mbPiMvFQuwc5i4VwrtgltaWexzAaBOJFUu0N3blTZtDM8WP6OrP0aZAgEYSfnl58neWaj54rgcUwo=;ojn24EKO3FmvtNw55RV5wg=="
 ---
 

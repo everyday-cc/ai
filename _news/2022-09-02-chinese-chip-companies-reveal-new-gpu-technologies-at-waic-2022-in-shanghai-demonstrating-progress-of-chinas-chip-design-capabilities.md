@@ -39,20 +39,6 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "A Chinese game company has appointed the world’s first humanoid robot as its CEO"
-    excerpt: "Recently, the China-based mobile game company NetDragon Websoft appointed an artificial intelligence-supported virtual human being as the general manager named \"Tang Yu.\" The appointment was made on August 26 and the virtual CEO,"
-    publishedDateTime: 2022-09-01T09:30:00Z
-    webUrl: "https://interestingengineering.com/innovation/chinese-company-humanoid-ceo"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 34
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/2022/09/01/image/png/CAYPMdEhG2k3afEK0YXc9aZImo4CyCrH3FPYgT5V.png"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "MDWMvYi2DqX//u+gZnV2m2VQtZ0Q8+zT7Wcas2NKTBuJspRw7KMN3xqfz7UfOoB5gzPRJI5K3PBIAYuyxcbZxyIPoVelvARqD3c8JmYUmedTcwL7wX31hbD3vpOmrX6SWXx8gSaw+d1aJaU5O6TIi171a26wEfO7SG6EwuSS8NPT7E6OXnLmhZ+Z3NMbANEw7DGff85Kus7TBHtzMity+Jj9glk8o0TpwXSnVTCpH0alYI+VR2f1C/mdKxSAw0Rws4M3qrqwzhhZkly5HyZbsG6YTp/zDe3A50c8yYsVwsl7urcbZLkSy9zvgnE9FRqyMVu1IpPIwXH98/eVY1ovf8wnJ2FodliT6I8Y8fCmDy9dPkKLE6OUMXqQFkayKa15Q4H+WOXi5sqXbTlbSYP93PxzFtbddej711j1pLzQbgmvOlpYdNms5JIZTgMPIouR6X+XtDcWbBqLLHl971lyliYndBGULpEk+KHCWlSb72/cfkhh24I7XM3/i4xPk1SRG6H3QLHfYaWXMAWpj0w7dg==;EmE/8ZssfyF39eIDPXe+hA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://troymedia.com/technology/how-artificial-intelligence-will-ch
 cdnAmpWebUrl: "https://troymedia-com.cdn.ampproject.org/c/s/troymedia.com/technology/how-artificial-intelligence-will-change-our-world/amp/"
 type: article
 quality: 59
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The world needs an AI code of ethics"
-    excerpt: "The AI revolution has already started, and business, academia and government need to act together now to prevent harm."
-    publishedDateTime: 2022-09-05T09:30:00Z
-    webUrl: "https://www.protocol.com/policy/world-needs-ai-ethics"
-    type: article
-    provider:
-      name: Protocol
-      domain: protocol.com
-    quality: 54
-    images:
-      - url: "https://www.protocol.com/media-library/human-hand-touching-with-cybernetics-robot.jpg?id=27530061&width=1200&height=600&coordinates=0%2C322%2C0%2C322"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Inworld AI makes life-like characters for virtual worlds"
     excerpt: "With the rise of the metaverse, brands are realizing they need to market themselves on virtual platforms. But, humans being humans, real people exploring these worlds likely don’t want to interact with soulless chat bots."
     publishedDateTime: 2022-09-02T10:00:00Z

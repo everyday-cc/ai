@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Market Plays A Vital Role In Mobile Banking – Reports and Data"
-    excerpt: "The size of the global fintech market was USD 100.09 billion in 2020, and it is anticipated to grow in value at an 8.5% CAGR. Rising demand for smartphones, growing private investor involvement in fintech firms,"
-    publishedDateTime: 2022-09-01T10:29:00Z
-    webUrl: "https://techbullion.com/fintech-market-plays-a-vital-role-in-mobile-banking-reports-and-data/"
-    ampWebUrl: "https://techbullion.com/fintech-market-plays-a-vital-role-in-mobile-banking-reports-and-data/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/fintech-market-plays-a-vital-role-in-mobile-banking-reports-and-data/amp/"
+  - title: "RBI’s lending norms draw mixed reactions among fintech experts"
+    excerpt: "Former MD and co-founder of fintech firm BharatPe Ashneer Grover has criticised the apex bank’s lending guidelines."
+    publishedDateTime: 2022-09-06T02:07:00Z
+    webUrl: "https://www.newindianexpress.com/business/2022/sep/06/rbis-lending-norms-draw-mixed-reactions-among-fintech-experts-2495329.html"
+    ampWebUrl: "https://www.newindianexpress.com/business/2022/sep/06/rbis-lending-norms-draw-mixed-reactions-among-fintech-experts-2495329.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2022/sep/06/rbis-lending-norms-draw-mixed-reactions-among-fintech-experts-2495329.amp"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 59
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 44
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/08/Fintech.jpg"
-        width: 2560
-        height: 1706
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/8/28/w600X390/RBI_PTI14.jpg"
+        width: 600
+        height: 390
         isCached: true
 
 secured: "elEvCvqITFZ2XmZu5a6HPSPB6Nb0Rp29JJakZqUM1dBLFEthtg3YIkVTm9/r/Rv3x2zRsiF95MKcxhm5y5tlNI8NAqmP0hgSgeFdDFUdyNnLJniPlUVt+EperGP8AQs3oVFaO9K6mUhmilcJp0r/Xi4rC3TLIrue/yJWoPHjCHPsyU4zM1a1hbd2YA+sB/CDWuYzYXPMBtu35lOxzcR4UPqhEzirOvWNw42tgsoDAE4hLcpkKLScXBrqNK9ToMAF9LJI2FO/pgS/cLi1U6KufziVdVr0Cst7hwyeoeT2TYsRWyEo94s5FnU/x0Bg2YVld2gZ9p+zEnQk2wQDheIDiEir7zaine7J/OmN/1pT3XQxZNMk8qsROfEsEyVfU4Q8FFnOhncXYY/Ls/1jwgFFH3Vs/x+D67IIurFwZeUp6qMHIeQIdMd9tAoeiGw+wuAVwS/iqgg4UNJAnOmO1IqwuDWKyOx+H1q+iosFlqQ+T4hjjbJipXa20SMyGFvRi1fKoO209pkX9PrTowb45q1XMw==;fQMXuw8fPcKh+2jPV0oicQ=="

@@ -1,28 +1,28 @@
 ---
 category: news
-title: "AI-backed smartphone app can detect Covid-19 in people using voice, claim scientists"
-excerpt: "According to the researchers, this method can be used in low-income countries where the RT-PCR tests are expensive and difficult to be carried out. The research finding was presented before the European Respiratory Society International Congress in Barcelona,"
-publishedDateTime: 2022-09-05T11:01:00Z
-originalUrl: "https://www.hindustantimes.com/technology/artificial-intelligence-backed-mobile-app-can-detect-covid-19-in-people-using-voice-claim-scientists-101662373586202.html"
-webUrl: "https://www.hindustantimes.com/technology/artificial-intelligence-backed-mobile-app-can-detect-covid-19-in-people-using-voice-claim-scientists-101662373586202.html"
-ampWebUrl: "https://www.hindustantimes.com/technology/artificial-intelligence-backed-mobile-app-can-detect-covid-19-in-people-using-voice-claim-scientists-101662373586202-amp.html"
-cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/artificial-intelligence-backed-mobile-app-can-detect-covid-19-in-people-using-voice-claim-scientists-101662373586202-amp.html"
+title: "Mobile phone app accurately detects COVID-19 infection in people's voices with the help of AI"
+excerpt: "Artificial intelligence (AI) can be used to detect COVID-19 infection in people's voices by means of a mobile phone app, according to research to be presented on Monday at the European Respiratory Society International Congress in Barcelona,"
+publishedDateTime: 2022-09-05T16:29:00Z
+originalUrl: "https://medicalxpress.com/news/2022-09-mobile-app-accurately-covid-infection.html"
+webUrl: "https://medicalxpress.com/news/2022-09-mobile-app-accurately-covid-infection.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-09-mobile-app-accurately-covid-infection.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-mobile-app-accurately-covid-infection.amp"
 type: article
-quality: 50
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: Hindustan Times
-  domain: hindustantimes.com
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI
 
 images:
-  - url: "https://images.hindustantimes.com/img/2022/09/05/1600x900/Covid-19_1662375443909_1662375444098_1662375444098.jpg"
-    width: 1600
-    height: 900
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/mobile-phone-app-accur.jpg"
+    width: 452
+    height: 323
     isCached: true
 
 related:
@@ -42,21 +42,21 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Mobile phone app accurately detects COVID-19 infection in people's voices with the help of AI"
-    excerpt: "Artificial intelligence (AI) can be used to detect COVID-19 infection in people's voices by means of a mobile phone app, according to research to be presented on Monday at the European Respiratory Society International Congress in Barcelona,"
-    publishedDateTime: 2022-09-05T16:29:00Z
-    webUrl: "https://medicalxpress.com/news/2022-09-mobile-app-accurately-covid-infection.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-09-mobile-app-accurately-covid-infection.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-mobile-app-accurately-covid-infection.amp"
+  - title: "AI-backed smartphone app can detect Covid-19 in people using voice, claim scientists"
+    excerpt: "According to the researchers, this method can be used in low-income countries where the RT-PCR tests are expensive and difficult to be carried out. The research finding was presented before the European Respiratory Society International Congress in Barcelona,"
+    publishedDateTime: 2022-09-05T11:01:00Z
+    webUrl: "https://www.hindustantimes.com/technology/artificial-intelligence-backed-mobile-app-can-detect-covid-19-in-people-using-voice-claim-scientists-101662373586202.html"
+    ampWebUrl: "https://www.hindustantimes.com/technology/artificial-intelligence-backed-mobile-app-can-detect-covid-19-in-people-using-voice-claim-scientists-101662373586202-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/artificial-intelligence-backed-mobile-app-can-detect-covid-19-in-people-using-voice-claim-scientists-101662373586202-amp.html"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 46
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 50
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/mobile-phone-app-accur.jpg"
-        width: 452
-        height: 323
+      - url: "https://images.hindustantimes.com/img/2022/09/05/1600x900/Covid-19_1662375443909_1662375444098_1662375444098.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "AI model detects COVID-19 infection in people’s voices"
     excerpt: "Artificial intelligence (AI) can be used to detect COVID-19 infection in people's voices by means of a mobile phone app, according to research to be presented on Monday at the European Respiratory Society International Congress in Barcelona,"
@@ -87,6 +87,6 @@ related:
         height: 214
         isCached: true
 
-secured: "l2USh2haD7idrcBCqo4HWEJeYCshGBzCTNJr904kyu+f5+2auh9O9qvjbFE4q8xo+V6hNWIqLPsqxOHvpbduLwn3hjqgxDuq1rLjHHtejXfPv7hNIqH0k8uLEixwxwQP6LEBNRTFWTaOacIth702tqDZv+fP7ucSrJ6Tadrooa/5puAyw+dPvZIR5LBcW6C5YrfpWO/KBil190ugycvTF5OPw5RW9JOyxQJlDs+MXPAaAjT2SLt/uSDbrkrV4V4lCLEb8JSDS0lWWh2+PTdSlXON2A/8RTqB+cclCeQ1bGVmueVvB9jvAVVDr4+mcSZGPwroODrYDA7PiBjouWazEYxJ+Hge2/3SBCidV6azzyk=;tkOKQSQ9S9wpr7oJJBtipg=="
+secured: "Toszkdt4coZs9i8iEqtUKkUyz7OZihSIR3DQtnE4DUViYpWGt+wa1R1LiFkn1uLCuxg2nTJkDfyXPKSW3phXQNtKA6fd574iKqDsIWccvQcQlewQ2Oqm5NsWvhG5xv8tuhREdVWydPPA7BR9K/rFE2Ie5RCcCwP1uI9RPHKfJN0M5lpM3m3tUVkvfhtvmyVtZYK4lI6Ry3OR8o9ZK5nFs0M/rOBJfICO7dFbmRnRU5gFC3JLuNcSsN5TsvnZwdyyxVVx9bXntKlWr67VMIhNbyNUTbrq4kTEvhhfNJOrbcPoOcR6KvPIftmGugSjKZVC0+YWQW9mbkbJ7EF2N6rBm4Ws/sEU20XhSfXHZ/uGWPI=;nyzH7tCcGPIgwYuCT6OoEg=="
 ---
 

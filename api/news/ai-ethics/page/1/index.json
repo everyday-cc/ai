@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-06-ai-ethics-why-you-should-care.md",
+      "title": "AI Ethics: Why You Should Care",
+      "excerpt": "The confluence of sensor technology, the internet, massive computational resources, and AI - have led to a world where companies may know more about you than your family and friends (and maybe even more than you know about yourself!",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nishatalagala/2022/09/05/ai-ethics-why-you-should-care/",
+      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2022/09/05/ai-ethics-why-you-should-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6316952483979c27434fdbec/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 848,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2022/09/05/ai-ethics-why-you-should-care/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2022/09/05/ai-ethics-why-you-should-care/amp/",
+      "publishedDateTime": "2022-09-05T19:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-04-why-embedding-ai-ethics-and-principles-into-your-organization-is-critical.md",
       "title": "Why embedding AI ethics and principles into your organization is critical",
       "excerpt": "There is likely no future without AI. Ethical development and use of AI should not be contentious — it is a social responsibility.",
@@ -1386,40 +1438,6 @@
         "AI",
         "AI Ethics",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-06-ai-mischief-models-have-the-potential-to-make-a-fresh-internet-hell.md",
-      "title": "AI ‘Mischief Models’ Have the Potential To Make a Fresh Internet Hell",
-      "excerpt": "A YouTuber in the AI community trained an AI language model called “GPT-4chan” to give misogynistic responses to questions. This suggests that many people will be able to use and expand on this AI that espouses hate speech – and that got the attention of the AI ethics community.",
-      "sourceUrl": null,
-      "webUrl": "https://science.thewire.in/the-sciences/ai-mischief-models-internet-ethics/",
-      "originalUrl": "https://science.thewire.in/the-sciences/ai-mischief-models-internet-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-06T01:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Wire",
-        "domain": "thewire.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

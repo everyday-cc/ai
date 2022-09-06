@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/gms-driverless-car-unit-recalls-softw
 webUrl: "https://www.wsj.com/articles/gms-driverless-car-unit-recalls-software-used-in-some-robotaxis-11662041338"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "GM's Cruise recalls, revises self-driving software after crash"
-    excerpt: "General Motors startup unit Cruise LLC said Thursday it had recalled 80 self-driving vehicles and updated their software after a June crash in San Francisco left two people injured."
-    publishedDateTime: 2022-09-01T09:36:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/gms-cruise-recalls-revises-self-driving-software-after-crash-2022-09-01/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://www.reuters.com/resizer/JOqAhF2tr6Sz-OwrSoBK8ivT_To=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/V2MG2V6VQJNHPIAI2U6QYPO2XA.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "GM's Cruise Unit Recalls And Revises Self-driving Software After Crash"
     excerpt: "General Motors' startup unit Cruise LLC said Thursday it had recalled and updated software in 80 self-driving vehicles after a June crash in San Francisco that left two people injured."
     publishedDateTime: 2022-09-01T14:39:00Z

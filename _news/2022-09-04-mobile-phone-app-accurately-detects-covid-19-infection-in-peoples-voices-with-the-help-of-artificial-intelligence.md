@@ -57,6 +57,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Mobile phone app accurately detects COVID-19 infection in people's voices with the help of AI"
+    excerpt: "Artificial intelligence (AI) can be used to detect COVID-19 infection in people's voices by means of a mobile phone app, according to research to be presented on Monday at the European Respiratory Society International Congress in Barcelona,"
+    publishedDateTime: 2022-09-05T16:29:00Z
+    webUrl: "https://medicalxpress.com/news/2022-09-mobile-app-accurately-covid-infection.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-09-mobile-app-accurately-covid-infection.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-mobile-app-accurately-covid-infection.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 46
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/mobile-phone-app-accur.jpg"
+        width: 452
+        height: 323
+        isCached: true
   - title: "AI model detects COVID-19 infection in people’s voices"
     excerpt: "Artificial intelligence (AI) can be used to detect COVID-19 infection in people's voices by means of a mobile phone app, according to research to be presented on Monday at the European Respiratory Society International Congress in Barcelona,"
     publishedDateTime: 2022-09-05T04:45:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.sixthtone.com/news/1011147/a-chinese-ai-powered-robot-
 webUrl: "https://www.sixthtone.com/news/1011147/a-chinese-ai-powered-robot-aims-to-tackle-complex-surgeries?source=channel_home"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Sixth Tone
@@ -38,20 +38,6 @@ related:
       - url: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-08-22/eacde520-ac09-4f53-92dc-685a5ff3117c.jpeg"
         width: 800
         height: 480
-        isCached: true
-  - title: "A Chinese game company has appointed the world’s first humanoid robot as its CEO"
-    excerpt: "Recently, the China-based mobile game company NetDragon Websoft appointed an artificial intelligence-supported virtual human being as the general manager named \"Tang Yu.\" The appointment was made on August 26 and the virtual CEO,"
-    publishedDateTime: 2022-09-01T09:30:00Z
-    webUrl: "https://interestingengineering.com/innovation/chinese-company-humanoid-ceo"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 34
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/2022/09/01/image/png/CAYPMdEhG2k3afEK0YXc9aZImo4CyCrH3FPYgT5V.png"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "v5WFrODq8/w7Rv6umG9EaXO9xosrMm8hbcIc1Pv+T9xh2uRxw0RfB8hGtW1C87HYnHbFLxP4EJEuDTvR7wRLEDJILrdUL8q8WYP2nHnySFxI7MFJOu3W6WqB8IAXM4kL0qSKEgNgMYEelrKAu2Z48JieHJWCiCMwZFrgf7OPjjDeMte2p/3HsyzGBtQVGY6odJAKZJo1Khj8KvSdKuv4cZHRTH9DPmOn1IPFB8E+/rTfSCq8W7etBqT8LluYRYWazjg+j2O9fUl/a1lAssKG8KQdQ6XIgoUZLS/iv7nGmRiiw1QSsz0Rlw2phYj4hJVBb5DHPejoQFcGT1K/09rpaRgmcsg8aWhrmyZHpJX6r+yYfWCcg9jxjzGlgoxOyDFdsSDFIZJkEtDsznYP5C6AGQ81GOzoZFNyPv8xFUJcOs94GvhDVkdE0C1z3o9P37gK/vFyqRJ6Oko09f7G/vbhlOYZ33aQfsojpuuwKqx8UV7iF5c0aIEYvHAszo9Uz3c/ks2RR8xpra61w0SsV6afIA==;mz8NdymaimWtJQMLI2p2xQ=="

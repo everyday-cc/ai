@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AWS AI
 
 images:
   - url: "https://www.electropages.com/storage/app/media/2022/Aug/ai-facial-recognition-og.png"

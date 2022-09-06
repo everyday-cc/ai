@@ -55,20 +55,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "U.S. allows Nvidia to do exports, transfers needed to develop its AI chip"
-    excerpt: "Nvidia Corp said on Thursday that the U.S. government has allowed exports and in-country transfers needed to develop the company's H100 artificial intelligence chip."
-    publishedDateTime: 2022-09-01T10:43:00Z
-    webUrl: "https://www.reuters.com/technology/us-allows-nvidia-do-exports-transfers-needed-develop-its-ai-chip-2022-09-01/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 87
-    images:
-      - url: "https://www.reuters.com/resizer/qkwow85lqROrYmQSCg3MurxYbWg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YHNENNNI3JN4ZJXKIUWO7ZIX5U.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "U.S. allows Nvidia exports needed to develop flagship AI chip"
     excerpt: "Nvidia Corp said on Thursday the U.S. government has allowed exports needed to complete the development of its flagship artificial intelligence chip, a day after it disclosed that Washington had restricted shipments of two chips to China."
     publishedDateTime: 2022-09-01T13:44:00Z
@@ -175,6 +161,15 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "With New China AI Chip Restrictions, U.S. Takes Aim at a Critical Niche"
+    excerpt: "(Reuters) - The United States beefed up its effort to cut off the flow of advanced technology to China by instructing Nvidia Corp and Advanced Micro Devices to stop sending their flagship ..."
+    publishedDateTime: 2022-09-01T20:55:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2022-09-01/with-new-ai-chip-rules-u-s-takes-aim-at-a-critical-niche"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
   - title: "US Deals Heavy Blow to China Tech Ambitions With Nvidia Chip Ban"
     excerpt: "The US government’s new restrictions on the ability of Nvidia Corp. to sell artificial intelligence chips to Chinese customers threatens to deal a heavy blow to the country’s development of a sweeping range of cutting-edge technologies."
     publishedDateTime: 2022-09-02T10:58:00Z
@@ -207,20 +202,6 @@ related:
         width: 960
         height: 720
         isCached: true
-  - title: "Nvidia told it can't export AI chips to China"
-    excerpt: "We don't want them cleverer than us US officials have told Nvidia to stop exporting two top computing chips for artificial intelligence work to China. The move is basically an attempt by US companies to cripply Chinese operations in areas such as image recognition."
-    publishedDateTime: 2022-09-01T09:38:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/55418-nvidia-told-it-can-t-export-ai-chips-to-china"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/fd5322ba610c30c44b7ae1edce12f434_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "Officials limit Nvidia's ability to provide AI chips to China"
     excerpt: "United States officials told the chip design company Nvidia that it had to stop exporting computing chips to China."
     publishedDateTime: 2022-09-01T15:41:00Z
@@ -234,20 +215,6 @@ related:
       - url: "https://mediadc.brightspotcdn.com/dims4/default/f970c4f/2147483647/strip/true/crop/1024x538+0+60/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F36%2F8a%2F7fa100f24894b95d25da3ee68bd4%2Fap22126534046833.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "US blocks Nvidia AI chip exports to China"
-    excerpt: "China has condemned a US move to end its access to high-end processors made by chipmaker Nvidia, after Washington stepped up its efforts to restrict exports of cutting-edge technology to its trade and military rival."
-    publishedDateTime: 2022-09-01T09:37:00Z
-    webUrl: "https://www.ft.com/content/7005d5d2-b02f-4092-a35c-8b44889a5f90"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/global-trade.jpg"
-        width: 619
-        height: 377
         isCached: true
   - title: "US restricts exports of advanced AI chips to China and Russia"
     excerpt: "The U.S. government has implemented new restrictions that will limit exports of advanced artificial intelligence chips to China and Russia. Nvidia Corp., the leading maker of AI chips, disclosed in a Wednesday regulatory filing that it had been notified of the restrictions on August 26."
@@ -263,20 +230,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "With new China AI chip restrictions, US takes aim at a critical niche"
-    excerpt: "The restricted chips have the ability to carry out AI calculations quickly, at huge scale, and with high precision, necessary for tasks such as designing fighter jets The United States beefed up ..."
-    publishedDateTime: 2022-09-02T11:27:00Z
-    webUrl: "https://www.rappler.com/technology/china-ai-chip-nvidia-amd-restrictions-september-2022/"
-    type: article
-    provider:
-      name: Rappler
-      domain: rappler.com
-    quality: 54
-    images:
-      - url: "https://www.rappler.com/tachyon/2022/09/reuters-nvidia-sept-2022-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "Sale of top AI chips to be halted with China per U.S. decree"
     excerpt: "YARMOUTH, Maine – Multinational American technology company NVIDIA said in a Securities and Exchange Commission filing August 26 that U.S. Government officials are enforcing the restriction of sales for its top AI chips with China. The move comes as ..."
     publishedDateTime: 2022-09-02T17:47:00Z
@@ -290,6 +243,20 @@ related:
       - url: "https://www.securitysystemsnews.com/uploads/blog/74394b321735772373628bfa536213a9.jpg"
         width: 260
         height: 260
+        isCached: true
+  - title: "Nvidia outlook: the US bans AI chips to China and Russia"
+    excerpt: "The end of August saw Nvidia state in an SEC filing that the US government is restricting the sale of its high-performance AI chips to China and Russia. The chips, created for the A100 and H100 servers,"
+    publishedDateTime: 2022-09-06T02:14:00Z
+    webUrl: "https://www.ig.com/en-ch/news-and-trade-ideas/nvidia-outlook--the-us-bans-ai-chips-to-china-and-russia-220906"
+    type: article
+    provider:
+      name: ig.com
+      domain: ig.com
+    quality: 54
+    images:
+      - url: "https://a.c-dn.net/c/content/dam/publicsites/igcom/uk/images/news-article-image-folder/bg_nvidia_333689036.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "US deals heavy blow to China tech ambitions with Nvidia chip ban"
     excerpt: "The US government’s new restrictions on the ability of Nvidia Corp to sell artificial intelligence (AI) chips to Chinese customers threatens to deal a heavy blow to the country’s development of a sweeping range of cutting-edge technologies."

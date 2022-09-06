@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why DeepMind Is Sending AI Humanoids to Soccer Camp"
-    excerpt: "There’s controlling the full humanoid body, coordination—which is really tough for AGI—and actually mastering both low-level motor control and things like long-term planning.” An AI has to re-create everything human players do—even the things we don’t have to consciously think about,"
-    publishedDateTime: 2022-09-02T11:00:00Z
-    webUrl: "https://www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-camp/"
-    ampWebUrl: "https://www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-camp/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-camp/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 106
-    images:
-      - url: "https://media.wired.com/photos/631134163dfe1372fb611162/master/pass/soccer_HZ_science_GettyImages-520264154.jpg"
-        width: 2400
-        height: 1799
-        isCached: true
   - title: "Forget chess, DeepMind’s training its new AI to play football"
     excerpt: "Watch out footballers, a new challenger has entered the arena as DeepMind switches its focus from board games to the world's favorite sport."
     publishedDateTime: 2022-09-01T22:09:00Z
@@ -71,19 +55,19 @@ related:
         width: 1600
         height: 1000
         isCached: true
-  - title: "Meta develops mind-reading AI model"
-    excerpt: "Researchers from Meta developed an AI model that decodes speech from thought. The technology allows people to produce words without speaking. When humans"
-    publishedDateTime: 2022-09-05T07:55:00Z
-    webUrl: "https://www.techzine.eu/news/analytics/87881/meta-develops-mind-reading-ai-model/"
+  - title: "Why DeepMind Is Sending AI Humanoids to Soccer Camp"
+    excerpt: "DeepMind’s attempt to teach an AI to play soccer started with a virtual player writhing around on the floor—so it nailed at least one aspect of the game right from kickoff. But pinning down ..."
+    publishedDateTime: 2022-09-02T12:00:00Z
+    webUrl: "https://www.wired.co.uk/article/alphabet-deepmind-ai-humanoids-soccer-camp"
     type: article
     provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 39
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 54
     images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2022/01/Meta-Whatsapp.png"
-        width: 1500
-        height: 800
+      - url: "https://media.wired.co.uk/photos/63111e070bb794e4e22df11b/16:9/w_1280,c_limit/soccer_HZ_science_GettyImages-520264154.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "7b6h06Fc72Yux/Db4YFsFP1yPIh83bc5D6WDvXZ4rtBxTauJ/53UFa24vTV5L87QUDbVFCTxzhn7MPcKXo3wJt8ldFK5mpC6A8SfXvUru6zngr4rYBc6omU98e+6B+zdWL0TO7OKGON1KBXOY4HpVaccqD0V/BQSFCRWHDL9KSnQwwuS7VR+XnTncnT5BaWys+NMCV9gEK6E5jYKmjVxV5h/hoizz+12sL//iepYU26gRrj5idjuJ8ulIXtPoYGonGkh6lBUhlJ9ll8Dcd/IxYSL4U3/flgpJruSmqbsJBiFIT5m/wKX4v1zKSgYGvXvSy5+FkacLrZuvStTdSyiMpEQJYekRzRQxrc39QAy7WQ=;tqGWpxfYod7ORAtPiUOy8g=="
