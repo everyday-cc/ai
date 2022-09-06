@@ -2,41 +2,19 @@
 category: news
 title: "What you know changes how you see things"
 excerpt: "Researchers at the George Washington University have gained important insight into how the human brain processes an object in the visual system and where in the brain this processing takes place. Their study,"
-publishedDateTime: 2022-08-31T20:39:00Z
-originalUrl: "https://medicalxpress.com/news/2022-08-what-you-how-things.html"
-webUrl: "https://medicalxpress.com/news/2022-08-what-you-how-things.html"
-ampWebUrl: "https://medicalxpress.com/news/2022-08-what-you-how-things.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-what-you-how-things.amp"
+publishedDateTime: 2022-08-31T20:20:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/963472"
+webUrl: "https://www.eurekalert.org/news-releases/963472"
 type: article
-quality: 44
-heat: 44
-published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/vision.jpg"
-    width: 2880
-    height: 1920
-    isCached: true
-
-related:
-  - title: "Past experiences can literally change how we see things"
-    excerpt: "Past experiences can literally change how we see things • Earth.com"
-    publishedDateTime: 2022-09-01T11:25:00Z
-    webUrl: "https://www.earth.com/news/past-experiences-can-literally-change-how-we-see-things/"
-    type: article
-    provider:
-      name: earth
-      domain: earth.com
-    quality: 4
-
-secured: "JyKguASOLu8cuy0j81CEVF85c0g1Vrf+PBu98a4C+fiXxnZpH5AIYScXRaASFsF4Z+Bsx0nUy7m39kXgOhg+vZE8JqAaYcyDElaMpWAKxO8nWxu+tpijq5G5dJlQ2ZfOheZncN+gYhtZ3JsxkMBIs/atzDmK3fxhjo2D7poQJS1J1VUklfHORsiT3ZFseJ+uxG4F/jiXT4wMOvGhQvHp7u8RJSbkX6/A39zgcy4kjA5jpIFYLpAIHVJM9Z2XS3vBc4vE8ZKRitHJCCm0LiezpdzY5wHFxcfLkSu7a+cn/0ZiyBX5Q9BrX9iAxibMOsQ1F2I9Ple8qB6AJJuCbaIpnLrv/Q/L/Qm6C0v9iNr5O1XAQcgP7lEu7JgC1ms2WzT4iVgthFOvLCpR9rc0l+/Gug03pE0f/JKVMtGSsRxgGyzdq/JsGi/ScS7H2qgRsFr/9E/llXlj5bEOOjwQddeUk3IDmyfm8c8tv0mP87Qw6c719kJLLa9Ec0a1qHbE0ZMSZKHIZ/d6guLSz4Xm7Pn/5Q==;NLzD47Lwxp9xHiPy+ZOPAQ=="
+secured: "8llaMz/m6eleCDRQIa8FI0OQ+IQfWWiTOH1T/JrNI/KzN5a4IRxwygHUji/b1F6u8WJStl66Ui6yThDQTivRGt7QAzKBGw6BT1FRmQkbk6ZRMCqB3kYFMEYqZgvLnJyvtnOE5zwAkT8QyRwkNsUrfvE6mSKd/Gp1yNkOUMy3IrsL4G67EL6ZWSM/aDTNngpnsxLejxcQjay9Wjfi21Mmjf0YIZUS6ve+BWUneTJrA83LYGmAvQgkU5keRd0JkIIBd1Qae8eoF6rJMrBrCM9/XprcVm0zGhnrHJ35+jc/7SvwobxcnOB2/gXx/gB6OUI2eDbhuNOyFK6svfyGkuwYYolFQMg9381dBNNtQpV4AyYXnZRaw3k2BNVWDtJluMY9aj0xybenuMWMMUJB8UtxfTuehXKU3r6Zrn3BQlqBlGadQOGRDgPvDsp3MNueYZ4E4JLVDagw+VrlPaXcYjjm4L7BaNKiOzNsIjuru1vgnrpiy1Q6S1lme17C67zUHxzjaKFGK/Jkgk0X448guYYMBg==;y3+Q+KJ6Q8dV7xNgK67HFQ=="
 ---
 

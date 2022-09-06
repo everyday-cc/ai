@@ -5,26 +5,16 @@ excerpt: "A new study demonstrates how AI deep learning can be used to diagnose 
 publishedDateTime: 2022-09-05T16:01:00Z
 originalUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound"
 webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound?amp"
 type: article
-quality: 57
-heat: 57
-published: false
 
 provider:
   name: Psychology Today
   domain: psychologytoday.com
 
 topics:
+  - Computer Vision
   - AI
 
-images:
-  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-09/pic27777.gif.jpg?itok=UL6r1b41"
-    width: 1528
-    height: 800
-    isCached: true
-
-secured: "vixwoJQf/K+f40Vx/qg+BFFFyi92hgFitK1KzfryFgSP8vqHD77S5CnDZxrLHpzwxwl47hqjJs4mRDXuSbO4YzG2VePW+h3BEPGN+MqqyqmfcMyhNY6+2smF5NUoq46T7TwQ+L3HhBQ1MOOGOJ08Uy0v224TTUhm//fPKSJZ/hjWfszU3fvaCpFnJeKoT3/6xC6VfRZssJr3gyhbQyD+5/J7PXvpXoXUsYX+zVNWmNbcqXsAxFEnw+j9B07+VBU662rT55o+9Amux/rA81vfUvyoJrRaNzdnA6lgTSKHrkWlL4nZgIyV0t5UCtUYAOmSzSLI3k4iDn0MAiXihBSva3XXO/90MJLOCBLnrzrGF0w=;GG3pQryK8u8VivmSaSkCuQ=="
+secured: "8Pdm6XrIiBF2pD460OMV8qVHnhfx1HAtBTmaIME70ksltpYCFAe4K2fD/8IWWKrgnw6MX1HttgmGiENy8/1mvTK6DHdboqujMyfEf7tTOVimj59USFL/qWglJWR+hAAnnSjWdJK6UWAjkQG7ecy98i3C1Cmcy/TPUCvk8jg55i8Ke9G/Ll78itCwA6/kWbKmfKmJwzsg8a0iHj2ZHV7LnJ7ash0S/4vkUTvO48BwsVHyCTXGgiRrNMJbAGhZivXbR/N14aN2M1VgR5j7RoM2fVC48f0163vrWCm+jmHUWjdNIyzIc862UtMTs8kyVJ8v0UcObPv5y03O2W0ng96DNf+yp4+iBfsNJ7rM2FPmg6MohFveHhV0psU6OgpxIH8BtNYD13gdSkKCFaj9FG4Vf+H2GsaRjp12muOszz0jSChDKBukf4fqiyRXGHUtkIX4OHRHJiitGsCo2m8+zBQ4rL62CnL733Tm5++yjk+Lwj1q3qVKR9FU52yhBj2oKeeG6u+ltd0xYXJHe3/ENrMfrQ==;8jDbZvSwTYnPwDS9PHLW5Q=="
 ---
 
