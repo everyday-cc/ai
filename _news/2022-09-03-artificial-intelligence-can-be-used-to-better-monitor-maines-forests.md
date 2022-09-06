@@ -7,8 +7,8 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/09/220902154904.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/09/220902154904.htm"
 type: article
 quality: 68
-heat: 88
-published: true
+heat: -1
+published: false
 
 provider:
   name: Science Daily
@@ -35,7 +35,7 @@ related:
     provider:
       name: Phys.org
       domain: phys.org
-    quality: 66
+    quality: 68
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-63.jpg"
         width: 2880

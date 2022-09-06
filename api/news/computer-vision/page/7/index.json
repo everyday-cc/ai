@@ -2,6 +2,84 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-23-nvidias-ai-powered-3d-moma-tool-turns-2d-photos-into-3d-mesh-models.md",
+      "title": "NVIDIA's AI-Powered 3D MoMa Tool Turns 2D Photos Into 3D Mesh Models",
+      "excerpt": "Turning still 2D photos into 3D rendered mesh models is not a quick or particularly easy task, but perhaps not for long.",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/nvidia-ai-powered-3d-moma-tool-2d-photos-mesh-models",
+      "originalUrl": "https://hothardware.com/news/nvidia-ai-powered-3d-moma-tool-2d-photos-mesh-models",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/58911/content/NVIDIA_3D_MoMa_Hero.jpg",
+          "width": 708,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/nvidia-ai-powered-3d-moma-tool-2d-photos-mesh-models",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-ai-powered-3d-moma-tool-2d-photos-mesh-models",
+      "publishedDateTime": "2022-06-22T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-human-like-eye-movements-improve-object-recognition-in-machine-vision-video.md",
+      "title": "Human-like eye movements improve object recognition in machine vision (VIDEO)",
+      "excerpt": "A self-driving car uses human-like saccadic eye movements and correctly identifies a stop sign in time to stop.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/multimedia/939334",
+      "originalUrl": "https://www.eurekalert.org/multimedia/939334",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul.md",
       "title": "Microsoft limits access to facial recognition tool in AI ethics overhaul",
       "excerpt": "Company also restricts use of custom neural voice technology owing to deepfake concerns Microsoft is overhauling its artificial intelligence ethics policies and will no longer let companies use its technology to do things such as infer emotion, gender or ...",
@@ -1272,83 +1350,6 @@
       "provider": {
         "name": "Tech Guide",
         "domain": "techguide.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-pny-and-smartcow-join-forces-to-offer-ai-edge-solutions-for-smart-cities.md",
-      "title": "PNY and SmartCow Join Forces to Offer AI Edge Solutions for Smart Cities",
-      "excerpt": "The strategic partnership strengthens PNY's position as a global provider of electronic solutions for high-growth markets with real-world AI solutions from SmartCow for industry-leading smart city development MÉRIGNAC,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/06/14/9621450.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/06/14/9621450.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial.md",
-      "title": "Facial recognition technology: how it’s being used in Ukraine and why it’s still so controversial",
-      "excerpt": "Facial recognition technology is being used in warfare for the first time. It could be a game changer in Ukraine, where it is being used to identify the dead and reunite families.",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171",
-      "originalUrl": "https://theconversation.com/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/467210/original/file-20220606-24-utzinn.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=208&fit=crop",
-          "width": 320,
-          "height": 208,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facial-recognition-technology-how-its-being-used-in-ukraine-and-why-its-still-so-controversial-183171",
-      "publishedDateTime": "2022-06-14T03:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
         "images": null,
         "publishers": null,
         "authors": null

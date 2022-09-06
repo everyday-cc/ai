@@ -57,6 +57,20 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "Why your chatbot sucks — and what you can do about it"
+    excerpt: "But even as today's bots struggle with accuracy and communication, the industry continues to believe in their potential."
+    publishedDateTime: 2022-09-06T16:05:00Z
+    webUrl: "https://www.mmm-online.com/home/channel/features/why-your-chatbot-sucks-and-what-you-can-do-about-it/"
+    type: article
+    provider:
+      name: MM&M
+      domain: mmm-online.com
+    quality: 24
+    images:
+      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2022/09/GettyImages-1337617436_edited-4-copy.jpg"
+        width: 1024
+        height: 650
+        isCached: true
 
 secured: "gdItqVy4tkzfp6BEDWywt0RCtaBYFx20AD+geAxk9mXFEJQ6lj2VWFMBnDP8evvz2MXuDtyCoiNFLfg+qh5NG66a9cWk1nR93SCA14Heh3t1G2qjshYjEt6HTo90JV9m0TglLaUaKnrrfCUjE0B/SQRmdy1N5xwpmswXelZm6OXtzcOD3p/q0IipoDEWwRFrFgRdHj94cIuqiber1P+b2430kYRKX9sc5kpLLMkWnvoxWd+pP/MOwvwVMvv/1uTF6/DkB9JZTU49IRt7BH8/UplKNyBD1y56HmaJLY1F2JPtFPuKWLoWnPPYCkJ9m1QQfAZsKm78mrEDZNTOTcKvoKWpqHIBXq7/H2FCzlgeNxeS/AI7S+Zj97d/M7mtBUHPwa4tlkt7aXUq+MeXLCWJk2zg85pzOAwMOLstQcNnhBys8PZ7FcuOwdchf204nVUV7JNke1jxvs6dQxpSOVKn1gP3Xt+8wTFiV/ZjIkpVqUYcSX7zGmckxGIW3XlOjCIew3kpxP1k3idvTY/chAS0WA==;5WIz8G5nuuVfclGQip9lRg=="
 ---

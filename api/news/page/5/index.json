@@ -2,6 +2,339 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-08-31-mi5-reveals-it-has-been-working-with-an-ai-non-profit-on-national-security-since-2017.md",
+      "title": "MI5 reveals it has been working with an AI non-profit on national security since 2017",
+      "excerpt": "The security service has been working with The Alan Turing Institute and has decided to unveil the partnership today to allow the pair to work more closely together",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368922/mi5-reveals-it-has-been-working-with-an-ai-non-profit-national-security-2017",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368922/mi5-reveals-it-has-been-working-with-an-ai-non-profit-national-security-2017",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1661941040/itpro/2022/August/MI5_HQ_Thames_House_London_spy_GettyImages-182911822.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T03:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-ai-in-fintech-global-market-to-reach-2417-billion-by-2026.md",
+      "title": "AI in FinTech Global Market to Reach $24.17 Billion by 2026",
+      "excerpt": "AI in FinTech Global Market to Reach $24.17 Billion by 2026 Aug 31, 2022 (PRNewswire via COMTEX) -- PR Newswire DUBLIN, DUBLIN, Aug. 31,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-global-market-to-reach-2417-billion-by-2026-2022-08-31",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-global-market-to-reach-2417-billion-by-2026-2022-08-31",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology.md",
+      "title": "Removing the data security barriers and concerns to accelerate speech recognition usage in radiology",
+      "excerpt": "According to Scribetech, security is a key barrier to adopting speech recognition – despite its potential to accelerate reporting time, drive accuracy, and enable radiologists to deal with a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.woodtv.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/",
+      "originalUrl": "https://www.woodtv.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.woodtv.com/wp-content/uploads/sites/51/2016/01/gasprices_38520048_ver1.0.jpg?w=2000&#038;ssl=1",
+          "width": 651,
+          "height": 373,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T01:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WOOD-TV",
+        "domain": "woodtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-hovertouch-first-ai-and-computer-vision-solution-launched-by-spacee-that-transforms-existing-retail-surfaces-into-interactive-customer-experiences.md",
+      "title": "HoverTouch: First AI and Computer Vision Solution launched by Spacee that Transforms Existing Retail Surfaces Into Interactive Customer Experiences",
+      "excerpt": "About Spacee Spacee provides the best computer vision and AI solutions that help businesses drive new insights, improve efficiency and boost revenue. Spacee's interactive displays help engage and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56938910-hovertouch-first-ai-and-computer-vision-solution-launched-by-spacee-that-transforms-existing-retail-surfaces-into-interactive-customer-experiences-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56938910-hovertouch-first-ai-and-computer-vision-solution-launched-by-spacee-that-transforms-existing-retail-surfaces-into-interactive-customer-experiences-008.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T01:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-baidu-claims-its-robotaxis-have-grabbed-10-of-the-ride-hailing-market-in-a-suburb-of-beijing.md",
+      "title": "Baidu claims its robotaxis have grabbed 10% of the ride-hailing market in a suburb of Beijing",
+      "excerpt": "Chinese tech giant Baidu said its robotaxis have grabbed about 10% of the ride-hailing market in a suburb of Beijing city. Baidu began offering free robotaxi rides in the suburban region in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/08/31/baidu-claims-its-robotaxis-have-grabbed-10percent-of-a-ride-hailing-market.html",
+      "originalUrl": "https://www.cnbc.com/2022/08/31/baidu-claims-its-robotaxis-have-grabbed-10percent-of-a-ride-hailing-market.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107111680-1661904834859-gettyimages-1355764512-vcg111359334633.jpeg?v=1661907038",
+          "width": 3988,
+          "height": 2652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/08/31/baidu-claims-its-robotaxis-have-grabbed-10percent-of-a-ride-hailing-market.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/08/31/baidu-claims-its-robotaxis-have-grabbed-10percent-of-a-ride-hailing-market.html",
+      "publishedDateTime": "2022-08-30T22:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-start-talking-the-true-potential-of-conversational-ai-in-the-enterprise.md",
+      "title": "Start talking: The true potential of conversational AI in the enterprise",
+      "excerpt": "A holistic approach, good governance, and internal lifecycle automation are key factors of success in implementing conversational AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/start-talking-the-true-potential-of-conversational-ai-in-the-enterprise/",
+      "originalUrl": "https://venturebeat.com/ai/start-talking-the-true-potential-of-conversational-ai-in-the-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1324517786-Andrey-Suslov.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/start-talking-the-true-potential-of-conversational-ai-in-the-enterprise/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/start-talking-the-true-potential-of-conversational-ai-in-the-enterprise/amp/",
+      "publishedDateTime": "2022-08-30T21:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.md",
+      "title": "TensorFlow, PyTorch, and JAX: Choosing a deep learning framework",
+      "excerpt": "Three widely used frameworks are leading the way in deep learning research and production today. Which one should you use?",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/701064/tensorflow-pytorch-jax-choosing-deep-learning-framework/?fp=2&fpid=1",
+      "originalUrl": "https://www.arnnet.com.au/article/701064/tensorflow-pytorch-jax-choosing-deep-learning-framework/?fp=2&fpid=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_107745072.jpg",
+          "width": 473,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T19:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI",
+        "Facebook AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2022-08-31-software-engineering-manager-machine-learning-.md",
       "title": "Software Engineering Manager ( Machine Learning )",
       "excerpt": "Your mission, should you choose to accept it: You will manage a team of Machine Learning Software Engineers & Data Scientists constantly striving for quality solutions that are delivered on time, within budget and scope, and drive a culture of quality and ...",
@@ -512,6 +845,51 @@
       ]
     },
     {
+      "path": "_news/2022-08-30-us-startup-simaai-starts-shipping-machine-learning-chip-and-system.md",
+      "title": "U.S. Startup SiMa.ai Starts Shipping Machine Learning Chip And System",
+      "excerpt": "industrial robots, and eventually self-driving cars in, San Jose, California, U.S., in this undated handout photo. Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305",
+      "originalUrl": "https://www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.ibtimes.com/en/full/3810267/us-startup-simaai-starts-shipping-machine-learning-chip-system.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305?amp=1",
+      "publishedDateTime": "2022-08-30T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-how-self-supervised-learning-may-boost-medical-ai-progress.md",
       "title": "How self-supervised learning may boost medical AI progress",
       "excerpt": "Self-supervised learning in healthcare and medicine is growing, thanks to the vast amount of unstructured data available in that industry.",
@@ -803,363 +1181,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-industrys-first-autonomous-spreader-debuts-at-farm-progress-show.md",
-      "title": "Industry’s first autonomous spreader debuts at Farm Progress Show",
-      "excerpt": "Case IH and Raven Industries introduce the agriculture industry’s first autonomous spreader: the Case IH Trident ™ 5550 applicator with Raven Autonomy ™. Unveiled at Farm Progress Show 2022, this innovative solution delivers on customers’ demands for autonomous equipment to help solve labor challenges and increase productivity on their operations.",
-      "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-30-industrys-first-autonomous-spreader-debuts-at-farm-progress-show",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-30-industrys-first-autonomous-spreader-debuts-at-farm-progress-show",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-industrys-first-autonomous-spreader-debutsat-farm-progress-show.md",
-      "title": "Industry’s first autonomous spreader debutsat Farm Progress Show",
-      "excerpt": "Case IH and Raven Industries introduce the agriculture industry’s first autonomous spreader: the Case IH Trident™",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/industrys-first-autonomous-spreader-debutsat-farm-progress-show-2022-08-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/industrys-first-autonomous-spreader-debutsat-farm-progress-show-2022-08-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-i-have-face-blindness.md",
-      "title": "I Have Face Blindness.",
-      "excerpt": "I Have Face Blindness. This Is How I Recognize You. When you can’t rely on facial recognition, you look beyond the obvious. When you can’t rely on facial recognition, you look beyond the obvious.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/08/30/opinion/face-blindness-prosopagnosia.html",
-      "originalUrl": "https://www.nytimes.com/2022/08/30/opinion/face-blindness-prosopagnosia.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/10/28/autossell/FACE_BLINDNESS_16x9/FACE_BLINDNESS_16x9-facebookJumbo.png",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/08/30/opinion/face-blindness-prosopagnosia.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/08/30/opinion/face-blindness-prosopagnosia.amp.html",
-      "publishedDateTime": "2022-08-30T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-altavec-uses-aws-ml-for-bushfire-prevention.md",
-      "title": "Altavec uses AWS ML for bushfire prevention",
-      "excerpt": "Altavec has been the trusted partner of Australian utilities for over 20 years. Delivering excellence in geospatial services via advanced geoanalytics, our technology platform empowers best-practice asset management using complex data to provide informed and actionable insights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.spatialsource.com.au/altavec-uses-aws-ml-for-bushfire-prevention/",
-      "originalUrl": "https://www.spatialsource.com.au/altavec-uses-aws-ml-for-bushfire-prevention/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.spatialsource.com.au/wp-content/uploads/2022/08/Altavec_web.jpg",
-          "width": 624,
-          "height": 442,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Spatial Source",
-        "domain": "spatialsource.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-this-mighty-brain-chip-is-so-efficient-it-could-bring-advanced-ai-to-your-phone.md",
-      "title": "This Mighty Brain Chip Is So Efficient It Could Bring Advanced AI to Your Phone",
-      "excerpt": "The NeuRRAM chip is a powerful neuromorphic computing behemoth with 48 parallel cores and 3 million memory cells.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2022/08/30/this-brain-inspired-chip-ups-ai-computing-efficiency-while-using-less-energy/",
-      "originalUrl": "https://singularityhub.com/2022/08/30/this-brain-inspired-chip-ups-ai-computing-efficiency-while-using-less-energy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2022/08/UCSD-JacobsSchool-20220815-Cauwenberghs-NeuRRam-00571-e-8MP.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2022/08/30/this-brain-inspired-chip-ups-ai-computing-efficiency-while-using-less-energy/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/08/30/this-brain-inspired-chip-ups-ai-computing-efficiency-while-using-less-energy/?amp=1",
-      "publishedDateTime": "2022-08-30T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-us-startup-simaai-starts-shipping-machine-learning-chip-and-system.md",
-      "title": "U.S. startup SiMa.ai starts shipping machine learning chip and system",
-      "excerpt": "Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management & Research Company, said on Tuesday it started shipping chips and systems to customers that are testing them, an important step for mass production. We apologize ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system",
-      "originalUrl": "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-innovative-payment-solutions-introduces-voice-command-function-for-ipsipay-app-through-collaboration-with-conversational-ai-technology-provider.md",
-      "title": "Innovative Payment Solutions Introduces Voice Command Function for IPSIPay App Through Collaboration with Conversational AI Technology Provider DRUID",
-      "excerpt": "William Corbett, IPSI’s Chairman and Chief Executive Officer, commented, “We believe our new collaboration with DRUID will dramatically enhance the functionality of our IPSIPay App, enabling users to execute remittances and other transactions,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-43dd32330de56b40d4b503cdbbed5410",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-43dd32330de56b40d4b503cdbbed5410",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-nvidia-dell-vmware-add-ai-zero-trust-security-into-new-data-center-package.md",
-      "title": "Nvidia, Dell, VMware add AI, zero-trust security into new data center package",
-      "excerpt": "Dell servers containing Nvidia DPUs, GPUs, and VMware vSphere 8 use multiple firewalls to improve security for cloud-based workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nvidia-dell-vmware-add-ai-zero-trust-security-into-new-data-center-package/",
-      "originalUrl": "https://www.zdnet.com/article/nvidia-dell-vmware-add-ai-zero-trust-security-into-new-data-center-package/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/31ca8a86b0b988f06219255b37675f4373f61dcd/2021/06/09/9a678cf1-16a0-46b5-b168-4a1cf67d1a6c/data-center.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-dell-vmware-add-ai-zero-trust-security-into-new-data-center-package/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-dell-vmware-add-ai-zero-trust-security-into-new-data-center-package/",
-      "publishedDateTime": "2022-08-30T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security",
-        "AI Hardware"
       ]
     }
   ],

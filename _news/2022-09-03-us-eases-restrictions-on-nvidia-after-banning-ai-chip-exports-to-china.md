@@ -27,51 +27,63 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia says U.S. government allows A.I. chip development in China"
-    excerpt: "Nvidia said in an SEC filing Wednesday that the U.S. government is restricting sales of high-performance AI chips for servers, the A100 and H100, to China and Russia. Sales of both chips are still ..."
-    publishedDateTime: 2022-09-01T23:25:00Z
-    webUrl: "https://www.cnbc.com/2022/09/01/nvidia-says-us-government-allows-ai-chip-development-in-china.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2022/09/01/nvidia-says-us-government-allows-ai-chip-development-in-china.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/09/01/nvidia-says-us-government-allows-ai-chip-development-in-china.html"
+  - title: "This is likely why US banned AI chips to China"
+    excerpt: "High-profile universities and state-run research institutes in China have been relying on a US computing chip to power their artificial intelligence (AI) technology but whose export to the country Washington has now restricted,"
+    publishedDateTime: 2022-09-06T11:06:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/this-is-likely-why-us-banned-ai-chips-to-china/articleshow/94026320.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/this-is-likely-why-us-banned-ai-chips-to-china/amp_articleshow/94026320.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/this-is-likely-why-us-banned-ai-chips-to-china/amp_articleshow/94026320.cms"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 89
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 74
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107067150-1653504509165-gettyimages-1399238927-0j5a8860_7b828a63-4abc-4260-8e26-82fd1b37b3b6.jpeg?v=1653504562"
-        width: 1024
-        height: 683
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-94026320,imgsize-171552,width-800/94026320.jpg"
+        width: 800
+        height: 533
         isCached: true
-  - title: "US Deals Heavy Blow to China Tech Ambitions With Nvidia Chip Ban"
-    excerpt: "The US government’s new restrictions on the ability of Nvidia Corp. to sell artificial intelligence chips to Chinese customers threatens to deal a heavy blow to the country’s development of a sweeping range of cutting-edge technologies."
-    publishedDateTime: 2022-09-02T10:58:00Z
-    webUrl: "https://www.bnnbloomberg.ca/us-deals-heavy-blow-to-china-tech-ambitions-with-nvidia-chip-ban-1.1813842"
-    ampWebUrl: "https://www.bnnbloomberg.ca/us-deals-heavy-blow-to-china-tech-ambitions-with-nvidia-chip-ban-1.1813842.amp.html"
-    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/us-deals-heavy-blow-to-china-tech-ambitions-with-nvidia-chip-ban-1.1813842.amp.html"
+  - title: "US views AI chips as industrial security and a treasure not to be shared freely"
+    excerpt: "Washington is embargoing AI chips and directing manufacturing. The chips play an increasing role in facial and other biometric recognition systems."
+    publishedDateTime: 2022-09-02T21:08:00Z
+    webUrl: "https://www.biometricupdate.com/202209/us-views-ai-chips-as-industrial-security-and-a-treasure-not-to-be-shared-freely"
     type: article
     provider:
-      name: bnnbloomberg
-      domain: bnnbloomberg.ca
-    quality: 61
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 67
     images:
-      - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1813843!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/nvidia-headquarters-in-santa-clara-california-u-s-on-tuesday-feb-23-2021-nvidia-corp-is-expected-to-release-earnings-figures-on-february-24.png"
-        width: 620
-        height: 349
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/02162027/computer-chips-scaled.jpg"
+        width: 2048
+        height: 1069
         isCached: true
-  - title: "AI Chips and China, Geopolitical Considerations, Nvidia Considerations"
-    excerpt: "Nvidia and AMD graphics chips are barred from sale in China, signaling a permanent shift in the U.S.’s approach to selling tech to China"
-    publishedDateTime: 2022-09-06T11:01:00Z
-    webUrl: "https://stratechery.com/2022/ai-chips-and-china-geopolitical-considerations-nvidia-considerations/"
+  - title: "Sale of top AI chips to be halted with China per U.S. decree"
+    excerpt: "YARMOUTH, Maine – Multinational American technology company NVIDIA said in a Securities and Exchange Commission filing August 26 that U.S. Government officials are enforcing the restriction of sales for its top AI chips with China. The move comes as ..."
+    publishedDateTime: 2022-09-02T17:47:00Z
+    webUrl: "https://www.securitysystemsnews.com/article/sale-of-top-ai-chips-to-be-halted-with-china-per-u-s-decree"
     type: article
     provider:
-      name: Stratechery
-      domain: stratechery.com
+      name: Security Systems News
+      domain: securitysystemsnews.com
     quality: 54
     images:
-      - url: "https://i0.wp.com/stratechery.com/wp-content/uploads/2018/03/cropped-android-chrome-512x512-1.png?fit=512%2C512&#038;ssl=1"
-        width: 512
-        height: 512
+      - url: "https://www.securitysystemsnews.com/uploads/blog/74394b321735772373628bfa536213a9.jpg"
+        width: 260
+        height: 260
+        isCached: true
+  - title: "Banned U.S. AI chips in high demand at Chinese state institutes"
+    excerpt: "The development signaled a major escalation of a U.S. campaign to stymie China's technological capability as tensions bubble over the fate of Taiwan."
+    publishedDateTime: 2022-09-06T08:55:00Z
+    webUrl: "https://www.japantimes.co.jp/news/2022/09/06/business/tech/banned-us-ai-chips-china/"
+    type: article
+    provider:
+      name: ジャパンタイムズ
+      domain: japantimes.co.jp
+    quality: 54
+    images:
+      - url: "https://cdn-japantimes.com/wp-content/uploads/2022/09/np_file_180676-870x489.jpeg"
+        width: 870
+        height: 489
         isCached: true
   - title: "Nvidia outlook: the US bans AI chips to China and Russia"
     excerpt: "The end of August saw Nvidia state in an SEC filing that the US government is restricting the sale of its high-performance AI chips to China and Russia. The chips, created for the A100 and H100 servers,"
@@ -87,34 +99,29 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "US deals heavy blow to China tech ambitions with Nvidia chip ban"
-    excerpt: "The US government’s new restrictions on the ability of Nvidia Corp to sell artificial intelligence (AI) chips to Chinese customers threatens to deal a heavy blow to the country’s development of a sweeping range of cutting-edge technologies."
-    publishedDateTime: 2022-09-02T17:35:00Z
-    webUrl: "https://www.gulf-times.com/story/723601/US-deals-heavy-blow-to-China-tech-ambitions-with-N"
+  - title: "US Chip-Export Ban Throws Wrench Into China AI Works"
+    excerpt: "The development of China's artificial intelligence sector is expected to be slowed in the coming few years by the United States' new ban on expor"
+    publishedDateTime: 2022-09-06T01:24:00Z
+    webUrl: "https://menafn.com/1104815047/US-Chip-Export-Ban-Throws-Wrench-Into-China-AI-Works"
     type: article
     provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 41
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
     images:
-      - url: "https://www.gulf-times.com/Content/Upload/Slider/920222203510947722915.jpg"
-        width: 620
-        height: 355
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?531717"
+        width: 375
+        height: 250
         isCached: true
-  - title: "Nvidia gets US nod to export key chip H100"
-    excerpt: "US chip designer Nvidia Corp, a key source of computing chips for Chinese companies, announced late on Thursday that \"the US government has authorized exports, reexports, and in-country transfers needed to continue its development of H100 integrated circuits\","
-    publishedDateTime: 2022-09-02T15:33:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202209/02/WS6311570da310fd2b29e758d4.html"
+  - title: "US bans export of artificial intelligence-related chips to China fearing misuse"
+    excerpt: "Nvidia shares tank after it estimated a loss of $400 million as it is prevented from exporting two types of chips that can be used for military use; AMD also affected US bans export of artificial inte"
+    publishedDateTime: 2022-09-02T05:12:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/us-bans-export-of-artificial-intelligence-related-chips-to-china-fearing-misuse"
     type: article
     provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202209/02/6311570da310fd2bec9f67af.jpeg"
-        width: 720
-        height: 480
-        isCached: true
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 13
 
 secured: "IvJZc6gnApO7oW46Sc0kEOVe6ViqO6yZnSLBhLWcuLvcWnmim4uyT+2/5n/WIfhbFmfmITGJyfGpw3v4pTa6ixA9uVTrlKgMLrWnfWJZyLRPhMoOwRbqVoaOgdMwX1zUhL7ylzqxyBjbW4qZH+2v8ESq98QQwrc8L0Hgh9r9L9sQa4aAOlV0mGwKBB5RD7Wq4ZCIWToaqvNYLilM0B2f+QIBVBXHKYlcB6IDltsdjB9mwA1NWpBL/pasKB+SYu538PE1/zh9Lp1i+p1wFIiPKNwwniK+NUrE1MCLaUWJXTdF00T7hpEUUTQylS5fI5vSZajpALKmFvREEq624UvPvQRMisDBkoLgBoFMvpUFVcs=;fIIO56YxipyQgJ+5sgzykg=="
 ---

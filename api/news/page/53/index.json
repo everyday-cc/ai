@@ -2,6 +2,325 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2022-07-26-ai-experts-establish-the-north-star-for-domestic-robotics-field.md",
+      "title": "AI experts establish the “North Star” for domestic robotics field",
+      "excerpt": "Stanford researchers have released BEHAVIOR, a catalog of the details of 100 everyday household tasks to help guide embodied AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/25/ai-experts-establish-the-north-star-for-domestic-robotics-field/",
+      "originalUrl": "https://venturebeat.com/2022/07/25/ai-experts-establish-the-north-star-for-domestic-robotics-field/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1329808534-metamorworks.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 531,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/25/ai-experts-establish-the-north-star-for-domestic-robotics-field/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/25/ai-experts-establish-the-north-star-for-domestic-robotics-field/amp/",
+      "publishedDateTime": "2022-07-25T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-26-backed-by-yoshua-bengio-ubenwa-is-using-ai-to-diagnose-neurological-issues-through-baby-cries.md",
+      "title": "Backed by Yoshua Bengio, Ubenwa is using AI to diagnose neurological issues through baby cries",
+      "excerpt": "Ubenwa said the goal is to create a world where baby cries are no longer viewed as “noisy sounds that we are trying to quiet,” but ways to understand health.",
+      "sourceUrl": null,
+      "webUrl": "https://betakit.com/backed-by-yoshua-bengio-ubenwa-is-using-ai-to-diagnose-neurological-issues-through-baby-cries/",
+      "originalUrl": "https://betakit.com/backed-by-yoshua-bengio-ubenwa-is-using-ai-to-diagnose-neurological-issues-through-baby-cries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.betakit.com/wp-content/uploads/2022/07/minnie-zhou-0hiUWSi7jvs-unsplash-1.jpg",
+          "width": 1050,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-25T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BetaKit",
+        "domain": "betakit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-26-using-ai-to-train-teams-of-robots-to-work-together.md",
+      "title": "Using AI to train teams of robots to work together",
+      "excerpt": "Researchers have developed a method to train multiple agents such as robots or drones to work together using multi-agent reinforcement learning, a type of artificial intelligence. When communication lines are open, individual agents such as robots or ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/07/220725124120.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/07/220725124120.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-25T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-26-google-fires-blake-lemoine-the-engineer-who-claimed-ai-chatbot-is-a-person.md",
+      "title": "Google fires Blake Lemoine, the engineer who claimed AI chatbot is a person",
+      "excerpt": "Google has fired Blake Lemoine, the software engineer who was previously put on paid leave after claiming the company's LaMDA chatbot is sentient. Google said Lemoine, who worked in the company's Responsible AI unit,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/tech-policy/2022/07/google-fires-engineer-who-claimed-lamda-chatbot-is-a-sentient-person/",
+      "originalUrl": "https://arstechnica.com/tech-policy/2022/07/google-fires-engineer-who-claimed-lamda-chatbot-is-a-sentient-person/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/getty-blake-lemoine-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-25T10:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-26-advanced-driver-assistance-system-market-size-is.md",
+      "title": "Advanced Driver Assistance System Market Size is...",
+      "excerpt": "By supporting the driver through artificial intelligence and other cutting-edge ... Tesla, Volkswagen, Ford, GM, and Waymo will release fully autonomous vehicles in the following years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/07/g28191329/advanced-driver-assistance-system-market-size-is-projected-to-reach-usd-57-90-billion-by-2030-grow",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/g28191329/advanced-driver-assistance-system-market-size-is-projected-to-reach-usd-57-90-billion-by-2030-grow",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.giphy.com/media/rej1HY3HvcniOuVw9p/giphy.gif?cid=790b76113b7b679ec9e7e9853e32b3d27247a002b262f4c0&rid=giphy.gif&ct=g",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28191329",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28191329",
+      "publishedDateTime": "2022-07-25T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-26-machine-learning-hiring-levels-in-the-retail-industry-rose-in-june-2022.md",
+      "title": "Machine learning hiring levels in the retail industry rose in June 2022",
+      "excerpt": "We've analysed hiring patterns using data from GlobalData The proportion of retail companies hiring for machine learning related positions rose in June 2022 compared with the equivalent month last year,",
+      "sourceUrl": null,
+      "webUrl": "https://www.retail-insight-network.com/analysis/machine-learning-hiring-levels-in-the-retail-industry-rose-in-june-2022/",
+      "originalUrl": "https://www.retail-insight-network.com/analysis/machine-learning-hiring-levels-in-the-retail-industry-rose-in-june-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.retail-insight-network.com/wp-content/uploads/sites/18/2022/07/RkCvA-1038x778.png",
+          "width": 1038,
+          "height": 778,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-25T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Verdict Retail",
+        "domain": "retail-insight-network.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-25-fighting-fires-with-wires-how-drones-robots-and-artificial-intelligence-are-helping-emergency-services-tackle-wildfires-around-the-world-.md",
+      "title": "Fighting fires with wires: How drones, robots and artificial intelligence are helping emergency services tackle wildfires around the world - as blazes continue to break out ...",
+      "excerpt": "Some companies are developing artificial intelligence (AI ... Along with drones, remote control robots are being deployed into burning wildlands to tackle the blaze from the ground.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-11045543/How-drones-robots-artificial-intelligence-helping-emergency-services-tackle-wildfires.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-11045543/How-drones-robots-artificial-intelligence-helping-emergency-services-tackle-wildfires.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2022/07/25/15/60670599-0-image-a-68_1658760465219.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-11045543/amp/How-drones-robots-artificial-intelligence-helping-emergency-services-tackle-wildfires.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11045543/amp/How-drones-robots-artificial-intelligence-helping-emergency-services-tackle-wildfires.html",
+      "publishedDateTime": "2022-07-25T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-25-google-fires-engineer-who-contended-its-ai-technology-was-sentient.md",
       "title": "Google fires engineer who contended its AI technology was sentient",
       "excerpt": "By Ramishah Maruf, CNN Google has fired the engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies. Blake Lemoine,",
@@ -844,338 +1163,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-artificial-intelligence-ai-in-healthcare-market-business-overview-upcoming-trends-and-top-company-analysis-forecast-2021-2031.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market: Business overview, Upcoming Trends and Top Company Analysis Forecast 2021-2031",
-      "excerpt": "Kenneth Research recently added a report on Artificial Intelligence (AI) in Healthcare Market which provides a",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-business-overview-upcoming-trends-and-top-company-analysis-forecast-2021-2031-2022-07-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-business-overview-upcoming-trends-and-top-company-analysis-forecast-2021-2031-2022-07-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-24T21:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-irony-machine-why-are-ai-researchers-teaching-computers-to-recognise-irony.md",
-      "title": "Irony machine: why are AI researchers teaching computers to recognise irony?",
-      "excerpt": "Irony is linked to the ability to say one thing while thinking another – which means it’s also intrinsic to being human. What does new research into artificial intelligence and irony reveal?",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/irony-machine-why-are-ai-researchers-teaching-computers-to-recognise-irony-185904",
-      "originalUrl": "https://theconversation.com/irony-machine-why-are-ai-researchers-teaching-computers-to-recognise-irony-185904",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/473359/original/file-20220711-19-5d335n.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/irony-machine-why-are-ai-researchers-teaching-computers-to-recognise-irony-185904",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/irony-machine-why-are-ai-researchers-teaching-computers-to-recognise-irony-185904",
-      "publishedDateTime": "2022-07-24T21:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-why-we-dont-trust-apples-homekit-secure-videoand-you-shouldnt-either.md",
-      "title": "Why We Don’t Trust Apple’s HomeKit Secure Video—and You Shouldn’t Either",
-      "excerpt": "HSV adds some smart features, such as face and object recognition, including people, animals, vehicles, and packages. It even allows you to mix and match camera brands and integrate them with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/wirecutter/blog/apple-homekit-secure-video-review/",
-      "originalUrl": "https://www.nytimes.com/wirecutter/blog/apple-homekit-secure-video-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-24T17:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-on-artificial-general-intelligence-ai-sentience-and-large-language-models.md",
-      "title": "On Artificial General Intelligence, AI Sentience, And Large Language Models",
-      "excerpt": "In case you haven’t noticed, artificial intelligence systems have been behaving in increasingly astonishing ways lately. Meanwhile, DeepMind recently announced a new model called Gato that can single-handedly perform hundreds of different tasks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2022/07/24/on-artificial-general-intelligence-ai-sentience-and-large-language-models/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2022/07/24/on-artificial-general-intelligence-ai-sentience-and-large-language-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62db485e94b10276a09391bd/0x0.jpg?format=jpg&crop=768,432,x0,y0,safe&width=1200",
-          "width": 768,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2022/07/24/on-artificial-general-intelligence-ai-sentience-and-large-language-models/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/07/24/on-artificial-general-intelligence-ai-sentience-and-large-language-models/amp/",
-      "publishedDateTime": "2022-07-24T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Robotics",
-        "Facebook AI",
-        "AI in Healthcare",
-        "AI in Autos",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-xoriant-xcelerate-iot-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Xoriant X·CELERATE IoT Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Microsoft Azure customers worldwide now gain access to X·CELERATE IoT to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/07/25/9644286.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/07/25/9644286.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/449859/PRNE_Xoriant_Logo.jpg",
-          "width": 400,
-          "height": 260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-24T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-rogers-to-invest-10-billion-in-ai-testing-after-massive-outage.md",
-      "title": "Rogers to invest $10 billion in AI, testing after massive outage",
-      "excerpt": "Rogers Communications Inc. said on Sunday it will invest $10 billion over the next three years in Artificial Intelligence, and more testing and oversight, just weeks after the company reported network issues that caused widespread disruptions across the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ctvnews.ca/business/rogers-to-invest-10-billion-in-ai-testing-after-massive-outage-1.6000369",
-      "originalUrl": "https://www.ctvnews.ca/business/rogers-to-invest-10-billion-in-ai-testing-after-massive-outage-1.6000369",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2022/7/24/1_5979941.jpg",
-          "width": 1020,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/national/business/2022/7/24/1_6000369.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/business/2022/7/24/1_6000369.amp.html",
-      "publishedDateTime": "2022-07-24T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-chips-and-the-china-challenge.md",
-      "title": "Chips and the China Challenge",
-      "excerpt": "Without federal support for semiconductors and other important technologies, the U.S. simply isn’t playing to win.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/semiconductor-chips-senate-china-taiwan-tsmc-smic-subsidy-tech-manufacturing-11658528510",
-      "originalUrl": "https://www.wsj.com/articles/semiconductor-chips-senate-china-taiwan-tsmc-smic-subsidy-tech-manufacturing-11658528510",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-589787/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/semiconductor-chips-senate-china-taiwan-tsmc-smic-subsidy-tech-manufacturing-11658528510",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/semiconductor-chips-senate-china-taiwan-tsmc-smic-subsidy-tech-manufacturing-11658528510",
-      "publishedDateTime": "2022-07-24T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

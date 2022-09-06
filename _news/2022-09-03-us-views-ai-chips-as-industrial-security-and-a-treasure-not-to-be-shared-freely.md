@@ -42,6 +42,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "U.S. eases restrictions on Nvidia after banning AI chip exports to China"
+    excerpt: "and its forthcoming next-generation AI chip currently in development, the H100. The move effectively prohibits the company from exporting both chips to Chinese customers as the U.S. seeks to limit ..."
+    publishedDateTime: 2022-09-03T08:44:00Z
+    webUrl: "https://www.foxbusiness.com/markets/u-s-eases-restrictions-nvidia-banning-ai-chip-exports-china"
+    ampWebUrl: "https://www.foxbusiness.com/markets/u-s-eases-restrictions-nvidia-banning-ai-chip-exports-china.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/u-s-eases-restrictions-nvidia-banning-ai-chip-exports-china.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 73
+    images:
+      - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2021/12/Nvidia-chips-A.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Sale of top AI chips to be halted with China per U.S. decree"
     excerpt: "YARMOUTH, Maine – Multinational American technology company NVIDIA said in a Securities and Exchange Commission filing August 26 that U.S. Government officials are enforcing the restriction of sales for its top AI chips with China. The move comes as ..."
     publishedDateTime: 2022-09-02T17:47:00Z
@@ -69,6 +85,20 @@ related:
       - url: "https://cdn-japantimes.com/wp-content/uploads/2022/09/np_file_180676-870x489.jpeg"
         width: 870
         height: 489
+        isCached: true
+  - title: "Nvidia outlook: the US bans AI chips to China and Russia"
+    excerpt: "The end of August saw Nvidia state in an SEC filing that the US government is restricting the sale of its high-performance AI chips to China and Russia. The chips, created for the A100 and H100 servers,"
+    publishedDateTime: 2022-09-06T02:14:00Z
+    webUrl: "https://www.ig.com/en-ch/news-and-trade-ideas/nvidia-outlook--the-us-bans-ai-chips-to-china-and-russia-220906"
+    type: article
+    provider:
+      name: ig.com
+      domain: ig.com
+    quality: 54
+    images:
+      - url: "https://a.c-dn.net/c/content/dam/publicsites/igcom/uk/images/news-article-image-folder/bg_nvidia_333689036.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "US Chip-Export Ban Throws Wrench Into China AI Works"
     excerpt: "The development of China's artificial intelligence sector is expected to be slowed in the coming few years by the United States' new ban on expor"

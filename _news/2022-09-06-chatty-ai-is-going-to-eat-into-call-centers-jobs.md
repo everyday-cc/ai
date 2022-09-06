@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/chatty-ai-is-going-to-eat-into-call-
 webUrl: "https://www.zdnet.com/article/chatty-ai-is-going-to-eat-into-call-centers-jobs/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -23,14 +23,21 @@ topics:
 
 related:
   - title: "How artificial intelligence is helping to restore works of art"
-    excerpt: "Art restoration is a discipline that combines passion, patience and resourcefulness. And it is benefitting more and more from the latest technological advances, especially in terms of artificial intelligence."
-    publishedDateTime: 2022-09-06T13:00:00Z
-    webUrl: "https://www.forbesindia.com/article/lifes/how-artificial-intelligence-is-helping-to-restore-works-of-art/79579/1"
+    excerpt: "The Oxia Palus start-up recreated this underpainting by teaching artificial intelligence how to reproduce Van Gogh's style."
+    publishedDateTime: 2022-09-06T16:00:00Z
+    webUrl: "https://www.citizen.co.za/lifestyle/3191108/oxia-palus-artificial-intelligence-helping-to-restore-works-of-art/"
+    ampWebUrl: "https://amp.citizen.co.za/lifestyle/3191108/oxia-palus-artificial-intelligence-helping-to-restore-works-of-art/"
+    cdnAmpWebUrl: "https://amp-citizen-co-za.cdn.ampproject.org/c/s/amp.citizen.co.za/lifestyle/3191108/oxia-palus-artificial-intelligence-helping-to-restore-works-of-art/"
     type: article
     provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 17
+      name: The Citizen
+      domain: citizen.co.za
+    quality: 57
+    images:
+      - url: "https://media.citizen.co.za/wp-content/uploads/2022/09/van-gogh-artwork.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
 
 secured: "lOSs9ZYXkmsdedhyfFJ8SUsiXGrBH+C3FALvboJWIK1gL5nb4FmoN9IqnqcAOqZdyr+O7v35zuwVPWsPVA5K+vKQsFTqw1N7QOADShWkjh6+TwtI8GVPCjbjBEAqopbc8ZvLANT5dtpcwUJKoxR+nZ03Av89D/4+ag4XE0ECy4t7Cb75ofAtT5HnfZ+uSt0ruAcOXeJ7aYidcUwgP4g/OxK2IRGhPFcN68Lnq4/NLNEHY1u44cLBTAEGktXQNAM912X+paSeBPxXUaYuQTqzUQv/ZQL1/zWj5CsIlkyLJFWEGdo6T8fnGgpUnAs6WbpFpJBByTH202Eq/iG5DC5WFL2E3osGpjIMhnmygqtrVHDmn08bfSiIwrq42HacSQHLmQnO1ziJR0SvUFvO57xdEbr6B7ZCJmAfi61QPexWd8V1kGmjfk32TxltxHMIzu79E2uin/2RzsQUT1zp0h6Bu0vJqU46zTqgIRrRaKdErgs6S/TCPstLrUVQTJKjKJxAPiVWdxu+j0v+OI3KwHWRuw==;Zu9qkMADgXYJouhI5mgj8A=="
 ---

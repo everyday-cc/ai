@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "China may step up purchases of AI GPUs from Nvidia, AMD prior to export ban"
-    excerpt: "The fresh US ban on exports of AI GPUs to China has sparked market speculation that the restriction may prompt Chinese clients to accelerate and increase shipment pull-ins for advanced GPUs from major suppliers Nvidia and AMD before a buffer period expires on September 1,"
-    publishedDateTime: 2022-09-05T06:11:00Z
-    webUrl: "https://www.digitimes.com/news/a20220905PD200/amd-gpu-nvidia.html"
+  - title: "3 In-Demand AI Skills That Will Offer New Career Opportunities"
+    excerpt: "When integrating artificial intelligence technologies into businesses, there are several high-impact skill areas that employees can learn to fill."
+    publishedDateTime: 2022-09-06T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/09/06/3-in-demand-ai-skills-that-will-offer-new-career-opportunities/"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 52
-    images:
-      - url: "https://img.digitimes.com/newsshow/20220905pd200_files/2_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "UszbDXgjV4yeMxYicuiaJLb2b8nEI/qvF7kL1YccAdHzphSC0gE2dvHeqGSz/9KBnKCbRvYz4yYlgUYLZy0+jBxn4Tu/Tgat1gpY2xWXeWNMQbrkPL7S3AtPbN99tHKVoQ7BgJoEh/eP7Bzgl8sP6PB5/Cp3ldc2cVYojieGXOTyGSXVMpVF1EXRMmE0jWZw4kwx5QTVS1yCuui3oZa+iOteESV/FQBsE21ZVeNrZNnCWQJv6K4tAyJWGT6BncmeONaNENL3/BbMZqxdXCRrwbg21Av36p4bxhio8lvZjh+HMtykx1bynqRr721J5IYLSOUBsVqdUobKpXe9tv0ySsXUNuPNfwVKbg9wbnLP9yw=;FiCEZmXwtWeo9vtPQl3WWg=="
 ---

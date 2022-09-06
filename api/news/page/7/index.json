@@ -2,6 +2,361 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-08-30-a-huge-chinese-database-of-faces-and-vehicle-license-plates-spilled-online.md",
+      "title": "A huge Chinese database of faces and vehicle license plates spilled online",
+      "excerpt": "While its contents might seem unremarkable for China, where facial recognition is routine and state surveillance is ubiquitous, the sheer size of the exposed database is staggering. At its peak ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/30/china-database-face-recognition/",
+      "originalUrl": "https://techcrunch.com/2022/08/30/china-database-face-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/08/china-xinai-license-database-expose.jpg?w=1024",
+          "width": 1024,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/30/china-database-face-recognition/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/30/china-database-face-recognition/amp/",
+      "publishedDateTime": "2022-08-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-will-robots-take-your-job-how-artificial-intelligence-will-change-the-future-of-work.md",
+      "title": "Will Robots Take Your Job? How Artificial Intelligence Will Change the Future of Work",
+      "excerpt": "Artificial intelligence is already affecting nearly every workplace in the country. Here's how the future of AI may shape the workplace of tomorrow. When most people think of artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.rd.com/article/future-of-ai/",
+      "originalUrl": "https://www.rd.com/article/future-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rd.com/wp-content/uploads/2022/08/RD-robots-taking-jobs-GettyImages-1356768388-578183815-JVedit.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reader's Digest",
+        "domain": "rd.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-use-amazon-sagemaker-pipeline-sharing-to-view-or-manage-pipelines-across-aws-accounts.md",
+      "title": "Use Amazon SageMaker pipeline sharing to view or manage pipelines across AWS accounts",
+      "excerpt": "On August 9, 2022, we announced the general availability of cross-account sharing of Amazon SageMaker Pipelines entities. You can now use cross-account support for Amazon SageMaker Pipelines to share pipeline entities across AWS accounts and access shared pipelines directly through Amazon SageMaker API",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-pipeline-sharing-to-view-or-manage-pipelines-across-aws-accounts/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-pipeline-sharing-to-view-or-manage-pipelines-across-aws-accounts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/29/sagemaker-pipeline-sharing.jpg",
+          "width": 1532,
+          "height": 764,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T15:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-panera-bread-tests-artificial-intelligence-technology-in-drive-thru-lanes.md",
+      "title": "Panera Bread tests artificial intelligence technology in drive-thru lanes",
+      "excerpt": "Two Panera Bread locations in upstate New York are testing artificial intelligence technology that takes drive-thru orders. Restaurants have been investing in improving the drive-thru experience ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/08/29/panera-bread-tests-artificial-intelligence-technology-in-drive-thru-lanes.html",
+      "originalUrl": "https://www.cnbc.com/2022/08/29/panera-bread-tests-artificial-intelligence-technology-in-drive-thru-lanes.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106972691-1636466150088-gettyimages-1280324270-1006_32_fl200924107.jpeg?v=1661775251",
+          "width": 3800,
+          "height": 2533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/08/29/panera-bread-tests-artificial-intelligence-technology-in-drive-thru-lanes.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/08/29/panera-bread-tests-artificial-intelligence-technology-in-drive-thru-lanes.html",
+      "publishedDateTime": "2022-08-29T14:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-edison-international-ceo-ai-tools-are-transforming-utilities.md",
+      "title": "Edison International CEO: AI Tools are Transforming Utilities",
+      "excerpt": "CEO Pedro Pizarro says “We are doing things today we didn’t imagine five years ago”",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/videos/watch/Edison-International-CEO-AI-Tools-are-Transforming-Utilities/a354e744-d4ee-4f2a-8c9a-ae9cecbbd160",
+      "originalUrl": "https://fortune.com/videos/watch/Edison-International-CEO-AI-Tools-are-Transforming-Utilities/a354e744-d4ee-4f2a-8c9a-ae9cecbbd160",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2byebo1j9i40c.cloudfront.net/a354e744-d4ee-4f2a-8c9a-ae9cecbbd160/Images/posterImage-ver1-1280x720.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/videos/watch/edison-international-ceo%3A-ai-tools-are-transforming-utilities/a354e744-d4ee-4f2a-8c9a-ae9cecbbd160/amp",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/edison-international-ceo%3A-ai-tools-are-transforming-utilities/a354e744-d4ee-4f2a-8c9a-ae9cecbbd160/amp",
+      "publishedDateTime": "2022-08-29T14:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-undeclared-pools-in-france-uncovered-by-ai-technology.md",
+      "title": "Undeclared pools in France uncovered by AI technology",
+      "excerpt": "The discovery of thousands of undeclared private swimming pools in France has provided an unexpected windfall for French tax authorities. Following an experiment using artificial intelligence (AI), more than 20,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-europe-62717599",
+      "originalUrl": "https://www.bbc.com/news/world-europe-62717599",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/4B27/production/_126493291_gettyimages-178924445.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/world-europe-62717599.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-europe-62717599.amp",
+      "publishedDateTime": "2022-08-29T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-googles-100-million-settlement-theres-still-time-to-see-if-youre-eligible-for-a-check.md",
+      "title": "Google's $100 Million Settlement: There's Still Time to See if You're Eligible for a Check",
+      "excerpt": "Google Photos' Face Grouping tool lets users organize images of the same person via facial recognition algorithms ... The deadline to opt out of or object to the settlement was Aug. 10. A final approval hearing for the settlement is scheduled for Sept.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/personal-finance/googles-100-million-settlement-theres-still-time-to-see-if-your-eligible-for-a-check/",
+      "originalUrl": "https://www.cnet.com/personal-finance/googles-100-million-settlement-theres-still-time-to-see-if-your-eligible-for-a-check/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/95ce5ca58f4c78b55da7303cc63a9f06721a1e3d/2022/08/25/f0a2866b-e71b-40d6-9c3d-2d0c873b3407/gettyimages-1242657903.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-100-million-settlement-theres-still-time-to-see-if-your-eligible-for-a-check/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-100-million-settlement-theres-still-time-to-see-if-your-eligible-for-a-check/",
+      "publishedDateTime": "2022-08-29T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-coauthor-stanford-experiments-with-human-ai-collaborative-writing.md",
       "title": "CoAuthor: Stanford experiments with human-AI collaborative writing",
       "excerpt": "Researchers at Stanford have been studying how humans and AI can write together by designing large interaction datasets.",
@@ -600,6 +955,40 @@
       ]
     },
     {
+      "path": "_news/2022-08-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry.md",
+      "title": "Teradata Announces ClearScape Analytics: The Most Powerful, Open, and Connected Cloud Analytics Available in the Industry",
+      "excerpt": "Teradata (NYSE: TDC) today announced ClearScape Analytics, the significantly expanded and newly named analytics capabilities that span the entire suite of Vantage products. Teradata Vantage's industry-leading analytics have long been the cornerstone of the platform's appeal to enterprise customers for its ability to accelerate data insights and time to value.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/08/29/9663280.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/08/29/9663280.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-29-will-untether-ais-speedai240-boqueria-inferencing-chip-be-the-one.md",
       "title": "Will Untether AI’s SpeedAI240 “Boqueria” Inferencing Chip Be “The One”?",
       "excerpt": "One of the latest AI/ML chips to appear was revealed at last week’s Hot Chips 34 conference. Untether AI’s founder Martin Snelgrove and VP of Product Bob Beachler rolled out their company’s speedAI chip family,",
@@ -757,40 +1146,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry.md",
-      "title": "Teradata Announces ClearScape Analytics: The Most Powerful, Open, and Connected Cloud Analytics Available in the Industry",
-      "excerpt": "ClearScape Analytics – which encompasses the same high-performing analytics that Teradata is known for but with 50+ new analytic functions – is available as part of Teradata VantageCloud and the new Teradata VantageCloud Lake,",
-      "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-29-behind-indian-government-supported-ai-robotics-innovation-firm.md",
       "title": "Behind Indian Government Supported AI & Robotics Innovation Firm",
       "excerpt": "If we can get self-driving cars to work on Silk Board in Bengaluru, it will work in the US, it will work in Europe, it will work in Elon Musk’s backyard as well.",
@@ -832,346 +1187,6 @@
         "AI in Robotics",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-edge-computing-market-size-worth-13211-billion-by-2028-at-216-cagr-the-insight-partners.md",
-      "title": "Edge Computing Market Size Worth $132.11 Billion by 2028 at 21.6% CAGR | The Insight Partners",
-      "excerpt": "The Insight Partners published latest research study on \"Edge Computing Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Component (Hardware, Software, and",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/08/n28664397/edge-computing-market-size-worth-132-11-billion-by-2028-at-21-6-cagr-the-insight-partners",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/08/n28664397/edge-computing-market-size-worth-132-11-billion-by-2028-at-21-6-cagr-the-insight-partners",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-ai-in-fintech-global-market-report-2022-need-for-fraud-detection-in-fintech-financial-institutions-driving-adoption-researchandmarketscom.md",
-      "title": "AI in FinTech Global Market Report 2022: Need for Fraud Detection in Fintech & Financial Institutions Driving Adoption - ResearchAndMarkets.com",
-      "excerpt": "The “AI in FinTech Global Market Report 2022” report has been added to ResearchAndMarkets.com’s offering. The global AI in fintech market is expected to grow from $7.25 billion in 2021 to $9.13 billion in 2022 at a compound annual growth rate (CAGR) of 25.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-middle-east-asia-south-america-0232c251b16047f18c094cc48e26a795",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-middle-east-asia-south-america-0232c251b16047f18c094cc48e26a795",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T03:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.md",
-      "title": "TensorFlow, PyTorch, and JAX: Choosing a deep learning framework",
-      "excerpt": "Three widely used frameworks are leading the way in deep learning research and production today. One is celebrated for ease of use, one for features and maturity, and one for immense scalability. Which one should you use?",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3670114/tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.html",
-      "originalUrl": "https://www.infoworld.com/article/3670114/tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2021/12/artificial-intelligence-concept-picture-id1160995648-100855293-large-100912931-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3670114/tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3670114/tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.amp.html",
-      "publishedDateTime": "2022-08-29T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI",
-        "Facebook AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-elon-musk-aims-to-have-self-driving-teslas-ready-by-year-end-in-the-us.md",
-      "title": "Elon Musk: aims to have self-driving Teslas ready by year-end in the U.S.",
-      "excerpt": "Tesla founder Elon Musk said on Monday he aimed to get self-driving Teslas ready by year-end and hopes they could be in wide release in the United States and possibly in Europe, depending on regulatory approval.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/elon-musk-aims-have-self-driving-teslas-ready-by-year-end-us-2022-08-29/",
-      "originalUrl": "https://www.reuters.com/technology/elon-musk-aims-have-self-driving-teslas-ready-by-year-end-us-2022-08-29/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 293,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/R4cQPqkeAFIqFa7vRkbVIZLmGzE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RNKFK5ENWZLSBKGNTC4P5OADEE.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T02:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-global-consumer-robotics-market-2022-2031-global-industry-report-size-analysis-top-companies-share-business-strategy-and-forecast.md",
-      "title": "Global Consumer Robotics Market 2022-2031: Global Industry Report, Size Analysis, Top Companies Share, Business Strategy and Forecast",
-      "excerpt": "The size of the consumer robotics market in 2021 is estimated to be USD 6 billion, and it is expected to expand at",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-consumer-robotics-market-2022-2031-global-industry-report-size-analysis-top-companies-share-business-strategy-and-forecast-2022-08-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-consumer-robotics-market-2022-2031-global-industry-report-size-analysis-top-companies-share-business-strategy-and-forecast-2022-08-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T02:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-image-recognition-market-size-by-major-players-trends-key-regions-and-growth-forecast-to-2022-2031.md",
-      "title": "Image Recognition Market Size by Major Players, Trends, Key Regions and Growth Forecast to 2022-2031",
-      "excerpt": "\"Increasing use of image recognition applications is driving the Global Image Recognition Market \" The image recognition market is projected to grow from USD 15.95 billion in 2022 to USD 38.92 billion by 2031,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-market-size-by-major-players-trends-key-regions-and-growth-forecast-to-2022-2031-2022-08-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-market-size-by-major-players-trends-key-regions-and-growth-forecast-to-2022-2031-2022-08-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T01:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-artificial-intelligence-in-iot-market-worldwide-demand-development-growth-and-business-attractions-2028-uptake-c3-iot-hitachi-ptc-aws.md",
-      "title": "Artificial Intelligence in IoT Market Worldwide Demand, Development Growth and Business Attractions 2028 | Uptake, C3 IoT, Hitachi, PTC, AWS",
-      "excerpt": "The Artificial Intelligence in IoT report offers in-depth assessment of the growth and other aspects of the Artificial Intelligence in IoT market in important regions. Key regions covered in the report are North America,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-worldwide-demand-development-growth-and-business-attractions-2028-uptake-c3-iot-hitachi-ptc-aws-2022-08-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-worldwide-demand-development-growth-and-business-attractions-2028-uptake-c3-iot-hitachi-ptc-aws-2022-08-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T01:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

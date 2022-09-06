@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-06-detect-audio-events-with-amazon-rekognition.md",
+      "title": "Detect audio events with Amazon Rekognition",
+      "excerpt": "When most people think of using machine learning (ML) with audio data, the use case that usually comes to mind is transcription, also known as speech-to-text. However, there are other useful applications, including using ML to detect sounds. Using software to detect a sound is called audio event detection,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-audio-events-with-amazon-rekognition/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-audio-events-with-amazon-rekognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/30/ML-8724-image003-1249x630.png",
+          "width": 1249,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-06T10:44:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-09-06-should-you-worry-about-the-new-face-recognition-system-at-airports.md",
       "title": "Should you worry about the new face recognition system at airports?",
       "excerpt": "Organisations like the Internet Freedom Foundation and many other activists have slammed the project stating that the system could be misused in a country where there is no data protection or privacy laws.",
@@ -287,6 +340,59 @@
         "Computer Vision",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-israeli-facial-recognition-once-did-border-checks-in-the-west-bank-now-it-snoops-on-casinos-across-america.md",
+      "title": "Israeli Facial Recognition Once Did Border Checks In The West Bank. Now It Snoops On Casinos Across America",
+      "excerpt": "Israeli facial recognition tech is now in use at casinos in the U.S, raising concerns about how private entities will use powerful surveillance tools. Day after day, thousands of faces appear on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2022/09/01/oosto-israel-facial-recognition-surveillance-on-casinos-in-america/",
+      "originalUrl": "https://www.forbes.com/sites/thomasbrewster/2022/09/01/oosto-israel-facial-recognition-surveillance-on-casinos-in-america/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6310bde3528cfaa940213ebe/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -1338,92 +1444,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-automotive-artificial-intelligence-market-worth-70-billion-by-2027-exclusive-report-by-marketsandmarkets.md",
-      "title": "Automotive Artificial Intelligence Market worth $7.0 Billion by 2027 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "Automotive Artificial Intelligence market size is projected to grow from USD 2.3 Billion in 2022 to USD 7.0 Billion by 2027; it is expected to grow at a CAGR of 24.1% from 2022 to 2027, according to a new report by MarketsandMarkets™.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/08/24/9661661.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/08/24/9661661.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-24T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-ai-in-computer-vision-market-key-players-overview-applications-and-analysis-2029.md",
-      "title": "AI in Computer Vision Market Key Players Overview Applications and Analysis 2029",
-      "excerpt": "Pune, India-Research Report on Global AI in Computer Vision Market 2022-2029 Report Demand develops Rapidly as Our",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-key-players-overview-applications-and-analysis-2029-2022-08-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-key-players-overview-applications-and-analysis-2029-2022-08-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-24T01:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

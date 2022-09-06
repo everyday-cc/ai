@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2022-09-future-coronavirus-variants-artificial
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-future-coronavirus-variants-artificial-intelligence.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Phys.org
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence to Help Analyze Coronavirus Variants"
+    excerpt: "A new method developed by researchers uses artificial intelligence to analyze in real-time immediately after a new COVID variant emerges."
+    publishedDateTime: 2022-09-06T17:50:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-to-help-analyze-coronavirus-variants-208518-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-to-help-analyze-coronavirus-variants-208518-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-to-help-analyze-coronavirus-variants-208518-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/artificial-intelligence-pros-and-cons.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
   - title: "Preparing for future coronavirus variants using artificial intelligence"
     excerpt: "Researchers at ETH Zurich have developed a method to explore the possibilities of how the pandemic virus could evolve. Thanks to their work, it may be possible to develop antibody therapies and vaccines that are more likely to be effective also against future viral variants."
     publishedDateTime: 2022-09-06T15:37:00Z

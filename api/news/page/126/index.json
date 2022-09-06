@@ -2,6 +2,323 @@
   "page": 126,
   "value": [
     {
+      "path": "_news/2022-05-31-depressed-this-algorithm-can-tell-from-the-tone-of-your-voice.md",
+      "title": "Depressed? This algorithm can tell from the tone of your voice",
+      "excerpt": "Mental health issues have come into a clearer focus amid the pandemic. Depression became endemic, but it still too often goes undetected. Even when it does, health care providers struggle to meet demand.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/31/depressed-this-algorithm-can-tell-from-the-tone-of-your-voice/",
+      "originalUrl": "https://techcrunch.com/2022/05/31/depressed-this-algorithm-can-tell-from-the-tone-of-your-voice/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1243567776.jpg?w=1024",
+          "width": 1024,
+          "height": 723,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/31/depressed-this-algorithm-can-tell-from-the-tone-of-your-voice/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/31/depressed-this-algorithm-can-tell-from-the-tone-of-your-voice/amp/",
+      "publishedDateTime": "2022-05-31T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-amazon-to-develop-new-consumer-robotics-software-development-centre-in-india.md",
+      "title": "Amazon To Develop New Consumer Robotics Software Development Centre In India",
+      "excerpt": "The Indian centre will help support Amazon's international Robotics division, which launched its first robot Astro last year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.india.com/technology/amazon-to-develop-new-consumer-robotics-software-development-centre-in-india-5425347/",
+      "originalUrl": "https://www.india.com/technology/amazon-to-develop-new-consumer-robotics-software-development-centre-in-india-5425347/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.india.com/wp-content/uploads/2022/05/Astro.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.india.com/technology/amazon-to-develop-new-consumer-robotics-software-development-centre-in-india-5425347/amp/",
+      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/amazon-to-develop-new-consumer-robotics-software-development-centre-in-india-5425347/amp/",
+      "publishedDateTime": "2022-05-31T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India.com",
+        "domain": "india.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-a3-robot-sales-in-north-america-continue-record-increase-into-2022.md",
+      "title": "A3: robot sales in North America continue record increase into 2022",
+      "excerpt": "VP Alex Shikany to discuss latest on how companies solve labor shortages with robotics at Automate June 6 in Detroit",
+      "sourceUrl": null,
+      "webUrl": "https://www.logisticsmgmt.com/article/a3_robot_sales_in_north_america_continue_record_increase_into_2022",
+      "originalUrl": "https://www.logisticsmgmt.com/article/a3_robot_sales_in_north_america_continue_record_increase_into_2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sc247.s3.amazonaws.com/images/made/images/2022_article/LM2205_F_LMEx_DigitalSC-Main600p_350_200_bor1_b9b3be_s_c1.jpg",
+          "width": 352,
+          "height": 202,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-31T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Logistics Management",
+        "domain": "logisticsmgmt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Sales",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-turning-ai-failure-into-ai-success-stories.md",
+      "title": "Turning AI failure into AI success stories",
+      "excerpt": "AI implementations share a number of key characteristics. Rather than simply unleashing the technology first on one goal and then another in a linear fashion, which is the habit for most traditional technology initiatives,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/31/turning-ai-failure-into-ai-success-stories/",
+      "originalUrl": "https://venturebeat.com/2022/05/31/turning-ai-failure-into-ai-success-stories/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2014/10/failure-success.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/31/turning-ai-failure-into-ai-success-stories/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/31/turning-ai-failure-into-ai-success-stories/amp/",
+      "publishedDateTime": "2022-05-31T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-where-does-ai-go-next.md",
+      "title": "Where Does AI Go Next?",
+      "excerpt": "Many computer scientists, economists, and investors believe that we are at the threshold of enormous leaps forward in artificial intelligence and machine learning – with implications for both entrepreneurs and businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/asheemchandna/2022/05/31/where-does-ai-go-next/",
+      "originalUrl": "https://www.forbes.com/sites/asheemchandna/2022/05/31/where-does-ai-go-next/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//629506ac879c5363c159c3d9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/asheemchandna/2022/05/31/where-does-ai-go-next/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/asheemchandna/2022/05/31/where-does-ai-go-next/amp/",
+      "publishedDateTime": "2022-05-31T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-refraction-ai-tests-autonomous-delivery-at-two-chick-fil-a-restaurants-in-austin-tx.md",
+      "title": "Refraction AI Tests Autonomous Delivery at Two Chick-fil-A® Restaurants in Austin, TX",
+      "excerpt": "Self-driving robots provide energy-efficient meal delivery to guests' front door. AUSTIN, Texas, May 31, 2022 /PRNewswire/ -- Refraction AI, a last-mile, autonomous robot delivery",
+      "sourceUrl": null,
+      "webUrl": "https://www.texomashomepage.com/business/press-releases/cision/20220531DA73589/refraction-ai-tests-autonomous-delivery-at-two-chick-fil-a-restaurants-in-austin-tx/",
+      "originalUrl": "https://www.texomashomepage.com/business/press-releases/cision/20220531DA73589/refraction-ai-tests-autonomous-delivery-at-two-chick-fil-a-restaurants-in-austin-tx/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-31T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TexomasHomepage.com",
+        "domain": "texomashomepage.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-earnings-outlook-for-c3ai.md",
+      "title": "Earnings Outlook For C3.ai",
+      "excerpt": "C3.ai AI is set to give its latest quarterly earnings report on Wednesday, 2022-06-01. Here's what investors need to know before the announcement. Analysts estimate that C3.ai will report an earnings per share (EPS) of $-0.29. C3.ai bulls will hope to hear ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/earnings/22/05/27474736/earnings-outlook-for-c3-ai",
+      "originalUrl": "https://www.benzinga.com/news/earnings/22/05/27474736/earnings-outlook-for-c3-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2022/ep_us_feature_image_3296.jpeg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27474736",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27474736",
+      "publishedDateTime": "2022-05-31T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-31-ethical-issues-surrounding-research-of-ai-in-health-care.md",
       "title": "Ethical issues surrounding research of AI in health care",
       "excerpt": "F. Lisa Murtha, Pralika Jain and Kiyong Song of Moses & Singer LLP discuss the ethical issues that arise in research on artificial intelligence for health care, such as in patient safety, data collection and transparency.",
@@ -802,299 +1119,6 @@
         "Microsoft AI",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-inspur-information-and-megware-build-a-leading-gpu-cluster-for-the-friedrich-alexander-universitat-erlangen-nurnberg.md",
-      "title": "Inspur Information and MEGWARE Build a Leading GPU Cluster for the Friedrich-Alexander-Universität Erlangen-Nürnberg",
-      "excerpt": "Inspur information, a leading IT infrastructure solutions provider, and MEGWARE, a high-performance computing (HPC) solutions provider in Europe, combined efforts to bolster the scientific research capabilities of the Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) through its Erlangen National Center for High-Performance Computing (NHR@FAU).",
-      "sourceUrl": null,
-      "webUrl": "https://www.kentuckytoday.com/news/business/inspur-information-and-megware-build-a-leading-gpu-cluster-for-the-friedrich-alexander-universit-t/article_752e9a52-2c8d-58a1-8aaa-12e31deee52f.html",
-      "originalUrl": "https://www.kentuckytoday.com/news/business/inspur-information-and-megware-build-a-leading-gpu-cluster-for-the-friedrich-alexander-universit-t/article_752e9a52-2c8d-58a1-8aaa-12e31deee52f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T00:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kentucky Today",
-        "domain": "kentuckytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-industrial-robot-controllers-market-is-expected-to-exceed-us-16571-mn-by-the-end-of-2029.md",
-      "title": "Industrial Robot Controllers Market Is Expected To Exceed US$ 1657.1 Mn By The End Of 2029",
-      "excerpt": "As per the findings of the report, the global industrial robot controller market is anticipated to see substantial growth over the forecast period, set in motion by increase in the adoption of Human Machine Interaction (HMI),",
-      "sourceUrl": null,
-      "webUrl": "https://www.fmiblog.com/2022/05/31/industrial-robot-controllers-market-is-expected-to-exceed-us-1657-1-mn-by-the-end-of-2029/",
-      "originalUrl": "https://www.fmiblog.com/2022/05/31/industrial-robot-controllers-market-is-expected-to-exceed-us-1657-1-mn-by-the-end-of-2029/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-30T22:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Future Market Insights",
-        "domain": "fmiblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-the-role-of-artificial-intelligence-in-todays-digital-advertising.md",
-      "title": "The role of artificial intelligence in today’s digital advertising",
-      "excerpt": "According to The Insight Partners’ analysis, the worldwide Artificial Intelligence in the marketing sector is estimated to reach US$ 107,535.57 million by 2028, growing at a 31.6% compound ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/brandwagon/the-role-of-artificial-intelligence-in-todays-digital-advertising/2541323/",
-      "originalUrl": "https://www.financialexpress.com/brandwagon/the-role-of-artificial-intelligence-in-todays-digital-advertising/2541323/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/05/Manu-Gupta-ET-Medialabs.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/brandwagon/the-role-of-artificial-intelligence-in-todays-digital-advertising/2541323/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/brandwagon/the-role-of-artificial-intelligence-in-todays-digital-advertising/2541323/lite/",
-      "publishedDateTime": "2022-05-30T22:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-memorial-day-vacuum-sales-save-on-cordless-and-robot-vacuums.md",
-      "title": "Memorial Day vacuum sales: Save on cordless and robot vacuums",
-      "excerpt": "Because the Jet 75 weighs only 6 pounds, you won’t mind switching ... the robotic floor cleaner around your house to schedule cleaning sessions or changing modes, you can control the SpinWave ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/dtdeals/memorial-day-vacuum-sales-2022/",
-      "originalUrl": "https://www.digitaltrends.com/dtdeals/memorial-day-vacuum-sales-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/05/BISSELL-SpinWave-wet-and-dry-robotic-vacuum-cleaning-spilled-dog-food-1.jpg?p=1",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/dtdeals/memorial-day-vacuum-sales-2022/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/dtdeals/memorial-day-vacuum-sales-2022/?amp",
-      "publishedDateTime": "2022-05-30T22:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-local-robotics-team-finishes-competition-season-with-stellar-showing.md",
-      "title": "Local robotics team finishes competition season with stellar showing",
-      "excerpt": "“We call FIRST Robotics Competition the ultimate Sport for the Mind,” the organization’s website reads ... where the Titanium Titans practice driving their robot with a remote control. Competition season kicks off in February.",
-      "sourceUrl": null,
-      "webUrl": "https://observer-reporter.com/news/localnews/local-robotics-team-finishes-competition-season-with-stellar-showing/article_2d539ea8-bc10-11ec-9128-57845c1174a7.html",
-      "originalUrl": "https://observer-reporter.com/news/localnews/local-robotics-team-finishes-competition-season-with-stellar-showing/article_2d539ea8-bc10-11ec-9128-57845c1174a7.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/observer-reporter.com/content/tncms/assets/v3/editorial/4/3d/43d33fd8-bc2b-11ec-9731-6f55b7bbde32/6258798ee1bc0.image.jpg?resize=1024%2C640",
-          "width": 1024,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://observer-reporter.com/news/localnews/local-robotics-team-finishes-competition-season-with-stellar-showing/article_2d539ea8-bc10-11ec-9128-57845c1174a7.amp.html",
-      "cdnAmpWebUrl": "https://observer--reporter-com.cdn.ampproject.org/c/s/observer-reporter.com/news/localnews/local-robotics-team-finishes-competition-season-with-stellar-showing/article_2d539ea8-bc10-11ec-9128-57845c1174a7.amp.html",
-      "publishedDateTime": "2022-05-30T20:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Observer-Reporter",
-        "domain": "observer-reporter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-face-recognition-door-lock-market-size-share-and-major-industry-players-forecast-2021-2028.md",
-      "title": "Face Recognition Door Lock Market Size, Share And Major Industry Players Forecast (2021-2028)",
-      "excerpt": "The global “Face Recognition Door Lock Market Size ” research report encompasses a thorough study of the current situation of the global market along with several market dynamics. To formulate this report,",
-      "sourceUrl": null,
-      "webUrl": "https://xaralite.com/351663/news/face-recognition-door-lock-market-size-share-and-major-industry-players-forecast-2021-2028/",
-      "originalUrl": "https://xaralite.com/351663/news/face-recognition-door-lock-market-size-share-and-major-industry-players-forecast-2021-2028/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "xaralite.com",
-        "domain": "xaralite.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-humans-close-to-losing-autonomy-to-artificial-intelligence.md",
-      "title": "Humans Close to Losing Autonomy To Artificial Intelligence?",
-      "excerpt": "The biggest change of artificial intelligence will be the loss of autonomy of the human being and by extension of governments. What I mean to say is this: a self driving car is better because it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/website/story/humans-close-to-losing-autonomy-to-artificial-intelligence/297342/",
-      "originalUrl": "https://www.outlookindia.com/website/story/humans-close-to-losing-autonomy-to-artificial-intelligence/297342/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgnew.outlookindia.com/public/uploads/articles/2016/10/31/robot_20161031.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/website/story/humans-close-to-losing-autonomy-to-artificial-intelligence/297342/amp",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/story/humans-close-to-losing-autonomy-to-artificial-intelligence/297342/amp",
-      "publishedDateTime": "2022-05-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

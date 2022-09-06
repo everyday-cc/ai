@@ -1,20 +1,20 @@
 ---
 category: news
 title: "AI-powered service Vidby translates Zelenskyy’s speeches into 50 languages – Denys Krasnikov"
-excerpt: "Now, thanks to Vidby, this information is made available in your first language. If you think that an AI-powered translation tool is not something you can afford, you are in for a surprise."
-publishedDateTime: 2022-08-23T18:25:00Z
-originalUrl: "https://www.digitaljournal.com/pr/ai-powered-service-vidby-translates-zelenskyys-speeches-into-50-languages-denys-krasnikov"
-webUrl: "https://www.digitaljournal.com/pr/ai-powered-service-vidby-translates-zelenskyys-speeches-into-50-languages-denys-krasnikov"
+excerpt: "Meet Alexander Konovalov, Eugen von Rubenberg and Denys Krasnikov - the creators behind the unique machine video translation service called Vidby. Their online translation tool offers an unprecedented 99% translation accuracy - a result that as of now remains unmatched."
+publishedDateTime: 2022-08-23T20:18:00Z
+originalUrl: "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-8-23-ai-powered-service-vidby-translates-zelenskyys-speeches-into-50-languages-denys-krasnikov"
+webUrl: "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-8-23-ai-powered-service-vidby-translates-zelenskyys-speeches-into-50-languages-denys-krasnikov"
 type: article
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Buffalo News
+  domain: buffalonews.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "hDujl/Utyl3WDgsoZdQmf4UTN6TtOIywlgJwwloP91/EmTtjZp3ozjb4JgpXMg+bMKrjfcQBhMYQzKMd1/ROzvZdIqIZ4zZr91fYm5ir476ILCFB8cC2CmaReQTk+XbQH4cX4rLAlOfm5R/0zBMO9ypleW0X9txPAGKT+gyw38JCqmlNmsG8cxfEa59llgc9y2HfqL88sVHQOHDUg3H4AVZx04MyKNdKN6rgIkX47+++mIIxOHqwMobymKkIWE2xlUyxLTA/qwH5IsjhJCFfOq1ONLClQOfWfU4qpvy7JUitYpyMjD/k0Pf59up06CwWX/rsABouLO/1ZfooT21lN9ptCuSrTv0WkxRQBZQwR4o=;wsMXx+ePNL+I5ZKq2EZ/xg=="
+secured: "01FctPqYsWPtQrC7bb2dk5+AOF5UV2sBq91OVoDhXSFvJiQK933mhJ1IjYJz8zSnZ0yXatfKNu277QG5hxYQ/0r/0yvn/vNkQZysBDGgMITwMQDzbb0OwvcaNi4iSpcpezZQqF9J7GfAZNZRsLr1phKAJRLMmQzFub6UJ3Z5rGhP9x9d70YQb4GrMlVBP+eDQ2VIuYIm54AZQVigYbOx3XeXKrbhJFXxznTFz1TRg/KlMV8lUgAZYg9c4rqVGttVk/pC+if04+Qhx4FJPQIl+8tCcumt4xSlNyeHas5oLOxdGqPj4goWYrsPymcgvDQzFbVqrRqRcoCK2YV3zpYKys5kKuecFb6mCobCYkWd0EkSqlDvLLBlKiVR00BeV9GDrBXdT3Gr9Z0uBVp/HUGCgmTSvb6mV3rK6KjBDbMiOQsYhrh5PgbA6mVPuOO9+8p5AFsqx2dx1nAUEZcXvuCOKROwqKW2jCEI2ST3GwO+9dzYoh9FH1R7E9Cl9J/eJyjuGMR9kacBSh2MNdzMluhmzQ==;UY607jhiosrYb5v9DXh4Qg=="
 ---
 

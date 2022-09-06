@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia says U.S. government allows A.I. chip development in China"
-    excerpt: "Nvidia said in an SEC filing Wednesday that the U.S. government is restricting sales of high-performance AI chips for servers, the A100 and H100, to China and Russia. Sales of both chips are still ..."
-    publishedDateTime: 2022-09-01T23:25:00Z
-    webUrl: "https://www.cnbc.com/2022/09/01/nvidia-says-us-government-allows-ai-chip-development-in-china.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2022/09/01/nvidia-says-us-government-allows-ai-chip-development-in-china.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/09/01/nvidia-says-us-government-allows-ai-chip-development-in-china.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 89
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107067150-1653504509165-gettyimages-1399238927-0j5a8860_7b828a63-4abc-4260-8e26-82fd1b37b3b6.jpeg?v=1653504562"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "U.S. eases restrictions on Nvidia after banning AI chip exports to China"
-    excerpt: "and its forthcoming next-generation AI chip currently in development, the H100. The move effectively prohibits the company from exporting both chips to Chinese customers as the U.S. seeks to limit ..."
-    publishedDateTime: 2022-09-03T08:44:00Z
-    webUrl: "https://www.foxbusiness.com/markets/u-s-eases-restrictions-nvidia-banning-ai-chip-exports-china"
-    ampWebUrl: "https://www.foxbusiness.com/markets/u-s-eases-restrictions-nvidia-banning-ai-chip-exports-china.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/u-s-eases-restrictions-nvidia-banning-ai-chip-exports-china.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 73
-    images:
-      - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2021/12/Nvidia-chips-A.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "US Deals Heavy Blow to China Tech Ambitions With Nvidia Chip Ban"
     excerpt: "The US government’s new restrictions on the ability of Nvidia Corp. to sell artificial intelligence chips to Chinese customers threatens to deal a heavy blow to the country’s development of a sweeping range of cutting-edge technologies."
     publishedDateTime: 2022-09-02T10:58:00Z
@@ -73,19 +41,19 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Nvidia outlook: the US bans AI chips to China and Russia"
-    excerpt: "The end of August saw Nvidia state in an SEC filing that the US government is restricting the sale of its high-performance AI chips to China and Russia. The chips, created for the A100 and H100 servers,"
-    publishedDateTime: 2022-09-06T02:14:00Z
-    webUrl: "https://www.ig.com/en-ch/news-and-trade-ideas/nvidia-outlook--the-us-bans-ai-chips-to-china-and-russia-220906"
+  - title: "China may step up purchases of AI GPUs from Nvidia, AMD prior to export ban"
+    excerpt: "The fresh US ban on exports of AI GPUs to China has sparked market speculation that the restriction may prompt Chinese clients to accelerate and increase shipment pull-ins for advanced GPUs from major suppliers Nvidia and AMD before a buffer period expires on September 1,"
+    publishedDateTime: 2022-09-05T06:11:00Z
+    webUrl: "https://www.digitimes.com/news/a20220905PD200/amd-gpu-nvidia.html"
     type: article
     provider:
-      name: ig.com
-      domain: ig.com
-    quality: 54
+      name: Digi Times
+      domain: digitimes.com
+    quality: 52
     images:
-      - url: "https://a.c-dn.net/c/content/dam/publicsites/igcom/uk/images/news-article-image-folder/bg_nvidia_333689036.jpg"
-        width: 600
-        height: 450
+      - url: "https://img.digitimes.com/newsshow/20220905pd200_files/2_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "US deals heavy blow to China tech ambitions with Nvidia chip ban"
     excerpt: "The US government’s new restrictions on the ability of Nvidia Corp to sell artificial intelligence (AI) chips to Chinese customers threatens to deal a heavy blow to the country’s development of a sweeping range of cutting-edge technologies."
@@ -113,6 +81,20 @@ related:
     images:
       - url: "https://img2.chinadaily.com.cn/images/202209/02/6311570da310fd2bec9f67af.jpeg"
         width: 720
+        height: 480
+        isCached: true
+  - title: "Chinese chip companies reveal new GPU, technologies at WAIC 2022 in Shanghai, demonstrating progress of China's chip design capabilities"
+    excerpt: "A number of new China-made chips and related technologies have been released during the ongoing three-day artificial intelligence (AI) gala World Artificial Intelligence Conference (WAIC) 2022, demonstrating the progress of China's chip design capabilities despite overseas efforts to cripple the country’s high-tech rise."
+    publishedDateTime: 2022-09-02T08:40:00Z
+    webUrl: "https://www.globaltimes.cn/page/202209/1274479.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 36
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-08-22/eacde520-ac09-4f53-92dc-685a5ff3117c.jpeg"
+        width: 800
         height: 480
         isCached: true
 

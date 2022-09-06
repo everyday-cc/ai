@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/6-ai-companies-disrupting-healthcare-in-2022
 ampWebUrl: "https://venturebeat.com/ai/6-ai-companies-disrupting-healthcare-in-2022/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/6-ai-companies-disrupting-healthcare-in-2022/amp/"
 type: article
-quality: 104
-heat: 144
+quality: 106
+heat: 146
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1158965842.jpg?w=1200&strip=all"

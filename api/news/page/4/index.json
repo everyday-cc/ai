@@ -2,6 +2,299 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-09-01-in-the-face-of-recession-investing-in-ai-is-a-smarter-strategy-than-ever.md",
+      "title": "In The Face Of Recession, Investing In AI Is A Smarter Strategy Than Ever",
+      "excerpt": "By making a few smart investments today, businesses can emerge from any oncoming recession, more effective and efficient than they were before.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/in-the-face-of-recession-investing-in-ai-is-a-smarter-strategy-than-ever/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/in-the-face-of-recession-investing-in-ai-is-a-smarter-strategy-than-ever/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5fc7e538b6f0e3645ec8ff41/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/in-the-face-of-recession-investing-in-ai-is-a-smarter-strategy-than-ever/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/01/in-the-face-of-recession-investing-in-ai-is-a-smarter-strategy-than-ever/amp/",
+      "publishedDateTime": "2022-09-01T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-do-conversational-ai-systems-understand-humor.md",
+      "title": "Do Conversational AI Systems Understand Humor?",
+      "excerpt": "Can you do something?” I asked a conversational AI system. “I’m happy to do what I can, in any way that I can,” replied the machine. Over the whole of human history, many researchers and scientists have been investigating humor as a human phenomenon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/do-conversational-ai-systems-understand-humor/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/do-conversational-ai-systems-understand-humor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/630f5fcdea3acb1b4f6f8744/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/do-conversational-ai-systems-understand-humor/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/01/do-conversational-ai-systems-understand-humor/amp/",
+      "publishedDateTime": "2022-09-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-cognitive-services-market-2022-disclosing-latest-trends-and-advancement-outlook-2028-microsoft-google-aws.md",
+      "title": "Cognitive Services Market 2022 Disclosing Latest Trends and Advancement Outlook 2028 – Microsoft, Google, AWS",
+      "excerpt": "Top Companies in the global Cognitive Services market are IBM, Microsoft, Google, AWS, Baidu, Nuance Communications, Qualcomm Technologies, SAS, Apple, TCS, Nokia, Expert System, Verbio Technologies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-2022-disclosing-latest-trends-and-advancement-outlook-2028-microsoft-google-aws-2022-09-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-2022-disclosing-latest-trends-and-advancement-outlook-2028-microsoft-google-aws-2022-09-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-01T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-us-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts.md",
+      "title": "U.S. Export Ban on Some Advanced AI Chips to Hit Almost All China Tech Majors - Analysts",
+      "excerpt": "SHANGHAI (Reuters) - A U.S. order to ban exports of some advanced chips to China is likely to hit almost any major tech company running public clouds or advanced artificial intelligence training ...",
+      "sourceUrl": null,
+      "webUrl": "https://money.usnews.com/investing/news/articles/2022-09-01/u-s-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts",
+      "originalUrl": "https://money.usnews.com/investing/news/articles/2022-09-01/u-s-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-01T03:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-how-to-prepare-faster-for-looming-ai-regulation-turn-defense-into-offense.md",
+      "title": "How To Prepare Faster For Looming AI Regulation: Turn Defense Into Offense",
+      "excerpt": "With AI, the same elements of an effective culture of compliance can also spark innovation, collaboration and agility with data science.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/how-to-prepare-faster-for-looming-ai-regulation-turn-defense-into-offense/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/how-to-prepare-faster-for-looming-ai-regulation-turn-defense-into-offense/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/630f5e5918c93764f06047ca/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/how-to-prepare-faster-for-looming-ai-regulation-turn-defense-into-offense/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/01/how-to-prepare-faster-for-looming-ai-regulation-turn-defense-into-offense/amp/",
+      "publishedDateTime": "2022-09-01T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-us-export-ban-on-some-advanced-ai-chips-to-hit-china-tech-majors.md",
+      "title": "U.S. export ban on some advanced AI chips to hit China tech majors",
+      "excerpt": "A U.S. order to ban exports of some advanced chips to China is likely to hit almost any major tech company running public clouds or advanced artificial intelligence training modules in the country, experts said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/us-export-ban-some-advanced-ai-chips-hit-almost-all-china-tech-majors-analysts-2022-09-01/",
+      "originalUrl": "https://www.reuters.com/technology/us-export-ban-some-advanced-ai-chips-hit-almost-all-china-tech-majors-analysts-2022-09-01/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/-52JtMZ5ltCjOvdIznDRdpNeJUU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5ULYQLPGWJKG3E22NO3SWMBKWA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-01T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-ai-in-fintech-market-will-reach-more-than-61-billion-by-2031.md",
       "title": "AI In Fintech Market Will Reach More Than $61 Billion, By 2031",
       "excerpt": "Artificial Intelligence has been growing its influence in Fintech, and is projected to hit $61 billion in under 10 years. We tell you how.",
@@ -190,6 +483,59 @@
         "AI",
         "AI Hardware",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-israeli-facial-recognition-once-did-border-checks-in-the-west-bank-now-it-snoops-on-casinos-across-america.md",
+      "title": "Israeli Facial Recognition Once Did Border Checks In The West Bank. Now It Snoops On Casinos Across America",
+      "excerpt": "Israeli facial recognition tech is now in use at casinos in the U.S, raising concerns about how private entities will use powerful surveillance tools. Day after day, thousands of faces appear on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2022/09/01/oosto-israel-facial-recognition-surveillance-on-casinos-in-america/",
+      "originalUrl": "https://www.forbes.com/sites/thomasbrewster/2022/09/01/oosto-israel-facial-recognition-surveillance-on-casinos-in-america/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6310bde3528cfaa940213ebe/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -863,330 +1209,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-mi5-reveals-it-has-been-working-with-an-ai-non-profit-on-national-security-since-2017.md",
-      "title": "MI5 reveals it has been working with an AI non-profit on national security since 2017",
-      "excerpt": "The security service has been working with The Alan Turing Institute and has decided to unveil the partnership today to allow the pair to work more closely together",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368922/mi5-reveals-it-has-been-working-with-an-ai-non-profit-national-security-2017",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368922/mi5-reveals-it-has-been-working-with-an-ai-non-profit-national-security-2017",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1661941040/itpro/2022/August/MI5_HQ_Thames_House_London_spy_GettyImages-182911822.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-31T03:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-ai-in-fintech-global-market-to-reach-2417-billion-by-2026.md",
-      "title": "AI in FinTech Global Market to Reach $24.17 Billion by 2026",
-      "excerpt": "AI in FinTech Global Market to Reach $24.17 Billion by 2026 Aug 31, 2022 (PRNewswire via COMTEX) -- PR Newswire DUBLIN, DUBLIN, Aug. 31,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-global-market-to-reach-2417-billion-by-2026-2022-08-31",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-global-market-to-reach-2417-billion-by-2026-2022-08-31",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-31T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology.md",
-      "title": "Removing the data security barriers and concerns to accelerate speech recognition usage in radiology",
-      "excerpt": "According to Scribetech, security is a key barrier to adopting speech recognition – despite its potential to accelerate reporting time, drive accuracy, and enable radiologists to deal with a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kxan.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/",
-      "originalUrl": "https://www.kxan.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-31T01:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KXAN",
-        "domain": "kxan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-hovertouch-first-ai-and-computer-vision-solution-launched-by-spacee-that-transforms-existing-retail-surfaces-into-interactive-customer-experiences.md",
-      "title": "HoverTouch: First AI and Computer Vision Solution launched by Spacee that Transforms Existing Retail Surfaces Into Interactive Customer Experiences",
-      "excerpt": "About Spacee Spacee provides the best computer vision and AI solutions that help businesses drive new insights, improve efficiency and boost revenue. Spacee's interactive displays help engage and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56938910-hovertouch-first-ai-and-computer-vision-solution-launched-by-spacee-that-transforms-existing-retail-surfaces-into-interactive-customer-experiences-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56938910-hovertouch-first-ai-and-computer-vision-solution-launched-by-spacee-that-transforms-existing-retail-surfaces-into-interactive-customer-experiences-008.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-31T01:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-baidu-claims-its-robotaxis-have-grabbed-10-of-the-ride-hailing-market-in-a-suburb-of-beijing.md",
-      "title": "Baidu claims its robotaxis have grabbed 10% of the ride-hailing market in a suburb of Beijing",
-      "excerpt": "Chinese tech giant Baidu said its robotaxis have grabbed about 10% of the ride-hailing market in a suburb of Beijing city. Baidu began offering free robotaxi rides in the suburban region in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/08/31/baidu-claims-its-robotaxis-have-grabbed-10percent-of-a-ride-hailing-market.html",
-      "originalUrl": "https://www.cnbc.com/2022/08/31/baidu-claims-its-robotaxis-have-grabbed-10percent-of-a-ride-hailing-market.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107111680-1661904834859-gettyimages-1355764512-vcg111359334633.jpeg?v=1661907038",
-          "width": 3988,
-          "height": 2652,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/08/31/baidu-claims-its-robotaxis-have-grabbed-10percent-of-a-ride-hailing-market.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/08/31/baidu-claims-its-robotaxis-have-grabbed-10percent-of-a-ride-hailing-market.html",
-      "publishedDateTime": "2022-08-30T22:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-start-talking-the-true-potential-of-conversational-ai-in-the-enterprise.md",
-      "title": "Start talking: The true potential of conversational AI in the enterprise",
-      "excerpt": "A holistic approach, good governance, and internal lifecycle automation are key factors of success in implementing conversational AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/start-talking-the-true-potential-of-conversational-ai-in-the-enterprise/",
-      "originalUrl": "https://venturebeat.com/ai/start-talking-the-true-potential-of-conversational-ai-in-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1324517786-Andrey-Suslov.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/start-talking-the-true-potential-of-conversational-ai-in-the-enterprise/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/start-talking-the-true-potential-of-conversational-ai-in-the-enterprise/amp/",
-      "publishedDateTime": "2022-08-30T21:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.md",
-      "title": "TensorFlow, PyTorch, and JAX: Choosing a deep learning framework",
-      "excerpt": "Three widely used frameworks are leading the way in deep learning research and production today. Which one should you use?",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/701064/tensorflow-pytorch-jax-choosing-deep-learning-framework/?fp=2&fpid=1",
-      "originalUrl": "https://www.arnnet.com.au/article/701064/tensorflow-pytorch-jax-choosing-deep-learning-framework/?fp=2&fpid=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_107745072.jpg",
-          "width": 473,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T19:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI",
-        "Facebook AI",
-        "TensorFlow"
       ]
     }
   ],

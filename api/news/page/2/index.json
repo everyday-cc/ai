@@ -2,6 +2,248 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-04-how-lord-of-the-rings-used-ai-to-change-big-screen-battles-forever.md",
+      "title": "How 'Lord of the Rings' Used AI to Change Big-Screen Battles Forever",
+      "excerpt": "Massive software has spawned armies of artificially intelligent crowds, from Lord of the Rings to Avengers: Endgame.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/culture/entertainment/features/how-lord-of-the-rings-used-ai-to-change-big-screen-battles-forever/",
+      "originalUrl": "https://www.cnet.com/culture/entertainment/features/how-lord-of-the-rings-used-ai-to-change-big-screen-battles-forever/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/55e5d94df81ac6baa25b60737dccd3e8b7165511/hub/2021/08/27/30dbd364-143e-493e-8371-445fa1de441c/screen-shot-2021-08-27-at-10-31-45-am.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-04T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-09-04-how-artificial-intelligence-can-be-trained-to-detect-tumour-research.md",
+      "title": "How artificial intelligence can be trained to detect tumour: Research",
+      "excerpt": "The Bochum team's explainable AI is therefore based on the only kind of meaningful statements known to science: on falsifiable hypotheses. If a hypothesis is false, this fact must be demonstrable through an experiment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/lifestyle/health/how-artificial-intelligence-can-be-trained-to-detect-tumour-research-101662275513848.html",
+      "originalUrl": "https://www.hindustantimes.com/lifestyle/health/how-artificial-intelligence-can-be-trained-to-detect-tumour-research-101662275513848.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/09/04/1600x900/_b58a8de0-332a-11e8-9916-7e63ef9446cf_1662275576577_1662275576577.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/lifestyle/health/how-artificial-intelligence-can-be-trained-to-detect-tumour-research-101662275513848-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/health/how-artificial-intelligence-can-be-trained-to-detect-tumour-research-101662275513848-amp.html",
+      "publishedDateTime": "2022-09-04T00:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-09-04-3-model-monitoring-tips-for-reliable-results-when-deploying-ai.md",
+      "title": "3 model monitoring tips for reliable results when deploying AI",
+      "excerpt": "Truly transformative AI deployments involve careful monitoring and testing, resulting in continuous improvement.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/3-model-monitoring-tips-for-reliable-results-when-deploying-ai/",
+      "originalUrl": "https://venturebeat.com/ai/3-model-monitoring-tips-for-reliable-results-when-deploying-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1313178434.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 689,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/3-model-monitoring-tips-for-reliable-results-when-deploying-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-model-monitoring-tips-for-reliable-results-when-deploying-ai/amp/",
+      "publishedDateTime": "2022-09-03T17:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-04-usa-white-house-president-joe-biden-advances-regional-innovation-in-cleantech-energy-and-ai.md",
+      "title": "USA WHITE HOUSE PRESIDENT JOE BIDEN ADVANCES REGIONAL INNOVATION IN CLEANTECH, ENERGY AND AI.",
+      "excerpt": "The USA White House with President Biden announced on Friday the winners of a $1B economic development competition and announced the recipients for projects in areas like clean energy, tech, and AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/09/03/usa-white-house-president-joe-biden-advances-regional-innovation-in-cleantech-energy-and-ai/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/09/03/usa-white-house-president-joe-biden-advances-regional-innovation-in-cleantech-energy-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6313c79ffa048ac26eb3f6a1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2022/09/03/usa-white-house-president-joe-biden-advances-regional-innovation-in-cleantech-energy-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/09/03/usa-white-house-president-joe-biden-advances-regional-innovation-in-cleantech-energy-and-ai/amp/",
+      "publishedDateTime": "2022-09-03T14:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-04-researchers-develop-computer-chip-to-carry-out-variety-of-artificial-intelligence-functions.md",
+      "title": "Researchers Develop Computer Chip to Carry Out Variety of Artificial Intelligence Functions",
+      "excerpt": "In a recent study published in Nature, an international research team have created a computer chip, called the NeuRRAM neuromorphic chip, that performs com | Technology",
+      "sourceUrl": null,
+      "webUrl": "https://www.labroots.com/trending/technology/23475/researchers-develop-computer-chip-carry-variety-artificial-intelligence-functions-2",
+      "originalUrl": "https://www.labroots.com/trending/technology/23475/researchers-develop-computer-chip-carry-variety-artificial-intelligence-functions-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.labroots.com/_public/_files/system/ck/trending/artificial-intelligence-gd8c21572c_1280_a8f5b10e23fba74f635210edb7370eb2.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.labroots.com/trending/technology/23475/researchers-develop-computer-chip-carry-variety-artificial-intelligence-functions-2/amp",
+      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/23475/researchers-develop-computer-chip-carry-variety-artificial-intelligence-functions-2/amp",
+      "publishedDateTime": "2022-09-03T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Labroots",
+        "domain": "labroots.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-03-ai-powered-personalization-the-key-to-unlocking-ecommerce-growth.md",
       "title": "AI-powered personalization: The key to unlocking ecommerce growth",
       "excerpt": "AI-powered personalization allows businesses to predict their customers’ requirements and be proactive with solutions.",
@@ -218,7 +460,7 @@
       "originalUrl": "https://economictimes.indiatimes.com/magazines/panache/metas-ai-chatbot-hates-mark-zuckerberg-but-does-it-care-about-racism/articleshow/93968867.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -250,6 +492,49 @@
       "topics": [
         "Facebook AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-03-artificial-intelligence-can-be-used-to-better-monitor-maines-forests-study-finds.md",
+      "title": "Artificial intelligence can be used to better monitor Maine's forests, study finds",
+      "excerpt": "Monitoring and measuring forest ecosystems is a complex challenge because of an existing combination of softwares, collection systems and computing environments that require increasing amounts of energy to power.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-09-artificial-intelligence-maine-forests.html",
+      "originalUrl": "https://phys.org/news/2022-09-artificial-intelligence-maine-forests.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-63.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-09-artificial-intelligence-maine-forests.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-artificial-intelligence-maine-forests.amp",
+      "publishedDateTime": "2022-09-03T03:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -401,51 +686,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-artificial-intelligence-can-be-used-to-better-monitor-maines-forests.md",
-      "title": "Artificial intelligence can be used to better monitor Maine's forests",
-      "excerpt": "Researchers have developed a novel method of using artificial intelligence and machine learning to make monitoring soil moisture more energy and cost efficient. The software learns over time how to make the best use of available network resources,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/09/220902154904.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/09/220902154904.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T13:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare",
-        "AWS AI"
       ]
     },
     {
@@ -851,6 +1091,50 @@
       ]
     },
     {
+      "path": "_news/2022-09-02-us-deals-heavy-blow-to-china-tech-ambitions-with-nvidia-chip-ban.md",
+      "title": "US Deals Heavy Blow to China Tech Ambitions With Nvidia Chip Ban",
+      "excerpt": "The US government’s new restrictions on the ability of Nvidia Corp. to sell artificial intelligence chips to Chinese customers threatens to deal a heavy blow to the country’s development of a sweeping range of cutting-edge technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bnnbloomberg.ca/us-deals-heavy-blow-to-china-tech-ambitions-with-nvidia-chip-ban-1.1813842",
+      "originalUrl": "https://www.bnnbloomberg.ca/us-deals-heavy-blow-to-china-tech-ambitions-with-nvidia-chip-ban-1.1813842",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.bnnbloomberg.ca/polopoly_fs/1.1813843!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/nvidia-headquarters-in-santa-clara-california-u-s-on-tuesday-feb-23-2021-nvidia-corp-is-expected-to-release-earnings-figures-on-february-24.png",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bnnbloomberg.ca/us-deals-heavy-blow-to-china-tech-ambitions-with-nvidia-chip-ban-1.1813842.amp.html",
+      "cdnAmpWebUrl": "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/us-deals-heavy-blow-to-china-tech-ambitions-with-nvidia-chip-ban-1.1813842.amp.html",
+      "publishedDateTime": "2022-09-02T03:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bnnbloomberg",
+        "domain": "bnnbloomberg.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-09-02-artificial-intelligence-ai-chips-market-future-growth-and-business-opportunities-2022-2025latest-research-report.md",
       "title": "Artificial Intelligence (AI) Chips Market Future Growth and Business Opportunities 2022-2025|Latest Research Report",
       "excerpt": "Global \"Artificial Intelligence (AI) Chips Market\" in the forecast period of 2022-2025. Artificial Intelligence (AI)",
@@ -951,283 +1235,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-teachers-union-say-to-new-face-recognition-app-education-minister-satyanarayan.md",
-      "title": "Teachers’ union say to new face recognition app: Education Minister Satyanarayan",
-      "excerpt": "The minister expressed confidence that technical glitches will not be a hindrance and they will be sorted out in the due course.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/cities/vijayawada/2022/sep/02/teachers-union-sayto-new-face-recognition-appeducation-ministersatyanarayan-2494005.html",
-      "originalUrl": "https://www.newindianexpress.com/cities/vijayawada/2022/sep/02/teachers-union-sayto-new-face-recognition-appeducation-ministersatyanarayan-2494005.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/9/2/w600X390/faceapp.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/cities/vijayawada/2022/sep/02/teachers-union-sayto-new-face-recognition-appeducation-ministersatyanarayan-2494005.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/vijayawada/2022/sep/02/teachers-union-sayto-new-face-recognition-appeducation-ministersatyanarayan-2494005.amp",
-      "publishedDateTime": "2022-09-01T17:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-gm-driverless-car-unit-recalls-vehicles-after-accident.md",
-      "title": "GM Driverless Car Unit Recalls Vehicles After Accident",
-      "excerpt": "The company, which is the first to have deployed driverless taxis in San Francisco in June, sent a notice this week to the US agency in charge of road safety, the National Highway Traffic Safety ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/gm-driverless-car-unit-recalls-vehicles-after-accident-3608505",
-      "originalUrl": "https://www.ibtimes.com/gm-driverless-car-unit-recalls-vehicles-after-accident-3608505",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.ibtimes.com/en/full/3811638/general-motors-cruise-self-driving-car-designed-operate-its-own-no-driver-steering-wheel.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/gm-driverless-car-unit-recalls-vehicles-after-accident-3608505?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/gm-driverless-car-unit-recalls-vehicles-after-accident-3608505?amp=1",
-      "publishedDateTime": "2022-09-01T16:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-nvidia-says-us-government-allows-ai-chip-development-in-china.md",
-      "title": "Nvidia says U.S. government allows A.I. chip development in China",
-      "excerpt": "Nvidia said in an SEC filing Wednesday that the U.S. government is restricting sales of high-performance AI chips for servers, the A100 and H100, to China and Russia. Sales of both chips are still ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/09/01/nvidia-says-us-government-allows-ai-chip-development-in-china.html",
-      "originalUrl": "https://www.cnbc.com/2022/09/01/nvidia-says-us-government-allows-ai-chip-development-in-china.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107067150-1653504509165-gettyimages-1399238927-0j5a8860_7b828a63-4abc-4260-8e26-82fd1b37b3b6.jpeg?v=1653504562",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/09/01/nvidia-says-us-government-allows-ai-chip-development-in-china.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/09/01/nvidia-says-us-government-allows-ai-chip-development-in-china.html",
-      "publishedDateTime": "2022-09-01T16:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-can-ai-help-solve-educations-big-data-problems.md",
-      "title": "Can AI help solve education's big data problems?",
-      "excerpt": "This Intel executive thinks AI applications will be essential to extracting future insights from the onslaught of data modern education creates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/education/computers-tech/intel-using-ai-to-solve-education-big-data-problems/",
-      "originalUrl": "https://www.zdnet.com/education/computers-tech/intel-using-ai-to-solve-education-big-data-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/7550c114ff55f32d60dc60534ecc1bf85ef71db1/2019/03/25/a6d4ddc6-f89a-4338-a513-9e211cde545e/computerscienceistock-962475952.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/education/computers-tech/intel-using-ai-to-solve-education-big-data-problems/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/education/computers-tech/intel-using-ai-to-solve-education-big-data-problems/",
-      "publishedDateTime": "2022-09-01T15:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-financial-language-and-the-evolution-of-speech-recognition-technology.md",
-      "title": "Financial language and the evolution of speech recognition technology",
-      "excerpt": "By Katy Wigdahl, CEO, Speechmatics Due to its long heritage and diverse spread of legacy technologies, it can be challenging to integrate new technological developments into the financial industry. But by not doing so,",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/financial-language-and-the-evolution-of-speech-recognition-technology/",
-      "originalUrl": "https://www.globalbankingandfinance.com/financial-language-and-the-evolution-of-speech-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/09/iStock-861092546.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/financial-language-and-the-evolution-of-speech-recognition-technology/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/financial-language-and-the-evolution-of-speech-recognition-technology/",
-      "publishedDateTime": "2022-09-01T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-with-new-china-ai-chip-restrictions-us-takes-aim-at-a-critical-niche.md",
-      "title": "With New China AI Chip Restrictions, U.S. Takes Aim at a Critical Niche",
-      "excerpt": "(Reuters) - The United States beefed up its effort to cut off the flow of advanced technology to China by instructing Nvidia Corp and Advanced Micro Devices to stop sending their flagship ...",
-      "sourceUrl": null,
-      "webUrl": "https://money.usnews.com/investing/news/articles/2022-09-01/with-new-ai-chip-rules-u-s-takes-aim-at-a-critical-niche",
-      "originalUrl": "https://money.usnews.com/investing/news/articles/2022-09-01/with-new-ai-chip-rules-u-s-takes-aim-at-a-critical-niche",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-01T13:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

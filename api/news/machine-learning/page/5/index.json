@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-07-27-why-machine-learning-in-ad-tech-is-ready-for-liftoff.md",
+      "title": "Why Machine Learning In Ad Tech Is Ready For Liftoff",
+      "excerpt": "Learn more about the incredible scale and complexity of machine learning in ad tech with Yunshi Zhao, ML engineer at Liftoff Mobile. Zhao also part of the diversity, equity, and inclusion (DEI) committee at Liftoff,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/27/why-machine-learning-in-ad-tech-is-ready-for-liftoff/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/27/why-machine-learning-in-ad-tech-is-ready-for-liftoff/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e03f3a3d45822eb9a0bf5b/0x0.jpg?format=jpg&width=1200",
+          "width": 956,
+          "height": 561,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/27/why-machine-learning-in-ad-tech-is-ready-for-liftoff/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/07/27/why-machine-learning-in-ad-tech-is-ready-for-liftoff/amp/",
+      "publishedDateTime": "2022-07-27T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-27-using-machine-learning-to-simplify-healthcare-information-exchange.md",
       "title": "Using machine learning to simplify healthcare information exchange",
       "excerpt": "Improving the Patient Financial Experience Throughout the Patient Journey While many healthcare providers believe that improving the patient financial experience is a critical step for their organization, few have done so successfully. Read this brief to ...",
@@ -1364,58 +1416,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-data-science-and-machine-learning-platforms-market-overview-by-recent-opportunities-growth-size-regional-analysis-and-forecasts-to-2026.md",
-      "title": "Data Science and Machine-Learning Platforms Market Overview by Recent Opportunities, Growth Size, Regional Analysis and Forecasts to 2026",
-      "excerpt": "Global “ Data Science and Machine-Learning Platforms Market “ report is the single authoritative source of intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-overview-by-recent-opportunities-growth-size-regional-analysis-and-forecasts-to-2026-2022-07-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-overview-by-recent-opportunities-growth-size-regional-analysis-and-forecasts-to-2026-2022-07-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-18T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

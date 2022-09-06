@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-06-detect-audio-events-with-amazon-rekognition.md",
+      "title": "Detect audio events with Amazon Rekognition",
+      "excerpt": "When most people think of using machine learning (ML) with audio data, the use case that usually comes to mind is transcription, also known as speech-to-text. However, there are other useful applications, including using ML to detect sounds. Using software to detect a sound is called audio event detection,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-audio-events-with-amazon-rekognition/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-audio-events-with-amazon-rekognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/30/ML-8724-image003-1249x630.png",
+          "width": 1249,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-06T10:44:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-09-03-unpacking-the-best-top-ten-quotes-about-artificial-intelligence-leveraging-modern-day-ai-ethics-thinking.md",
       "title": "Unpacking The Best Top Ten Quotes About Artificial Intelligence Leveraging Modern-Day AI Ethics Thinking",
       "excerpt": "This is a carefully devised set of Top Ten quotes about AI, providing an explanation about each quote and illuminating key insights about the future of AI, doing so with a keen eye toward the latest in AI Ethics thinking.",
@@ -52,51 +105,6 @@
         "AI in Autos",
         "AI",
         "AI Ethics",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-artificial-intelligence-can-be-used-to-better-monitor-maines-forests.md",
-      "title": "Artificial intelligence can be used to better monitor Maine's forests",
-      "excerpt": "Researchers have developed a novel method of using artificial intelligence and machine learning to make monitoring soil moisture more energy and cost efficient. The software learns over time how to make the best use of available network resources,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/09/220902154904.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/09/220902154904.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T13:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare",
         "AWS AI"
       ]
     },
@@ -478,10 +486,10 @@
     {
       "path": "_news/2022-08-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry.md",
       "title": "Teradata Announces ClearScape Analytics: The Most Powerful, Open, and Connected Cloud Analytics Available in the Industry",
-      "excerpt": "ClearScape Analytics – which encompasses the same high-performing analytics that Teradata is known for but with 50+ new analytic functions – is available as part of Teradata VantageCloud and the new Teradata VantageCloud Lake,",
+      "excerpt": "Teradata (NYSE: TDC) today announced ClearScape Analytics, the significantly expanded and newly named analytics capabilities that span the entire suite of Vantage products. Teradata Vantage's industry-leading analytics have long been the cornerstone of the platform's appeal to enterprise customers for its ability to accelerate data insights and time to value.",
       "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry",
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/08/29/9663280.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/08/29/9663280.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -491,11 +499,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T03:55:00-07:00",
+      "publishedDateTime": "2022-08-29T05:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -852,17 +860,17 @@
     {
       "path": "_news/2022-08-24-cloud-computing-degree-programs-help-fill-workforce-gaps.md",
       "title": "Cloud Computing Degree Programs Help Fill Workforce Gaps",
-      "excerpt": "The demand for cloud computing skills is sky-high, and colleges and universities are helping their students attain them.",
+      "excerpt": "In his own classes, Cain plans to help students build skills around Amazon Redshift (the cloud vendor’s data warehousing and operational database platform); Amazon SageMaker (a machine learning modeling suite); and tools that use artificial intelligence ...",
       "sourceUrl": null,
-      "webUrl": "https://edtechmagazine.com/higher/article/2022/08/cloud-computing-degree-programs-help-fill-workforce-gaps",
-      "originalUrl": "https://edtechmagazine.com/higher/article/2022/08/cloud-computing-degree-programs-help-fill-workforce-gaps",
+      "webUrl": "https://edtechmagazine.com/higher/k12/article/2022/08/cloud-computing-degree-programs-help-fill-workforce-gaps",
+      "originalUrl": "https://edtechmagazine.com/higher/k12/article/2022/08/cloud-computing-degree-programs-help-fill-workforce-gaps",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://edtechmagazine.com/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202208/HiEd_Q322_F_Hennick_Hero.jpg?itok=fjOAQQW4",
+          "url": "https://edtechmagazine.com/higher/k12/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202208/HiEd_Q322_F_Hennick_Hero.jpg?itok=fjOAQQW4",
           "width": 1440,
           "height": 500,
           "title": null,
@@ -872,9 +880,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://edtechmagazine.com/higher/article/2022/08/cloud-computing-degree-programs-help-fill-workforce-gaps?amp",
-      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2022/08/cloud-computing-degree-programs-help-fill-workforce-gaps?amp",
-      "publishedDateTime": "2022-08-23T10:30:00-07:00",
+      "ampWebUrl": "https://edtechmagazine.com/higher/k12/article/2022/08/cloud-computing-degree-programs-help-fill-workforce-gaps?amp",
+      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/k12/article/2022/08/cloud-computing-degree-programs-help-fill-workforce-gaps?amp",
+      "publishedDateTime": "2022-08-23T10:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "EdTech",

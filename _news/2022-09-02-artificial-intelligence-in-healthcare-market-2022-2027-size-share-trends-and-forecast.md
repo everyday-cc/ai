@@ -33,7 +33,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1158965842.jpg?w=1200&strip=all"
         width: 1200

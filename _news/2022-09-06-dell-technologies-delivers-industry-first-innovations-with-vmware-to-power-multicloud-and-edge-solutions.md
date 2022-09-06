@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Dell Technologies Partners VMware to Power Multicloud and Edge Solutions"
+    excerpt: "Dell Technologies is introducing new infrastructure solutions, co-engineered with VMware, that deliver greater automation and performance for organizations embracing multicloud and edge strategies. “C"
+    publishedDateTime: 2022-09-06T15:57:00Z
+    webUrl: "https://www.smechannels.com/dell-technologies-partners-vmware-to-power-multicloud-and-edge-solutions/"
+    type: article
+    provider:
+      name: NETGEAR
+      domain: smechannels.com
+    quality: 23
+    images:
+      - url: "https://i0.wp.com/www.smechannels.com/wp-content/uploads/2022/09/Jeff-Boudreau.png?fit=610%2C380&ssl=1"
+        width: 610
+        height: 380
+        isCached: true
   - title: "Dell technologies delivers industry-first innovations with VMware to power multi-cloud and edge solutions"
     excerpt: "Business data and applications continue to grow in multi-cloud environments comprised of edge locations, public clouds and on-premises IT. Many organi.."
     publishedDateTime: 2022-09-06T12:02:00Z

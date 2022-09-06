@@ -8,9 +8,9 @@ webUrl: "https://phys.org/news/2022-09-artificial-intelligence-maine-forests.htm
 ampWebUrl: "https://phys.org/news/2022-09-artificial-intelligence-maine-forests.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-artificial-intelligence-maine-forests.amp"
 type: article
-quality: 66
-heat: -1
-published: false
+quality: 68
+heat: 88
+published: true
 
 provider:
   name: Phys.org
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-63.jpg"

@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/magazines/panache/metas-ai-chatbot-hates
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/metas-ai-chatbot-hates-mark-zuckerberg-but-does-it-care-about-racism/amp_articleshow/93968867.cms"
 type: article
 quality: 58
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/09/05/dw-meta-bot-220904.jpg?VersionId=f8duEPud.5MOnC06gzh6ePuduLEJsDnE"
         width: 860
         height: 573
+        isCached: true
+  - title: "Why your chatbot sucks — and what you can do about it"
+    excerpt: "But even as today's bots struggle with accuracy and communication, the industry continues to believe in their potential."
+    publishedDateTime: 2022-09-06T16:05:00Z
+    webUrl: "https://www.mmm-online.com/home/channel/features/why-your-chatbot-sucks-and-what-you-can-do-about-it/"
+    type: article
+    provider:
+      name: MM&M
+      domain: mmm-online.com
+    quality: 24
+    images:
+      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2022/09/GettyImages-1337617436_edited-4-copy.jpg"
+        width: 1024
+        height: 650
         isCached: true
 
 secured: "WbTcClQmSF59B2KT2Qcn1jGcgUryIdujFXmuM1HoQzvDEjxDZ4EIdMSPOc1Eh+YjaxbgiriWNjm0Q/zAumeamVNPlCLBZFrUDs2PpRbmgrNCJLZ3IpswVBN0RNrsSEZsa1IC3bZbyXiWSMfGV7ejKoR0ViL9K2UflyyzrsUYvQivK1sVXgvjIc7bRI1Phq88vI6YgCDMghrC+MULnZpLT8Cz5WlZ05hCBSQkzt7B1K7TxPauipyxxcDt0LddOpd1h+JrNR8SoEy3ytdwjK9D9n6ZKaex+X7anlOd0bj+K67muv0RIGUFtkHa1jexIhwhsqQUbYJ5CiwqHeEtCKTZ2NeDJsw/EMg/KeJTGqQ1picsjxcj2N2eMoFXOyI5pAT+9RI+crjpVh5xTDCuTxMv4gnbH1gqeGXNixxNP1SZt365ubiq1rgNT7MN+KJrfbfoRG0DOSfjvTRF155JaozalzjoNIgaJmj0GynCvSfzDemxyGaq6LGBZfueghY4ilFmcL5x6aolMh+GMp3FMZoAcA==;X9QvGHjpwafOP5fRyC/E1A=="
