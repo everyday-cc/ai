@@ -34,20 +34,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Instacart acquires AI pricing platform Eversight"
-    excerpt: "Instacart announced Thursday its acquisition of Eversight, an AI company that helps consumer packaged goods brands and retailers determine pricing and promotions. Eversight’s AI allows consumer packaged goods (CPG) brands and retailers to continuously test pricing and promotions at scale,"
-    publishedDateTime: 2022-09-01T13:00:00Z
-    webUrl: "https://www.fastcompany.com/90784547/instacart-acquires-ai-pricing-platform-eversight"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 37
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/w_596,c_limit,q_auto:best,f_auto/wp-cms/uploads/2022/09/i-1-instacart-acquires-ai-pricing-platform-eversight.jpg"
-        width: 596
-        height: 350
-        isCached: true
 
 secured: "wDi0yGy9diowYv0BUGn++UK4UeNQDKMHfohEbZvNgfFyObZjmNhT/dFdYWnQ2jw6Y+IdpVRgsiaEeLJeKNdIx1FKsRc4MlB0njT7nL7VE/notpbKylqF0WX75aaskbYgNWMI4XA9PR+yZOb7ZYLGBWpjoXI1e9jPnGYPZwB3HN3qqWIVOUOhdoHIRBDwpqSWyU0RnywLpxgLTky72wd3XX5JOlKEzQDJMFw55cO2K84C8nlAiMml/iNOj7T59Fs9Q/MzuPfQE4YfHIi6w1+2YRNorA69K/XiwT/NNKbkXsHuQ4RsqMAz0A9P+IWNqTUa3o7FxCvvvvVZENZsdsUCe1LKIdJ8rYkNVL+49NR6T600U2YBxWZdygv60nZpMzqYnw76fxg62rT+T83wupe2fFCcryqCcoSdACqyARI18bmKGw6mGNQnIPSj/hAWRQxak2E++Ixpv4W2lZlB9ZME3/LfPZQDgisxs1zBRkNjiRshseWGzhgR/qAWaIn6KXsULHV3zmc0lYWjoXkJpuZ4UQ==;IGUXDmQK6KQRJ/xUvRsXtA=="
 ---

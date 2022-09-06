@@ -1,30 +1,24 @@
 ---
 category: news
-title: "U.S. Startup SiMa.ai Starts Shipping Machine Learning Chip And System"
-excerpt: "industrial robots, and eventually self-driving cars in, San Jose, California, U.S., in this undated handout photo. Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity ..."
-publishedDateTime: 2022-08-30T16:39:00Z
-originalUrl: "https://www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305"
-webUrl: "https://www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305"
-ampWebUrl: "https://www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305?amp=1"
+title: "U.S. startup SiMa.ai starts shipping machine learning chip and system"
+excerpt: "Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management & Research Company, said on Tuesday it started shipping chips and systems to customers that are testing them, an important step for mass production. We apologize ..."
+publishedDateTime: 2022-08-30T13:36:00Z
+originalUrl: "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system"
+webUrl: "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system"
+ampWebUrl: "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system/wcm/d3b033f1-d689-4d7b-bd86-a55744e847fe/amp/"
+cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system/wcm/d3b033f1-d689-4d7b-bd86-a55744e847fe/amp/"
 type: article
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Financial Post
+  domain: financialpost.com
 
 topics:
-  - AI in Robotics
+  - AI in Finance
   - AI
   - Machine Learning
   - AI Hardware
 
-images:
-  - url: "https://d.ibtimes.com/en/full/3810267/us-startup-simaai-starts-shipping-machine-learning-chip-system.jpg"
-    width: 1200
-    height: 798
-    isCached: true
-
-secured: "4Enucfej+BREjT00KGABJJe7R+ekGJ+4kI5Ke3Htqu73Me4Ot0sZ37G1/NZQG13MN5OqjmAhUASFpN3nvguDV+OUz8Z4N2XcyHbgqo4IFnQOo2AtNOHEFClM5jNoQU+TOH5EQUDyKWRiVGStrPUfkUMrDwmgP7XfmruPJGk3CXdskqpkcJ9Z/cHCqSk61wsiWgJSroZXolpIvnGElogRASURWPp2Rx6mLqU/9FCPyh1VNTkzd3c/pt3TzJ9ld1bDLDtcx8+z2vRSjGsNKIfjL+F26jlBuRXH0wPAVOgfVwZ/GAsD+SamzpWD3weWFCyO/I5g+nEVxA2Y1C9TqVs89c7q0Iis2S1VH82ev2UFmCE=;1B3eIln3sPF9UCTwv23kAA=="
+secured: "4ifqlCCpcGNJAivRX1p2FWHZuC0w4ym61kmUdz8uM/Nch9GpuKjoYdkiP3SMRYrJZZ1wXfphF14XjxQGr+1KAp0Cb63vYAW6mFdcfIGXAih+Fac2KycA4oNRoIti46xxw6+3H5LmZWr/u94t44oW/hpDPYlDWIWlDChvlcLxBwBRbFRU6nxVYJIjG6+X5zDJ0/3RNmWu8UftPxlDeGRMPjSoLY8IY87Ij2xLHo26XtpqqpRGS3CYArXcYLcyj2aQqQVz80/o2U9Dr85TTG5Wi1aEYz6v2lz5mnjAROAiVB0K2FFIi/2OnBkP6KNRp7C/KtCRmmfT0Y5yV2UOyctwtW59PqwzVClyqMC3T0MxNoA=;Zkot7mK5AwGb7lL/gMcIUQ=="
 ---
 

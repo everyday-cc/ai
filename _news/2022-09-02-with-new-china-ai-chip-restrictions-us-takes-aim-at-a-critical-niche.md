@@ -1,26 +1,28 @@
 ---
 category: news
-title: "With New China AI Chip Restrictions, U.S. Takes Aim at a Critical Niche"
-excerpt: "(Reuters) - The United States beefed up its effort to cut off the flow of advanced technology to China by instructing Nvidia Corp and Advanced Micro Devices to stop sending their flagship ..."
-publishedDateTime: 2022-09-01T20:55:00Z
-originalUrl: "https://money.usnews.com/investing/news/articles/2022-09-01/with-new-ai-chip-rules-u-s-takes-aim-at-a-critical-niche"
-webUrl: "https://money.usnews.com/investing/news/articles/2022-09-01/with-new-ai-chip-rules-u-s-takes-aim-at-a-critical-niche"
+title: "With new China AI chip restrictions, US takes aim at a critical niche"
+excerpt: "The restricted chips have the ability to carry out AI calculations quickly, at huge scale, and with high precision, necessary for tasks such as designing fighter jets The United States beefed up ..."
+publishedDateTime: 2022-09-02T11:27:00Z
+originalUrl: "https://www.rappler.com/technology/china-ai-chip-nvidia-amd-restrictions-september-2022/"
+webUrl: "https://www.rappler.com/technology/china-ai-chip-nvidia-amd-restrictions-september-2022/"
 type: article
-quality: 64
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Rappler
+  domain: rappler.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://www.rappler.com/tachyon/2022/09/reuters-nvidia-sept-2022-scaled.jpg"
+    width: 2560
+    height: 1707
+    isCached: true
 
 related:
   - title: "US restricts sales of high-end Nvidia AI chips to China and Russia"
@@ -66,20 +68,6 @@ related:
       - url: "https://www.reuters.com/resizer/qkwow85lqROrYmQSCg3MurxYbWg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YHNENNNI3JN4ZJXKIUWO7ZIX5U.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "US Tells AMD, Nvidia to Stop Selling Advanced AI Chips to China"
-    excerpt: "AMD and Nvida are facing new license requirements imposed by the US government that restrict sales of advanced chips used for artificial intelligence to China. As Protocol reports, the restrictions will block China's access to high-end Nvidia and AMD GPUs."
-    publishedDateTime: 2022-09-01T12:37:00Z
-    webUrl: "https://www.pcmag.com/news/us-tells-amd-nvidia-to-stop-selling-advanced-ai-chips-to-china"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 84
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/0428h4RvpfRvCDQ6E4Ps6W4-1.fit_lim.size_1200x630.v1662024102.jpg"
-        width: 1120
-        height: 630
         isCached: true
   - title: "Nvidia Stock Tumbles As US Bans AI Chip Sales To China Clients: AMD Also Hit By New Export Rules"
     excerpt: "The U.S. government unveiled fresh restrictions on the sale of computing chips for artificial intelligence to China late Wednesday, heaping pressure on Nvidia and Advanced Micro Devices shares."
@@ -145,20 +133,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Nvidia and AMD ordered to stop sales of their top AI chips to China"
-    excerpt: "However, it did not specify what additional standards it had set for AI chips that can no longer be exported to China. \"While we are not in a position to outline specific policy changes at this time, we are taking a comprehensive approach to implement ..."
-    publishedDateTime: 2022-09-01T11:58:00Z
-    webUrl: "https://www.computing.co.uk/news/4055616/nvidia-amd-stop-sales-ai-chips-china"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 71
-    images:
-      - url: "https://image.chitra.live/api/v1/wps/5e446fb/1899bbc4-69cf-482f-a854-4609915ff94c/3/chip-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
   - title: "US Deals Heavy Blow to China Tech Ambitions With Nvidia Chip Ban"
     excerpt: "The US government’s new restrictions on the ability of Nvidia Corp. to sell artificial intelligence chips to Chinese customers threatens to deal a heavy blow to the country’s development of a sweeping range of cutting-edge technologies."
     publishedDateTime: 2022-09-02T10:58:00Z
@@ -174,22 +148,6 @@ related:
       - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1813843!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/nvidia-headquarters-in-santa-clara-california-u-s-on-tuesday-feb-23-2021-nvidia-corp-is-expected-to-release-earnings-figures-on-february-24.png"
         width: 620
         height: 349
-        isCached: true
-  - title: "Nvidia, AMD told to stop selling some artificial intelligence tech to China"
-    excerpt: "Two of America's top chipmakers have been ordered to stop selling some of their technology to China that can be used for artificial intelligence."
-    publishedDateTime: 2022-09-01T11:38:00Z
-    webUrl: "https://wraltechwire.com/2022/09/01/nvidia-amd-told-to-stop-selling-some-artificial-intelligence-tech-to-china/"
-    ampWebUrl: "https://wraltechwire.com/2022/09/01/nvidia-amd-told-to-stop-selling-some-artificial-intelligence-tech-to-china/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/09/01/nvidia-amd-told-to-stop-selling-some-artificial-intelligence-tech-to-china/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 55
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2018/03/mother-board-581597_960_720.jpg"
-        width: 960
-        height: 720
         isCached: true
   - title: "Officials limit Nvidia's ability to provide AI chips to China"
     excerpt: "United States officials told the chip design company Nvidia that it had to stop exporting computing chips to China."
@@ -312,15 +270,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "US limits sales of artificial intelligence chips to China"
-    excerpt: "US chipmakers Nvidia and AMD have been required to obtain a new licence, effective immediately, to address the risk of semiconductors being \"used in, or diverted to a 'military end use'... in China and Russia\"."
-    publishedDateTime: 2022-09-01T13:01:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/09/us-limits-sales-of-artificial-intelligence-chips-to-china/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 34
   - title: "NVIDIA and AMD ordered to stop selling AI chips to China by US government"
     excerpt: "A new license requirement by the U.S. government prevents two of the world's largest chipmakers from selling certain tech to China."
     publishedDateTime: 2022-09-01T13:30:00Z
@@ -349,6 +298,6 @@ related:
       domain: insidehpc.com
     quality: 26
 
-secured: "MbImTQGOeNjN/NP389oQ3RIJzfY1cr9IWoigu9yznazXWEqDtmCtimA67cQ+8vaObPipyRgCjTYu8Sv4Havr4ekDNH9H0DYCrCagkbBnR9vqa9uVx5vOI37VTjFO4BALi6s9dF/QibtGqXgXFux/XFMygkD0di88Fr7ol5R+H0ArfkXvAhoDYsyFY2ZqHjJ4D5KLmVD4KDiMOEvzutpOopRCh8C0kz9jt8AkGy2kOBvDwjk3YbSIvsb/btAqwjFQib0mKQG1jrB+0zVGYwFR2zcknVKjbcIZv+2q54/gmOxV1tK41UZ/nVKFeiFyrpDyMrhXerMcPVqpIm3Qlw3QwKsHzbklD+845PdPd+kpOKU=;M3l2KA6EdlT118pm/Ojjpw=="
+secured: "aOH56gZSZnb88J3Gia6ciiZSxoDK1zOw4pc/i/w03BzYjTHplduPG2xMUoTDKe18rfQ2YA2dynRNqfCtwG1QKRQOLOMsnZRgOcGlTsX9sD+r/WuX/ndLf4C2OzznZBGs1KyvIFIiUGZ/dnqBxuffPY5obZBYBTjYWyjL043aOj27ygC75ggZCNnP+eH/yFeSY763/peoFuE+NU8cHWEd0Dp+27zvnSC8Hqep46E5yWndTGJpEsyfnuUxlMt+gUoF/Z18kSNGLvxUsZSCSIU6Ee43Gbb3ULhzsOlSQQTs5gEqTzYv7u4GhwO9lF9xDtGnrNv4SHiOKuOgB1O03wb9fLSl/bvf+/bzIg0j0S1jrHc=;GjG4NR9shisa52Voi4R/0g=="
 ---
 

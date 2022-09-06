@@ -1,27 +1,29 @@
 ---
 category: news
 title: "VTEX Receives Industry Recognition While Seeing Continued Customer Momentum and Success"
-excerpt: "Named a Visionary in 2022 Gartner® Magic Quadrant™ for Digital Commerce. VTEX Adds and Expands US and Global Customers, Hosts 230+ Successful"
-publishedDateTime: 2022-09-01T15:28:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/vtex-receives-industry-recognition-while-seeing-continued-customer-momentum-and-success-1031719435"
-webUrl: "https://markets.businessinsider.com/news/stocks/vtex-receives-industry-recognition-while-seeing-continued-customer-momentum-and-success-1031719435"
+excerpt: "VTEX Adds and Expands US and Global Customers, Hosts 230+ Successful Live Shopping Events in Q2 NEW YORK, Sept. 1, 2022 /PRNewswire/ -- VTEX (NYSE: VTEX), the global digital commerce platform for premier brands and retailers,"
+publishedDateTime: 2022-09-01T14:17:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-0c87e64801eddf998fff1cf72c4bb53a"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-0c87e64801eddf998fff1cf72c4bb53a"
 type: article
-quality: 26
-heat: 26
+quality: 16
+heat: 16
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "k0lV3DASeCuPodsGhTj1oaYS5vaBcRm8F6/wAKJh1rofA3/wmdHzqL3nuEqGdDcxWjcGFMk1BqbDi2dy7c3bXNQ3t7WwRUFI5SXFpvhsLBr9IwL9XsPAWo5uKDOpGfSPLf8X03FBASzKnoyVuEGIWWKU2dTkSEUjz9gUXxX8hOwbllBH+vFnMwsOzMNK4JlIfB+wsM6xSUfj4tEMGj6neie+iHUggn3VnCLSZy7SUrTH5Q+xBvipKQqJb4IyK4ovpAgymb02nzL1MsPVefJQLcMlC4jdvt4lE904B4UeFOxGyiUtvDsALi7s1zPvj758ASaQcn3fHcD8Qk756V+br6L4bMUnzPGEGxtn+fyBHZI=;Oxcu1O3xiu1aGd/dDYIupQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "S54yo6M36PcIznml3uo46KpJBGGAubQA4cmGj0uC2IttzLOV4BSbh1BJ9plSp6fxlSc8/YqGRdbSfyVao8oXjTN0D2dyF3k6GG2DoTxQwwoVybMXUEoUZF5/X7AOfM48yT5PVZh8H2d/KfHVMS7feWNS6NloiBnJ8pufUE4cwCtbq9AHPYG7tYsOKpxUPqTG6PT7zMuUdlWQ2AHAskAc5Ye0JeibU970QS2EDju9YVsUvzPZarEc1lxV3ts1rO4c3LM+LR8Z9p7tEmXuWYjdy9qxuK8EbF3mwS0rM3ENzjnd52YNVe44AMaZibGv3AdDklQX2Fgc9FBldUQOffG3iZJHJvZyhQE4qDQ0U04+8fI=;QsRNjLIm0c6ppBZi4NvHag=="
 ---
 
