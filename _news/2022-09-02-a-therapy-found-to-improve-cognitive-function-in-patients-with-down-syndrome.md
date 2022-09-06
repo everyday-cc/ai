@@ -6,9 +6,6 @@ publishedDateTime: 2022-09-01T20:36:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2022/09/220901151604.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/09/220901151604.htm"
 type: article
-quality: 48
-heat: 48
-published: false
 
 provider:
   name: Science Daily
@@ -23,6 +20,6 @@ topics:
   - AI
   - AI in Healthcare
 
-secured: "3sHREnyZZo6mcaJt0WaNUJp2s32t851MA5ojimuVtgHGdhfKlDNq82FkGz3ShCEgzes2IFu97mSTWf3XqQkYafC7tru8+JyWhI97O90MhlVZQK1UY9S4TT8dHu9bhHprizBaUK+m8AYRKsTLDmk169jZLMNResYkDsJb4viUrzj/JcNzxml+/pZve9HSj02S6XfzD5bOaEie7joPyzGjIZmOrk8BCsH+QlzoPVR28MgIFpvxZG9CBZZ4vNz6f78fwAirZ+tp8SnuWB+lxARHH3Co2RNZ3Hk8m2dnu9WM7DXGY0JBbTBRcebBtgQuOs3UQt2iey0kbMR2JHPeR3K8jGXCoD36gLTWnjr4cHvBdY0=;hMhmTDpKadyOu477TdtTxQ=="
+secured: "h1PVdagu1XGbM2kOW394WIko/+FlRw/0V5Ml2ugl+8eoTLTau672igr1efBy07a/yB/SIa5qbJfhe5axCwuAwWennEi1QVINMpA6yyddR4/4XMl/67r16DCn26Z0bGMzHZQWjtIQeaMMISSYuyxKmpHBFnf4Hi+fzk2t5NNh9vBE1wf6pIqJikahdEJvnj7oblpWPazRZDkc++oLpoBscW2UWgo/T2Yfn04eltVwsw3VfLAHpz7Cnjr1VIm3XtZfqUpQnB9+4KNxotBjk8Jy0rl6ZpYisaxtO+cVzmLAGbP2s3RqE/x8gmcY3GKNX/IbVIgo8b1XSi4WT4oalJsES1IYXNiO86QnIFMtEcceEOE=;eOlne5rpnhjQ/abVDA0hPQ=="
 ---
 

@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Pick n Pay Selects AWS as Its Strategic Cloud Provider"
-excerpt: "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ..."
-publishedDateTime: 2022-08-25T04:02:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/pick-n-pay-selects-aws-as-its-strategic-cloud-provider/article_b1057995-2d27-5766-b934-f40c2a00b1b4.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/pick-n-pay-selects-aws-as-its-strategic-cloud-provider/article_b1057995-2d27-5766-b934-f40c2a00b1b4.html"
+excerpt: "View the full release here:  \"Leveraging the cloud to achieve greater operational efficiency and improved customer experiences is a game-changing strategy for Pick n Pay and the South African retail sector."
+publishedDateTime: 2022-08-25T05:24:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/08/25/9662000.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/08/25/9662000.htm"
 type: article
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/a/be/abebbf6c-31fc-58bf-8862-5b6956b59977/6306f4e345651.image.jpg?crop=1756%2C922%2C0%2C129&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "OEkmo8it7e86iyon5dim/3y2Ot5Y8EbbF6bcFNjMVbzB7SpM/R2idz89nVp+m/BMasaHFY9hPvaKhwc9qLs93yIklX1hK0+0xK2jXbQPpXvnp3PTsmtxNJ6OLv2eTYC5CKxW4lxKu5AikQ7Kyb3HPrHIBgpMFPmV5OzqfAHp6HF3AoeSzkm04yMPUOdmtGmGzt7QF8a6BAiK4AjKQLP2CsNfwfq5nYgF7c6HQrtSQqMZIGpZfGAsKPOlY94a+eQW+4zT1yFAfwiZ67YsA08SJdVBaR5WyqmkvrO3Qz+CN/RCzpMj4fZTj79KeVnZ/VpZS/t90S9BDs32N11DuxY6irsKG8X8EpWUCqxdsGQM+AA=;w1PrnOYpQpTi6+LQ8Mkqfg=="
+secured: "ntLWXMC32uo4GVUXWqit+tLBpk1ZI57DPPLoYme63hbpqjKhKbaTbUCGBlmbluIEOGKizsAlp/5ZqBL1qRkOmCkmCGWuZ0FDmD6kP9QktQT9/m9CcpyPsEGUN8LxOurRNaQQWN5Q/FxzNr/WzHgRXQ/vL+Y7dsp6WjpxvjaviR8ODL9p8HvN87+kSSeg4L1lT3LzLWQ8GQ/LJ8u0bpJ7J09g/W3Sv9S/ARqApEy+iHj9x/5QHpDj7DU39R63p9e8PlFbqGN6qNqEl0xi3XvHDy36OgygwHc0Pd9kaZQMaDX4ZbFj2HhbIQNb92jEiLunfH+0stScirzJ2KXtffPpDIywuLMCdahGe4MD/bdPBA8avTztt+aLSwJn3H694JVkLcN7laL2llA/bB0rOhNdx1dSVPPtDp0MG7+aTZ23dePSHZewlEy3Me/8VkzEr4jRlABx+75qGUlMn3XKV/NEU2EQtZk7DgQmpQ1fuNCq6JA4mpvk4BevYPqsyMGycZQpbohWwgoncpa5x3nI9EZEYg==;Nxi75Okf9YQ4BBlsWqixew=="
 ---
 

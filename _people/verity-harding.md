@@ -10,7 +10,7 @@ website: https://t.co/7skid8sUXc
 twitter:
   username: verityharding
   url: https://twitter.com/verityharding
-  followers: 2548
+  followers: 2549
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Verity_Harding
