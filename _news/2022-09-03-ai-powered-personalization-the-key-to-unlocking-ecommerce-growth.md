@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/ai-powered-personalization-the-key-to-unl
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-powered-personalization-the-key-to-unlocking-ecommerce-growth/amp/"
 type: article
 quality: 89
-heat: 101
+heat: 99
 published: true
 
 provider:

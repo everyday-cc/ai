@@ -3,8 +3,8 @@ category: news
 title: "AI Startup Anyscale Adds $99 Million to Andressen Horowitz-Led Funding Round"
 excerpt: "The company initially announced a $100 million Series C venture investment round led by Andressen Horowitz in December."
 publishedDateTime: 2022-08-23T10:30:00Z
-originalUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?mod=latest_headlines"
-webUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?mod=latest_headlines"
+originalUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?mod=newsviewer_click"
+webUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?mod=newsviewer_click"
 ampWebUrl: "https://www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 573
     isCached: true
 
-secured: "SoJVf0soU/EujFdVBUeZ6Ch1xmOXkpLT5bPuZolUCqk84YNfRwknqhSenExHQIMwZ51NBsx/rUTEcCKBjDWMBOuav4TkM5lhPWF3yhV8aHukEtCqFWSVQOh8lYiEV8NlOGkJA9k3Fxzy/eWzUfArtJaT8xAE3mNgMAthEnzQ6tkUJCb5MkOu0fD5SWhzFsQvdzWhSWD6fgv3Esrn48ZaWVyA8GlQQl6jIu222KENcsZ6jfanQ+1MD1yhLazzJ/jclLrONA2I6rR1sCeqx8fGWzt6FMv2MqLeQplYaMhRHcvsnAm+VDqvvATChE/5M3q+xCAx19HzkZSOH3RcaxvYGp+L0k8qLinNaj1poq/vDqI=;4LCfIVho3/Gb6H0OGdNo+A=="
+secured: "DsrDoczn/xhCD2ggPS6sYIupxHC3M712PEL85HURycph/ZHh2oJ2DHmGE4ApEdBoOhbbaqWU3NgnKUUK61kE5MZyQwpChlnSTaboU34yi5HVju96teXWgzm9P/rw5TWb9ZIXMy9FG5TjVijZaQ+QPXOtg3PgVxZp9E4Xi2HiAl/eaTHlnHn1Fuy0YjNud4v5uqNFUgQLpiHKifkXJ3klLjjjOhJcTwhUX4RBCW2ulcz1EZFdA0CzsvQsPprgGZWdEV03Vp33R6QNEUF5YaEZdz/op2LlTlaJEWiLR5Xt01lgc6SWrMPVCiy79IsblcSNEawFN7ZRSX3haaKutEAkeZ3rsY4YwBvydO827EP1Vkk=;+g3sEDZsCZ++4V6+HkI7IQ=="
 ---
 

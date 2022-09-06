@@ -39,20 +39,6 @@ related:
         width: 1599
         height: 900
         isCached: true
-  - title: "Downtown roads newly opened for self-driving vehicle testing"
-    excerpt: "Shanghai has opened downtown roads for self-driving testing in a boost to the burgeoning industry. The Jinqiao Intelligent Connected Vehicle (ICV) Testing Demonstration Zone in the Pudong New Area was officially launched as a highlight of the  (WAIC),"
-    publishedDateTime: 2022-09-01T06:52:00Z
-    webUrl: "https://www.shine.cn/news/metro/2209019934/"
-    type: article
-    provider:
-      name: SHINE
-      domain: shine.cn
-    quality: 24
-    images:
-      - url: "https://obj.shine.cn/files/2022/09/01/833c45a6-76bb-4725-a46d-0428a6926dcd_0.gif"
-        width: 500
-        height: 282
-        isCached: true
   - title: "General Motors Recalls and Updates 80 Self-Driving Vehicles"
     excerpt: "General Motors' (NYSE:GM) startup unit, Cruise LLC, announced Thursday that it had recalled and updated software in 80 self-driving vehicles after a June crash in San Francisco left two people injured."
     publishedDateTime: 2022-09-01T15:26:00Z

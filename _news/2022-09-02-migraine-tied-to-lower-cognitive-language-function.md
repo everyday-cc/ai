@@ -28,14 +28,14 @@ images:
 
 related:
   - title: "A therapy found to improve cognitive function in patients with Down syndrome"
-    excerpt: "First the scientists revealed a dysfunction of the GnRH neurons in an animal model of Down syndrome and its impacts on the cognitive function impairment associated with the condition. Then a pilot ..."
-    publishedDateTime: 2022-09-01T18:01:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/962864"
+    excerpt: "Down syndrome, also known as trisomy 21, affects around one in 800 births and results in a variety of clinical manifestations, including decline in cognitive capacity. With age, 77% of people with ..."
+    publishedDateTime: 2022-09-01T20:36:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/09/220901151604.htm"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 18
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 48
 
 secured: "thMXyvM661h6m8Bukpc620wE2ue0pGvbuE0MCV4G8aHzBoVO8el/7cD0MiJgKHv18t7g2Gsiv/YNMYxkrEZvXWlOA+NT/9V4/7rwDwzz/+HSnyAbYk6VPFY0o/0VkuFcl3A/FqawlpFRhCCG6IaWgeND3PIPDaIYtWcMro9kPci8xDUqqpzJbR1ytCX971mOBQTzu6hlE4xJ7dtfxSZsmXH6L+InvN3/lUIcl9CQqNRPumqoa67ebZur8o9K3YD2apOk6B57QDVhea8mXP2PPUsW9tArZf422xh/dQjHWm91Rasxms98vxNhJJf3BcywivmBoHLTL3BgO/lkRBIgyLM1fczJWbyI/VQfmxvcp5s=;d0bf+/5PlXHFiaB9Vcj0EQ=="
 ---

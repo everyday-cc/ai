@@ -50,20 +50,6 @@ related:
       name: Electrek
       domain: electrek.co
     quality: 32
-  - title: "Downtown roads newly opened for self-driving vehicle testing"
-    excerpt: "Shanghai has opened downtown roads for self-driving testing in a boost to the burgeoning industry. The Jinqiao Intelligent Connected Vehicle (ICV) Testing Demonstration Zone in the Pudong New Area was officially launched as a highlight of the  (WAIC),"
-    publishedDateTime: 2022-09-01T06:52:00Z
-    webUrl: "https://www.shine.cn/news/metro/2209019934/"
-    type: article
-    provider:
-      name: SHINE
-      domain: shine.cn
-    quality: 24
-    images:
-      - url: "https://obj.shine.cn/files/2022/09/01/833c45a6-76bb-4725-a46d-0428a6926dcd_0.gif"
-        width: 500
-        height: 282
-        isCached: true
 
 secured: "9FfUrGKPYbAC9miwTWlfOsHPf65MbEDAO26PC5vEuXJz40PNPVv9CBKMPIQ3H22IDomLbKh4APEs8xyIyrlYX5Rma/26cQX/MI5VaWTz92mi0lTXzOZmWQfzTQO8S/EVxNuzXNhxV8zalsgu7bxvz0cBUFYOVFxVMpoRU9ns5j+l9crbCDp5ibvi1k5KEzxj3kfDtt0BIXoaqB7CP/tLP3yigNqMsjiMXl2iplZ67fsMIrw6xhzBzJzZvOwZxNsvc4MRkIvlkoX+9t5fH7cFNWdHx2Re4ZsCF1vptVeWqijD3ZTBqe6xVsWJ4P3dXkH7DGLDgj6+RF1WLCMkNcjr4GCI2AnT5iprUjOPjVRptow=;i++ziGiFDSPU14sZJrTwAg=="
 ---

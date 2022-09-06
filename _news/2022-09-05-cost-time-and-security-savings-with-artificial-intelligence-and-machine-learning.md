@@ -7,7 +7,7 @@ originalUrl: "https://techwireasia.com/2022/09/cost-time-and-security-savings-wi
 webUrl: "https://techwireasia.com/2022/09/cost-time-and-security-savings-with-artificial-intelligence-and-machine-learning/"
 type: article
 quality: 65
-heat: 65
+heat: 66
 published: false
 
 provider:

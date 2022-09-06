@@ -33,22 +33,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "NVIDIA reveals new US government rule restricting export of AI chips to China and Russia"
-    excerpt: "As The New York Times notes, AI and machine learning are used for various applications that include weapons development and surveillance. A US Department of Commerce spokesperson told Reuters: \"While we are not in a position to outline specific policy ..."
-    publishedDateTime: 2022-09-01T07:02:00Z
-    webUrl: "https://www.engadget.com/nvidia-government-rule-restricting-export-ai-chips-china-russia-061846437.html"
-    ampWebUrl: "https://www.engadget.com/amp/nvidia-government-rule-restricting-export-ai-chips-china-russia-061846437.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/nvidia-government-rule-restricting-export-ai-chips-china-russia-061846437.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 95
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-08/9b3ca8c0-2479-11ed-bfbd-99225c168e56"
-        width: 6000
-        height: 4000
-        isCached: true
   - title: "Nvidia says U.S. government allows A.I. chip development in China"
     excerpt: "Nvidia said in an SEC filing Wednesday that the U.S. government is restricting sales of high-performance AI chips for servers, the A100 and H100, to China and Russia. Sales of both chips are still ..."
     publishedDateTime: 2022-09-01T23:25:00Z
@@ -193,20 +177,6 @@ related:
       - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1813843!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/nvidia-headquarters-in-santa-clara-california-u-s-on-tuesday-feb-23-2021-nvidia-corp-is-expected-to-release-earnings-figures-on-february-24.png"
         width: 620
         height: 349
-        isCached: true
-  - title: "Nvidia and AMD impacted as US restricts GPU sales to China"
-    excerpt: "The US has once gain tightened the loop around China's semiconductor industry, and this time it is specifically targeting China's high-performance computing, especially machine learning infrastructure."
-    publishedDateTime: 2022-09-01T06:10:00Z
-    webUrl: "https://www.digitimes.com/news/a20220901VL204/amd-gpu-nvidia-us-china-trade-war.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 56
-    images:
-      - url: "https://img.digitimes.com/newsshow/20220901vl204_files/2_2b.jpg"
-        width: 1280
-        height: 854
         isCached: true
   - title: "Nvidia, AMD told to stop selling some artificial intelligence tech to China"
     excerpt: "Two of America's top chipmakers have been ordered to stop selling some of their technology to China that can be used for artificial intelligence."

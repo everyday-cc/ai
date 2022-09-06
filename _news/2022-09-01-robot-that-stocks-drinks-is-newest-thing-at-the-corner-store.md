@@ -41,22 +41,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Robots that stock drinks at convenience stores aim to automate all 'boring jobs done by humans'"
-    excerpt: "Telexistence, a robot company that operates out of Tokyo, is looking to use a robot, named TX SCARA, to replace 'repetitive' and 'boring' jobs currently done by humans."
-    publishedDateTime: 2022-09-01T05:15:00Z
-    webUrl: "https://www.foxbusiness.com/technology/robots-that-stock-drinks-convenience-stores-aim-automate-all-boring-jobs-done-humans"
-    ampWebUrl: "https://www.foxbusiness.com/technology/robots-that-stock-drinks-convenience-stores-aim-automate-all-boring-jobs-done-humans.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/robots-that-stock-drinks-convenience-stores-aim-automate-all-boring-jobs-done-humans.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 62
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/9359a89b-97a9-4b0a-afd5-2125fa888aee/22643dbc-e676-4908-a992-1ae138af5871/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Newest Thing At The Corner Store: A Robot That Stocks Drinks"
     excerpt: "A small robot with a clip-like hand and enough smarts to know which drinks are popular is part of an effort to make convenience stores even more convenient."
     publishedDateTime: 2022-09-01T19:18:00Z

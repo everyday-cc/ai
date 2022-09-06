@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-09-artificial-intelligence-decision
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-artificial-intelligence-decisions.amp"
 type: article
 quality: 78
-heat: 100
+heat: 98
 published: true
 
 provider:

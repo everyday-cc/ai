@@ -9,7 +9,7 @@ ampWebUrl: "https://www.investingcube.com/ai-in-fintech-market-will-reach-more-t
 cdnAmpWebUrl: "https://www-investingcube-com.cdn.ampproject.org/c/s/www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 2560
         height: 1706
         isCached: true
-  - title: "How to Use ML and AI in the Fintech Industry?"
-    excerpt: "From appearing as frequent tech buzzwords less than a decade ago, they have become integral to how AI and ML tech innovations are shaped across the digital landscape. Driving innovations in certain industries,"
-    publishedDateTime: 2022-09-01T05:49:00Z
-    webUrl: "https://www.finextra.com/blogposting/22835/how-to-use-ml-and-ai-in-the-fintech-industry"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 36
   - title: "Fintech move to forefront of residential mortgage lending as top banks retrench"
     excerpt: "Triad consumers who choose a bank or credit union to originate or refinance a residential mortgage are becoming increasingly in the minority."
     publishedDateTime: 2022-09-04T04:01:00Z
