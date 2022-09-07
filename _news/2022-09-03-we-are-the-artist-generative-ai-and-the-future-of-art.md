@@ -78,6 +78,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Art Made With Artificial Intelligence Wins at State Fair"
+    excerpt: "Artist Jason Allen placed first in a Colorado contest, generating debate about A.I.’s role in art Jason Allen, a video game designer in Pueblo, Colorado, spent roughly 80 hours working on his entry to the Colorado State Fair ’s digital arts competition."
+    publishedDateTime: 2022-09-06T12:15:00Z
+    webUrl: "https://www.smithsonianmag.com/smart-news/artificial-intelligence-art-wins-colorado-state-fair-180980703/"
+    type: article
+    provider:
+      name: Smithsonian Magazine
+      domain: smithsonianmag.com
+    quality: 54
+    images:
+      - url: "https://th-thumbnailer.cdn-si-edu.com/ntf_sUmKl_rPqXGhceJw96gofN8=/fit-in/1600x0/filters:focal(460x307:461x308)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/91/31/91312024-89f0-46c8-91a8-b9345fd64a92/screen_shot_2022-09-02_at_23648_pm.png"
+        width: 920
+        height: 611
+        isCached: true
   - title: "AI-generated artwork wins US competition, angers art community"
     excerpt: "Allen won in the Digital Arts / Digitally Manipulated Photography category with a work called “Théâtre D'opéra Spatial” which is an AI-generated image printed on a canvas. The painting depicts a scene that resembles a space opera."
     publishedDateTime: 2022-09-04T14:31:00Z
@@ -92,15 +106,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Art Made With Artificial Intelligence Wins at State Fair"
-    excerpt: "Artist Jason Allen placed first in a Colorado contest, generating debate about A.I.’s role in art Jason Allen, a video game designer in Pueblo, Colorado, spent roughly 80 hours working on his entry to the Colorado State Fair ’s digital arts competition."
-    publishedDateTime: 2022-09-06T12:15:00Z
-    webUrl: "https://www.smithsonianmag.com/smart-news/artificial-intelligence-art-wins-colorado-state-fair-180980703/"
-    type: article
-    provider:
-      name: Smithsonian Magazine
-      domain: smithsonianmag.com
-    quality: 32
   - title: "This AI-generated artwork just won first place in a state competition"
     excerpt: "Colorado man Jason Allen has used AI software Midjourney to create Theatre D'opera Spatial, an art piece that won first place at the Colorado State Fair."
     publishedDateTime: 2022-09-02T10:34:00Z

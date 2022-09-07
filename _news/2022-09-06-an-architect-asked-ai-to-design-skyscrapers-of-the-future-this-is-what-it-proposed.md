@@ -3,10 +3,10 @@ category: news
 title: "An architect asked AI to design skyscrapers of the future. This is what it proposed"
 excerpt: "Manas Bhatia has a bold vision of the future -- one where residential skyscrapers covered in trees, plants and algae act as \"air purification towers.\" In a series of detailed images, the New Delhi-based architect and computational designer has brought the idea to life."
 publishedDateTime: 2022-09-06T09:20:00Z
-originalUrl: "https://edition.cnn.com/style/article/ai-architecture-manas-bhatia"
-webUrl: "https://edition.cnn.com/style/article/ai-architecture-manas-bhatia"
-ampWebUrl: "https://www.cnn.com/style/amp/ai-architecture-manas-bhatia"
-cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ai-architecture-manas-bhatia"
+originalUrl: "https://edition.cnn.com/style/article/ai-architecture-manas-bhatia/index.html"
+webUrl: "https://edition.cnn.com/style/article/ai-architecture-manas-bhatia/index.html"
+ampWebUrl: "https://www.cnn.com/style/amp/ai-architecture-manas-bhatia/index.html"
+cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ai-architecture-manas-bhatia/index.html"
 type: article
 quality: 81
 heat: 91
@@ -45,6 +45,6 @@ related:
         height: 826
         isCached: true
 
-secured: "duLS3wemtqq+R04QHy60s9B6qFtfkZg4NqNvdaydz246wXe2kIfH5UnLrhOKoos+xCmbwv//tSGdMODLTk1da2PGRV8fMzrT2pga0FpIA+gUBmci1lrgJ0VnphSOffMizqzhWRk1it9fH6nH6zQiND5Z6cFBq0fa2D7pi8EWSoXsr+0kldyPfJXQrsI9XQiQW0xK+HVe0WgEw+Do4M08vE4Teq2fRrYi8nQaEbEpRjuvgfL/8HLogK7fjUVNM7frQOuj9JTKef+aZHTE0sJSqOVnKWpkkBnpiiCkDROaq/E65+2/p59egNZNlnRiD6ic4w7cbCoTtjGMzyHaQrunFfZ6QbtdkBak99vMGolUfHI=;TNLaZXOuky2eRSDPJLv04w=="
+secured: "i7BublLu+kDlDszvhzqo9nFjjrwcF1no/J59CN6yBRMDyCweLsYUcw/2wMwwrJJLLyv0UwX8CICiVJ39yCFG0hhTgunZhg+kV8nUsN/qT77uhdEHs+Oyf/6I9Kssj/U1K90EA8rdKeoZtdcEsGxfxCTufcUBso4ny6i3oyslgFjzqisY74q+Yv0vU5H5sDwj/gfvGlDXwd3qxPpKxxhgZCi3sMiYFy6vP+b3M7aP/ivOUoNN9Ail2kdYdbVmkkWTnJ/3K7SGALYQ27xbCdBjvFwaxYGeOj/+y2VfbeF/CWszexOESHjLKjFjVDYnXeY1JXyYEoDe6PQHqzfWj5l2COnzcrLvBOwECPC0InWIiCE=;lHsG+xihuBY1C8/7ZTTdxA=="
 ---
 

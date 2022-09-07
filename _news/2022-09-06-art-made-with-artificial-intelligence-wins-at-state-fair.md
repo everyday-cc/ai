@@ -6,7 +6,7 @@ publishedDateTime: 2022-09-06T12:15:00Z
 originalUrl: "https://www.smithsonianmag.com/smart-news/artificial-intelligence-art-wins-colorado-state-fair-180980703/"
 webUrl: "https://www.smithsonianmag.com/smart-news/artificial-intelligence-art-wins-colorado-state-fair-180980703/"
 type: article
-quality: 32
+quality: 54
 heat: -1
 published: false
 
@@ -16,6 +16,13 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://th-thumbnailer.cdn-si-edu.com/ntf_sUmKl_rPqXGhceJw96gofN8=/fit-in/1600x0/filters:focal(460x307:461x308)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/91/31/91312024-89f0-46c8-91a8-b9345fd64a92/screen_shot_2022-09-02_at_23648_pm.png"
+    width: 920
+    height: 611
+    isCached: true
 
 related:
   - title: "AI won an art contest, and artists are furious"
@@ -106,6 +113,6 @@ related:
       domain: tweaktown.com
     quality: 19
 
-secured: "YhxiZePNCD0NOmvAfdG3GccKv1GEC2kmpUigLBGtmhirMGaPabIN68HnCdkLKZ4vALH0vMM8LgXF3HimQX0XbM8PIy8uyA3+am5SsXHy5vRGaTOfCcyfo8Jvg6dXiA0213LnEY6eqFWhWuz0NV0aXpGHMW62pmKQhSYt1cdAxnTDQ8zxyEx2AsGxb4YDY1XDfLtklXtBVf9zu8cNml5R9/UNDMlH4C4RVpXJ5z6hR+C/EsCPXhdVd5s+QFF7Muo7zqGzWGDmCK9i+DMl7LSbeltCN8p4Nm9F473wbZ55FAOBrTMQryZd9PaLQiS9ZJqiPYPhKo6kltilHO2MiFNICHTngPzAQzakKUZlBjI+IO1xuIgrJBdWMbbzkt+VEnpVC0ZNOX2BmnxOImD6AsWXecjXaVocc45KdTOH0FVsAYGWag2rmMoJRaPjOLmfjwdUNc5ZHSah/HFwauMtuYE0Vdx/Y4412sfnl9MdjvkOpDGQqoDKa7qNFKk11c852Fg9g0yzZH/h6d6MYY7zQsGGFw==;RHkRrsOjz8ZTCSUvvOv98w=="
+secured: "qRprfpL30UQlnWy+6eugam6koExOwK9po+gMg9KIOOsyobFoX3uVdmMTP4MtpYTvT66zW2NgOGlB1yzXs674Z+68KdSJBQZBabojXu0a4t03W6f0jujqKJ4MDRhOUNITtw1+35bOTu1Znc5XUr72Wo4904/ER02+cxLGRDaR4NB4HGwijd8fJKD29aBuC5ZJttGQrtFUopzDZH8fZScNoBeMTV4ilPkUNtASHLHRZqvyg165pRdR15Hw7yEQxZdrk3mdfqzwgah3BFp4HggyMdKBq1J52gXN+0eatatCXy2lOFO0MJh6pLWXSayB6zkHStghzmcM4ynAJ4gmX3k7NHPm4oobJpfrTOqC5M+8cEw=;b47T0NmHuYvDgwj9M5PyvA=="
 ---
 

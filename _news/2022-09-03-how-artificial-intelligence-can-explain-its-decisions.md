@@ -30,14 +30,19 @@ images:
 
 related:
   - title: "How artificial intelligence can explain its decisions"
-    excerpt: "Today, when an algorithm identifies a tumor in a tissue sample, it doesn't reveal how it arrived at this result. And that does not inspire trust. Researchers are therefore pursuing a new approach."
-    publishedDateTime: 2022-09-02T15:28:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/09/220902103300.htm"
+    excerpt: "Today, when an algorithm identifies a tumour in a tissue sample, it doesn’t reveal how it arrived at this result. And that’s not very trustworthy. Researchers in Bochum are therefore pursuing a new approach."
+    publishedDateTime: 2022-09-02T14:04:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/963644"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 62
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 52
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/bc5e8a87-496d-4021-8859-1d7a822ea861/Rendition/low-res/Content/Public"
+        width: 700
+        height: 467
+        isCached: true
   - title: "An Analysis of How AI Processes Its Information"
     excerpt: "To achieve this, they supplied the AI with a vast number of photos of microscopic tissues, some of which had tumors and others did not. Neural networks are initially a black box: it’s unclear which identifying features a network learns from the training data."
     publishedDateTime: 2022-09-05T15:06:00Z

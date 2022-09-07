@@ -1,25 +1,27 @@
 ---
 category: news
 title: "How artificial intelligence can explain its decisions"
-excerpt: "Today, when an algorithm identifies a tumor in a tissue sample, it doesn't reveal how it arrived at this result. And that does not inspire trust. Researchers are therefore pursuing a new approach."
-publishedDateTime: 2022-09-02T15:28:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/09/220902103300.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/09/220902103300.htm"
+excerpt: "Today, when an algorithm identifies a tumour in a tissue sample, it doesn’t reveal how it arrived at this result. And that’s not very trustworthy. Researchers in Bochum are therefore pursuing a new approach."
+publishedDateTime: 2022-09-02T14:04:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/963644"
+webUrl: "https://www.eurekalert.org/news-releases/963644"
 type: article
-quality: 62
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI
+
+images:
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/bc5e8a87-496d-4021-8859-1d7a822ea861/Rendition/low-res/Content/Public"
+    width: 700
+    height: 467
+    isCached: true
 
 related:
   - title: "How artificial intelligence can explain its decisions"
@@ -53,6 +55,6 @@ related:
         height: 536
         isCached: true
 
-secured: "GzhltGWELYOVWiNHsTapKcuW/OygG7lIaFiNNUDpMez85hQ7pNt8LoVP7Z53j/NDAUYPNYQa/YEAGrQ+OZ8Lau7Mx6MRjyKjOni7PFxCOvQ7BMRyGfhYoUiqzVnUT0yBIbcRKkC0GmzMTcDn7OSx1YS3TJas24PpZuu2eZoD85RPtYVLm5psBUO1GuRuy7zKRIi/MKgsN5cx5T86kBGfqZJblgdBwfPd61JQRZzjOCzZ7OXnrFqTvjqd0uM6Xf5+ljAj3q3FLtYmcGWygED5Ph5Z/fPXLwk7YeZd/EEzsdLmjH9bZG9tUWOqpGd5F+LOTqSspDdoHPZ6ktLQ1njlQIch7b53scN4jSS4I1lbbeQ=;mGVv3s+O0njzsnpNXZGFPg=="
+secured: "Bbtb8RU/D8417uMOa+UdIKHkwd11BUzzNCdJFwStPjCchS7I06fReRdFt2RWrIvvnbLby3DxUQ4vQMsPE4y2BP0FiAJvr2JLTZ6YXWii8uUi3XJiSed6ItnfhLKqanuvQ/pLbI7U7q2jfjIKxUqyO4CZ01GfjWUcICDk94x9QqIxWIlYwXCnPEc0tNkRlUuUNkuIQQs+43gBvlz82CQYgUKQMZTl00ReeQbKU+2pO3oopl/H+Aedv5E2/ynykZQzSxJ2ZN/ikjgAu6v8E40KtksYrCpZepVh8SC3ssL439vePkSu6Idjoyxmacwfqa4qNs1//o3ra+wgsSXF6XanFZdBjiEE4UEXoZBgKxxMJRQ=;ykq93WQdkrfQ3CHpSuv9fA=="
 ---
 

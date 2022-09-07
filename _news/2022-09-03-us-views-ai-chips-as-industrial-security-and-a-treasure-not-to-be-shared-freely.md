@@ -114,15 +114,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "US bans export of artificial intelligence-related chips to China fearing misuse"
-    excerpt: "Nvidia shares tank after it estimated a loss of $400 million as it is prevented from exporting two types of chips that can be used for military use; AMD also affected US bans export of artificial inte"
-    publishedDateTime: 2022-09-02T05:12:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/technology/us-bans-export-of-artificial-intelligence-related-chips-to-china-fearing-misuse"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 13
 
 secured: "+jGcEBE/iRKksTE+/GqD7QQnrlYcpkpcbqgfS/AnpSeuLG/H1lTlVV0zNTkENFCLQ0i8GnMUZ+E6dJgqWgH1Kvxy4Ezgiy0N3PxBXxkD3GFE0fNaqdlA1XFaC67hTauviysgmyXlDm35hoEqLmkEkVZWFrNyqiJudYhWNoC6EwTK1pqn6Nue+fTiArBJbqkPvRaMc4+tBxJ6/fr3j0tHZPeaYuugFHxd/gKoXhWf8ekAppSTaKEYKqOET4gjGhLb9aITjS3TU6RVUsJTKRketS9MWeXxCXKFhB7WN3ltNtaQa105Xlbj3uEeUfseFa0Ik5LN6ShHHd3IN+zoYZYUQAcF1QL+UV9gCBHqevLRuYt4SU7BNmQd+7XGY0CP0kKWmepm1Z05QCJlyureuYfgdvI2t84UM57ycbGVxJWVPAnkwV8xXP3dke+t/PgD4vI9X0vAZGxZ46Km3YmvPIs79LfCxAse1SgOqdT36Tsh996L9tlgIMmSSE2awBMFJQT1WdoAyUTRYUYZX+7Ekdb0nA==;ix91BpS2fxjpw6nJoxL8MQ=="
 ---

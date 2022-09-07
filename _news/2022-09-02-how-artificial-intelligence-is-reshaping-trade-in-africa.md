@@ -36,15 +36,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 17
-  - title: "New ‘app store’ and artificial intelligence institute to boost tech subjects at schools in South Africa"
-    excerpt: "South Africa intends to enhance the teaching of robotics and coding in public schools through the establishment of an Artificial Intelligence (AI) Institute."
-    publishedDateTime: 2022-09-02T06:55:00Z
-    webUrl: "https://businesstech.co.za/news/technology/622219/new-app-store-and-artificial-intelligence-institute-to-boost-tech-subjects-at-schools-in-south-africa/"
-    type: article
-    provider:
-      name: businesstech.co.za
-      domain: businesstech.co.za
-    quality: 3
 
 secured: "gIL4DNvxXAuRqHhMekKmtHkpE3Oi4skZBXuRXQYYGK7UpOu8KSixn8jI7uEDyhVF9vQcbumuzXzdABj0NLm4VjcLTO9Ljp3OANZw5sHBe7cl1+0oJHQgvmqiqEy3iY+hAVTZQzGMmsGeQ5xv9e+vyoSziWAY0PqO6Xh1hoidJUY6BXQoXeQj17l0qjH8lhYKmIQw5woMqHQKW8CtX+PLuPtSFMg/fozk6Eq3NR0HGiJLznC5MuRbaw4yDhoTq6emS8xLvhiOpdQGnPX2mEMopNAMpdvOaUVtA8Ii/ADXKWWFdr8QSejsn2enyHlJp6AGh2lXEL5Elzk44ssQs3uqLSqyPRKb3Ogvj54hb+FlDyiN3SN1Wa0N4dLG9OQGSlVoBHskGSQBo6OoKbrj2rwV3J+U55oeM8DkK7XAbKbPSFpDEivYhYRzpCBVyfy32HSubb6BKsM1TRZY/0dFiVPiGM9o8QI2IfuCiSPnl70woFyRFe38EAXGI9wzar9GLZWb7FE2KxIR3nkMbp60fVCYpw==;Sahl1xcTMtb7UdQ/x1Liyw=="
 ---

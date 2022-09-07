@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gadgetsnow.com/tech-news/this-is-likely-why-us-banned-ai
 cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/this-is-likely-why-us-banned-ai-chips-to-china/amp_articleshow/94026320.cms"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -113,15 +113,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "US bans export of artificial intelligence-related chips to China fearing misuse"
-    excerpt: "Nvidia shares tank after it estimated a loss of $400 million as it is prevented from exporting two types of chips that can be used for military use; AMD also affected US bans export of artificial inte"
-    publishedDateTime: 2022-09-02T05:12:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/technology/us-bans-export-of-artificial-intelligence-related-chips-to-china-fearing-misuse"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 13
 
 secured: "k93SHJ+V4bYgMJPYgn3Xe6TEMOZX4lpaOdG7jvuZbbXNJHZjpVKKXLJSY/7kKb+2L26MJth9t6VPjoHV0EBNlMADqzxvgCgBv7krv9PTkVxWazBBQ5xvhVhnez6H0nKAIIHYzbk6FLJNGoDAc7gCvA7hR8vw1/3NMd76+aopEcYShu3kft/FOPFztliQGFQTcygNMqh6tjCx4lOinZdksk/CPKkqt27lJ8s9eiU7DWUU1rqMIX3Ul90VnBCcpSC5tJsFfgPqtZLPy9ZAk1Yta23SN6lm8oQaJPf6nXuihZ15hyly4W2ZeOy5HUV+4r2gKUT3teQfgchy54Sy/FG+VrSv59Lv9/L9UGG09r+7G6odQnh94NC8hENbQnNv06mOFtXI++MQ0nqHdapOPgkFMP0ED1cAOkaBHIJjRybFNUDR892unC36oC+PCrSTbV0lHhpFMvIuqvsJS6gPNi/8PpdPYCicJ2TWdkVopYzlkA8eXlc6OmC5GwZnXffvIUMXbdvyIetgWFVZ2XJi4aHaEg==;YywxT5XMKsqjDSG7ZRVSNA=="
 ---

@@ -96,7 +96,12 @@ related:
     provider:
       name: Smithsonian Magazine
       domain: smithsonianmag.com
-    quality: 32
+    quality: 54
+    images:
+      - url: "https://th-thumbnailer.cdn-si-edu.com/ntf_sUmKl_rPqXGhceJw96gofN8=/fit-in/1600x0/filters:focal(460x307:461x308)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/91/31/91312024-89f0-46c8-91a8-b9345fd64a92/screen_shot_2022-09-02_at_23648_pm.png"
+        width: 920
+        height: 611
+        isCached: true
   - title: "This AI-generated artwork just won first place in a state competition"
     excerpt: "Colorado man Jason Allen has used AI software Midjourney to create Theatre D'opera Spatial, an art piece that won first place at the Colorado State Fair."
     publishedDateTime: 2022-09-02T10:34:00Z

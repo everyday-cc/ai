@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market 2022-2027: Size, Share, Trends And Forecast"
-    excerpt: "According to IMARC Group's latest report, titled \"Artificial Intelligence in Healthcare Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027,\" the global artificial intelligence in healthcare market reached a value of US$ 3."
-    publishedDateTime: 2022-09-02T06:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2022-2027-size-share-trends-and-forecast-2022-09-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
   - title: "Healthcare AI Can Augment Clinical Workflows"
     excerpt: "The current state of healthcare is where healthcare providers sit and type in front of a computer while caring for patients. By doing so, critical aspects of their stories can be missed. As artificial intelligence (AI) advances,"
     publishedDateTime: 2022-09-02T11:08:00Z

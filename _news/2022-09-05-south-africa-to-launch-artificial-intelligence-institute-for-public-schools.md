@@ -37,15 +37,6 @@ related:
       name: CNBC Africa
       domain: cnbcafrica.com
     quality: 17
-  - title: "New ‘app store’ and artificial intelligence institute to boost tech subjects at schools in South Africa"
-    excerpt: "South Africa intends to enhance the teaching of robotics and coding in public schools through the establishment of an Artificial Intelligence (AI) Institute."
-    publishedDateTime: 2022-09-02T06:55:00Z
-    webUrl: "https://businesstech.co.za/news/technology/622219/new-app-store-and-artificial-intelligence-institute-to-boost-tech-subjects-at-schools-in-south-africa/"
-    type: article
-    provider:
-      name: businesstech.co.za
-      domain: businesstech.co.za
-    quality: 3
 
 secured: "yeZDlTMZszGMIFXLe3EQFhrHmqFVRKJ/Wo4pvca5iRzB3iRiUsB4sKQIceiu4HybVcZjGrLuIVTvAa//LYnk2xpTOFzTVzvvwGEfJ6nPro4gYn9pXNvJBLEOP3+p07ZA9tqbc6RPuSiBJmq0oLK0gfXNXbcHdsHXWJ34SSQx4X7XOm+UDjahkS1DAS80dsJ1ayPIh090NA0mxxDy1be6v5GrFpleVo+ytqTGmcGRSyfOSgMVXOMKERdibX6XPn0HnjAik/epXLGbgUqnhKNv12Kxeh5x/fy5WPeId4756uxlmPzmO5uD29tuUW0R5JZrActI5YkyBN/g/K0FseYEE9VHDVex9foD/R7BAu0xlX78hH+b5W4K4PLkWCrujreE2zk4T9OXiy/o4OkTGio1ZIJ0q7yI8F7dSbDA2e71dYXvFD3IkDijwflVv3QdGfG/jkMlxfvfRPBM/0oSMhgxKXkqOvyJdo60LAZAGzL4KV/UbWRBEl2gor+aw48iWojKeE3iQzON2vyrasJwTlyQvQ==;D9kErrz53LnjZ4mU2qxmHQ=="
 ---
