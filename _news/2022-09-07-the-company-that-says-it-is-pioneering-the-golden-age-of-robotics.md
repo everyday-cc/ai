@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/leadership/the-company-that-says-it-i
 webUrl: "https://www.entrepreneur.com/leadership/the-company-that-says-it-is-pioneering-the-golden-age-of/434638"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 1333
     isCached: true
 
-secured: "aGT8pQEYDSK8zgZy7LQw7dnwOdHrDrZ4qPySgLHAotCpa0QLA7Hndo1ldgs5usKDdQOx8EKGm/sh8fhauvvnLWlB3SULRYWVih7mog9kqVU7poWETDFMkg8LQw90ESl+Uzh00qsTl1PXYCxTmA7oCZQR3PqP0y2Mx90MqQifCtrMY87Gvm5l1/X677sLHpZ9ZT9cd9JGklCM6jIO7J4EEH9Iz2kWZZyNBu5qPdAbw6CrYXfUjH6vPiXGJXZoRxlcRLaJCwAv9cDDJwStLEiTxb/GvWv+vVQXWqJhumpZRa3zmdJPmfXEAcJLE7SRHnSWVw1bQO6eBe36cvBqZLlD9WtJCIRayU0I6RtIIwe40nc=;Zkp4vr8gw5mhYaQVAj2mRw=="
+secured: "BTaQX9KHwm7iJSHB2T1Qaa+rUxcN6qQHL4gFMyk7KJrHipSFXdRBjHNuWjDad7CCMy70JWBdWLhkAzt3oCPszCqDCRSQbBG2NLseZIsJW0md/xw9Ovj1hFgwT9SuhJcmC6fHtcIFdJUxW0YVko6ClJ/WQy7uNJaYkr8QSgfnhQsNzZikxW4aLqyU6/UpMfSzxYzc2tPMjnkKnN0kfccdJhPDbCw4FOTX6gGfDyXRrAceuff1lxWUeWN/eYaA61Cajipz9PhJ/ROoxiQM59VvrmL9bqGRUNwOxrLy/tdbXsAT3Nz46Xjoe5etg6KlT+HXV8CJhzeS/3P57NGiDzBkaKgO3DLZhEwbRkwNz7GoeJnCrqticSa1/9FEFVfwHNkr2wrnMhgswHr6wuW8edVCohGzmCUc0gU3IH5qJijSArrirteQIHp+JFH3lT89SVn7+2AkBkLrT/xviCPQ90ZPu46xK3bpC6wG8mFz4Zsgk69RzoZR3tP1JpV9jIxyfSZBuC2kRewW4DGUMycPuO0sMw==;/DQ3ocRCJWHgntTZBf1iRw=="
 ---
 

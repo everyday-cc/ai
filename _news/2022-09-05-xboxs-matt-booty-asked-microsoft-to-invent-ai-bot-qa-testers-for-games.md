@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/paultassi/2022/09/05/xboxs-matt-booty
 webUrl: "https://www.forbes.com/sites/paultassi/2022/09/05/xboxs-matt-booty-asked-microsoft-to-invent-ai-bot-qa-testers-for-games/"
 type: article
 quality: 64
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -23,22 +23,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Self-driving tech company floats possible sale to Apple or Microsoft"
-    excerpt: "Aurora Innovation Inc.'s chief executive officer recently laid out a range of options for the self-driving company to respond to worsening market conditions and partners pushing out timelines, including a possible sale to Apple or Microsoft,"
-    publishedDateTime: 2022-09-03T00:03:00Z
-    webUrl: "https://www.spokesman.com/stories/2022/sep/02/self-driving-tech-company-floats-possible-sale-to-/"
-    ampWebUrl: "https://www.spokesman.com/stories/2022/sep/02/self-driving-tech-company-floats-possible-sale-to-/?amp-content=amp"
-    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2022/sep/02/self-driving-tech-company-floats-possible-sale-to-/?amp-content=amp"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 61
-    images:
-      - url: "https://thumb.spokesman.com/Se5c2OT9-lqqD-VC1ZUm_QstAGo=/480x0/media.spokesman.com/photos/2022/09/02/6312882c6765e.hires.jpg"
-        width: 480
-        height: 311
-        isCached: true
   - title: "The Head Of Xbox Game Studios Wants Artificial Intelligence For QA Testing"
     excerpt: "At a Q&A during PAX West, Xbox Game Studios head Matt Booty expressed a desire to bring AI technology to QA and testing in video games. As spotted by VGC, Booty stated that he has asked AI researchers to develop a system that could test games."
     publishedDateTime: 2022-09-06T18:41:00Z

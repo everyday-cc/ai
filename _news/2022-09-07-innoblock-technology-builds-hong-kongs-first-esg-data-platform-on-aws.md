@@ -1,23 +1,29 @@
 ---
 category: news
 title: "InnoBlock Technology Builds Hong Kong’s First ESG Data Platform on AWS"
-excerpt: "WWF-Hong Kong collaborates with the company to help organizations reduce carbon emissionsHONG KONG SAR - Media OutReach - 7  2022 - Amazon Web"
-publishedDateTime: 2022-09-07T02:55:00Z
-originalUrl: "https://www.macaubusiness.com/innoblock-technology-builds-hong-kongs-first-esg-data-platform-on-aws/"
-webUrl: "https://www.macaubusiness.com/innoblock-technology-builds-hong-kongs-first-esg-data-platform-on-aws/"
+excerpt: "WWF-Hong Kong collaborates with the company to help organizations reduce carbon emissions HONG KONG SAR - Media OutReach - 7 September 2022 - Amazon Web Services (AWS), an Amazon.com company, today announced that blockchain specialist"
+publishedDateTime: 2022-09-07T10:55:00Z
+originalUrl: "https://www.asiaone.com/business/innoblock-technology-builds-hong-kong-s-first-esg-data-platform-aws"
+webUrl: "https://www.asiaone.com/business/innoblock-technology-builds-hong-kong-s-first-esg-data-platform-aws"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Macau Business
-  domain: macaubusiness.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "jr8adOvxIMLC3uW83++h+1iUbCXs3MoyYXOQNaf2jkO+//xfL7FPS2v4jl5E1ODmJkLmmnba8nYkBZ43EJ4/Xn23k62yIJKt6XFH0gZpioDt8bLw2bTMA/MRCIfiJs3HbLs4XrSb6dnp0gOsMEnP3/8qrWMeXfNNeG71a17QJZTNsYavxTPHb1rlBWYaz2O02bDlLQX1/5tZSYQkrCjbHgaey9t8TypAzBhi0ucqxwNON5+28hzeL6vYJy3A6w1MTlZXOtc00Et8V46WKIBvnwdB4+w3ntXw2HALmVr3ad7utbf8iQgReQZ4GxM9SGm4h91lUFHunoFJ1Olwa93PKhxyCRe4lHb+YdWg1VMdRok=;caqLEkYSRS/fTphT+EqaXQ=="
+images:
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Sep2022/AWS-combine.jpg?h=bde28bee&itok=Apsgya35"
+    width: 600
+    height: 316
+    isCached: true
+
+secured: "xqMQFWHVf19LPBtBPqKY3hfkDLC4XLukivCA2Z4y68oEJRJcnmsjvuDNm8YpTXKeLV1CboSOJLKARcFLYy1SegwCPNFSoAZZoYPjsQGUmv0AfC0b4jeSL+L0PHa+yXZZo0g1HVY9N5p5rNGaTtNh0D68LTtH0PMIyE27Ofj8DZIzx7F9fAOWi4w4RDurg5myk766VXAv3KJ1yQu3m+lm01tGeVcEV6tUsPd/hwyWNANFGFeEcI/Ddsu0Nzt2bDDC1fK1HQ7mbHW/hk9O/ndHrp3TMCAS2qu8BLVy0hE0xn08zDNBsFZAQpho8VpwXyzyBmzAOYmseBNsdGq74CFj5GF0IJKEDAMRfgc1HDPfX0I=;lX2nF9BqHcEuYl2b7cpUhg=="
 ---
 

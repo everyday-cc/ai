@@ -9,7 +9,7 @@ ampWebUrl: "https://dailytimes.com.pk/993751/iran-might-use-facial-recognition-t
 cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/amp/"
 type: article
 quality: 58
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/0e5362e30c4fa3e8e292390007a270942c7c9273/0_0_5578_4000/master/5578.jpg?width=620&quality=85&auto=format&fit=max&s=66f0b55770711a01c83060ad768c4ef6"
         width: 620
         height: 445
+        isCached: true
+  - title: "Iran to use facial recognition against women who do not cover their heads"
+    excerpt: "The government has announced that it is using the technology against girls and women who break the hijab law, but its first use dates back to before 2020. Over 300 people have been arrested for protes"
+    publishedDateTime: 2022-09-07T17:28:00Z
+    webUrl: "https://www.asianews.it/news-en/Iran-to-use-facial-recognition-against-women-who-do-not-cover-their-heads-56600.html"
+    type: article
+    provider:
+      name: Asia News
+      domain: asianews.it
+    quality: 53
+    images:
+      - url: "https://www.asianews.it/./files/img/size3/IRAN_-_proteste_velo_obbligo.jpg"
+        width: 700
+        height: 460
         isCached: true
   - title: "Iran to use facial recognition cameras to enforce new hijab laws in chilling crackdown on women not covering up"
     excerpt: "IRANIAN authorities are plotting to use facial recognition cameras to spot women defying strict new laws on wearing hijabs. The chilling crackdown will see women who refuse to cover up tracked"

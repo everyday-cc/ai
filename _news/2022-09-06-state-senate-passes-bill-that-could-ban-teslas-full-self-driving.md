@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla’s ‘full self-driving’ isn’t worth $15,000, say many who bought it"
+    excerpt: "Tesla's price for the feature it calls \"full self-driving\" has increased again. This time to $15,000, making it an unusually expensive option for a car."
+    publishedDateTime: 2022-09-07T15:17:00Z
+    webUrl: "https://www.cnn.com/2022/09/07/business/tesla-fsd-price-increase/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/09/07/business/tesla-fsd-price-increase/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/07/business/tesla-fsd-price-increase/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 89
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220906152126-02-tesla-interior-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Tesla Enhanced Autopilot vs Full Self Driving: which one should you buy?"
     excerpt: "Teslas are also capable of coming with Enhanced Autopilot and Full Self Driving. By parting with several thousand dollars, you can ensure your car can do more things without (much"
     publishedDateTime: 2022-09-06T07:00:00Z
@@ -54,36 +70,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/6kavFKbT3MZ5oD4gMGgChT-1200-80.jpg"
         width: 1200
         height: 638
-        isCached: true
-  - title: "California Legislature Passes Law That Would Force Tesla to Change Name of Full Self-Driving"
-    excerpt: "Following a complaint filed by the DMV calling FSD's name misleading, California lawmakers have passed a law that would force Tesla to drop the title."
-    publishedDateTime: 2022-09-02T23:22:00Z
-    webUrl: "https://futurism.com/the-byte/california-legislature-law-full-self-driving"
-    ampWebUrl: "https://futurism.com/california-legislature-law-full-self-driving?amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/california-legislature-law-full-self-driving?amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 48
-    images:
-      - url: "https://wp-assets.futurism.com/2022/09/california-legislature-law-full-self-driving-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Tesla’s ‘full self-driving’ isn’t worth $15,000, say many who bought it"
-    excerpt: "By Matt McFarland, CNN Business Tesla’s price for the feature it calls “full self-driving” has increased again. This time to $15,000, making it an unusually expensive option for a car. “After wide release of FSD Beta 10."
-    publishedDateTime: 2022-09-07T15:17:00Z
-    webUrl: "https://kesq.com/news/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/"
-    type: article
-    provider:
-      name: KESQ News
-      domain: kesq.com
-    quality: 39
-    images:
-      - url: "https://kesq.b-cdn.net/2021/05/kesq-us-world.jpg"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "7jvy0dKIRTiZE3e3eOVwV3Z1eTvv4SYqLgX8djD6auDy+uvcqLC0wiLfVMqdUXQ7mNPNwAaN2Nq+o6prcf6ERL4zZbx0sIvnMevUDvy2gByAgaJqNAEb2XAamTAaRap+zMB0j1olAaATtGoE0iZJiLe92wJleYejkx2tgajEF+lznu8W/QfCxvRUIDXNhL57elLfra95wkDWfKReZBPaQGkavkA5tHLXPH9FnzXbUkjnfb6149CZGOXTQ7DlI+/P/am++t8KV0sE8ZsaqTc+D60RM46e89fQ8GzTmdARYWr0+lVFk35vCd7m0KzcusM0CVLU+1qtNe7IH4kwdLHqWfWJ/q46eOVDZ2CDehumIuz/qJXiSlGeI4/bjuRHTngejJmST4Vh8wha6nLtaOXRQcYUBGxFS8vmsUsQnBzjdXnnMt+jLToUUgTDspLTXQmzcTvArADKhvXGsORsTB5oBI3TpvW9uw8DZ2DDc1VfuS2uNAdVdgqQ/k0q57LtvPmDMjP892aSZIQdyOyoQP/X5g==;Sziry9dwF4+Bn5jlcoIjeA=="

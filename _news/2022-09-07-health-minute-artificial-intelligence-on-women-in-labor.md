@@ -8,7 +8,7 @@ webUrl: "https://www.waow.com/news/health/health-minute-artificial-intelligence-
 ampWebUrl: "https://www.waow.com/news/health/health-minute-artificial-intelligence-on-women-in-labor/video_e088be2e-97fd-5269-9c66-de23469b2595.amp.html"
 cdnAmpWebUrl: "https://www-waow-com.cdn.ampproject.org/c/s/www.waow.com/news/health/health-minute-artificial-intelligence-on-women-in-labor/video_e088be2e-97fd-5269-9c66-de23469b2595.amp.html"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 related:
   - title: "Health Minute: Artificial intelligence for women in labor"

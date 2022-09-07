@@ -3,11 +3,11 @@ category: news
 title: "The Head of Google Says Future AI Must Align with Human Values"
 excerpt: "Google and Alphabet CEO Sundar Pichai talked about the issues surrounding the company's pivot to artificial intelligence and more."
 publishedDateTime: 2022-09-07T14:39:00Z
-originalUrl: "https://au.pcmag.com/news/96052/the-head-of-google-says-future-ai-must-align-with-human-values"
-webUrl: "https://au.pcmag.com/news/96052/the-head-of-google-says-future-ai-must-align-with-human-values"
+originalUrl: "https://www.pcmag.com/news/the-head-of-google-says-future-ai-must-align-with-human-values"
+webUrl: "https://www.pcmag.com/news/the-head-of-google-says-future-ai-must-align-with-human-values"
 type: article
-quality: 69
-heat: 69
+quality: 67
+heat: 67
 published: false
 
 provider:
@@ -19,15 +19,14 @@ provider:
       height: 50
 
 topics:
-  - AI Ethics
   - AI
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_au/news/t/the-head-o/the-head-of-google-says-future-ai-must-align-with-human-valu_439s.1200.jpg"
-    width: 1200
-    height: 675
+  - url: "https://i.pcmag.com/imagery/articles/05NdJNZwhf0rpoPHYGrtAgS-1.fit_lim.size_1200x630.v1662561158.jpg"
+    width: 1120
+    height: 630
     isCached: true
 
-secured: "tozh0wHp4HDOEkBurPWqr6ehzOlnwqd1lyZY/Wh3DFv4MYKV8BajelK3JFirHsBLgvQ+ef0Ym26Z8MhQRDC3Ate8bmUVLbpj1s8J/DJ2Mc6nNoIL1ymyxz+I3omVEjY78GW9Nxv8j0O7qCvePRDj6VG1me+WRttkj/eAEN5KdxePIk/o8g61/n+jPU2zkrvVM0wUS0sp26xNvl73zB8BEAFGHFDJ+KuMVVgJDqpY/dyjgzgS4sMMhrdqjkmi4n3OnbYdRhv1RpJvV1zDr5TJgs9rwpsUiuNWZVEMDiYCU8zwSzFgQjlnmVUiR3Ux8O8i1LxELSqS685MRbfP2NsXSWst/1HzoY9BW4zdDwu4iNg=;tY+dB5+uQAI+uSCTseBG9Q=="
+secured: "tkgBErW8CiuU/9HJRAmJnU5v2qhaYoaLyvqreeOA/RoZUc2Brv8e2GPIK302BLe4iAjvcoCtG+2E9w3+SvC+17r/UzgEZEru7Cg8JjxOBDS3gOv9P3IKGTQ4Gpk9xsAknQuYRAp1DNHYB07wvWtbPkusG1hknrmEvFPp9NZCHyVBnq/VmCaxYmqeYU1utHSnAJIYcxIE6TsRGTWUs5vZtIJJiooE3tQzkpYc0fzFpioShFaur/xvir6WRMJqlXBNCk+qe7/YjBpp1zZlro7vU3w8l3drK1MvG+IUUO+2i+XakD6ydQszZTb8It2qevqnifHbHZ0BPANmsNCksbX7SReW8fOorLYJ+Mc90mrLR0E=;SNtnvdva/0mCrRF+ZQOATg=="
 ---
 

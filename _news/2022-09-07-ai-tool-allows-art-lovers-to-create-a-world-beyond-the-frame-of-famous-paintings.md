@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2022/09/06/ai-tool-allows-art-lovers-to-reimagine
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/09/06/ai-tool-allows-art-lovers-to-reimagine-famous-paintings-photos/amp/"
 type: article
 quality: 52
-heat: 62
+heat: -1
 published: false
 
 provider:
@@ -26,15 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "This 17-Year Old Created An AI-Powered App To Help Farmers The World Over"
-    excerpt: "Invasive species present a huge threat to agriculture as our climate warms. A teenager saw his grandfather's rice farm destroyed by an invasive species and resolved to use his interest in computer science to help."
-    publishedDateTime: 2022-09-06T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/erikkobayashisolomon/2022/09/06/this-16-year-old-created-an-ai-powered-app-to-help-farmers-the-world-over/"
+  - title: "DALL-E machine learning can now imagine what lies beyond the frame of famous paintings"
+    excerpt: "Since being unveiled by OpenAI in early 2021, DALL-E has been turning heads with its ultra-realistic AI image creations. From jaw-dropping to just downright weird, the text-to-image AI system has wowed the internet."
+    publishedDateTime: 2022-09-07T16:49:00Z
+    webUrl: "https://www.techspot.com/news/95893-dall-e-machine-learning-can-now-imagine-what.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 46
+      name: TechSpot
+      domain: techspot.com
+    quality: 76
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2022/09/2022-09-07-image-4.jpg"
+        width: 1365
+        height: 864
+        isCached: true
 
 secured: "EDs2+uMnf7JaYFMMBjF2wh94w/TN79e6NmtiURqIYh7yezjIcNBO0+wiIsGbAjeCVpKJNuyvclnwbbCvR8EMxcNgfrV8ePPTjWmcqM08KXSWXaNZIj6wP+pE75/wmCNd6reWNNUgv0EQAQbnNGABqRNXQHRESMuzjS3yTf8sr8jHvq42XMQd85JnkAmijd0QVA0ZwAUq5JxB0ySGKdR7Tu1yaAfM7cjfrOHSAqKHWnGyF5cFA47z6RxhFzN2B6CW71K564gg4et6o3fXod8k87fx06ObGzkeXoZCs2uizgQqHq6R70/mg22zPKL6c8Y7l66rsPsI+Zka8nLA3OKWdazzwGjVX8/6uduEODVUgsLlBI3gAUCXZbqkDyRI5YXMlKdYE/AXjuLVncSgi1vgx+EuD3ytyFOSv7ljL3zUcWukmGd4kscQag+a/6LbVuAnMOYT0erY0IuKD/pYik3N/3oVWnD1998f8osZaUw5AtavHHesbQRA15pzsfIhXDzhehcjGwYXlWPwDBuS4Li0Fg==;ghgpQbPe4H5I2TnEN/4k4g=="
 ---

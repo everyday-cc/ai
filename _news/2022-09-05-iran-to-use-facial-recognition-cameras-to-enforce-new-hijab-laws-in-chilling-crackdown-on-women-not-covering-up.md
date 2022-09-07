@@ -59,6 +59,20 @@ related:
         width: 620
         height: 445
         isCached: true
+  - title: "Iran to use facial recognition against women who do not cover their heads"
+    excerpt: "The government has announced that it is using the technology against girls and women who break the hijab law, but its first use dates back to before 2020. Over 300 people have been arrested for protes"
+    publishedDateTime: 2022-09-07T17:28:00Z
+    webUrl: "https://www.asianews.it/news-en/Iran-to-use-facial-recognition-against-women-who-do-not-cover-their-heads-56600.html"
+    type: article
+    provider:
+      name: Asia News
+      domain: asianews.it
+    quality: 53
+    images:
+      - url: "https://www.asianews.it/./files/img/size3/IRAN_-_proteste_velo_obbligo.jpg"
+        width: 700
+        height: 460
+        isCached: true
   - title: "Iran to use facial recognition technology to enforce grim new laws on women"
     excerpt: "Iran is introducing an oppressive tightening of its strict hijab laws. Women can be spotted by facial recognition technology on public transport if they do not dress 'correctly'"
     publishedDateTime: 2022-09-05T12:19:00Z

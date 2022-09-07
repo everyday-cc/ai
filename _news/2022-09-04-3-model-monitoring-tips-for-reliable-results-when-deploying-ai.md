@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/3-model-monitoring-tips-for-reliable-resu
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-model-monitoring-tips-for-reliable-results-when-deploying-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1500
         height: 800
         isCached: true
+  - title: "Noble rolls out AI-powered remote monitoring tech for mental healthcare"
+    excerpt: "Artificial intelligence app Noble is launching a new tool for clinicians to monitor patients with mental health conditions remotely. The tool includes AI used to assess patient data collected through self-reporting and the patient's heart rate."
+    publishedDateTime: 2022-09-07T16:22:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/noble-rolls-out-ai-powered-remote-monitoring-tech-for-mental-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
 
 secured: "kCWqZMVYiF6ImJPLZnop6lY+Q/WPK1rcLYR+ANfBlG29h/w2oetmsKhXQGDjYXTChQJc/ucdi1SXwBaKfYd7jmwcZ7FUhBGYdF4rQrK6w3eCk07fMZ4ds6mu4MXUR0fKpJKz9yaK56e3LDqjTOB6z23r5cvIPXgEme8L9c25FG+2uWle41fyVCu5Bk9XNUQNva2OzSvGC39QpzKmPHMRX57yEtwiKA9qYbmpNQ0Ew/9WXPVOJNj4KWFFoC3xXi/kUlXsX1vCJR7S4uZ7+RqfBQToedx7kp50VY8H4rAwjFXzlKrE1qFzjvaYIltQ0nSq6XfvvwtiP/w+4XqXEs159aAc9X2NoeBh353twh3pSo7R9vnzN2HVa60cyg/RPkopHPYttrkC6pslV9PVl4D8PCiFQTh5hydo3dKuI2Toj5atdXP5N4FVYlSaOjWjz5FOVFwWmRmTOnuSgFU7ujyryOpFcRPqQSf9q4sNzWYFneM81uLDvkPf5cuFubFmxzvbFBIy7zVZpA3mMtigdsPbpQ==;CdaMdNudtvByYLfz/pCvOQ=="
 ---

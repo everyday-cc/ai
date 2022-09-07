@@ -46,8 +46,8 @@ related:
     provider:
       name: WAOW
       domain: waow.com
-    quality: 39
+    quality: 41
 
-secured: "9CWsgFvfJXjBde9Hq8qokiMimE/7InCmGcBPwwxp+DVditSsgmn8e2AfROyzY+j4Dk9vCJPyfnF3b3rpfnKdyBI6KhCyi8IcnA1ZFTOe4yjG11KpDHbIP038bPnVb5MDWudJOsaChyCRRhawJby53iByO4cBop0jQSSfkNW7jcD8wEZiN30CNNPATQkjKWvLsTZMWGxF2r/vPcu4FjABrGmGkig9p+o5sD7DmtnVxlyZ+yY1+XfVFANXS/dyod+6or83Jylf0sixXm7+dxTUkGsEiKIy34JbEB/xJKCjTPD4lhFdIfNif5IpzxsCjJ/Z/S7TXEP89/FrQfD7bB1SgqiJfKrmWvMSv1Pi1O2CbJc=;t5Hw+aXKLJy0LDkASBvHSA=="
+secured: "Y2wG5KByRitVLMQISTyFkbKF4Lhhy2MOFZcskDYFfV3pYFq6zb6xrESCKzkr9c1S+M94KyqOhKmj5sawB+VJVy2GWdNyG3lOXJ/5fNoESXwtv10+d3YPzPNgzVrseR+dOJcWNFWLoNzTMuEGr7q5t52NfG7V9PDywSlpj1qNEMXajSLFX8Jm/iI2D7yN+vM4fh92GGtRmsMcweEFM0ycY9Ab8JBy9s3N7EhlfFYlz/l40tc3Wc8WnwD3pFfeJZc0TGEy4lhC933zCrpr8AAAFa+A2F5VcxtQ0PlHqG6Z/4+icRwl/YEFWDd9doQftn67ZS7LIL+Zgosk3Oh3EVdN0AyvIefYHmk0aFj4GTzRjtG+k2DBi1K2hKLxwaYiKkxpW3zzVCxSVIsXB7j5LHeA0pzs9wnn6V/DUq5zLsXVhA3VK41DZcwhgPJWuhZHxJdCp3/HNxjTbJKvqumh92P8GOsZV89eWE3uQ1FXNWjcnWkC3J+076901A9/ogpmzoIRcHHKfmKJhCbGISe/hgDHDA==;ujgG4MS+m38AxmLgtQ9BVw=="
 ---
 

@@ -22,6 +22,17 @@ topics:
   - Microsoft AI
   - AI
 
+related:
+  - title: "Virtana Launches Kubernetes Support Strategy Across the Portfolio with Container Rightsizing in Infrastructure Monitoring and Cloud Cost Optimization"
+    excerpt: "Virtana, a leading provider of AI-driven solutions for hybrid cloud management and monitoring, announces a new Kubernetes strategy that will deliver container support across the full portfolio of Virtana Platform solutions."
+    publishedDateTime: 2022-09-07T17:14:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/09/07/9668643.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
 secured: "0oMVsHGPKL3CJ6nyCiJLmtiNgLnonMwyKKCntWtqOiPLqO4DImjid8u/PkIeV3FtvG5qF79bo6yEuCfoHoz+Phfq8I6uuu/w+MYYjcct7o6Q5h5ct37M+7DUX7o6c0/l2ZI8lCmJeqX0MyFSDOoF676QfvlVopaWw9II/r0zib9i52Qr0O6I+6G7OyL2/j/zuZpGcxtO1T4ia9t0toovKC07CoTImQfSZR/gec3jqD6Ivx52QjbemAndVrfd4dnbM60Ar0c9PYD/8S4D/uOOpCOP0DnrOeez7ebV35/mCciapDfbpccGNxeUvygSQ/FMXp0K2inSzLELTUggMJ4fCgx6ETIp2AYcAbBmfUVvChc=;7u0O1Pvb+e5R6ntG//gsuw=="
 ---
 

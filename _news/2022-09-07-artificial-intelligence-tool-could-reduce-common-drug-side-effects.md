@@ -6,7 +6,7 @@ publishedDateTime: 2022-09-07T07:12:00Z
 originalUrl: "https://www.eurekalert.org/news-releases/963877"
 webUrl: "https://www.eurekalert.org/news-releases/963877"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 related:
   - title: "The EU’s AI Act could have a chilling effect on open source efforts, experts warn"

@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 689
         isCached: true
+  - title: "Noble rolls out AI-powered remote monitoring tech for mental healthcare"
+    excerpt: "Artificial intelligence app Noble is launching a new tool for clinicians to monitor patients with mental health conditions remotely. The tool includes AI used to assess patient data collected through self-reporting and the patient's heart rate."
+    publishedDateTime: 2022-09-07T16:22:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/noble-rolls-out-ai-powered-remote-monitoring-tech-for-mental-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
 
 secured: "B+CHfNy7KtBtsAPnyMjHa0BCUs3IE6T9jy9hWn9toqCiYOHXkeKPOjuOAxVz7Zp4JIrLqSOpjBAmqt20jqfK4hhloNhomJ4gV5dvNSVfPbdXoi70Yz3Wir4kbjZas8LmG5Mk6FaY94h7IxtbalTWOCul+ElG6PBSPxRo2/pll0KUdgw6/V77nH78u6BYsy9MfYnnCkWE6a/C3bKN4y3/ASfKJX8SzHjsEMKGRqGwIbj6BS2HjcGcIo+9l/hyjwojglhze6+Q19fv4d4sc42u4a665bxGQbtsXk01RSdiKkOZSve+HfdNCTox1dCRcHzNwMYSPrHPXjbuIneZbuoci7/xSTQC3TuJjpStP+xwXH0=;TvOVEhh8yD9T42kArrYxVw=="
 ---
