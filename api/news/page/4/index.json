@@ -1109,6 +1109,50 @@
       ]
     },
     {
+      "path": "_news/2022-09-01-gnrh-therapy-could-improve-cognitive-deficits-in-men-with-down-syndrome.md",
+      "title": "GnRH therapy could improve cognitive deficits in men with Down syndrome",
+      "excerpt": "Gonadotropin-releasing hormone (GnRH) therapy improves cognitive function in Down syndrome (DS) mouse models and male patients with DS, according to a new study. The findings reveal a previously u ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220901/GnRH-therapy-could-improve-cognitive-deficits-in-men-with-Down-syndrome.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220901/GnRH-therapy-could-improve-cognitive-deficits-in-men-with-Down-syndrome.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/2/Alzheimers_amyloid_plaque_-_Juan_Gaertner_9638f1223d534b518a192c8478871d65-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20220901/GnRH-therapy-could-improve-cognitive-deficits-in-men-with-Down-syndrome.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220901/GnRH-therapy-could-improve-cognitive-deficits-in-men-with-Down-syndrome.aspx",
+      "publishedDateTime": "2022-08-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-israeli-facial-recognition-once-did-border-checks-in-the-west-bank-now-it-snoops-on-casinos-across-america.md",
       "title": "Israeli Facial Recognition Once Did Border Checks In The West Bank. Now It Snoops On Casinos Across America",
       "excerpt": "Israeli facial recognition tech is now in use at casinos in the U.S, raising concerns about how private entities will use powerful surveillance tools. Day after day, thousands of faces appear on ...",
@@ -1159,49 +1203,6 @@
         "Computer Vision",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-up-bridge-the-gap-robot-development-kits.md",
-      "title": "UP Bridge the Gap robot development kits",
-      "excerpt": "Designed to provide developers with the complete package the robotic development kits come supplied with a computing and vision unit, a motion unit consisting of motor control board, motors and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/robot-development-kits-01-09-2022/",
-      "originalUrl": "https://www.geeky-gadgets.com/robot-development-kits-01-09-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2022/09/UP-Bridge-the-Gap-robotic-development-kits.jpg",
-          "width": 700,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-31T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

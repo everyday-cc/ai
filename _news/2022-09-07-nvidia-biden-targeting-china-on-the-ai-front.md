@@ -53,20 +53,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "US deals heavy blow to China tech ambitions with Nvidia chip ban"
-    excerpt: "The US government’s new restrictions on the ability of Nvidia Corp to sell artificial intelligence (AI) chips to Chinese customers threatens to deal a heavy blow to the country’s development of a sweeping range of cutting-edge technologies."
-    publishedDateTime: 2022-09-02T17:35:00Z
-    webUrl: "https://www.gulf-times.com/story/723601/US-deals-heavy-blow-to-China-tech-ambitions-with-N"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 41
-    images:
-      - url: "https://www.gulf-times.com/Content/Upload/Slider/920222203510947722915.jpg"
-        width: 620
-        height: 355
-        isCached: true
   - title: "NVIDIA and Dell Offer New Data Center Solution for the AI Era"
     excerpt: "NVIDIA is offering a new data center solution with Dell Technologies that is designed for the era of AI, bringing AI training, AI inference, data processing, data science, and zero-trust security capabilities to enterprises worldwide."
     publishedDateTime: 2022-09-06T14:33:00Z

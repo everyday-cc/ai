@@ -5,9 +5,11 @@ excerpt: "Business data and applications continue to grow in multi-cloud environ
 publishedDateTime: 2022-09-06T12:02:00Z
 originalUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/dell-technologies-delivers-industry-first-innovations-with-vmware-to-power-multi-cloud-and-edge-solutions/94028984"
 webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/dell-technologies-delivers-industry-first-innovations-with-vmware-to-power-multi-cloud-and-edge-solutions/94028984"
+ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/dell-technologies-delivers-industry-first-innovations-with-vmware-to-power-multi-cloud-and-edge-solutions/94028984"
+cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/dell-technologies-delivers-industry-first-innovations-with-vmware-to-power-multi-cloud-and-edge-solutions/94028984"
 type: article
-quality: 0
-heat: -1
+quality: 27
+heat: 27
 published: false
 
 provider:
@@ -17,6 +19,12 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://etimg.etb2bimg.com/thumb/msid-94028984,imgsize-396543,width-1200,height-628,overlay-etcio/dell-technologies-delivers-industry-first-innovations-with-vmware-to-power-multi-cloud-and-edge-solutions.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Dell Technologies Delivers Industry-First Innovations with VMware to Power Multicloud and Edge Solutions"
@@ -50,6 +58,6 @@ related:
         height: 380
         isCached: true
 
-secured: "nm39xUBcrgue19KfjzElsH/x14/9PXIp7cD/QU4dGdcbVdMBf8cJaWQEFniZGajVp3DvNS9XXv9wj4tlMVg/Yjn1/R5i6c2+iXmjE5OwifnTu6vUQ1ywkyO3JO0CS7sLM9Yh4pa3rDcDrg7ilddw947UZFBpxHcIGyCBefmGUCaZpFHhxhhDCnkL3D6Huu8HiJOQNZVpSq+r4708TuWMqm6Xm5SON3xPpuqg98ss2MjkfvV8288g8qybFNDZQKZsC19z2OAzArZ/5E/FeI4lZ32POj3VCiLwg+y2Am8XjDU1RaO4c313LW9Vy+WD8De/9NpCBFW0mHJ5SPrauw4dFUB1f4726DiRK9wJ7KMsYV8=;NEsDf98brg0TuLFaI/YmfQ=="
+secured: "wNjJ3P4+L6KUlIW+4BMhYIsdN7dfNlqlv0IK3k8QYU8iUQSHvBWQJrfBlsKKlTnNXxFVrQpCzavD2sxL1Tn2AKhGWww6/rczmUBCfTPpOamZWhlzOuLiF70dgQMT82Ea1nvHmVXX4RPN4oqAuS3cR/guWUwnYk6kO0ssBa/j9rwOLYpQUlV2GQ7uDtVMSprRyRIxEDGTCG73zu5NwHcmE3oTHD+/IQE3fWLngIyWmQjL78xlZzW30w1lMN3eU2Slz45MvNtdgtwatNZ63A3TXc9KAkc8KY+lPm+Zcu/T6sAQlbi6GiZA/5XkNcVikf5TxQH8Lyhc8JLrFWRg9PGlXorSl53QNKqi6JvM4Yowmic=;4Z4nG+JBHFnEgVjYdliTfg=="
 ---
 

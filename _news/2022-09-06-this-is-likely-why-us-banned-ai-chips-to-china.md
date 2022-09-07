@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gadgetsnow.com/tech-news/this-is-likely-why-us-banned-ai
 cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/this-is-likely-why-us-banned-ai-chips-to-china/amp_articleshow/94026320.cms"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/02162027/computer-chips-scaled.jpg"
         width: 2048
         height: 1069
-        isCached: true
-  - title: "Sale of top AI chips to be halted with China per U.S. decree"
-    excerpt: "YARMOUTH, Maine – Multinational American technology company NVIDIA said in a Securities and Exchange Commission filing August 26 that U.S. Government officials are enforcing the restriction of sales for its top AI chips with China. The move comes as ..."
-    publishedDateTime: 2022-09-02T17:47:00Z
-    webUrl: "https://www.securitysystemsnews.com/article/sale-of-top-ai-chips-to-be-halted-with-china-per-u-s-decree"
-    type: article
-    provider:
-      name: Security Systems News
-      domain: securitysystemsnews.com
-    quality: 54
-    images:
-      - url: "https://www.securitysystemsnews.com/uploads/blog/74394b321735772373628bfa536213a9.jpg"
-        width: 260
-        height: 260
         isCached: true
   - title: "Banned U.S. AI chips in high demand at Chinese state institutes"
     excerpt: "The development signaled a major escalation of a U.S. campaign to stymie China's technological capability as tensions bubble over the fate of Taiwan."

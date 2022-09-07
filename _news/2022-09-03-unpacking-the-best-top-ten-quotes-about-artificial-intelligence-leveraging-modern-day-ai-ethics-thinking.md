@@ -35,19 +35,19 @@ images:
 related:
   - title: "Measuring the business impact of AI"
     excerpt: "Taking stock of AI ROI is challenging but essential. IT leaders and industry observers lend insights on how to get a clear idea of whether your AI efforts are paying off."
-    publishedDateTime: 2022-09-07T09:42:00Z
-    webUrl: "https://www.cio.com/article/406373/measuring-the-business-impact-of-ai-2.html"
-    ampWebUrl: "https://www.cio.com/article/406373/measuring-the-business-impact-of-ai-2.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/406373/measuring-the-business-impact-of-ai-2.html/amp/"
+    publishedDateTime: 2022-09-07T10:00:00Z
+    webUrl: "https://www.cio.com/article/405620/measuring-the-business-impact-of-ai.html"
+    ampWebUrl: "https://www.cio.com/article/405620/measuring-the-business-impact-of-ai.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/405620/measuring-the-business-impact-of-ai.html/amp/"
     type: article
     provider:
       name: CIO
       domain: cio.com
     quality: 59
     images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/09/iStock-1297326414_800.jpg?quality=50&strip=all&w=1024"
+      - url: "https://www.cio.com/wp-content/uploads/2022/09/artificial-intelligence-698122_1280-100698891-orig.jpg?quality=50&strip=all&w=1024"
         width: 1024
-        height: 576
+        height: 724
         isCached: true
 
 secured: "WoREcsBDUQkmm0Vxlk9wopGNA9ScVQhcwxHFRdtBwMD4huXs/KdJ5Lzcxid5RrrD9RqcnudvqjusQi2KSjSzgmozhE44QnDYZHbirv+2gOkFPsd1yMipU7ipZG3VMtg+sCjYdLU/EATSjHTuEe378ZSFIOfYYrAxa1ydmXIebJtMfuHm7NyhqYY7p2uMgkczzspC0jsv6/tpfD02ppf//KDn6uRDonPp4UPikqAMW5JtA1XL3S9hUO39TI2Uk5c35ZOEg+d7LFY5coHuNFXaHbcMqWNWjefy/SeGMyEGGnd4Wy3S6cTlsUeb6RiejyajRLsfZyB6lG/K/B9lnXMPsKHzw03DTNdzrnjOML4Ts1n1CKpoLffaeayuiVhLK/VRT6P18oPhFMxTtIpBUgSxG1zh7W3wMK3FlWTrDZqdaBHkb/bJmSuLk44lIZ6tuIfDBZgUJLhq20GdUElfRjSpAf9esTcAQ9xPZEaAiOKDsHNl7zmzRaMyQS0jPBWl89JBefSjAb8d5OGPD0cTgFbiEA==;NzJu7mnYryJ9YG9SNuFnlQ=="

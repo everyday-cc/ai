@@ -41,6 +41,20 @@ related:
         width: 600
         height: 390
         isCached: true
+  - title: "Google leads fresh investment in embedded lending fintech R2"
+    excerpt: "R2, an embedded lending fintech from Latin America, has received US$15mn of Series A investment led by the AI-focused venture fund of search giant Google."
+    publishedDateTime: 2022-09-07T09:46:00Z
+    webUrl: "https://fintechmagazine.com/articles/google-leads-investment-in-embedded-lending-fintech-r2"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1800/6b8058e5974378a50aae676ce0e3f662:db640e6e5b55b595bd06bbf5b923401e/r2-fintech.jpg.jpg"
+        width: 1800
+        height: 1010
+        isCached: true
 
 secured: "elEvCvqITFZ2XmZu5a6HPSPB6Nb0Rp29JJakZqUM1dBLFEthtg3YIkVTm9/r/Rv3x2zRsiF95MKcxhm5y5tlNI8NAqmP0hgSgeFdDFUdyNnLJniPlUVt+EperGP8AQs3oVFaO9K6mUhmilcJp0r/Xi4rC3TLIrue/yJWoPHjCHPsyU4zM1a1hbd2YA+sB/CDWuYzYXPMBtu35lOxzcR4UPqhEzirOvWNw42tgsoDAE4hLcpkKLScXBrqNK9ToMAF9LJI2FO/pgS/cLi1U6KufziVdVr0Cst7hwyeoeT2TYsRWyEo94s5FnU/x0Bg2YVld2gZ9p+zEnQk2wQDheIDiEir7zaine7J/OmN/1pT3XQxZNMk8qsROfEsEyVfU4Q8FFnOhncXYY/Ls/1jwgFFH3Vs/x+D67IIurFwZeUp6qMHIeQIdMd9tAoeiGw+wuAVwS/iqgg4UNJAnOmO1IqwuDWKyOx+H1q+iosFlqQ+T4hjjbJipXa20SMyGFvRi1fKoO209pkX9PrTowb45q1XMw==;fQMXuw8fPcKh+2jPV0oicQ=="
 ---

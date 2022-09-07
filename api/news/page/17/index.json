@@ -2,6 +2,40 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-08-23-bosch-backed-self-driving-startup-weride-weighing-ipo-sources-say.md",
+      "title": "Bosch-backed self-driving startup WeRide weighing IPO, sources say",
+      "excerpt": "The self-driving vehicle industry has long been divided over the best ... taking a similar approach to peers including Baidu, Huawei Technologies, and General Motors-backed Momenta.ai. BLOOMBERG",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesstimes.com.sg/garage/bosch-backed-self-driving-startup-weride-weighing-ipo-sources-say",
+      "originalUrl": "https://www.businesstimes.com.sg/garage/bosch-backed-self-driving-startup-weride-weighing-ipo-sources-say",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T01:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Times",
+        "domain": "businesstimes.com.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-23-best-speech-to-text-apps-in-2022-free-paid-and-online-voice-recognition-apps-and-services.md",
       "title": "Best speech-to-text apps in 2022: Free, paid and online voice recognition apps and services",
       "excerpt": "Here then are the best in speech-to-text recognition programs, which should be more than capable for most situations and circumstances. Dragon Anywhere is the Nuance mobile product for Android and ...",
@@ -1110,49 +1144,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-veterans-voice-relatives-of-ri-aviation-hall-of-fame-honorees-sought.md",
-      "title": "Veterans Voice: Relatives of RI Aviation Hall of Fame honorees sought",
-      "excerpt": "The R.I. Aviation Hall of Fame has identified a number of those war heroes whose gallantry and/or military aviation service fully merits recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cincinnati.com/story/news/local/2022/08/22/veterans-voice-relatives-hall-fame-honoreveterans-voice-relatives-of-hall-of-fame-honoreeses-sought/7842624001/",
-      "originalUrl": "https://www.cincinnati.com/story/news/local/2022/08/22/veterans-voice-relatives-hall-fame-honoreveterans-voice-relatives-of-hall-of-fame-honoreeses-sought/7842624001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2022/08/19/NPRJ/e9be141f-a765-437b-9194-39ca6d63ad93-1.hamilton_plane.jpeg?auto=webp&crop=1799,1012,x0,y205&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-22T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cincinnati Enquirer",
-        "domain": "cincinnati.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

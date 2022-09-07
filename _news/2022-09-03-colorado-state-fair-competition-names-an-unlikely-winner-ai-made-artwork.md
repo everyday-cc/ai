@@ -9,7 +9,7 @@ ampWebUrl: "https://www.huffpost.com/entry/colorado-state-fair-ai-art_n_63106fc4
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/colorado-state-fair-ai-art_n_63106fc4e4b063d5e621ef1a/amp"
 type: article
 quality: 86
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Human uses AI to win art competition—other humans angry"
-    excerpt: "Jason Allen lives in Colorado, and last week lit the fuse on a debate that's going to run and run: he used AI software to create art, submitted it to the Colorado State Fair fine arts competition, and took first prize."
-    publishedDateTime: 2022-09-02T17:32:00Z
-    webUrl: "https://www.pcgamer.com/human-uses-ai-to-win-art-competition-other-humans-angry/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 19
 
 secured: "7Tw+OGogNsRIB6QX6bYGw4momH4+FWCtWVd/X2zu26T9FO6/wedqGSc6NrjLGExMgt8pRAKpzAWYS6/mCMby6WsW0TVaG/gWKeiL2aPqpbjQ6MuWv5VBrwa6iJDH+edQf5pgYV1u01sNnc3ZqLfGLN2gM78uj83bhkicdUbkyeQME6La7REWj5pQWrVHcEkSmMai7E8xDcTf74ko7kcm5+BZeGjn2AgtmZ156w9FzAzN1T3wLhQwUbU5cADzMrda3VpLZgEdRcnpBDRgFcQ8MR0zdYm5oiMrzRlqFqNI2LHYJwxTqGYpjDxpQKmeOmTfIf8YLPPcmLrJvETvOGYmAv0fRTjItup8IL9X337NH+PQw1ksd6baRqKMmfyV30tuSYNmfX4t/rgv1/ENUymMa2CWXJAXf2JBT4JYKMnWl2rNUQJOlP8TNi6Z4DH5qqjJrRhlWBCkMpbUYN7e6FK60gloZszPHOhCzsdSVjW7+O97rAJMkTD6HHc5RRjVqVyZqztL50AZhWwobgis4JHyNQ==;dhmrUgv0qblker5VorIImQ=="
 ---

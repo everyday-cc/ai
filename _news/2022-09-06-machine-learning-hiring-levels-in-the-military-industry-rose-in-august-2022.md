@@ -25,61 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning hiring levels in the power industry rose in August 2022"
-    excerpt: "The proportion of power industry operations and technologies companies hiring for machine learning related positions kept relatively steady in August 2022 compared with the equivalent month last year,"
-    publishedDateTime: 2022-09-05T17:00:00Z
-    webUrl: "https://www.power-technology.com/analysis/machine-learning-hiring-levels-in-the-power-industry-rose-in-august-2022/"
+  - title: "Deep Learning Software Market Size From 2022 To 2028 And Key Findings and Segments by End Use Industry"
+    excerpt: "The \" Deep Learning Software market research report \" delivers a complete overview of key components like drivers, limitations, historic and current trends, technical development, and future growth. The Deep Learning Software market research report contains company analysis,"
+    publishedDateTime: 2022-09-05T07:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-size-from-2022-to-2028-and-key-findings-and-segments-by-end-use-industry-2022-09-05"
     type: article
     provider:
-      name: Power Technology
-      domain: power-technology.com
-    quality: 38
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
     images:
-      - url: "https://www.power-technology.com/wp-content/uploads/sites/21/2022/09/T2xuB-1038x778.png"
-        width: 1038
-        height: 778
-        isCached: true
-  - title: "Machine learning hiring levels in the automotive industry rose in August 2022"
-    excerpt: "The proportion of automotive manufacturing and supply companies hiring for machine learning related positions rose in August 2022 compared with the equivalent month last year, with 38% of the companies included in our analysis recruiting for at least one such position."
-    publishedDateTime: 2022-09-05T17:00:00Z
-    webUrl: "https://www.just-auto.com/analysis/machine-learning-hiring-levels-in-the-automotive-industry-rose-in-august-2022/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 36
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/09/8QsfM-1038x778.png"
-        width: 1038
-        height: 778
-        isCached: true
-  - title: "Machine learning hiring levels in the clinical trial operations industry dropped in August 2022"
-    excerpt: "The proportion of clinical trial operations companies hiring for machine learning related positions dropped in August 2022 compared with the equivalent month last year, with 23.8% of the companies included in our analysis recruiting for at least one such position."
-    publishedDateTime: 2022-09-05T17:00:00Z
-    webUrl: "https://www.clinicaltrialsarena.com/analysis/machine-learning-hiring-levels-in-the-clinical-trial-operations-industry-dropped-in-august-2022/"
-    type: article
-    provider:
-      name: Clinical Trials Arena
-      domain: clinicaltrialsarena.com
-    quality: 27
-    images:
-      - url: "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/22/2022/09/72bPe-1038x778.png"
-        width: 1038
-        height: 778
-        isCached: true
-  - title: "Machine learning hiring levels in the pharmaceutical industry fell to a year-low in August 2022"
-    excerpt: "The proportion of pharmaceutical companies hiring for machine learning related positions dropped in August 2022 compared with the equivalent month last year, with 21.1% of the companies included in our analysis recruiting for at least one such position."
-    publishedDateTime: 2022-09-05T17:00:00Z
-    webUrl: "https://www.pharmaceutical-technology.com/analysis/machine-learning-hiring-levels-in-the-pharmaceutical-industry-fell-to-a-year-low-in-august-2022/"
-    type: article
-    provider:
-      name: Pharmaceutical Technology
-      domain: pharmaceutical-technology.com
-    quality: 27
-    images:
-      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/24/2022/09/c34Ja-1038x778.png"
-        width: 1038
-        height: 778
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "pWrXj+nTJkFYl2W/rczzW0xfC/Ct0KSi1GKYEQJJtJGCHe9qflY3dFYjOM4rcftsV8NqMLIIdLIR88qhfU+fCIivD5Y+JDi5u1A3nVhQ93dwofi+weA9SLw2zA8G+mKl1hE7SSiwgIAvs+zwvxmHH6AGqhGsBh7A0lzZ1ZG/RzpDvyEvYOgCJ1pXVaxuR0o1RodLN50w3vMr+yZPfg6x0vIlMqmxScL1xaU+FoSzajutRnBs3jLwARozrURUzRH4sQW1YJr0gbV8EwNWSNOwoh7VPBA4rF1GEmeBzUXTFfdWKrBf8bashalP8GJ1uZc6phsLPNsWNX5Z1vNJdLJbrJDNUc2PX0grd3MuMKV+y8RUYdmI2c3JwX+8eytCSBV0oDa51So0AQyedgBhTZGkk5ygRQujc+ot/SWmHzSfpt8mD/ka5jk5dg8z4L1BE/rihUuYl8v1zLm5dM4WuQpWbv92Ii6tacLE/DrhqETwLfcxCRoHJaMDlZ4ccDKGJpLkf6D7E9xQBnTzyMkbQIg/mA==;lyPBAHIFmlECQU48AIZ3FA=="

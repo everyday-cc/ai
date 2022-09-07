@@ -7,7 +7,7 @@ originalUrl: "https://www.azorobotics.com/News.aspx?newsID=13212"
 webUrl: "https://www.azorobotics.com/News.aspx?newsID=13212"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 804
     height: 536
     isCached: true
-
-related:
-  - title: "How artificial intelligence can explain its decisions"
-    excerpt: "Artificial intelligence (AI) can be trained to recognize whether a tissue image contains a tumor. However, exactly how it makes its decision has remained a mystery until now. A team from the Research Center for Protein Diagnostics (PRODI) at Ruhr-Universität Bochum is developing a new approach that will render an AI's decision transparent and thus trustworthy."
-    publishedDateTime: 2022-09-02T17:53:00Z
-    webUrl: "https://techxplore.com/news/2022-09-artificial-intelligence-decisions.html"
-    ampWebUrl: "https://techxplore.com/news/2022-09-artificial-intelligence-decisions.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-artificial-intelligence-decisions.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 78
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/how-artificial-intelli-1.jpg"
-        width: 1607
-        height: 769
-        isCached: true
 
 secured: "dr85O+AaHZWnsYWmYxN51QLZepJiSm78BZheEFLSA18Y+VU89pAIurTUkUt5fNV5/AtNUSuzpe76rA3gIMNebaTss5kgrJWltSCm8mKW8H+MbytoTotgr5DD5eD7t8TwLXrUuG+iY1HsuhXEil0FjzYhXB5rL6OBFHJln04NwqTGmdXco91zeiM3zl2W01/bAF1BDSSfQ1/6yKXfY5G16OcGgFkkcMFDDbH48+svjgMtD0cmMgTJ5iT0uiPEYxT5zcR/WClBcM9oGsazwT44YtL8oUn3+CI3E+te89Ah4Z1y+g3Id/m5MAyZIKBNl8rxJktDiC7Zzlr9mFXGGChB+W2QDaCgYvxcN5CAvj7a2kG4Ur/LwreM57dKrRIYSdfXvYCdX8yTrHz3PQHHt2x5hcNU9XlfonF4uZoJ41gZ35qpTkCvWZvRu5Km93PUpN8wXk9feBXHTi0S5T+XzYXq1DlOF/+bMd7eZX4zRnYzjHLR3G9NDj52GjrfQ/CD1jdao66QBoE0QriYa0pSkIT5qw==;DaWWxjYZp01zO8Clyv9nmw=="
 ---
