@@ -53,6 +53,15 @@ related:
         width: 1600
         height: 1067
         isCached: true
+  - title: "Australian state contracts Unisys to deploy iris and face biometrics in prisons for $12.8M"
+    excerpt: "The new system will replace existing touch devices with multimodal contactless scanners able to capture and process iris and face biometrics simultaneously."
+    publishedDateTime: 2022-09-07T18:33:00Z
+    webUrl: "https://www.biometricupdate.com/202209/australian-state-contracts-unisys-to-deploy-iris-and-face-biometrics-in-prisons-for-12-8m"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 0
 
 secured: "sY+cw6MDSETSJn6vlKu0TiSgU8ZGOROsjWU73CYe0uEB2bY+hA1twgSmEy3DE1qIFGfTNBs2pFlBZrq9DemE5j3RFWNxXuyQno78uRDQcInrpnFRztetD5XswD6pZqfCJnQ7cwT8XP2DIMeICgeNmosYEhaHWOFdOWH/4b6U3WAh0do78ZXOQiTwiF6ML76vTlmTy6ub0KLFaZXqupu9Pti1ZVc18TU+lr/IVFbKPNquRnQR+2IUaBD980bhVesZKLXaUbc5ag+UUPuos7TlKXfwIFFDEDmSBiBsIfNhHGbq/Rur99ilZ2l5AcU80YpO7/6VvgeKr7FM9jN4qu0fWisinloEDEC6Siq6v8iWCbvz5q1SZLalPybV2rmMUClBRBwZXBJBo1Wi0o6CYgY1IW0ijvwEuuRZLZ4jlRHB4FOkk5yRp31JgwaREy45V9CH8KOLpGucrDJfSwyOAB2KTimOpzdVYL5qGfaLbXkrQFajHAUcXnQZJB6UnOvnUtFA7qiA+KnRHZQuDuL9ux8x3Q==;4M73tlFG+bZw0Pwmf2ocKA=="
 ---

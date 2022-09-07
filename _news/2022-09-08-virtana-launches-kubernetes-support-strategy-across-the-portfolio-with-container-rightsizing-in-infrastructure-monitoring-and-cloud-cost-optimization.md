@@ -28,6 +28,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 10
+  - title: "Virtana Launches Kubernetes Support Strategy"
+    excerpt: "Virtana, a leading provider of AI-driven solutions for hybrid cloud management and monitoring, announces a new"
+    publishedDateTime: 2022-09-07T20:00:00Z
+    webUrl: "https://www.datanami.com/this-just-in/virtana-launches-kubernetes-support-strategy/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 4
 
 secured: "KOy5tsOIp8QeV4253xkpJ7jBMHQzAgpk6Rph05pUFZxO0kYvLUTsZ3JUWTvOGrr184e1blU3rXc2XkA4z3sFot6VSOGcw9xFsjXBJbsg2lZQrCxjlFqQUQohAfaGbgFL+Uv+/RIhP1sJFdHKJmXL5OdUetN7q01s47bG7d6fDdBvDFd/KcIvZcbsORVtcEe9oURRSsv4ELQ5+klQMEWBD+Wf4iat2hUHUfmc13LOzeCWTfEdLzTJ2BXcRxAPjJwE1ZRee0c6r33vxW3rtz1zFk1lQ7taV2LthP4RdlniEfjcQ6qnr70L5GNyh1nr7M1W1QEXHjbXairI5CCgQblEyw3bwkyCY3GCQwjcCYQey8E=;0l948QJhaR8vpfWqXRGq/g=="
 ---

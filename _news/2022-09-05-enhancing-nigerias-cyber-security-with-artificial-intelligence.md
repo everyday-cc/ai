@@ -7,7 +7,7 @@ originalUrl: "https://www.vanguardngr.com/2022/09/enhancing-nigerias-cyber-secur
 webUrl: "https://www.vanguardngr.com/2022/09/enhancing-nigerias-cyber-security-with-artificial-intelligence/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 412
     height: 250
     isCached: true
+
+related:
+  - title: "The Future of Machine Learning in Cybersecurity"
+    excerpt: "Wang - Why has machine learning become so vital in cybersecurity? This article answers that and explores several challenges that are inherent when applying machine learning."
+    publishedDateTime: 2022-09-07T17:54:00Z
+    webUrl: "https://www.cio.com/article/406441/the-future-of-machine-learning-in-cybersecurity.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 19
 
 secured: "sr/oDrdPFjoi7xjPmizccQL0sOgl6sR892RsCXL75Vx084+poJFKFGs0H0Kr3QHImQ1uKz1L/gXUlvNQGv77JJQ2pEHzIcwS8twosuPw9GHJ2I1o7So8bRObUSP6xzRI11TkMVth/KnYKHKaViML4HG4s7le69KbVyfAUGJVcAKM6/cIvUWlzdTK38jmdIr4VY3a1M1c6ustICD705+sEuUeg3qYqmLvAG9Y4iGIU0KCVd56YwhqTJp1UBFNUfkoNjMNyRTvooQX7LUtLchWM1aAqheePTGP4nQP0FsvfDpK9C5x3B1/KVwvees8Ylp1I8F3bpR3jsshOC5OQCvalxPyKXho7QuEgoWNsNvNCa1/grOSz01nv0ppz7kX6JsRH0NyEGsSpKMrdqdblt6GbKeDNrMz0MdFweT9NryJHxQF8Y757pq0ma7TShe23T/VMZTpUnfBX35iEMnKBIoXn7GDnI9zgF8SQjPsgZSkwlpW7eQSQa7zszjfSKo5J5AUyCkaOOFa4QXtLZrZEl8aug==;oMkP2wsRmG68w6DlzIKKyg=="
 ---

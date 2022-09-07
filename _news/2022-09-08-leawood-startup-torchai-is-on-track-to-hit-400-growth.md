@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-07T18:20:00Z
 originalUrl: "https://www.bizjournals.com/kansascity/news/2022/09/07/torchai-is-on-track-to-hit-400-growth.html"
 webUrl: "https://www.bizjournals.com/kansascity/news/2022/09/07/torchai-is-on-track-to-hit-400-growth.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Business Journals

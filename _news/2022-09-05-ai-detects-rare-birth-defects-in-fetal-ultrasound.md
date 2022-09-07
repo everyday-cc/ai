@@ -18,8 +18,6 @@ provider:
 
 topics:
   - AI
-  - Computer Vision
-  - Machine Learning
 
 images:
   - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-09/pic27777.gif.jpg?itok=UL6r1b41"
@@ -27,6 +25,6 @@ images:
     height: 800
     isCached: true
 
-secured: "nhyEgVhaJBVQ0KDUEd+TdHUOs98cG/GYG1MFIdyViFuuaSCRd+J6CtHalhL/ziDkOEsHUajJWftvX0q6excpwJ+fqTLTwpGgujyvugV4HoLJXVQqTnev4X8/KM1od4BMUprYS5aOxhJzBaiRP5zYUcltdquHM3K0/Z5E3BclEDDTY7VNhxiI7AqK7DR2JhegoUYaT5NVB8kFLV8uCQrU+ZgSObDoeV/+qBSSx4o6N9ZO2t22ytd+qNL6D3AA072VXBmnVzcKWEs720YCIr7CUPWMbS/d29GYtvOoWmv0bUwJIL7iueYRJo5sZuNv6wBVzvMI1MwrB4VSJQR/6knHJhlCXymNVqvUtnbL2UzRAdBUqVFiSq8VKCdjOThfBkbEO4nYU7Zi+nQVL+GXY+3kG26WwMi4bcBaod+mSYN5M50lgySIfOY+OaSSyBj+M7CYvYKCbqkysA6I2Mw6tN23CJGlsre92hqaWz85En6DSSckwKyzNOhtVGIOYOFFVKmPs4dxXwNHX8q3EvtcxsO7+w==;h2/YSfUwO+Q2bvwuWcSawg=="
+secured: "HV/9xZxIVbPaCRj09ujG1pzBYD8EFePYNHw6Z4Gz/9j/vr+zCRT6TlRL7Pg7QSYJ9aVNOP3XEsWqJOGbvTaIsmywN/QsPO9va4/jV3g1p8GhsSTlJslrveYED7teCSZlFPZ+s6scN6c6ByLjnnNHHjSf3dpYcgGiXJI2oU7PjqYmxmjelZ7+VKtaL/OROzT1iPmwH5GVWbpLVpbzsJQkCKvL5H/ARHTO+Yd84OwtfGn687QlTrwEF7SjefeBIBC5pThGf9GFiQyivsi+WLaDZhYR2f/ZaYj2GTkS9DKSwlo5P2eysHEeziDcQMdU8oHTNu3WaD2XVkGL70h8gfBd//IUfpN8DrHQY0QSW7YY+WY=;a0khGHegpqzHqkpFtYSBYw=="
 ---
 

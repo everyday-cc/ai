@@ -37,6 +37,15 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 17
+  - title: "PNC Financial Services Group Inc. Sells 4,010 Shares of Splunk Inc. (NASDAQ:SPLK)"
+    excerpt: "PNC Financial Services Group Inc. trimmed its position in shares of Splunk Inc. (NASDAQ:SPLK – Get Rating) by 27.1% in the 1st quarter, according to its most recent disclosure with the Securities & Exchange Commission."
+    publishedDateTime: 2022-09-07T09:26:00Z
+    webUrl: "https://www.defenseworld.net/2022/09/07/pnc-financial-services-group-inc-sells-4010-shares-of-splunk-inc-nasdaqsplk.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 0
 
 secured: "W4SwTsZqSFQMvHF01wp6O1rYGRguPID83+hbmGwb/zpMjpri7fTxaiKJ3M1Xmfqi1n9MGtHZeLeoJ6DkS2h4dGBzyyJT4D+MGwvFX9rM2v3k82Y7qBl0Kwh+sFqFcKfkaAZTXwGkEwCko/W4FR2boxIFg2nxku40lU5HiVnsqFGe7KEznFgPPDGwGBeAN+yeMdQ32uaE/0mxcfsLAZqfQ/Ia/xgEeYGl3h6hGuaKBK+QxCn8j8dqk/BlM0eZT53VcGoRgESybh96hAs7DT5nids9WxbEHRrkcqOXZ4Y6nQSbitY5xjCbtdZcOU+EWBIIm31TLlRvAd+QUAFoZwt4JwPa4FY+jOPMjE2t/PbtlGmFnMMiXJ6lwzkkteu1yyEHLdSJh2linRfpIDnU8cW7nr76pN8rKEpnanKrYZkeI75xgLRnaKQBDc3ZXcXykCAJnM2jdvZhYWJ03nQ9LJKYL/H/4oz286PZS9o9vsMcfSnz2qtsBawkvSJRkjjACxcOOYOEbxK27p65pCxQF5YQwg==;LqCqgEJSybJx39ZrhksOXw=="
 ---

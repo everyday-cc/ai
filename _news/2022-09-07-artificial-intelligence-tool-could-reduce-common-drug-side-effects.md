@@ -1,20 +1,41 @@
 ---
 category: news
 title: "Artificial Intelligence tool could reduce common drug side effects"
-excerpt: "Research led by the University of Exeter and Kent and Medway NHS and Social Care Partnership Trust, published in Age and Ageing, assessed a new tool designed to calculate which medicines are more likely to experience adverse anticholinergic effects on the body and brain."
-publishedDateTime: 2022-09-07T07:43:00Z
-originalUrl: "https://medicalxpress.com/news/2022-09-artificial-intelligence-tool-common-drug.html"
-webUrl: "https://medicalxpress.com/news/2022-09-artificial-intelligence-tool-common-drug.html"
+excerpt: "Artificial intelligence could help clinicians assess which patients are likely to encounter the harmful side effects of some commonly used antidepressants, antihistamines and bladder medicines."
+publishedDateTime: 2022-09-07T07:12:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/963877"
+webUrl: "https://www.eurekalert.org/news-releases/963877"
 type: article
+quality: 19
+heat: -1
+published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI in Autos
   - AI
 
-secured: "6N0l8ohGTt/1HIczJlbkqbJCPDM1ZZL05VQhnUOOHYtyMb7xkldn3fF6Lv2pI+Ivr+6VOK25Rl8O6O+Il6EyChDdsyBTFisltP/9KX21UUXTCIDo+LJSTFD4LP6Z/y1GLRStdwJkrhA6MVSZTbrl8c5X/bQNAKTdu9dCSR7KK2dknvuYW/ZkVWcWxqfkjIFew5Y92f8UOh1LP3nZRhJMGVbBC8vYvqBPSrCuCdHBK9T+WjGV98MRtX8Q9cKmYkNlq5DWOHgoVbDC42U8DwRkoG5ADMDc4TOyXuoaLIUGQA/toyQAlwSnRHInqseNoJeZ5SYwnWRq6cyf+1E48Ojh/63bpO1At4OFZ4ztX5yjRLg=;IOSTKLM/phdjinvNHbBKZg=="
+related:
+  - title: "The EU’s AI Act could have a chilling effect on open source efforts, experts warn"
+    excerpt: "As written, the European Union's AI Act, which seeks to regulate certain types of AI systems, could impose onerous requirements on open source developers, some experts believe."
+    publishedDateTime: 2022-09-06T14:54:00Z
+    webUrl: "https://techcrunch.com/2022/09/06/the-eus-ai-act-could-have-a-chilling-effect-on-open-source-efforts-experts-warn/"
+    ampWebUrl: "https://techcrunch.com/2022/09/06/the-eus-ai-act-could-have-a-chilling-effect-on-open-source-efforts-experts-warn/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/06/the-eus-ai-act-could-have-a-chilling-effect-on-open-source-efforts-experts-warn/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 82
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png"
+        width: 2000
+        height: 2000
+        isCached: true
+
+secured: "NTBE3po9TF8YGmUo0h2IpwzNs1LEZkGrkUqh0TuqLWSLrxuBebvhzzPwXc8eo0lY7i1+T42YN/PUxTNckGDIe9HR/sbA4BLADa/MuuM/g0/MFUeJCPf6XSust94FQAPf2bBAR0RPwObwVvhGq1nuaUeyN4YBMeIXHkYJxjB5pQDnl7uRSKqYcVNIpQ4Qr/OAC8SgtnFpnb4hoGrs3o0Qj0JVVaALDzAAfNaB9lwWhOi7QeQrDqrluGMxkGTGC9+QGPVrYfXfFFcd/U9C1yjAL95z22zhIFBhKkhd+MvsqnGNeAhPOBdKWP+7ZU8afGiGBwgalUu/RY6jusHKKTZlP/+0iV6TNqj8Q+HLezZJpSs=;FNZN4dMk7XNiHWWF0jTQqQ=="
 ---
 

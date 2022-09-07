@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-07T18:07:00Z
 originalUrl: "https://venturebeat.com/ai/ai-driven-voice-commands-future-smart-home/"
 webUrl: "https://venturebeat.com/ai/ai-driven-voice-commands-future-smart-home/"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: VentureBeat

@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Duke receives $12 million federal grant to develop artificial intelligence tools for detecting autism"
-    excerpt: "The Duke Center for Autism and Brain Development has been awarded a $12 million federal grant to develop artificial intelligence tools for detecting autism during infancy and identifying brain-based biomarkers of autism."
-    publishedDateTime: 2022-09-07T16:10:00Z
-    webUrl: "https://www.news-medical.net/news/20220907/Duke-receives-2412-million-federal-grant-to-develop-artificial-intelligence-tools-for-detecting-autism.aspx"
+  - title: "Spice AI raises $13.5M to speed up blockchain application development"
+    excerpt: "Seattle-based Spice AI offers a cloud platform that promises to simplify the task of building blockchain applications. Additionally, the platform enables developers to equip their software with artificial intelligence features."
+    publishedDateTime: 2022-09-07T19:30:00Z
+    webUrl: "https://siliconangle.com/2022/09/07/spice-ai-raises-13-5m-speed-blockchain-application-development/"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 22
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/spice-ai.png"
+        width: 718
+        height: 400
         isCached: true
 
 secured: "yQc+wRN3PnoZr29o3E3aYInPmsJNZHAn4n7c4KPe4XtACkO7RSL5+hi1n80EBIQgIFqmuS+tSKBvxdH2pHgYDyT1EXMgzrVwcYJKjtJ0ipTI2BYB3j9+ToPlkZccR0rDsFXhu9o2+zpxS7FQebIhzRHKdah6zoAbAQnJxSgy2T89e2/Ik8oQZcpc+ofX5wplTKfbyB6OFrQ5jhIKamEqGmm0zGFf8hUofvHyN2ZIOGyecdv7cIo5lQ6LOLCreDfoBQmsYrRCjVKBiXqEBkDaMJPkj+ZYnFc/7YNEbCIO6A4T7oOJHORNAeMcTWoJ0YRbmhLRjulSRKcXp1w5Vkmx+0EG/fCrUk5KyKJFrfhaS/U=;5z/fv8E1pxJv2iLoSagrSg=="

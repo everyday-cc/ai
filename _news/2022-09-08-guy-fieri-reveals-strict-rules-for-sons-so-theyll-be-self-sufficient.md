@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-07T19:41:00Z
 originalUrl: "https://nypost.com/2022/09/07/guy-fieri-reveals-strict-rules-for-sons-to-be-self-sufficient/"
 webUrl: "https://nypost.com/2022/09/07/guy-fieri-reveals-strict-rules-for-sons-to-be-self-sufficient/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: New York Post

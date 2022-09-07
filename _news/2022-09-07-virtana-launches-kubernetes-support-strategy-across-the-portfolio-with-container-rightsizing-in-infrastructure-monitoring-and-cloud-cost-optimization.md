@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "Virtana Launches Kubernetes Support Strategy"
+    excerpt: "Virtana, a leading provider of AI-driven solutions for hybrid cloud management and monitoring, announces a new"
+    publishedDateTime: 2022-09-07T20:00:00Z
+    webUrl: "https://www.datanami.com/this-just-in/virtana-launches-kubernetes-support-strategy/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 4
   - title: "Virtana Launches Kubernetes Support Strategy Across the Portfolio with Container Rightsizing in Infrastructure Monitoring and Cloud Cost Optimization"
     excerpt: "Virtana, a leading provider of AI-driven solutions for hybrid cloud management and monitoring, announces a new Kubernetes strategy that will deliver container support across the full portfolio of Virtana Platform solutions."
     publishedDateTime: 2022-09-07T17:14:00Z

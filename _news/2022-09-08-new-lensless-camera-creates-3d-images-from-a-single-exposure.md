@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-07T19:50:00Z
 originalUrl: "https://phys.org/news/2022-09-lensless-camera-3d-images-exposure.html"
 webUrl: "https://phys.org/news/2022-09-lensless-camera-3d-images-exposure.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Phys.org

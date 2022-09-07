@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-07T18:32:00Z
 originalUrl: "https://www.nextplatform.com/2022/09/07/ibm-power10-shreds-ice-lake-xeons-for-transaction-processing/"
 webUrl: "https://www.nextplatform.com/2022/09/07/ibm-power10-shreds-ice-lake-xeons-for-transaction-processing/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Next Platform

@@ -3,8 +3,8 @@ category: news
 title: "An architect asked AI to design skyscrapers of the future. This is what it proposed"
 excerpt: "Manas Bhatia has a bold vision of the future -- one where residential skyscrapers covered in trees, plants and algae act as \"air purification towers.\" In a series of detailed images, the New Delhi-based architect and computational designer has brought the idea to life."
 publishedDateTime: 2022-09-06T09:20:00Z
-originalUrl: "https://www.cnn.com/style/article/ai-architecture-manas-bhatia/index.html"
-webUrl: "https://www.cnn.com/style/article/ai-architecture-manas-bhatia/index.html"
+originalUrl: "https://edition.cnn.com/style/article/ai-architecture-manas-bhatia/index.html"
+webUrl: "https://edition.cnn.com/style/article/ai-architecture-manas-bhatia/index.html"
 ampWebUrl: "https://www.cnn.com/style/amp/ai-architecture-manas-bhatia/index.html"
 cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ai-architecture-manas-bhatia/index.html"
 type: article
@@ -45,6 +45,6 @@ related:
         height: 826
         isCached: true
 
-secured: "SK2GkVYL5RwNaFHpWtJB/IPzTevaYVEag9GYBi0UGKP/siRDO1j4DNwukrlx4rGkca5qPjbvuJrClYjkb/fkOGpz4UdMLQ3JmDzLGzL1gzzhbraROw3W3DYETq9SP0qzpjakYf2HtUh4gKtl+XpAt4+DXhkE7c/FESUROYirMO/N/6UBLhtqXL9gebEvddRtg/oLVrTve2lKBhublMMVoElh9JY9Efx08RATi+KrFkscSRxJpYTOoEJEg6TKVOsbKxE7b4+qAki50aQlpmPhXOuDjtR/8QPunLnqKHusn9lS7T3DkwrFcVDJ2HhwSmBAGdihOqJwJMWeGIGYd5jEif/pmWRR4k2lvWlnPcA/2FkcSqpe4iOpmfSbTJtri9eV8AicLbLe1/2qbV5Gu1BY8iyBcQKDXroc6Nd8MWjtJpKIFo/snS4RJY5BwDPVnRJj4yDqZrkQID4r/lSKZl2DI4aN3pTxrGaUiWE9jMYdOHMCMGi6hIc+iebRcR856G54Ts5+qYqvRcYGVxYus9JGLA==;yvlzSDyfHHb9ie4H/Ta07A=="
+secured: "dYuyodB4FNXNr0otZc7BoZFn5Wd8OHyKBlNhFPO/b6c/wBNx7NP3lQ2LJ+KKT+sVreKBb2ztBfYpNToaYtLGsogBJnStnq6OSmEkSNyUGisnJm1do+ZyEOJDFhII2cg9WdsB2gnatFqw6omknzfamvZ52G/iMLzdEI4MGo4KiEO373jiA+rhuy5Set4nCVzyC8NfDu/eMghRL0CAAhDA9INGvLAg07VV9OuY3URwrsR65CjiTQ2fc+dCbncOhN/CA25OAq7LgzzV/T2orjFYSyY5a5pTos66yLNMd2AJOT9GpceFDmyC6QFBwh2HOEu1Gtv9wUkqqK/DoPKyuKvBUd0ABb7oGnlMEnTpVqH5adY=;4jCIRTuLNQW8Yo67d2d59A=="
 ---
 
