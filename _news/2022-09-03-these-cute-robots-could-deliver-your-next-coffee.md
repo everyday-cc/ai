@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnn.com/travel/amp/rice-robotics-hong-kong-hospitality-h
 cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/travel/amp/rice-robotics-hong-kong-hospitality-hnk-spc-intl/index.html"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "These cute robots could deliver your next coffee"
-    excerpt: "Earlier this year, Rice even made its TV debut on Cantonese drama series Communion, delivering coffee to a cast member. Rice is part of a new generation of smart robots, capable of navigating complex and busy environments,"
-    publishedDateTime: 2022-09-02T13:33:00Z
-    webUrl: "https://rivercountry.newschannelnebraska.com/story/47213963/these-cute-robots-could-deliver-your-next-coffee"
-    type: article
-    provider:
-      name: News Channel Nebraska
-      domain: newschannelnebraska.com
-    quality: 39
-    images:
-      - url: "https://CNNWIRE.images.worldnow.com/images/23270316_G.jpg?lastEditedDate=1662118389000"
-        width: 500
-        height: 262
-        isCached: true
 
 secured: "5QdAMD3QsDompt91M2qLvJ+qLPemkrHrlpHFeiRA9uBPNBIbmveUOoLEeO7uMzKajpcmPMi6BYUCZe/vIEQsEECi6c4fbiA/06ErxAQnJ8Yx3GB9XaR0VWcrdjaygnYcQvZG8yngDIBSH+PdPB2GCPftpTAwgBzoCIOJcQtcceUztiso0Au3nWojsKrw7cq+6mPUII73vJE3oXra9zafBDYEyKvhnMUKDCgDdHOcVuudIBdDcb7epqTGJ4zjtmQ/NIEtk91zWtGT0JkXD0ImKpvY6SVY1RloTYoHxqNy41pqnsHAkPV/8+4EEnJXDv7G4PCYi1e4Do6Kn0ACrFPdvAV9wN9Zmb9w5qqolH+pjHCtnJUFa4q4C47f+iY7iTTzAkwPeaxZFEdx2en96phUsii4zvgI445i68I/hCLEwbqSeZyFoYOHhfCBCbIs/Gjv3a6nfABZvkimTfQk5FL610o84cM+tbNGZMmhWMZBDG+OnVpU3kAbe8PNk/SjoNmdVNeLB5S26FWQ13qpQbFWlA==;ubeKV8Qnrhe7mSGerNHM2A=="
 ---

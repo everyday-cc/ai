@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ubtech-announces-g
 webUrl: "https://markets.businessinsider.com/news/stocks/ubtech-announces-global-debut-of-intelligent-healthcare-robots-and-solutions-1031722479"
 type: article
 quality: 66
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -51,6 +51,15 @@ related:
     provider:
       name: India Times
       domain: indiatimes.com
+    quality: 0
+  - title: "Prime Healthcare and Steer Health Announce Strategic Partnership to Improve Patient Outcomes and Access to Care"
+    excerpt: "Investments in digital tools and innovative communication solutions provide an improved patient experience. Prime Healthcare, an award-winning national health system, and Steer He"
+    publishedDateTime: 2022-09-06T15:00:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-6-prime-healthcare-and-steer-health-announce-strategic-partnership-to-improve-patient-outcomes-and-access-to-care"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
     quality: 0
 
 secured: "EOVHGPkg/lZsb3TL/XJ0VYoYltfx3IZmglQVRPEcn8X56IGoChr8EOsEC5Z6NWfSO4BmWJL/OeVTeCEm0bSxZ8kLGNr1dQHla792Bzc3M3R7sV160UxBOG6UXOSSeB/KxdXg8RkgMpgE7lBOy6RFuvAVDvafq6zug02D/cwCJ8szOBSUVxlHmxhrWReYJBm6vnyp0rgXLKK0G5HE/qTO/FPAeoGviNkOe+CJJkMxlFTRdsAp6ytlRPZQJNQU1xzwZ4uxQCYdDqD+WtpY7xvVOeRuDSJmsckmU0bLus1keYGWMtUlV/BlgXkStx+5vrHAIhkRRGoeW0EL7DpxWArszVDKhJtwL84vYFfUE9FiAi4=;Iefe3/QR+IkauMB0C0bVBg=="

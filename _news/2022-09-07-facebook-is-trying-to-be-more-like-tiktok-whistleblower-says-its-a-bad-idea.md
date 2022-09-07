@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-is-trying-to-be-more-l
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-is-trying-to-be-more-like-tiktok-whistleblower-says-its-a-bad-idea/"
 type: article
 quality: 70
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Whistleblower Criticizes Facebook for copying TikTok"
+    excerpt: "She Criticizes Facebook for copying TikTok and reveals why the social media giant should not do this. While showing unhappiness over it"
+    publishedDateTime: 2022-09-07T07:17:00Z
+    webUrl: "https://www.phoneworld.com.pk/whistleblower-criticizes-facebook-for-copying-tiktok/"
+    type: article
+    provider:
+      name: phoneworld.com.pk
+      domain: phoneworld.com.pk
+    quality: 24
+    images:
+      - url: "https://www.phoneworld.com.pk/wp-content/uploads/2022/09/1200x-1.jpg"
+        width: 1200
+        height: 799
+        isCached: true
 
 secured: "F2xYJM6xN6eQuvLrTAVmNvs8p7SyzpHxicM7Ef1FJnfwG7TL2M97YLLw9SUQJJVidCd/vuTP2Q7RuumYkKkObJIxcavHerQk448wNm1KTVExb2mMv4OLaE283ylhI42TncRKQdmgvkzpyfYFAhlHJRSEq0SvQ6GsQDQxgB+fnt4kDvJIDETkBv+RW/PK240GEkNMlY/wB2j6cEcgEiFIqGNfbmUWmK2Cgpcz0sq+miHOuAkKgj4iK/iYnHIkkKRAB3HNd9V/ieA4TgljBBrMLGzh1hfaC8YEUl3m964rw7MaC/Xw5DcPbe4KOynIV0jCnT5PkQPqNDPZISkX0XpBRrT1d8LMI/HNmakNJxHBvegjlyItd1rji+tZ7rV4KzgV4O6kz4zQDmBPT4q4S/ve4r9zL9MGxoJqovW8MVvl1C5U4iDJeoXYlPYVLCKZJMV+k5NxweyLDxFOWSSn21pAesofuZ5qnM47kBWGRKdPGPKSpn3Ow0e9MgeGTshCkRngzdA8vKSZE4ZweBLQHXvzxw==;fGQizOgkwbnE/pb92Tru4g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.huffpost.com/entry/colorado-state-fair-ai-art_n_63106fc4
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/colorado-state-fair-ai-art_n_63106fc4e4b063d5e621ef1a/amp"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Will artificial intelligence replace artists after winning a competition?"
-    excerpt: "Allen told the Pueblo Chieftain in an interview, \"I wanted to make a statement with artificial intelligence art. I think I did that, and I'm not going to feel bad about it.\" Allen sent in three pieces he made with Midjourney after trying out different phrases,"
-    publishedDateTime: 2022-09-02T14:46:00Z
-    webUrl: "https://www.artmajeur.com/en/magazine/2-art-news/will-artificial-intelligence-replace-artists-after-winning-a-competition/332026"
-    type: article
-    provider:
-      name: Artmajeur
-      domain: artmajeur.com
-    quality: 36
-    images:
-      - url: "https://www.artmajeur.com/medias/hd/s/e/selena-mattei/blog/302768718-471040697999512-6820767108283761749-n.jpg"
-        width: 1000
-        height: 623
-        isCached: true
   - title: "Human uses AI to win art competition—other humans angry"
     excerpt: "Jason Allen lives in Colorado, and last week lit the fuse on a debate that's going to run and run: he used AI software to create art, submitted it to the Colorado State Fair fine arts competition, and took first prize."
     publishedDateTime: 2022-09-02T17:32:00Z

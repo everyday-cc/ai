@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-06T18:56:00Z
 originalUrl: "https://www.automation.com/en-us/products/september-2022/cogniteam-robotics-ai-nvidia-jetson-agx-orin-edge"
 webUrl: "https://www.automation.com/en-us/products/september-2022/cogniteam-robotics-ai-nvidia-jetson-agx-orin-edge"
 type: article
-quality: 36
-heat: -1
+quality: 56
+heat: 66
 published: false
 
 provider:
@@ -19,6 +19,12 @@ topics:
   - AI
   - AI in Robotics
 
+images:
+  - url: "https://www.automation.com/getmedia/e21fef4f-e8e5-4d6b-9642-444659181d91/Cogniteam-prod-Sept-6-2022-web.png?width=500&height=313&ext=.png"
+    width: 500
+    height: 313
+    isCached: true
+
 related:
   - title: "Cogniteam Integrates Robotics AI Capabilities with NVIDIA Jetson AGX Orin Edge Platform"
     excerpt: "Cogniteam, a robotics company and creator of the Nimbus low-code robot development operating system, has integrated the  NVIDIA Jetson AGX Orin platform into its  robot software packets. A preferred member of the NVIDIA Partner Network,"
@@ -29,21 +35,7 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 43
-  - title: "MOV.AI and Lanner Electronics partner on integrated platform powered by NVIDIA Isaac ROS"
-    excerpt: "Platform aims to simplify and accelerate robotics development and improve operational efficiency in warehousing and other industrial environments"
-    publishedDateTime: 2022-09-06T17:51:00Z
-    webUrl: "https://www.logisticsmgmt.com/article/mov.ai_and_lanner_electronics_partner_on_integrated_platform_powered_by_nvi"
-    type: article
-    provider:
-      name: Logistics Management
-      domain: logisticsmgmt.com
-    quality: 28
-    images:
-      - url: "https://www.mmh.com/images/2022_article/Lanner_Mov_AI_sm.jpg"
-        width: 682
-        height: 384
-        isCached: true
 
-secured: "+Ut9ZpGwxfrg7+KY0wqKSuT4n+IL2ZAhtB9yj+hCDhEXHaK2EOQmDEVcr3WGgfOEq6gkxObnXf/PX5/ny9B2sX1WFeVk9QY8M0+pJz56Z1usSjkCzllVGGwuWbsywSlFKcGskeDn1oCoV5bx94SfLyO3s/7pP6q59d9gOStLebj1E9a5HCcom65ycA9z2RmYaDQNUfj31lJUk4azl+NHLEdrq28vRPpRScwnx6D8u7wg7OunNA9BCXxAkCxXcNFRrjTFnCcWnqCVtMcw75oHrsi4TfvbqgaC5Dg+R58qyFuNxmQgOozL4nXM+SAAVAdVo52/J3Ai2n/M/NeoXKf900CsMdP0NmXUm2Xo35oclQw=;1Ikn4dmm1cbnCXdmgWXITw=="
+secured: "FdXVbMVxNueC/KnJgheiIfOOzn6MkpAoAF/b+UBKOiW1SomIWeD+86aPBnpJgWaawq4mKh36CSC7X21TVVEptaQg1LBsbSLMYjag4VAnJQ0hLXp5bnUGwqD6o1HWqdPfMTiV4gL3aReRtFNvt3w0AiEz3bDycOKlMRPJ1CuqSgVLYWEM4kdWoawYSIF8fS4LOYGUsFAXidwnaEtfxrX7iMlKrC/uEuQ62U/vyBHA3g+M37y+URmyQKubFL/r64HUXzYRXEt+cwbkGjD1Vz0Tc88VSsYrzd1lVaOm8+b1lPu5V4qXWh+q7bf3aYFiPw7OTfG/JYI0P3a33EGUp61kwUWZGnOgdHMZFFL8V3ISPh0=;MQM5xq65mmSRznzGV4x0jA=="
 ---
 

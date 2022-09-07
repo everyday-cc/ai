@@ -3,8 +3,8 @@ category: news
 title: "An architect asked AI to design skyscrapers of the future. This is what it proposed"
 excerpt: "Manas Bhatia has a bold vision of the future -- one where residential skyscrapers covered in trees, plants and algae act as \"air purification towers.\" In a series of detailed images, the New Delhi-based architect and computational designer has brought the idea to life."
 publishedDateTime: 2022-09-06T09:20:00Z
-originalUrl: "https://edition.cnn.com/style/article/ai-architecture-manas-bhatia/index.html"
-webUrl: "https://edition.cnn.com/style/article/ai-architecture-manas-bhatia/index.html"
+originalUrl: "https://www.cnn.com/style/article/ai-architecture-manas-bhatia/index.html"
+webUrl: "https://www.cnn.com/style/article/ai-architecture-manas-bhatia/index.html"
 ampWebUrl: "https://www.cnn.com/style/amp/ai-architecture-manas-bhatia/index.html"
 cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ai-architecture-manas-bhatia/index.html"
 type: article
@@ -45,6 +45,6 @@ related:
         height: 826
         isCached: true
 
-secured: "nXcSX2/2ojL8Jn5+tk85umP59BhaGjA4AY81HO2DQpertcAs68a4M1q3NuUtQtGIkTHvNEF11Cf9YJYpCSFmtNe0JQtx/D0/N47BVccLadx1OC/aAQ8yY3RCp0s56FrtuoQs/Jg3Z5cTud2VNBfL2ZBvHv6+mQAdZD1i7+y4sto9CB0+s1Cqm13V0cGUlLgONEEftfDvhgkpSEjELvrIBm4AxswACDbx146RpyUnb8Vfd+2zka7MQEqm0R6Nrf8JdhFhqBH3/UAPpE6rG4+9TO/ub52os9lOPS2HRfQfRff9YcyVSchVXd009jMAlC1+grDxwpElCHJclw6JI5zWzbsSXdPplt4Wqm1fwiGnz/sCDR6dG8eDhVMwDd5ry0QRiXNErImonL9j9odFgrkwwE7Uy282ub6JqXtzBjzCtkpsadMsak7X9Gn4QU5+qPVWL9uGMmJ0getr6CkwUwBrrDl/9EXIyxQWkZYY/POlEhz7AomlD66Gl4BUGduA5V4XstFLyV/PPAdQ1B2YnonUcQ==;ObzWeHw38wDASL9BRXgF3Q=="
+secured: "MvtR7I/MJd4qiqgHZXD4prjUdzANJYtsdKcVaM3urBriJjExPZFILafG9Gbpk3hM/cxusmDbNcxHZbCkqz5e6cUW1/1gjvUv9LYLocE9AIOaqnoorjOoagWEJdcyaAPYllObUp3K5pIir8HA+92Vzphk+3r/69SSrEPhAMTrDm6Y/7glx4v1gdmqzilsMUHnNZbFXW861sPJh7Ri5cus/tuYCcoQhmLDpnnfx/GEaSAvn8AyGbo/qmXmJuwzmDIWOH2NQvc3n/eZGChVL79WDeWpEYpG+mHN01htD63IIegIskkJ8J1UJpf8ruTCRyGkU8/1pCu3vr8ta5LXlU8mnbcZdi4cZxd+z3HMX8SUqls=;QqSV09PP4BFNIabywsHP8w=="
 ---
 

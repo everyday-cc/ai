@@ -41,22 +41,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Meta's AI chatbot hates Mark Zuckerberg, but why is it less bothered about racism?"
-    excerpt: "It was all quite predictable, really. Meta, Facebook's parent company, released the latest version of its groundbreaking AI chatbot in August 2022. Immediately, journalists around the world began peppering the system,"
-    publishedDateTime: 2022-09-02T14:53:00Z
-    webUrl: "https://techxplore.com/news/2022-09-meta-ai-chatbot-zuckerberg-bothered.html"
-    ampWebUrl: "https://techxplore.com/news/2022-09-meta-ai-chatbot-zuckerberg-bothered.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-meta-ai-chatbot-zuckerberg-bothered.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 53
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/metas-ai-chatbot-hates-1.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Meta's AI chatbot hates Zuckerberg but is less bothered about racism"
     excerpt: "It was all quite predictable, really. Meta, Facebook's parent company, released the latest version of its ground-breaking AI chatbot last month. Immediately, journalists around the world began peppering the system,"
     publishedDateTime: 2022-09-04T21:00:00Z
