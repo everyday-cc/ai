@@ -45,21 +45,21 @@
       ]
     },
     {
-      "path": "_news/2022-09-02-why-deepmind-is-sending-ai-humanoids-to-soccer-camp.md",
-      "title": "Why DeepMind Is Sending AI Humanoids to Soccer Camp",
-      "excerpt": "DeepMind’s attempt to teach an AI to play soccer started with a virtual player writhing around on the floor—so it nailed at least one aspect of the game right from kickoff. But pinning down the mechanics of the beautiful game—from basics like running and kicking to higher-order concepts like teamwork and tackling—proved a lot more challenging,",
+      "path": "_news/2022-09-05-deepmind-is-back-at-it-again-this-time-teaching-ai-how-to-play-football.md",
+      "title": "DeepMind is back at it again, this time teaching AI how to play football",
+      "excerpt": "We’re taking a look into DeepMind’s latest venture; teaching an AI how to play the beautiful game. Which shouldn’t be harder than",
       "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-camp/",
-      "originalUrl": "https://www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-camp/",
+      "webUrl": "https://stuff.co.za/2022/09/05/deepmind-is-back-at-it-again-this-time-teaching-ai-how-to-play-football/",
+      "originalUrl": "https://stuff.co.za/2022/09/05/deepmind-is-back-at-it-again-this-time-teaching-ai-how-to-play-football/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 83,
       "tags": null,
       "images": [
         {
-          "url": "https://media.wired.com/photos/631134163dfe1372fb611162/master/pass/soccer_HZ_science_GettyImages-520264154.jpg",
-          "width": 2400,
-          "height": 1799,
+          "url": "https://stuff.co.za/wp-content/uploads/2022/09/Untitled-design-3-1.jpg",
+          "width": 1600,
+          "height": 1000,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -67,23 +67,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-camp/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-camp/amp",
-      "publishedDateTime": "2022-09-02T04:00:00-07:00",
+      "ampWebUrl": "https://stuff.co.za/2022/09/05/deepmind-is-back-at-it-again-this-time-teaching-ai-how-to-play-football/?amp=1",
+      "cdnAmpWebUrl": "https://stuff-co-za.cdn.ampproject.org/c/s/stuff.co.za/2022/09/05/deepmind-is-back-at-it-again-this-time-teaching-ai-how-to-play-football/?amp=1",
+      "publishedDateTime": "2022-09-05T06:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "stuff.co.za",
+        "domain": "stuff.co.za",
+        "images": null,
         "publishers": null,
         "authors": null
       },

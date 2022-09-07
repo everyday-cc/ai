@@ -3,8 +3,8 @@ category: news
 title: "Lost in translation: Investigation finds Facebook, Google fail to show help in Arabic search for suicide"
 excerpt: "A bold investigation probes into the flawed algorithms that fail to reach out with help when suicide is searched on their platforms."
 publishedDateTime: 2022-09-06T18:06:00Z
-originalUrl: "https://english.ahram.org.eg/News/475464.aspx"
-webUrl: "https://english.ahram.org.eg/News/475464.aspx"
+originalUrl: "https://english.ahram.org.eg/NewsContent/7/48/475464/Life--Style/Health/Lost-in-translation-Investigation-finds-Facebook,-.aspx"
+webUrl: "https://english.ahram.org.eg/NewsContent/7/48/475464/Life--Style/Health/Lost-in-translation-Investigation-finds-Facebook,-.aspx"
 type: article
 quality: 22
 heat: -1
@@ -15,7 +15,7 @@ provider:
   domain: ahram.org.eg
 
 topics:
-  - Facebook AI
+  - Natural Language Processing
   - AI
 
 images:
@@ -40,6 +40,6 @@ related:
         height: 900
         isCached: true
 
-secured: "IjNU62y9o8s6U5fs0M160SI+MhsTWK8hofafVNnhf9aNtUqr+GTgQhYrWpCDjngKbUXSaU64aubZmbfk5DfBAKN8pVailihXH0jj3zDSoaTMd2As3vdOGv97s6CLfEVjXEmbdrFIsxrcW/4ge2U/TmFEnpmTNI8XiA9MbX2LD6mX32FaILVhl9UFmihfblJ6Vs+/UP+hyHn4Mu0+2TGucJ6/Q9lsaK1RqIoFrklKxa+jcK1FHcrBmr1IrcYI/XNiPP8gtzifh19dyKKNrkqk3im5nBqVq/CYFvGeF+cwRqdYL3AVc+S//ROHtZqtsmLhlf7YNZF+JBnQoptApg/bRzEwrOQOcQu6GY/i1zNRdEw=;kJC8HYf0M6UpI+1MFoRU+g=="
+secured: "1rbA5me35uaSmqPi25bl+Tvtno9kq6d2+5u/iNvlMc2JFLPUaWS9XyrLqTbEFH7fK3bebUEsd5CFPiqAn7nBDDyF3GZtmlmEYf4iPEXeewA3AKkiTCx9YCUnoHeSE6za3OeCU2WzaEt6XQKjfyVyEvtx+iDMALZ4Ul0WjaR/dXcqV7VNblCu6Bt9ciG4LjBPjccgfhK6muAhnPBq4Dgko23Y0apRvRi2mvvk0cMLRjOWWBcTy4EJEWIakpOEeWMvqkr51W24pUE664eWnUnEePJghYk09SU6GSAFAlnpyHVu1qInHJ9I6iiX32VRxZ5T7UjUSQaBPHeWe25I+bZWoAfGmTplY0mCxq/gCoa/Bf8=;iVls+1ny53GTa0Fs7rCFaw=="
 ---
 

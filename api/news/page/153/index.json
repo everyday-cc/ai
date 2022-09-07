@@ -2,21 +2,64 @@
   "page": 153,
   "value": [
     {
-      "path": "_news/2022-02-02-backplane-systems-technology-presents-neousyss-nuvo-8108gc-qd-industrial-grade-edge-ai-platform-supporting-nvidia-rtx-a6000-a4500-gpu.md",
-      "title": "Backplane Systems Technology Presents Neousys’s Nuvo-8108GC-QD Industrial-grade Edge AI Platform Supporting NVIDIA® RTX A6000/ A4500 GPU",
-      "excerpt": "Backplane Systems Technology is proud to present Neousys’s Nuvo-8108GC-QD, which is an edge AI GPU computing platform supporting an NVIDIA® RTX A6000 or RTX A4500 Ampere GPU cards, and Intel® Xeon® E or 9th/ 8th-Gen Core™ (up to 8-core/ 16-thread ...",
+      "path": "_news/2022-05-11-its-never-too-early-to-get-your-ai-ethics-right.md",
+      "title": "It’s never too early to get your AI ethics right",
+      "excerpt": "The Ethical AI Governance Group wants to give startups a framework for avoiding scandals and blunders while deploying new technology.",
       "sourceUrl": null,
-      "webUrl": "https://www.ferret.com.au/industrial-computers-and-software/backplane-systems-technology-presents-neousyss-nuvo-8108gc-qd-industrial-grade-edge-ai-platform-supporting-nvidia-rtx-a6000-a4500-gpu/",
-      "originalUrl": "https://www.ferret.com.au/industrial-computers-and-software/backplane-systems-technology-presents-neousyss-nuvo-8108gc-qd-industrial-grade-edge-ai-platform-supporting-nvidia-rtx-a6000-a4500-gpu/",
+      "webUrl": "https://www.protocol.com/ai-ethics-startups",
+      "originalUrl": "https://www.protocol.com/ai-ethics-startups",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.protocol.com/media-library/less-than-p-greater-than-coinbase-shares-fell-sharply-after-the-company-reported-weaker-than-expected-results-less-than-p-greater-than.png?id=29412744&width=400&coordinates=0%2C186%2C0%2C187&height=711.4285714285714&quality=80",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.protocol.com/amp/ai-ethics-startups-2657296846",
+      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/ai-ethics-startups-2657296846",
+      "publishedDateTime": "2022-05-10T15:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Protocol",
+        "domain": "protocol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-brainchip-launches-ai-enablement-program.md",
+      "title": "BrainChip Launches AI Enablement Program",
+      "excerpt": "The AI Enablement Program delivers working prototypes that demonstrate on-chip, in device AI inference and learning. AI/ML projects can be complex, requiring expertise, financial commitment, and time. With the launch of the AI Enablement Program ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/accesswire/business-brainchip-holdings-ltd-5d48f8dd80fedc611d6537aaee4dd2fe",
+      "originalUrl": "https://apnews.com/press-release/accesswire/business-brainchip-holdings-ltd-5d48f8dd80fedc611d6537aaee4dd2fe",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.ferret.com.au/wp-content/uploads/2022/02/PR-Image-Nuvo-8108GC-QD.jpg",
-          "width": 1500,
-          "height": 1200,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +69,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-01T18:10:00-08:00",
+      "publishedDateTime": "2022-05-10T14:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Ferret Australia's Manufacturing Industrial and Mining Directory",
-        "domain": "ferret.com.au",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -45,21 +88,21 @@
       ]
     },
     {
-      "path": "_news/2022-02-02-global-natural-language-processing-nlp-in-healthcare-market-2022-worldwide-survey-opportunities-forthcoming-developments-and-forecast-to.md",
-      "title": "Global Natural Language Processing (NLP) in Healthcare Market 2022 Worldwide Survey, Opportunities, Forthcoming Developments, and Forecast to 2028",
-      "excerpt": "Feb 02, 2022 (CDN Newswire via Comtex) -- Global Natural Language Processing (NLP) in Healthcare Market 2022 by Company, Regions, Type and Application, Forecast to 2028 recently presented by ...",
+      "path": "_news/2022-05-11-sec-enforcement-actions-support-critical-skills-based-ethics-training.md",
+      "title": "SEC Enforcement Actions Support Critical Skills-based Ethics Training",
+      "excerpt": "The question of how to teach ethics has plagued academics for generations, with some even wondering whether it can be taught at all. Steven Mintz, an",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-2022-worldwide-survey-opportunities-forthcoming-developments-and-forecast-to-2028-2022-02-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-2022-worldwide-survey-opportunities-forthcoming-developments-and-forecast-to-2028-2022-02-02",
+      "webUrl": "https://www.cpajournal.com/2022/05/10/sec-enforcement-actions-support-critical-skills-based-ethics-training/",
+      "originalUrl": "https://www.cpajournal.com/2022/05/10/sec-enforcement-actions-support-critical-skills-based-ethics-training/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://www.cpajournal.com/wp-content/uploads/2022/05/CPA.2022.92.3.036_uf0011-730x330.jpg",
+          "width": 730,
+          "height": 330,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -69,21 +112,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-01T17:17:00-08:00",
+      "publishedDateTime": "2022-05-10T14:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "cpajournal",
+        "domain": "cpajournal.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -92,79 +126,26 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-how-mits-new-ai-system-lets-you-control-a-robot-with-your-mind.md",
-      "title": "How MIT’s new AI system lets you control a robot with your mind",
-      "excerpt": "How MIT’s new AI system lets you control a robot with your mind Your email has been sent A new machine learning system developed by MIT and Boston University offers a feedback system for humans ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-mits-new-ai-system-lets-you-control-a-robot-with-your-mind/",
-      "originalUrl": "https://www.techrepublic.com/article/how-mits-new-ai-system-lets-you-control-a-robot-with-your-mind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2017/03/y6rgz2-2.gif?x23932",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/how-mits-new-ai-system-lets-you-control-a-robot-with-your-mind/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/how-mits-new-ai-system-lets-you-control-a-robot-with-your-mind/amp/",
-      "publishedDateTime": "2022-02-01T17:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
+        "AI Ethics",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-02-02-competitive-programming-with-alphacode.md",
-      "title": "Competitive programming with AlphaCode",
-      "excerpt": "As part of DeepMinds mission to solve intelligence, we created a system called AlphaCode that writes computer programs at a competitive level.",
+      "path": "_news/2022-05-11-machine-learning-improves-hawaii-rainfall-mapping.md",
+      "title": "Machine learning improves Hawai'i rainfall mapping",
+      "excerpt": "University of Hawaiʻi and East-West Center researchers have developed more accurate monthly rainfall maps by using machine learning. They used a machine learning technique to detect erroneous ...",
       "sourceUrl": null,
-      "webUrl": "https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode",
-      "originalUrl": "https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode",
+      "webUrl": "https://phys.org/news/2022-05-machine-hawaii-rainfall.html",
+      "originalUrl": "https://phys.org/news/2022-05-machine-hawaii-rainfall.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 244,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://lh3.googleusercontent.com/vz8uwIhCXl_JqJGaUoUessaut6aLXPffnRi4fq7M82o01WJOBKFIWkPLh6Hg-tvnJCLw6mKu-gEGUNIPftbm7xzwUfZFKRl9VW-Nl-IbIFcbgAiKh7A9",
-          "width": 512,
-          "height": 288,
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/machine-learning-impro-1.jpg",
+          "width": 676,
+          "height": 461,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -172,117 +153,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-01T16:00:00-08:00",
+      "ampWebUrl": "https://phys.org/news/2022-05-machine-hawaii-rainfall.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-machine-hawaii-rainfall.amp",
+      "publishedDateTime": "2022-05-10T13:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-how-telecom-companies-can-leverage-machine-learning-to-boost-their-profits.md",
-      "title": "How Telecom Companies Can Leverage Machine Learning To Boost Their Profits",
-      "excerpt": "Businesses can use specific capabilities, avatars or applications of machine learning and AI for this purpose. AI and Predictive Analysis: For Optimizing Global Telecom Networks Mobile networks are one of the prime components of the ever-expanding internet ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/02/how-telecom-companies-can-leverage-machine-learning-to-boost-their-profits/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/02/how-telecom-companies-can-leverage-machine-learning-to-boost-their-profits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61fac087f2fa9e79cd435f1d/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1080,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/02/how-telecom-companies-can-leverage-machine-learning-to-boost-their-profits/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/02/02/how-telecom-companies-can-leverage-machine-learning-to-boost-their-profits/amp/",
-      "publishedDateTime": "2022-02-01T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-itu-unveils-ai-platform-to-hasten-community-development.md",
-      "title": "ITU unveils AI platform to hasten community development",
-      "excerpt": "yesterday launched an artificial intelligence (AI)-powered platform, which seeks to step up global collaboration on the use of AI to drive sustainable development. The AI for Good Neural Network ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/G98YdMLYAp5qX2PD",
-      "originalUrl": "https://www.itweb.co.za/content/G98YdMLYAp5qX2PD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/_qZgaXhmHYeZHAWpsRhNWbcy1HhjmNHVH-1ME1AeEN4Ouobgg_8cHIaPvSncCsRtj2AWCBjlxCWu2yoIaTIMDGw=w816-h428",
-          "width": 761,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/G98YdMLYAp5qX2PD",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/G98YdMLYAp5qX2PD",
-      "publishedDateTime": "2022-02-01T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
+        "name": "Phys.org",
+        "domain": "phys.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -297,508 +174,12 @@
       ]
     },
     {
-      "path": "_news/2022-02-02-putting-artificial-intelligence-to-work-in-cancer-diagnosis-and-treatment.md",
-      "title": "Putting Artificial Intelligence to Work in Cancer Diagnosis and Treatment",
-      "excerpt": "Artificial intelligence's future involvement in healthcare, particularly in the detection and treatment of cancer, is anticipated to take a variety of forms, ranging from identifying a specific form of cancer to evaluating which therapy method may best ...",
+      "path": "_news/2022-05-11-ai-leveraged-by-smbs-to-reshape-their-businesses.md",
+      "title": "AI Leveraged by SMBs to Reshape Their Businesses",
+      "excerpt": "AI-based software applications, such as Microsoft Azure, have made cloud-based information available to the entire organization, which means spontaneous innovation can happen faster. When a company can work more effectively, the speed of innovation ...",
       "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/artificial-intelligence/putting-artificial-intelligence-work-cancer-diagnosis-and-treatment",
-      "originalUrl": "https://www.mddionline.com/artificial-intelligence/putting-artificial-intelligence-work-cancer-diagnosis-and-treatment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/JDW04Yweb.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-01T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-tesla-to-recall-nearly-54k-cars-which-could-threaten-future-of-full-self-driving-feature.md",
-      "title": "Tesla to recall nearly 54K cars which could threaten future of Full Self Driving feature",
-      "excerpt": "Tesla will have to recall close to 54,000 of its electric vehicles due to a feature called Rolling Stop which comes with the Full Self Driving premium package. The FSD is still in the Beta version.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/tesla-to-recall-nearly-54k-cars-which-could-threaten-future-of-full-self-driving-feature/",
-      "originalUrl": "https://www.neowin.net/news/tesla-to-recall-nearly-54k-cars-which-could-threaten-future-of-full-self-driving-feature/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2019/04/1554374509_screenshot_from_2019-04-04_11-40-06_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/tesla-to-recall-nearly-54k-cars-which-could-threaten-future-of-full-self-driving-feature/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/tesla-to-recall-nearly-54k-cars-which-could-threaten-future-of-full-self-driving-feature/",
-      "publishedDateTime": "2022-02-01T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-game-changing-facial-recognition-technology-is-now-being-used-by-eps.md",
-      "title": "'Game changing' facial recognition technology is now being used by EPS",
-      "excerpt": "Edmonton police say they have already been able to see the benefits of the facial recognition technology they recently began to use.",
-      "sourceUrl": null,
-      "webUrl": "https://edmonton.ctvnews.ca/game-changing-facial-recognition-technology-is-now-being-used-by-eps-1.5763504",
-      "originalUrl": "https://edmonton.ctvnews.ca/game-changing-facial-recognition-technology-is-now-being-used-by-eps-1.5763504",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/local/edmonton/2022/2/1/1_5763504/_jcr_content/root/responsivegrid/image.coreimg.png",
-          "width": 1020,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/local/edmonton/2022/2/1/1_5763504.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/edmonton/2022/2/1/1_5763504.amp.html",
-      "publishedDateTime": "2022-02-01T14:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-ai-traffic-lights-could-reduce-waiting-times-at-intersections.md",
-      "title": "AI traffic lights could reduce waiting times at intersections",
-      "excerpt": "Ordinarily, traffic lights change color in response to predetermined rules and induction loop sensors embedded in the road. According to new research, however, making those lights artificially intelligent may keep traffic flowing faster and smoother.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/good-thinking/artificially-intelligent-traffic-lights/",
-      "originalUrl": "https://newatlas.com/good-thinking/artificially-intelligent-traffic-lights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 227,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/9f0d40d/2147483647/strip/true/crop/1600x1067+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F2d%2Fae%2Fbb55bec34fc69662304187b12097%2Fiosb-ina-traffic-lights-controlled-using-artificial-intelligence-pic-1.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/good-thinking/artificially-intelligent-traffic-lights/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/good-thinking/artificially-intelligent-traffic-lights/?amp=true",
-      "publishedDateTime": "2022-02-01T13:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-nsas-cybersecurity-directorate-looks-to-scale-up-this-year.md",
-      "title": "NSA’s cybersecurity directorate looks to scale up this year",
-      "excerpt": "NSA will be digging deeper under the hood to understand the security vulnerabilities across the entire lifecycle for applying machine learning or artificial intelligence into a system — such as a driverless vehicle — Ziring said, citing an example of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.c4isrnet.com/cyber/2022/02/01/nsas-cybersecurity-directorate-looks-to-scale-up-this-year/",
-      "originalUrl": "https://www.c4isrnet.com/cyber/2022/02/01/nsas-cybersecurity-directorate-looks-to-scale-up-this-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.c4isrnet.com/resizer/pQ5Rd8V5hGPV7iTsi4pJQ3bUWdA=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/PVBSGFPEURG43OMLBEF4AGLDEY.jpg",
-          "width": 1024,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-01T12:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C4ISRNET",
-        "domain": "c4isrnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-preparing-mnist-image-data-text-files.md",
-      "title": "Preparing MNIST Image Data Text Files",
-      "excerpt": "Many machine learning problems fall into one of three categories: tabular data prediction (such as the Iris species problem), natural language processing (such as the IMDB movie review sentiment problem) and image recognition (such as the MNIST handwritten ...",
-      "sourceUrl": null,
-      "webUrl": "https://visualstudiomagazine.com/articles/2022/02/01/preparing-mnist-image-data-text-files.aspx",
-      "originalUrl": "https://visualstudiomagazine.com/articles/2022/02/01/preparing-mnist-image-data-text-files.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://visualstudiomagazine.com/-/media/ECG/visualstudiomagazine/Images/introimages/1213vsm_McCaffreyColumn.jpg",
-          "width": 647,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-01T12:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Visual Studio Magazine",
-        "domain": "visualstudiomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-crisis-text-line-ends-controversial-relationship-with-for-profit-ai-company.md",
-      "title": "Crisis Text Line ends controversial relationship with for-profit AI company",
-      "excerpt": "Crisis Text Line has ended its controversial relationship with Loris.ai, a for-profit sister company that promises to help companies \"handle their hard customer conversations with empathy. \" The decision followed outrage over a Politico story that detailed how Loris leveraged Crisis Text Line insights and anonymized user data in order to sell companies customer service optimization software,",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/crisis-text-line-loris-ai",
-      "originalUrl": "https://mashable.com/article/crisis-text-line-loris-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/04DlU6SZhcOW1a3Ul5pS0bO/hero-image.fill.size_1200x675.v1643742610.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/crisis-text-line-loris-ai?amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/crisis-text-line-loris-ai?amp",
-      "publishedDateTime": "2022-02-01T11:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-former-google-ai-exec-joins-trax-as-top-product-officer-to-enhance-omnichannel-shopping-ux.md",
-      "title": "Former Google AI exec joins Trax as top product officer to enhance omnichannel shopping UX",
-      "excerpt": "Trax announced that, Barak Turovsky, is joining as its new chief product officer. Turovsky will apply his expertise to enhance the omnichannel shopping experience of retailers, brands, and consumers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/01/former-google-ai-exec-joins-trax-as-top-product-officer-to-enhance-omnichannel-shopping-ux/",
-      "originalUrl": "https://venturebeat.com/2022/02/01/former-google-ai-exec-joins-trax-as-top-product-officer-to-enhance-omnichannel-shopping-ux/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/11/online-shopping-shutterstock_224467054-1.jpg?fit=800%2C600&strip=all",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/01/former-google-ai-exec-joins-trax-as-top-product-officer-to-enhance-omnichannel-shopping-ux/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/01/former-google-ai-exec-joins-trax-as-top-product-officer-to-enhance-omnichannel-shopping-ux/amp/",
-      "publishedDateTime": "2022-02-01T11:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-civil-rights-groups-launch-effort-to-stop-irs-use-of-flawed-idme-facial-recognition.md",
-      "title": "Civil rights groups launch effort to stop IRS use of 'flawed' ID.me facial recognition",
-      "excerpt": "Multiple groups have come together to urge the IRS to stop its use of facial recognition software. Outrage continues to swirl around a proposed plan from the Treasury Department to require some taxpayers to submit to facial recognition and biometric surveillance in order to access their accounts online.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/civil-rights-groups-launch-effort-to-stop-irs-use-of-flawed-id-me-facial-recognition/",
-      "originalUrl": "https://www.zdnet.com/article/civil-rights-groups-launch-effort-to-stop-irs-use-of-flawed-id-me-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/civil-rights-groups-launch-effort-to-stop-irs-use-of-flawed-id-me-facial-recognition/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/civil-rights-groups-launch-effort-to-stop-irs-use-of-flawed-id-me-facial-recognition/",
-      "publishedDateTime": "2022-02-01T10:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-want-fair-redistricting-use-artificial-intelligence.md",
-      "title": "Want fair redistricting? Use artificial intelligence",
-      "excerpt": "Over 200 years ago, the “Gerrymander,” a salamander-like legislative district, was mocked in a newspaper cartoon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nydailynews.com/opinion/ny-oped-to-redistrict-better-reach-for-ai-20220201-xh6gyxqkvbb2vazwqqs4vk4ura-story.html",
-      "originalUrl": "https://www.nydailynews.com/opinion/ny-oped-to-redistrict-better-reach-for-ai-20220201-xh6gyxqkvbb2vazwqqs4vk4ura-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nydailynews.com/resizer/PdC_O1q7OQzw1frCV0NMi-1SkB4=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/FWAFTSG63FBRTBWC6VVVY46YJE.jpg",
-          "width": 1200,
-          "height": 939,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nydailynews.com/opinion/ny-oped-to-redistrict-better-reach-for-ai-20220201-xh6gyxqkvbb2vazwqqs4vk4ura-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-to-redistrict-better-reach-for-ai-20220201-xh6gyxqkvbb2vazwqqs4vk4ura-story.html?outputType=amp",
-      "publishedDateTime": "2022-02-01T10:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Daily News",
-        "domain": "nydailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-tesla-recalls-full-self-driving-feature-that-was-designed-to-roll-through-some-stop-signs.md",
-      "title": "Tesla recalls 'full self-driving' feature that was designed to roll through some stop signs",
-      "excerpt": "Tesla will recall all 53,822 vehicles with its \"full self-driving\" driver-assist feature after it was intentionally programmed to slowly roll through stop signs in some scenarios. The recall will impact Model S,",
-      "sourceUrl": null,
-      "webUrl": "https://southeast.newschannelnebraska.com/story/45788410/tesla-recalls-full-self-driving-feature-that-was-designed-to-roll-through-some-stop-signs",
-      "originalUrl": "https://southeast.newschannelnebraska.com/story/45788410/tesla-recalls-full-self-driving-feature-that-was-designed-to-roll-through-some-stop-signs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://CNNWIRE.images.worldnow.com/images/22122481_G.jpg?lastEditedDate=1643719956000",
-          "width": 500,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-01T09:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Channel Nebraska",
-        "domain": "newschannelnebraska.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-chop-researchers-use-deep-learning-to-find-genetic-causes-of-mental-health-disorders-in-frequently-understudied-african-american-population.md",
-      "title": "CHOP researchers use deep learning to find genetic causes of mental health disorders in frequently understudied African American population",
-      "excerpt": "A new study from researchers at Children’s Hospital of Philadelphia (CHOP) shows that a deep learning model has promising accuracy when helping to diagnose a variety of common mental health ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/942008",
-      "originalUrl": "https://www.eurekalert.org/news-releases/942008",
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/prlog-2022-5-10-ai-leveraged-by-smbs-to-reshape-their-businesses",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/prlog-2022-5-10-ai-leveraged-by-smbs-to-reshape-their-businesses",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -808,64 +189,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-01T08:53:00-08:00",
+      "publishedDateTime": "2022-05-10T12:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors.md",
-      "title": "How XpertRule’s multiple AI tools compares to BPM competitors",
-      "excerpt": "and predictive explainable machine learning. Both the authoring and deployment components of the Viabl.ai platform are 100 percent cloud-native and run serverless on AWS and Azure or on Premise.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/01/how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors/",
-      "originalUrl": "https://venturebeat.com/2022/02/01/how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/GettyImages-829804548.jpg?w=1200&strip=all",
-          "width": 564,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/01/how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/01/how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors/amp/",
-      "publishedDateTime": "2022-02-01T07:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -879,21 +208,21 @@
       ]
     },
     {
-      "path": "_news/2022-02-01-tesla-recalls-all-53822-vehicles-with-its-full-self-driving-feature.md",
-      "title": "Tesla recalls all 53,822 vehicles with its 'full self-driving' feature",
-      "excerpt": "Tesla will recall all 53,822 vehicles with its \"full self-driving\" driver-assist feature after it was intentionally programmed to slowly roll through stop signs in some scenarios.",
+      "path": "_news/2022-05-11-intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus.md",
+      "title": "Intel Pits New Gaudi2 AI Training Engine Against Nvidia GPUs",
+      "excerpt": "Nvidia is not the only company that has created specialized compute units that are good at the matrix math and tensor processing that underpins AI",
       "sourceUrl": null,
-      "webUrl": "https://www.wkow.com/news/tesla-recalls-all-53-822-vehicles-with-its-full-self-driving-feature/article_914bbfed-285f-59c0-aefb-4aa1e46a7280.html",
-      "originalUrl": "https://www.wkow.com/news/tesla-recalls-all-53-822-vehicles-with-its-full-self-driving-feature/article_914bbfed-285f-59c0-aefb-4aa1e46a7280.html",
+      "webUrl": "https://www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/",
+      "originalUrl": "https://www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 136,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wkow.com/content/tncms/assets/v3/editorial/2/e5/2e53caaf-721e-5592-8f36-0e9e74c5c348/61f97c7ad628b.image.jpg?resize=1024%2C682",
-          "width": 1024,
-          "height": 682,
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/05/intel-habana-gaudi2-logo.jpg",
+          "width": 709,
+          "height": 428,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -901,13 +230,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wkow.com/news/tesla-recalls-all-53-822-vehicles-with-its-full-self-driving-feature/article_914bbfed-285f-59c0-aefb-4aa1e46a7280.amp.html",
-      "cdnAmpWebUrl": "https://www-wkow-com.cdn.ampproject.org/c/s/www.wkow.com/news/tesla-recalls-all-53-822-vehicles-with-its-full-self-driving-feature/article_914bbfed-285f-59c0-aefb-4aa1e46a7280.amp.html",
-      "publishedDateTime": "2022-02-01T07:29:00-08:00",
+      "ampWebUrl": "https://www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/amp/",
+      "publishedDateTime": "2022-05-10T12:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WKOW",
-        "domain": "wkow.com",
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -917,26 +246,27 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
-      "path": "_news/2022-02-01-mongodbs-co-founder-is-trying-to-universalize-robotic-deployment.md",
-      "title": "MongoDB’s co-founder is trying to universalize robotic deployment",
-      "excerpt": "To this end they are developing a series of core components, such as object recognition, navigation and gripping,” USV managing partner Albert Wenger said in a post tied to last year’s seed.",
+      "path": "_news/2022-05-11-certn-nabs-50m-to-accelerate-background-checks-with-ai.md",
+      "title": "Certn nabs $50M to accelerate background checks with AI",
+      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/02/01/mongodbs-founder-is-trying-to-universalize-robotic-deployment/",
-      "originalUrl": "https://techcrunch.com/2022/02/01/mongodbs-founder-is-trying-to-universalize-robotic-deployment/",
+      "webUrl": "https://venturebeat.com/2022/05/10/certn-nabs-50m-to-accelerate-background-checks-with-ai/",
+      "originalUrl": "https://venturebeat.com/2022/05/10/certn-nabs-50m-to-accelerate-background-checks-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1160976646.jpg?w=1024",
-          "width": 1024,
-          "height": 680,
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/hiring-e1631919874329.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -944,9 +274,112 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/02/01/mongodbs-founder-is-trying-to-universalize-robotic-deployment/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/01/mongodbs-founder-is-trying-to-universalize-robotic-deployment/amp/",
-      "publishedDateTime": "2022-02-01T07:15:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/2022/05/10/certn-nabs-50m-to-accelerate-background-checks-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/10/certn-nabs-50m-to-accelerate-background-checks-with-ai/amp/",
+      "publishedDateTime": "2022-05-10T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-sofi-stock-falls-after-fintech-firm-accidentally-releases-first-quarter-report-early.md",
+      "title": "SoFi stock falls after fintech firm accidentally releases first-quarter report early",
+      "excerpt": "Shares of SoFi fell sharply on Tuesday and were halted for nearly three hours after the company accidentally released its first-quarter results early. The company said the report was released early due to human error.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/05/10/sofi-stock-falls-trading-halted-after-fintech-firm-accidentally-releases-q1-report.html",
+      "originalUrl": "https://www.cnbc.com/2022/05/10/sofi-stock-falls-trading-halted-after-fintech-firm-accidentally-releases-q1-report.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107018575-1645558180917-gettyimages-1372185735-0j5a7034_07649f06-aee4-4713-b71b-eb5bcd0da8bb.jpeg?v=1645558270",
+          "width": 2803,
+          "height": 1936,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/05/10/sofi-stock-falls-trading-halted-after-fintech-firm-accidentally-releases-q1-report.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/05/10/sofi-stock-falls-trading-halted-after-fintech-firm-accidentally-releases-q1-report.html",
+      "publishedDateTime": "2022-05-10T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-slai-makes-intelligent-choices-around-machine-learning-setups-for-developers.md",
+      "title": "Slai makes intelligent choices around machine learning setups for developers",
+      "excerpt": "Slai is building a developer-first platform for machine learning. It equips developers with the tools to quickly ship machine-learning applications.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/10/slai-seed-round/",
+      "originalUrl": "https://techcrunch.com/2022/05/10/slai-seed-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/slai-founders.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/10/slai-seed-round/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/10/slai-seed-round/amp/",
+      "publishedDateTime": "2022-05-10T10:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -969,182 +402,10 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-meta-unveils-ai-supercomputer-for-the-metaverse.md",
-      "title": "Meta Unveils AI Supercomputer for the Metaverse",
-      "excerpt": "analyze text and translate between languages. AI supercomputers are built by combining multiple GPUs into compute nodes, which are then connected by a high-performance network fabric to allow fast ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/02/meta-metaverse-ai-supercomputer/",
-      "originalUrl": "https://www.infoq.com/news/2022/02/meta-metaverse-ai-supercomputer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2022/02/meta-metaverse-ai-supercomputer/en/headerimage/generatedHeaderImage-1643680488197.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-01T06:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-government-agencies-are-tapping-a-facial-recognition-company-to-prove.md",
-      "title": "Government agencies are tapping a facial recognition company to prove...",
-      "excerpt": "James Hendler, Rensselaer Polytechnic Institute (THE CONVERSATION) The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.greenwichtime.com/news/article/Government-agencies-are-tapping-a-facial-16821583.php",
-      "originalUrl": "https://www.greenwichtime.com/news/article/Government-agencies-are-tapping-a-facial-16821583.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.greenwichtime.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php",
-      "cdnAmpWebUrl": "https://www-greenwichtime-com.cdn.ampproject.org/c/s/www.greenwichtime.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php",
-      "publishedDateTime": "2022-02-01T06:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Greenwich Time",
-        "domain": "greenwichtime.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-ai-collaboration-to-create-personalized-healthcare.md",
-      "title": "AI Collaboration to Create Personalized Healthcare",
-      "excerpt": "Health at Scale and Walmart's AI collaboration will enable the retailer's employees to find providers and interventions that are a fit for their personal health needs.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/ai-collaboration-to-create-personalized-healthcare",
-      "originalUrl": "https://healthitanalytics.com/news/ai-collaboration-to-create-personalized-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/sized/GettyImages-1127125431-e4b00c1efb9503a805928b101c78b499.jpg",
-          "width": 480,
-          "height": 295,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitanalytics.com/news/amp/ai-collaboration-to-create-personalized-healthcare",
-      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/ai-collaboration-to-create-personalized-healthcare",
-      "publishedDateTime": "2022-02-01T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-trax-names-former-google-ai-leader-barak-turovsky-as-chief-product-officer.md",
-      "title": "Trax Names Former Google AI Leader, Barak Turovsky, as Chief Product Officer",
-      "excerpt": "Trax, a leading global provider of computer vision solutions and analytics for retail, today announced the appointment of Barak Turovsky as it (CPO). Under Turovsky’s leadership, Trax combines its product and engineering teams to support the company’s growth and enable development of new solutions to meet market needs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/trax-names-former-google-ai-leader-barak-turovsky-as-chief-product-officer/article_fe2658fc-eaf6-5358-a51f-9eb2f242ce91.html",
-      "originalUrl": "https://www.eagletribune.com/region/trax-names-former-google-ai-leader-barak-turovsky-as-chief-product-officer/article_fe2658fc-eaf6-5358-a51f-9eb2f242ce91.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/2/1e/21e303c9-dc91-5caf-b9da-0b1b557da643/61f944cf3e1ea.image.jpg?resize=400%2C566",
-          "width": 400,
-          "height": 566,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-01T05:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
+        "Machine Learning",
         "AI"
       ]
     }
   ],
-  "nextPage": 154
+  "nextPage": null
 }

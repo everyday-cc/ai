@@ -7,7 +7,7 @@ originalUrl: "https://www.arkansasonline.com/news/2022/sep/04/for-japans-small-s
 webUrl: "https://www.arkansasonline.com/news/2022/sep/04/for-japans-small-shops-robot-in-store/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robot that stocks drinks is newest thing at the corner store"
-    excerpt: "A small robot with a clip-like hand and the smarts to know which drinks are popular is part of an effort to make convenience stores even more convenient."
-    publishedDateTime: 2022-09-02T07:40:00Z
-    webUrl: "https://www.seattletimes.com/business/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/"
-    ampWebUrl: "https://www.seattletimes.com/business/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
   - title: "Robot that stocks drinks is newest thing at the corner store"
     excerpt: "TX SCARA can restock up to 1,000 bottles and cans a day  Tokyo: A small robot with a clip-like hand and enough smarts to know which drinks are popular is part of an effort to make convenience stores even more convenient."
     publishedDateTime: 2022-09-03T19:47:00Z

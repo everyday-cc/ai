@@ -2,6 +2,105 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-07-15-how-artificial-intelligence-ai-affects-business-executives.md",
+      "title": "How artificial intelligence (AI) affects business executives",
+      "excerpt": "As of this writing, AI has not fully taken over jobs just yet. Business leaders must comprehend the influence of artificial intelligence, such as machine",
+      "sourceUrl": null,
+      "webUrl": "https://businessday.ng/research-post/article/how-artificial-intelligence-ai-affects-business-executives/",
+      "originalUrl": "https://businessday.ng/research-post/article/how-artificial-intelligence-ai-affects-business-executives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2021/10/Untitled-design-2021-10-08T114926.978.png?resize=450%2C300&ssl=1",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://businessday.ng/amp/research-post/article/how-artificial-intelligence-ai-affects-business-executives/",
+      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/research-post/article/how-artificial-intelligence-ai-affects-business-executives/",
+      "publishedDateTime": "2022-07-15T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessday",
+        "domain": "businessday.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "Natural Language Processing",
+        "AI in Healthcare",
+        "IBM AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-07-15-data-preparation-the-key-ingredient-in-efficient-ai-algorithms-for-virtual-healthcare.md",
+      "title": "Data Preparation: The Key Ingredient In Efficient AI Algorithms For Virtual Healthcare",
+      "excerpt": "However, that concept doesn't apply to data processing. Artificial intelligence (AI) and machine learning (ML) can't properly execute without good data preparation. That's an oversimplification, but it helps explain what's going on with the whole ecosystem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/15/data-preparation-the-key-ingredient-in-efficient-ai-algorithms-for-virtual-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/15/data-preparation-the-key-ingredient-in-efficient-ai-algorithms-for-virtual-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6165e12e8a6cc7b5e99e94f3/0x0.jpg?format=jpg&crop=1307,735,x0,y67,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/15/data-preparation-the-key-ingredient-in-efficient-ai-algorithms-for-virtual-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/15/data-preparation-the-key-ingredient-in-efficient-ai-algorithms-for-virtual-healthcare/amp/",
+      "publishedDateTime": "2022-07-15T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-13-anumana-collaborates-with-leading-global-health-care-company-to-detect-heart-disease-using-artificial-intelligence.md",
       "title": "Anumana Collaborates with Leading Global Health Care Company to Detect Heart Disease Using Artificial Intelligence",
       "excerpt": "The collaboration will support Anumana’s efforts to implement AI-enabled diagnostic software that can detect signals from ECGs that humans cannot interpret. The collaboration will initially focus on cardiovascular diseases.",
@@ -1251,101 +1350,6 @@
         "Computer Vision",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-the-worldwide-artificial-intelligence-in-medical-imaging-industry-is-expected-to-reach-32-billion-by-2027-researchandmarketscom.md",
-      "title": "The Worldwide Artificial Intelligence In Medical Imaging Industry is Expected to Reach $3.2 Billion by 2027 - ResearchAndMarkets.com",
-      "excerpt": "The “Artificial Intelligence In Medical Imaging Market Research Report by End-user (Diagnostic Centers and Hospitals), Application, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19” report has been added to ResearchAndMarkets.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-73f480a5a29744729ee955cb90c693e5",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-73f480a5a29744729ee955cb90c693e5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-01T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-implementing-change-part-three-how-to-move-ai-forward-in-healthcare.md",
-      "title": "Implementing Change Part Three: How To Move AI Forward In Healthcare",
-      "excerpt": "Rick Newell, MD MPH is CEO of Inflect Health, Chief Transformation Officer at Vituity, and passionate about driving change in healthcare. I’ve explained some of the many ways artificial intelligence could vastly improve healthcare at all levels ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/07/01/implementing-change-part-three-how-to-move-ai-forward-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/07/01/implementing-change-part-three-how-to-move-ai-forward-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//609e821d654474333e16c7cf/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/07/01/implementing-change-part-three-how-to-move-ai-forward-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/07/01/implementing-change-part-three-how-to-move-ai-forward-in-healthcare/amp/",
-      "publishedDateTime": "2022-07-01T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -106,7 +106,7 @@
       "originalUrl": "https://www.bnnbloomberg.ca/us-deals-heavy-blow-to-china-tech-ambitions-with-nvidia-chip-ban-1.1813842",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -186,6 +186,50 @@
       ]
     },
     {
+      "path": "_news/2022-09-01-breaking-down-how-cognitive-behavioral-therapy-and-internet-based-cognitive-behavioral-therapy-help-treat-mental-health-struggles.md",
+      "title": "Breaking down how cognitive behavioral therapy and internet-based cognitive behavioral therapy help treat mental health struggles",
+      "excerpt": "In the early 1900’s, the foundations for what was to become Cognitive Behavioral Therapy (CBT) were spearheaded by psychology leaders like behaviorist John B. Watson. However, it wasn’t until ...",
+      "sourceUrl": null,
+      "webUrl": "https://medcitynews.com/2022/09/breaking-down-how-cognitive-behavioral-therapy-and-internet-based-cognitive-behavioral-therapy-help-treat-mental-health-struggles/",
+      "originalUrl": "https://medcitynews.com/2022/09/breaking-down-how-cognitive-behavioral-therapy-and-internet-based-cognitive-behavioral-therapy-help-treat-mental-health-struggles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medcitynews.com/uploads/2019/12/GettyImages-858738378.jpg",
+          "width": 673,
+          "height": 518,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-01T06:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedCity News",
+        "domain": "medcitynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-cognitive-services-market-2022-disclosing-latest-trends-and-advancement-outlook-2028-microsoft-google-aws.md",
       "title": "Cognitive Services Market 2022 Disclosing Latest Trends and Advancement Outlook 2028 – Microsoft, Google, AWS",
       "excerpt": "Top Companies in the global Cognitive Services market are IBM, Microsoft, Google, AWS, Baidu, Nuance Communications, Qualcomm Technologies, SAS, Apple, TCS, Nokia, Expert System, Verbio Technologies,",
@@ -227,6 +271,49 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-brain-cells-that-give-humans-higher-cognitive-abilities-over-other-animals-are-also-linked-to-neurological-disorders-like-schizophrenia-autism.md",
+      "title": "Brain cells that give humans higher cognitive abilities over other animals are also linked to neurological disorders like schizophrenia, autism and epilepsy, a new study finds",
+      "excerpt": "Scientists have identified an immune brain cell unique to humans that gives us higher cognitive abilities over other animals, but what makes us specials also leaves us vulnerable to neurological ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-11166047/Brain-cells-humans-higher-cognitive-abilities-linked-neurological-disorders.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-11166047/Brain-cells-humans-higher-cognitive-abilities-linked-neurological-disorders.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2022/08/31/20/61921267-0-image-a-23_1661973353654.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-11166047/amp/Brain-cells-humans-higher-cognitive-abilities-linked-neurological-disorders.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11166047/amp/Brain-cells-humans-higher-cognitive-abilities-linked-neurological-disorders.html",
+      "publishedDateTime": "2022-09-01T03:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1214,101 +1301,6 @@
         "name": "TMCnet",
         "domain": "tmcnet.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-mark-cuban-foundation-ai-bootcamps-application-closing-soon.md",
-      "title": "Mark Cuban Foundation AI Bootcamps- Application Closing Soon!",
-      "excerpt": "The Mark Cuban Foundation will host Artificial Intelligence (AI) Bootcamps for high school students in the Fall of 2022. The No Cost AI Bootcamp will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/mark-cuban-foundation-ai-bootcamps--application-closing-soon-2022-08-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/mark-cuban-foundation-ai-bootcamps--application-closing-soon-2022-08-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-professional-cloud-services-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis.md",
-      "title": "Professional Cloud Services Market Size Is Likely to Experience a Tremendous Growth by 2031 Covid-19 Analysis",
-      "excerpt": "The professional cloud services market was valued at USD 21.51billion in 2022 and is expected to reach a value of USD 57.54 billion by 2031, at a CAGR of 17.76 %, during the forecast period. The increase in the use of Artificial Intelligence (AI) with a growing focus on digital transformation initiatives are expected to provide growth opportunities for cloud services market - Moreover,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/professional-cloud-services-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis-2022-08-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/professional-cloud-services-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis-2022-08-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

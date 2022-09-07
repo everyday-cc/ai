@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-06-04-ai-ethical-decision-making-is-society-ready.md",
+      "title": "AI ethical decision making: Is society ready?",
+      "excerpt": "With the accelerating evolution of technology, artificial intelligence (AI) plays a growing role in decision-making processes. Humans are becoming increasingly dependent on algorithms to process information,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/06/220603124906.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/06/220603124906.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-03T15:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-06-04-us-shootings-firm-unveils-plans-for-taser-armed-drones.md",
       "title": "US shootings: Firm unveils plans for Taser-armed drones",
       "excerpt": "\"Reasonable minds can differ on the merits of police-controlled Taser-equipped drones - our own board disagreed internally - but we unanimously are concerned with the process Axon",
@@ -1389,49 +1432,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-tu-delft-tu-delft-has-launched-the-digital-ethics-centre-for-fair-and-safe-ai.md",
-      "title": "TU Delft: TU Delft has launched the Digital Ethics Centre for fair and safe AI",
-      "excerpt": "What does human-centred and responsible AI look like? Digital technology can be found pretty much in every corner of our society. But companies and institutions don’t always know how to deal with technological innovations. The TU Delft Digital Ethics ...",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/tu-delft-tu-delft-has-launched-the-digital-ethics-centre-for-fair-and-safe-ai/",
-      "originalUrl": "https://indiaeducationdiary.in/tu-delft-tu-delft-has-launched-the-digital-ethics-centre-for-fair-and-safe-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/02/TU-Delft-building-photo-by-Frank-van-Schadewijk-1-1024x538.jpg",
-          "width": 1024,
-          "height": 538,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/tu-delft-tu-delft-has-launched-the-digital-ethics-centre-for-fair-and-safe-ai/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/tu-delft-tu-delft-has-launched-the-digital-ethics-centre-for-fair-and-safe-ai/",
-      "publishedDateTime": "2022-05-15T22:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
         "publishers": null,
         "authors": null
       },

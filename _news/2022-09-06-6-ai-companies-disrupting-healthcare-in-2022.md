@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/6-ai-companies-disrupting-healthcare-in-2
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/6-ai-companies-disrupting-healthcare-in-2022/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -62,15 +62,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "2022 World Artificial Intelligence Conference Held in Shanghai"
-    excerpt: "A staff member introduces a minimally invasive orthopedic surgery robot to visitors at the 2022 World Artificial Intelligence Conference (WAIC) in east China's Shanghai, Sept. 1, 2022. [Xinhua/Fang Zh"
-    publishedDateTime: 2022-09-02T08:02:00Z
-    webUrl: "https://www.womenofchina.cn/womenofchina/html1/news/2209/312-1.htm"
-    type: article
-    provider:
-      name: 中国妇女网
-      domain: womenofchina.cn
-    quality: 34
 
 secured: "atOAqpLdfvKuSGmFePi4YEqdaEAFM/Kvim/hnpf2QtZ9WU5kK/K3X4dJtWePkocR63D10kunE2Zm/IGAU7U1ynxLkrTuWvpgBvWclj3Jh1he+MFMIw7nauVkDGcBL5v/Juiy4zbfA4Q1SP/zekfbvPap2I7tPmCJYemQokNcL+pbsPmPeLS7xkWW9696+HiM5vUuMFpQRk23SDOVJvp2KJseR3O8VRM9bzk2IyRZ1y+u/a5JxNjsUeOLV56U/eO1BN7hW0/hH9hPcZ5aJ7oM55WMnWUyFkn7GcQb7GzXkr2B+DTwFmvpxQdyJB9vTFZWaqKhgtzFZbuU8EMn6KGPW+QpDSF8Ut03Ids27Iv/7BWXCbzsxuxOmCCau4MDRPhanC6vqHW5JJ4+HlFl/eUc74IHLjXrr6SNTFawZJUhpUkFcOVbCW4JDBqqcjw69mFcByjBujzEWC1nzHDkbHf0gmEvwJYu6IfDsiXGX7cy0uEfTtLC6tR9bQrlw1iC+TCsKQGBy7sKv0ggTcny5L0koA==;OG1aS6cMmUNS02/dJ6xMZg=="
 ---

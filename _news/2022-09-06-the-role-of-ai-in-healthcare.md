@@ -57,15 +57,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "2022 World Artificial Intelligence Conference Held in Shanghai"
-    excerpt: "A staff member introduces a minimally invasive orthopedic surgery robot to visitors at the 2022 World Artificial Intelligence Conference (WAIC) in east China's Shanghai, Sept. 1, 2022. [Xinhua/Fang Zh"
-    publishedDateTime: 2022-09-02T08:02:00Z
-    webUrl: "https://www.womenofchina.cn/womenofchina/html1/news/2209/312-1.htm"
-    type: article
-    provider:
-      name: 中国妇女网
-      domain: womenofchina.cn
-    quality: 34
 
 secured: "9ijMkBK6WFmR84o85YrgyoeTY5QKtfjgAo6dzN6VWjXGSlX9r5heiHItNY3QdsZGxtlYNBMeXVO6ww2kRsMjitBSlFOVaRMp5R9w7lJYnUkssGglA4VtrUfG35M8qGgbuigoJdhasqoSd6vWLccvNwOwx6fKU/MF6e5wjrp0bgJPCcmqtfSBDI8rawAE77/ztJB57HSDl1SQWx71v2h2FPhaMn4qRRHq2dX2g4c3o41x8QTEl4XyqsaSkpItQSuIg10/uqgT30zJBMdG626vwe2JxXbg8Oo2nnyghwJnSXfQO/dW0jdas0z2TKIiOgP34+1C4hIrcQT02cZf0M0lTju9YzHZgC9FocRqSQAK7Uo=;EdaysttTdBYe0Ny+naf+Ew=="
 ---

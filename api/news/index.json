@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-07-nektarai-exits-stealth-mode-to-plug-crm-data-leakages.md",
+      "title": "Nektar.ai exits stealth mode to plug CRM data leakages",
+      "excerpt": "A lot of important data gets lost along the sales pipeline because sales teams use multiple tools, including email, Zoom and WhatsApp, to talk with buyers. Nektar.ai wants to solve the problem of data leakage with its sales productivity platform,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/06/nektar-ai-exits-stealth-mode-to-plug-crm-data-leakages/",
+      "originalUrl": "https://techcrunch.com/2022/09/06/nektar-ai-exits-stealth-mode-to-plug-crm-data-leakages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1059088668.jpg",
+          "width": 2119,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/06/nektar-ai-exits-stealth-mode-to-plug-crm-data-leakages/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/06/nektar-ai-exits-stealth-mode-to-plug-crm-data-leakages/amp/",
+      "publishedDateTime": "2022-09-06T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-09-06-detect-audio-events-with-amazon-rekognition.md",
       "title": "Detect audio events with Amazon Rekognition",
       "excerpt": "When most people think of using machine learning (ML) with audio data, the use case that usually comes to mind is transcription, also known as speech-to-text. However, there are other useful applications, including using ML to detect sounds. Using software to detect a sound is called audio event detection,",
@@ -115,7 +167,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/06/15-smart-ways-retail-businesses-should-be-using-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -321,7 +373,7 @@
       "originalUrl": "https://www.gadgetsnow.com/tech-news/this-is-likely-why-us-banned-ai-chips-to-china/articleshow/94026320.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -364,7 +416,7 @@
       "originalUrl": "https://venturebeat.com/ai/6-ai-companies-disrupting-healthcare-in-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -787,6 +839,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-05-deepmind-is-back-at-it-again-this-time-teaching-ai-how-to-play-football.md",
+      "title": "DeepMind is back at it again, this time teaching AI how to play football",
+      "excerpt": "We’re taking a look into DeepMind’s latest venture; teaching an AI how to play the beautiful game. Which shouldn’t be harder than",
+      "sourceUrl": null,
+      "webUrl": "https://stuff.co.za/2022/09/05/deepmind-is-back-at-it-again-this-time-teaching-ai-how-to-play-football/",
+      "originalUrl": "https://stuff.co.za/2022/09/05/deepmind-is-back-at-it-again-this-time-teaching-ai-how-to-play-football/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://stuff.co.za/wp-content/uploads/2022/09/Untitled-design-3-1.jpg",
+          "width": 1600,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://stuff.co.za/2022/09/05/deepmind-is-back-at-it-again-this-time-teaching-ai-how-to-play-football/?amp=1",
+      "cdnAmpWebUrl": "https://stuff-co-za.cdn.ampproject.org/c/s/stuff.co.za/2022/09/05/deepmind-is-back-at-it-again-this-time-teaching-ai-how-to-play-football/?amp=1",
+      "publishedDateTime": "2022-09-05T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "stuff.co.za",
+        "domain": "stuff.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-05-preparing-for-future-coronavirus-variants-using-artificial-intelligence.md",
       "title": "Preparing for future coronavirus variants using artificial intelligence",
       "excerpt": "SARS-CoV-2 is constantly mutating and each new variant often catches the world by surprise. Take for example the highly mutated omicron variant that emerged last November and required health authorities to develop a rapid response strategy even though,",
@@ -959,6 +1054,58 @@
       ]
     },
     {
+      "path": "_news/2022-09-05-artificial-intelligence-ai-robots-market-size-is-expected-to-grow-at-a-cagr-of-213-during-assessment-period-2022-2028-122-report-pages.md",
+      "title": "Artificial Intelligence (AI) Robots Market Size Is Expected To Grow At A CAGR Of 21.3% During Assessment Period 2022-2028 | 122 Report Pages",
+      "excerpt": "This report analyzes the impact of the pandemic on the Artificial Intelligence (AI) Robots market from a Global and Regional perspective. The report outlines the market size, market characteristics, and market growth for Artificial Intelligence (AI) Robots industry,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-size-is-expected-to-grow-at-a-cagr-of-213-during-assessment-period-2022-2028-122-report-pages-2022-09-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-size-is-expected-to-grow-at-a-cagr-of-213-during-assessment-period-2022-2028-122-report-pages-2022-09-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-04T21:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-05-iranian-authorities-plan-to-use-facial-recognition-to-enforce-new-hijab-law.md",
       "title": "Iranian authorities plan to use facial recognition to enforce new hijab law",
       "excerpt": "Government says it will use technology on public transport in crackdown on women’s dress",
@@ -1060,156 +1207,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-05-us-startup-simaai-starts-shipping-machine-learning-chip-and-system.md",
-      "title": "US startup SiMa.ai starts shipping machine learning chip and system",
-      "excerpt": "SiMa.ai/Handout via REUTERS Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management & Research Company, said on Tuesday it started shipping chips and systems to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/business/us-startup-simaai-starts-shipping-machine-learning-chip-and-system-2909851",
-      "originalUrl": "https://www.channelnewsasia.com/business/us-startup-simaai-starts-shipping-machine-learning-chip-and-system-2909851",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://onecms-res.cloudinary.com/image/upload/s--SCNbkIjv--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-08-30t130839z_1_lynxmpei7t0is_rtroptp_3_chips-sima.jpg?itok=B6EN0Egl",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-04T14:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI Hardware",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-04-why-embedding-ai-ethics-and-principles-into-your-organization-is-critical.md",
-      "title": "Why embedding AI ethics and principles into your organization is critical",
-      "excerpt": "There is likely no future without AI. Ethical development and use of AI should not be contentious — it is a social responsibility.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-embedding-ai-ethics-and-principles-into-your-organization-is-critical/",
-      "originalUrl": "https://venturebeat.com/ai/why-embedding-ai-ethics-and-principles-into-your-organization-is-critical/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1251037767.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-embedding-ai-ethics-and-principles-into-your-organization-is-critical/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-embedding-ai-ethics-and-principles-into-your-organization-is-critical/amp/",
-      "publishedDateTime": "2022-09-04T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-04-how-lord-of-the-rings-used-ai-to-change-big-screen-battles-forever.md",
-      "title": "How 'Lord of the Rings' Used AI to Change Big-Screen Battles Forever",
-      "excerpt": "Massive software has spawned armies of artificially intelligent crowds, from Lord of the Rings to Avengers: Endgame.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/culture/entertainment/features/how-lord-of-the-rings-used-ai-to-change-big-screen-battles-forever/",
-      "originalUrl": "https://www.cnet.com/culture/entertainment/features/how-lord-of-the-rings-used-ai-to-change-big-screen-battles-forever/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/55e5d94df81ac6baa25b60737dccd3e8b7165511/hub/2021/08/27/30dbd364-143e-493e-8371-445fa1de441c/screen-shot-2021-08-27-at-10-31-45-am.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-04T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "Machine Learning"
       ]
     }
   ],

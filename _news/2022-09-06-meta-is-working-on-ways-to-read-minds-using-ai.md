@@ -26,50 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "Why DeepMind Is Sending AI Humanoids to Soccer Camp"
-    excerpt: "DeepMind’s attempt to teach an AI to play soccer started with a virtual player writhing around on the floor—so it nailed at least one aspect of the game right from kickoff. But pinning down the mechanics of the beautiful game—from basics like running and kicking to higher-order concepts like teamwork and tackling—proved a lot more challenging,"
-    publishedDateTime: 2022-09-02T11:00:00Z
-    webUrl: "https://www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-camp/"
-    ampWebUrl: "https://www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-camp/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-camp/amp"
+  - title: "15 Smart Ways Retail Businesses Should Be Using AI"
+    excerpt: "From better predicting their inventory needs to managing and supporting their employees, retail businesses can leverage AI to improve their operations and their customers’ experience."
+    publishedDateTime: 2022-09-06T17:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/06/15-smart-ways-retail-businesses-should-be-using-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/06/15-smart-ways-retail-businesses-should-be-using-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/06/15-smart-ways-retail-businesses-should-be-using-ai/amp/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 104
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://media.wired.com/photos/631134163dfe1372fb611162/master/pass/soccer_HZ_science_GettyImages-520264154.jpg"
-        width: 2400
-        height: 1799
-        isCached: true
-  - title: "DeepMind is back at it again, this time teaching AI how to play football"
-    excerpt: "We’re taking a look into DeepMind’s latest venture; teaching an AI how to play the beautiful game. Which shouldn’t be harder than"
-    publishedDateTime: 2022-09-05T13:31:00Z
-    webUrl: "https://stuff.co.za/2022/09/05/deepmind-is-back-at-it-again-this-time-teaching-ai-how-to-play-football/"
-    ampWebUrl: "https://stuff.co.za/2022/09/05/deepmind-is-back-at-it-again-this-time-teaching-ai-how-to-play-football/?amp=1"
-    cdnAmpWebUrl: "https://stuff-co-za.cdn.ampproject.org/c/s/stuff.co.za/2022/09/05/deepmind-is-back-at-it-again-this-time-teaching-ai-how-to-play-football/?amp=1"
-    type: article
-    provider:
-      name: stuff.co.za
-      domain: stuff.co.za
-    quality: 73
-    images:
-      - url: "https://stuff.co.za/wp-content/uploads/2022/09/Untitled-design-3-1.jpg"
-        width: 1600
-        height: 1000
-        isCached: true
-  - title: "Meta develops mind-reading AI model"
-    excerpt: "Researchers from Meta developed an AI model that decodes speech from thought. The technology allows people to produce words without speaking. When humans"
-    publishedDateTime: 2022-09-05T07:55:00Z
-    webUrl: "https://www.techzine.eu/news/analytics/87881/meta-develops-mind-reading-ai-model/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 39
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2022/01/Meta-Whatsapp.png"
-        width: 1500
+      - url: "https://imageio.forbes.com/specials-images/imageserve/631753214643d7543ec89c1a/0x0.jpg?format=jpg&width=1200"
+        width: 1200
         height: 800
         isCached: true
 

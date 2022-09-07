@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-07-30-efforts-to-regulate-killer-robots-are-threatened-by-war-in-ukraine.md",
+      "title": "Efforts to regulate 'killer robots' are threatened by war in Ukraine",
+      "excerpt": "International attempts to regulate the use of autonomous weapons, sometimes called “killer robots”, are faltering ... without human oversight. Arms control groups are campaigning for the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2327965-efforts-to-regulate-killer-robots-are-threatened-by-war-in-ukraine/",
+      "originalUrl": "https://www.newscientist.com/article/2327965-efforts-to-regulate-killer-robots-are-threatened-by-war-in-ukraine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2022/07/13104418/SEI_114200834.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-30T02:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-30-robots-and-machines-making-work-inclusive.md",
       "title": "Robots And Machines Making Work Inclusive",
       "excerpt": "Machines and robots in the workplace are often described as harbingers of automation. However, machines can also improve accessibility into the workplace for those with disabilities. This article prov",
@@ -1326,49 +1369,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-24-elon-musk-has-likely-downloaded-his-brain-into-a-robot.md",
-      "title": "Elon Musk Has Likely Downloaded His Brain into a Robot",
-      "excerpt": "\"20 to 30 years from first human landing if launch rate growth is exponential,\" Musk said on July 15 to a question about the estimated timeframe for creating a self-sustaining civilization on Mars. \"Assumes transferring ~100k each rendezvous and ~1M total people needed,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/technology/elon-musk-has-likely-downloaded-his-brain-into-a-robot",
-      "originalUrl": "https://www.thestreet.com/technology/elon-musk-has-likely-downloaded-his-brain-into-a-robot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTg3NjE5NzYxNjg0MjI3OTgz/las-vegas-strip_2.jpg",
-          "width": 620,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/technology/elon-musk-has-likely-downloaded-his-brain-into-a-robot",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/technology/elon-musk-has-likely-downloaded-his-brain-into-a-robot",
-      "publishedDateTime": "2022-07-23T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

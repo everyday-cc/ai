@@ -2,6 +2,40 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-07-20-self-driving-trucks-and-cars-where-are-they-going-and-how-do-people-feel-about-them-according-to-realtimecampaigncom.md",
+      "title": "Self-Driving Trucks and Cars: Where Are They Going, and How Do People Feel about Them according to Realtimecampaign.com",
+      "excerpt": "Self-driving vehicles have been on people’s minds for quite some time. Some members of the general public said notions like that would never actually come to pass. Cartoons and movies of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/self-driving-trucks-and-cars-where-are-they-going-and-how-do-people-feel-about-them-according-to-realtimecampaign-com",
+      "originalUrl": "https://www.digitaljournal.com/pr/self-driving-trucks-and-cars-where-are-they-going-and-how-do-people-feel-about-them-according-to-realtimecampaign-com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-20-miami-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
       "title": "Miami Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
       "excerpt": "Argo AI, a global autonomy products and services company, will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students this fall at Miami",
@@ -1242,58 +1276,6 @@
         "name": "Law",
         "domain": "law.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-09-ford-and-vw-backed-self-driving-company-shuts-down-dc-operations.md",
-      "title": "Ford and VW-backed self-driving company shuts down DC operations",
-      "excerpt": "Argo AI, the self-driving company backed by Ford and Volkswagen, is shutting down its Washington, DC operation as part of a broader round of layoffs impacting about 150 people across the company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/07/08/business/argo-ai-ford-vw-layoffs/index.html",
-      "originalUrl": "https://www.cnn.com/2022/07/08/business/argo-ai-ford-vw-layoffs/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220708115526-ford-argo-ai-car-washington-d-c-file-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/07/08/business/argo-ai-ford-vw-layoffs/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/08/business/argo-ai-ford-vw-layoffs/index.html",
-      "publishedDateTime": "2022-07-08T13:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -213,6 +213,41 @@
       ]
     },
     {
+      "path": "_news/2022-08-31-artificial-intelligence-and-healthcare-the-business-the-law-and-the-ethics.md",
+      "title": "Artificial Intelligence and Healthcare – The Business, The Law and The Ethics",
+      "excerpt": "This is an in-person and online for this program that will explore data justice and cybersecurity in health care. Join us at the Chase Park Plaza for this one-day insightful conference regarding the ways personal data, artificial intelligence, justice and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slu.edu/medicine/bander-center/ai-conference.php",
+      "originalUrl": "https://www.slu.edu/medicine/bander-center/ai-conference.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Saint Louis University",
+        "domain": "slu.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-merkle-launches-ethical-ai-white-paper-highlights-need-for-explainable-ai-in-marketing.md",
       "title": "Merkle Launches Ethical AI White Paper, Highlights Need for Explainable AI in Marketing",
       "excerpt": "Merkle Launches Ethical AI White Paper, Highlights Need for Explainable AI in Marketing Aug 30, 2022 (PRNewswire via COMTEX) -- PR Newswire COLUMBIA,",
@@ -1385,59 +1420,6 @@
         "Machine Learning",
         "AI Ethics",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-06-ai-ethics-asks-whether-it-makes-any-sense-to-ask-ai-if-ai-itself-is-sentient.md",
-      "title": "AI Ethics Asks Whether It Makes Any Sense To Ask AI If AI Itself Is Sentient",
-      "excerpt": "AI Ethics raises the thorny question as to whether the question asked of AI about AI itself being sentient is a bit overrated, including frowning at recent headlines boldly and falsely proclaiming sentient AI existence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/08/06/ai-ethics-asks-whether-it-makes-any-sense-to-ask-ai-if-ai-itself-is-sentient/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/08/06/ai-ethics-asks-whether-it-makes-any-sense-to-ask-ai-if-ai-itself-is-sentient/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62eb201aacab3c921fb6862c/0x0.jpg?format=jpg&crop=3442,2294,x1155,y170,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/08/06/ai-ethics-asks-whether-it-makes-any-sense-to-ask-ai-if-ai-itself-is-sentient/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/08/06/ai-ethics-asks-whether-it-makes-any-sense-to-ask-ai-if-ai-itself-is-sentient/amp/",
-      "publishedDateTime": "2022-08-06T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Natural Language Processing"
       ]
     }
   ],

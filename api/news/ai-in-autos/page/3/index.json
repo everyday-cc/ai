@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-22-driverless-trucks-can-be-safe-and-efficient-by-thomas-black.md",
+      "title": "Driverless trucks can be safe and efficient, by Thomas Black",
+      "excerpt": "Higher pay has also put upward pressure on rates. There is an obvious long-term solution to both these problems: driverless trucks. But only if the industry gets off on the right foot with maximum ...",
+      "sourceUrl": null,
+      "webUrl": "https://pressofatlanticcity.com/opinion/columnists/driverless-trucks-can-be-safe-and-efficient-by-thomas-black/article_207c39b7-28ac-56e3-bde8-395eccaa10ac.html",
+      "originalUrl": "https://pressofatlanticcity.com/opinion/columnists/driverless-trucks-can-be-safe-and-efficient-by-thomas-black/article_207c39b7-28ac-56e3-bde8-395eccaa10ac.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-21T21:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Press of Atlantic City",
+        "domain": "pressofatlanticcity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-22-human-drivers-in-uk-wont-be-liable-for-accidents-when-vehicle-is-self-driving.md",
       "title": "Human drivers in UK won’t be liable for accidents when vehicle is self-driving",
       "excerpt": "Manufacturers operating self-driving vehicles in the UK will be liable for a vehicle’s actions when in autonomous mode, according to the country’s new roadmap to achieve a widespread rollout of self-driving vehicles by 2025. The British government ...",
@@ -1324,49 +1358,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-supersonic-commercial-flights-driverless-electric-ride-shares-and-adidas-solar-powered-headphones.md",
-      "title": "Supersonic commercial flights, driverless electric ride-shares, and Adidas solar powered headphones",
-      "excerpt": "Lyft and car company Motional are rolling out a new fleet of driverless electric vehicles ... can be charged with any light source, natural or artificial and they provide 80 hours of playback ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wdio.com/good-morning-northland/tech-bytes-supersonic-commercial-flights/",
-      "originalUrl": "https://www.wdio.com/good-morning-northland/tech-bytes-supersonic-commercial-flights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wdio.com/wp-content/uploads/akta/4ADEBD2FC0DA52C137CA38747F15A947.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WDIO",
-        "domain": "wdio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

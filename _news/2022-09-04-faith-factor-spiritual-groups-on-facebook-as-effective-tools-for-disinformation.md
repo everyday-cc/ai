@@ -28,7 +28,7 @@ related:
   - title: "Lost in translation: Investigation finds Facebook, Google fail to show help in Arabic search for suicide"
     excerpt: "A bold investigation probes into the flawed algorithms that fail to reach out with help when suicide is searched on their platforms."
     publishedDateTime: 2022-09-06T18:06:00Z
-    webUrl: "https://english.ahram.org.eg/News/475464.aspx"
+    webUrl: "https://english.ahram.org.eg/NewsContent/7/48/475464/Life--Style/Health/Lost-in-translation-Investigation-finds-Facebook,-.aspx"
     type: article
     provider:
       name: Hebdo Ahram

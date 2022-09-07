@@ -83,20 +83,6 @@ related:
         width: 620
         height: 355
         isCached: true
-  - title: "Chinese chip companies reveal new GPU, technologies at WAIC 2022 in Shanghai, demonstrating progress of China's chip design capabilities"
-    excerpt: "A number of new China-made chips and related technologies have been released during the ongoing three-day artificial intelligence (AI) gala World Artificial Intelligence Conference (WAIC) 2022, demonstrating the progress of China's chip design capabilities despite overseas efforts to cripple the country’s high-tech rise."
-    publishedDateTime: 2022-09-02T08:40:00Z
-    webUrl: "https://www.globaltimes.cn/page/202209/1274479.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 36
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-08-22/eacde520-ac09-4f53-92dc-685a5ff3117c.jpeg"
-        width: 800
-        height: 480
-        isCached: true
 
 secured: "gW7enX+gE/raQPWqoLAnZInXheSGX4MsoZxqmCfteTulBSM0l2FeuQ5lFS26sKGcRf4QDGDDfq7G1TMhUhvI/7aNV8AX2+gW69rpUVjZI0u0AEwFydYJopejDXjEgmmXRZbLtILZMGL0F8NP2UCaRETmtHpU2ewf62IFffps9JU5kpe8QuX4aZbiUPS9fOFJK4wNq6kjMNcUCTdAZqY4Vdxd4gT+nNtXGo0rNujHjS/47pE0PaeekMbBgwtcNhamNn/xw0BzHryyTmcZMTVrRvMsy4Co3+MRClJUAbavkMwgp1Fq+iGWHXmkFv+zdLm25vFFwyciFu3eb4fiE6QLB20mEqc8Lj0gOsUH0u4vT8I=;Kq5J49DtsctSoLOvBb8N+w=="
 ---

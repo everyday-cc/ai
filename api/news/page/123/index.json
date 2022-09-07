@@ -2,6 +2,404 @@
   "page": 123,
   "value": [
     {
+      "path": "_news/2022-06-02-self-driving-cars-from-gms-cruise-could-soon-carry-paying-riders-in-san-francisco.md",
+      "title": "Self-driving cars from GM’s Cruise could soon carry paying riders in San Francisco",
+      "excerpt": "General Motors Co's Cruise on Thursday could become the first company to secure a permit to charge for self-driving car rides in San Francisco, if it can overcome objections by city officials.",
+      "sourceUrl": null,
+      "webUrl": "https://kfgo.com/2022/06/02/self-driving-cars-from-gms-cruise-could-soon-carry-paying-riders-in-san-francisco/",
+      "originalUrl": "https://kfgo.com/2022/06/02/self-driving-cars-from-gms-cruise-could-soon-carry-paying-riders-in-san-francisco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-06/02/2022-06-02T111812Z_3_LYNXMPEI510FA_RTROPTP_3_GM-RESULTS.JPG",
+          "width": 800,
+          "height": 544,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-02T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KFGO",
+        "domain": "kfgo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-pay-it-forward-the-opportunity-for-digital-banking-to-foster-financial-inclusion.md",
+      "title": "Pay It Forward: The Opportunity For Digital Banking To Foster Financial Inclusion",
+      "excerpt": "This is a challenge that is worthy of serious attention and rich in its potential to drive growth and improve lives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/02/pay-it-forward-the-opportunity-for-digital-banking-to-foster-financial-inclusion/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/02/pay-it-forward-the-opportunity-for-digital-banking-to-foster-financial-inclusion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//6297da60aa8f22da27e1620a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/02/pay-it-forward-the-opportunity-for-digital-banking-to-foster-financial-inclusion/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/06/02/pay-it-forward-the-opportunity-for-digital-banking-to-foster-financial-inclusion/amp/",
+      "publishedDateTime": "2022-06-02T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest.md",
+      "title": "Metaverse to create next evolution of consumer spending patterns: NatWest",
+      "excerpt": "The pandemic brought the urgent need for enterprises across the spectrum to adopt new and emerging technologies. The global banking sector has been at..",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest/91959600",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest/91959600",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-91959600,imgsize-47826,width-1200,height-628,overlay-etcio/metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest/91959600",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest/91959600",
+      "publishedDateTime": "2022-06-02T02:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-uvalde-shooting-was-one-more-blow-to-parents-hopes-that-they-can-control-kids-lives.md",
+      "title": "Uvalde shooting was one more blow to parents’ hopes that they can control kids’ lives",
+      "excerpt": "As funerals for the Uvalde school shooting victims continue, we are reminded that the loss of a child is a parent’s worst nightmare. Parents live every day, whether they realize it or not, with that possibility.",
+      "sourceUrl": null,
+      "webUrl": "https://www.star-telegram.com/opinion/nicole-russell/article262038882.html",
+      "originalUrl": "https://www.star-telegram.com/opinion/nicole-russell/article262038882.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-02T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fort Worth Star-Telegram",
+        "domain": "star-telegram.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-a-fresh-start-for-a-walk-in-the-park.md",
+      "title": "A Fresh Start for a Walk in the Park",
+      "excerpt": "The Frederik Meijer Gardens & Sculpture Park had a human face long before it received its new welcome center. Send any friend a story As a subscriber, you have 10 gift articles to give each month. Anyone can read what you share.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/06/02/arts/design/meijer-gardens-and-sculpture-park-welcome-center.html",
+      "originalUrl": "https://www.nytimes.com/2022/06/02/arts/design/meijer-gardens-and-sculpture-park-welcome-center.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/06/05/multimedia/05sp-design-meijer1/05sp-design-meijer1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/06/02/arts/design/meijer-gardens-and-sculpture-park-welcome-center.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/06/02/arts/design/meijer-gardens-and-sculpture-park-welcome-center.amp.html",
+      "publishedDateTime": "2022-06-02T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-why-ai-and-ml-is-reshaping-the-fintech-industry.md",
+      "title": "Why AI and ML is Reshaping the Fintech Industry",
+      "excerpt": "Andreas Braun, Director of Artificial Intelligence & Data Science at PwC Luxembourg, discusses data, AI and Machine Learning in fintech innovation",
+      "sourceUrl": null,
+      "webUrl": "https://fintechmagazine.com/financial-services-finserv/why-ai-and-ml-is-reshaping-the-fintech-industry",
+      "originalUrl": "https://fintechmagazine.com/financial-services-finserv/why-ai-and-ml-is-reshaping-the-fintech-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bizclikmedia.net/1800/35a93d254ade38e315333635bcc6b5f8:aa22f25fa98df3173136a75d085c2ce9/andreas-braun-3.JPG.jpg",
+          "width": 1800,
+          "height": 1011,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-02T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fintechmagazine",
+        "domain": "fintechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-ai-and-ml-key-combatants-in-the-cyber-security-conflict.md",
+      "title": "AI and ML: Key combatants in the cyber security conflict",
+      "excerpt": "Artificial intelligence and its subset machine learning are now key technology partners in the search for improved and faster cyber security processes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/kYbe9MXb61YvAWpG",
+      "originalUrl": "https://www.itweb.co.za/content/kYbe9MXb61YvAWpG",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/vYkpjEzwFxX7WoWvv6pXqSmM-0Vy0whE8WTdxfaPH6QwmIIkCRCvWMwPnRKSXbjPfGVTQY5Ls6G5BZ5S9raS7ZY=w816-h428",
+          "width": 761,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/kYbe9MXb61YvAWpG",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/kYbe9MXb61YvAWpG",
+      "publishedDateTime": "2022-06-02T00:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-role-of-conversational-ai-in-healthcare-and-pharma-industry.md",
+      "title": "Role of Conversational AI in Healthcare and Pharma industry",
+      "excerpt": "Artificial intelligence (AI) techniques that allow machines to learn with minimal human supervision have emerged due to the exponential rise in comput..",
+      "sourceUrl": null,
+      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/role-of-conversational-ai-in-healthcare-and-pharma-industry/91957736",
+      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/role-of-conversational-ai-in-healthcare-and-pharma-industry/91957736",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-91957736,imgsize-65798,width-1200,height-628,overlay-ethealthworld/role-of-conversational-ai-in-healthcare-and-pharma-industry.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/role-of-conversational-ai-in-healthcare-and-pharma-industry/91957736",
+      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/role-of-conversational-ai-in-healthcare-and-pharma-industry/91957736",
+      "publishedDateTime": "2022-06-02T00:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-microsoft-is-building-an-arm-powered-windows-mini.md",
+      "title": "Microsoft is building an ARM-powered Windows mini",
+      "excerpt": "Microsoft surprised the world — and its hardware partners — by releasing its first laptop: The Surface Book. It was a flop. But, unlike some Microsoft hardware experiments I could mention — the Surface tablet,",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3662313/microsoft-is-building-an-arm-powered-windows-mini.html",
+      "originalUrl": "https://www.computerworld.com/article/3662313/microsoft-is-building-an-arm-powered-windows-mini.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/05/24/16/build_blog_project_volterra-100928374-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3662313/microsoft-is-building-an-arm-powered-windows-mini.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3662313/microsoft-is-building-an-arm-powered-windows-mini.amp.html",
+      "publishedDateTime": "2022-06-02T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-02-facial-recognition-market-growth-analysis-2022-with-cagr-of-17-by-developments-and-trends-to-2028.md",
       "title": "Facial Recognition Market Growth Analysis 2022 with CAGR of 17% By Developments and Trends to 2028",
       "excerpt": "Facial Recognition market size will Expected to Reach at a CAGR of 17% in terms of revenue to reach a value of USD 13 billion by 2028. This Facial Recognition Market Research Digital solutions for ...",
@@ -714,414 +1112,6 @@
         "AWS AI",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-magnetic-encoders-support-the-stabilization-control-of-a-self-balancing-two-wheeled-robotic-vehicle.md",
-      "title": "Magnetic encoders support the stabilization control of a self-balancing two-wheeled robotic vehicle",
-      "excerpt": "In the design of a self-balancing two-wheeled robotic vehicle, accurate high-speed measurement of angular rotation is a key requirement. Furthermore, the",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/magnetic-encoders-support-the-stabilization-control-of-a-self-balancing-two-wheeled-robotic-vehicle/",
-      "originalUrl": "https://www.therobotreport.com/magnetic-encoders-support-the-stabilization-control-of-a-self-balancing-two-wheeled-robotic-vehicle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/05/renishaw-sponsored-featured-image-june2022.png",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T13:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-artificial-intelligence-in-platform-as-a-service-market-to-eyewitness-massive-growth-by-key-players-rainbird-ai-azure-wipro.md",
-      "title": "Artificial Intelligence in Platform as a Service Market to Eyewitness Massive Growth by key players Rainbird AI, Azure, Wipro",
-      "excerpt": "Ample Market Research published a new research report Artificial Intelligence in Platform as a Service (PaaS) market contains a clear arrangement of the declared information as pie charts, follows, the line follows,",
-      "sourceUrl": null,
-      "webUrl": "https://xaralite.com/373750/news/artificial-intelligence-in-platform-as-a-service-market-to-eyewitness-massive-growth-by-key-players-rainbird-ai-azure-wipro/",
-      "originalUrl": "https://xaralite.com/373750/news/artificial-intelligence-in-platform-as-a-service-market-to-eyewitness-massive-growth-by-key-players-rainbird-ai-azure-wipro/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "xaralite.com",
-        "domain": "xaralite.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-business-travelers-face-higher-prices-and-packed-flights-hotels.md",
-      "title": "Business travelers face higher prices, and packed flights, hotels",
-      "excerpt": "After a pandemic freeze, business travel is coming back, but upgrades to premium airline seats and hotel rooms are harder to come by and amenities have been scaled back.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/business/business-news/business-travel-returns-high-prices-packed-flights-hotels-rcna29089",
-      "originalUrl": "https://www.nbcnews.com/business/business-news/business-travel-returns-high-prices-packed-flights-hotels-rcna29089",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-03/220323-newark-liberty-intl-travelers-2021-ac-631p-857e75.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna29089",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna29089",
-      "publishedDateTime": "2022-06-01T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-azure-active-directory-logs-are-lagging-alerts-may-be-wrong-or-missing.md",
-      "title": "Azure Active Directory logs are lagging, alerts may be wrong or missing",
-      "excerpt": "\"Customers using Azure Active Directory and other downstream impacted services may experience a significant delay in availability of logging data for resources,\" the Azure status page explains. Tools including Azure Portal,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/06/01/azure_ad_logging_problem/",
-      "originalUrl": "https://www.theregister.com/2022/06/01/azure_ad_logging_problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2021/05/25/azure.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/06/01/azure_ad_logging_problem/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/06/01/azure_ad_logging_problem/",
-      "publishedDateTime": "2022-06-01T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-invia-robotics-wins-the-2022-technology-innovation-goods-to-person-robotics-award-from-frost-sullivan.md",
-      "title": "inVia Robotics Wins the 2022 Technology Innovation Goods-to-Person Robotics Award from Frost & Sullivan",
-      "excerpt": "Leading eCommerce logistics Automation Company is recognized for providing innovative solutions to supply chain challenges WESTLAKE VILLAGE, Calif., June 1, 2022 /PRNewswire/ -- inVia Robotics –– a leader in eCommerce fulfillment automation systems –– has been awarded this year’s Best Practices Technology Innovation Leadership Award in the North American goods-to-person robotics market by Frost & Sullivan,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-robotics-caa17338884ab022e55ec35c9121a2fa",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-robotics-caa17338884ab022e55ec35c9121a2fa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-automate-vending-amazon-sagemaker-notebooks-with-amazon-eventbridge-and-aws-lambda.md",
-      "title": "Automate vending Amazon SageMaker notebooks with Amazon EventBridge and AWS Lambda",
-      "excerpt": "Having an environment capable of delivering Amazon SageMaker notebook instances quickly allows data scientists and business analysts to efficiently respond to organizational needs. Data is the lifeblood of an organization, and analyzing that data efficiently provides useful insights for businesses. A",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-vending-amazon-sagemaker-notebooks-with-amazon-eventbridge-and-aws-lambda/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-vending-amazon-sagemaker-notebooks-with-amazon-eventbridge-and-aws-lambda/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/26/ML-5603-image001.png",
-          "width": 811,
-          "height": 441,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T09:29:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-intel-arc-mobile-graphics-performance-preview-a-new-player-enters-the-gpu-game.md",
-      "title": "Intel Arc Mobile Graphics Performance Preview: A New Player Enters The GPU Game",
-      "excerpt": "I was able to not only go under the hood of an Intel Arc Graphics reference platform laptop from one of its OEM partners, but I can also now share with you an extensive array of performance metrics as well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2022/06/01/intel-arc-mobile-graphics-performance-preview-a-new-player-enters-the-gpu-game/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2022/06/01/intel-arc-mobile-graphics-performance-preview-a-new-player-enters-the-gpu-game/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62965cf3efbd9026d0d94143/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-run-text-classification-with-amazon-sagemaker-jumpstart-using-tensorflow-hub-and-hugging-face-models.md",
-      "title": "Run text classification with Amazon SageMaker JumpStart using TensorFlow Hub and Hugging Face models",
-      "excerpt": "In December 2020, AWS announced the general availability of Amazon SageMaker JumpStart, a capability of Amazon SageMaker that helps you quickly and easily get started with machine learning (ML). JumpStart provides one-click fine-tuning and deployment of a wide variety of pre-trained models across popular",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-text-classification-with-amazon-sagemaker-jumpstart-using-tensorflow-hub-and-huggingface-models/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-text-classification-with-amazon-sagemaker-jumpstart-using-tensorflow-hub-and-huggingface-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/01/text-classification-jumpstart.jpg",
-          "width": 1000,
-          "height": 501,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T09:25:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-finish-robotics-brings-robotic-painting-to-life.md",
-      "title": "Finish Robotics Brings Robotic Painting To Life",
-      "excerpt": "Finish Robotics brings factory-level automation and productivity to the construction site. Pittsburgh, PA - Finish Robotics, a recent entrant into the",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/finish-robotics-brings-robotic-painting-to-life",
-      "originalUrl": "https://www.digitaljournal.com/pr/finish-robotics-brings-robotic-painting-to-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.getnews.info/uploads/d9e065ff2a5a506c56bb783399a24f49.png",
-          "width": 526,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],
