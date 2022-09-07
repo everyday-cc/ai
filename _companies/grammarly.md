@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "grammarly"
   url: "https://twitter.com/grammarly"
-  followers: 223233
+  followers: 223237
 
 size: 201-500 employees
 yearFounded: 2009
