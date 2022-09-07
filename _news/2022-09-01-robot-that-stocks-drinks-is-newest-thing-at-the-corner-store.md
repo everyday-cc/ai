@@ -1,90 +1,28 @@
 ---
 category: news
 title: "Robot that stocks drinks is newest thing at the corner store"
-excerpt: "A small robot with a clip-like hand and the smarts to know which drinks are popular is part of an effort to make convenience stores even more convenient"
-publishedDateTime: 2022-09-01T13:52:00Z
-originalUrl: "https://abcnews.go.com/Weird/wireStory/robot-stocks-drinks-newest-thing-corner-store-89163673"
-webUrl: "https://abcnews.go.com/Weird/wireStory/robot-stocks-drinks-newest-thing-corner-store-89163673"
-ampWebUrl: "https://abcnews.go.com/amp/Weird/wireStory/robot-stocks-drinks-newest-thing-corner-store-89163673"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Weird/wireStory/robot-stocks-drinks-newest-thing-corner-store-89163673"
+excerpt: "then the robot slithered to the right spot and placed the drink on the shelf — in a place chosen after its artificial intelligence and tiny cameras matched the kind of beverage to what’s ..."
+publishedDateTime: 2022-09-01T13:11:00Z
+originalUrl: "https://nypost.com/2022/09/01/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/"
+webUrl: "https://nypost.com/2022/09/01/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/"
+ampWebUrl: "https://nypost.com/2022/09/01/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/09/01/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/amp/"
 type: article
-quality: 59
-heat: -1
-published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_50fa119f88e046efacc597befb3a52ab_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2022/09/japan-convenience-store-robot-drinks-comp-1.jpg?quality=75&strip=all&w=1024"
+    width: 1024
+    height: 682
     isCached: true
 
-related:
-  - title: "Meet the Japanese Robot Who Stocks Drinks at the Corner Store"
-    excerpt: "A robot in Tokyo named TX SCARA is helping stock drinks at FamilyMart convenience stores following a worker shortage."
-    publishedDateTime: 2022-09-01T15:09:00Z
-    webUrl: "https://www.entrepreneur.com/article/434550"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1662046330-robot-convience-stores-japan-getty.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Newest Thing At The Corner Store: A Robot That Stocks Drinks"
-    excerpt: "A small robot with a clip-like hand and enough smarts to know which drinks are popular is part of an effort to make convenience stores even more convenient."
-    publishedDateTime: 2022-09-01T19:18:00Z
-    webUrl: "https://www.huffpost.com/entry/robot-stocks-drinks-corner-store_n_631103d8e4b07d96a24c5c49"
-    type: article
-    provider:
-      name: HuffPost
-      domain: huffpost.com
-    quality: 49
-  - title: "Robot that stocks drinks is newest thing at the corner store"
-    excerpt: "A small robot with a clip-like hand and the smarts to know which drinks are popular is part of an effort to make convenience stores even more convenient."
-    publishedDateTime: 2022-09-02T07:40:00Z
-    webUrl: "https://www.seattletimes.com/business/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/"
-    ampWebUrl: "https://www.seattletimes.com/business/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
-  - title: "For Japan’s small shops, robot in store"
-    excerpt: "A small robot with a clip-like hand and enough smarts to know which drinks are popular is part of an effort to make convenience stores even more convenient."
-    publishedDateTime: 2022-09-04T06:50:00Z
-    webUrl: "https://www.arkansasonline.com/news/2022/sep/04/for-japans-small-shops-robot-in-store/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 39
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2022/09/04/2Gjapan0904-1cmyk_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Robot that stocks drinks is newest thing at the corner store"
-    excerpt: "TX SCARA can restock up to 1,000 bottles and cans a day  Tokyo: A small robot with a clip-like hand and enough smarts to know which drinks are popular is part of an effort to make convenience stores even more convenient."
-    publishedDateTime: 2022-09-03T19:47:00Z
-    webUrl: "https://gulfnews.com/technology/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store-1.1662234433501"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 19
-
-secured: "m7rPWzzDTEbuAc0DI5M5EWsEtj7LHqFHiHYTkxoX1w0to4Ru0xBB9AXyMRV6Ky9oj+inJlWPadKE1ilkZ+2gcVZ5e+p9qLrllJrwujybBGG29t6Yx38hYkWQR2Ob3czJwZqPzFFI32vK9vPEclS+HfIFQdbAF3Lc6Rbbjq27/qnRsHp1SqGu8XOV3buN+TtZOPv0b9bkPsw+6V268qMZe/XAr3deNRqGImHnnE84oD4FMP7QiZeV9qnk+8hOIF+YuXTJxlCxc9XOB38vwLbg2klqCIgULgDco96LF9AGUb6m1uLsf+oTimc266xzZkGgalYGbMYi4Rq4a8GiRtqpOcZpowLFdNTXFxO2WjqT/CkfoBHZiqClG0i6i8GPyCIRzNZTAb91FuMcjDQfqKq6PumBZOXnfJh8qjIOJgyJJ9aAbftDKg7m0Kngo+RGmlCeF2lFAsF0XhuCuKmgYrK3jpLbae/gSFqNXjJYi67Eixdy1pJTTQ6cPIArAqx5IlsYTtWK/1AWoOhcqYC721kW9w==;hW2i9dCt2xSZsWv9Uor+pA=="
+secured: "WqBJdGTiyyidEMhvFaxLHoHmqDJHwIK7o7rzg7jVv9tG6DvV29JNO3XabFFTdRCczV7OvW5h3aeq2Yroxp49rWf5zbWjiA4HPZv0wySSNe4IzuZloKW6U9SOGxCro4Iu9f5dFbycfwo5BjWWeg241PQ8dZvE4UA1nZxCUQsVDb2/yXkJely2q/z/bhVcSbKoHa363ZZmPhotHs5KiqaRKY3UdGrj4kdAH4a4Cfc7J6s1xse6A4IsZ135vOrNpr6Bn6gzp1bk5O1Fwt3q4r2zKLmDks+6zFZWpYV2IPmTlxg/ipWXyIcIm43/KW2R+bkknXRN5KuzKC++vKMP8YmHcxbAUjUf4pSCUkVnznjA48c=;hMPj2EUzTNNycrqrT11uTw=="
 ---
 

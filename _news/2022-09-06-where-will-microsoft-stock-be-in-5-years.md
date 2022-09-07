@@ -34,6 +34,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "The Head Of Xbox Game Studios Wants Artificial Intelligence For QA Testing"
+    excerpt: "At a Q&A during PAX West, Xbox Game Studios head Matt Booty expressed a desire to bring AI technology to QA and testing in video games. As spotted by VGC, Booty stated that he has asked AI researchers to develop a system that could test games."
+    publishedDateTime: 2022-09-06T18:41:00Z
+    webUrl: "https://www.gamespot.com/articles/the-head-of-xbox-game-studios-wants-artificial-intelligence-for-qa-testing/1100-6507135/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/the-head-of-xbox-game-studios-wants-artificial-intelligence-for-qa-testing/1100-6507135/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/the-head-of-xbox-game-studios-wants-artificial-intelligence-for-qa-testing/1100-6507135/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 57
+    images:
+      - url: "https://www.gamespot.com/a/uploads/original/1690/16904437/3999506-3423520525-35443.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Xbox's Matt Booty Dreams About Using AI To Do QA Testing"
     excerpt: "So Matt Booty will no doubt have enamored himself no end to such people with the weekend’s tone-deaf statement. As reported by VGC, Booty was explaining how each time a new feature is added, a game needs to be re-tested start to finish."
     publishedDateTime: 2022-09-05T12:12:00Z
@@ -45,15 +61,6 @@ related:
       name: Kotaku
       domain: kotaku.com
     quality: 37
-  - title: "The Head Of Xbox Game Studios Wants Artificial Intelligence For QA Testing"
-    excerpt: "At a Q&A during PAX West, Xbox Game Studios head Matt Booty expressed a desire to bring AI technology to QA and testing in video games. As spotted by VGC, Booty stated that he has asked AI researchers to develop a system that could test games."
-    publishedDateTime: 2022-09-06T18:41:00Z
-    webUrl: "https://www.gamespot.com/articles/the-head-of-xbox-game-studios-wants-artificial-intelligence-for-qa-testing/1100-6507135/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 15
 
 secured: "j4Z9Xo9Z/0U9wL2DETeLPIZnqaOTft5lcWrVF2G90hNNp4RStiyWAbhhw0evQXQzL5TUn3d/AelLRGIw1nZy/Fudbqawkt9NrKqQdeyMc4H00GJGQuuPZYw0mzKXiItVMn5JfwH2MaCaKDD88IPYqxmcjak/mKDS1aucMM5ad15y5OQXM9YAGtzCed/xpw/Bb3fbz1lFQOyHjBB8nyO+J6cHWsKntf6PPYcYzPfjZUh+b8jAkPzKtS8YaY8+vfBW0zNWDZfzFsD/zCkfwn67StCkPBMlr5Q2+lrsmlYHvAx3V0f17HFAUIyarHFf4D83EFEwy+FtUlEazKkWbgFjAm3FDLpW8aUT+NPh2gN7xhQgA9CM5WHu4raoeQ1UKZmBUCiy/lqg3ADjGnxyf1FCS7eeCxLo1iAiBMpOqMagaHtFvynRkdMiy0b1zbShvkmJsM6kS0HwURRi/D/QO7teomjZYR2p7gGOBY4xOo8QnaRwzLl8kWxY6W8D86w9VnIPZZ1nWVDDq9JNP8R86oeDdg==;1keEe2NDCfzZ8oYjpTnDaw=="
 ---

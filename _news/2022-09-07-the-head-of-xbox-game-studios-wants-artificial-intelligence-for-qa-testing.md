@@ -5,8 +5,10 @@ excerpt: "At a Q&A during PAX West, Xbox Game Studios head Matt Booty expressed 
 publishedDateTime: 2022-09-06T18:41:00Z
 originalUrl: "https://www.gamespot.com/articles/the-head-of-xbox-game-studios-wants-artificial-intelligence-for-qa-testing/1100-6507135/"
 webUrl: "https://www.gamespot.com/articles/the-head-of-xbox-game-studios-wants-artificial-intelligence-for-qa-testing/1100-6507135/"
+ampWebUrl: "https://www.gamespot.com/amp-articles/the-head-of-xbox-game-studios-wants-artificial-intelligence-for-qa-testing/1100-6507135/"
+cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/the-head-of-xbox-game-studios-wants-artificial-intelligence-for-qa-testing/1100-6507135/"
 type: article
-quality: 15
+quality: 57
 heat: -1
 published: false
 
@@ -16,6 +18,13 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://www.gamespot.com/a/uploads/original/1690/16904437/3999506-3423520525-35443.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "Xbox’s Matt Booty Asked Microsoft To Invent AI Bot QA Testers For Games"
@@ -53,6 +62,6 @@ related:
       domain: kotaku.com
     quality: 37
 
-secured: "8UzIy+q9GBoiqcP4+nkM1oKn6jhC90RcP2WBx++6+2Du8c8BykW25X7TO4Yudo4sbCTXkCJILwg5YuOdZDHTa4ytOTvitBZ6fqxtLNMUY4qvLjcA/pLCEFRha9MwRGotsi08lri2/CTe6k3ZEKdNF3V9Oaf9lvo3SD1kQnmcjZq6TCgTU0GLG16Uv84zMxtUnoFqLrVApqHlLEWF8SX6i2BKwYNCXfo7ox2fOoTUlL9cNYWmIolr0pWrn12oZdWkzGJbj1Aeo2Q8Fgbu0f5nz/myW/RI4/iygcLtuYUGW6a1P99G+3gVsF/d58mY4x0ktthdhw4rRoAqGsRQcafArynsxJhzCG0AApQ7ZbWj8v5CHvQh63RP3Y4yKWKKSiu8S/VCvIaMxluhL28FYtEgoq65e05i2ciquxJqtHSRG8cNxSTABh0rG5xDVZolY9g9XfahYmtEH5HlLX+MPODmA3A9+nJkA0TehhWH57tJ+mT7N5a511Xfm6oCzSSTloO/PzC+p+ZiZncP47yhbf+hyA==;E0gAN0orM5rkcJl67iEyzg=="
+secured: "yC5e4MqfMV4MkP89gjTuue7zk3tCo7U9OwFQLtFXKTSa0/D2hABZ9y3N3U+FT8ZvfdAegj9/VkUSRVonrC0+W26pkyYL/cdOI+IF6kSOLCSdKn5OSLBjkMGoEjl+OPi2sakOdeMhAl7T295hhlbgrfbJICx1PTQ4Knw7PJ9Xo1IeY1nGqnd9crkJnpYjVdAmGmEOjJSmo/ubRItVqf40Atf3sd8avL0RpWXidZ89yJkmVWlFi1Joa26k1Nfr0zcPMl+BGJIBYn47WsBYq4hk1Zzx0YvdsCBzDdUcfyJ26VO5tSnOFLd7dBuzfQ4uC3cX7bys/9XBXW2nmyjGuEvz9mlg1x070eLDiEsIto8Mdqk=;VyAW79gI64rqV/bLPCMSig=="
 ---
 

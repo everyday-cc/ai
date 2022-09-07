@@ -33,7 +33,7 @@ related:
     provider:
       name: Hebdo Ahram
       domain: ahram.org.eg
-    quality: 22
+    quality: 24
     images:
       - url: "https://english.ahram.org.eg/Media/News/2022/9/5/41_2022-637979797239842358-984.jpg"
         width: 800

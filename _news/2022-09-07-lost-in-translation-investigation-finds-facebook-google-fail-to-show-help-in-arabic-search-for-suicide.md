@@ -6,7 +6,7 @@ publishedDateTime: 2022-09-06T18:06:00Z
 originalUrl: "https://english.ahram.org.eg/NewsContent/7/48/475464/Life--Style/Health/Lost-in-translation-Investigation-finds-Facebook,-.aspx"
 webUrl: "https://english.ahram.org.eg/NewsContent/7/48/475464/Life--Style/Health/Lost-in-translation-Investigation-finds-Facebook,-.aspx"
 type: article
-quality: 22
+quality: 24
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://english.ahram.org.eg/Media/News/2022/9/5/41_2022-637979797239842358-984.jpg"
@@ -40,6 +41,6 @@ related:
         height: 900
         isCached: true
 
-secured: "1rbA5me35uaSmqPi25bl+Tvtno9kq6d2+5u/iNvlMc2JFLPUaWS9XyrLqTbEFH7fK3bebUEsd5CFPiqAn7nBDDyF3GZtmlmEYf4iPEXeewA3AKkiTCx9YCUnoHeSE6za3OeCU2WzaEt6XQKjfyVyEvtx+iDMALZ4Ul0WjaR/dXcqV7VNblCu6Bt9ciG4LjBPjccgfhK6muAhnPBq4Dgko23Y0apRvRi2mvvk0cMLRjOWWBcTy4EJEWIakpOEeWMvqkr51W24pUE664eWnUnEePJghYk09SU6GSAFAlnpyHVu1qInHJ9I6iiX32VRxZ5T7UjUSQaBPHeWe25I+bZWoAfGmTplY0mCxq/gCoa/Bf8=;iVls+1ny53GTa0Fs7rCFaw=="
+secured: "Gq/di8Bm905G3foRj1SVL7e83+XLjwR1Wv4+H6T6hNYN+tGtcGcTAXZ342D28GJ9NJ+WX+bPsLMBQ72+GHCt8YthYJ4tm+G072i4LF3I69arfSdU+59cfOJc6nBXf+a2X4N2Kg2qBYNFqhsJdzrwVGx6U9nxCKANEExQ09Af0hhC6ZekYumimDf2KOxtVuDoEbTGADKz7mK42AZRakBn9KZxcZzRDnK4PiH8yrePaDcsrSNKmcYDGdNNN6sCocEkK00F0R2+YbLVMWSfr33xZmtj4aBE0L9OUVedKGdSFAr4tJA2iAzPshsLEsK0xQ4fdyBtEqJNjdmKNDgudkRVV/22KJfmm+/bgNuAf3hFquz6EFt8xOhFpzR6ZcFVFb4YIg4/XSDk/Gp3/Ul2/rVBAiV24FrXztBZcwRnjgow1NCJwojpaBMJpeAIy3rS7pXI7REUz/DWWhcAYJkrIRpErtq3jaF+42Fn/uoB6LVIGoi3hTi9VWeSAMR3+qxH/dK45e50VGQm9UGXf+4Hp/dmtg==;4jJUF8eokHJ7QG8ogQOQeQ=="
 ---
 

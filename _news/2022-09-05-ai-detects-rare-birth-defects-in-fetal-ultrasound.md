@@ -3,13 +3,13 @@ category: news
 title: "AI Detects Rare Birth Defects in Fetal Ultrasound"
 excerpt: "A new study demonstrates how AI deep learning can be used to diagnose a rare embryonic developmental disorder called cystic hygroma within the first trimester of pregnancy from fetal ultrasound images."
 publishedDateTime: 2022-09-05T16:01:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound"
-webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound?amp"
+originalUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound"
+webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound"
+ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound?amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
   domain: psychologytoday.com
 
 topics:
+  - Machine Learning
   - AI
 
 images:
@@ -25,6 +26,6 @@ images:
     height: 800
     isCached: true
 
-secured: "duh1ljRWDK8VBuhpMVYdo0KXB3VvKUTpauicFYcZe2wTbfZmwUpyVCP29A+Fimb8WDdVQcOInZhwZz599CkFoUDAjtH6M40RHHDFgUwbTCgnUzoX0dtlY2RjxpBpRyBipnyEFZqshH3rjdzzNccZsdIX1czQD/TT4ZRXzlzkwGryA6kBuVysJYWgVGsXN0eaNLwhUws/Y/JQ6eXPrmQkhTegWvRHMC5r2tsYpaqV3XAwmWCOQXRRTRuiawf4e7UzhxJOpE2RCPR5hlqKg2W6fzrev7eEwvAyjsOvwdBEh3WEckVswXkhbs7KjN5tr87/C2Nsn8o7CHYgg15pEddfhRpWWPcs3C6Acl9Ouzx5cu8=;E+4xofsHf+F/WR0Wd3BVdg=="
+secured: "Wg7tsBG+U0x5uTlb+jWgYj61x6EB/zL1CH3pD+KyteGs4WEPCeoKShfzMxLn5Ktl8562Gec/RpOXxTpXEs7TAvj4s+TerYHrCsKnc/OOI+Bm0TNY3M/wKlx9uQoKbMpp3o0TImXlbJ8CoPXzElbtAzSeH4Rxiq05L/wi2lPHE69sqE7PhpgSS7YmwHuKqRQ2S1jjwTxkMySPnoFJlzlZ6Bb+qz/abRaLUZkrBzlCb3Ad0b7QVE+OQJWVfNTc0OTqkLbmI1KttB6L3oxCLlXp1NDgfhW0Moj2x6kasKMq2mMqdDiH9FiZfQI/yib0UqeJM7K0ntbBo1eAbvVSYAYghc6L7W71OHPI5IljW9uM+hE=;PGzwEazLzyJjRU2G4E62Fg=="
 ---
 

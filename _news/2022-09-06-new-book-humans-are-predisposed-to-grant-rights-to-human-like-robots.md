@@ -2,22 +2,26 @@
 category: news
 title: "New Book: Humans are Predisposed to Grant Rights to Human-like Robots"
 excerpt: "The more we interact with digital humans and humanoid robots, the more we see them as living beings with consciousness and personality. This raises dangers we need to address before fully integrating human-like technology in society."
-publishedDateTime: 2022-09-06T11:10:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-robotics-denmark-30825cea33ea8c9e588c8ddf1dadd63e"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-robotics-denmark-30825cea33ea8c9e588c8ddf1dadd63e"
+publishedDateTime: 2022-09-06T11:15:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/new-book-humans-are-predisposed-to-grant-rights-to-human-like-robots-1031725703"
+webUrl: "https://markets.businessinsider.com/news/stocks/new-book-humans-are-predisposed-to-grant-rights-to-human-like-robots-1031725703"
 type: article
-quality: 19
-heat: 19
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "5KmD/ougLQhf3nOfpAsk9U4/NqLmOV+Ag/WaCCI9I4UfOZTtKlDA4diYzvC1/lICuH6+xBxkzWKb91g/lKxUnMgRPjAOE4nbmjH6ED4GluBVGH/BcY7gnueaiAu3F3Ih69GTcKHAecAVCKKiKgKDdWn+Nw9n/agqH/cUwtAxI6hpiQbx6CICmuaLQk+oPvFwblxYVLfiq9YGYcdIEXP4PGzCIMQ74HKBLKFLNEYO64H+Hp/YhHXkloZzksYUPgpHiyH+iFi0IKAJaSNRfQyheSwuDdHrmin77s8J2JpS5v31VctmlnVOhotsYNrp2GjQLEKEaxZwOTa9t0uhH1LR0tQtYipUsJIt76BjesJQDfw=;9gzwbq+j5WdRWeF1WjX4fA=="
+secured: "jdFcwe+eoii+vmv7Sij6M64d+Yf7xE6rpNMswjSc6yPCu7wpFvdoE1O+MGj+i0VuYHaxR2iUB5cMyI60Yi0cjjMEpOgdnM9yIWwJ3tEnJeINeHoVdrXmQSI3bwTUVkJLE5U2ulwRVW8Jcurzp7z6QGUt5ZuufpJqRC9AL34LpPR2sTDMdaTJNScwDW/bQ1PQ73STXW0FJSOCGz7+vUKN1pm9xJrscQpEA+7mkwCYQ7PHfPWsBj0o4a3zxVsJ1def44ZpgRE1sy2ta5BUs6/pG2KJ5qI8Ia9IROlJWa6GHcmDkzMQwK2VYWyHiwwj6lsHKwPcSEPzhuXbBV6N21ccCMceqc0SgaCe2RLS0gt8TuM=;TORejEajE5FURYQESDIF4w=="
 ---
 

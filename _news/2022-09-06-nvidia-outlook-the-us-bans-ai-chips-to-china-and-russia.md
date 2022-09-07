@@ -71,20 +71,6 @@ related:
         width: 2048
         height: 1069
         isCached: true
-  - title: "With new China AI chip restrictions, US takes aim at a critical niche"
-    excerpt: "The restricted chips have the ability to carry out AI calculations quickly, at huge scale, and with high precision, necessary for tasks such as designing fighter jets The United States beefed up ..."
-    publishedDateTime: 2022-09-02T11:27:00Z
-    webUrl: "https://www.rappler.com/technology/china-ai-chip-nvidia-amd-restrictions-september-2022/"
-    type: article
-    provider:
-      name: Rappler
-      domain: rappler.com
-    quality: 54
-    images:
-      - url: "https://www.rappler.com/tachyon/2022/09/reuters-nvidia-sept-2022-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "Sale of top AI chips to be halted with China per U.S. decree"
     excerpt: "YARMOUTH, Maine – Multinational American technology company NVIDIA said in a Securities and Exchange Commission filing August 26 that U.S. Government officials are enforcing the restriction of sales for its top AI chips with China. The move comes as ..."
     publishedDateTime: 2022-09-02T17:47:00Z

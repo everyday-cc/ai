@@ -9,7 +9,7 @@ ampWebUrl: "https://troymedia.com/technology/how-artificial-intelligence-will-ch
 cdnAmpWebUrl: "https://troymedia-com.cdn.ampproject.org/c/s/troymedia.com/technology/how-artificial-intelligence-will-change-our-world/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 687
     height: 376
     isCached: true
-
-related:
-  - title: "Inworld AI makes life-like characters for virtual worlds"
-    excerpt: "With the rise of the metaverse, brands are realizing they need to market themselves on virtual platforms. But, humans being humans, real people exploring these worlds likely don’t want to interact with soulless chat bots."
-    publishedDateTime: 2022-09-02T10:00:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/awards/2022/09/02/inworld-ai-makes-characters-for-virtual-worlds.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "Xh928m0sswLYGBN7jg2NX6zWIDgKy1DWrAg4dkeCTR7HYSZAEkVErCtL2wF3n0zbN7BYiitXj1llPR/xcoZ8IyEMaqBzUdPmTYBKVGDCDI1T7ovntDF6vOwYCP3DKeq6WD0oXY/HlnpE3mnSX9fHFdOOrXJBix/G2qzXrkc/zCWZNBH57TM9iGy3fjfS1F0reYYO5xPBCdQi7A5FJhXnd588OtW4pD1G+TJsHTD0FJEyUG88X744+rvgDVhVoyLm7/kicmzhMYiT7l/15bnus+I0vZfP7ANxmfxK8QQZ4GMqOc+EzIJEx4Sk0TfJgYvzx663q90Io5pxKQExGEqlXuJjucECmfUFE55rGPDtLyvtUuKIcfvz5Jj3HC/Hn41hIYWtfjlrCt2Kew1Kak4RCZoDM7igCr7X6AeaJMRfGMDWzbasEVN/Q/42XW8AnSvyZO5XHGS4qP2GihaRC4oLioSdR4Zq0zz/nnPnNJ/HzSLnmGwedjaSNlUzMRC67GjzeYchDLC/LleNN56suvaUig==;C3XNkRUGEHEuEzOiOTNZHw=="
 ---

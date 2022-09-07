@@ -3,10 +3,10 @@ category: news
 title: "Identifying Undiagnosable Cancers Using Machine Learning"
 excerpt: "Researchers have developed a new deep-learning approach that may help classify cancers of unknown primary location, by taking a closer look at how their gene expression is related to early cell development and differentiation."
 publishedDateTime: 2022-09-05T09:05:00Z
-originalUrl: "https://www.technologynetworks.com/cancer-research/news/identifying-undiagnosable-cancers-using-machine-learning-365356"
-webUrl: "https://www.technologynetworks.com/cancer-research/news/identifying-undiagnosable-cancers-using-machine-learning-365356"
+originalUrl: "https://www.technologynetworks.com/tn/news/identifying-undiagnosable-cancers-using-machine-learning-365356"
+webUrl: "https://www.technologynetworks.com/tn/news/identifying-undiagnosable-cancers-using-machine-learning-365356"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://assets.technologynetworks.com/production/dynamic/images/content/365356/identifying-undiagnosable-cancers-using-machine-learning-365356-640x360.jpg?cb=20220905"
+    width: 640
+    height: 360
+    isCached: true
 
 related:
   - title: "Using machine learning to identify undiagnosable cancers"
@@ -36,6 +42,6 @@ related:
         height: 600
         isCached: true
 
-secured: "z8KdbEAL+wNJ2alPX/52xSKkiEaYEsfZ68u6r9WnBx9d4Xs/Q0jXSMP8zjmEI041CBa9t2Oe2/BDQLZl2W/Dp34gyJJIydunATgANlJbWl6dP74YBxV3TEAyysd2jFL+r97RUBfoQzIrlYqIdYBKBDccZqvK8OMn6GGMlWQPzgJAx7SIUwsa/20pXHrN5tDRLzLsPQkjNd+KUX1evKZ8OEqpzM8Hr0bRZtndBu59Fc1sNUK7ver3HBQXUPNT8njUb9FKYbm/7uJ5HRsxJKnnDNzOszknx3GXtXl8lE6WSgj9pAn5ycqxHkVMrMrYj9Xc/YhV4yvS9afGYJubzkeKufofX3XS9DitlEaZxA4h4vz2LZnjdW3effL9QU5DajNUZ12JWthu/phIikA0KFv2AM0HCPq3/tlCfWNzCPgFT9dMZx+Q1dfmLK/00X84cPD7UBsOFyjog7w4HCS1WjbejXpwa1hrBsYPGTpVCLjRs3ncD4pLyKH+AsMJI5raWDHS7syVks+HCaKi7+c+gheUnw==;PqqE2a+jssxC2ru7wJZ0yg=="
+secured: "ps4rMhSW/Fe95wSBYk27ZQCHBEm3kUM0Ihk2el9BO+pvxfxpCz5ZkpJ1JekTOSpEbzSIsB8RKnUEqx/4GCfH3MvGJh34NXAwsSQwlk4EWMZRQDkyMez2VQ+4iB4+hnwFAo7mHcd8IGTmtWp5gI078Ny1ES2xPITjmu4ZnrvuhlIp+z4lXcCkE/f8K1JIL/P+8O0gwcW2yPG/Vbjhmk4b0o82LLAo9Td1UAi49qDXlcTyb6Katkj++YVWOytLCEbl9wlOcxiRCckpkzOZtVnP0YTxJRX2YVXmJ8i4v4MLZyGzv9/v9r2ZbJI9TxBIX+f6zWFnAcBHlB19UqLfgeMVttzsJ+89F5dv94ZMSHD3KXQ=;cQesRI6IOTsPArzInIPEUQ=="
 ---
 
