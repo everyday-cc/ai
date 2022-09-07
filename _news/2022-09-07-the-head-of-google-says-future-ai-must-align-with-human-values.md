@@ -6,9 +6,6 @@ publishedDateTime: 2022-09-07T14:39:00Z
 originalUrl: "https://www.pcmag.com/news/the-head-of-google-says-future-ai-must-align-with-human-values"
 webUrl: "https://www.pcmag.com/news/the-head-of-google-says-future-ai-must-align-with-human-values"
 type: article
-quality: 67
-heat: 67
-published: false
 
 provider:
   name: PC Magazine
@@ -21,12 +18,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://i.pcmag.com/imagery/articles/05NdJNZwhf0rpoPHYGrtAgS-1.fit_lim.size_1200x630.v1662561158.jpg"
-    width: 1120
-    height: 630
-    isCached: true
-
-secured: "tkgBErW8CiuU/9HJRAmJnU5v2qhaYoaLyvqreeOA/RoZUc2Brv8e2GPIK302BLe4iAjvcoCtG+2E9w3+SvC+17r/UzgEZEru7Cg8JjxOBDS3gOv9P3IKGTQ4Gpk9xsAknQuYRAp1DNHYB07wvWtbPkusG1hknrmEvFPp9NZCHyVBnq/VmCaxYmqeYU1utHSnAJIYcxIE6TsRGTWUs5vZtIJJiooE3tQzkpYc0fzFpioShFaur/xvir6WRMJqlXBNCk+qe7/YjBpp1zZlro7vU3w8l3drK1MvG+IUUO+2i+XakD6ydQszZTb8It2qevqnifHbHZ0BPANmsNCksbX7SReW8fOorLYJ+Mc90mrLR0E=;SNtnvdva/0mCrRF+ZQOATg=="
+secured: "BuixLsiZnjFdUqlM+dQJs06sT2oDDd9hzAkpOxp4AUd/RzWUXg5LkQGo1PCwQr+SsMg0Se9StCcWSbEG2F02iS1pTqJC9TTdEEinWby2I5TMokP/v87x9cVmVg9VbSjCC/zcGEq2Bi0JbE/ieCToOgZmmFj2amdDjvEMjLUWzu7dpoHbY5DSOyQ68Tj6bvv0SepDU1b8yftS4UKqtwV5bi9Lkda+h0m1pJ7Bs7Lnuiq6jNJ22C8fkCzrM95tBXaJBwquGb4D9Xs5a2TsatNyKJd3KPWYKoOKbPqDfzg8H4jDMVm6e2/5iS7H0/6a/gXTLk9JeCP6NGpQ3Ep6omuHEECv5ccktChw92qeeiDW8Oo5M60dTdj+KtqVl/LObVAtp13tIN62aUqVyh9XpVKqxOqMA3hehyF0KepcvC1XOhVOWRWN11E+y5InauTEI4Q63RYhEHCpL3bq5X0SKGTvAuV42AzE0enEeLttCBZDo3Neag1bT7vphbaRcZTucWc5fQQdf77/7Z0Icw16/pb+7g==;YnP7cOS5r/f5Y7YBE3kfAg=="
 ---
 

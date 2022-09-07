@@ -1,41 +1,20 @@
 ---
 category: news
 title: "Artificial Intelligence tool could reduce common drug side effects"
-excerpt: "Artificial intelligence could help clinicians assess which patients are likely to encounter the harmful side effects of some commonly used antidepressants, antihistamines and bladder medicines."
-publishedDateTime: 2022-09-07T07:12:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/963877"
-webUrl: "https://www.eurekalert.org/news-releases/963877"
+excerpt: "Research led by the University of Exeter and Kent and Medway NHS and Social Care Partnership Trust, published in Age and Ageing, assessed a new tool designed to calculate which medicines are more likely to experience adverse anticholinergic effects on the body and brain."
+publishedDateTime: 2022-09-07T07:43:00Z
+originalUrl: "https://medicalxpress.com/news/2022-09-artificial-intelligence-tool-common-drug.html"
+webUrl: "https://medicalxpress.com/news/2022-09-artificial-intelligence-tool-common-drug.html"
 type: article
-quality: 19
-heat: -1
-published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
-  - AI
   - AI in Autos
+  - AI
 
-related:
-  - title: "The EU’s AI Act could have a chilling effect on open source efforts, experts warn"
-    excerpt: "As written, the European Union's AI Act, which seeks to regulate certain types of AI systems, could impose onerous requirements on open source developers, some experts believe."
-    publishedDateTime: 2022-09-06T14:54:00Z
-    webUrl: "https://techcrunch.com/2022/09/06/the-eus-ai-act-could-have-a-chilling-effect-on-open-source-efforts-experts-warn/"
-    ampWebUrl: "https://techcrunch.com/2022/09/06/the-eus-ai-act-could-have-a-chilling-effect-on-open-source-efforts-experts-warn/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/06/the-eus-ai-act-could-have-a-chilling-effect-on-open-source-efforts-experts-warn/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 82
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png"
-        width: 2000
-        height: 2000
-        isCached: true
-
-secured: "kN6irMsggYnZ1MKP67iOzFqotYifDpUxQp2WKpUzY7tAyvSGf/Uwqj0QKcnw/ZhGXrPDhbnTX62apI90P9RPGwNyNGtwy+4rmB0S54ZkupN+r7b1CqSiI57ANrwQxbDUVt+XQswSOsHiSEzpYGKBdfHXL1tq09qeQ5r08QD8iN2dTh95UujBmj6YIab9p9qCfNDipv3liFxm1PR5cxWLjRDvJuRWwxogVb0j9okFLTGrMDdUkdvlXjz1ut4ncAcXjdVtABI+rqRMAOkrO+tsBFOjN5uXAm1cIV+0IMjxf6n/rvaqOyexSTLdo1QrSbVMZgiRdAFoWDTezcDGZmw1AZz0N8Lbfn9F4+DUQMr/IZs=;04rkP0uWWGVxjCpUH/w1QQ=="
+secured: "6N0l8ohGTt/1HIczJlbkqbJCPDM1ZZL05VQhnUOOHYtyMb7xkldn3fF6Lv2pI+Ivr+6VOK25Rl8O6O+Il6EyChDdsyBTFisltP/9KX21UUXTCIDo+LJSTFD4LP6Z/y1GLRStdwJkrhA6MVSZTbrl8c5X/bQNAKTdu9dCSR7KK2dknvuYW/ZkVWcWxqfkjIFew5Y92f8UOh1LP3nZRhJMGVbBC8vYvqBPSrCuCdHBK9T+WjGV98MRtX8Q9cKmYkNlq5DWOHgoVbDC42U8DwRkoG5ADMDc4TOyXuoaLIUGQA/toyQAlwSnRHInqseNoJeZ5SYwnWRq6cyf+1E48Ojh/63bpO1At4OFZ4ztX5yjRLg=;IOSTKLM/phdjinvNHbBKZg=="
 ---
 
