@@ -62,7 +62,7 @@
       "originalUrl": "https://www.gadgetsnow.com/tech-news/this-is-likely-why-us-banned-ai-chips-to-china/articleshow/94026320.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -105,7 +105,7 @@
       "originalUrl": "https://stratechery.com/2022/ai-chips-and-china-geopolitical-considerations-nvidia-considerations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -657,11 +657,11 @@
     },
     {
       "path": "_news/2022-09-01-us-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts.md",
-      "title": "U.S. Export Ban on Some Advanced AI Chips to Hit Almost All China Tech Majors - Analysts",
-      "excerpt": "SHANGHAI (Reuters) - A U.S. order to ban exports of some advanced chips to China is likely to hit almost any major tech company running public clouds or advanced artificial intelligence training ...",
+      "title": "U.S. export ban on some advanced AI chips to hit almost all China tech majors - analysts",
+      "excerpt": "A U.S. order to ban exports of some advanced chips to China is likely to hit almost any major tech company running public clouds or advanced artificial intelligence training modules in the country ...",
       "sourceUrl": null,
-      "webUrl": "https://money.usnews.com/investing/news/articles/2022-09-01/u-s-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts",
-      "originalUrl": "https://money.usnews.com/investing/news/articles/2022-09-01/u-s-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts",
+      "webUrl": "https://www.nasdaq.com/articles/u.s.-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts",
+      "originalUrl": "https://www.nasdaq.com/articles/u.s.-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -669,23 +669,14 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.nasdaq.com/articles/u.s.-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/u.s.-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts?amp",
       "publishedDateTime": "2022-09-01T03:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1018,6 +1009,51 @@
       ]
     },
     {
+      "path": "_news/2022-08-30-us-startup-simaai-starts-shipping-machine-learning-chip-and-system.md",
+      "title": "U.S. Startup SiMa.ai Starts Shipping Machine Learning Chip And System",
+      "excerpt": "industrial robots, and eventually self-driving cars in, San Jose, California, U.S., in this undated handout photo. Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305",
+      "originalUrl": "https://www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.ibtimes.com/en/full/3810267/us-startup-simaai-starts-shipping-machine-learning-chip-system.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305?amp=1",
+      "publishedDateTime": "2022-08-30T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-this-mighty-brain-chip-is-so-efficient-it-could-bring-advanced-ai-to-your-phone.md",
       "title": "This Mighty Brain Chip Is So Efficient It Could Bring Advanced AI to Your Phone",
       "excerpt": "The NeuRRAM chip is a powerful neuromorphic computing behemoth with 48 parallel cores and 3 million memory cells.",
@@ -1058,42 +1094,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-us-startup-simaai-starts-shipping-machine-learning-chip-and-system.md",
-      "title": "U.S. startup SiMa.ai starts shipping machine learning chip and system",
-      "excerpt": "Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management & Research Company, said on Tuesday it started shipping chips and systems to customers that are testing them, an important step for mass production. We apologize ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system",
-      "originalUrl": "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system/wcm/d3b033f1-d689-4d7b-bd86-a55744e847fe/amp/",
-      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system/wcm/d3b033f1-d689-4d7b-bd86-a55744e847fe/amp/",
-      "publishedDateTime": "2022-08-30T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
       ]
     },
     {

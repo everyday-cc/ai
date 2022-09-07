@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-03T05:36:00Z
 originalUrl: "https://www.wowt.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/"
 webUrl: "https://www.wowt.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: WOWT

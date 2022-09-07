@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Less trust in AI-suggested preventive care measures than those from health experts, finds NTU Singapore-led study"
-excerpt: "Researchers led by NTU Singapore have found that individuals show less trust in preventive care interventions suggested by artificial intelligence (AI) than when the same interventions are prompted by human health experts."
-publishedDateTime: 2022-09-06T00:00:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/963934"
-webUrl: "https://www.eurekalert.org/news-releases/963934"
+excerpt: "Researchers led by NTU Singapore have found that individuals show less trust in preventive care interventions suggested by artificial intelligence"
+publishedDateTime: 2022-09-06T02:50:00Z
+originalUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/224690"
+webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/224690"
 type: article
-quality: 0
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: AlphaGalileo
+  domain: alphagalileo.org
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/imported/129597_NTU.png"
+    width: 3958
+    height: 1975
+    isCached: true
 
 related:
   - title: "Study: Individuals show less trust in preventive care interventions suggested by AI"
@@ -34,6 +40,6 @@ related:
         height: 480
         isCached: true
 
-secured: "6qchzyiMcoGtJ6eQvTkHS7feoMhYmkNTniYd4L7s+cSUQBKxS9grd0pL9e0Y8XWl6Rm2mB5wePPlT16U0TAOEC/BnUPBmOcW5c66ZG9Le8fln2laxBmeTqRLN35HDIJlvEJNqC7ec4RK7UJFCJEkwMAvNpuuya0m27nBdKWIeyreFURnZjHUVFPGDgcQwwxPz8TcFBGpKzupIfNvutGipKbNFpHhgB/eu8MXvpDwlD4m/QvMTJfx7NHt644ChrgpfBmxLDEDqmlQXyO+AQJJ5QnssKglMTG6B5mZa784U8+D+8m25k/YBK9bI5PFTdzqS8QIYmojMyTbAwXSiBH6IZKjXpiXwsJKvDPlErdCRvQ=;V2QuIM/U0+/zZ5sgW0GQwg=="
+secured: "4/qap7gGRx2TtjpF1HtlLzjXciqg5OfipK1euLagn0Ql4/jLY9+/NFJMMvkvLUmd/3KlYFd5yy3tkVPHkLWK2yv2b4/RtXX6U4kZaNhHLw2tU2S8IVNODq2sj/GiiwUkIhFdSDgXvKHRyZF/0QX5zWQ7oqQ2LlQ9NhHb2rUjzd0STrcCPLWfwA2IWvZ7QBG2TeMYNPZNtIR6ZZnXx9tHxNwIPMJLntnSdNo1ib1CfEL0AeewaSYvnN7irgKmG5fr2vrE0WjyTNMq4Zn3FR1zoicPXH0uDna2Y2jL0yEp2LyFf7p9rgdH+nbLYnBPWNt7EfQVJ46IvN4q4K02lwvnDMNFF/W7i0lZ0t04zXmTqz4=;a+erizj9UlLlAIRaQCWwlQ=="
 ---
 

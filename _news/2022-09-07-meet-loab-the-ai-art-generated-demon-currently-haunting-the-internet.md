@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-07T13:19:00Z
 originalUrl: "https://www.forbes.com/sites/paultassi/2022/09/07/meet-loab-the-ai-art-generated-demon-currently-haunting-the-internet/"
 webUrl: "https://www.forbes.com/sites/paultassi/2022/09/07/meet-loab-the-ai-art-generated-demon-currently-haunting-the-internet/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

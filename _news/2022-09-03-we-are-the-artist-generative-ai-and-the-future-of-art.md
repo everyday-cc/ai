@@ -106,6 +106,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI artist who won competition says art world is 'in denial' about the tech"
+    excerpt: "Jason Allen recently lit a fire under the art world. The Colorado-based artist used AI software to create art, submitted it to the State Fair fine arts competition, and took first prize. The event attracted widespread attention,"
+    publishedDateTime: 2022-09-07T15:11:00Z
+    webUrl: "https://www.pcgamer.com/ai-artist-who-won-competition-says-art-world-is-in-denial-about-the-tech/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/VECkttyB7rAa9qSkxMiB8f-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "eLPiVH1TlZZwE8CoTcgWfnQWrrRWKrMKMwOku/ZH1eooV1gnuWfCq/sDW2zY61C3jd6rGU5SYfVCQoLhZEwkcx6zc5vYpH9KeTuvoi4CekOMXco2MgV5qhgia/v1wwsHIE9FuW+8rVD1Pq35X4MmswK+0B1gsssVBeQLoOD8l4HpZF8fIyOj5qDQODuwzfOlryoyR1O2aELUVcBUNRE5yBrkDW0vnUHKsg4jgdpOOg/pmiX4DAslETE48n54w59SE4lAOBVgjNLDs5UqrVWPUZyj/XZ0bj3bhhoUc4G7uTQO3Rasbqfv/w3ECkc3Yn0NqCvzYo0/dV6CnmozqVA2OBm9GmgcWM0ljKp5GA8CEPcVGaW5ukwjTsRNL5k02gcwf4RbfBIH+T6ptxqtoWJq+45dquBPO0OQawObo3WxQmlW3pyUiuy+QDH4z7zDGzlTgdhOT7UbaJVocn16Xs9wSpP6hNyNCSA9cmsQIKQO3+t2nzxlIxPtg7JXTCK1O7wHYZK5g0fBm5gOouFY+Z/f3Q==;2/WwH2yWmCv2zCs271j6Hg=="
 ---

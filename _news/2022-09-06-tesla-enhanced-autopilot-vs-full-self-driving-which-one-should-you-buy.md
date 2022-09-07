@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla’s ‘full self-driving’ isn’t worth $15,000, say many who bought it"
+    excerpt: "By Matt McFarland, CNN Business Tesla’s price for the feature it calls “full self-driving” has increased again. This time to $15,000, making it an unusually expensive option for a car. “After wide release of FSD Beta 10."
+    publishedDateTime: 2022-09-07T15:17:00Z
+    webUrl: "https://kesq.com/news/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/"
+    type: article
+    provider:
+      name: KESQ News
+      domain: kesq.com
+    quality: 39
+    images:
+      - url: "https://kesq.b-cdn.net/2021/05/kesq-us-world.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "dj17M2Ofe1uE84wXpHBJgg+y+gPGmRrYLH7Hnc3kV4B3vLGkeW4iDJpssMDH9cFafyl1XFBObvfFTFBZnPPFhojPBZugeLMrllcUlh1BJUkJmrTasPvk5YOCMX8T2XvPpfJtLB2/F/jrv98aSWVwApNiqnAJXINE283ejOy/NeNtBzScSSkZx8LS0wgTS8nZPc9q3rEtVGXizmv1LYUxa58Od3Mp5APCm9n0wAKEegfpYbTOuSaCm+bcSiP4aEak79xSDvH2vX5lbEMvKXGKpCPjKKG8wO2gcAXsCXLvpPdff8vhtnxTaGIYnQFPKv9MUBlg4hC/JJ3SWWGlWEvLLJsjxlsjzd7a/m4Z/YTYXAwYJrIaRtkm/YzuNT+SyT7C8wy6Sigr2j5WUcCb2uDkciQYrtz9qgPEoW2/5X7dDbtr+/V+vtnaU/XWNq53xTd8by/V76dF17v7qmqKyHHGBKcEZupgr64IyGFasCjHlKdDjU+nI1a+dNhptVH+N8DO2f52HsPU2Ry346I3n/2Stg==;RQR27VmJ0cdBCoUnyxrydA=="
 ---

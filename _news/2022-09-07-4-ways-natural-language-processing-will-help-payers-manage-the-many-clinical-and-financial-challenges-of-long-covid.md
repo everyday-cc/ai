@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-07T12:03:00Z
 originalUrl: "https://www.managedhealthcareexecutive.com/view/4-ways-natural-language-processing-will-help-payers-manage-the-many-clinical-and-financial-challenges-of-long-covid"
 webUrl: "https://www.managedhealthcareexecutive.com/view/4-ways-natural-language-processing-will-help-payers-manage-the-many-clinical-and-financial-challenges-of-long-covid"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Managed Healthcare Executive

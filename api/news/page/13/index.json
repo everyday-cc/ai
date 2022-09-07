@@ -2,6 +2,111 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-08-25-north-america-deep-learning-chip-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2027.md",
+      "title": "North America Deep Learning Chip Market Segmentation, Future Trends, Growth Overview, Key Companies and Forecast by 2027",
+      "excerpt": "Driving factor such as the rising investments in deep learning chip start-ups is propelling the growth of the deep learning chip market. Further, the increasing adoption of cloud-based computing across several industries is anticipated to boost the deep learning chip market growth in the near future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/north-america-deep-learning-chip-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2027-2022-08-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/north-america-deep-learning-chip-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2027-2022-08-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-deep-dive-why-3d-reconstruction-may-be-the-next-tech-disruptor.md",
+      "title": "Deep Dive: Why 3D reconstruction may be the next tech disruptor",
+      "excerpt": "D reconstruction, is a growing computer vision domain increasingly in demand from industries including augmented and virtual reality.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/deep-dive-why-3d-reconstruction-may-be-the-next-tech-disruptor/",
+      "originalUrl": "https://venturebeat.com/ai/deep-dive-why-3d-reconstruction-may-be-the-next-tech-disruptor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1358286748.jpg?fit=800%2C571&strip=all",
+          "width": 799,
+          "height": 571,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/deep-dive-why-3d-reconstruction-may-be-the-next-tech-disruptor/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/deep-dive-why-3d-reconstruction-may-be-the-next-tech-disruptor/amp/",
+      "publishedDateTime": "2022-08-25T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-25-gatc-health-appoints-medical-ai-veteran-robert-keith-sorrentino-md-as-chief-medical-officer.md",
       "title": "GATC Health Appoints Medical AI Veteran Robert Keith Sorrentino, MD as Chief Medical Officer",
       "excerpt": "GATC Health, a science and technology company revolutionizing drug discovery and disease prediction using artificial intelligence (AI), today announced Robert Keith Sorrentino, MD, as Chief Medical Officer.",
@@ -395,6 +500,40 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-see-amazing-views-of-chinas-space-station-from-its-big-robotic-arm-video.md",
+      "title": "See amazing views of China's space station from its big robotic arm (video)",
+      "excerpt": "(opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) New footage from China’s space station shows incredible images of Earth as a robotic arm inspects ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.space.com/china-tiangong-space-station-robotic-arm-video",
+      "originalUrl": "https://www.space.com/china-tiangong-space-station-robotic-arm-video",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Space.com",
+        "domain": "space.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1029,162 +1168,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-who-is-fn-meka-controversial-ai-rapper-dropped-by-capitol-records.md",
-      "title": "Who Is FN Meka? Controversial AI Rapper Dropped by Capitol Records",
-      "excerpt": "Capitol Records announced Tuesday that it dropped FN Meka, an artificial intelligence (AI) rapper that critics have condemned as an appropriation of Black culture. The record label made waves within the music industry when it announced on August 12 that it had signed Meka,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/fn-meka-ai-rapper-dropped-capitol-records-1736588",
-      "originalUrl": "https://www.newsweek.com/fn-meka-ai-rapper-dropped-capitol-records-1736588",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2103606/capitol-records-building-pictured-2020.jpg",
-          "width": 3100,
-          "height": 2068,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/fn-meka-ai-rapper-dropped-capitol-records-1736588?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fn-meka-ai-rapper-dropped-capitol-records-1736588?amp=1",
-      "publishedDateTime": "2022-08-24T11:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-humans-have-a-natural-defense-against-facial-recognition-aging.md",
-      "title": "Humans Have a Natural Defense Against Facial Recognition: Aging",
-      "excerpt": "After just 5 years, facial recognition systems start struggling to identify us, and after 20 years they have no chance. I've been working at PCMag since November 2016, covering all areas of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/humans-have-a-natural-defense-against-facial-recognition-aging",
-      "originalUrl": "https://www.pcmag.com/news/humans-have-a-natural-defense-against-facial-recognition-aging",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/05Pz8HRnBQxyCwqrSeEy3it-1.fit_lim.size_1200x630.v1661351863.jpg",
-          "width": 1121,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-24T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-can-nist-move-trustworthy-ai-forward-with-new-draft-of-ai-risk-management-framework.md",
-      "title": "Can NIST move ‘trustworthy AI’ forward with new draft of AI risk management framework?",
-      "excerpt": "NIST releases an expanded draft of the AI Risk Management Framework but the impact on trustworthy AI remains unclear.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-risk-management-framework/",
-      "originalUrl": "https://venturebeat.com/ai/ai-risk-management-framework/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-robot_machine_learning_AI_1323774184-e1659571276418.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-risk-management-framework/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-risk-management-framework/amp/",
-      "publishedDateTime": "2022-08-24T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

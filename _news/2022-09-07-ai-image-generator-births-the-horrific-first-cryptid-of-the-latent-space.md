@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-07T12:03:00Z
 originalUrl: "https://www.pcgamer.com/ai-image-generaotr-loab-cryptid-supercomposite/"
 webUrl: "https://www.pcgamer.com/ai-image-generaotr-loab-cryptid-supercomposite/"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: PC Gamer

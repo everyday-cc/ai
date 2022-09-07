@@ -2,6 +2,108 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-08-30-edison-international-ceo-ai-tools-are-transforming-utilities.md",
+      "title": "Edison International CEO: AI Tools are Transforming Utilities",
+      "excerpt": "CEO Pedro Pizarro says “We are doing things today we didn’t imagine five years ago”",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/videos/watch/Edison-International-CEO-AI-Tools-are-Transforming-Utilities/a354e744-d4ee-4f2a-8c9a-ae9cecbbd160",
+      "originalUrl": "https://fortune.com/videos/watch/Edison-International-CEO-AI-Tools-are-Transforming-Utilities/a354e744-d4ee-4f2a-8c9a-ae9cecbbd160",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2byebo1j9i40c.cloudfront.net/a354e744-d4ee-4f2a-8c9a-ae9cecbbd160/Images/posterImage-ver1-1280x720.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/videos/watch/edison-international-ceo%3A-ai-tools-are-transforming-utilities/a354e744-d4ee-4f2a-8c9a-ae9cecbbd160/amp",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/edison-international-ceo%3A-ai-tools-are-transforming-utilities/a354e744-d4ee-4f2a-8c9a-ae9cecbbd160/amp",
+      "publishedDateTime": "2022-08-29T14:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-undeclared-pools-in-france-uncovered-by-ai-technology.md",
+      "title": "Undeclared pools in France uncovered by AI technology",
+      "excerpt": "The discovery of thousands of undeclared private swimming pools in France has provided an unexpected windfall for French tax authorities. Following an experiment using artificial intelligence (AI), more than 20,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-europe-62717599",
+      "originalUrl": "https://www.bbc.com/news/world-europe-62717599",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/4B27/production/_126493291_gettyimages-178924445.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/world-europe-62717599.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-europe-62717599.amp",
+      "publishedDateTime": "2022-08-29T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-robe-array-could-let-small-companies-access-popular-form-of-ai.md",
       "title": "ROBE Array could let small companies access popular form of AI",
       "excerpt": "ROBE Array, a breakthrough low-memory training technique for deep-learning recommendation models, could put one of the most resource-intensive forms of artificial intelligence within reach of small companies.",
@@ -706,40 +808,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-29-edge-computing-market-size-worth-13211-billion-by-2028-at-216-cagr-the-insight-partners.md",
-      "title": "Edge Computing Market Size Worth $132.11 Billion by 2028 at 21.6% CAGR | The Insight Partners",
-      "excerpt": "The Insight Partners published latest research study on \"Edge Computing Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Co",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-edge-computing-market-size-worth-13211-billion-2028-/2022/08/29/9663269.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-edge-computing-market-size-worth-13211-billion-2028-/2022/08/29/9663269.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-29-new-ai-cryptographic-technology-can-help-combat-counterfeiting.md",
       "title": "New AI Cryptographic Technology Can Help Combat Counterfeiting",
       "excerpt": "The ability to implement an invisible cryptographic seal into existing packaging without changes to existing manufacturing and supply chain processes could transform the ability of companies to stop counterfeiting.",
@@ -921,6 +989,40 @@
       ]
     },
     {
+      "path": "_news/2022-08-29-edge-computing-market-size-worth-13211-billion-by-2028-at-216-cagr-the-insight-partners.md",
+      "title": "Edge Computing Market Size Worth $132.11 Billion by 2028 at 21.6% CAGR | The Insight Partners",
+      "excerpt": "The Insight Partners published latest research study on \"Edge Computing Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Component (Hardware, Software, and",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/08/n28664397/edge-computing-market-size-worth-132-11-billion-by-2028-at-21-6-cagr-the-insight-partners",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/08/n28664397/edge-computing-market-size-worth-132-11-billion-by-2028-at-21-6-cagr-the-insight-partners",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-29-ai-in-fintech-global-market-report-2022-need-for-fraud-detection-in-fintech-financial-institutions-driving-adoption-researchandmarketscom.md",
       "title": "AI in FinTech Global Market Report 2022: Need for Fraud Detection in Fintech & Financial Institutions Driving Adoption - ResearchAndMarkets.com",
       "excerpt": "The global AI in fintech market is expected to grow from $7.25 billion in 2021 to $9.13 billion in 2022 at a compound annual growth rate (CAGR) of 25.9%. The AI in fintech market is expected to grow to $24.",
@@ -1058,110 +1160,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-global-consumer-robotics-market-2022-2031-global-industry-report-size-analysis-top-companies-share-business-strategy-and-forecast.md",
-      "title": "Global Consumer Robotics Market 2022-2031: Global Industry Report, Size Analysis, Top Companies Share, Business Strategy and Forecast",
-      "excerpt": "The size of the consumer robotics market in 2021 is estimated to be USD 6 billion, and it is expected to expand at",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-consumer-robotics-market-2022-2031-global-industry-report-size-analysis-top-companies-share-business-strategy-and-forecast-2022-08-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-consumer-robotics-market-2022-2031-global-industry-report-size-analysis-top-companies-share-business-strategy-and-forecast-2022-08-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T02:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-image-recognition-market-size-by-major-players-trends-key-regions-and-growth-forecast-to-2022-2031.md",
-      "title": "Image Recognition Market Size by Major Players, Trends, Key Regions and Growth Forecast to 2022-2031",
-      "excerpt": "\"Increasing use of image recognition applications is driving the Global Image Recognition Market \" The image recognition market is projected to grow from USD 15.95 billion in 2022 to USD 38.92 billion by 2031,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-market-size-by-major-players-trends-key-regions-and-growth-forecast-to-2022-2031-2022-08-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-market-size-by-major-players-trends-key-regions-and-growth-forecast-to-2022-2031-2022-08-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T01:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

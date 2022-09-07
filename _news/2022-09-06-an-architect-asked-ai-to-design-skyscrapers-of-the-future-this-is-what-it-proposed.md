@@ -3,8 +3,8 @@ category: news
 title: "An architect asked AI to design skyscrapers of the future. This is what it proposed"
 excerpt: "Manas Bhatia has a bold vision of the future -- one where residential skyscrapers covered in trees, plants and algae act as \"air purification towers.\" In a series of detailed images, the New Delhi-based architect and computational designer has brought the idea to life."
 publishedDateTime: 2022-09-06T09:20:00Z
-originalUrl: "https://www.cnn.com/style/article/ai-architecture-manas-bhatia/index.html"
-webUrl: "https://www.cnn.com/style/article/ai-architecture-manas-bhatia/index.html"
+originalUrl: "https://edition.cnn.com/style/article/ai-architecture-manas-bhatia/index.html"
+webUrl: "https://edition.cnn.com/style/article/ai-architecture-manas-bhatia/index.html"
 ampWebUrl: "https://www.cnn.com/style/amp/ai-architecture-manas-bhatia/index.html"
 cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ai-architecture-manas-bhatia/index.html"
 type: article
@@ -45,6 +45,6 @@ related:
         height: 826
         isCached: true
 
-secured: "UmufuPsxDYVfUNPzR0TxDRfTpY+WdLWlFvk2qbW3HEivUSSjUETOdRGNXVs2Qp+hg6tMGEe1AGiRYvn3cuL6Zlu0aW19ZHMIfFCpgsb3f+fs9uDhKWx/vUzAE+uFMqkBQ2scfc3WisfyDPgDP6T3gmOsShwxQsHFkgqqpsv8XTkJY/fEkmPfDXpY/NTkI/eHL+l3m36Z8W0MMJdB/urF+cBXtk7F9gmff+L76ee9Mj6dNyKtgbQVazl3eOUXhf9/yO5d3RVRnnT7qNCjD8bORU2LHayAg2PNgvUbO0KgYcB10CzrEqwvwzQSIbagwHtgHHcORrrquYP8V08rrH3FMrVYKjtuHbyJSU27ozT/n3tK3Yph3d+oj2mE7yLGxb5XK0xkhw4ibUnG0S5L7g702MOJo/xEEj+kn+1SR8C5fx4LQYNqF4j0bEmKDstcbjIY8C2KM1MxG9p9yTaIJSbT9M/7uHgbEOo0gigp3tbNmjXQpCFdC2ygFv0bRikmn/iFAdVzTZbtTywu/duXWuPdoQ==;YZSSRB8gxj6GoAm6fwVtoQ=="
+secured: "9dYFiSb46vndGJry2C0S4yAemcSBX+X2o4AVF430aEyvcD1q4zf35l9WmclHR/K0fsQWi30NIR2XMf73dpCeNYVV/x0roYnA0HNiIiB6U4LDfubfwN8Z3qeIx5/aw0elISEZkVkyTetUZjmzNVBQEUABPuCT7Sn2N27ml+9ZYgnLkl+MaiA+VvOD6Y+ce7pHGsc+xLdaueHydePXIgkx0i4m9G2bKqQOrvh58LoyUA3YkYqcf4/6h5ZKty83FVhx+RLHmwdWx45D6vd+zrCYO5pFkDlHoK1E/LVRVRCdrdrPlr8E0hr6pK1oJBlXxI5FlYUi0xEu7XKbxu3yQ9ysnjuv4U6NBJJhj8/9mhzzc+c=;3lNRBn6dYVfMl1LxystSDA=="
 ---
 

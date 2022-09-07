@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/09/03/usa-white-house-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/09/03/usa-white-house-president-joe-biden-advances-regional-innovation-in-cleantech-energy-and-ai/amp/"
 type: article
 quality: 76
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://cdn.theatlantic.com/thumbor/EZHli7WLDtcURTNvU4Vlp48ticY=/0x102:4792x2598/1200x625/media/img/mt/2022/09/biden_message_to_republican_voters_2/original.jpg"
         width: 1200
         height: 625
-        isCached: true
-  - title: "President Biden announces $25 million grant to the Heartland Robotics Cluster"
-    excerpt: "President Biden held a White House news conference today where he announced that the Heartland Robotics Cluster, led by Invest Nebraska, was one of 21 finalists awarded a multiyear grant from the U.S."
-    publishedDateTime: 2022-09-02T21:02:00Z
-    webUrl: "https://siliconprairienews.com/2022/09/president-biden-announces-25-million-grant-to-the-heartland-robotics-cluster/"
-    type: article
-    provider:
-      name: Silicon Prairie News
-      domain: siliconprairienews.com
-    quality: 51
-    images:
-      - url: "https://siliconprairienews.com/wp-content/uploads/2022/09/Screen-Shot-2022-09-02-at-4.59.15-PM-e1662152436275.png"
-        width: 700
-        height: 449
         isCached: true
   - title: "Biden weighs curbs on US investment in China tech and action against TikTok, as new limits on AI chips also considered"
     excerpt: "The Biden administration is considering an executive order targeting US investments into Chinese tech companies as part of a broader strategy that also involves new restrictions on chips sales to China."

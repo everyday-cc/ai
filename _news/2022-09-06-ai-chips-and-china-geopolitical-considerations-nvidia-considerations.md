@@ -7,7 +7,7 @@ originalUrl: "https://stratechery.com/2022/ai-chips-and-china-geopolitical-consi
 webUrl: "https://stratechery.com/2022/ai-chips-and-china-geopolitical-considerations-nvidia-considerations/"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://img.digitimes.com/newsshow/20220905pd200_files/2_2b.jpg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "U.S. deals blow to China tech ambitions with Nvidia chip ban"
+    excerpt: "Nvidia can no longer sell certain high-end AI chips that are used in large data centers to train AI models for tasks such as autonomous driving, image recognition and voice assistance."
+    publishedDateTime: 2022-09-07T14:02:00Z
+    webUrl: "https://europe.autonews.com/suppliers/us-deals-blow-china-tech-ambitions-nvidia-chip-ban"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 41
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/Nvidia%20sign%20B%20web.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "NVIDIA and Dell Offer New Data Center Solution for the AI Era"
     excerpt: "NVIDIA is offering a new data center solution with Dell Technologies that is designed for the era of AI, bringing AI training, AI inference, data processing, data science, and zero-trust security capabilities to enterprises worldwide."

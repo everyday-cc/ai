@@ -24,22 +24,6 @@ images:
     height: 1080
     isCached: true
 
-related:
-  - title: "CCC board' member Diane Keller receives national recognition"
-    excerpt: "I was pleased and proud to nominate Diane for this well-deserved award,” CCC Board of Governors Chair John Novotny said in a statement. “She exemplifies what the award is a"
-    publishedDateTime: 2022-09-02T21:22:00Z
-    webUrl: "https://theindependent.com/news/ccc-board-member-diane-keller-receives-national-recognition/article_61888378-2b05-11ed-9948-739e27402ce7.html"
-    type: article
-    provider:
-      name: Grand Island Independent
-      domain: theindependent.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/theindependent.com/content/tncms/assets/v3/editorial/b/c4/bc4742d6-2b05-11ed-b2e7-338f44ab76d1/631274bb30877.image.jpg?crop=1225%2C645%2C0%2C253&resize=1200%2C632&order=crop%2Cresize"
-        width: 1200
-        height: 632
-        isCached: true
-
 secured: "vxXw0haQyNjMGBLF6rdxbG2daUN47Zt4TI/uGSc+Oje8S5kpE48CbElBVIaKF+NsDaiA1/TW8JyAYBcDmHSzE8bMG8yUFifCPSlimNz55Nl94R5UWaDmw8Fbt13k1ikPHJjVF6Ac/kDGrjnHcMFj+vk64KNbopegCQVwrPjJzc3mGfFtZ9R+m0nsSx2LsZq4t31SRlZzd2oDvxaj13D/IEHxio7ix+lYQM3bunHvyYz4qRieCD4DdcZTB92iXq3Bb4CIbhkKs0yWfGnrdVS4AADEYBVmYmQ9QOxirIfPQzAI71e3+xzZG/Ub8UCcvxYQk/Vv2yddWtd/AaOLQ6tn3TfrbUqCxieMEbd1q6F26PbYo9XqEIeVl9ZQcrsICwghIOhOhofcX0wHvbJnA0eK+WEhJUkHhzUBT4bml0usSymbY9CctbFw0YZHRm7FX+eX10hLISEPSxdgvTU+OAwQ931SPVP9klKZ6xxo3Drz+mxzZe7vvjf484fznL9+HPV6magKkC9WH3+/gVuWM2Me0w==;vUMeuPKMdLKXjP7XXWOLiw=="
 ---
 

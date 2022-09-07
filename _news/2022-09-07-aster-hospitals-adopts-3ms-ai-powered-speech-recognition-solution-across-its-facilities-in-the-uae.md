@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-07T12:58:00Z
 originalUrl: "https://www.albawaba.com/business/pr/aster-hospitals-adopts-3m’s-ai-powered-speech-recognition-solution-across-its"
 webUrl: "https://www.albawaba.com/business/pr/aster-hospitals-adopts-3m’s-ai-powered-speech-recognition-solution-across-its"
 type: article
+quality: 20
+heat: 20
+published: false
 
 provider:
   name: Al Bawaba News

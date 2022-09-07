@@ -1,24 +1,29 @@
 ---
 category: news
 title: "SAS Explore reveals the future of analytics"
-excerpt: "Registration is now open for world's premier AI and analytics conference this September CARY ... Teams will share how they used SAS Viya on the Microsoft Azure cloud platform to build innovative solutions that make a difference in their organizations ..."
-publishedDateTime: 2022-09-06T14:49:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/sas-explore-reveals-the-future-of-analytics-1031726717"
-webUrl: "https://markets.businessinsider.com/news/stocks/sas-explore-reveals-the-future-of-analytics-1031726717"
+excerpt: "SAS Explore will spotlight a lineup of prominent keynote speakers, dozens of sessions from SAS customers and partners, and extensive learning opportunities.   SAS: Around the Globe in Three Days \"SAS Explore is made for technologists,"
+publishedDateTime: 2022-09-06T16:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-sas-explore-reveals-future-analytics-/2022/09/06/9667724.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-sas-explore-reveals-future-analytics-/2022/09/06/9667724.htm"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "eX5j3/6Ma5mvTNuwQiv9aG1Bl8iw2z9T9fxosPB8nYK57EvvVCL9DHH2gEidH0F33+NZmqkcKR2tXEKChl1Znfuc3x4OBijZ2u6CR161Sb9ijTO0Oe5JxjPTx8LgKZOEy6OEkyGsU5WHEoMSWzPnICbypmUvYlJt+RSvWSVJMFO+2GkiO0SeX8DE3dZIGhxy78fdV6wc/5fVCXWekHMIaVI5EtZx+P+83xI0WSL3NWnZdlgjU+my4SIZO+82v0OAba65rBvjt+2Y6bOR915ncCNODBxdrnAUWBDcKypkhHyiNtTP2INdlcAeEEbst7XJ51+zwolN1vS1NP7Ukq36rJPtwxXuRecE67IgOgxtYfwJVXp+9t8/cf4tUwj6PoNGaLZDnpJw7Rhrg3LBh7ZWpKxe+TupKc9S+l0b6x9mdnBKvaZPxddfGgKXg/qHzsxaAcIrlGexfx15HFGlZI/YMcZmP1X6/9T76cNoqK+uv75rZV13G0r4aeOtTFL+pxFpA8iVOuMdc8FZZSvk3jiiGA==;UeS+yGlVSNouDQDGUT69RQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1892394/SAS_newswire_sas_explore_47.jpg"
+    width: 400
+    height: 267
+    isCached: true
+
+secured: "c/QB0L1RmuHIstlLg2hBoB3j6UtVh9jOakC4qgCEDNZ9Lsq4uT+KXAzaB1wUcilAPwsVFtqmbMsh2R/QZaQ3H6SZKCIFhMSOw3pHDPc37+KdtqPfJvhKkdeE51oJeJzNs17LDykaGxG4v0gGhJHCEia42gKdrmcFk53J2OCKJwUhlQ9txyfXqb0T4ajkLTUjCdliBokc5i+zTGMMbHK9kms0/9aw/mCKnD+0NTZLTe5LQDlobMvSkYB+2SNZHmYLpYtgP4rC7w3R7lri43Skeb27QmUTA3GDl/yA7lQhKnOsxhbxSmN8qZcpyPkI9H9pQ6HLvwrS6ytgReSz5PlQvHD+lXuZcG/MaUw7E+s+010=;P44Nvo//nQhO/Kgn26UiHQ=="
 ---
 

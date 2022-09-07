@@ -2,6 +2,145 @@
   "page": 143,
   "value": [
     {
+      "path": "_news/2022-05-19-too-little-too-late-apple-reverses-remote-work-policy-after-machine-learning-head-decamps-to-alphabet.md",
+      "title": "Too Little Too Late: Apple Reverses Remote Work Policy After Machine Learning Head Decamps to Alphabet",
+      "excerpt": "Well, this is awkward. One of Apple’s highest-profile return-to-office detractors reportedly landed a new gig at Alphabet’s DeepMind, marking the latest drama over Big Tech’s remote work ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2022/05/too-little-too-late-apple-reverses-remote-work-policy-after-machine-learning-head-decamps-to-alphabet/",
+      "originalUrl": "https://www.gizmodo.com.au/2022/05/too-little-too-late-apple-reverses-remote-work-policy-after-machine-learning-head-decamps-to-alphabet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/05/19/1df6fad1a744c6167d22b8a2880b1d68.jpg?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2022/05/too-little-too-late-apple-reverses-remote-work-policy-after-machine-learning-head-decamps-to-alphabet/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/05/too-little-too-late-apple-reverses-remote-work-policy-after-machine-learning-head-decamps-to-alphabet/amp/",
+      "publishedDateTime": "2022-05-18T19:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo Australia",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-05-19-dius-becomes-first-in-apj-to-gain-aws-applied-ai-competency.md",
+      "title": "DiUS becomes first in APJ to gain AWS Applied AI Competency",
+      "excerpt": "Melbourne-headquartered solutions provider DiUS has become the first Amazon Web Services (AWS) partner in Asia Pacific and Japan to obtain its Applied Artificial Intelligence (AI) Competency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/698281/dius-becomes-first-apj-gain-aws-applied-ai-competency/",
+      "originalUrl": "https://www.arnnet.com.au/article/698281/dius-becomes-first-apj-gain-aws-applied-ai-competency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/joelosinno.jpg",
+          "width": 504,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T17:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-19-sony-smartar-delivers-high-speed-markerless-augmented-reality-blows-minds-video.md",
+      "title": "Sony SmartAR delivers high-speed markerless augmented reality, blows minds (video)",
+      "excerpt": "\"SmartAR\" technology combines 'object recognition technology' (markerless approach in which no special markers are required) for recognition of general objects such as photographs and posters with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/2011-05-19-sony-smartar-delivers-high-speed-markerless-augmented-reality-b.html",
+      "originalUrl": "https://www.engadget.com/2011-05-19-sony-smartar-delivers-high-speed-markerless-augmented-reality-b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/751i7RNJXket8EjloflFHQ--~B/aD0zMzY7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.engadget.com/media/2011/05/smartar-05192011.jpg",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-19-ucsf-study-combines-ai-chest-radiographs-to-map-out-health-concerns-expenses.md",
       "title": "UCSF Study Combines AI, Chest Radiographs to Map Out Health Concerns, Expenses",
       "excerpt": "Researchers using deep learning tools to analyze chest radiographs found that they could predict patient costs at one, three and five years and identify high-risk patients, enabling health ...",
@@ -993,135 +1132,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-ios-16-accessibility-features-likely-to-benefit-everyone-argues-macworld.md",
-      "title": "iOS 16 accessibility features likely to benefit everyone, argues Macworld",
-      "excerpt": "Door detection should lead to better object-recognition, with benefits for AR applications. But it’s Apple Watch mirroring that Cross thinks could be most exciting. Notably, this seems like it ...",
-      "sourceUrl": null,
-      "webUrl": "https://9to5mac.com/2022/05/18/ios-16-accessibility-features-benefits/",
-      "originalUrl": "https://9to5mac.com/2022/05/18/ios-16-accessibility-features-benefits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/05/iOS-16-accessibility-features-likely-to-benefit-everyone.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://9to5mac.com/2022/05/18/ios-16-accessibility-features-benefits/amp/",
-      "cdnAmpWebUrl": "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2022/05/18/ios-16-accessibility-features-benefits/amp/",
-      "publishedDateTime": "2022-05-18T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "9to5Mac",
-        "domain": "9to5mac.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-ai-driven-support-system-assists.md",
-      "title": "AI-driven support system assists",
-      "excerpt": "VietNamNet Bridge – The Ministry of Health has chosen three hospitals to pilot the IBM Watson for Oncology, an artificial intelligence (AI)-driven clinical decision support system.",
-      "sourceUrl": null,
-      "webUrl": "https://vietnamnet.vn/en/ai-driven-support-system-assists-tag6612186237643902453.html",
-      "originalUrl": "https://vietnamnet.vn/en/ai-driven-support-system-assists-tag6612186237643902453.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.vnncdn.net/v1/icon/return.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T05:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vietnamnet",
-        "domain": "vietnamnet.vn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-pieces-selected-for-amazon-web-services-aws-health-equity-program.md",
-      "title": "Pieces Selected for Amazon Web Services (AWS) Health Equity Program",
-      "excerpt": "DALLAS, May 18, 2022 /PRNewswire/ -- Pieces, a healthcare AI company, today announced that it has been selected for a new global program from Amazon Web Services (AWS) supporting organizations ...",
-      "sourceUrl": null,
-      "webUrl": "https://fox59.com/business/press-releases/cision/20220518SF61284/pieces-selected-for-amazon-web-services-aws-health-equity-program/",
-      "originalUrl": "https://fox59.com/business/press-releases/cision/20220518SF61284/pieces-selected-for-amazon-web-services-aws-health-equity-program/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1177522/Pieces_Logo.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX59 News",
-        "domain": "fox59.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

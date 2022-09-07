@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-07T13:48:00Z
 originalUrl: "https://www.business-standard.com/article/companies/indian-origin-pixstory-ties-up-with-arsenal-to-promote-social-media-ethics-122090701120_1.html"
 webUrl: "https://www.business-standard.com/article/companies/indian-origin-pixstory-ties-up-with-arsenal-to-promote-social-media-ethics-122090701120_1.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Business Standard

@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2022-09-artificial-intelligence-maine-forests.
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-artificial-intelligence-maine-forests.amp"
 type: article
 quality: 68
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: Phys.org
@@ -25,17 +25,6 @@ images:
     width: 2880
     height: 1920
     isCached: true
-
-related:
-  - title: "Artificial intelligence can be used to better monitor Maine's forests"
-    excerpt: "Researchers have developed a novel method of using artificial intelligence and machine learning to make monitoring soil moisture more energy and cost efficient. The software learns over time how to make the best use of available network resources,"
-    publishedDateTime: 2022-09-02T20:57:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/09/220902154904.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 68
 
 secured: "FzmMmyceIp8M/KPWI29xxdTt/fpJj0Dwrk2gsjgnQCmXd2yxloT+uHjeTy77XQtgbxa7XIE403BMVwnjvMIDlYVQl+gmDlEXBDmD3JyYemcMD5CMe8p++aTXaudmPfpTLvASuXHMrIvmmCUAJQHRBVY8zqTtrghJGpMK8Z8H3KBZQYz39jnO5HZAQIRnJprxUZQOLklZrbOhLP2R5lvL/FZO9GGCyjPzAPNuXkmuN2sJqpHl12i27wCkjk084kigwB3zesBpIxZWZ37DuYYxuYtUP81Gq21M/RiBsd66mtq87j2fFapTSweN8ShLRLJVpTyK/Np1pHlh+lvFxc4Pq4JqlbVJVO7TD51bI8VGr1KAZD52FC0tCKAn/k460FjeN1fGeUOBJX/xl4DTAh5+yFP8JoSZVoga9ty7ApJvdgokjDLAIDN1N5qJxa7roOOC3uqWWMaaZMKs5RH4MnELmbzThVdOQXcqJePrxyAY30i3jMdAOjsd9kRXKSuh0b9at+0htSFolagn+D9/57bJ2g==;JsmWcC4Yb2XhV3V7rfKZfw=="
 ---

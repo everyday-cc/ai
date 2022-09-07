@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-07T11:30:00Z
 originalUrl: "https://analyticsindiamag.com/bigsciences-openrails-can-promote-responsible-use-of-ai/"
 webUrl: "https://analyticsindiamag.com/bigsciences-openrails-can-promote-responsible-use-of-ai/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Analytics India Magazine

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/09/03/tech/ai-art-fair-winner-controver
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/03/tech/ai-art-fair-winner-controversy/index.html"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -105,6 +105,20 @@ related:
       - url: "https://inteng-storage.s3.amazonaws.com/2022/09/04/image/jpeg/Skvetx8TJ4uzrUmlGIT0tpr5pOmRT0xyHMSZVk1E.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "AI artist who won competition says art world is 'in denial' about the tech"
+    excerpt: "Jason Allen recently lit a fire under the art world. The Colorado-based artist used AI software to create art, submitted it to the State Fair fine arts competition, and took first prize. The event attracted widespread attention,"
+    publishedDateTime: 2022-09-07T15:11:00Z
+    webUrl: "https://www.pcgamer.com/ai-artist-who-won-competition-says-art-world-is-in-denial-about-the-tech/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/VECkttyB7rAa9qSkxMiB8f-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "R4Kzdb4l1FgaS+7ISxtYrKD/fB1vbChStqExa29g9EK/YZGCDCWk5vvM3mTzBJ9/dx814bVCN6goHOZDeMrkDPLJpq4Hqwgz4plXxOHCW755ASj148u7kDSoCdX20wRLD1b28schUkK1OOnHebsr9A9GBBCqNehNEqm1l194HDP5yHMAVRZcPKH06DDyEa2ISfxST/LYl64IUOx1N+hQES2bThrKKXHjU7hF5qYrx465pB7fsyybDd8s1xxXxE2FZER8EkGAtuZKVa7ew4W51qgB74BnZHHn+6f+VHKaafn3AyRY6EnbB4dzNHdHHCcsMe1e5ExF3rmX5jQsHHytehoUibkVE7eh3bApeNzvTYA=;JSTT/KTk0t/J6yHXZ6CMdg=="

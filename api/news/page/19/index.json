@@ -2,6 +2,154 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-08-21-people-are-now-testing-teslas-full-self-driving-on-real-kids.md",
+      "title": "People are now testing Tesla's 'full self-driving' on real kids",
+      "excerpt": "The North Carolina resident set out to refute a widely circulated video of a Tesla with the company's \"full self-driving\" beta software -- which allows the car to steer, brake and accelerate ...",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2022/08/21/business/tesla-fsd-tests-kids",
+      "originalUrl": "https://edition.cnn.com/2022/08/21/business/tesla-fsd-tests-kids",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220819141817-tesla-autopilot-steering-wheel-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/08/21/business/tesla-fsd-tests-kids/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/21/business/tesla-fsd-tests-kids/index.html",
+      "publishedDateTime": "2022-08-21T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-21-enterprise-artificial-intelligence-ai-market-growing-massively-by-ibm-microsoft-aws.md",
+      "title": "Enterprise Artificial Intelligence (AI) Market Growing Massively by Ibm, Microsoft, Aws",
+      "excerpt": "New Jersey, N.J., Aug 21, 2022 Enterprise AI is a category of enterprise software that leverages advanced artificial intelligence techniques, including machine learning, to drive digital ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/enterprise-artificial-intelligence-ai-market-growing-massively-by-ibm-microsoft-aws",
+      "originalUrl": "https://www.digitaljournal.com/pr/enterprise-artificial-intelligence-ai-market-growing-massively-by-ibm-microsoft-aws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/04/f4f04bbf0a33e2251f03a5748650712826f14ff2-2-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-21T03:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-21-anthony-levandowski-is-the-messiah-of-his-new-ai-god.md",
+      "title": "Anthony Levandowski is the Messiah of his new AI God",
+      "excerpt": "It then reveals some of his innovative projects, like the robot he made in 2001 that could count Monopoly money, and the driverless ... potential of artificial intelligence is something that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/anthony-levandowski-is-the-messiah-of-his-new-ai-god/",
+      "originalUrl": "https://www.neowin.net/news/anthony-levandowski-is-the-messiah-of-his-new-ai-god/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2017/09/1506594532_ai_god_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/anthony-levandowski-is-the-messiah-of-his-new-ai-god/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/anthony-levandowski-is-the-messiah-of-his-new-ai-god/",
+      "publishedDateTime": "2022-08-21T00:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-21-why-youve-never-heard-of-this-top-ai-company.md",
       "title": "Why You’ve Never Heard Of This Top AI Company",
       "excerpt": "with the only notable vendor-specific response (AWS SageMaker) trailing in the 5th spot. This doesn’t mean that companies aren’t using vendors for those open source implementations, not at all. This does mean that they aren’t focusing on the vendor ...",
@@ -1008,144 +1156,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-20-3-myths-about-chatbot-design-busted.md",
-      "title": "3 myths about chatbot design, busted",
-      "excerpt": "A chatbot’s design plays a more strategic role than one might think and requires an immense amount of human input to create.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/3-myths-about-chatbot-design-busted/",
-      "originalUrl": "https://venturebeat.com/ai/3-myths-about-chatbot-design-busted/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1349390539.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/3-myths-about-chatbot-design-busted/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-myths-about-chatbot-design-busted/amp/",
-      "publishedDateTime": "2022-08-19T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-senior-living-cognitive-rehab-may-help-older-adults-clear-coivd-related-brain-fog.md",
-      "title": "Senior living: Cognitive rehab may help older adults clear COIVD-related brain fog",
-      "excerpt": "It’s a suite of interventions designed to help people recover from brain injuries, if possible, and adapt to ongoing cognitive impairment. Services are typically provided by speech and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailynews.com/2022/08/19/senior-living-cognitive-rehab-may-help-older-adults-clear-coivd-related-brain-fog/",
-      "originalUrl": "https://www.dailynews.com/2022/08/19/senior-living-cognitive-rehab-may-help-older-adults-clear-coivd-related-brain-fog/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailynews.com/wp-content/uploads/2022/08/OCR-L-DANCEVISIT-0518-03-LO-3.jpg?w=1024&h=698",
-          "width": 1024,
-          "height": 698,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailynews.com/2022/08/19/senior-living-cognitive-rehab-may-help-older-adults-clear-coivd-related-brain-fog/amp/",
-      "cdnAmpWebUrl": "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2022/08/19/senior-living-cognitive-rehab-may-help-older-adults-clear-coivd-related-brain-fog/amp/",
-      "publishedDateTime": "2022-08-19T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Daily News",
-        "domain": "dailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-self-driving-vehicles-on-uk-roads-by-2025-under-new-government-plans.md",
-      "title": "Self-driving vehicles ‘on UK roads by 2025’ under new government plans",
-      "excerpt": "These vehicles could be on sale within the next year, but would require a valid driving licence (Picture: Andrew Matthews/PA Wire) Self-driving vehicles could be on UK roads by 2025 under new ...",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2022/08/19/self-driving-vehicles-on-uk-roads-by-2025-under-new-government-plans-17213777/",
-      "originalUrl": "https://metro.co.uk/2022/08/19/self-driving-vehicles-on-uk-roads-by-2025-under-new-government-plans-17213777/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://metro.co.uk/wp-content/uploads/2022/08/SEI120084193-d8dc.jpg?quality=90&strip=all&zoom=1&resize=600%2C385",
-          "width": 600,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2022/08/19/self-driving-vehicles-on-uk-roads-by-2025-under-new-government-plans-17213777/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/08/19/self-driving-vehicles-on-uk-roads-by-2025-under-new-government-plans-17213777/amp/",
-      "publishedDateTime": "2022-08-19T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

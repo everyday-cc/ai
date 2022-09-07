@@ -57,20 +57,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "US views AI chips as industrial security and a treasure not to be shared freely"
-    excerpt: "Washington is embargoing AI chips and directing manufacturing. The chips play an increasing role in facial and other biometric recognition systems."
-    publishedDateTime: 2022-09-02T21:08:00Z
-    webUrl: "https://www.biometricupdate.com/202209/us-views-ai-chips-as-industrial-security-and-a-treasure-not-to-be-shared-freely"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 67
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/02162027/computer-chips-scaled.jpg"
-        width: 2048
-        height: 1069
-        isCached: true
   - title: "Nvidia outlook: the US bans AI chips to China and Russia"
     excerpt: "The end of August saw Nvidia state in an SEC filing that the US government is restricting the sale of its high-performance AI chips to China and Russia. The chips, created for the A100 and H100 servers,"
     publishedDateTime: 2022-09-06T02:14:00Z

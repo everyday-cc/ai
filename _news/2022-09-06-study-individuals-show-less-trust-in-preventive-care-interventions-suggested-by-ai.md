@@ -25,14 +25,19 @@ images:
 
 related:
   - title: "Less trust in AI-suggested preventive care measures than those from health experts, finds NTU Singapore-led study"
-    excerpt: "Researchers led by NTU Singapore have found that individuals show less trust in preventive care interventions suggested by artificial intelligence (AI) than when the same interventions are prompted by human health experts."
-    publishedDateTime: 2022-09-06T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/963934"
+    excerpt: "Researchers led by NTU Singapore have found that individuals show less trust in preventive care interventions suggested by artificial intelligence"
+    publishedDateTime: 2022-09-06T02:50:00Z
+    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/224690"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 0
+      name: AlphaGalileo
+      domain: alphagalileo.org
+    quality: 18
+    images:
+      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/imported/129597_NTU.png"
+        width: 3958
+        height: 1975
+        isCached: true
 
 secured: "4N47egO58q22nCRuwB5a0ULt098dp2DyX98XLSyb0/Zy2doCy5wvrGI3cYmL1wqEHXKtDUz9r5kntbqfMwUUQDoYefMRINHpo6JViYQFUP68fFYrmwoFU22h65sikwQGS/V/NCbt3dSEh9g657++4XfIVlY6F0ujCMGzVj7xRBNefhHl34E/5TDAO7XXGB81gj0kj5wdTnnOUq7D0AXVfwc8QsidwrRVj+sqzDVAKIr0xKLkXqZbhbQRuOwZgADAzOYUikmyJnI7MqID8r1AUo/MqcICp3XDkBvK1xKnKrnTdw9kqz1aXHhjZLlG+2yvCxJN+cFBvO3Qrl5leJ9iyDtE/+b9bIMIPiod1X000Zc=;cm2rjJ5B+cZ44KJvT8h00g=="
 ---

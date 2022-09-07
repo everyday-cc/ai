@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-07T12:03:00Z
 originalUrl: "https://apnews.com/press-release/globe-newswire/technology-robotics-aurora-8f1172c08df422c87714510ca87b7dc0"
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-robotics-aurora-8f1172c08df422c87714510ca87b7dc0"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Associated Press

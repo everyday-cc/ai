@@ -2,6 +2,75 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-08-31-artificial-intelligence-and-healthcare-the-business-the-law-and-the-ethics.md",
+      "title": "Artificial Intelligence and Healthcare – The Business, The Law and The Ethics",
+      "excerpt": "This is an in-person and online for this program that will explore data justice and cybersecurity in health care. Join us at the Chase Park Plaza for this one-day insightful conference regarding the ways personal data, artificial intelligence, justice and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slu.edu/medicine/bander-center/ai-conference.php",
+      "originalUrl": "https://www.slu.edu/medicine/bander-center/ai-conference.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Saint Louis University",
+        "domain": "slu.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-software-engineering-manager-machine-learning-.md",
+      "title": "Software Engineering Manager ( Machine Learning )",
+      "excerpt": "Your mission, should you choose to accept it: You will manage a team of Machine Learning Software Engineers & Data Scientists constantly striving for quality solutions that are delivered on time, within budget and scope, and drive a culture of quality and ...",
+      "sourceUrl": null,
+      "webUrl": "https://it-online.co.za/2022/08/31/software-engineering-manager-machine-learning-6/",
+      "originalUrl": "https://it-online.co.za/2022/08/31/software-engineering-manager-machine-learning-6/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT-Online",
+        "domain": "it-online.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-31-what-you-know-changes-how-you-see-things.md",
       "title": "What you know changes how you see things",
       "excerpt": "Researchers have gained important insight into how the human brain processes an object in the visual system and where in the brain this processing takes place. The study shows people perceive objects differently depending on their prior knowledge and experience with that object.",
@@ -478,6 +547,51 @@
       ]
     },
     {
+      "path": "_news/2022-08-30-us-startup-simaai-starts-shipping-machine-learning-chip-and-system.md",
+      "title": "U.S. Startup SiMa.ai Starts Shipping Machine Learning Chip And System",
+      "excerpt": "industrial robots, and eventually self-driving cars in, San Jose, California, U.S., in this undated handout photo. Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305",
+      "originalUrl": "https://www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.ibtimes.com/en/full/3810267/us-startup-simaai-starts-shipping-machine-learning-chip-system.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305?amp=1",
+      "publishedDateTime": "2022-08-30T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-how-self-supervised-learning-may-boost-medical-ai-progress.md",
       "title": "How self-supervised learning may boost medical AI progress",
       "excerpt": "Self-supervised learning in healthcare and medicine is growing, thanks to the vast amount of unstructured data available in that industry.",
@@ -776,22 +890,31 @@
       "title": "Industry’s first autonomous spreader debuts at Farm Progress Show",
       "excerpt": "Case IH and Raven Industries introduce the agriculture industry’s first autonomous spreader: the Case IH Trident ™ 5550 applicator with Raven Autonomy ™. Unveiled at Farm Progress Show 2022, this innovative solution delivers on customers’ demands for autonomous equipment to help solve labor challenges and increase productivity on their operations.",
       "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-30-industrys-first-autonomous-spreader-debuts-at-farm-progress-show",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-30-industrys-first-autonomous-spreader-debuts-at-farm-progress-show",
+      "webUrl": "https://www.eagletribune.com/region/industry-s-first-autonomous-spreader-debuts-at-farm-progress-show/article_bd0c3b06-7889-504f-b01b-c4540ac61a68.html",
+      "originalUrl": "https://www.eagletribune.com/region/industry-s-first-autonomous-spreader-debuts-at-farm-progress-show/article_bd0c3b06-7889-504f-b01b-c4540ac61a68.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/f7/6f732a6f-663d-5699-9263-ff52f4203a6d/630e214bf2e79.image.jpg?crop=606%2C318%2C522%2C0&resize=606%2C318&order=crop%2Cresize",
+          "width": 606,
+          "height": 318,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T07:30:00-07:00",
+      "publishedDateTime": "2022-08-30T07:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -997,42 +1120,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-30-us-startup-simaai-starts-shipping-machine-learning-chip-and-system.md",
-      "title": "U.S. startup SiMa.ai starts shipping machine learning chip and system",
-      "excerpt": "Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management & Research Company, said on Tuesday it started shipping chips and systems to customers that are testing them, an important step for mass production. We apologize ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system",
-      "originalUrl": "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system/wcm/d3b033f1-d689-4d7b-bd86-a55744e847fe/amp/",
-      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system/wcm/d3b033f1-d689-4d7b-bd86-a55744e847fe/amp/",
-      "publishedDateTime": "2022-08-30T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2022-08-30-innovative-payment-solutions-introduces-voice-command-function-for-ipsipay-app-through-collaboration-with-conversational-ai-technology-provider.md",
       "title": "Innovative Payment Solutions Introduces Voice Command Function for IPSIPay App Through Collaboration with Conversational AI Technology Provider DRUID",
       "excerpt": "William Corbett, IPSI’s Chairman and Chief Executive Officer, commented, “We believe our new collaboration with DRUID will dramatically enhance the functionality of our IPSIPay App, enabling users to execute remittances and other transactions,",
@@ -1073,112 +1160,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-nvidia-dell-vmware-add-ai-zero-trust-security-into-new-data-center-package.md",
-      "title": "Nvidia, Dell, VMware add AI, zero-trust security into new data center package",
-      "excerpt": "Dell servers containing Nvidia DPUs, GPUs, and VMware vSphere 8 use multiple firewalls to improve security for cloud-based workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nvidia-dell-vmware-add-ai-zero-trust-security-into-new-data-center-package/",
-      "originalUrl": "https://www.zdnet.com/article/nvidia-dell-vmware-add-ai-zero-trust-security-into-new-data-center-package/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/31ca8a86b0b988f06219255b37675f4373f61dcd/2021/06/09/9a678cf1-16a0-46b5-b168-4a1cf67d1a6c/data-center.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-dell-vmware-add-ai-zero-trust-security-into-new-data-center-package/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-dell-vmware-add-ai-zero-trust-security-into-new-data-center-package/",
-      "publishedDateTime": "2022-08-30T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-merkle-launches-ethical-ai-white-paper-highlights-need-for-explainable-ai-in-marketing.md",
-      "title": "Merkle Launches Ethical AI White Paper, Highlights Need for Explainable AI in Marketing",
-      "excerpt": "Merkle Launches Ethical AI White Paper, Highlights Need for Explainable AI in Marketing Aug 30, 2022 (PRNewswire via COMTEX) -- PR Newswire COLUMBIA,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/merkle-launches-ethical-ai-white-paper-highlights-need-for-explainable-ai-in-marketing-2022-08-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/merkle-launches-ethical-ai-white-paper-highlights-need-for-explainable-ai-in-marketing-2022-08-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

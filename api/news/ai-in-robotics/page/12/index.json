@@ -2,6 +2,126 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-06-14-largest-order-for-ai-robotics-leader-in-its-short-amazing-history-artificial-intelligence-tech-stock-symbol-aitx.md",
+      "title": "Largest Order For AI Robotics Leader In Its Short Amazing History: Artificial Intelligence Tech: Stock Symbol: AITX",
+      "excerpt": "AITX SCOT. AITX AVA. AITX Collage. AITX Showcase. AITX ROAMEO. Largest Order for AI Robotics Leader in its Short Amazing History thus far; $AITX Receives a",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104369930/Largest-Order-For-AI-Robotics-Leader-In-Its-Short-Amazing-History-Artificial-Intelligence-Tech-Stock-Symbol-AITX",
+      "originalUrl": "https://menafn.com/1104369930/Largest-Order-For-AI-Robotics-Leader-In-Its-Short-Amazing-History-Artificial-Intelligence-Tech-Stock-Symbol-AITX",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-06/14/EP_1bc51image_story.jpeg",
+          "width": 893,
+          "height": 585,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T22:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-smart-robot-helps-with-congestion-at-narita-airport.md",
+      "title": "Smart robot helps with congestion at Narita Airport",
+      "excerpt": "A robot equipped with artificial intelligence has been put to work to help sort out congestion problems at Narita International Airport near Tokyo.",
+      "sourceUrl": null,
+      "webUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20220614_19/",
+      "originalUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20220614_19/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20220614_19_1126159_L.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20220614_19/amp.html",
+      "cdnAmpWebUrl": "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20220614_19/amp.html",
+      "publishedDateTime": "2022-06-13T22:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NHK",
+        "domain": "nhk.or.jp",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-stanford-engineers-develop-tiny-robots-to-bring-health-care-closer-to-precisely-targeted-drug-delivery.md",
+      "title": "Stanford engineers develop tiny robots to bring health care closer to precisely targeted drug delivery",
+      "excerpt": "... also provides untethered control for non-invasive operation and separates the control unit from the device to allow for miniaturization. Zhao said their most recent robot, featured this month in Nature Communications, is “the most robust and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/955421",
+      "originalUrl": "https://www.eurekalert.org/news-releases/955421",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-kawasaki-robotics-teams-up-with-realtime-robotics-to-develop-robot-motion-planning.md",
       "title": "Kawasaki Robotics Teams Up With Realtime Robotics To Develop Robot Motion Planning",
       "excerpt": "RapidPlan helps manufacturers have peace of mind in a high ... was one of the first robot companies to see the potential of combining an advanced Real Time Control API like KRNX with our RapidPlan ...",
@@ -1122,146 +1242,6 @@
         "AWS AI",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-ai-tech-company-nala-robotics-introduces-pizzaiola-a-fully-autonomous-pizzeria-restaurant.md",
-      "title": "AI Tech Company Nala Robotics Introduces Pizzaiola, A Fully Autonomous Pizzeria Restaurant",
-      "excerpt": "Nala Robotics, an AI technology company revolutionizing the culinary industry with its restaurant-as-a-service platform , today unveiled Pizzaiola™, a fully automated,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/ai-tech-company-nala-robotics-introduces-pizzaiola-a-fully-autonomous-pizzeria-restaurant/article_49aefc11-3756-5b6f-a863-3e69ed34da80.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/ai-tech-company-nala-robotics-introduces-pizzaiola-a-fully-autonomous-pizzeria-restaurant/article_49aefc11-3756-5b6f-a863-3e69ed34da80.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-can-a-recruiting-robot-be-ethical.md",
-      "title": "Can A Recruiting Robot Be Ethical?",
-      "excerpt": "Ethics as they relate to AI and hiring employees can be divided into 4 categories: Fairness, Accountability, Privacy and Transparency. It is my feeling that transparency should be the first priority. Without transparency there is no place to start the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sap/2022/06/07/can-a-recruiting-robot-be-ethical/",
-      "originalUrl": "https://www.forbes.com/sites/sap/2022/06/07/can-a-recruiting-robot-be-ethical/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//629f30684b84f80d22b62126/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2022/06/07/can-a-recruiting-robot-be-ethical/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2022/06/07/can-a-recruiting-robot-be-ethical/amp/",
-      "publishedDateTime": "2022-06-07T04:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-video-students-of-bengaluru-school-get-brand-new-robotics-artificial-intelligence-lab.md",
-      "title": "Video | Students of Bengaluru school get brand new Robotics & Artificial Intelligence lab",
-      "excerpt": "National English School in Bengaluru has set up a Robotics and Artificial Intelligence (AI) Lab in its campus in collaboration with Intel and Sirena Technologies. The lab was inaugurated by Chief Minister Basavaraj Bommai on June 6,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/cities/bangalore/video-sd-of-bengaluru-school-get-robotics-artificial-intelligence-lab/article65503486.ece",
-      "originalUrl": "https://www.thehindu.com/news/cities/bangalore/video-sd-of-bengaluru-school-get-robotics-artificial-intelligence-lab/article65503486.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/news/cities/bangalore/cd54jc/article65503499.ece/alternates/LANDSCAPE_615/Robotics%20and%20Artificial%20Intelligence%20AI%20Lab%20in%20National%20High%20School%20Basavanagudi%20Bengaluru.jpg",
-          "width": 615,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/cities/bangalore/video-sd-of-bengaluru-school-get-robotics-artificial-intelligence-lab/article65503486.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/bangalore/video-sd-of-bengaluru-school-get-robotics-artificial-intelligence-lab/article65503486.ece/amp/",
-      "publishedDateTime": "2022-06-07T03:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
       ]
     }
   ],

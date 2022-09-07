@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 625
         isCached: true
-  - title: "President Biden announces $25 million grant to the Heartland Robotics Cluster"
-    excerpt: "President Biden held a White House news conference today where he announced that the Heartland Robotics Cluster, led by Invest Nebraska, was one of 21 finalists awarded a multiyear grant from the U.S."
-    publishedDateTime: 2022-09-02T21:02:00Z
-    webUrl: "https://siliconprairienews.com/2022/09/president-biden-announces-25-million-grant-to-the-heartland-robotics-cluster/"
-    type: article
-    provider:
-      name: Silicon Prairie News
-      domain: siliconprairienews.com
-    quality: 51
-    images:
-      - url: "https://siliconprairienews.com/wp-content/uploads/2022/09/Screen-Shot-2022-09-02-at-4.59.15-PM-e1662152436275.png"
-        width: 700
-        height: 449
-        isCached: true
 
 secured: "xAQPzkOIK5+aIjj2j8Rrs63rO4/Cm5qCwpuM2WHYrsZA+blb1u9wEIzT7/orr/SH2XnPYc3d/iY6vE86c8SS0i7PBnwumvexwUXA+Df7HpxLvqMq+wWVZ+3j72RfdKCgBvAuiMgjnzmu8Gc0K68sh6R8gVh5FHW6EhRtzB09/h0UtYOQv4mRt/fs3JKOcsUJJ5yHFIoGSQvG5ySANd2Br6gAx7D8/NLbH8VIpFyP0fJYLBWYK8wxrziE1t0T40Cr4OAu6t12CUgK2nhjQ9NC5fqdcb830khIL3kTuQNnJuzdosLGbeyAXHLzd/ZMW0tRZwPespDnE/QKYxmP2J2/4Nwj3yyRFxvo0L17Rsmm9Cw=;h123PBYNwfNs31u84T+MYQ=="
 ---

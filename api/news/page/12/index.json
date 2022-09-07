@@ -2,6 +2,109 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-08-26-ai-startup-wants-to-make-foreign-call-center-employees-sound-white.md",
+      "title": "AI Startup Wants to Make Foreign Call Center Employees Sound White",
+      "excerpt": "Is it helpful or dystopian? A Silicon Valley startup is using AI-powered algorithms to make foreign call center employees sound white and American during phone conversations. The technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/news/142293/ai-startup-wants-to-make-foreign-call-center-employees-sound-white",
+      "originalUrl": "https://uk.pcmag.com/news/142293/ai-startup-wants-to-make-foreign-call-center-employees-sound-white",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/a/ai-startup/ai-startup-wants-to-make-foreign-call-center-employees-sound_3ra4.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T20:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-26-nvidia-to-announce-next-gen-gpu-architecture-in-september-amid-rtx-4090-rumors.md",
+      "title": "Nvidia to announce next-gen GPU architecture in September amid RTX 4090 rumors",
+      "excerpt": "A new GPU architecture announce doesn’t mean we ... where we will share new advances of RTX reinventing 3D graphics in gaming, AI’s continuing breakthroughs, and building the metaverse ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/8/25/23321307/nvidia-next-gen-gpu-architecture-rtx-40-series-gtc-2022",
+      "originalUrl": "https://www.theverge.com/2022/8/25/23321307/nvidia-next-gen-gpu-architecture-rtx-40-series-gtc-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/veMh_fTCaXM9jyzunIzLKndS8UQ=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/16303089/DSC00697.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T19:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-26-putin-orders-troop-replenishment-in-face-of-ukraine-losses.md",
       "title": "Putin Orders Troop Replenishment In Face Of Ukraine Losses",
       "excerpt": "Russian President Vladimir Putin appears to be trying to replenish his military by ordering a 13% increase in the country’s troop strength.",
@@ -1083,111 +1186,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-north-america-deep-learning-chip-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2027.md",
-      "title": "North America Deep Learning Chip Market Segmentation, Future Trends, Growth Overview, Key Companies and Forecast by 2027",
-      "excerpt": "Driving factor such as the rising investments in deep learning chip start-ups is propelling the growth of the deep learning chip market. Further, the increasing adoption of cloud-based computing across several industries is anticipated to boost the deep learning chip market growth in the near future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/north-america-deep-learning-chip-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2027-2022-08-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/north-america-deep-learning-chip-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2027-2022-08-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-25T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-deep-dive-why-3d-reconstruction-may-be-the-next-tech-disruptor.md",
-      "title": "Deep Dive: Why 3D reconstruction may be the next tech disruptor",
-      "excerpt": "D reconstruction, is a growing computer vision domain increasingly in demand from industries including augmented and virtual reality.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/deep-dive-why-3d-reconstruction-may-be-the-next-tech-disruptor/",
-      "originalUrl": "https://venturebeat.com/ai/deep-dive-why-3d-reconstruction-may-be-the-next-tech-disruptor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1358286748.jpg?fit=800%2C571&strip=all",
-          "width": 799,
-          "height": 571,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/deep-dive-why-3d-reconstruction-may-be-the-next-tech-disruptor/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/deep-dive-why-3d-reconstruction-may-be-the-next-tech-disruptor/amp/",
-      "publishedDateTime": "2022-08-25T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

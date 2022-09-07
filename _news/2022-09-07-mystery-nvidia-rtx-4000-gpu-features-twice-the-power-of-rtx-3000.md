@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-07T13:15:00Z
 originalUrl: "https://www.pcgamesn.com/nvidia/rtx-4000-twice-power-rtx-3000"
 webUrl: "https://www.pcgamesn.com/nvidia/rtx-4000-twice-power-rtx-3000"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: PCGamesN

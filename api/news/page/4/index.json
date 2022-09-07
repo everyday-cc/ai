@@ -2,6 +2,100 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-09-01-olive-diagnostics-launches-ai-powered-urinalysis-device-so-you-dont-have-to-pee-in-a-cup.md",
+      "title": "Olive Diagnostics launches AI-powered urinalysis device so you don’t have to pee in a cup",
+      "excerpt": "But Israeli medical device startup Olive Diagnostics has come up with a way to use artificial intelligence to analyze what’s in your toilet bowl — so you don’t have to pee in a cup. The Jerusalem-based company uses an optical sensor and AI-powered device to perform 100% passive real-time urine analysis.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/olive-diagnostics-launches-ai-powered-urinalysis-device-so-you-dont-have-to-pee-in-a-cup/",
+      "originalUrl": "https://venturebeat.com/ai/olive-diagnostics-launches-ai-powered-urinalysis-device-so-you-dont-have-to-pee-in-a-cup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/Olive-KG-AI-powered-urine-analysis-technology-1.-Credit-Olive-Diagnostics.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/olive-diagnostics-launches-ai-powered-urinalysis-device-so-you-dont-have-to-pee-in-a-cup/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/olive-diagnostics-launches-ai-powered-urinalysis-device-so-you-dont-have-to-pee-in-a-cup/amp/",
+      "publishedDateTime": "2022-09-01T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-2022-world-artificial-intelligence-conference-held-in-shanghai.md",
+      "title": "2022 World Artificial Intelligence Conference held in Shanghai",
+      "excerpt": "A visitor experiences a massage robot at the 2022 World Artificial Intelligence Conference (WAIC) in east China's Shanghai, Sept. 1, 2022. With the theme of \"Intelligent Connectivity, Infinite Multiverse\",",
+      "sourceUrl": null,
+      "webUrl": "https://english.news.cn/20220901/e13917c10b6f4dfea4d3e9f1d31589d7/c.html",
+      "originalUrl": "https://english.news.cn/20220901/e13917c10b6f4dfea4d3e9f1d31589d7/c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://english.news.cn/20220901/e13917c10b6f4dfea4d3e9f1d31589d7/20220901e13917c10b6f4dfea4d3e9f1d31589d7_202209013037fa74d4df4de7b4bdc8e04a17b30c.jpg",
+          "width": 1024,
+          "height": 659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-01T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Xinhua",
+        "domain": "news.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-how-ai-can-help-document-legacy-cobol-code-before-its-too-late.md",
       "title": "How AI can help document legacy COBOL code, before it’s too late",
       "excerpt": "COBOL is 60 years old, and when the existing pool of its developers retires, some worry the knowledge of how COBOL applications have been built and structured will be lost. AI tools could be a solution.",
@@ -720,11 +814,11 @@
     },
     {
       "path": "_news/2022-09-01-us-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts.md",
-      "title": "U.S. Export Ban on Some Advanced AI Chips to Hit Almost All China Tech Majors - Analysts",
-      "excerpt": "SHANGHAI (Reuters) - A U.S. order to ban exports of some advanced chips to China is likely to hit almost any major tech company running public clouds or advanced artificial intelligence training ...",
+      "title": "U.S. export ban on some advanced AI chips to hit almost all China tech majors - analysts",
+      "excerpt": "A U.S. order to ban exports of some advanced chips to China is likely to hit almost any major tech company running public clouds or advanced artificial intelligence training modules in the country ...",
       "sourceUrl": null,
-      "webUrl": "https://money.usnews.com/investing/news/articles/2022-09-01/u-s-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts",
-      "originalUrl": "https://money.usnews.com/investing/news/articles/2022-09-01/u-s-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts",
+      "webUrl": "https://www.nasdaq.com/articles/u.s.-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts",
+      "originalUrl": "https://www.nasdaq.com/articles/u.s.-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -732,23 +826,14 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.nasdaq.com/articles/u.s.-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/u.s.-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts?amp",
       "publishedDateTime": "2022-09-01T03:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1106,103 +1191,6 @@
         "AI",
         "AI Hardware",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-gnrh-therapy-could-improve-cognitive-deficits-in-men-with-down-syndrome.md",
-      "title": "GnRH therapy could improve cognitive deficits in men with Down syndrome",
-      "excerpt": "Gonadotropin-releasing hormone (GnRH) therapy improves cognitive function in Down syndrome (DS) mouse models and male patients with DS, according to a new study. The findings reveal a previously u ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220901/GnRH-therapy-could-improve-cognitive-deficits-in-men-with-Down-syndrome.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220901/GnRH-therapy-could-improve-cognitive-deficits-in-men-with-Down-syndrome.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/2/Alzheimers_amyloid_plaque_-_Juan_Gaertner_9638f1223d534b518a192c8478871d65-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20220901/GnRH-therapy-could-improve-cognitive-deficits-in-men-with-Down-syndrome.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220901/GnRH-therapy-could-improve-cognitive-deficits-in-men-with-Down-syndrome.aspx",
-      "publishedDateTime": "2022-08-31T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-israeli-facial-recognition-once-did-border-checks-in-the-west-bank-now-it-snoops-on-casinos-across-america.md",
-      "title": "Israeli Facial Recognition Once Did Border Checks In The West Bank. Now It Snoops On Casinos Across America",
-      "excerpt": "Israeli facial recognition tech is now in use at casinos in the U.S, raising concerns about how private entities will use powerful surveillance tools. Day after day, thousands of faces appear on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2022/09/01/oosto-israel-facial-recognition-surveillance-on-casinos-in-america/",
-      "originalUrl": "https://www.forbes.com/sites/thomasbrewster/2022/09/01/oosto-israel-facial-recognition-surveillance-on-casinos-in-america/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6310bde3528cfaa940213ebe/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-31T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

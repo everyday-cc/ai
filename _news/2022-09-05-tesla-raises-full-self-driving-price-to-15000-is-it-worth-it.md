@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/09/05/tesla-raises-full-self-driving-price-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/05/tesla-raises-full-self-driving-price-to-15000-is-it-worth-it/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/09/MM1152.631753961cc6f.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Tesla’s ‘full self-driving’ isn’t worth $15,000, say many who bought it"
+    excerpt: "By Matt McFarland, CNN Business Tesla’s price for the feature it calls “full self-driving” has increased again. This time to $15,000, making it an unusually expensive option for a car. “After wide release of FSD Beta 10."
+    publishedDateTime: 2022-09-07T15:17:00Z
+    webUrl: "https://kesq.com/news/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/"
+    type: article
+    provider:
+      name: KESQ News
+      domain: kesq.com
+    quality: 39
+    images:
+      - url: "https://kesq.b-cdn.net/2021/05/kesq-us-world.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "Y+XzIVn8xEYJkXeockMlE1wHOM6thDrPdB2rNAJnJ2y4oRdCyf9+P83JBVsoPn8PwQb3oJx17JwGIbYyLtYQlz8Cae95G3VF/twbL3Xu55Cto5a0NdHelm/7e3zztMcjWXp3RzhOu3JBIiCbBNyYyTIKDOmSfvUCG6Im8LcZp5ffRRc4jPn0P0q++w6a341uevjq7v9Yhn09RJGoIvnOxTUNJYG2kolFqpWqvKmbKXEW8t/1xT0QZnipHoWYa9ZDxDdweK/vPSRMQCK678CkDmtgsHGsk82DXKJRUnV/O39BPLEASuW4zUMNOEsT2jc+N4C8dJOFN57WAn0bjr5mYFweP/yOZTyZN+gTtly+KXLuKUTRzM2dhR+11tLbG2qMHenB4jKpE5tK/8HqCCGnOWjmYBHZVi2UOaL0gRV5Z7VhwYH5nOAUyH67JDquSIU2BjyQdu06PoYQuQRZkw4ezy+eRB1F6AiUeFg+R08tYZxuRqbPZM7+2o0D6sueWwtq4Y4Y/cL7VRxxum8ts2pDug==;aDVbk2SZv/Vgn/H4IJW5qg=="

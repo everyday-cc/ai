@@ -2,6 +2,84 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-27-warren-buffett-bullish-on-driverless-trucks-after-purchasing-stake-in-kodiak-robotics.md",
+      "title": "Warren Buffett bullish on driverless trucks after purchasing stake in Kodiak Robotics",
+      "excerpt": "This investment is a significant validation by Berkshire Hathaway, through Pilot, that driverless trucks are on the cusp of being a reality. It may be hard and even scary to imagine an 18-wheeler ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autonews.com/mobility-report/why-warren-buffett-bullish-driverless-trucks",
+      "originalUrl": "https://www.autonews.com/mobility-report/why-warren-buffett-bullish-driverless-trucks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/buffett_0.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-26T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-27-high-school-students-explore-robotics-concepts-at-tamuq-programme.md",
+      "title": "High school students explore robotics concepts at Tamuq programme",
+      "excerpt": "robotics and transportation. The students learned about mechanical design, radio-controlled systems and taking experimental measurements. Benjamin Cieslinski, STEM laboratory manager at Tamuq said ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gulf-times.com/story/723277/High-school-students-explore-robotics-concepts-at-",
+      "originalUrl": "https://www.gulf-times.com/story/723277/High-school-students-explore-robotics-concepts-at-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-26T14:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf Times",
+        "domain": "gulf-times.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-27-ezra-furman-writes-simple-songs-for-the-mind-to-stretch-out-in.md",
       "title": "Ezra Furman writes simple songs “for the mind to stretch out in”",
       "excerpt": "Ezra Furman joined Raphael Helfand for a special episode of The FADER Interview live on Amp to discuss her forthcoming LP, All of Us Flames.",
@@ -370,6 +448,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-see-amazing-views-of-chinas-space-station-from-its-big-robotic-arm-video.md",
+      "title": "See amazing views of China's space station from its big robotic arm (video)",
+      "excerpt": "(opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) New footage from China’s space station shows incredible images of Earth as a robotic arm inspects ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.space.com/china-tiangong-space-station-robotic-arm-video",
+      "originalUrl": "https://www.space.com/china-tiangong-space-station-robotic-arm-video",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Space.com",
+        "domain": "space.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1206,146 +1318,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-can-ai-serve-as-a-great-equalizer-in-the-real-estate-industry.md",
-      "title": "Can AI serve as a 'great equalizer' in the real estate industry?",
-      "excerpt": "Implementing artificial intelligence in real estate can help diversify home ownership, claims Anywhere Real Estate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/can-ai-serve-as-a-great-equalizer-in-the-real-estate-industry/",
-      "originalUrl": "https://www.zdnet.com/article/can-ai-serve-as-a-great-equalizer-in-the-real-estate-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/c6577b3060d93d9e16841239a58f5f621ecf0f5c/2021/11/12/807a95d0-c6f4-46b6-a879-5c477d972029/for-sale.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/can-ai-serve-as-a-great-equalizer-in-the-real-estate-industry/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-ai-serve-as-a-great-equalizer-in-the-real-estate-industry/",
-      "publishedDateTime": "2022-08-22T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans.md",
-      "title": "Google Gave Its Helper Robots AI Language Skills to Better Work With Humans",
-      "excerpt": "Google has started to close the gap by marrying the latest language AI with state-of-the-art robots ... created new control software that taps into PaLM’s language skills to translate spoken or written commands from a human into the actions required ...",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/",
-      "originalUrl": "https://singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2022/08/Google-everyday-robots.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/?amp=1",
-      "publishedDateTime": "2022-08-22T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-graymatter-robotics-raises-20m-in-series-a-funding.md",
-      "title": "GrayMatter Robotics Raises $20M in Series A Funding",
-      "excerpt": "GrayMatter Robotics, an artificial intelligence robotics solutions company, announced last week it raised $20 million in Series A investment led by Bow Capital and joined by B Capital Group, Calibrate Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://labusinessjournal.com/technology/graymatter-robotics-raises-20m-in-series-a-funding/",
-      "originalUrl": "https://labusinessjournal.com/technology/graymatter-robotics-raises-20m-in-series-a-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d3evu7qlt2vui6.cloudfront.net/wp-content/uploads/2022/08/PG04_GRAYMATTER_0822_scansand-scaled-e1660932740192.jpeg",
-          "width": 1162,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-22T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Business Journal",
-        "domain": "labusinessjournal.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-07T02:55:00Z
 originalUrl: "https://www.macaubusiness.com/innoblock-technology-builds-hong-kongs-first-esg-data-platform-on-aws/"
 webUrl: "https://www.macaubusiness.com/innoblock-technology-builds-hong-kongs-first-esg-data-platform-on-aws/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Macau Business
@@ -15,6 +18,6 @@ topics:
   - AWS AI
   - AI
 
-secured: "7CC4QryFYV4q3eJNYryeZ728bzeQZO2JEWVCO6FgiF/seU/8mixjWbjJZksvo/KsCiz6m8LgZllbfKf+eiIiNogilgoL7P1eGAAEvXJPljj18y+tqfDA/ko499lIZBBsuMX++OESLCzOpz8M9vsiTZEoZseVc+h+QU5yp9xlCdCXlZgvbD+eeq2Zy/ektFTOjjA1uQVIw6YfB3IZ2GyC+PzTSY4kyfFG8ZkwAkFsVERKtQ4KshhlXSDvjZRDmOSplIgaN2RnQh9ObJQsNzwMKrfIeE0I8qtYJgXbw4kCPBUeUVRS3qt+ItvpeEkVeb086KPi5VFZH0wBjX7KYKhZPdjZAOhESYNaFNTSKVunZus=;bcr1wEipTtnvkhAImplzhg=="
+secured: "jr8adOvxIMLC3uW83++h+1iUbCXs3MoyYXOQNaf2jkO+//xfL7FPS2v4jl5E1ODmJkLmmnba8nYkBZ43EJ4/Xn23k62yIJKt6XFH0gZpioDt8bLw2bTMA/MRCIfiJs3HbLs4XrSb6dnp0gOsMEnP3/8qrWMeXfNNeG71a17QJZTNsYavxTPHb1rlBWYaz2O02bDlLQX1/5tZSYQkrCjbHgaey9t8TypAzBhi0ucqxwNON5+28hzeL6vYJy3A6w1MTlZXOtc00Et8V46WKIBvnwdB4+w3ntXw2HALmVr3ad7utbf8iQgReQZ4GxM9SGm4h91lUFHunoFJ1Olwa93PKhxyCRe4lHb+YdWg1VMdRok=;caqLEkYSRS/fTphT+EqaXQ=="
 ---
 

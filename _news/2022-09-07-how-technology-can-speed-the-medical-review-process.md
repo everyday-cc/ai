@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-07T13:24:00Z
 originalUrl: "https://www.cio.com/article/405960/how-technology-can-speed-the-medical-review-process.html"
 webUrl: "https://www.cio.com/article/405960/how-technology-can-speed-the-medical-review-process.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: CIO

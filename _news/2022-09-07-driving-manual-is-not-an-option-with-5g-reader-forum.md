@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-07T13:24:00Z
 originalUrl: "https://www.rcrwireless.com/20220907/5g/driving-manual-is-not-an-option-with-5g-reader-forum"
 webUrl: "https://www.rcrwireless.com/20220907/5g/driving-manual-is-not-an-option-with-5g-reader-forum"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: RCR Wireless News

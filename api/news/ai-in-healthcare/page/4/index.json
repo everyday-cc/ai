@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-28-artificial-intelligence-in-healthcare-market-to-reach-usd-1944-billion-by-2030-at-a-cagr-of-381-valuates-reports.md",
+      "title": "Artificial Intelligence in Healthcare Market To Reach USD 194.4 Billion By 2030 at a CAGR of 38.1% - Valuates Reports",
+      "excerpt": "Artificial Intelligence in Healthcare Market by Offering (Software, Hardware, & Services), Algorithm (Deep Learning, Querying Method,",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-in-healthcare-market-to-reach-usd-194-4-billion-by-2030-at-a-cagr-of-38-1-valuates-reports-815359487.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-in-healthcare-market-to-reach-usd-194-4-billion-by-2030-at-a-cagr-of-38-1-valuates-reports-815359487.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook",
+          "width": 920,
+          "height": 482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-28-gpu-as-a-service-market-to-gain-significant-momentum-across-the-healthcare-sector.md",
       "title": "GPU as a service market to gain significant momentum across the healthcare sector",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 28, 2022 (Market Insight Reports) -- The increasing penetration of the Industrial Internet of Things (IIoT ...",
@@ -1344,59 +1387,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-16-healthcare-natural-language-processing-nlp-market-in-depth-analysis-of-industry-share-size-growth-outlook-up-to-2026-with-top-countries-data.md",
-      "title": "Healthcare Natural Language Processing (NLP) Market In-Depth Analysis of Industry Share, Size, Growth Outlook up to 2026 with Top Countries Data",
-      "excerpt": "Jul 15, 2022 (The Expresswire) -- Healthcare Natural Language Processing (NLP) Market - Insights: The \"Healthcare Natural Language Processing (NLP) Market\" Research Report gives an inside and out ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-in-depth-analysis-of-industry-share-size-growth-outlook-up-to-2026-with-top-countries-data-2022-07-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-in-depth-analysis-of-industry-share-size-growth-outlook-up-to-2026-with-top-countries-data-2022-07-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-15T15:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

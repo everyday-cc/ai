@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gadgetsnow.com/tech-news/this-is-likely-why-us-banned-ai
 cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/this-is-likely-why-us-banned-ai-chips-to-china/amp_articleshow/94026320.cms"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2021/12/Nvidia-chips-A.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "US views AI chips as industrial security and a treasure not to be shared freely"
-    excerpt: "Washington is embargoing AI chips and directing manufacturing. The chips play an increasing role in facial and other biometric recognition systems."
-    publishedDateTime: 2022-09-02T21:08:00Z
-    webUrl: "https://www.biometricupdate.com/202209/us-views-ai-chips-as-industrial-security-and-a-treasure-not-to-be-shared-freely"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 67
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/02162027/computer-chips-scaled.jpg"
-        width: 2048
-        height: 1069
         isCached: true
   - title: "Banned U.S. AI chips in high demand at Chinese state institutes"
     excerpt: "The development signaled a major escalation of a U.S. campaign to stymie China's technological capability as tensions bubble over the fate of Taiwan."

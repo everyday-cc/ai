@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-07T13:05:00Z
 originalUrl: "https://www.peoplemanagement.co.uk/article/1798200/ehrc-guidance-ai-bias-right-move-equality-experts-say"
 webUrl: "https://www.peoplemanagement.co.uk/article/1798200/ehrc-guidance-ai-bias-right-move-equality-experts-say"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: People Management

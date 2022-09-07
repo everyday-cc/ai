@@ -2,6 +2,133 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-08-22-2-artificial-intelligence-growth-stocks-down-84-and-92-to-buy-now.md",
+      "title": "2 Artificial Intelligence Growth Stocks Down 84% and 92% to Buy Now",
+      "excerpt": "Shares of Upstart Holdings (NASDAQ: UPST) and Lemonade (NYSE: LMND) currently trade 92% and 84% off their highs, respectively, but both AI stocks could produce market-crushing returns in the years ahead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/2-artificial-intelligence-growth-stocks-down-84-and-92-to-buy-now",
+      "originalUrl": "https://www.nasdaq.com/articles/2-artificial-intelligence-growth-stocks-down-84-and-92-to-buy-now",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/2-artificial-intelligence-growth-stocks-down-84-and-92-to-buy-now?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-artificial-intelligence-growth-stocks-down-84-and-92-to-buy-now?amp",
+      "publishedDateTime": "2022-08-22T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-22-honeywell-shrinks-the-industrial-skills-gap-with-ai.md",
+      "title": "Honeywell Shrinks The Industrial Skills Gap With AI",
+      "excerpt": "Massive labor shortages will require companies to rethink how technology can help their clients thrive in such an untenable position.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/maribellopez/2022/08/22/honeywell-shrinks-the-industrial-skills-gap-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/maribellopez/2022/08/22/honeywell-shrinks-the-industrial-skills-gap-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63027314dced4a5c05f3e7ef/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/maribellopez/2022/08/22/honeywell-shrinks-the-industrial-skills-gap-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2022/08/22/honeywell-shrinks-the-industrial-skills-gap-with-ai/amp/",
+      "publishedDateTime": "2022-08-22T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-22-5-best-artificial-intelligence-stocks-to-buy-now.md",
+      "title": "5 Best Artificial Intelligence Stocks To Buy Now",
+      "excerpt": "The company’s Meta AI is working towards developing artificial intelligence in the digital ... self-driving cars through its subsidiary, Waymo. In addition, the company’s subsidiary DeepMind ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-now-1058867/?singlepage=1",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-now-1058867/?singlepage=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/09/29221800/istockphoto-1274437411-170667a.jpg",
+          "width": 584,
+          "height": 296,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-22T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-22-veterans-voice-relatives-of-ri-aviation-hall-of-fame-honorees-sought.md",
       "title": "Veterans Voice: Relatives of RI Aviation Hall of Fame honorees sought",
       "excerpt": "The R.I. Aviation Hall of Fame has identified a number of those war heroes whose gallantry and/or military aviation service fully merits recognition.",
@@ -989,154 +1116,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-21-people-are-now-testing-teslas-full-self-driving-on-real-kids.md",
-      "title": "People are now testing Tesla's 'full self-driving' on real kids",
-      "excerpt": "The North Carolina resident set out to refute a widely circulated video of a Tesla with the company's \"full self-driving\" beta software -- which allows the car to steer, brake and accelerate ...",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2022/08/21/business/tesla-fsd-tests-kids",
-      "originalUrl": "https://edition.cnn.com/2022/08/21/business/tesla-fsd-tests-kids",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220819141817-tesla-autopilot-steering-wheel-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/08/21/business/tesla-fsd-tests-kids/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/21/business/tesla-fsd-tests-kids/index.html",
-      "publishedDateTime": "2022-08-21T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-21-enterprise-artificial-intelligence-ai-market-growing-massively-by-ibm-microsoft-aws.md",
-      "title": "Enterprise Artificial Intelligence (AI) Market Growing Massively by Ibm, Microsoft, Aws",
-      "excerpt": "New Jersey, N.J., Aug 21, 2022 Enterprise AI is a category of enterprise software that leverages advanced artificial intelligence techniques, including machine learning, to drive digital ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/enterprise-artificial-intelligence-ai-market-growing-massively-by-ibm-microsoft-aws",
-      "originalUrl": "https://www.digitaljournal.com/pr/enterprise-artificial-intelligence-ai-market-growing-massively-by-ibm-microsoft-aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/04/f4f04bbf0a33e2251f03a5748650712826f14ff2-2-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-21T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-21-anthony-levandowski-is-the-messiah-of-his-new-ai-god.md",
-      "title": "Anthony Levandowski is the Messiah of his new AI God",
-      "excerpt": "It then reveals some of his innovative projects, like the robot he made in 2001 that could count Monopoly money, and the driverless ... potential of artificial intelligence is something that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/anthony-levandowski-is-the-messiah-of-his-new-ai-god/",
-      "originalUrl": "https://www.neowin.net/news/anthony-levandowski-is-the-messiah-of-his-new-ai-god/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2017/09/1506594532_ai_god_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/anthony-levandowski-is-the-messiah-of-his-new-ai-god/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/anthony-levandowski-is-the-messiah-of-his-new-ai-god/",
-      "publishedDateTime": "2022-08-21T00:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

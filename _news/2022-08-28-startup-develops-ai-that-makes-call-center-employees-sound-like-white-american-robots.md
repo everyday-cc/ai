@@ -15,6 +15,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "VByH7A8xxlaYGdSvIk9dXI45+UeQt5uA1DaDV4IlZx6LDV3hAbpT4AC4iGpx+yrFvR3CJlPaiCqwXp5zmJ1aKyBZYtC9Pa63YilH8Mkd3C2fiouwhSvRk1YqpJVy2gtgCUbv5dUfBdgiEpzN4OnmVfmH/kPImZabWqxAE/98ZvrosXj6JZJaGqFlSrhdqS3s9TsFnSvmVGiYDdLZphvgSSmKVDel4oism+5eMKjlzpgUPbkdMaYOCVhJGOijJhqVxnGNs4M/lxZKOpG2A4C8dwqTqbXJj8dJg7w6J5qhd7k7NZZsxWr/m5A4SeZgGFggfEuPkzDkz6rDfsMHUouRNeodYyAJasgHyMRjSEyFy0Q=;Kfbsbj/1W4Nl7KxaH355Ng=="
+images:
+  - url: "https://s.yimg.com/ny/api/res/1.2/9Q3Nzya3jKi3ygpRe8Scjw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_mashable_370/cb35956c039b7fe15852e5ea8716b040"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "RbfwQ+qoGYonNVKcCGn7/CAoSfSWbN8fDbMnuu4UBdiAqpw+KU9sp0VdJ8UOJxqPY6c/ZqHq+KKRIoai6nQa03IV23zRZxOJjS3tj8GIKtm3yjmZOjdxyyyBemvVWYMLiOOmc9MH13MsGi9fwaqzkldZY+EtbrsmfayN1yoP1Kh349H72f+qAK91HRvKkLI+u3vqybC537yiT3rIe8k7RP4xXEvv3Q/KNAv3J+oy/bnjRX0rFbmuJu48ZQJLLqbEP6CwHMB0Blqlw+CTsN8HqWwyKtu/TXf+CSd4JBcPoxa2qKdQsz4DV7anB5KhOEHbmAF5cZzn5DhicjkpC83fCuzAP5JqQIi28p1zUsJ+/CY=;PRhifMw4cyruq15xqPgxlA=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-07T13:21:00Z
 originalUrl: "https://www.globalbankingandfinance.com/the-battle-of-robots-and-accountants-with-a-side-of-statistics/"
 webUrl: "https://www.globalbankingandfinance.com/the-battle-of-robots-and-accountants-with-a-side-of-statistics/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: List of Banks in Belarus

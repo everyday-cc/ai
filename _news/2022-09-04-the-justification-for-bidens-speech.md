@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "President Biden announces $25 million grant to the Heartland Robotics Cluster"
-    excerpt: "President Biden held a White House news conference today where he announced that the Heartland Robotics Cluster, led by Invest Nebraska, was one of 21 finalists awarded a multiyear grant from the U.S."
-    publishedDateTime: 2022-09-02T21:02:00Z
-    webUrl: "https://siliconprairienews.com/2022/09/president-biden-announces-25-million-grant-to-the-heartland-robotics-cluster/"
-    type: article
-    provider:
-      name: Silicon Prairie News
-      domain: siliconprairienews.com
-    quality: 51
-    images:
-      - url: "https://siliconprairienews.com/wp-content/uploads/2022/09/Screen-Shot-2022-09-02-at-4.59.15-PM-e1662152436275.png"
-        width: 700
-        height: 449
-        isCached: true
   - title: "Biden weighs curbs on US investment in China tech and action against TikTok, as new limits on AI chips also considered"
     excerpt: "The Biden administration is considering an executive order targeting US investments into Chinese tech companies as part of a broader strategy that also involves new restrictions on chips sales to China."
     publishedDateTime: 2022-09-03T13:33:00Z

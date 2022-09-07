@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-07T13:26:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-7-four-companies-offering-innovative-solutions-incorporating-artificial-intelligence-for-retail-named-idc-innovators"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-7-four-companies-offering-innovative-solutions-incorporating-artificial-intelligence-for-retail-named-idc-innovators"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: Daily Herald

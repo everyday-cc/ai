@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-07T13:10:00Z
 originalUrl: "https://www.outsourcing-pharma.com/Article/2022/09/07/sanofi-strikes-20m-ai-drug-discovery-deal-with-atomwise"
 webUrl: "https://www.outsourcing-pharma.com/Article/2022/09/07/sanofi-strikes-20m-ai-drug-discovery-deal-with-atomwise"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Outsourcing-pharma

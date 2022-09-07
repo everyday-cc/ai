@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-07T13:06:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/virtana-launches-kubernetes-support-strategy-across-the-portfolio-with-container-rightsizing-in-infrastructure-monitoring-and-cloud-cost-optimization-1031729231"
 webUrl: "https://markets.businessinsider.com/news/stocks/virtana-launches-kubernetes-support-strategy-across-the-portfolio-with-container-rightsizing-in-infrastructure-monitoring-and-cloud-cost-optimization-1031729231"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: Business Insider

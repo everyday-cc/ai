@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI Ethics Left Hanging When AI Wins Art Contest And Human Artists Are Fuming"
+    excerpt: "A recent viral news story involved an AI system that purportedly won an art contest, raising all sorts of AI Ethics questions about AI versus human endeavors. We unpack the matter and showcase the real issues and the true facts of the case."
+    publishedDateTime: 2022-09-07T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/09/07/ai-ethics-left-hanging-when-ai-wins-art-contest-and-human-artists-are-fuming/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 61
 
 secured: "oBwfKQTp+fpsP22sAFrW+MjU5kXO3tuTAMl60L5SNzkU1Y11wWaf3phwO35hkLkBnBw52UdVcXxKw/v6ZDx5OOO6gdI5C+16vkqOPpO30mKbHPMCuuE0wKtVezm7iBDvsvKsq1tGVTS2sZ1CghL0Kc9W2T4qELdn/n51XHUQVkg5snlbTaUm/wNhnCHOtkP3PA+cUTLHMIfuk9rue/JydgePH40fvCcP6ve5GVhtnc50Uq4F9yh87p8H9j/Kuu86nl4r/Qf6yXBBgexsfffV8o9dNLn/dFxppCpviproXdOjLQmv7XKKR93CD6ofj4ZSj6PYkNt3yfYALiTZQbzXo+7GsxhdKohM2qsVuZQgsUVkkELveP5aWmT/AXrPFkX7h8EkBwikRZwN0Y2CbCPCKM3cRMX3ST9nzXQ9f1xy//s36uAKOlR7alLREL7U+fm5hurHjb3egfIySCWsZ1gI4XqDwVnQUFjsHgAj8tThIzihq+pX/arRIWOv4kMOgk0Q/XLkBHBOdANZWvHeT1NPUQ==;7oggV6EArCT6qjzTudqC1A=="
 ---

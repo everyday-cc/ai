@@ -63,7 +63,7 @@
       "originalUrl": "https://electrek.co/2022/09/05/tesla-raises-full-self-driving-price-to-15000-is-it-worth-it/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -167,7 +167,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/09/03/unpacking-the-best-top-ten-quotes-about-artificial-intelligence-leveraging-modern-day-ai-ethics-thinking/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -210,49 +210,6 @@
         "AI",
         "AI Ethics",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-artificial-intelligence-can-be-used-to-better-monitor-maines-forests-study-finds.md",
-      "title": "Artificial intelligence can be used to better monitor Maine's forests, study finds",
-      "excerpt": "Monitoring and measuring forest ecosystems is a complex challenge because of an existing combination of softwares, collection systems and computing environments that require increasing amounts of energy to power.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-09-artificial-intelligence-maine-forests.html",
-      "originalUrl": "https://phys.org/news/2022-09-artificial-intelligence-maine-forests.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-63.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-09-artificial-intelligence-maine-forests.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-artificial-intelligence-maine-forests.amp",
-      "publishedDateTime": "2022-09-03T03:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     },
     {
@@ -975,22 +932,31 @@
       "title": "Industry’s first autonomous spreader debuts at Farm Progress Show",
       "excerpt": "Case IH and Raven Industries introduce the agriculture industry’s first autonomous spreader: the Case IH Trident ™ 5550 applicator with Raven Autonomy ™. Unveiled at Farm Progress Show 2022, this innovative solution delivers on customers’ demands for autonomous equipment to help solve labor challenges and increase productivity on their operations.",
       "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-30-industrys-first-autonomous-spreader-debuts-at-farm-progress-show",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-30-industrys-first-autonomous-spreader-debuts-at-farm-progress-show",
+      "webUrl": "https://www.eagletribune.com/region/industry-s-first-autonomous-spreader-debuts-at-farm-progress-show/article_bd0c3b06-7889-504f-b01b-c4540ac61a68.html",
+      "originalUrl": "https://www.eagletribune.com/region/industry-s-first-autonomous-spreader-debuts-at-farm-progress-show/article_bd0c3b06-7889-504f-b01b-c4540ac61a68.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/f7/6f732a6f-663d-5699-9263-ff52f4203a6d/630e214bf2e79.image.jpg?crop=606%2C318%2C522%2C0&resize=606%2C318&order=crop%2Cresize",
+          "width": 606,
+          "height": 318,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T07:30:00-07:00",
+      "publishedDateTime": "2022-08-30T07:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1420,6 +1386,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-elon-musk-focused-on-getting-self-driving-teslas-in-wide-release-by-year-end.md",
+      "title": "Elon Musk: focused on getting self-driving Teslas in wide release by year-end",
+      "excerpt": "The world must continue to extract oil and gas in order to sustain civilisation, while continuing to also develop sustainable sources of energy, Tesla founder Elon Musk told reporters at a conference in Norway on Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/energy/elon-musk-says-world-still-needs-oil-gas-2022-08-29/",
+      "originalUrl": "https://www.reuters.com/business/energy/elon-musk-says-world-still-needs-oil-gas-2022-08-29/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/R4cQPqkeAFIqFa7vRkbVIZLmGzE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RNKFK5ENWZLSBKGNTC4P5OADEE.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

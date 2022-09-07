@@ -1,24 +1,22 @@
 ---
 category: news
-title: "U.S. Export Ban on Some Advanced AI Chips to Hit Almost All China Tech Majors - Analysts"
-excerpt: "SHANGHAI (Reuters) - A U.S. order to ban exports of some advanced chips to China is likely to hit almost any major tech company running public clouds or advanced artificial intelligence training ..."
+title: "U.S. export ban on some advanced AI chips to hit almost all China tech majors - analysts"
+excerpt: "A U.S. order to ban exports of some advanced chips to China is likely to hit almost any major tech company running public clouds or advanced artificial intelligence training modules in the country ..."
 publishedDateTime: 2022-09-01T10:25:00Z
-originalUrl: "https://money.usnews.com/investing/news/articles/2022-09-01/u-s-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts"
-webUrl: "https://money.usnews.com/investing/news/articles/2022-09-01/u-s-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts"
+originalUrl: "https://www.nasdaq.com/articles/u.s.-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts"
+webUrl: "https://www.nasdaq.com/articles/u.s.-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts"
+ampWebUrl: "https://www.nasdaq.com/articles/u.s.-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/u.s.-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts?amp"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "pBviQZHNIoVIJ1Df9/eV/CQJcyhbMIRxoeS2Vf2lGgw7jmb5RO2tayYhZbRh6kCmjPxfTcHe+tp4TR1lKRDPnX42gg3BNRqheHqEBs6wskG+qDvRsmUCJxxlM7HoIx88OsGFFOykbeL+jhlsZA1Gnzb32qQSfJZL0n2f+vpAUeq9Ao1jJNXg4wyuEGeKmFIJ00cnCEZLB7veiAlckSw1gCksd36Fca4u1SndXXFweQmSQFjN2HCTkwxjxL7hDxi45ylaT6LP5gJwSlyfJmdiqBsCrEUjM9T655woPvm2G2cAKCp0nblv0A5hWyPkrqITq5fecEfVX6IoyYGyto/MFCz2KNwUUZw4uLFXNCjyoOg=;KKoeH02UOy54Z7FgnEumnQ=="
+secured: "/Teg+12FLXYHS1vgVDbO0EaYb0SRoxop9AGCc15f4woOVWwjU+fLv96P+pfVP8YDm7EIo51juhiW8ItJbBw0KVqk0dBlXXjTefVYKlZAJHGCRT6kZYDNaGnOLvLNavu61bXeLmEgFpAE1PpSFsrjW+fcN4La8pD6xlodBOVsLh/f7nkYRs9J3JWQlzd5PwdkaI9B+z7UIroyppr9weQQKNEV4T7Zo5O6Nq2hCb3k0cIPXkI7j9DFHiYMZsycHl41hbM8U6gkUmcv/N4HxSJNjyaW4S/xxMnUMSFpxakFVK56nSyEbQSSvm0EQm95xtmml0m5Ucd+GzchBSYn5N7rVo/PDBTBks/tMeDQhi1zKso=;f0jlX3dW5bwDXYui452ZnA=="
 ---
 

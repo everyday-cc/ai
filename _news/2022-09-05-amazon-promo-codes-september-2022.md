@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/coupons/amazon.com/"
 webUrl: "https://www.forbes.com/coupons/amazon.com/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Veritone to Showcase Award-Winning AI Solutions at the International Broadcasting Conference 2022, September 9-12"
+    excerpt: "Through Veritone’s AI offerings, content creators and owners can efficiently and securely share, manage and protect assets; expedite content monetization; and scale, localize and translate digital content."
+    publishedDateTime: 2022-09-07T04:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-ed202b6be415452abe926760a6c4cd27"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 18
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "7vwooxMl1J5MADFXQllwxqVhr1udmOt5RJmgacklS/sAluMlSDu3GUGgafuFmFIQOpGTISIoXpPp3ZecZvwvHIMwYYcETsUDvSQzsqLXDYX+GfLhR4UHaUwuTsIKNJebYIlgnyBm8/8jXbiB94yuXu6v8Qv8GwERKMqjttu0+YW2Jeti9axKSIVmAjoYDBwEhP91WzjmQrO5cAXCdMiGSWdv4/3mUzXWOUsZeh223mjEc49IuZ5F14F+t9CjLcnavBQiAIzKddzPzoL6GOma+In9d3v0/D6kicv+VyFb1CPSXrN0iP7qDJylRWYwLcdrRyOTWmvJY1b6JA4+Y+KP9Z+U22LcdGZ0QDdlHp/tGq8=;27Kq5YNuD9oViwsHxrMIJg=="
 ---

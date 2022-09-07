@@ -2,6 +2,40 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-02-liquidnet-emea-business-development-head-departs-for-ai-fintech-imandra.md",
+      "title": "Liquidnet EMEA business development head departs for AI fintech Imandra",
+      "excerpt": "Liquidnet’s former head of business development for EMEA has left the firm to join artificial intelligence (AI) fintech Imandra in a similar role, The TRADE can reveal. Dan Squires has been appointed as a vice president of sales at Imandra after spending ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetradenews.com/liquidnet-emea-business-development-head-departs-for-ai-fintech-imandra/",
+      "originalUrl": "https://www.thetradenews.com/liquidnet-emea-business-development-head-departs-for-ai-fintech-imandra/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-02T02:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The TRADE",
+        "domain": "thetradenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-ai-in-fintech-market-will-reach-more-than-61-billion-by-2031.md",
       "title": "AI In Fintech Market Will Reach More Than $61 Billion, By 2031",
       "excerpt": "Artificial Intelligence has been growing its influence in Fintech, and is projected to hit $61 billion in under 10 years. We tell you how.",
@@ -191,42 +225,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-us-startup-simaai-starts-shipping-machine-learning-chip-and-system.md",
-      "title": "U.S. startup SiMa.ai starts shipping machine learning chip and system",
-      "excerpt": "Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management & Research Company, said on Tuesday it started shipping chips and systems to customers that are testing them, an important step for mass production. We apologize ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system",
-      "originalUrl": "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system/wcm/d3b033f1-d689-4d7b-bd86-a55744e847fe/amp/",
-      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system/wcm/d3b033f1-d689-4d7b-bd86-a55744e847fe/amp/",
-      "publishedDateTime": "2022-08-30T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
       ]
     },
     {
