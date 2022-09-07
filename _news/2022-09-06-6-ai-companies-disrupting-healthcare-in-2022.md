@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/6-ai-companies-disrupting-healthcare-in-2
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/6-ai-companies-disrupting-healthcare-in-2022/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/09/Dr.-Rajendra-Patankar-CEO-Jupiter-Hospital-Pune.jpg"
         width: 682
         height: 1024
-        isCached: true
-  - title: "Healthcare AI Can Augment Clinical Workflows"
-    excerpt: "The current state of healthcare is where healthcare providers sit and type in front of a computer while caring for patients. By doing so, critical aspects of their stories can be missed. As artificial intelligence (AI) advances,"
-    publishedDateTime: 2022-09-02T11:08:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-health-artificial-intelligence-d161438367430be8c153fc236c833a10"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "atOAqpLdfvKuSGmFePi4YEqdaEAFM/Kvim/hnpf2QtZ9WU5kK/K3X4dJtWePkocR63D10kunE2Zm/IGAU7U1ynxLkrTuWvpgBvWclj3Jh1he+MFMIw7nauVkDGcBL5v/Juiy4zbfA4Q1SP/zekfbvPap2I7tPmCJYemQokNcL+pbsPmPeLS7xkWW9696+HiM5vUuMFpQRk23SDOVJvp2KJseR3O8VRM9bzk2IyRZ1y+u/a5JxNjsUeOLV56U/eO1BN7hW0/hH9hPcZ5aJ7oM55WMnWUyFkn7GcQb7GzXkr2B+DTwFmvpxQdyJB9vTFZWaqKhgtzFZbuU8EMn6KGPW+QpDSF8Ut03Ids27Iv/7BWXCbzsxuxOmCCau4MDRPhanC6vqHW5JJ4+HlFl/eUc74IHLjXrr6SNTFawZJUhpUkFcOVbCW4JDBqqcjw69mFcByjBujzEWC1nzHDkbHf0gmEvwJYu6IfDsiXGX7cy0uEfTtLC6tR9bQrlw1iC+TCsKQGBy7sKv0ggTcny5L0koA==;OG1aS6cMmUNS02/dJ6xMZg=="

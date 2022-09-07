@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/09/03/usa-white-house-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/09/03/usa-white-house-president-joe-biden-advances-regional-innovation-in-cleantech-energy-and-ai/amp/"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Justification for Biden’s Speech"
+    excerpt: "Biden’s sharp speech has only one justification ... Facing that reality is the way to prevent it from doing worse harm. Only recognition of that unwelcome new reality can change behaviors ..."
+    publishedDateTime: 2022-09-04T05:04:00Z
+    webUrl: "https://www.theatlantic.com/ideas/archive/2022/09/joe-bidens-speech-trump-republicans/671326/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 54
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/EZHli7WLDtcURTNvU4Vlp48ticY=/0x102:4792x2598/1200x625/media/img/mt/2022/09/biden_message_to_republican_voters_2/original.jpg"
+        width: 1200
+        height: 625
+        isCached: true
   - title: "President Biden announces $25 million grant to the Heartland Robotics Cluster"
     excerpt: "President Biden held a White House news conference today where he announced that the Heartland Robotics Cluster, led by Invest Nebraska, was one of 21 finalists awarded a multiyear grant from the U.S."
     publishedDateTime: 2022-09-02T21:02:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/global-development/2022/sep/05/iran-gove
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/global-development/2022/sep/05/iran-government-facial-recognition-technology-hijab-law-crackdown"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Iran might use facial recognition to identify women who violate hijab law"
+    excerpt: "Iran might use facial recognition to identify women who violate hijab law. The regime continues a crackdown on women's dressing."
+    publishedDateTime: 2022-09-07T00:36:00Z
+    webUrl: "https://dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/"
+    ampWebUrl: "https://dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/amp/"
+    cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/amp/"
+    type: article
+    provider:
+      name: Daily Times
+      domain: dailytimes.com.pk
+    quality: 58
+    images:
+      - url: "https://dailytimes.com.pk/assets/uploads/2018/06/15/US-restaurant-chain-in-hijab-row-orders-diversity-training.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Iran to use facial recognition cameras to enforce new hijab laws in chilling crackdown on women not covering up"
     excerpt: "IRANIAN authorities are plotting to use facial recognition cameras to spot women defying strict new laws on wearing hijabs. The chilling crackdown will see women who refuse to cover up tracked"
     publishedDateTime: 2022-09-05T09:35:00Z

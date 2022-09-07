@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Healthcare AI Can Augment Clinical Workflows"
-    excerpt: "The current state of healthcare is where healthcare providers sit and type in front of a computer while caring for patients. By doing so, critical aspects of their stories can be missed. As artificial intelligence (AI) advances,"
-    publishedDateTime: 2022-09-02T11:08:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-health-artificial-intelligence-d161438367430be8c153fc236c833a10"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "9ijMkBK6WFmR84o85YrgyoeTY5QKtfjgAo6dzN6VWjXGSlX9r5heiHItNY3QdsZGxtlYNBMeXVO6ww2kRsMjitBSlFOVaRMp5R9w7lJYnUkssGglA4VtrUfG35M8qGgbuigoJdhasqoSd6vWLccvNwOwx6fKU/MF6e5wjrp0bgJPCcmqtfSBDI8rawAE77/ztJB57HSDl1SQWx71v2h2FPhaMn4qRRHq2dX2g4c3o41x8QTEl4XyqsaSkpItQSuIg10/uqgT30zJBMdG626vwe2JxXbg8Oo2nnyghwJnSXfQO/dW0jdas0z2TKIiOgP34+1C4hIrcQT02cZf0M0lTju9YzHZgC9FocRqSQAK7Uo=;EdaysttTdBYe0Ny+naf+Ew=="
 ---

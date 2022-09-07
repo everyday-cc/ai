@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-06T19:00:00Z
 originalUrl: "https://www.afr.com/technology/aussie-ai-start-up-merges-with-us-health-tech-player-ahead-of-ipo-20220906-p5bfsr"
 webUrl: "https://www.afr.com/technology/aussie-ai-start-up-merges-with-us-health-tech-player-ahead-of-ipo-20220906-p5bfsr"
 type: article
-quality: 17
-heat: 17
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,7 +16,14 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
-secured: "6k5PPnUjRf2PJJ3oIi/IA29aELo9b1Re/Je5O4zN75vd7rxh4Gmdi94nfREpuc5WZ2ye0XmA2SnalOKdU1F4+upW55kTPujbaGk3s9bPRHtH2m1FD2G8d33wonMNaxIcjxaQo0ZT2P3MWRkVPSwj/3YPHlsuQWuTMscKN9x1L4nqm5g0SA1FFbnMPC9HcB1C7En8CLq3OaKl3QV/fAFyRAPtDBPWDdR5BHMbQuoEfbMTaDY9J3ByGNbJ7WHcqLoCB4Sc831swGXLmDksfhU53E2XTxse3HSmTT/AEzIzCYrdhqigR1cU6FfjVlKBOHRfmMgY49UHiSziV5jDMvVLUK0nNEnhndvxADlb9JgjDb99+hvenOlxCsWNXwo81CeK/ejK58t8KfpEnXAav4sQwjRBF+eBlNy0Yw7zW0jBpT91c3NLgYZQI2DnyGmeN+VBYUrMA2M46IW4rLdNOvuTO/XINu1lsvNWKo01Lpnr+GQkFyParBAHvTha9njUDLO4ytheXcMnU+LnR4bmKIx6+g==;oQI7FHvRnAhuRhhLudhalg=="
+images:
+  - url: "https://static.ffx.io/images/$zoom_0.5298%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/9944768b238b5525f44e18364be73e8280d0bcb7"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "X+Z9d7MtKkwGqHHTcaKYEWhbLMJdJ4go0QwlPu/4llTrbISkgNewp7LxPFcpN0OmP0R0icWnF4ioECZAwT7kDOlRBMiUhpxQvTNQxROl387c+9T8Ik+u0IU24RMclrSBQkk4J10dIv6ojiOU4sRBt37d6YDHBU/IrjMmbUVF7yGa8MrnxpkOzhG0SBI0+O/cDHVv1AylzdHizsUzUVp7RNrZP+jAcFc5vSrwiQOvI1JWK/HnxYeVyGPvBtBPIbisWI84GfpSapoyDtqwy8iJc4fhA9+xLVu4VHrc5gNQNfTl1PTP4UDIB4PxMB7AVrUBYDGeGZU3p4U8EM5U9/HOJ6BYz5vFCYrRKniAqlnbeI8=;OTLkWcwJpnQv9VgaZyH3VA=="
 ---
 

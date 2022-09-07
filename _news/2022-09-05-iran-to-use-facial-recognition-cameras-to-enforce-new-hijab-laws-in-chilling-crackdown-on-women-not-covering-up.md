@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Iran might use facial recognition to identify women who violate hijab law"
+    excerpt: "Iran might use facial recognition to identify women who violate hijab law. The regime continues a crackdown on women's dressing."
+    publishedDateTime: 2022-09-07T00:36:00Z
+    webUrl: "https://dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/"
+    ampWebUrl: "https://dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/amp/"
+    cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/amp/"
+    type: article
+    provider:
+      name: Daily Times
+      domain: dailytimes.com.pk
+    quality: 58
+    images:
+      - url: "https://dailytimes.com.pk/assets/uploads/2018/06/15/US-restaurant-chain-in-hijab-row-orders-diversity-training.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Iranian authorities plan to use facial recognition to enforce new hijab law"
     excerpt: "Government says it will use technology on public transport in crackdown on women’s dress"
     publishedDateTime: 2022-09-05T04:00:00Z

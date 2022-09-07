@@ -1,22 +1,18 @@
 ---
 category: news
 title: "SAS Explore reveals the future of analytics"
-excerpt: "Registration is now open for world's premier AI and analytics conference this September CARY ... Teams will share how they used SAS Viya on the Microsoft Azure cloud platform to build innovative solutions that make a difference in their organizations ..."
-publishedDateTime: 2022-09-06T14:49:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/sas-explore-reveals-the-future-of-analytics-1031726717"
-webUrl: "https://markets.businessinsider.com/news/stocks/sas-explore-reveals-the-future-of-analytics-1031726717"
+excerpt: "SAS Explore will spotlight a lineup of prominent keynote speakers, dozens of sessions from SAS customers and partners, and extensive learning opportunities.   SAS: Around the Globe in Three Days \"SAS Explore is made for technologists,"
+publishedDateTime: 2022-09-06T16:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-sas-explore-reveals-future-analytics-/2022/09/06/9667724.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-sas-explore-reveals-future-analytics-/2022/09/06/9667724.htm"
 type: article
-quality: 54
-heat: 54
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
@@ -28,6 +24,6 @@ images:
     height: 267
     isCached: true
 
-secured: "TRApr4EP7ftuWsvwOGehg6D//ZYlbNKoiB9NIIcnb680xqLzc5KG4Ckg3LVD42lOT/iyLMrfvQGFgd5Af9bayxJgiXq2Xe4w8zl8dtYO50SAsG5tMVDoL9OZmYdXIwUGT2es9uegnJKkOOF0K8PuIpN/xUvXJT5xnCuo903sNqoubR0Wpbh80g6cS/UGdwkQuuzz7Afmi36i2xkEFiC3KQK89Oyeh33wLQU8fRftMIxC8wIuUf7W6Yl7Ta41RVbsP6tfE6lwjafIInIo4EYdX5VVk1RDGPtDXJcTmRW6YwAmQsMxHABa6o2zWxElonKgoNJqzxjJom8nD1uuJOziWbCLDq7HAFC20DCVto2Rjd8=;nPyfEgOsq+QWGIz91D9xFg=="
+secured: "h++jbn6z4fhk4n1C31fvWFQAY+8tugYm8mOJydPKJyWyXBmbK+uDaAhOB+Qsj/biHREcdbugBMhKSrpkfuUJTZCp35IQ/5/mkg862h4pVjEucVpB9Rz6RnwhYbkbsYvbnWFb29mlLnEqlH3/RT6zVCa0z0jnd5EGoXPIK91QaMNIiKNLk1hOG/QKtMFfFUy7Yvrw3N8LPdPKV9P9LQyGDoBtEfdXsgO1U11IAwteRZZAPZqwysvxb+6yl29FMmPBYDuyn37TO7fXRCSgmSkeBLILditZjB8Ztq3g7tFYmwoqFH/X2vwgOPdQGguttiOR1jcMNwV9iE6oXnCTgPoxCuT6pM+VjOISv54yqffjko4=;5xgZW5GNM3/l6pu8LlFdMw=="
 ---
 
