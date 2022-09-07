@@ -1,20 +1,20 @@
 ---
 category: news
 title: "AWS Launches Region in the United Arab Emirates"
-excerpt: "(NASDAQ: AMZN), today announced the launch of its second Region in the Middle East, the AWS Middle East (UAE) Region. Starting today, developers, startups, entrepreneurs, and enterprises, as well as government,"
-publishedDateTime: 2022-08-30T07:42:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-aws-launches-region-the-united-arab-emirates-/2022/08/30/9663810.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-aws-launches-region-the-united-arab-emirates-/2022/08/30/9663810.htm"
+excerpt: "AWS is committed to helping customers in the UAE deploy the most advanced cloud technologies and achieve the highest levels of security, availability, and resiliency,” said Prasad Kalyanaraman, vice president of Infrastructure Services at AWS."
+publishedDateTime: 2022-08-30T06:27:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-economy-amazoncom-inc-d9b9452aac444bf3821796b7f621f354"
+webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-economy-amazoncom-inc-d9b9452aac444bf3821796b7f621f354"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "f/mKbbD+OcLecy+K80bR/KG4T29fMwxa5op38/2Q2oWnWX89Z35pNHMT7PaOx+985KtfIhS1vJRBRxeJ0m5tvXCu62h70EyRz/Zs9+8YD4/5KonXpWZsDMiB9gQNCo2wkEQdy95r46gsHRZEXWdUlmdILGj2CSNe1lod6gxGb+HQ+ggXn2GRnyZL6XhUKHj44fRdyUZbraz2kTYSiZtVt3sc07e6OyLkr7A08+7M/TbdU99cOZTQ334+TPjBagncBg8mTLRvWfLBco2NTHqt0UKOnJHJCUYDkXpe7OkkOwRA+bxXcG8Az8NQ/YBrwbBmmwSdhZiOkoy5OH//+zQnaoJbrY3aIjGND7WPu/dzkLk=;ZYMJySfMGlw6lUV8spblZg=="
+secured: "ecUhtVK9VpgveJnjleLXnOWoWgbawP40b4qNEBMI/XWuCHYQmFfPqgfu6FIPtwir2ET2zu3kHrZ8lNsa2gDG9WV/lk0CAMk2PUbjqSQLI7+e9ASQ6CR7lKDsJgHees0hna2Vg3TQ4qvL2OXfnym+03rgnkOQJQ0gVAmFtk9TPk9ErvbIQoZhsBv8PPk2YaYgOoSoL8TMHwS/ABcPRvCeeM8rLV5JD0V0yQ5kdJBPhV1d0q5Mn68yxNB3hwbkPkVQ1CY4R3M6f888Tanvn3MYM+mYTLreqijCrDs2nCD6dvByhhp9wT+oxaqMm42DX00c2tYVysS2XblnaFM0dHtH/X6vKgJLqR1WUBbnCFE8MzQ=;hyRDFz11T9SOvw9SjG2KNQ=="
 ---
 

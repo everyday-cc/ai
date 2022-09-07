@@ -1,24 +1,25 @@
 ---
 category: news
 title: "U.S. startup SiMa.ai starts shipping machine learning chip and system"
-excerpt: "Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management & Research Company, said on Tuesday it started shipping chips and systems to customers that are testing them, an important step for mass production. We apologize ..."
-publishedDateTime: 2022-08-30T13:36:00Z
-originalUrl: "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system"
-webUrl: "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system"
-ampWebUrl: "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system/wcm/d3b033f1-d689-4d7b-bd86-a55744e847fe/amp/"
-cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system/wcm/d3b033f1-d689-4d7b-bd86-a55744e847fe/amp/"
+excerpt: "Aug 30 (Reuters) - Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management & Research Company, said on Tuesday it started shipping chips and systems to customers ..."
+publishedDateTime: 2022-08-30T13:08:00Z
+originalUrl: "https://www.reuters.com/technology/us-startup-simaai-starts-shipping-machine-learning-chip-system-2022-08-30/"
+webUrl: "https://www.reuters.com/technology/us-startup-simaai-starts-shipping-machine-learning-chip-system-2022-08-30/"
 type: article
 
 provider:
-  name: Financial Post
-  domain: financialpost.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Finance
   - AI
   - Machine Learning
   - AI Hardware
 
-secured: "+8whJhHKlSPlWaD772go0QFKSjjeZ4OHP7Qc53+1vF0mF9R87jcTSrLRc4KCXg92rH73XZJqczmQXWCWY7yMNjSqYZo18lM9+9hzF2LKkBLjFUWBF130QeCBaE4qS6f+GmVpVX5JqEy1zgehQQENND6qwwBUYg3OIO8V9eGMCE9C0YO5KOG5zgrAMNI2IHkNOUAPrwyJ1IPyayY8PGPAptKeg+YXEWCTaMdCkZWsGlhOjg+EmoP5otiQX4knTuV+/v0uYvIg0SDy9SADMJLB3vVsnbqLJNErwSnKjhKGpyUJzVA+tJsi/DdjHT+cDHBQLjFPcd885oOXuzYxxIAWz47Gu3N4hbPRemVl4D1uiqo=;ye4Va/b6rL+qQ/6SEPOipw=="
+secured: "2JHDRFJYuoMTkSAlZ8pbVmzQQNw7nKcegHsdFl3jg7jhcfUJQBRvQfBIaUmqiZBLkf4tmtiedOKq7kud+ryweoSpfgBpWR03j4RnFg2falvPfDKK0EcjGwY1m88lwK3nYRjZXd0wK2G8bKNlRCSsgp5MLhsVHRyLOmW53zUft/WocHK8/OTub5tJAKK08uOsl57HT7tmk4s6QEsGqArWfJ8KJw1QjB+Tth/v3GsbVCMc8OmcDrpSLcdC+R92mofoF0tZi2yn5cMiSC60lHDksCor5RhHnD5WTN7Wb2/X3H1XuRqUFUrQvwPJhPBMSVtbGNwTV8Au32gaWXDNEZ/8AsLItL5xIyXxjxW+COTyDyQ=;2ORhefJj+W221zXs+YUhyg=="
 ---
 

@@ -1,28 +1,20 @@
 ---
 category: news
 title: "Self-driving cars: A primer"
-excerpt: "(Motor Authority) — Self-driving cars are part of an uncertain future, but automakers have signaled they are constantly moving to a day when at least some of us won’t drive at all. Along the way, automakers will offer various levels of self-driving ..."
+excerpt: "Self-driving cars are part of an uncertain future, but automakers have signaled they are constantly moving to a day when at least some of us won’t drive at all."
 publishedDateTime: 2022-08-28T19:03:00Z
-originalUrl: "https://www.wkrn.com/automotive/self-driving-cars-a-primer/"
-webUrl: "https://www.wkrn.com/automotive/self-driving-cars-a-primer/"
-ampWebUrl: "https://www.wkrn.com/automotive/self-driving-cars-a-primer/amp/"
-cdnAmpWebUrl: "https://www-wkrn-com.cdn.ampproject.org/c/s/www.wkrn.com/automotive/self-driving-cars-a-primer/amp/"
+originalUrl: "https://www.cbs17.com/automotive/self-driving-cars-a-primer/"
+webUrl: "https://www.cbs17.com/automotive/self-driving-cars-a-primer/"
 type: article
 
 provider:
-  name: WKRN
-  domain: wkrn.com
+  name: cbs17.com
+  domain: cbs17.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://www.wkrn.com/wp-content/uploads/sites/73/2022/08/chevrolet-bolt-ev-cruise-automation-test-mule-in-san-francisco_100565635_h.jpg?w=1280"
-    width: 1280
-    height: 855
-    isCached: true
-
-secured: "OeEdvM+HqOw7KRbNZ1wWm5SaWtm2UeC/C83Kq7BH/dfOdk7lAxo9WvYppfznECJ6pzs693Ao/zu2vHmTNLrk7WzqVR3MM8speyefqw8ztpVJGL0QLS41MRTPQW2oyAaGU44ni3zX2zDoKWgFAWZWRHOPBBttKg22+3Hq8sQhOa08ceOjXMiEplYIYhxwzoMzXYVfq7jFYwbg855enzu5cdZRmE4vTg2bxXGn2pxFQESyMSa2UuJv4hbo2+CXWEHHGlOwpHIYci7fMgAYTIZkkvU1bXSxSvl0Zrnyumi3VEwgzpFS9HcohRXvZCMq/m+3Hqq7SwmQu/aj+4eIbwIhxm9x9owa0Z7lBDMTJ1upbuE=;JUnMldSY/3g8IGvvruKV9Q=="
+secured: "sf41sydY8n4g75T428JsiNwa6EG+4cDfhI5Evrv2Ekq1PMWGywmZiPCOiHdwYD1HR/DWQif7iL9AIuIUzRUI3uRMYupy0f0lPDqEnk86sr3LT0cEqLsIuYImOG1PnhyPxJ6d8ckJ+INoMm+wLkf9U8QREz1de02qItMT7mnPYN+qBJhECrscXqVTnLC1gRcz6EPPeNDYVJqfpD2dmfs7VLaNxg+jGRC/S5GD2gTxQCcf2iPaMGfKN5rAVcfATiddQi10+bIVtT8wQj2/YQziUqERh46aH1taWYsD525Yq5gAcdXonQ6fWpjauGAZJL3UK6EkfaSnByxzcKK+gO1OvzgprInYvFzDRxXOyNSVJRKyKrpBSWdnhLnTG+K5ALLJIlxPHGLPrY3meFb9OUKptZUE5HyGoy6NVZIo1UjnIzKJl8GGGK9sv7Gs/fz/4dGdsi7q71ifZ9fD990g96ly/OUWfG0PJU4gA3MXU7jNhtX3HvpRfg6+jvatEOsdtJrjSsxt2Pg1KMkEBJglQpVLxg==;KM6tpcTMDt07FtN7D/Px5A=="
 ---
 
