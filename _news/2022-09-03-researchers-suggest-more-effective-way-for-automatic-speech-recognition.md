@@ -9,7 +9,7 @@ ampWebUrl: "https://theprint.in/features/researchers-suggest-more-effective-way-
 cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/features/researchers-suggest-more-effective-way-for-automatic-speech-recognition-2/1114253/?amp"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/researchers-propose-ne-4.jpg"
         width: 1024
         height: 463
-        isCached: true
-  - title: "Researchers propose new and more effective model for automatic speech recognition"
-    excerpt: "Popular voice assistants like Siri and Amazon Alexa have introduced automatic speech recognition (ASR) to the wider public. Though decades in the making, ASR models struggle with consistency and reliability,"
-    publishedDateTime: 2022-09-02T15:45:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/963671"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 34
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/ff580ddf-2490-4f58-a063-d58988bd9449/Rendition/low-res/Content/Public"
-        width: 700
-        height: 317
         isCached: true
 
 secured: "iM/w5mpahirumtbqhd3A8GXnKHWeXJoxKeVCK7hwvNvaJNiNJYEq1vgcdtxwrvJsqkQ96AnMIT3zt5cmiAlgvwBwnE6d2DaZ1qPVfPssD5o4cYkJ2eHrUjEFBB0BjoNz3C/gV2/24+Ntd14ldC5bm0gkHVVcc8xBGV1ROtb1/OhbzA/B4uKjtRvJiSJ48yPIfDNXE7KYA0f5v5aiI0aixwwNaxPcUmWPoIUNZ/Ms7Iv3kwIES4BQoI+X1L7ib9/oFcKmgVcdtRvHZ7iwJu4DBWrKFsV2cX+8kFLkN3gzZI1C6LHWdedE9SlZnVZ0jzxGa5U5zmSzH5JjxCujuF4FKwCaoOZXW5idbK1hm0WG0sE=;lWx27c9NX55gVq1lTqEV4g=="

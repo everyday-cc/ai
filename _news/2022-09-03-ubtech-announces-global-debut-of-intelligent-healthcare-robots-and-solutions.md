@@ -53,13 +53,13 @@ related:
       domain: indiatimes.com
     quality: 0
   - title: "Prime Healthcare and Steer Health Announce Strategic Partnership to Improve Patient Outcomes and Access to Care"
-    excerpt: "Investments in digital tools and innovative communication solutions provide an improved patient experience. Prime Healthcare, an award-winning national health system, and Steer He"
-    publishedDateTime: 2022-09-06T15:00:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-6-prime-healthcare-and-steer-health-announce-strategic-partnership-to-improve-patient-outcomes-and-access-to-care"
+    excerpt: "Prime Healthcare, an award-winning national health system, and Steer Health, an innovative AI enabled growth and automation platform, announced a strategic enterprise partnership to create a next-generation consumer engagement experience for Prime's 45 hospitals and more than 300 outpatient locations in 14 states."
+    publishedDateTime: 2022-09-06T16:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-prime-healthcare-steer-health-announce-strategic-partnership-improve-/2022/09/06/9667738.htm"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "EOVHGPkg/lZsb3TL/XJ0VYoYltfx3IZmglQVRPEcn8X56IGoChr8EOsEC5Z6NWfSO4BmWJL/OeVTeCEm0bSxZ8kLGNr1dQHla792Bzc3M3R7sV160UxBOG6UXOSSeB/KxdXg8RkgMpgE7lBOy6RFuvAVDvafq6zug02D/cwCJ8szOBSUVxlHmxhrWReYJBm6vnyp0rgXLKK0G5HE/qTO/FPAeoGviNkOe+CJJkMxlFTRdsAp6ytlRPZQJNQU1xzwZ4uxQCYdDqD+WtpY7xvVOeRuDSJmsckmU0bLus1keYGWMtUlV/BlgXkStx+5vrHAIhkRRGoeW0EL7DpxWArszVDKhJtwL84vYFfUE9FiAi4=;Iefe3/QR+IkauMB0C0bVBg=="

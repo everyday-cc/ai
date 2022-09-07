@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-09-01-how-ai-can-help-document-legacy-cobol-code-before-its-too-late.md",
+      "title": "How AI can help document legacy COBOL code, before it’s too late",
+      "excerpt": "COBOL is 60 years old, and when the existing pool of its developers retires, some worry the knowledge of how COBOL applications have been built and structured will be lost. AI tools could be a solution.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/programming-development/how-ai-can-help-document-legacy-cobol-code-before-its-too-late/",
+      "originalUrl": "https://venturebeat.com/programming-development/how-ai-can-help-document-legacy-cobol-code-before-its-too-late/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1168836247.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/programming-development/how-ai-can-help-document-legacy-cobol-code-before-its-too-late/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/programming-development/how-ai-can-help-document-legacy-cobol-code-before-its-too-late/amp/",
+      "publishedDateTime": "2022-09-01T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-meet-the-japanese-robot-who-stocks-drinks-at-the-corner-store.md",
       "title": "Meet the Japanese Robot Who Stocks Drinks at the Corner Store",
       "excerpt": "A robot in Tokyo named TX SCARA is helping stock drinks at FamilyMart convenience stores following a worker shortage.",
@@ -669,11 +720,11 @@
     },
     {
       "path": "_news/2022-09-01-us-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts.md",
-      "title": "U.S. export ban on some advanced AI chips to hit almost all China tech majors - analysts",
-      "excerpt": "A U.S. order to ban exports of some advanced chips to China is likely to hit almost any major tech company running public clouds or advanced artificial intelligence training modules in the country ...",
+      "title": "U.S. Export Ban on Some Advanced AI Chips to Hit Almost All China Tech Majors - Analysts",
+      "excerpt": "SHANGHAI (Reuters) - A U.S. order to ban exports of some advanced chips to China is likely to hit almost any major tech company running public clouds or advanced artificial intelligence training ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/u.s.-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts",
-      "originalUrl": "https://www.nasdaq.com/articles/u.s.-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts",
+      "webUrl": "https://money.usnews.com/investing/news/articles/2022-09-01/u-s-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts",
+      "originalUrl": "https://money.usnews.com/investing/news/articles/2022-09-01/u-s-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -681,14 +732,23 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/u.s.-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/u.s.-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts?amp",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-09-01T03:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1142,59 +1202,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-nvidia-says-us-order-restricts-sales-of-ai-chips-to-china.md",
-      "title": "Nvidia Says US Order Restricts Sales of AI Chips to China",
-      "excerpt": "New licensing requirements come amid concern that the chips could be put to military use, the chipmaker says in a regulatory filing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/nvidia-says-us-order-restricts-sales-of-ai-chips-to-china/",
-      "originalUrl": "https://www.cnet.com/tech/nvidia-says-us-order-restricts-sales-of-ai-chips-to-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 481,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/621e8aff0309eba6ed29be58ac6ed33c53072f63/2021/07/19/376c0f07-cc4b-4ef1-8be1-a3d0145c8b33/gettyimages-1231345685.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidia-says-us-order-restricts-sales-of-ai-chips-to-china/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-says-us-order-restricts-sales-of-ai-chips-to-china/",
-      "publishedDateTime": "2022-08-31T16:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales",
-        "AI Hardware"
       ]
     }
   ],

@@ -25,31 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence can be used to better monitor Maine's forests, study finds"
-    excerpt: "Monitoring and measuring forest ecosystems is a complex challenge because of an existing combination of softwares, collection systems and computing environments that require increasing amounts of energy to power."
-    publishedDateTime: 2022-09-03T10:12:00Z
-    webUrl: "https://phys.org/news/2022-09-artificial-intelligence-maine-forests.html"
-    ampWebUrl: "https://phys.org/news/2022-09-artificial-intelligence-maine-forests.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-artificial-intelligence-maine-forests.amp"
+  - title: "Facial recognition may reveal Maine harbor seal lifestyles"
+    excerpt: "Despite their ubiquity, the life of the harbor seal isn't well understood. While seal numbers have been dropping, the concern still is whether there are too many."
+    publishedDateTime: 2022-09-07T08:00:00Z
+    webUrl: "https://www.upi.com/Science_News/2022/09/07/maine-harbor-seals-facial-recognition/5461659020007/"
+    ampWebUrl: "https://www.upi.com/amp/Science_News/2022/09/07/maine-harbor-seals-facial-recognition/5461659020007/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2022/09/07/maine-harbor-seals-facial-recognition/5461659020007/"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 68
+      name: UPI.com
+      domain: upi.com
+    quality: 74
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-63.jpg"
-        width: 2880
-        height: 1920
+      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/5461659020007/2022/1/23f1f939864c36e98c6d7e79d0162a50/v1.5/Facial-recognition-may-reveal-Maine-harbor-seal-lifestyles.jpg"
+        width: 1200
+        height: 794
         isCached: true
-  - title: "Artificial intelligence can be used to better monitor Maine's forests"
-    excerpt: "Researchers have developed a novel method of using artificial intelligence and machine learning to make monitoring soil moisture more energy and cost efficient. The software learns over time how to make the best use of available network resources,"
-    publishedDateTime: 2022-09-02T20:57:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/09/220902154904.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 68
 
 secured: "qf4EtWFLGEDonX0Joct3XmA71b24+RXcAI/ayk0WXQ/lJrgOoqiiiUEPx09eSP8nNAWGQ19yLoacxM7r073WuPbXzPnin2uCs7FGnZAqluLfLJy4lMYANfCaaP3SczOzRlRTdEePi9HHCZLvdWEJFpP8oc0+0AAhtZOtB0QgExNDigfkpOwvgjLq+bWFAi0vroDUu+cQrcZ0IhvvIwJTHCADVZKhWtW2pBOrzlpA+LxJFzUbMxHCqExM+VSIAsS9SbTxSoYElxrGPzdH7MKG+JOdUqex2VGaXmng27BS0XbUP9sKdBxRha6O9sTh/gDVHC9oqpaXz99x31YOSm6S+/a/vw0sizr1xCFubtf+dvmwrXmoQ7LQDQCyo0rvUEbQsMJoAWKz8eNEVCB8jlabu7ZWi6NMFW/mDTNsiVVaE0ZuiJBuvZitdbHPd8hKara/Qd64NVf9OPLXshta+cGiSEWtcR+JYsx636w5SiwxAMP+fIsfLexM/Sa/IBcCLo6Fe/KpqqVLSyDj+Xnswkq9qQ==;fn8PD252BkTHquIhDr2sRQ=="
 ---

@@ -1,22 +1,18 @@
 ---
 category: news
 title: "SAS Explore reveals the future of analytics"
-excerpt: "Registration is now open for world's premier AI and analytics conference this September CARY ... Teams will share how they used SAS Viya on the Microsoft Azure cloud platform to build innovative solutions that make a difference in their organizations ..."
-publishedDateTime: 2022-09-06T14:49:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/sas-explore-reveals-the-future-of-analytics-1031726717"
-webUrl: "https://markets.businessinsider.com/news/stocks/sas-explore-reveals-the-future-of-analytics-1031726717"
+excerpt: "SAS Explore will spotlight a lineup of prominent keynote speakers, dozens of sessions from SAS customers and partners, and extensive learning opportunities.   SAS: Around the Globe in Three Days \"SAS Explore is made for technologists,"
+publishedDateTime: 2022-09-06T16:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-sas-explore-reveals-future-analytics-/2022/09/06/9667724.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-sas-explore-reveals-future-analytics-/2022/09/06/9667724.htm"
 type: article
-quality: 54
-heat: 54
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
@@ -28,6 +24,6 @@ images:
     height: 267
     isCached: true
 
-secured: "tshw1UoRUVdzGl5BtZOV1B1IbXKZj4795BL/h+Tz811WyG9v/JToVECMT7hjn0EUJzTmEemffWRsp/zFMz1t0OIl2HAvuYoySghZKqSoXRI61flrUwvH7zZCafSlHHKL+2qH749e84sAxKxJ7SxdAdbmx5ax1XcLDI9kTHUSyTtCoriWlqz5+Z/oZ4B6QOZCwIPWZtASQkezHpxF2KJhY06m7CF0AkahGxmy6qve05PG9kpcgnZqwPu7Ruk3C436j5iI5azpUHyeIan1Dzazyip80haccdmv/nUtxF1gymwOPYrXv+KiC6bnK0quiZoGjZluEGP9nMZ2wbrR8KM5jMw4GBhdLFIPjJe1gaCnnZ8=;fMqGdj+dNF3JB5lbOzEqDA=="
+secured: "Bv3XtvOHqLjQaRHpxHC1b3i9ETEOpC/jehG/D3YJguTGTnGb451fIHGdUjQuuJrOQHLe/mzr700NhWw6Dot4YeStaJIoaePjWbFZoSZ96221Uu/inrwtlqxpLVyqZFCWkTVNVdFbOfKuDKtUDym8jzLVuA3wSi73KsRhY3t6LqsFGgP48p20qTtVYWcbVe9eNzmZTgwMBrgeAb+son/2gYGEsaI2Ijz7I7Q4S0zF4/4wc+PXpLT4DzVff88Pq69y3I5hbxE2D3pD9r5fmAIfnT4XKm0VFDt3r2tqyTwm64cDDcYcXhncS++/mYiBronKdvmHikDR1U5uhRA9UcVk/Dq8Pn9J+POV/2NKavk7ZYQ=;bv+19QUxmk9DXYdYUFjwHQ=="
 ---
 

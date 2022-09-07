@@ -2,6 +2,40 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2022-07-11-3-discounted-fintech-stocks-to-buy-now-and-never-sell.md",
+      "title": "3 Discounted Fintech Stocks To Buy Now and Never Sell",
+      "excerpt": "To this end, here's a rundown of three beaten-down fintech stocks you can step into here and now and hold onto forever. It's an oldie but a goodie. In fact, PayPal Holdings (NASDAQ: PYPL) could be considered the original dedicated-fintech company,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-now-and-never-sell",
+      "originalUrl": "https://www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-now-and-never-sell",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-now-and-never-sell?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-discounted-fintech-stocks-to-buy-now-and-never-sell?amp",
+      "publishedDateTime": "2022-07-11T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-11-can-ai-be-a-force-for-good-in-improving-diversity-in-hiring.md",
       "title": "Can AI Be A Force For Good In Improving Diversity In Hiring?",
       "excerpt": "Khyati Sundaram is the CEO and Chairperson of Applied. Founded in 2016, Applied’s mission is to be the essential platform for unbiased hiring. Throughout the company’s history, Applied has been hesitant to use machine learning on its platform — until now.",
@@ -1092,58 +1126,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-09-ford-and-vw-backed-self-driving-company-shuts-down-dc-operations.md",
-      "title": "Ford and VW-backed self-driving company shuts down DC operations",
-      "excerpt": "Argo AI, the self-driving company backed by Ford and Volkswagen, is shutting down its Washington, DC operation as part of a broader round of layoffs impacting about 150 people across the company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/07/08/business/argo-ai-ford-vw-layoffs/index.html",
-      "originalUrl": "https://www.cnn.com/2022/07/08/business/argo-ai-ford-vw-layoffs/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220708115526-ford-argo-ai-car-washington-d-c-file-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/07/08/business/argo-ai-ford-vw-layoffs/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/08/business/argo-ai-ford-vw-layoffs/index.html",
-      "publishedDateTime": "2022-07-08T13:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -41,20 +41,6 @@ related:
         width: 2880
         height: 1920
         isCached: true
-  - title: "Artificial intelligence can be used to better monitor Maine’s forests, UMaine study finds"
-    excerpt: "The University of Maine has developed a novel method of using artificial intelligence and machine learning to make monitoring soil moisture more energy and cost efficient. The software learns over time how to make the best use of available network resources,"
-    publishedDateTime: 2022-09-03T02:52:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/963724"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 45
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/3d9752f1-cb41-4347-88aa-67a57076be04/Rendition/low-res/Content/Public"
-        width: 700
-        height: 467
-        isCached: true
 
 secured: "bXmEX5xYOw3vH8wuZYmI6RWuzhHPeDUMp7T+H9uTuvYzH3FuiRSiLGm0lL4qgQ57UKi7aN5RqXDXGS4hz9R4O6kKCLyjztp++ug+GsHvf6H1Afzr+2Ow5NVIi13ugA4yfaC4CNO/1/eZ67dbk25FLTRHMI3iaNTh9nxReqqpJVQ7VHHHslY92QCHWj2dslnoFas7mkiBqSCk9nfbq9EqZXHNneRhQjie61EHQNVRs9XYqYSLENY6mW0W1MWO3p1sK5sPntr20K3Lso8eW3fp12Oo3usHwjlQ0fx6TLPiARXWSxDRbtXs094Rr6LZQqrAZf0FMmycS/YFt4sD8F6gDp7hJ3TzmSNoZ7VUuvhBmqM=;I2SXDWicNVyvdwJ4mhiabA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-09-artificial-intelligence-decision
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-artificial-intelligence-decisions.amp"
 type: article
 quality: 78
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "How artificial intelligence can explain its decisions"
-    excerpt: "Today, when an algorithm identifies a tumor in a tissue sample, it doesn't reveal how it arrived at this result. And that does not inspire trust. Researchers are therefore pursuing a new approach."
-    publishedDateTime: 2022-09-02T15:28:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/09/220902103300.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 62
   - title: "An Analysis of How AI Processes Its Information"
     excerpt: "To achieve this, they supplied the AI with a vast number of photos of microscopic tissues, some of which had tumors and others did not. Neural networks are initially a black box: it’s unclear which identifying features a network learns from the training data."
     publishedDateTime: 2022-09-05T15:06:00Z

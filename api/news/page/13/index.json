@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-08-25-dell-technologies-deep-learning-model-to-help-protect-the-great-barrier-reef.md",
+      "title": "Dell Technologies Deep Learning Model To Help Protect The Great Barrier Reef",
+      "excerpt": "Dell Technologies has announced a new deep learning technology model, launched in partnership with Australia-based conservation organisation Citizens of The Great Barrier Reef. The model will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessworld.in/article/Dell-Technologies-Deep-Learning-To-Help-Volunteers-Protect-The-Great-Barrier-Reef/25-08-2022-443811/",
+      "originalUrl": "https://www.businessworld.in/article/Dell-Technologies-Deep-Learning-To-Help-Volunteers-Protect-The-Great-Barrier-Reef/25-08-2022-443811/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.businessworld.in/article/article_extra_large_image/1661435711_GzAgWy_dell_grc.jpg",
+          "width": 639,
+          "height": 369,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Businessworld",
+        "domain": "businessworld.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-25-paragraphai-announces-the-launch-of-natural-language-processing-ai-writing-assistant.md",
       "title": "ParagraphAI Announces the Launch of Natural Language Processing AI Writing Assistant",
       "excerpt": "ParagraphAI Inc., a leading developer of advanced AI-powered productivity tools, today announced the release of their natural language processing (\"NLP\") AI Writing Assistant. With internet access, ParagraphAI instantly drafts original and accurate paragraphs of text on any topic with proper grammar and tone correction.",
@@ -1142,59 +1185,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-aws-deep-learning-challenge-sees-innovative-and-impactful-use-of-amazon-ec2-dl1-instances.md",
-      "title": "AWS Deep Learning Challenge sees innovative and impactful use of Amazon EC2 DL1 instances",
-      "excerpt": "In the AWS Deep Learning Challenge held from January 5, 2022, to March 1, 2022, participants from academia, startups, and enterprise organizations joined to test their skills and train a deep learning model of their choice using Amazon Elastic Compute Cloud (Amazon EC2) DL1 instances and Habana’s SynapseAI",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-deep-learning-challenge-sees-innovative-and-impactful-use-of-amazon-ec2-dl1-instances/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-deep-learning-challenge-sees-innovative-and-impactful-use-of-amazon-ec2-dl1-instances/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/23/Site-Merch-Design_Amazon-EC2_DL1_Blog.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-24T09:41:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

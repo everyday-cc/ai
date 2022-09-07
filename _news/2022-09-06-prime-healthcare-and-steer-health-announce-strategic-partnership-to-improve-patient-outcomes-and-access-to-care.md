@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Prime Healthcare and Steer Health Announce Strategic Partnership to Improve Patient Outcomes and Access to Care"
-excerpt: "Investments in digital tools and innovative communication solutions provide an improved patient experience. Prime Healthcare, an award-winning national health system, and Steer He"
-publishedDateTime: 2022-09-06T15:00:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-6-prime-healthcare-and-steer-health-announce-strategic-partnership-to-improve-patient-outcomes-and-access-to-care"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-6-prime-healthcare-and-steer-health-announce-strategic-partnership-to-improve-patient-outcomes-and-access-to-care"
+excerpt: "Prime Healthcare, an award-winning national health system, and Steer Health, an innovative AI enabled growth and automation platform, announced a strategic enterprise partnership to create a next-generation consumer engagement experience for Prime's 45 hospitals and more than 300 outpatient locations in 14 states."
+publishedDateTime: 2022-09-06T16:36:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-prime-healthcare-steer-health-announce-strategic-partnership-improve-/2022/09/06/9667738.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-prime-healthcare-steer-health-announce-strategic-partnership-improve-/2022/09/06/9667738.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
@@ -57,6 +57,6 @@ related:
       domain: indiatimes.com
     quality: 0
 
-secured: "uCph6UXkmogRyNz0d/bGcEVenQDHeGX9QgLxhK92uxkUtovQ/651Xx15aiGZypc7wH/w6YYLGMD0AkDRS1GBWvkPGYNFmNfvwr6tuCY8spLnT26Y9Pm2YntP3XCm37NkWQo7nzfXHFXcItBse2hVHD0AD5S3Wqj3gAyAowtcjfwzSQRZcpqDmZQkB916h6MXILvrjvQ7Rh7itEHnppAhPKr07soQNN55yMXEoVx7T4PuYdxcG1iVu6fSTliw5Z4XR+b+admM5cgF4gaPHPuephCk5Uke6cgfPZwao9xlRra5NPQ0KsYz2+x6utdZj/bm7aMMrmrLviCqknmWeLASJ3q9TFTE55ICQok29Y//HSQ=;uGpeZB4bjnlP4DyoUWl0Pw=="
+secured: "JfCkxQhLoAYNCMosUQjCYqte5u7iK/9U6HUdUqgfJmMGwkXIg9zXDre8jIVA0S9w7i8gEToCRhPjhCt1GwBojhawsKhSgXxvn5ku9WAiwHCZ3uMhr+PU1uPoS7y/xkVsMs1iYrhg1NMvXup58WFTjEWPdGtyv9dWqZ+LgB6q3ZhloplhdK7gdimjmbZtHL9ZGGE78Xom4iYS70Q3DvhfQ18PWK+p8eIxiSfiwmKz7jKvnWmWMAPgCyrpTPJZvqfv84U9EgIWKcwky9QBe7NJh5mWa2DlLECYutw19nN8ddjRFMM3u0JKA3FINi0Tn8Wsrad6kEDJyw9BLBMek28S9wjObzrBKmUBYwKk9seyZEU=;rJNXiegnKvycF29/43wZEA=="
 ---
 

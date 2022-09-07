@@ -2,6 +2,58 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2022-08-02-activision-blizzard-hits-financial-targets-with-q2-bookings-of-164b.md",
+      "title": "Activision Blizzard hits financial targets with Q2 bookings of $1.64B",
+      "excerpt": "Activision Blizzard reported that its Q2 bookings hit $1.64 billion, slightly better than expected by analysts, while earnings hit the mark exactly.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/activision-blizzard-hits-financial-targets-with-q2-bookings-of-1-64b/",
+      "originalUrl": "https://venturebeat.com/games/activision-blizzard-hits-financial-targets-with-q2-bookings-of-1-64b/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/atvi.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/activision-blizzard-hits-financial-targets-with-q2-bookings-of-1-64b/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/activision-blizzard-hits-financial-targets-with-q2-bookings-of-1-64b/amp/",
+      "publishedDateTime": "2022-08-01T20:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-02-googles-deepmind-ai-predicts-3d-structure-of-nearly-every-protein-known-to-science.md",
       "title": "Google's DeepMind AI Predicts 3D Structure of Nearly Every Protein Known to Science",
       "excerpt": "On Thursday, Google's sister company, DeepMind, announced it has successfully used artificial intelligence to predict the 3D structures of nearly every catalogued protein known to science.",
@@ -1093,58 +1145,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-should-self-driving-cars-come-with-black-box-recorders.md",
-      "title": "Should self-driving cars come with black box recorders?",
-      "excerpt": "Why shouldn’t self-driving cars and robots have the ... team of experts — academic researchers in robotics and artificial intelligence as well as industry developers, insurers, and government ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/datadecisionmakers/should-self-driving-cars-come-with-black-box-recorders/",
-      "originalUrl": "https://venturebeat.com/datadecisionmakers/should-self-driving-cars-come-with-black-box-recorders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1162108935-NatalyaBurova.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/datadecisionmakers/should-self-driving-cars-come-with-black-box-recorders/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/datadecisionmakers/should-self-driving-cars-come-with-black-box-recorders/amp/",
-      "publishedDateTime": "2022-08-01T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

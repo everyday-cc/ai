@@ -2,6 +2,49 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2022-06-27-govt-unveils-w1tr-spending-package-for-ai-chip-dominance.md",
+      "title": "Govt. unveils W1tr spending package for AI chip dominance",
+      "excerpt": "The government will also support feasibility studies for AI chips and endorse collaborative research projects with counterparts in the United States. The Science Ministry said the nation‘s focus ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreaherald.com/view.php?ud=20220627000640",
+      "originalUrl": "https://www.koreaherald.com/view.php?ud=20220627000640",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2022%2F06%2F27%2F20220627000640_0.jpg",
+          "width": 630,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20220627000640",
+      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20220627000640",
+      "publishedDateTime": "2022-06-27T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Herald",
+        "domain": "koreaherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-27-deep-learning-market-research-report-with-revenue-gross-margin-and-future-prospects-till-2030.md",
       "title": "Deep Learning Market Research Report With Revenue, Gross Margin, And Future Prospects Till 2030",
       "excerpt": "Jun 27, 2022 (Heraldkeepers) -- The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. Browse Full Report: https ...",
@@ -1117,40 +1160,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-26-best-speech-recognition-software-for-windows-10.md",
-      "title": "Best Speech Recognition software for Windows 10",
-      "excerpt": "Speech Recognition software is clearly a glimpse into the future. They are programs that use your voice to understand what you want, turn into the readable material and search a device for it when ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thewindowsclub.com/speech-recognition-software-windows",
-      "originalUrl": "https://www.thewindowsclub.com/speech-recognition-software-windows",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TWCN Tech News",
-        "domain": "thewindowsclub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

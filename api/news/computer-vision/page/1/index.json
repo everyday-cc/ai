@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-07-facial-recognition-may-reveal-maine-harbor-seal-lifestyles.md",
+      "title": "Facial recognition may reveal Maine harbor seal lifestyles",
+      "excerpt": "Despite their ubiquity, the life of the harbor seal isn't well understood. While seal numbers have been dropping, the concern still is whether there are too many.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Science_News/2022/09/07/maine-harbor-seals-facial-recognition/5461659020007/",
+      "originalUrl": "https://www.upi.com/Science_News/2022/09/07/maine-harbor-seals-facial-recognition/5461659020007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/5461659020007/2022/1/23f1f939864c36e98c6d7e79d0162a50/v1.5/Facial-recognition-may-reveal-Maine-harbor-seal-lifestyles.jpg",
+          "width": 1200,
+          "height": 794,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Science_News/2022/09/07/maine-harbor-seals-facial-recognition/5461659020007/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2022/09/07/maine-harbor-seals-facial-recognition/5461659020007/",
+      "publishedDateTime": "2022-09-07T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-07-iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law.md",
       "title": "Iran might use facial recognition to identify women who violate hijab law",
       "excerpt": "Iran might use facial recognition to identify women who violate hijab law. The regime continues a crackdown on women's dressing.",
@@ -1372,59 +1415,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-advancing-conservation-with-ai-based-facial-recognition-of-turtles.md",
-      "title": "Advancing conservation with AI-based facial recognition of turtles",
-      "excerpt": "We came across Zindi – a dedicated partner with complementary goals – who are the largest community of African data scientists and host competitions that focus on solving Africa’s most pressing problems. Our Science team’s Diversity, Equity, and Inclusion (DE&I) team worked with Zindi to identify a scientific",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/advancing-conservation-with-ai-based-facial-recognition-of-turtles",
-      "originalUrl": "https://www.deepmind.com/blog/advancing-conservation-with-ai-based-facial-recognition-of-turtles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 196,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/63061177d7f69d1362d8131e_w-VkMnf2sMOOlIQBg5mgjxCmIR8jzbdk4dNkoVyq55So3N0zNdWUa2xSQs0hRJxneQhGae3Nz62pNaqLggj4tm-EN8XO229WRDuZYUBcCtOdGsEsKMAQBLW5UkyFfhlPwtOozh-6VcDJ50RV0SZZXleKsSytCDJr422G1RwVKwcftW3p_2XXpFufsJKeO0dDa6PUQZVRnRmKCK-FKwzbd8yYSjLsHz-eaw.png",
-          "width": 1600,
-          "height": 1427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-24T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Computer Vision"
       ]
     }
   ],

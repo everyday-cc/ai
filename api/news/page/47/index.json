@@ -2,6 +2,57 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2022-07-30-how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes.md",
+      "title": "How eBay is ramping up AI use in ecommerce behind the scenes",
+      "excerpt": "Bay is doubling down on AI-led visual experiences and further incorporating it into visual understanding and content understanding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/",
+      "originalUrl": "https://venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/01/eBay.jpg?w=1200&strip=all",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/amp/",
+      "publishedDateTime": "2022-07-29T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-29-build-and-train-ml-models-using-a-data-mesh-architecture-on-aws-part-1.md",
       "title": "Build and train ML models using a data mesh architecture on AWS: Part 1",
       "excerpt": "Organizations across various industries are using artificial intelligence (AI) and machine learning (ML) to solve business challenges specific to their industry. For example, in the financial services industry, you can use AI and ML to solve challenges around fraud detection, credit risk prediction,",
@@ -1118,49 +1169,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-an-indigenous-language-could-help-humans-and-ai-communicate.md",
-      "title": "An Indigenous language could help humans and AI communicate",
-      "excerpt": "One of the most challenging problems impeding humans from communicating with Artificial Intelligence (AI) systems could have a unique solution: a language spoken by Indigenous Australians in the NT. Researchers at the University of New South Wales have published a paper explaining how Jingulu - a language spoken by the Jingili people - could be translated directly into commands that both AI and humans can understand.",
-      "sourceUrl": null,
-      "webUrl": "https://oversixty.com.au/entertainment/technology/an-indigenous-language-could-help-humans-and-ai-communicate",
-      "originalUrl": "https://oversixty.com.au/entertainment/technology/an-indigenous-language-could-help-humans-and-ai-communicate",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://oversixtydev.blob.core.windows.net/media/2022/07/indigenous-languages-hero.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://oversixty.com.au/amp/entertainment/technology/an-indigenous-language-could-help-humans-and-ai-communicate",
-      "cdnAmpWebUrl": "https://oversixty-com-au.cdn.ampproject.org/c/s/oversixty.com.au/amp/entertainment/technology/an-indigenous-language-could-help-humans-and-ai-communicate",
-      "publishedDateTime": "2022-07-28T23:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "oversixty.com.au",
-        "domain": "oversixty.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

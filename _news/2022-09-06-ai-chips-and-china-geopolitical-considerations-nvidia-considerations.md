@@ -7,7 +7,7 @@ originalUrl: "https://stratechery.com/2022/ai-chips-and-china-geopolitical-consi
 webUrl: "https://stratechery.com/2022/ai-chips-and-china-geopolitical-considerations-nvidia-considerations/"
 type: article
 quality: 54
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       - url: "https://www.gulf-times.com/Content/Upload/Slider/920222203510947722915.jpg"
         width: 620
         height: 355
-        isCached: true
-  - title: "Nvidia gets US nod to export key chip H100"
-    excerpt: "US chip designer Nvidia Corp, a key source of computing chips for Chinese companies, announced late on Thursday that \"the US government has authorized exports, reexports, and in-country transfers needed to continue its development of H100 integrated circuits\","
-    publishedDateTime: 2022-09-02T15:33:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202209/02/WS6311570da310fd2b29e758d4.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202209/02/6311570da310fd2bec9f67af.jpeg"
-        width: 720
-        height: 480
         isCached: true
   - title: "NVIDIA and Dell Offer New Data Center Solution for the AI Era"
     excerpt: "NVIDIA is offering a new data center solution with Dell Technologies that is designed for the era of AI, bringing AI training, AI inference, data processing, data science, and zero-trust security capabilities to enterprises worldwide."

@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Enterprise Artificial Intelligence Market Size, Global Trends, Growth, Share, Development and 2022 Forecast Research Report 2028|"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Sep 07, 2022 (The Expresswire) -- Global “Enterprise Artificial Intelligence Market” report provides a complete examination of market dynamics, size, share, current ..."
+    publishedDateTime: 2022-09-07T05:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-size-global-trends-growth-share-development-and-2022-forecast-research-report-2028-2022-09-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "7JcerLRqacia7eX32g94fgKpm/LBSMBEVdczHwe0jYWnIMkL6UfwQUeAWJcmJf9kYHcS22ezdEn1WScIjn9zDZlMdZIbKjHIz2ejfIg2g2EjWSw7DGN3iXNmPSBNdZvbaBGiaq2PYoL413Nkz1FHxrqTiDjXcr+vmct2zQ3kv1EMjwT54aFufANy2e++E+nz26VQHYl9jVJnTXy6hA/8Rkia1KpX0bQpkzo3DHPjUNq7fySGiEAlA9c13n2vc7j+pQtdFp9T2Bond+pEIQ2UQmf/EO7dL7HWDZyVWf55/kY8SRtTtwjTE0PFAmeIE0BQSx3X1ZCxrXSVopt0XlnpDWuIFVTJ4j/90hTsAria8kQ=;tWSdax05rKLGljGBW6aHyQ=="
 ---

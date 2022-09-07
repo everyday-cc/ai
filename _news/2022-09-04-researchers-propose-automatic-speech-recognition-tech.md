@@ -59,20 +59,6 @@ related:
         width: 1024
         height: 463
         isCached: true
-  - title: "Researchers propose new and more effective model for automatic speech recognition"
-    excerpt: "Popular voice assistants like Siri and Amazon Alexa have introduced automatic speech recognition (ASR) to the wider public. Though decades in the making, ASR models struggle with consistency and reliability,"
-    publishedDateTime: 2022-09-02T15:45:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/963671"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 34
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/ff580ddf-2490-4f58-a063-d58988bd9449/Rendition/low-res/Content/Public"
-        width: 700
-        height: 317
-        isCached: true
 
 secured: "kMp/EjPsQsPs+O56+YdL1Peu+x3HixlyA+qg2oUcJNR42SUMFVstPdiGpgxl+f00Kll8CVUiP7wNSD8+XRl+6fmdrIANvwqY3S6I0gHYSQYzdZxxRo73dJx7OPecG1XqoHMm4JtwcwHsR9kQSbkSXI5vkSUKsYE/XnqnwFxe1VxmLGsSCcg/MTQmNugdC90brKHkHypC78lwcGqq6q326NQBdS98sFvlAurW5Q+F99QxQUZx88zhdHwW21UFnSdjI8iRcpEV305MqNT9XF0gww7LbWsTtqV4NE6Irjl3FMEydSsyylaZzYdPtbLNdHGTjQUhB4lRbg6v1MP14b8Lu7mcyzDbXyxT5xSYvf1Uh90=;p04CKKzMfBTeqJR8/A1MnQ=="
 ---

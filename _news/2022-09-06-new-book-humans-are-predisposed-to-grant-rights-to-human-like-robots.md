@@ -2,26 +2,28 @@
 category: news
 title: "New Book: Humans are Predisposed to Grant Rights to Human-like Robots"
 excerpt: "The more we interact with digital humans and humanoid robots, the more we see them as living beings with consciousness and personality. This raises dangers we need to address before fully integrating human-like technology in society."
-publishedDateTime: 2022-09-06T11:15:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/new-book-humans-are-predisposed-to-grant-rights-to-human-like-robots-1031725703"
-webUrl: "https://markets.businessinsider.com/news/stocks/new-book-humans-are-predisposed-to-grant-rights-to-human-like-robots-1031725703"
+publishedDateTime: 2022-09-06T11:10:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-robotics-denmark-30825cea33ea8c9e588c8ddf1dadd63e"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-robotics-denmark-30825cea33ea8c9e588c8ddf1dadd63e"
 type: article
-quality: 49
-heat: 49
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "0dVyICOJrZd2nshnUDDLL2esXYDg7NYIVc10akiTnNv82z80Pgb3rzOKETSSutSrPcqMhVoZdSnzEM+UGZv9y7DG/kvZ7yLD3kITxvMOLrEJvSFbhPeIG3lJSAtw0iSWgIEgaFaltsjkIDWNLgKj1HAm3FX9RksfgE/WEKaYk+lMCWU8wgY/ZqLrIywe3fG8MRHdSXtzOXwomTSXDJZrAHXJJSZqS6PCMGPVOYWOPn8nfbEUEe6NMdiiUi9JEPDvbRCWj2FmEltU5R8a5GRkRMLYLIZx8j5LX3baz0NluxDmEtk2/GySAHKPY99UjWOwonURukUkEAFgQsbcX14W9Qoldnb/zpnVmr5VLBgt3S8=;+Aqsa8vJslx0OuvAW8POzw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "37a5lW/vGCKwedqEHMPRWNBujTxJ5VQB4iWv+xRqgH12IN6oHLFKRVYgOzRaIjwn37p4kOyDPejVlGKJEg+UXS8bZoZ6favQ9tviSnA4HGAZlMUVbfmDINjoY53N4ynTglSGfzZYLtvgTSpJYeAC016o3UhBKgXNc0/8UporGY8BZeweQZnHNMY/Jo77ZeIE1NCqIacnx8Q9riwYUIzSuFXrml3QzjL8l+6bCPjY+gPR2sxvprn3mtQo79nNNL5GV+ENyIuwmPPOFxeLouWBlsiauiE2dGH4mQ6orW7/VzV2Zti4wRmEog98E6OrMjdR6t5tuObwTTCW8bjC8Tdh5vOeM92j3dE3PdKOsZUN4Hc=;ZB0jPmklfDRznLqzQ8/sIQ=="
 ---
 

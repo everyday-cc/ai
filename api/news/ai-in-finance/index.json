@@ -194,42 +194,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-30-us-startup-simaai-starts-shipping-machine-learning-chip-and-system.md",
-      "title": "U.S. startup SiMa.ai starts shipping machine learning chip and system",
-      "excerpt": "Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management & Research Company, said on Tuesday it started shipping chips and systems to customers that are testing them, an important step for mass production. We apologize ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system",
-      "originalUrl": "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system/wcm/d3b033f1-d689-4d7b-bd86-a55744e847fe/amp/",
-      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system/wcm/d3b033f1-d689-4d7b-bd86-a55744e847fe/amp/",
-      "publishedDateTime": "2022-08-30T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2022-08-30-artificial-intelligence-and-machine-learning-now-integral-to-smart-power-solutions.md",
       "title": "Artificial intelligence and machine learning now integral to smart power solutions",
       "excerpt": "They help to improve efficiency and profitability for utilities. The utilities’ space is rapidly transforming today. It’s shifting from the conventional and a highly-regulated environment to a tech-driven market at a fast clip.",
@@ -1314,6 +1278,41 @@
         "AI Ethics",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-sysdig-blocks-cryptojacking-in-the-cloud-with-99-precision-using-machine-learning.md",
+      "title": "Sysdig Blocks Cryptojacking in the Cloud with 99% Precision Using Machine Learning",
+      "excerpt": "Sysdig, the unified container and cloud security leader, today announced machine learning-powered cloud detection and response (CDR) to combat cryptojacking. The company’s threat engine and detection algorithms block cryptojacking in the cloud with 99% precision.",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelbiz.co.uk/press-release/sysdig-blocks-cryptojacking-in-the-cloud-with-99-precision-using-machine-learning/",
+      "originalUrl": "https://www.channelbiz.co.uk/press-release/sysdig-blocks-cryptojacking-in-the-cloud-with-99-precision-using-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel Biz",
+        "domain": "channelbiz.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,59 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-08-24-aws-deep-learning-challenge-sees-innovative-and-impactful-use-of-amazon-ec2-dl1-instances.md",
+      "title": "AWS Deep Learning Challenge sees innovative and impactful use of Amazon EC2 DL1 instances",
+      "excerpt": "In the AWS Deep Learning Challenge held from January 5, 2022, to March 1, 2022, participants from academia, startups, and enterprise organizations joined to test their skills and train a deep learning model of their choice using Amazon Elastic Compute Cloud (Amazon EC2) DL1 instances and Habana’s SynapseAI",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-deep-learning-challenge-sees-innovative-and-impactful-use-of-amazon-ec2-dl1-instances/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-deep-learning-challenge-sees-innovative-and-impactful-use-of-amazon-ec2-dl1-instances/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/23/Site-Merch-Design_Amazon-EC2_DL1_Blog.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-24T09:41:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-08-24-lily-ai-lands-new-capital-to-help-retailers-match-customers-with-products.md",
       "title": "Lily AI lands new capital to help retailers match customers with products",
       "excerpt": "Lily AI, a company developing an AI system that tries to surface products customers will buy, has raised $25 million in new venture capital.",
@@ -1137,49 +1190,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-capitol-records-walks-away-from-ai-rapper-project-offers-deepest-apologies-to-the-black-community.md",
-      "title": "Capitol Records walks away from AI rapper project, offers ‘deepest apologies to the Black community’",
-      "excerpt": "Capitol Records has announced that it is walking away from an artificial intelligence rapper project after receiving backlash for the AI model’s “gross stereotypes” of the Black community.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/blogs/in-the-know/3613048-capitol-records-walks-away-from-ai-rapper-project-offers-deepest-apologies-to-the-black-community/",
-      "originalUrl": "https://thehill.com/blogs/in-the-know/3613048-capitol-records-walks-away-from-ai-rapper-project-offers-deepest-apologies-to-the-black-community/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/08/capitolrecords_10052019getty.jpg?w=1280",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/blogs/in-the-know/3613048-capitol-records-walks-away-from-ai-rapper-project-offers-deepest-apologies-to-the-black-community/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/3613048-capitol-records-walks-away-from-ai-rapper-project-offers-deepest-apologies-to-the-black-community/amp/",
-      "publishedDateTime": "2022-08-23T22:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

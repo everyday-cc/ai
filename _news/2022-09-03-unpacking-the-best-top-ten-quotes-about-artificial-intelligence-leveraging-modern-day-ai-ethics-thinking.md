@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/09/03/unpacking-the-bes
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/09/03/unpacking-the-best-top-ten-quotes-about-artificial-intelligence-leveraging-modern-day-ai-ethics-thinking/amp/"
 type: article
 quality: 106
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -31,6 +31,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Measuring the business impact of AI"
+    excerpt: "Taking stock of AI ROI is challenging but essential. IT leaders and industry observers lend insights on how to get a clear idea of whether your AI efforts are paying off."
+    publishedDateTime: 2022-09-07T09:42:00Z
+    webUrl: "https://www.cio.com/article/406373/measuring-the-business-impact-of-ai-2.html"
+    ampWebUrl: "https://www.cio.com/article/406373/measuring-the-business-impact-of-ai-2.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/406373/measuring-the-business-impact-of-ai-2.html/amp/"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 59
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2022/09/iStock-1297326414_800.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "WoREcsBDUQkmm0Vxlk9wopGNA9ScVQhcwxHFRdtBwMD4huXs/KdJ5Lzcxid5RrrD9RqcnudvqjusQi2KSjSzgmozhE44QnDYZHbirv+2gOkFPsd1yMipU7ipZG3VMtg+sCjYdLU/EATSjHTuEe378ZSFIOfYYrAxa1ydmXIebJtMfuHm7NyhqYY7p2uMgkczzspC0jsv6/tpfD02ppf//KDn6uRDonPp4UPikqAMW5JtA1XL3S9hUO39TI2Uk5c35ZOEg+d7LFY5coHuNFXaHbcMqWNWjefy/SeGMyEGGnd4Wy3S6cTlsUeb6RiejyajRLsfZyB6lG/K/B9lnXMPsKHzw03DTNdzrnjOML4Ts1n1CKpoLffaeayuiVhLK/VRT6P18oPhFMxTtIpBUgSxG1zh7W3wMK3FlWTrDZqdaBHkb/bJmSuLk44lIZ6tuIfDBZgUJLhq20GdUElfRjSpAf9esTcAQ9xPZEaAiOKDsHNl7zmzRaMyQS0jPBWl89JBefSjAb8d5OGPD0cTgFbiEA==;NzJu7mnYryJ9YG9SNuFnlQ=="
 ---

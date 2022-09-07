@@ -2,6 +2,58 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2022-06-23-cruise-ceo-on-launching-driverless-taxi-service-in-san-fransisco.md",
+      "title": "Cruise CEO on launching driverless taxi service in San Fransisco",
+      "excerpt": "Cruise CEO Kyle Vogt joins CNBC's 'Squawk Box' to discuss the prospect of the driverless ridesharing industry after General Motors' majority-owned autonomous vehicle unit launched its service for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2022/06/23/cruise-ceo-on-launching-driverless-taxi-service-in-san-fransisco.html",
+      "originalUrl": "https://www.cnbc.com/video/2022/06/23/cruise-ceo-on-launching-driverless-taxi-service-in-san-fransisco.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107079691-16559907261655990722-23902419088-1080pnbcnews.jpg?v=1655990725&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-23-system-on-chip-market-to-surpass-valuation-of-3178-billion-by-2031-tmr-study.md",
       "title": "System-On-Chip Market to Surpass Valuation of $ 317.8 Billion by 2031; TMR Study",
       "excerpt": "The system-on-chip market share has grown steadily in recent years from the application of the technology in hyper scale data centers, automotive",
@@ -1076,48 +1128,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-airbus-cybersecurity-artificial-intelligence-and-setting-foot-on-mars.md",
-      "title": "Airbus Cybersecurity, Artificial Intelligence, and setting foot on Mars",
-      "excerpt": "How can aviation become more sustainable? When will the first human be set foot on Mars? Cyber security and artificial intelligence at Airbus",
-      "sourceUrl": null,
-      "webUrl": "https://eturbonews.com/airbus-cybersecurity-artificial-intelligence-and-setting-foot-on-mars/",
-      "originalUrl": "https://eturbonews.com/airbus-cybersecurity-artificial-intelligence-and-setting-foot-on-mars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://eturbonews.com/wp-content/uploads/2022/06/ILABerlin.jpeg",
-          "width": 2480,
-          "height": 1654,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eTurboNews",
-        "domain": "eturbonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

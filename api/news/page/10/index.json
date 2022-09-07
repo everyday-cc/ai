@@ -2,6 +2,59 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-08-28-1-machine-learning-stock-down-56-to-buy-hand-over-fist.md",
+      "title": "1 Machine Learning Stock Down 56% to Buy Hand Over Fist",
+      "excerpt": "Splunk sees an opportunity in the machine learning industry, which is growing at 44% annually. Splunk is in the midst of a transformative shift to offer its services in the cloud to make them more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/08/28/machine-learning-stock-down-56-buy-hand--over-fist/",
+      "originalUrl": "https://www.fool.com/investing/2022/08/28/machine-learning-stock-down-56-buy-hand--over-fist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/698259/a-person-working-on-a-digital-dashboard-analyzing-data.jpg",
+          "width": 5760,
+          "height": 3240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-27T23:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-08-28-startup-develops-ai-that-makes-call-center-employees-sound-like-white-american-robots.md",
       "title": "Startup develops AI that makes call center employees sound like white, American robots",
       "excerpt": "This time around, Palo Alto-based startup Sanas has introduced to the world an AI with the goal of making foreign call center employees sound accent-neutral, and the effect of making them sound white.",
@@ -1062,48 +1115,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-ai-predicts-alzheimers-disease-from-a-single-brain-scan.md",
-      "title": "AI Predicts Alzheimer’s Disease from a Single Brain Scan",
-      "excerpt": "There are 47 million people living with Alzheimer’s disease globally, and by 2030 this number is expected to increase to 76 million according to the Alzheimer’s Association. I",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202208/ai-predicts-alzheimer-s-disease-single-brain-scan",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202208/ai-predicts-alzheimer-s-disease-single-brain-scan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-08/pic23411.gif.jpg?itok=bHKh85Xs",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202208/ai-predicts-alzheimer-s-disease-single-brain-scan?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202208/ai-predicts-alzheimer-s-disease-single-brain-scan?amp",
-      "publishedDateTime": "2022-08-26T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

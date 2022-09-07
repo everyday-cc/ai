@@ -41,6 +41,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Motion Control Software in Robotics Market is Anticipated to grow at an Impressive CAGR of 19.6% Between 2022 and 2029"
+    excerpt: "The Motion Control Software in Robotics Market is anticipated to grow at an impressive CAGR of 19.6% between 2022 and 2029, surpassing a valuation of US$ 10.81 Bn in 2022 and US$ 37.86 Bn by 2029. With automation and robotics gradually taking over ..."
+    publishedDateTime: 2022-09-07T09:16:00Z
+    webUrl: "https://www.fmiblog.com/2022/09/07/motion-control-software-in-robotics-market-is-anticipated-to-grow-at-an-impressive-cagr-of-19-6-between-2022-and-2029/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 30
+    images:
+      - url: "https://www.fmiblog.com/wp-content/uploads/2022/09/Combat-Support-Vehicle-420x300.jpg"
+        width: 420
+        height: 300
+        isCached: true
 
 secured: "mLKliIO4p+ks9StcMmYTJ8j5AIqj6gAsTMp18c2R6pSQKYTbg3K+e1k0eF+mFxM73Vv2NXiNboIICMFayGGRzRRrmW2n9cgT5jecUhNhCEk22EaAjFWBLrh/+x0LMNWsETzxtSqoN1/e3JBWYKL4F32ap5G3+qBafuUdiq3LXlGHo5OwbsfnrkOxF1OM5P0+g+iqTN3oaeVxEihFxxOzsW/WsL3sCyubqRKtn2jW10Q1Pv1TlqFI0MU7EV0dtHeOthA0twEDFeG1lpTIu+0UF9TjCAfQ+DNst/Tatg+3XnqL1x7OWp5kAC39c943xlVGxLZbHGif7Yv8LzhL06gdr6/V6ZoKuB6iQHRQ+oMlPWnCEL2ymx7lGcV/KExxqYqEcND2I4GmbVFoKvPN663xWhAVHax5oHEku3nqcngjWE4EbXyRD+0wJANwMjf52xCYlVOPxbKnqzTfO8NyXImuA5eyIHhlYpRAEBhpBYOlhWqq2OL9pusCM5uOAsEneIxKCVANmye6Ft/T8lorScHbjw==;RtS3+eCytKdkBwpucArnzw=="
 ---

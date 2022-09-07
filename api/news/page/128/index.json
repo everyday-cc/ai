@@ -2,6 +2,40 @@
   "page": 128,
   "value": [
     {
+      "path": "_news/2022-05-31-industrial-robot-controllers-market-is-expected-to-exceed-us-16571-mn-by-the-end-of-2029.md",
+      "title": "Industrial Robot Controllers Market Is Expected To Exceed US$ 1657.1 Mn By The End Of 2029",
+      "excerpt": "As per the findings of the report, the global industrial robot controller market is anticipated to see substantial growth over the forecast period, set in motion by increase in the adoption of Human Machine Interaction (HMI),",
+      "sourceUrl": null,
+      "webUrl": "https://www.fmiblog.com/2022/05/31/industrial-robot-controllers-market-is-expected-to-exceed-us-1657-1-mn-by-the-end-of-2029/",
+      "originalUrl": "https://www.fmiblog.com/2022/05/31/industrial-robot-controllers-market-is-expected-to-exceed-us-1657-1-mn-by-the-end-of-2029/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-30T22:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Future Market Insights",
+        "domain": "fmiblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-31-the-role-of-artificial-intelligence-in-todays-digital-advertising.md",
       "title": "The role of artificial intelligence in today’s digital advertising",
       "excerpt": "According to The Insight Partners’ analysis, the worldwide Artificial Intelligence in the marketing sector is estimated to reach US$ 107,535.57 million by 2028, growing at a 31.6% compound ...",
@@ -1047,49 +1081,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-nwu-engineers-develop-a-tiny-remote-controlled-robot-crab.md",
-      "title": "NWU Engineers Develop A Tiny Remote-Controlled Robot Crab!",
-      "excerpt": "Northwestern University engineers have unveiled the world’s tiniest remote-controlled walking robot – a tiny robotic crab! The machine is only a half-millimeter broad and can fit on the edge of a penny with room to spare,",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsforu.com/news/whats-new/nwu-engineers-develop-a-tiny-remote-controlled-robot-crab",
-      "originalUrl": "https://www.electronicsforu.com/news/whats-new/nwu-engineers-develop-a-tiny-remote-controlled-robot-crab",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electronicsforu.com/wp-contents/uploads/2022/05/Low-Res_Fig.-1D-2.jpg-e1653898568941.png",
-          "width": 500,
-          "height": 294,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.electronicsforu.com/news/whats-new/nwu-engineers-develop-a-tiny-remote-controlled-robot-crab/amp",
-      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/nwu-engineers-develop-a-tiny-remote-controlled-robot-crab/amp",
-      "publishedDateTime": "2022-05-30T01:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics For You",
-        "domain": "electronicsforu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

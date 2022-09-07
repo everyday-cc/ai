@@ -2,6 +2,49 @@
   "page": 114,
   "value": [
     {
+      "path": "_news/2022-06-09-timnit-gebru-and-the-fight-to-make-artificial-intelligence-work-for-africa.md",
+      "title": "Timnit Gebru and the fight to make artificial intelligence work for Africa",
+      "excerpt": "This encompasses everything from self-driving cars to automatic translation and facial recognition programs. The ultimate prize is a concept known as Artificial General Intelligence — a computer ...",
+      "sourceUrl": null,
+      "webUrl": "https://mg.co.za/africa/2022-06-09-timnit-gebru-and-the-fight-to-make-artificial-intelligence-work-for-africa/",
+      "originalUrl": "https://mg.co.za/africa/2022-06-09-timnit-gebru-and-the-fight-to-make-artificial-intelligence-work-for-africa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.mg.co.za/wp-media/2022/06/3b4747bd-gettyimages-1028811892.jpg",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mg.co.za/africa/2022-06-09-timnit-gebru-and-the-fight-to-make-artificial-intelligence-work-for-africa/?amp",
+      "cdnAmpWebUrl": "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/africa/2022-06-09-timnit-gebru-and-the-fight-to-make-artificial-intelligence-work-for-africa/?amp",
+      "publishedDateTime": "2022-06-09T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "mg.co.za",
+        "domain": "mg.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-baidus-electric-vehicle-firm-jidu-unveils-first-robot-car.md",
       "title": "Baidu’s electric vehicle firm Jidu unveils first ‘robot’ car",
       "excerpt": "Baidu’s electric vehicle (EV) arm Jidu Auto on Wednesday launched a “robot” concept car, the first vehicle to be revealed by a Chinese internet company. The concept car, which is free of door handles and can be fully controlled via voice recognition,",
@@ -1046,40 +1089,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-deep-learning-solves-nuisance-alarms-and-tailgating-in-access-control.md",
-      "title": "Deep learning solves nuisance alarms and tailgating in access control",
-      "excerpt": "Access control systems are plagued by problems, such as false alarms and tailgating. Hakimo is a new company that applies concepts of deep learning to reduce false alarms and tailgating, and to make access control more accurate. False or nuisance alarms ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/tags/cloud-security/insights/deep-learning-nuisance-alarms-tailgating-access-control-co-1637761998-ga-sb.1652683790.html",
-      "originalUrl": "https://www.sourcesecurity.com/tags/cloud-security/insights/deep-learning-nuisance-alarms-tailgating-access-control-co-1637761998-ga-sb.1652683790.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/insights/deep-learning-nuisance-alarms-tailgating-access-control-co-1637761998-ga-sb.1652683790.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/deep-learning-nuisance-alarms-tailgating-access-control-co-1637761998-ga-sb.1652683790.html",
-      "publishedDateTime": "2022-06-08T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

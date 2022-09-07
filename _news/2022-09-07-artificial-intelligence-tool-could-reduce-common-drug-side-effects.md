@@ -1,20 +1,23 @@
 ---
 category: news
 title: "Artificial Intelligence tool could reduce common drug side effects"
-excerpt: "Artificial intelligence could help clinicians assess which patients are likely to encounter the harmful side effects of some commonly used antidepressants, antihistamines and bladder medicines."
-publishedDateTime: 2022-09-07T07:12:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/963877"
-webUrl: "https://www.eurekalert.org/news-releases/963877"
+excerpt: "Research led by the University of Exeter and Kent and Medway NHS and Social Care Partnership Trust, published in Age and Ageing, assessed a new tool designed to calculate which medicines are more likely to experience adverse anticholinergic effects on the body and brain."
+publishedDateTime: 2022-09-07T07:43:00Z
+originalUrl: "https://medicalxpress.com/news/2022-09-artificial-intelligence-tool-common-drug.html"
+webUrl: "https://medicalxpress.com/news/2022-09-artificial-intelligence-tool-common-drug.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-09-artificial-intelligence-tool-common-drug.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-artificial-intelligence-tool-common-drug.amp"
 type: article
-quality: 17
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
+  - AI in Autos
   - AI
 
 related:
@@ -35,6 +38,6 @@ related:
         height: 2000
         isCached: true
 
-secured: "TAnDbU57Eda9ySnVjeSOEKkHDkZ8634cJcgV52VI9o7g48AQQ3em1ok5JHf3Huh+hziVuaD0VplfqfBM2mCS4K1LQqAPRFvRYDF/a0hb3m4uHMCLmyDh2ngGhjd2hl2v2EMLILXmtI703uHzTty6sx1DNpnwYG35P9qfDCNy0KT+2dt0BGheehGB218KK3qV44kB/k5g3uXN/hHngsGQjQPQf4zJY1AzDISeY48ger0WDXyU+BuJUtgUNrwN9EZm1IbiUvChwdRhJWoPkJ/Ox3+XOKer+ZhhCNs+wtZxywd1Cc2b05RkHd0yYEEVFrYHgVtTHHLwppVpaAlk3XAfagvgEfk2kgFHuYl8ylbNhwo=;UB0nZzplIfc0jmUOHXh8sg=="
+secured: "1n6QE9Gw7toypyHIMqsD0GWkdw419XKHGk73saCOKNaSxArGKbOCTGy2hRDmY2VgWbSnsfipD+WdsinoJsGpbg2lMBRGfoCX7Ttaz2ycO/RG+nSQ2sRHSa2gqsnQZ+ixQkwvSW4ANDM3gotT5fp7ignc+tgA7w6Je3D1g3fajrMoM1TSWuTPb0I0wmh1y2mxXnGvPt5nIagy+S5tmIFt6n9kXiGwXwPdr/OBpIpucY7DyhDdhO2V+jWVsTJKtN4ymlymIEcsShJuMqUv93A2/qy7cVe9+GGJXfGC4LOQbg3D8QMZsswh9c5Iv2HVs5ffqw+wNVY7m9d7PLFi20jaiy1sYBp04KdKCCe2jlkwS+I=;2DnbRkAeVRCQ0G4Rpoq6Rw=="
 ---
 
