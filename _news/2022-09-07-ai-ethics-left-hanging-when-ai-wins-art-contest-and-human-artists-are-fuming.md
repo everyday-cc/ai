@@ -55,6 +55,20 @@ related:
         width: 1024
         height: 724
         isCached: true
+  - title: "Measuring the business impact of AI"
+    excerpt: "For many organisations, however, AI value may be elusive. Their models might not be tuned. Their training data sets aren’t big enough. Customers are leery. There are also concerns about bias, ethics, and transparency. Pushing an AI initiative into ..."
+    publishedDateTime: 2022-09-08T00:28:00Z
+    webUrl: "https://www.arnnet.com.au/article/701326/measuring-business-impact-ai/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_132826187.jpg"
+        width: 473
+        height: 315
+        isCached: true
 
 secured: "dcwZW9U5YdusZZ9DxJT38rMQPC41BYIuhf02CNZt0kau8GvJVhUDazeOFUivQlTu5jeM0bgovj2cFPEceR3yXt3cAqV7PxE4Gzz9JGHH7hsvrH8smf5nNt6gs/UvJyMqieM/B06zq7lWetxB+JRfMuDDumAT1iUfangREPrJpKM57nNHHzwPSBRS3aKzHV9ckk2D2Tyfb7Q4WgwcqdPCqhkHu2wiiURkW2O1pBd1XyobIUAif1r24K1dzMKAFJYVZN/Bci5RNIByQ16jSMTL34VYetxkzHpm/VXGdHr8IbTxFAQmBfoaQief9/923sBl+DyOXRCF3VBlptAjRp6qG7cuJ/YuuW2PpbCl55eokfIsC6zAZ4s3ycLji9FSrvfoMzUyGSM3HEDGH5mwbs8BPE1l9Fx1N0YwYLt/6jEa3RzAgdqCcTb339hQ5R2dWN6RpLTgBAW0n+vLJ40UeI6XtXBfwtgpeOb7cLoFbVs85WQANWUnHbXlAQIDLqiETD4arDENaQsmGIPaewbeAZaABg==;dWi5N8FCcMQ0RY9JYAFuIw=="
 ---

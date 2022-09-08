@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gadgetsnow.com/tech-news/this-is-likely-why-us-banned-ai
 cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/this-is-likely-why-us-banned-ai-chips-to-china/amp_articleshow/94026320.cms"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. eases restrictions on Nvidia after banning AI chip exports to China"
-    excerpt: "and its forthcoming next-generation AI chip currently in development, the H100. The move effectively prohibits the company from exporting both chips to Chinese customers as the U.S. seeks to limit ..."
-    publishedDateTime: 2022-09-03T08:44:00Z
-    webUrl: "https://www.foxbusiness.com/markets/u-s-eases-restrictions-nvidia-banning-ai-chip-exports-china"
-    ampWebUrl: "https://www.foxbusiness.com/markets/u-s-eases-restrictions-nvidia-banning-ai-chip-exports-china.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/u-s-eases-restrictions-nvidia-banning-ai-chip-exports-china.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 73
-    images:
-      - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2021/12/Nvidia-chips-A.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Banned U.S. AI chips in high demand at Chinese state institutes"
     excerpt: "The development signaled a major escalation of a U.S. campaign to stymie China's technological capability as tensions bubble over the fate of Taiwan."
     publishedDateTime: 2022-09-06T08:55:00Z

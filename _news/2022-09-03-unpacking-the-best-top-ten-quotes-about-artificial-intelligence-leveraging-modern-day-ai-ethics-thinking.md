@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/09/03/unpacking-the-bes
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/09/03/unpacking-the-best-top-ten-quotes-about-artificial-intelligence-leveraging-modern-day-ai-ethics-thinking/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://www.cio.com/wp-content/uploads/2022/09/artificial-intelligence-698122_1280-100698891-orig.jpg?quality=50&strip=all&w=1024"
         width: 1024
         height: 724
+        isCached: true
+  - title: "Measuring the business impact of AI"
+    excerpt: "For many organisations, however, AI value may be elusive. Their models might not be tuned. Their training data sets aren’t big enough. Customers are leery. There are also concerns about bias, ethics, and transparency. Pushing an AI initiative into ..."
+    publishedDateTime: 2022-09-08T00:28:00Z
+    webUrl: "https://www.arnnet.com.au/article/701326/measuring-business-impact-ai/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_132826187.jpg"
+        width: 473
+        height: 315
         isCached: true
 
 secured: "WoREcsBDUQkmm0Vxlk9wopGNA9ScVQhcwxHFRdtBwMD4huXs/KdJ5Lzcxid5RrrD9RqcnudvqjusQi2KSjSzgmozhE44QnDYZHbirv+2gOkFPsd1yMipU7ipZG3VMtg+sCjYdLU/EATSjHTuEe378ZSFIOfYYrAxa1ydmXIebJtMfuHm7NyhqYY7p2uMgkczzspC0jsv6/tpfD02ppf//KDn6uRDonPp4UPikqAMW5JtA1XL3S9hUO39TI2Uk5c35ZOEg+d7LFY5coHuNFXaHbcMqWNWjefy/SeGMyEGGnd4Wy3S6cTlsUeb6RiejyajRLsfZyB6lG/K/B9lnXMPsKHzw03DTNdzrnjOML4Ts1n1CKpoLffaeayuiVhLK/VRT6P18oPhFMxTtIpBUgSxG1zh7W3wMK3FlWTrDZqdaBHkb/bJmSuLk44lIZ6tuIfDBZgUJLhq20GdUElfRjSpAf9esTcAQ9xPZEaAiOKDsHNl7zmzRaMyQS0jPBWl89JBefSjAb8d5OGPD0cTgFbiEA==;NzJu7mnYryJ9YG9SNuFnlQ=="

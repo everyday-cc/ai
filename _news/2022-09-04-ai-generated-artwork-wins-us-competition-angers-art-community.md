@@ -56,22 +56,6 @@ related:
         width: 1200
         height: 620
         isCached: true
-  - title: "An AI-generated picture won an art prize. Artists aren’t happy."
-    excerpt: "But one entrant, Jason M. Allen of Pueblo West, Colorado, didn’t make his entry with a brush or a lump of clay. He created it with Midjourney, an artificial intelligence program that turns lines of text into hyper-realistic graphics."
-    publishedDateTime: 2022-09-03T08:54:00Z
-    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/an-ai-generated-picture-won-an-art-prize-artists-arent-happy-8128626/"
-    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/an-ai-generated-picture-won-an-art-prize-artists-arent-happy-8128626/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/an-ai-generated-picture-won-an-art-prize-artists-arent-happy-8128626/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.indianexpress.com/2022/09/Untitled-design-2022-09-03T141912.927.jpg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "AI-generated artwork wins prize in art competition in US! Find out how"
     excerpt: "Allen is the president of Incarnate Games, a tabletop gaming company in Colorado. His work is called \"Space Opera Theater\"."
     publishedDateTime: 2022-09-05T15:41:00Z

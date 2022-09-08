@@ -3,8 +3,8 @@ category: news
 title: "An architect asked AI to design skyscrapers of the future. This is what it proposed"
 excerpt: "Manas Bhatia has a bold vision of the future -- one where residential skyscrapers covered in trees, plants and algae act as \"air purification towers.\" In a series of detailed images, the New Delhi-based architect and computational designer has brought the idea to life."
 publishedDateTime: 2022-09-06T09:20:00Z
-originalUrl: "https://edition.cnn.com/style/article/ai-architecture-manas-bhatia/index.html"
-webUrl: "https://edition.cnn.com/style/article/ai-architecture-manas-bhatia/index.html"
+originalUrl: "https://www.cnn.com/style/article/ai-architecture-manas-bhatia/index.html"
+webUrl: "https://www.cnn.com/style/article/ai-architecture-manas-bhatia/index.html"
 ampWebUrl: "https://www.cnn.com/style/amp/ai-architecture-manas-bhatia/index.html"
 cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ai-architecture-manas-bhatia/index.html"
 type: article
@@ -45,6 +45,6 @@ related:
         height: 826
         isCached: true
 
-secured: "vaZgIKOWF1/rigCNO7sTK9f4x7EF/Zi3rAd3el7A8k6WrevNRPxTGu17yekeUTokl+SgpwxC8DH/8z29MiEaege43C/Mi00Z9rNRAE8gxqqXEwoGwnKZti2B40ht+8pPS4N47jALUdRlFTs6Al1mSIJ2ZLQlMt307m66O/P974+G2DdJ1Js//cZwmsovtJSBRyIUts+Us/Ec002X8boNVXVILJmXmhrrZcBqlZWwtWZDyr2kkSCjmnq/3NG4sqYExxuX8XlNTQ8lXhH1aZs/76rSd1EDYTOFw0l9AvQuUyrBboMhKcKxuxa4/WD0QUehy8NVUPjfLNAo+ezQb34TT24AORXwpf5wIgZ2zecXiX8ZEMEYpe5jAfGJOrYMQUkGJE+TTdoUVD5naNgKhgxn6O7oxT4Q3SScql4oASDva4eIh4CFzHS8Eq/Ae4uUE5aTuYqblkQMk5ugj9m+JJXLe8okE1Q0amybK4tQHDwaLT2dRhevA56s5He8u2RHOwYc1e7qvQHpn1ZxM2FJ48MKEg==;WJzfzz4QuGGroPxmWilxpg=="
+secured: "MqXoQzDkADh1kGy2AOI+SVrmZFKzmPUFIol+/xGc9gcKH4BCKpqO+RhQmvEvccOTypbZlk0AmTXF8pCjmCJLGDEXcX+crsqqovAkx3kE3PxgO59jWiKYlbNIbDfUvo/lIR3HTqzYk564ED6khJNV5xhXNdkA938vTkwwzFkJdKK05k5IPAm/CDQuknc06JrWxGZ/dngZIoZUzFiucwkqyHEGyvLoSr2VJrbhjhVEOR2iQLR/ADuUFWAr4Miw2a+43QR2h0+2AOzpJzFqiCMSQugE9p2v9bWzzKkhrAlFEsFuwtfHcB53nMCif+2k+rHc1/h0Uzp4siKhaMUT8zyNSr3wT54iaTXswNvxyeDR57Q=;R1bnrVsjM5osL5Slp8Xj3w=="
 ---
 

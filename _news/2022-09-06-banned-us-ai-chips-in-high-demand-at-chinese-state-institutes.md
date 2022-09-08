@@ -41,22 +41,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "U.S. eases restrictions on Nvidia after banning AI chip exports to China"
-    excerpt: "and its forthcoming next-generation AI chip currently in development, the H100. The move effectively prohibits the company from exporting both chips to Chinese customers as the U.S. seeks to limit ..."
-    publishedDateTime: 2022-09-03T08:44:00Z
-    webUrl: "https://www.foxbusiness.com/markets/u-s-eases-restrictions-nvidia-banning-ai-chip-exports-china"
-    ampWebUrl: "https://www.foxbusiness.com/markets/u-s-eases-restrictions-nvidia-banning-ai-chip-exports-china.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/u-s-eases-restrictions-nvidia-banning-ai-chip-exports-china.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 73
-    images:
-      - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2021/12/Nvidia-chips-A.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Nvidia outlook: the US bans AI chips to China and Russia"
     excerpt: "The end of August saw Nvidia state in an SEC filing that the US government is restricting the sale of its high-performance AI chips to China and Russia. The chips, created for the A100 and H100 servers,"
     publishedDateTime: 2022-09-06T02:14:00Z

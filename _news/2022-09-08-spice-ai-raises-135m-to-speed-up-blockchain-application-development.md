@@ -26,13 +26,13 @@ images:
 
 related:
   - title: "Spice AI Raises $13.5 Million Seed Funding to Enable Web3 Developers to Build Data and AI-driven Applications"
-    excerpt: "Company building AI Infrastructure for Developers Addresses the “data problem” for Web3 Infrastructure . Spice AI today announced a seed round of $13.5 million for its platfor"
-    publishedDateTime: 2022-09-07T14:30:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-7-spice-ai-raises-135-million-seed-funding-to-enable-web3-developers-to-build-data-and-ai-driven-applications"
+    excerpt: "Spice AI today announced a seed round of $13.5 million for its platform that enables developers to build data driven applications for Web3. Madrona led the round with Australia based Blackbird Ventures,"
+    publishedDateTime: 2022-09-07T15:55:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-spice-ai-raises-135-million-seed-funding-enable-/2022/09/07/9668916.htm"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "r77qE5m4cURf+QkpIODvsYri/UMQGFrtArwCIfhk4DKjMv0tgtUg/HquH2912PG12zDV6S26JAPxqvx+/eXGsm4W3//F2I4KSWOR9IzR6Zmqaoawuv7ccNTyBlJ1d4IpbuyVxZ38xL7Yi5F1sNbLuXUIXFp3m9J2ZJWq1wXLmOjsrSzf4QcRj4y2EPCkoZHkw+ZAEMWrHLfh97LIL7C39lZ5fKIZ2mn6OIW00tNi5E8oFJ2CWh3XIm8SxMinCC5VbWbn7wVn0jNMFkjgXk043goIrRgTBMY+Jz4y7wAz089GsCxSFIPzRyifGBjc3jvenvt+ucfJM30BtHaWS4AQ/3TCW2mIrl9qkjnGkFUp3Td/0T7t3RBVcz1g9KnPSFzuWKrVGp5h/Iio9h5BbCLcBkLg3qtKm87rLh5lj9y48F0lukmuhU0EwO2JRS6zt0w3EQjSmVMOe/fNGFsr3iaLzmvLAANbemyJSQ9ZffxIeukIYig5TccRpltK0jIYgSWJ0H0OcJI+cxhDtHM+8bdVsQ==;h6eVx8vu814s3S62fVtOPA=="

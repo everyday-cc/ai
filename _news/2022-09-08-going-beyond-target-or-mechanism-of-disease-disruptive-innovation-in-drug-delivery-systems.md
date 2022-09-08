@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/alexzhavoronkov/2022/09/07/going-beyond-ta
 ampWebUrl: "https://www.forbes.com/sites/alexzhavoronkov/2022/09/07/going-beyond-target-or-mechanism-of-disease-disruptive-innovation-in-drug-delivery-systems/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2022/09/07/going-beyond-target-or-mechanism-of-disease-disruptive-innovation-in-drug-delivery-systems/amp/"
 type: article
-quality: 64
-heat: 64
+quality: 66
+heat: 66
 published: false
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/631923b1c2148f5fc0d70386/0x0.jpg?format=jpg&crop=2048,1152,x0,y288,safe&width=1200"
@@ -30,6 +31,6 @@ images:
     height: 675
     isCached: true
 
-secured: "iuHFSqogWaUGCAJFMmVez6feI0tHIzEGaRhVpM/VgyyfRy+bVfcirVHudeRJGlIzCcBxm4rwnncgkZ/yKh8Iuif63ZM4c2KVhU85LRUW5cm+a+28IAdSHCiN3H+HXnCpfG0L/JIM0G+Q6klo9Zm9PqzWpP6j24Oyn4+ApPUDtUDVKOohmEz3U79qwrYRNXSva8cxkMr1L38QMtwfDFGahgKLJnyn79/vi8wgzpBLAuZsnMId4PfVeuSs+7b4SuDNXn6oounmUAPFmhPNvXTuAxZW/JLsy+sEkq6jh7Z1KuezAylNZGrkfEs7A+ru7ub5W2FiDRRkOSEqfSHrSb/zsO8XYPGkc4PxlBw7pwRUo/o=;jWmLl+ETA7gCCUEvHDrelw=="
+secured: "KxOmJaPk7oetQc9Sf7vK/Fuewp7PbdcRtearY6GMnvpghHpzSqV6AH9PG/nkHg4jajGP5xEeyIsnQJD8blUKK6NyhpHzC/RYMfLDGA63zW7fh4BORCVxuFGiXGJVAboxcpMHgoj1Vdh5CPI89zbu5pB8RIDzuxhiqJs0nVScnnzyPNXm24wf1uTGt0EhAs6kGf+mVW0MtbhXN1E+3k6pbn85CBjupYlhDoba7x577pKDqkJj+pjRZsurUlT7zGH8NHVvvnyUNS3a8HW4n7q4HTaJZHXiIBLBXPB9yHvGHNc6UdwY4yT5W5Uw13olz9a53Wk1jYs868Suxyx+L3YzyDplvD0JKUGlYphJYjomzt3OjnEEZXlbwZpfroHtppZalepUTdbVzNvwkMT/kboGmjKGgB8loglT8+cYK9AcJd2bB4nzE17DH6Fp1TVcpChC0n2TqZoOaq/ws6YH4pkVUDAh5XeLke7MStDxDKVJw6bflst0aHlIoqPzdXWX2u1+pd2EkskaSuCtWL3tztxS1Q==;TnzZ97yheKCZI3sf8L1Qgw=="
 ---
 

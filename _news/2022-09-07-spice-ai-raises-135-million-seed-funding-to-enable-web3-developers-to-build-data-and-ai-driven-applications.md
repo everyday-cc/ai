@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Spice AI Raises $13.5 Million Seed Funding to Enable Web3 Developers to Build Data and AI-driven Applications"
-excerpt: "Company building AI Infrastructure for Developers Addresses the “data problem” for Web3 Infrastructure . Spice AI today announced a seed round of $13.5 million for its platfor"
-publishedDateTime: 2022-09-07T14:30:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-7-spice-ai-raises-135-million-seed-funding-to-enable-web3-developers-to-build-data-and-ai-driven-applications"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-7-spice-ai-raises-135-million-seed-funding-to-enable-web3-developers-to-build-data-and-ai-driven-applications"
+excerpt: "Spice AI today announced a seed round of $13.5 million for its platform that enables developers to build data driven applications for Web3. Madrona led the round with Australia based Blackbird Ventures,"
+publishedDateTime: 2022-09-07T15:55:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-spice-ai-raises-135-million-seed-funding-enable-/2022/09/07/9668916.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-spice-ai-raises-135-million-seed-funding-enable-/2022/09/07/9668916.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
@@ -34,6 +34,6 @@ related:
         height: 400
         isCached: true
 
-secured: "yQc+wRN3PnoZr29o3E3aYInPmsJNZHAn4n7c4KPe4XtACkO7RSL5+hi1n80EBIQgIFqmuS+tSKBvxdH2pHgYDyT1EXMgzrVwcYJKjtJ0ipTI2BYB3j9+ToPlkZccR0rDsFXhu9o2+zpxS7FQebIhzRHKdah6zoAbAQnJxSgy2T89e2/Ik8oQZcpc+ofX5wplTKfbyB6OFrQ5jhIKamEqGmm0zGFf8hUofvHyN2ZIOGyecdv7cIo5lQ6LOLCreDfoBQmsYrRCjVKBiXqEBkDaMJPkj+ZYnFc/7YNEbCIO6A4T7oOJHORNAeMcTWoJ0YRbmhLRjulSRKcXp1w5Vkmx+0EG/fCrUk5KyKJFrfhaS/U=;5z/fv8E1pxJv2iLoSagrSg=="
+secured: "HYn0FzsQ6hSYcSm6BCBYbMm0HLjGMffx+1HGTH7qYXMj500Mp6CUHQ/MBAM+HMeDUmBmSy0N5WveNt8rbFIgd8XE2sHp3RdQ9Rm2ZdZiJ1RVj1E5PyuqROP1OAkvtXtzws6yqSSgUFmXMGEF74SmBxMdQ6wRUTgIxSE0tOZkumueKZYtbXOnKeO3OvMMagRIi7CicYZbdVanQ8I0E/zj4nwO2TTHN2mJx82s7SUMyEboF4neRMDTJkgPz0xIWFIVNKtR5MO1IfmUu8hBcHNyWdAo6mY1s2NvHx7zblkCdlEcGL9/62WpqGmnGFW8NFWkzVc0RyAZd+jyOUz0gZnfrs569C7hj4IdRfcDzJZe130=;QkXRy2sNKuk+UCOsim5kug=="
 ---
 
