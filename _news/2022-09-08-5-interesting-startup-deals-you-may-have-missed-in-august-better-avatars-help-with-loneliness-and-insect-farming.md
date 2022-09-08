@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-08T12:30:00Z
 originalUrl: "https://news.crunchbase.com/startups/interesting-deals-august-avitars-goodfellows-remote-work/"
 webUrl: "https://news.crunchbase.com/startups/interesting-deals-august-avitars-goodfellows-remote-work/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: crunchbase

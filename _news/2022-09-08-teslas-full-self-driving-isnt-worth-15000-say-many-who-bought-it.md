@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Tesla’s ‘full self-driving’ isn’t worth $15,000, say many who bought it"
-excerpt: "Some Tesla owners who paid far less for an earlier version of the “full self-driving” software that now retails for $15,000 caution that the new price does not make sense for most"
-publishedDateTime: 2022-09-07T21:04:00Z
-originalUrl: "https://www.dailynews.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/"
-webUrl: "https://www.dailynews.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/"
-ampWebUrl: "https://www.dailynews.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/amp/"
-cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/amp/"
+excerpt: "Some Tesla owners who paid far less for an earlier, unfinished version of the same “full self-driving” software that now retails for $15,000 caution that the new price does not make"
+publishedDateTime: 2022-09-07T17:51:00Z
+originalUrl: "https://www.eastbaytimes.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/"
+webUrl: "https://www.eastbaytimes.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/"
+ampWebUrl: "https://www.eastbaytimes.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/amp/"
+cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/amp/"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Los Angeles Daily News
-  domain: dailynews.com
+  name: East Bay Times
+  domain: eastbaytimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.dailynews.com/wp-content/uploads/2022/09/hypatia-h_f83a5bee143b3b89282e5807cb1c97e9-h_c8f834e95ae4db3b0c1cf5aa23866cd0.jpg?w=1024&h=1024"
+  - url: "https://www.eastbaytimes.com/wp-content/uploads/2022/09/hypatia-h_f83a5bee143b3b89282e5807cb1c97e9-h_c8f834e95ae4db3b0c1cf5aa23866cd0.jpg?w=1024&h=1024"
     width: 1024
     height: 1024
     isCached: true
@@ -88,6 +88,6 @@ related:
         height: 675
         isCached: true
 
-secured: "dIiClbfxJFqeWmijerGrsF/NR7so9IQ9Y7GZeJQJv8padtGC88qJyZ67LOsQcMBsx/L9OhWl+ZXUivcwz5GcC9OkeVRDI2IZu3/sNbZEiowvd8VnClzLKcOQvTf5H72YslsoYEHvN+mg/o/P/b+wwfGrQrBBxEVV/7gVRbrxw4Bk6YjeA2QZL23oaWJIUvXgdYQu/Dk94Hwtd8c8PmcDvt/guI/dnEhfJZZxEjahsTevg693EjNn/9H4UllwLHgyDTS3V0sbBOLWJX+oNOxO9aklcNqzxiQzREuTa6v78btkmTvN5TOkGJMSqdvh/dxwamwnJWjBGdOGInz1T23KxSYc9SBvjlWum1BlZ6hh5uobbT8CV09iA5QkkAAP+Gr/OfxzGTeQapfAA+C0x/jncyIAuumHyT40hXFgKt7hlrAS2So3wY4FJ4uSmqfwFiHm4nyOHCH066UHTyT+89+w2X130rjawDrbJIj+808xnn1eFPSy15lyeDF0sEk/bdbUnTpahV0mM3mcWoQWqlPyIw==;6VtCGcHebJHR3spGIZO78w=="
+secured: "F1PdMBEbOUbjswQqButZpyi8H1ulRJywsMFesylsmUuaW1sOolBVirVrjVAw/5AdH0ewn7sqr7ozgorqtM6a7SQmQx+q6Mew0BPwbWiEggHZ5HAt6tu8S3rivwtJ+reuVlCcDD5j3iYqP6im2JWpBiDzF21Mx1M03F1IvHEPmW+/MtyclfjYL//uj80Mt+VkfOsLY/0EnoK/YqdmytodGjpEviZLUK+Im12hC+CudN0BL4qeTV1BDtk2xAndgge+IejHZqa95WXd60bBMhEIk5lvqnHByc7zVzfaGrimEkkFCcAKXW3Nb8KOb54F2PvXM/7Z1EdPHvto1lB6bxNq40WFxj5AzTGqGD5W6+OOdOA=;z9rQMd+vzAfMUmaxcD/c2g=="
 ---
 

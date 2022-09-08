@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-software-m
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-size-from-2022-to-2028-and-key-findings-and-segments-by-end-use-industry-2022-09-05"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: MarketWatch
@@ -43,6 +43,15 @@ related:
         width: 1038
         height: 778
         isCached: true
+  - title: "Learning Management System (LMS) Global Market Report 2022: Artificial Intelligence Presents Exciting Development Areas"
+    excerpt: "Global Market Report 2022: By Component, Delivery Mode, Deployment Mode, End User, and Covering\" report has been added to ResearchAndMarkets.com's offering. The global learning management system (LMS) market is expected to grow from $13."
+    publishedDateTime: 2022-09-08T12:12:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/09/08/9669431.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "5Xnq7kOhhdRLmQnrGEaf2VBzcGh5u1CCvJVV9Mugsy2Y+5Fopvpk6cu0eSOR6kr2/nS1KUoouw+jKGD/BwnmBXpk2UhL86bmulTcVCsUuDxs9BS2jMNK8/bRPExHBCvLMhTWVHJqVcb69EMFST46on8td73AMQxTI/fX61tYJBym/3TBB17LvwmmW4VnYUXjgLAYC2grQsEGoBujq/0tiRGrWyP13DbHFss8XqKkQvXvJWT6Xsi9MoRXiqcbHJXYrSb6ElNZEOJhS5+mIhsR7RZ7DMP/zTIUZbsEV1BiqMhHZwQuU+419T6Yh+y/W8NCdh9/oGr6FZ8Df4tfG6BOBNi+SgvQ0/8bhRX7nbYwDRU=;jl+VhodjNj5o3y0tQdW7hw=="
 ---

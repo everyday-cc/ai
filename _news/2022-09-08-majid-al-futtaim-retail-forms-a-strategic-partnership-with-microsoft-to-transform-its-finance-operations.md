@@ -1,21 +1,32 @@
 ---
 category: news
-title: "Majid Al Futtaim Retail forms a strategic partnership with Microsoft to transform its finance operations"
-excerpt: "Company's FP&A division leverages the power of Azure Analytics Platform to break down information silos, automate financial and operational reporting, and unite decision-makers under a single source o"
-publishedDateTime: 2022-09-08T11:59:00Z
-originalUrl: "https://www.zawya.com/en/press-release/companies-news/majid-al-futtaim-retail-forms-a-strategic-partnership-with-microsoft-to-transform-its-finance-operations-mtepg7k1"
-webUrl: "https://www.zawya.com/en/press-release/companies-news/majid-al-futtaim-retail-forms-a-strategic-partnership-with-microsoft-to-transform-its-finance-operations-mtepg7k1"
+title: "Majid Al Futtaim Retail Forms a Strategic Partnership With Microsoft To Transform Its Finance Operations"
+excerpt: "Microsoft today announced that Majid Al Futtaim Retail – operator of the Carrefour retail brand across 16 countries in the Middle East, Africa and Asia"
+publishedDateTime: 2022-09-08T08:43:00Z
+originalUrl: "https://www.albawaba.com/business/pr/majid-al-futtaim-retail-forms-strategic-partnership-microsoft-transform-its-finance"
+webUrl: "https://www.albawaba.com/business/pr/majid-al-futtaim-retail-forms-strategic-partnership-microsoft-transform-its-finance"
+ampWebUrl: "https://www.albawaba.com/amp/business/pr/majid-al-futtaim-retail-forms-strategic-partnership-microsoft-transform-its-finance"
+cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/majid-al-futtaim-retail-forms-strategic-partnership-microsoft-transform-its-finance"
 type: article
+quality: 74
+heat: 74
+published: true
 
 provider:
-  name: Zawya
-  domain: zawya.com
+  name: Al Bawaba News
+  domain: albawaba.com
 
 topics:
   - Microsoft AI
   - AI
   - AI in Finance
 
-secured: "i1kLmktdUWBAYzDNKxkCZ+tqz0v3xw9suU6X1q3aq39iOs89egchsVlDdF70Qpjpsld9oXcOTCtHWimGFUlSAq5RcEXiyCTSbm8yo6gMiuuyibQ2xwduiEsK8vV8EXkyJbucshTdKT7iuha887IrXN/EJb10q17L2Lw2k4YyJR4jOSJOg3t15q8OielDn4/GBAXMIM/ltGzP9N0R4mw13p3xcEhf6zZiJw9Wmu4vsIKMx88qcaEz/jpGfT6RdFHPmGSlnfJhU+jFQJZO/tAAaWSLWIGFlh33W6TO3GlYQSEfb2TJG0lmzsjYvKWyKQzNCwwcEQts6DISw851VzwbrwUGq23QwnGHl0UnK5Y3GMI=;zww07a5uMUq1xHu4A7mdAQ=="
+images:
+  - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-09/Rahul%20Bahndari%20Official%20Web%20Photo%20%281mb%29.jpg?itok=ZsBRcibc"
+    width: 960
+    height: 540
+    isCached: true
+
+secured: "SwFx6lTIC9SForvpT453FTqKIDh5aZKdUWChjvv/DLfvD0/lCIdo7XRzmxHfXtg1h1+nBN/EG0uyFkTQVs7c5BNEvpL+Dr6Up+LNY7oTOzoXJHCSQLJuqxAYHi+U3kGI3OGP7ul3NRYvUuohkjy6UTheEEp4US3fvpRiAdg0GlnIbc6KBCmMQaVURrcvZSnFDzoA5rThFfHVIybJKFNdF0398h8Q2cHvTi3lv7TKd7Ebsru8XSpQAzhq3/PtCxQCePReajK+J5QZ+gsoUG7ex0eOHvwZB79/gZkW7Kj0rkExaK28E+iwYKnq/D17+28G9b+KhbFDk3AcR6AZL7rfrk1UFICKf27KBKIngqH9QPM=;L961PHxlyXe8pYZit2j2Ng=="
 ---
 

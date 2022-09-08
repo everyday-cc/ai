@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-08T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/lutzfinger/2022/09/08/deepfakesthe-danger-of-artificial-intelligence-that-we-will-learn-to-manage-better/"
 webUrl: "https://www.forbes.com/sites/lutzfinger/2022/09/08/deepfakesthe-danger-of-artificial-intelligence-that-we-will-learn-to-manage-better/"
 type: article
+quality: 62
+heat: 72
+published: true
 
 provider:
   name: Forbes
@@ -17,7 +20,25 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
-secured: "sQOZTS+FdrXIdLWXrPM+sGS8d88jzcYtI+u8hAW+GYoZqStBQmndn8i4eSF3bVj9jAE0Jo8vQyCN7Y9oDDNJoguYNQQIfZ4Yie36HweFYOwbK/BSn+qwDQqu11wDbf/FHg45oebEIzGdW6DGT8Ms3wvIS5dsVPlVavG0VaW7bM9SD5dECNTVd3d3KYBxslaiuDaCZmQI98xkmnGlpnaw2e6A542yFsJy2v2a6Qxr6CeJoU/ufAleLOAw8A4ePmJPgn6pBoWyhKZVmZj3jQpAInVWQ56nE3wr5jmCjGgHiMr5nAjy5xt5vShT9/KymH5ffeCNR4428CrWDmTZDfzTsmlZuVE+Y9Hqvhs+KFc92V2u+gbuYygyaB5KADcN1BpldcAYy/JkGfsqauIJvtSOY9NBQIiU9WbZPHSsFvoE4/ZCyxjxOPFG5lhLt5ITp4NZjTDwW2enDkckUQcoE+kgU8BafQaXzb52dfqVk4r4R9Ae5CHPwD2dWZkANaJUHvyMSm55OXxEKse/kTvANrBvPA==;NdJgMm8BrIz2m7pz5EeaTQ=="
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/631820e023a6f13b1db586d2/0x0.jpg?format=jpg&width=1200"
+    width: 1080
+    height: 1080
+    isCached: true
+
+related:
+  - title: "3 In-Demand AI Skills That Will Offer New Career Opportunities"
+    excerpt: "When integrating artificial intelligence technologies into businesses, there are several high-impact skill areas that employees can learn to fill."
+    publishedDateTime: 2022-09-06T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/09/06/3-in-demand-ai-skills-that-will-offer-new-career-opportunities/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+
+secured: "kFOjya2tONQDKz8zVoCWGy37uiGxp+UYsikr9RPLEJENSRFPgRRjqiuXT1mK/AByvagescDaNz4wImT+R943qO9FX0NvbVYCPcaizrnpl042ol1vlBOB3rquMdb4eLR0uSJ69cAgJclMkm2VfsOiHeIqepNWvd3Hc3zC/eZgbXr04ost4FymEN6JJkSb8m2FTJh3KyqAWu8mRxBHmM4HsLVHyvhzTH7/IPlJ9mDo8w5vXfWugobrrRJoB1VNpeRr+RQBzSrrYAF2SkfCfBLcMA9Ug5p6LNklqKwk5MJ4u5nivBxuiL6qRcG8DjycscSt67v075gyvtq+aBRyVWyUXIoeI+bX8PTwZokFoMqsZxI=;W6jiYBEgWEBnn4hb75orEw=="
 ---
 

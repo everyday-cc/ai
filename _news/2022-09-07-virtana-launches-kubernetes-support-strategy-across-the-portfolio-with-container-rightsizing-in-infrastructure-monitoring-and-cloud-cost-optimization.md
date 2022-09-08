@@ -32,6 +32,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 4
+  - title: "Virtana Introduces a Kubernetes Support Strategy Across Entire Portfolio"
+    excerpt: "Virtana, a provider of AI-driven solutions for hybrid cloud management and monitoring, announced new Kubernetes strategy that will deliver container support across the full portfolio of Virtana Platform solutions."
+    publishedDateTime: 2022-09-08T15:45:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Virtana-Introduces-a-Kubernetes-Support-Strategy-Across-Entire-Portfolio-154820.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 3
   - title: "Virtana Launches Kubernetes Support Strategy Across the Portfolio with Container Rightsizing in Infrastructure Monitoring and Cloud Cost Optimization"
     excerpt: "Virtana, a leading provider of AI-driven solutions for hybrid cloud management and monitoring, announces a new Kubernetes strategy that will deliver container support across the full portfolio of Virtana Platform solutions."
     publishedDateTime: 2022-09-07T17:14:00Z

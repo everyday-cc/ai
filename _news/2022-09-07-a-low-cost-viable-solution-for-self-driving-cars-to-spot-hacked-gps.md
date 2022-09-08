@@ -21,8 +21,8 @@ topics:
 related:
   - title: "Why self-driving cars have stalled – video"
     excerpt: "Fully fledged self-driving technology appears to be pepetually just around the corner, but it is still an open question whether self-driving automation is actually possible"
-    publishedDateTime: 2022-09-08T08:07:00Z
-    webUrl: "https://www.theguardian.com/technology/video/2022/sep/08/why-self-driving-cars-have-stalled-video?amp;amp;amp"
+    publishedDateTime: 2022-09-08T09:42:00Z
+    webUrl: "https://www.theguardian.com/technology/video/2022/sep/08/why-self-driving-cars-have-stalled-video"
     type: article
     provider:
       name: The Guardian
@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "NC State researchers test safety benefits of self driving cars"
-    excerpt: "Hajbabaie is trying to slowly build up the idea that self-driving cars a way to a future with fewer crashes and fewer casualties."
-    publishedDateTime: 2022-09-03T19:38:00Z
-    webUrl: "https://www.cbs17.com/news/local-news/wake-county-news/nc-state-researchers-test-safety-benefits-of-self-driving-cars/"
-    type: article
-    provider:
-      name: cbs17.com
-      domain: cbs17.com
-    quality: 19
 
 secured: "1bsYx4oQL2oHnFDy481riTYMkYayu6Gacu+FXt48LxFgFgI9yr+tg3+SNzFO42ObNrZPtqsplc4y0ksNFiu7PH+uZ7oJnZoSQKKNYCYyM5wYzSXO6E4ONy+nWg8bbHqCUYvty1HLfA1pZr6SOhG65I28Uy4iDQv+59OFAGpZZPsBxz2xHjI9+MxY9OEUqRU0fLq0KgP8CBK+lz8bstXszsijIOQ1Ycf5HVu80CNeiFRlrZEoHismnB9ZbjUouZOLfxrUSMctO5CoA+DPhqNsBkCDrzKcKIAOLrkQuin5TxDmtrRF3Nqd4HTMv/emfvG/2U2wgLVHe2PLFQtozEOqO4eFvZy/JUFcXqCixQDRclwnAwk8vkL6qiaNxdmBrnwTc7abFa4SaKAw0fNmJIcxJn0g/aUUcibskwpbb8qHynlbf1NOmJalggB7KHADkRyh2BJqI3NG+SH6NDqKOfmVitIcbk//h/T2GrqahhlHYr8U0CA+F5SZ7ioCfeZ8A83ejtjPYQyT/o0u3tKSfaW2pQ==;IO2a7vaJKKOHqiw0lSlZfw=="
 ---

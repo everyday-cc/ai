@@ -41,6 +41,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Editorial: It’s past time to prepare for a future where the workforce has as many robots as people"
+    excerpt: "This country isn’t doing enough to prepare for a future where millions of Americans with outdated skills won’t be able to compete for jobs when a less expensive, automated alternative"
+    publishedDateTime: 2022-09-08T12:00:00Z
+    webUrl: "https://www.dailycamera.com/2022/09/08/editorial-its-past-time-to-prepare-for-a-future-where-the-workforce-has-as-many-robots-as-people/"
+    type: article
+    provider:
+      name: Daily Camera
+      domain: dailycamera.com
+    quality: 5
 
 secured: "RocR8dDfg0WoIKjYalYskhl8/wMJdtvs6bY0drAhpz0/wHMTjdRmQ5Dd2nO/cEcH+pL5rY9WFWw4fPmdvme1cccKHcBA7eCfmJ2bK37Ct1/vOl14axHDZtoA3aLpt9dEgsbIJT3HxKmz2cNLEgMbrvdTQBVgnVre1RxOYtu6ovrrNQu7SSMC3hshYXRut1sT8blgDLoH6nWno631d8g6kK9I0lg+TBmxjgwp7oA9i5L8yUT6ODU/eD2MYkKSjjPtaD7ZCenI/orkw/kRTP978I+uOKYtUCQjkD2a6y4e9AI0SFObD9CURqqTtMn7mo7xSrBRx/OmdiffBYK8oTfqQSN86tfMCgglssSK8eQgjLhSaTwjM+/tSN1Zs4oMeJhqn8Q+9hr29G+UKMGf5H1h5tDW2USOhWX9fGUO5xzflHFYx80jfFCZJva8jThwycMuE0oUBYGVL4PNWzcc6shaELLzAxqjtD1aGa5LyKWGNi+fMUX3XgPMdJOSGJKFarx0oJiMDwtdtOJWrrQAvI8cgg==;Bj/RGPjWMGDayuLDYwx/NA=="
 ---

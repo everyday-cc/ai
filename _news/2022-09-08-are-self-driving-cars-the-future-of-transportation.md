@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-08T12:39:00Z
 originalUrl: "https://www.today.com/video/fully-autonomous-taxi-service-comes-to-san-francisco-147981893910"
 webUrl: "https://www.today.com/video/fully-autonomous-taxi-service-comes-to-san-francisco-147981893910"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Today

@@ -2,6 +2,93 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-07-04-factors-to-consider-regarding-ai-therapy.md",
+      "title": "Factors to Consider Regarding AI Therapy",
+      "excerpt": "In the first part of this post, we discussed how an effective AI therapist might be developed in the near future. In this second part, we will discuss some additional considerations of an AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/understanding-hypnosis/202207/factors-consider-regarding-ai-therapy",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/understanding-hypnosis/202207/factors-consider-regarding-ai-therapy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2022-07/willyam_bradberry_shutterstock.jpg?itok=fc36pwQy",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/understanding-hypnosis/202207/factors-consider-regarding-ai-therapy?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/understanding-hypnosis/202207/factors-consider-regarding-ai-therapy?amp",
+      "publishedDateTime": "2022-07-03T22:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-07-04-digital-nursing-1-exploring-the-benefits-and-risks-of-artificial-intelligence.md",
+      "title": "Digital nursing 1: exploring the benefits and risks of artificial intelligence",
+      "excerpt": "Artificial intelligence is already being used to support advanced ... a robot for children that can respond to emotions; Paro, an animal therapy robot (Robert, 2019). A common theme in the literature on AI and robotics in healthcare is the expectation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nursingtimes.net/clinical-archive/healthcare-it/digital-nursing-1-exploring-the-benefits-and-risks-of-artificial-intelligence-04-07-2022/",
+      "originalUrl": "https://www.nursingtimes.net/clinical-archive/healthcare-it/digital-nursing-1-exploring-the-benefits-and-risks-of-artificial-intelligence-04-07-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ps.emap.com/wp-content/uploads/sites/3/2022/07/INDEX-Disc_DigitalNursing-1_59109-series-440x330.jpg",
+          "width": 440,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nursing Times",
+        "domain": "nursingtimes.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-07-02-could-artificial-intelligence-replace-therapists.md",
       "title": "Could Artificial Intelligence Replace Therapists?",
       "excerpt": "Artificial Intelligence (AI) in the Role of a Psychologist ... technology can be used as an effective tool for psychological therapy. Further, if people who interact with LaMDA believe it is ...",
@@ -1224,93 +1311,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-global-gene-therapy-market-report-to-2031-players-include-novartis-bluebird-bio-spark-therapeutics-and-cellectis-researchandmarketscom.md",
-      "title": "Global Gene Therapy Market Report to 2031 - Players Include Novartis, Bluebird Bio, Spark Therapeutics and Cellectis - ResearchAndMarkets.com",
-      "excerpt": "The \"Gene Therapy Global Market Report 2022, Vector, Application, End Users\" report has been added to ResearchAndMarkets.com's offering. This report provides strategists, marketers and senior management with the critical information they need to assess the global gene therapy market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.galvnews.com/news_ap/business/article_88f29db6-7e59-5f35-92d9-aba5d3a3dc1f.html",
-      "originalUrl": "https://www.galvnews.com/news_ap/business/article_88f29db6-7e59-5f35-92d9-aba5d3a3dc1f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T10:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily News",
-        "domain": "galvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-is-expected-to-reach-usd-798-billion-by-2028-fior-markets.md",
-      "title": "Natural Language Processing (NLP) In Healthcare And Life Sciences Market is Expected to Reach USD 7.98 Billion by 2028 : Fior Markets",
-      "excerpt": "As per the report published by Fior Markets, the global natural language processing (NLP) in healthcare and life sciences market is expected to grow from USD 1.84 billion in 2020 and to reach USD ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-is-expected-to-reach-usd-7-98-billion-by-2028-fior-markets",
-      "originalUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-is-expected-to-reach-usd-7-98-billion-by-2028-fior-markets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/Ukraine-Tank-war-AFP-1K-600x337.jpeg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T01:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

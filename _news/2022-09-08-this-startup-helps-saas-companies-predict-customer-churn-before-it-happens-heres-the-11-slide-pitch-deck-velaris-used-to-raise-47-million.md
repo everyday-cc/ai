@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-08T12:00:00Z
 originalUrl: "https://www.businessinsider.com/velaris-raises-47-million-help-saas-firms-curb-customer-churn-2022-9"
 webUrl: "https://www.businessinsider.com/velaris-raises-47-million-help-saas-firms-curb-customer-churn-2022-9"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Business Insider

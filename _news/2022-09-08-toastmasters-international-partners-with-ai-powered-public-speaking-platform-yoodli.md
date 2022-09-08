@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-08T12:21:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/toastmasters-international-partners-with-ai-powered-public-speaking-platform-yoodli-1031731850"
 webUrl: "https://markets.businessinsider.com/news/stocks/toastmasters-international-partners-with-ai-powered-public-speaking-platform-yoodli-1031731850"
 type: article
+quality: 60
+heat: 60
+published: false
 
 provider:
   name: Business Insider
@@ -18,6 +21,12 @@ provider:
 topics:
   - AI
 
-secured: "E/FfpEi/naQgyXXIIgG4m+MMKmvUVXQmG7agCFOzt+gUXhzWycoFY7JbbBvEPYgjAZeT6yMWUyJG7D3tJeJO43+ssDsFE6p8kP9MdLe6EtkXTfgqfD8dcQae/b+v2h1McGthF2inEMQvDhataDRvwbxoAhHBtxsvLCf3ek+gE4mlg/sDhtcXW/ZECSZWC2Q/Vgygrwvwu9+EYvh27aNnfXJPGFhKwIQsTg7NB/6/E91vyFE+bhMzuc16HxcShKgvmzY8UiWbUYto9QL8xQoTrzqnRY1QoITHU6QveVIXP5dYSU9SIGUHXIBa9C6tNi3aeoglRAnwK8Olx0Y+YYuChqR+6PfOxF5MpoUorIqvtfsy3FB47AwWez7VVsfUIe8JtupjhTQTjoixED+XQ3j1t4pH20gZ/v6Yvl9pWrrF0sUxARpl+u/NbO3B1HgnJfNFlPRoSFDAgzTiCWHdE5mZW/GH+bBRIVLVBCCsb5dVOKjr4YwphvpuQsy1fd6EKk4OZB8Il7DKWD5h/XjSY0rlDg==;/0kKPRn7y/6/azt7P+iDvQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1894165/toastmasters_yoodli_press_release.jpg"
+    width: 400
+    height: 390
+    isCached: true
+
+secured: "dK6+kou04YE8l2gywG8wO/Vz71NhIrOoMXjKJOPPdOHjp5aSZyxI90nlH6sQ9QMA2eLG38nR/sqVp0sEZ0RejUjrYjOZemSM6CvLwwA5VUmtLaxfOpUH29NKkQN/GeptAhYgwY9sZzu/N15bz0HsC71D5W9iz75TtPl/zNeVbf8Hh0kjKnE9On9eWft6HBkH1YjI9n6TAnf77Y4KmSqG3dY7zIijO+wxN9Bt6fblFpAAGGftoh080c4M80TGS8rPVb+d7+nxJr+02/YbknTu9HQcFiSxeU2rS1JW+hQuz5nN5CR4SBlhsLGTvqmwWBWMRUygIiTLVWA/Px8TVgrDSUXZJBQEX5Qz0EE04L07XDI=;rh0jqNjejifFbFPhFBGYxg=="
 ---
 

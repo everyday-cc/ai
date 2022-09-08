@@ -9,8 +9,8 @@ ampWebUrl: "https://www.gadgetsnow.com/tech-news/this-is-likely-why-us-banned-ai
 cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/this-is-likely-why-us-banned-ai-chips-to-china/amp_articleshow/94026320.cms"
 type: article
 quality: 74
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: Gadgets Now
@@ -27,19 +27,51 @@ images:
     isCached: true
 
 related:
-  - title: "Banned U.S. AI chips in high demand at Chinese state institutes"
-    excerpt: "The development signaled a major escalation of a U.S. campaign to stymie China's technological capability as tensions bubble over the fate of Taiwan."
-    publishedDateTime: 2022-09-06T08:55:00Z
-    webUrl: "https://www.japantimes.co.jp/news/2022/09/06/business/tech/banned-us-ai-chips-china/"
+  - title: "Nvidia AI chip export ban expected to impact U.S.-China AI race"
+    excerpt: "The ban on Nvidia AI GPUs to China has led to speculation about the impact on Chinese firms, as well as on Nvidia’s China business."
+    publishedDateTime: 2022-09-08T15:30:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-ai-chip-export-ban-expected-to-impact-u-s-china-ai-race/"
+    ampWebUrl: "https://venturebeat.com/ai/nvidia-ai-chip-export-ban-expected-to-impact-u-s-china-ai-race/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-ai-chip-export-ban-expected-to-impact-u-s-china-ai-race/amp/"
     type: article
     provider:
-      name: ジャパンタイムズ
-      domain: japantimes.co.jp
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1350668583.jpg?w=1200&strip=all"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "NVIDIA Keeps The Performance Crown For AI Inference For The 6th Time In A Row"
+    excerpt: "Every three months we share our perspectives with you as the MLCommons consortium coordinates the publication of new AI benchmarks for inference and training. While NVIDIA lost the absolute performance crown during the last smack-down for training while awaiting the H100,"
+    publishedDateTime: 2022-09-08T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2022/09/08/nvidia-keeps-the-performance-crown-for-ai-inference-for-the-6th-time-in-a-row/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/09/08/nvidia-keeps-the-performance-crown-for-ai-inference-for-the-6th-time-in-a-row/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/09/08/nvidia-keeps-the-performance-crown-for-ai-inference-for-the-6th-time-in-a-row/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63190e4480b932572f213ebc/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 671
+        isCached: true
+  - title: "AI Chips and China, Geopolitical Considerations, Nvidia Considerations"
+    excerpt: "Nvidia and AMD graphics chips are barred from sale in China, signaling a permanent shift in the U.S.’s approach to selling tech to China"
+    publishedDateTime: 2022-09-06T11:01:00Z
+    webUrl: "https://stratechery.com/2022/ai-chips-and-china-geopolitical-considerations-nvidia-considerations/"
+    type: article
+    provider:
+      name: Stratechery
+      domain: stratechery.com
     quality: 54
     images:
-      - url: "https://cdn-japantimes.com/wp-content/uploads/2022/09/np_file_180676-870x489.jpeg"
-        width: 870
-        height: 489
+      - url: "https://i0.wp.com/stratechery.com/wp-content/uploads/2018/03/cropped-android-chrome-512x512-1.png?fit=512%2C512&#038;ssl=1"
+        width: 512
+        height: 512
         isCached: true
   - title: "Nvidia outlook: the US bans AI chips to China and Russia"
     excerpt: "The end of August saw Nvidia state in an SEC filing that the US government is restricting the sale of its high-performance AI chips to China and Russia. The chips, created for the A100 and H100 servers,"
@@ -68,6 +100,62 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?531717"
         width: 375
         height: 250
+        isCached: true
+  - title: "China may step up purchases of AI GPUs from Nvidia, AMD prior to export ban"
+    excerpt: "The fresh US ban on exports of AI GPUs to China has sparked market speculation that the restriction may prompt Chinese clients to accelerate and increase shipment pull-ins for advanced GPUs from major suppliers Nvidia and AMD before a buffer period expires on September 1,"
+    publishedDateTime: 2022-09-05T06:11:00Z
+    webUrl: "https://www.digitimes.com/news/a20220905PD200/amd-gpu-nvidia.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 52
+    images:
+      - url: "https://img.digitimes.com/newsshow/20220905pd200_files/2_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "U.S. deals blow to China tech ambitions with Nvidia chip ban"
+    excerpt: "Nvidia can no longer sell certain high-end AI chips that are used in large data centers to train AI models for tasks such as autonomous driving, image recognition and voice assistance."
+    publishedDateTime: 2022-09-07T14:02:00Z
+    webUrl: "https://europe.autonews.com/suppliers/us-deals-blow-china-tech-ambitions-nvidia-chip-ban"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 41
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/Nvidia%20sign%20B%20web.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "NVIDIA and Dell Offer New Data Center Solution for the AI Era"
+    excerpt: "NVIDIA is offering a new data center solution with Dell Technologies that is designed for the era of AI, bringing AI training, AI inference, data processing, data science, and zero-trust security capabilities to enterprises worldwide."
+    publishedDateTime: 2022-09-06T14:33:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/NVIDIA-and-Dell-Offer-New-Data-Center-Solution-for-the-AI-Era-154666.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 39
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Nvidia: Biden Targeting China On The AI Front"
+    excerpt: "Nvidia's headwinds of weak F2Q earnings and restrictions on selling GPUs in China, are coupled with a high valuation. Read why NVDA stock is an avoid."
+    publishedDateTime: 2022-09-06T20:21:00Z
+    webUrl: "https://seekingalpha.com/article/4539222-nvidia-biden-targeting-china-on-ai"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/825383494/image_825383494.jpg?io=getty-c-w750"
+        width: 750
+        height: 426
         isCached: true
 
 secured: "k93SHJ+V4bYgMJPYgn3Xe6TEMOZX4lpaOdG7jvuZbbXNJHZjpVKKXLJSY/7kKb+2L26MJth9t6VPjoHV0EBNlMADqzxvgCgBv7krv9PTkVxWazBBQ5xvhVhnez6H0nKAIIHYzbk6FLJNGoDAc7gCvA7hR8vw1/3NMd76+aopEcYShu3kft/FOPFztliQGFQTcygNMqh6tjCx4lOinZdksk/CPKkqt27lJ8s9eiU7DWUU1rqMIX3Ul90VnBCcpSC5tJsFfgPqtZLPy9ZAk1Yta23SN6lm8oQaJPf6nXuihZ15hyly4W2ZeOy5HUV+4r2gKUT3teQfgchy54Sy/FG+VrSv59Lv9/L9UGG09r+7G6odQnh94NC8hENbQnNv06mOFtXI++MQ0nqHdapOPgkFMP0ED1cAOkaBHIJjRybFNUDR892unC36oC+PCrSTbV0lHhpFMvIuqvsJS6gPNi/8PpdPYCicJ2TWdkVopYzlkA8eXlc6OmC5GwZnXffvIUMXbdvyIetgWFVZ2XJi4aHaEg==;YywxT5XMKsqjDSG7ZRVSNA=="

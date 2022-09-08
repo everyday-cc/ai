@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-08T10:10:00Z
 originalUrl: "https://www.reuters.com/world/europe/ukrainian-citizens-seeking-war-reparations-face-uphill-struggle-2022-09-07/"
 webUrl: "https://www.reuters.com/world/europe/ukrainian-citizens-seeking-war-reparations-face-uphill-struggle-2022-09-07/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Reuters

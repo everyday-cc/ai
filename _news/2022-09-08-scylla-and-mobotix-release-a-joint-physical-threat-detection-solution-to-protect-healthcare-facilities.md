@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-08T13:53:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/scylla-and-mobotix-release-a-joint-physical-threat-detection-solution-to-protect-healthcare-facilities-1031732374"
 webUrl: "https://markets.businessinsider.com/news/stocks/scylla-and-mobotix-release-a-joint-physical-threat-detection-solution-to-protect-healthcare-facilities-1031732374"
 type: article
+quality: 35
+heat: 35
+published: false
 
 provider:
   name: Business Insider

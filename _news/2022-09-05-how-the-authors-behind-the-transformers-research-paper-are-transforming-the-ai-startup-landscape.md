@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Train transport of the future: Bosch Engineering is working on automated driving in rail traffic"
+    excerpt: "Digitalization and automation increase capacity of existing rail network without building new tracks; Development focus is on systems and"
+    publishedDateTime: 2022-09-08T12:42:00Z
+    webUrl: "https://www.bosch-presse.de/pressportal/de/en/train-transport-of-the-future-bosch-engineering-is-working-on-automated-driving-in-rail-traffic-246016.html"
+    type: article
+    provider:
+      name: bosch-presse
+      domain: bosch-presse.de
+    quality: 6
 
 secured: "MRsI4Vg3Ou2pwblRv6Et/EVfzPwAC6AGH7jLw78vUfGdfC6rCYjRYRXXlTGtWCTGyoFdnvBHnO6WY4RemSr0anRGvB+E9p8zHeGi3YTJtYy0DGwg21ZmH54sJHtlNoE3bwH5RQgVyBSSGtWvXcHU22PIAaME2632Ma0geHlPJV2XgPHkqEYAbWHsGagEg5fZ33B0iEnm6xDaOrHOxBsAZqZg4ScvgsVGYeVFrmHf0smOjdl0YpWIDHhcPYM6eTiVnEFMKIqDUMAuTGiw6we6uTAAynGUbiJhiu0iOYR8xze9kBg5sF7gDjo2VxHux6g4ZVei2mtBrLOhfalFqQBU05ATfklfhU4WUBLefKxKPxDalS2t0bpqgSwVNhriGwmQzcqouQ69T6yIqlzunVS9CIK6V3FSq7RwihMC3x0p2nobqdFI49mBHMNjS4eHg78pefxBNiQS/tyzn7a2l5t1nN/Fd8k09Sxc9ncQxvyOEgNDwbHzGISlqbFpl/b+YaPTjpotLT1mMFBPdMrA8vunVg==;sUGZnk2VJL8ZcJ+A+EvSpQ=="
 ---

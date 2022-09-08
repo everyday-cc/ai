@@ -2,6 +2,377 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2022-07-06-azra-ai-expands-innovative-incidental-findings-technology-to-help-clinicians-identify-more-cancers.md",
+      "title": "Azra AI expands innovative incidental findings technology to help clinicians identify more cancers",
+      "excerpt": "Azra AI’s proprietary software — which uses artificial intelligence (AI) and natural language processing to identify incidental lung nodules in medical reports — is expanding to include liver, kidney and adrenal,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-health-cancer-artificial-intelligence-ovarian-5ec885db2d8d35ddef975c8a947fd694",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-health-cancer-artificial-intelligence-ovarian-5ec885db2d8d35ddef975c8a947fd694",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-06T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-celus-which-uses-ai-to-automate-circuit-board-design-raises-256m.md",
+      "title": "Celus, which uses AI to automate circuit board design, raises $25.6M",
+      "excerpt": "Just about every electronic contraption you care to think of contains at least one printed circuit board (PCB), which serves to house and connect the various components that allow the device to function as a whole.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/06/celus-which-uses-ai-to-automate-circuit-board-design-raises-25-6m/",
+      "originalUrl": "https://techcrunch.com/2022/07/06/celus-which-uses-ai-to-automate-circuit-board-design-raises-25-6m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/CircuitBoard-e1656949944955.jpg?w=1024",
+          "width": 1024,
+          "height": 511,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/06/celus-which-uses-ai-to-automate-circuit-board-design-raises-25-6m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/06/celus-which-uses-ai-to-automate-circuit-board-design-raises-25-6m/amp/",
+      "publishedDateTime": "2022-07-06T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-ibm-acquires-databand-to-bolster-its-data-observability-stack.md",
+      "title": "IBM acquires Databand to bolster its data observability stack",
+      "excerpt": "IBM has acquired Databand, a provider of data observability products, to build on its existing product offerings in the category.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/06/ibm-acquires-databand-to-bolster-its-data-observability-stack/",
+      "originalUrl": "https://techcrunch.com/2022/07/06/ibm-acquires-databand-to-bolster-its-data-observability-stack/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 244,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1091444622.jpg?w=1024",
+          "width": 1024,
+          "height": 665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/06/ibm-acquires-databand-to-bolster-its-data-observability-stack/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/06/ibm-acquires-databand-to-bolster-its-data-observability-stack/amp/",
+      "publishedDateTime": "2022-07-06T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-want-strong-physical-security-dont-forget-about-cybersecurity.md",
+      "title": "Want Strong Physical Security? Don’t Forget About Cybersecurity",
+      "excerpt": "Neither physical security nor cybersecurity are new concepts, but as technology has evolved, the two regularly find themselves working hand in hand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/06/want-strong-physical-security-dont-forget-about-cybersecurity/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/06/want-strong-physical-security-dont-forget-about-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/1200274448/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/06/want-strong-physical-security-dont-forget-about-cybersecurity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/06/want-strong-physical-security-dont-forget-about-cybersecurity/amp/",
+      "publishedDateTime": "2022-07-06T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres.md",
+      "title": "SP Robotics Maker Lab opens app for Franchises; plans to open 100+ centres",
+      "excerpt": "It currently has 50 Maker Labs in 20 cities in India and is looking at franchise Investment starting from INR 5 Lakhs upto 20 Lakhs to own a Maker Lab at your locality",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres-101657102405520.html",
+      "originalUrl": "https://www.hindustantimes.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres-101657102405520.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/07/06/1600x900/png_20220706_153448_0000_1657102775386_1657102784116.png",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres-101657102405520-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres-101657102405520-amp.html",
+      "publishedDateTime": "2022-07-06T03:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-three-ways-industrial-ai-can-unlock-instant-value.md",
+      "title": "Three Ways Industrial AI Can Unlock Instant Value",
+      "excerpt": "As field practitioners in the domain of industrial AI, we've discovered three key monetary constructs that will help show the value of industrial AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/06/three-ways-industrial-ai-can-unlock-instant-value/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/06/three-ways-industrial-ai-can-unlock-instant-value/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62c43e64efebb056e142918d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/06/three-ways-industrial-ai-can-unlock-instant-value/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/06/three-ways-industrial-ai-can-unlock-instant-value/amp/",
+      "publishedDateTime": "2022-07-06T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-2-reasons-you-should-be-extremely-cautious-about-this-hot-new-fintech-spac.md",
+      "title": "2 Reasons You Should Be Extremely Cautious About This Hot New Fintech SPAC",
+      "excerpt": "You may have recently heard of the latest hot new fintech to hit the market after it put its name on the map by partnering with SoFi Technologies in November 2021 and followed that up by partnering with Visa in February 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/2-reasons-you-should-be-extremely-cautious-about-this-hot-new-fintech-spac",
+      "originalUrl": "https://www.nasdaq.com/articles/2-reasons-you-should-be-extremely-cautious-about-this-hot-new-fintech-spac",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/2-reasons-you-should-be-extremely-cautious-about-this-hot-new-fintech-spac?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-reasons-you-should-be-extremely-cautious-about-this-hot-new-fintech-spac?amp",
+      "publishedDateTime": "2022-07-06T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-simon-randall-ceo-of-pimloc-how-could-ethical-ai-influence-data-laws.md",
+      "title": "Simon Randall, CEO of Pimloc: How Could Ethical AI Influence Data Laws?",
+      "excerpt": "To be clear: the term ‘ethical AI’ is used when referencing a very specific type of AI technology. One which has well-defined ethical guidelines and/or codes of conduct, and is based on a set of fundamental values that,",
+      "sourceUrl": null,
+      "webUrl": "https://techround.co.uk/news/simon-randall-ethical-ai/",
+      "originalUrl": "https://techround.co.uk/news/simon-randall-ethical-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techround.co.uk/wp-content/uploads/2022/06/data-collection-web-scraping.jpg",
+          "width": 1280,
+          "height": 848,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techround.co.uk/news/simon-randall-ethical-ai/amp/",
+      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/simon-randall-ethical-ai/amp/",
+      "publishedDateTime": "2022-07-06T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRound",
+        "domain": "techround.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-06-ai-in-fintech-market-2022-size-share-updated-growth-rate-report.md",
       "title": "AI in FinTech Market 2022 Size, Share updated Growth Rate Report",
       "excerpt": "New Jersey, United States – AI in FinTech Market 2022 – 2028, Size, Share, and Trends Analysis Research Report Segmented with Type, Component, Application, Growth Rate, Region, and Forecast ...",
@@ -785,377 +1156,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-05-20-year-indian-students-machine-learning-software-to-be-sent-to-space.md",
-      "title": "20 Year Indian Student’s Machine Learning Software To Be Sent To Space",
-      "excerpt": "A student from India studying in the Nanyang Technological University (NTU) in Singapore, has developed a machine learning software along with his team consisting of 4 other students from the same institution.",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/34361/20-year-indian-students-machine-learning-software-to-be-sent-to-space",
-      "originalUrl": "https://in.mashable.com/tech/34361/20-year-indian-students-machine-learning-software-to-be-sent-to-space",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/photo/default/image-from-ios-2022-07-05t112539169_qtd6.620.jpg",
-          "width": 619,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/34361/20-year-indian-students-machine-learning-software-to-be-sent-to-space?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/34361/20-year-indian-students-machine-learning-software-to-be-sent-to-space?amp=1",
-      "publishedDateTime": "2022-07-04T23:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-05-cognitive-spending-systems-market-global-market-growth-new-trends-covid-19-impact-and-forecast-2022-to-2028.md",
-      "title": "Cognitive Spending Systems Market - Global Market Growth, New Trends, COVID-19 Impact, and Forecast (2022 To 2028)",
-      "excerpt": "The \"Cognitive Spending Systems Market Research Report\" published by Report Mines gives information about Cognitive Spending Systems market structure (perfect competition, monopolistic competition, oligopoly,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-spending-systems-market---global-market-growth-new-trends-covid-19-impact-and-forecast-2022-to-2028-2022-07-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-spending-systems-market---global-market-growth-new-trends-covid-19-impact-and-forecast-2022-to-2028-2022-07-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-04T21:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-05-words-matter-ai-can-predict-salaries-based-on-the-text-of-online-job-postings.md",
-      "title": "Words matter: AI can predict salaries based on the text of online job postings",
-      "excerpt": "An AI model has been created that can predict the salary of job postings based on the text used with an 87% accuracy rate.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/04/words-matter-ai-can-predict-salaries-based-on-the-text-of-online-job-postings/",
-      "originalUrl": "https://venturebeat.com/2022/07/04/words-matter-ai-can-predict-salaries-based-on-the-text-of-online-job-postings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/investing-e1652369195161.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/04/words-matter-ai-can-predict-salaries-based-on-the-text-of-online-job-postings/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/04/words-matter-ai-can-predict-salaries-based-on-the-text-of-online-job-postings/amp/",
-      "publishedDateTime": "2022-07-04T20:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-05-deep-longevity-announces-important-operational-update.md",
-      "title": "Deep Longevity Announces Important Operational Update",
-      "excerpt": "Deep Longevity is committed to building and commercialising various aging clocks using artificial intelligence (\"AI\") led deep learning models. The company is applying special focus to the MindAge© offering as it seek to tap into the robust demand seen in the virtual mental health care market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-deep-longevity-announces-important-operational-update-/2022/07/05/9633726.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-deep-longevity-announces-important-operational-update-/2022/07/05/9633726.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-05-remote-controlled-robotic-toys-market-research-report-analysis-by-competition-sales-revenue-market-size-2022-to-2028.md",
-      "title": "Remote Controlled Robotic Toys Market Research Report Analysis by Competition, Sales, Revenue, Market Size 2022 to 2028",
-      "excerpt": "In this report, the local evaluation phase reveals the substantial capability of every region in the \" Remote Controlled Robotic Toys market \" collectively with its period 2022 - 2028 and amount. The segmentation analysis includes a descriptive assessment of the segments,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/remote-controlled-robotic-toys-market-research-report-analysis-by-competition-sales-revenue-market-size-2022-to-2028-2022-07-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/remote-controlled-robotic-toys-market-research-report-analysis-by-competition-sales-revenue-market-size-2022-to-2028-2022-07-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-04T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-07-05-chinese-researchers-claim-they-have-ai-capable-of-reading-minds.md",
-      "title": "Chinese researchers claim they have AI capable of reading minds",
-      "excerpt": "A new report has claimed the Chinese government is now implementing cutting edge artificial intelligence to monitor the minds of dozens of Communist party officials.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai-capable-of-reading-minds/",
-      "originalUrl": "https://nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai-capable-of-reading-minds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/07/mind-reading-02.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai-capable-of-reading-minds/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai-capable-of-reading-minds/amp/",
-      "publishedDateTime": "2022-07-04T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-voice-and-speech-recognition-software-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028.md",
-      "title": "Voice And Speech Recognition Software Market Manufacturers, Suppliers, Vendors Sales, Revenue, Market Share 2022 to 2028",
-      "excerpt": "The \" Voice And Speech Recognition Software Market Research Report \" and Industry Analysis examine the Voice And Speech Recognition Software industry across the globe for the period 2022 to 2028. Important metrics are identified and measured to examine market strategies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028-2022-07-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028-2022-07-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-04T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-deepminds-new-ai-may-be-better-at-distributing-societys-resources-than-humans-are.md",
-      "title": "Deepmind’s New AI May Be Better at Distributing Society’s Resources Than Humans Are",
-      "excerpt": "The problem of how humans should redistribute the wealth they create has plagued philosophers, economists, and political scientists for years.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2022/07/04/deepminds-new-ai-may-be-better-at-distributing-societys-resources-than-humans-are/",
-      "originalUrl": "https://singularityhub.com/2022/07/04/deepminds-new-ai-may-be-better-at-distributing-societys-resources-than-humans-are/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2022/07/human-resources-g52f502e44_1280.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2022/07/04/deepminds-new-ai-may-be-better-at-distributing-societys-resources-than-humans-are/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/07/04/deepminds-new-ai-may-be-better-at-distributing-societys-resources-than-humans-are/?amp=1",
-      "publishedDateTime": "2022-07-04T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

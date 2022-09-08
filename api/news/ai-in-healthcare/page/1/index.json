@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-08-combatting-drug-diversion-with-artificial-intelligence.md",
+      "title": "Combatting Drug Diversion With Artificial Intelligence",
+      "excerpt": "One that became exasperated by the hardships of Covid-19 and led to over 200,000 deaths in 2020 and 2021 combined: drug abuse. Despite being on a steady decline since 2017, overdoses increased 30% from 2019 to 2020 and 15% from 2020 to 2021,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/08/combatting-drug-diversion-with-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/08/combatting-drug-diversion-with-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6318a188a51d94a606213eba/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/08/combatting-drug-diversion-with-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/08/combatting-drug-diversion-with-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-09-08T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-09-08-deepfakes-the-danger-of-artificial-intelligence-that-we-will-learn-to-manage-better.md",
+      "title": "Deepfakes - The Danger Of Artificial Intelligence That We Will Learn To Manage Better",
+      "excerpt": "Scared that deepfake technology will kill the 'truth' and undermine democracy as we know it? Don't! The same tools we use for fake emails, fake Amazon reviews, and fake bot conversations will help with deepfakes: Transparency,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lutzfinger/2022/09/08/deepfakesthe-danger-of-artificial-intelligence-that-we-will-learn-to-manage-better/",
+      "originalUrl": "https://www.forbes.com/sites/lutzfinger/2022/09/08/deepfakesthe-danger-of-artificial-intelligence-that-we-will-learn-to-manage-better/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/631820e023a6f13b1db586d2/0x0.jpg?format=jpg&width=1200",
+          "width": 1080,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-08T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-09-06-heres-why-you-should-retain-change-healthcare-chng-stock.md",
       "title": "Here's Why You Should Retain Change Healthcare (CHNG) Stock",
       "excerpt": "Change Healthcare — with a market capitalization of $8.14 billion — is an independent healthcare technology platform offering data and analytics-driven solutions to boost clinical financial and patient engagement outcomes in the United States.",
@@ -372,34 +476,34 @@
     {
       "path": "_news/2022-09-02-a-therapy-found-to-improve-cognitive-function-in-patients-with-down-syndrome.md",
       "title": "A therapy found to improve cognitive function in patients with Down syndrome",
-      "excerpt": "Down syndrome, also known as trisomy 21, affects around one in 800 births and results in a variety of clinical manifestations, including decline in cognitive capacity. With age, 77% of people with ...",
+      "excerpt": "From the clinical viewpoint, cognitive performance increased in 6 of the 7 patients with better three-dimensional representation, better understanding of instructions, improved reasoning ...",
       "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/09/220901151604.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/09/220901151604.htm",
+      "webUrl": "https://medicalxpress.com/news/2022-09-therapy-cognitive-function-patients-syndrome.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-09-therapy-cognitive-function-patients-syndrome.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2020/downsyndrome.jpg",
+          "width": 1280,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-01T13:36:00-07:00",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-09-therapy-cognitive-function-patients-syndrome.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-therapy-cognitive-function-patients-syndrome.amp",
+      "publishedDateTime": "2022-09-01T11:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1301,101 +1405,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-usd-20639-mn-growth-expected-in-light-therapy-market-driven-by-growing-prevalence-of-sad.md",
-      "title": "USD 206.39 Mn growth expected in Light Therapy Market -- Driven by growing prevalence of SAD",
-      "excerpt": "The \"Light Therapy Market by End-user and Geographic Landscape - Forecast and Analysis 2020-2024\" report by Technavio expects the market size to grow by USD 206.39 million between 2019 and 2024. The market witnessed a YOY growth of 4.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/usd-20639-mn-growth-expected-in-light-therapy-market----driven-by-growing-prevalence-of-sad-2022-08-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/usd-20639-mn-growth-expected-in-light-therapy-market----driven-by-growing-prevalence-of-sad-2022-08-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-22T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-rising-prevalence-of-obesity-to-lend-added-push-to-orthopedic-medical-imaging-systems-market-expansion-factmr-analysis.md",
-      "title": "Rising Prevalence of Obesity to Lend Added Push to Orthopedic Medical Imaging Systems Market Expansion: Fact.MR Analysis",
-      "excerpt": "Demand for orthopedic medical imaging systems is projected to be driven by the rising prevalence of orthopedic disorders and the growing geriatric population across the world. Increasing incidence of obesity and rapid technological advancements in the medical imaging field are also anticipated to favor market growth throughout the forecast period.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/rising-prevalence-of-obesity-to-lend-added-push-to-orthopedic-medical-imaging-systems-market-expansion-factmr-analysis-2022-08-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/rising-prevalence-of-obesity-to-lend-added-push-to-orthopedic-medical-imaging-systems-market-expansion-factmr-analysis-2022-08-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-22T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

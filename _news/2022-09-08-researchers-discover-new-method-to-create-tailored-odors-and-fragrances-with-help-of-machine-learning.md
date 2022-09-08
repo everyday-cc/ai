@@ -2,19 +2,46 @@
 category: news
 title: "Researchers discover new method to create tailored odors and fragrances with help of machine learning"
 excerpt: "One of the most basic senses of animal species is the sense of smell. It is essential for finding food, recognising attractiveness, and detecting danger. Humans detect odorants using olfactory receptors found in olfactory nerve cells."
-publishedDateTime: 2022-09-08T13:05:00Z
-originalUrl: "https://timesofindia.indiatimes.com/videos/news/researchers-discover-new-method-to-create-tailored-odors-and-fragrances-with-help-of-machine-learning/videoshow/94077699.cms"
-webUrl: "https://timesofindia.indiatimes.com/videos/news/researchers-discover-new-method-to-create-tailored-odors-and-fragrances-with-help-of-machine-learning/videoshow/94077699.cms"
+publishedDateTime: 2022-09-08T15:15:00Z
+originalUrl: "https://zeenews.india.com/video/news/researchers-discover-new-method-to-create-tailored-odors-and-fragrances-with-help-of-machine-learning-2507664.html"
+webUrl: "https://zeenews.india.com/video/news/researchers-discover-new-method-to-create-tailored-odors-and-fragrances-with-help-of-machine-learning-2507664.html"
+ampWebUrl: "https://zeenews.india.com/video/news/researchers-discover-new-method-to-create-tailored-odors-and-fragrances-with-help-of-machine-learning-2507664.html/amp"
+cdnAmpWebUrl: "https://zeenews-india-com.cdn.ampproject.org/c/s/zeenews.india.com/video/news/researchers-discover-new-method-to-create-tailored-odors-and-fragrances-with-help-of-machine-learning-2507664.html/amp"
 type: article
+quality: 59
+heat: 69
+published: false
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: India.com
+  domain: india.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "7sp0E6RSAPjMJnXX3QPNc2iWnKFK/2BdqskNZ76UBETnTwlJb+gH0xNfG8WArv2OCdvq03OOFf92E97jUrj1rUNDjlL8rj5S6sF2yhOqKlTiLd6EVavGcKxmEK1sDJOZCp+rjS+jv0WyZ3QuIxrGYZdMlfxmpORiFla76oMXBVLKMyTWaQ3GvI+TaRIqGSjk067XVbxaGOXlKDAyzOEYEYccQ8amFgfaqpsWsXEU3j0D+Igq/F0fhFnZ4/IHDNz3iDwNSG5P4x63s9hawM7SF17Ke4TPEuBa9TpNa2LH4k021lplHL3acv/kSmlzmhXf3jtxyEsNYPCcKzyK22On8bNJafbIub443yaLXSXNOz2+FoH4xSmtxfmKYDL8JCiWS7WQoICcgW1aTe7YBlnRQYqMhBbw0iLZDhh+G9eDu8rRJNy3IQphzYH4tE1DU/3qeBVmRv2Kqnm9x0+rnXSh3PdVPrOejOp8wJnhLS3LFrVCagwx9fGD+38vvCS33Su2qiBOT4/G1we/XnDZM+7ebQ==;3uOZybErY0RmC8ZDvny1vg=="
+images:
+  - url: "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2022/09/08/00000003_70.jpg"
+    width: 700
+    height: 400
+    isCached: true
+
+related:
+  - title: "Researchers discover new method to create tailored odors and fragrances with help of machine learning"
+    excerpt: "One of the most basic senses of animal species is the sense of smell It is essential for finding food recognising attractiveness and detecting danger Humans"
+    publishedDateTime: 2022-09-05T22:27:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272725855/researchers-discover-new-method-to-create-tailored-odors-and-fragrances-with-help-of-machine-learning"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1662416614.jpg"
+        width: 630
+        height: 420
+        isCached: true
+
+secured: "+dgFH+ntOr1KNojL+7USeCIMlWyjiCRnlny7A+JIbI3/h5Y33yQiVbfDNhf1H0369bDdgYEwfj36EAbtluU6fxJvXVo950RGJIN4AQOpEFAPG0V56h4+AeqNPlLxN2xyLBzy0OPC7jKqRiqnuFOcx1oRSFnzkXb/oJuRE6UMHyFvf8Z/9NkG3uJ3JztY83hKfxgNyAzyci+jYwsLTfjWMoyaUXTNLPUcER2U1z7WzAMwc+98wJDDQp33wIj7D7jX4rMZH7hAKq9D9ilzwDd1hi2ZyxGwqUm0EmWiryGDxDCUoa0cPtoO6uP7N5PR1wWCLQop4UCg5mayLeEA4Wkd+mNcCeGOPw8RW/iOfFSTe9A=;sJVR8JZWEvG76k7hnAgqYA=="
 ---
 

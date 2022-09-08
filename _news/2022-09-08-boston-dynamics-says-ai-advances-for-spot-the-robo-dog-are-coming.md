@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-08T13:40:00Z
 originalUrl: "https://venturebeat.com/ai/boston-dynamics-says-ai-advances-for-spot-the-robo-dog-are-coming/"
 webUrl: "https://venturebeat.com/ai/boston-dynamics-says-ai-advances-for-spot-the-robo-dog-are-coming/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: VentureBeat

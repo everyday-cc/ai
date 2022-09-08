@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-08T13:00:00Z
 originalUrl: "https://www.cnet.com/tech/computing/insta360-x3-action-cam-uses-5-7k-360-video-ai-smarts-to-get-all-the-social-shots/"
 webUrl: "https://www.cnet.com/tech/computing/insta360-x3-action-cam-uses-5-7k-360-video-ai-smarts-to-get-all-the-social-shots/"
 type: article
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: CNET

@@ -1,25 +1,29 @@
 ---
 category: news
 title: "A therapy found to improve cognitive function in patients with Down syndrome"
-excerpt: "Down syndrome, also known as trisomy 21, affects around one in 800 births and results in a variety of clinical manifestations, including decline in cognitive capacity. With age, 77% of people with ..."
-publishedDateTime: 2022-09-01T20:36:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/09/220901151604.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/09/220901151604.htm"
+excerpt: "From the clinical viewpoint, cognitive performance increased in 6 of the 7 patients with better three-dimensional representation, better understanding of instructions, improved reasoning ..."
+publishedDateTime: 2022-09-01T18:00:00Z
+originalUrl: "https://medicalxpress.com/news/2022-09-therapy-cognitive-function-patients-syndrome.html"
+webUrl: "https://medicalxpress.com/news/2022-09-therapy-cognitive-function-patients-syndrome.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-09-therapy-cognitive-function-patients-syndrome.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-therapy-cognitive-function-patients-syndrome.amp"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Microsoft AI
   - AI
   - AI in Healthcare
 
-secured: "yc1MUZVl6SAmnc8PRZgcMdM9EQtnRuyKpZCDprFrX6Uf9dZfs9aPeA6ZaYmaDgzb2QDsLiQx6f0Z/+Fao6lZTdanByIUSKsNtxbsUwQxQ2xbVhhtZqcV5i393MRXIKuqChBTYDdCQdSE5NeJfJHBvC/2RIjFjr2MojIpf7fDEEkNz6aifhKAJEWYKJF587xIxfVKh4soZKqiyXiFXh9FSvS3unBJoacM4GklLNXW37J48O0+FSL482IL7e6/ha5rcEqYPqpOs5VTdfSxjdjRVBdi4ttlEq/yO9MvEqQZlPlH9iTITDDU4y4us3WHAr3QmbhqzXJIiOINv4Ku8WZ3z7Zunkmi9rHnBtX1qdNRtPM=;DR9SlRQI9YuuQuVAsXU0LA=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2020/downsyndrome.jpg"
+    width: 1280
+    height: 1920
+    isCached: true
+
+secured: "dB18W4kuwla2pNNarpmaBtybhHXx4BMrXYRYjJZGku5VZ1+PXye4c1Oi09owOad7FtTW8h3ec+ZCaBk/hiEn4pZXJVDBtj/3Ej6MYHGcujvM7zSnGMjvQFmyqh6asSEfooQpIl0Ee5ZPz2HzOIBuR6MgaBDMhLRCt1BANem0X6nlOOEMnS1TZJVIiURXytj4maZh53mTig6E97r/iYZHMLStIOOLsrE/Zr605MecFtHhIvIDdy/DnRO1weAX2eKg3pcDeNIZdoPu2dtL4wONR0iJc2/Kf3Mbjmh36CYgPsfMZLXTqo6riWJ9kiC6O6qUOrRhZBac0WIf29rrX7IJV3+0dbGwbf+0Dn/Sc/vGvic=;kyc0bL/ilbk1kbX637GTOQ=="
 ---
 

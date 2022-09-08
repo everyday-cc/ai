@@ -7,7 +7,7 @@ originalUrl: "https://syncedreview.com/2022/09/06/deepminds-selection-inference-
 webUrl: "https://syncedreview.com/2022/09/06/deepminds-selection-inference-language-model-system-generates-humanly-interpretable-reasoning-traces/"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,38 @@ provider:
 topics:
   - Google AI
   - AI
+
+related:
+  - title: "My journey from DeepMind intern to mentor"
+    excerpt: "Former intern turned intern manager, Richard Everett, describes his journey to DeepMind, sharing tips and advice for aspiring DeepMinders. The 2023 internship applications will open on the 16th September, please visit https://dpmd.ai/internshipsatdeepmind for more information."
+    publishedDateTime: 2022-09-08T00:00:00Z
+    webUrl: "https://www.deepmind.com/blog/my-journey-from-deepmind-intern-to-mentor"
+    type: article
+    provider:
+      name: DeepMind
+      domain: deepmind.com
+    quality: 89
+    images:
+      - url: "https://assets-global.website-files.com/621e749a546b7592125f38ed/631a065d45644fd6ab93de07_Richard_Everett__Blog__16x9.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "DeepMind is back at it again, this time teaching AI how to play football"
+    excerpt: "We’re taking a look into DeepMind’s latest venture; teaching an AI how to play the beautiful game. Which shouldn’t be harder than"
+    publishedDateTime: 2022-09-05T13:31:00Z
+    webUrl: "https://stuff.co.za/2022/09/05/deepmind-is-back-at-it-again-this-time-teaching-ai-how-to-play-football/"
+    ampWebUrl: "https://stuff.co.za/2022/09/05/deepmind-is-back-at-it-again-this-time-teaching-ai-how-to-play-football/?amp=1"
+    cdnAmpWebUrl: "https://stuff-co-za.cdn.ampproject.org/c/s/stuff.co.za/2022/09/05/deepmind-is-back-at-it-again-this-time-teaching-ai-how-to-play-football/?amp=1"
+    type: article
+    provider:
+      name: stuff.co.za
+      domain: stuff.co.za
+    quality: 73
+    images:
+      - url: "https://stuff.co.za/wp-content/uploads/2022/09/Untitled-design-3-1.jpg"
+        width: 1600
+        height: 1000
+        isCached: true
 
 secured: "DKQCR69DdfVlsOUIonxY6FUHiLSq8OWSukz5YJO4RARkdbIhuZammXgH4VD9HqqGj9hne4BStx11nOdkf8dIkG1kTfLavI0U6uLtBu6zYNbtoCaJXjsMZGLmtnzrR9LPdP1nx8O7y1QOJqF/C5mCKuB47c/MA7KHEJdufg5oLIF1KK9y3eoTqpNeqmMEjMrXBSxkO2TA1yMCYUQk2XgLI4kZT4Ig39zYR3e6YqBfYnHQayN5UNQArdcr9VfkPXS5ISqbLmY81WuMXtypdUeIAQLlMuAD8MpaMSZ1PiiGXcMzEGFGEswhUNeF2hZhZtrCLs1+MnIGjEYsyg2cro53KmVCNUrTav5dH+LqC+jNODQCnaU4bfbjLnA6G4tkEuRejIdQcMzVxY6iZezSLhTJcKsf4MImvWQqxNrAB12kZ5QMPkzL84IzFK0Z0nqpzF6ITCmoo2pL8xAPrU27MtL5CIF61EqLHK+SZiiDRnJCBnU81SgCnQufgH+1v2hhi3ENGuYPp4fa904n7goxayITbw==;9Rls+a7uAFu8JpRFKhn+7A=="
 ---

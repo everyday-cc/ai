@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-avatars-and-machine-lea
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-avatars-and-machine-learning-are-helping-this-company-to-fast-track-digital-transformation/"
 type: article
 quality: 77
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Train transport of the future: Bosch Engineering is working on automated driving in rail traffic"
+    excerpt: "Digitalization and automation increase capacity of existing rail network without building new tracks; Development focus is on systems and"
+    publishedDateTime: 2022-09-08T12:42:00Z
+    webUrl: "https://www.bosch-presse.de/pressportal/de/en/train-transport-of-the-future-bosch-engineering-is-working-on-automated-driving-in-rail-traffic-246016.html"
+    type: article
+    provider:
+      name: bosch-presse
+      domain: bosch-presse.de
+    quality: 6
 
 secured: "Fdx9LMR6bKx/azH2brjTeHZebmdozgDHyXQqKWw/THpVMjxpkxPvsqGfb1fvGphrebePrLMvv/DQJ4w65ih9dzPM+7PvTeryyKvFWSUGVzzLSzr2ePkCXgIdd9aEInuWd3v4xVBZCgmHtM6ywF/DFZyGoAQTh3qp9Sr1HFCDG3r+3hp6MauhlyZzMlgu9QSiRP3Cd9XrPFV4kPVn0Wj2m4ZyMfzsLq7T+QdwTN45HcWF+qqCVWIhYvy6EXKlsqBwStNn5bL58/PaQWpiSukl/mmh7fJwrSWEDe8Tqu9rR0wQKLBRjPvow6qV3m+yQBXFW0PMpDMW+SJfp4NfQlgDtAU3STHmuX4r82BxdWl1HsK219rsA6hLNhs21wmRIjhvfI3wKqZnO3+sFgONndDV+QjK9o8sWS3Q9gXkn0AcheM4g17+z9c+I8n5V7fhdGWcaM2EEvMCfU3sUI1+cuRnDV23dUubKeVUCmr/9CR9lT/tLu7vuopeT/vnqvTCDORUEUOBGL7msEgzf7WUI5523w==;DDB/FvSYPfGvFoaWNdTEjg=="
 ---

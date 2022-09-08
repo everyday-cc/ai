@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-08T09:12:00Z
 originalUrl: "https://www.heraldmailmedia.com/story/opinion/columns/2022/09/08/ai-wins-colorado-state-fair-fine-arts-competition-but-is-it-the-future-tim-rowland/65742522007/"
 webUrl: "https://www.heraldmailmedia.com/story/opinion/columns/2022/09/08/ai-wins-colorado-state-fair-fine-arts-competition-but-is-it-the-future-tim-rowland/65742522007/"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: The Herald-Mail

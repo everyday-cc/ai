@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-08T12:00:00Z
 originalUrl: "https://venturebeat.com/data-infrastructure/verizon-and-newlab-push-5g-deeper-into-robotics-automation/"
 webUrl: "https://venturebeat.com/data-infrastructure/verizon-and-newlab-push-5g-deeper-into-robotics-automation/"
 type: article
+quality: 63
+heat: 63
+published: false
 
 provider:
   name: VentureBeat

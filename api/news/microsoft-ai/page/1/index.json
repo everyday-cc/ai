@@ -283,34 +283,34 @@
     {
       "path": "_news/2022-09-02-a-therapy-found-to-improve-cognitive-function-in-patients-with-down-syndrome.md",
       "title": "A therapy found to improve cognitive function in patients with Down syndrome",
-      "excerpt": "Down syndrome, also known as trisomy 21, affects around one in 800 births and results in a variety of clinical manifestations, including decline in cognitive capacity. With age, 77% of people with ...",
+      "excerpt": "From the clinical viewpoint, cognitive performance increased in 6 of the 7 patients with better three-dimensional representation, better understanding of instructions, improved reasoning ...",
       "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/09/220901151604.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/09/220901151604.htm",
+      "webUrl": "https://medicalxpress.com/news/2022-09-therapy-cognitive-function-patients-syndrome.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-09-therapy-cognitive-function-patients-syndrome.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2020/downsyndrome.jpg",
+          "width": 1280,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-01T13:36:00-07:00",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-09-therapy-cognitive-function-patients-syndrome.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-therapy-cognitive-function-patients-syndrome.amp",
+      "publishedDateTime": "2022-09-01T11:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

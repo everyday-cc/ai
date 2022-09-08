@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-08T11:22:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/armilla-ai-and-mila-partner-to-advance-quality-assurance-for-next-generation-machine-learning-systems-1031731529"
 webUrl: "https://markets.businessinsider.com/news/stocks/armilla-ai-and-mila-partner-to-advance-quality-assurance-for-next-generation-machine-learning-systems-1031731529"
 type: article
-quality: 53
-heat: 53
+quality: 55
+heat: 55
 published: false
 
 provider:

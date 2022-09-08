@@ -2,9 +2,9 @@
 category: news
 title: "Why self-driving cars have stalled – video"
 excerpt: "Fully fledged self-driving technology appears to be pepetually just around the corner, but it is still an open question whether self-driving automation is actually possible"
-publishedDateTime: 2022-09-08T08:07:00Z
-originalUrl: "https://www.theguardian.com/technology/video/2022/sep/08/why-self-driving-cars-have-stalled-video?amp;amp;amp"
-webUrl: "https://www.theguardian.com/technology/video/2022/sep/08/why-self-driving-cars-have-stalled-video?amp;amp;amp"
+publishedDateTime: 2022-09-08T09:42:00Z
+originalUrl: "https://www.theguardian.com/technology/video/2022/sep/08/why-self-driving-cars-have-stalled-video"
+webUrl: "https://www.theguardian.com/technology/video/2022/sep/08/why-self-driving-cars-have-stalled-video"
 type: article
 quality: 24
 heat: 24
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "NC State researchers test safety benefits of self driving cars"
-    excerpt: "Hajbabaie is trying to slowly build up the idea that self-driving cars a way to a future with fewer crashes and fewer casualties."
-    publishedDateTime: 2022-09-03T19:38:00Z
-    webUrl: "https://www.cbs17.com/news/local-news/wake-county-news/nc-state-researchers-test-safety-benefits-of-self-driving-cars/"
-    type: article
-    provider:
-      name: cbs17.com
-      domain: cbs17.com
-    quality: 19
   - title: "A low-cost, viable solution for self-driving cars to spot hacked GPS"
     excerpt: "A lot of hurdles remain before the emerging technology of self-driving personal and commercial vehicles is common, but transportation researchers at The University of Alabama developed a promising, inexpensive system to overcome one challenge: GPS hacking that can send a self-driving vehicle to the wrong destination."
     publishedDateTime: 2022-09-07T13:15:00Z
@@ -48,6 +39,6 @@ related:
       domain: techxplore.com
     quality: 4
 
-secured: "XpI3SY3+69o/EBw2/Zbheq2uMHH9qJqR+wluKox+PT73ya01jFzjMIL7p4lV3XGs62xSyn9PdD2GvepOLCjCkTI1WFXHvi6aDqSyCjzPoOrAVAExr0iitEpD20gI0rHPcG9mTNKuXnUszpDWiib+EQzgU7fi3osbklGNb+5weTKBBH5V/4lxEGzSF0UlAGT48nX7Xxv3J4GzCYPFOcw3kKr4E9JSSX39GDyK9Z3n9M5Ze9cH66B11GqWWLC4bKksUl4NHLbE1iu/ar4i27FykQixuw/u4HJIudot2ircZpUJ3+Bmozz/Td1tuPsY9qCIYWA5ttPqyg2JQ7D+IZsY1V2O0CB4Fxdo/Z3XR+lBr1Y63jOm3P547wXcd5tXrGfwt9xbJmaWAoXPHSoKuDJBx83HicI/yPk5biZyIDonQcLciDb777UoBibf7YFmDLaEtjP5TmokkA9icChdD7zaiOS+HRALpyVJBbxO3jsQ+ZjcNkJeD9pGyj59l4ZcAsyiwh4Ps0V7GZ4cFacP2P9xyA==;yn51wYi3JAIEykA1XLu36Q=="
+secured: "Afq3KR1hEDD5/QNEaKPI3/e+Lysr2q5dwhIWo6Uy/0R9XpLvhP42ZcWfZOwcHWhIt0tQByOQ3O71B55eVDxZ37qbq8M6i1x7kkIcf5gOozhoWdzdrkNrj+4tRueKbZI1UFGrwwQL6zXgKqhp/n37d/SpelYhIR2uSiUKiIhBPmnItSKETcYDndIy7aG8cL4UQ3cK79bZMuif6LPiu82SEE1yLsOM1m72hSpNLyg6aOBKB2WxxvoVDeLh8ooHwjx06mdjzIoFJQEn4XptfhQoSU4KLIh1Ozl668PEPnhLLtSwfl8Bk8UnQTjR6QvMwlXuapzNzy3MEv+/5eRajQEwXHxytoYsEG8Uvh+ekS0eavs=;eFXL0Fh3xDXkCDIHU+Y/og=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-08T11:48:00Z
 originalUrl: "https://www.crowdfundinsider.com/2022/09/195686-vc-activity-in-ai-and-machine-learning-declines-significantly-in-q2-report/"
 webUrl: "https://www.crowdfundinsider.com/2022/09/195686-vc-activity-in-ai-and-machine-learning-declines-significantly-in-q2-report/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Crowdfund Insider

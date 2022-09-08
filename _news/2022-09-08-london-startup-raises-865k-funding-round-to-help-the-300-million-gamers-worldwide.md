@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-08T12:01:00Z
 originalUrl: "https://bdaily.co.uk/articles/2022/09/08/london-startup-raises-865k-funding-round-to-help-the-300-million-gamers-worldwide"
 webUrl: "https://bdaily.co.uk/articles/2022/09/08/london-startup-raises-865k-funding-round-to-help-the-300-million-gamers-worldwide"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Bdaily Business Network

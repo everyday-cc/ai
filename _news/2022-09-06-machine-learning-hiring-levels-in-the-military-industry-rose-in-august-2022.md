@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Learning Management System (LMS) Global Market Report 2022: Artificial Intelligence Presents Exciting Development Areas"
+    excerpt: "Global Market Report 2022: By Component, Delivery Mode, Deployment Mode, End User, and Covering\" report has been added to ResearchAndMarkets.com's offering. The global learning management system (LMS) market is expected to grow from $13."
+    publishedDateTime: 2022-09-08T12:12:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/09/08/9669431.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "pWrXj+nTJkFYl2W/rczzW0xfC/Ct0KSi1GKYEQJJtJGCHe9qflY3dFYjOM4rcftsV8NqMLIIdLIR88qhfU+fCIivD5Y+JDi5u1A3nVhQ93dwofi+weA9SLw2zA8G+mKl1hE7SSiwgIAvs+zwvxmHH6AGqhGsBh7A0lzZ1ZG/RzpDvyEvYOgCJ1pXVaxuR0o1RodLN50w3vMr+yZPfg6x0vIlMqmxScL1xaU+FoSzajutRnBs3jLwARozrURUzRH4sQW1YJr0gbV8EwNWSNOwoh7VPBA4rF1GEmeBzUXTFfdWKrBf8bashalP8GJ1uZc6phsLPNsWNX5Z1vNJdLJbrJDNUc2PX0grd3MuMKV+y8RUYdmI2c3JwX+8eytCSBV0oDa51So0AQyedgBhTZGkk5ygRQujc+ot/SWmHzSfpt8mD/ka5jk5dg8z4L1BE/rihUuYl8v1zLm5dM4WuQpWbv92Ii6tacLE/DrhqETwLfcxCRoHJaMDlZ4ccDKGJpLkf6D7E9xQBnTzyMkbQIg/mA==;lyPBAHIFmlECQU48AIZ3FA=="
 ---

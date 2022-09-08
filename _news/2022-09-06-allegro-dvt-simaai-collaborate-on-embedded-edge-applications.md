@@ -24,6 +24,17 @@ images:
     height: 408
     isCached: true
 
+related:
+  - title: "SiMa.ai Partners with GUC to Accelerate Time to Market for Industry's First Purpose-Built Machine Learning Platform for the Embedded Edge"
+    excerpt: "SiMa.ai, the machine learning company enabling effortless deployment and scaling at the embedded edge, today announced it has partnered with GUC (Global Unichip Corporation) to help leverage the company’s turnkey semiconductor services for continued first-time right design of its MLSoC Platform."
+    publishedDateTime: 2022-09-08T14:56:00Z
+    webUrl: "https://www.design-reuse.com/news/52608/sima-ai-guc-machine-learning-platform.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 1
+
 secured: "3WtgHtrGTXuruBRHvO0GxpM3fX5jwQy/YVkoGAtWd35lqslc9MLXj0e+Qf9mVxkh52l++RBnMnuJxhbqFrb/O2zkcHU+iu134E1Ipzo8AvTbdhQfGKe97/Qzi1C4yRwymxK49EAzJDYoiU4X1OEMjOhPQDQ0BIwRytGfE3mIaVfcjh/UnY805QXLMJNHHwaQBeS2Vm3YgkiPolg3BCLoOngf610xZbVORZZfhYWXVrmPwW9bKAZCln0FRnhsEdk/NEfcZWbH5kq5Uj19WP4zc9KNdVU4kSPRuZRanbomn+7+at76PPk8Uu4k2TQvr1KXMdEAfEmhDEvBbq4s+9y+FQYr0mAUidSmct2OMcRSFknuuKaamEfNpB8WbghUIQJJGjuoZeU0qtrFpm6MpzmWR47oX+/ChU2PPK1jDTumT32JrDsRBvdxEzJMW93U/aYk81lTz5R8w/NWxQvSbCckfI/4vlHzt6cF//6Rb5CsqPiWAxnmP8KqGOUQNtzjLbctzyVFJdOYNC9kQbonJzrBhg==;DuOgPY6l29BdadAStfHWRQ=="
 ---
 

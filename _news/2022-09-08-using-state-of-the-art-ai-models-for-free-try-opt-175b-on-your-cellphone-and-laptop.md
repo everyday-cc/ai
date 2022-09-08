@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-08T13:00:00Z
 originalUrl: "https://syncedreview.com/2022/09/08/using-state-of-the-art-ai-models-for-free-try-opt-175b-on-your-cellphone-and-laptop/"
 webUrl: "https://syncedreview.com/2022/09/08/using-state-of-the-art-ai-models-for-free-try-opt-175b-on-your-cellphone-and-laptop/"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: syncedreview

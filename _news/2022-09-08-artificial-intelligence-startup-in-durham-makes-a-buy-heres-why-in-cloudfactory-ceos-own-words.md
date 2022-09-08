@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-08T13:48:00Z
 originalUrl: "https://wraltechwire.com/2022/09/08/artificial-intelligence-startup-in-durham-makes-a-buy-heres-why-in-cloudfactory-ceos-own-words/"
 webUrl: "https://wraltechwire.com/2022/09/08/artificial-intelligence-startup-in-durham-makes-a-buy-heres-why-in-cloudfactory-ceos-own-words/"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: WRAL TechWire

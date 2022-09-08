@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-08T13:30:00Z
 originalUrl: "https://venturebeat.com/games/spectrum-labs-teams-with-imvu-to-use-ai-to-identify-healthy-online-behavior/"
 webUrl: "https://venturebeat.com/games/spectrum-labs-teams-with-imvu-to-use-ai-to-identify-healthy-online-behavior/"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: VentureBeat

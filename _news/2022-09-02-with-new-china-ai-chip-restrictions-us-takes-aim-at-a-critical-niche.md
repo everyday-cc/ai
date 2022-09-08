@@ -15,6 +15,12 @@ topics:
   - AI Hardware
   - AI
 
-secured: "kFmKIaTrxs3IeUjeV0SyMuKGaikWu7I0dtv50uZwJO8VxOtd9WGU+dLtShZFaYc2Dq/K8mA7OxdZLgRIDt8TrOgV4FJrY0MtpRiXkJz0UunAr2L7BftDUxRrvyWQ5EpPyLOWLf67LfHufXvg6J7+ihSEY2d2KNJ6QNaU/ouXICCcAh+RNnRqc3gf4kfya03NbN6JDyYTcihoMGXAYqX6hVBpjEk9LXd/A3FK3Dmd9yByaOcOJLMulIQ3bxFr8R5u0FCjMOC/04oV9BtvvcSc5gNrB+dA/bccmC839dtR8q+DGa7cOcmbNPrv05k/ANqmFzW6PHN1NY79l3tGq07b5yr4jGLvz8ZsZZbPnq3TjC8=;hkqaWbYF+5Gcb/1z8XRYkA=="
+images:
+  - url: "https://www.rappler.com/tachyon/2022/09/reuters-nvidia-sept-2022-scaled.jpg"
+    width: 2560
+    height: 1707
+    isCached: true
+
+secured: "0oxXR5gLCYuwtxqHSfcIecAxaHsUNhIlMnrgGIEnCF3qX37Gv/E+TwCKJaDSfddpV2GSQuhL5ygNXvXWddudrkpF9mCfmtgpGeXOqarqTnGlwdC0Yy9Q1o+21u1PWmdp1PoM/WrLcDUl6QLxaRgd6bGgbopj1+S3pZZVRl4usZlxaQT24P5jc2osAgyd8fbH3BElepInNb4F7v51KaER5FNbo92RDHnuRzyckfhaYsH2cCzUyT2je0JT3Sfe0omRymJwSOJvHk9BxztjzaFd2kamq+O0o4EcuoXNG9/yRgyLyDfO5Q1jPSxHIzAYC95mqT3upEoxrMcZT8WQoi47Jq5rM0w/OTMZ0z6Wib6D8ZE=;hcCFRexhXCxh84z2dFowQA=="
 ---
 

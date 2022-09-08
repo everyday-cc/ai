@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-08T13:00:00Z
 originalUrl: "https://www.nextgov.com/emerging-tech/2022/09/artificial-intelligence-continues-evolve-government-and-elsewhere/376811/"
 webUrl: "https://www.nextgov.com/emerging-tech/2022/09/artificial-intelligence-continues-evolve-government-and-elsewhere/376811/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Nextgov
