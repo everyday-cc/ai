@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta's AI chatbot hates Mark Zuckerberg - but does it care about racism?"
-    excerpt: "AI chatbots learn the patterns of our prejudices, biases, preoccupations and anxieties from the linguistic data we supply them with, before paraphrasing them back at us."
-    publishedDateTime: 2022-09-03T10:46:00Z
-    webUrl: "https://economictimes.indiatimes.com/magazines/panache/metas-ai-chatbot-hates-mark-zuckerberg-but-does-it-care-about-racism/articleshow/93968867.cms"
-    ampWebUrl: "https://m.economictimes.com/magazines/panache/metas-ai-chatbot-hates-mark-zuckerberg-but-does-it-care-about-racism/amp_articleshow/93968867.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/metas-ai-chatbot-hates-mark-zuckerberg-but-does-it-care-about-racism/amp_articleshow/93968867.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 58
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-17778,msid-93968907/meta.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Meta's AI chatbot hates Zuckerberg but is less bothered about racism"
     excerpt: "It was all quite predictable, really. Meta, Facebook's parent company, released the latest version of its ground-breaking AI chatbot last month. Immediately, journalists around the world began peppering the system,"
     publishedDateTime: 2022-09-04T21:00:00Z

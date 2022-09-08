@@ -2,24 +2,25 @@
 category: news
 title: "Startup develops AI that makes call center employees sound like white, American robots"
 excerpt: "This time around, Palo Alto-based startup Sanas has introduced to the world an AI with the goal of making foreign call center employees sound accent-neutral, and the effect of making them sound white."
-publishedDateTime: 2022-08-28T06:04:00Z
-originalUrl: "https://mashable.com/article/ai-startup-makes-call-center-foreigners-sound-white"
-webUrl: "https://mashable.com/article/ai-startup-makes-call-center-foreigners-sound-white"
+publishedDateTime: 2022-08-27T19:59:00Z
+originalUrl: "https://www.aol.com/startup-develops-ai-makes-call-192648461.html"
+webUrl: "https://www.aol.com/startup-develops-ai-makes-call-192648461.html"
 type: article
 
 provider:
-  name: Mashable
-  domain: mashable.com
+  name: AOL
+  domain: aol.com
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://helios-i.mashable.com/imagery/articles/06flaA2qTkuYtTU1N3cKsg0/hero-image.fill.size_1200x675.v1661618885.jpg"
+  - url: "https://s.yimg.com/ny/api/res/1.2/9Q3Nzya3jKi3ygpRe8Scjw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_mashable_370/cb35956c039b7fe15852e5ea8716b040"
     width: 1200
-    height: 675
+    height: 800
     isCached: true
 
-secured: "qq8Z8fQ+jfbA9TgItVqjuJzDB7UMPec1sMh7dft2eES98duOg4NZ2XujcLA6Gk51lLjD890tC27W0Bmh8trDG3MNo4jRQgp+PP7sol11wi0WM8xUWz/hQGbsUaKdl6JHOn/b0ZQBtkC3yYA6w6fL43sx5ly5jvMtiRZk08c46p4iFGhRJ8k5oe5INSXs+2Cxsj2+xnO7Pji/sfJ449lk5tXmRfUoec3uuVxyu8McjCv2ZUXUoGH3yWdTtNzJD1U/+x/sEguqk5M8KFsV25MLUwa96tBHMNSMAg5ILatgr8gx0rzOorprCYYwZt1JWZ0y1rTQelrGZJecZdXmmmIs8EJ4iQOOEh6Gm6oZWwiQ338=;xp7s0vJf4lJIO3xL8k6mMg=="
+secured: "fOfNiYY9h5vi7z+fnU81YO/6aD6hrzBnUREProeu90JZvFvAZ5+F35dmtj9DJmXTOncIXMwy/Fdssm/drLgeXQNBSK1EWUGgYuy5dxkM69QKlHWrbLpukJCjdqHh6tsMjd1Pwx8NBfAsoyPIwnKDUGmxg+aP+JjuwviatHqpRtJ2BbBDKxG+v9wo3Gzr0p4z6d4Ldk0mByN4IXRZw9dhA4p6lltsyw1+7EvKUbhzizzNzHdQn1gk4OBrbi8zEWvvpgPUZesP1OVt0LuKocLtYFPFhDuVwCU0UD5vT7yefL6HbHQhEh8c22D74Plyd1qrtTpEouzj7NO6aF2rziC035nunp/ju9Dp9YU/qnLxgmY=;hfbCdVqID7bcaBn3DjaDvg=="
 ---
 

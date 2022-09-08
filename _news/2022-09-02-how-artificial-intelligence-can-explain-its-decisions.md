@@ -20,6 +20,8 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+  - AI in Healthcare
 
 related:
   - title: "How artificial intelligence can explain its decisions"

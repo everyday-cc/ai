@@ -8,8 +8,8 @@ webUrl: "https://gulfnews.com/uae/artificial-intelligence-is-our-future-coding-o
 ampWebUrl: "https://gulfnews.com/amp/uae/artificial-intelligence-is-our-future-coding-our-language-uae-minister-tells-graduates-1.90234839"
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/artificial-intelligence-is-our-future-coding-our-language-uae-minister-tells-graduates-1.90234839"
 type: article
-quality: 48
-heat: 48
+quality: 50
+heat: 50
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://imagevars.gulfnews.com/2022/09/03/The-UAE-Government-celebrates-the-fourth-cohort-of-the-Artificial-intelligence-program--3--1662214640560_18303b693ef_medium.jpg"

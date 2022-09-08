@@ -2,6 +2,49 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2022-08-19-cancer-targeted-therapy-market-forecast-to-2026-covid-19-impact-and-global-analysis-by-product-type-indication-end-user-and-geography.md",
+      "title": "Cancer Targeted Therapy Market Forecast to 2026 - COVID-19 Impact and Global Analysis by Product Type, Indication, End User, and Geography",
+      "excerpt": "Global “Cancer Targeted TherapyMarket”2022 Research report is an in-depth study of the market. Along with the most",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cancer-targeted-therapy-market-forecast-to-2026---covid-19-impact-and-global-analysis-by-product-type-indication-end-user-and-geography-2022-08-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/cancer-targeted-therapy-market-forecast-to-2026---covid-19-impact-and-global-analysis-by-product-type-indication-end-user-and-geography-2022-08-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-19T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-19-microsoft-and-map-bengaluru-develop-new-ai-powered-platform.md",
       "title": "Microsoft and MAP, Bengaluru, Develop New AI-Powered Platform",
       "excerpt": "Bengaluru, have developed a new artificial intelligence-powered platform for connecting artworks and cultures around the world",
@@ -1067,49 +1110,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-a-new-service-from-the-microsoft-and-oracle-partnership-oracle-database-service-for-microsoft-azure.md",
-      "title": "A New Service from the Microsoft and Oracle Partnership: Oracle Database Service for Microsoft Azure",
-      "excerpt": "and continual learning, when machine learning models are capable of continually adapting to change in data distributions in production. Kate Wardin discusses seven tips to foster an enjoyable and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/07/oracle-database-service-azure/",
-      "originalUrl": "https://www.infoq.com/news/2022/07/oracle-database-service-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2022/07/oracle-database-service-azure/en/headerimage/generatedHeaderImage-1658868201473.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T10:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

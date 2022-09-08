@@ -7,7 +7,7 @@ originalUrl: "https://www.straitstimes.com/opinion/metas-ai-chatbot-hates-zucker
 webUrl: "https://www.straitstimes.com/opinion/metas-ai-chatbot-hates-zuckerberg-but-is-less-bothered-about-racism"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta's AI chatbot hates Mark Zuckerberg - but does it care about racism?"
-    excerpt: "AI chatbots learn the patterns of our prejudices, biases, preoccupations and anxieties from the linguistic data we supply them with, before paraphrasing them back at us."
-    publishedDateTime: 2022-09-03T10:46:00Z
-    webUrl: "https://economictimes.indiatimes.com/magazines/panache/metas-ai-chatbot-hates-mark-zuckerberg-but-does-it-care-about-racism/articleshow/93968867.cms"
-    ampWebUrl: "https://m.economictimes.com/magazines/panache/metas-ai-chatbot-hates-mark-zuckerberg-but-does-it-care-about-racism/amp_articleshow/93968867.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/metas-ai-chatbot-hates-mark-zuckerberg-but-does-it-care-about-racism/amp_articleshow/93968867.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 58
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-17778,msid-93968907/meta.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Why your chatbot sucks — and what you can do about it"
     excerpt: "But even as today's bots struggle with accuracy and communication, the industry continues to believe in their potential."
     publishedDateTime: 2022-09-06T16:05:00Z

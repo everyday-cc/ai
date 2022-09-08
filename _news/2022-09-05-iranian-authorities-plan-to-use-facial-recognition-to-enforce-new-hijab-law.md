@@ -2,9 +2,9 @@
 category: news
 title: "Iranian authorities plan to use facial recognition to enforce new hijab law"
 excerpt: "Government says it will use technology on public transport in crackdown on women’s dress"
-publishedDateTime: 2022-09-05T04:00:00Z
-originalUrl: "https://www.theguardian.com/global-development/2022/sep/05/iran-government-facial-recognition-technology-hijab-law-crackdown"
-webUrl: "https://www.theguardian.com/global-development/2022/sep/05/iran-government-facial-recognition-technology-hijab-law-crackdown"
+publishedDateTime: 2022-09-05T05:00:00Z
+originalUrl: "https://www.theguardian.com/global-development/2022/sep/05/iran-government-facial-recognition-technology-hijab-law-crackdown?s=08"
+webUrl: "https://www.theguardian.com/global-development/2022/sep/05/iran-government-facial-recognition-technology-hijab-law-crackdown?s=08"
 ampWebUrl: "https://amp.theguardian.com/global-development/2022/sep/05/iran-government-facial-recognition-technology-hijab-law-crackdown"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/global-development/2022/sep/05/iran-government-facial-recognition-technology-hijab-law-crackdown"
 type: article
@@ -87,6 +87,6 @@ related:
       domain: mirror.co.uk
     quality: 17
 
-secured: "lPt/TCNeMqLF9MZaSWsAorA782kvFo7aHlj1058uSeWJJ41+2rDLUl/Al1oJPNl78umc5pvFp7DYtNeVBmGS3hozyVnSBQUKOxefT+JNn5jiIY3FBCR8ZTYrS+duVjHNTlLcdErYzx/2ECqd3M+/CrbKGJPzwP/EVoWbwmLHJo4YWEzLqpzW81h6rJbL4HuositsyF+or18hHYzV29SycmEOuR/DzaUAH31tdGdCtODmwNhOPO5XJRxPw7mE+i4gt8Pq+w3UtLG71MayZIYdi1P2Kk8H8vrx2v01W6FbwtrPtcrQuHDcLeG6RgnJJ4oDQAu7gQn6qeum8E/xEgBR+NOTAArqy41viSTe1RPuZDzmuLCfLUrW1Z2Uxc3XcLWS5gBYyEA/JlUOu3j4mGpBPRk8QpqwPuz7N+gM00ywS17IIbSDooWsIRY74rGw6iN14ur9U/1WaEsmalGHXOPbceqKDq+JVHc8cP6dUt6eIsMsVT3yrsWGakokapRzcVOYFgPZP5/DEMCPDmNDrimUyA==;xSre3hRC/ipngH4MhG+Nyw=="
+secured: "ityh37Tx1Abzpt6OJf0WL3K5lzp4azGQUuN9rSzR2Y7a18CLt920rnmruX1iVJph29T6XXdbC6a31BmEX2GzWiSoaP4/LqlVaj3tWp6TPdoPqTYuoyni0g/JrONtceqxdpESyA8GL7Ks9Eo/+r5Kzg7tWswElyaNLbmC+TLQZgRdM/2dDvwX5CdIPmHWGYI2AMna0b/lYItXlrqxgIHXGFU3ntHW+lz/Ps2i6Y6qmi/5qbeUPbsomJ4amqXa7xT7TXSAJy3mAx8Sb55T9i6kLO90O/KFzF/yANeFaY1HNtvKcnLuINRwXWQPIwGicMsAlrYPK8oI4/3T5O3F4QXhvFHCTavNT2syLzYapuu0dh4=;yzQ+8FPSm1X+RYvpXQPhow=="
 ---
 
