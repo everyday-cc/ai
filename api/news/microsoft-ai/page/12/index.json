@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-06-03-children-who-attend-schools-with-more-traffic-noise-show-slower-cognitive-development.md",
+      "title": "Children who attend schools with more traffic noise show slower cognitive development",
+      "excerpt": "In order to assess the possible impact of traffic noise on cognitive development, the researchers focused on two abilities that develop rapidly during preadolescence and are essential for learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/06/220602140809.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/06/220602140809.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-02T13:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-03-traffic-noise-may-impair-childrens-cognitive-development-study.md",
       "title": "Traffic noise may impair children’s cognitive development: study",
       "excerpt": "“Our study supports the hypothesis that childhood is a vulnerable period during which external stimuli such as noise can affect the rapid process of cognitive development that takes place before ...",
@@ -1174,40 +1217,6 @@
       "provider": {
         "name": "Visual Studio Magazine",
         "domain": "visualstudiomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-amd-instincttm-mi200-adopted-for-large-scale-ai-training-in-microsoft-azure.md",
-      "title": "AMD Instinct(TM) MI200 Adopted for Large-Scale AI Training in Microsoft Azure",
-      "excerpt": "Microsoft Azure is the first public cloud to deploy AMD Instinct MI200 accelerators SANTA CLARA, Calif., May 26, 2022 (GLOBE NEWSWIRE) -- AMD (NASDAQ: AMD) and Microsoft continued their collaboration in the cloud,",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/amd-instinct-tm-mi200-adopted-for-large-scale-ai-training-in-microsoft-azure-01653570399",
-      "originalUrl": "https://www.barrons.com/articles/amd-instinct-tm-mi200-adopted-for-large-scale-ai-training-in-microsoft-azure-01653570399",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
         "images": null,
         "publishers": null,
         "authors": null

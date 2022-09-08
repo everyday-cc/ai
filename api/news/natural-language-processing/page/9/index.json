@@ -2,6 +2,59 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-06-22-the-power-and-pitfalls-of-ai-for-us-intelligence.md",
+      "title": "The Power and Pitfalls of AI for US Intelligence",
+      "excerpt": "From cyber operations to disinformation, artificial intelligence extends the reach of national security threats that can target individuals and whole societies with precision, speed, and scale. As the US competes to stay ahead,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-machine-learning-us-intelligence-community/",
+      "originalUrl": "https://www.wired.com/story/ai-machine-learning-us-intelligence-community/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/62b225d8e0a13316321d22ea/master/pass/Artificial-Intelligence-Communities-Security-GettyImages-1293344881.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-machine-learning-us-intelligence-community/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-machine-learning-us-intelligence-community/amp",
+      "publishedDateTime": "2022-06-21T13:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai.md",
       "title": "Microsoft Restricts Its Facial Recognition Tools Citing The Need for 'Responsible AI'",
       "excerpt": "The tech releases a Responsible AI Standard document that lays out its goals toward equitable and trustworthy AI.",
@@ -1329,50 +1382,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-11-ai-systems-have-their-own-secret-language-and-it-might-come-with-security-concerns.md",
-      "title": "AI systems have their own ‘secret language’. And it might come with security concerns",
-      "excerpt": "The findings support the theory that AI language models don’t read text the way you and I do. Instead, they break input text up into 'tokens'.",
-      "sourceUrl": null,
-      "webUrl": "https://theprint.in/world/ai-systems-have-their-own-secret-language-and-it-might-come-with-security-concerns/992535/",
-      "originalUrl": "https://theprint.in/world/ai-systems-have-their-own-secret-language-and-it-might-come-with-security-concerns/992535/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.theprint.in/wp-content/uploads/2021/08/artificial-intelligence-4389372_1280-e1599296856435-1024x576-1.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theprint.in/world/ai-systems-have-their-own-secret-language-and-it-might-come-with-security-concerns/992535/?amp",
-      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/world/ai-systems-have-their-own-secret-language-and-it-might-come-with-security-concerns/992535/?amp",
-      "publishedDateTime": "2022-06-10T20:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ThePrint",
-        "domain": "theprint.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

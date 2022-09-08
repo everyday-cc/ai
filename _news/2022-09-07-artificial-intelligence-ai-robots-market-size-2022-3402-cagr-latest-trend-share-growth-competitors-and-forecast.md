@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-size-2022-3402-cagr-latest-trend-share-growth-competitors-and-forecast-2022-09-07"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice and Speech Recognition Market Report, Size, Industry Share, Growth, Trends and Forecast 2022-2027"
+    excerpt: "As per the latest report by IMARC Group, titled \" Voice and Speech Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027 \", offers a comprehensive analysis of the industry,"
+    publishedDateTime: 2022-09-06T06:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-report-size-industry-share-growth-trends-and-forecast-2022-2027-2022-09-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

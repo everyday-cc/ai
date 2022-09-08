@@ -1,23 +1,31 @@
 ---
 category: news
 title: "1 Machine Learning Stock Down 56% to Buy Hand Over Fist"
-excerpt: "Machine learning is a subfield of artificial intelligence, and it's primarily used to make sense of mountains of data to deliver valuable insights to the end user. Thanks to companies like Splunk ..."
-publishedDateTime: 2022-08-28T11:35:00Z
-originalUrl: "https://www.nasdaq.com/articles/1-machine-learning-stock-down-56-to-buy-hand-over-fist"
-webUrl: "https://www.nasdaq.com/articles/1-machine-learning-stock-down-56-to-buy-hand-over-fist"
-ampWebUrl: "https://www.nasdaq.com/articles/1-machine-learning-stock-down-56-to-buy-hand-over-fist?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/1-machine-learning-stock-down-56-to-buy-hand-over-fist?amp"
+excerpt: "Splunk sees an opportunity in the machine learning industry, which is growing at 44% annually. Splunk is in the midst of a transformative shift to offer its services in the cloud to make them more ..."
+publishedDateTime: 2022-08-28T07:15:00Z
+originalUrl: "https://www.fool.com/investing/2022/08/28/machine-learning-stock-down-56-buy-hand--over-fist/"
+webUrl: "https://www.fool.com/investing/2022/08/28/machine-learning-stock-down-56-buy-hand--over-fist/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-secured: "bfOhfDXnmfyKoLZ/GbwoiQTUhbbdbDGYBC6GIgpVE0uCJmBtY/+03FIk7XIVC3Hzhq0Djc3KxwTz7wibk/tIM5KUOb1h/wBjDbi7YkUKW3UC2ooCw3eMHrTIurmf1ida3XpnogNGFcRRObwFYC6Ji+CW2uNur96KirMNoRPzoPzx/+5joTCNTZ6dZI54wH/OkmUvWSsu//WI2bRt1jRK+qioav2OFVG41dUeup7ZQ6dc363DWCKWNj9AdgJIgiC9GJSH2leh5qbLuo7nRdew9hhQEIZtFjxVmWqudh/ayx0iMFklBY1K6um5pdIeztSeHHCRi9/ma9Bs8rH1zWTsTcWlrKLp0iHjGTHNxXTczvU=;FIdGyH+m/JClazfm+QALaw=="
+images:
+  - url: "https://g.foolcdn.com/editorial/images/698259/a-person-working-on-a-digital-dashboard-analyzing-data.jpg"
+    width: 5760
+    height: 3240
+    isCached: true
+
+secured: "DOkob+2o9ljupMBefk//mlhh/iqLkqwtik28eiIRO5uL92dq/2O5ZaXwDUJMjI1HQ+hN0jm1My6qtdYxfG8wsBEJxQQR4sgfyHiKXrHxkWEtKpDO77d571RL0VL/Zs61of+nMzP8xz7jJlfdz6cwGaUdo5BmhkqJPHs255oy+tVfDZLNXOt+cSFtJyVbw+ryT+S9jDQTDuUFci7YZxF8W2quHdsgUJ1zSsnPkJmToL9qw/KsUK4O6rzkazFhUkEk+dD1uni0iVvM5/oOOpIXEmnmCK+jrrJF1X794g9PItZ9LkJfS4NT8JKG8zTgMnBLuox+AheZv+283JHYkQEukPHz9NFZHPufLwqFIEWNIZA=;A+f1coT4u7hw1KEX3+PO2g=="
 ---
 

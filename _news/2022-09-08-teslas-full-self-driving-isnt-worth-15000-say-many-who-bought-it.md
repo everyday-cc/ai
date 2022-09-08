@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Tesla’s ‘full self-driving’ isn’t worth $15,000, say many who bought it"
-excerpt: "Some Tesla owners who paid far less for an earlier, unfinished version of the same “full self-driving” software that now retails for $15,000 caution that the new price does not make"
-publishedDateTime: 2022-09-07T17:51:00Z
-originalUrl: "https://www.eastbaytimes.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/"
-webUrl: "https://www.eastbaytimes.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/"
-ampWebUrl: "https://www.eastbaytimes.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/amp/"
-cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/amp/"
+excerpt: "Some Tesla owners who paid far less for an earlier version of the “full self-driving” software that now retails for $15,000 caution that the new price does not make sense for most"
+publishedDateTime: 2022-09-07T21:04:00Z
+originalUrl: "https://www.dailynews.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/"
+webUrl: "https://www.dailynews.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/"
+ampWebUrl: "https://www.dailynews.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/amp/"
+cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/amp/"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: East Bay Times
-  domain: eastbaytimes.com
+  name: Los Angeles Daily News
+  domain: dailynews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.eastbaytimes.com/wp-content/uploads/2022/09/hypatia-h_f83a5bee143b3b89282e5807cb1c97e9-h_c8f834e95ae4db3b0c1cf5aa23866cd0.jpg?w=1024&h=1024"
+  - url: "https://www.dailynews.com/wp-content/uploads/2022/09/hypatia-h_f83a5bee143b3b89282e5807cb1c97e9-h_c8f834e95ae4db3b0c1cf5aa23866cd0.jpg?w=1024&h=1024"
     width: 1024
     height: 1024
     isCached: true
@@ -88,6 +88,6 @@ related:
         height: 675
         isCached: true
 
-secured: "F1PdMBEbOUbjswQqButZpyi8H1ulRJywsMFesylsmUuaW1sOolBVirVrjVAw/5AdH0ewn7sqr7ozgorqtM6a7SQmQx+q6Mew0BPwbWiEggHZ5HAt6tu8S3rivwtJ+reuVlCcDD5j3iYqP6im2JWpBiDzF21Mx1M03F1IvHEPmW+/MtyclfjYL//uj80Mt+VkfOsLY/0EnoK/YqdmytodGjpEviZLUK+Im12hC+CudN0BL4qeTV1BDtk2xAndgge+IejHZqa95WXd60bBMhEIk5lvqnHByc7zVzfaGrimEkkFCcAKXW3Nb8KOb54F2PvXM/7Z1EdPHvto1lB6bxNq40WFxj5AzTGqGD5W6+OOdOA=;z9rQMd+vzAfMUmaxcD/c2g=="
+secured: "anXSW95PlWQY7KCGqC3x2vJm8IIJxG2tzIx0jLrmh8/C9imM1sAJCTGH/Ph5ppJdM+LYf9I0gZ3SLQPGMXe+tZB0EUK/izZhSwX9s7Wzdqv7y0PGlvItXarC7NHC6DV32bQ9acI5+P/AtBTFORPM8K3JQlPHhtkFig7sxaf5QtoAF/24H+httNI8BEnNHyKt54ualyaylQTz3O8tGbAjpyQoaxYwmEv1TKxbkxo3RMPAJH+cKsdmxcNyaLMxFkH1bc35R5GYzguVypI2n/ldX8pb1oIXEAjZfmZwBPJJYd9nDC7L6f1cdJ3wnYsvY9vOejE/3CfImF2b64V4GaOjTGgVrdhgeukMA7CqPfN4rEs=;DdJIVB3bMyLdfwzUvsqydA=="
 ---
 

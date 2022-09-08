@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Fintech Market Inclinations and Development Status Highlighted During Forecast Period 2022 to 2027"
+    excerpt: "Report Ocean recently added a research report on the AI in Fintech market. The report includes an extensive analysis of the market's characteristics, COVID-19 impact, size and growth, segmentation, regional and country breakdowns,"
+    publishedDateTime: 2022-09-06T06:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-inclinations-and-development-status-highlighted-during-forecast-period-2022-to-2027-2022-09-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Learning Management System (LMS) Global Market Report 2022: Artificial Intelligence Presents Exciting Development Areas"
     excerpt: "Global Market Report 2022: By Component, Delivery Mode, Deployment Mode, End User, and Covering\" report has been added to ResearchAndMarkets.com's offering. The global learning management system (LMS) market is expected to grow from $13."
     publishedDateTime: 2022-09-08T12:12:00Z

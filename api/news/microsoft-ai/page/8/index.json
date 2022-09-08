@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-06-29-microsoft-backed-ai-learns-how-to-play-minecraft-by-watching-online-videos.md",
+      "title": "Microsoft-Backed AI Learns How To Play Minecraft By Watching Online Videos",
+      "excerpt": "AI capable of rapidly learning and interacting with interfaces humans usually use is taking over the world. Luckily for us, this particular world is virtual.",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/911020/microsoft-backed-ai-learns-how-to-play-minecraft-by-watching-online-videos/",
+      "originalUrl": "https://www.slashgear.com/911020/microsoft-backed-ai-learns-how-to-play-minecraft-by-watching-online-videos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/microsoft-backed-ai-learns-how-to-play-minecraft-by-watching-online-videos/l-intro-1656465937.jpg",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T19:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-case-study-ey-invests-in-ai-to-improve-approach-to-flexible-working.md",
       "title": "Case Study: EY invests in AI to improve approach to flexible working",
       "excerpt": "Professional services firm EY has invested in AI-powered tools to assist their employees in the transition back to the office, while maintaining the flexibility they had during the pandemic. Digital Nation Australia spoke to Kate Hillman,",
@@ -1248,58 +1300,6 @@
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-octoml-ceo-mlops-needs-to-step-aside-for-devops.md",
-      "title": "OctoML CEO: MLOps needs to step aside for DevOps",
-      "excerpt": "\"We can just use DevOps, but for that you need to be able to treat the machine learning model as if it was any other piece ... include a myriad of public cloud instances from AWS, GCP, and Azure, and support for different versions of CPU — x86 and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/octoml-ceo-mlops-needs-to-step-aside-for-devops/",
-      "originalUrl": "https://www.zdnet.com/article/octoml-ceo-mlops-needs-to-step-aside-for-devops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/4d0122e4a74805d60dbb2ca4c144c384e2614cd1/2022/06/22/7737a930-cfce-4096-acaa-603eda8d30af/luis-ceze-octoml-2022.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/octoml-ceo-mlops-needs-to-step-aside-for-devops/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/octoml-ceo-mlops-needs-to-step-aside-for-devops/",
-      "publishedDateTime": "2022-06-22T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

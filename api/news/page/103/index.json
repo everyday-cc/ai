@@ -2,6 +2,144 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2022-06-16-why-artificial-intelligence-remains-a-distant-dream.md",
+      "title": "Why Artificial Intelligence remains a distant dream?",
+      "excerpt": "Many AI initiatives to emulate the human brain -- from driving a car to writing text -- have failed in the ever changing real world",
+      "sourceUrl": null,
+      "webUrl": "https://www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/",
+      "originalUrl": "https://www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.americanbazaaronline.com/wp-content/uploads/2021/01/Communication.jpg",
+          "width": 1100,
+          "height": 692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/?amp",
+      "cdnAmpWebUrl": "https://www-americanbazaaronline-com.cdn.ampproject.org/c/s/www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/?amp",
+      "publishedDateTime": "2022-06-16T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "americanbazaaronline.com",
+        "domain": "americanbazaaronline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-110-million-in-new-funding-for-ai-helping-hospitals-address-acute-labor-shortage.md",
+      "title": "$110 Million In New Funding For AI Helping Hospitals Address Acute Labor Shortage",
+      "excerpt": "The Aidoc AI platform delivers to physicians in over 1,000 healthcare organizations actionable insights derived from imaging data and electronic medical records.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2022/06/16/110-million-in-new-funding-for-ai-helping-hospitals-address-acute-labor-shortage/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2022/06/16/110-million-in-new-funding-for-ai-helping-hospitals-address-acute-labor-shortage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62ab4ceac506a1afd8f2b684/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2022/06/16/110-million-in-new-funding-for-ai-helping-hospitals-address-acute-labor-shortage/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/06/16/110-million-in-new-funding-for-ai-helping-hospitals-address-acute-labor-shortage/amp/",
+      "publishedDateTime": "2022-06-16T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families.md",
+      "title": "Ukraine is using controversial facial recognition tech to identify the dead and reunite families",
+      "excerpt": "To build a case for war crimes, the country has been using software by Clearview AI, a firm fined in the UK for collecting images of social media users.",
+      "sourceUrl": null,
+      "webUrl": "https://scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families",
+      "originalUrl": "https://scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s01.sgp1.cdn.digitaloceanspaces.com/book/175818-upjeejhxrg-1655298615.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families",
+      "cdnAmpWebUrl": "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families",
+      "publishedDateTime": "2022-06-16T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scroll",
+        "domain": "scroll.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-nuvei-launches-groundbreaking-machine-learning-solution-to-boost-risk-management.md",
       "title": "Nuvei Launches Groundbreaking Machine Learning Solution to Boost Risk Management",
       "excerpt": "Nuvei Corporation (“Nuvei” or the “Company”) (Nasdaq: NVEI) (TSX: NVEI), tomorrow’s payment platform, announces today the launch of a new risk management model underpinned by cutting-edge machine learning technology for its Instant Bank Transfer product in North America.",
@@ -990,142 +1128,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-h2oai-expands-snowflake-partnership-enabling-successful-ai-transformations-for-customers.md",
-      "title": "H2O.ai Expands Snowflake Partnership Enabling Successful AI Transformations for Customers",
-      "excerpt": "AI Cloud Leader Awarded Elite Partner Certification to Strengthen User Experience with Competency Badge at Snowflake Summit H2O.ai, the AI Cloud… | Scaleups | Digital | International | Technology | En",
-      "sourceUrl": null,
-      "webUrl": "https://bdaily.co.uk/articles/2022/06/16/h2oai-expands-snowflake-partnership-enabling-successful-ai-transformations-for-customers",
-      "originalUrl": "https://bdaily.co.uk/articles/2022/06/16/h2oai-expands-snowflake-partnership-enabling-successful-ai-transformations-for-customers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T01:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bdaily Business Network",
-        "domain": "bdaily.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-why-ai-could-be-the-answer-as-companies-chase-down-debt.md",
-      "title": "Why AI Could Be The Answer As Companies Chase Down Debt",
-      "excerpt": "Webio has raised $4 million of Series A funding as it capitalises on growing demand for digital technology in credit and collections",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidprosser/2022/06/16/why-ai-could-be-the-answer-as-companies-chase-down-debt/",
-      "originalUrl": "https://www.forbes.com/sites/davidprosser/2022/06/16/why-ai-could-be-the-answer-as-companies-chase-down-debt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62a9ff56e9b31aa25e09c8a9/0x0.jpg?format=jpg&crop=500,234,x0,y104,safe&width=1200",
-          "width": 500,
-          "height": 234,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidprosser/2022/06/16/why-ai-could-be-the-answer-as-companies-chase-down-debt/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2022/06/16/why-ai-could-be-the-answer-as-companies-chase-down-debt/amp/",
-      "publishedDateTime": "2022-06-16T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-this-startup-wants-to-help-teams-get-more-out-of-virtual-meetings.md",
-      "title": "This startup wants to help teams get more out of virtual meetings",
-      "excerpt": "While major videoconferencing platforms can offer basic stuff like a record function, the winter 2020-founded startup reckons there ... e.g. by using AI to parse transcriptions and ID key ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/16/online-meeting-productivity-tldv-seed/",
-      "originalUrl": "https://techcrunch.com/2022/06/16/online-meeting-productivity-tldv-seed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Group-692.png?w=680",
-          "width": 679,
-          "height": 386,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/16/online-meeting-productivity-tldv-seed/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/16/online-meeting-productivity-tldv-seed/amp/",
-      "publishedDateTime": "2022-06-16T00:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

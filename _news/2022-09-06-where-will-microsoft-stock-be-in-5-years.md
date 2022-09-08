@@ -50,20 +50,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
-    excerpt: "New Jersey, NJ -- (SBWIRE) -- 09/03/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ..."
-    publishedDateTime: 2022-09-04T00:02:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-50"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 48
-    images:
-      - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Xbox's Matt Booty Dreams About Using AI To Do QA Testing"
     excerpt: "So Matt Booty will no doubt have enamored himself no end to such people with the weekend’s tone-deaf statement. As reported by VGC, Booty was explaining how each time a new feature is added, a game needs to be re-tested start to finish."
     publishedDateTime: 2022-09-05T12:12:00Z

@@ -81,6 +81,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "How facial recognition minimizes fraud and identity theft in online gaming"
+    excerpt: "Implementing a two-step authentication with the use of digital identity verification would force players to identify themselves before they start gaming online."
+    publishedDateTime: 2022-09-08T16:07:00Z
+    webUrl: "https://www.biometricupdate.com/202209/how-facial-recognition-minimizes-fraud-and-identity-theft-in-online-gaming"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/10/29113926/children-laptop-6-12-scaled.jpg"
+        width: 2048
+        height: 1367
+        isCached: true
 
 secured: "6+TM25D2gK/YRMlYaAxTFOlpHfelZiKqjnyPNTzj0oA2b8PuX74g4eFB4Vh7uAQU4ePlVRwJFe5OWb4jEZguMPsf6k88xByu6JYLeMN5F1nooxBbZ2nlh8U3ng8CiUSsP1GKVRCOfECAeUFMq/I/qSbrws1TSlYEc3ug5v1qPiHaaVcBvgFQ072nHOch8Db0ZI2WIQQ0rIOHipWENQM/oG05DLas9iP4i66hEiwvZW77+r8Fa13/chUdmsSt3g514xqvzmdc/HO2swmLWduuZ9ZMsyzINZjbM4f/CsHlRu2DtM8t3CL5BSBSzdqD23T1BgAe9hkt/pD5DD2rgXGjjSSb2AwYgP6p432nuS6/VEhW0u60hjRVwbCMto3z3L0YTiQNqen/MqEw87AbEyxZbH7WprTNu3XO3Qrb5xgDZbxNQ58BZAj6ZYx2tW5om3/0K8QUYsH7gmzlYK6A86ypCk+xqMDNGhaVuSKdC3L5vAshcgHBDrhk941kfRhuEX7CgpY/GV9sJ4YJR6URNPT2Fg==;eC4dm90GnLzYyPK7pSYfQQ=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202209/ai-dete
 ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound?amp"
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound?amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-09/pic27777.gif.jpg?itok=UL6r1b41"
@@ -25,6 +26,6 @@ images:
     height: 800
     isCached: true
 
-secured: "WQdDtVqTn+nK4KK/mjKVN12XDSfF/r0nq87WmK1do5B0U7U5JmH9Z24KvA7UlCigWXVTXkYMjbDEJYVwl+ufiliejpgY2zfKHU66yNPgX1E1SB2Yb2Rv1JstaRp/E1EBSerb/Vl6krEXvfMIeolbZ+Wr4uPTgBgj7hvByhyhbB1LXsmHb1fWhO0jpv5T0/0hKlKrV94J5PTijMXIaDoB5AHToUvaZNn+4cQocOpnOgGfxLauCl9YbhZ1ICaKi7AruTA96GcxT7z04cQfqQWWxhPEhlkYcBTeKO5GIJoNwE71yoMlGMJObYdqXWhQSE6GKK90AZV36dyYToxyxVll14ecmn3DcUC0XIEEVdkXwps=;qucCaIj39BnE3jfLXVotgA=="
+secured: "lpmw19+afrN2y1I+djRecOuRzzl/8T6LU82oOpowGhtwVJS/yD0AGlNDW9T0k0AD5HZINuReLn9q8kOcDdr/CV608zwwWyOPKYc1c7MJm1Cf5uejE+JALyw6PumLdxy+THfQ5JdYKZJg3mLfOVDAc00IMxiDlcktDEO8f/d7wbGr6doOa52x82dli0T9qF2pTEYoPV9ncPEYm0ovL2Uk9ZWRA2po9cEW8uEVcn9PzEw/YfTqRAT3+KbDxKSyG2+66aZ+72fNbZM28Es+t1hnI9aQPYRNCiN7sKvO0WTesn8oTcckTUWFcI3DaSzMohf2gf2fQmQ8wEpbxGWBDZJwhFlMSCSr2mv46eIWJcz3vfHYEMOh3vFCkrKhplojOgPFYjDj2LcNk7p0z4QkpVfH7aPlxIUJK0uBCFOPN0xensFWVhLZqRChrGWO5Y5WQvbBT+WBsJ5DIPVNidcLWtjS8YDwL/y+mXBJ/WECg2GduVH7RY6yvfw7f3TyORDLfmgNgBGvFNglK0kn9NBa5oFi/w==;WhBLWKp5WZ+rrJlltZL8CQ=="
 ---
 

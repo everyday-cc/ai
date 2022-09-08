@@ -2,6 +2,59 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-06-10-azure-eats-into-aws-lead-as-cloud-market-continues-to-grow.md",
+      "title": "Azure eats into AWS lead as cloud market continues to grow",
+      "excerpt": "Google is also rising to challenge AWS’s dominance, coming forth in Gartner’s ... as well as its work in emerging capabilities such as artificial intelligence and Kubernetes container technologies. Gartner also highlighted its expansion of their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/uk/news/azure-eats-into-aws-lead-as-cloud-market-continues-to-grow",
+      "originalUrl": "https://www.techradar.com/uk/news/azure-eats-into-aws-lead-as-cloud-market-continues-to-grow",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-azure-eats-into-aws-lead-as-cloud-market-continues-to-grow.md",
       "title": "Azure eats into AWS lead as cloud market continues to grow",
       "excerpt": "Amazon Web Services may be a global powerhouse in the cloud hosting world, but its share of the infrastructure as a service (IaaS) market could be one area it is falling behind somewhat. The tech giant’s share of the IaaS marketplace fell 40.",
@@ -1248,49 +1301,6 @@
         "name": "Daily Express",
         "domain": "express.co.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-children-who-attend-schools-with-more-traffic-noise-show-slower-cognitive-development.md",
-      "title": "Children who attend schools with more traffic noise show slower cognitive development",
-      "excerpt": "In order to assess the possible impact of traffic noise on cognitive development, the researchers focused on two abilities that develop rapidly during preadolescence and are essential for learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/06/220602140809.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/06/220602140809.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-02T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

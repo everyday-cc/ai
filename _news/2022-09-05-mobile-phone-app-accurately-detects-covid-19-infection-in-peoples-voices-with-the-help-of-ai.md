@@ -72,20 +72,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Mobile phone app accurately detects COVID-19 infection in people’s voices with the help of artificial intelligence"
-    excerpt: "Two presentations to be made at the European Respiratory Society International Congress in Barcelona, Spain, on Monday show how artificial intelligence (AI) can be used to detect COVID-19 in people's voices via a mobile phone app,"
-    publishedDateTime: 2022-09-04T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/963516"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 17
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/59491f98-561b-44c7-93d4-7a268a0e3d47/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 214
-        isCached: true
 
 secured: "8MjkY07NEebkOeY2cec2THgpYxS1sAPLpS8txWyKQnL3xjUsKqhKjVG01vn3qh5IvTexIzRClJ5zMzM+0N7wsYRXAIs/4t28bQmHjrB3x33mIGeEox5IcpRonxxD+x349tkQRw0EaKSirKI7sfRoOY58ZTAI/DAalc020fpgsUY86VIRkTpWH6mv8OH8/84GPjFreFBgUtJ5Si2fTwvpT3H22M5Fmb7BBPMyeMf+z5QOzeVlQoJsBCWP/i5CH/2eVMKri2Coe3fR9A/Z3m12Klr3l91Ek0b49LNdI7A6J8V7BWj6L8Jsic+hubK8besAqgUY4edkbv4Sq1CNkApFMDehAaQnWubG45Ae/KHYpmg1ZpVQ2p4VTbHbXrUBDXbZSFdp8UNXkbGgVKOtPAI9EF6W1EQln1IWxc+w/e6G65jXheZn6xbKrYgnD9ZXiLSioP5JHD1Q+x+duZfvTbUuBwafB947QoFOqpNwsyR8dU+lmxPw7Ctohvi/aUuhkxje9o356OASevAvQnz2flA+PA==;jhE9YjAPwm387LT7gUHmEQ=="
 ---

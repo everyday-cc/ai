@@ -2,6 +2,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-07-ai-does-not-have-thoughts-no-matter-what-you-think.md",
+      "title": "AI does not have thoughts, no matter what you think",
+      "excerpt": "The technology can generate tweets and blog posts and even entire articles, and as researchers make gains, it is getting better at conversation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/ai-does-not-have-thoughts-no-matter-what-you-think-8970231.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/ai-does-not-have-thoughts-no-matter-what-you-think-8970231.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2019/09/artificial-intelligence-3382507_1280-e1576670917550-753x435.jpg",
+          "width": 753,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/ai-does-not-have-thoughts-no-matter-what-you-think-8970231.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/ai-does-not-have-thoughts-no-matter-what-you-think-8970231.html/amp",
+      "publishedDateTime": "2022-08-06T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning",
+        "AI Ethics",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-08-06-ai-ethics-asks-whether-it-makes-any-sense-to-ask-ai-if-ai-itself-is-sentient.md",
       "title": "AI Ethics Asks Whether It Makes Any Sense To Ask AI If AI Itself Is Sentient",
       "excerpt": "AI Ethics raises the thorny question as to whether the question asked of AI about AI itself being sentient is a bit overrated, including frowning at recent headlines boldly and falsely proclaiming sentient AI existence.",
@@ -1426,49 +1472,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-uae-first-ba-philosophy-and-ethics-programme-in-arab-region-launched.md",
-      "title": "UAE: First BA Philosophy and Ethics programme in Arab region launched",
-      "excerpt": "Mohamed Bin Zayed University for Humanities has launched a Bachelor of Arts in Philosophy and Ethics degree programme under the College of Arts and Humanities, the first academic offering of its kind in the region.",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/education/uae-first-ba-philosophy-and-ethics-programme-in-arab-region-launched",
-      "originalUrl": "https://www.khaleejtimes.com/education/uae-first-ba-philosophy-and-ethics-programme-in-arab-region-launched",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.khaleejtimes.com?uuid=b5885a70-097d-52bb-9b86-ef567ea5a247&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99999&x=0&y=0&width=1200&height=675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khaleejtimes.com/education/uae-first-ba-philosophy-and-ethics-programme-in-arab-region-launched?amp=1",
-      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/education/uae-first-ba-philosophy-and-ethics-programme-in-arab-region-launched?amp=1",
-      "publishedDateTime": "2022-07-14T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

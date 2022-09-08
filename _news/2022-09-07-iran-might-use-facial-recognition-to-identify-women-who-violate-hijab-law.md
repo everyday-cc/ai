@@ -9,7 +9,7 @@ ampWebUrl: "https://dailytimes.com.pk/993751/iran-might-use-facial-recognition-t
 cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/amp/"
 type: article
 quality: 58
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2022/09/newspress-collage-19708882-1662371431207.jpg?1662375170&strip=all&quality=100&w=1920&h=1080&crop=1"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "How facial recognition minimizes fraud and identity theft in online gaming"
+    excerpt: "Implementing a two-step authentication with the use of digital identity verification would force players to identify themselves before they start gaming online."
+    publishedDateTime: 2022-09-08T16:07:00Z
+    webUrl: "https://www.biometricupdate.com/202209/how-facial-recognition-minimizes-fraud-and-identity-theft-in-online-gaming"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/10/29113926/children-laptop-6-12-scaled.jpg"
+        width: 2048
+        height: 1367
         isCached: true
   - title: "Iran to use facial recognition technology to enforce grim new laws on women"
     excerpt: "Iran is introducing an oppressive tightening of its strict hijab laws. Women can be spotted by facial recognition technology on public transport if they do not dress 'correctly'"

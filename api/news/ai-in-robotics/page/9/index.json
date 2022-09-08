@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-07-07-sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres.md",
+      "title": "SP Robotics Maker Lab opens app for Franchises; plans to open 100+ centres",
+      "excerpt": "It currently has 50 Maker Labs in 20 cities in India and is looking at franchise Investment starting from INR 5 Lakhs upto 20 Lakhs to own a Maker Lab at your locality",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres-11657102429811.html",
+      "originalUrl": "https://www.livemint.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres-11657102429811.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2022/07/06/600x338/png_20220706_153448_0000_1657102962845_1657102970526.png",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres/amp-11657102429811.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres/amp-11657102429811.html",
+      "publishedDateTime": "2022-07-06T14:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-06-richard-kyte-the-real-ethical-problem-with-artificial-intelligence.md",
       "title": "Richard Kyte: The real ethical problem with artificial intelligence",
       "excerpt": "The second set of concerns have to do with Artificial General Intelligence (AGI).  What if robots obtain consciousness?  Should they have legal and ethical rights just as people do?     You may have heard about the Google engineer who was placed on leave after claiming that LaMDA,",
@@ -1236,41 +1279,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-tesla-stock-split-seen-drawing-ai-investors.md",
-      "title": "Tesla Stock Split Seen Drawing AI Investors",
-      "excerpt": "Tesla (TSLA)’s planned three-for-one stock split is expected to broaden its investor base, drawing artificial intelligence (AI) buyers. This should happen as the electric vehicle (EV) maker times its AI Day 2 event to generate buzz around its humanoid robot and ‘a few other exciting things.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/tesla-stock-split-seen-drawing-ai-investors",
-      "originalUrl": "https://www.nasdaq.com/articles/tesla-stock-split-seen-drawing-ai-investors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/tesla-stock-split-seen-drawing-ai-investors?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-stock-split-seen-drawing-ai-investors?amp",
-      "publishedDateTime": "2022-06-28T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

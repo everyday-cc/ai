@@ -2,6 +2,103 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-09-mlcommons-releases-new-benchmarks-to-boost-ml-performance.md",
+      "title": "MLCommons releases new benchmarks to boost ML performance",
+      "excerpt": "MLCommons just released new benchmarks for its latest update, with new ML models and a new testing division for inference over the network.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/mlcommons-releases-new-benchmarks-to-boost-ml-performance/",
+      "originalUrl": "https://venturebeat.com/ai/mlcommons-releases-new-benchmarks-to-boost-ml-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Abstract-AI-4-color-e1638226936634.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 595,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/mlcommons-releases-new-benchmarks-to-boost-ml-performance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/mlcommons-releases-new-benchmarks-to-boost-ml-performance/amp/",
+      "publishedDateTime": "2022-09-08T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-08-realtime-robotics-raises-144m-for-motion-planning-software.md",
+      "title": "Realtime Robotics raises $14.4M for motion planning software",
+      "excerpt": "Realtime Robotics' RapidPlan software creates and choreographs robot movements without the need for brand-specific robot programming.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/realtime-robotics-funding-motion-planning-software/",
+      "originalUrl": "https://www.therobotreport.com/realtime-robotics-funding-motion-planning-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/06/realtime-robotics-kawasaki-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-08T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-08-nvidia-ai-chip-export-ban-expected-to-impact-us-china-ai-race.md",
       "title": "Nvidia AI chip export ban expected to impact U.S.-China AI race",
       "excerpt": "The ban on Nvidia AI GPUs to China has led to speculation about the impact on Chinese firms, as well as on Nvidia’s China business.",
@@ -158,7 +255,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/09/08/qualcomm-is-still-the-most-efficient-ai-accelerator-for-image-processing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -198,7 +295,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1104,7 +1202,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-size-2022-3402-cagr-latest-trend-share-growth-competitors-and-forecast-2022-09-07",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1145,101 +1243,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-07-facebook-is-trying-to-be-more-like-tiktok-whistleblower-says-its-a-bad-idea.md",
-      "title": "Facebook Is Trying To Be More Like TikTok. Whistleblower Says It's A 'Bad Idea'",
-      "excerpt": "Facebook whistleblower Frances Haugen isn't a fan of the social media giant's efforts to become more like short-form video app TikTok. \"The world that they're choosing to go towards is one where you have to do censorship to be safe and I think that's a bad idea,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/social-media/facebook-is-trying-to-be-more-like-tiktok-whistleblower-says-its-a-bad-idea/",
-      "originalUrl": "https://www.cnet.com/news/social-media/facebook-is-trying-to-be-more-like-tiktok-whistleblower-says-its-a-bad-idea/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/1f7cddf05679dedd0eea42a26f7000c836eea984/2022/09/07/9f360aee-6f7f-498a-a7a1-20cf0aee5ad4/screen-shot-2022-09-06-at-5-35-41-pm.png?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-is-trying-to-be-more-like-tiktok-whistleblower-says-its-a-bad-idea/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-is-trying-to-be-more-like-tiktok-whistleblower-says-its-a-bad-idea/",
-      "publishedDateTime": "2022-09-06T19:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-07-iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law.md",
-      "title": "Iran might use facial recognition to identify women who violate hijab law",
-      "excerpt": "Iran might use facial recognition to identify women who violate hijab law. The regime continues a crackdown on women's dressing.",
-      "sourceUrl": null,
-      "webUrl": "https://dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/",
-      "originalUrl": "https://dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailytimes.com.pk/assets/uploads/2018/06/15/US-restaurant-chain-in-hijab-row-orders-diversity-training.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/amp/",
-      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/amp/",
-      "publishedDateTime": "2022-09-06T17:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Times",
-        "domain": "dailytimes.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

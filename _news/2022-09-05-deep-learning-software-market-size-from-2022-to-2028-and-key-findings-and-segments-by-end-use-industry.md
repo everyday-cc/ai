@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-software-m
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-size-from-2022-to-2028-and-key-findings-and-segments-by-end-use-industry-2022-09-05"
 type: article
 quality: 53
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI in Fintech Market Inclinations and Development Status Highlighted During Forecast Period 2022 to 2027"
+    excerpt: "Report Ocean recently added a research report on the AI in Fintech market. The report includes an extensive analysis of the market's characteristics, COVID-19 impact, size and growth, segmentation, regional and country breakdowns,"
+    publishedDateTime: 2022-09-06T06:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-inclinations-and-development-status-highlighted-during-forecast-period-2022-to-2027-2022-09-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine learning hiring levels in the military industry rose in August 2022"
     excerpt: "The proportion of military equipment and technologies companies hiring for machine learning related positions rose significantly in August 2022 compared with the equivalent month last year, with 57.9% of the companies included in our analysis recruiting for at least one such position."
     publishedDateTime: 2022-09-05T17:00:00Z

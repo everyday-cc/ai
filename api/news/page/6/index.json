@@ -2,6 +2,146 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-09-01-gnrh-therapy-could-improve-cognitive-deficits-in-men-with-down-syndrome.md",
+      "title": "GnRH therapy could improve cognitive deficits in men with Down syndrome",
+      "excerpt": "Gonadotropin-releasing hormone (GnRH) therapy improves cognitive function in Down syndrome (DS) mouse models and male patients with DS, according to a new study. The findings reveal a previously u ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220901/GnRH-therapy-could-improve-cognitive-deficits-in-men-with-Down-syndrome.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220901/GnRH-therapy-could-improve-cognitive-deficits-in-men-with-Down-syndrome.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/2/Alzheimers_amyloid_plaque_-_Juan_Gaertner_9638f1223d534b518a192c8478871d65-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20220901/GnRH-therapy-could-improve-cognitive-deficits-in-men-with-Down-syndrome.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220901/GnRH-therapy-could-improve-cognitive-deficits-in-men-with-Down-syndrome.aspx",
+      "publishedDateTime": "2022-08-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-israeli-facial-recognition-once-did-border-checks-in-the-west-bank-now-it-snoops-on-casinos-across-america.md",
+      "title": "Israeli Facial Recognition Once Did Border Checks In The West Bank. Now It Snoops On Casinos Across America",
+      "excerpt": "Israeli facial recognition tech is now in use at casinos in the U.S, raising concerns about how private entities will use powerful surveillance tools. Day after day, thousands of faces appear on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2022/09/01/oosto-israel-facial-recognition-surveillance-on-casinos-in-america/",
+      "originalUrl": "https://www.forbes.com/sites/thomasbrewster/2022/09/01/oosto-israel-facial-recognition-surveillance-on-casinos-in-america/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6310bde3528cfaa940213ebe/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-unified-streaming-joins-aws-partner-network.md",
+      "title": "Unified Streaming joins AWS Partner Network",
+      "excerpt": "Unified Streaming, a video streaming software development company, has become a validated AWS (Amazon Web Services) Software Partner. The company has successfully passed the AWS Foundational Technical Review (FTR) for Independent Software Vendors (ISV).",
+      "sourceUrl": null,
+      "webUrl": "https://advanced-television.com/2022/09/01/unified-streaming-joins-aws-partner-network/",
+      "originalUrl": "https://advanced-television.com/2022/09/01/unified-streaming-joins-aws-partner-network/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://advanced-television.com/wp-content/uploads/2022/04/AWS.png",
+          "width": 870,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Advanced Television",
+        "domain": "advanced-television.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-up-bridge-the-gap-robot-development-kits.md",
       "title": "UP Bridge the Gap robot development kits",
       "excerpt": "Designed to provide developers with the complete package the robotic development kits come supplied with a computing and vision unit, a motion unit consisting of motor control board, motors and ...",
@@ -1009,156 +1149,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-baidu-claims-its-robotaxis-have-grabbed-10-of-the-ride-hailing-market-in-a-suburb-of-beijing.md",
-      "title": "Baidu claims its robotaxis have grabbed 10% of the ride-hailing market in a suburb of Beijing",
-      "excerpt": "Chinese tech giant Baidu said its robotaxis have grabbed about 10% of the ride-hailing market in a suburb of Beijing city. Baidu began offering free robotaxi rides in the suburban region in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/08/31/baidu-claims-its-robotaxis-have-grabbed-10percent-of-a-ride-hailing-market.html",
-      "originalUrl": "https://www.cnbc.com/2022/08/31/baidu-claims-its-robotaxis-have-grabbed-10percent-of-a-ride-hailing-market.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107111680-1661904834859-gettyimages-1355764512-vcg111359334633.jpeg?v=1661907038",
-          "width": 3988,
-          "height": 2652,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/08/31/baidu-claims-its-robotaxis-have-grabbed-10percent-of-a-ride-hailing-market.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/08/31/baidu-claims-its-robotaxis-have-grabbed-10percent-of-a-ride-hailing-market.html",
-      "publishedDateTime": "2022-08-30T22:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-start-talking-the-true-potential-of-conversational-ai-in-the-enterprise.md",
-      "title": "Start talking: The true potential of conversational AI in the enterprise",
-      "excerpt": "A holistic approach, good governance, and internal lifecycle automation are key factors of success in implementing conversational AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/start-talking-the-true-potential-of-conversational-ai-in-the-enterprise/",
-      "originalUrl": "https://venturebeat.com/ai/start-talking-the-true-potential-of-conversational-ai-in-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1324517786-Andrey-Suslov.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/start-talking-the-true-potential-of-conversational-ai-in-the-enterprise/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/start-talking-the-true-potential-of-conversational-ai-in-the-enterprise/amp/",
-      "publishedDateTime": "2022-08-30T21:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.md",
-      "title": "TensorFlow, PyTorch, and JAX: Choosing a deep learning framework",
-      "excerpt": "Three widely used frameworks are leading the way in deep learning research and production today. Which one should you use?",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/701064/tensorflow-pytorch-jax-choosing-deep-learning-framework/?fp=2&fpid=1",
-      "originalUrl": "https://www.arnnet.com.au/article/701064/tensorflow-pytorch-jax-choosing-deep-learning-framework/?fp=2&fpid=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_107745072.jpg",
-          "width": 473,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T19:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI",
-        "Facebook AI",
-        "TensorFlow"
       ]
     }
   ],

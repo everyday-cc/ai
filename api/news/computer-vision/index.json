@@ -2,6 +2,60 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-09-mlcommons-releases-new-benchmarks-to-boost-ml-performance.md",
+      "title": "MLCommons releases new benchmarks to boost ML performance",
+      "excerpt": "MLCommons just released new benchmarks for its latest update, with new ML models and a new testing division for inference over the network.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/mlcommons-releases-new-benchmarks-to-boost-ml-performance/",
+      "originalUrl": "https://venturebeat.com/ai/mlcommons-releases-new-benchmarks-to-boost-ml-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Abstract-AI-4-color-e1638226936634.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 595,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/mlcommons-releases-new-benchmarks-to-boost-ml-performance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/mlcommons-releases-new-benchmarks-to-boost-ml-performance/amp/",
+      "publishedDateTime": "2022-09-08T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-07-is-intel-labs-brain-inspired-ai-approach-the-future-of-robot-learning.md",
       "title": "Is Intel Labs’ brain-inspired AI approach the future of robot learning?",
       "excerpt": "Intel Labs’ new neuromorphic computing approach is aimed primarily at future applications such as robotic assistants.",
@@ -108,7 +162,7 @@
       "originalUrl": "https://dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1367,58 +1421,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-computer-vision-market-size-industry-analysis-share-growth-trends-top-key-players-and-regional-forecast-2022-to-2030.md",
-      "title": "Computer Vision Market Size Industry Analysis Share Growth Trends Top Key Players and Regional Forecast 2022 to 2030",
-      "excerpt": "The report covers the analysis and forecast of a Computer Vision on global as well as regional level. The study provides historic data of 2016 along with the forecast for the period between 2017 and 2025 based on revenue (US$ Mn).",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-size-industry-analysis-share-growth-trends-top-key-players-and-regional-forecast-2022-to-2030-2022-08-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-size-industry-analysis-share-growth-trends-top-key-players-and-regional-forecast-2022-to-2030-2022-08-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-25T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

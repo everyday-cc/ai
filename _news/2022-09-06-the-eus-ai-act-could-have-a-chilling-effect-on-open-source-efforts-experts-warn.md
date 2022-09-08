@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/09/06/the-eus-ai-act-could-have-a-chilli
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/06/the-eus-ai-act-could-have-a-chilling-effect-on-open-source-efforts-experts-warn/amp/"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence tool could reduce common drug side effects"
+    excerpt: "Artificial intelligence could help clinicians assess which patients are likely to encounter the harmful side effects of some commonly used antidepressants, antihistamines and bladder medicines."
+    publishedDateTime: 2022-09-08T16:54:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/09/220907093349.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
   - title: "Artificial Intelligence tool could reduce common drug side effects"
     excerpt: "Artificial intelligence could help clinicians assess which patients are likely to encounter the harmful side effects of some commonly used antidepressants, antihistamines and bladder medicines."
     publishedDateTime: 2022-09-07T07:12:00Z

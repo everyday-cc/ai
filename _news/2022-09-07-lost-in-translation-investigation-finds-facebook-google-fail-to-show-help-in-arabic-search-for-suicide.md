@@ -7,7 +7,7 @@ originalUrl: "https://english.ahram.org.eg/NewsContent/7/48/475464/Life--Style/H
 webUrl: "https://english.ahram.org.eg/NewsContent/7/48/475464/Life--Style/Health/Lost-in-translation-Investigation-finds-Facebook,-.aspx"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 800
     height: 533
     isCached: true
-
-related:
-  - title: "Faith factor: Spiritual groups on Facebook as effective tools for disinformation"
-    excerpt: "Disinformation in faith groups can be more subtle, but still insidious, because of the use of moral and emotional language"
-    publishedDateTime: 2022-09-04T01:00:00Z
-    webUrl: "https://www.rappler.com/newsbreak/investigative/faith-factor-spiritual-groups-facebook-tools-disinformation/"
-    type: article
-    provider:
-      name: Rappler
-      domain: rappler.com
-    quality: 34
-    images:
-      - url: "https://www.rappler.com/tachyon/2022/08/religion-disinformation-august-31-2022.jpeg"
-        width: 1280
-        height: 900
-        isCached: true
 
 secured: "Gq/di8Bm905G3foRj1SVL7e83+XLjwR1Wv4+H6T6hNYN+tGtcGcTAXZ342D28GJ9NJ+WX+bPsLMBQ72+GHCt8YthYJ4tm+G072i4LF3I69arfSdU+59cfOJc6nBXf+a2X4N2Kg2qBYNFqhsJdzrwVGx6U9nxCKANEExQ09Af0hhC6ZekYumimDf2KOxtVuDoEbTGADKz7mK42AZRakBn9KZxcZzRDnK4PiH8yrePaDcsrSNKmcYDGdNNN6sCocEkK00F0R2+YbLVMWSfr33xZmtj4aBE0L9OUVedKGdSFAr4tJA2iAzPshsLEsK0xQ4fdyBtEqJNjdmKNDgudkRVV/22KJfmm+/bgNuAf3hFquz6EFt8xOhFpzR6ZcFVFb4YIg4/XSDk/Gp3/Ul2/rVBAiV24FrXztBZcwRnjgow1NCJwojpaBMJpeAIy3rS7pXI7REUz/DWWhcAYJkrIRpErtq3jaF+42Fn/uoB6LVIGoi3hTi9VWeSAMR3+qxH/dK45e50VGQm9UGXf+4Hp/dmtg==;4jJUF8eokHJ7QG8ogQOQeQ=="
 ---

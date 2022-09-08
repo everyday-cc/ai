@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "12 Ways AI Is Transforming How Businesses Interact With Customers"
+    excerpt: "Many businesses leverage AI’s learning abilities to try to make interactions and transactions faster and easier for the customers they serve."
+    publishedDateTime: 2022-09-08T17:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/08/12-ways-ai-is-transforming-how-businesses-interact-with-customers/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/08/12-ways-ai-is-transforming-how-businesses-interact-with-customers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/08/12-ways-ai-is-transforming-how-businesses-interact-with-customers/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5fb2a32abeab195130fc0917/0x0.jpg?format=jpg&crop=6000,3375,x0,y0,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Measuring the business impact of AI"
     excerpt: "Taking stock of AI ROI is challenging but essential. IT leaders and industry observers lend insights on how to get a clear idea of whether your AI efforts are paying off."
     publishedDateTime: 2022-09-07T10:00:00Z

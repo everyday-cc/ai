@@ -25,21 +25,30 @@ images:
     isCached: true
 
 related:
-  - title: "Uber Traded Away Its In-House Self-Driving Effort"
-    excerpt: "Uber’s self-driving efforts have been undertaken in close partnership with Volvo in recent years. Uber’s driverless car research was handled by the internal Advanced Technologies Group ..."
-    publishedDateTime: 2022-09-07T00:01:00Z
-    webUrl: "https://hackaday.com/2020/12/22/uber-traded-away-its-in-house-self-driving-effort/"
+  - title: "With autonomous vehicle caucus, Congress members aim to advance technology for self-driving cars"
+    excerpt: "The bipartisan group looks to educate fellow members of Congress and have them experience riding in a self-driving car while pushing legislation intended to spur the development of AVs in the U.S."
+    publishedDateTime: 2022-09-08T16:13:00Z
+    webUrl: "https://www.smartcitiesdive.com/news/autonomous-vehicle-technology-congressional-caucus-formed/631394/"
     type: article
     provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 24
+      name: smartcitiesdive
+      domain: smartcitiesdive.com
+    quality: 26
     images:
-      - url: "https://hackaday.com/wp-content/uploads/2020/12/Aurora.jpg"
-        width: 3000
-        height: 1815
+      - url: "https://www.smartcitiesdive.com/imgproxy/t3HM-zVSuU3-89hRDZZGnfcTKSKIOxCpn2fcSVXDq4Q/crop:1000:540/g:nowe:0:105/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL1VNLU9wZW4tQ0FWLWF0LU1jaXR5X1JvdW5kYWJvdXQuanBn.jpg"
+        width: 770
+        height: 364
         isCached: true
+  - title: "A low-cost, viable solution for self-driving cars to spot hacked GPS"
+    excerpt: "A lot of hurdles remain before the emerging technology of self-driving personal and commercial vehicles is common, but transportation researchers at The University of Alabama developed a promising, inexpensive system to overcome one challenge: GPS hacking that can send a self-driving vehicle to the wrong destination."
+    publishedDateTime: 2022-09-07T13:15:00Z
+    webUrl: "https://techxplore.com/news/2022-09-low-cost-viable-solution-self-driving-cars.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 4
 
-secured: "N0ePuEZNuWLhPxaasC7Q0bnIf39tfi8BQSCZFByK1QhCcPRb76dOAEDWCQ+Eeu6TrXFnpKhP0PJCcmXcHPYUrSep839U5Sm5DyLhZN98mF8Qw1cOnKgB2Ry3l7PrTNM2MGD0uiZJnMwo922Iz8xYkA+JXJhUMsVuH249bxmezBZMMk6Cvuu32mUu98k8gbgKd/6F+iT3qzVo3ydO/QFf1B4W7IU7NKg1ATsjm20aUIVPNgSsKvGqcoLekUE/JMGZTOKPYvJhYp9vN+/S8r9CshDu8npl2sh+m9igvy/71AZMn4s6/E6b0aaf5sgSMGWAOGr4xo40yNo5bFU4xdc1Pzd9dC6xZ7vCD1yVyNeGwpA=;eDP3R6fVXj65LtaPVaredQ=="
+secured: "WbOKOUuYaNGPJ0TuDIRlB1PWIHZCUQKAzy5etiFPISm2OVT4hDsNO0hSfLJ+FlXA/+mVoWlkQxuOgDaYEzk7TL7oEzFYM6gSJlGxlHelCGQmToo2dqdVSMcryKIKDhj/hIABydNJCu9YxGNkhPBdPCZ9/ijMo0urVfJYee9yTNmcCADRFC2wSYva41SqFI7b96CUlv9hfIWa6+MxEwJCYhfBS3VSg2TCCIkYm2EcdqAgNdpPkaJqU02e11pwzjr4377o18BusiD7ezucS4U3IYJ7Wcp+i43NgPy+kheRaOzarOOMYG0K1g2or+9KFu2im82ilVAzIY0kIxvTYLD7yU1itB4RQvc9SU0Aa1yWbtVX16T/9wasos5FynCaIue82a+mzpOC92awO9sgCbqvm+ub+ygsgjSj3qlc7MfAFjranLoj+6NTZK5HDelP9EWjiS/IbziKxJ7/opfaTN/wp6B4W3g1ZNJHIZvDmkSrA9ei2WbK+SweJML8itR6jUvJGuMPH5ljxkSPFb8B/vHgJg==;DujSJ/qh01bdXkKBzxG4Pw=="
 ---
 
