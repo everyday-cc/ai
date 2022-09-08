@@ -1,26 +1,20 @@
 ---
 category: news
 title: "AI in FinTech Global Market Report 2022: Need for Fraud Detection in Fintech & Financial Institutions Driving Adoption - ResearchAndMarkets.com"
-excerpt: "The “AI in FinTech Global Market Report 2022” report has been added to ResearchAndMarkets.com’s offering. The global AI in fintech market is expected to grow from $7.25 billion in 2021 to $9.13 billion in 2022 at a compound annual growth rate (CAGR) of 25."
-publishedDateTime: 2022-08-29T10:26:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-asia-south-america-0232c251b16047f18c094cc48e26a795"
-webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-asia-south-america-0232c251b16047f18c094cc48e26a795"
+excerpt: "The global AI in fintech market is expected to grow from $7.25 billion in 2021 to $9.13 billion in 2022 at a compound annual growth rate (CAGR) of 25.9%. The AI in fintech market is expected to grow to $24."
+publishedDateTime: 2022-08-29T10:25:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-ai-in-fintech-global-market-report-2022-need-for-fraud-detection-in-fintech-and-financial-institutions-driving-adoption-researchandmarketscom"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-ai-in-fintech-global-market-report-2022-need-for-fraud-detection-in-fintech-and-financial-institutions-driving-adoption-researchandmarketscom"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "B3Unc8g+GvVr2LQlwy+bZp68Zj3AVcQoWv4r0xDGWjNNfzcMvWs1J1tHdnU2tx0OIwyxbuLyWL8REdrpeeJUZwmcbZP42MMfJN/Sd1nX9ee9YTcDGvpuX6kSydUJiyUpXm/dfioDWNBEvTzwoWVzlfdKkGUv66F7jr531avaSF7S6qpweTsWmS2+h63KRNLgDs1JCrsR0VjmzV1C91lZWzRA5XJ64NJjxz5eXPUxPCGui4PQjMEyrDvFTYqp5U19vPTSGNBoXfr3zT6JHgDHtHwhQn2oJhwFoXHPvak4ZEQ3NZY9nx7YkAeca6o8xuD4vsBUjSmgSC4alxZaG5hRWLhiE6LJCIAN0x3almMwZq4=;fG0dqgzK4Ee9asz3B3pu3Q=="
+secured: "ze0SHPN+//Rjkmlg8cEQ7fgkST4G6VlnHtVH8pPQzwVv+wsJpFY82cpF9keVABuAJMAJwrSxa4HLxHnSM5+2OkJLled4ok0Hk6ietFaW2aMFSuspQtKDN7IeoB+F17pIRRdEEZ6r/wPTKmuitg/ymmKUW4uELdxnUIl/+hKlQZb9CtQvszkZSl2ncR0k0vPup6aRDac7zYByUVQyVZ0EiY4UAwZihwCQqJ6NpFjG3YJ5mke+W5t/0NJ2DwyYUG7odW4mezTFoOL/hmAY/tOL3nw5rN7KytgGvUa1KvOhO1gzMgI1qi8vUKTx6bDWhB5Hd06y1ewXc8Hmj6FBnQ1dIGQM7tWcall4iW7N+THL3F0=;RrD8hfFhDZCvDDnifsHtGA=="
 ---
 

@@ -1,32 +1,24 @@
 ---
 category: news
 title: "U.S. startup SiMa.ai starts shipping machine learning chip and system"
-excerpt: "Aug 30 (Reuters) - Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity ... It is used for industrial robotics, drones, security cameras, satellite imaging and eventually ..."
-publishedDateTime: 2022-08-30T13:08:00Z
-originalUrl: "https://www.reuters.com/technology/us-startup-simaai-starts-shipping-machine-learning-chip-system-2022-08-30/"
-webUrl: "https://www.reuters.com/technology/us-startup-simaai-starts-shipping-machine-learning-chip-system-2022-08-30/"
+excerpt: "Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management & Research Company, said on Tuesday it started shipping chips and systems to customers that are testing them, an important step for mass production. We apologize ..."
+publishedDateTime: 2022-08-30T13:24:00Z
+originalUrl: "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system"
+webUrl: "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system"
+ampWebUrl: "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system/wcm/d3b033f1-d689-4d7b-bd86-a55744e847fe/amp/"
+cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system/wcm/d3b033f1-d689-4d7b-bd86-a55744e847fe/amp/"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Financial Post
+  domain: financialpost.com
 
 topics:
-  - AI in Robotics
+  - AI in Finance
   - AI
   - Machine Learning
   - AI Hardware
 
-images:
-  - url: "https://www.reuters.com/resizer/fI3n2TYUkaPpx7V82zTgvYaqWFU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QFP3TPKCWVOI3NIK2O3BE5V2Z4.jpg"
-    width: 1200
-    height: 628
-    isCached: true
-
-secured: "vednaz6gxd8UjU6uFMjQAS+EwN/PYD3hCLRMiJUPTebZFVieCX4c+pLGImi9jzKUydonQ17xAnfnrVzNGR5ZcUrJGdZBQOGaszHBZrbb9d23PDG7h2pWIq9g27RoEAFS+fASnZa7j6pxXZvhsbHhm9hRQ3ZcE2d3Je5Rwzja8J2eWlGkEzQx61gC4kstwu5K5Cp/LO/MCIjusc0L27kPfNJOMcvoXvpmPCbwHNKtHIaaO6vvwhEqlzOlO8OPIo6BO8FZm8JfRg8ePuuuNib6auHbl+h5ictc5uKMH8M/usfgK1xJOZ5IjX7FkZ1z/6GNb1zqUQ+RLqvkxIH3zolkUjsPb6L+GTcCGGht5/m7VMM=;Ez67sBHU+rQvFT0RoiF/uA=="
+secured: "CRzNw3CjZHFR2N3qHfM5JFoprZX3m3Vc7s6TGj8jexPgYzhvSBVdlHCpL/M5kengdwVebXbFIbfu4dPiWMTqiuh9zBYACNFBSCQcJuK++xmN3jnPgre0HqFQcwPtUsWwk6o1yxxmC+wONcAJH3JBiMGR94eGMydeSKkktNc17xRB/LIABUcGSAJrCjyIPR6xefQXfQIq28tJB+I3t4ctLHupyafg4AHaOhDoE1xn2wC51c6n7a7kCEzzPc0NlvArLYZQme420sqnvEYxE/KKeeDMbC2rOjm2avmMwY1uQ/qoxLLBVc2afUgOe7izFSmefYeY2MoILsL4vyHg9kfYZv8o/zVMiwDX6gsE4BBXxaI=;bfJj0lsBbsxeZML0P7KaQQ=="
 ---
 

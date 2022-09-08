@@ -1,27 +1,29 @@
 ---
 category: news
 title: "SymphonyAI Industrial Launches Batch 360™ and Vision 360™ for high-quality manufacturing production"
-excerpt: "AI-based software delivers actionable insights for manufacturers to optimize and maintain production output quality WOBURN, Mass., Sept. 6, 2022"
-publishedDateTime: 2022-09-06T12:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-industrial-launches-batch-360-and-vision-360-for-high-quality-manufacturing-production-1031725608"
-webUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-industrial-launches-batch-360-and-vision-360-for-high-quality-manufacturing-production-1031725608"
+excerpt: "SymphonyAI Industrial announced today the launch of two new AI-based processes and performance software solutions to improve manufacturing output and quality. Batch 360, a process performance and optimization solution,"
+publishedDateTime: 2022-09-06T10:32:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-39e28ba3c88d87f2d54617868d703867"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-39e28ba3c88d87f2d54617868d703867"
 type: article
-quality: 35
-heat: 35
+quality: 25
+heat: 25
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "gDvEgyAbtfxChC3b1f89jG9W4MHgkZWSmPU/ISsbo1+DKmSfbER2RFOQ99h8QbncuzN2VTRxYXF/ZKQs9qcbWpLvDuN7V92OtNQLWSksZzUGvgXSm9c2EFgc5bR70Vd0/nHR5c8+6fyw5p1tTd9pK3fdCIfEUQKbI5NWLVEXez81Fcda2a3m9Fp/pcgeeUZpYVf/1uTu90I6VaUOiGYJzeCo6bErXjc0uZfZRABtqD/TnN7eH/AiEfkSg24XBwDk9q/8t2M51oCjnt4nSKDiX2OoOF5gD2OMdgdg0lhDP4qH6PHbAa3JDa6c4O+gYbbtMprQZdnAuKvi5T1JG6Np9TVr+o5BSnUe9diVnvWX+ao=;LH6VnKDD0HDl5NhdxIwUGQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "2zxlDw+pvqA2nlsd6uk7j9vuU87QWpueok/s26wJrmmrYmB2DyXk+LwvnLIXfCm9fQTZW4lyU9TNMr79tG6c2q6VIiieCjukk7ptubNPF1/wkhZNEg8S2r1ClKYAnMwjdaAFUj6JPhcsOffjMbkOkSTVFFu/MDN0gf1J2SPlbKY8TpUgISM/GP8KVOhZWDMB7bzpeoUQ2NA4/ZRFad82wvDKsR7Hc7Idqfl8fWt8e5ejpOjDpfysT9fF7gTPtIB0hihcvWWUYm50LtA4IFXEmL+R/BG7U0ievXiWv1xbRb9MTkvJavW30W/aRTDA4jx1ol3puFoLCiKqgpEsHZeBVFZ+VHvu4hF8T2RMlyd/7WI=;FXz56cEBUQofDQmuk08APQ=="
 ---
 

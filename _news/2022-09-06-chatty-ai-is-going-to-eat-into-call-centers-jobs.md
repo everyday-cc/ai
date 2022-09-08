@@ -38,6 +38,20 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "How artificial intelligence is helping to restore works of art"
+    excerpt: "Art restoration is a discipline that combines passion, patience and resourcefulness. And it is benefitting more and more from the latest technological advances, especially in terms of artificial intelligence."
+    publishedDateTime: 2022-09-08T07:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/09/08/how-artificial-intelligence-is-helping-to-restore-works-of-art"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 37
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/09/08/1728803.jpg"
+        width: 750
+        height: 636
+        isCached: true
 
 secured: "lOSs9ZYXkmsdedhyfFJ8SUsiXGrBH+C3FALvboJWIK1gL5nb4FmoN9IqnqcAOqZdyr+O7v35zuwVPWsPVA5K+vKQsFTqw1N7QOADShWkjh6+TwtI8GVPCjbjBEAqopbc8ZvLANT5dtpcwUJKoxR+nZ03Av89D/4+ag4XE0ECy4t7Cb75ofAtT5HnfZ+uSt0ruAcOXeJ7aYidcUwgP4g/OxK2IRGhPFcN68Lnq4/NLNEHY1u44cLBTAEGktXQNAM912X+paSeBPxXUaYuQTqzUQv/ZQL1/zWj5CsIlkyLJFWEGdo6T8fnGgpUnAs6WbpFpJBByTH202Eq/iG5DC5WFL2E3osGpjIMhnmygqtrVHDmn08bfSiIwrq42HacSQHLmQnO1ziJR0SvUFvO57xdEbr6B7ZCJmAfi61QPexWd8V1kGmjfk32TxltxHMIzu79E2uin/2RzsQUT1zp0h6Bu0vJqU46zTqgIRrRaKdErgs6S/TCPstLrUVQTJKjKJxAPiVWdxu+j0v+OI3KwHWRuw==;Zu9qkMADgXYJouhI5mgj8A=="
 ---
