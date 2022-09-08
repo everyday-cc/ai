@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-08-30-speech-and-voice-recognition-market-size-2022-2029-industry-trends-share-growth-swot-analysis-market-drivers.md",
+      "title": "Speech and Voice Recognition Market Size [2022-2029] Industry Trends, Share, Growth, SWOT Analysis, Market Drivers",
+      "excerpt": "The global speech and voice recognition market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 19.8% during the forecast period, to Reach USD 28.3 Billion by 2026, from USD 6.9 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/speech-and-voice-recognition-market-size-2022-2029-industry-trends-share-growth-swot-analysis-market-drivers",
+      "originalUrl": "https://www.digitaljournal.com/pr/speech-and-voice-recognition-market-size-2022-2029-industry-trends-share-growth-swot-analysis-market-drivers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/07/Hackers-Scammers-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T21:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-a-huge-chinese-database-of-faces-and-vehicle-license-plates-spilled-online.md",
       "title": "A huge Chinese database of faces and vehicle license plates spilled online",
       "excerpt": "While its contents might seem unremarkable for China, where facial recognition is routine and state surveillance is ubiquitous, the sheer size of the exposed database is staggering. At its peak ...",
@@ -1115,33 +1158,24 @@
     {
       "path": "_news/2022-08-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry.md",
       "title": "Teradata Announces ClearScape Analytics: The Most Powerful, Open, and Connected Cloud Analytics Available in the Industry",
-      "excerpt": "Teradata (NYSE: TDC ) today announced ClearScape Analytics, the significantly expanded and newly named analytics capabilities that span t",
+      "excerpt": "ClearScape Analytics – which encompasses the same high-performing analytics that Teradata is known for but with 50+ new analytic functions – is available as part of Teradata VantageCloud and the new Teradata VantageCloud Lake,",
       "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the/article_e5c099aa-df86-5cb9-b6bb-c03fdef2e41f.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the/article_e5c099aa-df86-5cb9-b6bb-c03fdef2e41f.html",
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg",
-          "width": 350,
-          "height": 456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T03:56:00-07:00",
+      "publishedDateTime": "2022-08-29T03:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1153,50 +1187,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-behind-indian-government-supported-ai-robotics-innovation-firm.md",
-      "title": "Behind Indian Government Supported AI & Robotics Innovation Firm",
-      "excerpt": "If we can get self-driving cars to work on Silk Board in Bengaluru, it will work in the US, it will work in Europe, it will work in Elon Musk’s backyard as well.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/behind-indian-government-supported-ai-robotics-innovation-firm/",
-      "originalUrl": "https://analyticsindiamag.com/behind-indian-government-supported-ai-robotics-innovation-firm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/ARTPARK.jpeg",
-          "width": 1766,
-          "height": 993,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-08T18:56:00Z
 originalUrl: "https://www.01net.it/mlperf-results-show-advances-in-machine-learning-inference/"
 webUrl: "https://www.01net.it/mlperf-results-show-advances-in-machine-learning-inference/"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: 01Net
@@ -16,6 +19,26 @@ topics:
   - AI
   - Machine Learning
 
-secured: "YQHIKXHFI4YZmjj0tQLhKkNs1VnJmKZjVHrncT8dgY2Y+sdFv/Jg3jF4nzlHI3vBtPHx9KimwwnVfpGzGXvoZenTSIvs1Ibx2UJbsw6unAqZMS8bEytPoJf3l+NKn2tvea//b/mXMbL0Tg5j/5d9zGFEjsHKqqaGEX4RryZiu9P238mqN1zX9fc3dpnS+1hKYu+X8yglPj+bjdnpMoZlZmqqNG9VtIfybdgWovI0EVjwL3uC8A5pzrJk94KMkMo/GjjtEemBOd6LrFHN7SlYXflG34MD/5l+wlo7Khk5qSzQbk1FS1eDxZc0+wXZXzekpYk+H6CZW6yMc5BHBIKWhBEe/cMjTXX61zd/arKuYjE=;dka11NF7JNUAOpvrMHE2mA=="
+related:
+  - title: "Deci's Natural Language Processing (NLP) Model Achieves Breakthrough Performance at MLPerf"
+    excerpt: "Deci, the deep learning company harnessing Artificial Intelligence (AI) to build better AI, announced results for its Natural Language Processing (NLP) inference model submitted to the MLPerf Inference v2."
+    publishedDateTime: 2022-09-08T18:39:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/09/08/9670227.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 24
+  - title: "Deci’s NLP Model Achieves Breakthrough Performance at MLPerf"
+    excerpt: "Deci, the deep learning company harnessing Artificial Intelligence (AI) to build better AI, announced results for its"
+    publishedDateTime: 2022-09-08T19:48:00Z
+    webUrl: "https://www.datanami.com/this-just-in/decis-nlp-model-achieves-breakthrough-performance-at-mlperf/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
+
+secured: "7Y2J1fmnmOoGQo70zMFuurQluCMY8IAU0L74ETjQq1CxS5CuRQiHgG99CeDgoJYg7w7+y4KdZFGyDjSX0Oh0VAq6j6fmCrywUN0H3akNIypmkgewOUCKPj3syjp3XceMipo9eyLELclSJWMyARcroR2aUzPLpZIBdcnrNvklGlI5Vo64UVVrWr63/RfoZ0QWX/ADIVz1CKzavIY5POhrZfAK/mS6NRlgo7S+epCTHqV20IH9G+NzvR77iHP/IJc+aEpDhSZSz/L/c5iqihrk4IDJNXVcW5Mdoker2IfNf41S+OmSHxA7tXRRMwSaoJslRrRrcDPupOWmdUzXZQUnR+pDlfVQYSyj6zZGzTioIlM=;83dRcqVg9H8MPi2RkuG67A=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/nvidia-ai-chip-export-ban-expected-to-imp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-ai-chip-export-ban-expected-to-impact-u-s-china-ai-race/amp/"
 type: article
 quality: 104
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -41,7 +41,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 86
+    quality: 88
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63190e4480b932572f213ebc/0x0.jpg?format=jpg&width=1200"
         width: 1200
@@ -161,6 +161,15 @@ related:
         width: 750
         height: 426
         isCached: true
+  - title: "Analysis-U.S. Ban On Nvidia, AMD Chips Seen boosting Chinese Rivals"
+    excerpt: "The U.S. ban on exports to China of Nvidia and AMD's flagship artificial intelligence chips will create new business opportunities for domestic startups jockeying for a piece of China's fast-growing data center chip market,"
+    publishedDateTime: 2022-09-08T17:27:00Z
+    webUrl: "https://www.ibtimes.com/analysis-us-ban-nvidia-amd-chips-seen-boosting-chinese-rivals-3610956"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 19
 
 secured: "59jO9/hOyr69TH9zMjz23cGnRbrF+3iH1dT88BLCjNbOHVziZY/idvTvhkJzX/uwpOCcR5BcJx43s6S7IZdN4V/x99YmFqO1iFEZ1axrBQOCkdoUOBcysYX540k6kttq7YFKgi7zTv/blci2E1uue9Hc2l2Gfn7ZflhMn+sZE3zGtbHv1dtdardJKioSq9reytrkg3lU7nZrBjXUUZq9QWOOscwFuneTZJQAEGaM0bgAcS1D7U5ljNlz7ZVcoRO+mq538qHhr5iXRihN5tDvElVbRj/JZ/nlhjg6I4lyoE8q2VX5SRaFob7aubxvxofEIjZ6AevunvybT7fSiRELyO4EvvKBXx5JmpJdx1vjruNMpQlBXRR1k9xDvTLqExgxAknt3fCnxCI3dglrWiC/g2mPFF/RgDKrhv3ecPbKJIpITM1ebF8NwgqOecXbrwJxJAXf8/wAYJoc3xiYG78VhnyBh4PpJR565/99xfeuGXOznz/a//8MVsmNclX9wcnZoefNyZR6zdJ7Va6VYu6YMg==;QjIRD9Dw6JtXW086p9ugBg=="
 ---

@@ -51,7 +51,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 86
+    quality: 88
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63190e4480b932572f213ebc/0x0.jpg?format=jpg&width=1200"
         width: 1200
@@ -157,6 +157,15 @@ related:
         width: 750
         height: 426
         isCached: true
+  - title: "Analysis-U.S. Ban On Nvidia, AMD Chips Seen boosting Chinese Rivals"
+    excerpt: "The U.S. ban on exports to China of Nvidia and AMD's flagship artificial intelligence chips will create new business opportunities for domestic startups jockeying for a piece of China's fast-growing data center chip market,"
+    publishedDateTime: 2022-09-08T17:27:00Z
+    webUrl: "https://www.ibtimes.com/analysis-us-ban-nvidia-amd-chips-seen-boosting-chinese-rivals-3610956"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 19
 
 secured: "JdvKTRpXPRogu7hrBPdqEVQZUJbCXh3CRYEmRAOtTxvVZhaO7ECDjGlQWqVmgwautujwncS6rqLJCtilGts1Jsdw0tkCPSTML4+RZUx6KEJBiDEDYJ6Cosnx6tXU332q+RXq4lMaveIXGVnXB5obfnSGLWaV7vIU6C/KGST5yHUU2ee6JYcL4arSggOGOofqVRgeghc3niEHl2iOQOuWR0AvAdShHyNlJFcZ3AokRHjEiJv1tJs04I4Lw7h3YeLlWC5tWDLkXwUI+lS4c55ufFIelXIJU4SGMQNxYkZLbtcoQpzfVoXW3rMUiXz+EJDiHjz6PazwMdnH1axLAavdb+kMGMbBnKNA+CrMLV+Xlan8QbsvKI9AMKD/cSpH88ySgenerF5SsQEVz8zmw21C604kSyeUIcT+zGNfRYhBDIJSWVtEZ7fRq2PkoKrMZ5tieLDuFjH5InnDPLWivqXpYYxzZ6HE2yJPcscf0iN4do6Xjq129nVYjvSXfBEaiZHLLZuT5dNu6OziDg4Ta+QJVw==;XjSN2qHllvCAdZfpeKPdug=="
 ---

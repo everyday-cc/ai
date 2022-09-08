@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-08T15:50:00Z
 originalUrl: "https://venturebeat.com/ai/gartner-predicts-digital-twins-of-a-customer-will-transform-cx/"
 webUrl: "https://venturebeat.com/ai/gartner-predicts-digital-twins-of-a-customer-will-transform-cx/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: VentureBeat

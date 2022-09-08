@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-08T18:47:00Z
 originalUrl: "https://www.orlandoweekly.com/news/dont-fucking-give-the-orlando-police-access-to-your-private-cameras-32424417"
 webUrl: "https://www.orlandoweekly.com/news/dont-fucking-give-the-orlando-police-access-to-your-private-cameras-32424417"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Orlando Weekly

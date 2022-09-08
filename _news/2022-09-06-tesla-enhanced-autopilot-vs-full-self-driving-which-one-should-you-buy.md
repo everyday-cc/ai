@@ -87,6 +87,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "'They Overpromised Like Crazy': Some Tesla Owners Say New 'Full Self-Driving' Price Is Too High"
+    excerpt: "Several people who are using Tesla's beta mode full self-driving (FSD) feature reported that it wasn't worth the high price to purchase."
+    publishedDateTime: 2022-09-08T18:00:00Z
+    webUrl: "https://www.entrepreneur.com/business-news/tesla-fully-self-driving-beta-testers-say-not-worth-price/434965"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 37
 
 secured: "dj17M2Ofe1uE84wXpHBJgg+y+gPGmRrYLH7Hnc3kV4B3vLGkeW4iDJpssMDH9cFafyl1XFBObvfFTFBZnPPFhojPBZugeLMrllcUlh1BJUkJmrTasPvk5YOCMX8T2XvPpfJtLB2/F/jrv98aSWVwApNiqnAJXINE283ejOy/NeNtBzScSSkZx8LS0wgTS8nZPc9q3rEtVGXizmv1LYUxa58Od3Mp5APCm9n0wAKEegfpYbTOuSaCm+bcSiP4aEak79xSDvH2vX5lbEMvKXGKpCPjKKG8wO2gcAXsCXLvpPdff8vhtnxTaGIYnQFPKv9MUBlg4hC/JJ3SWWGlWEvLLJsjxlsjzd7a/m4Z/YTYXAwYJrIaRtkm/YzuNT+SyT7C8wy6Sigr2j5WUcCb2uDkciQYrtz9qgPEoW2/5X7dDbtr+/V+vtnaU/XWNq53xTd8by/V76dF17v7qmqKyHHGBKcEZupgr64IyGFasCjHlKdDjU+nI1a+dNhptVH+N8DO2f52HsPU2Ry346I3n/2Stg==;RQR27VmJ0cdBCoUnyxrydA=="
 ---

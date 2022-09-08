@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-size-2022-3402-cagr-latest-trend-share-growth-competitors-and-forecast-2022-09-07"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -85,6 +85,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence of Things (AIoT) Market Size 2022 Overview, Manufacturers, Types, Applications, Share, Growth Rate and Forecast 2027"
+    excerpt: "A new report released by Market Research Update is Artificial Intelligence of Things (AIoT) Market 2022. This report provides up-to-date information on the market and also pinpoint all the opportunities for Artificial Intelligence of Things (AIoT) market growth."
+    publishedDateTime: 2022-09-06T11:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-market-size-2022-overview-manufacturers-types-applications-share-growth-rate-and-forecast-2027-2022-09-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
 
 secured: "kpK5qbXwsePNsvd+Pe6J/vKJqb+4Wwdc5vxAQIwraDKPVHk+h8GyijrGanFLquTc/GPZX1OOgtfN5XJE7NgWyPSRbe94fRiPzYatWcBDffZlfTD3QV7cz4ap9x5snUGgvpHVuo1FEVxl4FOwRBQHnS5gCCD3072CYT0hY/FysbFeVl+chVMQ88FfDEbblRlAxHoXqqpb3oCXqJJ6L9M29vv1sYhi00Xy+RjakXcJaCkY3VFDgLS/atkveuk9dxKhTpPGjI5P3LvABUvFfkRd8b8KC0M1U52LsxOzG/o2dV8ck6Z7qvbXQc5ap/4Kr4LIdS3cKN/pqV+iRjdGFi1wD4BX0rRnbZmMsLKH2I5RlKQ=;1LF0zucxaSaPPniNn/tkew=="
 ---

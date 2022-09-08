@@ -48,6 +48,15 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 4
+  - title: "‘A step toward the future’: SwRI advances self-driving technology as VIA eyes possible applications"
+    excerpt: "Alexander Youngs, a senior research engineer at Southwest Research Institute, sits in the driver’s seat with his hands off the steering wheel during a demonstration of the institute’s self-driving shuttle bus on Aug."
+    publishedDateTime: 2022-09-08T18:53:00Z
+    webUrl: "https://www.expressnews.com/sa-inc/article/SwRI-advances-self-driving-tech-VIA-17427683.php"
+    type: article
+    provider:
+      name: San Antonio Express-News
+      domain: expressnews.com
+    quality: 0
 
 secured: "xwpKEhBlQQZm8cbqvQFc7vOSAXwSVJEcN8cibUV9WpMa5A25FSTzJHYB5GaZuguKFMeUHZX8satscXLsnHPf4VR55T4Ghilvt2n5m/dTtnHBT8IClx6ZUuenoRZBHbO/fzDQycLpO/I4woLr6D3CpFJoQd8OHWoErERJrF1Jf4J1LUB2b5Tisg9uQnlD6McJQXnpEgydDUBAB8EOwpV6Jn+4cMnOBfK88MbHGde0LAcI8J/wZBia/sshMrZO6v95j8IIxtLJPHyCeWrflhM6ucsEhtrnoSuv58ek9aRdADnVdnTUYYHp0o79ggVoOQ9zfLhkz2AU7EhHGkBWrjtsU3BX+tG09uuW6W1YgXHkAu8=;Y/Bj26Dz6kdWKVJiG5L0nA=="
 ---

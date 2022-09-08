@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-06T11:01:00Z
 originalUrl: "https://www.marketwatch.com/press-release/corporate-training-market-to-reach-4873-billion-by-2030-creating-an-opportunity-for-multilingual-training---onemeta-ai-2022-09-06"
 webUrl: "https://www.marketwatch.com/press-release/corporate-training-market-to-reach-4873-billion-by-2030-creating-an-opportunity-for-multilingual-training---onemeta-ai-2022-09-06"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
   name: MarketWatch

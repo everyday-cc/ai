@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-07T13:26:00Z
 originalUrl: "https://federalnewsnetwork.com/entertainment-news/2022/09/playwright-ken-ludwig-reworks-genders-of-lend-me-a-tenor/"
 webUrl: "https://federalnewsnetwork.com/entertainment-news/2022/09/playwright-ken-ludwig-reworks-genders-of-lend-me-a-tenor/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: federalnewsnetwork.com

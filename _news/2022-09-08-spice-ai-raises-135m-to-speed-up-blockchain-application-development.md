@@ -24,6 +24,17 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "Spice AI Raises $13.5M Seed Funding"
+    excerpt: "Spice AI today announced a seed round of $13.5 million for its platform that enables developers to build data driven"
+    publishedDateTime: 2022-09-08T19:36:00Z
+    webUrl: "https://www.datanami.com/this-just-in/spice-ai-raises-13-5m-seed-funding/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
+
 secured: "r77qE5m4cURf+QkpIODvsYri/UMQGFrtArwCIfhk4DKjMv0tgtUg/HquH2912PG12zDV6S26JAPxqvx+/eXGsm4W3//F2I4KSWOR9IzR6Zmqaoawuv7ccNTyBlJ1d4IpbuyVxZ38xL7Yi5F1sNbLuXUIXFp3m9J2ZJWq1wXLmOjsrSzf4QcRj4y2EPCkoZHkw+ZAEMWrHLfh97LIL7C39lZ5fKIZ2mn6OIW00tNi5E8oFJ2CWh3XIm8SxMinCC5VbWbn7wVn0jNMFkjgXk043goIrRgTBMY+Jz4y7wAz089GsCxSFIPzRyifGBjc3jvenvt+ucfJM30BtHaWS4AQ/3TCW2mIrl9qkjnGkFUp3Td/0T7t3RBVcz1g9KnPSFzuWKrVGp5h/Iio9h5BbCLcBkLg3qtKm87rLh5lj9y48F0lukmuhU0EwO2JRS6zt0w3EQjSmVMOe/fNGFsr3iaLzmvLAANbemyJSQ9ZffxIeukIYig5TccRpltK0jIYgSWJ0H0OcJI+cxhDtHM+8bdVsQ==;h6eVx8vu814s3S62fVtOPA=="
 ---
 

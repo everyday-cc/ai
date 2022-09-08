@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech move to forefront of residential mortgage lending as top banks retrench"
-    excerpt: "Triad consumers who choose a bank or credit union to originate or refinance a residential mortgage are becoming increasingly in the minority."
-    publishedDateTime: 2022-09-04T04:01:00Z
-    webUrl: "https://journalnow.com/business/local/fintech-move-to-forefront-of-residential-mortgage-lending-as-top-banks-retrench/article_a619fef2-28b9-11ed-b4a8-5b8e80e2fe79.html"
-    type: article
-    provider:
-      name: Winston-Salem Journal
-      domain: journalnow.com
-    quality: 35
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/9/97/9977d978-29a2-11ed-9be2-ff7df5e29b45/6310211052232.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Google leads fresh investment in embedded lending fintech R2"
     excerpt: "R2, an embedded lending fintech from Latin America, has received US$15mn of Series A investment led by the AI-focused venture fund of search giant Google."
     publishedDateTime: 2022-09-07T09:46:00Z

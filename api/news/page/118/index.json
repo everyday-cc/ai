@@ -2,6 +2,49 @@
   "page": 118,
   "value": [
     {
+      "path": "_news/2022-06-07-why-has-microsoft-stock-been-falling-will-it-rebound.md",
+      "title": "Why Has Microsoft Stock Been Falling; Will It Rebound?",
+      "excerpt": "All up, the number of customers who trust our security solutions grew nearly 50% year-over-year to 785,000… In AI, we continue to see strong usage of Azure Machine Learning. The number of ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4516896-why-has-microsoft-stock-been-falling",
+      "originalUrl": "https://seekingalpha.com/article/4516896-why-has-microsoft-stock-been-falling",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/84216309/image_84216309.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-07T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-07-how-infojobs-adevinta-improves-nlp-model-prediction-performance-with-aws-inferentia-and-amazon-sagemaker.md",
       "title": "How InfoJobs (Adevinta) improves NLP model prediction performance with AWS Inferentia and Amazon SageMaker",
       "excerpt": "This is a guest post co-written by Juan Francisco Fernandez, ML Engineer in Adevinta Spain, and AWS AI/ML Specialist Solutions Architects Antonio Rodriguez and João Moura. InfoJobs, a subsidiary company of the Adevinta group, provides the perfect match between candidates looking for their next job position",
@@ -1100,40 +1143,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-silicon-overdrive-achieves-100-aws-certifications.md",
-      "title": "Silicon Overdrive achieves 100 AWS certifications",
-      "excerpt": "Over the past 25 years, Silicon Overdrive has gained various achievements including AWS Public Sector Partner of the Year – Sub-Saharan Africa 2021 and AWS Consulting Partner of the Year – Sub ...",
-      "sourceUrl": null,
-      "webUrl": "https://mybroadband.co.za/news/industrynews/447422-silicon-overdrive-achieves-100-aws-certifications.html",
-      "originalUrl": "https://mybroadband.co.za/news/industrynews/447422-silicon-overdrive-achieves-100-aws-certifications.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mybroadband.co.za/news/industrynews/447422-silicon-overdrive-achieves-100-aws-certifications.html/amp",
-      "cdnAmpWebUrl": "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/447422-silicon-overdrive-achieves-100-aws-certifications.html/amp",
-      "publishedDateTime": "2022-06-07T01:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MyBroadband",
-        "domain": "mybroadband.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

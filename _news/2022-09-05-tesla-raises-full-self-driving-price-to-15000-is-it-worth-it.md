@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/09/05/tesla-raises-full-self-driving-price-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/05/tesla-raises-full-self-driving-price-to-15000-is-it-worth-it/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -91,6 +91,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "'They Overpromised Like Crazy': Some Tesla Owners Say New 'Full Self-Driving' Price Is Too High"
+    excerpt: "Several people who are using Tesla's beta mode full self-driving (FSD) feature reported that it wasn't worth the high price to purchase."
+    publishedDateTime: 2022-09-08T18:00:00Z
+    webUrl: "https://www.entrepreneur.com/business-news/tesla-fully-self-driving-beta-testers-say-not-worth-price/434965"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 37
 
 secured: "Y+XzIVn8xEYJkXeockMlE1wHOM6thDrPdB2rNAJnJ2y4oRdCyf9+P83JBVsoPn8PwQb3oJx17JwGIbYyLtYQlz8Cae95G3VF/twbL3Xu55Cto5a0NdHelm/7e3zztMcjWXp3RzhOu3JBIiCbBNyYyTIKDOmSfvUCG6Im8LcZp5ffRRc4jPn0P0q++w6a341uevjq7v9Yhn09RJGoIvnOxTUNJYG2kolFqpWqvKmbKXEW8t/1xT0QZnipHoWYa9ZDxDdweK/vPSRMQCK678CkDmtgsHGsk82DXKJRUnV/O39BPLEASuW4zUMNOEsT2jc+N4C8dJOFN57WAn0bjr5mYFweP/yOZTyZN+gTtly+KXLuKUTRzM2dhR+11tLbG2qMHenB4jKpE5tK/8HqCCGnOWjmYBHZVi2UOaL0gRV5Z7VhwYH5nOAUyH67JDquSIU2BjyQdu06PoYQuQRZkw4ezy+eRB1F6AiUeFg+R08tYZxuRqbPZM7+2o0D6sueWwtq4Y4Y/cL7VRxxum8ts2pDug==;aDVbk2SZv/Vgn/H4IJW5qg=="
 ---

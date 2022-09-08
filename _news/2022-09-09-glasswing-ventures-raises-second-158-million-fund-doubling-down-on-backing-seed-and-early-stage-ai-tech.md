@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-08T19:30:00Z
 originalUrl: "https://www.businessinsider.com/glasswing-ventures-second-fund-158-million-betting-on-ai-tech-2022-9"
 webUrl: "https://www.businessinsider.com/glasswing-ventures-second-fund-158-million-betting-on-ai-tech-2022-9"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: Business Insider

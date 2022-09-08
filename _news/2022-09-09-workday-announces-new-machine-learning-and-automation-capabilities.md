@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-08T18:02:00Z
 originalUrl: "https://www.accountingtoday.com/news/workday-announces-new-machine-learning-and-automation-capacities-on-product-line"
 webUrl: "https://www.accountingtoday.com/news/workday-announces-new-machine-learning-and-automation-capacities-on-product-line"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Accounting Today
@@ -15,6 +18,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "68mIA2VQt609kyjCVUGefG4FMfjeA7xVm2iq+4ScBJfsRQpwm5h/tMpCBTN6j9wuJXrhkRiAulmdX2zZp+FJ+XBYjVbw4HcbTUn3P25ZzAHm5STmQj9JDaMrZzQ6pBC8OzM35Yn3uxvvVHg1P/P9dlU6DfWIT4O3EBpYXB0qPMf8BVvId1iSLAyNWeUwA3z1OngXlMKSXNtzEQEg2Z5hjrGU2WOkn6onbzMPUpKY58kq9ANqPB+tb8RHoWroSr2paL0DZ1cyJUQsLc8eY6Z2RSlciv0ozUR54PiIucrvTbbvKV+FKXThEVwLdLjxcP5/gpXxHwOTX51PE3dUTPHnbJRcayfKOPt56Ex5dQJkTeE=;deAemyxL9BAmYUyymK4Oaw=="
+secured: "1FmJ1QOd9BNYH1bv0Fis0BNi/94uJuxBQk0mGkZ9c0uxrOgr6OekIOQ+a/rlURhKdVXQPLd5EGkSmdC03IS5WIsfYkpFEAtPSMHdxY8+ue2IFoePLh98buo5nIvUe1MvMFX6pF8f44SUsQyyD0UqGnh/7xmRcRMhjYD3b+IRNNWZMd7WcmgaZwqb0hZwaHT2pB09b6P7LLh/XXpret4gjJdnpDbk4sP8QZytCpNk2KZMUgAFyg+vEMx4X8ewa9kjIWlN1X3HO8QtapTEzKH4YiZTQP1yrmidrqj8yCqoNAfKPO/JgmdkTqVPw0+f6BgoDoiWJTg0NjE04xnsWGxO6sA5UfZebMCgQY56hMDmhJgqPtht63OT3B1wb6dkGpHCRNgXPuf1jg7f9Wl2/BML7urskAXjG7V32WyOE2lzqLUQt8ym/FzITqnC5u+HOu8vfNWQUUAWaws9RV5wMElG4eBh6aJhOiDHpNaLH0ZQ6XIKSYxa8P2l2SupoF1g8qP1bo09YybdypjT9IjbIafCsw==;TTWXfX5CaJucpkjgF1JX/A=="
 ---
 
