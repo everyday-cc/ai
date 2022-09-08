@@ -28,7 +28,7 @@ related:
   - title: "An architect asked AI to design skyscrapers of the future. This is what it proposed"
     excerpt: "Manas Bhatia has a bold vision of the future -- one where residential skyscrapers covered in trees, plants and algae act as \"air purification towers.\" In a series of detailed images, the New Delhi-based architect and computational designer has brought the idea to life."
     publishedDateTime: 2022-09-06T09:20:00Z
-    webUrl: "https://edition.cnn.com/style/article/ai-architecture-manas-bhatia/index.html"
+    webUrl: "https://www.cnn.com/style/article/ai-architecture-manas-bhatia/index.html"
     ampWebUrl: "https://www.cnn.com/style/amp/ai-architecture-manas-bhatia/index.html"
     cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ai-architecture-manas-bhatia/index.html"
     type: article

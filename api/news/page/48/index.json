@@ -2,6 +2,196 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2022-07-30-how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes.md",
+      "title": "How eBay is ramping up AI use in ecommerce behind the scenes",
+      "excerpt": "Bay is doubling down on AI-led visual experiences and further incorporating it into visual understanding and content understanding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/",
+      "originalUrl": "https://venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/01/eBay.jpg?w=1200&strip=all",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/amp/",
+      "publishedDateTime": "2022-07-29T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-build-and-train-ml-models-using-a-data-mesh-architecture-on-aws-part-1.md",
+      "title": "Build and train ML models using a data mesh architecture on AWS: Part 1",
+      "excerpt": "Organizations across various industries are using artificial intelligence (AI) and machine learning (ML) to solve business challenges specific to their industry. For example, in the financial services industry, you can use AI and ML to solve challenges around fraud detection, credit risk prediction,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-build-and-train-ml-models-using-a-data-mesh-architecture-on-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-build-and-train-ml-models-using-a-data-mesh-architecture-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-29T11:28:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-07-30-googles-deepmind-ai-predicts-3d-structure-of-nearly-every-protein-known-to-science.md",
+      "title": "Google's DeepMind AI Predicts 3D Structure of Nearly Every Protein Known to Science",
+      "excerpt": "After 22 years of grueling experimentation, John Kendrew of Cambridge University finally uncovered the 3D structure of a protein. It was a twisted blueprint of myoglobin, the stringy chain of 154 amino acids that helps infuse our muscles with oxygen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/science/biology/deepmind-ai-has-predicted-3d-structures-of-the-entire-protein-universe/",
+      "originalUrl": "https://www.cnet.com/science/biology/deepmind-ai-has-predicted-3d-structures-of-the-entire-protein-universe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/07fd24f6e895baa36441c82a2b640657f3f2cbd8/2022/07/28/8f1688f9-ef38-476c-b270-5967d88de874/gettyimages-154963443.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/deepmind-ai-has-predicted-3d-structures-of-the-entire-protein-universe/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/deepmind-ai-has-predicted-3d-structures-of-the-entire-protein-universe/",
+      "publishedDateTime": "2022-07-29T11:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-30-how-artificial-intelligence-is-elevating-gen-zs-level-of-financial-sophistication.md",
+      "title": "How artificial intelligence is elevating Gen Z’s level of financial sophistication",
+      "excerpt": "Customer service, cost optimization, and the development of new, useful products are all being aided by AI-powered financial applications. Financial institutions of the future will rely heavily on artificial intelligence (AI),",
+      "sourceUrl": null,
+      "webUrl": "https://bestgamingpro.com/how-artificial-intelligence-is-elevating-gen-zs-level-of-financial-sophistication/",
+      "originalUrl": "https://bestgamingpro.com/how-artificial-intelligence-is-elevating-gen-zs-level-of-financial-sophistication/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bestgamingpro.com/wp-content/uploads/2022/07/How-AI-is-making-Gen-Z-the-most-financially-sophisticated-generation.png",
+          "width": 600,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-29T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bestgamingpro",
+        "domain": "bestgamingpro.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-29-see-scientists-transform-dead-spiders-into-creepy-reanimated-robots.md",
       "title": "See scientists transform dead spiders into creepy reanimated robots",
       "excerpt": "If you thought that science couldn’t go too far, you may change your mind soon. A group of researchers ... back to life using puffs of air to control its legs. The researchers shared a video ...",
@@ -979,195 +1169,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-an-indigenous-language-could-help-humans-and-ai-communicate.md",
-      "title": "An Indigenous language could help humans and AI communicate",
-      "excerpt": "One of the most challenging problems impeding humans from communicating with Artificial Intelligence (AI) systems could have a unique solution: a language spoken by Indigenous Australians in the NT. Researchers at the University of New South Wales have published a paper explaining how Jingulu - a language spoken by the Jingili people - could be translated directly into commands that both AI and humans can understand.",
-      "sourceUrl": null,
-      "webUrl": "https://oversixty.com.au/entertainment/technology/an-indigenous-language-could-help-humans-and-ai-communicate",
-      "originalUrl": "https://oversixty.com.au/entertainment/technology/an-indigenous-language-could-help-humans-and-ai-communicate",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://oversixtydev.blob.core.windows.net/media/2022/07/indigenous-languages-hero.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://oversixty.com.au/amp/entertainment/technology/an-indigenous-language-could-help-humans-and-ai-communicate",
-      "cdnAmpWebUrl": "https://oversixty-com-au.cdn.ampproject.org/c/s/oversixty.com.au/amp/entertainment/technology/an-indigenous-language-could-help-humans-and-ai-communicate",
-      "publishedDateTime": "2022-07-28T23:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "oversixty.com.au",
-        "domain": "oversixty.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-quantum-music-to-showcase-groundbreaking-ai-baby-crying-translator-q-bear-at-tta-pavilion.md",
-      "title": "Quantum Music to Showcase Groundbreaking AI Baby Crying Translator Q-bear at TTA Pavilion",
-      "excerpt": "Q-bear uses artificial intelligence technology to help parents understand their newborn baby's needs and track physiological condition.LAS VEGAS,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/quantum-music-to-showcase-groundbreaking-ai-baby-crying-translator-q-bear-at-tta-pavilion-1031627928",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/quantum-music-to-showcase-groundbreaking-ai-baby-crying-translator-q-bear-at-tta-pavilion-1031627928",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1868832/image_5019932_7744838.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-28T23:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-deepminds-releasing-ai-predictions-for-virtually-every-protein-known-to-science.md",
-      "title": "Deepmind’s Releasing AI Predictions for Virtually Every Protein Known to Science",
-      "excerpt": "Today’s one of those watershed moments. Alphabet-owned Deepmind on Thursday announced it’s releasing a database of predictions for virtually every protein currently known to science ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2022/07/deepminds-releasing-ai-predictions-for-virtually-every-protein-known-to-science/",
-      "originalUrl": "https://www.gizmodo.com.au/2022/07/deepminds-releasing-ai-predictions-for-virtually-every-protein-known-to-science/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/07/29/gizmodo-10.png?quality=80&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmodo.com.au/2022/07/deepminds-releasing-ai-predictions-for-virtually-every-protein-known-to-science/amp/",
-      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/07/deepminds-releasing-ai-predictions-for-virtually-every-protein-known-to-science/amp/",
-      "publishedDateTime": "2022-07-28T23:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gizmodo",
-        "domain": "gizmodo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-cubo-ai-launches-new-sleep-sensor-pad-to-boost-award-winning-ai-baby-monitoring-system-at-tta-pavilion.md",
-      "title": "Cubo Ai launches new sleep sensor pad to boost award-winning AI baby monitoring system at TTA Pavilion",
-      "excerpt": "To further boost the safety of newborn babies as well as the peace of mind of parents, Taiwanese tech startup Cubo Ai has launched a new product to augment its award-winning Cubo Ai Plus Smart Baby Monitor - the AI Sleep Sensor Pad.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/cubo-ai-launches-new-sleep-sensor-pad-to-boost-award-winning-ai-baby-monitoring-system-at-tta-pavilion-1031627921",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/cubo-ai-launches-new-sleep-sensor-pad-to-boost-award-winning-ai-baby-monitoring-system-at-tta-pavilion-1031627921",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1868825/image_5019932_7247023.jpg",
-          "width": 400,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-28T23:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

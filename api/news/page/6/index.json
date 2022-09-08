@@ -2,6 +2,135 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-08-31-artificial-intelligence-in-diagnosing-pediatric-ear-infections.md",
+      "title": "Artificial Intelligence in Diagnosing Pediatric Ear Infections",
+      "excerpt": "An artificial-intelligence (AI) model developed was significantly more accurate than doctors at diagnosing pediatric ear infections.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-in-diagnosing-pediatric-ear-infections-208463-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-in-diagnosing-pediatric-ear-infections-208463-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/hear-aid-baby1.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-in-diagnosing-pediatric-ear-infections-208463-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-in-diagnosing-pediatric-ear-infections-208463-1.htm",
+      "publishedDateTime": "2022-08-31T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-unraveling-the-mysteries-of-the-night-sky-with-ai.md",
+      "title": "Unraveling the mysteries of the night sky with AI",
+      "excerpt": "Technische Universität Ilmenau (Germany) is using artificial intelligence to improve the detection and classification of unidentified phenomena in the night sky. The research team of the group for data-intensive systems and visualization collaborated with the American Meteor Society,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-08-unraveling-mysteries-night-sky-ai.html",
+      "originalUrl": "https://phys.org/news/2022-08-unraveling-mysteries-night-sky-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/unraveling-the-mysteri.jpg",
+          "width": 1135,
+          "height": 526,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-08-unraveling-mysteries-night-sky-ai.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-unraveling-mysteries-night-sky-ai.amp",
+      "publishedDateTime": "2022-08-31T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-here-technologies-achieves-aws-supply-chain-competency.md",
+      "title": "HERE Technologies achieves AWS Supply Chain Competency",
+      "excerpt": "Chicago, IL – HERE Technologies, a leading location data and technology platform, announced today that it has achieved the Amazon Web Services (AWS) Supply Chain Competency. This designation recognizes HERE for helping customers solve their critical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dcvelocity.com/articles/55400-here-technologies-achieves-aws-supply-chain-competency",
+      "originalUrl": "https://www.dcvelocity.com/articles/55400-here-technologies-achieves-aws-supply-chain-competency",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dcvelocity.com/ext/resources/video-uploads/thumb/Copy-of-C9P-Brand-Video-Thumbnail.jpeg?crop=true&height=430&t=1661789514&width=640",
+          "width": 640,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DC Velocity",
+        "domain": "dcvelocity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-31-artificial-intelligence-model-outperforms-clinicians-in-diagnosing-pediatric-ear-infections.md",
       "title": "Artificial intelligence model outperforms clinicians in diagnosing pediatric ear infections",
       "excerpt": "An artificial-intelligence (AI) model built at Mass Eye and Ear was shown to be significantly more accurate than doctors at diagnosing pediatric ear infections in the first head-to-head evaluation ...",
@@ -1031,152 +1160,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-this-woman-created-an-ai-system-to-monitor-her-cats-poop.md",
-      "title": "This Woman Created An AI System to Monitor Her Cat's Poop",
-      "excerpt": "She then took thousands of pictures of her cats pooping, and fed the pictures to a machine learning system so that it could differentiate between Teddy and Luna.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/cat-litter-robot-machine-learning-ai-raspberry-pi-poop-1849475626",
-      "originalUrl": "https://gizmodo.com/cat-litter-robot-machine-learning-ai-raspberry-pi-poop-1849475626",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/cat-litter-robot-machine-learning-ai-raspberry-pi-poop-1849475626/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/cat-litter-robot-machine-learning-ai-raspberry-pi-poop-1849475626/amp",
-      "publishedDateTime": "2022-08-30T14:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-artificial-intelligence-powered-by-google-helps-french-officials-tax-over-20000-undeclared-pools.md",
-      "title": "Artificial Intelligence powered by Google helps French officials tax over 20,000 undeclared pools",
-      "excerpt": "An unusual experiment allowed French tax officials to discover thousands of undeclared swimming pools by using artificial intelligence. More than 20,000 hidden pools generated nearly €10m (£8 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/world/artificial-intelligence-google-french-tax-undeclared-pools",
-      "originalUrl": "https://www.foxnews.com/world/artificial-intelligence-google-french-tax-undeclared-pools",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2019/09/23/1200/675/694940094001_6088542466001_6088555437001-vs.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/world/artificial-intelligence-google-french-tax-undeclared-pools.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/artificial-intelligence-google-french-tax-undeclared-pools.amp",
-      "publishedDateTime": "2022-08-30T13:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-will-transit-agencies-fight-or-yield-to-the-self-driving-revolution.md",
-      "title": "Will Transit Agencies Fight Or Yield To The Self-Driving Revolution?",
-      "excerpt": "Transit agencies resist solutions to transportation goals that are not transit. Should they have say over policy matters for their competition, and if not, how should policy be decided?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2022/08/30/will-transit-agencies-fight-or-yield-to-the-self-driving-revolution/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2022/08/30/will-transit-agencies-fight-or-yield-to-the-self-driving-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/630e6b2bb16ae3b08215ba24/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 898,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2022/08/30/will-transit-agencies-fight-or-yield-to-the-self-driving-revolution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/08/30/will-transit-agencies-fight-or-yield-to-the-self-driving-revolution/amp/",
-      "publishedDateTime": "2022-08-30T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

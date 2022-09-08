@@ -1,23 +1,28 @@
 ---
 category: news
 title: "Robots and artificial intelligence bring Nebraska $25 million"
-excerpt: "so why not get a robot and teach it artificial intelligence and computer vision, put that in the poultry barn and let that replace the human labor? So we start to see these identifying problems ..."
-publishedDateTime: 2022-09-03T05:36:00Z
-originalUrl: "https://www.wowt.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/"
-webUrl: "https://www.wowt.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/"
+excerpt: "Satellite data, parsed by artificial intelligence speaking to drones, connecting to robots, maintained by a newly trained workforce. That’s what helped a Nebraska group, Heartland Robotics ..."
+publishedDateTime: 2022-09-02T22:57:00Z
+originalUrl: "https://www.1011now.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/"
+webUrl: "https://www.1011now.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/"
+ampWebUrl: "https://www.1011now.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/?outputType=amp"
+cdnAmpWebUrl: "https://www-1011now-com.cdn.ampproject.org/c/s/www.1011now.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/?outputType=amp"
 type: article
-quality: 34
-heat: 34
-published: false
 
 provider:
-  name: WOWT
-  domain: wowt.com
+  name: 1011 Now
+  domain: 1011now.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "kDXSYsympVAhTerVYY6UtTBCcMKaFQoTZZrQmFfjMohqlH5Vozl/Uzqga3y9u1iqCmO05Mn0n0Ftl2YYMnrAdESGYK4QQertnLjbKww6mEsbO6/X1Y75Zq1DQIsKugICqFiesK7cEiTtX5KOt/mlIhifcPMVlm6tL0y3TNEso4dMs92/oGVT9hKLXT5DjD6p05Ys3yodN+yZgY+iJwDbajwEpXWvFdVdND8sEeIqLFRkTNMWGEkYAEQQMdx72uk4edvdeQ80XKjRe+qVaptQa4DG+mW2o6xm9/cwYeQY7sBhwFr0DY5cfzJK/dIflCtt6fKgIC+DUZHk3kIYo55sPjxClBvQ97WqgL0ZGwD/Kag=;639Hcal2dgJrRSHiHnTRLQ=="
+images:
+  - url: "https://gray-koln-prod.cdn.arcpublishing.com/resizer/Aa35YlfkCZA-SPi05Z4Cvux9fww=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/6KTCEMGQAFFENCLHGHL4DUHGHY.bmp"
+    width: 800
+    height: 450
+    isCached: true
+
+secured: "/WpM6Ut6p5MKjwmOkjqg3ifQXR7AKE/p8GMjqa9CE4k69t/3nvUkLVM0d4Ac1klqpRGOAvnyDdRnVZeKMo+TE2ufgH0kafrFAswTOY/4WIT0Gt5ARL9IounNc2y3IvLRY7/0nWZnZOZoBSGpMZKJtpJRUHyBkReAnBB6k2oYKAIIFAiJ3+8oDFNsfpO1rOzGnosTG4uiX4wKIk6CxMXwJHvhBj3Ret10ssgBKWffXzlmVPoOkTIWj6NPKyxxNXOwpshbN0dW8FS8dfdp1EogoEZ9goH1acoJymhTQ+18cQOXC8fbfqBVeVpjvlE43jb+N7t1R5dXTxNOfNXrMZ+HmNDWzRLf3RJ8iqkJNeR6FuE=;jBSsutodJP0N+Hk4wa5liA=="
 ---
 

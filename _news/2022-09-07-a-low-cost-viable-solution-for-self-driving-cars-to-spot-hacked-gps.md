@@ -19,20 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "5 Day Ikara Flinders Ranges hosted self-drive hiking and driving Adventure"
-    excerpt: "Experience jewels of the Flinders Ranges, meeting local people and the privilege of exclusive access to the properties and stories of station pastoralists and traditional owners. Enjoy the luxury of the best accommodation and dining in the region - Prairie Hotel x 2 nights and Gum Creek Station x 3 nights."
-    publishedDateTime: 2022-09-07T15:36:00Z
-    webUrl: "https://southaustralia.com/products/adelaide/tour/arabella-green/5-day-ikara-flinders-ranges-hosted-selfdrive-hiking-and-driving-adventure"
+  - title: "Why self-driving cars have stalled – video"
+    excerpt: "Fully fledged self-driving technology appears to be pepetually just around the corner, but it is still an open question whether self-driving automation is actually possible"
+    publishedDateTime: 2022-09-08T08:07:00Z
+    webUrl: "https://www.theguardian.com/technology/video/2022/sep/08/why-self-driving-cars-have-stalled-video?amp;amp;amp"
     type: article
     provider:
-      name: South Australia
-      domain: southaustralia.com
-    quality: 22
+      name: The Guardian
+      domain: theguardian.com
+    quality: 24
     images:
-      - url: "https://assets.atdw-online.com.au/images/7c2a51421cee213555511e989d67383b.jpeg?w=1100"
-        width: 1100
-        height: 825
+      - url: "https://i.guim.co.uk/img/media/4eb8f68eef3e0bf23713bf5722deb0d2a32ddcd7/60_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fc1dbc297355762ca7ae9e39d814c6ea"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "NC State researchers test safety benefits of self driving cars"
+    excerpt: "Hajbabaie is trying to slowly build up the idea that self-driving cars a way to a future with fewer crashes and fewer casualties."
+    publishedDateTime: 2022-09-03T19:38:00Z
+    webUrl: "https://www.cbs17.com/news/local-news/wake-county-news/nc-state-researchers-test-safety-benefits-of-self-driving-cars/"
+    type: article
+    provider:
+      name: cbs17.com
+      domain: cbs17.com
+    quality: 19
 
 secured: "1bsYx4oQL2oHnFDy481riTYMkYayu6Gacu+FXt48LxFgFgI9yr+tg3+SNzFO42ObNrZPtqsplc4y0ksNFiu7PH+uZ7oJnZoSQKKNYCYyM5wYzSXO6E4ONy+nWg8bbHqCUYvty1HLfA1pZr6SOhG65I28Uy4iDQv+59OFAGpZZPsBxz2xHjI9+MxY9OEUqRU0fLq0KgP8CBK+lz8bstXszsijIOQ1Ycf5HVu80CNeiFRlrZEoHismnB9ZbjUouZOLfxrUSMctO5CoA+DPhqNsBkCDrzKcKIAOLrkQuin5TxDmtrRF3Nqd4HTMv/emfvG/2U2wgLVHe2PLFQtozEOqO4eFvZy/JUFcXqCixQDRclwnAwk8vkL6qiaNxdmBrnwTc7abFa4SaKAw0fNmJIcxJn0g/aUUcibskwpbb8qHynlbf1NOmJalggB7KHADkRyh2BJqI3NG+SH6NDqKOfmVitIcbk//h/T2GrqahhlHYr8U0CA+F5SZ7ioCfeZ8A83ejtjPYQyT/o0u3tKSfaW2pQ==;IO2a7vaJKKOHqiw0lSlZfw=="
 ---

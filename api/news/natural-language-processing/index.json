@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-08-ai-and-ccaas-help-marshall-mclennan-and-mckesson-build-business-efficiencies.md",
+      "title": "AI And CCaaS Help Marshall McLennan And McKesson Build Business Efficiencies",
+      "excerpt": "Firms have a pressing need to enhance their digital sales and support solutions to address new customer demands. Businesses look to AI and CCaaS to support these efforts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/maribellopez/2022/09/08/ai-and-ccaas-help-marshall-mclennan-and-mckesson-build-business-efficiencies/",
+      "originalUrl": "https://www.forbes.com/sites/maribellopez/2022/09/08/ai-and-ccaas-help-marshall-mclennan-and-mckesson-build-business-efficiencies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6317bd9c58a90f2c25213eba/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/maribellopez/2022/09/08/ai-and-ccaas-help-marshall-mclennan-and-mckesson-build-business-efficiencies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2022/09/08/ai-and-ccaas-help-marshall-mclennan-and-mckesson-build-business-efficiencies/amp/",
+      "publishedDateTime": "2022-09-08T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-07-improve-transcription-accuracy-of-customer-agent-calls-with-custom-vocabulary-in-amazon-transcribe.md",
       "title": "Improve transcription accuracy of customer-agent calls with custom vocabulary in Amazon Transcribe",
       "excerpt": "Many AWS customers have been successfully using Amazon Transcribe to accurately, efficiently, and automatically convert their customer audio conversations to text, and extract actionable insights from them. These insights can help you continuously enhance the processes and products that directly improve",
@@ -1403,40 +1455,6 @@
         "Natural Language Processing",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-ai-powered-service-vidby-translates-zelenskyys-speeches-into-50-languages-denys-krasnikov.md",
-      "title": "AI-powered service Vidby translates Zelenskyy’s speeches into 50 languages – Denys Krasnikov",
-      "excerpt": "Meet Alexander Konovalov, Eugen von Rubenberg and Denys Krasnikov - the creators behind the unique machine video translation service called Vidby. Their online translation tool offers an unprecedented 99% translation accuracy - a result that as of now remains unmatched.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-8-23-ai-powered-service-vidby-translates-zelenskyys-speeches-into-50-languages-denys-krasnikov",
-      "originalUrl": "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-8-23-ai-powered-service-vidby-translates-zelenskyys-speeches-into-50-languages-denys-krasnikov",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Buffalo News",
-        "domain": "buffalonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],
