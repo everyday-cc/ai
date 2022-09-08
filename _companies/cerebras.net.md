@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "cerebrassystems"
   url: "https://twitter.com/cerebrassystems"
-  followers: 3651
+  followers: 3652
 
 size: 51-200 employees
 yearFounded: 2016
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=czfAzRWRjYE"
 
-secured: "necFvr2OloZsP6Uc0Ac7e6MG8+F4jW6fiso7OWOjENqI8MF5wngkW7Ae5cWBdxQ0es5kin5lgXJ7QTVsVvkeSxEqSLHi986FTJ7lMVFm11iYCd4LxqTLPyeUF1BrQM41bRsdirrBCplqysZgxFPxxkvsb1aep/frgo5GYQSQm1kjhEvuoXFea+FE7w8XOJ65vPfJbf58nAE3imvHA9nV3munPvhaMyPR2BHGTR9nlquh5pdsorcRa5m7+yGt01HPnjxTgRGPHpgBKt7s/pgi9hoTGRjZZM5G5DYGTRon281G5Uz0pjFZibpxU7F5Z+8g41j+S1RmiK6GXXPsz70jO/yc81y6f2OCpkSeVeN0mXisz3baeI/vSMblf3lgVaO4vPkqeEd7IrWK+RbxGwXZoj6ZnLym+J6IgtCW6JR8Smw=;xZeLb4gS6hhM6y4HGTVnhw=="
+secured: "/MgEoKGLY97oj7+mkGwbLUr75Txp96EPXRaMMVTo9unxCl9JffjmdiQ50LnVJ50Dta/1hQQixQrzh3RMjxox+eE+8B5rrnTDVz3Q4Ws3E43AmfBzrm/zS5S/qsXu2g6oAXC2h9kDbdJ7Aavo2jmP8ZiYJuNLpeuuN4O4ycytHTsXLjo9zY8xZ17ESpR2dQsCk9EMaleFNkw0/vumlPlB1rtYerJ2BmNYagx4vN4mKXWMeEoGyiNcpCKf36B9Hjb3lObw3cdbV0Ft9gNHgKtDsSylfjrjngZs/4WEGwv5AirbL3vCV7a32v87xU1RN41kaqEDgYExkut8NoIMO+6+CWQDdcy3iuxgu6+mBAU3EHTw35p/XBdQd0SvCKJlqzmb6PArbzFD0T/ae+NrOFbboKw3ZJzP6CB3hsd6YYpslcY=;yhyY/TgqPPkT+RMypZx7TA=="
 ---
 

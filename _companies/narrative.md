@@ -7,7 +7,7 @@ otherNames:
   - "Narrative Clip"
 overview: "Narrative is the company behind the Narrative Clip camera, a tiny camera and GPS that you clip on and wear. It’s an entirely new kind of digital camera with no controls. Instead, it automatically takes photos as you go. The Narrative app then seamlessly and effortlessly organizes them for you."
 type: "profile"
-heat: 64
+heat: 20
 
 website: http://getnarrative.com/
 
@@ -46,6 +46,6 @@ images:
     isCached: true
     title: "Narrative"
 
-secured: "2h0o/pG0IpCBSmbB2FjRvhdjE9hP5zSsPys7BbXnr351DhicdxRS+8Wn1K0d8lKts+xMzr7q4gXvna0sWeHJiS9k7bB1qoOnX0/8wKOQmXRCREDu1Z7RaS0qvx6AntRXyOTHUbfj4KRcdEAEfXqM/fTRAAg4q4O4hrTzScj8c8Vayp2qVMk+hNjpL7L+eMIb6IpeojNVZjY0UoUvdFBdY3SX2Z59ZE+uTUQDL3WAMVOpNHzuIvxyj1dikToyjcr96OUs4PVKqaQ1kNLrjB02gpwJ0gblh1Fp0RENzq8S/aTo6Xb88Mw8UBNebV4ewjcPSYStLrkVNpG3/4TpXUHN85EsgLurGZJ/4tLEJi1JGfKRDgPc7mUJpH5K/DxRRwiNNZTsrDpKL9/aUQa0ZjKGx7gMJqXcrgVGrtXzAJKAXdw=;2QK0w+YCXF4VFo/HIRoAWQ=="
+secured: "oSLff+QVEGGza+LujAOHxquUpEr+DkD1MnJj0q1bn92yEra5C2F1T9ekx0d6JPC5FINPhoQf4Uvas25SKIwpcgKjG8cDYA2rISdoCqQJDyrnPD5Gz0Lo1FZwMrTXcLt0VJ2uMziLu1gXeL9+BaQGOLhSiIFBtr6AqSbpf/cI6Z86soW+PNLbFGlt68HkTivsVgAn7KJfEJPrZA6ksnhs89WM+kD+PXbChRmZtXVvsUEl3jttiNBsUwrr4Fuacn0ySTHkHGblswLaJ1Lo2hCx/1edUwyYI1PMOoSNA8wprkiIAElfFsC3FLOYpoaYusPEp1IOUfXKoX7iJou95VPY1TgZltKc8Gv+YTgcfHqbiRf4p8XMtJZUu9awQR5fYQAvebIUD9n0aLM1byKX9e2LtmIgcRFf4U5lbfUrzHj9vw0=;cBhRZzdyB92k+Az4vIZ8Ww=="
 ---
 
