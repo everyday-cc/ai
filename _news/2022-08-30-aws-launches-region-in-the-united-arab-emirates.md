@@ -1,20 +1,20 @@
 ---
 category: news
 title: "AWS Launches Region in the United Arab Emirates"
-excerpt: "(NASDAQ: AMZN), today announced the launch of its second Region in the Middle East, the AWS Middle East (UAE) Region. Starting today, developers, startups, entrepreneurs, and enterprises, as well as government,"
-publishedDateTime: 2022-08-30T07:42:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-aws-launches-region-the-united-arab-emirates-/2022/08/30/9663810.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-aws-launches-region-the-united-arab-emirates-/2022/08/30/9663810.htm"
+excerpt: "AWS is committed to helping customers in the UAE deploy the most advanced cloud technologies and achieve the highest levels of security, availability, and resiliency,” said Prasad Kalyanaraman, vice president of Infrastructure Services at AWS."
+publishedDateTime: 2022-08-30T06:27:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-economy-amazoncom-inc-d9b9452aac444bf3821796b7f621f354"
+webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-economy-amazoncom-inc-d9b9452aac444bf3821796b7f621f354"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "UQEKFgmjlkrLXpEIu6y6VNGrjD0c3eJeXW19dSxCCDYmfZTJTNclhlqvJzMnzJ+glm1yJJOkKnGlZ7Smbs0sY4HtlgPAVfNdvWzVOdLNUCzSaaWVTv/dBTehNrKJMdnJBpc/QjQ/cBjCto0z/rWHQCI2wIFYCwaN7hh7EBv3o1eXP0DZ4vxrRNlPnKgxyHRdU5TSlxaYEn4i/WJmKgV4buBcZ5goBfqOQIK0CKSKOQdOYDv0GJzIevhMGas6CMtp+HCvq/fA53oI548lvPcAp9chbsA6lSw0ZLd8fzqeJjjtQt93MzM5LwQwP2Z0PJjmbopwMKqj4DdV0BZKV4bg3oyDom4W91yiU7Z4gmCIwt8=;47u+WcCmF+gW1VeFfgONDw=="
+secured: "W5a+NQEdQh53XuhaRqB96BIVIceS+MJ0Vq0mGov8/8goNGsrT/cQOyOxUcqG3YFGxoB9oA98FNByUY7WlmuLbU9mlt+FI1FwZBq128RoAVz7Lkm6aEV+ezDlgqgEG3mVAycXiLeO53jfO+GA5owvv7D5Tmvi0WCtfj42zdwkuQ2guEJZiwskHz248/fzm4R48umIrnAgMaq0+H6UEqEMCBJRjGfddQNJ3kRPiWKCVeO5qqfC7ddnSggy9LxI+2K1TD12O1zG0hGorLP9MBdx4PdK7egwjdjRTHl5f/0IRPSRd0PjPVlesmuZg2shkeogI6cqU4a1/uL1bTyBvMfG2nRiAwN5adu+KntGeXy5DB8=;Ptu2xmrAL4NLmBaRzDw/ZQ=="
 ---
 
