@@ -6,7 +6,7 @@ publishedDateTime: 2022-09-04T07:17:00Z
 originalUrl: "https://www.dynamitenews.com/story/health-researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour"
 webUrl: "https://www.dynamitenews.com/story/health-researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour"
 type: article
-quality: 45
+quality: 47
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.dynamitenews.com/images/2022/09/04/health-researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour/631450fc124d0.jpg"

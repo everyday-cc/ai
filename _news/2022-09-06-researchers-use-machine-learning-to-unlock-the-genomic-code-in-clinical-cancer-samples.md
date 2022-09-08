@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2022-09-machine-genomic-code-clinical
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-machine-genomic-code-clinical-cancer.amp"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Medical Xpress
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "University of Helsinki: Researchers use machine learning to unlock the genomic code in clinical cancer samples"
+    excerpt: "A new paper from University of Helsinki, published today on Nature Communications, suggests a method for accurately analysing genomics data in cancer archival biopsies. This tool uses machine learning"
+    publishedDateTime: 2022-09-08T04:09:00Z
+    webUrl: "https://indiaeducationdiary.in/university-of-helsinki-researchers-use-machine-learning-to-unlock-the-genomic-code-in-clinical-cancer-samples/"
+    ampWebUrl: "https://indiaeducationdiary.in/university-of-helsinki-researchers-use-machine-learning-to-unlock-the-genomic-code-in-clinical-cancer-samples/amp/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-helsinki-researchers-use-machine-learning-to-unlock-the-genomic-code-in-clinical-cancer-samples/amp/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2021/02/university-of-helsinki.png?fit=600%2C314&ssl=1"
+        width: 600
+        height: 314
+        isCached: true
   - title: "Finnish researchers use machine learning to unlock clinical cancer samples’ genomic code"
     excerpt: "A new paper from the University of Helsinki, published in Nature Communications, suggests a method for accurately analyzing genomics data in archival cancer biopsies. The tool uses machine learning methods to correct damaged DNA and unveil the true mutation processes in tumor samples."
     publishedDateTime: 2022-09-06T14:47:00Z

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-08-majid-al-futtaim-retail-forms-a-strategic-partnership-with-microsoft-to-transform-its-finance-operations.md",
+      "title": "Majid Al Futtaim Retail Forms a Strategic Partnership With Microsoft To Transform Its Finance Operations",
+      "excerpt": "Microsoft today announced that Majid Al Futtaim Retail – operator of the Carrefour retail brand across 16 countries in the Middle East, Africa and Asia",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/pr/majid-al-futtaim-retail-forms-strategic-partnership-microsoft-transform-its-finance",
+      "originalUrl": "https://www.albawaba.com/business/pr/majid-al-futtaim-retail-forms-strategic-partnership-microsoft-transform-its-finance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2022-09/Rahul%20Bahndari%20Official%20Web%20Photo%20%281mb%29.jpg?itok=ZsBRcibc",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/majid-al-futtaim-retail-forms-strategic-partnership-microsoft-transform-its-finance",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/majid-al-futtaim-retail-forms-strategic-partnership-microsoft-transform-its-finance",
+      "publishedDateTime": "2022-09-08T01:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-09-02-liquidnet-emea-business-development-head-departs-for-ai-fintech-imandra.md",
       "title": "Liquidnet EMEA business development head departs for AI fintech Imandra",
       "excerpt": "Liquidnet’s former head of business development for EMEA has left the firm to join artificial intelligence (AI) fintech Imandra in a similar role, The TRADE can reveal. Dan Squires has been appointed as a vice president of sales at Imandra after spending ...",
@@ -1270,40 +1314,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-nigeria-india-to-partner-in-fintech-ai-scientific-development-solar-energy-envoy.md",
-      "title": "Nigeria, India to partner in fintech, AI, scientific development, solar energy – Envoy",
-      "excerpt": "including fintech, artificial intelligence, scientific development and solar energy. Speaking during the 76th independence day of India in Abuja, Balasubramanian also said that they were new areas ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sunnewsonline.com/nigeria-india-to-partner-in-fintech-ai-scientific-development-solar-energy-envoy/",
-      "originalUrl": "https://www.sunnewsonline.com/nigeria-india-to-partner-in-fintech-ai-scientific-development-solar-energy-envoy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-15T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sun",
-        "domain": "sunnewsonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

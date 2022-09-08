@@ -39,20 +39,6 @@ related:
         width: 2048
         height: 1812
         isCached: true
-  - title: "Face biometrics providers considering expansion and tough questions"
-    excerpt: "Biometrics are reaching a crucial point in the adoption curve, with new research forecasting that people are ready to use biometric technologies."
-    publishedDateTime: 2022-09-03T15:29:00Z
-    webUrl: "https://www.biometricupdate.com/202209/face-biometrics-providers-considering-expansion-and-tough-questions"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/01142748/panasonic-facial-recognition-payment.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
   - title: "Australian state contracts Unisys to deploy iris and face biometrics in prisons for $12.8M"
     excerpt: "The new system will replace existing touch devices with multimodal contactless scanners able to capture and process iris and face biometrics simultaneously."
     publishedDateTime: 2022-09-07T18:33:00Z

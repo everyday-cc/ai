@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/loab-the-creepy-ai-art-generate
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/loab-the-creepy-ai-art-generated-woman-explained/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -39,7 +39,21 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Meet Loab: The Terrifying Face The Internet Has Dubbed the First AI Art Cryptid"
+    excerpt: "An AI art enthusiast has apparently stumbled across a creepy, recurring image – now known as Loab – which appears to be more easily generated than you'd ever expect (or want). The Internet has now dubbed Loab the first AI art cryptid."
+    publishedDateTime: 2022-09-07T13:17:00Z
+    webUrl: "https://www.ign.com/articles/loab-first-ai-art-cryptid"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 35
+    images:
+      - url: "https://assets-prd.ignimgs.com/2022/09/07/thumbnail-1662560482528.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
 
-secured: "LMduf1OITRAK0h4fw8TQ3pggKRbN3Tpn1lzTcem1GJNn0WHofqo85L6K6Xls9MJG8GectPjVtqATjSI/GgjholoEcZv2Cec/zmxr337GjaU3ZVOnu8w0gDKLCCu4BCXrYKTR0n96AP4f95OjIdFBu2wZ/xtzQkK8wIYklGWNy/zCjx5DTCzW5qeouQM4v9nlqLGh6K7Vak9W1PMVnYPM88NLJEDnDmrqBxiDQ0G1aTIgYaP6CzxfTX+7sjSM3FLgMB0Y5rXXy1QvUMQ2WXnhDuOEbkVUR6fZ2vHVHs/eH0XfpyNDNMmbrTh5A5jbHEMc7pewLhbbpyMuUfcEUyunj0k6cG21XXj+RavDEorO+9I=;FI7hYsWZmLz67GiA4CrkQg=="
+secured: "5ncXDYxTbuja6nobww/TvfZx9f7ux0Fg2XpG6i5KYe2WN6PJa2lQBxQE19Vt6J4Zo3idNgXec9lRwoNdmVWfUhxNhbJ9DSwjJCi3V3miyiZaR9zjETvt93iV7dYl86KTv0k+CNX9cvxp//ZPztz7rD1rkV4TOYWYe12sixNOqzThJBHBrc7xNnrOZdA9/WyKYQwN3QEwW18Ymp7mALrTY3Tc7sK/bZhxMoHzouyFjmk6M+Y3reqdsHPjGRFkbVfSgftIUYWSWpI6JRVtyh/070VlDQyTiIxqOrdwhlk8HWMm61yYcOkumxKfVGYaGVipz3sSynpcVkLERHpQdp8h3L24H9Y9mibVF8BfaVMuSpm87mDaLoA8Pa+q/rOoYbJ5ii+rFCDrYwhdjJtO53hMO12rJGS1R77EZVEgPKjfjhd8j2xGCJLNwO/bYghYSBiboFowYG0vWXAknAwkeDUlClj7TUkJC5nxsUVCav7rEj0WWWfWinbG7OLpNMa0zRJF716BqtJyt/xJzs8zRPMjpw==;WrPmkppaU4/GprOXlf8YXw=="
 ---
 

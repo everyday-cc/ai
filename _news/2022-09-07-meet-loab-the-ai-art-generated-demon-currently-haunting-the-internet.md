@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Meet Loab: The Terrifying Face The Internet Has Dubbed the First AI Art Cryptid"
+    excerpt: "An AI art enthusiast has apparently stumbled across a creepy, recurring image – now known as Loab – which appears to be more easily generated than you'd ever expect (or want). The Internet has now dubbed Loab the first AI art cryptid."
+    publishedDateTime: 2022-09-07T13:17:00Z
+    webUrl: "https://www.ign.com/articles/loab-first-ai-art-cryptid"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 35
+    images:
+      - url: "https://assets-prd.ignimgs.com/2022/09/07/thumbnail-1662560482528.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "TUOhVsvyDQNmJa6L3j3bTD7WWTc7f+T7Lw8wa7E6WYDFN1YFD9VyGUPQHDJ/bMyN//iJHSiNq0zRVuMP6I0D2vpHO6S/lOW4CpY0K+gzFs07EgS+4RfJXqeua5DcKVMIfU1I2wI6Wudkwkm7lj37y1DhvZLqGSYC/VhPDtDTbYVWNwppwiE9yNzyqwjKRb4lJZoWBRK2dYoIUmXuyxhBAz8kRljQOsU3FxWqLaCaD7FJqu/SAbY4n1lRR/1kwDPX01H0NmKLz7cxrJafLh4H1wmYgQ/HKB+jooEhYLMiUxFoVp3KDkJW1VW5nxegqWDPeDjwiJGUOVqtpxle9kFxoIGCz5vOQHZhWxoqiAN7vItq1w9riHlrOLH1MOFuFMvZ4t1/TLtrf6LLnMgzbSf8qD7Qm+S7n1CPib/QhsA6N03j+fz+O5A0evh2/IjLOmaSzd+KKmRVJHRtWx3mvSQwHUnqeupIU7NAd6zGEs+71fV/Xi7EZKfb9ur2unykWCqboiARqVZBL5pbRWDrAVaJoQ==;cLcKrs8Z8Wxy4nH6csTmOA=="
 ---

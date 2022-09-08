@@ -82,7 +82,7 @@ related:
     provider:
       name: Dynamite News
       domain: dynamitenews.com
-    quality: 45
+    quality: 47
     images:
       - url: "https://www.dynamitenews.com/images/2022/09/04/health-researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour/631450fc124d0.jpg"
         width: 800

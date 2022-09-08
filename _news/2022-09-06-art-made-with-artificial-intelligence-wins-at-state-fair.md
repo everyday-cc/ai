@@ -7,7 +7,7 @@ originalUrl: "https://www.smithsonianmag.com/smart-news/artificial-intelligence-
 webUrl: "https://www.smithsonianmag.com/smart-news/artificial-intelligence-art-wins-colorado-state-fair-180980703/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 920
     height: 611
     isCached: true
-
-related:
-  - title: "Colorado State Fair Competition Names An Unlikely Winner: AI-Made Artwork"
-    excerpt: "The piece saw a storm of criticism this week as onlookers debated the use of artificial intelligence in the arts."
-    publishedDateTime: 2022-09-03T15:20:00Z
-    webUrl: "https://www.huffpost.com/entry/colorado-state-fair-ai-art_n_63106fc4e4b063d5e621ef1a"
-    ampWebUrl: "https://www.huffpost.com/entry/colorado-state-fair-ai-art_n_63106fc4e4b063d5e621ef1a/amp"
-    cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/colorado-state-fair-ai-art_n_63106fc4e4b063d5e621ef1a/amp"
-    type: article
-    provider:
-      name: HuffPost
-      domain: huffpost.com
-    quality: 86
-    images:
-      - url: "https://img.huffingtonpost.com/asset/6312c3a32300001c00b7ea48.jpg?cache=Ya4ddTpBVY&ops=1200_630"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "xyBFuckS35qiuRoP962Sm9Pha/egkBqwW4CkAZ4exmt/dRT4L7ApDHx0YlfFEcEr2dYjjkUhGFEmU4Z+yK+myI8aJs00dTj/Ng88je5ZwIHJIgVRWpSoacLcNBhe8zi0UsucIEC0t+Cm6TkYL0txyV49CzKsGStNzbdJ8l1opgIVDsl9vh8UDUZmyWdhgp7O9Nyy8peR/tNCadSHTyP3M/QMw4R34dSLLNh9ieVJZelF6FkqHDrau765/vPk0TFSj/Flc+ynIFHNSm8mPRravyRd09U7rFsD43N4eXDz/IsJ6FGxVNqrVr+iOr43nXaq9/nlh+T8ofozTIq4ECvs4OVLi1Tk4iu13qtjX4qz5rcXG0NgujN80D0SZITJxwpswVW4OYmmt84llnkE0OsTllLRCklNVij/4aW0UxTTe9qZuVND2qZ6cDcC2Ko+bjZISP7Jrbe3jlRpNpmlJxhf6C+J1JCQtdUjQ1F8k3U9mLN8Y4+45L2DVlr3xIbuzYQT3hic2moN2SegkPDLp2WiJQ==;jt0f1ZmMXjExg8iS1Ttidw=="
 ---
