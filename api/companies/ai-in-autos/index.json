@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 16850896
+        "followers": 16851139
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -40,7 +40,7 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 578,
+      "heat": 577,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_400x400.png",
@@ -79,7 +79,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 98886
+        "followers": 98888
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -96,7 +96,7 @@
         "AI Hardware",
         "Computer Vision"
       ],
-      "heat": 232,
+      "heat": 231,
       "tags": [
         "Autonomous Vehicles",
         "Image Recognition"
@@ -135,7 +135,7 @@
       "twitter": {
         "username": "Uber",
         "url": "https://twitter.com/Uber",
-        "followers": 1088130
+        "followers": 1088119
       },
       "yearFounded": 0,
       "locations": [
@@ -181,7 +181,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 75528
+        "followers": 75530
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
@@ -234,7 +234,7 @@
       "twitter": {
         "username": "argoai",
         "url": "https://twitter.com/argoai",
-        "followers": 9485
+        "followers": 9484
       },
       "size": "501-1,000 employees",
       "yearFounded": 2016,
@@ -551,7 +551,7 @@
       "twitter": {
         "username": "StarshipRobots",
         "url": "https://twitter.com/StarshipRobots",
-        "followers": 12571
+        "followers": 12572
       },
       "size": "201-500 employees",
       "yearFounded": 2014,
