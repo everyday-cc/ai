@@ -1,24 +1,30 @@
 ---
 category: news
-title: "U.S. startup SiMa.ai starts shipping machine learning chip and system"
-excerpt: "Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management & Research Company, said on Tuesday it started shipping chips and systems to customers that are testing them, an important step for mass production. We apologize ..."
-publishedDateTime: 2022-08-30T13:24:00Z
-originalUrl: "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system"
-webUrl: "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system"
-ampWebUrl: "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system/wcm/d3b033f1-d689-4d7b-bd86-a55744e847fe/amp/"
-cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system/wcm/d3b033f1-d689-4d7b-bd86-a55744e847fe/amp/"
+title: "U.S. Startup SiMa.ai Starts Shipping Machine Learning Chip And System"
+excerpt: "industrial robots, and eventually self-driving cars in, San Jose, California, U.S., in this undated handout photo. Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity ..."
+publishedDateTime: 2022-08-30T16:39:00Z
+originalUrl: "https://www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305"
+webUrl: "https://www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305"
+ampWebUrl: "https://www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/us-startup-simaai-starts-shipping-machine-learning-chip-system-3607305?amp=1"
 type: article
 
 provider:
-  name: Financial Post
-  domain: financialpost.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
-  - AI in Finance
+  - AI in Robotics
   - AI
   - Machine Learning
   - AI Hardware
 
-secured: "aZPa0B2BmlUn7jb/K82X/RyddUWt8RwGqZI8sI7s6LMGvNNXOCdJOvKSezwer2dd+g96peBjmtEp/3cmAMpP6n+T+UGNmP59uGDtcMrNdLxjMx0G+AcrMQfVAxJqpDic7EluAw02KqvJ8J8/ELspRVkuzBiCguI9werDQkabfpkZGBFdUYfVeGbKBMqxher77dV6sBYXpUDGU6I0Pdo6OUIrj+j5NzkNR5/IdtSFIHEuF2MwTcaZ1g7tJ/nbeDilbdBB2TbKCZOAlKlPHv0ak3X1phb4EFUxioOGS1OFLOTYCcXQnAEzyJFcqZ7o+Sn9oL4Bc3vBIPF/TxUsSKUz5+lPH5hrrUnTuj7nU7I+QFs=;fWun/kBrXCMEt8WxQUPjzw=="
+images:
+  - url: "https://d.ibtimes.com/en/full/3810267/us-startup-simaai-starts-shipping-machine-learning-chip-system.jpg"
+    width: 1200
+    height: 798
+    isCached: true
+
+secured: "1bvABGm+hIyzqS/+hQTX0Y7TTnthMraFkShdlLlQ18c2rZpYVZoM2HB9uP6lJ+3FVZQEwwU5f26aY32/KPCsZ+fMU0XH1ODm0pIkMpSE3jZ4x8hRh6cVhQUVfzjbN7DtpwvcAU/P5XWCBime3v19+njUH6ChxucWCtvfRz05ABYitTSvTxYwgkhXBp++Ap+KB4IihyB2hqz11h5vj6gzEZrH6UYjbIFIQ1h1EhyA1h8W4K22XgbQ3pn1sZ77JXmOwwVgw3rm/fLzlYH+nWNm7iKhhGfak9jaWJEuOd+PacpmxOh9rB99EFRCQZPKTz6G8z2j32zusk4MA6FMLmyCMl/kS7tMu8IdABbinGbLaUU=;/70dVzKeuCl0yZCnhiOWmA=="
 ---
 

@@ -1,27 +1,29 @@
 ---
 category: news
-title: "State Senate Passes Bill That Could Ban Tesla’s ‘Full Self-Driving’"
-excerpt: "The misleading term is being challenged by California lawmakers, who recently passed a bill in the Senate that could ban the software's name. According to the LA Times, the California Department of Motor Vehicles’ rules don’t allow the advertisement of cars as “self-driving” if they do not have the capability."
-publishedDateTime: 2022-09-06T14:32:00Z
-originalUrl: "https://www.manufacturing.net/video/video/22431745/state-senate-passes-bill-that-could-ban-teslas-full-selfdriving"
-webUrl: "https://www.manufacturing.net/video/video/22431745/state-senate-passes-bill-that-could-ban-teslas-full-selfdriving"
+title: "Tesla’s ‘full self-driving’ isn’t worth $15,000, say many who bought it"
+excerpt: "Some Tesla owners who paid far less for an earlier version of the “full self-driving” software that now retails for $15,000 caution that the new price does not make sense for most"
+publishedDateTime: 2022-09-07T21:04:00Z
+originalUrl: "https://www.dailynews.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/"
+webUrl: "https://www.dailynews.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/"
+ampWebUrl: "https://www.dailynews.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/amp/"
+cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/amp/"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Manufacturing
-  domain: manufacturing.net
+  name: Los Angeles Daily News
+  domain: dailynews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/09/MM1152.631753961cc6f.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-    width: 1200
-    height: 675
+  - url: "https://www.dailynews.com/wp-content/uploads/2022/09/hypatia-h_f83a5bee143b3b89282e5807cb1c97e9-h_c8f834e95ae4db3b0c1cf5aa23866cd0.jpg?w=1024&h=1024"
+    width: 1024
+    height: 1024
     isCached: true
 
 related:
@@ -57,22 +59,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Tesla’s ‘full self-driving’ isn’t worth $15,000, say many who bought it"
-    excerpt: "Some Tesla owners who paid far less for an earlier version of the “full self-driving” software that now retails for $15,000 caution that the new price does not make sense for most"
-    publishedDateTime: 2022-09-07T21:04:00Z
-    webUrl: "https://www.dailynews.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/"
-    ampWebUrl: "https://www.dailynews.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/amp/"
-    type: article
-    provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 59
-    images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2022/09/hypatia-h_f83a5bee143b3b89282e5807cb1c97e9-h_c8f834e95ae4db3b0c1cf5aa23866cd0.jpg?w=1024&h=1024"
-        width: 1024
-        height: 1024
-        isCached: true
   - title: "Tesla Enhanced Autopilot vs Full Self Driving: which one should you buy?"
     excerpt: "Teslas are also capable of coming with Enhanced Autopilot and Full Self Driving. By parting with several thousand dollars, you can ensure your car can do more things without (much"
     publishedDateTime: 2022-09-06T07:00:00Z
@@ -87,7 +73,21 @@ related:
         width: 1200
         height: 638
         isCached: true
+  - title: "State Senate Passes Bill That Could Ban Tesla’s ‘Full Self-Driving’"
+    excerpt: "The misleading term is being challenged by California lawmakers, who recently passed a bill in the Senate that could ban the software's name. According to the LA Times, the California Department of Motor Vehicles’ rules don’t allow the advertisement of cars as “self-driving” if they do not have the capability."
+    publishedDateTime: 2022-09-06T14:32:00Z
+    webUrl: "https://www.manufacturing.net/video/video/22431745/state-senate-passes-bill-that-could-ban-teslas-full-selfdriving"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 39
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/09/MM1152.631753961cc6f.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "7jvy0dKIRTiZE3e3eOVwV3Z1eTvv4SYqLgX8djD6auDy+uvcqLC0wiLfVMqdUXQ7mNPNwAaN2Nq+o6prcf6ERL4zZbx0sIvnMevUDvy2gByAgaJqNAEb2XAamTAaRap+zMB0j1olAaATtGoE0iZJiLe92wJleYejkx2tgajEF+lznu8W/QfCxvRUIDXNhL57elLfra95wkDWfKReZBPaQGkavkA5tHLXPH9FnzXbUkjnfb6149CZGOXTQ7DlI+/P/am++t8KV0sE8ZsaqTc+D60RM46e89fQ8GzTmdARYWr0+lVFk35vCd7m0KzcusM0CVLU+1qtNe7IH4kwdLHqWfWJ/q46eOVDZ2CDehumIuz/qJXiSlGeI4/bjuRHTngejJmST4Vh8wha6nLtaOXRQcYUBGxFS8vmsUsQnBzjdXnnMt+jLToUUgTDspLTXQmzcTvArADKhvXGsORsTB5oBI3TpvW9uw8DZ2DDc1VfuS2uNAdVdgqQ/k0q57LtvPmDMjP892aSZIQdyOyoQP/X5g==;Sziry9dwF4+Bn5jlcoIjeA=="
+secured: "o9tcoHL1qhSvmeV3/QCb7//qg+OdydwTmibC99Po9qvsGwIFzzusakljcE4MX+fhZZiy5D/N8AA1BYdFdPlAL2hrKqpiQT98oEHbbaMmmRznDjP8OPnCq6AQbWY2nuK9H+Ri87g9Heqxp7HGGYSPkublpAEWEGhnBfYSSPfO35HNERPIwtX1EScEoVecPZtTLOSZRpP1jBbpItpItQ5OYjm7a8narcBdd1izqGYN5R7nW/sIfcyXKCXSdVMskyQvQqXYoPY0+iOt8LvZxi85eZjtPu4GokL+XxHsmv7W2ki+7l+NLcCzgwXMg1NcTGWwCwxAHWLmPZGboA7zdbl0iPoxoiDMMCytFzl8/BBuwAk=;spjEYBKMgjJoqqApZcIBaA=="
 ---
 

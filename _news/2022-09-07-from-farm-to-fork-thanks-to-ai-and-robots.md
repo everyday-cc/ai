@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/from-farm-to-fork
 cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/from-farm-to-fork-thanks-to-ai-and-robots/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 740
     height: 495
     isCached: true
-
-related:
-  - title: "Can we use maths to beat the robots?"
-    excerpt: "However it’ll require changes in how we think about and teach maths and we may still have to leave the simple adding up to the computers. Junaid Mubeen, author of Mathematical Intelligence, tells Tim Harford what it’ll take to stay ahead of the machines."
-    publishedDateTime: 2022-09-03T05:28:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/p0cy2fnr"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 71
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p0cy2fwx.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "44bJstXyqSmzqyynqQ2PMRZm/LVO5GNaG8dJwRi/xpwLqc5oxdCxu23JAvHO+e/6AvNyTGumz4YSdzQZlg1q8D0aVptE7f+BiiOol3eH0qKruCle6P2pcNLOQbJLqfkDPtuRLaPauuPhAsD6m46PI+le2dGhdpneDPDpyH+g0GlO2/VoFbFGlhIKkzBdFqGSe+hbq53C2vnFoRdyhukCW8OxgcNk+tQlj+SdU6PESabHm6tOvw4K+6lJGjG5fkcqiYBGLtMQaIbe48J7vQueU389wTRX6D2NUQ/1LsfnlyMaDQRzBUrsIR439Mp8R7k0WBD2gjbe7z4FJnmHXEjS8eOGm0R8Efw4jRCvA/aW08fez2HhULQxi4kCfvkEwP6/wZ+PvGZQOSXdQZv9QB7tcUrRN0ENdzJntcT4U+nE0guu/V0H0oGLNha8N3YfrNmMTSgTzPemunyMWxGChGPwBwOFPz2c/vHV+ucG4zNaqNbuOHALEtzBguELOrrIrA0r+MmESKrdyh7USpCwfEoYnQ==;lf1hV9SZuZXHR3nn4WZ3fA=="
 ---

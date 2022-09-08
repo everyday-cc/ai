@@ -9,7 +9,7 @@ ampWebUrl: "https://m.rediff.com/amp/business/report/tech-should-you-worry-about
 cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/business/report/tech-should-you-worry-about-the-new-face-recognition-system-at-airports/20220906.htm"
 type: article
 quality: 74
-heat: 76
+heat: 74
 published: true
 
 provider:
