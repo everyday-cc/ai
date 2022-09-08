@@ -36,6 +36,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
+    excerpt: "New Jersey, NJ -- (SBWIRE) -- 09/03/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ..."
+    publishedDateTime: 2022-09-04T00:02:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-50"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 48
+    images:
+      - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Where Will Microsoft Stock Be In 5 Years?"
     excerpt: "I expect Microsoft to grow its top line by a low-to-mid teens percentage CAGR in the coming five years. Read more to see the 5-year outlook for MSFT stock."
     publishedDateTime: 2022-09-06T15:34:00Z

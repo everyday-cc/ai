@@ -9,7 +9,7 @@ ampWebUrl: "https://sea.mashable.com/tech/21298/ai-generated-painting-wins-art-a
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/21298/ai-generated-painting-wins-art-award-but-everyone-else-is-super-pissed?amp=1"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "A man won an art competition in Colorado using AI-generated art, prompting a debate over what art is"
-    excerpt: "A man used an artificial intelligence program called Midjourney to create artwork that won a blue ribbon for digital art at the Colorado State Fair."
-    publishedDateTime: 2022-09-03T11:03:00Z
-    webUrl: "https://www.businessinsider.com/ai-art-wins-competition-angering-artists-2022-9"
-    ampWebUrl: "https://www.businessinsider.com/ai-art-wins-competition-angering-artists-2022-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-art-wins-competition-angering-artists-2022-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
-    images:
-      - url: "https://i.insider.com/63126efd023509001aecc5f0?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "AI-generated art photography is here, but it’s not going to replace your camera"
     excerpt: "AI-generated art is here for photography, but is it up to the task of replicating real photos? We take a dive into some AI generators."
     publishedDateTime: 2022-09-07T12:42:00Z

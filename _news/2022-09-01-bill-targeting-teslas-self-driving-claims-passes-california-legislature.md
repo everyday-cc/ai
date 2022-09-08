@@ -1,147 +1,28 @@
 ---
 category: news
-title: "Bill targeting Tesla's 'self-driving' claims passes California Legislature"
-excerpt: "Tired of waiting for the DMV to act on what they see as a serious matter of public safety, California lawmakers took the matter into their own hands."
-publishedDateTime: 2022-08-31T20:28:00Z
-originalUrl: "https://www.aol.com/news/bill-targeting-teslas-self-driving-172843729.html"
-webUrl: "https://www.aol.com/news/bill-targeting-teslas-self-driving-172843729.html"
+title: "Bill targeting Tesla’s ‘self-driving’ claims passes California Legislature"
+excerpt: "Since 2016, Tesla has been marketing an expensive option called Full Self-Driving. A reasonable person might infer from the name that the software package enables a car to drive itself ..."
+publishedDateTime: 2022-08-31T17:51:00Z
+originalUrl: "https://www.latimes.com/business/story/2022-08-31/newly-passed-bill-could-force-tesla-to-scrap-the-name-full-self-driving-in-california"
+webUrl: "https://www.latimes.com/business/story/2022-08-31/newly-passed-bill-could-force-tesla-to-scrap-the-name-full-self-driving-in-california"
+ampWebUrl: "https://www.latimes.com/business/story/2022-08-31/newly-passed-bill-could-force-tesla-to-scrap-the-name-full-self-driving-in-california?_amp=true"
+cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2022-08-31/newly-passed-bill-could-force-tesla-to-scrap-the-name-full-self-driving-in-california?_amp=true"
 type: article
-quality: 52
-heat: -1
-published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: Los Angeles Times
+  domain: latimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s.yimg.com/uu/api/res/1.2/A04Icjb83SH.MLctRI1XKg--~B/aD01NjA7dz04NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/aol_la_times_articles_830/95ce4b9bc18a14620ae6317c323faae9"
-    width: 840
-    height: 560
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/b698c82/2147483647/strip/true/crop/3200x2140+0+26/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fba%2Fcc%2F02d0ba704662ba87ce415205da81%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1233948446"
+    width: 320
+    height: 214
     isCached: true
 
-related:
-  - title: "California Passes Bill Targeting Tesla’s Self-Driving Claims"
-    excerpt: "The California Department of Motor Vehicles has rules banning the advertisement of cars as self-driving when they are not, but it has not enforced them. Now, the Legislature is making it a state law."
-    publishedDateTime: 2022-09-01T16:27:00Z
-    webUrl: "https://www.govtech.com/policy/california-passes-bill-targeting-teslas-self-driving-claims"
-    ampWebUrl: "https://www.govtech.com/policy/california-passes-bill-targeting-teslas-self-driving-claims?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/california-passes-bill-targeting-teslas-self-driving-claims?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 74
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/b0d6788/2147483647/strip/true/crop/1170x610+0+85/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Faf%2F77%2Ffd83a96ca726f6eeeac47c572fba%2Fsacramento-dkidd.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "California Has a Bill to Go After Tesla’s Self-Driving Claims"
-    excerpt: "Lawmakers in California are targeting Tesla’s self-driving claims with a new false advertising bill, VW’s next boss says the firm must speed up its switch to electric vehicles, and GM recalls its autonomous Cruise cars."
-    publishedDateTime: 2022-09-01T14:43:00Z
-    webUrl: "https://jalopnik.com/california-has-a-bill-to-go-after-tesla-s-self-driving-1849484108"
-    ampWebUrl: "https://jalopnik.com/california-has-a-bill-to-go-after-tesla-s-self-driving-1849484108/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/california-has-a-bill-to-go-after-tesla-s-self-driving-1849484108/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 54
-  - title: "TSLA Stock Can Go to $500 if Musk Delivers on 2022 Full Self-Driving"
-    excerpt: "Apparently, Tesla’s full self-driving (FSD) feature will soon cost more. Not everyone will appreciate this announcement, but a potential revenue increase could boost TSLA stock. Is it breaking news anymore to say that Musk said or wrote something divisive?"
-    publishedDateTime: 2022-09-03T08:01:00Z
-    webUrl: "https://www.nasdaq.com/articles/tsla-stock-can-go-to-%24500-if-musk-delivers-on-2022-full-self-driving"
-    ampWebUrl: "https://www.nasdaq.com/articles/tsla-stock-can-go-to-$500-if-musk-delivers-on-2022-full-self-driving?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tsla-stock-can-go-to-$500-if-musk-delivers-on-2022-full-self-driving?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-  - title: "California Legislature Passes Law That Would Force Tesla to Change Name of Full Self-Driving"
-    excerpt: "Following a complaint filed by the DMV calling FSD's name misleading, California lawmakers have passed a law that would force Tesla to drop the title."
-    publishedDateTime: 2022-09-02T23:22:00Z
-    webUrl: "https://futurism.com/the-byte/california-legislature-law-full-self-driving"
-    ampWebUrl: "https://futurism.com/california-legislature-law-full-self-driving?amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/california-legislature-law-full-self-driving?amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 48
-    images:
-      - url: "https://wp-assets.futurism.com/2022/09/california-legislature-law-full-self-driving-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "General Motors' Cruise recalls 80 self-driving vehicles owing to a crash"
-    excerpt: "General Motors' startup unit Cruise LLC said on Thursday that it has recalled and updated software in 80 self-driving vehicles owing to a June crash in San Francisco that left two people injured. The National Highway Traffic Safety Administration (NHTSA) said the recalled software could,"
-    publishedDateTime: 2022-09-01T23:43:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/cars/general-motors-cruise-recalls-80-self-driving-vehicles-owing-to-a-crash-41662033142533.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/general-motors-cruise-recalls-80-self-driving-vehicles-owing-to-a-crash/amp-41662033142533.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/general-motors-cruise-recalls-80-self-driving-vehicles-owing-to-a-crash/amp-41662033142533.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 43
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2022/09/01/1600x900/2020-05-14T200545Z_2106968023_RC2KOG9FKP3Q_RTRMADP_3_GM-AUTONOMOUS-LAYOFFS_1589863619313_1662034152119_1662034152119.JPG"
-        width: 1599
-        height: 900
-        isCached: true
-  - title: "GM’s Cruise recalls 80 self-driving EVs citing collision risks when turning"
-    excerpt: "General Motors’ self-driving rideshare service Cruise announced that it has recalled 80 of its electric robotaxis in order to update their software following an accident in June that injured two people."
-    publishedDateTime: 2022-09-02T18:33:00Z
-    webUrl: "https://electrek.co/2022/09/02/gms-cruise-recalls-80-self-driving-evs-citing-collision-risks/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 32
-  - title: "Downtown roads newly opened for self-driving vehicle testing"
-    excerpt: "Shanghai has opened downtown roads for self-driving testing in a boost to the burgeoning industry. The Jinqiao Intelligent Connected Vehicle (ICV) Testing Demonstration Zone in the Pudong New Area was officially launched as a highlight of the  (WAIC),"
-    publishedDateTime: 2022-09-01T06:52:00Z
-    webUrl: "https://www.shine.cn/news/metro/2209019934/"
-    type: article
-    provider:
-      name: SHINE
-      domain: shine.cn
-    quality: 24
-    images:
-      - url: "https://obj.shine.cn/files/2022/09/01/833c45a6-76bb-4725-a46d-0428a6926dcd_0.gif"
-        width: 500
-        height: 282
-        isCached: true
-  - title: "Cruise updates its fleet's self-driving software after crash"
-    excerpt: "Autonomous vehicle upstart Cruise has recalled and updated software in 80 self-driving robotaxis, according to a regulatory filing. Read more."
-    publishedDateTime: 2022-09-01T17:30:00Z
-    webUrl: "https://seekingalpha.com/news/3879474-cruise-updates-its-fleets-self-driving-software-after-crash"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 24
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/971998294/image_971998294.jpg?io=getty-c-w750"
-        width: 750
-        height: 503
-        isCached: true
-  - title: "California Targets Tesla ‘Full Self-Driving’ With Newly Passed Bill"
-    excerpt: "A newly passed bill looks to hold automakers accountable for how they name and market partially-automated driving features."
-    publishedDateTime: 2022-09-01T19:27:00Z
-    webUrl: "https://www.thedrive.com/news/california-targets-tesla-full-self-driving-with-newly-passed-bill"
-    type: article
-    provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 19
-
-secured: "/obPSAQa1sC4jh1qDQC14qaMn9mqQeGr6RRceRaI0THIzi/+J8V52Bg0WITMaCaGpzFY2hyD2oqpGX7hS1l9c18oCQXJ2/7x3/KQi7ksSQw/AdgMN1XHXXVL3HkHbs60g3ZfMfYO6EWUvHmVz0PNplzyKhbx5jWqhZvPgUFG/2uxrTFRx5MKJF47cHCRIJh846npwuYcjQrVg7JJgR8RfhMewb4Z01VuO1wJ9ujjlHbLw4PQYFAODuI0LYYElc0CmU62GGNvPcsRLz73P7Lmb/o1atdKe8JcWUqmvSiv0ivXZ0/v/KcysxsJksZME5EKdzKnn8vyVcS8JFdrY8lIlZKjrVd5NMjHIYmUAc39kn0=;Ve3aX0k/ZQcDc66+z0MBdA=="
+secured: "kfehSUDcaInabyg6i7LgrU7pReR6Nkd/iJz+eO7kFnEs9xk/MCOyLn1sqpYthnkEIebswVazVdqW196UB8WD48Iu1beiGNEe/iGxtNbIEx1mHJZ0VLcj3RDFeVYUKrdH6W5fwHNnQcQT3AVmxt2512ZqACZ1+P30K2N/vTzua7j2Fl0Ky2SeAWpaUHq7X2KzGoYJImNn+ioA5TQ6Ar5NN2B34Um1XGkHAAMASsKwZpfzMlm2V2k9sfZ5+isrvZIXouqTysUYJOOpNq6myWmm9bOFAkqai6G1axzgiLTTSLc1+EAsteTMCT3oAx2GRARNSbncDP7fOBUDEQnwFBKCJRmz+wff3nk1T+MFZOeofb8=;1UfeAutd1s/Qm5ynahEdUQ=="
 ---
 

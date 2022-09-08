@@ -7,7 +7,7 @@ originalUrl: "https://economictimes.indiatimes.com/tech/startups/et-soonicorns-s
 webUrl: "https://economictimes.indiatimes.com/tech/startups/et-soonicorns-summit-watch-startups-from-web3-fintech-gametech-healthtech-and-other-sectors-in-deep-dive-discussions/articleshow/94031661.cms"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "UBTech unveils intelligent healthcare robots and solutions for senior citizens"
-    excerpt: "Chinese artificial intelligence pioneer UBTech Robotics has unveiled its smart health care strategy with a string of new products and strategic cooperation agreements with companies such as Medical Care Service Company Inc,"
-    publishedDateTime: 2022-09-03T11:59:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202209/03/WS63132ddea310fd2b29e75c74.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 52
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202209/03/63132ddea310fd2bec9f9f62.jpeg"
-        width: 431
-        height: 287
-        isCached: true
 
 secured: "h0RNCFfs6R3nvumgzDL23Lgdjwbs0mZKtOtzO85kATtrjEqbWf5b61XlShwlF7oSbq1MujmrAUZd0/zhxmvtrtzki0FFE77mBsHTKHOAmZ7+iN1ryVYthzNFtaUEtgtqBNJPB6ZFdQrCm7hlI0MFESetwgeZg1/SpMvTCvDFc+l2VweDtjhgiKydIk9xp8BRLl0fV/vwlFg7jwwu8ne28ft6GqrulZMuzhFMmGKy+bFj4yW3SYrTFuNNi2nmEyBdydJHe8SZgZDzKFnUMjG66i52EgIyW8WN5NpYOIgCZLba70fNBPwe3VD/VfoPtTu8gSyZaXIR4iekxxFaAvb0bkffaejIbzyUSVv/v219Sm064Wph6JKp/z3KkCnkU8bwHSyy9yQL7fW3paSGTdKEwkrSbFNarOH8eZDlgZFVY6W0KjRiiwGLmc8DEuAwx6CbdMr/7IjS9Zt+RuhIHArYAZSq4siFM2Wuah/BIxnhmuTGIjcBQOiG2eiJUm+L9M6PeAlQUvICWynVsGGUrQG19w==;W2Wl0ObPlTONyHHskpnl/g=="
 ---

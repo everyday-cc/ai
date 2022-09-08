@@ -27,31 +27,36 @@ images:
     isCached: true
 
 related:
-  - title: "Unpacking The Best Top Ten Quotes About Artificial Intelligence Leveraging Modern-Day AI Ethics Thinking"
-    excerpt: "This is a carefully devised set of Top Ten quotes about AI, providing an explanation about each quote and illuminating key insights about the future of AI, doing so with a keen eye toward the latest in AI Ethics thinking."
-    publishedDateTime: 2022-09-03T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/09/03/unpacking-the-best-top-ten-quotes-about-artificial-intelligence-leveraging-modern-day-ai-ethics-thinking/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/09/03/unpacking-the-best-top-ten-quotes-about-artificial-intelligence-leveraging-modern-day-ai-ethics-thinking/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/09/03/unpacking-the-best-top-ten-quotes-about-artificial-intelligence-leveraging-modern-day-ai-ethics-thinking/amp/"
+  - title: "15 Smart Ways Retail Businesses Should Be Using AI"
+    excerpt: "From better predicting their inventory needs to managing and supporting their employees, retail businesses can leverage AI to improve their operations and their customers’ experience."
+    publishedDateTime: 2022-09-06T17:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/06/15-smart-ways-retail-businesses-should-be-using-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/06/15-smart-ways-retail-businesses-should-be-using-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/06/15-smart-ways-retail-businesses-should-be-using-ai/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 106
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62d7369da6293b308a7896a2/0x0.jpg?format=jpg&crop=2297,1531,x0,y0,safe&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/631753214643d7543ec89c1a/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "AI Ethics Left Hanging When AI Wins Art Contest And Human Artists Are Fuming"
-    excerpt: "A recent viral news story involved an AI system that purportedly won an art contest, raising all sorts of AI Ethics questions about AI versus human endeavors. We unpack the matter and showcase the real issues and the true facts of the case."
-    publishedDateTime: 2022-09-07T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/09/07/ai-ethics-left-hanging-when-ai-wins-art-contest-and-human-artists-are-fuming/"
+  - title: "Meta is working on ways to read minds using AI"
+    excerpt: "In a pre-print study, Meta scientists said their AI model was able to decode speech segments by listening to three seconds of brain activity."
+    publishedDateTime: 2022-09-06T08:21:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/meta-mind-reading-ai-decode-language"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 61
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 41
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/09/AdobeStock_207650808.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Measuring the business impact of AI"
     excerpt: "For many organisations, however, AI value may be elusive. Their models might not be tuned. Their training data sets aren’t big enough. Customers are leery. There are also concerns about bias, ethics, and transparency. Pushing an AI initiative into ..."
     publishedDateTime: 2022-09-08T00:28:00Z

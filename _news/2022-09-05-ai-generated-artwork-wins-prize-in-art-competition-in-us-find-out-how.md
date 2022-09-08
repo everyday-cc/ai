@@ -58,6 +58,15 @@ related:
         width: 1200
         height: 620
         isCached: true
+  - title: "AI Ethics Left Hanging When AI Wins Art Contest And Human Artists Are Fuming"
+    excerpt: "A recent viral news story involved an AI system that purportedly won an art contest, raising all sorts of AI Ethics questions about AI versus human endeavors. We unpack the matter and showcase the real issues and the true facts of the case."
+    publishedDateTime: 2022-09-07T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/09/07/ai-ethics-left-hanging-when-ai-wins-art-contest-and-human-artists-are-fuming/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 61
   - title: "Art Made With Artificial Intelligence Wins at State Fair"
     excerpt: "Artist Jason Allen placed first in a Colorado contest, generating debate about A.I.’s role in art Jason Allen, a video game designer in Pueblo, Colorado, spent roughly 80 hours working on his entry to the Colorado State Fair ’s digital arts competition."
     publishedDateTime: 2022-09-06T12:15:00Z

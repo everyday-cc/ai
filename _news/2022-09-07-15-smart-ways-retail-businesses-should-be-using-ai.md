@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/06/15-smart-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/06/15-smart-ways-retail-businesses-should-be-using-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Measuring the business impact of AI"
+    excerpt: "Taking stock of AI ROI is challenging but essential. IT leaders and industry observers lend insights on how to get a clear idea of whether your AI efforts are paying off."
+    publishedDateTime: 2022-09-07T10:00:00Z
+    webUrl: "https://www.cio.com/article/405620/measuring-the-business-impact-of-ai.html"
+    ampWebUrl: "https://www.cio.com/article/405620/measuring-the-business-impact-of-ai.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/405620/measuring-the-business-impact-of-ai.html/amp/"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 59
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2022/09/artificial-intelligence-698122_1280-100698891-orig.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 724
+        isCached: true
   - title: "Meta is working on ways to read minds using AI"
     excerpt: "In a pre-print study, Meta scientists said their AI model was able to decode speech segments by listening to three seconds of brain activity."
     publishedDateTime: 2022-09-06T08:21:00Z
@@ -43,6 +59,20 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/09/AdobeStock_207650808.jpeg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Measuring the business impact of AI"
+    excerpt: "For many organisations, however, AI value may be elusive. Their models might not be tuned. Their training data sets aren’t big enough. Customers are leery. There are also concerns about bias, ethics, and transparency. Pushing an AI initiative into ..."
+    publishedDateTime: 2022-09-08T00:28:00Z
+    webUrl: "https://www.arnnet.com.au/article/701326/measuring-business-impact-ai/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_132826187.jpg"
+        width: 473
+        height: 315
         isCached: true
 
 secured: "im6RJN4jrO3MHYLeBTTFqLt79QG1fP8iLuit8KHVtLI4QGWeqfEgZnEIXhCBMP2PstVW0S3qxpc2fON+JZSmJkFFZ03sh94S46CiN2dIQS7dJnk4rYRuwuKAtxegGasrb2VPWrhRyFj4T98EW/N7LLO4QCFJY4Vbs50r6sRHPZcP7//gqaRm7vnCJOfp+JGMH33KJcUOlVe6gBasOias7kFK/sxldZl9dIUuMgzK2AUXXPkmMcSA825LJswo5E8RckAjE2FBUsNWi6AR1EEgb1NaRvsNkMOq9paIiFKDKFVsTZPcakkd8UWl80GS1hVIoTWCamhS1EH5oE9Dsu45D27FelbBsQSc1jVJiSP45EePoITLt8WpG4t8Ri62iE390qZtsJCYTBF43v0tZayPNbjSk3VJjX5QG53sb/hYeAVSxDpxGSncxuU379PVFBNUVsVFyojFlUk+vG1ytdVaxueuYm536JPwWaEZ7dttvuyZweB6prP+0No+Ne6cuEEKjcYJQ0b3yHzAGDpUaCwB3g==;uVjnr/1Zcqt2gC8D9mRgDQ=="
