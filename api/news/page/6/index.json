@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-09-01-cognitive-services-market-2022-disclosing-latest-trends-and-advancement-outlook-2028-microsoft-google-aws.md",
+      "title": "Cognitive Services Market 2022 Disclosing Latest Trends and Advancement Outlook 2028 – Microsoft, Google, AWS",
+      "excerpt": "Top Companies in the global Cognitive Services market are IBM, Microsoft, Google, AWS, Baidu, Nuance Communications, Qualcomm Technologies, SAS, Apple, TCS, Nokia, Expert System, Verbio Technologies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-2022-disclosing-latest-trends-and-advancement-outlook-2028-microsoft-google-aws-2022-09-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-2022-disclosing-latest-trends-and-advancement-outlook-2028-microsoft-google-aws-2022-09-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-01T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-brain-cells-that-give-humans-higher-cognitive-abilities-over-other-animals-are-also-linked-to-neurological-disorders-like-schizophrenia-autism.md",
       "title": "Brain cells that give humans higher cognitive abilities over other animals are also linked to neurological disorders like schizophrenia, autism and epilepsy, a new study finds",
       "excerpt": "Scientists have identified an immune brain cell unique to humans that gives us higher cognitive abilities over other animals, but what makes us specials also leaves us vulnerable to neurological ...",
@@ -520,49 +564,6 @@
         "Computer Vision",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-neural-networks-predict-forces-in-jammed-granular-solids.md",
-      "title": "Neural networks predict forces in jammed granular solids",
-      "excerpt": "Combining computer simulations with tools from artificial intelligence ... uses a machine learning method known as a graph neural network (GNN). The researchers have demonstrated that GNNs ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/09/220901135843.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/09/220901135843.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-31T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {

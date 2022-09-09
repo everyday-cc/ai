@@ -2,6 +2,50 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-06-02-artificial-intelligence-societal-impact-and-the-future-of-education.md",
+      "title": "Artificial Intelligence, Societal Impact, and the Future of Education",
+      "excerpt": "Siddhartha Paul Tiwari Today, investing in artificial intelligence (AI) has the potential to address some of the biggest challenges facing the education industry. The technology can be used to introduce innovative teaching and learning practices,",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/",
+      "originalUrl": "https://techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2022/06/Screenshot-2022-06-02-210508.jpg",
+          "width": 471,
+          "height": 354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/amp/",
+      "publishedDateTime": "2022-06-02T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-06-02-evaluating-brain-mri-scans-with-the-help-of-artificial-intelligence.md",
       "title": "Evaluating brain MRI scans with the help of artificial intelligence",
       "excerpt": "This is where technical innovations such as artificial intelligence can offer support in interpreting clinical images. One such tool is the AI-Rad Companion Brain MR 3. Part of a family of AI-based, decision-support solutions for imaging, AI-Rad Companion ...",
@@ -1241,40 +1285,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent-challenges.md",
-      "title": "92% of HR Leaders Will Increase Use of Artificial Intelligence as Solution for Rising Talent Challenges",
-      "excerpt": "Survey results indicate organizations are embracing AI to make critical talent decisions at scale and align workforce strategies with shifting business priorities. SANTA CLARA, Ca",
-      "sourceUrl": null,
-      "webUrl": "https://www.localsyr.com/business/press-releases/cision/20220524SF67183/92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent-challenges/",
-      "originalUrl": "https://www.localsyr.com/business/press-releases/cision/20220524SF67183/92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent-challenges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LocalSYR",
-        "domain": "localsyr.com",
         "images": null,
         "publishers": null,
         "authors": null

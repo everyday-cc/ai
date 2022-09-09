@@ -9,7 +9,7 @@ ampWebUrl: "https://sea.mashable.com/tech/21298/ai-generated-painting-wins-art-a
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/21298/ai-generated-painting-wins-art-award-but-everyone-else-is-super-pissed?amp=1"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-254162,msid-94010587/ai-generated-artworkwins-prize-in-art-competition-in-us.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "AI-generated artwork wins US competition, angers art community"
-    excerpt: "Allen won in the Digital Arts / Digitally Manipulated Photography category with a work called “Théâtre D'opéra Spatial” which is an AI-generated image printed on a canvas. The painting depicts a scene that resembles a space opera."
-    publishedDateTime: 2022-09-04T14:31:00Z
-    webUrl: "https://interestingengineering.com/culture/ai-artwork-wins-angers-art-community"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 37
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/2022/09/04/image/jpeg/Skvetx8TJ4uzrUmlGIT0tpr5pOmRT0xyHMSZVk1E.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "AI-generated art photography is here, but it’s not going to replace your camera"
     excerpt: "AI-generated art is here for photography, but is it up to the task of replicating real photos? We take a dive into some AI generators."

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Iran to use facial recognition cameras to enforce new hijab laws in chilling crackdown on women not covering up"
-excerpt: "IRANIAN authorities are plotting to use facial recognition cameras to spot women defying strict new laws on wearing hijabs. The chilling crackdown will see women who refuse to cover up tracked"
-publishedDateTime: 2022-09-05T09:35:00Z
-originalUrl: "https://www.thesun.ie/news/9358412/iran-facial-recognition-cameras-enforce-hijab/"
-webUrl: "https://www.thesun.ie/news/9358412/iran-facial-recognition-cameras-enforce-hijab/"
-ampWebUrl: "https://www.thesun.ie/news/9358412/iran-facial-recognition-cameras-enforce-hijab/amp/"
-cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/news/9358412/iran-facial-recognition-cameras-enforce-hijab/amp/"
+excerpt: "IRANIAN authorities are plotting to use facial recognition cameras to spot women defying strict new laws on wearing hijabs. The chilling crackdown will see women who refuse to cover up tracked ..."
+publishedDateTime: 2022-09-05T10:35:00Z
+originalUrl: "https://www.thesun.co.uk/news/19708882/iran-facial-recognition-cameras-enforce-hijab/"
+webUrl: "https://www.thesun.co.uk/news/19708882/iran-facial-recognition-cameras-enforce-hijab/"
+ampWebUrl: "https://www.thesun.co.uk/news/19708882/iran-facial-recognition-cameras-enforce-hijab/amp/"
+cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/19708882/iran-facial-recognition-cameras-enforce-hijab/amp/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Irish Sun
-  domain: thesun.ie
+  name: The Sun
+  domain: thesun.co.uk
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2022/09/newspress-collage-19708882-1662371431207.jpg?1662375170&strip=all&quality=100&w=1920&h=1080&crop=1"
-    width: 1920
-    height: 1080
+  - url: "https://www.thesun.co.uk/wp-content/uploads/2022/09/newspress-collage-19708323-1662364992352.jpg?1662368603&strip=all&w=360&h=240&crop=1"
+    width: 360
+    height: 240
     isCached: true
 
 related:
@@ -97,6 +97,6 @@ related:
       domain: mirror.co.uk
     quality: 17
 
-secured: "M13yYtaTHrULc62udIb1QTFcHyLjushJ2QdREQYOQluWzUHtvk0e7aSp/X6fgA8su7L4QbN2ZUx51/Z744vgbvEyPGLqho7/cHSBQsP4ys64pNyknu4Et6UjOYyW7Xj6VgISHeH80p8MSgrpSYJ1jzV1ARwqG7OZqYI8faaYueAS7MpONlA4Wcv727TXongEX/8BBjrSG0jQwWSC/KkXOSuawq/b4AeeqppBipe+0YQv9qdTHdcI8iI1igRaT8a0pxDHQuD9/sRI1acZEvmm4g8EBNhDAxXZu+5b9xa/it4xKJh3/vRTHCYIX+SsnPW2FZMSUTscsYzG++nY9LKmnYbwQuBJgqOwFlKSxfhizVALx1Ha26tMBEEvvt5rIdGCEEDefSA93Qalai0/4K83Q7tfgpEV/z/7MjjKfCksAQ5QYQqJ6sjTk9zt+AJ3S8FrdKyM/0HDyPFpXqKZELFvxWduxCeJsrsTVJ6L1rJgc2vIvK1sV/wu06ofpq7siVJPWa//FW6DuJ8S3ZcNrFwzTg==;bxjo+jGrJcS9+jwAVLadHw=="
+secured: "Bu77R/heeg/YUsp87fRr8EAO2ViL1bG13PAQ8t2TXonTh3Byd5at3hjb/qLKEdBdmyVX5x+kXfsNZzjpnrHrJ2l5qemkNnIBnhkDxN/MH0LZ84bxdEfQ4q9nURkssOOOv7lb0tPk1n9BXXUi1kKoK5OHlXKwjkVJQyh1MfPDFL+h/8pwff4zxoa5dfVYjtV+k+ON0KJZmlqaeqj02YD9SkfxFq/DYr1bsbr3u5fa9Mr1CJLr74I4FJY5UhLDsEIULkIE6Vn8beN9WtKqdvz2GAofUD/RhipnnwQTCcS6V8Irfj3NcigUjj+hjJSSWOh/PfDRKjqsNkQLviV3FN+wyb03GFa7FEFYK/YOBwxRqig=;6xrPcVOFJRzaxicJ4l+Abg=="
 ---
 

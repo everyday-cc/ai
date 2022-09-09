@@ -37,7 +37,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/631ac44c2dd319e54f3d1994/0x0.jpg?format=jpg&width=1200"
         width: 1200
@@ -72,6 +72,20 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/05NdJNZwhf0rpoPHYGrtAgS-1.fit_lim.size_1200x630.v1662561158.jpg"
         width: 1120
         height: 630
+        isCached: true
+  - title: "The world needs an AI code of ethics"
+    excerpt: "The AI revolution has already started, and business, academia and government need to act together now to prevent harm."
+    publishedDateTime: 2022-09-05T09:30:00Z
+    webUrl: "https://www.protocol.com/policy/world-needs-ai-ethics"
+    type: article
+    provider:
+      name: Protocol
+      domain: protocol.com
+    quality: 54
+    images:
+      - url: "https://www.protocol.com/media-library/human-hand-touching-with-cybernetics-robot.jpg?id=27530061&width=1200&height=600&coordinates=0%2C322%2C0%2C322"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Artificial intelligence and creative marketing—how brands and agencies should experiment"
     excerpt: "Cheng, was at the helm of the Cosmo project, using OpenAI’s Dall·E 2 as a different kind of creative tool. Because without good creative guidance, the output isn’t that great—as in Dall·E 2 interpreting an “Ad Age magazine cover:” To get a more creative result requires a lot of interplay and dancing together with concepts and variations,"

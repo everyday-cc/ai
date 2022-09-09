@@ -2,6 +2,57 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2022-07-09-inside-wimbledons-ai-powered-plans-to-engross-tennis-fans.md",
+      "title": "Inside Wimbledon’s AI-powered plans to engross tennis fans",
+      "excerpt": "The future of tennis depends on casual fans becoming devotees. Wimbledon is using AI to encourage the transition.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/inside-wimbledon-ibm-ai-engagement-tennis-fans",
+      "originalUrl": "https://thenextweb.com/news/inside-wimbledon-ibm-ai-engagement-tennis-fans",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F07%2Ftennisgrid.jpg&signature=89ab5d6707b345bee6c3472f6bceda5d",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-08T12:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-09-solving-algorithm-amnesia-reveals-clues-to-how-we-learn.md",
       "title": "Solving algorithm 'amnesia' reveals clues to how we learn",
       "excerpt": "The scientists focused on artificial neural networks, known as ANNs, which are algorithms designed to emulate the behavior of brain neurons. Like human minds, ANNs can absorb and classify vast ...",
@@ -1074,40 +1125,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-malignant-or-benign-quick-and-accurate-diagnosis-with-artificial-tactile-neurons.md",
-      "title": "Malignant or benign? Quick and accurate diagnosis with artificial tactile neurons",
-      "excerpt": "Teams led by Dr. Hyunjung Yi and Suyoun Lee have developed a simple but highly accurate disease diagnosis technology by combining tactile neuron devices with artificial neural network learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-07-malignant-benign-quick-accurate-diagnosis.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-07-malignant-benign-quick-accurate-diagnosis.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-07-malignant-benign-quick-accurate-diagnosis.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-malignant-benign-quick-accurate-diagnosis.amp",
-      "publishedDateTime": "2022-07-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

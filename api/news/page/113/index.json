@@ -2,6 +2,40 @@
   "page": 113,
   "value": [
     {
+      "path": "_news/2022-06-10-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update.md",
+      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Short Interest Update",
+      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) saw a significant growth in short interest during the month of May. As of May 31st, there was short interest totalling 17,",
+      "sourceUrl": null,
+      "webUrl": "https://www.defenseworld.net/2022/06/10/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-3.html",
+      "originalUrl": "https://www.defenseworld.net/2022/06/10/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-10T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Defense World",
+        "domain": "defenseworld.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-10-how-ai-is-driving-iams-shift-to-digital-identity.md",
       "title": "How AI is driving IAM’s shift to digital identity",
       "excerpt": "The IAM industry needs to shift to digital identity, evolving away from legacy constructs to an AI-powered system that's always on.",
@@ -1030,49 +1064,6 @@
       "provider": {
         "name": "News Medical",
         "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-thinning-of-the-eyes-retinal-layer-a-marker-of-cognitive-decline.md",
-      "title": "Thinning of the Eye's Retinal Layer a Marker of Cognitive Decline?",
-      "excerpt": "Thinning of the eye's macular retinal nerve fiber layer (RNFL) is linked to cognitive decline in older adults, new research suggests. Results from a study of more than 400 adults showed an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medscape.com/viewarticle/975411",
-      "originalUrl": "https://www.medscape.com/viewarticle/975411",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.medscape.com/thumbnail_library/dt_181102_human_eye_800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medscape",
-        "domain": "medscape.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -8,8 +8,8 @@ webUrl: "https://abc7ny.com/artificial-intelligence-the-mayo-clinic-women-in-lab
 ampWebUrl: "https://abc7ny.com/amp/artificial-intelligence-the-mayo-clinic-women-in-labor-pregnancy/12201272/"
 cdnAmpWebUrl: "https://abc7ny-com.cdn.ampproject.org/c/s/abc7ny.com/amp/artificial-intelligence-the-mayo-clinic-women-in-labor-pregnancy/12201272/"
 type: article
-quality: 56
-heat: 56
+quality: 58
+heat: 58
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://cdn.abcotvs.com/dip/images/12201231_ai-labor.jpg"

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/paultassi/2022/09/05/xboxs-matt-booty
 webUrl: "https://www.forbes.com/sites/paultassi/2022/09/05/xboxs-matt-booty-asked-microsoft-to-invent-ai-bot-qa-testers-for-games/"
 type: article
 quality: 64
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://www.gamespot.com/a/uploads/original/1690/16904437/3999506-3423520525-35443.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
+    excerpt: "New Jersey, NJ -- (SBWIRE) -- 09/06/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ..."
+    publishedDateTime: 2022-09-06T21:59:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-52"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 48
+    images:
+      - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Where Will Microsoft Stock Be In 5 Years?"
     excerpt: "I expect Microsoft to grow its top line by a low-to-mid teens percentage CAGR in the coming five years. Read more to see the 5-year outlook for MSFT stock."

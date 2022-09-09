@@ -312,35 +312,26 @@
       ]
     },
     {
-      "path": "_news/2022-09-06-banned-us-ai-chips-in-high-demand-at-chinese-state-institutes.md",
-      "title": "Banned U.S. AI chips in high demand at Chinese state institutes",
-      "excerpt": "Local peer Advanced Micro Devices Inc (AMD) also said new licence requirements now prevent export to China of its advanced AI chip MI250. The development signalled a major escalation of a U.S ...",
+      "path": "_news/2022-09-06-analysis-banned-us-ai-chips-in-high-demand-at-chinese-state-institutes.md",
+      "title": "ANALYSIS-Banned U.S. AI chips in high demand at Chinese state institutes",
+      "excerpt": "High-profile universities and state-run research institutes in China have been relying on a U.S. computing chip to power their artificial intelligence (AI) technology but whose export to the ...",
       "sourceUrl": null,
-      "webUrl": "https://telecom.economictimes.indiatimes.com/news/analysis-banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes/94024283",
-      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/analysis-banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes/94024283",
+      "webUrl": "https://www.nasdaq.com/articles/analysis-banned-u.s.-ai-chips-in-high-demand-at-chinese-state-institutes",
+      "originalUrl": "https://www.nasdaq.com/articles/analysis-banned-u.s.-ai-chips-in-high-demand-at-chinese-state-institutes",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 93,
       "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-94024283,imgsize-171552,width-1200,height-628,overlay-ettelecom/banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/analysis-banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes/94024283",
-      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/analysis-banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes/94024283",
-      "publishedDateTime": "2022-09-06T01:40:00-07:00",
+      "ampWebUrl": "https://www.nasdaq.com/articles/analysis-banned-u.s.-ai-chips-in-high-demand-at-chinese-state-institutes?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/analysis-banned-u.s.-ai-chips-in-high-demand-at-chinese-state-institutes?amp",
+      "publishedDateTime": "2022-09-06T00:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "telecom.economictimes.indiatimes",
-        "domain": "indiatimes.com",
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

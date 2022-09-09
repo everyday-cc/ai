@@ -2,6 +2,61 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2022-08-18-ai-vs-ml-artificial-intelligence-and-machine-learning-overview.md",
+      "title": "AI vs. ML: Artificial Intelligence and Machine Learning Overview",
+      "excerpt": "In 1982, John Hopfield showed that a neural network could process information in far more advanced ways. Various forms of AI began to take shape, and the first artificial neural network (ANN ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/enterprise-apps/ai-vs-ml/",
+      "originalUrl": "https://www.eweek.com/enterprise-apps/ai-vs-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-DSOM-Image02-800x800-1.jpg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-08-18-teslas-humanoid-robot-is-being-built-to-mow-your-lawn.md",
       "title": "Tesla's Humanoid Robot Is Being Built to Mow Your Lawn",
       "excerpt": "The robots are coming...to relieve you of doing the dishes. Tesla CEO Elon Musk recently revealed new details about Optimus, an artificial intelligence humanoid robot which he envisions will take ...",
@@ -1072,58 +1127,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-whats-happening-with-baidu-stock.md",
-      "title": "What’s Happening With Baidu Stock?",
-      "excerpt": "Baidu is also making solid progress with its AI developments such as autonomous driving. Last week, the company became the first robo taxi operator in China to receive permits for offering rides ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2022/08/17/whats-happening-with-baidu-stock/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2022/08/17/whats-happening-with-baidu-stock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61b4a97d18c00d162ce1cfc2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2022/08/17/whats-happening-with-baidu-stock/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2022/08/17/whats-happening-with-baidu-stock/amp/",
-      "publishedDateTime": "2022-08-17T05:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

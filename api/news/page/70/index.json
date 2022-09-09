@@ -2,6 +2,49 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2022-07-13-deutsche-telekom-will-trial-google-clouds-data-analytics-artificial-intelligence-ai-and-machine-learning-ml-solutions.md",
+      "title": "Deutsche Telekom will trial Google Cloud’s data analytics, artificial intelligence (AI) and machine learning (ML) solutions",
+      "excerpt": "Deutsche Telekom and Google Cloud will pilot several network services such as 5G SA in Austria, as well as remote packet gateway functions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rcrwireless.com/20220713/5g/deutsche-telekom-expands-partnership-google-cloud",
+      "originalUrl": "https://www.rcrwireless.com/20220713/5g/deutsche-telekom-expands-partnership-google-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rcrwireless.com/wp-content/uploads/2018/08/86347751_l.jpg",
+          "width": 2048,
+          "height": 2048,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-13T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RCR Wireless News",
+        "domain": "rcrwireless.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-07-13-gartner-translated-leading-advances-in-ai-in-the-translation-industry.md",
       "title": "Gartner: Translated Leading Advances in AI in the Translation Industry",
       "excerpt": "\"We have been working on AI-assisted human translation since 1999 and have developed a variety of tools based on artificial intelligence, machine learning, and automation to support our translators,\" Translated Founder and CEO Marco Trombetti said.",
@@ -1070,40 +1113,6 @@
         "AI",
         "Google AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-aws-announces-general-availability-of-three-new-serverless-analytics-offerings.md",
-      "title": "AWS Announces General Availability of Three New Serverless Analytics Offerings",
-      "excerpt": "(NASDAQ: AMZN), today announced the general availability of three new serverless analytics offerings that make it even easier for customers to analyze vast amounts of data without having to configure,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/07/12/9637393.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/07/12/9637393.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-12T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

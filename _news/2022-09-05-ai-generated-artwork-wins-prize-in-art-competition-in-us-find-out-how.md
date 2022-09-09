@@ -42,20 +42,6 @@ related:
         width: 620
         height: 310
         isCached: true
-  - title: "AI-generated artwork wins US competition, angers art community"
-    excerpt: "Allen won in the Digital Arts / Digitally Manipulated Photography category with a work called “Théâtre D'opéra Spatial” which is an AI-generated image printed on a canvas. The painting depicts a scene that resembles a space opera."
-    publishedDateTime: 2022-09-04T14:31:00Z
-    webUrl: "https://interestingengineering.com/culture/ai-artwork-wins-angers-art-community"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 37
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/2022/09/04/image/jpeg/Skvetx8TJ4uzrUmlGIT0tpr5pOmRT0xyHMSZVk1E.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "AI-generated art photography is here, but it’s not going to replace your camera"
     excerpt: "AI-generated art is here for photography, but is it up to the task of replicating real photos? We take a dive into some AI generators."
     publishedDateTime: 2022-09-07T12:42:00Z

@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intellig
 ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intelligence-and-the-future-of-marketing/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intelligence-and-the-future-of-marketing/amp/"
 type: article
-quality: 104
-heat: 184
+quality: 106
+heat: 196
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI in Marketing
+  - AI in Healthcare
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/631ac44c2dd319e54f3d1994/0x0.jpg?format=jpg&width=1200"
@@ -76,6 +77,20 @@ related:
       - url: "https://www.cio.com/wp-content/uploads/2022/09/artificial-intelligence-698122_1280-100698891-orig.jpg?quality=50&strip=all&w=1024"
         width: 1024
         height: 724
+        isCached: true
+  - title: "The world needs an AI code of ethics"
+    excerpt: "The AI revolution has already started, and business, academia and government need to act together now to prevent harm."
+    publishedDateTime: 2022-09-05T09:30:00Z
+    webUrl: "https://www.protocol.com/policy/world-needs-ai-ethics"
+    type: article
+    provider:
+      name: Protocol
+      domain: protocol.com
+    quality: 54
+    images:
+      - url: "https://www.protocol.com/media-library/human-hand-touching-with-cybernetics-robot.jpg?id=27530061&width=1200&height=600&coordinates=0%2C322%2C0%2C322"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Artificial intelligence and creative marketing—how brands and agencies should experiment"
     excerpt: "Cheng, was at the helm of the Cosmo project, using OpenAI’s Dall·E 2 as a different kind of creative tool. Because without good creative guidance, the output isn’t that great—as in Dall·E 2 interpreting an “Ad Age magazine cover:” To get a more creative result requires a lot of interplay and dancing together with concepts and variations,"
@@ -138,6 +153,6 @@ related:
       domain: marketplace.org
     quality: 34
 
-secured: "cEjA77fdiWBZ1Yn5d5K0uTmDjSGRvMrcA9yvqUystWs5PV3bkjjdZrWkUziEHIWbOd72+TlgutzFaWh2gB/HOQrab5tYXNcQXljxI2st4U84pjy0vJXVi9xQBHPsht/hgUUwKPGSnXu9k5p2Ncy858AQ4CDNbhgD6Fxl/dwFV8H2E24Xh1DK25E05BK4yscqLeNzoFuUPnITPKAblWFeg6Ts1KSnBGenDbDeaAITGhrNbDtRpNKt8E5ruPJjWYydVK6LK2MxjzWcFSvlfQGu6ZkBYa6WayFEPtC5oxyhCYZSG3+5ZRSU1OoPxlsHS25lXLFLhKztlGpC2YofOcPjPqB/Ap/ZPWMNhyILP4yxVLE=;p1Cpeu/YPC7hnfR8GcPWhQ=="
+secured: "8r8lMv99XL2+q4DUs1hb6aDM7vcfVAqb0ycFpItvAMar1Cj9UMFYNI+Yiv/BFzGgleOPBK48TlZzGcKr61yzoJIQvBaH9UmPzHF0biZmliLmoPNbzp0qP+b5K9sbj3YMyesATkpQH/C5ax7cXrs8EZW0O02B1H9F5RamApzuBVuZqkeik7jLq6CJDqiEdkdJa5weJvc27By0XrcrYw0cjClKr5HCVMQXRIBdTolWabQkCX6WjWe+3d28KQgIBqrp4rhORrFG+SfkwHIzRZFH1kNPvQ9Y80NpsppyBl+VF2r3LyOgLdBS5d/DyAsxRL4rn8qDI9+3SLoDkNaH4yzU2CvHLLQUD7hLRcvcdqtLvnBGo6t5whG53Zuvaulho5YOfMirkvtD7mZGHdv5yqsRIrBw/xZiGEv4mvpSKp6gkEfpXqmuJxEU7rX3ttNac7QyahcWh8oaDZu0sWim3zo0+ybyGipXNxrB8WcjkxLtw9O/xIoMonwK1WFyUU6e73+THdyjAwPSUogqkRWjM5XtnA==;4UbSs3onGSYKXsWzc5VodQ=="
 ---
 
