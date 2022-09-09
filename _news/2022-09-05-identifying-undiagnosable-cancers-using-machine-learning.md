@@ -3,8 +3,8 @@ category: news
 title: "Identifying Undiagnosable Cancers Using Machine Learning"
 excerpt: "Researchers have developed a new deep-learning approach that may help classify cancers of unknown primary location, by taking a closer look at how their gene expression is related to early cell development and differentiation."
 publishedDateTime: 2022-09-05T09:05:00Z
-originalUrl: "https://www.technologynetworks.com/tn/news/identifying-undiagnosable-cancers-using-machine-learning-365356"
-webUrl: "https://www.technologynetworks.com/tn/news/identifying-undiagnosable-cancers-using-machine-learning-365356"
+originalUrl: "https://www.technologynetworks.com/cancer-research/news/identifying-undiagnosable-cancers-using-machine-learning-365356"
+webUrl: "https://www.technologynetworks.com/cancer-research/news/identifying-undiagnosable-cancers-using-machine-learning-365356"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 360
     isCached: true
 
-secured: "c7ZWCxMShBcTuoBqffmrbqSX+fN25kPbMNl0uFLVmkEY7tSy9lnUFq/P/6BlWUb0B0+PcffzigyG6DJpTJwjCJxbYykJp/wgiY0n3XDISOq/VGvC4oIZ08Tgs2bliSYLSzQ+uoH5K3vRDKUmH5BT//CN3Q+DlSWk1tnUPfdI8EWoVK4JAwIe7eysJuEClghhirqwdZ6wYoPDADLKr3jjmy5/QhknDr3sBA21QppBUTQggGt3LcKzZLCqtljZQzf5EagUpPMF44V0Pa8FsHmuZLcihbRUHldDlXgARTl2nvTWGr0fNqRcCIXjcV7RQmLgLjykOoXo4wRrxkWqxeIOFHnr/M8A1djKlJ88x3w/wn4=;Sg9LuEoJjqFm6kZOzvVWOw=="
+secured: "f0cBjRRsPkkSfDxHfuNuzL+zNT8RdonrSe0oGWmpliDA5lOkTjgpwo1dil3RIUuMjO+uy77eTzeoctwllCya2z/9DJSxgpONonHv2dWTc76LUfESvqw7ixWBsv+GP2MCD06/C4zcvcDD3MO00kM8yIvoihv8+DCHIcBM37brCnVo5nzE76DuwUJ6Ah6rrljIpZwiblIcfLRhiJZisL7/MQMSRepRfGry0RJkEOjy7HsrKb/Bo+lvAoAhH/VxGIJi7D7qoTMdBL1gdmNHdkzcqvgRettRF1kn/Kf6aFd59iUMKd98ceh4aamLTuzpY2ren0XIRZ64NmSrWO8vfoNV2Bd/fM72c8EcesQY+r/RwCE=;x4CwaqbrsyDa0sz7dRhY4Q=="
 ---
 

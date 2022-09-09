@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-size-2022-3402-cagr-latest-trend-share-growth-competitors-and-forecast-2022-09-07"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -108,6 +108,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Call Center AI Market 2022 Key Players, SWOT Analysis, Key Indicators and Forecast to 2032"
+    excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
+    publishedDateTime: 2022-09-09T03:43:00Z
+    webUrl: "https://www.fmiblog.com/2022/09/09/call-center-ai-market-2022-key-players-swot-analysis-key-indicators-and-forecast-to-2032-2/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 9
 
 secured: "kpK5qbXwsePNsvd+Pe6J/vKJqb+4Wwdc5vxAQIwraDKPVHk+h8GyijrGanFLquTc/GPZX1OOgtfN5XJE7NgWyPSRbe94fRiPzYatWcBDffZlfTD3QV7cz4ap9x5snUGgvpHVuo1FEVxl4FOwRBQHnS5gCCD3072CYT0hY/FysbFeVl+chVMQ88FfDEbblRlAxHoXqqpb3oCXqJJ6L9M29vv1sYhi00Xy+RjakXcJaCkY3VFDgLS/atkveuk9dxKhTpPGjI5P3LvABUvFfkRd8b8KC0M1U52LsxOzG/o2dV8ck6Z7qvbXQc5ap/4Kr4LIdS3cKN/pqV+iRjdGFi1wD4BX0rRnbZmMsLKH2I5RlKQ=;1LF0zucxaSaPPniNn/tkew=="
 ---

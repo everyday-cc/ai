@@ -1,32 +1,22 @@
 ---
 category: news
-title: "Artificial Intelligence (AI) Robots Market Size Is Expected To Grow At A CAGR Of 21.3% During Assessment Period 2022-2028 | 122 Report Pages"
-excerpt: "This report analyzes the impact of the pandemic on the Artificial Intelligence (AI) Robots market from a Global and Regional perspective. The report outlines the market size, market characteristics, and market growth for Artificial Intelligence (AI) Robots industry,"
-publishedDateTime: 2022-09-05T04:21:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-size-is-expected-to-grow-at-a-cagr-of-213-during-assessment-period-2022-2028-122-report-pages-2022-09-05"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-size-is-expected-to-grow-at-a-cagr-of-213-during-assessment-period-2022-2028-122-report-pages-2022-09-05"
+title: "Call Center AI Market 2022 Key Players, SWOT Analysis, Key Indicators and Forecast to 2032"
+excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
+publishedDateTime: 2022-09-09T03:43:00Z
+originalUrl: "https://www.fmiblog.com/2022/09/09/call-center-ai-market-2022-key-players-swot-analysis-key-indicators-and-forecast-to-2032-2/"
+webUrl: "https://www.fmiblog.com/2022/09/09/call-center-ai-market-2022-key-players-swot-analysis-key-indicators-and-forecast-to-2032-2/"
 type: article
-quality: 64
+quality: 9
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Future Market Insights
+  domain: fmiblog.com
 
 topics:
-  - AI in Robotics
+  - IBM AI
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Artificial Intelligence (AI) Robots Market Size 2022: 34.02% CAGR | Latest Trend, Share, Growth, Competitors and Forecast"
@@ -38,6 +28,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 74
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) Robots Market Size Is Expected To Grow At A CAGR Of 21.3% During Assessment Period 2022-2028 | 122 Report Pages"
+    excerpt: "This report analyzes the impact of the pandemic on the Artificial Intelligence (AI) Robots market from a Global and Regional perspective. The report outlines the market size, market characteristics, and market growth for Artificial Intelligence (AI) Robots industry,"
+    publishedDateTime: 2022-09-05T04:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-size-is-expected-to-grow-at-a-cagr-of-213-during-assessment-period-2022-2028-122-report-pages-2022-09-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -108,16 +112,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Call Center AI Market 2022 Key Players, SWOT Analysis, Key Indicators and Forecast to 2032"
-    excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
-    publishedDateTime: 2022-09-09T03:43:00Z
-    webUrl: "https://www.fmiblog.com/2022/09/09/call-center-ai-market-2022-key-players-swot-analysis-key-indicators-and-forecast-to-2032-2/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 9
 
-secured: "xGiQxvWwooQHKIyX+LYKxYMUZFB7jWrGUee9Sy3PKP3vBbPnARev11a3iv4EopyI+hep+uIXGAv4CyiE4bAkJBDaDT4RuthJz32dCYZ2R8va9jWE+4mMBYYJx2SIM66+R8I+NQ2sPbvu7sianKXIod1iaqKj8BK6eeDr4Ei5aaSgbFJazyt0vipsxQPxM2QjUstHT2FHcq3zAqhgAKuZPEommWCRLdrGS3Gsy6OAN4bMf2VvzNct3J0fz8eIZazpQpa8d1crVD5KwPQr87i38eBlSQ+MeONIGbgtIyS9gwIrgOBwZg42znEpOPHBDJzRe7a0olfF5n/fTMdX/JExmtnKSZzZ8uXW0Y1oJw6L570=;Cmep4KGSDIHS40P/x3dDrQ=="
+secured: "ILZGhccaKHVv/u7M4zvgulyhVyUAYBvecrYmm86LAQ/cwzacTNT9grF6XOMPCKmCvn7+D6X2WISy9o9j2XTO/CRd8gcTnqAGA6u03jEIUKfpv0LbCHYDVJZHKVGZWcpCaIj1ekcmJV7gfFlfrAa5vWoOYDcIk8ubsK+PWqCy3EqfzQe8jFrg5T67wwBuJt8gUx/QrhSMgDXN4zJPHz93IAJs2sHUf2XX9oTAfztGkwofG2/LTWa9N8cseUcoqQ3KoCIlwYImkgpR/gA6XvrKF7IOhCRExPrSD9R1ALZeoIRgHklA7nU4Euula8OJzianMDi5S6MGCuaHt115OOC87hLDamN5V7ACNsLmqtBEepk=;XTbXshPjf931Dh59avEB6A=="
 ---
 
