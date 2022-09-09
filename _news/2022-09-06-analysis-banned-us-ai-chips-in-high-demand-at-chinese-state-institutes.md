@@ -1,24 +1,30 @@
 ---
 category: news
-title: "ANALYSIS-Banned U.S. AI chips in high demand at Chinese state institutes"
+title: "Analysis-Banned U.S. AI Chips In High Demand At Chinese State Institutes"
 excerpt: "High-profile universities and state-run research institutes in China have been relying on a U.S. computing chip to power their artificial intelligence (AI) technology but whose export to the ..."
-publishedDateTime: 2022-09-06T07:28:00Z
-originalUrl: "https://www.nasdaq.com/articles/analysis-banned-u.s.-ai-chips-in-high-demand-at-chinese-state-institutes"
-webUrl: "https://www.nasdaq.com/articles/analysis-banned-u.s.-ai-chips-in-high-demand-at-chinese-state-institutes"
-ampWebUrl: "https://www.nasdaq.com/articles/analysis-banned-u.s.-ai-chips-in-high-demand-at-chinese-state-institutes?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/analysis-banned-u.s.-ai-chips-in-high-demand-at-chinese-state-institutes?amp"
+publishedDateTime: 2022-09-06T13:47:00Z
+originalUrl: "https://www.ibtimes.com/analysis-banned-us-ai-chips-high-demand-chinese-state-institutes-3609766"
+webUrl: "https://www.ibtimes.com/analysis-banned-us-ai-chips-high-demand-chinese-state-institutes-3609766"
+ampWebUrl: "https://www.ibtimes.com/analysis-banned-us-ai-chips-high-demand-chinese-state-institutes-3609766?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/analysis-banned-us-ai-chips-high-demand-chinese-state-institutes-3609766?amp=1"
 type: article
-quality: 83
-heat: 93
-published: true
+quality: 73
+heat: -1
+published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://d.ibtimes.com/en/full/3813247/logo-nvidia-corporation-seen-during-annual-computex-computer-exhibition-taipei.jpg"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "Banned U.S. AI chips in high demand at Chinese state institutes"
@@ -38,6 +44,6 @@ related:
         height: 628
         isCached: true
 
-secured: "qCUjjI2l24/ldkd10xluQsKOhre9vwtPQ+/hD3UsJhaB2VUQ8QNMReYlAI+ZdgdjEtpNGuF1qVvO6JXb7aLzSq7tJHX4Z5oomNuYL+AUpxKoD0gIguvQuLkOHm6rN2VrGheimZh71BpHRI4jBAplfY99PsXhcPLd1gR2riD2r//kQ7p09Ctzkblz75c0f6nMbmOq5QHzV7tQdtUZ3mM1VI2eOaMtXtJvh+YdQ2tbKmOWZTwQ0ha7TZKHdxUDKqmw2wLc7mnbkedieqMG42gUfHBL5G04v65kwlNM78H6/j4mPS4gB6UZqyeKOvJfM2S6UgzwhobH0pTnhpZCuiWrmYJJebGzS9Bq4eCYsd7iZXU=;vadj06uYr+wt24WRauT87g=="
+secured: "SlGjGNGP1fsVLwbfd2J1H/rpmi7Rqjd7bdv3VHje0bI/EqiLo1o4Tg2CDQUxxCVAkmhdNbQDL2gdTobU21xycSw8497OsZxD7GYSdHerj/xdLmE0TNjTUcNNh/RUl18AuZFLjGbSRQRX1fHoVZUig18AbJB1qMttbjWA8Ju2VYwdjzihfU9olrpFm05X49Kfw9fFZmdBEuFMysZXCu2KYf/fRaPOVYh45YDdW21MDFvzahnLzmwnDZCfOCynAdcqxM7FaUVG+2iRoiJckt7+l9GNIwuD+sNm6rcqTiEj5hzv/b4VYhTBmGHT5uwfxSWih6a49Cv0SjSdseVBIjmt4gWKKDmDZVnbj0OezPzqOSo=;DQiMx2/AVYlfVmNIfNf1NQ=="
 ---
 

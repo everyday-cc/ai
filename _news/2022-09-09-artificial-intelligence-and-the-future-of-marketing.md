@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intellig
 ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intelligence-and-the-future-of-marketing/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intelligence-and-the-future-of-marketing/amp/"
 type: article
-quality: 106
-heat: 196
+quality: 108
+heat: 208
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AI
   - AI in Marketing
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/631ac44c2dd319e54f3d1994/0x0.jpg?format=jpg&width=1200"
@@ -47,6 +48,22 @@ related:
       - url: "http://cdn.cnn.com/cnnnext/dam/assets/220905135137-01-manas-bhatia-future-cities-ai-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "The role of AI in healthcare"
+    excerpt: "We live in a digital age where everything is readily available at the click of a mouse, but have we ever imagined a doctor who can predict a patient’s illnesses beforehand and prescribe preventive medication in"
+    publishedDateTime: 2022-09-06T10:31:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-role-of-ai-in-healthcare/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-role-of-ai-in-healthcare/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-role-of-ai-in-healthcare/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/09/Dr.-Rajendra-Patankar-CEO-Jupiter-Hospital-Pune.jpg"
+        width: 682
+        height: 1024
         isCached: true
   - title: "The Head of Google Says Future AI Must Align with Human Values"
     excerpt: "Google and Alphabet CEO Sundar Pichai talked about the issues surrounding the company's pivot to artificial intelligence and more."

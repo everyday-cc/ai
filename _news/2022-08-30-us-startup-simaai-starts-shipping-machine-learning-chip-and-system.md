@@ -1,24 +1,32 @@
 ---
 category: news
 title: "U.S. startup SiMa.ai starts shipping machine learning chip and system"
-excerpt: "Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management & Research Company, said on Tuesday it started shipping chips and systems to customers that are testing them, an important step for mass production. We apologize ..."
-publishedDateTime: 2022-08-30T13:24:00Z
-originalUrl: "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system"
-webUrl: "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system"
-ampWebUrl: "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system/wcm/d3b033f1-d689-4d7b-bd86-a55744e847fe/amp/"
-cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system/wcm/d3b033f1-d689-4d7b-bd86-a55744e847fe/amp/"
+excerpt: "Aug 30 (Reuters) - Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity ... It is used for industrial robotics, drones, security cameras, satellite imaging and eventually ..."
+publishedDateTime: 2022-08-30T13:08:00Z
+originalUrl: "https://www.reuters.com/technology/us-startup-simaai-starts-shipping-machine-learning-chip-system-2022-08-30/"
+webUrl: "https://www.reuters.com/technology/us-startup-simaai-starts-shipping-machine-learning-chip-system-2022-08-30/"
 type: article
 
 provider:
-  name: Financial Post
-  domain: financialpost.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Finance
+  - AI in Robotics
   - AI
   - Machine Learning
   - AI Hardware
 
-secured: "CRzNw3CjZHFR2N3qHfM5JFoprZX3m3Vc7s6TGj8jexPgYzhvSBVdlHCpL/M5kengdwVebXbFIbfu4dPiWMTqiuh9zBYACNFBSCQcJuK++xmN3jnPgre0HqFQcwPtUsWwk6o1yxxmC+wONcAJH3JBiMGR94eGMydeSKkktNc17xRB/LIABUcGSAJrCjyIPR6xefQXfQIq28tJB+I3t4ctLHupyafg4AHaOhDoE1xn2wC51c6n7a7kCEzzPc0NlvArLYZQme420sqnvEYxE/KKeeDMbC2rOjm2avmMwY1uQ/qoxLLBVc2afUgOe7izFSmefYeY2MoILsL4vyHg9kfYZv8o/zVMiwDX6gsE4BBXxaI=;bfJj0lsBbsxeZML0P7KaQQ=="
+images:
+  - url: "https://www.reuters.com/resizer/fI3n2TYUkaPpx7V82zTgvYaqWFU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QFP3TPKCWVOI3NIK2O3BE5V2Z4.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "qPgytMzENubpfwP6HTq9vrtj3nNXazNcW4IGzCf9YKS5WpntMDDFoZHg1k51jeflfdOEo2Ay2D3yG9UAsBmbq9GhvwmOS6BZHfHWnXlTsPfG2ISXYQ9dUVQr13Yr7j67FfiAdqLqXFMny48Ze8xXX2t0F1w8O0nB+cHknbGUeQIv9J+dHqVnb4AfkfPvIFpKXOXFXh9KNIoIU32phe79Ri+K1/x+V1BHAu436IGLacBOqLpScHg6uqARIJAji1WP5NLxCmWA0bSU9Wi8b9xoE0z3SCF/Gn54lsAXIIYld3VqwTsFE/v6nh9FdhTzwXkBXK5LIkrF/zF0xob7/vjIWDMOyv9X9zJNxaESR7aEURE=;p1MRRpHrxefiMusuaVSzsw=="
 ---
 

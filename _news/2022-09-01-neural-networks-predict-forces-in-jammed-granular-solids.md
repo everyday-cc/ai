@@ -1,26 +1,24 @@
 ---
 category: news
 title: "Neural networks predict forces in jammed granular solids"
-excerpt: "Granular matter is all around us. Examples include sand, rice, nuts, coffee and even snow. These materials are made of solid particles that are large enough not to experience thermal fluctuations. Instead,"
-publishedDateTime: 2022-09-01T14:47:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/963548"
-webUrl: "https://www.eurekalert.org/news-releases/963548"
+excerpt: "Combining computer simulations with tools from artificial intelligence ... uses a machine learning method known as a graph neural network (GNN). The researchers have demonstrated that GNNs ..."
+publishedDateTime: 2022-09-01T00:00:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/09/220901135843.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/09/220901135843.htm"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/93c1e44c-9e31-47f5-80f2-ef0051952e9b/Rendition/thumbnail/Content/Public"
-    width: 300
-    height: 208
-    isCached: true
-
-secured: "D+vNG3qw32gfOgdMcluxmS0fozrrqU3hFiG9DKocKlM4Iq4igLwYsbeOH2c6PByEyUnJnQA5Fu0R8rr/NPi/k8c6oU3Gdy8NyVNfwLOuV1RldXA7D3oTRRkf3Lz3pmFUvgOc4D2sgnwKTTdJBrDplg0ypxL6y7lKMdS3NmGe4nqTVUQR3N/+hdPDNuzA1xnrnE6aWxyoYJS3aJKrE+vfHEOD56Dc3T+RNduy1TY7Ilqzae/g0wynYFHU/1G7DsN9VFJmECXPIpNjlgmyp7DZNpu5Rydd5h/wAKNkj+YiR0GKBzBBwKNpmRMOuP0Sf8DZJ8zpNfT/pZI1iLoxjhD/ZtshURP2vn+ngAnIkixQX1c=;H/LEBhfYgaNUVSlQoQfNPw=="
+secured: "XJUDrxXtGyHRuaQQ5SNoAfyFu+P1Qm4fnXSNEe173PNV3gFlmtqktM06zTvz3zIpCGWijA4lVc0IgSAta7+fsHL4aVlZ7iIJKJkbn6o3ynxTQuXLlRfuQurV30Hea7pg0TPQRJu8lstmX/xD7p+jjl0lOwZ/wNDrAiirPmyCyQo3VrrCjZLfI19w7j75JwYf1HsBqDoSB5gqcJpAGLXNAdhe+UwOyoIp5o0JFdXlWkG7zhGVsp4wBaZz2rUfsHSMi6EeTznXYbgt5OmkyYUzdPg9K+H4vq0jAuWI8wXfKIz0exRwnvKoLdPmHCu2MV+ZvBmcDP9pQLRVnsoe1gdw38BJqLPUl6mdRUgFGQkvfI4=;v5EeUVC9ozevFYtT1VMURw=="
 ---
 
