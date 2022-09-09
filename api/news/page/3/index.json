@@ -2,6 +2,249 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-06-emerging-technologies-in-automobile-industry-to-push-in-vehicle-ai-robot-demand-states-factmr.md",
+      "title": "Emerging Technologies in Automobile Industry to Push In-vehicle AI Robot Demand, States Fact.MR",
+      "excerpt": "To learn more about In-vehicle AI RobotMarket, you can get in touch with our Analyst at  Key Segments Covered in the In",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/emerging-technologies-in-automobile-industry-to-push-in-vehicle-ai-robot-demand-states-factmr-2022-09-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/emerging-technologies-in-automobile-industry-to-push-in-vehicle-ai-robot-demand-states-factmr-2022-09-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-05T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-05-tesla-raises-full-self-driving-price-to-15000-is-it-worth-it.md",
+      "title": "Tesla raises Full Self-Driving price to $15,000 – is it worth it?",
+      "excerpt": "Tesla has officially raised the price of its Full Self-Driving (FSD) package to $15,000, as CEO Elon Musk promised. For years now, Musk has stated that Tesla would keep gradually increasing the price of its Full Self-Driving (FSD) package as functionality ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/09/05/tesla-raises-full-self-driving-price-to-15000-is-it-worth-it/",
+      "originalUrl": "https://electrek.co/2022/09/05/tesla-raises-full-self-driving-price-to-15000-is-it-worth-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/09/05/tesla-raises-full-self-driving-price-to-15000-is-it-worth-it/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/05/tesla-raises-full-self-driving-price-to-15000-is-it-worth-it/amp/",
+      "publishedDateTime": "2022-09-05T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-05-xboxs-matt-booty-asked-microsoft-to-invent-ai-bot-qa-testers-for-games.md",
+      "title": "Xbox’s Matt Booty Asked Microsoft To Invent AI Bot QA Testers For Games",
+      "excerpt": "‘Help me figure out how to use an AI bot to go test a game.’ “Because I would love to be able to start up 10,000 instances of a game in the cloud, so there’s 10,000 copies of the game running, deploy an AI bot to spend all night testing that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/paultassi/2022/09/05/xboxs-matt-booty-asked-microsoft-to-invent-ai-bot-qa-testers-for-games/",
+      "originalUrl": "https://www.forbes.com/sites/paultassi/2022/09/05/xboxs-matt-booty-asked-microsoft-to-invent-ai-bot-qa-testers-for-games/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-05T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-05-five-experts-address-trends-in-artificial-intelligence-and-machine-learning.md",
+      "title": "Five Experts Address Trends in Artificial Intelligence and Machine Learning",
+      "excerpt": "Trends and risks in a Golden Age of Artificial Intelligence and Machine Learning By David Churbuck, Founder & former Editor-in chief of Forbes.com NEW YORK, Sept. 5, 2022 /PRNewswire/ -- Over the summer of 2022,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/five-experts-address-trends-in-artificial-intelligence-and-machine-learning-2022-09-05-9203048",
+      "originalUrl": "https://www.marketwatch.com/press-release/five-experts-address-trends-in-artificial-intelligence-and-machine-learning-2022-09-05-9203048",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-05T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-09-05-preparing-for-future-coronavirus-variants-using-artificial-intelligence.md",
+      "title": "Preparing for future coronavirus variants using artificial intelligence",
+      "excerpt": "SARS-CoV-2 is constantly mutating and each new variant often catches the world by surprise. Take for example the highly mutated omicron variant that emerged last November and required health authorities to develop a rapid response strategy even though,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-09-future-coronavirus-variants-artificial-intelligence.html",
+      "originalUrl": "https://phys.org/news/2022-09-future-coronavirus-variants-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/preparing-for-future-c.jpg",
+          "width": 996,
+          "height": 996,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-09-future-coronavirus-variants-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-future-coronavirus-variants-artificial-intelligence.amp",
+      "publishedDateTime": "2022-09-05T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-05-wipro-ge-healthcare-launches-made-in-india-ai-enabled-cath-lab.md",
       "title": "Wipro GE Healthcare launches ‘Made in India’ AI-enabled Cath lab",
       "excerpt": "GE Healthcare, a medical technology, diagnostics, and digital solutions company, launched its ‘Made in India’, ‘AI-powered’ Cath lab-Optima IGS 320 to advance cardiac care in India. It is built at Wipro GE Healthcare’s new Bengaluru factory and leverages the GE proprietary AutoRight technology.",
@@ -180,6 +423,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-05-researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour.md",
+      "title": "Researchers discover how artificial intelligence can be trained to detect tumour",
+      "excerpt": "\"Thanks to the interdisciplinary structures at PRODI, we have the best prerequisites for incorporating the hypothesis-based approach into the developm..",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/business-analytics/researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour/93993860",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/business-analytics/researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour/93993860",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-93993860,imgsize-25480,width-1200,height-628,overlay-etcio/researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/business-analytics/researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour/93993860",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/business-analytics/researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour/93993860",
+      "publishedDateTime": "2022-09-04T20:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
       ]
     },
     {
@@ -929,294 +1216,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-robots-and-artificial-intelligence-bring-nebraska-25-million.md",
-      "title": "Robots and artificial intelligence bring Nebraska $25 million",
-      "excerpt": "Satellite data, parsed by artificial intelligence speaking to drones, connecting to robots, maintained by a newly trained workforce. That’s what helped a Nebraska group, Heartland Robotics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.1011now.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/",
-      "originalUrl": "https://www.1011now.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-koln-prod.cdn.arcpublishing.com/resizer/Aa35YlfkCZA-SPi05Z4Cvux9fww=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/6KTCEMGQAFFENCLHGHL4DUHGHY.bmp",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.1011now.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-1011now-com.cdn.ampproject.org/c/s/www.1011now.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/?outputType=amp",
-      "publishedDateTime": "2022-09-02T15:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "1011 Now",
-        "domain": "1011now.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-self-driving-tech-firm-aurora-mulls-sale-to-apple-or-microsoft-bloomberg-news.md",
-      "title": "Self-driving tech firm Aurora mulls sale to Apple or Microsoft - Bloomberg News",
-      "excerpt": "Aurora Innovation Inc Chief Executive Chris Urmson recently outlined several options for the self-driving tech firm to combat challenging market conditions, including a possible sale to Apple Inc or Microsoft Corp ,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/self-driving-company-aurora-mulling-possible-sale-apple-or-microsoft-bloomberg-2022-09-02/",
-      "originalUrl": "https://www.reuters.com/technology/self-driving-company-aurora-mulling-possible-sale-apple-or-microsoft-bloomberg-2022-09-02/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/yxjAESGr5tcvKUPS6TJ_kG3SSN4=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XTDFE4XF4FPW7EBD4TNEHLL3CM.jpg",
-          "width": 728,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-ubtech-announces-global-debut-of-intelligent-healthcare-robots-and-solutions.md",
-      "title": "UBTECH announces global debut of intelligent healthcare robots and solutions",
-      "excerpt": "At the event, UBTECH announced its strategy of creating a smart elderly-care system with several sub-systems within specific elderly-care scenarios. They also launched several robotics products for the healthcare and elderly-care domain.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ubtech-announces-global-debut-of-intelligent-healthcare-robots-and-solutions-1031722479",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ubtech-announces-global-debut-of-intelligent-healthcare-robots-and-solutions-1031722479",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1890962/image_1.jpg",
-          "width": 400,
-          "height": 266,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-researchers-suggest-more-effective-way-for-automatic-speech-recognition.md",
-      "title": "Researchers suggest more effective way for automatic speech recognition",
-      "excerpt": "Popular voice assistants such as Siri and Amazon Alexa have made automated speech recognition (ASR) available to the general public. Despite decades of development, ASR models suffer with consistency and dependability,",
-      "sourceUrl": null,
-      "webUrl": "https://theprint.in/features/researchers-suggest-more-effective-way-for-automatic-speech-recognition-2/1114253/",
-      "originalUrl": "https://theprint.in/features/researchers-suggest-more-effective-way-for-automatic-speech-recognition-2/1114253/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.theprint.in/wp-content/uploads/2022/09/ANI-20220902182110.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theprint.in/features/researchers-suggest-more-effective-way-for-automatic-speech-recognition-2/1114253/?amp",
-      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/features/researchers-suggest-more-effective-way-for-automatic-speech-recognition-2/1114253/?amp",
-      "publishedDateTime": "2022-09-02T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ThePrint",
-        "domain": "theprint.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-how-artificial-intelligence-can-explain-its-decisions.md",
-      "title": "How artificial intelligence can explain its decisions",
-      "excerpt": "Artificial intelligence (AI) can be trained to recognize whether a tissue image contains a tumor. However, exactly how it makes its decision has remained a mystery until now. A team from the Research Center for Protein Diagnostics (PRODI) at Ruhr-Universität Bochum is developing a new approach that will render an AI's decision transparent and thus trustworthy.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-09-artificial-intelligence-decisions.html",
-      "originalUrl": "https://techxplore.com/news/2022-09-artificial-intelligence-decisions.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/how-artificial-intelli-1.jpg",
-          "width": 1607,
-          "height": 769,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-09-artificial-intelligence-decisions.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-artificial-intelligence-decisions.amp",
-      "publishedDateTime": "2022-09-02T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-the-pending-home-sales-and-durable-goods-reports-forbes-ai-newsletter-august-27th.md",
-      "title": "The Pending Home Sales And Durable Goods Reports: Forbes AI Newsletter - August 27th",
-      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/09/02/the-pending-home-sales-and-durable-goods-reports-forbes-ai-newsletteraugust-27th/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/09/02/the-pending-home-sales-and-durable-goods-reports-forbes-ai-newsletteraugust-27th/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/631235c2d3078549f8dbaac6/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/09/02/the-pending-home-sales-and-durable-goods-reports-forbes-ai-newsletteraugust-27th/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/09/02/the-pending-home-sales-and-durable-goods-reports-forbes-ai-newsletteraugust-27th/amp/",
-      "publishedDateTime": "2022-09-02T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

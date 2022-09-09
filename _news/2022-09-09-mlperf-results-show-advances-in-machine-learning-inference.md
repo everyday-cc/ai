@@ -1,18 +1,20 @@
 ---
 category: news
 title: "MLPerf Results Show Advances in Machine Learning Inference"
-excerpt: "MLPerf benchmarks are comprehensive system tests that stress machine learning models, software, and hardware, and optionally monitor energy consumption. The open-source and peer-reviewed benchmark suites level the playing ground for competitiveness,"
-publishedDateTime: 2022-09-08T18:22:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-mlperf-results-show-advances-machine-learning-inference-/2022/09/08/9670229.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-mlperf-results-show-advances-machine-learning-inference-/2022/09/08/9670229.htm"
+excerpt: "MLCommons establishes a new record with over 5,300 performance results and 2,400 power measurement results, 1.37X and 1.09X more than the previous round. Today, the open engineering consortium MLCommo"
+publishedDateTime: 2022-09-08T17:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/09/b28799836/mlperf-results-show-advances-in-machine-learning-inference"
+webUrl: "https://www.benzinga.com/pressreleases/22/09/b28799836/mlperf-results-show-advances-in-machine-learning-inference"
+ampWebUrl: "https://www.benzinga.com/amp/content/28799836"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28799836"
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 54
+heat: 74
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
@@ -38,6 +40,6 @@ related:
       domain: datanami.com
     quality: 19
 
-secured: "AiD5qHggNvdoy7bGSOohzSVDWzwih5iWB35A1EEkfwEV6nbMMKsgWjUSik4pqA3wLTbB9l9IJcIIbJ7Iwj/Gv6GZsDPIGtTL9he2SWnkP0T/ETrIXNtXOYsQt6XSKNXhck+k1ePNj18slymEpBY/yw2CnJT4XzyQwlCuTyV18wK7G52+9hj4rHUFn9SU/3HIzUx6YVNGsQkWr0xgNwAjWQrsVBvCDPBn3i4jdpT6WBzo09JV40bICg14e48BzarcXCutcalo/CcAg8kIC+b1BYJeYzQda4an1TkKvFGthycJu/4pofawKL1RgAwcNmOJdWqn7C96cnMcl1Oy1K3VixkikanQHbZd2DbDPfQz36o=;8sTT8c+2CIvhQaiTyj+2aA=="
+secured: "3IihWVk/utzRNdcuzb2Ib4NxxLtpyFA2khrmkD9+DKSBiXSOuvRPP+5DfSNmqN1inMHDYoNUlgxtk1q478rwDLmQ7tOCaRvYidVUA+Z7eXUAPOe5m0iiV/lprTUDHmWA01hTWZnV528m/Go8gZsMYs3+RLPnQYnq/b6Veiwa4m6PxLq9KD7sGaGI5p0JJezEE/Zo860ZnAExQgNyyePy3cJ7hcrxuavdIyGevYQazqx3wpzKSJ5j5Ro6/lvBqBNa4Fa2uce9ZXMxJzr1+92ZkmVyNgx9DP1grGTZpuhMnthiGFy0noU21UGDQoxYqI/4IbWXdXFo4X8+R2XnxTZYwHi9oNx08Ah2J4GyNZCeg8E=;rFgV8I/oIeIy7UhBLpvgHw=="
 ---
 

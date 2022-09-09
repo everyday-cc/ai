@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.citizen.co.za/lifestyle/3191108/oxia-palus-artificial-in
 cdnAmpWebUrl: "https://amp-citizen-co-za.cdn.ampproject.org/c/s/amp.citizen.co.za/lifestyle/3191108/oxia-palus-artificial-intelligence-helping-to-restore-works-of-art/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "How AI is helping you edit photos"
+    excerpt: "From Lightroom to Luminar Neo, we surveyed the field and these are the most-powerful AI-enhanced photo editing platforms."
+    publishedDateTime: 2022-09-08T01:00:00Z
+    webUrl: "https://www.popsci.com/technology/ai-photo-editing-apps/"
+    ampWebUrl: "https://www.popsci.com/technology/ai-photo-editing-apps/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-photo-editing-apps/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 57
+    images:
+      - url: "https://www.popsci.com/uploads/2022/09/07/AI-sky-lead-scaled-1.jpg?auto=webp"
+        width: 2000
+        height: 1500
+        isCached: true
   - title: "Chatty AI is going to eat into call centers jobs"
     excerpt: "Conversational AI is coming to the call center in a big way. But it's not easy or cheap to implement and maintain."
     publishedDateTime: 2022-09-06T13:41:00Z

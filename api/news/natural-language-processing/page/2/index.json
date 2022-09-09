@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-24-restaurants-send-more-customer-calls-to-voice-bots-amid-staffing-shortages.md",
+      "title": "Restaurants Send More Customer Calls to Voice Bots Amid Staffing Shortages",
+      "excerpt": "Some executives say automating phone lines will ease pressure on stretched hospitality staff—but others question whether hungry customers are ready to order from a nonhuman voice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/restaurants-send-more-customer-calls-to-voice-bots-amid-staffing-shortages-11661335202",
+      "originalUrl": "https://www.wsj.com/articles/restaurants-send-more-customer-calls-to-voice-bots-amid-staffing-shortages-11661335202",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-609305/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/restaurants-send-more-customer-calls-to-voice-bots-amid-staffing-shortages-11661335202",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/restaurants-send-more-customer-calls-to-voice-bots-amid-staffing-shortages-11661335202",
+      "publishedDateTime": "2022-08-24T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-24-untether-ai-pulls-the-curtain-rope-for-its-next-gen-inferencing-system.md",
       "title": "Untether AI Pulls the Curtain Rope For Its Next-Gen Inferencing System",
       "excerpt": "When we last focused on Untether AI in 2021, the AI inferencing hardware startup had just secured $125 million in funding, which came a year after the",
@@ -1291,49 +1343,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-windows-speech-recognition-doesnt-work-fixed.md",
-      "title": "Windows Speech Recognition doesn’t work [Fixed]",
-      "excerpt": "Speech recognition is a relatively new but important feature in Windows computers. This option allows you to voice type and give commands to use applications in Windows. However, in some cases ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thewindowsclub.com/windows-speech-recognition-doesnt-work-fixed",
-      "originalUrl": "https://www.thewindowsclub.com/windows-speech-recognition-doesnt-work-fixed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thewindowsclub.com/wp-content/uploads/2022/08/Speech-Recognition-Setup-Doesnt-Work.jpg",
-          "width": 700,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-16T15:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Windows Club",
-        "domain": "thewindowsclub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

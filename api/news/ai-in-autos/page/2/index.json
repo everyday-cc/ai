@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-30-elon-musk-aims-to-have-self-driving-teslas-ready-by-year-end-in-the-us.md",
+      "title": "Elon Musk: aims to have self-driving Teslas ready by year-end in the U.S",
+      "excerpt": "Tesla founder Elon Musk said on Monday he aimed to get self-driving Teslas ready by year-end and hopes they could be in wide release in the United States and possibly in Europe, depending on regulatory approval.",
+      "sourceUrl": null,
+      "webUrl": "https://business-reporter.co.uk/technology/elon-musk-aims-to-have-self-driving-teslas-ready-by-year-end-in-the-us-7072",
+      "originalUrl": "https://business-reporter.co.uk/technology/elon-musk-aims-to-have-self-driving-teslas-ready-by-year-end-in-the-us-7072",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/018/2022-08-29T114020Z_2_LYNXMPEI7S0AM_RTROPTP_4_NORWAY-ENERGY.JPG",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T00:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "business-reporter.co.uk",
+        "domain": "business-reporter.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-will-robots-take-your-job-how-artificial-intelligence-will-change-the-future-of-work.md",
       "title": "Will Robots Take Your Job? How Artificial Intelligence Will Change the Future of Work",
       "excerpt": "Artificial intelligence is already affecting nearly every workplace in the country. Here's how the future of AI may shape the workplace of tomorrow. When most people think of artificial ...",
@@ -1377,40 +1420,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-bosch-backed-self-driving-startup-weride-weighing-ipo-sources-say.md",
-      "title": "Bosch-backed self-driving startup WeRide weighing IPO, sources say",
-      "excerpt": "The self-driving vehicle industry has long been divided over the best ... taking a similar approach to peers including Baidu, Huawei Technologies, and General Motors-backed Momenta.ai. BLOOMBERG",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesstimes.com.sg/garage/bosch-backed-self-driving-startup-weride-weighing-ipo-sources-say",
-      "originalUrl": "https://www.businesstimes.com.sg/garage/bosch-backed-self-driving-startup-weride-weighing-ipo-sources-say",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T01:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Times",
-        "domain": "businesstimes.com.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

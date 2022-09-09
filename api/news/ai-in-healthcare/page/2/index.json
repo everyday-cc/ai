@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-23-first-fda-cleared-autonomous-ai-makes-new-moves-in-healthcare-diagnostics.md",
+      "title": "First FDA-cleared autonomous AI makes new moves in healthcare diagnostics",
+      "excerpt": "The first autonomous AI system authorized by the FDA, for diagnosing diabetic retinopathy, has raised $75M in a series B funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/first-fda-cleared-autonomous-ai-makes-new-moves-in-healthcare-diagnostics/",
+      "originalUrl": "https://venturebeat.com/ai/first-fda-cleared-autonomous-ai-makes-new-moves-in-healthcare-diagnostics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1199527162.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/first-fda-cleared-autonomous-ai-makes-new-moves-in-healthcare-diagnostics/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/first-fda-cleared-autonomous-ai-makes-new-moves-in-healthcare-diagnostics/amp/",
+      "publishedDateTime": "2022-08-23T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-08-22-usd-20639-mn-growth-expected-in-light-therapy-market-driven-by-growing-prevalence-of-sad.md",
       "title": "USD 206.39 Mn growth expected in Light Therapy Market -- Driven by growing prevalence of SAD",
       "excerpt": "The \"Light Therapy Market by End-user and Geographic Landscape - Forecast and Analysis 2020-2024\" report by Technavio expects the market size to grow by USD 206.39 million between 2019 and 2024. The market witnessed a YOY growth of 4.",
@@ -1369,59 +1421,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-computer-vision-in-healthcare-market-size-2022-global-industry-share-growth-segments-revenue-manufacturers-and-2028-forecast-research-report.md",
-      "title": "Computer Vision in Healthcare Market Size 2022, Global Industry Share, Growth, Segments, Revenue, Manufacturers and 2028 Forecast Research Report",
-      "excerpt": "Aug 11, 2022 (The Expresswire) -- Global “Computer Vision in Healthcare Market” (2022-2028) research report by researcher gives an insight into the trending modern situation, size, share ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-size-2022-global-industry-share-growth-segments-revenue-manufacturers-and-2028-forecast-research-report-2022-08-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-size-2022-global-industry-share-growth-segments-revenue-manufacturers-and-2028-forecast-research-report-2022-08-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-10T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

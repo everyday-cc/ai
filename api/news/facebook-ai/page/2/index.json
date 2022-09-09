@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-11-metas-new-ai-powered-chatbot-isnt-crazy-about-facebook.md",
+      "title": "Meta's New AI-Powered Chatbot Isn't 'Crazy' About Facebook",
+      "excerpt": "Sitting in front of a computer screen, I'm typing messages to a new chatbot created by Facebook parent company Meta. We talk about pizza, politics and even social media. \"What do you think about Facebook?",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/social-media/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/",
+      "originalUrl": "https://www.cnet.com/news/social-media/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/3abc51f996503ec0faa83f567236fed169e31f5c/2022/05/16/06eca44f-31a2-4125-bb40-44bdda74f935/meta-with-facebook-emoji-reaction-faces-blue.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/",
+      "publishedDateTime": "2022-08-10T16:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president.md",
       "title": "Meta AI chatbot says Zuckerberg 'too creepy' and Trump will always be US president",
       "excerpt": "Meta (formerly Facebook) just unveiled an artificial intelligence ... tweeted that she tried out the new chatbot Meta created for AI research and had the most bizarre conversation.",
@@ -1409,49 +1461,6 @@
         "Math for AI",
         "Natural Language Processing",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-metas-make-a-scene-uses-ai-to-create-digital-imagery-from-text.md",
-      "title": "Meta's Make-A-Scene uses AI to create digital imagery from text",
-      "excerpt": "Meta, formerly known as Facebook, has developed a new Artificial Intelligence (AI)-based research concept that will let people use text and simple sketches",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/tech/news/metas-make-a-scene-uses-ai-to-create-digital-imagery-from-text/articleshow/92898964.cms",
-      "originalUrl": "https://www.businessinsider.in/tech/news/metas-make-a-scene-uses-ai-to-create-digital-imagery-from-text/articleshow/92898964.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/92899003.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.in/tech/news/metas-make-a-scene-uses-ai-to-create-digital-imagery-from-text/amp_articleshow/92898964.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/metas-make-a-scene-uses-ai-to-create-digital-imagery-from-text/amp_articleshow/92898964.cms",
-      "publishedDateTime": "2022-07-15T01:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

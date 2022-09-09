@@ -595,24 +595,33 @@
     {
       "path": "_news/2022-08-30-aws-launches-region-in-the-united-arab-emirates.md",
       "title": "AWS Launches Region in the United Arab Emirates",
-      "excerpt": "(NASDAQ: AMZN), today announced the launch of its second Region in the Middle East, the AWS Middle East (UAE) Region. Starting today, developers, startups, entrepreneurs, and enterprises, as well as government,",
+      "excerpt": "AWS is committed to helping customers in the UAE deploy the most advanced cloud technologies and achieve the highest levels of security, availability, and resiliency,” said Prasad Kalyanaraman, vice president of Infrastructure Services at AWS.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-aws-launches-region-the-united-arab-emirates-/2022/08/30/9663810.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-aws-launches-region-the-united-arab-emirates-/2022/08/30/9663810.htm",
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-middle-east-economy-amazoncom-inc-d9b9452aac444bf3821796b7f621f354",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-middle-east-economy-amazoncom-inc-d9b9452aac444bf3821796b7f621f354",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T00:42:00-07:00",
+      "publishedDateTime": "2022-08-29T23:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

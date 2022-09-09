@@ -2,6 +2,281 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-09-01-us-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts.md",
+      "title": "U.S. export ban on some advanced AI chips to hit almost all China tech majors - analysts",
+      "excerpt": "A U.S. order to ban exports of some advanced chips to China is likely to hit almost any major tech company running public clouds or advanced artificial intelligence training modules in the country ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/u.s.-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts",
+      "originalUrl": "https://www.nasdaq.com/articles/u.s.-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/u.s.-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/u.s.-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts?amp",
+      "publishedDateTime": "2022-09-01T03:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-how-to-prepare-faster-for-looming-ai-regulation-turn-defense-into-offense.md",
+      "title": "How To Prepare Faster For Looming AI Regulation: Turn Defense Into Offense",
+      "excerpt": "With AI, the same elements of an effective culture of compliance can also spark innovation, collaboration and agility with data science.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/how-to-prepare-faster-for-looming-ai-regulation-turn-defense-into-offense/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/how-to-prepare-faster-for-looming-ai-regulation-turn-defense-into-offense/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/630f5e5918c93764f06047ca/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/how-to-prepare-faster-for-looming-ai-regulation-turn-defense-into-offense/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/01/how-to-prepare-faster-for-looming-ai-regulation-turn-defense-into-offense/amp/",
+      "publishedDateTime": "2022-09-01T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-us-export-ban-on-some-advanced-ai-chips-to-hit-china-tech-majors.md",
+      "title": "U.S. export ban on some advanced AI chips to hit China tech majors",
+      "excerpt": "A U.S. order to ban exports of some advanced chips to China is likely to hit almost any major tech company running public clouds or advanced artificial intelligence training modules in the country, experts said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/us-export-ban-some-advanced-ai-chips-hit-almost-all-china-tech-majors-analysts-2022-09-01/",
+      "originalUrl": "https://www.reuters.com/technology/us-export-ban-some-advanced-ai-chips-hit-almost-all-china-tech-majors-analysts-2022-09-01/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/-52JtMZ5ltCjOvdIznDRdpNeJUU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5ULYQLPGWJKG3E22NO3SWMBKWA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-01T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-ai-in-fintech-market-will-reach-more-than-61-billion-by-2031.md",
+      "title": "AI In Fintech Market Will Reach More Than $61 Billion, By 2031",
+      "excerpt": "Artificial Intelligence has been growing its influence in Fintech, and is projected to hit $61 billion in under 10 years. We tell you how.",
+      "sourceUrl": null,
+      "webUrl": "https://www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/",
+      "originalUrl": "https://www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.investingcube.com/wp-content/uploads/2022/06/Crypto-wallet.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/amp/",
+      "cdnAmpWebUrl": "https://www-investingcube-com.cdn.ampproject.org/c/s/www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/amp/",
+      "publishedDateTime": "2022-09-01T00:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestingCube",
+        "domain": "investingcube.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-blockchain-ai-and-the-metaverse-tools-for-better-decision-making.md",
+      "title": "Blockchain, AI, and the metaverse — tools for better decision-making?",
+      "excerpt": "When it comes to working together, people need help — whether they're in a conference room or in the metaverse. Could technology such as blockchain and AI make a difference?",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3672428/blockchain-ai-and-the-metaverse-tools-for-better-decision-making.html",
+      "originalUrl": "https://www.computerworld.com/article/3672428/blockchain-ai-and-the-metaverse-tools-for-better-decision-making.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/11/22/busines_communication_network_partnership_collaboration_teams_hiring_by_metamorworks_gettyimages-1159740443_2400x1600-100852686-large-100921745-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3672428/blockchain-ai-and-the-metaverse-tools-for-better-decision-making.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3672428/blockchain-ai-and-the-metaverse-tools-for-better-decision-making.amp.html",
+      "publishedDateTime": "2022-09-01T00:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-i-pitched-my-ridiculous-startup-idea-to-a-robot-vc.md",
+      "title": "I pitched my ridiculous startup idea to a robot VC",
+      "excerpt": "It was the pitch for my new startup, a company that promised to deliver ... specific VC expertise and advice by way of the powerful AI language model GPT-3. Originally released by OpenAI in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/pitched-startup-to-robot-vc/",
+      "originalUrl": "https://www.digitaltrends.com/computing/pitched-startup-to-robot-vc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/08/WaterDrone.png?p=1",
+          "width": 1456,
+          "height": 1002,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/pitched-startup-to-robot-vc/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/pitched-startup-to-robot-vc/?amp",
+      "publishedDateTime": "2022-08-31T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "digitaltrends.com",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-how-ai-is-helping-anonymize-clinical-trial-submissions.md",
       "title": "How AI Is Helping Anonymize Clinical Trial Submissions",
       "excerpt": "Anonymization of clinical trial submissions is tricky and risks regulatory penalties. Here’s how AI can help protect patient data privacy while ensuring transparency.",
@@ -901,301 +1176,6 @@
         "AI Hardware",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-expertai-launches-turn-language-into-action-a-natural-language-hackathon-for-good.md",
-      "title": "Expert.ai Launches \"Turn Language into Action\" a Natural Language Hackathon for Good",
-      "excerpt": "Expert.ai Launches \"Turn Language into Action\" a Natural Language Hackathon for Good Aug (PRNewswire via COMTEX) -- PR Newswire BOSTON, Aug.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/expertai-launches-turn-language-into-action-a-natural-language-hackathon-for-good-2022-08-31",
-      "originalUrl": "https://www.marketwatch.com/press-release/expertai-launches-turn-language-into-action-a-natural-language-hackathon-for-good-2022-08-31",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-31T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-revolutions-start-with-the-green-data-center.md",
-      "title": "Revolutions Start With The Green Data Center",
-      "excerpt": "Without the right amount of computing power and the proper investment in green data center technologies to achieve both greater power and efficiency, we won’t be able to harness the intelligence required.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/08/31/revolutions-start-with-the-green-data-center/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/08/31/revolutions-start-with-the-green-data-center/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/630e245943306ea78a04b7de/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/08/31/revolutions-start-with-the-green-data-center/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/08/31/revolutions-start-with-the-green-data-center/amp/",
-      "publishedDateTime": "2022-08-31T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-jio-haptik-collaborates-with-microsoft-azure-to-enhance-hindi-chatbots.md",
-      "title": "Jio Haptik collaborates with Microsoft Azure to enhance Hindi chatbots",
-      "excerpt": "The company claims that it has facilitated over 2 million conversations on Jio Mobility with an 80 per cent reduction in human interventions and a 2.5 times increase in localised queries. Jio Haptik at present supports conversation in 130 languages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcquest.com/jio-haptik-collaborates-with-microsoft-azure-to-enhance-hindi-chatbots/",
-      "originalUrl": "https://www.pcquest.com/jio-haptik-collaborates-with-microsoft-azure-to-enhance-hindi-chatbots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcquest.com/wp-content/uploads/2018/04/chatbots.jpg",
-          "width": 750,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcquest.com/jio-haptik-collaborates-with-microsoft-azure-to-enhance-hindi-chatbots/amp/",
-      "cdnAmpWebUrl": "https://www-pcquest-com.cdn.ampproject.org/c/s/www.pcquest.com/jio-haptik-collaborates-with-microsoft-azure-to-enhance-hindi-chatbots/amp/",
-      "publishedDateTime": "2022-08-31T03:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCQuest",
-        "domain": "pcquest.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-mi5-reveals-it-has-been-working-with-an-ai-non-profit-on-national-security-since-2017.md",
-      "title": "MI5 reveals it has been working with an AI non-profit on national security since 2017",
-      "excerpt": "The security service has been working with The Alan Turing Institute and has decided to unveil the partnership today to allow the pair to work more closely together",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368922/mi5-reveals-it-has-been-working-with-an-ai-non-profit-national-security-2017",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368922/mi5-reveals-it-has-been-working-with-an-ai-non-profit-national-security-2017",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1661941040/itpro/2022/August/MI5_HQ_Thames_House_London_spy_GettyImages-182911822.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-31T03:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-ai-in-fintech-global-market-to-reach-2417-billion-by-2026.md",
-      "title": "AI in FinTech Global Market to Reach $24.17 Billion by 2026",
-      "excerpt": "AI in FinTech Global Market to Reach $24.17 Billion by 2026 Aug 31, 2022 (PRNewswire via COMTEX) -- PR Newswire DUBLIN, DUBLIN, Aug. 31,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-global-market-to-reach-2417-billion-by-2026-2022-08-31",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-global-market-to-reach-2417-billion-by-2026-2022-08-31",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-31T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology.md",
-      "title": "Removing the data security barriers and concerns to accelerate speech recognition usage in radiology",
-      "excerpt": "According to Scribetech, security is a key barrier to adopting speech recognition – despite its potential to accelerate reporting time, drive accuracy, and enable radiologists to deal with a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbc4i.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/",
-      "originalUrl": "https://www.nbc4i.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.nbc4i.com/wp-content/uploads/sites/18/2022/09/9-8-22-pm-wx-cover.jpg?w=2000&#038;ssl=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-31T02:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC4i",
-        "domain": "nbc4i.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

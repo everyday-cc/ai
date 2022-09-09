@@ -8,9 +8,9 @@ webUrl: "https://techxplore.com/news/2022-09-artificial-intelligence-propel-grow
 ampWebUrl: "https://techxplore.com/news/2022-09-artificial-intelligence-propel-growth-industry.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-artificial-intelligence-propel-growth-industry.amp"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: techxplore
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/how-explainable-artifi.jpg"

@@ -2,6 +2,294 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-09-03-robots-and-artificial-intelligence-bring-nebraska-25-million.md",
+      "title": "Robots and artificial intelligence bring Nebraska $25 million",
+      "excerpt": "Satellite data, parsed by artificial intelligence speaking to drones, connecting to robots, maintained by a newly trained workforce. That’s what helped a Nebraska group, Heartland Robotics ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.1011now.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/",
+      "originalUrl": "https://www.1011now.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-koln-prod.cdn.arcpublishing.com/resizer/Aa35YlfkCZA-SPi05Z4Cvux9fww=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/6KTCEMGQAFFENCLHGHL4DUHGHY.bmp",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.1011now.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-1011now-com.cdn.ampproject.org/c/s/www.1011now.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/?outputType=amp",
+      "publishedDateTime": "2022-09-02T15:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "1011 Now",
+        "domain": "1011now.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-03-self-driving-tech-firm-aurora-mulls-sale-to-apple-or-microsoft-bloomberg-news.md",
+      "title": "Self-driving tech firm Aurora mulls sale to Apple or Microsoft - Bloomberg News",
+      "excerpt": "Aurora Innovation Inc Chief Executive Chris Urmson recently outlined several options for the self-driving tech firm to combat challenging market conditions, including a possible sale to Apple Inc or Microsoft Corp ,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/self-driving-company-aurora-mulling-possible-sale-apple-or-microsoft-bloomberg-2022-09-02/",
+      "originalUrl": "https://www.reuters.com/technology/self-driving-company-aurora-mulling-possible-sale-apple-or-microsoft-bloomberg-2022-09-02/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/yxjAESGr5tcvKUPS6TJ_kG3SSN4=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XTDFE4XF4FPW7EBD4TNEHLL3CM.jpg",
+          "width": 728,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-02T13:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-03-ubtech-announces-global-debut-of-intelligent-healthcare-robots-and-solutions.md",
+      "title": "UBTECH announces global debut of intelligent healthcare robots and solutions",
+      "excerpt": "At the event, UBTECH announced its strategy of creating a smart elderly-care system with several sub-systems within specific elderly-care scenarios. They also launched several robotics products for the healthcare and elderly-care domain.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ubtech-announces-global-debut-of-intelligent-healthcare-robots-and-solutions-1031722479",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ubtech-announces-global-debut-of-intelligent-healthcare-robots-and-solutions-1031722479",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1890962/image_1.jpg",
+          "width": 400,
+          "height": 266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-02T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-03-researchers-suggest-more-effective-way-for-automatic-speech-recognition.md",
+      "title": "Researchers suggest more effective way for automatic speech recognition",
+      "excerpt": "Popular voice assistants such as Siri and Amazon Alexa have made automated speech recognition (ASR) available to the general public. Despite decades of development, ASR models suffer with consistency and dependability,",
+      "sourceUrl": null,
+      "webUrl": "https://theprint.in/features/researchers-suggest-more-effective-way-for-automatic-speech-recognition-2/1114253/",
+      "originalUrl": "https://theprint.in/features/researchers-suggest-more-effective-way-for-automatic-speech-recognition-2/1114253/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.theprint.in/wp-content/uploads/2022/09/ANI-20220902182110.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theprint.in/features/researchers-suggest-more-effective-way-for-automatic-speech-recognition-2/1114253/?amp",
+      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/features/researchers-suggest-more-effective-way-for-automatic-speech-recognition-2/1114253/?amp",
+      "publishedDateTime": "2022-09-02T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ThePrint",
+        "domain": "theprint.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-03-how-artificial-intelligence-can-explain-its-decisions.md",
+      "title": "How artificial intelligence can explain its decisions",
+      "excerpt": "Artificial intelligence (AI) can be trained to recognize whether a tissue image contains a tumor. However, exactly how it makes its decision has remained a mystery until now. A team from the Research Center for Protein Diagnostics (PRODI) at Ruhr-Universität Bochum is developing a new approach that will render an AI's decision transparent and thus trustworthy.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-09-artificial-intelligence-decisions.html",
+      "originalUrl": "https://techxplore.com/news/2022-09-artificial-intelligence-decisions.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/how-artificial-intelli-1.jpg",
+          "width": 1607,
+          "height": 769,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-09-artificial-intelligence-decisions.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-artificial-intelligence-decisions.amp",
+      "publishedDateTime": "2022-09-02T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-03-the-pending-home-sales-and-durable-goods-reports-forbes-ai-newsletter-august-27th.md",
+      "title": "The Pending Home Sales And Durable Goods Reports: Forbes AI Newsletter - August 27th",
+      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/09/02/the-pending-home-sales-and-durable-goods-reports-forbes-ai-newsletteraugust-27th/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/09/02/the-pending-home-sales-and-durable-goods-reports-forbes-ai-newsletteraugust-27th/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/631235c2d3078549f8dbaac6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/09/02/the-pending-home-sales-and-durable-goods-reports-forbes-ai-newsletteraugust-27th/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/09/02/the-pending-home-sales-and-durable-goods-reports-forbes-ai-newsletteraugust-27th/amp/",
+      "publishedDateTime": "2022-09-02T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-09-02-cruise-recalls-self-driving-car-software-because-humans-are-dumb.md",
       "title": "Cruise Recalls Self-Driving-Car Software Because Humans Are Dumb",
       "excerpt": "GM's Cruise subsidiary has performed over 120,000 unprotected left turns in its self-driving development vehicles, but a single extreme scenario that resulted in a collision ended up prompting a ...",
@@ -874,298 +1162,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-ai-software-the-bridge-from-data-to-insights.md",
-      "title": "AI software: The bridge from data to insights",
-      "excerpt": "These might include AI analytics toolkits, development and deployment toolkits, end-to-end distributed AI toolkits, reference toolkits and AutoML toolkits. Also: domain specific toolkits ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-software-the-bridge-from-data-to-insights/",
-      "originalUrl": "https://venturebeat.com/ai/ai-software-the-bridge-from-data-to-insights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1293487802-I-am-3D-animator-artist.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-software-the-bridge-from-data-to-insights/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-software-the-bridge-from-data-to-insights/amp/",
-      "publishedDateTime": "2022-09-01T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-radius-ai-brings-edge-ai-to-retail-wins-innovation-award.md",
-      "title": "Radius AI brings edge AI to retail, wins Innovation Award",
-      "excerpt": "Radius AI won the AI Innovation Awards' Edge AI category for its technology that equips retailers with real-time customer insights.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/radius-ai-brings-edge-ai-to-retail-wins-innovation-award/",
-      "originalUrl": "https://venturebeat.com/ai/radius-ai-brings-edge-ai-to-retail-wins-innovation-award/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-retail-store_customers_convenience-store_158313046-e1662051971156.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/radius-ai-brings-edge-ai-to-retail-wins-innovation-award/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/radius-ai-brings-edge-ai-to-retail-wins-innovation-award/amp/",
-      "publishedDateTime": "2022-09-01T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-motley-fool-meet-the-brains-of-the-self-driving-revolution.md",
-      "title": "Motley Fool: Meet the Brains of the Self-Driving Revolution",
-      "excerpt": "Meet the Brains of the Self-Driving Revolution Investing Humans, animals, and machines. We all require a brain",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com.au/free-stock-report/sa-meet-the-brains-of-the-self-driving-revolution/",
-      "originalUrl": "https://www.fool.com.au/free-stock-report/sa-meet-the-brains-of-the-self-driving-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fool.com.au/wp-content/uploads/2022/09/self-driving-revolution-brains-copy.png",
-          "width": 788,
-          "height": 590,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-01T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Motley Fool Australia",
-        "domain": "fool.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-instacart-is-acquiring-ai-powered-pricing-and-promotions-platform-eversight.md",
-      "title": "Instacart is acquiring AI-powered pricing and promotions platform Eversight",
-      "excerpt": "Instacart is acquiring Eversight, an AI-powered pricing and promotions platform for Consumer Packaged Goods (CPG) brands and retailers, the company announced on Thursday. The financial terms of the deal were not disclosed.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/01/instacart-is-acquiring-ai-powered-pricing-and-promotions-platform-eversight/",
-      "originalUrl": "https://techcrunch.com/2022/09/01/instacart-is-acquiring-ai-powered-pricing-and-promotions-platform-eversight/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-496871326.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/01/instacart-is-acquiring-ai-powered-pricing-and-promotions-platform-eversight/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/01/instacart-is-acquiring-ai-powered-pricing-and-promotions-platform-eversight/amp/",
-      "publishedDateTime": "2022-09-01T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-us-bans-chipmakers-from-sending-ai-training-chips-to-china-and-russia.md",
-      "title": "U.S. Bans Chipmakers From Sending AI Training Chips to China and Russia",
-      "excerpt": "This restriction apparently includes any chip with capabilities on par with the A100 or A100X, and also impacts the company’s ability to develop its more advanced AI chips that were set for ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/ai-chips-russia-china-amd-nvidia-1849484950",
-      "originalUrl": "https://gizmodo.com/ai-chips-russia-china-amd-nvidia-1849484950",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-01T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-learn-how-amazon-sagemaker-clarify-helps-detect-bias.md",
-      "title": "Learn How Amazon SageMaker Clarify Helps Detect Bias",
-      "excerpt": "Bias detection in data and model outcomes is a fundamental requirement for building responsible artificial intelligence (AI) and machine learning (ML) models. Unfortunately, detecting bias isn’t an easy task for the vast majority of practitioners due to the large number of ways in which it can be measured",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/learn-how-amazon-sagemaker-clarify-helps-detect-bias/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/learn-how-amazon-sagemaker-clarify-helps-detect-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/01/Featured-images-for-ML-9368.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-01T09:06:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

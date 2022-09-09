@@ -2,6 +2,192 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-06-13-engineers-build-lego-like-artificial-intelligence-chip.md",
+      "title": "Engineers build LEGO-like artificial intelligence chip",
+      "excerpt": "Imagine a more sustainable future, where cellphones, smartwatches, and other wearable devices don't have to be shelved or discarded for a newer model. Instead, they could be upgraded with the latest sensors and processors that would snap onto a device's internal chip—like LEGO bricks incorporated into an existing build.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-06-lego-like-artificial-intelligence-chip.html",
+      "originalUrl": "https://techxplore.com/news/2022-06-lego-like-artificial-intelligence-chip.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/engineers-build-lego-l.jpg",
+          "width": 1434,
+          "height": 727,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-06-lego-like-artificial-intelligence-chip.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-lego-like-artificial-intelligence-chip.amp",
+      "publishedDateTime": "2022-06-13T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Hardware",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-the-data-science-and-ai-market-may-be-out-for-a-recalibration.md",
+      "title": "The data science and AI market may be out for a recalibration",
+      "excerpt": "Being a data scientist was supposed to be \"the sexiest job of the 21st century\". Whether the famous Harvard Business Review aphorism of 2012 holds water is somewhat subjective, depending on how you interpret \"sexy\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-data-science-and-ai-market-may-be-out-for-a-recalibration/",
+      "originalUrl": "https://www.zdnet.com/article/the-data-science-and-ai-market-may-be-out-for-a-recalibration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/a9504caf2ddfb0b7c19917de3dbf34532f282eac/2021/07/16/95711752-ec77-44fc-8dc0-70aa6204d707/data-science-shutterstock-1081970570.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-data-science-and-ai-market-may-be-out-for-a-recalibration/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-data-science-and-ai-market-may-be-out-for-a-recalibration/",
+      "publishedDateTime": "2022-06-13T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk.md",
+      "title": "Machine learning-led decarbonisation platform Ecolibrium launches in the UK",
+      "excerpt": "Ecolibrium launches in the UK today having already signed its first commercial contract with Integral, JLL's UK engineering and facilities service ... Ecolibrium's proprietary machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-835169759.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-835169759.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1837227/Ecolibrium_Yash_Kapila_and_Chintan_Soni.jpg?p=facebook",
+          "width": 2700,
+          "height": 1413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-massachusetts-institute-of-technology-student-powered-machine-learning.md",
+      "title": "Massachusetts Institute of Technology: Student-powered machine learning",
+      "excerpt": "From their early days at MIT, and even before, Emma Liu '22, MNG '22, Yo-whan “John” Kim '22, MNG '22, and Clemente Ocejo '21, MNG '22 knew they wanted to perform computational research and explore artificial intelligence and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-student-powered-machine-learning/",
+      "originalUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-student-powered-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-student-powered-machine-learning/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-student-powered-machine-learning/",
+      "publishedDateTime": "2022-06-12T18:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-06-13-synthetic-data-is-about-to-transform-artificial-intelligence.md",
       "title": "Synthetic Data Is About To Transform Artificial Intelligence",
       "excerpt": "It is called synthetic data. Synthetic data is not a new idea, but it is now approaching a critical inflection point in terms of real-world impact. It is poised to upend the entire value chain and technology stack for artificial intelligence,",
@@ -1207,170 +1393,6 @@
       "provider": {
         "name": "SC Media",
         "domain": "scmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-ampd-signs-deal-with-variational-ai-to-increase-its-machine-learning-platform-at-dc1.md",
-      "title": "AMPD Signs Deal with Variational AI to Increase Its Machine Learning Platform at DC1",
-      "excerpt": "VANCOUVER, BC / ACCESSWIRE / June 6, 2022 / AMPD Ventures Inc. (CSE:AMPD) (OTCQB:AMPDF) (FRA:2Q0) ('AMPD' or the 'Company'), a next-generation digital infrastructure provider, is pleased to announce that it has signed a deal with Variational AI Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/272577578/ampd-signs-deal-with-variational-ai-to-increase-its-machine-learning-platform-at-dc1",
-      "originalUrl": "https://www.bignewsnetwork.com/news/272577578/ampd-signs-deal-with-variational-ai-to-increase-its-machine-learning-platform-at-dc1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/cus1655614273766.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T19:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-googles-cloud-automl-is-an-ai-to-help-engineers-program-ai.md",
-      "title": "Google's Cloud AutoML Is An AI To Help Engineers Program AI",
-      "excerpt": "In late 2017 Google announced it had been working on AutoML (short for “automated machine learning”), a machine learning algorithm that is essentially capable of programming and training other algorithms. Now Google has introduced an alpha version of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/googles-cloud-automl-ai-help-engineers-program-ai",
-      "originalUrl": "https://www.designnews.com/electronics-test/googles-cloud-automl-ai-help-engineers-program-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Google%20Cloud%20AutoML%20Vision.png",
-          "width": 1708,
-          "height": 962,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-machine-learning-helps-determine-health-of-soybean-fields.md",
-      "title": "Machine learning helps determine health of soybean fields",
-      "excerpt": "Using a combination of drones and machine learning techniques, researchers from The Ohio State University have recently developed a novel method for determining crop health and used it to create a new tool that may aid future farmers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/955101",
-      "originalUrl": "https://www.eurekalert.org/news-releases/955101",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-machine-learning-or-automation-whats-the-difference.md",
-      "title": "Machine Learning or Automation: What’s the Difference?",
-      "excerpt": "Machine learning is a rapidly developing subset of artificial intelligence that focuses on analyzing large data quantities, typically to make predictions. AI systems can’t truly think yet ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessnewsdaily.com/10352-machine-learning-vs-automation.html",
-      "originalUrl": "https://www.businessnewsdaily.com/10352-machine-learning-vs-automation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.businessnewsdaily.com/app/uploads/2022/04/04075911/1554238485.jpeg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business News Daily",
-        "domain": "businessnewsdaily.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,40 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-05-20-transforming-government-services-with-artificial-intelligence.md",
+      "title": "Transforming Government Services with Artificial Intelligence",
+      "excerpt": "State and local agencies can find effective solutions by identifying their goals first. In this Q&A, Keith Bauer, director of data and AI for state and local government at Microsoft, shares advice on how to get started.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence",
+      "originalUrl": "https://www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-19T11:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-20-edge-artificial-intelligence-ai-software-market-analysis-worth-usd-25193-million-in-2028-emergen-research.md",
       "title": "Edge Artificial Intelligence (AI) Software Market Analysis Worth USD 2,519.3 Million In 2028 | Emergen Research",
       "excerpt": "which are crucial for robotics and self-driving vehicles. The Global Edge Artificial Intelligence (AI) Software Market Research Report has been formulated by analysis of key business details and ...",
@@ -1364,59 +1398,7 @@
         "AI",
         "AI in Autos"
       ]
-    },
-    {
-      "path": "_news/2022-05-11-the-problem-with-self-driving-cars.md",
-      "title": "The problem with self-driving cars",
-      "excerpt": "The question was never about automating driving. The question is about how to transform the transit experience.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/14/the-problem-with-self-driving-cars/",
-      "originalUrl": "https://venturebeat.com/2022/05/14/the-problem-with-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/06/shutterstock_635238704.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/14/the-problem-with-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/14/the-problem-with-self-driving-cars/amp/",
-      "publishedDateTime": "2022-05-10T20:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 19
 }
