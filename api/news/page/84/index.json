@@ -2,6 +2,109 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2022-06-30-retrace-achieves-ehnac-healthcare-network-accreditation.md",
+      "title": "Retrace Achieves EHNAC Healthcare Network Accreditation",
+      "excerpt": "Retrace , a leader in dental artificial intelligence and the first native-built AI healthcare clearinghouse providing digital infrastructure for US health care, announced today it has achieved full accreditation with the Healthcare Network Accreditation Program (HNAP) for Electronic Health Networks (EHN) from the Electronic Healthcare Network Accreditation Commission.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-retrace-achieves-ehnac-healthcare-network-accreditation-/2022/06/30/9631748.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-retrace-achieves-ehnac-healthcare-network-accreditation-/2022/06/30/9631748.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-trackforce-valiant-announces-the-acquisition-of-tracktik-software-to-provide-visibility-and-control-for-the-physical-security-workforce.md",
+      "title": "Trackforce Valiant announces the acquisition of TrackTik Software to provide visibility and control for the physical security workforce",
+      "excerpt": "Trackforce Valiant, a provider of security workforce management solutions, announces the acquisition of TrackTik Software, one of the most innovative and fastest-growing cloud-based security",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/trackforce-valiant-announces-acquisition-tracktik-software-co-1547478593-ga-co-1568095304-ga.1656589900.html",
+      "originalUrl": "https://www.sourcesecurity.com/news/trackforce-valiant-announces-acquisition-tracktik-software-co-1547478593-ga-co-1568095304-ga.1656589900.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/trackforce-valiant-announces-acquisition-tracktik-software-co-1547478593-ga-co-1568095304-ga.1656589900.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/trackforce-valiant-announces-acquisition-tracktik-software-co-1547478593-ga-co-1568095304-ga.1656589900.html",
+      "publishedDateTime": "2022-06-30T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-chinese-tech-giants-vow-to-stop-nft-secondary-trading-state-media.md",
+      "title": "Chinese tech giants vow to stop NFT secondary trading -state media",
+      "excerpt": "HONG KONG — Chinese tech giants including Tencent Holdings and Ant Group have signed a pact to stop the secondary trading of digital collectibles and “self-regulate” their ... that other signatories included Baidu and JD.com. Digital collectibles ...",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/pmn/business-pmn/chinese-tech-giants-vow-to-stop-nft-secondary-trading-state-media",
+      "originalUrl": "https://financialpost.com/pmn/business-pmn/chinese-tech-giants-vow-to-stop-nft-secondary-trading-state-media",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://financialpost.com/pmn/business-pmn/chinese-tech-giants-vow-to-stop-nft-secondary-trading-state-media/wcm/c5759fc4-07a3-4e18-8565-1bd3a69a14fb/amp/",
+      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/chinese-tech-giants-vow-to-stop-nft-secondary-trading-state-media/wcm/c5759fc4-07a3-4e18-8565-1bd3a69a14fb/amp/",
+      "publishedDateTime": "2022-06-30T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-30-ai-made-these-stunning-images-heres-why-experts-are-worried.md",
       "title": "AI made these stunning images. Here's why experts are worried",
       "excerpt": "A million bears walking on the streets of Hong Kong. A strawberry frog. A cat made out of spaghetti and meatballs.",
@@ -960,136 +1063,6 @@
       "provider": {
         "name": "Design News",
         "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-reflections-from-ethics-and-safety-on-the-ground-at-deepmind.md",
-      "title": "Reflections from ethics and safety ‘on the ground’ at DeepMind",
-      "excerpt": "Boxi shares their experiences working as a program specialist on the ethics & society team to support ethical, safe and beneficial AI development, highlighting the importance of interdisciplinary and sociotechnical thinking.",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/reflections-from-ethics-and-safety-on-the-ground-at-deepmind",
-      "originalUrl": "https://www.deepmind.com/blog/reflections-from-ethics-and-safety-on-the-ground-at-deepmind",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-the-metaverse-in-2040.md",
-      "title": "The Metaverse in 2040",
-      "excerpt": "See our research on: Gun Policy | Economy | Abortion | Russia ... They believe the infusion of more data into people’s experiences, progress in artificial intelligence (AI) assistive systems and the creation of entirely new spaces and experiences ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pewresearch.org/internet/2022/06/30/the-metaverse-in-2040/",
-      "originalUrl": "https://www.pewresearch.org/internet/2022/06/30/the-metaverse-in-2040/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2022/06/PI_22.06.28_metaverse_featured.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pew Research Center",
-        "domain": "pewresearch.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
-      "title": "China’s Baidu Races Waymo, GM to Develop Self-driving Cars",
-      "excerpt": "A Counter­revolution in the Philippines: Marcos 2.0 With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the ...",
-      "sourceUrl": null,
-      "webUrl": "https://thediplomat.com/2022/06/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/",
-      "originalUrl": "https://thediplomat.com/2022/06/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thediplomat.com/wp-content/uploads/2022/06/sizes/td-story-s-2/thediplomat_2022-06-29-165744.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Diplomat",
-        "domain": "thediplomat.com",
         "images": null,
         "publishers": null,
         "authors": null

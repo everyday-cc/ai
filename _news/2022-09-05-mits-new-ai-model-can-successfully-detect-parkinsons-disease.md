@@ -7,7 +7,7 @@ originalUrl: "https://indianexpress.com/article/technology/science/mit-research-
 webUrl: "https://indianexpress.com/article/technology/science/mit-research-artificial-intelligence-detect-parkinsons-disease-8132802/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "This AI is designed to detect Parkinson’s disease as we sleep"
+    excerpt: "Researchers at the Massachusetts Institute of Technology (MIT) have developed an original and relatively powerful device that can detect signs of Parkinson’s disease in certain individuals during their sleep."
+    publishedDateTime: 2022-09-05T00:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/09/05/this-ai-is-designed-to-detect-parkinsons-disease-as-we-sleep"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/09/04/1724689.jpg"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "AI Device Monitors Breathing to Diagnose Parkinson’s"
     excerpt: "Diagnosing Parkinson’s in a timely manner is difficult, since in most cases the diagnostic journey does not even start until motor symptoms, such as tremor and stiffness, have become apparent. However,"
     publishedDateTime: 2022-09-06T19:19:00Z

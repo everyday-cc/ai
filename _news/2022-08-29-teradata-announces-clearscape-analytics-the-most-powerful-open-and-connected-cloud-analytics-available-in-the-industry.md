@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Teradata Announces ClearScape Analytics: The Most Powerful, Open, and Connected Cloud Analytics Available in the Industry"
-excerpt: "Teradata (NYSE: TDC) today announced ClearScape Analytics, the significantly expanded and newly named analytics capabilities that span the entire suite of Vantage products. Teradata Vantage's industry-leading analytics have long been the cornerstone of the platform's appeal to enterprise customers for its ability to accelerate data insights and time to value."
-publishedDateTime: 2022-08-29T12:22:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/08/29/9663280.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/08/29/9663280.htm"
+excerpt: "ClearScape Analytics – which encompasses the same high-performing analytics that Teradata is known for but with 50+ new analytic functions – is available as part of Teradata VantageCloud and the new Teradata VantageCloud Lake,"
+publishedDateTime: 2022-08-29T10:55:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "diEcCFMdJebiVGAKXuRiADleZDyHeD0tssHLRoFtumI1VMPJZxOETs8Nn5kuPmVUgyKfrXkEJWtvydjyIxAjTBpmBCjfF2VML4tQUv12dt0Bp4TleryZlVzlGf30D4EfO5YefiMfHQDuhUC1DFyTQmfJAlPIXWNWsqFsgprzs6OVcZ5f6/fwAqTkXprIHPcc2bhqI/unrzs7gBHvI1y/YIhgF9EkyjUP1zPbaudeSdVnIGjwOks31+qNAU1WMOKCVxWl/BcK55tn5UuGomdT0Kx93qrhVabJcxJ4acjP5h/vEfjnh3HaMUBtTmS/dXsRVSgkIFRwdTZbVJdDpDjzUMXSMGyS1u0w+B81AbSrH/o=;/iiwq5FYX5785mw6Vx5L5Q=="
+secured: "PKqceCYlWOmzc+YgDuBdCvpo4GM5vpPYXOKLx5pRvHfd9Yxduc//cDd+RKLOV7zQ286X2wyQ9wI1Qd74tIp47KgFdGSTErxCHvEjMg2bS4W/lOJhBtqjGqjiOou9SsuVaYybFwTnTrlty8yijtuYjzA9wMSJEDUK7YvLoj9uG2fDlJoeKbe8SKH4agB+LyX4XcMgdiWjGR6BkuKM/ZzaxKcdAT2FLwGitNz11rSnxdgoFRHv0o9UnOtIfajb6Wvttp9qXvNpMR+y29pDjHou6XfH7ZP9G3xvSsCAvnF0EL8Cv6oEdHHbQGeddj5Ikvq7B69f/VeQmYceImh/0T9dOLi3U6rBlpT/6UIBdjdBwWw=;qgkr80nbF/5eMpM6csYMTg=="
 ---
 

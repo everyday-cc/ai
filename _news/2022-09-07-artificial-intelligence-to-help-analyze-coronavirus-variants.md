@@ -8,7 +8,7 @@ webUrl: "https://www.medindia.net/news/artificial-intelligence-to-help-analyze-c
 ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-to-help-analyze-coronavirus-variants-208518-1.htm"
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-to-help-analyze-coronavirus-variants-208518-1.htm"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://images.medindia.net/amp-images/health-images/artificial-intelligence-pros-and-cons.jpg"
@@ -37,7 +38,7 @@ related:
     provider:
       name: Phys.org
       domain: phys.org
-    quality: 59
+    quality: 61
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/preparing-for-future-c.jpg"
         width: 996

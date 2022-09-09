@@ -23,6 +23,22 @@ topics:
 
 related:
   - title: "How artificial intelligence is helping to restore works of art"
+    excerpt: "And it is benefitting more and more from the latest technological advances, especially in terms of artificial intelligence. The start-up Oxia Palus is training one such AI to accurately ..."
+    publishedDateTime: 2022-09-07T15:12:00Z
+    webUrl: "https://www.forbesindia.com/article/lifes/how-artificial-intelligence-is-helping-to-restore-works-of-art/79579/1"
+    ampWebUrl: "https://www.forbesindia.com/amp/article/lifes/how-artificial-intelligence-is-helping-to-restore-works-of-art/79579/1"
+    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/how-artificial-intelligence-is-helping-to-restore-works-of-art/79579/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 59
+    images:
+      - url: "https://www.forbesindia.com/media/images/2022/Sep/img_193503_artandaibg.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "How artificial intelligence is helping to restore works of art"
     excerpt: "The Oxia Palus start-up recreated this underpainting by teaching artificial intelligence how to reproduce Van Gogh's style."
     publishedDateTime: 2022-09-06T16:00:00Z
     webUrl: "https://www.citizen.co.za/lifestyle/3191108/oxia-palus-artificial-intelligence-helping-to-restore-works-of-art/"
@@ -37,22 +53,6 @@ related:
       - url: "https://media.citizen.co.za/wp-content/uploads/2022/09/van-gogh-artwork.jpg"
         width: 1500
         height: 1000
-        isCached: true
-  - title: "How AI is helping you edit photos"
-    excerpt: "From Lightroom to Luminar Neo, we surveyed the field and these are the most-powerful AI-enhanced photo editing platforms."
-    publishedDateTime: 2022-09-08T01:00:00Z
-    webUrl: "https://www.popsci.com/technology/ai-photo-editing-apps/"
-    ampWebUrl: "https://www.popsci.com/technology/ai-photo-editing-apps/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-photo-editing-apps/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 57
-    images:
-      - url: "https://www.popsci.com/uploads/2022/09/07/AI-sky-lead-scaled-1.jpg?auto=webp"
-        width: 2000
-        height: 1500
         isCached: true
   - title: "How artificial intelligence is helping to restore works of art"
     excerpt: "Art restoration is a discipline that combines passion, patience and resourcefulness. And it is benefitting more and more from the latest technological advances, especially in terms of artificial intelligence."

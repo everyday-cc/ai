@@ -8,8 +8,8 @@ webUrl: "https://phys.org/news/2022-09-future-coronavirus-variants-artificial-in
 ampWebUrl: "https://phys.org/news/2022-09-future-coronavirus-variants-artificial-intelligence.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-future-coronavirus-variants-artificial-intelligence.amp"
 type: article
-quality: 59
-heat: 79
+quality: 61
+heat: 81
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/preparing-for-future-c.jpg"
@@ -37,7 +38,7 @@ related:
     provider:
       name: Medindia
       domain: medindia.net
-    quality: 59
+    quality: 61
     images:
       - url: "https://images.medindia.net/amp-images/health-images/artificial-intelligence-pros-and-cons.jpg"
         width: 1200

@@ -8,7 +8,7 @@ webUrl: "https://venturebeat.com/ai/what-nvidias-new-mlperf-ai-benchmark-results
 ampWebUrl: "https://venturebeat.com/ai/what-nvidias-new-mlperf-ai-benchmark-results-really-mean/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/what-nvidias-new-mlperf-ai-benchmark-results-really-mean/amp/"
 type: article
-quality: 89
+quality: 91
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Computer Vision
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/01/NVIDIA.jpg?w=1200&strip=all"

@@ -2,6 +2,100 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-06-new-ai-based-smartphone-app-may-detect-covid-19-infection.md",
+      "title": "New AI-based Smartphone App may Detect COVID-19 Infection",
+      "excerpt": "Novel smartphone app using artificial intelligence (AI) can help detect COVID-19 infection in people’s voices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/healthwatch/new-ai-based-smartphone-app-may-detect-covid-19-infection-208511-1.htm",
+      "originalUrl": "https://www.medindia.net/news/healthwatch/new-ai-based-smartphone-app-may-detect-covid-19-infection-208511-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.medindia.net/health-images/indicators-that-your-covid-19-anxiety.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/healthwatch/new-ai-based-smartphone-app-may-detect-covid-19-infection-208511-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/healthwatch/new-ai-based-smartphone-app-may-detect-covid-19-infection-208511-1.htm",
+      "publishedDateTime": "2022-09-05T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-emerging-technologies-in-automobile-industry-to-push-in-vehicle-ai-robot-demand-states-factmr.md",
+      "title": "Emerging Technologies in Automobile Industry to Push In-vehicle AI Robot Demand, States Fact.MR",
+      "excerpt": "To learn more about In-vehicle AI RobotMarket, you can get in touch with our Analyst at  Key Segments Covered in the In",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/emerging-technologies-in-automobile-industry-to-push-in-vehicle-ai-robot-demand-states-factmr-2022-09-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/emerging-technologies-in-automobile-industry-to-push-in-vehicle-ai-robot-demand-states-factmr-2022-09-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-05T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-05-tesla-raises-full-self-driving-price-to-15000-is-it-worth-it.md",
       "title": "Tesla raises Full Self-Driving price to $15,000 – is it worth it?",
       "excerpt": "Tesla has officially raised the price of its Full Self-Driving (FSD) package to $15,000, as CEO Elon Musk promised. For years now, Musk has stated that Tesla would keep gradually increasing the price of its Full Self-Driving (FSD) package as functionality ...",
@@ -158,7 +252,7 @@
       "originalUrl": "https://phys.org/news/2022-09-future-coronavirus-variants-artificial-intelligence.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -189,7 +283,8 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1112,101 +1207,6 @@
         "Machine Learning",
         "Natural Language Processing",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-these-cute-robots-could-deliver-your-next-coffee.md",
-      "title": "These cute robots could deliver your next coffee",
-      "excerpt": "Hong Kong startup Rice Robotics' delivery bot Rice is designed to assist in settings like cafes and hotels. It's already serving up drinks around the city -- and the company hopes it will help to bring about a robot revolution in the hospitality sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/travel/article/rice-robotics-hong-kong-hospitality-hnk-spc-intl/index.html",
-      "originalUrl": "https://www.cnn.com/travel/article/rice-robotics-hong-kong-hospitality-hnk-spc-intl/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dynaimage.cdn.cnn.com/cnn/w_1200/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F220901160252-01-hospitality-service-robots-super-tease.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnn.com/travel/amp/rice-robotics-hong-kong-hospitality-hnk-spc-intl/index.html",
-      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/travel/amp/rice-robotics-hong-kong-hospitality-hnk-spc-intl/index.html",
-      "publishedDateTime": "2022-09-02T22:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-robots-and-artificial-intelligence-bring-nebraska-25-million.md",
-      "title": "Robots and artificial intelligence bring Nebraska $25 million",
-      "excerpt": "Satellite data, parsed by artificial intelligence speaking to drones, connecting to robots, maintained by a newly trained workforce. That’s what helped a Nebraska group, Heartland Robotics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.1011now.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/",
-      "originalUrl": "https://www.1011now.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-koln-prod.cdn.arcpublishing.com/resizer/Aa35YlfkCZA-SPi05Z4Cvux9fww=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/6KTCEMGQAFFENCLHGHL4DUHGHY.bmp",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.1011now.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-1011now-com.cdn.ampproject.org/c/s/www.1011now.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/?outputType=amp",
-      "publishedDateTime": "2022-09-02T15:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "1011 Now",
-        "domain": "1011now.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

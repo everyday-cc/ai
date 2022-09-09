@@ -29,7 +29,7 @@ related:
     provider:
       name: Phys.org
       domain: phys.org
-    quality: 59
+    quality: 61
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/preparing-for-future-c.jpg"
         width: 996
@@ -45,7 +45,7 @@ related:
     provider:
       name: Medindia
       domain: medindia.net
-    quality: 59
+    quality: 61
     images:
       - url: "https://images.medindia.net/amp-images/health-images/artificial-intelligence-pros-and-cons.jpg"
         width: 1200

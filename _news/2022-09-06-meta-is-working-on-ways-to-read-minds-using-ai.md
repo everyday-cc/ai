@@ -58,36 +58,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Measuring the business impact of AI"
-    excerpt: "Taking stock of AI ROI is challenging but essential. IT leaders and industry observers lend insights on how to get a clear idea of whether your AI efforts are paying off."
-    publishedDateTime: 2022-09-07T10:00:00Z
-    webUrl: "https://www.cio.com/article/405620/measuring-the-business-impact-of-ai.html"
-    ampWebUrl: "https://www.cio.com/article/405620/measuring-the-business-impact-of-ai.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/405620/measuring-the-business-impact-of-ai.html/amp/"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 59
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/09/artificial-intelligence-698122_1280-100698891-orig.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 724
-        isCached: true
-  - title: "Measuring the business impact of AI"
-    excerpt: "For many organisations, however, AI value may be elusive. Their models might not be tuned. Their training data sets aren’t big enough. Customers are leery. There are also concerns about bias, ethics, and transparency. Pushing an AI initiative into ..."
-    publishedDateTime: 2022-09-08T00:28:00Z
-    webUrl: "https://www.arnnet.com.au/article/701326/measuring-business-impact-ai/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 39
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_132826187.jpg"
-        width: 473
-        height: 315
-        isCached: true
 
 secured: "Mc8dBRNIkB7/IzFxfmGhpSQZS5hZ716Un+XO9yoYHWk9OcyFCBfbv9yJbYMVPm0Z9o03LbgxGAHoqxdMvR4TORWFG8dXWBH5xNwT6cAh+gGxBlZtvMt4QNYnl6dPkeZquu2P+ICYysQzKJVJrDjke5oVLLJ6gfn88cAXecow2xzWgVnUxLB86obklRtHYoXo/xLDobD1v6GtakVk1HrtPkfa42cC7t5IpUtKO7MMGBBLbZoAO117OM+TOotNiv44K92+tOEV2dk+ZuNAZp8x7F3raOOcNpeIJy278QBBb4k9A/a+NuvEwG+iB7LdhLOO4usyKJO8J9v7xiUFd0nbwJfQ4t4AdFG8KkQIwUgLZl0=;M/WN1QCaR5FPBkuuGHjppg=="
 ---

@@ -26,44 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "How artificial intelligence is helping to restore works of art"
-    excerpt: "The Oxia Palus start-up recreated this underpainting by teaching artificial intelligence how to reproduce Van Gogh's style."
-    publishedDateTime: 2022-09-06T16:00:00Z
-    webUrl: "https://www.citizen.co.za/lifestyle/3191108/oxia-palus-artificial-intelligence-helping-to-restore-works-of-art/"
-    ampWebUrl: "https://amp.citizen.co.za/lifestyle/3191108/oxia-palus-artificial-intelligence-helping-to-restore-works-of-art/"
-    cdnAmpWebUrl: "https://amp-citizen-co-za.cdn.ampproject.org/c/s/amp.citizen.co.za/lifestyle/3191108/oxia-palus-artificial-intelligence-helping-to-restore-works-of-art/"
+  - title: "How artificial intelligence can help treat heart attacks in women"
+    excerpt: "HEART attacks when the flow of blood to the brain suddenly stops. A potentially fatal cardiovascular event, a heart attack is normally caused by a blood clot which occurs after a build-up of risk factors."
+    publishedDateTime: 2022-09-06T21:01:00Z
+    webUrl: "https://www.express.co.uk/life-style/health/1665670/heart-attack-symptoms-artificial-intelligence"
+    ampWebUrl: "https://www.express.co.uk/life-style/health/1665670/heart-attack-symptoms-artificial-intelligence/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/health/1665670/heart-attack-symptoms-artificial-intelligence/amp"
     type: article
     provider:
-      name: The Citizen
-      domain: citizen.co.za
-    quality: 57
+      name: Daily Express
+      domain: express.co.uk
+    quality: 59
     images:
-      - url: "https://media.citizen.co.za/wp-content/uploads/2022/09/van-gogh-artwork.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
-  - title: "Chatty AI is going to eat into call centers jobs"
-    excerpt: "Conversational AI is coming to the call center in a big way. But it's not easy or cheap to implement and maintain."
-    publishedDateTime: 2022-09-06T13:41:00Z
-    webUrl: "https://www.zdnet.com/article/chatty-ai-is-going-to-eat-into-call-centers-jobs/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
-  - title: "How artificial intelligence is helping to restore works of art"
-    excerpt: "Art restoration is a discipline that combines passion, patience and resourcefulness. And it is benefitting more and more from the latest technological advances, especially in terms of artificial intelligence."
-    publishedDateTime: 2022-09-08T07:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/09/08/how-artificial-intelligence-is-helping-to-restore-works-of-art"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/09/08/1728803.jpg"
-        width: 750
-        height: 636
+      - url: "https://cdn.images.express.co.uk/img/dynamic/11/590x/Women-heart-attack-1665670.jpg?r=1662498035493"
+        width: 590
+        height: 350
         isCached: true
 
 secured: "LqEWV5PlDvtPyuCKOKEzPpXjBK3u7WcGVNyd/1zhwSi+l7Q9TLFacUSFJsmLuYpD8+MTdqzY7kHGwJNaXFx1to6NMD8VrN2MsTAfpWzD9DcFtmjcP8OinQMQ+JO+HLZ6qF3+p0ThYlZ+XIuEAJNmkedxWDX5Sj3mK0LKBiCLjEPfKPqRYzaQVCuEiwOPHyXytRnwPPCsLp66KMcqSTuA30WDQ+pgtsBvlHmsnm5NW4JeUxzQyH2pHPzdpkaZJt3c+CGrRJ8Wj1O6dHgLW3+OG5TX19q5rDOohYTWEvHXGJm1o3UV92x6UdXXPF2A2gSk0sT/KsKM6vuna2M6I3+VX40Y5gXINV6d3oJiue9VP8jfLhQ3A3R0o05sfMn4vGL+5jsOdckgLIbXaASBy8EuX/cjHVPQGMs2I8HTyZk/QuWBIhncpji/b3GdwoKOr6767TjgXvW5faWYgVZVXJzD3nm1p7LLOcmX/TF22qP1cPxzd9SMmZV3tcvbOvQ3Yc7obqwJxdQUd0SIs7Uto6FvtQ==;Ag3y7ZsHI0NKa7ONZyM2Vg=="

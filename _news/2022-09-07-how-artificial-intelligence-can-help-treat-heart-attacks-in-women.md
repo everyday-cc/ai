@@ -8,8 +8,8 @@ webUrl: "https://www.express.co.uk/life-style/health/1665670/heart-attack-sympto
 ampWebUrl: "https://www.express.co.uk/life-style/health/1665670/heart-attack-symptoms-artificial-intelligence/amp"
 cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/health/1665670/heart-attack-symptoms-artificial-intelligence/amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,12 +18,31 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://cdn.images.express.co.uk/img/dynamic/11/590x/Women-heart-attack-1665670.jpg?r=1662498035493"
     width: 590
     height: 350
     isCached: true
+
+related:
+  - title: "How AI is helping you edit photos"
+    excerpt: "From Lightroom to Luminar Neo, we surveyed the field and these are the most-powerful AI-enhanced photo editing platforms."
+    publishedDateTime: 2022-09-08T01:00:00Z
+    webUrl: "https://www.popsci.com/technology/ai-photo-editing-apps/"
+    ampWebUrl: "https://www.popsci.com/technology/ai-photo-editing-apps/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-photo-editing-apps/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 57
+    images:
+      - url: "https://www.popsci.com/uploads/2022/09/07/AI-sky-lead-scaled-1.jpg?auto=webp"
+        width: 2000
+        height: 1500
+        isCached: true
 
 secured: "9R0apWNuB8Sv+CGohUEoe/7vCrJdBY6n0+JAiBXCe7hBEg5ZLRUp3BOOKQXngoYZSDioyo16gBLFceEvm0WXAGnaA3G+VDCA+vyCh8RI8vcajhZYxso0ao3D9AttNuxenj03Gt8dwxUlMxIge2RcRBwg2fzYUvs0yGyzhS54rOErcQfWQKS5Z3qYQ8JRU6h0pnKDdE+WcrvYSUucaYbmnl45sisxUrXBG+AJ7fwa3z7lRqo67elxh4DrJ1icnVjjTCMNdpssSTXbMOPVXCPf6N6DgDJFc7Gk8EVAwMfJ5uIGlhf4V1IG1CrVrsRZSOj9qAOa8NxN9fKqIXuxdeB8B60K5Nsccot8FAq1qNEW69vF2lF5Alh4zDtWhsNpa1+EDmqJLp4SeiO+/P/agYifXYYt24uC6Xt56ZYLf1KYEwrNcFyaIUNoppRkV10ZODyFKH8mg+/z91SWpCt0nwVHatiRk8dyp0m4Im5Lj0loM4aooD9sa9aWcKmTImKhqUkH9Okk7n6/MlUem8trkhN91w==;41Ak9sY8oyfsL0EMGheyuQ=="
 ---

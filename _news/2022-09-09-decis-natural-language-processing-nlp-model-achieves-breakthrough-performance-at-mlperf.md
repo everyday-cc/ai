@@ -6,9 +6,9 @@ publishedDateTime: 2022-09-08T18:39:00Z
 originalUrl: "https://it.tmcnet.com/news/2022/09/08/9670227.htm"
 webUrl: "https://it.tmcnet.com/news/2022/09/08/9670227.htm"
 type: article
-quality: 24
-heat: -1
-published: false
+quality: 61
+heat: 81
+published: true
 
 provider:
   name: TMCnet
@@ -17,12 +17,19 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
+
+images:
+  - url: "https://mma.prnewswire.com/media/1893621/Deci_Throughput_Infographic.jpg"
+    width: 400
+    height: 225
+    isCached: true
 
 related:
   - title: "MLPerf Results Show Advances in Machine Learning Inference"
     excerpt: "MLPerf benchmarks are comprehensive system tests that stress machine learning models, software, and hardware, and optionally monitor energy consumption. The open-source and peer-reviewed benchmark suites level the playing ground for competitiveness,"
-    publishedDateTime: 2022-09-08T18:39:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/08/9670229.htm"
+    publishedDateTime: 2022-09-08T18:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-mlperf-results-show-advances-machine-learning-inference-/2022/09/08/9670229.htm"
     type: article
     provider:
       name: TMCnet
@@ -38,6 +45,6 @@ related:
       domain: datanami.com
     quality: 19
 
-secured: "fgKG6ZLM6JByE9006uNTdGcqCyR5tHb12IMpmf9lL1KVsQWY/9tUXP4eoYFV+kC4bx5cq5cJo8yrQnfnmGhPLwya/4Lkqaz1SkrFFo6JMAvH17HS71Yxvxew2PKqrbWgzTb+RV0YmWc31HMa76CpzKJazsmNb5b2446oucoo9AaxIpWvWqDhP01EHdZyipXuJrj5+zwr6flj/agkVPFo2diKV9gkEE6LyqG4aX6pXxjT4vnhwqCEZeM0/BTOSHJBJvjaqfMfFr8FMhVOS/xUbUEgsnACPnrrzMOQdnvrLgY+ruFE7shFwM2NDp+Hz/eHjiEFws0Kl+hsLVwRB+htZMfPRzQAeSvr3eazBeU9bAnPpt1+Ksf0MqYIgHs2n2WM9/3YnC4aEFX5iIzoHsrbM0x9mUDXZt5+KKDvYuzRoL325FreGlmdocku2n4wVHVzlrsBIZZFUvjQxV4VlbOpg3UPc4eOoMlYoNdLJFX3mzBY1camlEIQl31QICFBAVdS/LY+qZuTxGAG63w9KlNh3g==;Ucjr4o4hS1rNJsGuG+nTwQ=="
+secured: "gIXZaeuJ6BjVMIcJ58x76w4K3WUswgckw90fCcLZrwrC033JtwhWlVlYw0F2U/sJiLXxqdCQZo6Os2OakwePQRIaGi/gAHUONjAqzJJ6ntImBPh58IHy6eEGt973ddJowhPTFwnWW3Aa+q+SPFmN+iFKBn4Brskn/BRYTpUWYLxm87eVj3fTbPZ9ekOFsvSCGNS9CLbNiWhnE29397c/DU+Rsr7Xnj/rxN+P8CJulF5C4eoXkGjqGKu7StZr9YG6tTHBs53BZaXbVIhxbzSbG+X6kkyUICf7xyp1fi1G49U9ClqAJCn9xDL2+UAfz/WGZB5DzdQ+q1VWA54sfdBPJqontXTHx308AyF9g0k5DnA=;Kc9ChbqJRoTtbn61wuwc8Q=="
 ---
 

@@ -25,37 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "15 Smart Ways Retail Businesses Should Be Using AI"
-    excerpt: "From better predicting their inventory needs to managing and supporting their employees, retail businesses can leverage AI to improve their operations and their customers’ experience."
-    publishedDateTime: 2022-09-06T17:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/06/15-smart-ways-retail-businesses-should-be-using-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/06/15-smart-ways-retail-businesses-should-be-using-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/06/15-smart-ways-retail-businesses-should-be-using-ai/amp/"
+  - title: "Artificial Intelligence And The Future Of Marketing"
+    excerpt: "Artificial intelligence is currently transforming marketing. Here, we look at the most exciting opportunities when it comes to using AI in marketing and explore where they are already being tapped."
+    publishedDateTime: 2022-09-09T04:43:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intelligence-and-the-future-of-marketing/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intelligence-and-the-future-of-marketing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intelligence-and-the-future-of-marketing/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 104
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/631753214643d7543ec89c1a/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/631ac44c2dd319e54f3d1994/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "12 Ways AI Is Transforming How Businesses Interact With Customers"
-    excerpt: "Many businesses leverage AI’s learning abilities to try to make interactions and transactions faster and easier for the customers they serve."
-    publishedDateTime: 2022-09-08T17:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/08/12-ways-ai-is-transforming-how-businesses-interact-with-customers/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/08/12-ways-ai-is-transforming-how-businesses-interact-with-customers/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/08/12-ways-ai-is-transforming-how-businesses-interact-with-customers/amp/"
+  - title: "An architect asked AI to design skyscrapers of the future. This is what it proposed"
+    excerpt: "Manas Bhatia has a bold vision of the future -- one where residential skyscrapers covered in trees, plants and algae act as \"air purification towers.\" In a series of detailed images, the New Delhi-based architect and computational designer has brought the idea to life."
+    publishedDateTime: 2022-09-06T09:20:00Z
+    webUrl: "https://www.cnn.com/style/article/ai-architecture-manas-bhatia/index.html"
+    ampWebUrl: "https://www.cnn.com/style/amp/ai-architecture-manas-bhatia/index.html"
+    cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ai-architecture-manas-bhatia/index.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: CNN
+      domain: cnn.com
+    quality: 81
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5fb2a32abeab195130fc0917/0x0.jpg?format=jpg&crop=6000,3375,x0,y0,safe&width=1200"
-        width: 1200
-        height: 675
+      - url: "http://cdn.cnn.com/cnnnext/dam/assets/220905135137-01-manas-bhatia-future-cities-ai-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Head of Google Says Future AI Must Align with Human Values"
+    excerpt: "Google and Alphabet CEO Sundar Pichai talked about the issues surrounding the company's pivot to artificial intelligence and more."
+    publishedDateTime: 2022-09-07T14:39:00Z
+    webUrl: "https://www.pcmag.com/news/the-head-of-google-says-future-ai-must-align-with-human-values"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/05NdJNZwhf0rpoPHYGrtAgS-1.fit_lim.size_1200x630.v1662561158.jpg"
+        width: 1120
+        height: 630
         isCached: true
   - title: "Measuring the business impact of AI"
     excerpt: "Taking stock of AI ROI is challenging but essential. IT leaders and industry observers lend insights on how to get a clear idea of whether your AI efforts are paying off."
@@ -73,20 +87,52 @@ related:
         width: 1024
         height: 724
         isCached: true
-  - title: "Meta is working on ways to read minds using AI"
-    excerpt: "In a pre-print study, Meta scientists said their AI model was able to decode speech segments by listening to three seconds of brain activity."
-    publishedDateTime: 2022-09-06T08:21:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/meta-mind-reading-ai-decode-language"
+  - title: "Artificial intelligence and creative marketing—how brands and agencies should experiment"
+    excerpt: "Cheng, was at the helm of the Cosmo project, using OpenAI’s Dall·E 2 as a different kind of creative tool. Because without good creative guidance, the output isn’t that great—as in Dall·E 2 interpreting an “Ad Age magazine cover:” To get a more creative result requires a lot of interplay and dancing together with concepts and variations,"
+    publishedDateTime: 2022-09-08T09:30:00Z
+    webUrl: "https://adage.com/article/opinion/artificial-intelligence-and-creative-marketing-how-brands-and-agencies-should-experiment/2428376"
     type: article
     provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 41
+      name: Ad Age
+      domain: adage.com
+    quality: 47
     images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/09/AdobeStock_207650808.jpeg"
-        width: 800
-        height: 600
+      - url: "https://s3-prod.adage.com/s3fs-public/styles/1200x630/public/20220907_AI-Ad-Age-cover_3x2.jpg"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Don’t lift a finger: AI-driven voice commands are the future of the smart home"
+    excerpt: "Powered by AI and machine learning, voice control of devices makes an entire home ready to answer a user’s every beck and call."
+    publishedDateTime: 2022-09-07T18:07:00Z
+    webUrl: "https://venturebeat.com/ai/ai-driven-voice-commands-future-smart-home/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 45
+  - title: "Why Self-propagating Robots Are the Future of Space"
+    excerpt: "From asteroid mining to on-orbit servicing, autonomous robots are key to the future of space exploration and defense."
+    publishedDateTime: 2022-09-06T12:01:00Z
+    webUrl: "https://www.defenseone.com/sponsors/2022/09/why-self-propagating-robots-are-future-space/374786/"
+    type: article
+    provider:
+      name: Defense One
+      domain: defenseone.com
+    quality: 39
+    images:
+      - url: "https://cdn.defenseone.com/media/img/cd/2022/07/21/Robots_Space2050_Earth_Access_Space/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "The ABCs of AI, algorithms and machine learning (re-air)"
+    excerpt: "The next step up is machine learning, which uses algorithms. “Rather than a person programming in the rules, the system itself has learned,” Mitchell said. For example, speech recognition software, which uses data to learn which sounds combine to become words and sentences."
+    publishedDateTime: 2022-09-05T11:36:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/the-abcs-of-ai-algorithms-and-machine-learning-re-air/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 34
 
 secured: "pI1opMj2GLXxY6EZozKlHGEk2eVrgtlhlIZAPEY0kVA0J60tbj7OcxqdODd7piLj1mvmSn0R4kXk1su7E3WWhXIHHt1+cNoKoXDloqvzNPeFjlHTTTLGsqfEWCRzRQJ/8eTheYqCzjzgBqrpu/k//zs3THzaKqK/jGjmv4BDRcJb/ZaFllyzNdCCOyM0xOENAnQteUiSaj3H369TgvFtZTjlFr+ssFF6KzjCWXyo7Ll6NhqLRD3oQAFw71/1JxA/dKKFum7dWlNUqYKHJNX7AU9IHzNcuV+/lkbV5gRL08AEoVCHblxprOyby9bIi4ACiAwJqwWNWFA5pi5fcLJavaB4XF7a0Exgia8gm/t+1ftGSZN/M0duxlvEVTlU7GjiP+f7AUXkIIdFP70noptcAu6qDQjruV2RCLqxn4kmvd8oIalwrY1Pn58dhpmnJEu2dp5WwGbr5JW3RLL72gW+vPSgbGI2I51IxHFL9tz6pD7J9IUcyGAY/i3B7cL0rr7hhZEGGY+6EuYhJG+rgd3jiw==;FDAiu4Wq8hoP5bO2JWbHgQ=="
 ---
