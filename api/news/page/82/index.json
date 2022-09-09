@@ -2,6 +2,58 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2022-07-01-the-quest-to-understand-every-voice-globally.md",
+      "title": "The quest to understand every voice globally",
+      "excerpt": "In a quest to enable a computer to understand every voice in the world. DeepMind: Why is AI so good at language? It's something in language itself AI experts are in short supply. That's making the skills crisis worse I tried Google's AI job interview practice tool,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-quest-to-understand-every-voice-globally/",
+      "originalUrl": "https://www.zdnet.com/article/the-quest-to-understand-every-voice-globally/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/fab81b6cb70cacb1df2180b9f57ea7a70a53322f/2021/07/05/b03a0bb3-bf3c-409b-8f48-3a11832bd40f/text-to-speech-ai.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-quest-to-understand-every-voice-globally/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-quest-to-understand-every-voice-globally/",
+      "publishedDateTime": "2022-07-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-01-soldiers-vs-robots-in-the-british-armys-latest-recruitment-campaign.md",
       "title": "Soldiers VS robots in the British Army’s latest recruitment campaign",
       "excerpt": "The British Army has launched a new recruitment drive featuring robots, as reported on Friday July 1. Soldiers have been pitted against robots in the",
@@ -1024,40 +1076,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-center-for-identification-technology-research-celebrates-20th-year.md",
-      "title": "Center for Identification Technology Research Celebrates 20th Year",
-      "excerpt": "The Center for Identification Technology Research (CITeR), based at Clarkson University, is celebrating its 20th year. CITeR, which performs research in the growing areas of identity science and biometric recognition,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-science-biometrics-02b57bc7190e2158c2397a060526b0a5",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-science-biometrics-02b57bc7190e2158c2397a060526b0a5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

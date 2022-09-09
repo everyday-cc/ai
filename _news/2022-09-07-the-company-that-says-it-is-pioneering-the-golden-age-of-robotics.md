@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/leadership/the-company-that-says-it-i
 webUrl: "https://www.entrepreneur.com/leadership/the-company-that-says-it-is-pioneering-the-golden-age-of/434638"
 type: article
 quality: 84
-heat: 85
+heat: 84
 published: true
 
 provider:

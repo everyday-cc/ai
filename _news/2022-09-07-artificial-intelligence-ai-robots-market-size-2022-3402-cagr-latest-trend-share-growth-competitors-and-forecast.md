@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-size-2022-3402-cagr-latest-trend-share-growth-competitors-and-forecast-2022-09-07"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
+  - title: "Machine Vision Market Share and Growth Research 2022 by Current Insights, Developments, Top Manufacturers, Industry Size and Forecast to 2027"
+    excerpt: "Sep 08, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Machine Vision Market” report"
+    publishedDateTime: 2022-09-08T11:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-vision-market-share-and-growth-research-2022-by-current-insights-developments-top-manufacturers-industry-size-and-forecast-to-2027-2022-09-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "kpK5qbXwsePNsvd+Pe6J/vKJqb+4Wwdc5vxAQIwraDKPVHk+h8GyijrGanFLquTc/GPZX1OOgtfN5XJE7NgWyPSRbe94fRiPzYatWcBDffZlfTD3QV7cz4ap9x5snUGgvpHVuo1FEVxl4FOwRBQHnS5gCCD3072CYT0hY/FysbFeVl+chVMQ88FfDEbblRlAxHoXqqpb3oCXqJJ6L9M29vv1sYhi00Xy+RjakXcJaCkY3VFDgLS/atkveuk9dxKhTpPGjI5P3LvABUvFfkRd8b8KC0M1U52LsxOzG/o2dV8ck6Z7qvbXQc5ap/4Kr4LIdS3cKN/pqV+iRjdGFi1wD4BX0rRnbZmMsLKH2I5RlKQ=;1LF0zucxaSaPPniNn/tkew=="
 ---

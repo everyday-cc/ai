@@ -2,6 +2,49 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2022-06-29-mint-group-recognised-as-winner-of-2022-microsoft-south-africa-partner-of-the-year-award.md",
+      "title": "Mint Group recognised as winner of 2022 Microsoft South Africa Partner of the Year Award",
+      "excerpt": "The Microsoft Partner of the Year Awards recognise ... and accelerate the digital transformation journey with AI and cognitive services for businesses and government institutions globally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/wbrpOMg2zwj7DLZn",
+      "originalUrl": "https://www.itweb.co.za/content/wbrpOMg2zwj7DLZn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/-VUwuLj9zd9YqYwH9i0Ipggml33XN72ePHXh2eEhEjnNf-HLyL4DEU8-OOeE8UCEoib9lfH8l9vbEHlxMBJZKr05WIs24pNx3aM=w816-h428",
+          "width": 761,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/wbrpOMg2zwj7DLZn",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/wbrpOMg2zwj7DLZn",
+      "publishedDateTime": "2022-06-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-14-recent-digital-health-investments.md",
       "title": "14 recent digital health investments",
       "excerpt": "10. H1, a big data startup focused on healthcare, secured a series C extension June 9, bringing the total for the funding round to $123 million. 11. Artificial intelligence healthcare startup ...",
@@ -1055,49 +1098,6 @@
       "provider": {
         "name": "Gulf Business",
         "domain": "gulfbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-ibm-collaborates-with-king-saud-university-to-advance-skills-development-through-ai-and-support-the-kingdoms-vision-2030.md",
-      "title": "IBM collaborates with King Saud University to advance skills development through AI and support the Kingdom’s Vision 2030",
-      "excerpt": "Disclaimer: The contents of this press release was provided from an external third party provider. This website is not responsible for, and does not control, such external content. This content is provided on an “as is” and “as available” basis and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/ibm-collaborates-with-king-saud-university-to-advance-skills-development-through-ai-and-support-the-kingdoms-vision-2030-lbjarr4p",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/ibm-collaborates-with-king-saud-university-to-advance-skills-development-through-ai-and-support-the-kingdoms-vision-2030-lbjarr4p",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/version/c:NTc3MjhkM2YtNWVjZi00:MzA4NDc1/ksu_ibmsigning_image2-jpg.jpg?f=3%3A2",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T03:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
         "images": null,
         "publishers": null,
         "authors": null

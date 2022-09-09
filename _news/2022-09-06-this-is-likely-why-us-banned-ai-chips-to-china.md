@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "What Nvidia’s new MLPerf AI benchmark results really mean"
+    excerpt: "Nvidia released results today against new MLPerf benchmarks for its AI-targeted processors. Here's an expert analysis of those test results."
+    publishedDateTime: 2022-09-08T22:26:00Z
+    webUrl: "https://venturebeat.com/ai/what-nvidias-new-mlperf-ai-benchmark-results-really-mean/"
+    ampWebUrl: "https://venturebeat.com/ai/what-nvidias-new-mlperf-ai-benchmark-results-really-mean/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/what-nvidias-new-mlperf-ai-benchmark-results-really-mean/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/NVIDIA.jpg?w=1200&strip=all"
+        width: 1200
+        height: 748
+        isCached: true
   - title: "NVIDIA Keeps The Performance Crown For AI Inference For The 6th Time In A Row"
     excerpt: "Every three months we share our perspectives with you as the MLCommons consortium coordinates the publication of new AI benchmarks for inference and training. While NVIDIA lost the absolute performance crown during the last smack-down for training while awaiting the H100,"
     publishedDateTime: 2022-09-08T14:00:00Z

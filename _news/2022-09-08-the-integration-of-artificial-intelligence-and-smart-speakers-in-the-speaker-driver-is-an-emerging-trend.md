@@ -28,7 +28,7 @@ related:
   - title: "The Integration Of Artificial Intelligence And Smart Speakers In The Speaker Driver Is An Emerging Trend"
     excerpt: "The integration of artificial intelligence and smart speakers into speaker drivers is gaining popularity among speaker driver market trends. Artificial intelligence (AI) integrated chipsets that are being used for smart types of speakers offer voice control,"
     publishedDateTime: 2022-09-08T17:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/09/08/9670149.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-integration-artificial-intelligence-smart-speakers-the-speaker-driver-/2022/09/08/9670149.htm"
     type: article
     provider:
       name: TMCnet

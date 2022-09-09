@@ -48,6 +48,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "What Nvidia’s new MLPerf AI benchmark results really mean"
+    excerpt: "Nvidia released results today against new MLPerf benchmarks for its AI-targeted processors. Here's an expert analysis of those test results."
+    publishedDateTime: 2022-09-08T22:26:00Z
+    webUrl: "https://venturebeat.com/ai/what-nvidias-new-mlperf-ai-benchmark-results-really-mean/"
+    ampWebUrl: "https://venturebeat.com/ai/what-nvidias-new-mlperf-ai-benchmark-results-really-mean/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/what-nvidias-new-mlperf-ai-benchmark-results-really-mean/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/NVIDIA.jpg?w=1200&strip=all"
+        width: 1200
+        height: 748
+        isCached: true
   - title: "This is likely why US banned AI chips to China"
     excerpt: "High-profile universities and state-run research institutes in China have been relying on a US computing chip to power their artificial intelligence (AI) technology but whose export to the country Washington has now restricted,"
     publishedDateTime: 2022-09-06T11:06:00Z

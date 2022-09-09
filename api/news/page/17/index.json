@@ -2,6 +2,39 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-08-24-ai-metrics-an-ai-medical-imaging-technology-startup-announces-new-chief-medical-officer-and-ceo.md",
+      "title": "AI Metrics, an AI Medical Imaging Technology Startup, Announces New Chief Medical Officer and CEO",
+      "excerpt": "Changes to executive leadership team will drive a continued focus on innovation in imaging, radiology and oncology AI Metrics, launched in 2019 by Jacobus, Paige Severino, and radiologist and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-journal.com/ai-metrics-an-ai-medical-imaging-technology-startup-announces-new-chief-medical-officer-and-ceo/article_161400a4-5aa8-5c5d-8aac-b34c0c85ac9e.html",
+      "originalUrl": "https://www.news-journal.com/ai-metrics-an-ai-medical-imaging-technology-startup-announces-new-chief-medical-officer-and-ceo/article_161400a4-5aa8-5c5d-8aac-b34c0c85ac9e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T14:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Longview News-Journal",
+        "domain": "news-journal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-24-ai-powered-service-vidby-translates-zelenskyys-speeches-into-50-languages-denys-krasnikov.md",
       "title": "AI-powered service Vidby translates Zelenskyy’s speeches into 50 languages – Denys Krasnikov",
       "excerpt": "Meet Alexander Konovalov, Eugen von Rubenberg and Denys Krasnikov - the creators behind the unique machine video translation service called Vidby. Their online translation tool offers an unprecedented 99% translation accuracy - a result that as of now remains unmatched.",
@@ -1113,58 +1146,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-packaging-corporation-of-america-selects-orion-to-provide-real-time-language-translation-for-logistics-operations.md",
-      "title": "Packaging Corporation of America Selects Orion to Provide Real-Time Language Translation for Logistics Operations",
-      "excerpt": "Packaging Corporation of America Selects Orion to Provide Real-Time Language Translation for Logistics Operations Aug 23, 2022 (PRNewswire via COMTEX) --",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/packaging-corporation-of-america-selects-orion-to-provide-real-time-language-translation-for-logistics-operations-2022-08-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/packaging-corporation-of-america-selects-orion-to-provide-real-time-language-translation-for-logistics-operations-2022-08-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

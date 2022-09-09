@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/ai-native-tech-startups-can-weather-an-econo
 ampWebUrl: "https://venturebeat.com/ai/ai-native-tech-startups-can-weather-an-economic-nuclear-winter/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-native-tech-startups-can-weather-an-economic-nuclear-winter/amp/"
 type: article
-quality: 91
-heat: 91
+quality: 93
+heat: 93
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AI
   - Microsoft AI
   - Machine Learning
+  - AWS AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1281732617.jpg?w=1200&strip=all"
@@ -31,6 +32,6 @@ images:
     height: 632
     isCached: true
 
-secured: "vOpsO9NwRFdWFa9IKKHJNtU4YnpoknJ2mOXAfOyIjtz4j3agohWRrqNa13yRBOUTiUshPAZaubG913e2/RT6ytxrIkpjBasdJlOyHUHyejpW9NVRDrvy+Zv5IoEKtAfNeEShOo+EHUIeI8y2NR0ApWTX7urTfBUVjKWpuXB+hYT8wTXFtmt6NFz7p9uPTN7F1lltaEFAUM+iDkZ7VPg617Z+HV6bws5dgMdqd2nXWCWMeBcIzopFANAipvVqbyY/jKVxC/fEZ/iobpbFGAmgKz0WIjoZuhIVtiWzW4qaqOsqDCKiap/JxU68MletehkDRQWjaftBKVHJzS4haUGhS3cOtDXYehDbPfmxmyl5eeE=;/xxHiz+Enn7OMQnFkEo0Cg=="
+secured: "gACtB8cmdxS3PTLHuXTPKPsH1/cH3xEGSiVXGF4l8EgKKWDbZlyhDXyeOrSt0lxz1usd87xb3pDCM+ccOekAq94L3H9c/nwZtFKfyKC4WLcpArc9E+1Hq5eyNZovYoqDcfpKPPqS6uhnLugdVxA9r9I90nxzt+Ln/yxOEIukN785dh7HTfwVLZII+Exe9UMwA5oOcPCWE/uLIQw2ltnysHBi84ORirntVoe112HI8nUmrJ/YM/Sl0gjPD0haSIIBAvfhQYwO1Hxe5pKqwDw0WuBc2xYJpIwv/43ofelyCRreVwTuz5PbluFP7r1D11fu1BPvQVxk+a73vYY3b+EQ3uD9xHaNErhSks61Qxgkdr4LZAAGVrDH3kF4F12d7H8U9tthiqWpxWAceRFz1jI9yGJGvbf47Q2Mopcxlabs8Lu+lsDdIW/ouCvLQXn/lhzL4ekVlu21X+WgbjO4VysP1iDvN/L746G+qCpneelJED/yhvrcjjDxtVBsWr6RALmAHxy/prSaUvo8UvAbRHKI1Q==;wda/FDehcU4B7NAe5mKRjA=="
 ---
 

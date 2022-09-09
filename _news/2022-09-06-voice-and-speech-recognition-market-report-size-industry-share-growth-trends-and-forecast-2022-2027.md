@@ -94,6 +94,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
+  - title: "Machine Vision Market Share and Growth Research 2022 by Current Insights, Developments, Top Manufacturers, Industry Size and Forecast to 2027"
+    excerpt: "Sep 08, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Machine Vision Market” report"
+    publishedDateTime: 2022-09-08T11:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-vision-market-share-and-growth-research-2022-by-current-insights-developments-top-manufacturers-industry-size-and-forecast-to-2027-2022-09-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "LBUc58axzhIIMkb4oM0K2GlRfI96ix9g8Dz6b3tb3MvRarchipXtHPJ4/WEJtwVU9fRUyJdLYspVGyhq6x4KjTcUEzWTvbCtv1+p3c5T1VLBFj6tdktSz7OvOins1cRNio8If0VWwYSO//ePBQctQo+cxrRYEzcFHbi9PbE4NbGEZEkQnP7fHcuGhwvigrs9Syks8XTLFZ5eQyNeT9XOut+5Dbw1Qz/e/j0kO9P7a75LhLJRlQGE9Rz1t+7BAwRLIEZ2fcYedAnbNt4k+fD9AUXSkde+UD8/Thh+xtPiPLR3/thKE72Bbte/Hj6KAgCkIjWAr3SKwrU+6/6MFm5UnHF3LxJpdLzs21Ftv5XyrLY=;YnrD61Uwk4110bRPypuQ9Q=="
 ---
