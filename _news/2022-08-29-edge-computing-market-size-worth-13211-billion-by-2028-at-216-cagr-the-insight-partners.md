@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Edge Computing Market Size Worth $132.11 Billion by 2028 at 21.6% CAGR | The Insight Partners"
-excerpt: "The Insight Partners published latest research study on \"Edge Computing Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Component (Hardware, Software, and"
-publishedDateTime: 2022-08-29T10:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/08/n28664397/edge-computing-market-size-worth-132-11-billion-by-2028-at-21-6-cagr-the-insight-partners"
-webUrl: "https://www.benzinga.com/pressreleases/22/08/n28664397/edge-computing-market-size-worth-132-11-billion-by-2028-at-21-6-cagr-the-insight-partners"
+excerpt: "The Insight Partners published latest research study on \"Edge Computing Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Co"
+publishedDateTime: 2022-08-29T11:56:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-edge-computing-market-size-worth-13211-billion-2028-/2022/08/29/9663269.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-edge-computing-market-size-worth-13211-billion-2028-/2022/08/29/9663269.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "2sshU9YWU8LYd5zBdAQ2iwE85oz+vxYS2XTDLyTDFuvkF7LIar/d2e6zQoERIVmZx5T71dnSrJKxjKCZUlf1OYlAaFdorqO4J7GDQvDX0Wlpd9OdyY4xQ1jHmU7S9fiIFSutKtiMHeak+1k9Hb4KA5vdzMuKSYxVls/nADNFRblR1hJToR8zwetYlDwnSq01I1GD58CB12QQMJkQOhwDtj2Ypw+VJCQI11Bwd8nYLGvyPK0f3XZ+aZmJihT049fncP39HL9KX/zxXYKQXzbArnARcgPEyrYfBMXRh+3mEvmJ9oLBKIz+iKObgI/Oyfm1WWIwQ3bQsrpQ77pPl1tRpioeMM3MipcRBv21hsXwiwM=;amnseZH5mN/pMQcw9b8U4A=="
+secured: "gM7fAz8Nm1pkbG+NWkYxvdDf6CRZZ6djlRaJd+GqJhHvrddpBAbiAaQ0PK/gdnCjIED221LnD0VPOfp9MIgz1eiQG8uy9TTyId7MPF6CEl08ccsmmFaXD/SFvXOPXRu0O1y7/YjBomedJuFqhQ82qAlEP9GvvghPQs7gDuOrCwohnmqLNnQmLrg7OAdc2yK90Xtf+N9cRegnjhNwyzDxJJGAxDpWSOzC4iTDQiy9orosTT3SgW3N32xckghOT0O/gAw2v/pATafAMuMG6/NLniGig0gg1cH/ZmRq+lcwZ1xbl79mlulSUyKCn6bX3vW7pvYyYnx2p/Ywj6B2RPPwK+spreZX7FTSMRXcIyKWlMP8Rb8qmKTMcTRQv6IuQQpcKXDz8goN3duGSoxiWaYHJvudKTjxcNRFklfb046kliktKTA3e/2aAXoiUK/V9xO8tArcnsTTsiE/mHLsp1XGi+4CAWKmnHOFyAvkv8p0BnNsSjKSiAzlyymnn5/L+2KghnA8uYDOTpMWIMvSnu3bkA==;Np9JYi9d0pKLan7lBI9psQ=="
 ---
 

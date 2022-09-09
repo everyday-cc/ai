@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Teradata Announces ClearScape Analytics: The Most Powerful, Open, and Connected Cloud Analytics Available in the Industry"
-excerpt: "Teradata (NYSE: TDC ) today announced ClearScape Analytics, the significantly expanded and newly named analytics capabilities that span t"
-publishedDateTime: 2022-08-29T10:56:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the/article_e5c099aa-df86-5cb9-b6bb-c03fdef2e41f.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the/article_e5c099aa-df86-5cb9-b6bb-c03fdef2e41f.html"
+excerpt: "ClearScape Analytics – which encompasses the same high-performing analytics that Teradata is known for but with 50+ new analytic functions – is available as part of Teradata VantageCloud and the new Teradata VantageCloud Lake,"
+publishedDateTime: 2022-08-29T10:55:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry"
 type: article
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg"
-    width: 350
-    height: 456
-    isCached: true
-
-secured: "fFwiw0hWbk3OpXyKdckATeOXFRxRLLYBItzUOaHkYCkGvd4eLiWz4aWEbhJ+GvxHKc/lgmjH6cgE/NosD/XU5eb1F/Dln8QKCnGyyPB6D9qMld0mZiRelkc3CT+MYE+ZYRgaQvllaVdT1nv1FddLdMNIi3upZ3FLZoamPtE6NbZm3pkI0M1XQ2xqL3205s9er9B00j9FC1JIwlfYR8Y4BZR9fpQTvfi2f/0p/NNV259Wr7oXSaY00cPy2j7v2ezLcQuNpRr360rm82E8mVjndVm6EMSrjCsHUsxn/4Y7lnkxmDVIxNTI6RzepRPdgZzUmzjP4io/NrUuNS8A2aRySzxqaY8o0WuaOF4FmymMtdU=;MyzRY8I5e9//SRkD1WG0+w=="
+secured: "QkaXvZKajgUfMGzNAPZwLv44IiWAahZ23C942FdQFXXVJ4cSqgcdGlErZrb2XVyH5mdEqIUznPillmU8Un7Jqx+FpkFYKzwTXGKWfTf/wrErGFlNLTd2P5QOsOFZ6WNc29M7a983mTd2xeiULAfSaOcB0ogti/w4YKGEka8xSPso0y86B/QLL3jtDooiVVnuwOHDd5ajehR4lNatAYhanFpuFVh8KUrn0kT9UnUxronhVUu80uKX+NkIdMvjD2J73Yjf3NiSgbpU8yMncLpZl/pxe/ZzvLh6MYKpF49Et+hH6t0ghD9s5nS9knURBdVjlsM1z+OM2/BBxhgr61haAo5kwXChiyyTvy5J+m6yKUg=;qo63vrqUfkHqqY0I/M+Cvg=="
 ---
 
