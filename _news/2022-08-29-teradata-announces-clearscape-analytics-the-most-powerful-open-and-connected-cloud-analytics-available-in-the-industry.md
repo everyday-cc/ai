@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Teradata Announces ClearScape Analytics: The Most Powerful, Open, and Connected Cloud Analytics Available in the Industry"
-excerpt: "Teradata (NYSE: TDC) today announced ClearScape Analytics, the significantly expanded and newly named analytics capabilities that span the entire suite of Vantage products. Teradata Vantage's industry-leading analytics have long been the cornerstone of the platform's appeal to enterprise customers for its ability to accelerate data insights and time to value."
-publishedDateTime: 2022-08-29T12:22:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/08/29/9663280.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/08/29/9663280.htm"
+excerpt: "Teradata (NYSE: TDC ) today announced ClearScape Analytics, the significantly expanded and newly named analytics capabilities that span t"
+publishedDateTime: 2022-08-29T10:56:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the/article_e5c099aa-df86-5cb9-b6bb-c03fdef2e41f.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the/article_e5c099aa-df86-5cb9-b6bb-c03fdef2e41f.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "mBAAzUo4+UM+Cbq+STQtHBLI1PlYHBa1n//arbvEiRgIzB7nHbkCyO+vql4qsJjR0Azi1PRN1vP+llsNzs57/lvR8hGIEOC5K1BU11TXvNoy/IxCGk8RmIfH1Wa2CeXNnmOrDBTRfdpD/WQHWjYpK7XorpIzRivyrqAZaM6z2iH9BUTHpVUfzMy44M7AbfFcfmUx15/5kBKfiEij+CsdILuinbBFnUtGbKP8pqbpUFXIwFU7FxXXZ3iiy/Q5gUtbKlc5pYmORdJRzOIhhAwN3yosYC33+5BiDuvLwWdds5eGKHMV509CfKO4sKI4AbFB6NPDwE+Drde8jPJDpJ1wIanK1icE6gPVV3SQcvfq0ng=;RWI6P8gmOPzgbFMf5/sR1w=="
+secured: "xf64azapwv1BNUR/3XuxejEyjPGN/oRyKBvTN+WhK6ZkUhA1Cbx6zDGJ+BVGvCmywH4bzdgpHLnv1SToi27zua9YXhh896gdZQSJMcUvuMwpbZCx06MsXlKGzWTFY57Y7Z1cjmfnRbdY/LT/TK36Yzar/1Ac7Zs3idYpw3sCFC56VSJ9s6XMOrZskQo9ARooezGGbC89zhgzr6PcF4egUBEEIoFGymFsJz7n4+D0+3ffs11SwQqqhLuilJfyUaKb8thVCYahtVFiQam5aVc96EEjS6wdRGH8LcwadtTQikC2ovwmR7/BjO3XcNvVTp/2dfOgPiJr1EHpxw5Im0mpgC9tWPQ6rtfeMOy1jz6pPCg=;MIANCoRRVSltAz23YRAkKQ=="
 ---
 

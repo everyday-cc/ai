@@ -1,48 +1,21 @@
 ---
 category: news
 title: "MLPerf Results Show Advances in Machine Learning Inference"
-excerpt: "MLPerf benchmarks are comprehensive system tests that stress machine learning models, software, and hardware, and optionally monitor energy consumption. The open-source and peer-reviewed benchmark suites level the playing ground for competitiveness,"
-publishedDateTime: 2022-09-08T18:22:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-mlperf-results-show-advances-machine-learning-inference-/2022/09/08/9670229.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-mlperf-results-show-advances-machine-learning-inference-/2022/09/08/9670229.htm"
+excerpt: "MLCommons establishes a new record with over 5,300 performance results and 2,400 power measurement results, 1.37X and 1.09X more than the previous round. MLPerf benchmarks are comprehensive system tests that stress machine learning models, software, and ..."
+publishedDateTime: 2022-09-08T18:56:00Z
+originalUrl: "https://www.01net.it/mlperf-results-show-advances-in-machine-learning-inference/"
+webUrl: "https://www.01net.it/mlperf-results-show-advances-in-machine-learning-inference/"
 type: article
-quality: 34
-heat: -1
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: 01Net
+  domain: 01net.it
 
 topics:
-  - Machine Learning
+  - Microsoft AI
   - AI
+  - Machine Learning
 
-related:
-  - title: "Deci's Natural Language Processing (NLP) Model Achieves Breakthrough Performance at MLPerf"
-    excerpt: "Deci, the deep learning company harnessing Artificial Intelligence (AI) to build better AI, announced results for its Natural Language Processing (NLP) inference model submitted to the MLPerf Inference v2."
-    publishedDateTime: 2022-09-08T18:39:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/08/9670227.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 61
-    images:
-      - url: "https://mma.prnewswire.com/media/1893621/Deci_Throughput_Infographic.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "Deci’s NLP Model Achieves Breakthrough Performance at MLPerf"
-    excerpt: "Deci, the deep learning company harnessing Artificial Intelligence (AI) to build better AI, announced results for its"
-    publishedDateTime: 2022-09-08T19:48:00Z
-    webUrl: "https://www.datanami.com/this-just-in/decis-nlp-model-achieves-breakthrough-performance-at-mlperf/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
-
-secured: "rgCBoTLsRz0YJfaA1+e9nl5fxHYrH3uZgHURy8ncd2OJFJy9FkLZNjunU0W0z5XbpVj0d9Sft8JxhB4kGE8gYyjxz3wIA11JuWQgOrXGcl1h2VpTHnTKo93K4B0IYodJG3jID+qX0wkaKOwT83i8zPe1u946F/+ZSYYrpbfFIpdXC44uloMYKH+ydlg4zdc28R6jYznSy5gQjdLXPA0lmRdmM2N06/6+ajNSsMryhsKjVou4a0xaDU44HrY4mq+ZKinhLyU9Knb5eWASM1/DY/1Cz0NDD9WFNJDkVRbuzC0ZM3UmxMfdaV3pyVLToE6JP9zA3ooOgHpY1omc7zGpUVaeFDEseDpgjqE1/NauRuk=;LwRbIYIH5sroRlfTszAQDQ=="
+secured: "8/0x5vvVukBrS1sFTZ5v/2cAWT+scIRXtLKeVQ0GsLYQZqs+V+JbSbTZiK5bPKrgiko/CK6DgPVrJuLEhcRWUQpgzpH5JRbIeL2QyAnSQf55Q86keaEYxzD6baOBrI8xp6dk3E4jFz9ZyfNx0nVtrcVdAmHti89BP44EVJ7kO/1Hde4HqrIrMYCFlqA4UHCsirrXeIjz5Ar0CwmkCgjS7gkAQplTMog8xPKRI1YrqxPo1yGRPf4cbuCqQ+IHAxURF6wy+b0Mim+KRjyC6qdsl6azWGsWGcD0/jDMI275yVxjrEPgokhM+vo3oO7tKNeDZ/dKv0jQxURLrFfqeCDyarxP+zntIOyAJ3zlbLqIfk4=;27GimPrLwkWpUkHRmWWkeg=="
 ---
 
