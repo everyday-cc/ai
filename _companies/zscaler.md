@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "zscaler"
   url: "https://twitter.com/zscaler"
-  followers: 12864
+  followers: 12867
 
 locations:
   - San Jose, CA
