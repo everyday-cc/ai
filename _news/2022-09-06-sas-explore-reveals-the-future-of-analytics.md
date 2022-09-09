@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-sas-explore-reveals-future-analyti
 webUrl: "https://www.tmcnet.com/usubmit/-sas-explore-reveals-future-analytics-/2022/09/06/9667724.htm"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,38 @@ images:
     isCached: true
 
 related:
+  - title: "Why IoT Is The Next Frontier For AI And Prescriptive Analytics"
+    excerpt: "Guy, a recognized industry thought leader, is the president of SmartSense, IoT solutions for the enterprise. In recent years, artificial intelligence (AI) and prescriptive analytics have been woven into the fabric of business operations across multiple verticals,"
+    publishedDateTime: 2022-09-09T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/09/why-iot-is-the-next-frontier-for-ai-and-prescriptive-analytics/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/09/why-iot-is-the-next-frontier-for-ai-and-prescriptive-analytics/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/09/why-iot-is-the-next-frontier-for-ai-and-prescriptive-analytics/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f8ef32c53de1add7201f44a/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "American Airlines takes flight with analytics transformation"
+    excerpt: "The world’s largest airlines has turned to the cloud, leveraging AI, machine learning, and real-time analytics to minimize disruptions, streamline operations, and improve the travel experience."
+    publishedDateTime: 2022-09-09T10:00:00Z
+    webUrl: "https://www.cio.com/article/406357/american-airlines-takes-flight-with-analytics-transformation.html"
+    ampWebUrl: "https://www.cio.com/article/406357/american-airlines-takes-flight-with-analytics-transformation.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/406357/american-airlines-takes-flight-with-analytics-transformation.html/amp/"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 59
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2022/09/maya-leibman-full-res-new.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Alation Achieves AWS Data and Analytics Competency"
     excerpt: "Data and analytics are a competitive differentiator and primary source of value generation for organizations. With this competency, senior technology leaders and decision makers can easily identify Alation as an AWS Partner Network (APN) member that possesses deep AWS expertise and delivers solutions seamlessly on AWS."
     publishedDateTime: 2022-09-08T18:15:00Z

@@ -19,43 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "With autonomous vehicle caucus, Congress members aim to advance technology for self-driving cars"
-    excerpt: "The bipartisan group looks to educate fellow members of Congress and have them experience riding in a self-driving car while pushing legislation intended to spur the development of AVs in the U.S."
-    publishedDateTime: 2022-09-08T16:13:00Z
-    webUrl: "https://www.smartcitiesdive.com/news/autonomous-vehicle-technology-congressional-caucus-formed/631394/"
+  - title: "Why self-driving cars have stalled – video"
+    excerpt: "Fully fledged self-driving technology appears to be pepetually just around the corner, but it is still an open question whether self-driving automation is actually possible"
+    publishedDateTime: 2022-09-08T09:42:00Z
+    webUrl: "https://www.theguardian.com/technology/video/2022/sep/08/why-self-driving-cars-have-stalled-video"
     type: article
     provider:
-      name: smartcitiesdive
-      domain: smartcitiesdive.com
-    quality: 26
+      name: The Guardian
+      domain: theguardian.com
+    quality: 24
     images:
-      - url: "https://www.smartcitiesdive.com/imgproxy/t3HM-zVSuU3-89hRDZZGnfcTKSKIOxCpn2fcSVXDq4Q/crop:1000:540/g:nowe:0:105/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL1VNLU9wZW4tQ0FWLWF0LU1jaXR5X1JvdW5kYWJvdXQuanBn.jpg"
-        width: 770
-        height: 364
+      - url: "https://i.guim.co.uk/img/media/4eb8f68eef3e0bf23713bf5722deb0d2a32ddcd7/60_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fc1dbc297355762ca7ae9e39d814c6ea"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Uber announces self-driving vehicle food delivery coming to Houston through partnership with Nuro"
-    excerpt: "The new service is coming this fall as part of a 10-year partnership with Nuro, a California-based autonomous vehicle company that's already brought self-driving delivery for Domino's pizzas, CVS prescriptions and Kroger groceries to Houston."
-    publishedDateTime: 2022-09-08T14:54:00Z
-    webUrl: "https://www.houstonchronicle.com/business/retail/article/Uber-announces-self-driving-vehicle-food-delivery-17427290.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 11
-    images:
-      - url: "https://s.hdnux.com/photos/01/26/37/23/22672583/3/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "‘A step toward the future’: SwRI advances self-driving technology as VIA eyes possible applications"
-    excerpt: "Alexander Youngs, a senior research engineer at Southwest Research Institute, sits in the driver’s seat with his hands off the steering wheel during a demonstration of the institute’s self-driving shuttle bus on Aug."
-    publishedDateTime: 2022-09-08T18:53:00Z
-    webUrl: "https://www.expressnews.com/sa-inc/article/SwRI-advances-self-driving-tech-VIA-17427683.php"
-    type: article
-    provider:
-      name: San Antonio Express-News
-      domain: expressnews.com
-    quality: 0
 
 secured: "1bsYx4oQL2oHnFDy481riTYMkYayu6Gacu+FXt48LxFgFgI9yr+tg3+SNzFO42ObNrZPtqsplc4y0ksNFiu7PH+uZ7oJnZoSQKKNYCYyM5wYzSXO6E4ONy+nWg8bbHqCUYvty1HLfA1pZr6SOhG65I28Uy4iDQv+59OFAGpZZPsBxz2xHjI9+MxY9OEUqRU0fLq0KgP8CBK+lz8bstXszsijIOQ1Ycf5HVu80CNeiFRlrZEoHismnB9ZbjUouZOLfxrUSMctO5CoA+DPhqNsBkCDrzKcKIAOLrkQuin5TxDmtrRF3Nqd4HTMv/emfvG/2U2wgLVHe2PLFQtozEOqO4eFvZy/JUFcXqCixQDRclwnAwk8vkL6qiaNxdmBrnwTc7abFa4SaKAw0fNmJIcxJn0g/aUUcibskwpbb8qHynlbf1NOmJalggB7KHADkRyh2BJqI3NG+SH6NDqKOfmVitIcbk//h/T2GrqahhlHYr8U0CA+F5SZ7ioCfeZ8A83ejtjPYQyT/o0u3tKSfaW2pQ==;IO2a7vaJKKOHqiw0lSlZfw=="
 ---

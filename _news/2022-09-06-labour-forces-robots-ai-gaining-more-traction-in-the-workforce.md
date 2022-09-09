@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Labour forces: Robots, AI gaining more traction in the workforce"
-excerpt: "This article is part of BIV's in-depth look at the labour forces shaping work and business in B.C. Diners at Richmond’s Happy Lamb Hot Pot restaurant lift their meals from a robot and place them on their table."
-publishedDateTime: 2022-09-05T18:00:00Z
-originalUrl: "https://www.timescolonist.com/business/labour-forces-robots-ai-gaining-more-traction-in-the-workforce-5775641"
-webUrl: "https://www.timescolonist.com/business/labour-forces-robots-ai-gaining-more-traction-in-the-workforce-5775641"
+excerpt: "Since mid-2021, when Happy Lamb Hot Pot became the first restaurant in the province to start using ... heat and rain. As robots evolve and scientists use artificial intelligence (AI) to make ..."
+publishedDateTime: 2022-09-05T18:02:00Z
+originalUrl: "https://www.nsnews.com/highlights/labour-forces-robots-ai-gaining-more-traction-in-the-workforce-5775641"
+webUrl: "https://www.nsnews.com/highlights/labour-forces-robots-ai-gaining-more-traction-in-the-workforce-5775641"
 type: article
 quality: 54
 heat: 54
 published: false
 
 provider:
-  name: Times Colonist
-  domain: timescolonist.com
+  name: News
+  domain: nsnews.com
 
 topics:
   - AI in Robotics
@@ -24,6 +24,6 @@ images:
     height: 539
     isCached: true
 
-secured: "a8ZJ82xBbDTxEEhOuEMtNtv3JGFmmWRZ6ZJ5XmV0wa+m/A0c1BrN7OxSFGCR47DuwS0nDNYUPpnxqPer1jFrao3irYrqXhjsi91sqss6me70uuxsksZ24kcjuXtN3n5x4Bu3wNQRbndfFfw+1Eq+5QEyo1YXHzQdsu8voHXA4wI12QEuMipEaYaRutO3HuruDPHPaKHaxuYY2FvhAQWKAZeSJDq7ZcCEsdSGEfJ3QJvntcASslpzLjCzK9NUCbYOH89vM2UYDY/u4wwoTB3uB6pZDMuOnd2fRlr2ITG9g9NxidpSb1GF5+ZambUqkZNKKSDULDkMYXN+w+nihzl1nfFuh2LSfWaQ+K2Utway0Io=;4Ead9DYvppbX8kJ6tshthw=="
+secured: "V0rIm//mVj27mgZM+lsZY9Qp74o7p9rNa8Bbb1yrT7IWe6U4n0DATSHO6qIKgTAdRjgYP1817PyKnlLyRPJarh/nefIxcaVacwW3X+ZfVgknW1UrDj6p6o5d7zoGgFaz3PslNvWc8KPbM7kXcqPPMNJmXDSFf94MuQIapDdRpWfGP2NmaOiSez//iNtcYPOuzaI92ruR5NqEvD8RtRIR12cuH7+6lTkvREpnxxb1FLeZ8MH3t6Z/UQtzbbFvGOwbLxftSGXl3NgGnmEvVXEx5PhN5j+hZBLbOOZ/oCoBsqIWFe4avHL7ATE74z7MVPdUJ3AITTnAeTa+u/BPAK17SpPm/3t4zoVP0ZXkXZdV/qs=;vmWXsOQuMV0tpr9rAvGpDw=="
 ---
 
