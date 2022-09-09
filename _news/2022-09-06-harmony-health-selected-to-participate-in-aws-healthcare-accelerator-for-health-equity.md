@@ -38,6 +38,17 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "AWS Selects 10 Startups for 2022 Health Equity Accelerator"
+    excerpt: "The ten startups, selected from more than 250 applicants, will participate in the four-week AWS Healthcare Accelerator program focused on health equity."
+    publishedDateTime: 2022-09-09T15:15:00Z
+    webUrl: "https://hitinfrastructure.com/news/aws-selects-10-startups-for-2022-health-equity-accelerator"
+    ampWebUrl: "https://hitinfrastructure.com/news/amp/aws-selects-10-startups-for-2022-health-equity-accelerator"
+    cdnAmpWebUrl: "https://hitinfrastructure-com.cdn.ampproject.org/c/s/hitinfrastructure.com/news/amp/aws-selects-10-startups-for-2022-health-equity-accelerator"
+    type: article
+    provider:
+      name: hitinfrastructure
+      domain: hitinfrastructure.com
+    quality: 39
 
 secured: "yNPCz7tgK1rSYh4XtIRHF5B5BuEjG8pA9zxHTRA4cdFSAkehncNiSnSPuRlMIDMTJdueWppGwPfXSK80v4/JmodvAGld2lcqpzQeLZ21TpH0AvXRDSO/FnuuYSXs5ESnqVT02gJYTK9qCOehQ/MRNVyuO05docR0BxmdYjOAjVw682sE0G7nDxR9RkU2r84nxLzaDH1GcNlFzqSt8+dV0Nx60hxpyDjKrknNUTdGErqNgh1YHDprGx7mKSOF9vZx4zdhfsU34A2re0vOF102EadYq2/GqE/i7FT11R65GUHjrPo03TQZrzf4fbWVbqxhn6IevS2jT2pk0XZw90IyxerChJH1/3P6yE2Jp+u4du4=;H2CavpM7gerzULitb91i9Q=="
 ---

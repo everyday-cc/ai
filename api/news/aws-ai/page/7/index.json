@@ -2,6 +2,102 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-10-aws-announces-general-availability-of-aws-mainframe-modernization.md",
+      "title": "AWS Announces General Availability of AWS Mainframe Modernization",
+      "excerpt": "SEATTLE–(BUSINESS WIRE)–Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of AWS Mainframe Modernization, a new service that makes it faster and easier for customers to modernize ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/aws-announces-general-availability-of-aws-mainframe-modernization/",
+      "originalUrl": "https://www.01net.it/aws-announces-general-availability-of-aws-mainframe-modernization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.01net.it/aws-announces-general-availability-of-aws-mainframe-modernization/amp/",
+      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/aws-announces-general-availability-of-aws-mainframe-modernization/amp/",
+      "publishedDateTime": "2022-06-09T21:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-how-service-providers-can-use-natural-language-processing-to-gain-insights-from-customer-tickets-with-amazon-comprehend.md",
+      "title": "How service providers can use natural language processing to gain insights from customer tickets with Amazon Comprehend",
+      "excerpt": "Today, customers can raise support tickets through multiple channels like – web, mobile, chat-bots, emails, or phone calls. When a support ticket is raised by a customer, it is processed and assigned to a category based on the information provided in the ticket. It is then routed to the support group",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-service-providers-can-use-natural-language-processing-to-gain-insights-from-customer-tickets-with-amazon-comprehend/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-service-providers-can-use-natural-language-processing-to-gain-insights-from-customer-tickets-with-amazon-comprehend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/31/ML-8570-image001.jpg",
+          "width": 1092,
+          "height": 406,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T16:41:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-how-emagazines-utilizes-amazon-polly-to-voice-articles-for-school-aged-kids.md",
       "title": "How eMagazines utilizes Amazon Polly to voice articles for school-aged kids",
       "excerpt": "This is a guest post by Andrew Degenholtz, CEO and Founder of eMagazines, the parent company of ReadAlong.ai. eMagazines’ technology seamlessly transforms print products into premium digital and audio experiences. Leveraging Amazon technology, ReadAlong.ai offers a simple, turn-key way for publishers",
@@ -1276,93 +1372,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest.md",
-      "title": "Metaverse to create next evolution of consumer spending patterns: NatWest",
-      "excerpt": "The pandemic brought the urgent need for enterprises across the spectrum to adopt new and emerging technologies. The global banking sector has been at..",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest/91959600",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest/91959600",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-91959600,imgsize-47826,width-1200,height-628,overlay-etcio/metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest/91959600",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest/91959600",
-      "publishedDateTime": "2022-06-02T02:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-zeta-marketing-platform-becomes-the-first-marketing-cloud-available-in-aws-marketplace.md",
-      "title": "Zeta Marketing Platform Becomes the First Marketing Cloud Available in AWS Marketplace",
-      "excerpt": "“AWS and Zeta are delivering a simplified and effective ... and unstructured data points to predict consumer intent by leveraging sophisticated artificial intelligence to personalize experiences at scale. Founded in 2007 by David A.",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/zeta-marketing-platform-becomes-the-first-marketing-cloud-available-in-aws-marketplace/article_d92aff26-0c18-5f19-a4ad-fe75fef25e43.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/zeta-marketing-platform-becomes-the-first-marketing-cloud-available-in-aws-marketplace/article_d92aff26-0c18-5f19-a4ad-fe75fef25e43.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg",
-          "width": 415,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T13:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

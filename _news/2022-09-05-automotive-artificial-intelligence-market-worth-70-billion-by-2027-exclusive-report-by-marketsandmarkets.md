@@ -31,6 +31,15 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 0
+  - title: "Asia Pacific Healthcare Fraud Analytics Market to Grow at a Significant CAGR of 23.7% Through 2028 - ResearchAndMarkets.com"
+    excerpt: "The Asia Pacific Healthcare Fraud Analytics Market is expected to witness market growth of 23.7% CAGR during the forecast period (2022-2028). Before alerts are sent to analysts, clinicians, or investigators,"
+    publishedDateTime: 2022-09-09T16:54:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-9-asia-pacific-healthcare-fraud-analytics-market-to-grow-at-a-significant-cagr-of-237-through-2028-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "xNmI4NiHXGPRDqI+gC2iFgFVkaXSiFdyHBPde0fVnzn4jLCBi0QDcRAG3ro+tGnwGNFyyqYW6ps0iCIc7aAAvKvs0YFH7R89uaoLxYrcM6KvFzjAF+EcBV/0CgxZJ0LV81bWerG266h6o6Tulv5NABFDIa2a+RYoaD3xfuTghhOfcoW4zu8fdy60osWexXTWe6RfmfRK6uKRh9tdn45j+cRLzFZRtREc4o1isZwsIX6N8nDToTyq4WUgAtSJutANoDO4VlJX3TqUHimrwy1q1K7derrxIMeUWjUxxzMjiEIdjB04gOq2QRMYctAsU76tlnJG/0GGdhajr907wR21SYM8WbrHhN0FvaTHxLL96b0=;WhmaZatdUqk4FCXg5zW8IQ=="
 ---

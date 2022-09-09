@@ -2,6 +2,331 @@
   "page": 131,
   "value": [
     {
+      "path": "_news/2022-05-30-c3ai-ai-to-report-q4-earnings-whats-in-the-offing.md",
+      "title": "C3.ai (AI) to Report Q4 Earnings: What's in the Offing?",
+      "excerpt": "C3.ai AI is set to report fourth-quarter fiscal 2022 results on Jun 1. For the quarter, C3.ai expects revenues between $71 million and $72 million. The Zacks Consensus Estimate for revenues is currently pegged at $71.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/c3.ai-ai-to-report-q4-earnings%3A-whats-in-the-offing",
+      "originalUrl": "https://www.nasdaq.com/articles/c3.ai-ai-to-report-q4-earnings%3A-whats-in-the-offing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/c3.ai-ai-to-report-q4-earnings%3A-whats-in-the-offing?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/c3.ai-ai-to-report-q4-earnings%3A-whats-in-the-offing?amp",
+      "publishedDateTime": "2022-05-30T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-30-aws-introduces-new-p4de-instance-for-ai-training.md",
+      "title": "AWS Introduces New P4de Instance for AI Training",
+      "excerpt": "which is included in the company’s EC2 Inf1 instances, is designed for inference workloads and can execute up to 128 trillion operations per second. AWS showed off AWS Trainium, a second AI processor tailored for AI training, in November.",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/aws-introduces-new-p4de-instance-for-ai-training/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/aws-introduces-new-p4de-instance-for-ai-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/05/AWS-Introduces-New-P4de-Instance-for-AI-Training-1024x585.png",
+          "width": 1024,
+          "height": 585,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/aws-introduces-new-p4de-instance-for-ai-training/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/aws-introduces-new-p4de-instance-for-ai-training/amp/",
+      "publishedDateTime": "2022-05-30T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-30-ai-in-fintech-market-overview-cost-structure-analysis-growth-opportunities-and-forecast-to-2029.md",
+      "title": "AI in Fintech Market Overview, Cost Structure Analysis, Growth Opportunities and Forecast To 2029",
+      "excerpt": "The prime aim of the Global AI in Fintech Market is to provide industry investors, private equity companies, company leaders and stakeholders with complete information to help them make well ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-overview-cost-structure-analysis-growth-opportunities-and-forecast-to-2029",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-overview-cost-structure-analysis-growth-opportunities-and-forecast-to-2029",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/0bf852fa68a14af3033fbd770f898c7280985c4b-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-30T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-30-ibm-adds-side-order-of-nlp-to-mcdonalds-ai-drive-thru-chatbots.md",
+      "title": "IBM adds side order of NLP to McDonald's AI drive-thru chatbots",
+      "excerpt": "CEO talks up 'great economics to franchisees ... through the power of software... AI and creative construct'.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/05/30/ibm/",
+      "originalUrl": "https://www.theregister.com/2022/05/30/ibm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2021/06/10/mcdonalds.jpg",
+          "width": 5782,
+          "height": 3854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/05/30/ibm/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/30/ibm/",
+      "publishedDateTime": "2022-05-30T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-30-ddn-adds-powerful-ai-software-to-its-data-storage-systems-and-accelerates-production-to-meet-surging-customer-demand.md",
+      "title": "DDN Adds Powerful AI Software to its Data Storage Systems and Accelerates Production to Meet Surging Customer Demand",
+      "excerpt": "Following the Best First Quarter in the Company's History, DDN Announces Significant Enhancements to its New Range of Hybrid AI Storage Platforms HAMBURG, Germany, May 30, 2022 /PRNewswire/ -- (IS ...",
+      "sourceUrl": null,
+      "webUrl": "https://pix11.com/business/press-releases/cision/20220530LA72671/ddn-adds-powerful-ai-software-to-its-data-storage-systems-and-accelerates-production-to-meet-surging-customer-demand/",
+      "originalUrl": "https://pix11.com/business/press-releases/cision/20220530LA72671/ddn-adds-powerful-ai-software-to-its-data-storage-systems-and-accelerates-production-to-meet-surging-customer-demand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg",
+          "width": 283,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-30T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WPIX",
+        "domain": "pix11.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-30-seniors-should-pick-a-financial-ally-before-cognitive-decline-hits-heres-how.md",
+      "title": "Seniors Should Pick a Financial Ally Before Cognitive Decline Hits. Here’s How.",
+      "excerpt": "Seniors often wait too long to simplify their finances, communicate financial goals, and eventually sign a power-of-attorney document that names someone to manage their money if they’re no ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/retirement-cognitive-decline-51653667597",
+      "originalUrl": "https://www.barrons.com/articles/retirement-cognitive-decline-51653667597",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-30T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-30-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "Artificial intelligence (AI) is an emerging field that many companies are taking advantage of in innovative ways. AI doesn't just mean talking robots destined to take over the planet one day. It's involved in maximizing advertising effectiveness,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2",
+      "originalUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?amp",
+      "publishedDateTime": "2022-05-30T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-30-one-ai-raises-8m-to-curate-business-specific-nlp-models.md",
+      "title": "One AI raises $8M to curate business-specific NLP models",
+      "excerpt": "Ben previously was the head of AI at LogMeIn after the company acquired his second startup, Nanorep, an AI and chatbot vendor. Dror helped to co-found Nanorep and served as a platform product ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/30/one-ai-raises-8m-to-curate-business-specific-nlp-models/",
+      "originalUrl": "https://techcrunch.com/2022/05/30/one-ai-raises-8m-to-curate-business-specific-nlp-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2017/06/gettyimages-683632096.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/30/one-ai-raises-8m-to-curate-business-specific-nlp-models/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/30/one-ai-raises-8m-to-curate-business-specific-nlp-models/amp/",
+      "publishedDateTime": "2022-05-30T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-05-30-x-marks-the-spot-for-completion-of-green-roofed-furniture-factory.md",
       "title": "X marks the spot for completion of green-roofed furniture factory",
       "excerpt": "The Bjarke Ingels Group (BIG) is often at its most interesting when mixing contrasting ideas and functions into its projects – such as its power plant/ski slope for example. In a similar vein comes The Plus,",
@@ -777,344 +1102,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-05-29-traffic-jams-just-a-maths-problem-says-israeli-ai-firm.md",
-      "title": "Traffic Jams Just A Maths Problem, Says Israeli AI Firm",
-      "excerpt": "ITC, or Intelligent Traffic Control, was one of the artificial intelligence players at Tel Aviv's recent EcoMotion showcase where high-tech and AI firms hope to make transport more efficient and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/traffic-jams-just-maths-problem-says-israeli-ai-firm-3524768",
-      "originalUrl": "https://www.ibtimes.com/traffic-jams-just-maths-problem-says-israeli-ai-firm-3524768",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/05/28/yoav-elgrichi-ceo-and-co-founder-of-rider.jpg",
-          "width": 768,
-          "height": 517,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-28T20:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-29-aws-releases-first-graviton3-instances.md",
-      "title": "AWS Releases First Graviton3 Instances",
-      "excerpt": "AWS has recently announced the general availability of the C7g instances, the first EC2 instances running Graviton3 processors. Designed for compute-intensive workloads, they provide always-on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/05/aws-ec2-graviton3/",
-      "originalUrl": "https://www.infoq.com/news/2022/05/aws-ec2-graviton3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-28-deepmind-why-is-ai-so-good-at-language-its-something-in-language-itself.md",
-      "title": "DeepMind: Why is AI so good at language? It's something in language itself",
-      "excerpt": "Impressive deep learning programs such as OpenAI's GPT-3 may be exploiting statistical oddities of human language such as polysemy and homonyms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/deepmind-why-is-ai-so-good-at-language-its-something-in-language-itself/",
-      "originalUrl": "https://www.zdnet.com/article/deepmind-why-is-ai-so-good-at-language-its-something-in-language-itself/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/3ffd901c4c60d15791e3a11b786df6f9c59e485d/2022/05/27/ae1ac90a-e2b4-4b21-8343-f18ef904f3c4/deepmind-omniglot-modified-challenge-may-2022.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/deepmind-why-is-ai-so-good-at-language-its-something-in-language-itself/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deepmind-why-is-ai-so-good-at-language-its-something-in-language-itself/",
-      "publishedDateTime": "2022-05-28T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-28-she-thought-a-dark-moment-in-her-past-was-forgotten-then-she-scanned-her-face-online.md",
-      "title": "She thought a dark moment in her past was forgotten. Then she scanned her face online.",
-      "excerpt": "With a few clicks of a mouse, a facial-recognition website brought back a real-life nightmare that occurred nearly two decades ago.",
-      "sourceUrl": null,
-      "webUrl": "https://dothaneagle.com/news/national/she-thought-a-dark-moment-in-her-past-was-forgotten-then-she-scanned-her-face/article_03b97309-3c54-5d98-8a6f-71b306d3b767.html",
-      "originalUrl": "https://dothaneagle.com/news/national/she-thought-a-dark-moment-in-her-past-was-forgotten-then-she-scanned-her-face/article_03b97309-3c54-5d98-8a6f-71b306d3b767.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-28T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dothan Eagle",
-        "domain": "dothaneagle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-28-ranking-the-episodes-of-love-death-robots-volume-3.md",
-      "title": "Ranking the Episodes of 'Love, Death, & Robots: Volume 3'",
-      "excerpt": "Netflix’s mind-bending and ambitious anthology series Love, Death & Robots recently returned to ... army of creatures that humans can control, leading to unforeseen dangers.",
-      "sourceUrl": null,
-      "webUrl": "https://collider.com/ranking-the-episodes-of-love-death-robots-volume-3/",
-      "originalUrl": "https://collider.com/ranking-the-episodes-of-love-death-robots-volume-3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T20:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Collider",
-        "domain": "collider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-28-ai-robotics-security-leader-aitxs-new-software-update-will-include-weapon-detection.md",
-      "title": "AI Robotics Security Leader AITX's New Software Update will Include Weapon Detection",
-      "excerpt": "AITX announced that its wholly owned subsidiary Robotic Assistance Devices, Inc. (RAD) will include gun detection",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-robotics-security-leader-aitxs-new-software-update-will-include-weapon-detection-2022-05-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-robotics-security-leader-aitxs-new-software-update-will-include-weapon-detection-2022-05-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-05-28-this-facial-recognition-site-is-creeping-everyone-out.md",
-      "title": "This Facial Recognition Site Is Creeping Everyone Out",
-      "excerpt": "A facial recognition tool called PimEyes has recently gone from unknown to infamous. PimEyes makes it easy to find pictures of people that are strewn across the internet. That isn't necessarily surprising—reverse image searches have been a thing for years—but it turns out PimEyes is astoundingly good at identifying people with naught but a single photograph.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/this-facial-recognition-site-is-creeping-everyone-out",
-      "originalUrl": "https://www.pcmag.com/news/this-facial-recognition-site-is-creeping-everyone-out",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/042tAv7BU4awCU1LoifhgMO-1.fit_lim.size_1200x630.v1653691896.jpg",
-          "width": 1121,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/this-facial-recognition-site-is-creeping-everyone-out?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/this-facial-recognition-site-is-creeping-everyone-out?amp=true",
-      "publishedDateTime": "2022-05-27T15:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-28-google-assistant-could-soon-get-even-better-at-recognizing-what-you-say.md",
-      "title": "Google Assistant could soon get even better at recognizing what you say",
-      "excerpt": "Voice recognition is one of those modern tech miracles we easily take for granted. It helps make the Google Assistant possible, and while that's pretty good at picking up what you say and giving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidpolice.com/google-is-working-on-personalized-speech-recognition/",
-      "originalUrl": "https://www.androidpolice.com/google-is-working-on-personalized-speech-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T15:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Police",
-        "domain": "androidpolice.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

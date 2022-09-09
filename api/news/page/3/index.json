@@ -2,6 +2,334 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-06-heres-why-you-should-retain-change-healthcare-chng-stock.md",
+      "title": "Here's Why You Should Retain Change Healthcare (CHNG) Stock",
+      "excerpt": "Change Healthcare — with a market capitalization of $8.14 billion — is an independent healthcare technology platform offering data and analytics-driven solutions to boost clinical financial and patient engagement outcomes in the United States.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/heres-why-you-should-retain-change-healthcare-chng-stock-3",
+      "originalUrl": "https://www.nasdaq.com/articles/heres-why-you-should-retain-change-healthcare-chng-stock-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-06T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-qualcomms-snapdragon-6-and-4-gen-1-chips-are-big-deals-for-cheap-phones.md",
+      "title": "Qualcomm’s Snapdragon 6 and 4 Gen 1 chips are big deals for cheap phones",
+      "excerpt": "Qualcomm's latest Snapdragon 6 Gen 1 and Snapdragon 4 Gen 1 chips promise impressive camera, gaming, and connectivity upgrades for budget Android smartphones.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/mobile/qualcomm-snapdragon-6-gen-1-4-gen-1-news/",
+      "originalUrl": "https://www.digitaltrends.com/mobile/qualcomm-snapdragon-6-gen-1-4-gen-1-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/09/qualcomm-snapdragon-6-4-gen-new-chips.jpg?p=1",
+          "width": 2100,
+          "height": 1400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/mobile/qualcomm-snapdragon-6-gen-1-4-gen-1-news/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/qualcomm-snapdragon-6-gen-1-4-gen-1-news/?amp",
+      "publishedDateTime": "2022-09-06T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-the-eus-ai-act-could-have-a-chilling-effect-on-open-source-efforts-experts-warn.md",
+      "title": "The EU’s AI Act could have a chilling effect on open source efforts, experts warn",
+      "excerpt": "As written, the European Union's AI Act, which seeks to regulate certain types of AI systems, could impose onerous requirements on open source developers, some experts believe.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/06/the-eus-ai-act-could-have-a-chilling-effect-on-open-source-efforts-experts-warn/",
+      "originalUrl": "https://techcrunch.com/2022/09/06/the-eus-ai-act-could-have-a-chilling-effect-on-open-source-efforts-experts-warn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png",
+          "width": 2000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/06/the-eus-ai-act-could-have-a-chilling-effect-on-open-source-efforts-experts-warn/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/06/the-eus-ai-act-could-have-a-chilling-effect-on-open-source-efforts-experts-warn/amp/",
+      "publishedDateTime": "2022-09-06T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-researchers-use-machine-learning-to-unlock-the-genomic-code-in-clinical-cancer-samples.md",
+      "title": "Researchers use machine learning to unlock the genomic code in clinical cancer samples",
+      "excerpt": "A new paper from University of Helsinki, published today in Nature Communications, suggests a method for accurately analyzing genomics data in cancer archival biopsies. This tool uses machine learning methods to correct damaged DNA and unveil the true mutation processes in tumor samples.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-09-machine-genomic-code-clinical-cancer.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-09-machine-genomic-code-clinical-cancer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/researchers-use-machin-3.jpg",
+          "width": 2003,
+          "height": 1784,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-09-machine-genomic-code-clinical-cancer.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-machine-genomic-code-clinical-cancer.amp",
+      "publishedDateTime": "2022-09-06T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-6-ai-companies-disrupting-healthcare-in-2022.md",
+      "title": "6 AI companies disrupting healthcare in 2022",
+      "excerpt": "These AI startups are disrupting a variety of healthcare areas, from drug discovery and operational efficiency to disease detection.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/6-ai-companies-disrupting-healthcare-in-2022/",
+      "originalUrl": "https://venturebeat.com/ai/6-ai-companies-disrupting-healthcare-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1158965842.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/6-ai-companies-disrupting-healthcare-in-2022/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/6-ai-companies-disrupting-healthcare-in-2022/amp/",
+      "publishedDateTime": "2022-09-06T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-how-avatars-and-machine-learning-are-helping-this-company-to-fast-track-digital-transformation.md",
+      "title": "How avatars and machine learning are helping this company to fast track digital transformation",
+      "excerpt": "By developing in-house talent and working with pioneering startups, LNER is moving towards its digital destination – and its experiences provide lessons for all businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-avatars-and-machine-learning-are-helping-this-company-to-fast-track-digital-transformation/",
+      "originalUrl": "https://www.zdnet.com/article/how-avatars-and-machine-learning-are-helping-this-company-to-fast-track-digital-transformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ed783a2f65ffc74133755054e8c6ce6cca442c79/2022/09/06/1a29cd1a-d332-43c1-8155-6e5699e53cdb/lner-azuma-york.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-avatars-and-machine-learning-are-helping-this-company-to-fast-track-digital-transformation/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-avatars-and-machine-learning-are-helping-this-company-to-fast-track-digital-transformation/",
+      "publishedDateTime": "2022-09-06T02:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-banned-us-ai-chips-in-high-demand-at-chinese-state-institutes.md",
+      "title": "Banned U.S. AI chips in high demand at Chinese state institutes",
+      "excerpt": "Local peer Advanced Micro Devices Inc (AMD) also said new licence requirements now prevent export to China of its advanced AI chip MI250. The development signalled a major escalation of a U.S ...",
+      "sourceUrl": null,
+      "webUrl": "https://telecom.economictimes.indiatimes.com/news/analysis-banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes/94024283",
+      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/analysis-banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes/94024283",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-94024283,imgsize-171552,width-1200,height-628,overlay-ettelecom/banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/analysis-banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes/94024283",
+      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/analysis-banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes/94024283",
+      "publishedDateTime": "2022-09-06T01:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "telecom.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-06-xiaomi-launches-the-mijia-cooking-robot-with-22l-capacity-voice-control-more.md",
       "title": "Xiaomi launches the MIJIA Cooking Robot with 2.2L capacity, voice control & more!",
       "excerpt": "The MIJIA Cooking Robot uses CookingIoT algorithms to control the cooking process and OTA updates will be available for improvement. It also offers a wide range of resolution speeds between 40rpm ...",
@@ -572,7 +900,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-software-market-size-from-2022-to-2028-and-key-findings-and-segments-by-end-use-industry-2022-09-05",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -849,352 +1177,6 @@
         "Machine Learning",
         "AI Hardware",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-04-why-embedding-ai-ethics-and-principles-into-your-organization-is-critical.md",
-      "title": "Why embedding AI ethics and principles into your organization is critical",
-      "excerpt": "There is likely no future without AI. Ethical development and use of AI should not be contentious — it is a social responsibility.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-embedding-ai-ethics-and-principles-into-your-organization-is-critical/",
-      "originalUrl": "https://venturebeat.com/ai/why-embedding-ai-ethics-and-principles-into-your-organization-is-critical/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1251037767.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-embedding-ai-ethics-and-principles-into-your-organization-is-critical/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-embedding-ai-ethics-and-principles-into-your-organization-is-critical/amp/",
-      "publishedDateTime": "2022-09-04T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-04-how-lord-of-the-rings-used-ai-to-change-big-screen-battles-forever.md",
-      "title": "How 'Lord of the Rings' Used AI to Change Big-Screen Battles Forever",
-      "excerpt": "Massive software has spawned armies of artificially intelligent crowds, from Lord of the Rings to Avengers: Endgame.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/culture/entertainment/features/how-lord-of-the-rings-used-ai-to-change-big-screen-battles-forever/",
-      "originalUrl": "https://www.cnet.com/culture/entertainment/features/how-lord-of-the-rings-used-ai-to-change-big-screen-battles-forever/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/55e5d94df81ac6baa25b60737dccd3e8b7165511/hub/2021/08/27/30dbd364-143e-493e-8371-445fa1de441c/screen-shot-2021-08-27-at-10-31-45-am.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-04T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-04-how-artificial-intelligence-can-be-trained-to-detect-tumour-research.md",
-      "title": "How artificial intelligence can be trained to detect tumour: Research",
-      "excerpt": "The Bochum team's explainable AI is therefore based on the only kind of meaningful statements known to science: on falsifiable hypotheses. If a hypothesis is false, this fact must be demonstrable through an experiment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/lifestyle/health/how-artificial-intelligence-can-be-trained-to-detect-tumour-research-101662275513848.html",
-      "originalUrl": "https://www.hindustantimes.com/lifestyle/health/how-artificial-intelligence-can-be-trained-to-detect-tumour-research-101662275513848.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2022/09/04/1600x900/_b58a8de0-332a-11e8-9916-7e63ef9446cf_1662275576577_1662275576577.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/lifestyle/health/how-artificial-intelligence-can-be-trained-to-detect-tumour-research-101662275513848-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/health/how-artificial-intelligence-can-be-trained-to-detect-tumour-research-101662275513848-amp.html",
-      "publishedDateTime": "2022-09-04T00:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-04-3-model-monitoring-tips-for-reliable-results-when-deploying-ai.md",
-      "title": "3 model monitoring tips for reliable results when deploying AI",
-      "excerpt": "Truly transformative AI deployments involve careful monitoring and testing, resulting in continuous improvement.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/3-model-monitoring-tips-for-reliable-results-when-deploying-ai/",
-      "originalUrl": "https://venturebeat.com/ai/3-model-monitoring-tips-for-reliable-results-when-deploying-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1313178434.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 689,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/3-model-monitoring-tips-for-reliable-results-when-deploying-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-model-monitoring-tips-for-reliable-results-when-deploying-ai/amp/",
-      "publishedDateTime": "2022-09-03T17:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-04-usa-white-house-president-joe-biden-advances-regional-innovation-in-cleantech-energy-and-ai.md",
-      "title": "USA WHITE HOUSE PRESIDENT JOE BIDEN ADVANCES REGIONAL INNOVATION IN CLEANTECH, ENERGY AND AI.",
-      "excerpt": "The USA White House with President Biden announced on Friday the winners of a $1B economic development competition and announced the recipients for projects in areas like clean energy, tech, and AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/09/03/usa-white-house-president-joe-biden-advances-regional-innovation-in-cleantech-energy-and-ai/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/09/03/usa-white-house-president-joe-biden-advances-regional-innovation-in-cleantech-energy-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6313c79ffa048ac26eb3f6a1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2022/09/03/usa-white-house-president-joe-biden-advances-regional-innovation-in-cleantech-energy-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/09/03/usa-white-house-president-joe-biden-advances-regional-innovation-in-cleantech-energy-and-ai/amp/",
-      "publishedDateTime": "2022-09-03T14:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-04-researchers-develop-computer-chip-to-carry-out-variety-of-artificial-intelligence-functions.md",
-      "title": "Researchers Develop Computer Chip to Carry Out Variety of Artificial Intelligence Functions",
-      "excerpt": "In a recent study published in Nature, an international research team have created a computer chip, called the NeuRRAM neuromorphic chip, that performs com | Technology",
-      "sourceUrl": null,
-      "webUrl": "https://www.labroots.com/trending/technology/23475/researchers-develop-computer-chip-carry-variety-artificial-intelligence-functions-2",
-      "originalUrl": "https://www.labroots.com/trending/technology/23475/researchers-develop-computer-chip-carry-variety-artificial-intelligence-functions-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.labroots.com/_public/_files/system/ck/trending/artificial-intelligence-gd8c21572c_1280_a8f5b10e23fba74f635210edb7370eb2.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.labroots.com/trending/technology/23475/researchers-develop-computer-chip-carry-variety-artificial-intelligence-functions-2/amp",
-      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/23475/researchers-develop-computer-chip-carry-variety-artificial-intelligence-functions-2/amp",
-      "publishedDateTime": "2022-09-03T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Labroots",
-        "domain": "labroots.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-ai-powered-personalization-the-key-to-unlocking-ecommerce-growth.md",
-      "title": "AI-powered personalization: The key to unlocking ecommerce growth",
-      "excerpt": "AI-powered personalization allows businesses to predict their customers’ requirements and be proactive with solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-powered-personalization-the-key-to-unlocking-ecommerce-growth/",
-      "originalUrl": "https://venturebeat.com/ai/ai-powered-personalization-the-key-to-unlocking-ecommerce-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1337253139-Dilok-Klaisataporn.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-powered-personalization-the-key-to-unlocking-ecommerce-growth/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-powered-personalization-the-key-to-unlocking-ecommerce-growth/amp/",
-      "publishedDateTime": "2022-09-03T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

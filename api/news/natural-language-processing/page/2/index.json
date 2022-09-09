@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-25-the-next-technological-time-warp.md",
+      "title": "The Next Technological Time Warp",
+      "excerpt": "Even if you look at other modalities, like early image generation models and their ability to generate faces—not to mention today’s image generation capabilities with models such as DALL-E 2—telling the difference between human-generated and AI-generated content has been difficult for quite some time now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/servicenow/2022/08/24/the-next-technological-time-warp/",
+      "originalUrl": "https://www.forbes.com/sites/servicenow/2022/08/24/the-next-technological-time-warp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6306c01dd2c11b73cd7d1fdb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/servicenow/2022/08/24/the-next-technological-time-warp/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2022/08/24/the-next-technological-time-warp/amp/",
+      "publishedDateTime": "2022-08-24T17:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-24-onemeta-ai-announces-release-of-its-first-product-verbum.md",
       "title": "OneMeta AI Announces Release of its First Product: Verbum",
       "excerpt": "Today OneMeta AI announced that it has released its first product, Verbum ( 'We are very pleased that we have released Verbum to the public. With Verbum, language is no longer a barrier to your meetings or communications.",
@@ -1300,40 +1352,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-syncwords-announces-new-syncwords-offline-with-human-translations-and-ai-dubbing.md",
-      "title": "SyncWords Announces New \"SyncWords Offline\" with Human Translations and AI Dubbing",
-      "excerpt": "SyncWords, the leading live captioning and translation services provider is thrilled to announce SyncWords Offline, which includes human translation services and AI dubbing (the process of translating and re-creating the voice used in videos from a source to a target language,",
-      "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=13168",
-      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=13168",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -3,12 +3,9 @@ category: news
 title: "Self-driving tech firm Aurora mulls sale to Apple or Microsoft - Bloomberg News"
 excerpt: "Aurora Innovation Inc Chief Executive Chris Urmson recently outlined several options for the self-driving tech firm to combat challenging market conditions, including a possible sale to Apple Inc or Microsoft Corp ,"
 publishedDateTime: 2022-09-02T20:26:00Z
-originalUrl: "https://www.reuters.com/technology/self-driving-company-aurora-mulling-possible-sale-apple-or-microsoft-bloomberg-2022-09-02/"
-webUrl: "https://www.reuters.com/technology/self-driving-company-aurora-mulling-possible-sale-apple-or-microsoft-bloomberg-2022-09-02/"
+originalUrl: "https://www.reuters.com/article/aurora-reorganization/self-driving-company-aurora-mulling-possible-sale-to-apple-or-microsoft-bloomberg-news-idUSKBN2Q31VL"
+webUrl: "https://www.reuters.com/article/aurora-reorganization/self-driving-company-aurora-mulling-possible-sale-to-apple-or-microsoft-bloomberg-news-idUSKBN2Q31VL"
 type: article
-quality: 67
-heat: 118
-published: true
 
 provider:
   name: Reuters
@@ -29,65 +26,6 @@ images:
     height: 381
     isCached: true
 
-related:
-  - title: "Self-driving tech company floats possible sale to Apple or Microsoft"
-    excerpt: "Aurora Innovation Inc.'s chief executive officer recently laid out a range of options for the self-driving company to respond to worsening market conditions and partners pushing out timelines, including a possible sale to Apple or Microsoft,"
-    publishedDateTime: 2022-09-03T00:03:00Z
-    webUrl: "https://www.spokesman.com/stories/2022/sep/02/self-driving-tech-company-floats-possible-sale-to-/"
-    ampWebUrl: "https://www.spokesman.com/stories/2022/sep/02/self-driving-tech-company-floats-possible-sale-to-/?amp-content=amp"
-    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2022/sep/02/self-driving-tech-company-floats-possible-sale-to-/?amp-content=amp"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 61
-    images:
-      - url: "https://thumb.spokesman.com/Se5c2OT9-lqqD-VC1ZUm_QstAGo=/480x0/media.spokesman.com/photos/2022/09/02/6312882c6765e.hires.jpg"
-        width: 480
-        height: 311
-        isCached: true
-  - title: "Self-Driving Company Aurora Mulling Possible Sale to Apple or Microsoft - Bloomberg News"
-    excerpt: "Aurora Innovation Inc Chief Executive Chris Urmson recently laid out a series of options for the self-driving company to combat challenging market conditions, including a possible sale to Apple Inc or Microsoft Corp,"
-    publishedDateTime: 2022-09-02T19:58:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2022-09-02/self-driving-company-aurora-mulling-possible-sale-to-apple-or-microsoft-bloomberg-news"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 42
-  - title: "Self-driving tech firm Aurora mulls sale to Apple or Microsoft, says report"
-    excerpt: "Aurora Innovation Inc chief executive Chris Urmson recently outlined several options for the self-driving tech firm to combat challenging market conditions, including a possible sale to Apple Inc or Microsoft Corp,"
-    publishedDateTime: 2022-09-03T09:58:00Z
-    webUrl: "https://www.carsifu.my/news/self-driving-tech-firm-aurora-mulls-sale-to-apple-or-microsoft-says-report"
-    type: article
-    provider:
-      name: CarSifu
-      domain: carsifu.my
-    quality: 39
-    images:
-      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2022/09/Clipboard02.jpg"
-        width: 1024
-        height: 517
-        isCached: true
-  - title: "Self-Driving Firm Aurora Could Be Sold To Microsoft Or Apple"
-    excerpt: "Aurora Innovation, a self-driving technology company co-founded by the former head of Google’s self-driving division, is mulling a sale to Apple or Microsoft. Co-founder Chris Urmson recently acknowledged in an internal memo that the company could be taken private,"
-    publishedDateTime: 2022-09-06T13:01:00Z
-    webUrl: "https://www.carscoops.com/2022/09/self-driving-firm-aurora-could-be-sold-to-microsoft-or-apple/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 21
-  - title: "Self-driving tech company floats possible sale to Apple or Microsoft"
-    excerpt: "Inc.'s chief executive officer recently laid out a range of options for the self-driving company to respond to worsening market conditions and partners pushing o"
-    publishedDateTime: 2022-09-05T18:00:00Z
-    webUrl: "https://www.stuff.co.nz/motoring/300678344/selfdriving-tech-company-floats-possible-sale-to-apple-or-microsoft"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 21
-
-secured: "/afVUA7Qfyi8S9HlBhsOzJ5qsClO9LUCBtZGI3BdvKQtYQParWlYRXJl9ak1491WwFShpqob4C9oblFAMuW8KKeYUgxTRqHk9sDw8flW5ApksVW35JQgsZ5tlISaFjpdOZvcQ/4mEqf+lPUgnZBY5N8GJvlPH6L5Nri1RoIvcEwoT1sHZxjWHTsrdSn87dy8ifTHrWMtCf4YcIJxLjMUTgAit5QHgWo4ZT00PkHYDbGK4a9F2eExO669OiTgZRRd0k9m129i20UsGyAmLJdrfn1SGz6GBqRYpBjOh/E6nleLPZpPfFuPg3U8nn1pf3EhGQQA2CTbEFYarhzS/8ZZ7c7abqH8wlZOcR3NIgjN3vj3ugkeycLXhoAwQyCdOMoEmH8lwcq9u9vHVb0V1C1F4VjLhRpLk9g2ehh09RC/9/lBp0t5/aOlEM0ygepBOmWw98NdkM3nXWKbvDvYO+6ICel+7aESLZqH9TeW/fx+mZQ0YNiBORP+YFm2dO+R0QnnfThV17Bf5i76y7m0zXMaRA==;D20ALs+LCPs03WS3OhxbCQ=="
+secured: "aoDzOoHS57lSRmh9jp7dp2NXxlpG3aZSJbWRnVHnahxK2rwrlRRKCseTGaSlnpFDQ40JmFnBn1mD7qDeUDxPDXhQgu2xQEhpFhtraeEWtWtfJesHPCOrNp7yw5WTGF+YP+rcedH5l3VZve678b54AoeCgr1lCweMvpOAnLCmuOgvrRJbZ1q345Oba7MRulqp15xyWQn1SyKTqr0u9TiO/ZvY0zAAgYJlZGzX/auJZQ0QTty27T9ZSO5Is1GRlf/8hFJm2MTcddQU73pE09V7GJyW3TgvkelXcqOroJgNY1lyYeOPkUK8/R62ccspmsrT4LIOumNv/48BQWf5U+aCq3EayLcnRpoHY5n95G3KBtc=;NADg7PSZRnqrgylU4mh26Q=="
 ---
 

@@ -2,6 +2,356 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-08-31-tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.md",
+      "title": "TensorFlow, PyTorch, and JAX: Choosing a deep learning framework",
+      "excerpt": "Three widely used frameworks are leading the way in deep learning research and production today. Which one should you use?",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/701064/tensorflow-pytorch-jax-choosing-deep-learning-framework/?fp=2&fpid=1",
+      "originalUrl": "https://www.arnnet.com.au/article/701064/tensorflow-pytorch-jax-choosing-deep-learning-framework/?fp=2&fpid=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_107745072.jpg",
+          "width": 473,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T19:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI",
+        "Facebook AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-artificial-intelligence-and-healthcare-the-business-the-law-and-the-ethics.md",
+      "title": "Artificial Intelligence and Healthcare – The Business, The Law and The Ethics",
+      "excerpt": "This is an in-person and online for this program that will explore data justice and cybersecurity in health care. Join us at the Chase Park Plaza for this one-day insightful conference regarding the ways personal data, artificial intelligence, justice and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slu.edu/medicine/bander-center/ai-conference.php",
+      "originalUrl": "https://www.slu.edu/medicine/bander-center/ai-conference.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Saint Louis University",
+        "domain": "slu.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-mgh-mit-dive-deeper-to-better-determine-breast-cancer-risk-through-deep-learning.md",
+      "title": "MGH, MIT dive deeper to better determine breast cancer risk through deep learning",
+      "excerpt": "Researchers at Massachusetts General Hospital (MGH) and the Massachusetts Institute of Technology (MIT) have developed a deep learning computer model that expands on the ability to identify discrete data contained in breast imaging to better predict a woman’s chances of developing breast cancer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bioworld.com/articles/563526-mgh-mit-dive-deeper-to-better-determine-breast-cancer-risk-through-deep-learning",
+      "originalUrl": "https://www.bioworld.com/articles/563526-mgh-mit-dive-deeper-to-better-determine-breast-cancer-risk-through-deep-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bioworld.com/ext/resources/BMT-source/2022/08-31-MGH-breast-cancer.png?height=635&t=1661983683&width=1200",
+          "width": 848,
+          "height": 635,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BioWorld",
+        "domain": "bioworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-software-engineering-manager-machine-learning-.md",
+      "title": "Software Engineering Manager ( Machine Learning )",
+      "excerpt": "Your mission, should you choose to accept it: You will manage a team of Machine Learning Software Engineers & Data Scientists constantly striving for quality solutions that are delivered on time, within budget and scope, and drive a culture of quality and ...",
+      "sourceUrl": null,
+      "webUrl": "https://it-online.co.za/2022/08/31/software-engineering-manager-machine-learning-6/",
+      "originalUrl": "https://it-online.co.za/2022/08/31/software-engineering-manager-machine-learning-6/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT-Online",
+        "domain": "it-online.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-what-you-know-changes-how-you-see-things.md",
+      "title": "What you know changes how you see things",
+      "excerpt": "Researchers have gained important insight into how the human brain processes an object in the visual system and where in the brain this processing takes place. The study shows people perceive objects differently depending on their prior knowledge and experience with that object.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/08/220831162516.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/08/220831162516.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-unilag-trains-youths-on-coding-robotics-programming.md",
+      "title": "UNILAG Trains Youths on Coding, Robotics Programming",
+      "excerpt": "Yinka-Banjo disclosed this at the Undergraduate Robotics Challenge, powered by Coderina and the closing ceremony of the 2022 one month summer coding and robotics programme. The programme is aimed at introducing young beginners to the field of robotics and progressively leadin them from basic concepts to actual work with robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisdaylive.com/index.php/2022/08/31/unilag-trains-youths-on-coding-robotics-programming/",
+      "originalUrl": "https://www.thisdaylive.com/index.php/2022/08/31/unilag-trains-youths-on-coding-robotics-programming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thisday-846548948316-wp-data.storage.googleapis.com/wp-media/d070e8aa-unilag.jpg?mrf-size=m",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thisdaylive.com/index.php/2022/08/31/unilag-trains-youths-on-coding-robotics-programming/amp/",
+      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2022/08/31/unilag-trains-youths-on-coding-robotics-programming/amp/",
+      "publishedDateTime": "2022-08-30T16:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This Day",
+        "domain": "thisdaylive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-mary-barra-confident-in-gms-self-driving-vehicle-tech-and-goal-to-beat-tesla-in-evs.md",
+      "title": "Mary Barra confident in GM’s self-driving vehicle tech and goal to beat Tesla in EVs",
+      "excerpt": "As we roll along in the third quarter of 2022, GM’s long-promised EV lineup is beginning to materialize and gain some serious momentum. The American automaker now has several EVs on the market and has even more in its production pipeline.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/08/30/mary-barra-gm-self-driving-tech-beat-tesla-evs/",
+      "originalUrl": "https://electrek.co/2022/08/30/mary-barra-gm-self-driving-tech-beat-tesla-evs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/GM-Telsla-Mary-Barra.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/08/30/mary-barra-gm-self-driving-tech-beat-tesla-evs/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/30/mary-barra-gm-self-driving-tech-beat-tesla-evs/amp/",
+      "publishedDateTime": "2022-08-30T15:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-ai-startup-simaai-debuts-purpose-built-ai-chip-for-edge-computing.md",
+      "title": "AI startup SiMa.ai debuts 'purpose-built' AI chip for edge computing",
+      "excerpt": "The chip company places special emphasis on software innovations such as compiler optimization to improve performance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/",
+      "originalUrl": "https://www.zdnet.com/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/880f030bba7a4480fe84f79f48a479e12de7a17e/2022/08/30/9a7626ba-c727-4205-8109-e0d5caf30154/sima-mlsoc-evaluation-board.png?width=1200&fit=bounds&format=pjpg&auto=webp",
+          "width": 1200,
+          "height": 749,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/",
+      "publishedDateTime": "2022-08-30T15:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Machine Learning",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-08-31-chinook-indian-nation-members-rally-for-federal-recognition.md",
       "title": "Chinook Indian Nation members rally for federal recognition",
       "excerpt": "Federal recognition would mean access to federal dollars for healthcare and housing for this group of tribes, which are based in Southwestern Washington.",
@@ -802,381 +1152,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-this-mighty-brain-chip-is-so-efficient-it-could-bring-advanced-ai-to-your-phone.md",
-      "title": "This Mighty Brain Chip Is So Efficient It Could Bring Advanced AI to Your Phone",
-      "excerpt": "The NeuRRAM chip is a powerful neuromorphic computing behemoth with 48 parallel cores and 3 million memory cells.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2022/08/30/this-brain-inspired-chip-ups-ai-computing-efficiency-while-using-less-energy/",
-      "originalUrl": "https://singularityhub.com/2022/08/30/this-brain-inspired-chip-ups-ai-computing-efficiency-while-using-less-energy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2022/08/UCSD-JacobsSchool-20220815-Cauwenberghs-NeuRRam-00571-e-8MP.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2022/08/30/this-brain-inspired-chip-ups-ai-computing-efficiency-while-using-less-energy/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/08/30/this-brain-inspired-chip-ups-ai-computing-efficiency-while-using-less-energy/?amp=1",
-      "publishedDateTime": "2022-08-30T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-us-startup-simaai-starts-shipping-machine-learning-chip-and-system.md",
-      "title": "U.S. startup SiMa.ai starts shipping machine learning chip and system",
-      "excerpt": "Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management & Research Company, said on Tuesday it started shipping chips and systems to customers that are testing them, an important step for mass production. We apologize ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system",
-      "originalUrl": "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system/wcm/d3b033f1-d689-4d7b-bd86-a55744e847fe/amp/",
-      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system/wcm/d3b033f1-d689-4d7b-bd86-a55744e847fe/amp/",
-      "publishedDateTime": "2022-08-30T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-innovative-payment-solutions-introduces-voice-command-function-for-ipsipay-app-through-collaboration-with-conversational-ai-technology-provider.md",
-      "title": "Innovative Payment Solutions Introduces Voice Command Function for IPSIPay App Through Collaboration with Conversational AI Technology Provider DRUID",
-      "excerpt": "William Corbett, IPSI’s Chairman and Chief Executive Officer, commented, “We believe our new collaboration with DRUID will dramatically enhance the functionality of our IPSIPay App, enabling users to execute remittances and other transactions,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-43dd32330de56b40d4b503cdbbed5410",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-43dd32330de56b40d4b503cdbbed5410",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-nvidia-dell-vmware-add-ai-zero-trust-security-into-new-data-center-package.md",
-      "title": "Nvidia, Dell, VMware add AI, zero-trust security into new data center package",
-      "excerpt": "Dell servers containing Nvidia DPUs, GPUs, and VMware vSphere 8 use multiple firewalls to improve security for cloud-based workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nvidia-dell-vmware-add-ai-zero-trust-security-into-new-data-center-package/",
-      "originalUrl": "https://www.zdnet.com/article/nvidia-dell-vmware-add-ai-zero-trust-security-into-new-data-center-package/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/31ca8a86b0b988f06219255b37675f4373f61dcd/2021/06/09/9a678cf1-16a0-46b5-b168-4a1cf67d1a6c/data-center.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-dell-vmware-add-ai-zero-trust-security-into-new-data-center-package/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-dell-vmware-add-ai-zero-trust-security-into-new-data-center-package/",
-      "publishedDateTime": "2022-08-30T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-merkle-launches-ethical-ai-white-paper-highlights-need-for-explainable-ai-in-marketing.md",
-      "title": "Merkle Launches Ethical AI White Paper, Highlights Need for Explainable AI in Marketing",
-      "excerpt": "Merkle Launches Ethical AI White Paper, Highlights Need for Explainable AI in Marketing Aug 30, 2022 (PRNewswire via COMTEX) -- PR Newswire COLUMBIA,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/merkle-launches-ethical-ai-white-paper-highlights-need-for-explainable-ai-in-marketing-2022-08-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/merkle-launches-ethical-ai-white-paper-highlights-need-for-explainable-ai-in-marketing-2022-08-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-artificial-intelligence-chip-market-size-worth-usd-832527-million-by-2027-the-insight-partners.md",
-      "title": "Artificial Intelligence Chip Market Size Worth USD 83,252.7 million By 2027 | The Insight Partners",
-      "excerpt": "According to The Insight Partners' research, the Artificial Intelligence Chip Market to 2027 – Global Analysis and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-worth-usd-832527-million-by-2027-the-insight-partners-2022-08-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-worth-usd-832527-million-by-2027-the-insight-partners-2022-08-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T04:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-mits-ai-model-can-detect-parkinsons-by-tracking-breathing-patterns.md",
-      "title": "MITs AI model can detect Parkinsons by tracking breathing patterns",
-      "excerpt": "The U.S. Dina Katabi Dina Katabi, the Thuan and Nicole Pham Professor in the Department of Electrical Engineering and Computer Science (EECS) at MIT and principal investigator at MIT Jameel Clinic, and her team have developed an artificial intelligence model that can detect Parkinson’s just from reading a person’s breathing patterns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.poandpo.com/in-sickness-and-health/mit_s_ai_model_can_detect_parkinson_s_by_tracking_breathing_patterns/",
-      "originalUrl": "https://www.poandpo.com/in-sickness-and-health/mit_s_ai_model_can_detect_parkinson_s_by_tracking_breathing_patterns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/scotfiles/image/fetch/https://www.histerius.com/hs0822/dina_katabi.jpg",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.poandpo.com/in-sickness-and-health/mit_s_ai_model_can_detect_parkinson_s_by_tracking_breathing_patterns.amp",
-      "cdnAmpWebUrl": "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/in-sickness-and-health/mit_s_ai_model_can_detect_parkinson_s_by_tracking_breathing_patterns.amp",
-      "publishedDateTime": "2022-08-30T04:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "poandpo.com",
-        "domain": "poandpo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-ai-vs-ai-the-battle-against-human-level-cognitive-threats.md",
-      "title": "AI Vs. AI: The Battle Against Human-Level Cognitive Threats",
-      "excerpt": "One of the greatest threats that AI represents today is how it can be abused by cybercriminals, specifically in its capability to deceive people and trick them into engaging in actions with unwanted or underestimated consequences.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/30/ai-vs-ai-the-battle-against-human-level-cognitive-threats/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/30/ai-vs-ai-the-battle-against-human-level-cognitive-threats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/630cc41128e9e1b5d87ec5a3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/30/ai-vs-ai-the-battle-against-human-level-cognitive-threats/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/30/ai-vs-ai-the-battle-against-human-level-cognitive-threats/amp/",
-      "publishedDateTime": "2022-08-30T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

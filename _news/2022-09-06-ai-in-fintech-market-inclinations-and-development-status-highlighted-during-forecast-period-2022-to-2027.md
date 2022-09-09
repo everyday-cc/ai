@@ -57,6 +57,15 @@ related:
         width: 1038
         height: 778
         isCached: true
+  - title: "Speech Recognition Market 2022 Industry Challenges, Business Overview and Forecast Research Study 2028"
+    excerpt: "In the Speech Recognition study report, the market for the pertinent time period is in-depth analyzed. In-depth competitor analysis is a component of Speech Recognition market research, as are investigations into the background,"
+    publishedDateTime: 2022-09-09T16:55:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-9-9-speech-recognition-market-2022-industry-challenges-business-overview-and-forecast-research-study-2028"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 3
   - title: "Learning Management System (LMS) Global Market Report 2022: Artificial Intelligence Presents Exciting Development Areas"
     excerpt: "Global Market Report 2022: By Component, Delivery Mode, Deployment Mode, End User, and Covering\" report has been added to ResearchAndMarkets.com's offering. The global learning management system (LMS) market is expected to grow from $13."
     publishedDateTime: 2022-09-08T12:12:00Z
@@ -65,6 +74,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 0
+  - title: "Speech Recognition Engine Industry 2022 Market Challenges, Business Overview and Forecast Research Study 2028"
+    excerpt: "In the Speech Recognition Engine study report, the market for the pertinent time period is in-depth analyzed. In-depth competitor analysis is a component of Speech Recognition Engine market research,"
+    publishedDateTime: 2022-09-09T16:54:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-9-9-speech-recognition-engine-industry-2022-market-challenges-business-overview-and-forecast-research-study-2028"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
     quality: 0
 
 secured: "CivQyoEgZZCrQMU76JFzITxsHEqW2mM170M1wveX+tQu7O0mUys+cBAh0r6YEBTYluFtPFJbjFyz7O+nGh0VrHmspzwlwB59wROvV6b5tDdG/ERR6irpmzMqU6TnNwKDRr2FmGe00PtEQu3M5dM6zNnFOpuSqfHnjx+SYKP94CryEKTGTCO3Ad42o4qQCmLoUoIYhiRn8A/Ei0gUcAwNlXkjT7QgGm8iYYNV0nXLKna+30EZ/MADKBzk/muHakY1yFnFC/H9OAy9VWHJiHqaOfNOfSXNQTdiPG0fZxf9swYhzx1wT2yOnG1FngO7K5IxlYRCNTg5mks3fffaNdEMZRzHEyIi/t+ErSVYx0XgUfE=;Dc60gTUEI+czZ1t1LFJmVQ=="

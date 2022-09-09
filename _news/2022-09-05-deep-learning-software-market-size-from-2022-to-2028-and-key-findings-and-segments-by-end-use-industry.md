@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-software-m
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-size-from-2022-to-2028-and-key-findings-and-segments-by-end-use-industry-2022-09-05"
 type: article
 quality: 53
-heat: 83
+heat: 103
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 1038
         height: 778
         isCached: true
+  - title: "Speech Recognition Market 2022 Industry Challenges, Business Overview and Forecast Research Study 2028"
+    excerpt: "In the Speech Recognition study report, the market for the pertinent time period is in-depth analyzed. In-depth competitor analysis is a component of Speech Recognition market research, as are investigations into the background,"
+    publishedDateTime: 2022-09-09T16:55:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-9-9-speech-recognition-market-2022-industry-challenges-business-overview-and-forecast-research-study-2028"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 3
   - title: "Learning Management System (LMS) Global Market Report 2022: Artificial Intelligence Presents Exciting Development Areas"
     excerpt: "Global Market Report 2022: By Component, Delivery Mode, Deployment Mode, End User, and Covering\" report has been added to ResearchAndMarkets.com's offering. The global learning management system (LMS) market is expected to grow from $13."
     publishedDateTime: 2022-09-08T12:12:00Z
@@ -65,6 +74,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 0
+  - title: "Speech Recognition Engine Industry 2022 Market Challenges, Business Overview and Forecast Research Study 2028"
+    excerpt: "In the Speech Recognition Engine study report, the market for the pertinent time period is in-depth analyzed. In-depth competitor analysis is a component of Speech Recognition Engine market research,"
+    publishedDateTime: 2022-09-09T16:54:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-9-9-speech-recognition-engine-industry-2022-market-challenges-business-overview-and-forecast-research-study-2028"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
     quality: 0
 
 secured: "5Xnq7kOhhdRLmQnrGEaf2VBzcGh5u1CCvJVV9Mugsy2Y+5Fopvpk6cu0eSOR6kr2/nS1KUoouw+jKGD/BwnmBXpk2UhL86bmulTcVCsUuDxs9BS2jMNK8/bRPExHBCvLMhTWVHJqVcb69EMFST46on8td73AMQxTI/fX61tYJBym/3TBB17LvwmmW4VnYUXjgLAYC2grQsEGoBujq/0tiRGrWyP13DbHFss8XqKkQvXvJWT6Xsi9MoRXiqcbHJXYrSb6ElNZEOJhS5+mIhsR7RZ7DMP/zTIUZbsEV1BiqMhHZwQuU+419T6Yh+y/W8NCdh9/oGr6FZ8Df4tfG6BOBNi+SgvQ0/8bhRX7nbYwDRU=;jl+VhodjNj5o3y0tQdW7hw=="

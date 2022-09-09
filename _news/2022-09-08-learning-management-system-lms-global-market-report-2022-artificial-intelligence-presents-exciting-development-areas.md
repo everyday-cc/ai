@@ -60,6 +60,24 @@ related:
         width: 1038
         height: 778
         isCached: true
+  - title: "Speech Recognition Market 2022 Industry Challenges, Business Overview and Forecast Research Study 2028"
+    excerpt: "In the Speech Recognition study report, the market for the pertinent time period is in-depth analyzed. In-depth competitor analysis is a component of Speech Recognition market research, as are investigations into the background,"
+    publishedDateTime: 2022-09-09T16:55:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-9-9-speech-recognition-market-2022-industry-challenges-business-overview-and-forecast-research-study-2028"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 3
+  - title: "Speech Recognition Engine Industry 2022 Market Challenges, Business Overview and Forecast Research Study 2028"
+    excerpt: "In the Speech Recognition Engine study report, the market for the pertinent time period is in-depth analyzed. In-depth competitor analysis is a component of Speech Recognition Engine market research,"
+    publishedDateTime: 2022-09-09T16:54:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-9-9-speech-recognition-engine-industry-2022-market-challenges-business-overview-and-forecast-research-study-2028"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "GDOituNAxv2BrkGRJNzoyESqqZZO2rOIczNoWTuYcr1DmaB1qgsXqcLIfhPmHyb2t7hbGsMztzYcvJxhd1sRhv2p71TigYD3zVDEVrUfMQYXdc+mfRGkEjvhie8Sdo1eY0URxM9/IUUh8p1iYm6AcCypx+VvsmPOd1V2+cZVl7xrcjub4aAoNWhhXX/TnqRXyF9djH5r9D4hYweNJtw2w+NqHTtkk69MMIvw/Bh54JUi2ZyZRZjZkJU9fXxmXbJROCfMEcAiml8bTtdY3kAEV0K1mTlbRyj8b4uqgwr/N06Ovwy4rrbPNGMVTfr0TYvIRfDj20XdSTufrPnylmzT4UxPTMqok82fPp2d3jJTGY8=;Bslya4TghMzQlG2107BNdg=="
 ---

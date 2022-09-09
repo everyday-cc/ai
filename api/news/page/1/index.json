@@ -2,6 +2,317 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-10-11-tech-experts-on-how-small-businesses-can-effectively-leverage-machine-learning.md",
+      "title": "11 Tech Experts On How Small Businesses Can Effectively Leverage Machine Learning",
+      "excerpt": "There are plenty of ways even startups can use ML to boost their odds of success, from predicting future purchases to taking labor-intensive tasks off their team members’ plates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/09/11-tech-experts-on-how-small-businesses-can-effectively-leverage-machine-learning/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/09/11-tech-experts-on-how-small-businesses-can-effectively-leverage-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6319f94d9b5e31274c213f35/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/09/11-tech-experts-on-how-small-businesses-can-effectively-leverage-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/09/11-tech-experts-on-how-small-businesses-can-effectively-leverage-machine-learning/amp/",
+      "publishedDateTime": "2022-09-09T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-build-repeatable-secure-and-extensible-end-to-end-machine-learning-workflows-using-kubeflow-on-aws.md",
+      "title": "Build repeatable, secure, and extensible end-to-end machine learning workflows using Kubeflow on AWS",
+      "excerpt": "This is a guest blog post cowritten with athenahealth. athenahealth&nbsp;a leading provider of network-enabled software and services for medical groups and health systems nationwide. Its electronic health records, revenue cycle management, and patient engagement tools allow anytime, anywhere access,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-repeatable-secure-and-extensible-end-to-end-machine-learning-workflows-using-kubeflow-on-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-repeatable-secure-and-extensible-end-to-end-machine-learning-workflows-using-kubeflow-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/09/repeatable-secure-kubeflow.jpg",
+          "width": 1534,
+          "height": 766,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-09T09:21:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-deep-dive-how-ai-content-generators-work.md",
+      "title": "Deep Dive: How AI content generators work",
+      "excerpt": "AI content generators cannot be subjective, no matter how great the ML training using structured data is, but their uses can be additive to marketing teams.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/deep-dive-how-ai-content-generators-work/",
+      "originalUrl": "https://venturebeat.com/ai/deep-dive-how-ai-content-generators-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/02/ai-marketing-shutterstock_741922060.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/deep-dive-how-ai-content-generators-work/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/deep-dive-how-ai-content-generators-work/amp/",
+      "publishedDateTime": "2022-09-09T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests.md",
+      "title": "Beyond Mere Efficiency: Artificial Intelligence is Transforming Culture, Study Suggests",
+      "excerpt": "Executives who saw significant financial benefits from their AI initiatives were 10x more likely to change how they measure success than those who saw no such benefits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/09/09/beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/09/09/beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/631b608de551689b89d7038c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/09/09/beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/09/09/beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests/amp/",
+      "publishedDateTime": "2022-09-09T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-runway-teases-ai-powered-text-to-video-editing-using-written-prompts.md",
+      "title": "Runway teases AI-powered text-to-video editing using written prompts",
+      "excerpt": "In a tweet posted this morning, artificial intelligence company Runway teased a new feature of its AI-powered web-based video editor that can edit video from written descriptions, often called \"prompts.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/09/runway-teases-ai-powered-text-to-video-editing-using-written-prompts/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/09/runway-teases-ai-powered-text-to-video-editing-using-written-prompts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/runway_text2video_hero1-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-09T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-we-need-to-talk-about-ai.md",
+      "title": "We Need To Talk About AI",
+      "excerpt": "As architects and advocates of AI technology, it’s time we reclaim the narrative and rebuild lost trust. If we choose our words carefully, we can strongly and positively influence conversations about AI and decisions about its use.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/09/09/we-need-to-talk-about-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/09/09/we-need-to-talk-about-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6319f28c81d07fcde9d70388/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/09/09/we-need-to-talk-about-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/09/09/we-need-to-talk-about-ai/amp/",
+      "publishedDateTime": "2022-09-09T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-09-can-githubs-copilot-ai-put-the-fun-back-into-being-a-developer.md",
       "title": "Can GitHub's Copilot AI put the fun back into being a developer?",
       "excerpt": "GitHub researchers compare how fast developers can code with Copilot's AI assistance versus a group relying on standard developer practices.",
@@ -942,298 +1253,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-ai-and-ccaas-help-marshall-mclennan-and-mckesson-build-business-efficiencies.md",
-      "title": "AI And CCaaS Help Marshall McLennan And McKesson Build Business Efficiencies",
-      "excerpt": "Firms have a pressing need to enhance their digital sales and support solutions to address new customer demands. Businesses look to AI and CCaaS to support these efforts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/maribellopez/2022/09/08/ai-and-ccaas-help-marshall-mclennan-and-mckesson-build-business-efficiencies/",
-      "originalUrl": "https://www.forbes.com/sites/maribellopez/2022/09/08/ai-and-ccaas-help-marshall-mclennan-and-mckesson-build-business-efficiencies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6317bd9c58a90f2c25213eba/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/maribellopez/2022/09/08/ai-and-ccaas-help-marshall-mclennan-and-mckesson-build-business-efficiencies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2022/09/08/ai-and-ccaas-help-marshall-mclennan-and-mckesson-build-business-efficiencies/amp/",
-      "publishedDateTime": "2022-09-08T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-loab-the-creepy-ai-art-generated-woman-explained.md",
-      "title": "Loab, the Creepy AI Art-Generated Woman, Explained",
-      "excerpt": "First, to understand Loab, you need to understand what's happening in AI art. In the past few months, AI art -- that is, art generated by artificial intelligence tools -- has skyrocketed to prominence thanks to the proliferation of tools like Dall-E Mini,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/science/loab-the-creepy-ai-art-generated-woman-explained/",
-      "originalUrl": "https://www.cnet.com/science/loab-the-creepy-ai-art-generated-woman-explained/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/1079eae0446d1558fc9d0c69c9408f8c7fbe2fd5/2022/09/08/919b95d9-c3ec-4ecd-a47c-a181788f1ad9/export1.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/loab-the-creepy-ai-art-generated-woman-explained/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/loab-the-creepy-ai-art-generated-woman-explained/",
-      "publishedDateTime": "2022-09-07T23:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-iran-claims-that-it-has-new-artificial-intelligence-capabilities.md",
-      "title": "Iran claims that it has new artificial intelligence capabilities",
-      "excerpt": "The new claim, which said Iran had \"defeated the enemy at a distance of more than 1,000 kilometers with AI,\" didn't specify exactly what \"artificial intelligence\" had been used or how.",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/middle-east/article-716606",
-      "originalUrl": "https://www.jpost.com/middle-east/article-716606",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/453729",
-          "width": 640,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.jpost.com/middle-east/article-716606/amp",
-      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/middle-east/article-716606/amp",
-      "publishedDateTime": "2022-09-07T19:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-apples-latest-a16-bionic-chip-comes-with-5-core-gpu-16-core-neural-engine.md",
-      "title": "Apple's latest A16 Bionic chip comes with 5-core GPU, 16-core neural engine",
-      "excerpt": "At Wednesday's Apple event in Cupertino, California, the company finally revealed its iPhone 14 Pro lineup, which is powered by the latest A16 chip, the successor of last year's A15 chip",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/technology/apple-s-latest-a16-bionic-chip-comes-with-5-core-gpu-16-core-neural-engine-122090800084_1.html",
-      "originalUrl": "https://www.business-standard.com/article/technology/apple-s-latest-a16-bionic-chip-comes-with-5-core-gpu-16-core-neural-engine-122090800084_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/10/full/1631297645-9379.jpg",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/apple-s-latest-a16-bionic-chip-comes-with-5-core-gpu-16-core-neural-engine-122090800084_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/apple-s-latest-a16-bionic-chip-comes-with-5-core-gpu-16-core-neural-engine-122090800084_1.html",
-      "publishedDateTime": "2022-09-07T18:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-my-journey-from-deepmind-intern-to-mentor.md",
-      "title": "My journey from DeepMind intern to mentor",
-      "excerpt": "Former intern turned intern manager, Richard Everett, describes his journey to DeepMind, sharing tips and advice for aspiring DeepMinders. The 2023 internship applications will open on the 16th September, please visit https://dpmd.ai/internshipsatdeepmind for more information.",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/my-journey-from-deepmind-intern-to-mentor",
-      "originalUrl": "https://www.deepmind.com/blog/my-journey-from-deepmind-intern-to-mentor",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/631a065d45644fd6ab93de07_Richard_Everett__Blog__16x9.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-ampere-continues-blazing-a-trail-for-efficient-high-performance-cloud-native-processors.md",
-      "title": "Ampere Continues Blazing A Trail For Efficient, High-Performance Cloud Native Processors",
-      "excerpt": "This past week, Microsoft announced the general availability of Azure Virtual Machines featuring Ampere Altra ... the company is not focused on discrete accelerators for specialized workloads, like AI. Instead, Ampere is designing purpose-built, many ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marcochiappetta/2022/09/07/ampere-continues-blazing-a-trail-for-efficient-high-performance-cloud-native-processors/",
-      "originalUrl": "https://www.forbes.com/sites/marcochiappetta/2022/09/07/ampere-continues-blazing-a-trail-for-efficient-high-performance-cloud-native-processors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63190e487127318994515cb4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 636,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marcochiappetta/2022/09/07/ampere-continues-blazing-a-trail-for-efficient-high-performance-cloud-native-processors/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2022/09/07/ampere-continues-blazing-a-trail-for-efficient-high-performance-cloud-native-processors/amp/",
-      "publishedDateTime": "2022-09-07T14:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

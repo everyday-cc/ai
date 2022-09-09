@@ -2,6 +2,127 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-07-06-nyu-explores-the-principles-for-modelling-neural-collapse-and-its-role-in-generalization.md",
+      "title": "NYU Explores the Principles for Modelling Neural Collapse and Its Role in Generalization",
+      "excerpt": "Deep neural networks (DNNs) have advanced the state-of-the-art on tasks ranging from image classification to language processing and gameplay. But as models have become deeper and more complex, understanding their behaviours has become more challenging.",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2022/07/06/nyu-explores-the-principles-for-modelling-neural-collapse-and-its-role-in-generalization/",
+      "originalUrl": "https://syncedreview.com/2022/07/06/nyu-explores-the-principles-for-modelling-neural-collapse-and-its-role-in-generalization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-06T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-05-how-to-quickly-deploy-tinyml-on-mcus.md",
+      "title": "How to quickly deploy TinyML on MCUs",
+      "excerpt": "You’re curious about artificial intelligence (AI ... Under the hood, our AI relies on a neural network. You can think of a neural network as a collection of neurons, a bit like in our brains. That’s why in the case of a zombie apocalypse, AI would ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.embedded.com/how-to-quickly-deploy-tinyml-on-mcus/",
+      "originalUrl": "https://www.embedded.com/how-to-quickly-deploy-tinyml-on-mcus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.embedded.com/wp-content/uploads/2022/07/07itemis_f5_t.png",
+          "width": 470,
+          "height": 358,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-05T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded",
+        "domain": "embedded.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-05-global-machine-learning-market-is-expected-to-reach-usd-19254-billion-at-a-cagr-of-46-and-forecast-to-2027.md",
+      "title": "Global Machine Learning Market Is Expected To Reach USD 192.54 Billion At A CAGR Of 46% And Forecast To 2027",
+      "excerpt": "A thorough picture of the competitive landscape of major competitors in the Machine Learning market by goods and services, revenue, financial situation, portfolio, growth plans, and geographical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/global-machine-learning-market-is-expected-to-reach-usd-192-54-billion-at-a-cagr-of-46-and-forecast-to-2027",
+      "originalUrl": "https://www.digitaljournal.com/pr/global-machine-learning-market-is-expected-to-reach-usd-192-54-billion-at-a-cagr-of-46-and-forecast-to-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/primages/Watsona-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-05T02:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-07-05-20-year-indian-students-machine-learning-software-to-be-sent-to-space.md",
       "title": "20 Year Indian Student’s Machine Learning Software To Be Sent To Space",
       "excerpt": "A student from India studying in the Nanyang Technological University (NTU) in Singapore, has developed a machine learning software along with his team consisting of 4 other students from the same institution.",
@@ -1204,146 +1325,6 @@
         "AI",
         "Machine Learning",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-improve-ml-developer-productivity-with-weights-biases-a-computer-vision-example-on-amazon-sagemaker.md",
-      "title": "Improve ML developer productivity with Weights & Biases: A computer vision example on Amazon SageMaker",
-      "excerpt": "The content and opinions in this post are those of the third-party author and AWS is not responsible for the content or accuracy of this post. As more organizations use deep learning techniques such as computer vision and natural language processing, the machine learning (ML) developer persona needs",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-ml-developer-productivity-with-weights-biases-a-computer-vision-example-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-ml-developer-productivity-with-weights-biases-a-computer-vision-example-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/24/weights-and-biases.jpg",
-          "width": 1245,
-          "height": 620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-24T13:33:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-06-25-research-finds-babies-can-help-unlock-next-generation-of-artificial-intelligence.md",
-      "title": "Research finds babies can help unlock 'next generation' of artificial intelligence",
-      "excerpt": "According to neuroscientists at the Trinity College Dublin babies can help unlock the next generation of artificial intelligence AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/272598316/research-finds-babies-can-help-unlock-next-generation-of-artificial-intelligence",
-      "originalUrl": "https://www.bignewsnetwork.com/news/272598316/research-finds-babies-can-help-unlock-next-generation-of-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/ani1656095078.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-24T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-new-deep-learning-model-helps-the-automated-screening-of-common-eye-disorders.md",
-      "title": "New deep-learning model helps the automated screening of common eye disorders",
-      "excerpt": "More information: Parmanand Sharma et al, A lightweight deep learning model for automatic segmentation and analysis of ophthalmic images, Scientific Reports (2022). DOI: 10.1038/s41598-022-12486-w ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-06-deep-learning-automated-screening-common-eye.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-06-deep-learning-automated-screening-common-eye.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/new-deep-learning-mode.jpg",
-          "width": 466,
-          "height": 402,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-06-deep-learning-automated-screening-common-eye.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-deep-learning-automated-screening-common-eye.amp",
-      "publishedDateTime": "2022-06-24T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

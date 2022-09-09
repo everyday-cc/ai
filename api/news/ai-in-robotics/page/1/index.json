@@ -578,6 +578,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-03-european-robotic-arm-testing-on-the-international-space-station.md",
+      "title": "European Robotic Arm Testing On The International Space Station",
+      "excerpt": "The European Robotic Arm (ERA) successfully completed the first transfer following commands from cosmonauts inside the Space Station last week. Teams in Moscow, Russia and at ESA’s control room ...",
+      "sourceUrl": null,
+      "webUrl": "https://spaceref.com/space-stations/european-robotic-arm-testing-on-the-international-space-station/",
+      "originalUrl": "https://spaceref.com/space-stations/european-robotic-arm-testing-on-the-international-space-station/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.spaceref.com/wp-content/uploads/2022/09/03202100/eva_arm-1.jpg",
+          "width": 2047,
+          "height": 1150,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SpaceRef",
+        "domain": "spaceref.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-03-robots-and-artificial-intelligence-bring-nebraska-25-million.md",
       "title": "Robots and artificial intelligence bring Nebraska $25 million",
       "excerpt": "Satellite data, parsed by artificial intelligence speaking to drones, connecting to robots, maintained by a newly trained workforce. That’s what helped a Nebraska group, Heartland Robotics ...",
@@ -1357,50 +1400,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-aitxs-subsidiary-robotic-assistance-devices-introduces-rio-a-portable-solar-powered-security-solution.md",
-      "title": "AITX’s Subsidiary Robotic Assistance Devices Introduces RIO, a Portable Solar-Powered Security Solution",
-      "excerpt": "Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX), today announced that its wholly owned subsidiary, Robotic Assistance Devices, Inc. (RAD) has introduced RIO™, a portable, solar-powered security solution.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-robotics-artificial-intelligence-climate-and-environment-c733679ccdeb70c71283dbba1b178a4e",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-robotics-artificial-intelligence-climate-and-environment-c733679ccdeb70c71283dbba1b178a4e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T05:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

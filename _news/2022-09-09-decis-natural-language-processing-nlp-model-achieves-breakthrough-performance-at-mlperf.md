@@ -27,14 +27,14 @@ images:
 
 related:
   - title: "MLPerf Results Show Advances in Machine Learning Inference"
-    excerpt: "MLCommons establishes a new record with over 5,300 performance results and 2,400 power measurement results, 1.37X and 1.09X more than the previous round. MLPerf benchmarks are comprehensive system tests that stress machine learning models, software, and ..."
-    publishedDateTime: 2022-09-08T18:56:00Z
-    webUrl: "https://www.01net.it/mlperf-results-show-advances-in-machine-learning-inference/"
+    excerpt: "MLPerf benchmarks are comprehensive system tests that stress machine learning models, software, and hardware, and optionally monitor energy consumption. The open-source and peer-reviewed benchmark suites level the playing ground for competitiveness,"
+    publishedDateTime: 2022-09-08T18:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-mlperf-results-show-advances-machine-learning-inference-/2022/09/08/9670229.htm"
     type: article
     provider:
-      name: 01Net
-      domain: 01net.it
-    quality: 36
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
   - title: "Deci’s NLP Model Achieves Breakthrough Performance at MLPerf"
     excerpt: "Deci, the deep learning company harnessing Artificial Intelligence (AI) to build better AI, announced results for its"
     publishedDateTime: 2022-09-08T19:48:00Z
@@ -45,6 +45,6 @@ related:
       domain: datanami.com
     quality: 19
 
-secured: "gIXZaeuJ6BjVMIcJ58x76w4K3WUswgckw90fCcLZrwrC033JtwhWlVlYw0F2U/sJiLXxqdCQZo6Os2OakwePQRIaGi/gAHUONjAqzJJ6ntImBPh58IHy6eEGt973ddJowhPTFwnWW3Aa+q+SPFmN+iFKBn4Brskn/BRYTpUWYLxm87eVj3fTbPZ9ekOFsvSCGNS9CLbNiWhnE29397c/DU+Rsr7Xnj/rxN+P8CJulF5C4eoXkGjqGKu7StZr9YG6tTHBs53BZaXbVIhxbzSbG+X6kkyUICf7xyp1fi1G49U9ClqAJCn9xDL2+UAfz/WGZB5DzdQ+q1VWA54sfdBPJqontXTHx308AyF9g0k5DnA=;Kc9ChbqJRoTtbn61wuwc8Q=="
+secured: "vFpv//M2kbaeGMdcJGzfyABPJH7Spmd2R3EwFrFXDFbkYydNIAU32LBD01RxsaVnoN2+CXjMDqOOJ6328CrpEuM0DRG5sx3ny/EUIMgJHlAxABh4ELdTPDdlA7Ww6EjTgNzKORYY6y7im6dNIoBPgUqEiZtuOpmbtRXszq2H0DLOV//YoXWFhDfynPbnuaZU74U1gRLazqj4LYJai48y38HLiWKP9YhDSBGsKuKjwSHsqtViOj+Do+uYySzHyJsuQImBB3iZ1mTqHX66ySSXRU83lINhFrqISUbDHhydPzmGcGuQLeFSZWLsnk6j+K0UYN7vRCFs3rtQ5rBBvNBVVpoilQ9L/V06PiOrk5Xyie23gwM0nXTxVDmXjaH0WkRlbFUZfIKIrgHRncGUd/YCMqq+PX6pEdkCXyKwAunyE63AcCPjfqBAhlR7bil+xjQgeM0wvqb/IdT8pgb2+1TqjYsK/wpGUP0J1TXZOfePS9vL/pLQK38n9UmEvXWqG8Vs0s27S/6Owlu6HLCmwYS+8g==;pd0O+CkbOkGZ9jumprbCIA=="
 ---
 

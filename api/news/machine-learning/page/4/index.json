@@ -2,6 +2,157 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-11-the-daily-grind-of-the-rumor-mill-machine-learning-deciphers-fake-news.md",
+      "title": "The daily grind of the rumor mill: Machine learning deciphers fake news",
+      "excerpt": "Research published in the International Journal of Cloud Computing looks at how machine learning might allow us to analyze the nature and characteristics of social media updates and detect which of those updates are adding grist to the rumor mill rather than being factual.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-08-daily-rumor-mill-machine-deciphers.html",
+      "originalUrl": "https://techxplore.com/news/2022-08-daily-rumor-mill-machine-deciphers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/fakenews.jpg",
+          "width": 1920,
+          "height": 1046,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-08-daily-rumor-mill-machine-deciphers.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-daily-rumor-mill-machine-deciphers.amp",
+      "publishedDateTime": "2022-08-11T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-11-stratum-ai-revolutionizes-miners-deep-learning-of-whats-below-ground.md",
+      "title": "Stratum AI Revolutionizes Miners’ Deep Learning Of What’s Below Ground",
+      "excerpt": "Mining operators need more accurate estimations of where target minerals are located beneath the ground so they can drill and extract once instead of multiple times. Stratum AI provides a deep learning algorithm to better model the exact location of where wanted minerals are located underground.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/frederickdaso/2022/08/11/stratum-ai-revolutionizes-miners-deep-learning-of-whats-below-ground/",
+      "originalUrl": "https://www.forbes.com/sites/frederickdaso/2022/08/11/stratum-ai-revolutionizes-miners-deep-learning-of-whats-below-ground/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62f444e3a8d44458ee750efd/0x0.jpg?format=jpg&crop=2048,1152,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/frederickdaso/2022/08/11/stratum-ai-revolutionizes-miners-deep-learning-of-whats-below-ground/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2022/08/11/stratum-ai-revolutionizes-miners-deep-learning-of-whats-below-ground/amp/",
+      "publishedDateTime": "2022-08-11T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-11-amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better.md",
+      "title": "Amazon's Alexa scientists demonstrate bigger AI isn't always better",
+      "excerpt": "Despite deep learning's obsession with big models and generalist approaches, Amazon shows top results can be had with economical and somewhat focused, if not specialized, models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/",
+      "originalUrl": "https://www.zdnet.com/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5e79d4892d800fecee63c8b5bde6410152fd6bcc/2022/08/10/7374585a-a866-491a-8405-4352c3c6e2a1/amazon-2022-alextm-20b-summarizing.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 643,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/",
+      "publishedDateTime": "2022-08-10T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Machine Learning",
+        "Natural Language Processing",
+        "AI Hardware",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-researchers-embrace-artificial-intelligence-to-tackle-banana-disease-in-burundi.md",
       "title": "Researchers Embrace Artificial Intelligence to Tackle Banana Disease in Burundi",
       "excerpt": "A group of scientists involved in finding solutions to minimize the impact of a devastating banana virus in Burundi have developed an Artificial Intelligence",
@@ -1308,145 +1459,6 @@
         "AI",
         "Machine Learning",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-how-deep-instinct-uses-deep-learning-to-advance-malware-prevention.md",
-      "title": "How Deep Instinct uses deep-learning to advance malware prevention",
-      "excerpt": "cybersecurity provider Deep Instinct has announced the release of a deep learning-powered solution: Deep Instinct Prevention for Applications, a new on-demand antimalware solution. Deep Instinct ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/deep-instinct-deep-learning/",
-      "originalUrl": "https://venturebeat.com/security/deep-instinct-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1273354471.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 805,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/deep-instinct-deep-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/deep-instinct-deep-learning/amp/",
-      "publishedDateTime": "2022-08-02T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-wimi-hologram-academy-deep-learning-hardware-technology-based-on-in-memory-computing-structure.md",
-      "title": "WIMI Hologram Academy: Deep learning hardware technology based on in-memory computing structure",
-      "excerpt": "Scientists from WIMI Hologram Academy of WIMI Hologram Cloud Inc.(NASDAQ: WIMI), discussed in detail the deep learning hardware technology from general-purpose to in-memory computing structure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/wimi-hologram-academy-deep-learning-hardware-technology-based-on-in-memory-computing-structure/article_982a3e72-3397-5f81-83cf-4e1fdc5014d7.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/wimi-hologram-academy-deep-learning-hardware-technology-based-on-in-memory-computing-structure/article_982a3e72-3397-5f81-83cf-4e1fdc5014d7.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T19:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-using-machine-learning-for-bushfire-prevention-in-australia.md",
-      "title": "Using machine learning for bushfire prevention in australia",
-      "excerpt": "Machine learning approaches are proactively mitigating the risk of bushfires caused by powerlines, ensuring the safe and regular supply of power to",
-      "sourceUrl": null,
-      "webUrl": "https://utilitymagazine.com.au/using-machine-learning-for-bushfire-prevention-in-australia/",
-      "originalUrl": "https://utilitymagazine.com.au/using-machine-learning-for-bushfire-prevention-in-australia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://utilitymagazine.com.au/wp-content/uploads/2022/07/Utility-5.png",
-          "width": 714,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "utilitymagazine.com.au",
-        "domain": "utilitymagazine.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
