@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-09T12:00:00Z
 originalUrl: "https://gizmodo.com/apple-google-calendar-safari-chrome-facetime-meet-bette-1849508436"
 webUrl: "https://gizmodo.com/apple-google-calendar-safari-chrome-facetime-meet-bette-1849508436"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: gizmodo

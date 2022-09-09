@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Recession Fears And The Crude Oil Price Drop: Forbes AI Newsletter - September 3rd"
+    excerpt: "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend."
+    publishedDateTime: 2022-09-09T13:34:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2022/09/09/recession-fears-and-the-crude-oil-price-drop-forbes-ai-newsletterseptember-3rd/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 41
 
 secured: "avEtONyzSOpgitBB70tUZG5BOKm2o3/8ldnXzV24Qs6ZG/F/7lXAVraXED3PzVm1FQVEVWxI+GWqZbXy2wzC+jOsicxZOkXe6skamKw7hp4kIAdiKX4plmChJ1GN9ugVCfO6qlH7vdaj15cEUsBns92E0ahmXlY5SGdQb05OBM+rP6N4VzHAk27Pf8sp4DrYuy+fX166Jzu13xWpPBzgYTvVZG4ERtvb3mEmlAIItX5ddmP70NzqqwJlf/Q77agiOBEHKDOvHGfqLiqz/7Z0f/7KUmhC6Hnjm7eygcpU85Yu3mlj376QC6JQuNqzpFCqgQ6Od6b8oEPLDZWajqVDCkav7WjaJpJ3KxLJ0pfMgJ0=;6UyFIr+bSoFLvsZLAE74ug=="
 ---

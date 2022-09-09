@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/coupons/amazon.com/"
 webUrl: "https://www.forbes.com/coupons/amazon.com/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Forbes
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Recession Fears And The Crude Oil Price Drop: Forbes AI Newsletter - September 3rd"
+    excerpt: "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend."
+    publishedDateTime: 2022-09-09T13:34:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2022/09/09/recession-fears-and-the-crude-oil-price-drop-forbes-ai-newsletterseptember-3rd/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 41
   - title: "Veritone to Showcase Award-Winning AI Solutions at the International Broadcasting Conference 2022, September 9-12"
     excerpt: "Through Veritone’s AI offerings, content creators and owners can efficiently and securely share, manage and protect assets; expedite content monetization; and scale, localize and translate digital content."
     publishedDateTime: 2022-09-07T04:02:00Z

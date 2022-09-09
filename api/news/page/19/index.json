@@ -2,6 +2,58 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-08-23-deep-learning-market-2022-2027-industry-growth-report-top-companies-share-size-and-forecast.md",
+      "title": "Deep Learning Market 2022-2027: Industry Growth Report, Top Companies Share, Size, and Forecast",
+      "excerpt": "According to the latest report by IMARC Group, titled \"Deep Learning Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022- 2027,\" the global deep learning market reached a value of US$ 12 Billion in 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2022-2027-industry-growth-report-top-companies-share-size-and-forecast-2022-08-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2022-2027-industry-growth-report-top-companies-share-size-and-forecast-2022-08-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T02:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-23-bosch-backed-self-driving-startup-weride-weighing-ipo-sources-say.md",
       "title": "Bosch-backed self-driving startup WeRide weighing IPO, sources say",
       "excerpt": "The self-driving vehicle industry has long been divided over the best ... taking a similar approach to peers including Baidu, Huawei Technologies, and General Motors-backed Momenta.ai. BLOOMBERG",
@@ -1101,49 +1153,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-5-best-artificial-intelligence-stocks-to-buy-now.md",
-      "title": "5 Best Artificial Intelligence Stocks To Buy Now",
-      "excerpt": "The company’s Meta AI is working towards developing artificial intelligence in the digital ... self-driving cars through its subsidiary, Waymo. In addition, the company’s subsidiary DeepMind ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-now-1058867/?singlepage=1",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-now-1058867/?singlepage=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/09/29221800/istockphoto-1274437411-170667a.jpg",
-          "width": 584,
-          "height": 296,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-22T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

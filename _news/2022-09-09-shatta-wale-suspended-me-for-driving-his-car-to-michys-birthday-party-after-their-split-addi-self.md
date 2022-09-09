@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-09T12:38:00Z
 originalUrl: "https://www.ghanaweb.com/GhanaHomePage/entertainment/Shatta-Wale-suspended-me-for-driving-his-car-to-Michy-s-birthday-party-after-their-split-Addi-Self-1620131"
 webUrl: "https://www.ghanaweb.com/GhanaHomePage/entertainment/Shatta-Wale-suspended-me-for-driving-his-car-to-Michy-s-birthday-party-after-their-split-Addi-Self-1620131"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Ghanaweb.com

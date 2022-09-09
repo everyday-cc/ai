@@ -216,6 +216,58 @@
       ]
     },
     {
+      "path": "_news/2022-09-05-amazon-promo-codes-september-2022.md",
+      "title": "Amazon Promo Codes September 2022",
+      "excerpt": "Receive a $100 statement credit after you spend $3,000 on your Amazon Business Card within the first 3 months of opening your account. Don't miss out on this Prime Student special and use this ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/coupons/amazon.com/",
+      "originalUrl": "https://www.forbes.com/coupons/amazon.com/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.forbes.com/coupons/vfiles/81499/merchant_image-merchant_open_graph.png/",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-04T18:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-03-unpacking-the-best-top-ten-quotes-about-artificial-intelligence-leveraging-modern-day-ai-ethics-thinking.md",
       "title": "Unpacking The Best Top Ten Quotes About Artificial Intelligence Leveraging Modern-Day AI Ethics Thinking",
       "excerpt": "This is a carefully devised set of Top Ten quotes about AI, providing an explanation about each quote and illuminating key insights about the future of AI, doing so with a keen eye toward the latest in AI Ethics thinking.",
@@ -690,33 +742,24 @@
     {
       "path": "_news/2022-08-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry.md",
       "title": "Teradata Announces ClearScape Analytics: The Most Powerful, Open, and Connected Cloud Analytics Available in the Industry",
-      "excerpt": "Teradata (NYSE: TDC ) today announced ClearScape Analytics, the significantly expanded and newly named analytics capabilities that span t",
+      "excerpt": "ClearScape Analytics – which encompasses the same high-performing analytics that Teradata is known for but with 50+ new analytic functions – is available as part of Teradata VantageCloud and the new Teradata VantageCloud Lake,",
       "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the/article_e5c099aa-df86-5cb9-b6bb-c03fdef2e41f.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the/article_e5c099aa-df86-5cb9-b6bb-c03fdef2e41f.html",
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg",
-          "width": 350,
-          "height": 456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T03:56:00-07:00",
+      "publishedDateTime": "2022-08-29T03:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1399,51 +1442,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-best-practices-for-tensorflow-1x-acceleration-training-on-amazon-sagemaker.md",
-      "title": "Best practices for TensorFlow 1.x acceleration training on Amazon SageMaker",
-      "excerpt": "Today, a lot of customers are using TensorFlow to train deep learning models for their clickthrough rate in advertising and personalization recommendations in ecommerce. As the behavior of their clients change, they can accumulate large amounts of new data every day. Model iteration is one of a data",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-tensorflow-1-x-acceleration-training-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-tensorflow-1-x-acceleration-training-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T11:08:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Google AI",
-        "TensorFlow"
       ]
     }
   ],

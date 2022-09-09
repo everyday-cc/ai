@@ -1,20 +1,24 @@
 ---
 category: news
 title: "Neural networks predict forces in jammed granular solids"
-excerpt: "Granular matter is all around us. Examples include sand, rice, nuts, coffee and even snow. These materials are made of solid particles that are large enough not to experience thermal fluctuations. Instead,"
-publishedDateTime: 2022-09-01T14:47:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/963548"
-webUrl: "https://www.eurekalert.org/news-releases/963548"
+excerpt: "Combining computer simulations with tools from artificial intelligence ... uses a machine learning method known as a graph neural network (GNN). The researchers have demonstrated that GNNs ..."
+publishedDateTime: 2022-09-01T00:00:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/09/220901135843.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/09/220901135843.htm"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-secured: "7UTpctCZ//tLzkZTxhtUie4ED6YQN9r3GMNYxE4GeRZaKRLm+k7R1BybIxu0kTOypnLFiwbXUKH22pgqYWVaNckZfRSdJgYRvbBE6WeGGgtSyCHMXBN+hOwk8VyIYLjHEH7s0jq11o/kXP4+5h3sx2/HfsJOruQqZCnU6nXGhhhuQG3w6TO3Szv47xV84E4S+J2Ox34IpcOus1cvy3VTJmouX3inuD+3NBTCaQXRwAN7cImvEzL+v2ZnVI157f0J4i/gGI2MFxThO2ts1NfuEUP5JpRUmsx7sZuPe6fhimECEGGwU1h5uvbsEE6SAYVnxaIokrV/BlwsKa9sZvbAJDHgADrBg8N7YPWCaZL6hG4=;DZO44yqCiUShufamR+ckBQ=="
+secured: "7oCJ25b3pzZqopXav6qBiMVzgq07AcWIt+RZHg55PMjIZ0Me680+Lx+RU2pwJAt0YlpHWtijvgetlFdRL7RnZA6A65Lxrkvbb5oewPu4kAQe1FS61qWEy6BEt8loC1FuMDbDQCeGaC4QRVT3UWtrIE7bKtiU7eGShZCj+AoARmPT9F+bZXgs5BUyx4U1yeeVHMh+QFMC+rQWF3iVMxSoy4ds9Uw1+rBkJqMcd7exm3JKXjOv6edXK78vjdIwkJf4L+fXyQgyToGuIcay2PbcI/32R6HB1sUUnmk304Zq3EKTDHCON7PI7HAWLtTJG0z1xnazRLoMar9RPfe+XCSEQ9ZNgi2g/+7RvdN5JIHr+vw=;OwcbxlSiUyG2FyfKEXqfuw=="
 ---
 

@@ -27,14 +27,14 @@ images:
 
 related:
   - title: "MLPerf Results Show Advances in Machine Learning Inference"
-    excerpt: "MLPerf benchmarks are comprehensive system tests that stress machine learning models, software, and hardware, and optionally monitor energy consumption. The open-source and peer-reviewed benchmark suites level the playing ground for competitiveness,"
-    publishedDateTime: 2022-09-08T18:22:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-mlperf-results-show-advances-machine-learning-inference-/2022/09/08/9670229.htm"
+    excerpt: "MLCommons establishes a new record with over 5,300 performance results and 2,400 power measurement results, 1.37X and 1.09X more than the previous round. MLPerf benchmarks are comprehensive system tests that stress machine learning models, software, and ..."
+    publishedDateTime: 2022-09-08T18:56:00Z
+    webUrl: "https://www.01net.it/mlperf-results-show-advances-in-machine-learning-inference/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
+      name: 01Net
+      domain: 01net.it
+    quality: 36
   - title: "Deci’s NLP Model Achieves Breakthrough Performance at MLPerf"
     excerpt: "Deci, the deep learning company harnessing Artificial Intelligence (AI) to build better AI, announced results for its"
     publishedDateTime: 2022-09-08T19:48:00Z

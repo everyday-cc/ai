@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-09T13:10:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-sports-health-california-san-francisco-285fed70ab6a62b5a4e3a75e113b5258"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-sports-health-california-san-francisco-285fed70ab6a62b5a4e3a75e113b5258"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Associated Press

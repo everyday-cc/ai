@@ -2,6 +2,40 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-06-09-lee-health-investing-in-and-advancing-robotic-assisted-surgery-program.md",
+      "title": "Lee Health: Investing in and advancing robotic-assisted surgery program",
+      "excerpt": "Robotic-assisted surgery allows surgeons to perform complex procedures with advanced accuracy and more flexibility and control, which could result in smaller scars, shorter hospital stays ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.naplesnews.com/story/news/local/communities/the-banner/2022/06/08/lee-health-investing-and-advancing-robotic-assisted-surgery-program/7496057001/",
+      "originalUrl": "https://www.naplesnews.com/story/news/local/communities/the-banner/2022/06/08/lee-health-investing-and-advancing-robotic-assisted-surgery-program/7496057001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-08T13:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Naples Daily News",
+        "domain": "naplesnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-08-introducing-gtgraffiti-the-robot-that-paints-like-a-human.md",
       "title": "Introducing GTGraffiti: The robot that paints like a human",
       "excerpt": "Graduate students at the Georgia Institute of Technology have built the first graffiti-painting robot system that mimics the fluidity of human movement. Aptly named GTGraffiti, the system uses motion capture technology to record human painting motions and then composes and processes the gestures to program a cable-driven robot that spray paints graffiti artwork.",
@@ -1251,40 +1285,6 @@
       "provider": {
         "name": "Design News",
         "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-roomba-vacuum-deals-start-at-just-179-in-early-fathers-day-sale.md",
-      "title": "Roomba vacuum deals start at just $179 in early Father’s Day sale",
-      "excerpt": "Today’s deals start at just $179.99 for a best-selling ... The newest Roomba with AI and other cutting-edge features also has great discounts right now. The hot new Roomba j7 and Roomba j7 ...",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/deals/roomba-vacuum-deals-lowest-prices-today/",
-      "originalUrl": "https://bgr.com/deals/roomba-vacuum-deals-lowest-prices-today/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
         "images": null,
         "publishers": null,
         "authors": null

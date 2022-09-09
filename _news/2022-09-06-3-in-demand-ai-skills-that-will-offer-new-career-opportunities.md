@@ -36,6 +36,15 @@ related:
         width: 1080
         height: 1080
         isCached: true
+  - title: "AI takes Dialog to the Cleaners"
+    excerpt: "Lynx Technik's new yellobrik Instant Dialog Cleaner (IDC 1411) uses artificial intelligence from Audionamix to help isolate speech and dialogue by removing complex background noise, improving speech quality in real time."
+    publishedDateTime: 2022-09-09T13:20:00Z
+    webUrl: "https://www.ibc.org/ibcdaily/ai-takes-dialog-to-the-cleaners/9025.article"
+    type: article
+    provider:
+      name: IBC
+      domain: ibc.org
+    quality: 19
 
 secured: "9ts5iBnhaT8hQvr/a3LNTjUX/Mc5ByLtwvEg37aOqtnhRb3eujeqYe2MFJbtrfxTfy5DQKO/Crqwm4v1mlk5PoVUb/eeIQg+O1a42BQjN5AicZZWd5zyto+rKIQfObT4MMQH/Lq29Y1bd3tVSY9ZTUydu6vLt/ihENmbJMogUVWrOce+Wy4CyRO5nRIyDwFADFi71RYK3VAglag5dY3WXR8OkGSdFPE1m0aHoAk5uJhiOKRVr4OkX1o8RbBBkzVrtcOBJXdccg8Nk0izbjiMWoH4evONyvWjosBXfTyBAMfQz/Uha6ooUn/vKMejiVRaJ62JiM6+IQGxNQmCyWQxsR+O585g6hC4CfDuE6qIYr0xHdUBNr+pscAx4HhjvgJ7Txyz1jmLRWCrtjSYYwggR9OwzDm2RQg6r9YbDLsyhWj7PdI+ofTwacZt1tJfCN5GBWxcUZOANipXifQbjJg/fF4dNTP62/Ydl5W65iFOpMrY+65s9ACr5RdPqkmmYnu2EDex0hFKJysFkY25L0Hs6A==;a+0cQ+NFxpKG2HtlsRxEYg=="
 ---

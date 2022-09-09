@@ -3,9 +3,14 @@ category: news
 title: "AI Detects Rare Birth Defects in Fetal Ultrasound"
 excerpt: "A new study demonstrates how AI deep learning can be used to diagnose a rare embryonic developmental disorder called cystic hygroma within the first trimester of pregnancy from fetal ultrasound images."
 publishedDateTime: 2022-09-05T16:01:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound"
-webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound"
+originalUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound"
+webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound"
+ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound?amp"
 type: article
+quality: 59
+heat: 59
+published: false
 
 provider:
   name: Psychology Today
@@ -15,6 +20,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "ry9bPbD8+h4b0/3ygSoDzEdpkI4ThB/iQybxiDZ9Ml+SNQN4pjpZwA0ti9R5/gtzw39WwdzXH2xYuRJed6mbuFpo7Ar8rSidIcyYhqIWynGpty1GmLH8wsm8WlmqJKSveUz20ptOR6oR+nLxzUyh/NjQ6r4GUwW4kll3xDVU45Od7hngH2liTHomJPIyT4aHX0Vu4JxF3fPVCUf2bHYG5ejhRQ21jsiDgEDYStyeDY34FY2Z0YqRpcLvlK/lHiEILG+NLoHjlWvcP2YQwh1mp/qniikgrPx70rDs1KsAiK4ejBS7XmliFywkAnRpNKHsmXggLX0YsxKxWkNdimYwXf6CCQ8EFFl7/tvxotkyBqvW6BdFbUXuU3kcaTs0mOb6AUCXxoG2xpH5pvqdfQ4Kp3bVWjc4equKVIdf0JxxODxBOCblmlQTAmv8py2ckXhCRlWunOWJWrPbcIoTDK16CNIPF+QA+n4qDErO4M3sRTfkz38f+EWxD4Gf96phDzAlj4GgUOMI77iySdwl2RAuOQ==;ZI+VDA+GhgdSkSpsZBARSA=="
+images:
+  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-09/pic27777.gif.jpg?itok=UL6r1b41"
+    width: 1528
+    height: 800
+    isCached: true
+
+secured: "9PUknqVGXD6rztk6poMP/qDrKkTiDNZqO+B0hd1WVpfTkHbAojNlhb9Eze/LfHBNs5+pVCsNuONG60pS8ln1u/UV55btWtm7lqBcgtqbXyNrQBgpsV93vQb2dd5HQ/GncVCMKeWFhR6SNbQB3qlMPEBV8GhHJ1wsX5LV8lfTWANi8ZyAGj1hTDiyWUBPJyGV5i/UG3tokPyhM8i9yHTPevMh1FtGUahlwI2CMnhwZWfB0SNSUSgUYL4xm+dCpWqT12qwy/XuM632LaRzj5uEZ6qwETdf2gnnAfOesFcsqKTPjalqNMSnRfIMuCN4STf4JEt/EKvtAGzEJp2At9IRnofC0eMNKX4GneuPIh4xlfI=;XPgtnP2wcMuzt0G6A1MMHQ=="
 ---
 

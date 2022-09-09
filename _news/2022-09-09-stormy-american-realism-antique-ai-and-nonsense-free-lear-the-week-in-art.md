@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-09T10:22:00Z
 originalUrl: "https://www.theguardian.com/artanddesign/2022/sep/09/stormy-american-realism-antique-ai-and-nonsense-free-lear-the-week-in-art"
 webUrl: "https://www.theguardian.com/artanddesign/2022/sep/09/stormy-american-realism-antique-ai-and-nonsense-free-lear-the-week-in-art"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: The Guardian

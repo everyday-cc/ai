@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-09T12:54:00Z
 originalUrl: "https://www.forbes.com/sites/hecparis/2022/09/09/regulating-artificial-intelligence--is-global-consensus-possible/"
 webUrl: "https://www.forbes.com/sites/hecparis/2022/09/09/regulating-artificial-intelligence--is-global-consensus-possible/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

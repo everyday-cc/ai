@@ -755,6 +755,58 @@
       ]
     },
     {
+      "path": "_news/2022-09-05-amazon-promo-codes-september-2022.md",
+      "title": "Amazon Promo Codes September 2022",
+      "excerpt": "Receive a $100 statement credit after you spend $3,000 on your Amazon Business Card within the first 3 months of opening your account. Don't miss out on this Prime Student special and use this ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/coupons/amazon.com/",
+      "originalUrl": "https://www.forbes.com/coupons/amazon.com/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.forbes.com/coupons/vfiles/81499/merchant_image-merchant_open_graph.png/",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-04T18:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-05-us-startup-simaai-starts-shipping-machine-learning-chip-and-system.md",
       "title": "US startup SiMa.ai starts shipping machine learning chip and system",
       "excerpt": "SiMa.ai/Handout via REUTERS Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management & Research Company, said on Tuesday it started shipping chips and systems to ...",
@@ -1143,57 +1195,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-colorado-state-fair-competition-names-an-unlikely-winner-ai-made-artwork.md",
-      "title": "Colorado State Fair Competition Names An Unlikely Winner: AI-Made Artwork",
-      "excerpt": "The piece saw a storm of criticism this week as onlookers debated the use of artificial intelligence in the arts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/colorado-state-fair-ai-art_n_63106fc4e4b063d5e621ef1a",
-      "originalUrl": "https://www.huffpost.com/entry/colorado-state-fair-ai-art_n_63106fc4e4b063d5e621ef1a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/6312c3a32300001c00b7ea48.jpg?cache=Ya4ddTpBVY&ops=1200_630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.huffpost.com/entry/colorado-state-fair-ai-art_n_63106fc4e4b063d5e621ef1a/amp",
-      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/colorado-state-fair-ai-art_n_63106fc4e4b063d5e621ef1a/amp",
-      "publishedDateTime": "2022-09-03T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

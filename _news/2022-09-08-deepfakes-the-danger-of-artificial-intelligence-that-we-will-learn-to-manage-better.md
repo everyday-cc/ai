@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/lutzfinger/2022/09/08/deepfakesthe-da
 webUrl: "https://www.forbes.com/sites/lutzfinger/2022/09/08/deepfakesthe-danger-of-artificial-intelligence-that-we-will-learn-to-manage-better/"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -38,6 +38,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "AI takes Dialog to the Cleaners"
+    excerpt: "Lynx Technik's new yellobrik Instant Dialog Cleaner (IDC 1411) uses artificial intelligence from Audionamix to help isolate speech and dialogue by removing complex background noise, improving speech quality in real time."
+    publishedDateTime: 2022-09-09T13:20:00Z
+    webUrl: "https://www.ibc.org/ibcdaily/ai-takes-dialog-to-the-cleaners/9025.article"
+    type: article
+    provider:
+      name: IBC
+      domain: ibc.org
+    quality: 19
 
 secured: "sg1l0IhYg0tzUfwUaZckYo0o6R16J06ZNvxaqqkXkSv77bJiXkuHfixPUKiwi19Euq5/3tl1hPlH2fz61qpz2b7HhzU0tEgio6RCEdRMOys3KDAO7UCOn5fss3capAviMbq7gOkSeSPjj0BWbnBDYIz3Xv9DUFcTvb+1Y+HsciCoP94LgqcSojokED73zaqHSz6wDqba+e+/F3BYwFgptL5bzaashiHSk9VDXGK2ylojPRRu05FUmcMYlK8LcnXOMmHhCEM54LssE8t5bMmLQbyN31QI9vNT/zY0VHiVbqF129ycJvi3ecmD3SFxGy5k1wQtFe+Wv9C79fnS10KseCgDot2RJfkzCU+LZUYnuoTGy5NV7TTJjZuq5usY3684RL/objqWVTUSPbWO6EHkcVshNjxA2Haj39LCTkMt6Wu0+0A4WPh5R2sXjwI6mpFZ4lmQV6YuCEKgMS4mUEttn9A/tcxWt4cESSv5+rXNu5gTuD6ku8cvVGuLKYbAMNzpRyPnmCbrsK6ZCDw4mN+wEA==;aZDR3m+cZgs32A4enkzE2w=="
 ---

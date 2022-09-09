@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-08T14:12:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-great-speech-develops-artificial-intelligence-platform-refine-matching-/2022/09/08/9669762.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-great-speech-develops-artificial-intelligence-platform-refine-matching-/2022/09/08/9669762.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: TMCnet

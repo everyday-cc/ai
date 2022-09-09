@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-19-best-practices-for-tensorflow-1x-acceleration-training-on-amazon-sagemaker.md",
+      "title": "Best practices for TensorFlow 1.x acceleration training on Amazon SageMaker",
+      "excerpt": "Today, a lot of customers are using TensorFlow to train deep learning models for their clickthrough rate in advertising and personalization recommendations in ecommerce. As the behavior of their clients change, they can accumulate large amounts of new data every day. Model iteration is one of a data",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-tensorflow-1-x-acceleration-training-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-tensorflow-1-x-acceleration-training-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-19T11:08:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2022-08-19-ring-camera-recordings-exposed-due-to-vulnerability-in-android-app.md",
       "title": "Ring Camera Recordings Exposed Due to Vulnerability in Android App",
       "excerpt": "A vulnerability patched recently by Amazon in the Android app for its Ring surveillance cameras exposed user data and video recordings, according to cybersecurity firm Checkmarx, whose researchers identified the flaw.",
@@ -1328,58 +1373,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-mlops-at-the-edge-with-amazon-sagemaker-edge-manager-and-aws-iot-greengrass.md",
-      "title": "MLOps at the edge with Amazon SageMaker Edge Manager and AWS IoT Greengrass",
-      "excerpt": "Internet of Things (IoT) has enabled customers in multiple industries, such as manufacturing, automotive, and energy, to monitor and control real-world environments. By deploying a variety of edge IoT devices such as cameras, thermostats, and sensors, you can collect data, send it to the cloud, and build",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/mlops-at-the-edge-with-amazon-sagemaker-edge-manager-and-aws-iot-greengrass/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/mlops-at-the-edge-with-amazon-sagemaker-edge-manager-and-aws-iot-greengrass/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/08/mlops-at-edge.jpg",
-          "width": 1325,
-          "height": 662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-08T09:48:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AWS AI"
       ]

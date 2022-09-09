@@ -2,6 +2,59 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-08-25-can-nist-move-trustworthy-ai-forward-with-new-draft-of-ai-risk-management-framework.md",
+      "title": "Can NIST move ‘trustworthy AI’ forward with new draft of AI risk management framework?",
+      "excerpt": "NIST releases an expanded draft of the AI Risk Management Framework but the impact on trustworthy AI remains unclear.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-risk-management-framework/",
+      "originalUrl": "https://venturebeat.com/ai/ai-risk-management-framework/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-robot_machine_learning_AI_1323774184-e1659571276418.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-risk-management-framework/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-risk-management-framework/amp/",
+      "publishedDateTime": "2022-08-24T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-25-elon-musk-tells-early-tesla-full-self-driving-beta-testers-not-to-complain.md",
       "title": "Elon Musk tells early Tesla Full Self-Driving Beta testers not to complain",
       "excerpt": "Elon Musk has told an early Tesla Full Self-Driving Beta tester not to complain about the new FSD Beta update. Isn’t that kind of their job? A job that not only they are not paid for, but that Tesla is paying for? FSD Beta enables Tesla vehicles to drive ...",
@@ -1166,40 +1219,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-hyundai-motor-group-invests-in-startup-bos-semiconductors.md",
-      "title": "Hyundai Motor Group invests in Startup BOS Semiconductors",
-      "excerpt": "Hyundai Motor Group to invest in BOS Semiconductors, a Korean-based fabless startup that designs and develops system-on-chip (SoC) solutions Hyundai Motor Group (the Group) announced today",
-      "sourceUrl": null,
-      "webUrl": "https://www.thenewsmarket.com/news/hyundai-motor-group-invests-in-startup-bos-semiconductors/s/83f7acf1-3cdf-401a-9775-74c6e576ff99",
-      "originalUrl": "https://www.thenewsmarket.com/news/hyundai-motor-group-invests-in-startup-bos-semiconductors/s/83f7acf1-3cdf-401a-9775-74c6e576ff99",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-24T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The NewsMarket",
-        "domain": "thenewsmarket.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

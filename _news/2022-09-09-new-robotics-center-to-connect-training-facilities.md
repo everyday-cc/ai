@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-09T11:35:00Z
 originalUrl: "https://www.farmprogress.com/technology/new-robotics-center-connect-training-facilities"
 webUrl: "https://www.farmprogress.com/technology/new-robotics-center-connect-training-facilities"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Markets

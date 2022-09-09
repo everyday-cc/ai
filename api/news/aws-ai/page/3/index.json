@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-08-mlops-at-the-edge-with-amazon-sagemaker-edge-manager-and-aws-iot-greengrass.md",
+      "title": "MLOps at the edge with Amazon SageMaker Edge Manager and AWS IoT Greengrass",
+      "excerpt": "Internet of Things (IoT) has enabled customers in multiple industries, such as manufacturing, automotive, and energy, to monitor and control real-world environments. By deploying a variety of edge IoT devices such as cameras, thermostats, and sensors, you can collect data, send it to the cloud, and build",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/mlops-at-the-edge-with-amazon-sagemaker-edge-manager-and-aws-iot-greengrass/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/mlops-at-the-edge-with-amazon-sagemaker-edge-manager-and-aws-iot-greengrass/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/08/mlops-at-edge.jpg",
+          "width": 1325,
+          "height": 662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T09:48:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-08-veritone-creates-ai-driven-revenue-opportunities-on-aws.md",
       "title": "Veritone creates AI-driven revenue opportunities on AWS",
       "excerpt": "Veritone, the creator of aiWARE, a hyper-expansive enterprise Artificial Intelligence (AI) platform, has announced an extension of its work with Amazon and Amazon Web Services (AWS) to support its media and entertainment customers.",
@@ -1264,49 +1316,6 @@
       "provider": {
         "name": "IT-Online",
         "domain": "it-online.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-sense-selects-iguazio-for-ai-chatbot-automation-with-aws-snowflake-and-nvidia.md",
-      "title": "Sense Selects Iguazio for AI Chatbot Automation with AWS, Snowflake and NVIDIA",
-      "excerpt": "Iguazio, the MLOps platform provider, and Sense, a market leader in artificial intelligence (AI) driven talent engagement for recruiting, today announced that the Iguazio MLOps platform has been selected to power a wide range of AI products aimed at increasing the efficiency and scalability of Sense’s AI operations.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-science-artificial-intelligence-15332cff664d4f82ad60035847f28e10",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-science-artificial-intelligence-15332cff664d4f82ad60035847f28e10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
