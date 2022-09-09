@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/healthwatch/new-ai-based-smartphon
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/healthwatch/new-ai-based-smartphone-app-may-detect-covid-19-infection-208511-1.htm"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/mobile-phone-app-accur.jpg"
         width: 452
         height: 323
-        isCached: true
-  - title: "AI model detects COVID-19 infection in people’s voices"
-    excerpt: "Artificial intelligence (AI) can be used to detect COVID-19 infection in people's voices by means of a mobile phone app, according to research to be presented on Monday at the European Respiratory Society International Congress in Barcelona,"
-    publishedDateTime: 2022-09-05T04:45:00Z
-    webUrl: "https://www.news-medical.net/news/20220905/AI-model-detects-COVID-19-infection-in-peoplee28099s-voices.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 37
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
         isCached: true
 
 secured: "we1SQKEX3h82nn1OkzUqBeq/v2jbnNGZKGVNYkkg5h9RECmiDQscUY2rEGpB7u76g/Y082eecdRL3qqRBrWH9i9XRdtuiojRexTPAGI95BP2EvLUeS4A5u6c7vi4qku5qE1+HI4ebOYKkXhikUQ+SO0TdpMmqPPpb9eeWd42GHKIpXq33LW5dPAcguO/YPMMWjzFILKvqUltUkTH9Tk2cLEjXrgGvLaIdq8Yf5dLi51Tz0ohF76sLEPI22JougqzwrQQ87CHWiOwCf6zs4dHZGt5cWQKWN5vd4rZZbGs3wGZd8o6ptpNmyFPOuSju2/Y8v4zLAoTqqw5K4EfcI7FRhZCLGHE20e4DvlSHgdpDSQ=;EwROklQu0DMQdTVaQyDclQ=="

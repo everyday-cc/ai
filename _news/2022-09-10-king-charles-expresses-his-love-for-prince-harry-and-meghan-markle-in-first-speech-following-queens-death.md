@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-09T18:06:00Z
 originalUrl: "https://www.etonline.com/king-charles-expresses-his-love-for-prince-harry-and-meghan-markle-in-first-speech-following-queens"
 webUrl: "https://www.etonline.com/king-charles-expresses-his-love-for-prince-harry-and-meghan-markle-in-first-speech-following-queens"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: Entertainment Tonight
@@ -14,6 +17,40 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Here is Meghan Markel’s speech at One Young World Summit 2022"
+    excerpt: "This year’s One Young World Summit opened on Monday in Manchester to meet with delegates and leaders from all over the world until Thursday."
+    publishedDateTime: 2022-09-06T15:03:00Z
+    webUrl: "https://www.local10.com/news/politics/2022/09/06/here-is-meghan-markels-speech-at-one-young-world-summit-2022/"
+    ampWebUrl: "https://www.local10.com/news/politics/2022/09/06/here-is-meghan-markels-speech-at-one-young-world-summit-2022/?outputType=amp"
+    cdnAmpWebUrl: "https://www-local10-com.cdn.ampproject.org/c/s/www.local10.com/news/politics/2022/09/06/here-is-meghan-markels-speech-at-one-young-world-summit-2022/?outputType=amp"
+    type: article
+    provider:
+      name: WPLG
+      domain: local10.com
+    quality: 44
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/SL6PQMB3D5EMXM5NBBNWXVYYZU.jpg?_a=ATAK9fe0"
+        width: 700
+        height: 524
+        isCached: true
+  - title: "Meghan Markle talks about courage and perseverance in her first speech in UK since quitting the royal job"
+    excerpt: "Meghan Markle talked about perseverance as she delivered a speech at the One Young World summit in the Bridgewater Hall on Monday.Prince Harry's wife in her gender equality speech in"
+    publishedDateTime: 2022-09-05T20:03:00Z
+    webUrl: "https://www.thenews.com.pk/latest/988655-meghan-talked-about-perseverance-in-her-opening-ceremony-speech"
+    ampWebUrl: "https://www.thenews.com.pk/amp/988655-meghan-talked-about-perseverance-in-her-opening-ceremony-speech"
+    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/988655-meghan-talked-about-perseverance-in-her-opening-ceremony-speech"
+    type: article
+    provider:
+      name: The News International
+      domain: thenews.com.pk
+    quality: 27
+    images:
+      - url: "https://www.thenews.com.pk/assets/uploads/updates/2022-09-06/988655_010415_updates.jpg"
+        width: 700
+        height: 400
+        isCached: true
 
 secured: "n524rQOVm+V4bbDRKUzS0cnOlVd0e2QCWtSmt++oYP1aRy1vmui3tv2ldjnD5f+5I81TE4WkBIR4sdOClxmmJkYXZVRaFxyEAAISd+M0BZCMZp08VmHdbuDezBms9QWM9Cy43WyiOf9xikDNfB9CiBw0xhzsrv1qp46et6tDypMTo4ZxNP6Cu52gy96Nd/komf8fvln4AXUHwVjeQLqa4Bvgsm5F/nEeGv0Ry5Q4wkNL4dtZ768nuLX9ccupUsOqypCaXylaIWrLAjy1a+oDY4UH22UXZsB6YrIvUMZUyDhWgme5Y0XbZ5hsrq1VHqdKVvDPBJtU+dsLhfGVEK7q9UCzokmfzEpVCewjEJInflEThFPVg69uIx+XZZVVmLrD1MZwREsOyO5sE5mSHR/8R4m62dbvJkcQcmcObzpkZkX0pgDqfsX7h9s84/AqbW0fFyzYR5yy0x810I5MTtfRPcH+iMp3LsVKVeZR9EJBqKQ60C2J4Uz6cOjqPVgQGl7fbuqGzVR9ZNVBnv2BvoB8eg==;qTi+mOB0R04wnnnC+WTBlg=="
 ---

@@ -41,22 +41,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Iranian authorities plan to use facial recognition to enforce new hijab law"
-    excerpt: "Government says it will use technology on public transport in crackdown on women’s dress"
-    publishedDateTime: 2022-09-05T05:00:00Z
-    webUrl: "https://www.theguardian.com/global-development/2022/sep/05/iran-government-facial-recognition-technology-hijab-law-crackdown?s=08"
-    ampWebUrl: "https://amp.theguardian.com/global-development/2022/sep/05/iran-government-facial-recognition-technology-hijab-law-crackdown"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/global-development/2022/sep/05/iran-government-facial-recognition-technology-hijab-law-crackdown"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/0e5362e30c4fa3e8e292390007a270942c7c9273/0_0_5578_4000/master/5578.jpg?width=620&quality=85&auto=format&fit=max&s=66f0b55770711a01c83060ad768c4ef6"
-        width: 620
-        height: 445
-        isCached: true
   - title: "Iran to use facial recognition cameras to enforce new hijab laws in chilling crackdown on women not covering up"
     excerpt: "IRANIAN authorities are plotting to use facial recognition cameras to spot women defying strict new laws on wearing hijabs. The chilling crackdown will see women who refuse to cover up tracked ..."
     publishedDateTime: 2022-09-05T10:35:00Z

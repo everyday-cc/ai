@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/nvidia-ai-chip-export-ban-expected-to-imp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-ai-chip-export-ban-expected-to-impact-u-s-china-ai-race/amp/"
 type: article
 quality: 104
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63190e4480b932572f213ebc/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 671
+        isCached: true
+  - title: "Nvidia’s flagship AI chip reportedly 4.5x faster than the previous champ"
+    excerpt: "Nvidia positions the H100 as a high-end data center GPU chip designed for AI and supercomputer applications such as image recognition, large language models, image synthesis, and"
+    publishedDateTime: 2022-09-09T20:01:00Z
+    webUrl: "https://arstechnica.com/information-technology/2022/09/nvidias-flagship-ai-chip-reportedly-4-5x-faster-than-the-previous-champ/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 83
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/nvidia_h100_hero_3-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
   - title: "This is likely why US banned AI chips to China"
     excerpt: "High-profile universities and state-run research institutes in China have been relying on a US computing chip to power their artificial intelligence (AI) technology but whose export to the country Washington has now restricted,"

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/qai/2022/09/09/recession-fears-and-th
 webUrl: "https://www.forbes.com/sites/qai/2022/09/09/recession-fears-and-the-crude-oil-price-drop-forbes-ai-newsletterseptember-3rd/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Amazon Promo Codes September 2022"
-    excerpt: "Receive a $100 statement credit after you spend $3,000 on your Amazon Business Card within the first 3 months of opening your account. Don't miss out on this Prime Student special and use this ..."
-    publishedDateTime: 2022-09-05T01:24:00Z
-    webUrl: "https://www.forbes.com/coupons/amazon.com/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
-    images:
-      - url: "https://www.forbes.com/coupons/vfiles/81499/merchant_image-merchant_open_graph.png/"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Veritone to Showcase Award-Winning AI Solutions at the International Broadcasting Conference 2022, September 9-12"
     excerpt: "Through Veritone’s AI offerings, content creators and owners can efficiently and securely share, manage and protect assets; expedite content monetization; and scale, localize and translate digital content."
     publishedDateTime: 2022-09-07T04:02:00Z

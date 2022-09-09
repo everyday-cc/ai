@@ -2,6 +2,92 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2022-07-28-artpark-foundation-sets-up-100-mn-venture-fund-to-back-10-15-ai-robotics-startups.md",
+      "title": "ARTPARK Foundation Sets Up $100 Mn Venture Fund To Back 10-15 AI, Robotics Startups",
+      "excerpt": "ARTPARK will invest in 10-15 early and growth-stage AI and robotics startups over a period of three years from the VC fund",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/artpark-foundation-sets-up-100-mn-venture-fund-to-back-10-15-ai-robotics-startups/",
+      "originalUrl": "https://inc42.com/buzz/artpark-foundation-sets-up-100-mn-venture-fund-to-back-10-15-ai-robotics-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2022/07/Social-13.png",
+          "width": 1201,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/artpark-foundation-sets-up-100-mn-venture-fund-to-back-10-15-ai-robotics-startups/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/artpark-foundation-sets-up-100-mn-venture-fund-to-back-10-15-ai-robotics-startups/amp/",
+      "publishedDateTime": "2022-07-28T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-ai-for-customer-service-market-growth-2022-to-2028-future-trends-and-forecast-by-ibm-ant-group-chatra-clickdesk.md",
+      "title": "AI for Customer Service Market Growth 2022 to 2028, Future Trends and Forecast | By -IBM, Ant Group, Chatra, ClickDesk",
+      "excerpt": "The report also looks at AI for Customer Service players, important collaborations, mergers and acquisitions, trending innovations, and business policies. IBM, Ant Group, Chatra, ClickDesk ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/ai-for-customer-service-market-growth-2022-to-2028-future-trends-and-forecast-by-ibm-ant-group-chatra-clickdesk",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-for-customer-service-market-growth-2022-to-2028-future-trends-and-forecast-by-ibm-ant-group-chatra-clickdesk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/778f53a99eda86447dc564a8a476d980f15706b8-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-28-deepmind-cracks-structure-of-nearly-all-known-proteins.md",
       "title": "DeepMind cracks structure of nearly all known proteins",
       "excerpt": "DeepMind, the artificial intelligence company, said it had used an AI system to predict the three-dimensional shape of over 200 million proteins — those from every creature, plant or microbe ...",
@@ -1086,92 +1172,6 @@
       "topics": [
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-announcing-android-cloud-gaming-media-processing-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m.md",
-      "title": "Announcing Android Cloud Gaming & Media Processing & Delivery Solutions Based on the New Intel Data Center GPU Codenamed Arctic Sound-M",
-      "excerpt": "Supermicro solutions that will contain the Intel Data Center GPUs codenamed Arctic Sound-M, include the 4U 10x GPU server for transcoding ... CloudDC server for edge AI inferencing, and the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/announcing-android-cloud-gaming-amp-media-processing-amp-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m-837202959.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/announcing-android-cloud-gaming-amp-media-processing-amp-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m-837202959.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1867895/Supermicro__gaming.jpg?p=facebook",
-          "width": 1426,
-          "height": 749,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T17:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-age-related-neuroendocrine-cognitive-and-behavioral-co-morbidities-are-promoted-by-hiv-1-tat-expression-in-male-mice.md",
-      "title": "Age-related neuroendocrine, cognitive, and behavioral co-morbidities are promoted by HIV-1 Tat expression in male mice",
-      "excerpt": "Older age or Tat exposure increased anxiety-like behavior (open field; elevated plus-maze), increased cognitive errors (radial arm water maze), and reduced grip strength. Young Tat(+), or middle ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-07-age-related-neuroendocrine-cognitive-behavioral-co-morbidities.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-07-age-related-neuroendocrine-cognitive-behavioral-co-morbidities.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/aging--age-related-neu.jpg",
-          "width": 1116,
-          "height": 806,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-07-age-related-neuroendocrine-cognitive-behavioral-co-morbidities.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-age-related-neuroendocrine-cognitive-behavioral-co-morbidities.amp",
-      "publishedDateTime": "2022-07-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

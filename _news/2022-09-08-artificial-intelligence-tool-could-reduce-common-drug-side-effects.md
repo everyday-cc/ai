@@ -38,6 +38,15 @@ related:
         width: 2000
         height: 2000
         isCached: true
+  - title: "EU AI Act’s possible open-source regulation sparks Twitter debate"
+    excerpt: "Alex Engler never expected his Brookings article about the EU’s attempt to regulate open-source AI to stir up Twitter debate."
+    publishedDateTime: 2022-09-09T18:37:00Z
+    webUrl: "https://venturebeat.com/ai/eu-ai-acts-possible-open-source-regulation-sparks-twitter-debate/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Artificial Intelligence tool could reduce common drug side effects"
     excerpt: "Artificial intelligence could help clinicians assess which patients are likely to encounter the harmful side effects of some commonly used antidepressants, antihistamines and bladder medicines."
     publishedDateTime: 2022-09-07T07:12:00Z

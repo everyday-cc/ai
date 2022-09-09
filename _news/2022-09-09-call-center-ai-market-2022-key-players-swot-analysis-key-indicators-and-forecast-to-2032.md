@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Robots Market Size Is Expected To Grow At A CAGR Of 21.3% During Assessment Period 2022-2028 | 122 Report Pages"
-    excerpt: "This report analyzes the impact of the pandemic on the Artificial Intelligence (AI) Robots market from a Global and Regional perspective. The report outlines the market size, market characteristics, and market growth for Artificial Intelligence (AI) Robots industry,"
-    publishedDateTime: 2022-09-05T04:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-size-is-expected-to-grow-at-a-cagr-of-213-during-assessment-period-2022-2028-122-report-pages-2022-09-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice and Speech Recognition Market Report, Size, Industry Share, Growth, Trends and Forecast 2022-2027"
     excerpt: "As per the latest report by IMARC Group, titled \" Voice and Speech Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027 \", offers a comprehensive analysis of the industry,"
     publishedDateTime: 2022-09-06T06:50:00Z

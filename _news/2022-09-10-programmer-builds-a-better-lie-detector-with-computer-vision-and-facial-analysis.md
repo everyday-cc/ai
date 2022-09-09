@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-09T18:54:00Z
 originalUrl: "https://www.biometricupdate.com/202209/programmer-builds-a-better-lie-detector-with-computer-vision-and-facial-analysis"
 webUrl: "https://www.biometricupdate.com/202209/programmer-builds-a-better-lie-detector-with-computer-vision-and-facial-analysis"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Biometric Companies

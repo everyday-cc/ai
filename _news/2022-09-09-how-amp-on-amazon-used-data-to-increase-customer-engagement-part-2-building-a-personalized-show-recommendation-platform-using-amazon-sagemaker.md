@@ -57,6 +57,15 @@ related:
         width: 1533
         height: 767
         isCached: true
+  - title: "Deploy large models on Amazon SageMaker using DJLServing and DeepSpeed model parallel inference"
+    excerpt: "The last few years have seen rapid development in the field of natural language processing (NLP). Although hardware has improved, such as with the latest generation of accelerators from NVIDIA and Amazon, advanced machine learning (ML) practitioners still regularly encounter issues deploying their large"
+    publishedDateTime: 2022-09-09T18:32:41Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-large-models-on-amazon-sagemaker-using-djlserving-and-deepspeed-model-parallel-inference/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 57
 
 secured: "OuaKs68FGH/FDpiGzm2mn6mS/hQC/aSM7pxLNr3T0uprLDn14/wgmcClG0s2wZiji7QKTHSC4Lg+OK1imTFkzuG3LCyNrGYjUc2et96IveWcmhF3Skhl5eomgVAdQv56gV9enuWaaP1KwWFF5VIhksLPVWI/CFj+nFqWMP1hugmexpb94bGFwL/0LZVvloGyPoKj/Frlwk6ZhC6bHcDXiLOAa9h2sDMXEzmCCPkFhHebMpGy/CQ7uPCLTsaZrAn8i/dfnKEicAN7EIXzJnp2NwD8lbkPQ7sc9jowxiak9g6DH39IZgDqa/wt+JC3sHYTjE2mjjbHeXXw5oCczJYxMqOVq3lHus881yc5JnryofE=;P9kAfZhUoOnj3Uw60uDp9Q=="
 ---

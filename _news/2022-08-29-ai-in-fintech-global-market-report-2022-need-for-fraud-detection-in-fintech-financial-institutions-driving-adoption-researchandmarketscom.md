@@ -15,6 +15,12 @@ topics:
   - AI in Finance
   - AI
 
-secured: "QFzGaLDzjsOqETVuCWy7l8ApRrq+phb/QFdTEY19bR1EFTtXCroRisKM31ypmisSYfMAErshMFP0Ht4hzhfkEYQl2XtJhz9I3ZmCJTIkID+V+2w/pWJacB48OyBh846jCHrcBaX9AdG6o6Eyy+9R4eg7m5kthjuCaIFoTJThTSVsI0cqXtuNHFFDUx3N/Os5cWz4aTCsGxf6Q6wUeVJ6yY9aLAShfaUJ4gmAZWJ7LpHlnQ79w4ZcLwA7H47xmjgMWtAh49XRihTppid4kF613xTXQ0+qIj7p7Q8R7NsyL1eeX7NCILNFAhyyxDiDvaM/WIsN9zeyvGNBA5W/Gsb4JZnTTRANo8a4p0w3bAIiPDk=;TfMTTdESyI4wKE6cwW7K5g=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/tylerpaper.com/content/tncms/custom/image/1d130320-7305-11e7-aad4-cf9f36fa6d1e.png?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "z8qqAwFYGXsdqSY6E/PaEw5AW8S1drZ4HSfKdlL2JyD2ZV/OfjnORCe+DbQVbynssMKfwSHZLOd6kXiBGkftN58lRPzfyMMHOgeJMyba1waeJTa6oAo/+UZrDWO/zukigeJOhrgYTlty5106QcgfD5wCdxpxRURcH7HnBf00Ashk5NN/eS3VWPvJv2x5oWZo13WyqPNIc2Cqkmzyhh7B1bKUpijn5qjmjyUOuNhMWQJd2BsdpPhxFHrnS4MOKmAFxKXeNgdB8vMb+n9ellGMSx0k+URPzru3EmoJQjtl4BLxewTR23hdRIZXJ+Sxu1QYYvro7Wa2Wt8pClyjojGGjMukC60Z3dwQ6MmCmb1shvE=;48ExMshhgqsrpDya2EyGuQ=="
 ---
 

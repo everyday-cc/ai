@@ -43,6 +43,15 @@ related:
         width: 1534
         height: 768
         isCached: true
+  - title: "Deploy large models on Amazon SageMaker using DJLServing and DeepSpeed model parallel inference"
+    excerpt: "The last few years have seen rapid development in the field of natural language processing (NLP). Although hardware has improved, such as with the latest generation of accelerators from NVIDIA and Amazon, advanced machine learning (ML) practitioners still regularly encounter issues deploying their large"
+    publishedDateTime: 2022-09-09T18:32:41Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-large-models-on-amazon-sagemaker-using-djlserving-and-deepspeed-model-parallel-inference/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 57
   - title: "How Amp on Amazon used data to increase customer engagement, Part 2: Building a personalized show recommendation platform using Amazon SageMaker"
     excerpt: "Amp is a new live radio app from Amazon. With Amp, you can host your own radio show and play songs from the Amazon Music catalog, or tune in and listen to shows other Amp users are hosting. In an environment where content is plentiful and diverse, it’s important to tailor the user experience to […]"
     publishedDateTime: 2022-09-09T16:30:10Z

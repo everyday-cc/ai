@@ -21,6 +21,17 @@ topics:
   - AI
   - AI in Autos
 
+related:
+  - title: "World To Benefit From Rapid Implementation Of Artificial Intelligence In X-Ray-Based Robots, Predicts Fact.MR"
+    excerpt: "As per a new industry analysis by Fact.MR, a market research and competitive intelligence provider, worldwide demand for X-ray-based robots is projected to increase at a CAGR of 7.1% over the forecast period (2022-2027)."
+    publishedDateTime: 2022-09-09T18:16:00Z
+    webUrl: "https://menafn.com/1104839967/World-To-Benefit-From-Rapid-Implementation-Of-Artificial-Intelligence-In-X-Ray-Based-Robots-Predicts-FactMR"
+    type: article
+    provider:
+      name: MENAFN
+      domain: menafn.com
+    quality: 17
+
 secured: "a7xRyPG9XcYuHc6ALT++MgwwcEY1ZII9LSz7/qDUScXaWrxS7GkVIjN+2hyHzg/kgBBCiUUDls3l4EHy0GQ7kce5wA6aRcbB+xJHvvZKwG1erJPFwiAALFHyBSPcdtlCcMbfVA9bLHcEbciG+hIjVGXL33oUUlnjC7RZmjJt8vP+xp7sKPhR8lxwcdJ0ZF5Tb26WkwXSYFwwT4U7LRgozS2taHJbKyuJ91bQgM3T+EhLABWBUoMkGbjxiT+LRRD8kwY4QY39gbr1nB8RnvwFXVURvTxHlHXyTWW+UdTKm05uq3prnWIpnRl48cyT2bkVozobj5CU4Lak9IffYF95pNfZDvdSIOXzqd/g9iuJ7Bc=;PdIU+pW4ufQeAHkYE99Xqg=="
 ---
 

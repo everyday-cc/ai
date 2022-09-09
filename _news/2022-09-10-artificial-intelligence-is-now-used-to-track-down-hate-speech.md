@@ -2,19 +2,30 @@
 category: news
 title: "Artificial intelligence is now used to track down hate speech"
 excerpt: "Meta took action on more than 15 million pieces of hate speech content on Facebook. Roughly 95% of that was detected proactively by Facebook with the help of AI."
-publishedDateTime: 2022-09-09T19:46:00Z
-originalUrl: "https://www.koaa.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech"
-webUrl: "https://www.koaa.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech"
+publishedDateTime: 2022-09-09T21:02:00Z
+originalUrl: "https://www.10news.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech"
+webUrl: "https://www.10news.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech"
+ampWebUrl: "https://www.10news.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true"
+cdnAmpWebUrl: "https://www-10news-com.cdn.ampproject.org/c/s/www.10news.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true"
 type: article
+quality: 59
+heat: 59
+published: false
 
 provider:
-  name: KOAA 5
-  domain: koaa.com
+  name: ABC 10 News
+  domain: 10news.com
 
 topics:
-  - AI
   - AI in Autos
+  - AI
 
-secured: "DFwdTl7uK0r7fH/3tRUe0ArnPz/nU6oYuQQtDzuVpAhT+98i895gVuQmUweIQjFCgsO7CXBuFSu+Uq3IpAaOTF7TM0cBz2nRXMKH877JQmmLJHtVS+6GV+OoQrWFuOGy1GcLoQE5Sic9mATiy8wtMmgxBbBkQlosjEWLh1yaron/7YBRe64Y+pdu4a7f4sJJJv15xcamgX5kpQXFsg0i3LYlwoWf8tQ5OddHNsyN3ctxakEx0cA/5NpI45Vou/xW+Lj2tarHAq1BxOOGly6JYUkHspjjeELKOxJCdGLD61bseo6PcwzGZ1gaMW+Ddy4qSSgSU90J6yHkkXPaVyf+G6dpQSr8gZI9CjyamnS8Lj47G+2gZ7bzxTYlyKCV/yFK5jUij4uSZ2GwlHI8ZqREmSOr8xpTT7gUzw1VxcpG4FmH16SyPHTT2vQD7/LZrB7A2WfLhSzSOjfH9yKCYO7+O+gzcU3rnKoBUc24pLvFXERcNctGYKvaQ1sxb58ihr7ZO/Lqxt9M8wwJCDd4qQwwhg==;xa/Vut+JmRXdfEu107IgDw=="
+images:
+  - url: "https://cdn.newsy.com/images/videos/m/1660250991_F4WYcV.jpg"
+    width: 640
+    height: 360
+    isCached: true
+
+secured: "Gh0dt3vDF21LRXrAgw9To0Sgho47VlowVgVJKWmS2iG5Eg30kJXK1IMUqkKAqgDjHe3MInaIZvqclZ47cgceYvRWxvMnsMyYKOO6KHKD1Lu/56CYb1TGnYbyeLAvgZwJZsPoUIVrO9Jc6QIvCk1BNHQTYB7n+QEOVmDJC7spjZ2WTkJ0soVeo0/mw7BYjBmmgw98E2kMX3cB9hGiOlWP8Hf1t0wue4cvyGxWdptGkBwr2rusw7rdo0gynYNEUqSK49O8jXuAGjBn6C4dCyy7cAIs9zJ8hTUm/tNrcvTMxvpXmK4AYu5cHZN9EbSLb6mIZxAI/IGK7n3W0goHJY7aplYPDT1FQT2Mf3JR49/J6OI=;HGRR5VXHEPhanxP514OPPw=="
 ---
 

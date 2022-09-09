@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-08-31-start-talking-the-true-potential-of-conversational-ai-in-the-enterprise.md",
+      "title": "Start talking: The true potential of conversational AI in the enterprise",
+      "excerpt": "A holistic approach, good governance, and internal lifecycle automation are key factors of success in implementing conversational AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/start-talking-the-true-potential-of-conversational-ai-in-the-enterprise/",
+      "originalUrl": "https://venturebeat.com/ai/start-talking-the-true-potential-of-conversational-ai-in-the-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1324517786-Andrey-Suslov.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/start-talking-the-true-potential-of-conversational-ai-in-the-enterprise/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/start-talking-the-true-potential-of-conversational-ai-in-the-enterprise/amp/",
+      "publishedDateTime": "2022-08-30T21:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-08-31-tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.md",
       "title": "TensorFlow, PyTorch, and JAX: Choosing a deep learning framework",
       "excerpt": "Three widely used frameworks are leading the way in deep learning research and production today. Which one should you use?",
@@ -1108,50 +1160,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-altavec-uses-aws-ml-for-bushfire-prevention.md",
-      "title": "Altavec uses AWS ML for bushfire prevention",
-      "excerpt": "Altavec has been the trusted partner of Australian utilities for over 20 years. Delivering excellence in geospatial services via advanced geoanalytics, our technology platform empowers best-practice asset management using complex data to provide informed and actionable insights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.spatialsource.com.au/altavec-uses-aws-ml-for-bushfire-prevention/",
-      "originalUrl": "https://www.spatialsource.com.au/altavec-uses-aws-ml-for-bushfire-prevention/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.spatialsource.com.au/wp-content/uploads/2022/08/Altavec_web.jpg",
-          "width": 624,
-          "height": 442,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Spatial Source",
-        "domain": "spatialsource.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

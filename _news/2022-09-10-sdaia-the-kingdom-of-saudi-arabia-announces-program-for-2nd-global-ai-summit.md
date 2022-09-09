@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-09T19:00:00Z
 originalUrl: "https://www.asiaone.com/business/sdaia-kingdom-saudi-arabia-announces-program-2nd-global-ai-summit"
 webUrl: "https://www.asiaone.com/business/sdaia-kingdom-saudi-arabia-announces-program-2nd-global-ai-summit"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Asia One

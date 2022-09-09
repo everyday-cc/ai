@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 671
         isCached: true
+  - title: "Nvidia’s flagship AI chip reportedly 4.5x faster than the previous champ"
+    excerpt: "Nvidia positions the H100 as a high-end data center GPU chip designed for AI and supercomputer applications such as image recognition, large language models, image synthesis, and"
+    publishedDateTime: 2022-09-09T20:01:00Z
+    webUrl: "https://arstechnica.com/information-technology/2022/09/nvidias-flagship-ai-chip-reportedly-4-5x-faster-than-the-previous-champ/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 83
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/nvidia_h100_hero_3-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "AI Chips and China, Geopolitical Considerations, Nvidia Considerations"
     excerpt: "Nvidia and AMD graphics chips are barred from sale in China, signaling a permanent shift in the U.S.’s approach to selling tech to China"
     publishedDateTime: 2022-09-06T11:01:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-09T19:00:00Z
 originalUrl: "https://www.theinformation.com/articles/the-secret-life-of-selfies-how-a-beauty-tech-startup-is-using-ai-to-match-faces-with-products"
 webUrl: "https://www.theinformation.com/articles/the-secret-life-of-selfies-how-a-beauty-tech-startup-is-using-ai-to-match-faces-with-products"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: The Information

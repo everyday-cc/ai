@@ -58,20 +58,6 @@ related:
         width: 452
         height: 323
         isCached: true
-  - title: "AI model detects COVID-19 infection in people’s voices"
-    excerpt: "Artificial intelligence (AI) can be used to detect COVID-19 infection in people's voices by means of a mobile phone app, according to research to be presented on Monday at the European Respiratory Society International Congress in Barcelona,"
-    publishedDateTime: 2022-09-05T04:45:00Z
-    webUrl: "https://www.news-medical.net/news/20220905/AI-model-detects-COVID-19-infection-in-peoplee28099s-voices.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 37
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "l2USh2haD7idrcBCqo4HWEJeYCshGBzCTNJr904kyu+f5+2auh9O9qvjbFE4q8xo+V6hNWIqLPsqxOHvpbduLwn3hjqgxDuq1rLjHHtejXfPv7hNIqH0k8uLEixwxwQP6LEBNRTFWTaOacIth702tqDZv+fP7ucSrJ6Tadrooa/5puAyw+dPvZIR5LBcW6C5YrfpWO/KBil190ugycvTF5OPw5RW9JOyxQJlDs+MXPAaAjT2SLt/uSDbrkrV4V4lCLEb8JSDS0lWWh2+PTdSlXON2A/8RTqB+cclCeQ1bGVmueVvB9jvAVVDr4+mcSZGPwroODrYDA7PiBjouWazEYxJ+Hge2/3SBCidV6azzyk=;tkOKQSQ9S9wpr7oJJBtipg=="
 ---

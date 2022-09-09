@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/09/06/the-eus-ai-act-could-have-a-chilli
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/06/the-eus-ai-act-could-have-a-chilling-effect-on-open-source-efforts-experts-warn/amp/"
 type: article
 quality: 82
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -38,6 +38,15 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
+    quality: 47
+  - title: "EU AI Act’s possible open-source regulation sparks Twitter debate"
+    excerpt: "Alex Engler never expected his Brookings article about the EU’s attempt to regulate open-source AI to stir up Twitter debate."
+    publishedDateTime: 2022-09-09T18:37:00Z
+    webUrl: "https://venturebeat.com/ai/eu-ai-acts-possible-open-source-regulation-sparks-twitter-debate/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 47
   - title: "Artificial Intelligence tool could reduce common drug side effects"
     excerpt: "Artificial intelligence could help clinicians assess which patients are likely to encounter the harmful side effects of some commonly used antidepressants, antihistamines and bladder medicines."

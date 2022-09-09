@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-08T17:04:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-integration-artificial-intelligence-smart-speakers-the-speaker-driver-/2022/09/08/9670149.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-integration-artificial-intelligence-smart-speakers-the-speaker-driver-/2022/09/08/9670149.htm"
 type: article
+quality: 22
+heat: -1
+published: false
 
 provider:
   name: TMCnet
@@ -15,6 +18,28 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "HVscPl1dHBBgDYmJx9KKsfkodxL3ExjJ3XgddZG8GBcNya/+2eMcUD/0oMbAiWiGz37b5S1DCmVbTFwvBMxjMNVZiw4ZrF9/CoEY1rK8jzmRBPIVZ19zHJEBmc1xFQvZeffNzDyuNEafqFQ0DUXxaI4N4L/7pTdXI3M4m6CH3fZnztkeEDug3iCwDaBTJF3owHPKel0rfJh28ZhLzIWFRwRZEdZU2AyhGtmXIg4vhF6S9RF+8mygw97E16/UkGikajeAgLvtrC65chTQbgbGKjxoxYjJ71KwJP2ZHd2ydNM0CXDlkaRGxclgZnHn1Vb+MNm3AxU4O/J/dZI67U0RdwGhYnhZX00YaN57Jped3TYtZ4cKFeY4zMgdym+3VaEW0M4XDVoMoAtJOPnMt9HW4TWcHAjRRv4KR9fUUhwvHjm+KJ691XM37XXW6WyaAzXCfZZ3MeLjn2XjFYk1JuUr3BzZY0xD9vEE5H9ynrYixMJF3ahd07ThLr9XAMkJ/JSsT1dpTR/RLRZ0xwqRsdT1mg==;POwXadeHPvnv4F9hAKbB1Q=="
+images:
+  - url: "https://mma.prnewswire.com/media/1751581/tbrc_logo.jpg"
+    width: 400
+    height: 225
+    isCached: true
+
+related:
+  - title: "The Integration Of Artificial Intelligence And Smart Speakers In The Speaker Driver Is An Emerging Trend"
+    excerpt: "The integration of artificial intelligence and smart speakers into speaker drivers is gaining popularity among speaker driver market"
+    publishedDateTime: 2022-09-08T15:40:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/the-integration-of-artificial-intelligence-and-smart-speakers-in-the-speaker-driver-is-an-emerging-trend-889215137.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 22
+    images:
+      - url: "https://mma.prnewswire.com/media/1751581/tbrc_logo.jpg?p=facebook"
+        width: 750
+        height: 393
+        isCached: true
+
+secured: "DYdk2qmOW1dnoedYSzkZKyq6R5nDqX2UkknhMrWvwV+hG/Z/Y6Vi9OVWsUdGQuwMIMg2hMhgfyPjSQ9HjGwxxPomuLFFiVn9pOsHZiBegLyAtytiJWABCeG6FcCgJA3Hy2SHp5rma0FO5rLcC7EFWZtC+BD1XbXhbbpxvVINKEUbegphMgeyPj7+bPphVwMmam1aL0LvHJ/2HQ3ceKCFZ5pjTJmWQLCrlHBcIBw3P64+EYT+PF7wJgDqZDVLF4UHOYIa9FaXUDRKtXIvqKsl4HvX2Mui3QG9EXSJ2GHuAs9iyiSRzfM31+4pa4lcCf4M3mLutFVEHmAAY9MEnmaSsZaVeGHfId1yYKKE2oNNmvs=;jxDumU0p7Y0SBpLEcd6UMQ=="
 ---
 

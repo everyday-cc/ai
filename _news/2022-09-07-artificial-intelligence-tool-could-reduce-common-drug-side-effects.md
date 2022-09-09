@@ -44,6 +44,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
+  - title: "EU AI Act’s possible open-source regulation sparks Twitter debate"
+    excerpt: "Alex Engler never expected his Brookings article about the EU’s attempt to regulate open-source AI to stir up Twitter debate."
+    publishedDateTime: 2022-09-09T18:37:00Z
+    webUrl: "https://venturebeat.com/ai/eu-ai-acts-possible-open-source-regulation-sparks-twitter-debate/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
 secured: "NTBE3po9TF8YGmUo0h2IpwzNs1LEZkGrkUqh0TuqLWSLrxuBebvhzzPwXc8eo0lY7i1+T42YN/PUxTNckGDIe9HR/sbA4BLADa/MuuM/g0/MFUeJCPf6XSust94FQAPf2bBAR0RPwObwVvhGq1nuaUeyN4YBMeIXHkYJxjB5pQDnl7uRSKqYcVNIpQ4Qr/OAC8SgtnFpnb4hoGrs3o0Qj0JVVaALDzAAfNaB9lwWhOi7QeQrDqrluGMxkGTGC9+QGPVrYfXfFFcd/U9C1yjAL95z22zhIFBhKkhd+MvsqnGNeAhPOBdKWP+7ZU8afGiGBwgalUu/RY6jusHKKTZlP/+0iV6TNqj8Q+HLezZJpSs=;FNZN4dMk7XNiHWWF0jTQqQ=="
 ---

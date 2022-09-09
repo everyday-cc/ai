@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-09T19:03:00Z
 originalUrl: "https://www.scu.edu/news-and-events/feature-stories/2022/stories/can-ai-be-sexist.html"
 webUrl: "https://www.scu.edu/news-and-events/feature-stories/2022/stories/can-ai-be-sexist.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Santa Clara University

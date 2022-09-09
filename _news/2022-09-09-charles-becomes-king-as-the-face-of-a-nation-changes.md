@@ -91,6 +91,15 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "Read King Charles’ full 1st speech to Britain as the new monarch"
+    excerpt: "King Charles III made his first address to the nation on Friday since becoming Britain's new monarch after the death of his mother, Queen Elizabeth II."
+    publishedDateTime: 2022-09-09T18:10:00Z
+    webUrl: "https://www.pbs.org/newshour/world/read-king-charles-full-1st-speech-to-britain-as-the-new-monarch"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 19
   - title: "King Charles speech in full: Read every word of the new monarch’s first address to the nation"
     excerpt: "Prince Charles said the royal family owed the Queen \"the most heartfelt debt any family can owe to their mother, for her love, affection, guidance, understanding and example\""
     publishedDateTime: 2022-09-09T17:43:00Z
@@ -105,6 +114,24 @@ related:
         width: 1537
         height: 1093
         isCached: true
+  - title: "King Charles III Delivers His First Speech as Monarch"
+    excerpt: "Queen Elizabeth's \"promise of lifelong service I renew to you all today,\" the new British king said in a somber address."
+    publishedDateTime: 2022-09-09T17:23:00Z
+    webUrl: "https://www.townandcountrymag.com/society/tradition/a41122583/king-charles-iii-first-speech-transcript/"
+    type: article
+    provider:
+      name: Town & Country
+      domain: townandcountrymag.com
+    quality: 4
+  - title: "Read King Charles's First Speech as the New Sovereign of the United Kingdom"
+    excerpt: "The king honored his late mother, Queen Elizabeth, and praised his wife and sons in his address to the nation."
+    publishedDateTime: 2022-09-09T18:19:00Z
+    webUrl: "https://www.harpersbazaar.com/celebrity/latest/a41136694/king-charless-full-first-speech-sovereign-united-kingdom/"
+    type: article
+    provider:
+      name: Harper's Bazaar
+      domain: harpersbazaar.com
+    quality: 2
 
 secured: "zBPDI15zXtsqrXR2t0KH8j0EZasHBUf14Ygwn4MMzSL2KGDZbeM4lyowIhrbU2e0gf2a+QjEb2WaA7t4lrEJOl6H9roHKlFtlk4CRGZJ5Jn3i0ZZ5UfrCzgABTVOD/7h2hPzbwf0Fng7P22q3xMDGXtLaftMBPXTUsGuGWqzwmh25Ed1/y2rVj1VUSBXdKk1CLHIFDsPSsaiUxKiiaodB7cSfUsOfXtz1ue+Apy0t2cmP63AKSM5UnEE6N90bcHZ3COOUjfWQ15jaut4UR7YANydKXeGMnqUz62G5INK3+Nm18/QzTSR8noVrSwxwTRx/XSNiTuuToMBAN8EPmK0D4/0on+dr4mfVoDzqQH3JD0=;pwTVbIDNkUm0UJycGTS3eg=="
 ---

@@ -2,6 +2,83 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2022-06-29-renesas-and-cyberon-partner-to-deliver-integrated-voice-user-interface-solutions-for-renesas-ra-mcus-supporting-over-40-global-languages.md",
+      "title": "Renesas and Cyberon Partner to Deliver Integrated Voice User Interface Solutions for Renesas RA MCUs Supporting Over 40 Global Languages",
+      "excerpt": "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, and Cyberon Corporation, a leading embedded speech solution provider, today announced that they have partnered to deliver voice user interface (VUI) solutions for customers using Renesas’ entire RA MCU line.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-taiwan-taipei-renesas-electronics-corp-3e02bbf691e84c7c8dc21e19a104e0c6",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-taiwan-taipei-renesas-electronics-corp-3e02bbf691e84c7c8dc21e19a104e0c6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-global-artificial-intelligence-ai-market-report-2022-with-special-focus-on-investments-with-an-overview-of-patents-and-patent-applications.md",
+      "title": "Global Artificial Intelligence (AI) Market Report 2022 with Special Focus on Investments with an Overview of Patents and Patent Applications",
+      "excerpt": "Market: Investments vs Potential\" report has been added to ResearchAndMarkets.com's offering. The scope of this report is broad and covers the global markets for AI, which is increasingly being implemented across a wide range of industries for various applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-market-report-2022-with-/2022/06/29/9630648.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-market-report-2022-with-/2022/06/29/9630648.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-how-ai-can-help-solve-cybersecuritys-predicament.md",
       "title": "How AI Can Help Solve Cybersecurity’s Predicament",
       "excerpt": "As thought leaders search for a failsafe cybersecurity standard, they’ve realized that a hard shift away from software and toward a hardware solution is critical.",
@@ -993,83 +1070,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-mint-group-recognised-as-winner-of-2022-microsoft-south-africa-partner-of-the-year-award.md",
-      "title": "Mint Group recognised as winner of 2022 Microsoft South Africa Partner of the Year Award",
-      "excerpt": "The Microsoft Partner of the Year Awards recognise ... and accelerate the digital transformation journey with AI and cognitive services for businesses and government institutions globally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/wbrpOMg2zwj7DLZn",
-      "originalUrl": "https://www.itweb.co.za/content/wbrpOMg2zwj7DLZn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/-VUwuLj9zd9YqYwH9i0Ipggml33XN72ePHXh2eEhEjnNf-HLyL4DEU8-OOeE8UCEoib9lfH8l9vbEHlxMBJZKr05WIs24pNx3aM=w816-h428",
-          "width": 761,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/wbrpOMg2zwj7DLZn",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/wbrpOMg2zwj7DLZn",
-      "publishedDateTime": "2022-06-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-14-recent-digital-health-investments.md",
-      "title": "14 recent digital health investments",
-      "excerpt": "10. H1, a big data startup focused on healthcare, secured a series C extension June 9, bringing the total for the funding round to $123 million. 11. Artificial intelligence healthcare startup ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/digital-health/14-recent-digital-health-investments.html",
-      "originalUrl": "https://www.beckershospitalreview.com/digital-health/14-recent-digital-health-investments.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T14:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

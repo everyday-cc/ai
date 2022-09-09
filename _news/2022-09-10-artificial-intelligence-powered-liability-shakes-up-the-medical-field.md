@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-09T19:55:00Z
 originalUrl: "https://www.canadianlawyermag.com/practice-areas/medical-malpractice/artificial-intelligence-powered-liability-shakes-up-the-medical-field/369734"
 webUrl: "https://www.canadianlawyermag.com/practice-areas/medical-malpractice/artificial-intelligence-powered-liability-shakes-up-the-medical-field/369734"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Canadian Lawyer Magazine

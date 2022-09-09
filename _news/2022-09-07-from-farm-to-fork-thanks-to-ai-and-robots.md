@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/from-farm-to-fork
 cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/from-farm-to-fork-thanks-to-ai-and-robots/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 740
     height: 495
     isCached: true
+
+related:
+  - title: "Robots and Artificial Intelligence Have Ancient Mythology Origins"
+    excerpt: "Modern humans weren't the first to dream up robots and artificial beings, and not the first to worry about the consequences of creating them."
+    publishedDateTime: 2022-09-09T18:00:00Z
+    webUrl: "https://www.discovermagazine.com/technology/robots-and-artificial-intelligence-have-ancient-mythology-origins"
+    type: article
+    provider:
+      name: Discover Magazine
+      domain: discovermagazine.com
+    quality: 34
 
 secured: "44bJstXyqSmzqyynqQ2PMRZm/LVO5GNaG8dJwRi/xpwLqc5oxdCxu23JAvHO+e/6AvNyTGumz4YSdzQZlg1q8D0aVptE7f+BiiOol3eH0qKruCle6P2pcNLOQbJLqfkDPtuRLaPauuPhAsD6m46PI+le2dGhdpneDPDpyH+g0GlO2/VoFbFGlhIKkzBdFqGSe+hbq53C2vnFoRdyhukCW8OxgcNk+tQlj+SdU6PESabHm6tOvw4K+6lJGjG5fkcqiYBGLtMQaIbe48J7vQueU389wTRX6D2NUQ/1LsfnlyMaDQRzBUrsIR439Mp8R7k0WBD2gjbe7z4FJnmHXEjS8eOGm0R8Efw4jRCvA/aW08fez2HhULQxi4kCfvkEwP6/wZ+PvGZQOSXdQZv9QB7tcUrRN0ENdzJntcT4U+nE0guu/V0H0oGLNha8N3YfrNmMTSgTzPemunyMWxGChGPwBwOFPz2c/vHV+ucG4zNaqNbuOHALEtzBguELOrrIrA0r+MmESKrdyh7USpCwfEoYnQ==;lf1hV9SZuZXHR3nn4WZ3fA=="
 ---

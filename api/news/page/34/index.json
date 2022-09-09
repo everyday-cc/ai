@@ -2,6 +2,102 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2022-08-11-tesla-full-self-driving-technology-under-fire-as-video-seems-to-show-it-failing-to-detect-child-sized-object.md",
+      "title": "Tesla full self-driving technology under fire as video seems to show it failing to detect child-sized object",
+      "excerpt": "A pair of testing videos have been released in recent days, showing Tesla vehicles failing to stop for child-sized objects",
+      "sourceUrl": null,
+      "webUrl": "https://www.whichcar.com.au/news/tesla-full-self-driving-technology-under-fire-as-video-seems-to-show-it-failing-to-detect-child-sized-object",
+      "originalUrl": "https://www.whichcar.com.au/news/tesla-full-self-driving-technology-under-fire-as-video-seems-to-show-it-failing-to-detect-child-sized-object",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.whichcar.com.au/image/private/s--4xsgqGIQ--/ar_1.9047619047619047,c_fill,f_auto,g_xy_center,q_auto:good,x_817,y_328/c_scale,w_1200/Tesla_Model_3_FSD_pedestrian_The_Dawn_Project.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T17:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "whichcar",
+        "domain": "whichcar.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-11-computer-vision-in-healthcare-market-size-2022-global-industry-share-growth-segments-revenue-manufacturers-and-2028-forecast-research-report.md",
+      "title": "Computer Vision in Healthcare Market Size 2022, Global Industry Share, Growth, Segments, Revenue, Manufacturers and 2028 Forecast Research Report",
+      "excerpt": "Aug 11, 2022 (The Expresswire) -- Global “Computer Vision in Healthcare Market” (2022-2028) research report by researcher gives an insight into the trending modern situation, size, share ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-size-2022-global-industry-share-growth-segments-revenue-manufacturers-and-2028-forecast-research-report-2022-08-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-size-2022-global-industry-share-growth-segments-revenue-manufacturers-and-2028-forecast-research-report-2022-08-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-08-11-realising-scientists-are-the-real-superheroes.md",
       "title": "Realising scientists are the real superheroes",
       "excerpt": "Meet Edgar Duéñez-Guzmán, a research engineer on our Multi-Agent Research team who’s drawing on knowledge of game theory, computer science, and social evolution to get AI agents working better together.",
@@ -1073,100 +1169,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-getting-deeper-with-advanced-analytics-become-a-more-data-driven-company-with-the-help-of-ai.md",
-      "title": "Getting Deeper With Advanced Analytics: Become A More Data-Driven Company With The Help Of AI",
-      "excerpt": "Whether you are a manager or executive, the following primer will help you use AI analytics beyond streamlining operational processes and improving products and services—to make far better business decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/08/10/getting-deeper-with-advanced-analytics-become-a-more-data-driven-company-with-the-help-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/08/10/getting-deeper-with-advanced-analytics-become-a-more-data-driven-company-with-the-help-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6102b8bb3810213799f78abb/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/08/10/getting-deeper-with-advanced-analytics-become-a-more-data-driven-company-with-the-help-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/08/10/getting-deeper-with-advanced-analytics-become-a-more-data-driven-company-with-the-help-of-ai/amp/",
-      "publishedDateTime": "2022-08-10T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-china-creates-its-most-powerful-gpu-biren-br1100-reducing-its-dependency-on-nvidias-ai-gpus.md",
-      "title": "China creates its most powerful GPU Biren BR1100, reducing its dependency on NVIDIA's AI GPUs",
-      "excerpt": "The Biren BR1100 is based on a 7nm process, houses 77 billion transistors, and is reportedly faster than NVIDIA's Ampere in AI power.",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesnownews.com/technology-science/china-creates-its-most-powerful-gpu-biren-br1100-reducing-its-dependency-on-nvidias-ai-gpus-article-93479666",
-      "originalUrl": "https://www.timesnownews.com/technology-science/china-creates-its-most-powerful-gpu-biren-br1100-reducing-its-dependency-on-nvidias-ai-gpus-article-93479666",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tnn.in/thumb/msid-93479666,imgsize-100,width-1280,height-720,resizemode-75/93479666.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesnownews.com/technology-science/china-creates-its-most-powerful-gpu-biren-br1100-reducing-its-dependency-on-nvidias-ai-gpus-article-93479666/amp",
-      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/china-creates-its-most-powerful-gpu-biren-br1100-reducing-its-dependency-on-nvidias-ai-gpus-article-93479666/amp",
-      "publishedDateTime": "2022-08-10T04:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "timesnownews",
-        "domain": "timesnownews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

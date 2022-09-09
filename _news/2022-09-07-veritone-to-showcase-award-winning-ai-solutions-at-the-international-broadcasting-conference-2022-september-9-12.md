@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon Promo Codes September 2022"
-    excerpt: "Receive a $100 statement credit after you spend $3,000 on your Amazon Business Card within the first 3 months of opening your account. Don't miss out on this Prime Student special and use this ..."
-    publishedDateTime: 2022-09-05T01:24:00Z
-    webUrl: "https://www.forbes.com/coupons/amazon.com/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
-    images:
-      - url: "https://www.forbes.com/coupons/vfiles/81499/merchant_image-merchant_open_graph.png/"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Recession Fears And The Crude Oil Price Drop: Forbes AI Newsletter - September 3rd"
     excerpt: "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend."
     publishedDateTime: 2022-09-09T13:34:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-09T18:36:00Z
 originalUrl: "https://thenextweb.com/news/esa-stilfold-plan-bring-industrial-origami-to-outer-space"
 webUrl: "https://thenextweb.com/news/esa-stilfold-plan-bring-industrial-origami-to-outer-space"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: thenextweb.com

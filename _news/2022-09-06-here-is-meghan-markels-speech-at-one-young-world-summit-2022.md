@@ -43,6 +43,15 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "King Charles Expresses His 'Love' for Prince Harry and Meghan Markle in First Speech Following Queen's Death"
+    excerpt: "In his first address to the nation -- with the rest of the world also tuning in -- King Charles III gave a moving speech Friday as the new monarch in which he expressed \"sorrow\" over the death of his mother,"
+    publishedDateTime: 2022-09-09T18:06:00Z
+    webUrl: "https://www.etonline.com/king-charles-expresses-his-love-for-prince-harry-and-meghan-markle-in-first-speech-following-queens"
+    type: article
+    provider:
+      name: Entertainment Tonight
+      domain: etonline.com
+    quality: 0
 
 secured: "ma+aElyu0i2ta8ICHVIi/jA3KJT27i7fkjHS/Q89wb+nYdkxke4DbF4vq9dUuA21UVi97FJU0Azc3rwF8o8q8UcmWjVUdkHIUMtzwUSUabvvVsDqpo39HtOOlEf690CgMosF/ecXf+Wb4UV0Pr3Vft1Adm+14TCw9FCyMewsNpfad9kT00YHADPm5e24F+XwGo9Of4gV7STPUfs2ubBUOzf0NDjZy3GOHvMVrHl4c4HGP6XsTqWYxiIM+U7UGNHOEvgON9y4hk1SLXNdwRtO/qlv37RrnLgibSJAO7o3u1CAP1giLKsqgHmlIxfZoph5uPus6yx2lY4lhlwKq7KNrrpevvd3EvIqL7oyS9XwL3s7b+BOZNYMUffWX9y03FX3qj8e5T1a642MVPTgqyqV1DyKJru2SVozczs9VHD96W6lbhhs8zRhRCiiFOO8k1OBiWxiwsmC5mVM75jMhVK7txO+ojxe02zE1NE9fit9LVqtre75ITqVAvAQMbnbsUD5xkXHG0vQ8zdQRcA+ucbfpA==;RZfXyU80GgHeX19ns1Z9qQ=="
 ---

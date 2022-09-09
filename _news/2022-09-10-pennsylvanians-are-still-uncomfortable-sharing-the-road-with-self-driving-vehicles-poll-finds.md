@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-09T18:10:00Z
 originalUrl: "https://www.inquirer.com/transportation/electric-autonomous-vehicles-pennsylvania-roads-20220909.html"
 webUrl: "https://www.inquirer.com/transportation/electric-autonomous-vehicles-pennsylvania-roads-20220909.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Philadelphia Inquirer
