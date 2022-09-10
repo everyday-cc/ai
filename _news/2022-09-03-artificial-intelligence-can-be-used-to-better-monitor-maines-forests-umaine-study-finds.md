@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AWS AI
 
 images:
   - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/3d9752f1-cb41-4347-88aa-67a57076be04/Rendition/low-res/Content/Public"
