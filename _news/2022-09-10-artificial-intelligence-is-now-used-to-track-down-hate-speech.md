@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://cdn.newsy.com/images/videos/m/1660250991_F4WYcV.jpg"
@@ -25,6 +26,6 @@ images:
     height: 360
     isCached: true
 
-secured: "G0/gDhskmVG2X2d8cpZu1rWbymqWC+TzxV7BWqilECvTV9dg9fBHqSc2KXVaDzwPkLf63+T1SSEXh2N5aEuJ2Rx1gHG/jt+B5OOl5jGDzJzz+Tk5XmcWhoJEhKE46guKvMkNfp3VsB5D+C8P5LI3v2Arl8kA2r+sU/d3J8vu0wRMnignxU9LECEvM2DGJHqOxoNh6O8tgjLYmsjbd6ecKhTG6wgcM3eRJWdgEgxQh3mu9P1Cdq+gu10ndCxSvx7+hTRENsD5nI+0JxBeKYHrfuJRglSApigomNNzWq/E1PvolK/ORjOXA2rCq8pv54KoFCoaKtw8OFxdmpYAC/ZuC3Oo7X4Ue1Q8SxztMII1ges=;k+pEbdXgYnkIq3oNSsMIpg=="
+secured: "/o6zkyqYBS9pCPXme+Fb3dpNEP/hig7JZ2ZBM22kZl7F0kRqoudw9nQGXXsoX4Z/N85xVYd9dhxIqYbtlTnOI7Jw66gjsRNEvDxue/aw4SW7ZhC7BmPDFEox6WTuJTMnxO8n+DtrqCBccjmkjnF0s2mZRHM+9yuvnf2p1FyDASkO3Kc/Z9z5Tt7y1Cav4GltOu7SZml5WhZjiZ3oCX24vReRmfp71Xxns6JPtyUmSXzdOnytAOJ/JQNZO8znCsjIc7nO7s3OJsNhyDP5xkP06n/V6dX4bsmBpxCUXwdGDE5rpBJhzoTaRDrZwec0E+RU1Oejpg1YKzM4c7jq8S0zgcsOzJevdCE/DbZ+4DOp0l2Sbq0nGJ383753yVW9eBhmT4OOknkOLnOclEZyhDnYVSvixHECC8UA0usP4kmP/ezQ5FCpABTS3wCWUiUe3++kHBLkc6XKUCOicVdoNfN7GA7TphU1orgOx75g7RTkHUFyS8vndAHo//BKWjabT2VFOrBn+2BMabGqg3cGUAjiQw==;6kjlw9aMrZfJHHlOOzHxgg=="
 ---
 
