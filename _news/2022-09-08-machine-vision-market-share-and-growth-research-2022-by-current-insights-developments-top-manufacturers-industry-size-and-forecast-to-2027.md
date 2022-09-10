@@ -80,20 +80,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
-  - title: "Natural Language Processing (NLP) Market Size, Share – Global Trends, Market Demand, Industry Analysis, Growth, Opportunities and Forecast 2028"
-    excerpt: "New Research Study “”Natural Language Processing (NLP) Market 2022 analysis by Market Trends (Drivers, Constraints, Opportunities, Threats, Challenges and Investment Opportunities), Size ..."
-    publishedDateTime: 2022-09-05T13:03:00Z
-    webUrl: "https://www.digitaljournal.com/pr/natural-language-processing-nlp-market-size-share-global-trends-market-demand-industry-analysis-growth-opportunities-and-forecast-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 18
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/d369c0601121a61f7dfcf2c786953d3e892a2c0c-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Call Center AI Market 2022 Key Players, SWOT Analysis, Key Indicators and Forecast to 2032"
     excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
     publishedDateTime: 2022-09-09T03:43:00Z

@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Global study shows Artificial Intelligence can reduce time to pregnancy for IVF couples by 12%"
-excerpt: "Reproductive BioMedicine Online (RBMO) journal has published results of an international clinical study BY Presagen showing that its Artificial Intelligence (AI) product Life Whisperer can reduce time to pregnancy for IVF couples by 12%,"
-publishedDateTime: 2022-09-07T13:11:00Z
-originalUrl: "https://www.aap.com.au/aapreleases/cision20220907ae62927/"
-webUrl: "https://www.aap.com.au/aapreleases/cision20220907ae62927/"
+excerpt: "Global study shows Artificial Intelligence can reduce time to pregnancy for IVF couples by 12% Sep 07, 2022 (PRNewswire via COMTEX) -- PR Newswire"
+publishedDateTime: 2022-09-07T13:07:00Z
+originalUrl: "https://www.marketwatch.com/press-release/global-study-shows-artificial-intelligence-can-reduce-time-to-pregnancy-for-ivf-couples-by-12-2022-09-07"
+webUrl: "https://www.marketwatch.com/press-release/global-study-shows-artificial-intelligence-can-reduce-time-to-pregnancy-for-ivf-couples-by-12-2022-09-07"
 type: article
-quality: 27
-heat: 27
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: Australian Associated Press
-  domain: aap.com.au
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1893808/Altair_OpenRadioss.mp4?p=thumbnail"
-    width: 512
-    height: 288
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "2t4/wFi3WrSUMTNvXZwcQgJn0fYbUTbXAhXIS+FGaFypE4O+0fyPN3P7lubQry+XqGxNudw0q9oR2Tm6Od6RGKgIpwkVVfPJXdrl9KtV4o0b+Meh/hBUurg5Ku8Dq+zgPgxJpm8wlQWDgEjA9A+1hW8rcrEe6L9hvwiehWGI5yfQcy8swTgFKnfYjxcHHykuxbTC4Nxhy3pLIYeFnfW7h74If9gXvMYVAawEePRwr6Mm953D58ffCD17dLSrJ3PfhD4d7Z2KJ4xPfqN5xXjtXvl+j3pnFe4yfv7PleNBQYuiZfX3xlRe3rSmyD7daj/zyKT/sm4JRCPyQN4BEvvF81gCHPjO5RKjPrGOT14E20M=;D9ZAVTIKiwB35d+JGvTE3g=="
+secured: "DdADsnYgoI5gHVVGkj7g+mdsZgtXHlFAdvyJ+71YaXKb7rALHSQNtltBwd0Rs0RfHuCOmTpGvGdn/X9uFxNPzMG3mKYkaH88qo16YSFuTHhlX2zxk2f3crxwSqLAormEHAK+xUz5LQJNwHJTohf7X9NCeLLrW1GU5TPCcw8nNtffCEZTCRIcHxK2EeG8Kjq0Pw73Ne6LlZLND5iMvH+BcfaQ2QIzo9PHYdfcKpSDKKGw0Z8jFfdRgP7A6jeGy33IakOu3M1L4+q9tLJPXHbBygM1lAKsSSQugBBZeLUVLWgktJWaxX5eDD8MzTJRMEfb6CnzY3p0IgBVLNIMNqrhejQeDjhEq3vWA4T4eioVl+Y=;gdzpABIDYi36muN6g3LRQg=="
 ---
 

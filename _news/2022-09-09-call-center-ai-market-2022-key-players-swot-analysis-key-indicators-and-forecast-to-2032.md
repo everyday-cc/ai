@@ -84,20 +84,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing (NLP) Market Size, Share – Global Trends, Market Demand, Industry Analysis, Growth, Opportunities and Forecast 2028"
-    excerpt: "New Research Study “”Natural Language Processing (NLP) Market 2022 analysis by Market Trends (Drivers, Constraints, Opportunities, Threats, Challenges and Investment Opportunities), Size ..."
-    publishedDateTime: 2022-09-05T13:03:00Z
-    webUrl: "https://www.digitaljournal.com/pr/natural-language-processing-nlp-market-size-share-global-trends-market-demand-industry-analysis-growth-opportunities-and-forecast-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 18
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/d369c0601121a61f7dfcf2c786953d3e892a2c0c-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "ILZGhccaKHVv/u7M4zvgulyhVyUAYBvecrYmm86LAQ/cwzacTNT9grF6XOMPCKmCvn7+D6X2WISy9o9j2XTO/CRd8gcTnqAGA6u03jEIUKfpv0LbCHYDVJZHKVGZWcpCaIj1ekcmJV7gfFlfrAa5vWoOYDcIk8ubsK+PWqCy3EqfzQe8jFrg5T67wwBuJt8gUx/QrhSMgDXN4zJPHz93IAJs2sHUf2XX9oTAfztGkwofG2/LTWa9N8cseUcoqQ3KoCIlwYImkgpR/gA6XvrKF7IOhCRExPrSD9R1ALZeoIRgHklA7nU4Euula8OJzianMDi5S6MGCuaHt115OOC87hLDamN5V7ACNsLmqtBEepk=;XTbXshPjf931Dh59avEB6A=="
 ---

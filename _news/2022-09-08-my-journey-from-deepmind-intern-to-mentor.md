@@ -7,7 +7,7 @@ originalUrl: "https://www.deepmind.com/blog/my-journey-from-deepmind-intern-to-m
 webUrl: "https://www.deepmind.com/blog/my-journey-from-deepmind-intern-to-mentor"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind is back at it again, this time teaching AI how to play football"
-    excerpt: "We’re taking a look into DeepMind’s latest venture; teaching an AI how to play the beautiful game. Which shouldn’t be harder than"
-    publishedDateTime: 2022-09-05T13:31:00Z
-    webUrl: "https://stuff.co.za/2022/09/05/deepmind-is-back-at-it-again-this-time-teaching-ai-how-to-play-football/"
-    ampWebUrl: "https://stuff.co.za/2022/09/05/deepmind-is-back-at-it-again-this-time-teaching-ai-how-to-play-football/?amp=1"
-    cdnAmpWebUrl: "https://stuff-co-za.cdn.ampproject.org/c/s/stuff.co.za/2022/09/05/deepmind-is-back-at-it-again-this-time-teaching-ai-how-to-play-football/?amp=1"
-    type: article
-    provider:
-      name: stuff.co.za
-      domain: stuff.co.za
-    quality: 73
-    images:
-      - url: "https://stuff.co.za/wp-content/uploads/2022/09/Untitled-design-3-1.jpg"
-        width: 1600
-        height: 1000
-        isCached: true
   - title: "DeepMind’s Selection-Inference Language Model System Generates Humanly Interpretable Reasoning Traces"
     excerpt: "Explainability is one of the most pressing concerns in machine learning research and development. Although contemporary large-scale language models (LMs) have demonstrated impressive question-answering capabilities,"
     publishedDateTime: 2022-09-06T19:06:00Z

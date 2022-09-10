@@ -5,10 +5,12 @@ excerpt: "Alex Engler never expected his Brookings article about the EU’s atte
 publishedDateTime: 2022-09-09T18:37:00Z
 originalUrl: "https://venturebeat.com/ai/eu-ai-acts-possible-open-source-regulation-sparks-twitter-debate/"
 webUrl: "https://venturebeat.com/ai/eu-ai-acts-possible-open-source-regulation-sparks-twitter-debate/"
+ampWebUrl: "https://venturebeat.com/ai/eu-ai-acts-possible-open-source-regulation-sparks-twitter-debate/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/eu-ai-acts-possible-open-source-regulation-sparks-twitter-debate/amp/"
 type: article
-quality: 47
-heat: -1
-published: false
+quality: 89
+heat: 119
+published: true
 
 provider:
   name: VentureBeat
@@ -20,6 +22,13 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1213704893.jpg?w=1200&strip=all"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "The EU’s AI Act could have a chilling effect on open source efforts, experts warn"
@@ -38,25 +47,25 @@ related:
         width: 2000
         height: 2000
         isCached: true
-  - title: "Artificial Intelligence tool could reduce common drug side effects"
-    excerpt: "Artificial intelligence could help clinicians assess which patients are likely to encounter the harmful side effects of some commonly used antidepressants, antihistamines and bladder medicines."
-    publishedDateTime: 2022-09-08T16:54:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/09/220907093349.htm"
+  - title: "Regulating Artificial Intelligence – Is Global Consensus Possible?"
+    excerpt: "As AI takes a growing part in our lives, the question of its regulation and an international agreement are essential. David Restrepo Amariles, Data Law and Artificial Intelligence professor at HEC Paris Business School,"
+    publishedDateTime: 2022-09-09T12:54:00Z
+    webUrl: "https://www.forbes.com/sites/hecparis/2022/09/09/regulating-artificial-intelligence--is-global-consensus-possible/"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
+      name: Forbes
+      domain: forbes.com
     quality: 47
-  - title: "Artificial Intelligence tool could reduce common drug side effects"
-    excerpt: "Artificial intelligence could help clinicians assess which patients are likely to encounter the harmful side effects of some commonly used antidepressants, antihistamines and bladder medicines."
-    publishedDateTime: 2022-09-07T07:12:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/963877"
+  - title: "Stability AI Open-Sources Image Generation Model Stable Diffusion"
+    excerpt: "Stability AI released the pre-trained model weights for Stable Diffusion, a text-to-image AI model, to the general public. Given a text prompt, Stable Diffusion can generate photorealistic 512x512 pixel images depicting the scene described in the prompt."
+    publishedDateTime: 2022-09-06T13:05:00Z
+    webUrl: "https://www.infoq.com/news/2022/09/stable-diffusion-image-gen/"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
+      name: InfoQ
+      domain: infoq.com
+    quality: 17
 
-secured: "kFndrbWnKYuGLOibBSfII57hk75QfQw8ACrOThde2mMCBnPrtdtKrNIvAbktCqnhAPaQzbpehj/JNiaie4BI794U+4rrClHo55Oav6CriGcnwoET6EYK9PhVzQNcyxRO5lKmiFC8+BkWU2G7gdedlBy0W9JI/mbjBmEH6/NJxP8+doSlvrQ2QAhOSwt1sCYwq+VNSyihznzgWWnkjoRGcbofiu34WPk9WmcaeT2IIPPKPTRo4Y3t5+i8xdiLxdRWKfVkt4tUNRpo3dZYfJFNz/HV0AvP7hKjPtLWWYnUdzk0gLsweyL5Cn55QXUcQlVuPcVv3mIB0KJWShDwBFM/s8M/Uz6bXZX3Y8RsuGcLw2ziM85nSkAilnAljdm9mZV/qYv5n5mM6IBxAyNU83n8fg4StvPXb8uN6IdbxKAtG1gYa4J66Xk0SotuFtLM2j0wWDG5EudvFMBWGN/UUS+V3z3asA1fTHNIgGIajD/5zuaHzvBO6NuNFM4j04WwEiJg/bkrLCmw3DfjpiI7bEM4LQ==;8GbQYl0d8WBp8DidrZ7moA=="
+secured: "wPkn2rnIKFM6Wjl4Yi4YHvR7Yplq1tEF1tSyt1O8NYp1vEduZqbVfaZ3EE92MFLbO1Jh1xGv68GdgMfMdeRx/lyD/xh1asBAaXUXsi58M7dA8rkhGYjv08bzfbF4TPjUsIHRY5ijxuGlLYqc8BsT3xk0rB3kbEBQLiaWO1gHxb7FdW4VHe95bylL+deNVB/x4JALVHo+GoOThKaQMzkb7K6J45FkZngp0XfnjGcT6B3RR+ssx0XDuQSUlqA35f3/n+DO7/Zbg4N0rNcAs9QJzXmOMJ/+BHG02WhtccfxNW+v2kvzXW+lGPwm0Dw2wbCFSUDRb+C5C8Rf6qF20EdVGheFfrrDc+cxcHy1kGJtKdE=;rwL/DFJyIHcslt7Hqm/FBQ=="
 ---
 

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla raises Full Self-Driving price to $15,000 – is it worth it?"
-    excerpt: "Tesla has officially raised the price of its Full Self-Driving (FSD) package to $15,000, as CEO Elon Musk promised. For years now, Musk has stated that Tesla would keep gradually increasing the price of its Full Self-Driving (FSD) package as functionality ..."
-    publishedDateTime: 2022-09-05T14:20:00Z
-    webUrl: "https://electrek.co/2022/09/05/tesla-raises-full-self-driving-price-to-15000-is-it-worth-it/"
-    ampWebUrl: "https://electrek.co/2022/09/05/tesla-raises-full-self-driving-price-to-15000-is-it-worth-it/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/05/tesla-raises-full-self-driving-price-to-15000-is-it-worth-it/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 104
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla’s ‘full self-driving’ isn’t worth $15,000, say many who bought it"
     excerpt: "Tesla's price for the feature it calls \"full self-driving\" has increased again. This time to $15,000, making it an unusually expensive option for a car."
     publishedDateTime: 2022-09-07T15:17:00Z
@@ -96,6 +80,20 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 37
+  - title: "Tesla’s Claim That Its Cars Are Self-Driving May Cross the Line From Permitted ‘Puffery’ to False Advertising"
+    excerpt: "Tesla is selling a semi-autonomous driver assistance system under the name “Full Self-Driving.” Is it legally permitted marketing, or false advertising?"
+    publishedDateTime: 2022-09-09T16:35:00Z
+    webUrl: "https://observer.com/2022/09/tesla-self-driving-software-face-false-advertising-elon-musk/"
+    type: article
+    provider:
+      name: Observer
+      domain: observer.com
+    quality: 35
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2022/08/GettyImages-956049418.jpg?quality=80&#038;strip"
+        width: 4724
+        height: 3149
+        isCached: true
 
 secured: "dj17M2Ofe1uE84wXpHBJgg+y+gPGmRrYLH7Hnc3kV4B3vLGkeW4iDJpssMDH9cFafyl1XFBObvfFTFBZnPPFhojPBZugeLMrllcUlh1BJUkJmrTasPvk5YOCMX8T2XvPpfJtLB2/F/jrv98aSWVwApNiqnAJXINE283ejOy/NeNtBzScSSkZx8LS0wgTS8nZPc9q3rEtVGXizmv1LYUxa58Od3Mp5APCm9n0wAKEegfpYbTOuSaCm+bcSiP4aEak79xSDvH2vX5lbEMvKXGKpCPjKKG8wO2gcAXsCXLvpPdff8vhtnxTaGIYnQFPKv9MUBlg4hC/JJ3SWWGlWEvLLJsjxlsjzd7a/m4Z/YTYXAwYJrIaRtkm/YzuNT+SyT7C8wy6Sigr2j5WUcCb2uDkciQYrtz9qgPEoW2/5X7dDbtr+/V+vtnaU/XWNq53xTd8by/V76dF17v7qmqKyHHGBKcEZupgr64IyGFasCjHlKdDjU+nI1a+dNhptVH+N8DO2f52HsPU2Ry346I3n/2Stg==;RQR27VmJ0cdBCoUnyxrydA=="
 ---

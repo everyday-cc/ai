@@ -1,24 +1,23 @@
 ---
 category: news
 title: "MLPerf Results Show Advances in Machine Learning Inference"
-excerpt: "MLCommons establishes a new record with over 5,300 performance results and 2,400 power measurement results, 1.37X and 1.09X more than the previous round. Today, the open engineering consortium MLCommo"
-publishedDateTime: 2022-09-08T17:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/09/b28799836/mlperf-results-show-advances-in-machine-learning-inference"
-webUrl: "https://www.benzinga.com/pressreleases/22/09/b28799836/mlperf-results-show-advances-in-machine-learning-inference"
-ampWebUrl: "https://www.benzinga.com/amp/content/28799836"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28799836"
+excerpt: "MLCommons establishes a new record with over 5,300 performance results and 2,400 power measurement results, 1.37X and 1.09X more than the previous round. MLPerf benchmarks are comprehensive system tests that stress machine learning models, software, and ..."
+publishedDateTime: 2022-09-08T18:56:00Z
+originalUrl: "https://www.01net.it/mlperf-results-show-advances-in-machine-learning-inference/"
+webUrl: "https://www.01net.it/mlperf-results-show-advances-in-machine-learning-inference/"
 type: article
-quality: 54
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: 01Net
+  domain: 01net.it
 
 topics:
-  - Machine Learning
+  - Microsoft AI
   - AI
+  - Machine Learning
 
 related:
   - title: "Deci's Natural Language Processing (NLP) Model Achieves Breakthrough Performance at MLPerf"
@@ -45,6 +44,6 @@ related:
       domain: datanami.com
     quality: 19
 
-secured: "TE9vC1qvJCuCj/oC4AvPUhLfsTgCl5yhUar6VsPyekhsSiE4Mw7QEA0vmPeTQSKcR/rUX60hEXi6VZaLpcu4QrNkJd6RxuEJd6gEDhTMbo+cBSt9EY2ED2oI3e/wqexA4infIzdcmA8yMkYu5qqotJBSC4wvcURfRxK89OU2L98GVjKiUfeBs8aG342mrTsIalTsild+3c7eoEXEFgzT0YHbh37bKUciewpVEwvm2xMW/8VxsCn3d4BmWyCNaGMk0ifaYc0GmgVZ5c1JRIMDj2SA+tHpSV2X615EHO1SNJc+IVRAtsf9gPHnXuk5OJBPLwUS7GBrFHexAkyv7HE9ZDaNB3jRO8bD39eMJDVn0C0=;pPKz7fC/IpvXuqmXqbL1Tg=="
+secured: "Ap1rfXdfD+Kek2n2wmSVRlJRC3/7LYHaAUSUaiysFVjuv8mGbCY4wkdioZXPKIQogBFPU/sdA1hYh6X2NH5Sqkf4rCccCEnlTf3DmPCmLVVLLDfJME3lDxRZLo23O50CW3606PCZZ/YAZZOs8FIjzvc62FMfDB6f4enBx0ShiGB/ZIhXlL7bZ8tiZ3TbqnvI0Bw0t5e2Khh8oDBZRVQ1NXheDL3w7kbzV5EVYcVlKyd6mfmGCUCDXIFRrajzsI2BjcyGvCE+d7+xB+x14Lz1JeHkpsRphiw2odoGnZfEDKW8BX7xlrQwOGqqPJwrPiGwtG72ygx1FPHBcGUpVHPVYeYHl09ryZ7lxRkDg1DNIUk=;1/SAfD508/KxZMy99+7XFQ=="
 ---
 
