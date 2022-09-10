@@ -38,17 +38,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Health Minute: Artificial intelligence for women in labor"
-    excerpt: "When you think of artificial intelligence, robots or self-driving cars may come to mind. But, a new study is researching the benefits of AI in the delivery room. In today's"
-    publishedDateTime: 2022-09-05T18:26:00Z
-    webUrl: "https://www.wxow.com/video/health-minute-artificial-intelligence-for-women-in-labor/video_0889ce90-57ff-5fbc-8bd1-21a7a4d51879.html"
-    ampWebUrl: "https://www.wxow.com/video/health-minute-artificial-intelligence-for-women-in-labor/video_0889ce90-57ff-5fbc-8bd1-21a7a4d51879.amp.html"
-    cdnAmpWebUrl: "https://www-wxow-com.cdn.ampproject.org/c/s/www.wxow.com/video/health-minute-artificial-intelligence-for-women-in-labor/video_0889ce90-57ff-5fbc-8bd1-21a7a4d51879.amp.html"
-    type: article
-    provider:
-      name: WXOW
-      domain: wxow.com
-    quality: 41
 
 secured: "d2/t235tqcI+QNy9OraJp61HrQFYo3jZA26FIavFOGDlUe1ifE7kZiMPy3UPsvazLrvlx01FMOQh6nHysssC3kPsfqxWxX0BueGIeZVG1x1OTh49UYRg89whQG0zqMQKIjGjoexzrhceAYYPR8SwmFM573V1AycqkNYB9pMfC2LF+/pw4Gjj1snW9tsoxj4ebJxU70NDG7YceB3u/L0lhL3G9kd997TDBzx6HlGm2hjscLy+OxrP9+RQynY6rNpcot4/0Hvk4xjhXkQsxviFCrwvVoQj71gVGb0vwEr2BS/biJnWqPijJ3euF99FOGhl+Cqrvp6divkfouck9QudTd9bah2rhMSccgLXCTGx4PrETMsTQ55C4Wb9ySYNI+Lqmx06W5mnxDaHe5Z8zEUvrzd1A6U2ZJuv+0aHIUJmOKcD/c7pl4e53eWK6fLJg7DCdG2if0OmBXQBbTSoHxg1aq8NK+N70MekuWLK8+fS/30ltTI+6nIb3GS5QUn287DXccajsQEY0Mp4xGkmWyNxUA==;JD+gcrc/tAvqVKnLFU0ESg=="
 ---

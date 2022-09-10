@@ -1,0 +1,81 @@
+---
+category: news
+title: "‘It’s very much a Wild West’: how AI art generators are splitting the art world"
+excerpt: "Advances in AI art generators are raising questions over copyrights, with many countries’ laws not explicitly covering AI-generated art, while artists say they could lead to job loss."
+publishedDateTime: 2022-09-10T11:15:00Z
+originalUrl: "https://www.scmp.com/lifestyle/arts-culture/article/3191979/its-very-much-wild-west-how-ai-art-generators-are-splitting"
+webUrl: "https://www.scmp.com/lifestyle/arts-culture/article/3191979/its-very-much-wild-west-how-ai-art-generators-are-splitting"
+type: article
+quality: 65
+heat: 95
+published: true
+
+provider:
+  name: scmp.com
+  domain: scmp.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI Ethics
+  - AI
+
+images:
+  - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/09/09/7e155e06-9f77-49c9-9630-05a27c908f54_aef98985.jpg?itok=GvpaLK-r&v=1662718218"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "How artificial intelligence is helping to restore works of art"
+    excerpt: "And it is benefitting more and more from the latest technological advances, especially in terms of artificial intelligence. The start-up Oxia Palus is training one such AI to accurately ..."
+    publishedDateTime: 2022-09-07T15:12:00Z
+    webUrl: "https://www.forbesindia.com/article/lifes/how-artificial-intelligence-is-helping-to-restore-works-of-art/79579/1"
+    ampWebUrl: "https://www.forbesindia.com/amp/article/lifes/how-artificial-intelligence-is-helping-to-restore-works-of-art/79579/1"
+    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/how-artificial-intelligence-is-helping-to-restore-works-of-art/79579/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 59
+    images:
+      - url: "https://www.forbesindia.com/media/images/2022/Sep/img_193503_artandaibg.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "How artificial intelligence is helping to restore works of art"
+    excerpt: "The Oxia Palus start-up recreated this underpainting by teaching artificial intelligence how to reproduce Van Gogh's style."
+    publishedDateTime: 2022-09-06T16:00:00Z
+    webUrl: "https://www.citizen.co.za/lifestyle/3191108/oxia-palus-artificial-intelligence-helping-to-restore-works-of-art/"
+    ampWebUrl: "https://amp.citizen.co.za/lifestyle/3191108/oxia-palus-artificial-intelligence-helping-to-restore-works-of-art/"
+    cdnAmpWebUrl: "https://amp-citizen-co-za.cdn.ampproject.org/c/s/amp.citizen.co.za/lifestyle/3191108/oxia-palus-artificial-intelligence-helping-to-restore-works-of-art/"
+    type: article
+    provider:
+      name: The Citizen
+      domain: citizen.co.za
+    quality: 57
+    images:
+      - url: "https://media.citizen.co.za/wp-content/uploads/2022/09/van-gogh-artwork.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
+  - title: "How artificial intelligence is helping to restore works of art"
+    excerpt: "Art restoration is a discipline that combines passion, patience and resourcefulness. And it is benefitting more and more from the latest technological advances, especially in terms of artificial intelligence."
+    publishedDateTime: 2022-09-08T07:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/09/08/how-artificial-intelligence-is-helping-to-restore-works-of-art"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 37
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/09/08/1728803.jpg"
+        width: 750
+        height: 636
+        isCached: true
+
+secured: "+emWWZ52nPrSv/9XgE1xCFLLHa+nLi8vjqJKjoHnW5JqKpOugvF5IORZ2zscT14BhUMThEmUnZsxJhNxDNuRb9Ji+bOOn2gHj4aovC0ko2V74XRiB2/Z17+WTKMXXINkY+jVkXwgX2nHtOS3AGkEYryNtk+Jhw5BaCG3BdmShiyInMIAWR1Epi82AErtAdm/R8pw7I31QrEzKIBL2HXCRWwqfQfnn0LL+5UMwFYam3aCdpRbc18keqJMY4QLqOTCHRGGJqE6iGOFiImVSy1jkKBMWnrWA6ncil3Gw1tnpRsaV4M1dcGQ37hBnP8l4iE73zO2iKm6S4cNKuGVWWovuEGETn70DQTrtwqNkHPHVHo=;SGyo1YdtaZJ5tVT+v/VyiQ=="
+---
+

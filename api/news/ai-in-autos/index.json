@@ -255,49 +255,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-07-how-artificial-intelligence-is-helping-to-restore-works-of-art.md",
-      "title": "How artificial intelligence is helping to restore works of art",
-      "excerpt": "And it is benefitting more and more from the latest technological advances, especially in terms of artificial intelligence. The start-up Oxia Palus is training one such AI to accurately ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbesindia.com/article/lifes/how-artificial-intelligence-is-helping-to-restore-works-of-art/79579/1",
-      "originalUrl": "https://www.forbesindia.com/article/lifes/how-artificial-intelligence-is-helping-to-restore-works-of-art/79579/1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.forbesindia.com/media/images/2022/Sep/img_193503_artandaibg.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbesindia.com/amp/article/lifes/how-artificial-intelligence-is-helping-to-restore-works-of-art/79579/1",
-      "cdnAmpWebUrl": "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/how-artificial-intelligence-is-helping-to-restore-works-of-art/79579/1",
-      "publishedDateTime": "2022-09-07T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes India",
-        "domain": "forbesindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-07-artificial-intelligence-to-help-analyze-coronavirus-variants.md",
       "title": "Artificial Intelligence to Help Analyze Coronavirus Variants",
       "excerpt": "A new method developed by researchers uses artificial intelligence to analyze in real-time immediately after a new COVID variant emerges.",
@@ -1418,6 +1375,58 @@
         "name": "Daily Mail",
         "domain": "dailymail.co.uk",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-baidus-bidu-apollo-go-service-strikes-1-million-ev-autonomous-ride-milestone-in-china.md",
+      "title": "Baidu’s (BIDU) Apollo Go service strikes 1 million EV autonomous ride milestone in China",
+      "excerpt": "Chinese tech giant Baidu (BIDU) beat Wall Street’s Q2 earnings estimates on Tuesday despite several headwinds in China’s economy. Baidu’s Apollo Go, its robotaxi business, unveiled its next-gen autonomous EV,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/08/30/baidus-apollo-go-service-strikes-1-million-ev-autonomous-rides/",
+      "originalUrl": "https://electrek.co/2022/08/30/baidus-apollo-go-service-strikes-1-million-ev-autonomous-rides/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Baidu-Apollo-Go.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/08/30/baidus-apollo-go-service-strikes-1-million-ev-autonomous-rides/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/30/baidus-apollo-go-service-strikes-1-million-ev-autonomous-rides/amp/",
+      "publishedDateTime": "2022-08-30T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

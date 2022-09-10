@@ -34,15 +34,6 @@ related:
         width: 750
         height: 489
         isCached: true
-  - title: "Self-driving tech company floats possible sale to Apple or Microsoft"
-    excerpt: "Inc.'s chief executive officer recently laid out a range of options for the self-driving company to respond to worsening market conditions and partners pushing o"
-    publishedDateTime: 2022-09-05T18:00:00Z
-    webUrl: "https://www.stuff.co.nz/motoring/300678344/selfdriving-tech-company-floats-possible-sale-to-apple-or-microsoft"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 21
 
 secured: "Beo4M3Ddz5xzKVBV2liQ+c+bqRm3Zdsas5/OsajGBRf4hEUrUFQTclqQqG/q2XwGI+6/m1hEXToO1lp5n1C77cjBbfc5pT2X4+hcmeKzpH1yHzPL/OMutEaeVRfXshh8E6N7Gt5uX4aesFtatx7ehxnpagurlFNWmpn5qrvh7Ck5jgoEwHm+zvJEBMjwrVBg4g1R6v60Ssce1nOLoxwUbsC3qz/jwXdsHVk/bHcMj1ts+CQ6LHW0F5MN8ZN4oUpr0XAH3DKdUQ+frTksownIx0KBYwGeBJxISedmpyQ14hXIHT6BXnDDpDLhoQ+nuwUJuREovXQpHhbHc3i8AWJxlZ8ENLlrjRzgmbfMN6tqYTFvtMTxGQ1mDu1db8VCSF37sXdkQYSSJNJn8WprQkEUyyTxLrwQTQIYrOAzGvhmNPwAN3WZgNuWQBlOhJc2OzZ5e1oBhlKTQySnUwnA9WH8l/0/K+oYRBWzWUkKj4Yz8awPcUXGegrEkCRnGggmOb+tnCLyb/+6ct3W+WNPRVpkwA==;nsbt2NE1pUdK23k78HlCSQ=="
 ---

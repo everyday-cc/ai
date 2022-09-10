@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbesindia.com/amp/article/lifes/how-artificial-intelli
 cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/how-artificial-intelligence-is-helping-to-restore-works-of-art/79579/1"
 type: article
 quality: 59
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes India
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "‘It’s very much a Wild West’: how AI art generators are splitting the art world"
+    excerpt: "Advances in AI art generators are raising questions over copyrights, with many countries’ laws not explicitly covering AI-generated art, while artists say they could lead to job loss."
+    publishedDateTime: 2022-09-10T11:15:00Z
+    webUrl: "https://www.scmp.com/lifestyle/arts-culture/article/3191979/its-very-much-wild-west-how-ai-art-generators-are-splitting"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 65
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/09/09/7e155e06-9f77-49c9-9630-05a27c908f54_aef98985.jpg?itok=GvpaLK-r&v=1662718218"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How artificial intelligence is helping to restore works of art"
     excerpt: "The Oxia Palus start-up recreated this underpainting by teaching artificial intelligence how to reproduce Van Gogh's style."
     publishedDateTime: 2022-09-06T16:00:00Z
@@ -43,15 +57,6 @@ related:
         width: 1500
         height: 1000
         isCached: true
-  - title: "Chatty AI is going to eat into call centers jobs"
-    excerpt: "Conversational AI is coming to the call center in a big way. But it's not easy or cheap to implement and maintain."
-    publishedDateTime: 2022-09-06T13:41:00Z
-    webUrl: "https://www.zdnet.com/article/chatty-ai-is-going-to-eat-into-call-centers-jobs/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
   - title: "How artificial intelligence is helping to restore works of art"
     excerpt: "Art restoration is a discipline that combines passion, patience and resourcefulness. And it is benefitting more and more from the latest technological advances, especially in terms of artificial intelligence."
     publishedDateTime: 2022-09-08T07:00:00Z
@@ -65,20 +70,6 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2022/09/08/1728803.jpg"
         width: 750
         height: 636
-        isCached: true
-  - title: "AI-generated art photography is here, but it’s not going to replace your camera"
-    excerpt: "AI-generated art is here for photography, but is it up to the task of replicating real photos? We take a dive into some AI generators."
-    publishedDateTime: 2022-09-07T12:42:00Z
-    webUrl: "https://photofocus.com/software/ai-generated-art-photography-is-here-but-its-not-going-to-replace-your-camera/"
-    type: article
-    provider:
-      name: Photofocus
-      domain: photofocus.com
-    quality: 35
-    images:
-      - url: "https://photofocus.com/wp-content/uploads/2022/08/jemma_pollari_ai_art_featured.jpg"
-        width: 2560
-        height: 1463
         isCached: true
 
 secured: "uPgRPQLQUhuucKm3P+ImuASjvlNK7BruP3oEi0DB/0KOp918cXpRNXxDyTN0nt1SFtoz58sSU/LWnDmL67+OoNpC6T2NXb5S48OKPis1YPHoW4+wO24g9qPoPzIkIvLILWrGwYBsg3EQD0S1A9QwuXFz7G5s4URYfVOWF/qTzl1KqbkwQEzzUZk7UX0fQOI9MSCcRx6UYqbdkWd7R5oFCaHLlPnS0+LG71oC8jisXNU6QQ2wAAEuJYdDS3MLviM9YfqrSPbfS/ORF52AkIDNRmCQti/dfHYvKNozIjEZpv0F93qg8Kbbkxy024O5Ls01NJK2nQvBdzCDbpkOVzOHutnr5MuGAwGilnusrbsWkUc=;rfwCnQUoMVe75uFIkx9SfQ=="

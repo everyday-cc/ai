@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-07-18-as-ai-language-skills-grow-so-do-scientists-concerns.md",
-      "title": "As AI language skills grow, so do scientists' concerns",
-      "excerpt": "Big Tech company Meta, the parent of Facebook and Instagram ... set their own internal AI safeguards, Liang said what's needed are broader community standards to guide research and decisions ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.stuff.co.nz/technology/digital-living/300639733/as-ai-language-skills-grow-so-do-scientists-concerns",
-      "originalUrl": "https://www.stuff.co.nz/technology/digital-living/300639733/as-ai-language-skills-grow-so-do-scientists-concerns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resources.stuff.co.nz/content/dam/images/4/y/w/h/3/q/image.related.StuffLandscapeSixteenByNine.1420x800.4yzr3p.png/1658101675506.jpg",
-          "width": 1420,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-17T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stuff.co.nz",
-        "domain": "stuff.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-16-perceptron-ai-that-solves-math-problems-translates-200-languages-and-draws-kangaroos.md",
       "title": "Perceptron: AI that solves math problems, translates 200 languages, and draws kangaroos",
       "excerpt": "In this edition of Perceptron, TechCrunch's AI research roundup, we look at new language models from Microsoft and Meta as well as a Google system that can solve quantitative reasoning problems.",
@@ -1413,6 +1370,49 @@
       "topics": [
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-20-ais-hold-over-humans-is-starting-to-get-stronger.md",
+      "title": "AI’s Hold Over Humans Is Starting to Get Stronger",
+      "excerpt": "Artificial intelligence isn’t on the cusp of sentience. But its growing inscrutability and sway over us should still be cause for concern.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/ais-hold-over-humans-is-starting-to-get-stronger/2022/06/20/00648326-f06d-11ec-ac16-8fbf7194cd78_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/ais-hold-over-humans-is-starting-to-get-stronger/2022/06/20/00648326-f06d-11ec-ac16-8fbf7194cd78_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/76LPBSHQNQI6ZLAWR67XDFGNPA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-19T19:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     }
   ],

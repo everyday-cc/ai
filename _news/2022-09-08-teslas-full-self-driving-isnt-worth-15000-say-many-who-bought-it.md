@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Tesla’s ‘full self-driving’ isn’t worth $15,000, say many who bought it"
-excerpt: "Some Tesla owners who paid far less for an earlier, unfinished version of the same “full self-driving” software that now retails for $15,000 caution that the new price does not make"
-publishedDateTime: 2022-09-07T17:51:00Z
-originalUrl: "https://www.eastbaytimes.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/"
-webUrl: "https://www.eastbaytimes.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/"
-ampWebUrl: "https://www.eastbaytimes.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/amp/"
-cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/amp/"
+excerpt: "Some Tesla owners who paid far less for an earlier version of the “full self-driving” software that now retails for $15,000 caution that the new price does not make sense for most"
+publishedDateTime: 2022-09-07T21:04:00Z
+originalUrl: "https://www.ocregister.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/"
+webUrl: "https://www.ocregister.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/"
+ampWebUrl: "https://www.ocregister.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/amp/"
+cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/amp/"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: East Bay Times
-  domain: eastbaytimes.com
+  name: Orange County Register
+  domain: ocregister.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.eastbaytimes.com/wp-content/uploads/2022/09/hypatia-h_f83a5bee143b3b89282e5807cb1c97e9-h_c8f834e95ae4db3b0c1cf5aa23866cd0.jpg?w=1024&h=1024"
+  - url: "https://www.ocregister.com/wp-content/uploads/2022/09/hypatia-h_f83a5bee143b3b89282e5807cb1c97e9-h_c8f834e95ae4db3b0c1cf5aa23866cd0.jpg?w=1024&h=1024"
     width: 1024
     height: 1024
     isCached: true
@@ -95,6 +95,6 @@ related:
         height: 3149
         isCached: true
 
-secured: "BkMwLDCIjDKvRqQtHe9VM8JlVmx0VZsmb1mbP/RgdJxJdLSpKVWnMeHKptG4AaTM+YGNXi3IJvGDLUOILoRyP2JDuIkc/Z7OIEhYt20wc8VlbY2MxgcTJGdX2/3M9SXHXXpKkBDqc+YkqLh4g6uUQVW9XR0vPdC2tIrCQ3O/jsU2q5L5pdbGcGbBEQ6apJiMdAQodNmIqxVpx8f0R4S1bq3zkPRgYGQgR2tkB57bJqmwrxAFlENnsjUJUOaXUNLRmQ6YsIhgfmSHaoAAU3NCJuOaljKty3nRPX84v1Q4SJ4Au/YoMlTTQp/7ghzSgyibTVea+kDr4FXAAqQrO9XgxcmmaQtnk4cDyEXQL2XYGjAyF/gE7cMAhpFZor9WRTdaU+XBHHJZ9laeEhuuk32kruKao5e2KrOXXs+wV+58xIk41LhhsHgUSxCAL9TEzy8wR+EMgymtiXDo9sT/Dc0kzg4JS8NBnYhaBp9GDY6GqvhAGRI5YsUcyQu8A7pWrptz8E6kxW96JmchpVY6mO36gg==;EFXKex2j/pI+c9fZ9s+vTg=="
+secured: "x033/yJwiT5n8LkAqoDGcQqQ2ROTZbw91/YkpHhS9oIZGjLpQvgWJfUnUYgExNLg5ZwKgdiV/cLtGB8QqM3MMfwd6tCxKpid9FhgUFQ62ZmZIko2X8quR5Aia5Fs9rGr4aOBCOMG4OUChGzx4+LDSc60eG5ZQ5JNcc5zhoRgx8+4o2if6BxuhWd1pjqK5SSnrNs7vGU+svuory6za2U9wHu1JdD7xf+cZ9FsxsytLklosa0ct/eKkaRgZWhKAr/msVi4Cb2/eJwtpLv6ieABFhhk190/Vk94Yfvh60mhIlRFaMdYtJTcvmyrcevSG4LXmHd37nyO+WokMY82zLhon/YsgrBH6NvWBn7cYDEj/7U=;sUsw4hJpqyxtLp/XE49Ujw=="
 ---
 

@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "‘It’s very much a Wild West’: how AI art generators are splitting the art world"
+    excerpt: "Advances in AI art generators are raising questions over copyrights, with many countries’ laws not explicitly covering AI-generated art, while artists say they could lead to job loss."
+    publishedDateTime: 2022-09-10T11:15:00Z
+    webUrl: "https://www.scmp.com/lifestyle/arts-culture/article/3191979/its-very-much-wild-west-how-ai-art-generators-are-splitting"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 65
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/09/09/7e155e06-9f77-49c9-9630-05a27c908f54_aef98985.jpg?itok=GvpaLK-r&v=1662718218"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How artificial intelligence is helping to restore works of art"
     excerpt: "And it is benefitting more and more from the latest technological advances, especially in terms of artificial intelligence. The start-up Oxia Palus is training one such AI to accurately ..."
     publishedDateTime: 2022-09-07T15:12:00Z
@@ -55,29 +69,6 @@ related:
       - url: "https://media.citizen.co.za/wp-content/uploads/2022/09/van-gogh-artwork.jpg"
         width: 1500
         height: 1000
-        isCached: true
-  - title: "Chatty AI is going to eat into call centers jobs"
-    excerpt: "Conversational AI is coming to the call center in a big way. But it's not easy or cheap to implement and maintain."
-    publishedDateTime: 2022-09-06T13:41:00Z
-    webUrl: "https://www.zdnet.com/article/chatty-ai-is-going-to-eat-into-call-centers-jobs/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
-  - title: "AI-generated art photography is here, but it’s not going to replace your camera"
-    excerpt: "AI-generated art is here for photography, but is it up to the task of replicating real photos? We take a dive into some AI generators."
-    publishedDateTime: 2022-09-07T12:42:00Z
-    webUrl: "https://photofocus.com/software/ai-generated-art-photography-is-here-but-its-not-going-to-replace-your-camera/"
-    type: article
-    provider:
-      name: Photofocus
-      domain: photofocus.com
-    quality: 35
-    images:
-      - url: "https://photofocus.com/wp-content/uploads/2022/08/jemma_pollari_ai_art_featured.jpg"
-        width: 2560
-        height: 1463
         isCached: true
 
 secured: "KPtjl1+NmgRheBS2EKH2vI7MojWZZcD7+PL5Pdl25wwOb6ncXYdXmqgcatn9BMzUGXeyDEvg/8Tvd3SwNmVlMinKmsqd8euWLOd1FbULiJH4nELmWtiURrDg49jdK+54WQWncpsjuxuobuIQDxepPLFG1nKy1B7LB5Ml4TTU6hupUvW2T67vvIUqwEa1BS+IFJucMqmT4Olc2CKHx8gfVlis1Q9pcTRGqO+HtDfR2EAfdjFPbfh6Ioqi6H2tRdSuHbmt1AD4gQhp2XYDaE+O4Z+LG3jDcSICIctH4kvI9EV5b41XednGN5ajtmfNgdUXuk9EcJX2RHnH1wNkN8argxooSYBo5p+Qr7Xi788F3WNGntlAyjSvtV3u2CYqqP8nidbVrncDXBqxQm1GSKf8YnTJWH/uNJ7uVfq8BFAcxEo+k1tOa3NuB7yOtm3kWX4smBeSjO5Ajp+fk6PHDuRn0DBjwc5CncZEfCp6xI27CFy6N1z1ZsnaRSzBA+scLEjtaAfUI/UaXjGBDrNNAf+/FQ==;34fveIOQUK8LyRrq4WPhQg=="

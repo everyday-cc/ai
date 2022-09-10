@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-06-10-fintech-startup-hostbook-raises-3-mn-in-series-a-funding-led-by-razorpay.md",
+      "title": "Fintech startup HostBook raises $3 mn in series A funding led by Razorpay",
+      "excerpt": "Hostbooks intends to utilise the Series-A funding to further scale its operations and enhance its existing product suite",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/companies/fintech-startup-hostbook-raises-3-mn-in-series-a-funding-led-by-razorpay-122061000530_1.html",
+      "originalUrl": "https://www.business-standard.com/article/companies/fintech-startup-hostbook-raises-3-mn-in-series-a-funding-led-by-razorpay-122061000530_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/09/full/1631127536-5223.jpg?im=Resize,width=480",
+          "width": 480,
+          "height": 359,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/fintech-startup-hostbook-raises-3-mn-in-series-a-funding-led-by-razorpay-122061000530_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/fintech-startup-hostbook-raises-3-mn-in-series-a-funding-led-by-razorpay-122061000530_1.html",
+      "publishedDateTime": "2022-06-10T01:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-can-reinforcement-learning-help-fix-the-mental-health-crisis.md",
       "title": "Can Reinforcement Learning Help Fix The Mental Health Crisis?",
       "excerpt": "Stefano Goria is Co-Founder and Chief Technical Officer (CTO) of Thymia, a company aiming to make mental health assessments faster and more accurate through an approach that combines video games based on neuropsychology with analyses of facial microexpressions and speech patterns.",
@@ -1337,40 +1380,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-informaticas-new-data-management-clouds-target-health-finance-services.md",
-      "title": "Informatica’s new data management clouds target health, finance services",
-      "excerpt": "Just after launching a focused data management platform for retail customers in March, enterprise data management vendor Informatica has now released two more industry-specific versions of its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/350352/informaticas-new-data-management-clouds-target-health-finance-services.html",
-      "originalUrl": "https://www.cio.com/article/350352/informaticas-new-data-management-clouds-target-health-finance-services.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

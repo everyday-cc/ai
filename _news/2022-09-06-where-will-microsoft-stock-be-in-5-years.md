@@ -34,15 +34,6 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 21
-  - title: "Self-driving tech company floats possible sale to Apple or Microsoft"
-    excerpt: "Inc.'s chief executive officer recently laid out a range of options for the self-driving company to respond to worsening market conditions and partners pushing o"
-    publishedDateTime: 2022-09-05T18:00:00Z
-    webUrl: "https://www.stuff.co.nz/motoring/300678344/selfdriving-tech-company-floats-possible-sale-to-apple-or-microsoft"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 21
 
 secured: "j4Z9Xo9Z/0U9wL2DETeLPIZnqaOTft5lcWrVF2G90hNNp4RStiyWAbhhw0evQXQzL5TUn3d/AelLRGIw1nZy/Fudbqawkt9NrKqQdeyMc4H00GJGQuuPZYw0mzKXiItVMn5JfwH2MaCaKDD88IPYqxmcjak/mKDS1aucMM5ad15y5OQXM9YAGtzCed/xpw/Bb3fbz1lFQOyHjBB8nyO+J6cHWsKntf6PPYcYzPfjZUh+b8jAkPzKtS8YaY8+vfBW0zNWDZfzFsD/zCkfwn67StCkPBMlr5Q2+lrsmlYHvAx3V0f17HFAUIyarHFf4D83EFEwy+FtUlEazKkWbgFjAm3FDLpW8aUT+NPh2gN7xhQgA9CM5WHu4raoeQ1UKZmBUCiy/lqg3ADjGnxyf1FCS7eeCxLo1iAiBMpOqMagaHtFvynRkdMiy0b1zbShvkmJsM6kS0HwURRi/D/QO7teomjZYR2p7gGOBY4xOo8QnaRwzLl8kWxY6W8D86w9VnIPZZ1nWVDDq9JNP8R86oeDdg==;1keEe2NDCfzZ8oYjpTnDaw=="
 ---

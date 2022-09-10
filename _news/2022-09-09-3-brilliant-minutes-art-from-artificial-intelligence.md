@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wbay.com/video/2022/09/08/brilliant-minutes-art-artifici
 cdnAmpWebUrl: "https://www-wbay-com.cdn.ampproject.org/c/s/www.wbay.com/video/2022/09/08/brilliant-minutes-art-artificial-intelligence/?outputType=amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: WBAY
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Health Minute: Artificial intelligence for women in labor"
-    excerpt: "When you think of artificial intelligence, robots or self-driving cars may come to mind. But, a new study is researching the benefits of AI in the delivery room. In today's"
-    publishedDateTime: 2022-09-05T18:26:00Z
-    webUrl: "https://www.wxow.com/video/health-minute-artificial-intelligence-for-women-in-labor/video_0889ce90-57ff-5fbc-8bd1-21a7a4d51879.html"
-    ampWebUrl: "https://www.wxow.com/video/health-minute-artificial-intelligence-for-women-in-labor/video_0889ce90-57ff-5fbc-8bd1-21a7a4d51879.amp.html"
-    cdnAmpWebUrl: "https://www-wxow-com.cdn.ampproject.org/c/s/www.wxow.com/video/health-minute-artificial-intelligence-for-women-in-labor/video_0889ce90-57ff-5fbc-8bd1-21a7a4d51879.amp.html"
-    type: article
-    provider:
-      name: WXOW
-      domain: wxow.com
-    quality: 41
   - title: "Health Minute: Artificial intelligence on women in labor"
     excerpt: "When you think of artificial intelligence, robots or self-driving cars may come to mind. But, a new study is researching the benefits of AI in the delivery room. In today's"
     publishedDateTime: 2022-09-07T14:44:00Z
