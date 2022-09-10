@@ -2,6 +2,49 @@
   "page": 118,
   "value": [
     {
+      "path": "_news/2022-06-08-video-better-screening-for-cognitive-issues-needed.md",
+      "title": "VIDEO: Better screening for cognitive issues needed",
+      "excerpt": "Forester BP, et al. Enhancing clinical care and collaboration with aging patients: Geriatric psychiatry and new models of care. Presented at: American Psychiatric Association annual meeting; May ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.healio.com/news/psychiatry/20220608/video-better-screening-for-cognitive-issues-needed",
+      "originalUrl": "https://www.healio.com/news/psychiatry/20220608/video-better-screening-for-cognitive-issues-needed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.healio.com/~/media/images/fscss/i3wyanokecdncom/healio_safe_image.png",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-08T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healio",
+        "domain": "healio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-08-a-new-optical-brain-like-chip-can-process-2-billion-images-per-second.md",
       "title": "A new optical brain-like chip can process 2 billion images per second",
       "excerpt": "Researchers at the Penn School of Engineering and Applied Science have created a new optical brain-like chip that processes 2 billion images a second.",
@@ -1066,58 +1109,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-this-ai-attorney-says-companies-need-a-chief-ai-officer-pronto.md",
-      "title": "This AI attorney says companies need a chief AI officer — pronto",
-      "excerpt": "As the use of artificial intelligence proliferates across the enterprise, the importance of appointing a chief AI officer is clearer than ever.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/07/this-ai-attorney-says-companies-need-a-chief-ai-officer-pronto/",
-      "originalUrl": "https://venturebeat.com/2022/06/07/this-ai-attorney-says-companies-need-a-chief-ai-officer-pronto/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1344913071.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/07/this-ai-attorney-says-companies-need-a-chief-ai-officer-pronto/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/07/this-ai-attorney-says-companies-need-a-chief-ai-officer-pronto/amp/",
-      "publishedDateTime": "2022-06-07T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

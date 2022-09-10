@@ -1393,21 +1393,21 @@
       ]
     },
     {
-      "path": "_news/2022-08-22-intelligently-search-alfresco-content-using-amazon-kendra.md",
-      "title": "Intelligently search Alfresco content using Amazon Kendra",
-      "excerpt": "Amazon Kendra is an intelligent search service powered by machine learning (ML). With Amazon Kendra, you can easily aggregate content from a variety of content repositories into a centralized index that lets you quickly search all your enterprise data and find the most accurate answer. Many organizations",
+      "path": "_news/2022-08-23-how-visual-search-technology-is-redefining-the-future-of-online-search-experience.md",
+      "title": "How Visual Search Technology is redefining the future of online search experience",
+      "excerpt": "Innovative technologies work to simplify the user experience. Learn how Visual Search Technology is shaping the online search methods of the future.",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/intelligently-search-alfresco-content-using-amazon-kendra/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/intelligently-search-alfresco-content-using-amazon-kendra/",
+      "webUrl": "https://think360studio.com/blog/visual-search-technology-online-search-experience",
+      "originalUrl": "https://think360studio.com/blog/visual-search-technology-online-search-experience",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/22/alfresco-kendra.jpg",
-          "width": 1530,
-          "height": 763,
+          "url": "https://think360studio-media.s3.ap-south-1.amazonaws.com/photo/plugin/article/2022/visual-search-technology-vision-ai-search-10092022.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1417,21 +1417,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-22T13:40:20-07:00",
+      "publishedDateTime": "2022-08-22T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Think360 Studio",
+        "domain": "think360studio.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1440,8 +1431,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AWS AI"
+        "AWS AI",
+        "AI"
       ]
     }
   ],
