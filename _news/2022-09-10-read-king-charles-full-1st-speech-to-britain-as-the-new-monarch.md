@@ -99,6 +99,20 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "3 takeaways from King Charles' 1st public speech"
+    excerpt: "King Charles III gave his first public speech after taking the throne following the death of Queen Elizabeth II."
+    publishedDateTime: 2022-09-09T22:54:00Z
+    webUrl: "https://www.capradio.org/news/npr/story?storyid=1122164052"
+    type: article
+    provider:
+      name: Capital Public Radio
+      domain: capradio.org
+    quality: 24
+    images:
+      - url: "https://media.npr.org/assets/img/2022/09/09/ap22252636560114-8e71d7cba211b79cbb8a89e3a2ba312284a0d8f5.jpg?s=6"
+        width: 948
+        height: 710
+        isCached: true
   - title: "King Charles speech in full: Read every word of the new monarch’s first address to the nation"
     excerpt: "Prince Charles said the royal family owed the Queen \"the most heartfelt debt any family can owe to their mother, for her love, affection, guidance, understanding and example\""
     publishedDateTime: 2022-09-09T17:43:00Z

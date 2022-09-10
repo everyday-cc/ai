@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Deep Learning Software Market Size From 2022 To 2028 And Key Findings and Segments by End Use Industry"
-    excerpt: "The \" Deep Learning Software market research report \" delivers a complete overview of key components like drivers, limitations, historic and current trends, technical development, and future growth. The Deep Learning Software market research report contains company analysis,"
-    publishedDateTime: 2022-09-05T07:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-size-from-2022-to-2028-and-key-findings-and-segments-by-end-use-industry-2022-09-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI in Fintech Market Inclinations and Development Status Highlighted During Forecast Period 2022 to 2027"
     excerpt: "Report Ocean recently added a research report on the AI in Fintech market. The report includes an extensive analysis of the market's characteristics, COVID-19 impact, size and growth, segmentation, regional and country breakdowns,"
     publishedDateTime: 2022-09-06T06:09:00Z
@@ -46,20 +32,73 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine learning hiring levels in the military industry rose in August 2022"
-    excerpt: "The proportion of military equipment and technologies companies hiring for machine learning related positions rose significantly in August 2022 compared with the equivalent month last year, with 57.9% of the companies included in our analysis recruiting for at least one such position."
-    publishedDateTime: 2022-09-05T17:00:00Z
-    webUrl: "https://www.army-technology.com/analysis/machine-learning-hiring-levels-in-the-military-industry-rose-in-august-2022/"
+  - title: "Voice Recognition Market Analysis with Recent Development And Forecast, 2022-2028"
+    excerpt: "To generalize, voice recognition comprises software programs or hardware devices that can decode the human voice. This technology has turned largely pervasive and accessible in everyday life, in homes,"
+    publishedDateTime: 2022-09-08T15:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-analysis-with-recent-development-and-forecast-2022-2028-2022-09-08"
     type: article
     provider:
-      name: Army Technology
-      domain: army-technology.com
-    quality: 37
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
     images:
-      - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/09/L7r5F-1038x778.png"
-        width: 1038
-        height: 778
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "RBI’s lending norms draw mixed reactions among fintech experts"
+    excerpt: "Former MD and co-founder of fintech firm BharatPe Ashneer Grover has criticised the apex bank’s lending guidelines."
+    publishedDateTime: 2022-09-06T02:07:00Z
+    webUrl: "https://www.newindianexpress.com/business/2022/sep/06/rbis-lending-norms-draw-mixed-reactions-among-fintech-experts-2495329.html"
+    ampWebUrl: "https://www.newindianexpress.com/business/2022/sep/06/rbis-lending-norms-draw-mixed-reactions-among-fintech-experts-2495329.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2022/sep/06/rbis-lending-norms-draw-mixed-reactions-among-fintech-experts-2495329.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 44
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/8/28/w600X390/RBI_PTI14.jpg"
+        width: 600
+        height: 390
+        isCached: true
+  - title: "Google leads fresh investment in embedded lending fintech R2"
+    excerpt: "R2, an embedded lending fintech from Latin America, has received US$15mn of Series A investment led by the AI-focused venture fund of search giant Google."
+    publishedDateTime: 2022-09-07T09:46:00Z
+    webUrl: "https://fintechmagazine.com/articles/google-leads-investment-in-embedded-lending-fintech-r2"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1800/6b8058e5974378a50aae676ce0e3f662:db640e6e5b55b595bd06bbf5b923401e/r2-fintech.jpg.jpg"
+        width: 1800
+        height: 1010
+        isCached: true
+  - title: "TheCapitalNet awarded Best Private Market FinTech Solutions Provider 2022 by Wealth & Finance International"
+    excerpt: "TheCapitalNet, Inc., a leading enterprise SaaS and financial technologies company, has been awarded Best Private Markets FinTech Solutions Provider 2022 by Wealth &"
+    publishedDateTime: 2022-09-08T01:00:00Z
+    webUrl: "https://www.asiaone.com/business/thecapitalnet-awarded-best-private-market-fintech-solutions-provider-2022-wealth-finance"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 21
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Sep2022/asiaone_default.jpg?h=ec041e41&itok=K1bQcT7-"
+        width: 600
+        height: 316
+        isCached: true
+  - title: "Data Enrichment Key to Enhancing Accuracy of AI Models in Fintech"
+    excerpt: "Data enrichment, the process of enhancing internal data with relevant, contextual data obtained from external sources, is critical for financial services companies looking to get the most out of their investments in artificial intelligence (AI),"
+    publishedDateTime: 2022-09-08T06:46:00Z
+    webUrl: "https://fintechnews.sg/62078/bigdata/data-enrichment-key-to-enhancing-accuracy-of-ai-models-in-fintech/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 19
   - title: "Speech Recognition Market 2022 Industry Challenges, Business Overview and Forecast Research Study 2028"
     excerpt: "In the Speech Recognition study report, the market for the pertinent time period is in-depth analyzed. In-depth competitor analysis is a component of Speech Recognition market research, as are investigations into the background,"
     publishedDateTime: 2022-09-09T16:55:00Z

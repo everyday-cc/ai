@@ -22,6 +22,22 @@ topics:
   - Facebook AI
   - AI
 
+related:
+  - title: "AI is coming on strong in federal civilian agencies"
+    excerpt: "To gage the state of AI and RPA adoption by non-defense agencies, Federal News Network convened a panel of agency and industry experts and got their views."
+    publishedDateTime: 2022-09-09T23:04:00Z
+    webUrl: "https://federalnewsnetwork.com/federal-insights/2022/09/ai-is-coming-on-strong-in-federal-civilian-agencies/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 41
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2022/09/GettyImages-1331059443.jpg"
+        width: 2243
+        height: 1337
+        isCached: true
+
 secured: "i9OQyOstSpY0TfT9T7MFGbEZ72OphmEja7vBVX1S3f5Fq1ra2ds0QaZjsQi7/dBK4ts52/6q0TrPjrPg76YCXr6ljgvYY9f6BvGFWgmzyHyPjfoCUQ3mmkhRt3ieuT7Lq9gAPb98be0LvSVm2du75J2ohqykdzZ8HoGStffJd5rGLsYM4NJ6ql7mgFXAjqppBTOQu1fQYQT4dAyYxYN2yNGtlyf0EtBA/Sa1H227w5Etlksqa4i90lpxFybg3tzyMH87Hwo4RUqwdTNTI8jEdmD0jnz55N5TOFBfpbjCnlCYkuI2OXb6+yTcdqmsDCbJZWwDIA4NMsSttZqYl1h7+5vrD7NZnWNnQfWxGq6qmjPhSs/xofihX3I1h+d6RStZZn2Wul5fdxEmrw1Lc9vqxDKPX44hfNISxoDhio2Lmb9RegdUXpsn2vGbOYZeRSDrnQqh87vu77lLX0E7+QP8wrsrRvWfq+K9G9JHU9JauYiMztPlxs3CcqAk7e6zhU/+yOIT5Dbu10zarxdEKLf0lg==;PX+rRujkDpdjfFsXVtQE0w=="
 ---
 

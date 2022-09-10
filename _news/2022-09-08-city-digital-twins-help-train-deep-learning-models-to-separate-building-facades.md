@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How the Authors Behind the Transformers Research Paper are Transforming the AI Startup Landscape"
-    excerpt: "Of the eight authors who wrote the ‘Attention is All You Need’ paper, six have gone on to form AI and crypto-related startups."
-    publishedDateTime: 2022-09-05T05:29:00Z
-    webUrl: "https://analyticsindiamag.com/how-the-authors-behind-the-transformers-research-paper-are-transforming-the-ai-startup-landscape/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 24
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/09/transformer-b_11zon.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Train transport of the future: Bosch Engineering is working on automated driving in rail traffic"
     excerpt: "Digitalization and automation increase capacity of existing rail network without building new tracks; Development focus is on systems and"
     publishedDateTime: 2022-09-08T12:42:00Z

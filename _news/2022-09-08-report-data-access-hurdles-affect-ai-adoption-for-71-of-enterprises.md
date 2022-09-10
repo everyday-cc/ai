@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/data-infrastructure/report-data-access-hurdl
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/report-data-access-hurdles-affect-ai-adoption-for-71-of-enterprises/amp/"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/mlcommons-releases-new-benchmarks-to-boos
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/mlcommons-releases-new-benchmarks-to-boost-ml-performance/amp/"
 type: article
 quality: 93
-heat: 114
+heat: 113
 published: true
 
 provider:

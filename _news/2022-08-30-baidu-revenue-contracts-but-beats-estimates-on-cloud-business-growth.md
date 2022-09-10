@@ -1,17 +1,17 @@
 ---
 category: news
-title: "Baidu Revenue Contracts but Beats Estimates on Cloud Business Growth"
+title: "Baidu revenue contracts but beats estimates on cloud business growth"
 excerpt: "Revenue at Baidu's AI Cloud unit grew 31% year-on-year in the quarter. Baidu has also been doubling down on self-driving technologies, in which it has heavily invested over the past five years."
-publishedDateTime: 2022-08-30T09:06:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2022-08-30/baidu-beats-quarterly-revenue-estimates"
-webUrl: "https://www.usnews.com/news/technology/articles/2022-08-30/baidu-beats-quarterly-revenue-estimates"
+publishedDateTime: 2022-08-30T10:25:00Z
+originalUrl: "https://www.reuters.com/technology/baidu-beats-quarterly-revenue-estimates-2022-08-30/"
+webUrl: "https://www.reuters.com/technology/baidu-beats-quarterly-revenue-estimates-2022-08-30/"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -19,6 +19,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "n5I0WjWyi+Y4ZB+ONwSPy6x+mdpUjQce9FuRzDE3CdEg56Dj4Wx0xs1Xzdr0DImjPSViAnPEiMX5Z1DaU/+0LKrxdoWDibJfMfgyKbAisrTzRHXFcncPHtkx3TDPYH8/MHB2SqngSxW1HlMMrQwl4qR2So+9YIhGo+tsdwnJvKGAgDX1K83Q4uFEYjbQHIEQR7ENFzRBEC5MyNus124FSOvR2t/HHHFRfgLa3gNJ8Qg7TM52kDfp2kgPhNy+cIHx1cbPosPubDggf/hSF9D1sFdWU5vTdGRXPUiVNaOx2YYdb5hQLppM/QuHpPbiM7nCCOAgOpPdWrjow47bla5YK4bEKMWixzX3N29bq975uyg=;5X60sl5vIAAjSrqUi081Kw=="
+images:
+  - url: "https://www.reuters.com/resizer/VcMhCTIPuZkROATTg3O8vy954F8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DO6AEQYAIVJRHB6NSPK3CHZTQA.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "lMQuXyWW50cCXKIWOYYAX5W5be8PVcdHWZfVvWVdS1y00zW1Lx3rN/EtiP1AMcpMIWZq0VjhLQJBiUvVBTAM8jlYU3um+//039qR3qETO71FvrgHK9EYxVOrtCczedCL8cOBgpwELX9YtFnt2Rdnq+dG2KN2v9X3cM//aqnhw6njr6K5CNulaQcb3mxLMpchTkZaekFxwdAMLr5LfM9KL2Ofmsau0KQx+QYPNw2OaQOyYHG3r546FZfUez08P2EP6hBEzkLVSHdpFG8hv/fGCjmPvKwErJZrzAHlVpHkldVAPL6apMr9+WBryVeMU5eIgTAuN4+oNKp6XHv6+LwKfuIJSVMLyQlmKSY1HOFZuF0=;FscRuskKjKctYwbbqC+byg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/loab-the-creepy-ai-art-generate
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/loab-the-creepy-ai-art-generated-woman-explained/"
 type: article
 quality: 87
-heat: 108
+heat: 107
 published: true
 
 provider:

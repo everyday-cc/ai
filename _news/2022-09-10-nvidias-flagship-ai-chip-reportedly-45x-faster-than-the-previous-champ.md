@@ -135,20 +135,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "China may step up purchases of AI GPUs from Nvidia, AMD prior to export ban"
-    excerpt: "The fresh US ban on exports of AI GPUs to China has sparked market speculation that the restriction may prompt Chinese clients to accelerate and increase shipment pull-ins for advanced GPUs from major suppliers Nvidia and AMD before a buffer period expires on September 1,"
-    publishedDateTime: 2022-09-05T06:11:00Z
-    webUrl: "https://www.digitimes.com/news/a20220905PD200/amd-gpu-nvidia.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 52
-    images:
-      - url: "https://img.digitimes.com/newsshow/20220905pd200_files/2_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "U.S. deals blow to China tech ambitions with Nvidia chip ban"
     excerpt: "Nvidia can no longer sell certain high-end AI chips that are used in large data centers to train AI models for tasks such as autonomous driving, image recognition and voice assistance."
     publishedDateTime: 2022-09-07T14:02:00Z
@@ -201,6 +187,6 @@ related:
       domain: ibtimes.com
     quality: 19
 
-secured: "f4tjYlUM2b9bp8mmb7dmtapo1t4ufEkf1obHEI3eftsb4ZbY3kYZ2xP0hn0uap6xOeIbBvCogKHsi/nFi7ESo3kOxNra3HPAS3p6zlj5Z1TZq+oW6ahwZ5gDZn5MGiBFSXPgXXzhMooVapHIBodiNckx4KVsDw2imDJ2H7S94Cbp9DyuUJkrc14Yt+TQMjTE70CbkbT4J8jxyBFZsZPEX6HxspRIwluRLMuNI45/hBmD9kHpRNL3U5ZPzvBX/cn62VXi3Ky92k4PNDAFfUtZgsGytpEHviPBLz0+Ln5aY0Ic8pcsme7YCbebV297DkToAiP2ESbljJZhqindHEuNtsFn6bNjlJn3Qy+XzMRHr6c=;Ans015Z9/3rmLcDlSJIjlA=="
+secured: "qo+TRJRbNSUK7oVy5fv1PGJTAe841gd7DiK4tuO1x89t96o6zfk8cfdej8XyJ0Z/SFUN0vU5Rsnq6GLPDGCIE9K/pKwMV5k9bRVeVnGSSbr2crCJAp0nRkZTDzFuMVqTWeKtHTqmTWm7XVauogi1I6Kbl/MR7aJHCN1kIbb/boL6FK7/I+bGLCJ8IdUzCFQqBDwUKe1USdC10yrjniA4uhAXliehO3/UN5rPPT7iPMMz2l8a58KsPiR+gAdrOUDUIEcSorO2HTFKCOEAzl/RoHUiBr/6EPGziXzQU689ClbhgTIF2x6RsDYzbYcU/2Qk0hU/DHzAug7Di03VbZv1Txz6ucGUT0XbT1l3O4lrmkEoj/R5oFdnbSCKImkfT8IGBBqKFztigLQSFraAjIEGhypqN0k40xQx8Ya/1j2/iN+8CqDfpY0625XozybZ5zyg7oKy8ra1ODFKcJlDEaejyglKzzfixpFvIVQeiqoMWVM6J5930u/UB7vxyPwRk+v1YeBrOndOqcH3YE5PP73hSA==;in9TZH1+yMIBGGu3pUoKpA=="
 ---
 

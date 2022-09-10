@@ -51,20 +51,6 @@ related:
         width: 597
         height: 258
         isCached: true
-  - title: "How the Authors Behind the Transformers Research Paper are Transforming the AI Startup Landscape"
-    excerpt: "Of the eight authors who wrote the ‘Attention is All You Need’ paper, six have gone on to form AI and crypto-related startups."
-    publishedDateTime: 2022-09-05T05:29:00Z
-    webUrl: "https://analyticsindiamag.com/how-the-authors-behind-the-transformers-research-paper-are-transforming-the-ai-startup-landscape/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 24
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/09/transformer-b_11zon.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "T7jFn9JV9DVc2Ad6FwKLrj2MNTBo0McKntUGeP86tUk+2MXLVetWsSHkZ2hkhUECxcw9Ye+xhjcim7I0hKz+sc06o3Y0bLseVpMjzQ/hiCtE1aVZgsdo02coipy3u3laSKmR6SBJ8VYTF5D7C7B6U+0wUUj2tkx1lr6ixpTrzSuxxjYnvtYfZcB5AHpSuUJ9V2lz+zH7cOtwceCEfaH2cqS9rzHMo4yXuoFbPcN5SCyLgwALf2eAw3/LQmlqtqAy9vemrrvAJgfkEy6Li5Ef0IQQflKMkZSWmfGYX6dL5N3Z2IS9t8wHQKzxZFNkfewEgE/9jOg9gyIQY307qtOJGyZaf/EQDXaak59E4NvF3AhFONw7NbcffJKRivzswhAYGxp7W8Gu6jdwny0jBy/chiA9Sd4R8fSAeGfr3x+oGC21pb9fT3GEK3qejb3faHPzlE8m4q/BmvI14+yTTHBSn4yV85DpgIJXBqx89Tia438A/17F36RW1mvSetVeAS3xfkQileCVjmUGuMB8pcl4Cw==;golqWbhs+g8DKVXPxsKDqw=="
 ---

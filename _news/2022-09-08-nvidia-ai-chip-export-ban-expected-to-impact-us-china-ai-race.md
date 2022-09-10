@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/nvidia-ai-chip-export-ban-expected-to-imp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-ai-chip-export-ban-expected-to-impact-u-s-china-ai-race/amp/"
 type: article
 quality: 104
-heat: 224
+heat: 214
 published: true
 
 provider:
@@ -134,20 +134,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?531717"
         width: 375
         height: 250
-        isCached: true
-  - title: "China may step up purchases of AI GPUs from Nvidia, AMD prior to export ban"
-    excerpt: "The fresh US ban on exports of AI GPUs to China has sparked market speculation that the restriction may prompt Chinese clients to accelerate and increase shipment pull-ins for advanced GPUs from major suppliers Nvidia and AMD before a buffer period expires on September 1,"
-    publishedDateTime: 2022-09-05T06:11:00Z
-    webUrl: "https://www.digitimes.com/news/a20220905PD200/amd-gpu-nvidia.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 52
-    images:
-      - url: "https://img.digitimes.com/newsshow/20220905pd200_files/2_2b.jpg"
-        width: 1280
-        height: 853
         isCached: true
   - title: "U.S. deals blow to China tech ambitions with Nvidia chip ban"
     excerpt: "Nvidia can no longer sell certain high-end AI chips that are used in large data centers to train AI models for tasks such as autonomous driving, image recognition and voice assistance."

@@ -39,6 +39,20 @@ related:
         width: 1038
         height: 778
         isCached: true
+  - title: "Machine learning hiring levels in the military industry rose in August 2022"
+    excerpt: "The proportion of military equipment and technologies companies hiring for machine learning related positions rose significantly in August 2022 compared with the equivalent month last year, with 57.9% of the companies included in our analysis recruiting for at least one such position."
+    publishedDateTime: 2022-09-05T17:00:00Z
+    webUrl: "https://www.army-technology.com/analysis/machine-learning-hiring-levels-in-the-military-industry-rose-in-august-2022/"
+    type: article
+    provider:
+      name: Army Technology
+      domain: army-technology.com
+    quality: 37
+    images:
+      - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/09/L7r5F-1038x778.png"
+        width: 1038
+        height: 778
+        isCached: true
   - title: "Machine learning hiring levels in the automotive industry rose in August 2022"
     excerpt: "The proportion of automotive manufacturing and supply companies hiring for machine learning related positions rose in August 2022 compared with the equivalent month last year, with 38% of the companies included in our analysis recruiting for at least one such position."
     publishedDateTime: 2022-09-05T17:00:00Z
