@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-11-the-daily-grind-of-the-rumor-mill-machine-learning-deciphers-fake-news.md",
+      "title": "The daily grind of the rumor mill: Machine learning deciphers fake news",
+      "excerpt": "Research published in the International Journal of Cloud Computing looks at how machine learning might allow us to analyze the nature and characteristics of social media updates and detect which of those updates are adding grist to the rumor mill rather than being factual.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-08-daily-rumor-mill-machine-deciphers.html",
+      "originalUrl": "https://techxplore.com/news/2022-08-daily-rumor-mill-machine-deciphers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/fakenews.jpg",
+          "width": 1920,
+          "height": 1046,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-08-daily-rumor-mill-machine-deciphers.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-daily-rumor-mill-machine-deciphers.amp",
+      "publishedDateTime": "2022-08-11T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-11-stratum-ai-revolutionizes-miners-deep-learning-of-whats-below-ground.md",
       "title": "Stratum AI Revolutionizes Miners’ Deep Learning Of What’s Below Ground",
       "excerpt": "Mining operators need more accurate estimations of where target minerals are located beneath the ground so they can drill and extract once instead of multiple times. Stratum AI provides a deep learning algorithm to better model the exact location of where wanted minerals are located underground.",
@@ -1416,58 +1459,6 @@
         "AI",
         "Machine Learning",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-how-deep-instinct-uses-deep-learning-to-advance-malware-prevention.md",
-      "title": "How Deep Instinct uses deep-learning to advance malware prevention",
-      "excerpt": "cybersecurity provider Deep Instinct has announced the release of a deep learning-powered solution: Deep Instinct Prevention for Applications, a new on-demand antimalware solution. Deep Instinct ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/deep-instinct-deep-learning/",
-      "originalUrl": "https://venturebeat.com/security/deep-instinct-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1273354471.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 805,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/deep-instinct-deep-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/deep-instinct-deep-learning/amp/",
-      "publishedDateTime": "2022-08-02T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

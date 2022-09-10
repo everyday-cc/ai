@@ -35,7 +35,12 @@ related:
     provider:
       name: Discover Magazine
       domain: discovermagazine.com
-    quality: 34
+    quality: 54
+    images:
+      - url: "https://images.ctfassets.net/cnu0m8re1exe/50eQHRhqMGHvrAcjjpcb8R/63ec61777bf72ae307833dbc8c2bd59e/shutterstock_1195373032.jpg"
+        width: 1000
+        height: 700
+        isCached: true
 
 secured: "44bJstXyqSmzqyynqQ2PMRZm/LVO5GNaG8dJwRi/xpwLqc5oxdCxu23JAvHO+e/6AvNyTGumz4YSdzQZlg1q8D0aVptE7f+BiiOol3eH0qKruCle6P2pcNLOQbJLqfkDPtuRLaPauuPhAsD6m46PI+le2dGhdpneDPDpyH+g0GlO2/VoFbFGlhIKkzBdFqGSe+hbq53C2vnFoRdyhukCW8OxgcNk+tQlj+SdU6PESabHm6tOvw4K+6lJGjG5fkcqiYBGLtMQaIbe48J7vQueU389wTRX6D2NUQ/1LsfnlyMaDQRzBUrsIR439Mp8R7k0WBD2gjbe7z4FJnmHXEjS8eOGm0R8Efw4jRCvA/aW08fez2HhULQxi4kCfvkEwP6/wZ+PvGZQOSXdQZv9QB7tcUrRN0ENdzJntcT4U+nE0guu/V0H0oGLNha8N3YfrNmMTSgTzPemunyMWxGChGPwBwOFPz2c/vHV+ucG4zNaqNbuOHALEtzBguELOrrIrA0r+MmESKrdyh7USpCwfEoYnQ==;lf1hV9SZuZXHR3nn4WZ3fA=="
 ---

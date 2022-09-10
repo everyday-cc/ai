@@ -2,26 +2,28 @@
 category: news
 title: "3 takeaways from King Charles' 1st public speech"
 excerpt: "King Charles III gave his first public speech after taking the throne following the death of Queen Elizabeth II."
-publishedDateTime: 2022-09-09T22:54:00Z
-originalUrl: "https://www.capradio.org/news/npr/story?storyid=1122164052"
-webUrl: "https://www.capradio.org/news/npr/story?storyid=1122164052"
+publishedDateTime: 2022-09-10T03:53:00Z
+originalUrl: "https://www.iowapublicradio.org/news-from-npr/2022-09-09/3-takeaways-from-king-charles-1st-public-speech"
+webUrl: "https://www.iowapublicradio.org/news-from-npr/2022-09-09/3-takeaways-from-king-charles-1st-public-speech"
+ampWebUrl: "https://www.iowapublicradio.org/news-from-npr/news-from-npr/2022-09-09/3-takeaways-from-king-charles-1st-public-speech?_amp=true"
+cdnAmpWebUrl: "https://www-iowapublicradio-org.cdn.ampproject.org/c/s/www.iowapublicradio.org/news-from-npr/news-from-npr/2022-09-09/3-takeaways-from-king-charles-1st-public-speech?_amp=true"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Capital Public Radio
-  domain: capradio.org
+  name: Iowa Public Radio
+  domain: iowapublicradio.org
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://media.npr.org/assets/img/2022/09/09/ap22252636560114-8e71d7cba211b79cbb8a89e3a2ba312284a0d8f5.jpg?s=6"
-    width: 948
-    height: 710
+  - url: "https://npr.brightspotcdn.com/dims4/default/a431d2a/2147483647/strip/true/crop/5264x2961+0+0/resize/480x270!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F09%2F09%2Fap22244099947492_wide-1c2558ea03e904c797feb64d36dbd490e729611f.jpg"
+    width: 480
+    height: 270
     isCached: true
 
 related:
@@ -163,6 +165,6 @@ related:
       domain: harpersbazaar.com
     quality: 2
 
-secured: "DXqoJr680bzOwpEfWwKPadw2ghUyv31kh3w0zKUrITUpv9Rh9NoUaLZYJvYw+tfFk/b3IGM6vB6zRnTsunEV8sq8IDHSMYU4uBQCvoZBig1YzN9LyN48iSPeWlFGKIVaexmxkeb0OjQ2GIklP7iJmw/pQwgfslixk55FSIn5XSbbbBZV5YT43k317n2dMT9ig5emoxHdIddueAwZbGvA8QCIblSxN1BkmY78wdSwUbuY79HfaWEjaw3Wp0q1SRIjkD//WGzwX+NeGzdOiPDhfm+zNqXAyZluvuOnHpYR2GGnFfE1sD2tb9j8FhE0QEumk0Obs0SeRJ/J1XtHq1GLiEqSg1lILmm3oOPoHgpudIx1BakRt9+2AmjSbS6kirT2ymCWjl64erUe4G5Vlb3HSpSO9uNAAYnwGBUQJvbZs5FVc8aCkUBE9pur9O4zXhaRHSMhWAgjG35Sxs6cYB/21W+lpUA1FAWs0Dq8zy3c5eFdmeb6qPXlopAgEif7eis16EyTZREw15U1zoA0Qu/fCg==;Y8BpZSU8ePnepZywjBLnHg=="
+secured: "EVJAcbBWlsWbL1Cwq39WTaJWURRrSZpZRFBbYOLv4//3ci3nM/nfv/j/FKuJPOON3OXcY7yOAlKJ0KmK3t2zk/MJ1PyoRCukD+p5X4jPHIxTC9KDHuIAOPzVdcXT2AwbGU52dHqQz5m8X5hmDRJppGcrwj9lehRCyEKxlcRSf2T3gzF/yoTkObD9BI2+XY3RPxoukmNf1AleqSHrf0gl03nZX8d2ItfvLNKooSUyGunR+ofu3yDsbxIYL+02PgLuxv3rR7GhsSbuV6BEmmYfmxKC1VDImCro3yKS1hW9bLL6QZwyXv8sHXCsey+scni/Wtsz72n9nw7ZV98PkEDft3b1+E93XrIVkHo0xqjbLg8=;kZT3egbO5HXG+91IzRzDhA=="
 ---
 

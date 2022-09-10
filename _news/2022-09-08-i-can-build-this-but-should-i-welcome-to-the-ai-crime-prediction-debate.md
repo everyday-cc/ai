@@ -8,8 +8,8 @@ webUrl: "https://diginomica.com/i-can-build-should-i-welcome-ai-crime-prediction
 ampWebUrl: "https://diginomica.com/i-can-build-should-i-welcome-ai-crime-prediction-debate?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/i-can-build-should-i-welcome-ai-crime-prediction-debate?amp"
 type: article
-quality: 56
-heat: 56
+quality: 58
+heat: 58
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2018-06/problem.jpg"

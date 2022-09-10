@@ -624,48 +624,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-06-new-ai-based-smartphone-app-may-detect-covid-19-infection.md",
-      "title": "New AI-based Smartphone App may Detect COVID-19 Infection",
-      "excerpt": "Novel smartphone app using artificial intelligence (AI) can help detect COVID-19 infection in people’s voices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/healthwatch/new-ai-based-smartphone-app-may-detect-covid-19-infection-208511-1.htm",
-      "originalUrl": "https://www.medindia.net/news/healthwatch/new-ai-based-smartphone-app-may-detect-covid-19-infection-208511-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.medindia.net/health-images/indicators-that-your-covid-19-anxiety.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/healthwatch/new-ai-based-smartphone-app-may-detect-covid-19-infection-208511-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/healthwatch/new-ai-based-smartphone-app-may-detect-covid-19-infection-208511-1.htm",
-      "publishedDateTime": "2022-09-05T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-06-emerging-technologies-in-automobile-industry-to-push-in-vehicle-ai-robot-demand-states-factmr.md",
       "title": "Emerging Technologies in Automobile Industry to Push In-vehicle AI Robot Demand, States Fact.MR",
       "excerpt": "To learn more about In-vehicle AI RobotMarket, you can get in touch with our Analyst at  Key Segments Covered in the In",
@@ -1174,6 +1132,58 @@
         "AI",
         "Machine Learning",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-09-05-its-time-to-embrace-the-tech-that-could-confront-the-crisis-in-aging.md",
+      "title": "It’s time to embrace the tech that could confront the crisis in aging",
+      "excerpt": "For the elderly, AI can enable independence and mobility, reduce need for caregivers, and detect important changes in health and activity.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/its-time-to-embrace-the-tech-that-could-confront-the-crisis-in-aging/",
+      "originalUrl": "https://venturebeat.com/ai/its-time-to-embrace-the-tech-that-could-confront-the-crisis-in-aging/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1251551899-e1661531292108.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/its-time-to-embrace-the-tech-that-could-confront-the-crisis-in-aging/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/its-time-to-embrace-the-tech-that-could-confront-the-crisis-in-aging/amp/",
+      "publishedDateTime": "2022-09-04T20:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

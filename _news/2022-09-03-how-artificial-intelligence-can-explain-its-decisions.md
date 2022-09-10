@@ -18,7 +18,8 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
-secured: "KHRpMOQ0SQ3i3iSV2CL8zHv5+0VeYj9egbb2iYXArbGOGGrYOvqoA7qRK5MLJ+e3tbG1Ru26JrN1cTAJJtohOr2z6341mE+12QAwt2/N5+i2CQ4kzfPDzSEuNhuTfbv/9Wuh4aRAbZMVJUuYRcplLyUHA4hFDDBXwYn605A6fWNegEEj6Vm5QZKuOmG7b1kxLjhB8vLgERNxBTMZiVxJmuyu4Fchwz1i+4K6weJi84O1wYNkrF23kfhtYu4NgoqpJJR+YskEc6Cgt/yRh32el3DsLo1L7C0mVC6RnihQ3GEAHRq+2GVwpN/zSzXXnw4T/EHRiDTQ2iuz03AMyrRm/tQCwgHOtZb9gwbi4B9Nxhk=;LkIbtHR0YrRFLlLKzZhd/g=="
+secured: "+LgU2i2gneNErzFAv0O2xFd4jpnyknM4hPVp+A4Cv6VdyH4n6TWelsGmbgPv/LKTT0QTQO+i+4JoN6sWvEAAWyJPWAslXMJPVv084E6w3BjqIB1oNsNVrgINqM3w3htVwZuNZqI8vfdCvH3FFTgXPiqXkxdMML9Crro9xd+uI9ygyMeRN9b0n9vQE2dQuBlr9fhOkGvPs27x2Fbx8KRseIR5qagDA8FwngRtGEdclWSh12R0b50xyoCVb1fFBAuzP3cjSu/zexG0yABYkWoo4nJ3mKqHCvt/cVC4Hiy6Z5F6meRVgFVf7vkfivmRxurg8fqY05zciWu++4PyaAICLBZmINDl//lcvFyfAuip444=;nbrWdD4drVXocFIrKSjM7w=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-05-31-scotiabanks-perspectives-on-aiml-governance-and-future.md",
+      "title": "Scotiabank’s Perspectives On AI/ML Governance And Future",
+      "excerpt": "This is a five-part blog series from an interview that I recently had with Grace Lee, Chief Data and Analytics Officer and Dr. Yannick Lallement, Vice President, AI & ML Solutions at Scotiabank. This blog focuses on AI Governance and Future views of Scotiabank's AI and ML practices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/05/31/scotiabanks-perspectives-on-aiml--governance-and-future/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/05/31/scotiabanks-perspectives-on-aiml--governance-and-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//6105c099fb00ca9f0f49f14a/0x0.jpg?format=jpg&width=1200",
+          "width": 986,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2022/05/31/scotiabanks-perspectives-on-aiml--governance-and-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/05/31/scotiabanks-perspectives-on-aiml--governance-and-future/amp/",
+      "publishedDateTime": "2022-05-31T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-05-31-researchers-build-neural-networks-with-actual-neurons.md",
       "title": "Researchers Build Neural Networks With Actual Neurons",
       "excerpt": "Neural networks have become a hot topic over the last decade, put to work on jobs from recognizing image content to generating text and even playing video games. However, these artificial neural ...",
@@ -1300,50 +1352,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-at-300-cagr-deep-learning-chip-market-is-emerging-with-us-2131-billion-by-2027.md",
-      "title": "At 30.0% CAGR, Deep Learning Chip Market is Emerging with US$ 21.31 Billion by 2027",
-      "excerpt": "The Global Deep Learning Chip Market 2021 Research Report is a professional and in-depth study on the current state of Deep Learning Chip Market. With the",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/at-30-0-cagr-deep-learning-chip-market-is-emerging-with-us-21-31-billion-by-2027",
-      "originalUrl": "https://www.digitaljournal.com/pr/at-30-0-cagr-deep-learning-chip-market-is-emerging-with-us-21-31-billion-by-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/4ba28c3d33d39eec6ca39ee6ec73278277796002-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T01:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

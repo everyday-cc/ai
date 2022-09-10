@@ -6,7 +6,7 @@ publishedDateTime: 2022-09-09T18:00:00Z
 originalUrl: "https://www.discovermagazine.com/technology/robots-and-artificial-intelligence-have-ancient-mythology-origins"
 webUrl: "https://www.discovermagazine.com/technology/robots-and-artificial-intelligence-have-ancient-mythology-origins"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI
   - AI in Robotics
+
+images:
+  - url: "https://images.ctfassets.net/cnu0m8re1exe/50eQHRhqMGHvrAcjjpcb8R/63ec61777bf72ae307833dbc8c2bd59e/shutterstock_1195373032.jpg"
+    width: 1000
+    height: 700
+    isCached: true
 
 related:
   - title: "From farm to fork, thanks to … AI and robots?"
@@ -36,6 +42,6 @@ related:
         height: 495
         isCached: true
 
-secured: "6bkei5fGm0NYxEEni7y0iDe9mh1y86s29rd7tg/PyqkjykRXffzgzmZipascRGFHw3FT6PVEBgbgcbo5nxns8HNH8mby9xljiKjrE9/7ThUiNqcZavcf7Xr2H+POlmUpZ2yqI6DfPNUXvMtLd0+UfYkxP9dLKMH4qaklhHU0lrwtU8V2iAz+zECFht19i9ohwT342FTAJ2GpQHJqbmKz8UBJ3ol+wuOiQ/D89AGakq5rnQGfQXpOy8RyEnwb1QHoLkt2GFV5jfl09aiu9yqjKzo2rVezUiOJ/PsF6hHCw9S7Gc3J/ZVxdgzfTXCaPzBRvowIkX9X6PnM6ZPvsEUw6rf1bUB0kxKMdpiJoNCUxZI=;yEGL2BX6xwNLk58Zc32n5g=="
+secured: "uekFDpEeIxGcHhvjKPL94hoAtTZ0WSJV4xVNORE0iwEW6ThoxiASq9msDsKpJPmqtReOA10tUJI0J0ZmBsTK7f9LjLD5EGsMzgTAU8vZ+tUXEXTdbDRE++LRpqLj6qsuO2OfwTD7e3i9CioFm2ZBRAv8uvQht4Pl2OTurawxbPr47D/K+0gmG5WwaaVuGQ9wzICXU8uKFBoPWr59zjD7cQdXWYKQUnbA4NkLwnyX7nDvDmy+vYlbDn9l+jlX4PrF2wj7hBQH01xkdM2esz5cPkmc8SrjW+mPQaxGaY3e3RsyymEzGRFCsObYRzrMEeY/vypIM6FPDeM2BfnD9s/kgGmffsl55jguXSxObEqUWl4=;sH9zTkFPUD7VoKZecCVFiQ=="
 ---
 

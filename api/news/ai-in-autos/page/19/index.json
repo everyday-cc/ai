@@ -2,6 +2,49 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-05-11-driverless-cars-will-need-l-plates-or-flashing-lights-to-combat-widespread-fear-and-distrust-report-finds.md",
+      "title": "Driverless cars will need ‘L-plates or flashing lights’ to combat widespread fear and distrust, report finds",
+      "excerpt": "Scientists find public appetite for self-driving vehicle trails far behind that of the technology companies and steps need to be taken to make them a success",
+      "sourceUrl": null,
+      "webUrl": "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=more_from_this_author",
+      "originalUrl": "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=more_from_this_author",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.inews.co.uk/content/uploads/2022/05/SEI_103377065-1200x630-pl-exclusive.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=more_from_this_author",
+      "cdnAmpWebUrl": "https://inews-co-uk.cdn.ampproject.org/c/s/inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=more_from_this_author",
+      "publishedDateTime": "2022-05-11T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "i",
+        "domain": "inews.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-11-brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car.md",
       "title": "Brands matter: Why trusting an existing brand can lure you into buying a driverless car",
       "excerpt": "where artificial intelligence takes control of all driving functions, still faces significant resistance. Safety is consumers' main concern. Indeed, a recent study found 43% of people in the United States do not feel safe in a driverless car. Even though ...",
