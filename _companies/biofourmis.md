@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 50
+heat: 58
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "6g5KbqW6LkSnpXVDIPMmI1otIkjPnfOuzfDCR2HqqLpr+DdS8deQ+krEcuOOSGWZrsKrbyJF8QfyWMAvJ0kQhgDd7JjjqIUDncna0Y02gXhjCvwjLNp3azqeBrdQx17kczuVGFFXfrUwEyN/zsVvaTqS8A7sZPpeRmCdQvMxejw8oEdxv9vnb46Do+GmuX4lJ7HuPwooxnsn3IQtHw3bJRv8w5GyOCZFFXoB6PUR+HA3C4JqpzdXwcPaZNfD6md8AagHqXzqfzjzlcWbmKHgQWRxfmarkAJX7eAg2WdYEyeAvwrduKi2TqFHyqeFXIVDcdsa1iR/JCBkUkviiS8wE86Xp9a+jF+wVLYBlj2sPIDOIJbcENYzXUEGXdm7Opos4HceCbmOH6eXS6hLrA5LVrNO5/hZHGbQbWUmI2HlxfE=;ZuhO9jrYOYlOfKSwZjLJAw=="
+secured: "04WfMrWAt5lkMaWTWWaw+UKCDycigBnMfdzrlfB6g/a4MC8tcEvh+ogdcqUzjuJ/YQoClxd6dWbGc1PGu68Rgl4v0afXj6JSmW3VfU4+KQtTuZkySl6N2J9pgRelfMpfntmAPKRQhjNPG+FispcB1gVbA3BeAV+y05rC3zakI3v/urR0CORyC4Wlq6CayeodmMt6CCFj/2Fh+TF6KWabhL9Xb+vCbxbnyXvgnnSjrqxfXip4Znu1qdEpS+bJxXPOc4ilZNUg7upUtRBwY9+i8YN2Ck3Eg36b71cXRxzhBUm8NWFvCUEtSHTYH1H4qfDHxxFceTV2EE5pXXkdHOtOiDViFy8pkD2OEZhZvsCXMqY801BUnkWM691e2kiCZrX8qWhw9CSGMdi3/ypK4TK9InSQ7vVBFXUQWE12eDhG77w=;Jj3AIOLoKw+sIA+PCEdFGw=="
 ---
 

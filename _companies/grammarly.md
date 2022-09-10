@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "grammarly"
   url: "https://twitter.com/grammarly"
-  followers: 223418
+  followers: 223426
 
 size: 201-500 employees
 yearFounded: 2009
@@ -38,6 +38,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=N8_AvBRhIGE"
 
-secured: "CIqVZUQW7O7aX4DTnOtShF8tpte9cDS7OSyCDWqxO02/WIe1oiCnGuvW4O+lA4g/BXaOwp203rQE7Kyo+BidVmtHtm8cADG9qL8SuLBvhFcMW6OeRWFOszf2sKDhtAYMWzrsd/NYXlJykUi9OG1hWwloFoUJyKtkdreYZ6+nNuXUPPPp6YnCIPPLtWyuGsCGrTyZZAPvXt42JO6vbAmTzRE1iSW/RWnQ1/X3rpkIUv4dC+czY7KaNZd/BSygvqGxsvBKgNFMgFYb7QPCrjGwqRFvuASTO9h3nLWCJtCA8ioFQgQ5RVr4XNPp/tCe49uScipk4PCLtMyZ9l0w6ZqTBgHZJIeFCwojBMp++rovBcQyDHAavzRzePRCSiepjahxEuSBtJPhPyPUD7TxOw0oeYJMiVqHnkILlBTHiugOiS4=;FYUE6VcR1SM79t1+8N2sPA=="
+secured: "2lvIqTSde9ELHA8xRnYAuHuAmnpZNZEimFiOQQSt4fI/B0dl0/F9mXZSOK4ckeRN5NUPHdrcnL0g9gahSWJlSibiqkrZIpb1sUYxjW8vRoYYNj5BOXaYQMXfAoP5KGAzyamVJayzrBIv0v8XokO/4XT4WfQOd4AFGy7hPLFbx0fqFz0vlodjwlTqD+OKR9KhM8p0a7lojIh2OPsHkyfHrWZ0IFgjwGGRxD2RXFNO5h5tVDp4/BRbZs9/5huG1chN9DWI3qLeKcoDagPM0am4e9Qq+anDNUVPwPROdENLJAuYJ2//FLQrYPCiPRnL9h9m32pKEkFA0gEl2xR/BPFjO+Y7tFwuhmMIGGb16/NXXkjHVRkal6VB4VrxbxVaB87JqIjGdH0T9yWJncJZbDI0pQaqJgwGtiHvl/UuC4gzdNM=;W/OyJ6UrKjFK63SlYVXsJg=="
 ---
 
