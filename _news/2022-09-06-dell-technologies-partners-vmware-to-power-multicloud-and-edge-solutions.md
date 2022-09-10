@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Dell Technologies Delivers Industry-First Innovations with VMware to Power Multicloud and Edge Solutions"
-    excerpt: "Dell Technologies (NYSE: DELL) is introducing new infrastructure solutions, co-engineered with VMware, that deliver greater automation and performance for organizations embracing multicloud and edge strategies."
-    publishedDateTime: 2022-09-06T04:07:00Z
-    webUrl: "https://indiaeducationdiary.in/dell-technologies-delivers-industry-first-innovations-with-vmware-to-power-multicloud-and-edge-solutions/"
-    ampWebUrl: "https://indiaeducationdiary.in/dell-technologies-delivers-industry-first-innovations-with-vmware-to-power-multicloud-and-edge-solutions/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/dell-technologies-delivers-industry-first-innovations-with-vmware-to-power-multicloud-and-edge-solutions/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 27
-    images:
-      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1"
-        width: 534
-        height: 462
-        isCached: true
   - title: "VMware partners public cloud providers to ease multi-cloud complexities"
     excerpt: "The new cloud and edge infrastructure solutions by VMware will help businesses accelerate their enterprise cloud transformation."
     publishedDateTime: 2022-09-06T23:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/is-intel-labs-brain-inspired-ai-approach-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/is-intel-labs-brain-inspired-ai-approach-the-future-of-robot-learning/amp/"
 type: article
 quality: 110
-heat: 110
+heat: 111
 published: true
 
 provider:

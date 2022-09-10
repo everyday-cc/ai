@@ -6,15 +6,23 @@ publishedDateTime: 2022-09-09T12:04:00Z
 originalUrl: "https://www.washingtonpost.com/business/artificial-intelligence-couldbe-agreat-equalizer/2022/09/09/bd246350-3037-11ed-bcc6-0874b26ae296_story.html"
 webUrl: "https://www.washingtonpost.com/business/artificial-intelligence-couldbe-agreat-equalizer/2022/09/09/bd246350-3037-11ed-bcc6-0874b26ae296_story.html"
 type: article
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Washington Post
   domain: washingtonpost.com
 
 topics:
-  - AI in Healthcare
   - AI
 
-secured: "pXFp3q6IVuTof03AN37+sw85ltbVQJowNQflJtl1ydPHmqYioWMKkH2qO/kNsYsJLN3KxUcDbG+R8MvHdLYAq0lDu+YiGMlisEwsEDxW+WrQHtEekTqwv1/Vpy0xrGMAng1RnF7Pk9fn9KRKhlcU7vKrPoEBZWop+1mXap7uG+gJqRikgMcVC6Pf1VhQQWxkIROerHIcLPKgm3kp0cJgfGK5tFV+C7k9OuqxHgBRs5Q6j1P0tVNtSRsfgi0f6QKRh/unMpzEzVkhLjcRoPGavDq70HAlX9bxUTml4iw8uOf4nc2jktl/o0QHSxvexYt3beqPpGOoak+JUogRspEcAM67Fk1+wVSPqR6oKnyqH24=;GbAqSfg4nW1sqnNM/aizbw=="
+images:
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
+    isCached: true
+
+secured: "OVkYlZ5FqqcWmW8jWA/otyYyBZ/mFU6O/O6uSLXKS3H2k47iPwPuftxqzvd7wGiJkuTETheCQ4cCGdx/HrUADWubjfYgI0No8s4YaOH5nX4lLxp15maLOeNdFSpK45dxcTYxaYQIlX2IRZlZxaazmZFHRS+odBJ2OlDvY8iBQ5IVsise98HtoWh4Ai8VqB5mwtBkWWnYwJE4q89PBP64YeWNXsznAqGp0SyzQ+U9AKnj/JIa2+oFjGKMvUtqvjQfahqTwGXiRNpkky+9MHfkk2OIgIAZx8TnraYpiQORi/19FyfF4fe5aDMizraEuhgpe0PE6rPd6/ZxZyk6XjtYZRk2mm4DwjRZzjhhFpzDWWo=;Is1MEdoAyt73iJ9Y+mVyPw=="
 ---
 

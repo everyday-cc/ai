@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-09-machine-genomic-code-clinical
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-machine-genomic-code-clinical-cancer.amp"
 type: article
 quality: 51
-heat: 71
+heat: 72
 published: true
 
 provider:

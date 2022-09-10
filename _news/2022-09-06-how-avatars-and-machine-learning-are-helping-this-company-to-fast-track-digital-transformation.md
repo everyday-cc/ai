@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-avatars-and-machine-lea
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-avatars-and-machine-learning-are-helping-this-company-to-fast-track-digital-transformation/"
 type: article
 quality: 77
-heat: 97
+heat: 98
 published: true
 
 provider:

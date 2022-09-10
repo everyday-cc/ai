@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "RBI’s lending norms draw mixed reactions among fintech experts"
-    excerpt: "Former MD and co-founder of fintech firm BharatPe Ashneer Grover has criticised the apex bank’s lending guidelines."
-    publishedDateTime: 2022-09-06T02:07:00Z
-    webUrl: "https://www.newindianexpress.com/business/2022/sep/06/rbis-lending-norms-draw-mixed-reactions-among-fintech-experts-2495329.html"
-    ampWebUrl: "https://www.newindianexpress.com/business/2022/sep/06/rbis-lending-norms-draw-mixed-reactions-among-fintech-experts-2495329.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2022/sep/06/rbis-lending-norms-draw-mixed-reactions-among-fintech-experts-2495329.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 44
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/8/28/w600X390/RBI_PTI14.jpg"
-        width: 600
-        height: 390
-        isCached: true
   - title: "Automated Data Science and Machine Learning Platforms Market Inclinations and Development Status Highlighted During Forecast Period 2022 to 2027"
     excerpt: "Report Ocean recently added a research report on the Automated Data Science and Machine Learning Platforms market. The report includes an extensive analysis of the market's characteristics, COVID-19 impact,"
     publishedDateTime: 2022-09-07T10:30:00Z
@@ -114,6 +98,15 @@ related:
       name: Fintech Singapore
       domain: fintechnews.sg
     quality: 19
+  - title: "Bring order to the Fintech chaos"
+    excerpt: "As a result, the Fintech boundaries even blur into other sectors. All this means it becomes very hard to speak about Fintech as a whole. When things get so messy, categorization is a typical human reflex."
+    publishedDateTime: 2022-09-06T20:42:00Z
+    webUrl: "https://www.finextra.com/blogposting/22866/bring-order-to-the-fintech-chaos"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
   - title: "Speech Recognition Market 2022 Industry Challenges, Business Overview and Forecast Research Study 2028"
     excerpt: "In the Speech Recognition study report, the market for the pertinent time period is in-depth analyzed. In-depth competitor analysis is a component of Speech Recognition market research, as are investigations into the background,"
     publishedDateTime: 2022-09-09T16:55:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-10T18:16:00Z
 originalUrl: "https://www.heraldextra.com/news/community/2022/sep/10/their-voice-honoring-direct-support-professionals/"
 webUrl: "https://www.heraldextra.com/news/community/2022/sep/10/their-voice-honoring-direct-support-professionals/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Daily Herald

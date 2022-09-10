@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-10T19:35:00Z
 originalUrl: "https://www.financialexpress.com/industry/technology/tech-now-logy-get-artistic-with-artificial-intelligence/2662236/"
 webUrl: "https://www.financialexpress.com/industry/technology/tech-now-logy-get-artistic-with-artificial-intelligence/2662236/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Financial Express
