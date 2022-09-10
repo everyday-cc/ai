@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-size-2022-3402-cagr-latest-trend-share-growth-competitors-and-forecast-2022-09-07"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Chatbot Market 2022 Size, Share, Industry Top Leaders, Growth Factors, Trends, Competitive Landscape and Regional Forecast 2029"
-    excerpt: "The research report on the Global AI Chatbot Market 2022 provides consumption market share by region, segment analysis, revenue estimates, production capacity by region, and size estimates. The AI Chatbot Market report also includes recent developments,"
-    publishedDateTime: 2022-09-05T07:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-chatbot-market-2022-size-share-industry-top-leaders-growth-factors-trends-competitive-landscape-and-regional-forecast-2029-2022-09-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

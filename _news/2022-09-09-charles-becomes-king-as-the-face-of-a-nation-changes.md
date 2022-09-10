@@ -91,6 +91,22 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "King Charles III Addresses the UK After Queen Elizabeth II's Death: Read His Full Speech"
+    excerpt: "In the speech, Charles acknowledged the \"profound sorrow\" both he and his family and the world were feeling in the wake of the queen's death. He also vowed as king to \"endeavor to serve you with loyalty,"
+    publishedDateTime: 2022-09-09T22:47:00Z
+    webUrl: "https://www.whas11.com/article/entertainment/entertainment-tonight/king-charles-iii-addresses-the-uk-after-queen-elizabeth-iis-death-read-his-full-speech/603-cc837c08-c84c-4c1d-8e06-19eac65ef538"
+    ampWebUrl: "https://www.whas11.com/amp/article/entertainment/entertainment-tonight/king-charles-iii-addresses-the-uk-after-queen-elizabeth-iis-death-read-his-full-speech/603-cc837c08-c84c-4c1d-8e06-19eac65ef538"
+    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/entertainment/entertainment-tonight/king-charles-iii-addresses-the-uk-after-queen-elizabeth-iis-death-read-his-full-speech/603-cc837c08-c84c-4c1d-8e06-19eac65ef538"
+    type: article
+    provider:
+      name: WHAS11 News
+      domain: whas11.com
+    quality: 35
+    images:
+      - url: "https://media.whas11.com/assets/ETONLINE/images/683db480-44b6-49b4-bdf6-d391e8717a47/683db480-44b6-49b4-bdf6-d391e8717a47_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "3 takeaways from King Charles' 1st public speech"
     excerpt: "King Charles III gave his first public speech after taking the throne following the death of Queen Elizabeth II."
     publishedDateTime: 2022-09-09T22:54:00Z

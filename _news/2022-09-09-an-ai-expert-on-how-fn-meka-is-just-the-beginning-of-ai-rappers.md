@@ -8,8 +8,8 @@ webUrl: "https://www.okayplayer.com/music/fn-meka-ai-rapper-tiktok-controversy.h
 ampWebUrl: "https://www.okayplayer.com/music/fn-meka-ai-rapper-tiktok-controversy.html/amp"
 cdnAmpWebUrl: "https://www-okayplayer-com.cdn.ampproject.org/c/s/www.okayplayer.com/music/fn-meka-ai-rapper-tiktok-controversy.html/amp"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Ethics
 
 images:
   - url: "https://okayplayer-wpengine.netdna-ssl.com/wp-content/uploads/2022/09/JAY-Z-and-Jack-Dorsey-Gave-1000-in-Bitcoin-to-Hundreds-of-Marcy-Houses-Residents-692x376.jpg"
@@ -26,6 +27,6 @@ images:
     height: 376
     isCached: true
 
-secured: "oeCQZY4QMgsRJXLoT9BTeY2hd5v6YSVNsCgrVHY4e2qRKgiDIi6Lq/cYoEkFoPspf+CtGwx9XUpHTwX6sRLwk3v8/KqDczWIA9sYR1vm/8PWd5cDeSQCVXkZ0+9LweCgcT9Qz13STbDvzVeuztEOXRJe8qXHANgjcjRXI4KYN7Pnp/dD3CkphpcywVQt3qzSvgGiKNTO/t8THrkuCvco0CEpNmdc5FL15xja4vUNCAybldnLQ/dDAzusWcI9/NjFEkGe99BJlPk1cVg2XpSicu72l0Ft/y83/WjsSU52eSqNWbIW8e49uw3kclemlpttWMxPUyzWXFGLhgkd6NpER1KQNoGL43FWrWPxN0ibO7Y=;vUj3UgrNAFhKxfKwutDo0w=="
+secured: "/XouIkXlWnYuF0fIq1jOmsnN30bEnEl7Ks9lsGkbUKL+iGBgXaIE6vFy+8IZ4VJ4J4sgTSefCd3F4YMycqT0adOH1MID1tdFz0TkicnI9BIWEVBJL0k5PwmMiHsM4DNlXWYOqNkq6cTGfZ/z4k9kaKWp0Bng8LANS2sjjnZ8kDKYxwPbo4lUKctp+zikJaERVcITYGZel4JI4rwyQ9OEHUJoHGCX/6k/2XT+1YonBqhuySLYwe7QLf/tIMpwUIP9XG4fbJxfF3rBUZhDVBfumfp3f0rEgNtFIBSbH4cx14EqjzAag2FIxhriDN30onD0/isXwZDAA5qERVhyXbh+5YekMC/n57KIub+UA0f5OYYekC9K+RIA0S1+RBVFJSRQn3k3tBZqXfo8IFpXqqK/tzcaFlIaEVIUeU7GF2EiPeq2dNiDkQZkInVGYZ6fYBHasvOwoDUnRGjLEHY2DekqroHKObZtslXbn5EGyO4nMknj/WvyoGIOQfdyIfRi5WE3ExTyt+W3BWo4BXyS8clysg==;Q03/KHQl8oclxxGFHKyGJg=="
 ---
 

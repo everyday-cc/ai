@@ -61,20 +61,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Chatbot Market 2022 Size, Share, Industry Top Leaders, Growth Factors, Trends, Competitive Landscape and Regional Forecast 2029"
-    excerpt: "The research report on the Global AI Chatbot Market 2022 provides consumption market share by region, segment analysis, revenue estimates, production capacity by region, and size estimates. The AI Chatbot Market report also includes recent developments,"
-    publishedDateTime: 2022-09-05T07:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-chatbot-market-2022-size-share-industry-top-leaders-growth-factors-trends-competitive-landscape-and-regional-forecast-2029-2022-09-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence of Things (AIoT) Market Size 2022 Overview, Manufacturers, Types, Applications, Share, Growth Rate and Forecast 2027"
     excerpt: "A new report released by Market Research Update is Artificial Intelligence of Things (AIoT) Market 2022. This report provides up-to-date information on the market and also pinpoint all the opportunities for Artificial Intelligence of Things (AIoT) market growth."
     publishedDateTime: 2022-09-06T11:37:00Z

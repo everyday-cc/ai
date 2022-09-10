@@ -1,49 +1,24 @@
 ---
 category: news
 title: "How artificial intelligence can explain its decisions"
-excerpt: "Artificial intelligence (AI) can be trained to recognize whether a tissue image contains a tumor. However, exactly how it makes its decision has remained a mystery until now. A team from the Research Center for Protein Diagnostics (PRODI) at Ruhr-Universität Bochum is developing a new approach that will render an AI's decision transparent and thus trustworthy."
-publishedDateTime: 2022-09-02T17:53:00Z
-originalUrl: "https://techxplore.com/news/2022-09-artificial-intelligence-decisions.html"
-webUrl: "https://techxplore.com/news/2022-09-artificial-intelligence-decisions.html"
-ampWebUrl: "https://techxplore.com/news/2022-09-artificial-intelligence-decisions.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-artificial-intelligence-decisions.amp"
+excerpt: "for example to be able to distinguish between certain therapy-relevant tumour subtypes,\" concludes Axel Mosig. Ruhr-University Bochum. \"How artificial intelligence can explain its decisions.\""
+publishedDateTime: 2022-09-02T18:18:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/09/220902103300.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/09/220902103300.htm"
 type: article
-quality: 78
-heat: 88
-published: true
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI
   - AI in Healthcare
-  - Machine Learning
-  - AI in Autos
+  - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/how-artificial-intelli-1.jpg"
-    width: 1607
-    height: 769
-    isCached: true
-
-related:
-  - title: "An Analysis of How AI Processes Its Information"
-    excerpt: "To achieve this, they supplied the AI with a vast number of photos of microscopic tissues, some of which had tumors and others did not. Neural networks are initially a black box: it’s unclear which identifying features a network learns from the training data."
-    publishedDateTime: 2022-09-05T15:06:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=13212"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 41
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_13212_16623823199229984.jpg"
-        width: 804
-        height: 536
-        isCached: true
-
-secured: "x2LLYK8oUFDS3tHeSvBt+LqcCg4UjcXjBIphRAc1tO8verMmSRD97+rWvASZDwqZ9RxOjUrBKz5DosRL5QloDy/jhWXYkIwajxi99eN+9HRM8c1vlEnaWWWEp5PE4kieF3uvakHkmyT5z2at6JPiuS8hWS4d2D3FESHeI2GpwzMllPsH7Nnlt79otu6jSyUafF+RQ/AhQ13MnYxBvDKTn2X4z86BM0hSw6kS3rSxMWYKN71F23kqKugiGcaZzl8hqbJicLTaHWJUHkzhSpVKlxIC/ZrM81EktjVjFXA776BIVB/4P8n41scLV99Tqw/8S9MLnPvp4fGKSTavqD+2QHbNn5Ha60gx6UtQnumFm7YNGqNKJbrC4QRvySpudakIj8iXrthtGvtd1b+W7chjmZ9I4fby9EprjkBt7wBct+Pp2fGQKOsnhjJYKCdLVemEocXRlhP+8asL+lGy3tAIc9V2FiMdk8kCcuFjiIX1lGXo+aqfBuNHAXmUlYwpwtHiuVgbMJGlLs4wwS0bs/nB/A==;02tmLYf7MZ/2QwIK9Bav5g=="
+secured: "KHRpMOQ0SQ3i3iSV2CL8zHv5+0VeYj9egbb2iYXArbGOGGrYOvqoA7qRK5MLJ+e3tbG1Ru26JrN1cTAJJtohOr2z6341mE+12QAwt2/N5+i2CQ4kzfPDzSEuNhuTfbv/9Wuh4aRAbZMVJUuYRcplLyUHA4hFDDBXwYn605A6fWNegEEj6Vm5QZKuOmG7b1kxLjhB8vLgERNxBTMZiVxJmuyu4Fchwz1i+4K6weJi84O1wYNkrF23kfhtYu4NgoqpJJR+YskEc6Cgt/yRh32el3DsLo1L7C0mVC6RnihQ3GEAHRq+2GVwpN/zSzXXnw4T/EHRiDTQ2iuz03AMyrRm/tQCwgHOtZb9gwbi4B9Nxhk=;LkIbtHR0YrRFLlLKzZhd/g=="
 ---
 

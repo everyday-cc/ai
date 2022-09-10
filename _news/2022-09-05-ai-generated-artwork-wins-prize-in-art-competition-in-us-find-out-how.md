@@ -9,8 +9,8 @@ ampWebUrl: "https://m.economictimes.com/news/international/us/ai-generated-artwo
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/international/us/ai-generated-artwork-wins-prize-in-art-competition-in-us-find-out-how/amp_articleshow/94010529.cms"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: India Times
@@ -26,35 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "AI-generated painting wins art award, but everyone else is super pissed"
-    excerpt: "According to reports, there was a bit of an upheaval at the recently-concluded Colorado State Fair when an art contest held during the event awarded the grand prize to a painting produced by an artificial intelligence (AI) program."
-    publishedDateTime: 2022-09-05T07:49:00Z
-    webUrl: "https://sea.mashable.com/tech/21298/ai-generated-painting-wins-art-award-but-everyone-else-is-super-pissed"
-    ampWebUrl: "https://sea.mashable.com/tech/21298/ai-generated-painting-wins-art-award-but-everyone-else-is-super-pissed?amp=1"
-    cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/21298/ai-generated-painting-wins-art-award-but-everyone-else-is-super-pissed?amp=1"
+  - title: "Art Made With Artificial Intelligence Wins at State Fair"
+    excerpt: "Artist Jason Allen placed first in a Colorado contest, generating debate about A.I.’s role in art Jason Allen, a video game designer in Pueblo, Colorado, spent roughly 80 hours working on his entry to the Colorado State Fair ’s digital arts competition."
+    publishedDateTime: 2022-09-06T12:15:00Z
+    webUrl: "https://www.smithsonianmag.com/smart-news/artificial-intelligence-art-wins-colorado-state-fair-180980703/"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 87
+      name: Smithsonian Magazine
+      domain: smithsonianmag.com
+    quality: 54
     images:
-      - url: "https://sm.mashable.com/t/mashable_sea/photo/default/ai-art-wins-award-header_uc3z.620.png"
-        width: 620
-        height: 310
+      - url: "https://th-thumbnailer.cdn-si-edu.com/ntf_sUmKl_rPqXGhceJw96gofN8=/fit-in/1600x0/filters:focal(460x307:461x308)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/91/31/91312024-89f0-46c8-91a8-b9345fd64a92/screen_shot_2022-09-02_at_23648_pm.png"
+        width: 920
+        height: 611
         isCached: true
-  - title: "AI-generated art photography is here, but it’s not going to replace your camera"
-    excerpt: "AI-generated art is here for photography, but is it up to the task of replicating real photos? We take a dive into some AI generators."
-    publishedDateTime: 2022-09-07T12:42:00Z
-    webUrl: "https://photofocus.com/software/ai-generated-art-photography-is-here-but-its-not-going-to-replace-your-camera/"
+  - title: "AI artist who won competition says art world is 'in denial' about the tech"
+    excerpt: "Jason Allen recently lit a fire under the art world. The Colorado-based artist used AI software to create art, submitted it to the State Fair fine arts competition, and took first prize. The event attracted widespread attention,"
+    publishedDateTime: 2022-09-07T15:11:00Z
+    webUrl: "https://www.pcgamer.com/ai-artist-who-won-competition-says-art-world-is-in-denial-about-the-tech/"
     type: article
     provider:
-      name: Photofocus
-      domain: photofocus.com
-    quality: 35
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 37
     images:
-      - url: "https://photofocus.com/wp-content/uploads/2022/08/jemma_pollari_ai_art_featured.jpg"
-        width: 2560
-        height: 1463
+      - url: "https://cdn.mos.cms.futurecdn.net/VECkttyB7rAa9qSkxMiB8f-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "1EWsC5OjzJq0RKD/0WrGdyFtAV1VEQhm1L2HpJx8jIivq1kFufYnLIF8elBAeITWWfa5Zyi2lBtnhf6k1g/R2xTwt6wvDjw5rcEIUBhc04QfrDdmQDTUojhPzD3BK/8g18CiNJ1p07YxpZ/Pbi4dWikS16Qc1W5x0xAXkBQewcMnJcMVDrVsib4NmC855YxBj2bmSkQMqyKrXsfv1PSWwaXRD1g1OxoCp9hcszctGvh1C2Rgot7mvZ+ZD0wnz1pUHtmcwJr2rkFwSrTw/XZtFWmcQh47D4dNnb/o3LBuQgFaaob3fZ6LXUY59o+AH/W+6JY1j2HjjkDaXYQpYYCOqEElT/tkWJDAd2GRUUuXp0s=;ISirbjYgDdWhWDkyue4G4A=="

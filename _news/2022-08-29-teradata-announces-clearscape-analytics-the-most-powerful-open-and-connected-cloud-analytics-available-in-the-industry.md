@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Teradata Announces ClearScape Analytics: The Most Powerful, Open, and Connected Cloud Analytics Available in the Industry"
-excerpt: "Teradata (NYSE: TDC) today announced ClearScape Analytics, the significantly expanded and newly named analytics capabilities that span the entire suite of Vantage products. Teradata Vantage's industry-leading analytics have long been the cornerstone of the platform's appeal to enterprise customers for its ability to accelerate data insights and time to value."
-publishedDateTime: 2022-08-29T12:22:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/08/29/9663280.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/08/29/9663280.htm"
+excerpt: "Teradata (NYSE: TDC ) today announced ClearScape Analytics, the significantly expanded and newly named analytics capabilities that span t"
+publishedDateTime: 2022-08-29T10:56:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the/article_e5c099aa-df86-5cb9-b6bb-c03fdef2e41f.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the/article_e5c099aa-df86-5cb9-b6bb-c03fdef2e41f.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "tEx3DGj3cRhGwRynLRJXE1g1raFCl4nnB5Q9+OFJ37arHTi2pOOJWEgvIGXUJX6zZukky5/Xod4wB19BvzjTkIfKdWtZYdK8ExuK39Jy6G3ocwRvX3v1ZmPlogqHawqEuwN0EVLJ3blJirBqqP/CPCl6VwGCghRxdfUp6CmSsO1HsrjNXMBNyWdZDrW0HNyA0cuhQNeUlwqn0V2T3s9BZVaSuCqootNjm2XT2tUiaL6Yhye1yW2H17cw6y0lNxwHmowGcaBElBxZAR72n3UyLKGvTgzKDzujT+fsdzPb3WIivphP5Y5YmBgigHvmNI8nTww/4cl+uOzq9wmHXJujl2YIIR4Xu/g1nWPIl+YczrA=;7wTZX/YA41m6nc8eZoqMqA=="
+images:
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg"
+    width: 350
+    height: 456
+    isCached: true
+
+secured: "wUmyRpZP6KSPQMCZOOyNIHKiMEjpS27X/TF/dnBG2aipChRZFkw0Pac4KvUFiyjSV4+gCpPH0Qo9G8VHbrriIXMPckBiP4LJtQ+A58qcj3IHURPI4bUiclx7s4cPTRaajHDfh35Yx4LYOTDSk1zLq/W5zrMuAaO6qCZnh05FQV1931Eiah2gf9xyKIsGwK3OOKkdxaXh2Efoh/W66Jd8F+l1DqT2I0QvrBGJBJdWc8oPRicCsBh1LP4WTDh8IpZgs/b9/x9bl0xvcdDNvZoK/ukJO25tRlF0BF5Cd70mgYwlFIWT+BZGrBmbYWJuFev5gPo9Bs+mhnrbDRyuek7xnmbUablXVIM2AcvAmMwzfxk=;mDYbVVFVVEPhv20hpMAd6w=="
 ---
 

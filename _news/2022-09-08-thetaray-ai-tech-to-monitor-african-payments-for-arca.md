@@ -24,17 +24,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "South Africa to launch Artificial Intelligence Institute for public schools"
-    excerpt: "South Africa intends to enhance the teaching of robotics and coding in public schools through the establishment of an Artificial Intelligence Institute."
-    publishedDateTime: 2022-09-05T08:58:00Z
-    webUrl: "https://mybroadband.co.za/news/software/459269-south-africa-to-launch-artificial-intelligence-institute-for-public-schools.html"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 17
-
 secured: "foQ+FiywQ4MZMOKBItvdNopdFdcGJDvO12Zd/2FvbIUctw3gd3VVDMlVZqOJ8XexONSCCA9md+/z6aMo1UGI0LkI2JQVLBBAnrp0Wh6hzQAfCsSVlwLuzw3U3msZc/XcF4crl6IKyi+dY2Tbao0K+TnQ1YChrSdAL0zG3G+tFW6L9lS31loqlpxFADebODZlIx7wvwN4swEja6NkfRN0iIeZ7USr4DDYxoysydzOxRYVka+vcXsmYc2q3TpYEXWS3G4ssAxkWQ+PpZtGif4AnJaHm4c64JaJd1Mh1hLNK1SIk/XW7qv8ecMBNWsinGbkEo2kx/My/+czHYTywgOb7THhqwaBXQamrYgHAk3maEM+XZEzURQkaWc2Uy5rdm8Gq5zn6a4Y1Biq1lzQj5YEmLQm+1ySmfWahGltkXAcMs7ESH5lM6HYw1eYIHOa5JoQSVmDCpxtlyeUht59dgr9ndhdjbhpsLO+axXFI9ZWlLQ4uvNBgaGlMPaNhUeSUe+Z4HyZe1x1Dqsgy4ou0fWfUg==;4WauORxbGBNbcsoH7bRHHw=="
 ---
 

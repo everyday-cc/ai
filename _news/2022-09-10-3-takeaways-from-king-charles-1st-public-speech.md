@@ -105,6 +105,22 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "King Charles III Addresses the UK After Queen Elizabeth II's Death: Read His Full Speech"
+    excerpt: "In the speech, Charles acknowledged the \"profound sorrow\" both he and his family and the world were feeling in the wake of the queen's death. He also vowed as king to \"endeavor to serve you with loyalty,"
+    publishedDateTime: 2022-09-09T22:47:00Z
+    webUrl: "https://www.whas11.com/article/entertainment/entertainment-tonight/king-charles-iii-addresses-the-uk-after-queen-elizabeth-iis-death-read-his-full-speech/603-cc837c08-c84c-4c1d-8e06-19eac65ef538"
+    ampWebUrl: "https://www.whas11.com/amp/article/entertainment/entertainment-tonight/king-charles-iii-addresses-the-uk-after-queen-elizabeth-iis-death-read-his-full-speech/603-cc837c08-c84c-4c1d-8e06-19eac65ef538"
+    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/entertainment/entertainment-tonight/king-charles-iii-addresses-the-uk-after-queen-elizabeth-iis-death-read-his-full-speech/603-cc837c08-c84c-4c1d-8e06-19eac65ef538"
+    type: article
+    provider:
+      name: WHAS11 News
+      domain: whas11.com
+    quality: 35
+    images:
+      - url: "https://media.whas11.com/assets/ETONLINE/images/683db480-44b6-49b4-bdf6-d391e8717a47/683db480-44b6-49b4-bdf6-d391e8717a47_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Read King Charles’ full 1st speech to Britain as the new monarch"
     excerpt: "King Charles III made his first address to the nation on Friday since becoming Britain's new monarch after the death of his mother, Queen Elizabeth II."
     publishedDateTime: 2022-09-09T18:10:00Z
@@ -147,6 +163,6 @@ related:
       domain: harpersbazaar.com
     quality: 2
 
-secured: "RtO4jhXdoFcqkMUtezDk18NWzSETdcc86/H0rlR+32SqXXVsOlPHLUv8reLmOXqncdtfamXad705+KKD8dTq90M0HxRunUXeAfnnym3b0EEVCyVhgaCRy5lbJceMakQmPU4edmTLhHHACybJDy7pt1Be/gZer0gQ8QAy6Ks428KqHS4FnSR8pt4WUOMmwsoU8o21dMVecQXUJTEBT0cGkvDTzVgkPvk1LCbdz3P09h14k3SLyI+J9li2W7RxfKWhGPznP6TZRfGWhBPXZ2wAntd9yrTtVRTWTPrhng8Wlh4Ri3eenJX7Pk7HgXRBtE0veNk37rAcEF+JxczgV+RRbLaIO4XGx9w6cIlmQc961xo=;3AoeJUouXWzby+TF6hAUSg=="
+secured: "DXqoJr680bzOwpEfWwKPadw2ghUyv31kh3w0zKUrITUpv9Rh9NoUaLZYJvYw+tfFk/b3IGM6vB6zRnTsunEV8sq8IDHSMYU4uBQCvoZBig1YzN9LyN48iSPeWlFGKIVaexmxkeb0OjQ2GIklP7iJmw/pQwgfslixk55FSIn5XSbbbBZV5YT43k317n2dMT9ig5emoxHdIddueAwZbGvA8QCIblSxN1BkmY78wdSwUbuY79HfaWEjaw3Wp0q1SRIjkD//WGzwX+NeGzdOiPDhfm+zNqXAyZluvuOnHpYR2GGnFfE1sD2tb9j8FhE0QEumk0Obs0SeRJ/J1XtHq1GLiEqSg1lILmm3oOPoHgpudIx1BakRt9+2AmjSbS6kirT2ymCWjl64erUe4G5Vlb3HSpSO9uNAAYnwGBUQJvbZs5FVc8aCkUBE9pur9O4zXhaRHSMhWAgjG35Sxs6cYB/21W+lpUA1FAWs0Dq8zy3c5eFdmeb6qPXlopAgEif7eis16EyTZREw15U1zoA0Qu/fCg==;Y8BpZSU8ePnepZywjBLnHg=="
 ---
 

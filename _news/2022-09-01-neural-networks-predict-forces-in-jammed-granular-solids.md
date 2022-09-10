@@ -1,26 +1,24 @@
 ---
 category: news
 title: "Neural networks predict forces in jammed granular solids"
-excerpt: "Granular matter is all around us. Examples include sand, rice, nuts, coffee and even snow. These materials are made of solid particles that are large enough not to experience thermal fluctuations. Instead,"
-publishedDateTime: 2022-09-01T14:47:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/963548"
-webUrl: "https://www.eurekalert.org/news-releases/963548"
+excerpt: "Combining computer simulations with tools from artificial intelligence ... uses a machine learning method known as a graph neural network (GNN). The researchers have demonstrated that GNNs ..."
+publishedDateTime: 2022-09-01T00:00:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/09/220901135843.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/09/220901135843.htm"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/93c1e44c-9e31-47f5-80f2-ef0051952e9b/Rendition/thumbnail/Content/Public"
-    width: 300
-    height: 208
-    isCached: true
-
-secured: "nEdylPRmLIeo9MlfioiszfLo30ZidWQbp4OtJGQ+Xh5DZjSJyRSRzM6yhlYOBg3tEYiur4E0L9rRdVU9nlxvfl/pD4/47UfmC02VrYgZMqjvzyZt+17Iaad8nuFLaHeZbB4YGmmdbEFc0tDJQdgPHpG1fG7FrRZX6Gz7ZOUK2oby8sLfxjEdsIuRKpDeRkpyIR7FuJEB8EnJ84HYdv8MZmaNNvVAe1wmDQBtUtdvstw40Zrm9aj04QhRVxQhthraDbdAlsuliv2ha/GA5YOaJwu8zMMjj4AGYKzj2ASqpCWQt89dCyjPxc3jOYGN5ofgZ0ohDSDi4FRe5knVz/Y49LfrQjyGGFbm51TXJ+jR5B8=;3NXq/cvrG+uGconH1+sjHQ=="
+secured: "5W5eoSQDynj6UwLj83N1QdIKwODukf4hhfTNyUMo0eNIKONzdzIfWOWy2mZ4AyzeHndwU2Xol8kn0DD1Ck4LWP/znFkSFHsGqfQBuT/MOWwAgONb7+b05XCKGnBo9UnR9mTZtkAh5/lO1U72d/BhZfbINgMe57gqVdpPURlwB2/cRT3qosEE69FeZprZckR0kuk+lo+cew5J+wCSvKhIhj0XON4oF8e3tq9f/IevwSC4tgDOJepmDYiX/Fhnpej9k10WVchgbyy9uD2eSUpIZZXv1vGY1KXlCfPUIoejXXL+/Fx3y09ObZ+77c0Z9WdlaQu/jIdNB8lNjLehwYiNNnZhz5Yhu96SDxUnoUZ7YYs=;yANju7/Ab8NTiat0Zxxf5A=="
 ---
 

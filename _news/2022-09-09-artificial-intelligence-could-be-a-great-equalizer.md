@@ -2,12 +2,12 @@
 category: news
 title: "Artificial Intelligence Could Be a Great Equalizer"
 excerpt: "The benefits of AI will accrue not only to the wealthy and technologists but also to the poor and disadvantaged."
-publishedDateTime: 2022-09-09T08:52:00Z
-originalUrl: "https://www.washingtonpost.com/business/artificial-intelligence-could-be-agreat-equalizer/2022/09/09/bd246350-3037-11ed-bcc6-0874b26ae296_story.html"
-webUrl: "https://www.washingtonpost.com/business/artificial-intelligence-could-be-agreat-equalizer/2022/09/09/bd246350-3037-11ed-bcc6-0874b26ae296_story.html"
+publishedDateTime: 2022-09-09T12:04:00Z
+originalUrl: "https://www.washingtonpost.com/business/artificial-intelligence-couldbe-agreat-equalizer/2022/09/09/bd246350-3037-11ed-bcc6-0874b26ae296_story.html"
+webUrl: "https://www.washingtonpost.com/business/artificial-intelligence-couldbe-agreat-equalizer/2022/09/09/bd246350-3037-11ed-bcc6-0874b26ae296_story.html"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
   domain: washingtonpost.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -23,6 +24,6 @@ images:
     height: 779
     isCached: true
 
-secured: "7Sr6YNHK1PYUqLilW+IrOvceTn1i9O8tmpE0UM9LmuDItHvHKyWQnf/nwnzW8wcm2+5DUqhq9lW8/8h0f6ehjAMDmU/rCAElE8KpddVZn/lJGbCzEqYsFDx+nOjqawdIEap6fS5HPlCbHOUUPW+cRmtlH69alOgnvcWkITlJWxz6dhFDqi+y5Z+TnMdk//lHit2fIqzMtJ7NqUQ9QP0BDxw+9wFUagRFB64NSkhYM84RVG4QRV7Ii8GSsv7jKSqyjRxFzqUomJyYK7L9/fdmyezPq33ebTuTErltezqoR2kAun5CYKHQLLvDrW3B2OSl0H4LjgPFxgHID1dTA3+TwYiiAm6ItMsoWDUq/wGRwkw=;wKN3NzeIZ2sGiG0etj2ETw=="
+secured: "QPP9DB5VkXBEosmzrQn5w8M2NSRdn0lKMF+DKnrP2j3Mxo7u7SXiyXZtsczBPVAX51NkMDLWdNOICuI/giAggzYzPouoRlF8tfi4mice9NkVYuDP3tGhN/MAlewwA93Wu0JBm1KOaB7Ab2+nXYAwCRfjKCOjTtovhh8kVPDkXbTmC50ENnmmix14RQEdr8Ef2DGukn0nexscnRyVJrHvy59yxpsNbcwSQtwBcyYo6m/avVcF9nmZminHMRklM6s3Ks4jFzU8h3uN+TXcuucYDQcQrNP4kF0h3LamsgJlVDXimnMI+ntuk6YiEA6PjEaAKoUwGtrG8A0/RzjGFhCX0g2MSO1UQgaWY+lk0HnQ7Q0=;PFe3iSOUoQCz20W+iNJgsw=="
 ---
 

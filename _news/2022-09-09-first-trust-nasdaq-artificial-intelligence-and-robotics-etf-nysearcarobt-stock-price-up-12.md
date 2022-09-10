@@ -28,15 +28,6 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 45
-  - title: "Cambridge Investment Research Advisors Inc. Decreases Stake in Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ)"
-    excerpt: "Cambridge Investment Research Advisors Inc. trimmed its position in shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) by 10.2% during the first quarter, Holdings Channel reports."
-    publishedDateTime: 2022-09-05T09:02:00Z
-    webUrl: "https://www.defenseworld.net/2022/09/05/cambridge-investment-research-advisors-inc-decreases-stake-in-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 22
 
 secured: "4U7dzbHiWWHEEC4SPtgzLq//hF13TK13kasK1Xi7K9jPhimhAarTWROTRDkNtP63krwaHBePpAW6vOY9OJJ8jD+CRMs/KZUgeilEpNDIVfxCdbpInFbc/RSBkRG0WQf+bnh7M0Dzg0aAY34KQjK/8F3ihRRktyYlE5JCJFcbLTEkb98k3S9+sIX8+IEikY9awzcBd2T/uxf4rdhFhaWPB9BI+TXQ/zslbFCJuIvr0DvHeBS1XMXzV4EOb8/fIIfeAxP3CMt7deaBeOHyB8ksVQhtn8LuARQ+hDkYLbsGM9ZH7qU/Z/KEAPvjzNbqLRmeSGa1OVYjSRJGQXrOBnh57xQQws9aabJPfwO3sanyAJ8=;Os4SXv1HNXq3tFktDlpCLg=="
 ---

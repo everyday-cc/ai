@@ -3,8 +3,8 @@ category: news
 title: "Self-driving tech firm Aurora mulls sale to Apple or Microsoft - Bloomberg News"
 excerpt: "Aurora Innovation Inc Chief Executive Chris Urmson recently outlined several options for the self-driving tech firm to combat challenging market conditions, including a possible sale to Apple Inc or Microsoft Corp ,"
 publishedDateTime: 2022-09-02T20:26:00Z
-originalUrl: "https://www.reuters.com/article/aurora-reorganization/self-driving-company-aurora-mulling-possible-sale-to-apple-or-microsoft-bloomberg-news-idUSKBN2Q31VL"
-webUrl: "https://www.reuters.com/article/aurora-reorganization/self-driving-company-aurora-mulling-possible-sale-to-apple-or-microsoft-bloomberg-news-idUSKBN2Q31VL"
+originalUrl: "https://www.reuters.com/technology/self-driving-company-aurora-mulling-possible-sale-apple-or-microsoft-bloomberg-2022-09-02/"
+webUrl: "https://www.reuters.com/technology/self-driving-company-aurora-mulling-possible-sale-apple-or-microsoft-bloomberg-2022-09-02/"
 type: article
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 381
     isCached: true
 
-secured: "ktPhR2yGRz8fekQGeVIXT1RUSoFHKsiLC49nCaOiJgdB6qhupVrMOTKcr9hNa1oEZdOsm9uOEOqJYJmr2BOrYp/ZEmmrSkv1kW/uKimAc2AkfWEJ14eQB+Y8L2lioTANR9eNcsLRlFyE6b4GLYBz/swdB7WvWiN1yxEPT3BOC+XJ3Akj9awRCx18ooMd8U1dls+wbUlU8nRBrkbM39QVbaYRT/FnD6GJ+l7gnYVGOBHZuHn/01NFzEWPcVFTzW4h34CeCsXGjh0oSHGKdbRcl3zl5MDooSoqsUZ1yTBkOHEwT95B8WJ3GkKHQbla5jp7dRvT5mxwQFwXtvlQngj3kB3Li6sgAVrskxTLsnEevNt7JZEc0wqPuqKkDkfAujmf2XKB/UwXrnvlQN3ZgZMm3Af394SMSLJRPm5lY76CDnibCc1BkmaFEfT0w2ErIK8zFmYxlzp72kr75UpFUG8G9mvFZwOtwoMCviP3hJ5kBpZ1F2UctIWDPgiAwcDfcIOxBrkjwRluqRjVE22w98+2Uw==;vD2sXwDcxRzTSED/+rTRxA=="
+secured: "2OMoG1AHzqzTsv19gxBElcpWqfQsOFa/QarJCvlD2H/McBu843ss29TW+v1yGx0FYup9LX9XHE8EoSXk4FzsNzFC/5jYGrVS0JyJhx2qcJw/VZ02s6RogPd+mWeY+NyFaU8vnPiUx8wMab1Fj3Tjh5Gswuc5Y+4NBn387/Kmpy9UX7kGChk5613e0Op0XpdR3iwFD422PRs3ZT2LK/1lCscnpNTaibPjF4hF3G0ubO2rKN50ZQWTYG9/kjSWrmMzFRX9+3nYVXKj8VIUZDdNcCAQA1PiFSVezhEv7qWbAPB9a/ta9XKGM+Jbp5ZCxohTNNZMh0ae30SMyriIGVsoso8D9dTuCqWZyOQAvLim6W4=;sSr2/9zl9K7aXGHxVO7SJg=="
 ---
 

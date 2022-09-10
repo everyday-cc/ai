@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "An AI-generated picture won an art prize. Artists aren’t happy."
+    excerpt: "This year, the Colorado State Fair’s annual art competition gave out prizes in all the usual categories: painting, quilting, sculpture."
+    publishedDateTime: 2022-09-10T00:00:00Z
+    webUrl: "https://www.todayonline.com/world/ai-generated-picture-won-art-prize-artists-arent-happy-1986816"
+    type: article
+    provider:
+      name: TODAYonline
+      domain: todayonline.com
+    quality: 39
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--z1xo9sBq--/c_fill%2Cg_auto%2Ch_676%2Cw_1200/f_auto%2Cq_auto/v1/mediacorp/tdy/image/2022/09/07/20220907_nyt_aiart.jpg?itok=8LHesjBa"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Meet Loab: The Terrifying Face The Internet Has Dubbed the First AI Art Cryptid"
     excerpt: "An AI art enthusiast has apparently stumbled across a creepy, recurring image – now known as Loab – which appears to be more easily generated than you'd ever expect (or want). The Internet has now dubbed Loab the first AI art cryptid."
     publishedDateTime: 2022-09-07T13:17:00Z

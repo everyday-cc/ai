@@ -7,7 +7,7 @@ originalUrl: "https://www.cio.com/article/406441/the-future-of-machine-learning-
 webUrl: "https://www.cio.com/article/406441/the-future-of-machine-learning-in-cybersecurity.html"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Enhancing Nigeria’s cyber security with artificial intelligence"
-    excerpt: "BABA Among the major trends in technology is the rapid development of artificial intelligence and its wide range of applications. In addition to"
-    publishedDateTime: 2022-09-05T07:27:00Z
-    webUrl: "https://www.vanguardngr.com/2022/09/enhancing-nigerias-cyber-security-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: Vanguard
-      domain: vanguardngr.com
-    quality: 54
-    images:
-      - url: "https://cdn.vanguardngr.com/wp-content/uploads/2018/05/tech-per.jpg"
-        width: 412
-        height: 250
-        isCached: true
 
 secured: "sVnhuIhLC8Q2om9nZCxPYNKL8f+qF3nGCuVw765ECBnXgL5NP+wh9tuumImDwhfZ1vJcauhw9l8Iba1QE2OCQZoqsxAaVjMnClmcGhoC8Xjvjy/aWXP8p67Enrd7DX2AzIlUjFJapDXSjb1zd6jzQjP9j6Zv5lScR/oC0wk/VtX1Et8KN1T3b+bgboV69E02SVez33/4/o75O363za5csHVNMx0jiVt95BQ6+CY/f7a4nzwsGv2qNkO8Rao++4jYiSGH1T5DHQD7JIlpjsNFjR2ovRLA0YiWcSLWe9YcotnrUZHPepmJjenGT3F12t1LI05InwqH2BEOyb3kZyTMCCE0XXkgsnAgZzSt/zZXDZNoEIuysh3uTBwTwMp0P5GP5sWTzrbg8KaoezKV7ntUxhqtwPY82JNFILSeAwA8Qz+oTyEd6kufam+bZeCaXuDizM/qeDKwWJ+6azHv/25n1ghi7urnITUkeTbcDNRdGSKrTz6XpjcBfDIpaYwgvTcZ4J9f2Z3jAUQUyyG9/m7rqA==;7+Ktmu7OFh7oUHSTjfltqg=="
 ---

@@ -50,6 +50,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "An AI-generated picture won an art prize. Artists aren’t happy."
+    excerpt: "This year, the Colorado State Fair’s annual art competition gave out prizes in all the usual categories: painting, quilting, sculpture."
+    publishedDateTime: 2022-09-10T00:00:00Z
+    webUrl: "https://www.todayonline.com/world/ai-generated-picture-won-art-prize-artists-arent-happy-1986816"
+    type: article
+    provider:
+      name: TODAYonline
+      domain: todayonline.com
+    quality: 39
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--z1xo9sBq--/c_fill%2Cg_auto%2Ch_676%2Cw_1200/f_auto%2Cq_auto/v1/mediacorp/tdy/image/2022/09/07/20220907_nyt_aiart.jpg?itok=8LHesjBa"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "BS70xOE7hK0/JRGY5aYWT3YEYPL+hxfwiIEwfyT2B05lqrMv2+5SagNJqFFAy6rP3SXCSbiRGJQHGyp99B25N1dsHT+rNUXdN4+82Q/9HFm8UNf7c1Ht+ryqHO0t2erWTEzrR9qc9WSgRlkYKMP+WVC+LhVshhFOO5vVrQLdf/xJxobMC97e+OJFBzkPz4omQBiCcLsfgPyFdTkz+aX+NLIgxjvf9iYW6wP1h8OQjukCi3XMC8HZDcglLLWXqu4j/wyXwNWg1uAHB/tuPdWRk2M4fUI8by2PiY0aCraiRHn2d6WzO+VN/yVXYbglSSjl8yVAdN6FnyWAvY8Evk7N7zhCuYGncSujUs0Nh50gMRI=;VyAlwgIdJWqeOX9APaIKOQ=="
 ---

@@ -47,15 +47,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 19
-  - title: "Spice AI Raises $13.5 Million Seed Funding to Enable Web3 Developers to Build Data and AI-driven Applications"
-    excerpt: "Company building AI Infrastructure for Developers Addresses the “data problem” for Web3 Infrastructure . Spice AI today announced a seed round of $13.5 million for its platfor"
-    publishedDateTime: 2022-09-07T14:30:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-7-spice-ai-raises-135-million-seed-funding-to-enable-web3-developers-to-build-data-and-ai-driven-applications"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "v8qZvgNWH4os3gJio6tnSXKnurRZdiZv84r5qJgS0atS0KglX36eTwr7oXJKY93+HRha0DIao1AblRiT82rjogPBB+NHU4DZRuEkLKpw6X1aBhyPjNIxK2xztjmId+A1mrfkYfq0v8BwR2n01iNepS8EXSBLF2VzElQahLUaTpPLKXr/gpQYfj0fYSxbAKzW3NhPMzskL4XgYYXJeYCH4bzKHxJgs0IbHUO06XkQRM4SErI1+OgKHo3/AdEGIZbvwRs6KsT8mABgin6sLNyyd0teClvRb9XWKGG1UnzSjDubZZ0a7YLrylMGcQ7NbVHqzogwaz1a3YMB1OpyfMjFBd1DzhjOTogmytSU1eO+kCM=;BarRX+i2ovDf/jOH7D32xg=="
 ---

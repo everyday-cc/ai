@@ -47,15 +47,6 @@ related:
         width: 855
         height: 562
         isCached: true
-  - title: "Spice AI Raises $13.5 Million Seed Funding to Enable Web3 Developers to Build Data and AI-driven Applications"
-    excerpt: "Company building AI Infrastructure for Developers Addresses the “data problem” for Web3 Infrastructure . Spice AI today announced a seed round of $13.5 million for its platfor"
-    publishedDateTime: 2022-09-07T14:30:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-7-spice-ai-raises-135-million-seed-funding-to-enable-web3-developers-to-build-data-and-ai-driven-applications"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "osI1Qgl4pBKHTRGrHpddeIidfByIQm1rGuLQugO7jIa6H5J1Dnp7r661J79LHTq5YyefAQZL1Mo1zZFaucV0V627BGR2x8fn82bJEqXSL9OnCrbFA+jk5pjdoUgdpi6Mi1pd5BhvgFfAWEzLa1hylkhhzq5BTRtZ3rYo/PYCkBCnf7pc9HSiem7fe1SZmRLZ0UqtIwFfQtYm4JJDbwuIBAWM7uXRcNRiVLEK2c+iCGxLGfWPgv/7t/RoKBxCPBg4ijZu8+lfEEd5YdDmtnAl62Gp1NXpMyqnfvvsQq54tzrZHse3g4UTrT3htQNa5odbNPlwHHG/avLf8o96BjV4izVHBkzVfO9awEA+BykM0l0N1EHLPK1AnqT79oYs5s2Pkym4qHuukjA3p7jl7coyvqdhmZzEOBnABCJutEGdTpIa2mkVFj5I3Yar6r6rDbQsbkriyUHwRkFiOwgqPvuiby3SC++kMTq+aORBKGmpXebM8/IfeVWvwEuaBdn65eYF1NusM+nU1MtLTOsnPmqWeQ==;4KX9+jyaEaVtQ6riPC735A=="
 ---
