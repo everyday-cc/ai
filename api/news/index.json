@@ -682,6 +682,57 @@
       ]
     },
     {
+      "path": "_news/2022-09-09-blattner-technologies-acquires-boss-ai-and-their-enterprise-ai-platform.md",
+      "title": "BLATTNER TECHNOLOGIES ACQUIRES BOSS AI AND THEIR ENTERPRISE AI PLATFORM",
+      "excerpt": "Blattner Technologies, on a mission to be the leading provider of Predictive Transformation™ services and tools in the Data Analytics, Artificial Intelligence and Machine Learning industry has acquired BOSS AI,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/blattner-technologies-acquires-boss-ai-and-their-enterprise-ai-platform-1031733092",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/blattner-technologies-acquires-boss-ai-and-their-enterprise-ai-platform-1031733092",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1894778/BTpp_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-08T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-09-how-explainable-artificial-intelligence-can-propel-the-growth-of-industry-40.md",
       "title": "How explainable artificial intelligence can propel the growth of industry 4.0",
       "excerpt": "The very first industrial revolution historically kicked off with the introduction of steam- and water-powered technology. We have come a long way since then, with the current fourth industrial revolution,",
@@ -1128,7 +1179,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/09/08/qualcomm-is-still-the-most-efficient-ai-accelerator-for-image-processing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1198,58 +1249,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/08/combatting-drug-diversion-with-artificial-intelligence/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/08/combatting-drug-diversion-with-artificial-intelligence/amp/",
       "publishedDateTime": "2022-09-08T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-deepfakes-the-danger-of-artificial-intelligence-that-we-will-learn-to-manage-better.md",
-      "title": "Deepfakes - The Danger Of Artificial Intelligence That We Will Learn To Manage Better",
-      "excerpt": "Scared that deepfake technology will kill the 'truth' and undermine democracy as we know it? Don't! The same tools we use for fake emails, fake Amazon reviews, and fake bot conversations will help with deepfakes: Transparency,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lutzfinger/2022/09/08/deepfakesthe-danger-of-artificial-intelligence-that-we-will-learn-to-manage-better/",
-      "originalUrl": "https://www.forbes.com/sites/lutzfinger/2022/09/08/deepfakesthe-danger-of-artificial-intelligence-that-we-will-learn-to-manage-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/631820e023a6f13b1db586d2/0x0.jpg?format=jpg&width=1200",
-          "width": 1080,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

@@ -2,6 +2,93 @@
   "page": 95,
   "value": [
     {
+      "path": "_news/2022-06-23-system-on-chip-market-to-surpass-valuation-of-3178-billion-by-2031-tmr-study.md",
+      "title": "System-On-Chip Market to Surpass Valuation of $ 317.8 Billion by 2031; TMR Study",
+      "excerpt": "The system-on-chip market share has grown steadily in recent years from the application of the technology in hyper scale data centers, automotive",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/06/g27829400/system-on-chip-market-to-surpass-valuation-of-317-8-billion-by-2031-tmr-study",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/g27829400/system-on-chip-market-to-surpass-valuation-of-317-8-billion-by-2031-tmr-study",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-computer-chips-powered-by-human-brain-cells-already-exist-but-is-it-ethical.md",
+      "title": "Computer chips powered by human brain cells already exist — but is it ethical?",
+      "excerpt": "A fusion of silicon and neuron.” Cortical Labs believes its hybrid chips could be the key to the kinds of complex reasoning that today’s computers and AI cannot produce. Another start-up ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/computer-chips-powered-by-human-brain-cells-already-exist-but-is-it-ethical",
+      "originalUrl": "https://thenextweb.com/news/computer-chips-powered-by-human-brain-cells-already-exist-but-is-it-ethical",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2Fcomputer-chip-brain-cells.jpg&signature=a0ea842bb93c94d62b1ec2f299347e26",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-06-23-global-industry-analysts-predicts-the-world-artificial-intelligence-chipsets-market-to-reach-507-billion-by-2026.md",
       "title": "Global Industry Analysts Predicts the World Artificial Intelligence Chipsets Market to Reach $50.7 Billion by 2026",
       "excerpt": "Companies: 37 - Players covered include Advanced Micro Devices, Inc.; Amazon Web Services (AWS); Fujitsu ... to today`s busy business executive`s intelligence needs! This influencer driven ...",
@@ -1031,83 +1118,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-robots-become-racist-and-sexist-when-programmed-with-common-ai-system-researchers-claim.md",
-      "title": "Robots become racist and sexist when programmed with common AI system, researchers claim",
-      "excerpt": "A ROBOT programmed with a popular artificial intelligence system turned racist and sexist, according to researchers. The robot was found to prefer men to women and white people over people of color.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesun.co.uk/tech/18974467/racist-sexist-robot-ai-artificial-intelligence/",
-      "originalUrl": "https://www.thesun.co.uk/tech/18974467/racist-sexist-robot-ai-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.co.uk/wp-content/uploads/2022/06/me-off-plat-racist-robot.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.co.uk/tech/18974467/racist-sexist-robot-ai-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/18974467/racist-sexist-robot-ai-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-06-22T14:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sun",
-        "domain": "thesun.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022.md",
-      "title": "IBM Reveals New AI and Cloud Powered Fan Experiences for Wimbledon 2022",
-      "excerpt": "IBM (NYSE: IBM) and the All England Lawn Tennis Club today unveil new ways for Wimbledon fans around the world to experience The Championships digitally, powered by artificial intelligence (AI) running on IBM Cloud and hybrid cloud technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022/",
-      "originalUrl": "https://indiaeducationdiary.in/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

@@ -2,6 +2,109 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-08-31-expertai-launches-turn-language-into-action-a-natural-language-hackathon-for-good.md",
+      "title": "Expert.ai Launches \"Turn Language into Action\" a Natural Language Hackathon for Good",
+      "excerpt": "Expert.ai Launches \"Turn Language into Action\" a Natural Language Hackathon for Good Aug (PRNewswire via COMTEX) -- PR Newswire BOSTON, Aug.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/expertai-launches-turn-language-into-action-a-natural-language-hackathon-for-good-2022-08-31",
+      "originalUrl": "https://www.marketwatch.com/press-release/expertai-launches-turn-language-into-action-a-natural-language-hackathon-for-good-2022-08-31",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-revolutions-start-with-the-green-data-center.md",
+      "title": "Revolutions Start With The Green Data Center",
+      "excerpt": "Without the right amount of computing power and the proper investment in green data center technologies to achieve both greater power and efficiency, we won’t be able to harness the intelligence required.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/08/31/revolutions-start-with-the-green-data-center/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/08/31/revolutions-start-with-the-green-data-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/630e245943306ea78a04b7de/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/08/31/revolutions-start-with-the-green-data-center/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/08/31/revolutions-start-with-the-green-data-center/amp/",
+      "publishedDateTime": "2022-08-31T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-31-jio-haptik-collaborates-with-microsoft-azure-to-enhance-hindi-chatbots.md",
       "title": "Jio Haptik collaborates with Microsoft Azure to enhance Hindi chatbots",
       "excerpt": "The company claims that it has facilitated over 2 million conversations on Jio Mobility with an 80 per cent reduction in human interventions and a 2.5 times increase in localised queries. Jio Haptik at present supports conversation in 130 languages.",
@@ -1048,91 +1151,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-france-reveals-hidden-swimming-pools-with-ai-taxes-them.md",
-      "title": "France reveals hidden swimming pools with AI, taxes them",
-      "excerpt": "Using an artificial intelligence computer vision system developed by French IT firm Capgemini, the French tax office (often called \"Le Fisc\") has identified 20,356 residential swimming pools that had previously gone undeclared.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/08/france-reveals-hidden-swimming-pools-with-ai-taxes-them/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/08/france-reveals-hidden-swimming-pools-with-ai-taxes-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/french-pool-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-msrcosmos-recognized-as-a-finalist-of-2022-microsoft-sap-on-azure-partner-of-the-year.md",
-      "title": "MSRcosmos recognized as a finalist of 2022 Microsoft SAP on Azure Partner of the Year",
-      "excerpt": "MSRcosmos has been named a finalist of 2022 Microsoft Partner of the Year Awards in the SAP on Azure category. The company was honored among a global field of top Microsoft partners for demonstrating excellence in innovation and implementation of customer solutions based on Microsoft technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-msrcosmos-recognized-as-finalist-2022-microsoft-sap-azure-/2022/08/30/9664456.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-msrcosmos-recognized-as-finalist-2022-microsoft-sap-azure-/2022/08/30/9664456.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

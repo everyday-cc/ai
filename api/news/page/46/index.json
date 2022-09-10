@@ -2,6 +2,101 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2022-08-02-insta360-link-review-a-robot-camera-operator-for-live-streamers.md",
+      "title": "Insta360 Link review: A robot camera operator for live streamers",
+      "excerpt": "(Pocket-lint) - Insta360 may have made a name for itself with its impressive 360-degree cameras, but it's certainly not the first name that comes to mind when ... a gesture control, too, which ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pocket-lint.com/gadgets/reviews/162063-insta360-link-review",
+      "originalUrl": "https://www.pocket-lint.com/gadgets/reviews/162063-insta360-link-review",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/162063-laptops-review-insta360-link-review-image1-vwtqljvhcw.jpg",
+          "width": 945,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pocket-lint.com/gadgets/reviews/162063-insta360-link-review.amphtml",
+      "cdnAmpWebUrl": "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/gadgets/reviews/162063-insta360-link-review.amphtml",
+      "publishedDateTime": "2022-08-02T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pocket-lint.com",
+        "domain": "pocket-lint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-breaking-wave-deutsche-banks-innovative-fintech-selects-relativity-trace-for-compliance-monitoring.md",
+      "title": "Breaking Wave, Deutsche Bank's Innovative Fintech, Selects Relativity Trace for Compliance Monitoring",
+      "excerpt": "Breaking Wave, Deutsche Bank's Innovative Fintech, Selects Relativity Trace for Compliance Monitoring Aug 02, 2022 (PRNewswire via COMTEX) -- PR",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/breaking-wave-deutsche-banks-innovative-fintech-selects-relativity-trace-for-compliance-monitoring-2022-08-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/breaking-wave-deutsche-banks-innovative-fintech-selects-relativity-trace-for-compliance-monitoring-2022-08-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-02-deep-learning-ai-without-expert-input.md",
       "title": "Deep Learning: AI Without Expert Input",
       "excerpt": "A leading AI researcher, lecturer and cofounder of several deep learning-based companies. He's the CTO of AI at Nano Dimension. We are used to 20th-century machines that work well for us under ...",
@@ -1055,101 +1150,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-googles-deepmind-ai-predicts-3d-structure-of-nearly-every-protein-known-to-science.md",
-      "title": "Google's DeepMind AI Predicts 3D Structure of Nearly Every Protein Known to Science",
-      "excerpt": "On Thursday, Google's sister company, DeepMind, announced it has successfully used artificial intelligence to predict the 3D structures of nearly every catalogued protein known to science.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/science/biology/googles-deepmind-ai-predicts-3d-structure-of-nearly-every-protein-known-to-science/",
-      "originalUrl": "https://www.cnet.com/science/biology/googles-deepmind-ai-predicts-3d-structure-of-nearly-every-protein-known-to-science/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/07fd24f6e895baa36441c82a2b640657f3f2cbd8/2022/07/28/8f1688f9-ef38-476c-b270-5967d88de874/gettyimages-154963443.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-deepmind-ai-predicts-3d-structure-of-nearly-every-protein-known-to-science/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-deepmind-ai-predicts-3d-structure-of-nearly-every-protein-known-to-science/",
-      "publishedDateTime": "2022-08-01T19:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-eating-lots-of-highly-processed-food-is-linked-to-faster-cognitive-decline-research-finds.md",
-      "title": "Eating lots of highly processed food is linked to faster cognitive decline, research finds",
-      "excerpt": "Eating highly processed foods like instant noodles, sugary drinks or frozen meals may be linked to a faster rate of cognitive decline. That's according to new research presented Monday at the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/health/health-news/highly-processed-food-linked-faster-cognitive-decline-rcna40999",
-      "originalUrl": "https://www.nbcnews.com/health/health-news/highly-processed-food-linked-faster-cognitive-decline-rcna40999",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-08/220802-instant-noodles-processed-foods-mn-0840-27f253.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna40999",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna40999",
-      "publishedDateTime": "2022-08-01T17:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

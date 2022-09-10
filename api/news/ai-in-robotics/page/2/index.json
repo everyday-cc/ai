@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-29-lets-talk-about-robotics-ai-not-about-the-length-of-womens-dress.md",
+      "title": "\"Let’s talk about robotics, AI, not about the length of women’s dress\"",
+      "excerpt": "Education Minister Dr Dipu Moni today (August 29, 2022) said now is not the time to talk about the length of women’s dress.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailystar.net/youth/education/news/lets-talk-about-robotics-ai-not-about-the-length-womens-dress-3106051",
+      "originalUrl": "https://www.thedailystar.net/youth/education/news/lets-talk-about-robotics-ai-not-about-the-length-womens-dress-3106051",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thedailystar.net/sites/default/files/styles/social_share/public/feature/images/dipu_moni_2.jpg",
+          "width": 750,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thedailystar.net/youth/education/news/lets-talk-about-robotics-ai-not-about-the-length-womens-dress-3106051?amp",
+      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/youth/education/news/lets-talk-about-robotics-ai-not-about-the-length-womens-dress-3106051?amp",
+      "publishedDateTime": "2022-08-29T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Star",
+        "domain": "thedailystar.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-29-ai-illuminates-permanently-shadowed-regions-on-the-moon.md",
       "title": "AI illuminates permanently shadowed regions on the moon",
       "excerpt": "The study's findings could have direct implications for future missions, including Intuitive Machines Mission 2, which will be conducted on a commercial basis by a start-up. This robotic mission in the spring of 2023 aims to collect and analyze the first ...",
@@ -310,6 +353,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-28-startup-develops-ai-that-makes-call-center-employees-sound-like-white-american-robots.md",
+      "title": "Startup develops AI that makes call center employees sound like white, American robots",
+      "excerpt": "This time around, Palo Alto-based startup Sanas has introduced to the world an AI with the goal of making foreign call center employees sound accent-neutral, and the effect of making them sound white.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/startup-develops-ai-makes-call-192648461.html",
+      "originalUrl": "https://www.aol.com/startup-develops-ai-makes-call-192648461.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/9Q3Nzya3jKi3ygpRe8Scjw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_mashable_370/cb35956c039b7fe15852e5ea8716b040",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-27T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1251,101 +1337,6 @@
       "provider": {
         "name": "India Education Diary",
         "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-artificial-intelligence-ai-robots-market-research-report-forecast-2022-to-2028-latest-industry-news-top-company-analysis-research-methodology.md",
-      "title": "Artificial Intelligence (AI) Robots Market Research report forecast 2022 To 2028, Latest Industry News, Top Company Analysis, Research Methodology.",
-      "excerpt": "According to our recent \"Artificial Intelligence (AI) Robots market research report\", the Artificial Intelligence (AI) Robots market with a compound annual growth rate (CAGR) of a percent 2022-2028.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-research-report-forecast-2022-to-2028-latest-industry-news-top-company-analysis-research-methodology-2022-08-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-research-report-forecast-2022-to-2028-latest-industry-news-top-company-analysis-research-methodology-2022-08-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-uk-controlled-robot-ship-surveys-pacific-ocean-volcano.md",
-      "title": "UK-controlled robot ship surveys Pacific Ocean volcano",
-      "excerpt": "STORY: This robotic boat is gathering data on an underwater ... So we can actually hand over the control the vessel from this office to anywhere else in the world to control that vessel, which ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/uk-controlled-robot-ship-surveys-223917368.html",
-      "originalUrl": "https://www.aol.com/news/uk-controlled-robot-ship-surveys-223917368.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/Te1aUOdi2bR3iSWL67UfeA--~B/aD01NDA7dz05NjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/video.reutersnews.com/1de53623ef7800652c9baa31b6a9fd65",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T16:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
         "images": null,
         "publishers": null,
         "authors": null

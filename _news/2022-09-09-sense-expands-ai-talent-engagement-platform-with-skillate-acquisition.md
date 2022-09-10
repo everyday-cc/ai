@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "BLATTNER TECHNOLOGIES ACQUIRES BOSS AI AND THEIR ENTERPRISE AI PLATFORM"
+    excerpt: "Blattner Technologies, on a mission to be the leading provider of Predictive Transformation™ services and tools in the Data Analytics, Artificial Intelligence and Machine Learning industry has acquired BOSS AI,"
+    publishedDateTime: 2022-09-08T19:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/blattner-technologies-acquires-boss-ai-and-their-enterprise-ai-platform-1031733092"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://mma.prnewswire.com/media/1894778/BTpp_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "News: AI-driven talent engagement platform Sense acquires Skillate"
     excerpt: "The addition of Skillate s technology enhances Sense s ability to provide AI-powered hiring including candidate matching job distribution job description assistant and talent relationship management"
     publishedDateTime: 2022-09-08T04:58:00Z

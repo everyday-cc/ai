@@ -2,6 +2,93 @@
   "page": 129,
   "value": [
     {
+      "path": "_news/2022-06-01-the-new-marketing-is-a-cognitive-process.md",
+      "title": "The New Marketing Is a Cognitive Process",
+      "excerpt": "It’s not. Branding needs to forge new connections with consumers. Branding is all about understanding how consumers choose products and services. Cognitive science is all about understanding how our brain works and makes decisions. It encompasses ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=153181",
+      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=153181",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-31T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Destination CRM",
+        "domain": "destinationcrm.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-ai-ethics-what-it-is-and-why-it-matters.md",
+      "title": "AI Ethics: What It Is And Why It Matters",
+      "excerpt": "As AI proliferates, and governments attempt to catch up in structure and law to the fast growing technology, AI Ethics has emerged as a critical topic that everyone should be aware of.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nishatalagala/2022/05/31/ai-ethics-what-it-is-and-why-it-matters/",
+      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2022/05/31/ai-ethics-what-it-is-and-why-it-matters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//6296d7085f56620471be2bda/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 805,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2022/05/31/ai-ethics-what-it-is-and-why-it-matters/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2022/05/31/ai-ethics-what-it-is-and-why-it-matters/amp/",
+      "publishedDateTime": "2022-05-31T20:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-01-type-2-diabetes-linked-to-cognitive-decline-in-older-age.md",
       "title": "Type 2 diabetes linked to cognitive decline in older age",
       "excerpt": "The finding comes from a large UK study of people with and without diabetes, based on cognitive tests and brain scans. Type 2 diabetes involves blood sugar rising too high after meals, often ...",
@@ -1013,102 +1100,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-a3-robot-sales-in-north-america-continue-record-increase-into-2022.md",
-      "title": "A3: robot sales in North America continue record increase into 2022",
-      "excerpt": "VP Alex Shikany to discuss latest on how companies solve labor shortages with robotics at Automate June 6 in Detroit",
-      "sourceUrl": null,
-      "webUrl": "https://www.logisticsmgmt.com/article/a3_robot_sales_in_north_america_continue_record_increase_into_2022",
-      "originalUrl": "https://www.logisticsmgmt.com/article/a3_robot_sales_in_north_america_continue_record_increase_into_2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sc247.s3.amazonaws.com/images/made/images/2022_article/LM2205_F_LMEx_DigitalSC-Main600p_350_200_bor1_b9b3be_s_c1.jpg",
-          "width": 352,
-          "height": 202,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Logistics Management",
-        "domain": "logisticsmgmt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-turning-ai-failure-into-ai-success-stories.md",
-      "title": "Turning AI failure into AI success stories",
-      "excerpt": "AI implementations share a number of key characteristics. Rather than simply unleashing the technology first on one goal and then another in a linear fashion, which is the habit for most traditional technology initiatives,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/31/turning-ai-failure-into-ai-success-stories/",
-      "originalUrl": "https://venturebeat.com/2022/05/31/turning-ai-failure-into-ai-success-stories/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2014/10/failure-success.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/31/turning-ai-failure-into-ai-success-stories/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/31/turning-ai-failure-into-ai-success-stories/amp/",
-      "publishedDateTime": "2022-05-31T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

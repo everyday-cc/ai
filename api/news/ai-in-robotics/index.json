@@ -482,6 +482,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-05-best-robot-vacuums-for-pet-hair-in-2022.md",
+      "title": "Best robot vacuums for pet hair in 2022",
+      "excerpt": "Remote control If your robot vacuum cleaner doesn’t connect ... and clean it regularly as specified in your manual. Bear in mind that the filter will also need to be replaced occasionally ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tomsguide.com/best-picks/best-robot-vacuums-for-pet-hair",
+      "originalUrl": "https://www.tomsguide.com/best-picks/best-robot-vacuums-for-pet-hair",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/EhA9BQe9x9vyV97ypphW5C-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-05T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-05-warehouse-robotics-market-to-reach-value-of-us-157-billion-by-2031-states-tmr-analysis.md",
       "title": "Warehouse Robotics Market to Reach Value of US$ 15.7 Billion by 2031, States TMR Analysis",
       "excerpt": "The warehouse robotics market is projected to expand at a CAGR of 13.3% during 2022-2031Surge in adoption of warehouse automation in the e-commerce industry is fueling the sales growth in the marketTh",
@@ -1358,49 +1401,6 @@
         "AI in Robotics",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-lets-talk-about-robotics-ai-not-about-the-length-of-womens-dress.md",
-      "title": "\"Let’s talk about robotics, AI, not about the length of women’s dress\"",
-      "excerpt": "Education Minister Dr Dipu Moni today (August 29, 2022) said now is not the time to talk about the length of women’s dress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/youth/education/news/lets-talk-about-robotics-ai-not-about-the-length-womens-dress-3106051",
-      "originalUrl": "https://www.thedailystar.net/youth/education/news/lets-talk-about-robotics-ai-not-about-the-length-womens-dress-3106051",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thedailystar.net/sites/default/files/styles/social_share/public/feature/images/dipu_moni_2.jpg",
-          "width": 750,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/youth/education/news/lets-talk-about-robotics-ai-not-about-the-length-womens-dress-3106051?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/youth/education/news/lets-talk-about-robotics-ai-not-about-the-length-womens-dress-3106051?amp",
-      "publishedDateTime": "2022-08-29T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

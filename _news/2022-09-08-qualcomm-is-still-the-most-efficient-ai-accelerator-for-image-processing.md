@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/09/08/qualcomm-is-still
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/09/08/qualcomm-is-still-the-most-efficient-ai-accelerator-for-image-processing/amp/"
 type: article
 quality: 90
-heat: 90
+heat: 91
 published: true
 
 provider:

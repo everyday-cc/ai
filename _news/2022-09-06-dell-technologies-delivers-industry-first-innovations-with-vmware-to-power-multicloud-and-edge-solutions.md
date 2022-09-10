@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "VMware partners public cloud providers to ease multi-cloud complexities"
+    excerpt: "The new cloud and edge infrastructure solutions by VMware will help businesses accelerate their enterprise cloud transformation."
+    publishedDateTime: 2022-09-06T23:00:00Z
+    webUrl: "https://techwireasia.com/2022/09/vmware-partners-public-cloud-providers-to-ease-multi-cloud-complexities/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 24
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2022/09/52324860463_835a2d242f_k.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Dell Technologies Partners VMware to Power Multicloud and Edge Solutions"
     excerpt: "Dell Technologies is introducing new infrastructure solutions, co-engineered with VMware, that deliver greater automation and performance for organizations embracing multicloud and edge strategies. “C"
     publishedDateTime: 2022-09-06T15:57:00Z

@@ -2,6 +2,92 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2022-08-23-bci-brain-controlled-robot-market-report-in-depth-market-analysis-and-forecast-2022-to-2028-of-market-insights.md",
+      "title": "BCI Brain-controlled Robot Market Report, In-Depth Market Analysis and FORECAST 2022 To 2028 of market insights.",
+      "excerpt": "In this research report, \"2022 to 2028,\" the current situation and potential future developments of the \"BCI Brain-controlled Robot Market\" are presented. The research offers a thorough ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/bci-brain-controlled-robot-market-report-in-depth-market-analysis-and-forecast-2022-to-2028-of-market-insights-2022-08-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/bci-brain-controlled-robot-market-report-in-depth-market-analysis-and-forecast-2022-to-2028-of-market-insights-2022-08-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-how-to-use-artificial-intelligence-to-predict-cryptocurrency-price-trends.md",
+      "title": "How To Use Artificial Intelligence To Predict Cryptocurrency Price Trends",
+      "excerpt": "Artificial intelligence (AI) has become an essential tool for cryptocurrency traders looking to remain one step ahead of their competition. By integrating various data sources and advanced ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2022/08/how-to-use-artificial-intelligence-to-predict-cryptocurrency-price-trends.html",
+      "originalUrl": "https://www.androidheadlines.com/2022/08/how-to-use-artificial-intelligence-to-predict-cryptocurrency-price-trends.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "androidheadlines.com",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-23-how-visual-search-technology-is-redefining-the-future-of-online-search-experience.md",
       "title": "How Visual Search Technology is redefining the future of online search experience",
       "excerpt": "Innovative technologies work to simplify the user experience. Learn how Visual Search Technology is shaping the online search methods of the future.",
@@ -1079,83 +1165,6 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-israeli-fintech-vyzer-selects-salt-edge-to-provide-open-banking-boost-to-investment.md",
-      "title": "Israeli Fintech Vyzer Selects Salt Edge to Provide Open Banking Boost to Investment",
-      "excerpt": "Vyzer, an Israeli-based fintech consumer focused startup, joined forces with Salt Edge, a key player in offering open banking solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/08/195011-israeli-fintech-vyzer-selects-salt-edge-to-provide-open-banking-boost-to-investment/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/08/195011-israeli-fintech-vyzer-selects-salt-edge-to-provide-open-banking-boost-to-investment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/03/Israel-Tel-Aviv-2019.jpg",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/08/195011-israeli-fintech-vyzer-selects-salt-edge-to-provide-open-banking-boost-to-investment/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/08/195011-israeli-fintech-vyzer-selects-salt-edge-to-provide-open-banking-boost-to-investment/amp/",
-      "publishedDateTime": "2022-08-21T22:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-driverless-trucks-can-be-safe-and-efficient-by-thomas-black.md",
-      "title": "Driverless trucks can be safe and efficient, by Thomas Black",
-      "excerpt": "Higher pay has also put upward pressure on rates. There is an obvious long-term solution to both these problems: driverless trucks. But only if the industry gets off on the right foot with maximum ...",
-      "sourceUrl": null,
-      "webUrl": "https://pressofatlanticcity.com/opinion/columnists/driverless-trucks-can-be-safe-and-efficient-by-thomas-black/article_207c39b7-28ac-56e3-bde8-395eccaa10ac.html",
-      "originalUrl": "https://pressofatlanticcity.com/opinion/columnists/driverless-trucks-can-be-safe-and-efficient-by-thomas-black/article_207c39b7-28ac-56e3-bde8-395eccaa10ac.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-21T21:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Press of Atlantic City",
-        "domain": "pressofatlanticcity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

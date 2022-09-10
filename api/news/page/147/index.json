@@ -2,6 +2,109 @@
   "page": 147,
   "value": [
     {
+      "path": "_news/2022-05-18-googles-ai-powered-interview-warmup-helps-with-job-prep.md",
+      "title": "Google's AI-Powered 'Interview Warmup' Helps With Job Prep",
+      "excerpt": "Google is using machine learning and artificial intelligence to help applicants practice for job interviews. The tool, aptly named Interview Warmup (Opens in a new window), invite",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/googles-ai-powered-interview-warmup-helps-with-job-prep",
+      "originalUrl": "https://www.pcmag.com/news/googles-ai-powered-interview-warmup-helps-with-job-prep",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/07AKzz0IzpvSrVwAul01AqA-2.fit_lim.size_1200x630.v1652872751.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/googles-ai-powered-interview-warmup-helps-with-job-prep?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/googles-ai-powered-interview-warmup-helps-with-job-prep?amp=true",
+      "publishedDateTime": "2022-05-18T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-apple-may-have-just-spilled-a-ton-of-details-on-ios-16.md",
+      "title": "Apple may have just spilled a ton of details on iOS 16",
+      "excerpt": "That alone would be a game-changing feature. Apple’s been quietly improving its object recognition for some time now. For example, you can search for all sorts of things in the Photos app and get images containing them, and iOS 15 added a neat visual ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.macworld.com/article/702442/ios-16-airplay-speech-recognition-augmented-reality.html",
+      "originalUrl": "https://www.macworld.com/article/702442/ios-16-airplay-speech-recognition-augmented-reality.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.macworld.com/wp-content/uploads/2022/04/ios-16-graphic-2.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.macworld.com/article/702442/ios-16-airplay-speech-recognition-augmented-reality.html/amp",
+      "cdnAmpWebUrl": "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/702442/ios-16-airplay-speech-recognition-augmented-reality.html/amp",
+      "publishedDateTime": "2022-05-18T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macworld",
+        "domain": "macworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/macworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-18-truly-trustworthy-a-case-for-trust-optimized-ai.md",
       "title": "Truly Trustworthy: A Case For Trust-Optimized AI",
       "excerpt": "With AI still in the early stages of adoption across the globe, risks such as learning limitations, cyberattacks and a lack of user understanding give rise to issues of trust.",
@@ -1033,110 +1136,6 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-arteria-ai-goldman-sachs-and-the-transformation-of-financial-legal-documents.md",
-      "title": "Arteria AI, Goldman Sachs, And The Transformation Of Financial Legal Documents",
-      "excerpt": "Arteria AI is working with companies like Goldman Sachs to use AI to help transform the creation and negotiation of financial legal contracts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomdavenport/2022/05/17/arteria-ai-goldman-sachs-and-the-transformation-of-financial-legal-documents/",
-      "originalUrl": "https://www.forbes.com/sites/tomdavenport/2022/05/17/arteria-ai-goldman-sachs-and-the-transformation-of-financial-legal-documents/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//6283e05c1e567fc242d534e2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2022/05/17/arteria-ai-goldman-sachs-and-the-transformation-of-financial-legal-documents/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2022/05/17/arteria-ai-goldman-sachs-and-the-transformation-of-financial-legal-documents/amp/",
-      "publishedDateTime": "2022-05-17T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-argo-ai-launches-driverless-autonomous-vehicle-testing-in-miami-austin.md",
-      "title": "Argo AI launches driverless autonomous vehicle testing in Miami, Austin",
-      "excerpt": "Argo AI, the autonomous vehicle technology company backed by Ford and Volkswagen, is launching driverless operations in Miami and Austin, a significant milestone for the startup that illustrates its progress towards commercialization.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/17/argo-ai-driverless-autonomous-vehicles-miami-austin/",
-      "originalUrl": "https://techcrunch.com/2022/05/17/argo-ai-driverless-autonomous-vehicles-miami-austin/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 234,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/Argo-Driverless.gif",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/17/argo-ai-driverless-autonomous-vehicles-miami-austin/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/17/argo-ai-driverless-autonomous-vehicles-miami-austin/amp/",
-      "publishedDateTime": "2022-05-17T09:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],
