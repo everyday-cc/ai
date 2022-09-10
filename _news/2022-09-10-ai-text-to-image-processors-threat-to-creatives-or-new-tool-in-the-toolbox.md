@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-10T13:40:00Z
 originalUrl: "https://venturebeat.com/ai/ai-text-to-image-processors-threat-to-creatives-or-new-tool-in-the-toolbox/"
 webUrl: "https://venturebeat.com/ai/ai-text-to-image-processors-threat-to-creatives-or-new-tool-in-the-toolbox/"
 type: article
+quality: 44
+heat: 44
+published: false
 
 provider:
   name: VentureBeat

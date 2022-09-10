@@ -2,58 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2022-09-03-the-pending-home-sales-and-durable-goods-reports-forbes-ai-newsletter-august-27th.md",
-      "title": "The Pending Home Sales And Durable Goods Reports: Forbes AI Newsletter - August 27th",
-      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/09/02/the-pending-home-sales-and-durable-goods-reports-forbes-ai-newsletteraugust-27th/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/09/02/the-pending-home-sales-and-durable-goods-reports-forbes-ai-newsletteraugust-27th/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/631235c2d3078549f8dbaac6/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/09/02/the-pending-home-sales-and-durable-goods-reports-forbes-ai-newsletteraugust-27th/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/09/02/the-pending-home-sales-and-durable-goods-reports-forbes-ai-newsletteraugust-27th/amp/",
-      "publishedDateTime": "2022-09-02T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
       "path": "_news/2022-09-02-cruise-recalls-self-driving-car-software-because-humans-are-dumb.md",
       "title": "Cruise Recalls Self-Driving-Car Software Because Humans Are Dumb",
       "excerpt": "GM's Cruise subsidiary has performed over 120,000 unprotected left turns in its self-driving development vehicles, but a single extreme scenario that resulted in a collision ended up prompting a ...",
@@ -1173,6 +1121,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-us-bans-chipmakers-from-sending-ai-training-chips-to-china-and-russia.md",
+      "title": "U.S. Bans Chipmakers From Sending AI Training Chips to China and Russia",
+      "excerpt": "This restriction apparently includes any chip with capabilities on par with the A100 or A100X, and also impacts the company’s ability to develop its more advanced AI chips that were set for ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/ai-chips-russia-china-amd-nvidia-1849484950",
+      "originalUrl": "https://gizmodo.com/ai-chips-russia-china-amd-nvidia-1849484950",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-01T09:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

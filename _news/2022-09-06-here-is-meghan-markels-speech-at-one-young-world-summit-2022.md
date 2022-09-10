@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meghan Markle talks about courage and perseverance in her first speech in UK since quitting the royal job"
-    excerpt: "Meghan Markle talked about perseverance as she delivered a speech at the One Young World summit in the Bridgewater Hall on Monday.Prince Harry's wife in her gender equality speech in"
-    publishedDateTime: 2022-09-05T20:03:00Z
-    webUrl: "https://www.thenews.com.pk/latest/988655-meghan-talked-about-perseverance-in-her-opening-ceremony-speech"
-    ampWebUrl: "https://www.thenews.com.pk/amp/988655-meghan-talked-about-perseverance-in-her-opening-ceremony-speech"
-    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/988655-meghan-talked-about-perseverance-in-her-opening-ceremony-speech"
-    type: article
-    provider:
-      name: The News International
-      domain: thenews.com.pk
-    quality: 27
-    images:
-      - url: "https://www.thenews.com.pk/assets/uploads/updates/2022-09-06/988655_010415_updates.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "King Charles Expresses His 'Love' for Prince Harry and Meghan Markle in First Speech Following Queen's Death"
     excerpt: "In his first address to the nation -- with the rest of the world also tuning in -- King Charles III gave a moving speech Friday as the new monarch in which he expressed \"sorrow\" over the death of his mother,"
     publishedDateTime: 2022-09-09T18:06:00Z

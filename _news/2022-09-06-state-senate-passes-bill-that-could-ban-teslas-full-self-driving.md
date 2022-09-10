@@ -71,6 +71,22 @@ related:
         width: 1200
         height: 638
         isCached: true
+  - title: "Unsurprisingly, Many Tesla Owners Don’t Think ‘Full Self-Driving’ Is Worth $15,000"
+    excerpt: "CNN Business reports that, after speaking with 13 individuals who own a Tesla with Full Self-Driving, 11 of them say that it’s not worth its new asking price. The entire group agreed that the technology has improved over time but some said that they have to pay more attention when FSD is engaged because it can be “unpredictable."
+    publishedDateTime: 2022-09-10T14:39:00Z
+    webUrl: "https://www.carscoops.com/2022/09/unsurprisingly-many-tesla-owners-dont-think-full-self-driving-is-worth-15000/"
+    ampWebUrl: "https://www.carscoops.com/2022/09/unsurprisingly-many-tesla-owners-dont-think-full-self-driving-is-worth-15000/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/09/unsurprisingly-many-tesla-owners-dont-think-full-self-driving-is-worth-15000/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 53
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2022/07/2022-Tesla-Model-S-1-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "'They Overpromised Like Crazy': Some Tesla Owners Say New 'Full Self-Driving' Price Is Too High"
     excerpt: "Several people who are using Tesla's beta mode full self-driving (FSD) feature reported that it wasn't worth the high price to purchase."
     publishedDateTime: 2022-09-08T18:00:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-10T12:13:00Z
 originalUrl: "https://seekingalpha.com/article/4540169-berkshire-grey-ai-enabled-robotics-automation-player-e-commerce"
 webUrl: "https://seekingalpha.com/article/4540169-berkshire-grey-ai-enabled-robotics-automation-player-e-commerce"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: Seeking Alpha

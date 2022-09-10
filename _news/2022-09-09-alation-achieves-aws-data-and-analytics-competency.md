@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Alation Achieves AWS Data and Analytics Competency"
-excerpt: "Data and analytics are a competitive differentiator and primary source of value generation for organizations. With this competency, senior technology leaders and decision makers can easily identify Alation as an AWS Partner Network (APN) member that possesses deep AWS expertise and delivers solutions seamlessly on AWS."
-publishedDateTime: 2022-09-08T18:15:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/09/08/9669770.htm"
-webUrl: "https://it.tmcnet.com/news/2022/09/08/9669770.htm"
+excerpt: "Alation Inc., the leader in enterprise data intelligence solutions, today announced it has achieved Amazon Web"
+publishedDateTime: 2022-09-08T22:13:00Z
+originalUrl: "https://www.datanami.com/this-just-in/alation-achieves-aws-data-and-analytics-competency/"
+webUrl: "https://www.datanami.com/this-just-in/alation-achieves-aws-data-and-analytics-competency/"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: datanami.com
+  domain: datanami.com
 
 topics:
   - AWS AI
@@ -66,6 +66,6 @@ related:
         height: 267
         isCached: true
 
-secured: "7L1AlIgP3yjDbdgnub3VrHyuHOne/ZBgbG8yP8nmoMr0axEmXHzbvDiNHPu4CedN8WiK4916e4+snB/4Hi0sC7e4T4Xi0jedonIHZ8bHCNJpDw9u5PABOmOa3+Vou3l3UKkMpSdy7yN7SAw+bRvgaL3KsJTiIEEj0jTRPmPI5vP65cg4glzgoKXbcJS9G9ZeQbWdhkQiaJQF5wP4vwWLeXlHCaxaetqd99RA2V4DYD9aXmQFRD0RQ+oyzfVngwRaupYqTZdRt7FobG7BjFiHvlszf+BZPddOgux5FqN+ZqwFf6ZWd6psoGL3LIJZ2nhFrcMm1nwEMoFcsHUpV0gW4FXyqcjY4UDb3ZkUQPB+kzk=;R6iRHp9aTN63l4xEEkdWyA=="
+secured: "XM0JXQ2p5tYQTiM1U1SghIRCnkY1WqvoCg0NSRQNhk2hHK6Kycr7KcMI0yoiVaiuPsFW/6oWaxahpJOcDDmShKBl4p+fq83xHMejvN+yc0jQe0azuZx+X1PAbvNaBKKk7Zx0kpQy7rzQWCz4Z3tlLN4RhB60HpetiEfgSqhnfJXgRrgcb83PeZ9BChlsTav7cWnX/H9TrJNmI8UwWqQ5V/fkYlfhyvpSW486LCMXJjpIvztN2Jw+EmRKUSrbCO4rT6wNx0MqGFAUdHPzXj/Tf3LRMKkNcMkk2Dc0YmpggyFTTGQxHkgIftfGXzWP4VDjugX2ZynLEwCY/WQrMByKufagRiQVH/M5l0+aotJtyEMeV/9uenITdjetmwkyChXP8CUiFrZa/NuvjxSTzwTdSGPDkYu/NSlH0aP3L6gxn1wU962xNOWa/0d3uFRWdYtCruLUhL57cTSwn5NCGGgVVKxeeKp0gmpC+W0GV/uz+qfVuRwehPDiYmnTyojBDWIY/EsCzUi0u8nqM6LU059Ekg==;O6YqStsd8yc8WCegYz9yxg=="
 ---
 

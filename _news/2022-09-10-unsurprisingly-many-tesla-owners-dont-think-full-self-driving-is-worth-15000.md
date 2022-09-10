@@ -1,36 +1,48 @@
 ---
 category: news
-title: "Tesla’s ‘full self-driving’ isn’t worth $15,000, say many who bought it"
-excerpt: "Tesla's price for the feature it calls \"full self-driving\" has increased again. This time to $15,000, making it an unusually expensive option for a car."
-publishedDateTime: 2022-09-07T15:17:00Z
-originalUrl: "https://www.cnn.com/2022/09/07/business/tesla-fsd-price-increase/index.html"
-webUrl: "https://www.cnn.com/2022/09/07/business/tesla-fsd-price-increase/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2022/09/07/business/tesla-fsd-price-increase/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/07/business/tesla-fsd-price-increase/index.html"
+title: "Unsurprisingly, Many Tesla Owners Don’t Think ‘Full Self-Driving’ Is Worth $15,000"
+excerpt: "CNN Business reports that, after speaking with 13 individuals who own a Tesla with Full Self-Driving, 11 of them say that it’s not worth its new asking price. The entire group agreed that the technology has improved over time but some said that they have to pay more attention when FSD is engaged because it can be “unpredictable."
+publishedDateTime: 2022-09-10T14:39:00Z
+originalUrl: "https://www.carscoops.com/2022/09/unsurprisingly-many-tesla-owners-dont-think-full-self-driving-is-worth-15000/"
+webUrl: "https://www.carscoops.com/2022/09/unsurprisingly-many-tesla-owners-dont-think-full-self-driving-is-worth-15000/"
+ampWebUrl: "https://www.carscoops.com/2022/09/unsurprisingly-many-tesla-owners-dont-think-full-self-driving-is-worth-15000/amp/"
+cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/09/unsurprisingly-many-tesla-owners-dont-think-full-self-driving-is-worth-15000/amp/"
 type: article
-quality: 89
-heat: 149
-published: true
+quality: 53
+heat: -1
+published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Carscoops
+  domain: carscoops.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/220906152126-02-tesla-interior-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://www.carscoops.com/wp-content/uploads/2022/07/2022-Tesla-Model-S-1-1024x555.jpg"
+    width: 1024
+    height: 555
     isCached: true
 
 related:
+  - title: "Tesla’s ‘full self-driving’ isn’t worth $15,000, say many who bought it"
+    excerpt: "Tesla's price for the feature it calls \"full self-driving\" has increased again. This time to $15,000, making it an unusually expensive option for a car."
+    publishedDateTime: 2022-09-07T15:17:00Z
+    webUrl: "https://www.cnn.com/2022/09/07/business/tesla-fsd-price-increase/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/09/07/business/tesla-fsd-price-increase/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/07/business/tesla-fsd-price-increase/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 89
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220906152126-02-tesla-interior-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Tesla’s ‘full self-driving’ isn’t worth $15,000, say many who bought it"
     excerpt: "Some Tesla owners who paid far less for an earlier version of the “full self-driving” software that now retails for $15,000 caution that the new price does not make sense for most"
     publishedDateTime: 2022-09-07T21:04:00Z
@@ -60,22 +72,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/6kavFKbT3MZ5oD4gMGgChT-1200-80.jpg"
         width: 1200
         height: 638
-        isCached: true
-  - title: "Unsurprisingly, Many Tesla Owners Don’t Think ‘Full Self-Driving’ Is Worth $15,000"
-    excerpt: "CNN Business reports that, after speaking with 13 individuals who own a Tesla with Full Self-Driving, 11 of them say that it’s not worth its new asking price. The entire group agreed that the technology has improved over time but some said that they have to pay more attention when FSD is engaged because it can be “unpredictable."
-    publishedDateTime: 2022-09-10T14:39:00Z
-    webUrl: "https://www.carscoops.com/2022/09/unsurprisingly-many-tesla-owners-dont-think-full-self-driving-is-worth-15000/"
-    ampWebUrl: "https://www.carscoops.com/2022/09/unsurprisingly-many-tesla-owners-dont-think-full-self-driving-is-worth-15000/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/09/unsurprisingly-many-tesla-owners-dont-think-full-self-driving-is-worth-15000/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 53
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2022/07/2022-Tesla-Model-S-1-1024x555.jpg"
-        width: 1024
-        height: 555
         isCached: true
   - title: "State Senate Passes Bill That Could Ban Tesla’s ‘Full Self-Driving’"
     excerpt: "The misleading term is being challenged by California lawmakers, who recently passed a bill in the Senate that could ban the software's name. According to the LA Times, the California Department of Motor Vehicles’ rules don’t allow the advertisement of cars as “self-driving” if they do not have the capability."
@@ -115,6 +111,6 @@ related:
         height: 3149
         isCached: true
 
-secured: "BXhgdzmcFiHJs5zz7Cj5d4oCTTTc9rr3U451xKjZVwd0b4CICNjjt9+EJFmyniwJR6/ne2XUz4EsJefYo9fUl2SmZEg1BgrBzVneYpiG+dzAG87g1/pS/znKdbx0mjuXbdbdr3RvOQaX5dKRNFGiuutmQDFQF8sqYoEGePIReTa008uVGI1xOmZ85OIUd94zEBsblWfpBRzmjdFHq1oIPpuGsSmdE7/IVRNy8ED/UNB5xP/J/JMfut91G7r0hvMZ+bA0Pm9YrkReh18yZmcM6WCD3VuLuebU1wJblazcO26xy0rsYhF4NOj0HRuWNUrIvkjTkNXA7l3ZT/AKMlaWjLExMpMBkk2Oek1QnZ2rjaHEeMG5bsqEIvRkI7RZ72ditbB2q0NKP68khi1OOgZLkxHQyLDIrqa3w2SG0HtNnWL9nQCmpYefbkLeYEDVjBQExI3Lu3JdhtzOQ962u/W1jlzqcUiEq7DCvfqHhzhgrxoY6JS/+r+o+HZVBa90fCgWhNdjeZ+maLnhCCzNu1r7jQ==;kO+kZWCx1psmcrZQQfUaIA=="
+secured: "bhokjilJ3ll3mDL/dVNPnVflf+P/7Huv0IAZu3g5JOM7WS9k4ktn4tH9tT4J8DE6kO1QdeyU4uApXeFQTpp703WiQSdR2BR8H/C6vVJsR4lG9wSepD6Sfl8zT9qEj4bwZQ8Dc61lLKlJ27j19SHLCRbgiYX+HrlfQ5lZ+rZzBTjmDsvEYBrcwu6ECtTXR0xC9OCubP7fX4RP+EoctyUrMGJM7phN7lwsuaas44h1tAqeaVs0l6LCaE2PHJmHVSIs3lFD7OLLEXRmpzm49iI1+qK1lXzIl4PCVYD/2UWdlnA8k3yUZN8UXBCIuB3+W+QSK/GYUSK9kmHK8XB0xXaHhGhhAl6WF6WpG4r89dtgPTg=;kEMmgLSw5QIvTPErgMgCGw=="
 ---
 

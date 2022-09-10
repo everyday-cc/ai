@@ -2,57 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2022-08-29-what-a-research-firm-learned-from-hundreds-of-ai-project-failures.md",
-      "title": "What A Research Firm Learned From Hundreds Of AI Project Failures",
-      "excerpt": "AI projects aren’t dying because of big problems, but rather it’s the small things that are causing projects to fail.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/29/what-a-research-firm-learned-from-hundreds-of-ai-project-failures/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/29/what-a-research-firm-learned-from-hundreds-of-ai-project-failures/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/630b918fcb977a8c76af1c4d/0x0.jpg?format=jpg&crop=2382,1339,x479,y165,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/29/what-a-research-firm-learned-from-hundreds-of-ai-project-failures/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/08/29/what-a-research-firm-learned-from-hundreds-of-ai-project-failures/amp/",
-      "publishedDateTime": "2022-08-28T22:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-29-robotic-catheterization-systems-market-is-set-to-experience-a-significant-growth-of-148-cagr-from-2022-to-2029.md",
       "title": "Robotic Catheterization Systems Market is set to experience a significant growth of 14.8% CAGR from 2022 to 2029",
       "excerpt": "Procedures where clinicians are given navigational and mechanical tools that permit definite actions or part of the procedure to be executed autonomously with a level of precession and control are possible only with robot-assisted catheterization.",
@@ -846,6 +795,48 @@
       ]
     },
     {
+      "path": "_news/2022-08-28-startup-develops-ai-that-makes-call-center-employees-sound-like-white-american-robots.md",
+      "title": "Startup develops AI that makes call center employees sound like white, American robots",
+      "excerpt": "This time around, Palo Alto-based startup Sanas has introduced to the world an AI with the goal of making foreign call center employees sound accent-neutral, and the effect of making them sound white.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/ai-startup-makes-call-center-foreigners-sound-white",
+      "originalUrl": "https://mashable.com/article/ai-startup-makes-call-center-foreigners-sound-white",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/06flaA2qTkuYtTU1N3cKsg0/hero-image.fill.size_1200x675.v1661618885.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-27T23:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-28-save-money-and-time-with-this-discounted-voice-transcription-tool.md",
       "title": "Save money and time with this discounted voice transcription tool",
       "excerpt": "Unfortunately, the ensuing transcription process can be tedious and time-consuming unless you have the right tools. The Voicetapp Speech-to-Text Transcription app is designed to turn speech into text with a wide range accurately.",
@@ -1019,49 +1010,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-28-startup-develops-ai-that-makes-call-center-employees-sound-like-white-american-robots.md",
-      "title": "Startup develops AI that makes call center employees sound like white, American robots",
-      "excerpt": "This time around, Palo Alto-based startup Sanas has introduced to the world an AI with the goal of making foreign call center employees sound accent-neutral, and the effect of making them sound white.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/startup-develops-ai-makes-call-192648461.html",
-      "originalUrl": "https://www.aol.com/startup-develops-ai-makes-call-192648461.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/9Q3Nzya3jKi3ygpRe8Scjw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_mashable_370/cb35956c039b7fe15852e5ea8716b040",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-27T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-28-sanford-health-partners-to-overcome-data-bottleneck-hindering-medical-ai-tools.md",
       "title": "Sanford Health partners to overcome data ‘bottleneck’ hindering medical AI tools",
       "excerpt": "SIOUX FALLS, S.D. — The power of computer-driven artificial intelligence has offered ... along with San Diego-based Sharp HealthCare. Sanford is the country’ largest rural health system ...",
@@ -1154,6 +1102,48 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-27-founder-of-collapsed-ai-start-up-metigy-in-18m-property-buying-spree.md",
+      "title": "Founder of collapsed AI start-up Metigy in $18m property buying spree",
+      "excerpt": "Administrators are now urging the sale of the properties - a mansion in Mosman and a luxury estate in Kangaroo Valley with a private rainforest waterfall - to claw back funds for creditors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theage.com.au/business/companies/founder-of-collapsed-ai-start-up-metigy-in-18m-property-buying-spree-20220828-p5bdbc.html",
+      "originalUrl": "https://www.theage.com.au/business/companies/founder-of-collapsed-ai-start-up-metigy-in-18m-property-buying-spree-20220828-p5bdbc.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theage.com.au/business/companies/founder-of-collapsed-ai-start-up-metigy-in-18m-property-buying-spree-20220828-p5bdbc.html",
+      "cdnAmpWebUrl": "https://amp-theage-com-au.cdn.ampproject.org/c/s/amp.theage.com.au/business/companies/founder-of-collapsed-ai-start-up-metigy-in-18m-property-buying-spree-20220828-p5bdbc.html",
+      "publishedDateTime": "2022-08-27T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Age",
+        "domain": "theage.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

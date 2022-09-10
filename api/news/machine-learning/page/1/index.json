@@ -419,49 +419,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-08-researchers-discover-new-method-to-create-tailored-odors-and-fragrances-with-help-of-machine-learning.md",
-      "title": "Researchers discover new method to create tailored odors and fragrances with help of machine learning",
-      "excerpt": "One of the most basic senses of animal species is the sense of smell. It is essential for finding food, recognising attractiveness, and detecting danger. Humans detect odorants using olfactory receptors found in olfactory nerve cells.",
-      "sourceUrl": null,
-      "webUrl": "https://zeenews.india.com/video/news/researchers-discover-new-method-to-create-tailored-odors-and-fragrances-with-help-of-machine-learning-2507664.html",
-      "originalUrl": "https://zeenews.india.com/video/news/researchers-discover-new-method-to-create-tailored-odors-and-fragrances-with-help-of-machine-learning-2507664.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2022/09/08/00000003_70.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://zeenews.india.com/video/news/researchers-discover-new-method-to-create-tailored-odors-and-fragrances-with-help-of-machine-learning-2507664.html/amp",
-      "cdnAmpWebUrl": "https://zeenews-india-com.cdn.ampproject.org/c/s/zeenews.india.com/video/news/researchers-discover-new-method-to-create-tailored-odors-and-fragrances-with-help-of-machine-learning-2507664.html/amp",
-      "publishedDateTime": "2022-09-08T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India.com",
-        "domain": "india.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-07-dall-e-machine-learning-can-now-imagine-what-lies-beyond-the-frame-of-famous-paintings.md",
       "title": "DALL-E machine learning can now imagine what lies beyond the frame of famous paintings",
       "excerpt": "Since being unveiled by OpenAI in early 2021, DALL-E has been turning heads with its ultra-realistic AI image creations. From jaw-dropping to just downright weird, the text-to-image AI system has wowed the internet.",
@@ -1465,6 +1422,49 @@
         "Google AI",
         "Facebook AI",
         "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-mgh-mit-dive-deeper-to-better-determine-breast-cancer-risk-through-deep-learning.md",
+      "title": "MGH, MIT dive deeper to better determine breast cancer risk through deep learning",
+      "excerpt": "Researchers at Massachusetts General Hospital (MGH) and the Massachusetts Institute of Technology (MIT) have developed a deep learning computer model that expands on the ability to identify discrete data contained in breast imaging to better predict a woman’s chances of developing breast cancer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bioworld.com/articles/563526-mgh-mit-dive-deeper-to-better-determine-breast-cancer-risk-through-deep-learning",
+      "originalUrl": "https://www.bioworld.com/articles/563526-mgh-mit-dive-deeper-to-better-determine-breast-cancer-risk-through-deep-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bioworld.com/ext/resources/BMT-source/2022/08-31-MGH-breast-cancer.png?height=635&t=1661983683&width=1200",
+          "width": 848,
+          "height": 635,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BioWorld",
+        "domain": "bioworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

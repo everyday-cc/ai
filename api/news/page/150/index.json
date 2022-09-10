@@ -2,49 +2,6 @@
   "page": 150,
   "value": [
     {
-      "path": "_news/2022-05-16-elon-musk-brags-that-tesla-is-very-close-to-full-level-5-self-driving.md",
-      "title": "Elon Musk Brags That Tesla Is “Very Close” to Full, Level 5 Self Driving",
-      "excerpt": "The artificial intelligence systems used in self-driving ... have hurt operations and bottom lines for the likes of Tesla and Waymo — but it may have ended up highlighting the importance of ...",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/elon-musk-tesla-close-level-5-autonomy",
-      "originalUrl": "https://futurism.com/elon-musk-tesla-close-level-5-autonomy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2020/07/elon-musk-tesla-close-level-5-autonomy-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/elon-musk-tesla-close-level-5-autonomy/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/elon-musk-tesla-close-level-5-autonomy/amp",
-      "publishedDateTime": "2022-05-16T05:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-16-cncf-launches-ethics-in-open-source-training-course.md",
       "title": "CNCF launches ethics in open source training course",
       "excerpt": "The Cloud Native Computing Foundation has developed a new certification for developers looking to better incorporate ethical-first thinking into their open source software design.",
@@ -1069,6 +1026,41 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-14-these-5-robotic-startups-are-impacting-healthcare-sector-with-their-innovation.md",
+      "title": "These 5 robotic startups are impacting healthcare sector with their innovation",
+      "excerpt": "The Indian healthcare sector has made significant advancements in the way healthcare is delivered in the country. Growing technological requirements in the healthcare sector have given birth to ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2022/05/healthcare-robotic-startups-aether-biomedical-sakar-jetbrain-invento/amp",
+      "originalUrl": "https://yourstory.com/2022/05/healthcare-robotic-startups-aether-biomedical-sakar-jetbrain-invento/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-13T18:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],
