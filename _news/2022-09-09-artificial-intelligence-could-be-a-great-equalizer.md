@@ -2,12 +2,12 @@
 category: news
 title: "Artificial Intelligence Could Be a Great Equalizer"
 excerpt: "The benefits of AI will accrue not only to the wealthy and technologists but also to the poor and disadvantaged."
-publishedDateTime: 2022-09-09T12:04:00Z
-originalUrl: "https://www.washingtonpost.com/business/artificial-intelligence-couldbe-agreat-equalizer/2022/09/09/bd246350-3037-11ed-bcc6-0874b26ae296_story.html"
-webUrl: "https://www.washingtonpost.com/business/artificial-intelligence-couldbe-agreat-equalizer/2022/09/09/bd246350-3037-11ed-bcc6-0874b26ae296_story.html"
+publishedDateTime: 2022-09-09T08:52:00Z
+originalUrl: "https://www.washingtonpost.com/business/artificial-intelligence-could-be-agreat-equalizer/2022/09/09/bd246350-3037-11ed-bcc6-0874b26ae296_story.html"
+webUrl: "https://www.washingtonpost.com/business/artificial-intelligence-could-be-agreat-equalizer/2022/09/09/bd246350-3037-11ed-bcc6-0874b26ae296_story.html"
 type: article
-quality: 41
-heat: 41
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -15,9 +15,7 @@ provider:
   domain: washingtonpost.com
 
 topics:
-  - AI in Healthcare
   - AI
-  - AI in Robotics
 
 images:
   - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
@@ -25,6 +23,6 @@ images:
     height: 779
     isCached: true
 
-secured: "QPP9DB5VkXBEosmzrQn5w8M2NSRdn0lKMF+DKnrP2j3Mxo7u7SXiyXZtsczBPVAX51NkMDLWdNOICuI/giAggzYzPouoRlF8tfi4mice9NkVYuDP3tGhN/MAlewwA93Wu0JBm1KOaB7Ab2+nXYAwCRfjKCOjTtovhh8kVPDkXbTmC50ENnmmix14RQEdr8Ef2DGukn0nexscnRyVJrHvy59yxpsNbcwSQtwBcyYo6m/avVcF9nmZminHMRklM6s3Ks4jFzU8h3uN+TXcuucYDQcQrNP4kF0h3LamsgJlVDXimnMI+ntuk6YiEA6PjEaAKoUwGtrG8A0/RzjGFhCX0g2MSO1UQgaWY+lk0HnQ7Q0=;PFe3iSOUoQCz20W+iNJgsw=="
+secured: "g2H8UMJUfCVh2DYb3Gcb/dZEkm6n5kUeAYhqjOu1p5yv+zK0vh1gRvqCyKxXk7hbFeQyNyDIwV/DwxZsTlAiDobHTCZQ2W1nHEzwaoTO5wM2iS3lVquRpTjE9cO/wQRo4HGwRsltgijl05zxwyNsa9vNIRUV6HYnJ7L8MFYlMrjE5eMVVGL7cuvOstjlwwbFFpau2F/y8GhvUG+a2kN/g6oSkv8QterKI0AWLUSMyyd9x+W/NFU3mTfwKawOv9ciw1FWZFJ/H6Ni0SgCeO39SAfKj+vnnPGQ3QJxMd5sKsZ6OQpQdGA8cmbH9eHA8MnCNS/ctOlV0WYoxqJW/yNpEs7z+SZ3EhMlUBjvVznmLsY=;etiRpVqQ/L11HMrf4pxGaQ=="
 ---
 

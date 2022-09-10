@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/joemckendrick/2022/09/09/beyond-mere-effic
 ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2022/09/09/beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/09/09/beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests/amp/"
 type: article
-quality: 79
-heat: 79
+quality: 81
+heat: 81
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/631b608de551689b89d7038c/0x0.jpg?format=jpg&width=1200"

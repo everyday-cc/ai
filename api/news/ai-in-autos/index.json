@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-09-beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests.md",
+      "title": "Beyond Mere Efficiency: Artificial Intelligence is Transforming Culture, Study Suggests",
+      "excerpt": "Executives who saw significant financial benefits from their AI initiatives were 10x more likely to change how they measure success than those who saw no such benefits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/09/09/beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/09/09/beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/631b608de551689b89d7038c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/09/09/beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/09/09/beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests/amp/",
+      "publishedDateTime": "2022-09-09T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-09-artificial-intelligence-and-the-future-of-marketing.md",
       "title": "Artificial Intelligence And The Future Of Marketing",
       "excerpt": "Artificial intelligence is currently transforming marketing. Here, we look at the most exciting opportunities when it comes to using AI in marketing and explore where they are already being tapped.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intelligence-and-the-future-of-marketing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 198,
+      "heat": 188,
       "tags": null,
       "images": [
         {
@@ -139,6 +191,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-artificial-intelligence-to-help-analyze-coronavirus-variants.md",
+      "title": "Artificial Intelligence to Help Analyze Coronavirus Variants",
+      "excerpt": "A new method developed by researchers uses artificial intelligence to analyze in real-time immediately after a new COVID variant emerges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-to-help-analyze-coronavirus-variants-208518-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-to-help-analyze-coronavirus-variants-208518-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/artificial-intelligence-pros-and-cons.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-to-help-analyze-coronavirus-variants-208518-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-to-help-analyze-coronavirus-variants-208518-1.htm",
+      "publishedDateTime": "2022-09-06T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -502,50 +598,6 @@
         "AI in Autos",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-how-artificial-intelligence-can-explain-its-decisions.md",
-      "title": "How artificial intelligence can explain its decisions",
-      "excerpt": "for example to be able to distinguish between certain therapy-relevant tumour subtypes,\" concludes Axel Mosig. Ruhr-University Bochum. \"How artificial intelligence can explain its decisions.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/09/220902103300.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/09/220902103300.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T11:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     },
     {
@@ -1375,59 +1427,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-artificial-intelligence-chip-market-size-worth-usd-832527-million-by-2027-the-insight-partners.md",
-      "title": "Artificial Intelligence Chip Market Size Worth USD 83,252.7 million By 2027 | The Insight Partners",
-      "excerpt": "According to The Insight Partners' research, the Artificial Intelligence Chip Market to 2027 – Global Analysis and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-worth-usd-832527-million-by-2027-the-insight-partners-2022-08-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-worth-usd-832527-million-by-2027-the-insight-partners-2022-08-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T04:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

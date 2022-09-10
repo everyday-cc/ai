@@ -2,6 +2,49 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2022-08-01-the-top-5-most-recent-amazing-artificial-intelligence-and-robotics-innovations.md",
+      "title": "THE TOP 5 MOST RECENT AMAZING ARTIFICIAL INTELLIGENCE AND ROBOTICS INNOVATIONS",
+      "excerpt": "When it comes to understanding the future of robotics and artificial intelligence, it can be challenging to keep up with everything that’s going on in this fast-paced industry. Apart from Ai technologies used in offices and most of the SEO Company‘s,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bristol247.com/lifestyle/news-lifestyle/the-top-5-most-recent-amazing-artificial-intelligence-and-robotics-innovations/",
+      "originalUrl": "https://www.bristol247.com/lifestyle/news-lifestyle/the-top-5-most-recent-amazing-artificial-intelligence-and-robotics-innovations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bristol247.com/wp-content/uploads/2022/08/possessed-photography-zbLW0FG8XU8-unsplash-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bristol24-7",
+        "domain": "bristol247.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-01-hyundai-motor-eyes-acquisition-of-korean-lidar-free-self-driving-startup-42dot.md",
       "title": "Hyundai Motor eyes acquisition of Korean lidar-free self-driving startup 42dot",
       "excerpt": "Hyundai Motor is considering increasing its stake in, or fully acquiring, the South Korea-based lidar-free autonomous mobility platform 42dot, the latest signal of its growing interest in the fast-growing space.",
@@ -1113,59 +1156,6 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-mythic-how-an-analog-processor-could-revolutionize-edge-ai.md",
-      "title": "Mythic: How An Analog Processor Could Revolutionize Edge AI",
-      "excerpt": "Mythic: How an Analog Processor Could Revolutionize Edge AI Alberto Romero, LLM Analyst Karl Freund, Founder and Principal Analyst Cambrian-AI Research.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/07/30/mythic-how-an-analog-processor-could-revolutionize-edge-ai/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/07/30/mythic-how-an-analog-processor-could-revolutionize-edge-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62e557a9abbf3ce8215398d2/0x0.png?format=png&width=1200",
-          "width": 674,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/07/30/mythic-how-an-analog-processor-could-revolutionize-edge-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/07/30/mythic-how-an-analog-processor-could-revolutionize-edge-ai/amp/",
-      "publishedDateTime": "2022-07-30T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

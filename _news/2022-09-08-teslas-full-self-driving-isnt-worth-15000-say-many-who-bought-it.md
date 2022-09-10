@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Tesla’s ‘full self-driving’ isn’t worth $15,000, say many who bought it"
-excerpt: "Some Tesla owners who paid far less for an earlier version of the “full self-driving” software that now retails for $15,000 caution that the new price does not make sense for most"
-publishedDateTime: 2022-09-07T21:04:00Z
-originalUrl: "https://www.ocregister.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/"
-webUrl: "https://www.ocregister.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/"
-ampWebUrl: "https://www.ocregister.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/amp/"
-cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/amp/"
+excerpt: "Some Tesla owners who paid far less for an earlier, unfinished version of the same “full self-driving” software that now retails for $15,000 caution that the new price does not make"
+publishedDateTime: 2022-09-07T17:51:00Z
+originalUrl: "https://www.eastbaytimes.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/"
+webUrl: "https://www.eastbaytimes.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/"
+ampWebUrl: "https://www.eastbaytimes.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/amp/"
+cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/amp/"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Orange County Register
-  domain: ocregister.com
+  name: East Bay Times
+  domain: eastbaytimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.ocregister.com/wp-content/uploads/2022/09/hypatia-h_f83a5bee143b3b89282e5807cb1c97e9-h_c8f834e95ae4db3b0c1cf5aa23866cd0.jpg?w=1024&h=1024"
+  - url: "https://www.eastbaytimes.com/wp-content/uploads/2022/09/hypatia-h_f83a5bee143b3b89282e5807cb1c97e9-h_c8f834e95ae4db3b0c1cf5aa23866cd0.jpg?w=1024&h=1024"
     width: 1024
     height: 1024
     isCached: true
@@ -97,6 +97,6 @@ related:
       domain: entrepreneur.com
     quality: 37
 
-secured: "epjWSZ0RIP5HhpJLIoMZCe4Tp+8Wgm43htNExKRzQHQ2jGjs3wswcOVd5A/+s093s/3mSKhfV2NxVWVQnKr9ZXzh0PyAsJMP/zeXYArxWrtHHiCnLSr7+bTtduZSIjFJUbKYwWlKwi8HGItmtlVlyuo3ACw7aC1i1IZYDzXgTdAMkyRGPhKEAN4LJsJN645KNnX1YHzIbYdea6zFcmIW/+ZZ8WP4MFe0sLfpEO6RPmvLlENHXHamiLefALgaNZGN974HMVS46+DlgK5Y8eVpJZHVXKf88Zqn0/ya2Vs3SeqHUhBFH6VGOxdkg6uG2FfNUiTp27TkyHtwcggV2CjjOI1lwX+qA4+6DPxoh+2MdPs=;+YBEHBrAy/JpwtdjTm9mPw=="
+secured: "nhFFXz8ORVUGVFhVSIgRHYWl3F9ztkt8+HKkyNIwS1S5Wgz2YeZMtx8JuLbX5EtMor6GUTyFGZBlWn9imJyX5nVND9+izWTc+rhcKSUFkyuENQAHi/eCyhfgG9YAOT2gZM2nIBeQaAlCcM4AKDOVFkj7UBQiChxp6mG0XYdl6GrQij8iUaJXTq3Sn71anmbBtsPZW/xq5CzajKXJqZ8bnHU9charIXFEDlqejnFQqfaRKiy2We9Ku/XW0u8TT8qIZbFKK5nQp4bSFWdkUyuVLjc+HTw6YnVb/wsVH+OJrsJnb5Y54GRb20XBt2PI1xJy7WZ6vvPfNYgYeVofppuB8GW68Fj0gfXNxWWPafEcZyk=;320rxsRy8FQdFsm/6zci5g=="
 ---
 

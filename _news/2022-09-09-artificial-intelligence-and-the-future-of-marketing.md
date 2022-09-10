@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intel
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intelligence-and-the-future-of-marketing/amp/"
 type: article
 quality: 108
-heat: 198
+heat: 188
 published: true
 
 provider:
@@ -146,15 +146,6 @@ related:
         width: 473
         height: 315
         isCached: true
-  - title: "The ABCs of AI, algorithms and machine learning (re-air)"
-    excerpt: "The next step up is machine learning, which uses algorithms. “Rather than a person programming in the rules, the system itself has learned,” Mitchell said. For example, speech recognition software, which uses data to learn which sounds combine to become words and sentences."
-    publishedDateTime: 2022-09-05T11:36:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/the-abcs-of-ai-algorithms-and-machine-learning-re-air/"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 34
 
 secured: "8r8lMv99XL2+q4DUs1hb6aDM7vcfVAqb0ycFpItvAMar1Cj9UMFYNI+Yiv/BFzGgleOPBK48TlZzGcKr61yzoJIQvBaH9UmPzHF0biZmliLmoPNbzp0qP+b5K9sbj3YMyesATkpQH/C5ax7cXrs8EZW0O02B1H9F5RamApzuBVuZqkeik7jLq6CJDqiEdkdJa5weJvc27By0XrcrYw0cjClKr5HCVMQXRIBdTolWabQkCX6WjWe+3d28KQgIBqrp4rhORrFG+SfkwHIzRZFH1kNPvQ9Y80NpsppyBl+VF2r3LyOgLdBS5d/DyAsxRL4rn8qDI9+3SLoDkNaH4yzU2CvHLLQUD7hLRcvcdqtLvnBGo6t5whG53Zuvaulho5YOfMirkvtD7mZGHdv5yqsRIrBw/xZiGEv4mvpSKp6gkEfpXqmuJxEU7rX3ttNac7QyahcWh8oaDZu0sWim3zo0+ybyGipXNxrB8WcjkxLtw9O/xIoMonwK1WFyUU6e73+THdyjAwPSUogqkRWjM5XtnA==;4UbSs3onGSYKXsWzc5VodQ=="
 ---

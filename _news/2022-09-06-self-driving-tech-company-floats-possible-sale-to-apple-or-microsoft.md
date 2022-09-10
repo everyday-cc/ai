@@ -73,17 +73,6 @@ related:
         width: 750
         height: 489
         isCached: true
-  - title: "Xbox's Matt Booty Dreams About Using AI To Do QA Testing"
-    excerpt: "So Matt Booty will no doubt have enamored himself no end to such people with the weekend’s tone-deaf statement. As reported by VGC, Booty was explaining how each time a new feature is added, a game needs to be re-tested start to finish."
-    publishedDateTime: 2022-09-05T12:12:00Z
-    webUrl: "https://kotaku.com/xbox-microsoft-matt-booty-qa-crunch-ai-mistreatment-1849496926"
-    ampWebUrl: "https://kotaku.com/xbox-microsoft-matt-booty-qa-crunch-ai-mistreatment-1849496926/amp"
-    cdnAmpWebUrl: "https://kotaku-com.cdn.ampproject.org/c/s/kotaku.com/xbox-microsoft-matt-booty-qa-crunch-ai-mistreatment-1849496926/amp"
-    type: article
-    provider:
-      name: Kotaku
-      domain: kotaku.com
-    quality: 37
   - title: "Self-Driving Firm Aurora Could Be Sold To Microsoft Or Apple"
     excerpt: "Aurora Innovation, a self-driving technology company co-founded by the former head of Google’s self-driving division, is mulling a sale to Apple or Microsoft. Co-founder Chris Urmson recently acknowledged in an internal memo that the company could be taken private,"
     publishedDateTime: 2022-09-06T13:01:00Z

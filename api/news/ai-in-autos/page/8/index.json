@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-07-28-how-driverless-delivery-vehicles-really-work.md",
+      "title": "How Driverless Delivery Vehicles Really Work",
+      "excerpt": "We're talking about a silent (literally) revolution led by driverless delivery vehicles. Online retail giant Amazon acquired self-driving startup Zoox in 2020 for $1.2 billion to deploy autonomous ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/942295/how-driverless-delivery-vehicles-really-work/",
+      "originalUrl": "https://www.slashgear.com/942295/how-driverless-delivery-vehicles-really-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/how-driverless-delivery-vehicles-really-work/l-intro-1658925083.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-28-whats-driving-us-china-spat-over-audits-and-delisting.md",
       "title": "What’s Driving US-China Spat Over Audits and Delisting",
       "excerpt": "About 200 Chinese companies whose shares trade in the US, including JD.com Inc. and Baidu Inc., face delisting because American regulators aren’t able to verify their financial audits. While China and the US continue to negotiate access to audits,",
@@ -1242,49 +1294,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-driverless-vehicles-on-course-in-chongqing.md",
-      "title": "Driverless vehicles on course in Chongqing",
-      "excerpt": "After introducing China's first fully automated bus service in November last year, Yongchuan district in Chongqing is steering toward becoming more than just a regional powerhouse for autonomous driving in western China.",
-      "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202207/21/WS62d8a09ba310fd2b29e6d85e.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202207/21/WS62d8a09ba310fd2b29e6d85e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img2.chinadaily.com.cn/images/202207/21/62d8a09aa310fd2bec977493.jpeg",
-          "width": 720,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T00:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
         "publishers": null,
         "authors": null
       },

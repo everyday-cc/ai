@@ -2,6 +2,50 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-08-29-aitxs-subsidiary-robotic-assistance-devices-introduces-rio-a-portable-solar-powered-security-solution.md",
+      "title": "AITX’s Subsidiary Robotic Assistance Devices Introduces RIO, a Portable Solar-Powered Security Solution",
+      "excerpt": "Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX), today announced that its wholly owned subsidiary, Robotic Assistance Devices, Inc. (RAD) has introduced RIO™, a portable, solar-powered security solution.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-robotics-artificial-intelligence-climate-and-environment-c733679ccdeb70c71283dbba1b178a4e",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-robotics-artificial-intelligence-climate-and-environment-c733679ccdeb70c71283dbba1b178a4e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T05:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-08-29-ai-in-fintech-global-market-report-2022-need-for-fraud-detection-in-fintech-financial-institutions-driving-adoption-researchandmarketscom.md",
       "title": "AI in FinTech Global Market Report 2022: Need for Fraud Detection in Fintech & Financial Institutions Driving Adoption - ResearchAndMarkets.com",
       "excerpt": "The \"AI in FinTech Global Market Report 2022\" report has been added to ResearchAndMarkets.com's offering. The global AI in fintech market is expected to grow from $7.25 billion in 2021 to $9.13 ...",
@@ -1117,58 +1161,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-ai-in-fintech-market-forecast-2022-2030-size-share-price-trend-and-growth.md",
-      "title": "AI in fintech Market Forecast 2022-2030 Size, Share, Price, Trend, and Growth",
-      "excerpt": "Aug 29, 2022 (Alliance News via COMTEX) -- The global AI in fintech market size was US$ 7.87 billion in 2021. The global AI in fintech market is forecast to grow to US$ 41.1 billion by 2030 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-forecast-2022-2030-size-share-price-trend-and-growth-2022-08-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-forecast-2022-2030-size-share-price-trend-and-growth-2022-08-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

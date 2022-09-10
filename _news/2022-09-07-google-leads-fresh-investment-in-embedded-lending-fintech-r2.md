@@ -69,6 +69,20 @@ related:
         width: 600
         height: 390
         isCached: true
+  - title: "Automated Data Science and Machine Learning Platforms Market Inclinations and Development Status Highlighted During Forecast Period 2022 to 2027"
+    excerpt: "Report Ocean recently added a research report on the Automated Data Science and Machine Learning Platforms market. The report includes an extensive analysis of the market's characteristics, COVID-19 impact,"
+    publishedDateTime: 2022-09-07T10:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automated-data-science-and-machine-learning-platforms-market-inclinations-and-development-status-highlighted-during-forecast-period-2022-to-2027-2022-09-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "TheCapitalNet awarded Best Private Market FinTech Solutions Provider 2022 by Wealth & Finance International"
     excerpt: "TheCapitalNet, Inc., a leading enterprise SaaS and financial technologies company, has been awarded Best Private Markets FinTech Solutions Provider 2022 by Wealth &"
     publishedDateTime: 2022-09-08T01:00:00Z

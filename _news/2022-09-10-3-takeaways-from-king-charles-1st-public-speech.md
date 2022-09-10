@@ -2,28 +2,26 @@
 category: news
 title: "3 takeaways from King Charles' 1st public speech"
 excerpt: "King Charles III gave his first public speech after taking the throne following the death of Queen Elizabeth II."
-publishedDateTime: 2022-09-10T03:53:00Z
-originalUrl: "https://www.iowapublicradio.org/news-from-npr/2022-09-09/3-takeaways-from-king-charles-1st-public-speech"
-webUrl: "https://www.iowapublicradio.org/news-from-npr/2022-09-09/3-takeaways-from-king-charles-1st-public-speech"
-ampWebUrl: "https://www.iowapublicradio.org/news-from-npr/news-from-npr/2022-09-09/3-takeaways-from-king-charles-1st-public-speech?_amp=true"
-cdnAmpWebUrl: "https://www-iowapublicradio-org.cdn.ampproject.org/c/s/www.iowapublicradio.org/news-from-npr/news-from-npr/2022-09-09/3-takeaways-from-king-charles-1st-public-speech?_amp=true"
+publishedDateTime: 2022-09-09T22:54:00Z
+originalUrl: "https://www.capradio.org/news/npr/story?storyid=1122164052"
+webUrl: "https://www.capradio.org/news/npr/story?storyid=1122164052"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Iowa Public Radio
-  domain: iowapublicradio.org
+  name: Capital Public Radio
+  domain: capradio.org
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/a431d2a/2147483647/strip/true/crop/5264x2961+0+0/resize/480x270!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F09%2F09%2Fap22244099947492_wide-1c2558ea03e904c797feb64d36dbd490e729611f.jpg"
-    width: 480
-    height: 270
+  - url: "https://media.npr.org/assets/img/2022/09/09/ap22252636560114-8e71d7cba211b79cbb8a89e3a2ba312284a0d8f5.jpg?s=6"
+    width: 948
+    height: 710
     isCached: true
 
 related:
@@ -123,6 +121,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "The King's Speech: Charles III addresses nation for 1st time"
+    excerpt: "King Charles III gave his first speech to the nation as British monarch on Friday following the passing of his mother, Queen Elizabeth II.In his speech, he paid tribute to his mother, saying, \"Throughout her life,"
+    publishedDateTime: 2022-09-10T05:11:00Z
+    webUrl: "https://www.pna.gov.ph/articles/1183382"
+    type: article
+    provider:
+      name: pna
+      domain: pna.gov.ph
+    quality: 24
+    images:
+      - url: "https://files01.pna.gov.ph/ograph/2022/09/10/prince-charles.jpg"
+        width: 720
+        height: 377
+        isCached: true
   - title: "Read King Charles’ full 1st speech to Britain as the new monarch"
     excerpt: "King Charles III made his first address to the nation on Friday since becoming Britain's new monarch after the death of his mother, Queen Elizabeth II."
     publishedDateTime: 2022-09-09T18:10:00Z
@@ -165,6 +177,6 @@ related:
       domain: harpersbazaar.com
     quality: 2
 
-secured: "EVJAcbBWlsWbL1Cwq39WTaJWURRrSZpZRFBbYOLv4//3ci3nM/nfv/j/FKuJPOON3OXcY7yOAlKJ0KmK3t2zk/MJ1PyoRCukD+p5X4jPHIxTC9KDHuIAOPzVdcXT2AwbGU52dHqQz5m8X5hmDRJppGcrwj9lehRCyEKxlcRSf2T3gzF/yoTkObD9BI2+XY3RPxoukmNf1AleqSHrf0gl03nZX8d2ItfvLNKooSUyGunR+ofu3yDsbxIYL+02PgLuxv3rR7GhsSbuV6BEmmYfmxKC1VDImCro3yKS1hW9bLL6QZwyXv8sHXCsey+scni/Wtsz72n9nw7ZV98PkEDft3b1+E93XrIVkHo0xqjbLg8=;kZT3egbO5HXG+91IzRzDhA=="
+secured: "/H4Yj794KCaOBqEGhffFttw4C6e4WtvhdM6pQMeMAZ/tyVHQZ57FAwjCXihzrsLCNDcC+ecHI+X90cfavb3uggBOHdYyWX/aznod5Xp+L8ah9LrMxqBKGjTgtg1lPoRU0GFV6G7IfdEuh2IO785/JZdjsjQH1bpZdvINWTNso0nNirURGGpAdWRJxSlBVQ+MnDxRVcLo77JGn79glyYYfR3deOD71oI2oHtkJla9TsQ6rbTSb+ySG6ku4p7354Qzr6rgfvS0CJaRk+5yEmMXaY2ai16tbyT3BwBS3971DgV53vPqDgFi8gID7BaIbR9wh5Gk9EH1/1W35d8crxp3wW+sm+vv/E0nanlABt1tj98=;yAd5kzXXUXF0KTDwPD3+jQ=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-08-30-how-tech-can-accelerate-the-future-of-healthcare-and-social-good.md",
+      "title": "How tech can accelerate the future of healthcare and social good",
+      "excerpt": "Tech companies are teaming with independent innovators to solve pressing problems. A study released in the fall of 2020 suggested that the first nine months of the Covid-19 pandemic’s grip on the world spurred a decade’s worth of technological innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/sponsor/oppo/how-tech-can-accelerate-the-future-of-healthcare-and-social-good/",
+      "originalUrl": "https://techcrunch.com/sponsor/oppo/how-tech-can-accelerate-the-future-of-healthcare-and-social-good/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-543351810.jpg?w=599",
+          "width": 599,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-how-advanced-analytics-and-machine-learning-are-transforming-the-role-of-finance-controllers.md",
       "title": "How advanced analytics and machine learning are transforming the role of ‘Finance Controllers’",
       "excerpt": "Equipping Financial Controllers with predictive capabilities, advanced analytics and ML will help them elevate their role from providing back-office support to business partnering. The role of a finance controller is changing. It is expected that ...",
@@ -707,6 +759,58 @@
       ]
     },
     {
+      "path": "_news/2022-08-30-baidu-revenue-contracts-but-beats-estimates-on-cloud-business-growth.md",
+      "title": "Baidu revenue contracts but beats estimates on cloud business growth",
+      "excerpt": "Revenue at Baidu's AI Cloud unit grew 31% year-on-year in the quarter. Baidu has also been doubling down on self-driving technologies, in which it has heavily invested over the past five years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/baidu-beats-quarterly-revenue-estimates-2022-08-30/",
+      "originalUrl": "https://www.reuters.com/technology/baidu-beats-quarterly-revenue-estimates-2022-08-30/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/VcMhCTIPuZkROATTg3O8vy954F8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DO6AEQYAIVJRHB6NSPK3CHZTQA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T03:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-baidu-stock-is-tumbling-an-earnings-beat-cant-offset-falling-revenue.md",
       "title": "Baidu Stock Is Tumbling. An Earnings Beat Can’t Offset Falling Revenue.",
       "excerpt": "Baidu is the latest Chinese tech giant to show that a slowdown this year in the world’s second-largest economy is causing financial pain. Despite notching double-digit growth in its key ...",
@@ -934,49 +1038,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-30-baidu-revenue-contracts-but-beats-estimates-on-cloud-business-growth.md",
-      "title": "Baidu Revenue Contracts but Beats Estimates on Cloud Business Growth",
-      "excerpt": "Revenue at Baidu's AI Cloud unit grew 31% year-on-year in the quarter. Baidu has also been doubling down on self-driving technologies, in which it has heavily invested over the past five years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2022-08-30/baidu-beats-quarterly-revenue-estimates",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2022-08-30/baidu-beats-quarterly-revenue-estimates",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T02:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-30-i-have-face-blindness-this-is-how-i-recognize-you.md",
       "title": "I Have Face Blindness. This Is How I Recognize You.",
       "excerpt": "new video loaded: I Have Face Blindness. This Is How I Recognize You. Advertisement Opinion Video features innovative video journalism commentary — argued essays, Op-Ed videos, documentaries ...",
@@ -1072,12 +1133,12 @@
       ]
     },
     {
-      "path": "_news/2022-08-30-juniper-research-digital-identity-verification-spend-to-exceed-20-billion-globally-by-2027-as-top-vendors-revealed-in-competitor-leaderboard.md",
-      "title": "Juniper Research: Digital Identity Verification Spend to Exceed $20 Billion Globally by 2027, as Top Vendors Revealed in Competitor Leaderboard",
-      "excerpt": "A new study from Juniper Research has found spend on digital identity verification checks will reach $20.8 billion globally in 2027; up from $11.6 billion in 2022. It predicts this growth will be driven by both the increasing prevalence of digital services requiring digital onboarding journeys,",
+      "path": "_news/2022-08-30-aws-launches-region-in-the-united-arab-emirates.md",
+      "title": "AWS Launches Region in the United Arab Emirates",
+      "excerpt": "(NASDAQ: AMZN), today announced the launch of its second Region in the Middle East, the AWS Middle East (UAE) Region. Starting today, developers, startups, entrepreneurs, and enterprises, as well as government,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-juniper-research-digital-identity-verification-spend-exceed-20-/2022/08/30/9663806.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-juniper-research-digital-identity-verification-spend-exceed-20-/2022/08/30/9663806.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/-aws-launches-region-the-united-arab-emirates-/2022/08/30/9663810.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aws-launches-region-the-united-arab-emirates-/2022/08/30/9663810.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1087,7 +1148,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T00:22:00-07:00",
+      "publishedDateTime": "2022-08-30T00:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",
@@ -1101,58 +1162,7 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-can-a-metaverse-ai-win-americas-got-talent-and-what-that-means-for-the-industry.md",
-      "title": "Can A Metaverse AI Win America's Got Talent? (And What That Means For The Industry)",
-      "excerpt": "When “Simon Cowell” performed on the America’s Got Talent stage, no one was more shocked than the man himself. How did this happen? In their one-of-a-kind audition, leading AI company Metaphysic transformed singer Daniel Emmet into Cowell and earned a spot in the semifinals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/08/30/can-a-metaverse-ai-win-americas-got-talent-and-what-that-means-for-the-industry/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/08/30/can-a-metaverse-ai-win-americas-got-talent-and-what-that-means-for-the-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/630daea09d4909d48e04b7ea/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 926,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/08/30/can-a-metaverse-ai-win-americas-got-talent-and-what-that-means-for-the-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/08/30/can-a-metaverse-ai-win-americas-got-talent-and-what-that-means-for-the-industry/amp/",
-      "publishedDateTime": "2022-08-29T23:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "AWS AI",
         "AI"
       ]
     }

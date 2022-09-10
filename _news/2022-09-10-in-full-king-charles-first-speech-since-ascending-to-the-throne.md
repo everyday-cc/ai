@@ -43,22 +43,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "3 takeaways from King Charles' 1st public speech"
-    excerpt: "King Charles III gave his first public speech after taking the throne following the death of Queen Elizabeth II."
-    publishedDateTime: 2022-09-10T03:53:00Z
-    webUrl: "https://www.iowapublicradio.org/news-from-npr/2022-09-09/3-takeaways-from-king-charles-1st-public-speech"
-    ampWebUrl: "https://www.iowapublicradio.org/news-from-npr/news-from-npr/2022-09-09/3-takeaways-from-king-charles-1st-public-speech?_amp=true"
-    cdnAmpWebUrl: "https://www-iowapublicradio-org.cdn.ampproject.org/c/s/www.iowapublicradio.org/news-from-npr/news-from-npr/2022-09-09/3-takeaways-from-king-charles-1st-public-speech?_amp=true"
-    type: article
-    provider:
-      name: Iowa Public Radio
-      domain: iowapublicradio.org
-    quality: 44
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/a431d2a/2147483647/strip/true/crop/5264x2961+0+0/resize/480x270!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F09%2F09%2Fap22244099947492_wide-1c2558ea03e904c797feb64d36dbd490e729611f.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Charles's first speech as King in full as Monarch pays tribute to Elizabeth II"
     excerpt: "King Charles gave his first address to the nation in a pre-recorded speech filmed just after he returned to London from Balmoral, where he was at his mother's side as she died"
     publishedDateTime: 2022-09-09T17:17:00Z
@@ -122,6 +106,34 @@ related:
       - url: "https://media.whas11.com/assets/ETONLINE/images/683db480-44b6-49b4-bdf6-d391e8717a47/683db480-44b6-49b4-bdf6-d391e8717a47_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "3 takeaways from King Charles' 1st public speech"
+    excerpt: "King Charles III gave his first public speech after taking the throne following the death of Queen Elizabeth II."
+    publishedDateTime: 2022-09-09T22:54:00Z
+    webUrl: "https://www.capradio.org/news/npr/story?storyid=1122164052"
+    type: article
+    provider:
+      name: Capital Public Radio
+      domain: capradio.org
+    quality: 24
+    images:
+      - url: "https://media.npr.org/assets/img/2022/09/09/ap22252636560114-8e71d7cba211b79cbb8a89e3a2ba312284a0d8f5.jpg?s=6"
+        width: 948
+        height: 710
+        isCached: true
+  - title: "The King's Speech: Charles III addresses nation for 1st time"
+    excerpt: "King Charles III gave his first speech to the nation as British monarch on Friday following the passing of his mother, Queen Elizabeth II.In his speech, he paid tribute to his mother, saying, \"Throughout her life,"
+    publishedDateTime: 2022-09-10T05:11:00Z
+    webUrl: "https://www.pna.gov.ph/articles/1183382"
+    type: article
+    provider:
+      name: pna
+      domain: pna.gov.ph
+    quality: 24
+    images:
+      - url: "https://files01.pna.gov.ph/ograph/2022/09/10/prince-charles.jpg"
+        width: 720
+        height: 377
         isCached: true
   - title: "Read King Charles’ full 1st speech to Britain as the new monarch"
     excerpt: "King Charles III made his first address to the nation on Friday since becoming Britain's new monarch after the death of his mother, Queen Elizabeth II."

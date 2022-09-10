@@ -9,8 +9,8 @@ ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-to-help-an
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-to-help-analyze-coronavirus-variants-208518-1.htm"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: Medindia
@@ -28,21 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Preparing for future coronavirus variants using artificial intelligence"
-    excerpt: "SARS-CoV-2 is constantly mutating and each new variant often catches the world by surprise. Take for example the highly mutated omicron variant that emerged last November and required health authorities to develop a rapid response strategy even though,"
-    publishedDateTime: 2022-09-05T12:52:00Z
-    webUrl: "https://phys.org/news/2022-09-future-coronavirus-variants-artificial-intelligence.html"
-    ampWebUrl: "https://phys.org/news/2022-09-future-coronavirus-variants-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-future-coronavirus-variants-artificial-intelligence.amp"
+  - title: "ETH Zurich: Preparing for future coronavirus variants using artificial intelligence"
+    excerpt: "Researchers at ETH Zurich have developed a method to explore the possibilities of how the pandemic virus could evolve. Thanks to their work, it may be possible to develop antibody therapies and vaccines that are more likely to be effective also against future viral variants."
+    publishedDateTime: 2022-09-06T08:26:00Z
+    webUrl: "https://sciencebusiness.net/network-updates/eth-zurich-preparing-future-coronavirus-variants-using-artificial-intelligence"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 61
+      name: Science|Business
+      domain: sciencebusiness.net
+    quality: 33
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/preparing-for-future-c.jpg"
-        width: 996
-        height: 996
+      - url: "https://sciencebusiness.net/sites/default/files/inline-images/SBpodcast_logo.jpg"
+        width: 600
+        height: 600
         isCached: true
   - title: "Preparing for future coronavirus variants using artificial intelligence"
     excerpt: "Researchers at ETH Zurich have developed a method to explore the possibilities of how the pandemic virus could evolve. Thanks to their work, it may be possible to develop antibody therapies and vaccines that are more likely to be effective also against future viral variants."

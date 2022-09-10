@@ -885,7 +885,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-size-2022-3402-cagr-latest-trend-share-growth-competitors-and-forecast-2022-09-07",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -989,7 +989,7 @@
       "originalUrl": "https://dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -1073,6 +1073,50 @@
       "topics": [
         "AI",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-artificial-intelligence-to-help-analyze-coronavirus-variants.md",
+      "title": "Artificial Intelligence to Help Analyze Coronavirus Variants",
+      "excerpt": "A new method developed by researchers uses artificial intelligence to analyze in real-time immediately after a new COVID variant emerges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-to-help-analyze-coronavirus-variants-208518-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-to-help-analyze-coronavirus-variants-208518-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/artificial-intelligence-pros-and-cons.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-to-help-analyze-coronavirus-variants-208518-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-to-help-analyze-coronavirus-variants-208518-1.htm",
+      "publishedDateTime": "2022-09-06T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1178,57 +1222,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-09-07-15-smart-ways-retail-businesses-should-be-using-ai.md",
-      "title": "15 Smart Ways Retail Businesses Should Be Using AI",
-      "excerpt": "From better predicting their inventory needs to managing and supporting their employees, retail businesses can leverage AI to improve their operations and their customers’ experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/06/15-smart-ways-retail-businesses-should-be-using-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/06/15-smart-ways-retail-businesses-should-be-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/631753214643d7543ec89c1a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/06/15-smart-ways-retail-businesses-should-be-using-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/06/15-smart-ways-retail-businesses-should-be-using-ai/amp/",
-      "publishedDateTime": "2022-09-06T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

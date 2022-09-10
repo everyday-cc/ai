@@ -55,15 +55,6 @@ related:
         width: 700
         height: 460
         isCached: true
-  - title: "Iran to use facial recognition technology to enforce grim new laws on women"
-    excerpt: "Iran is introducing an oppressive tightening of its strict hijab laws. Women can be spotted by facial recognition technology on public transport if they do not dress 'correctly'"
-    publishedDateTime: 2022-09-05T12:19:00Z
-    webUrl: "https://www.mirror.co.uk/news/world-news/iran-use-facial-recognition-technology-27910625"
-    type: article
-    provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 17
 
 secured: "jNr3pRkkwEkxBR9oCEevFt/rdJNzRV47Z0xAYkFmsqz6zNoxa7J9vMmJRF/phhcOAApsypgRQpU9D9WmS51IMi5pl3FGsP3YR/Wd7r4wqHTSld3SvcbRP3coKbMBAmU/iRmW/ew9escVAuiPde3uKeIvQvN1HrnsGv6wn4x1HcSgZbrZXrDX/bbI8j1ySTR+nYtfpRHOsWi/4r6Mix6+ew3iaekQGy0CgEPbjci2u8m4pI9wDS19VZeH4d9xZr8/HSferRG4Ch881zTM7vsOFMoK0QI7i/ObYcvoTSWkcrXssg7bZvaLAc0H8QJaZ4ZIQzTDtxJhUdPb+wPX2V/EMotqrWs9Epw1RTubuOzntLoRwfDdMIQXfIybrLKt7YzM/KhJinZyT30CxuiYaw3eD4WgdUkVheWlabpgzkTDeULwPvi5pCtsOGOdt/BpZTyJhNvb783gdd0Qk4ScHuquBZZMwjwzqc35Fg70JI6OygUUk5Ks8MFtrn6DqRBuEPIVp2/f3EC4I0u7EhqKCDMibw==;5JMpCFk4RqF0d5AonzhtEw=="
 ---

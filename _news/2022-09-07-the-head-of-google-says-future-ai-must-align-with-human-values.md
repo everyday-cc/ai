@@ -143,15 +143,6 @@ related:
         width: 473
         height: 315
         isCached: true
-  - title: "The ABCs of AI, algorithms and machine learning (re-air)"
-    excerpt: "The next step up is machine learning, which uses algorithms. “Rather than a person programming in the rules, the system itself has learned,” Mitchell said. For example, speech recognition software, which uses data to learn which sounds combine to become words and sentences."
-    publishedDateTime: 2022-09-05T11:36:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/the-abcs-of-ai-algorithms-and-machine-learning-re-air/"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 34
 
 secured: "pcxWbFG4603Kz9UlzbrQinMFTbCxy2PbuUd2albufzpm+r/8sjXDHHkbCqychX6x9jCokKZO9fKN7Mt6srn3IMDyzjOnPV4wndtPHJ04RLhRu0SmW7IlxH5np4KJT7R4C+mw7r+x9DLCsYCbdRrcsACZktG+4Djxu3tq2F3qobQPwFXYwLD+b8vCGzM44yJ9B+f6IYp3TjYQ2URybuDZfcJbiida3IUszOw+Iz+F1l2qDrxnOrcwT434nazUi1z74P4Kh2JFNxgoCK4Q+x+6DRwwUwkAGUyHuER9MtXDxmCPjwsCYXSySsZJHIf3iU/NhfG7lVZm1LPV7LzzjEig5BIOr62vOGrwUDPCu6dqQdNkGuyoqBTfBRZ3KyAUe0uFv3WbeVO4LDLJ6p7L4cREV7UpbaC1LQncEDeVgiKfaMMsYKuids4R3AeHxQh8liuIFaq2avwVG8b4RHL8dliDppyOCRC5naJwS+a1FptiPcPK3d0h9HDY1AOfTzOeez27yYtBBkA2ZYsxc3pzU3O/PQ==;bunaMQpWVzkXwVEutUK1SA=="
 ---

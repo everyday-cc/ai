@@ -2,6 +2,57 @@
   "page": 154,
   "value": [
     {
+      "path": "_news/2022-05-12-evisoft-embeds-ai-into-contract-management-software-raises-100m.md",
+      "title": "Evisoft embeds AI into contract management software, raises $100M",
+      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/11/evisoft-embeds-ai-into-contract-management-software-raises-100m/",
+      "originalUrl": "https://venturebeat.com/2022/05/11/evisoft-embeds-ai-into-contract-management-software-raises-100m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1185188027-e1651849778407.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/11/evisoft-embeds-ai-into-contract-management-software-raises-100m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/11/evisoft-embeds-ai-into-contract-management-software-raises-100m/amp/",
+      "publishedDateTime": "2022-05-11T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-12-google-io-to-build-better-ai-google-invites-others-to-join-its-ai-test-kitchen.md",
       "title": "Google I/O: To build better AI, Google invites others to join its AI Test Kitchen",
       "excerpt": "On Wednesday at Google I/O, the company showcased LaMDA 2. During the I/O keynote, Google CEO Sundar Pichai called it Google's \"most advanced conversational AI yet.\" The tech giant is working on LaMDA and other models to improve Search, Google Assistant ...",
@@ -1139,49 +1190,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws.md",
-      "title": "IBM signs collaboration agreement with Amazon, SaaS offerings soon available on AWS",
-      "excerpt": "Inc. (AWS). According to a statement from IBM, this latest partnership will provide IBM clients access to automation, security, artificial intelligence, and data capabilities through IBM Cloud ...",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2022/05/11/ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws/",
-      "originalUrl": "https://wraltechwire.com/2022/05/11/ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wraltechwire.com/wp-content/uploads/2021/09/happyfourth-1-5.jpg",
-          "width": 6000,
-          "height": 4000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2022/05/11/ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/05/11/ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws/?amp=1",
-      "publishedDateTime": "2022-05-11T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -1,25 +1,21 @@
 ---
 category: news
 title: "A therapy found to improve cognitive function in patients with Down syndrome"
-excerpt: "Down syndrome, also known as trisomy 21, affects around one in 800 births and results in a variety of clinical manifestations, including decline in cognitive capacity. With age, 77% of people with ..."
-publishedDateTime: 2022-09-01T20:36:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/09/220901151604.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/09/220901151604.htm"
+excerpt: "First the scientists revealed a dysfunction of the GnRH neurons in an animal model of Down syndrome and its impacts on the cognitive function impairment associated with the condition. Then a pilot ..."
+publishedDateTime: 2022-09-01T18:01:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/962864"
+webUrl: "https://www.eurekalert.org/news-releases/962864"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Microsoft AI
   - AI
   - AI in Healthcare
 
-secured: "Uzgot4Pigji/UMkPAMtJmaIq9OFrcZt+q5lDRX9tTsnhVV7ENUiX62qEjionUf9+P6ZmnTqvey3UOdJK4luktWA4c0JNkWrYdRsQRDwgajVjCvDFhWuNHSNpzeixcPzan0m++0ZHXFyjCSCULMKIHyCvCuDmjMQGtdAFnX5YDMTcv+5iNGjOE6xFASWb5aRTfwEsr0WWevxTc62g0IHQ5mZ+xlF8db0v0IlnxitzoMjVT5G4BBK+Yr3nhd/rbe9Cu3jzJSmeWGuos+t/NzVEQTkDKF+Xa7DM1f1PoKBWS4UkFQLCg05rhpdXi+FBv3YmcN/5ss1RjACufsNgGNJ9RUAAqLh+ijOYOOdSwEAtB0s=;Z163H5ZqQP2G8/vXhCvvSg=="
+secured: "YsAKVIvCjn5g1UMiEyzcbKYzLWIi5BA3qLdbQeZTE+HGSj4ZJe4w4pPwsZBuWkAK+NkW0z9BTknpEN+NDGagQgICn6VarJqRVDs7LNvYwZsxqWOvauVWzGSyPD7FHlkwYLmnwlpSNkO+r1c24AESX5whRKtbsJGSSHohkHfIH6pmENEMXY+63Opt5XpjR7AQZvwaOycyFWhvdwYXn0P6OHh+tqO7WId+zap2rvgQk5+jnukmNLycoWmOlIGn8Q+WElEe7//td97+U2WUl7OKI8U4haGNTcWK1naL4tB3dsY6V+fxg2+nuLp2/CLNQRLVTfh5ClaThcoPuznf4RDFsNy9wIwhjSTeJPwV1iT3PD4=;5dtc50iaxyny+eMrT2tOVw=="
 ---
 

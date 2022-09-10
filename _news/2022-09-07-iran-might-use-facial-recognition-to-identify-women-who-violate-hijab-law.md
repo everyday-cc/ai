@@ -9,7 +9,7 @@ ampWebUrl: "https://dailytimes.com.pk/993751/iran-might-use-facial-recognition-t
 cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/amp/"
 type: article
 quality: 58
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 2048
         height: 1367
         isCached: true
-  - title: "Iran to use facial recognition technology to enforce grim new laws on women"
-    excerpt: "Iran is introducing an oppressive tightening of its strict hijab laws. Women can be spotted by facial recognition technology on public transport if they do not dress 'correctly'"
-    publishedDateTime: 2022-09-05T12:19:00Z
-    webUrl: "https://www.mirror.co.uk/news/world-news/iran-use-facial-recognition-technology-27910625"
-    type: article
-    provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 17
 
 secured: "Bn+8Am145uaUwsqurLkNVhMRyb5M2XvWL8QWo112fiAX//eSKkKS2sXcK1Rs59MbIP0Ku9h9Bb76wfWZd9lxFfrwjWjNfg+/csyJ0ST8FR/EcPtVELL0fZLSTPklihNMDyeAciNy/xtMLP5OjJ2mlqDg/ySzB7QY4IihFisbLjckvps64Z13MHC+Je8SNA0LfxBMsLu/ZhNyCR3weZn61jRzf3ldzZe/C7Ll9+EFzmxViqHs6hBpTtRTAnu+GEp5jAZbnWfB0JF3wAbDAEV2yGd+oAXMVJcAzktHuMAgLL1nr2TP3S6KELeaQA2HXdjqbvYTc4gv+aEOfO77p1iGXAxEMaNIwnkSDwLZGrvsKqhVHO1RkrMIOzj37CIlB4dixT0NSOyaWtClCK7wbGKCeIAw1CoV8qnqG4v0cJ4OWVMH1MEa+tVkQFiUSUaMUgvS5XvSbcPc98e5/kwaNDTJghvxscUeJE4PSAWpItTork7fp5iZ6FuYZw4bj+mDza0YC6oNuvR7IulsPO9NXwKkCw==;jV0UCILJUY7FSEnCYdGg1g=="
 ---

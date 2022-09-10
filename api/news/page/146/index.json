@@ -2,6 +2,49 @@
   "page": 146,
   "value": [
     {
+      "path": "_news/2022-05-19-luminous-computing-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups.md",
+      "title": "Luminous Computing Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups",
+      "excerpt": "CB Insights today named Luminous Computing to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world.",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=666325",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=666325",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
+          "width": 580,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-19-machine-learning-framework-pytorch-enabling-gpu-accelerated-training-on-apple-silicon-macs.md",
       "title": "Machine Learning Framework PyTorch Enabling GPU-Accelerated Training on Apple Silicon Macs",
       "excerpt": "In collaboration with the Metal engineering team at Apple, PyTorch today announced that its open source machine learning framework will soon support GPU-accelerated model training on Apple silicon Macs powered by M1, M1 Pro, or M1 Max chips. Until now ...",
@@ -1093,48 +1136,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-horizon3ai-named-finalist-for-most-promising-early-stage-startup-in-2022-sc-awards.md",
-      "title": "Horizon3.ai Named Finalist for Most Promising Early-Stage Startup in 2022 SC Awards",
-      "excerpt": "Horizon3.ai, a cybersecurity firm focused on autonomous penetration testing, today announced that it has been recognized as an Excellence Award finalist in the Most Promising Early-Stage Startup category for the 2022 SC Awards.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-san-francisco-b0f527227d4b4c3abe9f6cd62b2e832d",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-san-francisco-b0f527227d4b4c3abe9f6cd62b2e832d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

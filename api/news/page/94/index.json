@@ -2,6 +2,43 @@
   "page": 94,
   "value": [
     {
+      "path": "_news/2022-06-24-10-smart-artificial-intelligence-ai-stocks-to-buy.md",
+      "title": "10 Smart Artificial Intelligence (AI) Stocks to Buy",
+      "excerpt": "Artificial intelligence (AI), for all of its futuristic elements, is not a new category – not by a long shot. The roots of the technology go all the way back to the late 1950s, when computers started to become much more powerful.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/10-smart-artificial-intelligence-ai-stocks-to-buy",
+      "originalUrl": "https://www.nasdaq.com/articles/10-smart-artificial-intelligence-ai-stocks-to-buy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/10-smart-artificial-intelligence-ai-stocks-to-buy?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/10-smart-artificial-intelligence-ai-stocks-to-buy?amp",
+      "publishedDateTime": "2022-06-23T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI Hardware",
+        "Natural Language Processing",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-06-24-what-happens-if-we-put-a-sentient-ai-inside-of-a-lab-grown-brain.md",
       "title": "What happens if we put a ‘sentient’ AI inside of a lab-grown brain?",
       "excerpt": "At the intersection of synthetic organs, artificial general intelligence, and brain-computer-interfaces lies the future. Let's take a peek!",
@@ -1095,49 +1132,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-develop-regulations-to-guide-all-actors-in-artificial-intelligence-industry.md",
-      "title": "Develop regulations to guide all actors in artificial intelligence industry",
-      "excerpt": "Recently, Google employee Blake Lemoine made headlines when he claimed that the Artificial Intelligence ... in case of an accident involving a self-driving car which uses components and software ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.standardmedia.co.ke/opinion/article/2001448682/develop-regulations-to-guide-all-actors-in-artificial-intelligence-industry",
-      "originalUrl": "https://www.standardmedia.co.ke/opinion/article/2001448682/develop-regulations-to-guide-all-actors-in-artificial-intelligence-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/uQ6YkBPcVsizubEzC0VCPtMs56VG4IJTJDkHWYSq.jpg",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Standard Digital",
-        "domain": "standardmedia.co.ke",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-inc
 webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-inclinations-and-development-status-highlighted-during-forecast-period-2022-to-2027-2022-09-06"
 type: article
 quality: 52
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/8/28/w600X390/RBI_PTI14.jpg"
         width: 600
         height: 390
+        isCached: true
+  - title: "Automated Data Science and Machine Learning Platforms Market Inclinations and Development Status Highlighted During Forecast Period 2022 to 2027"
+    excerpt: "Report Ocean recently added a research report on the Automated Data Science and Machine Learning Platforms market. The report includes an extensive analysis of the market's characteristics, COVID-19 impact,"
+    publishedDateTime: 2022-09-07T10:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automated-data-science-and-machine-learning-platforms-market-inclinations-and-development-status-highlighted-during-forecast-period-2022-to-2027-2022-09-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Google leads fresh investment in embedded lending fintech R2"
     excerpt: "R2, an embedded lending fintech from Latin America, has received US$15mn of Series A investment led by the AI-focused venture fund of search giant Google."
