@@ -2,6 +2,49 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2022-07-25-could-artificial-intelligence-soon-be-able-to-see.md",
+      "title": "Could artificial intelligence soon be able to see?",
+      "excerpt": "Researchers from the University of Central Florida have unveiled new artificial intelligence that can see, recognise shapes and identify objects. This technology could be used in robotics or to improve autonomous car systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2022/07/25/could-artificial-intelligence-soon-be-able-to-see",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2022/07/25/could-artificial-intelligence-soon-be-able-to-see",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2022/07/25/1671562.jpg",
+          "width": 1240,
+          "height": 796,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-24T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-25-artificial-intelligence-in-drug-discovery-market-size-to-develop-with-increased-global-emphasis-on-industrialization-2030.md",
       "title": "Artificial Intelligence in Drug Discovery Market Size, To Develop with Increased Global Emphasis On Industrialization -2030",
       "excerpt": "Report Ocean presents a new report on artificial intelligence (AI) in drug discovery market size, share, growth, industry trends, and forecast 2030, covering various industry elements and growth trends helpful for predicting the market’s future.",
@@ -1112,48 +1155,6 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-23-googles-artificial-intelligence-chatbot-lamda-is-a-sentient-being.md",
-      "title": "Google’s Artificial Intelligence Chatbot LaMDA is a “Sentient” Being",
-      "excerpt": "The war between humans and machines. Well, we guess you all know this story very well. Moreover, there are tons of movies and books telling how artificial intelligence takes over and thinks this planet belongs to it. This is already a reality. Don’t you ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2022/07/23/googles-artificial-intelligence-chatbot-lamda-is-a-sentient-being/",
-      "originalUrl": "https://www.gizchina.com/2022/07/23/googles-artificial-intelligence-chatbot-lamda-is-a-sentient-being/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2022/07/Google-engineer-claims-AI-technology-LaMDA-is-sentient-1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2022/07/23/googles-artificial-intelligence-chatbot-lamda-is-a-sentient-being/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/07/23/googles-artificial-intelligence-chatbot-lamda-is-a-sentient-being/amp/",
-      "publishedDateTime": "2022-07-23T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

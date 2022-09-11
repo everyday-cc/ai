@@ -2,6 +2,40 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2022-07-13-s2w-presented-a-paper-on-dark-web-language-analysis-at-the-worlds-most-prestigious-natural-language-processing-nlp-conference-naacl.md",
+      "title": "S2W Presented a Paper on Dark Web Language Analysis at the World's Most Prestigious Natural Language Processing (NLP) Conference, NAACL",
+      "excerpt": "https://s2w.inc/) participated in the world's most prestigious natural language processing society, NAACL 2022 (Annual Conference of the North American Chapter of the Association for Computational ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20220712cn15518/s2w-presented-a-paper-on-dark-web-language-analysis-at-the-worlds-most-prestigious-natural-language-processing-nlp-conference-naacl",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20220712cn15518/s2w-presented-a-paper-on-dark-web-language-analysis-at-the-worlds-most-prestigious-natural-language-processing-nlp-conference-naacl",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T17:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-13-raspberry-pi-camera-with-smarts-cloud-or-local.md",
       "title": "Raspberry Pi Camera With Smarts — Cloud Or Local?",
       "excerpt": "[Mark’s] first pass was to use Amazon’s Rekognition service to process video. This allowed the camera to actually be smarter about what would trigger a detection event. In particular ...",
@@ -989,49 +1023,6 @@
       "provider": {
         "name": "Slator",
         "domain": "slator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-soon-ai-based-mandarin-translation-devices-for-troops-on-lac.md",
-      "title": "Soon AI-based mandarin translation devices for troops on LAC",
-      "excerpt": "... products and applications unveiled by Defence Minister Rajnath Singh at the ‘AI in Defence’ symposium on Monday. “It is an offline handheld language translation system which works based on AI. It has been tested in the forward areas and Army has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/national/soon-ai-based-mandarin-translation-devices-for-troops-on-lac/article65628104.ece",
-      "originalUrl": "https://www.thehindu.com/news/national/soon-ai-based-mandarin-translation-devices-for-troops-on-lac/article65628104.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th-i.thgim.com/public/incoming/pew880/article65628681.ece/alternates/LANDSCAPE_615/ai%20story%20image.jpg",
-          "width": 615,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/national/soon-ai-based-mandarin-translation-devices-for-troops-on-lac/article65628104.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/soon-ai-based-mandarin-translation-devices-for-troops-on-lac/article65628104.ece/amp/",
-      "publishedDateTime": "2022-07-12T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
         "images": null,
         "publishers": null,
         "authors": null

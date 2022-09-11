@@ -2,11 +2,11 @@
 category: news
 title: "The Integration Of Artificial Intelligence And Smart Speakers In The Speaker Driver Is An Emerging Trend"
 excerpt: "The integration of artificial intelligence and smart speakers into speaker drivers is gaining popularity among speaker driver market trends. Artificial intelligence (AI) integrated chipsets that are being used for smart types of speakers offer voice control,"
-publishedDateTime: 2022-09-08T17:09:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/09/08/9670149.htm"
-webUrl: "https://it.tmcnet.com/news/2022/09/08/9670149.htm"
+publishedDateTime: 2022-09-08T17:04:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-integration-artificial-intelligence-smart-speakers-the-speaker-driver-/2022/09/08/9670149.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-integration-artificial-intelligence-smart-speakers-the-speaker-driver-/2022/09/08/9670149.htm"
 type: article
-quality: 20
+quality: 22
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
   domain: tmcnet.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -39,6 +40,6 @@ related:
         height: 393
         isCached: true
 
-secured: "+zYbUy2UYkvtErMXA4+JB8Sw2kqEE8760P/eNUTlQ1qBYePZbQdClnzBxmMfuvh7l8TMstbizlKA5iLzOsQZuOxynXFzSN0DEgK4m62onZqpCXm9DeoFOZo+/ttq2+4OOizYt8FyeTUgO0Gw42jAch0T2TeCjX++8MK4ymOZt1sXl8Pfj3NpJJGC529UAc3e70qSytnvJjK1MPMC1i1+4UtnfH4nl1UIECMjm6N5EpzWL3DNSdI0eKnwE82bDJ0mkhNNgLhVQr8ln4X1kVAh4tZR78NRQUx9+bAjypb6wrCPZTti93nAto0HD039htSEuC8AUWsnXAAPAM0PrfghpfaTjRUiXwFw6g4vFR0BEcU=;ubdA7niVRWFTWl2h/NtGoA=="
+secured: "x6p2mtNBRc1D/BVW4Wlr+7nYQo54Nj0WiZEYnKTXa2DhaAU6sCttvr8k7I9majJ7HJFI/qYC+19izqeADNdcrqpcmLGJ+UdYqH3WlgQpa882X/SNUguMg31wJHgGKmVGkk40J9pTDNHs/JrnCaxUqtTZ9LNuSDbizuSoAsl8x4sZ2BIIjanFNLvJ+kpwb65RW1wXCgaDYKsiePMM/jK34vahh/DydWmEO7gN+J7fBIs37XcSEV7OYmVk2whgJsIB8Dc/LJko1kGUm5OYpbaC8aOheCFRGmXdO1uFzj2U1Z+KfndJmH8yUl8D33j3u2ZtatI9NLKrGlEjLDSo5H1HMkpg/EqgIzBKZb+bEWPSH5A=;c29u/ptP6f76RjPMdyKk5Q=="
 ---
 

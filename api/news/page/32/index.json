@@ -2,6 +2,40 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2022-08-13-pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research.md",
+      "title": "Pearl Named 2022 \"Hot Vendor\" in Computer Vision by Aragon Research",
+      "excerpt": "Pearl, the global leader in dental AI solutions, announced today that it has been included on the 2022 list of \"Hot Vendors\" in Computer Vision i by Aragon Research, Inc. The firm's report ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/08/b28477798/pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/08/b28477798/pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28477798",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28477798",
+      "publishedDateTime": "2022-08-12T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-13-why-data-ethics-leadership-needs-to-become-the-new-normal-in-finance.md",
       "title": "Why data ethics leadership needs to become the new normal in finance",
       "excerpt": "By David Sweenor, Senior Director of Product Marketing at Alteryx. In June, one of the largest banking groups in the world – Lloyds Bank – announced it was joining the ranks of Google, KPMG and Uber with the creation of a new",
@@ -1118,49 +1152,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-artificial-intelligence-and-why-astronomers-dont-look-through-a-telescope-anymore.md",
-      "title": "Artificial intelligence and why astronomers don’t look through a telescope anymore",
-      "excerpt": "As astronomers we use machine learning for object recognition, signal predictions and even as a tool to manage our instruments. It would take me my whole life to inspect two million astronomical ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.lcsun-news.com/story/life/2022/08/11/star-news-ai-and-why-astronomers-dont-look-through-a-telescope-anymore/65398005007/",
-      "originalUrl": "https://www.lcsun-news.com/story/life/2022/08/11/star-news-ai-and-why-astronomers-dont-look-through-a-telescope-anymore/65398005007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2022/07/12/PTAL/a3276026-24ce-46ce-a39a-a75780d40050-webbfromNASA-02.png?auto=webp&crop=1226,690,x300,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-11T23:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Las Cruces Sun-News",
-        "domain": "lcsun-news.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

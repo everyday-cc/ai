@@ -963,6 +963,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-05-ai-detects-rare-birth-defects-in-fetal-ultrasound.md",
+      "title": "AI Detects Rare Birth Defects in Fetal Ultrasound",
+      "excerpt": "A new study demonstrates how AI deep learning can be used to diagnose a rare embryonic developmental disorder called cystic hygroma within the first trimester of pregnancy from fetal ultrasound images.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound",
+      "originalUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-09/pic27777.gif.jpg?itok=UL6r1b41",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound?amp",
+      "publishedDateTime": "2022-09-05T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-05-ai-generated-artwork-wins-prize-in-art-competition-in-us-find-out-how.md",
       "title": "AI-generated artwork wins prize in art competition in US! Find out how",
       "excerpt": "Allen is the president of Incarnate Games, a tabletop gaming company in Colorado. His work is called \"Space Opera Theater\".",
@@ -1140,59 +1183,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-05-five-experts-address-trends-in-artificial-intelligence-and-machine-learning.md",
-      "title": "Five Experts Address Trends in Artificial Intelligence and Machine Learning",
-      "excerpt": "Trends and risks in a Golden Age of Artificial Intelligence and Machine Learning By David Churbuck, Founder & former Editor-in chief of Forbes.com NEW YORK, Sept. 5, 2022 /PRNewswire/ -- Over the summer of 2022,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/five-experts-address-trends-in-artificial-intelligence-and-machine-learning-2022-09-05-9203048",
-      "originalUrl": "https://www.marketwatch.com/press-release/five-experts-address-trends-in-artificial-intelligence-and-machine-learning-2022-09-05-9203048",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-05T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

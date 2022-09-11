@@ -2,6 +2,49 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2022-07-28-artificial-intelligence-to-reduce-waiting-list-for-neurology-appointments.md",
+      "title": "Artificial intelligence to reduce waiting list for neurology appointments",
+      "excerpt": "The Walton Centre NHS Trust is working with Tata Consultancy Services to apply digital technology to its operation, starting with a time-saving AI chatbot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252523260/Artificial-intelligence-to-reduce-waiting-list-for-neurology-appointments",
+      "originalUrl": "https://www.computerweekly.com/news/252523260/Artificial-intelligence-to-reduce-waiting-list-for-neurology-appointments",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computerweekly.com/visuals/German/article/chatbot-mobile-phone-adobe.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252523260/Artificial-intelligence-to-reduce-waiting-list-for-neurology-appointments?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252523260/Artificial-intelligence-to-reduce-waiting-list-for-neurology-appointments?amp=1",
+      "publishedDateTime": "2022-07-28T01:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-28-instagram-and-facebook-feeds-will-display-more-ai-recommended-posts-by-the-end-of-2023-mark-zuckerberg-says.md",
       "title": "Instagram and Facebook feeds will display more AI-recommended posts by the end of 2023, Mark Zuckerberg says",
       "excerpt": "Gone are the days when Facebook and Instagram feeds were only filled with the latest updates from friends, family, or favorite pages. These major social media platforms, both owned by Meta, have been showing content",
@@ -1084,49 +1127,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-air-force-testing-system-to-stop-active-shooters-with-robots-and-drones.md",
-      "title": "Air Force testing system to stop active shooters with robots and drones",
-      "excerpt": "The U.S. Air Force is testing a system that uses artificial intelligence and drones on its bases aimed at putting a stop to an active shooter.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2022/07/27/air-force-testing-system-to-stop-active-shooters-with-robots-and-drones/",
-      "originalUrl": "https://nypost.com/2022/07/27/air-force-testing-system-to-stop-active-shooters-with-robots-and-drones/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/07/newspress-collage-23228536-1658958834439.jpg?quality=75&strip=all&1658944488&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2022/07/27/air-force-testing-system-to-stop-active-shooters-with-robots-and-drones/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/07/27/air-force-testing-system-to-stop-active-shooters-with-robots-and-drones/amp/",
-      "publishedDateTime": "2022-07-27T15:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

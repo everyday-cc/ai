@@ -470,7 +470,7 @@
       "originalUrl": "https://www.techspot.com/news/95893-dall-e-machine-learning-can-now-imagine-what.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -522,7 +522,7 @@
       "originalUrl": "https://venturebeat.com/ai/is-intel-labs-brain-inspired-ai-approach-the-future-of-robot-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -703,6 +703,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-05-ai-detects-rare-birth-defects-in-fetal-ultrasound.md",
+      "title": "AI Detects Rare Birth Defects in Fetal Ultrasound",
+      "excerpt": "A new study demonstrates how AI deep learning can be used to diagnose a rare embryonic developmental disorder called cystic hygroma within the first trimester of pregnancy from fetal ultrasound images.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound",
+      "originalUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-09/pic27777.gif.jpg?itok=UL6r1b41",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound?amp",
+      "publishedDateTime": "2022-09-05T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1420,49 +1463,6 @@
         "Google AI",
         "Facebook AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-mgh-mit-dive-deeper-to-better-determine-breast-cancer-risk-through-deep-learning.md",
-      "title": "MGH, MIT dive deeper to better determine breast cancer risk through deep learning",
-      "excerpt": "Researchers at Massachusetts General Hospital (MGH) and the Massachusetts Institute of Technology (MIT) have developed a deep learning computer model that expands on the ability to identify discrete data contained in breast imaging to better predict a woman’s chances of developing breast cancer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bioworld.com/articles/563526-mgh-mit-dive-deeper-to-better-determine-breast-cancer-risk-through-deep-learning",
-      "originalUrl": "https://www.bioworld.com/articles/563526-mgh-mit-dive-deeper-to-better-determine-breast-cancer-risk-through-deep-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bioworld.com/ext/resources/BMT-source/2022/08-31-MGH-breast-cancer.png?height=635&t=1661983683&width=1200",
-          "width": 848,
-          "height": 635,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BioWorld",
-        "domain": "bioworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],
