@@ -18,15 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Rope Inc. Begins Crowdfunding for AI Traffic Accident Detector on Indiegogo"
-    excerpt: "Rope Inc. makes the Baton Plug, a device that automatically detects a car accident and sends emergency alerts. According to the World Health Organization (WHO), 392,904 people lost their lives in car accidents last year,"
-    publishedDateTime: 2022-09-06T13:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/rope-inc-begins-crowdfunding-for-ai-traffic-accident-detector-on-indiegogo-1031726295"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
   - title: "Rope Launches Crowdfunding for Baton Plug AI Traffic Accident Detector"
     excerpt: "Rope Inc., a tech startup offering smart accident detection devices, has launched a new crowdfunding effort for its eCall device."
     publishedDateTime: 2022-09-09T15:39:00Z

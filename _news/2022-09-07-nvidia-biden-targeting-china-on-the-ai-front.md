@@ -101,20 +101,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "NVIDIA and Dell Offer New Data Center Solution for the AI Era"
-    excerpt: "NVIDIA is offering a new data center solution with Dell Technologies that is designed for the era of AI, bringing AI training, AI inference, data processing, data science, and zero-trust security capabilities to enterprises worldwide."
-    publishedDateTime: 2022-09-06T14:33:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/NVIDIA-and-Dell-Offer-New-Data-Center-Solution-for-the-AI-Era-154666.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 39
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Analysis-U.S. Ban On Nvidia, AMD Chips Seen boosting Chinese Rivals"
     excerpt: "The U.S. ban on exports to China of Nvidia and AMD's flagship artificial intelligence chips will create new business opportunities for domestic startups jockeying for a piece of China's fast-growing data center chip market,"
     publishedDateTime: 2022-09-08T17:27:00Z

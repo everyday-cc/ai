@@ -8,9 +8,9 @@ webUrl: "https://www.tbsnews.net/bloomberg-special/artificial-intelligence-could
 ampWebUrl: "https://www.tbsnews.net/bloomberg-special/artificial-intelligence-could-be-great-equaliser-493954?amp"
 cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/bloomberg-special/artificial-intelligence-could-be-great-equaliser-493954?amp"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: tbsnews
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/09/11/artificial_intelligence_bloomberg.png?itok=YaR44HUe"

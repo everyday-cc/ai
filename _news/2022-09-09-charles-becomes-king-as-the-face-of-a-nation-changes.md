@@ -176,6 +176,15 @@ related:
       name: Harper's Bazaar
       domain: harpersbazaar.com
     quality: 2
+  - title: "King Charles Expresses His 'Love' for Prince Harry and Meghan Markle in First Speech Following Queen's Death"
+    excerpt: "In his first address to the nation -- with the rest of the world also tuning in -- King Charles III gave a moving speech Friday as the new monarch in which he expressed \"sorrow\" over the death of his mother,"
+    publishedDateTime: 2022-09-09T18:06:00Z
+    webUrl: "https://www.etonline.com/king-charles-expresses-his-love-for-prince-harry-and-meghan-markle-in-first-speech-following-queens"
+    type: article
+    provider:
+      name: Entertainment Tonight
+      domain: etonline.com
+    quality: 0
 
 secured: "zBPDI15zXtsqrXR2t0KH8j0EZasHBUf14Ygwn4MMzSL2KGDZbeM4lyowIhrbU2e0gf2a+QjEb2WaA7t4lrEJOl6H9roHKlFtlk4CRGZJ5Jn3i0ZZ5UfrCzgABTVOD/7h2hPzbwf0Fng7P22q3xMDGXtLaftMBPXTUsGuGWqzwmh25Ed1/y2rVj1VUSBXdKk1CLHIFDsPSsaiUxKiiaodB7cSfUsOfXtz1ue+Apy0t2cmP63AKSM5UnEE6N90bcHZ3COOUjfWQ15jaut4UR7YANydKXeGMnqUz62G5INK3+Nm18/QzTSR8noVrSwxwTRx/XSNiTuuToMBAN8EPmK0D4/0on+dr4mfVoDzqQH3JD0=;pwTVbIDNkUm0UJycGTS3eg=="
 ---

@@ -175,6 +175,15 @@ related:
       name: Town & Country
       domain: townandcountrymag.com
     quality: 4
+  - title: "King Charles Expresses His 'Love' for Prince Harry and Meghan Markle in First Speech Following Queen's Death"
+    excerpt: "In his first address to the nation -- with the rest of the world also tuning in -- King Charles III gave a moving speech Friday as the new monarch in which he expressed \"sorrow\" over the death of his mother,"
+    publishedDateTime: 2022-09-09T18:06:00Z
+    webUrl: "https://www.etonline.com/king-charles-expresses-his-love-for-prince-harry-and-meghan-markle-in-first-speech-following-queens"
+    type: article
+    provider:
+      name: Entertainment Tonight
+      domain: etonline.com
+    quality: 0
 
 secured: "9R35PrkV1zyf37nWZsULO457Fv7x6JCcvtxOpRgItwJPMQrWkmvjcr6i7Kwl9x+uwl8CeLEN1/q5ayQ75DUtR9RRaWHCQAXgZsBbDe2iRgP1qeC7ZYuUOlRDQdPDck6oECIRHSRL/wHH/NuJCFJwfYZvcZm2ZPW93S3wuFh5mjbDMWiDjkAwzbAXqRF+8SfFBmzFJDkQWSMpxrMdoX59z3M50X9NbqzIFxq2bXDixt+NPbz9kxrjglJ3mi98bUjlEy2Lq/Gmit8OIkng+0VjKv4LdYMY0JRHlgkgo0a9Ev/DIAKq5amzQ4tW0XLW3+H2bltDJ4rlSqCxrcI/lpqu7zvpY7aNuoMeGombMkL7fF8qlEEgcXC6EokLv1mCGsHEj6v4DLvsznxcv4kbI5L2myZJRvqzx/SHBBt0vxC5i9VFE+RyLX0hFBbrfNOEqLZwL1cy4LlAU0B8o3nuKlK3mfKsfw2i17rvo1YobDrpE04+PRAC3iemLI0qrWz/iDtxMyaZ9hXZgP7fSmxw2AhkUg==;6Dq6TSjF4Gz1fw4nABWUBA=="
 ---

@@ -34,7 +34,7 @@ related:
     provider:
       name: tbsnews
       domain: tbsnews.net
-    quality: 59
+    quality: 61
     images:
       - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/09/11/artificial_intelligence_bloomberg.png?itok=YaR44HUe"
         width: 600

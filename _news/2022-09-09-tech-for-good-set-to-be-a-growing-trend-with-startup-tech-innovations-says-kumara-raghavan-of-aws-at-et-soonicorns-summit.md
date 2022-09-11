@@ -26,17 +26,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "ET Soonicorns Summit: Watch startups from Web3, fintech, gametech, healthtech and other sectors in deep-dive discussions"
-    excerpt: "The ET Soonicorns Summit, powered by AWS and Intel, will host in-depth conversations through sector roundtable focussed on healthtech, agritech, Web3, gametech, SaaS, fintech, and AI/ML, among others."
-    publishedDateTime: 2022-09-06T13:15:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/et-soonicorns-summit-watch-startups-from-web3-fintech-gametech-healthtech-and-other-sectors-in-deep-dive-discussions/articleshow/94031661.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 0
-
 secured: "TeUag7n5MZb0VZ6N43zjtkUF4jlzJvZHoQ6XC6Su9njh1ZlVTPsna9sgucjTZTNmXDxKpueokrS1DXDtWhDxSOyx9AZVH++YawB/vViwbXxMjJ/4zCnJqnZ9ypcnnu5wDeT3/y+Zmdx+2Kxv2k/GwA/ppAO9nmvDakNURTAH5ZnPT8WYA8mT+jG+kFwdYhUAGEGPNdPPVLS4pC3oXgh0daO2XUIiNx4jw28gx90d8BIW6Zdn3d4QFmpfH7z/8+e/qIj1oOX3LaLP1T8gF1oVrbEGPzpseCnOipIMcelsBkGWhPoTF04Q2qWsq8oVNiieGnDzr48TVk/QhDx1vz/B7lyjbXCoGAd7Kn53yit2dozzbTU39w8oGTEQ2hjEbBozUOdVEFF4pATX1phjBxQBmLfjeNH6L9pGI52P0ZV8B61ZV19LF6MEYtNXJS0X30LVFd9rhk+dDMxcgKE7cqVYI5ZJ6bb+nIqJSJUlsy/FNQM5nbC0rmMklJrbM4NrOLaX9eosrFW6xH4OBpP3iV4ciA==;r/vQ455MNzJlG1Gv3pieeg=="
 ---
 
