@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 58
+heat: 42
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "04WfMrWAt5lkMaWTWWaw+UKCDycigBnMfdzrlfB6g/a4MC8tcEvh+ogdcqUzjuJ/YQoClxd6dWbGc1PGu68Rgl4v0afXj6JSmW3VfU4+KQtTuZkySl6N2J9pgRelfMpfntmAPKRQhjNPG+FispcB1gVbA3BeAV+y05rC3zakI3v/urR0CORyC4Wlq6CayeodmMt6CCFj/2Fh+TF6KWabhL9Xb+vCbxbnyXvgnnSjrqxfXip4Znu1qdEpS+bJxXPOc4ilZNUg7upUtRBwY9+i8YN2Ck3Eg36b71cXRxzhBUm8NWFvCUEtSHTYH1H4qfDHxxFceTV2EE5pXXkdHOtOiDViFy8pkD2OEZhZvsCXMqY801BUnkWM691e2kiCZrX8qWhw9CSGMdi3/ypK4TK9InSQ7vVBFXUQWE12eDhG77w=;Jj3AIOLoKw+sIA+PCEdFGw=="
+secured: "HCmYPy044Egewt4DoVPtOCcpfPGZrtu3eN1eHRIK8xXbi9x7gId6pAeSeHb6hJWSrg8tJufeHE5ixp5Fk/JZLKN0J9T/dFqLt74vaIyu21hTEPH3vYUkj/qcVD2GcPItFhMuTe8+CyiDJzB+GPtiHmAw63xMvLVqrZNxSPUWrLUjSEGFn2lttDKZkV3JCoQ22F995GWIPbxp7gov3JIqgfTvmJ0grzSKgWEQIxwg/dA6o+zr0m9lxYLbjaNKIxcI8rXWIcb3eXaYagLxwJnpGKJO4G+bwSESBeZqHjYgHUVNMug65c/1HEs/yVLmM2Hl4vuhmGkc3bRrh6bsnrBspcay/yjfPdl1NHPqI0kalsbSUEaed/ldd1CtpD0iPJfF2t7GbIdWuhNWnjtxgVKeyTWItJZiPShUp12uAE3DZDo=;p5UODAHpv0s8JqyFf+aKng=="
 ---
 

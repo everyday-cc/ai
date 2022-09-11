@@ -2,7 +2,7 @@
 name: "Hippo Insurance"
 overview: "Hippo is a new kind of insurance company that uses modern technology to provide a simpler process, smarter coverage, and a completely new approach to how we care for our homes."
 type: "profile"
-heat: 72
+heat: 57
 
 website: https://myhippo.com/
 
@@ -40,6 +40,6 @@ images:
     isCached: true
     title: "Hippo Insurance"
 
-secured: "QDnuc6qRsMktkpC7s8KdE/pFCS6lwoPJ6BvyvQLBKdjq0Ktu6wZXSaWYYpCNH8rwpp9PDlFCQQtuEwNTFUtzrPMltZdjRAai3yNPuRxJeulyzre9xY2h4nkXDR5AKR4Kasug8Mj1SmQ9yX42bZWENVY+yrEDLfopgwcDJKHAbO8xJ1xMcQ14BUo+KBBd0HoXxc7nAcy5IHGjtFRsoMZ1gwY4L+hAXdWwNO/wRjB9Hbz1mkM+pdM6O0ko9ykK7TFU/ZU/XWDWHPF4eK6dKVrq2rIVympWvc4ORrtjTbf1zSCDLGhSeGg2XQ6ubCBHAFbN1M1psTO/zReZxbax40TFOaECQDs/mFY+XuRttLKMd9SMP9eCx7eVEOO64PN6oWIRgtHLNQaq2WDRopZ8VB7EIqjOof1t5H15aecjVDOxAgs=;ITPFUcRVzNkawYPmeR8zQA=="
+secured: "U4iQqD6w1D1zTZvklxU30OipPx6xp+vIN4kgAta2TlVLABqHGtrr0GfcxSAl1l2IyQR30EXsU/5/UwIGk72lftPCg0M1+hFscMi2wXnrVD4rJn+tn9NqqjaLHzUHb0xwabhXaS0GWAF9HEd09k+0ztfsxhHBJCr39seh8K2rVZwo5ricfsiz5GOf4M0xdq671K2Cz5m+tntF4evFFl6qjvA9XGWELE/EVs1RykeX6jZXlxVar5FBt209VgklIB2bzJxucJCWY9LLV/7ARpbpD8yS9oFeqiVS62vFrBnPu+WL+bHs8pQZyiEUK29WRdTrUOU85FazxV1mjUlFOn5tGEe9xfEVuzWuT4Z1Ss/vBWNxoGzsot7S9rHHQSZD/jleqHIG1QEG4Pjl+Zzs/H6QX2pxijAt9aIyJccUyOwIx6U=;jPnsMpK5YraNJGl4rM/ZmQ=="
 ---
 
