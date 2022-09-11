@@ -22,20 +22,15 @@ topics:
   - AI
 
 related:
-  - title: "Veritone to Showcase Award-Winning AI Solutions at the International Broadcasting Conference 2022, September 9-12"
-    excerpt: "Through Veritone’s AI offerings, content creators and owners can efficiently and securely share, manage and protect assets; expedite content monetization; and scale, localize and translate digital content."
-    publishedDateTime: 2022-09-07T04:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-ed202b6be415452abe926760a6c4cd27"
+  - title: "Fetch.ai Price Analysis for 10th of September: FET/USD Buyers Breaks the Indecisive Trend"
+    excerpt: "FET/USD on the chart is characterized by a trend of Indecision between the buyers and the sellers. One candlestick is not enough to confirm"
+    publishedDateTime: 2022-09-10T15:01:00Z
+    webUrl: "https://insidebitcoins.com/news/fetch-ai-price-analysis-for-10th-of-september-fet-usd-buyers-breaks-the-indecisive-trend"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 18
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: insidebitcoins.com
+      domain: insidebitcoins.com
+    quality: 8
 
 secured: "NGc3uZI4xH7acmkgCyrPP329EQyDL11WbGjzAPSlMeMqizMgAoKgZSvZwX83hxi/whkUTkjHxGLCbEmDxmmb+BcxK4bA0McvdEZs5EEsRfQtgZeG6j+hSHU84P+ixJ4rr0lvXw0v7X8GVSpBTahgCjxaG0WpHqEpqom3jdblisrTM+K8zqJiVD+c8NKtj6bxQqnrbKOgCRK4aZ2gcXFK5aHI5r62VMaXGme/IfWmTrXCo/8GJHXTlEp5jSRlQNHYqbs08oh/R+G+4m672ev9D7jhdJEM/API9RtS8Ceq/AL1bKsLU7semOThi1GOjyZ0ooTBAru/gsg5AXL66RfFnQs6IY5SVJ6UaMDyDhj6tYRz4+ND0L7KCy/Gk2VDHy0WzQaMQ8ZexeEDjXKIwi4tTJCs3MfmVYFxmxm/dLYPvemFeSlLGWIFpl6nfE/PRlDwdZeLeWUMsoqU6YrzXpfHI/L1Z8gKbi1mghkMv2MlMsUtAaAVPeIvV6jhBKtlRKGvAS9J4n+5XzauKUqQT5WugA==;tKTfMbKYSaNwUJ1Djgzu2Q=="
 ---

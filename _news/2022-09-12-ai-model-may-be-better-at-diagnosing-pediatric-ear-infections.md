@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-11T19:25:00Z
 originalUrl: "https://www.physiciansweekly.com/ai-model-may-be-better-at-diagnosing-pediatric-ear-infections/"
 webUrl: "https://www.physiciansweekly.com/ai-model-may-be-better-at-diagnosing-pediatric-ear-infections/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Physicians Weekly

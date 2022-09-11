@@ -7,7 +7,7 @@ originalUrl: "https://www.appliedclinicaltrialsonline.com/view/debunking-top-5-m
 webUrl: "https://www.appliedclinicaltrialsonline.com/view/debunking-top-5-myths-about-digital-twins-in-clinical-trials"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 2100
     height: 1500
     isCached: true
+
+related:
+  - title: "City digital twins help train deep learning models to separate building facades"
+    excerpt: "To automatically generate data for training deep convolutional neural network models to segment building facades, researchers used a three-dimensional model and game engine to generate digital city twin synthetic training data."
+    publishedDateTime: 2022-09-08T16:41:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/09/220908100031.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 60
 
 secured: "grvPBcYFVySm5PAMZoSzT4sy57HkvbinW2dYHmL2QD/xSETRLgNHbUSN5RozzfHU06wbSCD7aykIWF39ooiPkb2BEQYo9Caub2l886gcVhzjq3a9C94AFXUOwhgsnUasHYeyuUAQ+45gsYfl1dMHBSHqjvzrXHL2xPuPXSVVmZLn5FxxTfCiNlQ80LiG6YOB6pAhTh2SEoEO5RdRZEtrF6xRIe7Ts0nmFUnKgtewqd8pey5m1Tk9PXjKCD8QyNA9rH5frUrhVENo4/AqQNScJC5FJtVDdO6XvSs2ueuvD8Htfrl4eo2vsvAUHJ/JNarl6sCn59cpjiE/0HAglN0PQSUCUsPSBz5dC8Qkvys9suo=;0ahjiXhh1G1O+FHhDaYfTg=="
 ---

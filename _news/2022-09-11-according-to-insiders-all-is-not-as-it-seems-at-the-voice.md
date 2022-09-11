@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-11T11:32:00Z
 originalUrl: "https://heavy.com/entertainment/the-voice/fake-drama-blind-auditions-not-real/"
 webUrl: "https://heavy.com/entertainment/the-voice/fake-drama-blind-auditions-not-real/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: heavy.com

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "India’s Fintech Sector to Reach US$1T in AUM by 2030"
-    excerpt: "India's fintech sector will continue to rise substantially, with total assets under management (AUM) projected to grow at a compound annual growth rate (CAGR) of 28.3% to reach US$1 trillion by 2030,"
-    publishedDateTime: 2022-09-07T01:22:00Z
-    webUrl: "https://fintechnews.sg/63480/fintech-india/indias-fintech-sector-to-reach-us1t-in-aum-by-2030/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/08/Indias-Fintech-Sector-to-Reach-US1T-in-AUM-by-2030.png?x82653"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "Data Enrichment Key to Enhancing Accuracy of AI Models in Fintech"
     excerpt: "Data enrichment, the process of enhancing internal data with relevant, contextual data obtained from external sources, is critical for financial services companies looking to get the most out of their investments in artificial intelligence (AI),"
     publishedDateTime: 2022-09-08T06:46:00Z
