@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/09/zis-ml-dropout-story.png"
