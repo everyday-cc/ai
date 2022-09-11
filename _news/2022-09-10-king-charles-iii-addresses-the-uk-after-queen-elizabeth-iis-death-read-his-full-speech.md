@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How King Charles 'subtly' talked about ex-wife Diana in first speech to nation"
+    excerpt: "King Charles spoke fondly about family members during his first speech as the monarch. The former Prince of Wales fondly spoke about his mother from Buckingham Palace, in addition to"
+    publishedDateTime: 2022-09-11T10:55:00Z
+    webUrl: "https://www.thenews.com.pk/latest/990405-how-prince-charles-subtly-talked-about-ex-wife-diana-in-first-speech-to-nation"
+    ampWebUrl: "https://www.thenews.com.pk/amp/990405-how-prince-charles-subtly-talked-about-ex-wife-diana-in-first-speech-to-nation"
+    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/990405-how-prince-charles-subtly-talked-about-ex-wife-diana-in-first-speech-to-nation"
+    type: article
+    provider:
+      name: The News International
+      domain: thenews.com.pk
+    quality: 40
+    images:
+      - url: "https://www.thenews.com.pk/assets/uploads/updates/2022-09-11/990405_035531_updates.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "King Charles delivers emotional first speech in honour of late Queen Elizabeth: Watch"
     excerpt: "King Charles III stepped up on September 9, 2022 to deliver his first heartfelt speech to the United Kingdom as their new monarch, a day after Buckingham Palace announced that his mother"
     publishedDateTime: 2022-09-09T17:54:00Z

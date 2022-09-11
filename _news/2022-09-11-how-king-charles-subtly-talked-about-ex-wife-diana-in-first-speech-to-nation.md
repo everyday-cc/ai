@@ -1,22 +1,30 @@
 ---
 category: news
-title: "King Charles Expresses His 'Love' for Prince Harry and Meghan Markle in First Speech Following Queen's Death"
-excerpt: "In his first address to the nation -- with the rest of the world also tuning in -- King Charles III gave a moving speech Friday as the new monarch in which he expressed \"sorrow\" over the death of his mother,"
-publishedDateTime: 2022-09-09T18:06:00Z
-originalUrl: "https://www.etonline.com/king-charles-expresses-his-love-for-prince-harry-and-meghan-markle-in-first-speech-following-queens"
-webUrl: "https://www.etonline.com/king-charles-expresses-his-love-for-prince-harry-and-meghan-markle-in-first-speech-following-queens"
+title: "How King Charles 'subtly' talked about ex-wife Diana in first speech to nation"
+excerpt: "King Charles spoke fondly about family members during his first speech as the monarch. The former Prince of Wales fondly spoke about his mother from Buckingham Palace, in addition to"
+publishedDateTime: 2022-09-11T10:55:00Z
+originalUrl: "https://www.thenews.com.pk/latest/990405-how-prince-charles-subtly-talked-about-ex-wife-diana-in-first-speech-to-nation"
+webUrl: "https://www.thenews.com.pk/latest/990405-how-prince-charles-subtly-talked-about-ex-wife-diana-in-first-speech-to-nation"
+ampWebUrl: "https://www.thenews.com.pk/amp/990405-how-prince-charles-subtly-talked-about-ex-wife-diana-in-first-speech-to-nation"
+cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/990405-how-prince-charles-subtly-talked-about-ex-wife-diana-in-first-speech-to-nation"
 type: article
-quality: 0
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: Entertainment Tonight
-  domain: etonline.com
+  name: The News International
+  domain: thenews.com.pk
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://www.thenews.com.pk/assets/uploads/updates/2022-09-11/990405_035531_updates.jpg"
+    width: 700
+    height: 400
+    isCached: true
 
 related:
   - title: "Charles becomes king as the face of a nation changes"
@@ -82,22 +90,6 @@ related:
       - url: "https://i2-prod.mirror.co.uk/incoming/article27954548.ece/ALTERNATES/s1200/0_Queen-Elizabeth-II-death.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "How King Charles 'subtly' talked about ex-wife Diana in first speech to nation"
-    excerpt: "King Charles spoke fondly about family members during his first speech as the monarch. The former Prince of Wales fondly spoke about his mother from Buckingham Palace, in addition to"
-    publishedDateTime: 2022-09-11T10:55:00Z
-    webUrl: "https://www.thenews.com.pk/latest/990405-how-prince-charles-subtly-talked-about-ex-wife-diana-in-first-speech-to-nation"
-    ampWebUrl: "https://www.thenews.com.pk/amp/990405-how-prince-charles-subtly-talked-about-ex-wife-diana-in-first-speech-to-nation"
-    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/990405-how-prince-charles-subtly-talked-about-ex-wife-diana-in-first-speech-to-nation"
-    type: article
-    provider:
-      name: The News International
-      domain: thenews.com.pk
-    quality: 40
-    images:
-      - url: "https://www.thenews.com.pk/assets/uploads/updates/2022-09-11/990405_035531_updates.jpg"
-        width: 700
-        height: 400
         isCached: true
   - title: "King Charles delivers emotional first speech in honour of late Queen Elizabeth: Watch"
     excerpt: "King Charles III stepped up on September 9, 2022 to deliver his first heartfelt speech to the United Kingdom as their new monarch, a day after Buckingham Palace announced that his mother"
@@ -200,7 +192,16 @@ related:
       name: Harper's Bazaar
       domain: harpersbazaar.com
     quality: 2
+  - title: "King Charles Expresses His 'Love' for Prince Harry and Meghan Markle in First Speech Following Queen's Death"
+    excerpt: "In his first address to the nation -- with the rest of the world also tuning in -- King Charles III gave a moving speech Friday as the new monarch in which he expressed \"sorrow\" over the death of his mother,"
+    publishedDateTime: 2022-09-09T18:06:00Z
+    webUrl: "https://www.etonline.com/king-charles-expresses-his-love-for-prince-harry-and-meghan-markle-in-first-speech-following-queens"
+    type: article
+    provider:
+      name: Entertainment Tonight
+      domain: etonline.com
+    quality: 0
 
-secured: "n524rQOVm+V4bbDRKUzS0cnOlVd0e2QCWtSmt++oYP1aRy1vmui3tv2ldjnD5f+5I81TE4WkBIR4sdOClxmmJkYXZVRaFxyEAAISd+M0BZCMZp08VmHdbuDezBms9QWM9Cy43WyiOf9xikDNfB9CiBw0xhzsrv1qp46et6tDypMTo4ZxNP6Cu52gy96Nd/komf8fvln4AXUHwVjeQLqa4Bvgsm5F/nEeGv0Ry5Q4wkNL4dtZ768nuLX9ccupUsOqypCaXylaIWrLAjy1a+oDY4UH22UXZsB6YrIvUMZUyDhWgme5Y0XbZ5hsrq1VHqdKVvDPBJtU+dsLhfGVEK7q9UCzokmfzEpVCewjEJInflEThFPVg69uIx+XZZVVmLrD1MZwREsOyO5sE5mSHR/8R4m62dbvJkcQcmcObzpkZkX0pgDqfsX7h9s84/AqbW0fFyzYR5yy0x810I5MTtfRPcH+iMp3LsVKVeZR9EJBqKQ60C2J4Uz6cOjqPVgQGl7fbuqGzVR9ZNVBnv2BvoB8eg==;qTi+mOB0R04wnnnC+WTBlg=="
+secured: "jc7R9pPYlE7T+H8MRZKRUG3v2n0q86QrexiKGGGL6veeP9hVzBh0oC/O9HLSpc9hE5PjrNt4a7a6XFLQsSiw8RNtntDQOodpzFvdSIIQcES2NEj8QtdPB4cwaq/gzTzTkhXdDRM/ILIG5+rYQEpcSqPCpOWy8onlVqq17DxqP4NE+PWU362t9E1D8uMsVf8mIdZrJzAiPBwHBCJea/VAXPTT8hrHsY5eOArA0wgLEjHf5RI1SdBIaD9E4u9pEkZoS5UumpyhaNDl6qG9dHzpZjUSNuJ/IUx6SI/AZub4TGoBLrYQiUfZX/g+T23u21YhmNQZUKbsYMZflIUf9deKZ6ENb3Wz+MMsWcu8pEcH3g0=;H0w219+gYQBvykzwHawtXA=="
 ---
 

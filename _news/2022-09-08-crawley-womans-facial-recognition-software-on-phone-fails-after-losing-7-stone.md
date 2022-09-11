@@ -7,8 +7,8 @@ originalUrl: "https://sussexexpress.co.uk/news/people/crawley-womans-facial-reco
 webUrl: "https://sussexexpress.co.uk/news/people/crawley-womans-facial-recognition-software-on-phone-fails-after-losing-7-stone-3836546"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: Sussex Express
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Aging and its effects on facial recognition"
+    excerpt: "AS the iPhone 14 launches this week, we take a look back at one of the innovations Apple introduced when it launched the iPhone X—Face ID. The facial recognition system that retired the beloved home button became the main biometric authentication for unlocking your device,"
+    publishedDateTime: 2022-09-09T16:01:00Z
+    webUrl: "https://businessmirror.com.ph/2022/09/10/aging-and-its-effects-on-facial-recognition/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 39
+    images:
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2022/09/digitallife03-091022.jpg"
+        width: 720
+        height: 531
+        isCached: true
   - title: "Flaws of Eyewitness ID Magnified by Facial Recognition Software: Researcher"
     excerpt: "Facial recognition software was supposed to be a step above eyewitness identification, but both methods have raised legitimate doubts about their reliability, writes Valena Beety, a law professor at Arizona State University."
     publishedDateTime: 2022-09-07T11:15:00Z

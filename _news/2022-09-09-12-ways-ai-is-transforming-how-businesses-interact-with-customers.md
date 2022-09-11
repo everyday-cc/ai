@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/08/12-ways-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/08/12-ways-ai-is-transforming-how-businesses-interact-with-customers/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: Forbes
@@ -30,21 +30,35 @@ images:
     isCached: true
 
 related:
-  - title: "15 Smart Ways Retail Businesses Should Be Using AI"
-    excerpt: "From better predicting their inventory needs to managing and supporting their employees, retail businesses can leverage AI to improve their operations and their customers’ experience."
-    publishedDateTime: 2022-09-06T17:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/06/15-smart-ways-retail-businesses-should-be-using-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/06/15-smart-ways-retail-businesses-should-be-using-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/06/15-smart-ways-retail-businesses-should-be-using-ai/amp/"
+  - title: "BLATTNER TECHNOLOGIES ACQUIRES BOSS AI AND THEIR ENTERPRISE AI PLATFORM"
+    excerpt: "Blattner Technologies, on a mission to be the leading provider of Predictive Transformation™ services and tools in the Data Analytics, Artificial Intelligence and Machine Learning industry has acquired BOSS AI,"
+    publishedDateTime: 2022-09-08T19:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/blattner-technologies-acquires-boss-ai-and-their-enterprise-ai-platform-1031733092"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/631753214643d7543ec89c1a/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://mma.prnewswire.com/media/1894778/BTpp_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "American Airlines takes flight with analytics transformation"
+    excerpt: "The world’s largest airlines has turned to the cloud, leveraging AI, machine learning, and real-time analytics to minimize disruptions, streamline operations, and improve the travel experience."
+    publishedDateTime: 2022-09-09T10:00:00Z
+    webUrl: "https://www.cio.com/article/406357/american-airlines-takes-flight-with-analytics-transformation.html"
+    ampWebUrl: "https://www.cio.com/article/406357/american-airlines-takes-flight-with-analytics-transformation.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/406357/american-airlines-takes-flight-with-analytics-transformation.html/amp/"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 59
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2022/09/maya-leibman-full-res-new.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "4/+IWbRHy0dKpjUfifNByzgzCmojIxcrc378RfKaBXffuvFpfGYlYkA5EwlQ0KDsQobfYpi7b7dc8D/BxmB8nJSfCPbkGPDsvdbYTz2Se0h7mHrcuAjQ+V976RvIZZX6l4RSBSjnvr12CH/NBBIkRK+Le2Q7M4ZyE9o2SvyP5xnIOMBb4JwoXplCD5NMrdw+AStL6CtkpzORhsibjGOthjw8zMmJglc05iRz+XtaV8KUhmRg9ic218jpMduxaaBkkCI95bWU/9FZq8r3P/RRZPH9586AAAYqGOQYUoK0UO3QvtQ+4x/EH5WakUcxr61nxkBGnjFrdj1HBaTmau/7nnL8I0qOfXOKglr6v07/inGDo/i3f3ZWIhmULnDseSsHKx/iJmIIt+pz4LOR6AalQVVdmL6onb3GDOyFUcWFI/PZhPi68bR0O5oEJjL1j26s8jFFjaX0ZaktD1Nd8GBKck6qoVm3l2j60VF901kVuiL5gqGN5H6vr3D9VKdVyDpjwcfSrP8MHl4LVIHbSYNA7Q==;4CJGGNN5oBAZjBT9LaGQLA=="

@@ -3,25 +3,25 @@ category: news
 title: "Tesla’s ‘full self-driving’ isn’t worth $15,000, say many who bought it"
 excerpt: "Some Tesla owners who paid far less for an earlier version of the “full self-driving” software that now retails for $15,000 caution that the new price does not make sense for most"
 publishedDateTime: 2022-09-07T21:04:00Z
-originalUrl: "https://www.dailynews.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/"
-webUrl: "https://www.dailynews.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/"
-ampWebUrl: "https://www.dailynews.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/amp/"
-cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/amp/"
+originalUrl: "https://www.ocregister.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/"
+webUrl: "https://www.ocregister.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/"
+ampWebUrl: "https://www.ocregister.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/amp/"
+cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/amp/"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Los Angeles Daily News
-  domain: dailynews.com
+  name: Orange County Register
+  domain: ocregister.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.dailynews.com/wp-content/uploads/2022/09/hypatia-h_f83a5bee143b3b89282e5807cb1c97e9-h_c8f834e95ae4db3b0c1cf5aa23866cd0.jpg?w=1024&h=1024"
+  - url: "https://www.ocregister.com/wp-content/uploads/2022/09/hypatia-h_f83a5bee143b3b89282e5807cb1c97e9-h_c8f834e95ae4db3b0c1cf5aa23866cd0.jpg?w=1024&h=1024"
     width: 1024
     height: 1024
     isCached: true
@@ -83,6 +83,6 @@ related:
         height: 3149
         isCached: true
 
-secured: "KzrbC3ADETiHBdgh+YQjZKtHBS5giMwm5QY9ILWruEUFIQdkjBTk1Rw5vevoecVNWCzq/UFrSSnTWNkwlXIn5maEsaxvQTby8oYKbKHZuFi8PQbUqMSIyxqzmYb2/gqKSMiUCl8iSisHriE5JyM2ePMSFbrT+hh6vcmgtmSbTMyHuUbXojVlAdiyfhmWHgA/KWrDVWFIy+Z1BgXDWHdDFKOxe4Gh56TTl3rc2gSWduG1Rk4jLV5lESjW14EWMRq0De7umSNB6273N9zKag4gmNUUHS5vgJVcBckXyB49CX9bYYhP/w793wzk++/s11Zn7GpRVOq7ynFdybHEOnJknNCcvzS3b6BDSb1nsVA8C8w=;9PSxo6HQD21zWamki9aVqA=="
+secured: "wNTA/BIma1Sa+4Tf4PUHDD2NZbG5be/k2LrsD0eXgAFoi6GlxQvzeI5qupGqnLaznwS9TRgY7unBGB0UIUxpFXAQpkjh30YygfW3e2/jqEa39Gmh1EPo46bdHz7FhuKHgXcWhkew0o6e/KkzGV7bAIxq2g9WbUobMSIEvUqnw6e0eON9XngOvgZmfqTlAdlSH8Go/FjRBaxF7HPQR/+q17waH2QL3a/nBatCAsFuEPWg06naK3PtpqL3rgaPjYnCcJ/pCIt6pGX1dnfN18a65kTbro3RtPo3O/3E6g9KtJFEd7+SpgJZhEZPlT8nMDv8kZ0FApB8T1ow3uMN6eHzbEAp17Z+bt1PLUdXLOE1f/o=;UTclhZV67UDdfxx4XgIQ9A=="
 ---
 

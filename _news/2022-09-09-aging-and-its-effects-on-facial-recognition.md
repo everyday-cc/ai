@@ -25,33 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Detect audio events with Amazon Rekognition"
-    excerpt: "When most people think of using machine learning (ML) with audio data, the use case that usually comes to mind is transcription, also known as speech-to-text. However, there are other useful applications, including using ML to detect sounds. Using software to detect a sound is called audio event detection,"
-    publishedDateTime: 2022-09-06T17:44:08Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/detect-audio-events-with-amazon-rekognition/"
+  - title: "Crawley woman’s facial recognition software on phone fails after losing 7 stone"
+    excerpt: "A mother-of-one from Crawley who lost a staggering seven stone in just six months, was left locked out of her phone after it failed to recognise her face."
+    publishedDateTime: 2022-09-08T14:43:00Z
+    webUrl: "https://sussexexpress.co.uk/news/people/crawley-womans-facial-recognition-software-on-phone-fails-after-losing-7-stone-3836546"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 106
+      name: Sussex Express
+      domain: sussexexpress.co.uk
+    quality: 50
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/30/ML-8724-image003-1249x630.png"
-        width: 1249
-        height: 630
+      - url: "https://www.sussexexpress.co.uk/webimg/b25lY21zOmZlYmNiZjQxLWVmMTAtNDg2ZC05ZGMwLWUzNGNlZjMwZTgwZDplMzA4ODdlYi03ZTk4LTQyYTYtYTY1NS00NzJlOWFiZDQxMDQ=.jpg?width=1200&enable=upscale"
+        width: 1200
+        height: 1421
         isCached: true
-  - title: "Tips to improve your Amazon Rekognition Custom Labels model"
-    excerpt: "In this post, we discuss best practices to improve the performance of your computer vision models using Amazon Rekognition Custom Labels. Rekognition Custom Labels&nbsp;is a fully managed service to build custom computer vision models for image classification and object detection use cases. Rekognition"
-    publishedDateTime: 2022-09-09T16:37:31Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/tips-to-improve-your-amazon-rekognition-custom-labels-model/"
+  - title: "Flaws of Eyewitness ID Magnified by Facial Recognition Software: Researcher"
+    excerpt: "Facial recognition software was supposed to be a step above eyewitness identification, but both methods have raised legitimate doubts about their reliability, writes Valena Beety, a law professor at Arizona State University."
+    publishedDateTime: 2022-09-07T11:15:00Z
+    webUrl: "https://thecrimereport.org/2022/09/07/can-facial-recognition-be-fixed/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 106
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 37
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/09/tips-for-rekognition-custom-models.jpg"
-        width: 1534
-        height: 764
+      - url: "https://thecrimereport.org/wp-content/uploads/2020/02/facial-recognition-by-kal-omari.gif"
+        width: 384
+        height: 307
         isCached: true
 
 secured: "qg6/oSA6UxXkfRCOKoeUJMO5dK9OncuhLDNj+0D4Te9puf6bH+d7x8TcDSH3+P7dTqjy+QoNVS4zLU7taVO2HrZ/woMpUih6BGfIGXqT3vG0386DvHTkFhS3EWUQ5OUa5tXLczN4Jb5HkQcHF1DYBQNCgA1Jy/saZnsKbFUbkLQsy39WGmbR2sDm92mGyl07juL57GTVIH0rWbhUkskIqDwKWkY2aBhJRl+DNmDbHIc0AhVlb8sKrMRffweFIReQdbHHopysv3YfXq8Fy6FKyPtvbPau90XxfYJorEBmEb+dml6Rvabtbiyn7ZNjn8czOqBz8vqqduw4q4eO9MovwdI6y+t5yzmNCQSTsuIFDmuSAfjkf8FtkGx+R9snGl+Leuqnf4xx/gnfqaxzamEKO6Hp46aBreo5ccl56vpoc8CKMMxOpbg+XRZPFdockvROuVALPSHIwRiDg8V/qPNEJXL6pa3BHqYI3jYRMnEcQp22x/bVuQC5fBQi9zxDZSmUEurOo3QhWmLuxkQ+ucg9zQ==;IrYRpVH95oWBL0oMygfqXA=="

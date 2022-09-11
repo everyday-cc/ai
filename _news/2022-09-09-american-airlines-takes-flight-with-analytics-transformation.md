@@ -27,31 +27,36 @@ images:
     isCached: true
 
 related:
-  - title: "Why IoT Is The Next Frontier For AI And Prescriptive Analytics"
-    excerpt: "Guy, a recognized industry thought leader, is the president of SmartSense, IoT solutions for the enterprise. In recent years, artificial intelligence (AI) and prescriptive analytics have been woven into the fabric of business operations across multiple verticals,"
-    publishedDateTime: 2022-09-09T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/09/why-iot-is-the-next-frontier-for-ai-and-prescriptive-analytics/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/09/why-iot-is-the-next-frontier-for-ai-and-prescriptive-analytics/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/09/why-iot-is-the-next-frontier-for-ai-and-prescriptive-analytics/amp/"
+  - title: "12 Ways AI Is Transforming How Businesses Interact With Customers"
+    excerpt: "Many businesses leverage AI’s learning abilities to try to make interactions and transactions faster and easier for the customers they serve."
+    publishedDateTime: 2022-09-08T17:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/08/12-ways-ai-is-transforming-how-businesses-interact-with-customers/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/08/12-ways-ai-is-transforming-how-businesses-interact-with-customers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/08/12-ways-ai-is-transforming-how-businesses-interact-with-customers/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f8ef32c53de1add7201f44a/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5fb2a32abeab195130fc0917/0x0.jpg?format=jpg&crop=6000,3375,x0,y0,safe&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Alation Achieves AWS Data and Analytics Competency"
-    excerpt: "Alation Inc., the leader in enterprise data intelligence solutions, today announced it has achieved Amazon Web"
-    publishedDateTime: 2022-09-08T22:13:00Z
-    webUrl: "https://www.datanami.com/this-just-in/alation-achieves-aws-data-and-analytics-competency/"
+  - title: "BLATTNER TECHNOLOGIES ACQUIRES BOSS AI AND THEIR ENTERPRISE AI PLATFORM"
+    excerpt: "Blattner Technologies, on a mission to be the leading provider of Predictive Transformation™ services and tools in the Data Analytics, Artificial Intelligence and Machine Learning industry has acquired BOSS AI,"
+    publishedDateTime: 2022-09-08T19:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/blattner-technologies-acquires-boss-ai-and-their-enterprise-ai-platform-1031733092"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://mma.prnewswire.com/media/1894778/BTpp_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "uGI7XODN/MlmTOTfz1wQZBxexH2n7CLJDwNAOwPjo09YySGgvwwz5dfpHPCs/CzSW1ZAqdKMl10aFAeZVPkBD/Pw2z4mR2wFZ4o5ZYNS1SuQReh+CB8dFAMMLc6zCH2I7DAjdNCH7vMr8i/dLHlTw0PwwW/E3sFknw/J/GzeIjAjk9+NxkfgpK25ysqj27IPOMT0HRLAmSnkAHklR6PKU4QUEJeAcC4AUOdNCDfqqSJO78SEc5bm2H5pxTnNMZyiHF2trRsw/lejTf5jvRxqcVXC0d/JF9V09JGpX2REg04yOsF33LXy9T6X+6VQztJS9L59MLdqUV/XIeyCoxe3/YrTWxj1T1WBrsmHgKvq4zooeIC+HJjuauha5qN3lZrrZ7foRiEzW9462jVn8zhEFH8BQZsKPK1m83Lbj/lTGRy+RN3TNCxZVunpJZW0EhyVvyBFUSd2hX96RIkcWJVzfqcyIFpCB/O0j51Uj4keVdmLJUsUWwWOkLGzNqbx3mZ8vkD3YW1y1UD3xANUr4uNWg==;oP3S3Whb6DMKjfqjL/IWiw=="
 ---

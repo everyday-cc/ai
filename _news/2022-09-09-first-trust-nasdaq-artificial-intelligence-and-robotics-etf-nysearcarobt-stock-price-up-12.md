@@ -28,6 +28,15 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 45
+  - title: "ROBO Global Artificial Intelligence ETF (NYSEARCA:THNQ) Stock Price Up 3.3%"
+    excerpt: "ROBO Global Artificial Intelligence ETF (NYSEARCA:THNQ – Get Rating)’s stock price rose 3.3% on Friday . The stock traded as high as $29.43 and last traded at $29.43. Approximately 1,038 shares traded hands during trading,"
+    publishedDateTime: 2022-09-11T09:20:00Z
+    webUrl: "https://www.defenseworld.net/2022/09/11/robo-global-artificial-intelligence-etf-nysearcathnq-stock-price-up-3-3.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 15
 
 secured: "4U7dzbHiWWHEEC4SPtgzLq//hF13TK13kasK1Xi7K9jPhimhAarTWROTRDkNtP63krwaHBePpAW6vOY9OJJ8jD+CRMs/KZUgeilEpNDIVfxCdbpInFbc/RSBkRG0WQf+bnh7M0Dzg0aAY34KQjK/8F3ihRRktyYlE5JCJFcbLTEkb98k3S9+sIX8+IEikY9awzcBd2T/uxf4rdhFhaWPB9BI+TXQ/zslbFCJuIvr0DvHeBS1XMXzV4EOb8/fIIfeAxP3CMt7deaBeOHyB8ksVQhtn8LuARQ+hDkYLbsGM9ZH7qU/Z/KEAPvjzNbqLRmeSGa1OVYjSRJGQXrOBnh57xQQws9aabJPfwO3sanyAJ8=;Os4SXv1HNXq3tFktDlpCLg=="
 ---

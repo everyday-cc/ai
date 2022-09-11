@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "American Airlines takes flight with analytics transformation"
-    excerpt: "The world’s largest airlines has turned to the cloud, leveraging AI, machine learning, and real-time analytics to minimize disruptions, streamline operations, and improve the travel experience."
-    publishedDateTime: 2022-09-09T10:00:00Z
-    webUrl: "https://www.cio.com/article/406357/american-airlines-takes-flight-with-analytics-transformation.html"
-    ampWebUrl: "https://www.cio.com/article/406357/american-airlines-takes-flight-with-analytics-transformation.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/406357/american-airlines-takes-flight-with-analytics-transformation.html/amp/"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 59
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/09/maya-leibman-full-res-new.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "XM0JXQ2p5tYQTiM1U1SghIRCnkY1WqvoCg0NSRQNhk2hHK6Kycr7KcMI0yoiVaiuPsFW/6oWaxahpJOcDDmShKBl4p+fq83xHMejvN+yc0jQe0azuZx+X1PAbvNaBKKk7Zx0kpQy7rzQWCz4Z3tlLN4RhB60HpetiEfgSqhnfJXgRrgcb83PeZ9BChlsTav7cWnX/H9TrJNmI8UwWqQ5V/fkYlfhyvpSW486LCMXJjpIvztN2Jw+EmRKUSrbCO4rT6wNx0MqGFAUdHPzXj/Tf3LRMKkNcMkk2Dc0YmpggyFTTGQxHkgIftfGXzWP4VDjugX2ZynLEwCY/WQrMByKufagRiQVH/M5l0+aotJtyEMeV/9uenITdjetmwkyChXP8CUiFrZa/NuvjxSTzwTdSGPDkYu/NSlH0aP3L6gxn1wU962xNOWa/0d3uFRWdYtCruLUhL57cTSwn5NCGGgVVKxeeKp0gmpC+W0GV/uz+qfVuRwehPDiYmnTyojBDWIY/EsCzUi0u8nqM6LU059Ekg==;O6YqStsd8yc8WCegYz9yxg=="
 ---

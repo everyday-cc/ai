@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2022/09/cogniteam-integrates-robotics-ai-cap
 webUrl: "https://insidehpc.com/2022/09/cogniteam-integrates-robotics-ai-capabilities-with-nvidia-jetson-agx-orin-edge-platform/"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -18,22 +18,6 @@ topics:
   - Computer Vision
   - AI
   - AI in Robotics
-
-related:
-  - title: "Cogniteam Ignites Robotics AI Capabilities with NVIDIA Jetson AGX Orin Edge AI and Robotics Platform"
-    excerpt: "Cogniteam used the Jetson AGX Orin to enable AI on robots using the Nimbus Operating System. “The NVIDIA AGX Orin is a huge leap for manufacturers and developers who want to see greater AI capabilities on their edge robots,"
-    publishedDateTime: 2022-09-06T18:56:00Z
-    webUrl: "https://www.automation.com/en-us/products/september-2022/cogniteam-robotics-ai-nvidia-jetson-agx-orin-edge"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 56
-    images:
-      - url: "https://www.automation.com/getmedia/e21fef4f-e8e5-4d6b-9642-444659181d91/Cogniteam-prod-Sept-6-2022-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
 
 secured: "DAJBP0ouF13uaRVpYQ8BiKSqdNbuGYjBoxwBQ4uou9oah0Q/uift5se3qJ0siyZ+iL4qUjADdh71lC8C76OlMsYZsyp+/Io6YvNvw4DRwsaMVmY/El77tq63gVWZDPpG3yzN59TCXlTh0i0/OBJV+uSCmo0BdlqirwbY1xLiatriX6+yVZCGWq24Xm3I4wBmt8XGKnCgXAVLGCI6BpT6nYrjRpsCQQ7v4iwt99qQVMFjGZXyxG1UV/s1KooCbZ3WlKopuzIIiazLODhN8D6W/+ybB+d0Vdh3dOPxFxlS9os3OJAAoLrnjzZhBUmEXID06QKsJdaXaJEkktln62vS2PtUGVMqTSFhSNV17b3huzVWORDgVzOJPjf5YDNKYi4Vv+VLcqkC+JjLW4K40Ezrh0sRIKMiPbYt6OhHmgihme7HvRYXjdVkG2Ps2Ql63ny2tI2rXVptD9GURtGOGCGJBLyX4ZauJEWiHwc2c4iCWxOPbGPoW4BNCg5jcdmAQr3+G8K88dYE1/GMQvKNICmrdw==;L7MntECjdxzvADjwHErekQ=="
 ---

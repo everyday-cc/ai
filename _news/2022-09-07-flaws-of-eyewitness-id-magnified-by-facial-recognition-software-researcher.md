@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 1421
         isCached: true
+  - title: "Aging and its effects on facial recognition"
+    excerpt: "AS the iPhone 14 launches this week, we take a look back at one of the innovations Apple introduced when it launched the iPhone X—Face ID. The facial recognition system that retired the beloved home button became the main biometric authentication for unlocking your device,"
+    publishedDateTime: 2022-09-09T16:01:00Z
+    webUrl: "https://businessmirror.com.ph/2022/09/10/aging-and-its-effects-on-facial-recognition/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 39
+    images:
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2022/09/digitallife03-091022.jpg"
+        width: 720
+        height: 531
+        isCached: true
 
 secured: "zYkdcNpP1GZl5RZqCDxgGx35owWZ2LEo5zHJEpcHSASMu5S1zt+R4TwhsAUk6JBzNbktF1Iofhj96BPc6vQIzkymujBdHhUG7WOl2A7xbv6qL6z4r/bxNbUI1DnaiUyIKcJg8rbxDwHTevGXYeAVdxtUS/IkcBmBkEb0sUfpqYiYDJsiScuIfNyXQimV4R8QmO5+yszK+Mh3QaIw3R5h13Dyg9hSxuJ0pT6sauHevIoiEa1o3nD0Cb6PiDwyLgBSz0vDmfGEu//V8i+uOeLpeA6nuDK0ypoSjnfH4yUo05U5pM36IO4eLkkaLJOE1tyZvJVXUF0HFt6TIDVoHkTbJ3dOccGxZGB1g/hcDl/+hHBJPJnl4w+d8KlpY2fWE+PSlM4sp2bTAan7adNDfCf7LVm7QPmcubWpDeLP0afmEFFMdWe3SLrWSXYMkgxGYNTFaUsw35tQ/yIPQkLbKBaO5a5epaMtgfjrFvyyHNs6peNWiIOLpQORzChwq9BanYYvedwwirYX/Xa9P5MkqUiY7Q==;t/cwpCChvjbR2jpyAX7+4g=="
 ---
