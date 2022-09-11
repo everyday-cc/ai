@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/lifestyle/arts-culture/article/3191979/its-ve
 webUrl: "https://www.scmp.com/lifestyle/arts-culture/article/3191979/its-very-much-wild-west-how-ai-art-generators-are-splitting"
 type: article
 quality: 65
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://www.forbesindia.com/media/images/2022/Sep/img_193503_artandaibg.jpg"
         width: 900
         height: 600
-        isCached: true
-  - title: "How artificial intelligence is helping to restore works of art"
-    excerpt: "The Oxia Palus start-up recreated this underpainting by teaching artificial intelligence how to reproduce Van Gogh's style."
-    publishedDateTime: 2022-09-06T16:00:00Z
-    webUrl: "https://www.citizen.co.za/lifestyle/3191108/oxia-palus-artificial-intelligence-helping-to-restore-works-of-art/"
-    ampWebUrl: "https://amp.citizen.co.za/lifestyle/3191108/oxia-palus-artificial-intelligence-helping-to-restore-works-of-art/"
-    cdnAmpWebUrl: "https://amp-citizen-co-za.cdn.ampproject.org/c/s/amp.citizen.co.za/lifestyle/3191108/oxia-palus-artificial-intelligence-helping-to-restore-works-of-art/"
-    type: article
-    provider:
-      name: The Citizen
-      domain: citizen.co.za
-    quality: 57
-    images:
-      - url: "https://media.citizen.co.za/wp-content/uploads/2022/09/van-gogh-artwork.jpg"
-        width: 1500
-        height: 1000
         isCached: true
   - title: "How artificial intelligence is helping to restore works of art"
     excerpt: "Art restoration is a discipline that combines passion, patience and resourcefulness. And it is benefitting more and more from the latest technological advances, especially in terms of artificial intelligence."

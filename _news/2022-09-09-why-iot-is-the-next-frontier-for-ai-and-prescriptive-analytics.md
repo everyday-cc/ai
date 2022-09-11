@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/09/why-iot-is
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/09/why-iot-is-the-next-frontier-for-ai-and-prescriptive-analytics/amp/"
 type: article
 quality: 87
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://www.cio.com/wp-content/uploads/2022/09/maya-leibman-full-res-new.jpg?quality=50&strip=all&w=1024"
         width: 1024
         height: 683
-        isCached: true
-  - title: "SAS Explore reveals the future of analytics"
-    excerpt: "SAS Explore will spotlight a lineup of prominent keynote speakers, dozens of sessions from SAS customers and partners, and extensive learning opportunities.   SAS: Around the Globe in Three Days \"SAS Explore is made for technologists,"
-    publishedDateTime: 2022-09-06T16:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-sas-explore-reveals-future-analytics-/2022/09/06/9667724.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/1892394/SAS_newswire_sas_explore_47.jpg"
-        width: 400
-        height: 267
         isCached: true
   - title: "Alation Achieves AWS Data and Analytics Competency"
     excerpt: "Alation Inc., the leader in enterprise data intelligence solutions, today announced it has achieved Amazon Web"

@@ -32,20 +32,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Cloud computing trends shaping the technology and business landscapes"
-    excerpt: "For companies that have incorporated cloud computing into their digital business plans, the result is usually a significant improvement in growth and efficiency."
-    publishedDateTime: 2022-09-06T16:47:00Z
-    webUrl: "https://techaeris.com/2022/09/06/cloud-computing-trends-shaping-the-technology-and-business-landscapes/"
-    type: article
-    provider:
-      name: Techaeris
-      domain: techaeris.com
-    quality: 24
-    images:
-      - url: "https://techaeris.com/wp-content/uploads/2022/05/Cloud-Computing-Server-Room-Computers-min.jpg"
-        width: 1170
-        height: 724
-        isCached: true
 
 secured: "Rsd5lh4iEnfTL5IXMWa8yDJgXl5IEdygkfK2Dw4p7xBcS1RFnzsUNvLvlk7GHYpxHqz8EgQIoHSqGiOAB9ivXm2I8E7zTgiihR+97W3hXNmmRTv97MuDYAtvcDOxpdQb9dqLtDokJVatf6GRl8KG5se9LrJ0riZ3K7xM2k5ESSPaic8qn/j07Lsee+V6GJjFPskP9O98sUzNRp0P+WbAjbzANfXFsq3HiQgJIqVnxCwg0NeV39CisRCICqgrRxXeURi8Yut71bY38hAUtPb4xaLa9bD7SgenpucIKDtPhB6T83dAjmJf2FLKBVOncFhmuv0btvFkBx7T9zCUvQNz801z9y/5Lt6qbw7XYlY7NO0=;fgC84n/XwTCpKnwwcaZeRA=="
 ---

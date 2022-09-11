@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cloud computing trends shaping the technology and business landscapes"
-    excerpt: "For companies that have incorporated cloud computing into their digital business plans, the result is usually a significant improvement in growth and efficiency."
-    publishedDateTime: 2022-09-06T16:47:00Z
-    webUrl: "https://techaeris.com/2022/09/06/cloud-computing-trends-shaping-the-technology-and-business-landscapes/"
-    type: article
-    provider:
-      name: Techaeris
-      domain: techaeris.com
-    quality: 24
-    images:
-      - url: "https://techaeris.com/wp-content/uploads/2022/05/Cloud-Computing-Server-Room-Computers-min.jpg"
-        width: 1170
-        height: 724
-        isCached: true
   - title: "Four Companies Offering Innovative Solutions Incorporating Artificial Intelligence for Retail Named IDC Innovators"
     excerpt: "International Data Corporation today published an IDC Innovators report profiling four technology vendors that have introduced powerful tools incorporating artificial intelligence"
     publishedDateTime: 2022-09-07T13:26:00Z

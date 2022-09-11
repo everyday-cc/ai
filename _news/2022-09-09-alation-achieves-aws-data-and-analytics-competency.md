@@ -51,20 +51,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "SAS Explore reveals the future of analytics"
-    excerpt: "SAS Explore will spotlight a lineup of prominent keynote speakers, dozens of sessions from SAS customers and partners, and extensive learning opportunities.   SAS: Around the Globe in Three Days \"SAS Explore is made for technologists,"
-    publishedDateTime: 2022-09-06T16:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-sas-explore-reveals-future-analytics-/2022/09/06/9667724.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/1892394/SAS_newswire_sas_explore_47.jpg"
-        width: 400
-        height: 267
-        isCached: true
 
 secured: "XM0JXQ2p5tYQTiM1U1SghIRCnkY1WqvoCg0NSRQNhk2hHK6Kycr7KcMI0yoiVaiuPsFW/6oWaxahpJOcDDmShKBl4p+fq83xHMejvN+yc0jQe0azuZx+X1PAbvNaBKKk7Zx0kpQy7rzQWCz4Z3tlLN4RhB60HpetiEfgSqhnfJXgRrgcb83PeZ9BChlsTav7cWnX/H9TrJNmI8UwWqQ5V/fkYlfhyvpSW486LCMXJjpIvztN2Jw+EmRKUSrbCO4rT6wNx0MqGFAUdHPzXj/Tf3LRMKkNcMkk2Dc0YmpggyFTTGQxHkgIftfGXzWP4VDjugX2ZynLEwCY/WQrMByKufagRiQVH/M5l0+aotJtyEMeV/9uenITdjetmwkyChXP8CUiFrZa/NuvjxSTzwTdSGPDkYu/NSlH0aP3L6gxn1wU962xNOWa/0d3uFRWdYtCruLUhL57cTSwn5NCGGgVVKxeeKp0gmpC+W0GV/uz+qfVuRwehPDiYmnTyojBDWIY/EsCzUi0u8nqM6LU059Ekg==;O6YqStsd8yc8WCegYz9yxg=="
 ---

@@ -54,22 +54,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "How artificial intelligence is helping to restore works of art"
-    excerpt: "The Oxia Palus start-up recreated this underpainting by teaching artificial intelligence how to reproduce Van Gogh's style."
-    publishedDateTime: 2022-09-06T16:00:00Z
-    webUrl: "https://www.citizen.co.za/lifestyle/3191108/oxia-palus-artificial-intelligence-helping-to-restore-works-of-art/"
-    ampWebUrl: "https://amp.citizen.co.za/lifestyle/3191108/oxia-palus-artificial-intelligence-helping-to-restore-works-of-art/"
-    cdnAmpWebUrl: "https://amp-citizen-co-za.cdn.ampproject.org/c/s/amp.citizen.co.za/lifestyle/3191108/oxia-palus-artificial-intelligence-helping-to-restore-works-of-art/"
-    type: article
-    provider:
-      name: The Citizen
-      domain: citizen.co.za
-    quality: 57
-    images:
-      - url: "https://media.citizen.co.za/wp-content/uploads/2022/09/van-gogh-artwork.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
 
 secured: "KPtjl1+NmgRheBS2EKH2vI7MojWZZcD7+PL5Pdl25wwOb6ncXYdXmqgcatn9BMzUGXeyDEvg/8Tvd3SwNmVlMinKmsqd8euWLOd1FbULiJH4nELmWtiURrDg49jdK+54WQWncpsjuxuobuIQDxepPLFG1nKy1B7LB5Ml4TTU6hupUvW2T67vvIUqwEa1BS+IFJucMqmT4Olc2CKHx8gfVlis1Q9pcTRGqO+HtDfR2EAfdjFPbfh6Ioqi6H2tRdSuHbmt1AD4gQhp2XYDaE+O4Z+LG3jDcSICIctH4kvI9EV5b41XednGN5ajtmfNgdUXuk9EcJX2RHnH1wNkN8argxooSYBo5p+Qr7Xi788F3WNGntlAyjSvtV3u2CYqqP8nidbVrncDXBqxQm1GSKf8YnTJWH/uNJ7uVfq8BFAcxEo+k1tOa3NuB7yOtm3kWX4smBeSjO5Ajp+fk6PHDuRn0DBjwc5CncZEfCp6xI27CFy6N1z1ZsnaRSzBA+scLEjtaAfUI/UaXjGBDrNNAf+/FQ==;34fveIOQUK8LyRrq4WPhQg=="
 ---
