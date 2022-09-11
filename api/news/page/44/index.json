@@ -2,6 +2,49 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2022-08-03-tips-for-leveraging-the-power-of-voice-search-optimization.md",
+      "title": "Tips For Leveraging The Power Of Voice Search Optimization",
+      "excerpt": "A lot of this functionality relies on speech recognition technology, but you may not realize the way your website is coded can also have a big impact. According to the WAI (Web Accessibility ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.searchenginejournal.com/voice-search/457718/",
+      "originalUrl": "https://www.searchenginejournal.com/voice-search/457718/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.searchenginejournal.com/wp-content/uploads/2022/07/voice-search--62d577424dfd1-sej.jpg",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-03T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Search Engine Journal",
+        "domain": "searchenginejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-03-cognitive-decline-can-be-avoided-with-simple-everyday-exercises-new-study-suggests.md",
       "title": "Cognitive decline can be avoided with simple everyday exercises, new study suggests",
       "excerpt": "Researchers at the Wake Forest University School of Medicine recruited 300 adults with mild cognitive decline to do aerobic and stretching-and-balance exercises. The groups were split up based ...",
@@ -1146,50 +1189,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-using-machine-learning-for-bushfire-prevention-in-australia.md",
-      "title": "Using machine learning for bushfire prevention in australia",
-      "excerpt": "Machine learning approaches are proactively mitigating the risk of bushfires caused by powerlines, ensuring the safe and regular supply of power to",
-      "sourceUrl": null,
-      "webUrl": "https://utilitymagazine.com.au/using-machine-learning-for-bushfire-prevention-in-australia/",
-      "originalUrl": "https://utilitymagazine.com.au/using-machine-learning-for-bushfire-prevention-in-australia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://utilitymagazine.com.au/wp-content/uploads/2022/07/Utility-5.png",
-          "width": 714,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "utilitymagazine.com.au",
-        "domain": "utilitymagazine.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

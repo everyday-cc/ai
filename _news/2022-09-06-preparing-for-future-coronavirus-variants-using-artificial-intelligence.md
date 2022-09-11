@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 1000
         isCached: true
-  - title: "ETH Zurich: Preparing for future coronavirus variants using artificial intelligence"
-    excerpt: "Researchers at ETH Zurich have developed a method to explore the possibilities of how the pandemic virus could evolve. Thanks to their work, it may be possible to develop antibody therapies and vaccines that are more likely to be effective also against future viral variants."
-    publishedDateTime: 2022-09-06T08:26:00Z
-    webUrl: "https://sciencebusiness.net/network-updates/eth-zurich-preparing-future-coronavirus-variants-using-artificial-intelligence"
-    type: article
-    provider:
-      name: Science|Business
-      domain: sciencebusiness.net
-    quality: 33
-    images:
-      - url: "https://sciencebusiness.net/sites/default/files/inline-images/SBpodcast_logo.jpg"
-        width: 600
-        height: 600
-        isCached: true
 
 secured: "W5YlIAwY6Unlhjxn4qMMAkGvvSWRqWhS2X8js0PpRh4EfZqsEjPY+WOT2P4doRp8s99uFo4Y+QsugMuhAFG7KWqcHzN2Uo9czjuOec5xK8EHhUmxQzixLBbCOkD4YUcDv9UFpb6TpFP/J00kDQbyL1EhIgGCKiXSNv6lYGBUhpqVbattOcCKyDtHScHyfFhpm9Bw29eHm8+sF30A7jB7S/PHOBDBV2Wr5zc964Ib/k0D+JOFvaBNthX3dRA8euyHGB07+87+EDJ2alY1s6J22USJIpyPsgcAL06Kl7XyFi2vBLvghFD8Df6MTSwib0K10oKU3jsaywmtlFWnkO+B1ajeF23CcdPGBZkH/4ScRPc=;8Vyo5uQSYSNneTKsqvNPsg=="
 ---

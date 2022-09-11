@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-08-26-first-trust-exchange-traded-fund-vi-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaq-robt.md",
+      "title": "First Trust Exchange-Traded Fund VI - First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ: ROBT)",
+      "excerpt": "Calculated by average return of all stock recommendations since inception of the Stock Advisor service in February of 2002. Returns as of 08/26/2022. Discounted offers are only available to new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/quote/nasdaq/robt/",
+      "originalUrl": "https://www.fool.com/quote/nasdaq/robt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/misc-assets/hp-sa-cumulative-growth-chart.png",
+          "width": 843,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-26T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-26-lg-ultragear-oled-gaming-monitor-and-ultrafine-display-ergo-ai-with-4k-resolution-launched.md",
       "title": "LG UltraGear OLED gaming monitor and Ultrafine Display Ergo AI with 4K resolution launched",
       "excerpt": "LG has unveiled UltraGear 240Hz curved OLED gaming monitor and UltraFine Display Ergo AI. The devices have model numbers 45GR95QE and 32UQ890. The company also confirmed its presence at the upcoming event after a two-year break due to the pandemic.",
@@ -1153,49 +1205,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-best-robot-vacuum-for-avoiding-dog-poop-plus-more-pet-friendly-vacuums.md",
-      "title": "Best robot vacuum for avoiding dog poop (plus more pet-friendly vacuums)",
-      "excerpt": "The iRobot Roomba j7+ is designed with the issue of dog poop in mind. This smart ... device -- the better to control the appliance remotely. The best part? This Lefant robot vacuum is priced ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/irobot-roomba-j7-robot-vacuums-avoid-dog-poop/",
-      "originalUrl": "https://www.cbsnews.com/essentials/irobot-roomba-j7-robot-vacuums-avoid-dog-poop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/08/17/95c7974e-3fc7-4bdc-984c-a8ad7429f73c/thumbnail/1200x630/e0539f7cb83c9c07473062067a48cc39/roomba-dog-poop-header.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/irobot-roomba-j7-robot-vacuums-avoid-dog-poop/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/irobot-roomba-j7-robot-vacuums-avoid-dog-poop/",
-      "publishedDateTime": "2022-08-25T15:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

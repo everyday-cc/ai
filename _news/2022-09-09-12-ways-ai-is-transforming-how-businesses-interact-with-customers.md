@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Meta is working on ways to read minds using AI"
-    excerpt: "In a pre-print study, Meta scientists said their AI model was able to decode speech segments by listening to three seconds of brain activity."
-    publishedDateTime: 2022-09-06T08:21:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/meta-mind-reading-ai-decode-language"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 41
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/09/AdobeStock_207650808.jpeg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "4/+IWbRHy0dKpjUfifNByzgzCmojIxcrc378RfKaBXffuvFpfGYlYkA5EwlQ0KDsQobfYpi7b7dc8D/BxmB8nJSfCPbkGPDsvdbYTz2Se0h7mHrcuAjQ+V976RvIZZX6l4RSBSjnvr12CH/NBBIkRK+Le2Q7M4ZyE9o2SvyP5xnIOMBb4JwoXplCD5NMrdw+AStL6CtkpzORhsibjGOthjw8zMmJglc05iRz+XtaV8KUhmRg9ic218jpMduxaaBkkCI95bWU/9FZq8r3P/RRZPH9586AAAYqGOQYUoK0UO3QvtQ+4x/EH5WakUcxr61nxkBGnjFrdj1HBaTmau/7nnL8I0qOfXOKglr6v07/inGDo/i3f3ZWIhmULnDseSsHKx/iJmIIt+pz4LOR6AalQVVdmL6onb3GDOyFUcWFI/PZhPi68bR0O5oEJjL1j26s8jFFjaX0ZaktD1Nd8GBKck6qoVm3l2j60VF901kVuiL5gqGN5H6vr3D9VKdVyDpjwcfSrP8MHl4LVIHbSYNA7Q==;4CJGGNN5oBAZjBT9LaGQLA=="
 ---

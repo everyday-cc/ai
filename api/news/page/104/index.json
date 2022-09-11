@@ -2,6 +2,39 @@
   "page": 104,
   "value": [
     {
+      "path": "_news/2022-06-17-privacy-bill-sets-out-rules-on-use-of-personal-data-artificial-intelligence.md",
+      "title": "Privacy bill sets out rules on use of personal data, artificial intelligence",
+      "excerpt": "The federal Liberals introduced privacy legislation on Thursday to give Canadians more control over how their personal data is used by commercial entities, impose fines for non-compliant organizations",
+      "sourceUrl": null,
+      "webUrl": "https://www.lakelandtoday.ca/national-news/privacy-bill-sets-out-rules-on-use-of-personal-data-artificial-intelligence-5484614",
+      "originalUrl": "https://www.lakelandtoday.ca/national-news/privacy-bill-sets-out-rules-on-use-of-personal-data-artificial-intelligence-5484614",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T14:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "lakelandtoday",
+        "domain": "lakelandtoday.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-how-to-scale-machine-learning-inference-for-multi-tenant-saas-use-cases.md",
       "title": "How to scale machine learning inference for multi-tenant SaaS use cases",
       "excerpt": "This post is co-written with Sowmya Manusani, Sr. Staff Machine Learning Engineer at Zendesk Zendesk is a SaaS company that builds support, sales, and customer engagement software for everyone, with simplicity as the foundation. It thrives on making over 170,000 companies worldwide serve their hundreds",
@@ -1079,49 +1112,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-toyota-financial-services-recognizes-conduent-with-supplier-excellence-award-for-the-second.md",
-      "title": "Toyota Financial Services Recognizes Conduent with Supplier Excellence Award for the Second ...",
-      "excerpt": "Toyota Financial Services named Conduent Incorporated (Nasdaq: CNDT), a business process services and solutions company, a 2022 Toyota Supplier of the",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/toyota-financial-services-recognizes-conduent-with-supplier-excellence-award-for-the-second/article_96d4ba86-48d6-5557-93ec-51bb698ae028.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/toyota-financial-services-recognizes-conduent-with-supplier-excellence-award-for-the-second/article_96d4ba86-48d6-5557-93ec-51bb698ae028.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }
