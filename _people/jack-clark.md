@@ -3,14 +3,14 @@ name: "Jack Clark"
 bio: "Policy Director @openai & @indexingai  Newsletter: https://t.co/03WBZSPtRw  Past:  @business Neural Net Reporter.  @theregister Distributed Systems Reporter."
 location: San Francisco, CA
 type: "profile"
-heat: 153
+heat: 188
 
 website: https://jack-clark.net/
 
 twitter:
   username: jackclarksf
   url: https://twitter.com/jackclarksf
-  followers: 51412
+  followers: 51416
 
 topics:
   - AI
@@ -22,6 +22,6 @@ images:
     isCached: true
     title: "Jack Clark"
 
-secured: "CMS63VPiees9eCHeKA7MVapFBjVZpEXm4VX7MBI+dOlaFeAFE63whmn7p8ceh8kYaUy6w1MA37ZEiArAPGM3QmeZrhwY1m1xzKazhcSk+b7q3iFuVcIdFUeNVciKQs3Lhqtjfup7CWzFSeddk8Ccd7hJJ1kzbeCIl994Pafu7s7Id9FerHtCiF5DHAQlqjmxxImdH+arQHtoJf7X3ubIFNPEcQUsQMH8sO5xs+wB9TxYW73hNjNtFIjNdPExxAJDTYR79Ai7kscIRXpxwEOOrYm8LusR57AxH5aQ9RPfG3jA1cg7QCbBQKfl4B+0qAjgmS+NN5WkfIFNSg7P3FH5E5hRRTasHd+L3XREa2L2DojxGV510gt/+aVURPBI2XFSRBOiRo42iQzJVbN31L+YQzo9HIFRmcQ74PSEYHsWriE=;sDZfZxO9hpGyEsq2KEBF3w=="
+secured: "gkmhJu1jSfdgsDKGlYUYWdnYWat/WA9FfbTkCBfXezCvJG2iQyes3PxiPML1ltPX+52WIodSY0deJiE9FXtv1lKuItv0SDWln/JjJS4D7tYGRQQyXbSEKncTmiY3oRAITuGxoocb5JfoCMngEqHV+zMwSExA9O+jugXO0XFhDB8et2/n7E+syUqrQcIaoa1Uy6Yo++iaPzbd+z+jo1xCu0hNUAXMedwUAoHZ0f4VDdilzNvM58ay7mHDvuHvXw2eeMRKEZIYNNahxRJ+qOPYyDYP0GwctHRXzyS20F2WYX66ZWE7z6HActgaujm1SCMWSa4wm+2LMOFCKvE6y4jhxtEQ5UllImNglkLV56c9Sd9fGL9ys0oFJnrJa1oKIqnBFO+z5+mp5o8wPK4FzyqBSLHuV/6ES9284WP2DCkaCEE=;usSpEeFhT+pnodpu+YUDvQ=="
 ---
 

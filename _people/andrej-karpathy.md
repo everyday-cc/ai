@@ -3,14 +3,14 @@ name: "Andrej Karpathy"
 bio: "Director of AI at Tesla. Previously a Research Scientist at OpenAI, and CS PhD student at Stanford. I like to train Deep Neural Nets on large datasets."
 location: Stanford
 type: "profile"
-heat: 347
+heat: 334
 
 website: https://t.co/UnoPfBvH9V
 
 twitter:
   username: karpathy
   url: https://twitter.com/karpathy
-  followers: 521533
+  followers: 521568
 
 linkedin:
   url: https://www.linkedin.com/in/andrej-karpathy-9a650716/
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Andrej Karpathy"
 
-secured: "xSoBItzTaJZgHKX5btb+6x1WVA9dArNDX23wZHPhNjwleMfPwQRhMx1lrmI6/1TbQxmase6swn/A/xbV88Ng65xfQT2yfTpSKnfYdMHKcS5P/jcsBc+QHnUZNkKz+guWXi7cE1OSa53HJNot8FUZm7vuQwVmCv+ngdfqnKgW+wEBYS0okZm029LgPoSRqWSh/KjJuRf2ev/WFiv6ahXwP+ev0UHXigpwC8C0/crnIMpfwP/edsXJYInPsDzg98KwY7mTM0+R0Z9fA8VugLvIdJNfCDvKdCRxnftssBw551bJhmEcufU/gVL7J+mRVggMDJmF8BoZaITUBUVkkZCDqyQox0rhd5QaKwOlv4R8QPHMBH06AfqJkUJWU/SE4HogQ7L/AuEOnuZTEpOkIw9hs71gsLj8OOdJMTLPIgYjohY=;YFcLud5180BAz1SqQr7eBQ=="
+secured: "lk3fD65VFdaIZFiwTLbyH0YkOVnMCrnaT1rGPCDVkKu1gVbgD1I7ZmrJg1uMv745bLViKu3oBU+T+JN9roAfk01+prX4iCEcmpMK9Hpe//dKdk0uimfSwTSVUGsGZjHJngHQ/MPCd5U/uU9iPkUox+ep9DmmrQ5XHH3ezksfYFsLkLbBICjPeFr64LRN6JU6Il7sAMtANdt4CzB6vhn1i6nVV2vnv/+YQZotIVvt1+s7GDD3nG2kaIOaLxWFc+gYJ52h8L67ojDvYmPfNjFxdjPVahRSLVi93EaaMbt+8tseUtUN84URZXdXNMSOqO63g5CSsfJxD7AFF4mUJ7hRn8aLpCzYgrHwhOGJfMt3vTCWtPeLlpeDNNUth2LOgWLjI1RBUyHyA2rlfDtmW4ZLrB36tOxIUhmKLPDm4a7+Uh8=;hrN5deJkaHCQZBl5USk6eQ=="
 ---
 
