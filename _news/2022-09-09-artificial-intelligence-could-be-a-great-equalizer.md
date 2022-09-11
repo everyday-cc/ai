@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-09T08:52:00Z
 originalUrl: "https://www.washingtonpost.com/business/artificial-intelligence-could-be-agreat-equalizer/2022/09/09/bd246350-3037-11ed-bcc6-0874b26ae296_story.html"
 webUrl: "https://www.washingtonpost.com/business/artificial-intelligence-could-be-agreat-equalizer/2022/09/09/bd246350-3037-11ed-bcc6-0874b26ae296_story.html"
 type: article
-quality: 39
-heat: 39
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
   domain: washingtonpost.com
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
@@ -24,6 +23,6 @@ images:
     height: 779
     isCached: true
 
-secured: "1f6Ru6p+Up3P7fJ5DzcW4BgAk4NMwDaAw4NABrz3DpNO+lQYpU+ULOwCh7OYY0xssB/jBGaIOcfAgvTppDruRe/Aw0Ckbke7f+C/rpmvB87RiZwqHBwxNxEBOTiBFsPMh1tXhGQnv0awSZNGfRZfL1LZPGQIVBAbpAwiZz8s1BcVscG9orU+JmK3FHH+Vi+LVrM7jnfQXBg7RfDmZ9XJKTWSS2PWSwtcfSnIWKeyoi+IiFKSzSUDg06BYi+a5t2DlPPQrr6mTXwu0uEnFQEwJVMObY7XeIS1GX9/LbjmT56CuSM3ZKrspunOoN2mSEbLjcfwuu7R/y23gFn753vidTMKh53paYIW5FUM6hrRqbE=;YdSQlsLkEJNr13LRt6TNDg=="
+secured: "6E1PFVrFiYtWyWD44NsAwf8YAqLRadbwDvrb3zGrsc+Z6yQzb7m088GmhnXrj/E74InPwn+1YLFqwhabCXsj4vqahcuo21BEQ82DJKebR4rgzmrUdA0iGk1MPC+0yT64bW56bDfCY+er0PXJiBh2f017OnAo7AW3nk21EOwZBXvFsQIhPMiU3duHjGuemi+lgpnRkq1Aw34ghPpbzX5lBkiUFsmNPcjHdkgfFYSEdn+PmJ5Ok8ACTrGG2c+0i/5CD5PSBPyTd1viVQwLE/hINxav6Naw26+agW6UEG+bZBJrgnVcl4Ik5Dy/S8dJA6EARQtw/fCZcmcxoSPMh/ZtjEThB2M7Nqd0+1/i9071JlI=;g+UW+frkBhp1qRk83dCUnA=="
 ---
 

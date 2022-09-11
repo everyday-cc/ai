@@ -37,17 +37,6 @@ related:
         width: 1200
         height: 400
         isCached: true
-  - title: "Harmony Health Selected to participate in AWS Healthcare Accelerator for Health Equity"
-    excerpt: "Harmony Health will use AWS Cloud solutions to enhance its micro-engagement platform and engage with key stakeholders in Manage Care Organizations PLEASANTON, Calif., Sept. 6, 2022 /-PRWeb/ -- Harmony"
-    publishedDateTime: 2022-09-06T10:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/n28752029/harmony-health-selected-to-participate-in-aws-healthcare-accelerator-for-health-equity"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28752029"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28752029"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 48
 
 secured: "No8+VnwDnpTKlImWe9vk0xwJ7aWuhgkd40HKXzCnJsHVlwaGHUHhVGF7eVUuodDc03cCP+Ig6RbMLrpwUX8IUxCglN6OB/Ihjp0HjKFvCOK82MvXWJ8uGHk/ZcafAsp+VCNdMnCw/AmMxBbBICXqZpUApkGY9JFiJ48NIoUMXpleXUO1S9EymNR82sxH06aEENK5AhKRSdCVtyuVLhmQAHpum6NNu+uX1zZrhXgKjcCr/8Du5UEwfXml5p3qGclyHjks0mJgFSpAosLVeyVaQKMkGKwDGu/NO5YS7n4784bO72rOxNoaBGq2IuP9W8UfVX5z6QnsU+DEmGHMV4lSGqnfgDyjI+gKtW/XQhDumuo=;DrGnwEime+He7f/nvpkn3w=="
 ---

@@ -39,6 +39,20 @@ related:
         width: 1100
         height: 778
         isCached: true
+  - title: "As AI-generated art takes off, who really owns it?"
+    excerpt: "The growing use of artificial intelligence, in art and other sectors, throws up complex issues of ethics, copyrights, and privacy"
+    publishedDateTime: 2022-09-11T02:00:00Z
+    webUrl: "https://www.rappler.com/technology/features/ai-generated-art-who-really-owns-it/"
+    type: article
+    provider:
+      name: Rappler
+      domain: rappler.com
+    quality: 39
+    images:
+      - url: "https://www.rappler.com/tachyon/2022/09/AI-art.jpg"
+        width: 1280
+        height: 900
+        isCached: true
   - title: "AI-generated art photography is here, but it’s not going to replace your camera"
     excerpt: "AI-generated art is here for photography, but is it up to the task of replicating real photos? We take a dive into some AI generators."
     publishedDateTime: 2022-09-07T12:42:00Z

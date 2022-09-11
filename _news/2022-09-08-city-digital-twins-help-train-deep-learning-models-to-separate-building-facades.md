@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-09-city-digital-twins-deep-facades.
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-city-digital-twins-deep-facades.amp"
 type: article
 quality: 70
-heat: -1
-published: false
+heat: 90
+published: true
 
 provider:
   name: techxplore
@@ -27,31 +27,36 @@ images:
     isCached: true
 
 related:
-  - title: "How avatars and machine learning are helping this company to fast track digital transformation"
-    excerpt: "By developing in-house talent and working with pioneering startups, LNER is moving towards its digital destination – and its experiences provide lessons for all businesses."
-    publishedDateTime: 2022-09-06T09:29:00Z
-    webUrl: "https://www.zdnet.com/article/how-avatars-and-machine-learning-are-helping-this-company-to-fast-track-digital-transformation/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-avatars-and-machine-learning-are-helping-this-company-to-fast-track-digital-transformation/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-avatars-and-machine-learning-are-helping-this-company-to-fast-track-digital-transformation/"
+  - title: "Machine learning model can evaluate the effectiveness of management strategies for wildfire prevention"
+    excerpt: "Wildfires are a growing threat in a world shaped by climate change. Now, researchers at Aalto University have developed a neural network model that can accurately predict the occurrence of fires in peatlands."
+    publishedDateTime: 2022-09-09T14:59:00Z
+    webUrl: "https://phys.org/news/2022-09-machine-effectiveness-strategies-wildfire.html"
+    ampWebUrl: "https://phys.org/news/2022-09-machine-effectiveness-strategies-wildfire.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-machine-effectiveness-strategies-wildfire.amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 77
+      name: Phys.org
+      domain: phys.org
+    quality: 43
     images:
-      - url: "https://www.zdnet.com/a/img/resize/ed783a2f65ffc74133755054e8c6ce6cca442c79/2022/09/06/1a29cd1a-d332-43c1-8155-6e5699e53cdb/lner-azuma-york.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 800
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/machine-learning-model-6.jpg"
+        width: 819
+        height: 614
         isCached: true
-  - title: "Train transport of the future: Bosch Engineering is working on automated driving in rail traffic"
-    excerpt: "Digitalization and automation increase capacity of existing rail network without building new tracks; Development focus is on systems and"
-    publishedDateTime: 2022-09-08T12:42:00Z
-    webUrl: "https://www.bosch-presse.de/pressportal/de/en/train-transport-of-the-future-bosch-engineering-is-working-on-automated-driving-in-rail-traffic-246016.html"
+  - title: "Building a Learning Culture Can Regenerate the Power Delivery Sector"
+    excerpt: "Progressive technology in the power and electricity sector presents monumental challenges in workforce development."
+    publishedDateTime: 2022-09-08T15:56:00Z
+    webUrl: "https://www.tdworld.com/safety-and-training/article/21250298/building-a-learning-culture-can-regenerate-the-power-delivery-sector"
     type: article
     provider:
-      name: bosch-presse
-      domain: bosch-presse.de
-    quality: 6
+      name: T&D
+      domain: tdworld.com
+    quality: 24
+    images:
+      - url: "https://img.tdworld.com/files/base/ebm/tdworld/image/2022/09/16x9/EUO_1.6319ed420dda0.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "epA0KmGGOmngpa6hezvqwsfY1HDO1wbuX4LJV0Yq1mJU1MtDQSg9uVA1UR0TXcfNAB8PVMF2cbasQtddUkSZ6hjYqRpVUdIGVT11Jpq+q/FeChIGbCUJsgBKP1VfzReIF+Dk2C2yMpmANgkC6TLaGnePUoJCuI9xkASF+/ihKQ5NI+Y8hycBcgBdTMEEq2WSSiQ+8E/rV7GB/ACPRPK3nYn14VtAt5C+YGrpTQA5IiQqKUNHcq6HEPklsFJ7QH+GhIiFZJ0Sp8/TdFWjPQuObC3ITFWOzL/1cU+bKdW/vt6n9dLDcur1EYNttsqjhjd64i0FXoWQpuPD9gYhAA4YByOhhI/tosck27VNwH0RTSCTGDB77PNZ19BhbExiNSt8iUljUfFLUtCn9OscKcWoTbUogOfNm4PpaRJ8tmWWO3Xfk4oK5326IlIK1K51qNUHE5IL+0vX8rmV8pCE/ifKBdKE2r2lxVaz9RVj0OvIbIwB7gE/RlbQ0NQ8HgtT9XY0aSjx9GpGXhgRfNYP+XL81g==;/fKJE6Tylwz0yFQvk726JQ=="
 ---

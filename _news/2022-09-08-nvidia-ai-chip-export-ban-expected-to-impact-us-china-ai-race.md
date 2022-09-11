@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/nvidia-ai-chip-export-ban-expected-to-imp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-ai-chip-export-ban-expected-to-impact-u-s-china-ai-race/amp/"
 type: article
 quality: 104
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -92,20 +92,6 @@ related:
       - url: "https://static.toiimg.com/thumb/resizemode-4,msid-94026320,imgsize-171552,width-800/94026320.jpg"
         width: 800
         height: 533
-        isCached: true
-  - title: "AI Chips and China, Geopolitical Considerations, Nvidia Considerations"
-    excerpt: "Nvidia and AMD graphics chips are barred from sale in China, signaling a permanent shift in the U.S.’s approach to selling tech to China"
-    publishedDateTime: 2022-09-06T11:01:00Z
-    webUrl: "https://stratechery.com/2022/ai-chips-and-china-geopolitical-considerations-nvidia-considerations/"
-    type: article
-    provider:
-      name: Stratechery
-      domain: stratechery.com
-    quality: 54
-    images:
-      - url: "https://i0.wp.com/stratechery.com/wp-content/uploads/2018/03/cropped-android-chrome-512x512-1.png?fit=512%2C512&#038;ssl=1"
-        width: 512
-        height: 512
         isCached: true
   - title: "U.S. deals blow to China tech ambitions with Nvidia chip ban"
     excerpt: "Nvidia can no longer sell certain high-end AI chips that are used in large data centers to train AI models for tasks such as autonomous driving, image recognition and voice assistance."

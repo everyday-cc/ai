@@ -9,8 +9,8 @@ ampWebUrl: "https://www.computerweekly.com/news/252524670/Six-UK-based-startups-
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252524670/Six-UK-based-startups-among-those-chosen-to-participate-in-AWS-Defence-Accelerator?amp=1"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: Computer Weekly
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Harmony Health Selected to participate in AWS Healthcare Accelerator for Health Equity"
-    excerpt: "Harmony Health will use AWS Cloud solutions to enhance its micro-engagement platform and engage with key stakeholders in Manage Care Organizations PLEASANTON, Calif., Sept. 6, 2022 /-PRWeb/ -- Harmony"
-    publishedDateTime: 2022-09-06T10:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/n28752029/harmony-health-selected-to-participate-in-aws-healthcare-accelerator-for-health-equity"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28752029"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28752029"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 48
   - title: "AWS Selects 10 Startups for 2022 Health Equity Accelerator"
     excerpt: "The ten startups, selected from more than 250 applicants, will participate in the four-week AWS Healthcare Accelerator program focused on health equity."
     publishedDateTime: 2022-09-09T15:15:00Z
