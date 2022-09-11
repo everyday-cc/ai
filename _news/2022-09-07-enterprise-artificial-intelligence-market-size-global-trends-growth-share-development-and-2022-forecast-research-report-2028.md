@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice and Speech Recognition Market Report, Size, Industry Share, Growth, Trends and Forecast 2022-2027"
-    excerpt: "As per the latest report by IMARC Group, titled \" Voice and Speech Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027 \", offers a comprehensive analysis of the industry,"
-    publishedDateTime: 2022-09-06T06:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-report-size-industry-share-growth-trends-and-forecast-2022-2027-2022-09-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence of Things (AIoT) Market Size 2022 Overview, Manufacturers, Types, Applications, Share, Growth Rate and Forecast 2027"
     excerpt: "A new report released by Market Research Update is Artificial Intelligence of Things (AIoT) Market 2022. This report provides up-to-date information on the market and also pinpoint all the opportunities for Artificial Intelligence of Things (AIoT) market growth."
     publishedDateTime: 2022-09-06T11:37:00Z

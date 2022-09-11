@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/deep-dive-how-ai-content-generators-work/
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/deep-dive-how-ai-content-generators-work/amp/"
 type: article
 quality: 91
-heat: 92
+heat: 91
 published: true
 
 provider:

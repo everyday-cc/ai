@@ -465,24 +465,33 @@
     {
       "path": "_news/2022-08-29-edge-computing-market-size-worth-13211-billion-by-2028-at-216-cagr-the-insight-partners.md",
       "title": "Edge Computing Market Size Worth $132.11 Billion by 2028 at 21.6% CAGR | The Insight Partners",
-      "excerpt": "The Insight Partners published latest research study on \"Edge Computing Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Component (Hardware, Software, and",
+      "excerpt": "The Insight Partners published latest research study on \"Edge Computing Market Forecast to 2028 - COVID-19 Impact and Global Analysis",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/08/n28664397/edge-computing-market-size-worth-132-11-billion-by-2028-at-21-6-cagr-the-insight-partners",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/08/n28664397/edge-computing-market-size-worth-132-11-billion-by-2028-at-21-6-cagr-the-insight-partners",
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/edge-computing-market-size-worth-132-11-billion-by-2028-at-21-6-cagr-the-insight-partners-839343495.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/edge-computing-market-size-worth-132-11-billion-by-2028-at-21-6-cagr-the-insight-partners-839343495.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1586348/The_Insight_Partners_Logo.jpg?p=facebook",
+          "width": 598,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28664397",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28664397",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-08-29T03:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

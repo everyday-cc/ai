@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/trends/current-affairs-trends/watc
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/current-affairs-trends/watch-saree-clab-robot-collects-loan-sanction-letter-for-kerala-startup-9157751.html/amp"
 type: article
 quality: 58
-heat: -1
+heat: 58
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Federal Bank Backs Kerala-based Robotics and Automation Startup ASIMOV Robotics"
-    excerpt: "Federal Bank Backs Kerala-based Robotics and Automation Startup ASIMOV Robotics Pvt Ltd, a firm innovating in the robotics space"
-    publishedDateTime: 2022-09-06T05:44:00Z
-    webUrl: "https://www.indianweb2.com/2022/09/federal-bank-backs-kerala-based.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 67
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAiOWqN7HglghM6w5t0XUtEeaUT6ncFiKamfkVfCHu0I_CouDLquzSsjgQzFBY5HfifUJqrlVbonMkJwVvDt-4C6hqgErJwYjPrLofHdDKjg_QYXD0mCkLKYBE8EZF6xAAEjb9wxTMEnHn7cChpuRlWAooa6RVTASj43V35iITV-soA-LkpIEeEOea/s16000/asimov-robotics.jpg"
-        width: 900
-        height: 643
-        isCached: true
 
 secured: "Wbue0e/yGkjMYKPm9U2p5m7h05M9FUj+Mu/b1TvYlZAhbG1cHz/z2Q3be8SOoLeIGxSd5ltIGS6JFRnr1lNCp2m+TVvE04EX3JrjQub5JsRHxQwG2PM6cPbTz3Qi/0GwVql4V06D7tDdhNrlW1EXMfuaTsO0ddGbjaKr8PKkcqatCfxI41cXUudHeCQNeMo4YbPxvEIPhK9z+OZ+zGVdnwOjDRjts4/1xH3R+6UpICPcL434OabZ6Y1aPkUoSPv6gJ2JNP8ebaXJvzPijRdF0SKVxmLQPERi8JRjakvV2utXGq5RUbuGBk4DG4smQ0dcx+iDee9JrHaCaPZ+JQmYEQMhqexQVFg2qEwNDZkP6vhZG+NVAHHoMI3LSXXXIQSs/PofW0liCV/OVuV3USr40BSszVULWHk2S0vVejio/q3T/5hJ8ZNzi+MAT/JoJ4DjRYjhWMTDihTwKBZBLIwnzi1v4NcbaaxrW7oMdOO+9ym5e3s8zbutykTmVQDHj2nhA0ndZIXF/r5EJZOJZf/ZMA==;uYbOiXx2jGMXUdFGQNp72Q=="
 ---

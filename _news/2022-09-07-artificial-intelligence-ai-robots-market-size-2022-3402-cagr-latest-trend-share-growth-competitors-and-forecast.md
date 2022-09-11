@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-size-2022-3402-cagr-latest-trend-share-growth-competitors-and-forecast-2022-09-07"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Voice and Speech Recognition Market Report, Size, Industry Share, Growth, Trends and Forecast 2022-2027"
-    excerpt: "As per the latest report by IMARC Group, titled \" Voice and Speech Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027 \", offers a comprehensive analysis of the industry,"
-    publishedDateTime: 2022-09-06T06:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-report-size-industry-share-growth-trends-and-forecast-2022-2027-2022-09-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Enterprise Artificial Intelligence Market Size, Global Trends, Growth, Share, Development and 2022 Forecast Research Report 2028|"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Sep 07, 2022 (The Expresswire) -- Global “Enterprise Artificial Intelligence Market” report provides a complete examination of market dynamics, size, share, current ..."
     publishedDateTime: 2022-09-07T05:55:00Z

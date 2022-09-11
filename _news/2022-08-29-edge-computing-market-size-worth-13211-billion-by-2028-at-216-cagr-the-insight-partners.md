@@ -1,22 +1,26 @@
 ---
 category: news
 title: "Edge Computing Market Size Worth $132.11 Billion by 2028 at 21.6% CAGR | The Insight Partners"
-excerpt: "The Insight Partners published latest research study on \"Edge Computing Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Component (Hardware, Software, and"
+excerpt: "The Insight Partners published latest research study on \"Edge Computing Market Forecast to 2028 - COVID-19 Impact and Global Analysis"
 publishedDateTime: 2022-08-29T10:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/08/n28664397/edge-computing-market-size-worth-132-11-billion-by-2028-at-21-6-cagr-the-insight-partners"
-webUrl: "https://www.benzinga.com/pressreleases/22/08/n28664397/edge-computing-market-size-worth-132-11-billion-by-2028-at-21-6-cagr-the-insight-partners"
-ampWebUrl: "https://www.benzinga.com/amp/content/28664397"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28664397"
+originalUrl: "https://www.prnewswire.co.uk/news-releases/edge-computing-market-size-worth-132-11-billion-by-2028-at-21-6-cagr-the-insight-partners-839343495.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/edge-computing-market-size-worth-132-11-billion-by-2028-at-21-6-cagr-the-insight-partners-839343495.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "x7xvJPZKZY4nXkOY2jsKxx3UnnCaQQbnza2ix1/GOIHAuiNuphYw8ZzqmenWR6Yz1aVaW4k1vaNnYx5/d9NxwQXfRtegItXSUj/HkSBMF/2E4Sw9Pxd6C3AD4AuxGQNFbfFRIKXfG5jKLWW6MOW1fQ32XvbKNEV1ap3sLYpzU9BnlglBcE7us+orMhwdxPmQgWHn5QAj1tcJPw50Wz5ZnVyZbEX/9RquOnZVoGh3x6SVEDWcJDN4pHGeH/n6tEgxS2/YZYcng0oMjkM4WxCC3eUoob8GwsY6PDTJD+DormXMCftDBslG3pvE0dlvVfTT9SLBq2Pl8hwNalAKrCPcS2215beq+HOU/AJaao4KRoY=;DtazgPk2Py3W7YVzQuTLNQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1586348/The_Insight_Partners_Logo.jpg?p=facebook"
+    width: 598
+    height: 315
+    isCached: true
+
+secured: "gbqtXSFVQ0jhyzx8vhckaTME2MtSK0v3le0cg7jSER+0Nl+CBa45nIOGGI1QaMDk84kd/gRxEQK1wbOBUy6lY6AzXQ72MHY+zOdmnvi/0I9p+jqqp8iQGIytGPVu3Ym/wK8WvDexknkOl7uha6DacxQ6K96EvQI7d1C8j/neszPmyMYBAvxoZ2ajSQuhKSDd1DPYNRw50SXZ9gkOY8s3+ftr02GwjCHh3pQkmRD95drVSUREyr2jQXhLWDYdUcYwEOjRBeyKn34Shbeb1NJwnVULZnCIODgNaCtVjP2/cfnRSrvi54/UZOUQFoK+qg3wlSR1uZLmqlqo37IXeYeHqZL16i/tE8OmxTcD73RL56o=;CF3+UEdGrXXAcKMAbGPiPg=="
 ---
 

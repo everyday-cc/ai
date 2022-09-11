@@ -55,20 +55,6 @@ related:
         width: 1024
         height: 1024
         isCached: true
-  - title: "Tesla Enhanced Autopilot vs Full Self Driving: which one should you buy?"
-    excerpt: "Teslas are also capable of coming with Enhanced Autopilot and Full Self Driving. By parting with several thousand dollars, you can ensure your car can do more things without (much"
-    publishedDateTime: 2022-09-06T07:00:00Z
-    webUrl: "https://www.tomsguide.com/face-off/tesla-enhanced-autopilot-vs-full-self-driving"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 53
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/6kavFKbT3MZ5oD4gMGgChT-1200-80.jpg"
-        width: 1200
-        height: 638
-        isCached: true
   - title: "Unsurprisingly, Many Tesla Owners Don’t Think ‘Full Self-Driving’ Is Worth $15,000"
     excerpt: "CNN Business reports that, after speaking with 13 individuals who own a Tesla with Full Self-Driving, 11 of them say that it’s not worth its new asking price. The entire group agreed that the technology has improved over time but some said that they have to pay more attention when FSD is engaged because it can be “unpredictable."
     publishedDateTime: 2022-09-10T14:39:00Z
