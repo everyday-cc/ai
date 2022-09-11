@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-11T13:00:00Z
 originalUrl: "https://menafn.com/1104845131/Global-AI-Summit-RIYADH-2022"
 webUrl: "https://menafn.com/1104845131/Global-AI-Summit-RIYADH-2022"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: MENAFN

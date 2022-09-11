@@ -95,20 +95,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Nvidia: Biden Targeting China On The AI Front"
-    excerpt: "Nvidia's headwinds of weak F2Q earnings and restrictions on selling GPUs in China, are coupled with a high valuation. Read why NVDA stock is an avoid."
-    publishedDateTime: 2022-09-06T20:21:00Z
-    webUrl: "https://seekingalpha.com/article/4539222-nvidia-biden-targeting-china-on-ai"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 39
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/825383494/image_825383494.jpg?io=getty-c-w750"
-        width: 750
-        height: 426
-        isCached: true
 
 secured: "vjNnxkSZqUbwRJ+jlO6EF854esU7lyvmoal/GNEyeNag7pltn7PEuNLdoRs7v7tO4/va38iLGINnkgueUeKOan1T22hph/anmZpnd+96eQls0P7HAm8iq3y24wBiIzMR9K1wqHwqaxppWzUyK6F6CnR+VpLdBmlObh9wqZRtZA+5KrzzpCEjfVtr+mbtYZNkjQdnapUsp4lThisASJyLf+LF0ttVYp7OmYaJ8CEk/NZtdjTNvdnTN79M1Owd5FZyLF8Vdy9KdrhImcGmwZ+rP4UXpuCyUwKo0nfpJjR74Dqfx+sv0uWRThuVNLjZMbbatRvSfOxrWyiH0OtBVwuwMXSsqqwaIS0wn/LV6U2ERGsAWDOFn86rATXJncaYAVC6H6JXR5VOgZ78Oet22b9daxuBtqD34H1DuelX2u0lbsVYk8TWu4K2joEEtsbZeSE7SbJCZtB74UMgBhn1RcRd2zPFFZvkCeplE9Cee7W6VnLxi8RxColtNyE+1Yf039SIiLfLp0TFsHuIMjdqvDw8YA==;UXv6qoSSUKY8WjUEUb5cbA=="
 ---

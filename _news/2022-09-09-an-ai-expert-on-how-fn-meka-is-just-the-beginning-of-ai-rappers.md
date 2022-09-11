@@ -9,8 +9,8 @@ ampWebUrl: "https://www.okayplayer.com/music/fn-meka-ai-rapper-tiktok-controvers
 cdnAmpWebUrl: "https://www-okayplayer-com.cdn.ampproject.org/c/s/www.okayplayer.com/music/fn-meka-ai-rapper-tiktok-controversy.html/amp"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Okayplayer
@@ -26,6 +26,17 @@ images:
     width: 692
     height: 376
     isCached: true
+
+related:
+  - title: "Rapper Behind AI Rapper FN Meka Says Label Never Paid Him"
+    excerpt: "Kyle said he agreed to lend his voice to the FN Meka project with the expectation that riches would follow after Martini and Le signed a lucrative recording contract for FN Meka."
+    publishedDateTime: 2022-09-11T13:03:00Z
+    webUrl: "https://thesource.com/2022/09/11/rapper-behind-ai-rapper-fn-meka-says-label-never-paid-him/"
+    type: article
+    provider:
+      name: The Source Magazine
+      domain: thesource.com
+    quality: 17
 
 secured: "/XouIkXlWnYuF0fIq1jOmsnN30bEnEl7Ks9lsGkbUKL+iGBgXaIE6vFy+8IZ4VJ4J4sgTSefCd3F4YMycqT0adOH1MID1tdFz0TkicnI9BIWEVBJL0k5PwmMiHsM4DNlXWYOqNkq6cTGfZ/z4k9kaKWp0Bng8LANS2sjjnZ8kDKYxwPbo4lUKctp+zikJaERVcITYGZel4JI4rwyQ9OEHUJoHGCX/6k/2XT+1YonBqhuySLYwe7QLf/tIMpwUIP9XG4fbJxfF3rBUZhDVBfumfp3f0rEgNtFIBSbH4cx14EqjzAag2FIxhriDN30onD0/isXwZDAA5qERVhyXbh+5YekMC/n57KIub+UA0f5OYYekC9K+RIA0S1+RBVFJSRQn3k3tBZqXfo8IFpXqqK/tzcaFlIaEVIUeU7GF2EiPeq2dNiDkQZkInVGYZ6fYBHasvOwoDUnRGjLEHY2DekqroHKObZtslXbn5EGyO4nMknj/WvyoGIOQfdyIfRi5WE3ExTyt+W3BWo4BXyS8clysg==;Q03/KHQl8oclxxGFHKyGJg=="
 ---

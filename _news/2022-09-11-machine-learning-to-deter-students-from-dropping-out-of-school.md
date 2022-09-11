@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-11T07:30:00Z
 originalUrl: "https://analyticsindiamag.com/machine-learning-to-deter-students-from-dropping-out-of-school/"
 webUrl: "https://analyticsindiamag.com/machine-learning-to-deter-students-from-dropping-out-of-school/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:

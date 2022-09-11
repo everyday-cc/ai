@@ -2,11 +2,11 @@
 category: news
 title: "The Integration Of Artificial Intelligence And Smart Speakers In The Speaker Driver Is An Emerging Trend"
 excerpt: "The integration of artificial intelligence and smart speakers into speaker drivers is gaining popularity among speaker driver market trends. Artificial intelligence (AI) integrated chipsets that are being used for smart types of speakers offer voice control,"
-publishedDateTime: 2022-09-08T17:04:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-integration-artificial-intelligence-smart-speakers-the-speaker-driver-/2022/09/08/9670149.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-integration-artificial-intelligence-smart-speakers-the-speaker-driver-/2022/09/08/9670149.htm"
+publishedDateTime: 2022-09-08T17:09:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/09/08/9670149.htm"
+webUrl: "https://it.tmcnet.com/news/2022/09/08/9670149.htm"
 type: article
-quality: 22
+quality: 20
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -40,6 +39,6 @@ related:
         height: 393
         isCached: true
 
-secured: "7KaTzcJ8cZpzL92J/D1aPK2K+DMMA+YJrh++xqTcZiJ1amit0gsGlaGxLanVRmFSjO+P3C1AyuJUx/MmPS/UjNm9qxY/3jebmuGb1NWIH3UV88HZAUsiCtSgYqP/oyRRI1aTrAAls5pJGm+iMw7oNzmjNh/S4+iM6YBv0SyLuXuORzF7Ekda11kO4eqbVwSHy5/YMHUe8ZcZUQ9nt2SkPg1XfOzQOi84b2NXB5XecXtRbKbaYQOblgzgbAf3WIW04gDove6qUO1jJBaibglW2QiKDJf8wiZsEEjksqqDHnXj7OMGe82WXGvEA32m980PsJeqxsIw70bvGAhFg2ih1hCw3QNHWO0ScutYKk8YQbDfCQFJqwedSjhXTZNIIN5DnljnhtAIXCUhhBKoyj1CxaVyCDBeZmEG43Cx+4dvrNH2SFxCpIUGBvTnTLkHUUY6YuA9QgUzY2DFDHQ9UzoMce7sme4sc+86oZ1Pcg1P1ilvkFb6VP4BMk3r6ALErLHGs73qnl40fkJ8wey/NLFqRw==;Xt57VHlnUeJ8rdLdZskpGA=="
+secured: "+zYbUy2UYkvtErMXA4+JB8Sw2kqEE8760P/eNUTlQ1qBYePZbQdClnzBxmMfuvh7l8TMstbizlKA5iLzOsQZuOxynXFzSN0DEgK4m62onZqpCXm9DeoFOZo+/ttq2+4OOizYt8FyeTUgO0Gw42jAch0T2TeCjX++8MK4ymOZt1sXl8Pfj3NpJJGC529UAc3e70qSytnvJjK1MPMC1i1+4UtnfH4nl1UIECMjm6N5EpzWL3DNSdI0eKnwE82bDJ0mkhNNgLhVQr8ln4X1kVAh4tZR78NRQUx9+bAjypb6wrCPZTti93nAto0HD039htSEuC8AUWsnXAAPAM0PrfghpfaTjRUiXwFw6g4vFR0BEcU=;ubdA7niVRWFTWl2h/NtGoA=="
 ---
 

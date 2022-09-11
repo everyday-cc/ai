@@ -47,15 +47,6 @@ related:
         width: 1024
         height: 567
         isCached: true
-  - title: "Bring order to the Fintech chaos"
-    excerpt: "As a result, the Fintech boundaries even blur into other sectors. All this means it becomes very hard to speak about Fintech as a whole. When things get so messy, categorization is a typical human reflex."
-    publishedDateTime: 2022-09-06T20:42:00Z
-    webUrl: "https://www.finextra.com/blogposting/22866/bring-order-to-the-fintech-chaos"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "AvYEsvYMmvCm1TE/NYtVAAfz/NcCpaujIG7FDP10ewLf8vu2DY/M43DnT/FVkYeQc4aWjpJgVpwV5VXBVzBiDOMkiiMBhstQnjQi3tbEXVXhqXdHj9U08n/8/6ean7wNxWGS9IZ0KGh1PcoA9dtdB3UlbhGmiCK5YHNN/443+73RXdE2mClHp/XNPon4I7ox0YlyrFcTvPcu/trtAizj2kOEsu74ZVzmAA62bNSieYbu37hmd9dEF1Pvn+cP1z1sXHCTun/btD9x9rLZewASuueAfancYL2ip6hbv6fie+7SzpAO00sSRbnmR9JnZT97Ma47PRHa75Llx+u1Nwd0Bc1H+PnW6tHRDvnZ86fMNLRq4eR6yP9adtEVh+vSqy6VwTtX4t2XgMRZ8BNvUmalMQSW6UzjjyhhPitumu53ZeGXDMSa4bIx44Oj7RZgZ0Tq2z7eNu4sljNVOceuq0Tb7c/XbiKZnRQ0Su7AX2bISXA+jPnQ1TsUzK/UbVC/Mtim55rGleY3Qvxhd+3c5qr8QA==;pH2Q+hViwOlds2rb1BsJhg=="
 ---

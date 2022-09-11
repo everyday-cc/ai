@@ -48,15 +48,6 @@ related:
       name: Fintech Singapore
       domain: fintechnews.sg
     quality: 19
-  - title: "Bring order to the Fintech chaos"
-    excerpt: "As a result, the Fintech boundaries even blur into other sectors. All this means it becomes very hard to speak about Fintech as a whole. When things get so messy, categorization is a typical human reflex."
-    publishedDateTime: 2022-09-06T20:42:00Z
-    webUrl: "https://www.finextra.com/blogposting/22866/bring-order-to-the-fintech-chaos"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "Smokpa5GF9q2i9MNPSR/zv1eLQvbxGQVnfgQ52i00FhhauJUIDhfK0kBsSYFdH2fqUE5UA/YTnpKXOH+276x0MFz2BCsO/nWyxmu73vD9f23kAEfPHXveyc8o1w5ZE1GwUo3mBKawvHNKV1jiaTgwFxnu4R4ph+9H8uuK5Bo9srezn7fToR5ympp1g0A8bQ2hjAdRM65mWSVSRO1FCV978DeTlyEzaNT/Bm8N3qRFK5z5DnOjD15iIfh1QjxbjPHp70x10Tx+UEZ/KMi/kAm+1WYgbylJtNs2MC/Abz0zo9t8e6UcyYxJqJGLz7jV6BEuvkKrj13ASWa9RMxbZYFySS/sK44xbuU0mvIygSuk8Q=;/9tizuWA2lWZaUz/WHGoRg=="
 ---

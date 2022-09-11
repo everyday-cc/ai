@@ -2,57 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2022-08-31-you-now-can-tell-dall-es-ai-to-dream-up-bigger-gobsmacking-images.md",
-      "title": "You Now Can Tell DALL-E's AI to Dream Up Bigger Gobsmacking Images",
-      "excerpt": "The AI system generates images based on text prompts like \"portrait of a blue alien that is singing opera.\" DALL-E, OpenAI's online service that uses artificial intelligence to generate images from text you type in,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/you-now-can-tell-dall-es-ai-to-dream-up-bigger-gobsmacking-images/",
-      "originalUrl": "https://www.cnet.com/tech/computing/you-now-can-tell-dall-es-ai-to-dream-up-bigger-gobsmacking-images/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/5d2589079842522cf08ef7d560c1575acb18ad16/2022/08/31/98eca97c-b683-438b-8db3-3635b3fc0c63/openai-dall-e-ibis.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/you-now-can-tell-dall-es-ai-to-dream-up-bigger-gobsmacking-images/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/you-now-can-tell-dall-es-ai-to-dream-up-bigger-gobsmacking-images/",
-      "publishedDateTime": "2022-08-31T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-31-ai-startup-aesop-raises-3m-to-tackle-medical-and-billing-errors.md",
       "title": "AI Startup AESOP Raises $3M to Tackle Medical and Billing Errors",
       "excerpt": "AI Startup AESOP Raises $3M to Tackle Medical and Billing Errors Aug 31, 2022 (PRNewswire via COMTEX) -- PR Newswire SAN FRANCISCO, Aug. 31, 2022",
@@ -1143,6 +1092,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-will-transit-agencies-fight-or-yield-to-the-self-driving-revolution.md",
+      "title": "Will Transit Agencies Fight Or Yield To The Self-Driving Revolution?",
+      "excerpt": "Transit agencies resist solutions to transportation goals that are not transit. Should they have say over policy matters for their competition, and if not, how should policy be decided?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2022/08/30/will-transit-agencies-fight-or-yield-to-the-self-driving-revolution/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2022/08/30/will-transit-agencies-fight-or-yield-to-the-self-driving-revolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/630e6b2bb16ae3b08215ba24/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 898,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2022/08/30/will-transit-agencies-fight-or-yield-to-the-self-driving-revolution/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/08/30/will-transit-agencies-fight-or-yield-to-the-self-driving-revolution/amp/",
+      "publishedDateTime": "2022-08-30T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -501,7 +501,7 @@
       "originalUrl": "https://www.deepmind.com/blog/my-journey-from-deepmind-intern-to-mentor",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1009,51 +1009,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-07-machine-learning-market-2022-current-scenario-and-growth-prospects-2028-microsoft-amazon-web-services-bigml-google.md",
-      "title": "Machine Learning Market 2022: Current Scenario And Growth Prospects 2028 | Microsoft, Amazon Web Services, Bigml, Google",
-      "excerpt": "Machine Learning Market SEATTLE, WASHINGTON D.C., UNITED STATES, September 7, 2022 /EINPresswire.com / -- Coherent Market Insights has pu",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104824594/Machine-Learning-Market-2022-Current-Scenario-And-Growth-Prospects-2028-Microsoft-Amazon-Web-Services-Bigml-Google",
-      "originalUrl": "https://menafn.com/1104824594/Machine-Learning-Market-2022-Current-Scenario-And-Growth-Prospects-2028-Microsoft-Amazon-Web-Services-Bigml-Google",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-09/07/EP_d7b6aimage_story.jpeg",
-          "width": 600,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-07T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-07-from-farm-to-fork-thanks-to-ai-and-robots.md",
       "title": "From farm to fork, thanks to … AI and robots?",
       "excerpt": "Smart tech helps farmers optimally use water and fertilizer — especially important during severe drought. It might also reduce the need for workers in the fields.",
@@ -1240,6 +1195,49 @@
       ],
       "topics": [
         "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law.md",
+      "title": "Iran might use facial recognition to identify women who violate hijab law",
+      "excerpt": "Iran might use facial recognition to identify women who violate hijab law. The regime continues a crackdown on women's dressing.",
+      "sourceUrl": null,
+      "webUrl": "https://dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/",
+      "originalUrl": "https://dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dailytimes.com.pk/assets/uploads/2018/06/15/US-restaurant-chain-in-hijab-row-orders-diversity-training.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/amp/",
+      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/amp/",
+      "publishedDateTime": "2022-09-06T17:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Times",
+        "domain": "dailytimes.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

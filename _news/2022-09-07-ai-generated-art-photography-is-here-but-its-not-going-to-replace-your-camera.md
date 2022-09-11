@@ -25,47 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "As AI-generated art takes off - who really owns it?"
-    excerpt: "Art created with AI generators like DALL-E is causing a storm online and raising fears over originality and copyright infringement"
-    publishedDateTime: 2022-09-07T08:00:00Z
-    webUrl: "https://news.trust.org/item/20220907094856-onbmp/"
+  - title: "How AI is helping you edit photos"
+    excerpt: "From Lightroom to Luminar Neo, we surveyed the field and these are the most-powerful AI-enhanced photo editing platforms."
+    publishedDateTime: 2022-09-08T01:00:00Z
+    webUrl: "https://www.popsci.com/technology/ai-photo-editing-apps/"
+    ampWebUrl: "https://www.popsci.com/technology/ai-photo-editing-apps/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-photo-editing-apps/?amp"
     type: article
     provider:
-      name: Thomson Reuters Foundation
-      domain: trust.org
-    quality: 39
+      name: Popular Science
+      domain: popsci.com
+    quality: 57
     images:
-      - url: "https://news.trust.org/contentAsset/image/5ab26aa5-0a82-4ecd-8c3f-bc99afa32ee0/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
-        width: 1100
-        height: 778
-        isCached: true
-  - title: "As AI-generated art takes off – who really owns it?"
-    excerpt: "Advances in AI have fuelled concerns over the ethical and legal implications of co-creating art with machines."
-    publishedDateTime: 2022-09-08T05:30:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/09/08/as-ai-generated-art-takes-off---who-really-owns-it"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/09/08/1728898.jpg"
-        width: 1240
-        height: 826
-        isCached: true
-  - title: "As AI-generated art takes off, who really owns it?"
-    excerpt: "The growing use of artificial intelligence, in art and other sectors, throws up complex issues of ethics, copyrights, and privacy"
-    publishedDateTime: 2022-09-11T02:00:00Z
-    webUrl: "https://www.rappler.com/technology/features/ai-generated-art-who-really-owns-it/"
-    type: article
-    provider:
-      name: Rappler
-      domain: rappler.com
-    quality: 39
-    images:
-      - url: "https://www.rappler.com/tachyon/2022/09/AI-art.jpg"
-        width: 1280
-        height: 900
+      - url: "https://www.popsci.com/uploads/2022/09/07/AI-sky-lead-scaled-1.jpg?auto=webp"
+        width: 2000
+        height: 1500
         isCached: true
 
 secured: "kHQVIncxKxqyLe7YXU0MPG9IErpV0QMvN7LrsDZfoaQHg8RA7cIS2dQAYoQHOR1jHHiFrLyFZGqSgJ9XkMN+ABDFgEz+1gXbT9RsorVy1q/m6YuzlknHWIe8Araw9y+wUCmw+Ygw1OFxwQrB4iIRgctpi1f3OBiXAzzxyAvi8THOzQ6pPlGWD59zfjlMaxRwiAsJarPxSHx4AOqnKf3MwhgjvAg6IhsXrKWFbw5JNmiT251RFudsKf5lznh2Wjy4oTgbKZ/Lp+ZH5pgKqPZuhAfF9M3o2Hy7OquU2GwKgSMSpQPEK04hwu/O02Tgg79FwXM7qB1QQOFipz7SNwJP2QDKWLiCpfdFndHr5x45651knupENh2d1yjCsujWZP+gqxrrPEyMPV8lwW/dvzob+A5ZKrfAdqjYpKxjvHu1bRLSkeGA6GkXc62NRvlIzSKsRBIAEPiKHb4gN1VqkHUdezQRbAQapxfrn2hpea9+4ZoDa868GbuxshiD79sGewhbGcfFxOtE4pJT8K1nElbMFg==;tv3Zun/vfN+YNe8TwSH/Ew=="

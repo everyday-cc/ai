@@ -569,51 +569,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-07-machine-learning-market-2022-current-scenario-and-growth-prospects-2028-microsoft-amazon-web-services-bigml-google.md",
-      "title": "Machine Learning Market 2022: Current Scenario And Growth Prospects 2028 | Microsoft, Amazon Web Services, Bigml, Google",
-      "excerpt": "Machine Learning Market SEATTLE, WASHINGTON D.C., UNITED STATES, September 7, 2022 /EINPresswire.com / -- Coherent Market Insights has pu",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104824594/Machine-Learning-Market-2022-Current-Scenario-And-Growth-Prospects-2028-Microsoft-Amazon-Web-Services-Bigml-Google",
-      "originalUrl": "https://menafn.com/1104824594/Machine-Learning-Market-2022-Current-Scenario-And-Growth-Prospects-2028-Microsoft-Amazon-Web-Services-Bigml-Google",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-09/07/EP_d7b6aimage_story.jpeg",
-          "width": 600,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-07T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-07-springml-renews-its-machine-learning-specialization-in-the-google-cloud-partner-advantage-program.md",
       "title": "SpringML Renews its Machine Learning Specialization in the Google Cloud Partner Advantage Program",
       "excerpt": "Partners achieving this specialization have demonstrated success with data exploration, preprocessing, model training, model evaluation, model deployment, online prediction, and Google pretrained Machine Learning APIs.",
@@ -1465,6 +1420,49 @@
         "Google AI",
         "Facebook AI",
         "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-mgh-mit-dive-deeper-to-better-determine-breast-cancer-risk-through-deep-learning.md",
+      "title": "MGH, MIT dive deeper to better determine breast cancer risk through deep learning",
+      "excerpt": "Researchers at Massachusetts General Hospital (MGH) and the Massachusetts Institute of Technology (MIT) have developed a deep learning computer model that expands on the ability to identify discrete data contained in breast imaging to better predict a woman’s chances of developing breast cancer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bioworld.com/articles/563526-mgh-mit-dive-deeper-to-better-determine-breast-cancer-risk-through-deep-learning",
+      "originalUrl": "https://www.bioworld.com/articles/563526-mgh-mit-dive-deeper-to-better-determine-breast-cancer-risk-through-deep-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bioworld.com/ext/resources/BMT-source/2022/08-31-MGH-breast-cancer.png?height=635&t=1661983683&width=1200",
+          "width": 848,
+          "height": 635,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BioWorld",
+        "domain": "bioworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

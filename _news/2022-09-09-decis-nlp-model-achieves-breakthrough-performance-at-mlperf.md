@@ -34,14 +34,14 @@ related:
         height: 225
         isCached: true
   - title: "MLPerf Results Show Advances in Machine Learning Inference"
-    excerpt: "MLCommons establishes a new record with over 5,300 performance results and 2,400 power measurement results, 1.37X and 1.09X more than the previous round. MLPerf benchmarks are comprehensive system tests that stress machine learning models, software, and ..."
-    publishedDateTime: 2022-09-08T18:56:00Z
-    webUrl: "https://www.01net.it/mlperf-results-show-advances-in-machine-learning-inference/"
+    excerpt: "MLPerf benchmarks are comprehensive system tests that stress machine learning models, software, and hardware, and optionally monitor energy consumption. The open-source and peer-reviewed benchmark suites level the playing ground for competitiveness,"
+    publishedDateTime: 2022-09-08T18:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-mlperf-results-show-advances-machine-learning-inference-/2022/09/08/9670229.htm"
     type: article
     provider:
-      name: 01Net
-      domain: 01net.it
-    quality: 36
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
 
 secured: "ArF89LB2pTJ+qnL86f3PtBaQQFOxHsTjXScI8Kdc5MwOSwxcU3OarxGdGya9K3v8GjSE4NGRsgLBQHaNkjX6rTqHMTbgPxANAdJ52Mov9AJAgOxkW4FFHSqPyjHCRT8xH4QbxLLrVWWgT3F4k418wJtpgDIfxNzKOxZFnDUwH8f+8oO+zLthv0r5ih+BLa5VbEAitGjk46gTrfTpZUVgr1k923CCxoMl+2xw2rF7AFb+inA1ZSoU5e05239NP2q8HySlR/G0mF14ouhGzo3gl5WsFbFLfdwATBD1C8r3jAUrk+yXrTljpXGfv0f0d1yKW1koMPL/N1H0nGIxypbDHObRE9ZkrD4Qkvudas4ke8BtxM8U6vPGPKTwaPG2WK+2QlKKTNjStf5J2FYU/3KyNl++8VBpEVYLetvjTeeN1HgY79gT6+IjpCa9oBbVy6VnGbTj5kGB+KXQCYZF6AA+Kyq2lw/nxn1MIZ9CA3dowaZ/fPeIQgx1fpWW4Lo0uGGRdp779prNxT17SXQJPXBtnw==;P9YY1KrYsIVP2nistP238A=="
 ---
