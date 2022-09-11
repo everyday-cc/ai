@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/lutzfinger/2022/09/08/deepfakesthe-da
 webUrl: "https://www.forbes.com/sites/lutzfinger/2022/09/08/deepfakesthe-danger-of-artificial-intelligence-that-we-will-learn-to-manage-better/"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 In-Demand AI Skills That Will Offer New Career Opportunities"
-    excerpt: "When integrating artificial intelligence technologies into businesses, there are several high-impact skill areas that employees can learn to fill."
-    publishedDateTime: 2022-09-06T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/09/06/3-in-demand-ai-skills-that-will-offer-new-career-opportunities/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "AI takes Dialog to the Cleaners"
     excerpt: "Lynx Technik's new yellobrik Instant Dialog Cleaner (IDC 1411) uses artificial intelligence from Audionamix to help isolate speech and dialogue by removing complex background noise, improving speech quality in real time."
     publishedDateTime: 2022-09-09T13:20:00Z

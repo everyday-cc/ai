@@ -78,22 +78,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "This is likely why US banned AI chips to China"
-    excerpt: "High-profile universities and state-run research institutes in China have been relying on a US computing chip to power their artificial intelligence (AI) technology but whose export to the country Washington has now restricted,"
-    publishedDateTime: 2022-09-06T11:06:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/this-is-likely-why-us-banned-ai-chips-to-china/articleshow/94026320.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/this-is-likely-why-us-banned-ai-chips-to-china/amp_articleshow/94026320.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/this-is-likely-why-us-banned-ai-chips-to-china/amp_articleshow/94026320.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 74
-    images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-94026320,imgsize-171552,width-800/94026320.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "U.S. deals blow to China tech ambitions with Nvidia chip ban"
     excerpt: "Nvidia can no longer sell certain high-end AI chips that are used in large data centers to train AI models for tasks such as autonomous driving, image recognition and voice assistance."
     publishedDateTime: 2022-09-07T14:02:00Z

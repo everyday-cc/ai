@@ -33,15 +33,6 @@ related:
         width: 1080
         height: 1080
         isCached: true
-  - title: "3 In-Demand AI Skills That Will Offer New Career Opportunities"
-    excerpt: "When integrating artificial intelligence technologies into businesses, there are several high-impact skill areas that employees can learn to fill."
-    publishedDateTime: 2022-09-06T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/09/06/3-in-demand-ai-skills-that-will-offer-new-career-opportunities/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "w6HecYx7U+nKy0+IgM6bCvUS0mRcXmobb7BZvkA9vQv2sBSaKjRGLeun18bGFvn8cvNKXjb7LgZzCf8RvX9rb6zrCSaR2uiKak2ZMwSN/VlETPz57lB8cRzUzhlEC2TJyJa8MEuuNRZhRaAslnxyvUK7pZQVPpN1PXLWMte74gjFwqXgvI6IpYdBVDprDLki3cxl2pPOc0J19uISriv0GXsIabXcrws75PfO+AZVPLHWU71gKMTPe2EYs+de4tK8abF9Ghi7KB8SmGTHrrydd/+UPgi2DcQVckyD5GBqJwtoAxhFME1URwKqRtjVtULLMtJNJnNSvGuPX9SNTopCSQtouoMahebhRVfElZB34C/x45Fq4B/KmOhTa/UlWSroBpftyTt6mV68M8QiEYkkAez5D06ByZvdHHJ425RbWS2nXltxmn0FTMhkuSzLRtKm1EK68sQR0S0yMWdCdiN47LXeomTMmd6zNoFLFRv1FvtzItn3msE8pSJx303nqZYZBXdm1JURhra+CWabs0IT3g==;vGDOvBI3civjS+j/BBbH+g=="
 ---

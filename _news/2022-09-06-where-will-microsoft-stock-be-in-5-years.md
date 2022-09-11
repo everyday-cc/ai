@@ -24,17 +24,6 @@ images:
     height: 489
     isCached: true
 
-related:
-  - title: "Self-Driving Firm Aurora Could Be Sold To Microsoft Or Apple"
-    excerpt: "Aurora Innovation, a self-driving technology company co-founded by the former head of Google’s self-driving division, is mulling a sale to Apple or Microsoft. Co-founder Chris Urmson recently acknowledged in an internal memo that the company could be taken private,"
-    publishedDateTime: 2022-09-06T13:01:00Z
-    webUrl: "https://www.carscoops.com/2022/09/self-driving-firm-aurora-could-be-sold-to-microsoft-or-apple/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 21
-
 secured: "j4Z9Xo9Z/0U9wL2DETeLPIZnqaOTft5lcWrVF2G90hNNp4RStiyWAbhhw0evQXQzL5TUn3d/AelLRGIw1nZy/Fudbqawkt9NrKqQdeyMc4H00GJGQuuPZYw0mzKXiItVMn5JfwH2MaCaKDD88IPYqxmcjak/mKDS1aucMM5ad15y5OQXM9YAGtzCed/xpw/Bb3fbz1lFQOyHjBB8nyO+J6cHWsKntf6PPYcYzPfjZUh+b8jAkPzKtS8YaY8+vfBW0zNWDZfzFsD/zCkfwn67StCkPBMlr5Q2+lrsmlYHvAx3V0f17HFAUIyarHFf4D83EFEwy+FtUlEazKkWbgFjAm3FDLpW8aUT+NPh2gN7xhQgA9CM5WHu4raoeQ1UKZmBUCiy/lqg3ADjGnxyf1FCS7eeCxLo1iAiBMpOqMagaHtFvynRkdMiy0b1zbShvkmJsM6kS0HwURRi/D/QO7teomjZYR2p7gGOBY4xOo8QnaRwzLl8kWxY6W8D86w9VnIPZZ1nWVDDq9JNP8R86oeDdg==;1keEe2NDCfzZ8oYjpTnDaw=="
 ---
 

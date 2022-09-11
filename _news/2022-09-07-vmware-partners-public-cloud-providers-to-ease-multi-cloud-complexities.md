@@ -7,7 +7,7 @@ originalUrl: "https://techwireasia.com/2022/09/vmware-partners-public-cloud-prov
 webUrl: "https://techwireasia.com/2022/09/vmware-partners-public-cloud-providers-to-ease-multi-cloud-complexities/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dell technologies delivers industry-first innovations with VMware to power multi-cloud and edge solutions"
-    excerpt: "Business data and applications continue to grow in multi-cloud environments comprised of edge locations, public clouds and on-premises IT. Many organi.."
-    publishedDateTime: 2022-09-06T12:02:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/dell-technologies-delivers-industry-first-innovations-with-vmware-to-power-multi-cloud-and-edge-solutions/94028984"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/dell-technologies-delivers-industry-first-innovations-with-vmware-to-power-multi-cloud-and-edge-solutions/94028984"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/dell-technologies-delivers-industry-first-innovations-with-vmware-to-power-multi-cloud-and-edge-solutions/94028984"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 27
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-94028984,imgsize-396543,width-1200,height-628,overlay-etcio/dell-technologies-delivers-industry-first-innovations-with-vmware-to-power-multi-cloud-and-edge-solutions.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Dell Technologies Partners VMware to Power Multicloud and Edge Solutions"
     excerpt: "Dell Technologies is introducing new infrastructure solutions, co-engineered with VMware, that deliver greater automation and performance for organizations embracing multicloud and edge strategies. “C"
     publishedDateTime: 2022-09-06T15:57:00Z

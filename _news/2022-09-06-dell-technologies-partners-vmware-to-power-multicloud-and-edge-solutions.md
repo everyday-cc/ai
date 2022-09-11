@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dell technologies delivers industry-first innovations with VMware to power multi-cloud and edge solutions"
-    excerpt: "Business data and applications continue to grow in multi-cloud environments comprised of edge locations, public clouds and on-premises IT. Many organi.."
-    publishedDateTime: 2022-09-06T12:02:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/dell-technologies-delivers-industry-first-innovations-with-vmware-to-power-multi-cloud-and-edge-solutions/94028984"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/dell-technologies-delivers-industry-first-innovations-with-vmware-to-power-multi-cloud-and-edge-solutions/94028984"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/dell-technologies-delivers-industry-first-innovations-with-vmware-to-power-multi-cloud-and-edge-solutions/94028984"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 27
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-94028984,imgsize-396543,width-1200,height-628,overlay-etcio/dell-technologies-delivers-industry-first-innovations-with-vmware-to-power-multi-cloud-and-edge-solutions.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "VMware partners public cloud providers to ease multi-cloud complexities"
     excerpt: "The new cloud and edge infrastructure solutions by VMware will help businesses accelerate their enterprise cloud transformation."
     publishedDateTime: 2022-09-06T23:00:00Z
