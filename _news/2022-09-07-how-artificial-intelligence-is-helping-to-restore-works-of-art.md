@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbesindia.com/amp/article/lifes/how-artificial-intelli
 cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/how-artificial-intelligence-is-helping-to-restore-works-of-art/79579/1"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2022/09/08/1728803.jpg"
         width: 750
         height: 636
-        isCached: true
-  - title: "AI-generated art photography is here, but it’s not going to replace your camera"
-    excerpt: "AI-generated art is here for photography, but is it up to the task of replicating real photos? We take a dive into some AI generators."
-    publishedDateTime: 2022-09-07T12:42:00Z
-    webUrl: "https://photofocus.com/software/ai-generated-art-photography-is-here-but-its-not-going-to-replace-your-camera/"
-    type: article
-    provider:
-      name: Photofocus
-      domain: photofocus.com
-    quality: 35
-    images:
-      - url: "https://photofocus.com/wp-content/uploads/2022/08/jemma_pollari_ai_art_featured.jpg"
-        width: 2560
-        height: 1463
         isCached: true
 
 secured: "uPgRPQLQUhuucKm3P+ImuASjvlNK7BruP3oEi0DB/0KOp918cXpRNXxDyTN0nt1SFtoz58sSU/LWnDmL67+OoNpC6T2NXb5S48OKPis1YPHoW4+wO24g9qPoPzIkIvLILWrGwYBsg3EQD0S1A9QwuXFz7G5s4URYfVOWF/qTzl1KqbkwQEzzUZk7UX0fQOI9MSCcRx6UYqbdkWd7R5oFCaHLlPnS0+LG71oC8jisXNU6QQ2wAAEuJYdDS3MLviM9YfqrSPbfS/ORF52AkIDNRmCQti/dfHYvKNozIjEZpv0F93qg8Kbbkxy024O5Ls01NJK2nQvBdzCDbpkOVzOHutnr5MuGAwGilnusrbsWkUc=;rfwCnQUoMVe75uFIkx9SfQ=="

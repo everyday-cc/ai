@@ -2,20 +2,26 @@
 category: news
 title: "Removing the data security barriers and concerns to accelerate speech recognition usage in radiology"
 excerpt: "According to Scribetech, security is a key barrier to adopting speech recognition – despite its potential to accelerate reporting time, drive accuracy, and enable radiologists to deal with a ..."
-publishedDateTime: 2022-08-31T08:50:00Z
-originalUrl: "https://www.kxan.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/"
-webUrl: "https://www.kxan.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/"
+publishedDateTime: 2022-08-31T08:29:00Z
+originalUrl: "https://www.woodtv.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/"
+webUrl: "https://www.woodtv.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/"
 type: article
 
 provider:
-  name: KXAN
-  domain: kxan.com
+  name: WOOD-TV
+  domain: woodtv.com
 
 topics:
   - Natural Language Processing
   - AI
   - AI in Security
 
-secured: "GfUl6dcw/zyYsbyBv4MTdWjceserayCcrzN0CCcicUUSL36Cy9a1ge4E3UgGDetMaeNj0MrzbgygsUzfVvz9H3g3UUMCqNCtqdjdjBUZclr2/Ubej8T4V6P5tRrla6zHlLaHlF4r0x9Foh4Q2lrEX1lDmPbOtyBW+X1RhkFphcs1peCHivlvANPCrK4ZHLMF6YxM4otALldeFCjXbd4TeyAxd4K2c/GVuBr0niZPliz/7keOdOKZp+JoeU/72/5gEjtT8NU3UCtOkAYBuXmacrNN9+dkiquzCV9CVu03zQZzVV6O3Qv5OQmqbrjGWsaQEfkTq6OKIW2NgkKleMTdXoZUQPdLzSNKRcstVraAyQA=;cqSXayiXT1MS5fnN7Y/Afg=="
+images:
+  - url: "https://i0.wp.com/www.woodtv.com/wp-content/uploads/sites/51/2022/09/kingmas.jpg?w=2000&#038;ssl=1"
+    width: 800
+    height: 450
+    isCached: true
+
+secured: "nBwSexwEmr9N8XRzL9QdJ5ht3fvwSDA/9gYlnHcYLtqzAO+uYjbGvRRcbEg4F/p9yIvwStefdugVbbD1y338ZJwCnUVvOS2Wrpxkmp7hWaKgC/bku1kylfeaLz7cUSZIkSCRfYxweJN3RufZ/vHSSWvCJuS9ZJxAGOQZf0jemO5S+/JlSmWzvY7zpg07zPHZZYx+jHvq72MDNqerQRpUPPNGpGvESVMY5RtFg61mEZR+O5xMUWr99b8dH/UkeWq5uO44Cc733J+RJzwylJDIp7NRwqYCVpyBwWSWqVMK9rP+AfWmE7+/0hn2MEjo9HHusCNDWplMn4QV/0LEWuXCZzQ9KtSeSRQVEYbKe4NgPkU=;0EGfv1XE7I3snh0H/teYPg=="
 ---
 

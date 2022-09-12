@@ -182,6 +182,15 @@ related:
       name: Town & Country
       domain: townandcountrymag.com
     quality: 4
+  - title: "Pointed message hidden in King Charles’ speech"
+    excerpt: "In King Charles’ nine-and-a-half minutes-long first speech, there was a specific line laden with special significance."
+    publishedDateTime: 2022-09-12T05:23:00Z
+    webUrl: "https://www.news.com.au/entertainment/celebrity-life/royals/pointed-message-hidden-in-king-charles-speech/news-story/8d774a890ef8d2cd0cc6b350e90d2723"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 4
   - title: "Read King Charles's First Speech as the New Sovereign of the United Kingdom"
     excerpt: "The king honored his late mother, Queen Elizabeth, and praised his wife and sons in his address to the nation."
     publishedDateTime: 2022-09-09T18:19:00Z

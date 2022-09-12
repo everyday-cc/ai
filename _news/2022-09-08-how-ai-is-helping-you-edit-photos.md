@@ -56,20 +56,6 @@ related:
         width: 750
         height: 636
         isCached: true
-  - title: "AI-generated art photography is here, but it’s not going to replace your camera"
-    excerpt: "AI-generated art is here for photography, but is it up to the task of replicating real photos? We take a dive into some AI generators."
-    publishedDateTime: 2022-09-07T12:42:00Z
-    webUrl: "https://photofocus.com/software/ai-generated-art-photography-is-here-but-its-not-going-to-replace-your-camera/"
-    type: article
-    provider:
-      name: Photofocus
-      domain: photofocus.com
-    quality: 35
-    images:
-      - url: "https://photofocus.com/wp-content/uploads/2022/08/jemma_pollari_ai_art_featured.jpg"
-        width: 2560
-        height: 1463
-        isCached: true
 
 secured: "LqEWV5PlDvtPyuCKOKEzPpXjBK3u7WcGVNyd/1zhwSi+l7Q9TLFacUSFJsmLuYpD8+MTdqzY7kHGwJNaXFx1to6NMD8VrN2MsTAfpWzD9DcFtmjcP8OinQMQ+JO+HLZ6qF3+p0ThYlZ+XIuEAJNmkedxWDX5Sj3mK0LKBiCLjEPfKPqRYzaQVCuEiwOPHyXytRnwPPCsLp66KMcqSTuA30WDQ+pgtsBvlHmsnm5NW4JeUxzQyH2pHPzdpkaZJt3c+CGrRJ8Wj1O6dHgLW3+OG5TX19q5rDOohYTWEvHXGJm1o3UV92x6UdXXPF2A2gSk0sT/KsKM6vuna2M6I3+VX40Y5gXINV6d3oJiue9VP8jfLhQ3A3R0o05sfMn4vGL+5jsOdckgLIbXaASBy8EuX/cjHVPQGMs2I8HTyZk/QuWBIhncpji/b3GdwoKOr6767TjgXvW5faWYgVZVXJzD3nm1p7LLOcmX/TF22qP1cPxzd9SMmZV3tcvbOvQ3Yc7obqwJxdQUd0SIs7Uto6FvtQ==;Ag3y7ZsHI0NKa7ONZyM2Vg=="
 ---

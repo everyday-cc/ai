@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Magna and Cartken to Collaborate on Autonomous Delivery Robots"
-    excerpt: "Magna to scale Cartken’s autonomous delivery robots; Production at a Magna facility in Michigan; Additional models and different use-applications expected off same platform; AUR"
-    publishedDateTime: 2022-09-07T12:03:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-robotics-aurora-8f1172c08df422c87714510ca87b7dc0"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 19
-
 secured: "X+roz0XR7WmeoZXQzD4+v3bOuf6xikFuWM7I9s3lSynSeLgshKQVKJRTkGqNd4gycaaaDmq2/37zMCpjiBNkziOy5KKA49sRiBvRIod6L8xMn5HQwipnkaPUto7yhkNv8NWpLkQWNYwBJx9hEiKdBLWyBH2adSd2K1Dvo+m3N351OrUGXJ2kAa4bGyFvpUyeVFWXMvV/KLWIOu2u2n7egV5fKdj0vfBHSk5BnUHi0NKjFdfcAGkVr8Ml9FWSV9iX22AGjQ7DJd4k4XaaAmLViWWYRFu2WStxFljEzapUrkDWvCT6SesM8ftmKT44GFIqEfzCq3Pm2X5v0Aup/7pNtx6acSd287DhrEQzds3q/CanqwpOPuJtu52B/7Um71lot73Ub6tHr536lMT8VUSRbINqie2mFwsYrpAQHy7uSOMi2J17W915TVPsIPwfdwig9uwVYdftGGNIm2vjoHeecOQT/ns7MCu8hn30tBhPi8L8lj5ukycGmijMOcwDCFKQGghzN5vG0K89uFkxr3eT5A==;uK2ZyFEuGspa2oYEx7OWgA=="
 ---
 

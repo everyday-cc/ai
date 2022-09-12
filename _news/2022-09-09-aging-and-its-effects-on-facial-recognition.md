@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 1421
         isCached: true
-  - title: "Flaws of Eyewitness ID Magnified by Facial Recognition Software: Researcher"
-    excerpt: "Facial recognition software was supposed to be a step above eyewitness identification, but both methods have raised legitimate doubts about their reliability, writes Valena Beety, a law professor at Arizona State University."
-    publishedDateTime: 2022-09-07T11:15:00Z
-    webUrl: "https://thecrimereport.org/2022/09/07/can-facial-recognition-be-fixed/"
-    type: article
-    provider:
-      name: thecrimereport.org
-      domain: thecrimereport.org
-    quality: 37
-    images:
-      - url: "https://thecrimereport.org/wp-content/uploads/2020/02/facial-recognition-by-kal-omari.gif"
-        width: 384
-        height: 307
-        isCached: true
 
 secured: "qg6/oSA6UxXkfRCOKoeUJMO5dK9OncuhLDNj+0D4Te9puf6bH+d7x8TcDSH3+P7dTqjy+QoNVS4zLU7taVO2HrZ/woMpUih6BGfIGXqT3vG0386DvHTkFhS3EWUQ5OUa5tXLczN4Jb5HkQcHF1DYBQNCgA1Jy/saZnsKbFUbkLQsy39WGmbR2sDm92mGyl07juL57GTVIH0rWbhUkskIqDwKWkY2aBhJRl+DNmDbHIc0AhVlb8sKrMRffweFIReQdbHHopysv3YfXq8Fy6FKyPtvbPau90XxfYJorEBmEb+dml6Rvabtbiyn7ZNjn8czOqBz8vqqduw4q4eO9MovwdI6y+t5yzmNCQSTsuIFDmuSAfjkf8FtkGx+R9snGl+Leuqnf4xx/gnfqaxzamEKO6Hp46aBreo5ccl56vpoc8CKMMxOpbg+XRZPFdockvROuVALPSHIwRiDg8V/qPNEJXL6pa3BHqYI3jYRMnEcQp22x/bVuQC5fBQi9zxDZSmUEurOo3QhWmLuxkQ+ucg9zQ==;IrYRpVH95oWBL0oMygfqXA=="
 ---
