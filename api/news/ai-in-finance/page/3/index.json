@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-07-21-moneyhub-joins-forces-with-pennyworth-to-democratise-financial-planning.md",
-      "title": "Moneyhub Joins Forces with Pennyworth to Democratise Financial Planning",
-      "excerpt": "Moneyhub, the market-leading Open Data and payments platform, is partnering with Pennyworth, a financial planning and banking app, to redesign digital banking for the aspiring-affluent consumer. Pennyworth,",
-      "sourceUrl": null,
-      "webUrl": "https://financialit.net/news/open-banking/moneyhub-joins-forces-pennyworth-democratise-financial-planning",
-      "originalUrl": "https://financialit.net/news/open-banking/moneyhub-joins-forces-pennyworth-democratise-financial-planning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://financialit.net/sites/default/files/copy_of_financial_it_-_news_template_updated_53.png",
-          "width": 900,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial IT",
-        "domain": "financialit.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-21-oneconnect-financial-technology-announces-the-launch-of-all-in-one-digital-banking-solutions-suite-onecosmo.md",
       "title": "OneConnect Financial Technology Announces the Launch of All-In-One Digital Banking Solutions Suite, OneCosmo",
       "excerpt": "OneCosmo is the result of the joint product offerings of a partnership between OneConnect and Pismo; Next-generation technology implemented in OneCosmo allows financial institutio",
@@ -1297,6 +1254,59 @@
         "AI",
         "Machine Learning",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-06-27-machine-learning-as-a-service-market-report-2022-market-size-by-key-players-types-applications-countries-forecast-by-2030.md",
+      "title": "Machine Learning as a Service Market Report 2022 Market Size by Key Players, Types, Applications, Countries, Forecast by 2030",
+      "excerpt": "financial summary, business strategy and planning, SWOT analysis and current developments. The Machine Learning as a Service Market is segmented on the lines of its component, organization size ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-report-2022-market-size-by-key-players-types-applications-countries-forecast-by-2030-2022-06-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-report-2022-market-size-by-key-players-types-applications-countries-forecast-by-2030-2022-06-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-27T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 119,
   "value": [
     {
+      "path": "_news/2022-06-08-this-ai-brought-11-of-my-worst-seinfeld-nightmares-to-life.md",
+      "title": "This AI Brought 11 of My Worst 'Seinfeld' Nightmares to Life",
+      "excerpt": "The Dall-E Mini is supposed to be a tool for realizing artistic visions. What happens when it gets its hands on a beloved 90's sitcom?",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/seinfeld-dall-e-ai-artworks-nightmares-1849028244",
+      "originalUrl": "https://gizmodo.com/seinfeld-dall-e-ai-artworks-nightmares-1849028244",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/5cb311187f7e809a9685637b0d50f833.png",
+          "width": 800,
+          "height": 447,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/seinfeld-dall-e-ai-artworks-nightmares-1849028244/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/seinfeld-dall-e-ai-artworks-nightmares-1849028244/amp",
+      "publishedDateTime": "2022-06-08T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-08-bud-raises-80m-more-to-expand-its-ai-based-open-banking-platform-used-to-power-lending-tools-and-more.md",
       "title": "Bud raises $80M more to expand its AI-based open banking platform, used to power lending tools and more",
       "excerpt": "Embedded finance — where financial services companies and others bring in different kinds of fintech technology by way of APIs to enhance their own offerings with more data and functionality — remains a growing opportunity,",
@@ -1049,49 +1101,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-why-has-microsoft-stock-been-falling-will-it-rebound.md",
-      "title": "Why Has Microsoft Stock Been Falling; Will It Rebound?",
-      "excerpt": "All up, the number of customers who trust our security solutions grew nearly 50% year-over-year to 785,000… In AI, we continue to see strong usage of Azure Machine Learning. The number of ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4516896-why-has-microsoft-stock-been-falling",
-      "originalUrl": "https://seekingalpha.com/article/4516896-why-has-microsoft-stock-been-falling",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/84216309/image_84216309.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 538,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

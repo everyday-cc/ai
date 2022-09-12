@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-07-07-cognitive-computing-market-size-worth-usd-30523-billion-at-cagr-of-310-by-2030.md",
+      "title": "Cognitive Computing Market Size Worth USD 305.23 Billion at CAGR of 31.0%, By 2030",
+      "excerpt": "The global cognitive computing market is forecast to reach USD 305.23 Billion by 2030, according to a new report by Reports and Data. The cognitive computing technology derives the answers and works like the human brains.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-computing-market-size-worth-usd-30523-billion-at-cagr-of-310-by-2030-2022-07-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-computing-market-size-worth-usd-30523-billion-at-cagr-of-310-by-2030-2022-07-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-creating-an-ai-implementation-strategy.md",
       "title": "Creating an AI Implementation Strategy",
       "excerpt": "Digital transformation efforts are rapidly accelerating in the public sector. Spurred in part by the pandemic — and now, as state and local governments pivot to meet rising constituent expectations — the technology landscape is changing quickly.",
@@ -1260,58 +1312,6 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-cognitive-media-market-size-future-scope-opportunities-with-strategic-growth-and-top-players-forecast-2022-2031.md",
-      "title": "Cognitive Media Market Size Future Scope, Opportunities with Strategic Growth and Top Players Forecast 2022-2031",
-      "excerpt": "Competitive Landscape The Cognitive Media Market is highly competitive ... Google LLC, Amazon Web Services, Microsoft Corporation, among others. The dynamic nature of business environment in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-media-market-size-future-scope-opportunities-with-strategic-growth-and-top-players-forecast-2022-2031-2022-06-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-media-market-size-future-scope-opportunities-with-strategic-growth-and-top-players-forecast-2022-2031-2022-06-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T05:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

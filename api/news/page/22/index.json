@@ -2,6 +2,57 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2022-08-22-survive-layoffs-succeed-with-upskilling-through-ai.md",
+      "title": "Survive layoffs, succeed with upskilling through AI",
+      "excerpt": "Despite the looming recession, orgs must invest in upskilling existing employees — lest they lose talent. AI can help.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/survive-layoffs-succeed-with-upskilling-through-ai/",
+      "originalUrl": "https://venturebeat.com/ai/survive-layoffs-succeed-with-upskilling-through-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/NLP.GettyImages-1199031078.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/survive-layoffs-succeed-with-upskilling-through-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/survive-layoffs-succeed-with-upskilling-through-ai/amp/",
+      "publishedDateTime": "2022-08-21T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-22-tesla-raising-price-of-full-self-driving-feature-to-15000-next-month.md",
       "title": "Tesla raising price of ‘Full Self-Driving’ feature to $15,000 next month",
       "excerpt": "Elon Musk on Sunday announced the price of Tesla Inc.'s \"Full Self-Driving\" feature will rise by 25% next month, to from $12,000 to $15,000.",
@@ -1158,40 +1209,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-20-bitooda-partners-with-coreweave-to-deliver-high-performance-compute-solutions-for-financial-markets.md",
-      "title": "BitOoda Partners with CoreWeave to Deliver High Performance Compute Solutions for Financial Markets",
-      "excerpt": "BitOoda, a pioneering Digital Asset investment Bank, announced a partnership with CoreWeave, the leading specialized cloud provider of high-performance compute solutions. The partnership will accelerate the penetration of CoreWeave's services for compute-heavy workloads in financial applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/08/19/9659533.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/08/19/9659533.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T15:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

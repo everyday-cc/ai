@@ -2,6 +2,49 @@
   "page": 135,
   "value": [
     {
+      "path": "_news/2022-05-27-the-man-who-invented-the-self-driving-car-in-1986.md",
+      "title": "The man who invented the self-driving car (in 1986)",
+      "excerpt": "The history of artificial intelligence is a history of buzzy springs followed ... among them U.S. tech giants like Alphabet’s Waymo, have been catching up. Experts describe the current race for leadership in autonomous driving technology as neck-and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/amp/",
+      "originalUrl": "https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/amp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2018/07/ericPetersen_selfDrivingCars_RGB-e1532325107404.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/amp/",
+      "publishedDateTime": "2022-05-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-27-tigergraph-launches-workbench-for-graph-neural-network-mlai-modeling.md",
       "title": "TigerGraph launches Workbench for graph neural network ML/AI modeling",
       "excerpt": "TigerGraph's ML Workbench should enable data scientists to build deep-learning AI models using connected data directly from the business.",
@@ -1048,49 +1091,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-is-california-still-investigating-teslas-self-driving-claims.md",
-      "title": "Is California Still Investigating Tesla’s Self-Driving Claims?",
-      "excerpt": "(TNS) — It's been a year since the California Department of Motor Vehicles opened an investigation into Tesla's sales pitch for its Full Self-Driving feature, the $12,000 software package that supposedly enables a Tesla car to drive itself through city ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims",
-      "originalUrl": "https://www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/dac6b4f/2147483647/strip/true/crop/1169x610+0+85/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9b%2F10%2F047551f6e89d9c93c1029ed26dce%2Fshutterstock-369110243.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims?_amp=true",
-      "publishedDateTime": "2022-05-26T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

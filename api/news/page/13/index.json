@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-08-28-dive-into-robotics-with-84-off-this-six-axis-mini-robot-arm.md",
+      "title": "Dive into robotics with $84 off this six-axis mini robot arm",
+      "excerpt": "So as interest in the merger between automation and AI grows, you might want to consider introducing your children to robotics as a hobby. This smart robot arm by WLKATA could be a great first step, and it’s currently on sale for $1,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/wlkata-mirobot-deal-sale-145553119.html",
+      "originalUrl": "https://www.engadget.com/wlkata-mirobot-deal-sale-145553119.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-08/9a435b10-23bd-11ed-9dfe-6e340fa17b0f",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-28T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-28-sticker-makes-police-aware-of-those-with-cognitive-disabilities.md",
       "title": "Sticker makes police AWARE of those with cognitive disabilities",
       "excerpt": "Families may help police and protect their loved ones with cognitive disabilities just by placing a sticker on their front door. The AWARE stickers alert police, firefighters, and medics that ...",
@@ -1079,49 +1131,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-who-will-establish-metaverse-ethics.md",
-      "title": "Who will establish metaverse ethics?",
-      "excerpt": "The metaverse is not a new concept. The term was coined by science fiction novelist Neal Stephenson in his 1992 book Snow Crash, which depicts a hyper-capitalist dystopia in which humanity has collectively opted into life in virtual environments.",
-      "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202208/27/WS6309699da310fd2b29e74891.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202208/27/WS6309699da310fd2b29e74891.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img2.chinadaily.com.cn/images/202208/27/6309699da310fd2bec9e80fb.jpeg",
-          "width": 428,
-          "height": 285,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-26T20:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

@@ -2,6 +2,40 @@
   "page": 121,
   "value": [
     {
+      "path": "_news/2022-06-07-silicon-overdrive-achieves-100-aws-certifications.md",
+      "title": "Silicon Overdrive achieves 100 AWS certifications",
+      "excerpt": "Over the past 25 years, Silicon Overdrive has gained various achievements including AWS Public Sector Partner of the Year – Sub-Saharan Africa 2021 and AWS Consulting Partner of the Year – Sub ...",
+      "sourceUrl": null,
+      "webUrl": "https://mybroadband.co.za/news/industrynews/447422-silicon-overdrive-achieves-100-aws-certifications.html",
+      "originalUrl": "https://mybroadband.co.za/news/industrynews/447422-silicon-overdrive-achieves-100-aws-certifications.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mybroadband.co.za/news/industrynews/447422-silicon-overdrive-achieves-100-aws-certifications.html/amp",
+      "cdnAmpWebUrl": "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/447422-silicon-overdrive-achieves-100-aws-certifications.html/amp",
+      "publishedDateTime": "2022-06-07T01:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyBroadband",
+        "domain": "mybroadband.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-07-ampd-signs-deal-with-variational-ai-to-increase-its-machine-learning-platform-at-dc1.md",
       "title": "AMPD Signs Deal with Variational AI to Increase Its Machine Learning Platform at DC1",
       "excerpt": "VANCOUVER, BC / ACCESSWIRE / June 6, 2022 / AMPD Ventures Inc. (CSE:AMPD) (OTCQB:AMPDF) (FRA:2Q0) ('AMPD' or the 'Company'), a next-generation digital infrastructure provider, is pleased to announce that it has signed a deal with Variational AI Inc.",
@@ -1072,57 +1106,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-self-captaining-ships-start-their-mutiny.md",
-      "title": "Self-Captaining Ships Start Their Mutiny",
-      "excerpt": "The unmanned \"Mayflower\" made landfall in Canada and Hyundai's autonomous tanker vessel completed its first cross-ocean voyage.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/ai-autonomous-ship-mayflower-hyundai-1849022316",
-      "originalUrl": "https://gizmodo.com/ai-autonomous-ship-mayflower-hyundai-1849022316",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/658e3f0fca820bdf112e22bd811e16dc.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/ai-autonomous-ship-mayflower-hyundai-1849022316/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ai-autonomous-ship-mayflower-hyundai-1849022316/amp",
-      "publishedDateTime": "2022-06-06T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

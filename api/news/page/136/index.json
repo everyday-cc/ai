@@ -2,6 +2,49 @@
   "page": 136,
   "value": [
     {
+      "path": "_news/2022-05-26-is-california-still-investigating-teslas-self-driving-claims.md",
+      "title": "Is California Still Investigating Tesla’s Self-Driving Claims?",
+      "excerpt": "(TNS) — It's been a year since the California Department of Motor Vehicles opened an investigation into Tesla's sales pitch for its Full Self-Driving feature, the $12,000 software package that supposedly enables a Tesla car to drive itself through city ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims",
+      "originalUrl": "https://www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/dac6b4f/2147483647/strip/true/crop/1169x610+0+85/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9b%2F10%2F047551f6e89d9c93c1029ed26dce%2Fshutterstock-369110243.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims?_amp=true",
+      "publishedDateTime": "2022-05-26T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-26-will-ai-text-to-image-generators-put-illustrators-out-of-a-job.md",
       "title": "Will AI text-to-image generators put illustrators out of a job?",
       "excerpt": "Imagen, from Google, is the latest example of an AI seemingly able to produce high-quality images from a text prompt – but they aren't quite ready to replace human illustrators",
@@ -1025,49 +1068,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-yes-ai-can-be-tricked-and-its-a-serious-problem.md",
-      "title": "Yes, AI Can Be Tricked, And it's a Serious Problem",
-      "excerpt": "By examining the areas of the brain that are damaged in cases of visual agnosia, researchers are able to determine what structures play a role in object recognition. While artificial intelligence hasn't reached the levels of sophistication of the human ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/yes-ai-can-be-tricked-and-its-serious-problem",
-      "originalUrl": "https://www.designnews.com/electronics-test/yes-ai-can-be-tricked-and-its-serious-problem",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/styles/article_featured_standard/public/Design%20News/MIT%20piggie.png?itok=oGHiuE3t",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

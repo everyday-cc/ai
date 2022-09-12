@@ -2,6 +2,51 @@
   "page": 118,
   "value": [
     {
+      "path": "_news/2022-06-09-why-healthcare-organizations-select-amazon-web-services-over-google-microsoft.md",
+      "title": "Why healthcare organizations select Amazon Web Services over Google, Microsoft",
+      "excerpt": "Healthcare organizations chose Amazon Web Services over rival cloud computing companies Google and Microsoft for artificial intelligence and machine learning because it was the most mature platform, had good name and brand recognition and came with high reliability,",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/disruptors/why-healthcare-organizations-select-amazon-web-services-over-google-microsoft.html",
+      "originalUrl": "https://www.beckershospitalreview.com/disruptors/why-healthcare-organizations-select-amazon-web-services-over-google-microsoft.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png",
+          "width": 460,
+          "height": 460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-08T15:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Healthcare",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-baidus-first-robocar-looks-like-the-future-we-pictured-20-years-ago.md",
       "title": "Baidu’s first robocar looks like the future we pictured 20 years ago",
       "excerpt": "Chinese tech giant Baidu has unveiled a concept robocar called the ROBO-01. With it, the company's EV car subsidiary JIDU, and Chinese automaker Geely hope to lead the charge into a world of fully ...",
@@ -1076,58 +1121,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-this-ai-brought-11-of-my-worst-seinfeld-nightmares-to-life.md",
-      "title": "This AI Brought 11 of My Worst 'Seinfeld' Nightmares to Life",
-      "excerpt": "The Dall-E Mini is supposed to be a tool for realizing artistic visions. What happens when it gets its hands on a beloved 90's sitcom?",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/seinfeld-dall-e-ai-artworks-nightmares-1849028244",
-      "originalUrl": "https://gizmodo.com/seinfeld-dall-e-ai-artworks-nightmares-1849028244",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/5cb311187f7e809a9685637b0d50f833.png",
-          "width": 800,
-          "height": 447,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/seinfeld-dall-e-ai-artworks-nightmares-1849028244/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/seinfeld-dall-e-ai-artworks-nightmares-1849028244/amp",
-      "publishedDateTime": "2022-06-08T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

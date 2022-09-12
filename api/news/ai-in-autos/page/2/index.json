@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-30-industrys-first-autonomous-spreader-debuts-at-farm-progress-show.md",
+      "title": "Industry’s first autonomous spreader debuts at Farm Progress Show",
+      "excerpt": "Case IH and Raven Industries introduce the agriculture industry’s first autonomous spreader: the Case IH Trident ™ 5550 applicator with Raven Autonomy ™. Unveiled at Farm Progress Show 2022, this innovative solution delivers on customers’ demands for autonomous equipment to help solve labor challenges and increase productivity on their operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/industry-s-first-autonomous-spreader-debuts-at-farm-progress-show/article_bd0c3b06-7889-504f-b01b-c4540ac61a68.html",
+      "originalUrl": "https://www.eagletribune.com/region/industry-s-first-autonomous-spreader-debuts-at-farm-progress-show/article_bd0c3b06-7889-504f-b01b-c4540ac61a68.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/f7/6f732a6f-663d-5699-9263-ff52f4203a6d/630e214bf2e79.image.jpg?crop=606%2C318%2C522%2C0&resize=606%2C318&order=crop%2Cresize",
+          "width": 606,
+          "height": 318,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-industrys-first-autonomous-spreader-debutsat-farm-progress-show.md",
       "title": "Industry’s first autonomous spreader debutsat Farm Progress Show",
       "excerpt": "Case IH and Raven Industries introduce the agriculture industry’s first autonomous spreader: the Case IH Trident™",
@@ -1347,49 +1390,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-lyft-and-motional-unveil-driverless-robotaxi-in-vegas.md",
-      "title": "Lyft And Motional Unveil Driverless Robotaxi In Vegas",
-      "excerpt": "Lyft and Motional have partnered to launch Motional's new all-electric IONIQ 5-based robotaxi, an autonomous vehicle designed for fully driverless ride-hail operation, on the Lyft network in Las ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104749877/Lyft-And-Motional-Unveil-Driverless-Robotaxi-In-Vegas",
-      "originalUrl": "https://menafn.com/1104749877/Lyft-And-Motional-Unveil-Driverless-Robotaxi-In-Vegas",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-08/24/R&AN_e39d7image_story.jpeg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-24T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MENAFN",
-        "domain": "menafn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

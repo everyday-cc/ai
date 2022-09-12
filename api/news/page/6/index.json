@@ -689,6 +689,59 @@
       ]
     },
     {
+      "path": "_news/2022-09-01-cloud-artificial-intelligence-ai-developer-service-market-2022-disclosing-latest-trends-and-advancement-outlook-2028-aible-h2oai-microsoft.md",
+      "title": "Cloud Artificial Intelligence (AI) developer Service Market 2022 Disclosing Latest Trends and Advancement Outlook 2028 – Aible, H2O.ai, Microsoft",
+      "excerpt": "Top Companies in the global Cloud Artificial Intelligence (AI) developer Service market are AWS, Aible, H2O.ai, Microsoft, Google, Salesforce, IBM, Oracle, Tencent, Prevision.io, SAP, Clarifai, Alibaba Cloud,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-artificial-intelligence-ai-developer-service-market-2022-disclosing-latest-trends-and-advancement-outlook-2028-aible-h2oai-microsoft-2022-09-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/cloud-artificial-intelligence-ai-developer-service-market-2022-disclosing-latest-trends-and-advancement-outlook-2028-aible-h2oai-microsoft-2022-09-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-01T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-how-ai-can-help-document-legacy-cobol-code-before-its-too-late.md",
       "title": "How AI can help document legacy COBOL code, before it’s too late",
       "excerpt": "COBOL is 60 years old, and when the existing pool of its developers retires, some worry the knowledge of how COBOL applications have been built and structured will be lost. AI tools could be a solution.",
@@ -1111,49 +1164,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-uplift-aerospace-announces-research-collaboration-with-terasem-movement-foundation.md",
-      "title": "Uplift Aerospace Announces Research Collaboration with Terasem Movement Foundation",
-      "excerpt": "The Terasem Movement Foundation Inc. is a 501 (c) (3) not-for-profit private operating foundation which was founded in 2004 and is based in Vermont, USA. Terasem’s mission is to offer educational programs about the value and practical benefits of geo-ethically applied cyber,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/accesswire/technology-af168b47399731754c428fd1000a79c5",
-      "originalUrl": "https://apnews.com/press-release/accesswire/technology-af168b47399731754c428fd1000a79c5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-01T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

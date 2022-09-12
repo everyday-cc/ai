@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-06-10-thinning-of-the-eyes-retinal-layer-a-marker-of-cognitive-decline.md",
+      "title": "Thinning of the Eye's Retinal Layer a Marker of Cognitive Decline?",
+      "excerpt": "Thinning of the eye's macular retinal nerve fiber layer (RNFL) is linked to cognitive decline in older adults, new research suggests. Results from a study of more than 400 adults showed an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medscape.com/viewarticle/975411",
+      "originalUrl": "https://www.medscape.com/viewarticle/975411",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.medscape.com/thumbnail_library/dt_181102_human_eye_800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medscape",
+        "domain": "medscape.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-10-artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story.md",
       "title": "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story",
       "excerpt": "The Global Artificial Intelligence in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and vulnerabilities for the Artificial Intelligence in Insurance Industry to make stakeholders aware with current and future scenarios.",
@@ -1251,58 +1294,6 @@
         "AI",
         "Microsoft AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-cognitive-media-market-size-share-and-analysis-to-expand-at-204-cagr-through-2028.md",
-      "title": "Cognitive Media Market Size, Share and Analysis to Expand At 20.4% CAGR Through 2028",
-      "excerpt": "Jun 03, 2022 (Market Insight Reports) -- The Cognitive Media market share report ... is a hub for market intelligence products and services. We streamline the purchase of your market research ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-media-market-size-share-and-analysis-to-expand-at-204-cagr-through-2028-2022-06-03?mod=search_headline",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-media-market-size-share-and-analysis-to-expand-at-204-cagr-through-2028-2022-06-03?mod=search_headline",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-03T03:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],
