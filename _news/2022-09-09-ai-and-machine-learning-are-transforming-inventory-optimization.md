@@ -55,22 +55,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Measuring the business impact of AI"
-    excerpt: "Taking stock of AI ROI is challenging but essential. IT leaders and industry observers lend insights on how to get a clear idea of whether your AI efforts are paying off."
-    publishedDateTime: 2022-09-07T10:00:00Z
-    webUrl: "https://www.cio.com/article/405620/measuring-the-business-impact-of-ai.html"
-    ampWebUrl: "https://www.cio.com/article/405620/measuring-the-business-impact-of-ai.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/405620/measuring-the-business-impact-of-ai.html/amp/"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 59
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/09/artificial-intelligence-698122_1280-100698891-orig.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 724
-        isCached: true
   - title: "Artificial intelligence and creative marketing—how brands and agencies should experiment"
     excerpt: "Cheng, was at the helm of the Cosmo project, using OpenAI’s Dall·E 2 as a different kind of creative tool. Because without good creative guidance, the output isn’t that great—as in Dall·E 2 interpreting an “Ad Age magazine cover:” To get a more creative result requires a lot of interplay and dancing together with concepts and variations,"
     publishedDateTime: 2022-09-08T09:30:00Z

@@ -2,6 +2,49 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2022-07-02-global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-12.md",
+      "title": "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ) Shares Up 1.2%",
+      "excerpt": "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ – Get Rating) shot up 1.2% during trading on Friday . The company traded as high as $20.57 and last traded at $20.57.",
+      "sourceUrl": null,
+      "webUrl": "https://www.etfdailynews.com/2022/07/02/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-1-2/",
+      "originalUrl": "https://www.etfdailynews.com/2022/07/02/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-1-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.etfdailynews.com/2022/07/02/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-1-2/amp/",
+      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/07/02/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-1-2/amp/",
+      "publishedDateTime": "2022-07-01T23:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ETF Daily News",
+        "domain": "etfdailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-02-the-gpu-shortage-is-over.md",
       "title": "The GPU shortage is over",
       "excerpt": "We’ve liveblogged and livetweeted that hell of trying to buy a GPU online, fighting against an army of bots to navigate the buggy websites of retailers who didn’t have enough reason to care.",
@@ -1081,58 +1124,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-the-quest-to-understand-every-voice-globally.md",
-      "title": "The quest to understand every voice globally",
-      "excerpt": "In a quest to enable a computer to understand every voice in the world. DeepMind: Why is AI so good at language? It's something in language itself AI experts are in short supply. That's making the skills crisis worse I tried Google's AI job interview practice tool,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-quest-to-understand-every-voice-globally/",
-      "originalUrl": "https://www.zdnet.com/article/the-quest-to-understand-every-voice-globally/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/fab81b6cb70cacb1df2180b9f57ea7a70a53322f/2021/07/05/b03a0bb3-bf3c-409b-8f48-3a11832bd40f/text-to-speech-ai.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-quest-to-understand-every-voice-globally/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-quest-to-understand-every-voice-globally/",
-      "publishedDateTime": "2022-07-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

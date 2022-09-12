@@ -32,20 +32,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automated Data Science and Machine Learning Platforms Market Inclinations and Development Status Highlighted During Forecast Period 2022 to 2027"
-    excerpt: "Report Ocean recently added a research report on the Automated Data Science and Machine Learning Platforms market. The report includes an extensive analysis of the market's characteristics, COVID-19 impact,"
-    publishedDateTime: 2022-09-07T10:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automated-data-science-and-machine-learning-platforms-market-inclinations-and-development-status-highlighted-during-forecast-period-2022-to-2027-2022-09-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Vision Market Share and Growth Research 2022 by Current Insights, Developments, Top Manufacturers, Industry Size and Forecast to 2027"
     excerpt: "Sep 08, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Machine Vision Market” report"
     publishedDateTime: 2022-09-08T11:20:00Z

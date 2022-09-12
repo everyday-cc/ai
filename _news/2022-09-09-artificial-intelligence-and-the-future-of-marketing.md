@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intel
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intelligence-and-the-future-of-marketing/amp/"
 type: article
 quality: 108
-heat: 168
+heat: 158
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/05NdJNZwhf0rpoPHYGrtAgS-1.fit_lim.size_1200x630.v1662561158.jpg"
         width: 1120
         height: 630
-        isCached: true
-  - title: "Measuring the business impact of AI"
-    excerpt: "Taking stock of AI ROI is challenging but essential. IT leaders and industry observers lend insights on how to get a clear idea of whether your AI efforts are paying off."
-    publishedDateTime: 2022-09-07T10:00:00Z
-    webUrl: "https://www.cio.com/article/405620/measuring-the-business-impact-of-ai.html"
-    ampWebUrl: "https://www.cio.com/article/405620/measuring-the-business-impact-of-ai.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/405620/measuring-the-business-impact-of-ai.html/amp/"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 59
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/09/artificial-intelligence-698122_1280-100698891-orig.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 724
         isCached: true
   - title: "AI and machine learning are transforming inventory optimization"
     excerpt: "Lakshmanan is the CEO of antuit.ai, a cloud-based software company, now part of Zebra Technologies, which provides what we used to call multi-echelon inventory optimization right down to the shelf level for retailers."

@@ -2,6 +2,61 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-08-29-tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.md",
+      "title": "TensorFlow, PyTorch, and JAX: Choosing a deep learning framework",
+      "excerpt": "Three widely used frameworks are leading the way in deep learning research and production today. One is celebrated for ease of use, one for features and maturity, and one for immense scalability. Which one should you use?",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3670114/tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.html",
+      "originalUrl": "https://www.infoworld.com/article/3670114/tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/12/artificial-intelligence-concept-picture-id1160995648-100855293-large-100912931-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3670114/tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3670114/tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.amp.html",
+      "publishedDateTime": "2022-08-29T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI",
+        "Facebook AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2022-08-29-elon-musk-aims-to-have-self-driving-teslas-ready-by-year-end-in-the-us.md",
       "title": "Elon Musk: aims to have self-driving Teslas ready by year-end in the U.S.",
       "excerpt": "Tesla founder Elon Musk said on Monday he aimed to get self-driving Teslas ready by year-end and hopes they could be in wide release in the United States and possibly in Europe, depending on regulatory approval.",
@@ -1088,57 +1143,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-28-the-worst-ai-advice-youll-ever-hear.md",
-      "title": "The Worst AI Advice You’ll Ever Hear",
-      "excerpt": "There’s a difference between Iterating to Success and Breaking Things The problem with these failures is that since AI is still nascent, despite over seven decades of development, organizations are tempted to give up altogether without ever reaching the success point.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/28/the-worst-ai-advice-youll-ever-hear/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/28/the-worst-ai-advice-youll-ever-hear/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/630b88712f0caddf0068ecce/0x0.jpg?format=jpg&crop=1892,1064,x0,y725,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/28/the-worst-ai-advice-youll-ever-hear/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/08/28/the-worst-ai-advice-youll-ever-hear/amp/",
-      "publishedDateTime": "2022-08-28T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

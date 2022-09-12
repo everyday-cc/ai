@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automated Data Science and Machine Learning Platforms Market Inclinations and Development Status Highlighted During Forecast Period 2022 to 2027"
-    excerpt: "Report Ocean recently added a research report on the Automated Data Science and Machine Learning Platforms market. The report includes an extensive analysis of the market's characteristics, COVID-19 impact,"
-    publishedDateTime: 2022-09-07T10:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automated-data-science-and-machine-learning-platforms-market-inclinations-and-development-status-highlighted-during-forecast-period-2022-to-2027-2022-09-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Call Center AI Market 2022 Key Players, SWOT Analysis, Key Indicators and Forecast to 2032"
     excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
     publishedDateTime: 2022-09-09T03:43:00Z

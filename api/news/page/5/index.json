@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-09-03-metas-ai-chatbot-hates-mark-zuckerberg-but-does-it-care-about-racism.md",
+      "title": "Meta's AI chatbot hates Mark Zuckerberg - but does it care about racism?",
+      "excerpt": "AI chatbots learn the patterns of our prejudices, biases, preoccupations and anxieties from the linguistic data we supply them with, before paraphrasing them back at us.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/magazines/panache/metas-ai-chatbot-hates-mark-zuckerberg-but-does-it-care-about-racism/articleshow/93968867.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/magazines/panache/metas-ai-chatbot-hates-mark-zuckerberg-but-does-it-care-about-racism/articleshow/93968867.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-17778,msid-93968907/meta.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/magazines/panache/metas-ai-chatbot-hates-mark-zuckerberg-but-does-it-care-about-racism/amp_articleshow/93968867.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/metas-ai-chatbot-hates-mark-zuckerberg-but-does-it-care-about-racism/amp_articleshow/93968867.cms",
+      "publishedDateTime": "2022-09-03T03:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-03-why-do-we-keep-repeating-the-same-mistakes-on-ai.md",
       "title": "Why Do We Keep Repeating The Same Mistakes On AI?",
       "excerpt": "Artificial intelligence has been on the horizon for over seventy years. Why does it seem so close but also so unattainable? Are we repeating the same mistakes over and over?",
@@ -1147,58 +1190,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-can-ai-help-solve-educations-big-data-problems.md",
-      "title": "Can AI help solve education's big data problems?",
-      "excerpt": "This Intel executive thinks AI applications will be essential to extracting future insights from the onslaught of data modern education creates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/education/computers-tech/intel-using-ai-to-solve-education-big-data-problems/",
-      "originalUrl": "https://www.zdnet.com/education/computers-tech/intel-using-ai-to-solve-education-big-data-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/7550c114ff55f32d60dc60534ecc1bf85ef71db1/2019/03/25/a6d4ddc6-f89a-4338-a513-9e211cde545e/computerscienceistock-962475952.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/education/computers-tech/intel-using-ai-to-solve-education-big-data-problems/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/education/computers-tech/intel-using-ai-to-solve-education-big-data-problems/",
-      "publishedDateTime": "2022-09-01T15:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
       ]
     }
   ],

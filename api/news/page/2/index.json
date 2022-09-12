@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-08-crawley-womans-facial-recognition-software-on-phone-fails-after-losing-7-stone.md",
+      "title": "Crawley woman’s facial recognition software on phone fails after losing 7 stone",
+      "excerpt": "A mother-of-one from Crawley who lost a staggering seven stone in just six months, was left locked out of her phone after it failed to recognise her face.",
+      "sourceUrl": null,
+      "webUrl": "https://sussexexpress.co.uk/news/people/crawley-womans-facial-recognition-software-on-phone-fails-after-losing-7-stone-3836546",
+      "originalUrl": "https://sussexexpress.co.uk/news/people/crawley-womans-facial-recognition-software-on-phone-fails-after-losing-7-stone-3836546",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sussexexpress.co.uk/webimg/b25lY21zOmZlYmNiZjQxLWVmMTAtNDg2ZC05ZGMwLWUzNGNlZjMwZTgwZDplMzA4ODdlYi03ZTk4LTQyYTYtYTY1NS00NzJlOWFiZDQxMDQ=.jpg?width=1200&enable=upscale",
+          "width": 1200,
+          "height": 1421,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-08T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sussex Express",
+        "domain": "sussexexpress.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-08-7-ai-startups-that-stood-out-in-ycs-summer-22-batch.md",
       "title": "7 AI startups that stood out in YC’s Summer ’22 batch",
       "excerpt": "A number of startups in Y Combinator's 2022 Summer Batch leverage AI in innovative ways. Here's a few that caught our eye.",
@@ -1195,49 +1238,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-07-iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law.md",
-      "title": "Iran might use facial recognition to identify women who violate hijab law",
-      "excerpt": "Iran might use facial recognition to identify women who violate hijab law. The regime continues a crackdown on women's dressing.",
-      "sourceUrl": null,
-      "webUrl": "https://dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/",
-      "originalUrl": "https://dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailytimes.com.pk/assets/uploads/2018/06/15/US-restaurant-chain-in-hijab-row-orders-diversity-training.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/amp/",
-      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/993751/iran-might-use-facial-recognition-to-identify-women-who-violate-hijab-law/amp/",
-      "publishedDateTime": "2022-09-06T17:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Times",
-        "domain": "dailytimes.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

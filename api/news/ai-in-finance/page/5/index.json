@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-06-13-half-of-finance-ai-projects-to-be-cancelled-by-2024.md",
+      "title": "Half of finance AI projects to be cancelled by 2024",
+      "excerpt": "CFOs face major barriers to scaling up the use of AI in-house and will increasingly turn to business process outsourcing (BPO) solutions to meet their digital transformation objectives",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/business/half-of-finance-ai-projects-to-be-cancelled-by-2024-748246",
+      "originalUrl": "https://www.thehansindia.com/business/half-of-finance-ai-projects-to-be-cancelled-by-2024-748246",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bizzbuzz.news/h-upload/2022/06/12/500x300_1544750-ai.jpg",
+          "width": 500,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/business/half-of-finance-ai-projects-to-be-cancelled-by-2024-748246",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/half-of-finance-ai-projects-to-be-cancelled-by-2024-748246",
+      "publishedDateTime": "2022-06-12T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-06-11-report-over-1b-google-play-downloads-for-financial-apps-targeted-by-malware.md",
+      "title": "Report: Over 1B Google Play downloads for financial apps targeted by malware",
+      "excerpt": "The banking sector is experiencing increasingly sophisticated attacks by trojans that put financial institutions and their customers at risk.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/10/report-over-1b-google-play-downloads-for-financial-apps-targeted-by-malware/",
+      "originalUrl": "https://venturebeat.com/2022/06/10/report-over-1b-google-play-downloads-for-financial-apps-targeted-by-malware/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1336604983.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 621,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/10/report-over-1b-google-play-downloads-for-financial-apps-targeted-by-malware/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/10/report-over-1b-google-play-downloads-for-financial-apps-targeted-by-malware/amp/",
+      "publishedDateTime": "2022-06-10T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-10-fintech-startup-hostbook-raises-3-mn-in-series-a-funding-led-by-razorpay.md",
       "title": "Fintech startup HostBook raises $3 mn in series A funding led by Razorpay",
       "excerpt": "Hostbooks intends to utilise the Series-A funding to further scale its operations and enhance its existing product suite",
@@ -1284,102 +1379,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-informaticas-data-management-cloud-gets-new-data-engineering-mlops-tools.md",
-      "title": "Informatica’s Data Management Cloud gets new data engineering, MLOps tools",
-      "excerpt": "Using the service, customers can operationalize any machine learning models from within their pipeline with one click, the company said, adding that the MLOps tool offers end-to-end visibility and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3661674/informatica-s-data-management-cloud-gets-new-data-engineering-mlops-tools.html",
-      "originalUrl": "https://www.infoworld.com/article/3661674/informatica-s-data-management-cloud-gets-new-data-engineering-mlops-tools.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/02/23/19/data-gravity-01-100920087-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3661674/informatica-s-data-management-cloud-gets-new-data-engineering-mlops-tools.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3661674/informatica-s-data-management-cloud-gets-new-data-engineering-mlops-tools.amp.html",
-      "publishedDateTime": "2022-05-24T22:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-new-fintech-startup-economyxai-uses-machine-learning-to-pull-insights-from-us-economic-news.md",
-      "title": "New Fintech Startup economyx.AI Uses Machine Learning to Pull Insights From US Economic News",
-      "excerpt": "The US economy is $25 trillion of activity, by 330 million people, over 3.8 million square miles. Wanna to see how it's all doing? AUSTIN, Texas , May 24, 2022 /PRNewswire/ -- Google has been spectacu",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/05/n27386876/new-fintech-startup-economyx-ai-uses-machine-learning-to-pull-insights-from-us-economic-news",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/n27386876/new-fintech-startup-economyx-ai-uses-machine-learning-to-pull-insights-from-us-economic-news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.giphy.com/media/XBY7Yq06tXMCvqmUQF/giphy.gif?cid=790b7611cd3bb6ee13833409883d5c3006a5f21f51a83ce9&rid=giphy.gif&ct=g",
-          "width": 480,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27386876",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27386876",
-      "publishedDateTime": "2022-05-24T20:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
