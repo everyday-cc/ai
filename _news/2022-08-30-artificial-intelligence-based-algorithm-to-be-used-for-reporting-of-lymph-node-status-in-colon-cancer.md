@@ -15,12 +15,6 @@ topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://www.labiotech.eu/wp-content/uploads/2022/06/shutterstock-artificial-intelligence-.jpg"
-    width: 1024
-    height: 683
-    isCached: true
-
-secured: "MVGVXj6ItWDKgEM9FhxT0KU7tEKYmqKBNNAdY+ORS5oKS1yuvvJKXB8y8x8tPdaQcYwqjK4Ckc50n46XGkQCQN9i4ou8Z071lSwX4FRB453CsTXRFhmRLvjWO+CZeV38/LkRCMMpe+x0SU19hIbQUCZZuytx/zxeyNq4KV19T9LqFWCKgHXKrv642JmrUxbtHdPjWP+ToVk6LrlJBy2liZYzuj2ax0IgacQyZg8jzzBuwqyWKazc82Io8uzTX/98avfM+cHXH3XMrso9SUaL9l0edow6UMLudgB4IOdL3fWm52MsXPQoMkI2ftcc7mL+Yk9QngW1c/yfkwNvrxKtyNMeK3DXFo/tKUDW51ot1+8=;IRMfs3tjhI22PtLTEoGz/g=="
+secured: "n8eJ31bLyn2qKW28C7Ubh8d+DJPTe5ajHH+6QD48ZOG0+M8tMbEzL+gp7Tl7Z7/mq6dL434WXw1/Mu0sMxWoV5uN2hzc0lMVNy7Conruy8azNxSL5EJ7pyT10Ab87rIr38tX7SoT2jeRVm06XiS0dCoiqoHzQ06Srgs+fRhz8/HMhgK7bhSad/nvlXsxBTIhIsGEksKriluL5hY883nfkPqOFM8wstlrvqHabjHmr5JV4dvti5/vM8h2uc9BnpiUrV6ethNwSfyNltPEdG7m0ZiH5WiiKi1zPb4nj3CGIYcw0fFELD3HlfuULm6317EYR7s09D6AZnhwCTaXl5BdoxagF1oekZcVsMLuLPR9bI4=;1SX0tybQ3fo5rSAy9XIsLA=="
 ---
 

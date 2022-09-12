@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - IBM AI
 
 images:
   - url: "https://image.cnbcfm.com/api/v1/image/106972691-1636466150088-gettyimages-1280324270-1006_32_fl200924107.jpeg?v=1661775251"
