@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/video/deloitte-ethics-in-artificial-intellig
 webUrl: "https://www.eweek.com/video/deloitte-ethics-in-artificial-intelligence/"
 type: article
 quality: 84
-heat: 85
+heat: 84
 published: true
 
 provider:

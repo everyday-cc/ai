@@ -2,6 +2,102 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2022-07-18-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook.md",
+      "title": "UK Publishes Proposal For Artificial Intelligence (AI) Rulebook",
+      "excerpt": "The UK government has issued a proposal to provide guidance to fast-growing artificial intelligence (AI) technology. The proposal will impact financial",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook/",
+      "originalUrl": "https://www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/AI-Face-Digital-ID-Artificial-Intelligence.jpg",
+          "width": 1080,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook/amp/",
+      "publishedDateTime": "2022-07-18T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-18-building-a-business-case-for-zero-trust-multicloud-security.md",
+      "title": "Building a business case for zero-trust, multicloud security",
+      "excerpt": "Building a business case for securing multicloud configurations needs to surpass the costs and benefits, while recognizing that public clouds lack advanced zero-trust features and unified reporting.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/18/building-a-business-case-for-zero-trust-multicloud-security/",
+      "originalUrl": "https://venturebeat.com/2022/07/18/building-a-business-case-for-zero-trust-multicloud-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/zero-trust.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/18/building-a-business-case-for-zero-trust-multicloud-security/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/18/building-a-business-case-for-zero-trust-multicloud-security/amp/",
+      "publishedDateTime": "2022-07-18T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-microsoft-launches-simulator-to-train-drone-ai-systems.md",
       "title": "Microsoft launches simulator to train drone AI systems",
       "excerpt": "Microsoft has launched a platform to train the artificial intelligence (AI) systems of autonomous aircraft. Project AirSim is, in effect, a flight simulator for drones, which companies can use to train and develop software controlling them.",
@@ -1044,83 +1140,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-forget-apple-here-are-2-lesser-known-artificial-intelligence-stocks-to-watch.md",
-      "title": "Forget Apple: Here Are 2 Lesser-Known Artificial Intelligence Stocks to Watch",
-      "excerpt": "All are tech pioneers and Artificial Intelligence (AI) is widely used by all – from the iPhone’s FaceID and Google’s search algorithms on to Amazon’s cloud computing solutions which are used by millions across the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/forget-apple%3A-here-are-2-lesser-known-artificial-intelligence-stocks-to-watch",
-      "originalUrl": "https://www.nasdaq.com/articles/forget-apple%3A-here-are-2-lesser-known-artificial-intelligence-stocks-to-watch",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/forget-apple%3A-here-are-2-lesser-known-artificial-intelligence-stocks-to-watch?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/forget-apple%3A-here-are-2-lesser-known-artificial-intelligence-stocks-to-watch?amp",
-      "publishedDateTime": "2022-07-17T17:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-as-ai-language-skills-grow-so-do-scientists-concerns.md",
-      "title": "As AI language skills grow, so do scientists' concerns",
-      "excerpt": "Big Tech company Meta, the parent of Facebook and Instagram ... set their own internal AI safeguards, Liang said what's needed are broader community standards to guide research and decisions ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.stuff.co.nz/technology/digital-living/300639733/as-ai-language-skills-grow-so-do-scientists-concerns",
-      "originalUrl": "https://www.stuff.co.nz/technology/digital-living/300639733/as-ai-language-skills-grow-so-do-scientists-concerns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resources.stuff.co.nz/content/dam/images/4/y/w/h/3/q/image.related.StuffLandscapeSixteenByNine.1420x800.4yzr3p.png/1658101675506.jpg",
-          "width": 1420,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-17T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stuff.co.nz",
-        "domain": "stuff.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

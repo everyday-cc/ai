@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/09/why-iot-is
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/09/why-iot-is-the-next-frontier-for-ai-and-prescriptive-analytics/amp/"
 type: article
 quality: 87
-heat: 99
+heat: 97
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intel
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intelligence-and-the-future-of-marketing/amp/"
 type: article
 quality: 108
-heat: 158
+heat: 168
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://www.cio.com/wp-content/uploads/2022/09/artificial-intelligence-698122_1280-100698891-orig.jpg?quality=50&strip=all&w=1024"
         width: 1024
         height: 724
+        isCached: true
+  - title: "AI and machine learning are transforming inventory optimization"
+    excerpt: "Lakshmanan is the CEO of antuit.ai, a cloud-based software company, now part of Zebra Technologies, which provides what we used to call multi-echelon inventory optimization right down to the shelf level for retailers."
+    publishedDateTime: 2022-09-09T00:00:00Z
+    webUrl: "https://www.logisticsmgmt.com/article/ai_and_machine_learning_are_transforming_inventory_optimization"
+    type: article
+    provider:
+      name: logisticsmgmt.com
+      domain: logisticsmgmt.com
+    quality: 54
+    images:
+      - url: "https://www.mmh.com/images/Antuit_Siva.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Artificial intelligence and creative marketing—how brands and agencies should experiment"
     excerpt: "Cheng, was at the helm of the Cosmo project, using OpenAI’s Dall·E 2 as a different kind of creative tool. Because without good creative guidance, the output isn’t that great—as in Dall·E 2 interpreting an “Ad Age magazine cover:” To get a more creative result requires a lot of interplay and dancing together with concepts and variations,"

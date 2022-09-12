@@ -1,17 +1,17 @@
 ---
 category: news
 title: "Use of facial recognition as security tool on Parliament Hill would pose risks: study"
-excerpt: "OTTAWA — The use of facial recognition technology as a security tool on Parliament Hill would pose substantial legal, privacy and human rights risks — and might even be unlawful, says a study ..."
-publishedDateTime: 2022-08-29T17:57:00Z
-originalUrl: "https://ottawacitizen.com/pmn/news-pmn/canada-news-pmn/use-of-facial-recognition-as-security-tool-on-parliament-hill-would-pose-risks-study/wcm/4e7701a4-0e4b-4093-a3d8-772693b67fe9"
-webUrl: "https://ottawacitizen.com/pmn/news-pmn/canada-news-pmn/use-of-facial-recognition-as-security-tool-on-parliament-hill-would-pose-risks-study/wcm/4e7701a4-0e4b-4093-a3d8-772693b67fe9"
-ampWebUrl: "https://ottawacitizen.com/pmn/news-pmn/canada-news-pmn/use-of-facial-recognition-as-security-tool-on-parliament-hill-would-pose-risks-study/wcm/4e7701a4-0e4b-4093-a3d8-772693b67fe9/amp/"
-cdnAmpWebUrl: "https://ottawacitizen-com.cdn.ampproject.org/c/s/ottawacitizen.com/pmn/news-pmn/canada-news-pmn/use-of-facial-recognition-as-security-tool-on-parliament-hill-would-pose-risks-study/wcm/4e7701a4-0e4b-4093-a3d8-772693b67fe9/amp/"
+excerpt: "The use of facial recognition technology as a security tool on Parliament Hill would pose substantial legal, privacy and human rights risks -- and might even be unlawful, says a study prepared for ..."
+publishedDateTime: 2022-08-29T20:14:00Z
+originalUrl: "https://www.ctvnews.ca/politics/use-of-facial-recognition-as-security-tool-on-parliament-hill-would-pose-risks-study-1.6047069"
+webUrl: "https://www.ctvnews.ca/politics/use-of-facial-recognition-as-security-tool-on-parliament-hill-would-pose-risks-study-1.6047069"
+ampWebUrl: "https://beta.ctvnews.ca/national/politics/2022/8/29/1_6047069.amp.html"
+cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/politics/2022/8/29/1_6047069.amp.html"
 type: article
 
 provider:
-  name: Ottawa Citizen
-  domain: ottawacitizen.com
+  name: CTV News
+  domain: ctvnews.ca
 
 topics:
   - Computer Vision
@@ -19,11 +19,11 @@ topics:
   - AI in Security
 
 images:
-  - url: "https://smartcdn.gprod.postmedia.digital/ottawacitizen/wp-content/uploads/2020/03/875518498.jpg"
-    width: 1000
-    height: 750
+  - url: "https://beta.ctvnews.ca/national/politics/2022/8/29/1_6047069/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+    width: 1020
+    height: 574
     isCached: true
 
-secured: "o7Phu9qlIngFkuZKCXfWF0RE1ToeIJaHnj9amyVAy+xq8aFDvhmDKjSaZLWi7N6jNN1i49bSApk/9+sUsARSWP44aA/oBkdPwkXvmBgWnmbxxX0q5gE3+ygt/GfWMcFGIWCPLZQzQbUsBNIf1bVFht4coZ8cdrVfCqntK7TeIxlBCXux0qihZY9MCpQCAa7M+auEc4OHK2C4N4iDvDQ2++vJds0+JYUhKkgu0Tsrppew9k3xWty3ezsnY+uTRrLxTV0R0+qTXh9QCt0eeHlv2phZJE3Gkleqh/TkzI9FR7UmXDRcaMm3lIpb36cUoj/fCKoOyXDeiudTH+7IIpr+joYf6gA3OZ7ClkNXaxTN/P4=;ZCWPot3VyHo4qyIpvRAjLg=="
+secured: "Hr6h9lcllYmGCHm9D9huxwJIWQCBZlOcrtPK6x82Ed7pz7YdjBdSfGZmBpoMsDsH23HeAfCF2GtUnISHbkwAo1OldfF8DsXQZDzKwgUnGc2UjGE4L8wIVMQEX0VLQ59cLMbqbwFmmTaccJD9Kx4XSVD3zIEdBMmnc+2AYbPxQsVZ8FvF5tGIj6NuuJoshUnnB4p8Xj/KTJxvtg1tidW6dvG1yJkf2P2EXi/1eSP26QrmI3eUaIKK11u43Qfb8UauwFclWnCk3H0TtP69vb98jYL+E3lUFG9F9CsoqtrsiZ3W0BvEjIuk3+3Ow07cjKr53nS5Viy2vKnKD14SedyA05q2pb4J8A5y+3oGMMdBinc=;hMY5CKUxjEaAht+KKOtk3Q=="
 ---
 

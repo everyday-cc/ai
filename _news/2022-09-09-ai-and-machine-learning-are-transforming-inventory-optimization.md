@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Artificial intelligence and creative marketing—how brands and agencies should experiment"
-excerpt: "Cheng, was at the helm of the Cosmo project, using OpenAI’s Dall·E 2 as a different kind of creative tool. Because without good creative guidance, the output isn’t that great—as in Dall·E 2 interpreting an “Ad Age magazine cover:” To get a more creative result requires a lot of interplay and dancing together with concepts and variations,"
-publishedDateTime: 2022-09-08T09:30:00Z
-originalUrl: "https://adage.com/article/opinion/artificial-intelligence-and-creative-marketing-how-brands-and-agencies-should-experiment/2428376"
-webUrl: "https://adage.com/article/opinion/artificial-intelligence-and-creative-marketing-how-brands-and-agencies-should-experiment/2428376"
+title: "AI and machine learning are transforming inventory optimization"
+excerpt: "Lakshmanan is the CEO of antuit.ai, a cloud-based software company, now part of Zebra Technologies, which provides what we used to call multi-echelon inventory optimization right down to the shelf level for retailers."
+publishedDateTime: 2022-09-09T00:00:00Z
+originalUrl: "https://www.logisticsmgmt.com/article/ai_and_machine_learning_are_transforming_inventory_optimization"
+webUrl: "https://www.logisticsmgmt.com/article/ai_and_machine_learning_are_transforming_inventory_optimization"
 type: article
-quality: 47
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Ad Age
-  domain: adage.com
+  name: logisticsmgmt.com
+  domain: logisticsmgmt.com
 
 topics:
-  - AI in Autos
+  - Machine Learning
   - AI
-  - AI in Marketing
 
 images:
-  - url: "https://s3-prod.adage.com/s3fs-public/styles/1200x630/public/20220907_AI-Ad-Age-cover_3x2.jpg"
-    width: 1200
-    height: 630
+  - url: "https://www.mmh.com/images/Antuit_Siva.jpg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
@@ -72,19 +71,19 @@ related:
         width: 1024
         height: 724
         isCached: true
-  - title: "AI and machine learning are transforming inventory optimization"
-    excerpt: "Lakshmanan is the CEO of antuit.ai, a cloud-based software company, now part of Zebra Technologies, which provides what we used to call multi-echelon inventory optimization right down to the shelf level for retailers."
-    publishedDateTime: 2022-09-09T00:00:00Z
-    webUrl: "https://www.logisticsmgmt.com/article/ai_and_machine_learning_are_transforming_inventory_optimization"
+  - title: "Artificial intelligence and creative marketing—how brands and agencies should experiment"
+    excerpt: "Cheng, was at the helm of the Cosmo project, using OpenAI’s Dall·E 2 as a different kind of creative tool. Because without good creative guidance, the output isn’t that great—as in Dall·E 2 interpreting an “Ad Age magazine cover:” To get a more creative result requires a lot of interplay and dancing together with concepts and variations,"
+    publishedDateTime: 2022-09-08T09:30:00Z
+    webUrl: "https://adage.com/article/opinion/artificial-intelligence-and-creative-marketing-how-brands-and-agencies-should-experiment/2428376"
     type: article
     provider:
-      name: logisticsmgmt.com
-      domain: logisticsmgmt.com
-    quality: 54
+      name: Ad Age
+      domain: adage.com
+    quality: 47
     images:
-      - url: "https://www.mmh.com/images/Antuit_Siva.jpg"
-        width: 400
-        height: 400
+      - url: "https://s3-prod.adage.com/s3fs-public/styles/1200x630/public/20220907_AI-Ad-Age-cover_3x2.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Don’t lift a finger: AI-driven voice commands are the future of the smart home"
     excerpt: "Powered by AI and machine learning, voice control of devices makes an entire home ready to answer a user’s every beck and call."
@@ -110,6 +109,6 @@ related:
         height: 315
         isCached: true
 
-secured: "27VjFtL87w4n8U4bgTpkloZZ8JSeecE6yXX6cekGRlUOar8m8UQ6IkuKtl1hJfOnUkS+HzQ/wM6L97Vpv7QGrxz/YwqjaDg0Aa12nibRxMoD8Sj8xL/IWPlalRL228joNqqgTLPit3aqY5v31tr3zpBLteqL7A8Ybbhyf6AOm1U7NfMQk8tPaUTgS9jQjK5xSvnPquQM30UmHqN27yDrtjtk9gNM5I2MRHnqxrgyzClJAV2GnhT7veyHSFgLPZ+Olvcg3Ceyc+myU5WAZS8CpVGGykKn/yzA5JlXqMI1JviE6ZcVR9V4Ln2kMQqoaFEV3EDO90RlL7UVMQa3EIPX8rVQlKa3DF//MN0zxkk4pXenJHBSbbmrP2OSgeDhDF2SJVuEp8Rj5lGro5cj2JysdFwO8YqEpUVMhz0Wb2Gh1yJODDf+rT0vlgldCra2J3QoKzTc3yRkc136iUCVoJqmLPOxY5lIeT9MOt0lGQOmVL9zzGSrIStDpx9+B6nOwRQtYFUjdUC4nIFjJByZiEJFtw==;ln9qIsULGxM+7Okp0Fq+Nw=="
+secured: "3ui7BzXHXt3Hb1EbTN+w1+Q/M4ltxu1V0SqW0cvbrhyuY2xR6ukxMFCodYm7sWX9fXY5XMz5wXi7cT2ctLjjo5ghsi1NYfsdHpCrdzVBtMBIqJ3KWLQHWUz7fJVbHigozcaJm35LLEaBdkdcKBsbqLE4cp0C2O0mvn2CYaBWtwDj9O9evfXehc90hyYyd9rJT/JlG1GyCMjnNYJXiG5ucyg2cD8rquDUYuvsNiX7VfwdRXtfAGTpS3IKPHO/UFtqOt14RAcbmuwVu5wU8M0dbiHi5Vi7IypL5P7+QPFa9Yot2Iq3+aotQgFIivadMjehvQFT3C4uj0zMguC+0o5bwXLHP078RGxtLOhpdzaCvno=;Av8ejpEt3lEwZ463hg9RHQ=="
 ---
 
