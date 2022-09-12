@@ -170,7 +170,7 @@
       "originalUrl": "https://venturebeat.com/ai/nvidia-ai-chip-export-ban-expected-to-impact-u-s-china-ai-race/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -1223,44 +1223,26 @@
     },
     {
       "path": "_news/2022-08-31-amax-launches-gpu-servers-powered-by-intels-newest-data-center-gpu-flex-series-for-ai-gaming-media-streaming.md",
-      "title": "AMAX Launches GPU Servers Powered by Intel's Newest Data Center GPU Flex Series for AI, Gaming, & Media Streaming",
-      "excerpt": "AMAX provides the flexibility to choose the right fit for specific workloads through offering the new Data Center GPU Flex Series in two variants. The 150W variant includes 32 Xe cores in a three-quarter length full-height PCIe Gen4 card and is ideal for more complex AI models,",
+      "title": "AMAX Launches GPU Servers Powered by Intel’s Newest Data Center GPU Flex Series for AI, Gaming, & Media Streaming",
+      "excerpt": "Intel’s Data Center GPU Flex Series is powered by Intel’s Xe-HPG architecture, which is designed for AI inference, Android and Windows cloud gaming, video transcoding, and virtual desktop ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/amax-launches-gpu-servers-powered-by-intels-newest-data-center-gpu-flex-series-for-ai-gaming-media-streaming-2022-08-31",
-      "originalUrl": "https://www.marketwatch.com/press-release/amax-launches-gpu-servers-powered-by-intels-newest-data-center-gpu-flex-series-for-ai-gaming-media-streaming-2022-08-31",
+      "webUrl": "https://www.digitaljournal.com/pr/amax-launches-gpu-servers-powered-by-intels-newest-data-center-gpu-flex-series-for-ai-gaming-media-streaming",
+      "originalUrl": "https://www.digitaljournal.com/pr/amax-launches-gpu-servers-powered-by-intels-newest-data-center-gpu-flex-series-for-ai-gaming-media-streaming",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-31T07:00:00-07:00",
+      "publishedDateTime": "2022-08-31T07:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

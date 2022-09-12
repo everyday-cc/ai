@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-09-12-pytorch-joins-the-linux-foundation.md",
-      "title": "PyTorch joins the Linux Foundation",
-      "excerpt": "Under the linux Foundation, PyTorch gains several benefits including helpful programs, research, and global and local events.",
+      "path": "_news/2022-09-13-meta-spins-off-pytorch-foundation-to-make-ai-framework-vendor-neutral.md",
+      "title": "Meta spins off PyTorch Foundation to make AI framework vendor neutral",
+      "excerpt": "The move comes as the adoption of the PyTorch framework has become widely used across the deep learning industry to power many natural language and computer vision projects, including Tesla Autopilot.",
       "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/software-development/pytorch-joins-the-linux-foundation/",
-      "originalUrl": "https://sdtimes.com/software-development/pytorch-joins-the-linux-foundation/",
+      "webUrl": "https://arstechnica.com/information-technology/2022/09/meta-spins-off-pytorch-foundation-to-make-ai-framework-vendor-neutral/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/09/meta-spins-off-pytorch-foundation-to-make-ai-framework-vendor-neutral/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 154,
       "tags": null,
       "images": [
         {
-          "url": "https://sdtimes.com/images/sd-premium.png",
-          "width": 628,
-          "height": 246,
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/pythorch_hero_1-760x380.jpg",
+          "width": 760,
+          "height": 380,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,14 +26,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T08:41:00-07:00",
+      "publishedDateTime": "2022-09-12T14:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,7 +49,6 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
         "AI",
         "Facebook AI"
       ]

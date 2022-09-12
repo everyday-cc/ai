@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-12T18:17:00Z
 originalUrl: "https://www.datanami.com/2022/09/12/how-providence-overcame-security-obstacles-to-unlock-medical-data-in-the-cloud/"
 webUrl: "https://www.datanami.com/2022/09/12/how-providence-overcame-security-obstacles-to-unlock-medical-data-in-the-cloud/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: datanami.com

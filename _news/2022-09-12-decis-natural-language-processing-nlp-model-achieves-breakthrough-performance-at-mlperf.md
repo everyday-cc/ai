@@ -6,7 +6,7 @@ publishedDateTime: 2022-09-12T13:00:00Z
 originalUrl: "https://insidebigdata.com/2022/09/12/decis-natural-language-processing-nlp-model-achieves-breakthrough-performance-at-mlperf/"
 webUrl: "https://insidebigdata.com/2022/09/12/decis-natural-language-processing-nlp-model-achieves-breakthrough-performance-at-mlperf/"
 type: article
-quality: 24
+quality: 41
 heat: -1
 published: false
 

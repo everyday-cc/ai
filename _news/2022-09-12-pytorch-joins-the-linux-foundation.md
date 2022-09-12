@@ -7,8 +7,8 @@ originalUrl: "https://sdtimes.com/software-development/pytorch-joins-the-linux-f
 webUrl: "https://sdtimes.com/software-development/pytorch-joins-the-linux-foundation/"
 type: article
 quality: 71
-heat: 131
-published: true
+heat: -1
+published: false
 
 provider:
   name: SD Times
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Meta spins off PyTorch Foundation to make AI framework vendor neutral"
+    excerpt: "The move comes as the adoption of the PyTorch framework has become widely used across the deep learning industry to power many natural language and computer vision projects, including Tesla Autopilot."
+    publishedDateTime: 2022-09-12T21:33:00Z
+    webUrl: "https://arstechnica.com/information-technology/2022/09/meta-spins-off-pytorch-foundation-to-make-ai-framework-vendor-neutral/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 84
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/pythorch_hero_1-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Meta’s deep learning framework PyTorch to be led by the newly formed PyTorch Foundation"
     excerpt: "PyTorch artificial intelligence platform it created to the Linux Foundation ’s newly formed PyTorch Foundation. PyTorch is a deep learning framework that’s used to power hundreds of AI projects, specifically machine learning applications."
     publishedDateTime: 2022-09-12T14:23:00Z

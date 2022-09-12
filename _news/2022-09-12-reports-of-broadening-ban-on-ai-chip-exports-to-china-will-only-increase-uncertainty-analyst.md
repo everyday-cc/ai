@@ -81,6 +81,15 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Biden reportedly plans to block AI chipmaking exports to China"
+    excerpt: "Semiconductors and AI are increasingly valuable for medical devices as smaller sensors and algorithms collect and crunch more data than ever."
+    publishedDateTime: 2022-09-12T18:08:00Z
+    webUrl: "https://www.medicaldesignandoutsourcing.com/biden-reportedly-plans-to-block-ai-chipmaking-exports-to-china/"
+    type: article
+    provider:
+      name: Medical Design and Outsourcing
+      domain: medicaldesignandoutsourcing.com
+    quality: 34
   - title: "Analysis-U.S. Ban On Nvidia, AMD Chips Seen boosting Chinese Rivals"
     excerpt: "The U.S. ban on exports to China of Nvidia and AMD's flagship artificial intelligence chips will create new business opportunities for domestic startups jockeying for a piece of China's fast-growing data center chip market,"
     publishedDateTime: 2022-09-08T17:27:00Z

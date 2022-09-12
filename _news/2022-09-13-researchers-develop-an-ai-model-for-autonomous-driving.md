@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-12T18:58:00Z
 originalUrl: "https://techxplore.com/news/2022-09-ai-autonomous.html"
 webUrl: "https://techxplore.com/news/2022-09-ai-autonomous.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: techxplore

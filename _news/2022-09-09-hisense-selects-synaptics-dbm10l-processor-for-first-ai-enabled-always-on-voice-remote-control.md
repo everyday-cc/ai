@@ -2,9 +2,9 @@
 category: news
 title: "Hisense Selects Synaptics' DBM10L Processor For First AI-Enabled Always-On Voice Remote Control"
 excerpt: "Synaptics ® Incorporated (Nasdaq: SYNA) today announced that Hisense, a global leader in consumer electronics and home appliances, selected the DBM10L with its dedicated neural processing unit (NPU) to implement the first artificial intelligence (AI)-enabled always-on voice (AOV) remote control unit (RCU),"
-publishedDateTime: 2022-09-09T15:38:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/09/09/9670608.htm"
-webUrl: "https://it.tmcnet.com/news/2022/09/09/9670608.htm"
+publishedDateTime: 2022-09-09T15:22:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-hisense-selects-synaptics-dbm10l-processor-first-ai-enabled-/2022/09/09/9670608.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-hisense-selects-synaptics-dbm10l-processor-first-ai-enabled-/2022/09/09/9670608.htm"
 type: article
 quality: 7
 heat: 7
@@ -29,6 +29,6 @@ related:
       domain: design-reuse.com
     quality: 7
 
-secured: "u1irHpP8207xF5k4Oo1qKjrgp5voB1n2qKsGYvhb+McmnuXuTDrMjREKLhxNA6TbZuxZ9Bgc70hVE2u7Y+sv6tlAC7MNgUHzMKc6Z0ew2wEmRsU0fpk4SmK8aZYpqrI/qHPo0LnpIj+Wdt610pdmDDoVjPhSpIJzRjToaz+bPvJEt2gq7pnFqj9PRo64K3BNmCrow0HOO0pJC89PoB2yldZXNhlkijg3Uan6v6dWAVAb1lsSayN67EC/xFm82g0uq3FwbjEptWU/2dR14qLEgRHDdJXjDd6stUOQf+hvMlVtm6vWLv+goFFqizoDEdpyXGEL0PRy7jZ4WPF5uNUUZD/4wKZ2OiXuzj/62nzoAsY=;ggw7I8oYlZKo0tg4tfqYUg=="
+secured: "O9yn8RuXzpbq+I5x85/Fq+OxwoC14q1ocpf9zQ4e/gash99Qnw+e4n9fKHsDRVa2Hxpmpp8V4gpi5aZ/dzMp6maTFoYvtB4fVHFi/vVoM9r4XBz1YyUDuiMc7ULJRX2lLQIzPU+gR4NTdRos+y7P88T7UK69YlgDpZn1Z3SkzBAp0Q6MliFf4ASFdG/tzNTgN3nWELPUaOWB9SDa6fS+7mNbvW0UP2CS/C0iZcRgB4eOMxmpGEhObA+DEUFkhCpaFGLptZEbjQlKSK34fF6Ci1ATbpM5wZH3WZdypgYteRy8FSDadNOd8zCVcqHyJY5d0TAFgPwR/6w4LmjHLRGh+WDjNqVgvKIeakfTcmwD8Hw=;grBu3rnFii8fBvzu/PO3Gg=="
 ---
 

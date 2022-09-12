@@ -28,6 +28,15 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 21
+  - title: "Fintech Ecosystem Development Corp. (NASDAQ:FEXD) Announces Two Fintech Acquisitions"
+    excerpt: "(“Rana”) a Georgia corporation, Mobitech International LLC (“Afinoz”) a limited liability company organized in the United Arab Emirates, and Fintech Ecosystem Development Corp. (“FEXD”) a special purpose acquisition company,"
+    publishedDateTime: 2022-09-12T12:02:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-middle-east-united-arab-emirates-09102f546910153ff3d4f044e9670c8a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
 secured: "AnkKfXsIMnS6KjbZWbzM4RpcIdtPhSu9k48ogbSZi+SVFrVmPDODsiAwFdqBtTgPTHBvMVyLQxKjH6VHauaUcjVRwYHa5Kxb47mWz2gCYCkRwkdSlcxtR8b/aLRigyJFtsheCyEut6/+UXGNA3ECjizKIbiRKHXEGIQ1/i5548ph13zu318dMhbmNJXI9xkQAqlse662mj+P2cpvdcwcdIj6wv6hxpQCodQ/MlQl62Zrf16uyICAlyRDHprP/C3sOXaZCrEclwLb9dvnhFCqQ/fnhTsT0fy1XehCmn9AmnfEh7ljITGuQ/5/0p9JwcLiAXjeK7aIxIKNCxTCCy+iZ+lDAmOzDdpUsA3xAPO0TegwpsU2vflewD42peFlT7LUGp2x6Fj/h3A56NGtN1Ax08bUYpYlX7/+dJMBoMOWRseqmWnWc0nikvIscE9dtssitvUSH09HrPKA4m7IoD7/3vcI3JjhuktFjcfd/pW9FrfU3cAxzZr2UZ537YB43CGaOdkZCmx0JTbM/5wDTbRh4w==;VQYSk03OtpjxUgZFF2lx1g=="
 ---

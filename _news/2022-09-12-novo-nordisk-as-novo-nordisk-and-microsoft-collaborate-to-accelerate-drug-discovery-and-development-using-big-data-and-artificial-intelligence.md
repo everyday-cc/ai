@@ -20,6 +20,15 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "Novo Nordisk, Microsoft Collaborate on Drug Discovery Using AI"
+    excerpt: "The multi-year collaboration started with two use cases, including a large literature analysis and atherosclerosis risk prediction."
+    publishedDateTime: 2022-09-12T17:58:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/novo-nordisk-microsoft-collaborate-drug-discovery-using-ai"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 34
   - title: "Mi­crosoft sinks deep­er in­to drug AI, inks col­lab with di­a­betes gi­ant No­vo Nordisk"
     excerpt: "It now appears that Microsoft wants to take on diabetes. In its latest foray into the drugmaking world, the tech giant has signed a pact with Novo Nordisk, one of the three major insulin manufacturers."
     publishedDateTime: 2022-09-12T14:32:00Z

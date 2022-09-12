@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-12T17:59:00Z
 originalUrl: "https://www.biometricupdate.com/202209/1-2b-israel-defense-cloud-contract-includes-face-detection-google-amazon-workers-protest"
 webUrl: "https://www.biometricupdate.com/202209/1-2b-israel-defense-cloud-contract-includes-face-detection-google-amazon-workers-protest"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Biometric Companies

@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Deci’s Natural Language Processing (NLP) Model Achieves Breakthrough Performance at MLPerf"
+    excerpt: "Deci, the deep learning company harnessing Artificial Intelligence (AI) to build better AI, announced results for its Natural Language Processing (NLP) inference model submitted to the MLPerf Inference v2."
+    publishedDateTime: 2022-09-12T13:00:00Z
+    webUrl: "https://insidebigdata.com/2022/09/12/decis-natural-language-processing-nlp-model-achieves-breakthrough-performance-at-mlperf/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 41
   - title: "MLPerf Results Show Advances in Machine Learning Inference"
     excerpt: "MLCommons establishes a new record with over 5,300 performance results and 2,400 power measurement results, 1.37X and 1.09X more than the previous round. MLPerf benchmarks are comprehensive system tests that stress machine learning models, software, and ..."
     publishedDateTime: 2022-09-08T18:56:00Z
@@ -35,15 +44,6 @@ related:
       name: 01Net
       domain: 01net.it
     quality: 36
-  - title: "Deci’s Natural Language Processing (NLP) Model Achieves Breakthrough Performance at MLPerf"
-    excerpt: "Deci, the deep learning company harnessing Artificial Intelligence (AI) to build better AI, announced results for its Natural Language Processing (NLP) inference model submitted to the MLPerf Inference v2."
-    publishedDateTime: 2022-09-12T13:00:00Z
-    webUrl: "https://insidebigdata.com/2022/09/12/decis-natural-language-processing-nlp-model-achieves-breakthrough-performance-at-mlperf/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 24
   - title: "Deci’s NLP Model Achieves Breakthrough Performance at MLPerf"
     excerpt: "Deci, the deep learning company harnessing Artificial Intelligence (AI) to build better AI, announced results for its"
     publishedDateTime: 2022-09-08T19:48:00Z

@@ -77,6 +77,15 @@ related:
         width: 1200
         height: 671
         isCached: true
+  - title: "Biden reportedly plans to block AI chipmaking exports to China"
+    excerpt: "Semiconductors and AI are increasingly valuable for medical devices as smaller sensors and algorithms collect and crunch more data than ever."
+    publishedDateTime: 2022-09-12T18:08:00Z
+    webUrl: "https://www.medicaldesignandoutsourcing.com/biden-reportedly-plans-to-block-ai-chipmaking-exports-to-china/"
+    type: article
+    provider:
+      name: Medical Design and Outsourcing
+      domain: medicaldesignandoutsourcing.com
+    quality: 34
   - title: "Reports of Broadening Ban on AI Chip Exports to China Will Only Increase Uncertainty - Analyst"
     excerpt: "The U.S. government is considering further broadening curbs on exports of top AI chips to China, Reuters reports. The plan is to update regulations next month to include three new companies - KLA Corp (NASDAQ: KLAC ),"
     publishedDateTime: 2022-09-12T12:20:00Z

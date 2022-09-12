@@ -61,6 +61,15 @@ related:
       name: Autoblog
       domain: autoblog.com
     quality: 4
+  - title: "Truly autonomous cars may be impossible without helpful human touch"
+    excerpt: "Autonomous vehicle (AV) startups have raised tens of billions of dollars based on promises to develop truly self-driving cars, but industry executives and experts say remote human supervisors may be needed permanently to help robot drivers in trouble."
+    publishedDateTime: 2022-09-12T18:13:00Z
+    webUrl: "https://www.channelnewsasia.com/business/truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-2932686"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 4
 
 secured: "YxRMhghpmSDbtVqswv5WKCEJD5y3FbdwpURuK7iptAc8ckaGucLHySf1IUsxUK0weCimX2FHmIi5Leq/YU006J3lJAh0JRtB1pdDUZGL7RlgLtulSSgmeQff8eiSgsJMfhncBkyedPmqmIyV5QOQhorH0SX9Cj9x0qu1vasICFqIeQSvkLr5TLwhltwvbybstQmKcejOqCl1pAS/KfWxOtme/7NbBASrhHPlpHAbt/uey1rRhrHfSRQz6f+G26zgIZH75QQyzOyINE1jOUCV96v5TrJHqHDe8yfOOXkFP+xPnIo958EEmituCYLxDbr5dmXPZj4f38Ic4fqIbSOLq+xReMJuQOHpy/s78M18L9vvMl7NX8ZWldvnK22JNLWFse4ZksKsRKxTGVLEUII4ogf5voKJyR/jx+H75x6XfxWaa/bkziAS9ikzHJpVdoZXUq8cmFMbqO+pTiTTyCDMe+riA0+rksCmxuvLCGjS1JduyPo7Wvjb3BcN8GqC7pFP2fvHUziFYadBxBE9ZDNL+g==;oJiGbD837bsZldeW/3Zutg=="
 ---

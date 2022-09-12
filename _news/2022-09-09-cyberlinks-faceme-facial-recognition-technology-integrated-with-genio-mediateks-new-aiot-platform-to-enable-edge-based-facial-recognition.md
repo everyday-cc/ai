@@ -7,7 +7,7 @@ originalUrl: "https://it.tmcnet.com/news/2022/09/08/9669780.htm"
 webUrl: "https://it.tmcnet.com/news/2022/09/08/9669780.htm"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Sense Expands AI Talent Engagement Platform with Skillate Acquisition"
+    excerpt: "Sense, the market leader in AI-driven talent engagement solutions for recruiting, announced its acquisition of Skillate, an AI recruitment platform incubated within SAP Startup Studio. The addition of Skillate's technology enhances Sense's ability to provide AI-powered hiring including candidate matching,"
+    publishedDateTime: 2022-09-08T17:37:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/09/08/9670173.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "gO2APrwFAACj9WJW919cB2fPLUAJ/3Pr5UsWbP1QrHmgB7Vt4wvwylShmKtanUcrNE8zxjATu0IyKQKcDekyh1kKUPr6uVeD5YCr+SXX0di901d0QeEWLp6tQp+267gDr+mouHa35a3b84SH2XhGqp/4vZs5oIbo70J+9EDG+6ec6lGWraTmZ9q6zDuPO+Hheu3oq12MEWBIW9mg3AFNFuwLC9ZLrTByRu/S3E4q59vxFLDHtG5UT0+UtPBGkxfMHsaMwCFTcjOwE9TzniJZZGOVyRDropHONfC7/A5/E8YMpsO8vUTE9EPVSgCuvW7uGikZrwm416IPzH6Dwq28lojSoxelz6qQPaf1l5NVYNs=;svH7frfSuFmoneGnbzCW1g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/insight-truly-autonomous-cars-may-be
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch?amp"
 type: article
 quality: 52
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
     provider:
       name: Autoblog
       domain: autoblog.com
+    quality: 4
+  - title: "Truly autonomous cars may be impossible without helpful human touch"
+    excerpt: "Autonomous vehicle (AV) startups have raised tens of billions of dollars based on promises to develop truly self-driving cars, but industry executives and experts say remote human supervisors may be needed permanently to help robot drivers in trouble."
+    publishedDateTime: 2022-09-12T18:13:00Z
+    webUrl: "https://www.channelnewsasia.com/business/truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-2932686"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
     quality: 4
 
 secured: "pjjm58tC+otU5w+7u09nK4wWU0qBb9u15dDFefpP+d3A1BrgAM/c0z1NlUTF75Mgqg4Q1B0Kb10NVWs4kVXAhsbaNx94sTgIDarjMGDKUAxL5vWYWT+KIdLxtxXvMXfP1aOEacBe292CAERPKnTInPJdSav6fXAwyCYRb4/gUQEre4ApaUmkTbNL+FKYxdAjsH7I5SjwdhP6fd2rSZduvTNByzmoIigUlwPK6Rj5tTRdrVynbrkCtA+Zo9a0XGXOroTLSJD2A+LQiHrwUS2dtP1XF14suriSfHURkUEyzfjY0c3GKcroQckOuw7UC7MUGYniHqoh4uCqNMRGE0ww1/uOgkZSE4g6KlCmlJgeUQHnqSNfTVnKRxeKnuwN7KIuBAFs78wxjmVokTGSKeNKdFEFaqXIx0AEz5YCOyuwYpmYh7ztloacKJsoSWei+TiQoFXgdzQOEueKt+co/1IxoqiFNZHHc0T23ooEdA6wBP0ChDKa0fSV94bxAC0rEd3y+Agd4dzzzLiuWs5PbFW/Kw==;Q1gwV57fHdK4rsRDiN5w1w=="

@@ -7,7 +7,7 @@ originalUrl: "https://endpts.com/microsoft-sinks-deeper-into-drug-ai-inks-collab
 webUrl: "https://endpts.com/microsoft-sinks-deeper-into-drug-ai-inks-collab-with-diabetes-giant-novo-nordisk/"
 type: article
 quality: 8
-heat: 8
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,15 @@ topics:
   - AI
 
 related:
+  - title: "Novo Nordisk, Microsoft Collaborate on Drug Discovery Using AI"
+    excerpt: "The multi-year collaboration started with two use cases, including a large literature analysis and atherosclerosis risk prediction."
+    publishedDateTime: 2022-09-12T17:58:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/novo-nordisk-microsoft-collaborate-drug-discovery-using-ai"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 34
   - title: "Novo Nordisk A/S: Novo Nordisk and Microsoft collaborate to accelerate drug discovery and development using big data and artificial intelligence"
     excerpt: "Bagsværd, Denmark and Redmond, WA, US, 12 September 2022 - Novo Nordisk and Microsoft have entered a new strategic collaboration to combine Microsoft's computational services, cloud and artificial"
     publishedDateTime: 2022-09-12T11:09:00Z

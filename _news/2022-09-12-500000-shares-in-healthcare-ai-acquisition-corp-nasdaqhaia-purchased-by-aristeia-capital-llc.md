@@ -19,6 +19,15 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "Fintech Ecosystem Development Corp. (NASDAQ:FEXD) Announces Two Fintech Acquisitions"
+    excerpt: "(“Rana”) a Georgia corporation, Mobitech International LLC (“Afinoz”) a limited liability company organized in the United Arab Emirates, and Fintech Ecosystem Development Corp. (“FEXD”) a special purpose acquisition company,"
+    publishedDateTime: 2022-09-12T12:02:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-middle-east-united-arab-emirates-09102f546910153ff3d4f044e9670c8a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
   - title: "Veritone, Inc. (NASDAQ:VERI) Shares Bought by Granahan Investment Management LLC"
     excerpt: "Granahan Investment Management LLC grew its position in shares of Veritone, Inc. (NASDAQ:VERI – Get Rating) by 15.0% during the 1st quarter, according to the company in its most recent filing with the SEC."
     publishedDateTime: 2022-09-12T08:18:00Z

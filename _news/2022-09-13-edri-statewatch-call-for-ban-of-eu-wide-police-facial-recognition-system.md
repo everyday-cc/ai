@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-12T18:22:00Z
 originalUrl: "https://www.biometricupdate.com/202209/edri-statewatch-call-for-ban-of-eu-wide-police-facial-recognition-system"
 webUrl: "https://www.biometricupdate.com/202209/edri-statewatch-call-for-ban-of-eu-wide-police-facial-recognition-system"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: Biometric Companies

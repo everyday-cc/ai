@@ -21,6 +21,20 @@ topics:
   - Facebook AI
 
 related:
+  - title: "Meta spins off PyTorch Foundation to make AI framework vendor neutral"
+    excerpt: "The move comes as the adoption of the PyTorch framework has become widely used across the deep learning industry to power many natural language and computer vision projects, including Tesla Autopilot."
+    publishedDateTime: 2022-09-12T21:33:00Z
+    webUrl: "https://arstechnica.com/information-technology/2022/09/meta-spins-off-pytorch-foundation-to-make-ai-framework-vendor-neutral/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 84
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/pythorch_hero_1-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "PyTorch joins the Linux Foundation"
     excerpt: "Under the linux Foundation, PyTorch gains several benefits including helpful programs, research, and global and local events."
     publishedDateTime: 2022-09-12T15:41:00Z
