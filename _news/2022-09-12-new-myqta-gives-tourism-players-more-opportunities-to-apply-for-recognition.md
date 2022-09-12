@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-12T12:03:00Z
 originalUrl: "https://www.bernama.com/en/news.php?id=2119929"
 webUrl: "https://www.bernama.com/en/news.php?id=2119929"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: bernama.com

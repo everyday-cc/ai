@@ -81,6 +81,15 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Reports of Broadening Ban on AI Chip Exports to China Will Only Increase Uncertainty - Analyst"
+    excerpt: "The U.S. government is considering further broadening curbs on exports of top AI chips to China, Reuters reports. The plan is to update regulations next month to include three new companies - KLA Corp (NASDAQ: KLAC ),"
+    publishedDateTime: 2022-09-12T12:20:00Z
+    webUrl: "https://za.investing.com/news/reports-of-broadening-ban-on-ai-chip-exports-to-china-will-only-increase-uncertainty--analyst-432SI-2615039"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 22
 
 secured: "vjNnxkSZqUbwRJ+jlO6EF854esU7lyvmoal/GNEyeNag7pltn7PEuNLdoRs7v7tO4/va38iLGINnkgueUeKOan1T22hph/anmZpnd+96eQls0P7HAm8iq3y24wBiIzMR9K1wqHwqaxppWzUyK6F6CnR+VpLdBmlObh9wqZRtZA+5KrzzpCEjfVtr+mbtYZNkjQdnapUsp4lThisASJyLf+LF0ttVYp7OmYaJ8CEk/NZtdjTNvdnTN79M1Owd5FZyLF8Vdy9KdrhImcGmwZ+rP4UXpuCyUwKo0nfpJjR74Dqfx+sv0uWRThuVNLjZMbbatRvSfOxrWyiH0OtBVwuwMXSsqqwaIS0wn/LV6U2ERGsAWDOFn86rATXJncaYAVC6H6JXR5VOgZ78Oet22b9daxuBtqD34H1DuelX2u0lbsVYk8TWu4K2joEEtsbZeSE7SbJCZtB74UMgBhn1RcRd2zPFFZvkCeplE9Cee7W6VnLxi8RxColtNyE+1Yf039SIiLfLp0TFsHuIMjdqvDw8YA==;UXv6qoSSUKY8WjUEUb5cbA=="
 ---

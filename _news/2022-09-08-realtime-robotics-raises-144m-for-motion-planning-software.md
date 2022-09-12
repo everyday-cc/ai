@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/realtime-robotics-funding-motion-pl
 webUrl: "https://www.therobotreport.com/realtime-robotics-funding-motion-planning-software/"
 type: article
 quality: 99
-heat: 99
+heat: 101
 published: true
 
 provider:

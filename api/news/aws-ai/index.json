@@ -10,7 +10,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/tips-to-improve-your-amazon-rekognition-custom-labels-model/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -953,10 +953,10 @@
     {
       "path": "_news/2022-08-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry.md",
       "title": "Teradata Announces ClearScape Analytics: The Most Powerful, Open, and Connected Cloud Analytics Available in the Industry",
-      "excerpt": "ClearScape Analytics – which encompasses the same high-performing analytics that Teradata is known for but with 50+ new analytic functions – is available as part of Teradata VantageCloud and the new Teradata VantageCloud Lake,",
+      "excerpt": "Teradata (NYSE: TDC ) today announced ClearScape Analytics, the significantly expanded and newly named analytics capabilities that span t",
       "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry",
+      "webUrl": "https://www.joplinglobe.com/region/national_business/teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the/article_e5c099aa-df86-5cb9-b6bb-c03fdef2e41f.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the/article_e5c099aa-df86-5cb9-b6bb-c03fdef2e41f.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -966,11 +966,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T03:55:00-07:00",
+      "publishedDateTime": "2022-08-29T03:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
         "images": null,
         "publishers": null,
         "authors": null

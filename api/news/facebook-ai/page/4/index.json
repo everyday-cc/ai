@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-20-parmy-olson-ais-hold-over-humans-is-starting-to-get-stronger.md",
+      "title": "Parmy Olson: AI’s hold over humans is starting to get stronger",
+      "excerpt": "It has been an exasperating week for computer scientists. They’ve been falling over each other to publicly denounce claims from Google engineer Blake Lemoine, chronicled in a Washington Post report,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fltimes.com/news/nation/parmy-olson-ai-s-hold-over-humans-is-starting-to-get-stronger/article_284a3811-1bb7-549b-ba91-bd8302c85cb0.html",
+      "originalUrl": "https://www.fltimes.com/news/nation/parmy-olson-ai-s-hold-over-humans-is-starting-to-get-stronger/article_284a3811-1bb7-549b-ba91-bd8302c85cb0.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/editorial/b/c8/bc8ebd40-6215-5f93-97c9-4fef2d15402e/62b093459abe9.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-20T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finger Lakes Times",
+        "domain": "fltimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-20-ais-hold-over-humans-is-getting-stronger.md",
       "title": "AI’s hold over humans is getting stronger",
       "excerpt": "The question of whether computers will ever feel is awkward and thorny, in large part because there’s little scientific consensus on how consciousness in humans works.",
@@ -1396,58 +1439,6 @@
         "AI",
         "AI in Healthcare",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-standigm-signs-mou-with-merck-korea-for-ai-drug-discovery-research.md",
-      "title": "Standigm Signs MOU with Merck Korea for AI drug Discovery Research",
-      "excerpt": "Merck's retrosynthesis AI software 'SYNTHIA™ retrosynthesis software' accelerates Standigm's synthesis capabilitySEOUL, South Korea, June 9,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/standigm-signs-mou-with-merck-korea-for-ai-drug-discovery-research-1031518190",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/standigm-signs-mou-with-merck-korea-for-ai-drug-discovery-research-1031518190",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1836296/Standigm_Merck_MOU.jpg",
-          "width": 400,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

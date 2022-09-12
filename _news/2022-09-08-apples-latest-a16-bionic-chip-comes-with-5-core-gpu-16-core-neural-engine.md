@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/technology/apple-s-lat
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/apple-s-latest-a16-bionic-chip-comes-with-5-core-gpu-16-core-neural-engine-122090800084_1.html"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple's latest A16 Bionic chip released with a five-core GPU"
-    excerpt: "Apple event in Cupertino California the company finally revealed its iPhone 14 Pro lineup which is powered by the latest A16 chip the success"
-    publishedDateTime: 2022-09-07T22:31:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272733772/apple-latest-a16-bionic-chip-released-with-a-five-core-gpu"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 54
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1662589380.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Apple A16 Bionic chip has a 5-core GPU- 40% faster than rivals"
     excerpt: "Apple has finally revealed its iPhone 14 Pro lineup, which is powered by the latest A16 chip, the successor of last year's A15 chip."
     publishedDateTime: 2022-09-10T13:16:00Z

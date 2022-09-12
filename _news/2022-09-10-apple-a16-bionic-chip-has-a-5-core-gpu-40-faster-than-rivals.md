@@ -35,20 +35,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "Apple's latest A16 Bionic chip released with a five-core GPU"
-    excerpt: "Apple event in Cupertino California the company finally revealed its iPhone 14 Pro lineup which is powered by the latest A16 chip the success"
-    publishedDateTime: 2022-09-07T22:31:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272733772/apple-latest-a16-bionic-chip-released-with-a-five-core-gpu"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 54
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1662589380.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "YB0uVIMsYnKzSjvwXNlE2mfO7iwvOQ90LrS8fJqs8bPFwes+5uiDmyn3viDI0NM29v/qPYZ4ouoGSZUMCXki95qP9bFklgt/fiMO6FfKhhGZQYKoRMqt+xqRd/0k+Oy04PzsPWiQGoKLpkWorTM+hNg7JAT1d1vxesMY4iZSSNVVp7HRBBA5RTrU/7xr077t06XbOOAVfzkdtLngZNmkYuBMQcwjbQaBa9RpXcpeJPmW7SFiGsp1f3hpjq3Uyl5MiKizlmaG5iMiWBwlDwDQzWfn71Ld0Aekzox/7paHtdDXcS9hjuejWQajQCdftSEGmwHmXMO1bDA0/YuN3p50pSgDUrFwc2qpOqdmDq56/T74yY6QjUBH92LrlLgFMAQ+QhpE6Vntfm8tDQho4eCAZEuw5OzgE+H6UL1+9quCwhfFY+E31Or3LKbI/uMriaerG/9q+7DTvTYF/kPkiMbTLbDe4K2BYIOmAYKL1/K6nSN05M+YlA6Pjv2Rg82J68IPJ1c+g1Bt2iznpb8wnFkctw==;Vl9HzjEOksrjuhIVe+8Cgw=="
 ---

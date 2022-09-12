@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-12T12:21:00Z
 originalUrl: "https://www.qsrmagazine.com/outside-insights/why-ai-and-ml-are-key-ingredients-quick-service-restaurants"
 webUrl: "https://www.qsrmagazine.com/outside-insights/why-ai-and-ml-are-key-ingredients-quick-service-restaurants"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: QSR magazine

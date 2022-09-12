@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-12-on-kennedys-moonshot-speech-anniversary-biden-to-push-fight-against-cancer.md",
+      "title": "On Kennedy's moonshot speech anniversary, Biden to push fight against cancer",
+      "excerpt": "In 2022, the American Cancer Society estimates, 1.9 million new cancer cases will be diagnosed and 609,360 people will die of cancer diseases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/world-news/on-kennedy-s-moonshot-speech-anniversary-biden-to-push-fight-against-cancer-101662958934994.html",
+      "originalUrl": "https://www.hindustantimes.com/world-news/on-kennedy-s-moonshot-speech-anniversary-biden-to-push-fight-against-cancer-101662958934994.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/09/12/1600x900/Biden-Cancer-Moonshot-0_1662960013318_1662960013318_1662960065439_1662960065439.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/world-news/on-kennedy-s-moonshot-speech-anniversary-biden-to-push-fight-against-cancer-101662958934994-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/world-news/on-kennedy-s-moonshot-speech-anniversary-biden-to-push-fight-against-cancer-101662958934994-amp.html",
+      "publishedDateTime": "2022-09-11T22:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-09-deep-dive-how-ai-content-generators-work.md",
       "title": "Deep Dive: How AI content generators work",
       "excerpt": "AI content generators cannot be subjective, no matter how great the ML training using structured data is, but their uses can be additive to marketing teams.",
@@ -170,7 +213,7 @@
       "originalUrl": "https://it.tmcnet.com/news/2022/09/08/9670227.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -771,22 +814,31 @@
       "title": "Removing the data security barriers and concerns to accelerate speech recognition usage in radiology",
       "excerpt": "According to Scribetech, security is a key barrier to adopting speech recognition – despite its potential to accelerate reporting time, drive accuracy, and enable radiologists to deal with a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.kxan.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/",
-      "originalUrl": "https://www.kxan.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/",
+      "webUrl": "https://www.woodtv.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/",
+      "originalUrl": "https://www.woodtv.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.woodtv.com/wp-content/uploads/sites/51/2022/09/mattson.jpg?w=2000&#038;ssl=1",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-31T01:50:00-07:00",
+      "publishedDateTime": "2022-08-31T01:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KXAN",
-        "domain": "kxan.com",
+        "name": "WOOD-TV",
+        "domain": "woodtv.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1406,49 +1458,6 @@
       "provider": {
         "name": "Azorobotics",
         "domain": "azorobotics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-former-prime-minister-tony-abbott-believes-anthony-albaneses-indigenous-voice-to-parliament-is-wrong-form-of-recognition.md",
-      "title": "Former prime minister Tony Abbott believes Anthony Albanese's indigenous Voice to Parliament is 'wrong form of recognition'",
-      "excerpt": "The ex Liberal leader told Sky News Australia he was \"in favour\" of doing the right thing by indigenous people but believes the Voice was the \"wrong form\" of recognition. \"I would be in principle ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.skynews.com.au/australia-news/politics/former-prime-minister-tony-abbott-believes-anthony-albaneses-indigenous-voice-to-parliament-is-wrong-form-of-recognition/news-story/ad08a4a5cd13e9317217292527fbe4e8?amp",
-      "originalUrl": "https://www.skynews.com.au/australia-news/politics/former-prime-minister-tony-abbott-believes-anthony-albaneses-indigenous-voice-to-parliament-is-wrong-form-of-recognition/news-story/ad08a4a5cd13e9317217292527fbe4e8?amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.api.news/v3/images/bin/ee07781d2419bc122a686a3141e85c18",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.skynews.com.au/australia-news/politics/former-prime-minister-tony-abbott-believes-anthony-albaneses-indigenous-voice-to-parliament-is-wrong-form-of-recognition/news-story/ad08a4a5cd13e9317217292527fbe4e8?amp",
-      "cdnAmpWebUrl": "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/politics/former-prime-minister-tony-abbott-believes-anthony-albaneses-indigenous-voice-to-parliament-is-wrong-form-of-recognition/news-story/ad08a4a5cd13e9317217292527fbe4e8?amp",
-      "publishedDateTime": "2022-08-24T23:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sky News Australia",
-        "domain": "skynews.com.au",
         "images": null,
         "publishers": null,
         "authors": null

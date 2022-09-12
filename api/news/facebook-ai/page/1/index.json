@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-12-pytorch-joins-the-linux-foundation.md",
+      "title": "PyTorch joins the Linux Foundation",
+      "excerpt": "Under the linux Foundation, PyTorch gains several benefits including helpful programs, research, and global and local events.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/software-development/pytorch-joins-the-linux-foundation/",
+      "originalUrl": "https://sdtimes.com/software-development/pytorch-joins-the-linux-foundation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/images/sd-premium.png",
+          "width": 628,
+          "height": 246,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-12-the-ftc-is-closing-in-on-runaway-ai.md",
       "title": "The FTC Is Closing In on Runaway AI",
       "excerpt": "The US regulator is eager to end unfair use of artificial intelligence and commercial surveillance, but experts remain skeptical.",
@@ -1394,49 +1447,6 @@
       "provider": {
         "name": "News 6 WKMG",
         "domain": "clickorlando.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-amazon-testing-new-tiktok-style-feature-on-its-app-ai-firm-says.md",
-      "title": "Amazon testing new TikTok-style feature on its app, AI firm says",
-      "excerpt": "The feature, called Inspire, allows customers to like, save and share posts of products, and purchase items directly from the feed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.whas11.com/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049",
-      "originalUrl": "https://www.whas11.com/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.whas11.com/assets/CCT/images/e3e15506-7b16-49cb-8cc1-aff6d305ea71/e3e15506-7b16-49cb-8cc1-aff6d305ea71_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.whas11.com/amp/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049",
-      "cdnAmpWebUrl": "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049",
-      "publishedDateTime": "2022-08-17T20:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WHAS11 News",
-        "domain": "whas11.com",
         "images": null,
         "publishers": null,
         "authors": null

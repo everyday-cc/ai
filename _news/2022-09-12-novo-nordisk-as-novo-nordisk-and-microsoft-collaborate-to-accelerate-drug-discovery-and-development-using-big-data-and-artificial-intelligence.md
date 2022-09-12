@@ -7,7 +7,7 @@ originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-09/57032398-novo
 webUrl: "https://www.finanznachrichten.de/nachrichten-2022-09/57032398-novo-nordisk-a-s-novo-nordisk-and-microsoft-collaborate-to-accelerate-drug-discovery-and-development-using-big-data-and-artificial-intelligence-399.htm"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,17 @@ topics:
   - AI in Healthcare
   - AI
   - Microsoft AI
+
+related:
+  - title: "Mi­crosoft sinks deep­er in­to drug AI, inks col­lab with di­a­betes gi­ant No­vo Nordisk"
+    excerpt: "It now appears that Microsoft wants to take on diabetes. In its latest foray into the drugmaking world, the tech giant has signed a pact with Novo Nordisk, one of the three major insulin manufacturers."
+    publishedDateTime: 2022-09-12T14:32:00Z
+    webUrl: "https://endpts.com/microsoft-sinks-deeper-into-drug-ai-inks-collab-with-diabetes-giant-novo-nordisk/"
+    type: article
+    provider:
+      name: ENDPOINTS NEWS
+      domain: endpts.com
+    quality: 8
 
 secured: "WbuQ22N+rrc0dVtpqTjDygkYAKAWxzjOmn+QaN6F+1b8TK7T67hx/Tz09ymaUqeqPz9+qi5vpT0nPtcNj1qJAuj4hbZqYZEMp5N30hnNRbB30DLuOYceUxbBT9xvaa8pMMFUs7DObFgeh+3xidEuCecsi3OPDyobHSWhxfDfP1xgNKbyYOBkfIgmBI+qPk4GJzDKr+1KDupGrPhlEuvglpJXC1q1cB5ACWqLo7jhjtFAVlEtkQ9VpIGV7QQm5wfmMxzeg88FwWpkj8ib4lDYyXu+pRJj491gPne3eUwh5nKzLa0MrdXQe/fJZE90zxQwsYK/qguZvMmFctrayv5/KEC6jshUxPGz8acya8aUsSY=;LyqqK5M7k4logQQu68WvSw=="
 ---

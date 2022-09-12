@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/insight-truly-autonomous-cars-may-be
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch?amp"
 type: article
 quality: 52
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -51,6 +51,15 @@ related:
         width: 1200
         height: 658
         isCached: true
+  - title: "Autonomous cars may be impossible without helpful human touch"
+    excerpt: "\"I can provide my customers peace of mind knowing there is always a human there to help if needed,\" Vogt said. \"I don't know why I'd ever want to get rid of that.\""
+    publishedDateTime: 2022-09-12T12:46:00Z
+    webUrl: "https://www.autoblog.com/2022/09/12/autonomous-cars-remote-human-operators/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 4
 
 secured: "pjjm58tC+otU5w+7u09nK4wWU0qBb9u15dDFefpP+d3A1BrgAM/c0z1NlUTF75Mgqg4Q1B0Kb10NVWs4kVXAhsbaNx94sTgIDarjMGDKUAxL5vWYWT+KIdLxtxXvMXfP1aOEacBe292CAERPKnTInPJdSav6fXAwyCYRb4/gUQEre4ApaUmkTbNL+FKYxdAjsH7I5SjwdhP6fd2rSZduvTNByzmoIigUlwPK6Rj5tTRdrVynbrkCtA+Zo9a0XGXOroTLSJD2A+LQiHrwUS2dtP1XF14suriSfHURkUEyzfjY0c3GKcroQckOuw7UC7MUGYniHqoh4uCqNMRGE0ww1/uOgkZSE4g6KlCmlJgeUQHnqSNfTVnKRxeKnuwN7KIuBAFs78wxjmVokTGSKeNKdFEFaqXIx0AEz5YCOyuwYpmYh7ztloacKJsoSWei+TiQoFXgdzQOEueKt+co/1IxoqiFNZHHc0T23ooEdA6wBP0ChDKa0fSV94bxAC0rEd3y+Agd4dzzzLiuWs5PbFW/Kw==;Q1gwV57fHdK4rsRDiN5w1w=="
 ---

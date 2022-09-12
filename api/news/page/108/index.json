@@ -2,6 +2,203 @@
   "page": 108,
   "value": [
     {
+      "path": "_news/2022-06-15-baidu-netflix-apple-rise-premarket-robinhood-microstrategy-fall.md",
+      "title": "Baidu, Netflix, Apple Rise Premarket; Robinhood, MicroStrategy Fall",
+      "excerpt": "Investing.com -- Stocks in focus in premarket trade on Wednesday, June 15th. Please refresh for updates. Netflix (NASDAQ:NFLX) stock rose 1.3% after the streaming giant announced plans to turn its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.investing.com/news/stock-market-news/baidu-netflix-apple-rise-premarket-robinhood-microstrategy-fall-2837346",
+      "originalUrl": "https://www.investing.com/news/stock-market-news/baidu-netflix-apple-rise-premarket-robinhood-microstrategy-fall-2837346",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-15T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing.com",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-be-the-first-to-know.md",
+      "title": "Be the first to know",
+      "excerpt": "Demis Hassabis, CEO and cofounder of DeepMind, a leading artificial intelligence company, was the fourth award recipient. DeepMind is owned by Google. DeepMind's AphaFold protein database ...",
+      "sourceUrl": null,
+      "webUrl": "https://omaha.com/lifestyles/technology/ai-pioneers-honored-with-spain-s-princess-of-asturias-award/article_c5e26c1d-fc72-597d-87da-5d0213a32b52.html",
+      "originalUrl": "https://omaha.com/lifestyles/technology/ai-pioneers-honored-with-spain-s-princess-of-asturias-award/article_c5e26c1d-fc72-597d-87da-5d0213a32b52.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-15T05:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Omaha.com",
+        "domain": "omaha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-yaskawa-launches-new-automation-platform.md",
+      "title": "Yaskawa Launches New Automation Platform",
+      "excerpt": "Yaskawa has announced a completely new automation platform. It is to be called \"i³ Control\" and will form a technically coordinated overall solution for industrial controllers - including the engineering software, the controller hardware, and the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.elektroniknet.de/international/yaskawa-launches-new-automation-platform.196853.html",
+      "originalUrl": "https://www.elektroniknet.de/international/yaskawa-launches-new-automation-platform.196853.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-15T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Elektronik Net",
+        "domain": "elektroniknet.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-natural-language-processing-market-12726-billion-usd-industry-by-2028.md",
+      "title": "Natural Language Processing Market | 127.26 Billion USD Industry by 2028",
+      "excerpt": "Natural Language Processing (NLP) Market Size, Share & COVID-19 Impact Analysis, By Deployment (On-Premises, Cloud, Hybrid), By Enterprise Size (SMEs, and Large Enterprises), By Technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/natural-language-processing-market-127-26-billion-usd-industry-by-2028",
+      "originalUrl": "https://www.digitaljournal.com/pr/natural-language-processing-market-127-26-billion-usd-industry-by-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/Juneteenth-CC-BY-2.0-Wiki-600x337.jpeg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-15T05:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-ai-pioneers-honored-with-spains-princess-of-asturias-award.md",
+      "title": "AI Pioneers Honored With Spain’s Princess of Asturias Award",
+      "excerpt": "Demis Hassabis, CEO and cofounder of DeepMind, a leading artificial intelligence company, was the fourth award recipient. DeepMind is owned by Google. DeepMind's AphaFold protein database ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/business/articles/2022-06-15/ai-pioneers-honored-with-spains-princess-of-asturias-award",
+      "originalUrl": "https://www.usnews.com/news/business/articles/2022-06-15/ai-pioneers-honored-with-spains-princess-of-asturias-award",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-15T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-tabnine-raises-155m-for-ai-that-autocompletes-code.md",
       "title": "Tabnine raises $15.5M for AI that autocompletes code",
       "excerpt": "Tabnine, a startup creating an “AI-powered assistant” for software developers, today closed a $15.5 million funding round co-led by Qualcomm Ventures, OurCrowd, and Samsung NEXT Ventures with ...",
@@ -849,213 +1046,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-aws-turns-up-mainframe-migration-service.md",
-      "title": "AWS turns-up mainframe-migration service",
-      "excerpt": "AWS Mainframe Modernization, which since last November had been in preview, is available now and offers the tools, infrastructure, and software to manage migration of mainframe applications to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3663728/aws-turns-up-mainframe-migration-service.html",
-      "originalUrl": "https://www.networkworld.com/article/3663728/aws-turns-up-mainframe-migration-service.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2021/08/clous-blue7-3000x3000p-100899404-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3663728/aws-turns-up-mainframe-migration-service.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3663728/aws-turns-up-mainframe-migration-service.amp.html",
-      "publishedDateTime": "2022-06-14T17:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-bridging-deepmind-research-with-alphabet-products.md",
-      "title": "Bridging DeepMind research with Alphabet products",
-      "excerpt": "Today we caught up with Gemma Jennings, a product manager on the Applied team, who led a session on vision language models at the AI Summit, one of the world’s largest AI events for business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/bridging-deepmind-research-with-alphabet-products",
-      "originalUrl": "https://www.deepmind.com/blog/bridging-deepmind-research-with-alphabet-products",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62a9f619d9122bdc3231b4ed_Gemma_Jennings__Blog__16x9.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-how-do-you-insure-artificial-intelligence.md",
-      "title": "How do you insure artificial intelligence?",
-      "excerpt": "No doubt, this software has some built-in artificial intelligence (AI) elements. When insuring a vehicle manufacturer, it’s not too difficult to spot the potential for critical failure ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.canadianunderwriter.ca/insurance/how-do-you-insure-artificial-intelligence-1004222454/",
-      "originalUrl": "https://www.canadianunderwriter.ca/insurance/how-do-you-insure-artificial-intelligence-1004222454/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.canadianunderwriter.ca/uploads/2022/06/artifical-intelligence-picture-id143922813.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Canadian Underwriter",
-        "domain": "canadianunderwriter.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-industrial-robotics-are-expanding-across-multiple-sectors.md",
-      "title": "Industrial Robotics Are Expanding Across Multiple Sectors",
-      "excerpt": "Robotics has progressed from a world of building blocks and moved to real-world computing. Robots are getting progressively integrated into several types of production lines, which is driving industrial robotics market growth. According to Grand View ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/industrial-robotics-are-expanding-across-multiple-sectors",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/industrial-robotics-are-expanding-across-multiple-sectors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-its-a-little-scary-how-smart-googles-deepmind-just-got.md",
-      "title": "It’s a little scary how smart Google’s DeepMind just got",
-      "excerpt": "Oh joy – Alphabet Inc.’s AI subsidiary DeepMind has taken another step forward in understanding the world the way humans do. The company that has previously made headlines for developing a ...",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/tech/google-deepmind-render-3d-objects-from-2d-images/",
-      "originalUrl": "https://bgr.com/tech/google-deepmind-render-3d-objects-from-2d-images/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

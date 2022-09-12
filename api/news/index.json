@@ -2,6 +2,196 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-12-pytorch-joins-the-linux-foundation.md",
+      "title": "PyTorch joins the Linux Foundation",
+      "excerpt": "Under the linux Foundation, PyTorch gains several benefits including helpful programs, research, and global and local events.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/software-development/pytorch-joins-the-linux-foundation/",
+      "originalUrl": "https://sdtimes.com/software-development/pytorch-joins-the-linux-foundation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/images/sd-premium.png",
+          "width": 628,
+          "height": 246,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-how-diveplane-uses-explainable-ai-to-bolster-ai-adoption.md",
+      "title": "How Diveplane uses explainable AI to bolster AI adoption",
+      "excerpt": "Diveplane has raised $25M in series A funding for its explainable AI solutions supporting transparent decision-making and data privacy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-diveplane-uses-explainable-ai-to-bolster-ai-adoption/",
+      "originalUrl": "https://venturebeat.com/ai/how-diveplane-uses-explainable-ai-to-bolster-ai-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-black_box_AI_explainable_AI_1324510115-e1662994691115.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-diveplane-uses-explainable-ai-to-bolster-ai-adoption/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-diveplane-uses-explainable-ai-to-bolster-ai-adoption/amp/",
+      "publishedDateTime": "2022-09-12T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-how-technologies-such-as-ai-ml-and-deep-learning-are-paving-the-way-for-the-digitalization-of-the-construction-industry.md",
+      "title": "How technologies such as AI, ML, and deep learning are paving the way for the digitalization of the construction industry?",
+      "excerpt": "The construction industry has been long reliant on tedious manual work, obsolete practices, legacy systems and exhausting paperwork. Moreover, the global construction industry has been relatively slow to adopt the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-technologies-such-as-ai-ml-and-deep-learning-are-paving-the-way-for-the-digitalization-of-the-construction-industry/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-technologies-such-as-ai-ml-and-deep-learning-are-paving-the-way-for-the-digitalization-of-the-construction-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/09/Pic-4.png",
+          "width": 383,
+          "height": 331,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-technologies-such-as-ai-ml-and-deep-learning-are-paving-the-way-for-the-digitalization-of-the-construction-industry/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-technologies-such-as-ai-ml-and-deep-learning-are-paving-the-way-for-the-digitalization-of-the-construction-industry/",
+      "publishedDateTime": "2022-09-12T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-london-has-raised-more-fintech-investment-than-any-other-global-hub.md",
+      "title": "London Has Raised More Fintech Investment Than Any Other Global Hub",
+      "excerpt": "MoneyTransfers.com reports that London has successfully attracted the most fintech investment, reaching $3.1 billion in 2022. Jonathan Merry, CEO of MoneyTransfers.com, commented on the report: \"The U.",
+      "sourceUrl": null,
+      "webUrl": "https://techround.co.uk/finance/london-raises-more-fintech-investment/",
+      "originalUrl": "https://techround.co.uk/finance/london-raises-more-fintech-investment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techround.co.uk/wp-content/uploads/2021/04/investment-2021.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techround.co.uk/finance/london-raises-more-fintech-investment/amp/",
+      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/finance/london-raises-more-fintech-investment/amp/",
+      "publishedDateTime": "2022-09-12T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRound",
+        "domain": "techround.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-12-leadership-in-times-of-ai-driven-automation.md",
       "title": "Leadership In Times Of AI-Driven Automation",
       "excerpt": "Sayantan Dasgupta is a Sr. Director of Demand Generation at Gramener | Ex VC Partner | 2x VP Marketing | 15+ years of leadership experience. The global AI market in 2021 reached a staggering value of $327.",
@@ -207,7 +397,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -229,6 +419,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-on-kennedys-moonshot-speech-anniversary-biden-to-push-fight-against-cancer.md",
+      "title": "On Kennedy's moonshot speech anniversary, Biden to push fight against cancer",
+      "excerpt": "In 2022, the American Cancer Society estimates, 1.9 million new cancer cases will be diagnosed and 609,360 people will die of cancer diseases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/world-news/on-kennedy-s-moonshot-speech-anniversary-biden-to-push-fight-against-cancer-101662958934994.html",
+      "originalUrl": "https://www.hindustantimes.com/world-news/on-kennedy-s-moonshot-speech-anniversary-biden-to-push-fight-against-cancer-101662958934994.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/09/12/1600x900/Biden-Cancer-Moonshot-0_1662960013318_1662960013318_1662960065439_1662960065439.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/world-news/on-kennedy-s-moonshot-speech-anniversary-biden-to-push-fight-against-cancer-101662958934994-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/world-news/on-kennedy-s-moonshot-speech-anniversary-biden-to-push-fight-against-cancer-101662958934994-amp.html",
+      "publishedDateTime": "2022-09-11T22:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -580,7 +813,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/tips-to-improve-your-amazon-rekognition-custom-labels-model/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -989,246 +1222,6 @@
         "AI in Marketing",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-neural-magics-sparsity-nvidias-hopper-and-alibabas-network-among-firsts-in-latest-mlperf-ai-benchmarks.md",
-      "title": "Neural Magic's sparsity, Nvidia's Hopper, and Alibaba's network among firsts in latest MLPerf AI benchmarks",
-      "excerpt": "The latest benchmark tests of chips for AI showed new approaches to dealing with ever-increasing scale, including clusters of machines, and sparsity, the pruning of neural nets to make them more efficient.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/neural-magics-sparsity-nvidias-hopper-and-alibabas-network-among-firsts-in-latest-mlperf-ai-benchmarks/",
-      "originalUrl": "https://www.zdnet.com/article/neural-magics-sparsity-nvidias-hopper-and-alibabas-network-among-firsts-in-latest-mlperf-ai-benchmarks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/165cf796993b915bf3d6ac71f4ffcb91020a663b/2022/09/08/fa74566e-d9f2-440f-b2cd-b9565104404e/nvidia-hopper-die-crop-for-twitter.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/neural-magics-sparsity-nvidias-hopper-and-alibabas-network-among-firsts-in-latest-mlperf-ai-benchmarks/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/neural-magics-sparsity-nvidias-hopper-and-alibabas-network-among-firsts-in-latest-mlperf-ai-benchmarks/",
-      "publishedDateTime": "2022-09-08T17:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI",
-        "Machine Learning",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-an-ai-expert-on-how-fn-meka-is-just-the-beginning-of-ai-rappers.md",
-      "title": "An AI Expert On How FN Meka Is Just the Beginning of AI Rappers",
-      "excerpt": "AI expert Charles L. Isbell, Jr. spoke with us about the ethics behind FN Meka, and how AI rappers — and AI artists in general — are going to become more prevalent as technology evolves. In less than two weeks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.okayplayer.com/music/fn-meka-ai-rapper-tiktok-controversy.html",
-      "originalUrl": "https://www.okayplayer.com/music/fn-meka-ai-rapper-tiktok-controversy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://okayplayer-wpengine.netdna-ssl.com/wp-content/uploads/2022/09/JAY-Z-and-Jack-Dorsey-Gave-1000-in-Bitcoin-to-Hundreds-of-Marcy-Houses-Residents-692x376.jpg",
-          "width": 692,
-          "height": 376,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.okayplayer.com/music/fn-meka-ai-rapper-tiktok-controversy.html/amp",
-      "cdnAmpWebUrl": "https://www-okayplayer-com.cdn.ampproject.org/c/s/www.okayplayer.com/music/fn-meka-ai-rapper-tiktok-controversy.html/amp",
-      "publishedDateTime": "2022-09-08T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Okayplayer",
-        "domain": "okayplayer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-how-explainable-artificial-intelligence-can-propel-the-growth-of-industry-40.md",
-      "title": "How explainable artificial intelligence can propel the growth of industry 4.0",
-      "excerpt": "The very first industrial revolution historically kicked off with the introduction of steam- and water-powered technology. We have come a long way since then, with the current fourth industrial revolution,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-09-artificial-intelligence-propel-growth-industry.html",
-      "originalUrl": "https://techxplore.com/news/2022-09-artificial-intelligence-propel-growth-industry.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/how-explainable-artifi.jpg",
-          "width": 602,
-          "height": 401,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-09-artificial-intelligence-propel-growth-industry.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-artificial-intelligence-propel-growth-industry.amp",
-      "publishedDateTime": "2022-09-08T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-decis-natural-language-processing-nlp-model-achieves-breakthrough-performance-at-mlperf.md",
-      "title": "Deci's Natural Language Processing (NLP) Model Achieves Breakthrough Performance at MLPerf",
-      "excerpt": "Deci, the deep learning company harnessing Artificial Intelligence (AI) to build better AI, announced results for its Natural Language Processing (NLP) inference model submitted to the MLPerf Inference v2.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/09/08/9670227.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/09/08/9670227.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1893621/Deci_Throughput_Infographic.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T11:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-ai-native-tech-startups-can-weather-an-economic-nuclear-winter.md",
-      "title": "AI-native tech startups can weather an economic nuclear winter",
-      "excerpt": "By being careful and strategic, AI-Native companies will be poised to emerge strong and healthy — and even grow — from a downturn.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-native-tech-startups-can-weather-an-economic-nuclear-winter/",
-      "originalUrl": "https://venturebeat.com/ai/ai-native-tech-startups-can-weather-an-economic-nuclear-winter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1281732617.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-native-tech-startups-can-weather-an-economic-nuclear-winter/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-native-tech-startups-can-weather-an-economic-nuclear-winter/amp/",
-      "publishedDateTime": "2022-09-08T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     }
   ],

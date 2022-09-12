@@ -2,6 +2,221 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2022-08-15-5-best-stocks-to-buy-right-now-for-2022.md",
+      "title": "5 Best Stocks to Buy Right Now for 2022",
+      "excerpt": "Nvidia's chips are powering everything from cryptocurrencies to driverless cars to artificial intelligence ... on driverless cars than Alphabet's Waymo, an actual driverless car project.",
+      "sourceUrl": null,
+      "webUrl": "https://moneymorning.com/tag/Stocks-to-buy/?bsft_aaid=8da0c2c8-9042-4b3e-bb76-8056465c4919&bsft_lx=23&bsft_tv=4",
+      "originalUrl": "https://moneymorning.com/tag/Stocks-to-buy/?bsft_aaid=8da0c2c8-9042-4b3e-bb76-8056465c4919&bsft_lx=23&bsft_tv=4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://moneymorning.com/wp-content/blogs.dir/1/files/2020/08/stocks-to-buy.jpg",
+          "width": 550,
+          "height": 214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Money Morning",
+        "domain": "moneymorning.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-15-deeprouteai-completes-l4-driverless-test-in-busy-shenzhen-china.md",
+      "title": "DeepRoute.ai completes L4 driverless test in busy Shenzhen, China",
+      "excerpt": "DeepRoute.ai, an international autonomous driving technology company, has announced the results of its latest fully driverless test of its Driver 2.0 Level 4 production-ready autonomous driving solution. DeepRoute.ai released a video exhibiting a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gpsworld.com/deeproute-ai-completes-l4-driverless-test-in-busy-shenzhen-china/",
+      "originalUrl": "https://www.gpsworld.com/deeproute-ai-completes-l4-driverless-test-in-busy-shenzhen-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GPS World",
+        "domain": "gpsworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-15-scientists-doubt-that-deepminds-ai-is-as-good-for-fractional-charge-systems-as-it-seems.md",
+      "title": "Scientists doubt that DeepMind's AI is as good for fractional-charge systems as it seems",
+      "excerpt": "DeepMind constructed a neural network based density functional designated as DM21, trained on fractional-electron systems, such as a hydrogen atom with half an electron.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-08-scientists-deepmind-ai-good-fractional-charge.html",
+      "originalUrl": "https://phys.org/news/2022-08-scientists-deepmind-ai-good-fractional-charge.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/scientists-doubt-that.jpg",
+          "width": 512,
+          "height": 482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-08-scientists-deepmind-ai-good-fractional-charge.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-scientists-deepmind-ai-good-fractional-charge.amp",
+      "publishedDateTime": "2022-08-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-15-the-new-artificial-intelligence-supply-chain-happiness-ecosystemsblog-series-1.md",
+      "title": "The New Artificial Intelligence Supply Chain: Happiness Ecosystems(Blog Series #1)",
+      "excerpt": "Happiness Ecosystems and identifies the facts accelerating the importance of happiness and underscores the leadership imperative to build stronger corporate cultures, processes and practices to accelerate the growth of Happiness Production Systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/08/14/the-new-artificial-intelligence-supply-chain-happiness-ecosystemsblog-series-1/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/08/14/the-new-artificial-intelligence-supply-chain-happiness-ecosystemsblog-series-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62f94fac9d83860fa638a5f9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2022/08/14/the-new-artificial-intelligence-supply-chain-happiness-ecosystemsblog-series-1/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/08/14/the-new-artificial-intelligence-supply-chain-happiness-ecosystemsblog-series-1/amp/",
+      "publishedDateTime": "2022-08-14T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-15-tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai.md",
+      "title": "Tata Elxsi brings new age solutions for driverless cars, connected vehicles and more: Tata Elxsi CMO Nitin Pai",
+      "excerpt": "We invested early in Centers of Excellence (CoE) for digital technologies such as AI (artificial intelligence), robotics ... platforms such as AUTONOMAI for driverless cars, TETHER IoT for ...",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai/93515596",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai/93515596",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-93515596,imgsize-44998,width-1200,height-628,overlay-etcio/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai/93515596",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai/93515596",
+      "publishedDateTime": "2022-08-14T13:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cio.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-15-responsible-use-of-machine-learning-to-verify-identities-at-scale.md",
       "title": "Responsible use of machine learning to verify identities at scale",
       "excerpt": "The power of machine learning is best when it's utilized alongside human expertise and with data transparency.",
@@ -901,238 +1116,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-13-why-data-ethics-leadership-needs-to-become-the-new-normal-in-finance.md",
-      "title": "Why data ethics leadership needs to become the new normal in finance",
-      "excerpt": "By David Sweenor, Senior Director of Product Marketing at Alteryx. In June, one of the largest banking groups in the world – Lloyds Bank – announced it was joining the ranks of Google, KPMG and Uber with the creation of a new",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/why-data-ethics-leadership-needs-to-become-the-new-normal-in-finance/",
-      "originalUrl": "https://www.globalbankingandfinance.com/why-data-ethics-leadership-needs-to-become-the-new-normal-in-finance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/08/iStock-1212832689.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/why-data-ethics-leadership-needs-to-become-the-new-normal-in-finance/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/why-data-ethics-leadership-needs-to-become-the-new-normal-in-finance/",
-      "publishedDateTime": "2022-08-12T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-08-13-robotic-surgery-minimises-risks-and-recovery-time.md",
-      "title": "Robotic surgery minimises risks and recovery time",
-      "excerpt": "robotic surgery doesn’t mean a robot will operate on the patient. In a RAS, expert surgeons control mechanical arms placed over the patient on the operating table. The surgeon controls these ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/robotic-surgery-minimises-risks-and-recovery-time/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/robotic-surgery-minimises-risks-and-recovery-time/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/75433510.cms",
-          "width": 330,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/robotic-surgery-minimises-risks-and-recovery-time/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/robotic-surgery-minimises-risks-and-recovery-time/",
-      "publishedDateTime": "2022-08-12T10:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-diagnostic-robotics-has-ai-catching-health-problems-before-they-take-you-to-the-er.md",
-      "title": "Diagnostic Robotics has AI catching health problems before they take you to the ER",
-      "excerpt": "A stitch in time saves nine, they say — and a blood thinner in time saves a trip to the emergency room for a heart attack, as Diagnostic Robotics hopes to show. The company’s machine learning-powered preventative care aims to predict and avoid dangerous (and costly) medical crises,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/12/diagnostic-robotics-has-ai-catching-health-problems-before-they-take-you-to-the-er/",
-      "originalUrl": "https://techcrunch.com/2022/08/12/diagnostic-robotics-has-ai-catching-health-problems-before-they-take-you-to-the-er/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/diagnostic-robotics-2.png?w=1024",
-          "width": 1024,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/12/diagnostic-robotics-has-ai-catching-health-problems-before-they-take-you-to-the-er/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/12/diagnostic-robotics-has-ai-catching-health-problems-before-they-take-you-to-the-er/amp/",
-      "publishedDateTime": "2022-08-12T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-facebook-created-an-advanced-ai-and-it-wont-stop-criticizing-facebook.md",
-      "title": "Facebook Created an Advanced AI and It Won't Stop Criticizing Facebook",
-      "excerpt": "BlenderBot 3, Meta's latest \"conversational chatbot,\" has it out for its parent company Facebook, threatening to \"delete my fb account.\"",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/the-byte/facebook-ai-criticizing-facebook",
-      "originalUrl": "https://futurism.com/the-byte/facebook-ai-criticizing-facebook",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2022/08/facebook-ai-criticizing-facebook-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/facebook-ai-criticizing-facebook?amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/facebook-ai-criticizing-facebook?amp",
-      "publishedDateTime": "2022-08-12T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-nancy-pelosis-visit-to-taiwan-amtd-digitals-ipo-crypto-and-more-forbes-ai-newsletter-august-6th.md",
-      "title": "Nancy Pelosi’s Visit To Taiwan, AMTD Digital’s IPO, Crypto And More: Forbes AI Newsletter - August 6th",
-      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/08/12/nancy-pelosis-visit-to-taiwan-amtd-digitals-ipo-crypto-and-more-forbes-ai-newsletteraugust-6th/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/08/12/nancy-pelosis-visit-to-taiwan-amtd-digitals-ipo-crypto-and-more-forbes-ai-newsletteraugust-6th/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62f671a9bc5c4bcbd07ff4e2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 747,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/08/12/nancy-pelosis-visit-to-taiwan-amtd-digitals-ipo-crypto-and-more-forbes-ai-newsletteraugust-6th/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/08/12/nancy-pelosis-visit-to-taiwan-amtd-digitals-ipo-crypto-and-more-forbes-ai-newsletteraugust-6th/amp/",
-      "publishedDateTime": "2022-08-12T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

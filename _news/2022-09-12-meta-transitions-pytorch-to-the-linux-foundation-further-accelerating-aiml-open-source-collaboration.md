@@ -1,15 +1,18 @@
 ---
 category: news
 title: "Meta Transitions PyTorch to the Linux Foundation, Further Accelerating AI/ML Open Source Collaboration"
-excerpt: "PyTorch Foundation to foster an ecosystem of vendor-neutral projects alongside founding members AMD, AWS, Google Cloud, Meta, Microsoft Azure, and NVIDIA DUBLIN , Sept. /PRNewswire/ -- The Linux Foundation,"
-publishedDateTime: 2022-09-12T13:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/09/n28829937/meta-transitions-pytorch-to-the-linux-foundation-further-accelerating-aiml-open-source-collaborati"
-webUrl: "https://www.benzinga.com/pressreleases/22/09/n28829937/meta-transitions-pytorch-to-the-linux-foundation-further-accelerating-aiml-open-source-collaborati"
+excerpt: "PyTorch Foundation to foster an ecosystem of vendor-neutral projects alongside founding members AMD, AWS, Google Cloud, Meta, Microsoft Azure, and NVIDIA DUBLIN , Sept. 12, 2022 /PRNewswire/ -- The Linux Foundation,"
+publishedDateTime: 2022-09-12T15:30:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/09/12/9671322.htm"
+webUrl: "https://it.tmcnet.com/news/2022/09/12/9671322.htm"
 type: article
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
@@ -17,6 +20,63 @@ topics:
   - Machine Learning
   - Facebook AI
 
-secured: "5auw7XbktzeLWXhE4mwsAweg0ddpB7OAHY9ECzYg/0hef5c8mOXHq81hGlZzOs6KMEUCh98wZKYnJMIdLwLZkgffqWOYqb1CSxoXDIrmkiFGvwCazixjoCUbuNN3RKpBJUEHX0uMK3bwFQZUYPhQD8vu6G1K+X4kTG761fhwJBftMf6H1q4kkuQDyLtQDrqQw8+ZzQSsgA1c6CiMSx8jUdOgLaAyOU3F0FXfbMlcv7hpsidfouuVvzBjTlHPwgZ3VLvB4iVHQIwXHSYi6L0U5DonOB+CfWIoZDG6+nu2j+RrcFTEcA2bUz6anqwz3ROw/jTaglO+Amv6XjhDIKbaWED31xUgp9MWKBw6lBpYI2E=;xR3WozZy3xaKi/94btXIvA=="
+related:
+  - title: "PyTorch joins the Linux Foundation"
+    excerpt: "Under the linux Foundation, PyTorch gains several benefits including helpful programs, research, and global and local events."
+    publishedDateTime: 2022-09-12T15:41:00Z
+    webUrl: "https://sdtimes.com/software-development/pytorch-joins-the-linux-foundation/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 71
+    images:
+      - url: "https://sdtimes.com/images/sd-premium.png"
+        width: 628
+        height: 246
+        isCached: true
+  - title: "Meta’s deep learning framework PyTorch to be led by the newly formed PyTorch Foundation"
+    excerpt: "PyTorch artificial intelligence platform it created to the Linux Foundation ’s newly formed PyTorch Foundation. PyTorch is a deep learning framework that’s used to power hundreds of AI projects, specifically machine learning applications."
+    publishedDateTime: 2022-09-12T14:23:00Z
+    webUrl: "https://siliconangle.com/2022/09/12/metas-deep-learning-framework-pytorch-led-newly-formed-pytorch-foundation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 48
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/1_LLVL8xUiUOBE8WHgzAuY-Q.png"
+        width: 2000
+        height: 1125
+        isCached: true
+  - title: "Announcing the PyTorch Foundation to Accelerate Progress in AI Research"
+    excerpt: "Since 2016, when we partnered with the AI community to create the PyTorch framework for AI research, open collaboration has been essential to its success. With thousands of contri"
+    publishedDateTime: 2022-09-12T13:00:00Z
+    webUrl: "https://about.fb.com/news/2022/09/pytorch-foundation-to-accelerate-progress-in-ai-research/"
+    type: article
+    provider:
+      name: about.fb
+      domain: fb.com
+    quality: 36
+  - title: "Meta moves PyTorch to Linux Foundation"
+    excerpt: "The open source AI framework will operate with its own governance independent from its original Facebook backers."
+    publishedDateTime: 2022-09-12T13:00:00Z
+    webUrl: "https://www.axios.com/2022/09/12/meta-pytorch-linux-foundation"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 21
+  - title: "Meta Transitions PyTorch to the Linux Foundation"
+    excerpt: "The Linux Foundation, a global nonprofit organization enabling innovation through open source, today announced PyTorch is moving"
+    publishedDateTime: 2022-09-12T14:53:00Z
+    webUrl: "https://www.datanami.com/this-just-in/meta-transitions-pytorch-to-the-linux-foundation/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 21
+
+secured: "DFm9Rdh6nuZQm5tAk9IlMMKkjrIfIajD9txTMU27YagMCKAc3Q9uEGNWXbRpYZ6gqVi7iZ1NxFIHAc9BproPL79vCPdK0zaQPU5QA0o0u3ZUpLzBpkjWC24tlHv+p6SHD7aB/Qf5LizsmSd5doJEakcrwsV2KKwmhlMVpBRrXGhu4zlkwpzdqB2yjtQpmu//u7D8dqtaK1+RUhAGSzUTb+OQcmoNi5ucJJD+0uIa9+VDOGxLf622aHJfUfiAStlRJ+cmo/yCncGo3GUgGifXd/JJuUnSfSyuW6aLQAzFW2RhTE2nyUkD3qV/FEIV+YY0+zBLv0fB7F4UHC9GJ3bNCZhCsAuQK0fUcasXgaGhaU0gn3jU0kbzznCOTVbUr4UdqZLlC4RvonnG2eAIEkzA7vwK0A9RZgdSviRXyqKsBA/y10bfVt/qSApdo++OetRm0k0fijHg83d5eiO/T4MmGEmkMMCrPbNTrzfAuprK7rhckgCXoAHP72kiveUpF0X/B6HWctMFbp04cuYyVTIeag==;AXDIQwuQPODUHBqk8mLiqQ=="
 ---
 

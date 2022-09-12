@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-12T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/lanceeliot/2022/09/12/ai-ethics-saying-that-ai-should-be-especially-deployed-when-human-biases-are-aplenty/"
 webUrl: "https://www.forbes.com/sites/lanceeliot/2022/09/12/ai-ethics-saying-that-ai-should-be-especially-deployed-when-human-biases-are-aplenty/"
 type: article
+quality: 57
+heat: 57
+published: false
 
 provider:
   name: Forbes

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-12T13:37:00Z
 originalUrl: "https://economictimes.indiatimes.com/news/international/uk/footballing-icon-chris-kamara-opens-up-about-speech-apraxia-that-forced-him-quit-soccer/articleshow/94157019.cms"
 webUrl: "https://economictimes.indiatimes.com/news/international/uk/footballing-icon-chris-kamara-opens-up-about-speech-apraxia-that-forced-him-quit-soccer/articleshow/94157019.cms"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Indiatimes

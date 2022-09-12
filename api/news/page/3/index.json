@@ -2,6 +2,263 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-08-teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it.md",
+      "title": "Tesla’s ‘full self-driving’ isn’t worth $15,000, say many who bought it",
+      "excerpt": "Some Tesla owners who paid far less for an earlier, unfinished version of the same “full self-driving” software that now retails for $15,000 caution that the new price does not make",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/",
+      "originalUrl": "https://www.eastbaytimes.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2022/09/hypatia-h_f83a5bee143b3b89282e5807cb1c97e9-h_c8f834e95ae4db3b0c1cf5aa23866cd0.jpg?w=1024&h=1024",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/amp/",
+      "publishedDateTime": "2022-09-07T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-transfer-learning-for-tensorflow-image-classification-models-in-amazon-sagemaker.md",
+      "title": "Transfer learning for TensorFlow image classification models in Amazon SageMaker",
+      "excerpt": "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/transfer-learning-for-tensorflow-image-classification-models-in-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/transfer-learning-for-tensorflow-image-classification-models-in-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/07/tenworflow-image-classification-sagemaker.jpg",
+          "width": 1534,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-07T10:49:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-improve-transcription-accuracy-of-customer-agent-calls-with-custom-vocabulary-in-amazon-transcribe.md",
+      "title": "Improve transcription accuracy of customer-agent calls with custom vocabulary in Amazon Transcribe",
+      "excerpt": "Many AWS customers have been successfully using Amazon Transcribe to accurately, efficiently, and automatically convert their customer audio conversations to text, and extract actionable insights from them. These insights can help you continuously enhance the processes and products that directly improve",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-transcription-accuracy-of-customer-agent-calls-with-custom-vocabulary-in-amazon-transcribe/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-transcription-accuracy-of-customer-agent-calls-with-custom-vocabulary-in-amazon-transcribe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/07/transcription-accuracy-transcribe.jpg",
+          "width": 1533,
+          "height": 766,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-07T10:46:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-dall-e-machine-learning-can-now-imagine-what-lies-beyond-the-frame-of-famous-paintings.md",
+      "title": "DALL-E machine learning can now imagine what lies beyond the frame of famous paintings",
+      "excerpt": "Since being unveiled by OpenAI in early 2021, DALL-E has been turning heads with its ultra-realistic AI image creations. From jaw-dropping to just downright weird, the text-to-image AI system has wowed the internet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/95893-dall-e-machine-learning-can-now-imagine-what.html",
+      "originalUrl": "https://www.techspot.com/news/95893-dall-e-machine-learning-can-now-imagine-what.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2022/09/2022-09-07-image-4.jpg",
+          "width": 1365,
+          "height": 864,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-07T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-is-intel-labs-brain-inspired-ai-approach-the-future-of-robot-learning.md",
+      "title": "Is Intel Labs’ brain-inspired AI approach the future of robot learning?",
+      "excerpt": "Intel Labs’ new neuromorphic computing approach is aimed primarily at future applications such as robotic assistants.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/is-intel-labs-brain-inspired-ai-approach-the-future-of-robot-learning/",
+      "originalUrl": "https://venturebeat.com/ai/is-intel-labs-brain-inspired-ai-approach-the-future-of-robot-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/Intel.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/is-intel-labs-brain-inspired-ai-approach-the-future-of-robot-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/is-intel-labs-brain-inspired-ai-approach-the-future-of-robot-learning/amp/",
+      "publishedDateTime": "2022-09-07T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics",
+        "Machine Learning",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-09-07-the-company-that-says-it-is-pioneering-the-golden-age-of-robotics.md",
       "title": "The Company That Says It Is Pioneering the Golden Age of Robotics",
       "excerpt": "That's why Ally Robotics has pioneered user-friendly, low-cost robotic arms to meet this demand and is seeking investors to help them expand. And with so many manufacturers, restaurants, and others yet to adopt automation,",
@@ -939,258 +1196,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-6-ai-companies-disrupting-healthcare-in-2022.md",
-      "title": "6 AI companies disrupting healthcare in 2022",
-      "excerpt": "These AI startups are disrupting a variety of healthcare areas, from drug discovery and operational efficiency to disease detection.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/6-ai-companies-disrupting-healthcare-in-2022/",
-      "originalUrl": "https://venturebeat.com/ai/6-ai-companies-disrupting-healthcare-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1158965842.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/6-ai-companies-disrupting-healthcare-in-2022/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/6-ai-companies-disrupting-healthcare-in-2022/amp/",
-      "publishedDateTime": "2022-09-06T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-how-avatars-and-machine-learning-are-helping-this-company-to-fast-track-digital-transformation.md",
-      "title": "How avatars and machine learning are helping this company to fast track digital transformation",
-      "excerpt": "By developing in-house talent and working with pioneering startups, LNER is moving towards its digital destination – and its experiences provide lessons for all businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-avatars-and-machine-learning-are-helping-this-company-to-fast-track-digital-transformation/",
-      "originalUrl": "https://www.zdnet.com/article/how-avatars-and-machine-learning-are-helping-this-company-to-fast-track-digital-transformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ed783a2f65ffc74133755054e8c6ce6cca442c79/2022/09/06/1a29cd1a-d332-43c1-8155-6e5699e53cdb/lner-azuma-york.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-avatars-and-machine-learning-are-helping-this-company-to-fast-track-digital-transformation/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-avatars-and-machine-learning-are-helping-this-company-to-fast-track-digital-transformation/",
-      "publishedDateTime": "2022-09-06T02:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-banned-us-ai-chips-in-high-demand-at-chinese-state-institutes.md",
-      "title": "Banned U.S. AI chips in high demand at Chinese state institutes",
-      "excerpt": "Local peer Advanced Micro Devices Inc (AMD) also said new licence requirements now prevent export to China of its advanced AI chip MI250. The development signalled a major escalation of a U.S ...",
-      "sourceUrl": null,
-      "webUrl": "https://telecom.economictimes.indiatimes.com/news/analysis-banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes/94024283",
-      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/analysis-banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes/94024283",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-94024283,imgsize-171552,width-1200,height-628,overlay-ettelecom/banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/analysis-banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes/94024283",
-      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/analysis-banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes/94024283",
-      "publishedDateTime": "2022-09-06T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "telecom.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-xiaomi-launches-the-mijia-cooking-robot-with-22l-capacity-voice-control-more.md",
-      "title": "Xiaomi launches the MIJIA Cooking Robot with 2.2L capacity, voice control & more!",
-      "excerpt": "The MIJIA Cooking Robot uses CookingIoT algorithms to control the cooking process and OTA updates will be available for improvement. It also offers a wide range of resolution speeds between 40rpm ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/09/05/xiaomi-mijia-cooking-robot-2-2l-capacity-voice-control-more/",
-      "originalUrl": "https://www.gizmochina.com/2022/09/05/xiaomi-mijia-cooking-robot-2-2l-capacity-voice-control-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/09/MIJIA-Cooking-Robot.jpeg",
-          "width": 849,
-          "height": 637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/09/05/xiaomi-mijia-cooking-robot-2-2l-capacity-voice-control-more/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/09/05/xiaomi-mijia-cooking-robot-2-2l-capacity-voice-control-more/?amp=1",
-      "publishedDateTime": "2022-09-06T01:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-ai-in-fintech-market-inclinations-and-development-status-highlighted-during-forecast-period-2022-to-2027.md",
-      "title": "AI in Fintech Market Inclinations and Development Status Highlighted During Forecast Period 2022 to 2027",
-      "excerpt": "Report Ocean recently added a research report on the AI in Fintech market. The report includes an extensive analysis of the market's characteristics, COVID-19 impact, size and growth, segmentation, regional and country breakdowns,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-inclinations-and-development-status-highlighted-during-forecast-period-2022-to-2027-2022-09-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-inclinations-and-development-status-highlighted-during-forecast-period-2022-to-2027-2022-09-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-05T23:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

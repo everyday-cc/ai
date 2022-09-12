@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/nvidia-ai-chip-export-ban-expected-to-imp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-ai-chip-export-ban-expected-to-impact-u-s-china-ai-race/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -77,6 +77,15 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Reports of Broadening Ban on AI Chip Exports to China Will Only Increase Uncertainty - Analyst"
+    excerpt: "The U.S. government is considering further broadening curbs on exports of top AI chips to China, Reuters reports. The plan is to update regulations next month to include three new companies - KLA Corp (NASDAQ: KLAC ),"
+    publishedDateTime: 2022-09-12T12:20:00Z
+    webUrl: "https://za.investing.com/news/reports-of-broadening-ban-on-ai-chip-exports-to-china-will-only-increase-uncertainty--analyst-432SI-2615039"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 22
   - title: "Analysis-U.S. Ban On Nvidia, AMD Chips Seen boosting Chinese Rivals"
     excerpt: "The U.S. ban on exports to China of Nvidia and AMD's flagship artificial intelligence chips will create new business opportunities for domestic startups jockeying for a piece of China's fast-growing data center chip market,"
     publishedDateTime: 2022-09-08T17:27:00Z

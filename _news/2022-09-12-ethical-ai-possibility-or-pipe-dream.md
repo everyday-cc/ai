@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-12T13:06:00Z
 originalUrl: "https://www.securityweek.com/ethical-ai-possibility-or-pipe-dream"
 webUrl: "https://www.securityweek.com/ethical-ai-possibility-or-pipe-dream"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: SecurityWeek

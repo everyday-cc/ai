@@ -2,6 +2,238 @@
   "page": 86,
   "value": [
     {
+      "path": "_news/2022-06-30-pitch-your-startup-at-tc-sessions-robotics.md",
+      "title": "Pitch your startup at TC Sessions: Robotics",
+      "excerpt": "Robotics 2022 – is coming back virtually July 21. It’s slated to be one of the best programming lineups in the robotics industry with luminaries like U.S. secretary of labor, Marty Walsh; inventor Dean Kamen;",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/30/pitch-your-startup-at-tc-sessions-robotics/",
+      "originalUrl": "https://techcrunch.com/2022/06/30/pitch-your-startup-at-tc-sessions-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Robotics-Sessions.webp?w=1024",
+          "width": 1024,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/30/pitch-your-startup-at-tc-sessions-robotics/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/30/pitch-your-startup-at-tc-sessions-robotics/amp/",
+      "publishedDateTime": "2022-06-30T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-ddn-wins-artificial-intelligence-breakthrough-award-for-third-consecutive-year.md",
+      "title": "DDN Wins Artificial Intelligence Breakthrough Award for Third Consecutive Year",
+      "excerpt": "DDN®, the global leader in artificial intelligence (AI) and multi-cloud data management solutions, today announced that it has received its third consecutive \" AI Hardware Innovation Award \" in the annual AI Breakthrough Awards program conducted by AI Breakthrough,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/06/30/9631886.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/06/30/9631886.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg",
+          "width": 283,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-its-alive-how-belief-in-ai-sentience-is-becoming-a-problem.md",
+      "title": "It’s alive! How belief in AI sentience is becoming a problem",
+      "excerpt": "The issue of machine sentience — and what it means — hit the headlines this month when Google placed a senior software engineer on leave after he went public with his belief that the company’s artificial intelligence (AI) chatbot LaMDA was a self-aware person.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/s-alive-belief-ai-sentience-becoming-problem-rcna36110",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/s-alive-belief-ai-sentience-becoming-problem-rcna36110",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220630-replika-mn-1000-b5d011.jpg",
+          "width": 2500,
+          "height": 1623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna36110",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna36110",
+      "publishedDateTime": "2022-06-30T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-einrides-driverless-electric-pod-approved-for-us-public-roads.md",
+      "title": "Einride's Driverless Electric Pod Approved for US Public Roads",
+      "excerpt": "Swedish transport company Einride got the green light to operate autonomous electric trucks without a driver present on US public roads. The National Highway Traffic Safety Administration approved ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/einrides-driverless-electric-pod-approved-for-us-public-roads",
+      "originalUrl": "https://www.pcmag.com/news/einrides-driverless-electric-pod-approved-for-us-public-roads",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/01rHJw6orrO7bZqmlxZ9Z7H-2.fit_lim.size_1200x630.v1656579363.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-rain-research-group-specialised-ai-and-defense-startup-launches-new-reports.md",
+      "title": "RAIN RESEARCH GROUP - SPECIALISED AI AND DEFENSE STARTUP LAUNCHES NEW REPORTS",
+      "excerpt": "RAIN Research Group, an international research firm, released specialised research and analysis in the defense and artificial intelligence sector. Norine MacDonald QC, the firm's founding President: 'We have launched reports that offer unprecedented insights for startups,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/rain-research-group-specialised-ai-and-defense-startup-launches-new-reports-1031560446",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/rain-research-group-specialised-ai-and-defense-startup-launches-new-reports-1031560446",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-30-retrace-achieves-ehnac-healthcare-network-accreditation.md",
       "title": "Retrace Achieves EHNAC Healthcare Network Accreditation",
       "excerpt": "Retrace , a leader in dental artificial intelligence and the first native-built AI healthcare clearinghouse providing digital infrastructure for US health care, announced today it has achieved full accreditation with the Healthcare Network Accreditation Program (HNAP) for Electronic Health Networks (EHN) from the Electronic Healthcare Network Accreditation Commission.",
@@ -858,221 +1090,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-using-azure-communication-services-for-email.md",
-      "title": "Using Azure Communication Services for email",
-      "excerpt": "use the Microsoft Graph APIs to monitor an Exchange Online mailbox set as the “reply to” address in your messages. This will allow you to use tools like Cognitive Services to generate dynamic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3664938/using-azure-communication-services-for-email.html",
-      "originalUrl": "https://www.infoworld.com/article/3664938/using-azure-communication-services-for-email.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/01/incoming_emails_by_thinkstock_dns_security_locked_server_parked_domain_by_imaginima_gettyimages_3x2_2122x1415-100825984-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3664938/using-azure-communication-services-for-email.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3664938/using-azure-communication-services-for-email.amp.html",
-      "publishedDateTime": "2022-06-29T19:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-birmingham-police-searching-for-missing-veteran-71-with-cognitive-disorder.md",
-      "title": "Birmingham police searching for missing veteran, 71, with cognitive disorder",
-      "excerpt": "Birmingham police asked for the public’s help Wednesday in finding a 71-year-old veteran with a cognitive disorder. Kerry Lee Walker was last seen at 7621 2nd Ave. South wearing a gray shirt ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.al.com/news/birmingham/2022/06/birmingham-police-searching-for-missing-veteran-71-with-cognitive-disorder.html",
-      "originalUrl": "https://www.al.com/news/birmingham/2022/06/birmingham-police-searching-for-missing-veteran-71-with-cognitive-disorder.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T19:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "al.com",
-        "domain": "al.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-databricks-open-sources-delta-lake-data-lake.md",
-      "title": "Databricks open sources Delta Lake data lake",
-      "excerpt": "Databricks is open sourcing Delta Lake to counter criticism from rivals and take on Apache Iceberg as well as data warehouse products from competitors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/699427/databricks-open-sources-delta-lake-data-lake/?fpid=1",
-      "originalUrl": "https://www.reseller.co.nz/article/699427/databricks-open-sources-delta-lake-data-lake/?fpid=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_247131468.jpg",
-          "width": 487,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T18:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-inclusion-of-vr-technology-in-cognitive-rehabilitation-research-and-care-for-multiple-sclerosis.md",
-      "title": "Inclusion of VR technology in cognitive rehabilitation research and care for multiple sclerosis",
-      "excerpt": "In a recent article, Kessler Foundation scientists advocated for the incorporation of virtual reality (VR) technology in cognitive rehabilitation research in multiple sclerosis (MS). They ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220630/Inclusion-of-VR-technology-in-cognitive-rehabilitation-research-and-care-for-multiple-sclerosis.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220630/Inclusion-of-VR-technology-in-cognitive-rehabilitation-research-and-care-for-multiple-sclerosis.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Girl_in_wheelchair-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-new-system-allows-self-driving-cars-to-make-more-human-decisions.md",
-      "title": "New System Allows Self-Driving Cars to Make More Human Decisions",
-      "excerpt": "(Image source: Chelsea Turner) A team of scientists at MIT have created a system using simple maps and visual data to enable driverless cars to navigate ... director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) and a professor ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/humanreasondriving.jpg",
-          "width": 639,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-12T12:10:00Z
 originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-09/57033170-fintech-ecosystem-development-corp-announces-two-fintech-acquisitions-200.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2022-09/57033170-fintech-ecosystem-development-corp-announces-two-fintech-acquisitions-200.htm"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Finanznachrichten

@@ -2,6 +2,214 @@
   "page": 132,
   "value": [
     {
+      "path": "_news/2022-05-31-henson-group-and-ingram-micro-cloud-align-to-deliver-100m-in-azure-sales.md",
+      "title": "Henson Group and Ingram Micro Cloud Align to Deliver $100M+ in Azure Sales",
+      "excerpt": "The Henson Group, an elite Azure Expert MSP, and Ingram Micro Cloud, operator of one of the world's largest cloud marketplaces for the channel, have announced a multi-year agreement to",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailyrecordnews.com/news/state/henson-group-and-ingram-micro-cloud-align-to-deliver-100m-in-azure-sales/article_145290cc-f151-55ea-a25b-b55db039796d.html",
+      "originalUrl": "https://www.dailyrecordnews.com/news/state/henson-group-and-ingram-micro-cloud-align-to-deliver-100m-in-azure-sales/article_145290cc-f151-55ea-a25b-b55db039796d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-31T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ellensburg Daily Record",
+        "domain": "dailyrecordnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-inspur-information-and-megware-build-a-leading-gpu-cluster-for-the-friedrich-alexander-universitat-erlangen-nurnberg.md",
+      "title": "Inspur Information and MEGWARE Build a Leading GPU Cluster for the Friedrich-Alexander-Universität Erlangen-Nürnberg",
+      "excerpt": "Inspur information, a leading IT infrastructure solutions provider, and MEGWARE, a high-performance computing (HPC) solutions provider in Europe, combined efforts to bolster the scientific research capabilities of the Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) through its Erlangen National Center for High-Performance Computing (NHR@FAU).",
+      "sourceUrl": null,
+      "webUrl": "https://www.kentuckytoday.com/news/business/inspur-information-and-megware-build-a-leading-gpu-cluster-for-the-friedrich-alexander-universit-t/article_752e9a52-2c8d-58a1-8aaa-12e31deee52f.html",
+      "originalUrl": "https://www.kentuckytoday.com/news/business/inspur-information-and-megware-build-a-leading-gpu-cluster-for-the-friedrich-alexander-universit-t/article_752e9a52-2c8d-58a1-8aaa-12e31deee52f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-31T00:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kentucky Today",
+        "domain": "kentuckytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-industrial-robot-controllers-market-is-expected-to-exceed-us-16571-mn-by-the-end-of-2029.md",
+      "title": "Industrial Robot Controllers Market Is Expected To Exceed US$ 1657.1 Mn By The End Of 2029",
+      "excerpt": "As per the findings of the report, the global industrial robot controller market is anticipated to see substantial growth over the forecast period, set in motion by increase in the adoption of Human Machine Interaction (HMI),",
+      "sourceUrl": null,
+      "webUrl": "https://www.fmiblog.com/2022/05/31/industrial-robot-controllers-market-is-expected-to-exceed-us-1657-1-mn-by-the-end-of-2029/",
+      "originalUrl": "https://www.fmiblog.com/2022/05/31/industrial-robot-controllers-market-is-expected-to-exceed-us-1657-1-mn-by-the-end-of-2029/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-30T22:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Future Market Insights",
+        "domain": "fmiblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-the-role-of-artificial-intelligence-in-todays-digital-advertising.md",
+      "title": "The role of artificial intelligence in today’s digital advertising",
+      "excerpt": "According to The Insight Partners’ analysis, the worldwide Artificial Intelligence in the marketing sector is estimated to reach US$ 107,535.57 million by 2028, growing at a 31.6% compound ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/brandwagon/the-role-of-artificial-intelligence-in-todays-digital-advertising/2541323/",
+      "originalUrl": "https://www.financialexpress.com/brandwagon/the-role-of-artificial-intelligence-in-todays-digital-advertising/2541323/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/05/Manu-Gupta-ET-Medialabs.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/brandwagon/the-role-of-artificial-intelligence-in-todays-digital-advertising/2541323/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/brandwagon/the-role-of-artificial-intelligence-in-todays-digital-advertising/2541323/lite/",
+      "publishedDateTime": "2022-05-30T22:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-memorial-day-vacuum-sales-save-on-cordless-and-robot-vacuums.md",
+      "title": "Memorial Day vacuum sales: Save on cordless and robot vacuums",
+      "excerpt": "Because the Jet 75 weighs only 6 pounds, you won’t mind switching ... the robotic floor cleaner around your house to schedule cleaning sessions or changing modes, you can control the SpinWave ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/dtdeals/memorial-day-vacuum-sales-2022/",
+      "originalUrl": "https://www.digitaltrends.com/dtdeals/memorial-day-vacuum-sales-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/05/BISSELL-SpinWave-wet-and-dry-robotic-vacuum-cleaning-spilled-dog-food-1.jpg?p=1",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/dtdeals/memorial-day-vacuum-sales-2022/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/dtdeals/memorial-day-vacuum-sales-2022/?amp",
+      "publishedDateTime": "2022-05-30T22:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-05-31-local-robotics-team-finishes-competition-season-with-stellar-showing.md",
       "title": "Local robotics team finishes competition season with stellar showing",
       "excerpt": "“We call FIRST Robotics Competition the ultimate Sport for the Mind,” the organization’s website reads ... where the Titanium Titans practice driving their robot with a remote control. Competition season kicks off in February.",
@@ -866,231 +1074,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-reply-automation-and-artificial-intelligence-are-the-strategic-keys-for-an-effective-defense-against-growing-threats-in-the-digital-world.md",
-      "title": "Reply: Automation and Artificial Intelligence Are the Strategic Keys for an Effective Defense Against Growing Threats in the Digital World",
-      "excerpt": "Smart Homes, Connected Cars, Delivery Robots: this evolution will not stop and so, in tandem, it will be necessary to develop automated and AI-based solutions to combat the growing number of security threats.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-politics-data-privacy-artificial-intelligence-96cf59f99ee348e386831b699eb560aa",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-politics-data-privacy-artificial-intelligence-96cf59f99ee348e386831b699eb560aa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-30T02:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-google-assistant-personalised-speech-recognition-will-help-it-learn-your-most-used-nameswords.md",
-      "title": "Google Assistant 'Personalised speech recognition' will help it learn your most used names/words",
-      "excerpt": "Google's popular assistant will soon gain the ability to learn how you pronounce frequently used words, according to a recent report",
-      "sourceUrl": null,
-      "webUrl": "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition",
-      "originalUrl": "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/161315-phones-news-google-assistant-personalised-speech-image1-ukvcyl6jmb.jpg",
-          "width": 943,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition.amphtml",
-      "cdnAmpWebUrl": "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition.amphtml",
-      "publishedDateTime": "2022-05-30T01:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pocket-lint",
-        "domain": "pocket-lint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-nwu-engineers-develop-a-tiny-remote-controlled-robot-crab.md",
-      "title": "NWU Engineers Develop A Tiny Remote-Controlled Robot Crab!",
-      "excerpt": "Northwestern University engineers have unveiled the world’s tiniest remote-controlled walking robot – a tiny robotic crab! The machine is only a half-millimeter broad and can fit on the edge of a penny with room to spare,",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsforu.com/news/whats-new/nwu-engineers-develop-a-tiny-remote-controlled-robot-crab",
-      "originalUrl": "https://www.electronicsforu.com/news/whats-new/nwu-engineers-develop-a-tiny-remote-controlled-robot-crab",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electronicsforu.com/wp-contents/uploads/2022/05/Low-Res_Fig.-1D-2.jpg-e1653898568941.png",
-          "width": 500,
-          "height": 294,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.electronicsforu.com/news/whats-new/nwu-engineers-develop-a-tiny-remote-controlled-robot-crab/amp",
-      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/nwu-engineers-develop-a-tiny-remote-controlled-robot-crab/amp",
-      "publishedDateTime": "2022-05-30T01:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics For You",
-        "domain": "electronicsforu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-naver-launches-ai-call-service-aimed-at-seniors.md",
-      "title": "Naver launches AI call service aimed at seniors",
-      "excerpt": "Tech giant Naver said Monday that it has officially launched an artificial intelligence-based call service for older people who live alone. The service, Clova AI Contact Center Solution, is operated by the company’s AI technology Hyperclova,",
-      "sourceUrl": null,
-      "webUrl": "https://koreaherald.com/view.php?ud=20220530000643",
-      "originalUrl": "https://koreaherald.com/view.php?ud=20220530000643",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2022%2F05%2F30%2F20220530000595_0.jpg",
-          "width": 630,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://m.koreaherald.com/amp/view.php?ud=20220530000643",
-      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/m.koreaherald.com/amp/view.php?ud=20220530000643",
-      "publishedDateTime": "2022-05-30T00:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Herald",
-        "domain": "koreaherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-human-vs-artificial-intelligence-why-finding-the-right-balance-is-key-to-success.md",
-      "title": "Human Vs. Artificial Intelligence: Why Finding The Right Balance Is Key To Success",
-      "excerpt": "In short, now that we have increasingly capable robots and artificial intelligence (AI) systems – capable of taking on tasks that were previously the sole domain of humans – it’s easier than ever for organizations to leverage intelligent machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/30/human-vs-artificial-intelligence-why-finding-the-right-balance-is-key-to-success/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/30/human-vs-artificial-intelligence-why-finding-the-right-balance-is-key-to-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//629450cfe45063944fd631b9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/30/human-vs-artificial-intelligence-why-finding-the-right-balance-is-key-to-success/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/05/30/human-vs-artificial-intelligence-why-finding-the-right-balance-is-key-to-success/amp/",
-      "publishedDateTime": "2022-05-29T22:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
       ]
     }
   ],

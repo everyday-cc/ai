@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-12T13:36:00Z
 originalUrl: "https://www.forbes.com/sites/stephenibaraki/2022/09/12/top-2023-ieee-innovation-in-societal-infrastructure-awardee-kathleen-mckeown-shares-deep-insights/"
 webUrl: "https://www.forbes.com/sites/stephenibaraki/2022/09/12/top-2023-ieee-innovation-in-societal-infrastructure-awardee-kathleen-mckeown-shares-deep-insights/"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: Forbes

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/loab-the-creepy-ai-art-generate
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/loab-the-creepy-ai-art-generated-woman-explained/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Wonder AI Art Generator App Can Create Unique Images For You"
+    excerpt: "E, which make a lot of noise recently. Well, there is something similar out there that you can download on your"
+    publishedDateTime: 2022-09-12T12:56:00Z
+    webUrl: "https://www.androidheadlines.com/2022/09/wonder-ai-art-generator-android-app.html"
+    type: article
+    provider:
+      name: androidheadlines.com
+      domain: androidheadlines.com
+    quality: 17
 
 secured: "5ncXDYxTbuja6nobww/TvfZx9f7ux0Fg2XpG6i5KYe2WN6PJa2lQBxQE19Vt6J4Zo3idNgXec9lRwoNdmVWfUhxNhbJ9DSwjJCi3V3miyiZaR9zjETvt93iV7dYl86KTv0k+CNX9cvxp//ZPztz7rD1rkV4TOYWYe12sixNOqzThJBHBrc7xNnrOZdA9/WyKYQwN3QEwW18Ymp7mALrTY3Tc7sK/bZhxMoHzouyFjmk6M+Y3reqdsHPjGRFkbVfSgftIUYWSWpI6JRVtyh/070VlDQyTiIxqOrdwhlk8HWMm61yYcOkumxKfVGYaGVipz3sSynpcVkLERHpQdp8h3L24H9Y9mibVF8BfaVMuSpm87mDaLoA8Pa+q/rOoYbJ5ii+rFCDrYwhdjJtO53hMO12rJGS1R77EZVEgPKjfjhd8j2xGCJLNwO/bYghYSBiboFowYG0vWXAknAwkeDUlClj7TUkJC5nxsUVCav7rEj0WWWfWinbG7OLpNMa0zRJF716BqtJyt/xJzs8zRPMjpw==;WrPmkppaU4/GprOXlf8YXw=="
 ---

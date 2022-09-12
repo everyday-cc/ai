@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-12T13:48:00Z
 originalUrl: "https://www.videogamer.com/news/modern-warfare-2-ai-improvements/"
 webUrl: "https://www.videogamer.com/news/modern-warfare-2-ai-improvements/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: VideoGamer.com

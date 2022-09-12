@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-12T12:34:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/vonage-joins-aws-isv-accelerate-program-1031737188"
 webUrl: "https://markets.businessinsider.com/news/stocks/vonage-joins-aws-isv-accelerate-program-1031737188"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Business Insider

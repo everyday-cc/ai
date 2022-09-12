@@ -10,7 +10,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1232,49 +1232,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-31-artificial-intelligence-model-outperforms-clinicians-in-diagnosing-pediatric-ear-infections.md",
-      "title": "Artificial intelligence model outperforms clinicians in diagnosing pediatric ear infections",
-      "excerpt": "An artificial-intelligence (AI) model built at Mass Eye and Ear was shown to be significantly more accurate than doctors at diagnosing pediatric ear infections in the first head-to-head evaluation ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-08-artificial-intelligence-outperforms-clinicians-pediatric.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-08-artificial-intelligence-outperforms-clinicians-pediatric.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-62.jpg",
-          "width": 359,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-08-artificial-intelligence-outperforms-clinicians-pediatric.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-artificial-intelligence-outperforms-clinicians-pediatric.amp",
-      "publishedDateTime": "2022-08-31T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-31-baidu-revenue-hit-as-advertising-tumbles.md",
       "title": "Baidu revenue hit as advertising tumbles",
       "excerpt": "Chinese internet giant Baidu returned to profit in Q2 2022 on one-off gains ... to an “unfavourable macro environment”, but noted its AI cloud and intelligent driving businesses maintained rapid growth momentum. Looking to the second half, Li said ...",
@@ -1341,6 +1298,49 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-artificial-intelligence-model-outperforms-clinicians-in-diagnosing-pediatric-ear-infections.md",
+      "title": "Artificial intelligence model outperforms clinicians in diagnosing pediatric ear infections",
+      "excerpt": "An artificial-intelligence model was shown to be significantly more accurate than doctors at diagnosing pediatric ear infections in the first head-to-head evaluation of its kind. The tool ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/08/220831095009.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/08/220831095009.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
