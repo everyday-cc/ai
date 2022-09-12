@@ -2,6 +2,84 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-05-29-traffic-jams-just-a-maths-problem-says-israeli-ai-firm.md",
+      "title": "Traffic Jams Just A Maths Problem, Says Israeli AI Firm",
+      "excerpt": "ITC, or Intelligent Traffic Control, was one of the artificial intelligence players at Tel Aviv's recent EcoMotion showcase where high-tech and AI firms hope to make transport more efficient and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/traffic-jams-just-maths-problem-says-israeli-ai-firm-3524768",
+      "originalUrl": "https://www.ibtimes.com/traffic-jams-just-maths-problem-says-israeli-ai-firm-3524768",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/05/28/yoav-elgrichi-ceo-and-co-founder-of-rider.jpg",
+          "width": 768,
+          "height": 517,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-28T20:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-28-asian-shares-rise-broadly-cheered-by-us-earnings-rally.md",
+      "title": "Asian shares’ rise broadly cheered by US earnings, rally",
+      "excerpt": "“Improved risk sentiments in Wall Street, along with earnings outperformance from Alibaba and Baidu, may aid to fuel ... banks and retailers driving much of the rally. While trading has remained ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thenewstribune.com/news/business/article261812627.html",
+      "originalUrl": "https://www.thenewstribune.com/news/business/article261812627.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.thenewstribune.com/news/business/article261812627.html",
+      "cdnAmpWebUrl": "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article261812627.html",
+      "publishedDateTime": "2022-05-27T15:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Tribune",
+        "domain": "thenewstribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-27-artificial-intelligence-solipsism-and-political-reality.md",
       "title": "Artificial Intelligence, Solipsism and Political Reality",
       "excerpt": "Someone of considerable accomplishment with a good playful sense of humor took the time to write to me recently to ask if I was Artificial Intelligence (AI), and claimed this communication was ...",
@@ -1228,92 +1306,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-self-driving-vehicle-start-up-minus-zero-raises-17mn-in-seed-fund.md",
-      "title": "Self-driving vehicle start-up Minus Zero raises $1.7mn in seed fund",
-      "excerpt": "Minus Zero, the self-driving vehicle start-up, has raised $1.7 million in a seed round led by Chiratae Ventures and clocking participation from JITO Angel Network. Angel investors from the autonomous vehicles industry,",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/companies/self-driving-vehicle-start-up-minus-zero-raises-1-7mn-in-seed-fund-122052301068_1.html",
-      "originalUrl": "https://www.business-standard.com/article/companies/self-driving-vehicle-start-up-minus-zero-raises-1-7mn-in-seed-fund-122052301068_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-05/23/full/1653301694-2772.png",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/self-driving-vehicle-start-up-minus-zero-raises-1-7mn-in-seed-fund-122052301068_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/self-driving-vehicle-start-up-minus-zero-raises-1-7mn-in-seed-fund-122052301068_1.html",
-      "publishedDateTime": "2022-05-23T03:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-a-start-up-aims-to-bring-driverless-cars-to-indian-roads.md",
-      "title": "A start-up aims to bring driverless cars to Indian roads",
-      "excerpt": "Minus Zero, co-founded by Gagandeep Reehal and Gursimran Kalra, aims to make autonomous vehicles popular in India. Last year in April it had successful tested its prototype, an au",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/",
-      "originalUrl": "https://www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/05/driverless-cars-cashless-future-1140x641-1.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/lite/",
-      "publishedDateTime": "2022-05-23T00:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

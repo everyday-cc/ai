@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The Head of Google Says Future AI Must Align with Human Values"
-    excerpt: "Google and Alphabet CEO Sundar Pichai talked about the issues surrounding the company's pivot to artificial intelligence and more."
-    publishedDateTime: 2022-09-07T14:39:00Z
-    webUrl: "https://www.pcmag.com/news/the-head-of-google-says-future-ai-must-align-with-human-values"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/05NdJNZwhf0rpoPHYGrtAgS-1.fit_lim.size_1200x630.v1662561158.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Artificial intelligence and creative marketing—how brands and agencies should experiment"
     excerpt: "Cheng, was at the helm of the Cosmo project, using OpenAI’s Dall·E 2 as a different kind of creative tool. Because without good creative guidance, the output isn’t that great—as in Dall·E 2 interpreting an “Ad Age magazine cover:” To get a more creative result requires a lot of interplay and dancing together with concepts and variations,"
     publishedDateTime: 2022-09-08T09:30:00Z

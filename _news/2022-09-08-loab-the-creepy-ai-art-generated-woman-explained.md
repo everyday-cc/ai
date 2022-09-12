@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/loab-the-creepy-ai-art-generate
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/loab-the-creepy-ai-art-generated-woman-explained/"
 type: article
 quality: 87
-heat: 117
+heat: 97
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meet Loab, The AI Art-Generated Demon Currently Haunting The Internet"
-    excerpt: "The viral thread currently making the rounds on Twitter, and no doubt headed to Instagram and TikTok soon, is Supercomposite describing how they were messing around with negative prompt weights in AI art generators,"
-    publishedDateTime: 2022-09-07T13:19:00Z
-    webUrl: "https://www.forbes.com/sites/paultassi/2022/09/07/meet-loab-the-ai-art-generated-demon-currently-haunting-the-internet/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "An AI-generated picture won an art prize. Artists aren’t happy."
     excerpt: "This year, the Colorado State Fair’s annual art competition gave out prizes in all the usual categories: painting, quilting, sculpture."
     publishedDateTime: 2022-09-10T00:00:00Z
@@ -52,20 +43,6 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--z1xo9sBq--/c_fill%2Cg_auto%2Ch_676%2Cw_1200/f_auto%2Cq_auto/v1/mediacorp/tdy/image/2022/09/07/20220907_nyt_aiart.jpg?itok=8LHesjBa"
         width: 1200
         height: 676
-        isCached: true
-  - title: "Meet Loab: The Terrifying Face The Internet Has Dubbed the First AI Art Cryptid"
-    excerpt: "An AI art enthusiast has apparently stumbled across a creepy, recurring image – now known as Loab – which appears to be more easily generated than you'd ever expect (or want). The Internet has now dubbed Loab the first AI art cryptid."
-    publishedDateTime: 2022-09-07T13:17:00Z
-    webUrl: "https://www.ign.com/articles/loab-first-ai-art-cryptid"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 35
-    images:
-      - url: "https://assets-prd.ignimgs.com/2022/09/07/thumbnail-1662560482528.jpg?width=1280"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "5ncXDYxTbuja6nobww/TvfZx9f7ux0Fg2XpG6i5KYe2WN6PJa2lQBxQE19Vt6J4Zo3idNgXec9lRwoNdmVWfUhxNhbJ9DSwjJCi3V3miyiZaR9zjETvt93iV7dYl86KTv0k+CNX9cvxp//ZPztz7rD1rkV4TOYWYe12sixNOqzThJBHBrc7xNnrOZdA9/WyKYQwN3QEwW18Ymp7mALrTY3Tc7sK/bZhxMoHzouyFjmk6M+Y3reqdsHPjGRFkbVfSgftIUYWSWpI6JRVtyh/070VlDQyTiIxqOrdwhlk8HWMm61yYcOkumxKfVGYaGVipz3sSynpcVkLERHpQdp8h3L24H9Y9mibVF8BfaVMuSpm87mDaLoA8Pa+q/rOoYbJ5ii+rFCDrYwhdjJtO53hMO12rJGS1R77EZVEgPKjfjhd8j2xGCJLNwO/bYghYSBiboFowYG0vWXAknAwkeDUlClj7TUkJC5nxsUVCav7rEj0WWWfWinbG7OLpNMa0zRJF716BqtJyt/xJzs8zRPMjpw==;WrPmkppaU4/GprOXlf8YXw=="

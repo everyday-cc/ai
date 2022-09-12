@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intel
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intelligence-and-the-future-of-marketing/amp/"
 type: article
 quality: 108
-heat: 158
+heat: 148
 published: true
 
 provider:
@@ -33,20 +33,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Head of Google Says Future AI Must Align with Human Values"
-    excerpt: "Google and Alphabet CEO Sundar Pichai talked about the issues surrounding the company's pivot to artificial intelligence and more."
-    publishedDateTime: 2022-09-07T14:39:00Z
-    webUrl: "https://www.pcmag.com/news/the-head-of-google-says-future-ai-must-align-with-human-values"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/05NdJNZwhf0rpoPHYGrtAgS-1.fit_lim.size_1200x630.v1662561158.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "AI and machine learning are transforming inventory optimization"
     excerpt: "Lakshmanan is the CEO of antuit.ai, a cloud-based software company, now part of Zebra Technologies, which provides what we used to call multi-echelon inventory optimization right down to the shelf level for retailers."
     publishedDateTime: 2022-09-09T00:00:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2022-09-12T05:23:00Z
 originalUrl: "https://www.news.com.au/entertainment/celebrity-life/royals/pointed-message-hidden-in-king-charles-speech/news-story/8d774a890ef8d2cd0cc6b350e90d2723"
 webUrl: "https://www.news.com.au/entertainment/celebrity-life/royals/pointed-message-hidden-in-king-charles-speech/news-story/8d774a890ef8d2cd0cc6b350e90d2723"
 type: article
-quality: 4
+quality: 6
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
 related:
   - title: "Charles becomes king as the face of a nation changes"

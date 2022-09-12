@@ -173,15 +173,6 @@ related:
         width: 1537
         height: 1093
         isCached: true
-  - title: "King Charles III Delivers His First Speech as Monarch"
-    excerpt: "Queen Elizabeth's \"promise of lifelong service I renew to you all today,\" the new British king said in a somber address."
-    publishedDateTime: 2022-09-09T17:23:00Z
-    webUrl: "https://www.townandcountrymag.com/society/tradition/a41122583/king-charles-iii-first-speech-transcript/"
-    type: article
-    provider:
-      name: Town & Country
-      domain: townandcountrymag.com
-    quality: 4
   - title: "Pointed message hidden in King Charles’ speech"
     excerpt: "In King Charles’ nine-and-a-half minutes-long first speech, there was a specific line laden with special significance."
     publishedDateTime: 2022-09-12T05:23:00Z
@@ -190,6 +181,15 @@ related:
     provider:
       name: Couriermail
       domain: news.com.au
+    quality: 6
+  - title: "King Charles III Delivers His First Speech as Monarch"
+    excerpt: "Queen Elizabeth's \"promise of lifelong service I renew to you all today,\" the new British king said in a somber address."
+    publishedDateTime: 2022-09-09T17:23:00Z
+    webUrl: "https://www.townandcountrymag.com/society/tradition/a41122583/king-charles-iii-first-speech-transcript/"
+    type: article
+    provider:
+      name: Town & Country
+      domain: townandcountrymag.com
     quality: 4
   - title: "Read King Charles's First Speech as the New Sovereign of the United Kingdom"
     excerpt: "The king honored his late mother, Queen Elizabeth, and praised his wife and sons in his address to the nation."

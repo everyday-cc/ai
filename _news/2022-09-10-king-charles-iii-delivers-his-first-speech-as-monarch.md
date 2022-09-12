@@ -190,7 +190,7 @@ related:
     provider:
       name: Couriermail
       domain: news.com.au
-    quality: 4
+    quality: 6
   - title: "Read King Charles's First Speech as the New Sovereign of the United Kingdom"
     excerpt: "The king honored his late mother, Queen Elizabeth, and praised his wife and sons in his address to the nation."
     publishedDateTime: 2022-09-09T18:19:00Z

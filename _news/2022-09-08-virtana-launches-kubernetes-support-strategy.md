@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/this-just-in/virtana-launches-kubernetes-
 webUrl: "https://www.datanami.com/this-just-in/virtana-launches-kubernetes-support-strategy/"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Virtana Launches Kubernetes Support Strategy Across the Portfolio with Container Rightsizing in Infrastructure Monitoring and Cloud Cost Optimization"
-    excerpt: "Optimizing Container Environments for Amazon Web Services (AWS) and Microsoft Azure Cloud Users to Meet Agility Needs and Risk TolerancePALO"
-    publishedDateTime: 2022-09-07T13:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/virtana-launches-kubernetes-support-strategy-across-the-portfolio-with-container-rightsizing-in-infrastructure-monitoring-and-cloud-cost-optimization-1031729231"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 10
   - title: "Virtana Introduces a Kubernetes Support Strategy Across Entire Portfolio"
     excerpt: "Virtana, a provider of AI-driven solutions for hybrid cloud management and monitoring, announced new Kubernetes strategy that will deliver container support across the full portfolio of Virtana Platform solutions."
     publishedDateTime: 2022-09-08T15:45:00Z

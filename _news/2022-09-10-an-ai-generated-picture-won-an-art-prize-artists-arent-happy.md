@@ -41,29 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Meet Loab, The AI Art-Generated Demon Currently Haunting The Internet"
-    excerpt: "The viral thread currently making the rounds on Twitter, and no doubt headed to Instagram and TikTok soon, is Supercomposite describing how they were messing around with negative prompt weights in AI art generators,"
-    publishedDateTime: 2022-09-07T13:19:00Z
-    webUrl: "https://www.forbes.com/sites/paultassi/2022/09/07/meet-loab-the-ai-art-generated-demon-currently-haunting-the-internet/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Meet Loab: The Terrifying Face The Internet Has Dubbed the First AI Art Cryptid"
-    excerpt: "An AI art enthusiast has apparently stumbled across a creepy, recurring image – now known as Loab – which appears to be more easily generated than you'd ever expect (or want). The Internet has now dubbed Loab the first AI art cryptid."
-    publishedDateTime: 2022-09-07T13:17:00Z
-    webUrl: "https://www.ign.com/articles/loab-first-ai-art-cryptid"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 35
-    images:
-      - url: "https://assets-prd.ignimgs.com/2022/09/07/thumbnail-1662560482528.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "VCFSuix4gaOsmk7wqODdihNgUE5jd2TIFme1VoTbY03yRj3QboYVVm4Hp5amo2bJEzloYABTAxyvCrWGOhxFPXPFxdoeHWpilLDEzlT5jUqqnLZZPEGxuoXQnovHjXJYQXH4wCwR3xi1V724TyMo6cymZQmQmGeR25FTjJn36mAAS6Z23CG+1hsS7+jqE4pgzSGYKS+v4kvXOq7U3tjLSPZwCLPedE2gUF9bIytZ9U4hOg2WhV+zzVT3XCrO/8TYhxLqWd3OQqCheboE982AjJY7E2x6bwuvwdBRRNeOa7H8zTcOWBe6wROl/OD2zWMtrtV8KeHoewuBT/oORuJJ2/q0hf8XCkFajOPPEGfx93wE27ZYQOTrai/wqhlsHCYA52adAh6PIobW00J5wTGIm1FJBvBxFXf8AA+3zoQUjSNuO4LUDfAAI/MKkasogK6Ft80ZJ1jJUjBR4o4LjcHaHv0gJCEEgl34MBYYniNR45IE6SorrqjgcoH0dpqkB+PvTduOUsJc3ZpA3Pcw68VsmA==;dQG/m2QIL3uq1pOuA7YtQQ=="
 ---

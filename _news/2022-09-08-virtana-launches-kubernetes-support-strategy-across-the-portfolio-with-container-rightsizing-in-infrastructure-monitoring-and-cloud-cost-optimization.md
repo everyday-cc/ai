@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Virtana Launches Kubernetes Support Strategy Across the Portfolio with Container Rightsizing in Infrastructure Monitoring and Cloud Cost Optimization"
-    excerpt: "Optimizing Container Environments for Amazon Web Services (AWS) and Microsoft Azure Cloud Users to Meet Agility Needs and Risk TolerancePALO"
-    publishedDateTime: 2022-09-07T13:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/virtana-launches-kubernetes-support-strategy-across-the-portfolio-with-container-rightsizing-in-infrastructure-monitoring-and-cloud-cost-optimization-1031729231"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 10
   - title: "Virtana Launches Kubernetes Support Strategy"
     excerpt: "Virtana, a leading provider of AI-driven solutions for hybrid cloud management and monitoring, announces a new"
     publishedDateTime: 2022-09-07T20:00:00Z

@@ -8,8 +8,8 @@ webUrl: "https://www.wxyz.com/news/national-politics/the-race/artificial-intelli
 ampWebUrl: "https://www.wxyz.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true"
 cdnAmpWebUrl: "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://cdn.newsy.com/images/videos/m/1660250991_F4WYcV.jpg"
@@ -25,6 +26,6 @@ images:
     height: 360
     isCached: true
 
-secured: "CUzYlM3eG14iSEX2TbbPApveo0bI+RBQkTILI3+EMPL1y7EdnGWMUbihfI5lQZL74Xe+QEbWzYwMLUPo5Pi5ZwVKJsyOtr7d9INsKXDEIJxYhNkEZSk/CJqC37OZgSVHUrVvNL7HBdafGbq5l90Yz0Zcf6aXPqhNyWzlYZmHYEPuGsQAgdybwOHxH+8fV2Be1ONorFZxNdngfywerJQg8a6vmFYrvnkbpwjk8X+XzF/jGKdozbbWalDL+P4gCly8uC9k3IqalCNGCFMr7DqwrPlSUPmZAZhJzWaD5WGQAza74uIJBwhEPcvg3pB4tSHvUTHX9trrf8592cnasm79ZdOw3wX1W5RpXwax2MtJOyg=;Uajzv//FqIee8iWNTLb8qA=="
+secured: "Wr2SHAZnlhs6iXAy7gYbO+1l5FGZ11yAYbH9IxbnRVbVZBVA3WBKAz4yJL0bDtZRB/KP8n/c54mPRFR25t82AF81YkmkF8Vrr8cjYzgp6ER/I8vIvwNFGyn+uHeHLMs7OvH7ONYwXGWeKAAKfQHc+IJAtq/uYOq90SOrc+fMIE/NszywbB2ddzBVF73sCArW+I11yVxEzV04c4j9FKuqwxaXW5Mffi5T+DXBp/CAPcZ5K+3AcRTRjx59unrXyl63C7PR4gkMgTgG2F7ZO2WGznNUqq5QQ2yE8QjRrLrnTX03bA7HSqKEYjXc9daiKJkm12Jah9Pum7lWlS93c+lnvO58rkzD15clh2go/xqkw2yIwtuk9uEn1OgmTSPzCOUH2bCuB6pYcUoghkkc4nNfxuFgvB4KJjOeGBG8W7RVb4kdhoPAwstX7rL/05MR8/kxVAdzWnYf7OYvptSHBUzO5XdQN0/D/fL/zzMCq4ntMMKmPYKK32DJgzvkkORtj5o/ezcIsWyiGiiV0rmVc8YGHg==;deumTH5PVZp798ny47LauA=="
 ---
 

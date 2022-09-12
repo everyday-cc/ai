@@ -28,17 +28,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "A low-cost, viable solution for self-driving cars to spot hacked GPS"
-    excerpt: "A lot of hurdles remain before the emerging technology of self-driving personal and commercial vehicles is common, but transportation researchers at The University of Alabama developed a promising, inexpensive system to overcome one challenge: GPS hacking that can send a self-driving vehicle to the wrong destination."
-    publishedDateTime: 2022-09-07T13:15:00Z
-    webUrl: "https://techxplore.com/news/2022-09-low-cost-viable-solution-self-driving-cars.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 4
-
 secured: "QFh5BzomNIhMpqMEvfwW5SYZP3397cs6ZpM5DkOyIUmjMuu0KDqgIgMdEdpUN+PbBtn2aBYjlUqpxYWQfOM61Czt3HmnF2OPHTGQo37tCKrKOqZmLcXUA+WGN4YMF6ndb62j5zNgBA9PPxOCyaKfL/Xv6omiixhPIU+pqAkd+IXlEU/bJ/SPUq0dBVRfSfkUerybAfY+9HJpeOqi8gue5xN8xTy5FpLf4E73e6Lhq7FqOB05k9ETMmCU2cs3I65fTKSdq6vDl2MmtmhdolrqzMvRmA4n3RVcP8gSjQ0+WEEJCL3anEt1EO98vL0LuQvyLlFVlXq0rFr7V/Z23i9X1mSBnySc4sdTdVLUouBe5Yb7tbOflObhjQ6vfq/ZuJjfCFA0TL2yetvs56qvgv5BAuIxE7pm/2YZGiHUI+qZCAV2GmS4KEHKA6zPb/BmtLrssSuahnSgzwLjnVl9soZJ+srjoFZGj5/6p/sGbuHV3uGwrtYoE9+sHufVKVUKlVa9DASyTlftSCPWRXjca6THFw==;sPDpHL7El0ymSJmRG1TlOQ=="
 ---
 

@@ -81,20 +81,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "U.S. deals blow to China tech ambitions with Nvidia chip ban"
-    excerpt: "Nvidia can no longer sell certain high-end AI chips that are used in large data centers to train AI models for tasks such as autonomous driving, image recognition and voice assistance."
-    publishedDateTime: 2022-09-07T14:02:00Z
-    webUrl: "https://europe.autonews.com/suppliers/us-deals-blow-china-tech-ambitions-nvidia-chip-ban"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 41
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/Nvidia%20sign%20B%20web.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "vjNnxkSZqUbwRJ+jlO6EF854esU7lyvmoal/GNEyeNag7pltn7PEuNLdoRs7v7tO4/va38iLGINnkgueUeKOan1T22hph/anmZpnd+96eQls0P7HAm8iq3y24wBiIzMR9K1wqHwqaxppWzUyK6F6CnR+VpLdBmlObh9wqZRtZA+5KrzzpCEjfVtr+mbtYZNkjQdnapUsp4lThisASJyLf+LF0ttVYp7OmYaJ8CEk/NZtdjTNvdnTN79M1Owd5FZyLF8Vdy9KdrhImcGmwZ+rP4UXpuCyUwKo0nfpJjR74Dqfx+sv0uWRThuVNLjZMbbatRvSfOxrWyiH0OtBVwuwMXSsqqwaIS0wn/LV6U2ERGsAWDOFn86rATXJncaYAVC6H6JXR5VOgZ78Oet22b9daxuBtqD34H1DuelX2u0lbsVYk8TWu4K2joEEtsbZeSE7SbJCZtB74UMgBhn1RcRd2zPFFZvkCeplE9Cee7W6VnLxi8RxColtNyE+1Yf039SIiLfLp0TFsHuIMjdqvDw8YA==;UXv6qoSSUKY8WjUEUb5cbA=="
 ---

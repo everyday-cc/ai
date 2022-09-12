@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/robtoews/2022/09/11/4-hot-takes-about-the-
 ampWebUrl: "https://www.forbes.com/sites/robtoews/2022/09/11/4-hot-takes-about-the-wild-new-world-of-generative-ai/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/09/11/4-hot-takes-about-the-wild-new-world-of-generative-ai/amp/"
 type: article
-quality: 89
-heat: 129
+quality: 91
+heat: 131
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/631cc1be4103d0cf19fe5860/0x0.jpg?format=jpg&crop=1024,576,x0,y283,safe&width=1200"
