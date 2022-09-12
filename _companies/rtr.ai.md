@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "realtime_i"
   url: "https://twitter.com/realtime_i"
-  followers: 1340
+  followers: 1341
 
 size: 2-10 employees
 yearFounded: 2016
