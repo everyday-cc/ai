@@ -37,19 +37,19 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Truly autonomous cars may be impossible without helpful human touch"
-    excerpt: "Autonomous vehicle (AV) startups have raised tens of billions of dollars based on promises to develop truly self-driving cars, but industry executives and experts say remote human supervisors may be"
-    publishedDateTime: 2022-09-12T07:45:00Z
-    webUrl: "https://www.asiaone.com/lifestyle/truly-autonomous-cars-may-be-impossible-without-helpful-human-touch"
+  - title: "Truly Autonomous Cars May Be Impossible Without Helpful Human Touch"
+    excerpt: "Autonomous vehicle (AV) startups have raised tens of billions of dollars based on promises to develop truly self-driving cars, but industry executives and experts say remote human supervisors may be needed permanently to help robot drivers in trouble."
+    publishedDateTime: 2022-09-12T06:48:00Z
+    webUrl: "https://www.ibtimes.com/truly-autonomous-cars-may-impossible-without-helpful-human-touch-3611808"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
+      name: International Business Times
+      domain: ibtimes.com
     quality: 24
     images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Sep2022/20221209_autonomous_car_human_touch.jpg?itok=rjQKyqZ2"
-        width: 800
-        height: 567
+      - url: "https://d.ibtimes.com/en/full/3815976/operator-controls-fetch-driverless-car-during-driverless-car-trials-milton-keynes.jpg"
+        width: 1200
+        height: 658
         isCached: true
 
 secured: "pjjm58tC+otU5w+7u09nK4wWU0qBb9u15dDFefpP+d3A1BrgAM/c0z1NlUTF75Mgqg4Q1B0Kb10NVWs4kVXAhsbaNx94sTgIDarjMGDKUAxL5vWYWT+KIdLxtxXvMXfP1aOEacBe292CAERPKnTInPJdSav6fXAwyCYRb4/gUQEre4ApaUmkTbNL+FKYxdAjsH7I5SjwdhP6fd2rSZduvTNByzmoIigUlwPK6Rj5tTRdrVynbrkCtA+Zo9a0XGXOroTLSJD2A+LQiHrwUS2dtP1XF14suriSfHURkUEyzfjY0c3GKcroQckOuw7UC7MUGYniHqoh4uCqNMRGE0ww1/uOgkZSE4g6KlCmlJgeUQHnqSNfTVnKRxeKnuwN7KIuBAFs78wxjmVokTGSKeNKdFEFaqXIx0AEz5YCOyuwYpmYh7ztloacKJsoSWei+TiQoFXgdzQOEueKt+co/1IxoqiFNZHHc0T23ooEdA6wBP0ChDKa0fSV94bxAC0rEd3y+Agd4dzzzLiuWs5PbFW/Kw==;Q1gwV57fHdK4rsRDiN5w1w=="

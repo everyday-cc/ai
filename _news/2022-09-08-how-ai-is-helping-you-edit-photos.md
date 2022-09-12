@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popsci.com/technology/ai-photo-editing-apps/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-photo-editing-apps/?amp"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "How artificial intelligence is helping to restore works of art"
-    excerpt: "And it is benefitting more and more from the latest technological advances, especially in terms of artificial intelligence. The start-up Oxia Palus is training one such AI to accurately ..."
-    publishedDateTime: 2022-09-07T15:12:00Z
-    webUrl: "https://www.forbesindia.com/article/lifes/how-artificial-intelligence-is-helping-to-restore-works-of-art/79579/1"
-    ampWebUrl: "https://www.forbesindia.com/amp/article/lifes/how-artificial-intelligence-is-helping-to-restore-works-of-art/79579/1"
-    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/how-artificial-intelligence-is-helping-to-restore-works-of-art/79579/1"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 59
-    images:
-      - url: "https://www.forbesindia.com/media/images/2022/Sep/img_193503_artandaibg.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "How artificial intelligence is helping to restore works of art"
     excerpt: "Art restoration is a discipline that combines passion, patience and resourcefulness. And it is benefitting more and more from the latest technological advances, especially in terms of artificial intelligence."
     publishedDateTime: 2022-09-08T07:00:00Z

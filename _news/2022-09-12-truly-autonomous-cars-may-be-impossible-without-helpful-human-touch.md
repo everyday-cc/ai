@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Truly autonomous cars may be impossible without helpful human touch"
-excerpt: "Autonomous vehicle (AV) startups have raised tens of billions of dollars based on promises to develop truly self-driving cars, but industry executives and experts say remote human supervisors may be"
-publishedDateTime: 2022-09-12T07:45:00Z
-originalUrl: "https://www.asiaone.com/lifestyle/truly-autonomous-cars-may-be-impossible-without-helpful-human-touch"
-webUrl: "https://www.asiaone.com/lifestyle/truly-autonomous-cars-may-be-impossible-without-helpful-human-touch"
+title: "Truly Autonomous Cars May Be Impossible Without Helpful Human Touch"
+excerpt: "Autonomous vehicle (AV) startups have raised tens of billions of dollars based on promises to develop truly self-driving cars, but industry executives and experts say remote human supervisors may be needed permanently to help robot drivers in trouble."
+publishedDateTime: 2022-09-12T06:48:00Z
+originalUrl: "https://www.ibtimes.com/truly-autonomous-cars-may-impossible-without-helpful-human-touch-3611808"
+webUrl: "https://www.ibtimes.com/truly-autonomous-cars-may-impossible-without-helpful-human-touch-3611808"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Sep2022/20221209_autonomous_car_human_touch.jpg?itok=rjQKyqZ2"
-    width: 800
-    height: 567
+  - url: "https://d.ibtimes.com/en/full/3815976/operator-controls-fetch-driverless-car-during-driverless-car-trials-milton-keynes.jpg"
+    width: 1200
+    height: 658
     isCached: true
 
 related:
@@ -53,6 +53,6 @@ related:
         height: 400
         isCached: true
 
-secured: "CoXo4jLPA22nQvnkCuMgzCIc558TR3b4aDjLqFxgK742YpGmkpQVIRWfWIGXKvJ8BNbUX8Gh4HGU73u9XZ9xstbTn2rpTRq61L+z/+4JP237vXavv1PZg+304dR6UTnF6ePFFgvSKUc3/ucNgBJG5XPvV8dsB4Apc6bKjbsRRdfx4qIkjeejidUdexBiAowdZoTdPl7L+KcnvuNg7G3XhSi1I3lMhW2Gu14w7PsCUZfhQO7nW+z/rugvF1JVYR7yZA1hX1k5XqK3/RlkW6J85615dhJJkh4bOQUx0nfz8GzkMEDp/BTcDX+tjUknEnZvSTPyPcoQ4+wZt/GoqK9yqxLV+VpD5a519I86yG1BpvE=;CKWXwk/BtGpwoFOE1G0A4Q=="
+secured: "3rgUuB5yLoWibS2Sm+61S4F1r2GuQIEoZDZFVFJLU8ifm6/m6YOI2wY3pja0CyaP52k2rMDz/eiLazV4qOOnCKqLxgKrgWxOLYmkAW6kQXxKJSSfhhBYetuV+FBW0jcK6RdCecujlSHyeG5uIKNRZZrFsqqsGs2Fl39bN2CYxijqN1HMGnp5ly4fmzZG9T8PMgY+9BA6s2UZ8Vv/7OWfMS+CowuIQMOfaJDZMuo32XdB9A/FL28QdAflthFf8DlcwJAdJgvyMQFmXN/+83ycg5edUZww1r6BJJ3YnESu4k4hHof/XQjcZIJ3BTLZXYzI3C13UxpTkuokhzPt+AXpS0ErxMfHWPb+9WweCotBmAo=;lFmQJye2+mSsyanzV6iuJA=="
 ---
 
