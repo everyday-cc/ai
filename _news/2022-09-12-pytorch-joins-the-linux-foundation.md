@@ -7,7 +7,7 @@ originalUrl: "https://sdtimes.com/software-development/pytorch-joins-the-linux-f
 webUrl: "https://sdtimes.com/software-development/pytorch-joins-the-linux-foundation/"
 type: article
 quality: 71
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 37
+  - title: "AMD Joins New PyTorch Foundation as Founding Member To Promote Broader Adoption of Artificial Intelligence and Machine Learning Capabilities"
+    excerpt: "AMD (NASDAQ: AMD) today announced it is joining the newly created PyTorch Foundation as a founding member. The foundation, which will be part of the non-profit Linux Foundation, will drive adoption of Artificial Intelligence (AI) tooling by fostering and sustaining an ecosystem of open source projects with PyTorch,"
+    publishedDateTime: 2022-09-12T13:32:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-science-software-philanthropy-artificial-intelligence-e377405a8eeb4b4a8afc6c3077ef7bdc"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 36
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Announcing the PyTorch Foundation to Accelerate Progress in AI Research"
     excerpt: "Since 2016, when we partnered with the AI community to create the PyTorch framework for AI research, open collaboration has been essential to its success. With thousands of contri"
     publishedDateTime: 2022-09-12T13:00:00Z
@@ -81,6 +95,6 @@ related:
       domain: datanami.com
     quality: 21
 
-secured: "yTPoGEM/F1XP7NjR6Vl2Bo24wU6i9EyQow2JdBup1cimEccIS12bjHTv//c3HVPw7S+11KqmPc4WVpaZWpnoykmfNZ48qt+oD75Vc5gLC0nJgzQHy0zfrxPmBQpnAV2hmXxxxQ5mJZ/QuJoIXQ35l/WUq9t53P2/+F9qe2338+vMkqiDL+VMBlvaXFjTPnuLPvy0qpodTHdXS1gyRN8sayOso9SWPM3wKZ43IRvzOP4NC1Xh+6cyRUUnpTR2yNTWwqVtBfp1VUV7zKEmRmw1hNNHPJav2h08PFEbsuexokoU1f3i6EmD2TY4SerVf2s7i4j4FTTWw1XNly7klsre6PTqNhUYH55V4MjRMOWyQPQ=;N7aU0YOZpj9OBSExG3JZAQ=="
+secured: "mnErD6aFrag6WF9T5V3IDCUVBgHQ02JBOi5SrLlwLNrkzP77s+Y8oeBs0/7KUbPM1oNfOZWGw30dROQhKYIesNG5nDOuhilT43o0QDIrFhON3QAi0Q05pH8KRBWRQNVlxl7gF75TpddQ6iC39Nx4jrlcJYJPTmAyWOcFv2TqTUaAAczyCXZ4dsrbvOv6BlxUgnRZgaVXrcSI3xSw/UoVptTPYaepzP76TxzhEc/1VJgfXF8ffeU8K9D5uVaU86pMFyg0IYwwPZHMz4WwjyCZISeu1G2o8oGc1ZgnB+e4t+KLyZF+OJ6NBkzEbZONWmL9KRtq3uLjN+I/8JOxbbcZKSSJhuH1DT2dqrCMlSPsJ833gbuQYg9Rfu7EyqjzQACFOoSqMHthCkRsRq9atCk8dMXWD8ef05DZuRfpplQ1O7FWMzpe67klDvA65sAYOa2XDTQPmK/dIOpqTSoidDdfaUEvxoBWI3MJYilTFx66bEB/l+0Rvg5v1nkgJBvygB718VHBcWW/f5skTRmjCNjxdA==;uYF4VL86iX3n7O3C1bCpCA=="
 ---
 

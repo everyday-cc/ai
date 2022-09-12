@@ -49,6 +49,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 37
+  - title: "AMD Joins New PyTorch Foundation as Founding Member To Promote Broader Adoption of Artificial Intelligence and Machine Learning Capabilities"
+    excerpt: "AMD (NASDAQ: AMD) today announced it is joining the newly created PyTorch Foundation as a founding member. The foundation, which will be part of the non-profit Linux Foundation, will drive adoption of Artificial Intelligence (AI) tooling by fostering and sustaining an ecosystem of open source projects with PyTorch,"
+    publishedDateTime: 2022-09-12T13:32:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-science-software-philanthropy-artificial-intelligence-e377405a8eeb4b4a8afc6c3077ef7bdc"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 36
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Announcing the PyTorch Foundation to Accelerate Progress in AI Research"
     excerpt: "Since 2016, when we partnered with the AI community to create the PyTorch framework for AI research, open collaboration has been essential to its success. With thousands of contri"
     publishedDateTime: 2022-09-12T13:00:00Z

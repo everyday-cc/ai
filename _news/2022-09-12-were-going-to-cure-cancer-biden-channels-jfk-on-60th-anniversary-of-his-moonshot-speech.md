@@ -1,18 +1,18 @@
 ---
 category: news
 title: "'We're going to cure cancer': Biden channels JFK on 60th anniversary of his moonshot speech"
-excerpt: "Biden and health advisers are touting a new study showing promise in screening for multiple cancers, as well as a plan to increase funding for cancer research and treatments."
-publishedDateTime: 2022-09-12T15:18:00Z
-originalUrl: "https://6abc.com/cancer-moonshot-joe-biden-boston-speech/12224137/"
-webUrl: "https://6abc.com/cancer-moonshot-joe-biden-boston-speech/12224137/"
+excerpt: "Biden and health advisors are touting a new study showing promise in screening for multiple cancers, as well as a plan to increase funding for cancer research and treatments."
+publishedDateTime: 2022-09-12T16:01:00Z
+originalUrl: "https://abc13.com/cancer-moonshot-joe-biden-boston-speech/12224137/"
+webUrl: "https://abc13.com/cancer-moonshot-joe-biden-boston-speech/12224137/"
 type: article
 quality: 14
 heat: -1
 published: false
 
 provider:
-  name: 6abc Action News
-  domain: 6abc.com
+  name: abc13
+  domain: abc13.com
 
 topics:
   - Natural Language Processing
@@ -58,6 +58,6 @@ related:
         height: 470
         isCached: true
 
-secured: "gJ2gvCcMLIrEk1WKD7hTXsICkLEwXA6sOVDaDhnQr9i3ExO7UVaxWQvdvCQcUygElzdMK2TOG1Jx6MTpBJ0r9okoM2VRV3RmRG518ni22RoKKbTDqKziG+3IGEE8/bbFjqxATe+LFD3LXKMXLYjTkW0wSA6r0oq2p8VT/YGEXi65+3ar2O6QoIDf9PWVnfAw4Z3ks/mgly3XnkUXbzQDe1BaSbrw634F0C1LCWJqqFqv5lKvx5K1ubNYua83/b9HYubCLoMn0yEb9jDsx0qHuFWy9eCYTHllyJLtJgZk4yTlivP1w5j1vIc7ZjpJmBmilaY8sieHO/KBI14SCIWzg4mCaiQnq1xfeYmhaJyH/ZU=;tlfE04JHnuW5RFt71kd3VA=="
+secured: "CBF1bide6QZdextJjiRJ262NC2VLlooGYlYvWUfda2FP0/O/6HFrL1LYNZd8LilgwjLO5nyIBrhtxFs34UifsRF/56DVy2/5srOCiKTQ0kSvXI3ZcxSgu22x9ZvTZCYnshK+bP/CMEVpeHlZPvXmdVC3NiJ/weT/JWBQ24+RfteC91Tjygpb5qMchHFW1jniro9gK0C4uoFmT36+wpp61VYHdhfogTqjd5DBw13E8sjpAiA55n+hJDBW7k+rCgaoDtXzbKcLaASd7gDBOo8jYj/WZ5RjcirJQSuD8uc4i1iPdUKjWhq97Vmql1EzbRDCju/qTkBpv0oVoE7Dn1c2MZAme5iv1iZZwAv2u/pZQTQ=;elE+7Tv8XWmKtYgSPkpGQQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://eandt.theiet.org/content/articles/2022/09/campaigners-call
 webUrl: "https://eandt.theiet.org/content/articles/2022/09/campaigners-call-for-end-of-police-use-of-facial-recognition-technology/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Life certificate through face recognition"
-    excerpt: "India Post team was able to get a life certificate issued to a pensioner using face recognition system in the city on Wednesday. Mangaluru Senior Superintendent of Posts in a statement here said that freedom fighter Mattar Vittal Kini was facing difficulties in receiving pension as his fingerprint was not being recognised."
-    publishedDateTime: 2022-09-08T00:49:00Z
-    webUrl: "https://www.thehindu.com/news/cities/Mangalore/life-certificate-through-face-recognition/article65862949.ece"
-    ampWebUrl: "https://www.thehindu.com/news/cities/Mangalore/life-certificate-through-face-recognition/article65862949.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Mangalore/life-certificate-through-face-recognition/article65862949.ece/amp/"
+  - title: "Call for UK’s biggest police force to stop using facial recognition technology"
+    excerpt: "Fourteen campaign groups have written an open letter to the new boss of the Metropolitan Police on his first day in the job."
+    publishedDateTime: 2022-09-11T23:01:00Z
+    webUrl: "https://www.aol.com/call-uk-biggest-police-force-230100278.html"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
+      name: AOL
+      domain: aol.com
+    quality: 35
     images:
-      - url: "https://www.thehindu.com/theme/images/amp-og-image.jpg"
+      - url: "https://s.yimg.com/ny/api/res/1.2/EmTgi_BFsHIoOAn8uJJfWQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_press_association_news_966/dd60738fa1bbe3b45f4f8512b77b4e3b"
         width: 1200
-        height: 1200
-        isCached: true
-  - title: "I Never Forget a Face: The Science of Super-Recognizers’ Amazing Feats of Recognition"
-    excerpt: "Super recognizers focus less on the eye region and distribute their gaze more evenly than typical viewers, extracting more information from other facial features."
-    publishedDateTime: 2022-09-08T22:19:00Z
-    webUrl: "https://neurosciencenews.com/super-recognizers-visual-learning-21379/"
-    type: article
-    provider:
-      name: Neuroscience News
-      domain: neurosciencenews.com
-    quality: 17
-    images:
-      - url: "https://neurosciencenews.com/files/2022/09/super-recognizer-neurosinces-public.jpg"
-        width: 770
-        height: 513
+        height: 675
         isCached: true
 
 secured: "XEg63P4U+E3NliikcbB9m+npzhcL4vMdO0olNPf8bt6YDaVbcVTYmztuvqvRfTBaUCE8Z6LFhLCyUS2kifF5BXJscHfmJtbK8r8GpPAlVkT8iyJ6dieJID8AapTLR4E4DwhNYMdDXqiPokvvdx2thLnNfESxtAIRzbXksqfHHHkq+IsE23Csn0p8DCwK4wSbjI14jKt9fhlnwHEnzp3XdOwaud0qcvdIrPwhV48v6VVEjR36D3Sdo6CNbMRZQ1EPKvhDzdT6XcT/9Q+xojZpKrdI0MqKO4HH+vyjMPg6NdpIk1MbkjLqKtt/44vv0aWd0Cm4WErg4nqt7ASxnonPtU5ZJ6ZmunAVccQmIFyAV90=;eRpAIOfLn6icHvrCrAuNmg=="

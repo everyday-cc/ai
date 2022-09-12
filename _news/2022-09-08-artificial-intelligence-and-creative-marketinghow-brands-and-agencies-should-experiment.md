@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Why the explainable AI market is growing rapidly"
+    excerpt: "The explainable AI market is booming due to regulations requiring visibility into the hows and whys of AI model predictions."
+    publishedDateTime: 2022-09-12T17:40:00Z
+    webUrl: "https://venturebeat.com/ai/why-the-explainable-ai-market-is-growing-rapidly/"
+    ampWebUrl: "https://venturebeat.com/ai/why-the-explainable-ai-market-is-growing-rapidly/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-the-explainable-ai-market-is-growing-rapidly/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1257975820-e1663004031979.jpg?w=1200&strip=all"
+        width: 1200
+        height: 660
+        isCached: true
   - title: "AI and machine learning are transforming inventory optimization"
     excerpt: "Lakshmanan is the CEO of antuit.ai, a cloud-based software company, now part of Zebra Technologies, which provides what we used to call multi-echelon inventory optimization right down to the shelf level for retailers."
     publishedDateTime: 2022-09-09T00:00:00Z
@@ -55,20 +71,6 @@ related:
       - url: "https://www.mmh.com/images/Antuit_Siva.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "Measuring the business impact of AI"
-    excerpt: "For many organisations, however, AI value may be elusive. Their models might not be tuned. Their training data sets aren’t big enough. Customers are leery. There are also concerns about bias, ethics, and transparency. Pushing an AI initiative into ..."
-    publishedDateTime: 2022-09-08T00:28:00Z
-    webUrl: "https://www.arnnet.com.au/article/701326/measuring-business-impact-ai/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 39
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_132826187.jpg"
-        width: 473
-        height: 315
         isCached: true
 
 secured: "27VjFtL87w4n8U4bgTpkloZZ8JSeecE6yXX6cekGRlUOar8m8UQ6IkuKtl1hJfOnUkS+HzQ/wM6L97Vpv7QGrxz/YwqjaDg0Aa12nibRxMoD8Sj8xL/IWPlalRL228joNqqgTLPit3aqY5v31tr3zpBLteqL7A8Ybbhyf6AOm1U7NfMQk8tPaUTgS9jQjK5xSvnPquQM30UmHqN27yDrtjtk9gNM5I2MRHnqxrgyzClJAV2GnhT7veyHSFgLPZ+Olvcg3Ceyc+myU5WAZS8CpVGGykKn/yzA5JlXqMI1JviE6ZcVR9V4Ln2kMQqoaFEV3EDO90RlL7UVMQa3EIPX8rVQlKa3DF//MN0zxkk4pXenJHBSbbmrP2OSgeDhDF2SJVuEp8Rj5lGro5cj2JysdFwO8YqEpUVMhz0Wb2Gh1yJODDf+rT0vlgldCra2J3QoKzTc3yRkc136iUCVoJqmLPOxY5lIeT9MOt0lGQOmVL9zzGSrIStDpx9+B6nOwRQtYFUjdUC4nIFjJByZiEJFtw==;ln9qIsULGxM+7Okp0Fq+Nw=="

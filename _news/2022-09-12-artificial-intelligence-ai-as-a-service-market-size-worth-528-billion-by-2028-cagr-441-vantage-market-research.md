@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/22/09/g28827521/artificial-intel
 ampWebUrl: "https://www.benzinga.com/amp/content/28827521"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28827521"
 type: article
-quality: 33
-heat: 33
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -21,6 +21,7 @@ topics:
   - AI
   - Natural Language Processing
   - AI in Autos
+  - AI in Healthcare
 
 secured: "dYtFygRdofAsvy/ZdoPtMMVzZH7UihWRdKbyTaIYbInhfEZBxbVto3DmPDgrBcGMn9BV/3XUsqRAxBhHoWhOXZ49p6l93DY/+0GdPrOPUtlLXK1tQ+4jv0QWLCJcQDHe1xRfExiWHo1Vtg+VQJfVDIjA1uXsC2ZXbE/I7zHg7i13dEkez5apAJmcPpXikXBLrnaQlWTvQh2Qb+ySCGU5Vr0en187FVUH4MLcDralcRh015s1RiIeyP3KqMEXViv9rjoQFarZZgX6A1Lkjic25Ob79XOnA/I1klZzD/d7l0ffYe8LUB7Kegp7gISIt3AGKW8o1ufZz5sMxOx9ZlbGzlCheK1AwFJbNyVVqq7v31U=;F21OvFTHFkyerTPCEuEn1g=="
 ---

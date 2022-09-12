@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Flooded with AI-generated images, some art communities ban them completely"
+    excerpt: "Baio, who has been following AI art ethics closely on his blog, first noticed the bans and reported about them on Friday. So far, major art communities DeviantArt and ArtStation have not made any AI-related policy changes,"
+    publishedDateTime: 2022-09-12T16:36:00Z
+    webUrl: "https://arstechnica.com/information-technology/2022/09/flooded-with-ai-generated-images-some-art-communities-ban-them-completely/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/stable_diffusion_on_lexica-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Wonder AI Art Generator App Can Create Unique Images For You"
     excerpt: "E, which make a lot of noise recently. Well, there is something similar out there that you can download on your"
     publishedDateTime: 2022-09-12T12:56:00Z

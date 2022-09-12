@@ -44,13 +44,13 @@ related:
         height: 470
         isCached: true
   - title: "'We're going to cure cancer': Biden channels JFK on 60th anniversary of his moonshot speech"
-    excerpt: "Biden and health advisers are touting a new study showing promise in screening for multiple cancers, as well as a plan to increase funding for cancer research and treatments."
-    publishedDateTime: 2022-09-12T15:18:00Z
-    webUrl: "https://6abc.com/cancer-moonshot-joe-biden-boston-speech/12224137/"
+    excerpt: "Biden and health advisors are touting a new study showing promise in screening for multiple cancers, as well as a plan to increase funding for cancer research and treatments."
+    publishedDateTime: 2022-09-12T16:01:00Z
+    webUrl: "https://abc13.com/cancer-moonshot-joe-biden-boston-speech/12224137/"
     type: article
     provider:
-      name: 6abc Action News
-      domain: 6abc.com
+      name: abc13
+      domain: abc13.com
     quality: 14
     images:
       - url: "https://cdn.abcotvs.com/dip/images/12224138_BidenMoonshot.jpg?w=1600"

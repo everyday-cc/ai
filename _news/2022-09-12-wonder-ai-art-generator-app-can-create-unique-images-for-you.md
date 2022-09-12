@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Flooded with AI-generated images, some art communities ban them completely"
+    excerpt: "Baio, who has been following AI art ethics closely on his blog, first noticed the bans and reported about them on Friday. So far, major art communities DeviantArt and ArtStation have not made any AI-related policy changes,"
+    publishedDateTime: 2022-09-12T16:36:00Z
+    webUrl: "https://arstechnica.com/information-technology/2022/09/flooded-with-ai-generated-images-some-art-communities-ban-them-completely/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/stable_diffusion_on_lexica-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "An AI-generated picture won an art prize. Artists aren’t happy."
     excerpt: "This year, the Colorado State Fair’s annual art competition gave out prizes in all the usual categories: painting, quilting, sculpture."
     publishedDateTime: 2022-09-10T00:00:00Z

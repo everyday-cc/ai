@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Why the explainable AI market is growing rapidly"
+    excerpt: "The explainable AI market is booming due to regulations requiring visibility into the hows and whys of AI model predictions."
+    publishedDateTime: 2022-09-12T17:40:00Z
+    webUrl: "https://venturebeat.com/ai/why-the-explainable-ai-market-is-growing-rapidly/"
+    ampWebUrl: "https://venturebeat.com/ai/why-the-explainable-ai-market-is-growing-rapidly/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-the-explainable-ai-market-is-growing-rapidly/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1257975820-e1663004031979.jpg?w=1200&strip=all"
+        width: 1200
+        height: 660
+        isCached: true
   - title: "Artificial intelligence and creative marketing—how brands and agencies should experiment"
     excerpt: "Cheng, was at the helm of the Cosmo project, using OpenAI’s Dall·E 2 as a different kind of creative tool. Because without good creative guidance, the output isn’t that great—as in Dall·E 2 interpreting an “Ad Age magazine cover:” To get a more creative result requires a lot of interplay and dancing together with concepts and variations,"
     publishedDateTime: 2022-09-08T09:30:00Z
@@ -54,20 +70,6 @@ related:
       - url: "https://s3-prod.adage.com/s3fs-public/styles/1200x630/public/20220907_AI-Ad-Age-cover_3x2.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Measuring the business impact of AI"
-    excerpt: "For many organisations, however, AI value may be elusive. Their models might not be tuned. Their training data sets aren’t big enough. Customers are leery. There are also concerns about bias, ethics, and transparency. Pushing an AI initiative into ..."
-    publishedDateTime: 2022-09-08T00:28:00Z
-    webUrl: "https://www.arnnet.com.au/article/701326/measuring-business-impact-ai/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 39
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_132826187.jpg"
-        width: 473
-        height: 315
         isCached: true
 
 secured: "8elnWCQN5JPZXCEaL9rjjoXW0PQ2fIRras1oMCYdr2fe4i5VQWGDRsJZ88GM9q0mwsWswUcQNdzBJysE2nneX9U4Bo8dAKbViwvTE/a3bh1bDAnMdUXqJ1/XV4qY986uDHzqHrcUgiqiBrdAq9bxRgqJDVj6rJhckOXNuLnrycOmXmjXHRqN+Sk1RbpxTJyqcuH9mvlWEyo7oot37Ipn+U7XxahC3EsoSndsDcH7snyVMX0imok54dXs4weSJByEqqzk6n+SF9R2RKrfAYBZK8O+J2HmF9A6sP4FBIZGXIXZ0CL1nCit+kRGNmyUu+HTiORz6DwoPSdy+S1/RX7ZtKwYnU7kxIfGsynvED0TjseNGuKK+0Gv/JUhXebSMqbGDNKsMnfw3icsvvCTjYZfRC8snokp7XmWH/XdqO+Sg9ZjH2rzA06wtHfo26CHrO4EvlrWdXi7mZY3lgi97Al5RdNsPbQx918jsH2qL9w8Q8S4XEIjPuh/ZRyxa4qPECJAeifS0M3LPIVAz9sV2ilmow==;17RWGtUQeb93j9Cc5wV45w=="

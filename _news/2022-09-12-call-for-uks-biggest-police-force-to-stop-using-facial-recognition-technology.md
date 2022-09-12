@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/call-uk-biggest-police-force-230100278.html"
 webUrl: "https://www.aol.com/call-uk-biggest-police-force-230100278.html"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Campaigners call on police to end use of face recognition technology"
+    excerpt: "Fourteen campaign groups have published an open letter requesting the Metropolitan Police Commissioner to stop using \"useless and highly invasive\" facial recognition technologies."
+    publishedDateTime: 2022-09-12T11:48:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/09/campaigners-call-for-end-of-police-use-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 54
+    images:
+      - url: "https://eandt.theiet.org/media/15480/dreamstime_l_208516777.jpg?crop=0,0.31791666666666668,0,0.18989583333333326&cropmode=percentage&width=1200&height=450&rnd=132617507000000000"
+        width: 1200
+        height: 450
+        isCached: true
 
 secured: "TeVu8jCwW7mCmSwtJT7kbFaoDbQ8d/ZijzvXJeTqXQUYD46go8ycdPEhqGmx9A2TM8lgkoAAhgGDUGOOep2/6o/3Dn3hf7m8FWxTG31cmloO3wY70Ct6OSClNdGYU1C9IuBtc+9ZaoIMZloT0yuYyU5/GOxLHT2LiSK03G/3TeAFRLzWK5FxigzDjBhaGC1/ATAP+R1IWSCMNAufEE3il43Nl9pZohdd5loY0SgwdhJ22XPL0zyMhDxaJt1Qw1dX4wIfwjsCsGfde3qvJy6YXKar0TeKYbLxv07/ak4qivz7onfe5onGkL0VC/uJXB8zo+FDFINnFg1DkYAUo8yIGIyuxrCv7DNxfKYJ5fcmGT9Ar7GNYfDNARHqaJ3T5UQffKoYSKhoaFNUOzBlW2AB94GZ28v6uWYNV46oQASB1nrmsiBlZjz4rmWAtK73BNeEWFiyxxzaasTm18X+QnwXV6AkTnCaKSGiMVb7EdYIBvW9nfg/HyuAOLYw24VT6chY1ywhCxE2CTP0V18vZ2hqkQ==;bQG3Eck6wvDfGvIbASWhTg=="
 ---
