@@ -28,15 +28,6 @@ related:
       name: dbta.com
       domain: dbta.com
     quality: 3
-  - title: "Virtana Launches Kubernetes Support Strategy Across the Portfolio with Container Rightsizing in Infrastructure Monitoring and Cloud Cost Optimization"
-    excerpt: "Virtana, a leading provider of AI-driven solutions for hybrid cloud management and monitoring, announces a new Kubernetes strategy that will deliver container support across the full portfolio of Virtana Platform solutions."
-    publishedDateTime: 2022-09-07T17:14:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/07/9668643.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "lq2y+GsQGdbUhCiAfw4JEJgtt/07TZcSaZapKLRSFWiCQCmqQf0mpRlB3+/LMG1FXGOqZb9qLaM23favKifczs4GFI7wGNHPHpdmm+VP5jhB0/90aHFl6pKzqvZOTIj1EQUp9e5PSgXMXddLYGQN2dTHdgLlMQZUKqvKajpqU4VnPqizTXNnF3FVkZ4V9aREvShLY+3opRiv/5AeKS8UjndtaiPpX98pP4IYSDzXkVkjEEqaKezt+rGv9a54XikRRMzfmnVKuQvqGSYOSBaZttly3ImW7eoz5xTDtuyoOUqmRBaGKio7xy6vso8BYsOuzjy7jmGnukItdek3HAUk5pjTlKZyC3Ym9F5J9QzabGoyBABWqgxXpJ76M5P5GICfMfaHLAW2SFOQkXH5vugY3aTrNxbOEbdKtaPMRAzALKGVeccuttjeLyKw68SHvRFO34t6penVjRRQE8vJqR1/UWUCEuNqiFffEna/a8YnhOK5+HHhUnen4kn+mZ5TZZgseOjyJ61jAA8oW7Yfxru4FA==;vMQHTWnZygFaLHP6iRW0uQ=="
 ---

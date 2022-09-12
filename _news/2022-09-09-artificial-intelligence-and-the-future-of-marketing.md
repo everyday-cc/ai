@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intel
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intelligence-and-the-future-of-marketing/amp/"
 type: article
 quality: 108
-heat: 148
+heat: 138
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Don’t lift a finger: AI-driven voice commands are the future of the smart home"
-    excerpt: "Powered by AI and machine learning, voice control of devices makes an entire home ready to answer a user’s every beck and call."
-    publishedDateTime: 2022-09-07T18:07:00Z
-    webUrl: "https://venturebeat.com/ai/ai-driven-voice-commands-future-smart-home/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 45
   - title: "Measuring the business impact of AI"
     excerpt: "For many organisations, however, AI value may be elusive. Their models might not be tuned. Their training data sets aren’t big enough. Customers are leery. There are also concerns about bias, ethics, and transparency. Pushing an AI initiative into ..."
     publishedDateTime: 2022-09-08T00:28:00Z

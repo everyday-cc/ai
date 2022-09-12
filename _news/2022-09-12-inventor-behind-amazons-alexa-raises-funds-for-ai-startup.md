@@ -41,6 +41,22 @@ related:
         width: 512
         height: 384
         isCached: true
+  - title: "Inventor behind Amazon's Alexa raises $20 mn for new AI startup"
+    excerpt: "The inventor of various technologies used by Amazon Inc's Alexa, William Tunstall-Pedoe, has raised $20 million for a new Artificial Intelligence (AI) startup called Unlikely AI. Amadeus Capital Partners,"
+    publishedDateTime: 2022-09-12T11:51:00Z
+    webUrl: "https://inshorts.com/en/news/inventor-behind-amazons-alexa-raises-$20-mn-for-new-ai-startup-1662983488265"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/inventor-behind-amazons-alexa-raises-$20-mn-for-new-ai-startup-1662983488265"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/inventor-behind-amazons-alexa-raises-$20-mn-for-new-ai-startup-1662983488265"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 57
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/09_sep/12_mon/img_1662977814621_824.jpg?"
+        width: 1080
+        height: 720
+        isCached: true
 
 secured: "NVK6r2PcR6cSnR+QCOISLaCjUGVGhS0VFramaklTooPi4sq023uSYSTEHv39LBZc+oKJauv5YltZ8aA/S+x6Ql4RvYgNPm9woyCwnqxKa/4IWYFQSe8niFTKy4ZPeSWv02sVu5vRpd2fQ4Bb9GiqOT2tRcWguvJRCj3uyNaYGoRdZ8mCLt31QzrW3g71OcRthC5eVCVZ1mHQF+tQOlMW8CAHLcJh7V2gI7VQcaLqMVwD1bWD025iJjOZrF9hCbYvDm6MJAnPTGPzDXDewlHCrZ6JixwiBuRny/cS/c60WhkOvpPKO9x972IDqH3+KVC3rGId1o08LDntXt0Fjuj7sE4/l9wK5SPxa2xcMlXazYPrYylu6nu5ev4m+anvSM+WHMixfWxMNXe0GKhgK3C55t+QL5c62QtfVFGou0tnmFwN68kNsB+N7se7cUiQprJ2jcg+tQSs4iHLrEqXgIfvrX5PU3d56VCOaGeviFTsTBfe0+AqRrDgpZX7wzLrEvPB56O5MHzUz5cTmhyRSQiV+A==;44Om01gmbOfn2KCpmSh+6w=="
 ---

@@ -1,22 +1,26 @@
 ---
 category: news
-title: "Industry's first autonomous spreader debuts at Farm Progress Show"
-excerpt: "Case IH and Raven Industries introduce the agriculture industry's first autonomous spreader: the Case IH Trident ™ 5550 applicator with Raven Autonomy ™. Unveiled at Farm Progress Show 2022, this innovative solution delivers on customers' demands for autonomous equipment to help solve labor challenges and increase productivity on their operations."
-publishedDateTime: 2022-08-30T14:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/08/b28687025/industrys-first-autonomous-spreader-debuts-at-farm-progress-show"
-webUrl: "https://www.benzinga.com/pressreleases/22/08/b28687025/industrys-first-autonomous-spreader-debuts-at-farm-progress-show"
-ampWebUrl: "https://www.benzinga.com/amp/content/28687025"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28687025"
+title: "Industry’s first autonomous spreader debuts at Farm Progress Show"
+excerpt: "Case IH and Raven Industries introduce the agriculture industry’s first autonomous spreader: the Case IH Trident ™ 5550 applicator with Raven Autonomy ™. Unveiled at Farm Progress Show 2022, this innovative solution delivers on customers’ demands for autonomous equipment to help solve labor challenges and increase productivity on their operations."
+publishedDateTime: 2022-08-30T14:32:00Z
+originalUrl: "https://www.eagletribune.com/region/industry-s-first-autonomous-spreader-debuts-at-farm-progress-show/article_bd0c3b06-7889-504f-b01b-c4540ac61a68.html"
+webUrl: "https://www.eagletribune.com/region/industry-s-first-autonomous-spreader-debuts-at-farm-progress-show/article_bd0c3b06-7889-504f-b01b-c4540ac61a68.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "0OnQH6Bnj32xZ7ErybWmvlK+H9UShUEbWzuLEZAgGDSiRP3un0VLBFidFdtjTzT7moK1mZ4RckZSzw5SBJuGuPauZCShYdB9xsrMFqlneCAgPIWBsBSIWVHvn29vTPWv42BZM3I4ThXc2zqrQZq4q2sY6mmcAwP0kPRKABYR0WYKHfRfbJCcgBf/H+OAzVRHG4Ey5xfnbRDU6Bo1eEqKAg7MNskfEMDG/ULYcGxzxp4r5imSRiZzmk08tP2aeN6Lc1HiDTjcqChnMF+qCKaElh47fr+mgAxG/n6RW/MgjJx9yqAp4bzbX+YhVxyURGt5QjHZw2Efh17sdazYxvK9MNxeCaOV+nGrlERDJNIKbvg=;9xiYyoJON38dWCf2LJe3OQ=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/f7/6f732a6f-663d-5699-9263-ff52f4203a6d/630e214bf2e79.image.jpg?crop=606%2C318%2C522%2C0&resize=606%2C318&order=crop%2Cresize"
+    width: 606
+    height: 318
+    isCached: true
+
+secured: "JdIIGxjuc85f8sIErWFQLQcwRMZnZ0vvdsixkh1QTcnW8htmORQqREi/vzflNEmm/m4pWcbjyYO3TSCZsOhosJMZM5/xe/v2i+TnHYTEMQi3KJ0OZF/iTG4E59a++eEHE4aA5CFCCS6y1HRoIrPnyl8wr25pnHnLEyD6O6OdEmkf/VqyZuh2SvgvnR+cQPYJhMiQq5SR7Dh3v2T+z7A2dqehbMUzM0eIMjJhFJPWOlAj6uagGzmoPnDn/qu00BgL+hQneI13ki1KxbNsjKm4ajfAqIDhnUHJKrtqlBja3T8bWDHpGq+V8XqNph7AZpTHjZn0Qz3NevhepByHK7URe200UDF/vvbY6NTqvLtMtHk=;6pdTtK8yqDRJZzIEYoAskw=="
 ---
 

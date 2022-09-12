@@ -69,15 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Don’t lift a finger: AI-driven voice commands are the future of the smart home"
-    excerpt: "Powered by AI and machine learning, voice control of devices makes an entire home ready to answer a user’s every beck and call."
-    publishedDateTime: 2022-09-07T18:07:00Z
-    webUrl: "https://venturebeat.com/ai/ai-driven-voice-commands-future-smart-home/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 45
 
 secured: "pI1opMj2GLXxY6EZozKlHGEk2eVrgtlhlIZAPEY0kVA0J60tbj7OcxqdODd7piLj1mvmSn0R4kXk1su7E3WWhXIHHt1+cNoKoXDloqvzNPeFjlHTTTLGsqfEWCRzRQJ/8eTheYqCzjzgBqrpu/k//zs3THzaKqK/jGjmv4BDRcJb/ZaFllyzNdCCOyM0xOENAnQteUiSaj3H369TgvFtZTjlFr+ssFF6KzjCWXyo7Ll6NhqLRD3oQAFw71/1JxA/dKKFum7dWlNUqYKHJNX7AU9IHzNcuV+/lkbV5gRL08AEoVCHblxprOyby9bIi4ACiAwJqwWNWFA5pi5fcLJavaB4XF7a0Exgia8gm/t+1ftGSZN/M0duxlvEVTlU7GjiP+f7AUXkIIdFP70noptcAu6qDQjruV2RCLqxn4kmvd8oIalwrY1Pn58dhpmnJEu2dp5WwGbr5JW3RLL72gW+vPSgbGI2I51IxHFL9tz6pD7J9IUcyGAY/i3B7cL0rr7hhZEGGY+6EuYhJG+rgd3jiw==;FDAiu4Wq8hoP5bO2JWbHgQ=="
 ---

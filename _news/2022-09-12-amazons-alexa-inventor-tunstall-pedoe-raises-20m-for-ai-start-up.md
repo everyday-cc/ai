@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businesslive.co.za/amp/bloomberg/news/2022-09-12-amazons
 cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bloomberg/news/2022-09-12-amazons-alexa-inventor-tunstall-pedoe-raises-20m-for-ai-start-up/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: businesslive.co.za
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Inventor behind Amazon's Alexa raises $20 mn for new AI startup"
+    excerpt: "The inventor of various technologies used by Amazon Inc's Alexa, William Tunstall-Pedoe, has raised $20 million for a new Artificial Intelligence (AI) startup called Unlikely AI. Amadeus Capital Partners,"
+    publishedDateTime: 2022-09-12T11:51:00Z
+    webUrl: "https://inshorts.com/en/news/inventor-behind-amazons-alexa-raises-$20-mn-for-new-ai-startup-1662983488265"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/inventor-behind-amazons-alexa-raises-$20-mn-for-new-ai-startup-1662983488265"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/inventor-behind-amazons-alexa-raises-$20-mn-for-new-ai-startup-1662983488265"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 57
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/09_sep/12_mon/img_1662977814621_824.jpg?"
+        width: 1080
+        height: 720
+        isCached: true
   - title: "Inventor behind Amazon’s Alexa raises funds for AI startup"
     excerpt: "The inventor of several key technologies used by Amazon.com Inc’s Alexa service raised US$20mil (RM90.07mil) to fund a new startup in the UK."
     publishedDateTime: 2022-09-12T07:45:00Z
@@ -41,6 +57,6 @@ related:
         height: 930
         isCached: true
 
-secured: "wN1dBf1+1SOD4/Wuf7qqdrxMl5km2iBrTct4DxyS5RY8Uaim7b52mmCw3LZPKHRqyEIvEkStfLUASLA/haf+un1eIGUeYnuF8g3tqvKE8+NAfn1bbeQyDo22At20i5/nLrkEdTegwBheFufivp59ZmrLZU4BlQGjvcjRBoVJ5eY0HaK+s1hGLiRRjn66jGutxkxowfw6P9pLqM7OgpGHY8x32lmnywVlxR5ryWzMO06llWDuqYPCdw5BqbW0acEIlj/z6Zz/K/bjge95AjSqxdldxP9vpN8AIB174/JxoGC6u1KlUuHR2q8uNQ8osGM3GcvFD/oFVStADa45BCLBRYPeV+lLLD4Qrdqup+f4y7s=;X20H6NA0QAW4gnO6ps1Trw=="
+secured: "hWNsqqiWV/3u6s8Ullx80n8FcEVzMPF5mgqgL7KDDlC8ACVttlQs6Yk5GwgsNmQlx+G3fPExh6L8Q7QPcj22mKCLnq59ldMWM0npy9Y+ZbgAHht5UjNzTUGgu5IdCCzgrnf4c766/WPU1NG+tHFxOU4d0tLcw2yK9vDyAtUkuL/D1siR8viTNi6dfmxFwHGhIhDRFa8O1vBSq2X9dd5a6xq25aEk5gYh1Gu+eurQdhJQoAuOtFuqEyf/Rz35Vb8fogV7/oESGe1wbYaGap5xi8QaK5xjK3N+fkd5AeceHpexhqh+zuvsdyaBRkHlKrbn6JEk2/1afnCB9UGUOFBVd3HyNLEmH0yAIUFNmt95MnXrNicd+Q8913EkIS84n6piOwyhsZl19+KMDzzgxAwdv1GMwsOoQzkoigMqHgjGQWdD23V/FP4CEZs4PuntCWTwyGxWWu6T3Wzhh83Bdq5HRPRpndo9VZ0j9VIGPLFcPXh7mv01e129cG72AunowPh943MN1/f0mSQunfFNaEGztA==;0Qrw5P/a+R9Pf9rAVGCDQQ=="
 ---
 

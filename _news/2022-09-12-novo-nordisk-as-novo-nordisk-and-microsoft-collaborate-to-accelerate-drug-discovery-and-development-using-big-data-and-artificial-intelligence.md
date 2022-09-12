@@ -1,0 +1,24 @@
+---
+category: news
+title: "Novo Nordisk A/S: Novo Nordisk and Microsoft collaborate to accelerate drug discovery and development using big data and artificial intelligence"
+excerpt: "Bagsværd, Denmark and Redmond, WA, US, 12 September 2022 - Novo Nordisk and Microsoft have entered a new strategic collaboration to combine Microsoft's computational services, cloud and artificial"
+publishedDateTime: 2022-09-12T11:09:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-09/57032398-novo-nordisk-a-s-novo-nordisk-and-microsoft-collaborate-to-accelerate-drug-discovery-and-development-using-big-data-and-artificial-intelligence-399.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2022-09/57032398-novo-nordisk-a-s-novo-nordisk-and-microsoft-collaborate-to-accelerate-drug-discovery-and-development-using-big-data-and-artificial-intelligence-399.htm"
+type: article
+quality: 0
+heat: 0
+published: false
+
+provider:
+  name: Finanznachrichten
+  domain: finanznachrichten.de
+
+topics:
+  - AI in Healthcare
+  - AI
+  - Microsoft AI
+
+secured: "WbuQ22N+rrc0dVtpqTjDygkYAKAWxzjOmn+QaN6F+1b8TK7T67hx/Tz09ymaUqeqPz9+qi5vpT0nPtcNj1qJAuj4hbZqYZEMp5N30hnNRbB30DLuOYceUxbBT9xvaa8pMMFUs7DObFgeh+3xidEuCecsi3OPDyobHSWhxfDfP1xgNKbyYOBkfIgmBI+qPk4GJzDKr+1KDupGrPhlEuvglpJXC1q1cB5ACWqLo7jhjtFAVlEtkQ9VpIGV7QQm5wfmMxzeg88FwWpkj8ib4lDYyXu+pRJj491gPne3eUwh5nKzLa0MrdXQe/fJZE90zxQwsYK/qguZvMmFctrayv5/KEC6jshUxPGz8acya8aUsSY=;LyqqK5M7k4logQQu68WvSw=="
+---
+

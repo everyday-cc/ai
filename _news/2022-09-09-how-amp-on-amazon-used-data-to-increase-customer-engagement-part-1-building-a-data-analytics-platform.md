@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-amp-on-amazon-us
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-amp-on-amazon-used-data-to-increase-customer-engagement-part-1-building-a-data-analytics-platform/"
 type: article
 quality: 58
-heat: 58
+heat: 68
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1537
     height: 768
     isCached: true
+
+related:
+  - title: "How Amp on Amazon used data to increase customer engagement, Part 2: Building a personalized show recommendation platform using Amazon SageMaker"
+    excerpt: "Amp is a new live radio app from Amazon. With Amp, you can host your own radio show and play songs from the Amazon Music catalog, or tune in and listen to shows other Amp users are hosting. In an environment where content is plentiful and diverse, it’s important to tailor the user experience to […]"
+    publishedDateTime: 2022-09-09T16:30:10Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-amp-on-amazon-used-data-to-increase-customer-engagement-part-2-building-a-personalized-show-recommendation-platform-using-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 52
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/09/amp-music-2.jpg"
+        width: 1533
+        height: 765
+        isCached: true
 
 secured: "fc4V5Naed+r+tKwjRsV7wqhhG9+8YV83/3oF4A0bIpx5Bgsq0prbv//iobZGbL9RA7UNY11GQuBe+BFXkW+BwXn09OAYaR3+IlQv+aV4YQ2nEoxjjc87HwnAj86tsW2sWv+m7e8WkvWKj0EUfXCALLP/4m5yPPDgDikBuLpqEoKFUW8fdgQ7bM9QG0Hyo3+Z2Hnnc3/awKBe+NzP5CLwfDwHCvHkd4OoSPrjILbEwcfbPrPGR3QSywzI/BQThrV6CyV2rkPP4MX2QUsBIflyHbB3nJc5R7XwHIeZ//DknszulCmjQE181AAzaXxYQN5N/gE9c/5TbH58F01IqwUI9ciLlTd9UOuWrMV8B0crKH0=;kusfkQy11Kt/x/hfz/PouQ=="
 ---

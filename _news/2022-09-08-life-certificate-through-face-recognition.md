@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindu.com/news/cities/Mangalore/life-certificate-thro
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Mangalore/life-certificate-through-face-recognition/article65862949.ece/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Hindu
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Campaigners call on police to end use of face recognition technology"
+    excerpt: "Fourteen campaign groups have published an open letter requesting the Metropolitan Police Commissioner to stop using \"useless and highly invasive\" facial recognition technologies."
+    publishedDateTime: 2022-09-12T11:48:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/09/campaigners-call-for-end-of-police-use-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 54
+    images:
+      - url: "https://eandt.theiet.org/media/15480/dreamstime_l_208516777.jpg?crop=0,0.31791666666666668,0,0.18989583333333326&cropmode=percentage&width=1200&height=450&rnd=132617507000000000"
+        width: 1200
+        height: 450
+        isCached: true
   - title: "I Never Forget a Face: The Science of Super-Recognizers’ Amazing Feats of Recognition"
     excerpt: "Super recognizers focus less on the eye region and distribute their gaze more evenly than typical viewers, extracting more information from other facial features."
     publishedDateTime: 2022-09-08T22:19:00Z

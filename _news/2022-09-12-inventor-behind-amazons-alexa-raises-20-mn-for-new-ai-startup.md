@@ -1,0 +1,62 @@
+---
+category: news
+title: "Inventor behind Amazon's Alexa raises $20 mn for new AI startup"
+excerpt: "The inventor of various technologies used by Amazon Inc's Alexa, William Tunstall-Pedoe, has raised $20 million for a new Artificial Intelligence (AI) startup called Unlikely AI. Amadeus Capital Partners,"
+publishedDateTime: 2022-09-12T11:51:00Z
+originalUrl: "https://inshorts.com/en/news/inventor-behind-amazons-alexa-raises-$20-mn-for-new-ai-startup-1662983488265"
+webUrl: "https://inshorts.com/en/news/inventor-behind-amazons-alexa-raises-$20-mn-for-new-ai-startup-1662983488265"
+ampWebUrl: "https://inshorts.com/m/en/amp_news/inventor-behind-amazons-alexa-raises-$20-mn-for-new-ai-startup-1662983488265"
+cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/inventor-behind-amazons-alexa-raises-$20-mn-for-new-ai-startup-1662983488265"
+type: article
+quality: 57
+heat: -1
+published: false
+
+provider:
+  name: Inshorts
+  domain: inshorts.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/09_sep/12_mon/img_1662977814621_824.jpg?"
+    width: 1080
+    height: 720
+    isCached: true
+
+related:
+  - title: "Amazon’s Alexa inventor Tunstall-Pedoe raises $20m for AI start-up"
+    excerpt: "Cambridge- and London-based company, Unlikely AI, will start hiring developers of a new type of artificial-intelligence software"
+    publishedDateTime: 2022-09-12T09:09:00Z
+    webUrl: "https://www.businesslive.co.za/bloomberg/news/2022-09-12-amazons-alexa-inventor-tunstall-pedoe-raises-20m-for-ai-start-up/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bloomberg/news/2022-09-12-amazons-alexa-inventor-tunstall-pedoe-raises-20m-for-ai-start-up/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bloomberg/news/2022-09-12-amazons-alexa-inventor-tunstall-pedoe-raises-20m-for-ai-start-up/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 57
+    images:
+      - url: "https://lh3.googleusercontent.com/VLjtmzFKD1z7eYCoxeEx4CSKQc3U5rT_BbleCyhZwv2isWzzu350eDYF39-ksetybKmDelGAp7n4RKSik2_tBDFVpU659CtMRRsFhP2KW0F8vAI=s512"
+        width: 512
+        height: 384
+        isCached: true
+  - title: "Inventor behind Amazon’s Alexa raises funds for AI startup"
+    excerpt: "The inventor of several key technologies used by Amazon.com Inc’s Alexa service raised US$20mil (RM90.07mil) to fund a new startup in the UK."
+    publishedDateTime: 2022-09-12T07:45:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/09/12/inventor-behind-amazons-alexa-raises-funds-for-ai-startup"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/09/12/1734216.jpg"
+        width: 1240
+        height: 930
+        isCached: true
+
+secured: "hgK3WVysuDH1ezvGs5B90uKeoS2jP7YVidD8sXc9TlH327mOHlws/2X62wOeTnZmRvZQ8cpZ892GYqygVTgzTNyw/6E0Caasuz+6n6ARTEjbBsn0DK4MCav3HbI/NkJLk/dBSd1pW7KEeFBaiBhUMBD+pVlhOs0Jcqr+/ph5kDRYMRFOs6dWlyye6u6ysF10eHC5I+vlKySydMf3c7dd9JeoWK7mscC40hMJXRrI2L+NNy4zWM+VkF8ZMUGfGUkN1ra9fC6+Mk6DvljfRpFa34lFiGTu4mga45LgL+BiPbcopd0sSNgwte/E0W0afqBj+GzMwDFA+1ik6sXIRhLCVzI0gh2xT86tbGoVy6MSg5A=;qSBToyYm4j16rFpD/25+iQ=="
+---
+

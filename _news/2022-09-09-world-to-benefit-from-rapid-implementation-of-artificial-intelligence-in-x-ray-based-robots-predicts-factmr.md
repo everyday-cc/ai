@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/22/09/g28812407/world-to-benefit
 ampWebUrl: "https://www.benzinga.com/amp/content/28812407"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28812407"
 type: article
-quality: 22
-heat: 22
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Autos
+  - AI in Robotics
 
 related:
   - title: "World To Benefit From Rapid Implementation Of Artificial Intelligence In X-Ray-Based Robots, Predicts Fact.MR"

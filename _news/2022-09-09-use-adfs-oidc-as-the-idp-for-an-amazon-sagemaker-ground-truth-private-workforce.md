@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-adfs-oidc-as-the
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-adfs-oidc-as-the-idp-for-an-amazon-sagemaker-ground-truth-private-workforce/"
 type: article
 quality: 85
-heat: -1
-published: false
+heat: 85
+published: true
 
 provider:
   name: AWS
@@ -27,45 +27,6 @@ images:
     width: 1533
     height: 767
     isCached: true
-
-related:
-  - title: "Transfer learning for TensorFlow image classification models in Amazon SageMaker"
-    excerpt: "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised"
-    publishedDateTime: 2022-09-07T17:49:46Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/transfer-learning-for-tensorflow-image-classification-models-in-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 118
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/07/tenworflow-image-classification-sagemaker.jpg"
-        width: 1534
-        height: 768
-        isCached: true
-  - title: "Deploy large models on Amazon SageMaker using DJLServing and DeepSpeed model parallel inference"
-    excerpt: "The last few years have seen rapid development in the field of natural language processing (NLP). Although hardware has improved, such as with the latest generation of accelerators from NVIDIA and Amazon, advanced machine learning (ML) practitioners still regularly encounter issues deploying their large"
-    publishedDateTime: 2022-09-09T18:32:41Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-large-models-on-amazon-sagemaker-using-djlserving-and-deepspeed-model-parallel-inference/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 57
-  - title: "How Amp on Amazon used data to increase customer engagement, Part 2: Building a personalized show recommendation platform using Amazon SageMaker"
-    excerpt: "Amp is a new live radio app from Amazon. With Amp, you can host your own radio show and play songs from the Amazon Music catalog, or tune in and listen to shows other Amp users are hosting. In an environment where content is plentiful and diverse, it’s important to tailor the user experience to […]"
-    publishedDateTime: 2022-09-09T16:30:10Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-amp-on-amazon-used-data-to-increase-customer-engagement-part-2-building-a-personalized-show-recommendation-platform-using-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 52
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/09/amp-music-2.jpg"
-        width: 1533
-        height: 765
-        isCached: true
 
 secured: "hzTVSvI9KOztUfWS/bDzDuSmeQdZ3WGMufZWqKNvUJXeu7Dco8s6w7s0lG1ebZzXZMw8AxjE2gbR/DfcXyrmdeuMP8Y8Zp7hf3p9M77LqzM2JXzNmRzHfsPgh6F6NH+dFNcQ+WdknZgSzWnDXQwJiqrHoajXQqUp1GO3NflR6DJSEw/aPjFt/DekDMPBoZaxmOH0CXTCTsw04Erz5n3iGv9dOppQE7NKWVAcTmTzLAy+LLQzzSgU8sRLvTg9b0ZbUjilygUzGtEaUq9hv0J2h+TCJT8oYREh2yzlwiiLnkfNS3MEvxBLVO3gxdcTkjPTsTOplBpHkKUjx5shfpRh4GStrE1zH0DZIxtZnjekBIk=;nsf4SbloR2R3M2jHBTqq9w=="
 ---

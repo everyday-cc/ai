@@ -1422,13 +1422,13 @@
     {
       "path": "_news/2022-08-31-tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.md",
       "title": "TensorFlow, PyTorch, and JAX: Choosing a deep learning framework",
-      "excerpt": "Three widely used frameworks are leading the way in deep learning research and production today. Which one should you use?",
+      "excerpt": "Deep learning is changing our lives in small and large ways every day. Whether it’s Siri or Alexa following our voice commands, the real-time translation apps on our phones, or the computer ...",
       "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/701064/tensorflow-pytorch-jax-choosing-deep-learning-framework/?fp=2&fpid=1",
-      "originalUrl": "https://www.arnnet.com.au/article/701064/tensorflow-pytorch-jax-choosing-deep-learning-framework/?fp=2&fpid=1",
+      "webUrl": "https://www.arnnet.com.au/article/701064/tensorflow-pytorch-jax-choosing-deep-learning-framework/",
+      "originalUrl": "https://www.arnnet.com.au/article/701064/tensorflow-pytorch-jax-choosing-deep-learning-framework/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -1444,7 +1444,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T19:43:00-07:00",
+      "publishedDateTime": "2022-08-30T19:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ARN",

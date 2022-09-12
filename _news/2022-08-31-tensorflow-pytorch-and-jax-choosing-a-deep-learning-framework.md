@@ -1,14 +1,11 @@
 ---
 category: news
 title: "TensorFlow, PyTorch, and JAX: Choosing a deep learning framework"
-excerpt: "Three widely used frameworks are leading the way in deep learning research and production today. Which one should you use?"
-publishedDateTime: 2022-08-31T02:43:00Z
-originalUrl: "https://www.arnnet.com.au/article/701064/tensorflow-pytorch-jax-choosing-deep-learning-framework/?fp=2&fpid=1"
-webUrl: "https://www.arnnet.com.au/article/701064/tensorflow-pytorch-jax-choosing-deep-learning-framework/?fp=2&fpid=1"
+excerpt: "Deep learning is changing our lives in small and large ways every day. Whether it’s Siri or Alexa following our voice commands, the real-time translation apps on our phones, or the computer ..."
+publishedDateTime: 2022-08-31T02:02:00Z
+originalUrl: "https://www.arnnet.com.au/article/701064/tensorflow-pytorch-jax-choosing-deep-learning-framework/"
+webUrl: "https://www.arnnet.com.au/article/701064/tensorflow-pytorch-jax-choosing-deep-learning-framework/"
 type: article
-quality: 90
-heat: 90
-published: true
 
 provider:
   name: ARN
@@ -27,6 +24,6 @@ images:
     height: 315
     isCached: true
 
-secured: "OVUIRJhozNgyJDVVjGO54B9fw/ddq9NjeQFwF44e1C7GNzvanHiSYnEzbB4GTpQUPHVMfOo7nZ8BvMGE6nuD3tDyr3ce5mkJvdztpuhy9u9OWI97vyanC4tgE9i1pvLfrMkwY90VbJmo8b5G7Nux+uYo6WMNAMJr4IFdu+Kd4gbZKbRfWn7K1oJzgyENcS4sP3U2QPFBdHCnp93m0qvAVR2sc3mB/s1mSiG2lYLYtzfqeGUAUq9SzylRppyM9jZwz1zUJ1dgFCfj0Xqfl0lGPtVLqCrLwTolNXkJQOuK5G82MZ/xlRvo+AKGqWvGeeQ1t0o0tmjWDffD+IgCCVLT4kru76SGF0KhHdDZCrKL7y8oBu7MkYjuLQSboqI2+FKdXeusgMsiYlNMjZ5vFTG/N6COAXlWA6xbg4kgf/DMzpuJrlYx0zzrokq0eZzZnbIy2l2unHl1U/w7PCdb3AETt6/nX4cddBN5/tw1Mf6vpuYbNkdWemO93g+ajgSDqKlEBGVqMsJMSluNdFmXon/ggQ==;yjDW8+YwuYZ+qpdMvLJObA=="
+secured: "7hwbNQb/1ZBoPBR9yFjYQ45OOR8bmZsZMsYeHZ/Q/ejVrCFMPShVIAAVf/md+/+kHvMASiZuOtDD87y/5rD9GVlSUW1UNQFNfKLGg4oQ3LIFI5bUT5FnQsHbwFaidhiBDDr12bhnAdeRtbRNd8FOLr7GBVEDFqY0NStzwb5cM/ZWccGUc7RUxiK+OWprIrrwNKR0kR2eHim6bKZN61x2biv+oia2k5yo4QafmYGX18efQAmLpQIAxCTXzVV3vyF4EO2qguWtMxCXM6U3WxGBTMaWXePkkmLsPc9ofAC//+lPVZc7kaUF8MEDXDlXnv4sZRqszKHck5l8pzUPjMxiyMecDb86NosiO2LxZxZgNyY=;7UQV+LIp6jn25UHhBr1UAw=="
 ---
 
