@@ -1,0 +1,20 @@
+---
+category: news
+title: "Visionary.ai Launches Video Denoiser for Improved Night Vision"
+excerpt: "Visionary.ai, a developer of image processing software, today announced the launch of a real-time video denoiser that improves video"
+publishedDateTime: 2022-09-13T13:00:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/visionary-ai-launches-video-denoiser-for-improved-night-vision-825802123.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/visionary-ai-launches-video-denoiser-for-improved-night-vision-825802123.html"
+type: article
+
+provider:
+  name: PR Newswire
+  domain: prnewswire.co.uk
+
+topics:
+  - Computer Vision
+  - AI
+
+secured: "OJIvK1wZ/A8igJ0sUtW5kCvX9QK0DnyaGi3rR1ezFHttMdNZEegmd4Uv+PLrEd5aOGXEr84cx9nGZt62BZ6cB52WwpsIO35oTofxUavbKu5ywqiuUIspMSr1IgwfX0FtoyfEe9uRd8HAf4adG+YVgGlTD85HZqW33TyLWp++L5v4W90dG3DxVa1bFL7LtvgokrfJPnNAtKiP/sim5Rmy+9pmyV3ZLXaDb3Vvsa43HxtsgXxI1VJOlhihTTjdl3TEny+oGh9ldmFlk+wVTU+ipu/XEzW67El0LJsmyuMSjC2siqKA+f6KOiDiIZf7cwge7Nd46mrlk8FDnV5aTyFL7L5askChOdoY1bgXD+OyUW4qWkpZ8W8kyBgn7f8WQ5U4i0vn3LsozcQzy3oT9kzt646SJpguTrgPglq3I/19HJs5T/uZiswe0Y+3IXKv6MBU8wViCTizOEXX03ApRo7Xmp1fgg60vqKByyRfQFEiZvwQwmilvRRb48sYGZFrEy6hq5txDgqmJQLgzlkDDGohBQ==;0Bp7+MEuOVDTcRUA2EsGgg=="
+---
+

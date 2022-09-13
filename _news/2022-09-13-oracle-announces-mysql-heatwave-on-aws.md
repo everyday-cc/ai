@@ -1,28 +1,20 @@
 ---
 category: news
 title: "Oracle Announces MySQL HeatWave on AWS"
-excerpt: "AWS users can now run transaction processing, real-time analytics, and machine learning in one service with MySQLMySQL HeatWave delivers 7X"
-publishedDateTime: 2022-09-12T20:34:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/oracle-announces-mysql-heatwave-on-aws-1031738311"
-webUrl: "https://markets.businessinsider.com/news/stocks/oracle-announces-mysql-heatwave-on-aws-1031738311"
+excerpt: "Oracle has announced that MySQL HeatWave is available on Amazon Web Services (AWS). MySQL HeatWave is the only service that combines OLTP, analytics, machine learning, and machine learning-based automation within a single MySQL database."
+publishedDateTime: 2022-09-13T13:50:00Z
+originalUrl: "https://www.itnewsafrica.com/2022/09/oracle-announces-mysql-heatwave-on-aws/"
+webUrl: "https://www.itnewsafrica.com/2022/09/oracle-announces-mysql-heatwave-on-aws/"
 type: article
-quality: 51
-heat: 51
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: IT News Africa
+  domain: itnewsafrica.com
 
 topics:
   - AWS AI
   - AI
-  - Microsoft AI
 
-secured: "RaHJ2Oe5B3lteuU98NO1k5bTQ020pb/1eeTHLk481KrNbEJrb06JBRsT4YkyIZvYVUx4h5nQsIzQMXbqGFSj7gNzsYShDxm3NBYhqqwJNqu4nIAJ8McqUevuCoql1ouXebUQq74f8a/3/zekTWPYDsZaE7yL2WbeIk2pxQk04BvsOF4A+jaBg7YGv76smp1BNP3n0nQ9oqNAw28vxcIsfZsFVZmHs2HZfPbkhs8J1gQgRi8OX6AVXCnvTd2h/sEU+VbdAtwEouM7cTgP41QXL2CxEPF6Es6nALssA+KYG5aj2SgPMWT0migz7JijkBUfOntb0ofebGCyYs0v2SiwePSlBmqYL3x1RvOdG8YjKco=;OXMmZcDk/yNmqVSLkC6lYA=="
+secured: "AZUT/+2CaTdeylAFX9k8kzuTxfOLse/Iu3NlPk/J2yG5bQqZnJOyWEm9lQcuTaY7NPnYM6EUS/ZjNS0wLb8w3p6yngBVPlQZP6gs2e1QVbvrkwavCmuAKa6G4fwwiURBkhjbQ3uD0OH7n0Nh4TQxnDSaCNEhRi33FEC1kQOVltyZ8cRrTWOvVkChMJJNU7SztoQlWs9t0FILDSQ480bxxeLllCVCMBauu8dzpQVuj1gcrWh57knSQNC1wQ9yourKHwmSb/86Gkmb6cE+cnHUz3EPp5eDsIwiFWThgIW5Uds4W7MjpiR5aMD2Mhp9qfDJTDlbe3ok8WrwksJ7xawFpLzlxAOGqiMQaWjeu5GNBBAMcVcJcmyoFnXNuNEvDRBdMjfvjd4K/eJ8Py9qUvoVH9ZgmRFVqrWIVJjNdEzGLmDqxPmH69TtNjhc5q4Q+kJsQX7cu36Fc1czD8LkePnaEH/PTtSSaKmDc8wZJf2Jgx5ftZDk3raHZIc5DYTMM91smCIV8un2JpaRvK+SVp3Zaw==;k86Lge+NgspsmlJy5bFtiw=="
 ---
 

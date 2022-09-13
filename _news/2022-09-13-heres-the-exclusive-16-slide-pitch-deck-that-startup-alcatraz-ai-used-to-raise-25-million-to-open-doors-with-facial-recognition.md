@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - Computer Vision
+  - AI Hardware
 
 images:
   - url: "https://i.insider.com/631f9683e8b500001850e508?width=1200&format=jpeg"
@@ -28,6 +29,6 @@ images:
     height: 481
     isCached: true
 
-secured: "22TO7kRTOu/fqj70TvYSut0Rgzy5bs8PXf7A5IogijSgUOBxjf4YoMNNEVh+ezFRewJjeZhXvpgE2pk7wbNwD48vh21bO5/QEfshX/rsYbPgK6ZtQB2O7agm+x4rFzIl4IZcDzZOM2sn7CoT+48TfLEluc35fpNtkeWaHXrYTpiI3LlLdTbAkaZHN24j5puL8Ed8rbKDRGMjRd9RT/hV2NBWrj4kggBET4I2xIjhzWVaMPtWmnCbQZKA3csXR6eitJ3JkTBomnMNoRcwqtA41TJezdTyZutNOO2jzpFQrR+2umusO42wvTKZXuGU1hKKLDLxWmOQyi7/pk94U5mi5zhcFZmhwIneIs45szfkl14=;f0bOFZGiGs/Vdatsg+oY5A=="
+secured: "WrK9jvFokqC1vCku7IR9ZguQuDt2ROKDagNkPX+ngDdukLZh02sS6V14Ng+iD4Rrs1pwc1+9TaZ1IiDLXLGPOjoMnxdTxB2Pt/DA2Vb1c7kzVRE4Q0Ur6R0Ov4/ym5C2U5xZmXSmWsB4pQDiZaY+1kdwOlcuut7t7Xh/+ZqX80cSOF95/pBAqzMHxECzFRFVB/W9I5cYu+pcHyxCudXegop1EdlvUB9VBwhEPyJXeoAPnp1IAHwg+IiqW7NlkLgEdMZEJ6YUi9Jzf5i8qRsaSEHmcC2YLs+9M7z02OXyoVzz5jCn/C/lMe9uCpldyYPqQN7e198mbG/Pv9JlgKMr9/pfrJtGHytihcNOzdrX5oaNo0SGbiJmPs9PMB1KQS7nUD0iRePKgvCmS7+oPTi4iVP/qf8SpfQasTvcvRiXKcEH3A+BpfnNUYwtrh742OILjt4cSpW+aFcJN9+Ari8lG8Lytd9gsmcoLDVYt1yKBoNxjRu5dmxi0/1ivarT37wEXgt/SErRJxna01ybuGczFg==;bEmqEB2PbEHVADJFr2qfjg=="
 ---
 
