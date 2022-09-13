@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 660
         isCached: true
-  - title: "Artificial intelligence and creative marketing—how brands and agencies should experiment"
-    excerpt: "Cheng, was at the helm of the Cosmo project, using OpenAI’s Dall·E 2 as a different kind of creative tool. Because without good creative guidance, the output isn’t that great—as in Dall·E 2 interpreting an “Ad Age magazine cover:” To get a more creative result requires a lot of interplay and dancing together with concepts and variations,"
-    publishedDateTime: 2022-09-08T09:30:00Z
-    webUrl: "https://adage.com/article/opinion/artificial-intelligence-and-creative-marketing-how-brands-and-agencies-should-experiment/2428376"
-    type: article
-    provider:
-      name: Ad Age
-      domain: adage.com
-    quality: 47
-    images:
-      - url: "https://s3-prod.adage.com/s3fs-public/styles/1200x630/public/20220907_AI-Ad-Age-cover_3x2.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "8elnWCQN5JPZXCEaL9rjjoXW0PQ2fIRras1oMCYdr2fe4i5VQWGDRsJZ88GM9q0mwsWswUcQNdzBJysE2nneX9U4Bo8dAKbViwvTE/a3bh1bDAnMdUXqJ1/XV4qY986uDHzqHrcUgiqiBrdAq9bxRgqJDVj6rJhckOXNuLnrycOmXmjXHRqN+Sk1RbpxTJyqcuH9mvlWEyo7oot37Ipn+U7XxahC3EsoSndsDcH7snyVMX0imok54dXs4weSJByEqqzk6n+SF9R2RKrfAYBZK8O+J2HmF9A6sP4FBIZGXIXZ0CL1nCit+kRGNmyUu+HTiORz6DwoPSdy+S1/RX7ZtKwYnU7kxIfGsynvED0TjseNGuKK+0Gv/JUhXebSMqbGDNKsMnfw3icsvvCTjYZfRC8snokp7XmWH/XdqO+Sg9ZjH2rzA06wtHfo26CHrO4EvlrWdXi7mZY3lgi97Al5RdNsPbQx918jsH2qL9w8Q8S4XEIjPuh/ZRyxa4qPECJAeifS0M3LPIVAz9sV2ilmow==;17RWGtUQeb93j9Cc5wV45w=="
 ---

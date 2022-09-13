@@ -1,28 +1,26 @@
 ---
 category: news
 title: "belive.ai - Drive your store with AI"
-excerpt: "Since its inception in 2019, belive.ai has grown quickly into the largest AI install base in terms of supermarkets and users: more than 15 grocery chains, 400 supermarkets, and more than 1,000 users using the application every day."
-publishedDateTime: 2022-09-12T15:06:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/north-america-retail-industry-24ba65f7bb5cc56b658395c52d298ef4"
-webUrl: "https://apnews.com/press-release/pr-newswire/north-america-retail-industry-24ba65f7bb5cc56b658395c52d298ef4"
+excerpt: "Reduce out-of-shelf and fresh waste in real time!ATLANTA, Sept. 12, 2022 /PRNewswire/ -- The future of retail chain operations will be supported"
+publishedDateTime: 2022-09-12T15:15:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/belive-ai-drive-your-store-with-ai-1031737710"
+webUrl: "https://markets.businessinsider.com/news/stocks/belive-ai-drive-your-store-with-ai-1031737710"
 type: article
-quality: 37
-heat: 37
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "hnMQfwOPPlvY86rnAXnekqV6t7hCk6Az94mrjMLItUiTG63PW+qX52oEwbsaZvi9yGnSiUzWcEZwez5SWO7LCZ4KgsxIX81Fny9uKjto/Dc7iE13bRO1vKWqSAx3qIHU743E5nuxshs40Lk0YTFYoUv4M5FSn7YppjDNmImmSqqkyqjHtC0uDuHnxRkPR2nDnm8z6uVDSITsEHsVMZngDLXagRUzB/uWdxEV4Wgrhjo7VTIBrEUOtPFRjfG52oP9gsM1/2s/gx0t1BvRassyBYGfGsUfW0Yt3E6OXOa4KR6Q3ODm6uKo3fcWBHMcFqvgjgLXqSQgWkU2nB9dQnqIxaVhZAenGrV9dj9sN7lHz5Y=;zJBFAbwpGOadrwK6jcr4Dw=="
+secured: "n7jLJdfuzOazfHaYJHjOircNRFqEQ771IAKLmlThkyFvmDHF6WjBed8NjIOdvSxpW+1xHvPqwnq4VIUHDlFxC/+LrQv7iiwZrFeRivdqdEgqJRhKTA9WDEPagPZFBwpHONzP9vyQ74DY24+iBCJObKRhYO129/vq9uF62KWyFXLogGiVPEIrP73OJTklsqoJJkmvph9BSHw7AwC7CgLcpRQa6qhPU9m1XLgwjJVumxvmXqx+vyVrvtVZ+5AkmCONUdvwmoPHOdf0vI4wteVkGYwDk14tnHnWv2ba0JT8wZJowRaqICnPb6kxno6ExtlBsRTVJiUAoUt1VzB3JasevOjO8UKcqpJpFaWdVr0g1NE=;yRdLviahN8xmUJNINkBDTA=="
 ---
 

@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Oracle offers its MySQL HeatWave database and analytics on Amazon’s cloud"
-excerpt: "Oracle Corp. has started to offer MySQL HeatWave, its cloud database service for transactions, analytics and machine learning, on Amazon’s AWS cloud, allowing customers whose data is already parked there to use the service,"
-publishedDateTime: 2022-09-12T23:34:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/09/13/oracle-offers-its-mysql-heatwave-database-and-analytics-on-amazons-cloud"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2022/09/13/oracle-offers-its-mysql-heatwave-database-and-analytics-on-amazons-cloud"
+excerpt: "Oracle Corp has started to offer MySQL HeatWave, its cloud database service for transactions, analytics and machine learning, on Amazon's AWS cloud, allowing customers whose data is already parked there to use the service,"
+publishedDateTime: 2022-09-12T23:01:00Z
+originalUrl: "https://www.reuters.com/technology/oracle-offers-its-mysql-heatwave-database-analytics-amazons-cloud-2022-09-12/"
+webUrl: "https://www.reuters.com/technology/oracle-offers-its-mysql-heatwave-database-analytics-amazons-cloud-2022-09-12/"
 type: article
-quality: 23
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2022/09/13/1735068.jpg"
-    width: 800
-    height: 533
+  - url: "https://www.reuters.com/resizer/auU-eGYlMXaI82GhWXiVQXOg6iA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C3KTSLO2ZRNVLMJPKCCNHB4N44.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -51,6 +55,6 @@ related:
       domain: datanami.com
     quality: 19
 
-secured: "B+LjfzECLezviwTywzmFklaYMNzHUkAkL8kTRrqNjdsqeyWqyXcf1wAYskMfxST8mXxI6vjmtIKqi75L4EtZl8iiwJn29/ldOQCbsMMENcU9QhASXEWwPAD9zkB6zH1/1qaGBP+dW92MCCZmAoWRKU/Mu7S0FhBMCNX38uVFQLj7qzR9zo5ldpTOTxryf3hufuplnZwngUa7tr1zHfgPp9kjeucRWczwTPYbHG8EMRebdGfV99tXac7KbxmIfsu/F22iu5Ym0uEW8sT7nLUBN5j1iWKpUnCQiH2iCs8QasUdghYIxK59IK5qPUvHuc1yCB8m5d5rR7Dld37Q2RigXAIpBmxsMsGYdZ0vaZtiBlM=;gMWZ4yYGf2hjqkaL4btZUA=="
+secured: "bh8CiQcbJU/EG2K4JCKeOn53/f2DPK4xK6Ny0XnWZakXeIQaSo0ooMpLuV/usLJDmYrnDvr4IjNrA+PtHOm/R/j+LwObCO4Tt4kpHgosBZz1v3sezQ+RYGNcp839p/Qyine5KJxRoSddHggJuVFtLbSMNFwd+CDCbF1rJk5JDZzHuOlBf0NGZxihYxAKuV5jVuPt6HihEn827gk7WqhA27Ijls9izBsLrz7pAnoqTWs4w1KbEs1nU66WEScNxRZoPoxy2gGnVAQXeWj1TFNr5rA7kkXHelXNzoGnkfMLkrCL/uCaBcB4NsrImEGWhPyz9rdxmCQRWEucGq3ECwvuAqUw6fI1Gw6Rk9aZD/x6rEU=;BE7yuWsOWeLNc/gCcE31UA=="
 ---
 
