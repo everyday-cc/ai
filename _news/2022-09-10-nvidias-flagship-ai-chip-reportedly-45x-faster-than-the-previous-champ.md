@@ -7,8 +7,8 @@ originalUrl: "https://arstechnica.com/information-technology/2022/09/nvidias-fla
 webUrl: "https://arstechnica.com/information-technology/2022/09/nvidias-flagship-ai-chip-reportedly-4-5x-faster-than-the-previous-champ/"
 type: article
 quality: 83
-heat: -1
-published: false
+heat: 83
+published: true
 
 provider:
   name: Ars Technica
@@ -27,67 +27,6 @@ images:
     width: 760
     height: 380
     isCached: true
-
-related:
-  - title: "Nvidia AI chip export ban expected to impact U.S.-China AI race"
-    excerpt: "The ban on Nvidia AI GPUs to China has led to speculation about the impact on Chinese firms, as well as on Nvidia’s China business."
-    publishedDateTime: 2022-09-08T15:30:00Z
-    webUrl: "https://venturebeat.com/ai/nvidia-ai-chip-export-ban-expected-to-impact-u-s-china-ai-race/"
-    ampWebUrl: "https://venturebeat.com/ai/nvidia-ai-chip-export-ban-expected-to-impact-u-s-china-ai-race/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-ai-chip-export-ban-expected-to-impact-u-s-china-ai-race/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1350668583.jpg?w=1200&strip=all"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "What Nvidia’s new MLPerf AI benchmark results really mean"
-    excerpt: "Nvidia released results today against new MLPerf benchmarks for its AI-targeted processors. Here's an expert analysis of those test results."
-    publishedDateTime: 2022-09-08T22:26:00Z
-    webUrl: "https://venturebeat.com/ai/what-nvidias-new-mlperf-ai-benchmark-results-really-mean/"
-    ampWebUrl: "https://venturebeat.com/ai/what-nvidias-new-mlperf-ai-benchmark-results-really-mean/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/what-nvidias-new-mlperf-ai-benchmark-results-really-mean/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/NVIDIA.jpg?w=1200&strip=all"
-        width: 1200
-        height: 748
-        isCached: true
-  - title: "Biden reportedly plans to block AI chipmaking exports to China"
-    excerpt: "Semiconductors and AI are increasingly valuable for medical devices as smaller sensors and algorithms collect and crunch more data than ever."
-    publishedDateTime: 2022-09-12T18:08:00Z
-    webUrl: "https://www.medicaldesignandoutsourcing.com/biden-reportedly-plans-to-block-ai-chipmaking-exports-to-china/"
-    type: article
-    provider:
-      name: Medical Design and Outsourcing
-      domain: medicaldesignandoutsourcing.com
-    quality: 34
-  - title: "Reports of Broadening Ban on AI Chip Exports to China Will Only Increase Uncertainty - Analyst"
-    excerpt: "The U.S. government is considering further broadening curbs on exports of top AI chips to China, Reuters reports. The plan is to update regulations next month to include three new companies - KLA Corp (NASDAQ: KLAC ),"
-    publishedDateTime: 2022-09-12T12:20:00Z
-    webUrl: "https://za.investing.com/news/reports-of-broadening-ban-on-ai-chip-exports-to-china-will-only-increase-uncertainty--analyst-432SI-2615039"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 22
-  - title: "Analysis-U.S. Ban On Nvidia, AMD Chips Seen boosting Chinese Rivals"
-    excerpt: "The U.S. ban on exports to China of Nvidia and AMD's flagship artificial intelligence chips will create new business opportunities for domestic startups jockeying for a piece of China's fast-growing data center chip market,"
-    publishedDateTime: 2022-09-08T17:27:00Z
-    webUrl: "https://www.ibtimes.com/analysis-us-ban-nvidia-amd-chips-seen-boosting-chinese-rivals-3610956"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 19
 
 secured: "qo+TRJRbNSUK7oVy5fv1PGJTAe841gd7DiK4tuO1x89t96o6zfk8cfdej8XyJ0Z/SFUN0vU5Rsnq6GLPDGCIE9K/pKwMV5k9bRVeVnGSSbr2crCJAp0nRkZTDzFuMVqTWeKtHTqmTWm7XVauogi1I6Kbl/MR7aJHCN1kIbb/boL6FK7/I+bGLCJ8IdUzCFQqBDwUKe1USdC10yrjniA4uhAXliehO3/UN5rPPT7iPMMz2l8a58KsPiR+gAdrOUDUIEcSorO2HTFKCOEAzl/RoHUiBr/6EPGziXzQU689ClbhgTIF2x6RsDYzbYcU/2Qk0hU/DHzAug7Di03VbZv1Txz6ucGUT0XbT1l3O4lrmkEoj/R5oFdnbSCKImkfT8IGBBqKFztigLQSFraAjIEGhypqN0k40xQx8Ya/1j2/iN+8CqDfpY0625XozybZ5zyg7oKy8ra1ODFKcJlDEaejyglKzzfixpFvIVQeiqoMWVM6J5930u/UB7vxyPwRk+v1YeBrOndOqcH3YE5PP73hSA==;in9TZH1+yMIBGGu3pUoKpA=="
 ---

@@ -31,18 +31,18 @@ images:
 
 related:
   - title: "Oracle offers its MySQL HeatWave database and analytics on Amazon’s cloud"
-    excerpt: "Oracle Corp has started to offer MySQL HeatWave, its cloud database service for transactions, analytics and machine learning, on Amazon's AWS cloud, allowing customers whose data is already parked there to use the service,"
-    publishedDateTime: 2022-09-12T23:01:00Z
-    webUrl: "https://www.reuters.com/technology/oracle-offers-its-mysql-heatwave-database-analytics-amazons-cloud-2022-09-12/"
+    excerpt: "Oracle Corp. has started to offer MySQL HeatWave, its cloud database service for transactions, analytics and machine learning, on Amazon’s AWS cloud, allowing customers whose data is already parked there to use the service,"
+    publishedDateTime: 2022-09-13T08:26:00Z
+    webUrl: "https://www.channelnewsasia.com/business/oracle-offers-its-mysql-heatwave-database-and-analytics-amazons-cloud-2934176"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 53
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 23
     images:
-      - url: "https://www.reuters.com/resizer/auU-eGYlMXaI82GhWXiVQXOg6iA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C3KTSLO2ZRNVLMJPKCCNHB4N44.jpg"
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--7T-580Pc--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-09-12t204646z_2_lynxmpei8b0x1_rtroptp_3_oracle-tech.jpg?itok=6f8ytHIk"
         width: 1200
-        height: 628
+        height: 676
         isCached: true
   - title: "Alation Achieves AWS Data and Analytics Competency"
     excerpt: "Alation Inc., the leader in enterprise data intelligence solutions, today announced it has achieved Amazon Web"

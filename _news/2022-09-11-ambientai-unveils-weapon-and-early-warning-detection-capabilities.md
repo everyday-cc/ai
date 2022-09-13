@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Launching a real-time AI solution for early throat cancer detection"
+    excerpt: "Marius Wellenstein, WSK Medical, explains the successful launch and implementation of Zeno AI, a real-time AI solution for early throat cancer detection"
+    publishedDateTime: 2022-09-13T08:47:00Z
+    webUrl: "https://www.openaccessgovernment.org/launching-a-real-time-ai-solution-for-early-throat-cancer-detection/143307/"
+    type: article
+    provider:
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 37
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2022/09/dreamstime_xxl_134779063-scaled.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Workday announces new machine learning and automation capabilities"
     excerpt: "The accounting and HR cloud software provider announced the new capacities for its enterprise management solutions."
     publishedDateTime: 2022-09-08T18:02:00Z

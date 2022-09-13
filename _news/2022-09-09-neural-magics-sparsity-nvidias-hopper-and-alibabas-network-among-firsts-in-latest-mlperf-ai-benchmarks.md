@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/neural-magics-sparsity-nvid
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/neural-magics-sparsity-nvidias-hopper-and-alibabas-network-among-firsts-in-latest-mlperf-ai-benchmarks/"
 type: article
 quality: 92
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -34,6 +34,22 @@ images:
     isCached: true
 
 related:
+  - title: "What Nvidia’s new MLPerf AI benchmark results really mean"
+    excerpt: "Nvidia released results today against new MLPerf benchmarks for its AI-targeted processors. Here's an expert analysis of those test results."
+    publishedDateTime: 2022-09-08T22:26:00Z
+    webUrl: "https://venturebeat.com/ai/what-nvidias-new-mlperf-ai-benchmark-results-really-mean/"
+    ampWebUrl: "https://venturebeat.com/ai/what-nvidias-new-mlperf-ai-benchmark-results-really-mean/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/what-nvidias-new-mlperf-ai-benchmark-results-really-mean/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/NVIDIA.jpg?w=1200&strip=all"
+        width: 1200
+        height: 748
+        isCached: true
   - title: "NVIDIA Hopper H100 GPU broke every record on MLPerf AI Benchmark"
     excerpt: "The most recent testing showed that NVIDIA A100 GPUs, which are now offered by important cloud service providers and system manufacturers, maintained their overall performance advantage in the mainstream category for AI inference."
     publishedDateTime: 2022-09-09T17:33:00Z

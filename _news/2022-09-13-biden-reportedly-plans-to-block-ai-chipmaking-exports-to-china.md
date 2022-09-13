@@ -19,51 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia AI chip export ban expected to impact U.S.-China AI race"
-    excerpt: "The ban on Nvidia AI GPUs to China has led to speculation about the impact on Chinese firms, as well as on Nvidia’s China business."
-    publishedDateTime: 2022-09-08T15:30:00Z
-    webUrl: "https://venturebeat.com/ai/nvidia-ai-chip-export-ban-expected-to-impact-u-s-china-ai-race/"
-    ampWebUrl: "https://venturebeat.com/ai/nvidia-ai-chip-export-ban-expected-to-impact-u-s-china-ai-race/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-ai-chip-export-ban-expected-to-impact-u-s-china-ai-race/amp/"
+  - title: "Biden to hit China with broader curbs on US chip and tool exports"
+    excerpt: "The Biden administration plans next month to broaden curbs on U.S shipments to China of semiconductors used for artificial intelligence and chipmaking tools."
+    publishedDateTime: 2022-09-12T17:49:00Z
+    webUrl: "https://www.foxbusiness.com/technology/biden-hit-china-broader-curbs-us-chip-tool-exports"
+    ampWebUrl: "https://www.foxbusiness.com/technology/biden-hit-china-broader-curbs-us-chip-tool-exports.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/biden-hit-china-broader-curbs-us-chip-tool-exports.amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 59
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1350668583.jpg?w=1200&strip=all"
-        width: 1200
-        height: 900
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/384e1113-3270-4bae-b62e-e27212b6cd05/8edd5d67-6702-4141-a355-04c14d7d9b45/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "What Nvidia’s new MLPerf AI benchmark results really mean"
-    excerpt: "Nvidia released results today against new MLPerf benchmarks for its AI-targeted processors. Here's an expert analysis of those test results."
-    publishedDateTime: 2022-09-08T22:26:00Z
-    webUrl: "https://venturebeat.com/ai/what-nvidias-new-mlperf-ai-benchmark-results-really-mean/"
-    ampWebUrl: "https://venturebeat.com/ai/what-nvidias-new-mlperf-ai-benchmark-results-really-mean/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/what-nvidias-new-mlperf-ai-benchmark-results-really-mean/amp/"
+  - title: "US Chip Curbs Will Highlight Cracks in China’s AI Strategy"
+    excerpt: "Tighter restrictions on US semiconductor and equipment sales are set to test China’s artificial intelligence superpowers as Washington removes a key plank of next-generation technological development."
+    publishedDateTime: 2022-09-13T04:45:00Z
+    webUrl: "https://english.aawsat.com/home/article/3870931/tim-culpan/us-chip-curbs-will-highlight-cracks-china’s-ai-strategy"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
+      name: الشرق الأوسط
+      domain: aawsat.com
+    quality: 56
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/NVIDIA.jpg?w=1200&strip=all"
-        width: 1200
-        height: 748
-        isCached: true
-  - title: "Nvidia’s flagship AI chip reportedly 4.5x faster than the previous champ"
-    excerpt: "Nvidia positions the H100 as a high-end data center GPU chip designed for AI and supercomputer applications such as image recognition, large language models, image synthesis, and"
-    publishedDateTime: 2022-09-09T20:01:00Z
-    webUrl: "https://arstechnica.com/information-technology/2022/09/nvidias-flagship-ai-chip-reportedly-4-5x-faster-than-the-previous-champ/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 83
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/nvidia_h100_hero_3-760x380.jpg"
-        width: 760
-        height: 380
+      - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2020/08/06/tim_culpan_headshotc.jpg?itok=-OQhTljp"
+        width: 346
+        height: 383
         isCached: true
   - title: "Reports of Broadening Ban on AI Chip Exports to China Will Only Increase Uncertainty - Analyst"
     excerpt: "The U.S. government is considering further broadening curbs on exports of top AI chips to China, Reuters reports. The plan is to update regulations next month to include three new companies - KLA Corp (NASDAQ: KLAC ),"
@@ -74,15 +58,15 @@ related:
       name: Investing
       domain: investing.com
     quality: 22
-  - title: "Analysis-U.S. Ban On Nvidia, AMD Chips Seen boosting Chinese Rivals"
-    excerpt: "The U.S. ban on exports to China of Nvidia and AMD's flagship artificial intelligence chips will create new business opportunities for domestic startups jockeying for a piece of China's fast-growing data center chip market,"
-    publishedDateTime: 2022-09-08T17:27:00Z
-    webUrl: "https://www.ibtimes.com/analysis-us-ban-nvidia-amd-chips-seen-boosting-chinese-rivals-3610956"
+  - title: "US intends to broaden restrictions on semiconductor shipments to China for artificial intelligence and chipmaking tools - source"
+    excerpt: "THE US INTENDS TO BROADEN RESTRICTIONS ON SEMICONDUCTOR SHIPMENTS TO CHINA FOR ARTIFICIAL INTELLIGENCE AND CHIPMAKING TOOLS - SOURCE."
+    publishedDateTime: 2022-09-11T23:07:00Z
+    webUrl: "https://www.forexfactory.com/news/1178073-us-intends-to-broaden-restrictions-on-semiconductor-shipments"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 19
+      name: Forex Factory
+      domain: forexfactory.com
+    quality: 0
 
 secured: "i+THGugk5e/jUd7TahJ8V8msnDF5b4+EGENt2wxMn4ASjXAbGCBwgfoa7BlbtZhRAlVKlO+huneOTNug33MszC9KBsBXw7Kby4hyUOWzOIwCusYnZNA4sjST81AH45Q9zWhGO1sIuAepPul0tms3KHVN2WvkDesC7LX2BT5BGwS/kdydgewzhtOGXGEwcBjvAy+xTDGV4Z3IGS7fneBWMky870S7zijs+GamTQ5jh1zXqIowQsHGb5pCo8VxiFtF0Gv0+bnPJK/TuxEZOfnNTq0VfMgtXrXmKbH9zvV+RgIetnPRA+Sge2TOuEUEtT/eHdy/qc+5Sz7HrUbdFRoJlfEeE/qRG/2QQ6Q0Lm/UCyWagKhA26M/3cG4+YVFQp7UKzzf8j42386ewgFluHZqYVjQrQu7g2UKz7rXlAFG47nAScSIodiFH7dbrBI2yVAKAkE4QDhthqJqdb2AMPUEHJW/rhZDOSrdacrTgBkFnYlJ4Wc7EI318ppeSW5C1SkcMaa7GffWlk3+9VD2umLT5Q==;gG+8b3iuFNnVy4ZJ5FYMTQ=="
 ---

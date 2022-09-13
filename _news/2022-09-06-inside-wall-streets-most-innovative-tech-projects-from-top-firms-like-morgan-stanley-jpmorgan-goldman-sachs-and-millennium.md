@@ -21,6 +21,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AWS AI
 
 images:
   - url: "https://i.insider.com/611ac81ba4b07b0018add693?width=1200&format=jpeg"

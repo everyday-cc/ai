@@ -24,10 +24,10 @@ images:
     isCached: true
 
 related:
-  - title: "The Worldwide Artificial Intelligence Industry is Expected to Reach $1,811 Billion by 2030 - ResearchAndMarkets.com"
-    excerpt: "The global artificial intelligence market size is expected to reach USD 1,811.8 billion by 2030. The market is anticipated to expand at a CAGR of 38.1% from 2022 to 2030. Atomwise, Inc. Baidu, Inc. Enlitic,"
-    publishedDateTime: 2022-09-08T15:04:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-8-the-worldwide-artificial-intelligence-industry-is-expected-to-reach-1811-billion-by-2030-researchandmarketscom"
+  - title: "Speech Recognition Engine Industry 2022 Market Challenges, Business Overview and Forecast Research Study 2028"
+    excerpt: "In the Speech Recognition Engine study report, the market for the pertinent time period is in-depth analyzed. In-depth competitor analysis is a component of Speech Recognition Engine market research,"
+    publishedDateTime: 2022-09-09T16:54:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-9-9-speech-recognition-engine-industry-2022-market-challenges-business-overview-and-forecast-research-study-2028"
     type: article
     provider:
       name: Daily Herald

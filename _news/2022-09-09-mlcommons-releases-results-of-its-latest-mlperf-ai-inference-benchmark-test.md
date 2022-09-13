@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 595
         isCached: true
-  - title: "MLCommoncs: Latest MLPerf AI Benchmark Results Show Machine Learning Inference Advances"
-    excerpt: "Today, the open engineering consortium MLCommons announced results from MLPerf Inference v2.1, which analyzes the performance of inference — the application of a trained machine learning model to new data."
-    publishedDateTime: 2022-09-08T17:00:00Z
-    webUrl: "https://insidehpc.com/2022/09/mlcommoncs-latest-mlperf-ai-benchmark-results-show-machine-learning-inference-advances/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 63
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2021/04/MLCommons-logo.jpg"
-        width: 500
-        height: 261
-        isCached: true
 
 secured: "gPVOX33Wy9ohc6RL/EG0uKyxDEHzm81jkapLtQ9cYsNVtRndlwhq34d37tg8PyL1IATyUd8P5b0XUSKhXr4riXo1Hp67lLLch7LrdN8BGGwHYu4obyfBwgpshCxaL0lapyk7RpSpfxSjMfV1B3SqjyyWiRaWXkVvp2wMveH11TAaZBNkDmg1D66JncqKdTjh0CyHlDa1maJSzZXt6+CS1mct4gAdTtahWGnAKqKy6xsvMW39GDu0w3yBXgphawnohJHBB5KCE/pAfPhSUqLi/Dho1DKJTAehFSrg2BNSzxDsLqZhPuYMtWVulOXUnC2rNsICE2OQqOvcfPvq624q7KL01tNAmA1W68p3iHAoOaazcQIDVhR+IhAIf5ZW1n2kAdXknHKz2Z+vftEhJjCFcp6rkf1xomIUB0VKk0Is7q565Z1mt23VaempNu9xpTmc9C8CbEet5ca/n4RreN65HQtMDfd8uFjEC1KK29Np7a+dbZ7kBm59EOUI801IOUp3gVSlmvhVGZNvUGgIUPstOg==;yX8NsQ8gShQgfok1u51SSQ=="
 ---

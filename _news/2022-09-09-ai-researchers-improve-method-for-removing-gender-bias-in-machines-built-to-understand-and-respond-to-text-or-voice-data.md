@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers discover new method to create tailored odors and fragrances with help of machine learning"
-    excerpt: "One of the most basic senses of animal species is the sense of smell. It is essential for finding food, recognising attractiveness, and detecting danger. Humans detect odorants using olfactory receptors found in olfactory nerve cells."
-    publishedDateTime: 2022-09-08T15:15:00Z
-    webUrl: "https://zeenews.india.com/video/news/researchers-discover-new-method-to-create-tailored-odors-and-fragrances-with-help-of-machine-learning-2507664.html"
-    ampWebUrl: "https://zeenews.india.com/video/news/researchers-discover-new-method-to-create-tailored-odors-and-fragrances-with-help-of-machine-learning-2507664.html/amp"
-    cdnAmpWebUrl: "https://zeenews-india-com.cdn.ampproject.org/c/s/zeenews.india.com/video/news/researchers-discover-new-method-to-create-tailored-odors-and-fragrances-with-help-of-machine-learning-2507664.html/amp"
+  - title: "Attempts to Eliminate Gender Bias in Natural Language Processing"
+    excerpt: "Scientists have discovered an improved way to reduce gender bias in natural language recognition models while conserving key info about words and meanings."
+    publishedDateTime: 2022-09-09T15:10:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=13231"
     type: article
     provider:
-      name: India.com
-      domain: india.com
-    quality: 59
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 39
     images:
-      - url: "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2022/09/08/00000003_70.jpg"
-        width: 700
-        height: 400
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/SocialSharingImage_13231_16627356813063569.jpg"
+        width: 2000
+        height: 772
         isCached: true
 
 secured: "4OarnYU7ZaWBQwrVZxhQBkmF33h4GIaLZseDWQ95CCsy+zP9PIE8ukXkbxMryho6eW8xg4n1HX5zAntU0HNKAXK1dynhkJ/MTjubpeMQybwuUNVIfSy21k1R9dgnV6BOrFFL/gWN1F1RlfJ7hlHi99J1UVKIBQ581ADF84poQsKy+3qf96NmhxMkQywcTeZ4rBpyNgjDz14b46LnrgGgtuPEbVqMsiVw4W0bU8ut699xXhr7UvWBCL+0FnEzCGyLgTfWHADIfJ6GDnfme71Ufkk5gfg9TddhpCxCPSji45L0osDrDoW1GLIZk14cdB8+3riNxeuGkBU4p4npMrqD4bq9+D+tT/Q3Uv7dzw6lAIsUUKKaZE5XR/Z0OpWRnlh+8TED8XBTlplKji8EmkAgG0N1aU0YRhawSBlmXJl8Gvclsf/Z9/Zx+k5X/lkP6xjV1SmelGewiofXDg4F72APq1TWx/FYBXmmFn3+imoXXNiSX1sq4ZfsuFxRKTe2wYDFOAdG9gRSXPVhVBuHu3tqQw==;9P7ZYs0ovUtCAiqyRiHiCw=="

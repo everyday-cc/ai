@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intel
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intelligence-and-the-future-of-marketing/amp/"
 type: article
 quality: 108
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://www.mmh.com/images/Antuit_Siva.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "A University of Maryland professor wants to expose the hidden bias in AI, and then use it for good"
+    excerpt: "Lauren Rhue researches the fast-paced world of artificial intelligence and machine learning technology. But she wants everyone in it to slow down."
+    publishedDateTime: 2022-09-13T09:00:00Z
+    webUrl: "https://www.baltimoresun.com/features/newsmaker/bs-fe-newsmaker-professor-facial-recognition-20220913-yvrvsnb2kngu3b4rza7k6qaugy-story.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 25
+    images:
+      - url: "https://www.baltimoresun.com/resizer//VDWyxdT2eZg5cSG8sFpSFc-hXEQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/U7TO26NTY5CEZJANEIRMTJZEYQ.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "8r8lMv99XL2+q4DUs1hb6aDM7vcfVAqb0ycFpItvAMar1Cj9UMFYNI+Yiv/BFzGgleOPBK48TlZzGcKr61yzoJIQvBaH9UmPzHF0biZmliLmoPNbzp0qP+b5K9sbj3YMyesATkpQH/C5ax7cXrs8EZW0O02B1H9F5RamApzuBVuZqkeik7jLq6CJDqiEdkdJa5weJvc27By0XrcrYw0cjClKr5HCVMQXRIBdTolWabQkCX6WjWe+3d28KQgIBqrp4rhORrFG+SfkwHIzRZFH1kNPvQ9Y80NpsppyBl+VF2r3LyOgLdBS5d/DyAsxRL4rn8qDI9+3SLoDkNaH4yzU2CvHLLQUD7hLRcvcdqtLvnBGo6t5whG53Zuvaulho5YOfMirkvtD7mZGHdv5yqsRIrBw/xZiGEv4mvpSKp6gkEfpXqmuJxEU7rX3ttNac7QyahcWh8oaDZu0sWim3zo0+ybyGipXNxrB8WcjkxLtw9O/xIoMonwK1WFyUU6e73+THdyjAwPSUogqkRWjM5XtnA==;4UbSs3onGSYKXsWzc5VodQ=="

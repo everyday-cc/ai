@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-09T16:56:00Z
 originalUrl: "https://www.embedded.com/autosens-vision-22-next-gen-hearables-aiaas-and-more-embedded/"
 webUrl: "https://www.embedded.com/autosens-vision-22-next-gen-hearables-aiaas-and-more-embedded/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AWS AI
 
 images:
   - url: "https://www.embedded.com/wp-content/uploads/2022/09/aries-embedded-smart-vision-m100pf-fpga-polarfire-microchip-H.jpg"

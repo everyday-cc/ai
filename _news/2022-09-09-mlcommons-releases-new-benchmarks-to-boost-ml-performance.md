@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/mlcommons-releases-new-benchmarks-to-boos
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/mlcommons-releases-new-benchmarks-to-boost-ml-performance/amp/"
 type: article
 quality: 93
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -33,20 +33,6 @@ images:
     isCached: true
 
 related:
-  - title: "MLCommoncs: Latest MLPerf AI Benchmark Results Show Machine Learning Inference Advances"
-    excerpt: "Today, the open engineering consortium MLCommons announced results from MLPerf Inference v2.1, which analyzes the performance of inference — the application of a trained machine learning model to new data."
-    publishedDateTime: 2022-09-08T17:00:00Z
-    webUrl: "https://insidehpc.com/2022/09/mlcommoncs-latest-mlperf-ai-benchmark-results-show-machine-learning-inference-advances/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 63
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2021/04/MLCommons-logo.jpg"
-        width: 500
-        height: 261
-        isCached: true
   - title: "MLCommons releases results of its latest MLPerf AI inference benchmark test"
     excerpt: "Nvidia’s flagship data center GPU, the H100, set multiple performance records during ... “In their debut on the MLPerf industry-standard AI benchmarks, NVIDIA H100 Tensor Core GPUs set world records in inference on all workloads, delivering up to ..."
     publishedDateTime: 2022-09-08T21:00:00Z

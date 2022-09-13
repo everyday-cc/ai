@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Oracle offers its MySQL HeatWave database and analytics on Amazon’s cloud"
-excerpt: "Oracle Corp has started to offer MySQL HeatWave, its cloud database service for transactions, analytics and machine learning, on Amazon's AWS cloud, allowing customers whose data is already parked there to use the service,"
-publishedDateTime: 2022-09-12T23:01:00Z
-originalUrl: "https://www.reuters.com/technology/oracle-offers-its-mysql-heatwave-database-analytics-amazons-cloud-2022-09-12/"
-webUrl: "https://www.reuters.com/technology/oracle-offers-its-mysql-heatwave-database-analytics-amazons-cloud-2022-09-12/"
+excerpt: "Oracle Corp. has started to offer MySQL HeatWave, its cloud database service for transactions, analytics and machine learning, on Amazon’s AWS cloud, allowing customers whose data is already parked there to use the service,"
+publishedDateTime: 2022-09-13T08:26:00Z
+originalUrl: "https://www.channelnewsasia.com/business/oracle-offers-its-mysql-heatwave-database-and-analytics-amazons-cloud-2934176"
+webUrl: "https://www.channelnewsasia.com/business/oracle-offers-its-mysql-heatwave-database-and-analytics-amazons-cloud-2934176"
 type: article
-quality: 53
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/auU-eGYlMXaI82GhWXiVQXOg6iA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C3KTSLO2ZRNVLMJPKCCNHB4N44.jpg"
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--7T-580Pc--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-09-12t204646z_2_lynxmpei8b0x1_rtroptp_3_oracle-tech.jpg?itok=6f8ytHIk"
     width: 1200
-    height: 628
+    height: 676
     isCached: true
 
 related:
@@ -55,6 +51,6 @@ related:
       domain: datanami.com
     quality: 19
 
-secured: "JTZRfv1V3/HpZ5vtb1t2F0olI/+CcbUyQSRGGLspynnEVgUAfblx0sBAY+3b0Hk6BfpxmI9Ympt2g7u2egOnJP0+nbll0bzjfmTTMMY6c7QkrGxxnWn6zGKGwVra6we/yWoXaT5KzUVMk1gtYWR/R2Br7JRhe+IgzdoAPTlm3ZgQyC7EjYwCpBLuJ9mqC5QNeOpP9Z62Cv8zbCXMkeCk3yUu2YkA6HzooTTicpcy/Yjwow0CqhLjIcp51SM0uNtQoGooM7iD6V1bETalCfoGJx+9kKIUnLc3+6IhRLxjWeMCXkiO8I03wzVibunJaSOFbQbGVBpXMgeAmrCVfidn2T1FEdNBzy/mNusrNH/2+FgviSThUgkSVPgjoqDi/rvA0R/Qbwq3Ka+ESNcrxKlI1JlL4fi3Qoho6TVFql33zmH4lcPjoe6LGPx7dlAzYMlSdelIFSo5oWE3eDlG6PtBej8dQhHZpSmZeiuKvu+FHitEFoxqNSS+EpXx5begAUSgjisemPY0ekiH2kT7w820yQ==;n7qcVvgWtckCbNy+UIm20w=="
+secured: "QnKkrSUyIC2G05buf+aet53qfFW9SFA9TRL+F1w9Ut85dhSKLCZ99tf5P5nmOA4+5B9Da26ktfldAuS0Al/MxjtPqDNr4A58rtHHk/PClfkn4RJKvLCA2Hl+3xWAXVBdmZh8wUqckJ77iCRZXxARLxl+MTnLpZj6FlExhHXsRyTjKJ9JcXjgqFmd3aW36KeJ8x/0xnW/dmaQ+zVWBLV8wi1d1ncOET2rIRA4kKL6dHI2LS3iTJjy7pXaAdgw/QzTBcKdoQb+LGsT4a0/mfmdCK4haFGJHED905kLcIVLkO1RAaFxF83q/XIo9TP4F580f96+oCaU2anodYynkVcPNEb9xaWntPCmdGtIoQSjW4s=;BpqOzTd+ZTDgHkqxKvZzdQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/08/12-ways-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/08/12-ways-ai-is-transforming-how-businesses-interact-with-customers/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://www.cio.com/wp-content/uploads/2022/09/maya-leibman-full-res-new.jpg?quality=50&strip=all&w=1024"
         width: 1024
         height: 683
+        isCached: true
+  - title: "How AI Is Making Launching a Business Easier Than Ever"
+    excerpt: "There has never been a better, easier time to start a business. Artificial intelligence technology is chipping away at the barriers to entry for aspiring entrepreneurs, which represent a meaningful segment of the U."
+    publishedDateTime: 2022-09-13T09:43:00Z
+    webUrl: "https://www.inc.com/ben-sherry/artificial-intelligence-starting-small-business.html"
+    type: article
+    provider:
+      name: Inc.
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1365653171_513239_jibqnl.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "4/+IWbRHy0dKpjUfifNByzgzCmojIxcrc378RfKaBXffuvFpfGYlYkA5EwlQ0KDsQobfYpi7b7dc8D/BxmB8nJSfCPbkGPDsvdbYTz2Se0h7mHrcuAjQ+V976RvIZZX6l4RSBSjnvr12CH/NBBIkRK+Le2Q7M4ZyE9o2SvyP5xnIOMBb4JwoXplCD5NMrdw+AStL6CtkpzORhsibjGOthjw8zMmJglc05iRz+XtaV8KUhmRg9ic218jpMduxaaBkkCI95bWU/9FZq8r3P/RRZPH9586AAAYqGOQYUoK0UO3QvtQ+4x/EH5WakUcxr61nxkBGnjFrdj1HBaTmau/7nnL8I0qOfXOKglr6v07/inGDo/i3f3ZWIhmULnDseSsHKx/iJmIIt+pz4LOR6AalQVVdmL6onb3GDOyFUcWFI/PZhPi68bR0O5oEJjL1j26s8jFFjaX0ZaktD1Nd8GBKck6qoVm3l2j60VF901kVuiL5gqGN5H6vr3D9VKdVyDpjwcfSrP8MHl4LVIHbSYNA7Q==;4CJGGNN5oBAZjBT9LaGQLA=="

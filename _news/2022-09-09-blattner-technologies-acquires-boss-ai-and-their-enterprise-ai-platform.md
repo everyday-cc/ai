@@ -60,6 +60,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "How AI Is Making Launching a Business Easier Than Ever"
+    excerpt: "There has never been a better, easier time to start a business. Artificial intelligence technology is chipping away at the barriers to entry for aspiring entrepreneurs, which represent a meaningful segment of the U."
+    publishedDateTime: 2022-09-13T09:43:00Z
+    webUrl: "https://www.inc.com/ben-sherry/artificial-intelligence-starting-small-business.html"
+    type: article
+    provider:
+      name: Inc.
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1365653171_513239_jibqnl.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "2uxQPPrqlgA/XM9sg4xRmTv6zHIHGegbQXxfVxAi2G1P9AnbdOqqSSDLsSmPR1qQ5Z6M26prQwY+t0fIjU2s3pAjKEKEMkl7496xBj1nBPvTd6xLb97yenblxihQ+/ihae/f3ahdMeTwEf9UYek5he47/Zv3PRCi/idMI4GJT4unVlFq8JLhpLN/6RpcpAC6yrN2kncR3Us6Nt0ULFp9FGLs6EqxmMRf5t2Et55nyr0i2fFvN3bwahY8gDIbRy1JJAA6CXSiAeuvgmkcbEYSKWsTTdvYYoNJSdRR7fYqDsI0tcqsVMSFtnDkHtoDl9t0AKHXFVNFFymfMAEbTbx7DNHC+paFHWtmJNovKJxgf3GffL6mQh4lzP1/MR37EJ4VK106d06rYiwEDzM7g3mahuxQKfHKaHgDcUJkYTGrFmR4kU7A4Cpvjf2qel7Z3T6r9lMmHbTnp3Gq5cKVSG3qQvFOfn5e7PziS9/PofLlzTyrNE+rtAoKBISdakrQYlCiaegATWdCkKi8GRJoQI/l4g==;o9GPyq2Oy03YH/h4dBudgg=="
 ---

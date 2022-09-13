@@ -1,20 +1,26 @@
 ---
 category: news
 title: "AWS Launches Region in the United Arab Emirates"
-excerpt: "In line with this, we welcome the launch of the AWS Region in the UAE, which we expect will increase our agility and help accelerate the rate of innovation and experimentation with the latest technologies such as artificial intelligence (AI) and machine ..."
-publishedDateTime: 2022-08-30T09:53:00Z
-originalUrl: "https://www.01net.it/aws-launches-region-in-the-united-arab-emirates/"
-webUrl: "https://www.01net.it/aws-launches-region-in-the-united-arab-emirates/"
+excerpt: "AWS is committed to helping customers in the UAE deploy the most advanced cloud technologies and achieve the highest levels of security, availability, and resiliency,” said Prasad Kalyanaraman, vice president of Infrastructure Services at AWS."
+publishedDateTime: 2022-08-30T06:27:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-economy-amazoncom-inc-d9b9452aac444bf3821796b7f621f354"
+webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-economy-amazoncom-inc-d9b9452aac444bf3821796b7f621f354"
 type: article
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "OjAJOPvVtA2zBdtn0JNhxAKorygiZiDd7tN65T2U65eLZCnQusDniui3a55v7BwxuMrrgZk0pY0AEdYrdh6ZKszXQfO2hPKFLK8bXgSErjKhMsUIKJL0FbxAAjjHTxKf+xpbf003YiKLt31eDTflWxur95Om78A78F7iG02GVPykNji05Zyzh3pXIy3cU68wkMwTq4ZIy12a9vLZPOxjFIDsVPUqnRJXFKDSE8dOZqefprRqpydcnss4XwgiCXXXQT3HUucTU5qf/PkFiFqHYovAQIWsf1J7EIn32LR+JwJifI5Cg6yn6c7IDCYDQ13cQ6R4jFTYrPQ2W0JBOgBpc2JhR1lQ35wcA0ji0ofbLIw=;NA9OQXtWARO+o4A6e/iv9A=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "8cpoLuuk6arC3wXoxZT1dqyqzcv390G29GX5Jl3UJ6kCZ6v/dSfGYq+t/g4yLPa+97rntS4CuftCe7osbX2pSJ8pcMq14ghJvGkawbu/VZqiO8b5lLkXd+A8jhIbKKSNfJLjDH2HK8UZ+nJiqea3eaSb3d1eFA0gLTwJXGjXAMN4xFKiSyZaWHaLnJZgSyfSvYYiZhCcz0DFv9YH1zo38E9KtxMdLj6/ZR5MKUSP77r9HGZrLI3jPycWn8wvXOqU8IPEYUiZ8xiX+TKicorbofYpVAE8JXuDjdyJske5e0Y64caw6fOZYXdlRD87NWACPgl4PY7IpisUKwOZPHFwDlcjrlRw7W1E2JxOToCONn4=;OShGlLlTwM5VGGR8dzDkAA=="
 ---
 

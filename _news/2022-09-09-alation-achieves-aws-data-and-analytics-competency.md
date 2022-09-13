@@ -36,18 +36,18 @@ related:
         height: 675
         isCached: true
   - title: "Oracle offers its MySQL HeatWave database and analytics on Amazon’s cloud"
-    excerpt: "Oracle Corp has started to offer MySQL HeatWave, its cloud database service for transactions, analytics and machine learning, on Amazon's AWS cloud, allowing customers whose data is already parked there to use the service,"
-    publishedDateTime: 2022-09-12T23:01:00Z
-    webUrl: "https://www.reuters.com/technology/oracle-offers-its-mysql-heatwave-database-analytics-amazons-cloud-2022-09-12/"
+    excerpt: "Oracle Corp. has started to offer MySQL HeatWave, its cloud database service for transactions, analytics and machine learning, on Amazon’s AWS cloud, allowing customers whose data is already parked there to use the service,"
+    publishedDateTime: 2022-09-13T08:26:00Z
+    webUrl: "https://www.channelnewsasia.com/business/oracle-offers-its-mysql-heatwave-database-and-analytics-amazons-cloud-2934176"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 53
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 23
     images:
-      - url: "https://www.reuters.com/resizer/auU-eGYlMXaI82GhWXiVQXOg6iA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C3KTSLO2ZRNVLMJPKCCNHB4N44.jpg"
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--7T-580Pc--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-09-12t204646z_2_lynxmpei8b0x1_rtroptp_3_oracle-tech.jpg?itok=6f8ytHIk"
         width: 1200
-        height: 628
+        height: 676
         isCached: true
 
 secured: "XM0JXQ2p5tYQTiM1U1SghIRCnkY1WqvoCg0NSRQNhk2hHK6Kycr7KcMI0yoiVaiuPsFW/6oWaxahpJOcDDmShKBl4p+fq83xHMejvN+yc0jQe0azuZx+X1PAbvNaBKKk7Zx0kpQy7rzQWCz4Z3tlLN4RhB60HpetiEfgSqhnfJXgRrgcb83PeZ9BChlsTav7cWnX/H9TrJNmI8UwWqQ5V/fkYlfhyvpSW486LCMXJjpIvztN2Jw+EmRKUSrbCO4rT6wNx0MqGFAUdHPzXj/Tf3LRMKkNcMkk2Dc0YmpggyFTTGQxHkgIftfGXzWP4VDjugX2ZynLEwCY/WQrMByKufagRiQVH/M5l0+aotJtyEMeV/9uenITdjetmwkyChXP8CUiFrZa/NuvjxSTzwTdSGPDkYu/NSlH0aP3L6gxn1wU962xNOWa/0d3uFRWdYtCruLUhL57cTSwn5NCGGgVVKxeeKp0gmpC+W0GV/uz+qfVuRwehPDiYmnTyojBDWIY/EsCzUi0u8nqM6LU059Ekg==;O6YqStsd8yc8WCegYz9yxg=="

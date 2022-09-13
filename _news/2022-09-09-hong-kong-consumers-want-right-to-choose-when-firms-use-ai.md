@@ -22,6 +22,22 @@ topics:
   - AI Ethics
   - AI
 
+related:
+  - title: "VMware Cloud on AWS Expands to Hong Kong"
+    excerpt: "HONG KONG SAR - Media OutReach - 13 September 2022 - Today, VMware announces VMware Cloud on AWS is now available in the Asia Pacific (Hong Kong) Region. This addition"
+    publishedDateTime: 2022-09-13T09:15:00Z
+    webUrl: "https://www.malaymail.com/news/money/mediaoutreach/2022/09/13/vmware-cloud-on-aws-expands-to-hong-kong/163390"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 39
+    images:
+      - url: "https://www.malaymail.com/theme_malaymail/images/malaymail/og-image.png"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "AcIII9Aavdongf4RMPbmWZnkEVtFrUtRaSbOypSxWANgRShbT0d5XYFaMDZPXHgHSuetiGpNKjy2xnUIdUIJGD8uGyvhlp0kHwzKYg9TjMojM1Cue4E4ZeMII5t+ZC1gX5QN0dlp+kA3kv027DwFOsty+ILv8hZPTEMZ4BknyX3TGynx8FhlpDwlNU4KEn+Tt0IcxVbaDfLX7I2AWhv6fj/XY4S9lOYYMIFo+gAprjfOC7DmU1pfkL2Cx7e5rKciKBQsOGEkHxetdEYkhQdzDvQiH3cZ9ARLXO9FxJO5TysKEzYL06GiyYMoOs6NNn5QAg8LBacySN34bI8+0on97tRH6pkJMUViPjw01zU45rHNtk/b6KCWGQfIBDCQkSZvEGz0clTMVPODKV1nfAcDKlwpQe6z3/Gm3+CQN8udcQvyjxPbmZGbPOwgUgTiUn+E68A+k46Bs1ECBQeovGgqr9F/fI+syQdX74vcg4ul6/GoWvbermFoekjumlNapi5zSIKKSs/IjKu0jVHvSw/Ilw==;DUy4Lainhl471mT61ExbtA=="
 ---
 

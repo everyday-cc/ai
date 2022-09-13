@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Launching a real-time AI solution for early throat cancer detection"
+    excerpt: "Marius Wellenstein, WSK Medical, explains the successful launch and implementation of Zeno AI, a real-time AI solution for early throat cancer detection"
+    publishedDateTime: 2022-09-13T08:47:00Z
+    webUrl: "https://www.openaccessgovernment.org/launching-a-real-time-ai-solution-for-early-throat-cancer-detection/143307/"
+    type: article
+    provider:
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 37
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2022/09/dreamstime_xxl_134779063-scaled.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "1FmJ1QOd9BNYH1bv0Fis0BNi/94uJuxBQk0mGkZ9c0uxrOgr6OekIOQ+a/rlURhKdVXQPLd5EGkSmdC03IS5WIsfYkpFEAtPSMHdxY8+ue2IFoePLh98buo5nIvUe1MvMFX6pF8f44SUsQyyD0UqGnh/7xmRcRMhjYD3b+IRNNWZMd7WcmgaZwqb0hZwaHT2pB09b6P7LLh/XXpret4gjJdnpDbk4sP8QZytCpNk2KZMUgAFyg+vEMx4X8ewa9kjIWlN1X3HO8QtapTEzKH4YiZTQP1yrmidrqj8yCqoNAfKPO/JgmdkTqVPw0+f6BgoDoiWJTg0NjE04xnsWGxO6sA5UfZebMCgQY56hMDmhJgqPtht63OT3B1wb6dkGpHCRNgXPuf1jg7f9Wl2/BML7urskAXjG7V32WyOE2lzqLUQt8ym/FzITqnC5u+HOu8vfNWQUUAWaws9RV5wMElG4eBh6aJhOiDHpNaLH0ZQ6XIKSYxa8P2l2SupoF1g8qP1bo09YybdypjT9IjbIafCsw==;TTWXfX5CaJucpkjgF1JX/A=="
 ---
