@@ -1,29 +1,20 @@
 ---
 category: news
 title: "Meltwater announces industry-leading, AI-powered visual listening and company search for faster and more precise insights"
-excerpt: "Meltwater announces industry-leading, AI-powered visual listening and company search for faster and more precise insights Meltwater's AI-powered visual listening and company search support 11 enrichment types and"
+excerpt: "Meltwater, a global leader in media and social intelligence, today announces industry-defining visual listening and company search capabilities. As a result,"
 publishedDateTime: 2022-09-13T15:00:00Z
-originalUrl: "https://www.asiaone.com/business/meltwater-announces-industry-leading-ai-powered-visual-listening-and-company-search-faster"
-webUrl: "https://www.asiaone.com/business/meltwater-announces-industry-leading-ai-powered-visual-listening-and-company-search-faster"
+originalUrl: "https://www.benzinga.com/pressreleases/22/09/g28850735/meltwater-announces-industry-leading-ai-powered-visual-listening-and-company-search-for-faster-and"
+webUrl: "https://www.benzinga.com/pressreleases/22/09/g28850735/meltwater-announces-industry-leading-ai-powered-visual-listening-and-company-search-for-faster-and"
 type: article
-quality: 14
-heat: 14
-published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Sep2022/Notified-GlobeNewswire-Color-Large_241.jpg?h=10d202d3&itok=4_DmRaO2"
-    width: 600
-    height: 316
-    isCached: true
-
-secured: "iGLOR6ieh+eGg6gziyFXOD5W0oOycHNZw5t8+gmo45f37DlmedoQuKcuSN0Q1/OqdwpWNv/YfCMzEWmUIhx3hN1eDeuop7q4lrdaYZ++AKdaEdKDu5S09ZHeBXwOVADOsjCj33dPKfagJlsJoLAmVx7FrKkBwnNBw/3laOwCbyraylptYsAOzRDX1ici/KmsVMtR6SqydU3lo14k/2REtiXxvq3g9CYlZKzUvp8G+/kB64wPWxfYR9XF07J3JEujPuPj47B/gC0L7/V22PK8GVkAs8+VXTsjAAzjslm1vG+StGn6QYbox5mLRjYZfCYz9ywh7AqmuEkQtW/wHYV0t9X0UoiaueFhI1JNNjSf53qS04/zbuvz8MydBoyQhUBLqk1kP8o6AobZkGot+A/GKQSpLo4vjSgsDSE8tiLOjhShagEpzGjZX9wTDO7KI0LQMaje1mXw8dgyr2RCP41QycT36VckO9zMugXgLyy8YYos7GpoUK4R2/CtuFTgLfkFD3xlKcLellznyemhU2f9Mw==;94TWB23buwc9KiWN31bvWA=="
+secured: "/GXWUEEFLlHz+uBkF9UsPeaJQRwMBynMCJGANb2SEbln/jf7btzLXo0jcl2mc/hDGSG9jrdKDvJXEdWxcmuDpgEwxahgjcRPzQojHj1KysacJVo4lxywuY4FwHNeQfJFlFLt4dMUNeAXDFgYub8Nq2FTv0C7sbhDTJLmB3pgje77FwLzPlmgSNX1tPUlYmrVsHSslOl2hWWzN3BazEh22TasB4eoJaja9x+Lm82r6lJ5kZGtKEb+I4DGGapiUYJDp5OdO5EHd/zScUjnW81drwzjfNlPNnDfxAbxvvmFKv/SGCF6+XckaIkl82bJeqp/BKY1xvQoSHnQVvpoqVj1S5nH5mtN73zyWGjsbR9lvCw=;LPz4FK72WRX+Kr+PbUub4Q=="
 ---
 
