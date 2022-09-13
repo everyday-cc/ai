@@ -21,7 +21,7 @@ website: https://profiles.stanford.edu/fei-fei-li
 twitter:
   username: drfeifei
   url: https://twitter.com/drfeifei
-  followers: 406599
+  followers: 406601
 
 googleScholar:
   url: https://scholar.google.com/citations?user=rDfyQnIAAAAJ
