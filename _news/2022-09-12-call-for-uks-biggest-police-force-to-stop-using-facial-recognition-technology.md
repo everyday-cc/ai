@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 450
         isCached: true
+  - title: "Senators petition ICE to curtail ‘Orwellian’ use of facial recognition, surveillance technology"
+    excerpt: "The letter is the latest instance of Congress seeking to rein in the purchase of Americans' personal data by law enforcement agencies."
+    publishedDateTime: 2022-09-13T16:25:00Z
+    webUrl: "https://www.fedscoop.com/senators-petition-ice-to-curtail-orwellian-use-of-facial-recognition-surveillance-technology/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 42
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2019/11/U.S._Citizenship_and_Immigration_Service.jpg?w=1200&h=500&crop=1"
+        width: 1200
+        height: 500
+        isCached: true
 
 secured: "TeVu8jCwW7mCmSwtJT7kbFaoDbQ8d/ZijzvXJeTqXQUYD46go8ycdPEhqGmx9A2TM8lgkoAAhgGDUGOOep2/6o/3Dn3hf7m8FWxTG31cmloO3wY70Ct6OSClNdGYU1C9IuBtc+9ZaoIMZloT0yuYyU5/GOxLHT2LiSK03G/3TeAFRLzWK5FxigzDjBhaGC1/ATAP+R1IWSCMNAufEE3il43Nl9pZohdd5loY0SgwdhJ22XPL0zyMhDxaJt1Qw1dX4wIfwjsCsGfde3qvJy6YXKar0TeKYbLxv07/ak4qivz7onfe5onGkL0VC/uJXB8zo+FDFINnFg1DkYAUo8yIGIyuxrCv7DNxfKYJ5fcmGT9Ar7GNYfDNARHqaJ3T5UQffKoYSKhoaFNUOzBlW2AB94GZ28v6uWYNV46oQASB1nrmsiBlZjz4rmWAtK73BNeEWFiyxxzaasTm18X+QnwXV6AkTnCaKSGiMVb7EdYIBvW9nfg/HyuAOLYw24VT6chY1ywhCxE2CTP0V18vZ2hqkQ==;bQG3Eck6wvDfGvIbASWhTg=="
 ---

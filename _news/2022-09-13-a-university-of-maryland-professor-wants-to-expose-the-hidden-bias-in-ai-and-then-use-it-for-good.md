@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 660
         isCached: true
-  - title: "AI and machine learning are transforming inventory optimization"
-    excerpt: "Lakshmanan is the CEO of antuit.ai, a cloud-based software company, now part of Zebra Technologies, which provides what we used to call multi-echelon inventory optimization right down to the shelf level for retailers."
-    publishedDateTime: 2022-09-09T00:00:00Z
-    webUrl: "https://www.logisticsmgmt.com/article/ai_and_machine_learning_are_transforming_inventory_optimization"
-    type: article
-    provider:
-      name: logisticsmgmt.com
-      domain: logisticsmgmt.com
-    quality: 54
-    images:
-      - url: "https://www.mmh.com/images/Antuit_Siva.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Microbiome Global Market Report 2022: Use Of Artificial Intelligence And Machine Learning Crucial For Future Growth - ResearchAndMarkets.com"
     excerpt: "The global microbiome market reached a value of nearly $340.8 million in 2021, having increased at a compound annual growth rate (CAGR) of 14.8% since 2017. The market is expected to grow from $340.8 million in 2021 to $945."
     publishedDateTime: 2022-09-13T11:41:00Z

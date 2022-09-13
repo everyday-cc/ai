@@ -6,7 +6,7 @@ publishedDateTime: 2022-09-13T14:05:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/new-artificial-intelligence-based-tools-for-monitoring-parkinson-s-disease-using-wearable-devices-1031740337"
 webUrl: "https://markets.businessinsider.com/news/stocks/new-artificial-intelligence-based-tools-for-monitoring-parkinson-s-disease-using-wearable-devices-1031740337"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Parkinson’s Disease Gets Diagnostic Help From Artificial Intelligence"

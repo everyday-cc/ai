@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/ai-startup-alcatraz-ai-tech-pitch-
 webUrl: "https://www.businessinsider.com/ai-startup-alcatraz-ai-tech-pitch-deck-2022-9"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 963
     height: 481
     isCached: true
+
+related:
+  - title: "Alcatraz AI plays on its Bulgarian connections for $25m series A"
+    excerpt: "The pitch deck says Alcatraz has a competitive advantage for years to come with the most complex biometric product ever brought to market."
+    publishedDateTime: 2022-09-13T17:02:00Z
+    webUrl: "https://www.biometricupdate.com/202209/alcatraz-ai-plays-on-its-bulgarian-connections-for-25m-series-a"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/11165134/alcatraz-rock-biometric-access-control.png"
+        width: 2048
+        height: 1152
+        isCached: true
 
 secured: "WrK9jvFokqC1vCku7IR9ZguQuDt2ROKDagNkPX+ngDdukLZh02sS6V14Ng+iD4Rrs1pwc1+9TaZ1IiDLXLGPOjoMnxdTxB2Pt/DA2Vb1c7kzVRE4Q0Ur6R0Ov4/ym5C2U5xZmXSmWsB4pQDiZaY+1kdwOlcuut7t7Xh/+ZqX80cSOF95/pBAqzMHxECzFRFVB/W9I5cYu+pcHyxCudXegop1EdlvUB9VBwhEPyJXeoAPnp1IAHwg+IiqW7NlkLgEdMZEJ6YUi9Jzf5i8qRsaSEHmcC2YLs+9M7z02OXyoVzz5jCn/C/lMe9uCpldyYPqQN7e198mbG/Pv9JlgKMr9/pfrJtGHytihcNOzdrX5oaNo0SGbiJmPs9PMB1KQS7nUD0iRePKgvCmS7+oPTi4iVP/qf8SpfQasTvcvRiXKcEH3A+BpfnNUYwtrh742OILjt4cSpW+aFcJN9+Ari8lG8Lytd9gsmcoLDVYt1yKBoNxjRu5dmxi0/1ivarT37wEXgt/SErRJxna01ybuGczFg==;bEmqEB2PbEHVADJFr2qfjg=="
 ---

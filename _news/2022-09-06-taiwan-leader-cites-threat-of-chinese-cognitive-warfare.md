@@ -5,10 +5,9 @@ excerpt: "HENGCHUN, Taiwan -- Taiwanese President Tsai Ing-wen said Tuesday that
 publishedDateTime: 2022-09-06T12:49:00Z
 originalUrl: "https://abcnews.go.com/International/wireStory/taiwan-leader-cites-threat-chinese-cognitive-warfare-89397850"
 webUrl: "https://abcnews.go.com/International/wireStory/taiwan-leader-cites-threat-chinese-cognitive-warfare-89397850"
+ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/taiwan-leader-cites-threat-chinese-cognitive-warfare-89397850"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/taiwan-leader-cites-threat-chinese-cognitive-warfare-89397850"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
   name: ABCNews
@@ -18,6 +17,12 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "peuJ7rez1xgUebVJiTHq0QffW0Sa9C4F78nuq+1jCiZdR2v/EDxr8lRwRGZ1YR10THasBJzazBYc0QFfcVAh78wR78r3Go8m7xiKo97Kq7XiXkQzgcmxLDwX2nn0Jn7W2WsRUuO5k6dFxihdrZ7CIfuS0Ie4hXyD4J6xqxGia7Qo4WwxS30u0SVKg8i7s70eYFnUz0xmw66+pi17aVIETs6QEFgqB1B3fBWk2TcSxrZF04XJs4YVryd7BTLuGmmdOKYAPYTYjRJb2BdM0bhRjsBLbw3DynvlObjzL/UG3iVclV+CMS/XGV2NqW8G0hcTJi69lf8z6BajOdjTCJhCw2oZI2Oukwdx5LfTbMshE74=;Usrtmh9myzHoSXLwYEfCVg=="
+images:
+  - url: "https://s.abcnews.com/images/International/WireAP_ac9eecbd8024490a896435952fb165bd_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
+
+secured: "PQqQtwJOwAtWmmOYIrZ5H5mQTimjvuy1BVMnsTvrgX9dnfJDwg+/BOo16CI5PmOJVokzOreF8jlATwDaI++wAX562VQ4Y8WE29La84qSSKgQYefv0fK4kaGrsVoNzwyZatpQ6cm9GgX7KNeCmEbXO8JcQqwPTfC9y53rqbVHhYH/5bhU3M+0n1sJtuTUoMYvTWMPGDmERT2Mrsb0ILZ60ojd5e5HGKGNaoO0kGKF/oMSmmGeGoP3gDGHRdIzOkORPLhXtD4eyeCLfqP1dVed0T6kvv8afFm3l4Es6IJThGrQHo/1Kc59ICHjypZz5+yeEHhaPjU6Un+y1/TOwGlrQjSjl/MzPEKvJNqVTL41Lx0=;Jg0X+WPnkwsdA//vYOJWjw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202209/paravision-face-biometrics-
 webUrl: "https://www.biometricupdate.com/202209/paravision-face-biometrics-contract-with-us-air-force-expands"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Canadian judge sends face biometrics use by govt in refugee claim to review"
+    excerpt: "A judicial review of the use of facial recognition in evaluating immigration claims has been ordered by a federal judge in a case involving refugee claimants."
+    publishedDateTime: 2022-09-13T17:32:00Z
+    webUrl: "https://www.biometricupdate.com/202209/canadian-judge-sends-face-biometrics-use-by-govt-in-refugee-claim-to-review"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
+        isCached: true
   - title: "Rank One stands out in NIST test of image quality assessment for face biometrics"
     excerpt: "A benchmark of facial image quality assessment algorithms for preventing bad input from causing problems with face biometric systems has been published by NIST."
     publishedDateTime: 2022-09-12T20:52:00Z

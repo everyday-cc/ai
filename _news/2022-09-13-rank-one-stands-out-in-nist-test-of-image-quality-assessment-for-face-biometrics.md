@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Canadian judge sends face biometrics use by govt in refugee claim to review"
+    excerpt: "A judicial review of the use of facial recognition in evaluating immigration claims has been ordered by a federal judge in a case involving refugee claimants."
+    publishedDateTime: 2022-09-13T17:32:00Z
+    webUrl: "https://www.biometricupdate.com/202209/canadian-judge-sends-face-biometrics-use-by-govt-in-refugee-claim-to-review"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
+        isCached: true
   - title: "Paravision face biometrics contract with US Air Force expands"
     excerpt: "The project involves developing and delivering a converged identity solution with biometric capabilities providing physical and logical access control."
     publishedDateTime: 2022-09-12T18:54:00Z

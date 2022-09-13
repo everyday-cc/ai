@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-13T15:30:00Z
 originalUrl: "https://www.spa.gov.sa/viewfullstory.php?lang=en&newsid=2383634"
 webUrl: "https://www.spa.gov.sa/viewfullstory.php?lang=en&newsid=2383634"
 type: article
-quality: 23
-heat: 23
+quality: 25
+heat: 25
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://clcdn.spa.gov.sa/galupload/thumb/no-image-logo.png"

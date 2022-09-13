@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-13T13:47:00Z
 originalUrl: "https://www.financial-planning.com/news/ai-isnt-about-man-vs-machine-its-about-ready-or-not"
 webUrl: "https://www.financial-planning.com/news/ai-isnt-about-man-vs-machine-its-about-ready-or-not"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://arizent.brightspotcdn.com/dims4/default/15503f2/2147483647/strip/true/crop/4032x2117+0+454/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F3f%2F08%2Fa25b14794a6692935a7e7398021e%2F20220912-133057.jpg"
@@ -24,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "aehHAO7cgjZSag0/peBn6/+W4aJ4LQ8uhLqmojehMg7jUA2SPYnVAGxJUCXw85NPn19sbwDywRxQuuD16s+2znQnlrQsd2NMNLxOLCr3fKAPgA1wdkC3ayZy6anDIUDD6dxwo3VJVi5a1XcC46oV/Mm7cRs8II+OkPg45HgpyCJyqpBIJ1w0FtTvjbFawt1ITqi6bwMBQUMmaqCfWREHgxJI5OVDhQLk8JWJ78621r0OjJIE1jtkm/1uj9u4l2XzIWG7fEppITUnPGs9BpytD2v2H9NMM//U8QEuclvsO1riNvYba+wZjNPgsEXFdSGbPMJPZQQf80gN2tREZrlL0VqFaLEi31kIPn+kQy/iakE=;+HwoP6keZZANQmjU/tKOTw=="
+secured: "BLwCguDDBvriqbdwGt0fN3GAihyTtpl7MK2aInyVMIt+LRr5Ctp/9zhwz5QQgCdWdr9eFEsHzrgDWExjbxiyHZ2oquSSueZeQfRPDFLs94rkdLODbu2DtenAl+p49L/AiBwkqK8sjKAFXyCCw7uLcWpNcemi+xV9/IBGbzDHu/eKpDJCJBHC7oHPQ7P2bEtZOzYKSfgwJp5W82ExR6/xjj7M0eKsTSSqrq/s4Aq8hFyKAsSkPEWYVJV4gIPxpX2ESMG/aYILsH5cOemFCpbue7vSxXFrp3pP88wCTZar6lEnSkQhgefSqZHtx5s/DtkbgqrDIABzSGMVLF1mt0WNELylJt1pfA4o7yeed5NqjxPY15LfFzkj0wRWBBmoIUNbCbhFkD7hiprK9FbEaFMRXv3rIy+T9B536/D7pOzSVQTfl7A+Z4qIodkzltDeVz7VJqfHmLoY4hWaD27tdv0RwqbS3UfX9vYH3wfooxEYZ9aOOFt7qX88tD2Pkglth1hs/SjycQUJZU8jVoxTVY6Q8Q==;7m5vU48U4AecayNs+qSnqg=="
 ---
 

@@ -47,6 +47,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "CCC Intelligent Solutions Wins 2022 IDC FinTech Rankings Real Results Award for CCC® Safekeep"
+    excerpt: "CCC Intelligent Solutions Inc. (CCC), a leading SaaS platform powering the P&C insurance economy, announced today it is a winner of the 2022 IDC FinTech Rankings Real Results Award which recognizes tech providers that have enabled a genuine,"
+    publishedDateTime: 2022-09-13T16:25:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ccc-intelligent-solutions-wins-2022-idc-fintech-rankings-/2022/09/13/9672698.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "i1mx89MzKqi7Kyv1Er73d9pgtW9MrQCvX1DRsvtbk+2SJmtVyL/A8fWnTH0Q5IxydAKg0hH/NYM0GvIrxFeBuIT8W3wANyof7236sXW3XAmNeDU/prsY7+mZGvENyxCwQeWEeCc0gn8P+ZlI+p6X9iYLHwWTMhw6UFkKBFbGLhxm8kk5HCCRNwkrSkxogVB1onDMU8eJg5FRiCtJ1s/3sRljePNWjr49Mqz7Vw6SSMc8klvochHwKUvL8gM4Lkw5C18BreusDNOkvFoAM1VA6gspPgaHzg8FpILehJpkD4WLI0Y0Ts3jtxlZOqU+ICqH6uxFJiu2tmvs4327Yr/mW1Pj3K8xiTaKTZ3KcBRI3vk=;yJ8DXCNBjg23ZIfBQVKxeA=="
 ---

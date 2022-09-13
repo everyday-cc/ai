@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intel
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intelligence-and-the-future-of-marketing/amp/"
 type: article
 quality: 108
-heat: 148
+heat: 138
 published: true
 
 provider:
@@ -48,20 +48,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1257975820-e1663004031979.jpg?w=1200&strip=all"
         width: 1200
         height: 660
-        isCached: true
-  - title: "AI and machine learning are transforming inventory optimization"
-    excerpt: "Lakshmanan is the CEO of antuit.ai, a cloud-based software company, now part of Zebra Technologies, which provides what we used to call multi-echelon inventory optimization right down to the shelf level for retailers."
-    publishedDateTime: 2022-09-09T00:00:00Z
-    webUrl: "https://www.logisticsmgmt.com/article/ai_and_machine_learning_are_transforming_inventory_optimization"
-    type: article
-    provider:
-      name: logisticsmgmt.com
-      domain: logisticsmgmt.com
-    quality: 54
-    images:
-      - url: "https://www.mmh.com/images/Antuit_Siva.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "A University of Maryland professor wants to expose the hidden bias in AI, and then use it for good"
     excerpt: "Lauren Rhue researches the fast-paced world of artificial intelligence and machine learning technology. But she wants everyone in it to slow down."

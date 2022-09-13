@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-medidata-used-am
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-medidata-used-amazon-sagemaker-asynchronous-inference-to-accelerate-ml-inference-predictions-up-to-30-times-faster/"
 type: article
 quality: 62
-heat: 82
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -24,6 +24,20 @@ topics:
   - Machine Learning
 
 related:
+  - title: "Prepare data at scale in Amazon SageMaker Studio using serverless AWS Glue interactive sessions"
+    excerpt: "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). It provides a single, web-based visual interface where you can perform all ML development steps, including preparing data and building, training, and deploying models. AWS Glue is a serverless"
+    publishedDateTime: 2022-09-13T16:01:15Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/prepare-data-at-scale-in-amazon-sagemaker-studio-using-serverless-aws-glue-interactive-sessions/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 92
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/13/aws-glue-interactive-sessions.jpg"
+        width: 1534
+        height: 767
+        isCached: true
   - title: "Deploy large models on Amazon SageMaker using DJLServing and DeepSpeed model parallel inference"
     excerpt: "The last few years have seen rapid development in the field of natural language processing (NLP). Although hardware has improved, such as with the latest generation of accelerators from NVIDIA and Amazon, advanced machine learning (ML) practitioners still regularly encounter issues deploying their large"
     publishedDateTime: 2022-09-09T18:32:41Z

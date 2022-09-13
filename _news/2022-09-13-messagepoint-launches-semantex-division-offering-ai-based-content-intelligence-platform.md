@@ -1,28 +1,33 @@
 ---
 category: news
 title: "Messagepoint Launches Semantex™ Division Offering AI-based Content Intelligence Platform"
-excerpt: "Messagepoint today announced the launch of Semantex ™, its new division providing an artificial intelligence (AI)-based content intelligence platform designed to empower developers tackling complex content-related challenges."
-publishedDateTime: 2022-09-13T14:22:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-6ea341e0bdd44508be519e6384f4b5f0"
-webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-6ea341e0bdd44508be519e6384f4b5f0"
+excerpt: "Messagepoint today announced the launch of Semantex™, its new division providing an artificial intelligence (AI)-based content intelligence platform designed to empower developers tackling complex content-related challenges."
+publishedDateTime: 2022-09-13T16:34:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/09/13/9672647.htm"
+webUrl: "https://it.tmcnet.com/news/2022/09/13/9672647.htm"
 type: article
-quality: 28
-heat: 28
+quality: 8
+heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
+related:
+  - title: "Visionary.ai Launches Video Denoiser for Improved Night Vision"
+    excerpt: "Visionary.ai, a developer of image processing software, today announced the launch of a real-time video denoiser that improves video"
+    publishedDateTime: 2022-09-13T13:00:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/visionary-ai-launches-video-denoiser-for-improved-night-vision-825802123.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 19
 
-secured: "f1LJvb34ewWcWs5AhD90jf2Zb6PJh635Fsy7Jck4W74EelFx/rGtXuBHLxoWHaCfGk/D7HuwlXwMSHxoEQyIE9lzy9a9nApcUWrKmZmHT6M+wOGY4cMvtJjyBHa61IMDnZrhWgfz8e+MeOzyDErb2V5nwjnw67mTl17/jvs0OTHLP+xe0D2fFWVb3hzMf+Ph8A3MkACgdT333zAWkIezEO7WYAQT0xwJLqqORQcqyFQ97jiUnTn/cKxCwd8Cr9rE5k7keVstkb65XTlX4bnMaGCgB0mU1kfzdHUjaV3ERJdnUlhZZGLSAa/eMpjaAwVZBzck0BLlADXTU1M85TVOcuofGgK9Pfqy1ywC4OQxrQA=;7FPCzlAosml8Sd8Cs0DHRQ=="
+secured: "CZBlmqCTgJPtiwyUfqfPrDR0JEukefR08kibhNDX2EOMgn80CyU8jh5eG45hytoqI1MlC2qHomejJx6uspbuTb9y0eraDKLsaWPlRAYASFn4PG+Y9P7lS+ua7XLMTBDRNKoFSlkLKM7FQqegqGHXTT7lrYm1u58rnYjuh5wI6qECROyTqwg2C9UZ7KQ2R6IZkybeR674uWzAoJ6xcPNCVY67QrCCEHbJA9l/GIenU776VSuk0wFt46ooCQMArmEkT0uFkbPrmhHqMjFJcgJyWKnzkwkby4QdRN+X5HblzrwooMqS68Ink6VjXjPjTybejPH9Zl6InWxuC1VGwrpdIHqHSqlfnbOIOinJI02oryk=;IVEJxkggLU8x1+cfPvPqtA=="
 ---
 

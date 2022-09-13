@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2022/09/meta-spins-
 webUrl: "https://arstechnica.com/information-technology/2022/09/meta-spins-off-pytorch-foundation-to-make-ai-framework-vendor-neutral/"
 type: article
 quality: 86
-heat: 166
+heat: 168
 published: true
 
 provider:

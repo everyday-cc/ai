@@ -18,6 +18,15 @@ topics:
   - AI
 
 related:
+  - title: "Healthcare researchers must be wary of misusing AI"
+    excerpt: "A commentary advocates the proper application of artificial intelligence in healthcare and warns of the dangers when machine learning algorithms are misused."
+    publishedDateTime: 2022-09-13T17:14:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/09/220913110401.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 64
   - title: "Health care researchers must be wary of misusing AI"
     excerpt: "An international team of researchers, writing in the journal Nature Medicine, advises that strong care needs to be taken not to misuse or overuse machine learning (ML) in health care research."
     publishedDateTime: 2022-09-13T14:52:00Z

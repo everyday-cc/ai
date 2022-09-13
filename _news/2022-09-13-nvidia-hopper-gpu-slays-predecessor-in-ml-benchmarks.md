@@ -9,8 +9,8 @@ ampWebUrl: "https://www.networkworld.com/article/3673256/nvidia-hopper-gpu-slays
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3673256/nvidia-hopper-gpu-slays-predecessor-in-ml-benchmarks.amp.html"
 type: article
 quality: 76
-heat: -1
-published: false
+heat: 96
+published: true
 
 provider:
   name: Network World
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Neural Magic's sparsity, Nvidia's Hopper, and Alibaba's network among firsts in latest MLPerf AI benchmarks"
-    excerpt: "The latest benchmark tests of chips for AI showed new approaches to dealing with ever-increasing scale, including clusters of machines, and sparsity, the pruning of neural nets to make them more efficient."
-    publishedDateTime: 2022-09-09T00:33:00Z
-    webUrl: "https://www.zdnet.com/article/neural-magics-sparsity-nvidias-hopper-and-alibabas-network-among-firsts-in-latest-mlperf-ai-benchmarks/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/neural-magics-sparsity-nvidias-hopper-and-alibabas-network-among-firsts-in-latest-mlperf-ai-benchmarks/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/neural-magics-sparsity-nvidias-hopper-and-alibabas-network-among-firsts-in-latest-mlperf-ai-benchmarks/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 92
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/165cf796993b915bf3d6ac71f4ffcb91020a663b/2022/09/08/fa74566e-d9f2-440f-b2cd-b9565104404e/nvidia-hopper-die-crop-for-twitter.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 802
-        isCached: true
   - title: "NVIDIA Hopper H100 GPU broke every record on MLPerf AI Benchmark"
     excerpt: "The most recent testing showed that NVIDIA A100 GPUs, which are now offered by important cloud service providers and system manufacturers, maintained their overall performance advantage in the mainstream category for AI inference."
     publishedDateTime: 2022-09-09T17:33:00Z
@@ -53,7 +37,16 @@ related:
       name: TechnoSports
       domain: technosports.co.in
     quality: 34
+  - title: "‘Nvidia sets performance record with new Hopper H100 GPU’"
+    excerpt: "Nvidia claims it set a performance record with the upcoming Hopper H100 Tensor Core GPU. According to Nvidia, the new GPU is up to 4.5 times faster than"
+    publishedDateTime: 2022-09-12T11:38:00Z
+    webUrl: "https://www.techzine.eu/news/infrastructure/88636/nvidia-sets-performance-record-with-new-hopper-h100-gpu/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 19
 
-secured: "qV6LTGGS9OLuKnUD3EAR/kyU3XkgYLPr9iLXixGXYS0DNnyuXGOGVqbqBCqDfTPR7lWBnuWYAng1A/D/MkOL4Bf/l5zHw8LajYBJMYwY905gYhVhg5FJgb3DZETNAFuFdrm9oY0h0eN7vkgCe7PBfHaYHuXWMQzEY2VuO6nNv+dkCWXQKDdIK1wdwgBQZktWccCxRbzsWxiSG/97e3B6WHgS35ACd2j8B2ndcUwUQzMCAJ9Q2MyuRRZMTU++rQg7hcL75fG5GvR/Viv9fZ+OYcAhuknNT4Fk35OpqUmv8ELjv7dCA1fSdAszR6phGqsR7DZsz7bjk6YFAo0iY/t63FGMx32OyTkdEqqlqA3eVMk=;36vg1zPsUib0gPuRZI5N6A=="
+secured: "BUl741EOiYrBgZhuHggmADLEYwNzVCfQ2T/TBjsk2ZsLxe9pjMSJvb8UTYppkM8V0Tah1saCUvfB5WZh8dVHM2wZKW27pW6kKEiIdhxn0dPRtIW3gVuxvB3yzLMS50eZgNmvlFTN2GPnG6z7skkOu0MZxYdobkNpUwRIqqtX90NpxBkfUP2Tq4syfZc4fm7PBRZ+Ak79MSGQzonWnGjPBxjnId20Q1X7XhkXf0gvACLOrBv+Qs0xIbv2KrIKlumr7K48OWw8atE2Noeeft5gkypJoc7J2JOOMumReobZLu/tW15gCmvK/2sd/hSjd4KnzsiER+5z67wdB9BnLMiAxakd8JAKoUaH85Q2cD2I8ufseEzTezEQ0tybft6ZStLiIGvG/dLsJlfCIRljJ9kkWO+eBZkYnUeNj6/hoD2nBWgOVRPQSoxEMupfWwqHjmONZomWIqbzRQ9AG1qUrIu+l7V+tTK71s+lV9UpfeAzcu7/tGZJCnx4BEY38BVVwX6tpeom2KrXuGQjH/IxpL+vFQ==;5yn9V305MRyF4l0VbG0a4g=="
 ---
 

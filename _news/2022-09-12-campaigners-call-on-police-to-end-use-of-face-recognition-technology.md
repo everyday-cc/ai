@@ -7,8 +7,8 @@ originalUrl: "https://eandt.theiet.org/content/articles/2022/09/campaigners-call
 webUrl: "https://eandt.theiet.org/content/articles/2022/09/campaigners-call-for-end-of-police-use-of-facial-recognition-technology/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: IET
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Senators petition ICE to curtail ‘Orwellian’ use of facial recognition, surveillance technology"
+    excerpt: "The letter is the latest instance of Congress seeking to rein in the purchase of Americans' personal data by law enforcement agencies."
+    publishedDateTime: 2022-09-13T16:25:00Z
+    webUrl: "https://www.fedscoop.com/senators-petition-ice-to-curtail-orwellian-use-of-facial-recognition-surveillance-technology/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 42
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2019/11/U.S._Citizenship_and_Immigration_Service.jpg?w=1200&h=500&crop=1"
+        width: 1200
+        height: 500
+        isCached: true
   - title: "Call for UK’s biggest police force to stop using facial recognition technology"
     excerpt: "Fourteen campaign groups have written an open letter to the new boss of the Metropolitan Police on his first day in the job."
     publishedDateTime: 2022-09-11T23:01:00Z

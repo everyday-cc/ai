@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/qai/2022/09/13/tesla-ai-day-2022-everythin
 ampWebUrl: "https://www.forbes.com/sites/qai/2022/09/13/tesla-ai-day-2022-everything-you-need-to-know/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/09/13/tesla-ai-day-2022-everything-you-need-to-know/amp/"
 type: article
-quality: 104
-heat: 104
+quality: 106
+heat: 107
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI Hardware
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6320a0f9a400968b15fe585a/0x0.jpg?format=jpg&width=1200"
@@ -30,6 +31,6 @@ images:
     height: 800
     isCached: true
 
-secured: "wwwYw/W94mbyfgwO8mF8UO73zhrwvjYjEZNS24rf3G5/JRLszjihtStkDmwpyDlSvXyBtOk3GHAN3BDAyGSsIQJSszgKvHJnK5LnF7Ff31YhMBJQ31PoGhM8yHegZVm7CZqk7G2YP3uebwxFtjtlQgQs2R/jeBmzEd6Mti5VU4OUNUQITkvRN/CEnVkn20MEmfVGwpVWhVJQ1Bbza0Zw4LKABpI/Qu8QOMVJ9Ohc9U0mLynMZRGPU9uJnQFjeTNaTeisKATh2CWTp6U1gBpIrSiQCzeWyTTucu2yYJLpISJz1pmDtsnzjxFDVTULVTyc2IRChW+bwVt+yu7WMu+exLBC+E76+u4ZKpdWGYQjFfQ=;+eoTPc4VzXh8E4zudh8ahA=="
+secured: "kJmliBDlSniC9a/GnOrQ9LJYswC2K9szKIklAT8ihbDGvKY+MYNTZz5DgqSytGEi2q2646KNpnxkesafCLbrHo9wNozo6n4IF8kprENt21J3409VpJ+MsHPYElKnsl4EiprqmWjNJoQee3XWmVLU6MVtELPupyV5v6Nxs0FNPTQSzsxhe00fayb4xgWqJtXauOxhKJAQh/hnmBmGZEZ7JVHkKh4Vqz8xf+oFathX06mK9rg+LLZhefauWNZorJJ+7Alk7RcIxexqYqHnczdyjWVISrBrUWqHYFuNUaHD0BFv5KIHF7RvXLx0m5py0vmAYXdZQGEdAHMoYQgaczLM8iDANqqG3GovlegveOHTPRa4qEHV/QggOpEz6cWLBhdLFu51AGTe5kk+rLo5d0CMB0pWTrIQOdVeH+6mloKDeDv/dxrejkC5Wsn+ZCfKOh3SraH8EISs76HPUd03iJpJaOnJqRkqRB8s56w2wZNGJKNt/fqhlSPFO2BSCIXb1/244Q5JGg4VEwEpCG2MYo24yw==;JXyQRwp14xzd6FoIbNwbjw=="
 ---
 

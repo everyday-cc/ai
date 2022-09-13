@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/0
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/09/12/leadership-in-times-of-ai-driven-automation/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "New Cadence Joint Enterprise Data and AI Platform Dramatically Accelerates AI-Driven Chip Design Development"
+    excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the delivery of the Cadence ® Joint Enterprise Data and AI (JedAI) Platform, enabling a generational shift from single-run, single-engine algorithms in electronic design automation (EDA) to algorithms that leverage big data and artificial intelligence (AI) to optimize multiple runs of multiple engines across an entire SoC design and verification flow."
+    publishedDateTime: 2022-09-13T16:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/09/13/9672667.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "ojv5S/r9LUNe/Eq7T0YikYgP8K7mPUUvUEN5LDAKuUCaSCuQioo6Pd4jphmQKZFM+BROqbGmpsXVbmzr/DKjMMqmRwEYj2TN+b6738AxYPiID+bEausQjmypcECaKjzEveyFa4sjDH+gPLCEEo42nowPdSAnt0hqsrUfv95sm3+Q9glCcLMCyVlgw64p41YUYMsuYJvmechCZ6FuuJbtg11aTt0z2arRioWNj3K2KOg6usk79Wg60vzpVvF+V/mXjxPht5V885TalT9wpg6U+Kv1cNS00B8WwBp5T/85aeINeMrF2M1CYCh6ZHWalsMqfsbveQpsSnTDCee+rnWDNIfvL0cNK2bi21GvlR2UZxfSxkjsp4YN5fnOd4hMmnNFiJNpMXJq/auXW0157y1OaP0C2bh7cE3NzsJoFDtNr1v0QayFOZv4O1HIWzuQ6VePjdI/SRaxu6FvrBQA5eNnwZxs7vUGA1K3noJL6TuVIOlrNXbdR1/7q7A8+ghBuNoEQpprkciM4btZLl+mGSPikw==;6W+0pWpt61+BPAQO0o3m7g=="
 ---
