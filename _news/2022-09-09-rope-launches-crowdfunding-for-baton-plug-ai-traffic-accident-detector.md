@@ -19,17 +19,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Rope Inc. Begins Crowdfunding for AI Traffic Accident Detector on Indiegogo"
-    excerpt: "Rope Inc. makes the Baton Plug, a device that automatically detects a car accident and sends emergency alerts. According to the World Health Organization (WHO), 392,904 people lost their lives in car accidents last year,"
-    publishedDateTime: 2022-09-08T08:25:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-rope-inc-begins-crowdfunding-ai-traffic-accident-detector-/2022/09/08/9669327.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
-
 secured: "swTSbosQ/8fQBZt3NhKJxefb9Ou3mQjdaPepGoZdqlKGaGHKGaxrVtutWNMuYFqwu4ZuAB7g5PSMycNLQYiqfvkmbbPNcs6dbF6sRJDG3EzBXf/fqu4a7LYCTt+27NXFpAXwkPWNPCZkGu8Q1RU2xzHQZiIHzCtd7oVCeEeiL6VvxyXfIFuptYNEN0TFgIkofqVgzIMCDwYagf/7XMmw+AfYWSVD6rc1LrqL5tKP87Kw7fnxpf7RSfgrZnH59PUR8EdiXfESkXEqnuZmPtuurH1G4GC4zhI5uQE1mja9TGJHyOx4DsWOWkI9OPD9wiO+UxtWe3992Jpnbkktw6n7edZf+XqHozcajt+QCJnRWEQ=;f1hJsoApXzoCLmuj/1DFRQ=="
 ---
 

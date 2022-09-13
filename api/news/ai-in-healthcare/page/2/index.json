@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-24-streamlining-lung-cancer-radiotherapy-with-deep-learning.md",
+      "title": "Streamlining lung cancer radiotherapy with Deep Learning",
+      "excerpt": "Lung cancer, the most common cancer worldwide, is targeted with radiation therapy (RT) in nearly one-half of cases. RT planning is a manual, resource-intensive process that can take days to weeks to complete,",
+      "sourceUrl": null,
+      "webUrl": "https://healthcare-in-europe.com/en/news/lung-cancer-radiotherapy-deep-learning.html",
+      "originalUrl": "https://healthcare-in-europe.com/en/news/lung-cancer-radiotherapy-deep-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthcare-in-europe.com/media/story/27271/rect-01-adobestock-296280067.jpg",
+          "width": 400,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-24T04:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "healthcare-in-europe.com",
+        "domain": "healthcare-in-europe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-08-24-the-benefits-of-artificial-intelligence.md",
       "title": "The Benefits of Artificial Intelligence",
       "excerpt": "Artificial intelligence benefits are realized across many sectors, from robotic process automation to self-driving cars to AI-powered data analytics platforms. Across the world of enterprise and ...",
@@ -1396,50 +1440,6 @@
         "AI Ethics",
         "AI",
         "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-how-artificial-intelligence-could-lower-nuclear-energy-costs.md",
-      "title": "How artificial intelligence could lower nuclear energy costs",
-      "excerpt": "Nuclear power plants provide large amounts of electricity without releasing planet-warming pollution. But the expense of running these plants has made it difficult for them to stay open. If nuclear is to play a role in the U.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-08-artificial-intelligence-nuclear-energy.html",
-      "originalUrl": "https://techxplore.com/news/2022-08-artificial-intelligence-nuclear-energy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/1-nuclear.jpg",
-          "width": 1920,
-          "height": 1278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-08-artificial-intelligence-nuclear-energy.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-artificial-intelligence-nuclear-energy.amp",
-      "publishedDateTime": "2022-08-11T11:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
         "AI in Autos"
       ]
     }

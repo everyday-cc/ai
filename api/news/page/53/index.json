@@ -2,6 +2,58 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2022-07-29-how-ai-is-making-gen-z-the-most-financially-sophisticated-generation.md",
+      "title": "How AI is making Gen Z the most financially sophisticated generation",
+      "excerpt": "Artificial intelligence is helping an entire generation close the financial literacy gap. From large banks to fintech startups, the financial services industry is leveraging the power of Artificial Intelligence (AI) to attract and assist Gen Z customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/finance/banking/how-ai-is-helping-gen-z-manage-their-money/",
+      "originalUrl": "https://www.zdnet.com/finance/banking/how-ai-is-helping-gen-z-manage-their-money/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/25df3905c4451440013e7266c3c5e48ff30aaeda/2022/07/01/d65645b1-d2e8-40b8-83eb-81135e8299cd/gettyimages-1313131469.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/finance/banking/how-ai-is-helping-gen-z-manage-their-money/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/finance/banking/how-ai-is-helping-gen-z-manage-their-money/",
+      "publishedDateTime": "2022-07-28T15:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-29-nvidia-megatron-not-a-robot-in-disguise-but-a-large-language-model-thats-getting-faster.md",
       "title": "Nvidia Megatron: Not a robot in disguise, but a large language model that’s getting faster",
       "excerpt": "Nvidia's Megatron has been upgraded to help train LLMs more efficiently by reducing the amount of memory and compute required for training.",
@@ -1111,49 +1163,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology.md",
-      "title": "IIT Madras launches ‘Nilekani Centre at AI4Bharat’ to advance Indian language technology",
-      "excerpt": "AI4Bharat will further contribute to and accelerate the Indic language AI work as a public good and ... has helped develop models for Machine Translation and Speech Recognition, among other ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology-8907751.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology-8907751.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2022/07/Mr-Nandan-Nilekani-3rd-R-Prof-V-Kamakoti-L-Director-IIT-Madras-at-launch-of-‘Nilekani-Centre-at-AI4Bharat’-set-up-at-IIT-Madras-588x435.jpg",
-          "width": 588,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology-8907751.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology-8907751.html/amp",
-      "publishedDateTime": "2022-07-28T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

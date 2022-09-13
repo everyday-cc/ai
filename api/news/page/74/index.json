@@ -2,6 +2,49 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2022-07-12-kiromic-biopharma-appoints-leonardo-mirandola-phd-as-chief-scientific-officer.md",
+      "title": "Kiromic BioPharma Appoints Leonardo Mirandola, Ph.D. as Chief Scientific Officer",
+      "excerpt": "Kiromic BioPharma, Inc. (NASDAQ: KRBP) (“Kiromic” or the “Company”), a clinical-stage fully integrated biotherapeutics company using its proprietary DIAMOND ® artificial intelligence and data mining platform to develop cell and gene therapies with a focus on immuno-oncology,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-health-houston-artificial-intelligence-b409850d0c8f42308209b1d4544574df",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-health-houston-artificial-intelligence-b409850d0c8f42308209b1d4544574df",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T05:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-brad-pitt-believes-he-has-rare-face-blindness-disorder-what-is-it.md",
       "title": "Brad Pitt Believes He Has Rare 'Face Blindness' Disorder -- What Is It?",
       "excerpt": "It can be caused at birth from damage in a part of the brain called the fusiform gyrus, which is considered a key structure for high-level visual interpretation like facial and object recognition.",
@@ -1052,58 +1095,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-meta-ai-tool-sphere-could-help-curb-fake-news.md",
-      "title": "Meta AI Tool 'Sphere' Could Help Curb Fake News",
-      "excerpt": "Facebook parent company Meta on Monday launched Sphere, an AI information verifier that validates the strength of claims in web entries, as reported earlier by TechCrunch. The tec",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/meta-unveils-ai-tool-sphere-that-aims-to-curb-fake-news/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/meta-unveils-ai-tool-sphere-that-aims-to-curb-fake-news/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/f764397dea71d90194b41539de5a8fe49771aacb/2022/04/15/43325f3b-1eb4-4b1d-b5c2-2c6518bd6ea8/meta-logo-2022-202.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/meta-unveils-ai-tool-sphere-that-aims-to-curb-fake-news/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meta-unveils-ai-tool-sphere-that-aims-to-curb-fake-news/",
-      "publishedDateTime": "2022-07-11T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

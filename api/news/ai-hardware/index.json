@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/09/12/leadership-in-times-of-ai-driven-automation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -647,20 +647,20 @@
     },
     {
       "path": "_news/2022-09-02-with-new-china-ai-chip-restrictions-us-takes-aim-at-a-critical-niche.md",
-      "title": "With new China AI chip restrictions, U.S. takes aim at a critical niche",
-      "excerpt": "What the affected chips share is the ability to carry out calculations for artificial intelligence work quickly, at huge scale and with high precision. Less powerful AI chips can work quickly at ...",
+      "title": "With new China AI chip restrictions, US takes aim at a critical niche",
+      "excerpt": "The restricted chips have the ability to carry out AI calculations quickly, at huge scale, and with high precision, necessary for tasks such as designing fighter jets The United States beefed up ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/markets/us/with-new-ai-chip-rules-us-takes-aim-critical-niche-2022-09-01/",
-      "originalUrl": "https://www.reuters.com/markets/us/with-new-ai-chip-rules-us-takes-aim-critical-niche-2022-09-01/",
+      "webUrl": "https://www.rappler.com/technology/china-ai-chip-nvidia-amd-restrictions-september-2022/",
+      "originalUrl": "https://www.rappler.com/technology/china-ai-chip-nvidia-amd-restrictions-september-2022/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/eV_gFCcnk0mB3RWyjki3Q3V9Y24=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SZN5DDVTSFM35KGV52W2454S6E.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://www.rappler.com/tachyon/2022/09/reuters-nvidia-sept-2022-scaled.jpg",
+          "width": 2560,
+          "height": 1707,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -670,21 +670,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T05:35:00-07:00",
+      "publishedDateTime": "2022-09-02T04:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Rappler",
+        "domain": "rappler.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

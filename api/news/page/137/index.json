@@ -2,6 +2,57 @@
   "page": 137,
   "value": [
     {
+      "path": "_news/2022-05-26-managing-disaster-and-disruption-with-ai-one-tree-at-a-time.md",
+      "title": "Managing disaster and disruption with AI, one tree at a time",
+      "excerpt": "Ingesting loads of fine-grained data helps, but it's not enough to make fine-grained predictions. You need domain expertise too, and that's what AiDash is applying for its Disaster and Disruption Management System.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/managing-disaster-and-disruption-with-ai-one-tree-at-a-time/",
+      "originalUrl": "https://www.zdnet.com/article/managing-disaster-and-disruption-with-ai-one-tree-at-a-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/73bae000afbb29e45de6d36562f743d03de03834/2020/03/04/1467e396-e73a-4bed-9fa9-9071765a45f9/bushfires-2020-1024x341.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/managing-disaster-and-disruption-with-ai-one-tree-at-a-time/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/managing-disaster-and-disruption-with-ai-one-tree-at-a-time/",
+      "publishedDateTime": "2022-05-26T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-26-intrado-offers-mosaicx-conversational-artificial-intelligence-on-google-cloud-marketplace.md",
       "title": "Intrado Offers Mosaicx Conversational Artificial Intelligence on Google Cloud Marketplace",
       "excerpt": "Intrado Corporation, a global leader in technology-enabled services, today announced Mosaicx, its conversational artificial intelligence (“AI”) solution, is now available on Google Cloud Marketplace.",
@@ -1017,48 +1068,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-navy-unmanned-task-force-lead-common-control-system-critical-to-enable-artificial-intelligence.md",
-      "title": "Navy Unmanned Task Force Lead: Common Control System Critical to Enable Artificial Intelligence",
-      "excerpt": "The head of the Navy’s Unmanned Task Force said a control system common for aerial, surface and underwater unmanned systems is still the goal as the Navy develops and fields unmanned systems for the fleet,",
-      "sourceUrl": null,
-      "webUrl": "https://seapowermagazine.org/navy-unmanned-task-force-lead-common-control-system-critical-to-enable-artificial-intelligence/",
-      "originalUrl": "https://seapowermagazine.org/navy-unmanned-task-force-lead-common-control-system-critical-to-enable-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://seapowermagazine.org/wp-content/uploads/2022/05/MUMT-2-scaled.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T16:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SEAPOWER",
-        "domain": "seapowermagazine.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

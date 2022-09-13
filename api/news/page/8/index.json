@@ -1094,21 +1094,21 @@
       ]
     },
     {
-      "path": "_news/2022-08-31-unraveling-the-mysteries-of-the-night-sky-with-ai.md",
-      "title": "Unraveling the mysteries of the night sky with AI",
-      "excerpt": "Technische Universität Ilmenau (Germany) is using artificial intelligence to improve the detection and classification of unidentified phenomena in the night sky. The research team of the group for data-intensive systems and visualization collaborated with the American Meteor Society,",
+      "path": "_news/2022-08-31-ndsu-faculty-develops-artificial-intelligence-technology-to-predict-onset-of-diabetes.md",
+      "title": "NDSU faculty develops artificial intelligence technology to predict onset of diabetes",
+      "excerpt": "Students and faculty work on a breath test to detect blood sugar levels for diabetics at North Dakota State University. We are part of The Trust Project. FARGO, N.D. • Danling Wang, assistant ...",
       "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-08-unraveling-mysteries-night-sky-ai.html",
-      "originalUrl": "https://phys.org/news/2022-08-unraveling-mysteries-night-sky-ai.html",
+      "webUrl": "https://www.grandforksherald.com/prairie-business/ndsu-faculty-develops-artificial-intelligence-technology-to-predict-onset-of-diabetes",
+      "originalUrl": "https://www.grandforksherald.com/prairie-business/ndsu-faculty-develops-artificial-intelligence-technology-to-predict-onset-of-diabetes",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/unraveling-the-mysteri.jpg",
-          "width": 1135,
-          "height": 526,
+          "url": "https://cdn.forumcomm.com/dims4/default/bb341af/2147483647/strip/true/crop/5267x2560+0+473/resize/1440x700!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.amazonaws.com%2Fbrightspot%2F2e%2F0e%2Fab7e9cd84a14a6491d7a7e28e641%2Fndsu-faculty-developing-cutting-edge-ai-technology.jpg",
+          "width": 1440,
+          "height": 700,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1116,13 +1116,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-08-unraveling-mysteries-night-sky-ai.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-unraveling-mysteries-night-sky-ai.amp",
-      "publishedDateTime": "2022-08-31T09:46:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T09:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
+        "name": "Grand Forks Herald",
+        "domain": "grandforksherald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1132,6 +1132,7 @@
         "news"
       ],
       "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

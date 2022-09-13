@@ -2,6 +2,49 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2022-08-11-its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so.md",
+      "title": "It’s alive? Meta’s latest artificial intelligence chatbot version thinks so",
+      "excerpt": "The colorful responses from BlenderBot show the limitations of building automated conversational tools, which are typically trained on large amounts of public online data.",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/",
+      "originalUrl": "https://wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wraltechwire.com/wp-content/uploads/2022/04/head-g5f86490fe_1280-e1650366569125.jpg",
+          "width": 1267,
+          "height": 713,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/?amp=1",
+      "publishedDateTime": "2022-08-11T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-11-how-artificial-intelligence-could-lower-nuclear-energy-costs.md",
       "title": "How artificial intelligence could lower nuclear energy costs",
       "excerpt": "Nuclear power plants provide large amounts of electricity without releasing planet-warming pollution. But the expense of running these plants has made it difficult for them to stay open. If nuclear is to play a role in the U.",
@@ -1121,58 +1164,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-metas-new-ai-powered-chatbot-isnt-crazy-about-facebook.md",
-      "title": "Meta's New AI-Powered Chatbot Isn't 'Crazy' About Facebook",
-      "excerpt": "Sitting in front of a computer screen, I'm typing messages to a new chatbot created by Facebook parent company Meta. We talk about pizza, politics and even social media. \"What do you think about Facebook?",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/social-media/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/",
-      "originalUrl": "https://www.cnet.com/news/social-media/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/3abc51f996503ec0faa83f567236fed169e31f5c/2022/05/16/06eca44f-31a2-4125-bb40-44bdda74f935/meta-with-facebook-emoji-reaction-faces-blue.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/",
-      "publishedDateTime": "2022-08-10T16:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

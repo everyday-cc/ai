@@ -2,6 +2,40 @@
   "page": 150,
   "value": [
     {
+      "path": "_news/2022-05-17-people-data-labs-joins-aws-isv-accelerate-program.md",
+      "title": "People Data Labs Joins AWS ISV Accelerate Program",
+      "excerpt": "People Data Labs (PDL), which provides 3 billion unique B2B data records for developers, engineers, and data scientists, has announced today that it has been accepted into the Amazon Web Services (AWS) Independent Software Vendor Accelerate (ISVA) Program,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/science-c463fadcb10931e64fc81f415fb11959",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/science-c463fadcb10931e64fc81f415fb11959",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-17T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-17-l3harris-selected-for-key-department-of-defense-artificial-intelligence-program.md",
       "title": "L3Harris Selected for Key Department of Defense Artificial Intelligence Program",
       "excerpt": "L3Harris Technologies (NYSE:LHX) has been selected by the U.S. Department of Defense to deliver artificial intelligence services to improve intelligence gathering and collaboration across the defense and intelligence communities.",
@@ -1036,57 +1070,6 @@
       "ampWebUrl": "https://venturebeat.com/2022/05/16/crippling-ai-cyberattacks-are-coming-4-ways-companies-can-prepare/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/16/crippling-ai-cyberattacks-are-coming-4-ways-companies-can-prepare/amp/",
       "publishedDateTime": "2022-05-16T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-finding-ais-low-hanging-fruit.md",
-      "title": "Finding AI’s low-hanging fruit",
-      "excerpt": "In some circles, the idea of going smaller with AI is catching on. Instead of a complete forklift upgrade across the entire business process, it’s better to do the easy stuff first.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/16/finding-ais-low-hanging-fruit/",
-      "originalUrl": "https://venturebeat.com/2022/05/16/finding-ais-low-hanging-fruit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1219474321.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/16/finding-ais-low-hanging-fruit/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/16/finding-ais-low-hanging-fruit/amp/",
-      "publishedDateTime": "2022-05-16T09:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",

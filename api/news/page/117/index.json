@@ -2,6 +2,49 @@
   "page": 117,
   "value": [
     {
+      "path": "_news/2022-06-10-ai-dubbing-startup-papercup-raises-20m-from-sky-others.md",
+      "title": "AI Dubbing Startup Papercup Raises $20M From Sky, Others",
+      "excerpt": "The capital injection will allow the British firm to invest in bringing \"more human-like voices\" and \"human emotion\" to artificial intelligence dubbing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hollywoodreporter.com/business/business-news/ai-dubbing-papercup-funding-1235161871/",
+      "originalUrl": "https://www.hollywoodreporter.com/business/business-news/ai-dubbing-papercup-funding-1235161871/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hollywoodreporter.com/wp-content/uploads/2022/06/Jesse-e1654764987385.jpg?w=1024",
+          "width": 1024,
+          "height": 875,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hollywoodreporter.com/business/business-news/ai-dubbing-papercup-funding-1235161871/amp/",
+      "cdnAmpWebUrl": "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/business/business-news/ai-dubbing-papercup-funding-1235161871/amp/",
+      "publishedDateTime": "2022-06-09T11:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hollywood Reporter",
+        "domain": "hollywoodreporter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-continuously-monitor-predictor-accuracy-with-amazon-forecast.md",
       "title": "Continuously monitor predictor accuracy with Amazon Forecast",
       "excerpt": "We’re excited to announce that you can now automatically monitor the accuracy of your Amazon Forecast predictors over time. As new data is provided, Forecast automatically computes predictor accuracy metrics, providing you with more information to decide whether to keep using, retrain, or create new",
@@ -1136,50 +1179,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-roborock-s7-maxv-ultra-wins-t3-award-2022-for-best-robot-vacuum.md",
-      "title": "Roborock S7 MaxV Ultra Wins T3 Award 2022 for Best Robot Vacuum",
-      "excerpt": "Considering the tough competition amongst its robovac peers, it's clear that the advanced object recognition technology, customized cleaning options and performance in cleaning hard floors and ...",
-      "sourceUrl": null,
-      "webUrl": "https://fox4kc.com/business/press-releases/cision/20220609CN84169/roborock-s7-maxv-ultra-wins-t3-award-2022-for-best-robot-vacuum/",
-      "originalUrl": "https://fox4kc.com/business/press-releases/cision/20220609CN84169/roborock-s7-maxv-ultra-wins-t3-award-2022-for-best-robot-vacuum/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1836333/Roborock_S7_MaxV_Ultra.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX4 Kansas City",
-        "domain": "fox4kc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -45,6 +45,15 @@ related:
         width: 4000
         height: 2666
         isCached: true
+  - title: "GM's Cruise Robotaxi Unit to Offer Driverless Rides in Phoenix, Austin This Year"
+    excerpt: "A self-driving GM Bolt EV is seen during a media event where Cruise, GM's autonomous car unit, showed off its self-driving cars in San Francisco, California, U.S. November 28, 2017. REUTERS/Elijah Nouvelage Reuters SAN FRANCISCO (Reuters) -General Motors' self-driving technology unit Cruise plans to expand its driverless ride service to include Phoenix,"
+    publishedDateTime: 2022-09-12T20:33:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2022-09-12/gms-self-driving-car-unit-cruise-to-offer-driverless-rides-in-phoenix-austin-this-year"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 44
 
 secured: "gAnHPjGxwNqWR/1KkAZOt00fMwxf3Tk3PER4ToN0oAebsQIL69yezA3hPqXIU+raEex/TT3xDCbhz0SQvkS13EmnamykGT9yUa6siMem6U8yyF3z4qzAna63zfuxPRfPHhvYLQ1cny4SQAnd4fwB5HaOGU5PbI8Wzjx7vgQa3DAtLY6OdEApNoSFyDWL7lgqMjsZ8p69Q7shl1IiORCyw/0nqD0EEWhIc4hrN6XS6BSfmIUxovjJHRcAUCYjub7PsGc+rLuVKS0BYFfGN5V/mbmJM0bAAgwU1nYX5Ro9mVoUQTLq5LNBWGxpVZRdT7iHAlIsv6XaRzhOu1V5cIn7iCi6TTEnFwu/wzANMOT54QY=;GCuaWFoAO4do6H0RFaY/PA=="
 ---
