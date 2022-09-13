@@ -10,7 +10,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2022/09/meta-spins-off-pytorch-foundation-to-make-ai-framework-vendor-neutral/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -50,7 +50,8 @@
       ],
       "topics": [
         "AI",
-        "Facebook AI"
+        "Facebook AI",
+        "Machine Learning"
       ]
     },
     {

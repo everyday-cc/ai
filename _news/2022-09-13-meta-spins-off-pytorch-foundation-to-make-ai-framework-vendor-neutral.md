@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-12T21:33:00Z
 originalUrl: "https://arstechnica.com/information-technology/2022/09/meta-spins-off-pytorch-foundation-to-make-ai-framework-vendor-neutral/"
 webUrl: "https://arstechnica.com/information-technology/2022/09/meta-spins-off-pytorch-foundation-to-make-ai-framework-vendor-neutral/"
 type: article
-quality: 84
-heat: 154
+quality: 86
+heat: 156
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - Machine Learning
 
 images:
   - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/pythorch_hero_1-760x380.jpg"
@@ -108,6 +109,6 @@ related:
       domain: datanami.com
     quality: 21
 
-secured: "o2iWwQqPXDRL7ItWbiYE2mvusAwU3P5vqfg6PYmU8dGqZ3n5ym6XhfkZrHzMg/9JXN4JA0n3fzBoojUifgwS7kJhdel4hTKX+A3bEXBS0Ue9SqGjK4qlHw6LlG9lRrOjqdiog+F2crI2jJg2ZqhmITpXSrQ87y+ZnGKbUUfkIYaB4/lxspvLeUNm/PD0Ticr37gTvJn5Mx7RBEZXPLM+3eY8dhUfjrPHAtBJY2ob0y6ZtJmyg5UH9t5tUdgditJ0YxJH0eQ7jQmiEWz8IZi25zMiFQBjchjY6EXjAI04qZ3JJCqZiKdYs+nyDYMC+3Fq4Ymrj8M5mhzbr6kLi+veRnSALSe10eXYzGLU6x3Y1Us=;DTggUNw13RHTO9U2hyNT2w=="
+secured: "sfbtGT8eYSWoe+5tIaXpND+a0Z2yO4HUxSrhgu3ZIm450AyuMPkAYtGNRNRWTpTcTSLtDanfZ07f/f9aT1iECfTLfwRY89OvYl5y0ygU/BSvUOzCXHxMfguzZsORQNRF0HM38ObNQ9MMvYrZD/y7sRceh3MWn/1uk1ydym/kkWaO/q+BKdM98cOG18MAO22AGFjCh8yCIxsDJqWFwRT8QWfJ8P2T1WLlxhy1AudWKxVZNtd5b570ZWVy5VoTfVc+NxJchafNtHx/Tsr6YWIxzJ3CJ+MtAwM+2xCV1lkHLt5R43/lHa+CJ5BQhqtM/ZqN0IMaVB3gDqXInn9OlqvIoeqfZ9k6kEb3eHoDqld6F0Ax6ziIV6raIOW9hDkUVa+L1EcbgfyTupoDNzVwOW5bXqTK/wK1QM6FJR4pkkp4BDqFZGpsD1CXIdMWlZjtz+/ihvSu8PCKWmPT7aw1VFAMs1nqZ29I9WJrm/uBP5rbZP0GB9QUa9nXOOnL14/EVJGmIoYUQWPOlY6tk1gvPYE3UA==;JP1x/33QBHHF5AhYy5zmhA=="
 ---
 

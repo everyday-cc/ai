@@ -2,6 +2,111 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2022-07-14-flush-with-new-cash-assemblyai-looks-to-grow-its-ai-as-a-service-business.md",
+      "title": "Flush with new cash, AssemblyAI looks to grow its AI-as-a-service business",
+      "excerpt": "AssemblyAI, which is developing API-based services for AI-powered audio and video analysis services, has closed a $30M funding round led by Insight Partners.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/14/flush-with-new-cash-assemblyai-looks-to-grow-its-ai-as-a-service-business/",
+      "originalUrl": "https://techcrunch.com/2022/07/14/flush-with-new-cash-assemblyai-looks-to-grow-its-ai-as-a-service-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/assembly-ai-ceo-dylan-fox.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/14/flush-with-new-cash-assemblyai-looks-to-grow-its-ai-as-a-service-business/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/14/flush-with-new-cash-assemblyai-looks-to-grow-its-ai-as-a-service-business/amp/",
+      "publishedDateTime": "2022-07-14T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-07-14-rocky-linux-9-brings-security-enhancements-and-better-performance-for-enterprise-users.md",
+      "title": "Rocky Linux 9 brings security enhancements and better performance for enterprise users",
+      "excerpt": "Rocky Linux 9 shares many of the capabilities of Red Hat's Linux 9, including updated cryptographic libraries and security enhancements.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/14/rocky-linux-9-brings-new-build-system-for-enterprise-users/",
+      "originalUrl": "https://venturebeat.com/2022/07/14/rocky-linux-9-brings-new-build-system-for-enterprise-users/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1355611023_update.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/14/rocky-linux-9-brings-new-build-system-for-enterprise-users/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/14/rocky-linux-9-brings-new-build-system-for-enterprise-users/amp/",
+      "publishedDateTime": "2022-07-14T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-07-14-what-to-look-for-in-machine-learning-for-cybersecurity-solutions.md",
       "title": "What To Look For In Machine Learning For Cybersecurity Solutions",
       "excerpt": "In the cyberworld, the “game” pits your computing environment—protected by your skilled but overworked security team—against a range of miscreants and nation-state-sponsored actors seeking illicit access to your crown jewels.",
@@ -1062,82 +1167,6 @@
         "AI",
         "AI in Autos",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-25-things-elon-musk-promised-and-didnt-deliver.md",
-      "title": "25 Things Elon Musk Promised and Didn't Deliver",
-      "excerpt": "infusing the human brain with artificial intelligence, and creating driverless cars that are run with software. His latest claim: that he would take over Twitter and more than quadruple its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/25-things-elon-musk-promised-160000576.html",
-      "originalUrl": "https://www.aol.com/25-things-elon-musk-promised-160000576.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-13T16:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-jcc-joins-intel-artificial-intelligence-program.md",
-      "title": "JCC joins Intel artificial intelligence program",
-      "excerpt": "WATERTOWN — Jefferson Community College has been selected as one of four community colleges in the state to join the Artificial Intelligence Incubator Network, an initiative launched in January by",
-      "sourceUrl": null,
-      "webUrl": "https://www.nny360.com/communitynews/education/jcc-joins-intel-artificial-intelligence-program/article_43170b98-8f82-5e38-850c-1e2503fb3d86.html",
-      "originalUrl": "https://www.nny360.com/communitynews/education/jcc-joins-intel-artificial-intelligence-program/article_43170b98-8f82-5e38-850c-1e2503fb3d86.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/nny360.com/content/tncms/assets/v3/editorial/9/91/991778af-82d2-5e7e-b370-330c81cfbd4a/62cf5d1b44ae4.image.jpg?crop=1770%2C929%2C0%2C120&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-13T16:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NNY360",
-        "domain": "nny360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

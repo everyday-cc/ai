@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Oracle Announces MySQL HeatWave on AWS"
-excerpt: "AWS users can now run transaction processing, real-time analytics, and machine learning in one service with MySQL. MySQL HeatWave delivers 7X better price performance compared to"
-publishedDateTime: 2022-09-12T21:54:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-oracle-announces-mysql-heatwave-aws-/2022/09/12/9671597.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-oracle-announces-mysql-heatwave-aws-/2022/09/12/9671597.htm"
+excerpt: "AWS users can now run transaction processing, real-time analytics, and machine learning in one service with MySQLMySQL HeatWave delivers 7X"
+publishedDateTime: 2022-09-12T20:34:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/oracle-announces-mysql-heatwave-on-aws-1031738311"
+webUrl: "https://markets.businessinsider.com/news/stocks/oracle-announces-mysql-heatwave-on-aws-1031738311"
 type: article
-quality: 21
-heat: 21
+quality: 51
+heat: 51
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Microsoft AI
-  - AI
   - AWS AI
+  - AI
+  - Microsoft AI
 
-secured: "8y90g2WBubL4tqgI9twZYauK2FWdeqkfGcBpSaIBxKKdxc5DAC75XSQPQyPSVo0AXaQXdR2b8bezqfI0ht1m/kcEtKiX8NbJrXF/BbK19OD/JioQAsb3P88jMtAhOuQFh2Gy6ZFI2Lid+/AHoLTq3w1NMFHK84ujtD9gVsECMGiFPBb0ntElyPNM3XZg6xWIKC/yZphcAySh8KQ3hU/CHw/h88QonxIDtGdgSgi7EP5toA6+LDo/+UNbH9Rz9VLjb+QqaihWRp6MHUoFlyZSC31tXkGWWgP6nRyyB1kedFygO6KRFOgUEaihMxgmUcK9un6azVsD2xq5lG4SpaFqUrUzXiIDqbQURTueuld+xTg=;niGUgj6G3ZHA+B8q5fIwiw=="
+secured: "RaHJ2Oe5B3lteuU98NO1k5bTQ020pb/1eeTHLk481KrNbEJrb06JBRsT4YkyIZvYVUx4h5nQsIzQMXbqGFSj7gNzsYShDxm3NBYhqqwJNqu4nIAJ8McqUevuCoql1ouXebUQq74f8a/3/zekTWPYDsZaE7yL2WbeIk2pxQk04BvsOF4A+jaBg7YGv76smp1BNP3n0nQ9oqNAw28vxcIsfZsFVZmHs2HZfPbkhs8J1gQgRi8OX6AVXCnvTd2h/sEU+VbdAtwEouM7cTgP41QXL2CxEPF6Es6nALssA+KYG5aj2SgPMWT0migz7JijkBUfOntb0ofebGCyYs0v2SiwePSlBmqYL3x1RvOdG8YjKco=;OXMmZcDk/yNmqVSLkC6lYA=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-13-the-startup-making-robotic-arms-more-accessible-and-less-complicated.md",
+      "title": "The Startup Making Robotic Arms More Accessible And Less Complicated",
+      "excerpt": "Ally Robotics, a startup specializing in AI-powered robotic arms, is working on doing just that. Ally is ushering in a new era of robotics—and giving early investors a unique opportunity to join the golden age.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/sponsored/story/the-startup-making-robotic-arms-more-accessible/",
+      "originalUrl": "https://www.wired.com/sponsored/story/the-startup-making-robotic-arms-more-accessible/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6317568af64c675d6d1a517f/master/pass/Ally_Image1.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/sponsored/story/the-startup-making-robotic-arms-more-accessible/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/sponsored/story/the-startup-making-robotic-arms-more-accessible/amp",
+      "publishedDateTime": "2022-09-12T15:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-11-artificial-intelligence-could-be-a-great-equaliser.md",
       "title": "Artificial intelligence could be a great equaliser",
       "excerpt": "The benefits of AI will accrue not only to the wealthy and technologists but also to the poor and disadvantaged",
@@ -141,7 +193,7 @@
       "originalUrl": "https://menafn.com/1104833237/EZ-Robot-Provides-Robotics-Education-To-Future-Proof-Youth",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1346,60 +1398,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-ai-startup-simaai-debuts-purpose-built-ai-chip-for-edge-computing.md",
-      "title": "AI startup SiMa.ai debuts 'purpose-built' AI chip for edge computing",
-      "excerpt": "The chip company places special emphasis on software innovations such as compiler optimization to improve performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/",
-      "originalUrl": "https://www.zdnet.com/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/880f030bba7a4480fe84f79f48a479e12de7a17e/2022/08/30/9a7626ba-c727-4205-8109-e0d5caf30154/sima-mlsoc-evaluation-board.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 749,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/",
-      "publishedDateTime": "2022-08-30T15:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Machine Learning",
-        "AI in Robotics"
       ]
     }
   ],

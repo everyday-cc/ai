@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/world-news/on-kennedy-s-moonshot-spee
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/world-news/on-kennedy-s-moonshot-speech-anniversary-biden-to-push-fight-against-cancer-101662958934994-amp.html"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
     provider:
       name: abc13
       domain: abc13.com
+    quality: 14
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/12224138_BidenMoonshot.jpg?w=1600"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "'We're going to cure cancer': Biden channels JFK on 60th anniversary of his moonshot speech"
+    excerpt: "Biden and health advisers are touting a new study showing promise in screening for multiple cancers, as well as a plan to increase funding for cancer research and treatments."
+    publishedDateTime: 2022-09-12T20:18:00Z
+    webUrl: "https://abc7chicago.com/cancer-moonshot-joe-biden-boston-speech/12224137/"
+    type: article
+    provider:
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
     quality: 14
     images:
       - url: "https://cdn.abcotvs.com/dip/images/12224138_BidenMoonshot.jpg?w=1600"

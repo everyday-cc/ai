@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2022/09/11/4-hot-takes-about-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/09/11/4-hot-takes-about-the-wild-new-world-of-generative-ai/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/09/09/7e155e06-9f77-49c9-9630-05a27c908f54_aef98985.jpg?itok=GvpaLK-r&v=1662718218"
         width: 1200
         height: 630
-        isCached: true
-  - title: "As AI-generated art takes off – who really owns it?"
-    excerpt: "Advances in AI have fuelled concerns over the ethical and legal implications of co-creating art with machines."
-    publishedDateTime: 2022-09-08T05:30:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/09/08/as-ai-generated-art-takes-off---who-really-owns-it"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/09/08/1728898.jpg"
-        width: 1240
-        height: 826
         isCached: true
   - title: "As AI-generated art takes off, who really owns it?"
     excerpt: "The growing use of artificial intelligence, in art and other sectors, throws up complex issues of ethics, copyrights, and privacy"

@@ -2,6 +2,92 @@
   "page": 98,
   "value": [
     {
+      "path": "_news/2022-06-22-giving-ai-cars-a-memory-may-help-navigate-challenging-conditions.md",
+      "title": "Giving AI Cars a \"Memory\" May Help Navigate Challenging Conditions",
+      "excerpt": "Cars using artificial neural networks have no memory of the past and are in a constant state of seeing the world for the first time – no matter how many times they’ve driven down a particular road before. The researchers have produced three concurrent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/neuroscience/news/giving-ai-cars-a-memory-may-help-navigate-challenging-conditions-362901",
+      "originalUrl": "https://www.technologynetworks.com/neuroscience/news/giving-ai-cars-a-memory-may-help-navigate-challenging-conditions-362901",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/362901/giving-ai-cars-a-memory-may-help-navigate-challenging-conditions-362901-640x360.jpg?cb=20220622",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-welcome-aboard-this-is-a-driverless-train-unions-begin-their-own-demise.md",
+      "title": "Welcome aboard, this is a driverless train: unions begin their own demise",
+      "excerpt": "London ground to a standstill yesterday as transport workers began a series of strike action As the summer sun makes the UK feel like a Mediterranean resort, we are also about to see the perils of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cityam.com/welcome-aboard-this-is-a-driverless-train-unions-begin-their-own-demise/",
+      "originalUrl": "https://www.cityam.com/welcome-aboard-this-is-a-driverless-train-unions-begin-their-own-demise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cityam.com/wp-content/uploads/2022/05/GettyImages-1239070358.jpg",
+          "width": 594,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cityam.com/welcome-aboard-this-is-a-driverless-train-unions-begin-their-own-demise/?amp=1",
+      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/welcome-aboard-this-is-a-driverless-train-unions-begin-their-own-demise/?amp=1",
+      "publishedDateTime": "2022-06-22T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "City A.M.",
+        "domain": "cityam.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-human-like-eye-movements-improve-object-recognition-in-machine-vision-video.md",
       "title": "Human-like eye movements improve object recognition in machine vision (VIDEO)",
       "excerpt": "A self-driving car uses human-like saccadic eye movements and correctly identifies a stop sign in time to stop.",
@@ -1031,102 +1117,6 @@
         "AI",
         "Natural Language Processing",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-why-data-driven-marketing-needs-artificial-intelligence-and-machine-learning.md",
-      "title": "Why data-driven marketing needs artificial intelligence and machine learning",
-      "excerpt": "Bobby Gray, head of analytics and data marketing at Artefact, looks at how organizations can tackle the resulting data loss with a first-party data mindset – and the adoption of artificial intelligence and machine learning. No one needs reminding that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedrum.com/opinion/2022/06/22/why-data-driven-marketing-needs-artificial-intelligence-and-machine-learning",
-      "originalUrl": "https://www.thedrum.com/opinion/2022/06/22/why-data-driven-marketing-needs-artificial-intelligence-and-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-assets-03.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-247257-alina-grubnyak-ziqkhi7417a-unsplash--default--1280.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T02:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Drum",
-        "domain": "thedrum.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-the-25-most-significant-new-york-city-novels-from-the-last-100-years.md",
-      "title": "The 25 Most Significant New York City Novels From the Last 100 Years",
-      "excerpt": "Four writers and one bookseller gathered over Zoom to make a list devoted to fiction in which the city is more than mere setting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/06/22/t-magazine/new-york-city-novels-books.html",
-      "originalUrl": "https://www.nytimes.com/2022/06/22/t-magazine/new-york-city-novels-books.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/06/22/t-magazine/entertainment/22tmag-t25novels-slide-GHUM-copy/22tmag-t25novels-slide-GHUM-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/06/22/t-magazine/new-york-city-novels-books.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/06/22/t-magazine/new-york-city-novels-books.amp.html",
-      "publishedDateTime": "2022-06-22T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

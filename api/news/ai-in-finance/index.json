@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-09-12-london-has-raised-more-fintech-investment-than-any-other-global-hub.md",
-      "title": "London Has Raised More Fintech Investment Than Any Other Global Hub",
-      "excerpt": "MoneyTransfers.com reports that London has successfully attracted the most fintech investment, reaching $3.1 billion in 2022. Jonathan Merry, CEO of MoneyTransfers.com, commented on the report: \"The U.",
-      "sourceUrl": null,
-      "webUrl": "https://techround.co.uk/finance/london-raises-more-fintech-investment/",
-      "originalUrl": "https://techround.co.uk/finance/london-raises-more-fintech-investment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techround.co.uk/wp-content/uploads/2021/04/investment-2021.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techround.co.uk/finance/london-raises-more-fintech-investment/amp/",
-      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/finance/london-raises-more-fintech-investment/amp/",
-      "publishedDateTime": "2022-09-12T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRound",
-        "domain": "techround.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-12-ai-fights-money-laundering-at-japanese-regional-bank.md",
       "title": "AI fights money laundering at Japanese regional bank",
       "excerpt": "A regional bank in Japan is turning to artificial intelligence in its fight against money laundering. The Bank of Yokohama rolled out its AI system in June. It was developed in cooperation with a computer-system development company.",
@@ -1294,6 +1251,58 @@
         "name": "Nasdaq",
         "domain": "nasdaq.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-17-when-ai-meets-fintech-discover-more-about-the-match-made-in-heaven.md",
+      "title": "When AI Meets Fintech : Discover More About the Match Made in Heaven!",
+      "excerpt": "Unsurprisingly, the entire credit goes to the fintech industry, and the market is booming. Indeed, the pandemic posed a challenge in front of businesses, which fortunately led to a better understanding of technologies and adoption of the same.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/when-ai-meets-fintech-discover-more-about-the-match-made-in-heaven-2022-08-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/when-ai-meets-fintech-discover-more-about-the-match-made-in-heaven-2022-08-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

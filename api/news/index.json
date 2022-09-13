@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-13-the-startup-making-robotic-arms-more-accessible-and-less-complicated.md",
+      "title": "The Startup Making Robotic Arms More Accessible And Less Complicated",
+      "excerpt": "Ally Robotics, a startup specializing in AI-powered robotic arms, is working on doing just that. Ally is ushering in a new era of robotics—and giving early investors a unique opportunity to join the golden age.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/sponsored/story/the-startup-making-robotic-arms-more-accessible/",
+      "originalUrl": "https://www.wired.com/sponsored/story/the-startup-making-robotic-arms-more-accessible/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6317568af64c675d6d1a517f/master/pass/Ally_Image1.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/sponsored/story/the-startup-making-robotic-arms-more-accessible/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/sponsored/story/the-startup-making-robotic-arms-more-accessible/amp",
+      "publishedDateTime": "2022-09-12T15:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-13-meta-spins-off-pytorch-foundation-to-make-ai-framework-vendor-neutral.md",
       "title": "Meta spins off PyTorch Foundation to make AI framework vendor neutral",
       "excerpt": "The move comes as the adoption of the PyTorch framework has become widely used across the deep learning industry to power many natural language and computer vision projects, including Tesla Autopilot.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2022/09/meta-spins-off-pytorch-foundation-to-make-ai-framework-vendor-neutral/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -50,7 +102,8 @@
       ],
       "topics": [
         "AI",
-        "Facebook AI"
+        "Facebook AI",
+        "Machine Learning"
       ]
     },
     {
@@ -150,6 +203,58 @@
       ]
     },
     {
+      "path": "_news/2022-09-12-flooded-with-ai-generated-images-some-art-communities-ban-them-completely.md",
+      "title": "Flooded with AI-generated images, some art communities ban them completely",
+      "excerpt": "Baio, who has been following AI art ethics closely on his blog, first noticed the bans and reported about them on Friday. So far, major art communities DeviantArt and ArtStation have not made any AI-related policy changes,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/09/flooded-with-ai-generated-images-some-art-communities-ban-them-completely/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/09/flooded-with-ai-generated-images-some-art-communities-ban-them-completely/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/stable_diffusion_on_lexica-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-12-how-diveplane-uses-explainable-ai-to-bolster-ai-adoption.md",
       "title": "How Diveplane uses explainable AI to bolster AI adoption",
       "excerpt": "Diveplane has raised $25M in series A funding for its explainable AI solutions supporting transparent decision-making and data privacy.",
@@ -240,49 +345,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-london-has-raised-more-fintech-investment-than-any-other-global-hub.md",
-      "title": "London Has Raised More Fintech Investment Than Any Other Global Hub",
-      "excerpt": "MoneyTransfers.com reports that London has successfully attracted the most fintech investment, reaching $3.1 billion in 2022. Jonathan Merry, CEO of MoneyTransfers.com, commented on the report: \"The U.",
-      "sourceUrl": null,
-      "webUrl": "https://techround.co.uk/finance/london-raises-more-fintech-investment/",
-      "originalUrl": "https://techround.co.uk/finance/london-raises-more-fintech-investment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techround.co.uk/wp-content/uploads/2021/04/investment-2021.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techround.co.uk/finance/london-raises-more-fintech-investment/amp/",
-      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/finance/london-raises-more-fintech-investment/amp/",
-      "publishedDateTime": "2022-09-12T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRound",
-        "domain": "techround.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     },
@@ -450,7 +512,7 @@
       "originalUrl": "https://www.businesslive.co.za/bloomberg/news/2022-09-12-amazons-alexa-inventor-tunstall-pedoe-raises-20m-for-ai-start-up/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -526,7 +588,7 @@
       "originalUrl": "https://www.hindustantimes.com/world-news/on-kennedy-s-moonshot-speech-anniversary-biden-to-push-fight-against-cancer-101662958934994.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -612,7 +674,7 @@
       "originalUrl": "https://www.forbes.com/sites/robtoews/2022/09/11/4-hot-takes-about-the-wild-new-world-of-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -908,7 +970,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/tips-to-improve-your-amazon-rekognition-custom-labels-model/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -1160,58 +1222,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-can-githubs-copilot-ai-put-the-fun-back-into-being-a-developer.md",
-      "title": "Can GitHub's Copilot AI put the fun back into being a developer?",
-      "excerpt": "GitHub researchers compare how fast developers can code with Copilot's AI assistance versus a group relying on standard developer practices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/can-githubs-copilot-ai-put-the-fun-back-into-being-a-developer/",
-      "originalUrl": "https://www.zdnet.com/article/can-githubs-copilot-ai-put-the-fun-back-into-being-a-developer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/e7f41c23c78ae961de68476b633faee24029f645/2022/01/24/fdda2feb-eeb5-434d-8127-b3c46da6e7a5/gettyimages-666009646.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/can-githubs-copilot-ai-put-the-fun-back-into-being-a-developer/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-githubs-copilot-ai-put-the-fun-back-into-being-a-developer/",
-      "publishedDateTime": "2022-09-09T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

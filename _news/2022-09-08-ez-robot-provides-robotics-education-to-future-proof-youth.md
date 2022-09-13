@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1104833237/EZ-Robot-Provides-Robotics-Education
 webUrl: "https://menafn.com/1104833237/EZ-Robot-Provides-Robotics-Education-To-Future-Proof-Youth"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 427
     height: 250
     isCached: true
-
-related:
-  - title: "Why household robot servants are a lot harder to build than robotic vacuums and automated warehouse workers"
-    excerpt: "With recent advances in artificial intelligence and robotics technology, there is growing interest in developing and marketing household robots capable of handling a variety of domestic chores."
-    publishedDateTime: 2022-09-08T13:29:00Z
-    webUrl: "https://techxplore.com/news/2022-09-household-robot-servants-lot-harder.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 1
 
 secured: "/62fv8s5w3pqmUomu35pY/wZoa3JnvomAWkVDwlixmnQBsBYqRBaTdbYWJ68WIleWf3LiwCQnYuqStZA4Or/iK+sBIVD6CO09wBXP4/RAVnd+iMrZfcejVN7yma8aQasjBfcFw8U16hBtAfKMJXKBcrnobC5++65Nqhp3JOHvRa+QFkM5CcxCeq6yX4ol0mr/s2Gz9P1el6PGObctNH61haJLf6NuNVEbSv/5Hw5vhjQANOtcyFu45DU9XXv8uNgScr9NHkDCGhRz7MlYCljsvdj8Z7Y6JxQvc+2io+JuV5Pg25w3qQUvmVnNdTUgqnDX/7oO2Tbd24Hk6ACp8b/TLMLWjV79iqBgXgZM0Vdk4M=;EWlmMSFtRTfwJrLbiaKCyw=="
 ---

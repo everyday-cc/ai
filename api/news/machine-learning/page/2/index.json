@@ -2,6 +2,41 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-01-how-to-use-ml-and-ai-in-the-fintech-industry.md",
+      "title": "How to Use ML and AI in the Fintech Industry?",
+      "excerpt": "Driving innovations in certain industries, such as Fintech, AI, and ML, are particularly instrumental. Almost all industry statistics refer to the stupendous growth of AI-powered Fintech solutions ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/blogposting/22835/how-to-use-ml-and-ai-in-the-fintech-industry",
+      "originalUrl": "https://www.finextra.com/blogposting/22835/how-to-use-ml-and-ai-in-the-fintech-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-neural-networks-predict-forces-in-jammed-granular-solids.md",
       "title": "Neural networks predict forces in jammed granular solids",
       "excerpt": "Combining computer simulations with tools from artificial intelligence ... uses a machine learning method known as a graph neural network (GNN). The researchers have demonstrated that GNNs ...",
@@ -1342,58 +1377,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-deep-dive-why-3d-reconstruction-may-be-the-next-tech-disruptor.md",
-      "title": "Deep Dive: Why 3D reconstruction may be the next tech disruptor",
-      "excerpt": "D reconstruction, is a growing computer vision domain increasingly in demand from industries including augmented and virtual reality.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/deep-dive-why-3d-reconstruction-may-be-the-next-tech-disruptor/",
-      "originalUrl": "https://venturebeat.com/ai/deep-dive-why-3d-reconstruction-may-be-the-next-tech-disruptor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1358286748.jpg?fit=800%2C571&strip=all",
-          "width": 799,
-          "height": 571,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/deep-dive-why-3d-reconstruction-may-be-the-next-tech-disruptor/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/deep-dive-why-3d-reconstruction-may-be-the-next-tech-disruptor/amp/",
-      "publishedDateTime": "2022-08-25T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

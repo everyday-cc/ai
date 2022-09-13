@@ -2,6 +2,101 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2022-07-28-aws-reinforce-2022s-biggest-announcements.md",
+      "title": "AWS re:Inforce 2022's biggest announcements",
+      "excerpt": "The public cloud global market leader launched a slew of new security products and capabilities along with new partner program investments at AWS re:Inforce. Hundreds of cybersecurity experts ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com.au/news/aws-reinforce-2022s-biggest-announcements-583271",
+      "originalUrl": "https://www.crn.com.au/news/aws-reinforce-2022s-biggest-announcements-583271",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/News/20220728113211_0_0_0_0_70__News_20190409110209_CRN_14_AWS_stock.jpg",
+          "width": 690,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN Australia",
+        "domain": "crn.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehicles.md",
+      "title": "LG, SoundHound Team Up for Advanced AI Voice Control in Vehicles",
+      "excerpt": "SoundHound's voice recognition technology will be integrated with LG's in-vehicle infotainment (IVI) system, allowing drivers to control key functions using natural language commands. Just as you ...",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/cars-auto/141746/lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehicles",
+      "originalUrl": "https://uk.pcmag.com/cars-auto/141746/lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehicles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/l/lg-soundho/lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehic_8gdq.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-28-googles-ai-has-predicted-the-3d-structure-of-the-entire-protein-universe.md",
       "title": "Google's AI Has Predicted the 3D Structure of the 'Entire Protein Universe'",
       "excerpt": "After 22 years of grueling experimentation, John Kendrew of Cambridge University finally uncovered the 3D structure of a protein. It was a twisted blueprint of myoglobin, the stringy chain of 154 amino acids that helps infuse our muscles with oxygen.",
@@ -1067,92 +1162,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-cybersecurity-whats-the-real-cost-ask-ibm.md",
-      "title": "Cybersecurity - what’s the real cost? Ask IBM",
-      "excerpt": "IBM then makes the following bold claim : Participating organizations fully deploying security AI and automation incurred $3.05 million less on average in breach costs compared to studied organizations that have not deployed the technology – the biggest ...",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/cybersecurity-whats-real-cost-ask-ibm",
-      "originalUrl": "https://diginomica.com/cybersecurity-whats-real-cost-ask-ibm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2020-08/cybersecurity.jpg",
-          "width": 1644,
-          "height": 1052,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/cybersecurity-whats-real-cost-ask-ibm?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/cybersecurity-whats-real-cost-ask-ibm?amp",
-      "publishedDateTime": "2022-07-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-facebook-to-shut-down-face-recognition-system-delete-data.md",
-      "title": "Facebook to shut down face-recognition system, delete data",
-      "excerpt": "Facebook’s huge repository of images shared by users helped make it a powerhouse for improvements in computer vision, a branch of artificial intelligence. Now many of those research teams have ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asahi.com/ajw/articles/14474301",
-      "originalUrl": "https://www.asahi.com/ajw/articles/14474301",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://p.potaufeu.asahi.com/7614-p/picture/26457466/aa1ce8bf8be90a32d8febb4b74176b66.jpg",
-          "width": 660,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "朝日新聞社",
-        "domain": "asahi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businesslive.co.za/amp/bloomberg/news/2022-09-12-amazons
 cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bloomberg/news/2022-09-12-amazons-alexa-inventor-tunstall-pedoe-raises-20m-for-ai-start-up/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -56,6 +56,17 @@ related:
         width: 1240
         height: 930
         isCached: true
+  - title: "Alexa inventor seeks startup"
+    excerpt: "The inventor of several key technologies used by Amazon.com’s Alexa service raised $20 million to fund a new startup in the UK."
+    publishedDateTime: 2022-09-12T23:48:00Z
+    webUrl: "https://www.spokesman.com/stories/2022/sep/12/alexa-inventor-seeks-startup/"
+    ampWebUrl: "https://www.spokesman.com/stories/2022/sep/12/alexa-inventor-seeks-startup/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2022/sep/12/alexa-inventor-seeks-startup/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 22
 
 secured: "hWNsqqiWV/3u6s8Ullx80n8FcEVzMPF5mgqgL7KDDlC8ACVttlQs6Yk5GwgsNmQlx+G3fPExh6L8Q7QPcj22mKCLnq59ldMWM0npy9Y+ZbgAHht5UjNzTUGgu5IdCCzgrnf4c766/WPU1NG+tHFxOU4d0tLcw2yK9vDyAtUkuL/D1siR8viTNi6dfmxFwHGhIhDRFa8O1vBSq2X9dd5a6xq25aEk5gYh1Gu+eurQdhJQoAuOtFuqEyf/Rz35Vb8fogV7/oESGe1wbYaGap5xi8QaK5xjK3N+fkd5AeceHpexhqh+zuvsdyaBRkHlKrbn6JEk2/1afnCB9UGUOFBVd3HyNLEmH0yAIUFNmt95MnXrNicd+Q8913EkIS84n6piOwyhsZl19+KMDzzgxAwdv1GMwsOoQzkoigMqHgjGQWdD23V/FP4CEZs4PuntCWTwyGxWWu6T3Wzhh83Bdq5HRPRpndo9VZ0j9VIGPLFcPXh7mv01e129cG72AunowPh943MN1/f0mSQunfFNaEGztA==;0Qrw5P/a+R9Pf9rAVGCDQQ=="
 ---

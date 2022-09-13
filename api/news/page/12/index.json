@@ -2,6 +2,102 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-08-30-googles-100-million-settlement-theres-still-time-to-see-if-youre-eligible-for-a-check.md",
+      "title": "Google's $100 Million Settlement: There's Still Time to See if You're Eligible for a Check",
+      "excerpt": "Google Photos' Face Grouping tool lets users organize images of the same person via facial recognition algorithms ... The deadline to opt out of or object to the settlement was Aug. 10. A final approval hearing for the settlement is scheduled for Sept.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/personal-finance/googles-100-million-settlement-theres-still-time-to-see-if-your-eligible-for-a-check/",
+      "originalUrl": "https://www.cnet.com/personal-finance/googles-100-million-settlement-theres-still-time-to-see-if-your-eligible-for-a-check/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/95ce5ca58f4c78b55da7303cc63a9f06721a1e3d/2022/08/25/f0a2866b-e71b-40d6-9c3d-2d0c873b3407/gettyimages-1242657903.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-100-million-settlement-theres-still-time-to-see-if-your-eligible-for-a-check/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-100-million-settlement-theres-still-time-to-see-if-your-eligible-for-a-check/",
+      "publishedDateTime": "2022-08-29T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-use-of-facial-recognition-as-security-tool-on-parliament-hill-would-pose-risks-study.md",
+      "title": "Use of facial recognition as security tool on Parliament Hill would pose risks: study",
+      "excerpt": "The use of facial recognition technology as a security tool on Parliament Hill would pose substantial legal, privacy and human rights risks -- and might even be unlawful, says a study prepared for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ctvnews.ca/politics/use-of-facial-recognition-as-security-tool-on-parliament-hill-would-pose-risks-study-1.6047069",
+      "originalUrl": "https://www.ctvnews.ca/politics/use-of-facial-recognition-as-security-tool-on-parliament-hill-would-pose-risks-study-1.6047069",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/national/politics/2022/8/29/1_6047069/_jcr_content/root/responsivegrid/image.coreimg.jpg",
+          "width": 1020,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/national/politics/2022/8/29/1_6047069.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/politics/2022/8/29/1_6047069.amp.html",
+      "publishedDateTime": "2022-08-29T13:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-coauthor-stanford-experiments-with-human-ai-collaborative-writing.md",
       "title": "CoAuthor: Stanford experiments with human-AI collaborative writing",
       "excerpt": "Researchers at Stanford have been studying how humans and AI can write together by designing large interaction datasets.",
@@ -1075,110 +1171,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-artificial-intelligence-in-iot-market-worldwide-demand-development-growth-and-business-attractions-2028-uptake-c3-iot-hitachi-ptc-aws.md",
-      "title": "Artificial Intelligence in IoT Market Worldwide Demand, Development Growth and Business Attractions 2028 | Uptake, C3 IoT, Hitachi, PTC, AWS",
-      "excerpt": "The Artificial Intelligence in IoT report offers in-depth assessment of the growth and other aspects of the Artificial Intelligence in IoT market in important regions. Key regions covered in the report are North America,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-worldwide-demand-development-growth-and-business-attractions-2028-uptake-c3-iot-hitachi-ptc-aws-2022-08-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-worldwide-demand-development-growth-and-business-attractions-2028-uptake-c3-iot-hitachi-ptc-aws-2022-08-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T01:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-amazon-vs-apple-only-one-will-rewrite-the-rules-of-healthcare.md",
-      "title": "Amazon Vs. Apple: Only One Will Rewrite The Rules Of Healthcare",
-      "excerpt": "One company is dutifully abiding by an old, unwritten rule of health technology. The other is poised to rewrite the healthcare rulebook altogether.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robertpearl/2022/08/29/amazon-vs-apple-only-one-will-rewrite-the-rules-of-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/robertpearl/2022/08/29/amazon-vs-apple-only-one-will-rewrite-the-rules-of-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6308d893ea15b506f9653b4f/0x0.jpg?format=jpg&crop=3887,2591,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robertpearl/2022/08/29/amazon-vs-apple-only-one-will-rewrite-the-rules-of-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertpearl/2022/08/29/amazon-vs-apple-only-one-will-rewrite-the-rules-of-healthcare/amp/",
-      "publishedDateTime": "2022-08-29T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

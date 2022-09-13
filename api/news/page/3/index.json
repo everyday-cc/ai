@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-08-life-certificate-through-face-recognition.md",
+      "title": "Life certificate through face recognition",
+      "excerpt": "India Post team was able to get a life certificate issued to a pensioner using face recognition system in the city on Wednesday. Mangaluru Senior Superintendent of Posts in a statement here said that freedom fighter Mattar Vittal Kini was facing difficulties in receiving pension as his fingerprint was not being recognised.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/cities/Mangalore/life-certificate-through-face-recognition/article65862949.ece",
+      "originalUrl": "https://www.thehindu.com/news/cities/Mangalore/life-certificate-through-face-recognition/article65862949.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/theme/images/amp-og-image.jpg",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/news/cities/Mangalore/life-certificate-through-face-recognition/article65862949.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Mangalore/life-certificate-through-face-recognition/article65862949.ece/amp/",
+      "publishedDateTime": "2022-09-07T17:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-08-my-journey-from-deepmind-intern-to-mentor.md",
       "title": "My journey from DeepMind intern to mentor",
       "excerpt": "Former intern turned intern manager, Richard Everett, describes his journey to DeepMind, sharing tips and advice for aspiring DeepMinders. The 2023 internship applications will open on the 16th September, please visit https://dpmd.ai/internshipsatdeepmind for more information.",
@@ -102,6 +145,49 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-08-mohali-mc-turns-to-face-recognition-attendance-system-to-rein-in-absence.md",
+      "title": "Mohali MC turns to face recognition attendance system to rein in absence",
+      "excerpt": "Working to curb unauthorised absence at the municipal corporation office, the civic body’s finance and contract committee on Wednesday gave the nod for a face-recognition attendance system for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/cities/chandigarh-news/mohali-mc-turns-to-face-recognition-attendance-system-to-rein-in-absence-101662585164173.html",
+      "originalUrl": "https://www.hindustantimes.com/cities/chandigarh-news/mohali-mc-turns-to-face-recognition-attendance-system-to-rein-in-absence-101662585164173.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/09/07/1600x900/f9dfc766-2eee-11ed-b360-96b459ca4506_1662585162670.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/cities/chandigarh-news/mohali-mc-turns-to-face-recognition-attendance-system-to-rein-in-absence-101662585164173-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/chandigarh-news/mohali-mc-turns-to-face-recognition-attendance-system-to-rein-in-absence-101662585164173-amp.html",
+      "publishedDateTime": "2022-09-07T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -1145,92 +1231,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-heres-why-you-should-retain-change-healthcare-chng-stock.md",
-      "title": "Here's Why You Should Retain Change Healthcare (CHNG) Stock",
-      "excerpt": "Change Healthcare — with a market capitalization of $8.14 billion — is an independent healthcare technology platform offering data and analytics-driven solutions to boost clinical financial and patient engagement outcomes in the United States.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/heres-why-you-should-retain-change-healthcare-chng-stock-3",
-      "originalUrl": "https://www.nasdaq.com/articles/heres-why-you-should-retain-change-healthcare-chng-stock-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-06T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-qualcomms-snapdragon-6-and-4-gen-1-chips-are-big-deals-for-cheap-phones.md",
-      "title": "Qualcomm’s Snapdragon 6 and 4 Gen 1 chips are big deals for cheap phones",
-      "excerpt": "Qualcomm's latest Snapdragon 6 Gen 1 and Snapdragon 4 Gen 1 chips promise impressive camera, gaming, and connectivity upgrades for budget Android smartphones.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/mobile/qualcomm-snapdragon-6-gen-1-4-gen-1-news/",
-      "originalUrl": "https://www.digitaltrends.com/mobile/qualcomm-snapdragon-6-gen-1-4-gen-1-news/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/09/qualcomm-snapdragon-6-4-gen-new-chips.jpg?p=1",
-          "width": 2100,
-          "height": 1400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/mobile/qualcomm-snapdragon-6-gen-1-4-gen-1-news/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/qualcomm-snapdragon-6-gen-1-4-gen-1-news/?amp",
-      "publishedDateTime": "2022-09-06T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

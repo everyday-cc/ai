@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/09/why-iot-is
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/09/why-iot-is-the-next-frontier-for-ai-and-prescriptive-analytics/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Oracle offers its MySQL HeatWave database and analytics on Amazon’s cloud"
+    excerpt: "Oracle Corp. has started to offer MySQL HeatWave, its cloud database service for transactions, analytics and machine learning, on Amazon’s AWS cloud, allowing customers whose data is already parked there to use the service,"
+    publishedDateTime: 2022-09-12T23:34:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/09/13/oracle-offers-its-mysql-heatwave-database-and-analytics-on-amazons-cloud"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 23
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/09/13/1735068.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Alation Achieves AWS Data and Analytics Competency"
     excerpt: "Alation Inc., the leader in enterprise data intelligence solutions, today announced it has achieved Amazon Web"
     publishedDateTime: 2022-09-08T22:13:00Z

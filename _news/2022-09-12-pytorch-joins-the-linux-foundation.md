@@ -38,7 +38,7 @@ related:
     provider:
       name: Ars Technica
       domain: arstechnica.com
-    quality: 84
+    quality: 86
     images:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/pythorch_hero_1-760x380.jpg"
         width: 760

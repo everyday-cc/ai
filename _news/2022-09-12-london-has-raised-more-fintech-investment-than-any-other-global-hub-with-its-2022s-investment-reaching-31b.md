@@ -41,15 +41,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Data Enrichment Key to Enhancing Accuracy of AI Models in Fintech"
-    excerpt: "Data enrichment, the process of enhancing internal data with relevant, contextual data obtained from external sources, is critical for financial services companies looking to get the most out of their investments in artificial intelligence (AI),"
-    publishedDateTime: 2022-09-08T06:46:00Z
-    webUrl: "https://fintechnews.sg/62078/bigdata/data-enrichment-key-to-enhancing-accuracy-of-ai-models-in-fintech/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 19
 
 secured: "FASVjlXVETGJj/WNtt1xgAC/j3fX8Fe6GSVM6HkcxZvmPCawvv3noov1HTlsk3rN20EUVfurennz7SallIBSDWjyU3irsyaXA5Z39ciEYePG3FiZqp+yULe3PkZNEESRApLqBqLZqAmpdfQq/4W6ck9QUCld+UBjR4CEE/v8fQNcZO/ukCzddN5KGKvoY73T2BfRs2OAw3dABm17c5qJp1CaQ4yHuLidaVxzrQJqmU1iVcgxQ3JRlh5KW/pOywj7Ufw2DRyGexMIa6iREcGBhGptBAEbXoJsWt8HF3Ogz/9m4xORaRAilPp1/uidlYTts2yS8ga0kYysv/L9sIXVs61QlFYc+Il2tDJmke1t+YA=;ljfDxE82VGjjzt1Z1t5K/A=="
 ---

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-09-can-githubs-copilot-ai-put-the-fun-back-into-being-a-developer.md",
+      "title": "Can GitHub's Copilot AI put the fun back into being a developer?",
+      "excerpt": "GitHub researchers compare how fast developers can code with Copilot's AI assistance versus a group relying on standard developer practices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/can-githubs-copilot-ai-put-the-fun-back-into-being-a-developer/",
+      "originalUrl": "https://www.zdnet.com/article/can-githubs-copilot-ai-put-the-fun-back-into-being-a-developer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/e7f41c23c78ae961de68476b633faee24029f645/2022/01/24/fdda2feb-eeb5-434d-8127-b3c46da6e7a5/gettyimages-666009646.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/can-githubs-copilot-ai-put-the-fun-back-into-being-a-developer/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-githubs-copilot-ai-put-the-fun-back-into-being-a-developer/",
+      "publishedDateTime": "2022-09-09T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-09-why-iot-is-the-next-frontier-for-ai-and-prescriptive-analytics.md",
       "title": "Why IoT Is The Next Frontier For AI And Prescriptive Analytics",
       "excerpt": "Guy, a recognized industry thought leader, is the president of SmartSense, IoT solutions for the enterprise. In recent years, artificial intelligence (AI) and prescriptive analytics have been woven into the fabric of business operations across multiple verticals,",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/09/why-iot-is-the-next-frontier-for-ai-and-prescriptive-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -650,7 +702,7 @@
       "originalUrl": "https://menafn.com/1104833237/EZ-Robot-Provides-Robotics-Education-To-Future-Proof-Youth",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1165,49 +1217,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-life-certificate-through-face-recognition.md",
-      "title": "Life certificate through face recognition",
-      "excerpt": "India Post team was able to get a life certificate issued to a pensioner using face recognition system in the city on Wednesday. Mangaluru Senior Superintendent of Posts in a statement here said that freedom fighter Mattar Vittal Kini was facing difficulties in receiving pension as his fingerprint was not being recognised.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/cities/Mangalore/life-certificate-through-face-recognition/article65862949.ece",
-      "originalUrl": "https://www.thehindu.com/news/cities/Mangalore/life-certificate-through-face-recognition/article65862949.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/theme/images/amp-og-image.jpg",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/cities/Mangalore/life-certificate-through-face-recognition/article65862949.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Mangalore/life-certificate-through-face-recognition/article65862949.ece/amp/",
-      "publishedDateTime": "2022-09-07T17:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

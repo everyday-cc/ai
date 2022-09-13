@@ -2,50 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2022-06-13-machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk.md",
-      "title": "Machine learning-led decarbonisation platform Ecolibrium launches in the UK",
-      "excerpt": "Ecolibrium launches in the UK today having already signed its first commercial contract with Integral, JLL's UK engineering and facilities service ... Ecolibrium's proprietary machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-835169759.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-835169759.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1837227/Ecolibrium_Yash_Kapila_and_Chintan_Soni.jpg?p=facebook",
-          "width": 2700,
-          "height": 1413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-06-13-half-of-finance-ai-projects-to-be-cancelled-by-2024.md",
       "title": "Half of finance AI projects to be cancelled by 2024",
       "excerpt": "CFOs face major barriers to scaling up the use of AI in-house and will increasingly turn to business process outsourcing (BPO) solutions to meet their digital transformation objectives",
@@ -1377,6 +1333,50 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-kao-data-to-host-speechmatics-hpc-and-ai-supercomputer-expanding-deep-learning-capabilities.md",
+      "title": "Kao Data to Host Speechmatics' HPC and AI Supercomputer, Expanding Deep Learning Capabilities",
+      "excerpt": "Speechmatics' work within artificial intelligence-powered neural networks provides highly accurate speech-to-text to global enterprise businesses.To support its expansion Speechmatics required a specialist,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/kao-data-to-host-speechmatics-hpc-and-ai-supercomputer-expanding-deep-learning-capabilities/article_5a892265-1178-5b4a-9155-261e39e80bc6.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/kao-data-to-host-speechmatics-hpc-and-ai-supercomputer-expanding-deep-learning-capabilities/article_5a892265-1178-5b4a-9155-261e39e80bc6.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI",
         "AI in Finance"
       ]

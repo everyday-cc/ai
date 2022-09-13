@@ -2,6 +2,75 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2022-08-05-drug-discovery-is-about-to-get-faster-thank-ai.md",
+      "title": "Drug Discovery Is About to Get Faster. Thank AI.",
+      "excerpt": "Alphabet’s artificial intelligence subsidiary, DeepMind, stunned the world of science by presenting something truly spectacular: a snapshot of nearly every existing protein on Earth — 200 million of them.",
+      "sourceUrl": null,
+      "webUrl": "https://english.aawsat.com/home/article/3798946/lisa-jarvis/drug-discovery-about-get-faster-thank-ai",
+      "originalUrl": "https://english.aawsat.com/home/article/3798946/lisa-jarvis/drug-discovery-about-get-faster-thank-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "الشرق الأوسط",
+        "domain": "aawsat.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-nextgen-and-aws-launch-second-security-foundations-program.md",
+      "title": "Nextgen and AWS launch second Security Foundations program",
+      "excerpt": "Nextgen Distribution and Amazon Web Services (AWS) are jointly launching the second series of their Security Foundations program, which is part of the AWS Partner Academy. Nextgen developed the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/700496/nextgen-aws-launch-second-security-foundations-program/",
+      "originalUrl": "https://www.arnnet.com.au/article/700496/nextgen-aws-launch-second-security-foundations-program/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-08-05-complianceai-appoints-new-ceo-secures-6m-in-funding.md",
       "title": "Compliance.AI Appoints New CEO, Secures $6M in Funding",
       "excerpt": "New announcements mark another benchmark underscoring Compliance.ai's leadership in providing RCM solutions for the financial services sector.",
@@ -1065,101 +1134,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-face-recognition-systems-market-growth-2022-global-industry-demand-share-top-players-industry-size-future-growth-by-2025.md",
-      "title": "Face Recognition Systems Market Growth 2022, Global Industry Demand, Share, Top Players, Industry Size, Future Growth by 2025",
-      "excerpt": "Face Recognition Systems Market Growth 2022-2025 Global Industry Research report presents an in-depth analysis of the Face Recognition Systems market size, growth, share, segments, manufacturers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/face-recognition-systems-market-growth-2022-global-industry-demand-share-top-players-industry-size-future-growth-by-2025",
-      "originalUrl": "https://www.digitaljournal.com/pr/face-recognition-systems-market-growth-2022-global-industry-demand-share-top-players-industry-size-future-growth-by-2025",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/8ee3ab090e6da4d9cb659343d876cec7c949a502-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T02:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-face-recognition-software-market-expectations-growth-trends-highlighted-until-2027.md",
-      "title": "Face Recognition Software Market Expectations & Growth, Trends Highlighted Until 2027",
-      "excerpt": "The Global Face Recognition Software market 2022-2028 report studies vital factors about the Face Recognition Software that are essential to be understood by existing as well as latest market players.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-software-market-expectations-growth-trends-highlighted-until-2027-2022-08-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-software-market-expectations-growth-trends-highlighted-until-2027-2022-08-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],
