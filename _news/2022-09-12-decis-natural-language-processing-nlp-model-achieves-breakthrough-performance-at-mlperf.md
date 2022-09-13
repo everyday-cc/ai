@@ -7,7 +7,7 @@ originalUrl: "https://insidebigdata.com/2022/09/12/decis-natural-language-proces
 webUrl: "https://insidebigdata.com/2022/09/12/decis-natural-language-processing-nlp-model-achieves-breakthrough-performance-at-mlperf/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -20,29 +20,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Deci's Natural Language Processing (NLP) Model Achieves Breakthrough Performance at MLPerf"
-    excerpt: "Deci, the deep learning company harnessing Artificial Intelligence (AI) to build better AI, announced results for its Natural Language Processing (NLP) inference model submitted to the MLPerf Inference v2."
-    publishedDateTime: 2022-09-08T18:39:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/08/9670227.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 61
-    images:
-      - url: "https://mma.prnewswire.com/media/1893621/Deci_Throughput_Infographic.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "MLPerf Results Show Advances in Machine Learning Inference"
-    excerpt: "MLCommons establishes a new record with over 5,300 performance results and 2,400 power measurement results, 1.37X and 1.09X more than the previous round. MLPerf benchmarks are comprehensive system tests that stress machine learning models, software, and ..."
-    publishedDateTime: 2022-09-08T18:56:00Z
-    webUrl: "https://www.01net.it/mlperf-results-show-advances-in-machine-learning-inference/"
-    type: article
-    provider:
-      name: 01Net
-      domain: 01net.it
-    quality: 36
   - title: "Deci’s NLP Model Achieves Breakthrough Performance at MLPerf"
     excerpt: "Deci, the deep learning company harnessing Artificial Intelligence (AI) to build better AI, announced results for its"
     publishedDateTime: 2022-09-08T19:48:00Z

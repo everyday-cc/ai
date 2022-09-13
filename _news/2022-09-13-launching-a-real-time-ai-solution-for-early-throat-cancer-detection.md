@@ -38,16 +38,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Workday announces new machine learning and automation capabilities"
-    excerpt: "The accounting and HR cloud software provider announced the new capacities for its enterprise management solutions."
-    publishedDateTime: 2022-09-08T18:02:00Z
-    webUrl: "https://www.accountingtoday.com/news/workday-announces-new-machine-learning-and-automation-capacities-on-product-line"
+  - title: "Automatic forest fire detection system with AI enables early and efficient firefighting"
+    excerpt: "Fires in natural areas are getting out of control due to drought or wind, and the risk of danger to people, animals, nature and infrastructure is growing. But how can fires be detected and"
+    publishedDateTime: 2022-09-13T10:02:00Z
+    webUrl: "https://www.envirotech-online.com/news/environmental-laboratory/7/ids-imaging-development-systems-gmbh/automatic-forest-fire-detection-system-with-ai-enables-early-and-efficient-firefighting/58752"
     type: article
     provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 19
+      name: Envirotech Online
+      domain: envirotech-online.com
+    quality: 31
+    images:
+      - url: "https://www.envirotech-online.com/assets/file_store/pr_files/58752/thumbnails/images/600w_ids-case-study-paratronic-header-3000x2000.jpg"
+        width: 600
+        height: 600
+        isCached: true
 
-secured: "fYrVDj1AG2C0M94r5jcm8QXBV0a9x058Z3x2aZJwH2Y1RZ8KKIcsgGnjh+McA6oWzHUswcq72JCLZ5aSoJQ7ANweVOiaXPYy6dK9Wkd19FpP3oljQMRjH26ujfbwG856hgAz6b5W31wCOF4BqrzRti4B/TjZKwOtNKrQTwTjEjI+PUagWiyY+xBFoAHgWbJnphFm3ZrX8NsfT/pibZ9aG7VCiJlm0w0b306uAJeOBGit69ss+X4DZPJfanyBTykZi8MjXtqp1Az4G7wWP6Fe/jQRAXZeIgvZEqLHWLYQuq0cEzzhzYPitl5bAtZif0JFk2nkGDd/wapqf5j2NGlo7K0sVIP/BVZ81gdkns+Jfo4=;9ZNSefO4mMXNRByvDt39MA=="
+secured: "JGX41Rq4oQAnYnmxcayeAgtKs0V41FGv123lpAdxfBYO9l7hrcRUCGIw1n1qBr+rBJ0hZP1a5v4nI/CaFtNsQdIm99Kn3V/Q7vPlSqv0bQPMGtiVWrFezQoz0xvmaZXa1r5vZrzVAbnucycFBQ+DpuO/+noyH6gBnwrH9KAvsBAz7i1XDHtMBzbEdpLyIqAdZ1C+T5iR7LT7Fq4VK0oTjKB+HX/+BOSgDHMFNL/rL0gHcZVy0eafT+neyTVp2zS1gY1S97ie+lthqEUJDMQAyj58y/OgKhVIBH1p2i/SQu5SneiLiPYKsq9MKPNpyuQ6nDoUI415dOBUQjqJTo4ALoYUR8BnrZnGBFnSDD3XvN8QGVv2VWa9+fpqa2vLVstPhmu8ESd+XpYa0pOs3GCNg6T6gmwRhr3gNHVcXKIYYgXjCQSh2Oc3vBratc9hBB1FP88OZN21YI5VgOSxSTCEksKvw5ZQa69urJ4kDamYo22nkNhyWTi21XAdQQPjM8RFULSF6hLHjBrMu3cIDEP/DA==;E7DFFN+GbNZchm/+5mtv6Q=="
 ---
 

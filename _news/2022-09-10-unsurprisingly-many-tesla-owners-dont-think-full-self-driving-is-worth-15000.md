@@ -9,8 +9,8 @@ ampWebUrl: "https://www.carscoops.com/2022/09/unsurprisingly-many-tesla-owners-d
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/09/unsurprisingly-many-tesla-owners-dont-think-full-self-driving-is-worth-15000/amp/"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: Carscoops
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "'They Overpromised Like Crazy': Some Tesla Owners Say New 'Full Self-Driving' Price Is Too High"
-    excerpt: "Several people who are using Tesla's beta mode full self-driving (FSD) feature reported that it wasn't worth the high price to purchase."
-    publishedDateTime: 2022-09-08T18:00:00Z
-    webUrl: "https://www.entrepreneur.com/business-news/tesla-fully-self-driving-beta-testers-say-not-worth-price/434965"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 37
   - title: "Tesla’s Claim That Its Cars Are Self-Driving May Cross the Line From Permitted ‘Puffery’ to False Advertising"
     excerpt: "Tesla is selling a semi-autonomous driver assistance system under the name “Full Self-Driving.” Is it legally permitted marketing, or false advertising?"
     publishedDateTime: 2022-09-09T16:35:00Z

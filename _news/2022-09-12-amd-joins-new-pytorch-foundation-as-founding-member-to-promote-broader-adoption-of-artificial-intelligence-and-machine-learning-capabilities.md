@@ -54,6 +54,20 @@ related:
         width: 628
         height: 246
         isCached: true
+  - title: "Meta passes PyTorch ownership to Linux Foundation in a bid to improve transparency"
+    excerpt: "The widely-used framework will also fall under a newly-formed PyTorch Foundation, with a governing board composed of tech giants such as Google Cloud and Microsoft Azure"
+    publishedDateTime: 2022-09-13T10:46:00Z
+    webUrl: "https://www.itpro.co.uk/development/open-source/369054/meta-passes-pytorch-ownership-to-linux-foundation-bid-transparency"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 65
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1638449640/itpro/pytorch_meta_aws_GettyImages-1236945622.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Meta’s deep learning framework PyTorch to be led by the newly formed PyTorch Foundation"
     excerpt: "PyTorch artificial intelligence platform it created to the Linux Foundation ’s newly formed PyTorch Foundation. PyTorch is a deep learning framework that’s used to power hundreds of AI projects, specifically machine learning applications."
     publishedDateTime: 2022-09-12T14:23:00Z

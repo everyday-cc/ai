@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-13T07:24:00Z
 originalUrl: "https://seekingalpha.com/article/4540577-when-will-robots-gain-common-sense"
 webUrl: "https://seekingalpha.com/article/4540577-when-will-robots-gain-common-sense"
 type: article
-quality: 56
-heat: 56
+quality: 58
+heat: 58
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Robotics
   - AI
   - Google AI
+  - Machine Learning
 
 images:
   - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1350320510/image_1350320510.jpg?io=getty-c-w750"

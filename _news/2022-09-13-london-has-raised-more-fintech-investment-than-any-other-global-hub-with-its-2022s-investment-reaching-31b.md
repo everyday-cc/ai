@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "YUSE.io Awarded Investment By Celebrity FinTech Investor Herbert Sim"
+    excerpt: "Herbert Sim said We get pitched to by countless of projects and startups daily, and we have personally handpicked YUSE Tech, for various reasons."
+    publishedDateTime: 2022-09-13T10:00:00Z
+    webUrl: "https://www.ibtimes.sg/yuse-io-awarded-investment-by-celebrity-fintech-investor-herbert-sim-66761"
+    ampWebUrl: "https://amp.ibtimes.sg/yuse-io-awarded-investment-by-celebrity-fintech-investor-herbert-sim-66761"
+    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/yuse-io-awarded-investment-by-celebrity-fintech-investor-herbert-sim-66761"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.sg
+    quality: 44
+    images:
+      - url: "https://data.ibtimes.sg/en/full/61770/herbert-sim.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "London Has Raised More Fintech Investment Than Any Other Global Hub, With Its 2022's Investment Reaching $3.1B"
     excerpt: "\"The U.K.'s fintech sector is unrivaled in Europe and is continuing to grow at an incredible rate. London is the natural home for many of these businesses due to the city's deep pool of talent, its global reputation,"
     publishedDateTime: 2022-09-12T14:53:00Z

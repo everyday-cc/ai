@@ -7,7 +7,7 @@ originalUrl: "https://www.zawya.com/en/press-release/companies-news/qfil-solutio
 webUrl: "https://www.zawya.com/en/press-release/companies-news/qfil-solutions-shortlisted-for-entrepreneur-middle-easts-leaders-in-fintech-awards-2022-yygpa4m5"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,31 @@ images:
     width: 900
     height: 600
     isCached: true
+
+related:
+  - title: "2022 Swiss Fintech Awards Winners Share Updates, Ambitions"
+    excerpt: "Stableton Financial and DeepJudge, two of the winners of this year’s Swiss Fintech Awards, have been reaping the fruits of the publicity accompanying the renowned startup competition, using the new-found exposure as an opportunity to expand to new verticals,"
+    publishedDateTime: 2022-09-13T09:55:00Z
+    webUrl: "https://fintechnews.ch/fintech/2022-swiss-fintech-awards-winners-share-updates-ambitions/54904/"
+    type: article
+    provider:
+      name: fintechnews.ch
+      domain: fintechnews.ch
+    quality: 24
+    images:
+      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/08/Reuters-Future-of-Insurance-Europe-2022.png?x30842"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Fintech Ecosystem Development Corp. Announces Two Fintech Acquisitions"
+    excerpt: "COLLEGEVILLE, PA, POMPANO BEACH, FL and SHARJAH, U.A.E. / ACCESSWIRE / September 12, 2022 / Rana Financial, Inc. (\"Rana\") a Georgia corporation, Mobitech International LLC (\"Afinoz\") a limited liabili"
+    publishedDateTime: 2022-09-12T12:10:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-09/57033170-fintech-ecosystem-development-corp-announces-two-fintech-acquisitions-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 4
 
 secured: "sM6c/OWQbg2l4msjuc1U4dGA/YNY4VZ8S37BoLuhtXD1/DvBt1nm6/upAi+W3GAKnVyFMK2ZPoiE9OpkGVT98ZpST3y9y5bwFQq27ZKMtDc8xHwaEo3kjW2xYU3ucN1FWQeB/Xh9FqmE8HD3MRubS+GfqlQrztx+1yLBw8SCKshTPBpLe5quKxvTEz/Sa16MSG2pEYmxNnUualv4V1TF68/1TInQdRjgdMI1DcC2YpxoXLvAuvoIfYLBvNAl4SaNndTTgXRrLJc8uLWiKBeCiO+9AwwcSGNM1YsiQSjRCKbhzsTqMuMlhSeSJRjX0aAHe7hBUBnR2JYZUtweq8vFbuRQI9tRGiC1Z2RQwjrggHY=;2u8wve9RsZgFUBab919rzQ=="
 ---

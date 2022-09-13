@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 748
         isCached: true
+  - title: "MLCommons releases results of its latest MLPerf AI inference benchmark test"
+    excerpt: "Nvidia’s flagship data center GPU, the H100, set multiple performance records during ... “In their debut on the MLPerf industry-standard AI benchmarks, NVIDIA H100 Tensor Core GPUs set world records in inference on all workloads, delivering up to ..."
+    publishedDateTime: 2022-09-08T21:00:00Z
+    webUrl: "https://siliconangle.com/2022/09/08/mlcommons-releases-results-latest-ai-inference-benchmark-test/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/Hopper-Arch-H100-SXM-Image-1.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "3go4Ik60gPQ758/V/qcQyzKqOpioTRWcK0gV0tfslOob7MeZM4Xk2PUm8J0oDZxVyuuKpjY70mI8ziS7IXkZuunApGc1wRerTl0X5x6FelBxtmzFFAPm+XQc+XNSm2/IoPwWMcPkzSWfyIxUuHctDkUKvC9lkrlV9JrpoZ3hZWmh4wu0HJd+wL7BGQeXiINt26M3AxuN3l1EES7i3xGuvlCA641RATVTSNR88Hm7aEsVdZd0Gh4h+nVlloclH+Bup+r+7S+b1N0/qMihfZUsqPIHJn9BXGKCOiGv7OjQNA69YQ75NnJrqJ3uJHYWqrtRlaCaHS4LSB3zwZzssyC5R6sbVv+szmrZnhNwDYNxYmcnROTVnFnRcsp/ZydlZGrC41AgUyEkEUFqD1IPnMuQHA85xZmhbRJTFg5yvgd+ACIzlgYYvBuef0aCxSMLA5533nnBa6KQ4Isk2q0m1n3hFhips1Ood0/CDdgccYEm0GAvmaOEDLC/DoMeR2GqTq3gc6voMq7TSj0HVpnFhfd69A==;yiu2UB8xgKLZ3DJP1ofpfw=="
 ---

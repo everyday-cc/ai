@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intel
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intelligence-and-the-future-of-marketing/amp/"
 type: article
 quality: 108
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://www.baltimoresun.com/resizer//VDWyxdT2eZg5cSG8sFpSFc-hXEQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/U7TO26NTY5CEZJANEIRMTJZEYQ.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Microbiome Global Market Report 2022: Use Of Artificial Intelligence And Machine Learning Crucial For Future Growth - ResearchAndMarkets.com"
+    excerpt: "The global microbiome market reached a value of nearly $340.8 million in 2021, having increased at a compound annual growth rate (CAGR) of 14.8% since 2017. The market is expected to grow from $340.8 million in 2021 to $945."
+    publishedDateTime: 2022-09-13T11:41:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-4f08b67c667642e0a659bd866783a6bf"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 21
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "8r8lMv99XL2+q4DUs1hb6aDM7vcfVAqb0ycFpItvAMar1Cj9UMFYNI+Yiv/BFzGgleOPBK48TlZzGcKr61yzoJIQvBaH9UmPzHF0biZmliLmoPNbzp0qP+b5K9sbj3YMyesATkpQH/C5ax7cXrs8EZW0O02B1H9F5RamApzuBVuZqkeik7jLq6CJDqiEdkdJa5weJvc27By0XrcrYw0cjClKr5HCVMQXRIBdTolWabQkCX6WjWe+3d28KQgIBqrp4rhORrFG+SfkwHIzRZFH1kNPvQ9Y80NpsppyBl+VF2r3LyOgLdBS5d/DyAsxRL4rn8qDI9+3SLoDkNaH4yzU2CvHLLQUD7hLRcvcdqtLvnBGo6t5whG53Zuvaulho5YOfMirkvtD7mZGHdv5yqsRIrBw/xZiGEv4mvpSKp6gkEfpXqmuJxEU7rX3ttNac7QyahcWh8oaDZu0sWim3zo0+ybyGipXNxrB8WcjkxLtw9O/xIoMonwK1WFyUU6e73+THdyjAwPSUogqkRWjM5XtnA==;4UbSs3onGSYKXsWzc5VodQ=="

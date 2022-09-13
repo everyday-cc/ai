@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-13-is-ai-the-solution-to-hiring-bias-or-the-cause-of-it.md",
+      "title": "Is AI The Solution To Hiring Bias (Or The Cause Of It)?",
+      "excerpt": "If AI can find qualified candidates and automation software can schedule interviews, confirm appointments, and send email and text messages to candidates, what’s left for a recruiter to do? Turns out,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/13/is-ai-the-solution-to-hiring-bias-or-the-cause-of-it/",
+      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/13/is-ai-the-solution-to-hiring-bias-or-the-cause-of-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f89f505db3eef289c346955/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/13/is-ai-the-solution-to-hiring-bias-or-the-cause-of-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/13/is-ai-the-solution-to-hiring-bias-or-the-cause-of-it/amp/",
+      "publishedDateTime": "2022-09-13T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-13-the-new-artificial-intelligence-of-car-audio-might-improve-more-than-just-tunes.md",
       "title": "The New Artificial Intelligence Of Car Audio Might Improve More Than Just Tunes",
       "excerpt": "Hollywood has perennially portrayed Artificial Intelligence (AI) as the operating layer of dystopian robots who replace unsuspecting humans and create the escalating, central conflict. Yet, AI is now enhancing entertainment and,",
@@ -114,7 +166,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 102,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -190,49 +242,6 @@
         "AI",
         "AI Hardware",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-10-unsurprisingly-many-tesla-owners-dont-think-full-self-driving-is-worth-15000.md",
-      "title": "Unsurprisingly, Many Tesla Owners Don’t Think ‘Full Self-Driving’ Is Worth $15,000",
-      "excerpt": "CNN Business reports that, after speaking with 13 individuals who own a Tesla with Full Self-Driving, 11 of them say that it’s not worth its new asking price. The entire group agreed that the technology has improved over time but some said that they have to pay more attention when FSD is engaged because it can be “unpredictable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2022/09/unsurprisingly-many-tesla-owners-dont-think-full-self-driving-is-worth-15000/",
-      "originalUrl": "https://www.carscoops.com/2022/09/unsurprisingly-many-tesla-owners-dont-think-full-self-driving-is-worth-15000/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2022/07/2022-Tesla-Model-S-1-1024x555.jpg",
-          "width": 1024,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2022/09/unsurprisingly-many-tesla-owners-dont-think-full-self-driving-is-worth-15000/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/09/unsurprisingly-many-tesla-owners-dont-think-full-self-driving-is-worth-15000/amp/",
-      "publishedDateTime": "2022-09-10T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -348,7 +357,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intelligence-and-the-future-of-marketing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 148,
       "tags": null,
       "images": [
         {

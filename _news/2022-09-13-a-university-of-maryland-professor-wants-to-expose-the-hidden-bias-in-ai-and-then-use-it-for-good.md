@@ -71,6 +71,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Microbiome Global Market Report 2022: Use Of Artificial Intelligence And Machine Learning Crucial For Future Growth - ResearchAndMarkets.com"
+    excerpt: "The global microbiome market reached a value of nearly $340.8 million in 2021, having increased at a compound annual growth rate (CAGR) of 14.8% since 2017. The market is expected to grow from $340.8 million in 2021 to $945."
+    publishedDateTime: 2022-09-13T11:41:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-4f08b67c667642e0a659bd866783a6bf"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 21
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "Pq+CpgG0DZSJXc+1OAnNveo5c+lkj0OwdbeGdrr1g5qQQCa+abm9JX6AlCyiXfAg/xhKM+INShaTh2WgeduTvBrgeS0g0g/4fx0X96FUteGGsbPH3LlN4iTS9A+98RnU0DRKi+OO0rLbIk2bBoZiPy+xf1Pw7F+wgYf/K0B59qAHtxs7BPc2lkUATwzXNe2KExRf7g+EDCRKiv5sLovCYLaErBJdjwjVW0G8N4c71/f2ZFiQfEiNReq3R7qPdh+oMj9GiFHOVpQqI3fCakwElshwD0N5eyToVNCLGxX7hkpdmGfb0ynLxSz0Vs4Z4DyaosPY/2fN04MaL0NygwxOESo4Nozrbj6MzkxTLfPLdKk=;lRMSXkrTIN6TyRsBDXPhXg=="
 ---

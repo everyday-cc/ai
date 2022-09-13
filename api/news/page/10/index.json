@@ -1102,21 +1102,21 @@
       ]
     },
     {
-      "path": "_news/2022-08-30-industrys-first-autonomous-spreader-debuts-at-farm-progress-show.md",
-      "title": "Industry’s first autonomous spreader debuts at Farm Progress Show",
-      "excerpt": "Case IH and Raven Industries introduce the agriculture industry’s first autonomous spreader: the Case IH Trident ™ 5550 applicator with Raven Autonomy ™. Unveiled at Farm Progress Show 2022, this innovative solution delivers on customers’ demands for autonomous equipment to help solve labor challenges and increase productivity on their operations.",
+      "path": "_news/2022-08-30-artificial-intelligence-based-algorithm-to-be-used-for-reporting-of-lymph-node-status-in-colon-cancer.md",
+      "title": "Artificial intelligence-based algorithm to be used for reporting of lymph node status in colon cancer",
+      "excerpt": "A collaboration between Indica Labs and iCAIRD is looking at the development of an AI-based digital tool to detect cancer within lymph nodes.",
       "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/industry-s-first-autonomous-spreader-debuts-at-farm-progress-show/article_bd0c3b06-7889-504f-b01b-c4540ac61a68.html",
-      "originalUrl": "https://www.eagletribune.com/region/industry-s-first-autonomous-spreader-debuts-at-farm-progress-show/article_bd0c3b06-7889-504f-b01b-c4540ac61a68.html",
+      "webUrl": "https://www.labiotech.eu/trends-news/indica-labs-partners-with-icaird-on-ai-based-digital-pathology-solution/",
+      "originalUrl": "https://www.labiotech.eu/trends-news/indica-labs-partners-with-icaird-on-ai-based-digital-pathology-solution/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/f7/6f732a6f-663d-5699-9263-ff52f4203a6d/630e214bf2e79.image.jpg?crop=606%2C318%2C522%2C0&resize=606%2C318&order=crop%2Cresize",
-          "width": 606,
-          "height": 318,
+          "url": "https://www.labiotech.eu/wp-content/uploads/2022/06/shutterstock-artificial-intelligence-.jpg",
+          "width": 1024,
+          "height": 683,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1126,11 +1126,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T07:32:00-07:00",
+      "publishedDateTime": "2022-08-30T07:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
+        "name": "the Top 10",
+        "domain": "labiotech.eu",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1140,7 +1140,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI in Healthcare",
         "AI"
       ]
     }

@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-08-30-industrys-first-autonomous-spreader-debuts-at-farm-progress-show.md",
+      "title": "Industry’s first autonomous spreader debuts at Farm Progress Show",
+      "excerpt": "Case IH and Raven Industries introduce the agriculture industry’s first autonomous spreader: the Case IH Trident ™ 5550 applicator with Raven Autonomy ™. Unveiled at Farm Progress Show 2022, this innovative solution delivers on customers’ demands for autonomous equipment to help solve labor challenges and increase productivity on their operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/industry-s-first-autonomous-spreader-debuts-at-farm-progress-show/article_bd0c3b06-7889-504f-b01b-c4540ac61a68.html",
+      "originalUrl": "https://www.eagletribune.com/region/industry-s-first-autonomous-spreader-debuts-at-farm-progress-show/article_bd0c3b06-7889-504f-b01b-c4540ac61a68.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/f7/6f732a6f-663d-5699-9263-ff52f4203a6d/630e214bf2e79.image.jpg?crop=606%2C318%2C522%2C0&resize=606%2C318&order=crop%2Cresize",
+          "width": 606,
+          "height": 318,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-industrys-first-autonomous-spreader-debutsat-farm-progress-show.md",
       "title": "Industry’s first autonomous spreader debutsat Farm Progress Show",
       "excerpt": "Case IH and Raven Industries introduce the agriculture industry’s first autonomous spreader: the Case IH Trident™",
@@ -195,10 +238,10 @@
     {
       "path": "_news/2022-08-30-us-startup-simaai-starts-shipping-machine-learning-chip-and-system.md",
       "title": "U.S. startup SiMa.ai starts shipping machine learning chip and system",
-      "excerpt": "Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management & Research Company, said on Tuesday it started shipping chips and systems to customers that are testing them ...",
+      "excerpt": "Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management & Research Company, said on Tuesday it started shipping chips and systems to customers that are testing them, an important step for mass production. We apologize ...",
       "sourceUrl": null,
-      "webUrl": "https://nationalpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system",
-      "originalUrl": "https://nationalpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system",
+      "webUrl": "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system",
+      "originalUrl": "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -206,13 +249,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://nationalpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system/wcm/d3b033f1-d689-4d7b-bd86-a55744e847fe/amp/",
-      "cdnAmpWebUrl": "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system/wcm/d3b033f1-d689-4d7b-bd86-a55744e847fe/amp/",
+      "ampWebUrl": "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system/wcm/d3b033f1-d689-4d7b-bd86-a55744e847fe/amp/",
+      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system/wcm/d3b033f1-d689-4d7b-bd86-a55744e847fe/amp/",
       "publishedDateTime": "2022-08-30T06:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "National Post",
-        "domain": "nationalpost.com",
+        "name": "Financial Post",
+        "domain": "financialpost.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -521,49 +564,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-artificial-intelligence-based-algorithm-to-be-used-for-reporting-of-lymph-node-status-in-colon-cancer.md",
-      "title": "Artificial intelligence-based algorithm to be used for reporting of lymph node status in colon cancer",
-      "excerpt": "A collaboration is looking at the development of an AI-based digital pathology solution to detect cancer from colorectal surgery cases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.labiotech.eu/trends-news/collaboration-looks-development-ai-based-digital-pathology-solution-detect-cancer-colorectal-surgery-cases/",
-      "originalUrl": "https://www.labiotech.eu/trends-news/collaboration-looks-development-ai-based-digital-pathology-solution-detect-cancer-colorectal-surgery-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.labiotech.eu/wp-content/uploads/2022/06/shutterstock-artificial-intelligence-.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "the Top 10",
-        "domain": "labiotech.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },

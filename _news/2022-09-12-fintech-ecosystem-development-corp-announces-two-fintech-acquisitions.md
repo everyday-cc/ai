@@ -7,7 +7,7 @@ originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-09/57033170-fint
 webUrl: "https://www.finanznachrichten.de/nachrichten-2022-09/57033170-fintech-ecosystem-development-corp-announces-two-fintech-acquisitions-200.htm"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,36 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "2022 Swiss Fintech Awards Winners Share Updates, Ambitions"
+    excerpt: "Stableton Financial and DeepJudge, two of the winners of this year’s Swiss Fintech Awards, have been reaping the fruits of the publicity accompanying the renowned startup competition, using the new-found exposure as an opportunity to expand to new verticals,"
+    publishedDateTime: 2022-09-13T09:55:00Z
+    webUrl: "https://fintechnews.ch/fintech/2022-swiss-fintech-awards-winners-share-updates-ambitions/54904/"
+    type: article
+    provider:
+      name: fintechnews.ch
+      domain: fintechnews.ch
+    quality: 24
+    images:
+      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/08/Reuters-Future-of-Insurance-Europe-2022.png?x30842"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "QFIL Solutions shortlisted for Entrepreneur Middle East’s Leaders in Fintech Awards 2022"
+    excerpt: "The annual award scheme highlights individuals and enterprises that are shaping the future of the Fintech Industry within the region"
+    publishedDateTime: 2022-09-13T09:39:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/qfil-solutions-shortlisted-for-entrepreneur-middle-easts-leaders-in-fintech-awards-2022-yygpa4m5"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 15
+    images:
+      - url: "https://static.zawya.com/version/c:NmMyZGIyYmEtODk4NC00:NGIxZTFk/img_7853-1-jpg.JPG?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "i1mx89MzKqi7Kyv1Er73d9pgtW9MrQCvX1DRsvtbk+2SJmtVyL/A8fWnTH0Q5IxydAKg0hH/NYM0GvIrxFeBuIT8W3wANyof7236sXW3XAmNeDU/prsY7+mZGvENyxCwQeWEeCc0gn8P+ZlI+p6X9iYLHwWTMhw6UFkKBFbGLhxm8kk5HCCRNwkrSkxogVB1onDMU8eJg5FRiCtJ1s/3sRljePNWjr49Mqz7Vw6SSMc8klvochHwKUvL8gM4Lkw5C18BreusDNOkvFoAM1VA6gspPgaHzg8FpILehJpkD4WLI0Y0Ts3jtxlZOqU+ICqH6uxFJiu2tmvs4327Yr/mW1Pj3K8xiTaKTZ3KcBRI3vk=;yJ8DXCNBjg23ZIfBQVKxeA=="
 ---

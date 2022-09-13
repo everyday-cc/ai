@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Oracle offers its MySQL HeatWave database and analytics on Amazon’s cloud"
-excerpt: "Oracle Corp. has started to offer MySQL HeatWave, its cloud database service for transactions, analytics and machine learning, on Amazon’s AWS cloud, allowing customers whose data is already parked there to use the service,"
-publishedDateTime: 2022-09-13T08:26:00Z
-originalUrl: "https://www.channelnewsasia.com/business/oracle-offers-its-mysql-heatwave-database-and-analytics-amazons-cloud-2934176"
-webUrl: "https://www.channelnewsasia.com/business/oracle-offers-its-mysql-heatwave-database-and-analytics-amazons-cloud-2934176"
+excerpt: "Oracle Corp has started to offer MySQL HeatWave, its cloud database service for transactions, analytics and machine learning, on Amazon's AWS cloud, allowing customers whose data is already parked there to use the service,"
+publishedDateTime: 2022-09-12T23:01:00Z
+originalUrl: "https://www.reuters.com/technology/oracle-offers-its-mysql-heatwave-database-analytics-amazons-cloud-2022-09-12/"
+webUrl: "https://www.reuters.com/technology/oracle-offers-its-mysql-heatwave-database-analytics-amazons-cloud-2022-09-12/"
 type: article
-quality: 23
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--7T-580Pc--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-09-12t204646z_2_lynxmpei8b0x1_rtroptp_3_oracle-tech.jpg?itok=6f8ytHIk"
+  - url: "https://www.reuters.com/resizer/auU-eGYlMXaI82GhWXiVQXOg6iA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C3KTSLO2ZRNVLMJPKCCNHB4N44.jpg"
     width: 1200
-    height: 676
+    height: 628
     isCached: true
 
 related:
@@ -41,6 +45,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "American Airlines takes flight with analytics transformation"
+    excerpt: "The world’s largest airlines has turned to the cloud, leveraging AI, machine learning, and real-time analytics to minimize disruptions, streamline operations, and improve the travel experience."
+    publishedDateTime: 2022-09-09T10:00:00Z
+    webUrl: "https://www.cio.com/article/406357/american-airlines-takes-flight-with-analytics-transformation.html"
+    ampWebUrl: "https://www.cio.com/article/406357/american-airlines-takes-flight-with-analytics-transformation.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/406357/american-airlines-takes-flight-with-analytics-transformation.html/amp/"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 59
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2022/09/maya-leibman-full-res-new.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Alation Achieves AWS Data and Analytics Competency"
     excerpt: "Alation Inc., the leader in enterprise data intelligence solutions, today announced it has achieved Amazon Web"
     publishedDateTime: 2022-09-08T22:13:00Z
@@ -51,6 +71,6 @@ related:
       domain: datanami.com
     quality: 19
 
-secured: "QnKkrSUyIC2G05buf+aet53qfFW9SFA9TRL+F1w9Ut85dhSKLCZ99tf5P5nmOA4+5B9Da26ktfldAuS0Al/MxjtPqDNr4A58rtHHk/PClfkn4RJKvLCA2Hl+3xWAXVBdmZh8wUqckJ77iCRZXxARLxl+MTnLpZj6FlExhHXsRyTjKJ9JcXjgqFmd3aW36KeJ8x/0xnW/dmaQ+zVWBLV8wi1d1ncOET2rIRA4kKL6dHI2LS3iTJjy7pXaAdgw/QzTBcKdoQb+LGsT4a0/mfmdCK4haFGJHED905kLcIVLkO1RAaFxF83q/XIo9TP4F580f96+oCaU2anodYynkVcPNEb9xaWntPCmdGtIoQSjW4s=;BpqOzTd+ZTDgHkqxKvZzdQ=="
+secured: "b0yvZNQH6KqUUD05cSp695kI3Mvb/gwPhEu56XkcM/OS9v+bow6gT725daLqsbm1tGRoDp+a2sTiPLdCzi4RS0mTWEIZGLJuLKbPC3K1NajrNGDG0Cd8a9iCkUuk/c7XE2vjMBBM42CWw1kCvfa8SmIoUF3c4Rxik7i/+1mLNkusNKPlJCRK2NGgvVC7qzVge1oeQkxwLuK+zPufz5hoRrtlPY72dm2OCrtP2hjqb3JPmwPJHaLVEAsgHcn/CycD7nWOYvQZURLdbnAn/CXRHFfMt2HWO2hQEc2kNZGzILA2vkozY2DfiMe4d3oWo8ncAncdxTHPnJkfMObHpT0Jb1filO/x6t2IzRnzAt8SR1o=;BDzJHMqukAjmSvpRLX5XRQ=="
 ---
 

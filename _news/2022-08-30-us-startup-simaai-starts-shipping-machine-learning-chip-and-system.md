@@ -1,17 +1,17 @@
 ---
 category: news
 title: "U.S. startup SiMa.ai starts shipping machine learning chip and system"
-excerpt: "Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management & Research Company, said on Tuesday it started shipping chips and systems to customers that are testing them ..."
+excerpt: "Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management & Research Company, said on Tuesday it started shipping chips and systems to customers that are testing them, an important step for mass production. We apologize ..."
 publishedDateTime: 2022-08-30T13:24:00Z
-originalUrl: "https://nationalpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system"
-webUrl: "https://nationalpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system"
-ampWebUrl: "https://nationalpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system/wcm/d3b033f1-d689-4d7b-bd86-a55744e847fe/amp/"
-cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system/wcm/d3b033f1-d689-4d7b-bd86-a55744e847fe/amp/"
+originalUrl: "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system"
+webUrl: "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system"
+ampWebUrl: "https://financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system/wcm/d3b033f1-d689-4d7b-bd86-a55744e847fe/amp/"
+cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/u-s-startup-sima-ai-starts-shipping-machine-learning-chip-and-system/wcm/d3b033f1-d689-4d7b-bd86-a55744e847fe/amp/"
 type: article
 
 provider:
-  name: National Post
-  domain: nationalpost.com
+  name: Financial Post
+  domain: financialpost.com
 
 topics:
   - AI in Finance
@@ -19,6 +19,6 @@ topics:
   - Machine Learning
   - AI Hardware
 
-secured: "IZ5o7M1p9E/xGRoTRnIP04dYqKzqgM6wjQO5JLMIIIXB0ivwTJBGgCMIoQhOh7MTfqSnR0hxdknTh5fx8bp69HbhMJkugKOV/V2egTGkQR4pibzpYGQ0wo45SrC5MN5JsQwLu5yp4FAnxxpxITm3QKBKrDsojGXoTEHbzrpqlzDvp0JMAfsfRW4SrMKPWMvqhapSSt1Iqs30qS9oVHs9vM0rbGx/3kESR5Z7gbRrqkErznvdJwVS+8maPVwGulHD8Vr8zQhCar6uCX+nZudirs4wsnWrqyGw/hB4JshdGDzIIBzv1ohoAoMyKNRxK1MS7wP6DCjxlmCAmoNzkOvKdNLIC9QDOopz9H/8ftIPYyQ=;HuDJxnJiHxd9v6Is8KoxJQ=="
+secured: "1PT1eicQbzMQIo3uqIGVYAUagvgJlhbcgcxhB0reGKoxqbBQiR0BGa9wjoSbp1uyZC29KiaqmQ0onP255p6Ty5rCXyYeAiq+/rVORIJQcBH68AvB23PZ0rFnzJi4KYvmjM3ZbUe8IUBJrRsHGhcACWkzUmenA8w0s98VkJWsKCSVQ0UlR2Ypnw3a3OGUxjblNM3r16UvniWMqiFa5D9MooxMtObdY6xEEgtTlDO+Z82Po3rLnZkWTeWLMbQdRTjqX9EA+g57GIbMxD99hLE5GWcZLMGk0H1UFYMj3hKQ0wrV+L1q88JLH82qgQ8jUxXMAX2+o32X97VxmToCP+HHncgUIHWg+wbSlgNNBXGL3kk=;xjxSbwbQiFtEHvNyHj1GTA=="
 ---
 

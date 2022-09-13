@@ -24,10 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Speech Recognition Engine Industry 2022 Market Challenges, Business Overview and Forecast Research Study 2028"
-    excerpt: "In the Speech Recognition Engine study report, the market for the pertinent time period is in-depth analyzed. In-depth competitor analysis is a component of Speech Recognition Engine market research,"
+  - title: "The Worldwide Artificial Intelligence Robots Industry is Expected to Reach $38.4 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The \"Artificial Intelligence Robots Market Research Report by Offering (Hardware and Software), Robot Type, Technology, Deployment Mode, Application, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2022-09-13T11:06:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-13-the-worldwide-artificial-intelligence-robots-industry-is-expected-to-reach-384-billion-by-2027-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 9
+  - title: "Asia Pacific Healthcare Fraud Analytics Market to Grow at a Significant CAGR of 23.7% Through 2028 - ResearchAndMarkets.com"
+    excerpt: "The Asia Pacific Healthcare Fraud Analytics Market is expected to witness market growth of 23.7% CAGR during the forecast period (2022-2028). Before alerts are sent to analysts, clinicians, or investigators,"
     publishedDateTime: 2022-09-09T16:54:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-9-9-speech-recognition-engine-industry-2022-market-challenges-business-overview-and-forecast-research-study-2028"
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-9-asia-pacific-healthcare-fraud-analytics-market-to-grow-at-a-significant-cagr-of-237-through-2028-researchandmarketscom"
     type: article
     provider:
       name: Daily Herald

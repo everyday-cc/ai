@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Truly autonomous cars may be impossible without helpful human touch"
-excerpt: "Autonomous vehicle (AV) startups have raised tens of billions of dollars based on promises to develop truly self-driving cars, but industry executives and experts say remote human supervisors may be needed permanently to help robot drivers in trouble."
-publishedDateTime: 2022-09-12T18:13:00Z
-originalUrl: "https://www.channelnewsasia.com/business/truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-2932686"
-webUrl: "https://www.channelnewsasia.com/business/truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-2932686"
+excerpt: "The central premise of autonomous vehicles - that computers and artificial intelligence will dramatically reduce ... \"It's truly millions of outputs.\" Driverless delivery In its track tests for cars, AB Dynamics employs a robot arm that it plans to ..."
+publishedDateTime: 2022-09-13T09:44:00Z
+originalUrl: "https://europe.autonews.com/automakers/truly-autonomous-cars-may-be-impossible-without-human-touch"
+webUrl: "https://europe.autonews.com/automakers/truly-autonomous-cars-may-be-impossible-without-human-touch"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: Automotive News
+  domain: autonews.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/Vay%20driver%20web.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "INSIGHT-Truly autonomous cars may be impossible without helpful human touch"
@@ -46,6 +52,22 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Fully-autonomous driving tech will always need human attention"
+    excerpt: "While Autonomous Vehicle (AV) startups are raising billions of dollars toward developing 'true self-driving' cars, experts and industry executives believe that human supervision may permanently be needed"
+    publishedDateTime: 2022-09-13T11:26:00Z
+    webUrl: "https://www.team-bhp.com/news/fully-autonomous-driving-tech-will-always-need-human-attention"
+    ampWebUrl: "https://www.team-bhp.com/news/fully-autonomous-driving-tech-will-always-need-human-attention?amp"
+    cdnAmpWebUrl: "https://www-team--bhp-com.cdn.ampproject.org/c/s/www.team-bhp.com/news/fully-autonomous-driving-tech-will-always-need-human-attention?amp"
+    type: article
+    provider:
+      name: Team-BHP.com
+      domain: team-bhp.com
+    quality: 44
+    images:
+      - url: "https://www.team-bhp.com/sites/default/files/styles/amp_high_res/public/autonomous-vehicles.jpg"
+        width: 1280
+        height: 789
+        isCached: true
   - title: "Truly Autonomous Cars May Be Impossible Without Helpful Human Touch"
     excerpt: "Autonomous vehicle (AV) startups have raised tens of billions of dollars based on promises to develop truly self-driving cars, but industry executives and experts say remote human supervisors may be needed permanently to help robot drivers in trouble."
     publishedDateTime: 2022-09-12T06:48:00Z
@@ -70,6 +92,6 @@ related:
       domain: autoblog.com
     quality: 4
 
-secured: "2SBeWFCa89lS7UUPSnSCbtXLj1gmngIZzBLcsDYbtnvPwHzZQxm7PVcGMoBl1rOGWP02WqEON/XAK5jacD5ZBcnY13eUuD2ImypBjwHh2huRZlUQrE+ICo/hr+L31nkhl9vKC2sojSWxPmCAG+3J7qh/HsJ0Uq3dEH4XXt0FwBmcF4pUk8t/2v5gaVGFSL8yb/E3twQD22rn6a8TuaRj9j9e3Zb6l/el+cerEP+bThQHGngsGkqcdIEChjc+GVo4O798yLt0FpCP6W95dl6A7jixRTDcrpVdBXB2QxHh8Rd8CZ2unYJyTWKzjUwQWH7KpD6JVKPFFlwGLCl43gFT3zugI2cqcHs1SZc0a4GNVZdAAlbbHwLNoBrb5VgTg5KcPedHy7ghUc1OnFGNEX1x29qLzJKrsFh9KO/F+98ry/uNe3GDoBJw6+Vp3yY4c1tzIjEgqwg035xW9cKeckqteTdVnWE4nv8szm0j8J1pa56bztbLbMa4tUu7zOCLHeg8XIyQq1M9L/9yUYCY+t7QJA==;1l7L4g/8eP4UB/MI1xgLzQ=="
+secured: "776t44APICx8LlB2JJbyQnTX7DTy3xPdijAsTUoSZRroRXAeamSwCsHMabmHhet1UyHN7yXq5isol3wRTw4cNfaPqdwRgI5N9wndOpYepfk8T72lcRSP1SmBlveNMvrUInDqAOskhdmtUNnMA86YsN8cDngfDcXtJhW/IE/BWnSut7qd9Kp3tM30Px0lVseXWxFNbHPpc3Z8lylH/vsUaC2b8C2odDMb7x9RfbQ44QwSbEkr8lHP8zPU5QUxjYABKF+EPcPKFJO1rc9MvnBrrGdZv+V3AN9pEhJDc7uKmmSFWf2UjOXXzXLStpZhBr53+3/FUvfAJeS5RdxfFvDOhrviuW5rLaINt1MPNMVedK0=;eN6eobid+yIL2Ez/9oQ4Pw=="
 ---
 

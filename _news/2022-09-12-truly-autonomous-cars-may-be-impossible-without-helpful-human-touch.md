@@ -52,6 +52,36 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Fully-autonomous driving tech will always need human attention"
+    excerpt: "While Autonomous Vehicle (AV) startups are raising billions of dollars toward developing 'true self-driving' cars, experts and industry executives believe that human supervision may permanently be needed"
+    publishedDateTime: 2022-09-13T11:26:00Z
+    webUrl: "https://www.team-bhp.com/news/fully-autonomous-driving-tech-will-always-need-human-attention"
+    ampWebUrl: "https://www.team-bhp.com/news/fully-autonomous-driving-tech-will-always-need-human-attention?amp"
+    cdnAmpWebUrl: "https://www-team--bhp-com.cdn.ampproject.org/c/s/www.team-bhp.com/news/fully-autonomous-driving-tech-will-always-need-human-attention?amp"
+    type: article
+    provider:
+      name: Team-BHP.com
+      domain: team-bhp.com
+    quality: 44
+    images:
+      - url: "https://www.team-bhp.com/sites/default/files/styles/amp_high_res/public/autonomous-vehicles.jpg"
+        width: 1280
+        height: 789
+        isCached: true
+  - title: "Truly autonomous cars may be impossible without helpful human touch"
+    excerpt: "The central premise of autonomous vehicles - that computers and artificial intelligence will dramatically reduce ... \"It's truly millions of outputs.\" Driverless delivery In its track tests for cars, AB Dynamics employs a robot arm that it plans to ..."
+    publishedDateTime: 2022-09-13T09:44:00Z
+    webUrl: "https://europe.autonews.com/automakers/truly-autonomous-cars-may-be-impossible-without-human-touch"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/Vay%20driver%20web.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Autonomous cars may be impossible without helpful human touch"
     excerpt: "\"I can provide my customers peace of mind knowing there is always a human there to help if needed,\" Vogt said. \"I don't know why I'd ever want to get rid of that.\""
     publishedDateTime: 2022-09-12T12:46:00Z
@@ -60,15 +90,6 @@ related:
     provider:
       name: Autoblog
       domain: autoblog.com
-    quality: 4
-  - title: "Truly autonomous cars may be impossible without helpful human touch"
-    excerpt: "Autonomous vehicle (AV) startups have raised tens of billions of dollars based on promises to develop truly self-driving cars, but industry executives and experts say remote human supervisors may be needed permanently to help robot drivers in trouble."
-    publishedDateTime: 2022-09-12T18:13:00Z
-    webUrl: "https://www.channelnewsasia.com/business/truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-2932686"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
     quality: 4
 
 secured: "JSMzN0WyDgeG4knvm4rM4ozyX7YajrvZSjZsoSwAOFLbRgBjNpvq7SVoItF1351SEyX61ReJA4kW2NqsNKjPvFLZyzCK4tMCmRQ05SFlcz8Z2mOA7PBDMkT2mvKLhKpsJqsSRCP8ub53rNmVARvFgWk6cU+ELLC0XYxgQ/yeVtqDK9LVkW2TJB28YLivTlizYucqtabQPvyhkzsUrCzHiHHsKTvG38adrTAjlWmvNx+ki7haFrZnZZC4ujIJFjeukZN9KLpWyzsTXGUOXK2zlIoyYb+casoZbj4cL1NLzYlYjArEWpqaU1g2at64x2DaoTUS52YnqH/qkHX91cjpnZEgw1ASObebS5V+AbaKkRcpwNofwUKvfY63yRDLdZyE14lVdpswWW9nHzFZzHXbGQGhajORYB/o4eDJn5YGV2rYOZjHe8reGMbXb/u9qyAasUqbVdJFtRHXV4NqGaxxeEk7Y1CCCl9mrUg8jX1PeGn4ac7wnTbMvuG2CFeoHTeH3aPAthwGWPU0uaAJoUD0TA==;rpy08srVtGlkv9XgunKORA=="
