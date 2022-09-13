@@ -2,6 +2,49 @@
   "page": 149,
   "value": [
     {
+      "path": "_news/2022-05-18-temenos-delivers-digital-banking-solutions-on-aws.md",
+      "title": "Temenos Delivers Digital Banking Solutions on AWS",
+      "excerpt": "Temenos and AWS started working together in 2019 to integrate Temenos ... Amazon Connect capabilities include skills-based contact routing, voice and chat recording, built-in artificial intelligence (AI) and machine learning (ML) to personalize ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-a989e1728a344261a06309ce63603287",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-a989e1728a344261a06309ce63603287",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-17T23:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-18-payments-fintech-banking-circle-maintains-steady-growth-trajectory.md",
       "title": "Payments Fintech Banking Circle Maintains Steady Growth Trajectory",
       "excerpt": "We have also sustained investment in the use of AI to enhance the effectiveness of the AML processes ... online lending, and other forms of Fintech. Announcing the Launch of the ConvoyFiCrowdfunding Website ConvoyFi is theFirst Decentralized ...",
@@ -1147,40 +1190,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-img-arena-acquires-computer-vision-firm-signality.md",
-      "title": "IMG Arena acquires computer vision firm Signality",
-      "excerpt": "Agency giant IMG’s betting data firm will adopt Swedish-based Signality’s AI-powered software, computer vision and camera technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sportspromedia.com/news/img-arena-signality-computer-vision-sports-data-betting/?blocktaxonomy=finance-investment",
-      "originalUrl": "https://www.sportspromedia.com/news/img-arena-signality-computer-vision-sports-data-betting/?blocktaxonomy=finance-investment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-17T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SportsPro",
-        "domain": "sportspromedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

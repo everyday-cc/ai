@@ -2,6 +2,49 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2022-08-17-kardome-expands-voice-technology-offerings.md",
+      "title": "Kardome Expands Voice Technology Offerings",
+      "excerpt": "Tel Aviv, Israel - Newsfile Corp. - August 17, 2022 - Kardome, a leading provider of speech recognition enhancement solutions for ASR systems, today announced the expansion of its offerings with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/kardome-expands-voice-technology-offerings",
+      "originalUrl": "https://www.asiaone.com/business/kardome-expands-voice-technology-offerings",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Aug2022/8225_0.jpg?h=bde28bee&itok=Myedg5-4",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-17-when-ai-meets-fintech-discover-more-about-the-match-made-in-heaven.md",
       "title": "When AI Meets Fintech : Discover More About the Match Made in Heaven!",
       "excerpt": "Unsurprisingly, the entire credit goes to the fintech industry, and the market is booming. Indeed, the pandemic posed a challenge in front of businesses, which fortunately led to a better understanding of technologies and adoption of the same.",
@@ -1123,49 +1166,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-morti-is-a-robot-dog-that-can-learn-to-walk-in-an-hour.md",
-      "title": "Morti is a robot dog that can learn to walk in an hour",
-      "excerpt": "Researchers at the Max Planck Institute have developed a robotic four-legged dog that uses an algorithm to learn to walk from scratch \"like a baby giraffe\". The four-kilogram robot is being used ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dezeen.com/2022/08/17/morti-robot-dog-learn-walk-hour-technology/",
-      "originalUrl": "https://www.dezeen.com/2022/08/17/morti-robot-dog-learn-walk-hour-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.dezeen.com/uploads/2022/08/morti-robot-dog-max-planck-institute-technology_dezeen_2364_col_3-852x567.jpg",
-          "width": 852,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dezeen.com/2022/08/17/morti-robot-dog-learn-walk-hour-technology/amp/",
-      "cdnAmpWebUrl": "https://www-dezeen-com.cdn.ampproject.org/c/s/www.dezeen.com/2022/08/17/morti-robot-dog-learn-walk-hour-technology/amp/",
-      "publishedDateTime": "2022-08-16T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dezeen",
-        "domain": "dezeen.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

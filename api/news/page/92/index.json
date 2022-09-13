@@ -2,6 +2,49 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2022-06-28-discovering-links-between-cognitive-ability-and-grit.md",
+      "title": "Discovering Links Between Cognitive Ability and Grit",
+      "excerpt": "Individuals who are determined or express more grit may be more able to self-regulate and show cautious control but don't necessarily have better cognitive ability, suggests a new study.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/discovering-links-between-cognitive-ability-and-grit-207732-1.htm",
+      "originalUrl": "https://www.medindia.net/news/discovering-links-between-cognitive-ability-and-grit-207732-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/brain3.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/discovering-links-between-cognitive-ability-and-grit-207732-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/discovering-links-between-cognitive-ability-and-grit-207732-1.htm",
+      "publishedDateTime": "2022-06-27T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-28-weights-biases-and-runai-announce-partnership-to-accelerate-ml-developer-workflow.md",
       "title": "Weights & Biases and Run:ai Announce Partnership to Accelerate ML Developer Workflow",
       "excerpt": "Partnership provides ML practitioners with a complete solution for the full ML lifecycle, from MLOps and experiment tracking, to resource management at scale",
@@ -1114,57 +1157,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-poolbeg-pharma-partner-completes-ai-model-for-rsv-drug-identification.md",
-      "title": "Poolbeg Pharma Partner Completes AI Model for RSV Drug Identification",
-      "excerpt": "Poolbeg Pharma PLC said Monday that partner OneThree Biotech has completed its artificial intelligence model optimization to identify treatments for respiratory syncytial virus, with results expected in the fourth quarter. The pharmaceutical company said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/poolbeg-pharma-partner-completes-ai-model-for-rsv-drug-identification-271656321540",
-      "originalUrl": "https://www.marketwatch.com/story/poolbeg-pharma-partner-completes-ai-model-for-rsv-drug-identification-271656321540",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/poolbeg-pharma-partner-completes-ai-model-for-rsv-drug-identification-271656321540",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/poolbeg-pharma-partner-completes-ai-model-for-rsv-drug-identification-271656321540",
-      "publishedDateTime": "2022-06-27T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

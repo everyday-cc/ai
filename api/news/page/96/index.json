@@ -2,6 +2,57 @@
   "page": 96,
   "value": [
     {
+      "path": "_news/2022-06-23-instagram-is-testing-ai-powered-video-selfies-to-verify-age.md",
+      "title": "Instagram is testing AI-powered video selfies to verify age",
+      "excerpt": "Continuing on with its push for age verification and the enforcement of its age requirement, Instagram announced that it would be testing new age-verification methods to help primarily younger users verify their ages with the popular photo and video sharing app.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/social-media/instagram-is-testing-ai-powered-video-selfies-to-verify-age/",
+      "originalUrl": "https://www.digitaltrends.com/social-media/instagram-is-testing-ai-powered-video-selfies-to-verify-age/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 217,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/04/smartphone-with-instagram-app-on-it.jpg?p=1",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/social-media/instagram-is-testing-ai-powered-video-selfies-to-verify-age/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/instagram-is-testing-ai-powered-video-selfies-to-verify-age/?amp",
+      "publishedDateTime": "2022-06-23T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-23-ai-weekly-microsofts-new-moves-in-responsible-ai.md",
       "title": "AI Weekly: Microsoft’s new moves in responsible AI",
       "excerpt": "“We might also see the release of more tools and capabilities within the Azure platform that will make some of the standards mentioned in their Responsible AI Standard more broadly accessible to ...",
@@ -1105,58 +1156,6 @@
         "AI in Robotics",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-delivery-robots-are-bridging-the-gap-arising-from-the-labor-shortage.md",
-      "title": "Delivery Robots Are Bridging The Gap Arising From The Labor Shortage",
-      "excerpt": "With labor shortage showing no signs of receding, delivery-focused companies are turning to robots to steer goods to consumers—with robust results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/23/delivery-robots-are-bridging-the-gap-arising-from-the-labor-shortage/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/23/delivery-robots-are-bridging-the-gap-arising-from-the-labor-shortage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62b32151f2054ac58c7a1f0b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 898,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/23/delivery-robots-are-bridging-the-gap-arising-from-the-labor-shortage/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/23/delivery-robots-are-bridging-the-gap-arising-from-the-labor-shortage/amp/",
-      "publishedDateTime": "2022-06-23T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

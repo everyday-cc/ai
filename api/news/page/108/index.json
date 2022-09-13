@@ -2,6 +2,49 @@
   "page": 108,
   "value": [
     {
+      "path": "_news/2022-06-16-hundreds-of-crashes-linked-to-autonomous-vehicles-and-self-driving-technology-new-report-shows.md",
+      "title": "Hundreds of crashes linked to autonomous vehicles and self-driving technology, new report shows",
+      "excerpt": "A new report shows that nearly 400 crashes in the United States involved cars that used some form of driver-assistance technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox23.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/",
+      "originalUrl": "https://www.fox23.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cmg-cmg-tv-10100-prod.cdn.arcpublishing.com/resizer/fybcXK6vaZtyfshG7CiqG9GXVpU=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/3JYGPSKCSBH67IK3ANWFKSHFDA.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox23.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-fox23-com.cdn.ampproject.org/c/s/www.fox23.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp",
+      "publishedDateTime": "2022-06-15T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox 23",
+        "domain": "fox23.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-why-cognitive-shortfalls-are-fodder-for-humorous-gibes.md",
       "title": "Why Cognitive Shortfalls Are Fodder for Humorous Gibes",
       "excerpt": "The next category would include those that factor in the creation of cognitive humor. Just as physical and emotional shortcomings can be co-opted to inspire laughter intentionally, so can ...",
@@ -1037,40 +1080,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-research-claims-military-cannot-rely-on-artificial-intelligence-for-strategy-or-judgment.md",
-      "title": "Research claims military cannot rely on Artificial Intelligence for strategy or judgment",
-      "excerpt": "The use of artificial intelligence (AI ... and Goldfarb highlight is the Rio Tinto mining company, which uses self-driving trucks to transport materials, reducing costs and risks to human drivers.",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/Articles/Science/20220615/3952115.html",
-      "originalUrl": "https://news.webindia123.com/news/Articles/Science/20220615/3952115.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T00:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

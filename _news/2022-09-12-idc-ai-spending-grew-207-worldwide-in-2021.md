@@ -23,6 +23,19 @@ images:
     height: 225
     isCached: true
 
+related:
+  - title: "Artificial Intelligence Spending Grew 20.7% Worldwide in 2021, According to IDC"
+    excerpt: "AI Software Captures the Largest Share of AI Spending with AI Platforms Delivering 36.6% Growth Worldwide revenues for the artificial intelligence (AI) market, including software, hardware, and servic"
+    publishedDateTime: 2022-09-12T12:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/b28828207/artificial-intelligence-spending-grew-20-7-worldwide-in-2021-according-to-idc"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28828207"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28828207"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
+
 secured: "LnjxCYeGPJH9dxjjo1dRjkBEZZqHxuYVtTAYG7Bdnax0MwWXwrfLJe55IwBfEGG9p/rQHqpKGorh9Cqk8TB+OTLUjxM0peIM8nYwCn3eIrUYFErg6zqwJ8bDIliWsLFAHgzYPFIXGpSuYHi+c7kPZf3Rr9Axj/pA4xDQCS1kdU3loVs2g7YawH+4c4HQXfCWnR7qSk5bkfmvnHGOg9NDywfvg5R0IvZ9+HHWMr3wz15I/pGKDBL7rkeE1qIZG6eimPxlngFt6v/U7k8JGNSJGmnB94rPoUjyHw41lm4N2djg4N2sK1K0mMwC6AtbfdhNo3D1p6IqXDi1ZRc8z9ufvp+6XiUq6sqp0ReEEHTfad5DsIWVi07lLRvIbvczPuG2PBmpYj6EEV4u6CIj5uDtGU3+heZd2CSOyRwbJxmgAxNzKt8R0ZM+k4R+rw/uv/qfdkCDK6MnkEkyR/H62QpwktlvzPJ0NIb87t0KLU2EweimbnNB4MUyOVAW/gyhJzwvEtZb1cB4sp9RFoXPCnz13w==;ZrPmRp31XpfGIuwneUoxEA=="
 ---
 

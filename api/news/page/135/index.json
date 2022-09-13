@@ -2,6 +2,49 @@
   "page": 135,
   "value": [
     {
+      "path": "_news/2022-05-27-the-worlds-new-youngest-self-made-billionaire-is-a-25-year-old-college-dropout.md",
+      "title": "The world’s new youngest self-made billionaire is a 25-year-old college dropout",
+      "excerpt": "The new youngest self-made billionaire of the world Alexandr Wang is a 25 year old college dropout from New Mexico.",
+      "sourceUrl": null,
+      "webUrl": "https://techstory.in/the-worlds-new-youngest-self-made-billionaire-is-a-25-year-old-college-dropout/",
+      "originalUrl": "https://techstory.in/the-worlds-new-youngest-self-made-billionaire-is-a-25-year-old-college-dropout/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techstory.in/wp-content/uploads/2022/05/darikNews.img361.jpeg",
+          "width": 800,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-27T03:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tech",
+        "domain": "techstory.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-27-biography-meet-zimbabwes-serial-entrepreneur-william-sachiti-who-owns-uks-first-black-owned-driverless-car-company.md",
       "title": "Biography: Meet Zimbabwe’s Serial Entrepreneur William Sachiti Who Owns UK’s First Black-Owned Driverless Car Company",
       "excerpt": "From creating digital advertising bins to driverless cars, the serial inventor is not ... In 2015 Sachiti enrolled at Aberystwyth University in Wales, where he studied artificial intelligence and robotics. He kept fledging and flourishing at the university ...",
@@ -1006,60 +1049,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-tigergraph-launches-workbench-for-graph-neural-network-mlai-modeling.md",
-      "title": "TigerGraph launches Workbench for graph neural network ML/AI modeling",
-      "excerpt": "TigerGraph's ML Workbench should enable data scientists to build deep-learning AI models using connected data directly from the business.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/26/tigergraph-launches-workbench-for-graph-neural-network-ml-ai-modeling%EF%BF%BC/",
-      "originalUrl": "https://venturebeat.com/2022/05/26/tigergraph-launches-workbench-for-graph-neural-network-ml-ai-modeling%EF%BF%BC/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/02/machine-learning-e1653607121457.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/26/tigergraph-launches-workbench-for-graph-neural-network-ml-ai-modeling%EF%BF%BC/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/26/tigergraph-launches-workbench-for-graph-neural-network-ml-ai-modeling%EF%BF%BC/amp/",
-      "publishedDateTime": "2022-05-26T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Microsoft AI",
-        "AWS AI"
       ]
     }
   ],

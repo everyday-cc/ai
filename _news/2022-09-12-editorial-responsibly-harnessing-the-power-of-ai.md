@@ -34,15 +34,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "Editorial: It’s past time to prepare for a future where the workforce has as many robots as people"
-    excerpt: "This country isn’t doing enough to prepare for a future where millions of Americans with outdated skills won’t be able to compete for jobs when a less expensive, automated alternative"
-    publishedDateTime: 2022-09-08T12:00:00Z
-    webUrl: "https://www.dailycamera.com/2022/09/08/editorial-its-past-time-to-prepare-for-a-future-where-the-workforce-has-as-many-robots-as-people/"
-    type: article
-    provider:
-      name: Daily Camera
-      domain: dailycamera.com
-    quality: 5
 
 secured: "/ctsdTiyL4zuPsmX1JRo8UeIQzLFI04F97A4jZWmbYTLdlrXs5itM+F6EgBRcZSIEI/YBh/Zi8H3LOonPAJiENc2ldqLgLrTk6Hxqf8pnKxFVWgmZyYR7i0N3tRA7zhga9Q39A/qPQNGeTeoZRQZGzdJU8oISJtSgnrCTv696nq7I+PF8QsR+7Cb49fMmMarKLel/tycLoOBes2k4pwMaNsJSg5UKecXNDUwj34xV6r0qCkrq+EBfYtI8nwV8nb6yHi0T5IvkCE3xKupH/ANEdf58fGq7VzzzeSUp5/6xkMGCgv2YeVg3ixOq9CeSW8CSr8o8ovz9I+R30oaCdCrPMYyjjUD2EGFZV76EUkZ4M+tfkkdQrVNUmxHGvWI5TwJbqiRf13vvrXMdlc73HrXkLeAd0YVObfHGM2WrRRyuoZ91MzAXDkbnKMUceht9D4959wa8/2Jz2VDTfvXAFvnPhpn1j1uG2lI3bSl+t3HxYd4E39L6a4vJjNKUjnNeORldYwFF68g0+lfPUfCqg78Qw==;9Mv/V72zLLSVmOWTUqDEPg=="
 ---

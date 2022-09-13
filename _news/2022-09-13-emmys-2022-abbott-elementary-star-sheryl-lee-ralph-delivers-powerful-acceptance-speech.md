@@ -30,7 +30,7 @@ related:
   - title: "Sheryl Lee Ralph gets standing ovation after epic Emmys speech: 'This is what believing looks like'"
     excerpt: "\"Abbott Elementary\" star Sheryl Lee Ralph is only the second Black woman to win best supporting actress in a comedy series."
     publishedDateTime: 2022-09-13T01:54:00Z
-    webUrl: "https://www.aol.com/sheryl-lee-ralph-gets-standing-015449809.html"
+    webUrl: "https://www.aol.com/entertainment/sheryl-lee-ralph-gets-standing-015449809.html"
     type: article
     provider:
       name: AOL

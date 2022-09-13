@@ -39,6 +39,15 @@ related:
         width: 323
         height: 250
         isCached: true
+  - title: "Legal Software With Machine Learning Global Market to Reach $630 Million by 2026 with a CAGR of 13.2%"
+    excerpt: "The global legal software market is expected to grow from $0.33 billion in 2021 to $0.39 billion in 2022 at a compound annual growth rate (CAGR) of 16.6%. The change in growth trend is mainly due to the companies stabilizing their output after catering to the demand that grew exponentially during the COVID-19 pandemic in 2021."
+    publishedDateTime: 2022-09-12T16:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-legal-software-with-machine-learning-global-market-reach-/2022/09/12/9671408.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "e1aTi6+OnyKD6V9ouGPEwnVg8/uItXcEkCVB4Ijs0bBxkVzzP3XkI6pDA0xlXaSiuUDiBpnrPpQl4yTxvfExPg7gKp4xC1EQrIOt+vpya+nKL1AHQCJr+KDIZNVcmgOrPl/29NijEKlXlZh791HTOCIKCs/iCL2pAkVJqXgM+bdudGd91HFo557XQoOZ5luu9MVlmY4xv6ouqHjzfLsEmTPdvznXAOUHzLAd+pBxEWowLQnO9b2d4ZcurQac4ai6KxDt+m7pk/PsH4c+pZXzSG28aOtvLOkvpOgK+Lz2jRFnap8QsaGupdM8t9fgYzlnABSsPnp8PeB/HyYREubdoa/kS+kJDJbYAX5ZILZ85ao=;N0iwvw/vxlzJmQjpBJmNWA=="
 ---

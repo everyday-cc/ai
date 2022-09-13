@@ -2,6 +2,49 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2022-07-26-xoriant-xcelerate-iot-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Xoriant X⋅CELERATE IoT Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "Azure Machine Learning, Azure Cognitive Services, Azure Cosmos DB, and Power BI. Xoriant, a Microsoft gold co-sell partner, is accelerating the deployment, development, and optimization of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/xoriant-x-celerate-iot-now-available-in-the-microsoft-azure-marketplace/article_ecd578fd-7081-5fde-a0a0-123202589382.html",
+      "originalUrl": "https://www.eagletribune.com/region/xoriant-x-celerate-iot-now-available-in-the-microsoft-azure-marketplace/article_ecd578fd-7081-5fde-a0a0-123202589382.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
+          "width": 600,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-25T23:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-26-machine-learning-market-research-by-leading-countries-growth-drivers-risks-opportunities-forecast-and-top-vendors-analysis-till-2031.md",
       "title": "Machine Learning Market Research By Leading Countries, Growth, Drivers, Risks, Opportunities, Forecast and Top Vendors Analysis Till 2031",
       "excerpt": "Kenneth Research has published a detailed report on Machine Learning Market which has been categorized by market size",
@@ -1094,49 +1137,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-botminds-document-ai-is-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Botminds Document AI is Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "SEATTLE and CHENNAI, India, July 25, 2022 /PRNewswire/ -- Botminds AI, today announced the availability of Botminds Document AI platform in the Microsoft Azure Marketplace, an online store ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/07/n28186895/botminds-document-ai-is-now-available-in-the-microsoft-azure-marketplace",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/n28186895/botminds-document-ai-is-now-available-in-the-microsoft-azure-marketplace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1865614/Botminds_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28186895",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28186895",
-      "publishedDateTime": "2022-07-25T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

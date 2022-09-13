@@ -2,6 +2,50 @@
   "page": 106,
   "value": [
     {
+      "path": "_news/2022-06-16-why-artificial-intelligence-remains-a-distant-dream.md",
+      "title": "Why Artificial Intelligence remains a distant dream?",
+      "excerpt": "Many AI initiatives to emulate the human brain -- from driving a car to writing text -- have failed in the ever changing real world",
+      "sourceUrl": null,
+      "webUrl": "https://www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/",
+      "originalUrl": "https://www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.americanbazaaronline.com/wp-content/uploads/2021/01/Communication.jpg",
+          "width": 1100,
+          "height": 692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/?amp",
+      "cdnAmpWebUrl": "https://www-americanbazaaronline-com.cdn.ampproject.org/c/s/www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/?amp",
+      "publishedDateTime": "2022-06-16T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "americanbazaaronline.com",
+        "domain": "americanbazaaronline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-110-million-in-new-funding-for-ai-helping-hospitals-address-acute-labor-shortage.md",
       "title": "$110 Million In New Funding For AI Helping Hospitals Address Acute Labor Shortage",
       "excerpt": "The Aidoc AI platform delivers to physicians in over 1,000 healthcare organizations actionable insights derived from imaging data and electronic medical records.",
@@ -1084,40 +1128,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-h2oai-expands-snowflake-partnership-enabling-successful-ai-transformations-for-customers.md",
-      "title": "H2O.ai Expands Snowflake Partnership Enabling Successful AI Transformations for Customers",
-      "excerpt": "AI Cloud Leader Awarded Elite Partner Certification to Strengthen User Experience with Competency Badge at Snowflake Summit H2O.ai, the AI Cloud… | Scaleups | Digital | International | Technology | En",
-      "sourceUrl": null,
-      "webUrl": "https://bdaily.co.uk/articles/2022/06/16/h2oai-expands-snowflake-partnership-enabling-successful-ai-transformations-for-customers",
-      "originalUrl": "https://bdaily.co.uk/articles/2022/06/16/h2oai-expands-snowflake-partnership-enabling-successful-ai-transformations-for-customers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T01:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bdaily Business Network",
-        "domain": "bdaily.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

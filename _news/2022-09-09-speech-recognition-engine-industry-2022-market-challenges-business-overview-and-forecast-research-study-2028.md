@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Vision Market Share and Growth Research 2022 by Current Insights, Developments, Top Manufacturers, Industry Size and Forecast to 2027"
-    excerpt: "Sep 08, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Machine Vision Market” report"
-    publishedDateTime: 2022-09-08T11:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-vision-market-share-and-growth-research-2022-by-current-insights-developments-top-manufacturers-industry-size-and-forecast-to-2027-2022-09-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Call Center AI Market 2022 Key Players, SWOT Analysis, Key Indicators and Forecast to 2032"
     excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
     publishedDateTime: 2022-09-09T03:43:00Z
@@ -65,15 +51,6 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 3
-  - title: "Learning Management System (LMS) Global Market Report 2022: Artificial Intelligence Presents Exciting Development Areas"
-    excerpt: "Global Market Report 2022: By Component, Delivery Mode, Deployment Mode, End User, and Covering\" report has been added to ResearchAndMarkets.com's offering. The global learning management system (LMS) market is expected to grow from $13."
-    publishedDateTime: 2022-09-08T12:12:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/08/9669431.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "we75/hUB6d6KJHTRjkLzw9JG+BpG91SF+sRzSkhFWH6XEOOSHRzAHt1upaMZboQm1x2NW5nM1w9Yx/iD+D9lKx6/3o9k15o3t82fJ7gh0uGZg2m2yr7Iql6q++mLackiZC0hPIbA3m5Y6Jd/yNsIfvBCGvZ7x24fHNREiNn4IaDITsaekIkukcgNV6hyLFYNKNIpPeyK1+91ZkW8hqV/fu5/3X4GNR5x8Y4hrI1pWBKWsEtSyEvTk0+/vn/eUbuiPawiDBOHM7Hvu3UQLheSpQsoeDudjGmfpbx1gCnsMF8KdpkhKEDHo+L8MehBzqdpUZUg/DxVaPqn6DSaJI7DzM+tgxQsXCEhspwIFCiU/DU=;XVEQuPtqyayk7ZnCuHOrMw=="
 ---

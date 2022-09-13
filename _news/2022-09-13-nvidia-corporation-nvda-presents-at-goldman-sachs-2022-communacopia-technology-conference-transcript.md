@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/article/4540503-nvidia-corporation-nvda-p
 webUrl: "https://seekingalpha.com/article/4540503-nvidia-corporation-nvda-presents-goldman-sachs-2022-communacopia-technology-conference"
 type: article
 quality: 6
-heat: 6
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Corporation (MSFT) Presents at 2022 Goldman Sachs Communacopia + Technology Conference 2022 (Transcript)"
+    excerpt: "Goldman Sachs Communacopia + Technology Conference 2022 September 12, 2022 06:00 PM ET Company Participants Judson Althoff - EVP and"
+    publishedDateTime: 2022-09-13T04:27:00Z
+    webUrl: "https://seekingalpha.com/article/4540556-microsoft-corporation-msft-presents-2022-goldman-sachs-communacopia-technology-conference"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 17
+    images:
+      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "General Motors Company (GM) Presents at Goldman Sachs 2022 Communacopia + Technology Conference (Transcript)"
     excerpt: "Goldman Sachs 2022 Communacopia + Technology Conference September 12, 2022 3:30 PM ET Company Participants Mary Barra - Chair and Chief"
     publishedDateTime: 2022-09-12T22:45:00Z
