@@ -17,14 +17,14 @@
       "twitter": {
         "username": "rajatmonga",
         "url": "https://twitter.com/rajatmonga",
-        "followers": 13883
+        "followers": 13882
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/rajatmonga/"
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=W8yZCNsAAAAJ",
-        "citations": 53166
+        "citations": 53311
       },
       "affiliation": {
         "path": "",
@@ -51,7 +51,7 @@
         "Machine Learning",
         "TensorFlow"
       ],
-      "heat": 50,
+      "heat": 31,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/732267151277481984/gMRijPzT_400x400.jpg",
@@ -88,7 +88,7 @@
         "Machine Learning",
         "TensorFlow"
       ],
-      "heat": 0,
+      "heat": 4,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1438898262602256386/CiWrR6Gi_400x400.jpg",
