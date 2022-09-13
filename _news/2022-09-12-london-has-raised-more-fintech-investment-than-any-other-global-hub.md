@@ -9,8 +9,8 @@ ampWebUrl: "https://techround.co.uk/finance/london-raises-more-fintech-investmen
 cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/finance/london-raises-more-fintech-investment/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: TechRound
@@ -40,6 +40,20 @@ related:
       - url: "https://www.investorideas.com/images/top-sectors/news-investorideas.gif"
         width: 300
         height: 300
+        isCached: true
+  - title: "London Has Raised More Fintech Investment Than Any Other Global Hub, With Its 2022'S Investment Reaching $3.1B"
+    excerpt: "The U.K.'s fintech sector is unrivaled in Europe and is continuing to grow at an incredible rate. London is the natural home for many of these businesses due to the city's deep pool of talent, its global reputation,"
+    publishedDateTime: 2022-09-13T06:42:00Z
+    webUrl: "https://menafn.com/1104854098/London-Has-Raised-More-Fintech-Investment-Than-Any-Other-Global-Hub-With-Its-2022S-Investment-Reaching-31B"
+    type: article
+    provider:
+      name: MENAFN
+      domain: menafn.com
+    quality: 19
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?943357"
+        width: 375
+        height: 250
         isCached: true
 
 secured: "hS1HMElifFPL7CUN+Rq7gyZdcsz/Gy1+rirgU6Hm0KqLlF1vWSdRSX27fqWXGr5HePoFR/nz5cNyrY/W9mLYA6TS31TlCY/j+CJCwADAkcXiINhCV4WbHV6sOzXt49ToAUOczKB6l2xemeWBrwPg0YcrYJGjbu43AoOrEDC3xTE1e0fJL0GMwzPymIs2H7veg0ItzwEX1314LAkhMkk5q5eZk9KL2a/ohlpBY4iONFI0jhcUWmVdjSzg6AZ0HXood0sWlF/ZD83/IZhSDr63q4fj6Bj0R2PlbCdr31kWJRRhYcoTaoYMrms1VI7N1FlCtlp0Etq6wlscy4fSBPt5/ycwoQcXeiDeWjXxEwuU6rJutFBOeSEJWhWEW0pAS/ZVmBudE5Q0DIThvHX3nhtBt/I3LIbbvIRVuWJw/EEQ/ZtNwedu9DD7sq64KRxIvzNDLkxCAHvfwWxoVM/ampTfeOhzcm2EPSF7/yege8HiEY4LO98fbj/4fnaMyRMZ5G5ZnENTx7SLpyJOGeUkJ1bhWw==;aUoPlWwSOTrrx0cCgdeP4w=="

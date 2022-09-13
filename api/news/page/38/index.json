@@ -2,6 +2,169 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2022-08-10-new-texas-partnership-aims-to-define-ethics-in-artificial-intelligence.md",
+      "title": "New Texas partnership aims to define ethics in artificial intelligence",
+      "excerpt": "It seems like every day there are new headlines about what artificial intelligence can do. However, a new research partnership at the University of Texas at Austin is more interested how it works. The initiative between UT-Austin’s Good Systems program and the MITRE Corporation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.keranews.org/science-technology/2022-08-09/new-texas-partnership-aims-to-define-ethics-in-artificial-intelligence",
+      "originalUrl": "https://www.keranews.org/science-technology/2022-08-09/new-texas-partnership-aims-to-define-ethics-in-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/25496e8/2147483647/strip/true/crop/980x604+0+22/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F67%2F23%2F2ef3dfd6434497caf6c327fe908e%2Ftexas-capital-building.JPG",
+          "width": 880,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.keranews.org/science-technology/2022-08-09/new-texas-partnership-aims-to-define-ethics-in-artificial-intelligence?_amp=true",
+      "cdnAmpWebUrl": "https://www-keranews-org.cdn.ampproject.org/c/s/www.keranews.org/science-technology/2022-08-09/new-texas-partnership-aims-to-define-ethics-in-artificial-intelligence?_amp=true",
+      "publishedDateTime": "2022-08-09T13:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KERA News",
+        "domain": "keranews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-the-pandemic-revealed-technology-deficits-microsoft-azure-is-growing-to-fill-in-the-gaps.md",
+      "title": "The Pandemic Revealed Technology Deficits, Microsoft Azure is Growing to Fill in the Gaps",
+      "excerpt": "The recent pandemic revealed numerous shortcomings in relying on legacy on-premise applications and IT operations, strengthening arguments for a move to cloud computing across industries. With a greater number of employees transitioning to work remotely during the height of COVID-19,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/08/09/9653251.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/08/09/9653251.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-09T11:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-metas-new-ai-chatbot-cant-stop-bashing-facebook.md",
+      "title": "Meta’s new AI chatbot can’t stop bashing Facebook",
+      "excerpt": "‘Stop trying to be TikTok’: how video-centric Instagram sparked a revolt Launched on Friday, BlenderBot is a prototype of Meta’s conversational AI, which, according to Facebook’s parent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook",
+      "originalUrl": "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-09T11:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-deeply-disturbing-video-appears-to-show-a-tesla-in-full-self-driving-mode-repeatedly-running-over-a-child-sized-mannequin-in-controlled-test.md",
+      "title": "'Deeply disturbing' video appears to show a Tesla in full self-driving mode repeatedly running over a child-sized mannequin in 'controlled test conditions'",
+      "excerpt": "A spokesperson said this included the full self driving software and that the agency 'considers all relevant data and information that may assist its investigation'. Autopilot uses cameras ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-11095775/Tesla-self-driving-mode-appears-run-child-sized-mannequin-test-conditions.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-11095775/Tesla-self-driving-mode-appears-run-child-sized-mannequin-test-conditions.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2022/08/09/17/61222157-0-image-a-61_1660062334365.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-11095775/amp/Tesla-self-driving-mode-appears-run-child-sized-mannequin-test-conditions.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11095775/amp/Tesla-self-driving-mode-appears-run-child-sized-mannequin-test-conditions.html",
+      "publishedDateTime": "2022-08-09T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-the-chips-act-is-a-boon-for-american-innovation.md",
       "title": "The CHIPS Act Is A Boon For American Innovation",
       "excerpt": "The CHIPS Act marks a huge shift in US policy that will benefit the global supply chain — with the help of digital manufacturers.",
@@ -1011,171 +1174,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-asia-pacific-artificial-intelligence-in-fintech.md",
-      "title": "Asia Pacific Artificial Intelligence In Fintech...",
-      "excerpt": "The \"Asia Pacific Artificial Intelligence In Fintech Market Size, Share & Industry Trends Analysis Report By Component (Solutions and Services), By Deployment",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/08/g28411655/asia-pacific-artificial-intelligence-in-fintech-market-report-2022-featuring-key-players-ibm-oracl",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/08/g28411655/asia-pacific-artificial-intelligence-in-fintech-market-report-2022-featuring-key-players-ibm-oracl",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.giphy.com/media/EzXPrmT1OkFzSOZCYk/giphy.gif?cid=790b76117b7eac17bcda03db891dbf848ba5609ab58125f6&rid=giphy.gif&ct=g",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28411655",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28411655",
-      "publishedDateTime": "2022-08-09T02:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-3-ways-azure-speech-transforms-game-development-with-ai.md",
-      "title": "3 ways Azure Speech transforms game development with AI",
-      "excerpt": "With Azure Cognitive Services for Speech, customers can build voice-enabled apps confidently and quickly with the Speech SDK. We make it easy for customers to transcribe speech to text (STT) with high accuracy, produce natural-sounding text-to-speech (TTS) voices, and translate spoken audio.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/3-ways-azure-speech-transforms-game-development-with-ai/",
-      "originalUrl": "https://azure.microsoft.com/blog/3-ways-azure-speech-transforms-game-development-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T02:00:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-us-lawmakers-set-their-sights-on-reviving-self-driving-car-legislation.md",
-      "title": "US lawmakers set their sights on reviving self-driving car legislation",
-      "excerpt": "As self-driving technologies begin to hit the market, new laws need to be enacted to create order at a federal level. Now, self-driving vehicles are getting a boost from legislators in the House of Representatives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbtnews.com/us-lawmakers-set-their-sights-on-reviving-self-driving-car-legislation/",
-      "originalUrl": "https://www.cbtnews.com/us-lawmakers-set-their-sights-on-reviving-self-driving-car-legislation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T01:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cbtnews",
-        "domain": "cbtnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-global-ai-in-fintech-market-to-garner-6130-billion-by-2031-amazon-web-services-inc-cisco-systems-inc-complyadvantage.md",
-      "title": "Global AI in Fintech Market to Garner $61.30 Billion by 2031 | Amazon Web Services, Inc., Cisco Systems, Inc., ComplyAdvantage",
-      "excerpt": "Allied Market Research published a report, titled, “AI in Fintech Market by Component (Solution, Services), by Deployment Mode (On-premise, Cloud), by Application (Virtual Assistants (Chatbots ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/global-ai-in-fintech-market-to-garner-61-30-billion-by-2031-amazon-web-services-inc-cisco-systems-inc-complyadvantage",
-      "originalUrl": "https://www.digitaljournal.com/pr/global-ai-in-fintech-market-to-garner-61-30-billion-by-2031-amazon-web-services-inc-cisco-systems-inc-complyadvantage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://amarketplaceresearch.com/wp-content/uploads/2022/08/AI-in-Fintech-Market.png",
-          "width": 847,
-          "height": 516,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T01:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

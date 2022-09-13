@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-11-this-israeli-startup-will-help-with-port-traffic-jams-using-facial-recognition-of-ships.md",
+      "title": "This Israeli startup will help with port traffic jams using \"facial recognition\" of ships",
+      "excerpt": "The Israeli Conbo has developed a system that collects information from port cameras along with other known information to help the flow of traffic at ports",
+      "sourceUrl": null,
+      "webUrl": "https://www.geektime.com/conbo-ai-wants-to-help-docks-operate-in-a-better-way/",
+      "originalUrl": "https://www.geektime.com/conbo-ai-wants-to-help-docks-operate-in-a-better-way/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geektime.com/content/images/2022/09/Screen-Shot-2022-09-11-at-15.38.54.png",
+          "width": 1416,
+          "height": 858,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geektime.com/conbo-ai-wants-to-help-docks-operate-in-a-better-way/amp/",
+      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/conbo-ai-wants-to-help-docks-operate-in-a-better-way/amp/",
+      "publishedDateTime": "2022-09-11T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geektime",
+        "domain": "geektime.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-09-tips-to-improve-your-amazon-rekognition-custom-labels-model.md",
       "title": "Tips to improve your Amazon Rekognition Custom Labels model",
       "excerpt": "In this post, we discuss best practices to improve the performance of your computer vision models using Amazon Rekognition Custom Labels. Rekognition Custom Labels&nbsp;is a fully managed service to build custom computer vision models for image classification and object detection use cases. Rekognition",
@@ -1345,58 +1388,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-08-29T04:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-image-recognition-market-size-by-major-players-trends-key-regions-and-growth-forecast-to-2022-2031.md",
-      "title": "Image Recognition Market Size by Major Players, Trends, Key Regions and Growth Forecast to 2022-2031",
-      "excerpt": "\"Increasing use of image recognition applications is driving the Global Image Recognition Market \" The image recognition market is projected to grow from USD 15.95 billion in 2022 to USD 38.92 billion by 2031,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-market-size-by-major-players-trends-key-regions-and-growth-forecast-to-2022-2031-2022-08-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-market-size-by-major-players-trends-key-regions-and-growth-forecast-to-2022-2031-2022-08-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T01:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",

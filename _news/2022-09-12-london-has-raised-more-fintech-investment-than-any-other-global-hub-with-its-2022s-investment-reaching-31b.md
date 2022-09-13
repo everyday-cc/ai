@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "London Has Raised More Fintech Investment Than Any Other Global Hub, With Its 2022'S Investment Reaching $3.1B"
+    excerpt: "The U.K.'s fintech sector is unrivaled in Europe and is continuing to grow at an incredible rate. London is the natural home for many of these businesses due to the city's deep pool of talent, its global reputation,"
+    publishedDateTime: 2022-09-13T06:42:00Z
+    webUrl: "https://menafn.com/1104854098/London-Has-Raised-More-Fintech-Investment-Than-Any-Other-Global-Hub-With-Its-2022S-Investment-Reaching-31B"
+    type: article
+    provider:
+      name: MENAFN
+      domain: menafn.com
+    quality: 19
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?943357"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "FASVjlXVETGJj/WNtt1xgAC/j3fX8Fe6GSVM6HkcxZvmPCawvv3noov1HTlsk3rN20EUVfurennz7SallIBSDWjyU3irsyaXA5Z39ciEYePG3FiZqp+yULe3PkZNEESRApLqBqLZqAmpdfQq/4W6ck9QUCld+UBjR4CEE/v8fQNcZO/ukCzddN5KGKvoY73T2BfRs2OAw3dABm17c5qJp1CaQ4yHuLidaVxzrQJqmU1iVcgxQ3JRlh5KW/pOywj7Ufw2DRyGexMIa6iREcGBhGptBAEbXoJsWt8HF3Ogz/9m4xORaRAilPp1/uidlYTts2yS8ga0kYysv/L9sIXVs61QlFYc+Il2tDJmke1t+YA=;ljfDxE82VGjjzt1Z1t5K/A=="
 ---

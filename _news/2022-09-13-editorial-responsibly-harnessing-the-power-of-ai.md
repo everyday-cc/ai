@@ -20,16 +20,16 @@ topics:
 
 related:
   - title: "Editorial: Responsibly Harnessing the Power of AI"
-    excerpt: "The following is an opinion editorial by Lama Nachman, Despite AI’s many real-life benefits, Hollywood loves to tell alarming stories of AI taking on a mind of its own and menacing people. These science fiction scenarios can distract us from the very real but more banal ways in which poorly designed AI systems can harm people."
+    excerpt: "Despite AI’s many real-life benefits, Hollywood loves to tell alarming stories of AI taking on a mind of its own and menacing people. These science fiction scenarios can distract us from the very real but more banal ways in which poorly designed AI systems can harm people."
     publishedDateTime: 2022-09-12T16:02:00Z
-    webUrl: "https://www.eagletribune.com/region/editorial-responsibly-harnessing-the-power-of-ai/article_66286bb0-9b52-5161-a172-80ee63939ebd.html"
+    webUrl: "https://www.joplinglobe.com/region/national_business/editorial-responsibly-harnessing-the-power-of-ai/article_28e00bb2-6af9-5d1a-a14f-a1260da16233.html"
     type: article
     provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
+      name: Joplin Globe
+      domain: joplinglobe.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/1/4f/14f8ada0-e2a9-51d2-a247-07d96ba86536/631f58bae4fa9.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/7/c3/7c3bc9af-96a0-55c8-b048-679459666d4a/631f58edd1add.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

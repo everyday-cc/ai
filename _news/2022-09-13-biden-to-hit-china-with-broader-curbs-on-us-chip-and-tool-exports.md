@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxbusiness.com/technology/biden-hit-china-broader-curbs
 cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/biden-hit-china-broader-curbs-us-chip-tool-exports.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Fox Business
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "US Chip Curbs Will Highlight Cracks in China’s AI Strategy"
+    excerpt: "Tighter restrictions on US semiconductor and equipment sales are set to test China’s artificial intelligence superpowers as Washington removes a key plank of next-generation technological development."
+    publishedDateTime: 2022-09-13T04:45:00Z
+    webUrl: "https://english.aawsat.com/home/article/3870931/tim-culpan/us-chip-curbs-will-highlight-cracks-china’s-ai-strategy"
+    type: article
+    provider:
+      name: الشرق الأوسط
+      domain: aawsat.com
+    quality: 56
+    images:
+      - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2020/08/06/tim_culpan_headshotc.jpg?itok=-OQhTljp"
+        width: 346
+        height: 383
+        isCached: true
   - title: "US intends to broaden restrictions on semiconductor shipments to China for artificial intelligence and chipmaking tools - source"
     excerpt: "THE US INTENDS TO BROADEN RESTRICTIONS ON SEMICONDUCTOR SHIPMENTS TO CHINA FOR ARTIFICIAL INTELLIGENCE AND CHIPMAKING TOOLS - SOURCE."
     publishedDateTime: 2022-09-11T23:07:00Z

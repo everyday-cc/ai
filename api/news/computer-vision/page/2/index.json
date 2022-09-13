@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-29-image-recognition-market-size-by-major-players-trends-key-regions-and-growth-forecast-to-2022-2031.md",
+      "title": "Image Recognition Market Size by Major Players, Trends, Key Regions and Growth Forecast to 2022-2031",
+      "excerpt": "\"Increasing use of image recognition applications is driving the Global Image Recognition Market \" The image recognition market is projected to grow from USD 15.95 billion in 2022 to USD 38.92 billion by 2031,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-market-size-by-major-players-trends-key-regions-and-growth-forecast-to-2022-2031-2022-08-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-market-size-by-major-players-trends-key-regions-and-growth-forecast-to-2022-2031-2022-08-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T01:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-29-andhra-pradesh-police-to-use-facial-recognition-apps-to-identity-protesting-teachers.md",
       "title": "Andhra Pradesh police to use facial recognition apps to identity protesting teachers",
       "excerpt": "Highly placed sources in the Department said special teams equipped with facial recognition cameras and mobile apps will be deployed at all bus stations, railway stations, checkposts, across the State with special focus on entry routes,",
@@ -1348,49 +1400,6 @@
       "provider": {
         "name": "Business Standard",
         "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-digiyatra-hyderabad-international-airport-rolls-out-facial-recognition.md",
-      "title": "DigiYatra: Hyderabad International Airport rolls out facial recognition",
-      "excerpt": "DigiYatra will facilitate paperless travel and avoid multiple identity checks at the airport enabling seamless and hassle-free travel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/cities/hyderabad/2022/aug/17/digiyatra-hyderabad-international-airport-rolls-out-facial-recognition-2488337.html",
-      "originalUrl": "https://www.newindianexpress.com/cities/hyderabad/2022/aug/17/digiyatra-hyderabad-international-airport-rolls-out-facial-recognition-2488337.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/8/17/w600X390/Telangana_mask_covid-EPS.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/cities/hyderabad/2022/aug/17/digiyatra-hyderabad-international-airport-rolls-out-facial-recognition-2488337.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/hyderabad/2022/aug/17/digiyatra-hyderabad-international-airport-rolls-out-facial-recognition-2488337.amp",
-      "publishedDateTime": "2022-08-16T20:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
         "images": null,
         "publishers": null,
         "authors": null

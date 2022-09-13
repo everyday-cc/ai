@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/sponsored/story/the-startup-making-robotic-arm
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/sponsored/story/the-startup-making-robotic-arms-more-accessible/amp"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Why household robot servants are a lot harder to build than robotic vacuums and automated warehouse workers"
-    excerpt: "With recent advances in artificial intelligence and robotics technology, there is growing interest in developing and marketing household robots capable of handling a variety of domestic chores."
-    publishedDateTime: 2022-09-08T13:29:00Z
-    webUrl: "https://techxplore.com/news/2022-09-household-robot-servants-lot-harder.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 1
 
 secured: "qLQZ7VUK4ED+/3QvzncEYDnnbEZvDzBo2SncctoShNtml58R18z6zjxhSYM/9v3b7XjmE9UVtNPCiKHSgw5RxFprSN2FJdljliU7b057BBJmcaK6GddqHyzU8goxeH1DHh3sNTyKC8apDL0efiUevzA7xvNVux2xX5Y6/NyvTGSQlWJvzOSp7EAZhTAviFwTj3PMYLShWzDt2uXOOpB9oT61zpUrqX/tjoHTNGyHZZc5VaC+9uSXDhRtQjDNy0mQENVqMn9F9XklTEXLbKYe+zaDeCtK2nS1PZMYR91BJHEjqsPUMLXT9mqmeJgx3A0yg/rogfIXJM8BXOKTg2bGEgvVZgD8TJmhZrCmQUgCxXLjJl7+FCdeWV6lUL1+5PtVRWGeRfyM9AxlCgko5VxRwVnYRib6VU+2JPo1lhFruy/2pjaXVpF9CPaWA5yUtTE+o4GwWoYn4pGFRmcBDXVELoCfH3djitLGjRY5p31aMzF3DLkuIwv0ptNtDhtFjvMn8hj4dt0lKtZTW81zsHToIQ==;zlyrP+VPdAYDjfGEYU/Z/Q=="
 ---

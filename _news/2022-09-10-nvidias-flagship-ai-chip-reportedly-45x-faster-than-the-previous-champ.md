@@ -61,22 +61,6 @@ related:
         width: 1200
         height: 748
         isCached: true
-  - title: "NVIDIA Keeps The Performance Crown For AI Inference For The 6th Time In A Row"
-    excerpt: "Every three months we share our perspectives with you as the MLCommons consortium coordinates the publication of new AI benchmarks for inference and training. While NVIDIA lost the absolute performance crown during the last smack-down for training while awaiting the H100,"
-    publishedDateTime: 2022-09-08T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2022/09/08/nvidia-keeps-the-performance-crown-for-ai-inference-for-the-6th-time-in-a-row/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/09/08/nvidia-keeps-the-performance-crown-for-ai-inference-for-the-6th-time-in-a-row/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/09/08/nvidia-keeps-the-performance-crown-for-ai-inference-for-the-6th-time-in-a-row/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 88
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63190e4480b932572f213ebc/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 671
-        isCached: true
   - title: "Biden reportedly plans to block AI chipmaking exports to China"
     excerpt: "Semiconductors and AI are increasingly valuable for medical devices as smaller sensors and algorithms collect and crunch more data than ever."
     publishedDateTime: 2022-09-12T18:08:00Z

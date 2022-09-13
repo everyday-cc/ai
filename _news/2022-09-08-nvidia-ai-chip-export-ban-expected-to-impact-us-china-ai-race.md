@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/nvidia-ai-chip-export-ban-expected-to-imp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-ai-chip-export-ban-expected-to-impact-u-s-china-ai-race/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/01/NVIDIA.jpg?w=1200&strip=all"
         width: 1200
         height: 748
-        isCached: true
-  - title: "NVIDIA Keeps The Performance Crown For AI Inference For The 6th Time In A Row"
-    excerpt: "Every three months we share our perspectives with you as the MLCommons consortium coordinates the publication of new AI benchmarks for inference and training. While NVIDIA lost the absolute performance crown during the last smack-down for training while awaiting the H100,"
-    publishedDateTime: 2022-09-08T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2022/09/08/nvidia-keeps-the-performance-crown-for-ai-inference-for-the-6th-time-in-a-row/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/09/08/nvidia-keeps-the-performance-crown-for-ai-inference-for-the-6th-time-in-a-row/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/09/08/nvidia-keeps-the-performance-crown-for-ai-inference-for-the-6th-time-in-a-row/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 88
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63190e4480b932572f213ebc/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 671
         isCached: true
   - title: "Nvidia’s flagship AI chip reportedly 4.5x faster than the previous champ"
     excerpt: "Nvidia positions the H100 as a high-end data center GPU chip designed for AI and supercomputer applications such as image recognition, large language models, image synthesis, and"

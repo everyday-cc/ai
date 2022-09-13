@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-05-19-ucsf-study-combines-ai-chest-radiographs-to-map-out-health-concerns-expenses.md",
+      "title": "UCSF Study Combines AI, Chest Radiographs to Map Out Health Concerns, Expenses",
+      "excerpt": "Researchers using deep learning tools to analyze chest radiographs found that they could predict patient costs at one, three and five years and identify high-risk patients, enabling health ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthleadersmedia.com/technology/ucsf-study-combines-ai-chest-radiographs-map-out-health-concerns-expenses",
+      "originalUrl": "https://www.healthleadersmedia.com/technology/ucsf-study-combines-ai-chest-radiographs-map-out-health-concerns-expenses",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.healthleadersmedia.com/sites/hlmp/files/files/shutterstock_407506846.jpg",
+          "width": 2732,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HealthLeaders Media",
+        "domain": "healthleadersmedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-19-what-exactly-is-artificial-intelligence.md",
       "title": "What Exactly Is Artificial Intelligence?",
       "excerpt": "On the other hand, Machine Learning (ML) is a subset of artificial intelligence. ML uses different computer algorithms such as neural networks to enable the computer to automatically learn and improve from experience without being explicitly programmed.",
