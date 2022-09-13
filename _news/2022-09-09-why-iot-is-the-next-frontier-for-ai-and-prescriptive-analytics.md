@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/09/why-iot-is
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/09/why-iot-is-the-next-frontier-for-ai-and-prescriptive-analytics/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://www.cio.com/wp-content/uploads/2022/09/maya-leibman-full-res-new.jpg?quality=50&strip=all&w=1024"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Oracle offers its MySQL HeatWave database and analytics on Amazon’s cloud"
-    excerpt: "Oracle Corp has started to offer MySQL HeatWave, its cloud database service for transactions, analytics and machine learning, on Amazon's AWS cloud, allowing customers whose data is already parked there to use the service,"
-    publishedDateTime: 2022-09-12T23:01:00Z
-    webUrl: "https://www.reuters.com/technology/oracle-offers-its-mysql-heatwave-database-analytics-amazons-cloud-2022-09-12/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 53
-    images:
-      - url: "https://www.reuters.com/resizer/auU-eGYlMXaI82GhWXiVQXOg6iA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C3KTSLO2ZRNVLMJPKCCNHB4N44.jpg"
-        width: 1200
-        height: 628
         isCached: true
 
 secured: "jKRloAZItc3AV4HxwJiE+vx9onrtyJECw6bwYkuoC9Oy7jzFK+1tWFHz6FkJ5y8DvfdQTGSTNfjehtb5tFRyTTcPnWfeWPqFtfeLukX7T7sr9wF9g02uxJ74jJnVsL7vaZlOuwYfes9vPCMUwc3YfvB4sf3NDIDqj+8H0XX4atpwYysxvy6JDs4Z4LIpMWtheeX1Y7sBQIcymri9uatuKvA7QqFUkgF4I8beZverhNL17wVzfqQKKroF9gwx1wXOZwLXdOvzYCPLDaSNlDsmou4uKOCqXWG33UiRvFYyF/qnuTRjLo7RjG0W9CTjXfCWYKHDv96NKcqHgYa89jLPF1t01wTP+P2xokIcblpzsrkXgDGrUp5ZayU/8NteHLPirKLCAz1K6iVEWwjEDQYDxAYLyTCj1d4JP+9KuSePrObufsHeKrI2MqKH2Ykinhxm0pxPiBokIVUaHzI2TQqVqiaa9Z6/qqnqFk7btzcT60krxcCEFo6y8fW4sCoEPY4GltJNIBgMVQ/2DpO4gP+aqw==;GNV5TfIi4r1v4i2cmxr2jg=="

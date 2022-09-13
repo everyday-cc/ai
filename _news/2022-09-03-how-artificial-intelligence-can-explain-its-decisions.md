@@ -1,7 +1,7 @@
 ---
 category: news
 title: "How artificial intelligence can explain its decisions"
-excerpt: "for example to be able to distinguish between certain therapy-relevant tumour subtypes,\" concludes Axel Mosig. Ruhr-University Bochum. \"How artificial intelligence can explain its decisions.\""
+excerpt: "And that does not inspire trust. Researchers are therefore pursuing a new approach. Artificial intelligence (AI) can be trained to recognise whether a tissue image contains a tumour. However ..."
 publishedDateTime: 2022-09-02T18:18:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2022/09/220902103300.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/09/220902103300.htm"
@@ -16,9 +16,10 @@ provider:
       height: 50
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
+  - AI in Healthcare
 
-secured: "JqQm55mVvkYzhHPAol+5PFSZQfDgcbzrVOtPc2GuvCRwA8NE6peDpJOO8VX/0oRKlS5jt6bd2dBsWqc5y1EkBZg+d5HYyT0z6zjV1GLbS91qSnJH57DwB8y68FT/ePLf9qJu9NC81SPgDYDCDqzppHxjfdaxR2W5pW/lJNGXZXB2EfIM6kIW33E0roL8wUGJBIn1s6l14qDbfTn9sUE95m86XSI1px48VFEyPv2PfwhyXVDNEJ0KvMrpUitMNiD2QLU17E9I15C0Y4MHpK7tkgbnI7rg5OAnsn2/t5P9nise4A3YWl/g8/OnRiydSlGzuX3DzDDYRKIeDj7huQKiL11AHdcrR4Wf97qPKKjREhU=;vX8jOC3A7lnDLh0qY0cNcg=="
+secured: "GRSBh80w7/DqtvkCukG/d6T90QKwaLqtVJhqVeH3qbDEjTGV95u3oZpyF0i58Pyz7QXn6HdcGLrBhdA7zp8z9XwhuQY6JRehG7UQe3u8pBgY2f4Ix3ejkGpbBJWZGRVHablLrYtt8htpPU7kwIOYf8vx6r1x6dYhhg4v4KlA2y5vrAUpKgbr+D5eEx2GhYXiaFofrZcttFM7JVv/L2UJ+INEs880+tSzr+qINCqR7rJheY65yGILy9fr1aB7PLi4H/6jjl5uhWZ7unh5jBmYZn9AHCzkuj+jlioWhJ+EDpIHzn+GqtY3apKVroeFwNshGRZDSTUUQP99O30mvz/reg/KlUI4KLApAgjQqtAU2BY=;oDZ3+P3P5xWreGgVoH0okA=="
 ---
 

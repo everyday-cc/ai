@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-13T18:07:00Z
 originalUrl: "https://venturebeat.com/ai/what-the-eu-ai-act-means-for-the-insurance-industry/"
 webUrl: "https://venturebeat.com/ai/what-the-eu-ai-act-means-for-the-insurance-industry/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

@@ -20,6 +20,7 @@ topics:
   - AI
   - AWS AI
   - AI in Autos
+  - Natural Language Processing
 
 images:
   - url: "https://www.popsci.com/uploads/2022/09/01/ken-chan-7fwFqfMb5cU-unsplash-scaled.jpg?auto=webp"

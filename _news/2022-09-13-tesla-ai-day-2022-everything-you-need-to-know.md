@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2022/09/13/tesla-ai-day-2022-everyt
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/09/13/tesla-ai-day-2022-everything-you-need-to-know/amp/"
 type: article
 quality: 106
-heat: 107
+heat: 106
 published: true
 
 provider:

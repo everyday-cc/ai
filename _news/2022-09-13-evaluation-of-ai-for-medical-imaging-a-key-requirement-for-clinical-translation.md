@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-13T16:13:00Z
 originalUrl: "https://medicalxpress.com/news/2022-09-ai-medical-imaging-key-requirement.html"
 webUrl: "https://medicalxpress.com/news/2022-09-ai-medical-imaging-key-requirement.html"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Medical Xpress

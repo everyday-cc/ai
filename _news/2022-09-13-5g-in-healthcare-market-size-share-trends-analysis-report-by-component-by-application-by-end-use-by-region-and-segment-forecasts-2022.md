@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/28852772"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28852772"
 type: article
 quality: 1
-heat: 1
+heat: -1
 published: false
 
 provider:
@@ -21,19 +21,28 @@ topics:
   - AI
 
 related:
-  - title: "Speech Recognition Engine Industry 2022 Market Challenges, Business Overview and Forecast Research Study 2028"
-    excerpt: "In the Speech Recognition Engine study report, the market for the pertinent time period is in-depth analyzed. In-depth competitor analysis is a component of Speech Recognition Engine market research,"
+  - title: "Speech Recognition Market 2022 Industry Challenges, Business Overview and Forecast Research Study 2028"
+    excerpt: "In the Speech Recognition study report, the market for the pertinent time period is in-depth analyzed. In-depth competitor analysis is a component of Speech Recognition market research, as are investigations into the background,"
+    publishedDateTime: 2022-09-09T16:55:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-9-9-speech-recognition-market-2022-industry-challenges-business-overview-and-forecast-research-study-2028"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 3
+  - title: "Asia Pacific Healthcare Fraud Analytics Market to Grow at a Significant CAGR of 23.7% Through 2028 - ResearchAndMarkets.com"
+    excerpt: "The Asia Pacific Healthcare Fraud Analytics Market is expected to witness market growth of 23.7% CAGR during the forecast period (2022-2028). Before alerts are sent to analysts, clinicians, or investigators,"
     publishedDateTime: 2022-09-09T16:54:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-9-9-speech-recognition-engine-industry-2022-market-challenges-business-overview-and-forecast-research-study-2028"
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-9-asia-pacific-healthcare-fraud-analytics-market-to-grow-at-a-significant-cagr-of-237-through-2028-researchandmarketscom"
     type: article
     provider:
       name: Daily Herald
       domain: dailyherald.com
     quality: 0
-  - title: "Insights on the Military Robots Global Market to 2027 - by Platform, Application, Mode of Operation and Region - ResearchAndMarkets.com"
-    excerpt: "The global military robots market size reached US$ 15.4 Billion in 2021. Looking forward, the publisher expects the market to reach US$ 29.7 Billion by 2027, exhibiting a CAGR of 11.57% during 2021-2027."
-    publishedDateTime: 2022-09-13T12:45:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-13-insights-on-the-military-robots-global-market-to-2027-by-platform-application-mode-of-operation-and-region-researchandmarketscom"
+  - title: "Speech Recognition Engine Industry 2022 Market Challenges, Business Overview and Forecast Research Study 2028"
+    excerpt: "In the Speech Recognition Engine study report, the market for the pertinent time period is in-depth analyzed. In-depth competitor analysis is a component of Speech Recognition Engine market research,"
+    publishedDateTime: 2022-09-09T16:54:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-9-9-speech-recognition-engine-industry-2022-market-challenges-business-overview-and-forecast-research-study-2028"
     type: article
     provider:
       name: Daily Herald

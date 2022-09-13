@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/tips-to-improve-your
 webUrl: "https://aws.amazon.com/blogs/machine-learning/tips-to-improve-your-amazon-rekognition-custom-labels-model/"
 type: article
 quality: 106
-heat: 106
+heat: 109
 published: true
 
 provider:

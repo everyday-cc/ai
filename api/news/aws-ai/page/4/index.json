@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-01-iron-mountain-insight-saas-platform-expands-capabilities-on-aws.md",
+      "title": "Iron Mountain InSight® SaaS Platform Expands Capabilities On AWS",
+      "excerpt": "Iron Mountain announced that its content services platform, Iron Mountain InSight (InSight), is now available to customers as a",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/news/iron-mountain-insight-saas-platform-expands-capabilities-on-aws/",
+      "originalUrl": "https://enterprisetalk.com/news/iron-mountain-insight-saas-platform-expands-capabilities-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/07/Iron-Mountain-InSight®-SaaS-Platform-Expands-Capabilities-On-AWS.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/news/iron-mountain-insight-saas-platform-expands-capabilities-on-aws/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/iron-mountain-insight-saas-platform-expands-capabilities-on-aws/amp/",
+      "publishedDateTime": "2022-07-31T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-add-conversational-ai-to-any-contact-center-with-amazon-lex-and-the-amazon-chime-sdk.md",
+      "title": "Add conversational AI to any contact center with Amazon Lex and the Amazon Chime SDK",
+      "excerpt": "Customer satisfaction is a potent metric that directly influences the profitability of an organization. With rapid technological advances in the past decade or so, it’s even more important to elevate customer focus in the following ways: Making your organization accessible to your customers across multiple",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/add-conversational-ai-to-any-contact-center-with-amazon-lex-and-the-amazon-chime-sdk/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/add-conversational-ai-to-any-contact-center-with-amazon-lex-and-the-amazon-chime-sdk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/29/lex-chime-sdk.jpg",
+          "width": 1326,
+          "height": 660,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-29T15:11:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-29-identify-the-location-of-anomalies-using-amazon-lookout-for-vision-at-the-edge-without-using-a-gpu.md",
       "title": "Identify the location of anomalies using Amazon Lookout for Vision at the edge without using a GPU",
       "excerpt": "Automated defect detection using computer vision helps improve quality and lower the cost of inspection. Defect detection involves identifying the presence of a defect, classifying types of defects, and identifying where the defects are located. Many manufacturing processes require detection at a low",
@@ -1258,75 +1353,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-artificial-intelligence-for-accounting-market-analysis-research-study-with-microsoft-aws-xero.md",
-      "title": "Artificial Intelligence for Accounting Market Analysis, Research Study With Microsoft, AWS, Xero",
-      "excerpt": "This Artificial Intelligence for Accounting market research ... Some of the Top companies Influencing this Market include:Microsoft, AWS, Xero, Intuit, Sage, OSP, UiPath, Kore.ai, AppZen, YayPay ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-for-accounting-market-analysis-research-study-with-microsoft-aws-xero",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-for-accounting-market-analysis-research-study-with-microsoft-aws-xero",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T05:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-riot-games-taps-aws-for-new-cloud-based-esports-content.md",
-      "title": "Riot Games taps AWS for new cloud-based esports content",
-      "excerpt": "New broadcast stats, power rankings and challenges will be delivered through the partnership between Riot Games and AWS.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sportspromedia.com/news/riot-games-aws-amazon-web-services-esports-broadcast-content-lol-valorant-wild-rift/?blocktaxonomy=broadcast-ott",
-      "originalUrl": "https://www.sportspromedia.com/news/riot-games-aws-amazon-web-services-esports-broadcast-content-lol-valorant-wild-rift/?blocktaxonomy=broadcast-ott",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SportsPro",
-        "domain": "sportspromedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

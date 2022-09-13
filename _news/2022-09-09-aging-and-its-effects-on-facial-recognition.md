@@ -25,37 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "This Israeli startup will help with port traffic jams using \"facial recognition\" of ships"
-    excerpt: "The Israeli Conbo has developed a system that collects information from port cameras along with other known information to help the flow of traffic at ports"
-    publishedDateTime: 2022-09-11T15:00:00Z
-    webUrl: "https://www.geektime.com/conbo-ai-wants-to-help-docks-operate-in-a-better-way/"
-    ampWebUrl: "https://www.geektime.com/conbo-ai-wants-to-help-docks-operate-in-a-better-way/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/conbo-ai-wants-to-help-docks-operate-in-a-better-way/amp/"
+  - title: "University of Maryland Prof Urges Pause on Facial Recognition"
+    excerpt: "Lauren Rhue, an assistant professor of information systems at the University of Maryland, says human intervention is necessary to mitigate bias in technologies from Amazon Rekognition, Face++ and Microsoft."
+    publishedDateTime: 2022-09-13T19:48:00Z
+    webUrl: "https://www.govtech.com/education/higher-ed/university-of-maryland-prof-urges-pause-on-facial-recognition"
+    ampWebUrl: "https://www.govtech.com/education/higher-ed/university-of-maryland-prof-urges-pause-on-facial-recognition?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/university-of-maryland-prof-urges-pause-on-facial-recognition?_amp=true"
     type: article
     provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 50
+      name: Government Technology
+      domain: govtech.com
+    quality: 61
     images:
-      - url: "https://www.geektime.com/content/images/2022/09/Screen-Shot-2022-09-11-at-15.38.54.png"
-        width: 1416
-        height: 858
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/fbebee5/2147483647/strip/true/crop/2100x1095+0+6/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F19%2F60%2F04d269dc468bba43ff8fcf021bc0%2Flauren-rhue.jpg"
+        width: 840
+        height: 438
         isCached: true
-  - title: "This Israeli startup will help with port traffic jams using \"facial recognition\" of trucks"
-    excerpt: "The Israeli Conbo has developed a system that collects information from port cameras along with other known information to help the flow of traffic at ports"
-    publishedDateTime: 2022-09-13T04:49:00Z
-    webUrl: "https://www.geektime.com/conbo-ai-wants-to-help-docks-operate-in-a-better-way/"
-    ampWebUrl: "https://www.geektime.com/conbo-ai-wants-to-help-docks-operate-in-a-better-way/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/conbo-ai-wants-to-help-docks-operate-in-a-better-way/amp/"
+  - title: "A University of Maryland professor wants to expose the hidden bias in AI, and then use it for good"
+    excerpt: "Lauren Rhue researches the fast-paced world of artificial intelligence and machine learning technology. But she wants everyone in it to slow down."
+    publishedDateTime: 2022-09-13T09:00:00Z
+    webUrl: "https://www.baltimoresun.com/features/newsmaker/bs-fe-newsmaker-professor-facial-recognition-20220913-yvrvsnb2kngu3b4rza7k6qaugy-story.html"
     type: article
     provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 49
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 25
     images:
-      - url: "https://www.geektime.com/content/images/2022/09/Screen-Shot-2022-09-11-at-15.38.54.png"
-        width: 1416
-        height: 858
+      - url: "https://www.baltimoresun.com/resizer//VDWyxdT2eZg5cSG8sFpSFc-hXEQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/U7TO26NTY5CEZJANEIRMTJZEYQ.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "qg6/oSA6UxXkfRCOKoeUJMO5dK9OncuhLDNj+0D4Te9puf6bH+d7x8TcDSH3+P7dTqjy+QoNVS4zLU7taVO2HrZ/woMpUih6BGfIGXqT3vG0386DvHTkFhS3EWUQ5OUa5tXLczN4Jb5HkQcHF1DYBQNCgA1Jy/saZnsKbFUbkLQsy39WGmbR2sDm92mGyl07juL57GTVIH0rWbhUkskIqDwKWkY2aBhJRl+DNmDbHIc0AhVlb8sKrMRffweFIReQdbHHopysv3YfXq8Fy6FKyPtvbPau90XxfYJorEBmEb+dml6Rvabtbiyn7ZNjn8czOqBz8vqqduw4q4eO9MovwdI6y+t5yzmNCQSTsuIFDmuSAfjkf8FtkGx+R9snGl+Leuqnf4xx/gnfqaxzamEKO6Hp46aBreo5ccl56vpoc8CKMMxOpbg+XRZPFdockvROuVALPSHIwRiDg8V/qPNEJXL6pa3BHqYI3jYRMnEcQp22x/bVuQC5fBQi9zxDZSmUEurOo3QhWmLuxkQ+ucg9zQ==;IrYRpVH95oWBL0oMygfqXA=="

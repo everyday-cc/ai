@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-13T18:40:00Z
 originalUrl: "https://hothardware.com/news/nvidia-ad102-ada-lovelace-gpu-allegedly-packs-75b-transistors"
 webUrl: "https://hothardware.com/news/nvidia-ad102-ada-lovelace-gpu-allegedly-packs-75b-transistors"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: hothardware.com

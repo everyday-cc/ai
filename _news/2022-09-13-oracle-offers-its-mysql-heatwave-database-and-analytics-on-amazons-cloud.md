@@ -29,38 +29,45 @@ images:
     isCached: true
 
 related:
-  - title: "Why IoT Is The Next Frontier For AI And Prescriptive Analytics"
-    excerpt: "Guy, a recognized industry thought leader, is the president of SmartSense, IoT solutions for the enterprise. In recent years, artificial intelligence (AI) and prescriptive analytics have been woven into the fabric of business operations across multiple verticals,"
-    publishedDateTime: 2022-09-09T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/09/why-iot-is-the-next-frontier-for-ai-and-prescriptive-analytics/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/09/why-iot-is-the-next-frontier-for-ai-and-prescriptive-analytics/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/09/why-iot-is-the-next-frontier-for-ai-and-prescriptive-analytics/amp/"
+  - title: "Oracle MySQL HeatWave comes to AWS"
+    excerpt: "Oracle’s MySQL database service supporting mixed analytical, transaction processing, and machine learning workloads is now available on Amazon Web Services."
+    publishedDateTime: 2022-09-13T19:24:00Z
+    webUrl: "https://www.infoworld.com/article/3673372/oracle-mysql-heatwave-comes-to-aws.html"
+    ampWebUrl: "https://www.infoworld.com/article/3673372/oracle-mysql-heatwave-comes-to-aws.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3673372/oracle-mysql-heatwave-comes-to-aws.amp.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 91
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f8ef32c53de1add7201f44a/0x0.jpg?format=jpg&width=1200"
+      - url: "https://images.idgesg.net/images/article/2018/11/apples_oranges_slices_mixture_puzzle_balance_opposites_fruit__savatore-gersace_flickr-100779885-large.jpg?auto=webp&quality=85,70"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "American Airlines takes flight with analytics transformation"
-    excerpt: "The world’s largest airlines has turned to the cloud, leveraging AI, machine learning, and real-time analytics to minimize disruptions, streamline operations, and improve the travel experience."
-    publishedDateTime: 2022-09-09T10:00:00Z
-    webUrl: "https://www.cio.com/article/406357/american-airlines-takes-flight-with-analytics-transformation.html"
-    ampWebUrl: "https://www.cio.com/article/406357/american-airlines-takes-flight-with-analytics-transformation.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/406357/american-airlines-takes-flight-with-analytics-transformation.html/amp/"
+  - title: "Oracle Announces MySQL HeatWave on AWS"
+    excerpt: "Oracle has announced that MySQL HeatWave is available on Amazon Web Services (AWS). MySQL HeatWave is the only service that combines OLTP, analytics, machine learning, and machine learning-based automation within a single MySQL database."
+    publishedDateTime: 2022-09-13T13:50:00Z
+    webUrl: "https://www.itnewsafrica.com/2022/09/oracle-announces-mysql-heatwave-on-aws/"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 59
+      name: IT News Africa
+      domain: itnewsafrica.com
+    quality: 41
     images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/09/maya-leibman-full-res-new.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 683
+      - url: "https://www.itnewsafrica.com/wp-content/uploads/2022/05/Oracle-Building-696x452.jpg"
+        width: 696
+        height: 452
         isCached: true
+  - title: "Oracle Announces MySQL HeatWave on AWS"
+    excerpt: "Oracle has announced that MySQL HeatWave is available on Amazon Web Services (AWS). MySQL HeatWave is the only service"
+    publishedDateTime: 2022-09-13T18:15:00Z
+    webUrl: "https://www.datanami.com/this-just-in/oracle-announces-mysql-heatwave-on-aws/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 21
 
 secured: "b0yvZNQH6KqUUD05cSp695kI3Mvb/gwPhEu56XkcM/OS9v+bow6gT725daLqsbm1tGRoDp+a2sTiPLdCzi4RS0mTWEIZGLJuLKbPC3K1NajrNGDG0Cd8a9iCkUuk/c7XE2vjMBBM42CWw1kCvfa8SmIoUF3c4Rxik7i/+1mLNkusNKPlJCRK2NGgvVC7qzVge1oeQkxwLuK+zPufz5hoRrtlPY72dm2OCrtP2hjqb3JPmwPJHaLVEAsgHcn/CycD7nWOYvQZURLdbnAn/CXRHFfMt2HWO2hQEc2kNZGzILA2vkozY2DfiMe4d3oWo8ncAncdxTHPnJkfMObHpT0Jb1filO/x6t2IzRnzAt8SR1o=;BDzJHMqukAjmSvpRLX5XRQ=="
 ---

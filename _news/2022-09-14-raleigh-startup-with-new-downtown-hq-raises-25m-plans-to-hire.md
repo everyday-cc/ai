@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-13T19:04:00Z
 originalUrl: "https://www.bizjournals.com/triangle/news/2022/09/13/raleigh-startup-diveplane-raise-new-headquarters.html"
 webUrl: "https://www.bizjournals.com/triangle/news/2022/09/13/raleigh-startup-diveplane-raise-new-headquarters.html"
 type: article
+quality: 17
+heat: -1
+published: false
 
 provider:
   name: The Business Journals
@@ -13,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Raleigh AI startup ready for growth after $25M raise"
+    excerpt: "The company is planning to double its workforce."
+    publishedDateTime: 2022-09-12T10:20:00Z
+    webUrl: "https://www.axios.com/local/raleigh/2022/09/12/raleigh-artificial-intelligence-startup-raises-25-million"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 37
+    images:
+      - url: "https://images.axios.com/3J-OSPX-diTHD-WXA4E8tYXbHjI=/0x0:1920x1080/1366x768/2022/09/11/1662919784570.jpg"
+        width: 1366
+        height: 768
+        isCached: true
 
 secured: "76fTm+/4kqeFSZdJqnAT/24WH0kEDAYDdrz+Rr8iCwxWnhC3I8KlsxGUb6IYFSRsK2RiF7VjMi9CKZ1/2QNTYoyJdl8xCFTb5MGHCR1gaNMJN2JkscZO49E2OqhZrulSuv0WDcYlFNrlC/zvq3IrrXHwbPAJhDI1E6wN/cqUSMctorb9imLem4DWihFt9CT7PLiaKdF5pII7CvOzyp1KTUlIbuuqgcvGgGkZhh9KlOR4144oOd3wZdnpxugL25+oCTHTjp2WIo7sljeApSCfVAS7oWLcSS1z18t7pSMw0jINdukdxYfFGEo8U9IsOaNIr+ObKcM8nOsRKeDIdOsMorP/uAUZXQ1HlUvBHKTxuehvsThdmGjrd5QvoCFe7uOyuq/TCguxM6VpV/5Bjv+h+Xr0MzGSaooaJsYZZi6hnlfYfROmzHLStmXhRMLPgS0pf6qTEZo1Rr3QsREca87nDmGHYnWWV1vpYKIKrQaxox9UgtWeoC3sYln3iq22h2EUElDjMV9zGrKcB96C4UQZpw==;CwrSp6eC9sRQmk8xY5ggeQ=="
 ---

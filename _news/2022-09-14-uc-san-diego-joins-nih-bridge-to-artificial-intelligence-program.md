@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-13T18:43:00Z
 originalUrl: "https://www.eurekalert.org/news-releases/964578"
 webUrl: "https://www.eurekalert.org/news-releases/964578"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: EurekAlert!
@@ -14,7 +17,14 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - AI in Healthcare
 
-secured: "UvTxEBuBvQpKjnfMbS51syEapDYUgpoxu0niNb7/uYCL6jc74q7+Bc1zV4uUYhA07d2TuF1mG2AqgmgOKgyZFZU07dbAZERGsgXJqwChQif7i8+CZfB9lY8W/ii/G9ZzP/64PCpAfQfLI3el/eZF/Bt/BglYKIk19NSTrx5WVOU2Tm0i1I/ZOaphRDHBMx79hP6hmCzoKrocL95lBlciWI5Q5y1ZIgH59VLQX4ZARhhhCpygsylHHkDdEnqEMRQ6H8CO5LMWtBd+/TpQgokeJ+WIoOO1qc9aehI7EpSB+FvyKnEWQTpJEFkuqvFWPd+roK0wFSdEQbESGSVwooC4tHWL6pNOoCPzLHYSFoQNAauMXxc0i82oDI39iF97+RnhhW5tCKkLMedMNYh453kdXv+BY5BQnZaGVYncx6syKdc/Ja1sx11ZA//nSEiHoRBWK4d+NQFuh0mEgFHfnwWt4awP6r0Ia8IfuziXow8NmUvcwZkR0cjUIQo3dErttXX8mtToXIMmb08dg/7NOPhkbw==;PTXW2yvWitNdoGOyaFUFoQ=="
+images:
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/1f53bc68-e64d-4d07-906d-63acda51f601/Rendition/low-res/Content/Public"
+    width: 700
+    height: 406
+    isCached: true
+
+secured: "774DQ4yYw6rFQXO9V5Dyun9IXxCDDMg5wKNqCkGlYXF9D9mGwQKCR+kGd5AL1P3yCesDhWJfJf163u4rtR+ALgeiRQx94QnHOZChgfC04+9BGt9vYRcMUe7Q9QrIyEkARF/DpslIyIewTAFPFzRSN37bvIYDEF4a9uBQdEsg5p3pqp6p6gdBWf6N21OkSXEj1QtNkeWaY81GRypb2Pc2OcxfOMspxN3brxsAtUo90YI9n1mbUQn2vPuI/+kTf0kcc6M8lpaHdkYzYz2BI/mfuj/fEoQIR6L+Wx6iSZ+CrKIgK8i4IyzOTEnIsoKh19AoIPk5gQr6GOMEfTH5BYhTx4GB9HLotyKDg+5x0Fq75Ek=;WvcziA6xjO8F1+UhFm4eaw=="
 ---
 

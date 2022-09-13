@@ -5,7 +5,12 @@ excerpt: "This new chip design tool seed program for startups could help acceler
 publishedDateTime: 2022-09-13T19:45:00Z
 originalUrl: "https://www.forbes.com/sites/davealtavilla/2022/09/13/synopsys-to-seed-startup-innovation-with-ai-powered-chip-design-tools-in-the-cloud/"
 webUrl: "https://www.forbes.com/sites/davealtavilla/2022/09/13/synopsys-to-seed-startup-innovation-with-ai-powered-chip-design-tools-in-the-cloud/"
+ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2022/09/13/synopsys-to-seed-startup-innovation-with-ai-powered-chip-design-tools-in-the-cloud/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/09/13/synopsys-to-seed-startup-innovation-with-ai-powered-chip-design-tools-in-the-cloud/amp/"
 type: article
+quality: 100
+heat: 100
+published: true
 
 provider:
   name: Forbes
@@ -18,7 +23,14 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - Microsoft AI
 
-secured: "oQibyvzKkJi9Sa5P9jGzUo98xOCK79nol22W9aT6PGFvqvujxPGn0qB00jVBHBPxpm5sQSjX0zA5cP/7L6r9ARx2MyRdgiSzeLlOKbzvlJrS0oRGJ/dckoEbRDiafiY1BCyKFzs2N1fydvaPMfUcoujluma8wH9blv12VpOp8gX41b7Y1h5FDKEh2txhL3t6RfI3EDKOB0ijv9Ue68k1ML2T2wFEOcFOjoqhj0i1FY2DQ4yQxjdJoQ4s1BCDFOx5WO7hJDbKG19XGIqTg5iNQyGmzZaSKBb1MnUp5QqeCl77yIr885OH7mOkCRcXDCFqLuGGdLDkDTw5UEj159/RIRK+HCu+vDIvxtdKVSNHZduiTRoADUHwHRRlVSYlR3lgOOdQOlVrqAdWFYzqRPEDYLWDLBy7EksSoThlfM2hzHVtfQbblCgYj6e7aO8MPAzq72lErFyshKK4V/S24S8eP1vF7UCO2AisAoVvkpaeunvWI9MDI9z8fkNlg1afQO++SrkHkzySR2PO/kyxxiut2g==;gYijm8Mszkk4dowWynaVXw=="
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/6320d84574a794428be9950b/0x0.jpg?format=jpg&width=1200"
+    width: 1024
+    height: 531
+    isCached: true
+
+secured: "jjmpeUaMOz5B8yOtF4qIveAjT/Q6ZYGVx/of2HZKu6YjNfBVo8mlvYSaCUadsT0+ERa2qPrww+L/q4PBOkUi0rRZasCjcP/T0a30SPY1HcrNQjY9ZcjyaGSP6hXWKft1P8+sVXNxWnRXPuhx2VzPVxdnSU1ClAJNTz9w3E08MNcbNRk5gOOrZ+3D0wYS0Oi/8dlqNICLk9didMHPtred8mxpe5LWOc1chh76InsOz6jEyVTKZGbdHrZ7K6zkMjcJE2Gh1uPaxiZ6VH+VNMgT3BQ2cWk9YSfD4Z/DvvuNDwxr9LnrKUTe70VS0m0GVu/LlljnRms2c9pue0ASPEA+n1k9Ixp0U/2uIPj6haBVX80=;AO+4vm9xEXRppVVL2C2LrQ=="
 ---
 

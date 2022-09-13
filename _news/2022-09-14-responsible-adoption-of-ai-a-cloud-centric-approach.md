@@ -5,7 +5,12 @@ excerpt: "From cloud chaos to clarity.” An Infosys study with University Colle
 publishedDateTime: 2022-09-13T19:46:00Z
 originalUrl: "https://www.technologyreview.com/2022/09/13/1059395/responsible-adoption-of-ai-a-cloud-centric-approach/"
 webUrl: "https://www.technologyreview.com/2022/09/13/1059395/responsible-adoption-of-ai-a-cloud-centric-approach/"
+ampWebUrl: "https://www.technologyreview.com/2022/09/13/1059395/responsible-adoption-of-ai-a-cloud-centric-approach/amp/"
+cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/09/13/1059395/responsible-adoption-of-ai-a-cloud-centric-approach/amp/"
 type: article
+quality: 61
+heat: 61
+published: false
 
 provider:
   name: MIT Technology Review
@@ -13,7 +18,15 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
+  - Facebook AI
 
-secured: "rEtegyUKyml6KB9glhY9vWEzTSFvmoDIfaNaAUpSXu7NQbK0q1dfXAZviHr21nNGee/BcTmuNa+FlU2GjmKmjy6jT48tdebPFgaJ0oChVPFme22n4hPgri9Myutp25224a05VOHYMndEk2+HJS3b6+H78U/xgsKPj1bSU2se8S8W1dMXsY/IEM5ajNzHJydXxCuoFq1B7MyFAADxMesgkHOOaay5n/TfT+oLc29WvEI8OByxYXypuVLTLYCddBe94ctGJpIy2K0kgF0cnq3R3SzPYLzkJM7VY5CbtFLWcgqEIvnGB+WTOhxO01qII+At2s2Nzu7fGy2FCiMqFv+dq73ATsDzMQTpH8QJ0OVAzYF8ilxzaOxpw3t85fUP9tZLdmdnQ16lMDAzLq++ZkCFaOnzEL3tc0sDRgCeDu7Y9bz5v8VU+yB0drLaiRvxL6enViFKJIfWWzUnHfa3t+9lqus/YezJypBnZ6ChaZ8ZT1jbIecE8RR8HM5DnMbrIJTfXzhKLqGLEEwsWMYCjlIloA==;07icr2oWLt5tUNsmW5I9xA=="
+images:
+  - url: "https://wp.technologyreview.com/wp-content/uploads/2022/09/responsible-ai-shutterstock_1384554629.png?w=1800"
+    width: 1800
+    height: 1013
+    isCached: true
+
+secured: "MbTYm3kjBSC0r/4TaGOK2FhFYpqdfB2ENy+Fl/yOy5p7iCCZ3aX4CYOS0cA4QkvMxMvRow+hhJ1S1raQMuVLxO4m4bFGRmwFz73DaLRK0mb+a765GRGxYSWceuIl2FEYk04KdO4UUaihScqIn2OtnsgXUztHO71ZxL0CnEzsEMojWw+hRxnBLp8YovtfLDHBXdkPaxu0ybdBZeBCwil6XRS8IUVnaOOxkozDAIt6LQTdmRAl2VwJC1j5qv+seZlV6xIUm/Cb4mLNhKaQ2qHiMZRBnLrNFUGinNPmDenByfI592B9MynbEIWMglhfySf67twxCXwdCx6RoHBc3gm583FxvyYFFpzlg0dhZt8ldB8=;SnkGEn3CMVy+Qs8RGPPAWA=="
 ---
 

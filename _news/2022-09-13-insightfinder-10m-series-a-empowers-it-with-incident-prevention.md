@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-13T15:00:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/09/p28850821/insightfinder-10m-series-a-empowers-it-with-incident-prevention"
 webUrl: "https://www.benzinga.com/pressreleases/22/09/p28850821/insightfinder-10m-series-a-empowers-it-with-incident-prevention"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Benzinga.com

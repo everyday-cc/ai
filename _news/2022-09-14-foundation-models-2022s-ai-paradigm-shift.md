@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-13T18:27:00Z
 originalUrl: "https://venturebeat.com/ai/foundation-models-2022s-ai-paradigm-shift/"
 webUrl: "https://venturebeat.com/ai/foundation-models-2022s-ai-paradigm-shift/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

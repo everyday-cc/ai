@@ -25,51 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence And The Future Of Marketing"
-    excerpt: "Artificial intelligence is currently transforming marketing. Here, we look at the most exciting opportunities when it comes to using AI in marketing and explore where they are already being tapped."
-    publishedDateTime: 2022-09-09T04:43:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intelligence-and-the-future-of-marketing/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intelligence-and-the-future-of-marketing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intelligence-and-the-future-of-marketing/amp/"
+  - title: "University of Maryland Prof Urges Pause on Facial Recognition"
+    excerpt: "Lauren Rhue, an assistant professor of information systems at the University of Maryland, says human intervention is necessary to mitigate bias in technologies from Amazon Rekognition, Face++ and Microsoft."
+    publishedDateTime: 2022-09-13T19:48:00Z
+    webUrl: "https://www.govtech.com/education/higher-ed/university-of-maryland-prof-urges-pause-on-facial-recognition"
+    ampWebUrl: "https://www.govtech.com/education/higher-ed/university-of-maryland-prof-urges-pause-on-facial-recognition?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/university-of-maryland-prof-urges-pause-on-facial-recognition?_amp=true"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 108
+      name: Government Technology
+      domain: govtech.com
+    quality: 61
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/631ac44c2dd319e54f3d1994/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/fbebee5/2147483647/strip/true/crop/2100x1095+0+6/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F19%2F60%2F04d269dc468bba43ff8fcf021bc0%2Flauren-rhue.jpg"
+        width: 840
+        height: 438
         isCached: true
-  - title: "Why the explainable AI market is growing rapidly"
-    excerpt: "The explainable AI market is booming due to regulations requiring visibility into the hows and whys of AI model predictions."
-    publishedDateTime: 2022-09-12T17:40:00Z
-    webUrl: "https://venturebeat.com/ai/why-the-explainable-ai-market-is-growing-rapidly/"
-    ampWebUrl: "https://venturebeat.com/ai/why-the-explainable-ai-market-is-growing-rapidly/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-the-explainable-ai-market-is-growing-rapidly/amp/"
+  - title: "Aging and its effects on facial recognition"
+    excerpt: "AS the iPhone 14 launches this week, we take a look back at one of the innovations Apple introduced when it launched the iPhone X—Face ID. The facial recognition system that retired the beloved home button became the main biometric authentication for unlocking your device,"
+    publishedDateTime: 2022-09-09T16:01:00Z
+    webUrl: "https://businessmirror.com.ph/2022/09/10/aging-and-its-effects-on-facial-recognition/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 39
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1257975820-e1663004031979.jpg?w=1200&strip=all"
-        width: 1200
-        height: 660
-        isCached: true
-  - title: "Microbiome Global Market Report 2022: Use Of Artificial Intelligence And Machine Learning Crucial For Future Growth - ResearchAndMarkets.com"
-    excerpt: "The global microbiome market reached a value of nearly $340.8 million in 2021, having increased at a compound annual growth rate (CAGR) of 14.8% since 2017. The market is expected to grow from $340.8 million in 2021 to $945."
-    publishedDateTime: 2022-09-13T11:41:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-4f08b67c667642e0a659bd866783a6bf"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 21
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2022/09/digitallife03-091022.jpg"
+        width: 720
+        height: 531
         isCached: true
 
 secured: "Pq+CpgG0DZSJXc+1OAnNveo5c+lkj0OwdbeGdrr1g5qQQCa+abm9JX6AlCyiXfAg/xhKM+INShaTh2WgeduTvBrgeS0g0g/4fx0X96FUteGGsbPH3LlN4iTS9A+98RnU0DRKi+OO0rLbIk2bBoZiPy+xf1Pw7F+wgYf/K0B59qAHtxs7BPc2lkUATwzXNe2KExRf7g+EDCRKiv5sLovCYLaErBJdjwjVW0G8N4c71/f2ZFiQfEiNReq3R7qPdh+oMj9GiFHOVpQqI3fCakwElshwD0N5eyToVNCLGxX7hkpdmGfb0ynLxSz0Vs4Z4DyaosPY/2fN04MaL0NygwxOESo4Nozrbj6MzkxTLfPLdKk=;lRMSXkrTIN6TyRsBDXPhXg=="

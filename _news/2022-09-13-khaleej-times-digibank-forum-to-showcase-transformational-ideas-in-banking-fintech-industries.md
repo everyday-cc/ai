@@ -26,6 +26,17 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Khaleej Times Digibank Forum To Showcase Transformational Ideas In Banking, Fintech Industries"
+    excerpt: "Khaleej Times is set to host the third edition of DigiBank 2022 – The Banking Transformation Forum. Supported by the UAE Banks Federation, the ev"
+    publishedDateTime: 2022-09-13T19:58:00Z
+    webUrl: "https://menafn.com/1104858994/Khaleej-Times-Digibank-Forum-To-Showcase-Transformational-Ideas-In-Banking-Fintech-Industries"
+    type: article
+    provider:
+      name: MENAFN
+      domain: menafn.com
+    quality: 7
+
 secured: "GtSg7hdol59+NGiteV9ns1yIkMe5JfDG3lAC8gS9fVDCwCqeVqFR0JuuY10ooDRjK/28P2Bicx9PN4unxV6zGsjnmmx4ND8Sh3UeD1Z4B3LComeCSToYaZKj+KPNrdBKTpKXycyvyVpV5eMyT7nSPzjiRodIgKGMSlKFDI5zwQ9RAM8lUKaI+o7lvDLfkb2/uwf5d812rVHEOCptwMV7k+CrNcCUg6bRm7NwrbJ5WaVVIkCBFdBYKLKzgLv9PqcmyumjOqno+5zKYZ5NaKSmhCw9DTf6ihpGmj0XLLAaS/uftL5DqypGDIYBUoyy8vXkqo0+6S1+m8t0Hd/kOBouuMOq9GfK2rOGivwLNC6jebA=;9+TNEK54GzPRClqvNNB9ng=="
 ---
 

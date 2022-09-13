@@ -2,10 +2,13 @@
 category: news
 title: "Kyndi's Natural Language Search Solution Recognized as a KMWorld Top Trend-Setting Product of 2022"
 excerpt: "Kyndi, the leading natural language processing (NLP) company, today announced that KMWorld, the premier knowledge management publication, has acknowledged the Kyndi Natural Language Search Solution as a Top Trend-Setting Product of 2022."
-publishedDateTime: 2022-09-13T14:56:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-kyndis-natural-language-search-solution-recognized-as-kmworld-/2022/09/13/9672530.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-kyndis-natural-language-search-solution-recognized-as-kmworld-/2022/09/13/9672530.htm"
+publishedDateTime: 2022-09-13T15:08:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/09/13/9672530.htm"
+webUrl: "https://it.tmcnet.com/news/2022/09/13/9672530.htm"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: TMCnet
@@ -15,6 +18,23 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "XOf+2rWWNb1nwS2L08VNvOi2C8x/vGGcAbin6s0OSvSKRmTlipyC+ztV51EgR1GPirROniLO3wDuKRxM//4Tq8JltlFDm3SE3hwVaqqwCvNUvxwzEzsA9OSm5Gr5yQsqZY0IaiI7BqQUh1pSfUnpVA6fwJp9/Ve15+f+srDvHgeJAPJI+n53iJZilMKeMCwxGFcuO6HMN+51bN54ovxlCDVPMJBFPjcuKnfQkI1rTgHQqW9MaeEOXnlHkaXWhI8jiiEc+mg617/f1sTGTdW5XfjCvWtI4dc8DVhCsVfJwfmv5pR2a/lSCKsgpgLy9I9w4zxEbrrOyB6EntBC5ocMroggzzp9A1K38IvNdZh+u9bCiLiNfjs0gExydzUHnZesmCYeTF4i4yuXAPmFmqyDV16CBsw0iX32JAxXhA+f/eJV8B8p0kTN4nX1pdv7O4Qw5O8myP7QkkpfHxDUcMyBhSZAwfpX2hG+tpwKM9skG6frMK6vg2THLCFNy2r6Yy1oO1a+0FkJyhFQFZB18T125Q==;UN51D0aPm70lnyK/CLr4sw=="
+images:
+  - url: "https://mma.prnewswire.com/media/1896484/KMWorld_has_acknowledged_the_Kyndi_Natural_Language_Search_Solution_as_a_Top_Trend_Setting_Product_o.jpg"
+    width: 400
+    height: 399
+    isCached: true
+
+related:
+  - title: "Kyndi’s Natural Language Search Recognized by KMWorld as Top Trend-Setting Product"
+    excerpt: "Kyndi today announced that KMWorld, a knowledge management publication, has acknowledged the Kyndi Natural Language"
+    publishedDateTime: 2022-09-13T15:37:00Z
+    webUrl: "https://www.datanami.com/this-just-in/kyndis-natural-language-search-recognized-by-kmworld-as-top-trend-setting-product/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 0
+
+secured: "g6Uc1vWMQa7xDbSqy/wLNPRmAGdFAboE74K/mBSUmCe25dHIASWkFX293+Q5Q/scZvYcV3pQwSL1ywMHh2UfgicTgB1GT4ovwXf4JAOrZAK5R2sQf/trlJCYyVPnPz3CVl1XFYZKcEzZyR+NQfLsqjzN6JkLjf7oZMhIKOMeEwBzlcvfDxthlr/bCQJ6CnDzxSN5x8JIzwTb4CG6dvvCHmpccNbmCixlMnuGNSAiGWbrXQfP3K0Ztoby6BWuONm8gMUFSQFD3TFedsY+JFmDLZC0j6VRMugKovJSvIG841M/RQNfECfhAWjZptgZIFfdjqAF90faRADJoiamFG4cwuaACIxAIFBP5YWUgkwyQD8=;ak1YKaUtbBX03RxSY2bqKQ=="
 ---
 

@@ -2,6 +2,101 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-06-01-self-driving-cars-to-be-tested-at-boca-raton-innovation-campus.md",
+      "title": "Self-driving cars to be tested at Boca Raton Innovation Campus",
+      "excerpt": "The future has arrived in Boca Raton. The city is now testing self-driving cars with the hope of eventually adding them alongside drivers on the road.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wptv.com/marketplace/automotive/self-driving-cars-to-be-tested-at-boca-raton-innovation-campus",
+      "originalUrl": "https://www.wptv.com/marketplace/automotive/self-driving-cars-to-be-tested-at-boca-raton-innovation-campus",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://x-default-stgec.uplynk.com/ausw/slices/842/2fbf8a5e953e4a01960f2f5161cc4953/842bd12b85384a098ef07b66a1d5a77e/poster_59ad2966ce3a4100afb888e2f6338a3a.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wptv.com/marketplace/automotive/self-driving-cars-to-be-tested-at-boca-raton-innovation-campus?_amp=true",
+      "cdnAmpWebUrl": "https://www-wptv-com.cdn.ampproject.org/c/s/www.wptv.com/marketplace/automotive/self-driving-cars-to-be-tested-at-boca-raton-innovation-campus?_amp=true",
+      "publishedDateTime": "2022-05-31T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WPTV",
+        "domain": "wptv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-pmis-beat-technology-leads-gains.md",
+      "title": "PMIs Beat, Technology Leads Gains",
+      "excerpt": "“Baidu delivered solid first quarter results, especially regarding our cloud and intelligent driving businesses. Baidu AI Cloud reported another quarter of strong revenue growth and Apollo Go ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brendanahern/2022/05/31/pmis-beat-technology-leads-gains/",
+      "originalUrl": "https://www.forbes.com/sites/brendanahern/2022/05/31/pmis-beat-technology-leads-gains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//6296381d6805b5b22ed94143/0x0.jpg?format=jpg&width=1200",
+          "width": 1024,
+          "height": 410,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brendanahern/2022/05/31/pmis-beat-technology-leads-gains/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brendanahern/2022/05/31/pmis-beat-technology-leads-gains/amp/",
+      "publishedDateTime": "2022-05-31T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-01-deere-co-taps-into-technology-to-drive-revenue-growth-julian-sanchez-and-joshua-jepsen-discuss.md",
       "title": "Deere & Co Taps Into Technology to Drive Revenue Growth; Julian Sanchez and Joshua Jepsen Discuss",
       "excerpt": "BONDURANT, IA - As technological advancements continue to drive agricultural development, Deere & Co is tapping into the sector to meet demand and up its revenue growth.",
@@ -1230,92 +1325,6 @@
       "provider": {
         "name": "AOL",
         "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-insurers-in-pursuit-of-autonomous-vehicle-answers.md",
-      "title": "Insurers in pursuit of autonomous vehicle answers",
-      "excerpt": "with its Autopilot capability and the significant progress of artificial intelligence (AI) technology in various domains — as well as the early overpromising of various vendors, including Tesla ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-auto.com/analysis/insurers-in-pursuit-of-autonomous-vehicle-answers/",
-      "originalUrl": "https://www.just-auto.com/analysis/insurers-in-pursuit-of-autonomous-vehicle-answers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2022/05/NS3uC.png",
-          "width": 1600,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T03:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Just Auto",
-        "domain": "just-auto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-the-risk-of-delisting-for-the-us-listed-chinese-adrs.md",
-      "title": "The risk of delisting for the US listed Chinese ADRs",
-      "excerpt": "This includes big names like Alibaba, Baidu, JD.com, NetEase, Pinduoduo and Yum China. Why do Chinese companies list on the US exchanges? A US listing attracts a larger pool of investors thereby ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbesindia.com/article/essec-business-school/the-risk-of-delisting-for-the-us-listed-chinese-adrs/76643/1",
-      "originalUrl": "https://www.forbesindia.com/article/essec-business-school/the-risk-of-delisting-for-the-us-listed-chinese-adrs/76643/1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.forbesindia.com/media/images/2022/May/img_185851_chineseadrs.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T22:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes India",
-        "domain": "forbesindia.com",
         "images": null,
         "publishers": null,
         "authors": null

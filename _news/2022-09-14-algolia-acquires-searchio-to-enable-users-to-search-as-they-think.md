@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-13T19:15:00Z
 originalUrl: "https://www.datanami.com/2022/09/13/algolia-acquires-search-io-to-enable-users-to-search-as-they-think/"
 webUrl: "https://www.datanami.com/2022/09/13/algolia-acquires-search-io-to-enable-users-to-search-as-they-think/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: datanami.com

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-13T17:46:00Z
 originalUrl: "https://www.msnbc.com/the-beat-with-ari/watch/bill-gates-on-why-ai-will-change-everything-and-what-we-owe-africa-msnbc-intv-w-ari-melber-148339781613"
 webUrl: "https://www.msnbc.com/the-beat-with-ari/watch/bill-gates-on-why-ai-will-change-everything-and-what-we-owe-africa-msnbc-intv-w-ari-melber-148339781613"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: MSNBC

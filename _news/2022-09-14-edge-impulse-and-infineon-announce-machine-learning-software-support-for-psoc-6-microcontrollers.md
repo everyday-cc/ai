@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-13T19:40:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/edge-impulse-and-infineon-announce-machine-learning-software-support-for-psoc-6-microcontrollers-1031741118"
 webUrl: "https://markets.businessinsider.com/news/stocks/edge-impulse-and-infineon-announce-machine-learning-software-support-for-psoc-6-microcontrollers-1031741118"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Business Insider

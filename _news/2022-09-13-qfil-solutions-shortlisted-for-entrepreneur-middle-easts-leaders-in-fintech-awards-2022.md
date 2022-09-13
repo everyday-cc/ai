@@ -49,13 +49,13 @@ related:
       domain: finanznachrichten.de
     quality: 4
   - title: "CCC Intelligent Solutions Wins 2022 IDC FinTech Rankings Real Results Award for CCC® Safekeep"
-    excerpt: "CCC Intelligent Solutions Inc. (CCC), a leading SaaS platform powering the P&C insurance economy, announced today it is a winner of the 2022 IDC FinTech Rankings Real Results Award which recognizes tech providers that have enabled a genuine,"
-    publishedDateTime: 2022-09-13T16:25:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ccc-intelligent-solutions-wins-2022-idc-fintech-rankings-/2022/09/13/9672698.htm"
+    excerpt: "The AI-Powered Subrogation Platform Recognized for its Work with Root Insurance CCC Intelligent Solutions Inc. (CCC), a leading SaaS platform powering the P&C insurance economy, announced today it is"
+    publishedDateTime: 2022-09-13T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/b28850758/ccc-intelligent-solutions-wins-2022-idc-fintech-rankings-real-results-award-for-ccc-safekeep"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 0
 
 secured: "sM6c/OWQbg2l4msjuc1U4dGA/YNY4VZ8S37BoLuhtXD1/DvBt1nm6/upAi+W3GAKnVyFMK2ZPoiE9OpkGVT98ZpST3y9y5bwFQq27ZKMtDc8xHwaEo3kjW2xYU3ucN1FWQeB/Xh9FqmE8HD3MRubS+GfqlQrztx+1yLBw8SCKshTPBpLe5quKxvTEz/Sa16MSG2pEYmxNnUualv4V1TF68/1TInQdRjgdMI1DcC2YpxoXLvAuvoIfYLBvNAl4SaNndTTgXRrLJc8uLWiKBeCiO+9AwwcSGNM1YsiQSjRCKbhzsTqMuMlhSeSJRjX0aAHe7hBUBnR2JYZUtweq8vFbuRQI9tRGiC1Z2RQwjrggHY=;2u8wve9RsZgFUBab919rzQ=="
