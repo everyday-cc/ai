@@ -10,7 +10,7 @@
       "originalUrl": "https://www.zdnet.com/article/neural-magics-sparsity-nvidias-hopper-and-alibabas-network-among-firsts-in-latest-mlperf-ai-benchmarks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -446,10 +446,10 @@
     {
       "path": "_news/2022-09-02-a-therapy-found-to-improve-cognitive-function-in-patients-with-down-syndrome.md",
       "title": "A therapy found to improve cognitive function in patients with Down syndrome",
-      "excerpt": "First the scientists revealed a dysfunction of the GnRH neurons in an animal model of Down syndrome and its impacts on the cognitive function impairment associated with the condition. Then a pilot ...",
+      "excerpt": "Down syndrome, also known as trisomy 21, affects around one in 800 births and results in a variety of clinical manifestations, including decline in cognitive capacity. With age, 77% of people with ...",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/962864",
-      "originalUrl": "https://www.eurekalert.org/news-releases/962864",
+      "webUrl": "https://www.sciencedaily.com/releases/2022/09/220901151604.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/09/220901151604.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -459,12 +459,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-01T11:01:00-07:00",
+      "publishedDateTime": "2022-09-01T13:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

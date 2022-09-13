@@ -7,7 +7,7 @@ originalUrl: "https://www.zawya.com/en/press-release/events-and-conferences/sdai
 webUrl: "https://www.zawya.com/en/press-release/events-and-conferences/sdaia-the-kingdom-of-saudi-arabia-announces-program-for-2nd-global-ai-summit-fh85hhzz"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Saudi Aramco AI Corridor to develop global solutions"
+    excerpt: "The summit will see the launch of the AI Corridor Center of Excellence which will develop AI solutions to address global challenges"
+    publishedDateTime: 2022-09-13T08:22:00Z
+    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/saudi-aramco-ai-corridor-to-develop-global-solutions-h20dl8hl"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 39
+    images:
+      - url: "https://static.zawya.com/version/c:NzEwMmNmOGItODNmYy00:OWM3MjVm/180620130010tfea-jpg.jpg?f=3%3A2"
+        width: 724
+        height: 482
+        isCached: true
   - title: "SDAIA: The Kingdom of Saudi Arabia Announces Program for 2nd Global AI Summit"
     excerpt: "The Saudi Data & AI Authority (SDAIA) has announced its official schedule and speaker roster for the 2nd Global AI Summit, set to take place on September"
     publishedDateTime: 2022-09-09T19:00:00Z

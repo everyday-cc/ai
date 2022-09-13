@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-13T12:45:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-13-insights-on-the-military-robots-global-market-to-2027-by-platform-application-mode-of-operation-and-region-researchandmarketscom"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-13-insights-on-the-military-robots-global-market-to-2027-by-platform-application-mode-of-operation-and-region-researchandmarketscom"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: Daily Herald
@@ -14,6 +17,17 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "Asia Pacific Healthcare Fraud Analytics Market to Grow at a Significant CAGR of 23.7% Through 2028 - ResearchAndMarkets.com"
+    excerpt: "The Asia Pacific Healthcare Fraud Analytics Market is expected to witness market growth of 23.7% CAGR during the forecast period (2022-2028). Before alerts are sent to analysts, clinicians, or investigators,"
+    publishedDateTime: 2022-09-09T16:54:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-9-asia-pacific-healthcare-fraud-analytics-market-to-grow-at-a-significant-cagr-of-237-through-2028-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "HbMHGgdd9JRcCc9hvC4h7liD7P+RnPGWBF8dASsuigj3sbYJ3QbXGgOZ4eZNVHdMoPRZO5kkJAtZ3ceXFqd+pEdMzZWP2TSvGbLN0OlUyO7SMx7T6etNw+6Z/o0hi0JGmWV5J3HjsrC+LQwild4YKITzWR66xWEifUDK01EvTkQB9tbiJWfRkwaxwkyw8W/g5MprJh9+3lLrx3Hno025D/BGoGzBjIGbShEDQAsDNwZ79IY+QN/NOieEDjbusFP7Rm7iPAIxR7Y3nFuoufLFUDG6DQMV4+n2g8TiVFegqy3fpPHQukVdQx0q2kkSgUhOGM/zLg+ZBMfCRVIAMWjMMkL5fRkYDfje+0r4sCEMk3Q=;XaeZfkmvbJj6/H2zId9NBQ=="
 ---

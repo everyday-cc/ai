@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-13T13:44:00Z
 originalUrl: "https://www.the-star.co.ke/news/2022-09-13-president-william-rutos-full-inauguration-speech/"
 webUrl: "https://www.the-star.co.ke/news/2022-09-13-president-william-rutos-full-inauguration-speech/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Star

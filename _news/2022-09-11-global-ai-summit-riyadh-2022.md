@@ -18,6 +18,17 @@ topics:
   - AI
   - AI Ethics
 
+related:
+  - title: "Under patronage of HRH Crown Prince, 2nd Global AI Summit Kicks off in Riyadh with Participation of 10,000 People, 200 Speakers from 90 Countries"
+    excerpt: "Under patronage of HRH Crown Prince, 2nd Global AI Summit Kicks off in Riyadh with Participation of 10,000 People, 200 Speakers from 90 Countries; Saudi Tourism Authority and Unio"
+    publishedDateTime: 2022-09-13T12:03:00Z
+    webUrl: "https://www.spa.gov.sa/viewfullstory.php?lang=en&newsid=2383540"
+    type: article
+    provider:
+      name: spa.gov.sa
+      domain: spa.gov.sa
+    quality: 0
+
 secured: "HunKRRab/WUqfjSC+/iAT+5DNMOLOrX3upNl4NHanaETALFMonVhU/UchAoLbNJsPew5EyMG7quWoe3OoS+8WPy84wpNgn/2GOXPW6SiK3p0b6C9bkpF6qT3PBev8B6lxHyNXNUJ0qrQErQVRJ5HERJUlTK31w3qz4uc1cKxhFhOoZilJEYFZ8A9oF4fB3UITMs+XLVcx5VBDSvJeTJ+sFO+wnRMnve4d3AMIk+K3/jFG/6pKWuZtYCZCotcboCRs/W6HnSt4Wix6EgADYI0cV2GIZ+SQcny7C7zSjpU3OfjGBH0eNrbLgPKi63TMVIJXRgJs9mjSTTLpK79gXBmBMnE8g6A/Eurd+8UWIB/4gCP673mG0w5GmoIAs1+RR1ZF96RFu2ZiA5PQ7eyU9IL0U2/C6uaJyiwzSJDh1CsKNELi7BnCo6LhoEe51qh/QHRg3cYyl8TVLsL5S3KAV06CJQYkRrgTgDxIFrFkmVzeA6ZfbWi+sPaTlTifYbT4s67CKncETfJS9Dn2YJwcjq2Gw==;GPgLhf3nfuqq1kaWh8+VxA=="
 ---
 

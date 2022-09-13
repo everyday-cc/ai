@@ -61,15 +61,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Alation Achieves AWS Data and Analytics Competency"
-    excerpt: "Alation Inc., the leader in enterprise data intelligence solutions, today announced it has achieved Amazon Web"
-    publishedDateTime: 2022-09-08T22:13:00Z
-    webUrl: "https://www.datanami.com/this-just-in/alation-achieves-aws-data-and-analytics-competency/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
 
 secured: "b0yvZNQH6KqUUD05cSp695kI3Mvb/gwPhEu56XkcM/OS9v+bow6gT725daLqsbm1tGRoDp+a2sTiPLdCzi4RS0mTWEIZGLJuLKbPC3K1NajrNGDG0Cd8a9iCkUuk/c7XE2vjMBBM42CWw1kCvfa8SmIoUF3c4Rxik7i/+1mLNkusNKPlJCRK2NGgvVC7qzVge1oeQkxwLuK+zPufz5hoRrtlPY72dm2OCrtP2hjqb3JPmwPJHaLVEAsgHcn/CycD7nWOYvQZURLdbnAn/CXRHFfMt2HWO2hQEc2kNZGzILA2vkozY2DfiMe4d3oWo8ncAncdxTHPnJkfMObHpT0Jb1filO/x6t2IzRnzAt8SR1o=;BDzJHMqukAjmSvpRLX5XRQ=="
 ---

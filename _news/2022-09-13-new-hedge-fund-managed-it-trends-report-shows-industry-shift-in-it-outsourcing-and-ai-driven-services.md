@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-13T12:51:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/new-hedge-fund-managed-it-trends-report-shows-industry-shift-in-it-outsourcing-and-ai-driven-services-1031739896"
 webUrl: "https://markets.businessinsider.com/news/stocks/new-hedge-fund-managed-it-trends-report-shows-industry-shift-in-it-outsourcing-and-ai-driven-services-1031739896"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: Business Insider

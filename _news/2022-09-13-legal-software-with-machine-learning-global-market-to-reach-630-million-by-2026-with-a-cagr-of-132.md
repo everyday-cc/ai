@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1104850854/Legal-Software-With-Machine-Learning
 webUrl: "https://menafn.com/1104850854/Legal-Software-With-Machine-Learning-Global-Market-To-Reach-630-Million-By-2026-With-A-CAGR-Of-132"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,26 @@ images:
     isCached: true
 
 related:
+  - title: "AI Market Size to Reach USD 1394.30 Billion by 2029"
+    excerpt: "The global AI market size is projected to grow from USD 387.45 billion in 2022 to USD 1394.30 billion in 2029 at a CAGR of 20.1% in the forecast period. Growing"
+    publishedDateTime: 2022-09-13T10:12:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28843325/ai-market-size-to-reach-usd-1394-30-billion-by-2029"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28843325"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28843325"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
+  - title: "The Worldwide Artificial Intelligence Robots Industry is Expected to Reach $38.4 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The \"Artificial Intelligence Robots Market Research Report by Offering (Hardware and Software), Robot Type, Technology, Deployment Mode, Application, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2022-09-13T11:06:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-13-the-worldwide-artificial-intelligence-robots-industry-is-expected-to-reach-384-billion-by-2027-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 9
   - title: "Legal AI Software Market To Reach USD 8.2 Billion By 2031 From USD 4.9 Billion In 2022, At A CAGR Of 10.8% During The Forecast Period"
     excerpt: "The Legal AI Software Market to reach USD 8.2 billion by 2031 from USD 4.9 billion in 2022, at a CAGR of 10.8% during the forecast period. Kenneth Research recently added a report on Legal AI Software Market which provides a detailed insight into the market scenario on the basis of the market size,"
     publishedDateTime: 2022-09-12T08:21:00Z
@@ -48,6 +68,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 4
+  - title: "Global Smart Shelves Market Report 2022: Growth in Demand for AI-Powered Dynamic Pricing Solutions Presents Opportunities - ResearchAndMarkets.com"
+    excerpt: "The global Smart Shelves market size is expected to grow from an estimated value of USD 3.0 billion in 2022 to USD 8.3 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 22.4% from 2022 to 2027."
+    publishedDateTime: 2022-09-12T08:19:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-b02877a988104136847a01e1c76eccc5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "e1aTi6+OnyKD6V9ouGPEwnVg8/uItXcEkCVB4Ijs0bBxkVzzP3XkI6pDA0xlXaSiuUDiBpnrPpQl4yTxvfExPg7gKp4xC1EQrIOt+vpya+nKL1AHQCJr+KDIZNVcmgOrPl/29NijEKlXlZh791HTOCIKCs/iCL2pAkVJqXgM+bdudGd91HFo557XQoOZ5luu9MVlmY4xv6ouqHjzfLsEmTPdvznXAOUHzLAd+pBxEWowLQnO9b2d4ZcurQac4ai6KxDt+m7pk/PsH4c+pZXzSG28aOtvLOkvpOgK+Lz2jRFnap8QsaGupdM8t9fgYzlnABSsPnp8PeB/HyYREubdoa/kS+kJDJbYAX5ZILZ85ao=;N0iwvw/vxlzJmQjpBJmNWA=="
 ---

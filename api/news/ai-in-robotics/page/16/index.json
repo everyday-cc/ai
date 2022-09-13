@@ -2,6 +2,40 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-05-24-remy-robotics-exits-stealth-mode-with-launch-of-third-autonomous-robotic-kitchen.md",
+      "title": "Remy Robotics exits stealth mode with launch of third autonomous robotic kitchen",
+      "excerpt": "Pioneer in robot-enabled delivery-only restaurants expands its reach and opens to new partners to boost food operators' scalability BARCELONA, Spain, May 24, 2022 /PRNewswire/ -- Remy Robotics, a food technology startup leading the disruption of delivery-only restaurants through the use of adaptive robotics and culinary engineering,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wearegreenbay.com/business/press-releases/cision/20220524LN66199/remy-robotics-exits-stealth-mode-with-launch-of-third-autonomous-robotic-kitchen/",
+      "originalUrl": "https://www.wearegreenbay.com/business/press-releases/cision/20220524LN66199/remy-robotics-exits-stealth-mode-with-launch-of-third-autonomous-robotic-kitchen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "We Are Green Bay",
+        "domain": "wearegreenbay.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-24-artificial-intelligence-ai-chipset-market-demand-2022-size-share-future-growth-potential-survey-by-2030.md",
       "title": "Artificial Intelligence (Ai) Chipset Market [DEMAND] 2022 Size, Share, Future Growth Potential Survey By 2030",
       "excerpt": "Quadintel published a new report on the Artificial Intelligence (Ai) Chipset Market. The research report consists of thorough information about",
@@ -1299,49 +1333,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-bristol-robotics-start-up-signs-deal-with-energy-giant-enel.md",
-      "title": "Bristol robotics start-up signs deal with energy giant Enel",
-      "excerpt": "The company was founded by three University of Bristol graduates in 2016 and uses tech to inspect wind turbines",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-live.co.uk/technology/bristol-robotics-start-up-signs-23972623",
-      "originalUrl": "https://www.business-live.co.uk/technology/bristol-robotics-start-up-signs-23972623",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.business-live.co.uk/incoming/article23972743.ece/ALTERNATES/s615/0_HBBRI_160522-perceptual-robotics-bristol.jpg",
-          "width": 615,
-          "height": 409,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.business-live.co.uk/technology/bristol-robotics-start-up-signs-23972623.amp",
-      "cdnAmpWebUrl": "https://www-business--live-co-uk.cdn.ampproject.org/c/s/www.business-live.co.uk/technology/bristol-robotics-start-up-signs-23972623.amp",
-      "publishedDateTime": "2022-05-16T23:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "business-live",
-        "domain": "business-live.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

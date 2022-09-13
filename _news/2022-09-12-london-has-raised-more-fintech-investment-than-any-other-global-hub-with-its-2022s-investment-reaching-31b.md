@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Interested in the Fintech Industry? Here is a Guide to Secure Your First Job"
+    excerpt: "Gone are the day when you queue for long hours to send or receive money at the bank. Currently, almost every bank has gone digital. With the use of a smartphone or laptop, you can save, send, receive,"
+    publishedDateTime: 2022-09-13T15:28:00Z
+    webUrl: "https://techbullion.com/interested-in-the-fintech-industry-here-is-a-guide-to-secure-your-first-job/"
+    ampWebUrl: "https://techbullion.com/interested-in-the-fintech-industry-here-is-a-guide-to-secure-your-first-job/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/interested-in-the-fintech-industry-here-is-a-guide-to-secure-your-first-job/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 41
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/09/Fintech-Industry.jpg"
+        width: 1920
+        height: 1284
+        isCached: true
   - title: "London Has Raised More Fintech Investment Than Any Other Global Hub, With Its 2022'S Investment Reaching $3.1B"
     excerpt: "The U.K.'s fintech sector is unrivaled in Europe and is continuing to grow at an incredible rate. London is the natural home for many of these businesses due to the city's deep pool of talent, its global reputation,"
     publishedDateTime: 2022-09-13T06:42:00Z

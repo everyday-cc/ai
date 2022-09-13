@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-13T12:03:00Z
 originalUrl: "https://www.spa.gov.sa/viewfullstory.php?lang=en&newsid=2383540"
 webUrl: "https://www.spa.gov.sa/viewfullstory.php?lang=en&newsid=2383540"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: spa.gov.sa
@@ -14,6 +17,17 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+related:
+  - title: "Global AI Summit RIYADH 2022"
+    excerpt: "The theme of the summit is“AI for the Good of Humanity”, and the plenary session, along with moderated discussions, will focus on discussing AI Now, AI Next, and AI Never. These topics focus on identifying and unifying world perspectives on AI implementation and fair use to build a robust AI framework that can solve the world's future challenges – from global energy demands and decarbonization to equitable access to healthcare and potential disease eradication."
+    publishedDateTime: 2022-09-11T13:00:00Z
+    webUrl: "https://menafn.com/1104845131/Global-AI-Summit-RIYADH-2022"
+    type: article
+    provider:
+      name: MENAFN
+      domain: menafn.com
+    quality: 19
 
 secured: "64/2exA/FSBJlKHzuWfpYhi4w2IIg8c/IKMmj2Zwi7Faw88TNKtkCgK1nXEfJaAN+IwJb1ui+pDEeu93pvLw4iMgbUHKiEehMVezvUYXoJOLqj1iy0iu0W1woclNnzZGEq+9GrMoBhRObQ0ETdxKj+XEILhaFvT/eyV85fOFuPUXHA6Nwpn7jwrCQT1eTPe1jwKSg3MinMKx5LapuNIyX/69IKbq2QgnV4exqFORNj2C5EEcJSpFvAQ6IjhkRN4mwwyeE07xubDzoRG6YHG3/Fzf9ByNXHvENskgO+tAILPvTc+tmbu7H7sGGh4SNQHi2jx6IqWt3R9PHJGZ0fKVaO3BA7R+UNSdhBNU9QkeHAe76IztB2q+AbzYVIOfGGekOnMyjhVSL7aR6PITU+JpTIjGZQWpYDiJmTOKRPTIytdB0Boi3D8+c3uW0xrTcss1SPr1t525/G7mAlMdc4qSOWX0cgWMQg2RycwBHn0ytE/FhNYQsmkq0x5MqAYdzNcSIfcXDjyxS+ZYYyGn3hSeOQ==;jdJjzkhIGmX5LezTCaFdZQ=="
 ---

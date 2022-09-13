@@ -54,6 +54,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 44
+  - title: "Cruise to launch self-driving ridesharing in Austin this year"
+    excerpt: "First it was Google. Then it was Ford and Argo AI teaming up with Lyft. Now, Cruise wants to put self-driving vehicles on Austin's streets."
+    publishedDateTime: 2022-09-13T11:34:00Z
+    webUrl: "https://www.bizjournals.com/austin/inno/stories/news/2022/09/13/cruise-to-launch-self-driving-in-austin.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "gAnHPjGxwNqWR/1KkAZOt00fMwxf3Tk3PER4ToN0oAebsQIL69yezA3hPqXIU+raEex/TT3xDCbhz0SQvkS13EmnamykGT9yUa6siMem6U8yyF3z4qzAna63zfuxPRfPHhvYLQ1cny4SQAnd4fwB5HaOGU5PbI8Wzjx7vgQa3DAtLY6OdEApNoSFyDWL7lgqMjsZ8p69Q7shl1IiORCyw/0nqD0EEWhIc4hrN6XS6BSfmIUxovjJHRcAUCYjub7PsGc+rLuVKS0BYFfGN5V/mbmJM0bAAgwU1nYX5Ro9mVoUQTLq5LNBWGxpVZRdT7iHAlIsv6XaRzhOu1V5cIn7iCi6TTEnFwu/wzANMOT54QY=;GCuaWFoAO4do6H0RFaY/PA=="
 ---

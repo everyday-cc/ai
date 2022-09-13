@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2022/09/12/gms-self-driving-car-unit-to-off
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/09/12/gms-self-driving-car-unit-to-offer-driverless-rides-in-phoenix-austin-this-year.html"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 44
+  - title: "Cruise to launch self-driving ridesharing in Austin this year"
+    excerpt: "First it was Google. Then it was Ford and Argo AI teaming up with Lyft. Now, Cruise wants to put self-driving vehicles on Austin's streets."
+    publishedDateTime: 2022-09-13T11:34:00Z
+    webUrl: "https://www.bizjournals.com/austin/inno/stories/news/2022/09/13/cruise-to-launch-self-driving-in-austin.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "Qmcz65+a5kkZZEl68PyQEB79wa8WpqS6mqwk88evdRWAjkx2ZCceO2pJi4frpjsBAkVH99FwIbmTLxQHO/9IeG/Rf8/zdu/5ciXTfGG3ffu0OyTqYq/Rf+gmRL1BboVsheXiz1hKI5w3u772jy/X1w/yS7uC2u48IiyE4eSdw2W1HZVphrCKiUqyQXCbDZTCEm3n8A4uMOGm7VPk05O30NLsbCthFM+2ho/7p+dutTWDwqKzqIiqNIlkA9lFLceuiHW1GJYZZstPK38LlWi5npNGz0g6XREhw7VlhB2SIQBtMS7g4jsGU5QjBYQ2KpEepPICrcXoNabOfuXrWvsaYHRc5591ThIOJnXh6xnBpipRkKNrHucl59eKKjAusjLN7zdr6IHZAe8WNem7j/ew6kWMCwpBdPV35vLXWfvv7djbuiQgiZ2OVw10ARbKvZefjtbNhj7ey8LOow6v94dt1TkUzeKUcdUvOo1JKJlvZrAVDyPymVKDDEiGrRQ1ykGEwweLGsQWIbGCErrDHb/SsQ==;UNosFjyya8BT4yZ1j7GvEw=="
 ---

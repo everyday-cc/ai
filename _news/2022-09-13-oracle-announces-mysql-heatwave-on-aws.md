@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-13T13:50:00Z
 originalUrl: "https://www.itnewsafrica.com/2022/09/oracle-announces-mysql-heatwave-on-aws/"
 webUrl: "https://www.itnewsafrica.com/2022/09/oracle-announces-mysql-heatwave-on-aws/"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: IT News Africa
@@ -14,7 +17,14 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Microsoft AI
 
-secured: "AZUT/+2CaTdeylAFX9k8kzuTxfOLse/Iu3NlPk/J2yG5bQqZnJOyWEm9lQcuTaY7NPnYM6EUS/ZjNS0wLb8w3p6yngBVPlQZP6gs2e1QVbvrkwavCmuAKa6G4fwwiURBkhjbQ3uD0OH7n0Nh4TQxnDSaCNEhRi33FEC1kQOVltyZ8cRrTWOvVkChMJJNU7SztoQlWs9t0FILDSQ480bxxeLllCVCMBauu8dzpQVuj1gcrWh57knSQNC1wQ9yourKHwmSb/86Gkmb6cE+cnHUz3EPp5eDsIwiFWThgIW5Uds4W7MjpiR5aMD2Mhp9qfDJTDlbe3ok8WrwksJ7xawFpLzlxAOGqiMQaWjeu5GNBBAMcVcJcmyoFnXNuNEvDRBdMjfvjd4K/eJ8Py9qUvoVH9ZgmRFVqrWIVJjNdEzGLmDqxPmH69TtNjhc5q4Q+kJsQX7cu36Fc1czD8LkePnaEH/PTtSSaKmDc8wZJf2Jgx5ftZDk3raHZIc5DYTMM91smCIV8un2JpaRvK+SVp3Zaw==;k86Lge+NgspsmlJy5bFtiw=="
+images:
+  - url: "https://www.itnewsafrica.com/wp-content/uploads/2022/05/Oracle-Building-696x452.jpg"
+    width: 696
+    height: 452
+    isCached: true
+
+secured: "WK9rBowIdXo/qF/fqw/apbGXE31dJX0hJwAdn6Y5DVpB7YE1tMjSVfvfPba9yI3IF2caKfH/HMCWiX1rM2xaEE3m9zxVLYJ5PNialnWaZh5KVjdMldBvOL/kLf+pATqW6QsWO9WioOeVvqJfpd29z3h0PPCEKwm7yERNunk5GxOEvud3RvFUFWlO6ImDJgRFb3TXEUfu+aWJgi7DNRvmiiRZ+EzIUEUn8aXaCDhCM+tMJtpUvVNZYwM8LKJayD6pgu8nBwE3kbDXgo4m5gO5855FxoAhw2UYJv7Hf2AvRUhjUZhzvyAf5aC02FljPb/pUJnS7rfPhP3TJn93E30mW1jkx8xkcpsGSAF6/ZYDvlY=;lNzZZBOOufv3TFvdsmF9jQ=="
 ---
 

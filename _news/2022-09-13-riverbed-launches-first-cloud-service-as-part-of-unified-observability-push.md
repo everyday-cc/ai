@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-13T12:30:00Z
 originalUrl: "https://www.crn.com/news/networking/riverbed-launches-first-cloud-service-as-part-of-unified-observability-push"
 webUrl: "https://www.crn.com/news/networking/riverbed-launches-first-cloud-service-as-part-of-unified-observability-push"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: CRN

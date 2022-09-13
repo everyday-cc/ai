@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-13T11:00:00Z
 originalUrl: "https://www.businessinsider.com/ai-startup-alcatraz-ai-tech-pitch-deck-2022-9"
 webUrl: "https://www.businessinsider.com/ai-startup-alcatraz-ai-tech-pitch-deck-2022-9"
 type: article
-quality: 55
-heat: 55
+quality: 57
+heat: 57
 published: false
 
 provider:

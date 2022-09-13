@@ -24,6 +24,31 @@ images:
     isCached: true
 
 related:
+  - title: "AI Market Size to Reach USD 1394.30 Billion by 2029"
+    excerpt: "The global AI market size is projected to grow from USD 387.45 billion in 2022 to USD 1394.30 billion in 2029 at a CAGR of 20.1% in the forecast period. Growing"
+    publishedDateTime: 2022-09-13T10:12:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28843325/ai-market-size-to-reach-usd-1394-30-billion-by-2029"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28843325"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28843325"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
+  - title: "Legal Software With Machine Learning Global Market To Reach $630 Million By 2026 With A CAGR Of 13.2%'"
+    excerpt: "The global legal software market is expected to grow from $0.33 billion in 2021 to $0.39 billion in 2022 at a compound annual growth rate (CAGR) of 16.6%. The change in growth trend is mainly due to the companies stabilizing their output after catering to the demand that grew exponentially during the COVID-19 pandemic in 2021."
+    publishedDateTime: 2022-09-12T17:36:00Z
+    webUrl: "https://menafn.com/1104850854/Legal-Software-With-Machine-Learning-Global-Market-To-Reach-630-Million-By-2026-With-A-CAGR-Of-132"
+    type: article
+    provider:
+      name: MENAFN
+      domain: menafn.com
+    quality: 23
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?96728"
+        width: 444
+        height: 250
+        isCached: true
   - title: "The Worldwide Artificial Intelligence Robots Industry is Expected to Reach $38.4 Billion by 2027 - ResearchAndMarkets.com"
     excerpt: "The \"Artificial Intelligence Robots Market Research Report by Offering (Hardware and Software), Robot Type, Technology, Deployment Mode, Application, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2022-09-13T11:06:00Z
@@ -33,15 +58,29 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 9
-  - title: "Asia Pacific Healthcare Fraud Analytics Market to Grow at a Significant CAGR of 23.7% Through 2028 - ResearchAndMarkets.com"
-    excerpt: "The Asia Pacific Healthcare Fraud Analytics Market is expected to witness market growth of 23.7% CAGR during the forecast period (2022-2028). Before alerts are sent to analysts, clinicians, or investigators,"
-    publishedDateTime: 2022-09-09T16:54:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-9-asia-pacific-healthcare-fraud-analytics-market-to-grow-at-a-significant-cagr-of-237-through-2028-researchandmarketscom"
+  - title: "Legal AI Software Market To Reach USD 8.2 Billion By 2031 From USD 4.9 Billion In 2022, At A CAGR Of 10.8% During The Forecast Period"
+    excerpt: "The Legal AI Software Market to reach USD 8.2 billion by 2031 from USD 4.9 billion in 2022, at a CAGR of 10.8% during the forecast period. Kenneth Research recently added a report on Legal AI Software Market which provides a detailed insight into the market scenario on the basis of the market size,"
+    publishedDateTime: 2022-09-12T08:21:00Z
+    webUrl: "https://menafn.com/1104847274/Legal-AI-Software-Market-To-Reach-USD-82-Billion-By-2031-From-USD-49-Billion-In-2022-At-A-CAGR-Of-108-During-The-Forecast-Period"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
+      name: MENAFN
+      domain: menafn.com
+    quality: 6
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?986325"
+        width: 323
+        height: 250
+        isCached: true
+  - title: "Legal Software With Machine Learning Global Market to Reach $630 Million by 2026 with a CAGR of 13.2%"
+    excerpt: "The global legal software market is expected to grow from $0.33 billion in 2021 to $0.39 billion in 2022 at a compound annual growth rate (CAGR) of 16.6%. The change in growth trend is mainly due to the companies stabilizing their output after catering to the demand that grew exponentially during the COVID-19 pandemic in 2021."
+    publishedDateTime: 2022-09-12T16:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-legal-software-with-machine-learning-global-market-reach-/2022/09/12/9671408.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "tINGsZB9+vPK2WQ0idJ/9OxmZgKobaposTigPoJf71QRLoHHb1chZU51Detly78qj4PxWAdP029aumJFVzV5dYLKyOD1ciUNuu92x3Welmkk3rKXSrf+IQQ0L+RBD59DNHhthiwjss5RKfgYInUe+tdCRxOtY2s4VRpZyvqUpNhJU3DvLOeEwJdMj1IB+Kcaaj5CiZaErpxFe+n1bLpyCimKJdj/E6az2T24PZuCWDY0UGeJumaP78cIrLcyk3p6kc+YLIhHHppmLvJ5g19keqQSb2FHVDh4SeBThR8M11tNtG9PV7t4kmOKuSueDLPr0rE7DLPcWWE08dpqpJyju72sc8ZHLK7VPEKkRQyPjpc=;NYqwHNO4mFXoTeBfsWqdPw=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-13T12:00:00Z
 originalUrl: "https://www.crowdfundinsider.com/2022/09/195911-fetch-ai-network-onboards-40000-new-users-to-its-machine-learning-ai-powered-network/"
 webUrl: "https://www.crowdfundinsider.com/2022/09/195911-fetch-ai-network-onboards-40000-new-users-to-its-machine-learning-ai-powered-network/"
 type: article
+quality: 26
+heat: 26
+published: false
 
 provider:
   name: Crowdfund Insider

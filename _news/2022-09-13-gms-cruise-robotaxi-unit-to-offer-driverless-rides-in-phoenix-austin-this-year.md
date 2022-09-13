@@ -53,6 +53,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Cruise to launch self-driving ridesharing in Austin this year"
+    excerpt: "First it was Google. Then it was Ford and Argo AI teaming up with Lyft. Now, Cruise wants to put self-driving vehicles on Austin's streets."
+    publishedDateTime: 2022-09-13T11:34:00Z
+    webUrl: "https://www.bizjournals.com/austin/inno/stories/news/2022/09/13/cruise-to-launch-self-driving-in-austin.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "YY2R9sBXb0Yrq/wWQo274VKM8etYUKe/sg1z7Ny8Bry0IlTB1Tmdvq3qHpPqsXJ7nLpOwM6FB4O3CGnduhtthxeR83jAniKUs3vX52rJBRUaoH1ELMqvuHjeEpfhgThcUhh9sTdhfe16kgk0+pSGXZ8yTjiECII6zN+CPn8+kbbdKSMgwcdhyANY4iNOaBVdfdriSlVZya60a0GZC1p9GEFQJsb4rVMjaV8kV2oJsT6e5CMhHe58yzD3/wshu3UjBhqd4FQuKZMsU9ignu1/kHwCQxur1ejwW5VO/IDpBA8jXwL+6/dQsmW6fGFMIs7wyrOufN97xBD1GDFKj3PliJgc8l00X3b0Lwf1PCCQxgFGXqBuCa2BP8K0KYZGMBxzKo/CpiiX11gBkhDBjXyI6jaTV1koXCzmPDqTkoZqn1uRi0LxwcdpopnDmolahlSUtLwRQ3Wz2b+VawbOcXP6u4YEen+fNM0xvjJc+W9sfZEom9/ZYr9JCL0Byl+Tpent/p3Q11KSRdBG/8m0IJ1JPw==;IHJXc70zbpdRuKjffUhuug=="
 ---

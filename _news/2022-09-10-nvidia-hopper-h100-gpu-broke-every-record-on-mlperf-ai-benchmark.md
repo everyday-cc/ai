@@ -35,35 +35,21 @@ related:
         width: 1200
         height: 802
         isCached: true
-  - title: "What Nvidia’s new MLPerf AI benchmark results really mean"
-    excerpt: "Nvidia released results today against new MLPerf benchmarks for its AI-targeted processors. Here's an expert analysis of those test results."
-    publishedDateTime: 2022-09-08T22:26:00Z
-    webUrl: "https://venturebeat.com/ai/what-nvidias-new-mlperf-ai-benchmark-results-really-mean/"
-    ampWebUrl: "https://venturebeat.com/ai/what-nvidias-new-mlperf-ai-benchmark-results-really-mean/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/what-nvidias-new-mlperf-ai-benchmark-results-really-mean/amp/"
+  - title: "Nvidia Hopper GPU slays predecessor in ML benchmarks"
+    excerpt: "Benchmarks aren't the same as real world use, but they can give a good idea of what’s to come, and Nvidia's Hopper GPU performance is impressive."
+    publishedDateTime: 2022-09-13T14:09:00Z
+    webUrl: "https://www.networkworld.com/article/3673256/nvidia-hopper-gpu-slays-predecessor-in-ml-benchmarks.html"
+    ampWebUrl: "https://www.networkworld.com/article/3673256/nvidia-hopper-gpu-slays-predecessor-in-ml-benchmarks.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3673256/nvidia-hopper-gpu-slays-predecessor-in-ml-benchmarks.amp.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
+      name: Network World
+      domain: networkworld.com
+    quality: 76
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/NVIDIA.jpg?w=1200&strip=all"
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/05/17/10/brain_mind_circuits_connections_artificial_intelligence_by_metamorworks_gettyimages-949321092_1200x800-100767997-large-100928072-large.jpg?auto=webp&quality=85,70"
         width: 1200
-        height: 748
-        isCached: true
-  - title: "MLCommons releases results of its latest MLPerf AI inference benchmark test"
-    excerpt: "Nvidia’s flagship data center GPU, the H100, set multiple performance records during ... “In their debut on the MLPerf industry-standard AI benchmarks, NVIDIA H100 Tensor Core GPUs set world records in inference on all workloads, delivering up to ..."
-    publishedDateTime: 2022-09-08T21:00:00Z
-    webUrl: "https://siliconangle.com/2022/09/08/mlcommons-releases-results-latest-ai-inference-benchmark-test/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/Hopper-Arch-H100-SXM-Image-1.jpg"
-        width: 1600
-        height: 900
+        height: 800
         isCached: true
 
 secured: "3go4Ik60gPQ758/V/qcQyzKqOpioTRWcK0gV0tfslOob7MeZM4Xk2PUm8J0oDZxVyuuKpjY70mI8ziS7IXkZuunApGc1wRerTl0X5x6FelBxtmzFFAPm+XQc+XNSm2/IoPwWMcPkzSWfyIxUuHctDkUKvC9lkrlV9JrpoZ3hZWmh4wu0HJd+wL7BGQeXiINt26M3AxuN3l1EES7i3xGuvlCA641RATVTSNR88Hm7aEsVdZd0Gh4h+nVlloclH+Bup+r+7S+b1N0/qMihfZUsqPIHJn9BXGKCOiGv7OjQNA69YQ75NnJrqJ3uJHYWqrtRlaCaHS4LSB3zwZzssyC5R6sbVv+szmrZnhNwDYNxYmcnROTVnFnRcsp/ZydlZGrC41AgUyEkEUFqD1IPnMuQHA85xZmhbRJTFg5yvgd+ACIzlgYYvBuef0aCxSMLA5533nnBa6KQ4Isk2q0m1n3hFhips1Ood0/CDdgccYEm0GAvmaOEDLC/DoMeR2GqTq3gc6voMq7TSj0HVpnFhfd69A==;yiu2UB8xgKLZ3DJP1ofpfw=="
