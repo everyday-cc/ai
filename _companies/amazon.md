@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "amazon"
   url: "https://twitter.com/amazon"
-  followers: 4654718
+  followers: 4654781
 
 size: 10,001+ employees
 yearFounded: 1994
