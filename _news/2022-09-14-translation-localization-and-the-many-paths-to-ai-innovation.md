@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/63207cbbed21c73b2f7ec50a/0x0.jpg?format=jpg&crop=5499,3666,x0,y499,safe&width=1200"
@@ -113,6 +114,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "KT/AatkxCDnH++7iLKwl0sENIZ1fWhqju7CeSmmT3dtEyINlxNn3LhoaeeJz27/7we2MhnRpnDxyjRo8VWMMNcQWMf6UZ2vQeAcQlR6vgc86MhLcum4TpfZjeihp81Eyg4OlJ8mIkBkersyGvKz1y+VsgIaT9BrXVslDau0N10C2SVEUMh0EEbukBHm45FDi6ULqalfMvToqd4GMZQkaQbbpWzsnkfqVexj735easbQ86ruZySevnc9ahAMKNLG0z+M1fcooDnQ+t88shKToWhZSNCFScjK9BQhOD4sEQGEqW0o/LJW1KHEIVJG5eaYdIHGzj2sWdbr32w25Rao6/UPp08QbYyc0VjPcNmgURFs=;IPsEnzpmwVhnFWdnSw40xw=="
+secured: "GYL0hM/iO+9cpdT9n8QbpuH2dINTLuHbZmwO4TyR5Up2RtVSTnKAdMVpOCEkTwYlu0dL088MrZKk4kLdF0GyXPmq8xagNXLm34AFn8r07yxeEBwuid0oz/zOk9+fdcyMznO2XIRDV119PCLxDBEUjVE1qupe4G7bsYtdYi6qtCdgcqScPXgZ5lbfywSiY1s9mdJlKsAT7ll9Z57+yr0uPWOGtMkxBEBYM7PlJhHtBaEZFKNqOXw7rkPD9CgBk+N50AoI75acXItTZb9B5KQpidCJExjBqTN/Fl4aPpU95nOfFbXbGFkaLZ6exI/BMuGBJIUtPzcWVQCu9PMux62MAACgGJj3pOlqxXWmLkGS4wYUIGlEneUsALIAG4g/FbEPOI94q4udyHDGic5DxY3MqnOYhA/oAiJoA7+Szf9Iy8y0Ft2ItRlaBfdvkjhReyfdHKxVtRMAXMrNNJKGav8kx+qi9xGwtRqOHgmKNTYtBrrWByd/VCXI+YPDii7W80a3DxYBGbxXmgAaC0PUih2O/Q==;dU28iLMlycOP+w5c/YcAXw=="
 ---
 
