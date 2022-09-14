@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Edge Impulse and Infineon Announce Machine Learning Software Support for PSoC™ 6 Microcontrollers"
-excerpt: "Edge Impulse and Infineon have announced cross-platform support for their software environments, allowing for high-powered, flexible machine learning development on the Infineon PSoC™ 6 microcontroller series."
-publishedDateTime: 2022-09-13T19:55:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-software-bc4e23b0e956198077588d2fcb6f8674"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-software-bc4e23b0e956198077588d2fcb6f8674"
+excerpt: "The partnership expands Infineon's ModusToolbox™ software ecosystem to Edge Impulse's studio environment, allowing for easy configuration of the"
+publishedDateTime: 2022-09-13T19:40:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/edge-impulse-and-infineon-announce-machine-learning-software-support-for-psoc-6-microcontrollers-1031741118"
+webUrl: "https://markets.businessinsider.com/news/stocks/edge-impulse-and-infineon-announce-machine-learning-software-support-for-psoc-6-microcontrollers-1031741118"
 type: article
-quality: 26
-heat: 26
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "fE7hWcgzsXKPVReki0mTyizlHRAnv6H3n5HeIT+S+cR1sIm0yemr/MwjuI3Q4hg94Lp4RuP8hLa3569URdjvMUT2+XBCs2vce1wIBWOXFN5dFl/iFEsO4fJ/ikdj8xZ2brjNtrQawIyILX2wUgK6pabrTzkl4fmd9/8xOf43H7HSuwLjjMPxNABKy5/FnhLCJbCyjyFCDe5VMbHxnsuMUaGNsIT5RWbBsscqM93NnRPBim5B+ddFkePILmU9Oti17cr3VrE8mgxDVj29sszsqG5maZDmLJ7Uqrccbv5NyOc6ZZze1O0tXE87vLIZLIT3fqaMatUlIuzjnfayOTgfjrk3hjBy8kS+4LFAxAg1s80=;t+n66tpzdl6pr+XdT8LFzA=="
+secured: "k9Kbnu1hf0iX2m3VyfUcN9AzJWr2l3KFpBVdXdHUvkpNLose2DvGdT1egIHT/58piWGSv4cQfDkRj9ZloZ+ZCJwlKyL5zhaIyuT4DtM8Z5rXEH7/9ookVnkPi+LokZzhmC0QBQfNB2thJuQxllMK0IOaFQD2sSF83mDMg1jnv9oIfMQWEFAUoHRKU9QbngSurMGDxi55pXTfYoNwnl/UoTZ05mVSpgGifY7mQqNlKf4MBTWggZlX/DMYzj+peYSbnTfCmxVTHAcT3ql6v6B4v9OF3JFmHiRMs0qOhiZSuZFtuhNo1nNoQI7KgZ5PJIUt1JvGdHVPESORso5ed//Oi86VOPlTH9OrhF6iU66QndY=;N9v3vWrg7R1lT6VCgEqKBQ=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2022/09/13/loab-ai-generated-horror/"
 ampWebUrl: "https://techcrunch.com/2022/09/13/loab-ai-generated-horror/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/13/loab-ai-generated-horror/amp/"
 type: article
-quality: 89
-heat: 99
+quality: 91
+heat: 101
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - Natural Language Processing
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2022/09/loab-header.jpg?resize=1200,625"

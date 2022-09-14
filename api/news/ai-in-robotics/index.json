@@ -62,7 +62,7 @@
       "originalUrl": "https://techcrunch.com/2022/09/13/loab-ai-generated-horror/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -102,7 +102,8 @@
       ],
       "topics": [
         "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "Natural Language Processing"
       ]
     },
     {

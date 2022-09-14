@@ -7,8 +7,8 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/09/220913110401.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/09/220913110401.htm"
 type: article
 quality: 64
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: Science Daily
@@ -23,6 +23,33 @@ topics:
   - AI
 
 related:
+  - title: "How AI And Machine Learning Will Impact The Future Of Healthcare"
+    excerpt: "Global healthcare is facing enormous challenges, but artificial intelligence and machine learning hold the secret to transforming our ailing health system into a more equitable, efficient way to care for patients."
+    publishedDateTime: 2022-09-14T05:24:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2022/09/14/how-ai-and-machine-learning-will-impact-the-future-of-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/09/14/how-ai-and-machine-learning-will-impact-the-future-of-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/09/14/how-ai-and-machine-learning-will-impact-the-future-of-healthcare/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 121
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/632164db23de9900defe585a/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Report Identifies Ethical Challenges, Risks with the Use of Artificial Intelligence in Healthcare"
+    excerpt: "A recent report released by World Health Organisation (WHO), has identified the ethical challenges and risks with the use of Artificial Intelligence (AI) in healthcare. The report however gave six ..."
+    publishedDateTime: 2022-09-09T23:59:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2021/08/12/report-identifies-ethical-challenges-risks-with-the-use-of-artificial-intelligence-in-healthcare/"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2021/08/12/report-identifies-ethical-challenges-risks-with-the-use-of-artificial-intelligence-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/08/12/report-identifies-ethical-challenges-risks-with-the-use-of-artificial-intelligence-in-healthcare/amp/"
+    type: article
+    provider:
+      name: This Day
+      domain: thisdaylive.com
+    quality: 58
   - title: "Health care researchers must be wary of misusing AI"
     excerpt: "An international team of researchers, writing in the journal Nature Medicine, advises that strong care needs to be taken not to misuse or overuse machine learning (ML) in health care research."
     publishedDateTime: 2022-09-13T14:52:00Z
@@ -39,15 +66,6 @@ related:
         width: 1323
         height: 979
         isCached: true
-  - title: "Researchers develop an AI model for autonomous driving"
-    excerpt: "A research team consisting of Oskar Natan, a Ph.D. student, and his supervisor, Professor Jun Miura, who are affiliated with the Active Intelligent System Laboratory (AISL), Department of Computer Science Engineering,"
-    publishedDateTime: 2022-09-12T18:58:00Z
-    webUrl: "https://techxplore.com/news/2022-09-ai-autonomous.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 17
 
 secured: "pm7zA562eTAAcACu/6J+DAS5chOw5ypn3XmvzajRP/+LBtwxu/flNuA3MKViEhUc8WRwa5YMYEo3n+L8a7xAnU/6l3gYJv7JA1q2ad5KRYS3Q1NAGutvxcp7JlCAWS+4MnZvl5Vh02G2rBx9CJ3Bl66v+b+hl0hmuWxex6n+73s8KQKbOee5rIa7LU9TJ4WmsCD7uHT4DBmBkuhA9GFIyiqbB0dMEDEitlYSjv9eFIjfuXMoD3SowLOS2+G1wUQS1vyVJGpq1QsGE7lOjPX6Bcf8W1cPrVDLF1GzAXuFgR3hNwEEtQD3qQiEq2Tsd7GbJlXJgh5QlOWTgq0Ur5nXuBLYYbKUMtC4KHgdnN1fSd8=;AS9xBDgqdS1q96kDNuN+rw=="
 ---

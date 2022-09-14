@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/09/12/when-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/09/12/when-the-rise-of-ai-meets-the-ease-of-no-code/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "\"Art is dead Dude\" - the rise of the AI artists stirs debate"
+    excerpt: "Mr Allen is the winner of the Colorado State Art Fair's competition in the category of \"emerging digital artists\". His winning entry \"Théâtre D'opéra Spatial\" was made using Midjourney, an artificial intelligence system that enables images to be created simply by inputting a few text prompts - for example \"an astronaut riding a horse\"."
+    publishedDateTime: 2022-09-13T08:47:00Z
+    webUrl: "https://bbc.co.uk/news/technology-62788725.amp"
+    ampWebUrl: "https://bbc.co.uk/news/technology-62788725.amp"
+    cdnAmpWebUrl: "https://bbc-co-uk.cdn.ampproject.org/c/s/bbc.co.uk/news/technology-62788725.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/1707D/production/_126633349_washingtonpostgettyimages-1242900615.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "JkZAPnL1Xb4X9Ua5Xjvs/IlApoR9lS17n9H9fAIFuJKDq+zWx6lu8iGpqo/Pwga+af+MMVrF2hNk/SxcQry8/31wPTq5Wog9VXjlwHNwz6GMjxq/Rl68X8qxlvUwJTTIgcnhFPlS0dv7Jqr9A2OIVzZUUo5SvUlstvbreGxqw/JiM9zWUz8kTrV3lDR6xarwpGTsk4EH9Z/Vuhwb6GiHv7pFAv/PhoWHxGxZMTBwcvSTduzYIQU3VFPpgc9IVPeV3t4kijQFSNdg5SOpkw53uSFwrNhMUrFQasyMZ+4ctw3mEQPCrF+QrwNHaNtjwVoEWphaW4OY7wdHMSgO2QUdHax94bD3hAfbqKvQJ1kzCq5kXYqe0DSCTWSRuYd80lad+GTk8ZS10vQYEOkBRMlt7cDAhxYLIBtmFgZFE1W6ETuKZ0tFSJQvA8tI2Ao0uivlHjFt7cOEmL1n6zVWT0sg06V5DgX5Dx+ajWDE4vivaSpon2YzMtvY3g/GDRPbeB2e36ytatfiiwrO1eiLuR52Hg==;t0qZD2P7YWezPVKlcCrpgA=="
 ---

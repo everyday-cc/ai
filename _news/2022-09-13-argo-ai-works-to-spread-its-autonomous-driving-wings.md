@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Argo AI kicks into high gear to build a business out of AV tech"
+    excerpt: "Argo AI, the autonomous vehicle developer backed by Ford and VW Group, revealed this week an ecosystem of products and services designed to support commercial delivery and robotaxi operations. The products — a list that includes fleet management software,"
+    publishedDateTime: 2022-09-13T22:13:00Z
+    webUrl: "https://techcrunch.com/2022/09/13/argo-ai-kicks-into-high-gear-to-build-a-business-out-of-av-tech/"
+    ampWebUrl: "https://techcrunch.com/2022/09/13/argo-ai-kicks-into-high-gear-to-build-a-business-out-of-av-tech/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/13/argo-ai-kicks-into-high-gear-to-build-a-business-out-of-av-tech/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/09/argo-ai-hub.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Argo AI Launches Line Of Products To Enable Businesses To Use Its Automated Vehicles"
     excerpt: "Argo AI, the Pittsburgh-based company majority owned by Ford and Volkswagen has begun the roll-out of its product lineup that will enable businesses to use vehicles based on its automated driving system (ADS)."
     publishedDateTime: 2022-09-12T12:15:00Z

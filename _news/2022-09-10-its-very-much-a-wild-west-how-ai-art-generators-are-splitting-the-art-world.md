@@ -45,22 +45,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "We Need To Talk About AI"
-    excerpt: "As architects and advocates of AI technology, it’s time we reclaim the narrative and rebuild lost trust. If we choose our words carefully, we can strongly and positively influence conversations about AI and decisions about its use."
-    publishedDateTime: 2022-09-09T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/09/09/we-need-to-talk-about-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/09/09/we-need-to-talk-about-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/09/09/we-need-to-talk-about-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6319f28c81d07fcde9d70388/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "As AI-generated art takes off, who really owns it?"
     excerpt: "The growing use of artificial intelligence, in art and other sectors, throws up complex issues of ethics, copyrights, and privacy"
     publishedDateTime: 2022-09-11T02:00:00Z
