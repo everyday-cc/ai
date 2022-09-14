@@ -1,16 +1,11 @@
 ---
 category: news
 title: "AI Metrics, an AI Medical Imaging Technology Startup, Selected by Innovate Alabama as an Inaugural Small Business Grant Recipient"
-excerpt: "State grant will help AI Metrics further develop AI technologies for advancing cancer screenings and overall radiology assessments BIRMINGHAM, Ala., Sep. /PRNewswire-PRWeb/ -- AI Metrics, an early sta"
+excerpt: "State grant will help AI Metrics further develop AI technologies for advancing cancer screenings and overall radiology assessments BIRMINGHAM, Ala. (PRWEB) AI Metrics, an early stage radiology"
 publishedDateTime: 2022-09-14T16:55:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/09/n28869558/ai-metrics-an-ai-medical-imaging-technology-startup-selected-by-innovate-alabama-as-an-inaugural-s"
-webUrl: "https://www.benzinga.com/pressreleases/22/09/n28869558/ai-metrics-an-ai-medical-imaging-technology-startup-selected-by-innovate-alabama-as-an-inaugural-s"
-ampWebUrl: "https://www.benzinga.com/amp/content/28869558"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28869558"
+originalUrl: "https://www.benzinga.com/pressreleases/22/09/p28869562/ai-metrics-an-ai-medical-imaging-technology-startup-selected-by-innovate-alabama-as-an-inaugural-s"
+webUrl: "https://www.benzinga.com/pressreleases/22/09/p28869562/ai-metrics-an-ai-medical-imaging-technology-startup-selected-by-innovate-alabama-as-an-inaugural-s"
 type: article
-quality: 8
-heat: 8
-published: false
 
 provider:
   name: Benzinga.com
@@ -19,6 +14,6 @@ provider:
 topics:
   - AI
 
-secured: "Xp+7h+OLan38F9XgTnsQZxEaozGSOUmtmMsTTt1zG2881JQ4oFQj4JM9V24SCsyAkWpArAvBkUTLC2KN31r9dyyCEyuLxJM2IwcYRMCjSFrciOUIBYVfKeRPhwW4o0UUiLRpl/Io5iwmVMmuV9+EftYI6HHL4iBwoxVeaJFkjMzcZEMoy2bj2vIj+9JzeylnBGhgYTcTxlM1zhO5ImxPUphUOmpzhI3RauMtpGeqLPOBv8o6Xn3AWeTGEH4R2+E1YGT5JYaB91fxQqopscxJ8EbXUY3RR3U5cvqmFNhpwTpzHCwj/+DxGOZi9Qb06qHq8Oa1OPZ28VUtc+vVSYNV3dTLE9sp7K2PCkZWCyibEzE=;q6s5vwGtFzFCbkhG3b08jA=="
+secured: "9PN6nmCdxwu6gE/HFCDszlURXqxqHqhd0k9INr4HEiEJy2NAaXR6hePJ0wwPcMyCnZW4Erl34pPoA/IjqdJqB0KMZpelP7ZUC+JBz+AfL28gTrWXkNeyBs3muRL/n3QTyAK0i8gAdrMgowXCMb751zhDQb3E2e1inp6EQ8WwSB1jvPFGWAZJTz0X4t0dH33f8+t0ap9UOPnjhkgalyWvHaSPQ/xGf1Wm7fV6RRL6upHTbt717rM8nDkDsHudcpi4LZSSvBHHJb0xLjkqoNxEUdyLMvkbNeSzALTZkpR9JqOGUQkqc38qoV5BPitu4owEgXICggwuN/cPZYVObHm5V8/BI0O3hoYFyyAmADHL0aE=;/ps+ZkG5oMEBElXT45byOg=="
 ---
 

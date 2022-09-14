@@ -1,31 +1,24 @@
 ---
 category: news
 title: "Adults don't get better at recognizing masked faces as time goes on, new study finds"
-excerpt: "More than two years after the start of the pandemic, adults still have difficulty recognizing people when their face is obscured by a mask, found a new study out of York University."
-publishedDateTime: 2022-09-13T17:48:00Z
-originalUrl: "https://medicalxpress.com/news/2022-09-adults-dont-masked.html"
-webUrl: "https://medicalxpress.com/news/2022-09-adults-dont-masked.html"
-ampWebUrl: "https://medicalxpress.com/news/2022-09-adults-dont-masked.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-adults-dont-masked.amp"
+excerpt: "Many people might have assumed their ability to recognize people's faces despite their mask would improve over time, but not according to new research by scientists. Researchers found repeated exposure of masked faces throughout the pandemic has made zero difference in adults' ability to recognize these half-hidden faces."
+publishedDateTime: 2022-09-13T19:58:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/09/220913140857.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/09/220913140857.htm"
 type: article
-quality: 37
-heat: 37
-published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/mask-3.jpg"
-    width: 2880
-    height: 2057
-    isCached: true
-
-secured: "v2CbyVKOeJmtLkSFbm8DY1TNsGVJjbddA1ocV9j01/fcxulsSGFHzDdaUvR4V3WRPoh8KsJ6bcUB/CAoTQOXdHaF30Y52biMBI7BCcrOm1bNUbTHutzvTXYqrl4kiHpj2kMT1i/jYIJ/cH0KbGAxtACG1M9vEhMJtmbO/sA+wdgDAjZHHrlP+qdHdg7xWwQ/sR24FS67sSOzqe4wsiD0JR9M8sYrIUT20ECwvgNLc0Nk19NoW1ghokcR3oXtmn+KNLDodrdSntDepp7pah0edz3KRSsP+p/sazvFvTOrO64yG8XM/AZP8xyCWzHEMeHMp5wpyg1yo9bdVJyU1v89ScS27bZjlZGEFbcvPnUnmPs=;gvPOcrWXZIvm0rO0FRYhCA=="
+secured: "sQ8J999djUboZ4F9CN3fJxszU/JJ1qAJ91g8eRN3eyBeTywgeAj9mca3TsuwdoMeAMoXMEmYsilMJSkF2Hd20XpobaviH1zurwEJ25bxj8bntbDUDSpJaIFlMy1Z/fFdp3mEzpT/7FwbaoYwcuUG4q67eSKer0BGF8q24kt2F71s4bT1aEr4aC06gj2RNiGxkb6C+uUxXmK4/z/HUgbAssyBh1FtlJ50j6fcAbNEvBaBT0GCnrafciJZQY0mvlN5yyOyv9YWuoXwc9SeIzliDqmncVVsdBo7WnC65os51Gck6riKNxep7uf2lj/ripgJ6yzO1B+XHpfwwP0Pvdd+bS3UNSZRh9JPtavlyIgqPgI=;SWL9I9+JY2FS5Z7Vq3MpNA=="
 ---
 
