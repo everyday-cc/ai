@@ -36,7 +36,7 @@ related:
     provider:
       name: techxplore
       domain: techxplore.com
-    quality: 53
+    quality: 70
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/new-method-for-compari.jpg"
         width: 896

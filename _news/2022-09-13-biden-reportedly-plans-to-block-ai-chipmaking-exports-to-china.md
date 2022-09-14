@@ -49,6 +49,20 @@ related:
         width: 346
         height: 383
         isCached: true
+  - title: "US' planned curbs on chip exports seen as tech hegemony"
+    excerpt: "Washington's reported plan to broaden curbs on US shipments of artificial intelligence chips to China is an act of technological hegemony that will further weigh down on the global semiconductor industrial chain and harm the interests of US chip companies,"
+    publishedDateTime: 2022-09-14T01:07:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202209/13/WS63209b52a310fd2b29e77687.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202209/14/63211420a310fd2beca153b1.jpeg"
+        width: 561
+        height: 374
+        isCached: true
   - title: "Reports of Broadening Ban on AI Chip Exports to China Will Only Increase Uncertainty - Analyst"
     excerpt: "The U.S. government is considering further broadening curbs on exports of top AI chips to China, Reuters reports. The plan is to update regulations next month to include three new companies - KLA Corp (NASDAQ: KLAC ),"
     publishedDateTime: 2022-09-12T12:20:00Z

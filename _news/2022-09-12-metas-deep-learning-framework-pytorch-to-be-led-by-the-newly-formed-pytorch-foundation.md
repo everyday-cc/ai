@@ -104,6 +104,20 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "Meta launches new AI project called PyTorch"
+    excerpt: "Mark Zuckerberg has announced that the PyTorch framework project will transition to a newly launched PyTorch Foundation."
+    publishedDateTime: 2022-09-13T12:14:00Z
+    webUrl: "https://www.socialsamosa.com/2022/09/meta-launches-new-ai-project-called-pytorch/"
+    type: article
+    provider:
+      name: Social Samosa
+      domain: socialsamosa.com
+    quality: 56
+    images:
+      - url: "https://www.socialsamosa.com/wp-content/uploads/2022/09/8-68.jpg"
+        width: 803
+        height: 419
+        isCached: true
   - title: "Meta Transitions PyTorch to the Linux Foundation, Further Accelerating AI/ML Open Source Collaboration"
     excerpt: "PyTorch Foundation to foster an ecosystem of vendor-neutral projects alongside founding members AMD, AWS, Google Cloud, Meta, Microsoft Azure, and NVIDIA DUBLIN , Sept. 12, 2022 /PRNewswire/ -- The Linux Foundation,"
     publishedDateTime: 2022-09-12T15:30:00Z

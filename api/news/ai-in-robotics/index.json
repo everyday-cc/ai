@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-14-nikes-sneaker-cleaning-robot-is-like-a-car-wash-for-shoes.md",
+      "title": "Nike's Sneaker-Cleaning Robot Is Like a Car Wash for Shoes",
+      "excerpt": "Nike's new robot-powered system for cleaning and repairing kicks. At first glance, Big BILL looks like the ultimate Rube Goldberg machine (a contraption intentionally designed to complicate a simple task).",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/culture/fashion/nikes-sneaker-cleaning-robot-is-like-a-car-wash-for-shoes/",
+      "originalUrl": "https://www.cnet.com/culture/fashion/nikes-sneaker-cleaning-robot-is-like-a-car-wash-for-shoes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/8919002038ce59db805af029082728dec9276515/2022/09/13/c78420d1-c75d-46be-a0b3-ab6d56f5b794/bill2-1.jpg?auto=webp",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nikes-sneaker-cleaning-robot-is-like-a-car-wash-for-shoes/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nikes-sneaker-cleaning-robot-is-like-a-car-wash-for-shoes/",
+      "publishedDateTime": "2022-09-13T17:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-13-the-startup-making-robotic-arms-more-accessible-and-less-complicated.md",
       "title": "The Startup Making Robotic Arms More Accessible And Less Complicated",
       "excerpt": "Ally Robotics, a startup specializing in AI-powered robotic arms, is working on doing just that. Ally is ushering in a new era of robotics—and giving early investors a unique opportunity to join the golden age.",
@@ -94,50 +146,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-11-artificial-intelligence-could-be-a-great-equaliser.md",
-      "title": "Artificial intelligence could be a great equaliser",
-      "excerpt": "The benefits of AI will accrue not only to the wealthy and technologists but also to the poor and disadvantaged",
-      "sourceUrl": null,
-      "webUrl": "https://www.tbsnews.net/bloomberg-special/artificial-intelligence-could-be-great-equaliser-493954",
-      "originalUrl": "https://www.tbsnews.net/bloomberg-special/artificial-intelligence-could-be-great-equaliser-493954",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/09/11/artificial_intelligence_bloomberg.png?itok=YaR44HUe",
-          "width": 600,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tbsnews.net/bloomberg-special/artificial-intelligence-could-be-great-equaliser-493954?amp",
-      "cdnAmpWebUrl": "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/bloomberg-special/artificial-intelligence-could-be-great-equaliser-493954?amp",
-      "publishedDateTime": "2022-09-10T20:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tbsnews",
-        "domain": "tbsnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
       ]
     },
     {

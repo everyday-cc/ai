@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Corporation (MSFT) 2022 Goldman Sachs Communacopia + Technology Conference 2022 (Transcript)"
+    excerpt: "Goldman Sachs Communacopia + Technology Conference 2022 September 12, 2022 06:00 PM ET Company Participants Judson Althoff - EVP and"
+    publishedDateTime: 2022-09-13T04:27:00Z
+    webUrl: "https://seekingalpha.com/article/4540556-microsoft-corporation-msft-2022-goldman-sachs-communacopia-technology-conference-2022"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 23
+    images:
+      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "Microsoft Corporation (MSFT) Presents at 2022 Goldman Sachs Communacopia + Technology Conference 2022 (Transcript)"
     excerpt: "Goldman Sachs Communacopia + Technology Conference 2022 September 12, 2022 06:00 PM ET Company Participants Judson Althoff - EVP and"
     publishedDateTime: 2022-09-13T04:27:00Z

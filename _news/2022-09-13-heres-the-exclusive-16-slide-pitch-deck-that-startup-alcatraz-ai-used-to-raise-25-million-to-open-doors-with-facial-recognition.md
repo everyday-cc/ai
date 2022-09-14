@@ -7,8 +7,8 @@ originalUrl: "https://www.businessinsider.com/ai-startup-alcatraz-ai-tech-pitch-
 webUrl: "https://www.businessinsider.com/ai-startup-alcatraz-ai-tech-pitch-deck-2022-9"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Business Insider
@@ -44,6 +44,15 @@ related:
         width: 2048
         height: 1152
         isCached: true
+  - title: "SIlicon Valley startup Alcatraz AI raised $25M for its door security service that works like Apple's Face ID"
+    excerpt: "Alcatraz AI has developed a system for verifying who can enter particular places that works much like the facial recognition system offered by @Apple on the #iPhone. #security #facialrecognition #Earl"
+    publishedDateTime: 2022-09-13T21:52:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2022/09/13/silicon-valley-startup-raises-25m-for-face-system.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "WrK9jvFokqC1vCku7IR9ZguQuDt2ROKDagNkPX+ngDdukLZh02sS6V14Ng+iD4Rrs1pwc1+9TaZ1IiDLXLGPOjoMnxdTxB2Pt/DA2Vb1c7kzVRE4Q0Ur6R0Ov4/ym5C2U5xZmXSmWsB4pQDiZaY+1kdwOlcuut7t7Xh/+ZqX80cSOF95/pBAqzMHxECzFRFVB/W9I5cYu+pcHyxCudXegop1EdlvUB9VBwhEPyJXeoAPnp1IAHwg+IiqW7NlkLgEdMZEJ6YUi9Jzf5i8qRsaSEHmcC2YLs+9M7z02OXyoVzz5jCn/C/lMe9uCpldyYPqQN7e198mbG/Pv9JlgKMr9/pfrJtGHytihcNOzdrX5oaNo0SGbiJmPs9PMB1KQS7nUD0iRePKgvCmS7+oPTi4iVP/qf8SpfQasTvcvRiXKcEH3A+BpfnNUYwtrh742OILjt4cSpW+aFcJN9+Ari8lG8Lytd9gsmcoLDVYt1yKBoNxjRu5dmxi0/1ivarT37wEXgt/SErRJxna01ybuGczFg==;bEmqEB2PbEHVADJFr2qfjg=="
 ---

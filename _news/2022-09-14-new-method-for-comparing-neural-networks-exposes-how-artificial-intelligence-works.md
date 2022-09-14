@@ -8,9 +8,9 @@ webUrl: "https://techxplore.com/news/2022-09-method-neural-networks-exposes-arti
 ampWebUrl: "https://techxplore.com/news/2022-09-method-neural-networks-exposes-artificial.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-method-neural-networks-exposes-artificial.amp"
 type: article
-quality: 53
-heat: 63
-published: false
+quality: 70
+heat: 80
+published: true
 
 provider:
   name: techxplore
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - Machine Learning
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/new-method-for-compari.jpg"

@@ -5,10 +5,12 @@ excerpt: "A new EU AI Act draft shows that regulatory oversight of AI and the da
 publishedDateTime: 2022-09-13T18:07:00Z
 originalUrl: "https://venturebeat.com/ai/what-the-eu-ai-act-means-for-the-insurance-industry/"
 webUrl: "https://venturebeat.com/ai/what-the-eu-ai-act-means-for-the-insurance-industry/"
+ampWebUrl: "https://venturebeat.com/ai/what-the-eu-ai-act-means-for-the-insurance-industry/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/what-the-eu-ai-act-means-for-the-insurance-industry/amp/"
 type: article
-quality: 47
-heat: 47
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: VentureBeat
@@ -20,7 +22,14 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
-secured: "xEC2JVWtemF5tSNpJxwPsHHbjb87Fai6M02WjXJsjbH4p5IepixsmEXV4MmQiAfiPi7kCPc5tSAVkR87Zyl644lTy8KVAM+T+teInzBodVXriRNZoMR6wNvrtTj/t7Ri1iGYUI3/qh1ECpHJ0HXFdXwdD3bvMSMiIJzBIyhuyrB3wGQdiweS/1Jjb96OLdGu8EogUl6V0f7E5oNqdJBpfyKvQ2LzYw1/V06AIrx3XLksqTVmBgW7h7KPYDacPc/l6FQJ7r1gHPbvkJSExTxh/UaMlT1tX/WaArI7ZCgxbR8tSsRhdQJWGYht9BLHLlboi3RFiDxliifdttA5vtWJFmA15MViXWShTRcquAzx3CLb2CxVusjf8fVXYosVhLbYiqrf03a/9CvvUef31H6LCfR8LfKkF3Yxg8owfB4Rx3r/1KTVpTwvsu6rhGwJtnCnGWKypb05k716FEwMj2HRVXP4l/1soGz9nu02yqPk8zsg7XeEVLKtxhcL09qHwRjNhJ0tAGiyXoV/MdUlCcAbvg==;JhVTYKcAE/CehSmwzNdE8A=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1037155966.jpg?w=1200&strip=all"
+    width: 1200
+    height: 659
+    isCached: true
+
+secured: "q8EscVcIgMo6YcLrIUj+C4TrvOfOIpUvb2ni8jNg8KwXrMCqS+owOTCEfUaTh3Ml/XqUR7UcUI58AgGDjvzIlVccbfb0pm4iE4JbVwgkmPof+lZ6Jfbkhu1R+p5vkeRxXoBEOiw6vLyucN/tzZR7+ng5vIBHjFIlgoiBaJsyE2E7FvxhxD7WQlg36PTZ/OOBX4xJrP48AMBBAWAtS+KNUOcsZwjbQwi7wS9a5I/L0l2FYp5aXVOM/VlzdwzVp9KLV7HfqUqLTPnJQSwpr21vZ6Aog6k0P402xLN4TJVSPiPCr76HpfrcJtHgn4zxdvexGY1fsen6Xmv2NWV3L8PYyXemCpTCNFluClQdySZxTwc=;uI0YpcOuUXLkuWyQtq81uA=="
 ---
 

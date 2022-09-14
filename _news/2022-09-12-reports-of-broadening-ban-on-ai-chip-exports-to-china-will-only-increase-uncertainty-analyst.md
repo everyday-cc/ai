@@ -49,6 +49,20 @@ related:
         width: 346
         height: 383
         isCached: true
+  - title: "US' planned curbs on chip exports seen as tech hegemony"
+    excerpt: "Washington's reported plan to broaden curbs on US shipments of artificial intelligence chips to China is an act of technological hegemony that will further weigh down on the global semiconductor industrial chain and harm the interests of US chip companies,"
+    publishedDateTime: 2022-09-14T01:07:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202209/13/WS63209b52a310fd2b29e77687.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202209/14/63211420a310fd2beca153b1.jpeg"
+        width: 561
+        height: 374
+        isCached: true
   - title: "Biden reportedly plans to block AI chipmaking exports to China"
     excerpt: "Semiconductors and AI are increasingly valuable for medical devices as smaller sensors and algorithms collect and crunch more data than ever."
     publishedDateTime: 2022-09-12T18:08:00Z

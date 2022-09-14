@@ -9,8 +9,8 @@ ampWebUrl: "https://www.tbsnews.net/bloomberg-special/artificial-intelligence-co
 cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/bloomberg-special/artificial-intelligence-could-be-great-equaliser-493954?amp"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: tbsnews
@@ -26,22 +26,6 @@ images:
     width: 600
     height: 314
     isCached: true
-
-related:
-  - title: "Artificial Intelligence Could Be a Great Equalizer"
-    excerpt: "The benefits of AI will accrue not only to the wealthy and technologists but also to the poor and disadvantaged."
-    publishedDateTime: 2022-09-09T08:52:00Z
-    webUrl: "https://www.washingtonpost.com/business/artificial-intelligence-could-be-agreat-equalizer/2022/09/09/bd246350-3037-11ed-bcc6-0874b26ae296_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
 
 secured: "eTrtNJB+SC7ECe3gVDyp1grOEhFSVv9tEPQ5OQ0vOR8iBUaIor7sfxJlgOq2dujz3IaANoibj8RbX4h6f19cDLR8GKxHWnRWN95joH9cIVzJpKw2+7spNx4M/jku6I4BNqWioS+EhPXQZDAtNI8JP4VE+hSuYrsTeHSx+svsZ3WgeJ2jKWan1n81CK+jB+7Nw9fq6W4VVRpZbJDSr0J3Y5WXSrJe9w5fM3I4oAhB3UgYG3/CIcQn/ZAwqf73nPJOGpCGArJbfRwX/1MnDTMtWbfuKGZ6GWW/BgwnQC7pWjaGi0V9lsTLeUZcT8PYN5X58uSVJOf0AdSpfAtRhdFw1JlIF7holigiMjXT3BjVSsA=;TPeM6FX6odFi/abbVTipmg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/facebooks-pytorch-ai-ignite
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebooks-pytorch-ai-ignites-at-the-linux-foundation/"
 type: article
 quality: 106
-heat: 226
+heat: 236
 published: true
 
 provider:
@@ -93,6 +93,20 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1638449640/itpro/pytorch_meta_aws_GettyImages-1236945622.jpg"
         width: 1260
         height: 710
+        isCached: true
+  - title: "Meta launches new AI project called PyTorch"
+    excerpt: "Mark Zuckerberg has announced that the PyTorch framework project will transition to a newly launched PyTorch Foundation."
+    publishedDateTime: 2022-09-13T12:14:00Z
+    webUrl: "https://www.socialsamosa.com/2022/09/meta-launches-new-ai-project-called-pytorch/"
+    type: article
+    provider:
+      name: Social Samosa
+      domain: socialsamosa.com
+    quality: 56
+    images:
+      - url: "https://www.socialsamosa.com/wp-content/uploads/2022/09/8-68.jpg"
+        width: 803
+        height: 419
         isCached: true
   - title: "Meta’s deep learning framework PyTorch to be led by the newly formed PyTorch Foundation"
     excerpt: "PyTorch artificial intelligence platform it created to the Linux Foundation ’s newly formed PyTorch Foundation. PyTorch is a deep learning framework that’s used to power hundreds of AI projects, specifically machine learning applications."
