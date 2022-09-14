@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-14T15:21:00Z
 originalUrl: "https://www.datanami.com/this-just-in/c3-ai-introduces-new-esg-application/"
 webUrl: "https://www.datanami.com/this-just-in/c3-ai-introduces-new-esg-application/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/C3_ai_logo-300x227.png"
@@ -24,6 +25,6 @@ images:
     height: 227
     isCached: true
 
-secured: "/liAc7mFLYpd3E8WeXZ/aYwUrzxNNLHxiaHwp/RfeCWXpe9ztlfECEA6U748Bq3ffozUYeZPKTgNebgrAXlhvNps8g5Q/jkhfhnE3ZzRlGwisuhLTz8OiUkaR8oQ9scj4ukQc4unHNhcM1gYwSLMKGwz/WtrKeEIxNI6tk0ggMETKtcadqv6XeftDcF9M9eI7whMCCneoz5J7R1FgHdIPDYLy3pKZ9giZBgnRY6ZsBDxKuRR3JPXNm7Mg7aRn38HqVN3o88I5iYce2YeCNrpWcdhOv+JUsrDd5ILcnWFT1DrY3h+hR+HZ4gUEGEht0ITrE8euDgCHlSoSaDuBDNaWWOqtPtCCWxbItKZn8sMqos=;WodPQGKe4+1BEWDQab/whg=="
+secured: "B6giRbKlGOdWrNFeZz0EURgVWzB0b+8aCf0x+JpMJoWAzmRqSf+UCJjp8gqGDFnKHAOsRMylxZCI7G6onOQHoCIjmeWchSVvOqzq9HxxbylFJYyGaP7WgQBKZuE2S7UVN9+X1WQyVsPauxyjAXkHRJ11+rS/6uN9HOAI3fPkpvMZ5J8QNPE8YqRllmyR0W5ZuXtNbII4ItaBUh3tqbnNrwZJia/LiB4HJ6EChO/2BVsjBpRiDJA6oV0h8t4tYXDKMrYuaHWopiD1WqwBwlqumc1A4BuMXP5sY0pZc12FsGn2D6Z5UEJieQkWRbEctvE2xxD4dACLqNzhNtCUP4xVOD+CVO1DhPeHVGnLbdDFum8HlPGWrY5yUvyduF1OPBkDdHqkEpKEJR8mXTjQq8ft4YeMEXor8921S7m+onSLYFjYNF4Y4Ym6FkCOaXnB0nxJyXqbER6y4fi+4HEt0WTd7YwGFmeH6c20Y8evMA5GBcaPwerAw9UEPigkKGpCiEEq6er3GoubEfFGzGzGPk9Scg==;kpp6dJmZFctbyd4EZkpnCA=="
 ---
 

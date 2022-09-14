@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/09/13/loab-ai-generated-horror/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/13/loab-ai-generated-horror/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Scientists harness Artificial Intelligence to advance ability to measure Arctic sea ice and improve climate forecasting"
+    excerpt: "Pioneering research deploying Artificial Intelligence (AI) and satellite modelling means the thickness of Arctic sea ice can be measured all year round for the first time, bringing significant benefits for future weather forecasts and shipping in the region."
+    publishedDateTime: 2022-09-14T16:58:00Z
+    webUrl: "https://www.bristol.ac.uk/news/2022/september/arctic-sea-ice.html"
+    type: article
+    provider:
+      name: University of Bristol
+      domain: bristol.ac.uk
+    quality: 0
 
 secured: "duWFZwoC/QVk9lchnBYhfCYiLI8My3uj7DbcwbxKSnaq9VdA832JjLbvJu/OUXlN647RPlVpuUTSvOsVLQuJ11IN03ODznqHzzsnbQucrqxPr5ntH0AhLkMZMXwvcl4N7lOKH304xHmEK3sPXHiJHLqlznk/R7BLE71l0DO9PO2y+CdhWR3ZOY1c243eq+K1JYsTWIBxPvEP2IGYC59CniHjlQaZDp4Hh9D2C3tFNnbBkO7bEhBVCQd5UuLUbwAm7aKB/7LJ+hq7tGFIANSY8B05jNvWkMLmwq51cto5NszdK+9CtbkOhSLbKTtAwVZg7twOd2illiYRsScdh6gxIlMdTQojra8txSMUzGxEQ5bH0zTxmrZdw1ASvU1kVN4dehICYqjTRtzv024o8O3tKpmGDij4LdKE7xz8OunEIAMFfkmNXzLs4220f0n/ZePv/gukSZkDI6Lqlhvo5LF4IhKd0oO1B2y2GNANJOT0kctmBZM7Ixc/baPvLRnQee+TiHI2WTvwIyVU7KfQKQgQKw==;pXIeSrbBFeUdOZ/PhAlvyQ=="
 ---

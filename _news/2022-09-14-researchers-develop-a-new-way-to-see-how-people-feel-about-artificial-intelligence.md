@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2022-09-people-artificial-intelligence.html
 ampWebUrl: "https://techxplore.com/news/2022-09-people-artificial-intelligence.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-people-artificial-intelligence.amp"
 type: article
-quality: 51
-heat: 61
+quality: 53
+heat: 63
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/researchers-develop-a-15.jpg"
@@ -36,6 +37,6 @@ related:
       domain: techxplore.com
     quality: 17
 
-secured: "Aw8XeAksUJ7XPQV3d7dGW9FQNfI2qHiEpMqybacw+2cdg269hq9ZgYSAG7fV2OnqioOz07XKY8dVO1at6tpO2cTxfiKFC9mrmTBA2Ac7dfXNN+SNZuBJiEJUnyqcrfC6tdN5c629ZhC3sWZ3NdueUhwZdetOXuhKJcskrFSW4w5eVC3E9Bkn2yHtsJe2pnNXd1QWGn2OR2TX0Wy/DqMCG7vW0Z+j+Oji7rIT8nSAFQIYTfmn5spdLWoU0tAiiTLmxgLY1OQowUMl1LqcF9xuPWSN+A1LobITGVoMubzoXtw04blWeP7JsGg6q6nyvAFCMFQmhnnRYW+I9vm2x8IhYAWbUsaz418FfHq8bgKaVd0=;nk6hT+8AtHyKGOCHS8odXg=="
+secured: "q71LfTmKuFOSK6ejrgq80/Tturt/bV3VqlAJ6CVxiPBGBff+wSmh00aDzKskbJVN1MEdZGVTZB02QXfyKgFk3H5e2ZsR0+Gfe0DhhetdivUPXWd/xPKE2LP7ofpjn5/0baeqpTv9qawzAaQ7NlXDmATDoeqqpAMJm4mCH5Jp+y1hdYPSxsHOZF5EUqeDsEc3DPtUIrs0rv1/0dthhztlFETd/Flz77HF+nIXSM237fbujflVXb3gdsQO1bqiv+wjkunrRaN5DadQN+1QlKlpyxInFv6R2UIM5+tY12kD8NMdTywTryxT5ejBeESLYCZ9lrm3dHrxvN7p5gdalIA4ABCVz99xwv6x28tpq/XofOjlLO5Pf3RYzzdUoHkSg/Jgwke2N+gik/Xw9/QuBpQijC0uyZuP49Bwpbdl8a+BnuZRgA55DDhB4HwYm/zgxZqfV84YUXxq9J/oZkia07bVy7vjMWUlaNZ1L716m6SDBVrR+anqYKg605MHzIaOB2UUGmaK0Bctdj7g0Fm29iIeEQ==;FmLx01IWcQM01S9CNffk1w=="
 ---
 

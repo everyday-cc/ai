@@ -51,17 +51,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 64
-  - title: "Report Identifies Ethical Challenges, Risks with the Use of Artificial Intelligence in Healthcare"
-    excerpt: "A recent report released by World Health Organisation (WHO), has identified the ethical challenges and risks with the use of Artificial Intelligence (AI) in healthcare. The report however gave six ..."
-    publishedDateTime: 2022-09-09T23:59:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2021/08/12/report-identifies-ethical-challenges-risks-with-the-use-of-artificial-intelligence-in-healthcare/"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2021/08/12/report-identifies-ethical-challenges-risks-with-the-use-of-artificial-intelligence-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/08/12/report-identifies-ethical-challenges-risks-with-the-use-of-artificial-intelligence-in-healthcare/amp/"
-    type: article
-    provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 58
 
 secured: "Fqb0rvNsDd+6MsYrY1GV29Bq5yL1aUCpqbU8Ed8MYq+5+FV3jWFB7Bi6jM0iKJJIT+WrmhHWfDSrx09A9TYKTFHY4ea3opnqnPalRbxJkZV24pshh0+TDuD/Qv2P0VJjN41y7hp8SPpoUkgJuzdA1JjsDvgOI+gfyrzaxjTI4tZNYSMUKGbwNK3yM4VyWVprTf143/twP0ts7ThYDNqZPaSJ227pu0cdlf6O7AT6uVjD3qKqaz1mgjBY3GDJJzYPM8qc+wIh0Pq/ZG3Zj3qvitkodHIF/WDBVTlAmbH+6F8FWo2XEmnubH6mepAR74J6nMjSycxzQXEqCq+Lk19yXopwZqyV4KGQ6dok8yYAbbQ=;Li80AHzhEuSWNolhGRHZVw=="
 ---

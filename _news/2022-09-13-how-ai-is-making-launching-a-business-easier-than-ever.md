@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 625
         isCached: true
+  - title: "Scientists harness Artificial Intelligence to advance ability to measure Arctic sea ice and improve climate forecasting"
+    excerpt: "Pioneering research deploying Artificial Intelligence (AI) and satellite modelling means the thickness of Arctic sea ice can be measured all year round for the first time, bringing significant benefits for future weather forecasts and shipping in the region."
+    publishedDateTime: 2022-09-14T16:58:00Z
+    webUrl: "https://www.bristol.ac.uk/news/2022/september/arctic-sea-ice.html"
+    type: article
+    provider:
+      name: University of Bristol
+      domain: bristol.ac.uk
+    quality: 0
 
 secured: "N6iCStjLtxh76L3RKYC7XLBMOIobyqPlMztItjIIT/spHlt31lF2bcP1wG6WJExmqs4Aty5w+zs1C4YIIEqLdTE6MQenEQCuQ/Sr8kyxgeVIn1//yJfP2eBhnRquGtsHTn6zYTNeKmalk+1zCGiaCIDKFxhhFbdfWr+bwnBz1hQMI0UWX9lWXniCM/HZCjrLVbVwzBfg+h4T76yOyhdt7lat+XM7ljn01BQUimtb/pLXuO0/bQkIKFRf8XQRNA2ejCgovTOaCc0yRGinzVBRLgMECMihqPM53nSzDK/XroYPoZZFRO87ZjfdSbjtk5eiciPLjp4pQ3kHNCXJVSv5XJBkwwg/psX2e4GjdtylogSzFnkDw6ICBiB0U+Emgipqh34gY2DLcXbzPAY9PJyN6wl9mqNYUbUlgIJu0vWML6495Fg+fWgho6YI6ZrHtL+x9grqd8aUmmQPKgmpdCsQBjzTQFTlKdZXj0W/YOa9ru/dPY+xziBwrbDKjsf0GNxIbjCcCMn+LDqPhYopI2dr4A==;bE4F5mxrGvCVTRSaM0j8hQ=="
 ---

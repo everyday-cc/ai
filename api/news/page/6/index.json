@@ -2,6 +2,110 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-09-06-xiaomi-launches-the-mijia-cooking-robot-with-22l-capacity-voice-control-more.md",
+      "title": "Xiaomi launches the MIJIA Cooking Robot with 2.2L capacity, voice control & more!",
+      "excerpt": "The MIJIA Cooking Robot uses CookingIoT algorithms to control the cooking process and OTA updates will be available for improvement. It also offers a wide range of resolution speeds between 40rpm ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2022/09/05/xiaomi-mijia-cooking-robot-2-2l-capacity-voice-control-more/",
+      "originalUrl": "https://www.gizmochina.com/2022/09/05/xiaomi-mijia-cooking-robot-2-2l-capacity-voice-control-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2022/09/MIJIA-Cooking-Robot.jpeg",
+          "width": 849,
+          "height": 637,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2022/09/05/xiaomi-mijia-cooking-robot-2-2l-capacity-voice-control-more/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/09/05/xiaomi-mijia-cooking-robot-2-2l-capacity-voice-control-more/?amp=1",
+      "publishedDateTime": "2022-09-06T01:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-analysis-banned-us-ai-chips-in-high-demand-at-chinese-state-institutes.md",
+      "title": "Analysis: Banned U.S. AI chips in high demand at Chinese state institutes",
+      "excerpt": "BEIJING, Sept 6 (Reuters) - High-profile universities and state-run research institutes in China have been relying on a U.S. computing chip to power their artificial intelligence (AI) technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/banned-us-ai-chips-high-demand-chinese-state-institutes-2022-09-06/",
+      "originalUrl": "https://www.reuters.com/technology/banned-us-ai-chips-high-demand-chinese-state-institutes-2022-09-06/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/6PPgsGqlMbgAdLURAKyiZjWE3Lg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MS4ITRKXBNOK7KEAYK3LCUC5OY.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-05T23:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-06-ai-in-fintech-market-inclinations-and-development-status-highlighted-during-forecast-period-2022-to-2027.md",
       "title": "AI in Fintech Market Inclinations and Development Status Highlighted During Forecast Period 2022 to 2027",
       "excerpt": "Report Ocean recently added a research report on the AI in Fintech market. The report includes an extensive analysis of the market's characteristics, COVID-19 impact, size and growth, segmentation, regional and country breakdowns,",
@@ -1054,94 +1158,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-05-is-big-brother-britain-about-to-become-the-worlds-ultimate-surveillance-state.md",
-      "title": "Is Big Brother Britain about to become the world's ultimate surveillance state?",
-      "excerpt": "Made by Dahua, a Chinese state-affiliated company, they are equipped with controversial facial recognition software — a means of monitoring and controlling populations much favoured by Beijing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/news/article-11179641/Is-Big-Brother-Britain-worlds-ultimate-surveillance-state.html",
-      "originalUrl": "https://www.dailymail.co.uk/news/article-11179641/Is-Big-Brother-Britain-worlds-ultimate-surveillance-state.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/09/05/00/62053565-0-image-a-21_1662334745315.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/news/article-11179641/amp/Is-Big-Brother-Britain-worlds-ultimate-surveillance-state.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-11179641/amp/Is-Big-Brother-Britain-worlds-ultimate-surveillance-state.html",
-      "publishedDateTime": "2022-09-04T17:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-05-us-startup-simaai-starts-shipping-machine-learning-chip-and-system.md",
-      "title": "US startup SiMa.ai starts shipping machine learning chip and system",
-      "excerpt": "SiMa.ai/Handout via REUTERS Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management & Research Company, said on Tuesday it started shipping chips and systems to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/business/us-startup-simaai-starts-shipping-machine-learning-chip-and-system-2909851",
-      "originalUrl": "https://www.channelnewsasia.com/business/us-startup-simaai-starts-shipping-machine-learning-chip-and-system-2909851",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://onecms-res.cloudinary.com/image/upload/s--SCNbkIjv--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-08-30t130839z_1_lynxmpei7t0is_rtroptp_3_chips-sima.jpg?itok=B6EN0Egl",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-04T14:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI Hardware",
-        "AI in Robotics"
       ]
     }
   ],

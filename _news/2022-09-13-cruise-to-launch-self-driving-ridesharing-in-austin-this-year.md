@@ -58,6 +58,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 44
+  - title: "Most Americans feel less safe in self-driving cars, survey says"
+    excerpt: "A large majority of people would feel less safe either driving or riding in self-driving cars, according to a new survey."
+    publishedDateTime: 2022-09-14T17:04:00Z
+    webUrl: "https://www.washingtontimes.com/news/2022/sep/14/most-americans-feel-less-safe-self-driving-cars-su/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2022/sep/14/most-americans-feel-less-safe-self-driving-cars-su/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2022/sep/14/most-americans-feel-less-safe-self-driving-cars-su/"
+    type: article
+    provider:
+      name: The Washington Times
+      domain: washingtontimes.com
+    quality: 44
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2019/08/13/8_132019_ap-191128170208578201_c0-177-4242-2651_s1200x700.jpg?8bcc36d5a145d7328b072705ef4a9c5bffac23b0"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "tWsGOrU7oRi+RUN7MoSaMYVmO/z88k2eNvUmRs2MiYvXpU8pMxFpWJiwO8wkDX829BM1XJjdKeT3+DMBXhCSvI240/ixSxWV/fclr0rWXvOpHSFmeoRhr5BqtMMXQPqQXmvRtMiiIEMFGGTjmXW1qnWZjyUrAuKpXi5/XeVXwSgP1LSkdUoO+qD0KOlpj2ckq5IcP57c0+I1VRsRdu6L3n9Zf0syh1KKiLgpnF1ZcvVRVpy8dSYGXfAKC/s393bMFAJY4f+pv+5tdQOOlbKXrfBt3E41otwwAOvb/5SMnlQVvlkYcWbwzsTKVSnXP83n9tnYXrkBJWb4jdVW3maSXSVzSHfUZVetDGHN8jySRDurjsAwk1V1FvheXDnuNMfN/VnQZzyWc3F5ypg1QfTABotG1P+HpYzt6tgoh8ccWydb83h80ZsBPauPe0idfD7V930jTuv1gMboXgZN/JbQhM6u2J8iAezJXvhyMkTFY5iQ5gMTy0DTUU8EfOpevdC67a0Ov2hWfH6kF9ZQY2Ec0A==;Xe9ktPVP68lQrO4Z7UGemQ=="
 ---

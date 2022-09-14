@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-07-23-machine-learning-hiring-levels-in-the-retail-banking-industry-rose-in-june-2022.md",
+      "title": "Machine learning hiring levels in the retail banking industry rose in June 2022",
+      "excerpt": "Retail banking sector hiring for machine learning related positions kept relatively steady in June 2022 compared with June last year",
+      "sourceUrl": null,
+      "webUrl": "https://www.retailbankerinternational.com/analysis/machine-learning-hiring-levels-in-the-retail-banking-industry-rose-in-june-2022/",
+      "originalUrl": "https://www.retailbankerinternational.com/analysis/machine-learning-hiring-levels-in-the-retail-banking-industry-rose-in-june-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.retailbankerinternational.com/wp-content/uploads/sites/2/2022/07/oJp5H-1038x778.png",
+          "width": 1038,
+          "height": 778,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-22T15:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "retailbankerinternational",
+        "domain": "retailbankerinternational.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-07-22-cybersecurity-ceo-enlisting-machine-learning-to-combat-fraud.md",
       "title": "Cybersecurity CEO: Enlisting Machine Learning to Combat Fraud",
       "excerpt": "With regards to using artificial intelligence, we use machine learning very heavily, and that's just because of the sheer volume of traffic we're looking for adversaries and their trends can be quite low volume compared to the aggregate.",
@@ -1233,58 +1277,6 @@
         "Microsoft AI",
         "AI in Finance",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-april-taps-ai-to-help-personalize-and-autofill-tax-filings.md",
-      "title": "April taps AI to help personalize and autofill tax filings",
-      "excerpt": "April, a startup developing a system to help personalize tax filings by pulling information from various apps and systems, has raised $30 million in a venture funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/29/april-taps-ai-to-help-personalize-and-autofill-tax-filings/",
-      "originalUrl": "https://techcrunch.com/2022/06/29/april-taps-ai-to-help-personalize-and-autofill-tax-filings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/closed_loop1.png?w=444",
-          "width": 444,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/29/april-taps-ai-to-help-personalize-and-autofill-tax-filings/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/29/april-taps-ai-to-help-personalize-and-autofill-tax-filings/amp/",
-      "publishedDateTime": "2022-06-29T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

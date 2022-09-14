@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Analysis-Banned U.S. AI Chips In High Demand At Chinese State Institutes"
-excerpt: "High-profile universities and state-run research institutes in China have been relying on a U.S. computing chip to power their artificial intelligence (AI) technology but whose export to the ..."
-publishedDateTime: 2022-09-06T13:47:00Z
-originalUrl: "https://www.ibtimes.com/analysis-banned-us-ai-chips-high-demand-chinese-state-institutes-3609766"
-webUrl: "https://www.ibtimes.com/analysis-banned-us-ai-chips-high-demand-chinese-state-institutes-3609766"
-ampWebUrl: "https://www.ibtimes.com/analysis-banned-us-ai-chips-high-demand-chinese-state-institutes-3609766?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/analysis-banned-us-ai-chips-high-demand-chinese-state-institutes-3609766?amp=1"
+title: "Analysis: Banned U.S. AI chips in high demand at Chinese state institutes"
+excerpt: "BEIJING, Sept 6 (Reuters) - High-profile universities and state-run research institutes in China have been relying on a U.S. computing chip to power their artificial intelligence (AI) technology ..."
+publishedDateTime: 2022-09-06T06:58:00Z
+originalUrl: "https://www.reuters.com/technology/banned-us-ai-chips-high-demand-chinese-state-institutes-2022-09-06/"
+webUrl: "https://www.reuters.com/technology/banned-us-ai-chips-high-demand-chinese-state-institutes-2022-09-06/"
 type: article
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://d.ibtimes.com/en/full/3813247/logo-nvidia-corporation-seen-during-annual-computex-computer-exhibition-taipei.jpg"
+  - url: "https://www.reuters.com/resizer/6PPgsGqlMbgAdLURAKyiZjWE3Lg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MS4ITRKXBNOK7KEAYK3LCUC5OY.jpg"
     width: 1200
-    height: 800
+    height: 628
     isCached: true
 
-secured: "ahynMQD5gOif6K14NoiwTYEabub3+qETpLXZh//qbhRlKsMI3/Qip5cx7HNlkgz/hC89vnWyEirTdyyOHBPSLf4ttwbcW0K+pznVqs1vYVNcchSa8PC1mm5wxCesiugsgU5yc4lkPIvhej84VN18CDQWwgZwz8rEynTQjhe1N11rDu2tIBOhH4FH6ZjbD6qmAEhv3ezN4lUl688mbprU4Llo/WUVnW8/sK+0LC+lLJZR9QpMOniCCLJpFikJmE50itJj3FUkD7fGV2qOUX+5BZvH5JC9gbu5nHSDtwylMoOyjqSGEdqp9u6JnF+xbCwdP4NjP1VX0mHID+y/ZbeVbnD/qt61Rf0iAmLJxFcZSHg=;hgBy9zMj1JVvE6vQx3K0dw=="
+secured: "HOcMFGTe2cvbdjY2JJIo0VhPiHaiLrgkbVqkQeiSLwhKgWOKXpQoeQwbk6BUirHxE8OXGCFg/08+wRvJNWAOVPRJ2rGISaDhFqFop5Z1RUcbKYmOndwEF87TDwxgCsJOPRlscl2IkbOa3HBvpKGQy4nRlqZDh7pVNTZj/suwriOZ9GJfjjnLA47Z6s9X0FIOtQ7JtSgkJ7lImU4/Zhd+Js+r9BdiKkJxiwn8h2lDbjgo6QMeJmPQVf92I83mBRFtoZdSyeEVZdz3MN5f5kjFW+hsRPOFPJOdRYVw6R6yr5SSiefBmluzJOjE/d7QcG9rUhlObA4apaeHHkDAW4kePcFbgHYXOhsN+N9kPTw87cM=;wzyId/9Y3NWYNkD5JwU8cg=="
 ---
 

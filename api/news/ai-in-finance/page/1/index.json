@@ -331,6 +331,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-05-how-can-emerging-technologies-boost-the-fintech-and-payments-ecosystem.md",
+      "title": "How Can Emerging Technologies Boost The Fintech And Payments Ecosystem?",
+      "excerpt": "FinTech has emerged as one of the biggest beneficiaries ... technologies like Artificial Intelligence (AI) and Machine Learning (ML) have become a household name. It was only a matter of time ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessworld.in/article/How-Can-Emerging-Technologies-Boost-The-Fintech-And-Payments-Ecosystem-/05-09-2022-445195/",
+      "originalUrl": "https://www.businessworld.in/article/How-Can-Emerging-Technologies-Boost-The-Fintech-And-Payments-Ecosystem-/05-09-2022-445195/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.businessworld.in/article/article_extra_large_image/1662370112_tIlbqV_tech_fintech.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Businessworld",
+        "domain": "businessworld.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-02-liquidnet-emea-business-development-head-departs-for-ai-fintech-imandra.md",
       "title": "Liquidnet EMEA business development head departs for AI fintech Imandra",
       "excerpt": "Liquidnet’s former head of business development for EMEA has left the firm to join artificial intelligence (AI) fintech Imandra in a similar role, The TRADE can reveal. Dan Squires has been appointed as a vice president of sales at Imandra after spending ...",
@@ -1270,40 +1313,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-ai-in-fintech-market-is-estimated-to-register-a-strong-cagr-of-165-cagr-from-2022-2032-future-market-insights-inc.md",
-      "title": "AI In Fintech Market is Estimated to Register a Strong CAGR of 16.5% CAGR from 2022-2032 | Future Market Insights, Inc.",
-      "excerpt": "The overall AI in fintech market is evaluated at US$ 10.1 Billion in 2021 and is projected to obtain US$ 11.76 Billion by 2022m according to a report disseminated by ESOMAR-ensured Future Market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-is-estimated-to-register-a-strong-cagr-of-16-5-cagr-from-2022-2032-future-market-insights-inc",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-is-estimated-to-register-a-strong-cagr-of-16-5-cagr-from-2022-2032-future-market-insights-inc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T00:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

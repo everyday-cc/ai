@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/09/14/how-ai-and-machi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/09/14/how-ai-and-machine-learning-will-impact-the-future-of-healthcare/amp/"
 type: article
 quality: 121
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -41,17 +41,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 64
-  - title: "Report Identifies Ethical Challenges, Risks with the Use of Artificial Intelligence in Healthcare"
-    excerpt: "A recent report released by World Health Organisation (WHO), has identified the ethical challenges and risks with the use of Artificial Intelligence (AI) in healthcare. The report however gave six ..."
-    publishedDateTime: 2022-09-09T23:59:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2021/08/12/report-identifies-ethical-challenges-risks-with-the-use-of-artificial-intelligence-in-healthcare/"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2021/08/12/report-identifies-ethical-challenges-risks-with-the-use-of-artificial-intelligence-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/08/12/report-identifies-ethical-challenges-risks-with-the-use-of-artificial-intelligence-in-healthcare/amp/"
-    type: article
-    provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 58
   - title: "Health care researchers must be wary of misusing AI"
     excerpt: "An international team of researchers, writing in the journal Nature Medicine, advises that strong care needs to be taken not to misuse or overuse machine learning (ML) in health care research."
     publishedDateTime: 2022-09-13T14:52:00Z

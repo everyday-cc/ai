@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "AI is coming on strong in federal civilian agencies"
-    excerpt: "To gage the state of AI and RPA adoption by non-defense agencies, Federal News Network convened a panel of agency and industry experts and got their views."
-    publishedDateTime: 2022-09-09T23:04:00Z
-    webUrl: "https://federalnewsnetwork.com/federal-insights/2022/09/ai-is-coming-on-strong-in-federal-civilian-agencies/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 41
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2022/09/GettyImages-1331059443.jpg"
-        width: 2243
-        height: 1337
-        isCached: true
   - title: "Ambient.ai unveils weapon and early-warning detection capabilities"
     excerpt: "Ambient.ai announced new threat detection and response capabilities, including the ability to identify weapons like firearms and knives and the precursors to high-severity incidents like unauthorized entry and crowd commotion."
     publishedDateTime: 2022-09-10T18:46:00Z

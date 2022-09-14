@@ -1,0 +1,42 @@
+---
+category: news
+title: "There’s no Tiananmen Square in the new Chinese image-making AI"
+excerpt: "The new text-to-image AI developed by Baidu can generate images that show Chinese objects and celebrities more accurately than existing AIs. But a built-in censorship mechanism will filter out politically sensitive words."
+publishedDateTime: 2022-09-14T16:07:00Z
+originalUrl: "https://www.technologyreview.com/2022/09/14/1059481/baidu-chinese-image-ai-tiananmen/"
+webUrl: "https://www.technologyreview.com/2022/09/14/1059481/baidu-chinese-image-ai-tiananmen/"
+ampWebUrl: "https://www.technologyreview.com/2022/09/14/1059481/baidu-chinese-image-ai-tiananmen/amp/"
+cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/09/14/1059481/baidu-chinese-image-ai-tiananmen/amp/"
+type: article
+quality: 59
+heat: 69
+published: false
+
+provider:
+  name: MIT Technology Review
+  domain: technologyreview.com
+
+topics:
+  - AI
+  - Natural Language Processing
+
+images:
+  - url: "https://wp.technologyreview.com/wp-content/uploads/2022/09/photo-redact2.jpeg?w=3000"
+    width: 3000
+    height: 1688
+    isCached: true
+
+related:
+  - title: "$10 billion Chinese gaming giant appoints world’s first AI robot CEO"
+    excerpt: "Modeled after a female human, the robot CEO will mainly help streamline the companies’ processes and enhance operational efficiency $10 billion Chinese gaming giant appoints world’s first AI robot CEO Artificial intelligence,"
+    publishedDateTime: 2022-09-13T09:11:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/10-billion-chinese-gaming-giant-appoints-worlds-first-ai-robot-ceo"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 34
+
+secured: "fmu7kHQZaNRucutketMNf5+s5l9AoUWBdCcsNZiImSmO+Z7X/YZ+lxNPwfv9yPj1OYYBYirmT0GA8YfVzo7U2bBb3GpJJJxEmet71BUHBl3bXw+yzeG3XmeuDI3jiyLJaVK5LHcqhBaG1ZD6Url4M+G+rNX0pu6HOk7yPeOb4J5jRSLRGqrcnXAFZdP9XgFH6gh6tLDtDr7Ve9O/1oDGFnqPC340ec/ZBvhWhi0tAPpQ0hIpcCzrrZ7egMh/bl7a8mQdrunMrLXstuPJekHpHnhxszjYvLlL3kgEUEK1WR/KdUsGk38doU9nhQv+ezB54yT9d0pnQodqKkm5wJVQX56X4LSPWuksfrPK9O/WrRA=;w3LLUiAzMRXSQfig9wbzSQ=="
+---
+

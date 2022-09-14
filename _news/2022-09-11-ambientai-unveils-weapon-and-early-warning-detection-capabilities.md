@@ -33,20 +33,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
-  - title: "AI is coming on strong in federal civilian agencies"
-    excerpt: "To gage the state of AI and RPA adoption by non-defense agencies, Federal News Network convened a panel of agency and industry experts and got their views."
-    publishedDateTime: 2022-09-09T23:04:00Z
-    webUrl: "https://federalnewsnetwork.com/federal-insights/2022/09/ai-is-coming-on-strong-in-federal-civilian-agencies/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 41
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2022/09/GettyImages-1331059443.jpg"
-        width: 2243
-        height: 1337
-        isCached: true
 
 secured: "qjx9AsGFjDT55Aqj9S3epWQnl6lntYP7uIAmMrVYh3FlN6X6Q4h9XzJWcUd6Js5JHJH3aquyJcjUDQNtPR9eJoWUV4SOeCmCp61aoyc2eHnZT+D9guVFb/eNqlqp1NR4jdsbz/U5eOSp+eF+pXAPVxJKztru6rbv9h3h83zJii0793hnT6CDMWM1uTKxnQC6dTMjgBZrnB/YUntrWAbEjiPX5W7uKwfzIH6C///b4XPtk0BGa2c4iUc+lgZei9OTwMX+ll6jNuBY52AacN4pXmW792PN1TfCweCR65VMb4xqm1ZWj86omICsmU8fa7fAHXa69WsvLGX7ImONR41Jc8wWj5Gs5N6WCuYp8LXCKbJRHQ+ofcny9B5DiAzM93vw5eUje1VKUC1lSEjBAMTg5UJ7IpaqCR+136SC3rMI8zPEC0q793J94K2yxwgYQcyih5bi/FhNSvvRY8W+4iXfS2J+dVvJV1nhYbR1nLdAK5hZ97t4SX9OeeSIcn3VYPQogSM+9L8dXZxCEO87GcKfWQ==;iOdl5RbhI3neQAxYmN/lrg=="
 ---
