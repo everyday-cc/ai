@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-14T18:50:00Z
 originalUrl: "https://techbeacon.com/enterprise-it/why-isnt-ai-working-your-business"
 webUrl: "https://techbeacon.com/enterprise-it/why-isnt-ai-working-your-business"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Continuous integration

@@ -2,6 +2,567 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-08-26-best-robot-vacuum-for-avoiding-dog-poop-plus-more-pet-friendly-vacuums.md",
+      "title": "Best robot vacuum for avoiding dog poop (plus more pet-friendly vacuums)",
+      "excerpt": "The iRobot Roomba j7+ is designed with the issue of dog poop in mind. This smart ... device -- the better to control the appliance remotely. The best part? This Lefant robot vacuum is priced ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/irobot-roomba-j7-robot-vacuums-avoid-dog-poop/",
+      "originalUrl": "https://www.cbsnews.com/essentials/irobot-roomba-j7-robot-vacuums-avoid-dog-poop/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/08/17/95c7974e-3fc7-4bdc-984c-a8ad7429f73c/thumbnail/1200x630/e0539f7cb83c9c07473062067a48cc39/roomba-dog-poop-header.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/irobot-roomba-j7-robot-vacuums-avoid-dog-poop/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/irobot-roomba-j7-robot-vacuums-avoid-dog-poop/",
+      "publishedDateTime": "2022-08-25T15:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-26-microsoft-continues-its-push-to-get-more-of-its-own-services-hosted-on-azure-and-kubernetes-is-key.md",
+      "title": "Microsoft continues its push to get more of its own services hosted on Azure. And Kubernetes is key",
+      "excerpt": "Microsoft still has not completed its 10-year-plus goal of moving all of its Microsoft 365 services to run on Azure. But a company-produced case study published earlier this month provided a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-continues-its-push-to-get-more-of-its-own-services-hosted-on-azure-and-kubernetes-is-key/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-continues-its-push-to-get-more-of-its-own-services-hosted-on-azure-and-kubernetes-is-key/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T15:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-26-googles-100-million-facial-recognition-lawsuit-who-can-claim-money-from-the-settlement.md",
+      "title": "Google's $100 Million Facial Recognition Lawsuit: Who Can Claim Money From the Settlement?",
+      "excerpt": "Dan is a writer on CNET's How-To team. His byline has appeared in Newsweek, NBC News, The New York Times, Architectural Digest, The Daily Mail and elsewhere. He is a crossword junkie and is interested in the intersection of tech and marginalized communities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/personal-finance/googles-100-million-facial-recognition-lawsuit-who-can-claim-money-from-the-settlement/",
+      "originalUrl": "https://www.cnet.com/personal-finance/googles-100-million-facial-recognition-lawsuit-who-can-claim-money-from-the-settlement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/95ce5ca58f4c78b55da7303cc63a9f06721a1e3d/2022/08/25/f0a2866b-e71b-40d6-9c3d-2d0c873b3407/gettyimages-1242657903.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-100-million-facial-recognition-lawsuit-who-can-claim-money-from-the-settlement/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-100-million-facial-recognition-lawsuit-who-can-claim-money-from-the-settlement/",
+      "publishedDateTime": "2022-08-25T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-26-microsoft-cloud-services-are-vulnerable-to-nefarious-cozy-bear-mfa-hacking-campaign.md",
+      "title": "Microsoft Cloud Services Are Vulnerable To Nefarious Cozy Bear MFA Hacking Campaign",
+      "excerpt": "A new report by cybersecurity firm Mandiant details an ongoing hacking campaign targeting Microsoft 365. The threat actor behind this campaign is an advanced persistent threat (APT) known as “Co ...",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/microsoft-cloud-services-vulnerable-cozy-bear-mfa-hacking-campaign",
+      "originalUrl": "https://hothardware.com/news/microsoft-cloud-services-vulnerable-cozy-bear-mfa-hacking-campaign",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "hothardware.com",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-26-tesla-full-self-driving-debate-escalates-with-legal-threats-banned-videos.md",
+      "title": "Tesla ‘full self-driving’ debate escalates with legal threats, banned videos",
+      "excerpt": "Tesla fans rushed to defend the automaker after a prominent critic released a video showing one of the company's cars with the feature it calls \"full self-driving\" plowing into child-size mannequins.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/08/25/business/tesla-dan-odowd-videos/index.html",
+      "originalUrl": "https://www.cnn.com/2022/08/25/business/tesla-dan-odowd-videos/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 206,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220825123609-03-tesla-autopilot-file-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/08/25/business/tesla-dan-odowd-videos/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/25/business/tesla-dan-odowd-videos/index.html",
+      "publishedDateTime": "2022-08-25T13:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-26-fn-meka-the-racist-ai-rapper-is-a-symptom-of-a-bigger-problem.md",
+      "title": "FN Meka, the racist AI 'rapper,' is a symptom of a bigger problem",
+      "excerpt": "Capitol Records ended its record deal with a stereotypical 'rapper' that rhymes in the digital world. The controversy showed a major pitfall of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.msnbc.com/the-reidout/reidout-blog/fn-meka-capitol-records-ai-rapper-rcna44785",
+      "originalUrl": "https://www.msnbc.com/the-reidout/reidout-blog/fn-meka-capitol-records-ai-rapper-rcna44785",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-08/220825-ROB-Ai-rapper-an-b434e7.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna44785",
+      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna44785",
+      "publishedDateTime": "2022-08-25T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSNBC",
+        "domain": "msnbc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-26-counterpoint-ai-is-far-more-dangerous-than-quantum-computing.md",
+      "title": "Counterpoint: AI is far more dangerous than quantum computing",
+      "excerpt": "A respectful counterpoint to an op-ed article published earlier this week declaring quantum computing a greater threat than AI.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/counterpoint-ai-far-more-dangerous-than-quantum-computing",
+      "originalUrl": "https://thenextweb.com/news/counterpoint-ai-far-more-dangerous-than-quantum-computing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2Fscaredrobot.jpg&signature=33af3f0f76c643a35c6038c920c40200",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T12:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-build-a-multi-lingual-document-translation-workflow-with-domain-specific-and-language-specific-customization.md",
+      "title": "Build a multi-lingual document translation workflow with domain-specific and language-specific customization",
+      "excerpt": "In the digital world, providing information in a local language isn’t novel, but it can be a tedious and expensive task. Advancements in machine learning (ML) and natural language processing (NLP) have made this task much easier and less expensive. We have seen increased adoption of ML for multi-lingual",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-lingual-document-translation-workflow-with-domain-specific-and-language-specific-customization/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-lingual-document-translation-workflow-with-domain-specific-and-language-specific-customization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/25/multi-lingual-document-translation.jpg",
+          "width": 1533,
+          "height": 762,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-26-nvidia-grace-and-hopper-superchips-are-poised-to-be-ai-and-hpc-powerhouses.md",
+      "title": "NVIDIA Grace And Hopper Superchips Are Poised To Be AI And HPC Powerhouses",
+      "excerpt": "NVIDIA’s Grace Superchips will become part of a building inertia with respect to the highly scalable ArmV9 architecture in the data center, and give legacy x86 a run for its money.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2022/08/25/nvidia-grace-and-hopper-superchips-are-poised-to-be-ai-and-hpc-powerhouses/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2022/08/25/nvidia-grace-and-hopper-superchips-are-poised-to-be-ai-and-hpc-powerhouses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6307aa901bf7e61eb9653b4d/0x0.jpg?format=jpg&width=1200",
+          "width": 1000,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2022/08/25/nvidia-grace-and-hopper-superchips-are-poised-to-be-ai-and-hpc-powerhouses/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/08/25/nvidia-grace-and-hopper-superchips-are-poised-to-be-ai-and-hpc-powerhouses/amp/",
+      "publishedDateTime": "2022-08-25T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-ai-startup-wants-to-make-foreign-call-center-employees-sound-white.md",
+      "title": "AI Startup Wants to Make Foreign Call Center Employees Sound White",
+      "excerpt": "Sanas argues that its technology can be empowering for call center employees by removing bias and limiting misunderstandings during phone conversations. Critics say it's erasure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/ai-startup-wants-to-make-foreign-call-center-employees-sound-white",
+      "originalUrl": "https://www.pcmag.com/news/ai-startup-wants-to-make-foreign-call-center-employees-sound-white",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/05P40am6RlXf9q8pCpYsR1f-1.fit_lim.size_1200x630.v1661442988.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-smarter-robots-ai-machine-learning-and-3d-vision.md",
+      "title": "Smarter Robots: AI, Machine Learning, and 3D Vision",
+      "excerpt": "New systems from ABB, AMT, Pearson Packaging Systems, Schubert, and Shape Process Automation include new Artificial Intelligence features.",
+      "sourceUrl": null,
+      "webUrl": "https://www.packworld.com/machinery/robotics/article/22340562/smarter-robots-ai-machine-learning-and-3d-vision",
+      "originalUrl": "https://www.packworld.com/machinery/robotics/article/22340562/smarter-robots-ai-machine-learning-and-3d-vision",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.packworld.com/files/base/pmmi/all/image/2022/07/Mitarbeiter_Cobot_032_20211020.62d891ea15c52.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "width": 1200,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Packaging World",
+        "domain": "packworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-warren-buffett-backs-driverless-trucks-now-theyre-real.md",
+      "title": "Warren Buffett Backs Driverless Trucks. Now They’re Real.",
+      "excerpt": "A cardboard cut out in the likeness of Warren Buffett, chairman and chief executive officer of Berkshire Hathaway Inc., sits in the driver’s seat of a truck on display during the Berkshire ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/energy/warren-buffett-backs-driverless-trucks-now-theyre-real/2022/08/25/62e25994-2469-11ed-a72f-1e7149072fbc_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/energy/warren-buffett-backs-driverless-trucks-now-theyre-real/2022/08/25/62e25994-2469-11ed-a72f-1e7149072fbc_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MIXRGURENEI63JZPDZYUSBZPXQ.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-25-join-us-in-the-ai-test-kitchen.md",
       "title": "Join us in the AI Test Kitchen",
       "excerpt": "As AI technologies continue to advance, they have the potential to unlock new experiences that support more natural human-computer interactions. We see a future where you can find the information you’re looking for in the same conversational way you speak to friends and family. While there’s still lots",
@@ -628,542 +1189,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-the-democratization-of-ai-in-logistics.md",
-      "title": "The Democratization Of AI In Logistics",
-      "excerpt": "AI can level the playing field in logistics, allowing small shippers and freight forwarders the ability to get to the same level of predictability and actionability as their much bigger counterparts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/25/the-democratization-of-ai-in-logistics/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/25/the-democratization-of-ai-in-logistics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/626946974c931989078c7b6c/0x0.jpg?format=jpg&crop=1497,842,x0,y212,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/25/the-democratization-of-ai-in-logistics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/25/the-democratization-of-ai-in-logistics/amp/",
-      "publishedDateTime": "2022-08-25T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-samsung-galaxy-watch-5-pro-review-smartwatch-fitness-watch-a-good-mix.md",
-      "title": "Samsung Galaxy Watch 5 Pro Review: Smartwatch + Fitness Watch = a Good Mix",
-      "excerpt": "There's a lot to like about the $450 Samsung Galaxy Watch 5 Pro. Not only does it have all the trimmings of a smartwatch, but it adds extra sports functions that athletes may want -- and for almost half the price of some other outdoor watches with similar construction like the $900 Garmin Epix 2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/mobile/samsung-galaxy-watch-5-pro-review-smartwatch-fitness-watch-a-good-mix/",
-      "originalUrl": "https://www.cnet.com/tech/mobile/samsung-galaxy-watch-5-pro-review-smartwatch-fitness-watch-a-good-mix/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/e72bc0cdbd8511a33e70399e8d819ec3ebbca69a/2022/08/23/b11065a1-cd37-40a8-bca7-8b31aa5bc64d/galaxywatch5pro-hero.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/samsung-galaxy-watch-5-pro-review-smartwatch-fitness-watch-a-good-mix/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-galaxy-watch-5-pro-review-smartwatch-fitness-watch-a-good-mix/",
-      "publishedDateTime": "2022-08-25T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-computer-vision-market-size-industry-analysis-share-growth-trends-top-key-players-and-regional-forecast-2022-to-2030.md",
-      "title": "Computer Vision Market Size Industry Analysis Share Growth Trends Top Key Players and Regional Forecast 2022 to 2030",
-      "excerpt": "The report covers the analysis and forecast of a Computer Vision on global as well as regional level. The study provides historic data of 2016 along with the forecast for the period between 2017 and 2025 based on revenue (US$ Mn).",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-size-industry-analysis-share-growth-trends-top-key-players-and-regional-forecast-2022-to-2030-2022-08-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-size-industry-analysis-share-growth-trends-top-key-players-and-regional-forecast-2022-to-2030-2022-08-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-25T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-see-amazing-views-of-chinas-space-station-from-its-big-robotic-arm-video.md",
-      "title": "See amazing views of China's space station from its big robotic arm (video)",
-      "excerpt": "(opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) (opens in new tab) New footage from China’s space station shows incredible images of Earth as a robotic arm inspects ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.space.com/china-tiangong-space-station-robotic-arm-video",
-      "originalUrl": "https://www.space.com/china-tiangong-space-station-robotic-arm-video",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-25T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Space.com",
-        "domain": "space.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-telco-to-techco-the-future-of-connectivity-and-digital-services.md",
-      "title": "Telco to Techco: The future of connectivity and digital services",
-      "excerpt": "The UAE is among the world’s most welcoming business environments and its government has long encouraged digital transformation as a means for public entities to become more efficient and private enterprise to be more competitive.",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/technology/telco-to-techco-the-future-of-connectivity-and-digital-services-1.1660912676666",
-      "originalUrl": "https://gulfnews.com/technology/telco-to-techco-the-future-of-connectivity-and-digital-services-1.1660912676666",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-25T01:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else.md",
-      "title": "Why Tesla Thinks It'll Build Self-Driving Cars Before Everyone Else",
-      "excerpt": "Their job is to process video from the fleet of Tesla cars on the road today to learn how real-world driving works. That training process is the foundation for the FSD, short for Full Self Driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/this-is-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/this-is-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 221,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/271a46fb3adb415aeca54f56d60baeddc11e3033/2022/08/24/0f2b65be-0d7e-461e-b630-2d3103b9c76e/tesla-d1-dojo-chip.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/this-is-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-is-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else/",
-      "publishedDateTime": "2022-08-25T00:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-with-5137-cagr-artificial-intelligence-in-healthcare-market-would-rocket-up-to-usd-17522-billion-by-2029.md",
-      "title": "With 51.37% CAGR, Artificial Intelligence in Healthcare Market would rocket up to USD 175.22 billion by 2029",
-      "excerpt": "The significant Artificial Intelligence in Healthcare report offers comprehensive explanation of market definition, market segmentation, competitive analysis and key developments in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/with-51-37-cagr-artificial-intelligence-in-healthcare-market-would-rocket-up-to-usd-175-22-billion-by-2029",
-      "originalUrl": "https://www.digitaljournal.com/pr/with-51-37-cagr-artificial-intelligence-in-healthcare-market-would-rocket-up-to-usd-175-22-billion-by-2029",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/DDD-8-600x337.png",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-24T23:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-former-prime-minister-tony-abbott-believes-anthony-albaneses-indigenous-voice-to-parliament-is-wrong-form-of-recognition.md",
-      "title": "Former prime minister Tony Abbott believes Anthony Albanese's indigenous Voice to Parliament is 'wrong form of recognition'",
-      "excerpt": "The ex Liberal leader told Sky News Australia he was \"in favour\" of doing the right thing by indigenous people but believes the Voice was the \"wrong form\" of recognition. \"I would be in principle ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.skynews.com.au/australia-news/politics/former-prime-minister-tony-abbott-believes-anthony-albaneses-indigenous-voice-to-parliament-is-wrong-form-of-recognition/news-story/ad08a4a5cd13e9317217292527fbe4e8?amp",
-      "originalUrl": "https://www.skynews.com.au/australia-news/politics/former-prime-minister-tony-abbott-believes-anthony-albaneses-indigenous-voice-to-parliament-is-wrong-form-of-recognition/news-story/ad08a4a5cd13e9317217292527fbe4e8?amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.api.news/v3/images/bin/ee07781d2419bc122a686a3141e85c18",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.skynews.com.au/australia-news/politics/former-prime-minister-tony-abbott-believes-anthony-albaneses-indigenous-voice-to-parliament-is-wrong-form-of-recognition/news-story/ad08a4a5cd13e9317217292527fbe4e8?amp",
-      "cdnAmpWebUrl": "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/politics/former-prime-minister-tony-abbott-believes-anthony-albaneses-indigenous-voice-to-parliament-is-wrong-form-of-recognition/news-story/ad08a4a5cd13e9317217292527fbe4e8?amp",
-      "publishedDateTime": "2022-08-24T23:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sky News Australia",
-        "domain": "skynews.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics.md",
-      "title": "Hyundai Motor Group Launches Boston Dynamics AI Institute to Spearhead Advancements in Artificial Intelligence & Robotics",
-      "excerpt": "Hyundai Motor Group (the Group) today announced the launch of Boston Dynamics AI Institute (the Institute), with the goal of making fundamental advances",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/hyundai-motor-group-launches-boston-dynamics-ai-institute-spearhead-advancements",
-      "originalUrl": "https://www.albawaba.com/business/pr/hyundai-motor-group-launches-boston-dynamics-ai-institute-spearhead-advancements",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2022-08/40039-Large370072020KonaElectric.jpg?itok=k2Z28teN",
-          "width": 595,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/hyundai-motor-group-launches-boston-dynamics-ai-institute-spearhead-advancements",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/hyundai-motor-group-launches-boston-dynamics-ai-institute-spearhead-advancements",
-      "publishedDateTime": "2022-08-24T22:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-financial-companies-look-at-ai-and-machine-learning-to-reduce-cost-kpmg.md",
-      "title": "Financial companies look at AI and machine learning to reduce cost: KPMG",
-      "excerpt": "Banks would need to develop the skill set inhouse or bring in external experts. External subject matter experts can help them benchmark themselves with peer banks around risk management, controls and governance framework enhancements.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/industry/banking/finance/financial-companies-look-at-ai-and-machine-learning-to-reduce-cost-kmpg/articleshow/93760985.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/industry/banking/finance/financial-companies-look-at-ai-and-machine-learning-to-reduce-cost-kmpg/articleshow/93760985.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-68408,msid-93760959/artificial-intelligence_thinkstock.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/industry/banking/finance/financial-companies-look-at-ai-and-machine-learning-to-reduce-cost-kmpg/amp_articleshow/93760985.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/financial-companies-look-at-ai-and-machine-learning-to-reduce-cost-kmpg/amp_articleshow/93760985.cms",
-      "publishedDateTime": "2022-08-24T21:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-pick-n-pay-selects-aws-as-its-strategic-cloud-provider.md",
-      "title": "Pick n Pay Selects AWS as Its Strategic Cloud Provider",
-      "excerpt": "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/pick-n-pay-selects-aws-as-its-strategic-cloud-provider/article_b1057995-2d27-5766-b934-f40c2a00b1b4.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/pick-n-pay-selects-aws-as-its-strategic-cloud-provider/article_b1057995-2d27-5766-b934-f40c2a00b1b4.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/a/be/abebbf6c-31fc-58bf-8862-5b6956b59977/6306f4e345651.image.jpg?crop=1756%2C922%2C0%2C129&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-24T21:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-nexar-utilizes-crowdsourced-vision-data-to-foster-autonomous-driving.md",
-      "title": "Nexar utilizes crowdsourced vision data to foster autonomous driving",
-      "excerpt": "Data is the foundation of autonomous driving. Nexar, an AI computer vision company, analyzes street information through a network supported by its dash cams. Integrating real-time data with human driving behaviors,",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20220825VL201.html",
-      "originalUrl": "https://www.digitimes.com/news/a20220825VL201.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20220825vl201_files/2_2b.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-24T20:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2022/09/12/gms-self-driving-car-unit-to-off
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/09/12/gms-self-driving-car-unit-to-offer-driverless-rides-in-phoenix-austin-this-year.html"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -78,6 +78,15 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
+    quality: 4
+  - title: "GM's Cruise Will Start Making Its Own Chips for Self-Driving Cars"
+    excerpt: "General Motors Cruise Never mind the chip shortage Instead of ordering more chips from Nvidia, Cruise started developing its own chips for use in the upcoming Origin model, a boxy self-driving EV with no pedals or steering wheel that’s allegedly going to be ready by 2023."
+    publishedDateTime: 2022-09-14T18:00:00Z
+    webUrl: "https://jalopnik.com/gms-cruise-will-start-making-its-own-chips-for-self-dri-1849535088"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
     quality: 4
 
 secured: "Qmcz65+a5kkZZEl68PyQEB79wa8WpqS6mqwk88evdRWAjkx2ZCceO2pJi4frpjsBAkVH99FwIbmTLxQHO/9IeG/Rf8/zdu/5ciXTfGG3ffu0OyTqYq/Rf+gmRL1BboVsheXiz1hKI5w3u772jy/X1w/yS7uC2u48IiyE4eSdw2W1HZVphrCKiUqyQXCbDZTCEm3n8A4uMOGm7VPk05O30NLsbCthFM+2ho/7p+dutTWDwqKzqIiqNIlkA9lFLceuiHW1GJYZZstPK38LlWi5npNGz0g6XREhw7VlhB2SIQBtMS7g4jsGU5QjBYQ2KpEepPICrcXoNabOfuXrWvsaYHRc5591ThIOJnXh6xnBpipRkKNrHucl59eKKjAusjLN7zdr6IHZAe8WNem7j/ew6kWMCwpBdPV35vLXWfvv7djbuiQgiZ2OVw10ARbKvZefjtbNhj7ey8LOow6v94dt1TkUzeKUcdUvOo1JKJlvZrAVDyPymVKDDEiGrRQ1ykGEwweLGsQWIbGCErrDHb/SsQ==;UNosFjyya8BT4yZ1j7GvEw=="

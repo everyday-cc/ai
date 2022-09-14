@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-14T19:00:00Z
 originalUrl: "https://banyanhill.com/bill-gates-bets-on-ai-trend/"
 webUrl: "https://banyanhill.com/bill-gates-bets-on-ai-trend/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Banyan Hill Publishing

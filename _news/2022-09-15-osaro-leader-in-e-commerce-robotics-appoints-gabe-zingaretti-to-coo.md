@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-14T18:00:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/09/p28870577/osaro-leader-in-e-commerce-robotics-appoints-gabe-zingaretti-to-coo"
 webUrl: "https://www.benzinga.com/pressreleases/22/09/p28870577/osaro-leader-in-e-commerce-robotics-appoints-gabe-zingaretti-to-coo"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Benzinga.com

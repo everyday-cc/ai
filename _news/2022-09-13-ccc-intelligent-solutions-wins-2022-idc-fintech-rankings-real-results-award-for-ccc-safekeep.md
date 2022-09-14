@@ -56,6 +56,15 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 4
+  - title: "CCC Intelligent Solutions Wins 2022 IDC FinTech Rankings Real Results Award for CCC® Safekeep"
+    excerpt: "CCC Intelligent Solutions Inc., a leading SaaS platform powering the P&C insurance economy, announced Sept. 13 it is a winner of the 2022 IDC FinTech Rankings Real Results Award, which recognizes tech providers that have enabled a genuine,"
+    publishedDateTime: 2022-09-14T19:46:00Z
+    webUrl: "https://www.autobodynews.com/index.php/industry-news/item/27107-ccc-intelligent-solutions-wins-2022-idc-fintech-rankings-real-results-award-for-ccc-safekeep.html"
+    type: article
+    provider:
+      name: autobodynews
+      domain: autobodynews.com
+    quality: 0
 
 secured: "KmdnR9y6kJkCu5yU7FcCrm0QoEJeHMgGNMN9jtkQ3viPQpwm5MMXeR8M6AzJgprvsmZRVQ0QHYdCVAXN9vvN2ypabyVD1tp0nQB9yfSjb33rw7MNU+2sYyFscnJgphOf8EOJXcGXgTxB7njkpv+fnxWhiriMCjNxXFUCUXVMl55ioAZgI4A558eINkZWdmFcbUTocwZA/5+U3LGvih13OgYbbjuc0VFrIcklPz5mI4h3/aIdrQF/4viOtJMwtE/Wr+aqHTSarynZGEqcy/L2BvI/z16l56swQQ/xM1XoL33x2Ve3/WAJxJOg42qcRFu3g/WhPXDZ3MANRcd4ZEAm8nDpyX4hycnetXyG5eGDrLw=;BzKyUEC04DNQ3XneGuc7FQ=="
 ---

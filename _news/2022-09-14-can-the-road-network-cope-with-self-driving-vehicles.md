@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cruise Has Developed Its Own Chips For Self-Driving Vehicles"
+    excerpt: "Tired of its inability to negotiate a better chip supply deal, the Cruise autonomous driving unit of General Motors has developed its own chips for forthcoming self-driving vehicles. Cruise had been sourcing its chips from Nvidia but its forthcoming Origin robotaxi will use chips that were developed in-house,"
+    publishedDateTime: 2022-09-14T21:24:00Z
+    webUrl: "https://www.carscoops.com/2022/09/cruise-has-developed-its-own-chips-for-self-driving-vehicles/"
+    ampWebUrl: "https://www.carscoops.com/2022/09/cruise-has-developed-its-own-chips-for-self-driving-vehicles/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/09/cruise-has-developed-its-own-chips-for-self-driving-vehicles/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 44
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2020/01/Cruise-Origin-10-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "Unlocking human-like perception in self-driving vehicles"
     excerpt: "Researchers at the University of Freiburg have introduced the amodal panoptic segmentation task whose solution may soon enable more human-like environment perception for self-driving vehicles through AI algorithms • Unveiled at the AutoSens conference in the Autoworld Museum in Brussels • “We are confident that novel AI algorithms for this task will enable robots to emulate the visual experience that humans have by perceiving complete physical structures of objects,"
     publishedDateTime: 2022-09-13T11:28:00Z
@@ -39,6 +55,15 @@ related:
         width: 615
         height: 284
         isCached: true
+  - title: "GM’s Cruise Develops Its Own Self-Driving Software Microchips"
+    excerpt: "GM’s autonomous driving technology division, Cruise, has developed its own microchips in a bid to lower costs and increase volume. Automotive headlines this year have been dominated by the ongoing global microchip shortage,"
+    publishedDateTime: 2022-09-14T20:42:00Z
+    webUrl: "https://gmauthority.com/blog/2022/09/gms-cruise-develops-its-own-self-driving-software-microchips/"
+    type: article
+    provider:
+      name: GM Authority
+      domain: gmauthority.com
+    quality: 4
 
 secured: "qMQw7tBY5VELtUNryTD4q/6E7BlvsEDfJTDOIbHKTGSDqvfHFCNUvaqxT6V5KicuowlrBXdCgMtIYhxfAiLcu59CM0orEgmnSsB7bJcp5m0mbl60KJ7SMItZp1atoDMv038zA8CAZ+64TYb694BxbPKE8wjDiVjCsNLNv+iu7yAreLkUTa9/VrYsXGjsazkodUMnNzrKRG+aYCsndehAfv4L5ch8DokuweChpCmIj062GJVk+4sDxln2q3mgeOFBUR72cgzfH+0KJNeTywWoyp5xtpFT/L+jRkNUL/B4/qnM0YJiGLgT05+jXbWm3Qi+j9rBKUpcdDCExvQIDhiJqmbN2yq9gmtaTDzjJZB0al4=;C/t6zrbt9P/axb78tGzMOg=="
 ---

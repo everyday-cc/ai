@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-14T16:55:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/09/p28869562/ai-metrics-an-ai-medical-imaging-technology-startup-selected-by-innovate-alabama-as-an-inaugural-s"
 webUrl: "https://www.benzinga.com/pressreleases/22/09/p28869562/ai-metrics-an-ai-medical-imaging-technology-startup-selected-by-innovate-alabama-as-an-inaugural-s"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

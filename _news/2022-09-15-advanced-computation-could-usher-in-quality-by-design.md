@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-14T19:00:00Z
 originalUrl: "https://www.genengnews.com/topics/bioprocessing/advanced-computation-could-usher-in-quality-by-design/"
 webUrl: "https://www.genengnews.com/topics/bioprocessing/advanced-computation-could-usher-in-quality-by-design/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: GEN

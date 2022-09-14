@@ -636,7 +636,7 @@
     {
       "path": "_news/2022-09-03-how-artificial-intelligence-can-explain-its-decisions.md",
       "title": "How artificial intelligence can explain its decisions",
-      "excerpt": "for example to be able to distinguish between certain therapy-relevant tumour subtypes,\" concludes Axel Mosig. Ruhr-University Bochum. \"How artificial intelligence can explain its decisions.\"",
+      "excerpt": "And that does not inspire trust. Researchers are therefore pursuing a new approach. Artificial intelligence (AI) can be trained to recognise whether a tissue image contains a tumour. However ...",
       "sourceUrl": null,
       "webUrl": "https://www.sciencedaily.com/releases/2022/09/220902103300.htm",
       "originalUrl": "https://www.sciencedaily.com/releases/2022/09/220902103300.htm",
@@ -672,8 +672,9 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI"
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {

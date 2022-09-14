@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-01-robot-that-stocks-drinks-is-newest-thing-at-the-corner-store.md",
+      "title": "Robot that stocks drinks is newest thing at the corner store",
+      "excerpt": "then the robot slithered to the right spot and placed the drink on the shelf — in a place chosen after its artificial intelligence and tiny cameras matched the kind of beverage to what’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2022/09/01/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/",
+      "originalUrl": "https://nypost.com/2022/09/01/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/09/japan-convenience-store-robot-drinks-comp-1.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2022/09/01/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/09/01/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/amp/",
+      "publishedDateTime": "2022-09-01T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-i-pitched-my-ridiculous-startup-idea-to-a-robot-vc.md",
       "title": "I pitched my ridiculous startup idea to a robot VC",
       "excerpt": "It was the pitch for my new startup, a company that promised to deliver ... specific VC expertise and advice by way of the powerful AI language model GPT-3. Originally released by OpenAI in ...",
@@ -1300,58 +1343,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-boom-or-bust-how-robots-can-help-meet-supply-chain-demands-amid-a-persistent-labor-shortage.md",
-      "title": "Boom Or Bust: How Robots Can Help Meet Supply Chain Demands Amid A Persistent Labor Shortage",
-      "excerpt": "Today, orders are overwhelming distribution facilities, labor is near impossible to find or keep and customers expect next-day delivery.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/25/boom-or-bust-how-robots-can-help-meet-supply-chain-demands-amid-a-persistent-labor-shortage/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/25/boom-or-bust-how-robots-can-help-meet-supply-chain-demands-amid-a-persistent-labor-shortage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63062ca8baf9bad4821b5fd5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/25/boom-or-bust-how-robots-can-help-meet-supply-chain-demands-amid-a-persistent-labor-shortage/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/25/boom-or-bust-how-robots-can-help-meet-supply-chain-demands-amid-a-persistent-labor-shortage/amp/",
-      "publishedDateTime": "2022-08-25T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

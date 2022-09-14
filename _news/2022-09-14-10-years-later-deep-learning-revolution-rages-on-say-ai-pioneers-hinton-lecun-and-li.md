@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/10-years-on-ai-pioneers-hinton-lecun-li-say-
 ampWebUrl: "https://venturebeat.com/ai/10-years-on-ai-pioneers-hinton-lecun-li-say-deep-learning-revolution-will-continue/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/10-years-on-ai-pioneers-hinton-lecun-li-say-deep-learning-revolution-will-continue/amp/"
 type: article
-quality: 101
-heat: 101
+quality: 103
+heat: 103
 published: true
 
 provider:

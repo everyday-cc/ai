@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-14T19:02:00Z
 originalUrl: "https://www.medscape.com/viewarticle/980798"
 webUrl: "https://www.medscape.com/viewarticle/980798"
 type: article
+quality: 21
+heat: -1
+published: false
 
 provider:
   name: Medscape
@@ -15,6 +18,22 @@ topics:
   - AI in Autos
   - AI
   - AI in Robotics
+
+related:
+  - title: "What Does the Future Hold for Robotic Surgery?"
+    excerpt: "With the Senhance, surgeons can sit at a console unit or cockpit that provides a 3-D high-definition view of the surgical field and allows them to control three separate robotic arms remotely. The end of each arm is equipped with surgical instruments that ..."
+    publishedDateTime: 2022-09-11T00:00:00Z
+    webUrl: "https://www.mddionline.com/business/what-does-future-hold-robotic-surgery"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 39
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/field/image/Da-Vinci-Xi_Intuitive-Surgical_0.jpg"
+        width: 847
+        height: 529
+        isCached: true
 
 secured: "STGCiOrQ8sneRdQXSFA8hxK/hxqUtIC+8DzyCFJxYIl7cfVsQfyPn2WDez+txadZ7wQIdwe1nYmkwh2RzLVmO24bRo+SkSXmPQ84D+UfytjS9yrzwJRl7RCXK3anvxF/SQdaixRhmswg0ATVid2Qrb+opjPWGD8xkwmbtKu4coz/gmFfPtMFAPEW1lbY2q+USg0m4gP7ygJ+pMFoy1LXpCr47JKhbB6Vs79vXd99wrtZB7W3GY6AzRGegW6qsj2fvTIxlSSpv/M8gzhiswNhPT9PlXLBZrtVwhKHEpic0eLcUsySJL/JXtwl+JMAdcJaEF36jXarGNe406DIo4RBJRAXADMFxtR8iOyngBaL9T31QoJEsS7f0zji+v3bgMcfmtaYZFJOllZvyrGfMF8kZhqNBn4VSmCq6dprXCLVDyqOd2cMy+VZCwBFCPl38uv0AQUove+cTy2grLBcJIvAF2MeU5xoKZsJelU6hzTzw4YM5qh8l4rOAPTnzTpy4vPbz/R2j/oZ+80pLlwu+xceDw==;dQI8MNCQ1v/2h0c+RMR6LA=="
 ---

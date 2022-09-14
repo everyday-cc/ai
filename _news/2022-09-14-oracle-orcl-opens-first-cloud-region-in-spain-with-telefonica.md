@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-14T16:56:00Z
 originalUrl: "https://www.nasdaq.com/articles/oracle-orcl-opens-first-cloud-region-in-spain-with-telefonica"
 webUrl: "https://www.nasdaq.com/articles/oracle-orcl-opens-first-cloud-region-in-spain-with-telefonica"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Nasdaq

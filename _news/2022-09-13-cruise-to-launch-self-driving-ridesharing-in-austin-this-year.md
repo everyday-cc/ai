@@ -74,6 +74,15 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "GM's Cruise Will Start Making Its Own Chips for Self-Driving Cars"
+    excerpt: "General Motors Cruise Never mind the chip shortage Instead of ordering more chips from Nvidia, Cruise started developing its own chips for use in the upcoming Origin model, a boxy self-driving EV with no pedals or steering wheel that’s allegedly going to be ready by 2023."
+    publishedDateTime: 2022-09-14T18:00:00Z
+    webUrl: "https://jalopnik.com/gms-cruise-will-start-making-its-own-chips-for-self-dri-1849535088"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 4
 
 secured: "tWsGOrU7oRi+RUN7MoSaMYVmO/z88k2eNvUmRs2MiYvXpU8pMxFpWJiwO8wkDX829BM1XJjdKeT3+DMBXhCSvI240/ixSxWV/fclr0rWXvOpHSFmeoRhr5BqtMMXQPqQXmvRtMiiIEMFGGTjmXW1qnWZjyUrAuKpXi5/XeVXwSgP1LSkdUoO+qD0KOlpj2ckq5IcP57c0+I1VRsRdu6L3n9Zf0syh1KKiLgpnF1ZcvVRVpy8dSYGXfAKC/s393bMFAJY4f+pv+5tdQOOlbKXrfBt3E41otwwAOvb/5SMnlQVvlkYcWbwzsTKVSnXP83n9tnYXrkBJWb4jdVW3maSXSVzSHfUZVetDGHN8jySRDurjsAwk1V1FvheXDnuNMfN/VnQZzyWc3F5ypg1QfTABotG1P+HpYzt6tgoh8ccWydb83h80ZsBPauPe0idfD7V930jTuv1gMboXgZN/JbQhM6u2J8iAezJXvhyMkTFY5iQ5gMTy0DTUU8EfOpevdC67a0Ov2hWfH6kF9ZQY2Ec0A==;Xe9ktPVP68lQrO4Z7UGemQ=="
 ---

@@ -56,6 +56,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 0
+  - title: "CCC Intelligent Solutions Wins 2022 IDC FinTech Rankings Real Results Award for CCC® Safekeep"
+    excerpt: "CCC Intelligent Solutions Inc., a leading SaaS platform powering the P&C insurance economy, announced Sept. 13 it is a winner of the 2022 IDC FinTech Rankings Real Results Award, which recognizes tech providers that have enabled a genuine,"
+    publishedDateTime: 2022-09-14T19:46:00Z
+    webUrl: "https://www.autobodynews.com/index.php/industry-news/item/27107-ccc-intelligent-solutions-wins-2022-idc-fintech-rankings-real-results-award-for-ccc-safekeep.html"
+    type: article
+    provider:
+      name: autobodynews
+      domain: autobodynews.com
+    quality: 0
 
 secured: "i1mx89MzKqi7Kyv1Er73d9pgtW9MrQCvX1DRsvtbk+2SJmtVyL/A8fWnTH0Q5IxydAKg0hH/NYM0GvIrxFeBuIT8W3wANyof7236sXW3XAmNeDU/prsY7+mZGvENyxCwQeWEeCc0gn8P+ZlI+p6X9iYLHwWTMhw6UFkKBFbGLhxm8kk5HCCRNwkrSkxogVB1onDMU8eJg5FRiCtJ1s/3sRljePNWjr49Mqz7Vw6SSMc8klvochHwKUvL8gM4Lkw5C18BreusDNOkvFoAM1VA6gspPgaHzg8FpILehJpkD4WLI0Y0Ts3jtxlZOqU+ICqH6uxFJiu2tmvs4327Yr/mW1Pj3K8xiTaKTZ3KcBRI3vk=;yJ8DXCNBjg23ZIfBQVKxeA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-09-method-neural-networks-exposes-a
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-method-neural-networks-exposes-artificial.amp"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "New method for comparing neural networks exposes how artificial intelligence works"
+    excerpt: "A team has developed a novel approach for comparing neural networks that looks within the 'black box' of artificial intelligence to help researchers understand neural network behavior. Neural networks recognize patterns in datasets;"
+    publishedDateTime: 2022-09-14T20:18:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/09/220914102256.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 58
   - title: "LANL: New Method For Comparing Neural Networks Exposes How Artificial Intelligence Works"
     excerpt: "Researchers at Los Alamos National Laboratory are looking at new ways to compare neural networks. This image was created with an artificial intelligence software called Stable Diffusion, using the"
     publishedDateTime: 2022-09-13T23:06:00Z

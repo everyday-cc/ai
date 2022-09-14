@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-14T18:27:00Z
 originalUrl: "https://syncedreview.com/2022/09/14/deepminds-model-based-offline-options-framework-supports-automatic-skill-behaviour-discovery-boosts-transfer-capabilities/"
 webUrl: "https://syncedreview.com/2022/09/14/deepminds-model-based-offline-options-framework-supports-automatic-skill-behaviour-discovery-boosts-transfer-capabilities/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: syncedreview

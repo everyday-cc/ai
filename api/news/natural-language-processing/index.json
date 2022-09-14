@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/ai/10-years-on-ai-pioneers-hinton-lecun-li-say-deep-learning-revolution-will-continue/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -53,59 +53,8 @@
         "AI",
         "Machine Learning",
         "Natural Language Processing",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-translation-localization-and-the-many-paths-to-ai-innovation.md",
-      "title": "Translation, Localization And The Many Paths To AI Innovation",
-      "excerpt": "As globalization continues, the translation and localization industry represents a key area for AI innovation, and several companies in the space have undergone a transformation into AI-powered businesses to inform new language-oriented applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/14/translation-localization-and-the-many-paths-to-ai-innovation/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/14/translation-localization-and-the-many-paths-to-ai-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63207cbbed21c73b2f7ec50a/0x0.jpg?format=jpg&crop=5499,3666,x0,y499,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/14/translation-localization-and-the-many-paths-to-ai-innovation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/14/translation-localization-and-the-many-paths-to-ai-innovation/amp/",
-      "publishedDateTime": "2022-09-14T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
+        "AI Ethics",
+        "Computer Vision"
       ]
     },
     {
@@ -1455,6 +1404,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-28-save-money-and-time-with-this-discounted-voice-transcription-tool.md",
+      "title": "Save money and time with this discounted voice transcription tool",
+      "excerpt": "Unfortunately, the ensuing transcription process can be tedious and time-consuming unless you have the right tools. The Voicetapp Speech-to-Text Transcription app is designed to turn speech into text with a wide range accurately.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/save-money-and-time-with-this-discounted-voice-transcription-tool/",
+      "originalUrl": "https://www.zdnet.com/article/save-money-and-time-with-this-discounted-voice-transcription-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0fbe20e62a2990db89dce2cde0609b94f773f980/2022/08/25/7e74fefe-a2fd-4cbc-a63a-23bed18e527d/zd-voicetapp-speec.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/save-money-and-time-with-this-discounted-voice-transcription-tool/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/save-money-and-time-with-this-discounted-voice-transcription-tool/",
+      "publishedDateTime": "2022-08-27T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

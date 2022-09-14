@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-14T19:14:00Z
 originalUrl: "https://www.uta.edu/news/news-releases/2022/09/14/informatics-conference-shows-next-generation-of-health-care"
 webUrl: "https://www.uta.edu/news/news-releases/2022/09/14/informatics-conference-shows-next-generation-of-health-care"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: uta.edu

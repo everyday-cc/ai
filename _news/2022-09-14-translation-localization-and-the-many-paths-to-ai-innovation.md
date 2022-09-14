@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/14/translatio
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/14/translation-localization-and-the-many-paths-to-ai-innovation/amp/"
 type: article
 quality: 89
-heat: 169
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,97 +31,20 @@ images:
     isCached: true
 
 related:
-  - title: "How technologies such as AI, ML, and deep learning are paving the way for the digitalization of the construction industry?"
-    excerpt: "The construction industry has been long reliant on tedious manual work, obsolete practices, legacy systems and exhausting paperwork. Moreover, the global construction industry has been relatively slow to adopt the technology."
-    publishedDateTime: 2022-09-12T14:33:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-technologies-such-as-ai-ml-and-deep-learning-are-paving-the-way-for-the-digitalization-of-the-construction-industry/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-technologies-such-as-ai-ml-and-deep-learning-are-paving-the-way-for-the-digitalization-of-the-construction-industry/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-technologies-such-as-ai-ml-and-deep-learning-are-paving-the-way-for-the-digitalization-of-the-construction-industry/"
+  - title: "Announcing Visual Conversation Builder for Amazon Lex"
+    excerpt: "Amazon Lex is a service for building conversational interfaces using voice and text. Amazon Lex provides high-quality speech recognition and language understanding capabilities. With Amazon Lex, you can add sophisticated, natural language bots to new and existing applications. Amazon Lex reduces multi-platform"
+    publishedDateTime: 2022-09-14T20:38:27Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-visual-conversation-builder-for-amazon-lex/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 63
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
     images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/09/Pic-4.png"
-        width: 383
-        height: 331
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/14/visual-conversation-builder.jpg"
+        width: 1548
+        height: 776
         isCached: true
-  - title: "Regulation and Risk Management of Artificial Intelligence in Financial Services 2022"
-    excerpt: "City and Financial Global is pleased to announce the next edition of the 'Regulation and Risk Management of AI in Financial Services' Summit"
-    publishedDateTime: 2022-09-13T15:28:00Z
-    webUrl: "https://www.techuk.org/resource/regulation-and-risk-management-of-artificial-intelligence-in-financial-services-2022.html"
-    type: article
-    provider:
-      name: techUK
-      domain: techuk.org
-    quality: 30
-    images:
-      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/5a1aa6e2-927b-4a3c-a6cc161ed8b1a910/opengraphimage_83f4e8796336604b59d7216d0ecd81a5_4a7c7e45a350/cityJPG.jpg"
-        width: 400
-        height: 264
-        isCached: true
-  - title: "Media Alert: Rambus Leads Panel on \"Frontiers in Memory Innovation\" at the AI Hardware Summit"
-    excerpt: "PT, Dr. Steven Woo, fellow and distinguished inventor at Rambus, will lead a panel of technology experts on \"Infrastructure and Systems: Frontiers in Memory Innovation – CXL, HBM and More\". It will be an interactive discussion about improving memory and interfaces and enabling new system architectures in the quest for greater AI/ML performance."
-    publishedDateTime: 2022-09-12T21:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/b28838940/media-alert-rambus-leads-panel-on-frontiers-in-memory-innovation-at-the-ai-hardware-summit"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28838940"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28838940"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 28
-  - title: "Exxact Partners with Run:ai to Offer Maximal Utilization in GPU Clusters for AI Workloads"
-    excerpt: "Exxact Corporation; a leading provider of high-performance computing (HPC), artificial intelligence (AI), and data center solutions; now offers Run:ai in their solutions. This groundbreaking Kubernetes-based orchestration tool incorporates an AI-dedicated,"
-    publishedDateTime: 2022-09-14T13:00:00Z
-    webUrl: "https://insidebigdata.com/2022/09/14/exxact-partners-with-runai-to-offer-maximal-utilization-in-gpu-clusters-for-ai-workloads/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 25
-  - title: "Survey Shows Organizations’ AI Capabilities Lag Far Behind Ambitions"
-    excerpt: "Fivetran, a global leader in modern data integration, released results of a survey that shows that although 87 percent of organizations consider artificial intelligence (AI) vital to their business survival, 86 percent say they would struggle to fully ..."
-    publishedDateTime: 2022-09-12T18:23:00Z
-    webUrl: "https://tdwi.org/articles/2022/09/12/fivetran-ai-survey.aspx"
-    type: article
-    provider:
-      name: TDWI
-      domain: tdwi.org
-    quality: 19
-  - title: "Alibaba Cloud unveils financial services solutions to advance industry digitalization"
-    excerpt: "Alibaba Cloud, the digital technology and intelligence backbone of Alibaba Group, today launched its suite of Alibaba Cloud for Financial Services solutions, comprising over 70 products designed to help financial services institutions (FSIs) of all sizes across banking,"
-    publishedDateTime: 2022-09-14T11:14:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/alibaba-cloud-unveils-financial-services-solutions-to-advance-industry-digitalization-rv3z4a3g"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 17
-    images:
-      - url: "https://static.zawya.com/version/c:ZmYzMzZiZjItZTg3ZC00:MGNmMDU1/alibabacloud2-jpg.JPG?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Evaluation of AI for medical imaging: A key requirement for clinical translation"
-    excerpt: "Artificial intelligence (AI) is showing significant promise in medical imaging. To translate this promise to reality requires rigorous evaluation of these algorithms."
-    publishedDateTime: 2022-09-13T16:13:00Z
-    webUrl: "https://medicalxpress.com/news/2022-09-ai-medical-imaging-key-requirement.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 14
-  - title: "Edifecs Launches Solution to Automate Prior Authorization at the Point of Care"
-    excerpt: "With its recent acquisition of Talix and Health Fidelity, Edifecs expanded its risk adjustment business, AI technology, and EHR integration capabilities and is uniquely positioned to transform the prior authorization process."
-    publishedDateTime: 2022-09-13T12:24:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/09/13/9672137.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "GYL0hM/iO+9cpdT9n8QbpuH2dINTLuHbZmwO4TyR5Up2RtVSTnKAdMVpOCEkTwYlu0dL088MrZKk4kLdF0GyXPmq8xagNXLm34AFn8r07yxeEBwuid0oz/zOk9+fdcyMznO2XIRDV119PCLxDBEUjVE1qupe4G7bsYtdYi6qtCdgcqScPXgZ5lbfywSiY1s9mdJlKsAT7ll9Z57+yr0uPWOGtMkxBEBYM7PlJhHtBaEZFKNqOXw7rkPD9CgBk+N50AoI75acXItTZb9B5KQpidCJExjBqTN/Fl4aPpU95nOfFbXbGFkaLZ6exI/BMuGBJIUtPzcWVQCu9PMux62MAACgGJj3pOlqxXWmLkGS4wYUIGlEneUsALIAG4g/FbEPOI94q4udyHDGic5DxY3MqnOYhA/oAiJoA7+Szf9Iy8y0Ft2ItRlaBfdvkjhReyfdHKxVtRMAXMrNNJKGav8kx+qi9xGwtRqOHgmKNTYtBrrWByd/VCXI+YPDii7W80a3DxYBGbxXmgAaC0PUih2O/Q==;dU28iLMlycOP+w5c/YcAXw=="
 ---

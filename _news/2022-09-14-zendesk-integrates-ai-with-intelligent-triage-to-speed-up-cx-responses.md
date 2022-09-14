@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/zendesk-integrates-ai-with-intelligent-tr
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/zendesk-integrates-ai-with-intelligent-triage-to-speed-up-cx-responses/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
