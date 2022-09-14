@@ -83,20 +83,17 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 4
-  - title: "Global Smart Shelves Market Report 2022: Growth in Demand for AI-Powered Dynamic Pricing Solutions Presents Opportunities - ResearchAndMarkets.com"
-    excerpt: "The global Smart Shelves market size is expected to grow from an estimated value of USD 3.0 billion in 2022 to USD 8.3 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 22.4% from 2022 to 2027."
-    publishedDateTime: 2022-09-12T08:19:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-b02877a988104136847a01e1c76eccc5"
+  - title: "Asia-Pacific Digital Payments Market Set to More than Triple Its Size Crossing USD 67 Billion by 2028 | BlueWeave Consulting"
+    excerpt: "Asia-Pacific (APAC) digital payments market is booming owing to convenience of transactions, widespread usage of smartphones, and the financial inclusion opportunities"
+    publishedDateTime: 2022-09-14T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28867535/asia-pacific-digital-payments-market-set-to-more-than-triple-its-size-crossing-usd-67-billion-by-2"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28867535"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28867535"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Automotive Voice Recognition Market To Reach US$ 2,413.9 Mn By 2031 From US$ 936.4 Mn In 2022, At A CAGR Of 13.2% During The Forecast Period"
     excerpt: "The Automotive Voice Recognition Market to reach US$ 2,413.9 Mn by 2031 from US$ 936.4 Mn in 2022, at a CAGR of 13.2% during the forecast period. Kenneth Research recently added a report on Automotive Voice Recognition Market which provides a detailed insight into the market scenario on the basis of the market size,"
     publishedDateTime: 2022-09-14T06:48:00Z

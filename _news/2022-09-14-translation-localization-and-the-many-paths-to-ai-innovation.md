@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/14/translation-l
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/14/translation-localization-and-the-many-paths-to-ai-innovation/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/14/translation-localization-and-the-many-paths-to-ai-innovation/amp/"
 type: article
-quality: 87
-heat: 157
+quality: 89
+heat: 169
 published: true
 
 provider:
@@ -72,6 +72,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 28
+  - title: "Exxact Partners with Run:ai to Offer Maximal Utilization in GPU Clusters for AI Workloads"
+    excerpt: "Exxact Corporation; a leading provider of high-performance computing (HPC), artificial intelligence (AI), and data center solutions; now offers Run:ai in their solutions. This groundbreaking Kubernetes-based orchestration tool incorporates an AI-dedicated,"
+    publishedDateTime: 2022-09-14T13:00:00Z
+    webUrl: "https://insidebigdata.com/2022/09/14/exxact-partners-with-runai-to-offer-maximal-utilization-in-gpu-clusters-for-ai-workloads/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 25
   - title: "Survey Shows Organizations’ AI Capabilities Lag Far Behind Ambitions"
     excerpt: "Fivetran, a global leader in modern data integration, released results of a survey that shows that although 87 percent of organizations consider artificial intelligence (AI) vital to their business survival, 86 percent say they would struggle to fully ..."
     publishedDateTime: 2022-09-12T18:23:00Z

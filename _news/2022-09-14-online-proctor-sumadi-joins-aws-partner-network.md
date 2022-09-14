@@ -1,20 +1,38 @@
 ---
 category: news
 title: "Online Proctor Sumadi Joins AWS Partner Network"
-excerpt: "Sumadi’s status as an AWS Partner strengthens the business’ ability to deploy large-scale, simultaneous proctoring of online tests and assessments for clients around the world, including universities,"
-publishedDateTime: 2022-09-13T20:16:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/4bd9f0ea4a14e9b8784948706e74fa52"
-webUrl: "https://apnews.com/press-release/pr-newswire/4bd9f0ea4a14e9b8784948706e74fa52"
+excerpt: "Sumadi's status as an AWS Partner strengthens the business' ability to deploy large-scale, simultaneous proctoring of online tests and assessments for clients around the world, including universities,"
+publishedDateTime: 2022-09-13T20:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/online-proctor-sumadi-joins-aws-partner-network-1031741167"
+webUrl: "https://markets.businessinsider.com/news/stocks/online-proctor-sumadi-joins-aws-partner-network-1031741167"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-secured: "/VgOLYG2SmsyfUfN4uxUP2VwbBoTh8I+ZGY4bv0J31QHwi0TjkeOBwEaLhju5mtMp7XA82QRcNGQKR2VIUY/r4ExY/AEvMHNSKSnziU9tyDmw9G44Fy+m5Fdmrp+czcn8CKb6UYHwTs+VnDugSEkB0ahjbEiEfZj6bWL63URqvQyDAj72z/57l0n/2Ov1ypPIqO38nGOcI8714yF2jqJr9D1UDeg9fra4dAZfXJobov7IkbJHocM6ELyv+zcs8E6KXP1+G/zg78tFwGyeEJTh0xyaADPmnEb0SeCMsa2ErnDtz7tmK2SzQ9EUWRLhIpKEpzuqHa5A4j4On4FEidKGJNE59tVHnXJGY4NBhpPBcs=;vSzw2X4yrWwc6yQhH6FdDQ=="
+related:
+  - title: "Online Proctor Sumadi Enters AWS Partner Network"
+    excerpt: "Sumadi, an artificial intelligence-powered online proctoring business announced it has joined the Amazon Web Services (AWS) Partner Network"
+    publishedDateTime: 2022-09-14T13:43:00Z
+    webUrl: "https://enterprisetalk.com/news/online-proctor-sumadi-enters-aws-partner-network/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 19
+
+secured: "rbCWSJiNeSHXeT3PqQkuO6OvevmWN/T0jtJMARzUWgdYBQDH08Dbp+akSAI3MwkaB5dPpTUFqbu+U4A/1mgNjmya9OM7KUSGITQ7ePoVR5qZpaPNluNEamTbrCHJoFE/huyoDZYCfIA6UZq1ynMiv6cZL52VSJ5g4gl+qSW6gWKGbLja/CRc+spCYzB5NpTvUBubVL3/VQApvYHt22pQJmtcb3+Dvsh6DOdIPKjRHzkJWbz4D0bGo+H4BtRvtCJh8ItZCI/onCpcHVxRjj+qGgm3awQw+ZBqGc8RytYthOZ6yHwYwjdju2CSeLqjeiXmq3cqhfyjNLJj2VbpSUO4VlrgRQEDXaF7NdJaCNHdFS8=;tMsPGWh6Xcu2ITSkiQK1fw=="
 ---
 

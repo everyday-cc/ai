@@ -2,6 +2,403 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-08-28-1-machine-learning-stock-down-56-to-buy-hand-over-fist.md",
+      "title": "1 Machine Learning Stock Down 56% to Buy Hand Over Fist",
+      "excerpt": "Machine learning is a subfield of artificial intelligence, and it's primarily used to make sense of mountains of data to deliver valuable insights to the end user. Thanks to companies like Splunk ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/1-machine-learning-stock-down-56-to-buy-hand-over-fist",
+      "originalUrl": "https://www.nasdaq.com/articles/1-machine-learning-stock-down-56-to-buy-hand-over-fist",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-28T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-08-28-the-labor-shortage-is-killing-american-manufacturing-heres-how-ai-can-bring-it-back-to-life.md",
+      "title": "The Labor Shortage Is Killing American Manufacturing. Here’s How AI Can Bring It Back To Life.",
+      "excerpt": "The manufacturing labor shortage has paved the way for widespread deployment of some very exciting innovations in Artificial Intelligence for manufacturing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/glenngow/2022/08/28/the-labor-shortage-is-killing-american-manufacturing-heres-how-ai-can-bring-it-back-to-life/",
+      "originalUrl": "https://www.forbes.com/sites/glenngow/2022/08/28/the-labor-shortage-is-killing-american-manufacturing-heres-how-ai-can-bring-it-back-to-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/630a2dd5ded4dcda937d1fd9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2022/08/28/the-labor-shortage-is-killing-american-manufacturing-heres-how-ai-can-bring-it-back-to-life/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2022/08/28/the-labor-shortage-is-killing-american-manufacturing-heres-how-ai-can-bring-it-back-to-life/amp/",
+      "publishedDateTime": "2022-08-28T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-28-one-mans-dream-of-fusing-ai-with-common-sense.md",
+      "title": "One Man’s Dream of Fusing A.I. With Common Sense",
+      "excerpt": "Artificial intelligence systems can process vast amounts of data in seconds, but they can’t make sense of the world or explain their decisions. David Ferrucci wants to change that.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/08/28/business/ai-artificial-intelligence-david-ferrucci.html",
+      "originalUrl": "https://www.nytimes.com/2022/08/28/business/ai-artificial-intelligence-david-ferrucci.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/08/13/business/00-AI-Ferrucci-01/00-AI-Ferrucci-01-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/08/28/business/ai-artificial-intelligence-david-ferrucci.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/08/28/business/ai-artificial-intelligence-david-ferrucci.amp.html",
+      "publishedDateTime": "2022-08-28T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-28-google-sued-over-access-to-millions-of-nhs-blood-tests.md",
+      "title": "Google sued over access to millions of NHS blood tests",
+      "excerpt": "DeepMind, which was bought by Google in 2014, may have been handed the results of blood tests that were “processed by the Royal Free London NHS Foundation Trust laboratories” according to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/business/2022/08/28/google-sued-access-millions-nhs-blood-tests/",
+      "originalUrl": "https://www.telegraph.co.uk/business/2022/08/28/google-sued-access-millions-nhs-blood-tests/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/business/2022/08/26/TELEMMGLPICT000306217278_trans_NvBQzQNjv4BqA7N2CxnJWnYI3tCbVBgu9T0aesusvN1TE7a0ddd_esI.jpeg?impolicy=logo-overlay",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-28T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-28-will-over-the-counter-hearing-aids-help-with-cognitive-impairment.md",
+      "title": "Will over-the-counter hearing aids help with cognitive impairment?",
+      "excerpt": "Many studies show people with hearing loss are more likely to develop cognitive problems than people ... loss will still need the professional services of audiologists and hearing aid specialists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailyherald.com/entlife/20220828/will-over-the-counter-hearing-aids-help-with-cognitive-impairment",
+      "originalUrl": "https://www.dailyherald.com/entlife/20220828/will-over-the-counter-hearing-aids-help-with-cognitive-impairment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailyherald.com/storyimage/DA/20220828/ENTLIFE/220829509/AR/0/AR-220829509.jpg&updated=202208261403&imageversion=Facebook&exactH=630&exactW=1200&exactfit=crop&noborder",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-28T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-28-startup-develops-ai-that-makes-call-center-employees-sound-like-white-american-robots.md",
+      "title": "Startup develops AI that makes call center employees sound like white, American robots",
+      "excerpt": "This time around, Palo Alto-based startup Sanas has introduced to the world an AI with the goal of making foreign call center employees sound accent-neutral, and the effect of making them sound white.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/ai-startup-makes-call-center-foreigners-sound-white",
+      "originalUrl": "https://mashable.com/article/ai-startup-makes-call-center-foreigners-sound-white",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/06flaA2qTkuYtTU1N3cKsg0/hero-image.fill.size_1200x675.v1661618885.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-27T23:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-28-save-money-and-time-with-this-discounted-voice-transcription-tool.md",
+      "title": "Save money and time with this discounted voice transcription tool",
+      "excerpt": "Unfortunately, the ensuing transcription process can be tedious and time-consuming unless you have the right tools. The Voicetapp Speech-to-Text Transcription app is designed to turn speech into text with a wide range accurately.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/save-money-and-time-with-this-discounted-voice-transcription-tool/",
+      "originalUrl": "https://www.zdnet.com/article/save-money-and-time-with-this-discounted-voice-transcription-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0fbe20e62a2990db89dce2cde0609b94f773f980/2022/08/25/7e74fefe-a2fd-4cbc-a63a-23bed18e527d/zd-voicetapp-speec.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/save-money-and-time-with-this-discounted-voice-transcription-tool/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/save-money-and-time-with-this-discounted-voice-transcription-tool/",
+      "publishedDateTime": "2022-08-27T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-28-artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story.md",
+      "title": "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story",
+      "excerpt": "New Jersey, NJ -- (SBWIRE) -- 08/27/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ...",
+      "sourceUrl": null,
+      "webUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-45",
+      "originalUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-45",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-27T15:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insurancenewsnet.com",
+        "domain": "insurancenewsnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-28-artificial-intelligence-model-can-detect-parkinsons-from-breathing-patterns.md",
+      "title": "Artificial Intelligence Model Can Detect Parkinson’s From Breathing Patterns",
+      "excerpt": "A newly developed artificial intelligence model can detect Parkinson's disease by reading a person's breathing patterns. The algorithm can also discern the severity of Parkinson's disease and tract progression over time.",
+      "sourceUrl": null,
+      "webUrl": "https://neurosciencenews.com/artificial-intelligence-breathing-parkinsons-21305/",
+      "originalUrl": "https://neurosciencenews.com/artificial-intelligence-breathing-parkinsons-21305/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://neurosciencenews.com/files/2022/08/ai-parkinsons-breathing-neurosicences-public.jpg",
+          "width": 770,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-27T14:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neuroscience News",
+        "domain": "neurosciencenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-28-national-jobs-summit-a-chance-for-australia-to-hit-reset-on-artificial-intelligence-say-business-leaders.md",
       "title": "National jobs summit a chance for Australia to hit reset on artificial intelligence, say business leaders",
       "excerpt": "Earlier this week an artificial intelligence-powered rapper was dropped from its label (yes, it had a label) after its algorithm learned to use racial slurs in its lyrics. Artificial intelligence ...",
@@ -725,403 +1122,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-how-artificial-intelligence-is-finding-critical-heart-failure-patients.md",
-      "title": "How artificial intelligence is finding critical heart failure patients",
-      "excerpt": "Over 6 million American adults suffer from heart failure. But now, doctors are harnessing AI technology to catch the problem before it's fatal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wqad.com/article/news/health/your-health/artificial-intelligence-critical-heart-failure-ai/526-a95d8163-6ee4-4819-81d4-42448018834f",
-      "originalUrl": "https://www.wqad.com/article/news/health/your-health/artificial-intelligence-critical-heart-failure-ai/526-a95d8163-6ee4-4819-81d4-42448018834f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.tegna-media.com/assets/WQAD/images/995c409e-08a4-4d28-9233-f96e3239ae90/995c409e-08a4-4d28-9233-f96e3239ae90_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wqad.com/amp/article/news/health/your-health/artificial-intelligence-critical-heart-failure-ai/526-a95d8163-6ee4-4819-81d4-42448018834f",
-      "cdnAmpWebUrl": "https://www-wqad-com.cdn.ampproject.org/c/s/www.wqad.com/amp/article/news/health/your-health/artificial-intelligence-critical-heart-failure-ai/526-a95d8163-6ee4-4819-81d4-42448018834f",
-      "publishedDateTime": "2022-08-26T16:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WQAD",
-        "domain": "wqad.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-warren-buffett-bullish-on-driverless-trucks-after-purchasing-stake-in-kodiak-robotics.md",
-      "title": "Warren Buffett bullish on driverless trucks after purchasing stake in Kodiak Robotics",
-      "excerpt": "This investment is a significant validation by Berkshire Hathaway, through Pilot, that driverless trucks are on the cusp of being a reality. It may be hard and even scary to imagine an 18-wheeler ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autonews.com/mobility-report/why-warren-buffett-bullish-driverless-trucks",
-      "originalUrl": "https://www.autonews.com/mobility-report/why-warren-buffett-bullish-driverless-trucks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/buffett_0.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-26T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-artist-ai-weiwei-warns-against-hubris-in-troublesome-times.md",
-      "title": "Artist Ai Weiwei warns against hubris in 'troublesome times'",
-      "excerpt": "Chinese dissident and artist Ai Weiwei lampoons the surveillance state and social media with his first glass sculpture, made on the Venetian island of Murano.",
-      "sourceUrl": null,
-      "webUrl": "https://www.local10.com/entertainment/2022/08/26/artist-ai-weiwei-warns-against-hubris-in-troublesome-times/",
-      "originalUrl": "https://www.local10.com/entertainment/2022/08/26/artist-ai-weiwei-warns-against-hubris-in-troublesome-times/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/QV54AUTTBVAWLF2YBJMD6IRINQ.jpg?_a=ATAK9fe0",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.local10.com/entertainment/2022/08/26/artist-ai-weiwei-warns-against-hubris-in-troublesome-times/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-local10-com.cdn.ampproject.org/c/s/www.local10.com/entertainment/2022/08/26/artist-ai-weiwei-warns-against-hubris-in-troublesome-times/?outputType=amp",
-      "publishedDateTime": "2022-08-26T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WPLG",
-        "domain": "local10.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-facial-recognition-market-size-is-projected-to-garner-significant-revenues-by-2031.md",
-      "title": "Facial Recognition Market Size Is Projected To Garner Significant Revenues By 2031",
-      "excerpt": "Shibuya-ku, Tokyo, Japan, Japan, Aug 26, 2022, 07:48 /Comserve / -- In-depth Analysis and Data-driven Insights on the Impact of COVID-19 Included in this Facial Recognition The 3D facial ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104763681/Facial-Recognition-Market-Size-Is-Projected-To-Garner-Significant-Revenues-By-2031",
-      "originalUrl": "https://menafn.com/1104763681/Facial-Recognition-Market-Size-Is-Projected-To-Garner-Significant-Revenues-By-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?657576",
-          "width": 400,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-26T14:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MENAFN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-high-school-students-explore-robotics-concepts-at-tamuq-programme.md",
-      "title": "High school students explore robotics concepts at Tamuq programme",
-      "excerpt": "robotics and transportation. The students learned about mechanical design, radio-controlled systems and taking experimental measurements. Benjamin Cieslinski, STEM laboratory manager at Tamuq said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gulf-times.com/story/723277/High-school-students-explore-robotics-concepts-at-",
-      "originalUrl": "https://www.gulf-times.com/story/723277/High-school-students-explore-robotics-concepts-at-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-26T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf Times",
-        "domain": "gulf-times.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-ai-predicts-alzheimers-disease-from-a-single-brain-scan.md",
-      "title": "AI Predicts Alzheimer’s Disease from a Single Brain Scan",
-      "excerpt": "There are 47 million people living with Alzheimer’s disease globally, and by 2030 this number is expected to increase to 76 million according to the Alzheimer’s Association. I",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202208/ai-predicts-alzheimer-s-disease-single-brain-scan",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202208/ai-predicts-alzheimer-s-disease-single-brain-scan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-08/pic23411.gif.jpg?itok=bHKh85Xs",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202208/ai-predicts-alzheimer-s-disease-single-brain-scan?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202208/ai-predicts-alzheimer-s-disease-single-brain-scan?amp",
-      "publishedDateTime": "2022-08-26T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-artificial-intelligence-5-innovative-applications-that-could-change-everything.md",
-      "title": "Artificial intelligence: 5 innovative applications that could change everything",
-      "excerpt": "In a new report, McKinsey identifies innovative ways industries can benefit from applying AI. Some may surprise you.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/5-exciting-applications-for-artificial-intelligence/",
-      "originalUrl": "https://www.zdnet.com/article/5-exciting-applications-for-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/68716ea71e49a4f803ff4c87db10cb98a74f1d1c/2022/08/26/ab2058b7-690d-41d1-b96b-ad7db04fd805/ai-assistant-smarttphone-iot-innovation.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/5-exciting-applications-for-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-exciting-applications-for-artificial-intelligence/",
-      "publishedDateTime": "2022-08-26T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-ezra-furman-writes-simple-songs-for-the-mind-to-stretch-out-in.md",
-      "title": "Ezra Furman writes simple songs “for the mind to stretch out in”",
-      "excerpt": "Ezra Furman joined Raphael Helfand for a special episode of The FADER Interview live on Amp to discuss her forthcoming LP, All of Us Flames.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thefader.com/2022/08/26/ezra-furman-writes-simple-songs-for-the-mind-to-stretch-out-in",
-      "originalUrl": "https://www.thefader.com/2022/08/26/ezra-furman-writes-simple-songs-for-the-mind-to-stretch-out-in",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_533,w_1024,x_0,y_95,f_auto,q_auto:eco/MAIN-Ezra-Furman-by-Tonje-Thilesen-9_acjkit/MAIN-Ezra-Furman-by-Tonje-Thilesen-9_acjkit.jpg",
-          "width": 1024,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thefader.com/2022/08/26/ezra-furman-writes-simple-songs-for-the-mind-to-stretch-out-in/amp",
-      "cdnAmpWebUrl": "https://www-thefader-com.cdn.ampproject.org/c/s/www.thefader.com/2022/08/26/ezra-furman-writes-simple-songs-for-the-mind-to-stretch-out-in/amp",
-      "publishedDateTime": "2022-08-26T11:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Fader",
-        "domain": "thefader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-the-uses-of-ethical-ai-in-hiring-opaque-vs-transparent-ai.md",
-      "title": "The uses of ethical AI in hiring: Opaque vs. transparent AI",
-      "excerpt": "Ethical AI enables organizations to understand the technology’s processes and audit them to make sure the AI remains unbiased.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/the-uses-of-ethical-ai-in-hiring-opaque-vs-transparent-ai/",
-      "originalUrl": "https://venturebeat.com/ai/the-uses-of-ethical-ai-in-hiring-opaque-vs-transparent-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/intellectual_property.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 873,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/the-uses-of-ethical-ai-in-hiring-opaque-vs-transparent-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-uses-of-ethical-ai-in-hiring-opaque-vs-transparent-ai/amp/",
-      "publishedDateTime": "2022-08-26T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

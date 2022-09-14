@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-14T00:00:00Z
 originalUrl: "https://www.deepmind.com/blog/how-our-principles-helped-define-alphafolds-release"
 webUrl: "https://www.deepmind.com/blog/how-our-principles-helped-define-alphafolds-release"
 type: article
+quality: 54
+heat: 54
+published: false
 
 provider:
   name: DeepMind

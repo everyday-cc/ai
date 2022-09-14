@@ -91,6 +91,15 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "GACA Adopts Artificial Intelligence Technology \"ICMOR\" for Operational Use at Saudi Airports"
+    excerpt: "The General Authority of Civil Aviation (GACA) announced the adoption of the Artificial Intelligence security screening technology (ICMOR) for operational use in Saudi airports. This announcement was made on the sidelines of the opening session of the Global Artificial Intelligence Summit in its second edition under the title \"Artificial Intelligence for the Good of Humanity\" - organized by the Saudi Authority for Data and Artificial Intelligence (SDAIA) and held at the King Abdulaziz International Conference Center in Riyadh."
+    publishedDateTime: 2022-09-14T13:01:00Z
+    webUrl: "https://www.spa.gov.sa/2383937"
+    type: article
+    provider:
+      name: spa.gov.sa
+      domain: spa.gov.sa
+    quality: 21
 
 secured: "4d9SJpvkGIpplqJ4vtItsbdr7trHnqcOZRN+Iihj73hE5lp5KLH+SwbVw1VGShXFAD3NU/YSrMBKhOQ4+tuGLhSrKEvabPi97FozHtYqsRcShkxT7xd/wVZsaAmGLo7cH2oJ81yGKUlN6YYmXzh0KQk6OENDznL6W1OswIF/BPjHaIQvbJ7U9XtnCHuOv6OjviGC7pkyKZEhohWnCaUAH0I9wrC+db2d6BBMTQsWZfDiEiuW62fX+aGUhjj+IBEzIdpGNXAfvIEwuNGV7RdoZNTTDqhmr+9/5ZCRRg9Wc69gSTXGGuUatfdlBGaFuf+26c2e6bEJj6gIvq+OybaNTP88W0VDSwBhgMEa1wf/lPQ=;bDYlC4b8mn2/TP2BVi8lmg=="
 ---

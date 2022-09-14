@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-14T12:00:00Z
 originalUrl: "https://www.bizjournals.com/orlando/inno/stories/fundings/2022/09/14/florida-tech-orlando-home-insurance-startup-chrp.html"
 webUrl: "https://www.bizjournals.com/orlando/inno/stories/fundings/2022/09/14/florida-tech-orlando-home-insurance-startup-chrp.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Business Journals

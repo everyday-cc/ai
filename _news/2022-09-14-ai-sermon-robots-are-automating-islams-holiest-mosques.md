@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-14T12:18:00Z
 originalUrl: "https://interestingengineering.com/innovation/ai-sermon-robots-automating-islam-holiest-mosques"
 webUrl: "https://interestingengineering.com/innovation/ai-sermon-robots-automating-islam-holiest-mosques"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Interesting Engineering

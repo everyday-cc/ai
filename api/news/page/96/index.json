@@ -2,6 +2,422 @@
   "page": 96,
   "value": [
     {
+      "path": "_news/2022-06-24-improve-ml-developer-productivity-with-weights-biases-a-computer-vision-example-on-amazon-sagemaker.md",
+      "title": "Improve ML developer productivity with Weights & Biases: A computer vision example on Amazon SageMaker",
+      "excerpt": "The content and opinions in this post are those of the third-party author and AWS is not responsible for the content or accuracy of this post. As more organizations use deep learning techniques such as computer vision and natural language processing, the machine learning (ML) developer persona needs",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-ml-developer-productivity-with-weights-biases-a-computer-vision-example-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-ml-developer-productivity-with-weights-biases-a-computer-vision-example-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/24/weights-and-biases.jpg",
+          "width": 1245,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-24T13:33:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-06-25-westworld-cast-previews-whats-new-plus-the-uneasiness-of-season-4-video.md",
+      "title": "‘Westworld’ Cast Previews What’s New, Plus the Uneasiness of Season 4 (VIDEO)",
+      "excerpt": "It picks up seven years after the 2020 Season 3 finale, in which clever robot Dolores (Evan Rachel Wood) died after freeing humans from the mind control of a massive A.I. (This despite years of abuse at the hands of mortals when she was one of the hosts in the Westworld theme park.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mdjonline.com/neighbor_newspapers/entertainment/westworld-cast-previews-what-s-new-plus-the-uneasiness-of-season-4-video/article_4333c0c1-7e4d-5d63-8958-cdf5c5edd9c2.html",
+      "originalUrl": "https://www.mdjonline.com/neighbor_newspapers/entertainment/westworld-cast-previews-what-s-new-plus-the-uneasiness-of-season-4-video/article_4333c0c1-7e4d-5d63-8958-cdf5c5edd9c2.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/mdjonline.com/content/tncms/custom/image/8e14a090-8f54-11e7-9a2a-7f0e56ddb42e.jpg?resize=600%2C400",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-24T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marietta Daily Journal",
+        "domain": "mdjonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-25-an-ai-learned-to-play-minecraft-and-its-actually-pretty-good.md",
+      "title": "An AI Learned to Play Minecraft, and It's Actually Pretty Good",
+      "excerpt": "Open AI engineers revealed their experiment in a research paper and subsequent blog post this week. OpenAI’s model was able to move beyond basic crafting and survival and actually perform many ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/openai-taught-an-ai-to-play-minecraft-1849106533",
+      "originalUrl": "https://gizmodo.com/openai-taught-an-ai-to-play-minecraft-1849106533",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/openai-taught-an-ai-to-play-minecraft-1849106533/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/openai-taught-an-ai-to-play-minecraft-1849106533/amp",
+      "publishedDateTime": "2022-06-24T12:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-25-artificial-intelligence-ai-in-higher-education-market-may-see-a-big-move-major-giants-cerevrum-ibm-google.md",
+      "title": "Artificial Intelligence (AI) in Higher Education Market May See a Big Move | Major Giants Cerevrum, IBM, Google",
+      "excerpt": "Artificial Intelligence (AI) in Higher Education Market, Global Outlook and Forecast 2022-2028 is latest research study released by HTF MI evaluating the market risk side analysis, highlighting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-higher-education-market-may-see-a-big-move-major-giants-cerevrum-ibm-google",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-higher-education-market-may-see-a-big-move-major-giants-cerevrum-ibm-google",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/07/Supreme-Court-USA-SCOTUS-Kavanaugh-Roberts-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-24T12:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-06-25-research-finds-babies-can-help-unlock-next-generation-of-artificial-intelligence.md",
+      "title": "Research finds babies can help unlock 'next generation' of artificial intelligence",
+      "excerpt": "According to neuroscientists at the Trinity College Dublin babies can help unlock the next generation of artificial intelligence AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/272598316/research-finds-babies-can-help-unlock-next-generation-of-artificial-intelligence",
+      "originalUrl": "https://www.bignewsnetwork.com/news/272598316/research-finds-babies-can-help-unlock-next-generation-of-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/ani1656095078.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-24T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-25-entrepreneurs-architects-and-artists-why-people-with-dyslexia-could-be-drawn-to-certain-jobs.md",
+      "title": "Entrepreneurs, architects and artists: Why people with dyslexia could be drawn to certain jobs",
+      "excerpt": "Estimates suggest that up to 20% of the population have dyslexia - and the study's aim was to better understand their cognitive strengths. Lead author Dr Helen Taylor said \"the deficit-centred ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.sky.com/story/entrepreneurs-architects-and-artists-why-people-with-dyslexia-could-be-drawn-to-certain-jobs-12639682",
+      "originalUrl": "https://news.sky.com/story/entrepreneurs-architects-and-artists-why-people-with-dyslexia-could-be-drawn-to-certain-jobs-12639682",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://e3.365dm.com/22/06/1600x900/skynews-richard-branson-dyslexia_5813744.jpg?20220624114741",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.sky.com/story/amp/entrepreneurs-architects-and-artists-why-people-with-dyslexia-could-be-drawn-to-certain-jobs-12639682",
+      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/entrepreneurs-architects-and-artists-why-people-with-dyslexia-could-be-drawn-to-certain-jobs-12639682",
+      "publishedDateTime": "2022-06-24T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sky",
+        "domain": "sky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-analyze-and-tag-assets-stored-in-veeva-vault-promomats-using-amazon-appflow-and-amazon-ai-services.md",
+      "title": "Analyze and tag assets stored in Veeva Vault PromoMats using Amazon AppFlow and Amazon AI Services",
+      "excerpt": "In a previous post, we talked about analyzing and tagging assets stored in Veeva Vault PromoMats using Amazon AI services and the Veeva Vault Platform’s APIs. In this post, we explore how to use Amazon AppFlow, a fully managed integration service that enables you to securely transfer data from software",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/analyze-and-tag-assets-stored-in-veeva-vault-promomats-using-amazon-appflow-and-amazon-ai-services/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/analyze-and-tag-assets-stored-in-veeva-vault-promomats-using-amazon-appflow-and-amazon-ai-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/24/analyze-and-tag-assets-veeva.jpg",
+          "width": 1248,
+          "height": 621,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-24T10:56:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-25-everything-you-need-to-know-about-model-free-and-model-based-reinforcement-learning.md",
+      "title": "Everything you need to know about model-free and model-based reinforcement learning",
+      "excerpt": "However, while inductive biases might be easy to understand for an object recognition task, they become a lot more complicated for abstract problems such as building social relationships.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/everything-you-need-to-know-about-model-free-and-model-based-reinforcement-learning",
+      "originalUrl": "https://thenextweb.com/news/everything-you-need-to-know-about-model-free-and-model-based-reinforcement-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2FModel-free-reinforcement-learning-hed.jpg&signature=f17cf502cd5c0a56428d0d9336650ba5",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-24T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-25-the-smartest-way-to-play-the-autonomous-vehicle-boom.md",
+      "title": "The Smartest Way to Play the Autonomous Vehicle Boom",
+      "excerpt": "Breuer “invented” the concept of self-driving cars. At the time, it was considered a wild concept from a zany novelist. But over the following century, Breuer’s concept of autonomy inspired ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/hypergrowthinvesting/2022/06/the-autonomous-vehicle-boom-self-driving-car-stocks/",
+      "originalUrl": "https://investorplace.com/hypergrowthinvesting/2022/06/the-autonomous-vehicle-boom-self-driving-car-stocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2022/02/electric-autonomous-vehicles-city.png",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-24T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-25-on-crm-viva-adds-to-microsofts-organized-chaos-of-apps.md",
       "title": "On CRM: Viva Adds To Microsoft's Organized Chaos Of Apps",
       "excerpt": "In Microsoft's case, yes. The software giant makes…well…software. Lots and lots of it. Too much of it, actually. Just think of the company's primary business application offerings, many of which are under the brand of Microsoft 365.",
@@ -706,420 +1122,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-some-people-do-better-on-cognitive-tasks-while-walking.md",
-      "title": "Some People Do Better on Cognitive Tasks while Walking",
-      "excerpt": "Some young and healthy people improve performance on cognitive tasks while walking by changing the use of neural resources, according to a new study. It has long been thought that when walking is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.govexec.com/workforce/2022/06/some-people-do-better-cognitive-tasks-while-walking/368508/",
-      "originalUrl": "https://www.govexec.com/workforce/2022/06/some-people-do-better-cognitive-tasks-while-walking/368508/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.govexec.com/media/img/cd/2022/06/23/062322walking/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-24T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Executive",
-        "domain": "govexec.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-ai-writing-assistants-are-they-worth-using-in-2022.md",
-      "title": "AI Writing Assistants: Are They Worth Using In 2022?",
-      "excerpt": "AI assistants can assist copywriters by providing writing prompts, offering suggestions, identifying trends and checking for plagiarism.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2022/06/24/ai-writing-assistants-are-they-worth-using-in-2022/",
-      "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2022/06/24/ai-writing-assistants-are-they-worth-using-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//615382e277b406d68cb8398a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 882,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2022/06/24/ai-writing-assistants-are-they-worth-using-in-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2022/06/24/ai-writing-assistants-are-they-worth-using-in-2022/amp/",
-      "publishedDateTime": "2022-06-24T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-artificial-intelligence-in-fashion-retail-market-is-thriving-worldwide-by-2027-top-key-players-microsoft-ibm-google-aws.md",
-      "title": "Artificial Intelligence In Fashion Retail Market is Thriving worldwide by 2027| Top Key Players Microsoft, IBM, Google, AWS",
-      "excerpt": "utm_source=dj&utm_medium=46 The major players covered in Artificial Intelligence In Fashion Retail Markets: Microsoft, IBM, Google, AWS, SAP, Facebook, Adobe, Oracle, Catchoom, Huawei ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-fashion-retail-market-is-thriving-worldwide-by-2027-top-key-players-microsoft-ibm-google-aws",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-fashion-retail-market-is-thriving-worldwide-by-2027-top-key-players-microsoft-ibm-google-aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/7c85f8a109a88478f7c881b77157ec52afd8ef79-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-24T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-tesla-relaunches-6000-enhanced-autopilot-gutting-full-self-driving-package-in-the-process.md",
-      "title": "Tesla relaunches $6,000 Enhanced Autopilot – gutting Full Self-Driving package in the process",
-      "excerpt": "Tesla has relaunched its Enhanced Autopilot option and pulled almost all the features from its Full Self-Driving (FSD) package in the process. Over the years, Tesla has changed its Autopilot options and pricing so many times,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/06/24/tesla-relaunches-enhanced-autopilot-gutting-full-self-driving-package/",
-      "originalUrl": "https://electrek.co/2022/06/24/tesla-relaunches-enhanced-autopilot-gutting-full-self-driving-package/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/07/Tesla-Autopilot-hero-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/06/24/tesla-relaunches-enhanced-autopilot-gutting-full-self-driving-package/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/06/24/tesla-relaunches-enhanced-autopilot-gutting-full-self-driving-package/amp/",
-      "publishedDateTime": "2022-06-24T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-coimbatore-airport-has-now-ai-powered-robots-know-how-they-help-flyers.md",
-      "title": "Coimbatore airport has now AI-powered robots. Know how they help flyers",
-      "excerpt": "The Airport Authority of India (AAI) said it is bringing the help desk to the passenger rather than passengers approaching the help desk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/india-news/coimbatore-airport-has-now-ai-powered-robots-know-how-they-help-flyers-101656061106109.html",
-      "originalUrl": "https://www.hindustantimes.com/india-news/coimbatore-airport-has-now-ai-powered-robots-know-how-they-help-flyers-101656061106109.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2022/06/24/1600x900/coimbatore_airport_robot_1656061098972_1656061099178.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/india-news/coimbatore-airport-has-now-ai-powered-robots-know-how-they-help-flyers-101656061106109-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/india-news/coimbatore-airport-has-now-ai-powered-robots-know-how-they-help-flyers-101656061106109-amp.html",
-      "publishedDateTime": "2022-06-24T02:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-next-big-thing-in-the-future-of-finance-fintech-revolution.md",
-      "title": "Next big thing in the future of finance: Fintech revolution",
-      "excerpt": "Fintech has changed the lives and habits of people by making it easy to trade, bank, exchange money, take loans without the need for physical human interaction. Innovations and revolutions are what the technology",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/next-big-thing-in-the-future-of-finance-fintech-revolution/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/next-big-thing-in-the-future-of-finance-fintech-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/06/Pic-1-7.png",
-          "width": 487,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/next-big-thing-in-the-future-of-finance-fintech-revolution/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/next-big-thing-in-the-future-of-finance-fintech-revolution/",
-      "publishedDateTime": "2022-06-23T22:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-cognitive-skills-for-engineering-success.md",
-      "title": "Cognitive Skills for Engineering Success",
-      "excerpt": "What follows will outline what I have found to be the most essential cognitive skills that contribute to engineering success. The primacy of critical thinking is such a worn-out aphorism that most ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technewsworld.com/story/cognitive-skills-for-engineering-success-176867.html",
-      "originalUrl": "https://www.technewsworld.com/story/cognitive-skills-for-engineering-success-176867.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.technewsworld.com/wp-content/uploads/sites/3/2022/03/digital-identity.jpg",
-          "width": 1000,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNewsWorld",
-        "domain": "technewsworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-amazon-shows-off-alexa-feature-that-mimics-the-voices-of-your-dead-relatives.md",
-      "title": "Amazon shows off Alexa feature that mimics the voices of your dead relatives",
-      "excerpt": "Amazon has revealed an experimental Alexa feature that allows the AI assistant to mimic the voices of users’ dead relatives. The company demoed the feature at its annual MARS conference ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/6/23/23179748/amazon-alexa-feature-mimic-voice-dead-relative-ai",
-      "originalUrl": "https://www.theverge.com/2022/6/23/23179748/amazon-alexa-feature-mimic-voice-dead-relative-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/InAzvn-WcHBy1UXFlR62QNMNS6g=/0x148:2050x1221/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21989893/dseifert_201025_4263_0007.0.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T19:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-nigerias-oil-sector-looks-as-robotics-adoption-picks-up.md",
-      "title": "Nigeria’s oil sector looks as robotics adoption picks up",
-      "excerpt": "The world is prepping for an oil and gas industry where completely unmanned assets are operated, inspected and maintained with digitisation and artificial",
-      "sourceUrl": null,
-      "webUrl": "https://businessday.ng/uncategorized/article/nigerias-oil-sector-looks-as-robotics-adoption-picks-up/",
-      "originalUrl": "https://businessday.ng/uncategorized/article/nigerias-oil-sector-looks-as-robotics-adoption-picks-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2017/11/How-robots-will-change-dynamics-of-shared-services-centralised-processing-1-1.jpg?resize=450%2C300&ssl=1",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://businessday.ng/amp/uncategorized/article/nigerias-oil-sector-looks-as-robotics-adoption-picks-up/",
-      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/uncategorized/article/nigerias-oil-sector-looks-as-robotics-adoption-picks-up/",
-      "publishedDateTime": "2022-06-23T18:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businessday",
-        "domain": "businessday.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

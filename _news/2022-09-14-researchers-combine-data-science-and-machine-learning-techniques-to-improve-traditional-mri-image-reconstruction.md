@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-14T13:37:00Z
 originalUrl: "https://medicalxpress.com/news/2022-09-combine-science-machine-techniques-traditional.html"
 webUrl: "https://medicalxpress.com/news/2022-09-combine-science-machine-techniques-traditional.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Medical Xpress

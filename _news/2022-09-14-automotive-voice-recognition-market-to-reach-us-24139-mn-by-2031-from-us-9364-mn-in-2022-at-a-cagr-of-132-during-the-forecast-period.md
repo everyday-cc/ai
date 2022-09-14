@@ -96,20 +96,17 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 4
-  - title: "Global Smart Shelves Market Report 2022: Growth in Demand for AI-Powered Dynamic Pricing Solutions Presents Opportunities - ResearchAndMarkets.com"
-    excerpt: "The global Smart Shelves market size is expected to grow from an estimated value of USD 3.0 billion in 2022 to USD 8.3 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 22.4% from 2022 to 2027."
-    publishedDateTime: 2022-09-12T08:19:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-b02877a988104136847a01e1c76eccc5"
+  - title: "Asia-Pacific Digital Payments Market Set to More than Triple Its Size Crossing USD 67 Billion by 2028 | BlueWeave Consulting"
+    excerpt: "Asia-Pacific (APAC) digital payments market is booming owing to convenience of transactions, widespread usage of smartphones, and the financial inclusion opportunities"
+    publishedDateTime: 2022-09-14T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28867535/asia-pacific-digital-payments-market-set-to-more-than-triple-its-size-crossing-usd-67-billion-by-2"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28867535"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28867535"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "UPjMyt0SvqwHNohHf+Del9+4NapgyGQlpO5odsR6Y5PotwbbkQzjshYUI1uNiCoamfAweODoKHh6/uOvZaWmFM4jgwumLeWHD/L1eCWoBn5foWuiEk64Rj5lBfl7VfnHnl3zbiwRrmHZ9Nh7czEXbLcKW+MuQ6EShcfr2p4Cl6ZzjNaXXup+F4Fh1Uf/R+UY/qWEIkvZmNrFesbIV+DgN8dY7IvFAnBtaBHph1eN02hotfdiaAkEqWiXxVr1Y3DLgVkfTc5faNKxMwp3ZGziF4NxF1vzUKoW7PvmPay7Nb2TTp1XtJErtZ3OvdjNPj4pnXS3MMR+NEbCRIclKSS+YSD6gSd7/CcwCV+1IRGX6nY=;oIR/CbXe+rDLFOMjv3RR7w=="
 ---

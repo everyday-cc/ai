@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-14T13:36:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-novatti-group-adopts-thetaray-ai-technology-monitor-global-/2022/09/14/9673318.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-novatti-group-adopts-thetaray-ai-technology-monitor-global-/2022/09/14/9673318.htm"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: TMCnet

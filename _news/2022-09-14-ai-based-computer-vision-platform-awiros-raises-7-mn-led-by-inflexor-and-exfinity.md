@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-14T12:44:00Z
 originalUrl: "https://www.indianweb2.com/2022/09/ai-based-computer-vision-platform.html"
 webUrl: "https://www.indianweb2.com/2022/09/ai-based-computer-vision-platform.html"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: indianweb2.com

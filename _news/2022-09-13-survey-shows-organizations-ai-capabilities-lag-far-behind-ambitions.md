@@ -29,7 +29,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63207cbbed21c73b2f7ec50a/0x0.jpg?format=jpg&crop=5499,3666,x0,y499,safe&width=1200"
         width: 1200
@@ -76,6 +76,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 28
+  - title: "Exxact Partners with Run:ai to Offer Maximal Utilization in GPU Clusters for AI Workloads"
+    excerpt: "Exxact Corporation; a leading provider of high-performance computing (HPC), artificial intelligence (AI), and data center solutions; now offers Run:ai in their solutions. This groundbreaking Kubernetes-based orchestration tool incorporates an AI-dedicated,"
+    publishedDateTime: 2022-09-14T13:00:00Z
+    webUrl: "https://insidebigdata.com/2022/09/14/exxact-partners-with-runai-to-offer-maximal-utilization-in-gpu-clusters-for-ai-workloads/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 25
   - title: "Alibaba Cloud unveils financial services solutions to advance industry digitalization"
     excerpt: "Alibaba Cloud, the digital technology and intelligence backbone of Alibaba Group, today launched its suite of Alibaba Cloud for Financial Services solutions, comprising over 70 products designed to help financial services institutions (FSIs) of all sizes across banking,"
     publishedDateTime: 2022-09-14T11:14:00Z

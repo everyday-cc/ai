@@ -23,6 +23,17 @@ images:
     height: 3200
     isCached: true
 
+related:
+  - title: "Facial Recognition May Reveal Maine Harbor Seal Lifestyles"
+    excerpt: "Facial recognition software could provide scientists with insights into the behavior of harbor seals in Maine."
+    publishedDateTime: 2022-09-12T00:00:00Z
+    webUrl: "https://cacm.acm.org/news/264516-facial-recognition-may-reveal-maine-harbor-seal-lifestyles"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 34
+
 secured: "co4e1sMyhz65EgDE5JHPQphGMye9ekM55vpOWM7r97xySGHiGLuBghRK6qcv19mNu+ZmDjQnbSSOXki9oHyD4qsGFZw5ud44hmRNsAD2UEc281N+loe2CSAUjeWl4DwvOQqABklOJtRJK0oOlsCIlkE6qBm3CtVRlybZIqPilB/br6fEN0ndteV5+bd58I20CRXXksJ7SfxoTzGOJMZAZaxspG+/foxahsbCzn1rU1KERwlUEe16zvSkXAQ9RR+iFfE9c0X3XSZpxUhAKG+ivuODFWDPjqDFSyL5ne9f/hGDTgQgcTwBku+HRq+LyLM42SsWfb8WV8jiafRZ8x8YZ2EU9ZaY8WORZhAvqDHPrNk=;jFhyqOIjTcafybQyOHPdyw=="
 ---
 

@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "NVIDIA’s New H100 GPU Smashes Artificial Intelligence Benchmarking Records"
+    excerpt: "Goodson, dives in as the technical community has been looking forward to seeing how NVIDIA’s monster Hopper H100 Tensor Core GPU would perform ever since its March announcement at GTC2022."
+    publishedDateTime: 2022-09-14T15:08:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 102
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6321ed3e42854ded081b8dca/0x0.jpg?format=jpg&width=1200"
+        width: 624
+        height: 352
+        isCached: true
   - title: "SK-backed AI chip outperforms Nvidia's GPU"
     excerpt: "Sapeon, an artificial intelligence-powered chip designer backed by South Korea's SK Group, unveiled Tuesday a test result that its first commercialized product X220 has outperformed US graphic processor giant Nvidia's newest product A2."
     publishedDateTime: 2022-09-13T05:01:00Z
@@ -35,20 +51,6 @@ related:
         width: 630
         height: 505
         isCached: true
-  - title: "Nvidia’s flagship AI chip reportedly 4.5x faster than the previous champ"
-    excerpt: "Nvidia positions the H100 as a high-end data center GPU chip designed for AI and supercomputer applications such as image recognition, large language models, image synthesis, and"
-    publishedDateTime: 2022-09-09T20:01:00Z
-    webUrl: "https://arstechnica.com/information-technology/2022/09/nvidias-flagship-ai-chip-reportedly-4-5x-faster-than-the-previous-champ/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 83
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/nvidia_h100_hero_3-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "Nvidia Hopper GPU slays predecessor in ML benchmarks"
     excerpt: "Benchmarks aren't the same as real world use, but they can give a good idea of what’s to come, and Nvidia's Hopper GPU performance is impressive."
     publishedDateTime: 2022-09-13T14:09:00Z
@@ -64,6 +66,20 @@ related:
       - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/05/17/10/brain_mind_circuits_connections_artificial_intelligence_by_metamorworks_gettyimages-949321092_1200x800-100767997-large-100928072-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Supermicro Announces 8U ‘Universal GPU’ Server for NVIDIA H100’s"
+    excerpt: "HPC-AI server maker Supermicro today announced what the company said is its most advanced GPU server incorporating eight NVIDIA H100 Tensor Core GPUs. Supermicro now offers three Universal GPU servers: the 4U,"
+    publishedDateTime: 2022-09-13T17:26:00Z
+    webUrl: "https://insidehpc.com/2022/09/supermicro-announces-8u-universal-gpu-server-for-nvidia-h100s/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2022/09/Supermicro-Universal-GPU-Servers-0922-300x215.jpg"
+        width: 300
+        height: 215
         isCached: true
 
 secured: "gwl0gvomm9p7hlZcCHYl/7IDpoAxLTNsUJYBeKHx1J60Myhr3k+rTqS1MpYYRoNGC/VtyRlLCIaRyV0hlOtf+dxeM7t/9Zu98iaixyfyNRG9vmweCvpY5mQV+6npybt+xWj1wNg/HfT7kFaQ1cQidmDbZgE9ZHlMcnmrtRSBCKvLlUhNaEbeDaqrNCoGZFGPQY//4dkEeEOYf6i2J17q9ko4quUtA2DQ5Wft9kZNY1iYUWMdOfWxaPbbGLrJZLJiTSYLrDFcreMj7HrBcErX0VIaQEfI2hXpJNHkuHFe46FOFJxkZyisZaXJhy4/nqXiKDSQSnBR7eO1bT1FokkpFy/PwalDLoFsSplL+7mlkAM=;40XYXOJx+dsGtxO/F/GgOw=="

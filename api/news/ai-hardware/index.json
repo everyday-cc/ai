@@ -2,6 +2,93 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-14-nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records.md",
+      "title": "NVIDIA’s New H100 GPU Smashes Artificial Intelligence Benchmarking Records",
+      "excerpt": "Goodson, dives in as the technical community has been looking forward to seeing how NVIDIA’s monster Hopper H100 Tensor Core GPU would perform ever since its March announcement at GTC2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6321ed3e42854ded081b8dca/0x0.jpg?format=jpg&width=1200",
+          "width": 624,
+          "height": 352,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records/amp/",
+      "publishedDateTime": "2022-09-14T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-is-this-top-chip-stock-a-buy-with-limits-to-sales-in-china-in-place.md",
+      "title": "Is This Top Chip Stock a Buy With Limits to Sales In China in Place?",
+      "excerpt": "The Commerce Department is also putting restrictions on chip fab equipment too, in an effort to limit China's ability to make its own advanced semiconductors. Beijing has been serious about funding the development of its own domestic chip production industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/is-this-top-chip-stock-a-buy-with-limits-to-sales-in-china-in-place",
+      "originalUrl": "https://www.nasdaq.com/articles/is-this-top-chip-stock-a-buy-with-limits-to-sales-in-china-in-place",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T05:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-facebooks-pytorch-ai-ignites-at-the-linux-foundation.md",
       "title": "Facebook's PyTorch AI ignites at the Linux Foundation",
       "excerpt": "PyTorch, one of the most important machine learning frameworks around, is moving from underneath Facebook's rule to the Linux Foundation.",
@@ -214,49 +301,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-13-sk-backed-ai-chip-outperforms-nvidias-gpu.md",
-      "title": "SK-backed AI chip outperforms Nvidia's GPU",
-      "excerpt": "Sapeon, an artificial intelligence-powered chip designer backed by South Korea's SK Group, unveiled Tuesday a test result that its first commercialized product X220 has outperformed US graphic processor giant Nvidia's newest product A2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreaherald.com/view.php?ud=20220913000551",
-      "originalUrl": "https://www.koreaherald.com/view.php?ud=20220913000551",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2022%2F09%2F13%2F20220913000548_0.jpg",
-          "width": 630,
-          "height": 505,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20220913000551",
-      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20220913000551",
-      "publishedDateTime": "2022-09-12T22:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Herald",
-        "domain": "koreaherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-13-ibm-upgrades-linux-mainframe-boosting-availability-and-ai-performance.md",
       "title": "IBM upgrades Linux mainframe, boosting availability and AI performance",
       "excerpt": "Latest IBM mainframe update for Linux provides more power and resilience for mission-critical enterprise workloads.",
@@ -317,7 +361,7 @@
       "originalUrl": "https://www.foxbusiness.com/technology/biden-hit-china-broader-curbs-us-chip-tool-exports",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -352,6 +396,58 @@
       ]
     },
     {
+      "path": "_news/2022-09-12-tighter-vc-capital-forces-ai-startups-to-face-the-music.md",
+      "title": "Tighter VC capital forces AI startups to face the music",
+      "excerpt": "A new Pitchbook report shows that funding for AI startups isn't plentiful as it once was, with some struggling more than others.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/12/tighter-vc-capital-forces-ai-startups-to-face-the-music/",
+      "originalUrl": "https://techcrunch.com/2022/09/12/tighter-vc-capital-forces-ai-startups-to-face-the-music/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1314979456.jpg",
+          "width": 2309,
+          "height": 1299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-12-leadership-in-times-of-ai-driven-automation.md",
       "title": "Leadership In Times Of AI-Driven Automation",
       "excerpt": "Sayantan Dasgupta is a Sr. Director of Demand Generation at Gramener | Ex VC Partner | 2x VP Marketing | 15+ years of leadership experience. The global AI market in 2021 reached a staggering value of $327.",
@@ -360,7 +456,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/09/12/leadership-in-times-of-ai-driven-automation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1367,92 +1463,6 @@
         "AI Hardware",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-us-restricts-sale-of-ai-training-chips-to-china.md",
-      "title": "US restricts sale of AI training chips to China",
-      "excerpt": "The US government has imposed new export restrictions on high-end computers chips used to conduct AI research, citing possible military applications for the technology. Two leading manufacturers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/9/1/23332399/us-restricts-export-ai-training-chips-nvidia-amd-china",
-      "originalUrl": "https://www.theverge.com/2022/9/1/23332399/us-restricts-export-ai-training-chips-nvidia-amd-china",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/t7rBiOJ-78YBRqxP4rDW_qgy-yQ=/0x84:1920x1089/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23987780/dgx_station_sideoff_v1.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-01T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-us-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts.md",
-      "title": "U.S. export ban on some advanced AI chips to hit almost all China tech majors - analysts",
-      "excerpt": "A U.S. order to ban exports of some advanced chips to China is likely to hit almost any major tech company running public clouds or advanced artificial intelligence training modules in the country ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/u.s.-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts",
-      "originalUrl": "https://www.nasdaq.com/articles/u.s.-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/u.s.-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/u.s.-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts?amp",
-      "publishedDateTime": "2022-09-01T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

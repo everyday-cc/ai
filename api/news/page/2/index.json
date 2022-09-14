@@ -2,6 +2,215 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-13-is-ai-the-solution-to-hiring-bias-or-the-cause-of-it.md",
+      "title": "Is AI The Solution To Hiring Bias (Or The Cause Of It)?",
+      "excerpt": "If AI can find qualified candidates and automation software can schedule interviews, confirm appointments, and send email and text messages to candidates, what’s left for a recruiter to do? Turns out,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/13/is-ai-the-solution-to-hiring-bias-or-the-cause-of-it/",
+      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/13/is-ai-the-solution-to-hiring-bias-or-the-cause-of-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f89f505db3eef289c346955/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/13/is-ai-the-solution-to-hiring-bias-or-the-cause-of-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/13/is-ai-the-solution-to-hiring-bias-or-the-cause-of-it/amp/",
+      "publishedDateTime": "2022-09-13T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-13-heres-the-exclusive-16-slide-pitch-deck-that-startup-alcatraz-ai-used-to-raise-25-million-to-open-doors-with-facial-recognition.md",
+      "title": "Here's the exclusive 16-slide pitch deck that startup Alcatraz AI used to raise $25 million to open doors with facial recognition",
+      "excerpt": "AI startup Alcatraz AI's funding was led by global VC firm Almaz Capital, and involved several new and existing investors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-startup-alcatraz-ai-tech-pitch-deck-2022-9",
+      "originalUrl": "https://www.businessinsider.com/ai-startup-alcatraz-ai-tech-pitch-deck-2022-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/631f9683e8b500001850e508?width=1200&format=jpeg",
+          "width": 963,
+          "height": 481,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-09-13-the-new-artificial-intelligence-of-car-audio-might-improve-more-than-just-tunes.md",
+      "title": "The New Artificial Intelligence Of Car Audio Might Improve More Than Just Tunes",
+      "excerpt": "Hollywood has perennially portrayed Artificial Intelligence (AI) as the operating layer of dystopian robots who replace unsuspecting humans and create the escalating, central conflict. Yet, AI is now enhancing entertainment and,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevetengler/2022/09/13/the-new-artificial-intelligence-of-car-audio-might-improve-more-than-just-tunes/",
+      "originalUrl": "https://www.forbes.com/sites/stevetengler/2022/09/13/the-new-artificial-intelligence-of-car-audio-might-improve-more-than-just-tunes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62f137c370d99665add408c4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevetengler/2022/09/13/the-new-artificial-intelligence-of-car-audio-might-improve-more-than-just-tunes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevetengler/2022/09/13/the-new-artificial-intelligence-of-car-audio-might-improve-more-than-just-tunes/amp/",
+      "publishedDateTime": "2022-09-13T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-13-ibm-upgrades-linux-mainframe-boosting-availability-and-ai-performance.md",
+      "title": "IBM upgrades Linux mainframe, boosting availability and AI performance",
+      "excerpt": "Latest IBM mainframe update for Linux provides more power and resilience for mission-critical enterprise workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/ibm-upgrades-linux-mainframe-boosting-availability-and-ai-performance/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/ibm-upgrades-linux-mainframe-boosting-availability-and-ai-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/IBM_linuxone_emperor_4_data_center_091222-e1663022887839.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 901,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/data-infrastructure/ibm-upgrades-linux-mainframe-boosting-availability-and-ai-performance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/ibm-upgrades-linux-mainframe-boosting-availability-and-ai-performance/amp/",
+      "publishedDateTime": "2022-09-12T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-13-the-startup-making-robotic-arms-more-accessible-and-less-complicated.md",
       "title": "The Startup Making Robotic Arms More Accessible And Less Complicated",
       "excerpt": "Ally Robotics, a startup specializing in AI-powered robotic arms, is working on doing just that. Ally is ushering in a new era of robotics—and giving early investors a unique opportunity to join the golden age.",
@@ -149,6 +358,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-12-save-the-date-join-aws-at-nvidia-gtc-september-1922.md",
+      "title": "Save the date: Join AWS at NVIDIA GTC, September 19–22",
+      "excerpt": "Register free for NVIDIA GTC to learn from experts on how AI and the evolution of the 3D internet are profoundly impacting industries—and society as a whole. We have prepared several AWS sessions to give you guidance on how to use AWS services powered by NVIDIA technology to meet your goals. Amazon Elastic",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/save-the-date-join-aws-at-nvidia-gtc-september-19-22/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/save-the-date-join-aws-at-nvidia-gtc-september-19-22/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T11:41:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-13-biden-to-hit-china-with-broader-curbs-on-us-chip-and-tool-exports.md",
       "title": "Biden to hit China with broader curbs on US chip and tool exports",
       "excerpt": "The Biden administration plans next month to broaden curbs on U.S shipments to China of semiconductors used for artificial intelligence and chipmaking tools.",
@@ -157,7 +409,7 @@
       "originalUrl": "https://www.foxbusiness.com/technology/biden-hit-china-broader-curbs-us-chip-tool-exports",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -239,6 +491,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-tighter-vc-capital-forces-ai-startups-to-face-the-music.md",
+      "title": "Tighter VC capital forces AI startups to face the music",
+      "excerpt": "A new Pitchbook report shows that funding for AI startups isn't plentiful as it once was, with some struggling more than others.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/12/tighter-vc-capital-forces-ai-startups-to-face-the-music/",
+      "originalUrl": "https://techcrunch.com/2022/09/12/tighter-vc-capital-forces-ai-startups-to-face-the-music/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1314979456.jpg",
+          "width": 2309,
+          "height": 1299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -397,7 +701,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/09/12/leadership-in-times-of-ai-driven-automation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -438,6 +742,59 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-artificial-intelligence-and-machine-learning-market-impressive-growth-future-demand-during-forecast-period-2022-2028-aibrain-amazon-anki.md",
+      "title": "Artificial Intelligence and Machine Learning Market Impressive Growth & Future Demand During Forecast Period 2022-2028 | AIBrain, Amazon, Anki",
+      "excerpt": "The research report also includes the present market and its growth potentials in the given period of forecast. An exhaustive and professional study of the global Artificial Intelligence and Machine Learning market report has been completed by industry professionals and presented in the most particular manner to present only the details that matter the most.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-impressive-growth-future-demand-during-forecast-period-2022-2028-aibrain-amazon-anki-2022-09-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-impressive-growth-future-demand-during-forecast-period-2022-2028-aibrain-amazon-anki-2022-09-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -812,21 +1169,21 @@
       ]
     },
     {
-      "path": "_news/2022-09-10-deloittes-beena-ammanath-on-ethics-in-artificial-intelligence.md",
-      "title": "Deloitte’s Beena Ammanath on Ethics in Artificial Intelligence",
-      "excerpt": "Does the torrid pace of investment in AI create challenges for the development of an ethical practice in this emerging technology?",
+      "path": "_news/2022-09-10-artificial-intelligence-is-now-used-to-track-down-hate-speech.md",
+      "title": "Artificial intelligence is now used to track down hate speech",
+      "excerpt": "Meta took action on more than 15 million pieces of hate speech content on Facebook. Roughly 95% of that was detected proactively by Facebook with the help of AI.",
       "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/video/deloitte-ethics-in-artificial-intelligence/",
-      "originalUrl": "https://www.eweek.com/video/deloitte-ethics-in-artificial-intelligence/",
+      "webUrl": "https://www.fox13now.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech",
+      "originalUrl": "https://www.fox13now.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/09/eSPEAKS-thumbnail-2.png",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://cdn.newsy.com/images/videos/m/1660250991_F4WYcV.jpg",
+          "width": 640,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -834,23 +1191,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-09T13:37:00-07:00",
+      "ampWebUrl": "https://www.fox13now.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true",
+      "cdnAmpWebUrl": "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true",
+      "publishedDateTime": "2022-09-09T14:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "KSTU",
+        "domain": "fox13now.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -859,375 +1207,7 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-10-eu-ai-acts-possible-open-source-regulation-sparks-twitter-debate.md",
-      "title": "EU AI Act’s possible open-source regulation sparks Twitter debate",
-      "excerpt": "Alex Engler never expected his Brookings article about the EU’s attempt to regulate open-source AI to stir up Twitter debate.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/eu-ai-acts-possible-open-source-regulation-sparks-twitter-debate/",
-      "originalUrl": "https://venturebeat.com/ai/eu-ai-acts-possible-open-source-regulation-sparks-twitter-debate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1213704893.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/eu-ai-acts-possible-open-source-regulation-sparks-twitter-debate/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/eu-ai-acts-possible-open-source-regulation-sparks-twitter-debate/amp/",
-      "publishedDateTime": "2022-09-09T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-10-11-tech-experts-on-how-small-businesses-can-effectively-leverage-machine-learning.md",
-      "title": "11 Tech Experts On How Small Businesses Can Effectively Leverage Machine Learning",
-      "excerpt": "There are plenty of ways even startups can use ML to boost their odds of success, from predicting future purchases to taking labor-intensive tasks off their team members’ plates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/09/11-tech-experts-on-how-small-businesses-can-effectively-leverage-machine-learning/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/09/11-tech-experts-on-how-small-businesses-can-effectively-leverage-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6319f94d9b5e31274c213f35/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/09/11-tech-experts-on-how-small-businesses-can-effectively-leverage-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/09/11-tech-experts-on-how-small-businesses-can-effectively-leverage-machine-learning/amp/",
-      "publishedDateTime": "2022-09-09T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-tips-to-improve-your-amazon-rekognition-custom-labels-model.md",
-      "title": "Tips to improve your Amazon Rekognition Custom Labels model",
-      "excerpt": "In this post, we discuss best practices to improve the performance of your computer vision models using Amazon Rekognition Custom Labels. Rekognition Custom Labels&nbsp;is a fully managed service to build custom computer vision models for image classification and object detection use cases. Rekognition",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/tips-to-improve-your-amazon-rekognition-custom-labels-model/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/tips-to-improve-your-amazon-rekognition-custom-labels-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/09/tips-for-rekognition-custom-models.jpg",
-          "width": 1534,
-          "height": 764,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-09T09:37:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-use-adfs-oidc-as-the-idp-for-an-amazon-sagemaker-ground-truth-private-workforce.md",
-      "title": "Use ADFS OIDC as the IdP for an Amazon SageMaker Ground Truth private workforce",
-      "excerpt": "To train a machine learning (ML) model, you need a large, high-quality, labeled dataset. Amazon SageMaker Ground Truth helps you build high-quality training datasets for your ML models. With Ground Truth, you can use workers from either Amazon Mechanical Turk, a vendor company of your choosing, or an",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-adfs-oidc-as-the-idp-for-an-amazon-sagemaker-ground-truth-private-workforce/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-adfs-oidc-as-the-idp-for-an-amazon-sagemaker-ground-truth-private-workforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/09/adfs-oidc-sagemaker-ground-truth.jpg",
-          "width": 1533,
-          "height": 767,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-09T09:34:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-build-repeatable-secure-and-extensible-end-to-end-machine-learning-workflows-using-kubeflow-on-aws.md",
-      "title": "Build repeatable, secure, and extensible end-to-end machine learning workflows using Kubeflow on AWS",
-      "excerpt": "This is a guest blog post cowritten with athenahealth. athenahealth&nbsp;a leading provider of network-enabled software and services for medical groups and health systems nationwide. Its electronic health records, revenue cycle management, and patient engagement tools allow anytime, anywhere access,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-repeatable-secure-and-extensible-end-to-end-machine-learning-workflows-using-kubeflow-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-repeatable-secure-and-extensible-end-to-end-machine-learning-workflows-using-kubeflow-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/09/repeatable-secure-kubeflow.jpg",
-          "width": 1534,
-          "height": 766,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-09T09:21:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-deep-dive-how-ai-content-generators-work.md",
-      "title": "Deep Dive: How AI content generators work",
-      "excerpt": "AI content generators cannot be subjective, no matter how great the ML training using structured data is, but their uses can be additive to marketing teams.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/deep-dive-how-ai-content-generators-work/",
-      "originalUrl": "https://venturebeat.com/ai/deep-dive-how-ai-content-generators-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/02/ai-marketing-shutterstock_741922060.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/deep-dive-how-ai-content-generators-work/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/deep-dive-how-ai-content-generators-work/amp/",
-      "publishedDateTime": "2022-09-09T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests.md",
-      "title": "Beyond Mere Efficiency: Artificial Intelligence is Transforming Culture, Study Suggests",
-      "excerpt": "Executives who saw significant financial benefits from their AI initiatives were 10x more likely to change how they measure success than those who saw no such benefits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/09/09/beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/09/09/beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/631b608de551689b89d7038c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/09/09/beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/09/09/beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests/amp/",
-      "publishedDateTime": "2022-09-09T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

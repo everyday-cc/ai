@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-14T12:12:00Z
 originalUrl: "https://apnews.com/press-release/globe-newswire/technology-health-35b6a51fc1bbb68ebbb9bec6e589912d"
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-health-35b6a51fc1bbb68ebbb9bec6e589912d"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: Associated Press

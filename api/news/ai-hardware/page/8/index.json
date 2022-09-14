@@ -2,6 +2,103 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-06-10-google-introduces-major-upgrades-to-its-vertex-ai-platform.md",
+      "title": "Google introduces major upgrades to its Vertex AI platform",
+      "excerpt": "Google's Vertex AI is a managed ML platform designed to enable developers to speed up the deployment and maintenance of their AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/09/google-introduces-major-upgrades-to-its-vertex-ai-platform/",
+      "originalUrl": "https://venturebeat.com/2022/06/09/google-introduces-major-upgrades-to-its-vertex-ai-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1202870693.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 691,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/09/google-introduces-major-upgrades-to-its-vertex-ai-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/09/google-introduces-major-upgrades-to-its-vertex-ai-platform/amp/",
+      "publishedDateTime": "2022-06-09T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-apples-m2-chip-gives-new-macbook-air-a-speed-boost.md",
+      "title": "Apple's M2 Chip Gives New MacBook Air a Speed Boost",
+      "excerpt": "This story is part of WWDC 2022, CNET's complete coverage from and about Apple's annual developers conference. Apple on Monday debuted the new M2 processor, a chip that improves c",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/computing/apples-m2-chip-gives-new-macbook-air-a-speed-boost/",
+      "originalUrl": "https://www.cnet.com/tech/computing/apples-m2-chip-gives-new-macbook-air-a-speed-boost/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-08T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-08-a-new-optical-brain-like-chip-can-process-2-billion-images-per-second.md",
       "title": "A new optical brain-like chip can process 2 billion images per second",
       "excerpt": "Researchers at the Penn School of Engineering and Applied Science have created a new optical brain-like chip that processes 2 billion images a second.",
@@ -1281,102 +1378,6 @@
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-ayar-labs-teams-with-nvidia-for-optical-interconnects-to-speed-up-aiml-chips.md",
-      "title": "Ayar Labs teams with Nvidia for optical interconnects to speed up AI/ML chips",
-      "excerpt": "AI/ML and other data-heavy interactions, the company said. At least at the outset of their release into the market, the new optical chips will go to CPU and GPU makers (such as Intel, Nvidia ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/25/ayar-labs-teams-with-nvidia-for-optical-interconnects-to-speed-up-ai-ml-chips/",
-      "originalUrl": "https://venturebeat.com/2022/05/25/ayar-labs-teams-with-nvidia-for-optical-interconnects-to-speed-up-ai-ml-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T05:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-amd-fsr-20-vs-dlss-performance-in-deathloop.md",
-      "title": "AMD FSR 2.0 vs. DLSS Performance in Deathloop",
-      "excerpt": "DLSS takes a closed-source AI based approach ... comparison between today's main upscaling technologies from the two GPU vendors. Check out the video below for a lot of detail on how visual ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/review/2464-amd-fsr-2-vs-dlss-benchmark/",
-      "originalUrl": "https://www.techspot.com/review/2464-amd-fsr-2-vs-dlss-benchmark/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/articles-info/2464/images/2022-05-18-image-16.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T19:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

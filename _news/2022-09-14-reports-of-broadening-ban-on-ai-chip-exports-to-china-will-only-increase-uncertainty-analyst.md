@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "US Chip Curbs Will Highlight Cracks in China’s AI Strategy"
-    excerpt: "Tighter restrictions on US semiconductor and equipment sales are set to test China’s artificial intelligence superpowers as Washington removes a key plank of next-generation technological development."
-    publishedDateTime: 2022-09-13T04:45:00Z
-    webUrl: "https://english.aawsat.com/home/article/3870931/tim-culpan/us-chip-curbs-will-highlight-cracks-china’s-ai-strategy"
-    type: article
-    provider:
-      name: الشرق الأوسط
-      domain: aawsat.com
-    quality: 56
-    images:
-      - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2020/08/06/tim_culpan_headshotc.jpg?itok=-OQhTljp"
-        width: 346
-        height: 383
-        isCached: true
   - title: "US' planned curbs on chip exports seen as tech hegemony"
     excerpt: "Washington's reported plan to broaden curbs on US shipments of artificial intelligence chips to China is an act of technological hegemony that will further weigh down on the global semiconductor industrial chain and harm the interests of US chip companies,"
     publishedDateTime: 2022-09-14T01:07:00Z

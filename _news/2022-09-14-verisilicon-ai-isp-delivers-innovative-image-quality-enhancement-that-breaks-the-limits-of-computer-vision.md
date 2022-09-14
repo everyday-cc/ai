@@ -34,15 +34,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 18
-  - title: "Cadence Revolutionizes Verification Productivity with the Verisium AI-Driven Verification Platform"
-    excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the Cadence ® Verisium ™ Artificial Intelligence (AI)-Driven Verification Platform, a suite of applications leveraging big data and AI to optimize verification workloads,"
-    publishedDateTime: 2022-09-13T16:23:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/09/13/9672669.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
 
 secured: "5qlMF/MCpLIfCOHDG3zFP4vyvFf46TyFDe9wJdiBueGeeNkvdvQK6P+8QQRdVjLceMUEuz9BMKlkpjDP3YiaEAGACxVadWYn9HcqHJVfKOrSz9U1tR3j2BEBKwJDFrFvaSZSKMZe5qY5vE8z1RIIi9JzMnVtL4a50ihRIO+xkQlCfVppGksQK2duSPZYUZlp4jJMrAGK6rGpQIE56bU1TMTtX5qjVxw86gKe/hnlFizv2YLqRBjAjC+fcg5LIs3CGP5Ys43JV423mNDQxPDAHwj93KtpYPB6xYUEBmO0l2VB7izHocImB5PNpOoPAP2CGKSvh8zXwICoX8p/Ffm+YKpsEer6t/DSpgFsaVcbEKRInwFj31UwkbtShPHuZhg/2BBjd2/4yGTVgseoSmHZ2jy4DrJfEY6bcMmR3CgOues/NHkgb98ai3vFSC1NhFamgvxXWBtyVNYQDBpn7Z3FbfAGwDhgnLiav+ZRFvqP8zXvrOciBuerAjGMPxrPWDA6Ozo0u902JtXy8EaI4wr+0A==;PmvwP9r9E5XMES+KrJKUBA=="
 ---

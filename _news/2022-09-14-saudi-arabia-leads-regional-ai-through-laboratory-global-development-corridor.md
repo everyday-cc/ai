@@ -9,7 +9,7 @@ ampWebUrl: "https://english.aawsat.com/home/article/3873176/saudi-arabia-leads-r
 cdnAmpWebUrl: "https://english-aawsat-com.cdn.ampproject.org/c/s/english.aawsat.com/home/article/3873176/saudi-arabia-leads-regional-ai-through-laboratory-global-development-corridor?amp"
 type: article
 quality: 55
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -83,6 +83,15 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "GACA Adopts Artificial Intelligence Technology \"ICMOR\" for Operational Use at Saudi Airports"
+    excerpt: "The General Authority of Civil Aviation (GACA) announced the adoption of the Artificial Intelligence security screening technology (ICMOR) for operational use in Saudi airports. This announcement was made on the sidelines of the opening session of the Global Artificial Intelligence Summit in its second edition under the title \"Artificial Intelligence for the Good of Humanity\" - organized by the Saudi Authority for Data and Artificial Intelligence (SDAIA) and held at the King Abdulaziz International Conference Center in Riyadh."
+    publishedDateTime: 2022-09-14T13:01:00Z
+    webUrl: "https://www.spa.gov.sa/2383937"
+    type: article
+    provider:
+      name: spa.gov.sa
+      domain: spa.gov.sa
+    quality: 21
   - title: "SDAIA: The Kingdom of Saudi Arabia Announces Program for 2nd Global AI Summit"
     excerpt: "The Saudi Data & AI Authority (SDAIA) has announced its official schedule and speaker roster for the 2nd Global AI Summit, set to take place on September 13 - 15, 2022, in Riyadh, Saudi Arabia. The theme of the summit is \"AI for the Good of Humanity\","
     publishedDateTime: 2022-09-14T01:10:00Z

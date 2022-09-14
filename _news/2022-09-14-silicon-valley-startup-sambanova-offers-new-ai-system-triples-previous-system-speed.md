@@ -21,6 +21,22 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "SambaNova Systems gives its integrated AI hardware and software platform a massive performance boost"
+    excerpt: "SambaNova Systems gives its integrated AI hardware and software platform a massive performance boost - SiliconANGLE"
+    publishedDateTime: 2022-09-14T15:00:00Z
+    webUrl: "https://siliconangle.com/2022/09/14/sambanova-systems-gives-integrated-ai-hardware-software-platform-massive-performance-boost/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/sambanova-systems.png"
+        width: 677
+        height: 502
+        isCached: true
+
 secured: "3cbSscjb9hyGlKpPzKjmtLa4dJAxHQ46T5MB5IZ6F4AC+UXuN8T7orWdG6KEzot7ZCko0XSKrG2+mK7e2KeN9yOyYrPC2BUBLZwnd2/MO32xLDuZpFKhbAIr64F7yz60iDCQdLLG3ykl4kO8YJmOKj9l+H44KjhOEB357+bcJW5tI9NV4muk3nGeP2EBe5J+HoZTrB1bQX48tQJtAi3gA7KwYvTgYuNptZVGksKm3D7kwhe7Mk7j/IC5gjHiQy5WF4+f2c4NsjsH6vDiirO6/qtCeN4DgoeKVbW/4NMkNgk3fY4TBnnKVvhTqSypF3dxxeznany1C9NVof5QRsJ45JInyoyv7nDYgHbkvXjkF8E=;/6CRKbiBIM6uXizL7+znsw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/nikes-sneaker-cleaning-robot-is
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nikes-sneaker-cleaning-robot-is-like-a-car-wash-for-shoes/"
 type: article
 quality: 89
-heat: 90
+heat: 91
 published: true
 
 provider:

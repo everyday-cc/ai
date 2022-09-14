@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-14T12:08:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/unilabs-selects-proscia-s-ai-for-skin-pathology-1031742472"
 webUrl: "https://markets.businessinsider.com/news/stocks/unilabs-selects-proscia-s-ai-for-skin-pathology-1031742472"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Business Insider

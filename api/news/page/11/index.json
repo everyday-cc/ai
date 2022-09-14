@@ -2,6 +2,413 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-08-31-a-look-back-at-gartners-data-and-analytics-summit-2022.md",
+      "title": "A Look Back at Gartner's Data and Analytics Summit 2022",
+      "excerpt": "Data and analytics are the lifeblood of modern companies and, like so many other things tech-based, they are evolving.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/analytics/a-look-back-at-gartners-data-and-analytics-summit-2022/",
+      "originalUrl": "https://www.cmswire.com/analytics/a-look-back-at-gartners-data-and-analytics-summit-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T06:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-cerebras-systems-enables-gpu-impossible-long-sequence-lengths-improving-accuracy-in-natural-language-processing-models.md",
+      "title": "Cerebras Systems Enables GPU-Impossible™ Long Sequence Lengths Improving Accuracy in Natural Language Processing Models",
+      "excerpt": "This type of GPU infrastructure requires specialized expertise and valuable ... We have come together to build a new class of computer system, designed for the singular purpose of accelerating AI and changing the future of AI work forever.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cerebras-systems-enables-gpu-impossibletm-long-sequence-lengths-improving-accuracy-in-natural-language-processing-models-2022-08-31",
+      "originalUrl": "https://www.marketwatch.com/press-release/cerebras-systems-enables-gpu-impossibletm-long-sequence-lengths-improving-accuracy-in-natural-language-processing-models-2022-08-31",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-expertai-launches-turn-language-into-action-a-natural-language-hackathon-for-good.md",
+      "title": "Expert.ai Launches \"Turn Language into Action\" a Natural Language Hackathon for Good",
+      "excerpt": "Expert.ai Launches \"Turn Language into Action\" a Natural Language Hackathon for Good Aug (PRNewswire via COMTEX) -- PR Newswire BOSTON, Aug.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/expertai-launches-turn-language-into-action-a-natural-language-hackathon-for-good-2022-08-31",
+      "originalUrl": "https://www.marketwatch.com/press-release/expertai-launches-turn-language-into-action-a-natural-language-hackathon-for-good-2022-08-31",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-revolutions-start-with-the-green-data-center.md",
+      "title": "Revolutions Start With The Green Data Center",
+      "excerpt": "Without the right amount of computing power and the proper investment in green data center technologies to achieve both greater power and efficiency, we won’t be able to harness the intelligence required.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/08/31/revolutions-start-with-the-green-data-center/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/08/31/revolutions-start-with-the-green-data-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/630e245943306ea78a04b7de/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/08/31/revolutions-start-with-the-green-data-center/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/08/31/revolutions-start-with-the-green-data-center/amp/",
+      "publishedDateTime": "2022-08-31T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-how-france-is-preparing-for-a-future-of-driverless-vehicles.md",
+      "title": "How France is preparing for a future of driverless vehicles",
+      "excerpt": "The update to the French legal framework will be important for future driverless cars, though. In case of an accident, if the autonomous driving system of the car is activated, the “driver ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thelocal.fr/20220831/how-france-is-preparing-for-a-future-of-driverless-vehicles/",
+      "originalUrl": "https://www.thelocal.fr/20220831/how-france-is-preparing-for-a-future-of-driverless-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Local",
+        "domain": "thelocal.fr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-jio-haptik-collaborates-with-microsoft-azure-to-enhance-hindi-chatbots.md",
+      "title": "Jio Haptik collaborates with Microsoft Azure to enhance Hindi chatbots",
+      "excerpt": "The company claims that it has facilitated over 2 million conversations on Jio Mobility with an 80 per cent reduction in human interventions and a 2.5 times increase in localised queries. Jio Haptik at present supports conversation in 130 languages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcquest.com/jio-haptik-collaborates-with-microsoft-azure-to-enhance-hindi-chatbots/",
+      "originalUrl": "https://www.pcquest.com/jio-haptik-collaborates-with-microsoft-azure-to-enhance-hindi-chatbots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcquest.com/wp-content/uploads/2018/04/chatbots.jpg",
+          "width": 750,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcquest.com/jio-haptik-collaborates-with-microsoft-azure-to-enhance-hindi-chatbots/amp/",
+      "cdnAmpWebUrl": "https://www-pcquest-com.cdn.ampproject.org/c/s/www.pcquest.com/jio-haptik-collaborates-with-microsoft-azure-to-enhance-hindi-chatbots/amp/",
+      "publishedDateTime": "2022-08-31T03:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCQuest",
+        "domain": "pcquest.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-mi5-reveals-it-has-been-working-with-an-ai-non-profit-on-national-security-since-2017.md",
+      "title": "MI5 reveals it has been working with an AI non-profit on national security since 2017",
+      "excerpt": "The security service has been working with The Alan Turing Institute and has decided to unveil the partnership today to allow the pair to work more closely together",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368922/mi5-reveals-it-has-been-working-with-an-ai-non-profit-national-security-2017",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368922/mi5-reveals-it-has-been-working-with-an-ai-non-profit-national-security-2017",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1661941040/itpro/2022/August/MI5_HQ_Thames_House_London_spy_GettyImages-182911822.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T03:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-ai-in-fintech-global-market-to-reach-2417-billion-by-2026.md",
+      "title": "AI in FinTech Global Market to Reach $24.17 Billion by 2026",
+      "excerpt": "AI in FinTech Global Market to Reach $24.17 Billion by 2026 Aug 31, 2022 (PRNewswire via COMTEX) -- PR Newswire DUBLIN, DUBLIN, Aug. 31,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-global-market-to-reach-2417-billion-by-2026-2022-08-31",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-global-market-to-reach-2417-billion-by-2026-2022-08-31",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology.md",
+      "title": "Removing the data security barriers and concerns to accelerate speech recognition usage in radiology",
+      "excerpt": "According to Scribetech, security is a key barrier to adopting speech recognition – despite its potential to accelerate reporting time, drive accuracy, and enable radiologists to deal with a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kxan.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/",
+      "originalUrl": "https://www.kxan.com/business/press-releases/ein-presswire/588617301/removing-the-data-security-barriers-and-concerns-to-accelerate-speech-recognition-usage-in-radiology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T01:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KXAN",
+        "domain": "kxan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-08-31-baidu-revenue-hit-as-advertising-tumbles.md",
       "title": "Baidu revenue hit as advertising tumbles",
       "excerpt": "Chinese internet giant Baidu returned to profit in Q2 2022 on one-off gains ... to an “unfavourable macro environment”, but noted its AI cloud and intelligent driving businesses maintained rapid growth momentum. Looking to the second half, Li said ...",
@@ -683,410 +1090,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-this-woman-created-an-ai-system-to-monitor-her-cats-poop.md",
-      "title": "This Woman Created An AI System to Monitor Her Cat's Poop",
-      "excerpt": "She then took thousands of pictures of her cats pooping, and fed the pictures to a machine learning system so that it could differentiate between Teddy and Luna.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/cat-litter-robot-machine-learning-ai-raspberry-pi-poop-1849475626",
-      "originalUrl": "https://gizmodo.com/cat-litter-robot-machine-learning-ai-raspberry-pi-poop-1849475626",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/cat-litter-robot-machine-learning-ai-raspberry-pi-poop-1849475626/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/cat-litter-robot-machine-learning-ai-raspberry-pi-poop-1849475626/amp",
-      "publishedDateTime": "2022-08-30T14:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-artificial-intelligence-powered-by-google-helps-french-officials-tax-over-20000-undeclared-pools.md",
-      "title": "Artificial Intelligence powered by Google helps French officials tax over 20,000 undeclared pools",
-      "excerpt": "An unusual experiment allowed French tax officials to discover thousands of undeclared swimming pools by using artificial intelligence. More than 20,000 hidden pools generated nearly €10m (£8 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/world/artificial-intelligence-google-french-tax-undeclared-pools",
-      "originalUrl": "https://www.foxnews.com/world/artificial-intelligence-google-french-tax-undeclared-pools",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2019/09/23/1200/675/694940094001_6088542466001_6088555437001-vs.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/world/artificial-intelligence-google-french-tax-undeclared-pools.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/artificial-intelligence-google-french-tax-undeclared-pools.amp",
-      "publishedDateTime": "2022-08-30T13:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-will-transit-agencies-fight-or-yield-to-the-self-driving-revolution.md",
-      "title": "Will Transit Agencies Fight Or Yield To The Self-Driving Revolution?",
-      "excerpt": "Transit agencies resist solutions to transportation goals that are not transit. Should they have say over policy matters for their competition, and if not, how should policy be decided?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2022/08/30/will-transit-agencies-fight-or-yield-to-the-self-driving-revolution/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2022/08/30/will-transit-agencies-fight-or-yield-to-the-self-driving-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/630e6b2bb16ae3b08215ba24/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 898,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2022/08/30/will-transit-agencies-fight-or-yield-to-the-self-driving-revolution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/08/30/will-transit-agencies-fight-or-yield-to-the-self-driving-revolution/amp/",
-      "publishedDateTime": "2022-08-30T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-labor-day-is-over-but-you-can-still-get-these-labor-day-robot-vacuum-deals-on-irobot-roomba-samsung-roborock-and-more.md",
-      "title": "Labor Day is over, but you can still get these Labor Day robot vacuum deals on iRobot Roomba, Samsung, Roborock and more",
-      "excerpt": "Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch your robot vacuum operate no matter where you are, using Samsung's SmartThings App. The Jet Bot AI+ ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/robot-vacuum-deals-labor-day-2022/",
-      "originalUrl": "https://www.cbsnews.com/essentials/robot-vacuum-deals-labor-day-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-waymo-opens-driverless-robotaxi-service-in-phoenix-to-locals-who-cant-share-experiences-online.md",
-      "title": "Waymo opens driverless robotaxi service in Phoenix to locals who can't share experiences online",
-      "excerpt": "Waymo is rolling out its driverless robotaxi service in Phoenix for members of the Alphabet-owned company's 'trusted tester' program - but users can't share their experience on social media and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-11161047/Waymo-opens-driverless-robotaxi-service-Phoenix-locals-share-experiences-online.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-11161047/Waymo-opens-driverless-robotaxi-service-Phoenix-locals-share-experiences-online.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/08/30/17/61875391-0-image-a-10_1661876995094.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-11161047/amp/Waymo-opens-driverless-robotaxi-service-Phoenix-locals-share-experiences-online.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11161047/amp/Waymo-opens-driverless-robotaxi-service-Phoenix-locals-share-experiences-online.html",
-      "publishedDateTime": "2022-08-30T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-is-it-ever-okay-to-ghost-a-new-employer.md",
-      "title": "Is it ever okay to ghost a new employer?",
-      "excerpt": "Ghosting an employer could potentially have negative repercussions for your job search and reputation. Learn why.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/programming-development/is-it-ever-okay-to-ghost-a-new-employer/",
-      "originalUrl": "https://venturebeat.com/programming-development/is-it-ever-okay-to-ghost-a-new-employer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/My-project-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/programming-development/is-it-ever-okay-to-ghost-a-new-employer/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/programming-development/is-it-ever-okay-to-ghost-a-new-employer/amp/",
-      "publishedDateTime": "2022-08-30T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-baidu-stock-slumps-as-us-audit-risk-offsets-q2-earnings-beat.md",
-      "title": "Baidu Stock Slumps As U.S. Audit Risk Offsets Q2 Earnings Beat",
-      "excerpt": "Baidu delivered a smaller-than-expected drop in second quarter sales despite what CEO Robin Li described as \"a challenging macro environment caused by Covid-19.\" Baidu (BIDU) shares slumped ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/markets/baidu-stock-jumps-after-q2-sales-top-forecasts-on-cloud-strength",
-      "originalUrl": "https://www.thestreet.com/markets/baidu-stock-jumps-after-q2-sales-top-forecasts-on-cloud-strength",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTg2MTEzMDEzMzM2NTE1NzEz/cerner-oracle.jpg",
-          "width": 620,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/markets/baidu-stock-jumps-after-q2-sales-top-forecasts-on-cloud-strength",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/markets/baidu-stock-jumps-after-q2-sales-top-forecasts-on-cloud-strength",
-      "publishedDateTime": "2022-08-30T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-how-self-supervised-learning-may-boost-medical-ai-progress.md",
-      "title": "How self-supervised learning may boost medical AI progress",
-      "excerpt": "Self-supervised learning in healthcare and medicine is growing, thanks to the vast amount of unstructured data available in that industry.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-self-supervised-learning-may-boost-medical-ai-progress/",
-      "originalUrl": "https://venturebeat.com/ai/how-self-supervised-learning-may-boost-medical-ai-progress/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1156616255.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-self-supervised-learning-may-boost-medical-ai-progress/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-self-supervised-learning-may-boost-medical-ai-progress/amp/",
-      "publishedDateTime": "2022-08-30T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-industrys-first-autonomous-spreader-debuts-at-farm-progress-show.md",
-      "title": "Industry's first autonomous spreader debuts at Farm Progress Show",
-      "excerpt": "Case IH and Raven Industries introduce the agriculture industry's first autonomous spreader: the Case IH Trident ™ 5550 applicator with Raven Autonomy ™. Unveiled at Farm Progress Show 2022, this innovative solution delivers on customers' demands for autonomous equipment to help solve labor challenges and increase productivity on their operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-industrys-first-autonomous-spreader-debuts-farm-progress-show-/2022/08/30/9664454.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-industrys-first-autonomous-spreader-debuts-farm-progress-show-/2022/08/30/9664454.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

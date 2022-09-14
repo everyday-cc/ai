@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "NVIDIA’s New H100 GPU Smashes Artificial Intelligence Benchmarking Records"
+    excerpt: "Goodson, dives in as the technical community has been looking forward to seeing how NVIDIA’s monster Hopper H100 Tensor Core GPU would perform ever since its March announcement at GTC2022."
+    publishedDateTime: 2022-09-14T15:08:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 102
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6321ed3e42854ded081b8dca/0x0.jpg?format=jpg&width=1200"
+        width: 624
+        height: 352
+        isCached: true
   - title: "SK-backed AI chip outperforms Nvidia's GPU"
     excerpt: "Sapeon, an artificial intelligence-powered chip designer backed by South Korea's SK Group, unveiled Tuesday a test result that its first commercialized product X220 has outperformed US graphic processor giant Nvidia's newest product A2."
     publishedDateTime: 2022-09-13T05:01:00Z
@@ -44,19 +60,19 @@ related:
         width: 630
         height: 505
         isCached: true
-  - title: "Nvidia’s flagship AI chip reportedly 4.5x faster than the previous champ"
-    excerpt: "Nvidia positions the H100 as a high-end data center GPU chip designed for AI and supercomputer applications such as image recognition, large language models, image synthesis, and"
-    publishedDateTime: 2022-09-09T20:01:00Z
-    webUrl: "https://arstechnica.com/information-technology/2022/09/nvidias-flagship-ai-chip-reportedly-4-5x-faster-than-the-previous-champ/"
+  - title: "Supermicro Announces 8U ‘Universal GPU’ Server for NVIDIA H100’s"
+    excerpt: "HPC-AI server maker Supermicro today announced what the company said is its most advanced GPU server incorporating eight NVIDIA H100 Tensor Core GPUs. Supermicro now offers three Universal GPU servers: the 4U,"
+    publishedDateTime: 2022-09-13T17:26:00Z
+    webUrl: "https://insidehpc.com/2022/09/supermicro-announces-8u-universal-gpu-server-for-nvidia-h100s/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 83
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/nvidia_h100_hero_3-760x380.jpg"
-        width: 760
-        height: 380
+      - url: "https://insidehpc.com/wp-content/uploads/2022/09/Supermicro-Universal-GPU-Servers-0922-300x215.jpg"
+        width: 300
+        height: 215
         isCached: true
   - title: "‘Nvidia sets performance record with new Hopper H100 GPU’"
     excerpt: "Nvidia claims it set a performance record with the upcoming Hopper H100 Tensor Core GPU. According to Nvidia, the new GPU is up to 4.5 times faster than"

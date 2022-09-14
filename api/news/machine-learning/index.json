@@ -2,6 +2,113 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-14-10-years-later-deep-learning-revolution-rages-on-say-ai-pioneers-hinton-lecun-and-li.md",
+      "title": "10 years later, deep learning ‘revolution’ rages on, say AI pioneers Hinton, LeCun and Li",
+      "excerpt": "On the 10th anniversary of key research that led to deep learning breakthroughs, AI luminaries say the 'revolution' will continue.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/10-years-on-ai-pioneers-hinton-lecun-li-say-deep-learning-revolution-will-continue/",
+      "originalUrl": "https://venturebeat.com/ai/10-years-on-ai-pioneers-hinton-lecun-li-say-deep-learning-revolution-will-continue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1004013312.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/10-years-on-ai-pioneers-hinton-lecun-li-say-deep-learning-revolution-will-continue/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/10-years-on-ai-pioneers-hinton-lecun-li-say-deep-learning-revolution-will-continue/amp/",
+      "publishedDateTime": "2022-09-14T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-microsoft-shares-whats-next-in-machine-learning-at-nvidia-gtc.md",
+      "title": "Microsoft shares what's next in machine learning at NVIDIA GTC",
+      "excerpt": "Finding scalable solutions for today’s global challenges requires forward-thinking, transformative tools. As environmental, economic, and public health concerns mount, Microsoft Azure is addressing these challenges head on with high-performance computing (HPC), AI, and machine learning. ",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/microsoft-shares-whats-next-in-machine-learning-at-nvidia-gtc/",
+      "originalUrl": "https://azure.microsoft.com/blog/microsoft-shares-whats-next-in-machine-learning-at-nvidia-gtc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/30a8bf6a-b129-4564-97e3-e9cfb29c824a.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T02:00:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-how-ai-and-machine-learning-will-impact-the-future-of-healthcare.md",
       "title": "How AI And Machine Learning Will Impact The Future Of Healthcare",
       "excerpt": "Global healthcare is facing enormous challenges, but artificial intelligence and machine learning hold the secret to transforming our ailing health system into a more equitable, efficient way to care for patients.",
@@ -95,6 +202,59 @@
       "topics": [
         "AI",
         "AI in Autos",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-artificial-intelligence-and-machine-learning-market-impressive-growth-future-demand-during-forecast-period-2022-2028-aibrain-amazon-anki.md",
+      "title": "Artificial Intelligence and Machine Learning Market Impressive Growth & Future Demand During Forecast Period 2022-2028 | AIBrain, Amazon, Anki",
+      "excerpt": "The research report also includes the present market and its growth potentials in the given period of forecast. An exhaustive and professional study of the global Artificial Intelligence and Machine Learning market report has been completed by industry professionals and presented in the most particular manner to present only the details that matter the most.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-impressive-growth-future-demand-during-forecast-period-2022-2028-aibrain-amazon-anki-2022-09-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-impressive-growth-future-demand-during-forecast-period-2022-2028-aibrain-amazon-anki-2022-09-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
         "Machine Learning"
       ]
     },
@@ -1331,156 +1491,6 @@
         "Machine Learning",
         "Natural Language Processing",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-ai-machine-learning-a-must-in-the-face-of-cyber-threats.md",
-      "title": "AI, Machine Learning a must in the face of cyber threats",
-      "excerpt": "By Nick Alevetsovitis The semiannual FortiGuard Labs Global Threat Landscape Report is out, and the news isn’t great for defenders. Among the plethora of risks facing organizations, ransomware variants almost doubled in the last six months alone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/sponsored/ai-machine-learning-a-must-in-the-face-of-cyber-threats",
-      "originalUrl": "https://www.itworldcanada.com/sponsored/ai-machine-learning-a-must-in-the-face-of-cyber-threats",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2022/08/aimach08.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/sponsored/ai-machine-learning-a-must-in-the-face-of-cyber-threats?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/sponsored/ai-machine-learning-a-must-in-the-face-of-cyber-threats?amp=1",
-      "publishedDateTime": "2022-09-01T13:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-ai-software-the-bridge-from-data-to-insights.md",
-      "title": "AI software: The bridge from data to insights",
-      "excerpt": "These might include AI analytics toolkits, development and deployment toolkits, end-to-end distributed AI toolkits, reference toolkits and AutoML toolkits. Also: domain specific toolkits ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-software-the-bridge-from-data-to-insights/",
-      "originalUrl": "https://venturebeat.com/ai/ai-software-the-bridge-from-data-to-insights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1293487802-I-am-3D-animator-artist.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-software-the-bridge-from-data-to-insights/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-software-the-bridge-from-data-to-insights/amp/",
-      "publishedDateTime": "2022-09-01T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-intel-ai-chief-wei-li-someone-has-to-bring-todays-ai-supercomputing-to-the-masses.md",
-      "title": "Intel AI chief Wei Li: Someone has to bring today's AI supercomputing to the masses",
-      "excerpt": "Software is key to broadening the reach of AI, and much of it goes back to decades-old approaches in compiler technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/intel-ai-chief-wei-li-someone-has-to-bring-todays-ai-supercomputing-to-the-masses/",
-      "originalUrl": "https://www.zdnet.com/article/intel-ai-chief-wei-li-someone-has-to-bring-todays-ai-supercomputing-to-the-masses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/79dd0cf649ed1fe2683dcc04a0f678e42fe4fa96/2022/09/01/76e323ce-37d1-4bda-997f-c1a80a552302/wei-li-headshot.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/intel-ai-chief-wei-li-someone-has-to-bring-todays-ai-supercomputing-to-the-masses/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-ai-chief-wei-li-someone-has-to-bring-todays-ai-supercomputing-to-the-masses/",
-      "publishedDateTime": "2022-08-31T18:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "Facebook AI"
       ]
     }
   ],

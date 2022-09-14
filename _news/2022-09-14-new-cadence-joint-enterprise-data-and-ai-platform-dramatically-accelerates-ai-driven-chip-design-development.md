@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 652
         isCached: true
+  - title: "AI Ethics And AI-Induced Psychological Inoculation To Help Humans With Disinformation"
+    excerpt: "Should AI be used to aid in inoculating people regarding disinformation and misinformation? Yes, some say, others argue that using AI for this is a bad idea with ultimately adverse consequences."
+    publishedDateTime: 2022-09-14T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/09/14/ai-ethics-and-ai-induced-psychological-inoculation-to-help-humans-with-disinformation/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 57
   - title: "Cadence accelerates AI-driven chip design development"
     excerpt: "Cadence Design Systems has announced the launch of the Cadence Joint Enterprise Data and AI (JedAI) Platform. The platform enables a move from single-run, single-engine algorithms in electronic design automation (EDA) to algorithms that leverage big data and artificial intelligence (AI) to optimise multiple runs of multiple engines across an entire SoC design and verification flow."
     publishedDateTime: 2022-09-14T08:00:00Z

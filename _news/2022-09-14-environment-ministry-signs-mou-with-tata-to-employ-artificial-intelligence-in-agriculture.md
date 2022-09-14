@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-14T12:40:00Z
 originalUrl: "https://www.spa.gov.sa/2383938"
 webUrl: "https://www.spa.gov.sa/2383938"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: spa.gov.sa

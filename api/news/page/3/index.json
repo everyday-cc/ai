@@ -2,6 +2,425 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-10-deloittes-beena-ammanath-on-ethics-in-artificial-intelligence.md",
+      "title": "Deloitte’s Beena Ammanath on Ethics in Artificial Intelligence",
+      "excerpt": "Does the torrid pace of investment in AI create challenges for the development of an ethical practice in this emerging technology?",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/video/deloitte-ethics-in-artificial-intelligence/",
+      "originalUrl": "https://www.eweek.com/video/deloitte-ethics-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/09/eSPEAKS-thumbnail-2.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-09T13:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-09-10-eu-ai-acts-possible-open-source-regulation-sparks-twitter-debate.md",
+      "title": "EU AI Act’s possible open-source regulation sparks Twitter debate",
+      "excerpt": "Alex Engler never expected his Brookings article about the EU’s attempt to regulate open-source AI to stir up Twitter debate.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/eu-ai-acts-possible-open-source-regulation-sparks-twitter-debate/",
+      "originalUrl": "https://venturebeat.com/ai/eu-ai-acts-possible-open-source-regulation-sparks-twitter-debate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1213704893.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/eu-ai-acts-possible-open-source-regulation-sparks-twitter-debate/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/eu-ai-acts-possible-open-source-regulation-sparks-twitter-debate/amp/",
+      "publishedDateTime": "2022-09-09T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-10-11-tech-experts-on-how-small-businesses-can-effectively-leverage-machine-learning.md",
+      "title": "11 Tech Experts On How Small Businesses Can Effectively Leverage Machine Learning",
+      "excerpt": "There are plenty of ways even startups can use ML to boost their odds of success, from predicting future purchases to taking labor-intensive tasks off their team members’ plates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/09/11-tech-experts-on-how-small-businesses-can-effectively-leverage-machine-learning/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/09/11-tech-experts-on-how-small-businesses-can-effectively-leverage-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6319f94d9b5e31274c213f35/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/09/11-tech-experts-on-how-small-businesses-can-effectively-leverage-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/09/11-tech-experts-on-how-small-businesses-can-effectively-leverage-machine-learning/amp/",
+      "publishedDateTime": "2022-09-09T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-tips-to-improve-your-amazon-rekognition-custom-labels-model.md",
+      "title": "Tips to improve your Amazon Rekognition Custom Labels model",
+      "excerpt": "In this post, we discuss best practices to improve the performance of your computer vision models using Amazon Rekognition Custom Labels. Rekognition Custom Labels&nbsp;is a fully managed service to build custom computer vision models for image classification and object detection use cases. Rekognition",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/tips-to-improve-your-amazon-rekognition-custom-labels-model/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/tips-to-improve-your-amazon-rekognition-custom-labels-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/09/tips-for-rekognition-custom-models.jpg",
+          "width": 1534,
+          "height": 764,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-09T09:37:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-use-adfs-oidc-as-the-idp-for-an-amazon-sagemaker-ground-truth-private-workforce.md",
+      "title": "Use ADFS OIDC as the IdP for an Amazon SageMaker Ground Truth private workforce",
+      "excerpt": "To train a machine learning (ML) model, you need a large, high-quality, labeled dataset. Amazon SageMaker Ground Truth helps you build high-quality training datasets for your ML models. With Ground Truth, you can use workers from either Amazon Mechanical Turk, a vendor company of your choosing, or an",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-adfs-oidc-as-the-idp-for-an-amazon-sagemaker-ground-truth-private-workforce/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-adfs-oidc-as-the-idp-for-an-amazon-sagemaker-ground-truth-private-workforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/09/adfs-oidc-sagemaker-ground-truth.jpg",
+          "width": 1533,
+          "height": 767,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-09T09:34:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-build-repeatable-secure-and-extensible-end-to-end-machine-learning-workflows-using-kubeflow-on-aws.md",
+      "title": "Build repeatable, secure, and extensible end-to-end machine learning workflows using Kubeflow on AWS",
+      "excerpt": "This is a guest blog post cowritten with athenahealth. athenahealth&nbsp;a leading provider of network-enabled software and services for medical groups and health systems nationwide. Its electronic health records, revenue cycle management, and patient engagement tools allow anytime, anywhere access,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-repeatable-secure-and-extensible-end-to-end-machine-learning-workflows-using-kubeflow-on-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-repeatable-secure-and-extensible-end-to-end-machine-learning-workflows-using-kubeflow-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/09/repeatable-secure-kubeflow.jpg",
+          "width": 1534,
+          "height": 766,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-09T09:21:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-deep-dive-how-ai-content-generators-work.md",
+      "title": "Deep Dive: How AI content generators work",
+      "excerpt": "AI content generators cannot be subjective, no matter how great the ML training using structured data is, but their uses can be additive to marketing teams.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/deep-dive-how-ai-content-generators-work/",
+      "originalUrl": "https://venturebeat.com/ai/deep-dive-how-ai-content-generators-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/02/ai-marketing-shutterstock_741922060.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/deep-dive-how-ai-content-generators-work/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/deep-dive-how-ai-content-generators-work/amp/",
+      "publishedDateTime": "2022-09-09T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests.md",
+      "title": "Beyond Mere Efficiency: Artificial Intelligence is Transforming Culture, Study Suggests",
+      "excerpt": "Executives who saw significant financial benefits from their AI initiatives were 10x more likely to change how they measure success than those who saw no such benefits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/09/09/beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/09/09/beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/631b608de551689b89d7038c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/09/09/beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/09/09/beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests/amp/",
+      "publishedDateTime": "2022-09-09T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-09-can-githubs-copilot-ai-put-the-fun-back-into-being-a-developer.md",
       "title": "Can GitHub's Copilot AI put the fun back into being a developer?",
       "excerpt": "GitHub researchers compare how fast developers can code with Copilot's AI assistance versus a group relying on standard developer practices.",
@@ -829,403 +1248,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-qualcomm-is-still-the-most-efficient-ai-accelerator-for-image-processing.md",
-      "title": "Qualcomm Is Still The Most Efficient AI Accelerator For Image Processing",
-      "excerpt": "Company’s recent design wins with leading server vendors indicates strong customer demand, especially in edge image processing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/09/08/qualcomm-is-still-the-most-efficient-ai-accelerator-for-image-processing/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/09/08/qualcomm-is-still-the-most-efficient-ai-accelerator-for-image-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6319090efc2d7f948d213eba/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 614,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/09/08/qualcomm-is-still-the-most-efficient-ai-accelerator-for-image-processing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/09/08/qualcomm-is-still-the-most-efficient-ai-accelerator-for-image-processing/amp/",
-      "publishedDateTime": "2022-09-08T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-combatting-drug-diversion-with-artificial-intelligence.md",
-      "title": "Combatting Drug Diversion With Artificial Intelligence",
-      "excerpt": "One that became exasperated by the hardships of Covid-19 and led to over 200,000 deaths in 2020 and 2021 combined: drug abuse. Despite being on a steady decline since 2017, overdoses increased 30% from 2019 to 2020 and 15% from 2020 to 2021,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/08/combatting-drug-diversion-with-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/08/combatting-drug-diversion-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6318a188a51d94a606213eba/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/08/combatting-drug-diversion-with-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/08/combatting-drug-diversion-with-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-09-08T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-deepfakes-the-danger-of-artificial-intelligence-that-we-will-learn-to-manage-better.md",
-      "title": "Deepfakes - The Danger Of Artificial Intelligence That We Will Learn To Manage Better",
-      "excerpt": "Scared that deepfake technology will kill the 'truth' and undermine democracy as we know it? Don't! The same tools we use for fake emails, fake Amazon reviews, and fake bot conversations will help with deepfakes: Transparency,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lutzfinger/2022/09/08/deepfakesthe-danger-of-artificial-intelligence-that-we-will-learn-to-manage-better/",
-      "originalUrl": "https://www.forbes.com/sites/lutzfinger/2022/09/08/deepfakesthe-danger-of-artificial-intelligence-that-we-will-learn-to-manage-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/631820e023a6f13b1db586d2/0x0.jpg?format=jpg&width=1200",
-          "width": 1080,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-report-data-access-hurdles-affect-ai-adoption-for-71-of-enterprises.md",
-      "title": "Report: Data access hurdles affect AI adoption for 71% of enterprises",
-      "excerpt": "A new survey conducted by Fivetran shows that 71% of enterprises still struggle to access all the data needed for AI projects.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/report-data-access-hurdles-affect-ai-adoption-for-71-of-enterprises/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/report-data-access-hurdles-affect-ai-adoption-for-71-of-enterprises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1401124210-Thinkhubstudio.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 606,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/data-infrastructure/report-data-access-hurdles-affect-ai-adoption-for-71-of-enterprises/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/report-data-access-hurdles-affect-ai-adoption-for-71-of-enterprises/amp/",
-      "publishedDateTime": "2022-09-08T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-ai-and-ccaas-help-marshall-mclennan-and-mckesson-build-business-efficiencies.md",
-      "title": "AI And CCaaS Help Marshall McLennan And McKesson Build Business Efficiencies",
-      "excerpt": "Firms have a pressing need to enhance their digital sales and support solutions to address new customer demands. Businesses look to AI and CCaaS to support these efforts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/maribellopez/2022/09/08/ai-and-ccaas-help-marshall-mclennan-and-mckesson-build-business-efficiencies/",
-      "originalUrl": "https://www.forbes.com/sites/maribellopez/2022/09/08/ai-and-ccaas-help-marshall-mclennan-and-mckesson-build-business-efficiencies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6317bd9c58a90f2c25213eba/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/maribellopez/2022/09/08/ai-and-ccaas-help-marshall-mclennan-and-mckesson-build-business-efficiencies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2022/09/08/ai-and-ccaas-help-marshall-mclennan-and-mckesson-build-business-efficiencies/amp/",
-      "publishedDateTime": "2022-09-08T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-taiwan-leader-cites-threat-of-chinese-cognitive-warfare.md",
-      "title": "Taiwan leader cites threat of Chinese 'cognitive warfare'",
-      "excerpt": "HENGCHUN, Taiwan -- Taiwanese President Tsai Ing-wen said Tuesday that China is conducting “cognitive warfare” by spreading misinformation in addition to its regular military incursions into ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/International/wireStory/taiwan-leader-cites-threat-chinese-cognitive-warfare-89397850",
-      "originalUrl": "https://abcnews.go.com/International/wireStory/taiwan-leader-cites-threat-chinese-cognitive-warfare-89397850",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/International/WireAP_ac9eecbd8024490a896435952fb165bd_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/taiwan-leader-cites-threat-chinese-cognitive-warfare-89397850",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/taiwan-leader-cites-threat-chinese-cognitive-warfare-89397850",
-      "publishedDateTime": "2022-09-08T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it.md",
-      "title": "Tesla’s ‘full self-driving’ isn’t worth $15,000, say many who bought it",
-      "excerpt": "Tesla’s price for the feature it calls “full self-driving” has increased again. This time to $15,000, making it an unusually expensive option for a car. “After wide release of FSD Beta 10. ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pe.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/",
-      "originalUrl": "https://www.pe.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pe.com/wp-content/uploads/2022/09/hypatia-h_f83a5bee143b3b89282e5807cb1c97e9-h_c8f834e95ae4db3b0c1cf5aa23866cd0.jpg?w=1024&h=1024",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pe.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/amp/",
-      "cdnAmpWebUrl": "https://www-pe-com.cdn.ampproject.org/c/s/www.pe.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/amp/",
-      "publishedDateTime": "2022-09-07T23:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Press-Enterprise",
-        "domain": "pe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-loab-the-creepy-ai-art-generated-woman-explained.md",
-      "title": "Loab, the Creepy AI Art-Generated Woman, Explained",
-      "excerpt": "First, to understand Loab, you need to understand what's happening in AI art. In the past few months, AI art -- that is, art generated by artificial intelligence tools -- has skyrocketed to prominence thanks to the proliferation of tools like Dall-E Mini,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/science/loab-the-creepy-ai-art-generated-woman-explained/",
-      "originalUrl": "https://www.cnet.com/science/loab-the-creepy-ai-art-generated-woman-explained/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/1079eae0446d1558fc9d0c69c9408f8c7fbe2fd5/2022/09/08/919b95d9-c3ec-4ecd-a47c-a181788f1ad9/export1.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/loab-the-creepy-ai-art-generated-woman-explained/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/loab-the-creepy-ai-art-generated-woman-explained/",
-      "publishedDateTime": "2022-09-07T23:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

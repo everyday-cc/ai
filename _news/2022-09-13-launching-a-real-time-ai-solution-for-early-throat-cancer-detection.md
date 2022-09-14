@@ -23,6 +23,17 @@ images:
     height: 1333
     isCached: true
 
+related:
+  - title: "Walmart Canada rolling out computer vision AI solution for on-shelf availability across the country"
+    excerpt: "Walmart Canada stores across the country are getting an automated AI-assist to keep shelves stocked and provide the best possible customer and associate experience – whether customers are shopping in-store or onlineFollowing a 70-store pilot,"
+    publishedDateTime: 2022-09-14T13:05:00Z
+    webUrl: "https://www.walmartcanada.ca/newsroom/2022/09/14/walmart-canada-rolling-out-computer-vision-ai-solution-for-on-shelf-availability-across-the-country"
+    type: article
+    provider:
+      name: Walmart Canada
+      domain: walmartcanada.ca
+    quality: 20
+
 secured: "JGX41Rq4oQAnYnmxcayeAgtKs0V41FGv123lpAdxfBYO9l7hrcRUCGIw1n1qBr+rBJ0hZP1a5v4nI/CaFtNsQdIm99Kn3V/Q7vPlSqv0bQPMGtiVWrFezQoz0xvmaZXa1r5vZrzVAbnucycFBQ+DpuO/+noyH6gBnwrH9KAvsBAz7i1XDHtMBzbEdpLyIqAdZ1C+T5iR7LT7Fq4VK0oTjKB+HX/+BOSgDHMFNL/rL0gHcZVy0eafT+neyTVp2zS1gY1S97ie+lthqEUJDMQAyj58y/OgKhVIBH1p2i/SQu5SneiLiPYKsq9MKPNpyuQ6nDoUI415dOBUQjqJTo4ALoYUR8BnrZnGBFnSDD3XvN8QGVv2VWa9+fpqa2vLVstPhmu8ESd+XpYa0pOs3GCNg6T6gmwRhr3gNHVcXKIYYgXjCQSh2Oc3vBratc9hBB1FP88OZN21YI5VgOSxSTCEksKvw5ZQa69urJ4kDamYo22nkNhyWTi21XAdQQPjM8RFULSF6hLHjBrMu3cIDEP/DA==;E7DFFN+GbNZchm/+5mtv6Q=="
 ---
 

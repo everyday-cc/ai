@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-14T13:18:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/brv-china-backed-hpc-ai-tech-completes-6-million-seed-and-angel-round-financing-1031742753"
 webUrl: "https://markets.businessinsider.com/news/stocks/brv-china-backed-hpc-ai-tech-completes-6-million-seed-and-angel-round-financing-1031742753"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: Business Insider
