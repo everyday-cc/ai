@@ -9,7 +9,7 @@ ampWebUrl: "https://english.aawsat.com/home/article/3873176/saudi-arabia-leads-r
 cdnAmpWebUrl: "https://english-aawsat-com.cdn.ampproject.org/c/s/english.aawsat.com/home/article/3873176/saudi-arabia-leads-regional-ai-through-laboratory-global-development-corridor?amp"
 type: article
 quality: 55
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -84,15 +84,6 @@ related:
         height: 600
         isCached: true
   - title: "SDAIA: The Kingdom of Saudi Arabia Announces Program for 2nd Global AI Summit"
-    excerpt: "The Saudi Data & AI Authority (SDAIA) has announced its official schedule and speaker roster for the 2nd Global AI Summit, set to take place on September"
-    publishedDateTime: 2022-09-09T19:00:00Z
-    webUrl: "https://www.asiaone.com/business/sdaia-kingdom-saudi-arabia-announces-program-2nd-global-ai-summit"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 16
-  - title: "SDAIA: The Kingdom of Saudi Arabia Announces Program for 2nd Global AI Summit"
     excerpt: "The Saudi Data & AI Authority (SDAIA) has announced its official schedule and speaker roster for the 2nd Global AI Summit, set to take place on September 13 - 15, 2022, in Riyadh, Saudi Arabia. The theme of the summit is \"AI for the Good of Humanity\","
     publishedDateTime: 2022-09-14T01:10:00Z
     webUrl: "https://www.newswit.com/en/LnS9"
@@ -102,6 +93,6 @@ related:
       domain: newswit.com
     quality: 16
 
-secured: "+94muKVz62VmJewW6FakmE4NceFUal65dpEIvrG5yJ7ull2KyU6F3g5+hdbPpQ9ZLnqTnmOAhXSFLVbM4BKWVbqLj/h90F7SBi96WfKDZLGGu32l+/wRxcsyq4D7l/mhsrZN7YqZ6qW5SfnnOqD+pFSpQ1pNEJmBW/Ega6/vuooeI39KIQQjzM74x1g6baPDs/qDU0L+YiCav/gxmA8IxeU00SyEQJe+Unn9Fx+Obm2AicfbJlumkHwHFp4TkU/e1mQfFVDojiJGX1MVAIjTb6I3lzfIAG8rDX+30Qi9KScin2ZyNmcrGh9lQjfMVUeODbNa50MaCnuWf72Ly+ogz+zIwJ90DBSuI4v4guuNRPA=;Dhz89lfgWw70/TfgjU+xsw=="
+secured: "BKl8k1soQQd5Hq2ZhsHh0Lr3B6PhWFGRIw4jfMkmyZ8FFvQxI/kptDEHM4s5ej4pbAKhDmQzW+CtE5qfDbDjRJ+tlkUz0Egim/duObBRu59hMbVnmZ2Va4e5VQp6MTYLDh4fLaitPGo9dU49EAbS93yr2pScaXvnI1JmRKtPGvrOlZfpEVEi56/VLlRqQ3fm6ptgbQrAAM5dRP7l6dOwoHrz7oBatzHB876SQDBqD2Mai4tTS7+cnLQrwfM9jInwmYIFO3HYMcUVTiABleuWmoTm0iSpGzGuyOYmcWVV7WIkzmP/2vDsegXDM8I8jiiv3xvrSJqia0IsfEF6URxrv3B4inWox7QnzafBndQ92HSPD7qeI2wMrjsf9JRLg0e9QMsmC7eOSiLLEhK2pEVCJCbLyoJiDJVWNIEd7/H09s54sEBENrzMbPYwHO2ppKlTbKMQbEAO99BUOYpZ/3qS/cPmx8QuRdWvThEU7i9YfgUDjS9gdIOlHXqp34C0GVJzduzdVfmZJviddwgY4fvhsg==;u/yquCQh95Y/A9OVbGUrBg=="
 ---
 

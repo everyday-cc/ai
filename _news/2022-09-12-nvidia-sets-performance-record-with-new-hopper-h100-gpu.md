@@ -65,15 +65,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "NVIDIA Hopper H100 GPU broke every record on MLPerf AI Benchmark"
-    excerpt: "The most recent testing showed that NVIDIA A100 GPUs, which are now offered by important cloud service providers and system manufacturers, maintained their overall performance advantage in the mainstream category for AI inference."
-    publishedDateTime: 2022-09-09T17:33:00Z
-    webUrl: "https://technosports.co.in/2022/09/09/nvidia-hopper-h100-gpu/"
-    type: article
-    provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 34
 
 secured: "gwl0gvomm9p7hlZcCHYl/7IDpoAxLTNsUJYBeKHx1J60Myhr3k+rTqS1MpYYRoNGC/VtyRlLCIaRyV0hlOtf+dxeM7t/9Zu98iaixyfyNRG9vmweCvpY5mQV+6npybt+xWj1wNg/HfT7kFaQ1cQidmDbZgE9ZHlMcnmrtRSBCKvLlUhNaEbeDaqrNCoGZFGPQY//4dkEeEOYf6i2J17q9ko4quUtA2DQ5Wft9kZNY1iYUWMdOfWxaPbbGLrJZLJiTSYLrDFcreMj7HrBcErX0VIaQEfI2hXpJNHkuHFe46FOFJxkZyisZaXJhy4/nqXiKDSQSnBR7eO1bT1FokkpFy/PwalDLoFsSplL+7mlkAM=;40XYXOJx+dsGtxO/F/GgOw=="
 ---

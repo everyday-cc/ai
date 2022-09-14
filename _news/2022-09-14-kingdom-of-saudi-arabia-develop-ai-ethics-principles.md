@@ -84,15 +84,6 @@ related:
         height: 600
         isCached: true
   - title: "SDAIA: The Kingdom of Saudi Arabia Announces Program for 2nd Global AI Summit"
-    excerpt: "The Saudi Data & AI Authority (SDAIA) has announced its official schedule and speaker roster for the 2nd Global AI Summit, set to take place on September"
-    publishedDateTime: 2022-09-09T19:00:00Z
-    webUrl: "https://www.asiaone.com/business/sdaia-kingdom-saudi-arabia-announces-program-2nd-global-ai-summit"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 16
-  - title: "SDAIA: The Kingdom of Saudi Arabia Announces Program for 2nd Global AI Summit"
     excerpt: "The Saudi Data & AI Authority (SDAIA) has announced its official schedule and speaker roster for the 2nd Global AI Summit, set to take place on September 13 - 15, 2022, in Riyadh, Saudi Arabia. The theme of the summit is \"AI for the Good of Humanity\","
     publishedDateTime: 2022-09-14T01:10:00Z
     webUrl: "https://www.newswit.com/en/LnS9"
@@ -102,6 +93,6 @@ related:
       domain: newswit.com
     quality: 16
 
-secured: "th6kZsOrSlXD6RJYoii2AZ8XS1iDgWV+qUG/ovXV1T3YQ5fWNlMZ6gTxnXTgvYlYBBEJrvs7B4/MPuVbdMwfjmGtBRBbKVXBesXjdkYSHw9NaFOhrVErSII9f8Q3nTYVwxI9Vl117h89KECH7wRmSqoWm4qLO+ikdkVbPyHAoEM582jqgMYHBd8+oJ/9pi3D6EYnwyhqkaL+VqPyXrTPHQcYWs6WCHBUwWp0obprthTMJvZiBVNoge/PnPmBBaGFbjcu2iwA09Vdd04/6YFZjHzvP1TsxPnP+WOPcaFt5+jFHAnSRB3YYnX5A/uvx3WY5yOIAR385Sch6zxLWM7GSWv5a9fhSd6l3MB+TEpac+k=;YMy6AYfOXublrqqsirB/kA=="
+secured: "0KSrS3XqK0mAn1iOkC+B5E+F3uq+UscDhBJwDg2iyY6fLaP4hP9UbSYxZ2OhRdtFxJ7XU5xOtAqe9Uwb9pdsYf5roHS4tf45aF4QPJM9eisRyT83GTuyDgLvTKlf7e+6HSgwmyH1+orXUTtuGRZAv8SlTIHL9WxkBoWJ8cBcCqzbjChZt/DQgyqVaRXI37a6keiBrXyRUhXBeQD7UYOZHJ9e4cvSzhgSs7uU/OT2jKYwyk4elgbeuTldK/XWGVWWjA1+bJNh7Ns87TwkyY1vkoi6GS4ZhEX2WbVITq9pwvXDJEflMhGOaniiVzuaDhmIUZMXUunWH8se32IfyZ1Fj52LczepsTUn9SVynvpf27uCzPdAatQWvCACbzeLh6+iK8f6AIr00FWdSbjuWstcD+U6i3hsCXCDHJ4JKOi6RNkAmp6xNyofe6izEi4TM6XWN5f7KdIYLnWh8u24CpzMOGRQUjEDTXCn3MATcF5xcQ06Jy9zPB9nB8yS+TUCjsgOat/gXHAJ97B60+FakgsU9w==;FnPN7W47zA6H00rbZaPl5w=="
 ---
 

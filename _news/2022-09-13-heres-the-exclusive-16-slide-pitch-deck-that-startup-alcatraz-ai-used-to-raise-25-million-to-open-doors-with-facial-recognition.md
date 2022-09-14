@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/ai-startup-alcatraz-ai-tech-pitch-
 webUrl: "https://www.businessinsider.com/ai-startup-alcatraz-ai-tech-pitch-deck-2022-9"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/11165134/alcatraz-rock-biometric-access-control.png"
         width: 2048
         height: 1152
+        isCached: true
+  - title: "Alcatraz AI, a Bulgarian security solution that provides physical access control using facial recognition and AI, targets 1M euro round on SeedBlink"
+    excerpt: "IT - Alcatraz AI, a Bulgarian startup which developed a security solution that provides physical access control using industry-leading 3D facial authentication"
+    publishedDateTime: 2022-09-14T11:56:00Z
+    webUrl: "https://business-review.eu/tech/it/alcatraz-ai-a-bulgarian-security-solution-that-provides-physical-access-control-using-facial-recognition-and-ai-targets-1m-euro-round-on-seedblink-235280"
+    type: article
+    provider:
+      name: business-review.eu
+      domain: business-review.eu
+    quality: 32
+    images:
+      - url: "https://business-review.eu/wp-content/uploads/2022/09/Vince-Gaydarzhiev_founder-Alcatraz-AI-.jpeg"
+        width: 663
+        height: 594
         isCached: true
   - title: "SIlicon Valley startup Alcatraz AI raised $25M for its door security service that works like Apple's Face ID"
     excerpt: "Alcatraz AI has developed a system for verifying who can enter particular places that works much like the facial recognition system offered by @Apple on the #iPhone. #security #facialrecognition #Earl"

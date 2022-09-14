@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxbusiness.com/technology/biden-hit-china-broader-curbs
 cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/biden-hit-china-broader-curbs-us-chip-tool-exports.amp"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2020/08/06/tim_culpan_headshotc.jpg?itok=-OQhTljp"
         width: 346
         height: 383
+        isCached: true
+  - title: "Reports of Broadening Ban on AI Chip Exports to China Will Only Increase Uncertainty - Analyst"
+    excerpt: "The U.S. government is considering further broadening curbs on exports of top AI chips to China, Reuters reports. The plan is to update regulations next month to include three new companies - KLA Corp (NASDAQ: KLAC ),"
+    publishedDateTime: 2022-09-14T07:12:00Z
+    webUrl: "https://ca.investing.com/news/stock-market-news/reports-of-broadening-ban-on-ai-chip-exports-to-china-will-only-increase-uncertainty--analyst-432SI-2768418"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 42
+    images:
+      - url: "https://i-invdn-com.investing.com/news/AppliedMaterials_800x533_L_1645098425.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "US' planned curbs on chip exports seen as tech hegemony"
     excerpt: "Washington's reported plan to broaden curbs on US shipments of artificial intelligence chips to China is an act of technological hegemony that will further weigh down on the global semiconductor industrial chain and harm the interests of US chip companies,"

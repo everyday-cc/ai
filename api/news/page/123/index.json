@@ -2,6 +2,49 @@
   "page": 123,
   "value": [
     {
+      "path": "_news/2022-06-07-automated-palletizing-pays-for-itself.md",
+      "title": "Automated palletizing pays for itself",
+      "excerpt": "Software integration, and increasingly artificial intelligence and machine learning, is playing a bigger role in automated palletization. The massive labor shortage seemingly has no end in sight, especially when it comes to labor-intensive industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.logisticsmgmt.com/article/automated_palletizing_pays_for_itself",
+      "originalUrl": "https://www.logisticsmgmt.com/article/automated_palletizing_pays_for_itself",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mmh.com/images/2021_article/MMH2206_IM_Witron_Stretch_800px.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-07T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Logistics Management",
+        "domain": "logisticsmgmt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-07-teal-is-revolutionizing-the-career-journey-with-tech-ai-and-machine-learning.md",
       "title": "Teal Is Revolutionizing The Career Journey With Tech, AI And Machine Learning",
       "excerpt": "However, there is a startup that can help level the playing field. David Fano, founder and CEO of Teal, created a machine learning and AI- based careertech platform to help job seekers and people who want to advance their careers. Fano said, “In the ...",
@@ -1054,49 +1097,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-natural-language-processing-market-booming-worldwide-as-rising-usage-of-smart-devices-to-facilitate-smart-environments.md",
-      "title": "Natural Language Processing Market Booming Worldwide As Rising Usage Of Smart Devices To Facilitate Smart Environments",
-      "excerpt": "Natural Language Processing Market Size – USD 11.80 Billion in 2021, Market Growth - CAGR of 21.5%, Market Trends – Proliferation of smart devices NEW YORK, NY, UNITED STATES, June 6 ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104331060/Natural-Language-Processing-Market-Booming-Worldwide-As-Rising-Usage-Of-Smart-Devices-To-Facilitate-Smart-Environments",
-      "originalUrl": "https://menafn.com/1104331060/Natural-Language-Processing-Market-Booming-Worldwide-As-Rising-Usage-Of-Smart-Devices-To-Facilitate-Smart-Environments",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-06/06/EP_e8dc8image_story.jpeg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T16:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
