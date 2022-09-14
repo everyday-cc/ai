@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/education/higher-ed/university-of-maryland-p
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/university-of-maryland-prof-urges-pause-on-facial-recognition?_amp=true"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
         width: 720
         height: 531
         isCached: true
+  - title: "Senate Dems Call on ICE to Halt Facial Recognition and Buying from Data Brokers"
+    excerpt: "Sens. Ed Markey and Ron Wyden are also pressing the immigration enforcement agency to detail their use of surveillance technologies."
+    publishedDateTime: 2022-09-13T23:10:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2022/09/senate-dems-call-ice-halt-facial-recognition-and-buying-data-brokers/377105/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 35
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2022/09/13/091322_getty_fcw_markey_wyden-1/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "A University of Maryland professor wants to expose the hidden bias in AI, and then use it for good"
     excerpt: "Lauren Rhue researches the fast-paced world of artificial intelligence and machine learning technology. But she wants everyone in it to slow down."
     publishedDateTime: 2022-09-13T09:00:00Z
@@ -57,6 +71,6 @@ related:
         height: 630
         isCached: true
 
-secured: "KWUNZuHHivI+fHH2AFjpyw76XQHElgOKiau4xX7zwR+Ehk/xDyKqkyDzKO5QZwxifqH4Igw2fLVtgFFtpOpktv6OVEiphBdgYVXcg3WK7Yw4U8H2wUKOmVWOr8MpYa0rUpvijhagQcmYSlqxBEBtlLrgMrZtgNUdGkYCt3IDr/QDcIuNMrn0lOsUJHH9dmdTJGYPq2/Cjw8Fqr9s62Be8yKulPxjMidlQayzNtA1oWVUcE9BleZdBwKbgP3qiyBHc+e29M6IzaSH8ohuiCVHz+y4m0EUBn9d1/fr5fLX/oFlUE9h5yDLPdEP01nuX88b2j8t2mMFUuuC+qxM+0wpi3XlK28HdHHgcH2HfgL5wGw=;bZQvUB/JGhz4xtYyZRoSYg=="
+secured: "r6OCbAziBx8psER1O8a8aMads4BvnYB4FBd9HILeKnOhS7TVn4Ykuxa2tKgg6VR9E08B/JnoVlCrPlRz9zKpaSaGzHIN8M7lgLVRKDhs9oQ57unFiCuhpN+kPgxVVDeEVH6A9hG50K8x1OQA7+64l9TV608YnzEqaTdX/gF3ejsHUTN3H9lUnMuUfk6gwMJcxfkmji8oa1Dm3c8dt7wzgBt6OLRj6O4jerUB0Hu1M3NaVmWrJMNbJpCFAfXGKy6BG66qWnqqigrDc/IdfByPgZFOl0DUGddKIHYiAsHFq6FUsdeike6Tr0NwZm1imjNbiDqrV+6koVKbILG6Az+HdhLPnOefI4S66OvU+rUMbJXxNsAr6eJujaiZEet9Ke8KVDK+HXKmdXtN37I0hJt7TOr4SK/EohsNWZQlFFR4KDqKRyNuL6S8Oi3+vrV5woDrlkJ4k7TosM29Zt4sA30IEncu/R+7E9WytLqk5vJ84qPTADj0nyZhNY22DwmQwZMM7vt0bW/R+8ESz1Ns+fPzmQ==;gDYGrQYI6POiFHFyV5sJ6w=="
 ---
 

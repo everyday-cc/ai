@@ -55,6 +55,20 @@ related:
         width: 720
         height: 531
         isCached: true
+  - title: "Senate Dems Call on ICE to Halt Facial Recognition and Buying from Data Brokers"
+    excerpt: "Sens. Ed Markey and Ron Wyden are also pressing the immigration enforcement agency to detail their use of surveillance technologies."
+    publishedDateTime: 2022-09-13T23:10:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2022/09/senate-dems-call-ice-halt-facial-recognition-and-buying-data-brokers/377105/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 35
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2022/09/13/091322_getty_fcw_markey_wyden-1/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "Pq+CpgG0DZSJXc+1OAnNveo5c+lkj0OwdbeGdrr1g5qQQCa+abm9JX6AlCyiXfAg/xhKM+INShaTh2WgeduTvBrgeS0g0g/4fx0X96FUteGGsbPH3LlN4iTS9A+98RnU0DRKi+OO0rLbIk2bBoZiPy+xf1Pw7F+wgYf/K0B59qAHtxs7BPc2lkUATwzXNe2KExRf7g+EDCRKiv5sLovCYLaErBJdjwjVW0G8N4c71/f2ZFiQfEiNReq3R7qPdh+oMj9GiFHOVpQqI3fCakwElshwD0N5eyToVNCLGxX7hkpdmGfb0ynLxSz0Vs4Z4DyaosPY/2fN04MaL0NygwxOESo4Nozrbj6MzkxTLfPLdKk=;lRMSXkrTIN6TyRsBDXPhXg=="
 ---

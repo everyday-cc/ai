@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-13T20:50:00Z
 originalUrl: "https://www.rd.com/article/real-robots/"
 webUrl: "https://www.rd.com/article/real-robots/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.rd.com/wp-content/uploads/2022/09/GettyImages-1356817526-e1663095877427.jpg"
@@ -24,6 +25,6 @@ images:
     height: 583
     isCached: true
 
-secured: "voAxMshQcu3KoQruHd7MpL4xHmVYIBUZBJXkjU4DdyI+Kvl61cJ5BmehYfLVt/h+WCof5Y1MYFpz1+6SecJ4b5OIn2WG1inpOb5SATmtpDbejTp3VB3XM4ITy3RfRL5D+82iY+y+iHX5eRe+FV3AOp9GYiHFicPfmE5gRmRqHnKteOBPwPW49RVnKp77J5WUh+WPvd3oY54SDM75vWhRDKRVqJVVuHtpZP70oT+t1bd5uSP/i9K0PHZ9scuy4+fhP4XX1rbVI/iVnkOnZTys4VdL/T8YRfYwzakzKJqxi7F1e3mQHDFzUkPf11erIXcJ9aJjNSz3v0B2h/NG0LAVoKM4vw0icqxN1s98FmnkpWY=;ZZuloL93SYeEfG6OpzIpHw=="
+secured: "QRVScHprN+NZlu2t1FDWfRjncwlTpHopi1iUCWQ6veXjXotBPFDve3o52fHsYv49CFWd3BmRs0xF3n/yhmF84nX5TpKrbPWqbRxkoboLZb+kG4SEw4xHJTqkxbFyNLxdJAdLjBAxWOMvYX3Siu7VZjZe0yCaPbKXrn1TabiosYK7juvF5O6F5rgH3ubYwD7Ww33EE0E+x88/QZ2L1OZH1ElJ6uetJ7Nj5XBkb5yy3fHeZAix6ETjjRnOdmAETq1FlQw8tAszGA7KZ6KtS+5sN8i7KaQiPa1HZohTe3Bpycy4n2o0RUHAuJZj50jLGmo6CQylMkwY5avjxLnwLUXthFiTr6AWKxhbJtdbF42KCuD8pDf1SqvcWArbOBfmFilqSWUl/1yaTrUht5+PZGeik9Vfr8eHAW/v4cL7ACgBQRZ93ZeB9VYl3KGHH+wbDHCO84chpWm+Xa2Imo3isyNBcZmwI7zYHiPawFIRmjEI1vBEHHL+SA02BRF2mwdNnW3AMH2J8vVX1I+HeesrUd9t7w==;hjBFDfZxOYf4IxoyHh5MSA=="
 ---
 

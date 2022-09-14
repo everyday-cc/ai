@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Deep learning tool highly effective at detecting pancreatic cancer on CT"
+    excerpt: "An artificial intelligence (AI) tool is highly effective at detecting pancreatic cancer on CT, according to a study published in Radiology, a journal of the Radiological Society of North America."
+    publishedDateTime: 2022-09-13T22:19:00Z
+    webUrl: "https://www.news-medical.net/news/20220913/Deep-learning-tool-highly-effective-at-detecting-pancreatic-cancer-on-CT.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 38
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2015/3/Pancreatic_Cancer_89a89cdc7f804d5b8329b646f86bbec6-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "A deep learning-augmented smart mirror to enhance fitness training"
     excerpt: "In recent years, engineers and computer scientists have created a wide range of technological tools that can enhance fitness training experiences, including smart watches, fitness trackers, sweat-resistant earphones or headphones,"
     publishedDateTime: 2022-09-13T13:38:00Z

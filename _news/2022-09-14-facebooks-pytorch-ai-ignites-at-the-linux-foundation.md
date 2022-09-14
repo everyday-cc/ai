@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/facebooks-pytorch-ai-ignite
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebooks-pytorch-ai-ignites-at-the-linux-foundation/"
 type: article
 quality: 106
-heat: 216
+heat: 226
 published: true
 
 provider:
@@ -46,6 +46,17 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "AMD Joins PyTorch Foundation to Accelerate AI Adoption"
+    excerpt: "Other founding members of the PyTorch foundation are Amazon, Alphabet’s Google cloud, Microsoft Azure and Nvidia NVDA. AMD is supporting the PyTorch foundation by working on democratizing state-of-the-art tools,"
+    publishedDateTime: 2022-09-13T21:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/amd-joins-pytorch-foundation-to-accelerate-ai-adoption"
+    ampWebUrl: "https://www.nasdaq.com/articles/amd-joins-pytorch-foundation-to-accelerate-ai-adoption?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amd-joins-pytorch-foundation-to-accelerate-ai-adoption?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 86
   - title: "PyTorch joins the Linux Foundation"
     excerpt: "Under the linux Foundation, PyTorch gains several benefits including helpful programs, research, and global and local events."
     publishedDateTime: 2022-09-12T15:41:00Z
@@ -162,6 +173,6 @@ related:
       domain: datanami.com
     quality: 21
 
-secured: "Y3yn4am6fAQARCkN8z1sOyg9H4GLO3u9hJtEdmjvvBQ92hnXJUJkwE5FrN84fnbS11AAI8tNPmdUwzYDZw/df2uWY8BU9MH3o6nA0b1SDgQ/SW66v9i5zL6C62Y6XOMt09IXMxp3h4gatRWlGwy6M5UJEkT3oF98mIKjffmlBFdD9cncpRA/8yqJTdve1D2VPBjFuRAPL8qb1HtoomaSDznhX4IHzbpw+iERX+0CZ9BDregT0dUR+gII0jZ3URdREkI3sDAyOVfdOmFC5XjRDd+j5yRBf8nIahBHju4UyFHHJxgeXn+OFCzkqBFrBrxLh+hfdptTobrICQK9jwfb3pQe8BrrGCdEBSYdbDRkvS8=;btiNt7t0tosVw48SqttIrQ=="
+secured: "V7uuaFm/IBR2kRIiKAONEmr/ri1oKlrdoIaHxt8gMV8ISsqV8Q6zmZ1jLILYluScI407dd+Sp8qRqtUddTlcv006AzZGaaAcaIZJYFsisCoeaOlMnUzzXGKxIrUI3Xzrm8J3s1F6tc0myl2xarkiYZRSXUNMlokUxKMrwtRBGLhaXXUs9lOItJycqrrNqKsCQdmfzQRh7IHs/8aNhmDNkStcD2FWHkJSvGEuWCUKc7tho3t/t7sUonqzOIWNIr27qRZCtfp6yK0ugExbpqAnlMjsTT7WLrZJQzPFCJwSMyB01eHm6QSLRqpoOwYiuXkdPF694eCfpCCmMtqPKGGidBWMO3dBpcMn/RelUfDXhQIzZRQ0C1F9hzIpulR5U5qcz2PsoBOzF8kwW/3Nyx7PkMW4X9uOkCtuHpyxlbdUpZhrZrOW45DlOhN8X9HkI1XpeDYUghUZNl22+X3ASq30bGk7iGiPrO7N2bpem0drIWGe7ztVNMHcH6hwBSSo3E/VLZKeJ6pmpnTuT+9YgY9bjg==;QmEPEjAFf2J1lY5W/G/QWA=="
 ---
 

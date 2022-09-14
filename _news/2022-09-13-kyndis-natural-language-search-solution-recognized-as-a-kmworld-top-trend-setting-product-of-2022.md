@@ -2,9 +2,9 @@
 category: news
 title: "Kyndi's Natural Language Search Solution Recognized as a KMWorld Top Trend-Setting Product of 2022"
 excerpt: "Kyndi, the leading natural language processing (NLP) company, today announced that KMWorld, the premier knowledge management publication, has acknowledged the Kyndi Natural Language Search Solution as a Top Trend-Setting Product of 2022."
-publishedDateTime: 2022-09-13T15:08:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/09/13/9672530.htm"
-webUrl: "https://it.tmcnet.com/news/2022/09/13/9672530.htm"
+publishedDateTime: 2022-09-13T14:56:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-kyndis-natural-language-search-solution-recognized-as-kmworld-/2022/09/13/9672530.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-kyndis-natural-language-search-solution-recognized-as-kmworld-/2022/09/13/9672530.htm"
 type: article
 quality: 10
 heat: 10
@@ -35,6 +35,6 @@ related:
       domain: datanami.com
     quality: 0
 
-secured: "g6Uc1vWMQa7xDbSqy/wLNPRmAGdFAboE74K/mBSUmCe25dHIASWkFX293+Q5Q/scZvYcV3pQwSL1ywMHh2UfgicTgB1GT4ovwXf4JAOrZAK5R2sQf/trlJCYyVPnPz3CVl1XFYZKcEzZyR+NQfLsqjzN6JkLjf7oZMhIKOMeEwBzlcvfDxthlr/bCQJ6CnDzxSN5x8JIzwTb4CG6dvvCHmpccNbmCixlMnuGNSAiGWbrXQfP3K0Ztoby6BWuONm8gMUFSQFD3TFedsY+JFmDLZC0j6VRMugKovJSvIG841M/RQNfECfhAWjZptgZIFfdjqAF90faRADJoiamFG4cwuaACIxAIFBP5YWUgkwyQD8=;ak1YKaUtbBX03RxSY2bqKQ=="
+secured: "zBEJGs6CKnO1woJ02420Ik/gaRfN1d1F5+ZPCtfdpy+HjzGZKGvzX3BC4rxaVYBNgrWMuaFIc0DPlbGuWwF6XLiwymb7uLDeTq7mJgiJ7h0d6Cm8UOPOPsI3DcJf3c7d5wvJ02PtIBwKC92GtlmlSqvBnEHhpuFcunulcEDTvwLnouY2MEDdAM7o+uF+Ql8/pRJaIDgER3naN1qYTErB9hPNyDLG7Ltrx2Wp8v6dTyLyIXpBYTEcyw6KWbP2wLRjhx+hNPdOirP8cbCBFs7baBVBNK40Ui6Ed5Ms7MKAs7AuY2jF8rN+CdGJMSeoF9XhKLYP47twq9acgoc7+CeGy/L0DIDs7bdoReKV+m62HRk=;97Vw3XHv8n8GXlKTxFHR2A=="
 ---
 

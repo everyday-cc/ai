@@ -7,8 +7,8 @@ originalUrl: "https://eandt.theiet.org/content/articles/2022/09/campaigners-call
 webUrl: "https://eandt.theiet.org/content/articles/2022/09/campaigners-call-for-end-of-police-use-of-facial-recognition-technology/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: IET
@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Senators petition ICE to curtail ‘Orwellian’ use of facial recognition, surveillance technology"
-    excerpt: "The letter is the latest instance of Congress seeking to rein in the purchase of Americans' personal data by law enforcement agencies."
-    publishedDateTime: 2022-09-13T16:25:00Z
-    webUrl: "https://www.fedscoop.com/senators-petition-ice-to-curtail-orwellian-use-of-facial-recognition-surveillance-technology/"
+  - title: "Pleasant View police use facial recognition to identify alleged gun thief"
+    excerpt: "Marcus Holt, 22, is in the Cheatham County Jail and has been charged with 29 counts of theft, burglary, vandalism, and felon in possession of a firearm."
+    publishedDateTime: 2022-09-13T22:21:00Z
+    webUrl: "https://www.wkrn.com/news/local-news/pleasant-view-police-use-facial-recognition-to-identify-alleged-gun-thief/"
+    ampWebUrl: "https://www.wkrn.com/news/local-news/pleasant-view-police-use-facial-recognition-to-identify-alleged-gun-thief/amp/"
+    cdnAmpWebUrl: "https://www-wkrn-com.cdn.ampproject.org/c/s/www.wkrn.com/news/local-news/pleasant-view-police-use-facial-recognition-to-identify-alleged-gun-thief/amp/"
     type: article
     provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 42
+      name: WKRN
+      domain: wkrn.com
+    quality: 58
     images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2019/11/U.S._Citizenship_and_Immigration_Service.jpg?w=1200&h=500&crop=1"
-        width: 1200
-        height: 500
+      - url: "https://www.wkrn.com/wp-content/uploads/sites/73/2022/09/Pleasant-View-police-use-facial-recognition-to-identify-alleged-gun-thief.jpg?w=1280"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Call for UK’s biggest police force to stop using facial recognition technology"
     excerpt: "Fourteen campaign groups have written an open letter to the new boss of the Metropolitan Police on his first day in the job."

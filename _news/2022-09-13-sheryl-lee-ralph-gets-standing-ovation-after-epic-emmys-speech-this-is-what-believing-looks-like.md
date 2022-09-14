@@ -41,6 +41,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "'Abbott Elementary' star Sheryl Lee Ralph delivers powerful acceptance speech"
+    excerpt: "After taking the stage, the 65-year-old actress held up her trophy and belted out the opening lyrics to \"Endangered Species\" by Dianne Reeves, a five-time Grammy-winning jazz singer."
+    publishedDateTime: 2022-09-13T22:08:00Z
+    webUrl: "https://abc30.com/abbott-elementary-emmy-awards-2022-sheryl-lee-ralph-quinta-brunson/12225709/"
+    type: article
+    provider:
+      name: ABC30 Action News
+      domain: abc30.com
+    quality: 21
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/12225701_sheryl-lee-ralph.jpg?w=1600"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "kOIESxr0v/AjaktEfCheO6kRv7hEvnBYDFMNfKwfk4QBtv3IZMPuMFoaxy8f+bgNo9qzxqI4LGy58hCQTT+LGzSUOe2fwbqGZ+p7zIJS5zS3gSyckTcQkbsq6lMhGHyKItaciDwO3qpfNwGwaYG2PrgYyJdXJ828eFc93UMxuFZeIIyqmaIWTXYlBhuktgnz6394d/xeEzt5Zhml51jz0q9Wt3i1ZjIN6+1x4SJenOmxrz9cmSTfQ/AtbnHEKBA0uncYE7AY8QNWBhN/N7tK9IYnCI1KJ8Fvo9Uk2Ln5LpEBYiCx85LY/xqth0GT2WeopLPg0RECt19GokNYlRUnr2kMimQRSXVRZUFDmoN+mPXvMq0uMwjcM6ALIHaWQn9HOG/ztPw8dk2y9PnWkDMoGBg47aRC6R4B9+a2JTBnERjBnSHw+9QfAmo6aUXAmCPyqWpV92qFb/9KTNKI1Gy4UlCnlb1u91tpM3c/auJFC610Ge+SNodG904pQovuHmP/NFcKI3zy1t4FRxFW8LwvSQ==;QiNXuZYYnAeqZKBcr/jrFw=="
 ---

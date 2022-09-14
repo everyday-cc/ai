@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2022-09-method-neural-networks-exposes-arti
 ampWebUrl: "https://techxplore.com/news/2022-09-method-neural-networks-exposes-artificial.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-method-neural-networks-exposes-artificial.amp"
 type: article
-quality: 51
-heat: 51
+quality: 53
+heat: 63
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/new-method-for-compari.jpg"
@@ -25,6 +26,22 @@ images:
     height: 1024
     isCached: true
 
-secured: "dWYKOSy73KeZSDRp/kVpScX42xENC1Vfcwrvb1kAhkBqf2jylI9WlE8xe9MefhHPPbZH50pCvDgUOXVt8t0CqmHNpsTCStpG4RvRgdNeTlwBZC5+6HOResbsRwhjjqummRnA0cC/JyJcuXqurB5JjL2Sqb/OFVJYFSJx0j/xqyz2ps6UabX50oyCeR6n+JOo/ZUYSaTWGoqKkTOB/NPhY1Qk59vIuXmgJa2yPu8LMB2zbwgzT7+zV2qfwbHsXT4BDOsdwqfQzFnRq3gusXmgAadmycgNlhdVBDbPmVbld3dqv3NULjM6W6KWSlb+PWV9g3jPzgj8SXFlOQZc0/EADn6ds8bjTM0e/YXKreIWjNs=;O6chMy7J88nHo07+DrDR2w=="
+related:
+  - title: "LANL: New Method For Comparing Neural Networks Exposes How Artificial Intelligence Works"
+    excerpt: "Researchers at Los Alamos National Laboratory are looking at new ways to compare neural networks. This image was created with an artificial intelligence software called Stable Diffusion, using the"
+    publishedDateTime: 2022-09-13T23:06:00Z
+    webUrl: "https://losalamosreporter.com/2022/09/13/lanl-new-method-for-comparing-neural-networks-exposes-how-artificial-intelligence-works/"
+    type: article
+    provider:
+      name: losalamosreporter
+      domain: losalamosreporter.com
+    quality: 47
+    images:
+      - url: "https://losalamosreporter.files.wordpress.com/2022/09/82227e4a-4207-46bd-acb2-726c646033ea.jpg"
+        width: 896
+        height: 1024
+        isCached: true
+
+secured: "8NJBVUpwaIMCpOs015bIvEGyWtficN1RQMu9k+5q/CwED/7WtTPx3duZFqFFnMZ61Z4P+o790QyNuEBB64bkIEAz+BUiyhJ1XIGEYpuGdNRLHxPzluXhyOaXCn6zbXFEy7KNqjPON0CX4M+4NmTDs3IKIgee0RHu8vdQ4HZcRKg1hPHFm7qUSevt0c/CZO8p6TVZtplF1q1rICFUWUZGMFMGcqzg/VM9OoRJ5Mu/BunuVpMk2vfU3TO1XBFoOu3ILf59zA3XrQlxrzBCLb7VYTx/YUPIaMdZUMPbvnA9MPJZDSj/5f7sX+9VFHlYU0H0BEgdriiO17Keut03YwJ4/JiZoKIYV56PRoHD5iTyTauySGjhOl7UVbWjxbQYuu4v06wk44zBVjywNLk3cyMsn+U8t8A695WizOL5YqDPrkUHUQQ77YtF8zGkCh6YoITHel81zn5vtjKTRn/jeW2UeJD+LnIGVn1qboHWt+o19do307JjSGu0bTlDHTgr4zTyBDpJu57/lRJMBnzwpPNbcA==;KlWbYSZT58hF4wqdKaS8/Q=="
 ---
 

@@ -60,6 +60,17 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "AMD Joins PyTorch Foundation to Accelerate AI Adoption"
+    excerpt: "Other founding members of the PyTorch foundation are Amazon, Alphabet’s Google cloud, Microsoft Azure and Nvidia NVDA. AMD is supporting the PyTorch foundation by working on democratizing state-of-the-art tools,"
+    publishedDateTime: 2022-09-13T21:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/amd-joins-pytorch-foundation-to-accelerate-ai-adoption"
+    ampWebUrl: "https://www.nasdaq.com/articles/amd-joins-pytorch-foundation-to-accelerate-ai-adoption?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amd-joins-pytorch-foundation-to-accelerate-ai-adoption?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 86
   - title: "PyTorch joins the Linux Foundation"
     excerpt: "Under the linux Foundation, PyTorch gains several benefits including helpful programs, research, and global and local events."
     publishedDateTime: 2022-09-12T15:41:00Z

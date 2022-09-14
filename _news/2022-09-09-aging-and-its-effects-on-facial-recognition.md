@@ -41,6 +41,20 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Senate Dems Call on ICE to Halt Facial Recognition and Buying from Data Brokers"
+    excerpt: "Sens. Ed Markey and Ron Wyden are also pressing the immigration enforcement agency to detail their use of surveillance technologies."
+    publishedDateTime: 2022-09-13T23:10:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2022/09/senate-dems-call-ice-halt-facial-recognition-and-buying-data-brokers/377105/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 35
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2022/09/13/091322_getty_fcw_markey_wyden-1/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "A University of Maryland professor wants to expose the hidden bias in AI, and then use it for good"
     excerpt: "Lauren Rhue researches the fast-paced world of artificial intelligence and machine learning technology. But she wants everyone in it to slow down."
     publishedDateTime: 2022-09-13T09:00:00Z
