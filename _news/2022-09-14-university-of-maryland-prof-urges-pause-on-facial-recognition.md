@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/education/higher-ed/university-of-maryland-p
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/university-of-maryland-prof-urges-pause-on-facial-recognition?_amp=true"
 type: article
 quality: 61
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Aging and its effects on facial recognition"
-    excerpt: "AS the iPhone 14 launches this week, we take a look back at one of the innovations Apple introduced when it launched the iPhone X—Face ID. The facial recognition system that retired the beloved home button became the main biometric authentication for unlocking your device,"
-    publishedDateTime: 2022-09-09T16:01:00Z
-    webUrl: "https://businessmirror.com.ph/2022/09/10/aging-and-its-effects-on-facial-recognition/"
-    type: article
-    provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 39
-    images:
-      - url: "https://businessmirror.com.ph/wp-content/uploads/2022/09/digitallife03-091022.jpg"
-        width: 720
-        height: 531
-        isCached: true
   - title: "Senate Dems Call on ICE to Halt Facial Recognition and Buying from Data Brokers"
     excerpt: "Sens. Ed Markey and Ron Wyden are also pressing the immigration enforcement agency to detail their use of surveillance technologies."
     publishedDateTime: 2022-09-13T23:10:00Z

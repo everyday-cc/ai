@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-05-25-geisinger-selects-aws-as-strategic-cloud-provider.md",
+      "title": "Geisinger selects AWS as strategic cloud provider",
+      "excerpt": "Project will be one of the largest electronic health record cloud migrations to AWS to date, expected to enable life-saving technologies and save Geisinger several million annually DANVILLE, Pa., May 24,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox46.com/business/press-releases/cision/20220524DC67473/geisinger-selects-aws-as-strategic-cloud-provider/",
+      "originalUrl": "https://www.fox46.com/business/press-releases/cision/20220524DC67473/geisinger-selects-aws-as-strategic-cloud-provider/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1653214/Geisinger_School_of_Medicine_Faculty_Return_Logo.jpg?p=publish",
+          "width": 1960,
+          "height": 790,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T10:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fox46",
+        "domain": "fox46.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-24-activists-protest-amazons-cloud-conference-over-companys-work-with-police-immigration-agencies.md",
       "title": "Activists protest Amazon’s cloud conference over company’s work with police, immigration agencies",
       "excerpt": "AWS’s Rekognition software has been criticized, including by Amazon’s own employees, as being less accurate in identifying people of color. At least three Black men have been incorrectly ...",
@@ -1320,49 +1363,6 @@
         "AWS AI",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-at-jpmorgan-chase-upskilling-goes-hand-in-hand-with-innovation.md",
-      "title": "At JPMorgan Chase, Upskilling Goes Hand-in-Hand With Innovation",
-      "excerpt": "It sounds like a scene from your typical automotive race, but it’s not. It’s actually the championship round of the 2021 Amazon Web Services DeepRacer, the global competition in which technologists flex their machine learning savvy to guide autonomous ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.builtinchicago.org/2022/05/11/jpmorgan-chase-upskilling-innovation",
-      "originalUrl": "https://www.builtinchicago.org/2022/05/11/jpmorgan-chase-upskilling-innovation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.builtinchicago.org/sites/www.builtinchicago.org/files/styles/og/public/2022-05/JPMC_Spotlight_Thumbnail_1024x576.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T01:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Built In Chicago",
-        "domain": "builtinchicago.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

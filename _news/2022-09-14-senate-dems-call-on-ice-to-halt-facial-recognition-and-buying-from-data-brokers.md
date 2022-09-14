@@ -41,20 +41,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Aging and its effects on facial recognition"
-    excerpt: "AS the iPhone 14 launches this week, we take a look back at one of the innovations Apple introduced when it launched the iPhone X—Face ID. The facial recognition system that retired the beloved home button became the main biometric authentication for unlocking your device,"
-    publishedDateTime: 2022-09-09T16:01:00Z
-    webUrl: "https://businessmirror.com.ph/2022/09/10/aging-and-its-effects-on-facial-recognition/"
-    type: article
-    provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 39
-    images:
-      - url: "https://businessmirror.com.ph/wp-content/uploads/2022/09/digitallife03-091022.jpg"
-        width: 720
-        height: 531
-        isCached: true
   - title: "A University of Maryland professor wants to expose the hidden bias in AI, and then use it for good"
     excerpt: "Lauren Rhue researches the fast-paced world of artificial intelligence and machine learning technology. But she wants everyone in it to slow down."
     publishedDateTime: 2022-09-13T09:00:00Z

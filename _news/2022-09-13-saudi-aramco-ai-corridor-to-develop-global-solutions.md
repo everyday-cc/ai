@@ -7,7 +7,7 @@ originalUrl: "https://www.zawya.com/en/business/technology-and-telecom/saudi-ara
 webUrl: "https://www.zawya.com/en/business/technology-and-telecom/saudi-aramco-ai-corridor-to-develop-global-solutions-h20dl8hl"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,50 @@ images:
     isCached: true
 
 related:
+  - title: "Saudi Arabia Leads Regional AI through Laboratory, Global Development Corridor"
+    excerpt: "Saudi Arabia hosted the second edition of the Global AI Summit under the patronage of Crown Prince Mohammad bin Salman bin Abdulaziz, who also chairs the Board of Directors of the Saudi Authority for Data and Artificial Intelligence (SDAIA)."
+    publishedDateTime: 2022-09-14T07:33:00Z
+    webUrl: "https://english.aawsat.com/home/article/3873176/saudi-arabia-leads-regional-ai-through-laboratory-global-development-corridor"
+    ampWebUrl: "https://english.aawsat.com/home/article/3873176/saudi-arabia-leads-regional-ai-through-laboratory-global-development-corridor?amp"
+    cdnAmpWebUrl: "https://english-aawsat-com.cdn.ampproject.org/c/s/english.aawsat.com/home/article/3873176/saudi-arabia-leads-regional-ai-through-laboratory-global-development-corridor?amp"
+    type: article
+    provider:
+      name: الشرق الأوسط
+      domain: aawsat.com
+    quality: 55
+    images:
+      - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2022/09/14/66610_0.jpeg?itok=tdbNlU3m"
+        width: 480
+        height: 268
+        isCached: true
+  - title: "Kingdom of Saudi Arabia develop AI ethics principles"
+    excerpt: "The Saudi Artificial Intelligence Ethics Principles provide a set of practical standards for AI development and implementation in the Kingdom"
+    publishedDateTime: 2022-09-14T08:38:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/kingdom-of-saudi-arabia-develop-ai-ethics-principles-i0amqe86"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 54
+    images:
+      - url: "https://static.zawya.com/version/c:YzBlNTEwMzQtYmQxMS00:ZTJmMzg4/faha4655-jpg.JPG?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "SCAI and Lean to Develop Innovative AI Solutions for Saudi Healthcare Sector"
+    excerpt: "Wall Street Closing; SCAI and Lean to Develop Innovative AI Solutions for Saudi Healthcare Sector; EDM Council and National Data Management Office Cooperate to Enhance Data Manage"
+    publishedDateTime: 2022-09-13T21:40:00Z
+    webUrl: "https://www.spa.gov.sa/viewfullstory.php?lang=en&newsid=2383743"
+    type: article
+    provider:
+      name: spa.gov.sa
+      domain: spa.gov.sa
+    quality: 51
+    images:
+      - url: "https://clcdn.spa.gov.sa/galupload/thumb/no-image-logo.png"
+        width: 805
+        height: 612
+        isCached: true
   - title: "SDAIA: The Kingdom of Saudi Arabia announces program for 2nd Global AI Summit"
     excerpt: "Additionally, speakers will discuss AI ethics and policies that help prevent the exploitation of AI. As it hosts the summit, SDAIA will highlight AI advances and achievements within the Kingdom and sh"
     publishedDateTime: 2022-09-12T06:24:00Z

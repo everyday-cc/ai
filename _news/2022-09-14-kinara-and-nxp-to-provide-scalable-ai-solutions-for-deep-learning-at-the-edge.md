@@ -7,8 +7,8 @@ originalUrl: "https://www.newelectronics.co.uk/content/news/kinara-and-nxp-to-pr
 webUrl: "https://www.newelectronics.co.uk/content/news/kinara-and-nxp-to-provide-scalable-ai-solutions-for-deep-learning-at-the-edge"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: New Electronics
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "SCAI and Lean to Develop Innovative AI Solutions for Saudi Healthcare Sector"
-    excerpt: "Wall Street Closing; SCAI and Lean to Develop Innovative AI Solutions for Saudi Healthcare Sector; EDM Council and National Data Management Office Cooperate to Enhance Data Manage"
-    publishedDateTime: 2022-09-13T21:40:00Z
-    webUrl: "https://www.spa.gov.sa/viewfullstory.php?lang=en&newsid=2383743"
-    type: article
-    provider:
-      name: spa.gov.sa
-      domain: spa.gov.sa
-    quality: 51
-    images:
-      - url: "https://clcdn.spa.gov.sa/galupload/thumb/no-image-logo.png"
-        width: 805
-        height: 612
-        isCached: true
   - title: "Kinara and NXP Collaborate to Provide Customers with Scalable AI Solutions Optimized for Deep Learning at the Edge"
     excerpt: "Kinara's patented Edge AI processor, named Ara-1, delivers a ground-breaking combination of performance, power, and price for integrated cameras and edge servers. Kinara AI complements it processing technology with a comprehensive and robust set of development tools that allow its customers to easily convert their neural network models into highly optimized computation flows ready to be deployed on the Ara-1 chip."
     publishedDateTime: 2022-09-13T20:33:00Z
@@ -50,6 +36,6 @@ related:
       domain: tmcnet.com
     quality: 14
 
-secured: "Y7bQlePsIg93Ta2dwmDxQAF0R6C+2UkL9AMsE4QDydC2KLAdsiKsl7iSBhfQ2QmRmsR5LufBW3Tjk6UpDP/J6w63ZumZRpTa9iX36m65Gib5mbYHD2/gz1qMapRrWt5AK+mnRVvbUxN219gIffmsgZhcmqsnSXf6QIq+xUVeaXB4pLf5A+/CWBe8GzPBUaAz+/Oj9V93eDufndsP9CGMXC7Kj31dlozj+LFAWp7KruPR7Qa/iQaOCcfpr1AWhEn/EWHGUJ356plQJQwIxxTE9+Uc8XLtbxOXslpmGohw69Gy41Zghr+Ouc4rqfmaH8+mZnV45KG2gqdWRdZcYLq+tC4jx/vYYKKA1o5NwOio0yY=;S8ecBAapQjwkvRplwG8RCg=="
+secured: "OpwumO/a/kfLuwC5KWjIw8FyLbipg++5by+Rg6wFnRSWSEZWNs0ngblZuQj+444FL5xtprP5YjEMaTIyfZ52Ym0VT9ejqg8fXPmTucmaGO+bSefxEzH/Ik0RI1uDJlsZIRgMR3N5th/TtIp8Nlg0lYRA4EcBmfqtr026gADNLuwST8YPPHUoDSBMzOZzKwiNtXQbwH9fw0pHBlZ06aycYMimo11rZCQlGw/KPfHmUnxg3edciwUTR4DmEbtqFDqVC+xzvHR9GlJzpEtW3ngnkZPK9fLpOyXP4W41qQjmpL2K96zY7HU1hE7XHa/ODQuiFzXhI9kVQ5EF7ZSnLD2lO7q5jTra28BL0ALn6CvtvVwfSrZJkluRoF8SoOnHk5KA3xlKBd4DJfSf8yZvjiV9cH73i3B3euueeV4r9P9ALRjyfmGRObiakTxRxzPZ66wVgvCY9QvHgRimKoXTdkY7RbvJeHO/74OAmiVo2oaWBMJOGfMasKkvi70CQ/mRrSH5sm+CTRsvYzjCxMgYSbjqiQ==;QNbWZ542kEJ2FmVmYjXNJg=="
 ---
 

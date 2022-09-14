@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Robots and artificial intelligence bring Nebraska $25 million"
-excerpt: "so why not get a robot and teach it artificial intelligence and computer vision, put that in the poultry barn and let that replace the human labor? So we start to see these identifying problems ..."
-publishedDateTime: 2022-09-03T05:36:00Z
-originalUrl: "https://www.wowt.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/"
-webUrl: "https://www.wowt.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/"
+excerpt: "Satellite data, parsed by artificial intelligence speaking to drones, connecting to robots, maintained by a newly trained workforce. That’s what helped a Nebraska group, Heartland Robotics ..."
+publishedDateTime: 2022-09-02T22:57:00Z
+originalUrl: "https://www.1011now.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/"
+webUrl: "https://www.1011now.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/"
 type: article
 
 provider:
-  name: WOWT
-  domain: wowt.com
+  name: 1011 Now
+  domain: 1011now.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "mjl2xsvBmYy2J0i8zzwFlLPRwdTMNVxnB4pmElcdf9LW5mrWVecp+pi/q2eB7mujGZJnj/2AgDJP3T6AIFVEZfbKBZznlKO4Rr4luP4WGOD684m+X39ek7egg4wRl0amndwrpy3MfFgnFfJvtDFM9jPY2vjLMT10XBrCXsjVhYK9Yjh2DJId33FdnGiaEsSwShNwP+iwhDswr31WhqByjcSyoUAobd75LnDx90CX06tuOB3sbyRj9lExTOOMKSBfOxJmMqoaJVkoLHj+cvF3ecJMk80L5CiI3Q357etOD1E3JsZT55fAIW1/lbGaeMIrx0UO/dWcb4En5po1U1bs8gF7MfKyplfwd2o7jTiJsLU=;1d0DYsbkXWoqPPRSCeBFYQ=="
+images:
+  - url: "https://gray-koln-prod.cdn.arcpublishing.com/resizer/Zfp3Bn5B2JvI53KmR3bIQ7fcKrs=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/VE6VSWSVDJECPD22OD77HHGIYU.bmp"
+    width: 1200
+    height: 600
+    isCached: true
+
+secured: "KUgGj45cHgnCKPc/rHV3jOoyB2PblWuqdZ7gz90/wHB+Biw7VbVv2THUc1PtXqVLnxck4o12y6f9Bk778TGy2BFz1N3/2NyH4OksOOxXOHBmw8jT8rmfTQpayTKtm2lL12lq12LyIHAnlO+0yg9hB1S1UxAx9G1046dw3XhT/Pu61cNn/8r5YjIBOPLMvO7L36AzWFW1a+8vlyN52Z4ijKvV4lGQYIspCpyNZ6YmMWR5K0MQF3iS20pY0kJc9Qh28ZMN/A3l1bGv6BzzTnOpzio4iRc9JAgTJwhvbUwdjV27l/Hvzl0rZbult/iVDApKJrq4qvkJZL6Fm+wXqc5jEn667Mkf8KnQjrJE1jSY2E8=;Lqs4orh+IrvkrNiumMaEVg=="
 ---
 

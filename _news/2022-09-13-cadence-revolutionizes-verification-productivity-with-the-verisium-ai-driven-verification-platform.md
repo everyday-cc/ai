@@ -20,6 +20,20 @@ topics:
 
 related:
   - title: "VeriSilicon AI-ISP Delivers Innovative Image Quality Enhancement that Breaks the Limits of Computer Vision"
+    excerpt: "ISP, an innovative AI image enhancement technology for applications including smartphones, automotive electronics, and Industrial Internet of Things (IIoT), providing advanced image enhancement effects beyond traditional computer vision technologies."
+    publishedDateTime: 2022-09-14T08:19:00Z
+    webUrl: "https://www.design-reuse.com/news/52656/verisilicon-ai-isp-computer-vision.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 36
+    images:
+      - url: "https://www.design-reuse.com/news_img2/homepage52656/VeriSilicon_Logo2.png"
+        width: 400
+        height: 247
+        isCached: true
+  - title: "VeriSilicon AI-ISP Delivers Innovative Image Quality Enhancement that Breaks the Limits of Computer Vision"
     excerpt: "VeriSilicon (688521.SH), a leading Silicon Platform as a Service (SiPaaS®) company, today announced the launch of AI-ISP, an innovative AI image enhancement technology for applications including smartphones,"
     publishedDateTime: 2022-09-13T16:06:00Z
     webUrl: "https://it.tmcnet.com/news/2022/09/13/9672608.htm"

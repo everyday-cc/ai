@@ -7,7 +7,7 @@ originalUrl: "https://it.tmcnet.com/news/2022/09/13/9672608.htm"
 webUrl: "https://it.tmcnet.com/news/2022/09/13/9672608.htm"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,20 @@ topics:
   - Computer Vision
 
 related:
+  - title: "VeriSilicon AI-ISP Delivers Innovative Image Quality Enhancement that Breaks the Limits of Computer Vision"
+    excerpt: "ISP, an innovative AI image enhancement technology for applications including smartphones, automotive electronics, and Industrial Internet of Things (IIoT), providing advanced image enhancement effects beyond traditional computer vision technologies."
+    publishedDateTime: 2022-09-14T08:19:00Z
+    webUrl: "https://www.design-reuse.com/news/52656/verisilicon-ai-isp-computer-vision.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 36
+    images:
+      - url: "https://www.design-reuse.com/news_img2/homepage52656/VeriSilicon_Logo2.png"
+        width: 400
+        height: 247
+        isCached: true
   - title: "Cadence Revolutionizes Verification Productivity with the Verisium AI-Driven Verification Platform"
     excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the Cadence ® Verisium ™ Artificial Intelligence (AI)-Driven Verification Platform, a suite of applications leveraging big data and AI to optimize verification workloads,"
     publishedDateTime: 2022-09-13T16:23:00Z

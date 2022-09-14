@@ -143,6 +143,20 @@ related:
         width: 720
         height: 377
         isCached: true
+  - title: "King Charles speech in full: Read every word of the new monarch’s first address to the nation"
+    excerpt: "Prince Charles said the royal family owed the Queen \"the most heartfelt debt any family can owe to their mother, for her love, affection, guidance, understanding and example\""
+    publishedDateTime: 2022-09-09T17:43:00Z
+    webUrl: "https://inews.co.uk/news/king-charles-speech-full-every-word-first-address-nation-new-monarch-1846102"
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 13
+    images:
+      - url: "https://wp.inews.co.uk/wp-content/uploads/2022/09/SEI_124298233-1-e1662743699832.jpg"
+        width: 1537
+        height: 1093
+        isCached: true
   - title: "Pointed message hidden in King Charles’ speech"
     excerpt: "In King Charles’ nine-and-a-half minutes-long first speech, there was a specific line laden with special significance."
     publishedDateTime: 2022-09-12T05:23:00Z
@@ -161,6 +175,15 @@ related:
       name: Town & Country
       domain: townandcountrymag.com
     quality: 4
+  - title: "Read King Charles's First Speech as the New Sovereign of the United Kingdom"
+    excerpt: "The king honored his late mother, Queen Elizabeth, and praised his wife and sons in his address to the nation."
+    publishedDateTime: 2022-09-09T18:19:00Z
+    webUrl: "https://www.harpersbazaar.com/celebrity/latest/a41136694/king-charless-full-first-speech-sovereign-united-kingdom/"
+    type: article
+    provider:
+      name: Harper's Bazaar
+      domain: harpersbazaar.com
+    quality: 2
   - title: "King Charles Expresses His 'Love' for Prince Harry and Meghan Markle in First Speech Following Queen's Death"
     excerpt: "In his first address to the nation -- with the rest of the world also tuning in -- King Charles III gave a moving speech Friday as the new monarch in which he expressed \"sorrow\" over the death of his mother,"
     publishedDateTime: 2022-09-09T18:06:00Z

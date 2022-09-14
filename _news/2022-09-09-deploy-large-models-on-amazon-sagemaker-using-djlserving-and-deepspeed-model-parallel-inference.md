@@ -46,20 +46,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 62
-  - title: "How Amp on Amazon used data to increase customer engagement, Part 2: Building a personalized show recommendation platform using Amazon SageMaker"
-    excerpt: "Amp is a new live radio app from Amazon. With Amp, you can host your own radio show and play songs from the Amazon Music catalog, or tune in and listen to shows other Amp users are hosting. In an environment where content is plentiful and diverse, it’s important to tailor the user experience to […]"
-    publishedDateTime: 2022-09-09T16:30:10Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-amp-on-amazon-used-data-to-increase-customer-engagement-part-2-building-a-personalized-show-recommendation-platform-using-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 52
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/09/amp-music-2.jpg"
-        width: 1533
-        height: 765
-        isCached: true
 
 secured: "lfWr1vJU4SB24v59xgxqsTTfBiN3ozUXUn5fPfCxJqSN/6kpSLFNikFepmoi2vJOsF9jYDt0mUh4WxnRNQAM49CrWlHo/vP8Lqp33EsuiWRwSh20D/IGa2laNOKFkvgpqln6dUQnhv3yaWgkoOd1bTvQgF5eRuiAD6ElqFD3UFO0umAafCNRh7kHCbOx4kBonc5V3c123eY9uxGRtRUh9FVBHXWh2GaK92atQSVYrmNi+d8srZWW3+GJLY9KZthAH8+5cWT+/iWUyOgzoi35tfxGAU8nxkdshDOyoCKZ6p6ZCSxjI6oQutFNqoxKeIpTDcwjzEhlMzNY8qmI0fdaq736AlBJW9owpOJG1v2T4i8=;F6+wzPd4W7tOaDva6E38iA=="
 ---

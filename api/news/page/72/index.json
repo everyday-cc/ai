@@ -2,6 +2,82 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2022-07-15-get-2-million-tiktok-conspiracy-translate-200-languages.md",
+      "title": "Get $2 million, TikTok conspiracy, translate 200 languages",
+      "excerpt": "You go to the hospital for a life-saving procedure. But a ransomware attack shuts everything down. Here's your self-defense strategy in case criminals try",
+      "sourceUrl": null,
+      "webUrl": "https://www.komando.com/episode/get-2-million-tiktok-conspiracy-translate-200-languages/845604/",
+      "originalUrl": "https://www.komando.com/episode/get-2-million-tiktok-conspiracy-translate-200-languages/845604/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-14T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kim Komando",
+        "domain": "komando.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-15-gestalt-diagnostics-announces-artificial-intelligence-requisition-engine-aire.md",
+      "title": "Gestalt Diagnostics Announces Artificial Intelligence Requisition Engine (AIRE)",
+      "excerpt": "AIRE is an Artificial Intelligence algorithm that automatically accessions cases and provides significant improvements in accuracy and efficiency",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/gestalt-diagnostics-announces-artificial-intelligence-requisition-engine-aire-1031588342",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/gestalt-diagnostics-announces-artificial-intelligence-requisition-engine-aire-1031588342",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-14T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-15-how-ai-bots-became-the-face-of-the-worlds-most-innovative-companies.md",
       "title": "How AI Bots Became The Face Of The World’s Most Innovative Companies",
       "excerpt": "Very quietly, these AI bots are revolutionizing work — becoming the face of the world’s most innovative companies. So what are they? And what's allowed them to win over employees, when so many AI projects fail to get off the ground?",
@@ -1065,82 +1141,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-blacksky-wins-44-million-iarpa-contract-to-provide-advanced-artificial-intelligence-for-space-based-dynamic-monitoring.md",
-      "title": "BlackSky Wins $4.4 Million IARPA Contract to Provide Advanced Artificial Intelligence for Space-Based Dynamic Monitoring",
-      "excerpt": "BlackSky Technology Inc. (NYSE: BKSY) received a $4.4 million award from the Intelligence Advanced Research Projects Activity (IARPA) to support the second phase of the multi-year Space-based Machine Automated Recognition Technique (SMART) Program.",
-      "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-14-blacksky-wins-44-million-iarpa-contract-to-provide-advanced-artificial-intelligence-for-space-based-dynamic-monitoring",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-14-blacksky-wins-44-million-iarpa-contract-to-provide-advanced-artificial-intelligence-for-space-based-dynamic-monitoring",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-artificial-intelligence-in-insurtech-market-type-application-key-players-region-forecasts-over-2022-2028-latest-research-by-ibi.md",
-      "title": "Artificial Intelligence In Insurtech Market Type, Application, Key Players, Region-Forecasts Over 2022-2028 |Latest Research By IBI",
-      "excerpt": "and self-driving vehicles, speed up the artificial intelligence (AI) insurtech market development. The expansion deprived to offer customized protection administrations and reception of AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-insurtech-market-type-application-key-players-region-forecasts-over-2022-2028-latest-research-by-ibi",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-insurtech-market-type-application-key-players-region-forecasts-over-2022-2028-latest-research-by-ibi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/07/b2256bb83490cc83e3b7c4897085f5d61ac37c00-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/prepare-data-at-scal
 webUrl: "https://aws.amazon.com/blogs/machine-learning/prepare-data-at-scale-in-amazon-sagemaker-studio-using-serverless-aws-glue-interactive-sessions/"
 type: article
 quality: 92
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 57
-  - title: "How Amp on Amazon used data to increase customer engagement, Part 2: Building a personalized show recommendation platform using Amazon SageMaker"
-    excerpt: "Amp is a new live radio app from Amazon. With Amp, you can host your own radio show and play songs from the Amazon Music catalog, or tune in and listen to shows other Amp users are hosting. In an environment where content is plentiful and diverse, it’s important to tailor the user experience to […]"
-    publishedDateTime: 2022-09-09T16:30:10Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-amp-on-amazon-used-data-to-increase-customer-engagement-part-2-building-a-personalized-show-recommendation-platform-using-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 52
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/09/amp-music-2.jpg"
-        width: 1533
-        height: 765
-        isCached: true
 
 secured: "TlzzCNrUHz3TG8QAD8bYi0ucxy6rw7vinsQvnmfRZGsRE4FdSLRL+VSlz3tg+vDcjrY39KpnOiPfLbVame4pA8NOnWuVkFx80aSlTTksJKFUFrH48zBdgvv0VyQ/X1NthO4cNgEGFgWxR1qhvnQKSaJr1lTI+75CBdkNJmlYBgUWphkhlYF7d8iXoIlAPelArZuqUqgF7Ly6LKzEBgxX5cpzjttI027Fx7i3qElHT5q5AAIo+1AxKbbzxjql36h18Sv6Rc4LgkA+l8aBATxku1/vlo7Q06X6/JokLv5uftZsemsInE/hPnx64k4ayVubUat3NJOxbJPkCDgEF2obp14PUp1SjdDEBrpLZJuVE4k=;0F1P/ieuZLsb/xK0JettKA=="
 ---

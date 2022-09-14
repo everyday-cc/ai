@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-09-14-kinara-and-nxp-to-provide-scalable-ai-solutions-for-deep-learning-at-the-edge.md",
-      "title": "Kinara and NXP to provide scalable AI solutions for deep learning at the edge",
-      "excerpt": "Kinara, a developer of AI processors for edge computing applications, has announced that it is collaborating with NXP Semiconductors on developing AI solutions for deep learning at the edge.",
+      "path": "_news/2022-09-14-saudi-arabia-leads-regional-ai-through-laboratory-global-development-corridor.md",
+      "title": "Saudi Arabia Leads Regional AI through Laboratory, Global Development Corridor",
+      "excerpt": "Saudi Arabia hosted the second edition of the Global AI Summit under the patronage of Crown Prince Mohammad bin Salman bin Abdulaziz, who also chairs the Board of Directors of the Saudi Authority for Data and Artificial Intelligence (SDAIA).",
       "sourceUrl": null,
-      "webUrl": "https://www.newelectronics.co.uk/content/news/kinara-and-nxp-to-provide-scalable-ai-solutions-for-deep-learning-at-the-edge",
-      "originalUrl": "https://www.newelectronics.co.uk/content/news/kinara-and-nxp-to-provide-scalable-ai-solutions-for-deep-learning-at-the-edge",
+      "webUrl": "https://english.aawsat.com/home/article/3873176/saudi-arabia-leads-regional-ai-through-laboratory-global-development-corridor",
+      "originalUrl": "https://english.aawsat.com/home/article/3873176/saudi-arabia-leads-regional-ai-through-laboratory-global-development-corridor",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 115,
       "tags": null,
       "images": [
         {
-          "url": "https://www.newelectronics.co.uk/media/0xtd53lv/k104-kinara-nxp.jpg?width=1200&height=630&mode=crop",
-          "width": 1200,
-          "height": 630,
+          "url": "https://english.aawsat.com/sites/default/files/styles/large/public/2022/09/14/66610_0.jpeg?itok=tdbNlU3m",
+          "width": 480,
+          "height": 268,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T00:55:00-07:00",
+      "ampWebUrl": "https://english.aawsat.com/home/article/3873176/saudi-arabia-leads-regional-ai-through-laboratory-global-development-corridor?amp",
+      "cdnAmpWebUrl": "https://english-aawsat-com.cdn.ampproject.org/c/s/english.aawsat.com/home/article/3873176/saudi-arabia-leads-regional-ai-through-laboratory-global-development-corridor?amp",
+      "publishedDateTime": "2022-09-14T00:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New Electronics",
-        "domain": "newelectronics.co.uk",
+        "name": "الشرق الأوسط",
+        "domain": "aawsat.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,9 +40,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -558,7 +557,7 @@
       "originalUrl": "https://www.govtech.com/education/higher-ed/university-of-maryland-prof-urges-pause-on-facial-recognition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -865,7 +864,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/prepare-data-at-scale-in-amazon-sagemaker-studio-using-serverless-aws-glue-interactive-sessions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 112,
       "tags": null,
       "images": [
         {
