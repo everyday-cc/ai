@@ -8,9 +8,6 @@ webUrl: "https://www.ibtimes.com/analysis-banned-us-ai-chips-high-demand-chinese
 ampWebUrl: "https://www.ibtimes.com/analysis-banned-us-ai-chips-high-demand-chinese-state-institutes-3609766?amp=1"
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/analysis-banned-us-ai-chips-high-demand-chinese-state-institutes-3609766?amp=1"
 type: article
-quality: 73
-heat: 73
-published: true
 
 provider:
   name: International Business Times
@@ -26,6 +23,6 @@ images:
     height: 800
     isCached: true
 
-secured: "IPiAmoDfcmULpjvMrnN/PI6S3A3FkHCQDSSY6stEzJEzfBd9w0lnNCO/yOBupXboq49pmt/qXwQJ9pKeAzWUW3gHcJXYyesOQDtm+8PUwYq2P7UW03ag9/exAt87s5Qc9l5SCUn1U7S8ngr8D8Dx1xekGNmaM5ML+Hj2p66weQrD7KspieVBdyw2JJfgw7ZgbFFooyEm99+bf1lAPnYz67ajYhWpPLRmosGVAtWhbb3XCk3La5F3/kcs1zGetl5Tnle32HPtcI7ypVuyMVVlR5CHBBNvsBtxvb/xkHH9CUaD1heiiMlyKX/QEPmtOZWWXGS40TJ0Ia1K36WvabUSgBCc5jIAtqvh0pS0qvTWHGg=;uCRUP+BBBW4pUw/NK9ekaw=="
+secured: "kUhdRnQTql3imYEGFvbuGLNW9j/Bp93QcAFVcTLwNnwB4kWBlOrQ3z3NPkC9GDGQV2c/dllnLnjLLCV7p/RVjh1BoGkmMOSRPdhGmfD76MabgB1xymoJwBz36dVo3Bgkf0zUMjLs3wYYHSd2d+dOuQOCSkzqIpzSqB894VcuQbMxa+5idtA6CugDc9L2NUj+XnMhyIJoP2pqfkF+rJ0foMz6qfUM2QTLDBolotZw8MURQ8Aqsfo8SEIqHsaRW9DHMrAmJlY21j9x4Iur9F0d2LnqKP0KeK1lzsrEf0GZatUm5EeTa5//DFEKM2q4bMgA8mmmanMQG8tXyYa9ELrTp8Xp6FigMdH1gh51BSH31dg=;2UawxsFdmpUfq6caiM1lTg=="
 ---
 

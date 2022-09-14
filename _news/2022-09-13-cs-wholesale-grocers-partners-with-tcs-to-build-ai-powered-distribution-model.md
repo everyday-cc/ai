@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Ai-Media partners with Grass Valley"
-    excerpt: "Ai-Media, a player in live captioning, transcription and translation solutions, has announced a partnership with Grass Valley, the production and distribution p"
-    publishedDateTime: 2022-09-09T09:09:00Z
-    webUrl: "https://advanced-television.com/2022/09/09/ai-media-partners-with-grass-valley/"
-    type: article
-    provider:
-      name: Advanced Television
-      domain: advanced-television.com
-    quality: 19
-
 secured: "moxasPsAAm1OnmPPVvvmFBwrU2vDJNO8du+PdxeqpGA9YY/ti5fBW0GExrnf2NoEsR1G4euwisMYbRufOskgJ3sK3Du4Y7D409ZaEwEFpG2TjEqad6ADAvXO4ALglCuy0Nlxi+bnHnig32yxcb/5OJrkUUU9MB5Bp+ua+H/IHXnPLZPhZPrSNvFUJVOvn4kFo8/eB5UlfSO3SkwkYigi/fsevJY1HAbGS6i4VreAdpQPDHhgTA2EK7qIF1ukOX85332HQ/AC1K+TZU7m4ujHSr3UffnsS0M2yGt1XGlrzfSP9e4HQEywuOESviWGCIzwFMTKPMOx8cpgNpVBQ6nH0rPzAGgFR7mjcw0C5D6vHsUYH7z8b+CsRXtAQJPKgI4IKzg5BKATgCB0LTF3NDEKSJIFw6ZaFinxz3E5aEDRSKIG1B58184rwNogiI1eXTJkwHfQ7+n4dZ+Sc1j5q+sQcAzwLp13i/jz4Kcy0GSV0a3Cmg4ctylYl743L+DApJXjRt8LCtj9hlJvwyHSVJuVPQ==;pUd1CirDKy1a6PEI3sdDnA=="
 ---
 

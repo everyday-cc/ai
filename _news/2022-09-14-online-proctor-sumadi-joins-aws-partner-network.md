@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Online Proctor Sumadi Joins AWS Partner Network"
-excerpt: "Sumadi's status as an AWS Partner strengthens the business' ability to deploy large-scale, simultaneous proctoring of online tests and assessments for clients around the world, including universities,"
-publishedDateTime: 2022-09-13T20:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/online-proctor-sumadi-joins-aws-partner-network-1031741167"
-webUrl: "https://markets.businessinsider.com/news/stocks/online-proctor-sumadi-joins-aws-partner-network-1031741167"
+excerpt: "Sumadi’s status as an AWS Partner strengthens the business’ ability to deploy large-scale, simultaneous proctoring of online tests and assessments for clients around the world, including universities,"
+publishedDateTime: 2022-09-13T20:16:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/4bd9f0ea4a14e9b8784948706e74fa52"
+webUrl: "https://apnews.com/press-release/pr-newswire/4bd9f0ea4a14e9b8784948706e74fa52"
 type: article
-quality: 49
-heat: 49
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "D0L218WDmwslZSdmzfxKx4NJyC88M1MyNdvUk8btioT3aDmFgYfh/Nf3yIfO9p6CqzHGLOiHg1O1Qsg9NEV7rRa6r76APPha2BDbybMkjlIk9d5159vHAf+F8FtBfitFUGYBFcE1XBaf1v8CXiYIegQDDQwN/XjVdufiVYiZznxUDZXflCeRDE1GntewFJOS+TNLseKqdasIZL9ZYtLVcbSvc3n32oPQIes3zRsJLyD7cFOvsEMrr5lQc4cDz1ulmXUTgvdg0pDQa27jDdkGKyVBCdxMNpR/P7kOyt7xwdaku7is83f8xzTBJayj6+zrmj3uJRkMAsQsBOdmC6XbHDZG5/Of/AaFf3Nt9jVVTQQ=;JdFrvbPBN3aw1Hz2LI1HyA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "km+5Xn5yj4n/ZxI4Kf59Zr2qfBvGG2Rg6HY8kwTgKKufHywHSN+einMdbCAMXCWzUTkV+7LrPKT8SDRM1t2JZ1xy7woW0+HalgiImtzuOds6nhqtBV91tZ3EAZYi2T3rnBEs497UPPcCmrb5obbYj0PugXpBZ7/hoU6txVSjSq5ym9PKkFJO4GEspKXkeZq0GznNNdORLqH4kCBwM0FddWnrwt7TO6PWHlnpxK+7MrvKcpnsyZuXpw4owSd1GicwlE8tZ5mVb+EVCFSIVy2oCoBZGPtuVM5u49Z0O+zGeTM2XgBIUBiQ10ut7GaK6A7MslzeTngDmqZn9Enc7x8KGt9Rkm92810pELFAR85vZQY=;ihQdjocDYSIlT+pTgjwjwg=="
 ---
 

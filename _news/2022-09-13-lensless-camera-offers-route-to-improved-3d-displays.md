@@ -7,7 +7,7 @@ originalUrl: "https://optics.org/news/13/9/17"
 webUrl: "https://optics.org/news/13/9/17"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 380
     height: 253
     isCached: true
-
-related:
-  - title: "Lensless camera could help robots see in 3D"
-    excerpt: "Robots could see with 3D vision with a lensless camera developed at the University of California, Davis that uses new image processing algorithms to capture information about objects in a scene with a single exposure."
-    publishedDateTime: 2022-09-09T09:52:00Z
-    webUrl: "https://www.theengineer.co.uk/content/news/lensless-camera-could-help-robots-see-in-3d"
-    type: article
-    provider:
-      name: The Engineer
-      domain: theengineer.co.uk
-    quality: 24
-    images:
-      - url: "https://www.theengineer.co.uk/media/2n5pjpwz/opex_lensless_camera_webcard-png-2.png?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "4gZP1N/th39Ed/dhrHfXhQAWIneifXETd//rj8hyw82l4m5Fte9e9+/nnMgFYJBh0O3g2ZWK7w89tq1c7wF9E3CpGkcgNQtdZGWCY3VM2J0Rl1mnEX3euErsz0OK+IC7Y0SWE/dP+BHgM8NTyT9GZbHjBhCkofjZBlt7FH1NnKPNFQ+LPHUKzzC1RbYlCl+l/Du3qzQ5xdFr/9WHBAmnvslckP3UrSPHFB3s/k64wNzUdskgk+hn2DEH3EYCF49sPM4KB8jdKLx+T48gkhs0q5dizrBhYzxEAazRDnFWjw6okfPEzedNQ6IDQu4BErtTMSk7VJZ2inMzAiWvri4eCQCy16tblUK0tq4yWEh63+E=;c4qLo0wpX96zDBR/W/N7lw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/09/why-iot-is
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/09/why-iot-is-the-next-frontier-for-ai-and-prescriptive-analytics/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "American Airlines takes flight with analytics transformation"
-    excerpt: "The world’s largest airlines has turned to the cloud, leveraging AI, machine learning, and real-time analytics to minimize disruptions, streamline operations, and improve the travel experience."
-    publishedDateTime: 2022-09-09T10:00:00Z
-    webUrl: "https://www.cio.com/article/406357/american-airlines-takes-flight-with-analytics-transformation.html"
-    ampWebUrl: "https://www.cio.com/article/406357/american-airlines-takes-flight-with-analytics-transformation.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/406357/american-airlines-takes-flight-with-analytics-transformation.html/amp/"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 59
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/09/maya-leibman-full-res-new.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "jKRloAZItc3AV4HxwJiE+vx9onrtyJECw6bwYkuoC9Oy7jzFK+1tWFHz6FkJ5y8DvfdQTGSTNfjehtb5tFRyTTcPnWfeWPqFtfeLukX7T7sr9wF9g02uxJ74jJnVsL7vaZlOuwYfes9vPCMUwc3YfvB4sf3NDIDqj+8H0XX4atpwYysxvy6JDs4Z4LIpMWtheeX1Y7sBQIcymri9uatuKvA7QqFUkgF4I8beZverhNL17wVzfqQKKroF9gwx1wXOZwLXdOvzYCPLDaSNlDsmou4uKOCqXWG33UiRvFYyF/qnuTRjLo7RjG0W9CTjXfCWYKHDv96NKcqHgYa89jLPF1t01wTP+P2xokIcblpzsrkXgDGrUp5ZayU/8NteHLPirKLCAz1K6iVEWwjEDQYDxAYLyTCj1d4JP+9KuSePrObufsHeKrI2MqKH2Ykinhxm0pxPiBokIVUaHzI2TQqVqiaa9Z6/qqnqFk7btzcT60krxcCEFo6y8fW4sCoEPY4GltJNIBgMVQ/2DpO4gP+aqw==;GNV5TfIi4r1v4i2cmxr2jg=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2022/09/13/loab-ai-generated-horror/"
 ampWebUrl: "https://techcrunch.com/2022/09/13/loab-ai-generated-horror/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/13/loab-ai-generated-horror/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2022/09/loab-header.jpg?resize=1200,625"
@@ -45,6 +46,6 @@ related:
         height: 576
         isCached: true
 
-secured: "8m0mCtsO2ufedB0xshfTt0lbBKg+o5unzp8IfeX3PsOYOGmLkAPGrs4SDJ0Y4l/yEvnApGMm3aBOviZEfRSoM3M42bO+Is+ExVlGANaJ5CX1OifJpNlr7q8IlR/7YvxUQ486Ly0Z99UP5M+iAidscn+Z0kQhkxF3hyp6Ac7FNG7Lh2QQBI0GuH89WfMx85IGJPDA4CE//QeFw8CL0qcdhQsYM2vjnDp14kSqe2qutix727wz5a4iJjMTKptkTM2iI0MxiCaWJMNunwf7hLeY+dk4cXRa4qfXYsJDAYWsRH2SxQ8Bkpyh2lqHn2Bq4/L8K8cxpVY15HEpZdk3o1MIPd55UO/sedSnvTeS38NBYrY=;ctmeOnN/0UJumlnD6jop0Q=="
+secured: "duWFZwoC/QVk9lchnBYhfCYiLI8My3uj7DbcwbxKSnaq9VdA832JjLbvJu/OUXlN647RPlVpuUTSvOsVLQuJ11IN03ODznqHzzsnbQucrqxPr5ntH0AhLkMZMXwvcl4N7lOKH304xHmEK3sPXHiJHLqlznk/R7BLE71l0DO9PO2y+CdhWR3ZOY1c243eq+K1JYsTWIBxPvEP2IGYC59CniHjlQaZDp4Hh9D2C3tFNnbBkO7bEhBVCQd5UuLUbwAm7aKB/7LJ+hq7tGFIANSY8B05jNvWkMLmwq51cto5NszdK+9CtbkOhSLbKTtAwVZg7twOd2illiYRsScdh6gxIlMdTQojra8txSMUzGxEQ5bH0zTxmrZdw1ASvU1kVN4dehICYqjTRtzv024o8O3tKpmGDij4LdKE7xz8OunEIAMFfkmNXzLs4220f0n/ZePv/gukSZkDI6Lqlhvo5LF4IhKd0oO1B2y2GNANJOT0kctmBZM7Ixc/baPvLRnQee+TiHI2WTvwIyVU7KfQKQgQKw==;pXIeSrbBFeUdOZ/PhAlvyQ=="
 ---
 

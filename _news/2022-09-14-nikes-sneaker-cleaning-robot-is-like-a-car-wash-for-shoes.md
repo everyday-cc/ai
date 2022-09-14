@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/nikes-sneaker-cleaning-robot-is
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nikes-sneaker-cleaning-robot-is-like-a-car-wash-for-shoes/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 720
     isCached: true
 
-secured: "t9nz/5fsXbQSZsag6DaK2Oh00R72uglBcM7NlOCurZ/VmvR+ochKYxipnhjz1xPhRLJd4Em7sioaG0gRKh2C8tyoBAsWR9cPH+KzZArMKHVBhuBDUxc/OKkyqBCFMiDWVdK6/LfegJrEtG21UFiLkZ28yS2MeAjr7kqRbLegdUy4RdqS9aIPozJYyhvaZNvv7Z2h+GprmHUw7XaLWBAdPTuQ+nVBpmOmDMu20sGyTluz++OTDa6OKZbsi0cFH1RBUVy598hIi+O/+vwoRSwpIBGH7eIHo1z1Xeu8Ik5Nd4NOH6gR3e1gXmO0lZ8rsmYHEz0mHo60+DPwXyjumC9vZF2/av2SJGjfsG84ezO4SZU=;DhPON/2BnHwxhs/XL0lUCw=="
+secured: "Lq+SzOSci6HOI++DTxxkjo9Y2l3J/T3jOYGp7qI7K/kMC0IGgHPCOLFlbm5dmP5ajN6STn4+fgwzi29Buc8U1R2zR3Jv84SJcqtTwru8eANwyFNulapXiujHH7n1M5h5cr9Hw1+2ZZ8F/+VFmp6pg/MqLNl0oFrC21O5Dm/0rFCiDGmNIKui2eJjGI8pHh2VhbbLtMaVX2nIx6U0LRaQUR/uvGYqeGa4+H8aV0/6opOt8ysz2PRfrFF4HD3lGG9HbOd0VH9iYN1LnkeqmAI92pdjb5TtxcxNqsiW0zzaQg34ul9UC7HR3Zdh/WT8mJB5qLuykkFssFtAxAlXhK8oQrHLamD1cqw+48qsV2lYIkyjPhIg0PgJpRQOGiUQc+bX4uxGyEWS0Q8I7GrUEDQer4ZIFzKobRlUC+CUZIDbs70XxjVgHK1tlTFuYlqlNe9cKq/eTaJhd2eMC0aa0SwUM1ihigi4Cz1kTALZJJGPKRhRgl7VgXNyXnl5GHbBW+WJEgokJrYFwfscaO8PaxOIfg==;CSe4q7H+h0xu8mE2Nf9gug=="
 ---
 
