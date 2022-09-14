@@ -95,6 +95,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 4
+  - title: "Automotive Voice Recognition Market To Reach US$ 2,413.9 Mn By 2031 From US$ 936.4 Mn In 2022, At A CAGR Of 13.2% During The Forecast Period"
+    excerpt: "The Automotive Voice Recognition Market to reach US$ 2,413.9 Mn by 2031 from US$ 936.4 Mn in 2022, at a CAGR of 13.2% during the forecast period. Kenneth Research recently added a report on Automotive Voice Recognition Market which provides a detailed insight into the market scenario on the basis of the market size,"
+    publishedDateTime: 2022-09-14T06:48:00Z
+    webUrl: "https://menafn.com/1104861293/Automotive-Voice-Recognition-Market-To-Reach-US-24139-Mn-By-2031-From-US-9364-Mn-In-2022-At-A-CAGR-Of-132-During-The-Forecast-Period"
+    type: article
+    provider:
+      name: MENAFN
+      domain: menafn.com
+    quality: 0
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?706507"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "tINGsZB9+vPK2WQ0idJ/9OxmZgKobaposTigPoJf71QRLoHHb1chZU51Detly78qj4PxWAdP029aumJFVzV5dYLKyOD1ciUNuu92x3Welmkk3rKXSrf+IQQ0L+RBD59DNHhthiwjss5RKfgYInUe+tdCRxOtY2s4VRpZyvqUpNhJU3DvLOeEwJdMj1IB+Kcaaj5CiZaErpxFe+n1bLpyCimKJdj/E6az2T24PZuCWDY0UGeJumaP78cIrLcyk3p6kc+YLIhHHppmLvJ5g19keqQSb2FHVDh4SeBThR8M11tNtG9PV7t4kmOKuSueDLPr0rE7DLPcWWE08dpqpJyju72sc8ZHLK7VPEKkRQyPjpc=;NYqwHNO4mFXoTeBfsWqdPw=="
 ---

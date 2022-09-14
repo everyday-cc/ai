@@ -7,8 +7,8 @@ originalUrl: "https://www.spa.gov.sa/viewfullstory.php?lang=en&newsid=2383743"
 webUrl: "https://www.spa.gov.sa/viewfullstory.php?lang=en&newsid=2383743"
 type: article
 quality: 51
-heat: 91
-published: true
+heat: -1
+published: false
 
 provider:
   name: spa.gov.sa
@@ -25,52 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Saudi Aramco AI Corridor to develop global solutions"
-    excerpt: "The summit will see the launch of the AI Corridor Center of Excellence which will develop AI solutions to address global challenges"
-    publishedDateTime: 2022-09-13T08:22:00Z
-    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/saudi-aramco-ai-corridor-to-develop-global-solutions-h20dl8hl"
+  - title: "Kinara and NXP to provide scalable AI solutions for deep learning at the edge"
+    excerpt: "Kinara, a developer of AI processors for edge computing applications, has announced that it is collaborating with NXP Semiconductors on developing AI solutions for deep learning at the edge."
+    publishedDateTime: 2022-09-14T07:55:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/kinara-and-nxp-to-provide-scalable-ai-solutions-for-deep-learning-at-the-edge"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 53
     images:
-      - url: "https://static.zawya.com/version/c:NzEwMmNmOGItODNmYy00:OWM3MjVm/180620130010tfea-jpg.jpg?f=3%3A2"
-        width: 724
-        height: 482
+      - url: "https://www.newelectronics.co.uk/media/0xtd53lv/k104-kinara-nxp.jpg?width=1200&height=630&mode=crop"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "SDAIA: The Kingdom of Saudi Arabia announces program for 2nd Global AI Summit"
-    excerpt: "Additionally, speakers will discuss AI ethics and policies that help prevent the exploitation of AI. As it hosts the summit, SDAIA will highlight AI advances and achievements within the Kingdom and sh"
-    publishedDateTime: 2022-09-12T06:24:00Z
-    webUrl: "https://www.zawya.com/en/press-release/events-and-conferences/sdaia-the-kingdom-of-saudi-arabia-announces-program-for-2nd-global-ai-summit-fh85hhzz"
+  - title: "Kinara and NXP Collaborate to Provide Customers with Scalable AI Solutions Optimized for Deep Learning at the Edge"
+    excerpt: "Kinara's patented Edge AI processor, named Ara-1, delivers a ground-breaking combination of performance, power, and price for integrated cameras and edge servers. Kinara AI complements it processing technology with a comprehensive and robust set of development tools that allow its customers to easily convert their neural network models into highly optimized computation flows ready to be deployed on the Ara-1 chip."
+    publishedDateTime: 2022-09-13T20:33:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/09/13/9672031.htm"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 36
-    images:
-      - url: "https://static.zawya.com/version/c:OTlkYTFjMTgtNWEzYy00:MGE5NzZi/photocustom_gbl-physsec_control_desk_access-control-synergis-jpg.jpg?f=1%3A1&q=1&w=3840"
-        width: 600
-        height: 600
-        isCached: true
-  - title: "SDAIA: The Kingdom of Saudi Arabia Announces Program for 2nd Global AI Summit"
-    excerpt: "The Saudi Data & AI Authority (SDAIA) has announced its official schedule and speaker roster for the 2nd Global AI Summit, set to take place on September"
-    publishedDateTime: 2022-09-09T19:00:00Z
-    webUrl: "https://www.asiaone.com/business/sdaia-kingdom-saudi-arabia-announces-program-2nd-global-ai-summit"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 16
-  - title: "SDAIA: The Kingdom of Saudi Arabia Announces Program for 2nd Global AI Summit"
-    excerpt: "The Saudi Data & AI Authority (SDAIA) has announced its official schedule and speaker roster for the 2nd Global AI Summit, set to take place on September 13 - 15, 2022, in Riyadh, Saudi Arabia. The theme of the summit is \"AI for the Good of Humanity\","
-    publishedDateTime: 2022-09-14T01:10:00Z
-    webUrl: "https://www.newswit.com/en/LnS9"
-    type: article
-    provider:
-      name: academy
-      domain: newswit.com
-    quality: 16
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
 
 secured: "8ZOaSfhpyF01fLGKiNkMcikC2q76LJk8iIw9drOJcfeOzF1nAtN1/hVHLU4ubXpQ7faEhVKlbtTzejCc5JTLi5im1FjeIzKkKU+jg1LdGP553Ikw5OWNsl/hA+bTSHb1dhCyF4MMjxCSWl/y4uZ6byrYDSvjsrdqLu5723JqyGjCpOWVqcqrFYKqOXSADBxk/5ymEs/PhHypE4KOD86TpZDwBNsPvZ6RBnRusK+apy1TBAySkrjgS4/1aaUj9Yn2HDipN4Z//1OWz4V2WW48bEi6cvunC+sQp3+yqobZAo+pwjK8agvnkCA8YS5cI5b0dFu+pdb3Hp5zKWzjLDixK7WE2WOyLWbdcuHtk0UIG38=;+VUYmyT4ilUf6ijXd9yaQA=="
 ---

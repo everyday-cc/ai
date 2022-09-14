@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "How WhiteLab Genomics is using AI to aid gene and cell therapy development"
+    excerpt: "WhiteLab Genomics provides gene and cell therapy companies with predictive software simulations to expedite the design of gene and cell therapies."
+    publishedDateTime: 2022-09-13T20:56:00Z
+    webUrl: "https://techcrunch.com/2022/09/12/how-whitelab-genomics-is-using-ai-to-aid-gene-and-cell-therapy-development/"
+    ampWebUrl: "https://techcrunch.com/2022/09/12/how-whitelab-genomics-is-using-ai-to-aid-gene-and-cell-therapy-development/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/12/how-whitelab-genomics-is-using-ai-to-aid-gene-and-cell-therapy-development/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 102
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1311467129-e1663013508266.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Debiopharm Co-leads a 10M USD Series A Round to Accelerate the Development of Genomic Medicines through Artificial Intelligence"
     excerpt: "Debiopharm Innovation Fund strategically invests in Whitelab Genomics' mission to make genomic medicine development faster and leaner for more"
     publishedDateTime: 2022-09-13T15:43:00Z

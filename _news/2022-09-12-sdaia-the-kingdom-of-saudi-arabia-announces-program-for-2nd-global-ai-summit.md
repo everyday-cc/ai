@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "SCAI and Lean to Develop Innovative AI Solutions for Saudi Healthcare Sector"
-    excerpt: "Wall Street Closing; SCAI and Lean to Develop Innovative AI Solutions for Saudi Healthcare Sector; EDM Council and National Data Management Office Cooperate to Enhance Data Manage"
-    publishedDateTime: 2022-09-13T21:40:00Z
-    webUrl: "https://www.spa.gov.sa/viewfullstory.php?lang=en&newsid=2383743"
-    type: article
-    provider:
-      name: spa.gov.sa
-      domain: spa.gov.sa
-    quality: 51
-    images:
-      - url: "https://clcdn.spa.gov.sa/galupload/thumb/no-image-logo.png"
-        width: 805
-        height: 612
-        isCached: true
   - title: "Saudi Aramco AI Corridor to develop global solutions"
     excerpt: "The summit will see the launch of the AI Corridor Center of Excellence which will develop AI solutions to address global challenges"
     publishedDateTime: 2022-09-13T08:22:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.zawya.com/en/business/technology-and-telecom/saudi-ara
 webUrl: "https://www.zawya.com/en/business/technology-and-telecom/saudi-aramco-ai-corridor-to-develop-global-solutions-h20dl8hl"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "SCAI and Lean to Develop Innovative AI Solutions for Saudi Healthcare Sector"
-    excerpt: "Wall Street Closing; SCAI and Lean to Develop Innovative AI Solutions for Saudi Healthcare Sector; EDM Council and National Data Management Office Cooperate to Enhance Data Manage"
-    publishedDateTime: 2022-09-13T21:40:00Z
-    webUrl: "https://www.spa.gov.sa/viewfullstory.php?lang=en&newsid=2383743"
-    type: article
-    provider:
-      name: spa.gov.sa
-      domain: spa.gov.sa
-    quality: 51
-    images:
-      - url: "https://clcdn.spa.gov.sa/galupload/thumb/no-image-logo.png"
-        width: 805
-        height: 612
-        isCached: true
   - title: "SDAIA: The Kingdom of Saudi Arabia announces program for 2nd Global AI Summit"
     excerpt: "Additionally, speakers will discuss AI ethics and policies that help prevent the exploitation of AI. As it hosts the summit, SDAIA will highlight AI advances and achievements within the Kingdom and sh"
     publishedDateTime: 2022-09-12T06:24:00Z

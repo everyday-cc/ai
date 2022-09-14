@@ -7,7 +7,7 @@ originalUrl: "https://timesofindia.indiatimes.com/readersblog/datavision2022/the
 webUrl: "https://timesofindia.indiatimes.com/readersblog/datavision2022/the-ai-and-distance-to-achieve-it-at-what-cost-44857/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -32,7 +32,7 @@ related:
     provider:
       name: The Conversation
       domain: theconversation.com
-    quality: 36
+    quality: 38
     images:
       - url: "https://images.theconversation.com/files/483923/original/file-20220912-26-8603of.jpg?ixlib=rb-1.1.0&rect=6%2C137%2C2038%2C1017&q=45&auto=format&w=1356&h=668&fit=crop"
         width: 1356

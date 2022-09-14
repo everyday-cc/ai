@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-13T01:53:00Z
 originalUrl: "https://theconversation.com/ai-art-is-everywhere-right-now-even-experts-dont-know-what-it-will-mean-189800"
 webUrl: "https://theconversation.com/ai-art-is-everywhere-right-now-even-experts-dont-know-what-it-will-mean-189800"
 type: article
-quality: 36
-heat: -1
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://images.theconversation.com/files/483923/original/file-20220912-26-8603of.jpg?ixlib=rb-1.1.0&rect=6%2C137%2C2038%2C1017&q=45&auto=format&w=1356&h=668&fit=crop"

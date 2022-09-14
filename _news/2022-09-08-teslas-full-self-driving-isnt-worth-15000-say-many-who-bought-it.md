@@ -1,20 +1,28 @@
 ---
 category: news
 title: "Tesla’s ‘full self-driving’ isn’t worth $15,000, say many who bought it"
-excerpt: "Some Tesla owners who paid far less for an earlier version of the “full self-driving” software that now retails for $15,000 caution that the new price does not make sense for most"
-publishedDateTime: 2022-09-07T21:04:00Z
-originalUrl: "https://www.ocregister.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/"
-webUrl: "https://www.ocregister.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/"
+excerpt: "Tesla’s price for the feature it calls “full self-driving” has increased again. This time to $15,000, making it an unusually expensive option for a car. “After wide release of FSD Beta 10. ..."
+publishedDateTime: 2022-09-08T06:55:00Z
+originalUrl: "https://www.pe.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/"
+webUrl: "https://www.pe.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/"
+ampWebUrl: "https://www.pe.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/amp/"
+cdnAmpWebUrl: "https://www-pe-com.cdn.ampproject.org/c/s/www.pe.com/2022/09/07/teslas-full-self-driving-isnt-worth-15000-say-many-who-bought-it/amp/"
 type: article
 
 provider:
-  name: Orange County Register
-  domain: ocregister.com
+  name: The Press-Enterprise
+  domain: pe.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "Z1c+x/tZYAiTcBO2RMBIq9FY+m/Aitjo9/IlesntPgSJgAVsWLZtnUayPZMbT2Dsa9G8BP7QrOKrexBm9EsHq7LNNHzi7rWsVrnGlC8cNJxCOjhDizDQ+PfHNpk8IfkXwKNlsPjCDLn0fdOpBqwXUleZ5jHdIyOC1t1qLf0qi6Z/xHc5Uz48t9o/bvvQKb6XCvOdq5u9CNuy2qTF6tR3xzNiNCQoonKj7nBS7xVO5pO0RJp3P7/0pqhpuFkWqCTCqfs2SMcVElWowgcCyJ6gWPG/3Z4M7sFoudmGtAgFIyb4wTsXgDr0IZzv5NDAZ2eBq0aWGZ2iQBfaVsX17a8hxjzT2ClLEBc4tgffiJJ2ZA6A1OtPhBlX+TCCIt7izVOzlG2SC1AIpauazn858YJAGHV7m4s6uwRePys56+NYM8YB2Ax/zi9pZKMik+tIY6y/diVTc/zURvsPafqx0oPIp29/qVbvZp/VvrZ4hZXvURWFN+k7drCPzpDun5BzinqvuGPBLit1nM3NiNUAzm6PuA==;y0fzuqXIeRIXKw6p/RiJgA=="
+images:
+  - url: "https://www.pe.com/wp-content/uploads/2022/09/hypatia-h_f83a5bee143b3b89282e5807cb1c97e9-h_c8f834e95ae4db3b0c1cf5aa23866cd0.jpg?w=1024&h=1024"
+    width: 1024
+    height: 1024
+    isCached: true
+
+secured: "Q2hQeAN9bjI1GmvlxfmXQB4TUjD9xgR21kVbOeBJgW5Y6XT318NH22C+wI+SYfNyXfuFeqlyz76iouH6m6TX2G7xkhk33phxxlcGqyVWPQJOZINZxyKWHpBmEMZl67FLBvXJfnea0Nt/5B+lgQl39OvWrSgU/VqWjDSYnyPgDv2kXmshvHg9r5RTjC0d/ZGkdYCVZ1W09wO+whM+7PZ+OPe27NeCLU9tdJrz0UmGKqrCCpycXycLEVlaBcdC8pdFQKHszcq5r43zrsBQlZnSE/MmhYXuALdo0DrV+/bNs2z/CBQt2HVf5RYndtGb52iO2MZt3G9Ogh4RdlspflXyhhcZslLbWf0pv/IX6wBsBCQ=;TRdNs6mkNE5mdqLyuh5h2A=="
 ---
 

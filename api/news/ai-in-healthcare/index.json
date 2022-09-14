@@ -55,21 +55,21 @@
       ]
     },
     {
-      "path": "_news/2022-09-14-scai-and-lean-to-develop-innovative-ai-solutions-for-saudi-healthcare-sector.md",
-      "title": "SCAI and Lean to Develop Innovative AI Solutions for Saudi Healthcare Sector",
-      "excerpt": "Wall Street Closing; SCAI and Lean to Develop Innovative AI Solutions for Saudi Healthcare Sector; EDM Council and National Data Management Office Cooperate to Enhance Data Manage",
+      "path": "_news/2022-09-14-how-whitelab-genomics-is-using-ai-to-aid-gene-and-cell-therapy-development.md",
+      "title": "How WhiteLab Genomics is using AI to aid gene and cell therapy development",
+      "excerpt": "WhiteLab Genomics provides gene and cell therapy companies with predictive software simulations to expedite the design of gene and cell therapies.",
       "sourceUrl": null,
-      "webUrl": "https://www.spa.gov.sa/viewfullstory.php?lang=en&newsid=2383743",
-      "originalUrl": "https://www.spa.gov.sa/viewfullstory.php?lang=en&newsid=2383743",
+      "webUrl": "https://techcrunch.com/2022/09/12/how-whitelab-genomics-is-using-ai-to-aid-gene-and-cell-therapy-development/",
+      "originalUrl": "https://techcrunch.com/2022/09/12/how-whitelab-genomics-is-using-ai-to-aid-gene-and-cell-therapy-development/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 122,
       "tags": null,
       "images": [
         {
-          "url": "https://clcdn.spa.gov.sa/galupload/thumb/no-image-logo.png",
-          "width": 805,
-          "height": 612,
+          "url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1311467129-e1663013508266.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -77,14 +77,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T14:40:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2022/09/12/how-whitelab-genomics-is-using-ai-to-aid-gene-and-cell-therapy-development/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/12/how-whitelab-genomics-is-using-ai-to-aid-gene-and-cell-therapy-development/amp/",
+      "publishedDateTime": "2022-09-13T13:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "spa.gov.sa",
-        "domain": "spa.gov.sa",
-        "images": null,
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -93,8 +102,8 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
