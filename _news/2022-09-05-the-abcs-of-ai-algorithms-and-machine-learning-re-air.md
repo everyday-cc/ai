@@ -5,6 +5,8 @@ excerpt: "The next step up is machine learning, which uses algorithms. “Rather
 publishedDateTime: 2022-09-05T11:36:00Z
 originalUrl: "https://www.marketplace.org/shows/marketplace-tech/the-abcs-of-ai-algorithms-and-machine-learning-re-air/"
 webUrl: "https://www.marketplace.org/shows/marketplace-tech/the-abcs-of-ai-algorithms-and-machine-learning-re-air/"
+ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/the-abcs-of-ai-algorithms-and-machine-learning-re-air/amp/"
+cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/the-abcs-of-ai-algorithms-and-machine-learning-re-air/amp/"
 type: article
 quality: 34
 heat: -1
@@ -17,6 +19,13 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
+
+images:
+  - url: "https://www.marketplace.org/wp-content/uploads/2022/07/GettyImages-1234330296-e1658267060988.jpg?fit=740%2C494"
+    width: 740
+    height: 444
+    isCached: true
 
 related:
   - title: "Artificial Intelligence And The Future Of Marketing"
@@ -149,6 +158,6 @@ related:
         height: 315
         isCached: true
 
-secured: "NJGl05RDklOLoKZ6oRXVZX5MsMVHyNLFo1Vuom5f+Hmjdl9KQGcUc6nSfUmE5okFsDrOwClvijHYOap423Z7dkHqs6G86T3OVIXQh/23Cxca7vYKYi8utx8eB53UEW1cmmpKbwmbRfykjfBR2bBLxR4drt7/uzTrR7pAtXHpP48xqN57qhY8jOMOmvdsmYHc0Q3FC2u6TGxAp2mzdUDY3MuDxvRaPh70wcV4ZeWwptmr5rOxBLj8D5mTrfpWGAKNr/F0BpRmjqe8xH9xnrZs6cBNfebg9FonFivil9E3ZXrdGB1ybFTxYMf5+Jfn06tm4JbL7/fQfgl3cC7H7JF/2+C30bCmyZEGP4icYw2BoLAaLTPwPrTegspp5iQB2gACzvyN5td08+LtW5VFvsoq6nHq0JU5CJBX01EGWvZncTNqJajBQ70gU0yR/xokW4m++T0+u4vgfJjZxve3MKQRW4ewoSaqjwl0xc7y+6deu1sV3eLlL6NpzIb9dwGYJteNk0wmRbpQoF60d444nK8MCg==;kLUhBUHhnE2InJ/4izP9lw=="
+secured: "maGv5vVhRQUCxIX1ci9iEIzBqQ6KIiUCLaHQOOWazVGkYKkKsLIwnZFyRD5WhaQuc3VM8VIm6eQlKcENTy4Rz7bPTFeuxoJJF3c4fgK1dPQw5ljbRg1KCkkVm4MwgCNItsGIurv/CZcRZ3OhrmeP1DTbsPhAFT30SAmglEP8bMqJ7Oh66T0kX6O0SU2qW2ANAnVn9XVGGAQkCk2oJ3y/0jmo1TJNibqh3QaXMHC8FaLZBToN25xdFg61M/1ICVuQrTGUoVLgHEa6dGOv8rLum/vNlNrU/a+tqLPvYIW4as1f3eG5Bu51g3dSIE6qP31jlvvkzCpqzq/EPLtee5se7LyxuE/SOA82G09VPLO6+tE=;gtdWiGOURcFgSQZ7Zo+0Dg=="
 ---
 

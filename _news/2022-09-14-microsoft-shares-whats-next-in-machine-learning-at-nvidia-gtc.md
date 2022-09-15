@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/microsoft-shares-whats-next-in-ma
 webUrl: "https://azure.microsoft.com/blog/microsoft-shares-whats-next-in-machine-learning-at-nvidia-gtc/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft unleashes Azure Orbital Ground Station"
+    excerpt: "New as a service offering will leverage Microsoft’s partner network, including KSAT, to help satellite operators operate at a lower cost and latency"
+    publishedDateTime: 2022-09-15T10:36:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/369080/microsoft-unleashes-azure-orbital-ground-station"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 84
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1630055536/itpro/Microsoft_azure_shutterstock.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Microsoft continues expanding Azure Space"
     excerpt: "Microsoft is continuing to expand its role in the space sector on multiple fronts with a strategy built around partnerships."
     publishedDateTime: 2022-09-14T15:13:00Z

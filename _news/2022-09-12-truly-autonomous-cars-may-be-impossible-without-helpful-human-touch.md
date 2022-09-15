@@ -68,6 +68,20 @@ related:
         width: 1280
         height: 789
         isCached: true
+  - title: "Self driving cars are impossible for now"
+    excerpt: "Ignore what Musk tells you  Despite claims from Apple, Elon Musk and some car makers, fully self driving cars are going to be impossible becuase robots will need humans for a long time. While Autonomous vehicle (AV) startups have raised tens of billions of dollars based on promises to develop"
+    publishedDateTime: 2022-09-15T10:14:00Z
+    webUrl: "https://www.fudzilla.com/news/automotive/55491-self-driving-cars-are-impossible-for-now"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/70e350639d25a73f70a25c3e9f4e6226_L.jpg"
+        width: 620
+        height: 463
+        isCached: true
   - title: "Truly autonomous cars may be impossible without helpful human touch"
     excerpt: "The central premise of autonomous vehicles - that computers and artificial intelligence will dramatically reduce ... \"It's truly millions of outputs.\" Driverless delivery In its track tests for cars, AB Dynamics employs a robot arm that it plans to ..."
     publishedDateTime: 2022-09-13T09:44:00Z

@@ -39,6 +39,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Microsoft unleashes Azure Orbital Ground Station"
+    excerpt: "New as a service offering will leverage Microsoft’s partner network, including KSAT, to help satellite operators operate at a lower cost and latency"
+    publishedDateTime: 2022-09-15T10:36:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/369080/microsoft-unleashes-azure-orbital-ground-station"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 84
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1630055536/itpro/Microsoft_azure_shutterstock.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Microsoft increases the options for satellite connectivity with Azure Space"
     excerpt: "Microsoft has been working on expanding Azure’s presence in the space and satellite connection cloud industry for the past two years through its Azure Space effort. Microsoft executives will discuss the company’s plans to grow its satellite connection offerings on."
     publishedDateTime: 2022-09-14T12:55:00Z

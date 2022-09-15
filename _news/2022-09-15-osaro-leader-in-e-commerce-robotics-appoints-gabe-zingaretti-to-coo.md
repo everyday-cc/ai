@@ -1,13 +1,15 @@
 ---
 category: news
 title: "OSARO, Leader in E-commerce Robotics, Appoints Gabe Zingaretti to COO"
-excerpt: "Zingaretti brings experience in the medical and foodservice robotics sectors to scale up OSARO's business processes and deployment SAN FRANCISCO (PRWEB) September 14, 2022 OSARO™, a global leader in A"
-publishedDateTime: 2022-09-14T18:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/09/p28870577/osaro-leader-in-e-commerce-robotics-appoints-gabe-zingaretti-to-coo"
-webUrl: "https://www.benzinga.com/pressreleases/22/09/p28870577/osaro-leader-in-e-commerce-robotics-appoints-gabe-zingaretti-to-coo"
+excerpt: "14, 2022 /PRNewswire-PRWeb/ -- OSARO™, a global leader in AI-driven robotics for e-commerce ... \"Gabe brings 15 years in robotics and over 20 years in startup companies, including time as the COO of Restoration Robotics and senior vice president ..."
+publishedDateTime: 2022-09-14T18:21:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/09/n28870560/osaro-leader-in-e-commerce-robotics-appoints-gabe-zingaretti-to-coo"
+webUrl: "https://www.benzinga.com/pressreleases/22/09/n28870560/osaro-leader-in-e-commerce-robotics-appoints-gabe-zingaretti-to-coo"
+ampWebUrl: "https://www.benzinga.com/amp/content/28870560"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28870560"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -18,6 +20,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "28LtxfwMdE6ZiUXF38GISqcnYALsy7GVav6vLkojI4ZzMc9caTE8JkEzg6zo5gJLpWBnR/OX+SsboaABa3wUa/bhgKUXNwoOmK0LCi1YSkffIqA8bz+Jw/F2ocLVwq1DvjFWSkGQGr0EBBvqt39aQbyR9R9nnvklrdQtLqb84IUfzXUq3A458IW3GUlGp01AGWEiO9wo/cKwM0VOEbW7p3xqaZskdutEeCjRXVR8s5ODLPAnaghwVACIqHOb3kSXZKTSsTTrLkx61aBEZOp6MpwGquJEWCsxyicmcdDi9Gm0+VHp0b2E/9iQeGqkLM1GUN65e30DY22NhraZJC/rSJZhlCBgdB1KSREgk/auQqs=;EPuj9h2KAB+320Ok/mOkSw=="
+secured: "QVvSpyWTe2b8Bmeh3+lshjyfit4hCERDUAm3eIhu/bh4pcXBr0xi/wnPhiQcmfaB93DbwJwqKSwPpfSHYIVGplc2XLh2W8PIHv8lW5Zm0qDFV6Oc/D5bazRNLF1kwyzPtbDVGEHFZ5y0MVfGgG8/3J9F57Dnrq0e7FoV116PUB47oLOdHqGygWwPh0p9O8npTOlELJQZpV0a+5ChkTc4QdFiwzbPsRPW07FglOqnFf1IE7rCl3atjJbUzl0vYXV3VB4WjsJbxf2lP4CatrIcSyLz0Ru9qfvq4hVcnz4Alu2fyGMYNdbbktjYYTsRAQVqlmBHn8WeE1De6xY4VPVCQicPTARxEPM0UWqgnfKaBP0=;tgwKrtHsziddxJk7C56uaQ=="
 ---
 

@@ -26,8 +26,8 @@ topics:
 related:
   - title: "Europe Fintech-as-a-Service Market to Grow at a 16.5% CAGR Through 2028 - ResearchAndMarkets.com"
     excerpt: "The Europe Fintech-as-a-Service Market is expected to witness market growth of 16.5 % CAGR during the forecast period (2022-2028). Platforms and applications that provide banking as a service (BaaS) have developed as a practical and economical way to deliver financial services based on open banking concepts."
-    publishedDateTime: 2022-09-14T10:53:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-europe-fintech-as-a-service-market-grow-a-/2022/09/14/9673073.htm"
+    publishedDateTime: 2022-09-14T12:32:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/09/14/9673073.htm"
     type: article
     provider:
       name: TMCnet
