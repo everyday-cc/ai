@@ -2,13 +2,10 @@
 category: news
 title: "Inside preparations for the Queen’s funeral: From rooftop snipers to bomb-proof bins"
 excerpt: "With days to go, police are preparing for the largest state funeral in British history, as the world prepares to bid farewell to the Queen. Simon Morgan, a former Metropolitan Police personal protection officer for the Royal Family,"
-publishedDateTime: 2022-09-15T05:00:00Z
-originalUrl: "https://inews.co.uk/news/preparations-queens-funeral-police-expansion-bomb-proof-1854325"
-webUrl: "https://inews.co.uk/news/preparations-queens-funeral-police-expansion-bomb-proof-1854325"
+publishedDateTime: 2022-09-15T10:31:00Z
+originalUrl: "https://inews.co.uk/news/preparations-queens-funeral-police-expansion-bomb-proof-1854325?ico=most_popular"
+webUrl: "https://inews.co.uk/news/preparations-queens-funeral-police-expansion-bomb-proof-1854325?ico=most_popular"
 type: article
-quality: 17
-heat: 17
-published: false
 
 provider:
   name: i
@@ -18,12 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://wp.inews.co.uk/wp-content/uploads/2022/09/SEI_125146069-e1663175982668.jpg"
-    width: 2500
-    height: 1206
-    isCached: true
-
-secured: "LY9OsHAI8mJ83ttkHN2cDK7qk5vITgn2lE9vTe0teMctNUnnFUwe6FDUklTMtzrTS88uVgLQf6pe40g/2XvGIcdnI33TdqrCwAR93hQofQpltC5m5QTIBcwVxo7kxxbRyVRPWJ3ItZyYEcGQZZY+Sz+5PzzxYrIf/pBimGkELTr9tvnBdSAzsK9GgE7yKXZOuIJLMkmv63zZSGvUNT5OoYAi/Z5tZTY5fkwZbI6akeuhJ45DE3+SWBCeCV/dySh0Mpz9OLEcHkA1+RqXddrBiigUltp3G9L+dQhYtp5SONt1chAkUHew9Otom7NuljBKqZNetlFGMfmH/oNStD53KjH/Ovu5bOerYZKuG0K2hkDxxWjXXfTKknRO3KhNuFo7gLadEJJO+yQ4Bho/P0S3qnMptV7w5fUJc7d3WIdpadwz6gh9ZHQSWQ+o3EJBmZDLEMSs16jCz41dY/tb1fuRlqoQZddbcHzCvr9usZHAmXOIGuaBCUIhDku10iKfMVWPKDmlfJjg9Ny8rXHleznQSQ==;a6wH4U88DVP6tRvckpPVWg=="
+secured: "7T6JA81r6g84CJB6sNJSSvWrsjoufzPWUN1ho4f3tE5TWcAxjouHlz07MB5TfgZo1uczXK0KVFTW/ZUSMeJYcRZxxX/Np3r6Eb3Ykn8v5XtFOlYfjTd9PMtBkpJmJWusWzCU5E/3pwrex/gS6OSIoLuBmQzXhp7eKchWwpuZVgfgNfY5yT6d/+VG4QAl1jdSL8i298Ki9dvwRl/m/EyMwtaZA/fJ7NTUidRMpvPl3fOVTOq1EQUPoCN4mlIpIyhGuMDYPg894qn43GUqz1UUKs6vx/NOEQAAkbOwGCKO1Z4sUxwQ+zQVmWT/4w83+KfaDoo2i0G5kG+Q4tGt5XyMWC/J1MAotuduxFiRJGvhfL8UQQAJpvmPW3zyPrCigh3zZC5M/Y8lNhOkH4Ed4biOXAMuBGqKynA0ORGndSH/i1B5ENczCYCd2XPR5EH5Pq6+wmNiyi3J9F0hXKVUfQ80rbAlQEJHDvQN7vkw8OU+eKbCPsiAAmiKFoxPBKtJa/6pcdwhmic7Mh3H/u5bIccbQw==;xg678xUOgDNPUtHPj8uVEA=="
 ---
 
