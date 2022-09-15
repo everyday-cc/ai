@@ -2,27 +2,19 @@
 category: news
 title: "GM Driverless Car Unit Recalls Vehicles After Accident"
 excerpt: "The company, which is the first to have deployed driverless taxis in San Francisco in June, sent a notice this week to the US agency in charge of road safety, the National Highway Traffic Safety ..."
-publishedDateTime: 2022-09-01T23:55:00Z
-originalUrl: "https://www.barrons.com/news/gm-driverless-car-unit-recalls-vehicles-after-accident-01662073208"
-webUrl: "https://www.barrons.com/news/gm-driverless-car-unit-recalls-vehicles-after-accident-01662073208"
-ampWebUrl: "https://www.barrons.com/amp/news/gm-driverless-car-unit-recalls-vehicles-after-accident-01662073208"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/gm-driverless-car-unit-recalls-vehicles-after-accident-01662073208"
+publishedDateTime: 2022-09-01T23:58:00Z
+originalUrl: "https://www.ibtimes.com/gm-driverless-car-unit-recalls-vehicles-after-accident-3608505"
+webUrl: "https://www.ibtimes.com/gm-driverless-car-unit-recalls-vehicles-after-accident-3608505"
 type: article
 
 provider:
-  name: Barron's
-  domain: barrons.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://www.barrons.com/asset/external-media/afp/AFP2285444600617506092797774724789234518202---1.jpg"
-    width: 768
-    height: 512
-    isCached: true
-
-secured: "msOH/My7uifAJxYHKify8KSg58gN3bfNbscaSeRoHBE8rB92VVx3YS12UcBtUh4GY7ls1wC/EkRxJ91vksX8sOcT1smpL+m8q65Ikro7glvaYYBsR9EkQqmrJ7xx152AmOissuBMe/LUYWfo/99rFMeaHNDsTHHlbDCxsdbWa7z4ATV1aJibx7O37Xs19Fjzf6Jl3qgCfEStweUZTKL7QUXlZ6vazNRzqvWE08nZQM2WoL43aVBB3f1rJbtdRPYGfEoxy0aUjBh5e+LcvY8BtyV9Yq1xg4c01DoQGSCP7PnPnqTx3PA4PxvjSfxOBUYeLp4N0U9JCA48YACxPIVn6ZB/jHsNP4836eIIvDRrSaU=;bBtgfwbIHzGlGw7kv6j0VA=="
+secured: "hi60mI1xC0oUPi/JaZXGsTuoWwtTu9/FPksHqEC9QOYHTlvSEQBsdO75ECUdB6D1q9MxF/pDzKw/agYBJSnQu0SyuiSIoE3KCeVfeMuicy6Yho5jLk1Kixg+BctFLHH27CYweWTHEhCWRVBSIZrKsdOd0jZbYolQ71FkVUor+H2mow9njKOcGfOjfty9xiX45hwJgRqAMHWVWsEC7jFsEoZ4H+Xq6UJTf1TQ2B7/BSXBdYAoAn0Wrd0Jen/TjmB5T8IJGsfE+5pBMek3uwJrIk4+gt0+rloCpBDEuAi/IbNCGKH7F9N3dt/T2kZYrZBl1B7P0fF337PTl/KtNacK+p3Wq67CC0BG/taNpnFOJwY=;JOm+480SID67VK96Kxyd3w=="
 ---
 

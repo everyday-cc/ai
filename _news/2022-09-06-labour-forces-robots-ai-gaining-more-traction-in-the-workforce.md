@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Labour forces: Robots, AI gaining more traction in the workforce"
-excerpt: "Since mid-2021, when Happy Lamb Hot Pot became the first restaurant in the province to start using ... heat and rain. As robots evolve and scientists use artificial intelligence (AI) to make ..."
-publishedDateTime: 2022-09-05T18:02:00Z
-originalUrl: "https://www.timescolonist.com/business/labour-forces-robots-ai-gaining-more-traction-in-the-workforce-5775641"
-webUrl: "https://www.timescolonist.com/business/labour-forces-robots-ai-gaining-more-traction-in-the-workforce-5775641"
+excerpt: "Since mid-2021, when Happy Lamb Hot Pot became the first restaurant in the province to start using GreenCo Robots ... heat and rain. As robots evolve and scientists use artificial intelligence (AI) to make them more sophisticated, their ability to work ..."
+publishedDateTime: 2022-09-05T18:04:00Z
+originalUrl: "https://www.burnabynow.com/highlights/labour-forces-robots-ai-gaining-more-traction-in-the-workforce-5775641"
+webUrl: "https://www.burnabynow.com/highlights/labour-forces-robots-ai-gaining-more-traction-in-the-workforce-5775641"
 type: article
 
 provider:
-  name: Times Colonist
-  domain: timescolonist.com
+  name: Burnaby Now
+  domain: burnabynow.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "rqLQ762eTyViifrTTHz1NihoZyodkmGVs0RA4mUYWjTmAx+zSZEN25BNR2towPFtz4Tga/B7Zt6fMdQJ/oqvq38xU3KsLL6WeNpCHR6bA3D4vx/wLMFA+BMf4+bO5rk3P8nR7b9EaYp8DnA4DU6wSnThReK/XSOWGTkqewlLKMQ8uJ8kPAVEJoH5wr1KPwFtCi6P4m4HIB3qVhREQAdCd8yA1DEZx98lpn7tDcA4GU3IDShwJ2z8EKZk6TbD2rP0HA6ce8EtTDiVL2thOHvpq18NcvbBICk3hkRfeCbQ/P8nYdiYlAwqIwbBeyDwliT5WElBrykz1bSlTCt2OcNqXosA7WdFSiHx5Z2EDygIzC8=;xmY5NV+dmM69S+SqukdbvQ=="
+secured: "awSMdgVttyziVr7Gi2pXLDxyZyl4BLGpi7fZe2YymRS3D926t9TPM2DiEGebmGONRD81/VHQFmIOpgYNMML/WkAmUcfwMSkZa102rFQDSewbrPYqy9YB0HTa31JyjxF1l7pMFaHH0FQ37EoJuIsCtzvVhPsVXv5BCIjow3Ijcq5+ZHPQnq1TGXJqIqwZ3RlFRlCX5dCR+48C9XsYj0whDXC37LFYalgxJ4MMrIDAroWMbJD4XPqaO15+NDxG7xx/g0mm3MX2COC4YNUWdNqD8bkQU7JgcYH0ysFOlpCrWAnEevuVdIFn8AcHE8FNioaA/bNS6FW+Q/dnSyiB0PHl+ZgCWljyNxG1SYAUG4oQt0w=;VejJ8P0OswqH1a5KJ4QCIQ=="
 ---
 
