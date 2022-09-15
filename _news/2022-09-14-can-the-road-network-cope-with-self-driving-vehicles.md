@@ -55,6 +55,20 @@ related:
         width: 615
         height: 284
         isCached: true
+  - title: "Magna testing self-driving delivery bot on Michigan roads"
+    excerpt: "Magna International said Wednesday it is testing a last-mile autonomous delivery robot for use on public roads as the supplier giant looks to develop new businesses in the mobility space."
+    publishedDateTime: 2022-09-14T23:26:00Z
+    webUrl: "https://www.autonews.com/detroit-auto-show/magna-testing-self-driving-delivery-bot-michigan-roads"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/magnabot.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "GM’s Cruise Develops Its Own Self-Driving Software Microchips"
     excerpt: "GM’s autonomous driving technology division, Cruise, has developed its own microchips in a bid to lower costs and increase volume. Automotive headlines this year have been dominated by the ongoing global microchip shortage,"
     publishedDateTime: 2022-09-14T20:42:00Z

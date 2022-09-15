@@ -50,7 +50,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 58
+    quality: 60
 
 secured: "oE/ljHTXgQgvB3XoNWXNicYuCW4WTELfuzWt+bzT85K37dIphbgseWMNwLMCChxYHX1Kh33PyzeeprJdXV4eT6E/XSHHCFkG6OYRNrcM62LoQ12H/yTpyfwna5VQtVSIs6q+VlOOkB+QXNESqz0pcSdoGnFeJlCTYTKBJ9eofoejR2bUFPKG+IWwoM5mFajoWMppP+igV9Og8CIZJqZ9///3RFQ/enThVqvnCRNTjo0Wq/g2ThwH+Q+vca95JhyvXA/p71M4UAAR2mn+cxBZX1yixE/VrcATk3sd0VR+fcEDehq3vfRgSBBBCOJd57QZDrUo4ks3O7cXywlYY46d2+CN71MMDHvKs3R9T5yeP4afnRUrHiDBIre3CQ4o8WIlZOQ35zL2RauoRgpMVmdnZBpKWAGVJPSGJbhfbPCPM9FccPaO061EOjgDLIizvF+UIQZ7xyAnHnw3R6poeQso3ctE9x7CV0uc6OEYTDYtB5UlwumyIrGbW5KoK5DRD+pBlCmG0nDZQzj9/YhWrneLQw==;m2xYnz9+iLfGs2Lcxn8YjQ=="
 ---

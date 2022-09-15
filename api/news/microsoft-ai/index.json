@@ -663,17 +663,17 @@
       "title": "If you think your preparation will help you later, you will probably be right, a new study says",
       "excerpt": "It just might, according to a new study. People did better on a task relying on their working memory when they underwent cognitive training and learned it would help with their performance ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/09/05/health/positive-expectations-cognitive-training-wellness/index.html",
-      "originalUrl": "https://www.cnn.com/2022/09/05/health/positive-expectations-cognitive-training-wellness/index.html",
+      "webUrl": "https://localnews8.com/news/2022/09/05/cognitive-training-works-best-when-you-have-positive-expectations-study-shows/",
+      "originalUrl": "https://localnews8.com/news/2022/09/05/cognitive-training-works-best-when-you-have-positive-expectations-study-shows/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220902160438-climbing-up-stock-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://localnews8.b-cdn.net/2020/12/Joint-KIFI-Local-News-8-and-MIFI-Eyewitness-News-3-Now-logo-scaled.jpg",
+          "width": 2560,
+          "height": 1441,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -681,23 +681,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/09/05/health/positive-expectations-cognitive-training-wellness/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/05/health/positive-expectations-cognitive-training-wellness/index.html",
-      "publishedDateTime": "2022-09-05T15:32:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-05T12:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Local News 8",
+        "domain": "localnews8.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

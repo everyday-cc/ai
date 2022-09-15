@@ -3,10 +3,10 @@ category: news
 title: "USD 23.61 Bn growth opportunity in Mobile Artificial Intelligence (AI) Market -- Driven by increasing smartphone penetration"
 excerpt: "The global mobile artificial intelligence market size is expected to grow by USD 23.61 billion between 2021 and 2026, accelerating at a CAGR of 29.06% during the forecast period. The report considers various aspects such as the consumer base,"
 publishedDateTime: 2022-09-14T19:34:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-usd-2361-bn-growth-opportunity-mobile-artificial-intelligence-/2022/09/14/9673912.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-usd-2361-bn-growth-opportunity-mobile-artificial-intelligence-/2022/09/14/9673912.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2022/09/14/9673912.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/09/14/9673912.htm"
 type: article
-quality: 7
+quality: 27
 heat: -1
 published: false
 
@@ -15,8 +15,14 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1897570/Technavio_Mobile_Artificial_Intelligence_Market_Infographic.jpg"
+    width: 400
+    height: 225
+    isCached: true
 
 related:
   - title: "AI Market Size to Reach USD 1394.30 Billion by 2029"
@@ -116,6 +122,6 @@ related:
         height: 250
         isCached: true
 
-secured: "GI3mnpDqr2S9uYO63A49RblIXHZ6llhHNs31bMV7xXRNRGsVH2vaKqTvaARTIFZIi1OHP9yIveyt1RW4suBz2nQ7uqAjyfzAA5zmpIaDwr9aC5EhrD9NeHIh+HOsUHJGVRzCxSaxkdaBqdDW7Ff5yft8Mi+5JJCK/Sbg1+jP/9VC8xQbJslTbhJZUlNQ4qTWqTA5aZPLxGSoeXu7BpEKVdbF7q65AJS9yCaUGwbY/TpjGNcXuu7P+8xGNDtuH5KVfXQBlw5t9nFjc51bw6PjjfugvKt5dEMM8sOvRmunzQLLFVU03tlW0GJZRl10vVF5Y21aiQ+XZ5Kld/DfN9C7lNZ/aSjy7gP+5fwzNcUYN0JlFbAyXtHhSPTbBkoW3rbqM51/+CKfzNVVqvkzmddPNrqQHnueLzMHQfuL+8nGKiiX42uToHmk2rM0gWrmcEQGhbeOiPYGtbf399NvrIKWVDG2PDCgcpp02QETWXavhN/S+MOEB7yvq2uzggTeN90bt16dHzxhL1xqZ7MDaeN/Dg==;TPs4G6J2BFLwAginBGZyZw=="
+secured: "/0NLYvCuh0G2c/iQBt64Y4KB0QjcbKoOkA7SHrolvsm67nXwF2mtvD5ssWmDYkepBi56zxVk+nO+7+4vZCzBlfHdQJlrVS5g02Onin6DktyuebMFxW7fwF3mmrkIkku8UHheLYaWDiABmDeus/9fM7z0mKK9E+fZArpDouJrCTQMt0FjAWY7ERka0O14Kp96QgaiL6FazjKlxAYFDZBjILPE5/M8N/JS+UK8v0Du8IyH0MhtASCVpSI9ztIMCOoovt47TFG9l9fT0+omdc4dLAdFTTTExPotbQQuSoWlqK6NrjXRrWPs91mO0m5YvCJyspdZyl004anRZRXNcsWGthAhQZ5IY+nCd/1f1FAjuFA=;vlpq2LunDXjBBsdhzALqkw=="
 ---
 

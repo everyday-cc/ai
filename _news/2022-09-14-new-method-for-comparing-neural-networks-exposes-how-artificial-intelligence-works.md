@@ -36,7 +36,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 58
+    quality: 60
   - title: "LANL: New Method For Comparing Neural Networks Exposes How Artificial Intelligence Works"
     excerpt: "Researchers at Los Alamos National Laboratory are looking at new ways to compare neural networks. This image was created with an artificial intelligence software called Stable Diffusion, using the"
     publishedDateTime: 2022-09-13T23:06:00Z

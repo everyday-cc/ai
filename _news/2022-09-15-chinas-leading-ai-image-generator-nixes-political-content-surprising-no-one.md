@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2022/09/chinas-lead
 webUrl: "https://arstechnica.com/information-technology/2022/09/chinas-leading-ai-image-generator-nixes-political-content-surprising-no-one/"
 type: article
 quality: 64
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,36 @@ images:
     width: 760
     height: 380
     isCached: true
+
+related:
+  - title: "China’s most advanced AI image generator already blocks political content"
+    excerpt: "ViLG, censors political text such as \"Tiananmen Square\" or names of political leaders, reports Zeyi Yang for MIT Technology Review. Image synthesis has proven popular (and controversial) recently on social media and in online art communities."
+    publishedDateTime: 2022-09-14T21:31:00Z
+    webUrl: "https://arstechnica.com/information-technology/2022/09/chinas-leading-ai-image-generator-nixes-political-content-surprising-no-one/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 66
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/chinese_image_syntesis-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
+  - title: "US bans export of advanced AI chips to China"
+    excerpt: "NVIDIA announced that it had received a letter from the U.S. government imposing restrictions on exports to China and Russia of its A100 graphics processors and those under development H100. On the same day,"
+    publishedDateTime: 2022-09-13T09:30:00Z
+    webUrl: "https://www.actuia.com/english/us-bans-export-of-advanced-ai-chips-to-china/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 54
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2022/09/Etats-Unis-interdisent-exportation-puces-IA-vers-la-Chine.png"
+        width: 1667
+        height: 833
+        isCached: true
 
 secured: "zS5kHlj7PLce2494HWHwxeV/vYed36Q9p4BZdUEWcxB6uyu6F9xKv4+C7o7KBpebgOrJw5A25jabvK2HiTChJfAMUCjZpQ+QZUKKqA0IU5wVD0hL05RAvq0ak7UvQRrdXO0WjEhdvfMKVw4KROUWRWYzgU1xT6HRYgzmB3Sw8Ap4gIQHcSj6TkLEF2grh+JcvhDKt9JQgWqJhGMJq+KjmLUpqbl3XzXebdCybX+ZLZSfNbEtBZJeWXlRpN3zf8Jvi2Dsw9nVBJF6cfelzHREKc8r7GAIluvVY1k8SZ5W0wGumXU5K90K3mPt+SvaJ12mczzXH7Fcf6fEGuvWBvUjWW64IB0cjgwcJtsTl0hzJjs=;hzmdN+v/hZ/xd+Cr+iV3jQ=="
 ---

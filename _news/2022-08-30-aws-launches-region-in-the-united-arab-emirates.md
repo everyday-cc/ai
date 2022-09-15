@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AWS Launches Region in the United Arab Emirates"
-excerpt: "AWS is committed to helping customers in the UAE deploy the most advanced cloud technologies and achieve the highest levels of security, availability, and resiliency,” said Prasad Kalyanaraman, vice president of Infrastructure Services at AWS."
+excerpt: "(NASDAQ: AMZN), today announced the launch of its second Region in the Middle East, the AWS Middle East (UAE) Region. Starting today, developers, startups, entrepreneurs, and enterprises, as well as government,"
 publishedDateTime: 2022-08-30T06:27:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-economy-amazoncom-inc-d9b9452aac444bf3821796b7f621f354"
-webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-economy-amazoncom-inc-d9b9452aac444bf3821796b7f621f354"
+originalUrl: "https://www.joplinglobe.com/region/national_business/aws-launches-region-in-the-united-arab-emirates/article_6090d8da-9a73-523e-88f7-1c8fbecc5e55.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/aws-launches-region-in-the-united-arab-emirates/article_6090d8da-9a73-523e-88f7-1c8fbecc5e55.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg"
+    width: 350
+    height: 456
     isCached: true
 
-secured: "8cpoLuuk6arC3wXoxZT1dqyqzcv390G29GX5Jl3UJ6kCZ6v/dSfGYq+t/g4yLPa+97rntS4CuftCe7osbX2pSJ8pcMq14ghJvGkawbu/VZqiO8b5lLkXd+A8jhIbKKSNfJLjDH2HK8UZ+nJiqea3eaSb3d1eFA0gLTwJXGjXAMN4xFKiSyZaWHaLnJZgSyfSvYYiZhCcz0DFv9YH1zo38E9KtxMdLj6/ZR5MKUSP77r9HGZrLI3jPycWn8wvXOqU8IPEYUiZ8xiX+TKicorbofYpVAE8JXuDjdyJske5e0Y64caw6fOZYXdlRD87NWACPgl4PY7IpisUKwOZPHFwDlcjrlRw7W1E2JxOToCONn4=;OShGlLlTwM5VGGR8dzDkAA=="
+secured: "095KORr9ICRkBgNE4FYFGP14iOEKJ4cs8l45uN5UFrbFpsQqMhnU3bsEhd79rnBBlVnImvfb1bVwOMY/zMJutsvUVehlfNR4DOU9pwDnlSNh8fLK1JuL/rwe87A1Ujq5OE+/rrfUHPu6tTYmORwzZt4FOK2scQ/4dc9aEh/asfkphmESUJRseeYagTBvhm0hV7aJ73s0rjwcIq7/49+6jkvZm/CG+cgNcyE6iXT/jWLNuPwYROG4fbL9Q+LGRELAQq/WiIh9yYvk1OKFBRYUNEvkmk4lbelFPHF/8/p3QEXVK9yO7YZXyBCN9+yJAS8KDXuB12d+w7q8dpo7RBAZJJ6E2bC+KMSQWn1r6gvwSq0=;bbmqpTU9GFZ3SyN81HXkHQ=="
 ---
 

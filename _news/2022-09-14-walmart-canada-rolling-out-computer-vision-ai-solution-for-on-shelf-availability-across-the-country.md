@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-14T13:05:00Z
 originalUrl: "https://www.walmartcanada.ca/newsroom/2022/09/14/walmart-canada-rolling-out-computer-vision-ai-solution-for-on-shelf-availability-across-the-country"
 webUrl: "https://www.walmartcanada.ca/newsroom/2022/09/14/walmart-canada-rolling-out-computer-vision-ai-solution-for-on-shelf-availability-across-the-country"
 type: article
-quality: 20
-heat: -1
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -17,6 +17,12 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://cdn.corporate.walmart.com/dims4/WMT/0281be5/2147483647/strip/true/crop/773x406+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.corporate.walmart.com%2Ff8%2F7d%2F4380f1914730a70d71aea6c09578%2Ffocal-replenishment-associate.JPG"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Launching a real-time AI solution for early throat cancer detection"
@@ -34,6 +40,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "ML77snNcoOB0qN9CMhqxicAenNTV8CFtfF74xsiXIGK/AJZY4Xz7zPLWh7oNsxUX6dQEpM3W87aq5/n6j5JfzoiOAiViPzuCVc6/Z/W+ShywS/hraTsD9GR45F8xwUHs13maeTJtigQRnUW1AkHOdLfUUoWUO5vXszk79Lf+uXO4p+4vgwgkAJnLoRbzsD8oAxg1ABRInvjkPy56nt7UMPqKSW7oPS4nDAsrWRmhXB9MDdsu67dCdPhFStNJqe6BeReBCTZ1BvMJRSbIw7kf4nD6F+pQvfTin+funtAsjJb9HnQi0foBtuRTOddJXoI5Mj3vUyc5mi9yKKeAhi3gn+ebMbzMSTlX5Sm8CMx2oo4=;9jfXsIT++FtopU0/i3PoNw=="
+secured: "km9edO90yqLHLaVfSadSHMx10lzSbje5xG/l2h84W6bJPZN/TGCiQU8OLAb5Frn5v1lbarihjBGbuJZtq0oyZNgkuq4K1Svwqcuzw3DdQXjWfQcCqMnc30cqJhbOCjYJ1V0tgXoGPPQE1RO6rEYBk30lqefvqMaZKE5Uj5seh6XpjVYwXj7XklbYg88qw52xiTDznZKyOQtVA08x7vj5Njtl0VvIlJCkV09gPnNPbWR54mC7AII0+/+PcOhvSM4NPGWh0z9+h6tOHWmwkTEXvDGXQWSxbnDAH5QesB42lw7Uq+TOlkQpNQqqgBbPuDjrnq14ocw441IZfcDy2y6vrWvqTbn93ABZKPDRt71OJPk=;31SUOsLV+oXtgPpgUwz0oQ=="
 ---
 

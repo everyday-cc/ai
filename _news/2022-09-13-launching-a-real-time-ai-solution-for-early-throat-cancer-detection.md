@@ -7,7 +7,7 @@ originalUrl: "https://www.openaccessgovernment.org/launching-a-real-time-ai-solu
 webUrl: "https://www.openaccessgovernment.org/launching-a-real-time-ai-solution-for-early-throat-cancer-detection/143307/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -32,7 +32,12 @@ related:
     provider:
       name: Walmart Canada
       domain: walmartcanada.ca
-    quality: 20
+    quality: 40
+    images:
+      - url: "https://cdn.corporate.walmart.com/dims4/WMT/0281be5/2147483647/strip/true/crop/773x406+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.corporate.walmart.com%2Ff8%2F7d%2F4380f1914730a70d71aea6c09578%2Ffocal-replenishment-associate.JPG"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "JGX41Rq4oQAnYnmxcayeAgtKs0V41FGv123lpAdxfBYO9l7hrcRUCGIw1n1qBr+rBJ0hZP1a5v4nI/CaFtNsQdIm99Kn3V/Q7vPlSqv0bQPMGtiVWrFezQoz0xvmaZXa1r5vZrzVAbnucycFBQ+DpuO/+noyH6gBnwrH9KAvsBAz7i1XDHtMBzbEdpLyIqAdZ1C+T5iR7LT7Fq4VK0oTjKB+HX/+BOSgDHMFNL/rL0gHcZVy0eafT+neyTVp2zS1gY1S97ie+lthqEUJDMQAyj58y/OgKhVIBH1p2i/SQu5SneiLiPYKsq9MKPNpyuQ6nDoUI415dOBUQjqJTo4ALoYUR8BnrZnGBFnSDD3XvN8QGVv2VWa9+fpqa2vLVstPhmu8ESd+XpYa0pOs3GCNg6T6gmwRhr3gNHVcXKIYYgXjCQSh2Oc3vBratc9hBB1FP88OZN21YI5VgOSxSTCEksKvw5ZQa69urJ4kDamYo22nkNhyWTi21XAdQQPjM8RFULSF6hLHjBrMu3cIDEP/DA==;E7DFFN+GbNZchm/+5mtv6Q=="
 ---

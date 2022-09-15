@@ -9,7 +9,7 @@ ampWebUrl: "https://english.aawsat.com/home/article/3873176/saudi-arabia-leads-r
 cdnAmpWebUrl: "https://english-aawsat-com.cdn.ampproject.org/c/s/english.aawsat.com/home/article/3873176/saudi-arabia-leads-regional-ai-through-laboratory-global-development-corridor?amp"
 type: article
 quality: 55
-heat: 115
+heat: 116
 published: true
 
 provider:

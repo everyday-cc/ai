@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 450
         isCached: true
+  - title: "Magna testing self-driving delivery bot on Michigan roads"
+    excerpt: "Magna International said Wednesday it is testing a last-mile autonomous delivery robot for use on public roads as the supplier giant looks to develop new businesses in the mobility space."
+    publishedDateTime: 2022-09-14T23:26:00Z
+    webUrl: "https://www.autonews.com/detroit-auto-show/magna-testing-self-driving-delivery-bot-michigan-roads"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/magnabot.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "/sQ/xF/NPkKRZji6Fa5XzwA05DpXvHBtns9KmcsaqNy1KUT2QThD/jkwxJA8VC5ad3NihFZ40EDjzqYRik8JXMzBFOAoK/zuIH0D7g9ZwapyXUw88kikAga2eJLVDd4aY1R/CnSPil2ypKZPQu4Sw5Se37SsA0RobZqr6Xnku/w9LKWHoMMwTmeZNKcnVAUloyq+VXAM7qICF79cKOyQemC9yp8Jmnk5KqyHmSVFFgA6n2o2hi6jqvqoqevSbNO5EVxDlrYtzopJna0h/ici36UknqwXuJxNvuoPWFhyB75rQUw/3wbi4g5KOkyVK02L5PwvgXFudVoOEDhleA78FurOmnC7zgfR73wHOOtHLtpqrj+ZBiDaiy12qFHsPEjMzJA+LDQKsXEKWzjXi77WqejqqOq+/xmtvMU+ltznpQaoa8mItWgPmI28KHGYQy/ESsHVJQ5kZa0zgWq+L7j4KcmBRlQYCgNOXZ5AYnelbEmb5592NgkjU84WstPGUdITYHD6GYsbmwBRrsrMvgqIRQ==;WriD3IR16QjQyc10Yj5hUQ=="
 ---

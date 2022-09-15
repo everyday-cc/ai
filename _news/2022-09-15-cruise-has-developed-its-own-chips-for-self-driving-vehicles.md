@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 450
         isCached: true
+  - title: "Magna testing self-driving delivery bot on Michigan roads"
+    excerpt: "Magna International said Wednesday it is testing a last-mile autonomous delivery robot for use on public roads as the supplier giant looks to develop new businesses in the mobility space."
+    publishedDateTime: 2022-09-14T23:26:00Z
+    webUrl: "https://www.autonews.com/detroit-auto-show/magna-testing-self-driving-delivery-bot-michigan-roads"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/magnabot.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "GM’s Cruise Develops Its Own Self-Driving Software Microchips"
     excerpt: "GM’s autonomous driving technology division, Cruise, has developed its own microchips in a bid to lower costs and increase volume. Automotive headlines this year have been dominated by the ongoing global microchip shortage,"
     publishedDateTime: 2022-09-14T20:42:00Z
@@ -65,6 +79,6 @@ related:
       domain: gmauthority.com
     quality: 4
 
-secured: "O/aKbHnlwX8/5Me61KFJL8oZnVoc+8uFy3DcYP38uiFr3AzXWl0YWWISo+z6r3/DyMImso6wb2D20wDO0QWlmtnTwbg5PYxjafTpJnyNBM/RVdugFERT1iQG1WF1e42kFXh9s6RRglumIGpkgVBm71jmSGbGPYTpyfr4mBZmD2x/HWT8Mr0AVwyhT3mQF4kupqJwi8Mu0K2HCYJMTEkbjPndVlKa85CJwHuQ4lMssbMpbFMTiOCMT0E3BhRVrVG8Y2R0qyT7OhBDvPEflWN7KQj4d4qBxFblvkxsglUuam/wKZe6b9XzyC+BTcx5n2QIevjwgE3d4sU/5bNepp8DOOukm2kuP5y5WnFS92q6pZI=;B6/4630TT8ih2S+qzZGd2w=="
+secured: "VS52oIrVpEd6GjGA5c06tSXClkQjH7ooKTKVoNd0wPhN8rs5cqxT2pRf0WMmb1bGLPEx7IIpJAvyviFcOaD7C0qN69P/yvcsIfit1rpADVuOYLm78Y8XOfuBLYgSzF6HSjRhY/Kw3ANSKL+RlmsOXRINpuzZbBfXa+YsMrc1ERwDRt2OIlNbODpmozw+eV8re/3ZhI0C3UJsriTIZ2sUk/yOXw+Da0gf9kbsio8//9gBpLPGuRLIZwU1QtqZnzBLocXDhB6TZvK66XfZDlWV7oYV229W4UoaUldBO2+A/lpb08/z3rrNpc5oV1B90pvP+e0XQfe4lH3hr9pUxRv6KiwnDe/zyDaCgH+PhDPyWL9u9hylk7hzWRsZoM7ZOEhyY6JpgnDwWL2LliO5s0uip9ZU6C0Bl+ky33iQLQklCvfl1BOWAdb9Q7BcvZ6hx5p+rQ94JNnZLlafEHKYrrjmd3faoEIQ2rd7JR4FfW0J3OS6FX6Gk+l9Zj0qmh+ObWPzOK6nn0M0WyGLunp5E9l2fQ==;IM0rPEzhwmNG8ncSgCUGew=="
 ---
 

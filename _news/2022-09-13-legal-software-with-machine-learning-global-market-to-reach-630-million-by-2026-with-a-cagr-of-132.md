@@ -36,6 +36,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
+  - title: "USD 23.61 Bn growth opportunity in Mobile Artificial Intelligence (AI) Market -- Driven by increasing smartphone penetration"
+    excerpt: "The global mobile artificial intelligence market size is expected to grow by USD 23.61 billion between 2021 and 2026, accelerating at a CAGR of 29.06% during the forecast period. The report considers various aspects such as the consumer base,"
+    publishedDateTime: 2022-09-14T19:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/09/14/9673912.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 27
+    images:
+      - url: "https://mma.prnewswire.com/media/1897570/Technavio_Mobile_Artificial_Intelligence_Market_Infographic.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Microbiome Global Market Report 2022: Use Of Artificial Intelligence And Machine Learning Crucial For Future Growth - ResearchAndMarkets.com"
     excerpt: "The global microbiome market reached a value of nearly $340.8 million in 2021, having increased at a compound annual growth rate (CAGR) of 14.8% since 2017. The market is expected to grow from $340.8 million in 2021 to $945."
     publishedDateTime: 2022-09-13T11:41:00Z
@@ -59,15 +73,6 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 9
-  - title: "USD 23.61 Bn growth opportunity in Mobile Artificial Intelligence (AI) Market -- Driven by increasing smartphone penetration"
-    excerpt: "The global mobile artificial intelligence market size is expected to grow by USD 23.61 billion between 2021 and 2026, accelerating at a CAGR of 29.06% during the forecast period. The report considers various aspects such as the consumer base,"
-    publishedDateTime: 2022-09-14T19:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-usd-2361-bn-growth-opportunity-mobile-artificial-intelligence-/2022/09/14/9673912.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
   - title: "Legal AI Software Market To Reach USD 8.2 Billion By 2031 From USD 4.9 Billion In 2022, At A CAGR Of 10.8% During The Forecast Period"
     excerpt: "The Legal AI Software Market to reach USD 8.2 billion by 2031 from USD 4.9 billion in 2022, at a CAGR of 10.8% during the forecast period. Kenneth Research recently added a report on Legal AI Software Market which provides a detailed insight into the market scenario on the basis of the market size,"
     publishedDateTime: 2022-09-12T08:21:00Z

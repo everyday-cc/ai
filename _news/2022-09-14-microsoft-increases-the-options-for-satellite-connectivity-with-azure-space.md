@@ -36,7 +36,7 @@ related:
   - title: "Microsoft continues expanding Azure Space"
     excerpt: "Microsoft is continuing to expand its role in the space sector on multiple fronts with a strategy built around partnerships."
     publishedDateTime: 2022-09-14T15:13:00Z
-    webUrl: "https://spacenews.com/microsoft-azure-wsbw-2022/?preview_id=131691"
+    webUrl: "https://spacenews.com/microsoft-azure-wsbw-2022/"
     type: article
     provider:
       name: SpaceNews

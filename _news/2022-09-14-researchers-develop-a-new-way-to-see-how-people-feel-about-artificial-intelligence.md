@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2022-09-people-artificial-intelligence.html
 ampWebUrl: "https://techxplore.com/news/2022-09-people-artificial-intelligence.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-people-artificial-intelligence.amp"
 type: article
-quality: 53
-heat: 63
+quality: 55
+heat: 65
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/researchers-develop-a-15.jpg"

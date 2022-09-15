@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-14T19:00:00Z
 originalUrl: "https://www.genengnews.com/topics/bioprocessing/advanced-computation-could-usher-in-quality-by-design/"
 webUrl: "https://www.genengnews.com/topics/bioprocessing/advanced-computation-could-usher-in-quality-by-design/"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "4rSG+op0JxuAu3EpClyOGingJAgvWTLU7VUiHUfEWEnThrTcg9exih03UUB54FvWTq956qtY0ufKdsO+HlJN6XzdWDbx1EEXRPlQo9hSRIjBkMTej/QkGCSGhzhS4jtE9/BmRio2FM2jXCC3tnjhNtP6Z1WkWC60Kq7Wmr+uK8teBWw4XajQGNqBzRLofoCNGmB0o8nAk1PwOD9yThfk8uALz9SKcctbnL1J7ZR3gOCZrNJB5gNPhlKsFOgyWNlBXiq2k1v3stBdPZIM2JkQ+D/xwZnM5NOZ8p2rokTf/yOQyXh61Zi1+QG0RkWMfJgqpWP8pS1dNXtRLjTygSDeZglEFMYl/Cg+GkNJOttEVq0=;TrBbmP7XXgMapakcXHqyOQ=="
+images:
+  - url: "https://www.genengnews.com/wp-content/uploads/2022/09/GettyImages-1298817518-scaled-e1663174002978.jpg"
+    width: 1400
+    height: 934
+    isCached: true
+
+secured: "PCa8OQoC2i5TWd3lytUabncAz1TLK2ymI37iOV8HI5CUPwMrol6K+kgOiWcoIEpN8ZBpoB92aN9P9v7bXyCbD340ph6avGeWmy5BNSnnNUARezJ6DyG+Tw8BNR2qNul8XUkIjFwoNNOE4VLn1R9PKuC19Rqs4iJQeyvi+kaNKoWDpHy5O7+NyRlEuqIYeku6F/jgKgCz2eE5pArFqYIx72vKzGY9XBU1jE0Lc8SXirIX+W6Ay74VkJQVZ5Aq+fw3JIjWUh/7q06oTwYvv6q+vB6nTENxELI4fwkXp9Z6UowhKC/A54HdTt0aq1vtBRPHugP+eyNXN82Z1MupI7VxdQNjBtRX0mWmSH+tIQMCGbM=;DD62jt52mydAEmwtTsG7IA=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2022-09-14T20:18:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2022/09/220914102256.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/09/220914102256.htm"
 type: article
-quality: 58
+quality: 60
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 related:
   - title: "New method for comparing neural networks exposes how artificial intelligence works"

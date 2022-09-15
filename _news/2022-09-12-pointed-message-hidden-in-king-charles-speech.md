@@ -36,20 +36,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "The King's Speech: Charles III addresses nation for 1st time"
-    excerpt: "King Charles III gave his first speech to the nation as British monarch on Friday following the passing of his mother, Queen Elizabeth II.In his speech, he paid tribute to his mother, saying, \"Throughout her life,"
-    publishedDateTime: 2022-09-10T05:11:00Z
-    webUrl: "https://www.pna.gov.ph/articles/1183382"
-    type: article
-    provider:
-      name: pna
-      domain: pna.gov.ph
-    quality: 24
-    images:
-      - url: "https://files01.pna.gov.ph/ograph/2022/09/10/prince-charles.jpg"
-        width: 720
-        height: 377
-        isCached: true
 
 secured: "u/y0eZ8buBHmS8j+9Qa3trC4F9qA64CSOw27T0cUdWNMJngr9R9xUdFFRv4zL3d8BBYb9yAZ7wOo1/RBLfZHGuV9PgXYCE7wvakYfI6O2xkV48+KjX1Mu8xFdRq1PFMMjWqo7MiCFsBYTrm00c5gDVagwm2fD3HlrxTTGBfcMe6wdzkSq29RK/B2LsOmapWAMXEGZo33p+QKZnvvuJ+7weCDzi4YIBibHMC1S/73CA2kkD0wluqzyp6VkfjUqlXUj/YTcIFcrslqB+SR9XclDD5up1pEn5lZNEylAT99P9qfDDR20xylEDZAQ4ojkp+QBpN/D9Ls0IF2iOjQsJN/oO1LLdETSXSMCW1G1nCzFOFENnwg54legM4ZlOVi84tL2Ie0/eyrGsmmBSYSvu7qHQQBLut80AkiXS1wdzLhmcvAx3ZHm0xNcmpjtKLhCSlBUsR1vIrvsmr7t24J6B8bECsFucmXLcAjgpkuFManS84DED0oYSlqOOkrwgBCmEJ7qe3pVzhGQBD9b9W+e736Cg==;Ym+qxzQdqMHhnLS+akplOQ=="
 ---

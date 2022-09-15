@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Analysis: Banned U.S. AI chips in high demand at Chinese state institutes"
-excerpt: "BEIJING, Sept 6 (Reuters) - High-profile universities and state-run research institutes in China have been relying on a U.S. computing chip to power their artificial intelligence (AI) technology ..."
-publishedDateTime: 2022-09-06T06:58:00Z
-originalUrl: "https://www.reuters.com/technology/banned-us-ai-chips-high-demand-chinese-state-institutes-2022-09-06/"
-webUrl: "https://www.reuters.com/technology/banned-us-ai-chips-high-demand-chinese-state-institutes-2022-09-06/"
+title: "Analysis-Banned U.S. AI Chips In High Demand At Chinese State Institutes"
+excerpt: "High-profile universities and state-run research institutes in China have been relying on a U.S. computing chip to power their artificial intelligence (AI) technology but whose export to the ..."
+publishedDateTime: 2022-09-06T13:47:00Z
+originalUrl: "https://www.ibtimes.com/analysis-banned-us-ai-chips-high-demand-chinese-state-institutes-3609766"
+webUrl: "https://www.ibtimes.com/analysis-banned-us-ai-chips-high-demand-chinese-state-institutes-3609766"
+ampWebUrl: "https://www.ibtimes.com/analysis-banned-us-ai-chips-high-demand-chinese-state-institutes-3609766?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/analysis-banned-us-ai-chips-high-demand-chinese-state-institutes-3609766?amp=1"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/6PPgsGqlMbgAdLURAKyiZjWE3Lg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MS4ITRKXBNOK7KEAYK3LCUC5OY.jpg"
+  - url: "https://d.ibtimes.com/en/full/3813247/logo-nvidia-corporation-seen-during-annual-computex-computer-exhibition-taipei.jpg"
     width: 1200
-    height: 628
+    height: 800
     isCached: true
 
-secured: "HOcMFGTe2cvbdjY2JJIo0VhPiHaiLrgkbVqkQeiSLwhKgWOKXpQoeQwbk6BUirHxE8OXGCFg/08+wRvJNWAOVPRJ2rGISaDhFqFop5Z1RUcbKYmOndwEF87TDwxgCsJOPRlscl2IkbOa3HBvpKGQy4nRlqZDh7pVNTZj/suwriOZ9GJfjjnLA47Z6s9X0FIOtQ7JtSgkJ7lImU4/Zhd+Js+r9BdiKkJxiwn8h2lDbjgo6QMeJmPQVf92I83mBRFtoZdSyeEVZdz3MN5f5kjFW+hsRPOFPJOdRYVw6R6yr5SSiefBmluzJOjE/d7QcG9rUhlObA4apaeHHkDAW4kePcFbgHYXOhsN+N9kPTw87cM=;wzyId/9Y3NWYNkD5JwU8cg=="
+secured: "U730/HNy4he/pHNvPJBBVadt66gBWsAVf2U+oPHhOn56XcWiud6cgIKwvUcWMzFx9ZYNze3g86a75EdbsQGUTQMoBJGnfQEwCZ9DVEu3koN8+VkiVm9vTzfZHeUMW8kR7frWxapuCGUnFXFtamb4i0dDInKe3A1rknFs/hNgTHtqZV/FzSLZf9xO2kinQLaqZHu6dXRrI43xS9fnj7fxfW5Fc4OoH1K33zL4+xbK6OvZtuux1NpNy+YRk7p/JwN1j9NvVaN5fyEOdtqssrvK3iXb73aiNjTEcdjhPMrj/vPABYTwpxO3cu/cj+abcPgzix7gZwvM4uBZK+mqX0xfShuWWaDJNHzVj+XIi2jW8W0=;uPmkNRuflT65PX+0tAgL9A=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://executivegov.com/2022/09/nih-to-invest-130m-in-biomedical-
 webUrl: "https://executivegov.com/2022/09/nih-to-invest-130m-in-biomedical-behavioral-ai-projects/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 270
     isCached: true
 
-secured: "7wlIkmVVblR2o5Sdk5EbN6zQ15gUV8IVRuKHWKQHttx6/nP7Jm2L8UjaLPdYC4q+Y4GDEJniDqOP2amMx20zt1yPBKjpKcMrKY7+pN3ETRSaai2oZ0H/Kas3VRELUxnPZRs2zFYFsy+t4X8NaTheG1TO3Egw+VKPXzMyJJ6fhUs77qwqNSYrmJZDiZUztw9wMwartXoZumJaD8cCV5yRq4Rfgeaoz8hLjbaO5MS0a1832pu56V4Kxo4qgKEwH3pok+Dx2Hvvc/PRSKUBk+1b927u/OR/k28BmEuNWUzdhGi3O0UFl9OFGcTe8hCy7uM9Vxkr1lqVn6XKGfCP4yO4KO85BaQxmdKp+64TD+na5dQ=;qTqcUAM1hG4KipDV/grSGA=="
+related:
+  - title: "UAB aims to boost use of artificial intelligence in biomedical research"
+    excerpt: "The UAB projects will investigate was to improve and increase the use of artificial intelligence in biomedical research."
+    publishedDateTime: 2022-09-13T14:53:00Z
+    webUrl: "https://www.uab.edu/news/research/item/13093-uab-aims-to-boost-use-of-artificial-intelligence-in-biomedical-research"
+    type: article
+    provider:
+      name: lsv.it.uab.edu
+      domain: uab.edu
+    quality: 54
+    images:
+      - url: "https://www.uab.edu/news/media/k2/items/cache/f4824ed1a4f141141e042d7b5ae59f41_XL.jpg"
+        width: 900
+        height: 676
+        isCached: true
+
+secured: "Qwuyzi2tvTOGnLwLfVdwmtJkGLlg4IHb2oJGxrk7WOfCTfR0kYNBHTCSUK+j/FxLkmLHtJ4UJqSVKftsw3IWECYaz9OF54Khb/RLUOnREcnPyHFXZ+2fwsDnHzCwzQFKmNqu7NX2S8GP4qsdxyiTKXhxTIuBNrGC1TWKRiWm5g52xssXaYS12idnDJZI/NX3e5rSBRebz75vxRfu04s6LcyckjuMWOe/djogntWFKSlaNZvyAlmh29rsG3QaM7wPQoRbMRc/kgIr473/i8uB1spizF1/2qaZuwMXLzfGBlm75Vpg/uzL/MKtY5OSOAsw5yiIQK5W2cfTDcwf4fo3LgCbdmxgsb/bO3obTg7EA0V2FKhb+UJtO4WKiE6FBIg4SSk0iq6+mtHumbgESbt9SDYlarKbRnqFXkfEqdRWNNcB59S7pBCdVb5Ek3a2LCYg2P+Bnf+qHWslcNLqFmVqh8iAvemfFTD/WgXPTGOiYtmaUf451B8Ag4RJuJgJNjvnI6cPesHzr5GS16aWgzCIzw==;O6lBiO/DP5nqNq6EiwYWPQ=="
 ---
 

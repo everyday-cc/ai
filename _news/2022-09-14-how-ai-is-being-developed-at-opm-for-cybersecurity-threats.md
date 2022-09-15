@@ -7,7 +7,7 @@ originalUrl: "https://www.geekwire.com/calendar-event/how-ai-is-being-developed-
 webUrl: "https://www.geekwire.com/calendar-event/how-ai-is-being-developed-at-opm-for-cybersecurity-threats/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Why Artificial Intelligence is Must for Cybersecurity"
+    excerpt: "How can artificial intelligence protect us from devastating cyber attacks? Some cybersecurity companies are already taking advantage of AI for good. Cybersecurity is the practice of protecting electronic information by mitigating information risks and vulnerabilities."
+    publishedDateTime: 2022-09-14T23:29:00Z
+    webUrl: "https://www.hackread.com/why-artificial-intelligence-must-cybersecurity/"
+    type: article
+    provider:
+      name: hackread
+      domain: hackread.com
+    quality: 37
+    images:
+      - url: "https://www.hackread.com/wp-content/uploads/2022/09/why-artificial-intelligence-must-cybersecurity.jpg"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "MSP360 Partners with Deep Instinct to Fully Integrate the World's First Deep Learning Cybersecurity Framework Solution"
     excerpt: "MSP360, a provider of simple and reliable backup and IT management solutions for managed services providers (MSPs) and IT departments worldwide, is now fully integrated with Deep Instinct, a prevention-first approach to stopping ransomware and other malware using the world's first deep learning cybersecurity framework."
     publishedDateTime: 2022-09-13T14:05:00Z

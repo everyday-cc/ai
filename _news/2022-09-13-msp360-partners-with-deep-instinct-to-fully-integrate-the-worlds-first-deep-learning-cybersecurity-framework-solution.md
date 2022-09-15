@@ -33,6 +33,20 @@ related:
         width: 1198
         height: 674
         isCached: true
+  - title: "Why Artificial Intelligence is Must for Cybersecurity"
+    excerpt: "How can artificial intelligence protect us from devastating cyber attacks? Some cybersecurity companies are already taking advantage of AI for good. Cybersecurity is the practice of protecting electronic information by mitigating information risks and vulnerabilities."
+    publishedDateTime: 2022-09-14T23:29:00Z
+    webUrl: "https://www.hackread.com/why-artificial-intelligence-must-cybersecurity/"
+    type: article
+    provider:
+      name: hackread
+      domain: hackread.com
+    quality: 37
+    images:
+      - url: "https://www.hackread.com/wp-content/uploads/2022/09/why-artificial-intelligence-must-cybersecurity.jpg"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "B72KYKbJPho5knoCm048fb+Pss1Cd+CpkQj5LrOkP1wRj+KhH594QTeneo/scLIvjRNwowigpnwHQlANOFyViRxPY74WtjqjxZZrj8KU583lTVgpQknIxcdkh/DkOHAaeb1VJMEmE3SiPvd5GFtFdz3YwhVdNyquSosmxJC5uAFPekoElXBEBq8rv4z8S4ZNZY4kmEL7vvwzX6eZXx9QiTdydirUoPgNvEMY3A+bvoV6MOVOOZQ9IUKahBEb0AEWm3sL3okIE7aeGEO83hoR4z6QxZdCRo34pJv58oSkwG6px89z3UpEXDB3Jn91g1FyZv0pSUV6yKxtWRYTE3VLfxFWFv01SRmL+HBId1KnXcc=;w0/BAeUfaVHLoCeyen+AEg=="
 ---

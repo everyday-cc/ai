@@ -3,8 +3,8 @@ category: news
 title: "Microsoft continues expanding Azure Space"
 excerpt: "Microsoft is continuing to expand its role in the space sector on multiple fronts with a strategy built around partnerships."
 publishedDateTime: 2022-09-14T15:13:00Z
-originalUrl: "https://spacenews.com/microsoft-azure-wsbw-2022/?preview_id=131691"
-webUrl: "https://spacenews.com/microsoft-azure-wsbw-2022/?preview_id=131691"
+originalUrl: "https://spacenews.com/microsoft-azure-wsbw-2022/"
+webUrl: "https://spacenews.com/microsoft-azure-wsbw-2022/"
 type: article
 quality: 54
 heat: -1
@@ -49,6 +49,6 @@ related:
       domain: bestgamingpro.com
     quality: 32
 
-secured: "1k6ssafnUGkhYxQ1zrpDCFK1GLjXOMG47ZiRZyOGPl9WNv58Lp9kY6QvS4hlTNUJv57q+qnP48o2bXMAiLHEqo17/5cA9nQRuVEBqSkP5j+/0r0a0aC15gUGFguPU/aw5v6Qf4LPNarHvNHo20jvRwAXR14I8edDJ0rJ2Fa9uw+1TEUSYDOGBDlQ9BA6Tp23RIdKMx8OGTzwXockUalTJ8CyDLh0edfiPZCalnE322gDRKs7ssdVskuwacAHsC5FFmRalA08ahk2IcRZ0derD/gLqDuHjVcMn8KCGC5asBAyjrEC1IlUP2Q222wzSQh+n4PqYGyAdQ3dmIXqICmSh9D4YBKgR7QkFB6n4EGxbdmtHs/FzKbtrPh+1BCledec7J18fNLlh4RbumoW1IwT/w5IGOq5oNpVCz/UEs3vhOiH5QDJyscAbdUjFI7V0JjIlXCm1G1kLGmSjXUFagz3LJ6GXbZ/j4nJnsk6DUyMsyca+1S4vHzVkLWtV8b36VG3mwpgi3vhTfff3eWnm0JKog==;bAry78XO84MrsiLYq9kiTQ=="
+secured: "NagRdWyHIrkUuJEogt1mLULV7AkGmWU4byxNtqo5joIkwEA6spxrfdczSKRt+taJfNe6mV1vHRpRI8HJVgdchKOCSbENsbvzPWqYjWc/zzeejaLUz9t7/J4KiphR8nAqcR3N4tYQaFYxo+/oHyolFMbVQ0tMJjkx479WD3U3zhcviGJHt2e30s1I7aGkF3IgtIcy/pzUvS7XVs3OHjF2NpxWzSt0dlzUcu6WrHwEbB2OWrYyqJTyWXOaBp8/wA1fiyUStfbu6Nh0nSQDgqH/gDazM1TA+kOsA7j+UB/mGlZNZVKY1EvbgCIuwUN3/oFaj2bxcIy7yKlqxGzsyrRxunk8j19xhdlpP1KZmX4WWVw=;pqLqypz+MMndLgpNTQAexQ=="
 ---
 

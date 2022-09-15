@@ -28,7 +28,7 @@ related:
     provider:
       name: techxplore
       domain: techxplore.com
-    quality: 53
+    quality: 55
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/researchers-develop-a-15.jpg"
         width: 1100
