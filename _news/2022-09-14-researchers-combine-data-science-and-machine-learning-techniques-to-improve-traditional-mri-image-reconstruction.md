@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Researchers combine data science and machine learning techniques to improve traditional MRI image reconstruction"
-excerpt: "University of Minnesota Twin Cities scientists and engineers have found a way to improve the performance of traditional Magnetic Resonance Imaging (MRI) reconstruction techniques, allowing for faster MRIs to improve health care."
-publishedDateTime: 2022-09-14T13:37:00Z
-originalUrl: "https://medicalxpress.com/news/2022-09-combine-science-machine-techniques-traditional.html"
-webUrl: "https://medicalxpress.com/news/2022-09-combine-science-machine-techniques-traditional.html"
+excerpt: "University of Minnesota Twin Cities researchers have found a way to improve the performance of traditional Magnetic Resonance Imaging (MRI) reconstruction techniques, allowing for faster MRIs without relying on the use of newer deep learning methods."
+publishedDateTime: 2022-09-14T00:00:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/964576"
+webUrl: "https://www.eurekalert.org/news-releases/964576"
 type: article
-quality: 0
-heat: 0
+quality: 18
+heat: 18
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
-secured: "Y8AULoHMls5js41Qz9H2/ufSg7BGf1uQFBZqfIYLanwRlbatmb8xMwTxvORcAY+F9pR5dAXhF+pvy+c2TDkORy5IjvO3r2jXFdZUeWaEvyBi5WakNdt+fRwjrmtVMkGY7AULunLpoYDUtPIaoKQdeC8C73k4hXqFwWAE/oiNEJEjP6zN8WMnEV22iTx4pcHtueT4E2EYJp/VRwcljJ2G85oIIP+3P5nUtOgLFht1WUzgdBf43GQIuu5kHjQdcXmWWa66564Km7kCT+fmZHg5VQ3B/pufkWAneApWAfAvWfu80R+WgaF9yJtuSO07+tHhiyBtfFfmCznCEOJSKwEnX7DiXVXmSm3C15yqwvqqhLSkyl4ARxMsEBy7j5z88spdpk+7XqP8gTfBW+JlqRLJLVDeok5n75qAheFee7E+3hv8qbUyUuxXU6FGDgEHAiLWrmJcSk2zU6GS/kX9qXhsef7vE0UvTHvpMNPpoRgxdFcfcw14m8o947U2eYjoihaKlo140Eh3rZ0t7RCStahrRg==;RRl/OdciBpoE2MuUiJDtoQ=="
+images:
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/387a00b7-ce35-466a-a544-239e72a0f1d3/Rendition/low-res/Content/Public"
+    width: 700
+    height: 342
+    isCached: true
+
+secured: "94IHljOVw0EIvhttIZnRCZ4mff3LvtRMX56AkBZqa1C4X3nrOOYTmnebU3DoClzY+qdXRurZw5Rsajr7k2rticvCMDCQ2CQYecZZehWKWX4G1pcUHy0CoM5tz/o4Z0WWsJSXx73dtEel6Hs4L+thIzCpIGLpF4fqOxD1pqAuB4JT7gH7u3vmXU7klHALA1JTVPOAF/BEKYbt2JfgtTPtUhBp0vgXs78BkSujTN/CdfV0M+02Qm3mMNewKFAB8MClDcIrn3wSQ77U4prdeQEnbX44HOBxupagVp3mkdr3R7sIKmN7EuWM0uaPF+YqTCXaWGArr44a0BVvTrNWHKHqL+rcwdBW6UPwSmweSGotCnY=;BuJqGMru2mMZa7pisHUtZg=="
 ---
 

@@ -2,6 +2,59 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-06-17-the-truth-about-ai-and-roi-can-artificial-intelligence-really-deliver.md",
+      "title": "The truth about AI and ROI: Can artificial intelligence really deliver?",
+      "excerpt": "Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! More than ever, organizations are putting their confidence – and investment –  into the potential of artificial intelligence (AI) and machine learning (ML).",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/17/the-truth-about-ai-and-roi-can-artificial-intelligence-really-deliver/",
+      "originalUrl": "https://venturebeat.com/2022/06/17/the-truth-about-ai-and-roi-can-artificial-intelligence-really-deliver/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1359132436.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/17/the-truth-about-ai-and-roi-can-artificial-intelligence-really-deliver/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/17/the-truth-about-ai-and-roi-can-artificial-intelligence-really-deliver/amp/",
+      "publishedDateTime": "2022-06-17T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-06-17-drivers-of-self-driving-cars-can-rely-too-much-on-autopilot-and-thats-a-recipe-for-disaster.md",
       "title": "Drivers of self-driving cars can rely too much on autopilot, and that's a recipe for disaster",
       "excerpt": "We were promised a very near future where autonomous machines would be serving our needs and vehicle ownership would be rendered unnecessary: robots would quickly and efficiently deliver our orders and we could squeeze in a few more hours of work or sleep while being chauffeured around in self-driving cars.",
@@ -1245,58 +1298,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-baidus-jidu-auto-releases-virtual-concept-robocar-as-intelligent-ev-unit-moves-towards-mass-production-in-2023.md",
-      "title": "Baidu’s Jidu Auto releases virtual concept robocar as intelligent EV unit moves towards mass production in 2023",
-      "excerpt": "Baidu-backed EV firm WM applies to list in ... Tesla’s founder Elon Musk recently said that Tesla aims to have self-driving cars, without the need for human intervention, by May 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit?module=inline&pgtype=article",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit?module=inline&pgtype=article",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/06/08/a7880824-98af-4131-80cb-aeb9f88421db_36043c23.jpg?itok=OKP7ptvz&v=1654696184",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit",
-      "publishedDateTime": "2022-06-14T02:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

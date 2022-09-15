@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-08-12-dont-miss-tata-elxsis-new-age-solutions-for-driverless-cars-stock-zooms-1158-in-5-years.md",
+      "title": "Don't Miss Tata Elxsi's New Age Solutions For Driverless Cars, Stock Zooms 1158% In 5 Years",
+      "excerpt": "Equipped with new-age technology, design and tech service provider Tata Elxsi is helping customers reimagine products and services in the three key verticals of transportation, media and telecom and healthcare,",
+      "sourceUrl": null,
+      "webUrl": "https://www.goodreturns.in/news/don-t-miss-tata-elxsi-s-new-age-solutions-for-driverless-cars-stock-zooms-1158-in-5-years-1258512.html",
+      "originalUrl": "https://www.goodreturns.in/news/don-t-miss-tata-elxsi-s-new-age-solutions-for-driverless-cars-stock-zooms-1158-in-5-years-1258512.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.goodreturns.in/img/2021/10/stock-1633078633.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.goodreturns.in/amphtml/news/don-t-miss-tata-elxsi-s-new-age-solutions-for-driverless-cars-stock-zooms-1158-in-5-years-1258512.html",
+      "cdnAmpWebUrl": "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/news/don-t-miss-tata-elxsi-s-new-age-solutions-for-driverless-cars-stock-zooms-1158-in-5-years-1258512.html",
+      "publishedDateTime": "2022-08-12T00:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Goodreturns",
+        "domain": "goodreturns.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-12-korea-lacks-data-to-operate-autonomous-vehicles.md",
       "title": "Korea lacks data to operate autonomous vehicles",
       "excerpt": "Amid intensifying competition to gain an edge in the self-driving vehicle market, concerns are rising that Korea might lose in the game as it lacks data to implement autonomous driving. Industry experts stress that a better environment should be established to accumulate autonomous driving data as in other leading countries such as China and the U.",
@@ -1287,49 +1330,6 @@
       "provider": {
         "name": "Arabian Business",
         "domain": "arabianbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-china-drafts-rules-on-use-of-self-driving-vehicles-for-public-transport.md",
-      "title": "China drafts rules on use of self-driving vehicles for public transport",
-      "excerpt": "SHANGHAI: China should adopt autonomous vehicles in passenger transport with care, the country's Ministry of Transportation said in drafted rules to regulate the self-driving industry. The ministry will encourage the use of autonomous vehicles as taxis in easily controlled scenarios in low traffic situations,",
-      "sourceUrl": null,
-      "webUrl": "https://www.carsifu.my/news/china-drafts-rules-on-use-of-self-driving-vehicles-for-public-transport",
-      "originalUrl": "https://www.carsifu.my/news/china-drafts-rules-on-use-of-self-driving-vehicles-for-public-transport",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2022/08/Untitled1.png",
-          "width": 976,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-08T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CarSifu",
-        "domain": "carsifu.my",
         "images": null,
         "publishers": null,
         "authors": null

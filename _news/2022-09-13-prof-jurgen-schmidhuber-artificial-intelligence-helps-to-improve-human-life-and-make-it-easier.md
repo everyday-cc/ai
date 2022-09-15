@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-13T14:12:00Z
 originalUrl: "https://www.spa.gov.sa/viewfullstory.php?lang=en&newsid=2383591"
 webUrl: "https://www.spa.gov.sa/viewfullstory.php?lang=en&newsid=2383591"
 type: article
-quality: 26
-heat: 26
+quality: 28
+heat: 28
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://clcdn.spa.gov.sa/galupload/thumb/no-image-logo.png"

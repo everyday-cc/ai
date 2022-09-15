@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "The Artificial Intelligence and Cybersecurity Nexus: Taking Stock of the European Union’s Approach"
+    excerpt: "The EU’s AI-cybersecurity ecosystem remains highly fragmented. To realize its technological leadership ambitions, the bloc must connect the dots between its myriad initiatives, processes, and stakeholders."
+    publishedDateTime: 2022-09-15T09:05:00Z
+    webUrl: "https://carnegieeurope.eu/2022/09/15/artificial-intelligence-and-cybersecurity-nexus-taking-stock-of-european-union-s-approach-pub-87886"
+    type: article
+    provider:
+      name: Carnegie Europe
+      domain: carnegieeurope.eu
+    quality: 27
+    images:
+      - url: "https://images.carnegieendowment.org/images/article_images/1420x770_Europe_s_Digital_Future_Vestager_Breton_-_GettyImages-1201843775.jpg"
+        width: 1420
+        height: 770
+        isCached: true
   - title: "MSP360 Partners with Deep Instinct to Fully Integrate the World's First Deep Learning Cybersecurity Framework Solution"
     excerpt: "MSP360, a provider of simple and reliable backup and IT management solutions for managed services providers (MSPs) and IT departments worldwide, is now fully integrated with Deep Instinct, a prevention-first approach to stopping ransomware and other malware using the world's first deep learning cybersecurity framework."
     publishedDateTime: 2022-09-13T14:05:00Z

@@ -2,6 +2,111 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-09-04-why-embedding-ai-ethics-and-principles-into-your-organization-is-critical.md",
+      "title": "Why embedding AI ethics and principles into your organization is critical",
+      "excerpt": "There is likely no future without AI. Ethical development and use of AI should not be contentious — it is a social responsibility.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/why-embedding-ai-ethics-and-principles-into-your-organization-is-critical/",
+      "originalUrl": "https://venturebeat.com/ai/why-embedding-ai-ethics-and-principles-into-your-organization-is-critical/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1251037767.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/why-embedding-ai-ethics-and-principles-into-your-organization-is-critical/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-embedding-ai-ethics-and-principles-into-your-organization-is-critical/amp/",
+      "publishedDateTime": "2022-09-04T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-09-04-how-lord-of-the-rings-used-ai-to-change-big-screen-battles-forever.md",
+      "title": "How 'Lord of the Rings' Used AI to Change Big-Screen Battles Forever",
+      "excerpt": "Massive software has spawned armies of artificially intelligent crowds, from Lord of the Rings to Avengers: Endgame.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/culture/entertainment/features/how-lord-of-the-rings-used-ai-to-change-big-screen-battles-forever/",
+      "originalUrl": "https://www.cnet.com/culture/entertainment/features/how-lord-of-the-rings-used-ai-to-change-big-screen-battles-forever/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/55e5d94df81ac6baa25b60737dccd3e8b7165511/hub/2021/08/27/30dbd364-143e-493e-8371-445fa1de441c/screen-shot-2021-08-27-at-10-31-45-am.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-04T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-09-04-how-artificial-intelligence-can-be-trained-to-detect-tumour-research.md",
       "title": "How artificial intelligence can be trained to detect tumour: Research",
       "excerpt": "The Bochum team's explainable AI is therefore based on the only kind of meaningful statements known to science: on falsifiable hypotheses. If a hypothesis is false, this fact must be demonstrable through an experiment.",
@@ -144,6 +249,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-04-smart-driving-innovations-debut-at-the-waic.md",
+      "title": "Smart driving innovations debut at the WAIC",
+      "excerpt": "The innovations are essential to achieve bigger targets such as fully autonomous driving and new-energy vehicle high efficiency for a low-carbon society. Most importantly, the technology shown at WAIC 2022 is available and accessible now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.shine.cn/news/in-focus/2209030031/",
+      "originalUrl": "https://www.shine.cn/news/in-focus/2209030031/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://obj.shine.cn/files/2022/09/03/71a44ea6-9869-4265-a710-e430ef096202_0.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-03T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SHINE",
+        "domain": "shine.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -540,6 +688,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-03-robots-and-artificial-intelligence-bring-nebraska-25-million.md",
+      "title": "Robots and artificial intelligence bring Nebraska $25 million",
+      "excerpt": "so why not get a robot and teach it artificial intelligence and computer vision, put that in the poultry barn and let that replace the human labor? So we start to see these identifying problems ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wowt.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/",
+      "originalUrl": "https://www.wowt.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wowt-prod.cdn.arcpublishing.com/resizer/xdlYKfIq7wrIoezuhawke2SoLWA=/800x450/filters:focal(646x617:656x607):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/4JYREUQNNBM65MXZ2SGFIOY6XU.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wowt.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wowt-com.cdn.ampproject.org/c/s/www.wowt.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/?outputType=amp",
+      "publishedDateTime": "2022-09-02T22:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WOWT",
+        "domain": "wowt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-03-these-cute-robots-could-deliver-your-next-coffee.md",
       "title": "These cute robots could deliver your next coffee",
       "excerpt": "Hong Kong startup Rice Robotics' delivery bot Rice is designed to assist in settings like cafes and hotels. It's already serving up drinks around the city -- and the company hopes it will help to bring about a robot revolution in the hospitality sector.",
@@ -664,49 +855,6 @@
       "provider": {
         "name": "SpaceRef",
         "domain": "spaceref.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-robots-and-artificial-intelligence-bring-nebraska-25-million.md",
-      "title": "Robots and artificial intelligence bring Nebraska $25 million",
-      "excerpt": "Satellite data, parsed by artificial intelligence speaking to drones, connecting to robots, maintained by a newly trained workforce. That’s what helped a Nebraska group, Heartland Robotics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.1011now.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/",
-      "originalUrl": "https://www.1011now.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-koln-prod.cdn.arcpublishing.com/resizer/Zfp3Bn5B2JvI53KmR3bIQ7fcKrs=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/VE6VSWSVDJECPD22OD77HHGIYU.bmp",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T15:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "1011 Now",
-        "domain": "1011now.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1058,154 +1206,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-distributed-training-with-amazon-eks-and-torch-distributed-elastic.md",
-      "title": "Distributed training with Amazon EKS and Torch Distributed Elastic",
-      "excerpt": "Distributed deep learning model training is becoming increasingly important as data sizes are growing in many industries. Many applications in computer vision and natural language processing now require training of deep learning models, which are growing exponentially in complexity and are often trained",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/distributed-training-with-amazon-eks-and-torch-distributed-elastic/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/distributed-training-with-amazon-eks-and-torch-distributed-elastic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/02/Featured-images-for-ML-9589.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T08:37:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-how-artificial-intelligence-can-explain-its-decisions.md",
-      "title": "How artificial intelligence can explain its decisions",
-      "excerpt": "Today, when an algorithm identifies a tumour in a tissue sample, it doesn’t reveal how it arrived at this result. And that’s not very trustworthy. Researchers in Bochum are therefore pursuing a new approach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/963644",
-      "originalUrl": "https://www.eurekalert.org/news-releases/963644",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/bc5e8a87-496d-4021-8859-1d7a822ea861/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-four-ways-voice-recognition-will-improve-healthcare.md",
-      "title": "Four Ways Voice Recognition Will Improve Healthcare",
-      "excerpt": "The severe stress our health system endured restricted its capacity to respond as fully and quickly as it may have in the pre-pandemic era. Thus, consumers often looked elsewhere to find answers to their pressing questions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/02/four-ways-voice-recognition-will-improve-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/02/four-ways-voice-recognition-will-improve-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6310bd9b5bc94a00b06398ad/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/02/four-ways-voice-recognition-will-improve-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/02/four-ways-voice-recognition-will-improve-healthcare/amp/",
-      "publishedDateTime": "2022-09-02T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8eed5e70-39e1-43fc-8acb-e5ce70a6127d/Rendition/low-res/Content/Public"

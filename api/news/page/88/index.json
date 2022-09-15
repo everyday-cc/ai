@@ -2,6 +2,153 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2022-07-01-ai-predicts-crime-a-week-in-advance-with-90-per-cent-accuracy-but-may-also-perpetuate-racist-bias.md",
+      "title": "AI predicts crime a week in advance with 90 per cent accuracy - but may also perpetuate racist bias",
+      "excerpt": "London-based startup Facesoft has been training an AI on micro-expressions seen on the faces of real-life people, as well as in a database of 300 million expressions. The firm has been in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-10972437/AI-predicts-crime-week-advance-90-cent-accuracy-perpetuate-racist-bias.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10972437/AI-predicts-crime-week-advance-90-cent-accuracy-perpetuate-racist-bias.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2022/07/01/11/59749759-0-image-a-4_1656671558012.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-10972437/amp/AI-predicts-crime-week-advance-90-cent-accuracy-perpetuate-racist-bias.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10972437/amp/AI-predicts-crime-week-advance-90-cent-accuracy-perpetuate-racist-bias.html",
+      "publishedDateTime": "2022-07-01T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-meta-was-restricting-abortion-content-all-along.md",
+      "title": "Meta Was Restricting Abortion Content All Along",
+      "excerpt": "Jessica Ensley, digital outreach and opposition research director ... by mail” on Facebook in English from the US. The post was not flagged. “Content moderation with AI and machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/meta-abortion-content-restriction/",
+      "originalUrl": "https://www.wired.com/story/meta-abortion-content-restriction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/62be29b451f58063018c359f/master/pass/Meta-Restricting-Abortion-Content-Business-1145262125.jpg",
+          "width": 2400,
+          "height": 1602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/meta-abortion-content-restriction/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/meta-abortion-content-restriction/amp",
+      "publishedDateTime": "2022-07-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-the-quest-to-understand-every-voice-globally.md",
+      "title": "The quest to understand every voice globally",
+      "excerpt": "In a quest to enable a computer to understand every voice in the world. DeepMind: Why is AI so good at language? It's something in language itself AI experts are in short supply. That's making the skills crisis worse I tried Google's AI job interview practice tool,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-quest-to-understand-every-voice-globally/",
+      "originalUrl": "https://www.zdnet.com/article/the-quest-to-understand-every-voice-globally/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/fab81b6cb70cacb1df2180b9f57ea7a70a53322f/2021/07/05/b03a0bb3-bf3c-409b-8f48-3a11832bd40f/text-to-speech-ai.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-quest-to-understand-every-voice-globally/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-quest-to-understand-every-voice-globally/",
+      "publishedDateTime": "2022-07-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-01-soldiers-vs-robots-in-the-british-armys-latest-recruitment-campaign.md",
       "title": "Soldiers VS robots in the British Army’s latest recruitment campaign",
       "excerpt": "The British Army has launched a new recruitment drive featuring robots, as reported on Friday July 1. Soldiers have been pitted against robots in the",
@@ -946,117 +1093,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-secure-amazon-sagemaker-studio-presigned-urls-part-1-foundational-infrastructure.md",
-      "title": "Secure Amazon SageMaker Studio presigned URLs Part 1: Foundational infrastructure",
-      "excerpt": "You can access Amazon SageMaker Studio notebooks from the Amazon SageMaker console via AWS Identity and Access Management (IAM) authenticated federation from your identity provider (IdP), such as Okta. When a Studio user opens the notebook link, Studio validates the federated user’s IAM policy to authorize",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/secure-amazon-sagemaker-studio-presigned-urls-part-1-foundational-infrastructure/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/secure-amazon-sagemaker-studio-presigned-urls-part-1-foundational-infrastructure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T12:36:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-vistapath-raises-4m-to-modernize-pathology-labs-using-computer-vision-and-artificial-intelligence.md",
-      "title": "VistaPath Raises $4M to Modernize Pathology Labs Using Computer Vision and Artificial Intelligence",
-      "excerpt": "VistaPath’s Sentinel is a first-of-its-kind pathology processing platform designed to seamlessly deliver a range of solutions for critical lab processes. The company’s first application, released in 2021,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-14aa9b44b30cd6d9a7743b608c993e98",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-14aa9b44b30cd6d9a7743b608c993e98",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-center-for-identification-technology-research-celebrates-20th-year.md",
-      "title": "Center for Identification Technology Research Celebrates 20th Year",
-      "excerpt": "The Center for Identification Technology Research (CITeR), based at Clarkson University, is celebrating its 20th year. CITeR, which performs research in the growing areas of identity science and biometric recognition,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-science-biometrics-02b57bc7190e2158c2397a060526b0a5",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-science-biometrics-02b57bc7190e2158c2397a060526b0a5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

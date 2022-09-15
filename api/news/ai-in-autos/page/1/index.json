@@ -358,7 +358,7 @@
       "originalUrl": "https://www.cnbc.com/2022/09/12/gms-self-driving-car-unit-to-offer-driverless-rides-in-phoenix-austin-this-year.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -486,49 +486,6 @@
         "AI",
         "AI Hardware",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-10-artificial-intelligence-is-now-used-to-track-down-hate-speech.md",
-      "title": "Artificial intelligence is now used to track down hate speech",
-      "excerpt": "Meta took action on more than 15 million pieces of hate speech content on Facebook. Roughly 95% of that was detected proactively by Facebook with the help of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox13now.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech",
-      "originalUrl": "https://www.fox13now.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.newsy.com/images/videos/m/1660250991_F4WYcV.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox13now.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true",
-      "cdnAmpWebUrl": "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true",
-      "publishedDateTime": "2022-09-09T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSTU",
-        "domain": "fox13now.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -914,6 +871,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-07-how-self-service-business-intelligence-is-changing-the-retail-industry.md",
+      "title": "How self-service business intelligence is changing the retail industry",
+      "excerpt": "THE ARTICLES ON THESE PAGES ARE PRODUCED BY BUSINESS REPORTER, WHICH TAKES SOLE RESPONSIBILITY FOR THE CONTENTS",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/news/business/business-reporter/business-intelligence-changing-retail-industry-b2161843.html",
+      "originalUrl": "https://www.independent.co.uk/news/business/business-reporter/business-intelligence-changing-retail-industry-b2161843.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2022/09/07/14/Main%20image%20-%20Blueprint%20Software%20Systems%20-%20iStock-1358835459.jpg?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.co.uk/news/business/business-reporter/business-intelligence-changing-retail-industry-b2161843.html",
+      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/news/business/business-reporter/business-intelligence-changing-retail-industry-b2161843.html",
+      "publishedDateTime": "2022-09-07T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-07-developing-artificial-intelligence-for-medical-devices.md",
       "title": "Developing Artificial Intelligence for Medical Devices",
       "excerpt": "However, a Canadian company specializing in artificial intelligence (AI)-based monitoring of the spread of infectious diseases had already warned its customers of the risk of an epidemic in China as early as December 2019. 1 The warning had been derived ...",
@@ -1201,6 +1201,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-04-smart-driving-innovations-debut-at-the-waic.md",
+      "title": "Smart driving innovations debut at the WAIC",
+      "excerpt": "The innovations are essential to achieve bigger targets such as fully autonomous driving and new-energy vehicle high efficiency for a low-carbon society. Most importantly, the technology shown at WAIC 2022 is available and accessible now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.shine.cn/news/in-focus/2209030031/",
+      "originalUrl": "https://www.shine.cn/news/in-focus/2209030031/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://obj.shine.cn/files/2022/09/03/71a44ea6-9869-4265-a710-e430ef096202_0.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-03T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SHINE",
+        "domain": "shine.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-03-taking-a-ride-in-a-driverless-taxi-in-chinas-chongqing.md",
       "title": "Taking a ride in a driverless taxi in China's Chongqing",
       "excerpt": "There are five fully driverless Apollo Go robotaxis plying this district in the south-west of Chongqing. Nine others have a human safety driver on board, bringing the total number of the company's ...",
@@ -1392,50 +1435,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-self-driving-tech-company-says-a-sale-to-apple-or-microsoft-is-possible.md",
-      "title": "Self-driving tech company says a sale to Apple or Microsoft is possible",
-      "excerpt": "Chris Urmson, who co-founded Aurora after running Google's self-driving car project, also outlined cost cuts and floated measures including taking the company private, spinning off or selling assets and pursuing a small capital raise in a memo labeled \"board discussion pre-read\" dated Aug.",
-      "sourceUrl": null,
-      "webUrl": "https://europe.autonews.com/suppliers/self-driving-tech-company-says-sale-apple-or-microsoft-possible",
-      "originalUrl": "https://europe.autonews.com/suppliers/self-driving-tech-company-says-sale-apple-or-microsoft-possible",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/AAurora-MAIN_i.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

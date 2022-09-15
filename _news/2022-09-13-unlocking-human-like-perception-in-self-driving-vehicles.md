@@ -6,7 +6,7 @@ publishedDateTime: 2022-09-13T00:00:00Z
 originalUrl: "https://www.eurekalert.org/news-releases/964648"
 webUrl: "https://www.eurekalert.org/news-releases/964648"
 type: article
-quality: 4
+quality: 6
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Computer Vision
 
 related:
   - title: "CEO of self-driving car company admits that humans may always be part of the equation"

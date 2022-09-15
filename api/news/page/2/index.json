@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-14-how-whitelab-genomics-is-using-ai-to-aid-gene-and-cell-therapy-development.md",
+      "title": "How WhiteLab Genomics is using AI to aid gene and cell therapy development",
+      "excerpt": "WhiteLab Genomics provides gene and cell therapy companies with predictive software simulations to expedite the design of gene and cell therapies.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/12/how-whitelab-genomics-is-using-ai-to-aid-gene-and-cell-therapy-development/",
+      "originalUrl": "https://techcrunch.com/2022/09/12/how-whitelab-genomics-is-using-ai-to-aid-gene-and-cell-therapy-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1311467129-e1663013508266.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/12/how-whitelab-genomics-is-using-ai-to-aid-gene-and-cell-therapy-development/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/12/how-whitelab-genomics-is-using-ai-to-aid-gene-and-cell-therapy-development/amp/",
+      "publishedDateTime": "2022-09-13T13:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-facebooks-pytorch-ai-ignites-at-the-linux-foundation.md",
       "title": "Facebook's PyTorch AI ignites at the Linux Foundation",
       "excerpt": "PyTorch, one of the most important machine learning frameworks around, is moving from underneath Facebook's rule to the Linux Foundation.",
@@ -823,7 +875,7 @@
       "originalUrl": "https://www.cnbc.com/2022/09/12/gms-self-driving-car-unit-to-offer-driverless-rides-in-phoenix-austin-this-year.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -918,7 +970,7 @@
       "originalUrl": "https://www.foxbusiness.com/technology/biden-hit-china-broader-curbs-us-chip-tool-exports",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1198,49 +1250,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-london-has-raised-more-fintech-investment-than-any-other-global-hub.md",
-      "title": "London Has Raised More Fintech Investment Than Any Other Global Hub",
-      "excerpt": "MoneyTransfers.com reports that London has successfully attracted the most fintech investment, reaching $3.1 billion in 2022. Jonathan Merry, CEO of MoneyTransfers.com, commented on the report: \"The U.",
-      "sourceUrl": null,
-      "webUrl": "https://techround.co.uk/finance/london-raises-more-fintech-investment/",
-      "originalUrl": "https://techround.co.uk/finance/london-raises-more-fintech-investment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techround.co.uk/wp-content/uploads/2021/04/investment-2021.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techround.co.uk/finance/london-raises-more-fintech-investment/amp/",
-      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/finance/london-raises-more-fintech-investment/amp/",
-      "publishedDateTime": "2022-09-12T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRound",
-        "domain": "techround.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

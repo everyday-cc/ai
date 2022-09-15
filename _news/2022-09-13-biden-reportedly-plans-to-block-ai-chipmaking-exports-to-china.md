@@ -72,6 +72,20 @@ related:
       name: Investing
       domain: investing.com
     quality: 22
+  - title: "Broader US chips export curb to propel Chinese replacement in autonomous driving: experts"
+    excerpt: "China's fast-growing autonomous driving sector could be the latest target under a broader US ban on exports to China. But experts said frequent US technology crackdowns have pushed local companies to accelerate research and development of domestic replacements."
+    publishedDateTime: 2022-09-11T16:00:00Z
+    webUrl: "https://www.globaltimes.cn/page/202209/1275163.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 15
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-08-17/506f8935-b6d2-4b55-9312-af89e28ad0e0.jpeg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "US intends to broaden restrictions on semiconductor shipments to China for artificial intelligence and chipmaking tools - source"
     excerpt: "THE US INTENDS TO BROADEN RESTRICTIONS ON SEMICONDUCTOR SHIPMENTS TO CHINA FOR ARTIFICIAL INTELLIGENCE AND CHIPMAKING TOOLS - SOURCE."
     publishedDateTime: 2022-09-11T23:07:00Z

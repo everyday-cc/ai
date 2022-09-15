@@ -2,6 +2,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-06-03-how-to-invest-in-artificial-intelligence-3-companies-to-watch.md",
+      "title": "How to Invest in Artificial Intelligence -- 3 Companies to Watch",
+      "excerpt": "Artificial Intelligence has long been a staple of ... From the sudden reality of driverless cars to Siri's clever retorts on the iPhone, AI is a bigger part of our lives than ever.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
+      "originalUrl": "https://www.thestreet.com/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTY4NjM5Njk3NDkxNDA0NDIz/how-to-invest-in-artificial-intelligence----3-companies-to-watch.jpg",
+          "width": 619,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
+      "publishedDateTime": "2022-06-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-02-state-dropping-artificial-intelligence-tool-used-in-child-abuse-cases.md",
       "title": "State dropping artificial intelligence tool used in child abuse cases",
       "excerpt": "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will",
@@ -1278,58 +1321,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-asian-markets-rise-encouraged-by-earnings-and-wall-streets-rally.md",
-      "title": "Asian markets rise, encouraged by earnings and Wall Street’s rally",
-      "excerpt": "“Improved risk sentiments in Wall Street, along with earnings outperformance from Alibaba and Baidu, may aid to fuel ... banks and retailers driving much of the rally. While trading has remained ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/asian-markets-rise-encouraged-by-earnings-and-wall-streets-rally-01653623800",
-      "originalUrl": "https://www.marketwatch.com/story/asian-markets-rise-encouraged-by-earnings-and-wall-streets-rally-01653623800",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-552884/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/asian-markets-rise-encouraged-by-earnings-and-wall-streets-rally-01653623800",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/asian-markets-rise-encouraged-by-earnings-and-wall-streets-rally-01653623800",
-      "publishedDateTime": "2022-05-26T21:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

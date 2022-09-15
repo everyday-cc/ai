@@ -1,29 +1,23 @@
 ---
 category: news
-title: "Aignostics Raises €14M Series A To Advance AI-Powered Pathology"
-excerpt: "Oversubscribed financing round with top-tier life science investors, led by Wellington Partners   Spin-off from Charité – Univers"
-publishedDateTime: 2022-09-15T07:56:00Z
-originalUrl: "https://menafn.com/1104869025/Aignostics-Raises-14M-Series-A-To-Advance-AI-Powered-Pathology"
-webUrl: "https://menafn.com/1104869025/Aignostics-Raises-14M-Series-A-To-Advance-AI-Powered-Pathology"
+title: "Aignostics Raises €14m Series A to Advance AI-powered Pathology"
+excerpt: "Aignostics, a spin-off from Charité – Universitätsmedizin Berlin, developing novel digital pathology solutions with “Explainable AI” for pharmaceutical research and diagnostics, today announced the closing of an oversubscribed €14m Series A financing round."
+publishedDateTime: 2022-09-15T08:24:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-aignostics-raises-14m-series-to-advance-ai-powered-/2022/09/15/9674101.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-aignostics-raises-14m-series-to-advance-ai-powered-/2022/09/15/9674101.htm"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: MENAFN
-  domain: menafn.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI
   - AI Hardware
+  - AI
 
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?667073"
-    width: 375
-    height: 250
-    isCached: true
-
-secured: "l3E4w7Ig/TuCVOsbKLdUMB7seBq0tTE0fv2s++K4dsCCez3RG0EZACQsmkBvCGQpRhubVEJR7pO/ghpi8UI6USMHW6xGVCua8d6ClYrRhIFsdgr+BqSJ5/a1dMdlMgXSCqWIwd9VmRbwOLIQ2IMFZYXsKH6sL2j7/sHc5k9zjV5+X3p2A9kSTjZOsIQCdeIwPHHTCT6KdlxGiRLjVUmI6VWkA9RITu+mYxCDcFcm8f+FFCWQuQVqCRjvHBOLQu2AniDuPJjtrf0j/eGINP7kmaL4ZRZkZ4gPV531rPvUaFCp5pSW0ysO25ZV5l4jEKv1XpqxGZlpiq31RmYdjVvFhA0DORJEdO2FXXMBrQeYhxE=;bT1o5yqRSHVFsgBZOSIw2A=="
+secured: "AFby3KayYL2d7Cgxiv4SSf1kDUkHPDaSQ/6mckuYAHGduq/oBX9M5TdP+GMPamo79IzqUlchtvtnkm8o4KgDBzcbKZTxDvc6v1sw/xfoYlbOqWptmRCm3GtvSad698hG0vNWO37uoLzaIDRSyCpbs9oFAry3FY91EZ0vC72ccz8M4E+lJWsj0waBBAeGwk6+PcF7geNtoO0fXtLuchfa8Qd3yP9y5iJDy/5YZmGV6TeGGsjHGkLoz/uPpQ8ak0sB07vs/RPMe4Uzg04IE/3bcAaAFhAhynfHuDNxGOMbUlz5hH1/A5TpxRr8qVdnsYHsrpswu91vYgMGMfuIADQ0827M1AbaMe6NV7Q8WeygMMg=;aoFp6IIVWUnpZmOobtDzIQ=="
 ---
 

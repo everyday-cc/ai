@@ -7,7 +7,7 @@ originalUrl: "https://www.geekwire.com/calendar-event/how-ai-is-being-developed-
 webUrl: "https://www.geekwire.com/calendar-event/how-ai-is-being-developed-at-opm-for-cybersecurity-threats/"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://www.hackread.com/wp-content/uploads/2022/09/why-artificial-intelligence-must-cybersecurity.jpg"
         width: 1200
         height: 700
+        isCached: true
+  - title: "The Artificial Intelligence and Cybersecurity Nexus: Taking Stock of the European Union’s Approach"
+    excerpt: "The EU’s AI-cybersecurity ecosystem remains highly fragmented. To realize its technological leadership ambitions, the bloc must connect the dots between its myriad initiatives, processes, and stakeholders."
+    publishedDateTime: 2022-09-15T09:05:00Z
+    webUrl: "https://carnegieeurope.eu/2022/09/15/artificial-intelligence-and-cybersecurity-nexus-taking-stock-of-european-union-s-approach-pub-87886"
+    type: article
+    provider:
+      name: Carnegie Europe
+      domain: carnegieeurope.eu
+    quality: 27
+    images:
+      - url: "https://images.carnegieendowment.org/images/article_images/1420x770_Europe_s_Digital_Future_Vestager_Breton_-_GettyImages-1201843775.jpg"
+        width: 1420
+        height: 770
         isCached: true
   - title: "Alphabet spinoff SandboxAQ acquires cybersecurity and encryption startup Cryptosense"
     excerpt: "Cryptosense offers cryptography management software designed to protect sensitive data against data breaches. Pitched as cryptography management at the speed of DevOps, the Cryptosense platform provides full visibility into cryptography during development and a full inventory in production."

@@ -2,27 +2,27 @@
 category: news
 title: "GM Driverless Car Unit Recalls Vehicles After Accident"
 excerpt: "The company, which is the first to have deployed driverless taxis in San Francisco in June, sent a notice this week to the US agency in charge of road safety, the National Highway Traffic Safety ..."
-publishedDateTime: 2022-09-01T23:58:00Z
-originalUrl: "https://www.ibtimes.com/gm-driverless-car-unit-recalls-vehicles-after-accident-3608505"
-webUrl: "https://www.ibtimes.com/gm-driverless-car-unit-recalls-vehicles-after-accident-3608505"
-ampWebUrl: "https://www.ibtimes.com/gm-driverless-car-unit-recalls-vehicles-after-accident-3608505?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/gm-driverless-car-unit-recalls-vehicles-after-accident-3608505?amp=1"
+publishedDateTime: 2022-09-01T23:55:00Z
+originalUrl: "https://www.barrons.com/news/gm-driverless-car-unit-recalls-vehicles-after-accident-01662073208"
+webUrl: "https://www.barrons.com/news/gm-driverless-car-unit-recalls-vehicles-after-accident-01662073208"
+ampWebUrl: "https://www.barrons.com/amp/news/gm-driverless-car-unit-recalls-vehicles-after-accident-01662073208"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/gm-driverless-car-unit-recalls-vehicles-after-accident-01662073208"
 type: article
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Barron's
+  domain: barrons.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://d.ibtimes.com/en/full/3811638/general-motors-cruise-self-driving-car-designed-operate-its-own-no-driver-steering-wheel.jpg"
+  - url: "https://www.barrons.com/asset/external-media/afp/AFP2285444600617506092797774724789234518202---1.jpg"
     width: 768
     height: 512
     isCached: true
 
-secured: "vW/oZp5UxAD8zC0brNVbHqIM+vKbG4tVCavJipdC/m89EMZWToosrXNWLxsJ1JC+UsHM24yClPkIMeUJ1BcxEOTSpGPIZrSwakrqlfs8L/s9eJpO+1Em7gVqcz3Ns7cCmh8iYaqF7QAsNLoQ46XBxA1WpNemHEJwxxbJoTdemyikcIFkqGvbPGpSkbaovK8tbSP4ZjzIKQJ4DwHVhEnBoVKQECgdCc90WCAjQJlKzoUOenPaKYyNbxylAa4dHNe3DLmGn7NHGWbXnf+DvQQX6ymBa93nOEMj8Pu43+k0wRxFvwdB+NlpWJyfP23cRkXgqVqV9SYCX10bW1ZHqrnjNNuDoJvDfILgCtWiEQ+ZehM=;uia7TFWpC4hcZTn/GoqlOg=="
+secured: "msOH/My7uifAJxYHKify8KSg58gN3bfNbscaSeRoHBE8rB92VVx3YS12UcBtUh4GY7ls1wC/EkRxJ91vksX8sOcT1smpL+m8q65Ikro7glvaYYBsR9EkQqmrJ7xx152AmOissuBMe/LUYWfo/99rFMeaHNDsTHHlbDCxsdbWa7z4ATV1aJibx7O37Xs19Fjzf6Jl3qgCfEStweUZTKL7QUXlZ6vazNRzqvWE08nZQM2WoL43aVBB3f1rJbtdRPYGfEoxy0aUjBh5e+LcvY8BtyV9Yq1xg4c01DoQGSCP7PnPnqTx3PA4PxvjSfxOBUYeLp4N0U9JCA48YACxPIVn6ZB/jHsNP4836eIIvDRrSaU=;bBtgfwbIHzGlGw7kv6j0VA=="
 ---
 

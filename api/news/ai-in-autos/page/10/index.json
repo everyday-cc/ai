@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-07-21-self-driving-car-market-2022-insights-on-size-share-application-and-forecast-assumptions-2030.md",
+      "title": "Self-Driving Car Market 2022 Insights on Size, Share, Application and Forecast Assumptions 2030",
+      "excerpt": "A self-driving car also known as the driverless car or an autonomous car or robotic car uses a combination of, cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-2022-insights-on-size-share-application-and-forecast-assumptions-2030-2022-07-21?mod=search_headline",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-2022-insights-on-size-share-application-and-forecast-assumptions-2030-2022-07-21?mod=search_headline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T18:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-21-tesla-surpasses-35-million-miles-driven-on-full-self-driving-beta-pace-is-ramping-up.md",
       "title": "Tesla surpasses 35 million miles driven on Full Self-Driving Beta, pace is ramping up",
       "excerpt": "Tesla is reporting that its fleet of customers driving with the Full Self-Driving (FSD) Beta has now surpassed 35 million miles driven and the pace is ramping up. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,",
@@ -1254,49 +1306,6 @@
         "AI",
         "AI in Marketing",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-apples-self-driving-electric-car-efforts-still-remain-stalled-report.md",
-      "title": "Apple's self-driving, electric car efforts still remain stalled: Report",
-      "excerpt": "Apple had first revealed its self-driving tech aspirations in 2016 and since then saw autonomous driving systems as a core technology for the future.",
-      "sourceUrl": null,
-      "webUrl": "https://auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report-41657594877454.html",
-      "originalUrl": "https://auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report-41657594877454.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/auto/img/2022/07/12/1600x900/Apple_car_1657603020858_1657603167004_1657603167004.JPG",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report/amp-41657594877454.html",
-      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report/amp-41657594877454.html",
-      "publishedDateTime": "2022-07-11T22:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

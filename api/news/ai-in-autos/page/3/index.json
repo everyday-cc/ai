@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-30-will-robots-take-your-job-how-artificial-intelligence-will-change-the-future-of-work.md",
+      "title": "Will Robots Take Your Job? How Artificial Intelligence Will Change the Future of Work",
+      "excerpt": "Artificial intelligence is already affecting nearly every workplace in the country. Here's how the future of AI may shape the workplace of tomorrow. When most people think of artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.rd.com/article/future-of-ai/",
+      "originalUrl": "https://www.rd.com/article/future-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rd.com/wp-content/uploads/2022/08/RD-robots-taking-jobs-GettyImages-1356768388-578183815-JVedit.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reader's Digest",
+        "domain": "rd.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-panera-bread-tests-artificial-intelligence-technology-in-drive-thru-lanes.md",
       "title": "Panera Bread tests artificial intelligence technology in drive-thru lanes",
       "excerpt": "Two Panera Bread locations in upstate New York are testing artificial intelligence technology that takes drive-thru orders. Restaurants have been investing in improving the drive-thru experience ...",
@@ -1356,40 +1401,6 @@
       "provider": {
         "name": "Business Times",
         "domain": "businesstimes.com.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-how-to-use-artificial-intelligence-to-predict-cryptocurrency-price-trends.md",
-      "title": "How To Use Artificial Intelligence To Predict Cryptocurrency Price Trends",
-      "excerpt": "Artificial intelligence (AI) has become an essential tool for cryptocurrency traders looking to remain one step ahead of their competition. By integrating various data sources and advanced ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2022/08/how-to-use-artificial-intelligence-to-predict-cryptocurrency-price-trends.html",
-      "originalUrl": "https://www.androidheadlines.com/2022/08/how-to-use-artificial-intelligence-to-predict-cryptocurrency-price-trends.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "androidheadlines.com",
-        "domain": "androidheadlines.com",
         "images": null,
         "publishers": null,
         "authors": null
