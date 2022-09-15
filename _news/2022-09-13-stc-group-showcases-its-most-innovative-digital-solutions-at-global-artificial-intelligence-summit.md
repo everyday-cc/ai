@@ -34,6 +34,15 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 20
+  - title: "2022 Global AI summit begins with the launch of international initiatives"
+    excerpt: "Summit, hosted by the Saudi Data and Artificial Intelligence Authority (SDAIA), is set to convene more than 200 speakers from 90 countries and 10,000 participants.. 2022 Global AI summit begins with the launch of international initiatives."
+    publishedDateTime: 2022-09-15T05:45:00Z
+    webUrl: "https://www.itp.net/emergent-tech/2022-global-ai-summit-begins-with-the-launch-of-international-initiatives"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 18
 
 secured: "+i1OY35Rum4SvfKqIfUIOOzzuiufn8QGhvgL9s0xoWwPxjVOJGBl+wqYVKb8EdnO2ASNGc8tRZJVNePmqz2iexYsuKWoeLJ42ZlRCmlEU0nvZF+410g5nAPiuuBg6CMHOMq/0Cl+s9e7XdrdBHBDuZwLykjOZFHZc+jkEtFGUGIXP+vKBNHVNzgv5kxOxuabHK9gbtRDy6NpOI3Z4f2sxNYWt3kYEwTpahgnQ9Lq0HiKpe9Qgd04PfuytvccIG274GtKYdoBXYMzbZdUHrpkj5PMlEzligT/cuC/A8iZWgz/7zZAIY90FRaf4xQVS05P1nLU/cz8+hN2FJyE5ABvRQsjjr0dcwj1157Mpdx4cd0=;dzw/W7TF6QsJBOhOXQVTpQ=="
 ---

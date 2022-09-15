@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-15-axiomtek-launches-edge-computer-with-dual-gpu-expansion-for-ai-accelerated-processing-ipc972.md",
+      "title": "Axiomtek Launches Edge Computer with Dual GPU Expansion for AI Accelerated Processing - IPC972",
+      "excerpt": "Axiomtek - a world-renowned leader relentlessly devoted in the research, development, and manufacturing of innovative and reliable industrial computer products of high efficiency – is proud to introduce the IPC972,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/axiomtek-launches-edge-computer-with-dual-gpu-expansion-for-ai-accelerated-processing-ipc972-1031744564",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/axiomtek-launches-edge-computer-with-dual-gpu-expansion-for-ai-accelerated-processing-ipc972-1031744564",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1899399/image_5019367_4377470.jpg",
+          "width": 400,
+          "height": 229,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T00:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-09-15-silicon-valley-startup-sambanova-offers-new-ai-system-triples-previous-system-speed.md",
       "title": "Silicon Valley startup SambaNova offers new AI system, triples previous system speed",
       "excerpt": "While the subscription model could potentially put a heavy financial burden on SambaNova as it would own the hardware, the company has raised over $1 ..",
@@ -52,7 +104,7 @@
       "originalUrl": "https://techcrunch.com/2022/09/14/perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -92,7 +144,9 @@
       ],
       "topics": [
         "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "Computer Vision",
+        "Google AI"
       ]
     },
     {
@@ -104,7 +158,7 @@
       "originalUrl": "https://www.autoblog.com/2022/09/14/tesla-lawsuit-autopilot-full-self-driving/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -238,48 +292,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-using-artificial-intelligence-to-improve-tuberculosis-treatments.md",
-      "title": "Using artificial intelligence to improve tuberculosis treatments",
-      "excerpt": "Imagine you have 20 new compounds that have shown some effectiveness in treating a disease like tuberculosis (TB), which affects 10 million people worldwide and kills 1.5 million each year. For effective treatment,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.html",
-      "originalUrl": "https://phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/using-artificial-intel-9.jpg",
-          "width": 2880,
-          "height": 2225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.amp",
-      "publishedDateTime": "2022-09-14T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },

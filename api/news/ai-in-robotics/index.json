@@ -10,7 +10,7 @@
       "originalUrl": "https://techcrunch.com/2022/09/14/perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -50,7 +50,9 @@
       ],
       "topics": [
         "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "Computer Vision",
+        "Google AI"
       ]
     },
     {
@@ -643,6 +645,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-07-remote-controlled-robots-will-be-used-to-clean-up-edgewater-beach-lake-erie.md",
+      "title": "Remote-controlled robots will be used to clean up Edgewater Beach, Lake Erie",
+      "excerpt": "The “BeBot” is a remote-controlled robot that can rake and collect plastic litter, cans, food wrappers, or cigarettes at a pace of 32,000 square feet per hour, according to Meijer. The solar ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cleveland19.com/2022/09/07/remote-controlled-robots-will-be-used-clean-up-edgewater-beach-lake-erie/",
+      "originalUrl": "https://www.cleveland19.com/2022/09/07/remote-controlled-robots-will-be-used-clean-up-edgewater-beach-lake-erie/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-woio-prod.cdn.arcpublishing.com/resizer/-cYrEMxF1p1vu-vYmDFSNfKkI-U=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/44EDH5H7PJCITDDC4C45RXVWF4.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cleveland19.com/2022/09/07/remote-controlled-robots-will-be-used-clean-up-edgewater-beach-lake-erie/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-cleveland19-com.cdn.ampproject.org/c/s/www.cleveland19.com/2022/09/07/remote-controlled-robots-will-be-used-clean-up-edgewater-beach-lake-erie/?outputType=amp",
+      "publishedDateTime": "2022-09-07T02:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "19 Action News",
+        "domain": "cleveland19.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-07-from-farm-to-fork-thanks-to-ai-and-robots.md",
       "title": "From farm to fork, thanks to … AI and robots?",
       "excerpt": "Smart tech helps farmers optimally use water and fertilizer — especially important during severe drought. It might also reduce the need for workers in the fields.",
@@ -787,6 +832,58 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-germany-is-buying-robots-that-look-like-russian-tanks-to-practice-fighting-the-real-thing.md",
+      "title": "Germany is buying robots that look like Russian tanks to practice fighting the real thing",
+      "excerpt": "The robot vehicles can be operated by remote control or function autonomously. Indeed, they can move in formation to simulate enemy tactics. \"Twenty-plus 'enemy' vehicles can be programmed and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/germany-buys-robots-that-look-like-russian-tanks-for-training-2022-9",
+      "originalUrl": "https://www.businessinsider.com/germany-buys-robots-that-look-like-russian-tanks-for-training-2022-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6317a8ec5c870800189eda8c?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/germany-buys-robots-that-look-like-russian-tanks-for-training-2022-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/germany-buys-robots-that-look-like-russian-tanks-for-training-2022-9?amp",
+      "publishedDateTime": "2022-09-06T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1103,49 +1200,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-03-robots-and-artificial-intelligence-bring-nebraska-25-million.md",
-      "title": "Robots and artificial intelligence bring Nebraska $25 million",
-      "excerpt": "Satellite data, parsed by artificial intelligence speaking to drones, connecting to robots, maintained by a newly trained workforce. That’s what helped a Nebraska group, Heartland Robotics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wowt.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/",
-      "originalUrl": "https://www.wowt.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wowt-prod.cdn.arcpublishing.com/resizer/j3ozu318S27H0EgEpjOzPrK5n_4=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/753BZI42V5EVFGGBJEE57HFYYQ.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wowt.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wowt-com.cdn.ampproject.org/c/s/www.wowt.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/?outputType=amp",
-      "publishedDateTime": "2022-09-02T22:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WOWT",
-        "domain": "wowt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-03-these-cute-robots-could-deliver-your-next-coffee.md",
       "title": "These cute robots could deliver your next coffee",
       "excerpt": "Hong Kong startup Rice Robotics' delivery bot Rice is designed to assist in settings like cafes and hotels. It's already serving up drinks around the city -- and the company hopes it will help to bring about a robot revolution in the hospitality sector.",
@@ -1227,6 +1281,49 @@
       "provider": {
         "name": "SpaceRef",
         "domain": "spaceref.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-03-robots-and-artificial-intelligence-bring-nebraska-25-million.md",
+      "title": "Robots and artificial intelligence bring Nebraska $25 million",
+      "excerpt": "Satellite data, parsed by artificial intelligence speaking to drones, connecting to robots, maintained by a newly trained workforce. That’s what helped a Nebraska group, Heartland Robotics ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.1011now.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/",
+      "originalUrl": "https://www.1011now.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-koln-prod.cdn.arcpublishing.com/resizer/Zfp3Bn5B2JvI53KmR3bIQ7fcKrs=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/VE6VSWSVDJECPD22OD77HHGIYU.bmp",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-02T15:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "1011 Now",
+        "domain": "1011now.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1324,101 +1421,6 @@
         "name": "Phys.org",
         "domain": "phys.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-2022-world-artificial-intelligence-conference-held-in-shanghai.md",
-      "title": "2022 World Artificial Intelligence Conference held in Shanghai",
-      "excerpt": "A visitor experiences a massage robot at the 2022 World Artificial Intelligence Conference (WAIC) in east China's Shanghai, Sept. 1, 2022. With the theme of \"Intelligent Connectivity, Infinite Multiverse\",",
-      "sourceUrl": null,
-      "webUrl": "https://english.news.cn/20220901/e13917c10b6f4dfea4d3e9f1d31589d7/c.html",
-      "originalUrl": "https://english.news.cn/20220901/e13917c10b6f4dfea4d3e9f1d31589d7/c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://english.news.cn/20220901/e13917c10b6f4dfea4d3e9f1d31589d7/20220901e13917c10b6f4dfea4d3e9f1d31589d7_202209013037fa74d4df4de7b4bdc8e04a17b30c.jpg",
-          "width": 1024,
-          "height": 659,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-01T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Xinhua",
-        "domain": "news.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-meet-the-japanese-robot-who-stocks-drinks-at-the-corner-store.md",
-      "title": "Meet the Japanese Robot Who Stocks Drinks at the Corner Store",
-      "excerpt": "A robot in Tokyo named TX SCARA is helping stock drinks at FamilyMart convenience stores following a worker shortage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/434550",
-      "originalUrl": "https://www.entrepreneur.com/article/434550",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1662046330-robot-convience-stores-japan-getty.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-01T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
