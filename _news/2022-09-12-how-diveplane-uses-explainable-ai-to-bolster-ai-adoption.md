@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/how-diveplane-uses-explainable-ai-to-bols
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-diveplane-uses-explainable-ai-to-bolster-ai-adoption/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://wraltechwire.com/wp-content/uploads/2018/07/money-cash-venture-capital-e1564657723363.jpg"
         width: 960
         height: 540
+        isCached: true
+  - title: "MLOps Startup Diveplane Raises $25M Series A"
+    excerpt: "Diveplane, an MLOps startup based in Raleigh, N.C., has announced it raised $25 million in Series A funding. The company produces a suite of enterprise AI"
+    publishedDateTime: 2022-09-15T01:03:00Z
+    webUrl: "https://www.datanami.com/2022/09/14/mlops-startup-diveplane-raises-25m-series-a/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 37
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/robot_shutterstock_Phonlamai-Photo.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Explainable AI startup Diveplane raises $25M to help companies better understand machine learning algorithms"
     excerpt: "Explainable AI startup Diveplane raises $25M to help companies better understand machine learning algorithms - SiliconANGLE"

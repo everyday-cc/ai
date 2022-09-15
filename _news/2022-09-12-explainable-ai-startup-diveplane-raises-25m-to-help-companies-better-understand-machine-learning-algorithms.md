@@ -57,6 +57,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "MLOps Startup Diveplane Raises $25M Series A"
+    excerpt: "Diveplane, an MLOps startup based in Raleigh, N.C., has announced it raised $25 million in Series A funding. The company produces a suite of enterprise AI"
+    publishedDateTime: 2022-09-15T01:03:00Z
+    webUrl: "https://www.datanami.com/2022/09/14/mlops-startup-diveplane-raises-25m-series-a/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 37
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/robot_shutterstock_Phonlamai-Photo.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Artificial Intelligence Startup Diveplane Raises $25M in Series A Funding"
     excerpt: "Diveplane helps businesses and government organizations concerned with data privacy to better understand and leverage the power of their data through AI tools that are trainable, interpretable and auditable."
     publishedDateTime: 2022-09-12T12:02:00Z

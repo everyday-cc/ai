@@ -6,7 +6,7 @@ publishedDateTime: 2022-09-14T23:29:00Z
 originalUrl: "https://www.hackread.com/why-artificial-intelligence-must-cybersecurity/"
 webUrl: "https://www.hackread.com/why-artificial-intelligence-must-cybersecurity/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.hackread.com/wp-content/uploads/2022/09/why-artificial-intelligence-must-cybersecurity.jpg"
@@ -48,6 +49,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "RipsgVqT0LaZpXad+pdNaxhJUvvoE0rdE2oVRJjcOU+6Nx2zza00SFjS2hrZK15crdiNtvE9JwYpddHv6ICz7McNGuQc5uB+Rq4wrY/Li1rcM0nCwdmiDjPMqEz1B1fgtV9VHZfXGArnZgW9zhkGc57ovqggWZLsc5ma3yYt1nfXWJO/EPgfdG4+iv8d6GYcU9dwhc0T+0U+88FhvS2vFqmNT4ICTYTEKxS++PXeHH+GVnbHZSyD80Xy82BPnpbJrEk1PqbNPz6tvv9YnfFXINwm1PwqywJWfOn98BkeRougaoc/+vDt/mq/tLab0qMfHigwHRWoXc7Q+6ZN6/n/hb4On/QEcyfDAn1vZ3Hw6Rs=;dnqwQe+IPy+DKTTqv6no3g=="
+secured: "64lJqfwREBsSkHfX9lhMsztQbdy5XXSVVsczCET36ZdRttVN2uR2+0YX3HVfF+d0R7jkZ7mrCSbwaM2VJok2CKB2IXvht2SOPXbFBS9SVj8FimmXbkA9H6MnWdPvFZg7AjPugV8YdW3Jui2bilJAdAKMuWWK99nUVD0QZCdXHcjJIGnuZSai2rbFm+lHxOCpAE3yCkOEQhJ7emLOflrDlLEOoFleF7eOLnHro+gPH8WaKIJ9eE5eWAyXKn02w+K6mZjhxcvrzInLn/Yh5sTIlxK+31Bt5Hh2X+4JA+bGa5dW6ilkzPlxWDuLpoiKgEB+PXr/au3bEm043xf4/SDpp2OKw3Mkkw7ACcdqA5q/z0s2SLRLWzglOFvUX8xCm3EgzVLXEWXxJIhiARbaa7eaD/T9gaWkfiwHwWCdUNOUW1vI6BbuQGZN7rdld8dUkkl5B2nxWl9zhg81jT0MgXzRBzB7WoxWUgSj7JqF3NAeKKZiilgBmmPsXZpjYI4+Kqj53MBo74p117QPXzaI66xeAg==;WDj2jCpwzHsf0vz0S6pTWg=="
 ---
 

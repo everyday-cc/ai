@@ -101,15 +101,15 @@
       "title": "GM Driverless Car Unit Recalls Vehicles After Accident",
       "excerpt": "The company, which is the first to have deployed driverless taxis in San Francisco in June, sent a notice this week to the US agency in charge of road safety, the National Highway Traffic Safety ...",
       "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/gm-driverless-car-unit-recalls-vehicles-after-accident-3608505",
-      "originalUrl": "https://www.ibtimes.com/gm-driverless-car-unit-recalls-vehicles-after-accident-3608505",
+      "webUrl": "https://www.barrons.com/news/gm-driverless-car-unit-recalls-vehicles-after-accident-01662073208",
+      "originalUrl": "https://www.barrons.com/news/gm-driverless-car-unit-recalls-vehicles-after-accident-01662073208",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d.ibtimes.com/en/full/3811638/general-motors-cruise-self-driving-car-designed-operate-its-own-no-driver-steering-wheel.jpg",
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP2285444600617506092797774724789234518202---1.jpg",
           "width": 768,
           "height": 512,
           "title": null,
@@ -119,13 +119,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/gm-driverless-car-unit-recalls-vehicles-after-accident-3608505?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/gm-driverless-car-unit-recalls-vehicles-after-accident-3608505?amp=1",
-      "publishedDateTime": "2022-09-01T16:58:00-07:00",
+      "ampWebUrl": "https://www.barrons.com/amp/news/gm-driverless-car-unit-recalls-vehicles-after-accident-01662073208",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/gm-driverless-car-unit-recalls-vehicles-after-accident-01662073208",
+      "publishedDateTime": "2022-09-01T16:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
+        "name": "Barron's",
+        "domain": "barrons.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -169,6 +169,49 @@
       "provider": {
         "name": "Motley Fool Australia",
         "domain": "fool.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-mitsubishi-heavy-rolls-out-driverless-forklifts-in-automation-race.md",
+      "title": "Mitsubishi Heavy rolls out driverless forklifts in automation race",
+      "excerpt": "YOKOHAMA -- Mitsubishi Heavy Industries (MHI) on Thursday started selling driverless forklifts for warehouse operators grappling with rising e-commerce demand coupled with chronic labor shortages ...",
+      "sourceUrl": null,
+      "webUrl": "https://asia.nikkei.com/Business/Technology/Mitsubishi-Heavy-rolls-out-driverless-forklifts-in-automation-race",
+      "originalUrl": "https://asia.nikkei.com/Business/Technology/Mitsubishi-Heavy-rolls-out-driverless-forklifts-in-automation-race",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F8%252F1%252F4%252F4%252F42024418-1-eng-GB%252F20220831-IMG_4071.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-01T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ニッケイ・エイジア",
+        "domain": "nikkei.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1297,58 +1340,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-elon-musk-focused-on-getting-self-driving-teslas-in-wide-release-by-year-end.md",
-      "title": "Elon Musk: focused on getting self-driving Teslas in wide release by year-end",
-      "excerpt": "The world must continue to extract oil and gas in order to sustain civilisation, while continuing to also develop sustainable sources of energy, Tesla founder Elon Musk told reporters at a conference in Norway on Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/energy/elon-musk-says-world-still-needs-oil-gas-2022-08-29/",
-      "originalUrl": "https://www.reuters.com/business/energy/elon-musk-says-world-still-needs-oil-gas-2022-08-29/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/R4cQPqkeAFIqFa7vRkbVIZLmGzE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RNKFK5ENWZLSBKGNTC4P5OADEE.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -36,7 +36,7 @@ related:
     provider:
       name: hackread
       domain: hackread.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.hackread.com/wp-content/uploads/2022/09/why-artificial-intelligence-must-cybersecurity.jpg"
         width: 1200

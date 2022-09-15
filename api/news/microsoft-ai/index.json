@@ -788,6 +788,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-03-boy-8-paralyzed-in-highland-park-shooting-is-showing-signs-of-cognitive-loss-his-family-says.md",
+      "title": "Boy, 8, paralyzed in Highland Park shooting is showing signs of cognitive loss, his family says",
+      "excerpt": "An 8-year-old boy who was paralyzed in the Fourth of July parade mass shooting in Highland Park, Illinois, also appears to be showing signs of cognitive loss, his family said. Cooper Roberts ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/us-news/boy-paralyzed-highland-park-shooting-showing-signs-cognitive-loss-fami-rcna46061",
+      "originalUrl": "https://www.nbcnews.com/news/us-news/boy-paralyzed-highland-park-shooting-showing-signs-cognitive-loss-fami-rcna46061",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-09/220902-cooper-roberts-mn-1025-1617dc.jpg",
+          "width": 437,
+          "height": 436,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna46061",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna46061",
+      "publishedDateTime": "2022-09-02T19:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-03-self-driving-tech-firm-aurora-mulls-sale-to-apple-or-microsoft-bloomberg-news.md",
       "title": "Self-driving tech firm Aurora mulls sale to Apple or Microsoft - Bloomberg News",
       "excerpt": "Aurora Innovation Inc Chief Executive Chris Urmson recently outlined several options for the self-driving tech firm to combat challenging market conditions, including a possible sale to Apple Inc or Microsoft Corp ,",
@@ -1325,40 +1368,6 @@
       "provider": {
         "name": "Daily Mail",
         "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-voting-open-who-should-be-the-2022-most-influential-woman-in-uk-tech.md",
-      "title": "Voting open: Who should be the 2022 Most Influential Woman in UK Tech?",
-      "excerpt": "Each year, we ask our audience who should be named the most influential woman in UK technology. Tell us what you think.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252524478/Voting-open-Who-should-be-the-2022-Most-Influential-Woman-in-UK-Tech",
-      "originalUrl": "https://www.computerweekly.com/news/252524478/Voting-open-Who-should-be-the-2022-Most-Influential-Woman-in-UK-Tech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252524478/Voting-open-Who-should-be-the-2022-Most-Influential-Woman-in-UK-Tech?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252524478/Voting-open-Who-should-be-the-2022-Most-Influential-Woman-in-UK-Tech?amp=1",
-      "publishedDateTime": "2022-09-01T00:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
         "images": null,
         "publishers": null,
         "authors": null
