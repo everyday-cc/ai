@@ -26,57 +26,88 @@ images:
     isCached: true
 
 related:
-  - title: "Legal Software With Machine Learning Global Market To Reach $630 Million By 2026 With A CAGR Of 13.2%'"
-    excerpt: "The global legal software market is expected to grow from $0.33 billion in 2021 to $0.39 billion in 2022 at a compound annual growth rate (CAGR) of 16.6%. The change in growth trend is mainly due to the companies stabilizing their output after catering to the demand that grew exponentially during the COVID-19 pandemic in 2021."
-    publishedDateTime: 2022-09-12T17:36:00Z
-    webUrl: "https://menafn.com/1104850854/Legal-Software-With-Machine-Learning-Global-Market-To-Reach-630-Million-By-2026-With-A-CAGR-Of-132"
+  - title: "Healthcare Artificial Intelligence Market Research Report Analysis by Competition, Sales, Revenue, Market Size 2022 to 2028"
+    excerpt: "The \" Healthcare Artificial Intelligence Market Industry Research Report \" considers a thorough scenario of the market's size and market dynamics for the time period from 2022 to 2028. The purpose of the study is to assist stakeholders,"
+    publishedDateTime: 2022-09-12T13:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-research-report-analysis-by-competition-sales-revenue-market-size-2022-to-2028-2022-09-12"
     type: article
     provider:
-      name: MENAFN
-      domain: menafn.com
-    quality: 23
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?96728"
-        width: 444
-        height: 250
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Legal AI Software Market To Reach USD 8.2 Billion By 2031 From USD 4.9 Billion In 2022, At A CAGR Of 10.8% During The Forecast Period"
-    excerpt: "The Legal AI Software Market to reach USD 8.2 billion by 2031 from USD 4.9 billion in 2022, at a CAGR of 10.8% during the forecast period. Kenneth Research recently added a report on Legal AI Software Market which provides a detailed insight into the market scenario on the basis of the market size,"
-    publishedDateTime: 2022-09-12T08:21:00Z
-    webUrl: "https://menafn.com/1104847274/Legal-AI-Software-Market-To-Reach-USD-82-Billion-By-2031-From-USD-49-Billion-In-2022-At-A-CAGR-Of-108-During-The-Forecast-Period"
+  - title: "AI Market Size to Reach USD 1394.30 Billion by 2029"
+    excerpt: "The global AI market size is projected to grow from USD 387.45 billion in 2022 to USD 1394.30 billion in 2029 at a CAGR of 20.1% in the forecast period. Growing"
+    publishedDateTime: 2022-09-13T10:12:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28843325/ai-market-size-to-reach-usd-1394-30-billion-by-2029"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28843325"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28843325"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
+  - title: "Facial Recognition Market Research Insights With Upcoming Trends, Opportunities, Competitive Analysis, Forecast To 2022-2031"
+    excerpt: "The global facial recognition market size is expected to grow from an estimated value of USD 3.8 billion in 2022 to USD 8.5 billion by 2031, at a Compound Annual Growth Rate (CAGR) of 17.2% from 2022 to 2031."
+    publishedDateTime: 2022-09-14T17:44:00Z
+    webUrl: "https://menafn.com/1104865081/Facial-Recognition-Market-Research-Insights-With-Upcoming-Trends-Opportunities-Competitive-Analysis-Forecast-To-2022-2031"
     type: article
     provider:
       name: MENAFN
       domain: menafn.com
-    quality: 6
+    quality: 12
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?986325"
-        width: 323
-        height: 250
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?332140"
+        width: 287
+        height: 249
         isCached: true
-  - title: "Legal Software With Machine Learning Global Market to Reach $630 Million by 2026 with a CAGR of 13.2%"
-    excerpt: "The global legal software market is expected to grow from $0.33 billion in 2021 to $0.39 billion in 2022 at a compound annual growth rate (CAGR) of 16.6%. The change in growth trend is mainly due to the companies stabilizing their output after catering to the demand that grew exponentially during the COVID-19 pandemic in 2021."
-    publishedDateTime: 2022-09-12T16:22:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-legal-software-with-machine-learning-global-market-reach-/2022/09/12/9671408.htm"
+  - title: "5G In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application, By End-use, By Region And Segment Forecasts, 2022 - 2030"
+    excerpt: "Reportlinker.com announces the release of the report \"5G In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application, By End-use, By"
+    publishedDateTime: 2022-09-13T16:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28852772/5g-in-healthcare-market-size-share-trends-analysis-report-by-component-by-application-by-end-use-b"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28852772"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28852772"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
-  - title: "Automotive Voice Recognition Market To Reach US$ 2,413.9 Mn By 2031 From US$ 936.4 Mn In 2022, At A CAGR Of 13.2% During The Forecast Period"
-    excerpt: "The Automotive Voice Recognition Market to reach US$ 2,413.9 Mn by 2031 from US$ 936.4 Mn in 2022, at a CAGR of 13.2% during the forecast period. Kenneth Research recently added a report on Automotive Voice Recognition Market which provides a detailed insight into the market scenario on the basis of the market size,"
-    publishedDateTime: 2022-09-14T06:48:00Z
-    webUrl: "https://menafn.com/1104861293/Automotive-Voice-Recognition-Market-To-Reach-US-24139-Mn-By-2031-From-US-9364-Mn-In-2022-At-A-CAGR-Of-132-During-The-Forecast-Period"
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 1
+  - title: "Global Smart Shelves Market Report 2022: Growth in Demand for AI-Powered Dynamic Pricing Solutions Presents Opportunities - ResearchAndMarkets.com"
+    excerpt: "The global Smart Shelves market size is expected to grow from an estimated value of USD 3.0 billion in 2022 to USD 8.3 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 22.4% from 2022 to 2027."
+    publishedDateTime: 2022-09-12T08:19:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-b02877a988104136847a01e1c76eccc5"
     type: article
     provider:
-      name: MENAFN
-      domain: menafn.com
+      name: Associated Press
+      domain: apnews.com
     quality: 0
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?706507"
-        width: 375
-        height: 250
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
+  - title: "Insights on the Military Robots Global Market to 2027 - by Platform, Application, Mode of Operation and Region - ResearchAndMarkets.com"
+    excerpt: "The global military robots market size reached US$ 15.4 Billion in 2021. Looking forward, the publisher expects the market to reach US$ 29.7 Billion by 2027, exhibiting a CAGR of 11.57% during 2021-2027."
+    publishedDateTime: 2022-09-13T12:45:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-13-insights-on-the-military-robots-global-market-to-2027-by-platform-application-mode-of-operation-and-region-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
+  - title: "Cloud Advertising Market Research Report 2022 Growth, Recent Trends And Forecast To 2026 – Adobe, Oracle, Salesforce, Google, IBM"
+    excerpt: "SAP (Germany), Acquia (US), Demandbase (US), Experian (US), Kubient (US), FICO (US), HubSpot (US), Imagine Communications (US), InMobi (India), Marin"
+    publishedDateTime: 2022-09-14T20:10:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/ab28872311/cloud-advertising-market-research-report-2022-growth-recent-trends-and-forecast-to-2026-adobe-ora"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "aqNhE+h2Qh+29fdNeskMQpVcUYnbzxy8Gh+Zub2xdOeMDKtIezaU+++iFM1ez2iPvDe6MVtdCkw5IR3d1Sq1v/gtXZCgmQNGWW8LM7iEarD7DEzxSFXQE+5TZaofNZxPaOA3wOG3/kzauD90yBxRyQurEyeuJykspzaQbds7ZffY1mW80DleqeITKMaXIGMQKdT8ghgvddymFJ1OIubMVY/PH+jsKcaRQj48M0JmWXhtFu6ZiLgZKW70wKNxQM49UXlYZHQmDL/O4OGoIpnL9SYgS2s0fgOAzAGRXPT/90/CpSu5qXhGLu6eL8mWEw3vlXyGpMd9XBhieEdZmFuXx3GXu/7UEa47fcCWkpbO9Yc=;dc6S5Otu2ub+8n3FPeCX2Q=="
 ---

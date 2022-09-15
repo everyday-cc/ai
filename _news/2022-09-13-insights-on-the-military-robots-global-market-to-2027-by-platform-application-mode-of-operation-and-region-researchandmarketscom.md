@@ -19,23 +19,92 @@ topics:
   - AI
 
 related:
-  - title: "The Worldwide Artificial Intelligence Robots Industry is Expected to Reach $38.4 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "The \"Artificial Intelligence Robots Market Research Report by Offering (Hardware and Software), Robot Type, Technology, Deployment Mode, Application, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2022-09-13T11:06:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-13-the-worldwide-artificial-intelligence-robots-industry-is-expected-to-reach-384-billion-by-2027-researchandmarketscom"
+  - title: "Healthcare Artificial Intelligence Market Research Report Analysis by Competition, Sales, Revenue, Market Size 2022 to 2028"
+    excerpt: "The \" Healthcare Artificial Intelligence Market Industry Research Report \" considers a thorough scenario of the market's size and market dynamics for the time period from 2022 to 2028. The purpose of the study is to assist stakeholders,"
+    publishedDateTime: 2022-09-12T13:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-research-report-analysis-by-competition-sales-revenue-market-size-2022-to-2028-2022-09-12"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 9
-  - title: "Europe Fintech-as-a-Service Market to Grow at a 16.5% CAGR Through 2028 - ResearchAndMarkets.com"
-    excerpt: "The \"Europe Fintech-as-a-Service Market Size, Share & Industry Trends Analysis Report By Technology (Blockchain, API, Artificial Intelligence, RPA), By End Use, By Type, By Application, By Country and Growth Forecast,"
-    publishedDateTime: 2022-09-14T09:27:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-14-europe-fintech-as-a-service-market-to-grow-at-a-165-cagr-through-2028-researchandmarketscom"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Market Size to Reach USD 1394.30 Billion by 2029"
+    excerpt: "The global AI market size is projected to grow from USD 387.45 billion in 2022 to USD 1394.30 billion in 2029 at a CAGR of 20.1% in the forecast period. Growing"
+    publishedDateTime: 2022-09-13T10:12:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28843325/ai-market-size-to-reach-usd-1394-30-billion-by-2029"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28843325"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28843325"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
+  - title: "Microbiome Global Market Report 2022: Use Of Artificial Intelligence And Machine Learning Crucial For Future Growth - ResearchAndMarkets.com"
+    excerpt: "The global microbiome market reached a value of nearly $340.8 million in 2021, having increased at a compound annual growth rate (CAGR) of 14.8% since 2017. The market is expected to grow from $340.8 million in 2021 to $945."
+    publishedDateTime: 2022-09-13T11:41:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-4f08b67c667642e0a659bd866783a6bf"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 21
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Facial Recognition Market Research Insights With Upcoming Trends, Opportunities, Competitive Analysis, Forecast To 2022-2031"
+    excerpt: "The global facial recognition market size is expected to grow from an estimated value of USD 3.8 billion in 2022 to USD 8.5 billion by 2031, at a Compound Annual Growth Rate (CAGR) of 17.2% from 2022 to 2031."
+    publishedDateTime: 2022-09-14T17:44:00Z
+    webUrl: "https://menafn.com/1104865081/Facial-Recognition-Market-Research-Insights-With-Upcoming-Trends-Opportunities-Competitive-Analysis-Forecast-To-2022-2031"
+    type: article
+    provider:
+      name: MENAFN
+      domain: menafn.com
+    quality: 12
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?332140"
+        width: 287
+        height: 249
+        isCached: true
+  - title: "5G In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application, By End-use, By Region And Segment Forecasts, 2022 - 2030"
+    excerpt: "Reportlinker.com announces the release of the report \"5G In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application, By End-use, By"
+    publishedDateTime: 2022-09-13T16:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28852772/5g-in-healthcare-market-size-share-trends-analysis-report-by-component-by-application-by-end-use-b"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28852772"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28852772"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 1
+  - title: "Global Smart Shelves Market Report 2022: Growth in Demand for AI-Powered Dynamic Pricing Solutions Presents Opportunities - ResearchAndMarkets.com"
+    excerpt: "The global Smart Shelves market size is expected to grow from an estimated value of USD 3.0 billion in 2022 to USD 8.3 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 22.4% from 2022 to 2027."
+    publishedDateTime: 2022-09-12T08:19:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-b02877a988104136847a01e1c76eccc5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Cloud Advertising Market Research Report 2022 Growth, Recent Trends And Forecast To 2026 – Adobe, Oracle, Salesforce, Google, IBM"
+    excerpt: "SAP (Germany), Acquia (US), Demandbase (US), Experian (US), Kubient (US), FICO (US), HubSpot (US), Imagine Communications (US), InMobi (India), Marin"
+    publishedDateTime: 2022-09-14T20:10:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/ab28872311/cloud-advertising-market-research-report-2022-growth-recent-trends-and-forecast-to-2026-adobe-ora"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 0
 
 secured: "HbMHGgdd9JRcCc9hvC4h7liD7P+RnPGWBF8dASsuigj3sbYJ3QbXGgOZ4eZNVHdMoPRZO5kkJAtZ3ceXFqd+pEdMzZWP2TSvGbLN0OlUyO7SMx7T6etNw+6Z/o0hi0JGmWV5J3HjsrC+LQwild4YKITzWR66xWEifUDK01EvTkQB9tbiJWfRkwaxwkyw8W/g5MprJh9+3lLrx3Hno025D/BGoGzBjIGbShEDQAsDNwZ79IY+QN/NOieEDjbusFP7Rm7iPAIxR7Y3nFuoufLFUDG6DQMV4+n2g8TiVFegqy3fpPHQukVdQx0q2kkSgUhOGM/zLg+ZBMfCRVIAMWjMMkL5fRkYDfje+0r4sCEMk3Q=;XaeZfkmvbJj6/H2zId9NBQ=="

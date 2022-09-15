@@ -33,6 +33,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "AML Solutions Concerns for Challenger Banks and Fintech Firms"
+    excerpt: "Financial crime is a problem so oppressive, and global, that regulators are really cracking down, even on newer businesses such as challenger banks and fintech firms. Monzo, for example, is currently being investigated by the FCA for AML breaches and last year N26,"
+    publishedDateTime: 2022-09-15T15:58:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/sbwire-2022-9-15-aml-solutions-concerns-for-challenger-banks-and-fintech-firms"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 19
   - title: "QFIL Solutions shortlisted for Entrepreneur Middle East’s Leaders in Fintech Awards 2022"
     excerpt: "The annual award scheme highlights individuals and enterprises that are shaping the future of the Fintech Industry within the region"
     publishedDateTime: 2022-09-13T09:39:00Z

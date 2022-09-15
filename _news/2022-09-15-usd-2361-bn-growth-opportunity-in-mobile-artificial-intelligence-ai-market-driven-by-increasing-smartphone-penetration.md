@@ -34,17 +34,6 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 42
-  - title: "AI Market Size to Reach USD 1394.30 Billion by 2029"
-    excerpt: "The global AI market size is projected to grow from USD 387.45 billion in 2022 to USD 1394.30 billion in 2029 at a CAGR of 20.1% in the forecast period. Growing"
-    publishedDateTime: 2022-09-13T10:12:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28843325/ai-market-size-to-reach-usd-1394-30-billion-by-2029"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28843325"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28843325"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
   - title: "Artificial Intelligence (AI) as a Service Market Size Worth $52.8 Billion by 2028 | CAGR: 44.1%: Vantage Market Research"
     excerpt: "The growing demand for AI-powered services in the form of Application Programming Interface (API) and Software Development Kit (SDK) and the growing number of innovative"
     publishedDateTime: 2022-09-12T12:03:00Z

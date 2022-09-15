@@ -1,29 +1,26 @@
 ---
 category: news
 title: "Using artificial intelligence to improve tuberculosis treatments"
-excerpt: "Imagine you have 20 new compounds that have shown some effectiveness in treating a disease like tuberculosis (TB), which affects 10 million people worldwide and kills 1.5 million each year. For effective treatment,"
-publishedDateTime: 2022-09-14T21:11:00Z
-originalUrl: "https://phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.html"
-webUrl: "https://phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.html"
-ampWebUrl: "https://phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.amp"
+excerpt: "Researchers used data from large studies that contained laboratory measurements of two-drug combinations of 12 anti-tuberculosis drugs. Using mathematical models, the team discovered a set of rules that drug pairs need to satisfy to be potentially good treatments as part of three- and four-drug cocktails."
+publishedDateTime: 2022-09-14T22:32:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/09/220914180013.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/09/220914180013.htm"
 type: article
-quality: 57
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AI in Autos
   - AI
-
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/using-artificial-intel-9.jpg"
-    width: 2880
-    height: 2225
-    isCached: true
 
 related:
   - title: "Our commitment on using AI to accelerate progress on global development goals"
@@ -110,6 +107,6 @@ related:
       domain: tmcnet.com
     quality: 15
 
-secured: "sVhasFffsJ0jE5qx0JEbULNvT2NlhkvbgnoTWY09YTmsBfFCvGhzSB89a+mvRUQCSlOTNO0eozWaA2BjVQOMivOlLliAv1NAa/l2y+sMEg5mQX6/tbhzUoiYPyKJ17WV9nV7mURkYNRwnVSZeark9JS7tMvH/W81g5GFUcVTm4PTx7XvzUuv4u6pz3V36HefHR/puVxLm/o26R2rQUiH40fSGLlGgrDDz2e51+fgPMJt+Shhwm+xJi3eZK/RJ5WgDrdVsuzlEORT7oXdRyOlacgYYiax+kHkoXxrqQ+I2EMUE1r4HaQFc0gt6xbWU1UvJdml05AZ16Ue4xGrC/1hybsF4OAbuDFNlrZEoL2eTGY=;aVfj/EtM+FEpaz2njZwgZg=="
+secured: "fx+syPfnIJxvsUWEOdiyYnXzNMapOnenCozo8C30FK3N97z5IVb5OTw3ohRt47oREcsrBGw6OyoRPHzNyFtaD4inY9/cjrvk174Wn1fdxH1XSkO7h5jJHr6fFdO+66yOH2pp0W9Ib7rjIfHOf9nSLWEIhaNl1ixp8nD92FtsjiO/lrxL1w7SzDSXBogvClzGdzjzeGkthAeI6SBWC/M9l4nHfMI+ZLySGgS+uz0pjOMc221xVV0eZMzJCGSm3R+IgSd8ROiaAFJD0nKex/Ivej07T26eHPMoLIqcsCiynopVdIuEN+s3JsjRJhhVEYi+j/PcrGMqdCGrG7mPX4RQGy3LqoudfxHomlhHW7eiyAQ=;0I9Vh+LQ8rB0LqSX4BES7Q=="
 ---
 

@@ -28,18 +28,18 @@ images:
 
 related:
   - title: "Upset by high prices, GM's Cruise develops its own chips for self-driving cars"
-    excerpt: "General Motors' autonomous driving unit Cruise has developed its own chips for self-driving cars to be deployed by 2025, as they aim to bring down costs and scale up volume, executives said Tuesday."
-    publishedDateTime: 2022-09-14T01:45:00Z
-    webUrl: "https://www.reuters.com/article/gm-cruise-chips/upset-by-high-prices-gms-cruise-develops-its-own-chips-for-self-driving-cars-idUSKBN2QF014"
+    excerpt: "A handout image shows a plate of Dune chips by General Motors' self driving vehicle unit Cruise, in San Francisco, California, U.S.. Courtesy of Cruise/Handout via REUTERS"
+    publishedDateTime: 2022-09-13T21:45:00Z
+    webUrl: "https://www.reuters.com/news/picture/upset-by-high-prices-gms-cruise-develops-idUSKBN2QF014"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 50
     images:
-      - url: "https://www.reuters.com/resizer/3MK-eD45hqypwGtmmahfGYCTZ2A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/O4UFKSR7DJNJFMPHBG2IQYTPBE.jpg"
-        width: 1200
-        height: 628
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20220914&t=2&i=1608778625&w=&fh=810&fw=545&ll=&pl=&sq=&r=LYNXMPEI8D029"
+        width: 545
+        height: 726
         isCached: true
   - title: "GM’s Cruise Develops Its Own Self-Driving Software Microchips"
     excerpt: "GM’s autonomous driving technology division, Cruise, has developed its own microchips in a bid to lower costs and increase volume. Automotive headlines this year have been dominated by the ongoing global microchip shortage,"

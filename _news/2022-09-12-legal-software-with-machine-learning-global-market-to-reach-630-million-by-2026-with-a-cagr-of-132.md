@@ -33,20 +33,6 @@ related:
         width: 444
         height: 250
         isCached: true
-  - title: "Microbiome Global Market Report 2022: Use Of Artificial Intelligence And Machine Learning Crucial For Future Growth - ResearchAndMarkets.com"
-    excerpt: "The global microbiome market reached a value of nearly $340.8 million in 2021, having increased at a compound annual growth rate (CAGR) of 14.8% since 2017. The market is expected to grow from $340.8 million in 2021 to $945."
-    publishedDateTime: 2022-09-13T11:41:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-4f08b67c667642e0a659bd866783a6bf"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 21
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Legal AI Software Market To Reach USD 8.2 Billion By 2031 From USD 4.9 Billion In 2022, At A CAGR Of 10.8% During The Forecast Period"
     excerpt: "The Legal AI Software Market to reach USD 8.2 billion by 2031 from USD 4.9 billion in 2022, at a CAGR of 10.8% during the forecast period. Kenneth Research recently added a report on Legal AI Software Market which provides a detailed insight into the market scenario on the basis of the market size,"
     publishedDateTime: 2022-09-12T08:21:00Z

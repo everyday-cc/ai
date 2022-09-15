@@ -41,6 +41,38 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Tesla is now facing a class action lawsuit over ‘misleading’ claims about self-driving"
+    excerpt: "Tesla is now facing a class action lawsuit over \"allegedly misleading the public\" regarding its Autopilot and Full Self-Driving."
+    publishedDateTime: 2022-09-15T15:13:00Z
+    webUrl: "https://electrek.co/2022/09/15/tesla-facing-class-action-lawsuit-over-misleading-claims-self-driving/"
+    ampWebUrl: "https://electrek.co/2022/09/15/tesla-facing-class-action-lawsuit-over-misleading-claims-self-driving/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/15/tesla-facing-class-action-lawsuit-over-misleading-claims-self-driving/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 96
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/12/Tesla-Full-Self-Driving-passing-garnage-truck.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Tesla faces new class-action lawsuit over marketing claims for ‘self-driving’ cars"
+    excerpt: "Electric carmaker Tesla has been hit with a new consumer class-action suit in federal court alleging the company falsely advertised its autopilot and full self-driving features."
+    publishedDateTime: 2022-09-15T17:33:00Z
+    webUrl: "https://www.washingtontimes.com/news/2022/sep/15/tesla-faces-new-class-action-lawsuit-over-marketin/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2022/sep/15/tesla-faces-new-class-action-lawsuit-over-marketin/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2022/sep/15/tesla-faces-new-class-action-lawsuit-over-marketin/"
+    type: article
+    provider:
+      name: The Washington Times
+      domain: washingtontimes.com
+    quality: 85
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2022/09/02/China_CIFTIS_28198.jpg-1cae4_c0-349-8379-5236_s1200x700.jpg?9ca9d9a317ffea0f652bc83b395cb40bfe383b16"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Tesla sued over Autopilot, Full Self-Driving claims"
     excerpt: "Tesla was sued Wednesday in a proposed class action accusing it and Elon Musk of falsely advertising its Autopilot and Full Self-Driving features."
     publishedDateTime: 2022-09-14T23:22:00Z
@@ -165,6 +197,6 @@ related:
       domain: detroitnews.com
     quality: 19
 
-secured: "6LpDzCdbUpIor02hGiyGbGoZd0yeSSCiX0TwAUWYFFWLxBdfuRWWQdiB7f5GXUerCUMnQnEJPOakCZXgaAkRmALAby7rAsJM2Mx9V/6Ha/j/KEVXS6wymDsxYZ2aR6yT4JKfTDNg6IrQbNEGX1ikFZxFzdWNPYtT/uLjnlvm79u8PnrRVHtvkLSxDIb7ANT0npwa+iQVEtK/A4QObBuEqZocYP519CTlTgobb32gzeCxAwrGLO+/ASfEddFON4Z3CZSJqITlX1OIQDsJ7bXZtzcLVSTQnUCNR00iQXcc6zmCDBShGoVvBxQyAeLQqY66m1UXSzA95BCmVAmPOZwlGWtWt7UuCuVSuJl00J6VivE=;Vl9tlfTZCmn8ENLn+TorLA=="
+secured: "79U+7T/YkEyPIrBIdaczF4XGLAUDVn5fFgvuZ4jon7il8dueAFt0XKuCeXW4wm02lHlWCJfiQgdxszKYiwD2yd/TV5DJs5fdwQfWz9C4nmBtIJ3cFTUf2HIjg3JQPWQHvNb3iszYQCsBpoJtfO1II4G9auCms0AP6P99ImLROmZAw8hwdUUVMj7dgYW4rtrPRJIGoY808IG2yZX4+hSSXb8ON/CqyA+XVHfzdubCaoyebondUHMWQah1ZGfoh/pLxavoDNFaxtmzBa1U75OMmpHvxckDwcURRnjtcNzxZmZdAbQ5JFOs407qFa4MDsz3EuwRItoIM70xJVWzO4NlVITrD7HgA0rdUSbaV+sngKQt9xWG1V7wY8ipbf7KdIVYbfsYkBqK4fyBOXWsni3+DnjZsmlr9U7hb8GtcmWrGqa9v0rMrWKHSF0M9FiniVXRkJ4RKNI769qUcyMz4M21BXCVFqPP+B9BvlbhFiGVX8LbRHRdlRTRBGv6FmoJCNOIbNg7THVZ5jyD3RP5iWD6cQ==;cLxWEMgWKSltsnSId4VwRw=="
 ---
 

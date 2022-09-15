@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-16-ai-startup-rephraseai-raises-106-mn-in-series-a-funding-round.md",
+      "title": "AI startup Rephrase.ai raises $10.6 mn in Series A funding round",
+      "excerpt": "Artificial Intelligence startup Rephrase.ai, backed by Lightspeed Ventures, has raised $10.6 million in its Series A funding round. The round was led by Red Ventures and saw participation from Silver Lake and 8VC Ventures,",
+      "sourceUrl": null,
+      "webUrl": "https://inshorts.com/en/news/ai-startup-rephraseai-raises-$106-mn-in-series-a-funding-round-1663262581246",
+      "originalUrl": "https://inshorts.com/en/news/ai-startup-rephraseai-raises-$106-mn-in-series-a-funding-round-1663262581246",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/09_sep/15_thu/img_1663260823085_979.jpg?",
+          "width": 1080,
+          "height": 724,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inshorts.com/m/en/amp_news/ai-startup-rephraseai-raises-$106-mn-in-series-a-funding-round-1663262581246",
+      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ai-startup-rephraseai-raises-$106-mn-in-series-a-funding-round-1663262581246",
+      "publishedDateTime": "2022-09-15T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inshorts",
+        "domain": "inshorts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-15-our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals.md",
       "title": "Our commitment on using AI to accelerate progress on global development goals",
       "excerpt": "I joined Google earlier this year to lead a new function: Technology &amp; Society. Our aim is to help connect research, people and ideas across Google to shape the future of our technology innovations and their impact on society for the better. A key area of focus is AI, a field I have studied and immersed",
@@ -51,6 +93,57 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-rephraseai-lands-fresh-investment-to-grow-its-synthetic-media-platform.md",
+      "title": "Rephrase.ai lands fresh investment to grow its synthetic media platform",
+      "excerpt": "Rephrase.ai, a company developing a platform to create synthetic media, including personalized video ads, has raised over $10 million in a Series A venture round.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/15/rephrase-ai-lands-fresh-investment-to-grow-its-synthetic-media-platform/",
+      "originalUrl": "https://techcrunch.com/2022/09/15/rephrase-ai-lands-fresh-investment-to-grow-its-synthetic-media-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Nice-A1-Key-Alt-4.jpeg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/15/rephrase-ai-lands-fresh-investment-to-grow-its-synthetic-media-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/15/rephrase-ai-lands-fresh-investment-to-grow-its-synthetic-media-platform/amp/",
+      "publishedDateTime": "2022-09-15T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -166,7 +259,7 @@
       "originalUrl": "https://www.pcmag.com/news/tesla-sued-over-alleged-false-autopilot-full-self-driving-claims",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 229,
       "tags": null,
       "images": [
         {
@@ -206,6 +299,40 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-get-global-exposure-to-japans-robotics-industry-with-this-etf.md",
+      "title": "Get Global Exposure to Japan’s Robotics Industry With This ETF",
+      "excerpt": "There's no doubt that robotics is going to experience unprecedented growth over the next decade as the world becomes more automated, but certain countries have been leading the charge towards that shift,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/get-global-exposure-to-japans-robotics-industry-with-this-etf",
+      "originalUrl": "https://www.nasdaq.com/articles/get-global-exposure-to-japans-robotics-industry-with-this-etf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/get-global-exposure-to-japans-robotics-industry-with-this-etf?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/get-global-exposure-to-japans-robotics-industry-with-this-etf?amp",
+      "publishedDateTime": "2022-09-15T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1092,162 +1219,6 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-upset-by-high-prices-gms-cruise-develops-its-own-chips-for-self-driving-cars.md",
-      "title": "Upset by high prices, GM's Cruise develops its own chips for self-driving cars",
-      "excerpt": "General Motors' autonomous driving unit Cruise has developed its own chips for self-driving cars to be deployed by 2025, as they aim to bring down costs and scale up volume, executives said Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/gm-cruise-chips/upset-by-high-prices-gms-cruise-develops-its-own-chips-for-self-driving-cars-idUSKBN2QF014",
-      "originalUrl": "https://www.reuters.com/article/gm-cruise-chips/upset-by-high-prices-gms-cruise-develops-its-own-chips-for-self-driving-cars-idUSKBN2QF014",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/3MK-eD45hqypwGtmmahfGYCTZ2A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/O4UFKSR7DJNJFMPHBG2IQYTPBE.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T18:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-nikes-sneaker-cleaning-robot-is-like-a-car-wash-for-shoes.md",
-      "title": "Nike's Sneaker-Cleaning Robot Is Like a Car Wash for Shoes",
-      "excerpt": "Nike's new robot-powered system for cleaning and repairing kicks. At first glance, Big BILL looks like the ultimate Rube Goldberg machine (a contraption intentionally designed to complicate a simple task).",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/culture/fashion/nikes-sneaker-cleaning-robot-is-like-a-car-wash-for-shoes/",
-      "originalUrl": "https://www.cnet.com/culture/fashion/nikes-sneaker-cleaning-robot-is-like-a-car-wash-for-shoes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/8919002038ce59db805af029082728dec9276515/2022/09/13/c78420d1-c75d-46be-a0b3-ab6d56f5b794/bill2-1.jpg?auto=webp",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/nikes-sneaker-cleaning-robot-is-like-a-car-wash-for-shoes/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nikes-sneaker-cleaning-robot-is-like-a-car-wash-for-shoes/",
-      "publishedDateTime": "2022-09-13T17:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-dynatrace-ceo-rick-mcconnell-on-why-observability-matters-and-how-its-unique.md",
-      "title": "Dynatrace CEO, Rick McConnell, On Why Observability Matters And How Its Unique",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives into a recent conversation with Rick McConnell, Dynatrace CEO. Now, Rick has software that purports to avert the doomsday scenario. In this article, Patrick discusses why observability has become so important.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/09/13/dynatrace-ceo-rick-mcconnell-on-why-observability-matters-and-how-its-unique/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/09/13/dynatrace-ceo-rick-mcconnell-on-why-observability-matters-and-how-its-unique/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/632105023c3f68c5761b8dcc/0x0.jpg?format=jpg&width=1200",
-          "width": 824,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/09/13/dynatrace-ceo-rick-mcconnell-on-why-observability-matters-and-how-its-unique/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/09/13/dynatrace-ceo-rick-mcconnell-on-why-observability-matters-and-how-its-unique/amp/",
-      "publishedDateTime": "2022-09-13T15:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

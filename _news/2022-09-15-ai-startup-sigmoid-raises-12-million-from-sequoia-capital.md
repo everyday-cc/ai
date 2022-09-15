@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI startup Rephrase.ai raises $10.6 mn in Series A funding round"
+    excerpt: "Artificial Intelligence startup Rephrase.ai, backed by Lightspeed Ventures, has raised $10.6 million in its Series A funding round. The round was led by Red Ventures and saw participation from Silver Lake and 8VC Ventures,"
+    publishedDateTime: 2022-09-15T17:23:00Z
+    webUrl: "https://inshorts.com/en/news/ai-startup-rephraseai-raises-$106-mn-in-series-a-funding-round-1663262581246"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/ai-startup-rephraseai-raises-$106-mn-in-series-a-funding-round-1663262581246"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ai-startup-rephraseai-raises-$106-mn-in-series-a-funding-round-1663262581246"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 57
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/09_sep/15_thu/img_1663260823085_979.jpg?"
+        width: 1080
+        height: 724
+        isCached: true
   - title: "AI solutions startup Sigmoid raises $12 million in funding from Sequoia Capital India"
     excerpt: "Sigmoid will use the capital to evolve its market offerings, expand delivery centers and cater to new industries."
     publishedDateTime: 2022-09-15T06:23:00Z
@@ -41,6 +57,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Ut55z+tDXEuTTjYx58DfJDCXmJ7eP/pkeKRQELSH9667lkK1Tcr5nbPotTrZVNgzPsfJMRsJW5NMdt7WgATPnGueJhMJbpW1BZ6V/edkQDH7K0abE834h20XYcMtIPV5NSR1zb84DOJsnnXzaRyFAYMH5QK6rCPVjeKyVcuVp6IOPriHZJ6YfnYqa1VTFAC11c6ZOLD1pqACOrJpSFlomcfPtcDAide4g6rMHRrNM+nBjdgD06wfeqv2ZW+sTsGt+hEoLrBrGSipwa8pZSAP21mR+yylZec+LHACTYa2VUi70oFkfp/nl+LsQ+9NgwYrrnkj5rXqHDTazbq4dZdQfPkxX/bJ79Qh4cxcMCXrN5o=;/6FiqGEMCgRtowL7/kzrCQ=="
+secured: "CWWHcdmE1K1nmGUYfoZo29hqjAeDTSKiSSJM46kL0wCwy+ZVAK1620RKS1XHZXScTCfN+iK5X12LrP5fXZBiYH8vHZr8jArtZjprOPnl73nuqTDTsnN/4s1jpLs9VjDsTNHWwdvilPZFqrbkVThYNfWC3CPD+QkrV713AO++tEPt3IRaW3xREmx+UfHbYaCGvGli6dvOs9A1kRlm/CU/76DAFQM12s9Ehdtapd74YqvZFsdqTQu0yt6qRyTgWv2j/8M4mTMf2dUaNS9knVqsudQ7lDLh/K/eB3gfFASUUFXX4GTnbY1fc3nF/cL3jfv4wCGdy1JCeQQY95j3t+T7eGJZjh0xDKbypIeTIvnuZ5EqIZMgNoy6JFOhAZclUtJ2FOEkkHk6RDkbMaBO/TIk0rhJgSoTjr81zzhVG3ZuJXVBmuBQhEGy2c/f32NOie638cjSj/d9Jb4+FMikzhffahXYXtPCyDVkfgaDFMNW3eyaXeHLtX3IN1CD0AA0Yp+79XuEOAsbyVQGStnMVDyVAw==;G+Am2pZRjhZcn2GeKpj80Q=="
 ---
 

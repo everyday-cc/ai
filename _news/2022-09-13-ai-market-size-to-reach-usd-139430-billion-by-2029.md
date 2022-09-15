@@ -21,40 +21,91 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) In Education Market Size Is Expected to Hit $80 Billion By 2030"
-    excerpt: "Palm Beach, FL – September 15, 2022 – FinancialNewsMedia.com News Commentary – Artificial Intelligence (AI) is crossing over to new markets and brings additional revenues along with it. Increasing demand for Intelligent Tutoring Systems (ITSs) is fueling the AI in education industry growth."
-    publishedDateTime: 2022-09-15T12:30:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/financialnewsmedia-2022-9-15-artificial-intelligence-ai-in-education-market-size-is-expected-to-hit-80-billion-by-2030"
+  - title: "Healthcare Artificial Intelligence Market Research Report Analysis by Competition, Sales, Revenue, Market Size 2022 to 2028"
+    excerpt: "The \" Healthcare Artificial Intelligence Market Industry Research Report \" considers a thorough scenario of the market's size and market dynamics for the time period from 2022 to 2028. The purpose of the study is to assist stakeholders,"
+    publishedDateTime: 2022-09-12T13:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-research-report-analysis-by-competition-sales-revenue-market-size-2022-to-2028-2022-09-12"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 42
-  - title: "Artificial Intelligence (AI) as a Service Market Size Worth $52.8 Billion by 2028 | CAGR: 44.1%: Vantage Market Research"
-    excerpt: "The growing demand for AI-powered services in the form of Application Programming Interface (API) and Software Development Kit (SDK) and the growing number of innovative"
-    publishedDateTime: 2022-09-12T12:03:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28827521/artificial-intelligence-ai-as-a-service-market-size-worth-52-8-billion-by-2028-cagr-44-1-vantage-m"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28827521"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28827521"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Microbiome Global Market Report 2022: Use Of Artificial Intelligence And Machine Learning Crucial For Future Growth - ResearchAndMarkets.com"
+    excerpt: "The global microbiome market reached a value of nearly $340.8 million in 2021, having increased at a compound annual growth rate (CAGR) of 14.8% since 2017. The market is expected to grow from $340.8 million in 2021 to $945."
+    publishedDateTime: 2022-09-13T11:41:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-4f08b67c667642e0a659bd866783a6bf"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 21
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Facial Recognition Market Research Insights With Upcoming Trends, Opportunities, Competitive Analysis, Forecast To 2022-2031"
+    excerpt: "The global facial recognition market size is expected to grow from an estimated value of USD 3.8 billion in 2022 to USD 8.5 billion by 2031, at a Compound Annual Growth Rate (CAGR) of 17.2% from 2022 to 2031."
+    publishedDateTime: 2022-09-14T17:44:00Z
+    webUrl: "https://menafn.com/1104865081/Facial-Recognition-Market-Research-Insights-With-Upcoming-Trends-Opportunities-Competitive-Analysis-Forecast-To-2022-2031"
+    type: article
+    provider:
+      name: MENAFN
+      domain: menafn.com
+    quality: 12
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?332140"
+        width: 287
+        height: 249
+        isCached: true
+  - title: "5G In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application, By End-use, By Region And Segment Forecasts, 2022 - 2030"
+    excerpt: "Reportlinker.com announces the release of the report \"5G In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application, By End-use, By"
+    publishedDateTime: 2022-09-13T16:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28852772/5g-in-healthcare-market-size-share-trends-analysis-report-by-component-by-application-by-end-use-b"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28852772"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28852772"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 35
-  - title: "USD 23.61 Bn growth opportunity in Mobile Artificial Intelligence (AI) Market -- Driven by increasing smartphone penetration"
-    excerpt: "The global mobile artificial intelligence market size is expected to grow by USD 23.61 billion between 2021 and 2026, accelerating at a CAGR of 29.06% during the forecast period. The report considers various aspects such as the consumer base,"
-    publishedDateTime: 2022-09-14T19:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-usd-2361-bn-growth-opportunity-mobile-artificial-intelligence-/2022/09/14/9673912.htm"
+    quality: 1
+  - title: "Global Smart Shelves Market Report 2022: Growth in Demand for AI-Powered Dynamic Pricing Solutions Presents Opportunities - ResearchAndMarkets.com"
+    excerpt: "The global Smart Shelves market size is expected to grow from an estimated value of USD 3.0 billion in 2022 to USD 8.3 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 22.4% from 2022 to 2027."
+    publishedDateTime: 2022-09-12T08:19:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-b02877a988104136847a01e1c76eccc5"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 27
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
     images:
-      - url: "https://mma.prnewswire.com/media/1897570/Technavio_Mobile_Artificial_Intelligence_Market_Infographic.jpg"
-        width: 400
-        height: 225
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
+  - title: "Insights on the Military Robots Global Market to 2027 - by Platform, Application, Mode of Operation and Region - ResearchAndMarkets.com"
+    excerpt: "The global military robots market size reached US$ 15.4 Billion in 2021. Looking forward, the publisher expects the market to reach US$ 29.7 Billion by 2027, exhibiting a CAGR of 11.57% during 2021-2027."
+    publishedDateTime: 2022-09-13T12:45:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-13-insights-on-the-military-robots-global-market-to-2027-by-platform-application-mode-of-operation-and-region-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
+  - title: "Cloud Advertising Market Research Report 2022 Growth, Recent Trends And Forecast To 2026 – Adobe, Oracle, Salesforce, Google, IBM"
+    excerpt: "SAP (Germany), Acquia (US), Demandbase (US), Experian (US), Kubient (US), FICO (US), HubSpot (US), Imagine Communications (US), InMobi (India), Marin"
+    publishedDateTime: 2022-09-14T20:10:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/ab28872311/cloud-advertising-market-research-report-2022-growth-recent-trends-and-forecast-to-2026-adobe-ora"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "suL8Mi604p+JsFNp8MyMQ8vcn4YVVeImBb63qtMgNVRKa5UXF+Odic2mP5CEpbaH9N/RTMmmgTWmO3rE1icch/IZGOkSr05okuu1Y7G7vQ0XXU8q6kjSEmBAjo7fcKj/sBT+imeJgWiPUP1fk/CS+pMk9CAgn/dKoRbh2jb98aqgyM6EiWr049O28NYBiy9aGXlxiQDmQWX85LuLzqWOng2ObxVlu4XAN7tO1516N74fbpXNqgyuTZfVRGYxDTUjtEDK85rWrLT2ATpWToCjAv599lutruRESS1uzYChUnAy+LlflPzkd4gGpesqPqS5rbOe7e715+cTQEnfNa8/AqB5MUmNUqOliGWmwbW985c=;QyKBMtHMJ1pDvpT/WPAZRw=="
 ---

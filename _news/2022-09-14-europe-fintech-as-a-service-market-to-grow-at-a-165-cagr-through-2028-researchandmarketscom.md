@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Europe Fintech-as-a-Service Market to Grow at a 16.5% CAGR Through 2028 - ResearchAndMarkets.com"
-excerpt: "The \"Europe Fintech-as-a-Service Market Size, Share & Industry Trends Analysis Report By Technology (Blockchain, API, Artificial Intelligence, RPA), By End Use, By Type, By Application, By Country and Growth Forecast,"
-publishedDateTime: 2022-09-14T09:27:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-14-europe-fintech-as-a-service-market-to-grow-at-a-165-cagr-through-2028-researchandmarketscom"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-14-europe-fintech-as-a-service-market-to-grow-at-a-165-cagr-through-2028-researchandmarketscom"
+excerpt: "The Europe Fintech-as-a-Service Market is expected to witness market growth of 16.5 % CAGR during the forecast period (2022-2028). Platforms and applications that provide banking as a service (BaaS) have developed as a practical and economical way to deliver financial services based on open banking concepts."
+publishedDateTime: 2022-09-14T12:32:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/09/14/9673073.htm"
+webUrl: "https://it.tmcnet.com/news/2022/09/14/9673073.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
@@ -28,16 +28,7 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 9
-  - title: "Insights on the Military Robots Global Market to 2027 - by Platform, Application, Mode of Operation and Region - ResearchAndMarkets.com"
-    excerpt: "The global military robots market size reached US$ 15.4 Billion in 2021. Looking forward, the publisher expects the market to reach US$ 29.7 Billion by 2027, exhibiting a CAGR of 11.57% during 2021-2027."
-    publishedDateTime: 2022-09-13T12:45:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-13-insights-on-the-military-robots-global-market-to-2027-by-platform-application-mode-of-operation-and-region-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
-secured: "ZpRDP14Fi1FR8SYthKTq+DVFKNS41jcJgGt3Fgu730k+BbGheSKlsUpE72vTSoUw7lhRVu+8yixEXSkandzSt4/3cufGmKkYd1lHbLnjWGtaRg76YN93hmpPuw/OqZ+Ea3Yk2n99xDaz4Tg8enq895ElQzRjiNLnSWZTbhjxQt9a9uTyLFjR5jkvEERr6zU+iMR1f94g4/NGgpBPznhVd4vv8HTlgQcU/O+DctMtl6LfmufAKysE95Q8wn+CtALq40E26d7rgPshqjCxDM8z0zBtrFQcvFK6DgFIjWycZBzcXnhhflwogldUIwHzHvJHO1tQu2O43zvhckzupAFtXUsmvRPNSsZeBJriGkH0Si8=;pdZNqSNOY2yh+uDYasqjHA=="
+secured: "5OJyZ391GrD2GabgxTZOXGRVwbOv47mRgMtEtBJNDtHV0KkB1wrontzlWMx58UScazqyEJPvEdQGU+speN9kk7fyg91FMwPDAKB6YfBwnblA2mhY3golo5WKcnpFWX7bv37xYc49kSyEWxJSMgD3ygiFliT5WjnH11HwLiulIU4GwqVYgcGF811a4omhVWVbkLNOeJvcfbR9FLrLOWLjUmKlhr2v7qYZbk6topePQvVWIb1A/DBVNHuF1tvY98/mnoYgOMDMrWndN1odGW2TnC4VSW/GYhq52aqIJ9Y7w41GuAh5CtL4hL7W9PCflDnSSRiEHGlVjMBvc5KRbv0HzPEXgqG153VDcZgF2zkEmZA=;KH4pG1QTHISVQ+QANFx8pg=="
 ---
 

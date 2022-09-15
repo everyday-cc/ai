@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Upset by high prices, GM's Cruise develops its own chips for self-driving cars"
-excerpt: "General Motors' autonomous driving unit Cruise has developed its own chips for self-driving cars to be deployed by 2025, as they aim to bring down costs and scale up volume, executives said Tuesday."
-publishedDateTime: 2022-09-14T01:45:00Z
-originalUrl: "https://www.reuters.com/article/gm-cruise-chips/upset-by-high-prices-gms-cruise-develops-its-own-chips-for-self-driving-cars-idUSKBN2QF014"
-webUrl: "https://www.reuters.com/article/gm-cruise-chips/upset-by-high-prices-gms-cruise-develops-its-own-chips-for-self-driving-cars-idUSKBN2QF014"
+excerpt: "A handout image shows a plate of Dune chips by General Motors' self driving vehicle unit Cruise, in San Francisco, California, U.S.. Courtesy of Cruise/Handout via REUTERS"
+publishedDateTime: 2022-09-13T21:45:00Z
+originalUrl: "https://www.reuters.com/news/picture/upset-by-high-prices-gms-cruise-develops-idUSKBN2QF014"
+webUrl: "https://www.reuters.com/news/picture/upset-by-high-prices-gms-cruise-develops-idUSKBN2QF014"
 type: article
 quality: 50
 heat: 70
@@ -23,9 +23,9 @@ topics:
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/3MK-eD45hqypwGtmmahfGYCTZ2A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/O4UFKSR7DJNJFMPHBG2IQYTPBE.jpg"
-    width: 1200
-    height: 628
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20220914&t=2&i=1608778625&w=&fh=810&fw=545&ll=&pl=&sq=&r=LYNXMPEI8D029"
+    width: 545
+    height: 726
     isCached: true
 
 related:
@@ -55,6 +55,6 @@ related:
       domain: gmauthority.com
     quality: 4
 
-secured: "cbNp0SvzERkXTvPs1/a2m5fkOXNR10yjRoG4/qGCHW4JM+l+6CXPQr4NiK6L7kaby3Gs2hvVaac/e0i10bnqTWzF/dKkhKaO68zNVOZLbFEQ58xPhngPx49h2y9XWH/iL6nx5mmz1YZOHlr9nDpSOVuljXv8R6YxCpYQkpaQ9mqd9Utm9e+7ClTUUvNI+v1GNZX/vaHXaTDoTFAa2WfUnkZWahvTvbwnZv6ODLBdDmrJPCGUyylXwVM467x2orDOs/6Xsycentq9uezXKTn9n7qkmbeMTUvdenfk2+/egCc2M/7pLcJDc3pfWhahWMXlruRFOgPWJ/9cD8sYo7y/SvDmKawhnDOv6Emsq3MRffCIOMCfL8Xdw/o3LW+M60zZa6Xsw5TItxTAtKYDkQb/lqZFZYdTmRJ0+p4276CdQdcKYe64FrRC4/Q9hOHJVW8YCUZ4yS1/avwRU1Y4mt0wC0UFkAWMBgyFNqWDcAvKf0YL6FXhRLmQMeIlIS49zth3OHBJtfQXrYgUdzhJQg9s8Q==;evL5HJ402PuDt8tt+s/WNg=="
+secured: "mZ0nJBDDfgOXXmiqPYXs4G2MBZDpOnjzOm/fQ1ng2NpDZcvBVKWTn5zdvVBDiKlwvq06kLdF/NB1idy/m6/u1OgQJnGrHuCqEdpZfa4/VxqCQM551QcH+N32rjouyRSX+qSfVADrl/+9Yv8pkOeg0qzJ5k8uQ2idEQCoZ0Snk8tH9FaBhf0WtL2scDQYzHIDxqXwhTM/NNgvFsXsBpkgJDfyDmxuwLWOOgH50FzR5NIOGcXmD7CDcLW9MQWoLLCFTWGQCAdalUHAMOUj7sy6GIvtMbkbSGSoIM8SSqE1vZDpClQmxGvyENwGXmkPKK6M1nm58DJ70zyvtZVE9c3cesqjT8p/H9NYS7XtC54WsjQ=;nUgDO/at+gvRBTPsneK47g=="
 ---
 
