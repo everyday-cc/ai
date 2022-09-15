@@ -67,6 +67,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Upstart claims its chips beat Nvidia's A100 on AI oomph"
+    excerpt: "SambaNova says its latest chips can best Nvidia's A100 silicon by a wide margin, at least when it comes to machine learning workloads. The Palo Alto-based AI startup this week revealed its DataScale systems and Cardinal SN30 accelerator,"
+    publishedDateTime: 2022-09-15T20:33:00Z
+    webUrl: "https://www.theregister.com/2022/09/15/sambanova_ai_chip_nvidia/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/09/15/sambanova_ai_chip_nvidia/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/09/15/sambanova_ai_chip_nvidia/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 74
+    images:
+      - url: "https://regmedia.co.uk/2018/09/05/shutterstock_187864790.jpg"
+        width: 648
+        height: 448
+        isCached: true
   - title: "Supermicro Announces 8U ‘Universal GPU’ Server for NVIDIA H100’s"
     excerpt: "HPC-AI server maker Supermicro today announced what the company said is its most advanced GPU server incorporating eight NVIDIA H100 Tensor Core GPUs. Supermicro now offers three Universal GPU servers: the 4U,"
     publishedDateTime: 2022-09-13T17:26:00Z

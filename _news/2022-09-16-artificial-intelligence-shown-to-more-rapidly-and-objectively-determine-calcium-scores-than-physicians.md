@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-15T18:33:00Z
 originalUrl: "https://medicalxpress.com/news/2022-09-artificial-intelligence-shown-rapidly-calcium.html"
 webUrl: "https://medicalxpress.com/news/2022-09-artificial-intelligence-shown-rapidly-calcium.html"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: Medical Xpress

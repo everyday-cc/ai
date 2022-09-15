@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2022/09/12/gms-self-driving-car-unit-to-off
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/09/12/gms-self-driving-car-unit-to-offer-driverless-rides-in-phoenix-austin-this-year.html"
 type: article
 quality: 84
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -78,6 +78,15 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
+    quality: 4
+  - title: "Another self-driving rideshare service is coming to Austin"
+    excerpt: "Ford, Lyft and Argo AI announced a partnership to bring a fleet of self-driving vehicles to Austin. The group now has about 20 self-driving cars on Austin streets, but"
+    publishedDateTime: 2022-09-13T23:20:00Z
+    webUrl: "https://www.khou.com/article/money/economy/boomtown-2040/cruise-rideshare-self-driving-austin/269-20d332cc-49a8-4d7f-94e2-85ce34a9cee6"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
     quality: 4
   - title: "GM's Cruise Will Start Making Its Own Chips for Self-Driving Cars"
     excerpt: "General Motors Cruise Never mind the chip shortage Instead of ordering more chips from Nvidia, Cruise started developing its own chips for use in the upcoming Origin model, a boxy self-driving EV with no pedals or steering wheel that’s allegedly going to be ready by 2023."

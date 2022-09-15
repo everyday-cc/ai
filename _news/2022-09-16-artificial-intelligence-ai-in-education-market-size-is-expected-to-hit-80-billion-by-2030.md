@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-15T18:12:00Z
 originalUrl: "https://it.tmcnet.com/news/2022/09/15/9674474.htm"
 webUrl: "https://it.tmcnet.com/news/2022/09/15/9674474.htm"
 type: article
+quality: 42
+heat: -1
+published: false
 
 provider:
   name: TMCnet
@@ -16,6 +19,51 @@ topics:
   - AI
   - AI in Education
   - AI Hardware
+
+related:
+  - title: "Artificial Intelligence (AI) In Education Market Size Is Expected to Hit $80 Billion By 2030"
+    excerpt: "Palm Beach, FL – September 15, 2022 – FinancialNewsMedia.com News Commentary – Artificial Intelligence (AI) is crossing over to new markets and brings additional revenues along with it. Increasing demand for Intelligent Tutoring Systems (ITSs) is fueling the AI in education industry growth."
+    publishedDateTime: 2022-09-15T12:30:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/financialnewsmedia-2022-9-15-artificial-intelligence-ai-in-education-market-size-is-expected-to-hit-80-billion-by-2030"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 42
+  - title: "Artificial Intelligence (AI) as a Service Market Size Worth $52.8 Billion by 2028 | CAGR: 44.1%: Vantage Market Research"
+    excerpt: "The growing demand for AI-powered services in the form of Application Programming Interface (API) and Software Development Kit (SDK) and the growing number of innovative"
+    publishedDateTime: 2022-09-12T12:03:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28827521/artificial-intelligence-ai-as-a-service-market-size-worth-52-8-billion-by-2028-cagr-44-1-vantage-m"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28827521"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28827521"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
+  - title: "USD 23.61 Bn growth opportunity in Mobile Artificial Intelligence (AI) Market -- Driven by increasing smartphone penetration"
+    excerpt: "The global mobile artificial intelligence market size is expected to grow by USD 23.61 billion between 2021 and 2026, accelerating at a CAGR of 29.06% during the forecast period. The report considers various aspects such as the consumer base,"
+    publishedDateTime: 2022-09-14T19:39:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/09/14/9673912.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 27
+    images:
+      - url: "https://mma.prnewswire.com/media/1897570/Technavio_Mobile_Artificial_Intelligence_Market_Infographic.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "Artificial Intelligence (AI) In Education Market Size Is Expected To Hit $80 Billion By 2030 - Financial News Media"
+    excerpt: "( MENAFN - Financial News Media) data-id='165ecfe1' data-element_type='widget' data-widget_type='theme-post-content.default'> Palm Beach, FL – September 15, 2022 – FinancialNewsMedia.com News Commentary – Artificial Intelligence (AI) is crossing over to new markets and brings additional revenues along with it."
+    publishedDateTime: 2022-09-15T18:35:00Z
+    webUrl: "https://menafn.com/1104872865/Artificial-Intelligence-AI-In-Education-Market-Size-Is-Expected-To-Hit-80-Billion-By-2030-Financial-News-Media"
+    type: article
+    provider:
+      name: MENAFN
+      domain: menafn.com
+    quality: 27
 
 secured: "HhesTJfqy7jN3quFw4Bixy1YodO9e5o4dMSpy+JFqH7gPQfpGqS7NjAqvf1vXM8oEWkjDkJJnl+h7Zilrdb6pPXNc3AVPrXZRiMmDdb/mm0uk9UYQW2t1RNzlBtzZQC2qeaEYQ9mW0kWyLl+nXHcJiU5xp0/5hVTdQtkI1wjy+NWDz0zaGiqwvfJsvMszLS25AIjalVm/go8rDpYlKOBsFPitvCqNf/qXoR/A7KNmqwzs7Ov0tb28swsoDreLuSEWnpGGnn2SC2OLOFmxxRQ9JQk4rCwDvF3Qp05597gbDT0umqZz34qRAAbHnr9pnrU8CU0eE1GAA9DgYKlxvbRT0JcmkeQoaU4t5dK9vPUfFE=;V5U1fmuC/wlZ1Kf4WmkWTg=="
 ---

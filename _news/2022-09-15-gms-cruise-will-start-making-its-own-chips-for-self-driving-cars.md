@@ -83,6 +83,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 4
+  - title: "Another self-driving rideshare service is coming to Austin"
+    excerpt: "Ford, Lyft and Argo AI announced a partnership to bring a fleet of self-driving vehicles to Austin. The group now has about 20 self-driving cars on Austin streets, but"
+    publishedDateTime: 2022-09-13T23:20:00Z
+    webUrl: "https://www.khou.com/article/money/economy/boomtown-2040/cruise-rideshare-self-driving-austin/269-20d332cc-49a8-4d7f-94e2-85ce34a9cee6"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 4
 
 secured: "gE5G89p4EMUS+YGxBvbw85IqQLUiJ9nVjDZFUnGyDAv5SefJ2oXF2eNtjhIxfFrwt7LHSZ41UIjYLj1utvQWjsuew6+a5wYm3+x+TkBBL6N61YjT1+UwtH3sS6T0LAcMF1UD8IVOo2Ew7axQnygIOnNTTWG7INuFM85FjTGuA/Dzudo2HK6ib3WuYIa7UWp90PbQSTUG/inUoPlNo2an500qT1wVlVdHdG2y3mzoat8/jvijxmGJFmaZUzhbPPFcELwIG9EfVUatjlpNBjXYdOPREqkExNXl3lPut0S9Y5ZTFEsUMaepqm61wF5F26B1xX6yG93iX5DL69px1hzP7DsBg5/rPlbcQPlE+3B0iRks3S6kGUkA5K7GM96cPV6nT3tGgucu6KEIan4qduU4txuzkLte7NJOipns/getwzpl05vECTqREuiGx+dy7Xc6NPo5A146+wJrTSDNlg7/zGUfXb7utRseoBcQzAH0xl6pMkX69QG0M8Quh1RdBac/HHZaS29FNE9K0WFLGGZOxQ==;lILid4IfUv2t6jJgYx9KfA=="
 ---

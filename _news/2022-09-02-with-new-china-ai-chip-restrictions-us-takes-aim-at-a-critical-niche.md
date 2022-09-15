@@ -1,24 +1,26 @@
 ---
 category: news
-title: "With New China AI Chip Restrictions, U.S. Takes Aim at a Critical Niche"
-excerpt: "(Reuters) - The United States beefed up its effort to cut off the flow of advanced technology to China by instructing Nvidia Corp and Advanced Micro Devices to stop sending their flagship ..."
-publishedDateTime: 2022-09-01T20:55:00Z
-originalUrl: "https://money.usnews.com/investing/news/articles/2022-09-01/with-new-ai-chip-rules-u-s-takes-aim-at-a-critical-niche"
-webUrl: "https://money.usnews.com/investing/news/articles/2022-09-01/with-new-ai-chip-rules-u-s-takes-aim-at-a-critical-niche"
+title: "With new China AI chip restrictions, US takes aim at a critical niche"
+excerpt: "The restricted chips have the ability to carry out AI calculations quickly, at huge scale, and with high precision, necessary for tasks such as designing fighter jets The United States beefed up ..."
+publishedDateTime: 2022-09-02T11:27:00Z
+originalUrl: "https://www.rappler.com/technology/china-ai-chip-nvidia-amd-restrictions-september-2022/"
+webUrl: "https://www.rappler.com/technology/china-ai-chip-nvidia-amd-restrictions-september-2022/"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Rappler
+  domain: rappler.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "jq+4Kn+rrOkyjWMciB2egh7YWH+rStVwEMBma374eqTrDL+reCAQTgELeHP+ER6CbhSxqvp8GJC5+UI3rJCHO0Fwj2WiPSx6/Et1Gj9J4oYKZ3pypwQoS7OOKZC+h4gBwl5BQibqTSW3z9D3fcImM1OFkyQHJ5/vCyDtNTnWk8phNSScmlEfoTc0C5Jo2ExSxv6oG9qz0tsTD8okaLN0xgOVn+epcNA1WraiRcqIqqh7AB5N/lcSprpcg/e5Kmvng5VOV5jn66S7psnTxhi5AFlcVLksh0EnTbXkf5RY0kQFdEDjez4tvdIlpUTrNA7bZyUCQXQaTYpKNc6SzFHbK0/EdYltiATdw5Vss2yFpE8=;jMQBgpw0S6cWrI3akKHPBw=="
+images:
+  - url: "https://www.rappler.com/tachyon/2022/09/reuters-nvidia-sept-2022-scaled.jpg"
+    width: 2560
+    height: 1707
+    isCached: true
+
+secured: "eN0e5R4pjKChVsASdrHwx4x3Z7khj7NxJWL46nbFB1tyCnz+qnqonOTObmYbTxELjw9DtphDMPpIwlHRyBpcEpl9VsuOL/Jos9LdDv3lNs9DaxFyiMcWyV7mbiCMUJDe/cJfQeSKiQ4ZdcL+QH/x0nhkIeKRDPhQKReYXY9cXZSzZE9S7aLLObn14HQSksPFWgu85CANsQ1b2LABVkRLSETt452N6uTFSly1ZnUrBWNliKy0Nu/TuOBVSQq7+qPTM8s80cp2XwE/ks+qi6ck8gVQGVd4w/fO6oDHLV2IhycjqKzQsc201Vug6Bn965rYsAUz2tQvzEa5gsrf01ydi3Jz6JjgQapCUkBzSDzfDrI=;s54iQ64PDpnEp3sMsa17Dw=="
 ---
 

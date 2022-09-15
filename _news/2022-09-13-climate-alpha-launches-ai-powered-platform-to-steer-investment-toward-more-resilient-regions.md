@@ -52,12 +52,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 66
-    images:
-      - url: "https://mma.prnewswire.com/media/1900126/Rephrase_Founders.jpg"
-        width: 400
-        height: 267
-        isCached: true
+    quality: 46
 
 secured: "IfeNIFybpXVNkEertrsRsrw7iDLql7KWn/hY8tMG+F/X8tKS4nCKEP9ZhA/ly1iEwv36u10mD8/VwyV4+5kEsvPMwLRhjWvznooM2KOE+pp/4QiaCWYIVgKy/+owAYE/rtmizNefQ5/duba308qWJ72M58Pv55L6pXg5VBV7vNDj7PUpEKxmadwDamI0Zkt6Y+nMTxjC3M51W9ll2AphOid75o00LfGpgX9pJAcGA1VBvNe1aDOK/Jg5OOWT7Wt3aB+ppEJpYJn3sq/O41KzM3raClCf6lJxsdP1GAr6qy6+V/zUjYQ1XNuIeUo5aBfDmNUPNHqM7u9S54qw4jNq/KGXDn/WAN6su5DBJeuWpF+eXK3dF+XJiJQNABN+7iRny7HUktZIMs9NQIFzoLhBssyn1KDyQOP5TVI8M6f29sk8s0ZA8lPXZZNRQkIKdq52OxvX7ZRnucfI21JNAnESndAH/jdFfGjnaGtI42fzXcURyIli2KO8f+Sztj3I48Uk0aDS9rOFN/dJa46Oz934pg==;5WV/CqlBiu+N7rmW0KlPjA=="
 ---

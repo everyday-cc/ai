@@ -18,33 +18,35 @@ topics:
   - AI
 
 related:
-  - title: "Flooded with AI-generated images, some art communities ban them completely"
-    excerpt: "Baio, who has been following AI art ethics closely on his blog, first noticed the bans and reported about them on Friday. So far, major art communities DeviantArt and ArtStation have not made any AI-related policy changes,"
-    publishedDateTime: 2022-09-12T16:36:00Z
-    webUrl: "https://arstechnica.com/information-technology/2022/09/flooded-with-ai-generated-images-some-art-communities-ban-them-completely/"
+  - title: "Have AI image generators assimilated your art? New tool lets you check"
+    excerpt: "\" taps into the LAION-5B training data used to train Stable Diffusion and Google's Imagen AI models, among others. To build LAION-5B, bots directed by a group of AI researchers crawled billions of websites,"
+    publishedDateTime: 2022-09-15T21:04:00Z
+    webUrl: "https://arstechnica.com/information-technology/2022/09/have-ai-image-generators-assimilated-your-art-new-tool-lets-you-check/"
     type: article
     provider:
       name: Ars Technica
       domain: arstechnica.com
-    quality: 67
+    quality: 69
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/stable_diffusion_on_lexica-760x380.jpg"
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/haveibeentrained_search_results-760x380.jpg"
         width: 760
         height: 380
         isCached: true
-  - title: "AI-generated images open multiple cans of worms"
-    excerpt: "Fast-evolving programs that can \"make\" images on demand raise a host of ethical, legal and business questions."
-    publishedDateTime: 2022-09-12T09:55:00Z
-    webUrl: "https://www.axios.com/2022/09/12/ai-images-ethics-dall-e-2-stable-diffusion"
+  - title: "How to generate AI art with Stable Diffusion on a Mac"
+    excerpt: "An app called Diffusion Bee lets users run the Stable Diffusion machine learning model locally on their Apple Silicon Mac to create AI-generated art. Here's how to get started."
+    publishedDateTime: 2022-09-12T20:05:00Z
+    webUrl: "https://appleinsider.com/inside/macos/tips/how-to-generate-ai-art-with-stable-diffusion-on-a-mac"
+    ampWebUrl: "https://appleinsider.com/inside/macos/tips/how-to-generate-ai-art-with-stable-diffusion-on-a-mac/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/inside/macos/tips/how-to-generate-ai-art-with-stable-diffusion-on-a-mac/amp/"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 39
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 57
     images:
-      - url: "https://images.axios.com/N-VADdMuwClzJ5h98vf0TIU4nVs=/0x0:1920x1080/1366x768/2022/09/11/1662934165603.jpg"
-        width: 1366
-        height: 768
+      - url: "https://photos5.appleinsider.com/gallery/50354-98971-tim-cook-wheat-field-2-xl.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "yZ1Vv/DtrDuO5AOElzbYkCj1tHKiaeq+U5n0JP1SxH5fG8lIRLgkXHUhQ7TSlilqfMVx6JHSnLZD0pKOenNYBRi+ht1yKC9UQisoz7fBAM66okC8oci+VAMX1ywI/K2N9LlMhGRWBFyF000/acgOmIiKzUbgxLikRv+iP18blXiAc6Dyt0WyYUcSgidGy9yNxVrbpQzAAhh1pE+hoqzwVbvld1xCaguMAWZa/JB0dWkIUxyjhuct7csd2X7xrq/8SUSRtks5qwOsvV+zLo1tYv7UXtI1Lsqws9lXyq2PC1Yac8mDx96Jj9dqi58nSnsxEjqMX0xx0zesMNCI9UP8gu4jEZlkTveHjQv/W998Y/TkUQc8+NdEhgqW9yeMAVhXKcW3+N1Z+AZJpxX/4wH/OR8f836szGktdgFNyMUQLj70hpS+X1O2AYzcDuNiX4t0HJ/pSyMOKdNhCkP7Fv7PlMq56h9hMNXc+WOyfwkmy2MHmbiG9DJQ0wnm6aMDkVrEdV+a5rq+CCGG5UK56V6tWQ==;lzuwp5HLWyF5R2/3Av/UrQ=="

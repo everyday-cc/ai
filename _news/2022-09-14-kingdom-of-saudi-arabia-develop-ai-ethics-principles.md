@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nala Robotics and Saudi Excellence Co. to Establish First AI-Based Robotic Cloud Kitchen and R&D Center in Saudi Arabia"
+    excerpt: "NAPERVILLE, Ill. and RIYADH, Saudi Arabia, Sept. 15, 2022 /PRNewswire/ -- Nala Robotics, a U.S.-based AI robotics company disrupting the culinary"
+    publishedDateTime: 2022-09-15T21:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nala-robotics-and-saudi-excellence-co-to-establish-first-ai-based-robotic-cloud-kitchen-and-r-d-center-in-saudi-arabia-1031746917"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 75
+    images:
+      - url: "https://mma.prnewswire.com/media/1900242/20220915_112904.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Saudi Arabia Leads Regional AI through Laboratory, Global Development Corridor"
     excerpt: "Saudi Arabia hosted the second edition of the Global AI Summit under the patronage of Crown Prince Mohammad bin Salman bin Abdulaziz, who also chairs the Board of Directors of the Saudi Authority for Data and Artificial Intelligence (SDAIA)."
     publishedDateTime: 2022-09-14T07:33:00Z
@@ -41,34 +55,6 @@ related:
         width: 480
         height: 268
         isCached: true
-  - title: "SCAI and Lean to Develop Innovative AI Solutions for Saudi Healthcare Sector"
-    excerpt: "Wall Street Closing; SCAI and Lean to Develop Innovative AI Solutions for Saudi Healthcare Sector; EDM Council and National Data Management Office Cooperate to Enhance Data Manage"
-    publishedDateTime: 2022-09-13T21:40:00Z
-    webUrl: "https://www.spa.gov.sa/viewfullstory.php?lang=en&newsid=2383743"
-    type: article
-    provider:
-      name: spa.gov.sa
-      domain: spa.gov.sa
-    quality: 51
-    images:
-      - url: "https://clcdn.spa.gov.sa/galupload/thumb/no-image-logo.png"
-        width: 805
-        height: 612
-        isCached: true
-  - title: "Saudi Aramco AI Corridor to develop global solutions"
-    excerpt: "The summit will see the launch of the AI Corridor Center of Excellence which will develop AI solutions to address global challenges"
-    publishedDateTime: 2022-09-13T08:22:00Z
-    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/saudi-aramco-ai-corridor-to-develop-global-solutions-h20dl8hl"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
-    images:
-      - url: "https://static.zawya.com/version/c:NzEwMmNmOGItODNmYy00:OWM3MjVm/180620130010tfea-jpg.jpg?f=3%3A2"
-        width: 724
-        height: 482
-        isCached: true
   - title: "SDAIA: The Kingdom of Saudi Arabia announces program for 2nd Global AI Summit"
     excerpt: "Additionally, speakers will discuss AI ethics and policies that help prevent the exploitation of AI. As it hosts the summit, SDAIA will highlight AI advances and achievements within the Kingdom and sh"
     publishedDateTime: 2022-09-12T06:24:00Z
@@ -83,15 +69,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "GACA Adopts Artificial Intelligence Technology \"ICMOR\" for Operational Use at Saudi Airports"
-    excerpt: "The General Authority of Civil Aviation (GACA) announced the adoption of the Artificial Intelligence security screening technology (ICMOR) for operational use in Saudi airports. This announcement was made on the sidelines of the opening session of the Global Artificial Intelligence Summit in its second edition under the title \"Artificial Intelligence for the Good of Humanity\" - organized by the Saudi Authority for Data and Artificial Intelligence (SDAIA) and held at the King Abdulaziz International Conference Center in Riyadh."
-    publishedDateTime: 2022-09-14T13:01:00Z
-    webUrl: "https://www.spa.gov.sa/2383937"
-    type: article
-    provider:
-      name: spa.gov.sa
-      domain: spa.gov.sa
-    quality: 21
   - title: "SDAIA: The Kingdom of Saudi Arabia Announces Program for 2nd Global AI Summit"
     excerpt: "The Saudi Data & AI Authority (SDAIA) has announced its official schedule and speaker roster for the 2nd Global AI Summit, set to take place on September 13 - 15, 2022, in Riyadh, Saudi Arabia. The theme of the summit is \"AI for the Good of Humanity\","
     publishedDateTime: 2022-09-14T01:10:00Z

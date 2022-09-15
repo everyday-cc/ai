@@ -7,8 +7,8 @@ originalUrl: "https://www.newelectronics.co.uk/content/news/kinara-and-nxp-to-pr
 webUrl: "https://www.newelectronics.co.uk/content/news/kinara-and-nxp-to-provide-scalable-ai-solutions-for-deep-learning-at-the-edge"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: New Electronics
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "SCAI and Lean to Develop Innovative AI Solutions for Saudi Healthcare Sector"
+    excerpt: "Wall Street Closing; SCAI and Lean to Develop Innovative AI Solutions for Saudi Healthcare Sector; EDM Council and National Data Management Office Cooperate to Enhance Data Manage"
+    publishedDateTime: 2022-09-13T21:40:00Z
+    webUrl: "https://www.spa.gov.sa/viewfullstory.php?lang=en&newsid=2383743"
+    type: article
+    provider:
+      name: spa.gov.sa
+      domain: spa.gov.sa
+    quality: 51
+    images:
+      - url: "https://clcdn.spa.gov.sa/galupload/thumb/no-image-logo.png"
+        width: 805
+        height: 612
+        isCached: true
   - title: "Kinara and NXP Collaborate to Provide Customers with Scalable AI Solutions Optimized for Deep Learning at the Edge"
     excerpt: "Kinara's patented Edge AI processor, named Ara-1, delivers a ground-breaking combination of performance, power, and price for integrated cameras and edge servers. Kinara AI complements it processing technology with a comprehensive and robust set of development tools that allow its customers to easily convert their neural network models into highly optimized computation flows ready to be deployed on the Ara-1 chip."
     publishedDateTime: 2022-09-13T20:33:00Z

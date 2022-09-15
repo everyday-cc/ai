@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "SCAI and Lean to Develop Innovative AI Solutions for Saudi Healthcare Sector"
+    excerpt: "Wall Street Closing; SCAI and Lean to Develop Innovative AI Solutions for Saudi Healthcare Sector; EDM Council and National Data Management Office Cooperate to Enhance Data Manage"
+    publishedDateTime: 2022-09-13T21:40:00Z
+    webUrl: "https://www.spa.gov.sa/viewfullstory.php?lang=en&newsid=2383743"
+    type: article
+    provider:
+      name: spa.gov.sa
+      domain: spa.gov.sa
+    quality: 51
+    images:
+      - url: "https://clcdn.spa.gov.sa/galupload/thumb/no-image-logo.png"
+        width: 805
+        height: 612
+        isCached: true
 
 secured: "8duSSPYbV8Km64k83mbNpBqloSVgcvY+BxsFdwKcsKKszmtm6aeeot/tc7WfXo2eai16Nn08Q7UR8MysBBzGwCkXwo+cMY7i0gWLN0kuvnvW11oigxqKuUAoGGoG6K3bQ0d4+PBAjxkieKyuhOdyJDhaF1d/dGthetjS18OCiZ8mDEIh5AbhXRY3GKGxsa9ebVP4aqv2MwFP2CrCl9KscbDVM9jB3COKy1UGljdYyt5vZLki6jItXs7zv89d1iAmBhVYpThUOgnGKAWPoUOpY9jZwRNvyK94kddUptKcS4VnN1rpfLAnDlN+fXye8GgyW/f9hm14Cwndl9ZAbvs7074z/ZAN7fMZgIeS8vZ3kbA=;I8Wz3ywsROIDlKU5OzoJ8Q=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-15T18:40:00Z
 originalUrl: "https://www.forbes.com/sites/tiriasresearch/2022/09/15/ampere-computing-leads-in-cloud-deployments/"
 webUrl: "https://www.forbes.com/sites/tiriasresearch/2022/09/15/ampere-computing-leads-in-cloud-deployments/"
 type: article
+quality: 20
+heat: 20
+published: false
 
 provider:
   name: Forbes

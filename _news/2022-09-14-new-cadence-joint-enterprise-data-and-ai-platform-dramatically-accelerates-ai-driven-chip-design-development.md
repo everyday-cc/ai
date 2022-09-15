@@ -71,15 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Using artificial intelligence to improve tuberculosis treatments"
-    excerpt: "Researchers used data from large studies that contained laboratory measurements of two-drug combinations of 12 anti-tuberculosis drugs. Using mathematical models, the team discovered a set of rules that drug pairs need to satisfy to be potentially good treatments as part of three- and four-drug cocktails."
-    publishedDateTime: 2022-09-14T22:32:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/09/220914180013.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "Use of RWE, AI elevating drug development: Sidley"
     excerpt: "A fleet of legal professionals offers advice and perspective on important considerations when harnessing artificial intelligence and real-world evidence."
     publishedDateTime: 2022-09-12T14:11:00Z
@@ -94,6 +85,15 @@ related:
         width: 750
         height: 435
         isCached: true
+  - title: "Using artificial intelligence to improve tuberculosis treatments"
+    excerpt: "Imagine you have 20 new compounds that have shown some effectiveness in treating a disease like tuberculosis (TB), which affects 10 million people worldwide and kills 1.5 million each year. For effective treatment,"
+    publishedDateTime: 2022-09-14T21:11:00Z
+    webUrl: "https://phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 17
   - title: "New Cadence Joint Enterprise Data and AI Platform Dramatically Accelerates AI-Driven Chip Design Development"
     excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the delivery of the Cadence ® Joint Enterprise Data and AI (JedAI) Platform, enabling a generational shift from single-run, single-engine algorithms in electronic design automation (EDA) to algorithms that leverage big data and artificial intelligence (AI) to optimize multiple runs of multiple engines across an entire SoC design and verification flow."
     publishedDateTime: 2022-09-13T16:13:00Z

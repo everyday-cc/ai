@@ -24,6 +24,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "CADY's Automatic Technology Analyzes Electronic Circuit Designs in Minutes Instead of Days to Weeks and Eliminates Human Errors"
+    excerpt: "Following a successful collaboration with Intel's startup acceleration program, Intel Ignite, CADY's PoC (Proof of Concept) was tested in a real design environment. The product pr"
+    publishedDateTime: 2022-09-15T18:20:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/09/15/9674382.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
 secured: "j8cZ3GrxLbxH/WzbA/x/iH0Tj5F4f5R9KOuduH5/ZMcJCoRXbCEYP/rZJXRvBKsAusw8Szs9/cqgXoaF1ELIqvAF6ErzfZuO8Ql0n2MquA/0aEXO8RRCEzPJ5QZeivVUesbagAMd0HAVk4L0VTL4zan7C307DSeDitNSwOu76JF5/YU7Q4juPbUQzTcwneVCiYLdJdW8E2xB21QUgMhKGSL/9Agt/IxfAGB/SUbNWWpkubV3d5KdyaBSDZLDL7hlix6Xu4w1YCwxtjZtQORGvbiLStql25BMHGf7zbxpgaV7wjNw9sMtUErqbBQ4vuQiR0cdWEg/EORAN9VZ1c72aUSNr2/SqDtPDWThveKOgZQ=;G44MYejpIqTgtZC0mQIbvA=="
 ---
 

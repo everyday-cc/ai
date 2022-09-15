@@ -42,6 +42,15 @@ related:
       name: federalnewsnetwork.com
       domain: federalnewsnetwork.com
     quality: 19
+  - title: "Scientists are using AI to dream up revolutionary new proteins"
+    excerpt: "Huge advances in artificial intelligence mean researchers can design completely original molecules in seconds instead of months."
+    publishedDateTime: 2022-09-15T18:30:00Z
+    webUrl: "https://www.nature.com/articles/d41586-022-02947-7"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 19
 
 secured: "nBAi8zCCTwzeKcZ69Gyg6+iisf2ytgQ2kswYtXgDJ3SUlCzZffK9976zSPdoGKiZkMHwOVZYCpzTh6VerCeoqkRdc2K+tpOtAY0vROVdgjoQrBgYJKoVOyUwxDUaohdyUxC9H525KA4OhqEcXI0SDU54d3LecCvonxPyVgnvicWWNvFowzi9EAL23lF8yOoD0F0rrt0EFbRRq88Z7K6r4xQuTboRmTiBrojIXabB6q7hzSQHZFxLZb0/ClzaKnd/Kf5trhjnp2MLrfVvjR9DCrlEJlc/UjTh7bN6zmXmeTfro+J/lXKh2KLHjwObyxbK4rf+TcqtH9UjhHxRgly/LrDQYHivR9QWdXCVqCPP6x8=;CiUdns4M03a77gexAPvQ6Q=="
 ---

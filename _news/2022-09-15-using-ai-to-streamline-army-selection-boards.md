@@ -42,6 +42,15 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 26
+  - title: "Scientists are using AI to dream up revolutionary new proteins"
+    excerpt: "Huge advances in artificial intelligence mean researchers can design completely original molecules in seconds instead of months."
+    publishedDateTime: 2022-09-15T18:30:00Z
+    webUrl: "https://www.nature.com/articles/d41586-022-02947-7"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 19
 
 secured: "9zybqndbAOn+vXJiiAGQ0/B8o6De8/P4Z7ZKUvnmC2TOq/KzxQWIb88ekIodEq5q+vKnGMGm4D1nUWJflDQjmHyMQmja8C02oVn0kjAwGj5p8kAdGEfmFkkNGXxmArSppDPYixeqL0BDKJzIm15FUWJ+/X/kl3R405Qpu2OJyGkNDskO+RJXz96wjEG7v7FXbw/RxN7pSWV6iUSJjY8Tt/s2ygQ0LuG66b7YlSs2h8g0/+vVU2M0nmg211SlZsKhEbrsBxGvF0aVkBLijZ8EzbtjNWSS9F8z1df8YoTvxfSpdrMjwGVlH9hlJmW42t7IRQrPUEAjCJOZQKN5gYhWVpTf93L1VXKvz/YVDL9BF9/ylNpXVDKkWCvBMxm19iZz5aU6qopKrxxtXfmOGRp8pvL+7r7s0MCkQNNJ+NIg2v5b6mFU5dhGJdPSFx1eqRUp9qII1avre9LCiYJSimuXbQu4iI5oy2AdUIMGjwEuYrPMnCpAejMDmvypGvJ8rW/3sbb0/8/T3t7exjcoCFEwcw==;4gASUWUZOeQjvVJGK1iDag=="
 ---

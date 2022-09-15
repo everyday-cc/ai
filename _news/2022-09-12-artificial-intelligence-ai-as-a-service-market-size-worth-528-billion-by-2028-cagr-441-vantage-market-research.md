@@ -33,10 +33,19 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 42
+  - title: "Artificial Intelligence (AI) In Education Market Size Is Expected to Hit $80 Billion By 2030"
+    excerpt: "FinancialNewsMedia.com News Commentary - Artificial Intelligence (AI) is crossing over to new markets and brings additional revenues along with it. Increasing demand for Intelligent Tutoring Systems (ITSs) is fueling the AI in education industry growth."
+    publishedDateTime: 2022-09-15T18:12:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/09/15/9674474.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 42
   - title: "USD 23.61 Bn growth opportunity in Mobile Artificial Intelligence (AI) Market -- Driven by increasing smartphone penetration"
     excerpt: "The global mobile artificial intelligence market size is expected to grow by USD 23.61 billion between 2021 and 2026, accelerating at a CAGR of 29.06% during the forecast period. The report considers various aspects such as the consumer base,"
-    publishedDateTime: 2022-09-14T19:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-usd-2361-bn-growth-opportunity-mobile-artificial-intelligence-/2022/09/14/9673912.htm"
+    publishedDateTime: 2022-09-14T19:39:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/09/14/9673912.htm"
     type: article
     provider:
       name: TMCnet
@@ -47,6 +56,15 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Artificial Intelligence (AI) In Education Market Size Is Expected To Hit $80 Billion By 2030 - Financial News Media"
+    excerpt: "( MENAFN - Financial News Media) data-id='165ecfe1' data-element_type='widget' data-widget_type='theme-post-content.default'> Palm Beach, FL – September 15, 2022 – FinancialNewsMedia.com News Commentary – Artificial Intelligence (AI) is crossing over to new markets and brings additional revenues along with it."
+    publishedDateTime: 2022-09-15T18:35:00Z
+    webUrl: "https://menafn.com/1104872865/Artificial-Intelligence-AI-In-Education-Market-Size-Is-Expected-To-Hit-80-Billion-By-2030-Financial-News-Media"
+    type: article
+    provider:
+      name: MENAFN
+      domain: menafn.com
+    quality: 27
 
 secured: "dYtFygRdofAsvy/ZdoPtMMVzZH7UihWRdKbyTaIYbInhfEZBxbVto3DmPDgrBcGMn9BV/3XUsqRAxBhHoWhOXZ49p6l93DY/+0GdPrOPUtlLXK1tQ+4jv0QWLCJcQDHe1xRfExiWHo1Vtg+VQJfVDIjA1uXsC2ZXbE/I7zHg7i13dEkez5apAJmcPpXikXBLrnaQlWTvQh2Qb+ySCGU5Vr0en187FVUH4MLcDralcRh015s1RiIeyP3KqMEXViv9rjoQFarZZgX6A1Lkjic25Ob79XOnA/I1klZzD/d7l0ffYe8LUB7Kegp7gISIt3AGKW8o1ufZz5sMxOx9ZlbGzlCheK1AwFJbNyVVqq7v31U=;F21OvFTHFkyerTPCEuEn1g=="
 ---

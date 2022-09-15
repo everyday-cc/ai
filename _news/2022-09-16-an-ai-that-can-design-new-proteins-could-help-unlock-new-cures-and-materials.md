@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-15T18:00:00Z
 originalUrl: "https://www.technologyreview.com/2022/09/15/1059550/an-ai-that-can-design-new-proteins-could-help-unlock-new-cures-and-materials/"
 webUrl: "https://www.technologyreview.com/2022/09/15/1059550/an-ai-that-can-design-new-proteins-could-help-unlock-new-cures-and-materials/"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: MIT Technology Review

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-15T19:38:00Z
 originalUrl: "https://www.biometricupdate.com/202209/idemia-claims-fairest-facial-verification-among-most-accurate-algorithms-in-latest-nist-test"
 webUrl: "https://www.biometricupdate.com/202209/idemia-claims-fairest-facial-verification-among-most-accurate-algorithms-in-latest-nist-test"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: Biometric Companies

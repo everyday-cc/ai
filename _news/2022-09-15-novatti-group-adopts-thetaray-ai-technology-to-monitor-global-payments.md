@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Novatti Group Adopts Thetaray AI Technology To Monitor Global Payments"
+    excerpt: "ThetaRay , a leading provider of AI-powered transaction monitoring technology, today announced that Novatti Group (ASX:NOV) , a"
+    publishedDateTime: 2022-09-15T20:39:00Z
+    webUrl: "https://menafn.com/1104873071/Novatti-Group-Adopts-Thetaray-AI-Technology-To-Monitor-Global-Payments"
+    type: article
+    provider:
+      name: MENAFN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2022-09/15/A_ed547image_story.jpg"
+        width: 480
+        height: 242
+        isCached: true
   - title: "Novatti Group Adopts ThetaRay AI Technology to Monitor Global Payments"
     excerpt: "Headquartered in Australia, Novatti Group enables businesses and individuals to make payments both domestically and internationally. Novatti currently serves 59 countries with products including cross-border transfers,"
     publishedDateTime: 2022-09-14T13:36:00Z

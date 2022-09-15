@@ -65,15 +65,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Using artificial intelligence to improve tuberculosis treatments"
-    excerpt: "Researchers used data from large studies that contained laboratory measurements of two-drug combinations of 12 anti-tuberculosis drugs. Using mathematical models, the team discovered a set of rules that drug pairs need to satisfy to be potentially good treatments as part of three- and four-drug cocktails."
-    publishedDateTime: 2022-09-14T22:32:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/09/220914180013.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "Use of RWE, AI elevating drug development: Sidley"
     excerpt: "A fleet of legal professionals offers advice and perspective on important considerations when harnessing artificial intelligence and real-world evidence."
     publishedDateTime: 2022-09-12T14:11:00Z
@@ -102,6 +93,15 @@ related:
         width: 480
         height: 480
         isCached: true
+  - title: "Using artificial intelligence to improve tuberculosis treatments"
+    excerpt: "Imagine you have 20 new compounds that have shown some effectiveness in treating a disease like tuberculosis (TB), which affects 10 million people worldwide and kills 1.5 million each year. For effective treatment,"
+    publishedDateTime: 2022-09-14T21:11:00Z
+    webUrl: "https://phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 17
 
 secured: "fFZWJnBJS6/AC9x4RArv2A4z7pR/3zaILKDzlqISIZxkUFvXTmMLcr87BPpD6cZu0JmHVxlmz9I1D2X5cEpVYoEDtLNZ23NahqXahMFlnJToU0Zn9ubBjKjQ5y0EqbOHfthIMv3GlVpmYdjmmkzrEExrydkecDwMA2LyGG819Fk0ehw8ZLPs18MajXV2IhTDH0ksMVw0+dDYQT9O+sbyacc+937P2wEgjrbSsQ9rw7r9e+jw0N1BV5yczUDQu3uEL/YATC6meVrCA2pTMLEw+4rcHdLLTWunE+sh974U6JF+oDwgymwaL1g06BI5a/OkWCit9+zo6orqIUqHYQWmy6f+ZzYCWYmf1Xj+CESjd89HnIhKHkYq6G9tXnccb9Z/wlCbjr7LESJxmFBhj2bJ7hW2vFq8jhfcNjEHpmNWBohync82CglsOTEv2VvgOp1WXTnto5WkVPfdYwBCRdXQ6XoIvNNioNq4pXeJEuuY2s2D3zY7zAchYmr67GuVZn3V3r9YC7mnusrn59a33orApQ==;we/xBOT4h7DDXwYkXow7vA=="
 ---
