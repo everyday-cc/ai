@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "bluehexagonai"
   url: "https://twitter.com/bluehexagonai"
-  followers: 440
+  followers: 441
 
 size: 11-50 employees
 yearFounded: 2017
@@ -45,6 +45,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "XM89kAZgBIuLBIwtGxTQROzpNC5AC+BiK7ARmDLiFwUSND8mNdmJLK6iScrypBb2RlNgzS+hIqzRsXCKG/ZCM38W6zdB20P7nLdhMecnKgHtNFHc9j3oLg44uppi6SxzRZfuHUmDGq13rpnNxl5bf0j+hnuCV7brJYOJT96qtDOL7iI+rxZm1cT6zG3B5KF6T1TlCDSvNlLCeehZBaT2ywvLhUDMwkCl/WgROdvXPGa1JN38D7G8VpFiPYvzQZ0ESV4jjYEzdndEDMSfi3JnBtdaDC3yLk2rl8thVvQKzTMqDIRoM3JG33QYhUvQQnzOrz0UWxnUXGuUPiWB5oVBvYN/IYe5wiVazMoLNEhHgIDHdjQ2izpJluZzbPeQUzmOknGDnfocmzgt5zvtF11uUw==;tUajfisTUOuGWSAZgRzMRw=="
+secured: "6xklJbWNtrYnf4r3o8K94IGkSDVecBcIfzboXgjm90im76e8WC54GsOzMT+7gAXJ7Yv/OLXKE4jElI84ucF2d6t/5KUvGPujJ1JBf+WMjkzzRWG/6two5SdQ5fiYU96ub+v+vV6RGteq7c07LPxu/FDP6peJ+R8L6fJvJiOaQGStwYPjRuu//4Ot3j9PQRPSC7p+m/nU28BP1wnS7JBX8sU1t1Om+NX9hFqzSq63cmFeFUMlfLVCd3XLGThzd8kgOZdXm5qryucvV+syfzpl2L3DrCN+t4Znelk+21AKwGTwRmNs26J+sAMSY8VgyTg3a7G4YmV49+iLMgtOyuHvkZIiCAcU8PEq89WA464NSmGj6zyTTBdN8aGrx/4q6q/9Uslq49qM1RK8HYZWUr+ZGA==;EY0GY6HNLl+g08fLhuIfLg=="
 ---
 

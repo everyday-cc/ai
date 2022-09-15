@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "Uptake Technologies"
 
-secured: "/gWDVFR/oQc33MEdMt0+1D3d1d6UlJzKo8GB/i/OzFoPkzSc1+fJ1SiP8y//QmtnlA+uq4CUSVm/2kbk5x4O2qw1nFWCvhEFf3ukxQ38AazyqwaHQw53+4O1CraWPFZofre8Hf1QNFttpVWekNQozYUh3C2mscOwI5SyFnDdLaXestE0DooBQaK0A4v833d2uRjPkH4H/QOHvsY/98HfCLVggJPjyhF+8Czn/0lqrtuxqLSx9q/dWxwCvL2t8mzobhLxEmiqo6yfohyXsBXmd6rdB7XrACvhfQ+TZtBqecgsTzNJl+inI5ZUsm9YFQJ6HqtCvDPeN/Dj5f9Z6Gxpt1PRzgRUjl/sJqNVp3iV3z9fg2mOpr5vGN/Qo5XdYiZNwtFdEmg19lvECIlfNWYyOd70Yb0goj3bhWHbjhs1Mp8=;LpKMw+YWVs9bvXciLNihcg=="
+secured: "7XBW5IDBpC57WVM5PsZy9crW41OrYmNTsdcBtnY2Bclf1V7dWxwVbaBVV+raM4GIa+cfKGgdiV4F37kDr1TL2PFMQgm1srPMvfET1wl2NKNiArz0sp7vQ5qzZOk4a2m2xcb0H5+rYKDJW+OCd02sb7fNgf9j1iKS/pPGDULiWm+zeCUlS5ufzuHrFTCETaKrbVy6sWPU29wUbwsKfIrhBo4XI4B9CzapQ0SHIgI1a19RkJ0+3gO/O+e3KkFIKFEQKAsElt4Ywajs+kSSn/T0oJZN7m5J3hrTW2oD0cM42ojgHVFI7g9+kXFT32iA2DvBUvVoRIAF/rn1rI0FGYRJzIDWA+RRt5EK4tK6sVNEwkG1mXLN4z/bcAnG7caM8wOhc+cSfBq/xAxgFKHHazOJW9RHohgV8/+XAZhELtm8hNM=;DhUiJClMAdomKiKpRNSf2g=="
 ---
 
