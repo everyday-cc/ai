@@ -19,6 +19,36 @@ topics:
   - AI
 
 related:
+  - title: "Tesla Sued Over Alleged False Autopilot, Full Self Driving Claims"
+    excerpt: "Tesla is facing a class-action lawsuit that accuses the electric car maker of misleading the public by falsely advertising its Autopilot and Full Self-Driving (FSD) features. The complaint, filed Wednesday in the US District Court Northern District of California,"
+    publishedDateTime: 2022-09-15T14:27:00Z
+    webUrl: "https://www.pcmag.com/news/tesla-sued-over-alleged-false-autopilot-full-self-driving-claims"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 99
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/02rZlMJXru91gBwYbJqXocl-1.fit_lim.size_1200x630.v1663239854.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "New Lawsuit Questions Tesla’s Autopilot, Self-Driving Claims"
+    excerpt: "Tesla, under federal investigation and facing a California DMV complaint over driver-assistance technology, is accused of deceiving buyers and the public with claims about its \"Autopilot\" and \"self-driving\" systems."
+    publishedDateTime: 2022-09-15T15:54:00Z
+    webUrl: "https://www.govtech.com/transportation/new-lawsuit-questions-teslas-autopilot-self-driving-claims"
+    ampWebUrl: "https://www.govtech.com/transportation/new-lawsuit-questions-teslas-autopilot-self-driving-claims?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/new-lawsuit-questions-teslas-autopilot-self-driving-claims?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/a9a0a3e/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F0f%2F5d%2F638415b88cd0cc4b3eef174d6e53%2Ftesla.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "Tesla sued over Autopilot, Full Self-Driving claims"
     excerpt: "Tesla was sued Wednesday in a proposed class action accusing it and Elon Musk of falsely advertising its Autopilot and Full Self-Driving features."
     publishedDateTime: 2022-09-14T23:22:00Z
@@ -34,6 +64,22 @@ related:
       - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2020-10/0380b6e0-05a2-11eb-85db-415ddea8ac97"
         width: 1062
         height: 597
+        isCached: true
+  - title: "Tesla drivers sue over alleged false Autopilot, Full Self-Driving claims"
+    excerpt: "Class-action suit says tech \"just around the corner\" doesn't actually exist, and was just used to drum up sales Tesla was sued on Wednesday in a proposed class action accusing Elon Musk’s electric car company of misleading the public by falsely advertising its Autopilot and Full Self-Driving features."
+    publishedDateTime: 2022-09-15T14:58:00Z
+    webUrl: "https://driving.ca/auto-news/news/tesla-drivers-sue-over-alleged-false-autopilot-full-self-driving-claims"
+    ampWebUrl: "https://driving.ca/auto-news/news/tesla-drivers-sue-over-alleged-false-autopilot-full-self-driving-claims/wcm/52990a28-2d52-4a43-9df4-8161f4872480/amp/"
+    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/news/tesla-drivers-sue-over-alleged-false-autopilot-full-self-driving-claims/wcm/52990a28-2d52-4a43-9df4-8161f4872480/amp/"
+    type: article
+    provider:
+      name: blogs.driving.ca
+      domain: driving.ca
+    quality: 73
+    images:
+      - url: "https://smartcdn.gprod.postmedia.digital/driving/wp-content/uploads/2022/02/Tesla-wall-connector-EV-charger-plug-cable-home-garage.png"
+        width: 1800
+        height: 1200
         isCached: true
   - title: "Tesla deceiving public on ‘Full Self-Driving’ and dangerous ‘Autopilot,’ lawsuit claims"
     excerpt: "Tesla has claimed driver-assistance technologies are steps toward fully autonomous driving, but hasn’t come close to that goal, suit claims."
@@ -67,6 +113,38 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Tesla sued by drivers over alleged false Autopilot, Full Self-Driving claims"
+    excerpt: "Tesla Inc was sued on Wednesday in a proposed class action accusing Elon Musk's electric car company of misleading the public by falsely advertising its Autopilot and Full Self-Driving features. The complaint accused Tesla and Musk of having since 2016 deceptively advertised the technology as fully functioning or 'just around the corner' despite knowing that the technology did not work or was nonexistent,"
+    publishedDateTime: 2022-09-15T09:21:00Z
+    webUrl: "https://www.carsifu.my/news/tesla-sued-by-drivers-over-alleged-false-autopilot-full-self-driving-claims"
+    type: article
+    provider:
+      name: CarSifu
+      domain: carsifu.my
+    quality: 51
+    images:
+      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2022/09/autopilot.jpg"
+        width: 1024
+        height: 916
+        isCached: true
+  - title: "Tesla has now been sued over Musk’s Full Self-Driving claims"
+    excerpt: "Tesla has found itself the target of a recent lawsuit filed in San Francisco. The suit comes from a Tesla owner claiming that Elon Musk has acted “deceptively and misleadingly w"
+    publishedDateTime: 2022-09-15T13:16:00Z
+    webUrl: "https://knowtechie.com/tesla-has-now-been-sued-over-musks-full-self-driving-claims/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 34
+  - title: "Tesla deceiving public with claims on ‘self-driving’ and ‘Autopilot’ systems, lawsuit alleges"
+    excerpt: "The lawsuit, seeking class-action status to bring in hundreds of thousands of Tesla owners, targets claims by the electric car maker and its CEO, Elon Musk, that its $15,000 “Full Self-Driving” package means buyers will soon get a fully-autonomous car,"
+    publishedDateTime: 2022-09-15T12:40:00Z
+    webUrl: "https://www.dailypress.com/business/vp-nw-tesla-lawsuit-20220915-zenjxfv34janxgpf2jsl6etoga-story.html"
+    type: article
+    provider:
+      name: Daily Press
+      domain: dailypress.com
+    quality: 23
   - title: "Tesla hit with new federal lawsuit over self-driving system"
     excerpt: "Tesla is gearing up for another legal battle over its self-driving technology. Burlingame-based Cotchett, Pitre & McCarthy, LLP said Wednesday that it has filed a lawsuit against the electric automaker for allegedly misleading the public regarding its autopilot and full self-driving technology."
     publishedDateTime: 2022-09-14T21:21:00Z

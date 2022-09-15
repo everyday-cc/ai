@@ -2,6 +2,50 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-05-25-meta-selects-azure-as-strategic-cloud-provider-to-advance-ai-innovation-and-deepen-pytorch-collaboration.md",
+      "title": "Meta selects Azure as strategic cloud provider to advance AI innovation and deepen PyTorch collaboration",
+      "excerpt": "Microsoft is committed to the responsible advancement of AI to enable every person and organization to achieve more. Over the last few months, we have talked about advancements in our Azure infrastructure, Cognitive Services, and Azure Machine Learning to make Azure better at supporting the AI needs",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/meta-selects-azure-as-strategic-cloud-provider-to-advance-ai-innovation-and-deepen-pytorch-collaboration/",
+      "originalUrl": "https://azure.microsoft.com/blog/meta-selects-azure-as-strategic-cloud-provider-to-advance-ai-innovation-and-deepen-pytorch-collaboration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T01:00:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-ai-development-on-microsoft-azure-gets-beefed-up-with-access-to-openai-models.md",
       "title": "AI development on Microsoft Azure gets beefed up with access to OpenAI models",
       "excerpt": "Microsoft Corp. is expanding its long-running relationship with the artificial intelligence research outfit OpenAI Inc. as it launched a new service today for Azure Cognitive Services.",
@@ -1318,40 +1362,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-reciprocal-associations-of-posttraumatic-stress-symptoms-and-cognitive-decline-in-community-dwelling-older-adults-the-mediating-role-of-depression.md",
-      "title": "Reciprocal associations of posttraumatic stress symptoms and cognitive decline in community-dwelling older adults: The mediating role of depression",
-      "excerpt": "Email: ellasch@bgu.ac.il People with posttraumatic stress disorder (PTSD) may have cognitive decline, a risk which can be particularly threatening at old age. However, it is yet unclear whether initial cognitive decline renders one more susceptible to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/international-psychogeriatrics/article/reciprocal-associations-of-posttraumatic-stress-symptoms-and-cognitive-decline-in-communitydwelling-older-adults-the-mediating-role-of-depression/B3E19D38DFDF91ACF6C7000F496A9487",
-      "originalUrl": "https://www.cambridge.org/core/journals/international-psychogeriatrics/article/reciprocal-associations-of-posttraumatic-stress-symptoms-and-cognitive-decline-in-communitydwelling-older-adults-the-mediating-role-of-depression/B3E19D38DFDF91ACF6C7000F496A9487",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

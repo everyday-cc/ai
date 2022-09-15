@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-15T10:31:00Z
 originalUrl: "https://inews.co.uk/news/preparations-queens-funeral-police-expansion-bomb-proof-1854325?ico=most_popular"
 webUrl: "https://inews.co.uk/news/preparations-queens-funeral-police-expansion-bomb-proof-1854325?ico=most_popular"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: i

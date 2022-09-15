@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-15T13:00:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-9-15-blyncsy-partners-with-summit-design-and-engineering-services-to-bring-artificial-intelligence-to-our-roadways"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-9-15-blyncsy-partners-with-summit-design-and-engineering-services-to-bring-artificial-intelligence-to-our-roadways"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Daily Herald

@@ -44,34 +44,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 57
-  - title: "Cadence accelerates AI-driven chip design development"
-    excerpt: "Cadence Design Systems has announced the launch of the Cadence Joint Enterprise Data and AI (JedAI) Platform. The platform enables a move from single-run, single-engine algorithms in electronic design automation (EDA) to algorithms that leverage big data and artificial intelligence (AI) to optimise multiple runs of multiple engines across an entire SoC design and verification flow."
-    publishedDateTime: 2022-09-14T08:00:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/cadence-accelerates-ai-driven-chip-design-development"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 54
-    images:
-      - url: "https://www.newelectronics.co.uk/media/nagnckik/ca591_jedai_press-and-social-image_rectangle.jpg?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "New Cadence Joint Enterprise Data and AI Platform Dramatically Accelerates AI-Driven Chip Design Development"
-    excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the delivery of the Cadence® Joint Enterprise Data and AI (JedAI) Platform, enabling a generational shift from single-run, single-engine algorithms in electronic design automation (EDA) to algorithms that leverage big data and artificial intelligence (AI) to optimize multiple runs of multiple engines across an entire SoC design and verification flow."
-    publishedDateTime: 2022-09-14T08:27:00Z
-    webUrl: "https://www.design-reuse.com/news/52657/cadence-joint-enterprise-data-and-ai-jedai-platform.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 35
-    images:
-      - url: "https://www.design-reuse.com/news_img2/homepage52657/JedAI_Press_and_Social_Image_Square.jpg"
-        width: 480
-        height: 480
-        isCached: true
   - title: "Vector Flow demonstrating next generation AI-driven PIAM and SOC automation solutions at GSX 2022"
     excerpt: "Vector Flow is demonstrating its innovative PIAM and SOC automation solutions here at GSX 2022 in suite 1050. The advanced cloud-enabled and on-premises platform converts raw physical security data from multiple sources into intelligent actionable insights to drive operational performance and business results."
     publishedDateTime: 2022-09-13T01:25:00Z
@@ -86,15 +58,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "New Cadence Joint Enterprise Data and AI Platform Dramatically Accelerates AI-Driven Chip Design Development"
-    excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the delivery of the Cadence ® Joint Enterprise Data and AI (JedAI) Platform, enabling a generational shift from single-run, single-engine algorithms in electronic design automation (EDA) to algorithms that leverage big data and artificial intelligence (AI) to optimize multiple runs of multiple engines across an entire SoC design and verification flow."
-    publishedDateTime: 2022-09-13T16:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/09/13/9672667.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
 
 secured: "nPMdbtLwyfZwGEZklvFMeBOsKBJQL5se4Dm0bW9wAiIuQD57v3JYWnrqYuJHJ2sVLqICHcc6QykPiutrLT33i7wtp+/uDUvfxPF0jDl6Tn1HrZZGeFkoq11+KOnudy4RAJsspF4T9/cNPMK129xa7K3vOL9wKal+b2CWdhXWV7chN+ScCtQywZAeWnGGTdFv5JRO1nhd9YbFKXcEx0eGWJbmV4taAh4sTUXJtzwF/7RkTbOtIiQjDZ5c7WQYfCSzoutWmGXMXMjZaZ85AQDjtQMmtjGarygU+pRTKQ/xwFQ1yxK4+iq7X0UyQ8QJzKdnsrl6gR5MOXxqpQYyp5+9pv6tRmimRMkZpr30CNQTtgY=;UwpBoZsDlYA3xF/AKye5uQ=="
 ---

@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-07-24-how-drone-autonomy-unlocks-a-new-era-of-ai-opportunities.md",
+      "title": "How drone autonomy unlocks a new era of AI opportunities",
+      "excerpt": "Autonomous drone technology lets us digitize and analyze the physical world, observing and improving our world’s critical infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/23/how-drone-autonomy-unlocks-a-new-era-of-ai-opportunities/",
+      "originalUrl": "https://venturebeat.com/2022/07/23/how-drone-autonomy-unlocks-a-new-era-of-ai-opportunities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1319586125-Anton-Petrus.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/23/how-drone-autonomy-unlocks-a-new-era-of-ai-opportunities/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/23/how-drone-autonomy-unlocks-a-new-era-of-ai-opportunities/amp/",
+      "publishedDateTime": "2022-07-23T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-07-24-elon-musk-has-likely-downloaded-his-brain-into-a-robot.md",
       "title": "Elon Musk Has Likely Downloaded His Brain into a Robot",
       "excerpt": "\"20 to 30 years from first human landing if launch rate growth is exponential,\" Musk said on July 15 to a question about the estimated timeframe for creating a self-sustaining civilization on Mars. \"Assumes transferring ~100k each rendezvous and ~1M total people needed,",
@@ -1362,49 +1414,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-the-best-post-amazon-prime-day-deals-on-robot-vacuums-you-can-still-get-roomba-samsung-jet-bot-more.md",
-      "title": "The best post-Amazon Prime Day deals on robot vacuums you can still get: Roomba, Samsung Jet Bot, more",
-      "excerpt": "Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch your robot vacuum operate no matter where you are, using Samsung's SmartThings App. The Jet Bot AI+ ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/robot-vacuums-deals-amazon-prime-day-2022/?intcid=CNI-00-10aaa3a",
-      "originalUrl": "https://www.cbsnews.com/essentials/robot-vacuums-deals-amazon-prime-day-2022/?intcid=CNI-00-10aaa3a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/07/07/f7a3df6f-2008-4e3a-8f75-077de5b2df8f/thumbnail/1200x630/ab8ffa1608ae5b817695d99e881bdabb/robot-vacuum-hero.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/robot-vacuums-deals-amazon-prime-day-2022/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/robot-vacuums-deals-amazon-prime-day-2022/",
-      "publishedDateTime": "2022-07-14T04:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-06-01-azure-active-directory-logs-are-lagging-and-alerts-may-be-wrong-or-missing.md",
+      "title": "Azure Active Directory logs are lagging, and alerts may be wrong or missing",
+      "excerpt": "\"Customers using Azure Active Directory and other downstream impacted services may experience a significant delay in availability of logging data for resources,\" the Azure status page explains. Tools including Azure Portal,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/06/01/azure_ad_logging_problem/?td=rt-3a",
+      "originalUrl": "https://www.theregister.com/2022/06/01/azure_ad_logging_problem/?td=rt-3a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2021/05/25/azure.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/06/01/azure_ad_logging_problem/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/06/01/azure_ad_logging_problem/",
+      "publishedDateTime": "2022-06-01T05:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-01-can-video-games-boost-kids-cognitive-development.md",
       "title": "Can video games boost kids' cognitive development?",
       "excerpt": "Researchers have found that children between the ages of 8 and 12 who play video games perform better on a variety of tests associated with intelligence and cognitive development. Can video games ...",
@@ -1190,50 +1233,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-meta-selects-azure-as-strategic-cloud-provider-to-advance-ai-innovation-and-deepen-pytorch-collaboration.md",
-      "title": "Meta selects Azure as strategic cloud provider to advance AI innovation and deepen PyTorch collaboration",
-      "excerpt": "Microsoft is committed to the responsible advancement of AI to enable every person and organization to achieve more. Over the last few months, we have talked about advancements in our Azure infrastructure, Cognitive Services, and Azure Machine Learning to make Azure better at supporting the AI needs",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/meta-selects-azure-as-strategic-cloud-provider-to-advance-ai-innovation-and-deepen-pytorch-collaboration/",
-      "originalUrl": "https://azure.microsoft.com/blog/meta-selects-azure-as-strategic-cloud-provider-to-advance-ai-innovation-and-deepen-pytorch-collaboration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T01:00:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Facebook AI"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-01-brain-cells-that-give-humans-higher-cognitive-abilities-over-other-animals-are-also-linked-to-neurological-disorders-like-schizophrenia-autism.md",
+      "title": "Brain cells that give humans higher cognitive abilities over other animals are also linked to neurological disorders like schizophrenia, autism and epilepsy, a new study finds",
+      "excerpt": "Scientists have identified an immune brain cell unique to humans that gives us higher cognitive abilities over other animals, but what makes us specials also leaves us vulnerable to neurological ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-11166047/Brain-cells-humans-higher-cognitive-abilities-linked-neurological-disorders.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-11166047/Brain-cells-humans-higher-cognitive-abilities-linked-neurological-disorders.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2022/08/31/20/61921267-0-image-a-23_1661973353654.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-11166047/amp/Brain-cells-humans-higher-cognitive-abilities-linked-neurological-disorders.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11166047/amp/Brain-cells-humans-higher-cognitive-abilities-linked-neurological-disorders.html",
+      "publishedDateTime": "2022-09-01T03:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-voting-open-who-should-be-the-2022-most-influential-woman-in-uk-tech.md",
       "title": "Voting open: Who should be the 2022 Most Influential Woman in UK Tech?",
       "excerpt": "Each year, we ask our audience who should be named the most influential woman in UK technology. Tell us what you think.",
@@ -1238,58 +1281,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-hot-it-skills-to-develop-now.md",
-      "title": "Hot IT Skills To Develop Now",
-      "excerpt": "Technology continually evolves, and our skills need to evolve with it to remain relevant and keep our careers on track. As the global CIO at NPD, I’ve met many amazing CIO/CTO colleagues and watched as the key issues we collectively face have evolved from pre-pandemic planning to supporting our business through the pandemic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/hot-it-skills-to-develop-now/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/hot-it-skills-to-develop-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f3ac7cf80a528019291bfb9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/hot-it-skills-to-develop-now/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/23/hot-it-skills-to-develop-now/amp/",
-      "publishedDateTime": "2022-08-23T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

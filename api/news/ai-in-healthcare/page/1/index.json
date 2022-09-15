@@ -55,58 +55,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-14-how-whitelab-genomics-is-using-ai-to-aid-gene-and-cell-therapy-development.md",
-      "title": "How WhiteLab Genomics is using AI to aid gene and cell therapy development",
-      "excerpt": "WhiteLab Genomics provides gene and cell therapy companies with predictive software simulations to expedite the design of gene and cell therapies.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/12/how-whitelab-genomics-is-using-ai-to-aid-gene-and-cell-therapy-development/",
-      "originalUrl": "https://techcrunch.com/2022/09/12/how-whitelab-genomics-is-using-ai-to-aid-gene-and-cell-therapy-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1311467129-e1663013508266.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/12/how-whitelab-genomics-is-using-ai-to-aid-gene-and-cell-therapy-development/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/12/how-whitelab-genomics-is-using-ai-to-aid-gene-and-cell-therapy-development/amp/",
-      "publishedDateTime": "2022-09-13T13:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-09-12-artificial-intelligence-and-machine-learning-market-impressive-growth-future-demand-during-forecast-period-2022-2028-aibrain-amazon-anki.md",
       "title": "Artificial Intelligence and Machine Learning Market Impressive Growth & Future Demand During Forecast Period 2022-2028 | AIBrain, Amazon, Anki",
       "excerpt": "The research report also includes the present market and its growth potentials in the given period of forecast. An exhaustive and professional study of the global Artificial Intelligence and Machine Learning market report has been completed by industry professionals and presented in the most particular manner to present only the details that matter the most.",
@@ -157,6 +105,40 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-artificial-intelligence-could-be-a-great-equalizer.md",
+      "title": "Artificial Intelligence Could Be a Great Equalizer",
+      "excerpt": "The benefits of AI will accrue not only to the wealthy and technologists but also to the poor and disadvantaged.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/artificial-intelligence-couldbe-agreat-equalizer/2022/09/09/bd246350-3037-11ed-bcc6-0874b26ae296_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/artificial-intelligence-couldbe-agreat-equalizer/2022/09/09/bd246350-3037-11ed-bcc6-0874b26ae296_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-09T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {

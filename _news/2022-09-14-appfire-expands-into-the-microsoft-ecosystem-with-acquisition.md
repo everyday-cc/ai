@@ -19,20 +19,24 @@ topics:
   - AI
 
 related:
-  - title: "8 companies Amazon, Microsoft, or Google might buy as they shop for deals amid the market downturn, including Workday, Unity, and Roku"
-    excerpt: "Bernstein analysts reviewed Amazon, Microsoft, and Google's key initiatives and recent acquisitions to predict the firms they could acquire next."
-    publishedDateTime: 2022-09-15T11:00:00Z
-    webUrl: "https://www.businessinsider.com/amazon-microsoft-google-could-acquire-cloud-ai-security-takeover-targets-2022-9"
+  - title: "Soroco Scout™ Now Available in Microsoft Azure Marketplace"
+    excerpt: "Soroco, the world's first work graph company, today announced the availability of Soroco ScoutTM, the flagship product powered by work graph in Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2022-09-15T05:03:00Z
+    webUrl: "https://www.theweek.in/wire-updates/business/2022/09/15/dcm4-soroco.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
-    images:
-      - url: "https://i.insider.com/6321d6cce555ad00185291c5?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
+      name: The Week
+      domain: theweek.in
+    quality: 49
+  - title: "Soroco Scoutâ„¢ Now Available in Microsoft Azure Marketplace"
+    excerpt: "With Soroco Scout TM, enterprises can unlock complex and unstructured enterprise datasets, a powerful source for driving digital transformation with multiple levers. With Scout now available in Azure Marketplace,"
+    publishedDateTime: 2022-09-15T05:39:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1275498&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 49
 
 secured: "NdZC7KDExTnvz2bgc6fSveS5YEg7xL0ruNWyNVEIsTjORXk5G6SOtbhgaxgFiKStRMIAxtTU5F7QXyIjBcQ55tEX6wkehit4cW5nqZ8g1Ss68lf75XjycndcbEuHkxVfu1prWP4bRGFmnq32uY4vXp2GpcwtktyHbIeNMOFFPTYDMjWbEjPTy8anmBsV7jqiDoGenz0v2a3ePkoQS6LEQI08SLdxZCnJ2azuSvAMKQ7YpxdtBR4dZuJsKsdkMFcMrV+m2tl+AaHpibqj9dYjDRPgOrITrc2Q2vhM8I0eVyMEYkki8ff03EiKUTtpopEfUdHCJuhCOv+zkcFyaHqJXRvxY7zTJvaxtPGn3pYNvGY=;DN+rMjM7+i6bwzHSjkJ05g=="
 ---

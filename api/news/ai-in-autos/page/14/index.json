@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-06-18-self-driving-big-rigs-are-coming-is-america-ready.md",
+      "title": "Self-Driving Big Rigs Are Coming. Is America Ready?",
+      "excerpt": "The goal is better-than-human, but not perfect, autonomous driving; jobs are probably on the line. Every day, millions of sailors, truck drivers, longshoremen, warehouse workers and delivery drivers keep mountains of goods moving into stores and homes to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/self-driving-big-rigs-are-coming-is-america-ready-11655524823",
+      "originalUrl": "https://www.wsj.com/articles/self-driving-big-rigs-are-coming-is-america-ready-11655524823",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-566755/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/self-driving-big-rigs-are-coming-is-america-ready-11655524823",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-big-rigs-are-coming-is-america-ready-11655524823",
+      "publishedDateTime": "2022-06-17T21:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-17-the-truth-about-ai-and-roi-can-artificial-intelligence-really-deliver.md",
       "title": "The truth about AI and ROI: Can artificial intelligence really deliver?",
       "excerpt": "Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! More than ever, organizations are putting their confidence – and investment –  into the potential of artificial intelligence (AI) and machine learning (ML).",
@@ -1254,50 +1306,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-googles-artificial-intelligence-has-a-conscience-experts-say.md",
-      "title": "Google's Artificial Intelligence has a conscience, experts say",
-      "excerpt": "Google's Artificial Intelligence seems to have reached a new level, at least in the case of the LaMDA project, which impressed its workers. Google's Artificial Intelligence is probably one of the most advanced technologies in this field and we know that well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gq.co.za/culture/tech/googles-artificial-intelligence-has-a-conscience-experts-say-83a64d41-eb38-4063-898f-3a617a2f8ced",
-      "originalUrl": "https://www.gq.co.za/culture/tech/googles-artificial-intelligence-has-a-conscience-experts-say-83a64d41-eb38-4063-898f-3a617a2f8ced",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image-prod.iol.co.za/resize/960x960/Image-Pexels?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/cb7a733d-b193-584c-95be-ba6998e38100&operation=CROP&offset=1030x0&resize=4118x4118",
-          "width": 960,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T02:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GQ South Africa",
-        "domain": "gq.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

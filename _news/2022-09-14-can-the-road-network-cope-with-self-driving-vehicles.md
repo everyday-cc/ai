@@ -24,6 +24,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Human-Like Awareness Emerging in Self-Driving Vehicles"
+    excerpt: "How mobile robots sense and comprehend their surroundings accurately even when other objects block off certain areas is a critical issue that needs to be resolved."
+    publishedDateTime: 2022-09-14T13:11:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=13237"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 24
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/SocialSharingImage_13237_16631535276149501.jpg"
+        width: 750
+        height: 1141
+        isCached: true
+
 secured: "qMQw7tBY5VELtUNryTD4q/6E7BlvsEDfJTDOIbHKTGSDqvfHFCNUvaqxT6V5KicuowlrBXdCgMtIYhxfAiLcu59CM0orEgmnSsB7bJcp5m0mbl60KJ7SMItZp1atoDMv038zA8CAZ+64TYb694BxbPKE8wjDiVjCsNLNv+iu7yAreLkUTa9/VrYsXGjsazkodUMnNzrKRG+aYCsndehAfv4L5ch8DokuweChpCmIj062GJVk+4sDxln2q3mgeOFBUR72cgzfH+0KJNeTywWoyp5xtpFT/L+jRkNUL/B4/qnM0YJiGLgT05+jXbWm3Qi+j9rBKUpcdDCExvQIDhiJqmbN2yq9gmtaTDzjJZB0al4=;C/t6zrbt9P/axb78tGzMOg=="
 ---
 

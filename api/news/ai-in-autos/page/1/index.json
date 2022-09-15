@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-09-15-tesla-sued-over-autopilot-full-self-driving-claims.md",
-      "title": "Tesla sued over Autopilot, Full Self-Driving claims",
-      "excerpt": "Tesla was sued Wednesday in a proposed class action accusing it and Elon Musk of falsely advertising its Autopilot and Full Self-Driving features.",
+      "path": "_news/2022-09-15-tesla-sued-over-alleged-false-autopilot-full-self-driving-claims.md",
+      "title": "Tesla Sued Over Alleged False Autopilot, Full Self Driving Claims",
+      "excerpt": "Tesla is facing a class-action lawsuit that accuses the electric car maker of misleading the public by falsely advertising its Autopilot and Full Self-Driving (FSD) features. The complaint, filed Wednesday in the US District Court Northern District of California,",
       "sourceUrl": null,
-      "webUrl": "https://www.autoblog.com/2022/09/14/tesla-lawsuit-autopilot-full-self-driving/",
-      "originalUrl": "https://www.autoblog.com/2022/09/14/tesla-lawsuit-autopilot-full-self-driving/",
+      "webUrl": "https://www.pcmag.com/news/tesla-sued-over-alleged-false-autopilot-full-self-driving-claims",
+      "originalUrl": "https://www.pcmag.com/news/tesla-sued-over-alleged-false-autopilot-full-self-driving-claims",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 209,
       "tags": null,
       "images": [
         {
-          "url": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2020-10/0380b6e0-05a2-11eb-85db-415ddea8ac97",
-          "width": 1062,
-          "height": 597,
+          "url": "https://i.pcmag.com/imagery/articles/02rZlMJXru91gBwYbJqXocl-1.fit_lim.size_1200x630.v1663239854.jpg",
+          "width": 1120,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.autoblog.com/amp/2022/09/14/tesla-lawsuit-autopilot-full-self-driving/",
-      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/09/14/tesla-lawsuit-autopilot-full-self-driving/",
-      "publishedDateTime": "2022-09-14T16:22:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T07:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Autoblog",
-        "domain": "autoblog.com",
-        "images": null,
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -254,7 +263,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/13/is-ai-the-solution-to-hiring-bias-or-the-cause-of-it/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -358,7 +367,7 @@
       "originalUrl": "https://www.cnbc.com/2022/09/12/gms-self-driving-car-unit-to-offer-driverless-rides-in-phoenix-austin-this-year.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -444,7 +453,7 @@
       "originalUrl": "https://www.forbes.com/sites/robtoews/2022/09/11/4-hot-takes-about-the-wild-new-world-of-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {

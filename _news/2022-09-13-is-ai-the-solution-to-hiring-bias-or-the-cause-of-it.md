@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/13/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/13/is-ai-the-solution-to-hiring-bias-or-the-cause-of-it/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Artificial Intelligence Can Bring Real Solutions To The Power Grid Crisis"
+    excerpt: "The state utility registered a one-day summertime record for electricity usage, peaking at 21,086 megawatt-hours of electricity."
+    publishedDateTime: 2022-09-15T14:19:00Z
+    webUrl: "https://www.forbes.com/sites/sk/2022/09/15/artificial-intelligence-can-bring-real-solutions-to-the-power-grid-crisis/"
+    ampWebUrl: "https://www.forbes.com/sites/sk/2022/09/15/artificial-intelligence-can-bring-real-solutions-to-the-power-grid-crisis/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sk/2022/09/15/artificial-intelligence-can-bring-real-solutions-to-the-power-grid-crisis/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/631a5150de0822c428d70388/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 797
+        isCached: true
 
 secured: "+CMY/MwgCEbIKhEdX7qv69BCDr3b4H+bJDwxne6uZ8f2+f32o0lmda8WCvEZbZbj6CY/E4/NfnkKzJZL/8/Dr8wA16GYy18V03gPvfIiHR9GxraibmtfPlyYpr/D6ibGikO2BlDKhUpNEnGThzylxtWlfq16i5gaYqJPZ3X4jONOYDRJdmKO6y4Cy3ZcWcKGuZc4VH2JvcglN+GBTz83Y87YsA1cC3ueIKVfv7MgVws/NUebn7gWhaUO3YER5T9gBHRqrEpfcoYceW8ewsFVb6ATGf6n+yRP2t8X6emlmAqbOD7LRVY6mefePFp+KzjJgUQvtCwPjKX+317x7gPvINL8Ma6iYorW3JnG4rCsahObuSTPuobUHvWDYuXajekQhK8CxTiwDxnGvbJcfnmpzBJb0FoVak0hobvOzJz3PaqFOgJUkiTAc59IDEpgrzUpfv3vjTdRQbhtcNBlfveO/5QQYLSWz+pfb9IWEnpBzN1EDd6zEl+iDu6ahWjVDIEVT3A3gPFgbNNuOCW4Rlnp0Q==;aqgorzHW40QkZUeo+Q6WuQ=="
 ---

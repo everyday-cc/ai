@@ -25,31 +25,54 @@ images:
     isCached: true
 
 related:
-  - title: "Leadership In Times Of AI-Driven Automation"
-    excerpt: "Sayantan Dasgupta is a Sr. Director of Demand Generation at Gramener | Ex VC Partner | 2x VP Marketing | 15+ years of leadership experience. The global AI market in 2021 reached a staggering value of $327."
-    publishedDateTime: 2022-09-12T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/09/12/leadership-in-times-of-ai-driven-automation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/09/12/leadership-in-times-of-ai-driven-automation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/09/12/leadership-in-times-of-ai-driven-automation/amp/"
+  - title: "Our commitment on using AI to accelerate progress on global development goals"
+    excerpt: "I joined Google earlier this year to lead a new function: Technology &amp; Society. Our aim is to help connect research, people and ideas across Google to shape the future of our technology innovations and their impact on society for the better. A key area of focus is AI, a field I have studied and immersed"
+    publishedDateTime: 2022-09-15T15:45:00Z
+    webUrl: "https://blog.google/outreach-initiatives/google-org/our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals/"
+    ampWebUrl: "https://blog.google/outreach-initiatives/google-org/our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Google
+      domain: blog.google
+    quality: 106
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/611197e7a1fc8d3b4e5a536a/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 652
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog.Google_image2096_x_1182_01.max-1300x1300.png"
+        width: 1300
+        height: 733
         isCached: true
-  - title: "AI Ethics And AI-Induced Psychological Inoculation To Help Humans With Disinformation"
-    excerpt: "Should AI be used to aid in inoculating people regarding disinformation and misinformation? Yes, some say, others argue that using AI for this is a bad idea with ultimately adverse consequences."
-    publishedDateTime: 2022-09-14T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/09/14/ai-ethics-and-ai-induced-psychological-inoculation-to-help-humans-with-disinformation/"
+  - title: "How WhiteLab Genomics is using AI to aid gene and cell therapy development"
+    excerpt: "WhiteLab Genomics provides gene and cell therapy companies with predictive software simulations to expedite the design of gene and cell therapies."
+    publishedDateTime: 2022-09-13T20:56:00Z
+    webUrl: "https://techcrunch.com/2022/09/12/how-whitelab-genomics-is-using-ai-to-aid-gene-and-cell-therapy-development/"
+    ampWebUrl: "https://techcrunch.com/2022/09/12/how-whitelab-genomics-is-using-ai-to-aid-gene-and-cell-therapy-development/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/12/how-whitelab-genomics-is-using-ai-to-aid-gene-and-cell-therapy-development/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 102
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1311467129-e1663013508266.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Using artificial intelligence to improve tuberculosis treatments"
+    excerpt: "Imagine you have 20 new compounds that have shown some effectiveness in treating a disease like tuberculosis (TB), which affects 10 million people worldwide and kills 1.5 million each year. For effective treatment,"
+    publishedDateTime: 2022-09-14T21:11:00Z
+    webUrl: "https://phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.html"
+    ampWebUrl: "https://phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
     quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/using-artificial-intel-9.jpg"
+        width: 2880
+        height: 2225
+        isCached: true
   - title: "Cadence accelerates AI-driven chip design development"
     excerpt: "Cadence Design Systems has announced the launch of the Cadence Joint Enterprise Data and AI (JedAI) Platform. The platform enables a move from single-run, single-engine algorithms in electronic design automation (EDA) to algorithms that leverage big data and artificial intelligence (AI) to optimise multiple runs of multiple engines across an entire SoC design and verification flow."
     publishedDateTime: 2022-09-14T08:00:00Z
@@ -64,29 +87,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Vector Flow demonstrating next generation AI-driven PIAM and SOC automation solutions at GSX 2022"
-    excerpt: "Vector Flow is demonstrating its innovative PIAM and SOC automation solutions here at GSX 2022 in suite 1050. The advanced cloud-enabled and on-premises platform converts raw physical security data from multiple sources into intelligent actionable insights to drive operational performance and business results."
-    publishedDateTime: 2022-09-13T01:25:00Z
-    webUrl: "https://www.securityinfowatch.com/gsx/press-release/21280470/vector-flow-vector-flow-demonstrating-next-generation-aidriven-piam-and-soc-automation-solutions-at-gsx-2022"
+  - title: "Use of RWE, AI elevating drug development: Sidley"
+    excerpt: "A fleet of legal professionals offers advice and perspective on important considerations when harnessing artificial intelligence and real-world evidence."
+    publishedDateTime: 2022-09-12T14:11:00Z
+    webUrl: "https://www.outsourcing-pharma.com/Article/2022/09/12/increasing-use-of-rwe-ai-elevating-drug-development-sidley"
     type: article
     provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 24
+      name: Outsourcing-pharma
+      domain: outsourcing-pharma.com
+    quality: 39
     images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/09/Physical_Security_Platform_02_600x447.631fd961555e0.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
+      - url: "https://www.outsourcing-pharma.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/clinical-development/increasing-use-of-rwe-ai-elevating-drug-development-sidley/15744753-1-eng-GB/Increasing-use-of-RWE-AI-elevating-drug-development-Sidley.jpg"
+        width: 750
+        height: 435
         isCached: true
-  - title: "Cadence Announces AI-Driven EDA Verification Platform"
-    excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the Cadence Verisium AI-driven verification platform, a suite of applications leveraging big data and AI designed to optimize verification workloads,"
-    publishedDateTime: 2022-09-13T21:17:00Z
-    webUrl: "https://insidehpc.com/2022/09/cadence-announces-ai-driven-eda-verification-platform/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 19
   - title: "New Cadence Joint Enterprise Data and AI Platform Dramatically Accelerates AI-Driven Chip Design Development"
     excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the delivery of the Cadence ® Joint Enterprise Data and AI (JedAI) Platform, enabling a generational shift from single-run, single-engine algorithms in electronic design automation (EDA) to algorithms that leverage big data and artificial intelligence (AI) to optimize multiple runs of multiple engines across an entire SoC design and verification flow."
     publishedDateTime: 2022-09-13T16:13:00Z

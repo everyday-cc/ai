@@ -2,6 +2,256 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2022-08-16-how-can-natural-language-processing-help-in-business.md",
+      "title": "How Can Natural Language Processing Help in Business?",
+      "excerpt": "Natural language processing (NLP) is an effective mixture of linguistics and computer science that, wrapped up in the study of language and the introduction of intelligent systems, makes human ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/how-can-natural-language-processing-help-in-business",
+      "originalUrl": "https://www.digitaljournal.com/pr/how-can-natural-language-processing-help-in-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/077787ed8274d4370cac36f9e7f70c511534e1d3-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T05:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-16-vision-loss-rehabilitation-canada-brings-ai-driven-diabetic-eye-screening-to-rural-and-indigenous-communities.md",
+      "title": "Vision Loss Rehabilitation Canada brings AI-driven diabetic eye screening to rural and Indigenous communities",
+      "excerpt": "Diabetic retinopathy is the most common form of diabetic eye disease. In Canada, 750,000 people have DR and the economic impact on the healthcare system is $1.2 billion annually. With early detection,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/vision-loss-rehabilitation-canada-brings-ai-driven-diabetic-eye-screening-to-rural-and-indigenous-communities-2022-08-16-8203129",
+      "originalUrl": "https://www.marketwatch.com/press-release/vision-loss-rehabilitation-canada-brings-ai-driven-diabetic-eye-screening-to-rural-and-indigenous-communities-2022-08-16-8203129",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-16-how-snipd-is-using-ai-to-unlock-knowledge-in-podcasts.md",
+      "title": "How Snipd is using AI to ‘unlock knowledge’ in podcasts",
+      "excerpt": "Podcasting has emerged as a major billion-dollar industry, with ad revenue in the U.S. alone expected to hit $2 billion this year — a figure that’s set to double by 2024. Against that backdrop, major players in the field are bolstering their podcasting armory,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/16/how-snipd-is-using-ai-to-unlock-knowledge-in-podcasts/",
+      "originalUrl": "https://techcrunch.com/2022/08/16/how-snipd-is-using-ai-to-unlock-knowledge-in-podcasts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1281135694-e1660645198951.jpg?w=1024",
+          "width": 1024,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/16/how-snipd-is-using-ai-to-unlock-knowledge-in-podcasts/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/16/how-snipd-is-using-ai-to-unlock-knowledge-in-podcasts/amp/",
+      "publishedDateTime": "2022-08-16T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-16-iq-ai-shares-fall-on-funding-requirement.md",
+      "title": "IQ-AI Shares Fall on Funding Requirement",
+      "excerpt": "By Ian Walker Shares of IQ-AI Ltd. fell as much as 16% on Tuesday after the company said that it will need extra funding in order to continue as a",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/iq-ai-shares-fall-on-funding-requirement-271660649820",
+      "originalUrl": "https://www.marketwatch.com/story/iq-ai-shares-fall-on-funding-requirement-271660649820",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/iq-ai-shares-fall-on-funding-requirement-271660649820",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/iq-ai-shares-fall-on-funding-requirement-271660649820",
+      "publishedDateTime": "2022-08-16T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-16-elon-musk-drops-details-about-teslas-humanoid-robot.md",
+      "title": "Elon Musk drops details about Tesla's humanoid robot",
+      "excerpt": "Tesla is set to unveil a new humanoid robot, called Optimus, in late September. There's been a lot of speculation surrounding Tesla's strategy in entering the robotics market, and a recent post by boss Elon Musk sheds some new light.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/elon-musk-drops-details-about-teslas-humanoid-robot/",
+      "originalUrl": "https://www.zdnet.com/article/elon-musk-drops-details-about-teslas-humanoid-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/bb82a1b68d61171587c5d41c6fe6f42425701dc2/2022/08/15/7fd1c0ef-9d2c-4ec0-8ba7-a72afdbd0d35/tesla-humanoid.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/elon-musk-drops-details-about-teslas-humanoid-robot/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/elon-musk-drops-details-about-teslas-humanoid-robot/",
+      "publishedDateTime": "2022-08-16T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-08-16-when-ai-meets-fintech-discover-more-about-the-match-made-in-heaven.md",
       "title": "When AI Meets Fintech: Discover More About the Match Made in Heaven!",
       "excerpt": "Not to forget mentioning, AI played a crucial role in driving the industry and accelerating its processes. Therefore, if you’re interested to learn more about the contribution of AI in fintech app development,",
@@ -901,239 +1151,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-08-15T15:11:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-ai-could-help-patients-with-chronic-pain-avoid-opioids.md",
-      "title": "AI Could Help Patients With Chronic Pain Avoid Opioids",
-      "excerpt": "Cognitive behavioral therapy for pain that is supported by artificial intelligence renders the same results as guideline-recommended programs while requiring less clinician time, thus making the option more accessible for patients.",
-      "sourceUrl": null,
-      "webUrl": "https://neurosciencenews.com/pain-ai-21240/",
-      "originalUrl": "https://neurosciencenews.com/pain-ai-21240/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://neurosciencenews.com/files/2022/08/pain-ai-neurosinces-public.jpg",
-          "width": 770,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-15T15:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neuroscience News",
-        "domain": "neurosciencenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-teslas-full-self-driving-feature-may-have-finally-met-its-match.md",
-      "title": "Tesla’s ‘full self-driving’ feature may have finally met its match",
-      "excerpt": "The California DMV has become the first US government entity to formally move against the naming of “full self-driving.” Automotive regulation has traditionally fallen to the National Highway ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/08/15/business/tesla-fsd-california-dmv/index.html",
-      "originalUrl": "https://www.cnn.com/2022/08/15/business/tesla-fsd-california-dmv/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220815125009-01-tesla-self-driving-autopilot-file-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/08/15/business/tesla-fsd-california-dmv/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/15/business/tesla-fsd-california-dmv/index.html",
-      "publishedDateTime": "2022-08-15T14:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-costs-of-sydneys-driverless-train-conversion-outweigh-the-benefits.md",
-      "title": "Costs of Sydney’s driverless train conversion outweigh the benefits",
-      "excerpt": "But even without overruns pushing the cost of the driverless-train project to more than A$55 billion, the economics of the “Sydney Metro” project are questionable – in particular the ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/costs-of-sydneys-driverless-train-conversion-outweigh-the-benefits-188210",
-      "originalUrl": "https://theconversation.com/costs-of-sydneys-driverless-train-conversion-outweigh-the-benefits-188210",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/479092/original/file-20220815-485-8q5rsz.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/costs-of-sydneys-driverless-train-conversion-outweigh-the-benefits-188210",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/costs-of-sydneys-driverless-train-conversion-outweigh-the-benefits-188210",
-      "publishedDateTime": "2022-08-15T13:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-pearl-recognized-as-hot-vendor-in-computer-vision.md",
-      "title": "Pearl recognized as 'hot vendor' in computer vision",
-      "excerpt": "Pearl, a dental artificial intelligence software company, was recently included on the 2022 list of \"'Hot Vendors' in Computer Vision\" by Aragon Research, a technology insight company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckersdental.com/ai-teledentistry/39127-pearl-recognized-as-hot-vendor-in-computer-vision.html",
-      "originalUrl": "https://www.beckersdental.com/ai-teledentistry/39127-pearl-recognized-as-hot-vendor-in-computer-vision.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckersdental.com/templates/beckers/assets/images/dental-og-image.png",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-15T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "beckersdental",
-        "domain": "beckersdental.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-15-intelligent-document-processing-with-aws-ai-services-part-1.md",
-      "title": "Intelligent document processing with AWS AI services: Part 1",
-      "excerpt": "Organizations across industries such as healthcare, finance and lending, legal, retail, and manufacturing often have to deal with a lot of documents in their day-to-day business processes. These documents contain critical information that are key to making decisions on time in order to maintain the highest",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-intelligent-document-processing-with-aws-ai-services/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-intelligent-document-processing-with-aws-ai-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/03/IDP-Blogs-Arch-996x630.png",
-          "width": 996,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-15T10:48:51-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",

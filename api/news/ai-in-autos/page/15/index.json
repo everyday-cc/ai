@@ -2,6 +2,50 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-06-14-googles-artificial-intelligence-has-a-conscience-experts-say.md",
+      "title": "Google's Artificial Intelligence has a conscience, experts say",
+      "excerpt": "Google's Artificial Intelligence seems to have reached a new level, at least in the case of the LaMDA project, which impressed its workers. Google's Artificial Intelligence is probably one of the most advanced technologies in this field and we know that well.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gq.co.za/culture/tech/googles-artificial-intelligence-has-a-conscience-experts-say-83a64d41-eb38-4063-898f-3a617a2f8ced",
+      "originalUrl": "https://www.gq.co.za/culture/tech/googles-artificial-intelligence-has-a-conscience-experts-say-83a64d41-eb38-4063-898f-3a617a2f8ced",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image-prod.iol.co.za/resize/960x960/Image-Pexels?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/cb7a733d-b193-584c-95be-ba6998e38100&operation=CROP&offset=1030x0&resize=4118x4118",
+          "width": 960,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GQ South Africa",
+        "domain": "gq.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-baidus-jidu-auto-releases-virtual-concept-robocar-as-intelligent-ev-unit-moves-towards-mass-production-in-2023.md",
       "title": "Baidu’s Jidu Auto releases virtual concept robocar as intelligent EV unit moves towards mass production in 2023",
       "excerpt": "Baidu-backed EV firm WM applies to list in ... Tesla’s founder Elon Musk recently said that Tesla aims to have self-driving cars, without the need for human intervention, by May 2023.",
@@ -1300,49 +1344,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-ai-experts-to-discuss-how-artificial-intelligence-is-powering-manufacturing-at-automate-2022.md",
-      "title": "AI Experts to Discuss How Artificial Intelligence is Powering Manufacturing at Automate 2022",
-      "excerpt": "Today at the Automate 2022 Show and Conference in Detroit, leading experts in artificial intelligence (AI) will discuss how to put AI to use in manufacturing facilities in the keynote panel, “AI & Manufacturing - How Artificial Intelligence is Powering the Next Wave of Manufacturing.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-detroit-ann-arbor-artificial-intelligence-6e4b3ec7a0654148a394931b713f4448",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-detroit-ann-arbor-artificial-intelligence-6e4b3ec7a0654148a394931b713f4448",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

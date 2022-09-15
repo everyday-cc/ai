@@ -20,17 +20,6 @@ topics:
   - AI in Healthcare
   - AI
 
-related:
-  - title: "Insights on the Military Robots Global Market to 2027 - by Platform, Application, Mode of Operation and Region - ResearchAndMarkets.com"
-    excerpt: "The global military robots market size reached US$ 15.4 Billion in 2021. Looking forward, the publisher expects the market to reach US$ 29.7 Billion by 2027, exhibiting a CAGR of 11.57% during 2021-2027."
-    publishedDateTime: 2022-09-13T12:45:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-13-insights-on-the-military-robots-global-market-to-2027-by-platform-application-mode-of-operation-and-region-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
-
 secured: "LDZSkUVjKZpc+QcniSn6WVRB3Q+fFaOrBoRLF4AgwzZub4RWA+cuK7x+lWu3PVO6sDZqKvSL2yjK3K1JpW52WJQje/pMaqpnPczyuDhQlohZusPlasXMNjxfsWkmkxFgAc6gwWWQOKglEUdqdOApBRmOcSfCEeImo52C0/Jah5r49UDUdqA7ETntVFawifAfs4Mmkyw6NJipb9CYin0EnArgUA24NafJnVrqfQ/X2iJ+1Ft/wbWoP7aYgqrChBchntcd9yO8SFRkx+TbGTQxug4fqeupKAKSt8IunUb9X/qcJKi3/MTcEt/gMoKHI6OfVdiguS9FeXPYwvTT8RQGE+L/QUC8KbhWwcOgL21sbZQ=;Arn4+AVpFay3dtMfw29UQg=="
 ---
 

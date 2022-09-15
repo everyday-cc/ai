@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-15T12:26:00Z
 originalUrl: "https://www.phoneworld.com.pk/ai-will-soon-predict-end-of-humanity-and-will-control-mankind-research/"
 webUrl: "https://www.phoneworld.com.pk/ai-will-soon-predict-end-of-humanity-and-will-control-mankind-research/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: phoneworld.com.pk

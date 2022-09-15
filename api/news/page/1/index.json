@@ -2,6 +2,214 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-15-our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals.md",
+      "title": "Our commitment on using AI to accelerate progress on global development goals",
+      "excerpt": "I joined Google earlier this year to lead a new function: Technology &amp; Society. Our aim is to help connect research, people and ideas across Google to shape the future of our technology innovations and their impact on society for the better. A key area of focus is AI, a field I have studied and immersed",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/google-org/our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals/",
+      "originalUrl": "https://blog.google/outreach-initiatives/google-org/our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog.Google_image2096_x_1182_01.max-1300x1300.png",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/google-org/our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals/amp/",
+      "publishedDateTime": "2022-09-15T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-tomahawk-robotics-awarded-65m-contract-with-united-states-marine-corps.md",
+      "title": "Tomahawk Robotics Awarded $6.5M Contract with United States Marine Corps",
+      "excerpt": "Tomahawk Robotics is thrilled to announce the award of the Autonomy and Robotics Enhanced Multi-Domain Infantry Squad (ARTEMIS) program through the Marine Corps Warfighting Laboratory (MCWL). The $6.5M award spans activities and deliveries scheduled from 2022 through 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-awarded-6-5m-contract-with-united-states-marine-corps-1031746080",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-awarded-6-5m-contract-with-united-states-marine-corps-1031746080",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1899890/Tomahawk_Robotics_Raid_Plate_System.jpg",
+          "width": 300,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-ai-act-what-does-general-purpose-ai-gpai-even-mean.md",
+      "title": "AI Act: What does general purpose AI (GPAI) even mean?",
+      "excerpt": "In a discussion about the EU's AI Act this week, panelists discussed the difficulty of defining GPAI and other new AI technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-act-what-does-general-purpose-ai-gpai-even-mean/",
+      "originalUrl": "https://venturebeat.com/ai/ai-act-what-does-general-purpose-ai-gpai-even-mean/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/eu-elections-parliament-e1663194279910.jpg?fit=800%2C496&strip=all",
+          "width": 800,
+          "height": 496,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-act-what-does-general-purpose-ai-gpai-even-mean/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-act-what-does-general-purpose-ai-gpai-even-mean/amp/",
+      "publishedDateTime": "2022-09-15T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-tesla-sued-over-alleged-false-autopilot-full-self-driving-claims.md",
+      "title": "Tesla Sued Over Alleged False Autopilot, Full Self Driving Claims",
+      "excerpt": "Tesla is facing a class-action lawsuit that accuses the electric car maker of misleading the public by falsely advertising its Autopilot and Full Self-Driving (FSD) features. The complaint, filed Wednesday in the US District Court Northern District of California,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/tesla-sued-over-alleged-false-autopilot-full-self-driving-claims",
+      "originalUrl": "https://www.pcmag.com/news/tesla-sued-over-alleged-false-autopilot-full-self-driving-claims",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/02rZlMJXru91gBwYbJqXocl-1.fit_lim.size_1200x630.v1663239854.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T07:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-15-expanding-access-to-technology-by-democratizing-access-to-ai-powered-software.md",
       "title": "Expanding Access To Technology By Democratizing Access To AI-Powered Software",
       "excerpt": "AI is now transforming the software development space itself and making it easier for businesses of all sizes.",
@@ -201,49 +409,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-15-tesla-sued-over-autopilot-full-self-driving-claims.md",
-      "title": "Tesla sued over Autopilot, Full Self-Driving claims",
-      "excerpt": "Tesla was sued Wednesday in a proposed class action accusing it and Elon Musk of falsely advertising its Autopilot and Full Self-Driving features.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoblog.com/2022/09/14/tesla-lawsuit-autopilot-full-self-driving/",
-      "originalUrl": "https://www.autoblog.com/2022/09/14/tesla-lawsuit-autopilot-full-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2020-10/0380b6e0-05a2-11eb-85db-415ddea8ac97",
-          "width": 1062,
-          "height": 597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autoblog.com/amp/2022/09/14/tesla-lawsuit-autopilot-full-self-driving/",
-      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/09/14/tesla-lawsuit-autopilot-full-self-driving/",
-      "publishedDateTime": "2022-09-14T16:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoblog",
-        "domain": "autoblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-15-chinas-most-advanced-ai-image-generator-already-blocks-political-content.md",
       "title": "China’s most advanced AI image generator already blocks political content",
       "excerpt": "ViLG, censors political text such as \"Tiananmen Square\" or names of political leaders, reports Zeyi Yang for MIT Technology Review. Image synthesis has proven popular (and controversial) recently on social media and in online art communities.",
@@ -343,48 +508,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-using-artificial-intelligence-to-improve-tuberculosis-treatments.md",
-      "title": "Using artificial intelligence to improve tuberculosis treatments",
-      "excerpt": "Imagine you have 20 new compounds that have shown some effectiveness in treating a disease like tuberculosis (TB), which affects 10 million people worldwide and kills 1.5 million each year. For effective treatment,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.html",
-      "originalUrl": "https://phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/using-artificial-intel-9.jpg",
-          "width": 2880,
-          "height": 2225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.amp",
-      "publishedDateTime": "2022-09-14T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -591,6 +714,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-ai-may-destroy-humanity-deepmind-scientists-claim-in-co-authored-paper.md",
+      "title": "AI may destroy humanity, DeepMind scientists claim in co-authored paper",
+      "excerpt": "A paper co-authored with the University of Oxford argues that advanced AI may want to implement a reward system that would harm humanity.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/innovation/ai-may-destroy-humanity-deepmind",
+      "originalUrl": "https://interestingengineering.com/innovation/ai-may-destroy-humanity-deepmind",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/2022/09/14/image/jpeg/nHhLLZVLZFuzjzQfMz3AQhayfDcqXyn0x6n1ZUX6.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     },
@@ -1081,151 +1247,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-how-ai-is-being-developed-at-opm-for-cybersecurity-threats.md",
-      "title": "How AI is Being Developed at OPM for Cybersecurity Threats",
-      "excerpt": "AI in Government event with featured guest speaker Melvin Brown II, Deputy Chief Information Officer in the U.S. Office of Personnel Management and his presentation ‘How… Read More",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/calendar-event/how-ai-is-being-developed-at-opm-for-cybersecurity-threats/",
-      "originalUrl": "https://www.geekwire.com/calendar-event/how-ai-is-being-developed-at-opm-for-cybersecurity-threats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2022/09/October-2022-AI-in-Gov-Promo-Graphic.png",
-          "width": 1198,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T15:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-pleasant-view-police-use-facial-recognition-to-identify-alleged-gun-thief.md",
-      "title": "Pleasant View police use facial recognition to identify alleged gun thief",
-      "excerpt": "Marcus Holt, 22, is in the Cheatham County Jail and has been charged with 29 counts of theft, burglary, vandalism, and felon in possession of a firearm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wkrn.com/news/local-news/pleasant-view-police-use-facial-recognition-to-identify-alleged-gun-thief/",
-      "originalUrl": "https://www.wkrn.com/news/local-news/pleasant-view-police-use-facial-recognition-to-identify-alleged-gun-thief/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wkrn.com/wp-content/uploads/sites/73/2022/09/Pleasant-View-police-use-facial-recognition-to-identify-alleged-gun-thief.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wkrn.com/news/local-news/pleasant-view-police-use-facial-recognition-to-identify-alleged-gun-thief/amp/",
-      "cdnAmpWebUrl": "https://www-wkrn-com.cdn.ampproject.org/c/s/www.wkrn.com/news/local-news/pleasant-view-police-use-facial-recognition-to-identify-alleged-gun-thief/amp/",
-      "publishedDateTime": "2022-09-13T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WKRN",
-        "domain": "wkrn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-argo-ai-kicks-into-high-gear-to-build-a-business-out-of-av-tech.md",
-      "title": "Argo AI kicks into high gear to build a business out of AV tech",
-      "excerpt": "Argo AI, the autonomous vehicle developer backed by Ford and VW Group, revealed this week an ecosystem of products and services designed to support commercial delivery and robotaxi operations. The products — a list that includes fleet management software,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/13/argo-ai-kicks-into-high-gear-to-build-a-business-out-of-av-tech/",
-      "originalUrl": "https://techcrunch.com/2022/09/13/argo-ai-kicks-into-high-gear-to-build-a-business-out-of-av-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/09/argo-ai-hub.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/13/argo-ai-kicks-into-high-gear-to-build-a-business-out-of-av-tech/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/13/argo-ai-kicks-into-high-gear-to-build-a-business-out-of-av-tech/amp/",
-      "publishedDateTime": "2022-09-13T15:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

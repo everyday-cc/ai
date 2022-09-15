@@ -25,79 +25,145 @@ images:
     isCached: true
 
 related:
-  - title: "GM's self-driving car unit to offer driverless rides in Phoenix, Austin this year"
-    excerpt: "Cruise started charging for self-driving car rides in San Francisco, using a small number of Chevrolet Bolt electric vehicles."
-    publishedDateTime: 2022-09-12T19:25:00Z
-    webUrl: "https://www.cnbc.com/2022/09/12/gms-self-driving-car-unit-to-offer-driverless-rides-in-phoenix-austin-this-year.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2022/09/12/gms-self-driving-car-unit-to-offer-driverless-rides-in-phoenix-austin-this-year.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/09/12/gms-self-driving-car-unit-to-offer-driverless-rides-in-phoenix-austin-this-year.html"
+  - title: "Tesla Sued Over Alleged False Autopilot, Full Self Driving Claims"
+    excerpt: "Tesla is facing a class-action lawsuit that accuses the electric car maker of misleading the public by falsely advertising its Autopilot and Full Self-Driving (FSD) features. The complaint, filed Wednesday in the US District Court Northern District of California,"
+    publishedDateTime: 2022-09-15T14:27:00Z
+    webUrl: "https://www.pcmag.com/news/tesla-sued-over-alleged-false-autopilot-full-self-driving-claims"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 84
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 99
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107117284-1663017727791-gettyimages-1238159326-GM_CRUISE_VEHICLES.jpeg?v=1663017908"
-        width: 4000
-        height: 2666
+      - url: "https://i.pcmag.com/imagery/articles/02rZlMJXru91gBwYbJqXocl-1.fit_lim.size_1200x630.v1663239854.jpg"
+        width: 1120
+        height: 630
         isCached: true
-  - title: "GM's self-driving car unit Cruise to offer driverless rides in Phoenix, Austin this year"
-    excerpt: "General Motors' self-driving technology unit Cruise aims to launch driverless ride service in Phoenix, Arizona, and Austin, Texas, in 90 days, Cruise Chief Executive Kyle Vogt said on Monday."
-    publishedDateTime: 2022-09-12T19:33:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/gms-self-driving-car-unit-cruise-offer-driverless-rides-phoenix-austin-this-year-2022-09-12/"
+  - title: "New Lawsuit Questions Tesla’s Autopilot, Self-Driving Claims"
+    excerpt: "Tesla, under federal investigation and facing a California DMV complaint over driver-assistance technology, is accused of deceiving buyers and the public with claims about its \"Autopilot\" and \"self-driving\" systems."
+    publishedDateTime: 2022-09-15T15:54:00Z
+    webUrl: "https://www.govtech.com/transportation/new-lawsuit-questions-teslas-autopilot-self-driving-claims"
+    ampWebUrl: "https://www.govtech.com/transportation/new-lawsuit-questions-teslas-autopilot-self-driving-claims?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/new-lawsuit-questions-teslas-autopilot-self-driving-claims?_amp=true"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 60
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
     images:
-      - url: "https://www.reuters.com/resizer/3saX3QBHoGIenMphqPYPFbhgZLQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/V5CSTKDQWJOHDLDSBODB4WRHBU.jpg"
-        width: 1200
-        height: 628
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/a9a0a3e/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F0f%2F5d%2F638415b88cd0cc4b3eef174d6e53%2Ftesla.jpg"
+        width: 840
+        height: 438
         isCached: true
-  - title: "GM's Cruise Robotaxi Unit to Offer Driverless Rides in Phoenix, Austin This Year"
-    excerpt: "A self-driving GM Bolt EV is seen during a media event where Cruise, GM's autonomous car unit, showed off its self-driving cars in San Francisco, California, U.S. November 28, 2017. REUTERS/Elijah Nouvelage Reuters SAN FRANCISCO (Reuters) -General Motors' self-driving technology unit Cruise plans to expand its driverless ride service to include Phoenix,"
-    publishedDateTime: 2022-09-12T20:33:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2022-09-12/gms-self-driving-car-unit-cruise-to-offer-driverless-rides-in-phoenix-austin-this-year"
+  - title: "Tesla sued over Autopilot, Full Self-Driving claims"
+    excerpt: "Tesla was sued Wednesday in a proposed class action accusing it and Elon Musk of falsely advertising its Autopilot and Full Self-Driving features."
+    publishedDateTime: 2022-09-14T23:22:00Z
+    webUrl: "https://www.autoblog.com/2022/09/14/tesla-lawsuit-autopilot-full-self-driving/"
+    ampWebUrl: "https://www.autoblog.com/amp/2022/09/14/tesla-lawsuit-autopilot-full-self-driving/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/09/14/tesla-lawsuit-autopilot-full-self-driving/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 44
-  - title: "Most Americans feel less safe in self-driving cars, survey says"
-    excerpt: "A large majority of people would feel less safe either driving or riding in self-driving cars, according to a new survey."
-    publishedDateTime: 2022-09-14T17:04:00Z
-    webUrl: "https://www.washingtontimes.com/news/2022/sep/14/most-americans-feel-less-safe-self-driving-cars-su/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2022/sep/14/most-americans-feel-less-safe-self-driving-cars-su/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2022/sep/14/most-americans-feel-less-safe-self-driving-cars-su/"
-    type: article
-    provider:
-      name: The Washington Times
-      domain: washingtontimes.com
-    quality: 44
+      name: Autoblog
+      domain: autoblog.com
+    quality: 74
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2019/08/13/8_132019_ap-191128170208578201_c0-177-4242-2651_s1200x700.jpg?8bcc36d5a145d7328b072705ef4a9c5bffac23b0"
-        width: 1200
-        height: 700
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2020-10/0380b6e0-05a2-11eb-85db-415ddea8ac97"
+        width: 1062
+        height: 597
         isCached: true
-  - title: "Cruise to launch self-driving ridesharing in Austin this year"
-    excerpt: "First it was Google. Then it was Ford and Argo AI teaming up with Lyft. Now, Cruise wants to put self-driving vehicles on Austin's streets."
-    publishedDateTime: 2022-09-13T11:34:00Z
-    webUrl: "https://www.bizjournals.com/austin/inno/stories/news/2022/09/13/cruise-to-launch-self-driving-in-austin.html"
+  - title: "Tesla drivers sue over alleged false Autopilot, Full Self-Driving claims"
+    excerpt: "Class-action suit says tech \"just around the corner\" doesn't actually exist, and was just used to drum up sales Tesla was sued on Wednesday in a proposed class action accusing Elon Musk’s electric car company of misleading the public by falsely advertising its Autopilot and Full Self-Driving features."
+    publishedDateTime: 2022-09-15T14:58:00Z
+    webUrl: "https://driving.ca/auto-news/news/tesla-drivers-sue-over-alleged-false-autopilot-full-self-driving-claims"
+    ampWebUrl: "https://driving.ca/auto-news/news/tesla-drivers-sue-over-alleged-false-autopilot-full-self-driving-claims/wcm/52990a28-2d52-4a43-9df4-8161f4872480/amp/"
+    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/news/tesla-drivers-sue-over-alleged-false-autopilot-full-self-driving-claims/wcm/52990a28-2d52-4a43-9df4-8161f4872480/amp/"
+    type: article
+    provider:
+      name: blogs.driving.ca
+      domain: driving.ca
+    quality: 73
+    images:
+      - url: "https://smartcdn.gprod.postmedia.digital/driving/wp-content/uploads/2022/02/Tesla-wall-connector-EV-charger-plug-cable-home-garage.png"
+        width: 1800
+        height: 1200
+        isCached: true
+  - title: "Tesla deceiving public on ‘Full Self-Driving’ and dangerous ‘Autopilot,’ lawsuit claims"
+    excerpt: "Tesla has claimed driver-assistance technologies are steps toward fully autonomous driving, but hasn’t come close to that goal, suit claims."
+    publishedDateTime: 2022-09-14T22:38:00Z
+    webUrl: "https://www.eastbaytimes.com/2022/09/14/tesla-deceiving-public-on-full-self-driving-and-dangerous-autopilot-lawsuit-claims/"
+    ampWebUrl: "https://www.eastbaytimes.com/2022/09/14/tesla-deceiving-public-on-full-self-driving-and-dangerous-autopilot-lawsuit-claims/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/09/14/tesla-deceiving-public-on-full-self-driving-and-dangerous-autopilot-lawsuit-claims/amp/"
+    type: article
+    provider:
+      name: EastBayTimes.com
+      domain: eastbaytimes.com
+    quality: 66
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2022/09/tesla-crash-utah1-e1526338906152.jpg?w=1024&h=644"
+        width: 1024
+        height: 643
+        isCached: true
+  - title: "Tesla mislead public regarding self-driving technology, lawsuit says"
+    excerpt: "A class action lawsuit filed against Tesla Inc. alleges the auto manufacturer misled the public regarding its Autopilot, Enhanced Autopilot and Full Self-Driving"
+    publishedDateTime: 2022-09-14T23:23:00Z
+    webUrl: "https://www.kron4.com/news/tesla-mislead-public-regarding-self-driving-technology-lawsuit-says/"
+    ampWebUrl: "https://www.kron4.com/news/tesla-mislead-public-regarding-self-driving-technology-lawsuit-says/amp/"
+    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/tesla-mislead-public-regarding-self-driving-technology-lawsuit-says/amp/"
+    type: article
+    provider:
+      name: KRON4
+      domain: kron4.com
+    quality: 59
+    images:
+      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2022/07/e8fa486986d441fda5a6b83c0961e200.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Tesla has now been sued over Musk’s Full Self-Driving claims"
+    excerpt: "Tesla has found itself the target of a recent lawsuit filed in San Francisco. The suit comes from a Tesla owner claiming that Elon Musk has acted “deceptively and misleadingly w"
+    publishedDateTime: 2022-09-15T13:16:00Z
+    webUrl: "https://knowtechie.com/tesla-has-now-been-sued-over-musks-full-self-driving-claims/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 34
+  - title: "Tesla deceiving public with claims on ‘self-driving’ and ‘Autopilot’ systems, lawsuit alleges"
+    excerpt: "The lawsuit, seeking class-action status to bring in hundreds of thousands of Tesla owners, targets claims by the electric car maker and its CEO, Elon Musk, that its $15,000 “Full Self-Driving” package means buyers will soon get a fully-autonomous car,"
+    publishedDateTime: 2022-09-15T12:40:00Z
+    webUrl: "https://www.dailypress.com/business/vp-nw-tesla-lawsuit-20220915-zenjxfv34janxgpf2jsl6etoga-story.html"
+    type: article
+    provider:
+      name: Daily Press
+      domain: dailypress.com
+    quality: 23
+  - title: "Tesla hit with new federal lawsuit over self-driving system"
+    excerpt: "Tesla is gearing up for another legal battle over its self-driving technology. Burlingame-based Cotchett, Pitre & McCarthy, LLP said Wednesday that it has filed a lawsuit against the electric automaker for allegedly misleading the public regarding its autopilot and full self-driving technology."
+    publishedDateTime: 2022-09-14T21:21:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2022/09/14/tesla-federal-lawsuit-san-francisco-self-driving.html"
     type: article
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 4
-  - title: "GM's Cruise Will Start Making Its Own Chips for Self-Driving Cars"
-    excerpt: "General Motors Cruise Never mind the chip shortage Instead of ordering more chips from Nvidia, Cruise started developing its own chips for use in the upcoming Origin model, a boxy self-driving EV with no pedals or steering wheel that’s allegedly going to be ready by 2023."
-    publishedDateTime: 2022-09-14T18:00:00Z
-    webUrl: "https://jalopnik.com/gms-cruise-will-start-making-its-own-chips-for-self-dri-1849535088"
+    quality: 19
+  - title: "Tesla hit with new lawsuit over self-driving system"
+    excerpt: "Tesla is gearing up for another legal battle over its self-driving technology. Burlingame-based Cotchett, Pitre & McCarthy, LLP said Wednesday that it has filed a lawsuit against the electric automaker for allegedly misleading the public regarding its autopilot and full self-driving technology."
+    publishedDateTime: 2022-09-14T21:21:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2022/09/14/tesla-federal-lawsuit-san-francisco-self-driving.html"
     type: article
     provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 4
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
+  - title: "Tesla sued for ‘deceiving’ consumers about self-driving cars"
+    excerpt: "Tesla was sued for failing to deliver on Elon Musk’s longstanding promise to produce a fully self-driving car."
+    publishedDateTime: 2022-09-14T20:32:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2022/09/14/tesla-sued-deceiving-consumers-self-driving-cars/10381568002/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 19
 
 secured: "3wHHFxAq3eOjuk4jPc7zolzSSjDWY3/5HR9QU25Q4l4ovyiUHVa/Ip6ORWwk5vaHf+aZtdi5vUWPypIRir82hIs31GMnCAb24AHj9Hoj/maeXFVaVDDKvNLYJyhKpi2NG0OlQvNKcgIkoU2teFzR6YWJ/UY9GM/Il20BxFQPiqXeEGlg0NXpBPTs2nUzAK/J/NWAkJBu+8H1KYCA+Kmrf7Etg8AYJYcs3gRCYTFvI0mTV5FNaXz/n89EMn8L1s3EA7XjSGqbhdFJhtYgYyuPcPJU3AIbWcnDfwmKYXn/sW2kD12WYb76ojff+t3uohqmyQ+MMT/pXpQJU297uZpqiiTTIEJqxXDVQpiGOiJZgYk=;cKpARUmdMmtFZ6CsPzCSPw=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-15T12:15:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/15/11-areas-in-which-facial-recognition-technology-is-or-will-be-being-used/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/15/11-areas-in-which-facial-recognition-technology-is-or-will-be-being-used/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

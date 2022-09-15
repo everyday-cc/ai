@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-15T13:15:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/15/aspire-an-adaptive-integration-strategy-for-successful-ma-in-financial-institutions/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/15/aspire-an-adaptive-integration-strategy-for-successful-ma-in-financial-institutions/"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: Forbes

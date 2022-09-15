@@ -7,8 +7,8 @@ originalUrl: "https://interestingengineering.com/innovation/ai-may-destroy-human
 webUrl: "https://interestingengineering.com/innovation/ai-may-destroy-humanity-deepmind"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Interesting Engineering
@@ -40,6 +40,20 @@ related:
       - url: "https://wp-assets.futurism.com/2022/09/google-oxford-paper-ai-humankind-600x315.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Researchers At Oxford And Google Deepmind Say AI Will ‘Likely’ Eliminate Humanity"
+    excerpt: "“There’s no need to worry,” said Ameca. We don’t believe you, say researchers at Google Deepmind and the University of Oxford. “Under the conditions we have identified, our conclusion is much stronger than that of any previous publication — an ..."
+    publishedDateTime: 2022-09-15T13:44:00Z
+    webUrl: "https://brobible.com/culture/article/researchers-oxford-deepmind-ai-eliminate-humanity/"
+    type: article
+    provider:
+      name: BroBible
+      domain: brobible.com
+    quality: 49
+    images:
+      - url: "https://brobible.com/wp-content/uploads/2022/09/Researchers-At-Oxford-And-Google-Deepmind-Say-AI-Will-Likely-Eliminate-Humanity.png"
+        width: 1222
+        height: 688
         isCached: true
 
 secured: "Y3dLXCLAA7PRHSijf96M6MWm3cCQzfD3uGvglC+cKN3ZjP4i26cUkxYNGhQGnJfJr7yvrkix5M5yQ69EkUluufvIRsku8rEvAt0r46fN1+xqZpBfv2OiaDzfZwKpyJjrnVAGfgVMs0to/Efrwvn0vne7iXQpvEx3Z9Dgu2xiKpcIGpk+yCf0gyUxxQ3ZcYZwVh3CN81p8vOXnSqXuqOQtUgHesmDFe2VGb6jVoTYFzv6ffeR8YdoKZikI6lAwWpD7O3FpfKPAOgPCg4I94RdJIL0yxRmPJ28Yo0xPIAUkcP48HEiXfoX7V07NRyxwv0eLmL2KJrNaOpJ6qnuJAiKpg0hfuOyTVgM5So+87LxFcYAtodhSVfdYPwOgD8F3Y3TiZuE6h+0JyGNLy9JqFUqiLOfchI6+tZem0F1AaiBoHFs2NoBVddyw467V/mNQyTQhlju/EwjhHYwpvG+U5XKz/33K+7jKsPsUA0OtKHwX783dJcTNo4mCrchsuPfRDuQ+/kEtsjTzKS6Yi92QFc+fw==;REodtsu/01mkD7DOQezezA=="

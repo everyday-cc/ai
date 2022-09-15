@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-15T12:26:00Z
 originalUrl: "https://venturebeat.com/business/new-guide-from-mindtech-reveals-how-synthetic-data-can-dramatically-reduce-ai-annotations-massive-lead-times/"
 webUrl: "https://venturebeat.com/business/new-guide-from-mindtech-reveals-how-synthetic-data-can-dramatically-reduce-ai-annotations-massive-lead-times/"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: VentureBeat

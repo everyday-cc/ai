@@ -2,6 +2,151 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-14-how-ai-is-being-developed-at-opm-for-cybersecurity-threats.md",
+      "title": "How AI is Being Developed at OPM for Cybersecurity Threats",
+      "excerpt": "AI in Government event with featured guest speaker Melvin Brown II, Deputy Chief Information Officer in the U.S. Office of Personnel Management and his presentation ‘How… Read More",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/calendar-event/how-ai-is-being-developed-at-opm-for-cybersecurity-threats/",
+      "originalUrl": "https://www.geekwire.com/calendar-event/how-ai-is-being-developed-at-opm-for-cybersecurity-threats/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2022/09/October-2022-AI-in-Gov-Promo-Graphic.png",
+          "width": 1198,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T15:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-pleasant-view-police-use-facial-recognition-to-identify-alleged-gun-thief.md",
+      "title": "Pleasant View police use facial recognition to identify alleged gun thief",
+      "excerpt": "Marcus Holt, 22, is in the Cheatham County Jail and has been charged with 29 counts of theft, burglary, vandalism, and felon in possession of a firearm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wkrn.com/news/local-news/pleasant-view-police-use-facial-recognition-to-identify-alleged-gun-thief/",
+      "originalUrl": "https://www.wkrn.com/news/local-news/pleasant-view-police-use-facial-recognition-to-identify-alleged-gun-thief/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wkrn.com/wp-content/uploads/sites/73/2022/09/Pleasant-View-police-use-facial-recognition-to-identify-alleged-gun-thief.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wkrn.com/news/local-news/pleasant-view-police-use-facial-recognition-to-identify-alleged-gun-thief/amp/",
+      "cdnAmpWebUrl": "https://www-wkrn-com.cdn.ampproject.org/c/s/www.wkrn.com/news/local-news/pleasant-view-police-use-facial-recognition-to-identify-alleged-gun-thief/amp/",
+      "publishedDateTime": "2022-09-13T15:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WKRN",
+        "domain": "wkrn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-argo-ai-kicks-into-high-gear-to-build-a-business-out-of-av-tech.md",
+      "title": "Argo AI kicks into high gear to build a business out of AV tech",
+      "excerpt": "Argo AI, the autonomous vehicle developer backed by Ford and VW Group, revealed this week an ecosystem of products and services designed to support commercial delivery and robotaxi operations. The products — a list that includes fleet management software,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/13/argo-ai-kicks-into-high-gear-to-build-a-business-out-of-av-tech/",
+      "originalUrl": "https://techcrunch.com/2022/09/13/argo-ai-kicks-into-high-gear-to-build-a-business-out-of-av-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/09/argo-ai-hub.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/13/argo-ai-kicks-into-high-gear-to-build-a-business-out-of-av-tech/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/13/argo-ai-kicks-into-high-gear-to-build-a-business-out-of-av-tech/amp/",
+      "publishedDateTime": "2022-09-13T15:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-a-terrifying-ai-generated-woman-is-lurking-in-the-abyss-of-latent-space.md",
       "title": "A terrifying AI-generated woman is lurking in the abyss of latent space",
       "excerpt": "There’s a ghost in the machine. Machine learning, that is. We are all regularly amazed by AI’s capabilities in writing and creation, but who knew it had such a capacity for instilling horror? A chilling discovery by an AI researcher finds that the “latent space” comprising a deep learning model’s memory is haunted by least",
@@ -52,58 +197,6 @@
         "AI",
         "AI in Robotics",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-how-whitelab-genomics-is-using-ai-to-aid-gene-and-cell-therapy-development.md",
-      "title": "How WhiteLab Genomics is using AI to aid gene and cell therapy development",
-      "excerpt": "WhiteLab Genomics provides gene and cell therapy companies with predictive software simulations to expedite the design of gene and cell therapies.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/12/how-whitelab-genomics-is-using-ai-to-aid-gene-and-cell-therapy-development/",
-      "originalUrl": "https://techcrunch.com/2022/09/12/how-whitelab-genomics-is-using-ai-to-aid-gene-and-cell-therapy-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1311467129-e1663013508266.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/12/how-whitelab-genomics-is-using-ai-to-aid-gene-and-cell-therapy-development/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/12/how-whitelab-genomics-is-using-ai-to-aid-gene-and-cell-therapy-development/amp/",
-      "publishedDateTime": "2022-09-13T13:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {
@@ -624,7 +717,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/13/is-ai-the-solution-to-hiring-bias-or-the-cause-of-it/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -928,7 +1021,7 @@
       "originalUrl": "https://www.cnbc.com/2022/09/12/gms-self-driving-car-unit-to-offer-driverless-rides-in-phoenix-austin-this-year.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1157,109 +1250,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-flooded-with-ai-generated-images-some-art-communities-ban-them-completely.md",
-      "title": "Flooded with AI-generated images, some art communities ban them completely",
-      "excerpt": "Baio, who has been following AI art ethics closely on his blog, first noticed the bans and reported about them on Friday. So far, major art communities DeviantArt and ArtStation have not made any AI-related policy changes,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/09/flooded-with-ai-generated-images-some-art-communities-ban-them-completely/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/09/flooded-with-ai-generated-images-some-art-communities-ban-them-completely/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/stable_diffusion_on_lexica-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-how-diveplane-uses-explainable-ai-to-bolster-ai-adoption.md",
-      "title": "How Diveplane uses explainable AI to bolster AI adoption",
-      "excerpt": "Diveplane has raised $25M in series A funding for its explainable AI solutions supporting transparent decision-making and data privacy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-diveplane-uses-explainable-ai-to-bolster-ai-adoption/",
-      "originalUrl": "https://venturebeat.com/ai/how-diveplane-uses-explainable-ai-to-bolster-ai-adoption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-black_box_AI_explainable_AI_1324510115-e1662994691115.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-diveplane-uses-explainable-ai-to-bolster-ai-adoption/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-diveplane-uses-explainable-ai-to-bolster-ai-adoption/amp/",
-      "publishedDateTime": "2022-09-12T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

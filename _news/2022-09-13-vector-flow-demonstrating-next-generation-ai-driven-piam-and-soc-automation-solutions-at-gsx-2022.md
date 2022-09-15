@@ -49,34 +49,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 57
-  - title: "Cadence accelerates AI-driven chip design development"
-    excerpt: "Cadence Design Systems has announced the launch of the Cadence Joint Enterprise Data and AI (JedAI) Platform. The platform enables a move from single-run, single-engine algorithms in electronic design automation (EDA) to algorithms that leverage big data and artificial intelligence (AI) to optimise multiple runs of multiple engines across an entire SoC design and verification flow."
-    publishedDateTime: 2022-09-14T08:00:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/cadence-accelerates-ai-driven-chip-design-development"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 54
-    images:
-      - url: "https://www.newelectronics.co.uk/media/nagnckik/ca591_jedai_press-and-social-image_rectangle.jpg?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "New Cadence Joint Enterprise Data and AI Platform Dramatically Accelerates AI-Driven Chip Design Development"
-    excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the delivery of the Cadence® Joint Enterprise Data and AI (JedAI) Platform, enabling a generational shift from single-run, single-engine algorithms in electronic design automation (EDA) to algorithms that leverage big data and artificial intelligence (AI) to optimize multiple runs of multiple engines across an entire SoC design and verification flow."
-    publishedDateTime: 2022-09-14T08:27:00Z
-    webUrl: "https://www.design-reuse.com/news/52657/cadence-joint-enterprise-data-and-ai-jedai-platform.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 35
-    images:
-      - url: "https://www.design-reuse.com/news_img2/homepage52657/JedAI_Press_and_Social_Image_Square.jpg"
-        width: 480
-        height: 480
-        isCached: true
   - title: "Cadence Announces AI-Driven EDA Verification Platform"
     excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the Cadence Verisium AI-driven verification platform, a suite of applications leveraging big data and AI designed to optimize verification workloads,"
     publishedDateTime: 2022-09-13T21:17:00Z
@@ -86,15 +58,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 19
-  - title: "New Cadence Joint Enterprise Data and AI Platform Dramatically Accelerates AI-Driven Chip Design Development"
-    excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the delivery of the Cadence ® Joint Enterprise Data and AI (JedAI) Platform, enabling a generational shift from single-run, single-engine algorithms in electronic design automation (EDA) to algorithms that leverage big data and artificial intelligence (AI) to optimize multiple runs of multiple engines across an entire SoC design and verification flow."
-    publishedDateTime: 2022-09-13T16:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/09/13/9672667.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
 
 secured: "LHd34kIrdvNuUByOXGzV782POdoOOo4eVDibG2+DXxMqpIQs3w+bIM5G8EpO7PIFiHl2DqXVjuPDh6X0EMIpLnXAGFQad8MomNUDrsq/ogZDZSPblFwS2YKbO7yTEyvX5/bszZbPz/s8cAUpoq0q+OTbOqhAIhKy4PT9P45g0Qm1g9DyRPVvJZoxlTnxt0GaYccsTpQ2mISX9soWs4V/j2bbP5n3FSTIkxqhBhVbRYVIdLiJ6TrrY6PuYmlurYP0sNE3EC84jSC4jmql98BB58//t8PoIHPFWl3K/y2jRwbn96kOOcswhVdl+ISXi3IuK6As/4ugqlu9Jp4V7WzWj2cNXEfE5F5lPTfyOyUDv0k=;ApOiOEtEEZqBdZOUf6g5KA=="
 ---

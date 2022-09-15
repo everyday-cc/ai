@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/0
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/09/12/leadership-in-times-of-ai-driven-automation/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 119
 published: true
 
 provider:
@@ -40,34 +40,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 57
-  - title: "Cadence accelerates AI-driven chip design development"
-    excerpt: "Cadence Design Systems has announced the launch of the Cadence Joint Enterprise Data and AI (JedAI) Platform. The platform enables a move from single-run, single-engine algorithms in electronic design automation (EDA) to algorithms that leverage big data and artificial intelligence (AI) to optimise multiple runs of multiple engines across an entire SoC design and verification flow."
-    publishedDateTime: 2022-09-14T08:00:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/cadence-accelerates-ai-driven-chip-design-development"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 54
-    images:
-      - url: "https://www.newelectronics.co.uk/media/nagnckik/ca591_jedai_press-and-social-image_rectangle.jpg?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "New Cadence Joint Enterprise Data and AI Platform Dramatically Accelerates AI-Driven Chip Design Development"
-    excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the delivery of the Cadence® Joint Enterprise Data and AI (JedAI) Platform, enabling a generational shift from single-run, single-engine algorithms in electronic design automation (EDA) to algorithms that leverage big data and artificial intelligence (AI) to optimize multiple runs of multiple engines across an entire SoC design and verification flow."
-    publishedDateTime: 2022-09-14T08:27:00Z
-    webUrl: "https://www.design-reuse.com/news/52657/cadence-joint-enterprise-data-and-ai-jedai-platform.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 35
-    images:
-      - url: "https://www.design-reuse.com/news_img2/homepage52657/JedAI_Press_and_Social_Image_Square.jpg"
-        width: 480
-        height: 480
-        isCached: true
   - title: "Vector Flow demonstrating next generation AI-driven PIAM and SOC automation solutions at GSX 2022"
     excerpt: "Vector Flow is demonstrating its innovative PIAM and SOC automation solutions here at GSX 2022 in suite 1050. The advanced cloud-enabled and on-premises platform converts raw physical security data from multiple sources into intelligent actionable insights to drive operational performance and business results."
     publishedDateTime: 2022-09-13T01:25:00Z
@@ -91,15 +63,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 19
-  - title: "New Cadence Joint Enterprise Data and AI Platform Dramatically Accelerates AI-Driven Chip Design Development"
-    excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the delivery of the Cadence ® Joint Enterprise Data and AI (JedAI) Platform, enabling a generational shift from single-run, single-engine algorithms in electronic design automation (EDA) to algorithms that leverage big data and artificial intelligence (AI) to optimize multiple runs of multiple engines across an entire SoC design and verification flow."
-    publishedDateTime: 2022-09-13T16:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/09/13/9672667.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
 
 secured: "ojv5S/r9LUNe/Eq7T0YikYgP8K7mPUUvUEN5LDAKuUCaSCuQioo6Pd4jphmQKZFM+BROqbGmpsXVbmzr/DKjMMqmRwEYj2TN+b6738AxYPiID+bEausQjmypcECaKjzEveyFa4sjDH+gPLCEEo42nowPdSAnt0hqsrUfv95sm3+Q9glCcLMCyVlgw64p41YUYMsuYJvmechCZ6FuuJbtg11aTt0z2arRioWNj3K2KOg6usk79Wg60vzpVvF+V/mXjxPht5V885TalT9wpg6U+Kv1cNS00B8WwBp5T/85aeINeMrF2M1CYCh6ZHWalsMqfsbveQpsSnTDCee+rnWDNIfvL0cNK2bi21GvlR2UZxfSxkjsp4YN5fnOd4hMmnNFiJNpMXJq/auXW0157y1OaP0C2bh7cE3NzsJoFDtNr1v0QayFOZv4O1HIWzuQ6VePjdI/SRaxu6FvrBQA5eNnwZxs7vUGA1K3noJL6TuVIOlrNXbdR1/7q7A8+ghBuNoEQpprkciM4btZLl+mGSPikw==;6W+0pWpt61+BPAQO0o3m7g=="
 ---

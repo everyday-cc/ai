@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla sued by drivers over alleged false Autopilot, Full Self-Driving claims"
-    excerpt: "Tesla Inc was sued on Wednesday in a proposed class action accusing Elon Musk's electric car company of misleading the public by falsely advertising its Autopilot and Full Self-Driving features. The complaint accused Tesla and Musk of having since 2016 deceptively advertised the technology as fully functioning or 'just around the corner' despite knowing that the technology did not work or was nonexistent,"
-    publishedDateTime: 2022-09-15T09:21:00Z
-    webUrl: "https://www.carsifu.my/news/tesla-sued-by-drivers-over-alleged-false-autopilot-full-self-driving-claims"
-    type: article
-    provider:
-      name: CarSifu
-      domain: carsifu.my
-    quality: 51
-    images:
-      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2022/09/autopilot.jpg"
-        width: 1024
-        height: 916
-        isCached: true
   - title: "GM's Cruise Robotaxi Unit to Offer Driverless Rides in Phoenix, Austin This Year"
     excerpt: "A self-driving GM Bolt EV is seen during a media event where Cruise, GM's autonomous car unit, showed off its self-driving cars in San Francisco, California, U.S. November 28, 2017. REUTERS/Elijah Nouvelage Reuters SAN FRANCISCO (Reuters) -General Motors' self-driving technology unit Cruise plans to expand its driverless ride service to include Phoenix,"
     publishedDateTime: 2022-09-12T20:33:00Z

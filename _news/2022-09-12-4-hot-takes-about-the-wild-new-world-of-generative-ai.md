@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2022/09/11/4-hot-takes-about-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/09/11/4-hot-takes-about-the-wild-new-world-of-generative-ai/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -32,6 +32,15 @@ images:
     isCached: true
 
 related:
+  - title: "Anyone can use this AI art generator — that’s the risk"
+    excerpt: "That’s the basic premise of AI text-to-image programs. Users type out descriptions of whatever they like — a cyborg Joe Biden wielding a samurai sword; a medieval tapestry of frogs jousting — and these systems,"
+    publishedDateTime: 2022-09-15T12:30:00Z
+    webUrl: "https://www.theverge.com/2022/9/15/23340673/ai-image-generation-stable-diffusion-explained-ethics-copyright-data"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 49
   - title: "As AI-generated art takes off, who really owns it?"
     excerpt: "The growing use of artificial intelligence, in art and other sectors, throws up complex issues of ethics, copyrights, and privacy"
     publishedDateTime: 2022-09-11T02:00:00Z

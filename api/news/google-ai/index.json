@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-15-our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals.md",
+      "title": "Our commitment on using AI to accelerate progress on global development goals",
+      "excerpt": "I joined Google earlier this year to lead a new function: Technology &amp; Society. Our aim is to help connect research, people and ideas across Google to shape the future of our technology innovations and their impact on society for the better. A key area of focus is AI, a field I have studied and immersed",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/google-org/our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals/",
+      "originalUrl": "https://blog.google/outreach-initiatives/google-org/our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog.Google_image2096_x_1182_01.max-1300x1300.png",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/google-org/our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals/amp/",
+      "publishedDateTime": "2022-09-15T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-ai-act-what-does-general-purpose-ai-gpai-even-mean.md",
+      "title": "AI Act: What does general purpose AI (GPAI) even mean?",
+      "excerpt": "In a discussion about the EU's AI Act this week, panelists discussed the difficulty of defining GPAI and other new AI technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-act-what-does-general-purpose-ai-gpai-even-mean/",
+      "originalUrl": "https://venturebeat.com/ai/ai-act-what-does-general-purpose-ai-gpai-even-mean/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/eu-elections-parliament-e1663194279910.jpg?fit=800%2C496&strip=all",
+          "width": 800,
+          "height": 496,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-act-what-does-general-purpose-ai-gpai-even-mean/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-act-what-does-general-purpose-ai-gpai-even-mean/amp/",
+      "publishedDateTime": "2022-09-15T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-15-perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans.md",
       "title": "Perceptron: AI that lights up the moon, improvises grammar and teaches robots to walk like humans",
       "excerpt": "In this edition of Perceptron, TechCrunch's semiregular review of AI research, we take a look at cutting-edge robotics, moon-scanning tech, and more.",
@@ -53,6 +157,49 @@
         "AI in Robotics",
         "Computer Vision",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-ai-may-destroy-humanity-deepmind-scientists-claim-in-co-authored-paper.md",
+      "title": "AI may destroy humanity, DeepMind scientists claim in co-authored paper",
+      "excerpt": "A paper co-authored with the University of Oxford argues that advanced AI may want to implement a reward system that would harm humanity.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/innovation/ai-may-destroy-humanity-deepmind",
+      "originalUrl": "https://interestingengineering.com/innovation/ai-may-destroy-humanity-deepmind",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/2022/09/14/image/jpeg/nHhLLZVLZFuzjzQfMz3AQhayfDcqXyn0x6n1ZUX6.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     },
     {
@@ -1290,135 +1437,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-drug-discovery-is-about-to-get-faster-thank-ai.md",
-      "title": "Drug Discovery Is About to Get Faster. Thank AI.",
-      "excerpt": "An advanced machine-learning program from Alphabet’s DeepMind has revealed 200 million proteins — pictures that can speed the search for new medicines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/drug-discovery-is-about-to-get-faster-thank-ai/2022/08/04/edbe6562-1406-11ed-8482-06c1c84ce8f2_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/drug-discovery-is-about-to-get-faster-thank-ai/2022/08/04/edbe6562-1406-11ed-8482-06c1c84ce8f2_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-ai-the-ai-times-deepmind-cracks-biologys-biggest-problem.md",
-      "title": "A|I: The AI Times – DeepMind cracks biology’s biggest problem",
-      "excerpt": "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://betakit.com/ai-the-ai-times-deepmind-cracks-biologys-biggest-problem/",
-      "originalUrl": "https://betakit.com/ai-the-ai-times-deepmind-cracks-biologys-biggest-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.betakit.com/wp-content/uploads/2022/08/e8fec5c9-2d30-663a-dffe-865e927538c6.png",
-          "width": 765,
-          "height": 508,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BetaKit",
-        "domain": "betakit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-worlds-largest-metaverse-nobody-is-talking-about.md",
-      "title": "World’s Largest Metaverse nobody is talking about",
-      "excerpt": "Blue Shark’, ‘Project Avengers’ and ‘AI Dogfighting’, which sound like titles of Marvel movies, are some of the billion-dollar metaverse projects of the US army. The metaverse project of the US army is believed to be much bigger than Meta’s metaverse.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/worlds-largest-metaverse-nobody-is-talking-about/",
-      "originalUrl": "https://analyticsindiamag.com/worlds-largest-metaverse-nobody-is-talking-about/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/military-robots.jpeg",
-          "width": 1600,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T01:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

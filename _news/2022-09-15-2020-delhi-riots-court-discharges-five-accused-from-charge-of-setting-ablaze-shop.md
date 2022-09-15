@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-15T13:21:00Z
 originalUrl: "https://economictimes.indiatimes.com/news/india/2020-delhi-riots-court-discharges-five-accused-from-charge-of-setting-ablaze-shop/articleshow/94227059.cms"
 webUrl: "https://economictimes.indiatimes.com/news/india/2020-delhi-riots-court-discharges-five-accused-from-charge-of-setting-ablaze-shop/articleshow/94227059.cms"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Indiatimes

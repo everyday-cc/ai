@@ -19,17 +19,24 @@ topics:
   - AI
 
 related:
-  - title: "5G In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application, By End-use, By Region And Segment Forecasts, 2022 - 2030"
-    excerpt: "Reportlinker.com announces the release of the report \"5G In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application, By End-use, By"
-    publishedDateTime: 2022-09-13T16:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28852772/5g-in-healthcare-market-size-share-trends-analysis-report-by-component-by-application-by-end-use-b"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28852772"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28852772"
+  - title: "The Worldwide Artificial Intelligence Robots Industry is Expected to Reach $38.4 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The \"Artificial Intelligence Robots Market Research Report by Offering (Hardware and Software), Robot Type, Technology, Deployment Mode, Application, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2022-09-13T11:06:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-13-the-worldwide-artificial-intelligence-robots-industry-is-expected-to-reach-384-billion-by-2027-researchandmarketscom"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 1
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 9
+  - title: "Europe Fintech-as-a-Service Market to Grow at a 16.5% CAGR Through 2028 - ResearchAndMarkets.com"
+    excerpt: "The \"Europe Fintech-as-a-Service Market Size, Share & Industry Trends Analysis Report By Technology (Blockchain, API, Artificial Intelligence, RPA), By End Use, By Type, By Application, By Country and Growth Forecast,"
+    publishedDateTime: 2022-09-14T09:27:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-14-europe-fintech-as-a-service-market-to-grow-at-a-165-cagr-through-2028-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "HbMHGgdd9JRcCc9hvC4h7liD7P+RnPGWBF8dASsuigj3sbYJ3QbXGgOZ4eZNVHdMoPRZO5kkJAtZ3ceXFqd+pEdMzZWP2TSvGbLN0OlUyO7SMx7T6etNw+6Z/o0hi0JGmWV5J3HjsrC+LQwild4YKITzWR66xWEifUDK01EvTkQB9tbiJWfRkwaxwkyw8W/g5MprJh9+3lLrx3Hno025D/BGoGzBjIGbShEDQAsDNwZ79IY+QN/NOieEDjbusFP7Rm7iPAIxR7Y3nFuoufLFUDG6DQMV4+n2g8TiVFegqy3fpPHQukVdQx0q2kkSgUhOGM/zLg+ZBMfCRVIAMWjMMkL5fRkYDfje+0r4sCEMk3Q=;XaeZfkmvbJj6/H2zId9NBQ=="
 ---

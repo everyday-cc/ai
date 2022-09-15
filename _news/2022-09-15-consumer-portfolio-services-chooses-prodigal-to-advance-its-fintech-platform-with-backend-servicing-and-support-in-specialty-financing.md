@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-15T12:42:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-2707dd1f1bf45b03ae77ad401287866b"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-2707dd1f1bf45b03ae77ad401287866b"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Associated Press

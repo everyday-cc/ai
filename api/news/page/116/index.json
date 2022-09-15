@@ -2,6 +2,249 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2022-06-14-vcs-target-ai-accounting-startups-as-companies-look-to-control-spending-in-uncertain-economy.md",
+      "title": "VCs Target AI Accounting Startups as Companies Look to Control Spending in Uncertain Economy",
+      "excerpt": "Many investors are betting that inflation, higher interest rates and recession fears will prompt companies to redouble efforts to track and manage spending.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/vcs-target-ai-accounting-startups-as-companies-look-to-control-spending-in-uncertain-economy-11655151883?mod=latest_headlines",
+      "originalUrl": "https://www.wsj.com/articles/vcs-target-ai-accounting-startups-as-companies-look-to-control-spending-in-uncertain-economy-11655151883?mod=latest_headlines",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-563056/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/vcs-target-ai-accounting-startups-as-companies-look-to-control-spending-in-uncertain-economy-11655151883",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/vcs-target-ai-accounting-startups-as-companies-look-to-control-spending-in-uncertain-economy-11655151883",
+      "publishedDateTime": "2022-06-13T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-kawasaki-robotics-teams-up-with-realtime-robotics-to-develop-robot-motion-planning.md",
+      "title": "Kawasaki Robotics Teams Up With Realtime Robotics To Develop Robot Motion Planning",
+      "excerpt": "RapidPlan helps manufacturers have peace of mind in a high ... was one of the first robot companies to see the potential of combining an advanced Real Time Control API like KRNX with our RapidPlan ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104367468/Kawasaki-Robotics-Teams-Up-With-Realtime-Robotics-To-Develop-Robot-Motion-Planning",
+      "originalUrl": "https://menafn.com/1104367468/Kawasaki-Robotics-Teams-Up-With-Realtime-Robotics-To-Develop-Robot-Motion-Planning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-06/13/R&AN_b5633image_story.png",
+          "width": 800,
+          "height": 454,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T12:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-create-train-and-deploy-a-billion-parameter-language-model-on-terabytes-of-data-with-tensorflow-and-amazon-sagemaker.md",
+      "title": "Create, train, and deploy a billion-parameter language model on terabytes of data with TensorFlow and Amazon SageMaker",
+      "excerpt": "The increasing size of language models has been one of the biggest trends in natural language processing (NLP) in recent years. Since 2018, we’ve seen unprecedented development and deployment of ever-larger language models, including BERT and its variants, GPT-2, T-NLG, and GPT-3 (175 billion parameters).",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-train-and-deploy-a-billion-parameter-language-model-on-terabytes-of-data-with-tensorflow-and-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-train-and-deploy-a-billion-parameter-language-model-on-terabytes-of-data-with-tensorflow-and-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/13/billion-parameter-sagemaker.jpg",
+          "width": 1247,
+          "height": 621,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T10:36:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-how-to-fool-an-eavesdropping-ai-with-another-ai.md",
+      "title": "How To Fool an Eavesdropping AI … With Another AI",
+      "excerpt": "Scientists at Columbia University in New York City think they’ve devised an AI that can effectively fool an eavesdropping automatic speech recognition system from transcribing your private ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.popularmechanics.com/technology/security/a40208622/how-to-fool-eavesdropping-ai/",
+      "originalUrl": "https://www.popularmechanics.com/technology/security/a40208622/how-to-fool-eavesdropping-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/ear-on-a-smart-phone-royalty-free-image-1654626112.jpg?crop=1.00xw:0.389xh;0,0.0957xh&resize=1200:*",
+          "width": 1200,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Mechanics",
+        "domain": "popularmechanics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-15-business-functions-where-artificial-intelligence-can-assist-agencies.md",
+      "title": "15 Business Functions Where Artificial Intelligence Can Assist Agencies",
+      "excerpt": "Businesses across industries are actively seeking innovative ways to leverage artificial intelligence ... Scanning Reviews To Identify Problem Areas As a healthcare marketing agency, we use AI to gauge patients’ collective sentiments through their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/06/13/15-business-functions-where-artificial-intelligence-can-assist-agencies/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/06/13/15-business-functions-where-artificial-intelligence-can-assist-agencies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62a7578ccd8d2473d6cb7820/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 819,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/06/13/15-business-functions-where-artificial-intelligence-can-assist-agencies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/06/13/15-business-functions-where-artificial-intelligence-can-assist-agencies/amp/",
+      "publishedDateTime": "2022-06-13T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-dementia-a-sign-in-the-eyes-that-could-predict-steeper-cognitive-decline-warns-study.md",
       "title": "Dementia: A sign in the eyes that could predict ‘steeper’ cognitive decline warns study",
       "excerpt": "According to recent findings, thinning of the eye’s macular retinal nerve fibre layer (RNFL) could be linked to \"steeper\" cognitive deterioration in older adults. The new study, published in ...",
@@ -890,231 +1133,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-are-driverless-car-searches-constitutional.md",
-      "title": "Are driverless car searches constitutional?",
-      "excerpt": "Whether we like it or not, automated, driverless vehicles are quickly becoming a reality and a norm in our society. Along with all the benefits the technology and associated services provide ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.abajournal.com/columns/article/are-driverless-car-searches-constitutional",
-      "originalUrl": "https://www.abajournal.com/columns/article/are-driverless-car-searches-constitutional",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.abajournal.com/images/mag_images/0717Docket_SelfDrive.png",
-          "width": 450,
-          "height": 290,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABA Journal",
-        "domain": "abajournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-ai-system-facilitates-plant-imaging-from-germination-to-root-development.md",
-      "title": "AI system facilitates plant imaging from germination to root development",
-      "excerpt": "For plant biologists, understanding how plants grow and interact with soil is vital for selecting resilient crops that can efficiently take up water and nutrients. But how do you monitor what is happening underground?",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-06-ai-imaging-germination-root.html",
-      "originalUrl": "https://phys.org/news/2022-06-ai-imaging-germination-root.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-system-facilitates.jpg",
-          "width": 2826,
-          "height": 1373,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-06-ai-imaging-germination-root.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-06-ai-imaging-germination-root.amp",
-      "publishedDateTime": "2022-06-13T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-artificial-intelligence-in-accounting-market-opportunities-analysis-and-forecasts-report-2027.md",
-      "title": "Artificial Intelligence in Accounting Market Opportunities, Analysis and Forecasts Report 2027",
-      "excerpt": "Global Artificial Intelligence in Accounting Market to reach USD 15.66 billion by 2027. Global Artificial Intelligence in Accounting Market is valued approximately USD 0.988 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 48.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-opportunities-analysis-and-forecasts-report-2027-2022-06-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-opportunities-analysis-and-forecasts-report-2027-2022-06-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-what-ai-developers-need-to-know-about-artificial-intelligence-ethics.md",
-      "title": "What AI developers need to know about artificial intelligence ethics",
-      "excerpt": "Some tools and platforms promise fair and balanced AI, but tools and platforms alone won't deliver ethical AI solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/what-ai-developers-need-to-know-about-artificial-intelligence-ethics/",
-      "originalUrl": "https://www.zdnet.com/article/what-ai-developers-need-to-know-about-artificial-intelligence-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/what-ai-developers-need-to-know-about-artificial-intelligence-ethics/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-ai-developers-need-to-know-about-artificial-intelligence-ethics/",
-      "publishedDateTime": "2022-06-13T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-philly-researchers-are-using-the-latest-in-ai-to-improve-cancer-care.md",
-      "title": "Philly Researchers Are Using the Latest in AI to Improve Cancer Care",
-      "excerpt": "A Fox Chase Cancer Center team is using AlphaFold AI to evolve our understanding of biology by accurately predicting protein structures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.phillymag.com/sponsor-content/philly-researchers-alphafold/",
-      "originalUrl": "https://www.phillymag.com/sponsor-content/philly-researchers-alphafold/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn10.phillymag.com/wp-content/uploads/sites/3/2022/06/drdunbrack.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Philadelphia Mag",
-        "domain": "phillymag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }
