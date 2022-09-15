@@ -26,6 +26,17 @@ images:
     height: 1500
     isCached: true
 
-secured: "b8DFGq/M9gnDXJxVGM29a/wqMw98qF4jpF98C+oLJKDPLDrlpcym2kV5GK0dTP5j0TYVomMebivrtgDYArYrBigU0UGO6wIQFo4Gj4p6OQs2BiaCKOFuj9Dwgtg7mSm/D7FArjWbH8mJZzh4YdOnLO9dgtuqu39d0wTjG4Ad+BZiqsm1lgQo70C4ZbDCs0AmVBS7S9zbWcUzYQCFbjQKV13MGC3fx3suW2WpzZmlvziXd21iD77QX9yH0rtiQRKK99f7Qap7W1JA10+t602nLc8//nNHLkU6O0spxkFcGh/hEPpQ7nIn8X3Q4m5sHyAkVI94J5WlMGrM3F5303Z/MAdXkkjwTUpOqPh87ZlqO3I=;wNb3U0dK9A98l035Dgvj+A=="
+related:
+  - title: "Unlocking human-like perception in self-driving vehicles"
+    excerpt: "Researchers at the University of Freiburg have introduced the amodal panoptic segmentation task whose solution may soon enable more human-like environment perception for self-driving vehicles through AI algorithms • Unveiled at the AutoSens conference in the Autoworld Museum in Brussels • “We are confident that novel AI algorithms for this task will enable robots to emulate the visual experience that humans have by perceiving complete physical structures of objects,"
+    publishedDateTime: 2022-09-13T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/964648"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 4
+
+secured: "fXgXD6l7B05cUL5YxgyWXpfnZgvBexcdMpVB+t/3mGuPd9/4zfR6PhLjTkle1qriKVChY0cPZ6eMYHgUheQyqPqQgdltqaoDB7XFypchNh1TXhSZWJWVO2WFVY8B2oL7LilnBoI1gsa5EDHgo8Ac1gQ2FJhm3O5YT0aK6tZ0N+2imHaJfIWkQKBoN0UivgwaghoN37Kfa82YpX/yLZaqoog4y00LMANV0oD+D8k2vV0YRShJpq1jhmBmiTZojOTwyCl7jR6SkCptG/hpLl4th2nBEMqJpQDlvBvGZheqhK0DJXYTJ0qmwuMts/GEJEiee7ogmod90oPgMD7n4TQJIPNnH1auqNcj36R3SX3Wv96EaFcWkAmxn1qMdQp45TmLVVXNOBraJnRv8FaN/QzBJ+e3bx3ZEsjdyl4rilqFuMMJ8cFmexZoTgeZOM9x+b3HBVr1xKKoC4GYcAPnuiAGwfqJ5+COaAd/iiA4EA5GhECX2wA1cgXAX/v0LH651PFSPGuEcpWV9E9g5bHzXNDySA==;p5T3yqEwdnhnGpvdKTIM5g=="
 ---
 

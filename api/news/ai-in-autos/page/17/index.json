@@ -2,6 +2,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-06-02-self-driving-cars-from-gms-cruise-could-soon-carry-paying-riders-in-san-francisco.md",
+      "title": "Self-driving cars from GM’s Cruise could soon carry paying riders in San Francisco",
+      "excerpt": "General Motors Co's Cruise on Thursday could become the first company to secure a permit to charge for self-driving car rides in San Francisco, if it can overcome objections by city officials.",
+      "sourceUrl": null,
+      "webUrl": "https://kfgo.com/2022/06/02/self-driving-cars-from-gms-cruise-could-soon-carry-paying-riders-in-san-francisco/",
+      "originalUrl": "https://kfgo.com/2022/06/02/self-driving-cars-from-gms-cruise-could-soon-carry-paying-riders-in-san-francisco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-06/02/2022-06-02T111812Z_3_LYNXMPEI510FA_RTROPTP_3_GM-RESULTS.JPG",
+          "width": 800,
+          "height": 544,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-02T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KFGO",
+        "domain": "kfgo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-02-self-driving-car-companies-first-step-to-making-money-isnt-robotaxis.md",
       "title": "Self-driving car companies' first step to making money isn't robotaxis",
       "excerpt": "For now, the money for self-driving tech is in software sales. Investment analysts from Goldman Sachs and Nomura point to opportunities in auto software itself, from in-car entertainment to self ...",
@@ -1304,49 +1347,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-alibaba-shares-soar-over-12-on-strong-earnings.md",
-      "title": "Alibaba Shares Soar Over 12% On Strong Earnings",
-      "excerpt": "Fellow e-commerce Baidu Inc. (HK:9888) also saw its Hong Kong shares soar 14.95% to HK$133. “We do expect the second quarter to mark the bottom in growth for our companies,” Goldman Sachs ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.investing.com/news/stock-market-news/alibaba-shares-soar-over-12-over-strong-earnings-2830838",
-      "originalUrl": "https://www.investing.com/news/stock-market-news/alibaba-shares-soar-over-12-over-strong-earnings-2830838",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i-invdn-com.investing.com/news/LYNXNPEE8A0G3-ORUBS_L.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T18:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investing.com",
-        "domain": "investing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

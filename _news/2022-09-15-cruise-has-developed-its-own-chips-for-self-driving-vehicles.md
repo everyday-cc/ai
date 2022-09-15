@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2022/09/cruise-has-developed-its-own-chips
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/09/cruise-has-developed-its-own-chips-for-self-driving-vehicles/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,43 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Can the road network cope with self-driving vehicles?"
-    excerpt: "The government recently announced plans to boost the roll-out of autonomous vehicles on UK roads by 2025. Will it spark a transport revolution to improve road safety and better connect communities?"
-    publishedDateTime: 2022-09-14T10:42:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/09/can-the-road-network-cope-with-self-driving-vehicles/"
+  - title: "Upset by high prices, GM's Cruise develops its own chips for self-driving cars"
+    excerpt: "General Motors' autonomous driving unit Cruise has developed its own chips for self-driving cars to be deployed by 2025, as they aim to bring down costs and scale up volume, executives said Tuesday."
+    publishedDateTime: 2022-09-14T01:45:00Z
+    webUrl: "https://www.reuters.com/article/gm-cruise-chips/upset-by-high-prices-gms-cruise-develops-its-own-chips-for-self-driving-cars-idUSKBN2QF014"
     type: article
     provider:
-      name: IET
-      domain: theiet.org
-    quality: 24
+      name: Reuters
+      domain: reuters.com
+    quality: 50
     images:
-      - url: "https://eandt.theiet.org/media/19326/webhero_gettyimages-country-roads-can-have-poor-visibility-no-digital-infrastucture-and-many-variables-how-will-connected-avs-cope.jpg?crop=0,0.14616364665911683,0.15062287655719042,0.43578355039637534&cropmode=percentage&width=1200&height=450&rnd=133071402030000000"
+      - url: "https://www.reuters.com/resizer/3MK-eD45hqypwGtmmahfGYCTZ2A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/O4UFKSR7DJNJFMPHBG2IQYTPBE.jpg"
         width: 1200
-        height: 450
+        height: 628
         isCached: true
-  - title: "Magna testing self-driving delivery bot on Michigan roads"
-    excerpt: "Magna International said Wednesday it is testing a last-mile autonomous delivery robot for use on public roads as the supplier giant looks to develop new businesses in the mobility space."
-    publishedDateTime: 2022-09-14T23:26:00Z
-    webUrl: "https://www.autonews.com/detroit-auto-show/magna-testing-self-driving-delivery-bot-michigan-roads"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/magnabot.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Unlocking human-like perception in self-driving vehicles"
-    excerpt: "Researchers at the University of Freiburg have introduced the amodal panoptic segmentation task whose solution may soon enable more human-like environment perception for self-driving vehicles through AI algorithms • Unveiled at the AutoSens conference in the Autoworld Museum in Brussels • “We are confident that novel AI algorithms for this task will enable robots to emulate the visual experience that humans have by perceiving complete physical structures of objects,"
-    publishedDateTime: 2022-09-13T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/964648"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 4
   - title: "GM’s Cruise Develops Its Own Self-Driving Software Microchips"
     excerpt: "GM’s autonomous driving technology division, Cruise, has developed its own microchips in a bid to lower costs and increase volume. Automotive headlines this year have been dominated by the ongoing global microchip shortage,"
     publishedDateTime: 2022-09-14T20:42:00Z

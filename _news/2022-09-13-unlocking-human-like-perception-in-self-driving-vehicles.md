@@ -19,59 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "Cruise Has Developed Its Own Chips For Self-Driving Vehicles"
-    excerpt: "Tired of its inability to negotiate a better chip supply deal, the Cruise autonomous driving unit of General Motors has developed its own chips for forthcoming self-driving vehicles. Cruise had been sourcing its chips from Nvidia but its forthcoming Origin robotaxi will use chips that were developed in-house,"
-    publishedDateTime: 2022-09-14T21:24:00Z
-    webUrl: "https://www.carscoops.com/2022/09/cruise-has-developed-its-own-chips-for-self-driving-vehicles/"
-    ampWebUrl: "https://www.carscoops.com/2022/09/cruise-has-developed-its-own-chips-for-self-driving-vehicles/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/09/cruise-has-developed-its-own-chips-for-self-driving-vehicles/amp/"
+  - title: "CEO of self-driving car company admits that humans may always be part of the equation"
+    excerpt: "Cruise, General Motor’s self-driving research wing and autonomous taxi provider in San Francisco, was the first company to be allowed to offer fully autonomous taxi services in America. Cruise’s CEO Kyle Vogt was asked if he could see a point where remote human oversight could be removed from the company’s autonomous vehicle fleet."
+    publishedDateTime: 2022-09-15T01:00:00Z
+    webUrl: "https://www.popsci.com/technology/self-driving-cars-need-humans/"
+    ampWebUrl: "https://www.popsci.com/technology/self-driving-cars-need-humans/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/self-driving-cars-need-humans/?amp"
     type: article
     provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 44
+      name: Popular Science
+      domain: popsci.com
+    quality: 37
     images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2020/01/Cruise-Origin-10-1024x555.jpg"
-        width: 1024
-        height: 555
+      - url: "https://www.popsci.com/uploads/2022/09/14/cruise-car-self-driving.jpg?auto=webp"
+        width: 2000
+        height: 1500
         isCached: true
-  - title: "Can the road network cope with self-driving vehicles?"
-    excerpt: "The government recently announced plans to boost the roll-out of autonomous vehicles on UK roads by 2025. Will it spark a transport revolution to improve road safety and better connect communities?"
-    publishedDateTime: 2022-09-14T10:42:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/09/can-the-road-network-cope-with-self-driving-vehicles/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 24
-    images:
-      - url: "https://eandt.theiet.org/media/19326/webhero_gettyimages-country-roads-can-have-poor-visibility-no-digital-infrastucture-and-many-variables-how-will-connected-avs-cope.jpg?crop=0,0.14616364665911683,0.15062287655719042,0.43578355039637534&cropmode=percentage&width=1200&height=450&rnd=133071402030000000"
-        width: 1200
-        height: 450
-        isCached: true
-  - title: "Magna testing self-driving delivery bot on Michigan roads"
-    excerpt: "Magna International said Wednesday it is testing a last-mile autonomous delivery robot for use on public roads as the supplier giant looks to develop new businesses in the mobility space."
-    publishedDateTime: 2022-09-14T23:26:00Z
-    webUrl: "https://www.autonews.com/detroit-auto-show/magna-testing-self-driving-delivery-bot-michigan-roads"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/magnabot.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "GM’s Cruise Develops Its Own Self-Driving Software Microchips"
-    excerpt: "GM’s autonomous driving technology division, Cruise, has developed its own microchips in a bid to lower costs and increase volume. Automotive headlines this year have been dominated by the ongoing global microchip shortage,"
-    publishedDateTime: 2022-09-14T20:42:00Z
-    webUrl: "https://gmauthority.com/blog/2022/09/gms-cruise-develops-its-own-self-driving-software-microchips/"
-    type: article
-    provider:
-      name: GM Authority
-      domain: gmauthority.com
-    quality: 4
 
 secured: "qdzKNEAZu6AkxivsZ4ADLo4rp6vFduzMRrpZDi2b19/6bnq5apM60/GlBdkSqIQQvtKu76SaH55om6RjLwn4SUrY5e3qBZ6Sq87NAT2kH/jTVGUIxeFeyWjFI+SdabqMYLHo2y87YdLf6bfdNzUfF9Gbg6mLaHwpjHA7F/LrDeDgopLW/Z9eGqBkDwFViSuec+DCakJ416Bzoyol6mV6n7aCOSE9NHlNT2N9LroXwStzy7XF3KOWuux3LlUg6dScKd9QG+TO2q/RsWiAw1+ng1ySFJspyAaqB+aUQCL0XJr7gCXkbce9PN1cBpu4L4oRp0o7OaLpuL8gwxSdCvC2o8zaZYbGXnaClHpzf2QdlzU=;OZKN2mQrjIzUc/Ls9eiVrw=="
 ---

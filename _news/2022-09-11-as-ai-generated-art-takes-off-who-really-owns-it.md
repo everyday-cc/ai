@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "‘It’s very much a Wild West’: how AI art generators are splitting the art world"
-    excerpt: "Advances in AI art generators are raising questions over copyrights, with many countries’ laws not explicitly covering AI-generated art, while artists say they could lead to job loss."
-    publishedDateTime: 2022-09-10T11:15:00Z
-    webUrl: "https://www.scmp.com/lifestyle/arts-culture/article/3191979/its-very-much-wild-west-how-ai-art-generators-are-splitting"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 65
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/09/09/7e155e06-9f77-49c9-9630-05a27c908f54_aef98985.jpg?itok=GvpaLK-r&v=1662718218"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "VSQcGyWDufs3hnsAAG+avqow1aAa0u6sc4i6NDfc2a3BgSIfHDONbWBJ/EH2mUpPxhXEK3/AGVJFH9864ZDwy9upU7ldVxtzW30dYrvGtq95Y6tJ03qAyfdN4ehAH5f6pviDIHh0lOFd/leX/QSyJXFvIDZEkkh/ApiqFbnVZgeqTUbUmra3VHhKxIls99ff9SScDvbVK+ht+MVgV9lTXHeP9Zf6nUE+oMH2J/BjLjGXOv34aciOce/3yKls6k8SQZcS9KYaG2XZtw3HyS3Dm5+yJjniWk4uhY74RnW5aIm6bc+35trz7DtRXUag7eJRExikzHtFOWgRyY8DqatcfFtI5Tr2O4QZbkD4/2/ay9jBPtG0ekcsHiP+Rvy1peSFs5LeF4jwqEi3B/+SpZAWQAHw/5c445KbpfVenlqt8mwZxHyTcoNxEMSAthDF+dS7QJ0VPbFc/4s+wlUxEBKMyInPfElAivVIpZof4BiW3AUqTZqLMQ6i3af6MXLKj5ckXBADKwNRn3TumOIzcmsa9A==;3APSCcNRKGVhnq8C2QSGNw=="
 ---

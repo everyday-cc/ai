@@ -41,6 +41,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Japanese scientists use artificial intelligence to teach robots to laugh at jokes"
+    excerpt: "Researchers at a Japanese university are using artificial intelligence to teach robots about appropriate laughter, from giggling to guffaws."
+    publishedDateTime: 2022-09-15T04:13:00Z
+    webUrl: "https://www.perthnow.com.au/technology/robot-taught-to-laugh-at-jokes-c-8247976"
+    ampWebUrl: "https://www.perthnow.com.au/technology/robot-taught-to-laugh-at-jokes-c-8247976.amp"
+    cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/technology/robot-taught-to-laugh-at-jokes-c-8247976.amp"
+    type: article
+    provider:
+      name: Perth Now
+      domain: perthnow.com.au
+    quality: 69
+    images:
+      - url: "https://images.perthnow.com.au/publication/C-8247976/1d0769b80a34dd15e83a73020be36e28a0d876ae-16x9-x0y0w1280h720.jpg?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "YuGEFcDOJ+8lx+ci/iu+z4QOvADO8+vX9At2DVfyiG+Fc9xA1PGfHEpzRfXFuK7DF/4mix8TQSGUSpkWkr1IVKRKl74IzHatVWIZ3ASuWKhlnhK/zKio/K4B6/Jd+XbXJLi+z5to6qW+Dle7iOWERy8AWF6xMEbd+hvwFgSWRM1Nn7v6a0TGeeSrPqdZqJT3OrHFHfLYQCh9KXHiJDGQstzIoE6fsN2/jFYrmXeMrfkjE7mT0jDHFzgHaNv27qvbvAJSwBJazV5BWONteT+46iiT/jEcz4adZznmUMODmJw8NJ+z/BK0FtUB3IGEJDqV+9BHx+KwSVDOCJZf7Q1bXg4wtsavTn59IZ0zfYhgIOA=;K0nyEhQNG6VXGV9PJ2G33Q=="
 ---

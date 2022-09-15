@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2022/09/11/4-hot-takes-about-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/09/11/4-hot-takes-about-the-wild-new-world-of-generative-ai/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "‘It’s very much a Wild West’: how AI art generators are splitting the art world"
-    excerpt: "Advances in AI art generators are raising questions over copyrights, with many countries’ laws not explicitly covering AI-generated art, while artists say they could lead to job loss."
-    publishedDateTime: 2022-09-10T11:15:00Z
-    webUrl: "https://www.scmp.com/lifestyle/arts-culture/article/3191979/its-very-much-wild-west-how-ai-art-generators-are-splitting"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 65
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/09/09/7e155e06-9f77-49c9-9630-05a27c908f54_aef98985.jpg?itok=GvpaLK-r&v=1662718218"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "As AI-generated art takes off, who really owns it?"
     excerpt: "The growing use of artificial intelligence, in art and other sectors, throws up complex issues of ethics, copyrights, and privacy"
     publishedDateTime: 2022-09-11T02:00:00Z

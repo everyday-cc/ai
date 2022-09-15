@@ -2,6 +2,101 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2022-08-08-ibm-research-rolls-out-a-comprehensive-ai-and-ml-edge-research-strategy-anchored-by-enterprise-partnerships-and-use-cases.md",
+      "title": "IBM Research Rolls Out A Comprehensive AI And ML Edge Research Strategy Anchored By Enterprise Partnerships And Use Cases",
+      "excerpt": "Goodson, recently met with Dr. Nick Fuller, Vice President, Distributed Cloud, at IBM Research for a discussion about IBM’s long-range plans and strategy for artificial intelligence and machine learning at the edge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/08/08/ibm-research-rolls-out-a-comprehensive-ai-and-ml-edge-research-strategy-anchored-by-enterprise-partnerships-and-use-cases/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/08/08/ibm-research-rolls-out-a-comprehensive-ai-and-ml-edge-research-strategy-anchored-by-enterprise-partnerships-and-use-cases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62f12d261c21e21259d408c4/0x0.jpg?format=jpg&width=1200",
+          "width": 548,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/08/08/ibm-research-rolls-out-a-comprehensive-ai-and-ml-edge-research-strategy-anchored-by-enterprise-partnerships-and-use-cases/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/08/08/ibm-research-rolls-out-a-comprehensive-ai-and-ml-edge-research-strategy-anchored-by-enterprise-partnerships-and-use-cases/amp/",
+      "publishedDateTime": "2022-08-08T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-meta-develops-conversational-ai-chatbot-concern-for-data-sharing.md",
+      "title": "Meta develops conversational AI chatbot: Concern for data-sharing?",
+      "excerpt": "Meta’s AI research labs have developed A conversational bot and want the public to interact with it for feedback about the chatbot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/technology/tech-news/meta-develops-conversational-ai-chatbot-concern-for-datasharing-11659971501983.html",
+      "originalUrl": "https://www.livemint.com/technology/tech-news/meta-develops-conversational-ai-chatbot-concern-for-datasharing-11659971501983.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2022/08/08/600x338/robot_1651690580942_1659973452554_1659973452554.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/technology/tech-news/meta-develops-conversational-ai-chatbot-concern-for-datasharing/amp-11659971501983.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/meta-develops-conversational-ai-chatbot-concern-for-datasharing/amp-11659971501983.html",
+      "publishedDateTime": "2022-08-08T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-08-microsoft-stock-azure-growth-proves-resilient.md",
       "title": "Microsoft Stock: Azure Growth Proves Resilient",
       "excerpt": "Azure’s growth was a major highlight considering Google Cloud’s revenue in the recent quarter increased 36% YoY to $6.3 billion.",
@@ -1043,83 +1138,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-natural-language-processing-in-and-for-design-research.md",
-      "title": "Natural language processing in-and-for design research",
-      "excerpt": "Natural language processing in-and-for design research - Volume 8",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/design-science/article/natural-language-processing-inandfor-design-research/5EE5CF29BC6632A1280EA30574D54076",
-      "originalUrl": "https://www.cambridge.org/core/journals/design-science/article/natural-language-processing-inandfor-design-research/5EE5CF29BC6632A1280EA30574D54076",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-using-ai-chips-to-design-better-ai-chips.md",
-      "title": "Using AI Chips To Design Better AI Chips",
-      "excerpt": "Nvidia’s “Hopper” GPU architecture, introduced in March and expanding the company’s already expansive focus on AI, machine learning and neural networks, contains almost 13,000 instances of circuits designed using AI techniques. In a six-page ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2022/08/08/using-ai-chips-to-design-better-ai-chips/",
-      "originalUrl": "https://www.nextplatform.com/2022/08/08/using-ai-chips-to-design-better-ai-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/nvidia-hopper-die-shot.jpg",
-          "width": 435,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2022/08/08/using-ai-chips-to-design-better-ai-chips/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/08/08/using-ai-chips-to-design-better-ai-chips/amp/",
-      "publishedDateTime": "2022-08-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

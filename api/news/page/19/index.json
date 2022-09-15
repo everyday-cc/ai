@@ -2,6 +2,91 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-08-26-artificial-intelligence-key-for-daisy.md",
+      "title": "Artificial intelligence key for Daisy",
+      "excerpt": "Daisy Hill take a break from league action tomorrow when they travel to Liverpool to face Lower Breck in the first qualifying round of the FA",
+      "sourceUrl": null,
+      "webUrl": "https://www.theboltonnews.co.uk/sport/20742576.artificial-intelligence-key-daisy/",
+      "originalUrl": "https://www.theboltonnews.co.uk/sport/20742576.artificial-intelligence-key-daisy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theboltonnews.co.uk/resources/images/13226640/?type=responsive-gallery",
+          "width": 650,
+          "height": 867,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theboltonnews.co.uk/sport/20742576.amp/",
+      "cdnAmpWebUrl": "https://www-theboltonnews-co-uk.cdn.ampproject.org/c/s/www.theboltonnews.co.uk/sport/20742576.amp/",
+      "publishedDateTime": "2022-08-25T22:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bolton News",
+        "domain": "theboltonnews.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-26-new-study-highlights-opportunities-for-artificial-emotional-intelligence.md",
+      "title": "New Study Highlights Opportunities for Artificial Emotional Intelligence",
+      "excerpt": "How will artificial intelligence (AI ... Other projects include a scalable AI recommender system to customize therapy recommendations to improve mental health based on the user’s current ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-08/pic9722.jpg?itok=l-EICJdi",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence?amp",
+      "publishedDateTime": "2022-08-25T21:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-26-ai-startup-wants-to-make-foreign-call-center-employees-sound-white.md",
       "title": "AI Startup Wants to Make Foreign Call Center Employees Sound White",
       "excerpt": "Is it helpful or dystopian? A Silicon Valley startup is using AI-powered algorithms to make foreign call center employees sound white and American during phone conversations. The technology ...",
@@ -1083,109 +1168,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-why-we-need-ai-for-sustainable-infrastructure.md",
-      "title": "Why We Need AI For Sustainable Infrastructure",
-      "excerpt": "The ability of AI, and specifically machine learning, to recognize patterns and respond instantly might be the key to a future of sustainable infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/siemens-smart-infrastructure/2022/08/25/why-we-need-ai-for-sustainable-infrastructure/",
-      "originalUrl": "https://www.forbes.com/sites/siemens-smart-infrastructure/2022/08/25/why-we-need-ai-for-sustainable-infrastructure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62f54577752c76f7d8750eff/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 660,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/siemens-smart-infrastructure/2022/08/25/why-we-need-ai-for-sustainable-infrastructure/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siemens-smart-infrastructure/2022/08/25/why-we-need-ai-for-sustainable-infrastructure/amp/",
-      "publishedDateTime": "2022-08-25T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-mckinsey-report-two-ai-trends-top-2022-outlook.md",
-      "title": "McKinsey report: Two AI trends top 2022 outlook",
-      "excerpt": "Newly-released McKinsey report named applied AI and industrializing machine learning as two significant technology trends unfolding today.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/mckinsey-report-two-ai-trends-top-2022-outlook/",
-      "originalUrl": "https://venturebeat.com/ai/mckinsey-report-two-ai-trends-top-2022-outlook/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1239935010.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/mckinsey-report-two-ai-trends-top-2022-outlook/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/mckinsey-report-two-ai-trends-top-2022-outlook/amp/",
-      "publishedDateTime": "2022-08-25T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

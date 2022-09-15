@@ -41,6 +41,20 @@ related:
         width: 2880
         height: 2225
         isCached: true
+  - title: "Army pilots using AI to streamline selection boards"
+    excerpt: "Army command selection boards in the future may depend on computer automated scoring of past evaluations. LTC Kirstin Saling, director of the innovation cell at the Army Human Resources Command (HRC),"
+    publishedDateTime: 2022-09-14T16:33:00Z
+    webUrl: "https://federalnewsnetwork.com/army/2022/09/using-ai-to-streamline-army-selection-boards/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2018/08/Army_Filling_the_Ranks_97989-400x270.jpg"
+        width: 400
+        height: 270
+        isCached: true
   - title: "Using AI to streamline Army selection boards"
     excerpt: "Army command selection boards in the future may depend on computer automated scoring of past evaluations. LTC Kirstin Saling, director of the innovation cell at the Army Human Resources Command (HRC),"
     publishedDateTime: 2022-09-14T17:33:00Z
