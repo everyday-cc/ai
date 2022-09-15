@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Silicon Valley startup SambaNova offers new AI system, triples previous system speed"
-excerpt: "SambaNova Systems, a SoftBank-backed Silicon Valley artificial intelligence chip and systems startup, said on Wednesday it has started offering its new AI system called DataScale SN30, tripling the speed of its previous product."
-publishedDateTime: 2022-09-14T23:02:00Z
-originalUrl: "https://www.channelnewsasia.com/business/silicon-valley-startup-sambanova-offers-new-ai-system-triples-previous-system-speed-2937881"
-webUrl: "https://www.channelnewsasia.com/business/silicon-valley-startup-sambanova-offers-new-ai-system-triples-previous-system-speed-2937881"
+excerpt: "While the subscription model could potentially put a heavy financial burden on SambaNova as it would own the hardware, the company has raised over $1 .."
+publishedDateTime: 2022-09-15T02:40:00Z
+originalUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/silicon-valley-startup-sambanova-offers-new-ai-system-triples-previous-system-speed/94210795"
+webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/silicon-valley-startup-sambanova-offers-new-ai-system-triples-previous-system-speed/94210795"
+ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/silicon-valley-startup-sambanova-offers-new-ai-system-triples-previous-system-speed/94210795"
+cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/silicon-valley-startup-sambanova-offers-new-ai-system-triples-previous-system-speed/94210795"
 type: article
-quality: 30
-heat: -1
-published: false
+quality: 50
+heat: 70
+published: true
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: cio.economictimes.indiatimes
+  domain: indiatimes.com
 
 topics:
   - AI
 
 images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--L25p6x79--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-09-14t192308z_1_lynxmpei8d13c_rtroptp_3_chips-sambanova-ai.jpg?itok=bCF6DnTk"
+  - url: "https://etimg.etb2bimg.com/thumb/msid-94210795,imgsize-54820,width-1200,height-628,overlay-etcio/silicon-valley-startup-sambanova-offers-new-ai-system-triples-previous-system-speed.jpg"
     width: 1200
-    height: 676
+    height: 628
     isCached: true
 
 related:
@@ -48,6 +50,6 @@ related:
         height: 502
         isCached: true
 
-secured: "1MOgwpk3ytW4a5CKXGVyt/XLlWuQyHQitQm/rrw5nupDT6DTauXTwLHu6iaPn3I1vYXTr+ecf8umMZYzy5NIlHO0sFIYtd1SRUWfaTS0iMqBgOdmrhWEl+z7RCioJq9JmhXL4RTCtRM6MOYqP+LTbSdQMrf7zQZr0oqu1amXoQvWDniwPGhK9leAkqnTSoCl6WK5WNfIE5khGknnBQDLz4nvKpMKIhfYRmBNzi+28SXZIkfSCLByriGsVGXcMszljPLP7dpLDJHGU3BTWrsp9LW1Eoq/96clgQXlrt7JwZQopRIjWOzW5rkS5K37Ve5hYrjbGddIQ/gLuOQFA10e6Bms6O+nv8ypMXOU5/ednyo=;gf4V83aDYCYk3wlJYW4Oeg=="
+secured: "McMPwp5+nhPzcLXJIdo+hPnDjEYGBUj5xYKxinXo6z8lABS7dmXN8lK7vPkSJ5UxOC3k2m5RD98TRkuMfjpX0sqGkfGf565VO5Aw02PoysufIDAhEs0x5HdeVSUJ78f2FCgjUa+ThXGw/qke/vWtzCJI4zYLRd94ff3EG9htc3MFkk/PgeH3ZfHXhH5e9iVFvPN3NbHeaYUZ20XMOhoS0PKJ4NSr+j6HJKN/bBpcoNrVqYX3Cgn4lcN8dgjGX/n6aEhKwxj+MmaJ2vYeJP62/7az6A8bk6TVq8kBtZS5lttYQapwwwKeUDxqIFr+JOYdLijoMofuSX+QfRayiNPwx0hNgok5t8IrNc6afgF99XY=;Bdp/8qUbWjOCtDOUiygnPQ=="
 ---
 

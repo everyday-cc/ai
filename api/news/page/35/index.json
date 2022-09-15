@@ -2,6 +2,58 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2022-08-15-dronedek-partners-with-facial-recognition-provider-scylla.md",
+      "title": "Dronedek Partners with Facial Recognition Provider Scylla",
+      "excerpt": "Dronedek Partners with Facial Recognition Provider Scylla Aug 15, 2022 (PRNewswire via COMTEX) -- PR Newswire INDIANAPOLIS, Aug. 15, 2022 INDIANAPOLIS,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/dronedek-partners-with-facial-recognition-provider-scylla-2022-08-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/dronedek-partners-with-facial-recognition-provider-scylla-2022-08-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-15T05:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-15-robust-intelligence-announces-inaugural-conference-on-machine-learning-integrity.md",
       "title": "Robust Intelligence Announces Inaugural Conference on Machine Learning Integrity",
       "excerpt": "Machine learning models often produce erroneous predictions as a result of their sensitivity to subtle changes in data. As these models are used to automate such decisions as credit worthiness, healthcare coverage,",
@@ -1076,49 +1128,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-13-driverless-trucks-can-be-safe-and-efficient.md",
-      "title": "Driverless Trucks Can Be Safe and Efficient",
-      "excerpt": "Higher pay has also put upward pressure on rates. There is an obvious long-term solution to both these problems: driverless trucks. But only if the industry gets off on the right foot with maximum ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/driverless-trucks-canbe-safe-and-efficient/2022/08/12/e2d42ca8-1a47-11ed-b998-b2ab68f58468_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/driverless-trucks-canbe-safe-and-efficient/2022/08/12/e2d42ca8-1a47-11ed-b998-b2ab68f58468_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-12T14:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

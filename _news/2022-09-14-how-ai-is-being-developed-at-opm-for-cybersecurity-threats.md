@@ -7,7 +7,7 @@ originalUrl: "https://www.geekwire.com/calendar-event/how-ai-is-being-developed-
 webUrl: "https://www.geekwire.com/calendar-event/how-ai-is-being-developed-at-opm-for-cybersecurity-threats/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://www.hackread.com/wp-content/uploads/2022/09/why-artificial-intelligence-must-cybersecurity.jpg"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Alphabet spinoff SandboxAQ acquires cybersecurity and encryption startup Cryptosense"
+    excerpt: "Cryptosense offers cryptography management software designed to protect sensitive data against data breaches. Pitched as cryptography management at the speed of DevOps, the Cryptosense platform provides full visibility into cryptography during development and a full inventory in production."
+    publishedDateTime: 2022-09-14T23:41:00Z
+    webUrl: "https://siliconangle.com/2022/09/14/alphabet-spinoff-sandboxaq-acquires-cybersecurity-encryption-startup-cryptosense/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 15
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/sandboxaq.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "MSP360 Partners with Deep Instinct to Fully Integrate the World's First Deep Learning Cybersecurity Framework Solution"
     excerpt: "MSP360, a provider of simple and reliable backup and IT management solutions for managed services providers (MSPs) and IT departments worldwide, is now fully integrated with Deep Instinct, a prevention-first approach to stopping ransomware and other malware using the world's first deep learning cybersecurity framework."

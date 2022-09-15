@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Unlocking human-like perception in self-driving vehicles"
-    excerpt: "Researchers at the University of Freiburg have introduced the amodal panoptic segmentation task whose solution may soon enable more human-like environment perception for self-driving vehicles through AI algorithms • Unveiled at the AutoSens conference in the Autoworld Museum in Brussels • “We are confident that novel AI algorithms for this task will enable robots to emulate the visual experience that humans have by perceiving complete physical structures of objects,"
-    publishedDateTime: 2022-09-13T11:28:00Z
-    webUrl: "https://idw-online.de/en/news801127"
-    type: article
-    provider:
-      name: idw
-      domain: idw-online.de
-    quality: 26
-    images:
-      - url: "https://files.idw-online.de/corona_idw.png"
-        width: 615
-        height: 284
-        isCached: true
   - title: "Can the road network cope with self-driving vehicles?"
     excerpt: "The government recently announced plans to boost the roll-out of autonomous vehicles on UK roads by 2025. Will it spark a transport revolution to improve road safety and better connect communities?"
     publishedDateTime: 2022-09-14T10:42:00Z
@@ -69,6 +55,15 @@ related:
         width: 1200
         height: 450
         isCached: true
+  - title: "Unlocking human-like perception in self-driving vehicles"
+    excerpt: "Researchers at the University of Freiburg have introduced the amodal panoptic segmentation task whose solution may soon enable more human-like environment perception for self-driving vehicles through AI algorithms • Unveiled at the AutoSens conference in the Autoworld Museum in Brussels • “We are confident that novel AI algorithms for this task will enable robots to emulate the visual experience that humans have by perceiving complete physical structures of objects,"
+    publishedDateTime: 2022-09-13T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/964648"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 4
   - title: "GM’s Cruise Develops Its Own Self-Driving Software Microchips"
     excerpt: "GM’s autonomous driving technology division, Cruise, has developed its own microchips in a bid to lower costs and increase volume. Automotive headlines this year have been dominated by the ongoing global microchip shortage,"
     publishedDateTime: 2022-09-14T20:42:00Z

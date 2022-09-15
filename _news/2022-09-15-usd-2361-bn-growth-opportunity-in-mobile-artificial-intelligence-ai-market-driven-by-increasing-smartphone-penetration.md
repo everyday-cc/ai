@@ -3,8 +3,8 @@ category: news
 title: "USD 23.61 Bn growth opportunity in Mobile Artificial Intelligence (AI) Market -- Driven by increasing smartphone penetration"
 excerpt: "The global mobile artificial intelligence market size is expected to grow by USD 23.61 billion between 2021 and 2026, accelerating at a CAGR of 29.06% during the forecast period. The report considers various aspects such as the consumer base,"
 publishedDateTime: 2022-09-14T19:34:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-usd-2361-bn-growth-opportunity-mobile-artificial-intelligence-/2022/09/14/9673912.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-usd-2361-bn-growth-opportunity-mobile-artificial-intelligence-/2022/09/14/9673912.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2022/09/14/9673912.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/09/14/9673912.htm"
 type: article
 quality: 27
 heat: -1
@@ -15,7 +15,7 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
 
 images:
@@ -122,6 +122,6 @@ related:
         height: 250
         isCached: true
 
-secured: "xHDYtapDjhvkWp0HQb2prCswA6o8dH7axHKZ5nTc2LTfjufU+m6GtdDyGgTQDvSRsmzdN23JAPJPM0AnwNyhzR+yi4WC6ke+9RuS1YlbXPtrrsw/JtP4pwO8MFKr2nW65ZDFZ+lgnTLqffzz8VSQMD7SisQGY1XkyAtpwHKQSUHWqVyYWw1uJtMQ9Ohjd9RxJGmq95vbSaP0K0+99qmG1xjphIuwPvjEhK0cOUeLTH9EQmH031BzkfdTdd24g0SkPEXHqIGnALs7gqfo+oVGG/ntEbeYr66Z6Tu7fOFdCmWCuZS2TK8IMouhiWC+GuZd3XWP3ESVOI+hBfgllhNYPf8J2h0hHVw8e6dNWKH/PRQ=;ejzytNFxJwnO08+HR0CYSw=="
+secured: "XL8xcS6IgxKInKYEfaJN/y84a+swPO10CeOJZrlh8S2+kIdzYRtCYk5aLB4jKAl1JSW+gO8HYESN5L8AqPYOOZ9dpzCq9ObGL/pqEtISqdQ1T7W2Rny9IgWwXC3D9NYfoKq2a2Bgh/rsfjdcECW8YCCEcajITGAtKQNzTn1S/dhFXGbO5rB8a7j6JbFW5LdKdWp1x3I4yooc03ENYPC3g5mw0dHvgZpnf4WAHbY+d9Pt46LO1aVLYIU8KEPA37qz6SXIwHhVDKA55HSAM6mBs6XLBz910lTwGw/kwfh9EUaOWsqaCkOwqr9SW6KQNXSRXUXEtqiQFt1P1pbDyC7YqwYmDwhI0OdGp1+cWNW+jdk=;bEH+rPcGfSaom/htpb7cig=="
 ---
 

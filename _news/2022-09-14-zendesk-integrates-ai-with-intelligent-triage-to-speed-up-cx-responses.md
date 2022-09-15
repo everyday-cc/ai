@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/zendesk-integrates-ai-with-intelligent-tr
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/zendesk-integrates-ai-with-intelligent-triage-to-speed-up-cx-responses/amp/"
 type: article
 quality: 87
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     width: 1024
     height: 721
     isCached: true
+
+related:
+  - title: "Zendesk Launches New Customer Sentiment and Intent Functionality Powered by Machine Learning"
+    excerpt: "Unique approach to AI is designed to better serve customers and businesses without long, costly implementation Zendesk, Inc. (NYSE:ZEN) today announced Intelligent Triage and Smart Assist, new AI solu"
+    publishedDateTime: 2022-09-14T16:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/b28868692/zendesk-launches-new-customer-sentiment-and-intent-functionality-powered-by-machine-learning"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28868692"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28868692"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 30
 
 secured: "n9KeinuaR0WlSC/1gUPR7JKOQb+BSNFSrIXWbhrYglOcete3ei+23NWNv/TxxHlrqwDOCleCchtrCDgmiDbTo7gkSCb8n6To0iB8Uor2TOL3KJq17GcHqFjTPMn4Tlc5aAldd20OeDSyA4VsMStB8Z3kNBqFFAiL51RbphC1G+qJVYDtJYEPdI8eAQJpLfjcVSUKqGVM45367efeKaRteOTN+Z70BJFJrnvcZYeYaFIj3IBi/wxFPwp3CQ7P3dAlE+VPWvgIG+xIBbAuFYyP4rKtfZE4NYiAEn8y+opFGMZ3cBcbU/YjNo8kQSzLL3q2h4aOk1+pNLalzZjAS5ydB9ww0H3/TK2H0QwuHTb0dSASB7Sqj1vnY+Q1Hpls4OLwm1WXQLjvwXIwl0luKQ+HP+gIinoCtFB/5uVWj2ikuTTnu5wtvWLcHoSfnqZeTsfUedgcIu/waS34g4KLTx/9geFLJ1INVRHukV8BzWkFUy0OvZTRFWwyEcFuQouJ9ywi1Jq1BYy0VL8HFNOkP31epg==;o1u2ealQgUU0na2z4DYI5w=="
 ---

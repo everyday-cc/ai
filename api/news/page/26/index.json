@@ -2,6 +2,49 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2022-08-22-amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says.md",
+      "title": "Amazon testing TikTok-style feed on its app, AI firm says",
+      "excerpt": "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform.The",
+      "sourceUrl": null,
+      "webUrl": "https://whdh.com/entertainment/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says-2/",
+      "originalUrl": "https://whdh.com/entertainment/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://whdh.com/wp-content/uploads/sites/3/2022/04/pexels-photo-3766218.jpeg?quality=60&strip=color&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://whdh.com/entertainment/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says-2/amp/",
+      "cdnAmpWebUrl": "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/entertainment/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says-2/amp/",
+      "publishedDateTime": "2022-08-21T10:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WHDH",
+        "domain": "whdh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-21-bondi-behavioural-optometrist-urges-all-on-computer-vision-syndrome-management.md",
       "title": "Bondi Behavioural Optometrist Urges All On Computer Vision Syndrome Management",
       "excerpt": "Computer Vision Syndrome or CVS is a name given to eye problems that are caused by prolonged computer use. When people use computers, tablets or mobile phones their eyes are required to converge ...",
@@ -1121,57 +1164,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-20-inflation-flat-for-the-first-time-in-decades-forbes-ai-newsletter-august-13th.md",
-      "title": "Inflation Flat For The First Time In Decades: Forbes AI Newsletter - August 13th",
-      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/08/19/inflation-flat-for-the-first-time-in-decades-forbes-ai-newsletteraugust-13th/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/08/19/inflation-flat-for-the-first-time-in-decades-forbes-ai-newsletteraugust-13th/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62ffd34179bd8c11cfb74238/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 777,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/08/19/inflation-flat-for-the-first-time-in-decades-forbes-ai-newsletteraugust-13th/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/08/19/inflation-flat-for-the-first-time-in-decades-forbes-ai-newsletteraugust-13th/amp/",
-      "publishedDateTime": "2022-08-19T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

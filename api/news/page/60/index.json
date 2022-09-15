@@ -2,6 +2,49 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2022-07-27-learning-method-enables-robots-to-learn-by-watching-humans.md",
+      "title": "Learning Method Enables Robots to Learn by Watching Humans",
+      "excerpt": "A new learning method developed by researchers at Carnegie Mellon University (CMU) enables robots to directly learn from human-interaction videos and generalize the information to new tasks, which helps them learn how to carry out household chores.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/learning-method-enables-robots-to-learn-by-watching-humans/",
+      "originalUrl": "https://www.unite.ai/learning-method-enables-robots-to-learn-by-watching-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:900/h:543/q:mauto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/07/whirl-web.jpg",
+          "width": 900,
+          "height": 543,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-26T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-27-global-artificial-intelligence-in-accounting-market-emerging-growth-analysis-future-demand-and-business-opportunities-2028.md",
       "title": "Global Artificial Intelligence in Accounting Market Emerging Growth Analysis, Future Demand and Business Opportunities 2028",
       "excerpt": "As the global economy mends, the 2021 growth of Metaverse in Healthcare will have significant change from previous year. According to our (LP Information) latest study, the global Metaverse in Healthcare market size is USD million in 2022 from USD million in 2021,",
@@ -1095,49 +1138,6 @@
         "AI",
         "Machine Learning",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-google-fires-engineer-blake-lemoine-who-says-ai-technology-became-sentient.md",
-      "title": "Google fires engineer Blake Lemoine, who says AI technology became sentient",
-      "excerpt": "'What sort of things are you afraid of?' he asked the technology, in a Google Doc shared with Google's top executives. MOUNTAIN VIEW, Calif. -- Google has fired the engineer who claimed an ...",
-      "sourceUrl": null,
-      "webUrl": "https://6abc.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/",
-      "originalUrl": "https://6abc.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://6abc.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/",
-      "cdnAmpWebUrl": "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/",
-      "publishedDateTime": "2022-07-25T22:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "6abc News",
-        "domain": "6abc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

@@ -35,20 +35,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Unlocking human-like perception in self-driving vehicles"
-    excerpt: "Researchers at the University of Freiburg have introduced the amodal panoptic segmentation task whose solution may soon enable more human-like environment perception for self-driving vehicles through AI algorithms • Unveiled at the AutoSens conference in the Autoworld Museum in Brussels • “We are confident that novel AI algorithms for this task will enable robots to emulate the visual experience that humans have by perceiving complete physical structures of objects,"
-    publishedDateTime: 2022-09-13T11:28:00Z
-    webUrl: "https://idw-online.de/en/news801127"
-    type: article
-    provider:
-      name: idw
-      domain: idw-online.de
-    quality: 26
-    images:
-      - url: "https://files.idw-online.de/corona_idw.png"
-        width: 615
-        height: 284
-        isCached: true
   - title: "Can the road network cope with self-driving vehicles?"
     excerpt: "The government recently announced plans to boost the roll-out of autonomous vehicles on UK roads by 2025. Will it spark a transport revolution to improve road safety and better connect communities?"
     publishedDateTime: 2022-09-14T10:42:00Z
@@ -77,6 +63,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Unlocking human-like perception in self-driving vehicles"
+    excerpt: "Researchers at the University of Freiburg have introduced the amodal panoptic segmentation task whose solution may soon enable more human-like environment perception for self-driving vehicles through AI algorithms • Unveiled at the AutoSens conference in the Autoworld Museum in Brussels • “We are confident that novel AI algorithms for this task will enable robots to emulate the visual experience that humans have by perceiving complete physical structures of objects,"
+    publishedDateTime: 2022-09-13T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/964648"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 4
 
 secured: "/sQ/xF/NPkKRZji6Fa5XzwA05DpXvHBtns9KmcsaqNy1KUT2QThD/jkwxJA8VC5ad3NihFZ40EDjzqYRik8JXMzBFOAoK/zuIH0D7g9ZwapyXUw88kikAga2eJLVDd4aY1R/CnSPil2ypKZPQu4Sw5Se37SsA0RobZqr6Xnku/w9LKWHoMMwTmeZNKcnVAUloyq+VXAM7qICF79cKOyQemC9yp8Jmnk5KqyHmSVFFgA6n2o2hi6jqvqoqevSbNO5EVxDlrYtzopJna0h/ici36UknqwXuJxNvuoPWFhyB75rQUw/3wbi4g5KOkyVK02L5PwvgXFudVoOEDhleA78FurOmnC7zgfR73wHOOtHLtpqrj+ZBiDaiy12qFHsPEjMzJA+LDQKsXEKWzjXi77WqejqqOq+/xmtvMU+ltznpQaoa8mItWgPmI28KHGYQy/ESsHVJQ5kZa0zgWq+L7j4KcmBRlQYCgNOXZ5AYnelbEmb5592NgkjU84WstPGUdITYHD6GYsbmwBRrsrMvgqIRQ==;WriD3IR16QjQyc10Yj5hUQ=="
 ---

@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-09-01-how-ai-can-help-document-legacy-cobol-code-before-its-too-late.md",
+      "title": "How AI can help document legacy COBOL code, before it’s too late",
+      "excerpt": "COBOL is 60 years old, and when the existing pool of its developers retires, some worry the knowledge of how COBOL applications have been built and structured will be lost. AI tools could be a solution.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/programming-development/how-ai-can-help-document-legacy-cobol-code-before-its-too-late/",
+      "originalUrl": "https://venturebeat.com/programming-development/how-ai-can-help-document-legacy-cobol-code-before-its-too-late/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1168836247.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/programming-development/how-ai-can-help-document-legacy-cobol-code-before-its-too-late/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/programming-development/how-ai-can-help-document-legacy-cobol-code-before-its-too-late/amp/",
+      "publishedDateTime": "2022-09-01T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-meet-the-japanese-robot-who-stocks-drinks-at-the-corner-store.md",
       "title": "Meet the Japanese Robot Who Stocks Drinks at the Corner Store",
       "excerpt": "A robot in Tokyo named TX SCARA is helping stock drinks at FamilyMart convenience stores following a worker shortage.",
@@ -1093,58 +1144,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-i-pitched-my-ridiculous-startup-idea-to-a-robot-vc.md",
-      "title": "I pitched my ridiculous startup idea to a robot VC",
-      "excerpt": "It was the pitch for my new startup, a company that promised to deliver ... specific VC expertise and advice by way of the powerful AI language model GPT-3. Originally released by OpenAI in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/pitched-startup-to-robot-vc/",
-      "originalUrl": "https://www.digitaltrends.com/computing/pitched-startup-to-robot-vc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/08/WaterDrone.png?p=1",
-          "width": 1456,
-          "height": 1002,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/pitched-startup-to-robot-vc/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/pitched-startup-to-robot-vc/?amp",
-      "publishedDateTime": "2022-08-31T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "digitaltrends.com",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

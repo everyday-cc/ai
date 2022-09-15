@@ -28,6 +28,24 @@ images:
     height: 640
     isCached: true
 
-secured: "vbndBZw0Pyylzu+HAtRA0fQ/V9UlKRVKlJJu7lFKGweBSVTp8zXoiViAzJVlEdSWUWh5v533vw9kheh+O9K1qUzdp3IXenNFa06TCjuotE/++kDWtmMgtpUkFcQ/RmHoT3i+aXiF/4tHSsnEOJ0PT3SsUlTLD53CZuvwnyB/1iiQAeJLS8Ie9270qo5S2e55IQVAVXedteTK7s7M1x7Ecs0TH31jE/f1s/prAib/AHmK/FwNLg5WIKHpB+VxhDenPDtmbqF7+2wrIexR9DRbRpJTlfrYnWG8acLWYTRKhUoEQgRQCBT+CYixRg1dlGaeBw4xjzHEctJEkiukfkCG3Q+MVWHot2rSzQI0nsCM40w=;su0P304HHAJ6TnVYRvUb/g=="
+related:
+  - title: "US Supreme Court Does About-face In Religion Case"
+    excerpt: "The US Supreme Court did an about-face Wednesday on a ruling in which it had granted temporary permission for an Orthodox Jewish university in New York to deny official recognition to an LGBTQ student group."
+    publishedDateTime: 2022-09-15T02:36:00Z
+    webUrl: "https://www.barrons.com/news/us-supreme-court-does-about-face-in-religion-case-01663195208"
+    ampWebUrl: "https://www.barrons.com/amp/news/us-supreme-court-does-about-face-in-religion-case-01663195208"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/us-supreme-court-does-about-face-in-religion-case-01663195208"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 44
+    images:
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP3577126552081338020125579038373441851292---1.jpg"
+        width: 768
+        height: 510
+        isCached: true
+
+secured: "UL3fA/ikAo9/1tMsG4xqCi0hVJR/bBbR3LKyZY2YvoM4WvSoPZYU8SLlEa09NKtp4MzzYh1iLt5sS6AV28OZPPH9JjpD4uLW3/GQ3QlWvZndtfD4gjq2f0NjafrtuPvPAVBY49viXuzpFxQzGX8n50ukeu0EUNJh6Sd0oAWGUHZkw5OBwwieNZ2Fy1cIysN4NgMxGeLwSjZnv0aQPRo77q7dYVLVq+GbI/1pqMgCR4uHg791B5wV8r3+Y92Q3cLEY7bdBw0RwsqfYeyoGHUfqISi6/w/TdhvNCKong1N2nHrcPC8zTQkchw7TqZR6wBYMHKyZLXfiMVhIKXjrW/cqJf5Q/Z02NzbeppDqgID2ZohLOXgG1rgMSl8MW9FpUngveaH3zsHPKDycH8EOWxe4jAH6r/K5KRqWLHgJdvTWnQ6wAWoDEeVSEk4RloQkJtmazru0MEnltRcoPZNFscTqfdWTWKO+K4PGOHT1BnbJv64EbrxJ3tm+Q8a7xPIPXeFsYGhcyFgWDqMTA/HnnzVJQ==;F8GRmkuWHDJrCSlzOKj2kQ=="
 ---
 
