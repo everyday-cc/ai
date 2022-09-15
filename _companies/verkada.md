@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "VerkadaHQ"
   url: "https://twitter.com/VerkadaHQ"
-  followers: 1353
+  followers: 1352
 
 locations:
   - San Mateo, CA
