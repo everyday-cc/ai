@@ -14,7 +14,7 @@ website: https://t.co/OiHC3bfPoX
 twitter:
   username: KyleCranmer
   url: https://twitter.com/KyleCranmer
-  followers: 13697
+  followers: 13698
 
 googleScholar:
   url: https://scholar.google.com/citations?user=EZjSxgwAAAAJ
@@ -26,7 +26,7 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1529454611920207874/6CRRMnHU_400x400.jpg
+  - url: https://pbs.twimg.com/profile_images/1570833173897953280/vPMcsGeY_400x400.jpg
     width: 400
     height: 400
     isCached: true
