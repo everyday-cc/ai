@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/ai-act-what-does-general-purpose-ai-gpai-eve
 ampWebUrl: "https://venturebeat.com/ai/ai-act-what-does-general-purpose-ai-gpai-even-mean/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-act-what-does-general-purpose-ai-gpai-even-mean/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Google AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/09/eu-elections-parliament-e1663194279910.jpg?fit=800%2C496&strip=all"
