@@ -7,7 +7,7 @@ originalUrl: "https://www.theweek.in/wire-updates/business/2022/09/15/dcm4-soroc
 webUrl: "https://www.theweek.in/wire-updates/business/2022/09/15/dcm4-soroco.html"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Soroco ScoutTM Now Available in Microsoft Azure Marketplace"
+    excerpt: "Soroco, the world’s first work graph company, today announced the availability of Soroco ScoutTM, the flagship product powered by work graph in Microsoft Azure Marketplace, an online store providing a"
+    publishedDateTime: 2022-09-15T21:36:00Z
+    webUrl: "https://indiaeducationdiary.in/soroco-scouttm-now-available-in-microsoft-azure-marketplace/"
+    ampWebUrl: "https://indiaeducationdiary.in/soroco-scouttm-now-available-in-microsoft-azure-marketplace/amp/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/soroco-scouttm-now-available-in-microsoft-azure-marketplace/amp/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 89
+    images:
+      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1"
+        width: 534
+        height: 462
+        isCached: true
   - title: "Soroco Scoutâ„¢ Now Available in Microsoft Azure Marketplace"
     excerpt: "With Soroco Scout TM, enterprises can unlock complex and unstructured enterprise datasets, a powerful source for driving digital transformation with multiple levers. With Scout now available in Azure Marketplace,"
     publishedDateTime: 2022-09-15T05:39:00Z

@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-06-2-reasons-you-should-be-extremely-cautious-about-this-hot-new-fintech-spac.md",
+      "title": "2 Reasons You Should Be Extremely Cautious About This Hot New Fintech SPAC",
+      "excerpt": "You may have recently heard of the latest hot new fintech to hit the market after it put its name on the map by partnering with SoFi Technologies in November 2021 and followed that up by partnering with Visa in February 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/2-reasons-you-should-be-extremely-cautious-about-this-hot-new-fintech-spac",
+      "originalUrl": "https://www.nasdaq.com/articles/2-reasons-you-should-be-extremely-cautious-about-this-hot-new-fintech-spac",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/2-reasons-you-should-be-extremely-cautious-about-this-hot-new-fintech-spac?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-reasons-you-should-be-extremely-cautious-about-this-hot-new-fintech-spac?amp",
+      "publishedDateTime": "2022-07-06T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-06-ai-in-fintech-market-2022-size-share-updated-growth-rate-report.md",
       "title": "AI in FinTech Market 2022 Size, Share updated Growth Rate Report",
       "excerpt": "New Jersey, United States – AI in FinTech Market 2022 – 2028, Size, Share, and Trends Analysis Research Report Segmented with Type, Component, Application, Growth Rate, Region, and Forecast ...",
@@ -1292,49 +1326,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-toyota-financial-services-recognizes-conduent-with-supplier-excellence-award-for-the-second.md",
-      "title": "Toyota Financial Services Recognizes Conduent with Supplier Excellence Award for the Second ...",
-      "excerpt": "Toyota Financial Services named Conduent Incorporated (Nasdaq: CNDT), a business process services and solutions company, a 2022 Toyota Supplier of the",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/toyota-financial-services-recognizes-conduent-with-supplier-excellence-award-for-the-second/article_96d4ba86-48d6-5557-93ec-51bb698ae028.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/toyota-financial-services-recognizes-conduent-with-supplier-excellence-award-for-the-second/article_96d4ba86-48d6-5557-93ec-51bb698ae028.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

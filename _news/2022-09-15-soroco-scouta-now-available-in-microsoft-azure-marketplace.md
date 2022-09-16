@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Soroco ScoutTM Now Available in Microsoft Azure Marketplace"
+    excerpt: "Soroco, the world’s first work graph company, today announced the availability of Soroco ScoutTM, the flagship product powered by work graph in Microsoft Azure Marketplace, an online store providing a"
+    publishedDateTime: 2022-09-15T21:36:00Z
+    webUrl: "https://indiaeducationdiary.in/soroco-scouttm-now-available-in-microsoft-azure-marketplace/"
+    ampWebUrl: "https://indiaeducationdiary.in/soroco-scouttm-now-available-in-microsoft-azure-marketplace/amp/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/soroco-scouttm-now-available-in-microsoft-azure-marketplace/amp/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 89
+    images:
+      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1"
+        width: 534
+        height: 462
+        isCached: true
   - title: "Soroco Scout™ Now Available in Microsoft Azure Marketplace"
     excerpt: "Soroco, the world's first work graph company, today announced the availability of Soroco ScoutTM, the flagship product powered by work graph in Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
     publishedDateTime: 2022-09-15T05:03:00Z

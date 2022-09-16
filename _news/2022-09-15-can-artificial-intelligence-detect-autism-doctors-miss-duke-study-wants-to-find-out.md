@@ -1,25 +1,28 @@
 ---
 category: news
 title: "Can artificial intelligence detect autism doctors miss? Duke study wants to find out."
-excerpt: "A computer just gives you a beautiful readout of how many times the head moves back and forth,” said Geraldine Dawson, director of Duke University’s Center for Autism and Brain Development. Dawson and her colleagues are testing an app that Duke has patented to harness that power."
-publishedDateTime: 2022-09-15T09:00:00Z
-originalUrl: "https://www.newsobserver.com/news/state/north-carolina/article265718501.html"
-webUrl: "https://www.newsobserver.com/news/state/north-carolina/article265718501.html"
-ampWebUrl: "https://amp.newsobserver.com/news/state/north-carolina/article265718501.html"
-cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/state/north-carolina/article265718501.html"
+excerpt: "When most toddlers diagnosed with autism sit still, their heads sway very slightly back and forth. That movement is an extremely reliable way to distinguish between a neurotypical and autistic child,"
+publishedDateTime: 2022-09-15T10:00:00Z
+originalUrl: "https://www.aol.com/news/artificial-intelligence-detect-autism-doctors-100000759.html"
+webUrl: "https://www.aol.com/news/artificial-intelligence-detect-autism-doctors-100000759.html"
 type: article
-quality: 32
-heat: 32
+quality: 30
+heat: 30
 published: false
 
 provider:
-  name: Raleigh News & Observer
-  domain: newsobserver.com
+  name: AOL
+  domain: aol.com
 
 topics:
-  - AI in Healthcare
   - AI
 
-secured: "RvyjdPqDuI/WYDS5jtno7EDaTsakUo13xIw5NhlyY3ARpLPWoq8CZx2KrIymbUgOw3OtY8U8PSVH0nB6xVyFRmX+P6q4PGDxuGuFi4q4UzaII/zSgUJqUpns9eaR5gR/pr0HFlA2val5z7X1PGaDtvAk15QHAjaR2TqjkZrx9Ojw7DJpmyIwL5Z4VqiGih+TTO1EKNYn8AuTcgqcm1LKphSVWC5atAJy/Og9t9z1HquylIQQmlLyd1bvRj06yxvIHkbQrD4hekR+zhYfNWpsnUp7s0qjsSPbeQglGRkHoclMRGCz09vDH9YmXbP7xGw6WkBQGw6DKyME3zjSxecXgMo5nwqeemRxb+9WdbNy1FloZC4W6akhnq+3koFo2s2kiljAwHvI6vHzDNz5RO++a5bPtiuzWH2IimHp8fX/zlDtxbL5xBr/tv/XVSTUQDWzpe787rXYws2n5C2QdyULXPRDtDDw80JTQ+9Tz/ZMmOyoNw7aBUiTR2GmwhrQ8cDn73ENbz9xxPdR0Fhhwm1ypA==;iCdVbNDAOWZE++LkgnKRiA=="
+images:
+  - url: "https://s.yimg.com/uu/api/res/1.2/TT.0JDWvagjdn.Fw2hNIPQ--~B/aD03MTk7dz0xMTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/aol_raleigh_news_and_observer_mcclatchy_356/c5b2c0610b80dc2ea54ced935e44c32d"
+    width: 1140
+    height: 719
+    isCached: true
+
+secured: "uHlc4EUdfuap2NLAYOdWo6pcoo2Ww+RBkA9t/t9qbb0k8g1Ytm4wL+2pYItScNAI8jp77Zgze84S8IrntsCrkmXfcbmxYt1lk+lU4p0lGYzhVOPFA7A4+OsRZQEpV7d2x3kbK8MMvAyzDCU5Ry+9qtDhbfeNE14ppnr9q4Dfq5vDWRGwaLyjfQj14yrim8LDyv4SI35CgbH23bxWeqXoQ1xmOYrQ+lgn/1SqW+gDxOO1ndOT510/HObAZAPO7ogF5hlyuQCUEnYpBJf9vj47hUE9WNd8JSPt6ItuWJjoWjBpFyVzgUhPkGcB6E8izUQIZU/eoieisKm9vyxGfmGoGoMyCdDv5HpBxrBA36YHRq4=;FwWN8r4aWPTQCWQq/q4fng=="
 ---
 
