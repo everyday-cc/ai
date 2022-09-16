@@ -5,12 +5,7 @@ excerpt: "A computer just gives you a beautiful readout of how many times the he
 publishedDateTime: 2022-09-15T09:00:00Z
 originalUrl: "https://www.newsobserver.com/news/state/north-carolina/article265718501.html"
 webUrl: "https://www.newsobserver.com/news/state/north-carolina/article265718501.html"
-ampWebUrl: "https://amp.newsobserver.com/news/state/north-carolina/article265718501.html"
-cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/state/north-carolina/article265718501.html"
 type: article
-quality: 32
-heat: 32
-published: false
 
 provider:
   name: Raleigh News & Observer
@@ -20,6 +15,6 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "YG3LEEzSdHBPhgDkpCHUniZg/e+vBzL8xGhUhRje+0hnEnmW7YGnJaknB8O5AqWszFw0KkoV24YEGWh88nSWiE9BZknzwBijUHFv4+m3hPPLhSYjPwImg8NddWY0DFRv6pDYqz/KofEUwtXlMxgiTyaOcET5tNlBM5E8gOcY/BCXhR18TKbZgiWn7ZbkXIP0BiZvlhJWezuLty2QTBA4+vDmQfCuV4OKYmw2LgnFFYetMxKnAx48+3LUOb/xAzGL6AYD4Nos24Pk4LCZfYsM+rwVP6xN2jpe8anTsXU1aAIBG08SE+qOi54vGRUXGvPaRIyrgToMLBBES6fAuv1yUXvUorSRteW69UouVbxcOCxJQPs/NafGIwSTCVT3rngaPhvpg6G5+2v8AXue9aXt0ButM5BslE90lpHSliCRl3HJ22/EI0xCLv5zuYyMhODkY27tRttpEz6Rv6a/64F0mxpCO+i9nGYEyGEmTopl57Yd6Km6YmsEiG2pRMrWNrRbkh9l4LOqgXwVpYbIXRmIsQ==;JBJxVmtJnKk7x97QeZdb4g=="
+secured: "TNGI2c4ZHg/exq8fNRyflGkZrY92Vq4YzHO5pQoUQGOy1eKplyIzHMVBFursG0da2WsvQXEifH58zS1Ldt3rYk8XKoEQWiYKjjvVL6afzhxfGfsWgB8ojE5ma1aXYdMU+FKEvMZtfd5ctAQh6rD4WjMQa0BIowV2Bmxe+J8rjTvClDyBHIqIdPSCTUaR6uk7vKZ/jxweoKtde2402Lrm/dTo+54V7Gfa/+pQ2i22ds9YRinNPW9r3L9LGu6gMSDa8b3HDsCU5qvh+CwDbRgSAxmAVchloLnJYRQ+sHvHyMBcKWs9c7FYhlvI7VqEWS8AjFoqrssBlZm9Se0/O8nUBnJOMPdXGoiR1UzFD5jVD+xUhsPCi6Ffy4aZ22YNraSIsS7PW+rv63jvjQ3VktCsKMdl1CHNBPnLAxq4aCvMyIfZgCSunnfHveCOegjBTnLR4zqFjLujTMJ+geZHI+HBJ4xVuEmvc84ka5EC/IcJP3l+UsgPVJ/OJadG/ZGQAs9JYT+3pWeVxmveLphffeIeNw==;9MgmdSLAtyef7rSjMEDo6g=="
 ---
 
