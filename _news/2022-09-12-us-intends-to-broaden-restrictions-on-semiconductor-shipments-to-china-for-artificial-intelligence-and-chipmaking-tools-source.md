@@ -80,20 +80,6 @@ related:
       name: Investing
       domain: investing.com
     quality: 22
-  - title: "Broader US chips export curb to propel Chinese replacement in autonomous driving: experts"
-    excerpt: "China's fast-growing autonomous driving sector could be the latest target under a broader US ban on exports to China. But experts said frequent US technology crackdowns have pushed local companies to accelerate research and development of domestic replacements."
-    publishedDateTime: 2022-09-11T16:00:00Z
-    webUrl: "https://www.globaltimes.cn/page/202209/1275163.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 15
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-08-17/506f8935-b6d2-4b55-9312-af89e28ad0e0.jpeg"
-        width: 1200
-        height: 720
-        isCached: true
 
 secured: "mUTEFu8qobzkL5njwVZB5vdOtG6wMcS1Ke3Q6M9mlFx+SoRxkObQdtLWuFd7m+wXy4fGSl6b28BZ0az0gH2QHBaYZqZgHHKMhcwgmsNxhfKQMOazkJ7s2RvFsq/F97ItRdMP93vwG7BfTaRwGhPOZZYl+ml8K4ms6Qu9y4JEMBNB5eEQji6cxxhM4CpE3HdzedYmlzXPraW5qGXqOyeVgQ4QJPMKkkbmHKaUe2gk1W2F32YHvHh7r65L0rYVKa1F8k68pwl/ElNvb+RsPCdAlrOKK1Q4fESFj30MacuI4xWDzNv+gjTNSc7kQhEVcmzapGgmTP+wN46rGv0ak/ihu3oAQoIFWbSOHihn9DF4jghKA29hWuPxwbhCqYHAa1/2dFZvK+5NRgLcowqmYLnaONp9pBxb33TN9S98gO+OJAVVTyfvUP8YfkB6U0M/KYs2xUuCfoiLWfwbZU6pEzqYHkxRrr2vvWQ5LgXrIFa9p6AubgtCUVVVqAcwFA/bhDVFR4Bc3qrSiY8e4GrnhPdamg==;URIbgo6vkSAkugg4DFVS1w=="
 ---

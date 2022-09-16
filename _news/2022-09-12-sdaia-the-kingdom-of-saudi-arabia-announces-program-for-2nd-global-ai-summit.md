@@ -69,6 +69,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "US-based Nala Robotics, Saudi Excellence Company ink pact to bring robotics services to Saudi market"
+    excerpt: "The US company is to provide robotics AI-enabled equipment and software to help Saudi food companies achieve more efficiency and speed in production and higher levels of quality US-based Nala Robotics,"
+    publishedDateTime: 2022-09-16T08:20:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/us-based-nala-robotics-saudi-excellence-company-ink-pact-to-bring-robotics-services-to-saudi-market"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 19
   - title: "SDAIA: The Kingdom of Saudi Arabia Announces Program for 2nd Global AI Summit"
     excerpt: "The Saudi Data & AI Authority (SDAIA) has announced its official schedule and speaker roster for the 2nd Global AI Summit, set to take place on September 13 - 15, 2022, in Riyadh, Saudi Arabia. The theme of the summit is \"AI for the Good of Humanity\","
     publishedDateTime: 2022-09-14T01:10:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/09/13/loab-ai-generated-horror/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/13/loab-ai-generated-horror/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Generative AI startup Rephrase.ai raises $10.6 million in funding led by Red Ventures"
+    excerpt: "Rephrase.ai will use the funds to enhance its capabilities by integrating product experiences; scaling hiring across the business, including within the engineering, AI, product, sales, and marketing teams;"
+    publishedDateTime: 2022-09-16T08:27:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/funding/generative-ai-startup-rephrase-ai-raises-10-6-million-in-funding-led-by-red-ventures/articleshow/94242679.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/funding/generative-ai-startup-rephrase-ai-raises-10-6-million-in-funding-led-by-red-ventures/amp_articleshow/94242679.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/generative-ai-startup-rephrase-ai-raises-10-6-million-in-funding-led-by-red-ventures/amp_articleshow/94242679.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 50
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-284920,msid-94243001/generative-ai-startup-rephrase-ai-raises-10-6-million-in-funding-led-by-red-ventures.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "How AI Is Making Launching a Business Easier Than Ever"
     excerpt: "There has never been a better, easier time to start a business. Artificial intelligence technology is chipping away at the barriers to entry for aspiring entrepreneurs, which represent a meaningful segment of the U."
     publishedDateTime: 2022-09-13T09:43:00Z

@@ -2,6 +2,240 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-08-27-founder-of-collapsed-ai-start-up-metigy-in-18m-property-buying-spree.md",
+      "title": "Founder of collapsed AI start-up Metigy in $18m property buying spree",
+      "excerpt": "Administrators are now urging the sale of the properties - a mansion in Mosman and a luxury estate in Kangaroo Valley with a private rainforest waterfall - to claw back funds for creditors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theage.com.au/business/companies/founder-of-collapsed-ai-start-up-metigy-in-18m-property-buying-spree-20220828-p5bdbc.html",
+      "originalUrl": "https://www.theage.com.au/business/companies/founder-of-collapsed-ai-start-up-metigy-in-18m-property-buying-spree-20220828-p5bdbc.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theage.com.au/business/companies/founder-of-collapsed-ai-start-up-metigy-in-18m-property-buying-spree-20220828-p5bdbc.html",
+      "cdnAmpWebUrl": "https://amp-theage-com-au.cdn.ampproject.org/c/s/amp.theage.com.au/business/companies/founder-of-collapsed-ai-start-up-metigy-in-18m-property-buying-spree-20220828-p5bdbc.html",
+      "publishedDateTime": "2022-08-27T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Age",
+        "domain": "theage.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-27-mckee-medical-center-recognized-for-robotic-surgery-excellence.md",
+      "title": "McKee Medical Center recognized for robotic surgery excellence",
+      "excerpt": "The robotic approach offers the surgeon magnified, high-definition vision with the ability to control surgical instruments much like a human hand to see and access anatomy. This allows surgeons ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reporterherald.com/2022/08/27/mckee-recognized-for-robotic-surgery-excellence/",
+      "originalUrl": "https://www.reporterherald.com/2022/08/27/mckee-recognized-for-robotic-surgery-excellence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reporterherald.com/wp-content/uploads/2019/04/RH-backupimage-1000x563.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.reporterherald.com/2022/08/27/mckee-recognized-for-robotic-surgery-excellence/amp/",
+      "cdnAmpWebUrl": "https://www-reporterherald-com.cdn.ampproject.org/c/s/www.reporterherald.com/2022/08/27/mckee-recognized-for-robotic-surgery-excellence/amp/",
+      "publishedDateTime": "2022-08-27T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reporter-Herald",
+        "domain": "reporterherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-27-improving-ai-assisted-conversation-with-zero-shot-learning.md",
+      "title": "Improving AI-assisted conversation with zero-shot learning",
+      "excerpt": "Zero-shot learning can improve conversation AI — bolstering everything from human interaction, to sales, to training and career coaching.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/improving-ai-assisted-conversation-with-zero-shot-learning/",
+      "originalUrl": "https://venturebeat.com/ai/improving-ai-assisted-conversation-with-zero-shot-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1169246375.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/improving-ai-assisted-conversation-with-zero-shot-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/improving-ai-assisted-conversation-with-zero-shot-learning/amp/",
+      "publishedDateTime": "2022-08-27T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-08-27-sanford-health-partners-to-overcome-data-bottleneck-hindering-medical-ai-tools.md",
+      "title": "Sanford Health partners to overcome data ‘bottleneck’ hindering medical AI tools",
+      "excerpt": "SIOUX FALLS, S.D. — The power of computer-driven artificial intelligence has offered ... along with San Diego-based Sharp HealthCare. Sanford is the country’ largest rural health system ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.grandforksherald.com/newsmd/sanford-joins-partnership-to-overcome-data-bottleneck-hindering-medical-artificial-intelligence-tools",
+      "originalUrl": "https://www.grandforksherald.com/newsmd/sanford-joins-partnership-to-overcome-data-bottleneck-hindering-medical-artificial-intelligence-tools",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.forumcomm.com/dims4/default/7e71c66/2147483647/strip/true/crop/1024x498+0+92/resize/1440x700!/quality/90/?url=https%3A%2F%2Ffcc-cue-exports-brightspot.s3.us-west-2.amazonaws.com%2Fbemidjipioneer%2Fbinary%2Fcopy%2Fce%2F7b%2F67de281c9ab8527ce2e3bf2174b0%2F1542445-sanford-binary-879715.JPG",
+          "width": 1440,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-27T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Grand Forks Herald",
+        "domain": "grandforksherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-27-perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators.md",
+      "title": "Perceptron: Face-tracking ‘earables,’ analog AI chips, and accelerating particle accelerators",
+      "excerpt": "In this week's edition of Perceptron, TechCrunch's semiregular AI research roundup, we highlight an 'earable' that uses sonar to record facial expressions and a superfast processor for AI training.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/27/perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators/",
+      "originalUrl": "https://techcrunch.com/2022/08/27/perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/08/resized_brain_cover.png",
+          "width": 768,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/27/perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/27/perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators/amp/",
+      "publishedDateTime": "2022-08-27T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-08-27-imaginations-gpu-and-ai-accelerator-licensed-for-the-latest-aiot-risc-v-based-applications.md",
       "title": "Imagination's GPU and AI Accelerator Licensed for the latest AIoT RISC-V-based applications",
       "excerpt": "Our heterogeneous GPU and NNA computing platforms offer industry-leading power ... Also included in the SOC is the PowerVR AX3386 AI accelerator, part of the award-winning Series3NX NNA cores. It offers up to 5 TOPS with leading TOPS per watt, is 70% ...",
@@ -905,238 +1139,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-deep-learning-chip-market-worth-us-2131-bn-globally-by-2027-at-300-cagr-exclusive-report-by-the-insight-partners.md",
-      "title": "Deep Learning Chip Market Worth US$ 21.31 Bn, Globally, by 2027 at 30.0% CAGR – Exclusive Report by The Insight Partners",
-      "excerpt": "Deep Learning Chip Market to 2027 – Global Analysis and Forecasts By Chip Type (GPU, ASIC, FPGA, CPU, Others); Technology (System-on-Chip, System-in-Package, Multi-chip Module, Others); Industry ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/deep-learning-chip-market-worth-us-21-31-bn-globally-by-2027-at-30-0-cagr-exclusive-report-by-the-insight-partners-2",
-      "originalUrl": "https://www.digitaljournal.com/pr/deep-learning-chip-market-worth-us-21-31-bn-globally-by-2027-at-30-0-cagr-exclusive-report-by-the-insight-partners-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/vio-onut-weavesphere-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-26T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-googles-test-kitchen-app-asks-you-talk-to-ai-about-dogs.md",
-      "title": "Google's Test Kitchen App Asks You Talk to AI About Dogs",
-      "excerpt": "LaMDA is a prototype AI system capable of deciphering a conversation's intent, and Google needs your help testing it out via the Test Kitchen app.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/googles-test-kitchen-app-asks-you-talk-to-ai-about-dogs",
-      "originalUrl": "https://www.pcmag.com/news/googles-test-kitchen-app-asks-you-talk-to-ai-about-dogs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/02aFSmyk24iY6AKYmO4LH89-2.fit_lim.size_1200x630.v1661520065.png",
-          "width": 830,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-26T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-financialbuzzcom-demand-for-comprehensive-cleaning-services-grow-post-pandemic.md",
-      "title": "FinancialBuzz.com: Demand for Comprehensive Cleaning Services Grow Post-Pandemic",
-      "excerpt": "FinancialBuzz.com News Commentary NEW YORK, Aug. 26, 2022 /PRNewswire/ -- Due to the growing implementation of AI and automation in household equipment, the domestic robot market reached",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56909398-financialbuzz-com-demand-for-comprehensive-cleaning-services-grow-post-pandemic-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56909398-financialbuzz-com-demand-for-comprehensive-cleaning-services-grow-post-pandemic-008.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-26T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-how-to-prepare-for-ai-driven-next-generation-customer-service.md",
-      "title": "How To Prepare For AI-Driven Next-Generation Customer Service",
-      "excerpt": "For companies that are eager but new to next-generation customer service, conversational AI can present challenges. However, we are",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/26/how-to-prepare-for-ai-driven-next-generation-customer-service/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/26/how-to-prepare-for-ai-driven-next-generation-customer-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&crop=2433,1369,x0,y175,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/26/how-to-prepare-for-ai-driven-next-generation-customer-service/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/26/how-to-prepare-for-ai-driven-next-generation-customer-service/amp/",
-      "publishedDateTime": "2022-08-26T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-ai-eye-podcast-and-video-gbts-ceo-discusses-apollo-and-ai-in-image-recognition.md",
-      "title": "AI Eye Podcast and Video - GBT's CEO Discusses Apollo and AI in Image Recognition",
-      "excerpt": "Investorideas.com ( a global investor news source covering Artificial Intelligence(AI) stocks releases an exclusive podcast with AI innovator GBT Technologies Inc. (OTC Pink: GTCH). and sector snapshot looking at the growing AI tech implementation in the autonomous vehicles market via image recognition and computer vision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-eye-podcast-and-video---gbts-ceo-discusses-apollo-and-ai-in-image-recognition-2022-08-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-eye-podcast-and-video---gbts-ceo-discusses-apollo-and-ai-in-image-recognition-2022-08-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-26T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

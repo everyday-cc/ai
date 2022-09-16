@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/09/13/lease-to-own-fintech-startup-kafen
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/13/lease-to-own-fintech-startup-kafene-raises-18m-to-battle-bnpl/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "How fintech startups are using AI to empower MSMEs?"
+    excerpt: "The MSME sector, better known as ‘the engine of growth’ has been contributing immensely to the economic progress of the country. Providing employment opportunities to over 100 million people, many Fintech startups have also"
+    publishedDateTime: 2022-09-16T08:15:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-fintech-startups-are-using-ai-to-empower-msmes/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-fintech-startups-are-using-ai-to-empower-msmes/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-fintech-startups-are-using-ai-to-empower-msmes/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/09/Oumesh-Sauba.jpg"
+        width: 480
+        height: 600
+        isCached: true
   - title: "17 Fintech and Insurtech Startups Among Forbes Asia’s Top 100 to Watch in 2022"
     excerpt: "Meet the 17 fintech and insurtech startups in the Asia Pacific featured on Forbes Asia's 2022 100 To Watch list."
     publishedDateTime: 2022-09-14T07:13:00Z

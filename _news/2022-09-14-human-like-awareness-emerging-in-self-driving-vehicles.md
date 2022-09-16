@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Unlocking human-like perception in self-driving vehicles"
-    excerpt: "Researchers at the University of Freiburg have introduced the amodal panoptic segmentation task whose solution may soon enable more"
-    publishedDateTime: 2022-09-13T11:55:00Z
-    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/224907"
-    type: article
-    provider:
-      name: AlphaGalileo
-      domain: alphagalileo.org
-    quality: 24
-    images:
-      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/imported/69610_image.jpg"
-        width: 602
-        height: 716
-        isCached: true
   - title: "Can the road network cope with self-driving vehicles?"
     excerpt: "The government recently announced plans to boost the roll-out of autonomous vehicles on UK roads by 2025. Will it spark a transport revolution to improve road safety and better connect communities?"
     publishedDateTime: 2022-09-14T10:42:00Z

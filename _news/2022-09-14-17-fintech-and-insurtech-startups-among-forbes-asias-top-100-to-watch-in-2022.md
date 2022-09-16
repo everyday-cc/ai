@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How fintech startups are using AI to empower MSMEs?"
+    excerpt: "The MSME sector, better known as ‘the engine of growth’ has been contributing immensely to the economic progress of the country. Providing employment opportunities to over 100 million people, many Fintech startups have also"
+    publishedDateTime: 2022-09-16T08:15:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-fintech-startups-are-using-ai-to-empower-msmes/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-fintech-startups-are-using-ai-to-empower-msmes/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-fintech-startups-are-using-ai-to-empower-msmes/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/09/Oumesh-Sauba.jpg"
+        width: 480
+        height: 600
+        isCached: true
   - title: "Key Learning to Build Fintech App For Startup"
     excerpt: "How will the new Fintech app add value to the customers' financial transactions and user experience? What unique value propositions is the app offer, and how do they stand out from the competitor apps?"
     publishedDateTime: 2022-09-14T04:11:00Z
