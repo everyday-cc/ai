@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/09/12/when-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/09/12/when-the-rise-of-ai-meets-the-ease-of-no-code/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Anyone can use this AI art generator — that’s the risk"
+    excerpt: "That’s the basic premise of AI text-to-image programs. Users type out descriptions of whatever they like — a cyborg Joe Biden wielding a samurai sword; a medieval tapestry of frogs jousting — and these systems,"
+    publishedDateTime: 2022-09-15T12:30:00Z
+    webUrl: "https://www.theverge.com/2022/9/15/23340673/ai-image-generation-stable-diffusion-explained-ethics-copyright-data"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 49
 
 secured: "JkZAPnL1Xb4X9Ua5Xjvs/IlApoR9lS17n9H9fAIFuJKDq+zWx6lu8iGpqo/Pwga+af+MMVrF2hNk/SxcQry8/31wPTq5Wog9VXjlwHNwz6GMjxq/Rl68X8qxlvUwJTTIgcnhFPlS0dv7Jqr9A2OIVzZUUo5SvUlstvbreGxqw/JiM9zWUz8kTrV3lDR6xarwpGTsk4EH9Z/Vuhwb6GiHv7pFAv/PhoWHxGxZMTBwcvSTduzYIQU3VFPpgc9IVPeV3t4kijQFSNdg5SOpkw53uSFwrNhMUrFQasyMZ+4ctw3mEQPCrF+QrwNHaNtjwVoEWphaW4OY7wdHMSgO2QUdHax94bD3hAfbqKvQJ1kzCq5kXYqe0DSCTWSRuYd80lad+GTk8ZS10vQYEOkBRMlt7cDAhxYLIBtmFgZFE1W6ETuKZ0tFSJQvA8tI2Ao0uivlHjFt7cOEmL1n6zVWT0sg06V5DgX5Dx+ajWDE4vivaSpon2YzMtvY3g/GDRPbeB2e36ytatfiiwrO1eiLuR52Hg==;t0qZD2P7YWezPVKlcCrpgA=="
 ---

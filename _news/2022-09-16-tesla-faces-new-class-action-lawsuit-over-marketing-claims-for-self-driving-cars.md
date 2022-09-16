@@ -154,6 +154,22 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Drivers Sue Tesla Because Full Self-Driving Isn't Actually Full Self-Driving"
+    excerpt: "Tesla is being sued for misleading the public by calling its controversial driver assistance features \"Autopilot\" and \"Full Self-Driving,\" Reuters reports."
+    publishedDateTime: 2022-09-16T17:08:00Z
+    webUrl: "https://futurism.com/the-byte/drivers-sue-tesla-full-self-driving"
+    ampWebUrl: "https://futurism.com/drivers-sue-tesla-full-self-driving?amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/drivers-sue-tesla-full-self-driving?amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 56
+    images:
+      - url: "https://wp-assets.futurism.com/2022/09/drivers-sue-tesla-full-self-driving-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Tesla sued by drivers over alleged false Autopilot, Full Self-Driving claims"
     excerpt: "Tesla Inc was sued on Wednesday in a proposed class action accusing Elon Musk's electric car company of misleading the public by falsely advertising its Autopilot and Full Self-Driving features. The complaint accused Tesla and Musk of having since 2016 deceptively advertised the technology as fully functioning or 'just around the corner' despite knowing that the technology did not work or was nonexistent,"
     publishedDateTime: 2022-09-15T09:21:00Z
@@ -191,6 +207,20 @@ related:
       name: KnowTechie
       domain: knowtechie.com
     quality: 34
+  - title: "Self-driving cars put HB2813 to the test"
+    excerpt: "With more self-driving cars on our roads, we are in new territory when it comes to determining fault during accidents and properly protecting ourselves."
+    publishedDateTime: 2022-09-16T16:46:00Z
+    webUrl: "https://azcapitoltimes.com/news/2022/09/16/self-driving-cars-put-hb2813-to-the-test/"
+    type: article
+    provider:
+      name: Arizona Capitol Times
+      domain: azcapitoltimes.com
+    quality: 24
+    images:
+      - url: "https://azcapitoltimes.com/files/2018/02/Waymo-car-620.jpg"
+        width: 620
+        height: 330
+        isCached: true
   - title: "Finally, Ford Plans To Release A Test Self-Driving Car By The End Of 2022"
     excerpt: "Finally, Ford Plans to Release a Test Self-Driving Car by the End of 2022 . September 13, 2022 by Mark Allinson Leave a Comment . Ford plans t"
     publishedDateTime: 2022-09-14T03:16:00Z

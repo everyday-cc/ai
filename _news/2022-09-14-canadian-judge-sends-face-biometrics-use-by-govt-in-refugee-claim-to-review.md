@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "PixLab launches face biometrics authentication framework for web applications"
+    excerpt: "Machine vision company PixLab has launched its web-based facial authentication framework, FaceIO, which can be integrated on any website via JavaScript."
+    publishedDateTime: 2022-09-16T17:50:00Z
+    webUrl: "https://www.biometricupdate.com/202209/pixlab-launches-face-biometrics-authentication-framework-for-web-applications"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 21
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/06/10155802/tablet-scaled.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
   - title: "Paravision face biometrics contract with US Air Force expands"
     excerpt: "The project involves developing and delivering a converged identity solution with biometric capabilities providing physical and logical access control."
     publishedDateTime: 2022-09-12T18:54:00Z

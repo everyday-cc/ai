@@ -23,19 +23,35 @@ topics:
   - AI Ethics
 
 related:
-  - title: "4 Hot Takes About The Wild New World Of Generative AI"
-    excerpt: "Text-to-image AI models generate original images based solely on simple written inputs. Users can input any text prompt they like—say, “a cute corgi lives in a house made out of sushi”—and, as if by magic,"
-    publishedDateTime: 2022-09-12T00:42:00Z
-    webUrl: "https://www.forbes.com/sites/robtoews/2022/09/11/4-hot-takes-about-the-wild-new-world-of-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/robtoews/2022/09/11/4-hot-takes-about-the-wild-new-world-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/09/11/4-hot-takes-about-the-wild-new-world-of-generative-ai/amp/"
+  - title: "When The Rise Of AI Meets The Ease Of No-Code"
+    excerpt: "We’re in the third generation: predictive analytics. People can use AI to find patterns in their data and predict what’s coming next. This latest step in AI analytics has brought new challenges. We’ve seen a new category of tools to help data analysts use machine learning without writing code."
+    publishedDateTime: 2022-09-12T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/09/12/when-the-rise-of-ai-meets-the-ease-of-no-code/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/09/12/when-the-rise-of-ai-meets-the-ease-of-no-code/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/09/12/when-the-rise-of-ai-meets-the-ease-of-no-code/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 91
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/631cc1be4103d0cf19fe5860/0x0.jpg?format=jpg&crop=1024,576,x0,y283,safe&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61cb2397df4f158c91554661/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "\"Art is dead Dude\" - the rise of the AI artists stirs debate"
+    excerpt: "Mr Allen is the winner of the Colorado State Art Fair's competition in the category of \"emerging digital artists\". His winning entry \"Théâtre D'opéra Spatial\" was made using Midjourney, an artificial intelligence system that enables images to be created simply by inputting a few text prompts - for example \"an astronaut riding a horse\"."
+    publishedDateTime: 2022-09-13T08:47:00Z
+    webUrl: "https://bbc.co.uk/news/technology-62788725.amp"
+    ampWebUrl: "https://bbc.co.uk/news/technology-62788725.amp"
+    cdnAmpWebUrl: "https://bbc-co-uk.cdn.ampproject.org/c/s/bbc.co.uk/news/technology-62788725.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/1707D/production/_126633349_washingtonpostgettyimages-1242900615.jpg"
         width: 1024
         height: 576
         isCached: true

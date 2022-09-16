@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/09/14/how-ai-and-machi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/09/14/how-ai-and-machine-learning-will-impact-the-future-of-healthcare/amp/"
 type: article
 quality: 121
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/07/iStock-1397174654.jpg"
         width: 750
         height: 384
+        isCached: true
+  - title: "How AI Drives Down Healthcare Costs and Improves Quality of Care"
+    excerpt: "By Ronny Shalev, PhD, CEO of Dyad Medical Artificial intelligence (AI) is one of the main tools powering the next generation of healthcare technology. With the potential to drive down healthcare costs and improve patient outcomes,"
+    publishedDateTime: 2022-09-16T17:31:00Z
+    webUrl: "https://www.globalbankingandfinance.com/how-ai-drives-down-healthcare-costs-and-improves-quality-of-care/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/how-ai-drives-down-healthcare-costs-and-improves-quality-of-care/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-ai-drives-down-healthcare-costs-and-improves-quality-of-care/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 74
+    images:
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/09/129-333x500.jpg"
+        width: 333
+        height: 500
         isCached: true
   - title: "Healthcare researchers must be wary of misusing AI"
     excerpt: "A commentary advocates the proper application of artificial intelligence in healthcare and warns of the dangers when machine learning algorithms are misused."

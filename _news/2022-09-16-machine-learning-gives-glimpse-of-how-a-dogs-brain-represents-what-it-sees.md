@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/09/220915123716.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/09/220915123716.htm"
 type: article
 quality: 62
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Decoding canine cognition: Machine learning gives glimpse of how a dog's brain represents what it sees"
+    excerpt: "Scientists have decoded visual images from a dog's brain, offering a first look at how the canine mind reconstructs what it sees. The Journal of Visualized Experiments published the research done at Emory University."
+    publishedDateTime: 2022-09-16T17:10:00Z
+    webUrl: "https://phys.org/news/2022-09-decoding-canine-cognition-machine-glimpse.html"
+    ampWebUrl: "https://phys.org/news/2022-09-decoding-canine-cognition-machine-glimpse.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-decoding-canine-cognition-machine-glimpse.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 58
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/decoding-canine-cognit.jpg"
+        width: 2880
+        height: 1080
+        isCached: true
   - title: "Machine learning gives glimpse of how a dog's brain represents what it sees"
     excerpt: "Scientists have decoded visual images from a dog’s brain, offering a first look at how the canine mind reconstructs what it sees."
     publishedDateTime: 2022-09-15T15:36:00Z

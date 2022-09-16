@@ -72,15 +72,6 @@ related:
       name: Medical Design and Outsourcing
       domain: medicaldesignandoutsourcing.com
     quality: 34
-  - title: "US intends to broaden restrictions on semiconductor shipments to China for artificial intelligence and chipmaking tools - source"
-    excerpt: "THE US INTENDS TO BROADEN RESTRICTIONS ON SEMICONDUCTOR SHIPMENTS TO CHINA FOR ARTIFICIAL INTELLIGENCE AND CHIPMAKING TOOLS - SOURCE."
-    publishedDateTime: 2022-09-11T23:07:00Z
-    webUrl: "https://www.forexfactory.com/news/1178073-us-intends-to-broaden-restrictions-on-semiconductor-shipments"
-    type: article
-    provider:
-      name: Forex Factory
-      domain: forexfactory.com
-    quality: 0
 
 secured: "38nUZtrdQggzkag+nvUSAT4obtRbOuzApPwWqI9LiY2fQKgJNu5ipZxybrqAL3rkHdP6wJCNRxWYhodFv/GqrFhY90BWVoVqvLW8FriX7OfnTq/VSZfMtrOmKLS2Tm9duRuiAcFshtzzMYZ2HK9f5sMzkfcerWfBaN7pz/aeYxHdhDGQIbNPw10RXbRO30P7xOFOtiTKei7guxbzHMRb4k8HxwoTAORnWDcqIhzhA+qUCNf+rdRbmt4jyt40OuKUD1oG8+nJC4CBe9QqohAtdKLG4ifnUovL3lK3KCjeAohEhdKKjKCNCbMU/hmj6tUoAIpPuZymBX1BliiC1GEzgRzVh79nsbsNc6BEBDttJRWM90LAtVPy4+Nl06Il+akTGx6R+Yl9zS9UpopR7SoAfY9l7pfCZSK6xEOz15ZGyZbCCqz1LYtTXbK9GoYt2czU4xPkoOPsSLZxiTkvgLrHYON0rghXy/EEFh1rhVGNqCA8KNgikBUf5/ZaqoNQCuETTtl3VcusReEYgpVCwFUiiA==;hwgbboCwad3ieHs4U/nq6A=="
 ---

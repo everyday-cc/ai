@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxbusiness.com/technology/biden-hit-china-broader-curbs
 cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/biden-hit-china-broader-curbs-us-chip-tool-exports.amp"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -73,15 +73,6 @@ related:
       name: Investing
       domain: investing.com
     quality: 22
-  - title: "US intends to broaden restrictions on semiconductor shipments to China for artificial intelligence and chipmaking tools - source"
-    excerpt: "THE US INTENDS TO BROADEN RESTRICTIONS ON SEMICONDUCTOR SHIPMENTS TO CHINA FOR ARTIFICIAL INTELLIGENCE AND CHIPMAKING TOOLS - SOURCE."
-    publishedDateTime: 2022-09-11T23:07:00Z
-    webUrl: "https://www.forexfactory.com/news/1178073-us-intends-to-broaden-restrictions-on-semiconductor-shipments"
-    type: article
-    provider:
-      name: Forex Factory
-      domain: forexfactory.com
-    quality: 0
 
 secured: "2lnWGsycL0lOexRcFubio+CN762d42AgnI3mcsoOXUhVmlBrB57QOrx/R5mcOjdry7n2QNuUtty0f/pcxtPGvPrQKSpkiqlFsCvhUzg+H89QeTdqxxVfQFziNlebw5cDzh1JNuKFeQzNSRTCJIrwUN02wzE+LH1Uf6mLeGMiYV+Uc3z38yqQL7O9aoRRfb6Qz3m8LI6yQHJMFnxnkNl3go2F/+qc3wVP3/Iyk+retPELbTBRVdvx1C/ycKFg8B85R6CY3nLa0Abv9K+RrR8WtOSy5oDEHlcQS3gN1pcy0p1aLtR1Kxd6IBJRNmSRbRZXmeY2Zg4WBnAzRlTvIcaD8jLoIjhpu54AOiUA0OPDeDgi0WWLUReonMupTdEBuzqY+Ntpxz5eO0zMglhvTW6Mbsog3s63+TUyg6WCvwJn40+iPmdEcaHQad+zX6Do68zqOqplDvsz2I1uhGAW2tSeKccMtkYA8CLnWY25aGq62WeLpa1nWYPV1YTOe6Le2DOnIjHazawyw7U0Nc5nobSV5g==;wd6Fw7J81tO5kDcKjSeX+g=="
 ---

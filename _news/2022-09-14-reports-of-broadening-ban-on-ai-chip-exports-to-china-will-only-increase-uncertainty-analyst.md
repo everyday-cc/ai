@@ -73,15 +73,6 @@ related:
       name: Investing
       domain: investing.com
     quality: 22
-  - title: "US intends to broaden restrictions on semiconductor shipments to China for artificial intelligence and chipmaking tools - source"
-    excerpt: "THE US INTENDS TO BROADEN RESTRICTIONS ON SEMICONDUCTOR SHIPMENTS TO CHINA FOR ARTIFICIAL INTELLIGENCE AND CHIPMAKING TOOLS - SOURCE."
-    publishedDateTime: 2022-09-11T23:07:00Z
-    webUrl: "https://www.forexfactory.com/news/1178073-us-intends-to-broaden-restrictions-on-semiconductor-shipments"
-    type: article
-    provider:
-      name: Forex Factory
-      domain: forexfactory.com
-    quality: 0
 
 secured: "5hxmCvIJxHBr7XwuwHhR7QcuMbSKtdinXHuVKAYO3BvFuMh+qzUzDLxmWamZtUqoZyR+clz3O4rGCPmmTjkVyYGhmm3O2M8psErrsIScd7Pr0WgI9sxYfFV4Va3iZOkIcdXO1Krxwmj8JcKRasAmVR2yQ0ihsuLlSgLhQup93YTbEO8Jy57gxd8/zjlyjIM03QveVVLwsyEKh4i+5JjZQyfyG3rWpSwfD/AYK4TUsONGsYQ3ZC4MMbCJp8K4mgLgtZIwfHHA5zvnkQU8BQYRPSHRHbfjTPjjOJdo3a8+ya4FWiLtcmaEpuovXYLdODrkwU878SMS9pIetbjnRB72PINPWu5EvBMhVlBEb8FN98U=;nxpZVEBshPKzrG0YVuRvlg=="
 ---

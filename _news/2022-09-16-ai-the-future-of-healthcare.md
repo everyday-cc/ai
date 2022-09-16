@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How AI Drives Down Healthcare Costs and Improves Quality of Care"
+    excerpt: "By Ronny Shalev, PhD, CEO of Dyad Medical Artificial intelligence (AI) is one of the main tools powering the next generation of healthcare technology. With the potential to drive down healthcare costs and improve patient outcomes,"
+    publishedDateTime: 2022-09-16T17:31:00Z
+    webUrl: "https://www.globalbankingandfinance.com/how-ai-drives-down-healthcare-costs-and-improves-quality-of-care/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/how-ai-drives-down-healthcare-costs-and-improves-quality-of-care/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-ai-drives-down-healthcare-costs-and-improves-quality-of-care/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 74
+    images:
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/09/129-333x500.jpg"
+        width: 333
+        height: 500
+        isCached: true
   - title: "Healthcare researchers must be wary of misusing AI"
     excerpt: "A commentary advocates the proper application of artificial intelligence in healthcare and warns of the dangers when machine learning algorithms are misused."
     publishedDateTime: 2022-09-13T17:14:00Z
@@ -69,6 +85,6 @@ related:
         height: 979
         isCached: true
 
-secured: "7VlPlj9SdZzrjQa/P11H/j/rA6owrckkdw5R9vMqytyxSwdccBFR8ImGzeMKHULbaGZD4d9m0g73oY9BmhwgHk/O5FxAy5lW5EgEUI3SDrahU9bxwa1t2w84/fZsdepQVN81sy+uBGgEfCMIeDTCl9XqMMD2Wb85oy8VFHZaTeBbaHWAO4XE5UbFUowqiSXT1m5cqbt9r4PeTy4/uYlhSNtMms0ubS+y42vsif3n52Z3AZ3VspB20A7qT3Vk/6G77AR6kVe0vp+1OzS+HLXQ1yFQIPWar+rhIHUwxH+FQ8ydjR9IcIbq5Dv16m+SHd+ZByXER0yFdXKhRY8HDXcYjQpAdKVY8Pcy8k5HTeTVO7c=;qGRhrpd6/+iF++9PauMjUw=="
+secured: "PEmK3BrCWU3gURi0f8hJHMTkvp65KUgFgop/SmWkEfDoil/81qZXfNpV9NvJ+5edtDDP4edxfJUou6kXA73tjXkIActOj7xrNZEitVquQ2gozA2Vje/yxJvF19IIwkU3Vk2y55mYJho43CGrUp94rzJ7y5wthCpB7ok7RTYpS22dK8yzSQzhATtKVTn3VzNHI+Ww9fuwkeXPMT45mwT3ZPhxewAPeoeJQBW4J0lprLUXQUCn6iR1B23YC1cEWCE53KoWodPbiI1KlxczgVW9Pxz3Mmk1BRyOHUsG6rrXIZm1dRz0WvDhT2UtPIPwKbJuvl+VmZGl5GgQcVg63wWiZPfiEbuWiopdkK/evlGjfn6wovezUI5tcHahvgZmb2KqqeRNImfnfK5jCYDQ7kvaeWRFhxociM/0OA3ccIDhqM6/timcPYiMOm1AqGn128U05CD+d/tr0DJxWBlT6NJSlsTjtIW9uvP0k0cMzJlVBeBVFCeTXXzDInZ2ttu2xVhNTCmTcVUyk/F/Zhlbtyvlgw==;HcSU1QQAsWBo/vjAQ7Qp8A=="
 ---
 

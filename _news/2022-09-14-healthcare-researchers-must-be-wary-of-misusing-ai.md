@@ -55,6 +55,22 @@ related:
         width: 750
         height: 384
         isCached: true
+  - title: "How AI Drives Down Healthcare Costs and Improves Quality of Care"
+    excerpt: "By Ronny Shalev, PhD, CEO of Dyad Medical Artificial intelligence (AI) is one of the main tools powering the next generation of healthcare technology. With the potential to drive down healthcare costs and improve patient outcomes,"
+    publishedDateTime: 2022-09-16T17:31:00Z
+    webUrl: "https://www.globalbankingandfinance.com/how-ai-drives-down-healthcare-costs-and-improves-quality-of-care/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/how-ai-drives-down-healthcare-costs-and-improves-quality-of-care/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-ai-drives-down-healthcare-costs-and-improves-quality-of-care/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 74
+    images:
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/09/129-333x500.jpg"
+        width: 333
+        height: 500
+        isCached: true
   - title: "Health care researchers must be wary of misusing AI"
     excerpt: "An international team of researchers, writing in the journal Nature Medicine, advises that strong care needs to be taken not to misuse or overuse machine learning (ML) in health care research."
     publishedDateTime: 2022-09-13T14:52:00Z
