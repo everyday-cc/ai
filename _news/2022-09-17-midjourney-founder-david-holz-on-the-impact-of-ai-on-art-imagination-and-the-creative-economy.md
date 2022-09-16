@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-16T18:08:00Z
 originalUrl: "https://www.forbes.com/sites/robsalkowitz/2022/09/16/midjourney-founder-david-holz-on-the-impact-of-ai-on-art-imagination-and-the-creative-economy/"
 webUrl: "https://www.forbes.com/sites/robsalkowitz/2022/09/16/midjourney-founder-david-holz-on-the-impact-of-ai-on-art-imagination-and-the-creative-economy/"
 type: article
+quality: 35
+heat: 35
+published: false
 
 provider:
   name: Forbes

@@ -27,35 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "AI fights money laundering at Japanese regional bank"
-    excerpt: "A regional bank in Japan is turning to artificial intelligence in its fight against money laundering. The Bank of Yokohama rolled out its AI system in June. It was developed in cooperation with a computer-system development company."
-    publishedDateTime: 2022-09-12T02:42:00Z
-    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20220912_14/"
-    ampWebUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20220912_14/amp.html"
-    cdnAmpWebUrl: "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20220912_14/amp.html"
+  - title: "Can AI-Powered Robots Laugh for Human Jokes?"
+    excerpt: "Artificial intelligence-powered robot Erica is now trained to laugh for human jokes. Since at least the time of inquiring minds like Plato, philosophers and scientists have puzzled over the question,"
+    publishedDateTime: 2022-09-16T09:50:00Z
+    webUrl: "https://www.medindia.net/news/can-ai-powered-robots-laugh-for-human-jokes-208618-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/can-ai-powered-robots-laugh-for-human-jokes-208618-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-ai-powered-robots-laugh-for-human-jokes-208618-1.htm"
     type: article
     provider:
-      name: NHK
-      domain: nhk.or.jp
+      name: Medindia
+      domain: medindia.net
     quality: 74
     images:
-      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20220912_14_1159287_L.jpg"
-        width: 640
-        height: 360
+      - url: "https://images.medindia.net/amp-images/health-images/smile1.jpg.jpg"
+        width: 300
+        height: 250
         isCached: true
-  - title: "Japanese robot named Erica has been taught to laugh"
-    excerpt: "A robot has been taught to laugh at jokes in a bid to make it more human. R esearchers at Kyoto University in Japan are using artificial intelligence to train robots about appropriate laughter – and to differentiate between chuckles and rip-roaring squeals."
-    publishedDateTime: 2022-09-15T01:30:00Z
-    webUrl: "https://www.independent.ie/world-news/asia-pacific/japanese-robot-named-erica-has-been-taught-to-laugh-41990216.html"
+  - title: "Robot ‘taught to laugh at jokes’"
+    excerpt: "Writing in the journal Frontiers in Robotics and AI, they describe working with a robot called Erica with the hope of making conversations more natural. “We think that one of the important functions of conversational AI is empathy,"
+    publishedDateTime: 2022-09-15T10:00:00Z
+    webUrl: "https://www.aol.com/robot-taught-laugh-jokes-030000159.html"
     type: article
     provider:
-      name: Independent.ie
-      domain: independent.ie
+      name: AOL
+      domain: aol.com
     quality: 39
     images:
-      - url: "https://www.independent.ie/world-news/asia-pacific/1ebeb/41990215.ece/AUTOCROP/w1240h700/photos_417720198_XL"
-        width: 1240
-        height: 700
+      - url: "https://s.yimg.com/ny/api/res/1.2/yArFvx2rIWgGKcy8xftzGw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_press_association_news_966/f29161c80ce8e8861d7d75f29b0a1567"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "G/0XE41seDArThPUlZUprJGYGg1p9av78N7FtfSaH0xJGen6fP9MhATrYA0jwcsEfU9Xv4KooVhAIkSXnCUsk+CLcu8Ra2gytUf770LiGvF/iP+RnZWJ1VZwAwbn4hlrvQQWR+k+ezITlVTsBLhs86JCF2ECHqOl8BAEgwg49M71dMxxV/Ik0FSghiof6mkafssbz/SWDzix5t18T2vNXPl4Kn/kdXo3hYh/y5F5pM8rri3BPovH1T8L+tVC5fZOzwM5GiCLTDTvoYtkm+jh40LIpoxoCerluxTWuPqDJWXJ35D8cCkFLH2eaHuGtO46Iisr0kLVZr8opZGEG8Hu+2Ri5u+D33dzy6PcesSaNPl7t3fXzYDAUh4aGO5TGyReX+L77XTyfL3KemrB+HAEKIqdqxai93QBk7sngeJorlXcypbS5J1fXKS+DTUXOipABBDt7XmJaGjixK1m4P5IXUdU1GasDoRLf04s330tBPN1yJHlazcaoGRgcx3KJ3heEMQNZuaJQWSgCuGO0aj0Iw==;7n2JDemuflLyirG6AM2nJg=="

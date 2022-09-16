@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-16T18:10:00Z
 originalUrl: "https://www.forbes.com/sites/robsalkowitz/2022/09/16/ai-is-coming-for-commercial-art-jobs-can-it-be-stopped/"
 webUrl: "https://www.forbes.com/sites/robsalkowitz/2022/09/16/ai-is-coming-for-commercial-art-jobs-can-it-be-stopped/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

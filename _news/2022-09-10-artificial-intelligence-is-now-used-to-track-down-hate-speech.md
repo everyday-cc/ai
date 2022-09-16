@@ -5,6 +5,8 @@ excerpt: "One fix that social media companies and other online networks have rel
 publishedDateTime: 2022-09-09T18:12:00Z
 originalUrl: "https://www.newschannel5.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech"
 webUrl: "https://www.newschannel5.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech"
+ampWebUrl: "https://www.newschannel5.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true"
+cdnAmpWebUrl: "https://www-newschannel5-com.cdn.ampproject.org/c/s/www.newschannel5.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "Nj+7kW37irr9xprK7J3SXl5awcykKBDgi8mxYdJUCH2tm8QPTQRE0Rh7c+Pb/XdTreOn1QcqTrphdJy8QvLf9UUqncw1y744rLEEDB5LJoBkXVCWHuiixzSgtCNIcn9s8C7acI0yxCKhqrXwTGXXyMO8N8OcRbSd2uMzzkmjkyxAZrPQUadebJ7gvNY4ocBxyK0uw6Zm9fgJMFX+vFvPDSgbTNYPmvVu5OU3BQop/ZWhkp5+DicXAa0Cd5yOgYP+zFnk5te4pCEP2LJ57IrsRaNLlS8fI5QEvDXAUBiRq1JZI1rfdJH3KtODXrNwqw/iEXBRJwBtB1MgJOeGp7pWVEMuf8YuAb6d7z6QzjRlPic=;IbYNPlcKO9mttkD7isw2qg=="
+images:
+  - url: "https://cdn.newsy.com/images/videos/m/1660250991_F4WYcV.jpg"
+    width: 640
+    height: 360
+    isCached: true
+
+secured: "5HMwtHmwZzJ5Uel3AeAF5EI72fwJ42iHFBecHjLzMqlchyYf4tbFnE2qjo6n9uebN8EuDmbjJmJGp6LsBPkuerk0cbZlMrK75kj43iG13CoEKIqk7I18TWP6R9JEunMirEM8OjKEFrF+9bZ7kAizzJQIkVIvoDxH+pIN8X44OEWDhIbus6jAaV/+xKW/GduspdxJaPnafIbAdkBsl6yqN2cVbrqebSJaQ4nv3LfZ1xqeIxhBzOdRDF6nyoMh/EWoUielp/OdtO079s8yhVItaDEv3opjbODjUPbmIM2FDVbrM2BdjoMkz8uM0fz9sXJXZC9q9m8UDJxE3uJLciis6LiwyjtNYGrS5Jf8m8GUPcM=;BlnmdMwotb0LMddy4ocMAw=="
 ---
 

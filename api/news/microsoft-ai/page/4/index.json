@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-16-community-financial-institutions-gain-access-to-ai-powered-personalization-through-combined-deeptarget-cognitivescale-technologies.md",
+      "title": "Community Financial Institutions Gain Access to AI-Powered Personalization Through Combined DeepTarget & CognitiveScale Technologies",
+      "excerpt": "For the first time, CFIs will be able to identify predictable revenue opportunities across all 15+ lending and fee based products and services ... M12 (Microsoft Ventures), Anthem and USAA.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56821950-community-financial-institutions-gain-access-to-ai-powered-personalization-through-combined-deeptarget-cognitivescale-technologies-200.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56821950-community-financial-institutions-gain-access-to-ai-powered-personalization-through-combined-deeptarget-cognitivescale-technologies-200.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-15-black-hat-2022-reveals-enterprise-security-trends.md",
       "title": "Black Hat 2022 reveals enterprise security trends",
       "excerpt": "Black Hat's presentations for enterprise security provided a look at how enterprises' tech stacks are at risk of devastating cyberattacks.",
@@ -1359,58 +1393,6 @@
         "name": "Healthline",
         "domain": "healthline.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse.md",
-      "title": "Artists Are Helping To Keep Humans At The Center In EY’s Metaverse",
-      "excerpt": "The next generation of virtual worlds must focus on our shared humanity. That’s why EY’s Cognitive Human Enterprise and the New Museum’s NEW INC are bringing together artists and engineers to imagine a different kind of metaverse.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/",
-      "originalUrl": "https://www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62eb15dea5389ec014373b0b/0x0.jpg?format=jpg&crop=1298,730,x14,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/amp/",
-      "publishedDateTime": "2022-08-04T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

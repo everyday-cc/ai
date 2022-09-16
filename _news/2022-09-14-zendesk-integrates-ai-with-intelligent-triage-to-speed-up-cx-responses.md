@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/zendesk-integrates-ai-with-intelligent-tr
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/zendesk-integrates-ai-with-intelligent-triage-to-speed-up-cx-responses/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Discover insights from Zendesk with Amazon Kendra intelligent search"
+    excerpt: "Customer relationship management (CRM) is a critical tool that organizations maintain to manage customer interactions and build business relationships. Zendesk is a CRM tool that makes it easy for customers and businesses to keep in sync. Zendesk captures a wealth of customer data, such as support tickets"
+    publishedDateTime: 2022-09-16T19:02:24Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/discover-insights-from-zendesk-with-amazon-kendra-intelligent-search/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 54
   - title: "Zendesk Launches New Customer Sentiment and Intent Functionality Powered by Machine Learning"
     excerpt: "Unique approach to AI is designed to better serve customers and businesses without long, costly implementation Zendesk, Inc. (NYSE:ZEN) today announced Intelligent Triage and Smart Assist, new AI solu"
     publishedDateTime: 2022-09-14T16:00:00Z

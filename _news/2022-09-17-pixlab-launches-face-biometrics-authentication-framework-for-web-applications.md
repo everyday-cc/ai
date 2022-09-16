@@ -39,6 +39,15 @@ related:
         width: 1800
         height: 734
         isCached: true
+  - title: "Facial recognition coming to Lincoln Corsair as partnerships formed for automotive biometrics"
+    excerpt: "Several companies in the automotive space have recently unveiled new partnerships or products showcasing the potential of biometrics in the car industry."
+    publishedDateTime: 2022-09-16T19:45:00Z
+    webUrl: "https://www.biometricupdate.com/202209/facial-recognition-coming-to-lincoln-corsair-as-partnerships-formed-for-automotive-biometrics"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 23
   - title: "Paravision face biometrics contract with US Air Force expands"
     excerpt: "The project involves developing and delivering a converged identity solution with biometric capabilities providing physical and logical access control."
     publishedDateTime: 2022-09-12T18:54:00Z

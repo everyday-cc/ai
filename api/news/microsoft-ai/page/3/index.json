@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-25-can-nist-move-trustworthy-ai-forward-with-new-draft-of-ai-risk-management-framework.md",
+      "title": "Can NIST move ‘trustworthy AI’ forward with new draft of AI risk management framework?",
+      "excerpt": "NIST releases an expanded draft of the AI Risk Management Framework but the impact on trustworthy AI remains unclear.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-risk-management-framework/",
+      "originalUrl": "https://venturebeat.com/ai/ai-risk-management-framework/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-robot_machine_learning_AI_1323774184-e1659571276418.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-risk-management-framework/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-risk-management-framework/amp/",
+      "publishedDateTime": "2022-08-24T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-24-mark-cuban-foundation-ai-bootcamps-application-closing-soon.md",
       "title": "Mark Cuban Foundation AI Bootcamps- Application Closing Soon!",
       "excerpt": "The Mark Cuban Foundation will host Artificial Intelligence (AI) Bootcamps for high school students in the Fall of 2022. The No Cost AI Bootcamp will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills.",
@@ -1252,40 +1305,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-community-financial-institutions-gain-access-to-ai-powered-personalization-through-combined-deeptarget-cognitivescale-technologies.md",
-      "title": "Community Financial Institutions Gain Access to AI-Powered Personalization Through Combined DeepTarget & CognitiveScale Technologies",
-      "excerpt": "For the first time, CFIs will be able to identify predictable revenue opportunities across all 15+ lending and fee based products and services ... M12 (Microsoft Ventures), Anthem and USAA.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56821950-community-financial-institutions-gain-access-to-ai-powered-personalization-through-combined-deeptarget-cognitivescale-technologies-200.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56821950-community-financial-institutions-gain-access-to-ai-powered-personalization-through-combined-deeptarget-cognitivescale-technologies-200.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-16T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
         "publishers": null,
         "authors": null
       },

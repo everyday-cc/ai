@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-16T19:02:00Z
 originalUrl: "https://www.dailymirror.lk/business-news/Velaris-raises-US-4-7mn-to-accelerate-plans-on-AI-driven-customer-success-platform/273-245095"
 webUrl: "https://www.dailymirror.lk/business-news/Velaris-raises-US-4-7mn-to-accelerate-plans-on-AI-driven-customer-success-platform/273-245095"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: The Daily Mirror

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/can-ai-powered-robots-laugh-for-hu
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-ai-powered-robots-laugh-for-human-jokes-208618-1.htm"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Japanese scientists use artificial intelligence to teach robots to laugh at jokes"
+    excerpt: "Researchers at a Japanese university are using artificial intelligence to teach robots about appropriate laughter, from giggling to guffaws."
+    publishedDateTime: 2022-09-15T04:13:00Z
+    webUrl: "https://www.perthnow.com.au/technology/robot-taught-to-laugh-at-jokes-c-8247976"
+    ampWebUrl: "https://www.perthnow.com.au/technology/robot-taught-to-laugh-at-jokes-c-8247976.amp"
+    cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/technology/robot-taught-to-laugh-at-jokes-c-8247976.amp"
+    type: article
+    provider:
+      name: Perth Now
+      domain: perthnow.com.au
+    quality: 69
+    images:
+      - url: "https://images.perthnow.com.au/publication/C-8247976/1d0769b80a34dd15e83a73020be36e28a0d876ae-16x9-x0y0w1280h720.jpg?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Robot ‘taught to laugh at jokes’"
     excerpt: "Writing in the journal Frontiers in Robotics and AI, they describe working with a robot called Erica with the hope of making conversations more natural. “We think that one of the important functions of conversational AI is empathy,"
     publishedDateTime: 2022-09-15T10:00:00Z

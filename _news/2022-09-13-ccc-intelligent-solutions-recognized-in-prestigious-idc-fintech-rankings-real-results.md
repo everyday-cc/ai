@@ -37,11 +37,13 @@ related:
     excerpt: "The AI-Powered Subrogation Platform Recognized for its Work with Root Insurance CCC Intelligent Solutions Inc. (CCC), a leading SaaS platform powering the P&C insurance economy, announced today it is"
     publishedDateTime: 2022-09-13T15:00:00Z
     webUrl: "https://www.benzinga.com/pressreleases/22/09/b28850758/ccc-intelligent-solutions-wins-2022-idc-fintech-rankings-real-results-award-for-ccc-safekeep"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28850758"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28850758"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 0
+    quality: 13
   - title: "CCC Intelligent Solutions Wins 2022 IDC FinTech Rankings Real Results Award for CCC® Safekeep"
     excerpt: "CCC Intelligent Solutions Inc., a leading SaaS platform powering the P&C insurance economy, announced Sept. 13 it is a winner of the 2022 IDC FinTech Rankings Real Results Award, which recognizes tech providers that have enabled a genuine,"
     publishedDateTime: 2022-09-14T19:46:00Z

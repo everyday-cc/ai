@@ -158,7 +158,7 @@
       "originalUrl": "https://www.infoworld.com/article/3673372/oracle-mysql-heatwave-comes-to-aws.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -665,6 +665,40 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-taiwanese-president-cites-threat-of-chinese-cognitive-warfare.md",
+      "title": "Taiwanese President cites threat of Chinese ‘cognitive warfare’",
+      "excerpt": "Taiwanese President Tsai Ing-wen said on September 6 that China is conducting “cognitive warfare” by spreading misinformation in addition to its regular incursions into nearby waters and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/international/taiwanese-president-cites-threat-of-chinese-cognitive-warfare/article65857145.ece",
+      "originalUrl": "https://www.thehindu.com/news/international/taiwanese-president-cites-threat-of-chinese-cognitive-warfare/article65857145.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-06T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1331,59 +1365,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-cloud-artificial-intelligence-ai-developer-service-market-2022-disclosing-latest-trends-and-advancement-outlook-2028-aible-h2oai-microsoft.md",
-      "title": "Cloud Artificial Intelligence (AI) developer Service Market 2022 Disclosing Latest Trends and Advancement Outlook 2028 – Aible, H2O.ai, Microsoft",
-      "excerpt": "Top Companies in the global Cloud Artificial Intelligence (AI) developer Service market are AWS, Aible, H2O.ai, Microsoft, Google, Salesforce, IBM, Oracle, Tencent, Prevision.io, SAP, Clarifai, Alibaba Cloud,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-artificial-intelligence-ai-developer-service-market-2022-disclosing-latest-trends-and-advancement-outlook-2028-aible-h2oai-microsoft-2022-09-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/cloud-artificial-intelligence-ai-developer-service-market-2022-disclosing-latest-trends-and-advancement-outlook-2028-aible-h2oai-microsoft-2022-09-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-01T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI",
         "Microsoft AI"
       ]

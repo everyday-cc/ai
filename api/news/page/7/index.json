@@ -2,6 +2,101 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-09-07-artificial-intelligence-ai-robots-market-size-2022-3402-cagr-latest-trend-share-growth-competitors-and-forecast.md",
+      "title": "Artificial Intelligence (AI) Robots Market Size 2022: 34.02% CAGR | Latest Trend, Share, Growth, Competitors and Forecast",
+      "excerpt": "Robots Market \" 2022-2027 Report involve deep research on global Artificial Intelligence (AI) Robots industry which enables the customer to look at the possible requirement as well as prediction. The restrains and drivers are assembled after a major study of the worldwide Artificial Intelligence (AI) Robots marketâs proficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-size-2022-3402-cagr-latest-trend-share-growth-competitors-and-forecast-2022-09-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-size-2022-3402-cagr-latest-trend-share-growth-competitors-and-forecast-2022-09-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-06T22:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-kmworld-trend-setting-products-of-2022.md",
+      "title": "KMWorld Trend-Setting Products of 2022",
+      "excerpt": "To help showcase advanced products and services, each year KMWorld magazine looks for innovative offerings that are helping organizations derive greater benefit from their information, share knowledge more efficiently,",
+      "sourceUrl": null,
+      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=153883",
+      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=153883",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/147922-tsp2022.jpg-ORG.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-06T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KMWorld Magazine",
+        "domain": "kmworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-07-facebook-is-trying-to-be-more-like-tiktok-whistleblower-says-its-a-bad-idea.md",
       "title": "Facebook Is Trying To Be More Like TikTok. Whistleblower Says It's A 'Bad Idea'",
       "excerpt": "Facebook whistleblower Frances Haugen isn't a fan of the social media giant's efforts to become more like short-form video app TikTok. \"The world that they're choosing to go towards is one where you have to do censorship to be safe and I think that's a bad idea,",
@@ -414,6 +509,40 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-taiwanese-president-cites-threat-of-chinese-cognitive-warfare.md",
+      "title": "Taiwanese President cites threat of Chinese ‘cognitive warfare’",
+      "excerpt": "Taiwanese President Tsai Ing-wen said on September 6 that China is conducting “cognitive warfare” by spreading misinformation in addition to its regular incursions into nearby waters and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/international/taiwanese-president-cites-threat-of-chinese-cognitive-warfare/article65857145.ece",
+      "originalUrl": "https://www.thehindu.com/news/international/taiwanese-president-cites-threat-of-chinese-cognitive-warfare/article65857145.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-06T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1000,155 +1129,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-blume-backed-fintech-platform-ippopay-acquires-tutelar.md",
-      "title": "Blume-backed fintech platform IppoPay acquires Tutelar",
-      "excerpt": "Tutelar enables AI-based risk-free onboarding, dispute resolutions, KYC fraud detection, transaction fraud detection, mis-selling prevention etc, benefiting not only the principals such as merchants and banks but also the intermediaries such as PAPGs ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vccircle.com/blumebacked-fintech-platform-ippopay-acquires-tutelar",
-      "originalUrl": "https://www.vccircle.com/blumebacked-fintech-platform-ippopay-acquires-tutelar",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.vccircle.com/uploads/2022/09/fintechrfxl.jpg",
-          "width": 716,
-          "height": 402,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-06T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VCCircle",
-        "domain": "vccircle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-6-ai-companies-disrupting-healthcare-in-2022.md",
-      "title": "6 AI companies disrupting healthcare in 2022",
-      "excerpt": "These AI startups are disrupting a variety of healthcare areas, from drug discovery and operational efficiency to disease detection.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/6-ai-companies-disrupting-healthcare-in-2022/",
-      "originalUrl": "https://venturebeat.com/ai/6-ai-companies-disrupting-healthcare-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1158965842.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/6-ai-companies-disrupting-healthcare-in-2022/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/6-ai-companies-disrupting-healthcare-in-2022/amp/",
-      "publishedDateTime": "2022-09-06T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-how-avatars-and-machine-learning-are-helping-this-company-to-fast-track-digital-transformation.md",
-      "title": "How avatars and machine learning are helping this company to fast track digital transformation",
-      "excerpt": "By developing in-house talent and working with pioneering startups, LNER is moving towards its digital destination – and its experiences provide lessons for all businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-avatars-and-machine-learning-are-helping-this-company-to-fast-track-digital-transformation/",
-      "originalUrl": "https://www.zdnet.com/article/how-avatars-and-machine-learning-are-helping-this-company-to-fast-track-digital-transformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ed783a2f65ffc74133755054e8c6ce6cca442c79/2022/09/06/1a29cd1a-d332-43c1-8155-6e5699e53cdb/lner-azuma-york.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-avatars-and-machine-learning-are-helping-this-company-to-fast-track-digital-transformation/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-avatars-and-machine-learning-are-helping-this-company-to-fast-track-digital-transformation/",
-      "publishedDateTime": "2022-09-06T02:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -1,19 +1,25 @@
 ---
 category: news
 title: "Can artificial intelligence detect autism doctors miss? Duke study wants to find out."
-excerpt: "When most toddlers diagnosed with autism sit still, their heads sway very slightly back and forth. That movement is an extremely reliable way to distinguish between a neurotypical and autistic child,"
-publishedDateTime: 2022-09-15T10:00:00Z
-originalUrl: "https://www.aol.com/news/artificial-intelligence-detect-autism-doctors-100000759.html"
-webUrl: "https://www.aol.com/news/artificial-intelligence-detect-autism-doctors-100000759.html"
+excerpt: "A computer just gives you a beautiful readout of how many times the head moves back and forth,” said Geraldine Dawson, director of Duke University’s Center for Autism and Brain Development. Dawson and her colleagues are testing an app that Duke has patented to harness that power."
+publishedDateTime: 2022-09-15T09:00:00Z
+originalUrl: "https://www.newsobserver.com/news/state/north-carolina/article265718501.html"
+webUrl: "https://www.newsobserver.com/news/state/north-carolina/article265718501.html"
+ampWebUrl: "https://amp.newsobserver.com/news/state/north-carolina/article265718501.html"
+cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/state/north-carolina/article265718501.html"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: Raleigh News & Observer
+  domain: newsobserver.com
 
 topics:
+  - AI in Healthcare
   - AI
 
-secured: "ceGQsFuYvJngn3+a7K1RiqbRhBfkL2dkjLKG0B2WYsOLw1ndZIYQzbhwgWR37d8T4Lr1NG/8v8yeds3V+nmrBe0C0NxOAPE3mlr8adX7nwa1WBdk7rp/IJB6C5OBrxjqAqjlfTS3UEDoRGWSsQ5iEQgNrJCaibGsAeY4lokqY1+74clIsdx8uYXLao8fwi6387iH94wsZVyaTrN3LYTlXNG4trnrW4OAy7fq4wV7qIg2olsnQ4EJcCP8LNyZ2MX/KG86Jre+GgfDf3JuEutdcaVi9y2DQO9onFTXrdTHeBfUrDdE/hWCdW4Dtf5lH3U5ZcWAE3wbebqM2JAoQiTLxO39QjpaekCtvSq/bAZ4PRKXhtRqIL5iwMLebwMb+xL5/0A0dNcLp16leHSMbSrr58meklvj+6Ap1wN4ihDmtpmAwx7lph5OUzwws0mBS8PYhq4UIaTPFrH8dRbXW/1MKZacLXYap9nowJNTOIV0crxK3JrsywnUeOI1dvo/QEtno0ieteCypNUu98ZSvUm3HA==;OeLTlHdOKPKsUsqcee4Jyw=="
+secured: "RwliNUxpUI+oPkjbZitblisthnfUwImOaOUlZq+w3958qPamB/POM7aYOqYQUwR3US7X6WFk9DofkRO+xF2U60o8fyvP/QZ8u2ciK4oclluBzpIqsuBgd3dpBuGGjMzRWhOh2twTSVfWfcNfQ55O5Iq1UhaNTyPlrMq6vJtk+PDytmbR9PUR5I4ZqJWkLzP4RcC1SYJIagkP/5rPgHznPbF6E7Ki+xQ21dPZ4Cfcq5jv0VGsk6C2ScsQYW0xVG2aQyrqkszTThfMGiZKY/O9Cj4nvjeworGS1nsO4nsodkMbndjFADXnoXnTbbRA7HF0M0a23D2I0MdCjfE0KvnRd6595DBUdxJhCqTBC5WEB0Ksha7TpYgZPPHbDKh23i7t7U3qjVJCTO82UsYs7/Ny4bdM+JB8V/Nkx9qaZg5nhJHowy/EdwCaB9XuW+89nbqH/CUE66RMj+LWPNY6JUxaR/6Zx+5iRfz5dNZL54r2XA20/Wm6QqnNRlQbbvdTQNwR6OcjygQo5Mb0iJg5r7MPYw==;MdCg/hsD90m7n16DfQQq6Q=="
 ---
 

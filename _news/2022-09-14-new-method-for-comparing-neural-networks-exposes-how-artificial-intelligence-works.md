@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-09-method-neural-networks-exposes-a
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-method-neural-networks-exposes-artificial.amp"
 type: article
 quality: 70
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -50,6 +50,20 @@ related:
       - url: "https://losalamosreporter.files.wordpress.com/2022/09/82227e4a-4207-46bd-acb2-726c646033ea.jpg"
         width: 896
         height: 1024
+        isCached: true
+  - title: "Team Develops Approach for Comparing Neural Networks"
+    excerpt: "A team of researchers at Los Alamos National Laboratory has developed a novel approach for comparing neural networks. According to the team, this new approach looks within the “black box” of artificial intelligence (AI),"
+    publishedDateTime: 2022-09-16T20:24:00Z
+    webUrl: "https://www.unite.ai/team-develops-approach-for-comparing-neural-networks/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:1000/h:600/q:mauto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/09/conny-schneider-xuTJZ7uD7PI-unsplash.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "8NJBVUpwaIMCpOs015bIvEGyWtficN1RQMu9k+5q/CwED/7WtTPx3duZFqFFnMZ61Z4P+o790QyNuEBB64bkIEAz+BUiyhJ1XIGEYpuGdNRLHxPzluXhyOaXCn6zbXFEy7KNqjPON0CX4M+4NmTDs3IKIgee0RHu8vdQ4HZcRKg1hPHFm7qUSevt0c/CZO8p6TVZtplF1q1rICFUWUZGMFMGcqzg/VM9OoRJ5Mu/BunuVpMk2vfU3TO1XBFoOu3ILf59zA3XrQlxrzBCLb7VYTx/YUPIaMdZUMPbvnA9MPJZDSj/5f7sX+9VFHlYU0H0BEgdriiO17Keut03YwJ4/JiZoKIYV56PRoHD5iTyTauySGjhOl7UVbWjxbQYuu4v06wk44zBVjywNLk3cyMsn+U8t8A695WizOL5YqDPrkUHUQQ77YtF8zGkCh6YoITHel81zn5vtjKTRn/jeW2UeJD+LnIGVn1qboHWt+o19do307JjSGu0bTlDHTgr4zTyBDpJu57/lRJMBnzwpPNbcA==;KlWbYSZT58hF4wqdKaS8/Q=="

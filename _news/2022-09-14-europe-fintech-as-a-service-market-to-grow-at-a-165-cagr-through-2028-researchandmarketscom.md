@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Europe Fintech-as-a-Service Market to Grow at a 16.5% CAGR Through 2028 - ResearchAndMarkets.com"
-excerpt: "The Europe Fintech-as-a-Service Market is expected to witness market growth of 16.5 % CAGR during the forecast period (2022-2028). Platforms and applications that provide banking as a service (BaaS) have developed as a practical and economical way to deliver financial services based on open banking concepts."
-publishedDateTime: 2022-09-14T12:32:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/09/14/9673073.htm"
-webUrl: "https://it.tmcnet.com/news/2022/09/14/9673073.htm"
+excerpt: "The \"Europe Fintech-as-a-Service Market Size, Share & Industry Trends Analysis Report By Technology (Blockchain, API, Artificial Intelligence, RPA), By End Use, By Type, By Application, By Country and Growth Forecast,"
+publishedDateTime: 2022-09-14T09:27:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-14-europe-fintech-as-a-service-market-to-grow-at-a-165-cagr-through-2028-researchandmarketscom"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-14-europe-fintech-as-a-service-market-to-grow-at-a-165-cagr-through-2028-researchandmarketscom"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI in Finance
@@ -38,6 +38,6 @@ related:
       domain: dailyherald.com
     quality: 0
 
-secured: "IZhp+xHTqiHiSv8oYsrAuBS3GiJEwP6rZ6hnptWqh76Y8zsnWtB5DbTqOcDexBS4U/gVq3i9NclklmTJDYCVrE+TWWwcK953/kqwE5xJ7oCym9j839WRG1dAJyqJdKiHqsXhqHFVFpojeSqoCQmmxMZ4YmUS6StCbotuWIZWRm2zPFichAdb6l9zV8z9SAn8Nq3vRzKd5bYrrl//EYuEfAlJWk9iebDONrkDLmLdXNT+7fagluw/mUJ3LVXCvyGRnGAwhTECrOFt0CgB7/SaBFdDxzJJkE05FdD0hKvkGmGgQB66XCck9E5M+9hlArdiMtsiO3BsNN6KGNF08J4RJiK5j27C3AqOF2rO69gzhqE=;Y/BSZxiScL7kYmYhvJul8g=="
+secured: "IbVK2gdPZChc0fYwvZ45UbI3+wm6Ikbd9WZbNQ0zHlB6MoU02w6p8K+hvhoJVxTblR7gpJEeYwEFr5FIdxHv1Y1OE2jDLI3A4ou1lmHycYrLcPAQXX6AdLC1Zr2G1jodXYuWB3r4ZOcDs56wYSG51cKiJ8ndih59s+lIBrGDTrwgvHN8N3tg22HP/+r5fHCEQFzyxBLzAW7Z02kAwkk0R7p3Av0m6Y+Bh2PNy25pQenirh2AuXeym5dtMp/BMzmx5ALNDS14jLXDQbER0Bj4TgG7qZs7788cbEuZiPU2wh996LZjIrOByEHsMM0QNqtUUsMgVroJISkYeOGo39LWmREieOIKVm2vysCf/cS8Sqc=;xTXFC7E6VLxnaLYgCs5gtA=="
 ---
 

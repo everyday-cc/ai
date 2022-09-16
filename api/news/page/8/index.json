@@ -2,21 +2,21 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2022-09-06-banned-us-ai-chips-in-high-demand-at-chinese-state-institutes.md",
-      "title": "Banned U.S. AI chips in high demand at Chinese state institutes",
-      "excerpt": "Local peer Advanced Micro Devices Inc (AMD) also said new licence requirements now prevent export to China of its advanced AI chip MI250. The development signalled a major escalation of a U.S ...",
+      "path": "_news/2022-09-06-blume-backed-fintech-platform-ippopay-acquires-tutelar.md",
+      "title": "Blume-backed fintech platform IppoPay acquires Tutelar",
+      "excerpt": "Tutelar enables AI-based risk-free onboarding, dispute resolutions, KYC fraud detection, transaction fraud detection, mis-selling prevention etc, benefiting not only the principals such as merchants and banks but also the intermediaries such as PAPGs ...",
       "sourceUrl": null,
-      "webUrl": "https://telecom.economictimes.indiatimes.com/news/analysis-banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes/94024283",
-      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/analysis-banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes/94024283",
+      "webUrl": "https://www.vccircle.com/blumebacked-fintech-platform-ippopay-acquires-tutelar",
+      "originalUrl": "https://www.vccircle.com/blumebacked-fintech-platform-ippopay-acquires-tutelar",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-94024283,imgsize-171552,width-1200,height-628,overlay-ettelecom/banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://assets.vccircle.com/uploads/2022/09/fintechrfxl.jpg",
+          "width": 716,
+          "height": 402,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/analysis-banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes/94024283",
-      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/analysis-banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes/94024283",
-      "publishedDateTime": "2022-09-06T01:40:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-06T03:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "telecom.economictimes.indiatimes",
-        "domain": "indiatimes.com",
+        "name": "VCCircle",
+        "domain": "vccircle.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,8 +40,114 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-6-ai-companies-disrupting-healthcare-in-2022.md",
+      "title": "6 AI companies disrupting healthcare in 2022",
+      "excerpt": "These AI startups are disrupting a variety of healthcare areas, from drug discovery and operational efficiency to disease detection.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/6-ai-companies-disrupting-healthcare-in-2022/",
+      "originalUrl": "https://venturebeat.com/ai/6-ai-companies-disrupting-healthcare-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1158965842.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/6-ai-companies-disrupting-healthcare-in-2022/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/6-ai-companies-disrupting-healthcare-in-2022/amp/",
+      "publishedDateTime": "2022-09-06T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-how-avatars-and-machine-learning-are-helping-this-company-to-fast-track-digital-transformation.md",
+      "title": "How avatars and machine learning are helping this company to fast track digital transformation",
+      "excerpt": "By developing in-house talent and working with pioneering startups, LNER is moving towards its digital destination – and its experiences provide lessons for all businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-avatars-and-machine-learning-are-helping-this-company-to-fast-track-digital-transformation/",
+      "originalUrl": "https://www.zdnet.com/article/how-avatars-and-machine-learning-are-helping-this-company-to-fast-track-digital-transformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ed783a2f65ffc74133755054e8c6ce6cca442c79/2022/09/06/1a29cd1a-d332-43c1-8155-6e5699e53cdb/lner-azuma-york.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-avatars-and-machine-learning-are-helping-this-company-to-fast-track-digital-transformation/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-avatars-and-machine-learning-are-helping-this-company-to-fast-track-digital-transformation/",
+      "publishedDateTime": "2022-09-06T02:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -136,6 +242,40 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-banned-us-ai-chips-in-high-demand-at-chinese-state-institutes.md",
+      "title": "Banned U.S. AI chips in high demand at Chinese state institutes",
+      "excerpt": "BEIJING — High-profile universities and state-run research institutes in China have been relying on a U.S. computing chip to power their artificial intelligence (AI) technology but whose export to the country Washington has now restricted, a Reuters ...",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/pmn/business-pmn/banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes",
+      "originalUrl": "https://financialpost.com/pmn/business-pmn/banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://financialpost.com/pmn/business-pmn/banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes/wcm/7c7037f8-60bb-400a-859b-40b3d6d5d974/amp/",
+      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes/wcm/7c7037f8-60bb-400a-859b-40b3d6d5d974/amp/",
+      "publishedDateTime": "2022-09-06T00:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -992,135 +1132,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-05-wipro-ge-healthcare-launches-made-in-india-ai-enabled-cath-lab.md",
-      "title": "Wipro GE Healthcare launches ‘Made in India’ AI-enabled Cath lab",
-      "excerpt": "GE Healthcare, a medical technology, diagnostics, and digital solutions company, launched its ‘Made in India’, ‘AI-powered’ Cath lab-Optima IGS 320 to advance cardiac care in India. It is built at Wipro GE Healthcare’s new Bengaluru factory and leverages the GE proprietary AutoRight technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/companies/wipro-ge-healthcare-launches-made-in-india-ai-enabled-cath-lab/article65853078.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/companies/wipro-ge-healthcare-launches-made-in-india-ai-enabled-cath-lab/article65853078.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bl-i.thgim.com/public/incoming/199ym3/article65853073.ece/alternates/LANDSCAPE_615/Optima%20IGS320%20AI%20cathlab.PNG",
-          "width": 615,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/companies/wipro-ge-healthcare-launches-made-in-india-ai-enabled-cath-lab/article65853078.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/wipro-ge-healthcare-launches-made-in-india-ai-enabled-cath-lab/article65853078.ece/amp/",
-      "publishedDateTime": "2022-09-05T04:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-09-05-ai-generated-painting-wins-art-award-but-everyone-else-is-super-pissed.md",
-      "title": "AI-generated painting wins art award, but everyone else is super pissed",
-      "excerpt": "According to reports, there was a bit of an upheaval at the recently-concluded Colorado State Fair when an art contest held during the event awarded the grand prize to a painting produced by an artificial intelligence (AI) program.",
-      "sourceUrl": null,
-      "webUrl": "https://sea.mashable.com/tech/21298/ai-generated-painting-wins-art-award-but-everyone-else-is-super-pissed",
-      "originalUrl": "https://sea.mashable.com/tech/21298/ai-generated-painting-wins-art-award-but-everyone-else-is-super-pissed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_sea/photo/default/ai-art-wins-award-header_uc3z.620.png",
-          "width": 620,
-          "height": 310,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://sea.mashable.com/tech/21298/ai-generated-painting-wins-art-award-but-everyone-else-is-super-pissed?amp=1",
-      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/21298/ai-generated-painting-wins-art-award-but-everyone-else-is-super-pissed?amp=1",
-      "publishedDateTime": "2022-09-05T00:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-05-server-brands-enhancing-cloud-services-subscription-business-says-digitimes-research.md",
-      "title": "Server brands enhancing cloud services subscription business, says DIGITIMES Research",
-      "excerpt": "As enterprises accelerate their pace of digital transformation and increase the use of cloud services, server brand vendors are keen on expanding their cloud services subscription business in 2022, according to.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20220905VL204.html?chid=2",
-      "originalUrl": "https://www.digitimes.com/news/a20220905VL204.html?chid=2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20220905vl204_files/1_2b.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-05T00:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

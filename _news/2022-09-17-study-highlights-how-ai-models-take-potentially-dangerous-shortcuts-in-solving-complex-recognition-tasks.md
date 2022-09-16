@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-16T18:38:00Z
 originalUrl: "https://techxplore.com/news/2022-09-highlights-ai-potentially-dangerous-shortcuts.html"
 webUrl: "https://techxplore.com/news/2022-09-highlights-ai-potentially-dangerous-shortcuts.html"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: techxplore

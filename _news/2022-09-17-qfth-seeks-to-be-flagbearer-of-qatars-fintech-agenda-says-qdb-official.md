@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-16T19:54:00Z
 originalUrl: "https://www.gulf-times.com/story/724385/QFTH-seeks-to-be-flagbearer-of-Qatar-s-fintech-age"
 webUrl: "https://www.gulf-times.com/story/724385/QFTH-seeks-to-be-flagbearer-of-Qatar-s-fintech-age"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Gulf Times

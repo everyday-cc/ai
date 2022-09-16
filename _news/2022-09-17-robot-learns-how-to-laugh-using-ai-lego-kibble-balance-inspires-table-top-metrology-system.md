@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-16T17:12:00Z
 originalUrl: "https://physicsworld.com/a/robot-learns-how-to-laugh-using-ai-lego-kibble-balance-inspires-table-top-metrology-system/"
 webUrl: "https://physicsworld.com/a/robot-learns-how-to-laugh-using-ai-lego-kibble-balance-inspires-table-top-metrology-system/"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
   name: Physics World

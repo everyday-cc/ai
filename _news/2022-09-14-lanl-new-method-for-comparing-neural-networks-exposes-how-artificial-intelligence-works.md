@@ -51,6 +51,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 60
+  - title: "Team Develops Approach for Comparing Neural Networks"
+    excerpt: "A team of researchers at Los Alamos National Laboratory has developed a novel approach for comparing neural networks. According to the team, this new approach looks within the “black box” of artificial intelligence (AI),"
+    publishedDateTime: 2022-09-16T20:24:00Z
+    webUrl: "https://www.unite.ai/team-develops-approach-for-comparing-neural-networks/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:1000/h:600/q:mauto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/09/conny-schneider-xuTJZ7uD7PI-unsplash.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "oE/ljHTXgQgvB3XoNWXNicYuCW4WTELfuzWt+bzT85K37dIphbgseWMNwLMCChxYHX1Kh33PyzeeprJdXV4eT6E/XSHHCFkG6OYRNrcM62LoQ12H/yTpyfwna5VQtVSIs6q+VlOOkB+QXNESqz0pcSdoGnFeJlCTYTKBJ9eofoejR2bUFPKG+IWwoM5mFajoWMppP+igV9Og8CIZJqZ9///3RFQ/enThVqvnCRNTjo0Wq/g2ThwH+Q+vca95JhyvXA/p71M4UAAR2mn+cxBZX1yixE/VrcATk3sd0VR+fcEDehq3vfRgSBBBCOJd57QZDrUo4ks3O7cXywlYY46d2+CN71MMDHvKs3R9T5yeP4afnRUrHiDBIre3CQ4o8WIlZOQ35zL2RauoRgpMVmdnZBpKWAGVJPSGJbhfbPCPM9FccPaO061EOjgDLIizvF+UIQZ7xyAnHnw3R6poeQso3ctE9x7CV0uc6OEYTDYtB5UlwumyIrGbW5KoK5DRD+pBlCmG0nDZQzj9/YhWrneLQw==;m2xYnz9+iLfGs2Lcxn8YjQ=="
 ---

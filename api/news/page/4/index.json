@@ -2,6 +2,82 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-09-12-amazons-alexa-inventor-tunstall-pedoe-raises-20m-for-ai-start-up.md",
+      "title": "Amazon’s Alexa inventor Tunstall-Pedoe raises $20m for AI start-up",
+      "excerpt": "Cambridge- and London-based company, Unlikely AI, will start hiring developers of a new type of artificial-intelligence software",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesslive.co.za/bloomberg/news/2022-09-12-amazons-alexa-inventor-tunstall-pedoe-raises-20m-for-ai-start-up/",
+      "originalUrl": "https://www.businesslive.co.za/bloomberg/news/2022-09-12-amazons-alexa-inventor-tunstall-pedoe-raises-20m-for-ai-start-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/VLjtmzFKD1z7eYCoxeEx4CSKQc3U5rT_BbleCyhZwv2isWzzu350eDYF39-ksetybKmDelGAp7n4RKSik2_tBDFVpU659CtMRRsFhP2KW0F8vAI=s512",
+          "width": 512,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businesslive.co.za/amp/bloomberg/news/2022-09-12-amazons-alexa-inventor-tunstall-pedoe-raises-20m-for-ai-start-up/",
+      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bloomberg/news/2022-09-12-amazons-alexa-inventor-tunstall-pedoe-raises-20m-for-ai-start-up/",
+      "publishedDateTime": "2022-09-12T02:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businesslive.co.za",
+        "domain": "businesslive.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch.md",
+      "title": "INSIGHT-Truly autonomous cars may be impossible without helpful human touch",
+      "excerpt": "Autonomous vehicle (AV) startups have raised tens of billions of dollars based on promises to develop truly self-driving cars, but industry executives and experts say remote human supervisors may be needed permanently to help robot drivers in trouble.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch",
+      "originalUrl": "https://www.nasdaq.com/articles/insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch?amp",
+      "publishedDateTime": "2022-09-11T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-12-on-kennedys-moonshot-speech-anniversary-biden-to-push-fight-against-cancer.md",
       "title": "On Kennedy's moonshot speech anniversary, Biden to push fight against cancer",
       "excerpt": "In 2022, the American Cancer Society estimates, 1.9 million new cancer cases will be diagnosed and 609,360 people will die of cancer diseases.",
@@ -1121,92 +1197,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-can-artificial-intelligence-help-reduce-side-effects-of-common-drugs.md",
-      "title": "Can Artificial Intelligence Help Reduce Side Effects of Common Drugs?",
-      "excerpt": "A new artificial intelligence tool developed by researchers is designed to calculate which drugs are more likely to experience adverse anticholinergic effects on the body and brain. These ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/can-artificial-intelligence-help-reduce-common-drug-side-effects-208538-1.htm",
-      "originalUrl": "https://www.medindia.net/news/can-artificial-intelligence-help-reduce-common-drug-side-effects-208538-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/asthma-drugs.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/can-artificial-intelligence-help-reduce-common-drug-side-effects-208538-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-artificial-intelligence-help-reduce-common-drug-side-effects-208538-1.htm",
-      "publishedDateTime": "2022-09-08T16:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-an-ai-expert-on-how-fn-meka-is-just-the-beginning-of-ai-rappers.md",
-      "title": "An AI Expert On How FN Meka Is Just the Beginning of AI Rappers",
-      "excerpt": "AI expert Charles L. Isbell, Jr. spoke with us about the ethics behind FN Meka, and how AI rappers — and AI artists in general — are going to become more prevalent as technology evolves. In less than two weeks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.okayplayer.com/music/fn-meka-ai-rapper-tiktok-controversy.html",
-      "originalUrl": "https://www.okayplayer.com/music/fn-meka-ai-rapper-tiktok-controversy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://okayplayer-wpengine.netdna-ssl.com/wp-content/uploads/2022/09/Screen-Shot-2022-09-15-at-2.41.08-PM-692x376.png",
-          "width": 692,
-          "height": 376,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.okayplayer.com/music/fn-meka-ai-rapper-tiktok-controversy.html/amp",
-      "cdnAmpWebUrl": "https://www-okayplayer-com.cdn.ampproject.org/c/s/www.okayplayer.com/music/fn-meka-ai-rapper-tiktok-controversy.html/amp",
-      "publishedDateTime": "2022-09-08T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Okayplayer",
-        "domain": "okayplayer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

@@ -39,6 +39,15 @@ related:
         width: 1800
         height: 734
         isCached: true
+  - title: "Facial recognition coming to Lincoln Corsair as partnerships formed for automotive biometrics"
+    excerpt: "Several companies in the automotive space have recently unveiled new partnerships or products showcasing the potential of biometrics in the car industry."
+    publishedDateTime: 2022-09-16T19:45:00Z
+    webUrl: "https://www.biometricupdate.com/202209/facial-recognition-coming-to-lincoln-corsair-as-partnerships-formed-for-automotive-biometrics"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 23
   - title: "PixLab launches face biometrics authentication framework for web applications"
     excerpt: "Machine vision company PixLab has launched its web-based facial authentication framework, FaceIO, which can be integrated on any website via JavaScript."
     publishedDateTime: 2022-09-16T17:50:00Z

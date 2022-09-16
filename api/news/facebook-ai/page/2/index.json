@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-22-why-ai-is-the-differentiator-in-todays-experience-market.md",
+      "title": "Why AI is the differentiator in today’s experience market",
+      "excerpt": "Experience is everything. From what we buy to where we work, everyone is seeking a more intuitive, personalized experience surrounding all that we do. The best user experiences feel effortless, offering instant recommendations that give us what we want without requiring us to spend valuable time providing our preferences.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/why-ai-is-the-differentiator-in-todays-experience-market/",
+      "originalUrl": "https://venturebeat.com/ai/why-ai-is-the-differentiator-in-todays-experience-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1264510281.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/why-ai-is-the-differentiator-in-todays-experience-market/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-ai-is-the-differentiator-in-todays-experience-market/amp/",
+      "publishedDateTime": "2022-08-21T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-22-amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says.md",
       "title": "Amazon testing TikTok-style feed on its app, AI firm says",
       "excerpt": "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform.The",
@@ -1391,49 +1443,6 @@
         "AI",
         "Machine Learning",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-brain-image-movies-help-ai-predict-mental-illness.md",
-      "title": "Brain Image \"Movies\" Help AI Predict Mental Illness",
-      "excerpt": "New research by Georgia State University’s TReNDS Center may lead to early diagnosis of devastating conditions such as Alzheimer’s disease and schizophrenia, in time to help prevent and more easily treat these disorders.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/neuroscience/news/brain-image-movies-help-ai-predict-mental-illness-364015",
-      "originalUrl": "https://www.technologynetworks.com/neuroscience/news/brain-image-movies-help-ai-predict-mental-illness-364015",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/364015/brain-image-movies-help-ai-predict-mental-illness-364015-640x360.jpg?cb=20220725",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-25T01:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

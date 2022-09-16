@@ -64,6 +64,24 @@ related:
       name: MENAFN
       domain: menafn.com
     quality: 27
+  - title: "Global Artificial Intelligence (AI) in Automotive and Transportation Market to Grow at 20% Through 2026"
+    excerpt: "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to ResearchAndMarkets.com's offering. This market is likely to grow at a CAGR of around 20% during 2021-26."
+    publishedDateTime: 2022-09-16T21:17:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-automotive-transportation-market-grow-/2022/09/16/9675469.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 20
+  - title: "Artificial Intelligence (AI) in Fintech Market Set to Boom Reaching USD 28.11 Billion by 2028 | BlueWeave Consulting"
+    excerpt: "Global Artificial Intelligence (AI) in Fintech Market size is expanding at an impressive growth rate during the forecast period, mainly due to increasing application of the"
+    publishedDateTime: 2022-09-16T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28898304/artificial-intelligence-ai-in-fintech-market-set-to-boom-reaching-usd-28-11-billion-by-2028-bluewe"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 9
 
 secured: "3AMw/KHW/DC57g4OKPgb6SL3tYThxjxMGQk9OuAUFGrBGxScpc9vvAd79hSDy/Z3tUJBsydPlojjYTlhO3NjkTaqWBRe7JXQV5gXJ+5UQEQVteQjVIYa3vrVKKkL++owoPw9LAhSH7YsX0wMaRqs6nWnbEYqBuF/1rgnjXRgDGAkIXPm2TXfIf5MupH18YG6QYaAvTwE024w5TdSt9UyAii8revXXkKfbWXAP7cT4I8+Sc0Zbkby9Elj4l2U4K3o3UDipOQ64/FrndnfAF7lJ9kZasaZsmPwBhj7Tq8/QhuDw4aaYreziZgGPnog6T9+DrAVmxE4seFP3H2dit7x9dPiDpBmVk23Qul2xEe5zC8=;Q7QkDPwRwNp9e2SYgS45aQ=="
 ---

@@ -24,17 +24,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Pointed message hidden in King Charles’ speech"
-    excerpt: "In King Charles’ nine-and-a-half minutes-long first speech, there was a specific line laden with special significance."
-    publishedDateTime: 2022-09-12T05:23:00Z
-    webUrl: "https://www.news.com.au/entertainment/celebrity-life/royals/pointed-message-hidden-in-king-charles-speech/news-story/8d774a890ef8d2cd0cc6b350e90d2723"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 6
-
 secured: "4fJjNGDG6zO+OFVByQXneM9/HQ3OgNvpSwI423mODmHCxEuB3LRoaNbLEsKQrJ49N07wc4Jf7dwE6jSCSOwNWIiqT1f39U0pyyYQkb04c0NNxmY2dTU0+UQdOrE3y1zDaDE2UBMjCKTDnjPncFGGa8QDzZ2ULbCfYhj9oU/qV6u5lh7fYVlFfC6sA8Mic8Q1v5pE7C25ly7UuiTneBN35o/XuUj3TLn0F4BtW9V3L3z4Ipu6IxNXSjGcbCzCiVXOSg32CXRgtnvTYjvkFUHRB0/iHGPSqOHAFoFbcZWnghZNDAAXmSgMH5MJKbxGuzaAuD1oxZoKdBTmJhDZgxDrf6fuMvRu6EdzN/IkBEWWC5zoKUzVKRG2MJfV+szN0057OWdHDthHnwuMqh/2Q074CGSXN+NTTniQS8BEuez7EjRh4bwA71V5w6TPWGUNuzWoZnBdMR956yVsUbzS4mb2KJb2URJYyrP9YU5XJv0H6IBmyT2ARUEFADVX0tBqTYqxcCfU0aP3i/Fc0oi5iOPUMw==;5NYan0/YDIxP8kNm0+9vTQ=="
 ---
 

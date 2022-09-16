@@ -38,6 +38,15 @@ related:
         width: 1024
         height: 721
         isCached: true
+  - title: "Discover insights from Zendesk with Amazon Kendra intelligent search"
+    excerpt: "Customer relationship management (CRM) is a critical tool that organizations maintain to manage customer interactions and build business relationships. Zendesk is a CRM tool that makes it easy for customers and businesses to keep in sync. Zendesk captures a wealth of customer data, such as support tickets"
+    publishedDateTime: 2022-09-16T19:02:24Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/discover-insights-from-zendesk-with-amazon-kendra-intelligent-search/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 54
 
 secured: "p8ZyfjurLeOMPugrs1ho+I/mvghRdRIc8dyC6nvfhvDi2bu1Ts3l+Cwlw0izEu6+Ror9rtECW8PnrLS8eAciMItFbNAQlp825FnMT3XN4bTRm4hbY3EXwTfcxLtV8fae8CPjDgJ+dV4Zr27akIhgSrjajxnSQjDHo6JofO19AePWq1GTfK8wxyaZT92qvvDvxcUlh9fDWTVPrlpd/JE1H59vFNsXXNN/8kFtjZOdR4NzQ0TyIzbpSVOdH08WWvYsao2KwV6OWZL3AjxvYhPSnRdqXS+XqK8LO4+p+JHS4gXRu3/IVqj3zcbHPZUMBLnCfritSgZLdFinUQ3ZsAk7K++05g/HyKmt0jHAnMLIsVQ=;Wa+vck86/zLmCEfA1Ttz2w=="
 ---
