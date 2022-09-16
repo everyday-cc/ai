@@ -1,10 +1,12 @@
 ---
 category: news
 title: "An AI Expert On How FN Meka Is Just the Beginning of AI Rappers"
-excerpt: "AI expert Charles L. Isbell, Jr. spoke with us about the ethics behind FN Meka, and how AI rappers — and AI artists in general — are going to become more prevalent as technology evolves."
-publishedDateTime: 2022-09-08T22:15:00Z
-originalUrl: "https://www.okayplayer.com/originals/fn-meka-ai-rapper-tiktok-controversy.html"
-webUrl: "https://www.okayplayer.com/originals/fn-meka-ai-rapper-tiktok-controversy.html"
+excerpt: "AI expert Charles L. Isbell, Jr. spoke with us about the ethics behind FN Meka, and how AI rappers — and AI artists in general — are going to become more prevalent as technology evolves. In less than two weeks,"
+publishedDateTime: 2022-09-08T20:10:00Z
+originalUrl: "https://www.okayplayer.com/music/fn-meka-ai-rapper-tiktok-controversy.html"
+webUrl: "https://www.okayplayer.com/music/fn-meka-ai-rapper-tiktok-controversy.html"
+ampWebUrl: "https://www.okayplayer.com/music/fn-meka-ai-rapper-tiktok-controversy.html/amp"
+cdnAmpWebUrl: "https://www-okayplayer-com.cdn.ampproject.org/c/s/www.okayplayer.com/music/fn-meka-ai-rapper-tiktok-controversy.html/amp"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - AI Ethics
   - AI
 
-secured: "kxBc/iZlPbzctw0xY1uxyKe9yw8acaOhcX2rLfCcQat/FXE9d9xZpL3bjaTgyRQNSDdIMQYCK9ZxR/RHYFwk6iLxpAm8Swe03hbwn7AW4zEIvWiOBvWbqF8N8O/3yufNR1Z29RajhjA9OrN2R+ZUpwB+FTkRoEj1djkU6ouaqiciCGeVkMCcq00d9KVYM0jxU45GU9WGigt65BTeQHmWOi6WDYYBqw/P3QDjg4Ky2i86nHy7COAFOyimDLax/Iwk5bHP1jH8dawwkHUV/cpszhWdRuFO/mSOC5jRFyRotZu7NG6LDkMYkR+arLz9T6f747I/TlJiYFoNWukidrBS7YBNaY0gR65VXeaO/FvHOWg=;xL1OFjbvvEJLbrO69SVNjQ=="
+images:
+  - url: "https://okayplayer-wpengine.netdna-ssl.com/wp-content/uploads/2022/09/Screen-Shot-2022-09-15-at-2.41.08-PM-692x376.png"
+    width: 692
+    height: 376
+    isCached: true
+
+secured: "xoOTBXMW7BE37MhkmkhWP1dDktM/y5SwYr30RGvZVFT1ZgFx4CouKjuBHjrdzai7R1efFQrwsMm51Yz8D7dai5OvKiM7gPQAhGf0r5JNpuM2kkl4rtRSmtK+wnlofSHYL/puPPHd4YfDRVb3qOIE8FyuWsJb4R9bhuZpDblOanHJ9abfmevxu4NaHsRJftXMdvVCgoQ0tGLm/FKt916NRLTwOJMeyJ+CXWgKccQDZaP1OTVb2uB2tFe3hn/Y/V+OaZztHklPAGL355+ci36PkkstrEKhoj3EKLE5FI6W2xn7nBQfb69OOBMBVMZO69ueLfq8Lw0q3Bq/TaMIxPuzeU4TOnF9RP4HfGHd8sttqPg=;XkoemuuUBWY3yTnSCsEj6Q=="
 ---
 

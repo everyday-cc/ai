@@ -34,6 +34,22 @@ related:
         width: 1200
         height: 625
         isCached: true
+  - title: "This artist is dominating AI-generated art. And he’s not happy about it."
+    excerpt: "Those cool AI-generated images you’ve seen across the internet? There’s a good chance they are based on the works of. Rutkowski is a Polish digital artist who uses classical painting styles to create dreamy fantasy landscapes."
+    publishedDateTime: 2022-09-16T15:09:00Z
+    webUrl: "https://www.technologyreview.com/2022/09/16/1059598/this-artist-is-dominating-ai-generated-art-and-hes-not-happy-about-it/"
+    ampWebUrl: "https://www.technologyreview.com/2022/09/16/1059598/this-artist-is-dominating-ai-generated-art-and-hes-not-happy-about-it/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/09/16/1059598/this-artist-is-dominating-ai-generated-art-and-hes-not-happy-about-it/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 58
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/09/seed_971244_00004-edited.jpg"
+        width: 768
+        height: 432
+        isCached: true
   - title: "Generative AI startup Rephrase.ai raises $10.6 million in funding led by Red Ventures"
     excerpt: "Rephrase.ai will use the funds to enhance its capabilities by integrating product experiences; scaling hiring across the business, including within the engineering, AI, product, sales, and marketing teams;"
     publishedDateTime: 2022-09-16T08:27:00Z

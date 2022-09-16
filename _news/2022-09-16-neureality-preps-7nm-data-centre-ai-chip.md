@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-16T12:43:00Z
 originalUrl: "https://www.design-reuse.com/news/52675/neureality-7nm-data-centre-ai-chip.html"
 webUrl: "https://www.design-reuse.com/news/52675/neureality-7nm-data-centre-ai-chip.html"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Design-Reuse

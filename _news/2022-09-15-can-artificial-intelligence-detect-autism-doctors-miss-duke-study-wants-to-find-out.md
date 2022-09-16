@@ -1,20 +1,28 @@
 ---
 category: news
 title: "Can artificial intelligence detect autism doctors miss? Duke study wants to find out."
-excerpt: "A computer just gives you a beautiful readout of how many times the head moves back and forth,” said Geraldine Dawson, director of Duke University’s Center for Autism and Brain Development. Dawson and her colleagues are testing an app that Duke has patented to harness that power."
-publishedDateTime: 2022-09-15T09:00:00Z
-originalUrl: "https://www.newsobserver.com/news/state/north-carolina/article265718501.html"
-webUrl: "https://www.newsobserver.com/news/state/north-carolina/article265718501.html"
+excerpt: "When most toddlers diagnosed with autism sit still, their heads sway very slightly back and forth. That movement is an extremely reliable way to distinguish between a neurotypical and autistic child,"
+publishedDateTime: 2022-09-15T10:00:00Z
+originalUrl: "https://www.aol.com/news/artificial-intelligence-detect-autism-doctors-100000759.html"
+webUrl: "https://www.aol.com/news/artificial-intelligence-detect-autism-doctors-100000759.html"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
-  name: Raleigh News & Observer
-  domain: newsobserver.com
+  name: AOL
+  domain: aol.com
 
 topics:
-  - AI in Healthcare
   - AI
 
-secured: "TNGI2c4ZHg/exq8fNRyflGkZrY92Vq4YzHO5pQoUQGOy1eKplyIzHMVBFursG0da2WsvQXEifH58zS1Ldt3rYk8XKoEQWiYKjjvVL6afzhxfGfsWgB8ojE5ma1aXYdMU+FKEvMZtfd5ctAQh6rD4WjMQa0BIowV2Bmxe+J8rjTvClDyBHIqIdPSCTUaR6uk7vKZ/jxweoKtde2402Lrm/dTo+54V7Gfa/+pQ2i22ds9YRinNPW9r3L9LGu6gMSDa8b3HDsCU5qvh+CwDbRgSAxmAVchloLnJYRQ+sHvHyMBcKWs9c7FYhlvI7VqEWS8AjFoqrssBlZm9Se0/O8nUBnJOMPdXGoiR1UzFD5jVD+xUhsPCi6Ffy4aZ22YNraSIsS7PW+rv63jvjQ3VktCsKMdl1CHNBPnLAxq4aCvMyIfZgCSunnfHveCOegjBTnLR4zqFjLujTMJ+geZHI+HBJ4xVuEmvc84ka5EC/IcJP3l+UsgPVJ/OJadG/ZGQAs9JYT+3pWeVxmveLphffeIeNw==;9MgmdSLAtyef7rSjMEDo6g=="
+images:
+  - url: "https://s.yimg.com/uu/api/res/1.2/TT.0JDWvagjdn.Fw2hNIPQ--~B/aD03MTk7dz0xMTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/aol_raleigh_news_and_observer_mcclatchy_356/c5b2c0610b80dc2ea54ced935e44c32d"
+    width: 1140
+    height: 719
+    isCached: true
+
+secured: "DdViZVMGBkT0nTrUkB2QHeu5gnoM47Alkd5dUYdPuXx7t17cSwQmB1BUQuo6AA+MEn5GphPn34ueBFiXLgdgcBsJYkeH9BQKF8zjm8ZmdTW117OgFLGYyVaV05rIPHQUBKcTnUnxTJFdN7jxzSU+EyJKxv93WVrp7AdmKjKWaae+rvoq+jJxudZIRRK0n5bL/I2ssq1Zr+0/7pRYM453DNEPH/SMk4kWr53LDy8/tsUr9i/EkJhOYaAURlqYm4MBtLIzODEarPNMzGVu0v4m5TkDYkyxZOB2ohYQK/hxTDZvHGxTyK/uvjydm4KOfm7f1m0Geuyy8J/ZhmZEHwwQI0jBLS1tLRM3I2MqpqQy2xg=;iXFCaMG72VYizG7GobC5Bw=="
 ---
 

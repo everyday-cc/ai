@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wkrn.com/news/local-news/pleasant-view-police-use-facial
 cdnAmpWebUrl: "https://www-wkrn-com.cdn.ampproject.org/c/s/www.wkrn.com/news/local-news/pleasant-view-police-use-facial-recognition-to-identify-alleged-gun-thief/amp/"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: WKRN
@@ -40,20 +40,6 @@ related:
       - url: "https://eandt.theiet.org/media/15480/dreamstime_l_208516777.jpg?crop=0,0.31791666666666668,0,0.18989583333333326&cropmode=percentage&width=1200&height=450&rnd=132617507000000000"
         width: 1200
         height: 450
-        isCached: true
-  - title: "Call for UK’s biggest police force to stop using facial recognition technology"
-    excerpt: "Fourteen campaign groups have written an open letter to the new boss of the Metropolitan Police on his first day in the job."
-    publishedDateTime: 2022-09-11T23:01:00Z
-    webUrl: "https://www.aol.com/call-uk-biggest-police-force-230100278.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 35
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/EmTgi_BFsHIoOAn8uJJfWQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_press_association_news_966/dd60738fa1bbe3b45f4f8512b77b4e3b"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "B12IVWJ22vJ1StYuPeUFst3I9r/MbiWmcprfEiLmPTUFC09OxAIeRcBduNI/e4fYmLZ5NPbtiTjg9q3lskBJIIFHr6BA4EwdTgEM9pGgpiSJ+AYugbvbf5xyy5ZpCK7Ig0ahtwjrW0C/d0K+UxUsRkOSTrY3lmHlN5+i6QV4dpNREH94w7bXfj+FY6kalp1gcrxjLIavMzZZUMWUXBnFxMDRNyTalSWf1RFPV0GQobAUn+CVILv0A31FPM2wwWFA9j5jCr4iVp6HKtWmyr5BVuBLqtUUYWwGFXqz9Y6Fafrn6b632hgyp6gSxruRyXuyW3Cb5vKixK6ioJx0NFxVwdhx4GUPswzecYagCBIBcMw4aPVQFmzjhUqG3KNXgWxqI8E+nRSdd47Bl0ZXdXS1uXOf7hnhe2Y4jEbvnGZuudmlljWnZba4FHDfaCjcFqGuB0AHgWuRdhBMGGFI1PPveXjlfoTDusrzu1mP06NFhBeXK2dNkKhXdze+O3q9+gAnECjpKOw5Zh10BjT7l05M5g==;je2iEkdjrmpuY7zu92Ln3w=="

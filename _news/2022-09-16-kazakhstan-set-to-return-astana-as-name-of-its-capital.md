@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-16T13:47:00Z
 originalUrl: "https://astanatimes.com/2022/09/kazakhstan-set-to-return-astana-as-name-of-its-capital/"
 webUrl: "https://astanatimes.com/2022/09/kazakhstan-set-to-return-astana-as-name-of-its-capital/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: astanatimes.com

@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "My Tesla Full Self-Driving Beta 10.69 first drive was a fail"
+    excerpt: "I went on my first test drive of Tesla Full Self-Driving Beta 10.69.2, the latest big FSD software update, and unfortunately, it was a fail."
+    publishedDateTime: 2022-09-16T15:04:00Z
+    webUrl: "https://electrek.co/2022/09/16/tesla-full-self-driving-beta-10-69-first-drive-fail/"
+    ampWebUrl: "https://electrek.co/2022/09/16/tesla-full-self-driving-beta-10-69-first-drive-fail/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/16/tesla-full-self-driving-beta-10-69-first-drive-fail/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 104
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla Sued Over Alleged False Autopilot, Full Self Driving Claims"
     excerpt: "Tesla is facing a class-action lawsuit that accuses the electric car maker of misleading the public by falsely advertising its Autopilot and Full Self-Driving (FSD) features. The complaint, filed Wednesday in the US District Court Northern District of California,"
     publishedDateTime: 2022-09-15T14:27:00Z
@@ -159,6 +175,20 @@ related:
         width: 1024
         height: 916
         isCached: true
+  - title: "Tesla Faces Class-Action Suit Over “Deceptive” Claims About Autopilot and Full Self-Driving Tech"
+    excerpt: "Tesla and its CEO Elon Musk have been hit by a class-action lawsuit filed in federal court claiming they “deceptively and misleadingly” overstated the capabilities of the automaker’s Autopilot and Full Self-Driving vehicle technologies."
+    publishedDateTime: 2022-09-16T14:49:00Z
+    webUrl: "https://www.thedetroitbureau.com/2022/09/tesla-faces-class-action-suit-over-deceptive-claims-about-autopilot-and-full-self-driving-tech/"
+    type: article
+    provider:
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 41
+    images:
+      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2020/10/Tesla-full-self-driving-2020.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Tesla has now been sued over Musk’s Full Self-Driving claims"
     excerpt: "Tesla has found itself the target of a recent lawsuit filed in San Francisco. The suit comes from a Tesla owner claiming that Elon Musk has acted “deceptively and misleadingly w"
     publishedDateTime: 2022-09-15T13:16:00Z
@@ -168,6 +198,20 @@ related:
       name: KnowTechie
       domain: knowtechie.com
     quality: 34
+  - title: "Finally, Ford Plans To Release A Test Self-Driving Car By The End Of 2022"
+    excerpt: "Finally, Ford Plans to Release a Test Self-Driving Car by the End of 2022 . September 13, 2022 by Mark Allinson Leave a Comment . Ford plans t"
+    publishedDateTime: 2022-09-14T03:16:00Z
+    webUrl: "https://menafn.com/1104860411/Finally-Ford-Plans-To-Release-A-Test-Self-Driving-Car-By-The-End-Of-2022"
+    type: article
+    provider:
+      name: MENAFN
+      domain: menafn.com
+    quality: 23
+    images:
+      - url: "https://menafn.com/updates/pr/2022-09/13/R&AN_834dfimage_story.png"
+        width: 1177
+        height: 883
+        isCached: true
   - title: "Tesla hit with new federal lawsuit over self-driving system"
     excerpt: "Tesla is gearing up for another legal battle over its self-driving technology. Burlingame-based Cotchett, Pitre & McCarthy, LLP said Wednesday that it has filed a lawsuit against the electric automaker for allegedly misleading the public regarding its autopilot and full self-driving technology."
     publishedDateTime: 2022-09-14T21:21:00Z

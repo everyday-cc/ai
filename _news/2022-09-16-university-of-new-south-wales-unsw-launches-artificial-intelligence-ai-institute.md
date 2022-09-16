@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-16T06:52:00Z
 originalUrl: "https://indiaeducationdiary.in/university-of-new-south-wales-unsw-launches-artificial-intelligence-ai-institute/"
 webUrl: "https://indiaeducationdiary.in/university-of-new-south-wales-unsw-launches-artificial-intelligence-ai-institute/"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: India Education Diary

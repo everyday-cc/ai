@@ -112,49 +112,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-14-pleasant-view-police-use-facial-recognition-to-identify-alleged-gun-thief.md",
-      "title": "Pleasant View police use facial recognition to identify alleged gun thief",
-      "excerpt": "Marcus Holt, 22, is in the Cheatham County Jail and has been charged with 29 counts of theft, burglary, vandalism, and felon in possession of a firearm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wkrn.com/news/local-news/pleasant-view-police-use-facial-recognition-to-identify-alleged-gun-thief/",
-      "originalUrl": "https://www.wkrn.com/news/local-news/pleasant-view-police-use-facial-recognition-to-identify-alleged-gun-thief/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wkrn.com/wp-content/uploads/sites/73/2022/09/Pleasant-View-police-use-facial-recognition-to-identify-alleged-gun-thief.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wkrn.com/news/local-news/pleasant-view-police-use-facial-recognition-to-identify-alleged-gun-thief/amp/",
-      "cdnAmpWebUrl": "https://www-wkrn-com.cdn.ampproject.org/c/s/www.wkrn.com/news/local-news/pleasant-view-police-use-facial-recognition-to-identify-alleged-gun-thief/amp/",
-      "publishedDateTime": "2022-09-13T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WKRN",
-        "domain": "wkrn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-14-university-of-maryland-prof-urges-pause-on-facial-recognition.md",
       "title": "University of Maryland Prof Urges Pause on Facial Recognition",
       "excerpt": "Lauren Rhue, an assistant professor of information systems at the University of Maryland, says human intervention is necessary to mitigate bias in technologies from Amazon Rekognition, Face++ and Microsoft.",
@@ -1418,6 +1375,58 @@
         "AI",
         "AI in Security",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-i-have-face-blindness-this-is-how-i-recognize-you.md",
+      "title": "I Have Face Blindness. This Is How I Recognize You.",
+      "excerpt": "new video loaded: I Have Face Blindness. This Is How I Recognize You. Advertisement Opinion Video features innovative video journalism commentary — argued essays, Op-Ed videos, documentaries ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/video/opinion/100000008048548/face-blindness-prosopagnosia.html",
+      "originalUrl": "https://www.nytimes.com/video/opinion/100000008048548/face-blindness-prosopagnosia.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/10/28/autossell/FACE_BLINDNESS_16x9/FACE_BLINDNESS_16x9-facebookJumbo.png?video-overlay?video-overlay",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T01:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

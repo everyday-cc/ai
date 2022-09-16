@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-16T12:30:00Z
 originalUrl: "https://www.ibtimes.com/identify-what-your-cats-meow-means-this-cat-translator-app-3613676"
 webUrl: "https://www.ibtimes.com/identify-what-your-cats-meow-means-this-cat-translator-app-3613676"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: International Business Times

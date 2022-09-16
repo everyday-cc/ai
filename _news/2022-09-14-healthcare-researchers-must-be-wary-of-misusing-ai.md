@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI: The Future of Healthcare"
+    excerpt: "By Dr Christophe Bianchi, Chief Technologist HealthCare, Ansys The covid pandemic touched almost every aspect of our lives and its legacy can still be seen throughout society and the economy. During that time there was a laser-pointed focus placed on the healthcare industry – leading doctors and scientists instantly became household names"
+    publishedDateTime: 2022-09-16T12:50:00Z
+    webUrl: "https://www.globalbankingandfinance.com/ai-the-future-of-healthcare/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/ai-the-future-of-healthcare/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/ai-the-future-of-healthcare/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 74
+    images:
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/07/iStock-1397174654.jpg"
+        width: 750
+        height: 384
+        isCached: true
   - title: "Health care researchers must be wary of misusing AI"
     excerpt: "An international team of researchers, writing in the journal Nature Medicine, advises that strong care needs to be taken not to misuse or overuse machine learning (ML) in health care research."
     publishedDateTime: 2022-09-13T14:52:00Z

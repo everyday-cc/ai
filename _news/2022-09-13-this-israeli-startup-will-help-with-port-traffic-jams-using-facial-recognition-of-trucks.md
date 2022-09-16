@@ -26,6 +26,22 @@ images:
     height: 858
     isCached: true
 
+related:
+  - title: "Facial analysis still biased, press still confusing it with facial recognition"
+    excerpt: "Readers of both publications are at risk of being misled by the same kind of imprecise language that biometrics industry insiders have long warned against."
+    publishedDateTime: 2022-09-16T14:29:00Z
+    webUrl: "https://www.biometricupdate.com/202209/facial-analysis-still-biased-press-still-confusing-it-with-facial-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 35
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/07162020/synthetic-data-scaled.jpg"
+        width: 2048
+        height: 1280
+        isCached: true
+
 secured: "lmG0j6/s11IK7w+Y4xMK+bXsbCpk2Z4YYaj0iz9s6WrKabeCoWB8eG5XR/IG6UHHBvxktFSi4OOTUOy1VD83CEYiE2hhzJcl/PdwRzLbVM9hNrUpjpv9qKDeJe87YJ/4CWb4G6An16kh7lL9TlLUEJeygBo/7sWjTyQKpQORDIXWynBuRs1xFz+cd6o0LrFqUkp1C3x7PJmI7derKmZLVdqE88FB5keMTl8LMNSaBC4u5Da9sdcDxnvMusNBO1YpIJwGfGPdxZvxONq49CN04cPCacJup0i/lluGC6qL2+4kkk3z6nSAeA57to/WqLJJdE41Rc6sZJabgpn2VIjQRHsbDUA2XtISbnuROOMAiXHZfOYsx0vm9CXgwPPwNIfJVKYTO+T0Gwc1yMq6Z/c6/M863QHQAc9wE1ROVrc9wiMZPP63cxgjcHDqpUH0wxaPXvWk+CiRTALhUiyPwPmKsVDfcbmUh0BXmdHvx6GLX0GS34X+Ev+7WJhktbz/vlyDQrtY/BLFSrHFMk9cjRfgYA==;CU0eLGEsdqOj7YDejGcLqQ=="
 ---
 
