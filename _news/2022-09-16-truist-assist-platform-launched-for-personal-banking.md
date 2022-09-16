@@ -26,14 +26,19 @@ images:
 
 related:
   - title: "Truist launches Truist Assist"
-    excerpt: "New artificial intelligence (AI)-enhanced digital virtual assistantprovides immediate help for clients' most common questionsCHARLOTTE, N.C.,"
-    publishedDateTime: 2022-09-15T12:46:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/truist-launches-truist-assist-1031745361"
+    excerpt: "Truist Financial Corporation (NYSE: TFC), today announced the launch of Truist Assist in its mobile banking app and online banking platform for personal banking (retail and wealth) clients. This AI-enhanced virtual assistant is the bank’s latest example of its T3,"
+    publishedDateTime: 2022-09-15T13:02:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-charlotte-artificial-intelligence-3c47d97e388335e62d93c2ea7d7acd5d"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Truist launches virtual assistant after a year of development"
     excerpt: "On Thursday the Charlotte, North Carolina, bank announced the launch of Truist Assist, a digital assistant that uses natural-language processing and natural-language understanding to interpret customer questions."
     publishedDateTime: 2022-09-15T20:30:00Z

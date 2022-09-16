@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/why-the-explainable-ai-market-is-growing-rap
 ampWebUrl: "https://venturebeat.com/ai/why-the-explainable-ai-market-is-growing-rapidly/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-the-explainable-ai-market-is-growing-rapidly/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1257975820-e1663004031979.jpg?w=1200&strip=all"

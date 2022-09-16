@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-15T21:16:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/nala-robotics-and-saudi-excellence-co-to-establish-first-ai-based-robotic-cloud-kitchen-and-r-d-center-in-saudi-arabia-1031746917"
 webUrl: "https://markets.businessinsider.com/news/stocks/nala-robotics-and-saudi-excellence-co-to-establish-first-ai-based-robotic-cloud-kitchen-and-r-d-center-in-saudi-arabia-1031746917"
 type: article
-quality: 75
-heat: 115
+quality: 77
+heat: 117
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mma.prnewswire.com/media/1900242/20220915_112904.jpg"

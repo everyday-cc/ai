@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Truist launches Truist Assist"
-excerpt: "New artificial intelligence (AI)-enhanced digital virtual assistantprovides immediate help for clients' most common questionsCHARLOTTE, N.C.,"
-publishedDateTime: 2022-09-15T12:46:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/truist-launches-truist-assist-1031745361"
-webUrl: "https://markets.businessinsider.com/news/stocks/truist-launches-truist-assist-1031745361"
+excerpt: "Truist Financial Corporation (NYSE: TFC), today announced the launch of Truist Assist in its mobile banking app and online banking platform for personal banking (retail and wealth) clients. This AI-enhanced virtual assistant is the bank’s latest example of its T3,"
+publishedDateTime: 2022-09-15T13:02:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-charlotte-artificial-intelligence-3c47d97e388335e62d93c2ea7d7acd5d"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-charlotte-artificial-intelligence-3c47d97e388335e62d93c2ea7d7acd5d"
 type: article
-quality: 34
-heat: 34
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Truist Assist platform launched for personal banking"
@@ -52,6 +54,6 @@ related:
         height: 630
         isCached: true
 
-secured: "5nO/FilJRO29sR0K6TAIL/8dJznZHuUHU+MMoDkmGtYqpgs2vio5OR6nOR55DPhpKozexQmHoG7Xsn+KhsPES3hkpjeQE68lETlLGXfQiT9pW6cDuqH8OLzgy38BwSMz5ZHnLS9Z6OTIDOAmr4kn71CKKOUn6uaV/C+NSexGUBWXdcH3s/+mj5TFzTUcrzbsCIGvnL/+8IHlRU12aQI0a23JyIqtcBuJjxeEGqFikni0Okv6KoIh9qqhoyIySSC/7+KRdG9lIqT7TQFewCbJRb4sfKou3Y8GgEB+NrRtX0EXtbuhGdBB66DaSuJydlCopvrlKqSHfsbek489QIep5hgUxLRCcoenkXysofL0szk=;V7wL4f0rYFDBTuWBX0zVcg=="
+secured: "f3PxoUNMidBvERWe9wFCHIjoYrRR+j6cj4P5aQ0eoCZ3+gkDkGUUEzw4e3dIPxsTlegQ2Vg0EchcPA9rganwYdRFo2/AgKQtxfm1vhZ4dnZnEEDj0obHzo7yGElCtqR3LsRAqHhWrtV9Xtwk6nL3lDPr7FE7lvl20+vDGv9uLVf9dwCAbt30l2Wpk2VEU9MndnEP4UK4XKEdXImNLOiDvMGxNMLxKqXSXA0WErLGFn9aH340qXd9k22XdGKooLTuFW+KrwWdF8rkoM876zAcZtTE3DCDzDhrI8WljFQrU8nC02rSFonpPX+//NnzxpJYywdNgy2Co5FmFMmNp5rPFuov/78ZXgD7C71i9fqAaaE=;uAuOf3ixPj0JkUH58Kzksw=="
 ---
 

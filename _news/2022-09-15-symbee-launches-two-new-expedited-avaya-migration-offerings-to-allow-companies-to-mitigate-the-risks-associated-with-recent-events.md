@@ -1,23 +1,25 @@
 ---
 category: news
 title: "Symbee Launches Two New Expedited Avaya Migration Offerings to Allow Companies to Mitigate the Risks Associated With Recent Events."
-excerpt: "Customers needing to mitigate the risk of Avaya Solution (s) by migrating rapidly to the Amazon Customer Experience (CX) ecosystem based on recent company events. Today, Symbee, a Global AWS Amazon Connect Service Delivery Partner (SDP),"
-publishedDateTime: 2022-09-14T23:54:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/09/14/9674013.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/09/14/9674013.htm"
+excerpt: "Customers needing to mitigate the risk of Avaya Solution(s) by migrating rapidly to the Amazon Customer Experience (CX) ecosystem based on recent"
+publishedDateTime: 2022-09-14T22:26:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/09/g28874153/symbee-launches-two-new-expedited-avaya-migration-offerings-to-allow-companies-to-mitigate-the-ris"
+webUrl: "https://www.benzinga.com/pressreleases/22/09/g28874153/symbee-launches-two-new-expedited-avaya-migration-offerings-to-allow-companies-to-mitigate-the-ris"
+ampWebUrl: "https://www.benzinga.com/amp/content/28874153"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28874153"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "0ktc0dBF3mtJKNsC8lIvzl6VYFIHL5mAAZHCKtoI5jjv/OtdxgNt8icJnFPNTGq/9z/A9ug/dHRlHh2DB3lQXmJEfPx3Y2Ks9A74TD5X8pvNvT7DHWP9Xs3ZMwxJM0QwjVo+P13dsG8UCULostbobxANmPo8jAj9Q/L6ForKtqHR3rs9MSaHDE4eXrhIOClyfJdA67GBvSF9zoN8QWqAwkQ9TcG/FPMuNqndnG8kgh29CIcIPJ9H7V7FRGgU9fvmSb8ZsaqcNcbwxO3SjnjothpVfZcksdisRUrywzFcFnmGhxbB/g/1sUO55mG+T9tLP2CF8zq33yBIA/qRn5pnaFk/QBetbtgAUR4QC5bTA2c=;3PF5gb2DM+oyjaERz+B/jA=="
+secured: "C6qyo+wCtz0JgB28/NglLiNLnIaQBA+N/KaKekVM/exBnr+c5wKTZhHDdbIwlA8qCb12TmxXFDP4PaXNX8bvhf1YfeI79THBkP4GkXJ4LkI5mwV6+zDuwKtOOJBdf7SKDxpKWroj5sZyOKi5Ufb0w2OKdC059ldOyrP4LdAK90qjzqlfAGQ2w79vfQ51lhkxPIk5gvRCPVXHQqeRX2/dGmh/ZRb/Eyj0a+Jx8jnS0GSHoVrYDxx/tVvwEFRa/g49mGWHtJvyK7KAKl3v8b4kc08RXwWbOBJWaBof0I+5V6ycIoAprjFrzL7DNm5a6nLuSs8dY3GpyUyb2Dhm/LSnfpi/OpS0tC5/npftV6aS6EQ=;Mnkpq2EdN/ykhHicnQw83A=="
 ---
 

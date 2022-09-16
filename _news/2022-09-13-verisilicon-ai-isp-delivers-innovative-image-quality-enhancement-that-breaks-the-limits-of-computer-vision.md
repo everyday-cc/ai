@@ -1,21 +1,21 @@
 ---
 category: news
 title: "VeriSilicon AI-ISP Delivers Innovative Image Quality Enhancement that Breaks the Limits of Computer Vision"
-excerpt: "VeriSilicon (688521.SH), a leading Silicon Platform as a Service (SiPaaS®) company, today announced the launch of AI-ISP, an innovative AI image enhancement technology for applications including smartphones,"
-publishedDateTime: 2022-09-13T16:06:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/09/13/9672608.htm"
-webUrl: "https://it.tmcnet.com/news/2022/09/13/9672608.htm"
+excerpt: "Low-power, low-latency and low-DDR bandwidth image quality upgrades enabled by VeriSilicon FLEXA VeriSilicon (688521.SH), a leading Silicon Platform as a Service (SiPaaS) company, today announced"
+publishedDateTime: 2022-09-13T14:14:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-09/57045723-verisilicon-ai-isp-delivers-innovative-image-quality-enhancement-that-breaks-the-limits-of-computer-vision-004.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2022-09/57045723-verisilicon-ai-isp-delivers-innovative-image-quality-enhancement-that-breaks-the-limits-of-computer-vision-004.htm"
 type: article
 quality: 18
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
-  - AI Hardware
+  - Machine Learning
   - AI
   - Computer Vision
 
@@ -35,6 +35,6 @@ related:
         height: 247
         isCached: true
 
-secured: "cbVCWN/TX7LmxdcAUpa/fw5gmeoYFFbtRrmlg4xxl8g0rkWr71exZPme7VgjNEVI/RPQrBK8dGiUFW5/KC5sG3rX1hBjEOByz2adNjJElD4zdivJwUlSZ7RiF/4a0f02jgBQ/tWAL6IDuuc5rTCjmOeJXwoLYX9j2VKx4VFT+d95zpvoNMiI29lz3LfTpU++ATJ8IuNonOOaUCfbY2T+28ClFVHYvzK2UTSFiBZbViHuSwhM3xMPoncudi/fOG16II9pHLAc0cchXRzlb2L/PIkgn09SIaQIchxYNyGT3GQaDn7+CBqs3C4V2F9gsqa2+j6daS0VBzVBIcSWFy6/5RGmKn7CkqbqV6vuvBHiQcc=;7aegYjM/sjcDN9Uz4Wvw3g=="
+secured: "pQxJ5FS65ztCMwl/T6mFUU5e8LFjFucsIf/yPhaWM1TLshGBdM144ju6O13PGfAzUzw6ZvO+48uK7OpDAXuFhyJ4AE37M8g1cAPSCctpm8Aga8AVwBhADFe6BD81eSDEi5D1m9PRHh0pwYnWW7xXUIOLZzhSvHBSKbkW5nIBiNg/wZnYaJDZP6g5th+z90bqyqI/i8KPjIL//SUpi/BgOkZkCWChihOWE5Yjc4Yz1/DAcCx1wxhEMwFMoIylBSaQwFeG+5j3mGvabqVg3iA7qTsZo9V2X3EaWS9L1Jscx2FOmo+E2Yq3pEEZhFmz4EDTiD0Hji/k1DWYxjzls8yRBzRVkYr98CM6HZKnFSj3I4M=;6FR2qrhhBvtc9txhj3VQ5g=="
 ---
 

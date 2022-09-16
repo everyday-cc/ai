@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/funding/ai-solutions-startup-sigmoi
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/ai-solutions-startup-sigmoid-raises-12-million-in-funding-from-sequoia-capital-india/amp_articleshow/94216111.cms"
 type: article
 quality: 50
-heat: -1
+heat: 60
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI startup Rephrase.ai raises $10.6 mn in Series A funding round"
-    excerpt: "Artificial Intelligence startup Rephrase.ai, backed by Lightspeed Ventures, has raised $10.6 million in its Series A funding round. The round was led by Red Ventures and saw participation from Silver Lake and 8VC Ventures,"
-    publishedDateTime: 2022-09-15T17:23:00Z
-    webUrl: "https://inshorts.com/en/news/ai-startup-rephraseai-raises-$106-mn-in-series-a-funding-round-1663262581246"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/ai-startup-rephraseai-raises-$106-mn-in-series-a-funding-round-1663262581246"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ai-startup-rephraseai-raises-$106-mn-in-series-a-funding-round-1663262581246"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 57
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/09_sep/15_thu/img_1663260823085_979.jpg?"
-        width: 1080
-        height: 724
-        isCached: true
   - title: "AI startup Sigmoid raises $12 million from Sequoia Capital"
     excerpt: "AI solutions provider Sigmoid has raised $12 million funding from Sequoia Capital India today. With the current round being a mix of primary and secondary funding, Sequoia has invested $19.3 million in Sigmoid till date."
     publishedDateTime: 2022-09-15T13:48:00Z

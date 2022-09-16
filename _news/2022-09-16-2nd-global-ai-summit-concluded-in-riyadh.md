@@ -3,8 +3,8 @@ category: news
 title: "2nd Global AI Summit Concluded in Riyadh"
 excerpt: "Global AI Summit Concluded in Riyadh; SDAIA President Thanks HRH the Crown Prince for Patronizing Global AI Summit with Presence of 90 Countries; Nala Robotics, Saudi Excellen"
 publishedDateTime: 2022-09-15T23:48:00Z
-originalUrl: "https://www.spa.gov.sa/2384506"
-webUrl: "https://www.spa.gov.sa/2384506"
+originalUrl: "https://www.spa.gov.sa/viewfullstory.php?lang=en&newsid=2384506"
+webUrl: "https://www.spa.gov.sa/viewfullstory.php?lang=en&newsid=2384506"
 type: article
 quality: 39
 heat: 39
@@ -62,6 +62,6 @@ related:
       domain: spa.gov.sa
     quality: 0
 
-secured: "H0fFkefWUv/5emn/qp1LBLbufIMqr2DfD1jJ9jTm+foQQBTsnic9XJCel3a4r9Kn3Sl/j6fqis+RmU9fZ9ANLz38h6TooSRUQIOhVxBWY6NRjCk/9lm2uqgegIaGcp4ZyKEFLoKAxrx84wavABX5GF9wLKUy91LWGfEAZN4XBkGpgMrUGZOxnP8b3ugkSjo/diI9TJNChxqXdw2MuWadCVcT5p1/6SprVSbvyQLuxMIbmFCw7pWKQKbBG25QE4lV2kzI8/A5+uFwYTm1v7xwNqt7U/d855LX+3diM0h5m9sK6l0K0OSQy8HPGbRntEv08cLM+k70SbjAEqIesXWPKy7cqhzrp8b+QNfdJ3WF3WY=;AJeAwBvzspXqIfXZ3JAnAQ=="
+secured: "t5TVzJZ9ORZDMUQOICKxEC641CsCGMSroZZKaeEWtt4hHnkgspQ5aQegtYEU6u/YzYGr1rFu/oxCoeWtjL2ByVS9WPCXPwS/RKOKp6Iskwxm/jezR6duwkjIPYTtMGzwrLC5fJohoO6SqBio9VDs97UVfzdPsz8T6IplzBnvvxG/gk8hP/ijXZrRjmZgKrdhmkNsFTmCALeWzfFywhz7EGkZNZYGM1mJviNQxJluoc6jQmbh2diECnGklKS3lyVp7lLGqjohS44VTfJPaTjOtNGcE6lOt4kKEV+jhAc95avYIUN75mZCAphVcFsYOIgcGCmG7WvnmFor25oV0x7rhB81oNnXRDWWljldW9utDho=;8R20A55hJGNmpZ1sUgYtRA=="
 ---
 

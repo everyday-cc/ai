@@ -41,22 +41,6 @@ related:
         width: 383
         height: 331
         isCached: true
-  - title: "Japan to promote commercialization of self-driving technology"
-    excerpt: "Japan's economy minister says the government will promote discussions with the auto industry to help achieve the early commercialization of self-driving and other state-of-the-art technologies."
-    publishedDateTime: 2022-09-11T07:55:00Z
-    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20220911_16/"
-    ampWebUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20220911_16/amp.html"
-    cdnAmpWebUrl: "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20220911_16/amp.html"
-    type: article
-    provider:
-      name: NHK
-      domain: nhk.or.jp
-    quality: 44
-    images:
-      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20220911_16_1159040_L.png"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "2hHirFQpFzVuNLhdj7JrPNwTtqswnxh8JgZszUTMG0enrLolSPbweGFG9tkZWdnJf5CRLPsSF+odvI8Dj6W1IrZ12OWVXOA518EIClRQrGG9ZUhaf1obTa6WO9lOnYhKU/Kk+Vf3/JdG1H2AnG+1XACDUgNFBeZFfFYerFET2yrgJMfZk0XUjVz8fUSDEIp2lPal1NhbcenoCV2CvGnCuN7HUHUQ5e9G83rfQpCx7c8s5H2BBt2IcbcAxROgLy4BeWpdR6H49gMJUe9rTdL9mlGhsrlMKfZjTJK+cjI1uBv+YkfhEXI1MRQzChRIVr6Mrf2MldDWvkzL9DR0exktzZgbTHRzeHMBdpQrLnQ8c+o=;BWAZ0TxTHMisU7aL54t8jw=="
 ---
