@@ -104,6 +104,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fully autonomous cars are still an impossible dream, experts say"
+    excerpt: "It is widely hoped that autonomous vehicles will one day make our roads a much safer place, but it’s not as simple as that, experts say."
+    publishedDateTime: 2022-09-16T04:30:00Z
+    webUrl: "https://www.iol.co.za/motoring/industry-news/fully-autonomous-cars-are-still-an-impossible-dream-experts-say-d3a0234b-d6ab-5ed4-a910-c2f93198f207"
+    type: article
+    provider:
+      name: Independent Online
+      domain: iol.co.za
+    quality: 4
 
 secured: "YEje9xWmT4T8rU9QrBQBfrkl1Nr5+Ap83VJWl4fMVI276meOvFL4DIRNF8UHq7q9BOT0hwZRgnAT/eBWStNw+S18sfCYGMIFDC5EAl2WfGzmTlLVEUQwJXim0ot/w7C2Z0kSA4L7R749phzf3TRvq/HZhFbfmc2ycEeWn31EcH5usbQiq4BRWkU6Zadt7Q+uvsJ7tkBq8QuVM56VqRnKMS78bpQCve+2sTI3BWsy2EklCLjBV7x8vrWfN5sdyNuF6s1ayEL3yT+lsSdjQuDD+BZp5rtrP78qAwdtNSs9XLVr2RjxdjdAjGIirGpo72FB0XNhlwhtoxztMPbmP6pFROj1+ZG79ydEo7l4rdQpUtnRpGPlFuASHKjA/z25zf/2GDuR6VfB9KANcuhUPpSyV78nw4Uc2bDkCxXtZEJxq9Ul9aPFv674jdSOUnb7eeFettaiiaETdGlw42ztJKJJCMOTYDZynCjG68+mJjuf82OTLOTgxwsl+9EqCXXjH+SiMQAe+IEzu3cQVNGcCPyb2Q==;xre8nh2ehH6kJrao0833Xw=="
 ---

@@ -105,6 +105,15 @@ related:
       name: Autoblog
       domain: autoblog.com
     quality: 4
+  - title: "Fully autonomous cars are still an impossible dream, experts say"
+    excerpt: "It is widely hoped that autonomous vehicles will one day make our roads a much safer place, but it’s not as simple as that, experts say."
+    publishedDateTime: 2022-09-16T04:30:00Z
+    webUrl: "https://www.iol.co.za/motoring/industry-news/fully-autonomous-cars-are-still-an-impossible-dream-experts-say-d3a0234b-d6ab-5ed4-a910-c2f93198f207"
+    type: article
+    provider:
+      name: Independent Online
+      domain: iol.co.za
+    quality: 4
 
 secured: "YxRMhghpmSDbtVqswv5WKCEJD5y3FbdwpURuK7iptAc8ckaGucLHySf1IUsxUK0weCimX2FHmIi5Leq/YU006J3lJAh0JRtB1pdDUZGL7RlgLtulSSgmeQff8eiSgsJMfhncBkyedPmqmIyV5QOQhorH0SX9Cj9x0qu1vasICFqIeQSvkLr5TLwhltwvbybstQmKcejOqCl1pAS/KfWxOtme/7NbBASrhHPlpHAbt/uey1rRhrHfSRQz6f+G26zgIZH75QQyzOyINE1jOUCV96v5TrJHqHDe8yfOOXkFP+xPnIo958EEmituCYLxDbr5dmXPZj4f38Ic4fqIbSOLq+xReMJuQOHpy/s78M18L9vvMl7NX8ZWldvnK22JNLWFse4ZksKsRKxTGVLEUII4ogf5voKJyR/jx+H75x6XfxWaa/bkziAS9ikzHJpVdoZXUq8cmFMbqO+pTiTTyCDMe+riA0+rksCmxuvLCGjS1JduyPo7Wvjb3BcN8GqC7pFP2fvHUziFYadBxBE9ZDNL+g==;oJiGbD837bsZldeW/3Zutg=="
 ---

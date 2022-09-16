@@ -7,7 +7,7 @@ originalUrl: "https://eandt.theiet.org/content/articles/2022/09/can-the-road-net
 webUrl: "https://eandt.theiet.org/content/articles/2022/09/can-the-road-network-cope-with-self-driving-vehicles/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Unlocking human-like perception in self-driving vehicles"
-    excerpt: "Researchers at the University of Freiburg have introduced the amodal panoptic segmentation task whose solution may soon enable more"
-    publishedDateTime: 2022-09-13T11:55:00Z
-    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/224907"
-    type: article
-    provider:
-      name: AlphaGalileo
-      domain: alphagalileo.org
-    quality: 24
-    images:
-      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/imported/69610_image.jpg"
-        width: 602
-        height: 716
-        isCached: true
   - title: "Human-Like Awareness Emerging in Self-Driving Vehicles"
     excerpt: "How mobile robots sense and comprehend their surroundings accurately even when other objects block off certain areas is a critical issue that needs to be resolved."
     publishedDateTime: 2022-09-14T13:11:00Z

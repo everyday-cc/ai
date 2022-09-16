@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/insight-truly-autonomous-cars-may-be
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch?amp"
 type: article
 quality: 52
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -103,6 +103,15 @@ related:
     provider:
       name: Autoblog
       domain: autoblog.com
+    quality: 4
+  - title: "Fully autonomous cars are still an impossible dream, experts say"
+    excerpt: "It is widely hoped that autonomous vehicles will one day make our roads a much safer place, but it’s not as simple as that, experts say."
+    publishedDateTime: 2022-09-16T04:30:00Z
+    webUrl: "https://www.iol.co.za/motoring/industry-news/fully-autonomous-cars-are-still-an-impossible-dream-experts-say-d3a0234b-d6ab-5ed4-a910-c2f93198f207"
+    type: article
+    provider:
+      name: Independent Online
+      domain: iol.co.za
     quality: 4
 
 secured: "pjjm58tC+otU5w+7u09nK4wWU0qBb9u15dDFefpP+d3A1BrgAM/c0z1NlUTF75Mgqg4Q1B0Kb10NVWs4kVXAhsbaNx94sTgIDarjMGDKUAxL5vWYWT+KIdLxtxXvMXfP1aOEacBe292CAERPKnTInPJdSav6fXAwyCYRb4/gUQEre4ApaUmkTbNL+FKYxdAjsH7I5SjwdhP6fd2rSZduvTNByzmoIigUlwPK6Rj5tTRdrVynbrkCtA+Zo9a0XGXOroTLSJD2A+LQiHrwUS2dtP1XF14suriSfHURkUEyzfjY0c3GKcroQckOuw7UC7MUGYniHqoh4uCqNMRGE0ww1/uOgkZSE4g6KlCmlJgeUQHnqSNfTVnKRxeKnuwN7KIuBAFs78wxjmVokTGSKeNKdFEFaqXIx0AEz5YCOyuwYpmYh7ztloacKJsoSWei+TiQoFXgdzQOEueKt+co/1IxoqiFNZHHc0T23ooEdA6wBP0ChDKa0fSV94bxAC0rEd3y+Agd4dzzzLiuWs5PbFW/Kw==;Q1gwV57fHdK4rsRDiN5w1w=="

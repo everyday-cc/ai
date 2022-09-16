@@ -26,6 +26,17 @@ images:
     height: 360
     isCached: true
 
+related:
+  - title: "There’s no driving test for self-driving cars in the US — but there should be"
+    excerpt: "To obtain that approval, Tesla must convincingly demonstrate that cars with FSD are at least as safe as those without it. At least so far, it hasn’t. Unlike their European peers, American car regulators do not require — or even offer — any kind of safety preapproval for a new car model or technology."
+    publishedDateTime: 2022-09-12T13:00:00Z
+    webUrl: "https://www.theverge.com/2022/9/12/23339219/us-auto-regulation-type-approval-self-certification-av-tesla"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 31
+
 secured: "rPJOOdliywfocKUeDkPDCwDtSAvJ7mMPRBaOZu6GKbqqZIUy0lIqaYgMuuuyfn2j2S4koVawcLfukxTloUlvEkYv+m8kZe7QJe51RZQmqmIyF0gJCjn9ja4SqNYKA8coNvHUeJkh2udn82aik7gbn4nFnMPxPTuuKwG+3fRJe6JL7QnghS86eEgLb/mWINgq1FSLTxFdqI2GiCf6t9ZjWsIvuJkFTxLHRaJ4Bz1IOp45pkszm8c9E9taSM9j9RSzSs/8V+jzPss6TZ/PNpr3mFhN8snz2+mhee4yLM1K0vmmPaME1pRN2P8W1m709aQUstKGD8PlfgTnfocPWMqounhfRbNofdNoWU94m+7pXy2vb6xTUQJSjOMV1OTcgbn7cj5ulvyB3Y4tCkxx+3M8Mhc+tiGPbmpAiDbcIyEjYfUaY0Pzxoh+w0Y2VjqrtZdPkNoeJ/VSflpVmkR4CskkgZRk3Ay+/vG/yCvD6bLhJfW2DzswR9YT4XKUy5Ut6t266wetqQtQMf5NUF88OrmNBg==;7GfZuzOmW4vR8Od+GG8jXQ=="
 ---
 

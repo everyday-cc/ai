@@ -42,15 +42,6 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 20
-  - title: "Global AI Summit RIYADH 2022"
-    excerpt: "The theme of the summit is“AI for the Good of Humanity”, and the plenary session, along with moderated discussions, will focus on discussing AI Now, AI Next, and AI Never. These topics focus on identifying and unifying world perspectives on AI implementation and fair use to build a robust AI framework that can solve the world's future challenges – from global energy demands and decarbonization to equitable access to healthcare and potential disease eradication."
-    publishedDateTime: 2022-09-11T13:00:00Z
-    webUrl: "https://menafn.com/1104845131/Global-AI-Summit-RIYADH-2022"
-    type: article
-    provider:
-      name: MENAFN
-      domain: menafn.com
-    quality: 19
   - title: "Under patronage of HRH Crown Prince, 2nd Global AI Summit Kicks off in Riyadh with Participation of 10,000 People, 200 Speakers from 90 Countries"
     excerpt: "Under patronage of HRH Crown Prince, 2nd Global AI Summit Kicks off in Riyadh with Participation of 10,000 People, 200 Speakers from 90 Countries; Saudi Tourism Authority and Unio"
     publishedDateTime: 2022-09-13T12:03:00Z
