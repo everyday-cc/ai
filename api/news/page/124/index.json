@@ -2,6 +2,59 @@
   "page": 124,
   "value": [
     {
+      "path": "_news/2022-06-08-investing-in-ai-stocks.md",
+      "title": "Investing in AI Stocks",
+      "excerpt": "Artificial intelligence (AI), including its offshoots ... including its autonomous vehicle start-up Waymo. It also owns DeepMind, a deep learning platform that can diagnose eye diseases, predict ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
+      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.foolcdn.com/media/dubs/images/3-depiction_of_cloud_computing_connections.width-400.jpg",
+          "width": 400,
+          "height": 239,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-08T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-06-08-ai-in-fintech-market-to-be-worth-4116-billion-by-2030-grand-view-research-inc.md",
       "title": "AI In Fintech Market to be Worth $41.16 Billion by 2030: Grand View Research, Inc.",
       "excerpt": "The global artificial intelligence in fintech market size is expected to reach USD 41.16 billion by 2030, growing at a CAGR of 16.5% from",
@@ -1055,50 +1108,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-trai-looking-at-ai-machine-learning-to-curb-pesky-communications.md",
-      "title": "Trai looking at AI, machine learning to curb pesky communications",
-      "excerpt": "The Telecom Regulatory Authority of India (Trai) is looking at utilising technologies like artificial intelligence (AI) and machine learning (ML) to tackle the menace of spam communications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/industry/trai-looking-at-ai-machine-learning-to-curb-pesky-communications/2552112/",
-      "originalUrl": "https://www.financialexpress.com/industry/trai-looking-at-ai-machine-learning-to-curb-pesky-communications/2552112/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/06/1-148.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/industry/trai-looking-at-ai-machine-learning-to-curb-pesky-communications/2552112/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/trai-looking-at-ai-machine-learning-to-curb-pesky-communications/2552112/lite/",
-      "publishedDateTime": "2022-06-07T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

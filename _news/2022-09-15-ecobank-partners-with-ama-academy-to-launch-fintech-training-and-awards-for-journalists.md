@@ -19,6 +19,36 @@ topics:
   - AI
 
 related:
+  - title: "Ecobank partners with AMA Academy to launch fintech training for journalists"
+    excerpt: "Ecobank Group has announced a partnership with AMA Academy, the only free-to-use pan-African online learning platform dedicated to upskilling journalists in Africa."
+    publishedDateTime: 2022-09-16T07:11:00Z
+    webUrl: "https://hapakenya.com/2022/09/16/ecobank-partners-with-ama-academy-to-launch-fintech-training-for-journalists/"
+    type: article
+    provider:
+      name: hapakenya.com
+      domain: hapakenya.com
+    quality: 51
+    images:
+      - url: "https://hapakenya.com/wp-content/uploads/2014/04/Ecobank.jpg"
+        width: 640
+        height: 278
+        isCached: true
+  - title: "Khaleej Times DigiBank Forum to showcase transformational ideas in banking, fintech industries"
+    excerpt: "Event will provide in-depth view of Bank as a Service, global strategy in digital banking, video and voice banking, contactless payments"
+    publishedDateTime: 2022-09-13T16:11:00Z
+    webUrl: "https://www.khaleejtimes.com/banking-in-uae/khaleej-times-digibank-forum-to-showcase-transformational-ideas-in-banking-fintech-industries"
+    ampWebUrl: "https://www.khaleejtimes.com/banking-in-uae/khaleej-times-digibank-forum-to-showcase-transformational-ideas-in-banking-fintech-industries?amp=1"
+    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/banking-in-uae/khaleej-times-digibank-forum-to-showcase-transformational-ideas-in-banking-fintech-industries?amp=1"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 47
+    images:
+      - url: "https://image.khaleejtimes.com?uuid=a0f46d37-c530-5922-a9f3-9a1d22e92882&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84375&x=0&y=0&width=1200&height=675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Ecobank launches pan-African fintech training, awards for journalists"
     excerpt: "Ecobank Group, the leading Pan-African banking Group, today announced a partnership with AMA Academy, which is the only free-to-use pan-African online learning platform dedicated to upskilling journalists in Africa."
     publishedDateTime: 2022-09-15T12:14:00Z
@@ -28,6 +58,29 @@ related:
       name: newbusinessethiopia.com
       domain: newbusinessethiopia.com
     quality: 34
+  - title: "2022 Swiss Fintech Awards Winners Share Updates, Ambitions"
+    excerpt: "Stableton Financial and DeepJudge, two of the winners of this year’s Swiss Fintech Awards, have been reaping the fruits of the publicity accompanying the renowned startup competition, using the new-found exposure as an opportunity to expand to new verticals,"
+    publishedDateTime: 2022-09-13T09:55:00Z
+    webUrl: "https://fintechnews.ch/fintech/2022-swiss-fintech-awards-winners-share-updates-ambitions/54904/"
+    type: article
+    provider:
+      name: fintechnews.ch
+      domain: fintechnews.ch
+    quality: 24
+    images:
+      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/08/Reuters-Future-of-Insurance-Europe-2022.png?x30842"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "AML Solutions Concerns for Challenger Banks and Fintech Firms"
+    excerpt: "Financial crime is a problem so oppressive, and global, that regulators are really cracking down, even on newer businesses such as challenger banks and fintech firms. Monzo, for example, is currently being investigated by the FCA for AML breaches and last year N26,"
+    publishedDateTime: 2022-09-15T15:58:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/sbwire-2022-9-15-aml-solutions-concerns-for-challenger-banks-and-fintech-firms"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 19
   - title: "Ecobank Partners with AMA Academy to Launch First Pan-African Fintech Training and Awards for Journalists"
     excerpt: "Ecobank Partners with AMA Academy to Launch First Pan-African Fintech Training and Awards for Journalists  - The Maravi Post"
     publishedDateTime: 2022-09-15T10:59:00Z
@@ -37,6 +90,15 @@ related:
       name: The Maravi Post
       domain: maravipost.com
     quality: 17
+  - title: "Khaleej Times Digibank Forum To Showcase Transformational Ideas In Banking, Fintech Industries"
+    excerpt: "Khaleej Times is set to host the third edition of DigiBank 2022 – The Banking Transformation Forum. Supported by the UAE Banks Federation, the ev"
+    publishedDateTime: 2022-09-13T19:58:00Z
+    webUrl: "https://menafn.com/1104858994/Khaleej-Times-Digibank-Forum-To-Showcase-Transformational-Ideas-In-Banking-Fintech-Industries"
+    type: article
+    provider:
+      name: MENAFN
+      domain: menafn.com
+    quality: 7
 
 secured: "IrVfixzVLqEKShGJIdSDWMElQuW4G6KQqLplemCbsD5Ij2Xl5+Q+7AF8WmKz1S6EXOhZ02Gqfs3nCA+oNzhruYsn03wJi3TEpYPCltBP/PIar8j/4ufWYVx8ic2tzxR8OoYmF1M6Dpq425es0Q4PsfGa41/RNHlQaFW5ZrqxCe1gt7NXLuUQ7TgfH0WnhZY2A/j0LdLKjKpUvoNwhAgdMIabP2I+sUMT4d0fbgZ6XrefRVQt9oZeTDoMNIJYkrLPPtgWuifBStTsMAjBXDuEBoJ8ewJGfYtITKYuSDTLb/lQD208mJqE0+h69J7aCj+OSGZpVauVghq56gKCiK3V9Bs30TIcSMDSeDGJVvnw0Ih9v9/C38AZd/++bgIr3dJfypIRWEWjm5AVg4eYrwJU52GHRQTvTJHrQYyniHwojqJT4SYCr1Eg7NGK/LMZ4R/j1x8l5k19CMjmq9W29jIW9z2TkJJnEurcrNamxc1c3Wu7bmAQTad2gxc6nuZCIF8zcywnP8A4snnBOoBiks0bHQ==;MWaeTjiaOzMvLmvA3VA4jQ=="
 ---

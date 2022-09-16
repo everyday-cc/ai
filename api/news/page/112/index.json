@@ -2,6 +2,50 @@
   "page": 112,
   "value": [
     {
+      "path": "_news/2022-06-16-artificial-intelligence-for-ai-to-work-data-use-must-be-right.md",
+      "title": "Artificial Intelligence: For AI to work, data use must be right",
+      "excerpt": "IT professionals in the financial services, media, energy, automotive, oil, and aerospace industries are most likely to report active deployment of AI by their company, while organisations in industries like retail, travel, healthcare and government ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/industry/technology/artificial-intelligence-for-ai-to-work-data-use-must-be-right/2562056/",
+      "originalUrl": "https://www.financialexpress.com/industry/technology/artificial-intelligence-for-ai-to-work-data-use-must-be-right/2562056/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/06/1-415.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/industry/technology/artificial-intelligence-for-ai-to-work-data-use-must-be-right/2562056/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/artificial-intelligence-for-ai-to-work-data-use-must-be-right/2562056/lite/",
+      "publishedDateTime": "2022-06-15T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-prepare-data-faster-with-pyspark-and-altair-code-snippets-in-amazon-sagemaker-data-wrangler.md",
       "title": "Prepare data faster with PySpark and Altair code snippets in Amazon SageMaker Data Wrangler",
       "excerpt": "Amazon SageMaker Data Wrangler is a purpose-built data aggregation and preparation tool for machine learning (ML). It allows you to use a visual interface to access data and perform exploratory data analysis (EDA) and feature engineering. The EDA feature comes with built-in data analysis capabilities",
@@ -1094,57 +1138,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-is-ai-the-future-of-audit-or-all-hype.md",
-      "title": "Is AI The Future Of Audit Or All Hype?",
-      "excerpt": "Artificial intelligence is billed as the future of everything—a magical panacea to all of the world’s challenges, heralding a utopian future where algorithms will know exactly what’s required and when.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/15/is-ai-the-future-of-audit-or-all-hype/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/15/is-ai-the-future-of-audit-or-all-hype/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62a884dd069425f7520e32b5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/15/is-ai-the-future-of-audit-or-all-hype/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/15/is-ai-the-future-of-audit-or-all-hype/amp/",
-      "publishedDateTime": "2022-06-15T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

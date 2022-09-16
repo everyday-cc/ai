@@ -2,6 +2,49 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2022-08-11-for-fun-not-phishing-is-why-most-users-change-their-voice-identity-online.md",
+      "title": "For Fun, Not Phishing, Is Why Most Users Change Their Voice Identity Online",
+      "excerpt": "In a world where the transparency of online communications is touted as a virtue, you might question the motives of people using voice-changing technology tools. Is it for mischief or malice? While cynics may assume that voice tech is only associated with basement hackers and scam artists,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-spain-phishing-c89293d42bf144cd969a7479ed1166e0",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-spain-phishing-c89293d42bf144cd969a7479ed1166e0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-11T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-11-teslas-self-driving-techs-failure-to-detect-kids-on-road-sparks-row.md",
       "title": "Tesla's self-driving tech's 'failure' to detect kids on road sparks row",
       "excerpt": "The Guardian reported that a professional test driver found that the FSD software \"failed to detect the child-sized figure at an average speed of 25mph and the car then hit the mannequin\". Now, Electrek reports that there was a real problem with the test,",
@@ -1162,59 +1205,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-ai-and-computer-vision-powers-growing-shop-and-go-platform.md",
-      "title": "AI and computer vision powers growing shop-and-go platform",
-      "excerpt": "AiFi, which is powered only by cameras and computer vision, announced today that it now boasts a total of 80 checkout-free stores worldwide.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-and-computer-vision-shop-and-go-retail-platform-expands/",
-      "originalUrl": "https://venturebeat.com/ai/ai-and-computer-vision-shop-and-go-retail-platform-expands/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/Loop-Union-City-3-min-1024x683-1.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-and-computer-vision-shop-and-go-retail-platform-expands/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-and-computer-vision-shop-and-go-retail-platform-expands/amp/",
-      "publishedDateTime": "2022-08-10T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

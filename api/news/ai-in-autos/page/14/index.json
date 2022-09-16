@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-06-20-the-chinese-tech-firms-pushing-boundaries-of-artificial-intelligence.md",
+      "title": "The Chinese Tech Firms Pushing Boundaries Of Artificial Intelligence",
+      "excerpt": "It is Baidu’s driverless car projects that could ... According to the Boston Consulting Group, the global market for vehicles with self-driving functions could reach as much as $77 billion ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ywang/2017/04/10/the-chinese-tech-firms-pushing-boundaries-of-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/ywang/2017/04/10/the-chinese-tech-firms-pushing-boundaries-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/7acf6ec909f2da11af9f0014c2589dfb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ywang/2017/04/10/the-chinese-tech-firms-pushing-boundaries-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ywang/2017/04/10/the-chinese-tech-firms-pushing-boundaries-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-06-19T22:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-20-artificial-intelligence-may-diagnose-dementia-as-accurately-as-clinicians.md",
       "title": "Artificial intelligence may diagnose dementia as accurately as clinicians",
       "excerpt": "June 20 (UPI) --To solve the conundrum of how to get timely medical care to people with memory loss or other impaired cognitive functioning, a new study suggests that artificial intelligence may ...",
@@ -1262,49 +1314,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-explained-and-tested-teslas-self-driving-autopilot.md",
-      "title": "Explained and tested: Tesla’s ‘self-driving’ Autopilot",
-      "excerpt": "Today, Tesla’s rise, both in output and share price, is meteoric. So much so that in March 2022 the Model Y and Model 3 were respectively the best and second best selling cars in the UK. Read any review of a Tesla (including our own) and two big reasons for buying or leasing one will rear their heads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.carmagazine.co.uk/autonomous/tesla-self-driving/",
-      "originalUrl": "https://www.carmagazine.co.uk/autonomous/tesla-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://car-images.bauersecure.com/wp-images/151851/teslaselfdriving_01.jpg",
-          "width": 1800,
-          "height": 1013,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carmagazine.co.uk/amp/autonomous/tesla-self-driving/",
-      "cdnAmpWebUrl": "https://www-carmagazine-co-uk.cdn.ampproject.org/c/s/www.carmagazine.co.uk/amp/autonomous/tesla-self-driving/",
-      "publishedDateTime": "2022-06-14T16:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CAR Magazine",
-        "domain": "carmagazine.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-09-16-winnai-goes-out-of-stealth-and-secures-17-million-seed-funding-for-real-time-ai-sales-assistant.md",
-      "title": "Winn.AI Goes Out Of Stealth and secures $17 Million Seed Funding for Real-Time AI Sales Assistant",
-      "excerpt": "The real-time AI assistant is touted to help sales teams save time on busywork and win more deals.  August 27, 2022 –  Israeli sales tech start-up, Winn.AI, announced that it has raised $17 million in seed funding from global software investor Insight Partners and Israeli venture capital firm S-Capital.",
+      "path": "_news/2022-09-16-rephraseai-raises-106-million-in-series-a-funding.md",
+      "title": "Rephrase.ai Raises $10.6 Million In Series A Funding",
+      "excerpt": "This fund raised will allow the company to enhance its capabilities by integrating product experiences, scaling hiring across the business, including within the engineering, AI, product, sales, and marketing teams,",
       "sourceUrl": null,
-      "webUrl": "https://techbullion.com/winn-ai-goes-out-of-stealth-and-secures-17-million-seed-funding-for-real-time-ai-sales-assistant/",
-      "originalUrl": "https://techbullion.com/winn-ai-goes-out-of-stealth-and-secures-17-million-seed-funding-for-real-time-ai-sales-assistant/",
+      "webUrl": "https://www.entrepreneur.com/en-in/news-and-trends/rephraseai-raises-106-million-in-series-a-funding/435460",
+      "originalUrl": "https://www.entrepreneur.com/en-in/news-and-trends/rephraseai-raises-106-million-in-series-a-funding/435460",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 137,
       "tags": null,
       "images": [
         {
-          "url": "https://techbullion.com/wp-content/uploads/2022/09/Winn.jpg",
-          "width": 700,
-          "height": 400,
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1663313917-Untitleddesign89.jpg",
+          "width": 2000,
+          "height": 1333,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,64 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techbullion.com/winn-ai-goes-out-of-stealth-and-secures-17-million-seed-funding-for-real-time-ai-sales-assistant/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/winn-ai-goes-out-of-stealth-and-secures-17-million-seed-funding-for-real-time-ai-sales-assistant/amp/",
-      "publishedDateTime": "2022-09-15T18:38:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-16T00:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-ecobank-partners-with-ama-academy-to-launch-fintech-training-for-journalists.md",
+      "title": "Ecobank partners with AMA Academy to launch fintech training for journalists",
+      "excerpt": "Ecobank Group has announced a partnership with AMA Academy, the only free-to-use pan-African online learning platform dedicated to upskilling journalists in Africa.",
+      "sourceUrl": null,
+      "webUrl": "https://hapakenya.com/2022/09/16/ecobank-partners-with-ama-academy-to-launch-fintech-training-for-journalists/",
+      "originalUrl": "https://hapakenya.com/2022/09/16/ecobank-partners-with-ama-academy-to-launch-fintech-training-for-journalists/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hapakenya.com/wp-content/uploads/2014/04/Ecobank.jpg",
+          "width": 640,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-16T00:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "hapakenya.com",
+        "domain": "hapakenya.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,8 +91,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Sales"
+        "AI in Finance",
+        "AI"
       ]
     },
     {
@@ -1165,62 +1216,6 @@
         "AI Hardware",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-10-years-later-deep-learning-revolution-rages-on-say-ai-pioneers-hinton-lecun-and-li.md",
-      "title": "10 years later, deep learning ‘revolution’ rages on, say AI pioneers Hinton, LeCun and Li",
-      "excerpt": "On the 10th anniversary of key research that led to deep learning breakthroughs, AI luminaries say the 'revolution' will continue.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/10-years-on-ai-pioneers-hinton-lecun-li-say-deep-learning-revolution-will-continue/",
-      "originalUrl": "https://venturebeat.com/ai/10-years-on-ai-pioneers-hinton-lecun-li-say-deep-learning-revolution-will-continue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1004013312.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/10-years-on-ai-pioneers-hinton-lecun-li-say-deep-learning-revolution-will-continue/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/10-years-on-ai-pioneers-hinton-lecun-li-say-deep-learning-revolution-will-continue/amp/",
-      "publishedDateTime": "2022-09-14T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing",
-        "AI Ethics",
-        "Computer Vision"
       ]
     }
   ],

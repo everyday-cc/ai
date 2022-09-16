@@ -19,29 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "2022 Swiss Fintech Awards Winners Share Updates, Ambitions"
-    excerpt: "Stableton Financial and DeepJudge, two of the winners of this year’s Swiss Fintech Awards, have been reaping the fruits of the publicity accompanying the renowned startup competition, using the new-found exposure as an opportunity to expand to new verticals,"
-    publishedDateTime: 2022-09-13T09:55:00Z
-    webUrl: "https://fintechnews.ch/fintech/2022-swiss-fintech-awards-winners-share-updates-ambitions/54904/"
-    type: article
-    provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/08/Reuters-Future-of-Insurance-Europe-2022.png?x30842"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "AML Solutions Concerns for Challenger Banks and Fintech Firms"
-    excerpt: "Financial crime is a problem so oppressive, and global, that regulators are really cracking down, even on newer businesses such as challenger banks and fintech firms. Monzo, for example, is currently being investigated by the FCA for AML breaches and last year N26,"
-    publishedDateTime: 2022-09-15T15:58:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/sbwire-2022-9-15-aml-solutions-concerns-for-challenger-banks-and-fintech-firms"
-    type: article
-    provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 19
   - title: "QFIL Solutions shortlisted for Entrepreneur Middle East’s Leaders in Fintech Awards 2022"
     excerpt: "The annual award scheme highlights individuals and enterprises that are shaping the future of the Fintech Industry within the region"
     publishedDateTime: 2022-09-13T09:39:00Z
@@ -56,15 +33,15 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Fintech Ecosystem Development Corp. Announces Two Fintech Acquisitions"
-    excerpt: "COLLEGEVILLE, PA, POMPANO BEACH, FL and SHARJAH, U.A.E. / ACCESSWIRE / September 12, 2022 / Rana Financial, Inc. (\"Rana\") a Georgia corporation, Mobitech International LLC (\"Afinoz\") a limited liabili"
-    publishedDateTime: 2022-09-12T12:10:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-09/57033170-fintech-ecosystem-development-corp-announces-two-fintech-acquisitions-200.htm"
+  - title: "CCC Intelligent Solutions Recognized in Prestigious IDC FinTech Rankings Real Results"
+    excerpt: "Debuting at #47 out of 100 financial technology providers, CCC joins the prestigious IDC FinTech Rankings Real Results list, which categorizes and evaluates the top global providers of financial technology based on calendar year revenues from financial institutions for hardware,"
+    publishedDateTime: 2022-09-13T16:25:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ccc-intelligent-solutions-recognized-prestigious-idc-fintech-rankings-/2022/09/13/9672697.htm"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 4
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
   - title: "CCC Intelligent Solutions Wins 2022 IDC FinTech Rankings Real Results Award for CCC® Safekeep"
     excerpt: "The AI-Powered Subrogation Platform Recognized for its Work with Root Insurance CCC Intelligent Solutions Inc. (CCC), a leading SaaS platform powering the P&C insurance economy, announced today it is"
     publishedDateTime: 2022-09-13T15:00:00Z

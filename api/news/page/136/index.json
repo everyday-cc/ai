@@ -2,6 +2,49 @@
   "page": 136,
   "value": [
     {
+      "path": "_news/2022-05-31-one-ai-raises-8m-usd-to-simplify-natural-language-processing-projects.md",
+      "title": "One AI Raises 8M USD to simplify natural language processing projects",
+      "excerpt": "One AI Inc., a startup that helps firms add natural language processing functionality to their apps, has emerged from stealth mode",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/one-ai-raises-8m-usd-to-simplify-natural-language-processing-projects/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/one-ai-raises-8m-usd-to-simplify-natural-language-processing-projects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/05/One-AI-Raises-8M-USD-to-simplify-natural-language-processing-projects.png",
+          "width": 1945,
+          "height": 1112,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/one-ai-raises-8m-usd-to-simplify-natural-language-processing-projects/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/one-ai-raises-8m-usd-to-simplify-natural-language-processing-projects/amp/",
+      "publishedDateTime": "2022-05-31T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-31-how-healthcare-can-employ-robotics-to-address-patient-immobility.md",
       "title": "How Healthcare Can Employ Robotics To Address Patient Immobility",
       "excerpt": "AI and robotics in healthcare are proving to be instrumental in assisting officials detect diseases and abnormalities in time. Robotics is a boundless field of which a subset consists of physically-assistive robots that can help an immobile patient move.",
@@ -1041,40 +1084,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-signal-detection-theory-may-serve-as-a-novel-tool-to-understand-cognitive-fatigue-in-ms-patients.md",
-      "title": "Signal detection theory may serve as a novel tool to understand cognitive fatigue in MS patients",
-      "excerpt": "These findings were reported in Frontiers in Behavioral Neuroscience on March 16, 2022, in the open access article \"Signal Detection Theory as a Novel Tool to Understand Cognitive Fatigue in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220531/Signal-detection-theory-may-serve-as-a-novel-tool-to-understand-cognitive-fatigue-in-MS-patients.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220531/Signal-detection-theory-may-serve-as-a-novel-tool-to-understand-cognitive-fatigue-in-MS-patients.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

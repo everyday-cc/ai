@@ -7,7 +7,7 @@ originalUrl: "https://fintechnews.ch/fintech/2022-swiss-fintech-awards-winners-s
 webUrl: "https://fintechnews.ch/fintech/2022-swiss-fintech-awards-winners-share-updates-ambitions/54904/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,54 @@ images:
     isCached: true
 
 related:
+  - title: "Ecobank partners with AMA Academy to launch fintech training for journalists"
+    excerpt: "Ecobank Group has announced a partnership with AMA Academy, the only free-to-use pan-African online learning platform dedicated to upskilling journalists in Africa."
+    publishedDateTime: 2022-09-16T07:11:00Z
+    webUrl: "https://hapakenya.com/2022/09/16/ecobank-partners-with-ama-academy-to-launch-fintech-training-for-journalists/"
+    type: article
+    provider:
+      name: hapakenya.com
+      domain: hapakenya.com
+    quality: 51
+    images:
+      - url: "https://hapakenya.com/wp-content/uploads/2014/04/Ecobank.jpg"
+        width: 640
+        height: 278
+        isCached: true
+  - title: "Khaleej Times DigiBank Forum to showcase transformational ideas in banking, fintech industries"
+    excerpt: "Event will provide in-depth view of Bank as a Service, global strategy in digital banking, video and voice banking, contactless payments"
+    publishedDateTime: 2022-09-13T16:11:00Z
+    webUrl: "https://www.khaleejtimes.com/banking-in-uae/khaleej-times-digibank-forum-to-showcase-transformational-ideas-in-banking-fintech-industries"
+    ampWebUrl: "https://www.khaleejtimes.com/banking-in-uae/khaleej-times-digibank-forum-to-showcase-transformational-ideas-in-banking-fintech-industries?amp=1"
+    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/banking-in-uae/khaleej-times-digibank-forum-to-showcase-transformational-ideas-in-banking-fintech-industries?amp=1"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 47
+    images:
+      - url: "https://image.khaleejtimes.com?uuid=a0f46d37-c530-5922-a9f3-9a1d22e92882&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84375&x=0&y=0&width=1200&height=675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Ecobank launches pan-African fintech training, awards for journalists"
+    excerpt: "Ecobank Group, the leading Pan-African banking Group, today announced a partnership with AMA Academy, which is the only free-to-use pan-African online learning platform dedicated to upskilling journalists in Africa."
+    publishedDateTime: 2022-09-15T12:14:00Z
+    webUrl: "https://newbusinessethiopia.com/finance/ecobank-launches-pan-african-fintech-training-awards-for-journalists/"
+    type: article
+    provider:
+      name: newbusinessethiopia.com
+      domain: newbusinessethiopia.com
+    quality: 34
+  - title: "Ecobank partners with AMA Academy to launch fintech training and awards for journalists"
+    excerpt: "Ecobank Group, the leading pan-African banking group, has announced its partnership with AMA Academy, which is the only free-to-use pan-African online learning platform that is dedicated to upskilling journalists in Africa."
+    publishedDateTime: 2022-09-15T06:30:00Z
+    webUrl: "https://mediaupdate.co.za/media/152645/ecobank-partners-with-ama-academy-to-launch-fintech-training-and-awards-for-journalists"
+    type: article
+    provider:
+      name: Media Update
+      domain: mediaupdate.co.za
+    quality: 26
   - title: "AML Solutions Concerns for Challenger Banks and Fintech Firms"
     excerpt: "Financial crime is a problem so oppressive, and global, that regulators are really cracking down, even on newer businesses such as challenger banks and fintech firms. Monzo, for example, is currently being investigated by the FCA for AML breaches and last year N26,"
     publishedDateTime: 2022-09-15T15:58:00Z
@@ -34,47 +82,24 @@ related:
       name: The Buffalo News
       domain: buffalonews.com
     quality: 19
-  - title: "QFIL Solutions shortlisted for Entrepreneur Middle East’s Leaders in Fintech Awards 2022"
-    excerpt: "The annual award scheme highlights individuals and enterprises that are shaping the future of the Fintech Industry within the region"
-    publishedDateTime: 2022-09-13T09:39:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/qfil-solutions-shortlisted-for-entrepreneur-middle-easts-leaders-in-fintech-awards-2022-yygpa4m5"
+  - title: "Ecobank Partners with AMA Academy to Launch First Pan-African Fintech Training and Awards for Journalists"
+    excerpt: "Ecobank Partners with AMA Academy to Launch First Pan-African Fintech Training and Awards for Journalists  - The Maravi Post"
+    publishedDateTime: 2022-09-15T10:59:00Z
+    webUrl: "https://www.maravipost.com/ecobank-partners-with-ama-academy-to-launch-first-pan-african-fintech-training-and-awards-for-journalists/"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 15
-    images:
-      - url: "https://static.zawya.com/version/c:NmMyZGIyYmEtODk4NC00:NGIxZTFk/img_7853-1-jpg.JPG?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Fintech Ecosystem Development Corp. Announces Two Fintech Acquisitions"
-    excerpt: "COLLEGEVILLE, PA, POMPANO BEACH, FL and SHARJAH, U.A.E. / ACCESSWIRE / September 12, 2022 / Rana Financial, Inc. (\"Rana\") a Georgia corporation, Mobitech International LLC (\"Afinoz\") a limited liabili"
-    publishedDateTime: 2022-09-12T12:10:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-09/57033170-fintech-ecosystem-development-corp-announces-two-fintech-acquisitions-200.htm"
+      name: The Maravi Post
+      domain: maravipost.com
+    quality: 17
+  - title: "Khaleej Times Digibank Forum To Showcase Transformational Ideas In Banking, Fintech Industries"
+    excerpt: "Khaleej Times is set to host the third edition of DigiBank 2022 – The Banking Transformation Forum. Supported by the UAE Banks Federation, the ev"
+    publishedDateTime: 2022-09-13T19:58:00Z
+    webUrl: "https://menafn.com/1104858994/Khaleej-Times-Digibank-Forum-To-Showcase-Transformational-Ideas-In-Banking-Fintech-Industries"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 4
-  - title: "CCC Intelligent Solutions Wins 2022 IDC FinTech Rankings Real Results Award for CCC® Safekeep"
-    excerpt: "The AI-Powered Subrogation Platform Recognized for its Work with Root Insurance CCC Intelligent Solutions Inc. (CCC), a leading SaaS platform powering the P&C insurance economy, announced today it is"
-    publishedDateTime: 2022-09-13T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/b28850758/ccc-intelligent-solutions-wins-2022-idc-fintech-rankings-real-results-award-for-ccc-safekeep"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
-  - title: "CCC Intelligent Solutions Wins 2022 IDC FinTech Rankings Real Results Award for CCC® Safekeep"
-    excerpt: "CCC Intelligent Solutions Inc., a leading SaaS platform powering the P&C insurance economy, announced Sept. 13 it is a winner of the 2022 IDC FinTech Rankings Real Results Award, which recognizes tech providers that have enabled a genuine,"
-    publishedDateTime: 2022-09-14T19:46:00Z
-    webUrl: "https://www.autobodynews.com/index.php/industry-news/item/27107-ccc-intelligent-solutions-wins-2022-idc-fintech-rankings-real-results-award-for-ccc-safekeep.html"
-    type: article
-    provider:
-      name: autobodynews
-      domain: autobodynews.com
-    quality: 0
+      name: MENAFN
+      domain: menafn.com
+    quality: 7
 
 secured: "H0P+neSgL9Q7oS6MB4wfD7NHp1AvfcDs5pMHUe8k+xV+sT151xZebkYgXYONJ2PaYWEP2pkv1CE/86PNLOXEWdhWXtagYZLVOTp6dNELXr+EhzX4JoYtOHzLvh9VINojdnhXkNoLUZcHTolM117QBZAzJkeS87f5IXehtueFhRUFGYZUOZTsRDkd2701VN/mkzGEF1fA9loC0JpPD7OrDUmI6n2pWbCza/suqd87p1/DSYnH9FhbzO2F6r7eQZwhLqf4yz7vqWGX0vHjmIPh/ZDJNGz3JC0q34RMrxNGpcnibsrh7P3NIm0+3ZVVmx8kkbk+XqGUXFMJ3Oqy1tUAzEl4n+hWmRjX2FdxtjXJFy8eSnky9m4DCa4qlEsFsCy2bqJT2TS4bdhdX6LEzjyzQ/GydFVxuINqmQoV0yKz6QBLA8psM2QoMxnTZ78AvyvqsHllJmiRUUepWRjGKN9TvVdfdK1j6AmkzyfsE819/5Q/riXxHgcNfVZ1mwCCR2dJFXbrvVxIG/MQjskSd425/Q==;ZfYeKVS+mjsXc/IULQbZ/w=="
 ---

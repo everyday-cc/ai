@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-09-06-al-meera-consumer-goods-embarks-on-digital-transformation-journey.md",
+      "title": "Al Meera Consumer Goods embarks on digital transformation journey",
+      "excerpt": "Qatar’s largest retail network, Al Meera Consumer Goods, has signed a partnership agreement with global technology company SAP SE (NYSE: SAP) and implementation partner Tata Consultancy Services (TCS) to deliver cloud computing solutions that will facilitate its expansion plans,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/al-meera-consumer-goods-embarks-on-digital-transformation-journey-b4x1y2yr",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/al-meera-consumer-goods-embarks-on-digital-transformation-journey-b4x1y2yr",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/version/c:ZWM0YzU3N2YtY2Q5MC00:YjEwOGFi/img_0026-jpg.JPG?f=3%3A2",
+          "width": 898,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-06T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-06-heres-why-you-should-retain-change-healthcare-chng-stock.md",
       "title": "Here's Why You Should Retain Change Healthcare (CHNG) Stock",
       "excerpt": "Change Healthcare — with a market capitalization of $8.14 billion — is an independent healthcare technology platform offering data and analytics-driven solutions to boost clinical financial and patient engagement outcomes in the United States.",
@@ -1069,40 +1112,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-labour-forces-robots-ai-gaining-more-traction-in-the-workforce.md",
-      "title": "Labour forces: Robots, AI gaining more traction in the workforce",
-      "excerpt": "Since mid-2021, when Happy Lamb Hot Pot became the first restaurant in the province to start using GreenCo Robots ... heat and rain. As robots evolve and scientists use artificial intelligence (AI) to make them more sophisticated, their ability to work ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.burnabynow.com/highlights/labour-forces-robots-ai-gaining-more-traction-in-the-workforce-5775641",
-      "originalUrl": "https://www.burnabynow.com/highlights/labour-forces-robots-ai-gaining-more-traction-in-the-workforce-5775641",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-05T11:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Burnaby Now",
-        "domain": "burnabynow.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

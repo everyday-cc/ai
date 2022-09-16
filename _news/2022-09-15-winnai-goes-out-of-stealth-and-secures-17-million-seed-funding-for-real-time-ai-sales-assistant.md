@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Rephrase.ai Raises $10.6 Million In Series A Funding"
+    excerpt: "This fund raised will allow the company to enhance its capabilities by integrating product experiences, scaling hiring across the business, including within the engineering, AI, product, sales, and marketing teams,"
+    publishedDateTime: 2022-09-16T07:38:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/rephraseai-raises-106-million-in-series-a-funding/435460"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1663313917-Untitleddesign89.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Winn.AI Goes Out Of Stealth and secures $17 Million Seed Funding for Real-Time AI Sales Assistant"
     excerpt: "The real-time AI assistant is touted to help sales teams save time on busywork and win more deals.  August 27, 2022 –  Israeli sales tech start-up, Winn.AI, announced that it has raised $17 million in seed funding from global software investor Insight Partners and Israeli venture capital firm S-Capital."
     publishedDateTime: 2022-09-16T01:38:00Z
@@ -57,6 +71,59 @@ related:
         width: 1080
         height: 724
         isCached: true
+  - title: "AI solutions startup Sigmoid raises $12 million in funding from Sequoia Capital India"
+    excerpt: "Sigmoid will use the capital to evolve its market offerings, expand delivery centers and cater to new industries."
+    publishedDateTime: 2022-09-15T06:23:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/funding/ai-solutions-startup-sigmoid-raises-12-million-in-funding-from-sequoia-capital-india/articleshow/94216111.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/funding/ai-solutions-startup-sigmoid-raises-12-million-in-funding-from-sequoia-capital-india/amp_articleshow/94216111.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/ai-solutions-startup-sigmoid-raises-12-million-in-funding-from-sequoia-capital-india/amp_articleshow/94216111.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 50
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-718914,msid-94216119/ai-solutions-startup-sigmoid-raises-12-million-in-funding-from-sequoia-capital-india.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "AI startup Sigmoid raises $12 million from Sequoia Capital"
+    excerpt: "AI solutions provider Sigmoid has raised $12 million funding from Sequoia Capital India today. With the current round being a mix of primary and secondary funding, Sequoia has invested $19.3 million in Sigmoid till date."
+    publishedDateTime: 2022-09-15T13:48:00Z
+    webUrl: "https://analyticsindiamag.com/ai-startup-sigmoid-raises-12-million-from-sequoia-capital/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/09/HCL-Banner-3-1-1300x650.png"
+        width: 1300
+        height: 650
+        isCached: true
+  - title: "Video AI Startup Rephrase.ai Raises $10.6 mn in Series A Round by Red Ventures"
+    excerpt: "According to a statement, the funding round was led by Red Ventures; witnessed participation from investors like 8VC among several others, including Silver Lake, one of the leading technology investors with stakes in Red Ventures."
+    publishedDateTime: 2022-09-16T07:14:00Z
+    webUrl: "https://analyticsindiamag.com/video-ai-startup-rephrase-ai-raises-10-6-mn-in-series-a-round-by-red-ventures/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 33
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/09/rephrase.png"
+        width: 1600
+        height: 800
+        isCached: true
+  - title: "Rephrase.ai Raises $10.6M in Series A Funding"
+    excerpt: "Rephrase.ai, a San Francisco, CA-based generative AI startup that aims to humanize communication through synthetic media, raised $10.6m in Series A financing"
+    publishedDateTime: 2022-09-16T07:03:00Z
+    webUrl: "https://www.finsmes.com/2022/09/rephrase-ai-raises-10-6m-in-series-a-funding.html"
+    type: article
+    provider:
+      name: finsmes
+      domain: finsmes.com
+    quality: 17
 
 secured: "DY5kCZ01ldoqVvJgt5k90M0G8GgpCW+vNLFVX7HIWHM3EtAFN/XtW3X85+FMbfJrobr6wrlqWuY9DoiLL1QfATmgso0S2ylj127CnMtksv9VEP8kaN3eW6KlckeGmJo53+PjUsLrEH5wy7x0HjZpjNUPr6RWeH16xNKKrY/RcRsMM55rnoQSzanSKOWg5rp8qipWvOmipffsRkDHI8/2ZAwgzU0TVacI57B24Xx+8aZMKxQopqLCpYb+RXOHwpVVlXVbsa4WWGAQAFJE/0XXLc0otAGJskFeTfRNCFSA/FFcfTYrrhKtEANBAbnZAy1ZnyRQbMP5TEOjhpgmHmN8a8YHZt6gYZdE19zwiNSNuNY=;rQ6cpA2PJLj3Op/uNfUv1g=="
 ---

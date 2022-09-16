@@ -2,6 +2,49 @@
   "page": 139,
   "value": [
     {
+      "path": "_news/2022-05-27-ai-in-fintech-market-size-industry-trends-share-analysis-growth-and-forecast-2030.md",
+      "title": "AI in Fintech Market Size Industry Trends Share Analysis Growth and Forecast 2030",
+      "excerpt": "This section includes regional segmentation that accentuates the recent and future demand for AI in Fintech market across North America, Europe, Asia-Pacific, Middle East & Africa, and South America.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-size-industry-trends-share-analysis-growth-and-forecast-2030",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-size-industry-trends-share-analysis-growth-and-forecast-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/Trump-Capitol-Riots-Washington-AFP-1K-01-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-27T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-27-ids-imaging-development-systems-gmbh-unveils-block-based-editor-to-enable-users-to-create-vision-apps-without-programming-knowledge.md",
       "title": "IDS Imaging Development Systems GmbH unveils Block-based Editor to enable users to create Vision Apps without programming knowledge",
       "excerpt": "With the Block-based Editor, which is also new, users can configure their own programme sequences with AI image processing functions, such as object recognition or classification, without any programming knowledge. Users create simple sequences in a few ...",
@@ -1042,49 +1085,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-alibaba-shares-soar-over-12-on-strong-earnings.md",
-      "title": "Alibaba Shares Soar Over 12% On Strong Earnings",
-      "excerpt": "Fellow e-commerce Baidu Inc. (HK:9888) also saw its Hong Kong shares soar 14.95% to HK$133. “We do expect the second quarter to mark the bottom in growth for our companies,” Goldman Sachs ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.investing.com/news/stock-market-news/alibaba-shares-soar-over-12-over-strong-earnings-2830838",
-      "originalUrl": "https://www.investing.com/news/stock-market-news/alibaba-shares-soar-over-12-over-strong-earnings-2830838",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i-invdn-com.investing.com/news/LYNXNPEE8A0G3-ORUBS_L.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T18:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investing.com",
-        "domain": "investing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
