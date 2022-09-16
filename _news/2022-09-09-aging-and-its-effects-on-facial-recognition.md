@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://businessmirror.com.ph/wp-content/uploads/2022/09/digitallife03-091022.jpg"

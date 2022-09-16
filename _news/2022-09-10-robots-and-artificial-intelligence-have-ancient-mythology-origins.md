@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://images.ctfassets.net/cnu0m8re1exe/50eQHRhqMGHvrAcjjpcb8R/63ec61777bf72ae307833dbc8c2bd59e/shutterstock_1195373032.jpg"

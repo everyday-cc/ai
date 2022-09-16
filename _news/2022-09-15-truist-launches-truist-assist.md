@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/technology-charlotte-
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-charlotte-artificial-intelligence-3c47d97e388335e62d93c2ea7d7acd5d"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Truist Financial launches new AI-powered virtual assistant"
+    excerpt: "Truist Financial has announced the launch of a new digital virtual assistant power by AI for its mobile banking app and online platform."
+    publishedDateTime: 2022-09-16T10:41:00Z
+    webUrl: "https://www.retailbankerinternational.com/news/truist-launches-virtual-assistant/"
+    type: article
+    provider:
+      name: retailbankerinternational
+      domain: retailbankerinternational.com
+    quality: 39
+    images:
+      - url: "https://www.retailbankerinternational.com/wp-content/uploads/sites/2/2022/09/chatbot-ga1312f040_1920-1038x778.jpg"
+        width: 1038
+        height: 778
+        isCached: true
   - title: "Truist Assist platform launched for personal banking"
     excerpt: "Truist Financial Corp. launched Thursday its Truist Assist mobile banking app and online banking platform for personal banking (retail and wealth) customers."
     publishedDateTime: 2022-09-15T20:05:00Z

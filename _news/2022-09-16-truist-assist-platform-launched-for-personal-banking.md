@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Truist Financial launches new AI-powered virtual assistant"
+    excerpt: "Truist Financial has announced the launch of a new digital virtual assistant power by AI for its mobile banking app and online platform."
+    publishedDateTime: 2022-09-16T10:41:00Z
+    webUrl: "https://www.retailbankerinternational.com/news/truist-launches-virtual-assistant/"
+    type: article
+    provider:
+      name: retailbankerinternational
+      domain: retailbankerinternational.com
+    quality: 39
+    images:
+      - url: "https://www.retailbankerinternational.com/wp-content/uploads/sites/2/2022/09/chatbot-ga1312f040_1920-1038x778.jpg"
+        width: 1038
+        height: 778
+        isCached: true
   - title: "Truist launches Truist Assist"
     excerpt: "Truist Financial Corporation (NYSE: TFC), today announced the launch of Truist Assist in its mobile banking app and online banking platform for personal banking (retail and wealth) clients. This AI-enhanced virtual assistant is the bank’s latest example of its T3,"
     publishedDateTime: 2022-09-15T13:02:00Z
