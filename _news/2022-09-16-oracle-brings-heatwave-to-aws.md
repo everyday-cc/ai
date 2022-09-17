@@ -48,20 +48,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Oracle offers its MySQL HeatWave database and analytics on Amazon’s cloud"
-    excerpt: "Oracle Corp has started to offer MySQL HeatWave, its cloud database service for transactions, analytics and machine learning, on Amazon's AWS cloud, allowing customers whose data is already parked there to use the service,"
-    publishedDateTime: 2022-09-12T23:01:00Z
-    webUrl: "https://www.reuters.com/technology/oracle-offers-its-mysql-heatwave-database-analytics-amazons-cloud-2022-09-12/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 53
-    images:
-      - url: "https://www.reuters.com/resizer/auU-eGYlMXaI82GhWXiVQXOg6iA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C3KTSLO2ZRNVLMJPKCCNHB4N44.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Oracle Announces MySQL HeatWave on AWS"
     excerpt: "Oracle has announced that MySQL HeatWave is available on Amazon Web Services (AWS). MySQL HeatWave is the only service that combines OLTP, analytics, machine learning, and machine learning-based automation within a single MySQL database."
     publishedDateTime: 2022-09-13T13:50:00Z

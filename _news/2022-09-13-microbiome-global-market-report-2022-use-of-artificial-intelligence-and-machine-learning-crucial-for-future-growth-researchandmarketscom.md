@@ -53,19 +53,19 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
-  - title: "Global Artificial Intelligence Market To Reach $450 Bn In 2022"
-    excerpt: "The Artificial Intelligence (AI) market value is expected to reach nearly $450 billion this year and maintain a year-over"
-    publishedDateTime: 2022-09-17T11:54:00Z
-    webUrl: "https://menafn.com/1104880560/Global-Artificial-Intelligence-Market-To-Reach-450-Bn-In-2022"
+  - title: "Global artificial intelligence market to reach $450 bn in 2022"
+    excerpt: "The Artificial Intelligence (AI) market value is expected to reach nearly $450 billion this year and maintain a year-over-year growth rate in the next 5 years, a new report has forecast. In 2021, the global revenues for the AI market,"
+    publishedDateTime: 2022-09-17T15:39:00Z
+    webUrl: "https://www.dailypioneer.com/2022/technology/global-artificial-intelligence-market-to-reach--450-bn-in-2022.html"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: The Pioneer
+      domain: dailypioneer.com
     quality: 37
     images:
-      - url: "https://menafn.com/updates/pr/2022-09/17/I_c5b57image_story.jpg"
-        width: 400
-        height: 220
+      - url: "https://www.dailypioneer.com/uploads/2022/story/images/big/global-artificial-intelligence-market-to-reach--450-bn-in-2022-2022-09-17.jpg"
+        width: 1000
+        height: 800
         isCached: true
   - title: "Global Artificial Intelligence (AI) in Automotive and Transportation Market to Grow at 20% Through 2026"
     excerpt: "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to ResearchAndMarkets.com's offering. This market is likely to grow at a CAGR of around 20% during 2021-26."

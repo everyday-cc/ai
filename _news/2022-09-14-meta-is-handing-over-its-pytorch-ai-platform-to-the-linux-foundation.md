@@ -51,20 +51,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 88
-  - title: "Meta spins off PyTorch Foundation to make AI framework vendor neutral"
-    excerpt: "The move comes as the adoption of the PyTorch framework has become widely used across the deep learning industry to power many natural language and computer vision projects, including Tesla Autopilot."
-    publishedDateTime: 2022-09-12T21:33:00Z
-    webUrl: "https://arstechnica.com/information-technology/2022/09/meta-spins-off-pytorch-foundation-to-make-ai-framework-vendor-neutral/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 86
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/pythorch_hero_1-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "Meta passes PyTorch ownership to Linux Foundation in a bid to improve transparency"
     excerpt: "The widely-used framework will also fall under a newly-formed PyTorch Foundation, with a governing board composed of tech giants such as Google Cloud and Microsoft Azure"
     publishedDateTime: 2022-09-13T10:46:00Z
@@ -92,20 +78,6 @@ related:
       - url: "https://www.socialsamosa.com/wp-content/uploads/2022/09/8-68.jpg"
         width: 803
         height: 419
-        isCached: true
-  - title: "LinkedIn Donates Feature Store to Linux Foundation"
-    excerpt: "LinkedIn today announced that its open source feature store, dubbed Feathr, is joining LF AI & Data, the Linux Foundation’s umbrella foundation for"
-    publishedDateTime: 2022-09-12T21:00:00Z
-    webUrl: "https://www.datanami.com/2022/09/12/linkedin-donates-feature-store-to-linux-foundation/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 24
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2016/05/Linux-Foundation-Logo.png"
-        width: 1477
-        height: 815
         isCached: true
 
 secured: "iK+PCV0+RsNnk2mDXEbd+q3C4hFalFDxnAmtUJYiFFLI6niAn8SlY6ALqlGqLrbOZVQBgS3FNsVziHem/4NeaC2vfqYmw4N1qqxEhhWJ2Hrv+zSibB0mwdU6YdYgxfEHIGt/Ehx5yLWLkoI7518j004f0DcKbQ8oQNLWvKuetM/IhRchhBNGhHELlYNf64W7emMIcr3D1BqA6VE5crTH03CBPxcLkejn+9ja4q9c7fcXCpKoAsitQ3ZbT1Pk47TL1WpEaBOh0vRVpSOMoXtjPq+4JQ6fR4O9dz4jtuxsUPcZzcSByoBit6mn55FHU1obgcO0sdjhA9OybWIAT2hM3dleNWpF0DevOy3C3j1VpRU=;WkS8m/v/s+nyWAHDmzgHzA=="

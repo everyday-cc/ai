@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-17T12:00:00Z
 originalUrl: "https://www.theatlantic.com/technology/archive/2022/09/autonomous-robot-surgery-operations-medicine/671449/"
 webUrl: "https://www.theatlantic.com/technology/archive/2022/09/autonomous-robot-surgery-operations-medicine/671449/"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: The Atlantic

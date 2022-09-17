@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Sensormatic Solutions by Johnson Controls Expands Its Computer Vision Offering to Address Retail’s Most Pressing Challenges"
-excerpt: "Sensormatic Solutions, the leading global retail solutions portfolio of Johnson Controls, has expanded its computer vision analytics offering, which focuses on driving sales, reducing risk and enhancing the shopper experience. The company’s computer ..."
-publishedDateTime: 2022-09-15T08:03:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-89036b868d68454192a27bea59be0a02"
-webUrl: "https://apnews.com/press-release/business-wire/technology-89036b868d68454192a27bea59be0a02"
+excerpt: "Johnson Controls brand Sensormatic Solutions’ innovative technology architecture offers flexible, computer vision-powered analytics to facilitate"
+publishedDateTime: 2022-09-15T08:17:00Z
+originalUrl: "https://www.01net.it/sensormatic-solutions-by-johnson-controls-expands-its-computer-vision-offering-to-address-retails-most-pressing-challenges/"
+webUrl: "https://www.01net.it/sensormatic-solutions-by-johnson-controls-expands-its-computer-vision-offering-to-address-retails-most-pressing-challenges/"
 type: article
-quality: 28
-heat: 28
+quality: 8
+heat: 8
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: 01Net
+  domain: 01net.it
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "BRRro21BY+aAxW+/ICSF/9iMRQxFwuZtWCQP9NEAHCahsnmk4EELZgEVG53xio8dnw0hvX+hCjZEKrJ+G80xVDBALPlDNEY0X5jjBh0Jcg6Zt4vowm8XQFMsgTOSuf3tayiM+j8yd9di7WExeTVU0DYB6GJaoXUWCxVQBunmmXxJwi7jSqfmOB8JnHrsJX2C7QYkhTsZH3m3XNyBAEy7yZ0SORqNxJTFv+gYkve317hORYyzuGY9yElK6gZcfAwvy8yZBxFd+e7L40qwpvQ0XZhIso5Wt8HaA1G9lbtfA+tuHch0S30g6BGCqBJOvfFlPLEw8bFNeRvEt1daXd2Pohf44NG2SWO2WHILkjB+mrM=;/Oet9fDOdIs+ewaagxk2nA=="
+secured: "SdtmnWsSvwCQN8H7bMM19oIiSX4ZKuSq8WFKP+ou3uPRlJPO/bnkrv5XFebXRuF+RhlJwvQEhVEBsjfdlAnS1LnRGX2ST3vWtbd/XiNr2GFAQHwJzmr/aYnLZ3b2KrEgod5ZNC5DDEEiEpyFhUFrjx5RQL9UekY+m7t2MBjfoQQ2melgElh+vnqzN9VvT0KC7aIA71oFnMmgVM/YVW6/GkQ51AXY8U+TVkJuSKK8jL0x2X6nMy58DkYzdf1Zl4q2LRZ0Ync/c+N3V3FpSd1SdJjZLJf5LxwMwQ7/tqpXUrbiXFNsyhZ8cUiRAHv68TJOF5eTVeAUC8EVDpYHFZNpBS6glIn5i5LHWpbf0hgSv2dVvG+mFWkDkNJYs+CWG3yCxo6BddAxbhDGgX6Y6oBak7au80GybjzdQAQdbvm0+wXOidaavSuTPAI8592SJQ/O2BYQKanVgMV1Vzjf+D+IOtrRAkXhoCBZJiTbdHrAUsjbpQgl4A2Q7oNnf0iYqunZ29NmntOP0Nky13L3VmPolw==;sOj8DEPjmnnwaNmvXCYN1A=="
 ---
 

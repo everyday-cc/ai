@@ -5,6 +5,8 @@ excerpt: "High-profile universities and state-run research institutes in China h
 publishedDateTime: 2022-09-06T13:47:00Z
 originalUrl: "https://www.ibtimes.com/analysis-banned-us-ai-chips-high-demand-chinese-state-institutes-3609766"
 webUrl: "https://www.ibtimes.com/analysis-banned-us-ai-chips-high-demand-chinese-state-institutes-3609766"
+ampWebUrl: "https://www.ibtimes.com/analysis-banned-us-ai-chips-high-demand-chinese-state-institutes-3609766?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/analysis-banned-us-ai-chips-high-demand-chinese-state-institutes-3609766?amp=1"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - AI Hardware
   - AI
 
-secured: "7b8iQn//vb83s1bgZD/QFYFFpWFJuA0pGsAmoxMWIt6YZtlxJNff+0BteuV5TYxnFC48FS9VVn846HY6wVpoyIUPLM22xcBFmwNZEFNCCSqNNqCsBtXFEUlemFUQhNOg3wgtiCGBG0LnDkSaJfVjJtAALw8S7qQeatQuW7Em2xQE/qcZunuKKf/Cf5nKzCGTALu4u+vG7I2/Z0Ee2CRIfBOhJrH1dgyzoC/WaGsquPiNoDeB2A1X7IaetWC5rUjdC13b07hGEqqoej6drjeH/023sL+8LS4cQl2ySLcH5je0rR2lidn42YbomOoMvEGDsQby1nOyHdYeI6G8Kkg3C108MWEb9q0uYhogn/JeDPU=;jefCwzYx+7hi4Jl9jAHF1g=="
+images:
+  - url: "https://d.ibtimes.com/en/full/3813247/logo-nvidia-corporation-seen-during-annual-computex-computer-exhibition-taipei.jpg"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "wDWnxsA+P6+VvUd5sIaGQF36boZrJKUYVMwV3MB3bylZqt9r31A6ka43Q0yZU96Ksb9L+R3Ska3s29PU00sh21NIPEpOKRqkOasyB9V0oUQsWxkJPNObpkB7wHTDJhle5bBqxHKJQZIBu+iY+gNtfVv4sZ55grRfUpmmCmAqA3w7m1w5QzJebh+cxjPS6hzkq040fAnrJXA85LQK2OFofGTYY49HKv9FeQvToS/zWhwGXWR9Rmfplyf4UXw4YSt/nnfwx9mWRKgEf8d2T0fnkDZj/Y2K1zrwS3tZAWBAVE7uyvphsAOeWubxGutnDndMyJ76MTr7poExV/i+M4cH83fcHmauDtogXT2IpJ8bZ8U=;pR0eOKeDVZmUSgzhyTsRxA=="
 ---
 

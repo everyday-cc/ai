@@ -48,20 +48,6 @@ related:
         width: 2048
         height: 1366
         isCached: true
-  - title: "Rank One stands out in NIST test of image quality assessment for face biometrics"
-    excerpt: "A benchmark of facial image quality assessment algorithms for preventing bad input from causing problems with face biometric systems has been published by NIST."
-    publishedDateTime: 2022-09-12T20:52:00Z
-    webUrl: "https://www.biometricupdate.com/202209/rank-one-stands-out-in-nist-test-of-image-quality-assessment-for-face-biometrics"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 19
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
-        width: 2048
-        height: 1812
-        isCached: true
 
 secured: "q4fiiwDiatBT4CN6VZOIYy5qhX8sZIP/5T54peJrgoPYpt6TmsDHLjT2p66p1EFmcHpi+6NeCNudc0I8CGxl0bqtLBll7c1KjxoLbThSbuss1p9MAkskwbPXm8voxdFENgQPTXaC6j7H4JCiRMqJxJpYFd7tArnD7Uk9bMnNeSmzTmfJVOdtfogZlu5/YMFLbJPzYiJgVBaw9YJ+BRt+owwVWhmBpyqyQA5HQA3f5MXumjTRO6/6dz4Q21eypjaliu9HBScqZiuABRC8OdzYoG0vXbkp88Q9JEJnQ3LAa4tyboogVLHZ+Js90vcIu4IfK3oMH/rpb0EFzBUKGVe5jLZAvpWWP+cToGFMCk0949K9d2QXqRcYTEahylPjgtQffR53lOAezRSmOBXkRhs8/Q7N/i1ykb+wcV5muRvrJuxn+W56egp6C4sIDse1nyMJlv49qx1VFHEWop+ghBpij+5QInYLqSo6wDvNyeWiCEZfOqTdw82xcnqf/jlua/wIZcbjZlu1kjIB7f5i8ZxEzw==;SMYYwPVWNLIZPR5ICaq6oA=="
 ---

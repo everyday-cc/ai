@@ -63,6 +63,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Intl. Companies Intend to Invest in AI, Robotics in Saudi Arabia"
+    excerpt: "Major international companies intend to invest in artificial intelligence and robotics in Saudi Arabia, senior investors told Asharq Al-Awsat. AI Investor Abdullah bin Zaid Al-Meleihi said that Saudi"
+    publishedDateTime: 2022-09-17T10:57:00Z
+    webUrl: "https://english.aawsat.com/home/article/3879416/intl-companies-intend-invest-ai-robotics-saudi-arabia"
+    type: article
+    provider:
+      name: الشرق الأوسط
+      domain: aawsat.com
+    quality: 49
   - title: "SDAIA: The Kingdom of Saudi Arabia Announces Program for 2nd Global AI Summit"
     excerpt: "The Saudi Data & AI Authority (SDAIA) has announced its official schedule and speaker roster for the 2nd Global AI Summit, set to take place on September 13 - 15, 2022, in Riyadh, Saudi Arabia. The theme of the summit is \"AI for the Good of Humanity\","
     publishedDateTime: 2022-09-14T01:10:00Z

@@ -55,6 +55,15 @@ related:
         width: 480
         height: 268
         isCached: true
+  - title: "Intl. Companies Intend to Invest in AI, Robotics in Saudi Arabia"
+    excerpt: "Major international companies intend to invest in artificial intelligence and robotics in Saudi Arabia, senior investors told Asharq Al-Awsat. AI Investor Abdullah bin Zaid Al-Meleihi said that Saudi"
+    publishedDateTime: 2022-09-17T10:57:00Z
+    webUrl: "https://english.aawsat.com/home/article/3879416/intl-companies-intend-invest-ai-robotics-saudi-arabia"
+    type: article
+    provider:
+      name: الشرق الأوسط
+      domain: aawsat.com
+    quality: 49
   - title: "US-based Nala Robotics, Saudi Excellence Company ink pact to bring robotics services to Saudi market"
     excerpt: "The US company is to provide robotics AI-enabled equipment and software to help Saudi food companies achieve more efficiency and speed in production and higher levels of quality US-based Nala Robotics,"
     publishedDateTime: 2022-09-16T08:20:00Z

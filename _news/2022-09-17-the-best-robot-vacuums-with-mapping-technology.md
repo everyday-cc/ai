@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-17T12:00:00Z
 originalUrl: "https://www.digitaltrends.com/home/best-robot-vacuums-with-mapping-tech/"
 webUrl: "https://www.digitaltrends.com/home/best-robot-vacuums-with-mapping-tech/"
 type: article
+quality: 51
+heat: 51
+published: false
 
 provider:
   name: Digital Trends

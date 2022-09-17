@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/2022/09/14/mlops-startup-diveplane-raises
 webUrl: "https://www.datanami.com/2022/09/14/mlops-startup-diveplane-raises-25m-series-a/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,17 @@ images:
     isCached: true
 
 related:
-  - title: "Raleigh startup with new downtown HQ raises $25M, plans to hire"
-    excerpt: "A Raleigh startup led by a former president of Epic Games is ready to grow its headcount in its new headquarters space following a $25 million raise."
-    publishedDateTime: 2022-09-13T19:04:00Z
-    webUrl: "https://www.bizjournals.com/triangle/news/2022/09/13/raleigh-startup-diveplane-raise-new-headquarters.html"
+  - title: "Raleigh startup Diveplane aims to make AI ethical. We asked its CEO what that means."
+    excerpt: "Diveplane announced this week it raised $25 million in Series A funding, positioning the company to add jobs, clients."
+    publishedDateTime: 2022-09-16T16:29:00Z
+    webUrl: "https://www.heraldsun.com/news/business/article265865286.html"
+    ampWebUrl: "https://amp.heraldsun.com/news/business/article265865286.html"
+    cdnAmpWebUrl: "https://amp-heraldsun-com.cdn.ampproject.org/c/s/amp.heraldsun.com/news/business/article265865286.html"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
+      name: The Herald-Sun
+      domain: heraldsun.com
+    quality: 47
 
 secured: "JFJjTkyn7kTd4xFIvTJLqOBmE0QH052jOQsT216X3WFLh1rYzvVAu/q9y1VwCFGi/Uz7OdGAwPHR0snUg31Rur6DJlFBuHw2+BRiewnp5hX5M2Vq5aSqj/EKrhAScTmUC+sMCMXMo7r1v/EGpad79H904c+GpByPdseMXOOeaPub6YoqNf8WPpm8IJBAQJSH3JfxSznj/Objv1ZTxFYzxRvr7gYAG2uy4Sy2uU3VFWErEOAoKYNAxVWm2HG4++I7JC29ZoXeyx1BMcYdGGFBCVl0zdby5JKWPhZMzHATxfAawtvISumPIZTnX02nDzxYm9rqFStgqduJ4Ix7vpqHjE2jHIitnzRAKan5+YwT8tEVhLyYUVBkUXs8tnJKf+7qlZpJwfNtmm6cX51HGatJj7SVGlp9oN78gv16ZcjWkOiifgV74Ej4dNxQliXR3Nd8/XR0licc4PpqHW5c9oduKk122cBO9fZ3LKpf12EQ4adBtV7iAkcj6NyKGpfU6N2BCSq9o58Xdx+j4M3WTAysQg==;0XqeaR5U37//LLK7fdj1bQ=="
 ---

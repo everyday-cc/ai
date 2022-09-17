@@ -53,20 +53,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 88
-  - title: "Meta spins off PyTorch Foundation to make AI framework vendor neutral"
-    excerpt: "The move comes as the adoption of the PyTorch framework has become widely used across the deep learning industry to power many natural language and computer vision projects, including Tesla Autopilot."
-    publishedDateTime: 2022-09-12T21:33:00Z
-    webUrl: "https://arstechnica.com/information-technology/2022/09/meta-spins-off-pytorch-foundation-to-make-ai-framework-vendor-neutral/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 86
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/pythorch_hero_1-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "Meta is handing over its PyTorch AI platform to the Linux Foundation"
     excerpt: "Meta has announced it is handing over its PyTorch artificial intelligence (AI) platform to the Linux Foundation. Created by Facebook in 2016, PyTorch is a deep learning framework that has been used for many AI projects,"
     publishedDateTime: 2022-09-13T19:17:00Z
@@ -89,20 +75,6 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1638449640/itpro/pytorch_meta_aws_GettyImages-1236945622.jpg"
         width: 1260
         height: 710
-        isCached: true
-  - title: "LinkedIn Donates Feature Store to Linux Foundation"
-    excerpt: "LinkedIn today announced that its open source feature store, dubbed Feathr, is joining LF AI & Data, the Linux Foundation’s umbrella foundation for"
-    publishedDateTime: 2022-09-12T21:00:00Z
-    webUrl: "https://www.datanami.com/2022/09/12/linkedin-donates-feature-store-to-linux-foundation/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 24
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2016/05/Linux-Foundation-Logo.png"
-        width: 1477
-        height: 815
         isCached: true
 
 secured: "3SfCn12YrCRlXZYh5qBQgMEfwF/AWSxiFNov3he9oB8SEGh2KJDfKC82GU7+BIhgqAuwjVNZ4bRFiFYYpPdGSpDeVMzAGfj9Abh78Ep98DB2TItZ1OQDTtSbxLzPi8HDz5sSHWKQmwwi12SPmFozf9SA9h7ieZEUWD0zP2rW03fGvqIRfjMVR39Jcyv2LxG1JOPcxlo3NDUXDfdr52edNyG3ooXLDgbuzakiDcdPMAm0P0l7pOpX6f9+H0UudDIXtnXX1h2RV9Ceng7zMN1odsK2QwWcj2sxqzC0RMNhOI/NDGIFnIk7SE01OqbU1QDjJ2xZxakGVC69vw6VdtLDKmLjSfC28EBBdzgrJpzmDL0=;7IE2JyDxyRSKwwyJrpOW2A=="

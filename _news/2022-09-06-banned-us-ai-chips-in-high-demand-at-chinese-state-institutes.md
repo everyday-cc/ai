@@ -5,6 +5,8 @@ excerpt: "BEIJING — High-profile universities and state-run research institute
 publishedDateTime: 2022-09-06T07:21:00Z
 originalUrl: "https://financialpost.com/pmn/business-pmn/banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes"
 webUrl: "https://financialpost.com/pmn/business-pmn/banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes"
+ampWebUrl: "https://financialpost.com/pmn/business-pmn/banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes/wcm/7c7037f8-60bb-400a-859b-40b3d6d5d974/amp/"
+cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes/wcm/7c7037f8-60bb-400a-859b-40b3d6d5d974/amp/"
 type: article
 
 provider:
@@ -15,6 +17,6 @@ topics:
   - AI Hardware
   - AI
 
-secured: "/U1hA1fKI7Eqyp+/MZyiDuvvdvcb6hfDkI8nMVG+pQRsk8imZkuCPyBTN4GyHq1cZu+aXsDgLovj8+EQwYyTfxRYe43O793S/R83sZYHbZmJL3uXU8AG69lhR1WMM8AaCaCU+/yQGlmtB2E47H4UaybmPYsOSGGWpPe4mZMt8HPkN2//Fj9M8SpNMMKyo/dtwNSOWaLIgXM54FRQt0qTaciJl8A/dd12f5m0C73IWdcHzhgbU9pQD6jLgBXh5OZRMNRJ482J6BqbPh4kGmn8zbvp5z1vzRZnhDs1D3ZXcYwPIUzgw/t6VFCiDVaeHrCe6deR1biik4WWPBckuh72xj3FDO4YUn15Ar+rCdTv404=;GYwm1eupO/OWnSeD0eBvEA=="
+secured: "PxMBzLq+LJOme31tdDqr+JMpdjMJbjvyaOYdY1PcfJWDkQcP7qk087B/daTyDf8BuycIJmBKM4EQHs2fpJNzG6CxvUtwzzOI0IXywx2VX4tBA2DodUnyhV3McNte4wkfRAWRMPGJEZIwjtuy2xO6OYneBWcnEYcKU1HZ7YQ1nc8t6aYuBvCDj01VOnw/5oHjuAQLg9fTBG0m9UMQxtvoPF7xFC8nqwGK7nS3Hyu192S+TEv04idJmfAyNf0ootjDVsMANDYoA0KnZyJZ5RaExY92Czpw+2Xu2VPFt98953msmp2X/luv+LMJQuBzbLqzPAeYbAFqQg3IaNmRhM+5Z0xhFiKOAwrE14WG0rzCUbw=;3WlNp3dz9FzoMDZjNrfbyQ=="
 ---
 

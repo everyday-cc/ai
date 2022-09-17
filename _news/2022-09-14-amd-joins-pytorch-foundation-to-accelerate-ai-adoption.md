@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 802
         isCached: true
-  - title: "Meta spins off PyTorch Foundation to make AI framework vendor neutral"
-    excerpt: "The move comes as the adoption of the PyTorch framework has become widely used across the deep learning industry to power many natural language and computer vision projects, including Tesla Autopilot."
-    publishedDateTime: 2022-09-12T21:33:00Z
-    webUrl: "https://arstechnica.com/information-technology/2022/09/meta-spins-off-pytorch-foundation-to-make-ai-framework-vendor-neutral/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 86
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/pythorch_hero_1-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "Meta is handing over its PyTorch AI platform to the Linux Foundation"
     excerpt: "Meta has announced it is handing over its PyTorch artificial intelligence (AI) platform to the Linux Foundation. Created by Facebook in 2016, PyTorch is a deep learning framework that has been used for many AI projects,"
     publishedDateTime: 2022-09-13T19:17:00Z
@@ -89,20 +75,6 @@ related:
       - url: "https://www.socialsamosa.com/wp-content/uploads/2022/09/8-68.jpg"
         width: 803
         height: 419
-        isCached: true
-  - title: "LinkedIn Donates Feature Store to Linux Foundation"
-    excerpt: "LinkedIn today announced that its open source feature store, dubbed Feathr, is joining LF AI & Data, the Linux Foundation’s umbrella foundation for"
-    publishedDateTime: 2022-09-12T21:00:00Z
-    webUrl: "https://www.datanami.com/2022/09/12/linkedin-donates-feature-store-to-linux-foundation/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 24
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2016/05/Linux-Foundation-Logo.png"
-        width: 1477
-        height: 815
         isCached: true
 
 secured: "Ddx8FWIZp1pp4OOzxLp67szNqw+SJcQcoo+kCHzSaC27b44YOswEHZk2VF0S/rMbRf/wCKwzZBXHrbCjcDDm3LfRpnEsnHOIA/I0ctaEcM2pARib5NwChYgNp1F4jx3IDahj8+6IknT6F6qDNwNMRfiCVWeMtMoHwdkf8IG8Q05TIiP4Wv26X3osoIp557bwdUNtGEZb1spdoXkndI08mRTaWUTHsPdxDq3Rf4sa86N04/daFLPStQGvgP41C1saa0cXcmpVSXNXMMITZRiO/kwRPxS7rLnw+yVr7BHobI6cIxNYSo2iLM8VUHT+s6aYI8yZWEHbaHUae0baE9wYK8ReqNuHNT1IeXlAZeIEy7s=;7iRKxJJ3Oam0zbiP+74/iQ=="

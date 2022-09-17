@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/facebooks-pytorch-ai-ignite
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebooks-pytorch-ai-ignites-at-the-linux-foundation/"
 type: article
 quality: 106
-heat: 166
+heat: 146
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 88
-  - title: "Meta spins off PyTorch Foundation to make AI framework vendor neutral"
-    excerpt: "The move comes as the adoption of the PyTorch framework has become widely used across the deep learning industry to power many natural language and computer vision projects, including Tesla Autopilot."
-    publishedDateTime: 2022-09-12T21:33:00Z
-    webUrl: "https://arstechnica.com/information-technology/2022/09/meta-spins-off-pytorch-foundation-to-make-ai-framework-vendor-neutral/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 86
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/pythorch_hero_1-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "Meta is handing over its PyTorch AI platform to the Linux Foundation"
     excerpt: "Meta has announced it is handing over its PyTorch artificial intelligence (AI) platform to the Linux Foundation. Created by Facebook in 2016, PyTorch is a deep learning framework that has been used for many AI projects,"
     publishedDateTime: 2022-09-13T19:17:00Z
@@ -93,20 +79,6 @@ related:
       - url: "https://www.socialsamosa.com/wp-content/uploads/2022/09/8-68.jpg"
         width: 803
         height: 419
-        isCached: true
-  - title: "LinkedIn Donates Feature Store to Linux Foundation"
-    excerpt: "LinkedIn today announced that its open source feature store, dubbed Feathr, is joining LF AI & Data, the Linux Foundation’s umbrella foundation for"
-    publishedDateTime: 2022-09-12T21:00:00Z
-    webUrl: "https://www.datanami.com/2022/09/12/linkedin-donates-feature-store-to-linux-foundation/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 24
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2016/05/Linux-Foundation-Logo.png"
-        width: 1477
-        height: 815
         isCached: true
 
 secured: "V7uuaFm/IBR2kRIiKAONEmr/ri1oKlrdoIaHxt8gMV8ISsqV8Q6zmZ1jLILYluScI407dd+Sp8qRqtUddTlcv006AzZGaaAcaIZJYFsisCoeaOlMnUzzXGKxIrUI3Xzrm8J3s1F6tc0myl2xarkiYZRSXUNMlokUxKMrwtRBGLhaXXUs9lOItJycqrrNqKsCQdmfzQRh7IHs/8aNhmDNkStcD2FWHkJSvGEuWCUKc7tho3t/t7sUonqzOIWNIr27qRZCtfp6yK0ugExbpqAnlMjsTT7WLrZJQzPFCJwSMyB01eHm6QSLRqpoOwYiuXkdPF694eCfpCCmMtqPKGGidBWMO3dBpcMn/RelUfDXhQIzZRQ0C1F9hzIpulR5U5qcz2PsoBOzF8kwW/3Nyx7PkMW4X9uOkCtuHpyxlbdUpZhrZrOW45DlOhN8X9HkI1XpeDYUghUZNl22+X3ASq30bGk7iGiPrO7N2bpem0drIWGe7ztVNMHcH6hwBSSo3E/VLZKeJ6pmpnTuT+9YgY9bjg==;QmEPEjAFf2J1lY5W/G/QWA=="

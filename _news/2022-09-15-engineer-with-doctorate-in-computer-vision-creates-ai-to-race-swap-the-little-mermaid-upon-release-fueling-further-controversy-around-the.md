@@ -26,6 +26,17 @@ images:
     height: 394
     isCached: true
 
+related:
+  - title: "Racist Artificial Intelligence Scientist Whitewashes Halle Bailey in ‘The Little Mermaid’ Trailer"
+    excerpt: "An AI scientist whitewashed Halle Bailey in the trailer for the Disney film, \"The Little Mermaid,\" on Twitter before his account was suspended."
+    publishedDateTime: 2022-09-17T12:30:00Z
+    webUrl: "https://www.blackenterprise.com/racist-artificial-intelligence-scientist-whitewashes-halle-bailey-in-the-little-mermaid-trailer/"
+    type: article
+    provider:
+      name: Black Enterprise
+      domain: blackenterprise.com
+    quality: 19
+
 secured: "o8oF4VoeTJekLgXUin9iJGG2YRnhtW8WUnV1OZuXE7O69UjiBAKuAl06/Sdqgdvv5zPG5gPusuY3SKYISZxabcMrGICUSql0Y1OcToLhVIK2iuuU01z4mIWFMhLoouLYvZlZbTpzpzFTTrp+2DlsD3P9GoZrn7hJT5PEelsmBzM9Jn+ziKTjoRq0G95tvh6zm0/MtasyTBdlRNpePx3kkzuzj59+DyeYWvQZ66yxNwQW7aHjbdkw6VJ0pF2HimkQbl1AfK65t9/eC4c2XTXJM9h/bM3IXjtm8obTwH6jAjE7X9lKP+J6HZobQCx/57OH/jM+t7sYH0wOkrQ/Y0+MLKM0tjEIZNSyy1pu9A2Lhbc=;kFHBfVtC+eTlvgGAwwrUuQ=="
 ---
 

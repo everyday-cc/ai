@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Global Artificial Intelligence Market To Reach $450 Bn In 2022"
-excerpt: "The Artificial Intelligence (AI) market value is expected to reach nearly $450 billion this year and maintain a year-over"
-publishedDateTime: 2022-09-17T11:54:00Z
-originalUrl: "https://menafn.com/1104880560/Global-Artificial-Intelligence-Market-To-Reach-450-Bn-In-2022"
-webUrl: "https://menafn.com/1104880560/Global-Artificial-Intelligence-Market-To-Reach-450-Bn-In-2022"
+title: "Global artificial intelligence market to reach $450 bn in 2022"
+excerpt: "The Artificial Intelligence (AI) market value is expected to reach nearly $450 billion this year and maintain a year-over-year growth rate in the next 5 years, a new report has forecast. In 2021, the global revenues for the AI market,"
+publishedDateTime: 2022-09-17T15:39:00Z
+originalUrl: "https://www.dailypioneer.com/2022/technology/global-artificial-intelligence-market-to-reach--450-bn-in-2022.html"
+webUrl: "https://www.dailypioneer.com/2022/technology/global-artificial-intelligence-market-to-reach--450-bn-in-2022.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: The Pioneer
+  domain: dailypioneer.com
 
 topics:
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-09/17/I_c5b57image_story.jpg"
-    width: 400
-    height: 220
+  - url: "https://www.dailypioneer.com/uploads/2022/story/images/big/global-artificial-intelligence-market-to-reach--450-bn-in-2022-2022-09-17.jpg"
+    width: 1000
+    height: 800
     isCached: true
 
 related:
@@ -75,6 +75,6 @@ related:
       domain: tmcnet.com
     quality: 18
 
-secured: "hkS3he1k2sOR3rx9SSRWSrtqIULG6lEcuJ6CIQ5iBmC5MtV6P7/3NYRafw2SQgx2r5tddD7iwWAk8xTiqCSJwpvjZgqu2J/g9PMnJ0CiY1h3floVnMCC2kLsRepC+ynvaCXHlg+gMrTG8neJXZuwqgKBjMM+BcLKGu2Zf8UwHDuRoZXJQnExkiUYjkbFtlxqjzwAEN3vsLxdwbhqCHafqGqw43m2DiPXA7YZgbE84VUWv5+OlsyeTR3YONUP8FNhKQKnPYw3TpOsbvQtFbdxEZr5dxzU6yoiMks5EKFbMGW5Zygb3pYipySO6grRVapy6B2aSCWR3xpELNNfJ3YR+sLo/0HmfQWylzf5H7uC3WfHjIv49PtmFg7eD0Sgi73W5DldccEgXryIymovi1gl1okH4NN7Es8v6Ob6x8s+ioCkkvkSQTfuEVbn8hFqs55pjTEI1lqJnpJWzSsVgOe8jOIpPDfWYpx3r2CO6psPZyncBjIGjXZkKwE3Vre5mWklef12erSH43GgIOpD3maT6w==;AiwjEQDS/jc9fw+cPyzKng=="
+secured: "Qfnk03TNGGfMmNSvk3eFir4A3aLewIxEtdaRxIzxHxLHL2QAkUkpm9vF6TbIPgLYlqCrROmxCOqYX/y5EuuIdLkxBnCoAwjgmN+r4eoYBO+q9uUbySeoybw3fONxIX//2D1UrMf+vibqDCgjCgfouY9KdgcBVssnnLjk+qw0fFySDdVRHGpliOAv+XGfxM9YkABbyBF0L7k/YE6rJmBSZLXHDxC/Zha93XLOBJE2DkAxUP4uCrvp1E29pQ1JJV9srV7Ccz1q9h2RlRvTJagCXoaj6PzzQ6VlSrx8Rda64qM2u1zeQji3r5Nr/b1/ypABZb+26u/1NLD55vtN4Owax78/QRARdcKhUSsH3EUJ9H8=;rFuaWzOYyMxmo9t7TEQCSQ=="
 ---
 

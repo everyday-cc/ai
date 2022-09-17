@@ -1,22 +1,26 @@
 ---
 category: news
 title: "Taiwan leader cites threat of Chinese ‘cognitive warfare’"
-excerpt: "HENGCHUN, Taiwan (AP) — Taiwanese President Tsai Ing-wen said Tuesday that China is conducting “cognitive warfare ... threads to stories from wire services such as the Associated Press ..."
-publishedDateTime: 2022-09-06T12:13:00Z
-originalUrl: "https://www.seattletimes.com/nation-world/taiwan-leader-cites-threat-of-chinese-cognitive-warfare/"
-webUrl: "https://www.seattletimes.com/nation-world/taiwan-leader-cites-threat-of-chinese-cognitive-warfare/"
-ampWebUrl: "https://www.seattletimes.com/nation-world/taiwan-leader-cites-threat-of-chinese-cognitive-warfare/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/taiwan-leader-cites-threat-of-chinese-cognitive-warfare/?amp=1"
+excerpt: "HENGCHUN, Taiwan (AP) — Taiwan’s president says China is conducting “cognitive warfare” against the self-ruled island by spreading misinformation in addition to its regular military ..."
+publishedDateTime: 2022-09-06T16:33:00Z
+originalUrl: "https://keyt.com/news/2022/09/06/taiwan-leader-cites-threat-of-chinese-cognitive-warfare/"
+webUrl: "https://keyt.com/news/2022/09/06/taiwan-leader-cites-threat-of-chinese-cognitive-warfare/"
 type: article
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: KEYT
+  domain: keyt.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "3WWd9GiJfauXHE6VUWtLYPZnMZAjM8zUFcC4wux0ns0YRoPd3OG6XFYvCBPtNcRoKs/0Ud+nmJisf35kDcN6DIXVxsl3puXCpHwpYVCKbgI+phMtmyO8Eh930Gdx0C1Gxuf9YjhI16/6uSvz8ILZBlAXV4qIoJEONwWEQ/58nVc0bl4YsNH3O5iMN3/p7N8Y/1Q80hrZrRwFMVPhsKTm18Dl/QIlgDBV0lS+I4rFVtr/v8pre8dtSGfq8sO2/FK5qwo0hFY1D6i3/+BpatceiUY7wsINbDTydOue+ZBwZAO7fxSxqIBIGc/oLmSr588RaifTE4iS2/TJBqHD8vArcEvGni39djnga07BbFRFJyo=;OSzMzCSEFXH8T0aFTZj0Zw=="
+images:
+  - url: "https://keyt.b-cdn.net/2022/06/US-World-AP.jpg"
+    width: 1024
+    height: 576
+    isCached: true
+
+secured: "IAO6VISTbcHDCTaeqwqa7fJlKKC4ac0YktTSgnkWCLfuCLf5s0jlbRkJUQSwZstxT3VA+uL7HlUoTGU21XTovGZItZQ/NcKVA0JG5WGYbWw/QGCgYiRzMvJTD3YbOLH6f3Q7qjF5XwPuNFgf1uumGT1PIoWDveMQtF9taWq6ZBgtHKQLD9WXIIUypqQiIsp5vYDPF9R7ksBuuH1vfYm5O83C6/yodVVlP2FzmfOLiQGEGbhQRjbyKaVJ7cnDuDLYmhwL73WoeN1Ey6h4uIy5GKmS78Ib2C0Bwx0hbJKgYylZWwJc2a+/JGmFt/zcyxlhzQuF1jAh61J4JqY9/31I7lIlpr8bhYgxpcIu2K0D1Nc=;51J9UgxCd3kc8T/kQLLc7w=="
 ---
 

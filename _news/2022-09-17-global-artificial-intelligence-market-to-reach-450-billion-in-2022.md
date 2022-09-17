@@ -37,19 +37,19 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
-  - title: "Global Artificial Intelligence Market To Reach $450 Bn In 2022"
-    excerpt: "The Artificial Intelligence (AI) market value is expected to reach nearly $450 billion this year and maintain a year-over"
-    publishedDateTime: 2022-09-17T11:54:00Z
-    webUrl: "https://menafn.com/1104880560/Global-Artificial-Intelligence-Market-To-Reach-450-Bn-In-2022"
+  - title: "Global artificial intelligence market to reach $450 bn in 2022"
+    excerpt: "The Artificial Intelligence (AI) market value is expected to reach nearly $450 billion this year and maintain a year-over-year growth rate in the next 5 years, a new report has forecast. In 2021, the global revenues for the AI market,"
+    publishedDateTime: 2022-09-17T15:39:00Z
+    webUrl: "https://www.dailypioneer.com/2022/technology/global-artificial-intelligence-market-to-reach--450-bn-in-2022.html"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: The Pioneer
+      domain: dailypioneer.com
     quality: 37
     images:
-      - url: "https://menafn.com/updates/pr/2022-09/17/I_c5b57image_story.jpg"
-        width: 400
-        height: 220
+      - url: "https://www.dailypioneer.com/uploads/2022/story/images/big/global-artificial-intelligence-market-to-reach--450-bn-in-2022-2022-09-17.jpg"
+        width: 1000
+        height: 800
         isCached: true
   - title: "Microbiome Global Market Report 2022: Use Of Artificial Intelligence And Machine Learning Crucial For Future Growth - ResearchAndMarkets.com"
     excerpt: "The global microbiome market reached a value of nearly $340.8 million in 2021, having increased at a compound annual growth rate (CAGR) of 14.8% since 2017. The market is expected to grow from $340.8 million in 2021 to $945."

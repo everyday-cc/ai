@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-17T13:49:00Z
 originalUrl: "https://www.outlookindia.com/national/sco-summit-2022-pm-modi-and-president-jinping-come-face-to-face-for-first-time-after-standoff-at-lac-news-223936"
 webUrl: "https://www.outlookindia.com/national/sco-summit-2022-pm-modi-and-president-jinping-come-face-to-face-for-first-time-after-standoff-at-lac-news-223936"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Outlookindia
