@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/nala-robotics-and-
 webUrl: "https://markets.businessinsider.com/news/stocks/nala-robotics-and-saudi-excellence-co-to-establish-first-ai-based-robotic-cloud-kitchen-and-r-d-center-in-saudi-arabia-1031746917"
 type: article
 quality: 77
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
     images:
       - url: "https://static.zawya.com/version/c:YzBlNTEwMzQtYmQxMS00:ZTJmMzg4/faha4655-jpg.JPG?f=3%3A2"
         width: 900
-        height: 600
-        isCached: true
-  - title: "SDAIA: The Kingdom of Saudi Arabia announces program for 2nd Global AI Summit"
-    excerpt: "Additionally, speakers will discuss AI ethics and policies that help prevent the exploitation of AI. As it hosts the summit, SDAIA will highlight AI advances and achievements within the Kingdom and sh"
-    publishedDateTime: 2022-09-12T06:24:00Z
-    webUrl: "https://www.zawya.com/en/press-release/events-and-conferences/sdaia-the-kingdom-of-saudi-arabia-announces-program-for-2nd-global-ai-summit-fh85hhzz"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 36
-    images:
-      - url: "https://static.zawya.com/version/c:OTlkYTFjMTgtNWEzYy00:MGE5NzZi/photocustom_gbl-physsec_control_desk_access-control-synergis-jpg.jpg?f=1%3A1&q=1&w=3840"
-        width: 600
         height: 600
         isCached: true
   - title: "US-based Nala Robotics, Saudi Excellence Company ink pact to bring robotics services to Saudi market"

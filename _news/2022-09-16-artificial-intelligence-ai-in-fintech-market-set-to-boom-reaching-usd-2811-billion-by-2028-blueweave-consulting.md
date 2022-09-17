@@ -71,14 +71,14 @@ related:
       domain: menafn.com
     quality: 27
   - title: "Global Artificial Intelligence (AI) in Automotive and Transportation Market to Grow at 20% Through 2026"
-    excerpt: "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to ResearchAndMarkets.com's offering. This market is likely to grow at a CAGR of around 20% during 2021-26."
-    publishedDateTime: 2022-09-16T21:17:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-automotive-transportation-market-grow-/2022/09/16/9675469.htm"
+    excerpt: "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to"
+    publishedDateTime: 2022-09-16T19:45:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/n28901830/global-artificial-intelligence-ai-in-automotive-and-transportation-market-to-grow-at-20-through-20"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 20
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 18
 
 secured: "1oQBB18QXPnpSKGrcimXgV4lL2u2UOQLtZ/m2K2ACnc0y2Aglm+TUnH7H+k6wU8yCUnhkwoyff0Hgn4942FasWACoVRyEfCRzqeMFIrEZcJpDZGhc4wK6JPuwNc5ehLR65La+O9UJYMT6kneSZpMOr8pBm54KVgGlXofwqqZt6WCom1MPEBtnvwoPQ32aXiAVefkNGOdwn8L2hW0lgnn/h+a6TnfsRu2Lm2xGt6i7gB/B6/wYcwVt9S30NknfIDhV0ITWlDCKNzmz6DlFFIyeClgPlF60EaBbIJxHcrLFC/nM622Ajs5riLPihQLtfd4oDx4rxtzDmmQ4uwca8BBFUnVFi/sR1eBoXceHnFa5Pc=;VaZkJVRlpYfh+tW5sPdawA=="
 ---

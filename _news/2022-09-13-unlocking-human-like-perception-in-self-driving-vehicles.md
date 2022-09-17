@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "CEO of self-driving car company admits that humans may always be part of the equation"
-    excerpt: "Cruise, General Motor’s self-driving research wing and autonomous taxi provider in San Francisco, was the first company to be allowed to offer fully autonomous taxi services in America. Cruise’s CEO Kyle Vogt was asked if he could see a point where remote human oversight could be removed from the company’s autonomous vehicle fleet."
-    publishedDateTime: 2022-09-15T01:00:00Z
-    webUrl: "https://www.popsci.com/technology/self-driving-cars-need-humans/"
-    ampWebUrl: "https://www.popsci.com/technology/self-driving-cars-need-humans/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/self-driving-cars-need-humans/?amp"
+  - title: "Fully-autonomous driving tech will always need human attention"
+    excerpt: "While Autonomous Vehicle (AV) startups are raising billions of dollars toward developing 'true self-driving' cars, experts and industry executives believe that human supervision may permanently be needed"
+    publishedDateTime: 2022-09-13T11:26:00Z
+    webUrl: "https://www.team-bhp.com/news/fully-autonomous-driving-tech-will-always-need-human-attention"
+    ampWebUrl: "https://www.team-bhp.com/news/fully-autonomous-driving-tech-will-always-need-human-attention?amp"
+    cdnAmpWebUrl: "https://www-team--bhp-com.cdn.ampproject.org/c/s/www.team-bhp.com/news/fully-autonomous-driving-tech-will-always-need-human-attention?amp"
     type: article
     provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 37
+      name: Team-BHP.com
+      domain: team-bhp.com
+    quality: 44
     images:
-      - url: "https://www.popsci.com/uploads/2022/09/14/cruise-car-self-driving.jpg?auto=webp"
-        width: 2000
-        height: 1500
+      - url: "https://www.team-bhp.com/sites/default/files/styles/amp_high_res/public/autonomous-vehicles.jpg"
+        width: 1280
+        height: 789
         isCached: true
 
 secured: "HMj6w9FGSq0G2i6cE5B109aNlJwXZHHSb7kMa8ENnUrRUiDd1ln/aPc8a33B5Uv/EJ4Ngbo8bZGyD5xG251OqvpWIFNgztUMbV4t+2tSM7oqtLPDz25ogeK+Oq5Qv4Pdc7sOQ36baRBmZzo4bG5ZtR/9RKwmWvxlqE5rXlzApKlK2K2IUdnKzF7Zpqp28jDi8VBwN1iDQZxWM+K+iycg/evefOTUHVAIR6IqIrDhZT/vVVjoHZwbSK2wr6ft1zOoQOb0i++bXgp7bjpxNNcMIZL3L1bqWuu7GHoVjw504tsdG1bSWJUO9/qMtIQgk88cNiuUunj8xtHy9qyhuwaDF0hEOvjqWAWJCrBKtf14qeY=;3Iyc+VX3WKk2a/UXOiqi5g=="

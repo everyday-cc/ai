@@ -7,7 +7,7 @@ originalUrl: "https://news.usni.org/2022/09/13/losing-to-china-in-ai-emerging-te
 webUrl: "https://news.usni.org/2022/09/13/losing-to-china-in-ai-emerging-tech-will-cost-u-s-trillions-threaten-security-says-panel"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 826
     height: 549
     isCached: true
-
-related:
-  - title: "Cost, time and security savings with Artificial Intelligence and Machine Learning"
-    excerpt: "The costs associated with AI and ML, along with the skill sets and resources needed to manage this technology, are often considered a barrier to implementation.. Cost, time and security savings with Artificial Intelligence and Machine Learning."
-    publishedDateTime: 2022-09-12T05:15:00Z
-    webUrl: "https://www.itp.net/emergent-tech/cost-time-and-security-savings-with-artificial-intelligence-and-machine-learning"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 46
 
 secured: "OCCZpdSdWLvATL2d2ufqLmmUbzo4a3CWrIYHvoHKbcwp+acOJCanMqFlL5YgFXEvKODZtU0uNScKr2HF57EdDZkfQffQbIMgOBjki5dTJ5QiD37y8ZqVaPd206y87nnO0Li3xxW2X+uxTE7u4viCeMU97n+IkAVL+QosWHaGot+Z+x/B+5ctk+rkkKgwdkmPRcfCj2par5M0zzb1xogpSOy938MqOsWNrUDIYebeDQvQ24TEPFuXsZK320GqmdtojMn0ZTsiqDgRP+ztSvUdQG2q8/hqwHqoKBXpzdkRq2lgmhCs+kFKHA+RKjjzZAaH7nCcJTQ+5flj8GFsUOUxw4OV2hVSpjz8c2zSvtg4UY8=;kSFH98JtvNAGe8f3F8S+yQ=="
 ---

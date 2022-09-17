@@ -1,23 +1,22 @@
 ---
 category: news
 title: "Global Artificial Intelligence (AI) in Automotive and Transportation Market to Grow at 20% Through 2026"
-excerpt: "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to ResearchAndMarkets.com's offering. This market is likely to grow at a CAGR of around 20% during 2021-26."
-publishedDateTime: 2022-09-16T21:17:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-automotive-transportation-market-grow-/2022/09/16/9675469.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-automotive-transportation-market-grow-/2022/09/16/9675469.htm"
+excerpt: "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to"
+publishedDateTime: 2022-09-16T19:45:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/09/n28901830/global-artificial-intelligence-ai-in-automotive-and-transportation-market-to-grow-at-20-through-20"
+webUrl: "https://www.benzinga.com/pressreleases/22/09/n28901830/global-artificial-intelligence-ai-in-automotive-and-transportation-market-to-grow-at-20-through-20"
 type: article
-quality: 20
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI in Autos
-  - AI
   - AI Hardware
+  - AI
 
 related:
   - title: "Artificial Intelligence (AI) In Education Market Size Is Expected to Hit $80 Billion By 2030"
@@ -82,6 +81,6 @@ related:
       domain: benzinga.com
     quality: 9
 
-secured: "vXKntQqD6Hoj8Y9D7aa9gkkVMchEIrzbU4Dw78f5zlFoVehQ0b+Pd1mK1gNxYLg2L96YO3iGAlDSon+AQ1QmXbAA0lVPizagKi/SxCIwP1XXs9BoSQbJ6+E1f2+W4uwVvoSqdUGPtjWYN5M9otGMufiJQGXBq6uuc8JZwxZ3dwvW7uZGFDxHoEnsXFha1ioaixE8dnOZlz5qkWppTY4o3kExXuBwxn0ipJvzj4GLgIsqOUlkOCNWlonFdYvmcPs5hnrqvv0Chdf3OKOtQnyGk3jEPztXddPB6SCGEKQ2albJAlHW/TbKYhf2DVBzXECwuvua/5KG+dxNOlTpD1eN0lNfZ39F6E05Y4HDhfp/+6s=;nYmlcPc0IK/TV3YXq8KK8Q=="
+secured: "E/YBLlOIiMILtgeSuYJH/uyPzbv5jYYutS2csmxor267EIRo1HTJfpEw9h9d5OtyfmVqU+6+ZERp4xywwIl+NPvX61JiuVKYkYYR6LjoCAt0LSXW/tD+k0jbfoJDMuSTavKcFD/HseN6/zvnrqXuAABuhl9cSsonVaPw0bRpW4xROKnmgmHcVL7P0TQh/kOJPy6Y6Uw1HXvN5w4xKUNHbp16Gt55DI57p0kRE66d93Ms9LE9MReg4Bghcd7q2cXbbBU3nQp6Jo59AWbFLTvIjFVUdImFSh+C/lO2NvIXEwDhXVaKOjf25lG9/TelIlw0t4qHLtdOHNkVAGU7oS2Nmy2BzbFf2WeFcsN649IjVJc=;gnCdWJgDcD3oyu4M+V8PXg=="
 ---
 

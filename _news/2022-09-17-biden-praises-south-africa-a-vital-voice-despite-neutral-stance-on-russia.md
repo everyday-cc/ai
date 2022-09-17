@@ -28,20 +28,17 @@ images:
 
 related:
   - title: "Biden calls South Africa a vital voice despite Russia stance"
-    excerpt: "The president praised South Africa as a vital voice on the global stage as he hosted President Cyril Ramaphosa on Friday at the White House."
-    publishedDateTime: 2022-09-16T21:23:00Z
-    webUrl: "https://www.pressdemocrat.com/article/news/biden-calls-south-africa-a-vital-voice-despite-russia-stance/"
+    excerpt: "Biden is praising South Africa as a vital voice on the global stage as he hosts President Cyril Ramaphosa for talks expected to touch on Ukraine and more."
+    publishedDateTime: 2022-09-16T22:25:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/biden-s-african-leader-to-discuss-ukraine-trade-climate/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/biden-s-african-leader-to-discuss-ukraine-trade-climate/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/biden-s-african-leader-to-discuss-ukraine-trade-climate/?amp=1"
     type: article
     provider:
-      name: Santa Rosa Press Democrat
-      domain: pressdemocrat.com
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 24
-    images:
-      - url: "https://imengine.prod.srp.navigacloud.com?uuid=fc35b195-3041-5c01-8a0f-80940fa29be0&type=primary&q=72&width=1200"
-        width: 1199
-        height: 769
-        isCached: true
 
-secured: "VRhcyzN7tRZIZI6ADdgGrVdU5AIO2tUuM69mzkYdYo/ucv29u+FEAJRNGDE+AEJWhN9wLAciY9cUxZ8kf3obYyedqnMCyg6uODwNw+mmyjFPQWoi9P/xi36OcNWmF7g8l8LFqH3Q96Nh71RorXK8AEevXuT/ihjYQxhInFaWa4bTQhAszJtSJLPudKKH5Ls0durJmsqqIc6YO/HbLD6M9ShKpTWa/qyq+N3R8u0F3hYP1QruZ9JQKjeG8jCpiyJVml5AaI32718g3P0iU9lhK2Mhpa48KdAEt9kPcn1ChQSst6/vQPPMajTr4qy+kfK2RcRWZNRqB0tV3LjbmeyiE2vJpogvnX9wa4xHhtYxZBU=;Z+7tkBnyPebz269bEPxNbQ=="
+secured: "72c+4XcjVpCmF+IfWcoU1oZ1yRzGRzrBHlXHd88SRGh12mdN6xoTKnBw7L7n7pV/YVVrxbGd9PboSMwfCIunJtAdqKIY+agcv3fzeFkxeQl2nLytyUfTp6FuI41WunnAH/Gdi0rKejgUHc2XZ52Hy49sGQklf2awqfpYR2E3VzbPQ2enLmyQz1TNVckif3E7vyNic6pSnhYRMCdklursEMRIG+P+oxpkyqdTi5Hs7oyl/2yuJz2gQzaVxWv4Im0UkrFD4d+4TwWDhb7qag3tsNhbOzve7PS+SLPRgXU3cqXO+e0yra+sFAs6fDz/arAGcmf0AyEioYg9NE5GBtM5XqabdhRG2av0Vm53+vwGMfKpwLq9RXKy+51Ve2Wj37+LF0aAgHmVv5Ca42oaAl/Nz6mzZ5nN/loEimI6BzjwP73BaQOm553s/rO8HRLCn0jD7xCVQQL/J4I1HLkv+FOEnTjrF0CQu5ul0qyAY9RPClnQJju7qTII2UNBjLPpA0KC1/CwcfZIlaXwxT7DXDhGGA==;fLEsE8mXJB1wHGRQ9bbdWw=="
 ---
 

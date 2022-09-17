@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fox9.com/news/cancer-us-fight-biden-jfk-speech.amp"
 cdnAmpWebUrl: "https://www-fox9-com.cdn.ampproject.org/c/s/www.fox9.com/news/cancer-us-fight-biden-jfk-speech.amp"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "On Kennedy's moonshot speech anniversary, Biden to push fight against cancer"
-    excerpt: "In 2022, the American Cancer Society estimates, 1.9 million new cancer cases will be diagnosed and 609,360 people will die of cancer diseases."
-    publishedDateTime: 2022-09-12T05:29:00Z
-    webUrl: "https://www.hindustantimes.com/world-news/on-kennedy-s-moonshot-speech-anniversary-biden-to-push-fight-against-cancer-101662958934994.html"
-    ampWebUrl: "https://www.hindustantimes.com/world-news/on-kennedy-s-moonshot-speech-anniversary-biden-to-push-fight-against-cancer-101662958934994-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/world-news/on-kennedy-s-moonshot-speech-anniversary-biden-to-push-fight-against-cancer-101662958934994-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 56
-    images:
-      - url: "https://images.hindustantimes.com/img/2022/09/12/1600x900/Biden-Cancer-Moonshot-0_1662960013318_1662960013318_1662960065439_1662960065439.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "'We're going to cure cancer': Biden channels JFK on 60th anniversary of his moonshot speech"
     excerpt: "Biden and health advisors are touting a new study showing promise in screening for multiple cancers, as well as a plan to increase funding for cancer research and treatments."
     publishedDateTime: 2022-09-12T16:01:00Z

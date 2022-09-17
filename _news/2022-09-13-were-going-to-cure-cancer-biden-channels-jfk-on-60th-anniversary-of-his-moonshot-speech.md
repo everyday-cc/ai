@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "On Kennedy's moonshot speech anniversary, Biden to push fight against cancer"
-    excerpt: "In 2022, the American Cancer Society estimates, 1.9 million new cancer cases will be diagnosed and 609,360 people will die of cancer diseases."
-    publishedDateTime: 2022-09-12T05:29:00Z
-    webUrl: "https://www.hindustantimes.com/world-news/on-kennedy-s-moonshot-speech-anniversary-biden-to-push-fight-against-cancer-101662958934994.html"
-    ampWebUrl: "https://www.hindustantimes.com/world-news/on-kennedy-s-moonshot-speech-anniversary-biden-to-push-fight-against-cancer-101662958934994-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/world-news/on-kennedy-s-moonshot-speech-anniversary-biden-to-push-fight-against-cancer-101662958934994-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 56
-    images:
-      - url: "https://images.hindustantimes.com/img/2022/09/12/1600x900/Biden-Cancer-Moonshot-0_1662960013318_1662960013318_1662960065439_1662960065439.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Biden to address US effort to fight cancer by channeling JFK’s famous ‘moonshot’ speech"
     excerpt: "The commander-in-chief wants to develop treatments and therapeutics to battle cancer and hopes to meet a goal to cut cancer deaths by 50% over the next 25 years to improve the lives of caregivers and people suffering from cancer."
     publishedDateTime: 2022-09-12T15:21:00Z

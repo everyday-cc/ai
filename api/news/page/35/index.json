@@ -2,6 +2,40 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2022-08-16-featurespace-and-vital4-partner-to-provide-enhanced-watchlist-screening.md",
+      "title": "Featurespace and Vital4 Partner to Provide Enhanced Watchlist Screening",
+      "excerpt": "With a mission to make the world a safer place to transact, Featurespace helps banks and financial institutions protect consumers, and reduce risk and operating costs by providing industry-leading machine learning, financial crime prevention solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/featurespace-and-vital4-partner-to-provide-enhanced-watchlist-screening/",
+      "originalUrl": "https://www.01net.it/featurespace-and-vital4-partner-to-provide-enhanced-watchlist-screening/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-16-the-best-roombas-in-2022.md",
       "title": "The best Roombas in 2022",
       "excerpt": "iRobot’s Roomba range offers everything from entry-level models up to premium designs, which include self-emptying charging bases and object recognition. However, you don’t have to spend the ...",
@@ -1093,40 +1127,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-natural-language-processing-nlp-market-intelligence-report-global-forecast-to-2027-researchandmarketscom.md",
-      "title": "Natural Language Processing (NLP) Market Intelligence Report - Global Forecast to 2027 - ResearchAndMarkets.com",
-      "excerpt": "The \"Natural Language Processing Market Intelligence Report - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The Global Natural Language Processing Market is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsiltv.com/news/illinois/natural-language-processing-nlp-market-intelligence-report---global-forecast-to-2027--/article_42a9a5a7-967b-5eee-80ae-b8652cf90343.html",
-      "originalUrl": "https://www.wsiltv.com/news/illinois/natural-language-processing-nlp-market-intelligence-report---global-forecast-to-2027--/article_42a9a5a7-967b-5eee-80ae-b8652cf90343.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-16T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WSIL-TV",
-        "domain": "wsiltv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
