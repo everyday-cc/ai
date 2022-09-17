@@ -149,7 +149,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -190,41 +190,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-is-this-top-chip-stock-a-buy-with-limits-to-sales-in-china-in-place.md",
-      "title": "Is This Top Chip Stock a Buy With Limits to Sales In China in Place?",
-      "excerpt": "The Commerce Department is also putting restrictions on chip fab equipment too, in an effort to limit China's ability to make its own advanced semiconductors. Beijing has been serious about funding the development of its own domestic chip production industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/is-this-top-chip-stock-a-buy-with-limits-to-sales-in-china-in-place",
-      "originalUrl": "https://www.nasdaq.com/articles/is-this-top-chip-stock-a-buy-with-limits-to-sales-in-china-in-place",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T05:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
       ]
     },
     {
@@ -1256,20 +1221,11 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://d.ibtimes.com/en/full/3813247/logo-nvidia-corporation-seen-during-annual-computex-computer-exhibition-taipei.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/analysis-banned-us-ai-chips-high-demand-chinese-state-institutes-3609766?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/analysis-banned-us-ai-chips-high-demand-chinese-state-institutes-3609766?amp=1",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-09-06T06:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1472,6 +1428,49 @@
         "Machine Learning",
         "Natural Language Processing",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-09-02-with-new-china-ai-chip-restrictions-us-takes-aim-at-a-critical-niche.md",
+      "title": "With new China AI chip restrictions, US takes aim at a critical niche",
+      "excerpt": "The restricted chips have the ability to carry out AI calculations quickly, at huge scale, and with high precision, necessary for tasks such as designing fighter jets The United States beefed up ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.rappler.com/technology/china-ai-chip-nvidia-amd-restrictions-september-2022/",
+      "originalUrl": "https://www.rappler.com/technology/china-ai-chip-nvidia-amd-restrictions-september-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rappler.com/tachyon/2022/09/reuters-nvidia-sept-2022-scaled.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-02T04:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rappler",
+        "domain": "rappler.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

@@ -2,58 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2022-09-02-nvidia-says-us-government-allows-ai-chip-development-in-china.md",
-      "title": "Nvidia says U.S. government allows A.I. chip development in China",
-      "excerpt": "Nvidia said in an SEC filing Wednesday that the U.S. government is restricting sales of high-performance AI chips for servers, the A100 and H100, to China and Russia. Sales of both chips are still ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/09/01/nvidia-says-us-government-allows-ai-chip-development-in-china.html",
-      "originalUrl": "https://www.cnbc.com/2022/09/01/nvidia-says-us-government-allows-ai-chip-development-in-china.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107067150-1653504509165-gettyimages-1399238927-0j5a8860_7b828a63-4abc-4260-8e26-82fd1b37b3b6.jpeg?v=1653504562",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/09/01/nvidia-says-us-government-allows-ai-chip-development-in-china.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/09/01/nvidia-says-us-government-allows-ai-chip-development-in-china.html",
-      "publishedDateTime": "2022-09-01T16:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-02-boy-paralyzed-in-highland-park-shooting-may-have-cognitive-loss.md",
       "title": "Boy paralyzed in Highland Park shooting may have cognitive loss",
       "excerpt": "According to the family, they are now seeing some patterns of behavior that could indicate cognitive loss. Therapists are noticing short term memory loss, issues with word recovery and loss of ...",
@@ -1163,6 +1111,40 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-california-has-a-bill-to-go-after-teslas-self-driving-claims.md",
+      "title": "California Has a Bill to Go After Tesla’s Self-Driving Claims",
+      "excerpt": "Lawmakers in California are targeting Tesla’s self-driving claims with a new false advertising bill, VW’s next boss says the firm must speed up its switch to electric vehicles, and GM recalls its autonomous Cruise cars.",
+      "sourceUrl": null,
+      "webUrl": "https://jalopnik.com/california-has-a-bill-to-go-after-tesla-s-self-driving-1849484108",
+      "originalUrl": "https://jalopnik.com/california-has-a-bill-to-go-after-tesla-s-self-driving-1849484108",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://jalopnik.com/california-has-a-bill-to-go-after-tesla-s-self-driving-1849484108/amp",
+      "cdnAmpWebUrl": "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/california-has-a-bill-to-go-after-tesla-s-self-driving-1849484108/amp",
+      "publishedDateTime": "2022-09-01T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jalopnik",
+        "domain": "jalopnik.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

@@ -2,59 +2,6 @@
   "page": 124,
   "value": [
     {
-      "path": "_news/2022-06-09-azure-eats-into-aws-lead-as-cloud-market-continues-to-grow.md",
-      "title": "Azure eats into AWS lead as cloud market continues to grow",
-      "excerpt": "Amazon Web Services may be a global powerhouse in the cloud hosting world, but its share of the infrastructure as a service (IaaS) market could be one area it is falling behind somewhat. The tech giant’s share of the IaaS marketplace fell 40.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/in/news/azure-eats-into-aws-lead-as-cloud-market-continues-to-grow",
-      "originalUrl": "https://www.techradar.com/in/news/azure-eats-into-aws-lead-as-cloud-market-continues-to-grow",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-09-papercup-enhances-ai-dubbing-capabilities-with-new-20m.md",
       "title": "Papercup enhances AI dubbing capabilities with new $20M",
       "excerpt": "Papercup, a startup based in the U.K., has raised $20 million for an AI-powered dubbing service for translating speech and expression into other languages.",
@@ -1133,6 +1080,57 @@
         "name": "The Hollywood Reporter",
         "domain": "hollywoodreporter.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-general-purpose-ai-vs-vertical-specific-ai-whats-the-best-way-to-alleviate-our-supply-chain-woes.md",
+      "title": "General-Purpose AI Vs. Vertical-Specific AI: What’s The Best Way To Alleviate Our Supply Chain Woes?",
+      "excerpt": "Here are the key characteristics that we believe allow for the development of maritime AI as a clear, functional branch of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/general-purpose-ai-vs-vertical-specific-ai-whats-the-best-way-to-alleviate-our-supply-chain-woes/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/general-purpose-ai-vs-vertical-specific-ai-whats-the-best-way-to-alleviate-our-supply-chain-woes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//61aa209ac1e69020fec92b71/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/general-purpose-ai-vs-vertical-specific-ai-whats-the-best-way-to-alleviate-our-supply-chain-woes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/09/general-purpose-ai-vs-vertical-specific-ai-whats-the-best-way-to-alleviate-our-supply-chain-woes/amp/",
+      "publishedDateTime": "2022-06-09T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

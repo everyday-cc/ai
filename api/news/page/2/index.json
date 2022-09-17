@@ -606,7 +606,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -741,41 +741,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-is-this-top-chip-stock-a-buy-with-limits-to-sales-in-china-in-place.md",
-      "title": "Is This Top Chip Stock a Buy With Limits to Sales In China in Place?",
-      "excerpt": "The Commerce Department is also putting restrictions on chip fab equipment too, in an effort to limit China's ability to make its own advanced semiconductors. Beijing has been serious about funding the development of its own domestic chip production industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/is-this-top-chip-stock-a-buy-with-limits-to-sales-in-china-in-place",
-      "originalUrl": "https://www.nasdaq.com/articles/is-this-top-chip-stock-a-buy-with-limits-to-sales-in-china-in-place",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T05:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
       ]
     },
     {
@@ -1237,6 +1202,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-upset-by-high-prices-gms-cruise-develops-its-own-chips-for-self-driving-cars.md",
+      "title": "Upset by high prices, GM's Cruise develops its own chips for self-driving cars",
+      "excerpt": "A handout image shows a plate of Dune chips by General Motors' self driving vehicle unit Cruise, in San Francisco, California, U.S.. Courtesy of Cruise/Handout via REUTERS",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/news/picture/upset-by-high-prices-gms-cruise-develops-idUSKBN2QF014",
+      "originalUrl": "https://www.reuters.com/news/picture/upset-by-high-prices-gms-cruise-develops-idUSKBN2QF014",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20220914&t=2&i=1608778625&w=&fh=810&fw=545&ll=&pl=&sq=&r=LYNXMPEI8D029",
+          "width": 545,
+          "height": 726,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T14:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

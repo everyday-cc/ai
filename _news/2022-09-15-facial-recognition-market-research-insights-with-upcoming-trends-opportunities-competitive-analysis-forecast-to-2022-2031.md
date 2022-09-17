@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "This Israeli startup will help with port traffic jams using \"facial recognition\" of trucks"
-    excerpt: "The Israeli Conbo has developed a system that collects information from port cameras along with other known information to help the flow of traffic at ports"
-    publishedDateTime: 2022-09-13T04:49:00Z
-    webUrl: "https://www.geektime.com/conbo-ai-wants-to-help-docks-operate-in-a-better-way/"
-    ampWebUrl: "https://www.geektime.com/conbo-ai-wants-to-help-docks-operate-in-a-better-way/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/conbo-ai-wants-to-help-docks-operate-in-a-better-way/amp/"
-    type: article
-    provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 49
-    images:
-      - url: "https://www.geektime.com/content/images/2022/09/Screen-Shot-2022-09-11-at-15.38.54.png"
-        width: 1416
-        height: 858
-        isCached: true
   - title: "Facial analysis still biased, press still confusing it with facial recognition"
     excerpt: "Readers of both publications are at risk of being misled by the same kind of imprecise language that biometrics industry insiders have long warned against."
     publishedDateTime: 2022-09-16T14:29:00Z
@@ -55,6 +39,17 @@ related:
         width: 2048
         height: 1280
         isCached: true
+  - title: "Weathering a recession with reward and recognition"
+    excerpt: "When people think of reward and recognition, they primarily think of financial reward – pay. But there’s so much more"
+    publishedDateTime: 2022-09-15T07:00:00Z
+    webUrl: "https://www.hrzone.com/perform/people/weathering-a-recession-with-reward-and-recognition"
+    ampWebUrl: "https://www.hrzone.com/perform/people/weathering-a-recession-with-reward-and-recognition?amp"
+    cdnAmpWebUrl: "https://www-hrzone-com.cdn.ampproject.org/c/s/www.hrzone.com/perform/people/weathering-a-recession-with-reward-and-recognition?amp"
+    type: article
+    provider:
+      name: HRZone
+      domain: hrzone.com
+    quality: 26
 
 secured: "K73ifOtCLB5ZBnr1u4EjBS4V3KeASe+UspfbOcdY7HrltBr0EabZY4/R8PLce+IxFuSXvqLUSj9Wa7BcSFPX8ud8f/GZRfFTpBQrP5CV9nYu1q5wCC165Xz6RiOfa0E3GFYNeOUwSZlQEc/UvohdO6CA9kWgbiuH1JW9pZwrA9r2zmyFquV0tQ6dXn1qcxE667/Zelz13M3kTIDIk1rpqr092SdHRMBwr2QXJhLlGcLPeS9fi9961nZ2N3c8ZKgKI/OwaiozuyAgyyYXqgkpRGwjsKPxJuT+6TiZFnXEWhKUcPqsGei1OeE7bla3DbRLiglzMFFSAr2kcBFzFEJwJZLbRq4xSlXXfjaQfvxFguY=;No3FyDhym2r1GXIVf2BXjw=="
 ---

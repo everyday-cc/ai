@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202209/facial-analysis-still-biase
 webUrl: "https://www.biometricupdate.com/202209/facial-analysis-still-biased-press-still-confusing-it-with-facial-recognition"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -25,22 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "This Israeli startup will help with port traffic jams using \"facial recognition\" of trucks"
-    excerpt: "The Israeli Conbo has developed a system that collects information from port cameras along with other known information to help the flow of traffic at ports"
-    publishedDateTime: 2022-09-13T04:49:00Z
-    webUrl: "https://www.geektime.com/conbo-ai-wants-to-help-docks-operate-in-a-better-way/"
-    ampWebUrl: "https://www.geektime.com/conbo-ai-wants-to-help-docks-operate-in-a-better-way/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/conbo-ai-wants-to-help-docks-operate-in-a-better-way/amp/"
+  - title: "Weathering a recession with reward and recognition"
+    excerpt: "When people think of reward and recognition, they primarily think of financial reward – pay. But there’s so much more"
+    publishedDateTime: 2022-09-15T07:00:00Z
+    webUrl: "https://www.hrzone.com/perform/people/weathering-a-recession-with-reward-and-recognition"
+    ampWebUrl: "https://www.hrzone.com/perform/people/weathering-a-recession-with-reward-and-recognition?amp"
+    cdnAmpWebUrl: "https://www-hrzone-com.cdn.ampproject.org/c/s/www.hrzone.com/perform/people/weathering-a-recession-with-reward-and-recognition?amp"
     type: article
     provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 49
-    images:
-      - url: "https://www.geektime.com/content/images/2022/09/Screen-Shot-2022-09-11-at-15.38.54.png"
-        width: 1416
-        height: 858
-        isCached: true
+      name: HRZone
+      domain: hrzone.com
+    quality: 26
   - title: "Facial Recognition Market Research Insights With Upcoming Trends, Opportunities, Competitive Analysis, Forecast To 2022-2031"
     excerpt: "The global facial recognition market size is expected to grow from an estimated value of USD 3.8 billion in 2022 to USD 8.5 billion by 2031, at a Compound Annual Growth Rate (CAGR) of 17.2% from 2022 to 2031."
     publishedDateTime: 2022-09-14T17:44:00Z

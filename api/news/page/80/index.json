@@ -2,40 +2,6 @@
   "page": 80,
   "value": [
     {
-      "path": "_news/2022-07-13-facial-recognition-software-considered-by-government-agencies.md",
-      "title": "Facial recognition software considered by government agencies",
-      "excerpt": "Government agencies have a facial recognition system set up to share drivers’ licence photos with the Covid-19 vaccine passport scheme. Documents show the Ministry of Social Development (MSD) in talks to get people’s photos through the system to check the identity of beneficiaries – though it denies ever doing this – and talk about using it in schools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fbcnews.com.fj/world/new-zealand/facial-recognition-software-considered-by-government-agencies/",
-      "originalUrl": "https://www.fbcnews.com.fj/world/new-zealand/facial-recognition-software-considered-by-government-agencies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-12T21:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fbcnews",
-        "domain": "fbcnews.com.fj",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-13-s2w-presented-a-paper-on-dark-web-language-analysis-at-the-worlds-most-prestigious-natural-language-processing-nlp-conference-naacl.md",
       "title": "S2W Presented a Paper on Dark Web Language Analysis at the World's Most Prestigious Natural Language Processing (NLP) Conference, NAACL",
       "excerpt": "https://s2w.inc/) participated in the world's most prestigious natural language processing society, NAACL 2022 (Annual Conference of the North American Chapter of the Association for Computational ...",
@@ -1034,6 +1000,40 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-a-very-human-thing-why-the-translation-business-continues-to-be-resilient.md",
+      "title": "A Very Human Thing: Why the Translation Business Continues to Be Resilient",
+      "excerpt": "Translated CEO, Marco Trombetti, on why demand for language services has remained strong and the implications of advances in machine translation technology.",
+      "sourceUrl": null,
+      "webUrl": "https://slator.com/a-very-human-thing-why-the-translation-business-continues-to-be-resilient/",
+      "originalUrl": "https://slator.com/a-very-human-thing-why-the-translation-business-continues-to-be-resilient/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T02:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slator",
+        "domain": "slator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

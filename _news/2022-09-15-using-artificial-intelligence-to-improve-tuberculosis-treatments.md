@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Using artificial intelligence to improve tuberculosis treatments"
-excerpt: "Imagine you have 20 new compounds that have shown some effectiveness in treating a disease like tuberculosis (TB), which affects 10 million people worldwide and kills 1.5 million each year. For effective treatment,"
-publishedDateTime: 2022-09-14T21:11:00Z
-originalUrl: "https://phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.html"
-webUrl: "https://phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.html"
+excerpt: "Researchers used data from large studies that contained laboratory measurements of two-drug combinations of 12 anti-tuberculosis drugs. Using mathematical models, the team discovered a set of rules that drug pairs need to satisfy to be potentially good treatments as part of three- and four-drug cocktails."
+publishedDateTime: 2022-09-14T22:32:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/09/220914180013.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/09/220914180013.htm"
 type: article
-quality: 17
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -88,6 +92,6 @@ related:
       domain: tmcnet.com
     quality: 15
 
-secured: "pJ9wJLH1YSHQWG/n7NmMUS5itXoid5GPsBuS47M84QuYx8EyvB98tWAbA1p/48rw8F7bLGyM/b8Rtv6MDn9Se2dx2HrjbddPQcH3nEYgpiIBQ4ktqs3fnIAA+mnDQtC6lnlmeMqOKPcKpE8DkfkzyLPU01pOv3T+77ZPPHs+eWDtFOClPPdpydLMXMuUlLb+BpXY1+2NA9sV05TFS7w6EM2QyI+/L65nQMA7kXJ+ZSAvZMWBxBZMVZvko6/b4Rlr2RTClMsKta5Z+q9nppghOmvQTi8tbO+vZNC/HsRsV56MQh2d5YIGsNsRfjB5CbF2PLphU/Qo1iaCf3fXs9mVsNP9Som6gBsrlUx1Urp+KCAxyqE3qwQ0uguLsv0f0TQxekYLdXFgAR2wDmtlpWQI9g7XtVuyWRospX03c7riPmmbHlGbgrSDXTgdUz7z6A4oEatr+Bk2j1FjYMLdeE5ws1gQcA3ule7WGsHZ/FMrS+gnKys6TDhaF2++ugjwUkPzgzsEZb71Y30V5UGM4SFXMQ==;+l7XTmpWOWjHOWhXAawy3A=="
+secured: "0JsuGj0NMMskwbFQLZzkLQ/cgeh3VMa0yDv6HIIcCdUiDAL3P9oqF85BNh0zt5fWClrenx8enB/qoP6yfqR1kWler7A5Tflc9VuVqlhp61RlbykvuTNi2+rjTWCHFDURFBGc92AXP4sHYEkouO21gZLsTm3CM4Dp13XpvuFBNmb6Ys1LsHMv8q0nq1PvrSeWH7tZhHQjMY+QwyC6J+varf9I8RwHBsAiB4grpyWttOknWSQOLb092iZeiQoe/q9JZ3WiyaoK4wZPoMxrzbwld91j3Gr3+DApYlaTlmRsuMsU1jCg/X64D089E7JvKvLIjmzFUFOvtNnjmT83op+Q9qzJgSbX5k/yvJphmIvk+/U=;bSwshjkz8tkdq6EJfP4eAQ=="
 ---
 

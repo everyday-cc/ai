@@ -2,49 +2,6 @@
   "page": 52,
   "value": [
     {
-      "path": "_news/2022-08-04-artificial-intelligence-in-drug-discovery-market-intelligence-report-global-forecast-to-2027-researchandmarketscom.md",
-      "title": "Artificial Intelligence in Drug Discovery Market Intelligence Report - Global Forecast to 2027 - ResearchAndMarkets.com",
-      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Drug Discovery Market Intelligence Report - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Intelligence in Drug Discovery Market is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pharmiweb.com/press-release/2022-08-03/artificial-intelligence-in-drug-discovery-market-intelligence-report-global-forecast-to-2027-res",
-      "originalUrl": "https://www.pharmiweb.com/press-release/2022-08-03/artificial-intelligence-in-drug-discovery-market-intelligence-report-global-forecast-to-2027-res",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png",
-          "width": 1200,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PharmiWeb",
-        "domain": "pharmiweb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-04-vin-scully-voice-of-the-dodgers-for-67-years-saw-much-baseball-history.md",
       "title": "Vin Scully, Voice Of The Dodgers For 67 Years, Saw Much Baseball History",
       "excerpt": "A legend long before the Dodgers moved to Los Angeles in 1958, Scully was so good behind the microphone that worked games alone – a rare feat for a 21st century announcer. Scully, who died Tuesday at age 94,",
@@ -1178,6 +1135,58 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-03-aerobics-isnt-the-only-exercise-that-can-slow-mild-cognitive-decline-study-finds.md",
+      "title": "Aerobics isn't the only exercise that can slow mild cognitive decline, study finds",
+      "excerpt": "Regular stretching and balance and range of motion exercises are as good as aerobic exercise in slowing the progression of mild cognitive decline, a new study has found. \"My worry in the beginning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/08/02/health/stretching-cognitive-decline-wellness/index.html",
+      "originalUrl": "https://www.cnn.com/2022/08/02/health/stretching-cognitive-decline-wellness/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220728155815-stretching-stock-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/08/02/health/stretching-cognitive-decline-wellness/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/02/health/stretching-cognitive-decline-wellness/index.html",
+      "publishedDateTime": "2022-08-02T21:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

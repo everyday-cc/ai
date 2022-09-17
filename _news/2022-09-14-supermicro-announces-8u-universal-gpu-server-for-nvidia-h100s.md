@@ -41,22 +41,6 @@ related:
         width: 624
         height: 352
         isCached: true
-  - title: "SK-backed AI chip outperforms Nvidia's GPU"
-    excerpt: "Sapeon, an artificial intelligence-powered chip designer backed by South Korea's SK Group, unveiled Tuesday a test result that its first commercialized product X220 has outperformed US graphic processor giant Nvidia's newest product A2."
-    publishedDateTime: 2022-09-13T05:01:00Z
-    webUrl: "https://www.koreaherald.com/view.php?ud=20220913000551"
-    ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20220913000551"
-    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20220913000551"
-    type: article
-    provider:
-      name: The Korea Herald
-      domain: koreaherald.com
-    quality: 89
-    images:
-      - url: "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2022%2F09%2F13%2F20220913000548_0.jpg"
-        width: 630
-        height: 505
-        isCached: true
   - title: "Nvidia Hopper GPU slays predecessor in ML benchmarks"
     excerpt: "Benchmarks aren't the same as real world use, but they can give a good idea of what’s to come, and Nvidia's Hopper GPU performance is impressive."
     publishedDateTime: 2022-09-13T14:09:00Z

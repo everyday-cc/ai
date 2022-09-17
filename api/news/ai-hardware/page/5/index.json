@@ -2,58 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2022-07-27-intels-arc-a370m-is-great-for-creators-on-the-go.md",
-      "title": "Intel’s Arc A370M Is Great For Creators On-The-Go",
-      "excerpt": "Intel recently released the first members of its new Arc family of GPUs, the A350M and A370M. Representing the mobile faction of the Arc lineup, these two GPUs will mostly be found in laptops.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/07/27/intels-arc-a370m-is-great-for-creators-on-the-go/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/07/27/intels-arc-a370m-is-great-for-creators-on-the-go/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62e17341196384f9ea133856/0x0.jpg?format=jpg&width=1200",
-          "width": 936,
-          "height": 636,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/07/27/intels-arc-a370m-is-great-for-creators-on-the-go/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/07/27/intels-arc-a370m-is-great-for-creators-on-the-go/amp/",
-      "publishedDateTime": "2022-07-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-26-aryabhat-1-iisc-bangalores-analog-chipset-for-ai-applications.md",
       "title": "ARYABHAT-1, IISc Bangalore’s Analog Chipset for AI Applications",
       "excerpt": "With ARYABHAT we have a learning paradigm, the problem of analog chips being prone to noise or small variations in voltage that causes errors can be compensated here by learning and overcoming,” Prof.",
@@ -1401,6 +1349,59 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-no-language-left-behind-metas-new-ai-model-can-translate-200-languages.md",
+      "title": "No Language Left Behind: Meta's new AI model can translate 200 languages",
+      "excerpt": "Meta has built an language model that translates across 200 languages better than the competition at an average of 44%. It has up to 54.5 billion parameters and has been open-sourced on GitHub.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/no-language-left-behind-metas-new-ai-model-can-translate-200-languages/",
+      "originalUrl": "https://www.neowin.net/news/no-language-left-behind-metas-new-ai-model-can-translate-200-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 263,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2022/07/1657179489_287605911_512850337132384_8138110729340998362_n_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T00:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI Hardware"
       ]
     }
   ],

@@ -23,31 +23,22 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Why humanity is needed to propel conversational AI"
-    excerpt: "Conversational AI still has some way to go before all users feel accurately represented. Accounting for subtleties of dialect, the time taken for speakers to think, as well as the active nature of a conversation,"
-    publishedDateTime: 2022-09-13T04:19:00Z
-    webUrl: "https://venturebeat.com/ai/why-humanity-is-needed-to-propel-conversational-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/why-humanity-is-needed-to-propel-conversational-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-humanity-is-needed-to-propel-conversational-ai/amp/"
+  - title: "How To Use AI To Maximize Your Inflation Relief Payments"
+    excerpt: "Over a dozen states have or will send inflation relief payments to citizens to lessen the burden of inflation. Here's how to use that money."
+    publishedDateTime: 2022-09-16T15:10:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2022/09/16/how-to-use-ai-to-maximize-your-inflation-relief-payments/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2022/09/16/how-to-use-ai-to-maximize-your-inflation-relief-payments/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/09/16/how-to-use-ai-to-maximize-your-inflation-relief-payments/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-593338488-Just_Super.jpg?w=1200&strip=all"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6324907cc8e44a5738b00cbd/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 634
+        height: 753
         isCached: true
-  - title: "Into the metaverse: How conversational AI will build its experiential foundation"
-    excerpt: "Innovations like the metaverse would not be achievable without conversational AI, and open source platforms are making it possible."
-    publishedDateTime: 2022-09-15T18:07:00Z
-    webUrl: "https://venturebeat.com/ai/into-the-metaverse-conversational-ai-build-experiential-foundation/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 42
 
 secured: "3V+ozaLvhCav6fjQcdHV7Oe7ZCLqbPYEZWdNY+J053WdO+3D0dN6wvzr07N05MLvdueLxm+JmHa8xyRDLEu5XwLFi6X0drfVFmi1Pc0MismbKdqbAeQBrOXKYCV6k+770Jvt790oXsAqsTehQguE+mQD/bYjrQboP5WzfPT3a9sjn/6h4VUkjqc4ePRcxJvtNpPU2sLMdmNvMTI8ZLFg0j9i8NRReJTaklBMm8B4bAfREPYncKAti/SPBrb010oqKNzAWq6cz5EG0Dz9UtqWUeK/eyOiLNTxXVLF+JuAkyFxc+cXMJjj3fT3hvIKtcxjoZZkm1GpLVrYe1jdzTZ0KKxpnGT7ZQcbKG/bk/K8vwlLbW2mhxJkFNL/O02HOp239dmGZRHRTHlEuztIgK1qizGDeFCafRyEEl5R8JEg66As9WugLqj8IdpOnp8R9x3bsGkEKCDHsn9a6Fkwq/1V3Sx21NSImbz16a9X2dWRdlowS0yXADWWz14YrbH/IBQJDzwzjDYjtbBgA2ap3YJsTA==;HRvJFHizFdpw+uFZOcR7rA=="
 ---

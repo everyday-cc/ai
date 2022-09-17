@@ -66,14 +66,14 @@ related:
         height: 450
         isCached: true
   - title: "Global Artificial Intelligence (AI) in Automotive and Transportation Market to Grow at 20% Through 2026"
-    excerpt: "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to"
-    publishedDateTime: 2022-09-16T19:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/n28901830/global-artificial-intelligence-ai-in-automotive-and-transportation-market-to-grow-at-20-through-20"
+    excerpt: "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to ResearchAndMarkets.com's offering. This market is likely to grow at a CAGR of around 20% during 2021-26."
+    publishedDateTime: 2022-09-16T21:17:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-automotive-transportation-market-grow-/2022/09/16/9675469.htm"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 18
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
 
 secured: "CpvePVjpoZS38bxraEQRxTQ1gLf3StzZRTr9iMxvasxsqR4gH4wFgGRVTP6+maI+MK+vMQdkkcV/bZSltzjpewxi6VW+m63IYQeMuXqD8AmvuJKIeQBHHs7RzxiPDUQ65MWb9uiJNz1fOhB37khDtLuojNifUJ4ZOKzsSjQ4OD/9+gG9yX8j+Po+CvtNhJPubT5Q7PSwEKTEg6DLEHUpkFpR0jo/R6spQAuSpldhQO9J8MSdwYUs4cq7eXWhQ3Lpwfe9OpPGfIBy/3bzptvruJDnfzLBzPhhE2r82k4t5Ub2zwwfHEdc6vbPFJUt5W9zbHYg8hZ4I4G3FkhoTh03YcsySOomERHkBPrjzVXS7qu6XtWY/HHmSIPsVcgGn618qpxnRfZPhbgNzJOeI2oalnv7ybkrpPfona8V05DeT7j4Kw2lmQ0JyXezLsaAUh74qkoTZF07YEIc2TWYCFCVbfN6rbI5vQnljFMMOqhpEMAlb8wU/JRx9+GYLhBJzBMakv3iFYx+dHnkugc56qJmhg==;NLK3FeHyjzK80oVFewKsPA=="
 ---

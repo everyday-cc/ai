@@ -2,40 +2,6 @@
   "page": 28,
   "value": [
     {
-      "path": "_news/2022-08-23-bosch-backed-self-driving-startup-weride-weighing-ipo-sources-say.md",
-      "title": "Bosch-backed self-driving startup WeRide weighing IPO, sources say",
-      "excerpt": "The self-driving vehicle industry has long been divided over the best ... taking a similar approach to peers including Baidu, Huawei Technologies, and General Motors-backed Momenta.ai. BLOOMBERG",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesstimes.com.sg/garage/bosch-backed-self-driving-startup-weride-weighing-ipo-sources-say",
-      "originalUrl": "https://www.businesstimes.com.sg/garage/bosch-backed-self-driving-startup-weride-weighing-ipo-sources-say",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T01:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Times",
-        "domain": "businesstimes.com.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-23-best-speech-to-text-apps-in-2022-free-paid-and-online-voice-recognition-apps-and-services.md",
       "title": "Best speech-to-text apps in 2022: Free, paid and online voice recognition apps and services",
       "excerpt": "Here then are the best in speech-to-text recognition programs, which should be more than capable for most situations and circumstances. Dragon Anywhere is the Nuance mobile product for Android and ...",
@@ -1144,6 +1110,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-22-5-best-artificial-intelligence-stocks-to-buy-now.md",
+      "title": "5 Best Artificial Intelligence Stocks To Buy Now",
+      "excerpt": "The company’s Meta AI is working towards developing artificial intelligence in the digital ... self-driving cars through its subsidiary, Waymo. In addition, the company’s subsidiary DeepMind ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-now-1058867/?singlepage=1",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-now-1058867/?singlepage=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/09/29221800/istockphoto-1274437411-170667a.jpg",
+          "width": 584,
+          "height": 296,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-22T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }
