@@ -65,20 +65,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "PyTorch joins the Linux Foundation"
-    excerpt: "Under the linux Foundation, PyTorch gains several benefits including helpful programs, research, and global and local events."
-    publishedDateTime: 2022-09-12T15:41:00Z
-    webUrl: "https://sdtimes.com/software-development/pytorch-joins-the-linux-foundation/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 71
-    images:
-      - url: "https://sdtimes.com/images/sd-premium.png"
-        width: 628
-        height: 246
-        isCached: true
   - title: "Meta passes PyTorch ownership to Linux Foundation in a bid to improve transparency"
     excerpt: "The widely-used framework will also fall under a newly-formed PyTorch Foundation, with a governing board composed of tech giants such as Google Cloud and Microsoft Azure"
     publishedDateTime: 2022-09-13T10:46:00Z
@@ -107,15 +93,6 @@ related:
         width: 803
         height: 419
         isCached: true
-  - title: "Meta Transitions PyTorch to the Linux Foundation, Further Accelerating AI/ML Open Source Collaboration"
-    excerpt: "PyTorch Foundation to foster an ecosystem of vendor-neutral projects alongside founding members AMD, AWS, Google Cloud, Meta, Microsoft Azure, and NVIDIA DUBLIN , Sept. 12, 2022 /PRNewswire/ -- The Linux Foundation,"
-    publishedDateTime: 2022-09-12T15:30:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/12/9671322.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 37
   - title: "LinkedIn Donates Feature Store to Linux Foundation"
     excerpt: "LinkedIn today announced that its open source feature store, dubbed Feathr, is joining LF AI & Data, the Linux Foundation’s umbrella foundation for"
     publishedDateTime: 2022-09-12T21:00:00Z

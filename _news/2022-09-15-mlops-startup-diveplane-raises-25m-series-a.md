@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/2022/09/14/mlops-startup-diveplane-raises
 webUrl: "https://www.datanami.com/2022/09/14/mlops-startup-diveplane-raises-25m-series-a/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,47 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "How Diveplane uses explainable AI to bolster AI adoption"
-    excerpt: "Diveplane has raised $25M in series A funding for its explainable AI solutions supporting transparent decision-making and data privacy."
-    publishedDateTime: 2022-09-12T15:40:00Z
-    webUrl: "https://venturebeat.com/ai/how-diveplane-uses-explainable-ai-to-bolster-ai-adoption/"
-    ampWebUrl: "https://venturebeat.com/ai/how-diveplane-uses-explainable-ai-to-bolster-ai-adoption/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-diveplane-uses-explainable-ai-to-bolster-ai-adoption/amp/"
+  - title: "Raleigh startup with new downtown HQ raises $25M, plans to hire"
+    excerpt: "A Raleigh startup led by a former president of Epic Games is ready to grow its headcount in its new headquarters space following a $25 million raise."
+    publishedDateTime: 2022-09-13T19:04:00Z
+    webUrl: "https://www.bizjournals.com/triangle/news/2022/09/13/raleigh-startup-diveplane-raise-new-headquarters.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-black_box_AI_explainable_AI_1324510115-e1662994691115.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Diveplane adds $25M Series A as ‘rocket fuel’ for the Raleigh-based AI startup"
-    excerpt: "The Raleigh-headquartered AI startup Diveplane, led by the former CEO of Epic Games, has closed $25 million in a Series A fundraising round."
-    publishedDateTime: 2022-09-12T15:45:00Z
-    webUrl: "https://wraltechwire.com/2022/09/12/diveplane-adds-25m-series-a-as-rocket-fuel-for-the-raleigh-based-ai-startup/"
-    ampWebUrl: "https://wraltechwire.com/2022/09/12/diveplane-adds-25m-series-a-as-rocket-fuel-for-the-raleigh-based-ai-startup/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/09/12/diveplane-adds-25m-series-a-as-rocket-fuel-for-the-raleigh-based-ai-startup/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 53
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2018/07/money-cash-venture-capital-e1564657723363.jpg"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Sigma Defense Backs Artificial Intelligence Startup Diveplane with Series A Investment"
-    excerpt: "Diveplane helps businesses and government organizations concerned with data privacy to better understand and leverage the power of their data through AI tools that are trainable, interpretable and auditable."
-    publishedDateTime: 2022-09-12T15:23:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-sigma-defense-backs-artificial-intelligence-startup-diveplane-with-/2022/09/12/9671348.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 9
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "JFJjTkyn7kTd4xFIvTJLqOBmE0QH052jOQsT216X3WFLh1rYzvVAu/q9y1VwCFGi/Uz7OdGAwPHR0snUg31Rur6DJlFBuHw2+BRiewnp5hX5M2Vq5aSqj/EKrhAScTmUC+sMCMXMo7r1v/EGpad79H904c+GpByPdseMXOOeaPub6YoqNf8WPpm8IJBAQJSH3JfxSznj/Objv1ZTxFYzxRvr7gYAG2uy4Sy2uU3VFWErEOAoKYNAxVWm2HG4++I7JC29ZoXeyx1BMcYdGGFBCVl0zdby5JKWPhZMzHATxfAawtvISumPIZTnX02nDzxYm9rqFStgqduJ4Ix7vpqHjE2jHIitnzRAKan5+YwT8tEVhLyYUVBkUXs8tnJKf+7qlZpJwfNtmm6cX51HGatJj7SVGlp9oN78gv16ZcjWkOiifgV74Ej4dNxQliXR3Nd8/XR0licc4PpqHW5c9oduKk122cBO9fZ3LKpf12EQ4adBtV7iAkcj6NyKGpfU6N2BCSq9o58Xdx+j4M3WTAysQg==;0XqeaR5U37//LLK7fdj1bQ=="
 ---

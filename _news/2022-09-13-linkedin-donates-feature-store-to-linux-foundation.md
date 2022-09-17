@@ -66,20 +66,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "PyTorch joins the Linux Foundation"
-    excerpt: "Under the linux Foundation, PyTorch gains several benefits including helpful programs, research, and global and local events."
-    publishedDateTime: 2022-09-12T15:41:00Z
-    webUrl: "https://sdtimes.com/software-development/pytorch-joins-the-linux-foundation/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 71
-    images:
-      - url: "https://sdtimes.com/images/sd-premium.png"
-        width: 628
-        height: 246
-        isCached: true
   - title: "Meta is handing over its PyTorch AI platform to the Linux Foundation"
     excerpt: "Meta has announced it is handing over its PyTorch artificial intelligence (AI) platform to the Linux Foundation. Created by Facebook in 2016, PyTorch is a deep learning framework that has been used for many AI projects,"
     publishedDateTime: 2022-09-13T19:17:00Z
@@ -117,15 +103,6 @@ related:
         width: 803
         height: 419
         isCached: true
-  - title: "Meta Transitions PyTorch to the Linux Foundation, Further Accelerating AI/ML Open Source Collaboration"
-    excerpt: "PyTorch Foundation to foster an ecosystem of vendor-neutral projects alongside founding members AMD, AWS, Google Cloud, Meta, Microsoft Azure, and NVIDIA DUBLIN , Sept. 12, 2022 /PRNewswire/ -- The Linux Foundation,"
-    publishedDateTime: 2022-09-12T15:30:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/12/9671322.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 37
 
 secured: "kRDIMukeXgSQsE/Td1gx0seT05Yg2wINjDoZXifTdWHtcXOHRNE4YwiM3tdxt3h5zpq5CTsL9l9dO6xmB4rb8ASHiyMp7hyeP0cfvDKeM+RW5B6Ui/0gSmqySl5S2D+crD2FF2PAGX4TuIjO1mpnQQ6UcWf8HJxtqLeEXxIrLQb/Oit6Qn+QJUxlDKOa/hrzxHkxSKYeB3pVQVdNuTrNKvC5t47yilp61HYkaINUz7FSp1PeW3BfrBCNrxxOGsFKLnDQI+xa+CZ1pjVrkJQaN20COyC00KYlHCgZ4J7oayirMnodeNcDxXfr732coo6BWUk/qOTINjHK/IEYzA8GZpvi7fXd994IIm1WdwAHFq4zpXsk6twBYOKDq2oPtn/5ksd6u+DJhIzI79L9D8I5eDRQ9Zr8mervPhE6fNk+FfWKGK/ceaKW/PNZoufz04xi3Q51h/psByvRwZ4UPeFmykxqGGJP1N1iAXxNlvmL8HVutNpYlNoujpB657Kq9nZDBEKk+pnermyEQDSu75s51Q==;fn3oZ67CNQ/y8bmt47lP8A=="
 ---

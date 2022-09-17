@@ -9,8 +9,8 @@ ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202209/ai-r
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202209/ai-researchers-decode-speech-thoughts-without-brain-surgery?amp"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: Psychology Today
@@ -26,24 +26,6 @@ images:
     width: 1528
     height: 800
     isCached: true
-
-related:
-  - title: "Political research benefits from AI methodology"
-    excerpt: "How can AI assist the work of social scientists when studying our elected politicians? AI experts are developing methodologies to support the political research, in collaboration with researchers from the social science field."
-    publishedDateTime: 2022-09-12T15:19:00Z
-    webUrl: "https://phys.org/news/2022-09-political-benefits-ai-methodology.html"
-    ampWebUrl: "https://phys.org/news/2022-09-political-benefits-ai-methodology.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-political-benefits-ai-methodology.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-3.jpg"
-        width: 1920
-        height: 1319
-        isCached: true
 
 secured: "z/R9qO/wk2TNhho8LCZr1V3I2kJn5b77ftfIXBGnn3JPnAIKN1TAPbC09gPXENMTL2YJR4lIiolJZ/loy2o99tfpoJGIULvhc82KJiPcULe1W9rXk/ApX8aMpSbW90i5YWz9KQwi20+SkriLqS52ON/7HAbt5LRaxsekylhVpuRmVJE9Ha9ZrlbC9LoELsioKUjsJEsTY5ZTqzbtKQgjOQvNp4Ru2wu2HZKcFRTr5fv7q9oJ6LC1OzhRcD/8LIHudokmzcWTN8a5WGiuZu+ErMseOz/Jnn6Ov31ZNFc5SpHJ42P5eUa4qhUfcV1agvZRaZ60YQla1XvjRD9OHq0q+flq5CwnhngVGkuRMU57WhVVm01KauZJtzPMLsGMzPEo/3Jr06oVHR4wz9Wyci7gihkdm3EWmvbsHPZvGMUBRWeCdT1lN3//LA5d+Hm+FqrrkuvdDfLCwK+iriyc2VWf0Fjm3Af8dLHI3mpPFRBdbmgWTXbH6ISiCBwLloPO7/pBArHQ50XWNykry3Yz84K/9Q==;rp1b3DquMwyiQxqyFOL7hA=="
 ---

@@ -92,15 +92,6 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 9
-  - title: "Legal Software With Machine Learning Global Market to Reach $630 Million by 2026 with a CAGR of 13.2%"
-    excerpt: "The global legal software market is expected to grow from $0.33 billion in 2021 to $0.39 billion in 2022 at a compound annual growth rate (CAGR) of 16.6%. The change in growth trend is mainly due to the companies stabilizing their output after catering to the demand that grew exponentially during the COVID-19 pandemic in 2021."
-    publishedDateTime: 2022-09-12T16:22:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-legal-software-with-machine-learning-global-market-reach-/2022/09/12/9671408.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
   - title: "Asia-Pacific Digital Payments Market Set to More than Triple Its Size Crossing USD 67 Billion by 2028 | BlueWeave Consulting"
     excerpt: "Asia-Pacific (APAC) digital payments market is booming owing to convenience of transactions, widespread usage of smartphones, and the financial inclusion opportunities"
     publishedDateTime: 2022-09-14T15:00:00Z
