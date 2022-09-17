@@ -66,15 +66,15 @@ related:
         height: 450
         isCached: true
   - title: "Global Artificial Intelligence (AI) in Automotive and Transportation Market to Grow at 20% Through 2026"
-    excerpt: "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to ResearchAndMarkets.com's offering. This market is likely to grow at a CAGR of around 20% during 2021-26."
-    publishedDateTime: 2022-09-16T21:17:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-automotive-transportation-market-grow-/2022/09/16/9675469.htm"
+    excerpt: "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to"
+    publishedDateTime: 2022-09-16T19:45:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/n28901830/global-artificial-intelligence-ai-in-automotive-and-transportation-market-to-grow-at-20-through-20"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 18
 
-secured: "Qfnk03TNGGfMmNSvk3eFir4A3aLewIxEtdaRxIzxHxLHL2QAkUkpm9vF6TbIPgLYlqCrROmxCOqYX/y5EuuIdLkxBnCoAwjgmN+r4eoYBO+q9uUbySeoybw3fONxIX//2D1UrMf+vibqDCgjCgfouY9KdgcBVssnnLjk+qw0fFySDdVRHGpliOAv+XGfxM9YkABbyBF0L7k/YE6rJmBSZLXHDxC/Zha93XLOBJE2DkAxUP4uCrvp1E29pQ1JJV9srV7Ccz1q9h2RlRvTJagCXoaj6PzzQ6VlSrx8Rda64qM2u1zeQji3r5Nr/b1/ypABZb+26u/1NLD55vtN4Owax78/QRARdcKhUSsH3EUJ9H8=;rFuaWzOYyMxmo9t7TEQCSQ=="
+secured: "CpvePVjpoZS38bxraEQRxTQ1gLf3StzZRTr9iMxvasxsqR4gH4wFgGRVTP6+maI+MK+vMQdkkcV/bZSltzjpewxi6VW+m63IYQeMuXqD8AmvuJKIeQBHHs7RzxiPDUQ65MWb9uiJNz1fOhB37khDtLuojNifUJ4ZOKzsSjQ4OD/9+gG9yX8j+Po+CvtNhJPubT5Q7PSwEKTEg6DLEHUpkFpR0jo/R6spQAuSpldhQO9J8MSdwYUs4cq7eXWhQ3Lpwfe9OpPGfIBy/3bzptvruJDnfzLBzPhhE2r82k4t5Ub2zwwfHEdc6vbPFJUt5W9zbHYg8hZ4I4G3FkhoTh03YcsySOomERHkBPrjzVXS7qu6XtWY/HHmSIPsVcgGn618qpxnRfZPhbgNzJOeI2oalnv7ybkrpPfona8V05DeT7j4Kw2lmQ0JyXezLsaAUh74qkoTZF07YEIc2TWYCFCVbfN6rbI5vQnljFMMOqhpEMAlb8wU/JRx9+GYLhBJzBMakv3iFYx+dHnkugc56qJmhg==;NLK3FeHyjzK80oVFewKsPA=="
 ---
 

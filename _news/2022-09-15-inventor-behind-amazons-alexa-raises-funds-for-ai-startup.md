@@ -20,19 +20,6 @@ topics:
   - AI
   - Machine Learning
 
-related:
-  - title: "Alexa inventor seeks startup"
-    excerpt: "The inventor of several key technologies used by Amazon.com’s Alexa service raised $20 million to fund a new startup in the UK."
-    publishedDateTime: 2022-09-12T23:48:00Z
-    webUrl: "https://www.spokesman.com/stories/2022/sep/12/alexa-inventor-seeks-startup/"
-    ampWebUrl: "https://www.spokesman.com/stories/2022/sep/12/alexa-inventor-seeks-startup/?amp-content=amp"
-    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2022/sep/12/alexa-inventor-seeks-startup/?amp-content=amp"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 22
-
 secured: "NnPRZVl8M3k4k7d+bPZt+vKiB2HsDVnnFLfp/9IdU9lwkPq89wJWxwgcQwcaHdyjvxAru9eLI9kfLnQVWm3cl72qRlswUD/andKLxzwPjunbMtCTZQqNieAToZqkULnmdmYsHNtLz8k1fp9/0jfbkazYHoFFpuZ69ragHogpP6xeETzaO9MFsjn7QJBKCVWOod/tA/exZNCfE4g8MfEsUzhykjkNf+SdN3GulpOByQ/WmNLnroBBTvml660DGOAG3m11emP3v+XKrw4cFehJnqeTqPf8O+jk19990n/60w+92R7uH8PFunowDZClnBdK+ZXvsAQoRqIph95qSpr4TgNCvOd1bx2tiiWzQSNsdlgPpX7DH1p7Y3r3uvZHt4O/40VpYQaIwtmqZlZRNxBJ42qfSQj3S9g1OsOzPfLj5gXI8J/Zxctihk3DsJXJ5fVdThUx7GgIW/9NPwNnTs0WeF9wn+38wYl5OQ318lP8h98Y7V8pfVr/9wPXVvf8sGZsB31F1onyqdC6Ft3UJPWUSw==;wAikmCg0Nfqlqa2h6453Kw=="
 ---
 

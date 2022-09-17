@@ -1,45 +1,45 @@
 ---
 category: news
-title: "Truist Financial launches new AI-powered virtual assistant"
-excerpt: "Truist Financial has announced the launch of a new digital virtual assistant power by AI for its mobile banking app and online platform."
-publishedDateTime: 2022-09-16T10:41:00Z
-originalUrl: "https://www.retailbankerinternational.com/news/truist-launches-virtual-assistant/"
-webUrl: "https://www.retailbankerinternational.com/news/truist-launches-virtual-assistant/"
+title: "Truist launches AI-enhanced Truist Assist"
+excerpt: "Truist Financial today launched its artificial intelligence (AI)-enhanced virtual assistant Truist Assist, which introduces a self-service element to the bank’s customer experience offerings. The virtual assistant leverages natural language processing and natural language understanding that helps answer client questions in a digital channel,"
+publishedDateTime: 2022-09-15T21:34:00Z
+originalUrl: "https://www.autofinancenews.net/allposts/innovation-technology/truist-launches-ai-enhanced-truist-assist/"
+webUrl: "https://www.autofinancenews.net/allposts/innovation-technology/truist-launches-ai-enhanced-truist-assist/"
+ampWebUrl: "https://www.autofinancenews.net/allposts/innovation-technology/truist-launches-ai-enhanced-truist-assist/amp/"
+cdnAmpWebUrl: "https://www-autofinancenews-net.cdn.ampproject.org/c/s/www.autofinancenews.net/allposts/innovation-technology/truist-launches-ai-enhanced-truist-assist/amp/"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 59
+heat: 99
+published: true
 
 provider:
-  name: retailbankerinternational
-  domain: retailbankerinternational.com
+  name: autofinancenews
+  domain: autofinancenews.net
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.retailbankerinternational.com/wp-content/uploads/sites/2/2022/09/chatbot-ga1312f040_1920-1038x778.jpg"
-    width: 1038
-    height: 778
+  - url: "https://www.autofinancenews.net/wp-content/uploads/2019/10/canstockphoto14662879.jpg"
+    width: 3000
+    height: 2126
     isCached: true
 
 related:
-  - title: "Truist launches AI-enhanced Truist Assist"
-    excerpt: "Truist Financial today launched its artificial intelligence (AI)-enhanced virtual assistant Truist Assist, which introduces a self-service element to the bank’s customer experience offerings. The virtual assistant leverages natural language processing and natural language understanding that helps answer client questions in a digital channel,"
-    publishedDateTime: 2022-09-15T21:34:00Z
-    webUrl: "https://www.autofinancenews.net/allposts/innovation-technology/truist-launches-ai-enhanced-truist-assist/"
-    ampWebUrl: "https://www.autofinancenews.net/allposts/innovation-technology/truist-launches-ai-enhanced-truist-assist/amp/"
-    cdnAmpWebUrl: "https://www-autofinancenews-net.cdn.ampproject.org/c/s/www.autofinancenews.net/allposts/innovation-technology/truist-launches-ai-enhanced-truist-assist/amp/"
+  - title: "Truist Financial launches new AI-powered virtual assistant"
+    excerpt: "Truist Financial has announced the launch of a new digital virtual assistant power by AI for its mobile banking app and online platform."
+    publishedDateTime: 2022-09-16T10:41:00Z
+    webUrl: "https://www.retailbankerinternational.com/news/truist-launches-virtual-assistant/"
     type: article
     provider:
-      name: autofinancenews
-      domain: autofinancenews.net
-    quality: 59
+      name: retailbankerinternational
+      domain: retailbankerinternational.com
+    quality: 39
     images:
-      - url: "https://www.autofinancenews.net/wp-content/uploads/2019/10/canstockphoto14662879.jpg"
-        width: 3000
-        height: 2126
+      - url: "https://www.retailbankerinternational.com/wp-content/uploads/sites/2/2022/09/chatbot-ga1312f040_1920-1038x778.jpg"
+        width: 1038
+        height: 778
         isCached: true
   - title: "Truist launches Truist Assist"
     excerpt: "Truist Financial Corporation (NYSE: TFC), today announced the launch of Truist Assist in its mobile banking app and online banking platform for personal banking (retail and wealth) clients. This AI-enhanced virtual assistant is the bank’s latest example of its T3,"
@@ -84,6 +84,6 @@ related:
         height: 630
         isCached: true
 
-secured: "laoptGN8GKpxJdFZoUtOXCyZz86yW8wgybWXeOnyuJz178UW9IlEpBPrDtY+VR5oLSBJFlbm/0MqhVrtkldyl1PeoxkT/HGoEAbPOn4W+MHwxcVLoqEgeUHHUAiZ7bMei3/G4x08ZPFPyQvCIUD/PvoVFGHza2IwmvOZUK8+FsjfPhe5sJOAKPMqmM9EA6G45tnoJ1SQ7gjjek8YivjlzV7gDDSzQngOmKa4xzBuJD6xTUfG7ZOrag+OlWiEpoQpgF0e1/3eqJgSJWIXe/83cP/iu+9nRhbdwKR8hQF+6gH1LW8nbjR3ri0KKlYz3E1u4+PVuK0NjGO8qfnvibQ9/XXC7HeO3fd2KpgneqHPD1HMUev89Bath+NLg/TvLRp6XxeEH3K/Mg3YaTqg3F0axcdZcXUxjjvVpHzM5NYU8FAmFGs2At8SpXCFmMhiEInAN0RGfZ/ET+gplOhtKmqmNg985RSyMoMIqQFDE0C+jJj7xoJhS0/6GyEEdCoAgneBcedOw4wGJg+KFhm4aM3+8w==;ttddAs7S9da3DzpJb4bD9A=="
+secured: "3nherjzm3JpQDW/01hh2yCT6vB4ASlZthGBkaCG1IlzqvoqihopLwCuOMUxjgt7pP2+DwNxrbYyElHE5S9UC5IWtAy7ki5MJ2s1LdNo93aoL0MPBOd0iBUyLcWGCUUfbf7RwJGjcMS+ZeKCR7Jeyz0xrbjjcA87xXWVeT9ttk/v0ejUqWqNcibcCzHAzAwJLeFNY5KrdpTkuVZAObEXIXqHamfwEzRaHGbUmw5UPm7NDQLEu7jKHkyO3FQj2VaU57QgEgBPrVQX96NKxQDSgbPQqdKruk0yerArWmZSI/vnIM2barFNFy1aqtKzUNjel0XmDG24sNpWN9nAj+n6dtcBlp50YlOON+WmhDVMLNxc=;6VC/GbQKAzbS3VILvN2G9A=="
 ---
 

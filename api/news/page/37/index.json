@@ -2,6 +2,40 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2022-08-16-aws-organizes-gameday-a-world-championship-for-developers.md",
+      "title": "AWS organizes GameDay, a world championship for developers",
+      "excerpt": "The AWS GameDay is just around the corner. The world championship provides an opportunity for any professional that works with AWS services. Participants",
+      "sourceUrl": null,
+      "webUrl": "https://www.techzine.eu/news/devops/86284/aws-organizes-gameday-a-world-championship-for-developers/",
+      "originalUrl": "https://www.techzine.eu/news/devops/86284/aws-organizes-gameday-a-world-championship-for-developers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techzine",
+        "domain": "techzine.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-16-natural-language-processing-nlp-in-healthcare-market-is-expected-to-boom-3m-cerner-ibm.md",
       "title": "Natural Language Processing (NLP) in Healthcare Market Is Expected to Boom- 3M, CERNER, IBM",
       "excerpt": "New Jersey, N.J., Aug 16, 2022 The Natural Language Processing (NLP) in Healthcare Market research report provides all the information related to the industry. It gives the outlook of the market ...",
@@ -1111,41 +1145,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-integrateai-announces-availability-of-new-platform-for-collaborative-machine-learning-and-analytics-across-sensitive-data.md",
-      "title": "integrate.ai Announces Availability of New Platform for Collaborative Machine Learning and Analytics Across Sensitive Data",
-      "excerpt": "Traditional approaches to machine learning and analytics require centralization and ... In the heavily regulated worlds of healthcare, financial services, and manufacturing, roadblocks to collaborating with sensitive data abound – from existing and ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/integrate-ai-announces-availability-of-new-platform-for-collaborative-machine-learning-and-analytics-across-sensitive-data",
-      "originalUrl": "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/integrate-ai-announces-availability-of-new-platform-for-collaborative-machine-learning-and-analytics-across-sensitive-data",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Truist launches AI-enhanced Truist Assist"
+    excerpt: "Truist Financial today launched its artificial intelligence (AI)-enhanced virtual assistant Truist Assist, which introduces a self-service element to the bank’s customer experience offerings. The virtual assistant leverages natural language processing and natural language understanding that helps answer client questions in a digital channel,"
+    publishedDateTime: 2022-09-15T21:34:00Z
+    webUrl: "https://www.autofinancenews.net/allposts/innovation-technology/truist-launches-ai-enhanced-truist-assist/"
+    ampWebUrl: "https://www.autofinancenews.net/allposts/innovation-technology/truist-launches-ai-enhanced-truist-assist/amp/"
+    cdnAmpWebUrl: "https://www-autofinancenews-net.cdn.ampproject.org/c/s/www.autofinancenews.net/allposts/innovation-technology/truist-launches-ai-enhanced-truist-assist/amp/"
+    type: article
+    provider:
+      name: autofinancenews
+      domain: autofinancenews.net
+    quality: 59
+    images:
+      - url: "https://www.autofinancenews.net/wp-content/uploads/2019/10/canstockphoto14662879.jpg"
+        width: 3000
+        height: 2126
+        isCached: true
   - title: "Truist Financial launches new AI-powered virtual assistant"
     excerpt: "Truist Financial has announced the launch of a new digital virtual assistant power by AI for its mobile banking app and online platform."
     publishedDateTime: 2022-09-16T10:41:00Z

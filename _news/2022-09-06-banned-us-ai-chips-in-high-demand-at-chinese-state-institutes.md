@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Banned U.S. AI chips in high demand at Chinese state institutes"
-excerpt: "BEIJING — High-profile universities and state-run research institutes in China have been relying on a U.S. computing chip to power their artificial intelligence (AI) technology but whose export to the country Washington has now restricted, a Reuters ..."
-publishedDateTime: 2022-09-06T07:21:00Z
-originalUrl: "https://financialpost.com/pmn/business-pmn/banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes"
-webUrl: "https://financialpost.com/pmn/business-pmn/banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes"
-ampWebUrl: "https://financialpost.com/pmn/business-pmn/banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes/wcm/7c7037f8-60bb-400a-859b-40b3d6d5d974/amp/"
-cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes/wcm/7c7037f8-60bb-400a-859b-40b3d6d5d974/amp/"
+excerpt: "Local peer Advanced Micro Devices Inc (AMD) also said new licence requirements now prevent export to China of its advanced AI chip MI250. The development signalled a major escalation of a U.S ..."
+publishedDateTime: 2022-09-06T08:40:00Z
+originalUrl: "https://telecom.economictimes.indiatimes.com/news/analysis-banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes/94024283"
+webUrl: "https://telecom.economictimes.indiatimes.com/news/analysis-banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes/94024283"
+ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/analysis-banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes/94024283"
+cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/analysis-banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes/94024283"
 type: article
 
 provider:
-  name: Financial Post
-  domain: financialpost.com
+  name: telecom.economictimes.indiatimes
+  domain: indiatimes.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "PxMBzLq+LJOme31tdDqr+JMpdjMJbjvyaOYdY1PcfJWDkQcP7qk087B/daTyDf8BuycIJmBKM4EQHs2fpJNzG6CxvUtwzzOI0IXywx2VX4tBA2DodUnyhV3McNte4wkfRAWRMPGJEZIwjtuy2xO6OYneBWcnEYcKU1HZ7YQ1nc8t6aYuBvCDj01VOnw/5oHjuAQLg9fTBG0m9UMQxtvoPF7xFC8nqwGK7nS3Hyu192S+TEv04idJmfAyNf0ootjDVsMANDYoA0KnZyJZ5RaExY92Czpw+2Xu2VPFt98953msmp2X/luv+LMJQuBzbLqzPAeYbAFqQg3IaNmRhM+5Z0xhFiKOAwrE14WG0rzCUbw=;3WlNp3dz9FzoMDZjNrfbyQ=="
+images:
+  - url: "https://etimg.etb2bimg.com/thumb/msid-94024283,imgsize-171552,width-1200,height-628,overlay-ettelecom/banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "JtkvFcnw66sRP1vNW5JIY+zZHnt+20Tr93gwUme8hrl97Mz9c2/w3DlXdu97RmXIpg3+mFUvuMWizOkQ5RJgdcoLt8qka/zYEzNWhQocdNt2/X3PznXGJ+FVBjParsmCfjhIxaLLvAdCFmn/Q13PLIHxQy+mNR5ynV9Q2W+4/LRYnDR7ZvHLPl52HtFEvqqILO6rgFAshxPd5sVd9Yo18TWfDC+/xAFqdKHMOT2OVIND1ioYDXkXHyPPAoYRJM3nrKHi7aSwQoEt0Q1MNIbMHBZi4yR4WVuXqsK9eGWp4bZ9Ouw/xHGOLH0wBD/D219e8MlGT+z6sonDDipcLWiMxd+5IBel7qOr18GM4DIq2zs=;mKn+bOyzEquM73XmcGjbQw=="
 ---
 
