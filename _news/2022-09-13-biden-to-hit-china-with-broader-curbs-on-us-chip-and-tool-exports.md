@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxbusiness.com/technology/biden-hit-china-broader-curbs
 cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/biden-hit-china-broader-curbs-us-chip-tool-exports.amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -64,15 +64,6 @@ related:
       name: Medical Design and Outsourcing
       domain: medicaldesignandoutsourcing.com
     quality: 34
-  - title: "Reports of Broadening Ban on AI Chip Exports to China Will Only Increase Uncertainty - Analyst"
-    excerpt: "The U.S. government is considering further broadening curbs on exports of top AI chips to China, Reuters reports. The plan is to update regulations next month to include three new companies - KLA Corp (NASDAQ: KLAC ),"
-    publishedDateTime: 2022-09-12T12:20:00Z
-    webUrl: "https://za.investing.com/news/reports-of-broadening-ban-on-ai-chip-exports-to-china-will-only-increase-uncertainty--analyst-432SI-2615039"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 22
 
 secured: "2lnWGsycL0lOexRcFubio+CN762d42AgnI3mcsoOXUhVmlBrB57QOrx/R5mcOjdry7n2QNuUtty0f/pcxtPGvPrQKSpkiqlFsCvhUzg+H89QeTdqxxVfQFziNlebw5cDzh1JNuKFeQzNSRTCJIrwUN02wzE+LH1Uf6mLeGMiYV+Uc3z38yqQL7O9aoRRfb6Qz3m8LI6yQHJMFnxnkNl3go2F/+qc3wVP3/Iyk+retPELbTBRVdvx1C/ycKFg8B85R6CY3nLa0Abv9K+RrR8WtOSy5oDEHlcQS3gN1pcy0p1aLtR1Kxd6IBJRNmSRbRZXmeY2Zg4WBnAzRlTvIcaD8jLoIjhpu54AOiUA0OPDeDgi0WWLUReonMupTdEBuzqY+Ntpxz5eO0zMglhvTW6Mbsog3s63+TUyg6WCvwJn40+iPmdEcaHQad+zX6Do68zqOqplDvsz2I1uhGAW2tSeKccMtkYA8CLnWY25aGq62WeLpa1nWYPV1YTOe6Le2DOnIjHazawyw7U0Nc5nobSV5g==;wd6Fw7J81tO5kDcKjSeX+g=="
 ---

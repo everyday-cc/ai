@@ -41,6 +41,20 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Senate Dems call on ICE to halt facial recognition and buying from data brokers"
+    excerpt: "Sens. Ed Markey (D-Mass.) and Ron Wyden (D-Ore.) are also pressing the immigration enforcement agency to detail their use of surveillance technologies."
+    publishedDateTime: 2022-09-13T16:58:00Z
+    webUrl: "https://fcw.com/congress/2022/09/senate-dems-call-ice-halt-facial-recognition-and-buying-data-brokers/377070/"
+    type: article
+    provider:
+      name: Federal Computer Week
+      domain: fcw.com
+    quality: 35
+    images:
+      - url: "https://cdn.fcw.com/media/img/cd/2022/09/13/091322_getty_fcw_markey_wyden/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Senate Dems Call on ICE to Halt Facial Recognition and Buying from Data Brokers"
     excerpt: "Sens. Ed Markey and Ron Wyden are also pressing the immigration enforcement agency to detail their use of surveillance technologies."
     publishedDateTime: 2022-09-13T23:10:00Z

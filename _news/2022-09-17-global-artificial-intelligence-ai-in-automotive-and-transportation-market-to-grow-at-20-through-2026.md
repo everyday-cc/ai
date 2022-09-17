@@ -37,17 +37,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 42
-  - title: "Artificial Intelligence (AI) as a Service Market Size Worth $52.8 Billion by 2028 | CAGR: 44.1%: Vantage Market Research"
-    excerpt: "The growing demand for AI-powered services in the form of Application Programming Interface (API) and Software Development Kit (SDK) and the growing number of innovative"
-    publishedDateTime: 2022-09-12T12:03:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28827521/artificial-intelligence-ai-as-a-service-market-size-worth-52-8-billion-by-2028-cagr-44-1-vantage-m"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28827521"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28827521"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
   - title: "USD 23.61 Bn growth opportunity in Mobile Artificial Intelligence (AI) Market -- Driven by increasing smartphone penetration"
     excerpt: "The global mobile artificial intelligence market size is expected to grow by USD 23.61 billion between 2021 and 2026, accelerating at a CAGR of 29.06% during the forecast period. The report considers various aspects such as the consumer base,"
     publishedDateTime: 2022-09-14T19:39:00Z
@@ -81,6 +70,6 @@ related:
       domain: benzinga.com
     quality: 11
 
-secured: "LHZNgpe3UaEkESr5ku1NTHEsVtgL+/VNxM+mHYK3fAmLXsCYkyrip5Tf28irOZoDlrqhy9IxXX7DUvU76NlW5VKo29zdkjzLCAvNhsL61/PsGODmrMUcl+LPyEwt42oALU4KyIE4h6qiEgfIpxDojSh2jxhTYruRXh9fJg8cdxCGjADx6sOVXqbEjQjYXOuSojzuFqlaAh6oKg/FXDxNcnXWYVtmxYkuBj1vSsVWyy0S+XI6GYKT8+XE9CMdpuVHHAavWcSSiIsOymBhZA2I7S3zufmZLKmRVz33BQ2+O60Ift6VDp6bXQ0EULRemKHHuJlt3StEmx02tmCta71qVl0lCoV71GvF/7vMink9U90=;qTxTIc54WNBE50eE8ly0HQ=="
+secured: "HE5794piqzkyArh1ZTinGAHEUAdc6Jbc8tA5NDsS1HTZtzsc1Nq1sREu3ma4yBaoCopUUXKmZrWRX1WqWBx+3c3lsMi5slcJAAHFH+AbVZ2h+ar6johDpvSNYpu+1oQ6LAKTtgs+YWiIibz4qXiFf7JY1MMukHUuXzVNhdU9xiTNxrHdkMRtyZrmLCpyJHupiwCeXozp2fIUXqpyBBiqMfu4PmDbwtdv/1ByTnsOPnPK1/o347leloqCYAlcO+asFBqgjUfuApW94OcsFCExRuwOY/0mfsRvIdmkfkSOEbOnocyyQLGjw1SOiA5quSr0WlOfnOClflMlzwM4iJEsodthoQG+nwXP4bNb32Mf2Zk=;22OnLhN1S9l1wC2DXaEo8Q=="
 ---
 

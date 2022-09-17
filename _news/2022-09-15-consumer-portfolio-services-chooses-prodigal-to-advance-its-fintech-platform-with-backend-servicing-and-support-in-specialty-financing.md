@@ -47,15 +47,6 @@ related:
         width: 768
         height: 1024
         isCached: true
-  - title: "Fintech Ecosystem Development Corp. Announces Two Fintech Acquisitions"
-    excerpt: "COLLEGEVILLE, PA, POMPANO BEACH, FL and SHARJAH, U.A.E. / ACCESSWIRE / September 12, 2022 / Rana Financial, Inc. (\"Rana\") a Georgia corporation, Mobitech International LLC (\"Afinoz\") a limited liabili"
-    publishedDateTime: 2022-09-12T12:10:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-09/57033170-fintech-ecosystem-development-corp-announces-two-fintech-acquisitions-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 4
 
 secured: "zS5g7WZCWtEgDlQJZ2YLlYm1iY1zqLmHvu5CvFu1joYECmoJuP8ZhVHsT6lfoxS9HPnideDwM/SasOzt4jxxbxvCoQ6kfHkGoZBJGqUUiaY2Xm3h+Z2vEP2gFwl2+65QTKokEybJVqHWVnI5SPfzK11kosnXL+yvDgbC4oa6XUAksRQLcJYYiiGhjZsdxp1Gedk3QDUkJQIUXt4eDNYBNwaQtp0RoDwEvntYNJ93Wtw/IRt3caB6N4wZ+ayDiRqLhe2ldyxcpYx7WZB94335JPGaMQTAIzBM2Kaj3hGcUG/NOfVIP/Hco7NSl6tthhfHLl5SczZxJrOi0Hhfj53yxwLhp6B5Oo5NR3nMFR7/RsQ=;G1DJ2uxKouV+/Xcqm2FUjA=="
 ---

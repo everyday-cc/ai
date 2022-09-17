@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Cadence Announces AI-Driven EDA Verification Platform"
+    excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the Cadence Verisium AI-driven verification platform, a suite of applications leveraging big data and AI designed to optimize verification workloads,"
+    publishedDateTime: 2022-09-13T21:17:00Z
+    webUrl: "https://insidehpc.com/2022/09/cadence-announces-ai-driven-eda-verification-platform/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 19
   - title: "Cadence Revolutionizes Verification Productivity with the Verisium AI-Driven Verification Platform"
     excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the Cadence ® Verisium ™ Artificial Intelligence (AI)-Driven Verification Platform, a suite of applications leveraging big data and AI to optimize verification workloads,"
     publishedDateTime: 2022-09-13T16:23:00Z

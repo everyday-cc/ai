@@ -2,6 +2,49 @@
   "page": 108,
   "value": [
     {
+      "path": "_news/2022-06-20-ferrari-ceo-says-there-will-never-be-a-self-driving-ferrari.md",
+      "title": "Ferrari CEO Says There Will Never Be a Self-Driving Ferrari",
+      "excerpt": "gave an interesting response when asked by reporters whether we'd ever see a fully self-driving Ferrari. From Bloomberg: The Italian company recently hosted a couple of artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.roadandtrack.com/news/a40321622/ferrari-ceo-says-no-self-driving-ferrari/",
+      "originalUrl": "https://www.roadandtrack.com/news/a40321622/ferrari-ceo-says-no-self-driving-ferrari/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lor5763-1625593683.jpg?crop=1.00xw:0.753xh;0,0.181xh&resize=1200:*",
+          "width": 1200,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-20T07:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Road & Track",
+        "domain": "roadandtrack.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-20-callminer-introduces-combined-workforce-intelligence-capabilities-to-elevate-agent-experience-and-drive-improved-customer-outcomes.md",
       "title": "CallMiner Introduces Combined Workforce Intelligence Capabilities to Elevate Agent Experience and Drive Improved Customer Outcomes",
       "excerpt": "CallMiner, the leading provider of conversation intelligence to drive business improvement, today announced new and expanded workforce intelligence capabilities to help organizations improve the performance and experience of contact center and customer service agents,",
@@ -1060,50 +1103,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-19-real-world-data-show-efficacy-of-digital-cognitive-behavioral-therapy-for-insomnia.md",
-      "title": "Real-world Data Show Efficacy of Digital Cognitive Behavioral Therapy for Insomnia",
-      "excerpt": "Real-world data showed that cognitive behavioral therapy for insomnia (CBT-I) delivered via a digital therapeutic was effective, according to a study published in Behaviour Research and Therapy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ajmc.com/view/real-world-data-show-efficacy-of-digital-cognitive-behavioral-therapy-for-insomnia",
-      "originalUrl": "https://www.ajmc.com/view/real-world-data-show-efficacy-of-digital-cognitive-behavioral-therapy-for-insomnia",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.sanity.io/images/0vv8moc6/ajmc/72867d7f281bc29c668a24c000e99f955cb6d1a6-1731x1109.jpg?fit=crop&auto=format",
-          "width": 1731,
-          "height": 1109,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-18T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The American Journal of Managed Care",
-        "domain": "ajmc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

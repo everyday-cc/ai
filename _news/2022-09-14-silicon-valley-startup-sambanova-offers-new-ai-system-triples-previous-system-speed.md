@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "SambaNova Doubles Up Chips To Chase AI Foundation Models"
+    excerpt: "One of the first tenets of machine learning, which is a very precise kind of data analytics and statistical analysis, is that more data beats a better"
+    publishedDateTime: 2022-09-17T05:46:00Z
+    webUrl: "https://www.nextplatform.com/2022/09/17/sambanova-doubles-up-chips-to-chase-ai-foundation-models/"
+    ampWebUrl: "https://www.nextplatform.com/2022/09/17/sambanova-doubles-up-chips-to-chase-ai-foundation-models/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/09/17/sambanova-doubles-up-chips-to-chase-ai-foundation-models/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 74
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/09/sambanova-cardinal-sn30-logo.jpg"
+        width: 1227
+        height: 641
+        isCached: true
   - title: "Silicon Valley startup SambaNova offers new AI system, triples previous system speed"
     excerpt: "While the subscription model could potentially put a heavy financial burden on SambaNova as it would own the hardware, the company has raised over $1 .."
     publishedDateTime: 2022-09-15T02:40:00Z
@@ -38,6 +54,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Foundation models: 2022’s AI paradigm shift"
+    excerpt: "AI models trained on a massive scale — a revolution that began with Google’s BERT in 2018, picked up steam with OpenAI’s GPT-3 in 2020, and entered the zeitgeist with the company’s DALL-E text-to-image generator in early 2021."
+    publishedDateTime: 2022-09-13T18:27:00Z
+    webUrl: "https://venturebeat.com/ai/foundation-models-2022s-ai-paradigm-shift/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "SambaNova Systems gives its integrated AI hardware and software platform a massive performance boost"
     excerpt: "SambaNova Systems gives its integrated AI hardware and software platform a massive performance boost - SiliconANGLE"
     publishedDateTime: 2022-09-14T15:00:00Z

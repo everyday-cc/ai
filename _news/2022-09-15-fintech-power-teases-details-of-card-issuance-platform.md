@@ -39,15 +39,6 @@ related:
         width: 768
         height: 1024
         isCached: true
-  - title: "Fintech Ecosystem Development Corp. Announces Two Fintech Acquisitions"
-    excerpt: "COLLEGEVILLE, PA, POMPANO BEACH, FL and SHARJAH, U.A.E. / ACCESSWIRE / September 12, 2022 / Rana Financial, Inc. (\"Rana\") a Georgia corporation, Mobitech International LLC (\"Afinoz\") a limited liabili"
-    publishedDateTime: 2022-09-12T12:10:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-09/57033170-fintech-ecosystem-development-corp-announces-two-fintech-acquisitions-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 4
   - title: "Consumer Portfolio Services Chooses Prodigal to Advance its FinTech Platform with Backend Servicing and Support in Specialty Financing"
     excerpt: "Consumer Portfolio Services, Inc. (Nasdaq: CPSS) (“CPS”), continuing their commitment to artificial intelligence, partnered with Prodigal to better manage the collections and servicing workforce and process."
     publishedDateTime: 2022-09-15T12:42:00Z

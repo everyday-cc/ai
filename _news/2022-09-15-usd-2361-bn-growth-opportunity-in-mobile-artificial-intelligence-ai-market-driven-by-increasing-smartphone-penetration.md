@@ -43,17 +43,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 42
-  - title: "Artificial Intelligence (AI) as a Service Market Size Worth $52.8 Billion by 2028 | CAGR: 44.1%: Vantage Market Research"
-    excerpt: "The growing demand for AI-powered services in the form of Application Programming Interface (API) and Software Development Kit (SDK) and the growing number of innovative"
-    publishedDateTime: 2022-09-12T12:03:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28827521/artificial-intelligence-ai-as-a-service-market-size-worth-52-8-billion-by-2028-cagr-44-1-vantage-m"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28827521"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28827521"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
   - title: "Artificial Intelligence (AI) In Education Market Size Is Expected To Hit $80 Billion By 2030 - Financial News Media"
     excerpt: "( MENAFN - Financial News Media) data-id='165ecfe1' data-element_type='widget' data-widget_type='theme-post-content.default'> Palm Beach, FL – September 15, 2022 – FinancialNewsMedia.com News Commentary – Artificial Intelligence (AI) is crossing over to new markets and brings additional revenues along with it."
     publishedDateTime: 2022-09-15T18:35:00Z

@@ -34,15 +34,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Argo AI Launches Line Of Products To Enable Businesses To Use Its Automated Vehicles"
-    excerpt: "Argo AI, the Pittsburgh-based company majority owned by Ford and Volkswagen has begun the roll-out of its product lineup that will enable businesses to use vehicles based on its automated driving system (ADS)."
-    publishedDateTime: 2022-09-12T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/samabuelsamid/2022/09/12/argo-ai-launches-line-of-products-to-enable-businesses-to-use-its-automated-vehicles/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 40
   - title: "Argo AI works to spread its autonomous driving wings"
     excerpt: "Argo AI will provide a comprehensive set of self-driving technologies to companies for ride-hailing and delivery services."
     publishedDateTime: 2022-09-12T20:45:00Z

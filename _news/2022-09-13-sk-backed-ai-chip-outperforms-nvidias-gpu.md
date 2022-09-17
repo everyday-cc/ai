@@ -89,15 +89,6 @@ related:
         width: 300
         height: 215
         isCached: true
-  - title: "‘Nvidia sets performance record with new Hopper H100 GPU’"
-    excerpt: "Nvidia claims it set a performance record with the upcoming Hopper H100 Tensor Core GPU. According to Nvidia, the new GPU is up to 4.5 times faster than"
-    publishedDateTime: 2022-09-12T11:38:00Z
-    webUrl: "https://www.techzine.eu/news/infrastructure/88636/nvidia-sets-performance-record-with-new-hopper-h100-gpu/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 19
 
 secured: "slbPoPCpoZwiS4h8+UdPUuodgZiD+HrXlMZveELbP6yhElgVzhQ8lm9GJiUB2JS/Nyjtoq1/imoCkcQZJUWlPS7mUKSdgIJktfFr2q7a8s0PYC/zi5kh16pYkBSJuyzzRuIiFoKp/m4HPrag8vW0sFqNL6tmjtRumas4oR3qwCu9aVoGji5j08rIZSD6qG86iXJE4b43TT71BO6k5pL7RtwTMDMAjKI3jZdGNu9WrY6dTJC6CPFLnYqrUDYsX8LBnBzpUPZILOsCL+JoANMbNR2AvaHERhEgJpsIjs3CM8T7J1TIs4gmi4V6/1yXYQl4lYoZf8oK4Zm9oRBf7uLaQJACleac8TZIph9VRozJH9db1y3jS+qZQc8iac5oxhsZG8gXf6ssHL47lYXtkO11hedSrl1tEawFIU4pQMLSQz/HI44i778Vibg2AgX6Aps6QKf1dd7JhmlmejIw/dGMryIyTPJZFZ7Tdw8K+4XX2WxNtQdf72mVDcScrQF3jl7guIZHpNHKRsWQsFqx6J/NgQ==;nYjklUKhsu276qcAYObQDA=="
 ---

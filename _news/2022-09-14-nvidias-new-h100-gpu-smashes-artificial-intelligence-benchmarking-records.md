@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h10
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records/amp/"
 type: article
 quality: 102
-heat: 152
+heat: 142
 published: true
 
 provider:
@@ -93,15 +93,6 @@ related:
         width: 300
         height: 215
         isCached: true
-  - title: "‘Nvidia sets performance record with new Hopper H100 GPU’"
-    excerpt: "Nvidia claims it set a performance record with the upcoming Hopper H100 Tensor Core GPU. According to Nvidia, the new GPU is up to 4.5 times faster than"
-    publishedDateTime: 2022-09-12T11:38:00Z
-    webUrl: "https://www.techzine.eu/news/infrastructure/88636/nvidia-sets-performance-record-with-new-hopper-h100-gpu/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 19
 
 secured: "qn+ckd8RM59EbhlMn5s/tGkdSMoHriDPwPjp6vFUleHaMLUOX3w2dYXC4vLyV/j6tH+NGh7Z46icT6AlUUZ10AjZmUfJv/ThqxE+UmUEESK+yVOJnsaQ15pmOYtd/W/G8jEsYR3g8QqhjQcc2X04o3CWSWpZBF1pRBiuJWzIwFNuatKdUt3dnk555wVU+tipKrKE+FOPj71ihiQDWn7E+DUGpCSbQNhfPyv0hwl6xOiFfJUgBFVq84VaYsrZlJevM2gruuGN8mKHotDrBB6TzrOJfuUL4HBuQkEjmNUKMniJZCfudD/0wvebz+TyV7nIqFjC1HVqI3x6s0z2A45zRHYBpzOgLbZfVlplwcw5EouM6gAMPXQ//akp2oPLxyGxz8cvhtD9g2A3JOBqgCQ5r/hWZW7aNpGqr6xzphaAFQf9pbNPsyC2xRU9rfxfA4koeYyK+5zHpzriP5yH+4KAvz9JxDOXKrFCP/iSVYwtDmEv6zUSqcziZ3/gbAAaNWFvDnMam9KcBpFolU2o266jJw==;5WYkPv4REQgsHmJ2Jq6dAQ=="
 ---

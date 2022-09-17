@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-08-05-how-does-artificial-intelligence-benefit-self-driving-cars.md",
+      "title": "How Does Artificial Intelligence Benefit Self-Driving Cars?",
+      "excerpt": "While indeed sites selling new and used cars get thousands of visitors every day, they lack the popularity of websites talking about self-driving automobiles. In other words, these advanced vehicles are trending all over the Internet. If there’s any ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.tmcnet.com/topics/articles/2022/08/05/453108-how-does-artificial-intelligence-benefit-self-driving-cars.htm",
+      "originalUrl": "https://news.tmcnet.com/topics/articles/2022/08/05/453108-how-does-artificial-intelligence-benefit-self-driving-cars.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/tmc/misc/articles/image/2022-aug/1603424832-cars.png",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-05T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-05-tesla-teases-optimus-humanoid-robot-prototype-for-septembers-ai-day.md",
       "title": "Tesla Teases “Optimus” Humanoid Robot Prototype For September’s AI Day",
       "excerpt": "Annual Meeting of Stockholders, the company showed a new teaser image of the humanoid robot that was first shown off at AI Day in 2021. The image, part of a promotional campaign for AI Day: Part II that’s set to be held on September 30,",
@@ -1372,49 +1415,6 @@
       "provider": {
         "name": "freightwaves.com",
         "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-how-artificial-intelligence-is-elevating-gen-zs-level-of-financial-sophistication.md",
-      "title": "How artificial intelligence is elevating Gen Z’s level of financial sophistication",
-      "excerpt": "Customer service, cost optimization, and the development of new, useful products are all being aided by AI-powered financial applications. Financial institutions of the future will rely heavily on artificial intelligence (AI),",
-      "sourceUrl": null,
-      "webUrl": "https://bestgamingpro.com/how-artificial-intelligence-is-elevating-gen-zs-level-of-financial-sophistication/",
-      "originalUrl": "https://bestgamingpro.com/how-artificial-intelligence-is-elevating-gen-zs-level-of-financial-sophistication/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bestgamingpro.com/wp-content/uploads/2022/07/How-AI-is-making-Gen-Z-the-most-financially-sophisticated-generation.png",
-          "width": 600,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-29T10:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bestgamingpro",
-        "domain": "bestgamingpro.com",
         "images": null,
         "publishers": null,
         "authors": null

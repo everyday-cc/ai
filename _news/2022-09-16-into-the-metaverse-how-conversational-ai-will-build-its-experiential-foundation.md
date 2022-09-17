@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 634
         isCached: true
+  - title: "AI Ethics And AI-Induced Psychological Inoculation To Help Humans With Disinformation"
+    excerpt: "Should AI be used to aid in inoculating people regarding disinformation and misinformation? Yes, some say, others argue that using AI for this is a bad idea with ultimately adverse consequences."
+    publishedDateTime: 2022-09-14T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/09/14/ai-ethics-and-ai-induced-psychological-inoculation-to-help-humans-with-disinformation/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 57
 
 secured: "g8hPnEoGtv1h1H2mymNfhUADZnbd+eCO16cgjCeq1o8CGVzjvVm18FHryxyxRuWMR9Q0irbl72M1VRSEKm5pa1/TKfdoGjVbDvIT0xmdzEEE4B5uoTQBtKNx57spOnB3lG4CSyDc8HmHUvDK/MLxZW47Jv9eqIEixhKU8nY7oQ0DAfkTZZmZqPMJ8kt9Ymsslkagoy+ERHfGyiSe7rv+2lOrqTKff/8Ip4uFAo8L3gnr2lMcG8LpBZItZezMlLxscFmak4FT4qA1jx2VzEftVCwF+RU15Y2SVabANuazrPFHwdvyzIIMwWOzXIrzE4t9HbT/uwdb7Y8BaniI8kwBUpWNDBuiTbB40qg3kDGC6j8u3Q4pt1GF0uEFvyZKtznza1htDjIl6PiiTyETQkgZ1ecq2U9A5K8aPmvkgtO0fwcECNHkNwQuF9eTvqLQTQuTIQLDkjHFq0F55iCEXNPeCi3aCOziLWgig1qG2RXnCr3MdIajSCQiUZLs17TA23qj4y+LBbbIOnh3TGFWuotlBA==;n+g8VhPHyMJOqBaLKNGx1w=="
 ---

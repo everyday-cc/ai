@@ -24,40 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "Leadership In Times Of AI-Driven Automation"
-    excerpt: "Sayantan Dasgupta is a Sr. Director of Demand Generation at Gramener | Ex VC Partner | 2x VP Marketing | 15+ years of leadership experience. The global AI market in 2021 reached a staggering value of $327."
-    publishedDateTime: 2022-09-12T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/09/12/leadership-in-times-of-ai-driven-automation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/09/12/leadership-in-times-of-ai-driven-automation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/09/12/leadership-in-times-of-ai-driven-automation/amp/"
+  - title: "stc Group Showcases its Most Innovative Digital Solutions at Global Artificial Intelligence Summit"
+    excerpt: "SPA -- stc Group, the leading digital enabler in the region, is participating in the second edition of the Global Artificial Intelligence Summit 2022, which will be hosted in Riyadh tomorrow. The group will present a range of integrated digital solutions that include most notably,"
+    publishedDateTime: 2022-09-13T15:30:00Z
+    webUrl: "https://www.spa.gov.sa/viewfullstory.php?lang=en&newsid=2383634"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: spa.gov.sa
+      domain: spa.gov.sa
+    quality: 25
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/611197e7a1fc8d3b4e5a536a/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 652
+      - url: "https://clcdn.spa.gov.sa/galupload/thumb/no-image-logo.png"
+        width: 805
+        height: 612
         isCached: true
-  - title: "AI Ethics And AI-Induced Psychological Inoculation To Help Humans With Disinformation"
-    excerpt: "Should AI be used to aid in inoculating people regarding disinformation and misinformation? Yes, some say, others argue that using AI for this is a bad idea with ultimately adverse consequences."
-    publishedDateTime: 2022-09-14T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/09/14/ai-ethics-and-ai-induced-psychological-inoculation-to-help-humans-with-disinformation/"
+  - title: "The 2022 Global AI Summit Begins with Launch of Several New International Initiatives"
+    excerpt: "The Global AI Summit officially opened on Tuesday, gathering private sector leaders, government officials, and renowned academic professionals from around the world for a series of discussions on the future of AI."
+    publishedDateTime: 2022-09-16T01:00:00Z
+    webUrl: "https://www.newswit.com/en/Lng0"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 57
-  - title: "Cadence Announces AI-Driven EDA Verification Platform"
-    excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the Cadence Verisium AI-driven verification platform, a suite of applications leveraging big data and AI designed to optimize verification workloads,"
-    publishedDateTime: 2022-09-13T21:17:00Z
-    webUrl: "https://insidehpc.com/2022/09/cadence-announces-ai-driven-eda-verification-platform/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 19
+      name: academy
+      domain: newswit.com
+    quality: 12
 
 secured: "LHd34kIrdvNuUByOXGzV782POdoOOo4eVDibG2+DXxMqpIQs3w+bIM5G8EpO7PIFiHl2DqXVjuPDh6X0EMIpLnXAGFQad8MomNUDrsq/ogZDZSPblFwS2YKbO7yTEyvX5/bszZbPz/s8cAUpoq0q+OTbOqhAIhKy4PT9P45g0Qm1g9DyRPVvJZoxlTnxt0GaYccsTpQ2mISX9soWs4V/j2bbP5n3FSTIkxqhBhVbRYVIdLiJ6TrrY6PuYmlurYP0sNE3EC84jSC4jmql98BB58//t8PoIHPFWl3K/y2jRwbn96kOOcswhVdl+ISXi3IuK6As/4ugqlu9Jp4V7WzWj2cNXEfE5F5lPTfyOyUDv0k=;ApOiOEtEEZqBdZOUf6g5KA=="
 ---

@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Autonomous cars may be impossible without helpful human touch"
-    excerpt: "\"I can provide my customers peace of mind knowing there is always a human there to help if needed,\" Vogt said. \"I don't know why I'd ever want to get rid of that.\""
-    publishedDateTime: 2022-09-12T12:46:00Z
-    webUrl: "https://www.autoblog.com/2022/09/12/autonomous-cars-remote-human-operators/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 4
-
 secured: "/+ophoV6DeA9n59A3XWotn4t1CQgj5ZVby2M79BlrnOpN56zN0EjIcR0AN5+g3RpIWhjja75Tb1HoshdM68zxAJ3lJ4xtlLZ9rlLxANbVpQeSy/lGYKJq1Ds2MXl2kdGaFxFI2BZwTXR3Sq50GA/xf679zgzN/m70S1Otr6Fjm1Bop31DFBR1j2ZqoVRMoQHO/tBQsqsgrUdI5YovoKO+qVODVNkxYFNYtXPXDZsWgEiBFIMhVpWgwRxwBxEL6Fm4F3nnUuMn2dks9OYwe2lCG/pATaiBjgZBNjmaCCLBTkekYwUofHqLIu2OKievq9iOPFf02Tjl/UrszZj68H6KzlnzkDeau7dbsq57C2aVd0svDTuUqG+hciuNUK1FMhFGOVPjwWU2nAb6F6lbwxVpbnEryqQLZjYnmjyd8OygXM+3Iho6abd2FrEBetvxwDaQNEVydaoSL1nV9+gdUKX0eqqr1p6RKKaWgm6b9SgehRmoqW4ocKEzJoX9lkYJ8MyHJlr3liCatlldNhObR6neQ==;Wr8+MCLNzy0unxj/NLideA=="
 ---
 

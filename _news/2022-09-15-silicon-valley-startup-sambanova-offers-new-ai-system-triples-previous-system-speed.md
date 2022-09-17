@@ -9,8 +9,8 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technolog
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/silicon-valley-startup-sambanova-offers-new-ai-system-triples-previous-system-speed/94210795"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: -1
+published: false
 
 provider:
   name: cio.economictimes.indiatimes
@@ -26,6 +26,31 @@ images:
     isCached: true
 
 related:
+  - title: "SambaNova Doubles Up Chips To Chase AI Foundation Models"
+    excerpt: "One of the first tenets of machine learning, which is a very precise kind of data analytics and statistical analysis, is that more data beats a better"
+    publishedDateTime: 2022-09-17T05:46:00Z
+    webUrl: "https://www.nextplatform.com/2022/09/17/sambanova-doubles-up-chips-to-chase-ai-foundation-models/"
+    ampWebUrl: "https://www.nextplatform.com/2022/09/17/sambanova-doubles-up-chips-to-chase-ai-foundation-models/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/09/17/sambanova-doubles-up-chips-to-chase-ai-foundation-models/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 74
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/09/sambanova-cardinal-sn30-logo.jpg"
+        width: 1227
+        height: 641
+        isCached: true
+  - title: "Foundation models: 2022’s AI paradigm shift"
+    excerpt: "AI models trained on a massive scale — a revolution that began with Google’s BERT in 2018, picked up steam with OpenAI’s GPT-3 in 2020, and entered the zeitgeist with the company’s DALL-E text-to-image generator in early 2021."
+    publishedDateTime: 2022-09-13T18:27:00Z
+    webUrl: "https://venturebeat.com/ai/foundation-models-2022s-ai-paradigm-shift/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Silicon Valley Startup SambaNova Offers New AI System, Triples Previous System Speed"
     excerpt: "SambaNova Systems, a SoftBank-backed Silicon Valley artificial intelligence chip and systems startup, said on Wednesday it has started offering its new AI system called DataScale SN30, tripling the speed of its previous product."
     publishedDateTime: 2022-09-14T11:02:00Z

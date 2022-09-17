@@ -9,7 +9,7 @@ ampWebUrl: "https://www.seattletimes.com/business/inventor-behind-amazons-alexa-
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/inventor-behind-amazons-alexa-raises-funds-for-ai-startup/?amp=1"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -21,22 +21,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Inventor behind Amazon's Alexa raises $20 mn for new AI startup"
-    excerpt: "The inventor of various technologies used by Amazon Inc's Alexa, William Tunstall-Pedoe, has raised $20 million for a new Artificial Intelligence (AI) startup called Unlikely AI. Amadeus Capital Partners,"
-    publishedDateTime: 2022-09-12T11:51:00Z
-    webUrl: "https://inshorts.com/en/news/inventor-behind-amazons-alexa-raises-$20-mn-for-new-ai-startup-1662983488265"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/inventor-behind-amazons-alexa-raises-$20-mn-for-new-ai-startup-1662983488265"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/inventor-behind-amazons-alexa-raises-$20-mn-for-new-ai-startup-1662983488265"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 57
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/09_sep/12_mon/img_1662977814621_824.jpg?"
-        width: 1080
-        height: 720
-        isCached: true
   - title: "Alexa inventor seeks startup"
     excerpt: "The inventor of several key technologies used by Amazon.com’s Alexa service raised $20 million to fund a new startup in the UK."
     publishedDateTime: 2022-09-12T23:48:00Z

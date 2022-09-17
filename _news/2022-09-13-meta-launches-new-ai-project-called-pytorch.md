@@ -141,15 +141,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Announcing the PyTorch Foundation to Accelerate Progress in AI Research"
-    excerpt: "Since 2016, when we partnered with the AI community to create the PyTorch framework for AI research, open collaboration has been essential to its success. With thousands of contri"
-    publishedDateTime: 2022-09-12T13:00:00Z
-    webUrl: "https://about.fb.com/news/2022/09/pytorch-foundation-to-accelerate-progress-in-ai-research/"
-    type: article
-    provider:
-      name: about.fb
-      domain: fb.com
-    quality: 36
   - title: "LinkedIn Donates Feature Store to Linux Foundation"
     excerpt: "LinkedIn today announced that its open source feature store, dubbed Feathr, is joining LF AI & Data, the Linux Foundation’s umbrella foundation for"
     publishedDateTime: 2022-09-12T21:00:00Z
@@ -164,15 +155,6 @@ related:
         width: 1477
         height: 815
         isCached: true
-  - title: "Meta moves PyTorch to Linux Foundation"
-    excerpt: "The open source AI framework will operate with its own governance independent from its original Facebook backers."
-    publishedDateTime: 2022-09-12T13:00:00Z
-    webUrl: "https://www.axios.com/2022/09/12/meta-pytorch-linux-foundation"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 21
   - title: "Meta Transitions PyTorch to the Linux Foundation"
     excerpt: "The Linux Foundation, a global nonprofit organization enabling innovation through open source, today announced PyTorch is moving"
     publishedDateTime: 2022-09-12T14:53:00Z

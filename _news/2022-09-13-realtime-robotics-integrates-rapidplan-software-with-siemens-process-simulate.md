@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/realtime-robotics-integrates-rapidp
 webUrl: "https://www.therobotreport.com/realtime-robotics-integrates-rapidplan-software-with-siemens-process-simulate/"
 type: article
 quality: 81
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 770
     height: 500
     isCached: true
-
-related:
-  - title: "Realtime Robotics Integrates Robot Motion Planning & Control Software With Siemens Process Simulate"
-    excerpt: "The integration empowers Siemens customers to visualize, simulate and validate robot task plans from directly within the process simulate environment."
-    publishedDateTime: 2022-09-12T13:00:00Z
-    webUrl: "https://www.automation.com/en-us/articles/september-2022/realtime-robotics-integrates-robot-motion-planning? Control News & Articles"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 40
-    images:
-      - url: "https://www.automation.com/getmedia/0175e750-28d0-4f9c-a429-0a0d95a0ae4b/robotics-motion-news-Sept-13-2022-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
 
 secured: "bh9JyomVNoWXxEY6v7Sq3hICpOYoQSl5Hi9tLjWCseIE9FjZBGKRYVHX4VbjV01anHJSGjS1A0WJP6zPA+wgiMnTWu2x20Tg/KeCH6n8+AJvXBeX4Pad3KdGDpCnFRVr8H6drXf8EhSb+vWf5zH0rnHPBmK7adMnJUFfgI8hLGGIWuq2Nk9JkqRgY300SvxkC6xj0MGCnu6T2JXZyKhDr+147GZP0XvWlic2M0oVqO0oYp5fItckyXY2Pp42N17IB0qtDSgDjjAEXXF/MvKTeoTaFvPezAgNUO+Ul861KgH6jyGnmKNRA0TKqogWNxPb/v8uqciTDmVoSsIlhaEd+FP5CMmZ92K7xOC8Dp9OJ48=;646Kw+yNEe488jzI3SFm3w=="
 ---

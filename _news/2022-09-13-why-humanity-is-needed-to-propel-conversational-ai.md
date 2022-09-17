@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/why-humanity-is-needed-to-propel-conversa
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-humanity-is-needed-to-propel-conversational-ai/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI Ethics And AI-Induced Psychological Inoculation To Help Humans With Disinformation"
+    excerpt: "Should AI be used to aid in inoculating people regarding disinformation and misinformation? Yes, some say, others argue that using AI for this is a bad idea with ultimately adverse consequences."
+    publishedDateTime: 2022-09-14T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/09/14/ai-ethics-and-ai-induced-psychological-inoculation-to-help-humans-with-disinformation/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 57
   - title: "Into the metaverse: How conversational AI will build its experiential foundation"
     excerpt: "Innovations like the metaverse would not be achievable without conversational AI, and open source platforms are making it possible."
     publishedDateTime: 2022-09-15T18:07:00Z

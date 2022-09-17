@@ -70,15 +70,6 @@ related:
         width: 1162
         height: 738
         isCached: true
-  - title: "Artificial Intelligence Startup Diveplane Raises $25M in Series A Funding"
-    excerpt: "Diveplane helps businesses and government organizations concerned with data privacy to better understand and leverage the power of their data through AI tools that are trainable, interpretable and auditable."
-    publishedDateTime: 2022-09-12T12:02:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/technology-data-privacy-raleigh-artificial-intelligence-philip-bilden-d0fc96e545af129edad86c7a6dbd0c15"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 31
   - title: "Sigma Defense Backs Artificial Intelligence Startup Diveplane with Series A Investment"
     excerpt: "Diveplane helps businesses and government organizations concerned with data privacy to better understand and leverage the power of their data through AI tools that are trainable, interpretable and auditable."
     publishedDateTime: 2022-09-12T15:23:00Z

@@ -64,15 +64,6 @@ related:
       name: Medical Design and Outsourcing
       domain: medicaldesignandoutsourcing.com
     quality: 34
-  - title: "Reports of Broadening Ban on AI Chip Exports to China Will Only Increase Uncertainty - Analyst"
-    excerpt: "The U.S. government is considering further broadening curbs on exports of top AI chips to China, Reuters reports. The plan is to update regulations next month to include three new companies - KLA Corp (NASDAQ: KLAC ),"
-    publishedDateTime: 2022-09-12T12:20:00Z
-    webUrl: "https://za.investing.com/news/reports-of-broadening-ban-on-ai-chip-exports-to-china-will-only-increase-uncertainty--analyst-432SI-2615039"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 22
 
 secured: "tPPjYF//miFzFQ7jQCeo0vWud0Gy2IkUSB1ggn5HNmehSwIV91593BiG7neYAVZHVuw/ubVJ1wv3e+51r/bI0y/OLbRggQwYMGnhLBfeBxDB+0vDaG3D5Tc8luZopIMgpkKFR9kthA/0jpW9xLI+f5xDXmJMsHT3ei55SV0vbOhZUTuSQG1CLKT+gtrEobdo0xVMlEfblkv6WRfCwSus2ghFHZ7wY9KAtlMZNKKfCRfbMUClE5pc0HD5eyimzCkwOBhMFDL04dHAruVBp0mmwaRjjq7ZEnZnZVYexzCaBrvaAzFa4O1EkV4Zh+p9ydMe19bdsSxp1r7l+qoMjRcqbsa8N4A65Ep46Hvs8u5V9CM=;EqGhc7sBz8jM5rNx6VMwng=="
 ---

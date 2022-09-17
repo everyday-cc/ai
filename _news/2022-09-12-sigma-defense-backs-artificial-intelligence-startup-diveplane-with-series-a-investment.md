@@ -78,15 +78,6 @@ related:
         width: 1162
         height: 738
         isCached: true
-  - title: "Artificial Intelligence Startup Diveplane Raises $25M in Series A Funding"
-    excerpt: "Diveplane helps businesses and government organizations concerned with data privacy to better understand and leverage the power of their data through AI tools that are trainable, interpretable and auditable."
-    publishedDateTime: 2022-09-12T12:02:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/technology-data-privacy-raleigh-artificial-intelligence-philip-bilden-d0fc96e545af129edad86c7a6dbd0c15"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 31
 
 secured: "3nNwb/VaTwkoFDUf0NG1ZvgRWgnXBQClRrCBiRDZL4csQQrR65PLZAbTuH1g457qMJsa2LHG33AfD+Lk0X6woOnplF3Dh7ypIpPyrJLFfGPQ0IqCjF84L/4bd+iaQX/RYWGZVDLiMkxSPBZGV2F4OLgr0M/4EL/0PVEsF/lQAmc4Jqx/Csra6HPIzfv+Sj/oOWJeR/jGSsiDKfLUM7umKSCXmL7Gny7e55rHFRGEmigWkbkRU2iCUnRYp6Lt+GTR+EIKyY5aGAaSZ6T/4801InZIMVSK4GebYAXLBrngYDt9g7Zvu4MtJk4OT/8Puwf2rfMVyTqFhDxod6HNEuVuWbmjlI6yUblcJZ4gDb3a4A8P7Lev61qhRrGQktZm2ssYPzHVJrEIcQU736zHFYuqrsxA4UScF/mHLwNNvAw3dIrHxb+3cKQr37/elrkqoaCbJVP+q8BZkWCL8nJC7QycLkvwmjEsAqz+DrrdXUKCF2ywX6mOQYmniGQU/JmvFsFVFbPqKlhJAzkakodKPSbRVw==;Ub+nAgfzp7zmfMwx9BQYxw=="
 ---
