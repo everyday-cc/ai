@@ -8,7 +8,7 @@ webUrl: "https://www.heraldsun.com/news/state/north-carolina/article265718501.ht
 ampWebUrl: "https://amp.heraldsun.com/news/state/north-carolina/article265718501.html"
 cdnAmpWebUrl: "https://amp-heraldsun-com.cdn.ampproject.org/c/s/amp.heraldsun.com/news/state/north-carolina/article265718501.html"
 type: article
-quality: 30
+quality: 32
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Can artificial intelligence detect autism doctors miss? Duke study wants to find out."

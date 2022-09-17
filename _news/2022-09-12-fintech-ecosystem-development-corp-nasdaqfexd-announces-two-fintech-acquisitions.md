@@ -28,15 +28,6 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 21
-  - title: "Veritone, Inc. (NASDAQ:VERI) Shares Bought by Granahan Investment Management LLC"
-    excerpt: "Granahan Investment Management LLC grew its position in shares of Veritone, Inc. (NASDAQ:VERI – Get Rating) by 15.0% during the 1st quarter, according to the company in its most recent filing with the SEC."
-    publishedDateTime: 2022-09-12T08:18:00Z
-    webUrl: "https://www.defenseworld.net/2022/09/12/veritone-inc-nasdaqveri-shares-bought-by-granahan-investment-management-llc.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 0
 
 secured: "CN/ZLwdOs//RiDfCxJFl3QtL3iAqGQQVW+lXmH3x8DxpntgsfYnIpNNycPtA0cK97WW8bXf7U7YgmkCkVsaGCBeIYOUB3rWxyool7fnEPiiA5gGIU6pRb1FdEPrpMvYOeH5gtzsJoobTwR2Vzdedmur4jOl05gPXCY/vGYMzHtAU+msHlVG7Xjbf2c9oFFL1qclGnTAIZ20hHPYuqLZt8/TwTINAdNcEQAvucHjUNYXKUPiQNbPnXLYWrTt7u9dfz3v0EPRavV28QD1diXv1xRbLz7JzdoRydUwG5BImdCdCEXMbtax1gL3uhpXI6Oj4JcJlM1KP7FApmd4pKtTj5BpmDzZ++mUuGjRh4K/iMEQ=;vhhQqn0Psl2rEMr1nG68mQ=="
 ---

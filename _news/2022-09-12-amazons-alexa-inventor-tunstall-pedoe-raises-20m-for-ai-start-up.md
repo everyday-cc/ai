@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businesslive.co.za/amp/bloomberg/news/2022-09-12-amazons
 cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bloomberg/news/2022-09-12-amazons-alexa-inventor-tunstall-pedoe-raises-20m-for-ai-start-up/"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/09_sep/12_mon/img_1662977814621_824.jpg?"
         width: 1080
         height: 720
-        isCached: true
-  - title: "Inventor behind Amazon’s Alexa raises funds for AI startup"
-    excerpt: "The inventor of several key technologies used by Amazon.com Inc’s Alexa service raised US$20mil (RM90.07mil) to fund a new startup in the UK."
-    publishedDateTime: 2022-09-12T07:45:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/09/12/inventor-behind-amazons-alexa-raises-funds-for-ai-startup"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/09/12/1734216.jpg"
-        width: 1240
-        height: 930
         isCached: true
   - title: "Inventor behind Amazon’s Alexa raises funds for AI startup"
     excerpt: "The inventor of several key technologies used by Amazon.com's Alexa service raised $20 million to fund a new startup in the U.K."

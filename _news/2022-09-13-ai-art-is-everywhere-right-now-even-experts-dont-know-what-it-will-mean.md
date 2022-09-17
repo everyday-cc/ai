@@ -24,22 +24,6 @@ images:
     height: 668
     isCached: true
 
-related:
-  - title: "The AI and distance to achieve it at what cost?"
-    excerpt: "There is a lot going around with this huge giant word called “AI ” but how far are we , and the question is that is it even real"
-    publishedDateTime: 2022-09-12T09:01:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/datavision2022/the-ai-and-distance-to-achieve-it-at-what-cost-44857/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 37
-    images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
-        isCached: true
-
 secured: "nxKHl9SBvAaWd60I3P54BQYS80InqYHKJ1OkB7f4wIYSfK4vwtIFEiQVTX5NgN7vchPEr+U/4RaPVDVYXVGuQiZmJmIYMb2XTOIrJfra6Vfb6m2yVScnF37Lt1Jc1S5jEqlDu6tKjx7M7LWud4woTeb1YNgMriE7uSua8epmveI+luV6VGI0z0d1tNYrdx5smh1V/kNl8XJYSNoTw7EWujriReIsmzvVjpL4iYSEqcZPCbfuneI9vU9DPYfRTVRUl0bsq87bJgYwaQIfSfJJ8yYpHSZC96xE+lPgUjW96cwXUe1wmFuy9/AhDMysPwDoIS6NbLBBVouAiy0TiASrdRTbrAjMVOqfzCWv+bNWJ6eVgzSTLODCmVoxG3JuDt26haFyxik6b45FJqqITLN/6YVCmlNuCATxCcCMaIBvBARsONp6sIy/hjILVuzdwPoIaSwJJo0FXlyQwOtzhM7LZHR5vr0czXec1PgZrq8LRdkea2x2kOPvruMQwqycbmMoHmndBjTVZ9KNvBLrf/yuQg==;sxzchSh0ayBkDx3OjppJug=="
 ---
 

@@ -79,8 +79,8 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 9
+    quality: 11
 
-secured: "E/YBLlOIiMILtgeSuYJH/uyPzbv5jYYutS2csmxor267EIRo1HTJfpEw9h9d5OtyfmVqU+6+ZERp4xywwIl+NPvX61JiuVKYkYYR6LjoCAt0LSXW/tD+k0jbfoJDMuSTavKcFD/HseN6/zvnrqXuAABuhl9cSsonVaPw0bRpW4xROKnmgmHcVL7P0TQh/kOJPy6Y6Uw1HXvN5w4xKUNHbp16Gt55DI57p0kRE66d93Ms9LE9MReg4Bghcd7q2cXbbBU3nQp6Jo59AWbFLTvIjFVUdImFSh+C/lO2NvIXEwDhXVaKOjf25lG9/TelIlw0t4qHLtdOHNkVAGU7oS2Nmy2BzbFf2WeFcsN649IjVJc=;gnCdWJgDcD3oyu4M+V8PXg=="
+secured: "i7ACfuwQnet8oujZNjgJKPFdO3/P0Fqk2WFLiX5LxL1fIlwlvVfkCsfQKEp6H/DUngOr7Y+8gFUxsf3426lLk3FZdV6D1O1Jtqd+MzgA1ZaH5RXxzJquojeh+2MR8xCOTg+wmvfAF78YonNS7STUG45fe0e/fn1dTOlCdMu3bebLcUG+FOz87zMy89LF6QwFZbXoCBmfcpZ+J57LaUb8SAGFDgldQl5QF1enn8QaAjHIQYquEYsllloKC4Pxb/49uvHR2G2WSkrosDK0HF5pgtI8U4+zDkx957UDfllX+2wbZhpjFS8aulTbQcHuedxr6N66FrYkcufXuysDZeVYvog3vu2ZqseMKZ62119JADY=;miNoKXwNn7Wc6s5ksmERow=="
 ---
 

@@ -33,20 +33,6 @@ related:
         width: 444
         height: 250
         isCached: true
-  - title: "Legal AI Software Market To Reach USD 8.2 Billion By 2031 From USD 4.9 Billion In 2022, At A CAGR Of 10.8% During The Forecast Period"
-    excerpt: "The Legal AI Software Market to reach USD 8.2 billion by 2031 from USD 4.9 billion in 2022, at a CAGR of 10.8% during the forecast period. Kenneth Research recently added a report on Legal AI Software Market which provides a detailed insight into the market scenario on the basis of the market size,"
-    publishedDateTime: 2022-09-12T08:21:00Z
-    webUrl: "https://menafn.com/1104847274/Legal-AI-Software-Market-To-Reach-USD-82-Billion-By-2031-From-USD-49-Billion-In-2022-At-A-CAGR-Of-108-During-The-Forecast-Period"
-    type: article
-    provider:
-      name: MENAFN
-      domain: menafn.com
-    quality: 6
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?986325"
-        width: 323
-        height: 250
-        isCached: true
   - title: "Automotive Voice Recognition Market To Reach US$ 2,413.9 Mn By 2031 From US$ 936.4 Mn In 2022, At A CAGR Of 13.2% During The Forecast Period"
     excerpt: "The Automotive Voice Recognition Market to reach US$ 2,413.9 Mn by 2031 from US$ 936.4 Mn in 2022, at a CAGR of 13.2% during the forecast period. Kenneth Research recently added a report on Automotive Voice Recognition Market which provides a detailed insight into the market scenario on the basis of the market size,"
     publishedDateTime: 2022-09-14T06:48:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-00037bc592dc8a4f5b1b4405053ae1ce"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,33 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "Ironclad’s new contract platform embeds AI to improve business workflows"
+    excerpt: "Were you unable to attend Transform 2022? Check out all of the summit sessions in our on-demand library now! Watch here. Ironclad yesterday unveiled a new version of its contract platform embedded with an AI layer in an effort to improve business workflows throughout the lifecycle of a contract."
+    publishedDateTime: 2022-09-17T00:25:00Z
+    webUrl: "https://venturebeat.com/ai/ironclads-new-contract-platform-embeds-ai-to-improve-business-workflows/"
+    ampWebUrl: "https://venturebeat.com/ai/ironclads-new-contract-platform-embeds-ai-to-improve-business-workflows/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ironclads-new-contract-platform-embeds-ai-to-improve-business-workflows/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-687981522-1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Why Isn’t AI Working for Your Business?"
+    excerpt: "Accenture reports that only 12% of AI adopters are currently using AI \"to outpace their competitors,\" while nearly two-thirds (63%) are still in the experimentation phase—\" barely scratching the surface of AI’s potential ."
+    publishedDateTime: 2022-09-14T18:50:00Z
+    webUrl: "https://techbeacon.com/enterprise-it/why-isnt-ai-working-your-business"
+    type: article
+    provider:
+      name: Continuous integration
+      domain: techbeacon.com
+    quality: 17
 
 secured: "an0px2dRl+QyNxWOC9gCbAntdybWEStIVM8Xexnt5y80jx5X0QTSAfqbjmddJEaKVINmpjiGEJyQg5zaxiSdeN7TJNFEx9Hg8M7+vLBBDzxdynhYkqkxB8s4Oca6ykL6cuSrQjXr9HYgloJWaLIg6Cu+FfMVCEEOHwCm/tDu+KNrW9QWcwUECTVmjI5cssuXO4ENOgXQ17V4NMb3yq0A3RrUyXNdG8nGqdAvyOcc0cvOUAtTjaM9ElkSZ0EIMD9fw+oqggM8SUt/KuYUO/kftYRyIOSoe28BXdc0Jk9VQfp4JB/NzabcGzT7bp9inzns/ty+fSptHB8moNXgjVzAPCbCVQCoBByLNiRDXzyxgnk=;V1cv0kUdU3RJiJ6LoU3Q+g=="
 ---
