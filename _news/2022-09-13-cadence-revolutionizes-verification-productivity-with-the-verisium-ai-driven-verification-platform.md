@@ -33,17 +33,6 @@ related:
         width: 300
         height: 231
         isCached: true
-  - title: "AI-Based building design and management platform BeamUP Joins Digital Twin Consortium"
-    excerpt: "BeamUP, Ltd., the leader in digital twins for enterprise building design and management, today announced it has joined the Digital Twin Consortium, which brings together industry, government and acade"
-    publishedDateTime: 2022-09-12T10:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/n28824282/ai-based-building-design-and-management-platform-beamup-joins-digital-twin-consortium"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28824282"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28824282"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 30
 
 secured: "VDzGAbn/S9l9QmWFdgijCS/8PTV5Ksc3vkwZPR8DTNA+qB9Sd4jPFRgau4RmLIocrCIEfcjbkRGdlIt/6AdB4lBVRW2hcV8xZF6Iqtko3XgPbGoLTOD43Pg7W3gGRBUBfhevs8/nLITs8pp5ed/Xh51qElUg26yVbu90koJ5BpsbdLa3dlb7DTkDoCd/is1UhlFkLSSbaVSm/qn8cLy7FZyVx0sGNByhWRRzHSdjk4rVpnx4ixaeZxAFl1PArB7uoizIArbfkM0Ey4uSbjn9Ch99MPXB4IWd2SnWc2UGqSWJrScIQDY8z9Vk7n4/11iYkrfZSJ+TEZ7yGOI0NjrRUwFgGNKdaPQOGs9FabWJ80AnvUWReHxZufavngCv/avfCq5PlnrV3WBs5u0+RB1bn+y9oYSoimhx9ZcaKapKZxqRt8Q1MujGpIICau6P1NHWIqmxbXaMhl4yIW91bpLqACETuNB08odK80AtCkbiqK52LEmdoFqUizTZrCU55AP59gUxMyjDYZal544s/mS5OQ==;qHxGFyPeAGfaxOgrKg80TQ=="
 ---

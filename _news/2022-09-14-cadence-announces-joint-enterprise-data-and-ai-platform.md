@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Based building design and management platform BeamUP Joins Digital Twin Consortium"
-    excerpt: "BeamUP, Ltd., the leader in digital twins for enterprise building design and management, today announced it has joined the Digital Twin Consortium, which brings together industry, government and acade"
-    publishedDateTime: 2022-09-12T10:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/n28824282/ai-based-building-design-and-management-platform-beamup-joins-digital-twin-consortium"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28824282"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28824282"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 30
   - title: "Cadence Revolutionizes Verification Productivity with the Verisium AI-Driven Verification Platform"
     excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the Cadence ® Verisium ™ Artificial Intelligence (AI)-Driven Verification Platform, a suite of applications leveraging big data and AI to optimize verification workloads,"
     publishedDateTime: 2022-09-13T16:23:00Z

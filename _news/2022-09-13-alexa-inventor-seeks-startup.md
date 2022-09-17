@@ -20,22 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Amazon’s Alexa inventor Tunstall-Pedoe raises $20m for AI start-up"
-    excerpt: "Cambridge- and London-based company, Unlikely AI, will start hiring developers of a new type of artificial-intelligence software"
-    publishedDateTime: 2022-09-12T09:09:00Z
-    webUrl: "https://www.businesslive.co.za/bloomberg/news/2022-09-12-amazons-alexa-inventor-tunstall-pedoe-raises-20m-for-ai-start-up/"
-    ampWebUrl: "https://www.businesslive.co.za/amp/bloomberg/news/2022-09-12-amazons-alexa-inventor-tunstall-pedoe-raises-20m-for-ai-start-up/"
-    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bloomberg/news/2022-09-12-amazons-alexa-inventor-tunstall-pedoe-raises-20m-for-ai-start-up/"
-    type: article
-    provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 57
-    images:
-      - url: "https://lh3.googleusercontent.com/VLjtmzFKD1z7eYCoxeEx4CSKQc3U5rT_BbleCyhZwv2isWzzu350eDYF39-ksetybKmDelGAp7n4RKSik2_tBDFVpU659CtMRRsFhP2KW0F8vAI=s512"
-        width: 512
-        height: 384
-        isCached: true
   - title: "Inventor behind Amazon's Alexa raises $20 mn for new AI startup"
     excerpt: "The inventor of various technologies used by Amazon Inc's Alexa, William Tunstall-Pedoe, has raised $20 million for a new Artificial Intelligence (AI) startup called Unlikely AI. Amadeus Capital Partners,"
     publishedDateTime: 2022-09-12T11:51:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/accesswire/technology-middle-east
 webUrl: "https://apnews.com/press-release/accesswire/technology-middle-east-united-arab-emirates-09102f546910153ff3d4f044e9670c8a"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "500,000 Shares in Healthcare AI Acquisition Corp. (NASDAQ:HAIA) Purchased by Aristeia Capital LLC"
-    excerpt: "Aristeia Capital LLC acquired a new position in Healthcare AI Acquisition Corp. (NASDAQ:HAIA – Get Rating) in the 1st quarter, according to the company in its most recent Form 13F filing with the Securities and Exchange Commission."
-    publishedDateTime: 2022-09-12T10:54:00Z
-    webUrl: "https://www.defenseworld.net/2022/09/12/500000-shares-in-healthcare-ai-acquisition-corp-nasdaqhaia-purchased-by-aristeia-capital-llc.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 21
 
 secured: "CN/ZLwdOs//RiDfCxJFl3QtL3iAqGQQVW+lXmH3x8DxpntgsfYnIpNNycPtA0cK97WW8bXf7U7YgmkCkVsaGCBeIYOUB3rWxyool7fnEPiiA5gGIU6pRb1FdEPrpMvYOeH5gtzsJoobTwR2Vzdedmur4jOl05gPXCY/vGYMzHtAU+msHlVG7Xjbf2c9oFFL1qclGnTAIZ20hHPYuqLZt8/TwTINAdNcEQAvucHjUNYXKUPiQNbPnXLYWrTt7u9dfz3v0EPRavV28QD1diXv1xRbLz7JzdoRydUwG5BImdCdCEXMbtax1gL3uhpXI6Oj4JcJlM1KP7FApmd4pKtTj5BpmDzZ++mUuGjRh4K/iMEQ=;vhhQqn0Psl2rEMr1nG68mQ=="
 ---

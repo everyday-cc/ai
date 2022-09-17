@@ -7,8 +7,8 @@ originalUrl: "https://arstechnica.com/information-technology/2022/09/flooded-wit
 webUrl: "https://arstechnica.com/information-technology/2022/09/flooded-with-ai-generated-images-some-art-communities-ban-them-completely/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Ars Technica
@@ -27,22 +27,6 @@ images:
     width: 760
     height: 380
     isCached: true
-
-related:
-  - title: "AI-generated images open multiple cans of worms"
-    excerpt: "Fast-evolving programs that can \"make\" images on demand raise a host of ethical, legal and business questions."
-    publishedDateTime: 2022-09-12T09:55:00Z
-    webUrl: "https://www.axios.com/2022/09/12/ai-images-ethics-dall-e-2-stable-diffusion"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 39
-    images:
-      - url: "https://images.axios.com/N-VADdMuwClzJ5h98vf0TIU4nVs=/0x0:1920x1080/1366x768/2022/09/11/1662934165603.jpg"
-        width: 1366
-        height: 768
-        isCached: true
 
 secured: "UB4XQ1U2gHvLFtSMF+Zc9e3QD51XJbM4lmWNIolS4jsYC4JTX08D/gOlP/EPtjSbYFOV+J6OlD+M+1YPw/EizQ1WckVdYmSJwer4mxorPu3UEAmvYYtQlyasAt11msm/uzI6iUe8rNwBul+yPdO45jXtTxvjW2Faw7X2Hg+MIRnpWJlFrx9OaLOfJthAqQ+ReAXaz46rRQRP9hMNdy/gfuIpC8iBzr7rtEiqkFYM2fGbYkT6YFziaRzLHN+OcqWgCKeR7kCzxDLSGEDMIjT/Z+wyaqwqYcJDuuR6ULBPlvqHSvIwgEDYFcu1/SD8gZJLM5qW9LF6RqW+funZD8NxGGZoQuP150ZDrbVvYD193SGtWIZDMjVYGir8LsHO5DCANB9nBnmjJchZ3HnkYFmX9G5Kv2X45oc2IKM3lv4zi+gTOb12ufspFWJXp1KT7LJ4qZKZAQWqZP/O+qXJPS+yFAK+47lP745jhYnpmgelcplaPLTqoOh2C4EKAO8xyIbVOh7JecpWfSSsVRY09cKovQ==;JGIT8ydV1qUHSf58fDT9+w=="
 ---
