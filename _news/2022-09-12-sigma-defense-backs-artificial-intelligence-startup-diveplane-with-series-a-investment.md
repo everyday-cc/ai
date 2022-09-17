@@ -64,20 +64,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Explainable AI startup Diveplane raises $25M to help companies better understand machine learning algorithms"
-    excerpt: "Explainable AI startup Diveplane raises $25M to help companies better understand machine learning algorithms - SiliconANGLE"
-    publishedDateTime: 2022-09-12T14:37:00Z
-    webUrl: "https://siliconangle.com/2022/09/12/explainable-ai-startup-diveplane-raises-25m-help-companies-better-understand-machine-learning-algorithms/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/diveplane.png"
-        width: 1162
-        height: 738
-        isCached: true
 
 secured: "3nNwb/VaTwkoFDUf0NG1ZvgRWgnXBQClRrCBiRDZL4csQQrR65PLZAbTuH1g457qMJsa2LHG33AfD+Lk0X6woOnplF3Dh7ypIpPyrJLFfGPQ0IqCjF84L/4bd+iaQX/RYWGZVDLiMkxSPBZGV2F4OLgr0M/4EL/0PVEsF/lQAmc4Jqx/Csra6HPIzfv+Sj/oOWJeR/jGSsiDKfLUM7umKSCXmL7Gny7e55rHFRGEmigWkbkRU2iCUnRYp6Lt+GTR+EIKyY5aGAaSZ6T/4801InZIMVSK4GebYAXLBrngYDt9g7Zvu4MtJk4OT/8Puwf2rfMVyTqFhDxod6HNEuVuWbmjlI6yUblcJZ4gDb3a4A8P7Lev61qhRrGQktZm2ssYPzHVJrEIcQU736zHFYuqrsxA4UScF/mHLwNNvAw3dIrHxb+3cKQr37/elrkqoaCbJVP+q8BZkWCL8nJC7QycLkvwmjEsAqz+DrrdXUKCF2ywX6mOQYmniGQU/JmvFsFVFbPqKlhJAzkakodKPSbRVw==;Ub+nAgfzp7zmfMwx9BQYxw=="
 ---

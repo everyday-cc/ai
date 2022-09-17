@@ -8,7 +8,7 @@ webUrl: "https://www.nasdaq.com/articles/amd-joins-pytorch-foundation-to-acceler
 ampWebUrl: "https://www.nasdaq.com/articles/amd-joins-pytorch-foundation-to-accelerate-ai-adoption?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amd-joins-pytorch-foundation-to-accelerate-ai-adoption?amp"
 type: article
-quality: 86
+quality: 88
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ topics:
   - AI Hardware
   - AI
   - Facebook AI
+  - Microsoft AI
 
 related:
   - title: "Facebook's PyTorch AI ignites at the Linux Foundation"
@@ -103,20 +104,6 @@ related:
         width: 803
         height: 419
         isCached: true
-  - title: "Meta’s deep learning framework PyTorch to be led by the newly formed PyTorch Foundation"
-    excerpt: "PyTorch artificial intelligence platform it created to the Linux Foundation ’s newly formed PyTorch Foundation. PyTorch is a deep learning framework that’s used to power hundreds of AI projects, specifically machine learning applications."
-    publishedDateTime: 2022-09-12T14:23:00Z
-    webUrl: "https://siliconangle.com/2022/09/12/metas-deep-learning-framework-pytorch-led-newly-formed-pytorch-foundation/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 48
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/1_LLVL8xUiUOBE8WHgzAuY-Q.png"
-        width: 2000
-        height: 1125
-        isCached: true
   - title: "Meta Transitions PyTorch to the Linux Foundation, Further Accelerating AI/ML Open Source Collaboration"
     excerpt: "PyTorch Foundation to foster an ecosystem of vendor-neutral projects alongside founding members AMD, AWS, Google Cloud, Meta, Microsoft Azure, and NVIDIA DUBLIN , Sept. 12, 2022 /PRNewswire/ -- The Linux Foundation,"
     publishedDateTime: 2022-09-12T15:30:00Z
@@ -126,20 +113,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 37
-  - title: "AMD Joins New PyTorch Foundation as Founding Member To Promote Broader Adoption of Artificial Intelligence and Machine Learning Capabilities"
-    excerpt: "AMD (NASDAQ: AMD) today announced it is joining the newly created PyTorch Foundation as a founding member. The foundation, which will be part of the non-profit Linux Foundation, will drive adoption of Artificial Intelligence (AI) tooling by fostering and sustaining an ecosystem of open source projects with PyTorch,"
-    publishedDateTime: 2022-09-12T13:32:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-science-software-philanthropy-artificial-intelligence-e377405a8eeb4b4a8afc6c3077ef7bdc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "LinkedIn Donates Feature Store to Linux Foundation"
     excerpt: "LinkedIn today announced that its open source feature store, dubbed Feathr, is joining LF AI & Data, the Linux Foundation’s umbrella foundation for"
     publishedDateTime: 2022-09-12T21:00:00Z
@@ -154,15 +127,6 @@ related:
         width: 1477
         height: 815
         isCached: true
-  - title: "Meta Transitions PyTorch to the Linux Foundation"
-    excerpt: "The Linux Foundation, a global nonprofit organization enabling innovation through open source, today announced PyTorch is moving"
-    publishedDateTime: 2022-09-12T14:53:00Z
-    webUrl: "https://www.datanami.com/this-just-in/meta-transitions-pytorch-to-the-linux-foundation/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 21
 
 secured: "Ddx8FWIZp1pp4OOzxLp67szNqw+SJcQcoo+kCHzSaC27b44YOswEHZk2VF0S/rMbRf/wCKwzZBXHrbCjcDDm3LfRpnEsnHOIA/I0ctaEcM2pARib5NwChYgNp1F4jx3IDahj8+6IknT6F6qDNwNMRfiCVWeMtMoHwdkf8IG8Q05TIiP4Wv26X3osoIp557bwdUNtGEZb1spdoXkndI08mRTaWUTHsPdxDq3Rf4sa86N04/daFLPStQGvgP41C1saa0cXcmpVSXNXMMITZRiO/kwRPxS7rLnw+yVr7BHobI6cIxNYSo2iLM8VUHT+s6aYI8yZWEHbaHUae0baE9wYK8ReqNuHNT1IeXlAZeIEy7s=;7iRKxJJ3Oam0zbiP+74/iQ=="
 ---

@@ -25,83 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Artificial Intelligence Market Research Report Analysis by Competition, Sales, Revenue, Market Size 2022 to 2028"
-    excerpt: "The \" Healthcare Artificial Intelligence Market Industry Research Report \" considers a thorough scenario of the market's size and market dynamics for the time period from 2022 to 2028. The purpose of the study is to assist stakeholders,"
-    publishedDateTime: 2022-09-12T13:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-research-report-analysis-by-competition-sales-revenue-market-size-2022-to-2028-2022-09-12"
+  - title: "This Israeli startup will help with port traffic jams using \"facial recognition\" of trucks"
+    excerpt: "The Israeli Conbo has developed a system that collects information from port cameras along with other known information to help the flow of traffic at ports"
+    publishedDateTime: 2022-09-13T04:49:00Z
+    webUrl: "https://www.geektime.com/conbo-ai-wants-to-help-docks-operate-in-a-better-way/"
+    ampWebUrl: "https://www.geektime.com/conbo-ai-wants-to-help-docks-operate-in-a-better-way/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/conbo-ai-wants-to-help-docks-operate-in-a-better-way/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
+      name: Geektime
+      domain: geektime.com
+    quality: 49
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.geektime.com/content/images/2022/09/Screen-Shot-2022-09-11-at-15.38.54.png"
+        width: 1416
+        height: 858
         isCached: true
-  - title: "Artificial Intelligence (AI) in Healthcare Market Size From 2022 To 2028 And Key Findings and Segments by End Use Industry"
-    excerpt: "The \"Artificial Intelligence (AI) in Healthcare Market\" provides a holistic analysis, market size and forecast from year to year, trends, growth drivers, and challenges, as well a"
-    publishedDateTime: 2022-09-15T11:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-from-2022-to-2028-and-key-findings-and-segments-by-end-use-industry-2022-09-15"
+  - title: "Facial analysis still biased, press still confusing it with facial recognition"
+    excerpt: "Readers of both publications are at risk of being misled by the same kind of imprecise language that biometrics industry insiders have long warned against."
+    publishedDateTime: 2022-09-16T14:29:00Z
+    webUrl: "https://www.biometricupdate.com/202209/facial-analysis-still-biased-press-still-confusing-it-with-facial-recognition"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-  - title: "AI Market Size to Reach USD 1394.30 Billion by 2029"
-    excerpt: "The global AI market size is projected to grow from USD 387.45 billion in 2022 to USD 1394.30 billion in 2029 at a CAGR of 20.1% in the forecast period. Growing"
-    publishedDateTime: 2022-09-13T10:12:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28843325/ai-market-size-to-reach-usd-1394-30-billion-by-2029"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28843325"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28843325"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
-  - title: "Microbiome Global Market Report 2022: Use Of Artificial Intelligence And Machine Learning Crucial For Future Growth - ResearchAndMarkets.com"
-    excerpt: "The global microbiome market reached a value of nearly $340.8 million in 2021, having increased at a compound annual growth rate (CAGR) of 14.8% since 2017. The market is expected to grow from $340.8 million in 2021 to $945."
-    publishedDateTime: 2022-09-13T11:41:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-4f08b67c667642e0a659bd866783a6bf"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 21
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 35
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/07162020/synthetic-data-scaled.jpg"
+        width: 2048
+        height: 1280
         isCached: true
-  - title: "5G In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application, By End-use, By Region And Segment Forecasts, 2022 - 2030"
-    excerpt: "Reportlinker.com announces the release of the report \"5G In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application, By End-use, By"
-    publishedDateTime: 2022-09-13T16:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28852772/5g-in-healthcare-market-size-share-trends-analysis-report-by-component-by-application-by-end-use-b"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28852772"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28852772"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 1
-  - title: "Insights on the Military Robots Global Market to 2027 - by Platform, Application, Mode of Operation and Region - ResearchAndMarkets.com"
-    excerpt: "The global military robots market size reached US$ 15.4 Billion in 2021. Looking forward, the publisher expects the market to reach US$ 29.7 Billion by 2027, exhibiting a CAGR of 11.57% during 2021-2027."
-    publishedDateTime: 2022-09-13T12:45:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-13-insights-on-the-military-robots-global-market-to-2027-by-platform-application-mode-of-operation-and-region-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
-  - title: "Cloud Advertising Market Research Report 2022 Growth, Recent Trends And Forecast To 2026 – Adobe, Oracle, Salesforce, Google, IBM"
-    excerpt: "SAP (Germany), Acquia (US), Demandbase (US), Experian (US), Kubient (US), FICO (US), HubSpot (US), Imagine Communications (US), InMobi (India), Marin"
-    publishedDateTime: 2022-09-14T20:10:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/ab28872311/cloud-advertising-market-research-report-2022-growth-recent-trends-and-forecast-to-2026-adobe-ora"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "K73ifOtCLB5ZBnr1u4EjBS4V3KeASe+UspfbOcdY7HrltBr0EabZY4/R8PLce+IxFuSXvqLUSj9Wa7BcSFPX8ud8f/GZRfFTpBQrP5CV9nYu1q5wCC165Xz6RiOfa0E3GFYNeOUwSZlQEc/UvohdO6CA9kWgbiuH1JW9pZwrA9r2zmyFquV0tQ6dXn1qcxE667/Zelz13M3kTIDIk1rpqr092SdHRMBwr2QXJhLlGcLPeS9fi9961nZ2N3c8ZKgKI/OwaiozuyAgyyYXqgkpRGwjsKPxJuT+6TiZFnXEWhKUcPqsGei1OeE7bla3DbRLiglzMFFSAr2kcBFzFEJwJZLbRq4xSlXXfjaQfvxFguY=;No3FyDhym2r1GXIVf2BXjw=="
 ---

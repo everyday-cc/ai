@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Use of RWE, AI elevating drug development: Sidley"
-    excerpt: "A fleet of legal professionals offers advice and perspective on important considerations when harnessing artificial intelligence and real-world evidence."
-    publishedDateTime: 2022-09-12T14:11:00Z
-    webUrl: "https://www.outsourcing-pharma.com/Article/2022/09/12/increasing-use-of-rwe-ai-elevating-drug-development-sidley"
-    type: article
-    provider:
-      name: Outsourcing-pharma
-      domain: outsourcing-pharma.com
-    quality: 39
-    images:
-      - url: "https://www.outsourcing-pharma.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/clinical-development/increasing-use-of-rwe-ai-elevating-drug-development-sidley/15744753-1-eng-GB/Increasing-use-of-RWE-AI-elevating-drug-development-Sidley.jpg"
-        width: 750
-        height: 435
-        isCached: true
   - title: "Using artificial intelligence to improve tuberculosis treatments"
     excerpt: "Imagine you have 20 new compounds that have shown some effectiveness in treating a disease like tuberculosis (TB), which affects 10 million people worldwide and kills 1.5 million each year. For effective treatment,"
     publishedDateTime: 2022-09-14T21:11:00Z

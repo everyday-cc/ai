@@ -7,7 +7,7 @@ originalUrl: "https://www.medgadget.com/2022/09/metaverse-in-healthcare-market-a
 webUrl: "https://www.medgadget.com/2022/09/metaverse-in-healthcare-market-a-big-revolution-in-healthcare-industry-expected-to-hit-with-a-cagr-of-33-7-over-the-forecast-period-2022-2028.html"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,64 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "Artificial Intelligence (AI) in Healthcare Market Size From 2022 To 2028 And Key Findings and Segments by End Use Industry"
+    excerpt: "The \"Artificial Intelligence (AI) in Healthcare Market\" provides a holistic analysis, market size and forecast from year to year, trends, growth drivers, and challenges, as well a"
+    publishedDateTime: 2022-09-15T11:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-from-2022-to-2028-and-key-findings-and-segments-by-end-use-industry-2022-09-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+  - title: "Artificial Intelligence (AI) In Education Market Size Is Expected to Hit $80 Billion By 2030"
+    excerpt: "Palm Beach, FL – September 15, 2022 – FinancialNewsMedia.com News Commentary – Artificial Intelligence (AI) is crossing over to new markets and brings additional revenues along with it. Increasing demand for Intelligent Tutoring Systems (ITSs) is fueling the AI in education industry growth."
+    publishedDateTime: 2022-09-15T12:30:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/financialnewsmedia-2022-9-15-artificial-intelligence-ai-in-education-market-size-is-expected-to-hit-80-billion-by-2030"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 42
+  - title: "Artificial Intelligence (AI) In Education Market Size Is Expected to Hit $80 Billion By 2030"
+    excerpt: "FinancialNewsMedia.com News Commentary - Artificial Intelligence (AI) is crossing over to new markets and brings additional revenues along with it. Increasing demand for Intelligent Tutoring Systems (ITSs) is fueling the AI in education industry growth."
+    publishedDateTime: 2022-09-15T18:12:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/09/15/9674474.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 42
+  - title: "Artificial Intelligence HPC Cloud Market Size From 2022 To 2028 And Key Findings and Segments by End Use Industry"
+    excerpt: "Pre and Post Covid is covered and Report Customization is available. This report begins with an introduction to"
+    publishedDateTime: 2022-09-15T08:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-hpc-cloud-market-size-from-2022-to-2028-and-key-findings-and-segments-by-end-use-industry-2022-09-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+  - title: "Global Artificial Intelligence (AI) in Automotive and Transportation Market to Grow at 20% Through 2026"
+    excerpt: "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to ResearchAndMarkets.com's offering. This market is likely to grow at a CAGR of around 20% during 2021-26."
+    publishedDateTime: 2022-09-16T21:17:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-automotive-transportation-market-grow-/2022/09/16/9675469.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
+  - title: "5G In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application, By End-use, By Region And Segment Forecasts, 2022 - 2030"
+    excerpt: "Reportlinker.com announces the release of the report \"5G In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application, By End-use, By"
+    publishedDateTime: 2022-09-13T16:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28852772/5g-in-healthcare-market-size-share-trends-analysis-report-by-component-by-application-by-end-use-b"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28852772"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28852772"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 1
 
 secured: "T8v8PKAV2vnW7pyY3W9tzDbMfPj+ppVi5/tmsRRhs07pOj2ebYejwYS/xVKIF4IRe74U1qvs8/OYOIV85wDKFvjVtEnUPABjB1N9bRpBTqeDG9fqczY6eDzwZrZF7rziVkRVeajyMLkog6AUJwa93KV2VLFvvBRXd5aPmDSCOf8fdJPniGco7hHxHKgrqXLEIWacPMZXUejTlTRImPqJ4a2p0aUVwVAmjYoZaZyMy0gaA+Wk6jbDxAjNyMlsOiXpBZobyqF3gKlwFJB0fDRssBvae+5e3HiNK3SU6m0nVYw36IxvYqsOiM4rFlhJG/k+mow3o66x6HIcs7/Ix4MaxSsRo2hYhREqhB7MKfIL+4l6NINK81+lRMaySM0q+x7ijvfZVRWE9+6BP5hWkaK6TSnyFfxA29It8+pkOMlKs2Gevilpw6h/ebbNqraCfh46CM20TRHYcCqy1omGgJEGDbVrr6VuGLqEvkcP8wy4/RT2PNAQkCTqbBcOHL8W5fb6nQjkKjrFNjqBA0cCfQlSag==;98Z3rG+fbwM/Fmh1Oh1YMg=="
 ---

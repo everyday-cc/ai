@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/topics/articles/2022/09/15/453489-importanc
 webUrl: "https://www.tmcnet.com/topics/articles/2022/09/15/453489-importance-a-good-translation-technology.htm"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1000
     height: 500
     isCached: true
-
-related:
-  - title: "The future of cabin technology and 3D image authentication"
-    excerpt: "D depth sensors could be a staple in consumer vehicles in the very near future The attraction for cabin monitoring inside a vehicle to ensure safety and improved connectivity is a growing market, with many OEMs looking into this technology for their newest models."
-    publishedDateTime: 2022-09-12T14:27:00Z
-    webUrl: "https://www.just-auto.com/interview/the-future-of-cabin-technology-and-3d-image-authentication/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 24
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/09/REAL3-IRS2877A_application-1038x778.jpg"
-        width: 1038
-        height: 778
-        isCached: true
 
 secured: "LQla3DTsXgNa+9gCib+wSB1SsoBnMmlu2Bqddu4nLJpMyJTT8x6yLsQkryOeouH6iMGDVi5vnBt7jigreVAsCvDh3Bi0NwvmDLgOO1AW6701xPcNg7Q0/8ok4R/0plFjx79jxxBfqX0TnCErSxBMr1Bln/kaRmtEs0k7EfLZaJK0x4puyndceI5C3SH1o12eHdZHLsDEShHxiHUZ2oPh3dXWOg1jn9s11ZUGvHnI1kcPLOKlqt6h2FA183plP/N81V1j8fT2Yh2UV1MIUO+Z7ZVh5goSUSWsjaIFajdHm90Py6YpVc7+y5+9AMkOA5mKhvc8bkcStMZHnXkq02isw0FWnUKIjK0c3Tb+m71zleeeaxPRudyc/zRu2hNeH3aea3XoQaMOsearxk4sFTKOEVb/vZgeeBxBEBWWAq3OS2SQw2pKuWLFASL4l/i9rHnn8oDobpWMOoZKYqywzVQWe6vl+vx1EeDM7Cgxv4rj2hq0VurpO0iJ974PBPEDf5yyHME9LZIOF3HCmIfC4dXBuA==;oNP3JXTfW8g2abRAjozWjQ=="
 ---

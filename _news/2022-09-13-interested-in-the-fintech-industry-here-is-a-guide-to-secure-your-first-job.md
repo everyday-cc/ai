@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "London Has Raised More Fintech Investment Than Any Other Global Hub"
-    excerpt: "MoneyTransfers.com reports that London has successfully attracted the most fintech investment, reaching $3.1 billion in 2022. Jonathan Merry, CEO of MoneyTransfers.com, commented on the report: \"The U."
-    publishedDateTime: 2022-09-12T13:57:00Z
-    webUrl: "https://techround.co.uk/finance/london-raises-more-fintech-investment/"
-    ampWebUrl: "https://techround.co.uk/finance/london-raises-more-fintech-investment/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/finance/london-raises-more-fintech-investment/amp/"
-    type: article
-    provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 59
-    images:
-      - url: "https://techround.co.uk/wp-content/uploads/2021/04/investment-2021.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "YUSE.io Awarded Investment By Celebrity FinTech Investor Herbert Sim"
     excerpt: "Herbert Sim said We get pitched to by countless of projects and startups daily, and we have personally handpicked YUSE Tech, for various reasons."
     publishedDateTime: 2022-09-13T10:00:00Z
@@ -59,33 +43,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "London Has Raised More Fintech Investment Than Any Other Global Hub, With Its 2022's Investment Reaching $3.1B"
-    excerpt: "\"The U.K.'s fintech sector is unrivaled in Europe and is continuing to grow at an incredible rate. London is the natural home for many of these businesses due to the city's deep pool of talent, its global reputation,"
-    publishedDateTime: 2022-09-12T14:53:00Z
-    webUrl: "https://www.investorideas.com/news/2022/technology/09121London-Fintech-Investment.asp"
+  - title: "YUSE.io Procures New Funding From Notable FinTech Investor Herbert Sim"
+    excerpt: "India has emerged into one of the largest financial technology (FinTech) ecosystems in the world, owing to surging funding activity, rapid adoption of digital financial services and supportive government initiatives."
+    publishedDateTime: 2022-09-13T15:05:00Z
+    webUrl: "https://www.india.com/brand-solution/business/yuse-io-procures-new-funding-from-notable-fintech-investor-herbert-sim/"
     type: article
     provider:
-      name: Investor ideas
-      domain: investorideas.com
-    quality: 19
+      name: India
+      domain: india.com
+    quality: 24
     images:
-      - url: "https://www.investorideas.com/images/top-sectors/news-investorideas.gif"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "London Has Raised More Fintech Investment Than Any Other Global Hub, With Its 2022'S Investment Reaching $3.1B"
-    excerpt: "The U.K.'s fintech sector is unrivaled in Europe and is continuing to grow at an incredible rate. London is the natural home for many of these businesses due to the city's deep pool of talent, its global reputation,"
-    publishedDateTime: 2022-09-13T06:42:00Z
-    webUrl: "https://menafn.com/1104854098/London-Has-Raised-More-Fintech-Investment-Than-Any-Other-Global-Hub-With-Its-2022S-Investment-Reaching-31B"
-    type: article
-    provider:
-      name: MENAFN
-      domain: menafn.com
-    quality: 19
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?943357"
-        width: 375
-        height: 250
+      - url: "https://static.india.com/wp-content/uploads/2022/09/13-19.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "4puUUkAXS78fpSabzfpF0HGVEMrsC+lxCgKppSy6va74AcrDTtTua0E8ys/ovVNKpQJOhXQqPdhP6hhEFz0CaSYQz964Ry3CgEHDomngj96a3ZDAMvi/nSY9g2uVecLz75HVzb+TWnT1TOnBdF46HtwVsreMaayK33zimngudaONt+XwPzvMgryss0+JA7kwjsBX8d791RTu3jBu9pTsCPwyA6eUyxtAAKicD1eHrUBSu7mDeyI5lgYiCkhCjZx+ygS0ACCTgZjfyftm47wyatgMWzURxV4/NSbcq6NxiqjGsqcxMXoZDejY8ZOL0RFrvbRT/PH9agAoKPObYTvr/OFXNjHpy/cJ7U8iyhVJsjg1Eip3OZjh9y0QM3kpa/sLYMcuSyc+RaagXLuK3rsbWRt3Sc4m0dKo40WjAyeVZPKbR1fiWhBc2A7JH+VZDcafFO088j7Yo59NwlCQIhxYCukYaxOCGpM05qKnqDPeixuarxjUhVIOMsXUMcS2rJhHqbDQeqWpqUH4Yr3uxKJT/A==;H9m8iPo6tzI0gFgBR7ZFLA=="

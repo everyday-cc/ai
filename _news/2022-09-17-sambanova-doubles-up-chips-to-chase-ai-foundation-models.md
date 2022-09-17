@@ -8,8 +8,8 @@ webUrl: "https://www.nextplatform.com/2022/09/17/sambanova-doubles-up-chips-to-c
 ampWebUrl: "https://www.nextplatform.com/2022/09/17/sambanova-doubles-up-chips-to-chase-ai-foundation-models/amp/"
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/09/17/sambanova-doubles-up-chips-to-chase-ai-foundation-models/amp/"
 type: article
-quality: 74
-heat: 114
+quality: 76
+heat: 116
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Computer Vision
 
 images:
   - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/09/sambanova-cardinal-sn30-logo.jpg"
@@ -76,6 +77,6 @@ related:
         height: 502
         isCached: true
 
-secured: "mlu/W9Vwdbm7Z8WseJuR5Asmh24Y5vEH0qsD//oFo42f17dRj6vArhEvK6a+pNAvHegn8TlC4kTOqpy+Jp9ekY0wHUHfy7o2mPQBKPNRLbT7IWvSpAs+o+Sgel+RF8ZuGuQtTkKqGzSxmaimRwl6DbPoReZ8/Gw/xsGePtCLgxZBW5iAPkH/4gsSEzfSGBDEegGQq0IZiy5pJ+b+ZiAIm9sfATUMIGlJPOO1YubGEoGZWde2Ge+XlmJtS+EOWpt3xslo1nCjngRvB12ugH888PIUP9DNRAaP17zRl63BXq0lCdeE0u05dqnkkDQ6axvY58xhbaM5DLvMDqBpZdsok0n0RYm2Lvd3u3vYms+1MeA=;OIdgN8VqIsQgR8FCfjjY5A=="
+secured: "cP9ak7RcdAKLJeL/dgiZ8kc+oiakpQyTgG+js6f98tixcs5UYeGKr0feEjb/UATAL68WsQjlfxdAHUUzUrU3r78bYafWrqwtS4pvsAqvg6tjCNmGDPTfplkuhCkm4xDZPGhb+IpCFEW/1qdO/KTy8Lqrtqzh9vsjp+waE2FB98Q7DLY6yFq+LlMJ0SksroYhk/NAprxbOO2h6nKtz3FnIGgjMFLcriXsx6TOmUN9viWDYFQLDhqGj4qas6Ie0sQOD4i5UBKId+CKTkmrJPcqt5iJZVC/qc7iOSw76T/zUL5hCbd4l/ytbu8iB7uAZUN9svChRbTOuU9Yvf2g9TcTEUiGIJ86hKVOGUX9OQkelhhKqbjhYiuzDZUXrv/0hSSimGqJVumvLCelgJtohUID4g7Jahrioz9FzhjihcoaeE++0NDEQDRFP/MTxq2PDkiERV/qK9bDcr3RDWfAQ1nmMJadWvjw4ezpHJPpLdLUFY1NoREKb/x2ChG0xvXmC63PzECww4ogGod5SbJEezYsgQ==;kN1fvmU/ZuU6Kp0yyg+n/A=="
 ---
 

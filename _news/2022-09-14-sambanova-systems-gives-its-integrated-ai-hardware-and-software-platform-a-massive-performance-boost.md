@@ -35,7 +35,7 @@ related:
     provider:
       name: The Next Platform
       domain: nextplatform.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/09/sambanova-cardinal-sn30-logo.jpg"
         width: 1227

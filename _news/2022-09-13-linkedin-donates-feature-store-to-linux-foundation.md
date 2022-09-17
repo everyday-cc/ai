@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 802
         isCached: true
+  - title: "AMD Joins PyTorch Foundation to Accelerate AI Adoption"
+    excerpt: "Other founding members of the PyTorch foundation are Amazon, Alphabet’s Google cloud, Microsoft Azure and Nvidia NVDA. AMD is supporting the PyTorch foundation by working on democratizing state-of-the-art tools,"
+    publishedDateTime: 2022-09-13T21:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/amd-joins-pytorch-foundation-to-accelerate-ai-adoption"
+    ampWebUrl: "https://www.nasdaq.com/articles/amd-joins-pytorch-foundation-to-accelerate-ai-adoption?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amd-joins-pytorch-foundation-to-accelerate-ai-adoption?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 88
   - title: "Meta spins off PyTorch Foundation to make AI framework vendor neutral"
     excerpt: "The move comes as the adoption of the PyTorch framework has become widely used across the deep learning industry to power many natural language and computer vision projects, including Tesla Autopilot."
     publishedDateTime: 2022-09-12T21:33:00Z
@@ -55,17 +66,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "AMD Joins PyTorch Foundation to Accelerate AI Adoption"
-    excerpt: "Other founding members of the PyTorch foundation are Amazon, Alphabet’s Google cloud, Microsoft Azure and Nvidia NVDA. AMD is supporting the PyTorch foundation by working on democratizing state-of-the-art tools,"
-    publishedDateTime: 2022-09-13T21:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/amd-joins-pytorch-foundation-to-accelerate-ai-adoption"
-    ampWebUrl: "https://www.nasdaq.com/articles/amd-joins-pytorch-foundation-to-accelerate-ai-adoption?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amd-joins-pytorch-foundation-to-accelerate-ai-adoption?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 86
   - title: "PyTorch joins the Linux Foundation"
     excerpt: "Under the linux Foundation, PyTorch gains several benefits including helpful programs, research, and global and local events."
     publishedDateTime: 2022-09-12T15:41:00Z
@@ -117,20 +117,6 @@ related:
         width: 803
         height: 419
         isCached: true
-  - title: "Meta’s deep learning framework PyTorch to be led by the newly formed PyTorch Foundation"
-    excerpt: "PyTorch artificial intelligence platform it created to the Linux Foundation ’s newly formed PyTorch Foundation. PyTorch is a deep learning framework that’s used to power hundreds of AI projects, specifically machine learning applications."
-    publishedDateTime: 2022-09-12T14:23:00Z
-    webUrl: "https://siliconangle.com/2022/09/12/metas-deep-learning-framework-pytorch-led-newly-formed-pytorch-foundation/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 48
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/1_LLVL8xUiUOBE8WHgzAuY-Q.png"
-        width: 2000
-        height: 1125
-        isCached: true
   - title: "Meta Transitions PyTorch to the Linux Foundation, Further Accelerating AI/ML Open Source Collaboration"
     excerpt: "PyTorch Foundation to foster an ecosystem of vendor-neutral projects alongside founding members AMD, AWS, Google Cloud, Meta, Microsoft Azure, and NVIDIA DUBLIN , Sept. 12, 2022 /PRNewswire/ -- The Linux Foundation,"
     publishedDateTime: 2022-09-12T15:30:00Z
@@ -140,29 +126,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 37
-  - title: "AMD Joins New PyTorch Foundation as Founding Member To Promote Broader Adoption of Artificial Intelligence and Machine Learning Capabilities"
-    excerpt: "AMD (NASDAQ: AMD) today announced it is joining the newly created PyTorch Foundation as a founding member. The foundation, which will be part of the non-profit Linux Foundation, will drive adoption of Artificial Intelligence (AI) tooling by fostering and sustaining an ecosystem of open source projects with PyTorch,"
-    publishedDateTime: 2022-09-12T13:32:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-science-software-philanthropy-artificial-intelligence-e377405a8eeb4b4a8afc6c3077ef7bdc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Meta Transitions PyTorch to the Linux Foundation"
-    excerpt: "The Linux Foundation, a global nonprofit organization enabling innovation through open source, today announced PyTorch is moving"
-    publishedDateTime: 2022-09-12T14:53:00Z
-    webUrl: "https://www.datanami.com/this-just-in/meta-transitions-pytorch-to-the-linux-foundation/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 21
 
 secured: "kRDIMukeXgSQsE/Td1gx0seT05Yg2wINjDoZXifTdWHtcXOHRNE4YwiM3tdxt3h5zpq5CTsL9l9dO6xmB4rb8ASHiyMp7hyeP0cfvDKeM+RW5B6Ui/0gSmqySl5S2D+crD2FF2PAGX4TuIjO1mpnQQ6UcWf8HJxtqLeEXxIrLQb/Oit6Qn+QJUxlDKOa/hrzxHkxSKYeB3pVQVdNuTrNKvC5t47yilp61HYkaINUz7FSp1PeW3BfrBCNrxxOGsFKLnDQI+xa+CZ1pjVrkJQaN20COyC00KYlHCgZ4J7oayirMnodeNcDxXfr732coo6BWUk/qOTINjHK/IEYzA8GZpvi7fXd994IIm1WdwAHFq4zpXsk6twBYOKDq2oPtn/5ksd6u+DJhIzI79L9D8I5eDRQ9Zr8mervPhE6fNk+FfWKGK/ceaKW/PNZoufz04xi3Q51h/psByvRwZ4UPeFmykxqGGJP1N1iAXxNlvmL8HVutNpYlNoujpB657Kq9nZDBEKk+pnermyEQDSu75s51Q==;fn3oZ67CNQ/y8bmt47lP8A=="
 ---

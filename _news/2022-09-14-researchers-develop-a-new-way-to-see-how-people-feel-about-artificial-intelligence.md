@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-09-people-artificial-intelligence.a
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-people-artificial-intelligence.amp"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: techxplore
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Sprout.ai hires chief people officer"
+    excerpt: "Sprout.ai, fast-growth technology firm automating claims automation for insurers, has appointed Hannah Atack as its new chief people officer."
+    publishedDateTime: 2022-09-15T08:00:00Z
+    webUrl: "https://employeebenefits.co.uk/sprout-ai-hires-chief-people-officer/"
+    type: article
+    provider:
+      name: Employee Benefits
+      domain: employeebenefits.co.uk
+    quality: 37
+    images:
+      - url: "https://employeebenefits.co.uk/content/uploads/2022/09/HannahAtack.jpg"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Researchers develop an AI model for autonomous driving"
     excerpt: "A research team consisting of Oskar Natan, a Ph.D. student, and his supervisor, Professor Jun Miura, who are affiliated with the Active Intelligent System Laboratory (AISL), Department of Computer Science Engineering,"
     publishedDateTime: 2022-09-12T18:58:00Z

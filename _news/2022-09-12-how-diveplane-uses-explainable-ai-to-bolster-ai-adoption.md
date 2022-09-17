@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/how-diveplane-uses-explainable-ai-to-bols
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-diveplane-uses-explainable-ai-to-bolster-ai-adoption/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/robot_shutterstock_Phonlamai-Photo.jpg"
         width: 1000
         height: 667
-        isCached: true
-  - title: "Explainable AI startup Diveplane raises $25M to help companies better understand machine learning algorithms"
-    excerpt: "Explainable AI startup Diveplane raises $25M to help companies better understand machine learning algorithms - SiliconANGLE"
-    publishedDateTime: 2022-09-12T14:37:00Z
-    webUrl: "https://siliconangle.com/2022/09/12/explainable-ai-startup-diveplane-raises-25m-help-companies-better-understand-machine-learning-algorithms/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/diveplane.png"
-        width: 1162
-        height: 738
         isCached: true
   - title: "Sigma Defense Backs Artificial Intelligence Startup Diveplane with Series A Investment"
     excerpt: "Diveplane helps businesses and government organizations concerned with data privacy to better understand and leverage the power of their data through AI tools that are trainable, interpretable and auditable."

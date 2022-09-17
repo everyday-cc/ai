@@ -54,6 +54,50 @@
       ]
     },
     {
+      "path": "_news/2022-09-14-researchers-develop-a-new-way-to-see-how-people-feel-about-artificial-intelligence.md",
+      "title": "Researchers develop a new way to see how people feel about artificial intelligence",
+      "excerpt": "People in Japan, the U.S. and Germany show different concerns regarding artificial intelligence (AI) being used in entertainment, shopping services, or to help find criminals, reports a new study in AI and Ethics.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-09-people-artificial-intelligence.html",
+      "originalUrl": "https://techxplore.com/news/2022-09-people-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/researchers-develop-a-15.jpg",
+          "width": 1100,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-09-people-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-people-artificial-intelligence.amp",
+      "publishedDateTime": "2022-09-14T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-upset-by-high-prices-gms-cruise-develops-its-own-chips-for-self-driving-cars.md",
       "title": "Upset by high prices, GM's Cruise develops its own chips for self-driving cars",
       "excerpt": "A handout image shows a plate of Dune chips by General Motors' self driving vehicle unit Cruise, in San Francisco, California, U.S.. Courtesy of Cruise/Handout via REUTERS",
@@ -1379,49 +1423,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-bitcode-method-driving-financial-stability-by-maximizing-your-crypto-profits.md",
-      "title": "Bitcode Method: Driving Financial Stability by Maximizing Your Crypto Profits",
-      "excerpt": "Driving Financial Stability by Maximizing Your Crypto Profits - The expansion of distributed ledger technology and increased digital venture capital investments are",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconindia.com/news/general/bitcode-method-driving-financial-stability-by-maximizing-your-crypto-profits-nid-219926-cid-1.html",
-      "originalUrl": "https://www.siliconindia.com/news/general/bitcode-method-driving-financial-stability-by-maximizing-your-crypto-profits-nid-219926-cid-1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconindia.com/news/newsimages/special/ix9d6217.png",
-          "width": 502,
-          "height": 324,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-06T01:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconIndia",
-        "domain": "siliconindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

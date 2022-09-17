@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/google-org/our-commitment-o
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals/amp/"
 type: article
 quality: 106
-heat: 166
+heat: 156
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://www.newelectronics.co.uk/media/nagnckik/ca591_jedai_press-and-social-image_rectangle.jpg?width=1200&height=630&mode=crop"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Use of RWE, AI elevating drug development: Sidley"
-    excerpt: "A fleet of legal professionals offers advice and perspective on important considerations when harnessing artificial intelligence and real-world evidence."
-    publishedDateTime: 2022-09-12T14:11:00Z
-    webUrl: "https://www.outsourcing-pharma.com/Article/2022/09/12/increasing-use-of-rwe-ai-elevating-drug-development-sidley"
-    type: article
-    provider:
-      name: Outsourcing-pharma
-      domain: outsourcing-pharma.com
-    quality: 39
-    images:
-      - url: "https://www.outsourcing-pharma.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/clinical-development/increasing-use-of-rwe-ai-elevating-drug-development-sidley/15744753-1-eng-GB/Increasing-use-of-RWE-AI-elevating-drug-development-Sidley.jpg"
-        width: 750
-        height: 435
         isCached: true
   - title: "New Cadence Joint Enterprise Data and AI Platform Dramatically Accelerates AI-Driven Chip Design Development"
     excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the delivery of the Cadence® Joint Enterprise Data and AI (JedAI) Platform, enabling a generational shift from single-run, single-engine algorithms in electronic design automation (EDA) to algorithms that leverage big data and artificial intelligence (AI) to optimize multiple runs of multiple engines across an entire SoC design and verification flow."
