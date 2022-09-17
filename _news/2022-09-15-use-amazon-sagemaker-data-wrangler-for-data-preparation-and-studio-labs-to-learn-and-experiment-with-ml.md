@@ -44,15 +44,6 @@ related:
         width: 1534
         height: 767
         isCached: true
-  - title: "How Medidata used Amazon SageMaker asynchronous inference to accelerate ML inference predictions up to 30 times faster"
-    excerpt: "This post is co-written with Rajnish Jain, Priyanka Kulkarni and Daniel Johnson from Medidata. Medidata is leading the digital transformation of life sciences, creating hope for millions of patients. Medidata helps generate the evidence and insights to help pharmaceutical, biotech, medical devices, and"
-    publishedDateTime: 2022-09-12T18:36:31Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-medidata-used-amazon-sagemaker-asynchronous-inference-to-accelerate-ml-inference-predictions-up-to-30-times-faster/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 62
 
 secured: "DwT3LxFCtzNjn1cFDlsiivlwP0cdqV5gT766OdekDZ3faSXbQbLYlWf60qxmcI6MfqOBy6Z9Ga6iqWtwcfL7Nxs+Z+u4yYvL6TnBWq7qCE2eroL6n+0nCZcC9O0CAAuPsMn3WKNYwoN1vhBaCqpvyYZSnqDb0Bhqbd1C+F8U4m6a+SODqAVgVx4l9/MGBiYjaiDovubEqkU5XG+bY3OcuyVfYdRuNGaYI5QVrHwrt9sBMXfqOnR9C8KNpfZEnYI5a9/pYJibS5iajfpoQUmYoVNaH3JCz6n8wcRA09wUXBNlnGGVKMr6t1z+14JvYQnYxs3gcngkYGEa6+3WkmIIYROt9Q0oeH/iMCvsi1fVBLo=;DgwuxKFvZ9wGJ5DI75MIvw=="
 ---

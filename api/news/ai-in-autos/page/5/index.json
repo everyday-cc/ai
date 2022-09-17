@@ -2,40 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2022-08-19-5-best-self-driving-stocks-to-invest-in.md",
-      "title": "5 Best Self-Driving Stocks To Invest In",
-      "excerpt": "The company’s DRIVE Chauffeur platform is an artificial intelligence assisted driving ... Not only is Orin the world’s fastest self-driving computer, but NVIDIA Corporation (NASDAQ:NVDA ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-self-driving-stocks-to-invest-in-1058088/4/",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-self-driving-stocks-to-invest-in-1058088/4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T01:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-19-self-driving-cars-get-green-light-to-hit-roads-next-year-with-100million-pledge-to-speed-up-rollout.md",
       "title": "Self-driving cars get green light to hit roads next year with £100million pledge to speed up rollout",
       "excerpt": "Self-driving vehicles could be on British roads as early as next year, the Government has said. Ministers want to pass legislation so that some cars, coaches and lorries with self-driving ...",
@@ -1310,6 +1276,49 @@
       "provider": {
         "name": "FOX5 Las Vegas",
         "domain": "fox5vegas.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-16-the-costs-of-sydneys-driverless-train-conversion-outweigh-the-benefits.md",
+      "title": "The Costs of Sydney’s Driverless Train Conversion Outweigh the Benefits",
+      "excerpt": "But even without overruns pushing the cost of the driverless-train project to more than $55 billion, the economics of the “Sydney Metro” project are questionable – in particular the decision ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2022/08/driverless-trains-sydney/",
+      "originalUrl": "https://www.gizmodo.com.au/2022/08/driverless-trains-sydney/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/08/16/gizmodo.png?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2022/08/driverless-trains-sydney/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/08/driverless-trains-sydney/amp/",
+      "publishedDateTime": "2022-08-16T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gizmodo",
+        "domain": "gizmodo.com.au",
         "images": null,
         "publishers": null,
         "authors": null

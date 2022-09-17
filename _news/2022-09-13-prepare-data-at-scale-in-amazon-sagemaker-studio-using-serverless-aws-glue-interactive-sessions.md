@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/prepare-data-at-scal
 webUrl: "https://aws.amazon.com/blogs/machine-learning/prepare-data-at-scale-in-amazon-sagemaker-studio-using-serverless-aws-glue-interactive-sessions/"
 type: article
 quality: 92
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1549
         height: 774
         isCached: true
-  - title: "How Medidata used Amazon SageMaker asynchronous inference to accelerate ML inference predictions up to 30 times faster"
-    excerpt: "This post is co-written with Rajnish Jain, Priyanka Kulkarni and Daniel Johnson from Medidata. Medidata is leading the digital transformation of life sciences, creating hope for millions of patients. Medidata helps generate the evidence and insights to help pharmaceutical, biotech, medical devices, and"
-    publishedDateTime: 2022-09-12T18:36:31Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-medidata-used-amazon-sagemaker-asynchronous-inference-to-accelerate-ml-inference-predictions-up-to-30-times-faster/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 62
 
 secured: "TlzzCNrUHz3TG8QAD8bYi0ucxy6rw7vinsQvnmfRZGsRE4FdSLRL+VSlz3tg+vDcjrY39KpnOiPfLbVame4pA8NOnWuVkFx80aSlTTksJKFUFrH48zBdgvv0VyQ/X1NthO4cNgEGFgWxR1qhvnQKSaJr1lTI+75CBdkNJmlYBgUWphkhlYF7d8iXoIlAPelArZuqUqgF7Ly6LKzEBgxX5cpzjttI027Fx7i3qElHT5q5AAIo+1AxKbbzxjql36h18Sv6Rc4LgkA+l8aBATxku1/vlo7Q06X6/JokLv5uftZsemsInE/hPnx64k4ayVubUat3NJOxbJPkCDgEF2obp14PUp1SjdDEBrpLZJuVE4k=;0F1P/ieuZLsb/xK0JettKA=="
 ---

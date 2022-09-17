@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-17T09:24:00Z
 originalUrl: "https://interestingengineering.com/innovation/where-are-all-the-personal-robots-we-were-promised"
 webUrl: "https://interestingengineering.com/innovation/where-are-all-the-personal-robots-we-were-promised"
 type: article
-quality: 24
-heat: 24
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -17,6 +17,8 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI in Robotics
+  - Natural Language Processing
 
 images:
   - url: "https://inteng-storage.s3.amazonaws.com/2022/09/16/image/jpeg/AEjRl0cLTi6vgFNVq73NMdLvEwzEnUf38VLTo0dl.jpg"
@@ -24,6 +26,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "HnZVvbco5yDV4sH1G+8Yhg2uShsdNnBUWVCzR0AKGsXH61V2PvA/stoDDRVmAElNRFubTHh5mClUTz2YglvMnnn5N07h/pCqEHDDaup7MrtDKhXHgJsZ4b9NyhzoI8pp45jCtKf8G4158hwT3zYUoqsPl3DRQsI8WLNFw0NnXsSYJ75ESbnrhAsxw416yoxBK7BXpqFSx6YffNqWaUQZzld9ht6FnZeTaQy88IFADB/yScD3fLSVzXqKPIEDFkkBKhpV9UwV16+Uva1fkOsAHdl+4k1ib0aFem9J0Amy2YQZq77bD87+v1eYMEZ0F8YBTGWB4YkMAAKz4oMH5mJBT2BLyJYBpXNYomY5cvWEZwc=;GKdI+59mGFjDUzNCa6YNRA=="
+secured: "IbY2bRsqsyw/rcmiHkOcIVADduPHAcwyppFgrfsFwbbKxvdzTJPDDVDjy8ZiItMX5e39Q5p/6REn/zGES3hv5KdJglf6Ax+M0pDlYTyukar1dmH4VLe2DdZ7VUi3je6nfxpSMPFd43yUhBrd6eQuQ66IBqEkjMn7R1PZUSvt+9LTo1Is2wAhfyc/LlPtLWSkqpvnrUIqtczFX8bkJa4ujuSmzDg82gEVg9mikgSemAmQDnaEeM7cgSUrszByBbW4P3/3jqnAcd4HucMuwilEiu+9/b+D+IRT1xvucrD7TgccVE1cqUCgyxQlJt2PYJ93mTXhPp+UC5MXzQKeRiTNZJ2H+1j1t7o8hT5UNzhHuWXZCi/VdEDKkg+GaABvzkh9kcviLcwnTUXofVCa6hmJCmRwSzqimOTBXVpDkWDbpBeXFkB3UFelpdqFgVvW0yEQG4yJm03PYXeH3yj4yXZRTfkhYsO1MweaYE1NYkhueO3DBA+g3wVmCyavePns51Hc4w2WfEn8g1bSWZ+h49O7oQ==;/a5EguV1gBTcHS+OxA9dXw=="
 ---
 

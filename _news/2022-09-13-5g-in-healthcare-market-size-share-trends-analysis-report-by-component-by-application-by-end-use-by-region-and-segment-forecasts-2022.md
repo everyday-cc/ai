@@ -57,15 +57,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
-  - title: "Global Artificial Intelligence (AI) in Automotive and Transportation Market to Grow at 20% Through 2026"
-    excerpt: "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to ResearchAndMarkets.com's offering. This market is likely to grow at a CAGR of around 20% during 2021-26."
-    publishedDateTime: 2022-09-16T21:17:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-automotive-transportation-market-grow-/2022/09/16/9675469.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
   - title: "Metaverse In Healthcare Market- A Big Revolution In Healthcare Industry Expected To Hit with a CAGR of 33.7% over the forecast period 2022 – 2028"
     excerpt: "The Global Metaverse in Healthcare Market is valued at USD 5056.4 Million in 2021 and is expected to reach USD 7453.6 Million by 2028 with a CAGR of 33.7% over the forecast period. Innovations in AR and VR technologies and huge investments in artificial intelligence are some of the major factors driving the growth of the Global Metaverse in Healthcare Market."
     publishedDateTime: 2022-09-16T07:01:00Z

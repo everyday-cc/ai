@@ -62,15 +62,6 @@ related:
         width: 2048
         height: 1366
         isCached: true
-  - title: "Paravision face biometrics contract with US Air Force expands"
-    excerpt: "The project involves developing and delivering a converged identity solution with biometric capabilities providing physical and logical access control."
-    publishedDateTime: 2022-09-12T18:54:00Z
-    webUrl: "https://www.biometricupdate.com/202209/paravision-face-biometrics-contract-with-us-air-force-expands"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 19
 
 secured: "2iFbHGg7trLtlbIREopLh4lI+97pUpWDzz+icsdJADs57x7G6ESc48uGzSwwxZ+Pt823yMUpr+eRIAN/GgUZvkOQ8go6pDs+K8XCvh+m0CEsNFswETT9BR8reBgOffzw9pmHZIEX0Me6gA4Yih7L3FB5fVk85k/l0scurj7JfjkfBV73def4j2OXNBd+xGtzxuAPLWDejStIvmH8ybL/91Rvd7jy96Q9Tsor4G+1IQi6tJuy7eind9cJdU0/dWahFN6lyB9V/ppNiFoxNKOUu2f79iB2I4bl5mh5lBVxHoqelB5GYP1zyD6MzTlJaZAzy95PQLcYMmutAWBapLbFWMx8KQqvrwPLIfEozw+38Y/lCVmiF9eusXsKQs4xIiKZJB2hiLnQW09BpmpavY9GIxhl2VqHu/5vf9j0kB4zEDbKBBoTBVeh97V4AEO6EopDi3v9awgGgo/sx12/nqD0Cx6cuE4lBoZbVJND18BhBrvC1l2peWpMaIFtuHOkuwokQNsh5HUst622Vuwxe5QeAw==;K6R0ZPIx5J4MG5g18jWnXg=="
 ---

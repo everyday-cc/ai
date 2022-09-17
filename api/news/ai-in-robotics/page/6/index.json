@@ -2,6 +2,295 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-08-10-top-5-bitcoin-trading-robots-for-2022.md",
+      "title": "Top 5 Bitcoin Trading Robots for 2022",
+      "excerpt": "Crypto trading robots must be alert and available to trade at all times if they want to make the greatest transactions. Once again, some traders can lose out on successful transactions due to trading slowdowns and transaction delays.",
+      "sourceUrl": null,
+      "webUrl": "https://www.peacefmonline.com/pages/business/news/202208/471995.php",
+      "originalUrl": "https://www.peacefmonline.com/pages/business/news/202208/471995.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://w5p2r8x5.stackpathcdn.com/photos/news/202111/768212374_698734.jpg",
+          "width": 600,
+          "height": 444,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Peace FM Online",
+        "domain": "peacefmonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-did-a-robot-help-create-that-ad-the-answer-increasingly-is-yes.md",
+      "title": "Did a Robot Help Create That Ad? The Answer, Increasingly, Is Yes.",
+      "excerpt": "More marketers are using artificial intelligence tools to help develop creative ideas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/did-a-robot-help-create-that-ad-the-answer-increasingly-is-yes-11660125601",
+      "originalUrl": "https://www.wsj.com/articles/did-a-robot-help-create-that-ad-the-answer-increasingly-is-yes-11660125601",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-600009/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/did-a-robot-help-create-that-ad-the-answer-increasingly-is-yes-11660125601",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/did-a-robot-help-create-that-ad-the-answer-increasingly-is-yes-11660125601",
+      "publishedDateTime": "2022-08-10T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-the-best-examples-of-human-and-robot-collaboration.md",
+      "title": "The Best Examples Of Human And Robot Collaboration",
+      "excerpt": "As robots are becoming more intelligent and able to perform more complex tasks, it is important to figure out the right way to split the work so humans and robots are each doing the work best suited for each other.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/08/10/the-best-examples-of-human-and-robot-collaboration/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/08/10/the-best-examples-of-human-and-robot-collaboration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62f33bc82e274eb23360c8b8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/08/10/the-best-examples-of-human-and-robot-collaboration/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/08/10/the-best-examples-of-human-and-robot-collaboration/amp/",
+      "publishedDateTime": "2022-08-09T22:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-u-of-a-integrating-artificial-intelligence-into-exoskeleton-technology.md",
+      "title": "U of A integrating artificial intelligence into exoskeleton technology",
+      "excerpt": "A group of University of Alberta researchers are trying to redefine medical assistance for those with mobility issues by combing artificial intelligence with exoskeleton technology.",
+      "sourceUrl": null,
+      "webUrl": "https://edmonton.ctvnews.ca/u-of-a-integrating-artificial-intelligence-into-exoskeleton-technology-1.6019787",
+      "originalUrl": "https://edmonton.ctvnews.ca/u-of-a-integrating-artificial-intelligence-into-exoskeleton-technology-1.6019787",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2022/8/8/2498165/_jcr_content/renditions/videothumbnail.1660054959435.jpg",
+          "width": 1020,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/edmonton/2022/8/9/1_6019787.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/edmonton/2022/8/9/1_6019787.amp.html",
+      "publishedDateTime": "2022-08-09T07:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-is-artificial-intelligence-better-than-human-brain.md",
+      "title": "Is Artificial Intelligence better than human brain?",
+      "excerpt": "Machines are digital, but human brain is analogous and cannot be replaced by technology Digitisation, automation, high-performance robots … everyday, advertisements in media anticipate the great disruption and replacement of humans by Artificial Intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/opinion/op-eds/is-artificial-intelligence-better-than-human-brain-1.89796556",
+      "originalUrl": "https://gulfnews.com/opinion/op-eds/is-artificial-intelligence-better-than-human-brain-1.89796556",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2022/06/15/OPN-Artificial-Intelligence_18166c197a7_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/opinion/op-eds/is-artificial-intelligence-better-than-human-brain-1.89796556",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/opinion/op-eds/is-artificial-intelligence-better-than-human-brain-1.89796556",
+      "publishedDateTime": "2022-08-08T23:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-sam-weitzman-makes-pools-safer-and-easier-to-maintain-using-advanced-artificial-intelligence.md",
+      "title": "Sam Weitzman Makes Pools Safer and Easier To Maintain Using Advanced Artificial Intelligence",
+      "excerpt": "In this episode, we are joined by Sam Weitzman, the Founder, and CEO of Deep Innovations, which develops cutting-edge cloud-based technology, artificial intelligence, and computer vision to create various value-add applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/433014",
+      "originalUrl": "https://www.entrepreneur.com/article/433014",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20160408155709-default-hero-entrepreneur.png",
+          "width": 2000,
+          "height": 1334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T21:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-09-future-of-work-beyond-bossware-and-job-killing-robots.md",
       "title": "Future of work: Beyond bossware and job-killing robots",
       "excerpt": "To encourage a human-centered workplace, we must rethink AI-driven automation, bossware, labor taxes and corporate R&D.",
@@ -1080,285 +1369,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-man-who-threw-away-150m-in-bitcoin-hopes-ai-and-robot-dogs-will-get-it-back.md",
-      "title": "Man who threw away £150m in bitcoin hopes AI and robot dogs will get it back",
-      "excerpt": "Computer engineer who accidentally discarded hard drive consults Newport council over scheme",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill?mc_cid=a2f6383de2&mc_eid=d105d8fee6",
-      "originalUrl": "https://www.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill?mc_cid=a2f6383de2&mc_eid=d105d8fee6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/fcb98f8e17e8a355edc88e718c0ee6cdaa4fdba4/805_867_4955_2973/master/4955.jpg?width=620&quality=85&auto=format&fit=max&s=e2c6e1f3e82e4a82184ee2c3a2bad4fe",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill",
-      "publishedDateTime": "2022-08-02T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-bitalpha-ai-review-trending-trading-robot.md",
-      "title": "BitAlpha AI Review – Trending Trading Robot",
-      "excerpt": "Users should be aware that all trading involves risk and start with a minimum ... The BitAlpha AI platform supports more payment methods than most trading robots, including bank transfers ...",
-      "sourceUrl": null,
-      "webUrl": "https://augustafreepress.com/cryptocurrency/bitalpha-ai-review/",
-      "originalUrl": "https://augustafreepress.com/cryptocurrency/bitalpha-ai-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://augustafreepress.com/wp-content/uploads/2022/08/bitalpha-ai-bot.png",
-          "width": 523,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T04:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Augusta Free Press",
-        "domain": "augustafreepress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-itri-hosts-2022-international-workshop-on-trustworthy-ai-to-discuss-trust-and-ethics-in-ai.md",
-      "title": "ITRI Hosts 2022 International Workshop on Trustworthy AI to Discuss Trust and Ethics in AI",
-      "excerpt": "With the support of the Industrial Development Bureau (IDB) under the Minister of Economic Affairs, ITRI held the 2022 International Workshop on Trustworthy AI online on August 2. Over 400 experts gathered at the first-ever conference in Taiwan on this theme to discuss topics such as AI risk management and trustworthy AI systems.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/itri-hosts-2022-international-workshop-on-trustworthy-ai-to-discuss-trust-and-ethics-in-ai-1031638723",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/itri-hosts-2022-international-workshop-on-trustworthy-ai-to-discuss-trust-and-ethics-in-ai-1031638723",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1870688/Photo_1.jpg",
-          "width": 400,
-          "height": 266,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T01:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-android-controlled-robot-extravaganza.md",
-      "title": "Android Controlled Robot Extravaganza",
-      "excerpt": "the tip line has been awash in robot/Android mashups. Here’s a few of the cool ones. Using an Android as a remote control [Stef] used a Samsung Galaxy S3 to control an old rc tank. The Android ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2012/08/04/android-controlled-robot-extravaganza/",
-      "originalUrl": "https://hackaday.com/2012/08/04/android-controlled-robot-extravaganza/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2012/08/robot-side-view1.jpg",
-          "width": 4265,
-          "height": 2833,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-diagnostic-robotics-raises-45m-series-b.md",
-      "title": "Diagnostic Robotics raises $45M Series B",
-      "excerpt": "Israel-based Diagnostic Robotics announced recently that it has closed a $45 million Series B financing round.",
-      "sourceUrl": null,
-      "webUrl": "https://www.massdevice.com/diagnostic-robotics-raises-45m-series-b/",
-      "originalUrl": "https://www.massdevice.com/diagnostic-robotics-raises-45m-series-b/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.massdevice.com/wp-content/uploads/2022/08/Diagnostic-Robotics-Logo.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-01T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MassDevice",
-        "domain": "massdevice.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-ann-arbors-new-samurai-sorting-robot-is-a-plastics-recycling-game-changer.md",
-      "title": "Ann Arbor’s new ‘SamurAI sorting robot’ is a plastics recycling game-changer",
-      "excerpt": "Michigan is now one of the nation’s three best states for recycling plastics, according to a recent <a href=\" Voter study.",
-      "sourceUrl": null,
-      "webUrl": "https://www.clickondetroit.com/sponsored/2022/08/01/ann-arbors-new-samurai-sorting-robot-is-a-plastics-recycling-game-changer/",
-      "originalUrl": "https://www.clickondetroit.com/sponsored/2022/08/01/ann-arbors-new-samurai-sorting-robot-is-a-plastics-recycling-game-changer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/DYROQW7ZBBCEFAMS4ASYQDGH2Q.jpg?_a=ATAK9d60",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.clickondetroit.com/sponsored/2022/08/01/ann-arbors-new-samurai-sorting-robot-is-a-plastics-recycling-game-changer/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/sponsored/2022/08/01/ann-arbors-new-samurai-sorting-robot-is-a-plastics-recycling-game-changer/?outputType=amp",
-      "publishedDateTime": "2022-08-01T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "clickondetroit.com",
-        "domain": "clickondetroit.com",
         "images": null,
         "publishers": null,
         "authors": null

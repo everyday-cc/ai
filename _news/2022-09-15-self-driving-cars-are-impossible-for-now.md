@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "2nd tech giant is bringing self-driving cars to Seattle-area streets"
-    excerpt: "Google parent Alphabet Inc.'s (Nasdaq: GOOGL) self-driving project, Waymo, said that over the next few months electric Jaguar I-Pace vehicles will be driving through Bellevue \"to gain more real world driving experience during Washington's numerous rainy days."
-    publishedDateTime: 2022-09-12T18:55:00Z
-    webUrl: "https://www.bizjournals.com/seattle/inno/stories/news/2022/09/12/google-waymo-self-driving-cars-bellevue.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
   - title: "Fully autonomous cars are still an impossible dream, experts say"
     excerpt: "It is widely hoped that autonomous vehicles will one day make our roads a much safer place, but it’s not as simple as that, experts say."
     publishedDateTime: 2022-09-16T04:30:00Z

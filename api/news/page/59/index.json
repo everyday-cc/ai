@@ -2,6 +2,645 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2022-07-29-iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology.md",
+      "title": "IIT Madras launches ‘Nilekani Centre at AI4Bharat’ to advance Indian language technology",
+      "excerpt": "AI4Bharat was set up as an initiative of IIT Madras to build open-source language AI for Indian languages ... including state of the art models for machine translation and speech recognition ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/news/education/iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology/article65693242.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/news/education/iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology/article65693242.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bl-i.thgim.com/public/incoming/ttgilo/article65692509.ece/alternates/LANDSCAPE_615/IMG_IMG_Indian_Institute_2_1_SBA1N307.jpg",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/news/education/iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology/article65693242.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/education/iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology/article65693242.ece/amp/",
+      "publishedDateTime": "2022-07-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-what-are-ontologies-and-how-are-they-creating-a-fairer-future-for-the-life-sciences.md",
+      "title": "What Are Ontologies and How Are They Creating a FAIRer Future for the Life Sciences?",
+      "excerpt": "In this article, Dr. Jane Lomax provides an overview of ontologies and describes how they can help to overcome big data challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/tn/articles/what-are-ontologies-and-how-are-they-creating-a-fairer-future-for-the-life-sciences-363371",
+      "originalUrl": "https://www.technologynetworks.com/tn/articles/what-are-ontologies-and-how-are-they-creating-a-fairer-future-for-the-life-sciences-363371",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/363371/what-are-ontologies-and-how-are-they-creating-a-fairer-future-for-the-life-sciences-363371-640x360.jpg?cb=20220801",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-build-your-own-remote-control-robot-and-car-for-50-off.md",
+      "title": "Build Your Own Remote Control Robot And Car For 50% Off",
+      "excerpt": "If you’re looking for a fun family project to round out summer vacation, consider picking up this gigantic Robot Building Kit. It’s designed for kids eight and up, although its 901-piece ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gamespot.com/articles/build-your-own-remote-control-robot-and-car-for-50-off/1100-6505936/",
+      "originalUrl": "https://www.gamespot.com/articles/build-your-own-remote-control-robot-and-car-for-50-off/1100-6505936/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/square_medium/1702/17023653/4012653-robot%281%29.jpg",
+          "width": 480,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/build-your-own-remote-control-robot-and-car-for-50-off/1100-6505936/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/build-your-own-remote-control-robot-and-car-for-50-off/1100-6505936/",
+      "publishedDateTime": "2022-07-28T15:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-how-ai-is-making-gen-z-the-most-financially-sophisticated-generation.md",
+      "title": "How AI is making Gen Z the most financially sophisticated generation",
+      "excerpt": "Artificial intelligence is helping an entire generation close the financial literacy gap. From large banks to fintech startups, the financial services industry is leveraging the power of Artificial Intelligence (AI) to attract and assist Gen Z customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/finance/banking/how-ai-is-helping-gen-z-manage-their-money/",
+      "originalUrl": "https://www.zdnet.com/finance/banking/how-ai-is-helping-gen-z-manage-their-money/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/25df3905c4451440013e7266c3c5e48ff30aaeda/2022/07/01/d65645b1-d2e8-40b8-83eb-81135e8299cd/gettyimages-1313131469.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/finance/banking/how-ai-is-helping-gen-z-manage-their-money/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/finance/banking/how-ai-is-helping-gen-z-manage-their-money/",
+      "publishedDateTime": "2022-07-28T15:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-nvidia-megatron-not-a-robot-in-disguise-but-a-large-language-model-thats-getting-faster.md",
+      "title": "Nvidia Megatron: Not a robot in disguise, but a large language model that’s getting faster",
+      "excerpt": "Nvidia's Megatron has been upgraded to help train LLMs more efficiently by reducing the amount of memory and compute required for training.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/applied-ai/nvidia-megatron-not-a-robot-in-disguise-but-a-large-language-model-thats-getting-faster/",
+      "originalUrl": "https://venturebeat.com/applied-ai/nvidia-megatron-not-a-robot-in-disguise-but-a-large-language-model-thats-getting-faster/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/10/language-brain-e1659012283418.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/business/nvidia-megatron-not-a-robot-in-disguise-but-a-large-language-model-thats-getting-faster/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/nvidia-megatron-not-a-robot-in-disguise-but-a-large-language-model-thats-getting-faster/amp/",
+      "publishedDateTime": "2022-07-28T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-deepmind-ai-lab-predicts-structure-of-most-proteins.md",
+      "title": "DeepMind AI Lab Predicts Structure of Most Proteins",
+      "excerpt": "D structures of 214 million molecules, in an advance expected to quicken drug discovery.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/deepmind-ai-lab-predicts-structure-of-most-proteins-11659048143",
+      "originalUrl": "https://www.wsj.com/articles/deepmind-ai-lab-predicts-structure-of-most-proteins-11659048143",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 324,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-593405/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/deepmind-ai-lab-predicts-structure-of-most-proteins-11659048143",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/deepmind-ai-lab-predicts-structure-of-most-proteins-11659048143",
+      "publishedDateTime": "2022-07-28T14:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-how-edge-data-is-training-ai-for-accurate-real-time-response.md",
+      "title": "How edge data is training AI for accurate, real-time response",
+      "excerpt": "Register now for your free virtual pass to Transform's AI & Edge Week, July 26-28. Hear from AI and data executives from Visa, Lowe's eBay, Credit Karma, Kaiser, Honeywell, Google, Nissan, Toyota, John Deere,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/28/how-edge-data-is-training-ai-for-accurate-real-time-response/",
+      "originalUrl": "https://venturebeat.com/2022/07/28/how-edge-data-is-training-ai-for-accurate-real-time-response/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1148108337.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/28/how-edge-data-is-training-ai-for-accurate-real-time-response/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/28/how-edge-data-is-training-ai-for-accurate-real-time-response/amp/",
+      "publishedDateTime": "2022-07-28T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-united-wholesale-mortgage-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
+      "title": "United Wholesale Mortgage Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!",
+      "excerpt": "United Wholesale Mortgage will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Pontiac will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-united-wholesale-mortgage-selected-as-host-site-artificial-/2022/07/28/9647169.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-united-wholesale-mortgage-selected-as-host-site-artificial-/2022/07/28/9647169.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-research-shows-artificial-intelligence-can-improve-stroke-diagnostics-expanding-access-to-lifesaving-stroke-care.md",
+      "title": "Research shows artificial intelligence can improve stroke diagnostics, expanding access to lifesaving stroke care",
+      "excerpt": "Citation: Research shows artificial intelligence can improve stroke diagnostics, expanding access to lifesaving stroke care (2022, July 28) retrieved 14 August 2022 from https://medicalxpress.com ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-07-artificial-intelligence-diagnostics-access-lifesaving.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-07-artificial-intelligence-diagnostics-access-lifesaving.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/1-stroke.jpg",
+          "width": 1920,
+          "height": 1354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-07-artificial-intelligence-diagnostics-access-lifesaving.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-artificial-intelligence-diagnostics-access-lifesaving.amp",
+      "publishedDateTime": "2022-07-28T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-wimi-hologram-academy-virtual-reality-based-remote-vehicle-driving-technology.md",
+      "title": "WIMI Hologram Academy: Virtual Reality-based Remote Vehicle Driving Technology",
+      "excerpt": "This article follows below: Driverless as well as artificial intelligence are the current research hotspots in the field of vehicles. Considering the cost of experiments, how to conduct unmanned ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/wimi-hologram-academy-virtual-reality-based-remote-vehicle-driving-technology/article_6f17fb76-11f4-5eff-a6bd-fe7b4123990e.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/wimi-hologram-academy-virtual-reality-based-remote-vehicle-driving-technology/article_6f17fb76-11f4-5eff-a6bd-fe7b4123990e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-specialized-brain-regions-recognize-vocal-cues-that-dont-involve-speech.md",
+      "title": "Specialized brain regions recognize vocal cues that don’t involve speech",
+      "excerpt": "Insights into the organization of the brain voice-recognition system will enable researchers to better understand neurological disorders where voice perception is altered or missing, such as schizophrenia or autism,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/959561",
+      "originalUrl": "https://www.eurekalert.org/news-releases/959561",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/74379d6e-29bc-4bab-85b3-7be3291c25a3/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 258,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T11:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-new-hardware-offers-faster-computation-for-artificial-intelligence-with-much-less-energy.md",
+      "title": "New hardware offers faster computation for artificial intelligence, with much less energy",
+      "excerpt": "As scientists push the boundaries of machine learning, the amount of time, energy, and money required to train increasingly complex neural network models is skyrocketing. A new area of artificial intelligence called analog deep learning promises faster computation with a fraction of the energy usage.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.html",
+      "originalUrl": "https://techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/new-hardware-offers-fa.jpg",
+          "width": 2480,
+          "height": 3507,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.amp",
+      "publishedDateTime": "2022-07-28T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-nemo-megatron-reinforces-nvidia-ai-leadership-in-large-language-models.md",
+      "title": "NeMo Megatron Reinforces NVIDIA AI Leadership In Large Language Models",
+      "excerpt": "Transformer-based large language models (LLMs) are reshaping the AI landscape today. Since OpenAI established the now generally accepted scaling laws of transformers with GPT-3 in 2020, AI companies have been exerting extreme effort to stay at the vanguard ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/07/28/nemo-megatron-reinforces-nvidia-ai-leadership-in-large-language-models/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/07/28/nemo-megatron-reinforces-nvidia-ai-leadership-in-large-language-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e2c812fa6527c5a904717f/0x0.png?format=png&width=1200",
+          "width": 638,
+          "height": 310,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/07/28/nemo-megatron-reinforces-nvidia-ai-leadership-in-large-language-models/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/07/28/nemo-megatron-reinforces-nvidia-ai-leadership-in-large-language-models/amp/",
+      "publishedDateTime": "2022-07-28T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-baidu-reveals-its-6th-gen-robotaxi-with-detachable-steering-wheel.md",
+      "title": "Baidu reveals its 6th-gen robotaxi, with detachable steering wheel",
+      "excerpt": "According to Baidu senior corporate vice president Zhenyu Li, who also serves as GM of the company's intelligent driving group, the RT6's autonomous driving capability is \"equivalent to a skilled ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/automotive/baidu-apollo-rt6/",
+      "originalUrl": "https://newatlas.com/automotive/baidu-apollo-rt6/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-29-seven-factors-to-consider-before-purchasing-a-machine-learning-tool-for-your-business.md",
       "title": "Seven Factors To Consider Before Purchasing A Machine Learning Tool For Your Business",
       "excerpt": "How Will It Empower The Sales Team?’ First, emphasize the point that machine learning does not replace sales reps; it simply gives them tools and data to maximize results.",
@@ -533,643 +1172,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-artpark-foundation-sets-up-100-mn-venture-fund-to-back-10-15-ai-robotics-startups.md",
-      "title": "ARTPARK Foundation Sets Up $100 Mn Venture Fund To Back 10-15 AI, Robotics Startups",
-      "excerpt": "ARTPARK will invest in 10-15 early and growth-stage AI and robotics startups over a period of three years from the VC fund",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/artpark-foundation-sets-up-100-mn-venture-fund-to-back-10-15-ai-robotics-startups/",
-      "originalUrl": "https://inc42.com/buzz/artpark-foundation-sets-up-100-mn-venture-fund-to-back-10-15-ai-robotics-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2022/07/Social-13.png",
-          "width": 1201,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/artpark-foundation-sets-up-100-mn-venture-fund-to-back-10-15-ai-robotics-startups/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/artpark-foundation-sets-up-100-mn-venture-fund-to-back-10-15-ai-robotics-startups/amp/",
-      "publishedDateTime": "2022-07-28T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-ai-for-customer-service-market-growth-2022-to-2028-future-trends-and-forecast-by-ibm-ant-group-chatra-clickdesk.md",
-      "title": "AI for Customer Service Market Growth 2022 to 2028, Future Trends and Forecast | By -IBM, Ant Group, Chatra, ClickDesk",
-      "excerpt": "The report also looks at AI for Customer Service players, important collaborations, mergers and acquisitions, trending innovations, and business policies. IBM, Ant Group, Chatra, ClickDesk ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-for-customer-service-market-growth-2022-to-2028-future-trends-and-forecast-by-ibm-ant-group-chatra-clickdesk",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-for-customer-service-market-growth-2022-to-2028-future-trends-and-forecast-by-ibm-ant-group-chatra-clickdesk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/778f53a99eda86447dc564a8a476d980f15706b8-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-28T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-deepmind-cracks-structure-of-nearly-all-known-proteins.md",
-      "title": "DeepMind cracks structure of nearly all known proteins",
-      "excerpt": "DeepMind, the artificial intelligence company, said it had used an AI system to predict the three-dimensional shape of over 200 million proteins — those from every creature, plant or microbe ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetimes.co.uk/article/deepmind-cracks-structure-of-nearly-all-known-proteins-lz2wfcn0q?shareToken=3f7f6f08fc51036d9cf4d1fb51086145",
-      "originalUrl": "https://www.thetimes.co.uk/article/deepmind-cracks-structure-of-nearly-all-known-proteins-lz2wfcn0q?shareToken=3f7f6f08fc51036d9cf4d1fb51086145",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-28T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology.md",
-      "title": "IIT Madras launches ‘Nilekani Centre at AI4Bharat’ to advance Indian language technology",
-      "excerpt": "AI4Bharat will further contribute to and accelerate the Indic language AI work as a public good and ... has helped develop models for Machine Translation and Speech Recognition, among other ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology-8907751.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology-8907751.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2022/07/Mr-Nandan-Nilekani-3rd-R-Prof-V-Kamakoti-L-Director-IIT-Madras-at-launch-of-‘Nilekani-Centre-at-AI4Bharat’-set-up-at-IIT-Madras-588x435.jpg",
-          "width": 588,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology-8907751.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology-8907751.html/amp",
-      "publishedDateTime": "2022-07-28T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-aws-reinforce-2022s-biggest-announcements.md",
-      "title": "AWS re:Inforce 2022's biggest announcements",
-      "excerpt": "The public cloud global market leader launched a slew of new security products and capabilities along with new partner program investments at AWS re:Inforce. Hundreds of cybersecurity experts ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com.au/news/aws-reinforce-2022s-biggest-announcements-583271",
-      "originalUrl": "https://www.crn.com.au/news/aws-reinforce-2022s-biggest-announcements-583271",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/News/20220728113211_0_0_0_0_70__News_20190409110209_CRN_14_AWS_stock.jpg",
-          "width": 690,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-28T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN Australia",
-        "domain": "crn.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehicles.md",
-      "title": "LG, SoundHound Team Up for Advanced AI Voice Control in Vehicles",
-      "excerpt": "SoundHound's voice recognition technology will be integrated with LG's in-vehicle infotainment (IVI) system, allowing drivers to control key functions using natural language commands. Just as you ...",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/cars-auto/141746/lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehicles",
-      "originalUrl": "https://uk.pcmag.com/cars-auto/141746/lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehicles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/l/lg-soundho/lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehic_8gdq.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-28T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-googles-ai-has-predicted-the-3d-structure-of-the-entire-protein-universe.md",
-      "title": "Google's AI Has Predicted the 3D Structure of the 'Entire Protein Universe'",
-      "excerpt": "After 22 years of grueling experimentation, John Kendrew of Cambridge University finally uncovered the 3D structure of a protein. It was a twisted blueprint of myoglobin, the stringy chain of 154 amino acids that helps infuse our muscles with oxygen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/science/biology/googles-ai-has-predicted-the-3d-structure-of-the-entire-protein-universe/",
-      "originalUrl": "https://www.cnet.com/science/biology/googles-ai-has-predicted-the-3d-structure-of-the-entire-protein-universe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/07fd24f6e895baa36441c82a2b640657f3f2cbd8/2022/07/28/8f1688f9-ef38-476c-b270-5967d88de874/gettyimages-154963443.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-ai-has-predicted-the-3d-structure-of-the-entire-protein-universe/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-ai-has-predicted-the-3d-structure-of-the-entire-protein-universe/",
-      "publishedDateTime": "2022-07-28T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-how-to-approach-ai-decisions-with-eyes-wide-open.md",
-      "title": "How To Approach AI Decisions With Eyes Wide Open",
-      "excerpt": "The fervor around AI is eerily similar to past technology adoption cycles (e.g., the web boom) and follows a predictable pattern. First, there's an exuberant rush by early adopter",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/28/how-to-approach-ai-decisions-with-eyes-wide-open/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/28/how-to-approach-ai-decisions-with-eyes-wide-open/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62e148d558bd5a2f407e7749/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/28/how-to-approach-ai-decisions-with-eyes-wide-open/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/28/how-to-approach-ai-decisions-with-eyes-wide-open/amp/",
-      "publishedDateTime": "2022-07-28T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-iron-mountain-insight-saas-platform-extends-capabilities-on-aws.md",
-      "title": "Iron Mountain InSight® SaaS Platform Extends Capabilities On AWS",
-      "excerpt": "Get 7 Days Free Sign In Sign In Topics",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20220728005349/iron-mountain-insight-saas-platform-extends-capabilities-on-aws",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20220728005349/iron-mountain-insight-saas-platform-extends-capabilities-on-aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-28T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward.md",
-      "title": "DeepMind uncovers structure of 200m proteins in scientific leap forward",
-      "excerpt": "Success of AlphaFold program could have huge impact on global problems such as famine and disease",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward?fs=e&s=cl",
-      "originalUrl": "https://www.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward?fs=e&s=cl",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/9be88a8fbd44edbd1d57a656afb9105b3d1199d2/0_0_2000_1200/master/2000.jpg?width=620&quality=85&auto=format&fit=max&s=dea65fbabb845a2d6a30c9a75eb19a20",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward",
-      "publishedDateTime": "2022-07-28T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-artificial-intelligence-to-reduce-waiting-list-for-neurology-appointments.md",
-      "title": "Artificial intelligence to reduce waiting list for neurology appointments",
-      "excerpt": "The Walton Centre NHS Trust is working with Tata Consultancy Services to apply digital technology to its operation, starting with a time-saving AI chatbot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252523260/Artificial-intelligence-to-reduce-waiting-list-for-neurology-appointments",
-      "originalUrl": "https://www.computerweekly.com/news/252523260/Artificial-intelligence-to-reduce-waiting-list-for-neurology-appointments",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computerweekly.com/visuals/German/article/chatbot-mobile-phone-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252523260/Artificial-intelligence-to-reduce-waiting-list-for-neurology-appointments?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252523260/Artificial-intelligence-to-reduce-waiting-list-for-neurology-appointments?amp=1",
-      "publishedDateTime": "2022-07-28T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-instagram-and-facebook-feeds-will-display-more-ai-recommended-posts-by-the-end-of-2023-mark-zuckerberg-says.md",
-      "title": "Instagram and Facebook feeds will display more AI-recommended posts by the end of 2023, Mark Zuckerberg says",
-      "excerpt": "Gone are the days when Facebook and Instagram feeds were only filled with the latest updates from friends, family, or favorite pages. These major social media platforms, both owned by Meta, have been showing content",
-      "sourceUrl": null,
-      "webUrl": "https://www.econotimes.com/Instagram-and-Facebook-feeds-will-display-more-AI-recommended-posts-by-the-end-of-2023-Mark-Zuckerberg-says-1638261",
-      "originalUrl": "https://www.econotimes.com/Instagram-and-Facebook-feeds-will-display-more-AI-recommended-posts-by-the-end-of-2023-Mark-Zuckerberg-says-1638261",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.econotimes.com/assets/uploads/2022072895aeb1c9894a72901_th_1024x0.jpg",
-          "width": 900,
-          "height": 505,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-28T01:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EconoTimes",
-        "domain": "econotimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-a-gold-rush-of-nlp-startups-is-about-to-arrive-heres-why.md",
-      "title": "A gold-rush of NLP startups is about to arrive — here’s why",
-      "excerpt": "Remember Natural Language Processing? NLP arose several years ago but it was only in 2018 that AI researchers proved it was possible to train a neural network once on a large amount of data and use it again and again for different tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/28/a-gold-rush-of-nlp-startups-is-about-to-arrive-heres-why/",
-      "originalUrl": "https://techcrunch.com/2022/07/28/a-gold-rush-of-nlp-startups-is-about-to-arrive-heres-why/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/Google-Duplex.jpeg?w=600",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/28/a-gold-rush-of-nlp-startups-is-about-to-arrive-heres-why/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/28/a-gold-rush-of-nlp-startups-is-about-to-arrive-heres-why/amp/",
-      "publishedDateTime": "2022-07-28T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-cognitive-analytics-market-analysis-with-key-players-applications-trends-and-forecast-2022-2031.md",
-      "title": "Cognitive Analytics Market Analysis with Key Players, Applications, Trends and Forecast 2022 – 2031",
-      "excerpt": "The Cognitive Analytics Market is ... Nuance Communications, Microsoft Corporation, Oracle Corporation, Amazon Web Services, Google LLC, Intel Corporation, and Narrative Science.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-analysis-with-key-players-applications-trends-and-forecast-2022-2031-2022-07-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-analysis-with-key-players-applications-trends-and-forecast-2022-2031-2022-07-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T23:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

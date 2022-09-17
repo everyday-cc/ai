@@ -2,6 +2,282 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-29-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-overview-scope-and-advancement-outlook-till-2028.md",
+      "title": "Artificial Intelligence and Robotics in Aerospace and Defense Market Overview, Scope and Advancement Outlook Till 2028",
+      "excerpt": "The Artificial Intelligence and Robotics in Aerospace and Defense market reports provide a detailed analysis of",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-overview-scope-and-advancement-outlook-till-2028-2022-08-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-overview-scope-and-advancement-outlook-till-2028-2022-08-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-28T23:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-robotic-catheterization-systems-market-is-set-to-experience-a-significant-growth-of-148-cagr-from-2022-to-2029.md",
+      "title": "Robotic Catheterization Systems Market is set to experience a significant growth of 14.8% CAGR from 2022 to 2029",
+      "excerpt": "Procedures where clinicians are given navigational and mechanical tools that permit definite actions or part of the procedure to be executed autonomously with a level of precession and control are possible only with robot-assisted catheterization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pharmiweb.com/press-release/2022-08-29/robotic-catheterization-systems-market-is-set-to-experience-a-significant-growth-of-148-cagr-from",
+      "originalUrl": "https://www.pharmiweb.com/press-release/2022-08-29/robotic-catheterization-systems-market-is-set-to-experience-a-significant-growth-of-148-cagr-from",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png",
+          "width": 1200,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-28T21:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PharmiWeb",
+        "domain": "pharmiweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-28-dive-into-robotics-with-84-off-this-six-axis-mini-robot-arm.md",
+      "title": "Dive into robotics with $84 off this six-axis mini robot arm",
+      "excerpt": "So as interest in the merger between automation and AI grows, you might want to consider introducing your children to robotics as a hobby. This smart robot arm by WLKATA could be a great first step, and it’s currently on sale for $1,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/wlkata-mirobot-deal-sale-145553119.html",
+      "originalUrl": "https://www.engadget.com/wlkata-mirobot-deal-sale-145553119.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-08/9a435b10-23bd-11ed-9dfe-6e340fa17b0f",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-28T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-28-startup-develops-ai-that-makes-call-center-employees-sound-like-white-american-robots.md",
+      "title": "Startup develops AI that makes call center employees sound like white, American robots",
+      "excerpt": "This time around, Palo Alto-based startup Sanas has introduced to the world an AI with the goal of making foreign call center employees sound accent-neutral, and the effect of making them sound white.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/ai-startup-makes-call-center-foreigners-sound-white",
+      "originalUrl": "https://mashable.com/article/ai-startup-makes-call-center-foreigners-sound-white",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/06flaA2qTkuYtTU1N3cKsg0/hero-image.fill.size_1200x675.v1661618885.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-27T23:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-27-mckee-medical-center-recognized-for-robotic-surgery-excellence.md",
+      "title": "McKee Medical Center recognized for robotic surgery excellence",
+      "excerpt": "The robotic approach offers the surgeon magnified, high-definition vision with the ability to control surgical instruments much like a human hand to see and access anatomy. This allows surgeons ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reporterherald.com/2022/08/27/mckee-recognized-for-robotic-surgery-excellence/",
+      "originalUrl": "https://www.reporterherald.com/2022/08/27/mckee-recognized-for-robotic-surgery-excellence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reporterherald.com/wp-content/uploads/2019/04/RH-backupimage-1000x563.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.reporterherald.com/2022/08/27/mckee-recognized-for-robotic-surgery-excellence/amp/",
+      "cdnAmpWebUrl": "https://www-reporterherald-com.cdn.ampproject.org/c/s/www.reporterherald.com/2022/08/27/mckee-recognized-for-robotic-surgery-excellence/amp/",
+      "publishedDateTime": "2022-08-27T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reporter-Herald",
+        "domain": "reporterherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-27-analytics-ai-and-robotics-help-mlb-teams-get-a-step-closer-to-a-perfect-pitching-machine.md",
+      "title": "Analytics, AI and robotics help MLB teams get a step closer to a perfect pitching machine",
+      "excerpt": "Advances in AI, stat tracking, advanced metrics and robotics could fit together nicely for a proper 21st-century twist on a pitching machine.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/27/analytics-ai-and-robotics-help-mlb-teams-get-a-step-closer-to-a-perfect-pitching-machine/",
+      "originalUrl": "https://techcrunch.com/2022/08/27/analytics-ai-and-robotics-help-mlb-teams-get-a-step-closer-to-a-perfect-pitching-machine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/08/2527842396.2022-08-26-16_13_02.gif",
+          "width": 800,
+          "height": 494,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/27/analytics-ai-and-robotics-help-mlb-teams-get-a-step-closer-to-a-perfect-pitching-machine/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/27/analytics-ai-and-robotics-help-mlb-teams-get-a-step-closer-to-a-perfect-pitching-machine/amp/",
+      "publishedDateTime": "2022-08-27T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-08-27-warren-buffett-bullish-on-driverless-trucks-after-purchasing-stake-in-kodiak-robotics.md",
       "title": "Warren Buffett bullish on driverless trucks after purchasing stake in Kodiak Robotics",
       "excerpt": "This investment is a significant validation by Berkshire Hathaway, through Pilot, that driverless trucks are on the cusp of being a reality. It may be hard and even scary to imagine an 18-wheeler ...",
@@ -1042,282 +1318,6 @@
         "name": "Cameroon",
         "domain": "cameroon-tribune.cm",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-ai-robots-power-hungry-or-empowering.md",
-      "title": "AI Robots: Power Hungry Or Empowering?",
-      "excerpt": "IT leaders in consumer-facing organizations who have not yet made the plunge into AI but wish to remain competitive are scrambling to figure out how to incorporate AI technology into their contact centers and customer engagement hubs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/ai-robots-power-hungry-or-empowering/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/ai-robots-power-hungry-or-empowering/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61f030570018a072dc46d1ec/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/ai-robots-power-hungry-or-empowering/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/23/ai-robots-power-hungry-or-empowering/amp/",
-      "publishedDateTime": "2022-08-23T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans.md",
-      "title": "Google Gave Its Helper Robots AI Language Skills to Better Work With Humans",
-      "excerpt": "it could be one way to start grounding AI’s language skills in the real world. So whether or not this line of research ever leads to robotic butlers becoming a reality, it seems likely to push the fields of both robotics and AI towards new and powerful ...",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/?amp=1",
-      "originalUrl": "https://singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/?amp=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2022/08/Google-everyday-robots.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/?amp=1",
-      "publishedDateTime": "2022-08-22T20:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-robots-could-help-reduce-chemical-use-in-farming.md",
-      "title": "Robots could help reduce chemical use in farming",
-      "excerpt": "A robotics manufacturer is looking at the possibility of developing machines that will remove weeds and tend farmland without the need for so many chemicals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wcpo.com/news/national/robots-could-help-reduce-chemical-use-in-farming",
-      "originalUrl": "https://www.wcpo.com/news/national/robots-could-help-reduce-chemical-use-in-farming",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/cb84d0e/2147483647/strip/true/crop/3666x2062+61+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F07%2F00%2Fe618017b4f60acd3ac6f7b3020e4%2Fscreen-shot-2022-08-22-at-10.50.57%20PM.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wcpo.com/news/national/robots-could-help-reduce-chemical-use-in-farming?_amp=true",
-      "cdnAmpWebUrl": "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/robots-could-help-reduce-chemical-use-in-farming?_amp=true",
-      "publishedDateTime": "2022-08-22T18:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WCPO Cincinnati",
-        "domain": "wcpo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-bci-brain-controlled-robot-market-report-in-depth-market-analysis-and-forecast-2022-to-2028-of-market-insights.md",
-      "title": "BCI Brain-controlled Robot Market Report, In-Depth Market Analysis and FORECAST 2022 To 2028 of market insights.",
-      "excerpt": "In this research report, \"2022 to 2028,\" the current situation and potential future developments of the \"BCI Brain-controlled Robot Market\" are presented. The research offers a thorough ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/bci-brain-controlled-robot-market-report-in-depth-market-analysis-and-forecast-2022-to-2028-of-market-insights-2022-08-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/bci-brain-controlled-robot-market-report-in-depth-market-analysis-and-forecast-2022-to-2028-of-market-insights-2022-08-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-local-startup-tests-delivery-robot-in-msheireb.md",
-      "title": "Local startup tests delivery robot in Msheireb",
-      "excerpt": "A local startup Pass ... This robot weighs about 50 kg and has a length of 1 m and a width of 45 cm. With advanced machine learning and artificial intelligence technology, the device is more ...",
-      "sourceUrl": null,
-      "webUrl": "https://thepeninsulaqatar.com/article/22/08/2022/local-startup-tests-delivery-robot-in-msheireb",
-      "originalUrl": "https://thepeninsulaqatar.com/article/22/08/2022/local-startup-tests-delivery-robot-in-msheireb",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-22T13:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Peninsula",
-        "domain": "thepeninsulaqatar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-this-cute-home-robot-is-like-a-disney-character-come-to-life.md",
-      "title": "This Cute Home Robot Is Like A Disney Character Come To Life",
-      "excerpt": "Over the past few years, we've seen a number of robots with artificial intelligence designed for kids introduced, including everything from a robotic unicorn to a robot that helps kids avoid road ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/975458/this-cute-home-robot-is-like-a-disney-character-come-to-life/",
-      "originalUrl": "https://www.slashgear.com/975458/this-cute-home-robot-is-like-a-disney-character-come-to-life/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/this-cute-home-robot-is-like-a-disney-character-come-to-life/l-intro-1661196877.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-22T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

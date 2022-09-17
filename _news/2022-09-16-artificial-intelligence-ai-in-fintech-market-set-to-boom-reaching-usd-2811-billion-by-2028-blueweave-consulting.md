@@ -19,17 +19,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "AI Market Size to Reach USD 1394.30 Billion by 2029"
-    excerpt: "The global AI market size is projected to grow from USD 387.45 billion in 2022 to USD 1394.30 billion in 2029 at a CAGR of 20.1% in the forecast period. Growing"
-    publishedDateTime: 2022-09-13T10:12:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28843325/ai-market-size-to-reach-usd-1394-30-billion-by-2029"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28843325"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28843325"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
   - title: "USD 23.61 Bn growth opportunity in Mobile Artificial Intelligence (AI) Market -- Driven by increasing smartphone penetration"
     excerpt: "The global mobile artificial intelligence market size is expected to grow by USD 23.61 billion between 2021 and 2026, accelerating at a CAGR of 29.06% during the forecast period. The report considers various aspects such as the consumer base,"
     publishedDateTime: 2022-09-14T19:39:00Z
@@ -44,52 +33,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Artificial Intelligence (AI) In Education Market Size Is Expected To Hit $80 Billion By 2030 - Financial News Media"
-    excerpt: "( MENAFN - Financial News Media) data-id='165ecfe1' data-element_type='widget' data-widget_type='theme-post-content.default'> Palm Beach, FL – September 15, 2022 – FinancialNewsMedia.com News Commentary – Artificial Intelligence (AI) is crossing over to new markets and brings additional revenues along with it."
-    publishedDateTime: 2022-09-15T18:35:00Z
-    webUrl: "https://menafn.com/1104872865/Artificial-Intelligence-AI-In-Education-Market-Size-Is-Expected-To-Hit-80-Billion-By-2030-Financial-News-Media"
-    type: article
-    provider:
-      name: MENAFN
-      domain: menafn.com
-    quality: 27
-  - title: "Legal Software With Machine Learning Global Market To Reach $630 Million By 2026 With A CAGR Of 13.2%'"
-    excerpt: "The global legal software market is expected to grow from $0.33 billion in 2021 to $0.39 billion in 2022 at a compound annual growth rate (CAGR) of 16.6%. The change in growth trend is mainly due to the companies stabilizing their output after catering to the demand that grew exponentially during the COVID-19 pandemic in 2021."
-    publishedDateTime: 2022-09-12T17:36:00Z
-    webUrl: "https://menafn.com/1104850854/Legal-Software-With-Machine-Learning-Global-Market-To-Reach-630-Million-By-2026-With-A-CAGR-Of-132"
-    type: article
-    provider:
-      name: MENAFN
-      domain: menafn.com
-    quality: 23
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?96728"
-        width: 444
-        height: 250
-        isCached: true
-  - title: "Microbiome Global Market Report 2022: Use Of Artificial Intelligence And Machine Learning Crucial For Future Growth - ResearchAndMarkets.com"
-    excerpt: "The global microbiome market reached a value of nearly $340.8 million in 2021, having increased at a compound annual growth rate (CAGR) of 14.8% since 2017. The market is expected to grow from $340.8 million in 2021 to $945."
-    publishedDateTime: 2022-09-13T11:41:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-4f08b67c667642e0a659bd866783a6bf"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 21
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "The Worldwide Artificial Intelligence Robots Industry is Expected to Reach $38.4 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "The \"Artificial Intelligence Robots Market Research Report by Offering (Hardware and Software), Robot Type, Technology, Deployment Mode, Application, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2022-09-13T11:06:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-13-the-worldwide-artificial-intelligence-robots-industry-is-expected-to-reach-384-billion-by-2027-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 9
   - title: "Asia-Pacific Digital Payments Market Set to More than Triple Its Size Crossing USD 67 Billion by 2028 | BlueWeave Consulting"
     excerpt: "Asia-Pacific (APAC) digital payments market is booming owing to convenience of transactions, widespread usage of smartphones, and the financial inclusion opportunities"
     publishedDateTime: 2022-09-14T15:00:00Z
@@ -101,20 +44,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 0
-  - title: "Automotive Voice Recognition Market To Reach US$ 2,413.9 Mn By 2031 From US$ 936.4 Mn In 2022, At A CAGR Of 13.2% During The Forecast Period"
-    excerpt: "The Automotive Voice Recognition Market to reach US$ 2,413.9 Mn by 2031 from US$ 936.4 Mn in 2022, at a CAGR of 13.2% during the forecast period. Kenneth Research recently added a report on Automotive Voice Recognition Market which provides a detailed insight into the market scenario on the basis of the market size,"
-    publishedDateTime: 2022-09-14T06:48:00Z
-    webUrl: "https://menafn.com/1104861293/Automotive-Voice-Recognition-Market-To-Reach-US-24139-Mn-By-2031-From-US-9364-Mn-In-2022-At-A-CAGR-Of-132-During-The-Forecast-Period"
-    type: article
-    provider:
-      name: MENAFN
-      domain: menafn.com
-    quality: 0
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?706507"
-        width: 375
-        height: 250
-        isCached: true
 
 secured: "1oQBB18QXPnpSKGrcimXgV4lL2u2UOQLtZ/m2K2ACnc0y2Aglm+TUnH7H+k6wU8yCUnhkwoyff0Hgn4942FasWACoVRyEfCRzqeMFIrEZcJpDZGhc4wK6JPuwNc5ehLR65La+O9UJYMT6kneSZpMOr8pBm54KVgGlXofwqqZt6WCom1MPEBtnvwoPQ32aXiAVefkNGOdwn8L2hW0lgnn/h+a6TnfsRu2Lm2xGt6i7gB/B6/wYcwVt9S30NknfIDhV0ITWlDCKNzmz6DlFFIyeClgPlF60EaBbIJxHcrLFC/nM622Ajs5riLPihQLtfd4oDx4rxtzDmmQ4uwca8BBFUnVFi/sR1eBoXceHnFa5Pc=;VaZkJVRlpYfh+tW5sPdawA=="
 ---

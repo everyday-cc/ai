@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2022/09/14/fed-not-backing-down-on-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/09/14/fed-not-backing-down-on-monetary-policy-and-investors-react-to-apple-releases-forbes-ai-newsletterseptember-10th/amp/"
 type: article
 quality: 64
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Forbes
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "3 Tech Stocks That Are Screaming Buys in September"
+    excerpt: "But with so many stocks down big, there's bound to be some great deals, especially given the innovation happening around artificial intelligence, 5G, electric vehicles, robotics, and other game-changing applications."
+    publishedDateTime: 2022-09-14T11:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-tech-stocks-that-are-screaming-buys-in-september"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
 
 secured: "z3g3k4Vdl36YmlAqjBEHu0wHMT1qOFvj3eFSpb9FzI58gouC94Ts5HgSykxFqWFhu2XKOvxTMdpjt08WaCRuoTE1WBDRWo/gNNrycCl84jDo5Dt4Ier1SVFjryfPOGqW+S9zZ3OlHwsLF0HWjsy+JC8WJQwQqoL4Vx3pEmkD5GepReGp6ZjSLvz5PrxIn25dx+rmynY9eifwNAeHOs9TJFhJOBlUDwy3ba4gcvsL9aP+9xLb3GwiqEDu27Uq5vmfY5mj629zu3VgVNn0hOVtxEkrFeH8yf8jT+6QxpQcF/OSrki0na2vKruqkWAh4CbyDuPCPMX8y19IkCKN48t5OCUPlmXxfsoWsDOhViaG083Lq8O/7KVCviuV56nhEnHLEsYgFVRFIixqNcfrMU11CA/HfbnedBaz9DlqdXC7pSBeLlEKp7vX17wa5rSZu7Nk1IfhDAQ6Fk3FKwS/nn7PAMhBX2frufuw7PP5xc5LL89bWZ+7D5C0eYOUUGfe9SWap6M2UIdelbVB66iUqI1VuA==;m53F/NXHXZO/Us6CXgjSXg=="
 ---

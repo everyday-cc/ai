@@ -2,6 +2,111 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-15-tomahawk-robotics-awarded-65m-contract-with-united-states-marine-corps.md",
+      "title": "Tomahawk Robotics Awarded $6.5M Contract with United States Marine Corps",
+      "excerpt": "Tomahawk Robotics is thrilled to announce the award of the Autonomy and Robotics Enhanced Multi-Domain Infantry Squad (ARTEMIS) program through the Marine Corps Warfighting Laboratory (MCWL). The $6.5M award spans activities and deliveries scheduled from 2022 through 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-awarded-6-5m-contract-with-united-states-marine-corps-1031746080",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-awarded-6-5m-contract-with-united-states-marine-corps-1031746080",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1899890/Tomahawk_Robotics_Raid_Plate_System.jpg",
+          "width": 300,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-ai-act-what-does-general-purpose-ai-gpai-even-mean.md",
+      "title": "AI Act: What does general purpose AI (GPAI) even mean?",
+      "excerpt": "In a discussion about the EU's AI Act this week, panelists discussed the difficulty of defining GPAI and other new AI technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-act-what-does-general-purpose-ai-gpai-even-mean/",
+      "originalUrl": "https://venturebeat.com/ai/ai-act-what-does-general-purpose-ai-gpai-even-mean/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/eu-elections-parliament-e1663194279910.jpg?fit=800%2C496&strip=all",
+          "width": 800,
+          "height": 496,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-act-what-does-general-purpose-ai-gpai-even-mean/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-act-what-does-general-purpose-ai-gpai-even-mean/amp/",
+      "publishedDateTime": "2022-09-15T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-15-get-global-exposure-to-japans-robotics-industry-with-this-etf.md",
       "title": "Get Global Exposure to Japan’s Robotics Industry With This ETF",
       "excerpt": "There's no doubt that robotics is going to experience unprecedented growth over the next decade as the world becomes more automated, but certain countries have been leading the charge towards that shift,",
@@ -44,7 +149,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-from-2022-to-2028-and-key-findings-and-segments-by-end-use-industry-2022-09-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 103,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -588,50 +693,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-14-researchers-develop-a-new-way-to-see-how-people-feel-about-artificial-intelligence.md",
-      "title": "Researchers develop a new way to see how people feel about artificial intelligence",
-      "excerpt": "People in Japan, the U.S. and Germany show different concerns regarding artificial intelligence (AI) being used in entertainment, shopping services, or to help find criminals, reports a new study in AI and Ethics.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-09-people-artificial-intelligence.html",
-      "originalUrl": "https://techxplore.com/news/2022-09-people-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/researchers-develop-a-15.jpg",
-          "width": 1100,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-09-people-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-people-artificial-intelligence.amp",
-      "publishedDateTime": "2022-09-14T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2022-09-14-weight-loss-and-ai-how-this-startup-is-accelerating-glucose-monitoring-for-all.md",
       "title": "Weight Loss And AI: How This Startup Is Accelerating Glucose Monitoring For All",
       "excerpt": "Having access to the proper tools that support a healthier life is fundamental for overall well-being. Signos is aiming to tackle the obesity epidemic by offering a new way for people to act on their body’s unique response to what and when they eat to lose weight and kickstart a healthier life.",
@@ -771,6 +832,57 @@
         "Natural Language Processing",
         "AI Ethics",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-fed-not-backing-down-on-monetary-policy-and-investors-react-to-apple-releases-forbes-ai-newsletter-september-10th.md",
+      "title": "Fed Not Backing Down On Monetary Policy And Investors React To Apple Releases: Forbes AI Newsletter - September 10th",
+      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/09/14/fed-not-backing-down-on-monetary-policy-and-investors-react-to-apple-releases-forbes-ai-newsletterseptember-10th/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/09/14/fed-not-backing-down-on-monetary-policy-and-investors-react-to-apple-releases-forbes-ai-newsletterseptember-10th/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6320d869420ca819c8fe585c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/09/14/fed-not-backing-down-on-monetary-policy-and-investors-react-to-apple-releases-forbes-ai-newsletterseptember-10th/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/09/14/fed-not-backing-down-on-monetary-policy-and-investors-react-to-apple-releases-forbes-ai-newsletterseptember-10th/amp/",
+      "publishedDateTime": "2022-09-14T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1126,111 +1238,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-upset-by-high-prices-gms-cruise-develops-its-own-chips-for-self-driving-cars.md",
-      "title": "Upset by high prices, GM's Cruise develops its own chips for self-driving cars",
-      "excerpt": "A handout image shows a plate of Dune chips by General Motors' self driving vehicle unit Cruise, in San Francisco, California, U.S.. Courtesy of Cruise/Handout via REUTERS",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/news/picture/upset-by-high-prices-gms-cruise-develops-idUSKBN2QF014",
-      "originalUrl": "https://www.reuters.com/news/picture/upset-by-high-prices-gms-cruise-develops-idUSKBN2QF014",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20220914&t=2&i=1608778625&w=&fh=810&fw=545&ll=&pl=&sq=&r=LYNXMPEI8D029",
-          "width": 545,
-          "height": 726,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T14:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-a-terrifying-ai-generated-woman-is-lurking-in-the-abyss-of-latent-space.md",
-      "title": "A terrifying AI-generated woman is lurking in the abyss of latent space",
-      "excerpt": "There’s a ghost in the machine. Machine learning, that is. We are all regularly amazed by AI’s capabilities in writing and creation, but who knew it had such a capacity for instilling horror? A chilling discovery by an AI researcher finds that the “latent space” comprising a deep learning model’s memory is haunted by least",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/13/loab-ai-generated-horror/",
-      "originalUrl": "https://techcrunch.com/2022/09/13/loab-ai-generated-horror/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/09/loab-header.jpg?resize=1200,625",
-          "width": 1200,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/13/loab-ai-generated-horror/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/13/loab-ai-generated-horror/amp/",
-      "publishedDateTime": "2022-09-13T14:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -2,6 +2,285 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-08-02-man-who-threw-away-150m-in-bitcoin-hopes-ai-and-robot-dogs-will-get-it-back.md",
+      "title": "Man who threw away £150m in bitcoin hopes AI and robot dogs will get it back",
+      "excerpt": "Computer engineer who accidentally discarded hard drive consults Newport council over scheme",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill?mc_cid=a2f6383de2&mc_eid=d105d8fee6",
+      "originalUrl": "https://www.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill?mc_cid=a2f6383de2&mc_eid=d105d8fee6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/fcb98f8e17e8a355edc88e718c0ee6cdaa4fdba4/805_867_4955_2973/master/4955.jpg?width=620&quality=85&auto=format&fit=max&s=e2c6e1f3e82e4a82184ee2c3a2bad4fe",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill",
+      "publishedDateTime": "2022-08-02T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-bitalpha-ai-review-trending-trading-robot.md",
+      "title": "BitAlpha AI Review – Trending Trading Robot",
+      "excerpt": "Users should be aware that all trading involves risk and start with a minimum ... The BitAlpha AI platform supports more payment methods than most trading robots, including bank transfers ...",
+      "sourceUrl": null,
+      "webUrl": "https://augustafreepress.com/cryptocurrency/bitalpha-ai-review/",
+      "originalUrl": "https://augustafreepress.com/cryptocurrency/bitalpha-ai-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://augustafreepress.com/wp-content/uploads/2022/08/bitalpha-ai-bot.png",
+          "width": 523,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T04:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Augusta Free Press",
+        "domain": "augustafreepress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-itri-hosts-2022-international-workshop-on-trustworthy-ai-to-discuss-trust-and-ethics-in-ai.md",
+      "title": "ITRI Hosts 2022 International Workshop on Trustworthy AI to Discuss Trust and Ethics in AI",
+      "excerpt": "With the support of the Industrial Development Bureau (IDB) under the Minister of Economic Affairs, ITRI held the 2022 International Workshop on Trustworthy AI online on August 2. Over 400 experts gathered at the first-ever conference in Taiwan on this theme to discuss topics such as AI risk management and trustworthy AI systems.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/itri-hosts-2022-international-workshop-on-trustworthy-ai-to-discuss-trust-and-ethics-in-ai-1031638723",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/itri-hosts-2022-international-workshop-on-trustworthy-ai-to-discuss-trust-and-ethics-in-ai-1031638723",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1870688/Photo_1.jpg",
+          "width": 400,
+          "height": 266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T01:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-android-controlled-robot-extravaganza.md",
+      "title": "Android Controlled Robot Extravaganza",
+      "excerpt": "the tip line has been awash in robot/Android mashups. Here’s a few of the cool ones. Using an Android as a remote control [Stef] used a Samsung Galaxy S3 to control an old rc tank. The Android ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2012/08/04/android-controlled-robot-extravaganza/",
+      "originalUrl": "https://hackaday.com/2012/08/04/android-controlled-robot-extravaganza/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2012/08/robot-side-view1.jpg",
+          "width": 4265,
+          "height": 2833,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-diagnostic-robotics-raises-45m-series-b.md",
+      "title": "Diagnostic Robotics raises $45M Series B",
+      "excerpt": "Israel-based Diagnostic Robotics announced recently that it has closed a $45 million Series B financing round.",
+      "sourceUrl": null,
+      "webUrl": "https://www.massdevice.com/diagnostic-robotics-raises-45m-series-b/",
+      "originalUrl": "https://www.massdevice.com/diagnostic-robotics-raises-45m-series-b/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.massdevice.com/wp-content/uploads/2022/08/Diagnostic-Robotics-Logo.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MassDevice",
+        "domain": "massdevice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-ann-arbors-new-samurai-sorting-robot-is-a-plastics-recycling-game-changer.md",
+      "title": "Ann Arbor’s new ‘SamurAI sorting robot’ is a plastics recycling game-changer",
+      "excerpt": "Michigan is now one of the nation’s three best states for recycling plastics, according to a recent <a href=\" Voter study.",
+      "sourceUrl": null,
+      "webUrl": "https://www.clickondetroit.com/sponsored/2022/08/01/ann-arbors-new-samurai-sorting-robot-is-a-plastics-recycling-game-changer/",
+      "originalUrl": "https://www.clickondetroit.com/sponsored/2022/08/01/ann-arbors-new-samurai-sorting-robot-is-a-plastics-recycling-game-changer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/DYROQW7ZBBCEFAMS4ASYQDGH2Q.jpg?_a=ATAK9d60",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.clickondetroit.com/sponsored/2022/08/01/ann-arbors-new-samurai-sorting-robot-is-a-plastics-recycling-game-changer/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/sponsored/2022/08/01/ann-arbors-new-samurai-sorting-robot-is-a-plastics-recycling-game-changer/?outputType=amp",
+      "publishedDateTime": "2022-08-01T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "clickondetroit.com",
+        "domain": "clickondetroit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-01-robots-help-farmers-say-goodbye-to-repetitive-tasks.md",
       "title": "Robots help farmers say goodbye to repetitive tasks",
       "excerpt": "We do not often think about the labor that goes into bringing our favorite fruits and vegetables to our table. For farmers, growing healthy crops involves repetitive tasks such as weeding and spraying while the crop is growing.",
@@ -1058,273 +1337,6 @@
       "provider": {
         "name": "Phys.org",
         "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-learning-method-enables-robots-to-learn-by-watching-humans.md",
-      "title": "Learning Method Enables Robots to Learn by Watching Humans",
-      "excerpt": "A new learning method developed by researchers at Carnegie Mellon University (CMU) enables robots to directly learn from human-interaction videos and generalize the information to new tasks, which helps them learn how to carry out household chores.",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/learning-method-enables-robots-to-learn-by-watching-humans/",
-      "originalUrl": "https://www.unite.ai/learning-method-enables-robots-to-learn-by-watching-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:900/h:543/q:mauto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/07/whirl-web.jpg",
-          "width": 900,
-          "height": 543,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-26T11:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-robot-that-learns-social-cues-could-feed-people-with-tetraplegia.md",
-      "title": "Robot that learns social cues could feed people with tetraplegia",
-      "excerpt": "People who can’t control their legs or arms can use commercial robotic arms to help them eat ... in an aquarium turns out to be new species 5 mind-bending numbers that could reveal the secrets ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2330657-robot-that-learns-social-cues-could-feed-people-with-tetraplegia/",
-      "originalUrl": "https://www.newscientist.com/article/2330657-robot-that-learns-social-cues-could-feed-people-with-tetraplegia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2022/07/26092150/SEI_115549989.jpg",
-          "width": 769,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-26T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament.md",
-      "title": "AI with a vengeance: Chess-playing robot breaks 7-year-old's finger at Moscow tournament",
-      "excerpt": "MOSCOW: A chess-playing robot grabbed the finger of its 7-year-old opponent and broke it during last week's Moscow Chess Open tournament, Russian media reported Monday. \"The robot broke the child's finger,",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/articleshow/93126300.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/articleshow/93126300.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-30928,msid-93126309/chess-playing-robot-breaks-opponent-boys-finger-at-moscow-open-.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/amp_articleshow/93126300.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/amp_articleshow/93126300.cms",
-      "publishedDateTime": "2022-07-25T21:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-ai-experts-establish-the-north-star-for-domestic-robotics-field.md",
-      "title": "AI experts establish the “North Star” for domestic robotics field",
-      "excerpt": "Stanford researchers have released BEHAVIOR, a catalog of the details of 100 everyday household tasks to help guide embodied AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/25/ai-experts-establish-the-north-star-for-domestic-robotics-field/",
-      "originalUrl": "https://venturebeat.com/2022/07/25/ai-experts-establish-the-north-star-for-domestic-robotics-field/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1329808534-metamorworks.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/25/ai-experts-establish-the-north-star-for-domestic-robotics-field/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/25/ai-experts-establish-the-north-star-for-domestic-robotics-field/amp/",
-      "publishedDateTime": "2022-07-25T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-using-ai-to-train-teams-of-robots-to-work-together.md",
-      "title": "Using AI to train teams of robots to work together",
-      "excerpt": "Researchers have developed a method to train multiple agents such as robots or drones to work together using multi-agent reinforcement learning, a type of artificial intelligence. When communication lines are open, individual agents such as robots or ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/07/220725124120.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/07/220725124120.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-25T12:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-fighting-fires-with-wires-how-drones-robots-and-artificial-intelligence-are-helping-emergency-services-tackle-wildfires-around-the-world-.md",
-      "title": "Fighting fires with wires: How drones, robots and artificial intelligence are helping emergency services tackle wildfires around the world - as blazes continue to break out ...",
-      "excerpt": "Some companies are developing artificial intelligence (AI ... Along with drones, remote control robots are being deployed into burning wildlands to tackle the blaze from the ground.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-11045543/How-drones-robots-artificial-intelligence-helping-emergency-services-tackle-wildfires.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-11045543/How-drones-robots-artificial-intelligence-helping-emergency-services-tackle-wildfires.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/07/25/15/60670599-0-image-a-68_1658760465219.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-11045543/amp/How-drones-robots-artificial-intelligence-helping-emergency-services-tackle-wildfires.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11045543/amp/How-drones-robots-artificial-intelligence-helping-emergency-services-tackle-wildfires.html",
-      "publishedDateTime": "2022-07-25T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

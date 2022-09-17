@@ -2,6 +2,283 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-06-15-meet-misty-ii-the-robot-as-a-platform-not-a-tool.md",
+      "title": "Meet Misty II: The Robot As a Platform, Not a Tool",
+      "excerpt": "At its core, Misty II is driven by a deep learning processor capable of a variety of machine learning tasks, such as facial and object recognition, distance detection, spatial mapping, and sound and touch sensing. Developers can also 3D print (or even ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/meet-misty-ii-robot-platform-not-tool",
+      "originalUrl": "https://www.designnews.com/electronics-test/meet-misty-ii-robot-platform-not-tool",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-transformer-robot-can-travel-through-human-body-to-fight-disease.md",
+      "title": "‘Transformer’ robot can travel through human body to fight disease",
+      "excerpt": "Scientists have created a Transformers-style robot inspired by the Japanese paper-folding art of origami. The shape-shifting device is controlled by magnets and can crawl, spin and swim into ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2022/06/14/transformer-robot-travels-through-body-to-fight-disease/",
+      "originalUrl": "https://nypost.com/2022/06/14/transformer-robot-travels-through-body-to-fight-disease/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/06/TRANSFORMER-ROBOT2.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2022/06/14/transformer-robot-travels-through-body-to-fight-disease/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/06/14/transformer-robot-travels-through-body-to-fight-disease/amp/",
+      "publishedDateTime": "2022-06-14T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-dcvc-playground-global-and-foundersx-ventures-will-discuss-automation-investments-at-tc-sessions-robotics.md",
+      "title": "DCVC, Playground Global and FoundersX Ventures will discuss automation investments at TC Sessions: Robotics",
+      "excerpt": "At DCVC, she led investments such as Agility Robotics, Brimstone, Fulfil.ai, SafelyYou and SmarTex. Bruce Leak is a founding partner at Playground Global. An early fascination with computers and ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/14/dcvc-playground-global-and-foundersx-ventures-will-discuss-automation-investments-at-tc-sessions-robotics/",
+      "originalUrl": "https://techcrunch.com/2022/06/14/dcvc-playground-global-and-foundersx-ventures-will-discuss-automation-investments-at-tc-sessions-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Robotics22_Chen_Leak_Liang.jpg?w=1024",
+          "width": 1024,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/14/dcvc-playground-global-and-foundersx-ventures-will-discuss-automation-investments-at-tc-sessions-robotics/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/14/dcvc-playground-global-and-foundersx-ventures-will-discuss-automation-investments-at-tc-sessions-robotics/amp/",
+      "publishedDateTime": "2022-06-14T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-five-of-the-worlds-tiniest-robots.md",
+      "title": "Five of the world’s tiniest robots",
+      "excerpt": "Robots a fraction of a millimetre small could swim around your eye or bloodstream for medical treatments in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/five-of-the-worlds-tiniest-robots-184790",
+      "originalUrl": "https://theconversation.com/five-of-the-worlds-tiniest-robots-184790",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/468754/original/file-20220614-12-4k2fet.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
+          "width": 320,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/five-of-the-worlds-tiniest-robots-184790",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/five-of-the-worlds-tiniest-robots-184790",
+      "publishedDateTime": "2022-06-14T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-introducing-ziggy-an-autonomous-robot-that-saves-you-a-parking-spot-then-charges-your-ev.md",
+      "title": "Introducing ZiGGY: An autonomous robot that saves you a parking spot then charges your EV",
+      "excerpt": "Charging technology provider EV Safe Charge has unveiled ZiGGY – a mobile robot that can charge an EV wherever it’s parked. Through its ability to recharge itself via different energy sources and its summoning feature,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/06/14/ziggy-autonomous-robot-charges-ev/",
+      "originalUrl": "https://electrek.co/2022/06/14/ziggy-autonomous-robot-charges-ev/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/06/robot-charge-EV.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/06/14/ziggy-autonomous-robot-charges-ev/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/06/14/ziggy-autonomous-robot-charges-ev/amp/",
+      "publishedDateTime": "2022-06-14T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-former-amazon-robotics-vp-brad-porter-goes-collaborative.md",
+      "title": "Former Amazon Robotics VP Brad Porter goes Collaborative",
+      "excerpt": "Collaborative Robotics aims to build a six-degree-of-freedom robotic art that’s collaborative, works with humans and can meet a wide variety of use cases.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/14/former-amazon-robotics-vp-brad-porter-goes-collaborative/",
+      "originalUrl": "https://techcrunch.com/2022/06/14/former-amazon-robotics-vp-brad-porter-goes-collaborative/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1273582733.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/14/former-amazon-robotics-vp-brad-porter-goes-collaborative/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/14/former-amazon-robotics-vp-brad-porter-goes-collaborative/amp/",
+      "publishedDateTime": "2022-06-14T00:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-largest-order-for-ai-robotics-leader-in-its-short-amazing-history-artificial-intelligence-tech-stock-symbol-aitx.md",
       "title": "Largest Order For AI Robotics Leader In Its Short Amazing History: Artificial Intelligence Tech: Stock Symbol: AITX",
       "excerpt": "AITX SCOT. AITX AVA. AITX Collage. AITX Showcase. AITX ROAMEO. Largest Order for AI Robotics Leader in its Short Amazing History thus far; $AITX Receives a",
@@ -992,256 +1269,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-can-robotics-and-ai-save-us-from-ourselves.md",
-      "title": "Can Robotics and AI Save us from Ourselves?",
-      "excerpt": "In reality, it now appears that robots and artificial intelligence (AI) may help be one of the saviors ... As this technology grows, we could start seeing it used on a larger scale to provide for people who’re stuck in their homes.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/can-robotics-and-ai-save-us-ourselves",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/can-robotics-and-ai-save-us-ourselves",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-unmanned-combat-robot-disarmed-for-reconnaissance-duties.md",
-      "title": "Unmanned combat robot disarmed for reconnaissance duties",
-      "excerpt": "Milrem Robotics has rolled out its latest THeMIS Observe battlefield robot variant based on its modular THeMIS UGV platform, with an emphasis on Intelligence, Surveillance and Reconnaissance (ISR ...",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/military/milrem-robotics-themis-observe-unmanned-robot-isr/",
-      "originalUrl": "https://newatlas.com/military/milrem-robotics-themis-observe-unmanned-robot-isr/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-meet-the-bots-training-alongside-the-belgian-army.md",
-      "title": "Meet the bots training alongside the Belgian Army",
-      "excerpt": "The exercise centered on a vehicle from Milrem Robotics called THeMIS. By Kelsey D. Atherton | Published Jun 7, 2022 7:00 PM On June 2, at an army base in the forested interior of Belgium, a team ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/technology/belgian-army-training-robots/",
-      "originalUrl": "https://www.popsci.com/technology/belgian-army-training-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T16:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-the-best-robotic-lawn-mowers-for-2022.md",
-      "title": "The best robotic lawn mowers for 2022",
-      "excerpt": "You can control this lawn care device through your ... it's an excellent mower for small projects. Yes. Keep in mind that a robotic mower may not offer the same power and features as a traditional ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/home/best-robot-lawnmowers/",
-      "originalUrl": "https://www.digitaltrends.com/home/best-robot-lawnmowers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads//2021/02/81avkxoa8rl-_ac_sl1500_.jpg?p=1",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/home/best-robot-lawnmowers/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-lawnmowers/?amp",
-      "publishedDateTime": "2022-06-07T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience.md",
-      "title": "Bengaluru Airport Introduces AI Robots For Enhanced Passenger Experience",
-      "excerpt": "Currently at the trial stage, these 10 robots have been deployed at the airport to help guide passengers and answer basic queries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.india.com/karnataka/bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience-5439508/",
-      "originalUrl": "https://www.india.com/karnataka/bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience-5439508/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.india.com/wp-content/uploads/2022/05/bengaluru-airport.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.india.com/karnataka/bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience-5439508/amp/",
-      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/karnataka/bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience-5439508/amp/",
-      "publishedDateTime": "2022-06-07T05:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India.com",
-        "domain": "india.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-miso-robotics-announces-collaboration-with-aws-to-test-robots-at-scale.md",
-      "title": "Miso Robotics Announces Collaboration with AWS to Test Robots at Scale",
-      "excerpt": "AWS RoboMaker Enables Miso to Run Hundreds of Simulations to Ensure Software StabilityPASADENA, Calif., June 7, 2022 /PRNewswire/ -- Today, Miso",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-announces-collaboration-with-aws-to-test-robots-at-scale-1031513110",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-announces-collaboration-with-aws-to-test-robots-at-scale-1031513110",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

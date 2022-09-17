@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/automation/fierce-competition-who-could-win-the-intelligent-automation-arms-race/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -255,6 +255,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-09-cognitive-overload-the-hidden-cybersecurity-threat.md",
+      "title": "Cognitive Overload: The hidden cybersecurity threat",
+      "excerpt": "Very quickly, we’ve seen this always-on cybersecurity environment leads to burnout, and there’s one major contributor: cognitive overload ... specific products and services to secure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmagazine.com/perspective/threats/cognitive-overload-the-hidden-cybersecurity-threat%EF%BF%BC",
+      "originalUrl": "https://www.scmagazine.com/perspective/threats/cognitive-overload-the-hidden-cybersecurity-threat%EF%BF%BC",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://files.scmagazine.com/wp-content/uploads/2022/09/MikeSaxton-e1662680296351.jpg",
+          "width": 1280,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-08T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SC Magazine",
+        "domain": "scmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-09-neural-magics-sparsity-nvidias-hopper-and-alibabas-network-among-firsts-in-latest-mlperf-ai-benchmarks.md",
       "title": "Neural Magic's sparsity, Nvidia's Hopper, and Alibaba's network among firsts in latest MLPerf AI benchmarks",
       "excerpt": "The latest benchmark tests of chips for AI showed new approaches to dealing with ever-increasing scale, including clusters of machines, and sparsity, the pruning of neural nets to make them more efficient.",
@@ -307,6 +350,49 @@
         "Microsoft AI",
         "Machine Learning",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-multiple-cognitive-abilities-may-be-empirically-measured-from-complex-video-game-experiences.md",
+      "title": "Multiple cognitive abilities may be empirically measured from complex video game experiences",
+      "excerpt": "Parents and pundits may no longer argue that gamers are indulging in brainless activities in front of their screens. And gamers may finally feel a sense of vindication. Kyoto University and BonBon ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-09-multiple-cognitive-abilities-empirically-complex.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-09-multiple-cognitive-abilities-empirically-complex.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/gamers-can-have-their.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-09-multiple-cognitive-abilities-empirically-complex.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-multiple-cognitive-abilities-empirically-complex.amp",
+      "publishedDateTime": "2022-09-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -447,6 +533,92 @@
       "provider": {
         "name": "ABCNews",
         "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-08-moving-the-goal-posts-cognitive-dissonance-and-preferences.md",
+      "title": "Moving the Goal Posts: Cognitive Dissonance and Preferences",
+      "excerpt": "Got cognitive dissonance? Simply move the goal posts of what you see as fair and reasonable. Source: Neil Daftary/Unsplash Cognitive dissonance theory posits that individuals experience mental ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/intersections/202209/moving-the-goal-posts-cognitive-dissonance-and-preferences",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/intersections/202209/moving-the-goal-posts-cognitive-dissonance-and-preferences",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-09/neil-daftary-4uamk7_8t5s-unsplash.jpg?itok=-VXuqVqw",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/intersections/202209/moving-the-goal-posts-cognitive-dissonance-and-preferences?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/intersections/202209/moving-the-goal-posts-cognitive-dissonance-and-preferences?amp",
+      "publishedDateTime": "2022-09-08T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-08-can-good-dental-health-help-protect-against-cognitive-decline-and-dementia.md",
+      "title": "Can good dental health help protect against cognitive decline and dementia?",
+      "excerpt": "More information: \"Periodontal Health, Cognitive Decline, and Dementia—A Systematic Review and Meta-analysis of Longitudinal Studies\", Journal of the American Geriatrics Society (2022). DOI: 10. ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-09-good-dental-health-cognitive-decline.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-09-good-dental-health-cognitive-decline.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/dementia.jpg",
+          "width": 1600,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-09-good-dental-health-cognitive-decline.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-good-dental-health-cognitive-decline.amp",
+      "publishedDateTime": "2022-09-08T00:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -783,6 +955,49 @@
       "provider": {
         "name": "Zawya",
         "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-sleep-warning-snorers-at-increased-risk-of-cancer-and-cognitive-decline-warns-study.md",
+      "title": "Sleep warning: Snorers at increased risk of cancer and cognitive decline, warns study",
+      "excerpt": "Study author Dr Nicola Marchi said: “We found that obstructive sleep apnoea, and in particular low oxygen levels during sleep, was associated with a greater decline in cognitive function ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mirror.co.uk/news/health/sleep-warning-snorers-increased-risk-27918136",
+      "originalUrl": "https://www.mirror.co.uk/news/health/sleep-warning-snorers-increased-risk-27918136",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.mirror.co.uk/incoming/article27742269.ece/ALTERNATES/s1200/2_GettyImages-184393692.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mirror.co.uk/news/health/sleep-warning-snorers-increased-risk-27918136.amp",
+      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/health/sleep-warning-snorers-increased-risk-27918136.amp",
+      "publishedDateTime": "2022-09-06T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Mirror",
+        "domain": "mirror.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1149,223 +1364,6 @@
         "AI in Autos",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-us-deals-heavy-blow-to-china-tech-ambitions-with-nvidia-chip-ban.md",
-      "title": "US Deals Heavy Blow to China Tech Ambitions With Nvidia Chip Ban",
-      "excerpt": "The US government’s new restrictions on the ability of Nvidia Corp. to sell artificial intelligence chips to Chinese customers threatens to deal a heavy blow to the country’s development of a sweeping range of cutting-edge technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bnnbloomberg.ca/us-deals-heavy-blow-to-china-tech-ambitions-with-nvidia-chip-ban-1.1813842",
-      "originalUrl": "https://www.bnnbloomberg.ca/us-deals-heavy-blow-to-china-tech-ambitions-with-nvidia-chip-ban-1.1813842",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.bnnbloomberg.ca/polopoly_fs/1.1813843!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/nvidia-headquarters-in-santa-clara-california-u-s-on-tuesday-feb-23-2021-nvidia-corp-is-expected-to-release-earnings-figures-on-february-24.png",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bnnbloomberg.ca/us-deals-heavy-blow-to-china-tech-ambitions-with-nvidia-chip-ban-1.1813842.amp.html",
-      "cdnAmpWebUrl": "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/us-deals-heavy-blow-to-china-tech-ambitions-with-nvidia-chip-ban-1.1813842.amp.html",
-      "publishedDateTime": "2022-09-02T03:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bnnbloomberg",
-        "domain": "bnnbloomberg.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-study-new-treatment-increases-cognitive-function-in-down-syndrome-patients.md",
-      "title": "Study: New treatment increases cognitive function in Down Syndrome patients",
-      "excerpt": "PARIS (AFP) — A new hormone treatment improved the cognitive function of six men with Down Syndrome by 10-30 percent, scientists said Thursday, adding the “promising” results may raise hopes ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/study-new-treatment-increases-cognitive-function-in-down-syndrome-patients/",
-      "originalUrl": "https://www.timesofisrael.com/study-new-treatment-increases-cognitive-function-in-down-syndrome-patients/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2022/09/000_32HG96V-640x400.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/study-new-treatment-increases-cognitive-function-in-down-syndrome-patients/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/study-new-treatment-increases-cognitive-function-in-down-syndrome-patients/amp/",
-      "publishedDateTime": "2022-09-01T21:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-boy-paralyzed-in-highland-park-shooting-may-have-cognitive-loss.md",
-      "title": "Boy paralyzed in Highland Park shooting may have cognitive loss",
-      "excerpt": "According to the family, they are now seeing some patterns of behavior that could indicate cognitive loss. Therapists are noticing short term memory loss, issues with word recovery and loss of ...",
-      "sourceUrl": null,
-      "webUrl": "https://wgntv.com/news/highland-park-parade-shooting/boy-paralyzed-in-highland-park-shooting-may-have-cognitive-loss/",
-      "originalUrl": "https://wgntv.com/news/highland-park-parade-shooting/boy-paralyzed-in-highland-park-shooting-may-have-cognitive-loss/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wgntv.com/wp-content/uploads/sites/5/2022/08/Cooper_Roberts_new.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wgntv.com/news/highland-park-parade-shooting/boy-paralyzed-in-highland-park-shooting-may-have-cognitive-loss/amp/",
-      "cdnAmpWebUrl": "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/news/highland-park-parade-shooting/boy-paralyzed-in-highland-park-shooting-may-have-cognitive-loss/amp/",
-      "publishedDateTime": "2022-09-01T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGN-TV",
-        "domain": "wgntv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-8-year-old-paralyzed-in-fourth-of-july-parade-shooting-may-have-some-cognitive-loss-family-says.md",
-      "title": "8-year-old paralyzed in Fourth of July parade shooting may have ‘some cognitive loss,’ family says",
-      "excerpt": "(CNN) – The family of the 8-year-old boy left paralyzed from the Fourth of July mass shooting in Highland Park, Illinois, said he may have “some cognitive loss.” Cooper Roberts is paralyzed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ky3.com/2022/09/01/8-year-old-paralyzed-fourth-july-parade-shooting-may-have-some-cognitive-loss-family-says/",
-      "originalUrl": "https://www.ky3.com/2022/09/01/8-year-old-paralyzed-fourth-july-parade-shooting-may-have-some-cognitive-loss-family-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-ky3-prod.cdn.arcpublishing.com/resizer/z-rZ__lANoTOxqKZsZCne3qjePE=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/6XQW3YV7PNCGVJG3FNWGQWHIEE.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ky3.com/2022/09/01/8-year-old-paralyzed-fourth-july-parade-shooting-may-have-some-cognitive-loss-family-says/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-ky3-com.cdn.ampproject.org/c/s/www.ky3.com/2022/09/01/8-year-old-paralyzed-fourth-july-parade-shooting-may-have-some-cognitive-loss-family-says/?outputType=amp",
-      "publishedDateTime": "2022-09-01T15:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KY3",
-        "domain": "ky3.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-a-therapy-found-to-improve-cognitive-function-in-patients-with-down-syndrome.md",
-      "title": "A therapy found to improve cognitive function in patients with Down syndrome",
-      "excerpt": "Down syndrome, also known as trisomy 21, affects around one in 800 births and results in a variety of clinical manifestations, including decline in cognitive capacity. With age, 77% of people with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/09/220901151604.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/09/220901151604.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-01T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

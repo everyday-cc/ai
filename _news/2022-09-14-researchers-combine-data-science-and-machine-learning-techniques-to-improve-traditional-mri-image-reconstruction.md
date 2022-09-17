@@ -1,31 +1,29 @@
 ---
 category: news
 title: "Researchers combine data science and machine learning techniques to improve traditional MRI image reconstruction"
-excerpt: "University of Minnesota Twin Cities scientists and engineers have found a way to improve the performance of traditional Magnetic Resonance Imaging (MRI) reconstruction techniques, allowing for faster MRIs to improve health care."
-publishedDateTime: 2022-09-14T13:37:00Z
-originalUrl: "https://medicalxpress.com/news/2022-09-combine-science-machine-techniques-traditional.html"
-webUrl: "https://medicalxpress.com/news/2022-09-combine-science-machine-techniques-traditional.html"
-ampWebUrl: "https://medicalxpress.com/news/2022-09-combine-science-machine-techniques-traditional.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-combine-science-machine-techniques-traditional.amp"
+excerpt: "University of Minnesota Twin Cities researchers have found a way to improve the performance of traditional Magnetic Resonance Imaging (MRI) reconstruction techniques, allowing for faster MRIs without relying on the use of newer deep learning methods."
+publishedDateTime: 2022-09-14T00:00:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/964576"
+webUrl: "https://www.eurekalert.org/news-releases/964576"
 type: article
-quality: 38
-heat: 38
+quality: 18
+heat: 18
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/researchers-combine-da.jpg"
-    width: 2069
-    height: 1012
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/387a00b7-ce35-466a-a544-239e72a0f1d3/Rendition/low-res/Content/Public"
+    width: 700
+    height: 342
     isCached: true
 
-secured: "Al0knDHBYNahydawdnN1H6/5ZhGg2O9lBeUiBeJIa3kkbjSoONPIxcml6UapwwbR2Xu2GwUqXlLnpiXG/2McR+DVd0IKlNPVsGGauUyvmEqJF/oqwTbv9d0q8T/DirtcPFB4kzwOxQw54JjiGQt0Rss4ZyDuDp7TSz4pqJpy4jFNzLpHhLuj7ydegAWPNBeAxMAAdTFKDAbe6SDGLog5ZrzrdHX9eNrFAoQgRmj59bofSODP46l7er05eWHkG3oxje676CFB2w46iu3bEAUHjXZQr19yWBfuE/YZB/aoILL4GHnjWFIgekDKi/6nq2eEatVuNG89h3qPPtFnKtIoqzcfxdymE4sJTFdvcEnIiOM=;qMVeDRjF2fXST3o8CcBCAA=="
+secured: "kkuGpNWJD/Qo8PkIgnT+0K2L0EXlwpWZEUxXyb6FSI+cx4jgaA9I44EN7jjDHl42U7gJRNzmY5U2gBKudB1SPSHyGjzFUmAlpEsByKtipJ5Jgi9FBhJjKyNw/tUYUN01ty/D+r5wrh1ZSlhBEOgDfgkUFoZkOQ5Rt98yNyGGn0s6sOEp1vHhw0eeAYh4zfi6xVGfz1h38vAaYsuFQsNbBavu6GW1bnM1RDpLckLAlXn28wPRx9vmXs8bPhpsWrermQtyH52fmoW78a2iTeEWx8m/M3bunEoBygFeenVBkopsWSZ8qiYMjYgrhvNeshCkxcz5L7PdpFNrzQGEdME3V26t3BktyRGPsdkK2+YWGM0=;0fqXaU4tySWNJHJ2I4JI7g=="
 ---
 

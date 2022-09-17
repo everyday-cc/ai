@@ -599,6 +599,135 @@
       ]
     },
     {
+      "path": "_news/2022-09-10-brain-computer-interface-at-toronto-childrens-hospital-tests-the-potential-for-mind-melds-with-machines.md",
+      "title": "Brain-computer interface at Toronto children’s hospital tests the potential for mind melds with machines",
+      "excerpt": "Using a sensor headset, children are helping researchers fine-tune technology for turning signals in the brain into actions in the real world",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/canada/article-brain-computer-interface-at-toronto-childrens-hospital-tests-the/",
+      "originalUrl": "https://www.theglobeandmail.com/canada/article-brain-computer-interface-at-toronto-childrens-hospital-tests-the/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theglobeandmail.com/resizer/NXq2cN-yDjyhe7MmB6kFaV1Ai3k=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/2VAOGFNDIZFLJNVS2OSTC5HMY4.JPG",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-10T01:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-boston-startup-gets-new-money-to-make-industrial-robots-easier-to-use.md",
+      "title": "Boston startup gets new money to make industrial robots easier to use",
+      "excerpt": "Although Konidaris got his doctorate in computer science at UMass Amherst and spent several years at MIT’s Artificial Intelligence ... But when it was time to start a company, Konidaris returned ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonglobe.com/2022/09/08/business/boston-startup-choreographing-robots-gets-new-money/",
+      "originalUrl": "https://www.bostonglobe.com/2022/09/08/business/boston-startup-choreographing-robots-gets-new-money/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/1uiaMUlvHKlDkbUjgxnww4WKfBg=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/5TM44GFYIFJ6FRS7O4WSMG252A.JPG",
+          "width": 506,
+          "height": 269,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-08T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Boston Globe",
+        "domain": "bostonglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-el-paso-artist-diego-robot-martinezs-exhibition-explores-peace-love-dope-death.md",
+      "title": "El Paso artist Diego 'Robot' Martinez's exhibition explores 'Peace Love Dope Death'",
+      "excerpt": "Diego \"Robot\" Martinez's art show, “Peace Love Dope Death,” will be from 6 to 11 p.m. Friday through Sunday, with food trucks, a light show and music.",
+      "sourceUrl": null,
+      "webUrl": "https://www.elpasotimes.com/story/entertainment/things-to-do/2022/09/08/el-paso-artist-diego-robot-martinez-exhibit-explores-peace-love-dope-death/66257047007/",
+      "originalUrl": "https://www.elpasotimes.com/story/entertainment/things-to-do/2022/09/08/el-paso-artist-diego-robot-martinez-exhibit-explores-peace-love-dope-death/66257047007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2022/09/08/PTX1/ecba9216-b0f4-4f7c-8093-9caa2a5365f5-1EF2C7B2-D415-4D1E-9BDE-DFF647CED2DF.jpeg?auto=webp&crop=4031,2268,x0,y143&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-08T11:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "El Paso Times",
+        "domain": "elpasotimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-08-realtime-robotics-raises-144m-for-motion-planning-software.md",
       "title": "Realtime Robotics raises $14.4M for motion planning software",
       "excerpt": "Realtime Robotics' RapidPlan software creates and choreographs robot movements without the need for brand-specific robot programming.",
@@ -736,6 +865,49 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-09-08-robotic-assistance-devices-to-unveil-the-long-awaited-rio-project-at-gsx.md",
+      "title": "Robotic Assistance Devices to unveil the long-awaited RIO project at GSX",
+      "excerpt": "Artificial Intelligence Technology Solutions announced that its wholly owned subsidiary Robotic Assistance Devices will formally unveil the long-awaited RIO project at GSX this month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.securityinfowatch.com/gsx/article/21280006/robotic-assistance-devices-rad-robotic-assistance-devices-to-unveil-the-longawaited-rio-project-at-gsx",
+      "originalUrl": "https://www.securityinfowatch.com/gsx/article/21280006/robotic-assistance-devices-rad-robotic-assistance-devices-to-unveil-the-longawaited-rio-project-at-gsx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/09/RIO_Gsx_2022.63190ab78f766.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-07T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Security",
+        "domain": "securityinfowatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1131,6 +1303,83 @@
       ]
     },
     {
+      "path": "_news/2022-09-06-scientists-are-making-remote-controlled-cyborg-cockroaches-heres-what-you-should-know.md",
+      "title": "Scientists are making remote-controlled cyborg cockroaches. Here’s what you should know",
+      "excerpt": "Cockroaches are pesky insects that nobody in their right mind likes. They are good at survival, after all, they have outlived dinosaurs and maybe one day they will outlive humans. But now, humans are trying to turn these sturdy insects into half-machines or cyborgs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailyo.in/technology/scientists-are-making-remote-controlled-cyborg-cockroaches-heres-what-you-should-know-37230",
+      "originalUrl": "https://www.dailyo.in/technology/scientists-are-making-remote-controlled-cyborg-cockroaches-heres-what-you-should-know-37230",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/sites/dailyo//resources/202209/roach-2060922041442.gif",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailyo.in/amp/technology/scientists-are-making-remote-controlled-cyborg-cockroaches-heres-what-you-should-know-37230",
+      "cdnAmpWebUrl": "https://www-dailyo-in.cdn.ampproject.org/c/s/www.dailyo.in/amp/technology/scientists-are-making-remote-controlled-cyborg-cockroaches-heres-what-you-should-know-37230",
+      "publishedDateTime": "2022-09-06T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DailyO",
+        "domain": "dailyo.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-cage-free-human-safe-robots-zeta-group-expands-in-wrightstown-anticipating-growth-of-automation.md",
+      "title": "Cage-free, human-safe robots: Zeta Group expands in Wrightstown, anticipating growth of automation",
+      "excerpt": "Collaborative robots date back to 1996 when Northwestern University professors developed and patented a \"cobot.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.jsonline.com/story/money/2022/09/06/cage-free-robots-wrightstown-zeta-group-engineering-expands/7939210001/",
+      "originalUrl": "https://www.jsonline.com/story/money/2022/09/06/cage-free-robots-wrightstown-zeta-group-engineering-expands/7939210001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-06T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Milwaukee Journal Sentinel",
+        "domain": "jsonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-06-xiaomi-launches-the-mijia-cooking-robot-with-22l-capacity-voice-control-more.md",
       "title": "Xiaomi launches the MIJIA Cooking Robot with 2.2L capacity, voice control & more!",
       "excerpt": "The MIJIA Cooking Robot uses CookingIoT algorithms to control the cooking process and OTA updates will be available for improvement. It also offers a wide range of resolution speeds between 40rpm ...",
@@ -1180,276 +1429,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-federal-bank-backs-kerala-based-robotics-and-automation-startup-asimov-robotics.md",
-      "title": "Federal Bank Backs Kerala-based Robotics and Automation Startup ASIMOV Robotics",
-      "excerpt": "Federal Bank Backs Kerala-based Robotics and Automation Startup ASIMOV Robotics Pvt Ltd, a firm innovating in the robotics space",
-      "sourceUrl": null,
-      "webUrl": "https://www.indianweb2.com/2022/09/federal-bank-backs-kerala-based.html",
-      "originalUrl": "https://www.indianweb2.com/2022/09/federal-bank-backs-kerala-based.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAiOWqN7HglghM6w5t0XUtEeaUT6ncFiKamfkVfCHu0I_CouDLquzSsjgQzFBY5HfifUJqrlVbonMkJwVvDt-4C6hqgErJwYjPrLofHdDKjg_QYXD0mCkLKYBE8EZF6xAAEjb9wxTMEnHn7cChpuRlWAooa6RVTASj43V35iITV-soA-LkpIEeEOea/s16000/asimov-robotics.jpg",
-          "width": 900,
-          "height": 643,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-05T22:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "indianweb2.com",
-        "domain": "indianweb2.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-emerging-technologies-in-automobile-industry-to-push-in-vehicle-ai-robot-demand-states-factmr.md",
-      "title": "Emerging Technologies in Automobile Industry to Push In-vehicle AI Robot Demand, States Fact.MR",
-      "excerpt": "To learn more about In-vehicle AI RobotMarket, you can get in touch with our Analyst at  Key Segments Covered in the In",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/emerging-technologies-in-automobile-industry-to-push-in-vehicle-ai-robot-demand-states-factmr-2022-09-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/emerging-technologies-in-automobile-industry-to-push-in-vehicle-ai-robot-demand-states-factmr-2022-09-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-05T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-labour-forces-robots-ai-gaining-more-traction-in-the-workforce.md",
-      "title": "Labour forces: Robots, AI gaining more traction in the workforce",
-      "excerpt": "Since mid-2021, when Happy Lamb Hot Pot became the first restaurant in the province to start using ... heat and rain. As robots evolve and scientists use artificial intelligence (AI) to make ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.timescolonist.com/business/labour-forces-robots-ai-gaining-more-traction-in-the-workforce-5775641",
-      "originalUrl": "https://www.timescolonist.com/business/labour-forces-robots-ai-gaining-more-traction-in-the-workforce-5775641",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.vmcdn.ca/f/files/glaciermedia/images/contributed/hotpotrobot.png;w=960;h=539;mode=crop",
-          "width": 960,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-05T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times Colonist",
-        "domain": "timescolonist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-05-best-robot-vacuums-for-pet-hair-in-2022.md",
-      "title": "Best robot vacuums for pet hair in 2022",
-      "excerpt": "Remote control If your robot vacuum cleaner doesn’t connect ... and clean it regularly as specified in your manual. Bear in mind that the filter will also need to be replaced occasionally ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tomsguide.com/best-picks/best-robot-vacuums-for-pet-hair",
-      "originalUrl": "https://www.tomsguide.com/best-picks/best-robot-vacuums-for-pet-hair",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/EhA9BQe9x9vyV97ypphW5C-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-05T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-05-warehouse-robotics-market-to-reach-value-of-us-157-billion-by-2031-states-tmr-analysis.md",
-      "title": "Warehouse Robotics Market to Reach Value of US$ 15.7 Billion by 2031, States TMR Analysis",
-      "excerpt": "The warehouse robotics market is projected to expand at a CAGR of 13.3% during 2022-2031Surge in adoption of warehouse automation in the e-commerce industry is fueling the sales growth in the marketTh",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/n28746108/warehouse-robotics-market-to-reach-value-of-us-15-7-billion-by-2031-states-tmr-analysis",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/n28746108/warehouse-robotics-market-to-reach-value-of-us-15-7-billion-by-2031-states-tmr-analysis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1682871/TMR_Logo_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28746108",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28746108",
-      "publishedDateTime": "2022-09-04T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-05-us-startup-simaai-starts-shipping-machine-learning-chip-and-system.md",
-      "title": "US startup SiMa.ai starts shipping machine learning chip and system",
-      "excerpt": "SiMa.ai/Handout via REUTERS Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management & Research Company, said on Tuesday it started shipping chips and systems to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/business/us-startup-simaai-starts-shipping-machine-learning-chip-and-system-2909851",
-      "originalUrl": "https://www.channelnewsasia.com/business/us-startup-simaai-starts-shipping-machine-learning-chip-and-system-2909851",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://onecms-res.cloudinary.com/image/upload/s--SCNbkIjv--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-08-30t130839z_1_lynxmpei7t0is_rtroptp_3_chips-sima.jpg?itok=B6EN0Egl",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-04T14:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI Hardware",
-        "AI in Robotics"
       ]
     }
   ],

@@ -2,6 +2,654 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2022-06-23-the-ai-first-database-ecosystem.md",
+      "title": "The AI-First Database Ecosystem",
+      "excerpt": "An AI-first database ecosystem has emerged, and it might just transform your company’s search and recommendation capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/23/the-ai-first-database-ecosystem/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/23/the-ai-first-database-ecosystem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//61950180a260c12d22db736c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/23/the-ai-first-database-ecosystem/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/23/the-ai-first-database-ecosystem/amp/",
+      "publishedDateTime": "2022-06-23T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-sales-of-painting-robots-market-will-grow-by-101-cagr-by-end-of-2031-future-market-insights-inc.md",
+      "title": "Sales Of Painting Robots Market Will Grow By 10.1% CAGR By End of 2031, Future Market Insights Inc.",
+      "excerpt": "Overall sales of painting robots will grow by 10.1% CAGR between 2021 and 2031. East Asia and Europe are likely to account for over half of the global demand for painting robots through 2031. The global painting robots market grew at a CAGR of more than 2.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/sales-of-painting-robots-market-will-grow-by-10-1-cagr-by-end-of-2031-future-market-insights-inc/",
+      "originalUrl": "https://techbullion.com/sales-of-painting-robots-market-will-grow-by-10-1-cagr-by-end-of-2031-future-market-insights-inc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2022/06/durr-csm_EcoRP_Gen3.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/sales-of-painting-robots-market-will-grow-by-10-1-cagr-by-end-of-2031-future-market-insights-inc/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/sales-of-painting-robots-market-will-grow-by-10-1-cagr-by-end-of-2031-future-market-insights-inc/amp/",
+      "publishedDateTime": "2022-06-23T03:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-delivery-robots-are-bridging-the-gap-arising-from-the-labor-shortage.md",
+      "title": "Delivery Robots Are Bridging The Gap Arising From The Labor Shortage",
+      "excerpt": "With labor shortage showing no signs of receding, delivery-focused companies are turning to robots to steer goods to consumers—with robust results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/23/delivery-robots-are-bridging-the-gap-arising-from-the-labor-shortage/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/23/delivery-robots-are-bridging-the-gap-arising-from-the-labor-shortage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62b32151f2054ac58c7a1f0b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 898,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/23/delivery-robots-are-bridging-the-gap-arising-from-the-labor-shortage/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/23/delivery-robots-are-bridging-the-gap-arising-from-the-labor-shortage/amp/",
+      "publishedDateTime": "2022-06-23T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-american-airlines-testing-face-scanning-at-dfw-airport.md",
+      "title": "American Airlines testing face-scanning at DFW Airport",
+      "excerpt": "American Airlines says passengers with PreCheck can now pass through security checkpoints at Dallas-Fort Worth International Airport with a face scan and phone app.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ksat.com/business/2022/06/23/american-airlines-testing-face-scanning-at-dfw-airport/",
+      "originalUrl": "https://www.ksat.com/business/2022/06/23/american-airlines-testing-face-scanning-at-dfw-airport/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/QCM3NSYLD5CDHBU37NHWRODMDM.jpg?_a=ATAK9d60",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ksat.com/business/2022/06/23/american-airlines-testing-face-scanning-at-dfw-airport/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/business/2022/06/23/american-airlines-testing-face-scanning-at-dfw-airport/?outputType=amp",
+      "publishedDateTime": "2022-06-23T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSAT",
+        "domain": "ksat.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-fieldpoint-private-securities-llc-sells-730-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.md",
+      "title": "Fieldpoint Private Securities LLC Sells 730 Shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ)",
+      "excerpt": "Fieldpoint Private Securities LLC reduced its position in shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) by 41.5% in the 1st quarter, according to its most recent filing with the Securities & Exchange Commission.",
+      "sourceUrl": null,
+      "webUrl": "https://www.defenseworld.net/2022/06/23/fieldpoint-private-securities-llc-sells-730-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.html",
+      "originalUrl": "https://www.defenseworld.net/2022/06/23/fieldpoint-private-securities-llc-sells-730-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T01:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Defense World",
+        "domain": "defenseworld.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-powering-fintech-growth-with-mobile-app-marketing.md",
+      "title": "Powering fintech growth with mobile app marketing",
+      "excerpt": "A dive deep into how fintech brands are leveraging mobile app marketing to connect and create a seamless experience for their customers.",
+      "sourceUrl": null,
+      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/industry/powering-fintech-growth-with-mobile-app-marketing/92403870",
+      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/industry/powering-fintech-growth-with-mobile-app-marketing/92403870",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-92403870,imgsize-55626,width-1200,height-628,overlay-etbrandequity/powering-fintech-growth-with-mobile-app-marketing.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/industry/powering-fintech-growth-with-mobile-app-marketing/92403870",
+      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/industry/powering-fintech-growth-with-mobile-app-marketing/92403870",
+      "publishedDateTime": "2022-06-22T23:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-esg-book-arms-investors-with-ai-powered-insights-on-sustainability.md",
+      "title": "ESG Book arms investors with AI-powered insights on sustainability",
+      "excerpt": "With new funding, the company aims to scale its platform while ensuring that its tech offers ESG data that is \"accessible, consistent and transparent.\"",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/22/esg-book-arms-investors-with-ai-powered-insights-on-sustainability/",
+      "originalUrl": "https://venturebeat.com/2022/06/22/esg-book-arms-investors-with-ai-powered-insights-on-sustainability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1248500292-e1655932214325.jpg?fit=800%2C525&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/22/esg-book-arms-investors-with-ai-powered-insights-on-sustainability/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/22/esg-book-arms-investors-with-ai-powered-insights-on-sustainability/amp/",
+      "publishedDateTime": "2022-06-22T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-healthcare-supply-chain-gets-a-boost-with-vamstars-ai-driven-platform.md",
+      "title": "Healthcare supply chain gets a boost with Vamstar’s AI-driven platform",
+      "excerpt": "Healthcare supply chains have been under enormous pressure since the COVID-19 pandemic began. Vamstar aims to change that.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/22/healthcare-supply-chain-gets-a-boost-with-vamstars-ai-driven-platform/",
+      "originalUrl": "https://venturebeat.com/2022/06/22/healthcare-supply-chain-gets-a-boost-with-vamstars-ai-driven-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1295941446.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/22/healthcare-supply-chain-gets-a-boost-with-vamstars-ai-driven-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/22/healthcare-supply-chain-gets-a-boost-with-vamstars-ai-driven-platform/amp/",
+      "publishedDateTime": "2022-06-22T17:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-cerebras-just-built-a-big-chip-that-could-democratize-ai.md",
+      "title": "Cerebras just built a big chip that could democratize AI",
+      "excerpt": "Chip startup Cerebras has developed a foot-wide piece of silicon, compared to average chips measured in millimeters, that makes training AI cheap and easy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.protocol.com/enterprise/cerebras-ai-wafer-scale-engine",
+      "originalUrl": "https://www.protocol.com/enterprise/cerebras-ai-wafer-scale-engine",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.protocol.com/media-library/less-than-p-greater-than-at-the-core-of-cerebras-pitch-is-a-chip-that-is-roughly-the-size-of-a-dinner-plate-less-than-p-greater-than.jpg?id=27946326&width=400&coordinates=0%2C135%2C0%2C136&height=711.4285714285714&quality=80",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.protocol.com/amp/cerebras-ai-wafer-scale-engine-2657541665",
+      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/cerebras-ai-wafer-scale-engine-2657541665",
+      "publishedDateTime": "2022-06-22T17:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Protocol",
+        "domain": "protocol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-einride-gets-go-ahead-for-driverless-electric-trucks-on-public-roads.md",
+      "title": "Einride Gets Go-Ahead For Driverless Electric Trucks On Public Roads",
+      "excerpt": "driverless, electric transport vehicles called Pods on public roads in western Tennessee. Within weeks driverless electric freight transport trucks may be traveling on public roads in western ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/edgarsten/2022/06/23/einride-gets-go-ahead-for-driverless-trucks-on-public-roads/",
+      "originalUrl": "https://www.forbes.com/sites/edgarsten/2022/06/23/einride-gets-go-ahead-for-driverless-trucks-on-public-roads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62b3a72b815fe116257a1f0d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/edgarsten/2022/06/23/einride-gets-go-ahead-for-driverless-trucks-on-public-roads/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2022/06/23/einride-gets-go-ahead-for-driverless-trucks-on-public-roads/amp/",
+      "publishedDateTime": "2022-06-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-leading-a-movement-to-strengthen-machine-learning-in-africa.md",
+      "title": "Leading a movement to strengthen machine learning in Africa",
+      "excerpt": "",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/leading-a-movement-to-strengthen-machine-learning-in-africa",
+      "originalUrl": "https://www.deepmind.com/blog/leading-a-movement-to-strengthen-machine-learning-in-africa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62b2f8a5be5a342016037d48_Avishkar%207.jpeg",
+          "width": 384,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-the-first-15tb-microsd-card-is-coming-to-destroy-your-budget.md",
+      "title": "The First 1.5TB microSD Card Is Coming to Destroy Your Budget",
+      "excerpt": "Although as inevitable as death and taxes, yesterday Micron revealed that its new industrial-grade i400 microSD will come in capacities ranging from 256GB to 1TB, and for the first time ever, a never-before-seen 1.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/first-1-5-tb-microsd-card-expensive-micron-embedded-wor-1849093625",
+      "originalUrl": "https://gizmodo.com/first-1-5-tb-microsd-card-expensive-micron-embedded-wor-1849093625",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/first-1-5-tb-microsd-card-expensive-micron-embedded-wor-1849093625/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/first-1-5-tb-microsd-card-expensive-micron-embedded-wor-1849093625/amp",
+      "publishedDateTime": "2022-06-22T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-dubai-police-in-collaboration-with-continental-organises-a-dialogue-session-on-artificial-intelligence-driving-hub.md",
+      "title": "Dubai Police In Collaboration With Continental Organises A Dialogue Session On Artificial Intelligence Driving Hub",
+      "excerpt": "Dubai Police in Collaboration with Continental Organises a Dialogue Session on Artificial Intelligence Driving Hub • Tyre manufacturer to collaborate on initiatives to improve drivers' skills ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104417510/Dubai-Police-In-Collaboration-With-Continental-Organises-A-Dialogue-Session-On-Artificial-Intelligence-Driving-Hub",
+      "originalUrl": "https://menafn.com/1104417510/Dubai-Police-In-Collaboration-With-Continental-Organises-A-Dialogue-Session-On-Artificial-Intelligence-Driving-Hub",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-06/22/DPN_37bc1image_story.jpg",
+          "width": 580,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-airbus-cybersecurity-artificial-intelligence-and-setting-foot-on-mars.md",
+      "title": "Airbus Cybersecurity, Artificial Intelligence, and setting foot on Mars",
+      "excerpt": "How can aviation become more sustainable? When will the first human be set foot on Mars? Cyber security and artificial intelligence at Airbus",
+      "sourceUrl": null,
+      "webUrl": "https://eturbonews.com/airbus-cybersecurity-artificial-intelligence-and-setting-foot-on-mars/",
+      "originalUrl": "https://eturbonews.com/airbus-cybersecurity-artificial-intelligence-and-setting-foot-on-mars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://eturbonews.com/wp-content/uploads/2022/06/ILABerlin.jpeg",
+          "width": 2480,
+          "height": 1654,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eTurboNews",
+        "domain": "eturbonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-23-robots-become-racist-and-sexist-when-programmed-with-common-ai-system-researchers-claim.md",
       "title": "Robots become racist and sexist when programmed with common AI system, researchers claim",
       "excerpt": "A ROBOT programmed with a popular artificial intelligence system turned racist and sexist, according to researchers. The robot was found to prefer men to women and white people over people of color.",
@@ -474,628 +1122,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-study-glaucoma-diagnosis-not-associated-with-steeper-rates-of-cognitive-decline.md",
-      "title": "Study: Glaucoma diagnosis not associated with steeper rates of cognitive decline",
-      "excerpt": "Kolli, A., et al. (2022) Glaucoma and Cognitive Function Trajectories in a Population-Based Study: Findings from The Health and Retirement Study. Journal of the American Geriatrics Society. doi ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220622/Study-Glaucoma-diagnosis-not-associated-with-steeper-rates-of-cognitive-decline.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220622/Study-Glaucoma-diagnosis-not-associated-with-steeper-rates-of-cognitive-decline.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Geriatrics-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-data-connectivity-services-play-a-vital-role-of-business-growth.md",
-      "title": "Data Connectivity Services Play a Vital Role of Business Growth",
-      "excerpt": "Data Connectivity Services Play a Vital Role of Business Growth. FinancialBuzz.com News Commentary. NEW YORK, June 22, 2022 /PRNewswire/ -- The 5G infrastructure is rapidly growin",
-      "sourceUrl": null,
-      "webUrl": "https://www.mobilitytechzone.com/broadband-stimulus/news/2022/06/22/9626501.htm",
-      "originalUrl": "https://www.mobilitytechzone.com/broadband-stimulus/news/2022/06/22/9626501.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg",
-          "width": 1577,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobility Techzone",
-        "domain": "mobilitytechzone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation.md",
-      "title": "Panasas Joins MLCommons to Advance Machine Learning Storage Innovation",
-      "excerpt": "Panasas®, the data engine for innovation, today announced its collaboration with MLCommons ™, the consortium behind MLPerf™, to create industry-wide benchmarks for machine learning (ML) storage. Panasas will work with MLCommons to help steer these benchmarks by establishing best practices for measuring ML storage performance and ultimately helping to develop the next generation storage systems for AI/ML.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-e2b8f65083de4d67800a7ed5fd8dbc5e",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-e2b8f65083de4d67800a7ed5fd8dbc5e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-palantir-stock-gets-a-buy-rating-at-bank-of-america-as-analysts-see-nearly-50-upside-on-the-firms-dominant-position-in-the-ai-market.md",
-      "title": "Palantir stock gets a 'buy' rating at Bank of America as analysts see nearly 50% upside on the firm's 'dominant' position in the AI market",
-      "excerpt": "Palantir has stated that it expects increased national security spending in the wake of the Russia-Ukraine conflict to help drive future growth.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/palantir-stock-price-bank-of-america-buy-dominant-ai-security-2022-6",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/palantir-stock-price-bank-of-america-buy-dominant-ai-security-2022-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/62b3338ec38f470019c6be93?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/palantir-stock-price-bank-of-america-buy-dominant-ai-security-2022-6?amp",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/palantir-stock-price-bank-of-america-buy-dominant-ai-security-2022-6?amp",
-      "publishedDateTime": "2022-06-22T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-giving-ai-cars-a-memory-may-help-navigate-challenging-conditions.md",
-      "title": "Giving AI Cars a \"Memory\" May Help Navigate Challenging Conditions",
-      "excerpt": "Cars using artificial neural networks have no memory of the past and are in a constant state of seeing the world for the first time – no matter how many times they’ve driven down a particular road before. The researchers have produced three concurrent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/neuroscience/news/giving-ai-cars-a-memory-may-help-navigate-challenging-conditions-362901",
-      "originalUrl": "https://www.technologynetworks.com/neuroscience/news/giving-ai-cars-a-memory-may-help-navigate-challenging-conditions-362901",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/362901/giving-ai-cars-a-memory-may-help-navigate-challenging-conditions-362901-640x360.jpg?cb=20220622",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-welcome-aboard-this-is-a-driverless-train-unions-begin-their-own-demise.md",
-      "title": "Welcome aboard, this is a driverless train: unions begin their own demise",
-      "excerpt": "London ground to a standstill yesterday as transport workers began a series of strike action As the summer sun makes the UK feel like a Mediterranean resort, we are also about to see the perils of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cityam.com/welcome-aboard-this-is-a-driverless-train-unions-begin-their-own-demise/",
-      "originalUrl": "https://www.cityam.com/welcome-aboard-this-is-a-driverless-train-unions-begin-their-own-demise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cityam.com/wp-content/uploads/2022/05/GettyImages-1239070358.jpg",
-          "width": 594,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cityam.com/welcome-aboard-this-is-a-driverless-train-unions-begin-their-own-demise/?amp=1",
-      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/welcome-aboard-this-is-a-driverless-train-unions-begin-their-own-demise/?amp=1",
-      "publishedDateTime": "2022-06-22T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-human-like-eye-movements-improve-object-recognition-in-machine-vision-video.md",
-      "title": "Human-like eye movements improve object recognition in machine vision (VIDEO)",
-      "excerpt": "A self-driving car uses human-like saccadic eye movements and correctly identifies a stop sign in time to stop.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/multimedia/939334",
-      "originalUrl": "https://www.eurekalert.org/multimedia/939334",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-qualcomm-unveils-ai-stack-portfolio-to-unify-mobile-car-iot-and-other-devices.md",
-      "title": "Qualcomm unveils 'AI Stack' portfolio to unify mobile, car, IoT and other devices",
-      "excerpt": "Qualcomm says the new version of its technology eases portability of machine learning models across the plethora of hardware offered by itself and its customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/qualcomm-unveils-ai-stack-portfolio-to-unify-mobile-car-iot-and-other-devices/",
-      "originalUrl": "https://www.zdnet.com/article/qualcomm-unveils-ai-stack-portfolio-to-unify-mobile-car-iot-and-other-devices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ea097126a1829a1d8e65a5940a6239fca8c80705/2022/06/22/c621399a-264e-4684-a8f5-33f6558a2ace/ai-stack-hero-image.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/qualcomm-unveils-ai-stack-portfolio-to-unify-mobile-car-iot-and-other-devices/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomm-unveils-ai-stack-portfolio-to-unify-mobile-car-iot-and-other-devices/",
-      "publishedDateTime": "2022-06-22T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul.md",
-      "title": "Microsoft limits access to facial recognition tool in AI ethics overhaul",
-      "excerpt": "Company also restricts use of custom neural voice technology owing to deepfake concerns Microsoft is overhauling its artificial intelligence ethics policies and will no longer let companies use its technology to do things such as infer emotion, gender or ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul?amp;amp;amp",
-      "originalUrl": "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul?amp;amp;amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Computer Vision",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-sinequa-adds-industry-leading-neural-search-capabilities-to-its-search-cloud-platform.md",
-      "title": "Sinequa Adds Industry-Leading Neural Search Capabilities to its Search Cloud Platform",
-      "excerpt": "Sinequa customers gain unprecedented search relevance, accuracy at scale, with the industry's most comprehensive native neural search for enterprise use Enterprise search leader Sinequa today announce",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/b27814214/sinequa-adds-industry-leading-neural-search-capabilities-to-its-search-cloud-platform",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/b27814214/sinequa-adds-industry-leading-neural-search-capabilities-to-its-search-cloud-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-qualcomm-launches-unified-ai-stack-for-cloud-to-edge-intelligence.md",
-      "title": "Qualcomm Launches Unified AI Stack For Cloud To Edge Intelligence",
-      "excerpt": "The new Qualcomm AI Stack lays the foundation for domain-specific SDK’s . While advances in AI accelerators have improved silicon performance by over a thousand-fold, it’s sof",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/06/22/qualcomm-launches-unified-ai-stack-for-cloud-to-edge-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/06/22/qualcomm-launches-unified-ai-stack-for-cloud-to-edge-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62ab51cdac057dbfb68819cd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/06/22/qualcomm-launches-unified-ai-stack-for-cloud-to-edge-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/06/22/qualcomm-launches-unified-ai-stack-for-cloud-to-edge-intelligence/amp/",
-      "publishedDateTime": "2022-06-22T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-sanas-raises-32m-for-breakthrough-ai-technology-for-real-time-accent-translation.md",
-      "title": "Sanas Raises $32M for Breakthrough AI Technology for Real-Time Accent Translation",
-      "excerpt": "Record Series A Round Will Be Used to Further Develop the AI-based Technology and Expand Business Within the U.S. and AbroadPALO ALTO, Calif.,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sanas-raises-32m-for-breakthrough-ai-technology-for-real-time-accent-translation-1031543312",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sanas-raises-32m-for-breakthrough-ai-technology-for-real-time-accent-translation-1031543312",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-ikea-rolls-out-an-ai-powered-interactive-design-experience-for-shoppers.md",
-      "title": "IKEA rolls out an AI-powered interactive design experience for shoppers",
-      "excerpt": "IKEA is launching a new AI-driven interactive design experience called IKEA Kreativ for IKEA.com and the IKEA app. With the new feature, U.S. customers can design and visualize their own living spaces with digitalized furniture on their smartphones instead of traveling to the",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/22/ikea-rolls-out-an-ai-powered-interactive-design-experience-for-shoppers/",
-      "originalUrl": "https://techcrunch.com/2022/06/22/ikea-rolls-out-an-ai-powered-interactive-design-experience-for-shoppers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Screen-Shot-2022-06-13-at-4.35.24-PM.png?w=1024",
-          "width": 1024,
-          "height": 566,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/22/ikea-rolls-out-an-ai-powered-interactive-design-experience-for-shoppers/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/22/ikea-rolls-out-an-ai-powered-interactive-design-experience-for-shoppers/amp/",
-      "publishedDateTime": "2022-06-22T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-despite-iqiyi-denial-is-baidu-set-to-roll-credits-on-its-video-affiliate.md",
-      "title": "Despite iQiyi Denial, Is Baidu Set to Roll Credits on Its Video Affiliate?",
-      "excerpt": "But it could make sense for Baidu to divest from video streaming to sharpen its focus on cloud services, AI and self-driving products Online streaming service iQiyi swiftly denied the report as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/markets/penny-stocks/22/06/27813279/despite-iqiyi-denial-is-baidu-set-to-roll-credits-on-its-video-affiliate",
-      "originalUrl": "https://www.benzinga.com/markets/penny-stocks/22/06/27813279/despite-iqiyi-denial-is-baidu-set-to-roll-credits-on-its-video-affiliate",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/iqiyi.jpg?width=1200&height=800&fit=crop",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27813279",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27813279",
-      "publishedDateTime": "2022-06-22T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

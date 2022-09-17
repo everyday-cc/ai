@@ -2,6 +2,574 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2022-08-18-mubadala-backed-ai-firm-g42-sets-up-10-bln-tech-fund.md",
+      "title": "Mubadala-backed AI firm G42 sets up $10 bln tech fund",
+      "excerpt": "Emirati artificial intelligence firm G42, chaired by the Gulf state's national security advisor, on Thursday launched a $10 billion fund to invest in late-stage technology companies. DUBAI, Aug 18 (Reuters) - Emirati artificial intelligence firm G42,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/mubadala-backed-ai-firm-g42-sets-up-%2410-bln-tech-fund",
+      "originalUrl": "https://www.nasdaq.com/articles/mubadala-backed-ai-firm-g42-sets-up-%2410-bln-tech-fund",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/mubadala-backed-ai-firm-g42-sets-up-$10-bln-tech-fund?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/mubadala-backed-ai-firm-g42-sets-up-$10-bln-tech-fund?amp",
+      "publishedDateTime": "2022-08-18T00:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-artificial-intelligence-could-make-our-food-safer-but-at-what-cost.md",
+      "title": "Artificial intelligence could make our food safer — but at what cost?",
+      "excerpt": "But according to a new study by Yada and his colleagues, these serious or fatal incidents could soon be a thing of the past with the employment of artificial intelligence (AI) in food production. Currently, the study explains, most food safety errors are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.burnabynow.com/highlights/artificial-intelligence-could-make-our-food-safer-but-at-what-cost-5709691",
+      "originalUrl": "https://www.burnabynow.com/highlights/artificial-intelligence-could-make-our-food-safer-but-at-what-cost-5709691",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.vmcdn.ca/f/files/glaciermedia/images/getty-images/potatochipproduction.jpg;w=1200;h=800;mode=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-18T00:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Burnaby Now",
+        "domain": "burnabynow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-critical-analysis-baidu-nasdaqbidu-and-grom-social-enterprises-nasdaqgrom.md",
+      "title": "Critical Analysis: Baidu (NASDAQ:BIDU) and Grom Social Enterprises (NASDAQ:GROM)",
+      "excerpt": "Grom Social Enterprises (NASDAQ:GROM – Get Rating) and Baidu (NASDAQ:BIDU – Get Rating) are both computer and technology companies, but which is the superior business? We will compare the two companies based on the strength of their risk,",
+      "sourceUrl": null,
+      "webUrl": "https://www.defenseworld.net/2022/08/18/critical-analysis-baidu-nasdaqbidu-and-grom-social-enterprises-nasdaqgrom.html",
+      "originalUrl": "https://www.defenseworld.net/2022/08/18/critical-analysis-baidu-nasdaqbidu-and-grom-social-enterprises-nasdaqgrom.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T23:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Defense World",
+        "domain": "defenseworld.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-ceat-ltd-digitally-transforms-with-aws-iot-and-analytics.md",
+      "title": "CEAT LTD Digitally Transforms with AWS IoT and Analytics",
+      "excerpt": "Indian tyre manufacturer reduces time to market of innovative new digital initiatives, takes infrastructure deployment from two months to 12 hours, and makes driving safer and smarter with AWS Amazon Web Services (AWS),",
+      "sourceUrl": null,
+      "webUrl": "https://technosports.co.in/2022/08/18/ceat-ltd-digitally-transforms-aws/",
+      "originalUrl": "https://technosports.co.in/2022/08/18/ceat-ltd-digitally-transforms-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://technosports.co.in/wp-content/uploads/2020/06/AWS-1024x649.jpg",
+          "width": 1024,
+          "height": 649,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T21:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechnoSports",
+        "domain": "technosports.co.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-amazon-testing-new-tiktok-style-feature-on-its-app-ai-firm-says.md",
+      "title": "Amazon testing new TikTok-style feature on its app, AI firm says",
+      "excerpt": "The feature, called Inspire, allows customers to like, save and share posts of products, and purchase items directly from the feed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.whas11.com/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049",
+      "originalUrl": "https://www.whas11.com/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.whas11.com/assets/CCT/images/e3e15506-7b16-49cb-8cc1-aff6d305ea71/e3e15506-7b16-49cb-8cc1-aff6d305ea71_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.whas11.com/amp/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049",
+      "cdnAmpWebUrl": "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049",
+      "publishedDateTime": "2022-08-17T20:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WHAS11 News",
+        "domain": "whas11.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-russian-military-to-develop-weapons-using-artificial-intelligence.md",
+      "title": "Russian military to develop weapons using artificial intelligence",
+      "excerpt": "Russia said created a department for developing AI weapons. The program could serve to counter the Pentagon’s newly formed AI authority.",
+      "sourceUrl": null,
+      "webUrl": "https://www.defensenews.com/artificial-intelligence/2022/08/17/russia-military-to-develop-weapons-using-artificial-intelligence/?amp;amp",
+      "originalUrl": "https://www.defensenews.com/artificial-intelligence/2022/08/17/russia-military-to-develop-weapons-using-artificial-intelligence/?amp;amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.defensenews.com/resizer/_rde8-COgWmH1TbZjOSwz89PbVA=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/42I76S76MFE2RN5JSNIER6RHIU.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T17:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Defense News",
+        "domain": "defensenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-aws-announced-tiered-pricing-for-its-serverless-offering-lambda.md",
+      "title": "AWS Announced Tiered Pricing for Its Serverless Offering Lambda",
+      "excerpt": "Recently, AWS announced tiered pricing for Lambda, a serverless, event-driven compute service allowing developers to run their code for virtually any application or backend service without ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2022/08/aws-lambda-tiered-pricing/",
+      "originalUrl": "https://www.infoq.com/news/2022/08/aws-lambda-tiered-pricing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2022/08/aws-lambda-tiered-pricing/en/headerimage/generatedHeaderImage-1659810608401.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-cognitive-services-market-size-share-industry-trends-analysis-report-by-equipment-by-application-by-regional-outlook-and-forecast-2022-.md",
+      "title": "Cognitive Services Market Size, Share & Industry Trends Analysis Report by Equipment, by Application, by Regional Outlook and Forecast 2022 – 2026",
+      "excerpt": "Aug 18, 2022 (The Expresswire) -- The Latest research study released by expert “Global Cognitive Services Market” with analysis on business Strategy taken up by key and emerging industry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-size-share-industry-trends-analysis-report-by-equipment-by-application-by-regional-outlook-and-forecast-2022-2026-2022-08-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-size-share-industry-trends-analysis-report-by-equipment-by-application-by-regional-outlook-and-forecast-2022-2026-2022-08-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-computer-vision-ip-listing.md",
+      "title": "Computer vision IP Listing",
+      "excerpt": "CEVA-XM6 is the 5th generation imaging and computer vision processor IP from CEVA, designed to bring deep learning and artificial intelligence capabilities to low-power embedded systems, targeting ... NeuPro-S™ is a low power AI processor architecture ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.design-reuse.com/sip/?q=computer+vision",
+      "originalUrl": "https://www.design-reuse.com/sip/?q=computer+vision",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-discovering-when-an-agent-is-present-in-a-system.md",
+      "title": "Discovering when an agent is present in a system",
+      "excerpt": "We want to build safe, aligned artificial general intelligence (AGI) systems that pursue the intended goals of its designers. Causal influence diagrams (CIDs) are a way to model decision-making situations that allow us to reason about agent incentives. By relating training setups to the incentives that",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/discovering-when-an-agent-is-present-in-a-system",
+      "originalUrl": "https://www.deepmind.com/blog/discovering-when-an-agent-is-present-in-a-system",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62fe436b27ff91584631343b_X2e5np_pjgn4n_V6ncNi4z22-oe0Ti9QTXiwgISZRqdNbgk_9EYTiMYhf799hpk6_-BhqP7MRebeIPo9GdAfZF9ntAJOy6pQnrTvSx2e72qVLzvpbldHZ51SShyWbBDopG5VEfKIV8sjBmcflHmD1OxwqyHMCTvyRg_xzMAYujIF5qIiU8yvX-9brd0.png",
+          "width": 1400,
+          "height": 554,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-no-one-size-fits-all-artificial-intelligence-approach-works-for-prevention-diagnosis-or-treatment-using-precision-medicine.md",
+      "title": "No one-size-fits-all artificial intelligence approach works for prevention, diagnosis or treatment using precision medicine",
+      "excerpt": "A Rutgers analysis of dozens of artificial intelligence (AI) software programs used in precision, or personalized, medicine to prevent, diagnose and treat disease found that no program exists that can be used for all treatments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/962274",
+      "originalUrl": "https://www.eurekalert.org/news-releases/962274",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-unprecedented-ai-chip-could-revolutionise-artificial-intelligence.md",
+      "title": "‘Unprecedented’ AI chip could revolutionise artificial intelligence",
+      "excerpt": "The system should allow increasingly complex artificial intelligence to live on chips themselves, without having to send information to the cloud. At the moment, most applications of AI are not ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/tech/ai-artificial-intelligence-chip-memory-ram-b2146974.html",
+      "originalUrl": "https://www.independent.co.uk/tech/ai-artificial-intelligence-chip-memory-ram-b2146974.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2022/08/17/16/Low-Res_UCSD-JacobsSchool-20220815-Cauwenberghs-NeuRRam-00621-e-8MP.jpg.png?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.co.uk/tech/ai-artificial-intelligence-chip-memory-ram-b2146974.html",
+      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/tech/ai-artificial-intelligence-chip-memory-ram-b2146974.html",
+      "publishedDateTime": "2022-08-17T15:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-pm-to-visit-torres-strait-for-voice-talks.md",
+      "title": "PM to visit Torres Strait for voice talks",
+      "excerpt": "Prime Minister Anthony Albanese will meet Indigenous elders on a visit to the Torres Strait for talks on what form a voice to parliament would look like.",
+      "sourceUrl": null,
+      "webUrl": "https://thenewdaily.com.au/news/indigenous-news/2022/08/18/anthony-albanese-torres-strait/",
+      "originalUrl": "https://thenewdaily.com.au/news/indigenous-news/2022/08/18/anthony-albanese-torres-strait/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thenewdaily.com.au/wp-content/uploads/2022/07/1659093904-albanese-NT.png?resize=834%2C540",
+          "width": 834,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenewdaily.com.au/news/indigenous-news/2022/08/18/anthony-albanese-torres-strait/amp/",
+      "cdnAmpWebUrl": "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/indigenous-news/2022/08/18/anthony-albanese-torres-strait/amp/",
+      "publishedDateTime": "2022-08-17T15:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Daily",
+        "domain": "thenewdaily.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-natural-language-processing-nlp-market-trends-size-share-growth-industry-analysis-advance-technology-and-forecast-2027.md",
+      "title": "Natural Language Processing (NLP) Market Trends, Size, Share, Growth, Industry Analysis, Advance Technology and Forecast 2027",
+      "excerpt": "Natural Language Processing (NLP) Market by Component (Solutions & Services), Application (Sentiment Analysis, Social Media Monitoring), Technology (IVR, OCR, Auto Coding), Vertical (BFSI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/08/ab28542958/natural-language-processing-nlp-market-trends-size-share-growth-industry-analysis-advance-technol",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/08/ab28542958/natural-language-processing-nlp-market-trends-size-share-growth-industry-analysis-advance-technol",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28542958",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28542958",
+      "publishedDateTime": "2022-08-17T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-18-lyft-launches-autonomous-vehicle-in-las-vegas-with-plans-to-expand-heres-what-riders-can-expect.md",
       "title": "Lyft launches autonomous vehicle in Las Vegas with plans to expand: Here’s what riders can expect",
       "excerpt": "STATEN ISLAND, N.Y. -- One of the country’s largest e-hail companies is one step closer to offering driverless rides in cities across the United States. On Tuesday, Lyft and Motional ...",
@@ -514,628 +1082,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-elon-musk-unveils-tesla-robot-says-it-will-perform-boring-chores-by-years-end.md",
-      "title": "Elon Musk unveils Tesla robot, says it will perform ‘boring’ chores by year’s end",
-      "excerpt": "Standing at around 5 feet 8 inches, Musk’s Tesla Bot aims to gradually remove “boring” responsibilities from the hands of mere mortals who are gutsy enough to welcome a robot into the",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2022/08/17/elon-musk-unveils-tesla-robot-says-it-will-perform-boring-chores-by-years-end/",
-      "originalUrl": "https://nypost.com/2022/08/17/elon-musk-unveils-tesla-robot-says-it-will-perform-boring-chores-by-years-end/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/08/elon-robot.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2022/08/17/elon-musk-unveils-tesla-robot-says-it-will-perform-boring-chores-by-years-end/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/08/17/elon-musk-unveils-tesla-robot-says-it-will-perform-boring-chores-by-years-end/amp/",
-      "publishedDateTime": "2022-08-17T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-what-8-analyst-ratings-have-to-say-about-c3ai.md",
-      "title": "What 8 Analyst Ratings Have To Say About C3.ai",
-      "excerpt": "Analysts have provided the following ratings for C3.ai (NYSE:AI) within the last quarter: In the last 3 months, 8 analysts have offered 12-month price targets for C3.ai. The company has an average price target of $18.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/what-8-analyst-ratings-have-to-say-about-c3-ai-1031690797",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/what-8-analyst-ratings-have-to-say-about-c3-ai-1031690797",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2022/analyst_ratings_image_25245.jpeg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-kardome-expands-voice-technology-offerings.md",
-      "title": "Kardome Expands Voice Technology Offerings",
-      "excerpt": "Tel Aviv, Israel - Newsfile Corp. - August 17, 2022 - Kardome, a leading provider of speech recognition enhancement solutions for ASR systems, today announced the expansion of its offerings with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/kardome-expands-voice-technology-offerings",
-      "originalUrl": "https://www.asiaone.com/business/kardome-expands-voice-technology-offerings",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Aug2022/8225_0.jpg?h=bde28bee&itok=Myedg5-4",
-          "width": 600,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-when-ai-meets-fintech-discover-more-about-the-match-made-in-heaven.md",
-      "title": "When AI Meets Fintech : Discover More About the Match Made in Heaven!",
-      "excerpt": "Unsurprisingly, the entire credit goes to the fintech industry, and the market is booming. Indeed, the pandemic posed a challenge in front of businesses, which fortunately led to a better understanding of technologies and adoption of the same.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/when-ai-meets-fintech-discover-more-about-the-match-made-in-heaven-2022-08-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/when-ai-meets-fintech-discover-more-about-the-match-made-in-heaven-2022-08-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-supersonic-commercial-flights-driverless-electric-ride-shares-and-adidas-solar-powered-headphones.md",
-      "title": "Supersonic commercial flights, driverless electric ride-shares, and Adidas solar powered headphones",
-      "excerpt": "Lyft and car company Motional are rolling out a new fleet of driverless electric vehicles ... can be charged with any light source, natural or artificial and they provide 80 hours of playback ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wdio.com/good-morning-northland/tech-bytes-supersonic-commercial-flights/",
-      "originalUrl": "https://www.wdio.com/good-morning-northland/tech-bytes-supersonic-commercial-flights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wdio.com/wp-content/uploads/akta/4ADEBD2FC0DA52C137CA38747F15A947.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WDIO",
-        "domain": "wdio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-aws-adds-coding-assistant-codewhisperer-to-lambda-console.md",
-      "title": "AWS Adds Coding Assistant CodeWhisperer to Lambda Console",
-      "excerpt": "AWS recently announced the preview of Amazon CodeWhisperer in the AWS Lambda console. Available as a native code suggestion feature in the code editor, the new functionality of the coding assistant ca",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/08/aws-lambda-codewhisperer/",
-      "originalUrl": "https://www.infoq.com/news/2022/08/aws-lambda-codewhisperer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2022/08/aws-lambda-codewhisperer/en/headerimage/generatedHeaderImage-1660375625903.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-auditoriaal-tops-the-constellation-shortlist-of-ai-driven-cognitive-applications-for-the-third-year-in-a-row.md",
-      "title": "Auditoria.Al Tops the Constellation ShortList of AI-Driven Cognitive Applications for the Third Year in a Row",
-      "excerpt": "As an AI-driven Cognitive ... such as Microsoft 365 and Google Workspace. Constellation Research advises leaders on leveraging disruptive technologies to achieve business model transformation and streamline business processes. Products and services named ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/accesswire/technology-35e1a35b4d51cf0c419354ba1a459f27",
-      "originalUrl": "https://apnews.com/press-release/accesswire/technology-35e1a35b4d51cf0c419354ba1a459f27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-tech-bytes-lyft-launching-driverless-fleet.md",
-      "title": "Tech Bytes: Lyft launching driverless fleet",
-      "excerpt": "Lyft and car company Motional are rolling out a new fleet of driverless electric vehicles ... be charged with any light source — natural or artificial — and they provide 80 hours of playback ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-lyft-launching-driverless-fleet/",
-      "originalUrl": "https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-lyft-launching-driverless-fleet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.abc27.com/wp-content/uploads/sites/55/2022/05/AP_827812619956_1540634580368_60320023_ver1.0.jpg?w=1280",
-          "width": 876,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-lyft-launching-driverless-fleet/amp/",
-      "cdnAmpWebUrl": "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-lyft-launching-driverless-fleet/amp/",
-      "publishedDateTime": "2022-08-17T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "abc27",
-        "domain": "abc27.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-this-auto-emptying-robot-vacuum-and-mop-offers-hands-free-house-cleaning.md",
-      "title": "This Auto-Emptying Robot Vacuum And Mop Offers Hands-Free House Cleaning",
-      "excerpt": "If you’ve been thinking of purchasing a robot vacuum to help you out with household chores, you might consider Amazon’s deal on the Dreametech D10 Plus Robot Vacuum, which operates as both a smart vacuum and mop.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ktnv.com/auto-emptying-smart-robot-vacuum-mop-dreame",
-      "originalUrl": "https://www.ktnv.com/auto-emptying-smart-robot-vacuum-mop-dreame",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/5b2e032/2147483647/strip/true/crop/500x281+0+26/resize/1280x720!/quality/90/?url=https%3A%2F%2Fwww.simplemost.com%2Fwp-content%2Fuploads%2F2022%2F08%2Famazon-vac-500x333.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ktnv.com/auto-emptying-smart-robot-vacuum-mop-dreame?_amp=true",
-      "cdnAmpWebUrl": "https://www-ktnv-com.cdn.ampproject.org/c/s/www.ktnv.com/auto-emptying-smart-robot-vacuum-mop-dreame?_amp=true",
-      "publishedDateTime": "2022-08-17T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTNV Las Vegas",
-        "domain": "ktnv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-new-neuromorphic-chip-for-ai-on-the-edge-at-a-small-fraction-of-the-energy-and-size-of-todays-computing-platforms.md",
-      "title": "New neuromorphic chip for AI on the edge, at a small fraction of the energy and size of today's computing platforms",
-      "excerpt": "An international team of researchers has designed and built a chip that runs computations directly in memory and can run a wide variety of AI applications–all at a fraction of the energy consumed by computing platforms for general-purpose AI computing.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.html",
-      "originalUrl": "https://techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/a-new-neuromorphic-chi.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.amp",
-      "publishedDateTime": "2022-08-17T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-marketers-can-harness-the-of-power-machine-translation-to-localise-their-websites-and-multilingual-campaigns-says-weglot.md",
-      "title": "MARKETERS CAN HARNESS THE OF POWER MACHINE TRANSLATION TO LOCALISE THEIR WEBSITES AND MULTILINGUAL CAMPAIGNS SAYS WEGLOT",
-      "excerpt": "MARKETERS CAN HARNESS THE OF POWER MACHINE TRANSLATION TO LOCALISE THEIR WEBSITES AND MULTILINGUAL CAMPAIGNS SAYS WEGLOT Aug (PRNewswire via",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/marketers-can-harness-the-of-power-machine-translation-to-localise-their-websites-and-multilingual-campaigns-says-weglot-2022-08-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/marketers-can-harness-the-of-power-machine-translation-to-localise-their-websites-and-multilingual-campaigns-says-weglot-2022-08-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-best-practices-for-building-machine-learning-platforms-on-the-cloud.md",
-      "title": "Best practices for building machine learning platforms on the cloud",
-      "excerpt": "By combining cloud-native platforms with data at scale, companies can better advance and experiment with newer, more innovative products.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/best-practices-for-building-machine-learning-platforms-on-the-cloud/",
-      "originalUrl": "https://venturebeat.com/ai/best-practices-for-building-machine-learning-platforms-on-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1214403575.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/best-practices-for-building-machine-learning-platforms-on-the-cloud/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/best-practices-for-building-machine-learning-platforms-on-the-cloud/amp/",
-      "publishedDateTime": "2022-08-17T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-top-4-ai-based-face-recognition-applications.md",
-      "title": "Top 4 AI-based Face Recognition Applications",
-      "excerpt": "Besides mobile face recognition, voice recognition is also used to enhance security. The user’s voice and face work as a password and is like the biometric key to unlocking all the apps. AppLock amalgamates the speaker and face recognition technology to ...",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/top-4-ai-based-face-recognition-applications/",
-      "originalUrl": "https://techbullion.com/top-4-ai-based-face-recognition-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2022/08/Some-popular-face-recognition-apps.jpg",
-          "width": 918,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/top-4-ai-based-face-recognition-applications/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/top-4-ai-based-face-recognition-applications/amp/",
-      "publishedDateTime": "2022-08-17T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-syncwords-announces-new-syncwords-offline-with-human-translations-and-ai-dubbing.md",
-      "title": "SyncWords Announces New \"SyncWords Offline\" with Human Translations and AI Dubbing",
-      "excerpt": "SyncWords, the leading live captioning and translation services provider is thrilled to announce SyncWords Offline, which includes human translation services and AI dubbing (the process of translating and re-creating the voice used in videos from a source to a target language,",
-      "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=13168",
-      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=13168",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

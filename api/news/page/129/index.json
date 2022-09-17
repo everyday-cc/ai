@@ -2,6 +2,641 @@
   "page": 129,
   "value": [
     {
+      "path": "_news/2022-06-06-finish-robotics-brings-robotic-painting-to-life.md",
+      "title": "Finish Robotics Brings Robotic Painting To Life",
+      "excerpt": "Finish Robotics Brings Robotic Painting To Life . Finish Robotics brings factory-level automation and productivity to the construction site. Pittsburgh, PA – Fini",
+      "sourceUrl": null,
+      "webUrl": "https://www.constructiondive.com/press-release/20220603-finish-robotics-brings-robotic-painting-to-life/",
+      "originalUrl": "https://www.constructiondive.com/press-release/20220603-finish-robotics-brings-robotic-painting-to-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://res.cloudinary.com/dmgi9movl/image/upload/v1654277575/press_release/assets/header_images/Finish_Robotics_Primary_Blue_Black_6_pcs8hf.png",
+          "width": 1500,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Construction Dive",
+        "domain": "constructiondive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-self-captaining-ships-start-their-mutiny.md",
+      "title": "Self-Captaining Ships Start Their Mutiny",
+      "excerpt": "The unmanned \"Mayflower\" made landfall in Canada and Hyundai's autonomous tanker vessel completed its first cross-ocean voyage.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/ai-autonomous-ship-mayflower-hyundai-1849022316",
+      "originalUrl": "https://gizmodo.com/ai-autonomous-ship-mayflower-hyundai-1849022316",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/658e3f0fca820bdf112e22bd811e16dc.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/ai-autonomous-ship-mayflower-hyundai-1849022316/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ai-autonomous-ship-mayflower-hyundai-1849022316/amp",
+      "publishedDateTime": "2022-06-06T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-alethea-launches-fusion-to-combine-nfts-ai-characters-and-games.md",
+      "title": "Alethea launches Fusion to combine NFTs, AI characters, and games",
+      "excerpt": "Interested in learning what's next for the gaming industry? Join gaming executives to discuss emerging parts of the industry this October at GamesBeat Summit Next. Learn more. Alethea AI is launching Fusion,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/06/alethea-launches-fusion-to-combine-nfts-ai-characters-and-games/",
+      "originalUrl": "https://venturebeat.com/2022/06/06/alethea-launches-fusion-to-combine-nfts-ai-characters-and-games/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/alethea-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/06/alethea-launches-fusion-to-combine-nfts-ai-characters-and-games/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/06/alethea-launches-fusion-to-combine-nfts-ai-characters-and-games/amp/",
+      "publishedDateTime": "2022-06-06T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-stem-toys-that-promote-cognitive-skills-critical-thinking.md",
+      "title": "STEM toys that promote cognitive skills, critical thinking",
+      "excerpt": "Toy expert and speech-language pathologist, Erika Cardamone, joins Real Milwaukee from PlayOnWords.com to share awesome STEM Toys that promote cognitive skills, problem-solving, and critical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox6now.com/news/stem-toys-that-promote-cognitive-skills",
+      "originalUrl": "https://www.fox6now.com/news/stem-toys-that-promote-cognitive-skills",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox6now.com/news/stem-toys-that-promote-cognitive-skills.amp",
+      "cdnAmpWebUrl": "https://www-fox6now-com.cdn.ampproject.org/c/s/www.fox6now.com/news/stem-toys-that-promote-cognitive-skills.amp",
+      "publishedDateTime": "2022-06-06T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX6 Milwaukee",
+        "domain": "fox6now.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-sophia-genetics-provides-an-update-on-its-deep-lung-iv-multimodal-clinical-study-at-asco-2022.md",
+      "title": "SOPHiA GENETICS Provides an Update on its DEEP-Lung-IV Multimodal Clinical Study at ASCO 2022",
+      "excerpt": "Study leverages deep learning-enabled analysis of the aggregation of real-world multimodal data to validate predictive signatures associated with response to immunotherapy and prognosis of patients with stage IV non-small cell lung cancer Nearly 20 participating sites activated worldwide with over 500 patients recruited to date.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/science-technology-health-genetics-30c5c3050ef0123d9b9e8cf161803797",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/science-technology-health-genetics-30c5c3050ef0123d9b9e8cf161803797",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-thermo-fisher-scientific-showcases-solutions-for-accelerating-next-generation-vaccine-and-therapy-research.md",
+      "title": "Thermo Fisher Scientific Showcases Solutions for Accelerating Next Generation Vaccine and Therapy Research",
+      "excerpt": "Thermo Fisher Scientific Inc. is showcasing new instruments, workflows, software and industry collaborations that enable customers to generate new analytical insights and accelerate next generation vaccine and therapy development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/vaccines/product-news/thermo-fisher-scientific-showcases-solutions-for-accelerating-next-generation-vaccine-and-therapy-362268",
+      "originalUrl": "https://www.technologynetworks.com/vaccines/product-news/thermo-fisher-scientific-showcases-solutions-for-accelerating-next-generation-vaccine-and-therapy-362268",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/362268/thermo-fisher-scientific-showcases-solutions-for-accelerating-next-generation-vaccine-and-therapy-362268-480x270.jpg?cb=11797389",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-how-ai-helps-coca-cola-boost-supply-chain-procurement.md",
+      "title": "How AI helps Coca-Cola boost supply chain procurement",
+      "excerpt": "Artificial intelligence and machine learning tools have become indispensable in order to boost procurement and sourcing efforts at Coca-Cola and other enterprise companies.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/06/how-ai-helps-coca-cola-boost-supply-chain-procurement/",
+      "originalUrl": "https://venturebeat.com/2022/06/06/how-ai-helps-coca-cola-boost-supply-chain-procurement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/coke_supply_chain.jpg?fit=800%2C600&strip=all",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/06/how-ai-helps-coca-cola-boost-supply-chain-procurement/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/06/how-ai-helps-coca-cola-boost-supply-chain-procurement/amp/",
+      "publishedDateTime": "2022-06-06T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-cool-cutting-edge-ai-videos-will-change-how-companies-communicate-with-their-workers.md",
+      "title": "Cool, Cutting-Edge AI Videos Will Change How Companies Communicate With Their Workers",
+      "excerpt": "D-ID is launching a new platform that produces uniquely personalized and engaging e-learning, corporate training and marketing AI video content.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackkelly/2022/06/06/cool-cutting-edge-ai-videos-will-change-how-companies-communicate-with-their-workers/",
+      "originalUrl": "https://www.forbes.com/sites/jackkelly/2022/06/06/cool-cutting-edge-ai-videos-will-change-how-companies-communicate-with-their-workers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//617c1ef97d3ecf82b2fcf7db/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2022/06/06/cool-cutting-edge-ai-videos-will-change-how-companies-communicate-with-their-workers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2022/06/06/cool-cutting-edge-ai-videos-will-change-how-companies-communicate-with-their-workers/amp/",
+      "publishedDateTime": "2022-06-06T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-kawasaki-robotics-teams-with-realtime-robotics-to-automate-the-programming-deployment-and-control-of-its-industrial-robots.md",
+      "title": "Kawasaki Robotics Teams with Realtime Robotics to Automate the Programming, Deployment and Control of its Industrial Robots",
+      "excerpt": "RapidPlan helps manufacturers have peace of mind in a high ... was one of the first robot companies to see the potential of combining an advanced Real Time Control API like KRNX with our RapidPlan ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20220606005276/kawasaki-robotics-teams-with-realtime-robotics-to-automate-the-programming-deployment-and-control-of-its-industrial-robots",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20220606005276/kawasaki-robotics-teams-with-realtime-robotics-to-automate-the-programming-deployment-and-control-of-its-industrial-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor.md",
+      "title": "Landing AI Adds New Edge Capabilities to LandingLens to Bring Deep Learning to the Factory Floor",
+      "excerpt": "With LandingEdge, manufacturers will more easily deploy deep learning visual inspection solutions to edge devices on the factory floor to better and more consistently detect product defects.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor-1031510876",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor-1031510876",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-thermo-fisher-scientific-showcases-solutions-for-accelerating-next-generation-vaccine-and-therapy-research-and-unlocking-deeper-analytical-insights.md",
+      "title": "Thermo Fisher Scientific Showcases Solutions for Accelerating Next Generation Vaccine and Therapy Research and Unlocking Deeper Analytical Insights",
+      "excerpt": "For proteomic scientists, Thermo Scientific Proteome Discoverer 3.0 software interprets data from Thermo Scientific Orbitrap mass spectrometers and applies artificial intelligence (AI), giving researchers a faster method to identify and analyze billions of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/thermo-fisher-scientific-showcases-solutions-for-accelerating-next-generation-vaccine-and-therapy-research-and-unlocking/article_e05cd7a9-d5ba-5112-8d8a-523669037733.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/thermo-fisher-scientific-showcases-solutions-for-accelerating-next-generation-vaccine-and-therapy-research-and-unlocking/article_e05cd7a9-d5ba-5112-8d8a-523669037733.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg",
+          "width": 415,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-were-told-ai-neural-networks-learn-the-way-humans-do-a-neuroscientist-explains-why-thats-not-the-case.md",
+      "title": "We’re told AI neural networks ‘learn’ the way humans do. A neuroscientist explains why that’s not the case",
+      "excerpt": "Most recent AI is built from artificial neural networks, or “neural nets” for short. The term “neural” is used because these networks are inspired by the human brain, in which billions of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.canadianmanufacturing.com/features/were-told-ai-neural-networks-learn-the-way-humans-do-a-neuroscientist-explains-why-thats-not-the-case/",
+      "originalUrl": "https://www.canadianmanufacturing.com/features/were-told-ai-neural-networks-learn-the-way-humans-do-a-neuroscientist-explains-why-thats-not-the-case/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.canadianmanufacturing.com/wp-content/uploads/2022/06/Neural_signaling.png",
+          "width": 640,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Canadian Manufacturing",
+        "domain": "canadianmanufacturing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-conversational-ai-trends-forecasts-application-options.md",
+      "title": "Conversational AI: Trends, Forecasts, Application Options",
+      "excerpt": "Text-to-speech dictation and language translation are two ways AI can help with accessibility. This can in turn help companies reduce entry barriers and become more accessible. As can be seen from above, AI chatbots and apps can reduce time and improve ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/06/conversational-ai-trends-forecasts-application-options/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/06/conversational-ai-trends-forecasts-application-options/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//629a305769a5cdb9454fcbbb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/06/conversational-ai-trends-forecasts-application-options/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/06/06/conversational-ai-trends-forecasts-application-options/amp/",
+      "publishedDateTime": "2022-06-06T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-as-the-society-grows-older-will-cognitive-robotics-become-more-relevant-than-ever.md",
+      "title": "As The Society Grows Older, Will Cognitive Robotics Become More Relevant Than Ever?",
+      "excerpt": "Robots can be very relevant in elderly care, offering companionship, assistance in doing mundane tasks, feeding and cleaning the owner and more. They can be preprogrammed with instructions or have a semi or fully automated mode of operation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/06/06/as-the-society-grows-older-will-cognitive-robotics-become-more-relevant-than-ever/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/06/06/as-the-society-grows-older-will-cognitive-robotics-become-more-relevant-than-ever/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//628dce5105c629476f59856e/0x0.png?format=png&width=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/06/06/as-the-society-grows-older-will-cognitive-robotics-become-more-relevant-than-ever/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/06/06/as-the-society-grows-older-will-cognitive-robotics-become-more-relevant-than-ever/amp/",
+      "publishedDateTime": "2022-06-06T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-06-cloud-natural-language-processing-market-2022-industry-size-trends-share-growth-analysis-and-forecast-to-2028.md",
       "title": "Cloud Natural Language Processing Market 2022, Industry Size, Trends, Share, Growth, Analysis and Forecast to 2028",
       "excerpt": "A New Market Study, Titled “Cloud Natural Language Processing Market Upcoming Trends, Growth Drivers and Challenges” has been featured on fusionmarketresearch. This report provides in-depth ...",
@@ -491,644 +1126,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-gut-bacterial-metabolite-promotes-neural-cell-death-leading-to-cognitive-decline.md",
-      "title": "Gut bacterial metabolite promotes neural cell death leading to cognitive decline",
-      "excerpt": "In their paper published in the journal Cell Host & Microbe, the group describes their study of the metabolite isoamylamine (IAA) and its impact on cognitive decline. Prior research has suggested ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-06-gut-bacterial-metabolite-neural-cell.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-06-gut-bacterial-metabolite-neural-cell.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/gut-bacterial-metaboli.jpg",
-          "width": 996,
-          "height": 996,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-06-gut-bacterial-metabolite-neural-cell.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-gut-bacterial-metabolite-neural-cell.amp",
-      "publishedDateTime": "2022-06-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-roadblocks-to-getting-real-time-ai-right.md",
-      "title": "Roadblocks to getting real-time AI right",
-      "excerpt": "Specialized hedge funds and big-name AI players – like Google and Facebook – make use of real ... This makes transitions from research to production expensive and labor-intensive.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/05/roadblocks-to-getting-real-time-ai-right/",
-      "originalUrl": "https://venturebeat.com/2022/06/05/roadblocks-to-getting-real-time-ai-right/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1171820924.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/05/roadblocks-to-getting-real-time-ai-right/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/05/roadblocks-to-getting-real-time-ai-right/amp/",
-      "publishedDateTime": "2022-06-05T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-plasma-nfl-linked-with-cognitive-processing-speed-in-relapsing-ms.md",
-      "title": "Plasma NfL Linked With Cognitive Processing Speed in Relapsing MS",
-      "excerpt": "Plasma neurofilament light (NfL) concentration was tied to cognitive scores in people with relapsing MS, data from the phase III SUNBEAM trial of ozanimod (Zeposia) suggested. A post hoc analysis ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/meetingcoverage/cmsc/99068",
-      "originalUrl": "https://www.medpagetoday.com/meetingcoverage/cmsc/99068",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.medpagetoday.net/media/images/99xxx/99068.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-05T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedPage Today",
-        "domain": "medpagetoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-people-are-entering-relationships-with-aibut-pop-cultures-view-is-all-wrong.md",
-      "title": "People are entering relationships with AI…but pop culture’s view is all wrong",
-      "excerpt": "AI is new, and its ability to help humans is promising. But if all you know about AI is from Hollywood, you should think again.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/05/people-are-entering-relationships-with-aibut-pop-cultures-view-is-all-wrong/",
-      "originalUrl": "https://venturebeat.com/2022/06/05/people-are-entering-relationships-with-aibut-pop-cultures-view-is-all-wrong/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-594827903.jpg?fit=800%2C403&strip=all",
-          "width": 799,
-          "height": 403,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/05/people-are-entering-relationships-with-aibut-pop-cultures-view-is-all-wrong/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/05/people-are-entering-relationships-with-aibut-pop-cultures-view-is-all-wrong/amp/",
-      "publishedDateTime": "2022-06-05T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-autonomous-mayflower-reaches-american-shores-in-canada.md",
-      "title": "Autonomous Mayflower reaches American shores -- in Canada",
-      "excerpt": "Piloted by artificial intelligence technology, the 50-foot (15-meter) Mayflower Autonomous Ship didn't have a captain, navigator or any humans on board — though it might have helped to have a ...",
-      "sourceUrl": null,
-      "webUrl": "https://mtstandard.com/lifestyles/technology/autonomous-mayflower-reaches-american-shores----in-canada/article_55cd450f-bf27-5756-8e45-7077d2887ec7.html",
-      "originalUrl": "https://mtstandard.com/lifestyles/technology/autonomous-mayflower-reaches-american-shores----in-canada/article_55cd450f-bf27-5756-8e45-7077d2887ec7.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/mtstandard.com/content/tncms/assets/v3/editorial/e/64/e640da40-f529-55b5-92b0-b424f9ce5389/629cfd8bf3b06.image.jpg?crop=1894%2C994%2C0%2C49&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-05T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Montana Standard",
-        "domain": "mtstandard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-tiny-robotic-crab-is-smallest-ever-remote-controlled-robot.md",
-      "title": "Tiny robotic crab is smallest-ever remote-controlled robot",
-      "excerpt": "In a recent study published in Science Robotics, engineers at Northwestern University have developed the smallest-ever remote-controlled walking robot -- and it comes in the form of a tiny, adorable peekytoe crab. Because the beginning of the end of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.labroots.com/trending/technology/22885/tiny-robotic-crab-smallest-ever-remote-controlled-robot-2",
-      "originalUrl": "https://www.labroots.com/trending/technology/22885/tiny-robotic-crab-smallest-ever-remote-controlled-robot-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.labroots.com/trending/technology/22885/tiny-robotic-crab-smallest-ever-remote-controlled-robot-2/amp",
-      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/22885/tiny-robotic-crab-smallest-ever-remote-controlled-robot-2/amp",
-      "publishedDateTime": "2022-06-05T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Labroots",
-        "domain": "labroots.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-05-satellites-and-ai-can-help-solve-big-problemsif-given-the-chance.md",
-      "title": "Satellites and AI Can Help Solve Big Problems—If Given the Chance",
-      "excerpt": "Traditional hurdles stand in the way of ambitious plans to use imagery to help feed people, reduce poverty, and protect the planet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/satellite-images-ai-solve-problems-governments/",
-      "originalUrl": "https://www.wired.com/story/satellite-images-ai-solve-problems-governments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/629a411d034df35b6080c33c/master/pass/Satellite-AI-Solve-Big-Problems-Deforestation-Amazon-Brazil-Business-1318751110.jpg",
-          "width": 2400,
-          "height": 1697,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/satellite-images-ai-solve-problems-governments/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/satellite-images-ai-solve-problems-governments/amp",
-      "publishedDateTime": "2022-06-05T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-05-ai-in-business-the-one-thing-every-board-member-asks.md",
-      "title": "AI In Business: The One Thing Every Board Member Asks",
-      "excerpt": "Board members already have a long list of mission-critical issues in their sights, including risk and reputation management, advising and encouraging the CEO, financial performance, and growth opportunities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glenngow/2022/06/05/ai-in-business-the-one-thing-every-board-member-asks/",
-      "originalUrl": "https://www.forbes.com/sites/glenngow/2022/06/05/ai-in-business-the-one-thing-every-board-member-asks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//629c02df38edd6aca34fcbbb/0x0.jpg?format=jpg&width=1200",
-          "width": 1000,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2022/06/05/ai-in-business-the-one-thing-every-board-member-asks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2022/06/05/ai-in-business-the-one-thing-every-board-member-asks/amp/",
-      "publishedDateTime": "2022-06-05T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-05-ai-facial-recognition-and-the-slippery-surveillance-slope.md",
-      "title": "AI facial recognition and the slippery surveillance slope",
-      "excerpt": "Increasingly governments around the world are turning to AI facial recognition apps as cost saving surveillance measures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc.net.au/radionational/programs/sundayextra/ai-facial-recogntion-and-the-slippery-surveillance-slope/13911830",
-      "originalUrl": "https://www.abc.net.au/radionational/programs/sundayextra/ai-facial-recogntion-and-the-slippery-surveillance-slope/13911830",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.abc.net.au/cm/rimage/13911960-16x9-large.jpg?v=4",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-04T14:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Australian Broadcasting Corporation",
-        "domain": "abc.net.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-05-how-ai-could-help-predictand-avoidsports-injuries-boost-performance.md",
-      "title": "How AI Could Help Predict—and Avoid—Sports Injuries, Boost Performance",
-      "excerpt": "Computer vision, the technology behind facial recognition, will change the game in real-time analysis of athletes and sharpen training prescriptions, analytics experts say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/how-ai-could-revolutionize-sports-trainers-tap-algorithms-to-boost-performance-prevent-injury-11654353916?mod=hp_listc_pos3",
-      "originalUrl": "https://www.wsj.com/articles/how-ai-could-revolutionize-sports-trainers-tap-algorithms-to-boost-performance-prevent-injury-11654353916?mod=hp_listc_pos3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-555376/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/how-ai-could-revolutionize-sports-trainers-tap-algorithms-to-boost-performance-prevent-injury-11654353916",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-ai-could-revolutionize-sports-trainers-tap-algorithms-to-boost-performance-prevent-injury-11654353916",
-      "publishedDateTime": "2022-06-04T14:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-05-to-evolve-ai-must-face-its-limitations.md",
-      "title": "To evolve, AI must face its limitations",
-      "excerpt": "And let’s face it: although not perfect, AI’s capabilities are pretty impressive. Even something as seemingly simple and routine as a Google search represents one of AI’s most successful examples, capable of searching vastly more information at a vastly greater rate than humanly possible and consistently providing results that are (at least most of the time) exactly what you were looking for.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-must-face-its-limitations",
-      "originalUrl": "https://thenextweb.com/news/ai-must-face-its-limitations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2Fmatrix-brain.jpg&signature=5e2613be0fd78bfb07d0ec832129756b",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-04T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Computer Vision",
-        "Natural Language Processing",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-05-officer-involved-shootings-in-cognitive-context.md",
-      "title": "Officer-Involved Shootings in Cognitive Context",
-      "excerpt": "This is a critical question. Cognition is basic to any given socially mediated response; and as it turns out, the cognitive importance of language, in any given OIS case, may become paramount.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/the-forensic-view/202206/officer-involved-shootings-in-cognitive-context",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/the-forensic-view/202206/officer-involved-shootings-in-cognitive-context",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-06/fvsquarepic.jpg?itok=XgYUEu96",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-forensic-view/202206/officer-involved-shootings-in-cognitive-context?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-forensic-view/202206/officer-involved-shootings-in-cognitive-context?amp",
-      "publishedDateTime": "2022-06-04T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-05-technical-training-for-school-students-to-promote-robotics-ai.md",
-      "title": "Technical Training For School Students To Promote Robotics, AI",
-      "excerpt": "Learning curves have drastically shifted for school students in the past 2.5 years, owing to the Covid-19 induced challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/hans/education-careers/technical-training-for-school-students-to-promote-robotics-ai-746797",
-      "originalUrl": "https://www.thehansindia.com/hans/education-careers/technical-training-for-school-students-to-promote-robotics-ai-746797",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2022/06/04/1296068-training.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/hans/education-careers/technical-training-for-school-students-to-promote-robotics-ai-746797",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/education-careers/technical-training-for-school-students-to-promote-robotics-ai-746797",
-      "publishedDateTime": "2022-06-04T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-jain-deemed-to-be-university-to-provide-guaranteed-placements-for-all-the-aspiring-ai-and-data-engineers.md",
-      "title": "Jain (Deemed-To-Be University) to provide guaranteed placements for all the aspiring AI and data engineers",
-      "excerpt": "JAIN (Deemed-to-be University) and Futurense Technologies have joined hands to level the playing field for the upcoming talent in India with the launch of their remodelled B.Tech degree programme of Bachelor of Technology in Computer Science and Engineering with a specialisation in Artificial Intelligence and Data Engineering.",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/articles/Business/20220604/3948804.html",
-      "originalUrl": "https://news.webindia123.com/news/articles/Business/20220604/3948804.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-04T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

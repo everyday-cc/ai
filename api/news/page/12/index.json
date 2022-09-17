@@ -2,6 +2,645 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-09-02-investing-in-self-driving-car-stocks.md",
+      "title": "Investing in Self-Driving Car Stocks",
+      "excerpt": "After years of hype and behind-the-scenes development, self-driving car technology is beginning to be a reality. Vehicles featuring advanced driver-assist systems (ADAS) and some level of self ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/consumer-discretionary/automotive-stocks/self-driving-car-stocks/",
+      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/consumer-discretionary/automotive-stocks/self-driving-car-stocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.foolcdn.com/media/dubs/images/Driverless-cars.width-600.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-02T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-02-commercial-operation-of-driverless-sanitation-vehicles-launched-in-south-china.md",
+      "title": "Commercial operation of driverless sanitation vehicles launched in South China",
+      "excerpt": "[Photo provided to China Daily] GUANGZHOU -- Chinese self-driving startup WeRide launched the commercial operation of driverless sanitation vehicles on open roads in the southern metropolis of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202209/02/WS63116047a310fd2b29e75974.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202209/02/WS63116047a310fd2b29e75974.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202209/02/63116047a310fd2bec9f6e89.jpeg",
+          "width": 702,
+          "height": 468,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-02T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-02-liquidnet-emea-business-development-head-departs-for-ai-fintech-imandra.md",
+      "title": "Liquidnet EMEA business development head departs for AI fintech Imandra",
+      "excerpt": "Liquidnet’s former head of business development for EMEA has left the firm to join artificial intelligence (AI) fintech Imandra in a similar role, The TRADE can reveal. Dan Squires has been appointed as a vice president of sales at Imandra after spending ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetradenews.com/liquidnet-emea-business-development-head-departs-for-ai-fintech-imandra/",
+      "originalUrl": "https://www.thetradenews.com/liquidnet-emea-business-development-head-departs-for-ai-fintech-imandra/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-02T02:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The TRADE",
+        "domain": "thetradenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-02-gms-cruise-recalls-revises-self-driving-software-after-crash.md",
+      "title": "GM's Cruise recalls, revises self-driving software after crash",
+      "excerpt": "Cruise said in a rare circumstance, the software caused the autonomous vehicle to hard brake while performing an unprotected left turn that it deemed necessary to avoid a severe front-end collision.",
+      "sourceUrl": null,
+      "webUrl": "https://www.autonews.com/mobility-report/why-gms-cruise-unit-recalling-80-self-driving-cars",
+      "originalUrl": "https://www.autonews.com/mobility-report/why-gms-cruise-unit-recalling-80-self-driving-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/CRUISE-MAIN_i_4.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-02T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-02-artificial-intelligence-ai-chips-market-future-growth-and-business-opportunities-2022-2025latest-research-report.md",
+      "title": "Artificial Intelligence (AI) Chips Market Future Growth and Business Opportunities 2022-2025|Latest Research Report",
+      "excerpt": "Global \"Artificial Intelligence (AI) Chips Market\" in the forecast period of 2022-2025. Artificial Intelligence (AI)",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-future-growth-and-business-opportunities-2022-2025latest-research-report-2022-09-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-future-growth-and-business-opportunities-2022-2025latest-research-report-2022-09-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-02T01:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-09-02-thermometer-with-face-recognition-market-global-outlook-and-forecast-2022-to-2028.md",
+      "title": "Thermometer with Face Recognition Market Global Outlook, and Forecast 2022 To 2028.",
+      "excerpt": "The \" Thermometer with Face Recognition Market Research Report \" published by Report Mines is segmented into regions (country), Company, Application, and Type. The report presents the research and analysis provided within the Thermometer with Face Recognition Market Research is meant to benefit stakeholders,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/thermometer-with-face-recognition-market-global-outlook-and-forecast-2022-to-2028-2022-09-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/thermometer-with-face-recognition-market-global-outlook-and-forecast-2022-to-2028-2022-09-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-02T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-02-kiwi-expat-dave-ferguson-on-founding-14b-driverless-vehicle.md",
+      "title": "Kiwi expat Dave Ferguson on founding $14b driverless vehicle",
+      "excerpt": "Kiwi singer Mel Parsons is back with her fifth studio album, Slow Burn which is out on Friday. Video / Newstalk ZB The Queen leaves Buckingham Palace for the last time, have we already been in a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nzherald.co.nz/business/kiwi-expat-dave-ferguson-on-founding-14b-driverless-vehicle/HS5XMAH3OLHNN4K47CQSUAC4FY/",
+      "originalUrl": "https://www.nzherald.co.nz/business/kiwi-expat-dave-ferguson-on-founding-14b-driverless-vehicle/HS5XMAH3OLHNN4K47CQSUAC4FY/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nzherald.co.nz/resizer/i2CMQvmJ_bWJ_Yt2zWDGw2uDTrU=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/NPMMK34HQFJGFJUHTP5BWJQLIQ.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-01T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Zealand Herald",
+        "domain": "nzherald.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-02-study-new-treatment-increases-cognitive-function-in-down-syndrome-patients.md",
+      "title": "Study: New treatment increases cognitive function in Down Syndrome patients",
+      "excerpt": "PARIS (AFP) — A new hormone treatment improved the cognitive function of six men with Down Syndrome by 10-30 percent, scientists said Thursday, adding the “promising” results may raise hopes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/study-new-treatment-increases-cognitive-function-in-down-syndrome-patients/",
+      "originalUrl": "https://www.timesofisrael.com/study-new-treatment-increases-cognitive-function-in-down-syndrome-patients/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2022/09/000_32HG96V-640x400.jpg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/study-new-treatment-increases-cognitive-function-in-down-syndrome-patients/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/study-new-treatment-increases-cognitive-function-in-down-syndrome-patients/amp/",
+      "publishedDateTime": "2022-09-01T21:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-02-teachers-union-say-to-new-face-recognition-app-education-minister-satyanarayan.md",
+      "title": "Teachers’ union say to new face recognition app: Education Minister Satyanarayan",
+      "excerpt": "The minister expressed confidence that technical glitches will not be a hindrance and they will be sorted out in the due course.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/cities/vijayawada/2022/sep/02/teachers-union-sayto-new-face-recognition-appeducation-ministersatyanarayan-2494005.html",
+      "originalUrl": "https://www.newindianexpress.com/cities/vijayawada/2022/sep/02/teachers-union-sayto-new-face-recognition-appeducation-ministersatyanarayan-2494005.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/9/2/w600X390/faceapp.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/cities/vijayawada/2022/sep/02/teachers-union-sayto-new-face-recognition-appeducation-ministersatyanarayan-2494005.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/vijayawada/2022/sep/02/teachers-union-sayto-new-face-recognition-appeducation-ministersatyanarayan-2494005.amp",
+      "publishedDateTime": "2022-09-01T17:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-09-02-nvidia-says-us-government-allows-ai-chip-development-in-china.md",
+      "title": "Nvidia says U.S. government allows A.I. chip development in China",
+      "excerpt": "Nvidia said in an SEC filing Wednesday that the U.S. government is restricting sales of high-performance AI chips for servers, the A100 and H100, to China and Russia. Sales of both chips are still ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/09/01/nvidia-says-us-government-allows-ai-chip-development-in-china.html",
+      "originalUrl": "https://www.cnbc.com/2022/09/01/nvidia-says-us-government-allows-ai-chip-development-in-china.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107067150-1653504509165-gettyimages-1399238927-0j5a8860_7b828a63-4abc-4260-8e26-82fd1b37b3b6.jpeg?v=1653504562",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/09/01/nvidia-says-us-government-allows-ai-chip-development-in-china.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/09/01/nvidia-says-us-government-allows-ai-chip-development-in-china.html",
+      "publishedDateTime": "2022-09-01T16:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-02-boy-paralyzed-in-highland-park-shooting-may-have-cognitive-loss.md",
+      "title": "Boy paralyzed in Highland Park shooting may have cognitive loss",
+      "excerpt": "According to the family, they are now seeing some patterns of behavior that could indicate cognitive loss. Therapists are noticing short term memory loss, issues with word recovery and loss of ...",
+      "sourceUrl": null,
+      "webUrl": "https://wgntv.com/news/highland-park-parade-shooting/boy-paralyzed-in-highland-park-shooting-may-have-cognitive-loss/",
+      "originalUrl": "https://wgntv.com/news/highland-park-parade-shooting/boy-paralyzed-in-highland-park-shooting-may-have-cognitive-loss/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wgntv.com/wp-content/uploads/sites/5/2022/08/Cooper_Roberts_new.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wgntv.com/news/highland-park-parade-shooting/boy-paralyzed-in-highland-park-shooting-may-have-cognitive-loss/amp/",
+      "cdnAmpWebUrl": "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/news/highland-park-parade-shooting/boy-paralyzed-in-highland-park-shooting-may-have-cognitive-loss/amp/",
+      "publishedDateTime": "2022-09-01T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGN-TV",
+        "domain": "wgntv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-02-can-ai-help-solve-educations-big-data-problems.md",
+      "title": "Can AI help solve education's big data problems?",
+      "excerpt": "This Intel executive thinks AI applications will be essential to extracting future insights from the onslaught of data modern education creates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/education/computers-tech/intel-using-ai-to-solve-education-big-data-problems/",
+      "originalUrl": "https://www.zdnet.com/education/computers-tech/intel-using-ai-to-solve-education-big-data-problems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/7550c114ff55f32d60dc60534ecc1bf85ef71db1/2019/03/25/a6d4ddc6-f89a-4338-a513-9e211cde545e/computerscienceistock-962475952.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/education/computers-tech/intel-using-ai-to-solve-education-big-data-problems/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/education/computers-tech/intel-using-ai-to-solve-education-big-data-problems/",
+      "publishedDateTime": "2022-09-01T15:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-09-02-8-year-old-paralyzed-in-fourth-of-july-parade-shooting-may-have-some-cognitive-loss-family-says.md",
+      "title": "8-year-old paralyzed in Fourth of July parade shooting may have ‘some cognitive loss,’ family says",
+      "excerpt": "(CNN) – The family of the 8-year-old boy left paralyzed from the Fourth of July mass shooting in Highland Park, Illinois, said he may have “some cognitive loss.” Cooper Roberts is paralyzed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ky3.com/2022/09/01/8-year-old-paralyzed-fourth-july-parade-shooting-may-have-some-cognitive-loss-family-says/",
+      "originalUrl": "https://www.ky3.com/2022/09/01/8-year-old-paralyzed-fourth-july-parade-shooting-may-have-some-cognitive-loss-family-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-ky3-prod.cdn.arcpublishing.com/resizer/z-rZ__lANoTOxqKZsZCne3qjePE=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/6XQW3YV7PNCGVJG3FNWGQWHIEE.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ky3.com/2022/09/01/8-year-old-paralyzed-fourth-july-parade-shooting-may-have-some-cognitive-loss-family-says/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-ky3-com.cdn.ampproject.org/c/s/www.ky3.com/2022/09/01/8-year-old-paralyzed-fourth-july-parade-shooting-may-have-some-cognitive-loss-family-says/?outputType=amp",
+      "publishedDateTime": "2022-09-01T15:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KY3",
+        "domain": "ky3.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-02-financial-language-and-the-evolution-of-speech-recognition-technology.md",
+      "title": "Financial language and the evolution of speech recognition technology",
+      "excerpt": "By Katy Wigdahl, CEO, Speechmatics Due to its long heritage and diverse spread of legacy technologies, it can be challenging to integrate new technological developments into the financial industry. But by not doing so,",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalbankingandfinance.com/financial-language-and-the-evolution-of-speech-recognition-technology/",
+      "originalUrl": "https://www.globalbankingandfinance.com/financial-language-and-the-evolution-of-speech-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/09/iStock-861092546.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globalbankingandfinance.com/financial-language-and-the-evolution-of-speech-recognition-technology/",
+      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/financial-language-and-the-evolution-of-speech-recognition-technology/",
+      "publishedDateTime": "2022-09-01T14:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "List of Banks in Belarus",
+        "domain": "globalbankingandfinance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-02-with-new-ai-chip-rules-us-takes-aim-at-a-critical-niche.md",
       "title": "With new AI chip rules, U.S. takes aim at a critical niche",
       "excerpt": "What the affected chips share is the ability to carry out calculations for artificial intelligence work quickly, at huge scale and with high precision. Less powerful AI chips can work quickly at ...",
@@ -481,671 +1120,6 @@
         "name": "Phys.org",
         "domain": "phys.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-fairmarkits-ai-fueled-platform-delivers-autonomous-procurement-sourcing.md",
-      "title": "Fairmarkit’s AI-fueled platform delivers autonomous procurement sourcing",
-      "excerpt": "Fairmarkit has been working on a tail spend procurement solution and has built a modern platform with a large dose of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/01/fairmarkits-ai-fueled-platform-delivers-autonomous-procurement-sourcing/",
-      "originalUrl": "https://techcrunch.com/2022/09/01/fairmarkits-ai-fueled-platform-delivers-autonomous-procurement-sourcing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-686616360.jpg?w=1024",
-          "width": 1024,
-          "height": 521,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/01/fairmarkits-ai-fueled-platform-delivers-autonomous-procurement-sourcing/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/01/fairmarkits-ai-fueled-platform-delivers-autonomous-procurement-sourcing/amp/",
-      "publishedDateTime": "2022-09-01T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-olive-diagnostics-launches-ai-powered-urinalysis-device-so-you-dont-have-to-pee-in-a-cup.md",
-      "title": "Olive Diagnostics launches AI-powered urinalysis device so you don’t have to pee in a cup",
-      "excerpt": "But Israeli medical device startup Olive Diagnostics has come up with a way to use artificial intelligence to analyze what’s in your toilet bowl — so you don’t have to pee in a cup. The Jerusalem-based company uses an optical sensor and AI-powered device to perform 100% passive real-time urine analysis.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/olive-diagnostics-launches-ai-powered-urinalysis-device-so-you-dont-have-to-pee-in-a-cup/",
-      "originalUrl": "https://venturebeat.com/ai/olive-diagnostics-launches-ai-powered-urinalysis-device-so-you-dont-have-to-pee-in-a-cup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/Olive-KG-AI-powered-urine-analysis-technology-1.-Credit-Olive-Diagnostics.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/olive-diagnostics-launches-ai-powered-urinalysis-device-so-you-dont-have-to-pee-in-a-cup/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/olive-diagnostics-launches-ai-powered-urinalysis-device-so-you-dont-have-to-pee-in-a-cup/amp/",
-      "publishedDateTime": "2022-09-01T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-2022-world-artificial-intelligence-conference-held-in-shanghai.md",
-      "title": "2022 World Artificial Intelligence Conference held in Shanghai",
-      "excerpt": "A visitor experiences a massage robot at the 2022 World Artificial Intelligence Conference (WAIC) in east China's Shanghai, Sept. 1, 2022. With the theme of \"Intelligent Connectivity, Infinite Multiverse\",",
-      "sourceUrl": null,
-      "webUrl": "https://english.news.cn/20220901/e13917c10b6f4dfea4d3e9f1d31589d7/c.html",
-      "originalUrl": "https://english.news.cn/20220901/e13917c10b6f4dfea4d3e9f1d31589d7/c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://english.news.cn/20220901/e13917c10b6f4dfea4d3e9f1d31589d7/20220901e13917c10b6f4dfea4d3e9f1d31589d7_202209013037fa74d4df4de7b4bdc8e04a17b30c.jpg",
-          "width": 1024,
-          "height": 659,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-01T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Xinhua",
-        "domain": "news.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-cloud-artificial-intelligence-ai-developer-service-market-2022-disclosing-latest-trends-and-advancement-outlook-2028-aible-h2oai-microsoft.md",
-      "title": "Cloud Artificial Intelligence (AI) developer Service Market 2022 Disclosing Latest Trends and Advancement Outlook 2028 – Aible, H2O.ai, Microsoft",
-      "excerpt": "Top Companies in the global Cloud Artificial Intelligence (AI) developer Service market are AWS, Aible, H2O.ai, Microsoft, Google, Salesforce, IBM, Oracle, Tencent, Prevision.io, SAP, Clarifai, Alibaba Cloud,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-artificial-intelligence-ai-developer-service-market-2022-disclosing-latest-trends-and-advancement-outlook-2028-aible-h2oai-microsoft-2022-09-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/cloud-artificial-intelligence-ai-developer-service-market-2022-disclosing-latest-trends-and-advancement-outlook-2028-aible-h2oai-microsoft-2022-09-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-01T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-how-ai-can-help-document-legacy-cobol-code-before-its-too-late.md",
-      "title": "How AI can help document legacy COBOL code, before it’s too late",
-      "excerpt": "COBOL is 60 years old, and when the existing pool of its developers retires, some worry the knowledge of how COBOL applications have been built and structured will be lost. AI tools could be a solution.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/programming-development/how-ai-can-help-document-legacy-cobol-code-before-its-too-late/",
-      "originalUrl": "https://venturebeat.com/programming-development/how-ai-can-help-document-legacy-cobol-code-before-its-too-late/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1168836247.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/programming-development/how-ai-can-help-document-legacy-cobol-code-before-its-too-late/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/programming-development/how-ai-can-help-document-legacy-cobol-code-before-its-too-late/amp/",
-      "publishedDateTime": "2022-09-01T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-meet-the-japanese-robot-who-stocks-drinks-at-the-corner-store.md",
-      "title": "Meet the Japanese Robot Who Stocks Drinks at the Corner Store",
-      "excerpt": "A robot in Tokyo named TX SCARA is helping stock drinks at FamilyMart convenience stores following a worker shortage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/434550",
-      "originalUrl": "https://www.entrepreneur.com/article/434550",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1662046330-robot-convience-stores-japan-getty.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-01T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-mitsubishi-heavy-rolls-out-driverless-forklifts-in-automation-race.md",
-      "title": "Mitsubishi Heavy rolls out driverless forklifts in automation race",
-      "excerpt": "YOKOHAMA -- Mitsubishi Heavy Industries (MHI) on Thursday started selling driverless forklifts for warehouse operators grappling with rising e-commerce demand coupled with chronic labor shortages ...",
-      "sourceUrl": null,
-      "webUrl": "https://asia.nikkei.com/Business/Technology/Mitsubishi-Heavy-rolls-out-driverless-forklifts-in-automation-race",
-      "originalUrl": "https://asia.nikkei.com/Business/Technology/Mitsubishi-Heavy-rolls-out-driverless-forklifts-in-automation-race",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F8%252F1%252F4%252F4%252F42024418-1-eng-GB%252F20220831-IMG_4071.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-01T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ニッケイ・エイジア",
-        "domain": "nikkei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-us-restricts-sales-of-high-end-nvidia-ai-chips-to-china-and-russia.md",
-      "title": "US restricts sales of high-end Nvidia AI chips to China and Russia",
-      "excerpt": "In a Securities and Exchange Commission filing last Friday, Nvidia reported that US government officials have ordered restrictions on sales of its top AI chips to China and Russia. The new restrictions (in the form of licensing requirements,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/09/us-restricts-sales-of-high-end-nvidia-ai-chips-to-china-and-russia/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/09/us-restricts-sales-of-high-end-nvidia-ai-chips-to-china-and-russia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 301,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/nvidia_china_hero_1-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-01T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-neural-networks-predict-forces-in-jammed-granular-solids.md",
-      "title": "Neural networks predict forces in jammed granular solids",
-      "excerpt": "Granular matter is all around us. Examples include sand, rice, nuts, coffee and even snow. These materials are made of solid particles that are large enough not to experience thermal fluctuations. Instead,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/963548",
-      "originalUrl": "https://www.eurekalert.org/news-releases/963548",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/93c1e44c-9e31-47f5-80f2-ef0051952e9b/Rendition/thumbnail/Content/Public",
-          "width": 300,
-          "height": 208,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-01T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-california-has-a-bill-to-go-after-teslas-self-driving-claims.md",
-      "title": "California Has a Bill to Go After Tesla’s Self-Driving Claims",
-      "excerpt": "Lawmakers in California are targeting Tesla’s self-driving claims with a new false advertising bill, VW’s next boss says the firm must speed up its switch to electric vehicles, and GM recalls its autonomous Cruise cars.",
-      "sourceUrl": null,
-      "webUrl": "https://jalopnik.com/california-has-a-bill-to-go-after-tesla-s-self-driving-1849484108",
-      "originalUrl": "https://jalopnik.com/california-has-a-bill-to-go-after-tesla-s-self-driving-1849484108",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://jalopnik.com/california-has-a-bill-to-go-after-tesla-s-self-driving-1849484108/amp",
-      "cdnAmpWebUrl": "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/california-has-a-bill-to-go-after-tesla-s-self-driving-1849484108/amp",
-      "publishedDateTime": "2022-09-01T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jalopnik",
-        "domain": "jalopnik.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-gms-driverless-car-unit-recalls-software-used-in-some-robotaxis.md",
-      "title": "GM’s Driverless-Car Unit Recalls Software Used in Some Robotaxis",
-      "excerpt": "General Motors driverless-car unit has issued a recall related to the software in some of its robotaxis, after a crash earlier this year resulted in minor injuries. Cruise LLC, in a notice ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/gms-driverless-car-unit-recalls-software-used-in-some-robotaxis-11662041338",
-      "originalUrl": "https://www.wsj.com/articles/gms-driverless-car-unit-recalls-software-used-in-some-robotaxis-11662041338",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-614944/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-01T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-breaking-down-how-cognitive-behavioral-therapy-and-internet-based-cognitive-behavioral-therapy-help-treat-mental-health-struggles.md",
-      "title": "Breaking down how cognitive behavioral therapy and internet-based cognitive behavioral therapy help treat mental health struggles",
-      "excerpt": "In the early 1900’s, the foundations for what was to become Cognitive Behavioral Therapy (CBT) were spearheaded by psychology leaders like behaviorist John B. Watson. However, it wasn’t until ...",
-      "sourceUrl": null,
-      "webUrl": "https://medcitynews.com/2022/09/breaking-down-how-cognitive-behavioral-therapy-and-internet-based-cognitive-behavioral-therapy-help-treat-mental-health-struggles/",
-      "originalUrl": "https://medcitynews.com/2022/09/breaking-down-how-cognitive-behavioral-therapy-and-internet-based-cognitive-behavioral-therapy-help-treat-mental-health-struggles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medcitynews.com/uploads/2019/12/GettyImages-858738378.jpg",
-          "width": 673,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-01T06:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedCity News",
-        "domain": "medcitynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-neprilysin-inhibition-has-no-impact-on-cognitive-function-in-heart-failure-patients.md",
-      "title": "Neprilysin Inhibition Has No Impact on Cognitive Function in Heart Failure Patients",
-      "excerpt": "Heart failure patients are more likely to develop dementia Sacubitril/valsartan, a standard treatment for those with heart failure and previously suspected to exacerbate cognitive impairment ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/healthwatch/neprilysin-inhibition-has-no-impact-on-cognitive-function-in-heart-failure-patients-208470-1.htm",
-      "originalUrl": "https://www.medindia.net/news/healthwatch/neprilysin-inhibition-has-no-impact-on-cognitive-function-in-heart-failure-patients-208470-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.medindia.net/images/common/news/950_400/sacubitril-valsartan-does-not-exacerbate.jpg",
-          "width": 735,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/healthwatch/neprilysin-inhibition-has-no-impact-on-cognitive-function-in-heart-failure-patients-208470-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/healthwatch/neprilysin-inhibition-has-no-impact-on-cognitive-function-in-heart-failure-patients-208470-1.htm",
-      "publishedDateTime": "2022-09-01T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-artificial-intelligence-ai-robots-market-projected-to-reach-worth-353-billion-by-2026-exclusive-report-by-marketsandmarketstm.md",
-      "title": "Artificial Intelligence (AI) Robots Market Projected to Reach worth $35.3 billion by 2026 - Exclusive Report by MarketsandMarkets(TM)",
-      "excerpt": "At a CAGR - 38.6% Geographic regions covered - North America, APAC, Europe, and RoW Ask for PDF Brochure:  Browse in-depth TOC on \" Artificial Intelligence (AI) Robots Market \" 178 - Tables 81- Figures 253 - Pages NVIDIA develops GPUs and delivers value to its consumers through PC,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-projected-to-reach-worth-353-billion-by-2026---exclusive-report-by-marketsandmarketstm-2022-09-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-projected-to-reach-worth-353-billion-by-2026---exclusive-report-by-marketsandmarketstm-2022-09-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-01T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

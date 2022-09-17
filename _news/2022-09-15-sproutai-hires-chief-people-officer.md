@@ -40,15 +40,6 @@ related:
         width: 1100
         height: 801
         isCached: true
-  - title: "Researchers develop an AI model for autonomous driving"
-    excerpt: "A research team consisting of Oskar Natan, a Ph.D. student, and his supervisor, Professor Jun Miura, who are affiliated with the Active Intelligent System Laboratory (AISL), Department of Computer Science Engineering,"
-    publishedDateTime: 2022-09-12T18:58:00Z
-    webUrl: "https://techxplore.com/news/2022-09-ai-autonomous.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 17
 
 secured: "+M65WiuP2tynEzVRE4rcyp6qJlRxoRV+/pS+DcrCCzomlPukIU6Tp6w3Kw4pnPPvkRor71XsNV3TzAjQQdZXFajXPLhZKBbIsOH4aqB9n6fC3sJUgKsJYxIcFz/97xt4FCMAaJUoE5eRq2gb1kIRWB3s7alCSIjT2E7uPFq1Pt9aK8BPKvIDg68HSEDJf7V0RQ3yMzijj09RlWRG8bsIv9MAtk27H82awOA7y7ulWq/gPJC9f9peQmLbaAn8ZY1zZl8Xyp5F00NqeqivaV2O2x2nM0KpXbnJqQM16J9SVkyxEDJYq5aGtUXIHtjQWP4zr/sw3UdrIA8T0t/rq+Uqp5pVVVS7+l0ZSvJCXGEnIdw=;Kfm+YLBsmbdFH7JkXWgGkQ=="
 ---

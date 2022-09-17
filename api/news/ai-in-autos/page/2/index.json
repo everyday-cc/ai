@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-09-06-bitcode-method-driving-financial-stability-by-maximizing-your-crypto-profits.md",
-      "title": "Bitcode Method: Driving Financial Stability by Maximizing Your Crypto Profits",
-      "excerpt": "Driving Financial Stability by Maximizing Your Crypto Profits - The expansion of distributed ledger technology and increased digital venture capital investments are",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconindia.com/news/general/bitcode-method-driving-financial-stability-by-maximizing-your-crypto-profits-nid-219926-cid-1.html",
-      "originalUrl": "https://www.siliconindia.com/news/general/bitcode-method-driving-financial-stability-by-maximizing-your-crypto-profits-nid-219926-cid-1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconindia.com/news/newsimages/special/ix9d6217.png",
-          "width": 502,
-          "height": 324,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-06T01:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconIndia",
-        "domain": "siliconindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-05-ev-roundup-nklas-equity-offering-teslas-plan-for-driverless-cars-more.md",
       "title": "EV Roundup: NKLA's Equity Offering, Tesla's Plan for Driverless Cars & More",
       "excerpt": "Last week, China-based electric vehicle (EV) stars NIO Inc. NIO, Li Auto LI and XPeng Inc. XPEV announced their delivery updates for August. While NIO recorded a rise in deliveries from July ...",
@@ -1315,6 +1272,58 @@
         "name": "Mobile World Live",
         "domain": "mobileworldlive.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-baidu-claims-its-robotaxis-have-grabbed-10-of-the-ride-hailing-market-in-a-suburb-of-beijing.md",
+      "title": "Baidu claims its robotaxis have grabbed 10% of the ride-hailing market in a suburb of Beijing",
+      "excerpt": "Chinese tech giant Baidu said its robotaxis have grabbed about 10% of the ride-hailing market in a suburb of Beijing city. Baidu began offering free robotaxi rides in the suburban region in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/08/31/baidu-claims-its-robotaxis-have-grabbed-10percent-of-a-ride-hailing-market.html",
+      "originalUrl": "https://www.cnbc.com/2022/08/31/baidu-claims-its-robotaxis-have-grabbed-10percent-of-a-ride-hailing-market.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107111680-1661904834859-gettyimages-1355764512-vcg111359334633.jpeg?v=1661907038",
+          "width": 3988,
+          "height": 2652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/08/31/baidu-claims-its-robotaxis-have-grabbed-10percent-of-a-ride-hailing-market.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/08/31/baidu-claims-its-robotaxis-have-grabbed-10percent-of-a-ride-hailing-market.html",
+      "publishedDateTime": "2022-08-30T22:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

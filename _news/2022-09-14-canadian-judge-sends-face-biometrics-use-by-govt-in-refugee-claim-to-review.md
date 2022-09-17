@@ -48,15 +48,6 @@ related:
         width: 2048
         height: 1366
         isCached: true
-  - title: "Paravision face biometrics contract with US Air Force expands"
-    excerpt: "The project involves developing and delivering a converged identity solution with biometric capabilities providing physical and logical access control."
-    publishedDateTime: 2022-09-12T18:54:00Z
-    webUrl: "https://www.biometricupdate.com/202209/paravision-face-biometrics-contract-with-us-air-force-expands"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 19
   - title: "Rank One stands out in NIST test of image quality assessment for face biometrics"
     excerpt: "A benchmark of facial image quality assessment algorithms for preventing bad input from causing problems with face biometric systems has been published by NIST."
     publishedDateTime: 2022-09-12T20:52:00Z

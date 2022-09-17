@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-09-people-artificial-intelligence.a
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-people-artificial-intelligence.amp"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: techxplore
@@ -42,15 +42,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Researchers develop an AI model for autonomous driving"
-    excerpt: "A research team consisting of Oskar Natan, a Ph.D. student, and his supervisor, Professor Jun Miura, who are affiliated with the Active Intelligent System Laboratory (AISL), Department of Computer Science Engineering,"
-    publishedDateTime: 2022-09-12T18:58:00Z
-    webUrl: "https://techxplore.com/news/2022-09-ai-autonomous.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 17
 
 secured: "q71LfTmKuFOSK6ejrgq80/Tturt/bV3VqlAJ6CVxiPBGBff+wSmh00aDzKskbJVN1MEdZGVTZB02QXfyKgFk3H5e2ZsR0+Gfe0DhhetdivUPXWd/xPKE2LP7ofpjn5/0baeqpTv9qawzAaQ7NlXDmATDoeqqpAMJm4mCH5Jp+y1hdYPSxsHOZF5EUqeDsEc3DPtUIrs0rv1/0dthhztlFETd/Flz77HF+nIXSM237fbujflVXb3gdsQO1bqiv+wjkunrRaN5DadQN+1QlKlpyxInFv6R2UIM5+tY12kD8NMdTywTryxT5ejBeESLYCZ9lrm3dHrxvN7p5gdalIA4ABCVz99xwv6x28tpq/XofOjlLO5Pf3RYzzdUoHkSg/Jgwke2N+gik/Xw9/QuBpQijC0uyZuP49Bwpbdl8a+BnuZRgA55DDhB4HwYm/zgxZqfV84YUXxq9J/oZkia07bVy7vjMWUlaNZ1L716m6SDBVrR+anqYKg605MHzIaOB2UUGmaK0Bctdj7g0Fm29iIeEQ==;FmLx01IWcQM01S9CNffk1w=="
 ---

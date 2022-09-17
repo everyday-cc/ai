@@ -2,6 +2,289 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-07-18-forsight-sees-a-world-without-cataracts-with-its-surgery-robot.md",
+      "title": "ForSight sees a world without cataracts with its surgery robot",
+      "excerpt": "It leverages cutting-edge technologies (pun intended) in microsurgical robotics, computer vision and machine learning. The platform aims to automate ophthalmic surgeries that treat diseases ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/18/here-comes-the-scalpel/",
+      "originalUrl": "https://techcrunch.com/2022/07/18/here-comes-the-scalpel/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/ForSight-Robotics.jpg?w=1024",
+          "width": 1024,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/18/here-comes-the-scalpel/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/18/here-comes-the-scalpel/amp/",
+      "publishedDateTime": "2022-07-17T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-07-18-robots-step-into-the-covid-19-danger-zone.md",
+      "title": "Robots Step into the COVID-19 Danger Zone",
+      "excerpt": "mind-numbing and boring jobs. Now they can do jobs in plants while humans are sheltering.” Bogart began by creating robots for movie sets. “We started in the 80s designing robots for motion pictures, mostly motion control. We moved movie cameras and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/robots-step-covid-19-danger-zone",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/robots-step-covid-19-danger-zone",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/OB7%20opening%20machine%20door%20%28002%29.jpg",
+          "width": 3264,
+          "height": 1836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-17T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-18-artificial-intelligence-in-pakistan.md",
+      "title": "Artificial intelligence in Pakistan",
+      "excerpt": "Those films portray a highly advanced version of AI, formally known as Artificial General Intelligence (AGI), which is currently close to impossible. Unlike Hollywood, AI today focuses on narrow problems,",
+      "sourceUrl": null,
+      "webUrl": "https://tribune.com.pk/story/2366462/artificial-intelligence-in-pakistan",
+      "originalUrl": "https://tribune.com.pk/story/2366462/artificial-intelligence-in-pakistan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": " https://i.tribune.com.pk/media/images/China-AI1633983096-0/China-AI1633983096-0.jpg  ",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tribune.com.pk/story/2366462/artificial-intelligence-in-pakistan?amp=1",
+      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2366462/artificial-intelligence-in-pakistan?amp=1",
+      "publishedDateTime": "2022-07-17T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Express Tribune",
+        "domain": "tribune.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-07-16-crash-test-dummies-nascar-used-robotics-to-crash-test-next-gen-car.md",
+      "title": "Crash Test Dummies: Nascar Used Robotics To Crash Test Next Gen Car",
+      "excerpt": "NASCAR’s Next Gen car features a lot of new tech. The testing of that car also featured new ways of testing that included crash testing with not only crash test dummies, but AI and robotics as well.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gregengle/2022/07/16/crash-test-dummies-nascar-used-robotics-to-crash-test-next-gen-car/",
+      "originalUrl": "https://www.forbes.com/sites/gregengle/2022/07/16/crash-test-dummies-nascar-used-robotics-to-crash-test-next-gen-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62d2cb72252022454a9139f7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gregengle/2022/07/16/crash-test-dummies-nascar-used-robotics-to-crash-test-next-gen-car/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gregengle/2022/07/16/crash-test-dummies-nascar-used-robotics-to-crash-test-next-gen-car/amp/",
+      "publishedDateTime": "2022-07-16T07:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-16-scientists-combine-robotics-with-biology-to-construct-biohybrid-microrobots.md",
+      "title": "Scientists combine robotics with biology to construct biohybrid microrobots",
+      "excerpt": "A team of scientists in the Physical Intelligence Department at the Max Planck Institute for Intelligent Systems have combined robotics with biology by equipping E. coli bacteria with artificial components to construct biohybrid microrobots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220715/Scientists-combine-robotics-with-biology-to-construct-biohybrid-microrobots.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220715/Scientists-combine-robotics-with-biology-to-construct-biohybrid-microrobots.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/bacteria_-_Sebastian_Kaulitzki_46826fb7971649bfaca04a9b4cef3309-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-15T16:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-07-15-how-artificial-intelligence-ai-affects-business-executives.md",
+      "title": "How artificial intelligence (AI) affects business executives",
+      "excerpt": "As of this writing, AI has not fully taken over jobs just yet. Business leaders must comprehend the influence of artificial intelligence, such as machine",
+      "sourceUrl": null,
+      "webUrl": "https://businessday.ng/research-post/article/how-artificial-intelligence-ai-affects-business-executives/",
+      "originalUrl": "https://businessday.ng/research-post/article/how-artificial-intelligence-ai-affects-business-executives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2021/10/Untitled-design-2021-10-08T114926.978.png?resize=450%2C300&ssl=1",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://businessday.ng/amp/research-post/article/how-artificial-intelligence-ai-affects-business-executives/",
+      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/research-post/article/how-artificial-intelligence-ai-affects-business-executives/",
+      "publishedDateTime": "2022-07-15T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessday",
+        "domain": "businessday.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "Natural Language Processing",
+        "AI in Healthcare",
+        "IBM AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-07-15-gain-insight-from-hax-robotics-founders-at-tc-sessions-robotics.md",
       "title": "Gain insight from HAX robotics founders at TC Sessions: Robotics",
       "excerpt": "We’re fired up and ready to connect with the global robotics and AI community at TC Sessions ... and if you’re interested in raising funds for your startup — and what early-stage startup ...",
@@ -1083,277 +1366,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-artificial-intelligence-investment-in-innovation-is-a-key-to-success.md",
-      "title": "Artificial Intelligence: Investment In Innovation Is A Key To Success",
-      "excerpt": "The Encyclopedia Britannica defines artificial intelligence (AI) as \"the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings.\" In simple terms,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62c597017ee5d8e458ae64dd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/amp/",
-      "publishedDateTime": "2022-07-07T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-ai-boosts-rural-connectivity-healthcare.md",
-      "title": "AI boosts rural connectivity & healthcare",
-      "excerpt": "A total of 15 villages in different parts of the country may soon be seamlessly connected through a next-generation networking solution that can address congestion issues in 4G infrastructure and prov",
-      "sourceUrl": null,
-      "webUrl": "https://orissadiary.com/ai-boosts-rural-connectivity-healthcare/",
-      "originalUrl": "https://orissadiary.com/ai-boosts-rural-connectivity-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/orissadiary.com/wp-content/uploads/2022/07/image00120E0.jpg?fit=624%2C416&ssl=1",
-          "width": 624,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T22:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odisha Diary",
-        "domain": "orissadiary.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-ecovacs-robotics-introduces-enhanced-ai-technology-for-intelligent-floor-cleaning-with-launch-of-deebot-t10-in-malaysia.md",
-      "title": "ECOVACS ROBOTICS Introduces Enhanced AI Technology for Intelligent Floor Cleaning with Launch of DEEBOT T10 in Malaysia",
-      "excerpt": "The new DEEBOT combines next-generation technologies, such as AIVI 3.0 Upgraded AI-based Object Recognition and Avoidance technology, that offer tech-savvy households unique advantages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/ecovacs-robotics-introduces-enhanced-ai-technology-intelligent-floor-cleaning-launch-0",
-      "originalUrl": "https://www.asiaone.com/business/ecovacs-robotics-introduces-enhanced-ai-technology-intelligent-floor-cleaning-launch-0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jul2022/EC4.jpg?h=bde28bee&itok=gmu7FuV3",
-          "width": 600,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T20:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres.md",
-      "title": "SP Robotics Maker Lab opens app for Franchises; plans to open 100+ centres",
-      "excerpt": "It currently has 50 Maker Labs in 20 cities in India and is looking at franchise Investment starting from INR 5 Lakhs upto 20 Lakhs to own a Maker Lab at your locality",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres-11657102429811.html",
-      "originalUrl": "https://www.livemint.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres-11657102429811.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2022/07/06/600x338/png_20220706_153448_0000_1657102962845_1657102970526.png",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres/amp-11657102429811.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres/amp-11657102429811.html",
-      "publishedDateTime": "2022-07-06T14:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-richard-kyte-the-real-ethical-problem-with-artificial-intelligence.md",
-      "title": "Richard Kyte: The real ethical problem with artificial intelligence",
-      "excerpt": "The second set of concerns have to do with Artificial General Intelligence (AGI).  What if robots obtain consciousness?  Should they have legal and ethical rights just as people do?     You may have heard about the Google engineer who was placed on leave after claiming that LaMDA,",
-      "sourceUrl": null,
-      "webUrl": "https://fredericksburg.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_f555c304-87e7-589f-b761-002ec2454688.html",
-      "originalUrl": "https://fredericksburg.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_f555c304-87e7-589f-b761-002ec2454688.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/f/55/f555c304-87e7-589f-b761-002ec2454688/62c454ed51306.preview.jpg?crop=749%2C393%2C0%2C51&resize=749%2C393&order=crop%2Cresize",
-          "width": 749,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fredericksburg.com",
-        "domain": "fredericksburg.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres.md",
-      "title": "SP Robotics Maker Lab opens app for Franchises; plans to open 100+ centres",
-      "excerpt": "It currently has 50 Maker Labs in 20 cities in India and is looking at franchise Investment starting from INR 5 Lakhs upto 20 Lakhs to own a Maker Lab at your locality",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres-101657102405520.html",
-      "originalUrl": "https://www.hindustantimes.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres-101657102405520.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2022/07/06/1600x900/png_20220706_153448_0000_1657102775386_1657102784116.png",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres-101657102405520-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres-101657102405520-amp.html",
-      "publishedDateTime": "2022-07-06T03:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

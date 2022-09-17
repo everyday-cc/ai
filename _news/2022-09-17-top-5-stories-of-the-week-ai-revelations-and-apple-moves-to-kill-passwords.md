@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/top-5-stories-of-the-week-ai-revelations-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-5-stories-of-the-week-ai-revelations-and-apple-moves-to-kill-passwords/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

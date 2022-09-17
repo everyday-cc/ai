@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-from-2022-to-2028-and-key-findings-and-segments-by-end-use-industry-2022-09-15"
 type: article
 quality: 53
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -50,15 +50,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
-  - title: "Global Artificial Intelligence (AI) in Automotive and Transportation Market to Grow at 20% Through 2026"
-    excerpt: "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to ResearchAndMarkets.com's offering. This market is likely to grow at a CAGR of around 20% during 2021-26."
-    publishedDateTime: 2022-09-16T21:17:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-automotive-transportation-market-grow-/2022/09/16/9675469.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
   - title: "5G In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application, By End-use, By Region And Segment Forecasts, 2022 - 2030"
     excerpt: "Reportlinker.com announces the release of the report \"5G In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application, By End-use, By"
     publishedDateTime: 2022-09-13T16:49:00Z

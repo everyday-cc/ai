@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "AI assistance may improve accuracy of breast cancer screening"
-    excerpt: "A decision-referral approach could leverage the strengths of both the radiologist and artificial intelligence to improve the diagnostic capability for breast cancer screening, according to a study published in the July issue of The Lancet Digital Health."
-    publishedDateTime: 2022-09-12T17:27:00Z
-    webUrl: "https://medicalxpress.com/news/2022-09-ai-accuracy-breast-cancer-screening.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-09-ai-accuracy-breast-cancer-screening.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-ai-accuracy-breast-cancer-screening.amp"
+  - title: "How Artificial Intelligence Algorithms Can Detect Cataract"
+    excerpt: "The use of AI in healthcare has new, exciting applications such as cataract detection that can help in early and accurate detection in a cost-effective way."
+    publishedDateTime: 2022-09-15T16:41:00Z
+    webUrl: "https://www.bbntimes.com/science/how-artificial-intelligence-algorithms-can-detect-cataract"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 39
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/ai-assistance-may-impr.jpg"
-        width: 800
-        height: 600
+      - url: "https://www.bbntimes.com/images/articles/global-economy/How_Artificial_Intelligence_Algorithms_Can_Detect_Cataract.png"
+        width: 1487
+        height: 1080
         isCached: true
 
 secured: "u3I09i3Hf6+SV9gKDxNfACggh7CoI02J3ffZTVkPwisLHjqyIdyLrZn6zW0WVz0UabgiskCI2B8gmL0nBbFUTvfVjzxuvjFEjUil/1BBRq0qWFlzNpKdGuW+6YczsYjVZuX8uTbbLKr2r8JNk7qmZOWGQhQhLPH6aq1taPTrvWc3BEYQ9K8KUI5pQLHmY8YhPLhvWyTMXolzsBTG1soDLFEW2OBvWrC7dpFH/z42oJ0fhDUA+eEpnAyYEQghHoOjr8B23qxaJhr7D35LrHgzPYRLYaMMxHmtsDbdrvTzM8LXCSQVTA3pFzFOCal7lnoXgfLq9hZO1/+GCVV3nLjTOPdXkDLaoTF9cb6lH3jIqLcfa7mLsN+guhEhPX0KcKZswseJighq8KDK3y+90lta6SUoBVxmtGjO2m5a1Q1kDSNjB1cUakRlgTibFSuosqPdQlDonGPxnpNeOtuEDSArYvJqBhO6KSwJOQilr+cNOvN0i0I/5F2nejKaMLarpOYdScE7Hop5nENhDHjJZHEeww==;kqeevl6iZpSaIL7hRqJqQg=="
