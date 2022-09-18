@@ -73,7 +73,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 16
+    quality: 18
 
 secured: "suL8Mi604p+JsFNp8MyMQ8vcn4YVVeImBb63qtMgNVRKa5UXF+Odic2mP5CEpbaH9N/RTMmmgTWmO3rE1icch/IZGOkSr05okuu1Y7G7vQ0XXU8q6kjSEmBAjo7fcKj/sBT+imeJgWiPUP1fk/CS+pMk9CAgn/dKoRbh2jb98aqgyM6EiWr049O28NYBiy9aGXlxiQDmQWX85LuLzqWOng2ObxVlu4XAN7tO1516N74fbpXNqgyuTZfVRGYxDTUjtEDK85rWrLT2ATpWToCjAv599lutruRESS1uzYChUnAy+LlflPzkd4gGpesqPqS5rbOe7e715+cTQEnfNa8/AqB5MUmNUqOliGWmwbW985c=;QyKBMtHMJ1pDvpT/WPAZRw=="
 ---

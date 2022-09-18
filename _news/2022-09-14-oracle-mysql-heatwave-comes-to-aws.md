@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3673372/oracle-mysql-heatwave-come
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3673372/oracle-mysql-heatwave-comes-to-aws.amp.html"
 type: article
 quality: 91
-heat: 122
+heat: 121
 published: true
 
 provider:

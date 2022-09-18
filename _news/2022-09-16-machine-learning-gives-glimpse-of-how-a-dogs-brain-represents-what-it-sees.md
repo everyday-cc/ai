@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/09/220915123716.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/09/220915123716.htm"
 type: article
 quality: 62
-heat: 84
+heat: 82
 published: true
 
 provider:

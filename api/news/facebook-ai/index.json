@@ -62,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/ai/ai-act-what-does-general-purpose-ai-gpai-even-mean/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -459,6 +459,49 @@
       "provider": {
         "name": "Local News 8",
         "domain": "localnews8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-05-ai-asked-to-show-what-real-life-cartoon-characters-look-like.md",
+      "title": "AI asked to show what real life cartoon characters look like",
+      "excerpt": "An artificial intelligence system that has recently caught the spotlight for numerous reasons has been asked to produce images of real-life iconic cartoon characters. The artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/88274/ai-asked-to-show-what-real-life-cartoon-characters-look-like/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/88274/ai-asked-to-show-what-real-life-cartoon-characters-look-like/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/8/8/88274_06_ai-asked-to-show-what-real-life-cartoon-characters-look-like.jpg",
+          "width": 620,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-04T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1390,49 +1433,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-capitol-records-walks-away-from-ai-rapper-project-offers-deepest-apologies-to-the-black-community.md",
-      "title": "Capitol Records walks away from AI rapper project, offers ‘deepest apologies to the Black community’",
-      "excerpt": "Capitol Records has announced that it is walking away from an artificial intelligence rapper project after receiving backlash for the AI model’s “gross stereotypes” of the Black community.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/blogs/in-the-know/3613048-capitol-records-walks-away-from-ai-rapper-project-offers-deepest-apologies-to-the-black-community/",
-      "originalUrl": "https://thehill.com/blogs/in-the-know/3613048-capitol-records-walks-away-from-ai-rapper-project-offers-deepest-apologies-to-the-black-community/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/08/capitolrecords_10052019getty.jpg?w=1280",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/blogs/in-the-know/3613048-capitol-records-walks-away-from-ai-rapper-project-offers-deepest-apologies-to-the-black-community/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/3613048-capitol-records-walks-away-from-ai-rapper-project-offers-deepest-apologies-to-the-black-community/amp/",
-      "publishedDateTime": "2022-08-23T22:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],
