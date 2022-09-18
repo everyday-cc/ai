@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Say Hello to the Next Generational AI Earbud That’s the most cost effective translation equipment for churches – Timekettle"
+    excerpt: "Listen to the powerful preaching of God’s Word, now in your own language with the AI church translation equipment earbuds. GUANGDONG – SEPTEMBER 18, 2022 – Earbuds have come a long way since they were introduced to the world way back in 1891 by Ernest Mercadier."
+    publishedDateTime: 2022-09-17T17:54:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-9-18-say-hello-to-the-next-generational-ai-earbud-thats-the-most-cost-effective-translation-equipment-for-churches-timekettle"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
   - title: "Timekettle WT2 Edge Offers The Best Travel Experience with Its Real Time Translation Earbuds Capability"
     excerpt: "The Timekettle WT2 Edge is so small that it can be worn inconspicuously on any occasion without drawing attention to itself. It is easy to use by anyone who travels abroad or communicates with foreign friends and colleagues,"
     publishedDateTime: 2022-09-17T17:48:00Z

@@ -41,22 +41,6 @@ related:
         width: 624
         height: 352
         isCached: true
-  - title: "Nvidia Hopper GPU slays predecessor in ML benchmarks"
-    excerpt: "Benchmarks aren't the same as real world use, but they can give a good idea of what’s to come, and Nvidia's Hopper GPU performance is impressive."
-    publishedDateTime: 2022-09-13T14:09:00Z
-    webUrl: "https://www.networkworld.com/article/3673256/nvidia-hopper-gpu-slays-predecessor-in-ml-benchmarks.html"
-    ampWebUrl: "https://www.networkworld.com/article/3673256/nvidia-hopper-gpu-slays-predecessor-in-ml-benchmarks.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3673256/nvidia-hopper-gpu-slays-predecessor-in-ml-benchmarks.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 76
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/05/17/10/brain_mind_circuits_connections_artificial_intelligence_by_metamorworks_gettyimages-949321092_1200x800-100767997-large-100928072-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Upstart claims its chips beat Nvidia's A100 on AI oomph"
     excerpt: "SambaNova says its latest chips can best Nvidia's A100 silicon by a wide margin, at least when it comes to machine learning workloads. The Palo Alto-based AI startup this week revealed its DataScale systems and Cardinal SN30 accelerator,"
     publishedDateTime: 2022-09-15T20:33:00Z

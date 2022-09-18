@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3673372/oracle-mysql-heatwave-come
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3673372/oracle-mysql-heatwave-comes-to-aws.amp.html"
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6323c5bfd0627c92277a03a5/0x0.png?format=png&width=1200"
         width: 936
         height: 444
-        isCached: true
-  - title: "Oracle Announces MySQL HeatWave on AWS"
-    excerpt: "Oracle has announced that MySQL HeatWave is available on Amazon Web Services (AWS). MySQL HeatWave is the only service that combines OLTP, analytics, machine learning, and machine learning-based automation within a single MySQL database."
-    publishedDateTime: 2022-09-13T13:50:00Z
-    webUrl: "https://www.itnewsafrica.com/2022/09/oracle-announces-mysql-heatwave-on-aws/"
-    type: article
-    provider:
-      name: IT News Africa
-      domain: itnewsafrica.com
-    quality: 41
-    images:
-      - url: "https://www.itnewsafrica.com/wp-content/uploads/2022/05/Oracle-Building-696x452.jpg"
-        width: 696
-        height: 452
         isCached: true
   - title: "Oracle Announces MySQL HeatWave on AWS"
     excerpt: "Oracle has announced that MySQL HeatWave is available on Amazon Web Services (AWS). MySQL HeatWave is the only service"

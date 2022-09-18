@@ -28,6 +28,15 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 0
+  - title: "Say Hello to the Next Generational AI Earbud That’s the most cost effective translation equipment for churches – Timekettle"
+    excerpt: "Listen to the powerful preaching of God’s Word, now in your own language with the AI church translation equipment earbuds. GUANGDONG – SEPTEMBER 18, 2022 – Earbuds have come a long way since they were introduced to the world way back in 1891 by Ernest Mercadier."
+    publishedDateTime: 2022-09-17T17:54:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-9-18-say-hello-to-the-next-generational-ai-earbud-thats-the-most-cost-effective-translation-equipment-for-churches-timekettle"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "eHDOMJ4hgNYfVNP9m0NGhIAC1D1d71V7/ZWK/crL4sJAD3GZtYXSj+o+az8UmBOhNS5kaZqtObYk2weWuoQuEFTZzvzNubP8Tl2qswHKdLbWeuYRrKcmyW5LT/YGwF9bCWwhMjd9/rrlgANJ9RgLXb+f1iaJoZRyBV2WLyIhYyLfSIQCMt7VRFNIC0X5Q0Dgm+Pzo81qKA2OpzdGQlDyQhlO8T13sTFYa0WS4Urv2egnooR6qO+L3E4jR1kj2aGbGKlXfrBtNMvVBGUjVZhB//8To+n1oINLCyD1kdYZwC6oxK9rkcVQs/xiZPFS6d5gvr+3cNagr+f57Jp63/MGWh16CRjDVnmFTerylsWy7PnKZjEMR7B/9D0cG8Kg2je5EEGleVwaIwAuBpC+2Slwgoqqi5LqFbn5EewjHURkn5iaEQzZKn4LvBJyS7KXfOmhO7bwMt9Id5/1hpXUtP9gfHSS3XzUy4mjf3AUM1KDzngV4pQYh+NnJ+gu/TAupEfJX4tvKYbf9ij+rU6wYebdmw==;E3KuEbREl1zYo3b/CznwgQ=="
 ---

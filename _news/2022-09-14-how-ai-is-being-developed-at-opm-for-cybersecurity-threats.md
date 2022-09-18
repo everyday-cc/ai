@@ -7,7 +7,7 @@ originalUrl: "https://www.geekwire.com/calendar-event/how-ai-is-being-developed-
 webUrl: "https://www.geekwire.com/calendar-event/how-ai-is-being-developed-at-opm-for-cybersecurity-threats/"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -70,15 +70,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "MSP360 Partners with Deep Instinct to Fully Integrate the World's First Deep Learning Cybersecurity Framework Solution"
-    excerpt: "MSP360, a provider of simple and reliable backup and IT management solutions for managed services providers (MSPs) and IT departments worldwide, is now fully integrated with Deep Instinct, a prevention-first approach to stopping ransomware and other malware using the world's first deep learning cybersecurity framework."
-    publishedDateTime: 2022-09-13T14:05:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/13/9672196.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "Oyk2oEFf/E6AgOOTTBxDbctcMOSPaDeLuW3wutLYJ7KW0V11QhUJuFymJSfZJAbPWAtr0OEi08Iz792NzSc9dQDNr3bpicFBIE8ayHHUU2bqwKdpgQ7YBuiFeKuGMHiRTl9vp/Sp+RDID6f0iVWjmhQmhQnVBrac3VBsE7MRGzWL763hVmORzT/pvUai+Y/COdd9O/KPswH4SJnQpanhL/+NjsE7vvZ8B3dBhySESsgqyadifdIYumFT7CAeTZZQob0ZHezmL2eu/I/7vfC5qLWNopFxrGh3MhGqZFHnRpRY79EUMYEnDLWAVuob/MI9owVuiuWDCM51wub9wDrel2V+pPO32Sh1iKOb+oInbrSoQn4PhO1Tj5bnuHZF1ciFAzZL9iyiyl+y9GxXryTrTr4fni6zvjciQUnr6QWnvEN+TPgOQtfNRLwS0Nhqf0BbPZS9p+Ot7o5a1DB2gxMuPn8G8ihuc9I/MbfL4g16MO4qKlQ9HsEdKl9QB5FciA/DAN8LMa9RN+LClpaglSizlQ==;7Y7ys/V/pzB/6daOpAE5Fg=="
 ---

@@ -43,22 +43,6 @@ related:
         width: 624
         height: 352
         isCached: true
-  - title: "Nvidia Hopper GPU slays predecessor in ML benchmarks"
-    excerpt: "Benchmarks aren't the same as real world use, but they can give a good idea of what’s to come, and Nvidia's Hopper GPU performance is impressive."
-    publishedDateTime: 2022-09-13T14:09:00Z
-    webUrl: "https://www.networkworld.com/article/3673256/nvidia-hopper-gpu-slays-predecessor-in-ml-benchmarks.html"
-    ampWebUrl: "https://www.networkworld.com/article/3673256/nvidia-hopper-gpu-slays-predecessor-in-ml-benchmarks.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3673256/nvidia-hopper-gpu-slays-predecessor-in-ml-benchmarks.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 76
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/05/17/10/brain_mind_circuits_connections_artificial_intelligence_by_metamorworks_gettyimages-949321092_1200x800-100767997-large-100928072-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Supermicro Announces 8U ‘Universal GPU’ Server for NVIDIA H100’s"
     excerpt: "HPC-AI server maker Supermicro today announced what the company said is its most advanced GPU server incorporating eight NVIDIA H100 Tensor Core GPUs. Supermicro now offers three Universal GPU servers: the 4U,"
     publishedDateTime: 2022-09-13T17:26:00Z

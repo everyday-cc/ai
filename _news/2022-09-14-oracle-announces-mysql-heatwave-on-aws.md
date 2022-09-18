@@ -52,20 +52,6 @@ related:
         width: 936
         height: 444
         isCached: true
-  - title: "Oracle Announces MySQL HeatWave on AWS"
-    excerpt: "Oracle has announced that MySQL HeatWave is available on Amazon Web Services (AWS). MySQL HeatWave is the only service that combines OLTP, analytics, machine learning, and machine learning-based automation within a single MySQL database."
-    publishedDateTime: 2022-09-13T13:50:00Z
-    webUrl: "https://www.itnewsafrica.com/2022/09/oracle-announces-mysql-heatwave-on-aws/"
-    type: article
-    provider:
-      name: IT News Africa
-      domain: itnewsafrica.com
-    quality: 41
-    images:
-      - url: "https://www.itnewsafrica.com/wp-content/uploads/2022/05/Oracle-Building-696x452.jpg"
-        width: 696
-        height: 452
-        isCached: true
 
 secured: "a0OGexoeQJJmKeQStjzqxHmzHsZWrQrZ10qRcTEtzNf3px2AvDZVufBOZGKNfIWeReKfznGnDVDFfoaIB4aIbc/d1UAr1hiwLKaCzL30kE7JurxDd/UZ3r/aEFb+wHyjB/4mVN/PhgwREuVd2FBo9IO3N0Idh1ygVEmGm8POCo7svBoiW3yBNu12I0/1dalSzIpjJUgJE/CpE/c7lhaAElhaEV0atnaRi8FIHI/1SVW8n4iwJhu7wOEdltRpvPJlp3uxzN0v5uV+jRUp1IA5djhq/n7yO3q7UDfvQSe6/KMKxijyS/7A5hBXS7uoUjbW4suHq3yNmlZNH1P0FhR+eRpvJbqGRQkBPf6haoG1ED8=;cTLdAYWj8k181gNxq8suDQ=="
 ---

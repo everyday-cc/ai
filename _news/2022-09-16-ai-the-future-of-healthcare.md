@@ -68,22 +68,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 64
-  - title: "Health care researchers must be wary of misusing AI"
-    excerpt: "An international team of researchers, writing in the journal Nature Medicine, advises that strong care needs to be taken not to misuse or overuse machine learning (ML) in health care research."
-    publishedDateTime: 2022-09-13T14:52:00Z
-    webUrl: "https://medicalxpress.com/news/2022-09-health-wary-misusing-ai.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-09-health-wary-misusing-ai.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-health-wary-misusing-ai.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/health-care-researcher.jpg"
-        width: 1323
-        height: 979
-        isCached: true
 
 secured: "PEmK3BrCWU3gURi0f8hJHMTkvp65KUgFgop/SmWkEfDoil/81qZXfNpV9NvJ+5edtDDP4edxfJUou6kXA73tjXkIActOj7xrNZEitVquQ2gozA2Vje/yxJvF19IIwkU3Vk2y55mYJho43CGrUp94rzJ7y5wthCpB7ok7RTYpS22dK8yzSQzhATtKVTn3VzNHI+Ww9fuwkeXPMT45mwT3ZPhxewAPeoeJQBW4J0lprLUXQUCn6iR1B23YC1cEWCE53KoWodPbiI1KlxczgVW9Pxz3Mmk1BRyOHUsG6rrXIZm1dRz0WvDhT2UtPIPwKbJuvl+VmZGl5GgQcVg63wWiZPfiEbuWiopdkK/evlGjfn6wovezUI5tcHahvgZmb2KqqeRNImfnfK5jCYDQ7kvaeWRFhxociM/0OA3ccIDhqM6/timcPYiMOm1AqGn128U05CD+d/tr0DJxWBlT6NJSlsTjtIW9uvP0k0cMzJlVBeBVFCeTXXzDInZ2ttu2xVhNTCmTcVUyk/F/Zhlbtyvlgw==;HcSU1QQAsWBo/vjAQ7Qp8A=="
 ---
