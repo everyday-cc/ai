@@ -48,15 +48,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Oracle Announces MySQL HeatWave on AWS"
-    excerpt: "Oracle has announced that MySQL HeatWave is available on Amazon Web Services (AWS). MySQL HeatWave is the only service"
-    publishedDateTime: 2022-09-13T18:15:00Z
-    webUrl: "https://www.datanami.com/this-just-in/oracle-announces-mysql-heatwave-on-aws/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 21
 
 secured: "wj3jkw+xLMDUQHDb626brckBfSLhNn03/DwGqyh96pQshP5S9wdEakfNgxUPmMBQsb3j7AsuPhz4FahZ7RM83xmZHtVPr1APpfCHRs35fQQ8QcgRH7/9wN8KKMYsYvkuNQlmUBqNnR9h8zU11GVNOTVgGu3KhcaDKwU2cFgG1PQQTrdgISVUYDhH3Y7AhFLO3Inp7tqKET/d/o9sKHP802AErOhkF8YcjwFaCdB7+GDhe0I2XXzMEYKCzHjEK3iQiPDe0iTNOUSF5VZdAZoiKW+Co1L0ZVq7U18zyjQnnn+hOsKn+1sHkyHwoUfFWzjJi4VYGe5o1q9yBY9z3okKJ/IT8H8ma5uGo1xYdsoZy0GSzb6UEP0KiJFb4+fSM9WiHsbNmKby2kizW8i1uS2jvLqmsR9Rh3pdK/Cu1IvrJ8Yjs1wZve09daU0A2C7SH3Y2t+ZvRgG9F+L8uNSSkI9hhbFvmET5F72mBy2+jqi1xHQvhwRt7c9auVZ3tUPpVzvojs5W84bq9fQ8UHJN+DYJA==;IS0o5LzmIB99U1La6YcBuQ=="
 ---

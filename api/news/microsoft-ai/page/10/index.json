@@ -2,6 +2,118 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-06-24-b5-prospective-cohort-analysis-of-normal-versus-mild-cognitive-impairment-for-quality-of-life-outcome-following-dbs-for-parkinsons-disease.md",
+      "title": "B.5 Prospective cohort analysis of normal versus mild cognitive impairment for quality of life outcome following DBS for Parkinson’s disease",
+      "excerpt": "It is unclear where this cut-off should occur and if patients with mild cognitive impairment (MCI) do not do as well. This prospective cohort analysis assessed if pre-operative cognition affected post-operative quality of life. Methods: PD patients ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/canadian-journal-of-neurological-sciences/article/b5-prospective-cohort-analysis-of-normal-versus-mild-cognitive-impairment-for-quality-of-life-outcome-following-dbs-for-parkinsons-disease/5A516A47945EA0A34EABA4BEDC0E8C04",
+      "originalUrl": "https://www.cambridge.org/core/journals/canadian-journal-of-neurological-sciences/article/b5-prospective-cohort-analysis-of-normal-versus-mild-cognitive-impairment-for-quality-of-life-outcome-following-dbs-for-parkinsons-disease/5A516A47945EA0A34EABA4BEDC0E8C04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-p002-saccade-parameters-reveal-cognitive-impairment-and-differentially-associate-with-cognitive-domains-across-neurodegenerative-diseases.md",
+      "title": "P.002 Saccade parameters reveal cognitive impairment and differentially associate with cognitive domains across neurodegenerative diseases",
+      "excerpt": "Characterizing oculomotor behaviour in context of cognitive function may enhance disease diagnosis and monitoring. We therefore aimed to quantify cognitive impairment in neurodegenerative disease using saccade behaviour and neuropsychology. Methods ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/canadian-journal-of-neurological-sciences/article/p002-saccade-parameters-reveal-cognitive-impairment-and-differentially-associate-with-cognitive-domains-across-neurodegenerative-diseases/2B76FAA8D609DE44A0B5EC6FBA261041",
+      "originalUrl": "https://www.cambridge.org/core/journals/canadian-journal-of-neurological-sciences/article/p002-saccade-parameters-reveal-cognitive-impairment-and-differentially-associate-with-cognitive-domains-across-neurodegenerative-diseases/2B76FAA8D609DE44A0B5EC6FBA261041",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-how-machine-learning-ai-is-going-to-change-gaming-forever.md",
+      "title": "How machine learning AI is going to change gaming forever",
+      "excerpt": "Services like Craiyon that automatically generate rough AI images based on virtually any input prompt have produced a range of wild and wacky collages across the net, which you ca",
+      "sourceUrl": null,
+      "webUrl": "https://www.windowscentral.com/gaming/xbox/how-machine-learning-ai-is-going-to-change-gaming-forever",
+      "originalUrl": "https://www.windowscentral.com/gaming/xbox/how-machine-learning-ai-is-going-to-change-gaming-forever",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/YgRKrmyt2cCFtKFtsxCGmd-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-06-23-ai-weekly-microsofts-new-moves-in-responsible-ai.md",
       "title": "AI Weekly: Microsoft’s new moves in responsible AI",
       "excerpt": "“We might also see the release of more tools and capabilities within the Azure platform that will make some of the standards mentioned in their Responsible AI Standard more broadly accessible to ...",
@@ -1218,137 +1330,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-dementia-warning-the-sleep-disorder-significantly-associated-with-cognitive-impairment.md",
-      "title": "Dementia warning: The sleep disorder ‘significantly associated' with cognitive impairment",
-      "excerpt": "A new study has now suggested erratic sleep patterns could fuel cognitive impairment in later life. The new study, spanning several decades, has suggested erratic sleep disorders could result in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/life-style/health/1627007/dementia-risk-cognitive-impairment-erratic-sleep-risk-factor",
-      "originalUrl": "https://www.express.co.uk/life-style/health/1627007/dementia-risk-cognitive-impairment-erratic-sleep-risk-factor",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/11/590x/dementia-1627007.jpg?r=1655459385595",
-          "width": 590,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/life-style/health/1627007/dementia-risk-cognitive-impairment-erratic-sleep-risk-factor/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/health/1627007/dementia-risk-cognitive-impairment-erratic-sleep-risk-factor/amp",
-      "publishedDateTime": "2022-06-17T03:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-understanding-learning-by-inference.md",
-      "title": "Understanding learning by inference",
-      "excerpt": "suggesting that Microsoft shares will likely drop soon, too. “Knowing this hidden relationship means you can learn a lot faster,” Boorman said. To investigate how humans can use a cognitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/956279",
-      "originalUrl": "https://www.eurekalert.org/news-releases/956279",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-best-machine-learning-platforms-2022.md",
-      "title": "Best Machine Learning Platforms 2022",
-      "excerpt": "Machine Learning Runtime delivers scalable clusters that include AutoML and other optimization frameworks. The platform also supports collaborative notebooks and a Feature Store that simplifies MLOps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/machine-learning-solutions/",
-      "originalUrl": "https://www.eweek.com/big-data-and-analytics/machine-learning-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-BMC_ZSO_Image4.jpeg",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
       ]
     }
   ],

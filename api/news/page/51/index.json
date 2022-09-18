@@ -2,6 +2,153 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2022-08-04-cognitive-solution-market-by-latest-trend-growing-demand-and-technology-advancement-2022-2031.md",
+      "title": "Cognitive Solution Market By Latest Trend, Growing Demand And Technology Advancement 2022-2031",
+      "excerpt": "Restraints and opportunity analysis is a tool used in assessing the potential for new products and services ... World's Biggest Cognitive Solution Market Specific manufacturing Microsoft ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104645277/Cognitive-Solution-Market-By-Latest-Trend-Growing-Demand-And-Technology-Advancement-2022-2031",
+      "originalUrl": "https://menafn.com/1104645277/Cognitive-Solution-Market-By-Latest-Trend-Growing-Demand-And-Technology-Advancement-2022-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-08/04/EP_0a768image_story.jpeg",
+          "width": 286,
+          "height": 286,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-microsoft-becomes-australian-space-hubs-first-constellation-partner.md",
+      "title": "Microsoft becomes Australian space hub's first 'Constellation Partner'",
+      "excerpt": "As part of the agreement, the tech giant will provide hub members with Microsoft Azure Space engineers as they build products for commercial use",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/cloud/368734/microsoft-becomes-first-constellation-partner-at-australia-space-hub",
+      "originalUrl": "https://www.itpro.co.uk/cloud/368734/microsoft-becomes-first-constellation-partner-at-australia-space-hub",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816538/itpro/2018/12/musktomarsshutterstock_1047890749.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-veritone-creates-ai-driven-revenue-opportunities-for-enterprise-media-entertainment-companies-on-aws.md",
+      "title": "Veritone Creates AI-Driven Revenue Opportunities for Enterprise Media & Entertainment Companies on AWS",
+      "excerpt": "a hyper-expansive enterprise artificial intelligence (AI) platform, has announced an extension of its work with Amazon (NASDAQ: AMZN) and Amazon Web Services (AWS) to support its Media ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/veritone-creates-ai-driven-revenue-opportunities-for-enterprise-media-entertainment-companies-on-aws-2022-08-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/veritone-creates-ai-driven-revenue-opportunities-for-enterprise-media-entertainment-companies-on-aws-2022-08-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-04-demand-for-inspection-robots-expected-to-spike-by-2023.md",
       "title": "Demand for Inspection Robots Expected to Spike by 2023",
       "excerpt": "Shenhao speculates that inspection robots will gain popularity in three major application fields: energy, rail and power stations.",
@@ -973,145 +1120,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-aws-and-microsoft-eye-economy-in-a-bid-to-control-cloud-cost.md",
-      "title": "AWS and Microsoft eye economy in a bid to control cloud cost",
-      "excerpt": "Microsoft and Amazon pledged to control costs for cloud customers during quarterly earnings calls last week, acknowledging the financial and operation strains inflation and rising interest rates have put on their customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ciodive.com/news/AWS-Microsoft-Azure-Cloud-Cost/628823/",
-      "originalUrl": "https://www.ciodive.com/news/AWS-Microsoft-Azure-Cloud-Cost/628823/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ciodive.com/imgproxy/n5FZkMy-IWVuDlOHzZ-XELfiyAL-yXkAZb6FFzDfdaY/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTY3MTAzMzA4MC5qcGc.jpg",
-          "width": 770,
-          "height": 364,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO Dive",
-        "domain": "ciodive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-how-analog-ai-hardware-may-one-day-reduce-costs-and-carbon-emissions.md",
-      "title": "How analog AI hardware may one day reduce costs and carbon emissions",
-      "excerpt": "This is a type of artificial neural network in which physical analog hardware is used to emulate neurons as opposed to software-based approaches. “One of the obvious benefits of using analog ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/how-analog-ai-hardware-may-one-day-reduce-costs-and-carbon-emissions/",
-      "originalUrl": "https://venturebeat.com/business/how-analog-ai-hardware-may-one-day-reduce-costs-and-carbon-emissions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1396534464.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 698,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/business/how-analog-ai-hardware-may-one-day-reduce-costs-and-carbon-emissions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/how-analog-ai-hardware-may-one-day-reduce-costs-and-carbon-emissions/amp/",
-      "publishedDateTime": "2022-08-03T13:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-active-social-life-may-create-cognitive-buffer-against-alzheimers-study-suggests.md",
-      "title": "Active social life may create cognitive buffer against Alzheimer's, study suggests",
-      "excerpt": "Advertisement As the basis of the study, researchers from the United Kingdom explored the idea that genetic and \"life course\" factors may help create a so-called \"cognitive reserve\" that provides ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Health_News/2022/08/03/social-life-cognitive-decline-study/4611659541537/",
-      "originalUrl": "https://www.upi.com/Health_News/2022/08/03/social-life-cognitive-decline-study/4611659541537/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/4611659541537/2022/1/9a254516326158d3d5bbaa2c2e5b48b2/v1.5/Active-social-life-may-create-cognitive-buffer-against-Alzheimers-study-suggests.jpg?lg=5",
-          "width": 900,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Health_News/2022/08/03/social-life-cognitive-decline-study/4611659541537/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2022/08/03/social-life-cognitive-decline-study/4611659541537/",
-      "publishedDateTime": "2022-08-03T13:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

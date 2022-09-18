@@ -210,7 +210,7 @@
       "originalUrl": "https://www.infoworld.com/article/3673372/oracle-mysql-heatwave-comes-to-aws.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -255,6 +255,92 @@
       ]
     },
     {
+      "path": "_news/2022-09-13-older-adults-with-regular-activity-routines-are-happier-and-do-better-on-cognitive-tests-study-finds.md",
+      "title": "Older adults with regular activity routines are happier and do better on cognitive tests, study finds",
+      "excerpt": "PITTSBURGH, Sept. 13, 2022 — Older adults who consistently get up early and remain active throughout the day are happier and perform better on cognitive tests than those with irregular activity ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/964464",
+      "originalUrl": "https://www.eurekalert.org/news-releases/964464",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/03e36f07-bf84-44c4-8f4f-b1e6bcba7f6d/Rendition/low-res/Content/Public",
+          "width": 558,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-sir-ian-mckellen-hints-memory-really-does-get-worse-with-age-mild-cognitive-decline.md",
+      "title": "Sir Ian McKellen hints 'memory really does get worse' with age – mild cognitive decline",
+      "excerpt": "Could McKellen be hinting towards mild cognitive impairment (MCI) or dementia? Both conditions are more likely to occur in older age. McKellen told Radio Times: \"If you were to get to the stage ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/life-style/health/1667246/sir-ian-mckellen-health-memory-mild-cognitive-impairment-symptoms-dementia",
+      "originalUrl": "https://www.express.co.uk/life-style/health/1667246/sir-ian-mckellen-health-memory-mild-cognitive-impairment-symptoms-dementia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/11/590x/Sir-McKellen-is-at-risk-of-mild-cognitive-impairment-1667246.jpg?r=1662748553803",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/life-style/health/1667246/sir-ian-mckellen-health-memory-mild-cognitive-impairment-symptoms-dementia/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/health/1667246/sir-ian-mckellen-health-memory-mild-cognitive-impairment-symptoms-dementia/amp",
+      "publishedDateTime": "2022-09-11T15:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-09-cognitive-overload-the-hidden-cybersecurity-threat.md",
       "title": "Cognitive Overload: The hidden cybersecurity threat",
       "excerpt": "Very quickly, we’ve seen this always-on cybersecurity environment leads to burnout, and there’s one major contributor: cognitive overload ... specific products and services to secure.",
@@ -284,6 +370,49 @@
       "provider": {
         "name": "SC Magazine",
         "domain": "scmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-poor-periodontal-health-linked-to-cognitive-decline-dementia.md",
+      "title": "Poor Periodontal Health Linked to Cognitive Decline, Dementia",
+      "excerpt": "THURSDAY, Sept. 8, 2022 (HealthDay News) -- Poor periodontal health and tooth loss are associated with increased risks for cognitive decline and dementia, according to a review published online Sept.",
+      "sourceUrl": null,
+      "webUrl": "https://journalstar.com/lifestyles/health-med-fit/poor-periodontal-health-linked-to-cognitive-decline-dementia/article_a2eb218e-9904-5944-98ad-ad712bb4dd32.html",
+      "originalUrl": "https://journalstar.com/lifestyles/health-med-fit/poor-periodontal-health-linked-to-cognitive-decline-dementia/article_a2eb218e-9904-5944-98ad-ad712bb4dd32.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/b/80/b8048e2b-a168-5074-ab2b-c2034fb52437/631a909434446.image.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://journalstar.com/lifestyles/health-med-fit/poor-periodontal-health-linked-to-cognitive-decline-dementia/article_a2eb218e-9904-5944-98ad-ad712bb4dd32.amp.html",
+      "cdnAmpWebUrl": "https://journalstar-com.cdn.ampproject.org/c/s/journalstar.com/lifestyles/health-med-fit/poor-periodontal-health-linked-to-cognitive-decline-dementia/article_a2eb218e-9904-5944-98ad-ad712bb4dd32.amp.html",
+      "publishedDateTime": "2022-09-08T18:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lincoln Journal Star",
+        "domain": "journalstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1226,135 +1355,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-05-server-brands-enhancing-cloud-services-subscription-business-says-digitimes-research.md",
-      "title": "Server brands enhancing cloud services subscription business, says DIGITIMES Research",
-      "excerpt": "As enterprises accelerate their pace of digital transformation and increase the use of cloud services, server brand vendors are keen on expanding their cloud services subscription business in 2022, according to.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20220905VL204.html?chid=2",
-      "originalUrl": "https://www.digitimes.com/news/a20220905VL204.html?chid=2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20220905vl204_files/1_2b.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-05T00:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-boy-8-paralyzed-in-highland-park-shooting-is-showing-signs-of-cognitive-loss-his-family-says.md",
-      "title": "Boy, 8, paralyzed in Highland Park shooting is showing signs of cognitive loss, his family says",
-      "excerpt": "An 8-year-old boy who was paralyzed in the Fourth of July parade mass shooting in Highland Park, Illinois, also appears to be showing signs of cognitive loss, his family said. Cooper Roberts ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/us-news/boy-paralyzed-highland-park-shooting-showing-signs-cognitive-loss-fami-rcna46061",
-      "originalUrl": "https://www.nbcnews.com/news/us-news/boy-paralyzed-highland-park-shooting-showing-signs-cognitive-loss-fami-rcna46061",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-09/220902-cooper-roberts-mn-1025-1617dc.jpg",
-          "width": 437,
-          "height": 436,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna46061",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna46061",
-      "publishedDateTime": "2022-09-02T19:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-highland-park-shooting-survivor-cooper-showing-signs-of-cognitive-loss.md",
-      "title": "Highland Park shooting survivor Cooper showing signs of cognitive loss",
-      "excerpt": "Nearly two months after being paralyzed in the Fourth of July parade shooting in Highland Park, 8-year-old Cooper Roberts is showing signs of cognitive loss, according to the medical team at the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailyherald.com/news/20220901/highland-park-shooting-survivor-cooper-showing-signs-of-cognitive-loss",
-      "originalUrl": "https://www.dailyherald.com/news/20220901/highland-park-shooting-survivor-cooper-showing-signs-of-cognitive-loss",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailyherald.com/storyimage/DA/20220901/NEWS/220909941/AR/0/AR-220909941.jpg&updated=202209021130&imageversion=Facebook&exactH=630&exactW=1200&exactfit=crop&noborder",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T17:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

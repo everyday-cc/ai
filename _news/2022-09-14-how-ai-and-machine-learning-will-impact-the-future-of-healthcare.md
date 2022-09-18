@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/09/14/how-ai-and-machi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/09/14/how-ai-and-machine-learning-will-impact-the-future-of-healthcare/amp/"
 type: article
 quality: 121
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -64,15 +64,6 @@ related:
         width: 333
         height: 500
         isCached: true
-  - title: "Healthcare researchers must be wary of misusing AI"
-    excerpt: "A commentary advocates the proper application of artificial intelligence in healthcare and warns of the dangers when machine learning algorithms are misused."
-    publishedDateTime: 2022-09-13T17:14:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/09/220913110401.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 64
 
 secured: "RsoIwiPE9YZjxtcIuMrzMvOIUe6HDwjbvt43jN9o459w0mKEjBlwynBu0qCpx7q66sjX+VxbD0mOQ2xDhAyw1DYTbn8nuIi5EoOxthRGZBIo9FVccIi+a16pJcsjnQCG0vQw+btfOsuEKkfoOioJqjkhZXub7kn6r2gjXwcsMBE01TbN36KPXO8iX144dS0Pm9Dc73/gTsxc9MW91Pj/jgZ5PwSf0kSde3ajQ+2Y8UGKTXrnY7sqEEwIWKBnQQ9aOMLWcohhMkGfTcCNBz+O+JibwUTfzbYHfNRLwBWSP6ifzsU3tjYk7TAYARigMSiJ28ZhBdAwchObXAGznWgIb0pUUMQ5XfX7m0peTc1Kx1EmzL7HlwHzd6S1zE1iHmh11fJgEvYfO5rMkEbI2UVp7EQwTagHG9HTpt8p7s8XLvLCxaya023MFF/B+XF+wc6CzZhPD5gSk8x3XpZEq+NFxxIG7eKUDMWFZBKRsXpc6tm+CS29zyAIXYbSPQexwOwDiAP5PW+yXOBJml7xBjlyIw==;j2FMjLf/ODLdd93gMc2B+w=="
 ---

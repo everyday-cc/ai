@@ -2,6 +2,143 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-09-08-umethod-getlabs-partner-to-make-personalized-cognitive-decline-care-plans-accessible-in-arizona.md",
+      "title": "uMETHOD, Getlabs partner to make personalized cognitive decline care plans accessible in Arizona",
+      "excerpt": "One of the biggest reasons why cognitive decline patients can’t adhere to their care plans is unfulfilled lab orders, he said in an interview. By adding Getlabs’ at-home phlebotomy services to ...",
+      "sourceUrl": null,
+      "webUrl": "https://medcitynews.com/2022/09/umethod-getlabs-partner-to-make-personalized-cognitive-decline-care-plans-accessible-in-arizona/",
+      "originalUrl": "https://medcitynews.com/2022/09/umethod-getlabs-partner-to-make-personalized-cognitive-decline-care-plans-accessible-in-arizona/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medcitynews.com/uploads/2021/06/GettyImages-1174687693.jpg",
+          "width": 626,
+          "height": 557,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-07T14:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedCity News",
+        "domain": "medcitynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-08-mohali-mc-turns-to-face-recognition-attendance-system-to-rein-in-absence.md",
+      "title": "Mohali MC turns to face recognition attendance system to rein in absence",
+      "excerpt": "Working to curb unauthorised absence at the municipal corporation office, the civic body’s finance and contract committee on Wednesday gave the nod for a face-recognition attendance system for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/cities/chandigarh-news/mohali-mc-turns-to-face-recognition-attendance-system-to-rein-in-absence-101662585164173.html",
+      "originalUrl": "https://www.hindustantimes.com/cities/chandigarh-news/mohali-mc-turns-to-face-recognition-attendance-system-to-rein-in-absence-101662585164173.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/09/07/1600x900/f9dfc766-2eee-11ed-b360-96b459ca4506_1662585162670.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/cities/chandigarh-news/mohali-mc-turns-to-face-recognition-attendance-system-to-rein-in-absence-101662585164173-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/chandigarh-news/mohali-mc-turns-to-face-recognition-attendance-system-to-rein-in-absence-101662585164173-amp.html",
+      "publishedDateTime": "2022-09-07T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-08-hebbia-raises-30m-to-launch-an-ai-powered-document-search-tool.md",
+      "title": "Hebbia raises $30M to launch an AI-powered document search tool",
+      "excerpt": "Hebbia, a startup developing AI-powered search tools, has raised $30 million in a venture funding round as it launches a commercial offering.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/07/hebbia-raises-30m-to-launch-an-ai-powered-document-search-tool/",
+      "originalUrl": "https://techcrunch.com/2022/09/07/hebbia-raises-30m-to-launch-an-ai-powered-document-search-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-618355044.jpg?w=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/07/hebbia-raises-30m-to-launch-an-ai-powered-document-search-tool/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/07/hebbia-raises-30m-to-launch-an-ai-powered-document-search-tool/amp/",
+      "publishedDateTime": "2022-09-07T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-07-transfer-learning-for-tensorflow-image-classification-models-in-amazon-sagemaker.md",
       "title": "Transfer learning for TensorFlow image classification models in Amazon SageMaker",
       "excerpt": "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised",
@@ -1033,144 +1170,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-09-07-developing-artificial-intelligence-for-medical-devices.md",
-      "title": "Developing Artificial Intelligence for Medical Devices",
-      "excerpt": "However, a Canadian company specializing in artificial intelligence (AI)-based monitoring of the spread of infectious diseases had already warned its customers of the risk of an epidemic in China as early as December 2019. 1 The warning had been derived ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/artificial-intelligence/developing-artificial-intelligence-medical-devices",
-      "originalUrl": "https://www.mddionline.com/artificial-intelligence/developing-artificial-intelligence-medical-devices",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/artificial-intelligence-5291510_640_web.jpg",
-          "width": 770,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-06T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-07-germany-is-buying-robots-that-look-like-russian-tanks-to-practice-fighting-the-real-thing.md",
-      "title": "Germany is buying robots that look like Russian tanks to practice fighting the real thing",
-      "excerpt": "The robot vehicles can be operated by remote control or function autonomously. Indeed, they can move in formation to simulate enemy tactics. \"Twenty-plus 'enemy' vehicles can be programmed and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/germany-buys-robots-that-look-like-russian-tanks-for-training-2022-9",
-      "originalUrl": "https://www.businessinsider.com/germany-buys-robots-that-look-like-russian-tanks-for-training-2022-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6317a8ec5c870800189eda8c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/germany-buys-robots-that-look-like-russian-tanks-for-training-2022-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/germany-buys-robots-that-look-like-russian-tanks-for-training-2022-9?amp",
-      "publishedDateTime": "2022-09-06T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-07-mcdonalds-breakfasts-driverless-buses-among-innovations-launched-in-newcastle.md",
-      "title": "McDonald's breakfasts, driverless buses among innovations launched in Newcastle",
-      "excerpt": "The polymer bank note? Newcastle tested and passed. The driverless bus? Trialled in Newy. Sydney's infamous lockout laws? Taken up after a \"successful\" installation in Newcastle. The Hunter has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc.net.au/news/2022-09-07/mcdonalds-breakfasts-driverless-buses-newcastle-innovations/101399644",
-      "originalUrl": "https://www.abc.net.au/news/2022-09-07/mcdonalds-breakfasts-driverless-buses-newcastle-innovations/101399644",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://live-production.wcms.abc-cdn.net.au/ed3cda7a3cd6263f40028637d2c3cb93?impolicy=wcms_crop_resize&cropH=467&cropW=700&xPos=0&yPos=230&width=862&height=575",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.abc.net.au/article/101399644",
-      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101399644",
-      "publishedDateTime": "2022-09-06T16:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Australian Broadcasting Corporation",
-        "domain": "abc.net.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3673372/oracle-mysql-heatwave-come
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3673372/oracle-mysql-heatwave-comes-to-aws.amp.html"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -48,15 +48,6 @@ related:
         width: 936
         height: 444
         isCached: true
-  - title: "Oracle Announces MySQL HeatWave on AWS"
-    excerpt: "Oracle has announced that MySQL HeatWave is available on Amazon Web Services (AWS). MySQL HeatWave is the only service"
-    publishedDateTime: 2022-09-13T18:15:00Z
-    webUrl: "https://www.datanami.com/this-just-in/oracle-announces-mysql-heatwave-on-aws/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 21
 
 secured: "TVf1Og6ahrMujiD3lC2DeNWvCV7hgaLsgG+7aDny4tIQ9iMfF/nLOMGZWWaoIYS/uzhfJt3ucor0GMkWKpXZ9HaJHq7dAbHj26RjT/G3HFCDUO/AglPDpT/Ut2p3MnZTVksY5T73t6LmuZJtx7yQ3iKW9Ts+Wvq1VaPnnnP5f3PEUGOdwy8qsmFHFY5c53I9OToOg0efbol0wvDzxesmNxrXH5OalKCMRc40OOAKe3HmqLTekEOFixTjD2VVi1jvy9CHJMooZjC2L66sgXUu4XxSz+VH4iNvzKIpEafMpl73QRiQq/FDGF++xVUSaO3l2AzCvhh5KIZTXp3o7qzFeAMqFUGZ622sdUqQlM1UlvLkKLBaVo9XPmY/cpiV5lmCuuS29ZQf1mC3tRd2yVfKhAmmUpl//7Wjud1sueDJ4wdA+aJ9S/XqmKcTpx3FmQwhv/X7TX/YxF0+b4mov49m5YJxSfqCbYEasdl5/KloKpgJaNebrtLodsv9f06dwfXgoK31xBSlLL3BOXC31vfI0w==;pFEnhnqf7bVqRmvT6Yjfyg=="
 ---

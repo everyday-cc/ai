@@ -20,20 +20,6 @@ topics:
   - AI in Security
 
 related:
-  - title: "Alcatraz AI plays on its Bulgarian connections for $25m series A"
-    excerpt: "The pitch deck says Alcatraz has a competitive advantage for years to come with the most complex biometric product ever brought to market."
-    publishedDateTime: 2022-09-13T17:02:00Z
-    webUrl: "https://www.biometricupdate.com/202209/alcatraz-ai-plays-on-its-bulgarian-connections-for-25m-series-a"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 37
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/11165134/alcatraz-rock-biometric-access-control.png"
-        width: 2048
-        height: 1152
-        isCached: true
   - title: "Alcatraz AI, a Bulgarian security solution that provides physical access control using facial recognition and AI, targets 1M euro round on SeedBlink"
     excerpt: "IT - Alcatraz AI, a Bulgarian startup which developed a security solution that provides physical access control using industry-leading 3D facial authentication"
     publishedDateTime: 2022-09-14T11:56:00Z

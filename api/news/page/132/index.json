@@ -2,6 +2,127 @@
   "page": 132,
   "value": [
     {
+      "path": "_news/2022-06-04-artificial-intelligence-spotted-inventing-its-own-creepy-language.md",
+      "title": "Artificial intelligence spotted inventing its own creepy language",
+      "excerpt": "An artificial intelligence program has developed its own language and no one can understand it. OpenAI is an artificial intelligence systems developer – their programs are fantastic examples of super-computing but there are quirks.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2022/06/03/artificial-intelligence-spotted-inventing-its-own-creepy-language/",
+      "originalUrl": "https://nypost.com/2022/06/03/artificial-intelligence-spotted-inventing-its-own-creepy-language/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/06/bird.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2022/06/03/artificial-intelligence-spotted-inventing-its-own-creepy-language/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/06/03/artificial-intelligence-spotted-inventing-its-own-creepy-language/amp/",
+      "publishedDateTime": "2022-06-03T19:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-06-04-ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts.md",
+      "title": "AI and machine learning are improving weather forecasts, but they won't replace human experts",
+      "excerpt": "While tools like AI open up new possibilities for better weather forecasts, many parts of the job are handled more skillfully by experienced people.",
+      "sourceUrl": null,
+      "webUrl": "https://godanriver.com/weather/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts/article_dd0817f4-8a7d-5e88-8ecd-6d243e5d7592.html",
+      "originalUrl": "https://godanriver.com/weather/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts/article_dd0817f4-8a7d-5e88-8ecd-6d243e5d7592.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/godanriver.com/content/tncms/assets/v3/editorial/d/d0/dd0817f4-8a7d-5e88-8ecd-6d243e5d7592/629685733bbb2.preview.jpg?crop=606%2C318%2C0%2C36&resize=606%2C318&order=crop%2Cresize",
+          "width": 606,
+          "height": 318,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-03T18:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GoDanRiver.com",
+        "domain": "godanriver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-04-aws-introduces-powershell-custom-runtime-for-lambda.md",
+      "title": "AWS Introduces PowerShell Custom Runtime for Lambda",
+      "excerpt": "AWS recently announced a new PowerShell custom runtime for AWS Lambda to run Lambda functions written in PowerShell. With the new runtime developers can write native PowerShell code in Lambda ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2022/06/aws-powershell-lambda/",
+      "originalUrl": "https://www.infoq.com/news/2022/06/aws-powershell-lambda/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-04-driver-in-fatal-uber-crash-rejects-plea-deal-death-in-tempe-was-1st-in-nation-for-self-driving-vehicle.md",
       "title": "Driver in fatal Uber crash rejects plea deal; death in Tempe was 1st in nation for self-driving vehicle",
       "excerpt": "Rafaela Vasquez was streaming 'The Voice' on her phone when the Uber vehicle she was operating struck and killed Elaine Herzberg in 2018, police say.",
@@ -1005,116 +1126,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-pinterest-pins-acquires-ai-powered-shopping-platform-the-yes.md",
-      "title": "Pinterest (PINS) Acquires AI-Powered Shopping Platform The Yes",
-      "excerpt": "The acquisition is believed to help Pinterest accelerate its initiative to evolve as a “home of taste driven shopping” platform. The Yes, a startup founded by CEO Julie Bornstein in 2018, provides a personalized feed-based shopping platform based on users’ preference of brand,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/pinterest-pins-acquires-ai-powered-shopping-platform-the-yes",
-      "originalUrl": "https://www.nasdaq.com/articles/pinterest-pins-acquires-ai-powered-shopping-platform-the-yes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/pinterest-pins-acquires-ai-powered-shopping-platform-the-yes?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/pinterest-pins-acquires-ai-powered-shopping-platform-the-yes?amp",
-      "publishedDateTime": "2022-06-03T07:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-leading-healthcare-artificial-intelligence-company-raises-20m-series-a-extension.md",
-      "title": "Leading Healthcare Artificial Intelligence Company Raises $20m Series A Extension",
-      "excerpt": "Inspire's proprietary Inspire therapy is the first and only FDA-approved neurostimulation technology that provides a safe and effective treatment for moderate to severe obstructive sleep apnea.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/n27541804/leading-healthcare-artificial-intelligence-company-raises-20m-series-a-extension",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/n27541804/leading-healthcare-artificial-intelligence-company-raises-20m-series-a-extension",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27541804",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27541804",
-      "publishedDateTime": "2022-06-03T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-vinith-misra-how-can-our-relationships-with-computers-be-funnier-and-friendlier.md",
-      "title": "Vinith Misra: How can our relationships with computers be funnier and friendlier?",
-      "excerpt": "Artificial intelligence and people often struggle to seamlessly interact. Computer scientist Vinith Misra shares how computational humor could help bridge the gap between humans and their machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.boisestatepublicradio.org/2022-06-03/vinith-misra-how-can-our-relationships-with-computers-be-funnier-and-friendlier",
-      "originalUrl": "https://www.boisestatepublicradio.org/2022-06-03/vinith-misra-how-can-our-relationships-with-computers-be-funnier-and-friendlier",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://npr.brightspotcdn.com/dims4/default/3047633/2147483647/strip/true/crop/7136x4016+0+591/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F06%2F12%2F01-idaho-8178-ju_custom-8efdbd414e8dc7b23142edfc92f19bb001e40edb.jpg",
-          "width": 430,
-          "height": 242,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.boisestatepublicradio.org/2022-06-03/vinith-misra-how-can-our-relationships-with-computers-be-funnier-and-friendlier?_amp=true",
-      "cdnAmpWebUrl": "https://www-boisestatepublicradio-org.cdn.ampproject.org/c/s/www.boisestatepublicradio.org/2022-06-03/vinith-misra-how-can-our-relationships-with-computers-be-funnier-and-friendlier?_amp=true",
-      "publishedDateTime": "2022-06-03T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boise State Public Radio",
-        "domain": "boisestatepublicradio.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

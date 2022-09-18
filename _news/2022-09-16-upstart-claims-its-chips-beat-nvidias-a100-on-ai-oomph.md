@@ -43,20 +43,6 @@ related:
         width: 624
         height: 352
         isCached: true
-  - title: "Supermicro Announces 8U ‘Universal GPU’ Server for NVIDIA H100’s"
-    excerpt: "HPC-AI server maker Supermicro today announced what the company said is its most advanced GPU server incorporating eight NVIDIA H100 Tensor Core GPUs. Supermicro now offers three Universal GPU servers: the 4U,"
-    publishedDateTime: 2022-09-13T17:26:00Z
-    webUrl: "https://insidehpc.com/2022/09/supermicro-announces-8u-universal-gpu-server-for-nvidia-h100s/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 39
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2022/09/Supermicro-Universal-GPU-Servers-0922-300x215.jpg"
-        width: 300
-        height: 215
-        isCached: true
 
 secured: "Q2H+g/2t/F5cefBJgbjZoNngkOGLoePJDOshoNeNwNmDWTpianS1cjSr6NDQgsrKvLbQ2LVLZhPB+KalNxRn71LVRQC0OFYgA6EP3IvyGu5AIiW/P6eTGaBN0RznnvP6yGgPObMmZKO83SHQSPLhuXZyP2K7XqyHxTR/cwvl/RTSdW1wzCw6lHgN+jLycLhXHQVGBlDJ/m1a37AxwR49Nw+WlnEqjcJ/ROXcGFRVEfgx+5hsDz6v5RrRNH14u+bgdFz6gVvzoJXkKxW6DNSWuGcW1xUVrB2v3Un+nFoGTwMEMqGVFMFzNchRiJp39e5dTUQbNvZCc3OuK0tAA1eXPKjo/1rZNo0a9ILTGVfbkvvKkljd6BpcXVlkUlz7NTHHGU6LSPIDwN46KumyFnadC6xc1kySTCtkummnTh19bywBZ6+yXdFeEfLvXRaTzlj4q39gvTzR0yHIiZUwyCUKvNws/XHdiHpJlTspQy8QifQ2iVG2R8IYRwYD2Rx1BQPaioaxFm47ccsLnJAz4TGH8Q==;bzQgQaG30sRP6bhQUMAggQ=="
 ---

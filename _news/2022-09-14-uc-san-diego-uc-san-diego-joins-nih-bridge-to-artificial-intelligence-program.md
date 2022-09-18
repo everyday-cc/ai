@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/uc-san-diego-uc-san-diego-joins-nih-b
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/uc-san-diego-uc-san-diego-joins-nih-bridge-to-artificial-intelligence-program/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 534
     height: 462
     isCached: true
-
-related:
-  - title: "UC San Diego joins NIH 'Bridge to Artificial Intelligence' program"
-    excerpt: "UC San Diego scientists will lead several components of Bridge2AI, a new NIH-funded program to promote the use of AI in health and research."
-    publishedDateTime: 2022-09-13T18:43:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/964578"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 41
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/1f53bc68-e64d-4d07-906d-63acda51f601/Rendition/low-res/Content/Public"
-        width: 700
-        height: 406
-        isCached: true
 
 secured: "0JCBjMyDsTZGyAM99I9rwcU4ttDtgU14SANB3Tvgb5p/gvvxjyfyLgy4ufengJuAv6052YIzunmfcvjSeXiIx6PV3APjpTuQg8cjKrtVRPk/Fc67CyYkNbh54h3sotmbYmXi9VLwd0e2lZfvHEcHWbSGe5gCA7NhhSrXS+5f7+4kU6qyNwasGrQgeR1e5ZIF6f8nfDkCG5LIV05IJFOXhHHGrEGgeDPSHSR/wor6GDFHEJjMBKvxRxzAO9i1b4moNSPW/No/ma8tHr6MsiscrsBeK9L2OL0AAyH2XKUG2tLpDr7N4wpUW5d8yD4pOyv98s/zM4eGHnZcXq50iIpmBooinxIHyxT361EXmE5oIp8=;C8Hggx6528qWHzMuuet3ug=="
 ---

@@ -59,15 +59,6 @@ related:
         width: 750
         height: 384
         isCached: true
-  - title: "Healthcare researchers must be wary of misusing AI"
-    excerpt: "A commentary advocates the proper application of artificial intelligence in healthcare and warns of the dangers when machine learning algorithms are misused."
-    publishedDateTime: 2022-09-13T17:14:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/09/220913110401.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 64
 
 secured: "mJv/Txf9d0u2BpNzM4WtMzYWX60zhQDBfWQHyHNfWPxIbkn3Bp/j++/XWuJNrZZ2HZAwR2wZI/MeljlGz1FZEtRfHQlwXbyf9hSbGTdtH8iET9CbvxOCajtM3wIjhR/UMdOZOM5kcg4/yO1DQ5jfnHUuaEjdQLm6Vhu4JPYiKxDviCtDWo6LET4SU2UBQO6eJqB+ftLNW6fgoJOsIaZW2OT/ODyUQRWJasL9oFP5inZpzXFNn/To7Fd9+JBn1p5S3IS/SxBoYp56x14tUVysgG5OGeFxtW5Ey1CjNyiMwm2dEhdKtQyQjDI1dNaOHSJGVcDkDA5WBbG8a5ieMCeRgRD629cg+bcYvKx797aiau5CtE+U+9ZfnXhzDEwwFrD9e+m5M2NHkkK0UHKdLcFZuM32M05363LWViBKZaSenhAuenSpvBWHYGctjqIao9BRrHaTh660hUIVm6Pt6Wiu4ftMcX60hepZq/J3QwRqjKP8FCXDdWdljaL5lTgWPdCX3HPPsj+aro52pyd2SnrJGA==;e+lLWRzcLfP8qSpk7WBtfQ=="
 ---

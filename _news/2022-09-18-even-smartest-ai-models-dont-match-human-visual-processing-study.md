@@ -1,0 +1,49 @@
+---
+category: news
+title: "Even smartest AI models don't match human visual processing: Study"
+excerpt: "Deep convolutional neural networks (DCNNs) do not see objects the way humans do -- using configural shape perception -- and that could be dangerous in real-world artificial intelligence (Al) applications,"
+publishedDateTime: 2022-09-18T11:55:00Z
+originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1001241"
+webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1001241"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: Daijiworld
+  domain: daijiworld.com
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/mvshetty_sq1_may.jpg"
+    width: 280
+    height: 250
+    isCached: true
+
+related:
+  - title: "Even smartest AI models don't match human visual processing"
+    excerpt: "Deep convolutional neural networks (DCNNs) don't see objects the way humans do -- using configural shape perception -- and that could be dangerous in real-world AI applications. The study employed novel visual stimuli called 'Frankensteins' to explore how the human brain and DCNNs process holistic,"
+    publishedDateTime: 2022-09-16T21:28:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/09/220916144635.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
+  - title: "York University study: Even smartest AI models don’t match human visual processing"
+    excerpt: "Deep convolutional neural networks (DCNNs) don’t see objects the way humans do – using configural shape perception – and that could be dangerous in real-world AI applications, says Professor James Elder,"
+    publishedDateTime: 2022-09-16T18:32:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/965036"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 13
+
+secured: "p8/ZoQrr0pzM2SX/arGgq5BzY8hSpRCSKNDrl838KPWeTNh2YRLIp9wE2gd1p6Nfp23Vk2xUlff0BjUUCs2ZotiTt37OEEcaTrQYJoeKXtcnk4cSZvriXQApFyHEWqv3Ryd6SPLbJViCXYPKI/jkMfQ+Bd94dGYCsjdL16s83mEqhkLXue7XQa0i9qU1JowtbLvMkafGUdANIHCCf460+qLxxO64fMrar0QPnSPIP/YxtXT2fEEENgiBXH982F9E+Ri8Qdw/uP+ROGRKI0zJINWjrT9dQfWo2/BBa7ciZORC7Cfh1LKfgJDjqL4gnEIDzutNJkeSKD6cXOzpibJOeK9hMthuQIoaMLTZxr3b5Pc=;OzZa4Zg24/9h6EkqLGo7/Q=="
+---
+

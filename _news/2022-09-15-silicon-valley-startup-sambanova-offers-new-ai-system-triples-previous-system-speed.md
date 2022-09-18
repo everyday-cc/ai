@@ -42,15 +42,6 @@ related:
         width: 1227
         height: 641
         isCached: true
-  - title: "Foundation models: 2022’s AI paradigm shift"
-    excerpt: "AI models trained on a massive scale — a revolution that began with Google’s BERT in 2018, picked up steam with OpenAI’s GPT-3 in 2020, and entered the zeitgeist with the company’s DALL-E text-to-image generator in early 2021."
-    publishedDateTime: 2022-09-13T18:27:00Z
-    webUrl: "https://venturebeat.com/ai/foundation-models-2022s-ai-paradigm-shift/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "Silicon Valley Startup SambaNova Offers New AI System, Triples Previous System Speed"
     excerpt: "SambaNova Systems, a SoftBank-backed Silicon Valley artificial intelligence chip and systems startup, said on Wednesday it has started offering its new AI system called DataScale SN30, tripling the speed of its previous product."
     publishedDateTime: 2022-09-14T11:02:00Z

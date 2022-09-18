@@ -2,6 +2,154 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-08-09-microsoft-is-a-leader-in-2022-gartner-magic-quadrant-for-cloud-ai-developer-services.md",
+      "title": "Microsoft is a Leader in 2022 Gartner Magic Quadrant for Cloud AI Developer Services",
+      "excerpt": "Gartner has recognized Microsoft as a Leader in the 2022 Gartner® Magic Quadrant™ for Cloud AI Developer Services, with Microsoft placed furthest in “Completeness of Vision”.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/microsoft-is-a-leader-in-2022-gartner-magic-quadrant-for-cloud-ai-developer-services/",
+      "originalUrl": "https://azure.microsoft.com/blog/microsoft-is-a-leader-in-2022-gartner-magic-quadrant-for-cloud-ai-developer-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/612d9b03-4232-4a4f-8026-4e15bcd3d653.png",
+          "width": 739,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-09T03:00:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-3-ways-azure-speech-transforms-game-development-with-ai.md",
+      "title": "3 ways Azure Speech transforms game development with AI",
+      "excerpt": "With Azure Cognitive Services for Speech, customers can build voice-enabled apps confidently and quickly with the Speech SDK. We make it easy for customers to transcribe speech to text (STT) with high accuracy, produce natural-sounding text-to-speech (TTS) voices, and translate spoken audio.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/3-ways-azure-speech-transforms-game-development-with-ai/",
+      "originalUrl": "https://azure.microsoft.com/blog/3-ways-azure-speech-transforms-game-development-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-09T02:00:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-us-20991-billion-global-machine-learning-market-during-2022-2029.md",
+      "title": "US $ 209.91 billion Global Machine Learning Market During 2022-2029",
+      "excerpt": "Fortune Business Insights says that the market value stood at US $ 15.44 billion in 2021. The market is expected to grow at a CAGR of 38.8% in the forecast period (2022-2029). The growth rate of the Global Machine Learning Market is 38.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/us-20991-billion-global-machine-learning-market-during-2022-2029-2022-08-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/us-20991-billion-global-machine-learning-market-during-2022-2029-2022-08-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-09T01:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-08-09-kloudpad-to-start-worlds-biggest-digital-worker-services-centre-in-kochi.md",
       "title": "Kloudpad to start world’s biggest digital worker services centre in Kochi",
       "excerpt": "Tapping into the huge potential of digital worker services for automating business ... or virtual employees that are developed using cognitive automation technology platforms, the company ...",
@@ -1261,156 +1409,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-cloud-infrastructure-sales-rise-as-microsoft-closes-in-on-aws.md",
-      "title": "Cloud infrastructure sales rise as Microsoft closes in on AWS",
-      "excerpt": "Google Cloud, AWS and Azure collectively account for 63% of global cloud infrastructure expenditure, according to a new report from Canalys.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/404182/cloud-infrastructure-sales-jump-as-microsoft-closes-in-on-aws.html",
-      "originalUrl": "https://www.cio.com/article/404182/cloud-infrastructure-sales-jump-as-microsoft-closes-in-on-aws.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 203,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/08/iStock-504455240-3.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/404182/cloud-infrastructure-sales-jump-as-microsoft-closes-in-on-aws.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/404182/cloud-infrastructure-sales-jump-as-microsoft-closes-in-on-aws.html/amp",
-      "publishedDateTime": "2022-08-02T12:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Sales",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-eating-high-processed-foods-could-lead-to-a-faster-rate-of-cognitive-decline-study.md",
-      "title": "Eating high-processed foods could lead to a faster rate of cognitive decline: study",
-      "excerpt": "A new study finds that eating high-processed foods could be connected to a faster rate of cognitive decline. High-processed foods like pre-made meals, frozen microwave meals and instant noodles ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/health/eating-high-processed-foods-lead-faster-rate-cognitive-decline-study",
-      "originalUrl": "https://www.foxnews.com/health/eating-high-processed-foods-lead-faster-rate-cognitive-decline-study",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2019/09/03/1200/675/694940094001_6082876975001_6082894307001-vs.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/health/eating-high-processed-foods-lead-faster-rate-cognitive-decline-study.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/eating-high-processed-foods-lead-faster-rate-cognitive-decline-study.amp",
-      "publishedDateTime": "2022-08-02T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-microsoft-teams-will-now-translate-your-calls-with-a-catch.md",
-      "title": "Microsoft Teams will now translate your calls — with a catch",
-      "excerpt": "Microsoft Teams just added a feature that will make remote work easier -- human language translation that lets you pick the language you're listening to.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/microsoft-teams-adds-human-language-translation/",
-      "originalUrl": "https://www.digitaltrends.com/computing/microsoft-teams-adds-human-language-translation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/08/The-Civil-Service-and-The-Public_Ministers-on-Teams-Live-Call-2-1-960x640-1.jpg?p=1",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/microsoft-teams-adds-human-language-translation/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-teams-adds-human-language-translation/?amp",
-      "publishedDateTime": "2022-08-02T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -2,6 +2,154 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-27-no-hints-of-cognitive-defects-with-arnis-in-hfpef-perspective.md",
+      "title": "No Hints of Cognitive Defects With ARNIs in HFpEF: PERSPECTIVE",
+      "excerpt": "BARCELONA, Spain—(UPDATED) There are no signs that sacubitril/valsartan (Entresto; Novartis) has any negative impact on cognitive function in people who have heart failure with preserved ejection fraction (HFpEF), at least over a 3-year period ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tctmd.com/news/no-hints-cognitive-defects-arnis-hfpef-perspective",
+      "originalUrl": "https://www.tctmd.com/news/no-hints-cognitive-defects-arnis-hfpef-perspective",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d18mqtxkrsjgmh.cloudfront.net/public/2022-08/No%20Hints%20of%20Cognitive%20Defects%20With%20ARNIs%20in%20HFpEF.jpg",
+          "width": 1207,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-27T00:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TCTMD",
+        "domain": "tctmd.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-26-microsoft-and-bytedance-are-collaborating-on-a-big-ai-project-even-as-us-china-rivalry-heats-up.md",
+      "title": "Microsoft and ByteDance are collaborating on a big AI project, even as US-China rivalry heats up",
+      "excerpt": "Microsoft and TikTok parent ByteDance are working together on a software project intended to help companies more efficiently run AI apps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/08/26/microsoft-tiktok-parent-bytedance-collaborate-on-ai-project-kuberay.html",
+      "originalUrl": "https://www.cnbc.com/2022/08/26/microsoft-tiktok-parent-bytedance-collaborate-on-ai-project-kuberay.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106712070-16007759162020-09-22t013536z_1430815479_rc2d3j9nics6_rtrmadp_0_usa-tiktok-china.jpeg?v=1600775963",
+          "width": 3500,
+          "height": 2333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/08/26/microsoft-tiktok-parent-bytedance-collaborate-on-ai-project-kuberay.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/08/26/microsoft-tiktok-parent-bytedance-collaborate-on-ai-project-kuberay.html",
+      "publishedDateTime": "2022-08-26T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-26-artificial-intelligence-supply-chain-market-worldwide-demand-development-growth-and-business-attractions-2028-ibm-microsoft-google-amazon.md",
+      "title": "Artificial Intelligence Supply Chain Market Worldwide Demand, Development Growth and Business Attractions 2028 | IBM, Microsoft, Google, Amazon",
+      "excerpt": "The Artificial Intelligence Supply Chain report offers in-depth assessment of the growth and other aspects of the Artificial Intelligence Supply Chain market in important regions. Key regions covered in the report are North America,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-supply-chain-market-worldwide-demand-development-growth-and-business-attractions-2028-ibm-microsoft-google-amazon-2022-08-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-supply-chain-market-worldwide-demand-development-growth-and-business-attractions-2028-ibm-microsoft-google-amazon-2022-08-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-26T01:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-26-artificial-intelligence-for-accounting-market-share-size-financial-summaries-analysis-from-2022-2030-by-microsoft-aws-xero.md",
       "title": "Artificial Intelligence for Accounting Market Share, Size, Financial Summaries Analysis from 2022-2030 | By -Microsoft, AWS, Xero",
       "excerpt": "The Artificial Intelligence for Accounting market report gives an exhaustive investigation of the market’s size, as well as market sizes at the neighborhood and public levels, division market development,",
@@ -1164,135 +1312,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-professional-cloud-services-market-size-projections-future-opportunities-recorded-for-the-period-2022-2031.md",
-      "title": "Professional Cloud Services Market Size Projections & Future Opportunities Recorded for the Period 2022-2031",
-      "excerpt": "The professional cloud services market was valued at USD 21.51billion and is expected to reach a value of USD 57.54 billion, at a CAGR of 17.76 %, during the forecast period. The increase in the use of Artificial Intelligence (AI) with a growing focus on digital transformation initiatives are expected to provide growth opportunities for cloud services market - Moreover,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/professional-cloud-services-market-size-projections-future-opportunities-recorded-for-the-period-2022-2031-2022-08-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/professional-cloud-services-market-size-projections-future-opportunities-recorded-for-the-period-2022-2031-2022-08-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-dealing-with-cognitive-load-using-observability.md",
-      "title": "Dealing with Cognitive Load Using Observability",
-      "excerpt": "We can make good decisions with speed when we limit the cognitive load on any one person or team. Observability can help to increase delivery speed, by providing information to developers that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/08/cognitive-load-observability/",
-      "originalUrl": "https://www.infoq.com/news/2022/08/cognitive-load-observability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-onemeta-ai-accepted-as-a-part-of-microsoft-for-startups-founders-hub.md",
-      "title": "OneMeta AI Accepted as a Part of Microsoft for Startups Founders Hub",
-      "excerpt": "LAS VEGAS, NV / ACCESSWIRE / August / OneMeta AI (  (OTCMarkets:ONEI). Today OneMeta AI announced acceptance as part of Microsoft of Startups Founders Hub. \"This is a great milestone that we are thankful for;",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/onemeta-ai-accepted-as-a-part-of-microsoft-for-startups-founders-hub-2022-08-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/onemeta-ai-accepted-as-a-part-of-microsoft-for-startups-founders-hub-2022-08-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

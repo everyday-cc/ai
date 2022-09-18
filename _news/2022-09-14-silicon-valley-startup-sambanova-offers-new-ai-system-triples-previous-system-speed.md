@@ -54,15 +54,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Foundation models: 2022’s AI paradigm shift"
-    excerpt: "AI models trained on a massive scale — a revolution that began with Google’s BERT in 2018, picked up steam with OpenAI’s GPT-3 in 2020, and entered the zeitgeist with the company’s DALL-E text-to-image generator in early 2021."
-    publishedDateTime: 2022-09-13T18:27:00Z
-    webUrl: "https://venturebeat.com/ai/foundation-models-2022s-ai-paradigm-shift/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "SambaNova Systems gives its integrated AI hardware and software platform a massive performance boost"
     excerpt: "SambaNova Systems gives its integrated AI hardware and software platform a massive performance boost - SiliconANGLE"
     publishedDateTime: 2022-09-14T15:00:00Z

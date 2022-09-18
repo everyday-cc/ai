@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Biden calls South Africa a vital voice despite Russia stance"
-excerpt: "President Joe Biden praised South Africa as a vital voice on the global stage as he hosted President Cyril Ramaphosa on Friday at the White House for talks that touched on the two nations' differences on Russia's war in Ukraine and more."
-publishedDateTime: 2022-09-17T14:15:00Z
-originalUrl: "https://www.kansas.com/news/politics-government/national-politics/article265894741.html"
-webUrl: "https://www.kansas.com/news/politics-government/national-politics/article265894741.html"
-ampWebUrl: "https://amp.kansas.com/news/politics-government/national-politics/article265894741.html"
-cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/politics-government/national-politics/article265894741.html"
+excerpt: "President Joe Biden praised South Africa as a vital voice on the global stage as he hosted President Cyril Ramaphosa on Friday at the White House for talks that touched on the two nations’ differences on Russia’s war in Ukraine and more."
+publishedDateTime: 2022-09-16T17:52:00Z
+originalUrl: "https://www.washingtonpost.com/politics/biden-s-african-leader-to-discuss-ukraine-trade-climate/2022/09/16/2851db2e-3576-11ed-a0d6-415299bfebd5_story.html"
+webUrl: "https://www.washingtonpost.com/politics/biden-s-african-leader-to-discuss-ukraine-trade-climate/2022/09/16/2851db2e-3576-11ed-a0d6-415299bfebd5_story.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Wichita Eagle
-  domain: kansas.com
+  name: The Washington Post
+  domain: washingtonpost.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SVJLBVBV6AI63IGWIFJJTP7L2U.jpg&w=1440"
+    width: 1440
+    height: 923
+    isCached: true
 
 related:
   - title: "Biden praises South Africa a vital voice despite neutral stance on Russia"
@@ -38,6 +42,6 @@ related:
         height: 721
         isCached: true
 
-secured: "7ELq8jYUyHXpOe9xGUHmf83xPOIz7QATCdXK2UEaL8Fs4447Nl4mxYCHurkpzdSVIC7/bN6GJ0s7ffT1vFv9GUI5mO++Y9C10bL4hQHkK5783h6jbXxT26d2aJ8z/d0Cc0wMomkPJJZGOlKXJufAo9fIPwWihjYOS1VtMnFt0LoywO+Yh/r8LbEjCTF6cgVZ772GZdq8tRBcvSwBfC9LMU1RPLANQC5Ib7UGQEWSD0MN31vLxVueeMigGiXW0AmPMcpo8Xfy3I/FK4aBesx9XBFwbIunbmQTd6WPN8+USe2q/s3fA7bP7JMmqlEP3oUclTiSzZgLO5taRu6SkSgMt8IsX+Kgfkk/vTwvXKr2+ufCGmqBsH8+PWONu4j8rsuVD9QXe+fboPj42JCwLfI2OaS7LevVIB46iuiAa7/NzyxapCIYbiqv1xLv7pl4npIpEC50brvbuqEvTRSluJ5dUW+nb8SjiIIUn7+YwoKeNlBIZw86yezCHg3PMRiwvh9ugKVgtaDYNNYPUrH1pqDI6w==;rH33kdAgn0NjjXzsgBfg1w=="
+secured: "SOCEyt0J5drqgXvfaMzIpoVMD4po8SbvrKJ+RlLjBHpdaReFVLdjkULJPRv4CmOh/1iujlPoK8kQkzFGs6c2Enel7XnuPWeCGb/PW4HGQ5xWEi35fDfj+/M1BiuBQiwUoUGWYw/pQR+5njfJwmq39fGPHx+4yLFCeK0XR6Nhggva37AfM5kmmwSJrQ47uk4A053tkrrPWDK2hpEhRkkIkRhou97oCw4I9AaDRymffZPyCMT2zPJDs8RT31xwWnl+NpOnNO0olj5oBuJAfIz9niZtPFi2z867RTPSM7oOHwNlunH/VdHv1z2gmlhe1A6ICuL61+oNXobVNipeLqO4WuOWQtuJCEy8k6HklppGTdE=;cSn5GVcgvDyr+ncpHAxFEA=="
 ---
 

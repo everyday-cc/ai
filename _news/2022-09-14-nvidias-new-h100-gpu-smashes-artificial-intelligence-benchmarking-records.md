@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h10
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records/amp/"
 type: article
 quality: 102
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://regmedia.co.uk/2018/09/05/shutterstock_187864790.jpg"
         width: 648
         height: 448
-        isCached: true
-  - title: "Supermicro Announces 8U ‘Universal GPU’ Server for NVIDIA H100’s"
-    excerpt: "HPC-AI server maker Supermicro today announced what the company said is its most advanced GPU server incorporating eight NVIDIA H100 Tensor Core GPUs. Supermicro now offers three Universal GPU servers: the 4U,"
-    publishedDateTime: 2022-09-13T17:26:00Z
-    webUrl: "https://insidehpc.com/2022/09/supermicro-announces-8u-universal-gpu-server-for-nvidia-h100s/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 39
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2022/09/Supermicro-Universal-GPU-Servers-0922-300x215.jpg"
-        width: 300
-        height: 215
         isCached: true
 
 secured: "qn+ckd8RM59EbhlMn5s/tGkdSMoHriDPwPjp6vFUleHaMLUOX3w2dYXC4vLyV/j6tH+NGh7Z46icT6AlUUZ10AjZmUfJv/ThqxE+UmUEESK+yVOJnsaQ15pmOYtd/W/G8jEsYR3g8QqhjQcc2X04o3CWSWpZBF1pRBiuJWzIwFNuatKdUt3dnk555wVU+tipKrKE+FOPj71ihiQDWn7E+DUGpCSbQNhfPyv0hwl6xOiFfJUgBFVq84VaYsrZlJevM2gruuGN8mKHotDrBB6TzrOJfuUL4HBuQkEjmNUKMniJZCfudD/0wvebz+TyV7nIqFjC1HVqI3x6s0z2A45zRHYBpzOgLbZfVlplwcw5EouM6gAMPXQ//akp2oPLxyGxz8cvhtD9g2A3JOBqgCQ5r/hWZW7aNpGqr6xzphaAFQf9pbNPsyC2xRU9rfxfA4koeYyK+5zHpzriP5yH+4KAvz9JxDOXKrFCP/iSVYwtDmEv6zUSqcziZ3/gbAAaNWFvDnMam9KcBpFolU2o266jJw==;5WYkPv4REQgsHmJ2Jq6dAQ=="
