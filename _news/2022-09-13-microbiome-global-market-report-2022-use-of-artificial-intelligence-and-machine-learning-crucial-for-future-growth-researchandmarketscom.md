@@ -26,56 +26,65 @@ images:
     isCached: true
 
 related:
-  - title: "Global artificial intelligence market to reach $450 billion in 2022"
-    excerpt: "The Artificial Intelligence (AI) market value is expected to reach nearly $450 billion this year and maintain a year-over-year growth rate in the next five years, a new report has forecast. In 2021, the global revenues for the AI market,"
-    publishedDateTime: 2022-09-17T11:50:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/global-artificial-intelligence-market-to-reach-450-billion-in-2022/articleshow/94268554.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/global-artificial-intelligence-market-to-reach-450-billion-in-2022/amp_articleshow/94268554.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/global-artificial-intelligence-market-to-reach-450-billion-in-2022/amp_articleshow/94268554.cms"
+  - title: "Deep Learning Chip Market New Innovations Trends, Market Size, Research, Global Share and Growth Factor and Forecast: 2022-2031"
+    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
+    publishedDateTime: 2022-09-14T07:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-new-innovations-trends-market-size-research-global-share-and-growth-factor-and-forecast-2022-2031-2022-09-14"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 57
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-89644,msid-94268528/ai.jpg"
-        width: 600
-        height: 450
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "AI Market Size to Reach USD 1394.30 Billion by 2029"
-    excerpt: "The global AI market size is projected to grow from USD 387.45 billion in 2022 to USD 1394.30 billion in 2029 at a CAGR of 20.1% in the forecast period. Growing"
-    publishedDateTime: 2022-09-13T10:12:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28843325/ai-market-size-to-reach-usd-1394-30-billion-by-2029"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28843325"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28843325"
+  - title: "Facial Recognition Market Research Insights With Upcoming Trends, Opportunities, Competitive Analysis, Forecast To 2022-2031"
+    excerpt: "The global facial recognition market size is expected to grow from an estimated value of USD 3.8 billion in 2022 to USD 8.5 billion by 2031, at a Compound Annual Growth Rate (CAGR) of 17.2% from 2022 to 2031."
+    publishedDateTime: 2022-09-14T17:44:00Z
+    webUrl: "https://menafn.com/1104865081/Facial-Recognition-Market-Research-Insights-With-Upcoming-Trends-Opportunities-Competitive-Analysis-Forecast-To-2022-2031"
+    type: article
+    provider:
+      name: MENAFN
+      domain: menafn.com
+    quality: 12
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?332140"
+        width: 287
+        height: 249
+        isCached: true
+  - title: "The Foundation for Sickle Cell Disease Research Hosts Virtual Symposium Highlighting the Applications of Machine Learning in Sickle Cell"
+    excerpt: "Changing the Conversation and Reshaping the Future by Exploring Technology in HealthcareDuring National Sickle Cell Awareness Month FORT LAUDERDALE, Fla., Sept. 15, 2022 /PRNewswire/ -- On September 22nd,"
+    publishedDateTime: 2022-09-15T14:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/n28882866/the-foundation-for-sickle-cell-disease-research-hosts-virtual-symposium-highlighting-the-applicati"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28882866"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28882866"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 39
-  - title: "Global artificial intelligence market to reach $450 bn in 2022"
-    excerpt: "The Artificial Intelligence (AI) market value is expected to reach nearly $450 billion this year and maintain a year-over-year growth rate in the next 5 years, a new report has forecast. In 2021, the global revenues for the AI market,"
-    publishedDateTime: 2022-09-17T15:39:00Z
-    webUrl: "https://www.dailypioneer.com/2022/technology/global-artificial-intelligence-market-to-reach--450-bn-in-2022.html"
+    quality: 6
+  - title: "5G In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application, By End-use, By Region And Segment Forecasts, 2022 - 2030"
+    excerpt: "Reportlinker.com announces the release of the report \"5G In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application, By End-use, By"
+    publishedDateTime: 2022-09-13T16:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28852772/5g-in-healthcare-market-size-share-trends-analysis-report-by-component-by-application-by-end-use-b"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28852772"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28852772"
     type: article
     provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 37
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2022/story/images/big/global-artificial-intelligence-market-to-reach--450-bn-in-2022-2022-09-17.jpg"
-        width: 1000
-        height: 800
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) in Automotive and Transportation Market to Grow at 20% Through 2026"
-    excerpt: "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to ResearchAndMarkets.com's offering. This market is likely to grow at a CAGR of around 20% during 2021-26."
-    publishedDateTime: 2022-09-16T21:17:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-automotive-transportation-market-grow-/2022/09/16/9675469.htm"
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 1
+  - title: "Cloud Advertising Market Research Report 2022 Growth, Recent Trends And Forecast To 2026 – Adobe, Oracle, Salesforce, Google, IBM"
+    excerpt: "SAP (Germany), Acquia (US), Demandbase (US), Experian (US), Kubient (US), FICO (US), HubSpot (US), Imagine Communications (US), InMobi (India), Marin"
+    publishedDateTime: 2022-09-14T20:10:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/ab28872311/cloud-advertising-market-research-report-2022-growth-recent-trends-and-forecast-to-2026-adobe-ora"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "aqNhE+h2Qh+29fdNeskMQpVcUYnbzxy8Gh+Zub2xdOeMDKtIezaU+++iFM1ez2iPvDe6MVtdCkw5IR3d1Sq1v/gtXZCgmQNGWW8LM7iEarD7DEzxSFXQE+5TZaofNZxPaOA3wOG3/kzauD90yBxRyQurEyeuJykspzaQbds7ZffY1mW80DleqeITKMaXIGMQKdT8ghgvddymFJ1OIubMVY/PH+jsKcaRQj48M0JmWXhtFu6ZiLgZKW70wKNxQM49UXlYZHQmDL/O4OGoIpnL9SYgS2s0fgOAzAGRXPT/90/CpSu5qXhGLu6eL8mWEw3vlXyGpMd9XBhieEdZmFuXx3GXu/7UEa47fcCWkpbO9Yc=;dc6S5Otu2ub+8n3FPeCX2Q=="
 ---

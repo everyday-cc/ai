@@ -49,17 +49,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 42
-  - title: "5G In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application, By End-use, By Region And Segment Forecasts, 2022 - 2030"
-    excerpt: "Reportlinker.com announces the release of the report \"5G In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application, By End-use, By"
-    publishedDateTime: 2022-09-13T16:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28852772/5g-in-healthcare-market-size-share-trends-analysis-report-by-component-by-application-by-end-use-b"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28852772"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28852772"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 1
   - title: "Metaverse In Healthcare Market- A Big Revolution In Healthcare Industry Expected To Hit with a CAGR of 33.7% over the forecast period 2022 – 2028"
     excerpt: "The Global Metaverse in Healthcare Market is valued at USD 5056.4 Million in 2021 and is expected to reach USD 7453.6 Million by 2028 with a CAGR of 33.7% over the forecast period. Innovations in AR and VR technologies and huge investments in artificial intelligence are some of the major factors driving the growth of the Global Metaverse in Healthcare Market."
     publishedDateTime: 2022-09-16T07:01:00Z

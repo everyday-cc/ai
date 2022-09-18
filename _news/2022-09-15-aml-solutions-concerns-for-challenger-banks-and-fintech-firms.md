@@ -67,20 +67,6 @@ related:
       name: Media Update
       domain: mediaupdate.co.za
     quality: 26
-  - title: "2022 Swiss Fintech Awards Winners Share Updates, Ambitions"
-    excerpt: "Stableton Financial and DeepJudge, two of the winners of this year’s Swiss Fintech Awards, have been reaping the fruits of the publicity accompanying the renowned startup competition, using the new-found exposure as an opportunity to expand to new verticals,"
-    publishedDateTime: 2022-09-13T09:55:00Z
-    webUrl: "https://fintechnews.ch/fintech/2022-swiss-fintech-awards-winners-share-updates-ambitions/54904/"
-    type: article
-    provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/08/Reuters-Future-of-Insurance-Europe-2022.png?x30842"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Ecobank Partners with AMA Academy to Launch First Pan-African Fintech Training and Awards for Journalists"
     excerpt: "Ecobank Partners with AMA Academy to Launch First Pan-African Fintech Training and Awards for Journalists  - The Maravi Post"
     publishedDateTime: 2022-09-15T10:59:00Z

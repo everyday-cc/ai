@@ -55,17 +55,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
-  - title: "5G In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application, By End-use, By Region And Segment Forecasts, 2022 - 2030"
-    excerpt: "Reportlinker.com announces the release of the report \"5G In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application, By End-use, By"
-    publishedDateTime: 2022-09-13T16:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28852772/5g-in-healthcare-market-size-share-trends-analysis-report-by-component-by-application-by-end-use-b"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28852772"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28852772"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 1
 
 secured: "T8v8PKAV2vnW7pyY3W9tzDbMfPj+ppVi5/tmsRRhs07pOj2ebYejwYS/xVKIF4IRe74U1qvs8/OYOIV85wDKFvjVtEnUPABjB1N9bRpBTqeDG9fqczY6eDzwZrZF7rziVkRVeajyMLkog6AUJwa93KV2VLFvvBRXd5aPmDSCOf8fdJPniGco7hHxHKgrqXLEIWacPMZXUejTlTRImPqJ4a2p0aUVwVAmjYoZaZyMy0gaA+Wk6jbDxAjNyMlsOiXpBZobyqF3gKlwFJB0fDRssBvae+5e3HiNK3SU6m0nVYw36IxvYqsOiM4rFlhJG/k+mow3o66x6HIcs7/Ix4MaxSsRo2hYhREqhB7MKfIL+4l6NINK81+lRMaySM0q+x7ijvfZVRWE9+6BP5hWkaK6TSnyFfxA29It8+pkOMlKs2Gevilpw6h/ebbNqraCfh46CM20TRHYcCqy1omGgJEGDbVrr6VuGLqEvkcP8wy4/RT2PNAQkCTqbBcOHL8W5fb6nQjkKjrFNjqBA0cCfQlSag==;98Z3rG+fbwM/Fmh1Oh1YMg=="
 ---

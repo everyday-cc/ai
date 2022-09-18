@@ -62,20 +62,6 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 66
-  - title: "Meta passes PyTorch ownership to Linux Foundation in a bid to improve transparency"
-    excerpt: "The widely-used framework will also fall under a newly-formed PyTorch Foundation, with a governing board composed of tech giants such as Google Cloud and Microsoft Azure"
-    publishedDateTime: 2022-09-13T10:46:00Z
-    webUrl: "https://www.itpro.co.uk/development/open-source/369054/meta-passes-pytorch-ownership-to-linux-foundation-bid-transparency"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 65
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1638449640/itpro/pytorch_meta_aws_GettyImages-1236945622.jpg"
-        width: 1260
-        height: 710
-        isCached: true
 
 secured: "3SfCn12YrCRlXZYh5qBQgMEfwF/AWSxiFNov3he9oB8SEGh2KJDfKC82GU7+BIhgqAuwjVNZ4bRFiFYYpPdGSpDeVMzAGfj9Abh78Ep98DB2TItZ1OQDTtSbxLzPi8HDz5sSHWKQmwwi12SPmFozf9SA9h7ieZEUWD0zP2rW03fGvqIRfjMVR39Jcyv2LxG1JOPcxlo3NDUXDfdr52edNyG3ooXLDgbuzakiDcdPMAm0P0l7pOpX6f9+H0UudDIXtnXX1h2RV9Ceng7zMN1odsK2QwWcj2sxqzC0RMNhOI/NDGIFnIk7SE01OqbU1QDjJ2xZxakGVC69vw6VdtLDKmLjSfC28EBBdzgrJpzmDL0=;7IE2JyDxyRSKwwyJrpOW2A=="
 ---

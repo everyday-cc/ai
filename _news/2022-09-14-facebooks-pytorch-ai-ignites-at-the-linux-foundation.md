@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/facebooks-pytorch-ai-ignite
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebooks-pytorch-ai-ignites-at-the-linux-foundation/"
 type: article
 quality: 106
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 66
-  - title: "Meta passes PyTorch ownership to Linux Foundation in a bid to improve transparency"
-    excerpt: "The widely-used framework will also fall under a newly-formed PyTorch Foundation, with a governing board composed of tech giants such as Google Cloud and Microsoft Azure"
-    publishedDateTime: 2022-09-13T10:46:00Z
-    webUrl: "https://www.itpro.co.uk/development/open-source/369054/meta-passes-pytorch-ownership-to-linux-foundation-bid-transparency"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 65
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1638449640/itpro/pytorch_meta_aws_GettyImages-1236945622.jpg"
-        width: 1260
-        height: 710
-        isCached: true
   - title: "Meta launches new AI project called PyTorch"
     excerpt: "Mark Zuckerberg has announced that the PyTorch framework project will transition to a newly launched PyTorch Foundation."
     publishedDateTime: 2022-09-13T12:14:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202209/alcatraz-ai-plays-on-its-bu
 webUrl: "https://www.biometricupdate.com/202209/alcatraz-ai-plays-on-its-bulgarian-connections-for-25m-series-a"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Here's the exclusive 16-slide pitch deck that startup Alcatraz AI used to raise $25 million to open doors with facial recognition"
-    excerpt: "AI startup Alcatraz AI's funding was led by global VC firm Almaz Capital, and involved several new and existing investors."
-    publishedDateTime: 2022-09-13T11:00:00Z
-    webUrl: "https://www.businessinsider.com/ai-startup-alcatraz-ai-tech-pitch-deck-2022-9"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
-    images:
-      - url: "https://i.insider.com/631f9683e8b500001850e508?width=1200&format=jpeg"
-        width: 963
-        height: 481
-        isCached: true
   - title: "Alcatraz AI, a Bulgarian security solution that provides physical access control using facial recognition and AI, targets 1M euro round on SeedBlink"
     excerpt: "IT - Alcatraz AI, a Bulgarian startup which developed a security solution that provides physical access control using industry-leading 3D facial authentication"
     publishedDateTime: 2022-09-14T11:56:00Z

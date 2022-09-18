@@ -25,31 +25,65 @@ images:
     isCached: true
 
 related:
-  - title: "Facial analysis still biased, press still confusing it with facial recognition"
-    excerpt: "Readers of both publications are at risk of being misled by the same kind of imprecise language that biometrics industry insiders have long warned against."
-    publishedDateTime: 2022-09-16T14:29:00Z
-    webUrl: "https://www.biometricupdate.com/202209/facial-analysis-still-biased-press-still-confusing-it-with-facial-recognition"
+  - title: "Deep Learning Chip Market New Innovations Trends, Market Size, Research, Global Share and Growth Factor and Forecast: 2022-2031"
+    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
+    publishedDateTime: 2022-09-14T07:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-new-innovations-trends-market-size-research-global-share-and-growth-factor-and-forecast-2022-2031-2022-09-14"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 35
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/07162020/synthetic-data-scaled.jpg"
-        width: 2048
-        height: 1280
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Weathering a recession with reward and recognition"
-    excerpt: "When people think of reward and recognition, they primarily think of financial reward – pay. But there’s so much more"
-    publishedDateTime: 2022-09-15T07:00:00Z
-    webUrl: "https://www.hrzone.com/perform/people/weathering-a-recession-with-reward-and-recognition"
-    ampWebUrl: "https://www.hrzone.com/perform/people/weathering-a-recession-with-reward-and-recognition?amp"
-    cdnAmpWebUrl: "https://www-hrzone-com.cdn.ampproject.org/c/s/www.hrzone.com/perform/people/weathering-a-recession-with-reward-and-recognition?amp"
+  - title: "Microbiome Global Market Report 2022: Use Of Artificial Intelligence And Machine Learning Crucial For Future Growth - ResearchAndMarkets.com"
+    excerpt: "The global microbiome market reached a value of nearly $340.8 million in 2021, having increased at a compound annual growth rate (CAGR) of 14.8% since 2017. The market is expected to grow from $340.8 million in 2021 to $945."
+    publishedDateTime: 2022-09-13T11:41:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-4f08b67c667642e0a659bd866783a6bf"
     type: article
     provider:
-      name: HRZone
-      domain: hrzone.com
-    quality: 26
+      name: Associated Press
+      domain: apnews.com
+    quality: 21
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "The Foundation for Sickle Cell Disease Research Hosts Virtual Symposium Highlighting the Applications of Machine Learning in Sickle Cell"
+    excerpt: "Changing the Conversation and Reshaping the Future by Exploring Technology in HealthcareDuring National Sickle Cell Awareness Month FORT LAUDERDALE, Fla., Sept. 15, 2022 /PRNewswire/ -- On September 22nd,"
+    publishedDateTime: 2022-09-15T14:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/n28882866/the-foundation-for-sickle-cell-disease-research-hosts-virtual-symposium-highlighting-the-applicati"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28882866"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28882866"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 6
+  - title: "5G In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application, By End-use, By Region And Segment Forecasts, 2022 - 2030"
+    excerpt: "Reportlinker.com announces the release of the report \"5G In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application, By End-use, By"
+    publishedDateTime: 2022-09-13T16:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28852772/5g-in-healthcare-market-size-share-trends-analysis-report-by-component-by-application-by-end-use-b"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28852772"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28852772"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 1
+  - title: "Cloud Advertising Market Research Report 2022 Growth, Recent Trends And Forecast To 2026 – Adobe, Oracle, Salesforce, Google, IBM"
+    excerpt: "SAP (Germany), Acquia (US), Demandbase (US), Experian (US), Kubient (US), FICO (US), HubSpot (US), Imagine Communications (US), InMobi (India), Marin"
+    publishedDateTime: 2022-09-14T20:10:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/ab28872311/cloud-advertising-market-research-report-2022-growth-recent-trends-and-forecast-to-2026-adobe-ora"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "K73ifOtCLB5ZBnr1u4EjBS4V3KeASe+UspfbOcdY7HrltBr0EabZY4/R8PLce+IxFuSXvqLUSj9Wa7BcSFPX8ud8f/GZRfFTpBQrP5CV9nYu1q5wCC165Xz6RiOfa0E3GFYNeOUwSZlQEc/UvohdO6CA9kWgbiuH1JW9pZwrA9r2zmyFquV0tQ6dXn1qcxE667/Zelz13M3kTIDIk1rpqr092SdHRMBwr2QXJhLlGcLPeS9fi9961nZ2N3c8ZKgKI/OwaiozuyAgyyYXqgkpRGwjsKPxJuT+6TiZFnXEWhKUcPqsGei1OeE7bla3DbRLiglzMFFSAr2kcBFzFEJwJZLbRq4xSlXXfjaQfvxFguY=;No3FyDhym2r1GXIVf2BXjw=="
 ---

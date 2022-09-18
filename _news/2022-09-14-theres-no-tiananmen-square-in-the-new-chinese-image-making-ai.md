@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2022/09/14/1059481/baidu-chinese-im
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/09/14/1059481/baidu-chinese-image-ai-tiananmen/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 3000
     height: 1688
     isCached: true
-
-related:
-  - title: "$10 billion Chinese gaming giant appoints world’s first AI robot CEO"
-    excerpt: "Modeled after a female human, the robot CEO will mainly help streamline the companies’ processes and enhance operational efficiency $10 billion Chinese gaming giant appoints world’s first AI robot CEO Artificial intelligence,"
-    publishedDateTime: 2022-09-13T09:11:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/technology/10-billion-chinese-gaming-giant-appoints-worlds-first-ai-robot-ceo"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 34
 
 secured: "gm/LDUYPzevwS0gepWvIOdNovBBO7I4c6S4A2rL04ljuJga5akSA35sR61cbbg5REQR3OiTFN3HoG2sXEOHkYRPK5UA3uCEb94ykS9Aq/vOzCmtgTo/cJOcbyYjLf3pa/F4+Om2dlKcHNjfOCoW6sS7fstUdxOEQRSSOwbiTmVbnp3bScICIUVkcvC1jzfsCStXsxuqCA6QO2NTY0n3vYut2si+MB3N74vJVzdVCF25SOs9Q91J8jNrKKksl6EK+WVm/Nu2fbUYvSz00I+n0s/NB3nQKwhfecxdEUEueT8TtLZgfuRplECXvu6EPi6+sC7Y/duj5MZt0FrApK1sSv8iRrBC8p7mEgvVfMI1akdhnz6X1yq/ilfoTMcDjwwnjKBcWBZvn+SSdeSIz2/2a2ZpCd2ReWbYYdVw8IS+8yyaaU5YoNoKLAy4NH2xFd3Cm7V6bzQcfKuUWmcP7LQXzQ/Xjm96owItj+rQ9KQlpo//b8jeggamT5IG7NtkeyNxykC5DjwPywm3LqND2WixYRg==;nQqZyeADyXCniKvxQj0h6Q=="
 ---

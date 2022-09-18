@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2022/09/chinas-lead
 webUrl: "https://arstechnica.com/information-technology/2022/09/chinas-leading-ai-image-generator-nixes-political-content-surprising-no-one/"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/chinese_image_syntesis-760x380.jpg"
         width: 760
         height: 380
-        isCached: true
-  - title: "US bans export of advanced AI chips to China"
-    excerpt: "NVIDIA announced that it had received a letter from the U.S. government imposing restrictions on exports to China and Russia of its A100 graphics processors and those under development H100. On the same day,"
-    publishedDateTime: 2022-09-13T09:30:00Z
-    webUrl: "https://www.actuia.com/english/us-bans-export-of-advanced-ai-chips-to-china/"
-    type: article
-    provider:
-      name: Actu IA
-      domain: actuia.com
-    quality: 54
-    images:
-      - url: "https://www.actuia.com/wp-content/uploads/2022/09/Etats-Unis-interdisent-exportation-puces-IA-vers-la-Chine.png"
-        width: 1667
-        height: 833
         isCached: true
 
 secured: "ipkY73BP0tGyC1o7wTERrwh8LwhP9/75sk1lhW+Tn0zkF8gWRh1L/nXleUIqCoDIfrIolxYnkIFyHkwzrBobN8ORGNyG4lcwDTR6m03FJ8d8wRWZSeB98Md6O0HmfrwRXRmpXi9hRNTcUSgTdnlwFjEJrC0ZOt3Z3S+bTc0Pvcj3MkCEma5xLmhXibsdCj05G4mR+Kqg933wdLCFUWsawIPSPX5dIGIjmI4UQYxztSegS+dnF3N5TZ/Rt8lpoVLsO/QagKW8T+hf0p564hS6x72r79eUPwYb6MHORskmtgG5MfEfMRLZPPaoxikFsheCfcJsa8Dn8PqNlcktKtAgWWngpwKlP/Da+VfGfXNNkqjV5KgoiusJ6c2l4lCZZDuqjLwukKldmmUmP4fvO2RgB1q/nr+tbnfDU86G/XC3QRVnSYUffhr9wu14+3UyjuVXBeYwvga70k/lPhJ0ss5HsenaNDpTQ1JvFVvMraOI+Msc1bTcZteg+CbTG8vbZhV2iTyD3NorQ3L6wt4g7rnAyg==;xD+6yHgi6iVWsUfPJfQt0w=="

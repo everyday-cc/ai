@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/28850758"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28850758"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -21,29 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "QFIL Solutions shortlisted for Entrepreneur Middle East’s Leaders in Fintech Awards 2022"
-    excerpt: "The annual award scheme highlights individuals and enterprises that are shaping the future of the Fintech Industry within the region"
-    publishedDateTime: 2022-09-13T09:39:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/qfil-solutions-shortlisted-for-entrepreneur-middle-easts-leaders-in-fintech-awards-2022-yygpa4m5"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 15
-    images:
-      - url: "https://static.zawya.com/version/c:NmMyZGIyYmEtODk4NC00:NGIxZTFk/img_7853-1-jpg.JPG?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "CCC Intelligent Solutions Recognized in Prestigious IDC FinTech Rankings Real Results"
-    excerpt: "Debuting at #47 out of 100 financial technology providers, CCC joins the prestigious IDC FinTech Rankings Real Results list, which categorizes and evaluates the top global providers of financial technology based on calendar year revenues from financial institutions for hardware,"
-    publishedDateTime: 2022-09-13T16:25:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ccc-intelligent-solutions-recognized-prestigious-idc-fintech-rankings-/2022/09/13/9672697.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
   - title: "CCC Intelligent Solutions Wins 2022 IDC FinTech Rankings Real Results Award for CCC® Safekeep"
     excerpt: "CCC Intelligent Solutions Inc., a leading SaaS platform powering the P&C insurance economy, announced Sept. 13 it is a winner of the 2022 IDC FinTech Rankings Real Results Award, which recognizes tech providers that have enabled a genuine,"
     publishedDateTime: 2022-09-14T19:46:00Z

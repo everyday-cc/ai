@@ -20,20 +20,6 @@ topics:
   - AI in Security
 
 related:
-  - title: "Here's the exclusive 16-slide pitch deck that startup Alcatraz AI used to raise $25 million to open doors with facial recognition"
-    excerpt: "AI startup Alcatraz AI's funding was led by global VC firm Almaz Capital, and involved several new and existing investors."
-    publishedDateTime: 2022-09-13T11:00:00Z
-    webUrl: "https://www.businessinsider.com/ai-startup-alcatraz-ai-tech-pitch-deck-2022-9"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
-    images:
-      - url: "https://i.insider.com/631f9683e8b500001850e508?width=1200&format=jpeg"
-        width: 963
-        height: 481
-        isCached: true
   - title: "Alcatraz AI plays on its Bulgarian connections for $25m series A"
     excerpt: "The pitch deck says Alcatraz has a competitive advantage for years to come with the most complex biometric product ever brought to market."
     publishedDateTime: 2022-09-13T17:02:00Z

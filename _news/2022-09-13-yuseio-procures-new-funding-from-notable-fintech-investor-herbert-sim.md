@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "YUSE.io Awarded Investment By Celebrity FinTech Investor Herbert Sim"
-    excerpt: "Herbert Sim said We get pitched to by countless of projects and startups daily, and we have personally handpicked YUSE Tech, for various reasons."
-    publishedDateTime: 2022-09-13T10:00:00Z
-    webUrl: "https://www.ibtimes.sg/yuse-io-awarded-investment-by-celebrity-fintech-investor-herbert-sim-66761"
-    ampWebUrl: "https://amp.ibtimes.sg/yuse-io-awarded-investment-by-celebrity-fintech-investor-herbert-sim-66761"
-    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/yuse-io-awarded-investment-by-celebrity-fintech-investor-herbert-sim-66761"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.sg
-    quality: 44
-    images:
-      - url: "https://data.ibtimes.sg/en/full/61770/herbert-sim.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Interested in the Fintech Industry? Here is a Guide to Secure Your First Job"
     excerpt: "Gone are the day when you queue for long hours to send or receive money at the bank. Currently, almost every bank has gone digital. With the use of a smartphone or laptop, you can save, send, receive,"
     publishedDateTime: 2022-09-13T15:28:00Z
@@ -57,6 +41,15 @@ related:
         width: 1920
         height: 1284
         isCached: true
+  - title: "CCC Intelligent Solutions Recognized in Prestigious IDC FinTech Rankings Real Results"
+    excerpt: "Debuting at #47 out of 100 financial technology providers, CCC joins the prestigious IDC FinTech Rankings Real Results list, which categorizes and evaluates the top global providers of financial technology based on calendar year revenues from financial institutions for hardware,"
+    publishedDateTime: 2022-09-13T16:25:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ccc-intelligent-solutions-recognized-prestigious-idc-fintech-rankings-/2022/09/13/9672697.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "eFaWnff94jnIi+kqTrsire4bVDOdeKAw9H4U5qghtYzpeqmUPdkQ+3cePMrlXCTxiwByPy+LHNq8NJAXaLefBozJuKQuU0fAjTtnHPE7bZR7kFffZNsqJNaQ6h0wPuaeNo1UJjMpHGmFzGvtbDHi47RZ5GHoGsOUwlNM3f2ysZBwNOrOUduI77blfwj9hpDu4mQb+uLpTTRHetF4LWCRhGj9uuGsMxc+WL5f3z+ZwdCFE7kNsQhOZlg55ncL3Q80iLi3h59jQBRT2rBkmAFathTl42DVylMN2aiIjsMjo/C1MwTa8Wia7+i9Nqk43bSJ433AZHYPaTeLWYKxRuI++5oPWDkHIBiKgFrWsD7tKsRs5+7OenXKgCuabVla/4Xy+mvo35jMVQOc04UByeVD8ICOL1EyK4DrpWf4MJkh8mPpHEOSlSPSXxYe+JBLoefLbATFGUa6+TnE2frkgY6PYn/Mioioa9e2b4vDtVTeiYDs+rKe81LEpK20/R8anVxkjjJlwPyVoYzk7DgtJqhE2A==;2oYSBFE8zKH3AY/MY07fIg=="
 ---
