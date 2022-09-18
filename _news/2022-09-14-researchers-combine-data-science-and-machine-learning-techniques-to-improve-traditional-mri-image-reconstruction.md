@@ -1,20 +1,31 @@
 ---
 category: news
 title: "Researchers combine data science and machine learning techniques to improve traditional MRI image reconstruction"
-excerpt: "University of Minnesota Twin Cities researchers have found a way to improve the performance of traditional Magnetic Resonance Imaging (MRI) reconstruction techniques, allowing for faster MRIs without relying on the use of newer deep learning methods."
-publishedDateTime: 2022-09-14T00:00:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/964576"
-webUrl: "https://www.eurekalert.org/news-releases/964576"
+excerpt: "University of Minnesota Twin Cities scientists and engineers have found a way to improve the performance of traditional Magnetic Resonance Imaging (MRI) reconstruction techniques, allowing for faster MRIs to improve health care."
+publishedDateTime: 2022-09-14T13:37:00Z
+originalUrl: "https://medicalxpress.com/news/2022-09-combine-science-machine-techniques-traditional.html"
+webUrl: "https://medicalxpress.com/news/2022-09-combine-science-machine-techniques-traditional.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-09-combine-science-machine-techniques-traditional.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-combine-science-machine-techniques-traditional.amp"
 type: article
+quality: 38
+heat: 38
+published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "YU6BUv/S0ZHATWDWksq10YbBjSOdS3NMMTdPbtBL9/YPxIWSW43g/JWB1KJkYT+rsT9wVANUzWuiCYGeb44xU2zL2uEwT7hanLx9lveG9NzZ7+kuuRXlhbZaSqhsZF7K4ioTYbIGtkRAveyH3qk6H6FmD7aVD9KyPtiPVOTdJ5F8deuhsJJV7iQTW4jBtqfU/dEedY9WpxHHqoy4wstQ0e7OvO3nb82Fd3IJgPJBXxRjb/VUmTEuVI48x/dTFlk5tPpJpGGLoGbngf6pO93z2VTPsXyX7xWJ31+AhJwTif/tGv3dqlXbD+RJBSkwNfqUsNyHlWbUQrISLu8ybUjko8fMi3pPBmbPbasrtXLvulXgWIrM+O32lJa6ZR2amsspPTzDGnWWtGHkEmAN7C1lXVk2YOMl8Z+KwxZVB5stC1josp9tT2jW37GGP3Gx8bvi8omrn0ieCF/tRKMLXh09XP0zTuSR+fIQ0V/vQBc33XPyVh4hSDuYQY3p9vqwev/iO5lSlIHmEPWVtOVUK4q90w==;Y2MEdOUGBPCWSPpPXm1iow=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/researchers-combine-da.jpg"
+    width: 2069
+    height: 1012
+    isCached: true
+
+secured: "nTfiewJZ3SdRlA8APraac84I1lr1joiHrpUlKzISwPZSMGVpwxfkqCDpkoThccHr5oiTfV9IkEYvu1qcTk7+g7xob59gx7nlv90LeGinYXWc22tNJWC6JPIePi+LD8/9UuYupHVjVzH815aZtV6ooq4GwWcPj8NjBLrEA3kIKofd1aKfeZJ0RM6aau1FcSQaAXDfVAgwbpgaKtsJJZ4WZ7e9upINOTihUNAudilPdCh31iOIEtQVO13bmrCU6tk4YOWrMbRuzKzwLJq9dQSPxLmZexgEsDaom2sqEDCxYZJxOFsjqCYvKtwJmvrDve7Csg8UTN7GCYn2khSpEhjIgPyuW4DVmBeI3dbDML7V3SA=;Wul7jHehMk1tjZQP5IhYrg=="
 ---
 

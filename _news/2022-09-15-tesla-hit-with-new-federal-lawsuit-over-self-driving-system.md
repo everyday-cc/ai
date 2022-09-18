@@ -228,20 +228,6 @@ related:
         width: 620
         height: 330
         isCached: true
-  - title: "Finally, Ford Plans To Release A Test Self-Driving Car By The End Of 2022"
-    excerpt: "Finally, Ford Plans to Release a Test Self-Driving Car by the End of 2022 . September 13, 2022 by Mark Allinson Leave a Comment . Ford plans t"
-    publishedDateTime: 2022-09-14T03:16:00Z
-    webUrl: "https://menafn.com/1104860411/Finally-Ford-Plans-To-Release-A-Test-Self-Driving-Car-By-The-End-Of-2022"
-    type: article
-    provider:
-      name: MENAFN
-      domain: menafn.com
-    quality: 23
-    images:
-      - url: "https://menafn.com/updates/pr/2022-09/13/R&AN_834dfimage_story.png"
-        width: 1177
-        height: 883
-        isCached: true
   - title: "Tesla deceiving public with claims on ‘self-driving’ and ‘Autopilot’ systems, lawsuit alleges"
     excerpt: "The lawsuit, seeking class-action status to bring in hundreds of thousands of Tesla owners, targets claims by the electric car maker and its CEO, Elon Musk, that its $15,000 “Full Self-Driving” package means buyers will soon get a fully-autonomous car,"
     publishedDateTime: 2022-09-15T12:40:00Z

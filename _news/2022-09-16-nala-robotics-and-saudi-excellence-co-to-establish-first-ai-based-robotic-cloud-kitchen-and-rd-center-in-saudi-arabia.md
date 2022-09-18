@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/nala-robotics-and-
 webUrl: "https://markets.businessinsider.com/news/stocks/nala-robotics-and-saudi-excellence-co-to-establish-first-ai-based-robotic-cloud-kitchen-and-r-d-center-in-saudi-arabia-1031746917"
 type: article
 quality: 77
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -78,15 +78,6 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 19
-  - title: "SDAIA: The Kingdom of Saudi Arabia Announces Program for 2nd Global AI Summit"
-    excerpt: "The Saudi Data & AI Authority (SDAIA) has announced its official schedule and speaker roster for the 2nd Global AI Summit, set to take place on September 13 - 15, 2022, in Riyadh, Saudi Arabia. The theme of the summit is \"AI for the Good of Humanity\","
-    publishedDateTime: 2022-09-14T01:10:00Z
-    webUrl: "https://www.newswit.com/en/LnS9"
-    type: article
-    provider:
-      name: academy
-      domain: newswit.com
-    quality: 16
 
 secured: "KqLK15AZkYV/WStTbhm749uy/4TwLzjiBwNZFlZnN+2V0vOcBuzcMh66fWRRe6s6z5CUtk3STAjdnEQcRNTLD6EU8zrpAmOmy4++SvOwIngNSQOIPAMVVFWcY/spOvseUKfyAGTYSmryX8Wsq4Rd5EAZrGzc/Ey/gPqXVJ2DPp7kvaVg8vHdnz+TWJckOfh2XOcDVkcT4pMzG5eB99fW0wPIs78d91p9oniIh6R0I0RJ3of9UQEzrQUs+43jSFhUrF9uZix16cHc5ZBynIq7/KSSYBsUtaB10l+cIoAsrqi3URTr4jIqxFg5KswRqt+6ZYqsZCFIYS3k4/r/VJGP6IZwQhFGD2yZBnHnoUBqE/81/+fj/i/nqSm5PCgckgXsYzC37keyZJzooNcYThmhWcTN9FBKOI2PGOz3HksCZZdgDUS05AsdQMR58MBdNiVZ5VCQ8zSF/RuQQk/YDoA2G1latMmt/lsu62IbclI5EigwYPh2nIjlzFiSs/lklilVhpgGh8dcrmdLdZZx2C9NaQ==;YLcqG7jh5masBedxY3tmXw=="
 ---

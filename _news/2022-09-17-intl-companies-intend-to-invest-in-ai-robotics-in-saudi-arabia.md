@@ -72,15 +72,6 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 19
-  - title: "SDAIA: The Kingdom of Saudi Arabia Announces Program for 2nd Global AI Summit"
-    excerpt: "The Saudi Data & AI Authority (SDAIA) has announced its official schedule and speaker roster for the 2nd Global AI Summit, set to take place on September 13 - 15, 2022, in Riyadh, Saudi Arabia. The theme of the summit is \"AI for the Good of Humanity\","
-    publishedDateTime: 2022-09-14T01:10:00Z
-    webUrl: "https://www.newswit.com/en/LnS9"
-    type: article
-    provider:
-      name: academy
-      domain: newswit.com
-    quality: 16
 
 secured: "p2mQamNnQ3dM7dDKk8X0muZjCZicfF0/u+QVZaBgoYQw4QiDESDIBtX8Hz0ukQjzm4oGkPjVxmaAlpAO0KI4Y2P2EDr1tBWG/vPRwTRtsA4Pbj8cCMz7aPsXjW6Qxa58PPU39qm0f2+ajL+2pwkXbzGn/arO5QxtT7/B1rjNPEk0wrWchwU7dq8IJOC0y2Mjq6M/hBpZwuDQ+gRMVSYW/wy8IWK44y+kVorktMoSblYolHdikrhZjA7GUnenXnDLqTNKWht7pWukeYoNarxGqSiOlaDkZxV8+52g3JCRgWh9DLWuTeti1/OZoKGJl/OgM9/2PJS0ucdlGUVk+mEBUCHSa+aFTQwZdwgkeOp4OWo=;IhbiaE23QzxHbktZ+StW+A=="
 ---

@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Courses for NLP Market Size by Trends, Segmentation, Top Key Players, Growth and Forecast To 2022-2031"
+    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
+    publishedDateTime: 2022-09-15T10:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-courses-for-nlp-market-size-by-trends-segmentation-top-key-players-growth-and-forecast-to-2022-2031-2022-09-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
   - title: "The Foundation for Sickle Cell Disease Research Hosts Virtual Symposium Highlighting the Applications of Machine Learning in Sickle Cell"
     excerpt: "Changing the Conversation and Reshaping the Future by Exploring Technology in HealthcareDuring National Sickle Cell Awareness Month FORT LAUDERDALE, Fla., Sept. 15, 2022 /PRNewswire/ -- On September 22nd,"
     publishedDateTime: 2022-09-15T14:05:00Z

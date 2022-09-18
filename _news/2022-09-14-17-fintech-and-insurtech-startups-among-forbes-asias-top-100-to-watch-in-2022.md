@@ -69,15 +69,6 @@ related:
         width: 768
         height: 1024
         isCached: true
-  - title: "Key Learning to Build Fintech App For Startup"
-    excerpt: "How will the new Fintech app add value to the customers' financial transactions and user experience? What unique value propositions is the app offer, and how do they stand out from the competitor apps?"
-    publishedDateTime: 2022-09-14T04:11:00Z
-    webUrl: "https://www.finextra.com/blogposting/22898/key-learning-to-build-fintech-app-for-startup"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "yqUaJulyyfxvPouVoTzs9haouL0S6rqUzrRSEAkyfXqkprA3T+VYR5DzCmqBMup7i8Zg+ICCBM1vWNWtlQ5JJwAtn8mTcPUZHYxoacnaec+rMH1wwnJ3ucazVYA8IKSbvoKBdf/JkjxiO9xxLrn/wzFOz25y7eou2BCbRoamVDGSdQsIu/qc/zCrjYCXgsKwbFfSw+AkQrcRmft5s39sC0eho7QyC++SG77PJrX3MNgKr+uiQzXH0d9HU8XKKfosJd30v5eyBrH5qcz3KNkzYU0fHv1x/8Fgo+kRuUbE9BKC5gZeYORLsB8VLfg4rSEonRwp2QTgpAYcEv0YzIi+52w4mgeZk1elwpL4KXEM8KildlvIF+PXPpFEFl2dOViaePj/RUkuH3BPGyJL/ra/mcFUc5HhqEK99frw8rbngbUknr1PN9fG9rdM662FhNubyb32C246B4fVcZm+Sep06jzhI5LaB8FQg0x+uvfgqlay07is1hJvsI+FL0W7E13PCpAVteUmr1qQrFZBkBS8tg==;KEMl7Td4Vz1EvOdnzqUU3A=="
 ---

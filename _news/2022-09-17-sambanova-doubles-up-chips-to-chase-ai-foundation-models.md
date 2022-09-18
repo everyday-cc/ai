@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2022/09/17/sambanova-doubles-up-chips-t
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/09/17/sambanova-doubles-up-chips-to-chase-ai-foundation-models/amp/"
 type: article
 quality: 76
-heat: 107
+heat: 106
 published: true
 
 provider:

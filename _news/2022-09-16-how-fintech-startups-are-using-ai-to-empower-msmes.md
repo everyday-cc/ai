@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-fintech-startup
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-fintech-startups-are-using-ai-to-empower-msmes/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -69,15 +69,6 @@ related:
         width: 1024
         height: 567
         isCached: true
-  - title: "Key Learning to Build Fintech App For Startup"
-    excerpt: "How will the new Fintech app add value to the customers' financial transactions and user experience? What unique value propositions is the app offer, and how do they stand out from the competitor apps?"
-    publishedDateTime: 2022-09-14T04:11:00Z
-    webUrl: "https://www.finextra.com/blogposting/22898/key-learning-to-build-fintech-app-for-startup"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "LogXaUltzKZ4wxTqjpGRBaI3qG1oO8ahPn3gjC1atCBtrdn9oJLO92MfND/dAb8Y9HT2ZSGoowHHq8/fpVF6RSYzi27WqhkU5+pm+b95np6J+9p+499JKAon2A1CFO81VQs6fTDNW28kmjO4/ZpIL+glKujuqgSQHgjETrtEmZMO4PT5YPZUvGdLSsP0Qz7jeRoOBOACoPdK6liawwdsGnlgktHD7+RbMVzvtrIE6rE3t5BpGbaWMF47VUMpLbAgNvVfVih8/HZrJgnLsRjhz6s4aoTNaNcLdQXngtJAlfkbGebc7dDWaGVWZb5HoiiKs2aJzgcR2g0Qfip3aOjMKql1Gw17UfDUPxpKVD9ceRTXR0cfFDzLgNUvRbeF01g5dmWYjFgPk/I5HT6KxEMBOtCHJusxsIQL7RvLhoIv+zc2uLpuEW1lTKPyXHvzWL0rETEDCCwgzkHpe11hR8FcZKWOkEWZxAhtF4SwEtl8PlXguQqau/zY1IC/t813hRjSmWKtsrYbYg7BzGpmuhhJfQ==;jm/Bpaey2XyHn6ujrmWJkw=="
 ---

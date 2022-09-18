@@ -36,6 +36,15 @@ related:
       name: The Herald-Sun
       domain: heraldsun.com
     quality: 32
+  - title: "Can artificial intelligence detect autism doctors miss? Duke study wants to find out."
+    excerpt: "A computer just gives you a beautiful readout of how many times the head moves back and forth,” said Geraldine Dawson, director of Duke University’s Center for Autism and Brain Development. Dawson and her colleagues are testing an app that Duke has patented to harness that power."
+    publishedDateTime: 2022-09-17T23:16:00Z
+    webUrl: "https://www.newsobserver.com/news/state/north-carolina/article265718501.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 12
 
 secured: "TmP1wNLlFlrisWgN3ccfsC3PqhgWX8Wn7ua6aQjdwIdXxw2BWPRDd2rFAZGXi3H1K1l3zP2+tFEjA+YIx5xk9p9aSXHZ9X4oot63LTUj4gz5iK8Y3tgAHC9CIdpJY/1MHeC+FPosJWjPvoXH+WKOoHeVid8iLFl0roPuAMhhz6bm/kSRlrdfuzknKDo2Y+Kg7sGCvWeV5TFni5rkgaRXTuctJh+cujupyFM43uMwcwGipDuZFQGCbTNV85YolbY9ow33sY33rTHLLfIegxsLioVSfZG4PRG99HClbdj33DoAdb00yfLsXks1sJ5ysPPhdNxQeo/+VeyugpTRpId8dsdIev1I+NR6VvZWdSel/Dc=;fYNzMZ7GKr3SehleRQYPJA=="
 ---

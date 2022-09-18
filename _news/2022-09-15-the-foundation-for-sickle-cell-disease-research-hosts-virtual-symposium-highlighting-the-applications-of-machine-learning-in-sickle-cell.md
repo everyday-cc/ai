@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Courses for NLP Market Size by Trends, Segmentation, Top Key Players, Growth and Forecast To 2022-2031"
+    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
+    publishedDateTime: 2022-09-15T10:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-courses-for-nlp-market-size-by-trends-segmentation-top-key-players-growth-and-forecast-to-2022-2031-2022-09-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
   - title: "Facial Recognition Market Research Insights With Upcoming Trends, Opportunities, Competitive Analysis, Forecast To 2022-2031"
     excerpt: "The global facial recognition market size is expected to grow from an estimated value of USD 3.8 billion in 2022 to USD 8.5 billion by 2031, at a Compound Annual Growth Rate (CAGR) of 17.2% from 2022 to 2031."
     publishedDateTime: 2022-09-14T17:44:00Z

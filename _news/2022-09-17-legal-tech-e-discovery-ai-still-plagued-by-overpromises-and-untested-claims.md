@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-16T22:36:00Z
 originalUrl: "https://www.law.com/legaltechnews/2022/09/16/despite-what-the-marketing-says-most-ai-tools-are-not-yet-standalone-solutions/"
 webUrl: "https://www.law.com/legaltechnews/2022/09/16/despite-what-the-marketing-says-most-ai-tools-are-not-yet-standalone-solutions/"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Law
