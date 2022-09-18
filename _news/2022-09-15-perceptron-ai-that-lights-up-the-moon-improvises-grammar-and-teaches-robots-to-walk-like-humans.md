@@ -25,6 +25,7 @@ topics:
   - AI in Robotics
   - Computer Vision
   - Google AI
+  - AI Hardware
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1160995648.jpg?resize=1200,900"

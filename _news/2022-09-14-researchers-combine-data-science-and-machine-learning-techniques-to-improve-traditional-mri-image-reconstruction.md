@@ -1,29 +1,20 @@
 ---
 category: news
 title: "Researchers combine data science and machine learning techniques to improve traditional MRI image reconstruction"
-excerpt: "University of Minnesota Twin Cities researchers have found a way to improve the performance of traditional Magnetic Resonance Imaging (MRI) reconstruction techniques, allowing for faster MRIs without relying on the use of newer deep learning methods."
-publishedDateTime: 2022-09-14T00:00:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/964576"
-webUrl: "https://www.eurekalert.org/news-releases/964576"
+excerpt: "University of Minnesota Twin Cities scientists and engineers have found a way to improve the performance of traditional Magnetic Resonance Imaging (MRI) reconstruction techniques, allowing for faster MRIs to improve health care."
+publishedDateTime: 2022-09-14T13:37:00Z
+originalUrl: "https://medicalxpress.com/news/2022-09-combine-science-machine-techniques-traditional.html"
+webUrl: "https://medicalxpress.com/news/2022-09-combine-science-machine-techniques-traditional.html"
 type: article
-quality: 18
-heat: 18
-published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/387a00b7-ce35-466a-a544-239e72a0f1d3/Rendition/low-res/Content/Public"
-    width: 700
-    height: 342
-    isCached: true
-
-secured: "3EKXd1IAwj97SM+8rGX3mKXSuA0omB2e+yjGoih/3zhsHPTBL+jxgAPLf976nZOdfbeL84N93LDZ976k4z03zWaLMvzXAa9jeFy0q6nFKnSn1HzYzBSUvwNrAzH1vXa58KhOdnzIWT5wiuxIiUhdt7hfCo+pWXOktkQR9D1k9jRzQCq+GLyIL3/KpFo5u4StsYrHr9CU0w4rzE7nEH8O3L/ih8FsSIR2VdxFHK3wDOQ4+GjqOFwArUePVt+rfSDW2XxaT344iOmG/kTZMg9MGOGdeS5Qj4nDJe841LGYff1Q/BOHfWn8jOYt6iXf1CHE4S5OoQbJ+ghZxYLFwPGWd93kaUZzq6Fu95ZzbcEL38o=;Ns8uhlnDwfIndiJIl75AbQ=="
+secured: "X4QF8mfnao7S0+gOTszCC9oxUEEEQhX+IcKI9VQrCxFTLyya66SK5+tt1xVVjm3Zr6cPzxGWpyVxDxGG2lCix7/mJSWNJE5NDQnQsN12zv1Id+0ufJGuH7+541X/3Eg0NmZpejqQ9WSZv3CzX9d2zYwwzmWjHoeG9dGltBgVzrVfxFBq5+TPb+O6VXnB0X9miifShC53MgD20ZzSlzBrIuZQ/XMCXE3543kXr+ZFhPqEy3j8IxpyBjKLGiDFSI+IeMqyQw3zTLsOnSAhmQrbEDauAPlibDFafI25sdDuOExFO8j8QSlRibWJDtp2xkVdVQMnscIPhNn2p+TCvTNJeDr4qmaQzC3hFaEKnoeDcTHk+siIB3zqh7WjC8ZZpYG8WQ1uBvP7NiI67Jfqpy02cGbSU9jvQwqr+FQNldKNEBCJrI2zmh8QlenSgVs/uu09UYgNZTOZYdMHx/IW7le06jVeO5Rs9Rbm1KPD0DOsNdTeNEnU8c0B8Y8GqSy4dgDaBQ5WPvvXFpMooDUy7vw/PA==;5KXTeFsnz/8DBXRlRlIaFw=="
 ---
 

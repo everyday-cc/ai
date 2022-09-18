@@ -27,6 +27,7 @@ topics:
   - Natural Language Processing
   - AI Ethics
   - Computer Vision
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1004013312.jpg?fit=800%2C450&strip=all"
