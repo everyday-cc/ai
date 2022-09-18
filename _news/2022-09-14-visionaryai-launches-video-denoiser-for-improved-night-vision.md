@@ -7,7 +7,7 @@ originalUrl: "https://it.tmcnet.com/news/2022/09/13/9672321.htm"
 webUrl: "https://it.tmcnet.com/news/2022/09/13/9672321.htm"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Visionary.ai Launches Video Denoiser for Improved Night Vision"
-    excerpt: "Visionary.ai, a developer of image processing software, today announced the launch of a real-time video denoiser that improves video"
-    publishedDateTime: 2022-09-13T13:00:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/visionary-ai-launches-video-denoiser-for-improved-night-vision-825802123.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 19
   - title: "Messagepoint Launches Semantex™ Division Offering AI-based Content Intelligence Platform"
     excerpt: "Messagepoint today announced the launch of Semantex™, its new division providing an artificial intelligence (AI)-based content intelligence platform designed to empower developers tackling complex content-related challenges."
     publishedDateTime: 2022-09-13T16:34:00Z

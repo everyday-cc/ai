@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/facebooks-pytorch-ai-ignite
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebooks-pytorch-ai-ignites-at-the-linux-foundation/"
 type: article
 quality: 106
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 66
-  - title: "Meta launches new AI project called PyTorch"
-    excerpt: "Mark Zuckerberg has announced that the PyTorch framework project will transition to a newly launched PyTorch Foundation."
-    publishedDateTime: 2022-09-13T12:14:00Z
-    webUrl: "https://www.socialsamosa.com/2022/09/meta-launches-new-ai-project-called-pytorch/"
-    type: article
-    provider:
-      name: Social Samosa
-      domain: socialsamosa.com
-    quality: 56
-    images:
-      - url: "https://www.socialsamosa.com/wp-content/uploads/2022/09/8-68.jpg"
-        width: 803
-        height: 419
-        isCached: true
 
 secured: "V7uuaFm/IBR2kRIiKAONEmr/ri1oKlrdoIaHxt8gMV8ISsqV8Q6zmZ1jLILYluScI407dd+Sp8qRqtUddTlcv006AzZGaaAcaIZJYFsisCoeaOlMnUzzXGKxIrUI3Xzrm8J3s1F6tc0myl2xarkiYZRSXUNMlokUxKMrwtRBGLhaXXUs9lOItJycqrrNqKsCQdmfzQRh7IHs/8aNhmDNkStcD2FWHkJSvGEuWCUKc7tho3t/t7sUonqzOIWNIr27qRZCtfp6yK0ugExbpqAnlMjsTT7WLrZJQzPFCJwSMyB01eHm6QSLRqpoOwYiuXkdPF694eCfpCCmMtqPKGGidBWMO3dBpcMn/RelUfDXhQIzZRQ0C1F9hzIpulR5U5qcz2PsoBOzF8kwW/3Nyx7PkMW4X9uOkCtuHpyxlbdUpZhrZrOW45DlOhN8X9HkI1XpeDYUghUZNl22+X3ASq30bGk7iGiPrO7N2bpem0drIWGe7ztVNMHcH6hwBSSo3E/VLZKeJ6pmpnTuT+9YgY9bjg==;QmEPEjAFf2J1lY5W/G/QWA=="
 ---

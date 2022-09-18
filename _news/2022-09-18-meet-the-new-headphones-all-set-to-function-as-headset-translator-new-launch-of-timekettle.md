@@ -18,6 +18,17 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "Timekettle WT2 Edge Offers The Best Travel Experience with Its Real Time Translation Earbuds Capability"
+    excerpt: "The Timekettle WT2 Edge is so small that it can be worn inconspicuously on any occasion without drawing attention to itself. It is easy to use by anyone who travels abroad or communicates with foreign friends and colleagues,"
+    publishedDateTime: 2022-09-17T17:48:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-9-18-timekettle-wt2-edge-offers-the-best-travel-experience-with-its-real-time-translation-earbuds-capability"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
+
 secured: "gazxUdISnvqWfxtdnJb4eY/hz8PH5La8BbyztZk1PkuFVoewGstlOVtg4wEZKm8dU2dVHGCYIsJ9/NiF8bkYLRRzRI2TRKqV3je8jNmQkl4GRZLlQvWTwpnRpfpgBvck0UARglwg8sZfqPvxdQlgT7vIRk4RQg7nIL2GRB9Zdl8WcpoIS8IDfGLSdiNpicirdRSTd1ljBjHoLn/l+rNt1DOJbmHZtRAHumL423rBIejgWv9dT7Q4yEFb1EN2Q9r5pfcycohXX3+4Aso00gZkM94CxwaWHRsgzGRx1ONcMg6hhN5YmKeUrP8zVIeOxkgCmkpB7nbmRtz3An59OqVZp/hXqrzzuAzZ4eUJ/WI4xQ4=;3ov8fqVjDul7wCKwRBmKgA=="
 ---
 

@@ -25,37 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Is AI The Solution To Hiring Bias (Or The Cause Of It)?"
-    excerpt: "If AI can find qualified candidates and automation software can schedule interviews, confirm appointments, and send email and text messages to candidates, what’s left for a recruiter to do? Turns out,"
-    publishedDateTime: 2022-09-13T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/13/is-ai-the-solution-to-hiring-bias-or-the-cause-of-it/"
-    ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/13/is-ai-the-solution-to-hiring-bias-or-the-cause-of-it/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2022/09/13/is-ai-the-solution-to-hiring-bias-or-the-cause-of-it/amp/"
+  - title: "A university professor wants to expose the hidden bias in AI, and then use it for good"
+    excerpt: "Lauren Rhue researches the fast-paced world of artificial intelligence and machine learning technology. But she wants everyone in it to slow down."
+    publishedDateTime: 2022-09-14T17:40:00Z
+    webUrl: "https://techxplore.com/news/2022-09-university-professor-expose-hidden-bias.html"
+    ampWebUrl: "https://techxplore.com/news/2022-09-university-professor-expose-hidden-bias.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-university-professor-expose-hidden-bias.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: techxplore
+      domain: techxplore.com
+    quality: 51
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f89f505db3eef289c346955/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Artificial Intelligence Can Bring Real Solutions To The Power Grid Crisis"
-    excerpt: "The state utility registered a one-day summertime record for electricity usage, peaking at 21,086 megawatt-hours of electricity."
-    publishedDateTime: 2022-09-15T14:19:00Z
-    webUrl: "https://www.forbes.com/sites/sk/2022/09/15/artificial-intelligence-can-bring-real-solutions-to-the-power-grid-crisis/"
-    ampWebUrl: "https://www.forbes.com/sites/sk/2022/09/15/artificial-intelligence-can-bring-real-solutions-to-the-power-grid-crisis/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sk/2022/09/15/artificial-intelligence-can-bring-real-solutions-to-the-power-grid-crisis/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/631a5150de0822c428d70388/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 797
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-2.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "YcyPmA165wYmNlk7xXjlw7je9Zwqfv2jITaoEWJj4YMDCG3hm11MzMtPDDNeWmGNXoAmV4m2HlynrHJPNM7uxTqcRFzt99Jxa1CDowSgTgW7SEZw/JKX6HfvAkQJSQswtwgob/AyCRQ1oWekxsUDCrv9VFh17pQLPVhyfFwrjkzWM+2cDR7MnIFJ0WdKqBiMAfprakaU820DsFCKbwkgsgvHvkR3MdSx+cewPL4puNAnf7C8jaAQQr5BweOqnOrj0QpT29XJ/YiDompQDFhnTJiKCfQNhbaCuI1YoLwakLFu3nl6403MrTCu3m/xUEZI//cFXJ3xDkwY2jswlhuc/zENchU194uAQ+xPgWFLrd9iEPG7KwImNrDzIAVgfqZ0cBzV6fnegIYEVWfLx/RPZaNWM0PJfS/XCHjSAzvTB793/t9MxSL0aoZ9YUwp+ZC1FRRv5qK0FW/w8xdYRafdL3+M/lvYhAckH15WwVUWSLP+Yx/IuWW0rSqehdbzdvJiQcBRaYL75/Qu+eeK4CmioQ==;ZKA5lmGlpCt9PvLNvhk2cw=="

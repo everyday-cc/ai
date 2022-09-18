@@ -42,15 +42,6 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 20
-  - title: "Under patronage of HRH Crown Prince, 2nd Global AI Summit Kicks off in Riyadh with Participation of 10,000 People, 200 Speakers from 90 Countries"
-    excerpt: "Under patronage of HRH Crown Prince, 2nd Global AI Summit Kicks off in Riyadh with Participation of 10,000 People, 200 Speakers from 90 Countries; Saudi Tourism Authority and Unio"
-    publishedDateTime: 2022-09-13T12:03:00Z
-    webUrl: "https://www.spa.gov.sa/viewfullstory.php?lang=en&newsid=2383540"
-    type: article
-    provider:
-      name: spa.gov.sa
-      domain: spa.gov.sa
-    quality: 0
 
 secured: "NVCbstkdhwqoEIllr4QA1TcumAhthfgcwMJPWuQTFAUuCTXm99k+5SX+KWNThjlvKbYN6ExWeGmItsDy8eXPCwm56aNiz5pmFd7yB2tHVdzkVjLp+62axZaxoC8KDaLDavf4JV/JXMxWIAJbcW1Ufz3WVoBOgWzrutcvAHy3c43dSH9DpkK36XkEcl5I4Cy2FNwUiRZhRlp8oFB2gmrohWFrXvug3f0j/F4UNvYi/QVymr26B+K1YkbLQ245/fipgqqk68BKeoEpRF6RZGsZnosnmFoBE1vbcuJgQjY92Dulnei8+f2uSeY8AMbARte+UIfbm77AGX0g9WtrTEmqp4EZ/LL8rA0hsVqJAffwbHShIPnWGVIqlkYxhEIV88WL6Sjs72JdUefrxPG34Siw9apQmd6WF/VxeuLBM7v/Jf1MvWaS4z8zb3v0+zSun5PXqUERHrX9hIw5Tz2hHm8MtVMhoUYnvC2Gk5TwMgA6o9ylm0DNcknU6V+fJ7arc/H02R7/q9QDURnz6O8URO+O7Q==;M1UaeXnm8cxeWFQhHqgqNA=="
 ---

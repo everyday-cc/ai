@@ -33,6 +33,20 @@ related:
         width: 300
         height: 231
         isCached: true
+  - title: "Cadence hails EDA 2.0 with unified data and AI driven verification"
+    excerpt: "New EDA platform enables engineers to obtain ‘actionable intelligence’ from massive volumes of chip design and verification data."
+    publishedDateTime: 2022-09-18T05:53:00Z
+    webUrl: "https://www.embedded.com/cadence-hails-eda-2-0-with-unified-data-and-ai-driven-verification/"
+    type: article
+    provider:
+      name: Embedded
+      domain: embedded.com
+    quality: 39
+    images:
+      - url: "https://www.embedded.com/wp-content/uploads/2022/09/Cadence-JedAI-image.jpg"
+        width: 863
+        height: 447
+        isCached: true
   - title: "Cadence Revolutionizes Verification Productivity with the Verisium AI-Driven Verification Platform"
     excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the Cadence ® Verisium ™ Artificial Intelligence (AI)-Driven Verification Platform, a suite of applications leveraging big data and AI to optimize verification workloads,"
     publishedDateTime: 2022-09-13T16:23:00Z

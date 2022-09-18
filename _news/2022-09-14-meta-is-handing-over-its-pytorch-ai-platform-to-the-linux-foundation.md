@@ -51,20 +51,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 88
-  - title: "Meta launches new AI project called PyTorch"
-    excerpt: "Mark Zuckerberg has announced that the PyTorch framework project will transition to a newly launched PyTorch Foundation."
-    publishedDateTime: 2022-09-13T12:14:00Z
-    webUrl: "https://www.socialsamosa.com/2022/09/meta-launches-new-ai-project-called-pytorch/"
-    type: article
-    provider:
-      name: Social Samosa
-      domain: socialsamosa.com
-    quality: 56
-    images:
-      - url: "https://www.socialsamosa.com/wp-content/uploads/2022/09/8-68.jpg"
-        width: 803
-        height: 419
-        isCached: true
 
 secured: "iK+PCV0+RsNnk2mDXEbd+q3C4hFalFDxnAmtUJYiFFLI6niAn8SlY6ALqlGqLrbOZVQBgS3FNsVziHem/4NeaC2vfqYmw4N1qqxEhhWJ2Hrv+zSibB0mwdU6YdYgxfEHIGt/Ehx5yLWLkoI7518j004f0DcKbQ8oQNLWvKuetM/IhRchhBNGhHELlYNf64W7emMIcr3D1BqA6VE5crTH03CBPxcLkejn+9ja4q9c7fcXCpKoAsitQ3ZbT1Pk47TL1WpEaBOh0vRVpSOMoXtjPq+4JQ6fR4O9dz4jtuxsUPcZzcSByoBit6mn55FHU1obgcO0sdjhA9OybWIAT2hM3dleNWpF0DevOy3C3j1VpRU=;WkS8m/v/s+nyWAHDmzgHzA=="
 ---

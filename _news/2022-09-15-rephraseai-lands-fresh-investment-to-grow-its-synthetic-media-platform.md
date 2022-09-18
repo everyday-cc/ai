@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/09/15/rephrase-ai-lands-fresh-investment
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/15/rephrase-ai-lands-fresh-investment-to-grow-its-synthetic-media-platform/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Climate Alpha launches AI-powered platform to steer investment toward more resilient regions"
-    excerpt: "America's next great migration is underway – now we know where it's going. NEW YORK, Sept. 13, 2022 /PRNewswire/ -- Climate Alpha announces the"
-    publishedDateTime: 2022-09-13T11:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/climate-alpha-launches-ai-powered-platform-to-steer-investment-toward-more-resilient-regions-1031739451"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
-    images:
-      - url: "https://mma.prnewswire.com/media/1896414/CLIMATE_ALPHA_Logo.jpg"
-        width: 400
-        height: 369
-        isCached: true
   - title: "Rephrase.ai Secures $10.6 Million in Series A Funding Led by Red Ventures"
     excerpt: "Rephrase.ai (\"the Company\"), a generative AI startup that aims to humanize communication through synthetic media, has raised $10.6 million in a Series A financing round. This new financing was led by Red Ventures,"
     publishedDateTime: 2022-09-15T19:37:00Z

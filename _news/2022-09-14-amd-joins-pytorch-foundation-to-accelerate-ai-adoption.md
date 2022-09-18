@@ -48,20 +48,6 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 66
-  - title: "Meta launches new AI project called PyTorch"
-    excerpt: "Mark Zuckerberg has announced that the PyTorch framework project will transition to a newly launched PyTorch Foundation."
-    publishedDateTime: 2022-09-13T12:14:00Z
-    webUrl: "https://www.socialsamosa.com/2022/09/meta-launches-new-ai-project-called-pytorch/"
-    type: article
-    provider:
-      name: Social Samosa
-      domain: socialsamosa.com
-    quality: 56
-    images:
-      - url: "https://www.socialsamosa.com/wp-content/uploads/2022/09/8-68.jpg"
-        width: 803
-        height: 419
-        isCached: true
 
 secured: "Ddx8FWIZp1pp4OOzxLp67szNqw+SJcQcoo+kCHzSaC27b44YOswEHZk2VF0S/rMbRf/wCKwzZBXHrbCjcDDm3LfRpnEsnHOIA/I0ctaEcM2pARib5NwChYgNp1F4jx3IDahj8+6IknT6F6qDNwNMRfiCVWeMtMoHwdkf8IG8Q05TIiP4Wv26X3osoIp557bwdUNtGEZb1spdoXkndI08mRTaWUTHsPdxDq3Rf4sa86N04/daFLPStQGvgP41C1saa0cXcmpVSXNXMMITZRiO/kwRPxS7rLnw+yVr7BHobI6cIxNYSo2iLM8VUHT+s6aYI8yZWEHbaHUae0baE9wYK8ReqNuHNT1IeXlAZeIEy7s=;7iRKxJJ3Oam0zbiP+74/iQ=="
 ---

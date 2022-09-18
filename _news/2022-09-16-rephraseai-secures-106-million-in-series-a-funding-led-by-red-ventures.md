@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Climate Alpha launches AI-powered platform to steer investment toward more resilient regions"
-    excerpt: "America's next great migration is underway – now we know where it's going. NEW YORK, Sept. 13, 2022 /PRNewswire/ -- Climate Alpha announces the"
-    publishedDateTime: 2022-09-13T11:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/climate-alpha-launches-ai-powered-platform-to-steer-investment-toward-more-resilient-regions-1031739451"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
-    images:
-      - url: "https://mma.prnewswire.com/media/1896414/CLIMATE_ALPHA_Logo.jpg"
-        width: 400
-        height: 369
-        isCached: true
 
 secured: "cSAHi8WdZC06JLOh2uMpd8u/an6wSrlYTF1yHu/B8muq0gF+iEtB72LIbgudeuUDoCZKRH4N4QVsl2t7lasDq0p1kaudZQjad97+RKMWN94L4V/x5H1b5pRH8GetNW6rqv87UdxzJiS/PojMIcqXswvT2Y9j5HPnNhH8z9wOiwauIySo1JOx48sFX5c6f8C+193aLxawr8a5UNivo0DR0v4m/BB1R3mGgrFKpTXtWDdpiOQTElmuI6FTB1wnYEb8Ae4c7Xgf7q8Q81TRwiW52AECxd6tmtd1xrA8AtH9S3WFAH6cM4rt+QUhOJbptJieDhCir+Bku7G+kXiZg6unAMXsf1kU+FPs7I6uXgtkLnUjwMNlp5dKnV+48sakfPzY2dks+wAuNBYAMT98ei1mqtxceADZjQvfQI9vlpYRz3AinTNfhlGMBg/4tqcEgSrHENG3H97C/SSPcKp9WbvkaxqHZkJioMLXqx6iGLI9m9RxYWBftBEvIWVIFBVuGAoehbqYDdeZZ+7ZKHOOQaqhrA==;A5G0VMsjcsP6PkJIIYfRKA=="
 ---

@@ -19,17 +19,6 @@ topics:
   - AI
   - AI in Marketing
 
-related:
-  - title: "Edifecs Launches Solution to Automate Prior Authorization at the Point of Care"
-    excerpt: "With its recent acquisition of Talix and Health Fidelity, Edifecs expanded its risk adjustment business, AI technology, and EHR integration capabilities and is uniquely positioned to transform the prior authorization process."
-    publishedDateTime: 2022-09-13T12:24:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/09/13/9672137.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
 secured: "PSmA6QMtauqFNGnDs8TuS20ASgN8ZO7sX4xMvf6ctxr3IAboFDv1z9zBIsnBB+QRQY+v92S3fvI2uo53k5ZtBqmpzpK4KvQe0U/6oTf7T9wNiUtM17lq49+2Xd8Wg+8Tfy8bbCPT80i2gxbseioTAXbTOD8lGIq4sYGLRvLx/xIO9Owu4k4bt+Cp7SNxIPX+DQtUpbLwVKwhP50QnSdHKhFyXW3Mi6s4HPkFbe/WZQhzbje8Kqo+WGLrCc1fHKnT+IZZGnTIAIsuiU7Y+cp7Z6UXDxzt3EP3g1M9SuDjziWHT9bjwCeaHuKSMF9nLV77PxAhLRHLp3OrYSh+zs6hl49AKrh/FkNe8gtnqjO+lpw=;mqTJPFc3ENBXoPDu4076JA=="
 ---
 

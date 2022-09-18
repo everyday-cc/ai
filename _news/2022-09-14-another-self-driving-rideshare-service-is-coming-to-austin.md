@@ -7,7 +7,7 @@ originalUrl: "https://www.khou.com/article/money/economy/boomtown-2040/cruise-ri
 webUrl: "https://www.khou.com/article/money/economy/boomtown-2040/cruise-rideshare-self-driving-austin/269-20d332cc-49a8-4d7f-94e2-85ce34a9cee6"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Cruise to launch self-driving ridesharing in Austin this year"
-    excerpt: "First it was Google. Then it was Ford and Argo AI teaming up with Lyft. Now, Cruise wants to put self-driving vehicles on Austin's streets."
-    publishedDateTime: 2022-09-13T11:34:00Z
-    webUrl: "https://www.bizjournals.com/austin/inno/stories/news/2022/09/13/cruise-to-launch-self-driving-in-austin.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
 
 secured: "atYG5ZlBE0ngT+D32JndWR5rduMhbxsfccupfOIyKn6lNnFmWfURGNoLQnzxEUbrUvT8c6bLmwfn5lUHns/YhSp3Tn1Tbn+2QBPEq1xdrd/CbmIl3i3VUmjyHFckJjlXawl6B328iXtwizaUHRmETttIhhwpU5fmyQV+qhNLoOUuExSJ/0jzCWRPzQ0GLeLtOhxctaFX0vss5r8I6Yby/cvxWDEIWVjJAF32KD5FBEA52fQ+UN1LYQHuMw9y78ySjGJGcgZE6qJA8WTgdufWEwnzOboWa9kY72J1fI72a4GQ6LU3iQQ6Ci5G9ORWgl5+hiPVE7AvBUKdG2ULamdcutJowCYZwIxOKBpT4f0HZxEYygGHpA2rK3Yoag42JuJ8L+dfO3x7CqcVDer0E2QwU2WB9vgY8BqPPdiv/T841iI2p7zW9nJZW/NqGsQrnMYOKE5uPfpFHJ6Atow7jJt3R+Mb/qzINlMeuibPwku48M2xxbHHAhObr+nMIW+5N8D8bjq+hUTZEjHxEOoM57UiWA==;2K9JKa21NVl/sRGoWL1ozA=="
 ---

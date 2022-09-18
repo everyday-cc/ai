@@ -43,15 +43,6 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 18
-  - title: "Under patronage of HRH Crown Prince, 2nd Global AI Summit Kicks off in Riyadh with Participation of 10,000 People, 200 Speakers from 90 Countries"
-    excerpt: "Under patronage of HRH Crown Prince, 2nd Global AI Summit Kicks off in Riyadh with Participation of 10,000 People, 200 Speakers from 90 Countries; Saudi Tourism Authority and Unio"
-    publishedDateTime: 2022-09-13T12:03:00Z
-    webUrl: "https://www.spa.gov.sa/viewfullstory.php?lang=en&newsid=2383540"
-    type: article
-    provider:
-      name: spa.gov.sa
-      domain: spa.gov.sa
-    quality: 0
 
 secured: "t5TVzJZ9ORZDMUQOICKxEC641CsCGMSroZZKaeEWtt4hHnkgspQ5aQegtYEU6u/YzYGr1rFu/oxCoeWtjL2ByVS9WPCXPwS/RKOKp6Iskwxm/jezR6duwkjIPYTtMGzwrLC5fJohoO6SqBio9VDs97UVfzdPsz8T6IplzBnvvxG/gk8hP/ijXZrRjmZgKrdhmkNsFTmCALeWzfFywhz7EGkZNZYGM1mJviNQxJluoc6jQmbh2diECnGklKS3lyVp7lLGqjohS44VTfJPaTjOtNGcE6lOt4kKEV+jhAc95avYIUN75mZCAphVcFsYOIgcGCmG7WvnmFor25oV0x7rhB81oNnXRDWWljldW9utDho=;8R20A55hJGNmpZ1sUgYtRA=="
 ---

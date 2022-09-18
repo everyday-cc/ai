@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2022/09/13/dynatrace-ce
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/09/13/dynatrace-ceo-rick-mcconnell-on-why-observability-matters-and-how-its-unique/amp/"
 type: article
 quality: 70
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 824
     height: 740
     isCached: true
-
-related:
-  - title: "Riverbed Launches First Cloud Service As Part Of Unified Observability Push"
-    excerpt: "Riverbed Alluvio IQ is the first cloud-native service built on the company’s recently launched Alluvio Unified Observability platform."
-    publishedDateTime: 2022-09-13T12:30:00Z
-    webUrl: "https://www.crn.com/news/networking/riverbed-launches-first-cloud-service-as-part-of-unified-observability-push"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 4
 
 secured: "U6vRPAgWsoQcm4rOJ1hrRAQPLycitatY17hcSL/OUm+k8p4VWxPk7eoYmETc4eZaSjPW+paeZE4lCOJ+hICnm1R4UDASRqBjeNHHvS3sXtT7tslgiMFdJ7voJ3msHuTb7zJ1TRpmktU9j6+nl76QVCTIV2PrXcUou3BstxSRqAHotaYeqKvYUMCmMthvRFIklqa66d/Pv4KjpQh7+uaGW7eEgtNwiNHq5KSOEe5YbO5HSujIUzs9r0/xg2+kwf0LspJ6pAAzvPONJFSLFBmbsy8nSZKBs9rXvVc8N7b6DkRGigfi1cI4zChkLEwuUHdTp8m80SaIJkpBvhg3BCn48VJD0z+hVXwo8wqF/uJ5NqAhOt6kBZNDy03KuPIQRAfljzUD2xeIN/gnqVxNKDUBo3xioJOkbKl6GhJLaoBPgRQHCwWGYUpuZK815hmR1K8rUz46uo2G5uCPkcYMtAS5+rGGOzc2n/KQ7PrRU3LlABouLQlQZhcZhebyFaw0gZBR1NeLLD+wyMgDtxDutg/xpA==;Vbpx7RlCnALwgs1XVu/ysA=="
 ---
