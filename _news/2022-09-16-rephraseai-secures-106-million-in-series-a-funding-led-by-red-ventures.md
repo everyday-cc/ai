@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Rephrase.ai Secures $10.6 Million in Series A Funding Led by Red Ventures"
-excerpt: "Rephrase.ai (\"the Company\"), a generative AI startup that aims to humanize communication through synthetic media, has raised $10.6 million in a Series A financing round. This new financing was led by Red Ventures,"
-publishedDateTime: 2022-09-15T19:37:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/09/15/9674974.htm"
-webUrl: "https://it.tmcnet.com/news/2022/09/15/9674974.htm"
+excerpt: "Silver Lake also participated in the round, in addition to 8VC and other investorsNew round of funding will enhance Rephrase.ai's capabilities by"
+publishedDateTime: 2022-09-15T19:27:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/rephrase-ai-secures-10-6-million-in-series-a-funding-led-by-red-ventures-1031746554"
+webUrl: "https://markets.businessinsider.com/news/stocks/rephrase-ai-secures-10-6-million-in-series-a-funding-led-by-red-ventures-1031746554"
 type: article
-quality: 36
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -41,6 +45,6 @@ related:
         height: 675
         isCached: true
 
-secured: "cSAHi8WdZC06JLOh2uMpd8u/an6wSrlYTF1yHu/B8muq0gF+iEtB72LIbgudeuUDoCZKRH4N4QVsl2t7lasDq0p1kaudZQjad97+RKMWN94L4V/x5H1b5pRH8GetNW6rqv87UdxzJiS/PojMIcqXswvT2Y9j5HPnNhH8z9wOiwauIySo1JOx48sFX5c6f8C+193aLxawr8a5UNivo0DR0v4m/BB1R3mGgrFKpTXtWDdpiOQTElmuI6FTB1wnYEb8Ae4c7Xgf7q8Q81TRwiW52AECxd6tmtd1xrA8AtH9S3WFAH6cM4rt+QUhOJbptJieDhCir+Bku7G+kXiZg6unAMXsf1kU+FPs7I6uXgtkLnUjwMNlp5dKnV+48sakfPzY2dks+wAuNBYAMT98ei1mqtxceADZjQvfQI9vlpYRz3AinTNfhlGMBg/4tqcEgSrHENG3H97C/SSPcKp9WbvkaxqHZkJioMLXqx6iGLI9m9RxYWBftBEvIWVIFBVuGAoehbqYDdeZZ+7ZKHOOQaqhrA==;A5G0VMsjcsP6PkJIIYfRKA=="
+secured: "i9dCm94/aKzamhoEn1bD2+YEcEmYlEOGsFSTSuDSFgA5UkpD+gxgiweOLOqpsbXmEJvI+aL5SPnSh64bcUZoEE+bQmTL11A7J5upZpcgLpBC1kKQhgcdDbSX/knVp0xXV4CqJJf02sN+Lu3Z5rSjyR8jC1g3/vU1fgxnbpT/lo5t1QSP3nFXuh94N6SWy8pfwOrFcdFPor5EnLIObwJIt6OVmHxqOkCempKnmJ2TU09fZmslTw7FtQTTsXjF8olgSxmAvVV1ZLKePMIQknkfLPGRzjwXFlonXK7JQKEdwiUNXV3EBGSW7UdsYgmH+UXVF0RlZANDbHJtV22WZzGbjYp0dDQ1vnZsvKfj4pDvgJY=;haGcjH3Y2x6GDo/KTepsdA=="
 ---
 

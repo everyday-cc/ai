@@ -34,20 +34,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 60
-  - title: "LANL: New Method For Comparing Neural Networks Exposes How Artificial Intelligence Works"
-    excerpt: "Researchers at Los Alamos National Laboratory are looking at new ways to compare neural networks. This image was created with an artificial intelligence software called Stable Diffusion, using the"
-    publishedDateTime: 2022-09-13T23:06:00Z
-    webUrl: "https://losalamosreporter.com/2022/09/13/lanl-new-method-for-comparing-neural-networks-exposes-how-artificial-intelligence-works/"
-    type: article
-    provider:
-      name: losalamosreporter
-      domain: losalamosreporter.com
-    quality: 47
-    images:
-      - url: "https://losalamosreporter.files.wordpress.com/2022/09/82227e4a-4207-46bd-acb2-726c646033ea.jpg"
-        width: 896
-        height: 1024
-        isCached: true
 
 secured: "HPS8cwtjnz5ISoV9M6NLeGahhC0iF4PPfsYyO1j41EOk90iu0ejQtCGsarlojr0ktlC/QVGpRahFBbJWMctM6BvcGcyn1t6Owlt+sRoVo5v8aio41qJgVSL4JZFJxAg3NelmFawztysb0i25opZw3GKsxzYAbuJrvTJnMytZ2FcXmiX9jTKYUQZqqNnk9tj2H9ZtHgaxgzYHvzn4taGg3U9TVYtYIy1sbFT+0MaFmk4Mz2dtkhWJV1B2TbUrtL5ft4KvcA8r2kH7JUs+YglqzzLAcBXdCBpW8u9MYpLKUsg/cc1ObEw1CWosm6pshlWNyjyUoGl0nqNSecsLcBRlS3lxYNzSGd9LPf0J0/YlaRiwLjBNw0j2FD6feR7f4AyB78PyoeUp7G/KIsy1TlZN7MFCxH+F4hgIUILJF/f6X1wQWz8n39bhGyvC4lNj1aTAnyGOvQJCgiZmyOCbK+PdJarb47yzcNuzHAZ0HXDGyyFDpAC5dCD874KvrGkv+gnD/hGPkz8KsYwsaBjxzB+Bxg==;bwZ5ysJzjmnt/+qxl7TazQ=="
 ---
