@@ -113,107 +113,56 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/amperity.md",
-      "title": "Kaskada",
-      "excerpt": "Amperity, the leading Customer Data and Identity Platform, helps the world’s most loved brands take control of their customer data. Leveraging machine learning and cloud-scale, Amperity is revolutionizing customer identity resolution and data management, and provides the core customer data foundation for Alaska Airlines, Starbucks, Gap Inc, Moët Hennessy USA, Wynn Las Vegas, Nordstrom, Kendra Scott, Lucky Brand, Sounders, Stanley, and many more.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/amperity/index.json",
-      "webUrl": "https://everyday.cc/ai/company/amperity/",
+      "path": "_companies/aira.io.md",
+      "title": "Aira Tech Corp",
+      "excerpt": "AI stands for Artificial Intelligence; RA stands for Remote Assistance. When you put them together you get Aira.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/aira.io/index.json",
+      "webUrl": "https://everyday.cc/ai/company/aira.io/",
       "type": "profile",
-      "name": "Kaskada",
-      "overview": "Amperity, the leading Customer Data and Identity Platform, helps the world’s most loved brands take control of their customer data. Leveraging machine learning and cloud-scale, Amperity is revolutionizing customer identity resolution and data management, and provides the core customer data foundation for Alaska Airlines, Starbucks, Gap Inc, Moët Hennessy USA, Wynn Las Vegas, Nordstrom, Kendra Scott, Lucky Brand, Sounders, Stanley, and many more.",
-      "website": "https://amperity.com",
+      "name": "Aira Tech Corp",
+      "otherNames": [
+        "Aira"
+      ],
+      "overview": "AI stands for Artificial Intelligence; RA stands for Remote Assistance. When you put them together you get Aira.",
+      "website": "https://aira.io/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/amperity",
-        "followers": 2981
+        "url": "https://www.linkedin.com/company/airaio/",
+        "followers": 2543
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/amperity"
+        "url": "https://www.crunchbase.com/organization/aira"
       },
       "twitter": {
-        "username": "amperity",
-        "url": "https://twitter.com/amperity",
-        "followers": 945
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "Seattle, WA",
-        "Seattle, Washington"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 32,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1232794861432168449/0yO5mYI1_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Kaskada",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFFbzRWQxMeuQ/company-logo_200_200/0?e=1594857600&v=beta&t=jFeI3EKCzQObwBPn-0g1UHE0snS-325yHw4GEFUELcs",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/armorblox.md",
-      "title": "Deep 6 AI",
-      "excerpt": "Armorblox brings natural language understanding (NLU) to security to protect against identity-related attacks and data loss.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/armorblox/index.json",
-      "webUrl": "https://everyday.cc/ai/company/armorblox/",
-      "type": "profile",
-      "name": "Deep 6 AI",
-      "overview": "Armorblox brings natural language understanding (NLU) to security to protect against identity-related attacks and data loss.",
-      "website": "https://www.armorblox.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/deep-6-ai/",
-        "followers": 2942
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/armorblox"
-      },
-      "twitter": {
-        "username": "armorblox",
-        "url": "https://twitter.com/armorblox",
-        "followers": 415
+        "username": "airaio",
+        "url": "https://twitter.com/airaio",
+        "followers": 4601
       },
       "size": "11-50 employees",
-      "yearFounded": 2017,
+      "yearFounded": 2015,
       "locations": [
-        "Cupertino, CA",
-        "Pasadena, CA",
-        "Pasadena, California"
+        "La Jolla, CA",
+        "La Jolla, California"
       ],
       "funding": {
         "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
-        "Natural Language Processing",
+        "Computer Vision",
+        "AI in Healthcare",
         "Machine Learning"
       ],
       "heat": 32,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1542639048489058306/oHa1H67L_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/804415310488948736/A3hBrqgt_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Deep 6 AI",
+          "title": "Aira Tech Corp",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQF3RN1hr-mZRQ/company-logo_200_200/0?e=1594857600&v=beta&t=9Xzk4Ratq_4LcblVr-H41PPaQbm-C88v3QDMJjxxbiU",
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFJie4SeRm7AQ/company-logo_200_200/0?e=1594857600&v=beta&t=y73FJTU_72DV5AVlUkovIE3Fo4aThmx9RNtZRhxzxvE",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -223,34 +172,35 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/deep6.ai.md",
-      "title": "Deep 6 AI",
-      "excerpt": "Deep 6 AI disrupts the clinical trial enrollment process by transforming the way researchers identify eligible patients. Using artificial intelligence and natural language processing to mine structured and unstructured patient data, DEEP 6 AI finds more, better-matching patients for trials in minutes, not months.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/deep6.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/deep6.ai/",
+      "path": "_companies/alegion.md",
+      "title": "Alegion",
+      "excerpt": "Alegion has the most powerful and flexible annotation platform for training data in market. It accelerates model development for the most sophisticated and subjective use cases. It uses integrated ML and has unique capabilities like conditional logic, iterative tasks, multi-stage and workflows, that are essential for high quality at scale.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/alegion/index.json",
+      "webUrl": "https://everyday.cc/ai/company/alegion/",
       "type": "profile",
-      "name": "Deep 6 AI",
-      "overview": "Deep 6 AI disrupts the clinical trial enrollment process by transforming the way researchers identify eligible patients. Using artificial intelligence and natural language processing to mine structured and unstructured patient data, DEEP 6 AI finds more, better-matching patients for trials in minutes, not months.",
-      "website": "https://deep6.ai/",
+      "name": "Alegion",
+      "overview": "Alegion has the most powerful and flexible annotation platform for training data in market. It accelerates model development for the most sophisticated and subjective use cases. It uses integrated ML and has unique capabilities like conditional logic, iterative tasks, multi-stage and workflows, that are essential for high quality at scale.",
+      "website": "https://www.alegion.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/deep-6-ai/",
-        "followers": 2680
+        "url": "https://www.linkedin.com/company/alegion",
+        "followers": 1758
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/deep-6-ai"
+        "url": "https://www.crunchbase.com/organization/alegion"
       },
       "twitter": {
-        "username": "deep6ai",
-        "url": "https://twitter.com/deep6ai",
-        "followers": 1358
+        "username": "Alegion",
+        "url": "https://twitter.com/Alegion",
+        "followers": 1737
       },
-      "size": "11-50 employees",
-      "yearFounded": 2015,
+      "size": "51-200 employees",
+      "yearFounded": 2012,
       "locations": [
-        "Pasadena, CA"
+        "Austin, TX",
+        "Austin, Texas"
       ],
       "funding": {
-        "status": "Seed"
+        "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
@@ -259,24 +209,76 @@
       "heat": 32,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/816359823901982720/L0dyQMfw_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1420880634181005314/IO46zK8o_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Deep 6 AI",
+          "title": "Alegion",
           "isCached": true
         },
         {
-          "url": "https://media.licdn.com/dms/image/C4E0BAQF3RN1hr-mZRQ/company-logo_400_400/0?e=1582761600&v=beta&t=7SQXh5-24E09tHxEjlcGNBKHsBv6aKIbmHd6PjPllaU",
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEQpTGVwbtTVg/company-logo_200_200/0?e=1594857600&v=beta&t=HFlOkdia1A8rohJI2SYTs43IIgNfx3ANFlM8bjD-dSE",
           "width": 400,
           "height": 400,
           "title": "logo",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/zymergen.md",
+      "title": "Zymergen",
+      "excerpt": "Founded in 2013 and based in the San Francisco Bay Area, Zymergen integrates automation, machine learning, and genomics to rapidly accelerate the pace of scientific advancement. We treat the genome as a search space, leveraging machine learning to make discoveries far beyond the bounds of human intuition. In doing so, we deliver economic value, material diversity and performance capabilities not previously possible.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/zymergen/index.json",
+      "webUrl": "https://everyday.cc/ai/company/zymergen/",
+      "type": "profile",
+      "name": "Zymergen",
+      "overview": "Founded in 2013 and based in the San Francisco Bay Area, Zymergen integrates automation, machine learning, and genomics to rapidly accelerate the pace of scientific advancement. We treat the genome as a search space, leveraging machine learning to make discoveries far beyond the bounds of human intuition. In doing so, we deliver economic value, material diversity and performance capabilities not previously possible.",
+      "website": "https://www.zymergen.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/zymergen-inc-/",
+        "followers": 10307
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/zymergen"
+      },
+      "twitter": {
+        "username": "zymergen",
+        "url": "https://twitter.com/zymergen",
+        "followers": 9164
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2013,
+      "locations": [
+        "Emeryville, CA"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=658kvYgrJBE"
+        }
+      ],
+      "heat": 20,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1544365097446957056/1RQ-ypvq_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Zymergen",
+          "isCached": true
         },
         {
-          "url": "https://media.licdn.com/dms/image/C561BAQH5o_0GEDJTSA/company-background_10000/0?e=1574802000&v=beta&t=JWy2P1mLeF_41Z92MkYArHMXeYacHm0rFTeIATJVU-Q",
-          "width": 1400,
-          "height": 425,
-          "title": "banner",
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFVJWz7dfMRiw/company-logo_200_200/0?e=1594857600&v=beta&t=rhBDRCG7z5wL4oYEWBCdYg_mi_C6R5CsTQCu49nbr6k",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
           "isCached": false
         }
       ],
@@ -321,7 +323,7 @@
           "url": "https://www.youtube.com/watch?v=VnqoE8kOHkI"
         }
       ],
-      "heat": 20,
+      "heat": 0,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1146817867553366016/ZcHRRj3D_400x400.png",
