@@ -16,7 +16,7 @@
       "twitter": {
         "username": "elonmusk",
         "url": "https://twitter.com/elonmusk",
-        "followers": 105976650
+        "followers": 105980383
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Elon_Musk"
@@ -25,7 +25,7 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 778,
+      "heat": 742,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1569943778198437888/iy7_UX5j_400x400.jpg",
@@ -51,7 +51,7 @@
       "twitter": {
         "username": "LexFridman",
         "url": "https://twitter.com/LexFridman",
-        "followers": 1732195
+        "followers": 1732296
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=wZH_N7cAAAAJ",
@@ -75,7 +75,7 @@
         "Machine Learning",
         "AI in Autos"
       ],
-      "heat": 492,
+      "heat": 434,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/956331551435960322/OaqR8pAB_400x400.jpg",
@@ -101,7 +101,7 @@
       "twitter": {
         "username": "alexandr_wang",
         "url": "https://twitter.com/alexandr_wang",
-        "followers": 25953
+        "followers": 25952
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/alexandrwang/"
@@ -117,7 +117,7 @@
         "Computer Vision",
         "AI in Autos"
       ],
-      "heat": 172,
+      "heat": 161,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1566952601224036352/gm16vYhz_400x400.jpg",
@@ -164,6 +164,47 @@
       "content": "\r\n"
     },
     {
+      "path": "_people/karl-iagnemma.md",
+      "title": "Karl Iagnemma",
+      "excerpt": "Karl Iagnemma is an American writer and research scientist. He is also the CEO of self-driving technology company NuTonomy.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/karl-iagnemma/index.json",
+      "webUrl": "https://everyday.cc/ai/people/karl-iagnemma/",
+      "type": "profile",
+      "name": "Karl Iagnemma",
+      "bio": "Karl Iagnemma is an American writer and research scientist. He is also the CEO of self-driving technology company NuTonomy.",
+      "website": "http://www.karliagnemma.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/karl-iagnemma-b52186102/"
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=3VyGrdwAAAAJ",
+        "citations": 18675
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Karl_Iagnemma"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "MIT",
+        "domain": "mit.edu"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://twitter.com/Karl_Iagnemma/profile_image?size=original",
+          "width": 400,
+          "height": 400,
+          "title": "Karl Iagnemma",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/jean-liu.md",
       "title": "Jean Liu",
       "excerpt": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
@@ -189,7 +230,7 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 50,
+      "heat": 42,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
@@ -227,7 +268,7 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 50,
+      "heat": 32,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1536876629091295238/bJYw0phe_400x400.jpg",
@@ -235,47 +276,6 @@
           "height": 400,
           "title": "John Krafcik",
           "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/karl-iagnemma.md",
-      "title": "Karl Iagnemma",
-      "excerpt": "Karl Iagnemma is an American writer and research scientist. He is also the CEO of self-driving technology company NuTonomy.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/karl-iagnemma/index.json",
-      "webUrl": "https://everyday.cc/ai/people/karl-iagnemma/",
-      "type": "profile",
-      "name": "Karl Iagnemma",
-      "bio": "Karl Iagnemma is an American writer and research scientist. He is also the CEO of self-driving technology company NuTonomy.",
-      "website": "http://www.karliagnemma.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/karl-iagnemma-b52186102/"
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=3VyGrdwAAAAJ",
-        "citations": 18675
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Karl_Iagnemma"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "MIT",
-        "domain": "mit.edu"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://twitter.com/Karl_Iagnemma/profile_image?size=original",
-          "width": 400,
-          "height": 400,
-          "title": "Karl Iagnemma",
-          "isCached": false
         }
       ],
       "content": "\r\n"
