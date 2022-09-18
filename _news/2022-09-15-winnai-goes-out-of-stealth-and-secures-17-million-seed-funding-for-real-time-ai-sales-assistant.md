@@ -87,6 +87,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Generative AI startup Rephrase.ai raises $10.6 million in funding led by Red Ventures"
+    excerpt: "Rephrase.ai will use the funds to enhance its capabilities by integrating product experiences; scaling hiring across the business, including within the engineering, AI, product, sales, and marketing teams;"
+    publishedDateTime: 2022-09-16T08:27:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/funding/generative-ai-startup-rephrase-ai-raises-10-6-million-in-funding-led-by-red-ventures/articleshow/94242679.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/funding/generative-ai-startup-rephrase-ai-raises-10-6-million-in-funding-led-by-red-ventures/amp_articleshow/94242679.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/generative-ai-startup-rephrase-ai-raises-10-6-million-in-funding-led-by-red-ventures/amp_articleshow/94242679.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 50
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-284920,msid-94243001/generative-ai-startup-rephrase-ai-raises-10-6-million-in-funding-led-by-red-ventures.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "AI startup Sigmoid raises $12 million from Sequoia Capital"
     excerpt: "AI solutions provider Sigmoid has raised $12 million funding from Sequoia Capital India today. With the current round being a mix of primary and secondary funding, Sequoia has invested $19.3 million in Sigmoid till date."
     publishedDateTime: 2022-09-15T13:48:00Z

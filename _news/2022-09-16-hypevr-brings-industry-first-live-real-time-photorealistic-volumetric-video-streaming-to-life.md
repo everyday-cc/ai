@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-16T15:53:00Z
 originalUrl: "https://www.forbes.com/sites/moorinsights/2022/09/16/hypevr-brings-industry-first-live-real-time-photorealistic-volumetric-video-streaming-to-life/"
 webUrl: "https://www.forbes.com/sites/moorinsights/2022/09/16/hypevr-brings-industry-first-live-real-time-photorealistic-volumetric-video-streaming-to-life/"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: Forbes

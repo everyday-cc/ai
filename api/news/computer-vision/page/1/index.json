@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/09/17/the-creepy-problem-killing-ai-projects/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -107,7 +107,7 @@
       "originalUrl": "https://techcrunch.com/2022/09/14/perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -149,7 +149,8 @@
         "AI",
         "AI in Robotics",
         "Computer Vision",
-        "Google AI"
+        "Google AI",
+        "AI Hardware"
       ]
     },
     {
@@ -161,7 +162,7 @@
       "originalUrl": "https://venturebeat.com/ai/10-years-on-ai-pioneers-hinton-lecun-li-say-deep-learning-revolution-will-continue/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -205,7 +206,8 @@
         "Machine Learning",
         "Natural Language Processing",
         "AI Ethics",
-        "Computer Vision"
+        "Computer Vision",
+        "AI Hardware"
       ]
     },
     {

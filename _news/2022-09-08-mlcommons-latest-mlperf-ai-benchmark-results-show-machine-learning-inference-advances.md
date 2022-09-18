@@ -16,6 +16,12 @@ topics:
   - AI
   - Machine Learning
 
-secured: "ssByVDvOd71fLXzWGcBXpicPF4j3cYFn7/V97SRIOOhDgc0LdTDoMl2RGZB3fHSFTI3yLdcYzvqCEIlXP8Dp3C7QbBghB5Qf9U2s7GuDmicdIVt31krGZMovnnCSJyu9+CbHDy58GeYFtIrUq5c1jXaZtxzMgW1UCAfrMfQ6tGvxiQwxhTAJHxSUQ1P+6qw2TG2LT+5ggj7E5EuFd8Dca7DSGSKVgPCZR5x2x+gcMwAYil/r7igcBQAs7XTrIoRG+RqjyYhq/enexcpZ2OdjvFAI9dUzccIWqUaxtIyaAdI0N/WTMqqGYsxNMUJ3ZiEpU1n0XaQ1kiBdzsLByPI5KjSYb8s5FNLqvknxuaaJ/hs=;YZtaoRz6JE82a/t3lQbMRA=="
+images:
+  - url: "https://insidehpc.com/wp-content/uploads/2021/04/MLCommons-logo.jpg"
+    width: 500
+    height: 261
+    isCached: true
+
+secured: "tt+/22bTH+GBZN+SwW4ngI8PZqa4OBb32sTnYfRhP7XfwN0GSnslVpZy0Vbq34NOYAkkCydqeQq7qvy0izM/5GSXKSJR1RS/wFtqT+7gQ2VZj9iwuIRJhJucqAgkPFIoZTIc9X0SfMUCT5tAbhMoYO9ueVtb9Oe8EQl6o52kya2Tq3vK5voePYUhJsmMjaL4Vny34BFsumCBCiE6k4Pg6wvciEc9A0ZDKJr7IE8inYQs1vil8R4qGxmhtB/Hoe5Af6Q6Pce2m8nkiCm6W9Mn2IEXXGk2ZECxaRRSHeO4eiTfhg1wacGBJDEjZShAJtyY5IIdroY69AF0th27pQZib4bhe4nSAgBDtP4f54RKIew=;HljY0LoJpyVTsM+3cfOB+w=="
 ---
 

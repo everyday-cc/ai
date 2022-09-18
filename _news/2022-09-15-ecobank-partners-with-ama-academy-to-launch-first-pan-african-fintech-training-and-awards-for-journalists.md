@@ -60,15 +60,6 @@ related:
       name: The Buffalo News
       domain: buffalonews.com
     quality: 19
-  - title: "Khaleej Times Digibank Forum To Showcase Transformational Ideas In Banking, Fintech Industries"
-    excerpt: "Khaleej Times is set to host the third edition of DigiBank 2022 – The Banking Transformation Forum. Supported by the UAE Banks Federation, the ev"
-    publishedDateTime: 2022-09-13T19:58:00Z
-    webUrl: "https://menafn.com/1104858994/Khaleej-Times-Digibank-Forum-To-Showcase-Transformational-Ideas-In-Banking-Fintech-Industries"
-    type: article
-    provider:
-      name: MENAFN
-      domain: menafn.com
-    quality: 7
 
 secured: "uMH4eRjrVVNYAMiYhUntkGpE9u2q8X4T8F96PvIl8j00maULB9E61ZRB15TjemmYrVuo6vmcaDJ+QC2cVdiBNQ9a3miTYJP/l57yLtclqb8c04KoNGvLfh4fJEVhOmXzuXCfG2bPwMvK7gov6HGAuIOqS+15WLGe1cRjbWJMKracwGtFXszRomFFq6LV2TNzX7T5K22dX+8MsSvK+QMsvDKq9tk8B7lFdPGX9tGpLmZPasQD+yrPrwFbaHEkNk213yjIJ2l94YgefNhZqpDaWedBTYUd8dR87he1fhwo1jM+YhqUsT29t3PPrQyMLDULlUQaDKe2Tj9wZy4MCLoUV1gvD0Sh1MRYl5YChXPn/qLKsDMJ7L0HNYvcY2AzswXEusYTt5GfBxmZ2XSzyW2cyOjisEYNQ4UKmFPQNQnZxqY4Cz9OwVmsJP7FyoZ38COOdY8ZBrQtDCtDfnlGD6myDmGsPebSveLcVWpNwNOWdLQ3Dg+QB7PupBzpKdzt660BVXJLCtv1wSNY7b+xWuVDVA==;nA+GNmg4jEL5wbwuoaEXlA=="
 ---

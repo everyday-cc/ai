@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-18T05:34:00Z
 originalUrl: "https://www.marketwatch.com/press-release/floating-shoe-display-and-its-optical-flow-with-computer-vision-2022-09-18"
 webUrl: "https://www.marketwatch.com/press-release/floating-shoe-display-and-its-optical-flow-with-computer-vision-2022-09-18"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: MarketWatch

@@ -26,47 +26,119 @@ images:
     isCached: true
 
 related:
-  - title: "A terrifying AI-generated woman is lurking in the abyss of latent space"
-    excerpt: "There’s a ghost in the machine. Machine learning, that is. We are all regularly amazed by AI’s capabilities in writing and creation, but who knew it had such a capacity for instilling horror? A chilling discovery by an AI researcher finds that the “latent space” comprising a deep learning model’s memory is haunted by least"
-    publishedDateTime: 2022-09-13T21:25:00Z
-    webUrl: "https://techcrunch.com/2022/09/13/loab-ai-generated-horror/"
-    ampWebUrl: "https://techcrunch.com/2022/09/13/loab-ai-generated-horror/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/13/loab-ai-generated-horror/amp/"
+  - title: "Rephrase.ai Raises $10.6 Million In Series A Funding"
+    excerpt: "This fund raised will allow the company to enhance its capabilities by integrating product experiences, scaling hiring across the business, including within the engineering, AI, product, sales, and marketing teams,"
+    publishedDateTime: 2022-09-16T07:38:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/rephraseai-raises-106-million-in-series-a-funding/435460"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 91
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/09/loab-header.jpg?resize=1200,625"
-        width: 1200
-        height: 625
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1663313917-Untitleddesign89.jpg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "This artist is dominating AI-generated art. And he’s not happy about it."
-    excerpt: "Those cool AI-generated images you’ve seen across the internet? There’s a good chance they are based on the works of. Rutkowski is a Polish digital artist who uses classical painting styles to create dreamy fantasy landscapes."
-    publishedDateTime: 2022-09-16T15:09:00Z
-    webUrl: "https://www.technologyreview.com/2022/09/16/1059598/this-artist-is-dominating-ai-generated-art-and-hes-not-happy-about-it/"
-    ampWebUrl: "https://www.technologyreview.com/2022/09/16/1059598/this-artist-is-dominating-ai-generated-art-and-hes-not-happy-about-it/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/09/16/1059598/this-artist-is-dominating-ai-generated-art-and-hes-not-happy-about-it/amp/"
+  - title: "Winn.AI Goes Out Of Stealth and secures $17 Million Seed Funding for Real-Time AI Sales Assistant"
+    excerpt: "The real-time AI assistant is touted to help sales teams save time on busywork and win more deals.  August 27, 2022 –  Israeli sales tech start-up, Winn.AI, announced that it has raised $17 million in seed funding from global software investor Insight Partners and Israeli venture capital firm S-Capital."
+    publishedDateTime: 2022-09-16T01:38:00Z
+    webUrl: "https://techbullion.com/winn-ai-goes-out-of-stealth-and-secures-17-million-seed-funding-for-real-time-ai-sales-assistant/"
+    ampWebUrl: "https://techbullion.com/winn-ai-goes-out-of-stealth-and-secures-17-million-seed-funding-for-real-time-ai-sales-assistant/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/winn-ai-goes-out-of-stealth-and-secures-17-million-seed-funding-for-real-time-ai-sales-assistant/amp/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 58
+      name: Impacts
+      domain: techbullion.com
+    quality: 61
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/09/seed_971244_00004-edited.jpg"
-        width: 768
-        height: 432
+      - url: "https://techbullion.com/wp-content/uploads/2022/09/Winn.jpg"
+        width: 700
+        height: 400
         isCached: true
-  - title: "Scientists harness Artificial Intelligence to advance ability to measure Arctic sea ice and improve climate forecasting"
-    excerpt: "Pioneering research deploying Artificial Intelligence (AI) and satellite modelling means the thickness of Arctic sea ice can be measured all year round for the first time, bringing significant benefits for future weather forecasts and shipping in the region."
-    publishedDateTime: 2022-09-14T16:58:00Z
-    webUrl: "https://www.bristol.ac.uk/news/2022/september/arctic-sea-ice.html"
+  - title: "AI startup Rephrase.ai raises $10.6 mn in Series A funding round"
+    excerpt: "Artificial Intelligence startup Rephrase.ai, backed by Lightspeed Ventures, has raised $10.6 million in its Series A funding round. The round was led by Red Ventures and saw participation from Silver Lake and 8VC Ventures,"
+    publishedDateTime: 2022-09-15T17:23:00Z
+    webUrl: "https://inshorts.com/en/news/ai-startup-rephraseai-raises-$106-mn-in-series-a-funding-round-1663262581246"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/ai-startup-rephraseai-raises-$106-mn-in-series-a-funding-round-1663262581246"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ai-startup-rephraseai-raises-$106-mn-in-series-a-funding-round-1663262581246"
     type: article
     provider:
-      name: University of Bristol
-      domain: bristol.ac.uk
-    quality: 0
+      name: Inshorts
+      domain: inshorts.com
+    quality: 57
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/09_sep/15_thu/img_1663260823085_979.jpg?"
+        width: 1080
+        height: 724
+        isCached: true
+  - title: "AI solutions startup Sigmoid raises $12 million in funding from Sequoia Capital India"
+    excerpt: "Sigmoid will use the capital to evolve its market offerings, expand delivery centers and cater to new industries."
+    publishedDateTime: 2022-09-15T06:23:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/funding/ai-solutions-startup-sigmoid-raises-12-million-in-funding-from-sequoia-capital-india/articleshow/94216111.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/funding/ai-solutions-startup-sigmoid-raises-12-million-in-funding-from-sequoia-capital-india/amp_articleshow/94216111.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/ai-solutions-startup-sigmoid-raises-12-million-in-funding-from-sequoia-capital-india/amp_articleshow/94216111.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 50
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-718914,msid-94216119/ai-solutions-startup-sigmoid-raises-12-million-in-funding-from-sequoia-capital-india.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Winn.AI Goes Out Of Stealth and secures $17 Million Seed Funding for Real-Time AI Sales Assistant"
+    excerpt: "The Winn.AI real-time assistant acts as an extra pair of hands during meetings, giving salespeople the freedom to focus their attention entirely on the customer. Conventionally, salespeople are responsible for juggling a multitude of tasks during sales calls: following a precise playbook,"
+    publishedDateTime: 2022-09-15T15:11:00Z
+    webUrl: "https://www.marketingdive.com/press-release/20220915-winnai-goes-out-of-stealth-and-secures-17-million-seed-funding-for-real-t/"
+    type: article
+    provider:
+      name: Marketing Dive
+      domain: marketingdive.com
+    quality: 41
+    images:
+      - url: "http://res.cloudinary.com/dmgi9movl/image/upload/v1663254202/press_release/assets/header_images/Untitled_1500_700_px_2_l1zeun.png"
+        width: 1500
+        height: 700
+        isCached: true
+  - title: "AI startup Sigmoid raises $12 million from Sequoia Capital"
+    excerpt: "AI solutions provider Sigmoid has raised $12 million funding from Sequoia Capital India today. With the current round being a mix of primary and secondary funding, Sequoia has invested $19.3 million in Sigmoid till date."
+    publishedDateTime: 2022-09-15T13:48:00Z
+    webUrl: "https://analyticsindiamag.com/ai-startup-sigmoid-raises-12-million-from-sequoia-capital/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/09/HCL-Banner-3-1-1300x650.png"
+        width: 1300
+        height: 650
+        isCached: true
+  - title: "Video AI Startup Rephrase.ai Raises $10.6 mn in Series A Round by Red Ventures"
+    excerpt: "According to a statement, the funding round was led by Red Ventures; witnessed participation from investors like 8VC among several others, including Silver Lake, one of the leading technology investors with stakes in Red Ventures."
+    publishedDateTime: 2022-09-16T07:14:00Z
+    webUrl: "https://analyticsindiamag.com/video-ai-startup-rephrase-ai-raises-10-6-mn-in-series-a-round-by-red-ventures/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 33
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/09/rephrase.png"
+        width: 1600
+        height: 800
+        isCached: true
+  - title: "Rephrase.ai Raises $10.6M in Series A Funding"
+    excerpt: "Rephrase.ai, a San Francisco, CA-based generative AI startup that aims to humanize communication through synthetic media, raised $10.6m in Series A financing"
+    publishedDateTime: 2022-09-16T07:03:00Z
+    webUrl: "https://www.finsmes.com/2022/09/rephrase-ai-raises-10-6m-in-series-a-funding.html"
+    type: article
+    provider:
+      name: finsmes
+      domain: finsmes.com
+    quality: 17
 
 secured: "Yo9WdopKlUmWSFNhI9933mmo8HSujn3/DS1gXdp6lXg8EsrEwlciYImomnZCotM+SuVm5UdRrRp40kexUeXjv3+tSakDF1DSRamTECHeGqoGW/QSUxdhI8Todraq9/c9b3SnBa+t/mUJhSsvsfEKEs36/bSpWpvau026cIcpuwjQbXfYME/Zu8Tu1Ttc88AAFCsDfh123H6mDO85KuzwNx4+hNBxlNKEmZVrocvonhK2s378dbeou4uwAZ0cEQgxGXPt+l/4fjnySJsYWAwlkb2t95h672D15sxccN0P6TB7XEUW5IQS0YnOQUyfm/kIdrqOLQ3Sg4kVEPWk2CnUmrAZv8LYsWCHHyn2/w0HTGCmBkTZPIkLfl2KWNHiJChKWH81BRtM3SrPVlvRU+29vWY4GrmY/w2hGbHltr/A+oaSwyRbvGcXBKMWX+YAR+fDUlfN2dXwkJFMZK5x1FMmclBNxVLuxX3V0VYDrc4vuf/DCsXKbAwbyNcO60I3fs3g3Ob3njHqFPuOeuhfLnEgVA==;C3I6xXehcOCdCOg4cxdzkg=="
 ---

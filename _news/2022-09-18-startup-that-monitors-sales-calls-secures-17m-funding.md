@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-18T09:29:00Z
 originalUrl: "https://nocamels.com/2022/09/startup-monitors-sales-17m-funding/"
 webUrl: "https://nocamels.com/2022/09/startup-monitors-sales-17m-funding/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: NoCamels - Israeli Innovation News

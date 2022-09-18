@@ -27,22 +27,6 @@ images:
 
 related:
   - title: "New method for comparing neural networks exposes how artificial intelligence works"
-    excerpt: "A team at Los Alamos National Laboratory has developed a novel approach for comparing neural networks that looks within the \"black box\" of artificial intelligence to help researchers understand neural network behavior."
-    publishedDateTime: 2022-09-13T20:02:00Z
-    webUrl: "https://techxplore.com/news/2022-09-method-neural-networks-exposes-artificial.html"
-    ampWebUrl: "https://techxplore.com/news/2022-09-method-neural-networks-exposes-artificial.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-method-neural-networks-exposes-artificial.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 70
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/new-method-for-compari.jpg"
-        width: 896
-        height: 1024
-        isCached: true
-  - title: "New method for comparing neural networks exposes how artificial intelligence works"
     excerpt: "A team has developed a novel approach for comparing neural networks that looks within the 'black box' of artificial intelligence to help researchers understand neural network behavior. Neural networks recognize patterns in datasets;"
     publishedDateTime: 2022-09-14T20:18:00Z
     webUrl: "https://www.sciencedaily.com/releases/2022/09/220914102256.htm"

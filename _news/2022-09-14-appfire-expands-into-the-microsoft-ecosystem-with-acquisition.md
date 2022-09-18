@@ -53,6 +53,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 49
+  - title: "Microsoft Office 2021 Skills Testing Now Available on ISV.Online"
+    excerpt: "ISV.Online, the leading supplier of skills testing software and training services to recruiters and employers, is pleased to announce the addition of the Microsoft Office 2021 skills tests to its comprehensive list of tests covering everything from literacy,"
+    publishedDateTime: 2022-09-14T08:58:00Z
+    webUrl: "https://www.onrec.com/news/launch/microsoft-office-2021-skills-testing-now-available-isvonline"
+    type: article
+    provider:
+      name: Online Recruitment
+      domain: onrec.com
+    quality: 34
 
 secured: "NdZC7KDExTnvz2bgc6fSveS5YEg7xL0ruNWyNVEIsTjORXk5G6SOtbhgaxgFiKStRMIAxtTU5F7QXyIjBcQ55tEX6wkehit4cW5nqZ8g1Ss68lf75XjycndcbEuHkxVfu1prWP4bRGFmnq32uY4vXp2GpcwtktyHbIeNMOFFPTYDMjWbEjPTy8anmBsV7jqiDoGenz0v2a3ePkoQS6LEQI08SLdxZCnJ2azuSvAMKQ7YpxdtBR4dZuJsKsdkMFcMrV+m2tl+AaHpibqj9dYjDRPgOrITrc2Q2vhM8I0eVyMEYkki8ff03EiKUTtpopEfUdHCJuhCOv+zkcFyaHqJXRvxY7zTJvaxtPGn3pYNvGY=;DN+rMjM7+i6bwzHSjkJ05g=="
 ---

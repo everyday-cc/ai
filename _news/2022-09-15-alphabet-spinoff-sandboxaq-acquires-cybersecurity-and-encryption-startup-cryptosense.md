@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is Being Developed at OPM for Cybersecurity Threats"
-    excerpt: "AI in Government event with featured guest speaker Melvin Brown II, Deputy Chief Information Officer in the U.S. Office of Personnel Management and his presentation ‘How… Read More"
-    publishedDateTime: 2022-09-13T22:31:00Z
-    webUrl: "https://www.geekwire.com/calendar-event/how-ai-is-being-developed-at-opm-for-cybersecurity-threats/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 67
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2022/09/October-2022-AI-in-Gov-Promo-Graphic.png"
-        width: 1198
-        height: 674
-        isCached: true
   - title: "Why Artificial Intelligence is Must for Cybersecurity"
     excerpt: "How can artificial intelligence protect us from devastating cyber attacks? Some cybersecurity companies are already taking advantage of AI for good. Cybersecurity is the practice of protecting electronic information by mitigating information risks and vulnerabilities."
     publishedDateTime: 2022-09-14T23:29:00Z
@@ -66,6 +52,15 @@ related:
         width: 1420
         height: 770
         isCached: true
+  - title: "Global Industrial Cybersecurity Market Expanding To Reach USD 20.5 Billion by 2030, With a Sustainable CAGR of 4.4% | Growth Market Reports"
+    excerpt: "According to a recent market study published by Growth Market Reports, titled, \"Global Industrial Cybersecurity Market\"by Security Types (Wireless Security, Cloud Security, Application Security, Endpoint Security,"
+    publishedDateTime: 2022-09-14T13:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-industrial-cybersecurity-market-expanding-to-reach-usd-205-billion-by-2030-with-a-sustainable-cagr-of-44-growth-market-reports-2022-09-14-92031610"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 15
 
 secured: "nVnCOUuhGN7TRlAJjE8rfhvDcZkCxTMFLO2F7OAM5j1RiEJGiy6ti6V2qlii6P8BmU15wDai6asEUjRVTxtGUHmLwP8ObpNeaMIZD+OZNO2R4l5wi0KvAEuMpeIpBWu6AjT378GeHrxRE8+knWLtlivdiaOxEPPkk1ZEtCwgvOm0ddCL90ABn4Cc2olAwc5ZMA0IvavRpohjfdsPJWowsZp0vJeln+W+MXc/KXQz2b/8NbB33KhbGLyFJ0vXv2GZt4KwYrIolpbfTp2ZAxihdpSdALN3knrjuHuGzWY199U6HLPdwKsT+KckijCZ/XVozzJs67oX58G+psDtK1Y1XfHh8tLCCEcg7iLuYCajroj95oQpYfAEmGmurtn7Q7OgKpxv5jL9Hpkz6dLd6X/oS+l6yaRHnXJ28Ohn6G7aRFyHiDTGW+8ZbHBabvqpG49WRXklCQWdGeGP7etY0qUUaY+SkhxC15lAKKEk9uwHhlU+rRmEG5PA5ILGv8Dj2FElZszTFemLb7/Sb7LiDGUL4Q==;XLeL4EHRPUSiFqfFiCDNDg=="
 ---

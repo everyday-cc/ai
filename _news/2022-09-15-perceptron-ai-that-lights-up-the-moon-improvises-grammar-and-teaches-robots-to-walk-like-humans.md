@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2022/09/14/perceptron-ai-that-lights-up-the-moon
 ampWebUrl: "https://techcrunch.com/2022/09/14/perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/14/perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans/amp/"
 type: article
-quality: 95
-heat: 95
+quality: 97
+heat: 97
 published: true
 
 provider:

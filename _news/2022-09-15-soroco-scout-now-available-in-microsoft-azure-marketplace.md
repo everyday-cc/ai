@@ -44,6 +44,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 49
+  - title: "Microsoft Office 2021 Skills Testing Now Available on ISV.Online"
+    excerpt: "ISV.Online, the leading supplier of skills testing software and training services to recruiters and employers, is pleased to announce the addition of the Microsoft Office 2021 skills tests to its comprehensive list of tests covering everything from literacy,"
+    publishedDateTime: 2022-09-14T08:58:00Z
+    webUrl: "https://www.onrec.com/news/launch/microsoft-office-2021-skills-testing-now-available-isvonline"
+    type: article
+    provider:
+      name: Online Recruitment
+      domain: onrec.com
+    quality: 34
   - title: "Appfire Expands into the Microsoft Ecosystem with Acquisition"
     excerpt: "\"This acquisition represents a continued investment in our customers and an opportunity to disrupt the legacy time management market,\" comments 7pace Founder and CEO Marc Schaeffler. \"We have searched for a partner that aligns with our values,"
     publishedDateTime: 2022-09-14T15:21:00Z

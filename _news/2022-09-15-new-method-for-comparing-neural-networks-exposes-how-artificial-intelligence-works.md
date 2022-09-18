@@ -7,8 +7,8 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/09/220914102256.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/09/220914102256.htm"
 type: article
 quality: 60
-heat: -1
-published: false
+heat: 80
+published: true
 
 provider:
   name: Science Daily
@@ -24,22 +24,6 @@ topics:
   - AI in Autos
 
 related:
-  - title: "New method for comparing neural networks exposes how artificial intelligence works"
-    excerpt: "A team at Los Alamos National Laboratory has developed a novel approach for comparing neural networks that looks within the \"black box\" of artificial intelligence to help researchers understand neural network behavior."
-    publishedDateTime: 2022-09-13T20:02:00Z
-    webUrl: "https://techxplore.com/news/2022-09-method-neural-networks-exposes-artificial.html"
-    ampWebUrl: "https://techxplore.com/news/2022-09-method-neural-networks-exposes-artificial.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-method-neural-networks-exposes-artificial.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 70
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/new-method-for-compari.jpg"
-        width: 896
-        height: 1024
-        isCached: true
   - title: "LANL: New Method For Comparing Neural Networks Exposes How Artificial Intelligence Works"
     excerpt: "Researchers at Los Alamos National Laboratory are looking at new ways to compare neural networks. This image was created with an artificial intelligence software called Stable Diffusion, using the"
     publishedDateTime: 2022-09-13T23:06:00Z

@@ -41,22 +41,6 @@ related:
         width: 1300
         height: 733
         isCached: true
-  - title: "How WhiteLab Genomics is using AI to aid gene and cell therapy development"
-    excerpt: "WhiteLab Genomics provides gene and cell therapy companies with predictive software simulations to expedite the design of gene and cell therapies."
-    publishedDateTime: 2022-09-13T20:56:00Z
-    webUrl: "https://techcrunch.com/2022/09/12/how-whitelab-genomics-is-using-ai-to-aid-gene-and-cell-therapy-development/"
-    ampWebUrl: "https://techcrunch.com/2022/09/12/how-whitelab-genomics-is-using-ai-to-aid-gene-and-cell-therapy-development/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/12/how-whitelab-genomics-is-using-ai-to-aid-gene-and-cell-therapy-development/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 102
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1311467129-e1663013508266.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Using artificial intelligence to improve tuberculosis treatments"
     excerpt: "Researchers used data from large studies that contained laboratory measurements of two-drug combinations of 12 anti-tuberculosis drugs. Using mathematical models, the team discovered a set of rules that drug pairs need to satisfy to be potentially good treatments as part of three- and four-drug cocktails."
     publishedDateTime: 2022-09-14T22:32:00Z

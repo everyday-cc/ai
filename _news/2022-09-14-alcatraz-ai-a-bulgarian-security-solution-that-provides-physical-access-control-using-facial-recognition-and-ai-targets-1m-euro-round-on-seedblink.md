@@ -25,17 +25,6 @@ images:
     height: 594
     isCached: true
 
-related:
-  - title: "SIlicon Valley startup Alcatraz AI raised $25M for its door security service that works like Apple's Face ID"
-    excerpt: "Alcatraz AI has developed a system for verifying who can enter particular places that works much like the facial recognition system offered by @Apple on the #iPhone. #security #facialrecognition #Earl"
-    publishedDateTime: 2022-09-13T21:52:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2022/09/13/silicon-valley-startup-raises-25m-for-face-system.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
-
 secured: "+Ny78V1xtklBFYiLPbmtA0eEkvP2yndXkBXSRoLX2FwM8qXeVTSB8DbeUXrrmd7FpWQkYqnbrwCFBbpTX5rWWnYFbPrGGoTyrk0WKudDz7XASr+5HUhqpc2k7qLdilnS5VWOgrbf9ZbK9brx+noorfSy0ujSd1AKKkeYlzB8y//JQ3o49LXAb6L/rElT3vRf3LID0SIY1JR/Ctqc8Ag73DRl7Ie0PSiL9DwL2hObIntTY2mQBDRRWFB/gUi04xUqssCyNLhVEBhKch1MDxMz1lOi4OjmPn0Xkp71UItb2SbwdsOCoM3whVxIYMyDVgFkryWF7uNPCKUax8bU3RfDFjQzcu4MYYlqPLHTuVzpV+1EjYyflwZ7gVaW95SvtNohn3yqF27IFc1CAiqdC4O05X2iN/SVLFlq8GKp9vsy9mSD4jiuoZXr8Rx4DDSQ1KIzm1gnebPnqklBcKnGDqW5Sae9OOOw1eDMxeZa3RViRgCMN0xA3XKOsJmh9So7AdU/15XFMbaMdLJDQ7H2Ck9zow==;Z+gBtKkFDcdZFgOiSdbJAQ=="
 ---
 

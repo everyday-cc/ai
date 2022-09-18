@@ -72,6 +72,22 @@ related:
         width: 1080
         height: 724
         isCached: true
+  - title: "Generative AI startup Rephrase.ai raises $10.6 million in funding led by Red Ventures"
+    excerpt: "Rephrase.ai will use the funds to enhance its capabilities by integrating product experiences; scaling hiring across the business, including within the engineering, AI, product, sales, and marketing teams;"
+    publishedDateTime: 2022-09-16T08:27:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/funding/generative-ai-startup-rephrase-ai-raises-10-6-million-in-funding-led-by-red-ventures/articleshow/94242679.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/funding/generative-ai-startup-rephrase-ai-raises-10-6-million-in-funding-led-by-red-ventures/amp_articleshow/94242679.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/generative-ai-startup-rephrase-ai-raises-10-6-million-in-funding-led-by-red-ventures/amp_articleshow/94242679.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 50
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-284920,msid-94243001/generative-ai-startup-rephrase-ai-raises-10-6-million-in-funding-led-by-red-ventures.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Winn.AI Goes Out Of Stealth and secures $17 Million Seed Funding for Real-Time AI Sales Assistant"
     excerpt: "The Winn.AI real-time assistant acts as an extra pair of hands during meetings, giving salespeople the freedom to focus their attention entirely on the customer. Conventionally, salespeople are responsible for juggling a multitude of tasks during sales calls: following a precise playbook,"
     publishedDateTime: 2022-09-15T15:11:00Z

@@ -60,15 +60,6 @@ related:
       name: The Maravi Post
       domain: maravipost.com
     quality: 17
-  - title: "Khaleej Times Digibank Forum To Showcase Transformational Ideas In Banking, Fintech Industries"
-    excerpt: "Khaleej Times is set to host the third edition of DigiBank 2022 – The Banking Transformation Forum. Supported by the UAE Banks Federation, the ev"
-    publishedDateTime: 2022-09-13T19:58:00Z
-    webUrl: "https://menafn.com/1104858994/Khaleej-Times-Digibank-Forum-To-Showcase-Transformational-Ideas-In-Banking-Fintech-Industries"
-    type: article
-    provider:
-      name: MENAFN
-      domain: menafn.com
-    quality: 7
 
 secured: "bAEeKyw0dMvhqGTUj+fy+QtecEDuPrGxShr3J51hAY2fxSSGfiVmdBnaR6/rn6frB+pjp7C/5oVgpbyJ8x7S3oFkDnm245fvTAcUvt3sxhy/RpTHwYPSSe97EI09hJVND61ms5y6lgeOlp1zy/HdM9Ze/XaxzGmWeV7KpYg/r3Hlf0ie4l0t7Vu5mZ2CrNrzycX0IbM2qCElshGOeE8g7KiOTKHvjh2fXp3mLs8TJ7/0E0Dmu5khcJZjSahPulnG5Wkq7pSX/tL5vXKNTjMqL1jcycomtchDhhJ21W/Ynfsya2MnUj0GRi17Yx5UDpoyQhim9Krs0D0eWMWlCUPPwIfc9C2MtFDx7TT/pYRyFnc=;M/nL+CLJP6LdOKcUEuC9XA=="
 ---

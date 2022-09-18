@@ -23,19 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "Even smartest AI models don't match human visual processing: Study"
-    excerpt: "Deep convolutional neural networks (DCNNs) do not see objects the way humans do -- using configural shape perception -- and that could be dangerous in real-world artificial intelligence (Al) applications,"
-    publishedDateTime: 2022-09-18T11:55:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1001241"
+  - title: "Even smartest AI models don’t match human visual processing: Study"
+    excerpt: "Deep convolutional neural networks (DCNNs) do not see objects the way humans do — using configural shape perception — and that could be dangerous in real-world artificial intelligence (Al) applications,"
+    publishedDateTime: 2022-09-18T15:20:00Z
+    webUrl: "https://www.canindia.com/even-smartest-ai-models-dont-match-human-visual-processing-study/"
     type: article
     provider:
-      name: Daijiworld
-      domain: daijiworld.com
+      name: Canindia.com
+      domain: canindia.com
     quality: 39
     images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/mvshetty_sq1_may.jpg"
-        width: 280
-        height: 250
+      - url: "https://www.canindia.com/wp-content/uploads/2022/03/imageCireplace.png"
+        width: 696
+        height: 436
         isCached: true
   - title: "York University study: Even smartest AI models don’t match human visual processing"
     excerpt: "Deep convolutional neural networks (DCNNs) don’t see objects the way humans do – using configural shape perception – and that could be dangerous in real-world AI applications, says Professor James Elder,"

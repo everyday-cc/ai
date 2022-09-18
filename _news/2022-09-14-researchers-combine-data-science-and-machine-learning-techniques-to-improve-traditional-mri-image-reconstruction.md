@@ -1,20 +1,29 @@
 ---
 category: news
 title: "Researchers combine data science and machine learning techniques to improve traditional MRI image reconstruction"
-excerpt: "University of Minnesota Twin Cities scientists and engineers have found a way to improve the performance of traditional Magnetic Resonance Imaging (MRI) reconstruction techniques, allowing for faster MRIs to improve health care."
-publishedDateTime: 2022-09-14T13:37:00Z
-originalUrl: "https://medicalxpress.com/news/2022-09-combine-science-machine-techniques-traditional.html"
-webUrl: "https://medicalxpress.com/news/2022-09-combine-science-machine-techniques-traditional.html"
+excerpt: "University of Minnesota Twin Cities researchers have found a way to improve the performance of traditional Magnetic Resonance Imaging (MRI) reconstruction techniques, allowing for faster MRIs without relying on the use of newer deep learning methods."
+publishedDateTime: 2022-09-14T00:00:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/964576"
+webUrl: "https://www.eurekalert.org/news-releases/964576"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
-secured: "X4QF8mfnao7S0+gOTszCC9oxUEEEQhX+IcKI9VQrCxFTLyya66SK5+tt1xVVjm3Zr6cPzxGWpyVxDxGG2lCix7/mJSWNJE5NDQnQsN12zv1Id+0ufJGuH7+541X/3Eg0NmZpejqQ9WSZv3CzX9d2zYwwzmWjHoeG9dGltBgVzrVfxFBq5+TPb+O6VXnB0X9miifShC53MgD20ZzSlzBrIuZQ/XMCXE3543kXr+ZFhPqEy3j8IxpyBjKLGiDFSI+IeMqyQw3zTLsOnSAhmQrbEDauAPlibDFafI25sdDuOExFO8j8QSlRibWJDtp2xkVdVQMnscIPhNn2p+TCvTNJeDr4qmaQzC3hFaEKnoeDcTHk+siIB3zqh7WjC8ZZpYG8WQ1uBvP7NiI67Jfqpy02cGbSU9jvQwqr+FQNldKNEBCJrI2zmh8QlenSgVs/uu09UYgNZTOZYdMHx/IW7le06jVeO5Rs9Rbm1KPD0DOsNdTeNEnU8c0B8Y8GqSy4dgDaBQ5WPvvXFpMooDUy7vw/PA==;5KXTeFsnz/8DBXRlRlIaFw=="
+images:
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/387a00b7-ce35-466a-a544-239e72a0f1d3/Rendition/low-res/Content/Public"
+    width: 700
+    height: 342
+    isCached: true
+
+secured: "llCr2Emmf4gAfC2yNlmhvjTRib969ITfAOwz0DOqt3Y5F5a7MtsY0Y3vbR83HyUBScLTHGSVS2fuOdRRjndoLqixAB8lCmFko6eHDzTrW7o2BfKXh4zV0/kCJ4Pm+6/VQmKXEkrGEf+y4dTfurG28JGRTTjsp05cbwvA/VPFVZNa4V8Uq8S3R4eqeGNIpNGmCQT9po5D9Esnje3z0B1P6hfX5Ydvw2WlZLZrfkw50pOwnagS1hMuu97E8Vevqir3b49dmTZB/8OpLRXbjwazGfbRwiq1LoPXYyzlGKWwTAY71OuDcFAkQHyoWdawpg7ug/LKN9I1v7aNut1+qwsKPNpArofNlD++rz2XiBSmoOY=;Kkw7EQF+iZO+67C62dQcRw=="
 ---
 

@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is Being Developed at OPM for Cybersecurity Threats"
-    excerpt: "AI in Government event with featured guest speaker Melvin Brown II, Deputy Chief Information Officer in the U.S. Office of Personnel Management and his presentation ‘How… Read More"
-    publishedDateTime: 2022-09-13T22:31:00Z
-    webUrl: "https://www.geekwire.com/calendar-event/how-ai-is-being-developed-at-opm-for-cybersecurity-threats/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 67
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2022/09/October-2022-AI-in-Gov-Promo-Graphic.png"
-        width: 1198
-        height: 674
-        isCached: true
   - title: "Why Artificial Intelligence is Must for Cybersecurity"
     excerpt: "How can artificial intelligence protect us from devastating cyber attacks? Some cybersecurity companies are already taking advantage of AI for good. Cybersecurity is the practice of protecting electronic information by mitigating information risks and vulnerabilities."
     publishedDateTime: 2022-09-14T23:29:00Z
@@ -54,6 +40,15 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Global Industrial Cybersecurity Market Expanding To Reach USD 20.5 Billion by 2030, With a Sustainable CAGR of 4.4% | Growth Market Reports"
+    excerpt: "According to a recent market study published by Growth Market Reports, titled, \"Global Industrial Cybersecurity Market\"by Security Types (Wireless Security, Cloud Security, Application Security, Endpoint Security,"
+    publishedDateTime: 2022-09-14T13:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-industrial-cybersecurity-market-expanding-to-reach-usd-205-billion-by-2030-with-a-sustainable-cagr-of-44-growth-market-reports-2022-09-14-92031610"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 15
   - title: "Alphabet spinoff SandboxAQ acquires cybersecurity and encryption startup Cryptosense"
     excerpt: "Cryptosense offers cryptography management software designed to protect sensitive data against data breaches. Pitched as cryptography management at the speed of DevOps, the Cryptosense platform provides full visibility into cryptography during development and a full inventory in production."
     publishedDateTime: 2022-09-14T23:41:00Z

@@ -28,19 +28,19 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Even smartest AI models don't match human visual processing: Study"
-    excerpt: "Deep convolutional neural networks (DCNNs) do not see objects the way humans do -- using configural shape perception -- and that could be dangerous in real-world artificial intelligence (Al) applications,"
-    publishedDateTime: 2022-09-18T11:55:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1001241"
+  - title: "Even smartest AI models don’t match human visual processing: Study"
+    excerpt: "Deep convolutional neural networks (DCNNs) do not see objects the way humans do — using configural shape perception — and that could be dangerous in real-world artificial intelligence (Al) applications,"
+    publishedDateTime: 2022-09-18T15:20:00Z
+    webUrl: "https://www.canindia.com/even-smartest-ai-models-dont-match-human-visual-processing-study/"
     type: article
     provider:
-      name: Daijiworld
-      domain: daijiworld.com
+      name: Canindia.com
+      domain: canindia.com
     quality: 39
     images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/mvshetty_sq1_may.jpg"
-        width: 280
-        height: 250
+      - url: "https://www.canindia.com/wp-content/uploads/2022/03/imageCireplace.png"
+        width: 696
+        height: 436
         isCached: true
 
 secured: "aSzYiwRxi9kZ49UMv73f6LG9k0wPlYwUOVz4KmBk5kUjlrRZRzXtJInO0A/5g6FqrVYq09Drx7rpA+0T/cqtb1j7K3BHmt3dEXXK1q9QpaLIs8rkaQs0irieEN6i+/0l6TVkivBEjgzHKT0sc2Rxs9iTdRfYoX/bD2UhS/RcNHPtmQZ4k33A+nRjQLX5IHAavVNvBDjPVuRLcpKqxLToBXvaiiujOwB8FnA6uH0G4zzQH9en0asZYYEUtbftWGk454VGkcdu/oXluyG2w8Cfyrxo6AaQd44X/DGoBwo8Uy4y5f3M6/akgdX50jyXGsp8JteLmorH4hBxtPsepfXF8e72YEPSdHvW5rPS9xYDrAg=;8hzNN7JwXwIA9fteR7zRNQ=="
