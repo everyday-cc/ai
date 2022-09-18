@@ -89,6 +89,59 @@
       ]
     },
     {
+      "path": "_news/2022-09-15-use-amazon-sagemaker-data-wrangler-for-data-preparation-and-studio-labs-to-learn-and-experiment-with-ml.md",
+      "title": "Use Amazon SageMaker Data Wrangler for data preparation and Studio Labs to learn and experiment with ML",
+      "excerpt": "Amazon SageMaker Studio Lab is a free machine learning (ML) development environment based on open-source JupyterLab for anyone to learn and experiment with ML using AWS ML compute resources. It’s based on the same architecture and user interface as Amazon SageMaker Studio, but with a subset of Studio",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-data-wrangler-for-data-preparation-and-studio-labs-to-learn-and-experiment-with-ml/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-data-wrangler-for-data-preparation-and-studio-labs-to-learn-and-experiment-with-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/15/data-wrangler-studio-labs.jpg",
+          "width": 1549,
+          "height": 774,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T09:14:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-10-years-later-deep-learning-revolution-rages-on-say-ai-pioneers-hinton-lecun-and-li.md",
       "title": "10 years later, deep learning ‘revolution’ rages on, say AI pioneers Hinton, LeCun and Li",
       "excerpt": "On the 10th anniversary of key research that led to deep learning breakthroughs, AI luminaries say the 'revolution' will continue.",
@@ -249,7 +302,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-new-innovations-trends-market-size-research-global-share-and-growth-factor-and-forecast-2022-2031-2022-09-14",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1369,49 +1422,6 @@
       "provider": {
         "name": "acm.org",
         "domain": "acm.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-05-ai-detects-rare-birth-defects-in-fetal-ultrasound.md",
-      "title": "AI Detects Rare Birth Defects in Fetal Ultrasound",
-      "excerpt": "A new study demonstrates how AI deep learning can be used to diagnose a rare embryonic developmental disorder called cystic hygroma within the first trimester of pregnancy from fetal ultrasound images.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound",
-      "originalUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-09/pic27777.gif.jpg?itok=UL6r1b41",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound?amp",
-      "publishedDateTime": "2022-09-05T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
         "images": null,
         "publishers": null,
         "authors": null

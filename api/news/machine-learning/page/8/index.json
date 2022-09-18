@@ -2,6 +2,50 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-07-12-aws-women-in-tech-leveraging-the-power-of-aiml-to-drive-societal-impact.md",
+      "title": "AWS Women in Tech: Leveraging the power of AI/ML to drive societal impact",
+      "excerpt": "Voiro’s Kavita, Spyne’s Deepti, and JIFFY.ai’s Payeli are blazing the trail in the fields of Artificial Intelligence and Machine Learning. However, there is a persistent absence of women in ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/herstory/2022/07/aws-women-tech-leveraging-ai-ml-driving-societal-impact",
+      "originalUrl": "https://yourstory.com/herstory/2022/07/aws-women-tech-leveraging-ai-ml-driving-societal-impact",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/4/21ccd920843c11ec88170b5512a0f9d5/Imagedi6b-1657559310003.jpg?fm=png&auto=format",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-11T22:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-stm32cubeai-your-software-tool-to-optimize-artificial-neural-networks-on-stm32.md",
       "title": "STM32Cube.AI, your software tool to optimize Artificial Neural Networks on STM32",
       "excerpt": "This webinar introduces Artificial Intelligence for edge computing and shows you how ST's offer can help you run Neural Networks on microcontrollers and microprocessors. Thanks to practical examples, you will learn how to run Artificial Neural Networks and ...",
@@ -1278,61 +1322,6 @@
         "Natural Language Processing",
         "AI Hardware",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-wells-fargo-cio-ai-and-machine-learning-will-move-financial-services-industry-forward.md",
-      "title": "Wells Fargo CIO: AI and machine learning will move financial services industry forward",
-      "excerpt": "Wells Fargo is incorporating artificial intelligence (AI) and machine learning (ML) initiatives to accelerate operations and better understand customer data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/29/wells-fargo-cio-ai-and-machine-learning-will-move-financial-services-industry-forward%EF%BF%BC/",
-      "originalUrl": "https://venturebeat.com/2022/06/29/wells-fargo-cio-ai-and-machine-learning-will-move-financial-services-industry-forward%EF%BF%BC/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/02/14224371682_7060d038fd_k.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 875,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/29/wells-fargo-cio-ai-and-machine-learning-will-move-financial-services-industry-forward%EF%BF%BC/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/29/wells-fargo-cio-ai-and-machine-learning-will-move-financial-services-industry-forward%EF%BF%BC/amp/",
-      "publishedDateTime": "2022-06-29T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI",
-        "AI in Finance",
-        "AWS AI"
       ]
     }
   ],

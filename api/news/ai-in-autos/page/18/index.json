@@ -2,6 +2,49 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-06-02-laredoan-leads-self-driving-car-racing-team.md",
+      "title": "Laredoan leads self-driving car racing team",
+      "excerpt": "When Cindy Heredia gets her MBA, she will have been part of a team which ran a car around a race track at 200 miles per hour with no one in it. Hopefully, at least. The 2013 graduate of AlexanderMIT-Pitt-RW autonomous racing team,",
+      "sourceUrl": null,
+      "webUrl": "https://www.lmtonline.com/sports/article/Laredoan-leads-self-driving-car-racing-team-17212271.php",
+      "originalUrl": "https://www.lmtonline.com/sports/article/Laredoan-leads-self-driving-car-racing-team-17212271.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/26/00/63/22547674/3/rawImage.jpg",
+          "width": 1536,
+          "height": 2048,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.lmtonline.com/sports/amp/Laredoan-leads-self-driving-car-racing-team-17212271.php",
+      "cdnAmpWebUrl": "https://www-lmtonline-com.cdn.ampproject.org/c/s/www.lmtonline.com/sports/amp/Laredoan-leads-self-driving-car-racing-team-17212271.php",
+      "publishedDateTime": "2022-06-01T14:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Laredo Morning Times",
+        "domain": "lmtonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-01-artificial-intelligence-technology-solutions-files-10-k-and-audited-financials.md",
       "title": "Artificial Intelligence Technology Solutions Files 10-K and Audited Financials",
       "excerpt": "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), a global leader in AI-driven security and productivity solutions for enterprise clients, filed its annual report on Form 10-K with the Securities and Exchange Commission for its fiscal year 2022 ended February 28,",
@@ -1286,49 +1329,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-baidu-announces-first-quarter-2022-results.md",
-      "title": "Baidu Announces First Quarter 2022 Results",
-      "excerpt": "\"Baidu delivered solid first quarter results, especially with regard to our cloud and intelligent driving businesses. Baidu AI Cloud reported another quarter of strong revenue growth and Apollo Go ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/baidu-announces-first-quarter-2022-results-1031490339",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/baidu-announces-first-quarter-2022-results-1031490339",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

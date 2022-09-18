@@ -2,6 +2,135 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-09-11-meta-is-building-ai-that-reads-brainwaves-the-reality-so-far-is-messy.md",
+      "title": "Meta Is Building AI That Reads Brainwaves. The Reality, So Far, Is Messy",
+      "excerpt": "Researchers at Meta, the parent company of Facebook, are working on a new way to understand what’s happening in people’s minds. On August 31, the company announced that research scientists in ...",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6210261/meta-ai-brains-speech/",
+      "originalUrl": "https://time.com/6210261/meta-ai-brains-speech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-10T12:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-10-meta-developing-artificial-intelligence-that-can-hear-brainwaves.md",
+      "title": "Meta developing artificial intelligence that can 'hear' brainwaves",
+      "excerpt": "While Meta's research is in the early stages, the company is funding research into artificial intelligence to help people with brain injuries communicate by recording their brain activity without ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonexaminer.com/news/meta-brainwaves-hearing-artificial-intelligence",
+      "originalUrl": "https://www.washingtonexaminer.com/news/meta-brainwaves-hearing-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediadc.brightspotcdn.com/dims4/default/16b88ad/2147483647/strip/true/crop/2290x1202+0+62/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fcf%2F2e%2Fe7108d0f4f608cc5529ae7adeab2%2Fai.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-10T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Examiner",
+        "domain": "washingtonexaminer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-10-farewell-speech-school-board-to-consider-changes-in-graduate-recognition.md",
+      "title": "Farewell speech? School board to consider changes in graduate recognition",
+      "excerpt": "Four years from now, a valedictory speech delivered at one of the county’s public high school graduation ceremonies may serve as a farewell address in more ways than one.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reflector.com/news/local/farewell-speech-school-board-to-consider-changes-in-graduate-recognition/article_130c4e98-bfda-5a7a-ac56-c83091cafdf3.html",
+      "originalUrl": "https://www.reflector.com/news/local/farewell-speech-school-board-to-consider-changes-in-graduate-recognition/article_130c4e98-bfda-5a7a-ac56-c83091cafdf3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/reflector.com/content/tncms/assets/v3/editorial/0/2c/02c8d870-c619-5f69-a85b-4fef87e5ea36/631bc5ec34047.image.jpg?crop=1720%2C903%2C0%2C151&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-10T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Reflector",
+        "domain": "reflector.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-10-brain-computer-interface-at-toronto-childrens-hospital-tests-the-potential-for-mind-melds-with-machines.md",
       "title": "Brain-computer interface at Toronto children’s hospital tests the potential for mind melds with machines",
       "excerpt": "Using a sensor headset, children are helping researchers fine-tune technology for turning signals in the brain into actions in the real world",
@@ -336,8 +465,7 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI",
-        "Facebook AI"
+        "AI"
       ]
     },
     {
@@ -1050,147 +1178,6 @@
         "AI in Marketing",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-city-digital-twins-help-train-deep-learning-models-to-separate-building-facades.md",
-      "title": "City digital twins help train deep learning models to separate building facades",
-      "excerpt": "Researchers from Osaka University have found a way to use the images that were automatically generated by digital city twins to train deep learning models that can efficiently analyze images of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/09/220908100031.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/09/220908100031.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T20:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-neural-magics-sparsity-nvidias-hopper-and-alibabas-network-among-firsts-in-latest-mlperf-ai-benchmarks.md",
-      "title": "Neural Magic's sparsity, Nvidia's Hopper, and Alibaba's network among firsts in latest MLPerf AI benchmarks",
-      "excerpt": "The latest benchmark tests of chips for AI showed new approaches to dealing with ever-increasing scale, including clusters of machines, and sparsity, the pruning of neural nets to make them more efficient.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/neural-magics-sparsity-nvidias-hopper-and-alibabas-network-among-firsts-in-latest-mlperf-ai-benchmarks/",
-      "originalUrl": "https://www.zdnet.com/article/neural-magics-sparsity-nvidias-hopper-and-alibabas-network-among-firsts-in-latest-mlperf-ai-benchmarks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/165cf796993b915bf3d6ac71f4ffcb91020a663b/2022/09/08/fa74566e-d9f2-440f-b2cd-b9565104404e/nvidia-hopper-die-crop-for-twitter.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/neural-magics-sparsity-nvidias-hopper-and-alibabas-network-among-firsts-in-latest-mlperf-ai-benchmarks/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/neural-magics-sparsity-nvidias-hopper-and-alibabas-network-among-firsts-in-latest-mlperf-ai-benchmarks/",
-      "publishedDateTime": "2022-09-08T17:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI",
-        "Machine Learning",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-multiple-cognitive-abilities-may-be-empirically-measured-from-complex-video-game-experiences.md",
-      "title": "Multiple cognitive abilities may be empirically measured from complex video game experiences",
-      "excerpt": "Parents and pundits may no longer argue that gamers are indulging in brainless activities in front of their screens. And gamers may finally feel a sense of vindication. Kyoto University and BonBon ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-09-multiple-cognitive-abilities-empirically-complex.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-09-multiple-cognitive-abilities-empirically-complex.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/gamers-can-have-their.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-09-multiple-cognitive-abilities-empirically-complex.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-multiple-cognitive-abilities-empirically-complex.amp",
-      "publishedDateTime": "2022-09-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

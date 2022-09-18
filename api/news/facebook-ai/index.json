@@ -308,50 +308,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-10-artificial-intelligence-is-now-used-to-track-down-hate-speech.md",
-      "title": "Artificial intelligence is now used to track down hate speech",
-      "excerpt": "One fix that social media companies and other online networks have relied on is artificial intelligence—to varying degrees of success. For companies with giant user bases, like Meta, artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wxyz.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech",
-      "originalUrl": "https://www.wxyz.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.newsy.com/images/videos/m/1660250991_F4WYcV.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wxyz.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true",
-      "cdnAmpWebUrl": "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true",
-      "publishedDateTime": "2022-09-09T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WXYZ",
-        "domain": "wxyz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-08-lightning-ai-brings-on-pytorch-lead-to-expand-deep-learning-leadership.md",
       "title": "Lightning AI Brings on PyTorch Lead to Expand Deep Learning Leadership",
       "excerpt": "Mike Ruberry, core PyTorch technical lead, joins Lightning AI as chief engineer of the PyTorch teamNew hire signals beginning of PyTorch team at the New Yo",
@@ -1423,6 +1379,58 @@
       "topics": [
         "AI",
         "AI Ethics",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-ai-startup-anyscale-adds-99-million-to-andreessen-horowitz-led-funding-round.md",
+      "title": "AI Startup Anyscale Adds $99 Million to Andreessen Horowitz-Led Funding Round",
+      "excerpt": "Anyscale Inc., an artificial-intelligence startup created three years ago by ... the open-source software needed to run Anyscale’s AI tools, is catching the attention of investors, said Robert ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200",
+      "originalUrl": "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-608499/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200",
+      "publishedDateTime": "2022-08-24T00:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
         "Facebook AI"
       ]
     }

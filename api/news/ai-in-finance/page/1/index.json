@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-16-how-fintech-startups-are-using-ai-to-empower-msmes.md",
+      "title": "How fintech startups are using AI to empower MSMEs?",
+      "excerpt": "The MSME sector, better known as ‘the engine of growth’ has been contributing immensely to the economic progress of the country. Providing employment opportunities to over 100 million people, many Fintech startups have also",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-fintech-startups-are-using-ai-to-empower-msmes/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-fintech-startups-are-using-ai-to-empower-msmes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/09/Oumesh-Sauba.jpg",
+          "width": 480,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-fintech-startups-are-using-ai-to-empower-msmes/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-fintech-startups-are-using-ai-to-empower-msmes/",
+      "publishedDateTime": "2022-09-16T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-16-ecobank-partners-with-ama-academy-to-launch-fintech-training-for-journalists.md",
       "title": "Ecobank partners with AMA Academy to launch fintech training for journalists",
       "excerpt": "Ecobank Group has announced a partnership with AMA Academy, the only free-to-use pan-African online learning platform dedicated to upskilling journalists in Africa.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://hapakenya.com/2022/09/16/ecobank-partners-with-ama-academy-to-launch-fintech-training-for-journalists/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1281,41 +1324,6 @@
       "provider": {
         "name": "The Free Press Journal",
         "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-28-1-machine-learning-stock-down-56-to-buy-hand-over-fist.md",
-      "title": "1 Machine Learning Stock Down 56% to Buy Hand Over Fist",
-      "excerpt": "Machine learning is a subfield of artificial intelligence, and it's primarily used to make sense of mountains of data to deliver valuable insights to the end user. Thanks to companies like Splunk ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/1-machine-learning-stock-down-56-to-buy-hand-over-fist",
-      "originalUrl": "https://www.nasdaq.com/articles/1-machine-learning-stock-down-56-to-buy-hand-over-fist",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-28T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

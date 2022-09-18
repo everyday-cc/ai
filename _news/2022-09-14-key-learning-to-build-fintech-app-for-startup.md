@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Lease-to-own fintech startup Kafene raises $18M to battle BNPL"
-    excerpt: "Kafene plans to use its new capital to increase its headcount so that it can continue to expand its offering to more merchants and thus, consumers."
-    publishedDateTime: 2022-09-13T16:23:00Z
-    webUrl: "https://techcrunch.com/2022/09/13/lease-to-own-fintech-startup-kafene-raises-18m-to-battle-bnpl/"
-    ampWebUrl: "https://techcrunch.com/2022/09/13/lease-to-own-fintech-startup-kafene-raises-18m-to-battle-bnpl/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/13/lease-to-own-fintech-startup-kafene-raises-18m-to-battle-bnpl/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1193134750-e1663083426614.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How fintech startups are using AI to empower MSMEs?"
     excerpt: "The MSME sector, better known as ‘the engine of growth’ has been contributing immensely to the economic progress of the country. Providing employment opportunities to over 100 million people, many Fintech startups have also"
     publishedDateTime: 2022-09-16T08:15:00Z
@@ -50,6 +34,34 @@ related:
       - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/09/Oumesh-Sauba.jpg"
         width: 480
         height: 600
+        isCached: true
+  - title: "FinTech Power teases details of card issuance platform"
+    excerpt: "Power, the FinTech startup with ambitions to “reshape global commerce”, has teased early progress as they emerge from stealth. <br /> <br /> The move follows $16.1 million in seed funding and a $300 million credit facility."
+    publishedDateTime: 2022-09-15T10:22:00Z
+    webUrl: "https://www.fstech.co.uk/fst/FinTech_Power_teases_details_of_card_issuance_platform.php"
+    type: article
+    provider:
+      name: fstech
+      domain: fstech.co.uk
+    quality: 39
+    images:
+      - url: "https://www.fstech.co.uk/fst/images/credit-card-close-shot-m.jpg"
+        width: 5301
+        height: 2982
+        isCached: true
+  - title: "Fintech Kyriba Launches Cash Management AI"
+    excerpt: "Kyriba, which claims to be a global leader of Cloud-powered finance and IT solutions, recently announced the launch of Cash Management AI."
+    publishedDateTime: 2022-09-16T23:31:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/09/196043-fintech-kyriba-launches-cash-management-ai/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 39
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/Dollars-Money-Cash-Pay-768x1024.jpeg"
+        width: 768
+        height: 1024
         isCached: true
   - title: "17 Fintech and Insurtech Startups Among Forbes Asia’s Top 100 to Watch in 2022"
     excerpt: "Meet the 17 fintech and insurtech startups in the Asia Pacific featured on Forbes Asia's 2022 100 To Watch list."

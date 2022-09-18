@@ -18,17 +18,6 @@ topics:
   - Computer Vision
   - AI
 
-related:
-  - title: "Messagepoint Launches Semantex™ Division Offering AI-based Content Intelligence Platform"
-    excerpt: "Messagepoint today announced the launch of Semantex™, its new division providing an artificial intelligence (AI)-based content intelligence platform designed to empower developers tackling complex content-related challenges."
-    publishedDateTime: 2022-09-13T16:34:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/13/9672647.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 8
-
 secured: "1hEeoS0iHlW7BmmH8r3lt4SqSsGMG6SEDskeubwyttc45hKaRyqGA/Rgg3nf1MZql5rGwI7SR8BLYogrgLS9gxjLZc924bBa+PWqY0UFtig8KwGn6cr9AtqiBteYuyl5hW3zjqjhz3XIllr+yDjY8n4+dfm84bPe5h2oTjy1f/XXB9/9+/RChiZLiIvL3BFWl6a+dYZ1sI6EYO7qoFGzojcrY7JUh34N9ungiXMIhFGxXFDEun+rt7VA1nQdxws6p20J57T2UZc7Ziq6y6uYXjtMNqyb2zlWTkzuvfDe2XpcwSY+zf8rZaUUwYmASL7WrvS4iiRV+Ddyvb13tRva49mawnNOOc4NdrH4Wo4X1P0=;ON2bgColMVQwuwH5r+gXMQ=="
 ---
 

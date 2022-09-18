@@ -33,22 +33,6 @@ related:
         width: 640
         height: 278
         isCached: true
-  - title: "Khaleej Times DigiBank Forum to showcase transformational ideas in banking, fintech industries"
-    excerpt: "Event will provide in-depth view of Bank as a Service, global strategy in digital banking, video and voice banking, contactless payments"
-    publishedDateTime: 2022-09-13T16:11:00Z
-    webUrl: "https://www.khaleejtimes.com/banking-in-uae/khaleej-times-digibank-forum-to-showcase-transformational-ideas-in-banking-fintech-industries"
-    ampWebUrl: "https://www.khaleejtimes.com/banking-in-uae/khaleej-times-digibank-forum-to-showcase-transformational-ideas-in-banking-fintech-industries?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/banking-in-uae/khaleej-times-digibank-forum-to-showcase-transformational-ideas-in-banking-fintech-industries?amp=1"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 47
-    images:
-      - url: "https://image.khaleejtimes.com?uuid=a0f46d37-c530-5922-a9f3-9a1d22e92882&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84375&x=0&y=0&width=1200&height=675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Ecobank launches pan-African fintech training, awards for journalists"
     excerpt: "Ecobank Group, the leading Pan-African banking Group, today announced a partnership with AMA Academy, which is the only free-to-use pan-African online learning platform dedicated to upskilling journalists in Africa."
     publishedDateTime: 2022-09-15T12:14:00Z

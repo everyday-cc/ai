@@ -2,6 +2,49 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-05-26-baidu-announces-first-quarter-2022-results.md",
+      "title": "Baidu Announces First Quarter 2022 Results",
+      "excerpt": "\"Baidu delivered solid first quarter results, especially with regard to our cloud and intelligent driving businesses. Baidu AI Cloud reported another quarter of strong revenue growth and Apollo Go ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/baidu-announces-first-quarter-2022-results-1031490339",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/baidu-announces-first-quarter-2022-results-1031490339",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-26-is-california-still-investigating-teslas-self-driving-claims.md",
       "title": "Is California Still Investigating Tesla’s Self-Driving Claims?",
       "excerpt": "(TNS) — It's been a year since the California Department of Motor Vehicles opened an investigation into Tesla's sales pitch for its Full Self-Driving feature, the $12,000 software package that supposedly enables a Tesla car to drive itself through city ...",
@@ -1301,49 +1344,6 @@
         "Computer Vision",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-tesla-to-host-second-artificial-intelligence-day-in-august.md",
-      "title": "Tesla to host second artificial intelligence day in August",
-      "excerpt": "Tesla Inc top boss Elon Musk said on Tuesday the electric-car maker will host its second artificial intelligence day ... expand on plans to fine-tune its self-driving technology.",
-      "sourceUrl": null,
-      "webUrl": "https://tribune.com.pk/story/2357116/tesla-to-host-second-artificial-intelligence-day-in-august",
-      "originalUrl": "https://tribune.com.pk/story/2357116/tesla-to-host-second-artificial-intelligence-day-in-august",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": " https://i.tribune.com.pk/media/images/1178652-tesla-1473332232/1178652-tesla-1473332232.jpg  ",
-          "width": 625,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tribune.com.pk/story/2357116/tesla-to-host-second-artificial-intelligence-day-in-august?amp=1",
-      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2357116/tesla-to-host-second-artificial-intelligence-day-in-august?amp=1",
-      "publishedDateTime": "2022-05-17T23:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Express Tribune",
-        "domain": "tribune.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -84,15 +84,6 @@ related:
         width: 480
         height: 480
         isCached: true
-  - title: "New Cadence Joint Enterprise Data and AI Platform Dramatically Accelerates AI-Driven Chip Design Development"
-    excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the delivery of the Cadence ® Joint Enterprise Data and AI (JedAI) Platform, enabling a generational shift from single-run, single-engine algorithms in electronic design automation (EDA) to algorithms that leverage big data and artificial intelligence (AI) to optimize multiple runs of multiple engines across an entire SoC design and verification flow."
-    publishedDateTime: 2022-09-13T16:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/09/13/9672667.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
 
 secured: "3RnETP1XdLJVvYgqdeKWhW7fVtcia0XrrxwYDrmCrMsxyWXBPhReT7Q9BFKC+2jmm+b2yyIzPHbxLh8rH8kIJdlbvH3j524EyGw9R9josgh90j7iWH46OZ9t4rwjle7ATOk/bGJKYOeR7EYfaaNDFieahSX3Szb5dYCS/H0FB4HVF9JkFcZMHvWGLNSzbgYknF06PFa8876snnUMcL2TWAbyLdQWo1j8Q1aPDYw2gBaIfrhJZviOq/iWFM5k7MFlPDGrmfXBtZM155JaSdU4DkkYCsqfsIY4UbqJyvrD4Wsv6iNCkQ7AJLyJ9n8Xkb2O8EVGtwJi5OX9jQk51OYpGKLxbtXQrceOoFIY9piW+KZmKKLtlSPDO9q79yuUcIa419dn5bYsX3WEBODVuKZw2AowEBYwXLyMUxXpCW2UIBqu8Tfo9aR1DfzQMpb21/lYseWPbvY6VqtqYvbb8YbejqaAp6EbIdHUYU3bv1ci4swbctw2N/Fa4LPkBvGVEK/FEd7FbBrooSpc8HA5feI92w==;wIVU4+Z/ZGTPdwFCLFKfww=="
 ---

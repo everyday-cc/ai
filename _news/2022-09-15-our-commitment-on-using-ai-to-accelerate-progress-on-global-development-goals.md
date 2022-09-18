@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/google-org/our-commitment-o
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/our-commitment-on-using-ai-to-accelerate-progress-on-global-development-goals/amp/"
 type: article
 quality: 106
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -84,15 +84,6 @@ related:
         width: 480
         height: 480
         isCached: true
-  - title: "New Cadence Joint Enterprise Data and AI Platform Dramatically Accelerates AI-Driven Chip Design Development"
-    excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the delivery of the Cadence ® Joint Enterprise Data and AI (JedAI) Platform, enabling a generational shift from single-run, single-engine algorithms in electronic design automation (EDA) to algorithms that leverage big data and artificial intelligence (AI) to optimize multiple runs of multiple engines across an entire SoC design and verification flow."
-    publishedDateTime: 2022-09-13T16:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/09/13/9672667.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
 
 secured: "vTzcf1klbC6V2Ha0J2NKQS5BwoaA3MxMvMdoIw3dGxtSJ+9TaSka6Y6m1wGnJtFV2FSCx1KkXGfDd42H6qkb+F6TQqBBBWUiqONRIv1wG1cAxXw+/m3z7wxzsFGytyuMFRrIUsVKWPGVnoCIlJXiYSCZkTLCt7FPG+oTEee7hZjUGvk6+kv4WYTfwtw9rmQkEfMudIyR92HTqmwcxfsZVTHcgdgXM85AO+POtAs9Ms6UFR0SowGdgmB1Xm/kiuDYXJdixaIpqyBZNW2JJXIEvHCq/ypF0VQOsIqz/Q0mkXnpYC5IbdTYTZeNcxQkSomQqguV2q7z91f/YswQylkqRiVXW4/9ZQEp39Hs6+DmR2E=;bLpSZtEtOjQ6gXspoOaz6w=="
 ---

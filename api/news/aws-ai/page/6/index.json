@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-07-06-break-through-language-barriers-with-amazon-transcribe-amazon-translate-and-amazon-polly.md",
+      "title": "Break through language barriers with Amazon Transcribe, Amazon Translate, and Amazon Polly",
+      "excerpt": "Imagine a surgeon taking video calls with patients across the globe without the need of a human translator. What if a fledgling startup could easily expand their product across borders and into new geographical markets by offering fluid, accurate, multilingual customer support and sales, all without",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/break-through-language-barriers-with-amazon-transcribe-amazon-translate-and-amazon-polly/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/break-through-language-barriers-with-amazon-transcribe-amazon-translate-and-amazon-polly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/06/Featured-images-for-ML-6711.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-06T15:37:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-07-06-covid-19-showed-financial-institutions-fast-change-is-possible.md",
       "title": "Covid-19 Showed Financial Institutions Fast Change Is Possible",
       "excerpt": "Covid moved financial services forward very rapidly, and showed that with cloud, it could handle tech change much faster than it had thought",
@@ -1363,40 +1416,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-global-industry-analysts-predicts-the-world-artificial-intelligence-chipsets-market-to-reach-507-billion-by-2026.md",
-      "title": "Global Industry Analysts Predicts the World Artificial Intelligence Chipsets Market to Reach $50.7 Billion by 2026",
-      "excerpt": "Companies: 37 - Players covered include Advanced Micro Devices, Inc.; Amazon Web Services (AWS); Fujitsu ... to today`s busy business executive`s intelligence needs! This influencer driven ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/n27828765/global-industry-analysts-predicts-the-world-artificial-intelligence-chipsets-market-to-reach-50-7-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/n27828765/global-industry-analysts-predicts-the-world-artificial-intelligence-chipsets-market-to-reach-50-7-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

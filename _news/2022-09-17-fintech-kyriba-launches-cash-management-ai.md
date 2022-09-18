@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "How fintech startups are using AI to empower MSMEs?"
+    excerpt: "The MSME sector, better known as ‘the engine of growth’ has been contributing immensely to the economic progress of the country. Providing employment opportunities to over 100 million people, many Fintech startups have also"
+    publishedDateTime: 2022-09-16T08:15:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-fintech-startups-are-using-ai-to-empower-msmes/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-fintech-startups-are-using-ai-to-empower-msmes/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-fintech-startups-are-using-ai-to-empower-msmes/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/09/Oumesh-Sauba.jpg"
+        width: 480
+        height: 600
+        isCached: true
   - title: "FinTech Power teases details of card issuance platform"
     excerpt: "Power, the FinTech startup with ambitions to “reshape global commerce”, has teased early progress as they emerge from stealth. <br /> <br /> The move follows $16.1 million in seed funding and a $300 million credit facility."
     publishedDateTime: 2022-09-15T10:22:00Z
@@ -39,15 +55,29 @@ related:
         width: 5301
         height: 2982
         isCached: true
-  - title: "Consumer Portfolio Services Chooses Prodigal to Advance its FinTech Platform with Backend Servicing and Support in Specialty Financing"
-    excerpt: "Consumer Portfolio Services, Inc. (Nasdaq: CPSS) (“CPS”), continuing their commitment to artificial intelligence, partnered with Prodigal to better manage the collections and servicing workforce and process."
-    publishedDateTime: 2022-09-15T12:42:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-2707dd1f1bf45b03ae77ad401287866b"
+  - title: "17 Fintech and Insurtech Startups Among Forbes Asia’s Top 100 to Watch in 2022"
+    excerpt: "Meet the 17 fintech and insurtech startups in the Asia Pacific featured on Forbes Asia's 2022 100 To Watch list."
+    publishedDateTime: 2022-09-14T07:13:00Z
+    webUrl: "https://fintechnews.sg/63810/fintech/17-fintech-and-insurtech-startups-among-forbes-asias-top-100-to-watch-in-2022/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 20
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/09/17-Fintech-and-Insurtech-Startups-Named-Among-Top-100-Rising-SMEs-in-APAC.png?x82653"
+        width: 1024
+        height: 567
+        isCached: true
+  - title: "Key Learning to Build Fintech App For Startup"
+    excerpt: "How will the new Fintech app add value to the customers' financial transactions and user experience? What unique value propositions is the app offer, and how do they stand out from the competitor apps?"
+    publishedDateTime: 2022-09-14T04:11:00Z
+    webUrl: "https://www.finextra.com/blogposting/22898/key-learning-to-build-fintech-app-for-startup"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "5ssBBd09cX7BOfoG6Nq4mIfSbBmIj62o95rKrMXbbXRSYEzOvf8xktzTRM4o6+MZ/U4YarpjVfW132KUnynT6G+P6jNTrQLZgwhoj3ppMSYhKJ993+G5bIHzfYg5FMrnAUIfZZarTO+M2TgPii6v4oq+sWA5YqqxqteCgwnHFYF9+YB3h8HMphEAztX5uxx1jHbee5qkyXP6+/J0scsAyKshiloUu3miEkkwAgJTW5NiH8y9JKa1FwP2AOPlH06P129gfPnlTNoWLPaErJObXjJuRw1XCpsBk/tmTB5LsOlMrE/wsRRkuBVfVMBg3P/fpF9AFVgeHZAQH/yNcLwvXwCTRmTqcAZMfGR0jo6G6Qs=;2l4FGv1PTGkDVaLUfD9mhQ=="
 ---

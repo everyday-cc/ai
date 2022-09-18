@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-16-top-5-tech-trends-we-should-all-know-ahead-of-tesla-ai-day.md",
+      "title": "Top 5 Tech Trends We Should All Know Ahead Of Tesla AI Day",
+      "excerpt": "Tesla’s AI Day is on the horizon. Here are some of the top trends emerging in the field of artificial intelligence that you should know about before the big event later this month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/09/16/top-5-tech-trends-we-should-all-know-ahead-of-tesla-ai-day/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/09/16/top-5-tech-trends-we-should-all-know-ahead-of-tesla-ai-day/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6324946af1e93a0874b00cbb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 890,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/09/16/top-5-tech-trends-we-should-all-know-ahead-of-tesla-ai-day/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/09/16/top-5-tech-trends-we-should-all-know-ahead-of-tesla-ai-day/amp/",
+      "publishedDateTime": "2022-09-16T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-16-my-tesla-full-self-driving-beta-1069-first-drive-was-a-fail.md",
       "title": "My Tesla Full Self-Driving Beta 10.69 first drive was a fail",
       "excerpt": "I went on my first test drive of Tesla Full Self-Driving Beta 10.69.2, the latest big FSD software update, and unfortunately, it was a fail.",
@@ -777,8 +830,7 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI",
-        "Facebook AI"
+        "AI"
       ]
     },
     {
@@ -1314,49 +1366,6 @@
       "provider": {
         "name": "Forbes India",
         "domain": "forbesindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-07-how-self-service-business-intelligence-is-changing-the-retail-industry.md",
-      "title": "How self-service business intelligence is changing the retail industry",
-      "excerpt": "THE ARTICLES ON THESE PAGES ARE PRODUCED BY BUSINESS REPORTER, WHICH TAKES SOLE RESPONSIBILITY FOR THE CONTENTS",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/news/business/business-reporter/business-intelligence-changing-retail-industry-b2161843.html",
-      "originalUrl": "https://www.independent.co.uk/news/business/business-reporter/business-intelligence-changing-retail-industry-b2161843.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/2022/09/07/14/Main%20image%20-%20Blueprint%20Software%20Systems%20-%20iStock-1358835459.jpg?quality=75&width=1200&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.independent.co.uk/news/business/business-reporter/business-intelligence-changing-retail-industry-b2161843.html",
-      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/news/business/business-reporter/business-intelligence-changing-retail-industry-b2161843.html",
-      "publishedDateTime": "2022-09-07T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

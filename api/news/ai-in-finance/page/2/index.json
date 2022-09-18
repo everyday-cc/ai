@@ -2,6 +2,41 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-28-1-machine-learning-stock-down-56-to-buy-hand-over-fist.md",
+      "title": "1 Machine Learning Stock Down 56% to Buy Hand Over Fist",
+      "excerpt": "Machine learning is a subfield of artificial intelligence, and it's primarily used to make sense of mountains of data to deliver valuable insights to the end user. Thanks to companies like Splunk ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/1-machine-learning-stock-down-56-to-buy-hand-over-fist",
+      "originalUrl": "https://www.nasdaq.com/articles/1-machine-learning-stock-down-56-to-buy-hand-over-fist",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-28T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-08-27-improving-ai-assisted-conversation-with-zero-shot-learning.md",
       "title": "Improving AI-assisted conversation with zero-shot learning",
       "excerpt": "Zero-shot learning can improve conversation AI — bolstering everything from human interaction, to sales, to training and career coaching.",
@@ -1250,49 +1285,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-ai-in-fintech-market-to-reach-6130-billion-globally-by-2031-at-225-cagr-allied-market-research.md",
-      "title": "AI in Fintech Market to Reach $61.30 Billion, Globally, by 2031 at 22.5% CAGR: Allied Market Research",
-      "excerpt": "Allied Market Research published a report, titled, ' AI in Fintech Market by Component (Solution, Services), by Deployment Mode (On-premise, Cloud), by Application (Virtual Assistants (Chatbots), Business Analytics and Reporting,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-ai-fintech-market-reach-6130-billion-globally-2031-/2022/08/01/9647909.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-ai-fintech-market-reach-6130-billion-globally-2031-/2022/08/01/9647909.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-01T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

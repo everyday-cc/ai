@@ -26,22 +26,6 @@ images:
     height: 1080
     isCached: true
 
-related:
-  - title: "Erotophilia and sexual sensation–seeking are good predictors of engagement with sex robots, according to new research"
-    excerpt: "Advances in technology, in particular artificial intelligence (AI), are impacting our everyday lives in ever more ways — including our sex lives. Sex robots — life-size, lifelike machines powered by AI and used for sexual purposes — are one such emerging technological system."
-    publishedDateTime: 2022-09-13T15:18:00Z
-    webUrl: "https://www.concordia.ca/news/stories/2022/09/13/erotophilia-and-sexual-sensation-seeking-are-good-predictors-of-engagement-with-sex-robots-according-to-new-research.html"
-    type: article
-    provider:
-      name: Concordia University
-      domain: concordia.ca
-    quality: 16
-    images:
-      - url: "https://www.concordia.ca/content/shared/en/news/stories/2022/09/13/erotophilia-and-sexual-sensation-seeking-are-good-predictors-of-engagement-with-sex-robots-according-to-new-research.social.png/1663079842204.jpg"
-        width: 768
-        height: 384
-        isCached: true
-
 secured: "us0UX4kJCRhwXqG8hf9NoyoJ/s3MIMG231TPpU3RIuwvmFbVBEmxq8PtcHmvBIN22FnpVG4aTCexv83dHHx58swj5gOmPqcQKc/1PQaHlPzNh1mX6dM68CF0HepamgbGXwEymqgmvRc3Yz1l599A/tjZHZoRSKs0+ZDn9GK15FEe8EaOqRkGEWX5m/SOypYhANIs8ajBUxlshS/2rNp/EQZSOisEWudmyF3leVtSr8FcaMKJSqf4aQE/V+o87iEwxBAMNGheHFFrdNBBGzeoxPCUkRkIZj/lbTIuDLUsPSurYtNdiO+dVigmYVR6Z6rJTjs28zuczx7jFp9z2uz9rOC7wjRpKYJ1onj/bly3ehJ0iyMtziLRBuuXreYPLEBKck+NX6uMsG9y8J82GokZj3JCt5r55/SEpWT6SNHJemBmAXs9y84cno5jxcKPzMMWdkj/mLvJI/fjrEkRubxY8BOsaYFLgg5jDoqskhrA/qxgnFnUSgecgBwMXuSPEA64WQk5ujwRjMbNHgUQydmGqg==;qcqipCJ5sDpNlfuTCYKfTQ=="
 ---
 

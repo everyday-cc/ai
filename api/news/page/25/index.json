@@ -2,6 +2,154 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2022-08-25-nexar-utilizes-crowdsourced-vision-data-to-foster-autonomous-driving.md",
+      "title": "Nexar utilizes crowdsourced vision data to foster autonomous driving",
+      "excerpt": "Data is the foundation of autonomous driving. Nexar, an AI computer vision company, analyzes street information through a network supported by its dash cams. Integrating real-time data with human driving behaviors,",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20220825VL201.html",
+      "originalUrl": "https://www.digitimes.com/news/a20220825VL201.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20220825vl201_files/2_2b.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-24T20:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-the-next-technological-time-warp.md",
+      "title": "The Next Technological Time Warp",
+      "excerpt": "Even if you look at other modalities, like early image generation models and their ability to generate faces—not to mention today’s image generation capabilities with models such as DALL-E 2—telling the difference between human-generated and AI-generated content has been difficult for quite some time now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/servicenow/2022/08/24/the-next-technological-time-warp/",
+      "originalUrl": "https://www.forbes.com/sites/servicenow/2022/08/24/the-next-technological-time-warp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6306c01dd2c11b73cd7d1fdb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/servicenow/2022/08/24/the-next-technological-time-warp/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2022/08/24/the-next-technological-time-warp/amp/",
+      "publishedDateTime": "2022-08-24T17:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-advancing-conservation-with-ai-based-facial-recognition-of-turtles.md",
+      "title": "Advancing conservation with AI-based facial recognition of turtles",
+      "excerpt": "We came across Zindi – a dedicated partner with complementary goals – who are the largest community of African data scientists and host competitions that focus on solving Africa’s most pressing problems. Our Science team’s Diversity, Equity, and Inclusion (DE&I) team worked with Zindi to identify a scientific",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/advancing-conservation-with-ai-based-facial-recognition-of-turtles",
+      "originalUrl": "https://www.deepmind.com/blog/advancing-conservation-with-ai-based-facial-recognition-of-turtles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 196,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/63061177d7f69d1362d8131e_w-VkMnf2sMOOlIQBg5mgjxCmIR8jzbdk4dNkoVyq55So3N0zNdWUa2xSQs0hRJxneQhGae3Nz62pNaqLggj4tm-EN8XO229WRDuZYUBcCtOdGsEsKMAQBLW5UkyFfhlPwtOozh-6VcDJ50RV0SZZXleKsSytCDJr422G1RwVKwcftW3p_2XXpFufsJKeO0dDa6PUQZVRnRmKCK-FKwzbd8yYSjLsHz-eaw.png",
+          "width": 1600,
+          "height": 1427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-24T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-08-25-daily-crunch-4chan-users-exploit-ai-image-generators-ability-to-create-realistic-nude-deepfakes.md",
       "title": "Daily Crunch: 4chan users exploit AI image generator’s ability to create realistic nude deepfakes",
       "excerpt": "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
@@ -1064,153 +1212,6 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-best-robot-vacuums-for-pet-hair-in-2022-according-to-reviewers.md",
-      "title": "Best robot vacuums for pet hair in 2022, according to reviewers",
-      "excerpt": "The iRobot Roomba j7+ is designed with the issue of dog poop in mind ... better to control the appliance remotely. Pet owners, including this verified purchaser, love the Lefant robot vacuum ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/the-best-robot-vacuums-for-pet-hair-according-to-reviewers/",
-      "originalUrl": "https://www.cbsnews.com/essentials/the-best-robot-vacuums-for-pet-hair-according-to-reviewers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/07/27/4604bf4c-ab99-4e25-ab66-5d3d51e6e2cc/thumbnail/1200x630/6650ffd64506ce0b99930afb0d07a219/robot-vacuum-pet-header.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/the-best-robot-vacuums-for-pet-hair-according-to-reviewers/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/the-best-robot-vacuums-for-pet-hair-according-to-reviewers/",
-      "publishedDateTime": "2022-08-24T04:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-zilliz-the-startup-behind-the-milvus-open-source-vector-database-for-ai-applications-raises-60m-and-relocates-to-sf.md",
-      "title": "Zilliz, the startup behind the Milvus open-source vector database for AI applications, raises $60M and relocates to SF",
-      "excerpt": "Chinese startup Zilliz — which builds cloud-native software to process data for AI applications and unstructured data analytics, and is the creator of Milvus, the popular open source vector database for similarity searches — raised $43 million to scale its business and prep",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/24/zilliz-the-startup-behind-the-milvus-open-source-vector-database-for-ai-applications-raises-60m-and-relocates-to-sf/",
-      "originalUrl": "https://techcrunch.com/2022/08/24/zilliz-the-startup-behind-the-milvus-open-source-vector-database-for-ai-applications-raises-60m-and-relocates-to-sf/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-95769788.jpg?w=1024",
-          "width": 1024,
-          "height": 691,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/24/zilliz-the-startup-behind-the-milvus-open-source-vector-database-for-ai-applications-raises-60m-and-relocates-to-sf/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/24/zilliz-the-startup-behind-the-milvus-open-source-vector-database-for-ai-applications-raises-60m-and-relocates-to-sf/amp/",
-      "publishedDateTime": "2022-08-24T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-data-science-and-machine-learning-market-size-2022-share-growth-with-recent-trends-development-revenue-demand-and-forecast-to-2029.md",
-      "title": "Data Science and Machine-Learning Market Size 2022, Share, Growth with Recent Trends, Development, Revenue, Demand and Forecast to 2029",
-      "excerpt": "Pune, India Research Report on Global Data Science and Machine-Learning Platforms Market 2020-2026 Report Demand",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/data-science-and-machine-learning-market-size-2022-share-growth-with-recent-trends-development-revenue-demand-and-forecast-to-2029-2022-08-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/data-science-and-machine-learning-market-size-2022-share-growth-with-recent-trends-development-revenue-demand-and-forecast-to-2029-2022-08-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-24T02:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

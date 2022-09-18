@@ -2,6 +2,135 @@
   "page": 135,
   "value": [
     {
+      "path": "_news/2022-06-02-pay-it-forward-the-opportunity-for-digital-banking-to-foster-financial-inclusion.md",
+      "title": "Pay It Forward: The Opportunity For Digital Banking To Foster Financial Inclusion",
+      "excerpt": "This is a challenge that is worthy of serious attention and rich in its potential to drive growth and improve lives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/02/pay-it-forward-the-opportunity-for-digital-banking-to-foster-financial-inclusion/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/02/pay-it-forward-the-opportunity-for-digital-banking-to-foster-financial-inclusion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//6297da60aa8f22da27e1620a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/02/pay-it-forward-the-opportunity-for-digital-banking-to-foster-financial-inclusion/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/06/02/pay-it-forward-the-opportunity-for-digital-banking-to-foster-financial-inclusion/amp/",
+      "publishedDateTime": "2022-06-02T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest.md",
+      "title": "Metaverse to create next evolution of consumer spending patterns: NatWest",
+      "excerpt": "The pandemic brought the urgent need for enterprises across the spectrum to adopt new and emerging technologies. The global banking sector has been at..",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest/91959600",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest/91959600",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-91959600,imgsize-47826,width-1200,height-628,overlay-etcio/metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest/91959600",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest/91959600",
+      "publishedDateTime": "2022-06-02T02:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-uvalde-shooting-was-one-more-blow-to-parents-hopes-that-they-can-control-kids-lives.md",
+      "title": "Uvalde shooting was one more blow to parents’ hopes that they can control kids’ lives",
+      "excerpt": "As funerals for the Uvalde school shooting victims continue, we are reminded that the loss of a child is a parent’s worst nightmare. Parents live every day, whether they realize it or not, with that possibility.",
+      "sourceUrl": null,
+      "webUrl": "https://www.star-telegram.com/opinion/nicole-russell/article262038882.html",
+      "originalUrl": "https://www.star-telegram.com/opinion/nicole-russell/article262038882.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-02T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fort Worth Star-Telegram",
+        "domain": "star-telegram.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-02-a-fresh-start-for-a-walk-in-the-park.md",
       "title": "A Fresh Start for a Walk in the Park",
       "excerpt": "The Frederik Meijer Gardens & Sculpture Park had a human face long before it received its new welcome center. Send any friend a story As a subscriber, you have 10 gift articles to give each month. Anyone can read what you share.",
@@ -982,127 +1111,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-artificial-intelligence-in-platform-as-a-service-market-to-eyewitness-massive-growth-by-key-players-rainbird-ai-azure-wipro.md",
-      "title": "Artificial Intelligence in Platform as a Service Market to Eyewitness Massive Growth by key players Rainbird AI, Azure, Wipro",
-      "excerpt": "Ample Market Research published a new research report Artificial Intelligence in Platform as a Service (PaaS) market contains a clear arrangement of the declared information as pie charts, follows, the line follows,",
-      "sourceUrl": null,
-      "webUrl": "https://xaralite.com/373750/news/artificial-intelligence-in-platform-as-a-service-market-to-eyewitness-massive-growth-by-key-players-rainbird-ai-azure-wipro/",
-      "originalUrl": "https://xaralite.com/373750/news/artificial-intelligence-in-platform-as-a-service-market-to-eyewitness-massive-growth-by-key-players-rainbird-ai-azure-wipro/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "xaralite.com",
-        "domain": "xaralite.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-business-travelers-face-higher-prices-and-packed-flights-hotels.md",
-      "title": "Business travelers face higher prices, and packed flights, hotels",
-      "excerpt": "After a pandemic freeze, business travel is coming back, but upgrades to premium airline seats and hotel rooms are harder to come by and amenities have been scaled back.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/business/business-news/business-travel-returns-high-prices-packed-flights-hotels-rcna29089",
-      "originalUrl": "https://www.nbcnews.com/business/business-news/business-travel-returns-high-prices-packed-flights-hotels-rcna29089",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-03/220323-newark-liberty-intl-travelers-2021-ac-631p-857e75.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna29089",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna29089",
-      "publishedDateTime": "2022-06-01T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-azure-active-directory-logs-are-lagging-alerts-may-be-wrong-or-missing.md",
-      "title": "Azure Active Directory logs are lagging, alerts may be wrong or missing",
-      "excerpt": "\"Customers using Azure Active Directory and other downstream impacted services may experience a significant delay in availability of logging data for resources,\" the Azure status page explains. Tools including Azure Portal,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/06/01/azure_ad_logging_problem/",
-      "originalUrl": "https://www.theregister.com/2022/06/01/azure_ad_logging_problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2021/05/25/azure.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/06/01/azure_ad_logging_problem/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/06/01/azure_ad_logging_problem/",
-      "publishedDateTime": "2022-06-01T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

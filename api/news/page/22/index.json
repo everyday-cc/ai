@@ -2,6 +2,136 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2022-08-27-artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system.md",
+      "title": "Artificial Intelligence: Path-breaking revolution in Indian Healthcare System",
+      "excerpt": "In the form of machine learning, AI has the capability for the development of precision medicine, which is the future of advanced care. Although early..",
+      "sourceUrl": null,
+      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system/93813886",
+      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system/93813886",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-93813886,imgsize-159690,width-1200,height-628,overlay-ethealthworld/artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system/93813886",
+      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system/93813886",
+      "publishedDateTime": "2022-08-27T00:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-27-no-hints-of-cognitive-defects-with-arnis-in-hfpef-perspective.md",
+      "title": "No Hints of Cognitive Defects With ARNIs in HFpEF: PERSPECTIVE",
+      "excerpt": "BARCELONA, Spain—(UPDATED) There are no signs that sacubitril/valsartan (Entresto; Novartis) has any negative impact on cognitive function in people who have heart failure with preserved ejection fraction (HFpEF), at least over a 3-year period ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tctmd.com/news/no-hints-cognitive-defects-arnis-hfpef-perspective",
+      "originalUrl": "https://www.tctmd.com/news/no-hints-cognitive-defects-arnis-hfpef-perspective",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d18mqtxkrsjgmh.cloudfront.net/public/2022-08/No%20Hints%20of%20Cognitive%20Defects%20With%20ARNIs%20in%20HFpEF.jpg",
+          "width": 1207,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-27T00:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TCTMD",
+        "domain": "tctmd.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-27-who-will-establish-metaverse-ethics.md",
+      "title": "Who will establish metaverse ethics?",
+      "excerpt": "The metaverse is not a new concept. The term was coined by science fiction novelist Neal Stephenson in his 1992 book Snow Crash, which depicts a hyper-capitalist dystopia in which humanity has collectively opted into life in virtual environments.",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202208/27/WS6309699da310fd2b29e74891.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202208/27/WS6309699da310fd2b29e74891.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img2.chinadaily.com.cn/images/202208/27/6309699da310fd2bec9e80fb.jpeg",
+          "width": 428,
+          "height": 285,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-26T20:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-27-fintech-and-msmes-are-together-changing-the-face-of-digitalisation.md",
       "title": "Fintech and MSMEs are together changing the face of digitalisation",
       "excerpt": "Fintech companies are betting on the power of AI, machine learning, and big data to drive growth and innovation in the MSME sector. The fintech space has witnessed enormous success in the Asia ...",
@@ -1036,153 +1166,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-deep-learning-market-report-2022-swot-analysis-and-analysis-of-macro-economic-and-micro-economic-factors.md",
-      "title": "Deep Learning Market Report 2022 – SWOT Analysis and analysis of macro-economic and micro-economic factors.",
-      "excerpt": "The report titled Deep Learning Market which was recently added by Kenneth Research, aims at providing the clients with",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-report-2022-swot-analysis-and-analysis-of-macro-economic-and-micro-economic-factors-2022-08-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-report-2022-swot-analysis-and-analysis-of-macro-economic-and-micro-economic-factors-2022-08-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-26T02:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-artificial-intelligence-supply-chain-market-worldwide-demand-development-growth-and-business-attractions-2028-ibm-microsoft-google-amazon.md",
-      "title": "Artificial Intelligence Supply Chain Market Worldwide Demand, Development Growth and Business Attractions 2028 | IBM, Microsoft, Google, Amazon",
-      "excerpt": "The Artificial Intelligence Supply Chain report offers in-depth assessment of the growth and other aspects of the Artificial Intelligence Supply Chain market in important regions. Key regions covered in the report are North America,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-supply-chain-market-worldwide-demand-development-growth-and-business-attractions-2028-ibm-microsoft-google-amazon-2022-08-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-supply-chain-market-worldwide-demand-development-growth-and-business-attractions-2028-ibm-microsoft-google-amazon-2022-08-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-26T01:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-planned-fixes-for-credit-card-interchange-fees-will-actually-make-fraud-easier.md",
-      "title": "Planned ‘fixes’ for credit-card interchange fees will actually make fraud easier",
-      "excerpt": "The US Federal Reserve and the US Senate are both looking to lessen restrictions on retailers — ostensibly to rein in card fees. What they actually are doing is inviting more fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3671128/as-feds-eye-fixes-for-credit-card-interchanges-are-they-making-fraud-easier.html",
-      "originalUrl": "https://www.computerworld.com/article/3671128/as-feds-eye-fixes-for-credit-card-interchanges-are-they-making-fraud-easier.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/08/currency_symbols_within_an_abstract_spiral_framework_fintech_money_finance_budget_profit_loss_revenue_expense_funding_by_metamorworks_gettyimages-913629678_cio_cw_2400x1600-100854947-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3671128/as-feds-eye-fixes-for-credit-card-interchanges-are-they-making-fraud-easier.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3671128/as-feds-eye-fixes-for-credit-card-interchanges-are-they-making-fraud-easier.amp.html",
-      "publishedDateTime": "2022-08-26T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

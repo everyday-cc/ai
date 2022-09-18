@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-08-22-tesla-raising-price-of-full-self-driving-feature-to-15000-next-month.md",
+      "title": "Tesla raising price of ‘Full Self-Driving’ feature to $15,000 next month",
+      "excerpt": "Elon Musk on Sunday announced the price of Tesla Inc.'s \"Full Self-Driving\" feature will rise by 25% next month, to from $12,000 to $15,000.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442?mod=mw_latestnews",
+      "originalUrl": "https://www.marketwatch.com/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442?mod=mw_latestnews",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 393,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-528682/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442",
+      "publishedDateTime": "2022-08-21T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-21-people-are-now-testing-teslas-full-self-driving-on-real-kids.md",
       "title": "People are now testing Tesla's 'full self-driving' on real kids",
       "excerpt": "The North Carolina resident set out to refute a widely circulated video of a Tesla with the company's \"full self-driving\" beta software -- which allows the car to steer, brake and accelerate ...",
@@ -1290,58 +1342,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2022/08/17/whats-happening-with-baidu-stock/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2022/08/17/whats-happening-with-baidu-stock/amp/",
       "publishedDateTime": "2022-08-17T05:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-the-journey-to-cx-personalization-building-on-a-foundation-of-intelligent-automation.md",
-      "title": "The Journey To CX Personalization: Building On A Foundation Of Intelligent Automation",
-      "excerpt": "Global marketing leader at HGS, CX professional, product promoter, outsourcing innovation fan – with a focus on what’s next. Personalization is a key aspect of providing a tailored customer experience (CX),",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/08/17/the-journey-to-cx-personalization-building-on-a-foundation-of-intelligent-automation/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/08/17/the-journey-to-cx-personalization-building-on-a-foundation-of-intelligent-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61f030570018a072dc46d1ec/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/08/17/the-journey-to-cx-personalization-building-on-a-foundation-of-intelligent-automation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/08/17/the-journey-to-cx-personalization-building-on-a-foundation-of-intelligent-automation/amp/",
-      "publishedDateTime": "2022-08-17T04:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

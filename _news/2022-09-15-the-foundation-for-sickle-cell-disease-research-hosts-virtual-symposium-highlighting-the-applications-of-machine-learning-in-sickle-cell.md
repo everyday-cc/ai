@@ -49,17 +49,6 @@ related:
         width: 287
         height: 249
         isCached: true
-  - title: "5G In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application, By End-use, By Region And Segment Forecasts, 2022 - 2030"
-    excerpt: "Reportlinker.com announces the release of the report \"5G In Healthcare Market Size, Share & Trends Analysis Report By Component, By Application, By End-use, By"
-    publishedDateTime: 2022-09-13T16:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28852772/5g-in-healthcare-market-size-share-trends-analysis-report-by-component-by-application-by-end-use-b"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28852772"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28852772"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 1
   - title: "Cloud Advertising Market Research Report 2022 Growth, Recent Trends And Forecast To 2026 – Adobe, Oracle, Salesforce, Google, IBM"
     excerpt: "SAP (Germany), Acquia (US), Demandbase (US), Experian (US), Kubient (US), FICO (US), HubSpot (US), Imagine Communications (US), InMobi (India), Marin"
     publishedDateTime: 2022-09-14T20:10:00Z
