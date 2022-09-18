@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdnph.upi.com/sv/ph/og/upi_com/5461659020007/2022/1/23f1f939864c36e98c6d7e79d0162a50/v1.5/Facial-recognition-may-reveal-Maine-harbor-seal-lifestyles.jpg"

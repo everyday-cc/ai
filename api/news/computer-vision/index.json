@@ -217,7 +217,7 @@
       "originalUrl": "https://www.govtech.com/education/higher-ed/university-of-maryland-prof-urges-pause-on-facial-recognition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -645,7 +645,8 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {

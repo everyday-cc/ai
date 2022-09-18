@@ -2,6 +2,49 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2022-07-18-conversational-systems-market-with-tremendous-growth-by-2029-google-cognitive-scale-ibm.md",
+      "title": "Conversational Systems Market with Tremendous growth by 2029 Google, Cognitive Scale, IBM",
+      "excerpt": "This growth can be attributed to the growing demand for artificial intelligence (AI)-based customer support services ... Google, Cognitive Scale, IBM, Hewlett Packard, Microsoft, Oracle, Nuance ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/conversational-systems-market-with-tremendous-growth-by-2029-google-cognitive-scale-ibm",
+      "originalUrl": "https://www.digitaljournal.com/pr/conversational-systems-market-with-tremendous-growth-by-2029-google-cognitive-scale-ibm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/6e04d9a5ed4a928ffe1ba6550cca9746849a3076-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-18T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-three-ways-ai-ifying-your-organization-can-reap-tremendous-results.md",
       "title": "Three ways AI-ifying your organization can reap tremendous results",
       "excerpt": "AI offers a host of possibilities, and successful execution can lead traditional enterprises into a new era of digital transformation.",
@@ -1063,58 +1106,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-how-to-make-the-most-of-your-aiml-investments-start-with-your-data-infrastructure.md",
-      "title": "How to make the most of your AI/ML investments: Start with your data infrastructure",
-      "excerpt": "A successful AI/ML program doesn’t start with a big team of data scientists. It starts with strong data infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/17/how-to-make-the-most-of-your-ai-ml-investments-start-with-your-data-infrastructure/",
-      "originalUrl": "https://venturebeat.com/2022/07/17/how-to-make-the-most-of-your-ai-ml-investments-start-with-your-data-infrastructure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1294874384.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/17/how-to-make-the-most-of-your-ai-ml-investments-start-with-your-data-infrastructure/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/17/how-to-make-the-most-of-your-ai-ml-investments-start-with-your-data-infrastructure/amp/",
-      "publishedDateTime": "2022-07-17T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

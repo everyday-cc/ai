@@ -2,6 +2,57 @@
   "page": 160,
   "value": [
     {
+      "path": "_news/2022-05-13-leave-it-to-the-robots-what-the-jetsons-got-right-about-ai.md",
+      "title": "Leave It To The Robots: What The Jetsons Got Right About AI",
+      "excerpt": "While the show exaggerated futuristic technology, it can help us think about the real role AI can and should play in the workforce.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/leave-it-to-the-robots-what-the-jetsons-got-right-about-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/leave-it-to-the-robots-what-the-jetsons-got-right-about-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5ee90f75a2b06400077bbb41/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/leave-it-to-the-robots-what-the-jetsons-got-right-about-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/13/leave-it-to-the-robots-what-the-jetsons-got-right-about-ai/amp/",
+      "publishedDateTime": "2022-05-13T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-13-dubai-students-invent-robot-that-can-disarm-explosives-in-war-zones.md",
       "title": "Dubai students invent robot that can disarm explosives in war zones",
       "excerpt": "A group of university students in the UAE have developed an autonomous robotic device that can disarm explosives. Students from Canadian University Dubai (CUD) have developed a high-tech, safe, and cost-effective solution to neutralize hazardous environments.",
@@ -1104,49 +1155,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-idc-analysis-ibm-providing-ai-solutions-to-government.md",
-      "title": "IDC Analysis: IBM Providing AI Solutions to Government",
-      "excerpt": "As technology continues to modernize society, some government agencies are struggling to efficiently connect citizens to the services they need. The COVID-19 pandemic has exacerbated this challenge, resulting in agencies turning to emerging data and artificial intelligence (AI) technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www3.technologyevaluation.com/publications/idc-analysis-ibm-providing-ai-solutions-to-government-58883",
-      "originalUrl": "https://www3.technologyevaluation.com/publications/idc-analysis-ibm-providing-ai-solutions-to-government-58883",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://technologyevaluation.azureedge.net/getattachment/ba6918b9-c3b7-50d0-bdf3-44bc0cd296e9/IDC-Analysis-IBM-Providing-AI-Solutions-to-Government-1-221626.jpg?source=tw2&ext=.jpg",
-          "width": 270,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TEC",
-        "domain": "technologyevaluation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

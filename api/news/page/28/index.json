@@ -2,6 +2,58 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2022-08-23-deep-learning-market-2022-2027-industry-growth-report-top-companies-share-size-and-forecast.md",
+      "title": "Deep Learning Market 2022-2027: Industry Growth Report, Top Companies Share, Size, and Forecast",
+      "excerpt": "According to the latest report by IMARC Group, titled \"Deep Learning Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022- 2027,\" the global deep learning market reached a value of US$ 12 Billion in 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2022-2027-industry-growth-report-top-companies-share-size-and-forecast-2022-08-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2022-2027-industry-growth-report-top-companies-share-size-and-forecast-2022-08-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T02:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-23-bosch-backed-self-driving-startup-weride-weighing-ipo-sources-say.md",
       "title": "Bosch-backed self-driving startup WeRide weighing IPO, sources say",
       "excerpt": "The self-driving vehicle industry has long been divided over the best ... taking a similar approach to peers including Baidu, Huawei Technologies, and General Motors-backed Momenta.ai. BLOOMBERG",
@@ -1085,57 +1137,6 @@
         "name": "Nasdaq",
         "domain": "nasdaq.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-honeywell-shrinks-the-industrial-skills-gap-with-ai.md",
-      "title": "Honeywell Shrinks The Industrial Skills Gap With AI",
-      "excerpt": "Massive labor shortages will require companies to rethink how technology can help their clients thrive in such an untenable position.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/maribellopez/2022/08/22/honeywell-shrinks-the-industrial-skills-gap-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/maribellopez/2022/08/22/honeywell-shrinks-the-industrial-skills-gap-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63027314dced4a5c05f3e7ef/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/maribellopez/2022/08/22/honeywell-shrinks-the-industrial-skills-gap-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2022/08/22/honeywell-shrinks-the-industrial-skills-gap-with-ai/amp/",
-      "publishedDateTime": "2022-08-22T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

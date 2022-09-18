@@ -2,6 +2,57 @@
   "page": 143,
   "value": [
     {
+      "path": "_news/2022-05-27-meta-and-googles-gradient-back-latam-startup-olaclick.md",
+      "title": "Meta and Google’s Gradient back LatAm startup OlaClick",
+      "excerpt": "Over 80% of food delivery orders in Latin America are still made over phone calls and settled with cash. OlaClick, a young startup that is helping these restaurants sell online and collect money digitally,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/26/meta-and-google-gradient-invest-latam-startup-olaclick/",
+      "originalUrl": "https://techcrunch.com/2022/05/26/meta-and-google-gradient-invest-latam-startup-olaclick/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/Copia-de-TODOS-FUNDADORES-2021.jpeg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/26/meta-and-google-gradient-invest-latam-startup-olaclick/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/26/meta-and-google-gradient-invest-latam-startup-olaclick/amp/",
+      "publishedDateTime": "2022-05-26T14:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-27-the-dmv-said-it-would-investigate-tesla-over-self-driving-claims-then-crickets.md",
       "title": "The DMV said it would investigate Tesla over self-driving claims. Then, crickets",
       "excerpt": "Why doesn't the DMV have anything to say about its investigation of Tesla's autonomous driving claims after a full year? The agency isn't talking, and lawmakers are getting impatient.",
@@ -1044,49 +1095,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-facial-recognition-technology-not-about-mass-surveillance-mcentee.md",
-      "title": "Facial recognition technology 'not about mass surveillance' - McEntee",
-      "excerpt": "The Minister for Justice has said the introduction of legislation to enable gardaí to use facial recognition technology (FRT) in criminal investigations \"is not about mass surveillance\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.rte.ie/news/crime/2022/0524/1300983-facial-recognition-ireland/",
-      "originalUrl": "https://www.rte.ie/news/crime/2022/0524/1300983-facial-recognition-ireland/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.rasset.ie/001bca3b-1600.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T05:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RTE Online",
-        "domain": "www.rte.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

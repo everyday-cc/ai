@@ -2,6 +2,40 @@
   "page": 89,
   "value": [
     {
+      "path": "_news/2022-07-05-deep-longevity-announces-important-operational-update.md",
+      "title": "Deep Longevity Announces Important Operational Update",
+      "excerpt": "Deep Longevity is committed to building and commercialising various aging clocks using artificial intelligence (\"AI\") led deep learning models. The company is applying special focus to the MindAge© offering as it seek to tap into the robust demand seen in the virtual mental health care market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-deep-longevity-announces-important-operational-update-/2022/07/05/9633726.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-deep-longevity-announces-important-operational-update-/2022/07/05/9633726.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-05-remote-controlled-robotic-toys-market-research-report-analysis-by-competition-sales-revenue-market-size-2022-to-2028.md",
       "title": "Remote Controlled Robotic Toys Market Research Report Analysis by Competition, Sales, Revenue, Market Size 2022 to 2028",
       "excerpt": "In this report, the local evaluation phase reveals the substantial capability of every region in the \" Remote Controlled Robotic Toys market \" collectively with its period 2022 - 2028 and amount. The segmentation analysis includes a descriptive assessment of the segments,",
@@ -1064,39 +1098,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-03-this-saas-startup-is-breaking-language-barriers-by-dubbing-video-content-in-real-time.md",
-      "title": "This SaaS startup is breaking language barriers by dubbing video content in real-time",
-      "excerpt": "Amid 'great layoffs', SaaS startups set off on a hiring spree The Artificial Intelligence (AI)-powered SaaS startup currently converts audio from English to over 30 languages, including Hindi ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2022/07/dubverse-saas-startup-breaking-language-barriers-ai/amp",
-      "originalUrl": "https://yourstory.com/2022/07/dubverse-saas-startup-breaking-language-barriers-ai/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-02T23:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

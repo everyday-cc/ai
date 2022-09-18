@@ -55,20 +55,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "A University of Maryland professor wants to expose the hidden bias in AI, and then use it for good"
-    excerpt: "Lauren Rhue researches the fast-paced world of artificial intelligence and machine learning technology. But she wants everyone in it to slow down."
-    publishedDateTime: 2022-09-13T09:00:00Z
-    webUrl: "https://www.baltimoresun.com/features/newsmaker/bs-fe-newsmaker-professor-facial-recognition-20220913-yvrvsnb2kngu3b4rza7k6qaugy-story.html"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 25
-    images:
-      - url: "https://www.baltimoresun.com/resizer//VDWyxdT2eZg5cSG8sFpSFc-hXEQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/U7TO26NTY5CEZJANEIRMTJZEYQ.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "j1guPoNdK4wkWR0vGsdpuS4vY4NqPpZRNxy3Erddun/WkoUbxL5sdEguctlxAP1jMleWhHvHaXmtjPj4dQDdaouk0Ht1mM8K7sPGbe6l89FZodVXUME10fCK4x41WHhi70f1+R0CTE2OMi7rxnpFnDNpFjPLya8KMmAr1g+2fK0/fJIGihCBflMFVe3KFxk3eOsNjtdRsYUM3Z9M0pzfIsB70X7TFmnDBDXe5XrmBGqpnxM/z/2KGkyToOcjMfP2kbOVbyE5uorAKJaEyiI63SWByB8oP158Q9tYJC5ty0F38y9gOhVF38pKBxxuEol4GYCet3fxm4teLp6/x0Fl4GAbkht+8HcZE5Tu+9RbjDx8PxdWhmjzMTIsYYX7sJAk0NeAN1H24BoZeAPlEi0iO17w0I9I+XC//iMTjKoartlTCwZd2bD9DwSdXhKWhCcImxDV8oXNlla1DC+YNXb3H4hGEqegm29Wf9lT6Rfv7EoN6BJ7CqcZ6H2AFgVGZz0GQJ3qCgOUeX1Zq90HeW66kA==;ge9cbth4W1NuJWr3TyKZRQ=="
 ---

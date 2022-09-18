@@ -2,6 +2,50 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-09-01-gnrh-therapy-could-improve-cognitive-deficits-in-men-with-down-syndrome.md",
+      "title": "GnRH therapy could improve cognitive deficits in men with Down syndrome",
+      "excerpt": "Gonadotropin-releasing hormone (GnRH) therapy improves cognitive function in Down syndrome (DS) mouse models and male patients with DS, according to a new study. The findings reveal a previously u ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220901/GnRH-therapy-could-improve-cognitive-deficits-in-men-with-Down-syndrome.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220901/GnRH-therapy-could-improve-cognitive-deficits-in-men-with-Down-syndrome.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/2/Alzheimers_amyloid_plaque_-_Juan_Gaertner_9638f1223d534b518a192c8478871d65-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20220901/GnRH-therapy-could-improve-cognitive-deficits-in-men-with-Down-syndrome.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220901/GnRH-therapy-could-improve-cognitive-deficits-in-men-with-Down-syndrome.aspx",
+      "publishedDateTime": "2022-08-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-how-to-use-ml-and-ai-in-the-fintech-industry.md",
       "title": "How to Use ML and AI in the Fintech Industry?",
       "excerpt": "Driving innovations in certain industries, such as Fintech, AI, and ML, are particularly instrumental. Almost all industry statistics refer to the stupendous growth of AI-powered Fintech solutions ...",
@@ -1050,59 +1094,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-mi5-reveals-it-has-been-working-with-an-ai-non-profit-on-national-security-since-2017.md",
-      "title": "MI5 reveals it has been working with an AI non-profit on national security since 2017",
-      "excerpt": "The security service has been working with The Alan Turing Institute and has decided to unveil the partnership today to allow the pair to work more closely together",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368922/mi5-reveals-it-has-been-working-with-an-ai-non-profit-national-security-2017",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368922/mi5-reveals-it-has-been-working-with-an-ai-non-profit-national-security-2017",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1661941040/itpro/2022/August/MI5_HQ_Thames_House_London_spy_GettyImages-182911822.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-31T03:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

@@ -2,6 +2,40 @@
   "page": 119,
   "value": [
     {
+      "path": "_news/2022-06-14-head-to-head-comparison-tenet-fintech-group-otcmktspkkff-versus-c3ai-nyseai.md",
+      "title": "Head-To-Head Comparison: Tenet Fintech Group (OTCMKTS:PKKFF) versus C3.ai (NYSE:AI)",
+      "excerpt": "C3.ai has a beta of 0.64, indicating that its stock price is 36% less volatile than the S&P 500. Comparatively, Tenet Fintech Group has a beta of 3.29, indicating that its stock price is 229% more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.etfdailynews.com/2022/06/13/head-to-head-comparison-tenet-fintech-group-otcmktspkkff-versus-c3-ai-nyseai/",
+      "originalUrl": "https://www.etfdailynews.com/2022/06/13/head-to-head-comparison-tenet-fintech-group-otcmktspkkff-versus-c3-ai-nyseai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.etfdailynews.com/2022/06/13/head-to-head-comparison-tenet-fintech-group-otcmktspkkff-versus-c3-ai-nyseai/amp/",
+      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/06/13/head-to-head-comparison-tenet-fintech-group-otcmktspkkff-versus-c3-ai-nyseai/amp/",
+      "publishedDateTime": "2022-06-13T15:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ETF Daily News",
+        "domain": "etfdailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-no-googles-ai-is-not-sentient.md",
       "title": "No, Google’s AI is not sentient",
       "excerpt": "Gebru was ousted after internal scuffles, including one related to a research paper the company’s AI leadership told her to retract from consideration for presentation at a conference ...",
@@ -1117,57 +1151,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-a-google-employee-thinks-the-company-created-a-sentient-ai.md",
-      "title": "A Google Employee Thinks the Company Created a Sentient AI",
-      "excerpt": "However, Google disagrees and has placed Blake Lemoine on paid administrative leave after he decided to go public with his claims in a bid to force a more thorough investigation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/a-google-employee-thinks-the-company-created-a-sentient-ai",
-      "originalUrl": "https://www.pcmag.com/news/a-google-employee-thinks-the-company-created-a-sentient-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 227,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/060EJLOCUn45uWRK7RKrEbN-1.fit_lim.size_1200x630.v1655126966.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/a-google-employee-thinks-the-company-created-a-sentient-ai?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/a-google-employee-thinks-the-company-created-a-sentient-ai?amp=true",
-      "publishedDateTime": "2022-06-13T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

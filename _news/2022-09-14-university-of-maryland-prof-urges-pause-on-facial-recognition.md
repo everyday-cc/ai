@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/education/higher-ed/university-of-maryland-p
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/university-of-maryland-prof-urges-pause-on-facial-recognition?_amp=true"
 type: article
 quality: 61
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://cdn.nextgov.com/media/img/cd/2022/09/13/091322_getty_fcw_markey_wyden-1/open-graph.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "A University of Maryland professor wants to expose the hidden bias in AI, and then use it for good"
-    excerpt: "Lauren Rhue researches the fast-paced world of artificial intelligence and machine learning technology. But she wants everyone in it to slow down."
-    publishedDateTime: 2022-09-13T09:00:00Z
-    webUrl: "https://www.baltimoresun.com/features/newsmaker/bs-fe-newsmaker-professor-facial-recognition-20220913-yvrvsnb2kngu3b4rza7k6qaugy-story.html"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 25
-    images:
-      - url: "https://www.baltimoresun.com/resizer//VDWyxdT2eZg5cSG8sFpSFc-hXEQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/U7TO26NTY5CEZJANEIRMTJZEYQ.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "r6OCbAziBx8psER1O8a8aMads4BvnYB4FBd9HILeKnOhS7TVn4Ykuxa2tKgg6VR9E08B/JnoVlCrPlRz9zKpaSaGzHIN8M7lgLVRKDhs9oQ57unFiCuhpN+kPgxVVDeEVH6A9hG50K8x1OQA7+64l9TV608YnzEqaTdX/gF3ejsHUTN3H9lUnMuUfk6gwMJcxfkmji8oa1Dm3c8dt7wzgBt6OLRj6O4jerUB0Hu1M3NaVmWrJMNbJpCFAfXGKy6BG66qWnqqigrDc/IdfByPgZFOl0DUGddKIHYiAsHFq6FUsdeike6Tr0NwZm1imjNbiDqrV+6koVKbILG6Az+HdhLPnOefI4S66OvU+rUMbJXxNsAr6eJujaiZEet9Ke8KVDK+HXKmdXtN37I0hJt7TOr4SK/EohsNWZQlFFR4KDqKRyNuL6S8Oi3+vrV5woDrlkJ4k7TosM29Zt4sA30IEncu/R+7E9WytLqk5vJ84qPTADj0nyZhNY22DwmQwZMM7vt0bW/R+8ESz1Ns+fPzmQ==;gDYGrQYI6POiFHFyV5sJ6w=="

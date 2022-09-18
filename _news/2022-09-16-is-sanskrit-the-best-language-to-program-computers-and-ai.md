@@ -1,15 +1,15 @@
 ---
 category: news
-title: "Sanskrit as the perfect language for AI coding: Myth versus reality"
+title: "Is Sanskrit the best language to program computers and AI?"
 excerpt: "Indian government officials, a motley bunch of academics and Indian-American author Rajiv Malhotra, who goes on to claim that Sanskrit should be credited with the last 20 years of development in Natural Language Processing (NLP),"
-publishedDateTime: 2022-09-15T16:32:00Z
+publishedDateTime: 2022-09-16T14:54:00Z
 originalUrl: "https://www.livemint.com/opinion/columns/sanskrit-as-the-perfect-language-for-ai-coding-myth-versus-reality-11663259277782.html"
 webUrl: "https://www.livemint.com/opinion/columns/sanskrit-as-the-perfect-language-for-ai-coding-myth-versus-reality-11663259277782.html"
 ampWebUrl: "https://www.livemint.com/opinion/columns/sanskrit-as-the-perfect-language-for-ai-coding-myth-versus-reality/amp-11663259277782.html"
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/sanskrit-as-the-perfect-language-for-ai-coding-myth-versus-reality/amp-11663259277782.html"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,9 +27,9 @@ images:
     isCached: true
 
 related:
-  - title: "Is Sanskrit the best language to program computers and AI?"
+  - title: "Sanskrit as the perfect language for AI coding: Myth versus reality"
     excerpt: "Indian government officials, a motley bunch of academics and Indian-American author Rajiv Malhotra, who goes on to claim that Sanskrit should be credited with the last 20 years of development in Natural Language Processing (NLP),"
-    publishedDateTime: 2022-09-16T14:54:00Z
+    publishedDateTime: 2022-09-15T16:32:00Z
     webUrl: "https://www.livemint.com/opinion/columns/sanskrit-as-the-perfect-language-for-ai-coding-myth-versus-reality-11663259277782.html"
     ampWebUrl: "https://www.livemint.com/opinion/columns/sanskrit-as-the-perfect-language-for-ai-coding-myth-versus-reality/amp-11663259277782.html"
     cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/sanskrit-as-the-perfect-language-for-ai-coding-myth-versus-reality/amp-11663259277782.html"
@@ -44,6 +44,6 @@ related:
         height: 338
         isCached: true
 
-secured: "93CIAQTCW+6yB0jdqtY1NmtqirX5TyrZx/vMkfhcxrM3DG81jUxbSjCH60epjr/FGPvJdEC0jX5Yxr52OYIfu0URbEeRoe8n51rZ/JKE8lPT/Ubq6KX/auYrsIEk6lCH2622zdLFr6qQxVFmXRhpJ8YWP4nMKt9PGGX9+kg+AgSUcG8/7uiBTSmi8szy3wZIQsmhbNDJGfaZHXS6KxDAC9ChzOXux6m5cb2kehY4F/rAD15qSEiRK2cK8w55bAhrUA+Agth5lEmxgTegZhcPzwga7cRahEtoOnc1T3knYa/uBREcCP9TOsO0nSUDX6CUIBmFKVcMLT08cX44lzdvylNVkJaHqDr7Kg0/8SuTunWq3dxRE0vy2AbfIk6LdGbV5/zb/02OFrWUnWUhr6+/KyrdGh/SUlkQIwRi0nWnVXOXVUGCFzoxwSXphexc5fTABJiPK2BMNqi1OAH9EQgiJrBjM9OOL7s09j+XLMUbgUr2lfrZw/7lUQw/af50+FqsgrjHCJ1dd9+UX8HHwHb8mw==;og72PAIpxzCRY7H9wR/WXQ=="
+secured: "Y4uON4ySdEqoYHC1MzHFA20Is04twDCOthmup86/JXUFEQy7XVGwR36fjw2NJsnknpnqA0VfnNmis/Eaw52MpEVGQlCk4Cxi7MLgsPEKzH05e4cJbDcLXI5l0WsnZ1LDrCwEs3C4PvR/ItXSLBxn20ocUyIL6qKbt/FZMl6Fk+LsICbQJ+odB5ppKYQ9J/h7btFZ8MaHWB6Pmxpf8CSERMwqINRu+eB4Dl/ubZt3L9Ttu1OrUuJomnHmHm4488dgpU4SScI/2WLPm1/0Ie7PngDSC7jJzkOFpr8fpMOcURlLrwpv7yriRwz4Tv/uhKbHvSkA2kAE/HH1KvM49HFaZgrm+0zbk7r/oSYdBUKPMx4=;3cCcZwa/Ky/W2LQ4glhu+w=="
 ---
 
