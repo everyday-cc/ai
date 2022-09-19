@@ -2,49 +2,6 @@
   "page": 113,
   "value": [
     {
-      "path": "_news/2022-06-17-in-perspective-ai-and-the-red-herring-of-chasing-sentience.md",
-      "title": "In Perspective | AI and the red herring of chasing sentience",
-      "excerpt": "Artificial neural networks in the other hand, have a predefined model, where no further neurons or connections can be added or removed. Only the weights of the connections (and biases representing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/opinion/in-perspective-ai-and-the-red-herring-of-chasing-sentience-101655468723758.html",
-      "originalUrl": "https://www.hindustantimes.com/opinion/in-perspective-ai-and-the-red-herring-of-chasing-sentience-101655468723758.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2022/06/17/1600x900/3e86f56c-ee38-11ec-816d-25a8f4149995_1655468722716.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/opinion/in-perspective-ai-and-the-red-herring-of-chasing-sentience-101655468723758-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/opinion/in-perspective-ai-and-the-red-herring-of-chasing-sentience-101655468723758-amp.html",
-      "publishedDateTime": "2022-06-17T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-17-microsofts-masterclass-explains-key-ai-concepts-and-using-innovative-ai-solutions-effectively-to-power-growth.md",
       "title": "Microsoft’s masterclass explains key AI concepts and using innovative AI solutions effectively to power growth",
       "excerpt": "Whether it's to leverage pre-built models, build custom models with code-first or code-free experiences, or do advanced machine learning, Azure is a great place to get started with AI. Microsoft ...",
@@ -1130,6 +1087,39 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-privacy-bill-sets-out-rules-on-use-of-personal-data-artificial-intelligence.md",
+      "title": "Privacy bill sets out rules on use of personal data, artificial intelligence",
+      "excerpt": "The federal Liberals introduced privacy legislation on Thursday to give Canadians more control over how their personal data is used by commercial entities, impose fines for non-compliant organizations",
+      "sourceUrl": null,
+      "webUrl": "https://www.lakelandtoday.ca/national-news/privacy-bill-sets-out-rules-on-use-of-personal-data-artificial-intelligence-5484614",
+      "originalUrl": "https://www.lakelandtoday.ca/national-news/privacy-bill-sets-out-rules-on-use-of-personal-data-artificial-intelligence-5484614",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T14:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "lakelandtoday",
+        "domain": "lakelandtoday.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

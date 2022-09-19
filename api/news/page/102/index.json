@@ -2,40 +2,6 @@
   "page": 102,
   "value": [
     {
-      "path": "_news/2022-06-26-best-speech-recognition-software-for-windows-10.md",
-      "title": "Best Speech Recognition software for Windows 10",
-      "excerpt": "Speech Recognition software is clearly a glimpse into the future. They are programs that use your voice to understand what you want, turn into the readable material and search a device for it when ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thewindowsclub.com/speech-recognition-software-windows",
-      "originalUrl": "https://www.thewindowsclub.com/speech-recognition-software-windows",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TWCN Tech News",
-        "domain": "thewindowsclub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-26-dogs-mentally-understand-how-much-we-love-them-canine-cognition-expert-assures.md",
       "title": "Dogs Mentally Understand How Much We Love Them, Canine Cognition Expert Assures",
       "excerpt": "He has recently teamed up with Purina Pro Plan Bright Mind, a dog food dedicated to improving your pet’s cognitive function, to help owners figure out what’s really going on in their dog’s ...",
@@ -1133,6 +1099,58 @@
         "Microsoft AI",
         "AI",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-robots-become-racist-and-sexist-bigots-due-to-flawed-ai-study-says.md",
+      "title": "Robots Become Racist and Sexist Bigots Due to Flawed AI, Study Says",
+      "excerpt": "This is according to an international study conducted by a number of universities, including Johns Hopkins University, which said in a statement obtained by Zenger News on Tuesday: \"A robot operating with a popular Internet-based artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/robots-become-racist-sexist-bigots-due-flawed-ai-study-says-1718989",
+      "originalUrl": "https://www.newsweek.com/robots-become-racist-sexist-bigots-due-flawed-ai-study-says-1718989",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2065423/robot-ai-research.jpg",
+          "width": 2000,
+          "height": 1718,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/robots-become-racist-sexist-bigots-due-flawed-ai-study-says-1718989?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/robots-become-racist-sexist-bigots-due-flawed-ai-study-says-1718989?amp=1",
+      "publishedDateTime": "2022-06-24T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

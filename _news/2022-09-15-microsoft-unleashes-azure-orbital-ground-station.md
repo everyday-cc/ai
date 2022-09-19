@@ -29,19 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft shares what's next in machine learning at NVIDIA GTC"
-    excerpt: "Finding scalable solutions for today’s global challenges requires forward-thinking, transformative tools. As environmental, economic, and public health concerns mount, Microsoft Azure is addressing these challenges head on with high-performance computing (HPC), AI, and machine learning. "
-    publishedDateTime: 2022-09-14T09:00:24Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-shares-whats-next-in-machine-learning-at-nvidia-gtc/"
+  - title: "Soroco ScoutTM Now Available in Microsoft Azure Marketplace"
+    excerpt: "Soroco, the world’s first work graph company, today announced the availability of Soroco ScoutTM, the flagship product powered by work graph in Microsoft Azure Marketplace, an online store providing a"
+    publishedDateTime: 2022-09-15T21:36:00Z
+    webUrl: "https://indiaeducationdiary.in/soroco-scouttm-now-available-in-microsoft-azure-marketplace/"
+    ampWebUrl: "https://indiaeducationdiary.in/soroco-scouttm-now-available-in-microsoft-azure-marketplace/amp/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/soroco-scouttm-now-available-in-microsoft-azure-marketplace/amp/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 104
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 89
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/30a8bf6a-b129-4564-97e3-e9cfb29c824a.jpg"
-        width: 1024
-        height: 683
+      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1"
+        width: 534
+        height: 462
         isCached: true
   - title: "Microsoft continues expanding Azure Space"
     excerpt: "Microsoft is continuing to expand its role in the space sector on multiple fronts with a strategy built around partnerships."
@@ -57,6 +59,24 @@ related:
         width: 879
         height: 659
         isCached: true
+  - title: "Soroco Scout™ Now Available in Microsoft Azure Marketplace"
+    excerpt: "Soroco, the world's first work graph company, today announced the availability of Soroco ScoutTM, the flagship product powered by work graph in Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2022-09-15T05:03:00Z
+    webUrl: "https://www.theweek.in/wire-updates/business/2022/09/15/dcm4-soroco.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 49
+  - title: "Soroco Scoutâ„¢ Now Available in Microsoft Azure Marketplace"
+    excerpt: "With Soroco Scout TM, enterprises can unlock complex and unstructured enterprise datasets, a powerful source for driving digital transformation with multiple levers. With Scout now available in Azure Marketplace,"
+    publishedDateTime: 2022-09-15T05:39:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1275498&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 49
   - title: "Microsoft increases the options for satellite connectivity with Azure Space"
     excerpt: "Microsoft has been working on expanding Azure’s presence in the space and satellite connection cloud industry for the past two years through its Azure Space effort. Microsoft executives will discuss the company’s plans to grow its satellite connection offerings on."
     publishedDateTime: 2022-09-14T12:55:00Z
@@ -66,6 +86,15 @@ related:
       name: Bestgamingpro
       domain: bestgamingpro.com
     quality: 32
+  - title: "Appfire Expands into the Microsoft Ecosystem with Acquisition"
+    excerpt: "\"This acquisition represents a continued investment in our customers and an opportunity to disrupt the legacy time management market,\" comments 7pace Founder and CEO Marc Schaeffler. \"We have searched for a partner that aligns with our values,"
+    publishedDateTime: 2022-09-14T15:21:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-appfire-expands-into-microsoft-ecosystem-with-acquisition-top-/2022/09/14/9673707.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "8BZxXXXVFVF8tD4UKlPYhJPeWxq5d9/uwBaPqr24Rv5/cdRW7gETS5rEFSKE5x2cbqichl4Jdo/5zKYy93jXkVdDRf0DFvU8VoQlMcEd4jz+mRACn5TpwjWW3NWzxgoul8OMkcuIKEph1fKHkRWlKNFjJ/sauNhRrNa3Jk2z0wv0T1xcDYv4jSUm+9NuQ30DB7rpIcdGAX3IwEd00BLeo/SuQ5FWVSHMK2IxMvBKzVAwItX0r9AKoKHEX1GLFxGyTjeL6Rc2/A2mTFWORsefILFlYzrbCRDSfDCATc2mow3B4MTjQCiu139Pnob86AOlPIT5frxEjnZwzXjRpl9NijABV0ysEgywT6W/0VBdwbypieEInCZpw/LoKMEs+k24rhC5JFD2Ibox1Xgxf9qdsORq+uQYpAWw6yP8WlGVXqf0LQiafJmvYO7SG3QSTUPPMynWPrd9igsSc1FTrOgJXsW7EOMhdUfKfjQvgA+z/B4rYMKFc7OLSEoFQy4vxIPuQOQ6lqkCgNRw/1kwbFpU3w==;qDwk7HLQ6I9E4N60fB6ikw=="
 ---

@@ -2,58 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2022-09-07-artificial-intelligence-ai-robots-market-size-2022-3402-cagr-latest-trend-share-growth-competitors-and-forecast.md",
-      "title": "Artificial Intelligence (AI) Robots Market Size 2022: 34.02% CAGR | Latest Trend, Share, Growth, Competitors and Forecast",
-      "excerpt": "Robots Market \" 2022-2027 Report involve deep research on global Artificial Intelligence (AI) Robots industry which enables the customer to look at the possible requirement as well as prediction. The restrains and drivers are assembled after a major study of the worldwide Artificial Intelligence (AI) Robots marketâs proficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-size-2022-3402-cagr-latest-trend-share-growth-competitors-and-forecast-2022-09-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-size-2022-3402-cagr-latest-trend-share-growth-competitors-and-forecast-2022-09-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-06T22:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2022-09-07-kmworld-trend-setting-products-of-2022.md",
       "title": "KMWorld Trend-Setting Products of 2022",
       "excerpt": "To help showcase advanced products and services, each year KMWorld magazine looks for innovative offerings that are helping organizations derive greater benefit from their information, share knowledge more efficiently,",
@@ -1137,6 +1085,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-sleep-warning-snorers-at-increased-risk-of-cancer-and-cognitive-decline-warns-study.md",
+      "title": "Sleep warning: Snorers at increased risk of cancer and cognitive decline, warns study",
+      "excerpt": "Study author Dr Nicola Marchi said: “We found that obstructive sleep apnoea, and in particular low oxygen levels during sleep, was associated with a greater decline in cognitive function ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mirror.co.uk/news/health/sleep-warning-snorers-increased-risk-27918136",
+      "originalUrl": "https://www.mirror.co.uk/news/health/sleep-warning-snorers-increased-risk-27918136",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.mirror.co.uk/incoming/article27742269.ece/ALTERNATES/s1200/2_GettyImages-184393692.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mirror.co.uk/news/health/sleep-warning-snorers-increased-risk-27918136.amp",
+      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/health/sleep-warning-snorers-increased-risk-27918136.amp",
+      "publishedDateTime": "2022-09-06T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Mirror",
+        "domain": "mirror.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

@@ -2,49 +2,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_news/2022-08-30-ai-robotics-startup-co-founded-by-buet-graduate-raises-20m-series-a-investment.md",
-      "title": "AI robotics startup co-founded by Buet graduate raises $20M series A investment",
-      "excerpt": "an AI-Robotics startup delivering smart robotic automation solutions for tedious and ergonomically challenging tasks, co-founded by Ariyan Kabir-a Buet graduate- has recently raised $20 million as series A investment. The Series A investment round was led ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dhakatribune.com/business/2022/08/30/ai-robotics-startup-co-founded-by-buet-graduate-raises-20m-series-a-investment",
-      "originalUrl": "https://www.dhakatribune.com/business/2022/08/30/ai-robotics-startup-co-founded-by-buet-graduate-raises-20m-series-a-investment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://new-media.dhakatribune.com/en/uploads/watermarked/1661870582278/ai-robotics-startup-co-founded-by-buet-graduate-raises-20m-series-a-investment-r137701.jpeg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dhaka Tribune",
-        "domain": "dhakatribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-30-baidus-bidu-apollo-go-service-strikes-1-million-ev-autonomous-ride-milestone-in-china.md",
       "title": "Baidu’s (BIDU) Apollo Go service strikes 1 million EV autonomous ride milestone in China",
       "excerpt": "Chinese tech giant Baidu (BIDU) beat Wall Street’s Q2 earnings estimates on Tuesday despite several headwinds in China’s economy. Baidu’s Apollo Go, its robotaxi business, unveiled its next-gen autonomous EV,",
@@ -1172,6 +1129,58 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-i-have-face-blindness-this-is-how-i-recognize-you.md",
+      "title": "I Have Face Blindness. This Is How I Recognize You.",
+      "excerpt": "new video loaded: I Have Face Blindness. This Is How I Recognize You. Advertisement Opinion Video features innovative video journalism commentary — argued essays, Op-Ed videos, documentaries ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/video/opinion/100000008048548/face-blindness-prosopagnosia.html",
+      "originalUrl": "https://www.nytimes.com/video/opinion/100000008048548/face-blindness-prosopagnosia.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/10/28/autossell/FACE_BLINDNESS_16x9/FACE_BLINDNESS_16x9-facebookJumbo.png?video-overlay?video-overlay",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T01:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

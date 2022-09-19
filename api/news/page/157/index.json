@@ -2,57 +2,6 @@
   "page": 157,
   "value": [
     {
-      "path": "_news/2022-05-18-can-you-trust-ai-to-help-navigate-todays-digital-business-landscape.md",
-      "title": "Can You Trust AI To Help Navigate Today’s Digital Business Landscape?",
-      "excerpt": "As artificial intelligence and machine learning technology continue to advance the digital business landscape, you may ask yourself: Can I trust these systems to keep my brand reliable and to remain ahead of the competition? Building trust in AI is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2022/05/18/can-you-trust-ai-to-help-navigate-todays-digital-business-landscape/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2022/05/18/can-you-trust-ai-to-help-navigate-todays-digital-business-landscape/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//6048e165345b4ab79c3f331a/0x0.jpg?format=jpg&width=1200",
-          "width": 1140,
-          "height": 760,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2022/05/18/can-you-trust-ai-to-help-navigate-todays-digital-business-landscape/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2022/05/18/can-you-trust-ai-to-help-navigate-todays-digital-business-landscape/amp/",
-      "publishedDateTime": "2022-05-18T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-18-googles-ai-powered-interview-warmup-helps-with-job-prep.md",
       "title": "Google's AI-Powered 'Interview Warmup' Helps With Job Prep",
       "excerpt": "Google is using machine learning and artificial intelligence to help applicants practice for job interviews. The tool, aptly named Interview Warmup (Opens in a new window), invite",
@@ -1143,6 +1092,50 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-healthcare-ai-market-size-share-industry-analysis-key-trends-growth-value-chain-business-opportunities-and-forecasts-2022-2028.md",
+      "title": "Healthcare AI Market Size & Share, Industry Analysis, Key Trends, Growth, Value Chain, Business Opportunities and Forecasts 2022-2028",
+      "excerpt": "Healthcare AI Market Dynamics 2022-2028 ... Imagen Technologies, IBM Watson Health, Health Fidelity, Google Deepmind Health, GE Healthcare, Apple London, UK — (SBWIRE) — 05/17/2022 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/healthcare-ai-market-size-share-industry-analysis-key-trends-growth-value-chain-business-opportunities-and-forecasts-2022-2028",
+      "originalUrl": "https://www.digitaljournal.com/pr/healthcare-ai-market-size-share-industry-analysis-key-trends-growth-value-chain-business-opportunities-and-forecasts-2022-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/8b228e947274b3e3adaea102613cde65635f5b3c-2-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-17T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

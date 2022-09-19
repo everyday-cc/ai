@@ -55,20 +55,6 @@ related:
         width: 768
         height: 1024
         isCached: true
-  - title: "17 Fintech and Insurtech Startups Among Forbes Asia’s Top 100 to Watch in 2022"
-    excerpt: "Meet the 17 fintech and insurtech startups in the Asia Pacific featured on Forbes Asia's 2022 100 To Watch list."
-    publishedDateTime: 2022-09-14T07:13:00Z
-    webUrl: "https://fintechnews.sg/63810/fintech/17-fintech-and-insurtech-startups-among-forbes-asias-top-100-to-watch-in-2022/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 20
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/09/17-Fintech-and-Insurtech-Startups-Named-Among-Top-100-Rising-SMEs-in-APAC.png?x82653"
-        width: 1024
-        height: 567
-        isCached: true
 
 secured: "PXcD3a0pd47jRIrHf5iweNRgQjXhuqRGx3WMu3NBTeJsSo0ONZKB5qeH4lV3HfhBFj7VYXmMO9NIzDBFDoDLVFt0lv7lmF6mD0Dz7U7BTqLYdBI/bcUFHzXSppbpAX2nlUvWLZDBLk7njySOmzVKXI8knycmM6UW68YP4HvbzLpdyXUAQQR0H010+zqaZr8D51gGFZYOFND6AmQqkLYqq/FlB3hv4erCs3IpP3MIh/vj+uePJS7SwM3VHK00bqY0x5bVDlpxoTQhx4ClfC/C4LjAp8r+R+38b/ol3OtUvkzFyRIpz2oh8qh9lK5qqodUSfbHD+3GyPdMUjkG7RJ7dZz6+sV4RJl8tO5m2yolqlo=;jYCgYyTgesm9RJp2X6dX1w=="
 ---

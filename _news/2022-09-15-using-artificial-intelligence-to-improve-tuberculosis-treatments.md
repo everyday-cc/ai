@@ -38,34 +38,6 @@ related:
         width: 1300
         height: 733
         isCached: true
-  - title: "Cadence accelerates AI-driven chip design development"
-    excerpt: "Cadence Design Systems has announced the launch of the Cadence Joint Enterprise Data and AI (JedAI) Platform. The platform enables a move from single-run, single-engine algorithms in electronic design automation (EDA) to algorithms that leverage big data and artificial intelligence (AI) to optimise multiple runs of multiple engines across an entire SoC design and verification flow."
-    publishedDateTime: 2022-09-14T08:00:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/cadence-accelerates-ai-driven-chip-design-development"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 54
-    images:
-      - url: "https://www.newelectronics.co.uk/media/nagnckik/ca591_jedai_press-and-social-image_rectangle.jpg?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "New Cadence Joint Enterprise Data and AI Platform Dramatically Accelerates AI-Driven Chip Design Development"
-    excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the delivery of the Cadence® Joint Enterprise Data and AI (JedAI) Platform, enabling a generational shift from single-run, single-engine algorithms in electronic design automation (EDA) to algorithms that leverage big data and artificial intelligence (AI) to optimize multiple runs of multiple engines across an entire SoC design and verification flow."
-    publishedDateTime: 2022-09-14T08:27:00Z
-    webUrl: "https://www.design-reuse.com/news/52657/cadence-joint-enterprise-data-and-ai-jedai-platform.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 35
-    images:
-      - url: "https://www.design-reuse.com/news_img2/homepage52657/JedAI_Press_and_Social_Image_Square.jpg"
-        width: 480
-        height: 480
-        isCached: true
 
 secured: "0JsuGj0NMMskwbFQLZzkLQ/cgeh3VMa0yDv6HIIcCdUiDAL3P9oqF85BNh0zt5fWClrenx8enB/qoP6yfqR1kWler7A5Tflc9VuVqlhp61RlbykvuTNi2+rjTWCHFDURFBGc92AXP4sHYEkouO21gZLsTm3CM4Dp13XpvuFBNmb6Ys1LsHMv8q0nq1PvrSeWH7tZhHQjMY+QwyC6J+varf9I8RwHBsAiB4grpyWttOknWSQOLb092iZeiQoe/q9JZ3WiyaoK4wZPoMxrzbwld91j3Gr3+DApYlaTlmRsuMsU1jCg/X64D089E7JvKvLIjmzFUFOvtNnjmT83op+Q9qzJgSbX5k/yvJphmIvk+/U=;bSwshjkz8tkdq6EJfP4eAQ=="
 ---

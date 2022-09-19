@@ -2,49 +2,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_news/2022-09-01-robot-that-stocks-drinks-is-newest-thing-at-the-corner-store.md",
-      "title": "Robot that stocks drinks is newest thing at the corner store",
-      "excerpt": "then the robot slithered to the right spot and placed the drink on the shelf — in a place chosen after its artificial intelligence and tiny cameras matched the kind of beverage to what’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2022/09/01/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/",
-      "originalUrl": "https://nypost.com/2022/09/01/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/09/japan-convenience-store-robot-drinks-comp-1.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2022/09/01/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/09/01/robot-that-stocks-drinks-is-newest-thing-at-the-corner-store/amp/",
-      "publishedDateTime": "2022-09-01T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-01-opti9-listed-as-a-representative-vendor-in-2022-gartner-market-guide-for-disaster-recovery-as-a-service.md",
       "title": "Opti9 Listed as a Representative Vendor in 2022 Gartner Market Guide for Disaster Recovery as a Service",
       "excerpt": "Opti9 Technologies LLC (Opti9), a trusted North American managed cloud services provider for hybrid cloud, security, and application modernization announces that it has been identified as a Representative Vendor in the Gartner Market Guide for Disaster Recovery as a Service (DRaaS) report.",
@@ -1150,6 +1107,49 @@
         "AI",
         "AI in Sales",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-cat2-request-goes-out-for-facial-recognition-at-us-airports.md",
+      "title": "CAT2 request goes out for facial recognition at US airports",
+      "excerpt": "The U.S. government is advertising for a vendor that can add face biometrics to its existing ability to validate document-credentialing stations at airports.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202208/cat2-request-goes-out-for-facial-recognition-at-us-airports",
+      "originalUrl": "https://www.biometricupdate.com/202208/cat2-request-goes-out-for-facial-recognition-at-us-airports",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/02154525/Idemia-biometric-self-service-checkpoint.png",
+          "width": 1459,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T14:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

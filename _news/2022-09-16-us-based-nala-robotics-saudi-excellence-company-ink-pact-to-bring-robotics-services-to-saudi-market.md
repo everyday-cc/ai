@@ -33,36 +33,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Saudi Arabia Leads Regional AI through Laboratory, Global Development Corridor"
-    excerpt: "Saudi Arabia hosted the second edition of the Global AI Summit under the patronage of Crown Prince Mohammad bin Salman bin Abdulaziz, who also chairs the Board of Directors of the Saudi Authority for Data and Artificial Intelligence (SDAIA)."
-    publishedDateTime: 2022-09-14T07:33:00Z
-    webUrl: "https://english.aawsat.com/home/article/3873176/saudi-arabia-leads-regional-ai-through-laboratory-global-development-corridor"
-    ampWebUrl: "https://english.aawsat.com/home/article/3873176/saudi-arabia-leads-regional-ai-through-laboratory-global-development-corridor?amp"
-    cdnAmpWebUrl: "https://english-aawsat-com.cdn.ampproject.org/c/s/english.aawsat.com/home/article/3873176/saudi-arabia-leads-regional-ai-through-laboratory-global-development-corridor?amp"
-    type: article
-    provider:
-      name: الشرق الأوسط
-      domain: aawsat.com
-    quality: 55
-    images:
-      - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2022/09/14/66610_0.jpeg?itok=tdbNlU3m"
-        width: 480
-        height: 268
-        isCached: true
-  - title: "Kingdom of Saudi Arabia develop AI ethics principles"
-    excerpt: "The Saudi Artificial Intelligence Ethics Principles provide a set of practical standards for AI development and implementation in the Kingdom"
-    publishedDateTime: 2022-09-14T08:38:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/kingdom-of-saudi-arabia-develop-ai-ethics-principles-i0amqe86"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 54
-    images:
-      - url: "https://static.zawya.com/version/c:YzBlNTEwMzQtYmQxMS00:ZTJmMzg4/faha4655-jpg.JPG?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Intl. Companies Intend to Invest in AI, Robotics in Saudi Arabia"
     excerpt: "Major international companies intend to invest in artificial intelligence and robotics in Saudi Arabia, senior investors told Asharq Al-Awsat. AI Investor Abdullah bin Zaid Al-Meleihi said that Saudi"
     publishedDateTime: 2022-09-17T10:57:00Z

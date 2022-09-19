@@ -2,48 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2022-09-05-ai-generated-artwork-wins-prize-in-art-competition-in-us-find-out-how.md",
-      "title": "AI-generated artwork wins prize in art competition in US! Find out how",
-      "excerpt": "Allen is the president of Incarnate Games, a tabletop gaming company in Colorado. His work is called \"Space Opera Theater\".",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/news/international/us/ai-generated-artwork-wins-prize-in-art-competition-in-us-find-out-how/articleshow/94010529.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/news/international/us/ai-generated-artwork-wins-prize-in-art-competition-in-us-find-out-how/articleshow/94010529.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-254162,msid-94010587/ai-generated-artworkwins-prize-in-art-competition-in-us.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/news/international/us/ai-generated-artwork-wins-prize-in-art-competition-in-us-find-out-how/amp_articleshow/94010529.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/international/us/ai-generated-artwork-wins-prize-in-art-competition-in-us-find-out-how/amp_articleshow/94010529.cms",
-      "publishedDateTime": "2022-09-05T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-05-best-robot-vacuums-for-pet-hair-in-2022.md",
       "title": "Best robot vacuums for pet hair in 2022",
       "excerpt": "Remote control If your robot vacuum cleaner doesn’t connect ... and clean it regularly as specified in your manual. Bear in mind that the filter will also need to be replaced occasionally ...",
@@ -1115,6 +1073,50 @@
       "topics": [
         "AI",
         "Computer Vision",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-09-04-how-artificial-intelligence-can-be-trained-to-detect-tumour-research.md",
+      "title": "How artificial intelligence can be trained to detect tumour: Research",
+      "excerpt": "The Bochum team's explainable AI is therefore based on the only kind of meaningful statements known to science: on falsifiable hypotheses. If a hypothesis is false, this fact must be demonstrable through an experiment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/lifestyle/health/how-artificial-intelligence-can-be-trained-to-detect-tumour-research-101662275513848.html",
+      "originalUrl": "https://www.hindustantimes.com/lifestyle/health/how-artificial-intelligence-can-be-trained-to-detect-tumour-research-101662275513848.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/09/04/1600x900/_b58a8de0-332a-11e8-9916-7e63ef9446cf_1662275576577_1662275576577.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/lifestyle/health/how-artificial-intelligence-can-be-trained-to-detect-tumour-research-101662275513848-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/health/how-artificial-intelligence-can-be-trained-to-detect-tumour-research-101662275513848-amp.html",
+      "publishedDateTime": "2022-09-04T00:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
         "Machine Learning"
       ]
     }
