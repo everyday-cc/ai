@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-19T17:32:00Z
 originalUrl: "https://www.chicagobusiness.com/technology/startup-solinftec-offer-robots-us-farmers"
 webUrl: "https://www.chicagobusiness.com/technology/startup-solinftec-offer-robots-us-farmers"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Crain's Chicago Business

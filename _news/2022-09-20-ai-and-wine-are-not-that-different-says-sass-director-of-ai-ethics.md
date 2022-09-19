@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-19T19:21:00Z
 originalUrl: "https://www.itworldcanada.com/article/ai-and-wine-are-not-that-different-says-sass-director-of-ai-ethics/503456"
 webUrl: "https://www.itworldcanada.com/article/ai-and-wine-are-not-that-different-says-sass-director-of-ai-ethics/503456"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: IT World Canada
@@ -14,6 +17,17 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+related:
+  - title: "AI Art Is Here and the World Is Already Different"
+    excerpt: "OpenAI’s GPT-3 took simple text prompts — to write a news article about AI or to imagine a rose ceremony from The Bachelor in Middle English — and produced convincing results. Deepfakes graduated from a looming threat to something an enterprising teenager can put together for a TikTok,"
+    publishedDateTime: 2022-09-19T12:00:00Z
+    webUrl: "https://nymag.com/intelligencer/2022/09/ai-art-is-here-and-the-world-is-already-different.html"
+    type: article
+    provider:
+      name: nymag
+      domain: nymag.com
+    quality: 19
 
 secured: "3qsphISAigHN5GNioSMOhl6KrWgUaJPPPUaqcbHUUTCn4N7+KvyADs4pAlYxPCci3VaRtbZUuChGCqY7WIxLcgce71/3xqwqHnTOQxvNufx9IlFV1pQrabW0uP3/P7nFVDL40TlV7vbSRgj0l07b8Ze+2UbinSeOQ0sqAQfPNftlDUG2x2pGNAEiAXzPy2uWvoyURl2GVQzI2Vj0y3GAqoXe+srTtvBE0XgCDOp9WrGXELW+rnC/wuuJLi92uC5TbHm8aMD8ktffzSLlT4XPvCAyRTGTTyKnsze7Cob7tmALuAvI3LS0zEzqao7Rxs3Slc0m6Pf7oGrMpWObibESHjX4/7omK1ThMFxUm6qFC3k=;O969J4IslTrk19OJH0FAiQ=="
 ---

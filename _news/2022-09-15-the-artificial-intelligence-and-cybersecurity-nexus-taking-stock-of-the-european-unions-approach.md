@@ -25,6 +25,17 @@ images:
     height: 770
     isCached: true
 
+related:
+  - title: "AI Increasingly Leveraged in Cybersecurity as Threats Evolve"
+    excerpt: "Investorideas.com ( a global investor news source covering Artificial Intelligence (AI) stocks releases a sector snapshot looking at the growing AI tech implementation in security and cybersecurity, featuring AI innovator,"
+    publishedDateTime: 2022-09-19T12:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/28912525/ai-increasingly-leveraged-in-cybersecurity-as-threats-evolve"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
+
 secured: "RDdKb5vHv1FZdpEyUmjqIEq3cAFRqCfpK0fZ41wc76UHU0pnZVYR5/GAf0T9MixpuRRZYfG26MpOQGcoJ1h67b6AW+WSf8npX2inXVMrWL5D+FHcnDNgzS8OtV0OlTi8aa/NsWma3eCHY/MTO8632ZwTTvSlTdffs+b+imPw2QzRAI9mymbQZhCfARu5rc51sAw7zMJqi9RiJ+/wG+IVCY00gxasor9tXhaHO1grhzMtzZ5GcLaGG9guNLSJAqM/oXHHFKRRX1dnzqEvmWeP0B0WwDaKtRABCRsrZ0NhdhwtqNI+b1vUNjYqFx6DPk6JCvFQufe6G4mHmyvk4UakT/dPbW7UtJo/sOnvTDcd0YqVVhBn47Husx/dw8UntwR6++d66h0SSwXOgIYZehiw4KKl2SVaSgV3iVmTBH3DhNJ7f2W9TwIVmZZiFNVyTrB3CNiqwahhLzwk0rK30FrcikJy78FiGLMxrE47ycESUNcCKOGCS+70MJVD0GWaTTw9UGIVF1P0nlRN+ZOd6mRMEQ==;5MADg5YEzYCPuqYqTgUrJA=="
 ---
 

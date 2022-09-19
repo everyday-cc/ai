@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-19T19:49:00Z
 originalUrl: "https://betakit.com/bc-tech-association-reveals-four-finalists-for-2022-startup-award/"
 webUrl: "https://betakit.com/bc-tech-association-reveals-four-finalists-for-2022-startup-award/"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: BetaKit

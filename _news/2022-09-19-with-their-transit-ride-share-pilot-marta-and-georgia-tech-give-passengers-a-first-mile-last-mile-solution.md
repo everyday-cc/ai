@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-19T14:56:00Z
 originalUrl: "https://news.microsoft.com/transform/with-their-transit-ride-share-pilot-marta-and-georgia-tech-give-passengers-a-first-mile-last-mile-solution/"
 webUrl: "https://news.microsoft.com/transform/with-their-transit-ride-share-pilot-marta-and-georgia-tech-give-passengers-a-first-mile-last-mile-solution/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Microsoft

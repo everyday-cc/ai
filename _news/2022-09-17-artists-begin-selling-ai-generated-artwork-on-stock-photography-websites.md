@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2022/09/artists-beg
 webUrl: "https://arstechnica.com/information-technology/2022/09/artists-begin-selling-ai-generated-artwork-on-stock-photography-websites/"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 768
         height: 432
         isCached: true
+  - title: "AI-Generated Games Are Starting To Appear On Steam (And It's Not Going Well)"
+    excerpt: "Enter This Girl Does Not Exist Making a game with AI-generated assets comes with its own unique challenges, as she tells it. Not having to make art from the ground up does mean things move quicker, but since This Girl Does Not Exist was a dating game,"
+    publishedDateTime: 2022-09-19T18:31:00Z
+    webUrl: "https://kotaku.com/steam-pc-ai-generated-art-midjourney-youtube-valve-1849531585"
+    type: article
+    provider:
+      name: Kotaku
+      domain: kotaku.com
+    quality: 14
 
 secured: "RgBfnnruwA+raVEmDg2ghBTu0LPqU5xXIVL/yehT8cWpURccVpQBjBwVBGYUiz0sW0oWou/2TTk7Pvb1oXl/jLOahcZPul6Y7rjW8Ghz4s1fYN5GoeY56iTAh7ADCN9OCtXaUZSMsXSc0p5truduKm8K1rNvOzO2rUky5leGGW5rsexvCSU5dI8DMikivzppYIHMsiYU2tI4PljxwucFgmtSAYfc6cYzwFgWcEOWsbURmFAtT0jrHhBy8l6+aOc/JkGkzNAJpvHei1miceaO2KSaxURkW98xKon/kC7MZ+3Ai7FjcMEdoxZ9ww+2F6JWaWZPNuppeUdxfN3skKy83HfB7f1ZVAs0letax/XcyncAknbAhARxqtS577BnrJTeIvUIpe1UaoN07aDwyHMC+XI6zVbboGuNhugK+IV5z9H/HTxCxDHGD/4eqYkoNVLuWlntc1kR4y95BGS60BoZcrf05bQh0satJQQEGeh3cZhhxoLl3Gd4TPCkViT/L+Qo8OXLp6nkER3xoKGE+g+ZjA==;fD0WidKiYv1+KCnsLbt/cQ=="
 ---

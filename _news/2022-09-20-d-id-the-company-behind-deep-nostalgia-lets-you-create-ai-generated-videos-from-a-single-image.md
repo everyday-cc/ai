@@ -5,7 +5,12 @@ excerpt: "D-ID does not want to limit itself to corporate training, communicatio
 publishedDateTime: 2022-09-19T18:08:00Z
 originalUrl: "https://techcrunch.com/2022/09/19/d-id-the-company-behind-deep-nostalgia-lets-you-create-ai-generated-videos-from-a-single-image/"
 webUrl: "https://techcrunch.com/2022/09/19/d-id-the-company-behind-deep-nostalgia-lets-you-create-ai-generated-videos-from-a-single-image/"
+ampWebUrl: "https://techcrunch.com/2022/09/19/d-id-the-company-behind-deep-nostalgia-lets-you-create-ai-generated-videos-from-a-single-image/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/19/d-id-the-company-behind-deep-nostalgia-lets-you-create-ai-generated-videos-from-a-single-image/amp/"
 type: article
+quality: 78
+heat: 88
+published: true
 
 provider:
   name: TechCrunch
@@ -18,7 +23,30 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Natural Language Processing
 
-secured: "WPmEXFF8YSwTMurI/H1a6QWyWhNvThANcTSt3rv+jDQe8s/NGSPAW+zzAaBHbN1LPhXFLKiWU46cuxtLxmwynbAXpcEN/EFPcC38dS9nXO3qzpr27LgFgZY0iR2qTrJmR95UEiGCoaNRKRPUZAF9K7cV2BrNrEVdVXlYrV29B6OWXTuTfLZKhrlNlicm5YMqseElt5B9wptE3aQIRdJ5VFQxTT8oY0pL/vYlojiCHfbmpEeeACtMk6QaEoAwbFSKF3I5hiYItksDof0BVUVh2YwWqsILLaHcwhANPE0AAd/PaLKsEdpcWV6o8DwoHBtuPSYnmzYgsdF4eSpiO+bwy9MD/2sbH/J4TahIS8Smbk8sagOts7GRROqzDX1QljypplWZUHS8YYN95mzk0C1/hBfzqIGXSR1a4ic5hNJZVJM3S5sTB5mpob1tIiIONGoCKyaN+x957cklSNkDMVdCd/asB4zogdAhv8Ya1uOyOhdj24yW5W3aQqRmO0zIvEkZUJqo+pacZue2pETLoOv3Kg==;vdk4EbhfnPibNwEtxXHCvQ=="
+images:
+  - url: "https://techcrunch.com/wp-content/uploads/2022/09/D-ID-Creative-Reality-screenshot-16-Sept-2022.jpg?resize=1200,750"
+    width: 1200
+    height: 750
+    isCached: true
+
+related:
+  - title: "Have AI image generators assimilated your art? New tool lets you check"
+    excerpt: "\" taps into the LAION-5B training data used to train Stable Diffusion and Google's Imagen AI models, among others. To build LAION-5B, bots directed by a group of AI researchers crawled billions of websites,"
+    publishedDateTime: 2022-09-15T21:04:00Z
+    webUrl: "https://arstechnica.com/information-technology/2022/09/have-ai-image-generators-assimilated-your-art-new-tool-lets-you-check/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/haveibeentrained_search_results-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
+
+secured: "auzM2zeZFBHvCNeg4HRK0toDC9fQeN/gsLWun6v45DX3kEG6S5cc2FNWhuVcYc6LUxZQpGqBQ7h7U2vPfnJaR+wRKWHqCp0xAk+la0txK6W0p66DTMMxsPcWCfl7S5HU6K73W39Am/iqeGabSBas7UY21WK8yLR3rp5Fa9xQ2NTFTg5p3qC4yrNf9UoYnPb64FltX5wQYDhHBMehI0UIdXkPdtFp/st97I7v9WeWrq4b/m03OWOJiFnqwwBmCgfT9A4fNDD4K3U+BNkXpHb1LY50Rc+/XObGO43T6nSbBiduDSfsvYokOq0RbI2akc6LdbqG9+6xayjkhcrbxAiapWkXTEVTKHr6q7tTUDLgNjY=;WoELBqomT+vecH/i8jYsAA=="
 ---
 

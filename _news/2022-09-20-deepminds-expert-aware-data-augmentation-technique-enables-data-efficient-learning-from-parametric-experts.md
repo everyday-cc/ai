@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-19T18:03:00Z
 originalUrl: "https://syncedreview.com/2022/09/19/deepminds-expert-aware-data-augmentation-technique-enables-data-efficient-learning-from-parametric-experts/"
 webUrl: "https://syncedreview.com/2022/09/19/deepminds-expert-aware-data-augmentation-technique-enables-data-efficient-learning-from-parametric-experts/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: syncedreview

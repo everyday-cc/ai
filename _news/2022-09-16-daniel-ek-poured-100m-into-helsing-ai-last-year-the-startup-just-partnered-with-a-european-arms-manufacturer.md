@@ -7,7 +7,7 @@ originalUrl: "https://www.musicbusinessworldwide.com/daniel-ek-poured-e100m-into
 webUrl: "https://www.musicbusinessworldwide.com/daniel-ek-poured-e100m-into-helsing-ai-last-year-the-startup-just-partnered-with-a-european-arms-manufacturer1/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,17 @@ images:
     width: 1139
     height: 650
     isCached: true
+
+related:
+  - title: "The European automobile industry is going quantum"
+    excerpt: "There are few better marriages in technology than the one between European car manufacturers and their local quantum computing startups."
+    publishedDateTime: 2022-09-19T19:40:00Z
+    webUrl: "https://thenextweb.com/news/european-automobile-industry-is-going-quantum"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 34
 
 secured: "WnJ9OewRfZTVh2aVtV/YoOyP78u9wzSWwmWqw8xfQe9Yiy5t69YHDYPi5ji0XLi06w51ZsEkQlN7Y2gzPyMJEsY+vpmRsJnGnAww34yh7mKkYVIIGNNvR+KBdzRK4Uw63Dpo1IDBUtFiLXt28hU36MGhWs9PLQqOoeAznkpBtBRmMfkVZrDT2IYU2PdR7vzmdlSKF1eO0hJ0m+COm81CW4PAkuT3kbf4NwBPiJbe6+Hg0qFj2spXogOyVV82/xQvSA3deONeRAkiBjV4MOqDw8A33SFY2WibcIndJjYBRsRWR2e1W0DguwwbkKMnUzXFlZ6GDMVlKx8IN6XsLHPZrMsbbZnHi7VNLDIsg5Tg3r9Z/uxN2cGuAlM9ot2JmnhRPpsC7PdI5Bb6KwxlxxTZb66rteJ2z/lZ+Z1dzK2pPkiDMXrTFG2YVFUth1pHzAxxGrmUChYdTvY2Sg+FdoiXdGYNKnLpLpz/eF/05eQEwGBFqYkzbeUnK7vkihkQxvtTHZP+dGFZcnXorE2GysM1aw==;uP/H7Qj/uqeMNXdhdTaxrg=="
 ---

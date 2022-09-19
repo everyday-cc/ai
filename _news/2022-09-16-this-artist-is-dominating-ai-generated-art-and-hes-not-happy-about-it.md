@@ -41,6 +41,15 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "AI-Generated Games Are Starting To Appear On Steam (And It's Not Going Well)"
+    excerpt: "Enter This Girl Does Not Exist Making a game with AI-generated assets comes with its own unique challenges, as she tells it. Not having to make art from the ground up does mean things move quicker, but since This Girl Does Not Exist was a dating game,"
+    publishedDateTime: 2022-09-19T18:31:00Z
+    webUrl: "https://kotaku.com/steam-pc-ai-generated-art-midjourney-youtube-valve-1849531585"
+    type: article
+    provider:
+      name: Kotaku
+      domain: kotaku.com
+    quality: 14
 
 secured: "n6HeHuO3Dfm8/iC63ohH8ZEPMaXQ2Hc/ucL4htvtwuHJuHsph3u72e+KBJLBIxFS7X9d0PKA4r7p4x9IymJw0qdugdE7LBe1Q11qsqtxtIEo/82dvGRs2VlWNabkmg7xlfPUyz2O32TLXo+Qpg/hwWwJ1eRBV4QQdqoab9+AUZUf4jK3L5eauigkSiqSRL4gx1z2i90KKZ9taYMWLJUA0fyT1KoH6Sk0RtoRg59LbXrwC3VsIjDujzJQ6jnppYCdXK4Exr6FwGahuZWPfuqi6eMg05HjxNPP9IU4l7PYio3jbTsOANxtCK7TpFO4AqrW6Gk/fUNOGFhVlKvmqIELlFpeen2PB8Rvq19rP/KBD/rYBVx0EwMQudx2rLhqkMeI3mCg28ZH6F8dMOYod8dP9CoiTmfj3nPT0z87WLJkgTPREBavVB3/bcyCeLY3eZTD1uOkJl8BEVsefVtIj/jblvbJyZ1zqIKoZbCY47X+VGvMv2O4IJyXxirZc8ognB27fSyK+AKz8B5vm4TLR7QYzg==;cPjrXdF/8hOrjLg8LHO6IQ=="
 ---

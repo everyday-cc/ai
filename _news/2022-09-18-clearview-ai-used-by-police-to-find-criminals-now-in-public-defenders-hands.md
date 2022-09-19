@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2022/09/18/technology/facial-recognition-cle
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/09/18/technology/facial-recognition-clearview-ai.amp.html"
 type: article
 quality: 83
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1050
     height: 550
     isCached: true
+
+related:
+  - title: "Clearview facial recognition used to exonerate suspect on trial over traffic fatality"
+    excerpt: "Clearview AI gave defense attorneys in a vehicular homicide case access to its technology—and helped the defendant, who was innocent, avoid the slammer."
+    publishedDateTime: 2022-09-19T19:14:00Z
+    webUrl: "https://www.biometricupdate.com/202209/clearview-facial-recognition-used-to-exonerate-suspect-on-trial-over-traffic-fatality"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 12
 
 secured: "60VOX0rEIQrp4JqsgAyaHC6rMNgrRlsv+F8Gjj2f8CU/keF9qTCzwB/QdixTfH9EBxah5OJLlBfRr7rflPJpHdJBCVWpGYeSMCXdA7wNrBEvXONAqhfUVsmZx38B5JSErOYiwn0Qg/ClZBXsh3hX5yCjo78yKOrKHygjIhX+b68KkhV25IsalSA6cgi56cLjk60nYeQKWnajrPAAKRWAgYd2e7PiJAi19NZqyobbqsjBrwdaNKTooRqFsnf94R0aYHty2sbduhMC2dKQ/+Fu3+Ns0ZmeYAQmC6OhclkIaPmoZiHQi6M3VMtpJ26uBLWSv27RWpbdilqjI8+8Jt2W9hIGqIWyKQDbsAWix0fXAE/GzVtVKcLdHDlVaDKoMZzR8HJh68Zm7TLNVesxmQn7Zc0cOtSWl6lKOWrrvIP/mMzOVsrEtekUc0LcBGRuxkFEdNKNtV6nb7SNZc4JaiiV+icIfD02smUcmsnOz4flg+B8a46xuNQVC5Zk28iOyTyvOSz/EaRO+ZRwozTgVAq9KA==;NefUpfTyfCU09iOfIvlkQg=="
 ---

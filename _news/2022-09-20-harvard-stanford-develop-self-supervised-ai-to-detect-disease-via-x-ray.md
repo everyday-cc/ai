@@ -8,8 +8,8 @@ webUrl: "https://healthitanalytics.com/news/harvard-stanford-develop-self-superv
 ampWebUrl: "https://healthitanalytics.com/news/amp/harvard-stanford-develop-self-supervised-ai-to-detect-disease-via-x-ray"
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/harvard-stanford-develop-self-supervised-ai-to-detect-disease-via-x-ray"
 type: article
-quality: 38
-heat: 38
+quality: 40
+heat: 40
 published: false
 
 provider:
