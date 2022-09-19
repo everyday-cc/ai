@@ -24,6 +24,7 @@ topics:
   - Microsoft AI
   - AI in Finance
   - AI in Autos
+  - IBM AI
 
 images:
   - url: "https://www.computerweekly.com/rms/onlineimages/ai_a352095729.jpg"

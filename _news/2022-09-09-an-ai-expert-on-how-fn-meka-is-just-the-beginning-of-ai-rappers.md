@@ -1,12 +1,10 @@
 ---
 category: news
 title: "An AI Expert On How FN Meka Is Just the Beginning of AI Rappers"
-excerpt: "AI expert Charles L. Isbell, Jr. spoke with us about the ethics behind FN Meka, and how AI rappers — and AI artists in general — are going to become more prevalent as technology evolves."
-publishedDateTime: 2022-09-08T22:15:00Z
-originalUrl: "https://www.okayplayer.com/originals/fn-meka-ai-rapper-tiktok-controversy.html"
-webUrl: "https://www.okayplayer.com/originals/fn-meka-ai-rapper-tiktok-controversy.html"
-ampWebUrl: "https://www.okayplayer.com/music/fn-meka-ai-rapper-tiktok-controversy.html/amp"
-cdnAmpWebUrl: "https://www-okayplayer-com.cdn.ampproject.org/c/s/www.okayplayer.com/music/fn-meka-ai-rapper-tiktok-controversy.html/amp"
+excerpt: "AI expert Charles L. Isbell, Jr. spoke with us about the ethics behind FN Meka, and how AI rappers — and AI artists in general — are going to become more prevalent as technology evolves. In less than two weeks,"
+publishedDateTime: 2022-09-08T20:10:00Z
+originalUrl: "https://www.okayplayer.com/music/fn-meka-ai-rapper-tiktok-controversy.html"
+webUrl: "https://www.okayplayer.com/music/fn-meka-ai-rapper-tiktok-controversy.html"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - AI Ethics
   - AI
 
-images:
-  - url: "https://okayplayer-wpengine.netdna-ssl.com/wp-content/uploads/2022/09/Untitled-design-2-692x376.png"
-    width: 692
-    height: 376
-    isCached: true
-
-secured: "Wmge5m1xsBqERjL76ST5Ga4MpppJ2kKKGqs1ukUVhArYzxQHAm9D2l4xppFUNyR/CZfLynx6n7v0OeoxGw/fQJlRpwHRIEGuqYFN65cgLgAw+B1HEWWpdDM3iS59i8o09yd+kLoJ6bzEwVRIJKMov7Uwa2rxEKqg4Ozmq7VP7P0BXBwNQW8+Msz26jyZd3tyIUVVsjXBlVVSBIEj2ZcS2a5Vqhzx18FnE0ZJ2aeMjn7yhi7t8Pp86jaKPlFHgCWTbj05sJMwvGUcrwHyBs4uoTw39X3l+zse2LNmK3N18ZAHwHBOZBnRfOvD7qbVx2VY83/UGG8tYq08NnIOcIZL2pcFFbY8CwKkQNhdsfYkwoE=;pZcbqWpz1ThJJdzNm+7pUg=="
+secured: "wotrQdLG56taIOtnIZHTKzaSdQo1te59eazgn9nLD8j9n32AauTmQEfvU18/gIlSuqT5Xj56sm+ocZymvIJRML7kXcStpHCqaT4xP4mXsnS0fUCS/Qch9hMwtnOvq9y3nttY5ii416pq+UkLG15IILRpUJbkSAMMfxpeUJ1P+LPAj1ItnPMgIKOp+M3LfiSvIqLs27ek2JXGW1V6cX65SOknHeiKyHSOIetaYhsDTKRbdEXRzYvwPoo/5AN7jtg2q/55avBa/NUVvMGPr/3Ep1tvExpz1DQ+nXCkCfbaZcpYYuPenCCrKGmPdnuAnpgAgQrzxPQbiADM+lJ3kdY+wN3UvlDsZkrE8Q85fBtAH3+0R7iLiri7lpil0mGl7waNKbSEH87UUSQbGHi6XXhegIPbcCeUnEbPvO9S4J71M6E6eU4bqssK2OfshgnAgn00hFS+OnFBzNNTAanIhlYB5Oz6zk0oK3tRRyo7a9Miwg8BjZY9chbRfVr07brwLKHA0FzwtuXcVANrX/rVrVMygA==;M0JSHd8IZWZ3uWFWnsR1gA=="
 ---
 
