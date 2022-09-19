@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "BRV China-Backed HPC-AI Tech Completes $6 Million Seed and Angel Round Financing"
-    excerpt: "HPC-AI Tech, an artificial intelligence high-performance optimization platform, recently closed $6 million seed and angel rounds, with BlueRun Ventures China (BRV China) acting as the lead investor for the angel round."
-    publishedDateTime: 2022-09-14T13:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/brv-china-backed-hpc-ai-tech-completes-6-million-seed-and-angel-round-financing-1031742753"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
   - title: "HPC-AI Tech Closes $6M in Seed and Angel Financing"
     excerpt: "HPC-AI Tech, a Beijing, China-based provider of an artificial intelligence optimization platform, raised $6M in Seed and Angels funding"
     publishedDateTime: 2022-09-15T07:36:00Z

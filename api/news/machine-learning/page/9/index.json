@@ -2,6 +2,103 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-07-04-deep-learning-chip-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2025.md",
+      "title": "Deep Learning Chip Market Overview with Detailed Analysis, Competitive landscape, Forecast to 2025",
+      "excerpt": "Jul 04, 2022 (Market Insight Reports) -- The study on the ‘Deep Learning Chip market’, now available with Market Study Report introduces systematic details in terms of market valuation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2025-2022-07-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2025-2022-07-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-04T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-07-02-support-vector-machines-lead-machine-learning-models-in-predicting-liver-decompensation.md",
+      "title": "Support vector machines lead machine learning models in predicting liver decompensation",
+      "excerpt": "Disclosures: Healio was unable to confirm relevant financial disclosures at the ... subset of patients in Germany compared with other machine learning models, according to data presented at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.healio.com/news/gastroenterology/20220629/support-vector-machines-lead-machine-learning-models-in-predicting-liver-decompensation",
+      "originalUrl": "https://www.healio.com/news/gastroenterology/20220629/support-vector-machines-lead-machine-learning-models-in-predicting-liver-decompensation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.healio.com/~/media/images/fscss/i3wyanokecdncom/healio_safe_image.png",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-02T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healio",
+        "domain": "healio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-07-02-tickerwin-releases-report-on-how-blockchain-is-improving-the-efficiency-of-ai-and-machine-learning.md",
       "title": "TickerWin Releases Report on 'How Blockchain is Improving the Efficiency of AI and Machine Learning'",
       "excerpt": "HONG KONG, CHINA / ACCESSWIRE / July 2, 2022 / TickerWin, one of the leading market research companies, has released a report on 'How Blockchain Improving the Efficiency of AI and Machine Learning'. AI,",
@@ -1256,93 +1353,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-deep-learning-in-machine-vision-market-is-predicted-to-see-lucrative-gains-of-usd-926240-million-by-2029.md",
-      "title": "Deep Learning in Machine Vision Market Is Predicted to See Lucrative Gains of USD 9,262.40 Million By 2029",
-      "excerpt": "Deep learning in machine vision market is expected to gain market growth in the forecast period of 2022 to 2029. Data Bridge Market Research analyses that the market is growing with a CAGR of 12 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/deep-learning-in-machine-vision-market-is-predicted-to-see-lucrative-gains-of-usd-9262-40-million-by-2029",
-      "originalUrl": "https://www.digitaljournal.com/pr/deep-learning-in-machine-vision-market-is-predicted-to-see-lucrative-gains-of-usd-9262-40-million-by-2029",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/Oceans-Plastic-AFP-1K-02-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-adtheorent-wins-machine-learning-innovation-award-in-2022-artificial-intelligence-ai-breakthrough-awards-program.md",
-      "title": "AdTheorent Wins \"Machine Learning Innovation Award\" in 2022 Artificial Intelligence (AI) Breakthrough Awards Program",
-      "excerpt": "Marks AdTheorent's Fifth Consecutive AI Breakthrough Awards Win . NEW YORK, June 23, 2022 /PRNewswire/ -- AdTheorent Holding Company, Inc. (\"AdTheorent\" or the \"Company) (Nas",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/adtheorent-wins-machine-learning-innovation-award-in-2022-artificial-intelligence-ai-breakthrough-awards-program-01655989537",
-      "originalUrl": "https://www.barrons.com/articles/adtheorent-wins-machine-learning-innovation-award-in-2022-artificial-intelligence-ai-breakthrough-awards-program-01655989537",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/barrons/images/social_highres.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/adtheorent-wins-machine-learning-innovation-award-in-2022-artificial-intelligence-ai-breakthrough-awards-program-01655989537",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/adtheorent-wins-machine-learning-innovation-award-in-2022-artificial-intelligence-ai-breakthrough-awards-program-01655989537",
-      "publishedDateTime": "2022-06-23T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI",
         "Machine Learning"
       ]

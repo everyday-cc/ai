@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2022/09/17/sambanova-doubles-up-chips-t
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/09/17/sambanova-doubles-up-chips-to-chase-ai-foundation-models/amp/"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-94210795,imgsize-54820,width-1200,height-628,overlay-etcio/silicon-valley-startup-sambanova-offers-new-ai-system-triples-previous-system-speed.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "SambaNova Systems gives its integrated AI hardware and software platform a massive performance boost"
-    excerpt: "SambaNova Systems gives its integrated AI hardware and software platform a massive performance boost - SiliconANGLE"
-    publishedDateTime: 2022-09-14T15:00:00Z
-    webUrl: "https://siliconangle.com/2022/09/14/sambanova-systems-gives-integrated-ai-hardware-software-platform-massive-performance-boost/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 24
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/sambanova-systems.png"
-        width: 677
-        height: 502
         isCached: true
 
 secured: "cP9ak7RcdAKLJeL/dgiZ8kc+oiakpQyTgG+js6f98tixcs5UYeGKr0feEjb/UATAL68WsQjlfxdAHUUzUrU3r78bYafWrqwtS4pvsAqvg6tjCNmGDPTfplkuhCkm4xDZPGhb+IpCFEW/1qdO/KTy8Lqrtqzh9vsjp+waE2FB98Q7DLY6yFq+LlMJ0SksroYhk/NAprxbOO2h6nKtz3FnIGgjMFLcriXsx6TOmUN9viWDYFQLDhqGj4qas6Ie0sQOD4i5UBKId+CKTkmrJPcqt5iJZVC/qc7iOSw76T/zUL5hCbd4l/ytbu8iB7uAZUN9svChRbTOuU9Yvf2g9TcTEUiGIJ86hKVOGUX9OQkelhhKqbjhYiuzDZUXrv/0hSSimGqJVumvLCelgJtohUID4g7Jahrioz9FzhjihcoaeE++0NDEQDRFP/MTxq2PDkiERV/qK9bDcr3RDWfAQ1nmMJadWvjw4ezpHJPpLdLUFY1NoREKb/x2ChG0xvXmC63PzECww4ogGod5SbJEezYsgQ==;kN1fvmU/ZuU6Kp0yyg+n/A=="

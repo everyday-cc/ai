@@ -35,20 +35,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Human-Like Awareness Emerging in Self-Driving Vehicles"
-    excerpt: "How mobile robots sense and comprehend their surroundings accurately even when other objects block off certain areas is a critical issue that needs to be resolved."
-    publishedDateTime: 2022-09-14T13:11:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=13237"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 24
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/SocialSharingImage_13237_16631535276149501.jpg"
-        width: 750
-        height: 1141
-        isCached: true
   - title: "Magna testing self-driving delivery bot on Michigan roads"
     excerpt: "Magna International said Wednesday it is testing a last-mile autonomous delivery robot for use on public roads as the supplier giant looks to develop new businesses in the mobility space."
     publishedDateTime: 2022-09-14T23:26:00Z
@@ -63,6 +49,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "GM's Cruise Will Start Making Its Own Chips for Self-Driving Cars"
+    excerpt: "General Motors Cruise Never mind the chip shortage Instead of ordering more chips from Nvidia, Cruise started developing its own chips for use in the upcoming Origin model, a boxy self-driving EV with no pedals or steering wheel that’s allegedly going to be ready by 2023."
+    publishedDateTime: 2022-09-14T18:00:00Z
+    webUrl: "https://jalopnik.com/gms-cruise-will-start-making-its-own-chips-for-self-dri-1849535088"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 4
 
 secured: "/sQ/xF/NPkKRZji6Fa5XzwA05DpXvHBtns9KmcsaqNy1KUT2QThD/jkwxJA8VC5ad3NihFZ40EDjzqYRik8JXMzBFOAoK/zuIH0D7g9ZwapyXUw88kikAga2eJLVDd4aY1R/CnSPil2ypKZPQu4Sw5Se37SsA0RobZqr6Xnku/w9LKWHoMMwTmeZNKcnVAUloyq+VXAM7qICF79cKOyQemC9yp8Jmnk5KqyHmSVFFgA6n2o2hi6jqvqoqevSbNO5EVxDlrYtzopJna0h/ici36UknqwXuJxNvuoPWFhyB75rQUw/3wbi4g5KOkyVK02L5PwvgXFudVoOEDhleA78FurOmnC7zgfR73wHOOtHLtpqrj+ZBiDaiy12qFHsPEjMzJA+LDQKsXEKWzjXi77WqejqqOq+/xmtvMU+ltznpQaoa8mItWgPmI28KHGYQy/ESsHVJQ5kZa0zgWq+L7j4KcmBRlQYCgNOXZ5AYnelbEmb5592NgkjU84WstPGUdITYHD6GYsbmwBRrsrMvgqIRQ==;WriD3IR16QjQyc10Yj5hUQ=="
 ---

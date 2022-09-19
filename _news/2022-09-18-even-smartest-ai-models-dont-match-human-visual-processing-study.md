@@ -6,7 +6,7 @@ publishedDateTime: 2022-09-18T15:20:00Z
 originalUrl: "https://www.canindia.com/even-smartest-ai-models-dont-match-human-visual-processing-study/"
 webUrl: "https://www.canindia.com/even-smartest-ai-models-dont-match-human-visual-processing-study/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.canindia.com/wp-content/uploads/2022/03/imageCireplace.png"
@@ -35,7 +36,7 @@ related:
     provider:
       name: Business Insider India
       domain: businessinsider.in
-    quality: 59
+    quality: 61
     images:
       - url: "https://www.businessinsider.in/thumb/94294619.cms?height=275&width=412"
         width: 412

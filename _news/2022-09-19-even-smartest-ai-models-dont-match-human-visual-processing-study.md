@@ -8,8 +8,8 @@ webUrl: "https://www.businessinsider.in/business/news/even-smartest-ai-models-do
 ampWebUrl: "https://www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/amp_articleshow/94293780.cms"
 cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/amp_articleshow/94293780.cms"
 type: article
-quality: 59
-heat: 99
+quality: 61
+heat: 101
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Computer Vision
 
 images:
   - url: "https://www.businessinsider.in/thumb/94294619.cms?height=275&width=412"
@@ -60,7 +61,7 @@ related:
     provider:
       name: Canindia.com
       domain: canindia.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.canindia.com/wp-content/uploads/2022/03/imageCireplace.png"
         width: 696
@@ -76,6 +77,6 @@ related:
       domain: eurekalert.org
     quality: 13
 
-secured: "cZB5HhjQnoWg7DdizZeZ8+NOF1dKeFmFzf9+q1/KkSkV/sNBkM8WODQIxl2QsFRD/uvyOcPMLJscklj+95D+7gfIc+ApmJllXbeFugShokagv9ugtyyIV0j1Znanuo6gtBrKF9nsKsmVaAGr7hcN8lqI3zW1VXn+ztYOV17gAdL2CaJjVdZw0Cvjrz4xU/Vo48GdHDc+vlfsqejv9jpbVc0PEUccY2nwdq/308zE5yJMionVTPLAbnKkS62s2ce4Yh7pbpf2UNK32yscBrir+wZQOE9Sb1dWFQjvPf+4YZu5euUtGinRpW2uDnKyctHmvN4KNj17rrWL23VydcnJJR6jHVIWlXEPD/fUDThHmqY=;boMHxL1E9XxtveKWDiqbIg=="
+secured: "gZXRwCZCUGVeXnBUjXal6RcxhR+arewMFLAtuLzg/x3yyhOWugtqvHvhyItL0/+3Ui13l52ItiO3eBM4FpNjvo53TD2pSekHywG1YsnTITJewxMmLBU4dY08hwYRjg+SFX8/mN+nXy7B4jXRANLfJWfHhZ7YUvc3I5BOA5WAqK2aXIddvQRhb+5SriKDNkNczsD2Ut8BLnlW1WDXksmyXUYrrW4ONLkKkKggokfCS1ICO4PKzLj11CG/V6OCIzyIwmdEf5fYaimGcbRk7EMXoAGgxmVAxlvb8ykFxmbChvvAfHjaDtjQguPXMSWcEwmnba8SJ7pNt7kHdBcOW0NNe5H3pQ6NDbFYI0wh/LbK0H0PExWCgM401+0Xu8bLVhR9mH33f5NO4imRo1aHLCHOXLiL90h5lCduYqVHrXAqBpBuuQkcd79s5kXoOSa8O/CgviVfCLo4mGCqoTuaHYd90unJjQverzayp3GliaumfCeKCbC0cngcE81XdDOfxGTapodgDT8jNYWmmW0U4z4NhQ==;IJEIhDEK4vK0SyWDOl9/vQ=="
 ---
 

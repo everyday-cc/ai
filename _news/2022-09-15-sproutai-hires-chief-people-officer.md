@@ -7,7 +7,7 @@ originalUrl: "https://employeebenefits.co.uk/sprout-ai-hires-chief-people-office
 webUrl: "https://employeebenefits.co.uk/sprout-ai-hires-chief-people-officer/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "Researchers develop a new way to see how people feel about artificial intelligence"
-    excerpt: "People in Japan, the U.S. and Germany show different concerns regarding artificial intelligence (AI) being used in entertainment, shopping services, or to help find criminals, reports a new study in AI and Ethics."
-    publishedDateTime: 2022-09-14T14:17:00Z
-    webUrl: "https://techxplore.com/news/2022-09-people-artificial-intelligence.html"
-    ampWebUrl: "https://techxplore.com/news/2022-09-people-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-people-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 55
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/researchers-develop-a-15.jpg"
-        width: 1100
-        height: 801
-        isCached: true
 
 secured: "+M65WiuP2tynEzVRE4rcyp6qJlRxoRV+/pS+DcrCCzomlPukIU6Tp6w3Kw4pnPPvkRor71XsNV3TzAjQQdZXFajXPLhZKBbIsOH4aqB9n6fC3sJUgKsJYxIcFz/97xt4FCMAaJUoE5eRq2gb1kIRWB3s7alCSIjT2E7uPFq1Pt9aK8BPKvIDg68HSEDJf7V0RQ3yMzijj09RlWRG8bsIv9MAtk27H82awOA7y7ulWq/gPJC9f9peQmLbaAn8ZY1zZl8Xyp5F00NqeqivaV2O2x2nM0KpXbnJqQM16J9SVkyxEDJYq5aGtUXIHtjQWP4zr/sw3UdrIA8T0t/rq+Uqp5pVVVS7+l0ZSvJCXGEnIdw=;Kfm+YLBsmbdFH7JkXWgGkQ=="
 ---

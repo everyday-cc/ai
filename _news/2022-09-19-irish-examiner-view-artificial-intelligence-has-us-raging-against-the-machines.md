@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-19T05:00:00Z
 originalUrl: "https://www.irishexaminer.com/opinion/ourview/arid-40964072.html"
 webUrl: "https://www.irishexaminer.com/opinion/ourview/arid-40964072.html"
 type: article
-quality: 48
-heat: 48
+quality: 50
+heat: 50
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.irishexaminer.com/cms_media/module_img/6404/3202334_1_seoimageog_1570532_1570532.jpg"
@@ -23,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "t+JmXEB6ENB6GQj/RlMjXMeFqOLDC0J+/kkEtUrij/m/oR48ryNfCdGikbISnFBEVPjuXFvf7zfhSY/kO/JUjaaekDlxBfG+wjUmNkLrvKytNoXWe8Mot3Y/v0u1YmrjmkHnTWcha1TKEvXqpxpLh0Q5GGmfhTps2lvpJdsK3/Bx7MxkN8qwvj2yk06rSkbWIlwRGTRReci9BqKfUr3io0h7ldjBQlrXJFxnm0eN+2jWoQYKgQcLSyCF8y6+BdvDyrNg70YPUJvyrYlFnk0ifq/FKjXmD1a8ZikyurMxnf0cTpK4ah5W8VEXW2IzVnyvFRi7cXhXAaKzpGWM0Fp0uiSKQC+Xl+LFYtNsY0u4Cvk=;I0Eh4IAK7qh3hbx08FExQQ=="
+secured: "K08tNdmvpbQ7WTlMS1Gj+FzuXO8XRoZfHgNf0TNqvNgKDMTHA4nOqOT/lQaZyszWxV6EvVoGsVsOgIbRFVqUmf/kgXwxoL2MM3BLz+NBHWH2kWJf3Sr/z/nvTL4wMTIgmnINwqd9W6Gsz9ROfQwgH6EN3GvXFJfcxcic3J2b8L1M1IwY8pKYUx2jCaMCNDl5UqWd/HPa3Wil8IHis+y4MyIDIs4S7gR+DFVFHDN8NPB4wTdnnudZ4HyxILiJvCxoQhXxEE1KLCrg2WCgu3ik1Scn+E0ne69UHZQEUW/P8IyY2r0j/kw6l54KR4YKJMsRMMe972ZrWbpLKi4uxkYbhgjQwjykJkRbgJoUiS2L9NP/4sX3G7pgxfmh7W+NX4Ox13e1m2ogJ2Efk3ifXHFE9uEAvXnV4dvb1xLxmS4/k9/kxg/t9WNAt/TddyI/NxycBDLmiFt+pb2J1i2ZhzPMalm9q6/hu77fXepAY4wau1XAUOLaqydpUxC2ICpZf/H/AhLHwpib1RGtwLOrhWKd0Q==;yEIV1zkpx0SssjebZNavuQ=="
 ---
 

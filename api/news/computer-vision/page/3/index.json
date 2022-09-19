@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-19-h20ais-prashant-natarajan-on-ai-and-computer-vision.md",
+      "title": "H20.ai’s Prashant Natarajan on AI and Computer Vision",
+      "excerpt": "I spoke with Prashant Natarajan, VP of Strategy & Products at H2O.ai, about the development and potential of the computer vision sector, including the role of deep learning technology. As you survey the computer vision market,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/cloud/ai-and-computer-vision/",
+      "originalUrl": "https://www.eweek.com/cloud/ai-and-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/08/eSPEAKS-thumbnail-4.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-18T15:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-18-call-to-halt-gambler-facial-recognition.md",
       "title": "Call to halt gambler facial recognition",
       "excerpt": "Gambling and alcohol reform advocates have called for a moratorium on facial recognition technology in pubs, bars and casinos across the country until appropriate safeguards are put in place around the increasingly affordable and widely available technology.",
@@ -1308,58 +1360,6 @@
         "name": "Digital Journal",
         "domain": "digitaljournal.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-object-recognition-imaging-systems-market-2022-covid-19-impact-growth-factors-top-venders-and-forecast-till-2030.md",
-      "title": "Object Recognition Imaging Systems Market 2022 Covid-19 Impact, Growth Factors, Top Venders and Forecast Till 2030",
-      "excerpt": "Aug 10, 2022 (Alliance News via COMTEX) -- Key Companies Covered in the Object Recognition Imaging Systems Research are Quanergy, Xiris Automation Inc, Pieper Automation, Logos Systems Int’l ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-2022-covid-19-impact-growth-factors-top-venders-and-forecast-till-2030-2022-08-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-2022-covid-19-impact-growth-factors-top-venders-and-forecast-till-2030-2022-08-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

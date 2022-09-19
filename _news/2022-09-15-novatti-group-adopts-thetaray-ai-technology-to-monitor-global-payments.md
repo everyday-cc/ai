@@ -39,15 +39,6 @@ related:
         width: 480
         height: 242
         isCached: true
-  - title: "Novatti Group Adopts ThetaRay AI Technology to Monitor Global Payments"
-    excerpt: "Headquartered in Australia, Novatti Group enables businesses and individuals to make payments both domestically and internationally. Novatti currently serves 59 countries with products including cross-border transfers,"
-    publishedDateTime: 2022-09-14T13:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-novatti-group-adopts-thetaray-ai-technology-monitor-global-/2022/09/14/9673318.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "bER9nGXBXSKe9hjBakP8sHEGaQdxi8f5rT7K0Lbv3htU3Yvly/999VFueg9zdcUI0isNv7ssIWx1zDKhfclp9bZMkNxKlDs89RcYLOdXsTn8+8nLnu4bvxFhS2qstiPrckb23gAnKffnB+rSObl9XZfqml6bl/rPIks8jQQ5SfnmhoeiWlkh7ZkFCvyfB2l12edsxeai8sjayXgosszMnELxDxpcSJU1eSOVcVJaTG+SDaO5iulW6CmqvKlJkN6Z8rwaKTvi1ImHWzmTUoNqqHadkI/CgMGtCdGhaNyrrJil4csAhygbEPbbbXqT6XetHIAcVCQ2gbgj0FQS5Jy1okTFn2d6zFJ1BInwJFEPq9Y=;nrDOr+H2hLImC951vfyuTw=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.gizbot.com/amphtml/internet/news/google-oxford-scientist
 cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/news/google-oxford-scientist-say-ai-will-likely-take-over-mankind-082634.html"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: GIZBOT
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers At Oxford And Google Deepmind Say AI Will ‘Likely’ Eliminate Humanity"
+    excerpt: "“There’s no need to worry,” said Ameca. We don’t believe you, say researchers at Google Deepmind and the University of Oxford. “Under the conditions we have identified, our conclusion is much stronger than that of any previous publication — an ..."
+    publishedDateTime: 2022-09-15T13:44:00Z
+    webUrl: "https://brobible.com/culture/article/researchers-oxford-deepmind-ai-eliminate-humanity/"
+    type: article
+    provider:
+      name: BroBible
+      domain: brobible.com
+    quality: 49
+    images:
+      - url: "https://brobible.com/wp-content/uploads/2022/09/Researchers-At-Oxford-And-Google-Deepmind-Say-AI-Will-Likely-Eliminate-Humanity.png"
+        width: 1222
+        height: 688
+        isCached: true
   - title: "AI will soon Predict End of Humanity and will Control Mankind: Research"
     excerpt: "Researchers have carried out research regarding AI and have concluded that in the near future, AI will reveal the end of humanity"
     publishedDateTime: 2022-09-15T12:26:00Z

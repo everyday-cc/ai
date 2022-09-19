@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-05-drug-discovery-is-about-to-get-faster-thank-ai.md",
+      "title": "Drug Discovery Is About to Get Faster. Thank AI.",
+      "excerpt": "Alphabet’s artificial intelligence subsidiary, DeepMind, stunned the world of science by presenting something truly spectacular: a snapshot of nearly every existing protein on Earth — 200 million of them.",
+      "sourceUrl": null,
+      "webUrl": "https://english.aawsat.com/home/article/3798946/lisa-jarvis/drug-discovery-about-get-faster-thank-ai",
+      "originalUrl": "https://english.aawsat.com/home/article/3798946/lisa-jarvis/drug-discovery-about-get-faster-thank-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "الشرق الأوسط",
+        "domain": "aawsat.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-05-create-a-tfx-pipeline-using-templates-with-local-orchestrator.md",
       "title": "Create a TFX pipeline using templates with Local orchestrator",
       "excerpt": "This document will provide instructions to create a TensorFlow Extended (TFX) pipeline using templates which are provided with TFX Python package. Most of instructions are Linux shell commands, and corresponding Jupyter Notebook code cells which invoke ...",
@@ -1343,49 +1377,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-deepmind-gave-an-ai-intuition-by-training-it-like-a-baby.md",
-      "title": "DeepMind Gave an AI ‘Intuition’ by Training It Like a Baby",
-      "excerpt": "Similar to babies, the AI expressed “surprise” when shown magical situations that didn’t make sense, like a ball rolling up a ramp.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2022/07/19/deepmind-gave-an-ai-intuition-by-training-it-like-a-baby/",
-      "originalUrl": "https://singularityhub.com/2022/07/19/deepmind-gave-an-ai-intuition-by-training-it-like-a-baby/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2022/07/DeepMind-AI-PLATO-baby-intuition.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2022/07/19/deepmind-gave-an-ai-intuition-by-training-it-like-a-baby/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/07/19/deepmind-gave-an-ai-intuition-by-training-it-like-a-baby/?amp=1",
-      "publishedDateTime": "2022-07-19T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

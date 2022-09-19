@@ -33,6 +33,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "WeRide launches the first self-driving Robobus Test Ride in Saudi Arabia at 2022 Global AI Summit"
+    excerpt: "This is the first fully driverless test ride of robobus in the Middle East country and it will take place from Sep. 19th to 22nd"
+    publishedDateTime: 2022-09-19T07:41:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/weride-launches-the-first-self-driving-robobus-test-ride-in-saudi-arabia-at-2022-global-ai-summit-d035ufgp"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 26
+    images:
+      - url: "https://static.zawya.com/version/c:YWRhMWM5NjEtM2RhNC00:MDAyMjIy/cbre-oncemallsigningceremony2022-jpeg.jpeg?f=1%3A1&q=1&w=3840"
+        width: 600
+        height: 600
+        isCached: true
   - title: "US-based Nala Robotics, Saudi Excellence Company ink pact to bring robotics services to Saudi market"
     excerpt: "The US company is to provide robotics AI-enabled equipment and software to help Saudi food companies achieve more efficiency and speed in production and higher levels of quality US-based Nala Robotics,"
     publishedDateTime: 2022-09-16T08:20:00Z

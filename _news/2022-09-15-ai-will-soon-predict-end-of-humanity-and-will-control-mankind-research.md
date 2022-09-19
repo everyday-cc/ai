@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Researchers At Oxford And Google Deepmind Say AI Will ‘Likely’ Eliminate Humanity"
+    excerpt: "“There’s no need to worry,” said Ameca. We don’t believe you, say researchers at Google Deepmind and the University of Oxford. “Under the conditions we have identified, our conclusion is much stronger than that of any previous publication — an ..."
+    publishedDateTime: 2022-09-15T13:44:00Z
+    webUrl: "https://brobible.com/culture/article/researchers-oxford-deepmind-ai-eliminate-humanity/"
+    type: article
+    provider:
+      name: BroBible
+      domain: brobible.com
+    quality: 49
+    images:
+      - url: "https://brobible.com/wp-content/uploads/2022/09/Researchers-At-Oxford-And-Google-Deepmind-Say-AI-Will-Likely-Eliminate-Humanity.png"
+        width: 1222
+        height: 688
+        isCached: true
 
 secured: "6iCmOdAiwDJFZyMaYXEu3zzrh6zBwD4/TgmO3B4AsBmMO68rNNq/ENG+yvR3zCcx8NDlAteeVkQTs2krpc80xQdTvMJAragR2OK37PpaeYJxXjp98DL16Bj7a8Im7LeNOaiSJIrDXa/UPfqZ9HllRGSXL43iteiIZ/HmRCGGL7h22NcbgFBLU9Ij/MAx6pj2qCypUtHgmVvwxAa5H/i+0Aw8RYRm3a4u2KJVmJFcre+bgmWLnTJXXHy7WwYMEKXh7hzzTIKrZCrUyk+ABFAhFt5zZb3uKMahdc2hVBptq+WMYuya7eI3NnaZvx7rnp8rj9ffNSzxxYAVCHBXVUlcxs6udsDgYikiRtzMFoJhSKIHsSiOuDpX2bVpsR3iGxxXlMlJ/ec3ukIIhQz0BUIB6hvN3mdOgE4Cxolq/SuyqARXceSj/YjwihCJ0wVJH1SsJ76Sufl4oDmORABOU9+CTedtTt6tloIOonaderq8z4FESNr9Vd0JEXG8ASCcvgElINOiISnxG2hgtzmzLt0IUA==;UELVFmSX9KsHuibNyeuk+w=="
 ---

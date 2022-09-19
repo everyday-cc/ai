@@ -29,7 +29,7 @@ related:
     provider:
       name: Business Insider India
       domain: businessinsider.in
-    quality: 59
+    quality: 61
     images:
       - url: "https://www.businessinsider.in/thumb/94294619.cms?height=275&width=412"
         width: 412
@@ -68,7 +68,7 @@ related:
     provider:
       name: Canindia.com
       domain: canindia.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.canindia.com/wp-content/uploads/2022/03/imageCireplace.png"
         width: 696
