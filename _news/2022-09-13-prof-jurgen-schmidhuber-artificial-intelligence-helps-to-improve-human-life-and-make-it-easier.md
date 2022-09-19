@@ -18,6 +18,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Autos
+  - Machine Learning
 
 images:
   - url: "https://clcdn.spa.gov.sa/galupload/thumb/no-image-logo.png"

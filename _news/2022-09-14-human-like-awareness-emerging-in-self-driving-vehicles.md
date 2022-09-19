@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Can the road network cope with self-driving vehicles?"
-    excerpt: "The government recently announced plans to boost the roll-out of autonomous vehicles on UK roads by 2025. Will it spark a transport revolution to improve road safety and better connect communities?"
-    publishedDateTime: 2022-09-14T10:42:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/09/can-the-road-network-cope-with-self-driving-vehicles/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 24
-    images:
-      - url: "https://eandt.theiet.org/media/19326/webhero_gettyimages-country-roads-can-have-poor-visibility-no-digital-infrastucture-and-many-variables-how-will-connected-avs-cope.jpg?crop=0,0.14616364665911683,0.15062287655719042,0.43578355039637534&cropmode=percentage&width=1200&height=450&rnd=133071402030000000"
-        width: 1200
-        height: 450
-        isCached: true
   - title: "Magna testing self-driving delivery bot on Michigan roads"
     excerpt: "Magna International said Wednesday it is testing a last-mile autonomous delivery robot for use on public roads as the supplier giant looks to develop new businesses in the mobility space."
     publishedDateTime: 2022-09-14T23:26:00Z

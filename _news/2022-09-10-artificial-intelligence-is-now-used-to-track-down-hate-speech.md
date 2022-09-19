@@ -16,6 +16,8 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Facebook AI
+  - AI in Healthcare
 
 images:
   - url: "https://cdn.newsy.com/images/videos/m/1660250991_F4WYcV.jpg"
@@ -23,6 +25,6 @@ images:
     height: 360
     isCached: true
 
-secured: "2RvkvZxe3Ym+fnLF90sv//bfu8Zl1Sodpk7cIvUW6kVOR83jYm2+9vyXEVXCkM13tDfnMyzSPokpl7/r0KO2lMt1RK31TThyKyFfZyW+iQol9Sm1hdZkKkxuG/24ttJAxyAdb+jw5gHG4BgnsbJ8YNxKSrrjrMeRtRWowVF+J/rRsadRmj4WMi8pNin6E0S/7ozjdUb1LDrTx7S4pc2JdKGP2wGyDn1WgAYz7+VfqicetdPPutn9/kjCP3siFjHQGnegDwe6xqVZLRTF/O8Jysf/ZweWnlACA+gyi54rWb+zfFMRAb8CNf8AiU0wjVcYJYqBuUN/xfNx4XWhyeM5i6B+zl9Zs4PP4RQfN7GVgWU=;zyTpl7TngnQnZSvhcXc9qg=="
+secured: "onDl2N4yqMOotnEKeycTKrbCcPBhow3kI1hbumMFXVpHLtsj9l2ndMrltbi9dFwRdbD9F5M5xCzUUNqtEPZFbJYmROwxNFkQpPWF4oD2jx0UHHaTpYNNEmK4exBZWoWSHRcVHE8qIJNrZtIfDGj0mpni1IpOvh1pYvuCr5GKEuR65Bd063ORr8zoboC11wDaLHvv/4Nwb+fAfE2K/7KYZuwbPQqpVXmJQyjWdgF4LNCImr3KkCSQhFGN/WnLGoJGFWC2N/rux8SUEY/VKxe9k7bltZ0Q3XMHV+Wtwj1a3uv9tWdzUCnrbzzkAKo3uPCIzu/q2rr4ukWwHMWfQLkCfBe6Z9iosdj3uYzthpAjE+IRDTAi8eyAWkB++OLGSf0IfPP8FXIVg3/eb5/TQMjhnY4eXzh8NScb8LGNHRpZB1PjApIK24OrfRL6CNt6GFkaiLjfE6+7F+S+HCkHx125fyYntUWQVdpuwbsn9qhbYbotuY8l73B18u4iJarXSFVldJC+DpPV7tmKV5BSWlmbjA==;GlPuDnh+AqlkCE8hVytHYA=="
 ---
 

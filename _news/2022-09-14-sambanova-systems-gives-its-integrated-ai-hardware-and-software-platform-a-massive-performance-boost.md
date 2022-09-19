@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Silicon Valley Startup SambaNova Offers New AI System, Triples Previous System Speed"
-    excerpt: "SambaNova Systems, a SoftBank-backed Silicon Valley artificial intelligence chip and systems startup, said on Wednesday it has started offering its new AI system called DataScale SN30, tripling the speed of its previous product."
-    publishedDateTime: 2022-09-14T11:02:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2022-09-14/silicon-valley-startup-sambanova-offers-new-ai-system-triples-previous-system-speed"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 40
 
 secured: "KnRyKn8alWYzNcNOa6U36hc05BNQfUiTMLmf+GmWhloo+RGgFWEpj4eotXJ0tybMIImadnYG/ImYU8HNp4+uJPY3WqzR2Sotxaeyh/YL/LbP0xgMjsVT90qNJoY0cb7u4R1sZxrHDsJsPsoqO6uUa2KGBiGdDUq4HMP+9YEzxGqqxYMKP5dl3sZ1OGHNWeTRngpTpnn3DL5mPcEi3uk8YGM/V2u3zaFBr6mLCTJU19m60/GeJgQCOsyFtfwxJI4z+pn1hiL5hh/LgDRrr0agcrHfaROamuu6MjOxsd94fRldosca4/VMjCWPGzKvobVXirsdGDFqfavnuVbfGoRE6QQfhfsAsEOQsduP1/4UP91onc6aSgqSdJHnWnC6JR5n1+Amq7ADtiEMKqYMyI5Z4qyWEmhzigZ5WmQjmuqt20QiIIvbLgJ/FXjUnr3PlvnhVKUYVHgyfwUe0WiIXW47xYzMJH8ITJluntIhCECvad4TVJ5Gy7iMp8Cmo8wvTZnPjFAwcfwdqYesq89yj7oggA==;0Ap0VZPC9ikAhP+BDvjelg=="
 ---

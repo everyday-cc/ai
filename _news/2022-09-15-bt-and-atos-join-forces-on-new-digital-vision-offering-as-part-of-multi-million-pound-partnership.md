@@ -33,6 +33,20 @@ related:
         width: 440
         height: 264
         isCached: true
+  - title: "BT, Atos Join Forces on New Digital Vision Offering"
+    excerpt: "BT partners with Atos to create Digital Vision, offering Computer Vision to their combined customer base. The joint proposition will provide customers with a powerful AI-based analytics tool to extract value from their digital images and videos As part of a multi-million pound partnership,"
+    publishedDateTime: 2022-09-19T03:18:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/27540-bt-atos-join-forces-on-new-digital-vision-offering"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 24
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/210d3c19eb3c612dc6b8ca7e521ead7e.jpg?t=20220919_031556"
+        width: 752
+        height: 408
+        isCached: true
 
 secured: "afQW1heitNBea/zNr8or6e7inMog1Skn+wMTYN+ozO1y+Zk1EgxphAtRx4tN2RQoff66SwhpF+MMT/AwlOFZoSsUHFS+Rx9Kh3sJUrm/9I12ql51aRt0K/Zh5WNp328bMqzI7J4Jq36niPUQiedyYI5dIW6CbKyN/6Kq2chlhJanUWtw/t6wy3YZDfO9cq2BSeq4aZ7XmIByiytX1ChOWxflxYvZQJPayIqQrGVOF+a+MGVd3djaAIliZlINaDZwDm25n9Y34oTyDPReEHJHaAOsIEiGsYR7rmhieoZk1hr9H4wDpyQ3d/CM/2LOi+60eAXuaSxFuaM4FoPhY+6ItA8LQrnXenDU7rRoY9gD50o=;zzPR7oVPX57o3l1c6tF4fw=="
 ---

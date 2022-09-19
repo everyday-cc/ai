@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Agreements on AI-based healthcare solutions, centre of excellence signed at Global AI Summit in Riyadh"
-    excerpt: "The three-day global event, opened on Tuesday, is attended by over 10,000 participants and 200 speakers from 90 countries, representing policymakers and specialists Agreements on AI-based healthcare solutions,"
-    publishedDateTime: 2022-09-14T09:37:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/healthcare/agreements-on-ai-based-healthcare-solutions-centre-of-excellence-signed-at-global-ai-summit-in-riyadh"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 20
   - title: "2022 Global AI summit begins with the launch of international initiatives"
     excerpt: "Summit, hosted by the Saudi Data and Artificial Intelligence Authority (SDAIA), is set to convene more than 200 speakers from 90 countries and 10,000 participants.. 2022 Global AI summit begins with the launch of international initiatives."
     publishedDateTime: 2022-09-15T05:45:00Z

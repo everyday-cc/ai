@@ -7,7 +7,7 @@ originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9
 webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-16-north-america-fintech-as-a-service-market-to-grow-at-163-annually-through-2028-researchandmarketscom"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "Europe Fintech-as-a-Service Market to Grow at a 16.5% CAGR Through 2028 - ResearchAndMarkets.com"
-    excerpt: "The \"Europe Fintech-as-a-Service Market Size, Share & Industry Trends Analysis Report By Technology (Blockchain, API, Artificial Intelligence, RPA), By End Use, By Type, By Application, By Country and Growth Forecast,"
-    publishedDateTime: 2022-09-14T09:27:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-14-europe-fintech-as-a-service-market-to-grow-at-a-165-cagr-through-2028-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "FLWMEguSLLagmqSCvpcWv/ZjD6c0aeNJpfBESXeFnw376eqcBgh6DDpnZKIvE/CY50hIblMzUccIU6xAdDoOLkm3oZZsJmG/X2mvtAl2YHqjgJFrV+fI0HxlUV/V5H2XXIUQ1y3MSHoO1YbPsYKGJgtwItQCCMzDW9hCyOR+8nbwLpyA+QHtUByqxKivQxWrFAk8p7pDqYg86/dxUHsggdfV6Ret6MssHPuD4NopbipS3Mqvevuuek93SCAoBKZWbtuZLPHQtxviqB8dhZ7FRaG4+0u8j77xAzEqWj068R5y5HLwoKYgtu5g/Mj3faMCoTytwB46j51AJMNxDj58TF6cky/M54HR7qDlrnS7sTE=;NDMRRaEivRxdpSNP0p5D9w=="
 ---
