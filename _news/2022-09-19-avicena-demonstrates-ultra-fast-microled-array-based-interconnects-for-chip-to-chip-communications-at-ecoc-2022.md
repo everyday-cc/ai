@@ -1,23 +1,20 @@
 ---
 category: news
 title: "Avicena demonstrates ultra-fast microLED-array based interconnects for chip-to-chip communications at ECOC 2022"
-excerpt: "Avicena is showing ultra-fast microLED links operating at 14Gbps per lane as part of its LightBundle TM multi-Terabit interconnect technology Avicena, a privately held company in Mountain View, CA, is demonstrating its LightBundle TM multi-Tbps chip-to-chip interconnect technology at the European Conference for Optical Communications (ECOC) 2022 in Basel,"
-publishedDateTime: 2022-09-19T04:00:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-19-avicena-demonstrates-ultra-fast-microled-array-based-interconnects-for-chip-to-chip-communications-at-ecoc-2022"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-19-avicena-demonstrates-ultra-fast-microled-array-based-interconnects-for-chip-to-chip-communications-at-ecoc-2022"
+excerpt: "Avicena, a privately held company in Mountain View, CA, is demonstrating its LightBundle TM multi-Tbps chip-to-chip interconnect technology at the European Conference for Optical Communications (ECOC) 2022 in Basel,"
+publishedDateTime: 2022-09-19T06:14:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/09/19/9675563.htm"
+webUrl: "https://it.tmcnet.com/news/2022/09/19/9675563.htm"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "oucsihIdW9ccQnWQKpdZtoHpnBGdZ6KdgvUtHYQzkZ5HDbDEG+nW/o49+B//kwY0XcKBL539ml4izIpNvsfNkwrvJLmoXA6VUplzwGWXW9mXiDEfc0OAMXDHGZQMBn8Xvs6Y2B2xLfoAnsE+LaoEnlKZFrguFlTMmCpQmtZLzYfwW2wKVJ0OCLXblp9IQ/8ORyN+1WE7kjl7nTF+QjnOhvM0FdK4fpanB6Zril27XpLteJjs5OgjphB1uSuNq2SkIXtO3z4yCzZNXoX2DGKnWEDTI1mY7N7a1kO4wz+GWX2UsJ3a2RfJge4+S2l6rDxR05lwAa3zVDW9z3ZXAxTetNLTWfulPd9B9WzmILMW1IeBn6VMQxQ/LpKfUZQ0Hd1iU4peIBl5RHbS3NG52BhwAXiiGwnKm2PUg7CF2VlXtlI53n7eLQSPP5kdesZ5iaMpF1Vd14kJCiMH4hVn/kpxwgEtWKCk+kJ7yxU6itz6vRhMRs6Kat3HnohqbRQjObBaXDgUt7ZGFBoiOJARGzJv1w==;My2tZsJ2sSQbQyrJr3ciLg=="
+secured: "J1K/H2nxDIEqC0Y4/607waD3NNY87xIdHpe0SHWbhSxwAPsllLqfHc3345+hj2Cih32JS23YfYJeGJp/SMi3aqo253QtjYTuTaFwAiKcL2X8lO+UGMK2D9+kFDK65+szbUGgF8uAuOKNcr/kQS7ZNzqPfIVwo42syqmW2LJzdb3MEzFWIPioiBPZQTE/Z4PzPxUgHVx/ytGM73yBamdzQSTn1GZ0svLwjmPFHVcBk6LX8s6F3GIJPMdIsadWdxNWsQB+tZ4Nmw6UYaVIffDeeCGwoHqEBrPNpiZeQmHx8ockDIP5z6kdJwoRclap8oA7YDt7zUbYqLGJZAQ5t2+2LGRUBAI+h8cgo6Eyurs74on0tdzwG6C3e/sBiCuiz4b7zeJs1c9kfVRajjcdtePT82l12QK41t8ZlJHmtmxr+s6qyqLWDkVmFqtlseCS/5Jk1OJewmgB0/Arlm8as+u3KpRVLmhVaIpUO7XI+kqOJWwh/Wokqyi8HEQGxworAaU6wJzzLjqooPqxexb7xbR6ug==;T/brDsQba24QvvB7eathOQ=="
 ---
 

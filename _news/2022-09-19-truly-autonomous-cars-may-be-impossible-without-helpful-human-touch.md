@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Truly autonomous cars may be impossible without helpful human touch"
-excerpt: "The central premise of autonomous vehicles - that computers and artificial intelligence will dramatically reduce accidents caused by human error - has driven much of the research and investment. But there is a catch: Making robot cars that can drive more safely than people is immensely tough because self-driving software systems simply lack humans' ability to predict and assess risk quickly,"
-publishedDateTime: 2022-09-19T15:41:00Z
-originalUrl: "https://ca.investing.com/news/world-news/truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-2774293"
-webUrl: "https://ca.investing.com/news/world-news/truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-2774293"
+excerpt: "MILTON KEYNES, England (Reuters) -Autonomous vehicle (AV) startups have raised tens of billions of dollars based on promises to develop truly self-driving cars, but industry executives and experts say remote human supervisors may be needed permanently to help robot drivers in trouble."
+publishedDateTime: 2022-09-19T16:31:00Z
+originalUrl: "https://www.investing.com/news/world-news/truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-2894928"
+webUrl: "https://www.investing.com/news/world-news/truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-2894928"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
   name: Investing
@@ -18,12 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://i-invdn-com.investing.com/news/LYNXMPED040R3_L.jpg"
-    width: 800
-    height: 533
-    isCached: true
-
-secured: "WYn+7uuHRjTsafdEMHhSBPDHdRdA46MZIseF0svzU1ukmmRavtFvKdDPcYFfdKoRymEEHVOz9cZKxbQj5dgRCOISmzoTKszR8TS927WuFIaZp4xPb4ZjEF7f1FY1tyfu2V033cXecovjHWtoCLw4r/9iGGMME75t7frkGLudOTwZ7a1kLMJi9dCK4QZjzh4fHjbhoyBGfrtOwuoCQDNdqyFFotM+74sfJYduV/KniJK9DdyOgKea6ObgtpqKJTr3p1SEPDoC9sCVeQSaFCjL0JdFZYAJPrzqrHV1la30T1OBlivJXJMIrdz7IOov3kGLeLa3SJnqqAkE/gIQh6K47o2N70bMV51L62aBG0zlrcI=;zKQdtVlPQuylwfeBHavLFQ=="
+secured: "O1zANNX4Iixi9NY+WO1WahtwjhlqgQ4xnm2rbaz/669yuGNoZGgQCxBurej4Cnn7pYhsUQzkYow5So0WnWKWsY1nKiLJK7XArbSxX/vAFyl/XI/l5QeADSBfqU8jNE+VGB18gctouAjdgP57VJLmtRqUaGIghrW3YdWchmRd4v3Pnh38EiFryPU/iRs7P2kBEnRWxR96T6c+eLKU9dFCuRiYbM75KhYUqcGQqFxCp0NaL6ZA0VMH3KN9w1nnguy3Yh8QF5iDYxWznxJ1dgkm8mSsLJZSZ4V+m6jLbd/4uS/7c1trBSLRwPqoJSkTY3sNxClYSHTudH5SHyf/1FzwfgZVQtVd9VAG2ASkanYvWHGfh8VOyhk6PhsrKbRyqqKg68fdZKUG7fK0VqCUGGi2grBIzXIt4c8u7+E9CPBWPbzGztr8JV2FsPNI3WLfyjIQggMV9t5XlPX5PUmSfFqYVFmpUI/IDSyN0NLoa7hMoVCPMtF1Pva3YAwMH2gpdY2N5bdJ3Zxx4WtH6xsYRsRwlA==;kNzJY69xkQCnOYPwecHfGQ=="
 ---
 

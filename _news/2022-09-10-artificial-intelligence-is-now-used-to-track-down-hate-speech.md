@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Facebook AI
 
 images:
   - url: "https://cdn.newsy.com/images/videos/m/1660250991_F4WYcV.jpg"
@@ -23,6 +24,6 @@ images:
     height: 360
     isCached: true
 
-secured: "+esJiuv6ElgoFweUzzzn0I+PsoFkrtEEMWEKfnWGEbmWqiIFU55Pyr1sRbybvsZznyOk+JMirjMmO3IzOQDddcjc5w7aop39uYMrpH8/bTS6D9BNCUExovUzMfu11QN3cB7jQYkN2NiYlpOhKOIUHiTHLXXvKajGB+MfTapumk7C5d2Nm4/v2RPxA3ApXIF3JlkNXWzA1D3LkBCWOSqFuMHx6BsDGfo4sbQ+PhMO9SfxTDylXJRc/sFomx8af4iNVpwUAr2s3Gjq4PXvZuBJftrJQ7e/OHtelPxXl0r4vYefU+WF2i16wBTQUbMJyiO0DCtbg2nnFl7YO/Mbu9fu9DvlVMWAy9k6nUFLzK+fWts=;UHw8aWqnTAi2ZZkQpfidvQ=="
+secured: "3Azu5IMtZ82/0800pIULjV6nQAbDzUFie1MMeVGGUbFk1Jcmt9fF4vabfdGbe+ZJcTpI/T2+4UfgBZNqsnZqjR28F+ORQW7GIX4RZ/ClH9Yr6BctCE9iBZMut4llIo4tfC6bPe4y8iohtu7v55KQ1gTalQ8wznZtHUMovUTKCpbFnyOIQMvUKeV9kJZ3HV7jyTNcrz308eFdKylRO2X6rtZVccclGWSF57vLSfYZ6KwpcRChEm2aHom4MfG6LS5BB8nZnMC5iPLVMzQtT9ybHrM9mAepKKvxLznP9ilC2rpfjhSh9y98I2qwxs07xMD+2BmPR/WinmJv6uxL1Um7KvD5QpYQoWh+FM+2nUfOVtr8tNk5xACNUs9ZTNzeU3fjpPlJLvrfjrfIMD+zEWGt01X3kP8DY3p+nw6AraZbJ6F9hWNMfvaAr2JLGXWgA/yLN3BQsX/IiWrSuHJLrH5GWZ1D0sJxFZx88R0FZuXY2UD6GjAvuZfX3JTQcF8Z6sYyrlbkqVdeUza69V1ctmChKw==;2WCToerPuqPu08cPa6/4MQ=="
 ---
 
