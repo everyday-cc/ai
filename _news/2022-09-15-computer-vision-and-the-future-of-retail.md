@@ -41,6 +41,15 @@ related:
         width: 750
         height: 384
         isCached: true
+  - title: "Five reasons why AI is the future of banking"
+    excerpt: "As Artificial Intelligence in Finance is expected to transform the way people interact with money, ITP.net along with NetApp dwells into the how AI is the future of banking and keys to spark innovation and drive revenue."
+    publishedDateTime: 2022-09-19T11:04:00Z
+    webUrl: "https://www.itp.net/emergent-tech/five-reasons-why-ai-is-the-future-of-banking"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 17
 
 secured: "5TxCcPtmbftrI6hKQDtspepiH2ki3D8es2odyJaTfWLH0OwgmMtxPMEXOxfRa6pgAtgYNtUSm8tb5kbJ0cCnsQPLOrHr7VoR4RTn1Nnjkoq53Vq1VosW95Q/shCVJfzNP8ZbpCJP+uqWqTbh/U0RVG0VKALsYJmmIR8wO2MymKcKZsBw62Q1zIv5ChL6W15V02ZONjIVPghCceNLp2IaHfxo1lEJyIXhAfRWlKm4eQAIx+BXgHmRilzWmr/ShPOc2d8QaWcA5QBunR6qK6qvBXCcaBevsT5EEtkCQvVoabcGUx+JFCaZNVFI3Yrpw5uiSoBQDWQkngMgoS5J4ntsvh4rSsVWZQJnGxQSvnotdTQ=;3/1fq1fHAVgiRrNsfIp/QA=="
 ---

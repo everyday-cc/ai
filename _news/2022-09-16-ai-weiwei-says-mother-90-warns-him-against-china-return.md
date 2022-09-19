@@ -2,9 +2,9 @@
 category: news
 title: "Ai Weiwei says mother, 90, warns him against China return"
 excerpt: "Artist and activist tells event in London he is not clear in own mind about whether struggles for freedom were ‘worth it’"
-publishedDateTime: 2022-09-16T10:33:00Z
-originalUrl: "https://www.theguardian.com/artanddesign/2022/sep/16/ai-weiwei-says-mother-90-warns-him-against-china-return"
-webUrl: "https://www.theguardian.com/artanddesign/2022/sep/16/ai-weiwei-says-mother-90-warns-him-against-china-return"
+publishedDateTime: 2022-09-16T12:46:00Z
+originalUrl: "https://www.theguardian.com/artanddesign/2022/sep/16/ai-weiwei-says-mother-90-warns-him-against-china-return?ref=upstract.com&curator=upstract.com"
+webUrl: "https://www.theguardian.com/artanddesign/2022/sep/16/ai-weiwei-says-mother-90-warns-him-against-china-return?ref=upstract.com&curator=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/artanddesign/2022/sep/16/ai-weiwei-says-mother-90-warns-him-against-china-return"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/artanddesign/2022/sep/16/ai-weiwei-says-mother-90-warns-him-against-china-return"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "Qf/+U4L4sD9rxq5RR6rM0JDIiG5br0nR0r/iug7Tkq0Ro2hXQ5QEdfddwgdphg5pgZWnXT0uqHNyQi1UDupSouiNq0D8U4oXq6DBz+JwEV4/PwCXNBz9e1TpzFjiIYjoeKgx5zdYEN5YcBv4pia6NgiqMapYJ6429O8Pj0IZI5Rdzu58m4M4sllwxryZoLI9AAMYC2ZocmoXGMGuCLmNMaNosEx7I32Xk8skto9IGzlLMvl5llR08OHb9fd2le06LNpysQGRBdue3tlPXmITheJh5LPPUMHZcTaqyHn/EWvDEvDf12g66cnWvkiNYhhgtclF6mF4vX+G3Zn4f8VrXlHqGAnHjDvN6gviSSqe+soDKfDCaxfPGYh0F9LAU6vl+AwB0RzkxnTVNN4mhtrFHRym5EcWbgwg+PE+r30D2+twiTLkRzg+s0Yt1xcX9XGXPzm+8w2xRqEVRlzsxXx/J3UBbmNEwnxGSPBZfwkE1YgOvJjA5lKddkXZG3mJCdW12oyrykgmXEI2vKf001UpAQ==;1j6bd2J28YBVtfeLkbHeNw=="
+secured: "LKlDG8ycJs1j4dRWr7vALuIrFx9qjyv8pv6CcX23OMmGHGjJbQKYHcemB1KJtLu5H5V8PIy2+p1/9Ee3NdXa8wNhGjmSdIgwmdwlyQea9wvwNna9pCUCSygPWsl1t6wxcUE4mPv2ZafnQDmM0+hHegBuxjnD877oGKr08NMayXv/pwsX1oyYz+myKXu9rY1pbOIyDzD0ebvn8uVAAu4PjT5eLjYVs1vlTgeFiFLamU6LGQNdikwYqa64pxUoq+4xIVEb8ARDffwC9ISWlKTiTxQbD3FQPC/c/69kl7Vji8QveBhUsMmcWYx9IrhYmZew3B0tPW96kx0TK/8yoamS6YUEHZvLL+i0DIytWO+FXp4=;oe0tsnQgo3pCEq+pvpiKEw=="
 ---
 

@@ -2,6 +2,144 @@
   "page": 93,
   "value": [
     {
+      "path": "_news/2022-07-02-the-gpu-shortage-is-over.md",
+      "title": "The GPU shortage is over",
+      "excerpt": "We’ve liveblogged and livetweeted that hell of trying to buy a GPU online, fighting against an army of bots to navigate the buggy websites of retailers who didn’t have enough reason to care.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/7/1/23191634/nvidia-amd-gpu-shortage-over-3080-3070-3060-radeon-rx-6900-6800",
+      "originalUrl": "https://www.theverge.com/2022/7/1/23191634/nvidia-amd-gpu-shortage-over-3080-3070-3060-radeon-rx-6900-6800",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/OTpmptgr7XcTVAJ27UBvIxl0vrg=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22049166/shollister_201117_4303_0003.0.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-01T18:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-02-driverless-cruise-robotaxis-stop-working-simultaneously-blocking-san-francisco-street.md",
+      "title": "Driverless Cruise robotaxis stop working simultaneously, blocking San Francisco street",
+      "excerpt": "A group of driverless Cruise robotaxis blocked traffic in San Francisco for hours on Tuesday evening after the cars stopped working without explanation. Cruise, which is backed by General Motors ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/7/1/23191045/cruise-robotaxis-driverless-roadblock-san-francisco",
+      "originalUrl": "https://www.theverge.com/2022/7/1/23191045/cruise-robotaxis-driverless-roadblock-san-francisco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/vSc5PYoYxxqOvEWljQwateFk-sY=/0x92:2202x1245/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23665440/Screenshot_2022_07_01_at_11.47.43.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-01T17:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-02-o-ability-your-power-of-perception-is-mostly-innate.md",
+      "title": "'O' Ability: Your Power of Perception Is Mostly Innate",
+      "excerpt": "We called this ability “o” for object recognition and in honor of the “g” factor, which stands for similar statistical evidence for general intelligence. Since it is so general, is o just another name for general intelligence? We don’t think so.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearscience.com/articles/2022/07/02/o_ability_your_power_of_perception_is_mostly_innate_840513.html#!",
+      "originalUrl": "https://www.realclearscience.com/articles/2022/07/02/o_ability_your_power_of_perception_is_mostly_innate_840513.html#!",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearScience",
+        "domain": "realclearscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-02-scientists-designing-ai-robots-to-work-in-earths-most-extreme-places.md",
       "title": "Scientists Designing AI Robots to Work in Earth's Most Extreme Places",
       "excerpt": "Manchester researchers have been advising government and energy sector leaders on the safe development of AI robots being used in extreme environments.",
@@ -995,135 +1133,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-soldiers-vs-robots-in-the-british-armys-latest-recruitment-campaign.md",
-      "title": "Soldiers VS robots in the British Army’s latest recruitment campaign",
-      "excerpt": "The British Army has launched a new recruitment drive featuring robots, as reported on Friday July 1. Soldiers have been pitted against robots in the",
-      "sourceUrl": null,
-      "webUrl": "https://euroweeklynews.com/2022/07/01/soldiers-vs-robots-in-the-british-armys-latest-recruitment-campaign/",
-      "originalUrl": "https://euroweeklynews.com/2022/07/01/soldiers-vs-robots-in-the-british-armys-latest-recruitment-campaign/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://euroweeklynews.com/wp-content/uploads/2022/07/british-army.jpeg",
-          "width": 706,
-          "height": 403,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-01T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Euro Weekly News",
-        "domain": "euroweeklynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-viettel-enters-ai-partners-with-nvidia.md",
-      "title": "Viettel Enters AI Partners with NVIDIA",
-      "excerpt": "Viettel Group and NVIDIA signed MoU to establish a strategic partnership on using Artificial Intelligence (AI) to advance Viettel and Vietnam",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/news/viettel-enters-ai-partners-with-nvidia/",
-      "originalUrl": "https://enterprisetalk.com/news/viettel-enters-ai-partners-with-nvidia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/07/Viettel-Enters-AI-Partners-with-NVIDIA-01.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/news/viettel-enters-ai-partners-with-nvidia/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/viettel-enters-ai-partners-with-nvidia/amp/",
-      "publishedDateTime": "2022-07-01T02:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-advisornet-financial-inc-buys-585-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.md",
-      "title": "AdvisorNet Financial Inc Buys 585 Shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ)",
-      "excerpt": "AdvisorNet Financial Inc increased its stake in Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) by 16.3% in the first quarter, according to the company in its most ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.etfdailynews.com/2022/07/01/advisornet-financial-inc-buys-585-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz/",
-      "originalUrl": "https://www.etfdailynews.com/2022/07/01/advisornet-financial-inc-buys-585-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/scripts/SECFilingChart.ashx?Prefix=NASDAQ&Symbol=BOTZ",
-          "width": 650,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.etfdailynews.com/2022/07/01/advisornet-financial-inc-buys-585-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz/amp/",
-      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/07/01/advisornet-financial-inc-buys-585-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz/amp/",
-      "publishedDateTime": "2022-07-01T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETF Daily News",
-        "domain": "etfdailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

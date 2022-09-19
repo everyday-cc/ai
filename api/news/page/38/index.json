@@ -2,6 +2,144 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2022-08-17-what-are-the-10-best-ai-consulting-firms.md",
+      "title": "What Are The 10 Best AI Consulting Firms",
+      "excerpt": "Google CEO Sundar Pichai has described the advent of artificial intelligence (AI) as more revolutionary than the discovery of fire or electricity. According to PwC, it has the potential to contribute $15 trillion to the global industry by 2030.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/08/17/what-are-the-10-best-ai-consulting-firms/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/08/17/what-are-the-10-best-ai-consulting-firms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62fc8c03c3e3a8833738a5f5/0x0.jpg?format=jpg&width=1200",
+          "width": 1000,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/08/17/what-are-the-10-best-ai-consulting-firms/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/08/17/what-are-the-10-best-ai-consulting-firms/amp/",
+      "publishedDateTime": "2022-08-16T23:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-08-17-morti-is-a-robot-dog-that-can-learn-to-walk-in-an-hour.md",
+      "title": "Morti is a robot dog that can learn to walk in an hour",
+      "excerpt": "Researchers at the Max Planck Institute have developed a robotic four-legged dog that uses an algorithm to learn to walk from scratch \"like a baby giraffe\". The four-kilogram robot is being used ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dezeen.com/2022/08/17/morti-robot-dog-learn-walk-hour-technology/",
+      "originalUrl": "https://www.dezeen.com/2022/08/17/morti-robot-dog-learn-walk-hour-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.dezeen.com/uploads/2022/08/morti-robot-dog-max-planck-institute-technology_dezeen_2364_col_3-852x567.jpg",
+          "width": 852,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dezeen.com/2022/08/17/morti-robot-dog-learn-walk-hour-technology/amp/",
+      "cdnAmpWebUrl": "https://www-dezeen-com.cdn.ampproject.org/c/s/www.dezeen.com/2022/08/17/morti-robot-dog-learn-walk-hour-technology/amp/",
+      "publishedDateTime": "2022-08-16T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dezeen",
+        "domain": "dezeen.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-17-deep-learning-market-size-outlook-share-revenue-regions-forecast-2022-2031.md",
+      "title": "Deep Learning Market Size Outlook, Share, Revenue, Regions & Forecast 2022-2031",
+      "excerpt": "Key Companies Covered in the Deep Learning Market Research are NVIDIA ( US), Intel (US), Xilinx (US), Samsung Electronics (South Korea), Micron Technology (US), Qualcomm (US), IBM (US), Google (US ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104708326/Deep-Learning-Market-Size-Outlook-Share-Revenue-Regions-Forecast-2022-2031",
+      "originalUrl": "https://menafn.com/1104708326/Deep-Learning-Market-Size-Outlook-Share-Revenue-Regions-Forecast-2022-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?362957",
+          "width": 443,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T22:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MENAFN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-17-measuring-jawlines-decoding-the-new-face-recognition-system-at-airports.md",
       "title": "Measuring jawlines: Decoding the new face recognition system at airports",
       "excerpt": "Key stories on business-standard.com are available to premium subscribers only. Already a premium subscriber? LOGIN NOW Business Standard has always strived hard to provide up-to-date information and commentary on developments that are of interest to you ...",
@@ -1017,117 +1155,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-the-best-roombas-in-2022.md",
-      "title": "The best Roombas in 2022",
-      "excerpt": "iRobot’s Roomba range offers everything from entry-level models up to premium designs, which include self-emptying charging bases and object recognition. However, you don’t have to spend the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tomsguide.com/best-picks/best-roombas",
-      "originalUrl": "https://www.tomsguide.com/best-picks/best-roombas",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/PEA32rbDpZUJucS9yZZRQG-1200-80.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-16T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-lyft-motional-continue-working-towards-fully-driverless-robotaxi-service-in-las-vegas.md",
-      "title": "Lyft, Motional continue working towards fully driverless robotaxi service in Las Vegas",
-      "excerpt": "LAS VEGAS, Nev. (FOX5) - Lyft and Motional are continuing their work towards launching a fully driverless robotaxi service in Las Vegas. According to a news release, starting Tuesday, as part of a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox5vegas.com/2022/08/16/riders-can-now-request-driverless-robotaxi-through-lyft-las-vegas/",
-      "originalUrl": "https://www.fox5vegas.com/2022/08/16/riders-can-now-request-driverless-robotaxi-through-lyft-las-vegas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-16T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX5 Las Vegas",
-        "domain": "fox5vegas.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-community-financial-institutions-gain-access-to-ai-powered-personalization-through-combined-deeptarget-cognitivescale-technologies.md",
-      "title": "Community Financial Institutions Gain Access to AI-Powered Personalization Through Combined DeepTarget & CognitiveScale Technologies",
-      "excerpt": "For the first time, CFIs will be able to identify predictable revenue opportunities across all 15+ lending and fee based products and services ... M12 (Microsoft Ventures), Anthem and USAA.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56821950-community-financial-institutions-gain-access-to-ai-powered-personalization-through-combined-deeptarget-cognitivescale-technologies-200.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56821950-community-financial-institutions-gain-access-to-ai-powered-personalization-through-combined-deeptarget-cognitivescale-technologies-200.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-16T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

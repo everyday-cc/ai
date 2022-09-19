@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-08-16-how-companies-can-achieve-success-with-artificial-intelligence-in-hiring.md",
-      "title": "How Companies Can Achieve Success with Artificial Intelligence in Hiring",
-      "excerpt": "As businesses adopt Artificial Intelligence in recruiting at an increasing rate, it's critical that they know how to leverage",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/featured/how-companies-can-achieve-success-with-artificial-intelligence-in-hiring/",
-      "originalUrl": "https://enterprisetalk.com/featured/how-companies-can-achieve-success-with-artificial-intelligence-in-hiring/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/08/How-Companies-Can-Achieve-Success-with-Artificial-Intelligence-in-Hiring.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/featured/how-companies-can-achieve-success-with-artificial-intelligence-in-hiring/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/how-companies-can-achieve-success-with-artificial-intelligence-in-hiring/amp/",
-      "publishedDateTime": "2022-08-16T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-16-vision-loss-rehabilitation-canada-brings-ai-driven-diabetic-eye-screening-to-rural-and-indigenous-communities.md",
       "title": "Vision Loss Rehabilitation Canada brings AI-driven diabetic eye screening to rural and Indigenous communities",
       "excerpt": "Diabetic retinopathy is the most common form of diabetic eye disease. In Canada, 750,000 people have DR and the economic impact on the healthcare system is $1.2 billion annually. With early detection,",
@@ -1373,6 +1330,49 @@
       "provider": {
         "name": "Middle East North Africa Financial Network",
         "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-sanford-health-sharp-healthcare-join-clinical-ai-development-collaboration.md",
+      "title": "Sanford Health, Sharp HealthCare Join Clinical AI Development Collaboration",
+      "excerpt": "Sanford Health and Sharp HealthCare have partnered with Dandelion Health to launch a new product development platform for clinical artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/sanford-health-sharp-healthcare-join-clinical-ai-development-collaboration",
+      "originalUrl": "https://healthitanalytics.com/news/sanford-health-sharp-healthcare-join-clinical-ai-development-collaboration",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/sized/GettyImages-1169990180-e4b00c1efb9503a805928b101c78b499.jpg",
+          "width": 480,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitanalytics.com/news/amp/sanford-health-sharp-healthcare-join-clinical-ai-development-collaboration",
+      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/sanford-health-sharp-healthcare-join-clinical-ai-development-collaboration",
+      "publishedDateTime": "2022-08-03T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,117 @@
   "page": 118,
   "value": [
     {
+      "path": "_news/2022-06-15-kaist-develops-robot-skin-that-can-sense-tactility-and-recover-from-injury.md",
+      "title": "KAIST develops robot skin that can sense tactility and recover from injury",
+      "excerpt": "The Korea Advanced Institute of Science and Technology (KAIST) said its research team has developed a robot skin that can sense various external tactile stimuli and recover from injury when it is cut or damaged.",
+      "sourceUrl": null,
+      "webUrl": "https://www.poandpo.com/in-the-meantime/kaist-develops-robot-skin-that-can-sense-tactility-and-recover-from-injury/",
+      "originalUrl": "https://www.poandpo.com/in-the-meantime/kaist-develops-robot-skin-that-can-sense-tactility-and-recover-from-injury/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/scotfiles/image/fetch/https://www.histerius.com/hs0622/kaist.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.poandpo.com/in-the-meantime/kaist-develops-robot-skin-that-can-sense-tactility-and-recover-from-injury.amp",
+      "cdnAmpWebUrl": "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/in-the-meantime/kaist-develops-robot-skin-that-can-sense-tactility-and-recover-from-injury.amp",
+      "publishedDateTime": "2022-06-15T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "poandpo.com",
+        "domain": "poandpo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-research-claims-military-cannot-rely-on-artificial-intelligence-for-strategy-or-judgment.md",
+      "title": "Research claims military cannot rely on Artificial Intelligence for strategy or judgment",
+      "excerpt": "The use of artificial intelligence (AI ... and Goldfarb highlight is the Rio Tinto mining company, which uses self-driving trucks to transport materials, reducing costs and risks to human drivers.",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/Articles/Science/20220615/3952115.html",
+      "originalUrl": "https://news.webindia123.com/news/Articles/Science/20220615/3952115.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-15T00:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-think-silicon-to-unveil-industrys-first-risc-v-3d-gpu-at-embedded-world-2022.md",
+      "title": "Think Silicon to Unveil Industry’s First RISC-V 3D GPU at Embedded World 2022",
+      "excerpt": "Think Silicon®, a leader in ultra-low power graphics IP, will showcase the industry’s first RISC-V-based GPU – the NEOX™ G-Series & A-Series – at Embedded World 2022. The company will also introduce the NEMA®|pico-VG,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-greece-athens-fda81fdd2c7f9daa492ec82dc36455e5",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-greece-athens-fda81fdd2c7f9daa492ec82dc36455e5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-15T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-australian-retailers-deploy-facial-recognition-as-privacy-laws-stall.md",
       "title": "Australian retailers deploy facial recognition as privacy laws stall",
       "excerpt": "Australia’s privacy watchdog will consider investigating Bunnings, Kmart and The Good Guys after a consumer group uncovered the retailers’ use of facial recognition technology on customers and said it will make a formal complaint.",
@@ -903,137 +1014,6 @@
         "AI in Finance",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-aws-with-intel-launches-deepracer-student-league.md",
-      "title": "AWS with Intel launches DeepRacer Student League",
-      "excerpt": "AWS in collaboration with Intel has announced the launch of the AWS DeepRacer Student League 2022 in India to introduce machine learning (ML) to students in higher education.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/business/aws-with-intel-launches-deepracer-student-league-748707",
-      "originalUrl": "https://www.thehansindia.com/business/aws-with-intel-launches-deepracer-student-league-748707",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2022/06/14/1297767-deepracer.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/business/aws-with-intel-launches-deepracer-student-league-748707",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/aws-with-intel-launches-deepracer-student-league-748707",
-      "publishedDateTime": "2022-06-14T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-dogs-with-cancer-needed-for-new-therapy-treatment-at-u-of-g.md",
-      "title": "Dogs with cancer needed for new therapy treatment at U of G",
-      "excerpt": "Researchers at the University of Guelph are hoping to revolutionize cancer care with an innovative treatment, and they need dogs with cancer to help with their clinical trial.",
-      "sourceUrl": null,
-      "webUrl": "https://kitchener.ctvnews.ca/dogs-with-cancer-needed-for-new-therapy-treatment-at-u-of-g-1.5946620",
-      "originalUrl": "https://kitchener.ctvnews.ca/dogs-with-cancer-needed-for-new-therapy-treatment-at-u-of-g-1.5946620",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2022/6/15/2465609/_jcr_content/renditions/videothumbnail.1655335354702.jpg",
-          "width": 1020,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/local/kitchener/2022/6/14/1_5946620.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/kitchener/2022/6/14/1_5946620.amp.html",
-      "publishedDateTime": "2022-06-14T12:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-dataiku-named-snowflake-machine-learningai-partner-of-the-year-award-for-the-2nd-year-in-a-row.md",
-      "title": "Dataiku Named Snowflake Machine Learning/AI Partner of the Year Award for the 2nd Year in a Row",
-      "excerpt": "Dataiku, the platform for Everyday AI, today announced that it has been named the 2022 Machine Learning/AI Partner of the Year award winner by Snowflake, the Data Cloud company, for the second year in a row.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-science-ddf2bca36481dbf88329f6adc9894676",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-science-ddf2bca36481dbf88329f6adc9894676",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

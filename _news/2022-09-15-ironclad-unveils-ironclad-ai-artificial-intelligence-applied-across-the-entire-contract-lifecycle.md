@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Why Isn’t AI Working for Your Business?"
-    excerpt: "Accenture reports that only 12% of AI adopters are currently using AI \"to outpace their competitors,\" while nearly two-thirds (63%) are still in the experimentation phase—\" barely scratching the surface of AI’s potential ."
-    publishedDateTime: 2022-09-14T18:50:00Z
-    webUrl: "https://techbeacon.com/enterprise-it/why-isnt-ai-working-your-business"
-    type: article
-    provider:
-      name: Continuous integration
-      domain: techbeacon.com
-    quality: 17
 
 secured: "an0px2dRl+QyNxWOC9gCbAntdybWEStIVM8Xexnt5y80jx5X0QTSAfqbjmddJEaKVINmpjiGEJyQg5zaxiSdeN7TJNFEx9Hg8M7+vLBBDzxdynhYkqkxB8s4Oca6ykL6cuSrQjXr9HYgloJWaLIg6Cu+FfMVCEEOHwCm/tDu+KNrW9QWcwUECTVmjI5cssuXO4ENOgXQ17V4NMb3yq0A3RrUyXNdG8nGqdAvyOcc0cvOUAtTjaM9ElkSZ0EIMD9fw+oqggM8SUt/KuYUO/kftYRyIOSoe28BXdc0Jk9VQfp4JB/NzabcGzT7bp9inzns/ty+fSptHB8moNXgjVzAPCbCVQCoBByLNiRDXzyxgnk=;V1cv0kUdU3RJiJ6LoU3Q+g=="
 ---

@@ -310,10 +310,10 @@
     {
       "path": "_news/2022-09-10-artificial-intelligence-is-now-used-to-track-down-hate-speech.md",
       "title": "Artificial intelligence is now used to track down hate speech",
-      "excerpt": "One fix that social media companies and other online networks have relied on is artificial intelligence—to varying degrees of success. For companies with giant user bases, like Meta, artificial ...",
+      "excerpt": "Meta took action on more than 15 million pieces of hate speech content on Facebook. Roughly 95% of that was detected proactively by Facebook with the help of AI.",
       "sourceUrl": null,
-      "webUrl": "https://www.wxyz.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech",
-      "originalUrl": "https://www.wxyz.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech",
+      "webUrl": "https://www.wcpo.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech",
+      "originalUrl": "https://www.wcpo.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -330,13 +330,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wxyz.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true",
-      "cdnAmpWebUrl": "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true",
-      "publishedDateTime": "2022-09-09T11:10:00-07:00",
+      "ampWebUrl": "https://www.wcpo.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true",
+      "cdnAmpWebUrl": "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true",
+      "publishedDateTime": "2022-09-09T14:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WXYZ",
-        "domain": "wxyz.com",
+        "name": "WCPO-TV",
+        "domain": "wcpo.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -346,10 +346,8 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI",
         "Facebook AI",
-        "AI in Healthcare"
+        "AI"
       ]
     },
     {

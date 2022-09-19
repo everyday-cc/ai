@@ -24,17 +24,6 @@ images:
     height: 1002
     isCached: true
 
-related:
-  - title: "Handing the Surgeon's Scalpel to a Robot"
-    excerpt: "Robots have been found in the operating suite since the 1980s for things like holding a patient's limbs in place, and later for laparoscopic surgery, in which surgeons can use remote-controlled robot arms to operate on the human body through tiny holes instead of huge cuts."
-    publishedDateTime: 2022-09-14T19:02:00Z
-    webUrl: "https://www.medscape.com/viewarticle/980798"
-    type: article
-    provider:
-      name: Medscape
-      domain: medscape.com
-    quality: 21
-
 secured: "VuEfmBQE54QnwCvK8Oelz4IvTmiN/v8N3k2oj+ZFdX1IfSrJat8xz09l8I9T4tadxI04g3WQrFPUvyGmZhNQ0pfpHWPeUjYa5QzJwIDNxFEtBv/u/W3L/QGTLr5HRc3LDIYRwpv+NiDHiGNQxva1WlpZLoLdRBqHkWKfcCYsHLb2JgaI9hEhEUKTplohptJH/FPUzVJV8mTRc1fsWNWh1tMMTes+cV5w/y19B5VDqmHRs+drVEFJISl2mYNVdMra1lwIvofbfXysHkkB79DvH/gfn+ajmsXc2ExNUwH/0Zaipm8H7DM2gRi+ZFi8G8yiMe0X/YCVh1grxDBbmE4M2DW0NVf09U+PHUfNv71CZN84ucGVd+6wTVYFpdSQ2FNiDEAArxuRRqL70lk2IKib6G91Ryi+7e4T4ij4yJwlMxfYqbLmb5XeNaeawvVBHadxOzVkD8ewVV5wHDJgevnyCMf9qEXmClMPIDvCSt8kRpB/uAhvjK7c5c7UHSImEmJKXPuILiTc7swsRiZ4l4YjHw==;gaod1X7KI+bKKXaUUQCEXw=="
 ---
 

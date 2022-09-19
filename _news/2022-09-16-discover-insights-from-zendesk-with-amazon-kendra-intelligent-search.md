@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/discover-insights-fr
 webUrl: "https://aws.amazon.com/blogs/machine-learning/discover-insights-from-zendesk-with-amazon-kendra-intelligent-search/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
   - AWS AI
-
-related:
-  - title: "Zendesk Launches New Customer Sentiment and Intent Functionality Powered by Machine Learning"
-    excerpt: "(NYSE: ZEN) today announced Intelligent Triage and Smart Assist, new AI solutions empowering businesses to triage customer support requests automatically and access valuable data at scale. By democratizing access to these solutions,"
-    publishedDateTime: 2022-09-14T17:53:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/09/14/9673831.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
 
 secured: "NT6GP3wsBVHwZEUx2iRMQbf5+ag9nvXr3Tj4V/EzOD1jfW+KIijLmSEAzNNTWibKRNlL6DdfrFhFftsD5lxtjxhpPjnKjAKrK4RtpMyzBkoVyLtcy8jqY/5YLi5IIRI+xs9LVOPRkUpxDZymKxyAYm5h2zsDLSTEs7jmi2eIOArxyBEHSZ71nJuOOg2vPuY78CoGXTGrqvJ4L4CuUwHelTn7fVTGDOW5OgJTINoaSugSilI6ICdn5m0qEsL1jDBVh9/X4aEXJ9WBVknRo5Y93l7X+76CPDGnLjSc8d4VhDZV4vBmjh9JAULyNC2i/jr+FxrtYS80hHnmau6mK4YvyFsgo4TRSv8/+nQzNT1XGmY=;MI/T3Hbmw54woTlfQZNt3w=="
 ---

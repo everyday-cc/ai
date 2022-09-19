@@ -21,6 +21,20 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "Can artificial intelligence detect autism doctors miss? US study wants to find out"
+    excerpt: "When most toddlers diagnosed with autism sit still, their heads sway very slightly back and forth. That movement is an extremely reliable way to distinguish between a neurotypical and autistic child,"
+    publishedDateTime: 2022-09-19T09:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/09/19/can-artificial-intelligence-detect-autism-doctors-miss-us-study-wants-to-find-out"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 33
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/09/18/1742249.jpg"
+        width: 1240
+        height: 1240
+        isCached: true
   - title: "Can artificial intelligence detect autism doctors miss? Duke study wants to find out."
     excerpt: "When most toddlers diagnosed with autism sit still, their heads sway very slightly back and forth. That movement is an extremely reliable way to distinguish between a neurotypical and autistic child,"
     publishedDateTime: 2022-09-15T10:00:00Z
@@ -34,20 +48,6 @@ related:
       - url: "https://s.yimg.com/uu/api/res/1.2/TT.0JDWvagjdn.Fw2hNIPQ--~B/aD03MTk7dz0xMTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/aol_raleigh_news_and_observer_mcclatchy_356/c5b2c0610b80dc2ea54ced935e44c32d"
         width: 1140
         height: 719
-        isCached: true
-  - title: "Can artificial intelligence detect autism doctors miss? US study wants to find out"
-    excerpt: "When most toddlers diagnosed with autism sit still, their heads sway very slightly back and forth. That movement is an extremely reliable way to distinguish between a neurotypical and autistic child,"
-    publishedDateTime: 2022-09-19T09:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/09/19/can-artificial-intelligence-detect-autism-doctors-miss-us-study-wants-to-find-out"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 31
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/09/18/1742249.jpg"
-        width: 1240
-        height: 1240
         isCached: true
   - title: "Can artificial intelligence detect autism doctors miss? Duke study wants to find out."
     excerpt: "A computer just gives you a beautiful readout of how many times the head moves back and forth,” said Geraldine Dawson, director of Duke University’s Center for Autism and Brain Development. Dawson and her colleagues are testing an app that Duke has patented to harness that power."

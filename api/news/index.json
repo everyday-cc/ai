@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-19-how-to-leverage-aiml-for-predictive-incident-management.md",
+      "title": "How To Leverage AI/ML For Predictive Incident Management",
+      "excerpt": "Proactive risk mitigation must be embedded into your enterprise tech strategy to ensure disruption-free operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/19/how-to-leverage-aiml-for-predictive-incident-management/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/19/how-to-leverage-aiml-for-predictive-incident-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60e86b76e1d8ab6b511b4a15/0x0.jpg?format=jpg&crop=3341,1879,x0,y140,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/19/how-to-leverage-aiml-for-predictive-incident-management/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/19/how-to-leverage-aiml-for-predictive-incident-management/amp/",
+      "publishedDateTime": "2022-09-19T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-09-19-this-startup-is-using-ai-to-turn-video-security-on-its-head.md",
       "title": "This Startup Is Using AI to Turn Video Security On Its Head",
       "excerpt": "Ambient.ai applied artificial intelligence and computer-vision intelligence to rethink security cameras. But market saturation was an even bigger challenge.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.inc.com/christine-lagorio-chafkin/security-artificial-intelligence-ambient.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -53,7 +105,7 @@
       "originalUrl": "https://www.gizmochina.com/2022/09/19/xiaomi-face-recognition-smart-door-lock-3d-structured-light-tech-launched/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -234,7 +286,7 @@
       "originalUrl": "https://www.computerweekly.com/feature/Putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -269,7 +321,8 @@
         "AI in Healthcare",
         "Natural Language Processing",
         "Microsoft AI",
-        "AI in Finance"
+        "AI in Finance",
+        "AI in Autos"
       ]
     },
     {
@@ -618,7 +671,7 @@
       "originalUrl": "https://venturebeat.com/ai/ironclads-new-contract-platform-embeds-ai-to-improve-business-workflows/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -920,7 +973,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/read-webpages-and-highlight-content-using-amazon-polly/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -1076,7 +1129,7 @@
       "originalUrl": "https://www.globalbankingandfinance.com/ai-the-future-of-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1160,57 +1213,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-this-ai-system-will-completely-change-your-experience-at-sporting-events.md",
-      "title": "This AI system will completely change your experience at sporting events",
-      "excerpt": "It is officially football season, which means you may be attending an NFL game soon. If you are, the long, tedious and not always accurate metal detectors may be a thing of the past, thanks to Evolv body scanners.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/this-ai-system-will-completely-change-your-experience-at-sporting-events/",
-      "originalUrl": "https://www.zdnet.com/article/this-ai-system-will-completely-change-your-experience-at-sporting-events/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/06fd892c6c209e50e5c69a9809dfd5772ce9c4e0/2022/09/14/937f1e8c-fbe9-4b0d-b883-e0342b894341/columbus-2.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-ai-system-will-completely-change-your-experience-at-sporting-events/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-ai-system-will-completely-change-your-experience-at-sporting-events/",
-      "publishedDateTime": "2022-09-16T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

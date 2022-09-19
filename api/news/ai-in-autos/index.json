@@ -2,6 +2,54 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-19-putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud.md",
+      "title": "Putting artificial intelligence and machine learning workloads in the cloud",
+      "excerpt": "We look at the pros and cons of putting artificial intelligence (AI) and machine learning (ML) applications in the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/feature/Putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud",
+      "originalUrl": "https://www.computerweekly.com/feature/Putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computerweekly.com/rms/onlineimages/ai_a352095729.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/feature/Putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud?amp=1",
+      "publishedDateTime": "2022-09-18T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare",
+        "Natural Language Processing",
+        "Microsoft AI",
+        "AI in Finance",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-16-top-5-tech-trends-we-should-all-know-ahead-of-tesla-ai-day.md",
       "title": "Top 5 Tech Trends We Should All Know Ahead Of Tesla AI Day",
       "excerpt": "Tesla’s AI Day is on the horizon. Here are some of the top trends emerging in the field of artificial intelligence that you should know about before the big event later this month.",
@@ -1146,51 +1194,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-10-artificial-intelligence-is-now-used-to-track-down-hate-speech.md",
-      "title": "Artificial intelligence is now used to track down hate speech",
-      "excerpt": "One fix that social media companies and other online networks have relied on is artificial intelligence—to varying degrees of success. For companies with giant user bases, like Meta, artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wxyz.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech",
-      "originalUrl": "https://www.wxyz.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.newsy.com/images/videos/m/1660250991_F4WYcV.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wxyz.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true",
-      "cdnAmpWebUrl": "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true",
-      "publishedDateTime": "2022-09-09T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WXYZ",
-        "domain": "wxyz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Facebook AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-09-09-beyond-mere-efficiency-artificial-intelligence-is-transforming-culture-study-suggests.md",
       "title": "Beyond Mere Efficiency: Artificial Intelligence is Transforming Culture, Study Suggests",
       "excerpt": "Executives who saw significant financial benefits from their AI initiatives were 10x more likely to change how they measure success than those who saw no such benefits.",
@@ -1238,6 +1241,50 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-artificial-intelligence-could-be-a-great-equalizer.md",
+      "title": "Artificial Intelligence Could Be a Great Equalizer",
+      "excerpt": "The benefits of AI will accrue not only to the wealthy and technologists but also to the poor and disadvantaged.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/artificial-intelligence-couldbe-agreat-equalizer/2022/09/09/bd246350-3037-11ed-bcc6-0874b26ae296_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/artificial-intelligence-couldbe-agreat-equalizer/2022/09/09/bd246350-3037-11ed-bcc6-0874b26ae296_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-09T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI",
         "AI in Autos"
       ]
@@ -1326,49 +1373,6 @@
       "provider": {
         "name": "朝日新聞社",
         "domain": "asahi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-can-artificial-intelligence-help-reduce-side-effects-of-common-drugs.md",
-      "title": "Can Artificial Intelligence Help Reduce Side Effects of Common Drugs?",
-      "excerpt": "A new artificial intelligence tool developed by researchers is designed to calculate which drugs are more likely to experience adverse anticholinergic effects on the body and brain. These ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/can-artificial-intelligence-help-reduce-common-drug-side-effects-208538-1.htm",
-      "originalUrl": "https://www.medindia.net/news/can-artificial-intelligence-help-reduce-common-drug-side-effects-208538-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/asthma-drugs.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/can-artificial-intelligence-help-reduce-common-drug-side-effects-208538-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-artificial-intelligence-help-reduce-common-drug-side-effects-208538-1.htm",
-      "publishedDateTime": "2022-09-08T16:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
         "images": null,
         "publishers": null,
         "authors": null

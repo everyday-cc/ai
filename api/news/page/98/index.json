@@ -2,6 +2,127 @@
   "page": 98,
   "value": [
     {
+      "path": "_news/2022-06-29-global-artificial-intelligence-ai-market-report-2022-with-special-focus-on-investments-with-an-overview-of-patents-and-patent-applications.md",
+      "title": "Global Artificial Intelligence (AI) Market Report 2022 with Special Focus on Investments with an Overview of Patents and Patent Applications",
+      "excerpt": "Market: Investments vs Potential\" report has been added to ResearchAndMarkets.com's offering. The scope of this report is broad and covers the global markets for AI, which is increasingly being implemented across a wide range of industries for various applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-market-report-2022-with-/2022/06/29/9630648.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-market-report-2022-with-/2022/06/29/9630648.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-how-ai-can-help-solve-cybersecuritys-predicament.md",
+      "title": "How AI Can Help Solve Cybersecurity’s Predicament",
+      "excerpt": "As thought leaders search for a failsafe cybersecurity standard, they’ve realized that a hard shift away from software and toward a hardware solution is critical.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/how-ai-can-help-solve-cybersecuritys-predicament/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/how-ai-can-help-solve-cybersecuritys-predicament/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62bb116946bce888db123430/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/how-ai-can-help-solve-cybersecuritys-predicament/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/how-ai-can-help-solve-cybersecuritys-predicament/amp/",
+      "publishedDateTime": "2022-06-29T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-global-industrial-robot-market-report-2022-2026-growing-electronics-industry-and-growing-role-of-artificial-intelligence-in-robotics-driving.md",
+      "title": "Global Industrial Robot Market Report 2022-2026: Growing Electronics Industry and Growing Role of Artificial Intelligence in Robotics Driving Sector",
+      "excerpt": "Some of these innovations include underwater robotics, human-robot interaction, legged mobility, machine learning (ML), and self-driving vehicles. More trends in the market are believed to grow ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/06/g27896023/global-industrial-robot-market-report-2022-2026-growing-electronics-industry-and-growing-role-of-a",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/g27896023/global-industrial-robot-market-report-2022-2026-growing-electronics-industry-and-growing-role-of-a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27896023",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27896023",
+      "publishedDateTime": "2022-06-29T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-how-to-make-ai-art-dall-e-mini-ai-dungeon-and-more.md",
       "title": "How to make AI art: DALL-E mini, AI Dungeon, and more",
       "excerpt": "AI art encompasses everything from text adventures to AI-generated images produced by DALL-E Mini and Latitude Vantage, as well as text-to-speech apps that will \"speak\" in the voice of your favorite characters.",
@@ -939,134 +1060,6 @@
       "provider": {
         "name": "ITWeb",
         "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-14-recent-digital-health-investments.md",
-      "title": "14 recent digital health investments",
-      "excerpt": "10. H1, a big data startup focused on healthcare, secured a series C extension June 9, bringing the total for the funding round to $123 million. 11. Artificial intelligence healthcare startup ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/digital-health/14-recent-digital-health-investments.html",
-      "originalUrl": "https://www.beckershospitalreview.com/digital-health/14-recent-digital-health-investments.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T14:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-the-uk-wants-to-boost-ai-development-by-removing-data-mining-hurdles.md",
-      "title": "The UK wants to boost AI development by removing data mining hurdles",
-      "excerpt": "These changes make the most of the greater flexibilities following Brexit. They will help make the UK more competitive as a location for firms doing data mining",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/28/the-uk-plans-to-boost-ai-development-by-removing-legal-hurdles-for-data-mining/",
-      "originalUrl": "https://techcrunch.com/2022/06/28/the-uk-plans-to-boost-ai-development-by-removing-legal-hurdles-for-data-mining/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Concept-Illustration-Hurdling-e1656446452746.jpeg?w=1024",
-          "width": 1024,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/28/the-uk-plans-to-boost-ai-development-by-removing-legal-hurdles-for-data-mining/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/28/the-uk-plans-to-boost-ai-development-by-removing-legal-hurdles-for-data-mining/amp/",
-      "publishedDateTime": "2022-06-28T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-cloocus-recognized-as-the-winner-of-the-2022-microsoft-country-partner-of-the-year-for-the-second-consecutive-year.md",
-      "title": "Cloocus recognized as the winner of the 2022 Microsoft Country Partner of the Year for the second consecutive year",
-      "excerpt": "SEOUL, South Korea, June 28, 2022 /PRNewswire/ -- Cloocus, a leading cloud experts group specialized in Microsoft, today announced it has won the Country of the Year 2022 Microsoft Partner of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://fox59.com/business/press-releases/cision/20220628CN02566/cloocus-recognized-as-the-winner-of-the-2022-microsoft-country-partner-of-the-year-for-the-second-consecutive-year/",
-      "originalUrl": "https://fox59.com/business/press-releases/cision/20220628CN02566/cloocus-recognized-as-the-winner-of-the-2022-microsoft-country-partner-of-the-year-for-the-second-consecutive-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1849080/image_1.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T12:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX59 News",
-        "domain": "fox59.com",
         "images": null,
         "publishers": null,
         "authors": null

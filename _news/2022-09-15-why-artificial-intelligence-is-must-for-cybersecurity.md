@@ -39,15 +39,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Using AI to streamline Army selection boards"
-    excerpt: "Army command selection boards in the future may depend on computer automated scoring of past evaluations. LTC Kirstin Saling, director of the innovation cell at the Army Human Resources Command (HRC),"
-    publishedDateTime: 2022-09-14T17:33:00Z
-    webUrl: "https://federalnewsnetwork.com/army/2022/09/using-ai-to-streamline-army-selection-boards/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 19
   - title: "Now, you can write articles using artificial intelligence tool, like this"
     excerpt: "The most compelling part of this article is that it has been entirely written by an Artificial Intelligence bot, OpenAI Playground, only by providing simple prompts. Though the author has edited the article,"
     publishedDateTime: 2022-09-17T12:30:00Z

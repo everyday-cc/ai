@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-19T09:00:00Z
 originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/09/19/can-artificial-intelligence-detect-autism-doctors-miss-us-study-wants-to-find-out"
 webUrl: "https://www.thestar.com.my/tech/tech-news/2022/09/19/can-artificial-intelligence-detect-autism-doctors-miss-us-study-wants-to-find-out"
 type: article
-quality: 31
-heat: -1
+quality: 33
+heat: 33
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://apicms.thestar.com.my/uploads/images/2022/09/18/1742249.jpg"
@@ -59,6 +60,6 @@ related:
       domain: newsobserver.com
     quality: 12
 
-secured: "on/nk9wy7F/VNqUiw596prNkhLOxQ3z13OIIBGOlVNk146X9DKSbsN0Vzqt3NhVnQ3+izIs9eLj6uyMMgHrFQ4Y7YAuIyjIuii6MXvmpPD5osA+D+O2kVszv7cnxHsxS0vPvYBL3+h1kRNmykrr1VOVEfy64PVRkcvib608AwMQBFKzhuLlUctMNtYG6bjByCI/Nn/hoeqouJyLCxbRxaYzhgCJ5Vb9dPEI6EcpC5LM5l6uGOC6t979FkVTr1PRwnqxG1duvARVQNwa4byBUvBiU5Vb7cJep1SWoVkV1M88ZPbYivrQ2QYthJtwNWA7Z5Lgs6Z0HQFmRVCUnOSOhTP2ssFqfuRH8sqJmJ+luakk=;EFruREg47WkdwOYD9ioe5g=="
+secured: "CTY6orM22irA31zYPBALcPPWG+2fQrsisTVUQWq1daX7xtNMETSiS24Dls7haOa/BYcnRezXTOcQ2g94LxJX2Kyd6MN9XY00QD/X6bpey9Jajutte/JCI1iQGjmg4l61CcSTzakYk9kjFANdBqUvLlkQQ2hfqxIFCdiaCnctTBNN0aZoZQ50ylGm4SVmRln9RHeRpLi9ThFicV95U1o2zRpU9wNKopf7jstZAkUF3lV00FPeXLCVFhNi0VpHPvHqSmoj4yVN2YeSKSizF0/g0BAsagFHTqrVDWMzqIeDm0SoZiVOd9Wpozk0mRcOiLYW+5VnPLM+srE/Z7VNXJ5Lxgttu1dTmQVJj7+Ib/qawtJylpxXMk9ycbVAtT7nY0lzoTFPtNy/+Deti+68AL0HzY0PRTqDIK803GsvBfx4h99Pu//iJvH5x/irIKCrthJ4vLKLt/jTeGi/1oIJf/CrBfDUjN7daqia9P3TCSPl7fb3Vk77c2Tz7gKkqE6h7TxE+gPYJskBkVZsd0y1InJljg==;+ZHcIg8eSzWWJ1OsHxBMKQ=="
 ---
 

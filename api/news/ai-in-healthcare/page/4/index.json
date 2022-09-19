@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-08-04-sanford-health-sharp-healthcare-join-clinical-ai-development-collaboration.md",
-      "title": "Sanford Health, Sharp HealthCare Join Clinical AI Development Collaboration",
-      "excerpt": "Sanford Health and Sharp HealthCare have partnered with Dandelion Health to launch a new product development platform for clinical artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/sanford-health-sharp-healthcare-join-clinical-ai-development-collaboration",
-      "originalUrl": "https://healthitanalytics.com/news/sanford-health-sharp-healthcare-join-clinical-ai-development-collaboration",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/sized/GettyImages-1169990180-e4b00c1efb9503a805928b101c78b499.jpg",
-          "width": 480,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitanalytics.com/news/amp/sanford-health-sharp-healthcare-join-clinical-ai-development-collaboration",
-      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/sanford-health-sharp-healthcare-join-clinical-ai-development-collaboration",
-      "publishedDateTime": "2022-08-03T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-03-computer-vision-in-healthcare-market-2022-research-report-with-revenue-gross-margin-and-future-prospects-till-2030.md",
       "title": "Computer Vision in Healthcare Market 2022 Research Report With Revenue, Gross Margin, And Future Prospects Till 2030",
       "excerpt": "Aug 03, 2022 (Heraldkeepers) -- The global Computer Vision in Healthcare market report provides geographic analysis covering regions, such as North America, Europe, Asia-Pacific, and Rest of the ...",
@@ -1398,6 +1355,51 @@
         "AI in Healthcare",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-07-20-using-artificial-intelligence-to-train-teams-of-robots-to-work-together.md",
+      "title": "Using artificial intelligence to train teams of robots to work together",
+      "excerpt": "When communication lines are open, individual agents such as robots or drones can work together to collaborate and complete a task. But what if they aren't equipped with the right hardware or the signals are blocked,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-07-artificial-intelligence-teams-robots.html",
+      "originalUrl": "https://techxplore.com/news/2022-07-artificial-intelligence-teams-robots.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/using-artificial-intel-7.jpg",
+          "width": 500,
+          "height": 310,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-07-artificial-intelligence-teams-robots.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-artificial-intelligence-teams-robots.amp",
+      "publishedDateTime": "2022-07-20T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
       ]
     }
   ],

@@ -2,6 +2,135 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2022-07-16-u-of-g-receives-1m-donation-to-launch-ethical-ai-training-modules.md",
+      "title": "U of G receives $1M donation to launch ethical AI training modules",
+      "excerpt": "TD Bank Group has announced a C$1 million donation to the University of Guelph’s Centre for Advancing Responsible and Ethical Artificial Intelligence or CARE-AI. The funds, which will be paid out over a five-year period,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/u-of-g-receives-1m-donation-to-launch-ethical-ai-training-modules/492742",
+      "originalUrl": "https://www.itworldcanada.com/article/u-of-g-receives-1m-donation-to-launch-ethical-ai-training-modules/492742",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2022/07/UofG-AI1.png",
+          "width": 624,
+          "height": 234,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/u-of-g-receives-1m-donation-to-launch-ethical-ai-training-modules/492742?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/u-of-g-receives-1m-donation-to-launch-ethical-ai-training-modules/492742?amp=1",
+      "publishedDateTime": "2022-07-15T13:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-07-16-center-to-support-cell-and-gene-therapy-manufacturing-launches-in-newark.md",
+      "title": "Center to Support Cell and Gene Therapy Manufacturing Launches in Newark",
+      "excerpt": "McKinsey & Company launched a new high-tech learning and innovation facility in the Garden State to support the advancement of cell and gene",
+      "sourceUrl": null,
+      "webUrl": "https://njbmagazine.com/njb-news-now/mckinsey-launches-newark-innovation-center/",
+      "originalUrl": "https://njbmagazine.com/njb-news-now/mckinsey-launches-newark-innovation-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-15T11:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Jersey Business",
+        "domain": "njbmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-16-stitch-fix-ceo-ai-and-machine-learning-are-our-core-secret-sauce.md",
+      "title": "Stitch Fix CEO: AI and machine learning are “our core secret sauce”",
+      "excerpt": "Elizabeth Spaulding says thanks to the power of algorithms the company successfully personalizes clothing recommendations for customers.",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/videos/watch/Stitch-Fix-CEO-AI-and-machine-learning-are-our-core-secret-sauce-/3fbc5769-9111-492d-8e02-134674f1f0a8",
+      "originalUrl": "https://fortune.com/videos/watch/Stitch-Fix-CEO-AI-and-machine-learning-are-our-core-secret-sauce-/3fbc5769-9111-492d-8e02-134674f1f0a8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2byebo1j9i40c.cloudfront.net/3fbc5769-9111-492d-8e02-134674f1f0a8/Images/posterImage-ver1-1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/videos/watch/stitch-fix-ceo%3A-ai-and-machine-learning-are-%E2%80%9Cour-core-secret-sauce%E2%80%9D-/3fbc5769-9111-492d-8e02-134674f1f0a8/amp",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/stitch-fix-ceo%3A-ai-and-machine-learning-are-%E2%80%9Cour-core-secret-sauce%E2%80%9D-/3fbc5769-9111-492d-8e02-134674f1f0a8/amp",
+      "publishedDateTime": "2022-07-15T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-16-phaidra-uses-ai-to-boost-industrial-profitability-and-reduce-emissions.md",
       "title": "Phaidra Uses AI to Boost Industrial Profitability and Reduce Emissions",
       "excerpt": "The $25M Series A will help Phaidra accelerate its mission of increasing Fortune 100 profitability while reducing emissions with artificial intelligence and deep reinforcement learning. Company ...",
@@ -1011,108 +1140,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-philadelphia-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
-      "title": "Philadelphia Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!",
-      "excerpt": "Global biotherapeutics leader CSL Behring will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Philadelphia will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/07/14/9639345.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/07/14/9639345.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-baltimore-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
-      "title": "Baltimore Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!",
-      "excerpt": "ThoughtSpot, the Modern Analytics Cloud company will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022 at Johns Hopkins University. The No Cost AI Bootcamp in Baltimore will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-baltimore-selected-as-host-site-artificial-intelligence-bootcamp-/2022/07/14/9639328.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-baltimore-selected-as-host-site-artificial-intelligence-bootcamp-/2022/07/14/9639328.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T14:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-union-township-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
-      "title": "Union Township Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!",
-      "excerpt": "Elizabethtown Gas will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Union Township will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-union-township-selected-as-host-site-artificial-intelligence-/2022/07/14/9639326.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-union-township-selected-as-host-site-artificial-intelligence-/2022/07/14/9639326.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T14:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

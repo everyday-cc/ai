@@ -37,6 +37,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "US professor wants to expose the hidden bias in AI, and then use it for good"
+    excerpt: "But she wants everyone in it to slow down. Rhue, an assistant professor of information systems at the University of Maryland Robert H. Smith School of Business, recently audited emotion recognition technology within three facial recognition services: Amazon Rekognition,"
+    publishedDateTime: 2022-09-16T01:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/09/16/us-professor-wants-to-expose-the-hidden-bias-in-ai-and-then-use-it-for-good"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 36
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/09/15/1738538.jpg"
+        width: 1240
+        height: 920
+        isCached: true
 
 secured: "L4yuuIvI1kprf8kMyNHAtut4D9ZWC5zSu/WPU5aFXmCMaMZDJ2402USlk+y0yd4kZ8cR69dpmqFcxlO5lFJDw4CHFZArHRv7hNlGkYw9eZC0AWg4um8Ejo3QIos553bP0hEgDICP9IgBJJsrgTR8r8Wty+7XY3c0y69sE6Okp9+fFkAh+lHOAMkVsIHeQTFkpbDxfRY4bgxg5e3/r8jdP2tk5qt9MHJTfVBTtqN/pL2VCysHKUyjR9oQ4Fwk7gKJ+TNaNrQFS2QGbOlFYrrgFXOECdoAz2phZ5o3N36MKMUzgLCTWdjRmF+T0dQ6/8JQ8QBmFcOjbUFR+JJuAV11vLT/uyJyQFzZxuL+N4111RGcJNr1YsNAlgBnWuOggrmvV5mkP6gh04FZquZwTQcrDK5oh4sog2Xx4neirruPBK6pLxun/4w4XPz/g+0GPFSN3XRXyG1rVDM81YTb0fsAg7LDjwAYqquO1EQZvX+cUcY/PHAUZMY2vxbenPKKjgVoVfkks5eD+LI2/S/dw8kfeg==;QbGeiRiVzaATuTkWkBijNw=="
 ---

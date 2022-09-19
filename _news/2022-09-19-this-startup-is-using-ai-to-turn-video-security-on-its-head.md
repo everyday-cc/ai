@@ -7,7 +7,7 @@ originalUrl: "https://www.inc.com/christine-lagorio-chafkin/security-artificial-
 webUrl: "https://www.inc.com/christine-lagorio-chafkin/security-artificial-intelligence-ambient.html"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Using AI to streamline Army selection boards"
-    excerpt: "Army command selection boards in the future may depend on computer automated scoring of past evaluations. LTC Kirstin Saling, director of the innovation cell at the Army Human Resources Command (HRC),"
-    publishedDateTime: 2022-09-14T17:33:00Z
-    webUrl: "https://federalnewsnetwork.com/army/2022/09/using-ai-to-streamline-army-selection-boards/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 19
   - title: "Now, you can write articles using artificial intelligence tool, like this"
     excerpt: "The most compelling part of this article is that it has been entirely written by an Artificial Intelligence bot, OpenAI Playground, only by providing simple prompts. Though the author has edited the article,"
     publishedDateTime: 2022-09-17T12:30:00Z
@@ -58,6 +49,6 @@ related:
       domain: hindustantimes.com
     quality: 16
 
-secured: "1EXw5dKpCMGtr1FCUySo49agfqndKnBsUnyuycBChqFRrT+PdPM/9O9mrVSDD9zJgeAIl8edZC72xfzxcUt3+DYM9oBAXtTlYFPh+yDxqJx5+AhgLeB++7MOSSDei/of+zjeRTTwQe2XTOCxd0XvWH1zrMuXSQ9HUzsIs9SNXMfi0L5DQUJns7OVnBkhzoCjgDnaVNNATzMr3DJGLHmxHCUZuFg5dGcpZ8KyCxI1x1X6CG3oTzT6V23HAC6JOUPsPBgUDVaOtc69edXqk9/9Qcna2KUYIMVQZio8SSAfkSC98SzOsTdWCxBSaypYYTKYZJElc9aShA8mtLX/6z5Swk8N3NdJrE+XkJlfxxtRLtI=;BYfZ6nyvLUF9LWY2jV6Zvg=="
+secured: "RP0dAiIbB4j9pUm2cetvqEZHlIxhcUseipQ5MtEp5uSbt7B/MuzJ42g43mR6X7VX5g3h5RoWcoWo3YXDCsX/tbhpcluB+xc2PjMw05vi6yDx49ObdhNJ2tHRPVeCFjY9CcUhxhkS5S8007viPcCmH7vians7/5oSt/TIGyVJJBGCmUGEcH8dl8epjTDOwzErTsyxOjBD6JkYo4p42KtNxegLHy56aX9u2EsRZ5f73solUCWzVShrBJ9LjXL6YuKFA1QYRlg3A4D7kf/8XuM71LCBfey23lzykVKWN7VTsJHlmP2cv2MGaePK902QKev+2MQbwmWVHqidXg07ipn7BPqHzdF+s1hbhNv7HhZqd3EnJW0rn94WUKgILNLI/t+8KvSGDS0xqXo/LqdjdTr6a6/QgSIB2ktgJ4eOyNZR98ixgHyrokJexSOnl6c3nWSosEUxKDCF8FVR0r5ZLPeFVEZnDt4dEFZiHpWVkjPcyCiCsJ5UD3458W6WvlRf60ue+mdx3cqDc+OnEWLyXQwMVA==;Z+Qv51a5ovR8fBrY+7Lytg=="
 ---
 

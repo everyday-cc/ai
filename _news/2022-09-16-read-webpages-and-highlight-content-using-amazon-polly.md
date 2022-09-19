@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/read-webpages-and-hi
 webUrl: "https://aws.amazon.com/blogs/machine-learning/read-webpages-and-highlight-content-using-amazon-polly/"
 type: article
 quality: 106
-heat: 109
+heat: 110
 published: true
 
 provider:

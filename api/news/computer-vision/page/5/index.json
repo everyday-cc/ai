@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-07-27-lawmakers-seek-limits-on-facial-recognition.md",
+      "title": "Lawmakers seek limits on facial recognition",
+      "excerpt": "Lawmakers are moving to set strict new curbs on the use of facial recognition technology by law enforcement officials to track down suspects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/news/boston/lawmakers-seek-limits-on-facial-recognition/article_f80a6156-0cef-11ed-9419-870739d6d4ff.html",
+      "originalUrl": "https://www.eagletribune.com/news/boston/lawmakers-seek-limits-on-facial-recognition/article_f80a6156-0cef-11ed-9419-870739d6d4ff.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
+          "width": 600,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-26T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-27-corsight-ai-facial-recognition-tech-ranks-top-in-nist-bias-testing.md",
       "title": "Corsight AI facial recognition tech ranks top in NIST bias testing",
       "excerpt": "Company's latest algorithm leads the way in NIST FRVT testing by tackling bias and minimizing the false positive demographic effects",
@@ -1299,49 +1342,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-retailers-would-be-breaking-new-laws-governing-facial-recognition.md",
-      "title": "Retailers would be breaking new laws governing facial recognition",
-      "excerpt": "Human Rights Commissioners past and present are troubled by Wesfarmers use of AI to weed out problem customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.afr.com/technology/retailers-would-be-breaking-new-laws-governing-facial-recognition-20220715-p5b1v1",
-      "originalUrl": "https://www.afr.com/technology/retailers-would-be-breaking-new-laws-governing-facial-recognition-20220715-p5b1v1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.ffx.io/images/$zoom_1.5521%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_2%2C$y_439/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/fdec91aa3302f32ec1857e6f912d765efd1026ae",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-15T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Australian Financial Review",
-        "domain": "afr.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

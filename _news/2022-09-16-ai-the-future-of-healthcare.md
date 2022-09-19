@@ -9,7 +9,7 @@ ampWebUrl: "https://www.globalbankingandfinance.com/ai-the-future-of-healthcare/
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/ai-the-future-of-healthcare/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Five reasons why AI is the future of banking"
+    excerpt: "As Artificial Intelligence in Finance is expected to transform the way people interact with money, ITP.net along with NetApp dwells into the how AI is the future of banking and keys to spark innovation and drive revenue."
+    publishedDateTime: 2022-09-19T11:04:00Z
+    webUrl: "https://www.itp.net/emergent-tech/five-reasons-why-ai-is-the-future-of-banking"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 17
 
 secured: "PEmK3BrCWU3gURi0f8hJHMTkvp65KUgFgop/SmWkEfDoil/81qZXfNpV9NvJ+5edtDDP4edxfJUou6kXA73tjXkIActOj7xrNZEitVquQ2gozA2Vje/yxJvF19IIwkU3Vk2y55mYJho43CGrUp94rzJ7y5wthCpB7ok7RTYpS22dK8yzSQzhATtKVTn3VzNHI+Ww9fuwkeXPMT45mwT3ZPhxewAPeoeJQBW4J0lprLUXQUCn6iR1B23YC1cEWCE53KoWodPbiI1KlxczgVW9Pxz3Mmk1BRyOHUsG6rrXIZm1dRz0WvDhT2UtPIPwKbJuvl+VmZGl5GgQcVg63wWiZPfiEbuWiopdkK/evlGjfn6wovezUI5tcHahvgZmb2KqqeRNImfnfK5jCYDQ7kvaeWRFhxociM/0OA3ccIDhqM6/timcPYiMOm1AqGn128U05CD+d/tr0DJxWBlT6NJSlsTjtIW9uvP0k0cMzJlVBeBVFCeTXXzDInZ2ttu2xVhNTCmTcVUyk/F/Zhlbtyvlgw==;HcSU1QQAsWBo/vjAQ7Qp8A=="
 ---

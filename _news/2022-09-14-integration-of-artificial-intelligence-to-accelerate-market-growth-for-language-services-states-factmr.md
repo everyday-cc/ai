@@ -19,6 +19,13 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Natural Language Processing
+
+images:
+  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg"
+    width: 700
+    height: 300
+    isCached: true
 
 secured: "Rsn5AdcUbfWJvOzZvag8wBhNNHMJztdxEKUkq6lQytkeC218YJRIcwprwy8Bl8VhZfStMarMyfJ2HpGtkSZz+SqFZtbQUCArnUiQEUsmBeT9Lenqo7EmALoG28kMrLidyEhpSsHDhNDvEs/dh5r+nUYMoz9n8p52kKw6/eHHzbQ60OQKI2Nykqp+FeogacGSzumCkIcD7UzxvvtFlV9CBA2qp0oxLeaFe5Kk43zXMccT/uMd5Pm80VPIXkAvwuhoj+7yapYn3F3vrl6NpuvrFFbXhbiAcJU9jgNKEztfiJk/Qd4u1ARodiFqCbY9OLsLSGx4HmPnmIKrqKomCEJfhaaf0WlWzd5wu3r18Yzqbgc=;+bQdzn5CoaMhJV221GMBAQ=="
 ---

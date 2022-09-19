@@ -2,6 +2,40 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-05-27-nearly-50-percent-of-uae-residents-say-government-must-invest-in-self-driving-cars-ai-3d-printing-survey.md",
+      "title": "Nearly 50 percent of UAE residents say government must invest in self-driving cars, AI, 3D printing: survey",
+      "excerpt": "UAE residents believe that artificial intelligence, virtual reality, and self-driving cars will have a positive impact, with half of respondents in a YouGov survey saying the government should invest in AI. With its favourable business legislation and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.arabianbusiness.com/industries/technology/nearly-50-percent-of-uae-residents-say-government-must-invest-in-self-driving-cars-ai-3d-printing-survey",
+      "originalUrl": "https://www.arabianbusiness.com/industries/technology/nearly-50-percent-of-uae-residents-say-government-must-invest-in-self-driving-cars-ai-3d-printing-survey",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-27T01:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Arabian Business",
+        "domain": "arabianbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-27-why-baidu-was-rocketing-higher-today.md",
       "title": "Why Baidu Was Rocketing Higher Today",
       "excerpt": "You’re reading a free article with opinions that may differ from The Motley Fool’s Premium Investing Services. Become a Motley Fool member today to get instant access to our top analyst ...",
@@ -1280,50 +1314,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-anomalo-named-one-of-most-innovative-artificial-intelligence-startups-in-the-world-by-cb-insights.md",
-      "title": "Anomalo Named One of Most Innovative Artificial Intelligence Startups in the World by CB Insights",
-      "excerpt": "Anomalo, the complete data quality platform company, today announced that it was named to CB Insights’ Annual AI 100 ranking that showcases the 100 most promising private artificial intelligence companies in the world:  \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100.",
-      "sourceUrl": null,
-      "webUrl": "https://www.koin.com/business/press-releases/globenewswire/8546126/anomalo-named-one-of-most-innovative-artificial-intelligence-startups-in-the-world-by-cb-insights/",
-      "originalUrl": "https://www.koin.com/business/press-releases/globenewswire/8546126/anomalo-named-one-of-most-innovative-artificial-intelligence-startups-in-the-world-by-cb-insights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.koin.com/wp-content/uploads/sites/10/2020/04/800x340_KOIN_WOFY_2.png",
-          "width": 800,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-19T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KOIN 6",
-        "domain": "koin.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

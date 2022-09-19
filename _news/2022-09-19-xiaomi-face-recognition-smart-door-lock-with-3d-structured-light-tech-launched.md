@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2022/09/19/xiaomi-face-recognition-smart-
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/09/19/xiaomi-face-recognition-smart-door-lock-3d-structured-light-tech-launched/?amp=1"
 type: article
 quality: 85
-heat: 85
+heat: 86
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 618
     isCached: true
 
-secured: "w2uXHE7NmqyftoG5sCcH4ziUnD2m/8hEI6nSdZ7K/kUwy3TPSvS0u32hA6QjpsaHnkzxVVPDe1P3LUamw7o23W5lhi+Hy0ZPkkABo5rkqK+MSA8EgdGE+KlUrwNiDbl5BNMeaycLd04lvEJ9rRG+UcIlvxSCcniCts9/18m0+J9gVPvrHCc3OcN7E5hLS3ivq4wYuHAK1ODFv48T6upee+lnWYffxYqsTdxpczS18kNalMpjiXEndMmJ3abXtYuxuqVO4TSeOqDO6Jbc2+Mi0buJrKFtDaJE3H/Gvt+eQ5rYrBCDrbyBtacTA38D3YxfuRVUDLW7doYiyhtOFA6JR6cmFskVLmSUriFqDxUVe1c=;HtHbFkPAH12UdyyPAvJ7Bg=="
+secured: "sdG3t2PwX2RgXSiJP3nQ4hR9f0GDca6vawSuceaQ9vfWi8yl8HmqcCCt6Te8VIKyX6hfQn0Pn3xQu9zur6aofGt/ja4WgJ16J4rpq5qkjJAec/eEnu67ACT3ersX0W5wPBk85qBSOWplOUehcEDP8hYiiXwMQC96ap+PUqgturJZGRkqajWIae8oUDmCRfKyC6d3VYYg6OKwXmQZLxQPgTifEp/NXF4PeB5atxAWqD+xXW1/5eGRJaRgxjqtQ6VU3plLUQYCMI9QIzGU6r2A+GEtsuQraIE9QabGVDzvyLr3KGRJMn2PXwjiBETZvcVTsDwcFZZj2WFM5pbXjsgQWvohCisfhHzN+36Z+ZzRUVs24rgnxgKR4jJM/7XZRm+snC9ftBeEIm7qRl6MsMXXCa//aOiu1Hn7Xoa+/NUa7Yx/Grz6RqyeM72bIN5xfbSnmzU4fuZStUeUMC+gypBhFkvbOUb4dUOZNqvDjt/p8KKoCA5r8pTM8+bHmr6T1/bF68jOI7N+tGZoCS6DuGwdFQ==;IamkZjwfmpudtB7gkb1Enw=="
 ---
 

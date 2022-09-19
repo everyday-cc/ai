@@ -2,6 +2,117 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2022-08-16-the-best-roombas-in-2022.md",
+      "title": "The best Roombas in 2022",
+      "excerpt": "iRobot’s Roomba range offers everything from entry-level models up to premium designs, which include self-emptying charging bases and object recognition. However, you don’t have to spend the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tomsguide.com/best-picks/best-roombas",
+      "originalUrl": "https://www.tomsguide.com/best-picks/best-roombas",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/PEA32rbDpZUJucS9yZZRQG-1200-80.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-16-lyft-motional-continue-working-towards-fully-driverless-robotaxi-service-in-las-vegas.md",
+      "title": "Lyft, Motional continue working towards fully driverless robotaxi service in Las Vegas",
+      "excerpt": "LAS VEGAS, Nev. (FOX5) - Lyft and Motional are continuing their work towards launching a fully driverless robotaxi service in Las Vegas. According to a news release, starting Tuesday, as part of a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox5vegas.com/2022/08/16/riders-can-now-request-driverless-robotaxi-through-lyft-las-vegas/",
+      "originalUrl": "https://www.fox5vegas.com/2022/08/16/riders-can-now-request-driverless-robotaxi-through-lyft-las-vegas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX5 Las Vegas",
+        "domain": "fox5vegas.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-16-community-financial-institutions-gain-access-to-ai-powered-personalization-through-combined-deeptarget-cognitivescale-technologies.md",
+      "title": "Community Financial Institutions Gain Access to AI-Powered Personalization Through Combined DeepTarget & CognitiveScale Technologies",
+      "excerpt": "For the first time, CFIs will be able to identify predictable revenue opportunities across all 15+ lending and fee based products and services ... M12 (Microsoft Ventures), Anthem and USAA.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56821950-community-financial-institutions-gain-access-to-ai-powered-personalization-through-combined-deeptarget-cognitivescale-technologies-200.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56821950-community-financial-institutions-gain-access-to-ai-powered-personalization-through-combined-deeptarget-cognitivescale-technologies-200.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-16-ok-google-get-me-a-coke-ai-giant-demos-soda-fetching-robots.md",
       "title": "OK Google, get me a Coke: AI giant demos soda-fetching robots",
       "excerpt": "The mechanical waiters, shown in action to reporters last week, embody an artificial intelligence breakthrough that paves the way for multipurpose robots as easy to control as ones that perform single,",
@@ -1016,144 +1127,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-artificial-neural-networks-market-to-witness-a-healthy-growth-by-2029.md",
-      "title": "Artificial Neural Networks Market to Witness a Healthy Growth by 2029",
-      "excerpt": "Pune, India-Global Artificial Neural Networks Market Report Organization’s Researcher investigators specialists causes us",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-to-witness-a-healthy-growth-by-2029-2022-08-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-to-witness-a-healthy-growth-by-2029-2022-08-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-16T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-artificial-intelligenceaichips-market-share-size-growth-global-growth-analysis-trends-industry-analysis-key-players-and-forecast-to-2027.md",
-      "title": "Artificial Intelligence(AI)Chips Market Share, Size, Growth Global Growth Analysis, Trends, Industry Analysis, Key Players and Forecast to 2027",
-      "excerpt": "Aug 16, 2022 (The Expresswire) -- Global Artificial Intelligence(AI)Chips Market research report 2022 provides comprehensive information about market overview, modern trends, demand, and recent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligenceaichips-market-share-size-growth-global-growth-analysis-trends-industry-analysis-key-players-and-forecast-to-2027-2022-08-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligenceaichips-market-share-size-growth-global-growth-analysis-trends-industry-analysis-key-players-and-forecast-to-2027-2022-08-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-16T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-global-artificial-intelligence-ai-in-operating-room-market-analysis-and-forecast-technologies-demand-growth-research-and-development.md",
-      "title": "Global Artificial Intelligence (AI) in Operating Room Market Analysis And Forecast | Technologies, Demand, Growth, Research And Development",
-      "excerpt": "Key Companies Covered in the Global Artificial Intelligence (AI) in Operating Room Research are Activ Surgical Inc., Brainomix Limited, Caresyntax Corp, DeepOR S.A.S, ExplORer Surgical Corp., Hanson Meditec Co.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-operating-room-market-analysis-and-forecast-technologies-demand-growth-research-and-development-2022-08-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-operating-room-market-analysis-and-forecast-technologies-demand-growth-research-and-development-2022-08-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-16T01:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

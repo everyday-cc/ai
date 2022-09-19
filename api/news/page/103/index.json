@@ -2,6 +2,156 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2022-06-25-ai-powered-video-platform-salesroom-comes-out-of-stealth.md",
+      "title": "AI-Powered Video Platform Salesroom Comes Out Of Stealth",
+      "excerpt": "\"You’re talking too fast; consider slowing down.\" That's a statement you’d expect coming from a mentor or friend. But they’re computer-generated prompts designed to help someone trying to sell a product via video call.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/phoebeliu/2022/06/24/ai-powered-video-platform-salesroom-comes-out-of-stealth/",
+      "originalUrl": "https://www.forbes.com/sites/phoebeliu/2022/06/24/ai-powered-video-platform-salesroom-comes-out-of-stealth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62b62578551931f3067a1f15/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/phoebeliu/2022/06/24/ai-powered-video-platform-salesroom-comes-out-of-stealth/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/phoebeliu/2022/06/24/ai-powered-video-platform-salesroom-comes-out-of-stealth/amp/",
+      "publishedDateTime": "2022-06-24T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-25-deepracer-machine-learning-platform-offers-a-fun-way-to-learn-ml.md",
+      "title": "DeepRacer machine learning platform offers a fun way to learn ML",
+      "excerpt": "MARS event spotlighted cutting edge technologies, including machine learning, automation, robotics and space exploration. Machine learning, in particular, has seen advanced by leaps and bounds recently,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/06/24/deepracer-machine-learning-platform-offers-fun-way-learn-ml-remars/",
+      "originalUrl": "https://siliconangle.com/2022/06/24/deepracer-machine-learning-platform-offers-fun-way-learn-ml-remars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/Mike-Miller-Amazon-reMARS-2022.jpg",
+          "width": 5472,
+          "height": 3648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-24T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-improve-ml-developer-productivity-with-weights-biases-a-computer-vision-example-on-amazon-sagemaker.md",
+      "title": "Improve ML developer productivity with Weights & Biases: A computer vision example on Amazon SageMaker",
+      "excerpt": "The content and opinions in this post are those of the third-party author and AWS is not responsible for the content or accuracy of this post. As more organizations use deep learning techniques such as computer vision and natural language processing, the machine learning (ML) developer persona needs",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-ml-developer-productivity-with-weights-biases-a-computer-vision-example-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-ml-developer-productivity-with-weights-biases-a-computer-vision-example-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/24/weights-and-biases.jpg",
+          "width": 1245,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-24T13:33:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-06-25-westworld-cast-previews-whats-new-plus-the-uneasiness-of-season-4-video.md",
       "title": "‘Westworld’ Cast Previews What’s New, Plus the Uneasiness of Season 4 (VIDEO)",
       "excerpt": "It picks up seven years after the 2020 Season 3 finale, in which clever robot Dolores (Evan Rachel Wood) died after freeing humans from the mind control of a massive A.I. (This despite years of abuse at the hands of mortals when she was one of the hosts in the Westworld theme park.",
@@ -990,127 +1140,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-zscaler-zs-adds-aiml-capabilities-to-zero-trust-exchange.md",
-      "title": "Zscaler (ZS) Adds AI/ML Capabilities to Zero Trust Exchange",
-      "excerpt": "Zscaler ZS recently announced the addition of new artificial intelligence (AI) and machine learning (ML) capabilities to its zero-trust security solution — Zscaler Zero Trust Exchange (“ZTE”). With this update,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/zscaler-zs-adds-ai-ml-capabilities-to-zero-trust-exchange",
-      "originalUrl": "https://www.nasdaq.com/articles/zscaler-zs-adds-ai-ml-capabilities-to-zero-trust-exchange",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/zscaler-zs-adds-ai-ml-capabilities-to-zero-trust-exchange?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/zscaler-zs-adds-ai-ml-capabilities-to-zero-trust-exchange?amp",
-      "publishedDateTime": "2022-06-24T05:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-entrepreneurs-architects-and-artists-why-people-with-dyslexia-could-be-drawn-to-certain-jobs.md",
-      "title": "Entrepreneurs, architects and artists: Why people with dyslexia could be drawn to certain jobs",
-      "excerpt": "Estimates suggest that up to 20% of the population have dyslexia - and the study's aim was to better understand their cognitive strengths. Lead author Dr Helen Taylor said \"the deficit-centred ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.sky.com/story/enterpreneurs-architects-and-artists-why-people-with-dyslexia-could-be-drawn-to-certain-jobs-12639682",
-      "originalUrl": "https://news.sky.com/story/enterpreneurs-architects-and-artists-why-people-with-dyslexia-could-be-drawn-to-certain-jobs-12639682",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://e3.365dm.com/22/06/1600x900/skynews-richard-branson-dyslexia_5813744.jpg?20220624114741",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.sky.com/story/amp/enterpreneurs-architects-and-artists-why-people-with-dyslexia-could-be-drawn-to-certain-jobs-12639682",
-      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/enterpreneurs-architects-and-artists-why-people-with-dyslexia-could-be-drawn-to-certain-jobs-12639682",
-      "publishedDateTime": "2022-06-24T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sky",
-        "domain": "sky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-some-people-do-better-on-cognitive-tasks-while-walking.md",
-      "title": "Some People Do Better on Cognitive Tasks while Walking",
-      "excerpt": "Some young and healthy people improve performance on cognitive tasks while walking by changing the use of neural resources, according to a new study. It has long been thought that when walking is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.govexec.com/workforce/2022/06/some-people-do-better-cognitive-tasks-while-walking/368508/",
-      "originalUrl": "https://www.govexec.com/workforce/2022/06/some-people-do-better-cognitive-tasks-while-walking/368508/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.govexec.com/media/img/cd/2022/06/23/062322walking/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-24T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Executive",
-        "domain": "govexec.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

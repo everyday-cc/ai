@@ -2,6 +2,103 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-09-14-university-of-maryland-prof-urges-pause-on-facial-recognition.md",
+      "title": "University of Maryland Prof Urges Pause on Facial Recognition",
+      "excerpt": "Lauren Rhue, an assistant professor of information systems at the University of Maryland, says human intervention is necessary to mitigate bias in technologies from Amazon Rekognition, Face++ and Microsoft.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/higher-ed/university-of-maryland-prof-urges-pause-on-facial-recognition",
+      "originalUrl": "https://www.govtech.com/education/higher-ed/university-of-maryland-prof-urges-pause-on-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/fbebee5/2147483647/strip/true/crop/2100x1095+0+6/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F19%2F60%2F04d269dc468bba43ff8fcf021bc0%2Flauren-rhue.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/higher-ed/university-of-maryland-prof-urges-pause-on-facial-recognition?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/university-of-maryland-prof-urges-pause-on-facial-recognition?_amp=true",
+      "publishedDateTime": "2022-09-13T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-synopsys-to-seed-startup-innovation-with-ai-powered-chip-design-tools-in-the-cloud.md",
+      "title": "Synopsys To Seed Startup Innovation With AI-Powered Chip Design Tools In The Cloud",
+      "excerpt": "This new chip design tool seed program for startups could help accelerate the pace of innovation in many markets and industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2022/09/13/synopsys-to-seed-startup-innovation-with-ai-powered-chip-design-tools-in-the-cloud/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2022/09/13/synopsys-to-seed-startup-innovation-with-ai-powered-chip-design-tools-in-the-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6320d84574a794428be9950b/0x0.jpg?format=jpg&width=1200",
+          "width": 1024,
+          "height": 531,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2022/09/13/synopsys-to-seed-startup-innovation-with-ai-powered-chip-design-tools-in-the-cloud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/09/13/synopsys-to-seed-startup-innovation-with-ai-powered-chip-design-tools-in-the-cloud/amp/",
+      "publishedDateTime": "2022-09-13T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-oracle-mysql-heatwave-comes-to-aws.md",
       "title": "Oracle MySQL HeatWave comes to AWS",
       "excerpt": "Oracle’s MySQL database service supporting mixed analytical, transaction processing, and machine learning workloads is now available on Amazon Web Services.",
@@ -104,40 +201,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-ccc-intelligent-solutions-wins-2022-idc-fintech-rankings-real-results-award-for-ccc-safekeep.md",
-      "title": "CCC Intelligent Solutions Wins 2022 IDC FinTech Rankings Real Results Award for CCC® Safekeep",
-      "excerpt": "CCC Intelligent Solutions Inc. (CCC), a leading SaaS platform powering the P&C insurance economy, announced today it is a winner of the 2022 IDC FinTech Rankings Real Results Award which recognizes tech providers that have enabled a genuine,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-ccc-intelligent-solutions-wins-2022-idc-fintech-rankings-/2022/09/13/9672698.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-ccc-intelligent-solutions-wins-2022-idc-fintech-rankings-/2022/09/13/9672698.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     },
     {
@@ -444,6 +507,49 @@
         "AI",
         "AI in Autos",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-09-13-ccc-intelligent-solutions-wins-2022-idc-fintech-rankings-real-results-award-for-ccc-safekeep.md",
+      "title": "CCC Intelligent Solutions Wins 2022 IDC FinTech Rankings Real Results Award for CCC® Safekeep",
+      "excerpt": "The AI-Powered Subrogation Platform Recognized for its Work with Root Insurance CCC Intelligent Solutions Inc. (CCC), a leading SaaS platform powering the P&C insurance economy, announced today it is",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/09/b28850758/ccc-intelligent-solutions-wins-2022-idc-fintech-rankings-real-results-award-for-ccc-safekeep",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/b28850758/ccc-intelligent-solutions-wins-2022-idc-fintech-rankings-real-results-award-for-ccc-safekeep",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg",
+          "width": 700,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28850758",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28850758",
+      "publishedDateTime": "2022-09-13T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     },
     {
@@ -1102,92 +1208,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-realtime-robotics-integrates-rapidplan-software-with-siemens-process-simulate.md",
-      "title": "Realtime Robotics integrates RapidPlan software with Siemens Process Simulate",
-      "excerpt": "The partnership will allow customers to use Realtime Robotics' motion planning and control software without leaving Siemens Process Simulate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/realtime-robotics-integrates-rapidplan-software-with-siemens-process-simulate/",
-      "originalUrl": "https://www.therobotreport.com/realtime-robotics-integrates-rapidplan-software-with-siemens-process-simulate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/09/featured-web-realtime-robotics-software.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-older-adults-with-regular-activity-routines-are-happier-and-do-better-on-cognitive-tests-study-finds.md",
-      "title": "Older adults with regular activity routines are happier and do better on cognitive tests, study finds",
-      "excerpt": "PITTSBURGH, Sept. 13, 2022 — Older adults who consistently get up early and remain active throughout the day are happier and perform better on cognitive tests than those with irregular activity ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/964464",
-      "originalUrl": "https://www.eurekalert.org/news-releases/964464",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/03e36f07-bf84-44c4-8f4f-b1e6bcba7f6d/Rendition/low-res/Content/Public",
-          "width": 558,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }
