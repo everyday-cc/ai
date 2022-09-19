@@ -3,7 +3,7 @@ name: "Rodney Brooks"
 bio: "Rodney Brooks is the Panasonic Professor of Robotics (emeritus) at MIT. He is a robotics entrepreneur and most recently was Founder and CTO of Robust.ai"
 location: San Francisco, CA
 type: "profile"
-heat: 64
+heat: 50
 
 affiliation:
   name: MIT
@@ -37,6 +37,6 @@ images:
     isCached: true
     title: "Rodney Brooks"
 
-secured: "7krv5oyNi0MJvaNvkKtbOihak9GNY7dqznTM8QDEVatuTR17VsSriPFgLcUAPruCiphmvoGAQ9/qdAJrUPyENsY90Sc3Qjs00c56nG6pBWdqkmpUSIPqYGwr07wUOy2wKDhHO31Pke2D+9ZOppacLSt6mkY9OHV/ChSWARjJ+aHt+tv+4KKpBx5oZnseOJ4db4mSMUzhcGrTbDpjo2OLNSQJtD6MowHfsYxKMzjKJn+hj69LIBzjgwibnKcgrN9te2xch/z6/fhwsVTjtzAdGJdEJy3aSsc5ipSiSymSPdREHY7f/mYLJ1K1xJsMsPoumGygvimcDF4wGJTFjwVMwcjSLnK3ObKls55iAFmSRxOn8vtgnSTrMtewNF8EBFfpqa5lFIThVSTCIIyrCTEU9OU7zpQeLz0b/dTefnm3Xl8=;8qq01jGnxxIYYsNvVuHGxA=="
+secured: "/li49Dk6CMECRLADDrp9SDZGdAVU16YVtYvbuk8tgQ+2TUx4fPD/c9hB0NBjCd+n+OdnSOj6CeUBcL7bAdbIuFctNoN/ERJMyDI/GDTh2flsPDism+1cpJELSKPN4CsUKRN95zbi6cokKLjVUxdEbEJhP76CcIUd0h7UcolO4cfTDvPTn3pM5hQKyEjfUChuBm1Z8gSRInxmMaxcoMVYWxOWw/uMrl3OmyLKiBsrcJWXnOBBP4MbYqpLNHnSkhUqeTU6oAivsUow/HfFTb2FeJ2Ou8fKCxuw3IbBXnTjuJp2SAfE60jFsgdvYQWUCzihjcX4PNJKjVZHNa+KGpicx5AQK/G4lw2tpRK/AnKK1IUk0qLW7osBoL+/EE9mRbpFqWYYAJVVeKb7KT52qklhbmYNJ9YYBUrvMpx7zX0Osfo=;qGkGifEb+hU4AX84gWtplw=="
 ---
 
