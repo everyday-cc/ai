@@ -45,20 +45,6 @@ related:
         width: 534
         height: 462
         isCached: true
-  - title: "Microsoft continues expanding Azure Space"
-    excerpt: "Microsoft is continuing to expand its role in the space sector on multiple fronts with a strategy built around partnerships."
-    publishedDateTime: 2022-09-14T15:13:00Z
-    webUrl: "https://spacenews.com/microsoft-azure-wsbw-2022/"
-    type: article
-    provider:
-      name: SpaceNews
-      domain: spacenews.com
-    quality: 54
-    images:
-      - url: "https://spacenews.com/wp-content/uploads/2022/09/rsz_img_0295_1.jpg"
-        width: 879
-        height: 659
-        isCached: true
   - title: "Soroco Scout™ Now Available in Microsoft Azure Marketplace"
     excerpt: "Soroco, the world's first work graph company, today announced the availability of Soroco ScoutTM, the flagship product powered by work graph in Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
     publishedDateTime: 2022-09-15T05:03:00Z
@@ -77,15 +63,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 49
-  - title: "Appfire Expands into the Microsoft Ecosystem with Acquisition"
-    excerpt: "\"This acquisition represents a continued investment in our customers and an opportunity to disrupt the legacy time management market,\" comments 7pace Founder and CEO Marc Schaeffler. \"We have searched for a partner that aligns with our values,"
-    publishedDateTime: 2022-09-14T15:21:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-appfire-expands-into-microsoft-ecosystem-with-acquisition-top-/2022/09/14/9673707.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "8BZxXXXVFVF8tD4UKlPYhJPeWxq5d9/uwBaPqr24Rv5/cdRW7gETS5rEFSKE5x2cbqichl4Jdo/5zKYy93jXkVdDRf0DFvU8VoQlMcEd4jz+mRACn5TpwjWW3NWzxgoul8OMkcuIKEph1fKHkRWlKNFjJ/sauNhRrNa3Jk2z0wv0T1xcDYv4jSUm+9NuQ30DB7rpIcdGAX3IwEd00BLeo/SuQ5FWVSHMK2IxMvBKzVAwItX0r9AKoKHEX1GLFxGyTjeL6Rc2/A2mTFWORsefILFlYzrbCRDSfDCATc2mow3B4MTjQCiu139Pnob86AOlPIT5frxEjnZwzXjRpl9NijABV0ysEgywT6W/0VBdwbypieEInCZpw/LoKMEs+k24rhC5JFD2Ibox1Xgxf9qdsORq+uQYpAWw6yP8WlGVXqf0LQiafJmvYO7SG3QSTUPPMynWPrd9igsSc1FTrOgJXsW7EOMhdUfKfjQvgA+z/B4rYMKFc7OLSEoFQy4vxIPuQOQ6lqkCgNRw/1kwbFpU3w==;qDwk7HLQ6I9E4N60fB6ikw=="
 ---

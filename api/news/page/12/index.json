@@ -2,6 +2,221 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-09-06-ai-ethics-why-you-should-care.md",
+      "title": "AI Ethics: Why You Should Care",
+      "excerpt": "The confluence of sensor technology, the internet, massive computational resources, and AI - have led to a world where companies may know more about you than your family and friends (and maybe even more than you know about yourself!",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nishatalagala/2022/09/05/ai-ethics-why-you-should-care/",
+      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2022/09/05/ai-ethics-why-you-should-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6316952483979c27434fdbec/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 848,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2022/09/05/ai-ethics-why-you-should-care/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2022/09/05/ai-ethics-why-you-should-care/amp/",
+      "publishedDateTime": "2022-09-05T19:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-five-aussie-startups-and-firms-receiving-major-cash-injections-despite-the-tech-downfall.md",
+      "title": "Five Aussie startups and firms receiving major cash injections despite the tech downfall",
+      "excerpt": "Despite the many unfortunate cases of layoffs and closures, it turns out there are still cash injections about in the tech investment scene.",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartcompany.com.au/startupsmart/advice/startupsmart-funding/aussie-startups-cash-injections-tech-downfall/",
+      "originalUrl": "https://www.smartcompany.com.au/startupsmart/advice/startupsmart-funding/aussie-startups-cash-injections-tech-downfall/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smartcompany.com.au/wp-content/uploads/2022/09/the-pitch-winner-Zipr-startup-funding.jpg",
+          "width": 733,
+          "height": 358,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-05T19:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartCompany",
+        "domain": "smartcompany.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-workato-expands-integration-led-automation-availability-in-singapore-deepens-asia-pacific-commitment.md",
+      "title": "Workato expands integration-led automation availability in Singapore, deepens Asia Pacific commitment",
+      "excerpt": "Workato launching its solutions on Amazon Web Services will empower customers to carry out mission-critical business process integrations SINGAPORE - Media OutReach - 6 September 2022 - Workato , a global leader in enterprise automation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/workato-expands-integration-led-automation-availability-singapore-deepens-asia-pacific",
+      "originalUrl": "https://www.asiaone.com/business/workato-expands-integration-led-automation-availability-singapore-deepens-asia-pacific",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Sep2022/WORKato.jpg?h=bde28bee&itok=yD9olfjl",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-05T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-in-conversation-with-ai-building-better-language-models.md",
+      "title": "In conversation with AI: building better language models",
+      "excerpt": "Our new paper, In conversation with AI: aligning language models with human values, explores a different approach, asking what successful communication between humans and an artificial conversational agent might look like and what values should guide conversation in these contexts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/in-conversation-with-ai-building-better-language-models",
+      "originalUrl": "https://www.deepmind.com/blog/in-conversation-with-ai-building-better-language-models",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-what-deep-learning-algorithms-can-teach-us-about-snow.md",
+      "title": "What Deep Learning Algorithms Can Teach Us About Snow",
+      "excerpt": "The DeepPrecip neural network developed by Fraser King and colleagues at the University of Waterloo models weather in order to measure annual snowfall and snowmelt in the context of climate change.",
+      "sourceUrl": null,
+      "webUrl": "https://cacm.acm.org/news/264341-what-deep-learning-algorithms-can-teach-us-about-snow",
+      "originalUrl": "https://cacm.acm.org/news/264341-what-deep-learning-algorithms-can-teach-us-about-snow",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "acm.org",
+        "domain": "acm.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-06-if-you-think-your-preparation-will-help-you-later-you-will-probably-be-right-a-new-study-says.md",
       "title": "If you think your preparation will help you later, you will probably be right, a new study says",
       "excerpt": "It just might, according to a new study. People did better on a task relying on their working memory when they underwent cognitive training and learned it would help with their performance ...",
@@ -877,240 +1092,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-05-researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour.md",
-      "title": "Researchers discover how artificial intelligence can be trained to detect tumour",
-      "excerpt": "\"Thanks to the interdisciplinary structures at PRODI, we have the best prerequisites for incorporating the hypothesis-based approach into the developm..",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/business-analytics/researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour/93993860",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/business-analytics/researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour/93993860",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-93993860,imgsize-25480,width-1200,height-628,overlay-etcio/researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/business-analytics/researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour/93993860",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/business-analytics/researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour/93993860",
-      "publishedDateTime": "2022-09-04T20:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-09-05-its-time-to-embrace-the-tech-that-could-confront-the-crisis-in-aging.md",
-      "title": "It’s time to embrace the tech that could confront the crisis in aging",
-      "excerpt": "For the elderly, AI can enable independence and mobility, reduce need for caregivers, and detect important changes in health and activity.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/its-time-to-embrace-the-tech-that-could-confront-the-crisis-in-aging/",
-      "originalUrl": "https://venturebeat.com/ai/its-time-to-embrace-the-tech-that-could-confront-the-crisis-in-aging/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1251551899-e1661531292108.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/its-time-to-embrace-the-tech-that-could-confront-the-crisis-in-aging/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/its-time-to-embrace-the-tech-that-could-confront-the-crisis-in-aging/amp/",
-      "publishedDateTime": "2022-09-04T20:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-05-amazon-promo-codes-september-2022.md",
-      "title": "Amazon Promo Codes September 2022",
-      "excerpt": "Receive a $100 statement credit after you spend $3,000 on your Amazon Business Card within the first 3 months of opening your account. Don't miss out on this Prime Student special and use this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/coupons/amazon.com/",
-      "originalUrl": "https://www.forbes.com/coupons/amazon.com/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.forbes.com/coupons/vfiles/81499/merchant_image-merchant_open_graph.png/",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-04T18:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-05-is-big-brother-britain-about-to-become-the-worlds-ultimate-surveillance-state.md",
-      "title": "Is Big Brother Britain about to become the world's ultimate surveillance state?",
-      "excerpt": "Made by Dahua, a Chinese state-affiliated company, they are equipped with controversial facial recognition software — a means of monitoring and controlling populations much favoured by Beijing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/news/article-11179641/Is-Big-Brother-Britain-worlds-ultimate-surveillance-state.html",
-      "originalUrl": "https://www.dailymail.co.uk/news/article-11179641/Is-Big-Brother-Britain-worlds-ultimate-surveillance-state.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/09/05/00/62053565-0-image-a-21_1662334745315.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/news/article-11179641/amp/Is-Big-Brother-Britain-worlds-ultimate-surveillance-state.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-11179641/amp/Is-Big-Brother-Britain-worlds-ultimate-surveillance-state.html",
-      "publishedDateTime": "2022-09-04T17:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-05-how-can-emerging-technologies-boost-the-fintech-and-payments-ecosystem.md",
-      "title": "How Can Emerging Technologies Boost The Fintech And Payments Ecosystem?",
-      "excerpt": "FinTech has emerged as one of the biggest beneficiaries ... technologies like Artificial Intelligence (AI) and Machine Learning (ML) have become a household name. It was only a matter of time ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessworld.in/article/How-Can-Emerging-Technologies-Boost-The-Fintech-And-Payments-Ecosystem-/05-09-2022-445195/",
-      "originalUrl": "https://www.businessworld.in/article/How-Can-Emerging-Technologies-Boost-The-Fintech-And-Payments-Ecosystem-/05-09-2022-445195/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.businessworld.in/article/article_extra_large_image/1662370112_tIlbqV_tech_fintech.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Businessworld",
-        "domain": "businessworld.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

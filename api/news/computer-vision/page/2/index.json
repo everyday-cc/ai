@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-31-what-you-know-changes-how-you-see-things.md",
+      "title": "What you know changes how you see things",
+      "excerpt": "Researchers have gained important insight into how the human brain processes an object in the visual system and where in the brain this processing takes place. The study shows people perceive objects differently depending on their prior knowledge and experience with that object.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/08/220831162516.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/08/220831162516.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-i-have-face-blindness.md",
       "title": "I Have Face Blindness.",
       "excerpt": "I Have Face Blindness. This Is How I Recognize You. When you can’t rely on facial recognition, you look beyond the obvious. When you can’t rely on facial recognition, you look beyond the obvious.",
@@ -1396,58 +1439,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-mediatek-pentonic-700-soc-for-4k-televisions-announced-ai-image-enhancements-dolby-vision-iq-and-more.md",
-      "title": "MediaTek Pentonic 700 SoC for 4K televisions announced: AI image enhancements, Dolby Vision IQ, and more",
-      "excerpt": "MediaTek announced T830 chipset for routers and mobile hotspot devices. Now the Taiwanese semiconductor manufacturer has launched Pentonic 700 processor for premium and high-end televisions. Last year,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/08/19/mediatek-pentonic-700-soc-for-4k-televisions-announced-ai-image-enhancements-dolby-vision-iq-and-more/",
-      "originalUrl": "https://www.gizmochina.com/2022/08/19/mediatek-pentonic-700-soc-for-4k-televisions-announced-ai-image-enhancements-dolby-vision-iq-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/08/MediaTek-Pentonic-700.jpeg",
-          "width": 629,
-          "height": 475,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/08/19/mediatek-pentonic-700-soc-for-4k-televisions-announced-ai-image-enhancements-dolby-vision-iq-and-more/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/08/19/mediatek-pentonic-700-soc-for-4k-televisions-announced-ai-image-enhancements-dolby-vision-iq-and-more/?amp=1",
-      "publishedDateTime": "2022-08-19T04:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "Computer Vision"
       ]

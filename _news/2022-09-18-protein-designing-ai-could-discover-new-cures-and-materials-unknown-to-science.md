@@ -7,7 +7,7 @@ originalUrl: "https://interestingengineering.com/innovation/protein-ai-could-pro
 webUrl: "https://interestingengineering.com/innovation/protein-ai-could-produce-new-cures-materials"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "An AI that can design new proteins could help unlock new cures and materials"
-    excerpt: "A new AI tool could help researchers discover previously unknown proteins and design entirely new ones. When harnessed, it could help unlock the development of more efficient vaccines, speed up research for the cure to cancer,"
-    publishedDateTime: 2022-09-15T18:00:00Z
-    webUrl: "https://www.technologyreview.com/2022/09/15/1059550/an-ai-that-can-design-new-proteins-could-help-unlock-new-cures-and-materials/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 16
 
 secured: "YRADYErCqex3pc22eutMD9eDuQW7XcS88uoIap9MhA/KE0M/zwzDikq1gqf6bhLdkcqogz1C/KH99xi/uZ71WgYXUAJPqthx/mbr0+OnGD5P8eVS5HZsfTDskdDcQOzp86MaVXmo0aZkbNzf7Gwi9WGGfDS9iE2KkE788yRvBCcsWsdHy0kiF8cAw5oFJzQBR+qtpWhT9D99X3m8e7kEypP3mIhZnkYWMK8qDn7FyDaypKA5WbnaQDEY6EPYMz2BjiV7y21jNTLBLTbiwqSY/Wi/XbPFORfOppGg093f5uvi4NzzGNaP1/BNdzjR+V7hRbT7M9Y6yMGHeSZTGCqOxrlKcdq3fZfsofMdCMibaXZ53uNMIHG6QSdlowTegaLOPIXclRhKb3UFwBbiPqObGE8MhmkrsLRf163fCK8hvVztY2vumWzyDFiNVu8QQ1PdUzu7J/0m2jXg404CdbkI7/e8i8RU35ZBPGzRP2D9t4+6d2vJioXSIJsNKUoN5LUR52toj/Ymq/QHEg7amXwgUQ==;K0CAvmBe9rbG896cg4Td0g=="
 ---

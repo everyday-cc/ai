@@ -7,7 +7,7 @@ originalUrl: "https://www.hackread.com/why-artificial-intelligence-must-cybersec
 webUrl: "https://www.hackread.com/why-artificial-intelligence-must-cybersecurity/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,34 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "The Artificial Intelligence and Cybersecurity Nexus: Taking Stock of the European Union’s Approach"
-    excerpt: "The EU’s AI-cybersecurity ecosystem remains highly fragmented. To realize its technological leadership ambitions, the bloc must connect the dots between its myriad initiatives, processes, and stakeholders."
-    publishedDateTime: 2022-09-15T09:05:00Z
-    webUrl: "https://carnegieeurope.eu/2022/09/15/artificial-intelligence-and-cybersecurity-nexus-taking-stock-of-european-union-s-approach-pub-87886"
+  - title: "This Startup Is Using AI to Turn Video Security On Its Head"
+    excerpt: "Ambient.ai applied artificial intelligence and computer-vision intelligence to rethink security cameras. But market saturation was an even bigger challenge."
+    publishedDateTime: 2022-09-19T09:02:00Z
+    webUrl: "https://www.inc.com/christine-lagorio-chafkin/security-artificial-intelligence-ambient.html"
     type: article
     provider:
-      name: Carnegie Europe
-      domain: carnegieeurope.eu
-    quality: 27
+      name: Inc
+      domain: inc.com
+    quality: 54
     images:
-      - url: "https://images.carnegieendowment.org/images/article_images/1420x770_Europe_s_Digital_Future_Vestager_Breton_-_GettyImages-1201843775.jpg"
-        width: 1420
-        height: 770
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/Shikhar-Shrestha_513419_jggx7k.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Alphabet spinoff SandboxAQ acquires cybersecurity and encryption startup Cryptosense"
-    excerpt: "Cryptosense offers cryptography management software designed to protect sensitive data against data breaches. Pitched as cryptography management at the speed of DevOps, the Cryptosense platform provides full visibility into cryptography during development and a full inventory in production."
-    publishedDateTime: 2022-09-14T23:41:00Z
-    webUrl: "https://siliconangle.com/2022/09/14/alphabet-spinoff-sandboxaq-acquires-cybersecurity-encryption-startup-cryptosense/"
+  - title: "Using AI to streamline Army selection boards"
+    excerpt: "Army command selection boards in the future may depend on computer automated scoring of past evaluations. LTC Kirstin Saling, director of the innovation cell at the Army Human Resources Command (HRC),"
+    publishedDateTime: 2022-09-14T17:33:00Z
+    webUrl: "https://federalnewsnetwork.com/army/2022/09/using-ai-to-streamline-army-selection-boards/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 15
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/sandboxaq.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 19
+  - title: "Now, you can write articles using artificial intelligence tool, like this"
+    excerpt: "The most compelling part of this article is that it has been entirely written by an Artificial Intelligence bot, OpenAI Playground, only by providing simple prompts. Though the author has edited the article,"
+    publishedDateTime: 2022-09-17T12:30:00Z
+    webUrl: "https://www.hindustantimes.com/technology/now-you-can-write-articles-using-artificial-intelligence-tool-like-this-101663244964673.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 16
 
 secured: "64lJqfwREBsSkHfX9lhMsztQbdy5XXSVVsczCET36ZdRttVN2uR2+0YX3HVfF+d0R7jkZ7mrCSbwaM2VJok2CKB2IXvht2SOPXbFBS9SVj8FimmXbkA9H6MnWdPvFZg7AjPugV8YdW3Jui2bilJAdAKMuWWK99nUVD0QZCdXHcjJIGnuZSai2rbFm+lHxOCpAE3yCkOEQhJ7emLOflrDlLEOoFleF7eOLnHro+gPH8WaKIJ9eE5eWAyXKn02w+K6mZjhxcvrzInLn/Yh5sTIlxK+31Bt5Hh2X+4JA+bGa5dW6ilkzPlxWDuLpoiKgEB+PXr/au3bEm043xf4/SDpp2OKw3Mkkw7ACcdqA5q/z0s2SLRLWzglOFvUX8xCm3EgzVLXEWXxJIhiARbaa7eaD/T9gaWkfiwHwWCdUNOUW1vI6BbuQGZN7rdld8dUkkl5B2nxWl9zhg81jT0MgXzRBzB7WoxWUgSj7JqF3NAeKKZiilgBmmPsXZpjYI4+Kqj53MBo74p117QPXzaI66xeAg==;WDj2jCpwzHsf0vz0S6pTWg=="
 ---

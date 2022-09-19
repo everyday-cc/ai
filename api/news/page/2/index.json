@@ -2,6 +2,136 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-16-can-ai-powered-robots-laugh-for-human-jokes.md",
+      "title": "Can AI-Powered Robots Laugh for Human Jokes?",
+      "excerpt": "Artificial intelligence-powered robot Erica is now trained to laugh for human jokes. Since at least the time of inquiring minds like Plato, philosophers and scientists have puzzled over the question,",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/can-ai-powered-robots-laugh-for-human-jokes-208618-1.htm",
+      "originalUrl": "https://www.medindia.net/news/can-ai-powered-robots-laugh-for-human-jokes-208618-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/smile1.jpg.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/can-ai-powered-robots-laugh-for-human-jokes-208618-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-ai-powered-robots-laugh-for-human-jokes-208618-1.htm",
+      "publishedDateTime": "2022-09-16T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-the-mysterious-mathematics-of-ai-could-be-decoded-using-the-neural-network-method.md",
+      "title": "The Mysterious Mathematics of AI Could be Decoded Using the Neural Network Method",
+      "excerpt": "Artificial Intelligence relies on Neural Networks making it think or process information like a human. There is both input and output but it mostly remains unknown what transpires in the processing unit of the Neural Networks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techthirsty.com/the-mysterious-mathematics-of-ai-could-be-decoded-using-the-neural-network-method/",
+      "originalUrl": "https://www.techthirsty.com/the-mysterious-mathematics-of-ai-could-be-decoded-using-the-neural-network-method/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techthirsty.com/wp-content/uploads/2022/09/Mysterious-Mathematics-of-AI-2.jpg",
+          "width": 1300,
+          "height": 859,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-16T02:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tech Thirsty",
+        "domain": "techthirsty.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-how-fintech-startups-are-using-ai-to-empower-msmes.md",
+      "title": "How fintech startups are using AI to empower MSMEs?",
+      "excerpt": "The MSME sector, better known as ‘the engine of growth’ has been contributing immensely to the economic progress of the country. Providing employment opportunities to over 100 million people, many Fintech startups have also",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-fintech-startups-are-using-ai-to-empower-msmes/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-fintech-startups-are-using-ai-to-empower-msmes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/09/Oumesh-Sauba.jpg",
+          "width": 480,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-fintech-startups-are-using-ai-to-empower-msmes/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-fintech-startups-are-using-ai-to-empower-msmes/",
+      "publishedDateTime": "2022-09-16T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-16-rephraseai-raises-106-million-in-series-a-funding.md",
       "title": "Rephrase.ai Raises $10.6 Million In Series A Funding",
       "excerpt": "This fund raised will allow the company to enhance its capabilities by integrating product experiences, scaling hiring across the business, including within the engineering, AI, product, sales, and marketing teams,",
@@ -243,7 +373,7 @@
       "originalUrl": "https://indiaeducationdiary.in/soroco-scouttm-now-available-in-microsoft-azure-marketplace/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -371,6 +501,49 @@
         "AI in Robotics",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-upstart-claims-its-chips-beat-nvidias-a100-on-ai-oomph.md",
+      "title": "Upstart claims its chips beat Nvidia's A100 on AI oomph",
+      "excerpt": "SambaNova says its latest chips can best Nvidia's A100 silicon by a wide margin, at least when it comes to machine learning workloads. The Palo Alto-based AI startup this week revealed its DataScale systems and Cardinal SN30 accelerator,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/09/15/sambanova_ai_chip_nvidia/",
+      "originalUrl": "https://www.theregister.com/2022/09/15/sambanova_ai_chip_nvidia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2018/09/05/shutterstock_187864790.jpg",
+          "width": 648,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/09/15/sambanova_ai_chip_nvidia/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/09/15/sambanova_ai_chip_nvidia/",
+      "publishedDateTime": "2022-09-15T13:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -866,7 +1039,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/axiomtek-launches-edge-computer-with-dual-gpu-expansion-for-ai-accelerated-processing-ipc972-1031744564",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -997,205 +1170,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-watch-a-robot-excavator-controlled-like-a-videogame.md",
-      "title": "Watch a robot excavator controlled like a videogame",
-      "excerpt": "I could watch this robot excavator dig all day. Remote control could also make excavation safer and more economical.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/watch-robot-excavator-controlled-like-a-videogame/",
-      "originalUrl": "https://www.zdnet.com/article/watch-robot-excavator-controlled-like-a-videogame/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/808d01e132edafd391e87b12a42e3a8bd3f8815a/2022/09/14/b144d8e0-d4e7-420a-bbff-447305662975/sri-excavator.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/watch-robot-excavator-controlled-like-a-videogame/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/watch-robot-excavator-controlled-like-a-videogame/",
-      "publishedDateTime": "2022-09-14T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-announcing-visual-conversation-builder-for-amazon-lex.md",
-      "title": "Announcing Visual Conversation Builder for Amazon Lex",
-      "excerpt": "Amazon Lex is a service for building conversational interfaces using voice and text. Amazon Lex provides high-quality speech recognition and language understanding capabilities. With Amazon Lex, you can add sophisticated, natural language bots to new and existing applications. Amazon Lex reduces multi-platform",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-visual-conversation-builder-for-amazon-lex/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-visual-conversation-builder-for-amazon-lex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/14/visual-conversation-builder.jpg",
-          "width": 1548,
-          "height": 776,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T13:38:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-new-method-for-comparing-neural-networks-exposes-how-artificial-intelligence-works.md",
-      "title": "New method for comparing neural networks exposes how artificial intelligence works",
-      "excerpt": "A team has developed a novel approach for comparing neural networks that looks within the 'black box' of artificial intelligence to help researchers understand neural network behavior. Neural networks recognize patterns in datasets;",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/09/220914102256.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/09/220914102256.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-intel-arm-and-nvidia-propose-new-standard-to-make-ai-processing-more-efficient.md",
-      "title": "Intel, Arm and Nvidia propose new standard to make AI processing more efficient",
-      "excerpt": "Intel, Arm and Nvidia have proposed a standard that they say can reduce the amount of memory and processing power required for AI workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/14/intel-amd-and-nvidia-propose-new-standard-to-make-ai-processing-more-efficient/",
-      "originalUrl": "https://techcrunch.com/2022/09/14/intel-amd-and-nvidia-propose-new-standard-to-make-ai-processing-more-efficient/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1080288278.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/14/intel-amd-and-nvidia-propose-new-standard-to-make-ai-processing-more-efficient/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/14/intel-amd-and-nvidia-propose-new-standard-to-make-ai-processing-more-efficient/amp/",
-      "publishedDateTime": "2022-09-14T12:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

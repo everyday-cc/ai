@@ -2,6 +2,211 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2022-07-14-25-things-elon-musk-promised-and-didnt-deliver.md",
+      "title": "25 Things Elon Musk Promised and Didn't Deliver",
+      "excerpt": "infusing the human brain with artificial intelligence, and creating driverless cars that are run with software. His latest claim: that he would take over Twitter and more than quadruple its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/25-things-elon-musk-promised-160000576.html",
+      "originalUrl": "https://www.aol.com/25-things-elon-musk-promised-160000576.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-13T16:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-14-jcc-joins-intel-artificial-intelligence-program.md",
+      "title": "JCC joins Intel artificial intelligence program",
+      "excerpt": "WATERTOWN — Jefferson Community College has been selected as one of four community colleges in the state to join the Artificial Intelligence Incubator Network, an initiative launched in January by",
+      "sourceUrl": null,
+      "webUrl": "https://www.nny360.com/communitynews/education/jcc-joins-intel-artificial-intelligence-program/article_43170b98-8f82-5e38-850c-1e2503fb3d86.html",
+      "originalUrl": "https://www.nny360.com/communitynews/education/jcc-joins-intel-artificial-intelligence-program/article_43170b98-8f82-5e38-850c-1e2503fb3d86.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/nny360.com/content/tncms/assets/v3/editorial/9/91/991778af-82d2-5e7e-b370-330c81cfbd4a/62cf5d1b44ae4.image.jpg?crop=1770%2C929%2C0%2C120&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-13T16:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NNY360",
+        "domain": "nny360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-14-deltastream-emerges-from-stealth-to-simplify-real-time-streaming-apps.md",
+      "title": "DeltaStream emerges from stealth to simplify real-time streaming apps",
+      "excerpt": "California-based DeltaStream today emerged from stealth with $10 million seed funding from New Enterprise Associates.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/13/deltastream-emerges-from-stealth-to-simplify-real-time-streaming-applications/",
+      "originalUrl": "https://venturebeat.com/2022/07/13/deltastream-emerges-from-stealth-to-simplify-real-time-streaming-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-740521139.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/13/deltastream-emerges-from-stealth-to-simplify-real-time-streaming-applications/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/13/deltastream-emerges-from-stealth-to-simplify-real-time-streaming-applications/amp/",
+      "publishedDateTime": "2022-07-13T15:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-14-scientists-hacked-immune-cellsthen-took-them-for-a-joyride.md",
+      "title": "Scientists Hacked Immune Cells—Then Took Them for a Joyride",
+      "excerpt": "When tiny medical robots are deployed into living tissue to offer a helpful drug or repair damage, they’re met with open hostility from the organism’s own immune system. White blood cells have ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailybeast.com/laser-beams-let-scientists-hack-immune-cells-and-control-them-like-robots",
+      "originalUrl": "https://www.thedailybeast.com/laser-beams-let-scientists-hack-immune-cells-and-control-them-like-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-13T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Beast",
+        "domain": "thedailybeast.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-automation-driven-by-artificial-intelligence-booms-in-uncertain-economic-times.md",
+      "title": "Automation Driven by Artificial Intelligence Booms in Uncertain Economic Times",
+      "excerpt": "Veryfi, using artificial intelligence (AI) technology to transform documents into structured data in just seconds, has announced continued strong business momentum and growth in the second quarter. As economic concerns increase,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-san-mateo-c3329483a02d464e893d3884e0af04c2",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-san-mateo-c3329483a02d464e893d3884e0af04c2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-13T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-13-global-ai-in-computer-vision-market-insights-growth-analysis-growth-rate-forecasts-2022-2028.md",
       "title": "Global AI In Computer Vision Market Insights, Growth Analysis, Growth Rate, Forecasts 2022-2028",
       "excerpt": "Jul 13, 2022 (Market Insight Reports) -- New York, US, Zion Market Research has recently added the latest report, named \"AI In Computer Vision Market By Key Players Based on 2020 COVID-19 ...",
@@ -914,255 +1119,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-lime-has-built-its-own-camera-based-sidewalk-detection-technology.md",
-      "title": "Lime has built its own camera-based sidewalk detection technology",
-      "excerpt": "At a Lime event in Paris, the startup shared plans to pilot an in-house built computer vision platform that will leverage cameras to detect when users are riding on the sidewalk. While it will be ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/13/lime-has-built-its-own-camera-based-sidewalk-detection-technology/",
-      "originalUrl": "https://techcrunch.com/2022/07/13/lime-has-built-its-own-camera-based-sidewalk-detection-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/image_6483441-e1657681037469.jpg?w=1024",
-          "width": 1024,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/13/lime-has-built-its-own-camera-based-sidewalk-detection-technology/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/13/lime-has-built-its-own-camera-based-sidewalk-detection-technology/amp/",
-      "publishedDateTime": "2022-07-13T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-owlets-cam-2-video-monitor-uses-ai-to-predict-if-a-baby-is-truly-crying.md",
-      "title": "Owlet's Cam 2 video monitor uses AI to predict if a baby is truly crying",
-      "excerpt": "Owlet is giving tired parents new tools they can use to (hopefully) get little bit more sleep than what they're getting with a baby in the house. The company has launched the Owlet Cam 2, which uses AI and machine learning to decipher sounds from the nursery and determine whether the baby is truly crying.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/owlet-baby-camera-2-predictive-sleep-technology-100044051.html",
-      "originalUrl": "https://www.engadget.com/owlet-baby-camera-2-predictive-sleep-technology-100044051.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-07/019ff2d0-028c-11ed-bfbd-7e14de53802c",
-          "width": 1600,
-          "height": 1038,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/owlet-baby-camera-2-predictive-sleep-technology-100044051.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/owlet-baby-camera-2-predictive-sleep-technology-100044051.html",
-      "publishedDateTime": "2022-07-13T03:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-xpengs-robotics-arm-just-raised-100-million-in-funding.md",
-      "title": "Xpeng’s Robotics Arm Just Raised $100 Million In Funding",
-      "excerpt": "The robotics arm of Xpeng has completed a round of Series A capital funding valued at over $100 million. The investment from a consortium of investors represents the largest single-tranche fundraising effort in China’s robotics sector in the past two years and will enable Xpeng Robotics to strengthen its full-stack R&D investment in robotic hardware and software,",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-100-million-in-funding/",
-      "originalUrl": "https://www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-100-million-in-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2022/07/Xpeng-2-1024x555.jpg",
-          "width": 1024,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-100-million-in-funding/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-100-million-in-funding/amp/",
-      "publishedDateTime": "2022-07-13T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-ai-startup-speeds-healthcare-innovations-to-save-lives.md",
-      "title": "AI Startup Speeds Healthcare Innovations To Save Lives",
-      "excerpt": "Faster synthesis and analysis of healthcare data get medical innovations to market faster. By harnessing AI, big data, machine learning, and predictive analytics, this startup is doing just that for medical device and pharmaceutical companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/geristengel/2022/07/13/ai-startup-speeds-healthcare-innovations-to-save-lives/",
-      "originalUrl": "https://www.forbes.com/sites/geristengel/2022/07/13/ai-startup-speeds-healthcare-innovations-to-save-lives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62ce6ad6d773bc79031cb76c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/geristengel/2022/07/13/ai-startup-speeds-healthcare-innovations-to-save-lives/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/geristengel/2022/07/13/ai-startup-speeds-healthcare-innovations-to-save-lives/amp/",
-      "publishedDateTime": "2022-07-13T03:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-intel-rolls-out-open-source-ai-reference-kits-for-enterprises.md",
-      "title": "Intel rolls out Open Source AI Reference Kits for enterprises",
-      "excerpt": "Included in these reference kits are AI model code, end-to-end machine learning pipeline instructions, libraries, plus Intel oneAPI components for cross-architecture performance. Built-in collaboration with Accenture,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368528/intel-rolls-out-open-source-ai-reference-kits-for",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368528/intel-rolls-out-open-source-ai-reference-kits-for",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1596706780/itpro/2020/08/Shutterstock_artificial_intelligence.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-13T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

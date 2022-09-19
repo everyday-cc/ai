@@ -2,6 +2,240 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-09-05-researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour.md",
+      "title": "Researchers discover how artificial intelligence can be trained to detect tumour",
+      "excerpt": "\"Thanks to the interdisciplinary structures at PRODI, we have the best prerequisites for incorporating the hypothesis-based approach into the developm..",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/business-analytics/researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour/93993860",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/business-analytics/researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour/93993860",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-93993860,imgsize-25480,width-1200,height-628,overlay-etcio/researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/business-analytics/researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour/93993860",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/business-analytics/researchers-discover-how-artificial-intelligence-can-be-trained-to-detect-tumour/93993860",
+      "publishedDateTime": "2022-09-04T20:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-09-05-its-time-to-embrace-the-tech-that-could-confront-the-crisis-in-aging.md",
+      "title": "It’s time to embrace the tech that could confront the crisis in aging",
+      "excerpt": "For the elderly, AI can enable independence and mobility, reduce need for caregivers, and detect important changes in health and activity.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/its-time-to-embrace-the-tech-that-could-confront-the-crisis-in-aging/",
+      "originalUrl": "https://venturebeat.com/ai/its-time-to-embrace-the-tech-that-could-confront-the-crisis-in-aging/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1251551899-e1661531292108.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/its-time-to-embrace-the-tech-that-could-confront-the-crisis-in-aging/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/its-time-to-embrace-the-tech-that-could-confront-the-crisis-in-aging/amp/",
+      "publishedDateTime": "2022-09-04T20:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-05-amazon-promo-codes-september-2022.md",
+      "title": "Amazon Promo Codes September 2022",
+      "excerpt": "Receive a $100 statement credit after you spend $3,000 on your Amazon Business Card within the first 3 months of opening your account. Don't miss out on this Prime Student special and use this ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/coupons/amazon.com/",
+      "originalUrl": "https://www.forbes.com/coupons/amazon.com/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.forbes.com/coupons/vfiles/81499/merchant_image-merchant_open_graph.png/",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-04T18:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-05-is-big-brother-britain-about-to-become-the-worlds-ultimate-surveillance-state.md",
+      "title": "Is Big Brother Britain about to become the world's ultimate surveillance state?",
+      "excerpt": "Made by Dahua, a Chinese state-affiliated company, they are equipped with controversial facial recognition software — a means of monitoring and controlling populations much favoured by Beijing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/news/article-11179641/Is-Big-Brother-Britain-worlds-ultimate-surveillance-state.html",
+      "originalUrl": "https://www.dailymail.co.uk/news/article-11179641/Is-Big-Brother-Britain-worlds-ultimate-surveillance-state.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2022/09/05/00/62053565-0-image-a-21_1662334745315.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-11179641/amp/Is-Big-Brother-Britain-worlds-ultimate-surveillance-state.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-11179641/amp/Is-Big-Brother-Britain-worlds-ultimate-surveillance-state.html",
+      "publishedDateTime": "2022-09-04T17:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-05-how-can-emerging-technologies-boost-the-fintech-and-payments-ecosystem.md",
+      "title": "How Can Emerging Technologies Boost The Fintech And Payments Ecosystem?",
+      "excerpt": "FinTech has emerged as one of the biggest beneficiaries ... technologies like Artificial Intelligence (AI) and Machine Learning (ML) have become a household name. It was only a matter of time ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessworld.in/article/How-Can-Emerging-Technologies-Boost-The-Fintech-And-Payments-Ecosystem-/05-09-2022-445195/",
+      "originalUrl": "https://www.businessworld.in/article/How-Can-Emerging-Technologies-Boost-The-Fintech-And-Payments-Ecosystem-/05-09-2022-445195/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.businessworld.in/article/article_extra_large_image/1662370112_tIlbqV_tech_fintech.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Businessworld",
+        "domain": "businessworld.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-05-us-startup-simaai-starts-shipping-machine-learning-chip-and-system.md",
       "title": "US startup SiMa.ai starts shipping machine learning chip and system",
       "excerpt": "SiMa.ai/Handout via REUTERS Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management & Research Company, said on Tuesday it started shipping chips and systems to ...",
@@ -964,222 +1198,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-highland-park-shooting-survivor-cooper-showing-signs-of-cognitive-loss.md",
-      "title": "Highland Park shooting survivor Cooper showing signs of cognitive loss",
-      "excerpt": "Nearly two months after being paralyzed in the Fourth of July parade shooting in Highland Park, 8-year-old Cooper Roberts is showing signs of cognitive loss, according to the medical team at the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailyherald.com/news/20220901/highland-park-shooting-survivor-cooper-showing-signs-of-cognitive-loss",
-      "originalUrl": "https://www.dailyherald.com/news/20220901/highland-park-shooting-survivor-cooper-showing-signs-of-cognitive-loss",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailyherald.com/storyimage/DA/20220901/NEWS/220909941/AR/0/AR-220909941.jpg&updated=202209021130&imageversion=Facebook&exactH=630&exactW=1200&exactfit=crop&noborder",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T17:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-european-robotic-arm-testing-on-the-international-space-station.md",
-      "title": "European Robotic Arm Testing On The International Space Station",
-      "excerpt": "The European Robotic Arm (ERA) successfully completed the first transfer following commands from cosmonauts inside the Space Station last week. Teams in Moscow, Russia and at ESA’s control room ...",
-      "sourceUrl": null,
-      "webUrl": "https://spaceref.com/space-stations/european-robotic-arm-testing-on-the-international-space-station/",
-      "originalUrl": "https://spaceref.com/space-stations/european-robotic-arm-testing-on-the-international-space-station/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.spaceref.com/wp-content/uploads/2022/09/03202100/eva_arm-1.jpg",
-          "width": 2047,
-          "height": 1150,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SpaceRef",
-        "domain": "spaceref.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-the-failed-monorail-idea-that-would-have-seen-driverless-cabs-carrying-passengers-around-cardiff.md",
-      "title": "The failed monorail idea that would have seen driverless cabs carrying passengers around Cardiff",
-      "excerpt": "Could you imagine a public transport system where driverless cabs would be taken you and your friends and family around Cardiff? Well, back in 2002, the capital was looking to the future in a bid ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.walesonline.co.uk/lifestyle/nostalgia/failed-monorail-idea-would-seen-24902645?int_source=nba",
-      "originalUrl": "https://www.walesonline.co.uk/lifestyle/nostalgia/failed-monorail-idea-would-seen-24902645?int_source=nba",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.walesonline.co.uk/lifestyle/nostalgia/article24902529.ece/ALTERNATES/s1200/0_JS44547328.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.walesonline.co.uk/lifestyle/nostalgia/failed-monorail-idea-would-seen-24902645.amp",
-      "cdnAmpWebUrl": "https://www-walesonline-co-uk.cdn.ampproject.org/c/s/www.walesonline.co.uk/lifestyle/nostalgia/failed-monorail-idea-would-seen-24902645.amp",
-      "publishedDateTime": "2022-09-02T15:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wales Online",
-        "domain": "walesonline.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-monarch-tractor-debuting-electric-tractors-soon-nbspand-they-can-go-driverless.md",
-      "title": "Monarch Tractor debuting electric tractors soon —&nbsp;and they can go driverless",
-      "excerpt": "Editor's note: As part of the Bay Area Inno Awards, the San Francisco Business Times and Silicon Valley Business Journal are highlighting nine startups from nine categories across the innovation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/sanfrancisco/inno/stories/awards/2022/09/02/monarch-tractors-electric-tractors.html",
-      "originalUrl": "https://www.bizjournals.com/sanfrancisco/inno/stories/awards/2022/09/02/monarch-tractors-electric-tractors.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-self-driving-tech-firm-aurora-mulls-sale-to-apple-or-microsoft-bloomberg-news.md",
-      "title": "Self-driving tech firm Aurora mulls sale to Apple or Microsoft - Bloomberg News",
-      "excerpt": "Aurora Innovation Inc Chief Executive Chris Urmson recently outlined several options for the self-driving tech firm to combat challenging market conditions, including a possible sale to Apple Inc or Microsoft Corp ,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/self-driving-company-aurora-mulling-possible-sale-apple-or-microsoft-bloomberg-2022-09-02/",
-      "originalUrl": "https://www.reuters.com/technology/self-driving-company-aurora-mulling-possible-sale-apple-or-microsoft-bloomberg-2022-09-02/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/yxjAESGr5tcvKUPS6TJ_kG3SSN4=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XTDFE4XF4FPW7EBD4TNEHLL3CM.jpg",
-          "width": 728,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

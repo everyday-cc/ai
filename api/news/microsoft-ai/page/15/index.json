@@ -2,6 +2,59 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-05-24-microsoft-is-turning-to-popular-2-billion-data-science-startup-hugging-face-to-court-machine-learning-experts.md",
+      "title": "Microsoft is turning to popular $2 billion data science startup Hugging Face to court machine learning experts",
+      "excerpt": "An curved arrow pointing right. As the competition for capturing the machine learning industry heats up, Microsoft is turning to a popular $2 billion startup to get an edge over rivals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/microsoft-azure-hugging-face-integration-machine-learning-models-2022-5",
+      "originalUrl": "https://www.businessinsider.com/microsoft-azure-hugging-face-integration-machine-learning-models-2022-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6206cc39e2fe3c0019ea47aa?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-24-two-nhs-surgeons-are-using-azure-ai-to-spot-patients-facing-increased-risks-during-surgery.md",
       "title": "Two NHS surgeons are using Azure AI to spot patients facing increased risks during surgery",
       "excerpt": "An NHS trust is exploring how AI could help reduce waiting times, support recommendations from healthcare teams and help patients.",

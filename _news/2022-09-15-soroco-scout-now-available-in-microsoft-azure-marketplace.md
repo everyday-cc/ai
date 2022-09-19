@@ -49,20 +49,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Microsoft continues expanding Azure Space"
-    excerpt: "Microsoft is continuing to expand its role in the space sector on multiple fronts with a strategy built around partnerships."
-    publishedDateTime: 2022-09-14T15:13:00Z
-    webUrl: "https://spacenews.com/microsoft-azure-wsbw-2022/"
-    type: article
-    provider:
-      name: SpaceNews
-      domain: spacenews.com
-    quality: 54
-    images:
-      - url: "https://spacenews.com/wp-content/uploads/2022/09/rsz_img_0295_1.jpg"
-        width: 879
-        height: 659
-        isCached: true
   - title: "Soroco Scoutâ„¢ Now Available in Microsoft Azure Marketplace"
     excerpt: "With Soroco Scout TM, enterprises can unlock complex and unstructured enterprise datasets, a powerful source for driving digital transformation with multiple levers. With Scout now available in Azure Marketplace,"
     publishedDateTime: 2022-09-15T05:39:00Z
@@ -72,15 +58,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 49
-  - title: "Appfire Expands into the Microsoft Ecosystem with Acquisition"
-    excerpt: "\"This acquisition represents a continued investment in our customers and an opportunity to disrupt the legacy time management market,\" comments 7pace Founder and CEO Marc Schaeffler. \"We have searched for a partner that aligns with our values,"
-    publishedDateTime: 2022-09-14T15:21:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-appfire-expands-into-microsoft-ecosystem-with-acquisition-top-/2022/09/14/9673707.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "qlrsnSi6fNkjgAPINcHk9gNpIuA7jCa+piVwanGiuUfa33+bTQf1gXijNT2iTXLdURoakJt23+pdLQ0nmYyQ6uGd6myjlemDvZRYxn47D3DfGJgPIWgSP5rGByUcA+/uTSWMSwpWxPy9Ry6BbsuIFlaEK37Jon96n6npAIy+1d5xt9zaJ2ovCFAOsQBlpNCLMnO73t9N3kUM3V9n81YiaFSLW3glvHbtUJzzQOQKBQNfgkwloMqCamZKFTJlmciEKoQREebAydDwIEF4YX0MXdGWAVYX8fGe2OgJrDMv0FM119b9bSUGon4AUbmJ96C3O4qoVDBnDqTEM8Azd4d2qDqJkGH0p765OaS4ZPOUt50=;mncoSyL/wKu09tA+mBYNFA=="
 ---

@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-28-sanford-health-partners-to-overcome-data-bottleneck-hindering-medical-ai-tools.md",
+      "title": "Sanford Health partners to overcome data ‘bottleneck’ hindering medical AI tools",
+      "excerpt": "SIOUX FALLS, S.D. — The power of computer-driven artificial intelligence has offered ... along with San Diego-based Sharp HealthCare. Sanford is the country’ largest rural health system ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.inforum.com/newsmd/sanford-joins-partnership-to-overcome-data-bottleneck-hindering-medical-artificial-intelligence-tools",
+      "originalUrl": "https://www.inforum.com/newsmd/sanford-joins-partnership-to-overcome-data-bottleneck-hindering-medical-artificial-intelligence-tools",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.forumcomm.com/dims4/default/7e71c66/2147483647/strip/true/crop/1024x498+0+92/resize/1440x700!/quality/90/?url=https%3A%2F%2Ffcc-cue-exports-brightspot.s3.us-west-2.amazonaws.com%2Fbemidjipioneer%2Fbinary%2Fcopy%2Fce%2F7b%2F67de281c9ab8527ce2e3bf2174b0%2F1542445-sanford-binary-879715.JPG",
+          "width": 1440,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-27T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inforum",
+        "domain": "inforum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-27-sanford-health-partners-to-overcome-data-bottleneck-hindering-medical-ai-tools.md",
       "title": "Sanford Health partners to overcome data ‘bottleneck’ hindering medical AI tools",
       "excerpt": "SIOUX FALLS, S.D. — The power of computer-driven artificial intelligence has offered ... along with San Diego-based Sharp HealthCare. Sanford is the country’ largest rural health system ...",
@@ -1367,49 +1411,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-how-companies-can-achieve-success-with-artificial-intelligence-in-hiring.md",
-      "title": "How Companies Can Achieve Success with Artificial Intelligence in Hiring",
-      "excerpt": "As businesses adopt Artificial Intelligence in recruiting at an increasing rate, it's critical that they know how to leverage",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/featured/how-companies-can-achieve-success-with-artificial-intelligence-in-hiring/",
-      "originalUrl": "https://enterprisetalk.com/featured/how-companies-can-achieve-success-with-artificial-intelligence-in-hiring/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/08/How-Companies-Can-Achieve-Success-with-Artificial-Intelligence-in-Hiring.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/featured/how-companies-can-achieve-success-with-artificial-intelligence-in-hiring/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/how-companies-can-achieve-success-with-artificial-intelligence-in-hiring/amp/",
-      "publishedDateTime": "2022-08-16T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

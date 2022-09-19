@@ -2,6 +2,40 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-06-07-deepsig-named-to-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-for-2022.md",
+      "title": "DeepSig Named to CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups for 2022",
+      "excerpt": "DeepSig, a leader in artificial intelligence (AI) and machine-learning (ML) innovation in wireless communications, today announced that it has ranked on CB Insights annual AI 100 list. The AI 100 ranking recognizes the 100 most promising private artificial intelligence companies in the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-deepsig-named-cb-insights-ai-100-list-most-/2022/06/06/9615837.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-deepsig-named-cb-insights-ai-100-list-most-/2022/06/06/9615837.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T13:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-06-thermo-fisher-scientific-showcases-solutions-for-accelerating-next-generation-vaccine-and-therapy-research.md",
       "title": "Thermo Fisher Scientific Showcases Solutions for Accelerating Next Generation Vaccine and Therapy Research",
       "excerpt": "Thermo Fisher Scientific Inc. is showcasing new instruments, workflows, software and industry collaborations that enable customers to generate new analytical insights and accelerate next generation vaccine and therapy development.",
@@ -1241,49 +1275,6 @@
       "provider": {
         "name": "Portfolio",
         "domain": "portfolio.hu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-reply-automation-and-artificial-intelligence-are-the-strategic-keys-for-an-effective-defense-against-growing-threats-in-the-digital-world.md",
-      "title": "Reply: Automation and Artificial Intelligence Are the Strategic Keys for an Effective Defense Against Growing Threats in the Digital World",
-      "excerpt": "Smart Homes, Connected Cars, Delivery Robots: this evolution will not stop and so, in tandem, it will be necessary to develop automated and AI-based solutions to combat the growing number of security threats.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-politics-data-privacy-artificial-intelligence-96cf59f99ee348e386831b699eb560aa",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-politics-data-privacy-artificial-intelligence-96cf59f99ee348e386831b699eb560aa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-30T02:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

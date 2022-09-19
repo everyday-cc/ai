@@ -2,6 +2,144 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-19-this-startup-is-using-ai-to-turn-video-security-on-its-head.md",
+      "title": "This Startup Is Using AI to Turn Video Security On Its Head",
+      "excerpt": "Ambient.ai applied artificial intelligence and computer-vision intelligence to rethink security cameras. But market saturation was an even bigger challenge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.inc.com/christine-lagorio-chafkin/security-artificial-intelligence-ambient.html",
+      "originalUrl": "https://www.inc.com/christine-lagorio-chafkin/security-artificial-intelligence-ambient.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/Shikhar-Shrestha_513419_jggx7k.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inc",
+        "domain": "inc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-09-19-xiaomi-face-recognition-smart-door-lock-with-3d-structured-light-tech-launched.md",
+      "title": "Xiaomi Face Recognition Smart Door Lock with 3D structured light tech launched",
+      "excerpt": "Xiaomi’s latest smart door lock features 3D structured light facial recognition. The Xiaomi Face Recognition Smart Door Lock, as it is called, is an iteration of the 2021 Xiaomi Smart Door Lock X. Pre-sale of the new smart door lock opens on September 20,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2022/09/19/xiaomi-face-recognition-smart-door-lock-3d-structured-light-tech-launched/",
+      "originalUrl": "https://www.gizmochina.com/2022/09/19/xiaomi-face-recognition-smart-door-lock-3d-structured-light-tech-launched/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2022/09/xiaomi-2.png",
+          "width": 525,
+          "height": 618,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2022/09/19/xiaomi-face-recognition-smart-door-lock-3d-structured-light-tech-launched/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/09/19/xiaomi-face-recognition-smart-door-lock-3d-structured-light-tech-launched/?amp=1",
+      "publishedDateTime": "2022-09-19T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-19-muxi-to-give-china-its-first-fully-dedicated-gaming-gpu-in-2025-check-details.md",
+      "title": "Muxi To Give China Its First Fully-Dedicated Gaming GPU In 2025; Check Details",
+      "excerpt": "Muxi’s 7nm chipset, billed as the companys most powerful GPU to date, is primarily intended to meet the needs of high-end gaming PCs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizbot.com/news/muxi-to-give-china-its-first-fully-dedicated-gaming-gpu-in-2025-check-details-082672.html",
+      "originalUrl": "https://www.gizbot.com/news/muxi-to-give-china-its-first-fully-dedicated-gaming-gpu-in-2025-check-details-082672.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizbot.com/img/1200x60x675/img/2022/09/muxi-gpu-card-2025-1663574244.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizbot.com/amphtml/news/muxi-to-give-china-its-first-fully-dedicated-gaming-gpu-in-2025-check-details-082672.html",
+      "cdnAmpWebUrl": "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/news/muxi-to-give-china-its-first-fully-dedicated-gaming-gpu-in-2025-check-details-082672.html",
+      "publishedDateTime": "2022-09-19T00:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GIZBOT",
+        "domain": "gizbot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-19-vihaanai-is-our-plan-to-make-air-india-a-world-class-airline-wilson.md",
       "title": "Vihaan.AI is our plan to make Air India a world class airline: Wilson",
       "excerpt": "Air India has unveiled its comprehensive transformation plan, to establish itself, as a world-class global airline.",
@@ -96,7 +234,7 @@
       "originalUrl": "https://www.computerweekly.com/feature/Putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -129,7 +267,9 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "Microsoft AI",
+        "AI in Finance"
       ]
     },
     {
@@ -833,7 +973,7 @@
       "originalUrl": "https://www.forbes.com/sites/qai/2022/09/16/how-to-use-ai-to-maximize-your-inflation-relief-payments/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1070,136 +1210,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-can-ai-powered-robots-laugh-for-human-jokes.md",
-      "title": "Can AI-Powered Robots Laugh for Human Jokes?",
-      "excerpt": "Artificial intelligence-powered robot Erica is now trained to laugh for human jokes. Since at least the time of inquiring minds like Plato, philosophers and scientists have puzzled over the question,",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/can-ai-powered-robots-laugh-for-human-jokes-208618-1.htm",
-      "originalUrl": "https://www.medindia.net/news/can-ai-powered-robots-laugh-for-human-jokes-208618-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/smile1.jpg.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/can-ai-powered-robots-laugh-for-human-jokes-208618-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-ai-powered-robots-laugh-for-human-jokes-208618-1.htm",
-      "publishedDateTime": "2022-09-16T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-the-mysterious-mathematics-of-ai-could-be-decoded-using-the-neural-network-method.md",
-      "title": "The Mysterious Mathematics of AI Could be Decoded Using the Neural Network Method",
-      "excerpt": "Artificial Intelligence relies on Neural Networks making it think or process information like a human. There is both input and output but it mostly remains unknown what transpires in the processing unit of the Neural Networks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techthirsty.com/the-mysterious-mathematics-of-ai-could-be-decoded-using-the-neural-network-method/",
-      "originalUrl": "https://www.techthirsty.com/the-mysterious-mathematics-of-ai-could-be-decoded-using-the-neural-network-method/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techthirsty.com/wp-content/uploads/2022/09/Mysterious-Mathematics-of-AI-2.jpg",
-          "width": 1300,
-          "height": 859,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-16T02:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tech Thirsty",
-        "domain": "techthirsty.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-how-fintech-startups-are-using-ai-to-empower-msmes.md",
-      "title": "How fintech startups are using AI to empower MSMEs?",
-      "excerpt": "The MSME sector, better known as ‘the engine of growth’ has been contributing immensely to the economic progress of the country. Providing employment opportunities to over 100 million people, many Fintech startups have also",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-fintech-startups-are-using-ai-to-empower-msmes/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-fintech-startups-are-using-ai-to-empower-msmes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/09/Oumesh-Sauba.jpg",
-          "width": 480,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-fintech-startups-are-using-ai-to-empower-msmes/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-fintech-startups-are-using-ai-to-empower-msmes/",
-      "publishedDateTime": "2022-09-16T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

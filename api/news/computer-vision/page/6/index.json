@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-07-15-black-americans-more-worried-by-police-use-of-facial-recognition-than-white-hispanic-americans-poll-finds.md",
+      "title": "Black Americans More Worried By Police Use Of Facial Recognition Than White, Hispanic Americans, Poll Finds",
+      "excerpt": "Only 22% of Black Americans say the use of facial recognition technology would lead to safer policing, significantly lower than the 36% of whites and 40% of Hispanics who believe so, according to a new Pew Research Center study,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/phoebeliu/2022/07/14/black-americans-more-worried-by-police-use-of-facial-recognition-than-white-hispanic-americans-poll-finds/",
+      "originalUrl": "https://www.forbes.com/sites/phoebeliu/2022/07/14/black-americans-more-worried-by-police-use-of-facial-recognition-than-white-hispanic-americans-poll-finds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62d073374c8eda79ee9139ef/0x0.jpg?format=jpg&crop=796,448,x0,y0,safe&width=1200",
+          "width": 796,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/phoebeliu/2022/07/14/black-americans-more-worried-by-police-use-of-facial-recognition-than-white-hispanic-americans-poll-finds/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/phoebeliu/2022/07/14/black-americans-more-worried-by-police-use-of-facial-recognition-than-white-hispanic-americans-poll-finds/amp/",
+      "publishedDateTime": "2022-07-14T12:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-14-global-computer-vision-system-market-2022-future-trends-swot-analysis-remarkable-growth-and-competitive-landscape-by-2028.md",
       "title": "Global Computer Vision System Market 2022 - Future Trends, SWOT Analysis, Remarkable Growth, and Competitive Landscape by 2028",
       "excerpt": "Jul 13, 2022 (CDN Newswire via Comtex) -- Global Computer Vision System Market 2022 by Company, Regions, Type and Application, Forecast to 2028 is anupcoming study declared by MarketsandResearch.biz.",
@@ -1311,58 +1363,6 @@
         "name": "RealClearScience",
         "domain": "realclearscience.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-02-record-breaking-registrants-and-technical-papers-for-2022-ieeecvf-conference-on-computer-vision-and-pattern-recognition-cvpr.md",
-      "title": "Record-Breaking Registrants and Technical Papers for 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
-      "excerpt": "Advancing the Frontiers of Computer Vision Research, Technologies, and Solutions LOS ALAMITOS, Calif., July 1, 2022 /PRNewswire/ -- 2022 IEEE/CVF Conference on Computer Vision and Pattern ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/record-breaking-registrants-and-technical-papers-for-2022-ieee-cvf-conference-on-computer-vision-and-pattern-recognition-cvpr-1031564264",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/record-breaking-registrants-and-technical-papers-for-2022-ieee-cvf-conference-on-computer-vision-and-pattern-recognition-cvpr-1031564264",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1852465/CVPR_exhibits.jpg",
-          "width": 400,
-          "height": 233,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-01T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

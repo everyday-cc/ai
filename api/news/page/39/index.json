@@ -2,6 +2,249 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2022-08-16-ok-google-get-me-a-coke-ai-giant-demos-soda-fetching-robots.md",
+      "title": "OK Google, get me a Coke: AI giant demos soda-fetching robots",
+      "excerpt": "The mechanical waiters, shown in action to reporters last week, embody an artificial intelligence breakthrough that paves the way for multipurpose robots as easy to control as ones that perform single,",
+      "sourceUrl": null,
+      "webUrl": "https://gazette.com/news/us-world/ok-google-get-me-a-coke-ai-giant-demos-soda-fetching-robots/article_dcb7f9d3-2c9b-542f-a3d2-7bfbbb7984a2.html",
+      "originalUrl": "https://gazette.com/news/us-world/ok-google-get-me-a-coke-ai-giant-demos-soda-fetching-robots/article_dcb7f9d3-2c9b-542f-a3d2-7bfbbb7984a2.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Gazette",
+        "domain": "gazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-16-ai-language-skills-coax-google-robots-into-the-real-world.md",
+      "title": "AI Language Skills Coax Google Robots Into the Real World",
+      "excerpt": "Teaching robots to process language helps them navigate the complexities of a kitchen, not just a carefully controlled lab.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/computing/ai-language-skills-coax-google-robots-into-the-real-world/",
+      "originalUrl": "https://www.cnet.com/tech/computing/ai-language-skills-coax-google-robots-into-the-real-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/fa16c58da5f935f2df3f3e9280845f5ec8f15b77/2022/08/16/2c7e4708-4dcc-4ecb-904e-5de08919629b/20220811-google-palm-saycan-robot-01.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-language-skills-coax-google-robots-into-the-real-world/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-language-skills-coax-google-robots-into-the-real-world/",
+      "publishedDateTime": "2022-08-16T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-08-16-googles-new-robot-learned-to-take-orders-by-scraping-the-web.md",
+      "title": "Google’s New Robot Learned to Take Orders by Scraping the Web",
+      "excerpt": "The robot’s library of physical actions was learned through a separate training process in which humans remotely controlled the robot to demonstrate how to do things like pick up objects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/google-robot-learned-to-take-orders-by-scraping-the-web/",
+      "originalUrl": "https://www.wired.com/story/google-robot-learned-to-take-orders-by-scraping-the-web/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/62fae4897e7512dc132d18dd/master/pass/PaLM-SayCan-Robot-Still-Business.jpg",
+          "width": 1481,
+          "height": 987,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/google-robot-learned-to-take-orders-by-scraping-the-web/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-robot-learned-to-take-orders-by-scraping-the-web/amp",
+      "publishedDateTime": "2022-08-16T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-08-16-making-robots-more-helpful-with-language.md",
+      "title": "Making robots more helpful with language",
+      "excerpt": "Even the simplest human tasks are unbelievably complex. The way we perceive and interact with the world requires a lifetime of accumulated experience and context. For example, if a person tells you, “I am running out of time,” you don’t immediately worry they are jogging on a street where the space-time",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/making-robots-more-helpful-with-language/",
+      "originalUrl": "https://blog.google/technology/ai/making-robots-more-helpful-with-language/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Video_Thumbnail_DJA2TWg.max-1300x1300.png",
+          "width": 1300,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-16-who-owns-dall-e-images-legal-ai-experts-weigh-in.md",
+      "title": "Who owns DALL-E images? Legal AI experts weigh in",
+      "excerpt": "When OpenAI announced expanded beta access to DALL-E in July, the company offered paid subscription users full usage rights to reprint, sell and merchandise the images they create with the powerful text-to-image generator.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/who-owns-dall-e-images-legal-ai-experts-weigh-in/",
+      "originalUrl": "https://venturebeat.com/ai/who-owns-dall-e-images-legal-ai-experts-weigh-in/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/catastro.jpeg?w=1200&strip=all",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/who-owns-dall-e-images-legal-ai-experts-weigh-in/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/who-owns-dall-e-images-legal-ai-experts-weigh-in/amp/",
+      "publishedDateTime": "2022-08-16T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-16-aws-organizes-gameday-a-world-championship-for-developers.md",
       "title": "AWS organizes GameDay, a world championship for developers",
       "excerpt": "The AWS GameDay is just around the corner. The world championship provides an opportunity for any professional that works with AWS services. Participants",
@@ -895,239 +1138,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again.md",
-      "title": "Delhi Police’s facial recognition tech at 80% accuracy, stokes privacy concerns again!",
-      "excerpt": "The accuracy rates of facial-recognition software can go as high as 99.97% in ideal conditions. In 2019, Delhi Police had reported accuracy levels of 2%. While 80% may seem like a drastic improvement,",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/articleshow/93587861.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/articleshow/93587861.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-211252,msid-93588009/delhi-police-personnel.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/amp_articleshow/93587861.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/amp_articleshow/93587861.cms",
-      "publishedDateTime": "2022-08-16T01:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-brainchip-and-prophesee-optimize-computer-vision-ai-performance.md",
-      "title": "BrainChip and Prophesee Optimize Computer Vision AI Performance",
-      "excerpt": "The partnership combines Prophesee’s computer vision technology with BrainChip’s neuromorphic processor Akida to deliver a complete high-performance and ultra-low-power solution. Nature of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-auto.com/uncategorized/brainchip-and-prophesee-optimize-computer-vision-ai-performance/",
-      "originalUrl": "https://www.just-auto.com/uncategorized/brainchip-and-prophesee-optimize-computer-vision-ai-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2022/08/shutterstock_796709485-1.jpg",
-          "width": 500,
-          "height": 247,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-16T00:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Just Auto",
-        "domain": "just-auto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-heres-how-observeai-is-building-an-intelligent-workforce-platform-with-aws.md",
-      "title": "Here’s how Observe.ai is building an intelligent workforce platform with AWS",
-      "excerpt": "Their platform is built on AWS, and they leverage a lot of capabilities from them, including AWS Lambda, AWS Fargate, as well as Amazon SageMaker. “We offer the above capabilities built on the ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2022/08/observeai-aws-building-intelligent-workforce-platform/amp",
-      "originalUrl": "https://yourstory.com/2022/08/observeai-aws-building-intelligent-workforce-platform/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/21ccd920843c11ec88170b5512a0f9d5/Imager6c5-1660729189734.jpg ",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2022/08/observeai-aws-building-intelligent-workforce-platform/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/08/observeai-aws-building-intelligent-workforce-platform/amp",
-      "publishedDateTime": "2022-08-15T23:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YourStory",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-facial-recognition-on-smartphones-is-it-secure-and-should-you-use-it.md",
-      "title": "Facial recognition on smartphones: Is it secure and should you use it?",
-      "excerpt": "Facial recognition on personal use devices like smartphones and laptops has become increasingly common. The concept seems downright futuristic on the surface — most of us used a PIN, password ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/face-unlock-smartphones-3043993/",
-      "originalUrl": "https://www.androidauthority.com/face-unlock-smartphones-3043993/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2018/10/huawei-mate-20-pro-review-aa-notch-3d-face-unlock-earpiece-11.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-google-makes-robots-smarter-by-teaching-them-about-their-limitations.md",
-      "title": "Google makes robots smarter by teaching them about their limitations",
-      "excerpt": "Teaching robots what to do for repetitive tasks in controlled spaces where humans aren’t allowed isn’t easy, but it’s more or less a solved problem. Rivian’s recent factory tour was a ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/16/google-robotics/",
-      "originalUrl": "https://techcrunch.com/2022/08/16/google-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/DSC08850.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/16/google-robotics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/16/google-robotics/amp/",
-      "publishedDateTime": "2022-08-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

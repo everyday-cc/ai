@@ -2,6 +2,230 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2022-07-27-global-artificial-intelligence-computing-software-market-report-2022-a-376-billion-market-in-2026.md",
+      "title": "Global Artificial Intelligence Computing Software Market Report 2022: A $37.6 Billion Market in 2026",
+      "excerpt": "Global Artificial Intelligence Computing Software Market Report 2022: A $37.6 Billion Market in 2026 Jul (PRNewswire via COMTEX) -- PR",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-computing-software-market-report-2022-a-376-billion-market-in-2026-2022-07-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-computing-software-market-report-2022-a-376-billion-market-in-2026-2022-07-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-26T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-learning-method-enables-robots-to-learn-by-watching-humans.md",
+      "title": "Learning Method Enables Robots to Learn by Watching Humans",
+      "excerpt": "A new learning method developed by researchers at Carnegie Mellon University (CMU) enables robots to directly learn from human-interaction videos and generalize the information to new tasks, which helps them learn how to carry out household chores.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/learning-method-enables-robots-to-learn-by-watching-humans/",
+      "originalUrl": "https://www.unite.ai/learning-method-enables-robots-to-learn-by-watching-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:900/h:543/q:mauto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/07/whirl-web.jpg",
+          "width": 900,
+          "height": 543,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-26T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-global-artificial-intelligence-in-accounting-market-emerging-growth-analysis-future-demand-and-business-opportunities-2028.md",
+      "title": "Global Artificial Intelligence in Accounting Market Emerging Growth Analysis, Future Demand and Business Opportunities 2028",
+      "excerpt": "As the global economy mends, the 2021 growth of Metaverse in Healthcare will have significant change from previous year. According to our (LP Information) latest study, the global Metaverse in Healthcare market size is USD million in 2022 from USD million in 2021,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-accounting-market-emerging-growth-analysis-future-demand-and-business-opportunities-2028-2022-07-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-accounting-market-emerging-growth-analysis-future-demand-and-business-opportunities-2028-2022-07-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-26T11:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-ibm-uses-power10-cpu-as-an-io-switch.md",
+      "title": "IBM Uses Power10 CPU As An I/O Switch",
+      "excerpt": "Back in early July, we covered the launch of IBM’s entry and midrange Power10 systems and mused ... customers who run transaction processing systems and are looking to add AI inference to their applications through matrix math units on the Power10 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2022/07/26/ibm-uses-power10-cpu-as-an-i-o-switch/",
+      "originalUrl": "https://www.nextplatform.com/2022/07/26/ibm-uses-power10-cpu-as-an-i-o-switch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/ibm-power10-die-shot.jpg",
+          "width": 1493,
+          "height": 1460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2022/07/26/ibm-uses-power10-cpu-as-an-i-o-switch/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/07/26/ibm-uses-power10-cpu-as-an-i-o-switch/amp/",
+      "publishedDateTime": "2022-07-26T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-26-kanverse-iolite-release-brings-new-cutting-edge-features-to-its-existing-ap-invoice-automation-and-insurance-document-processing-products.md",
+      "title": "Kanverse Iolite Release Brings New Cutting-edge Features to Its Existing AP Invoice Automation and Insurance Document Processing Products",
+      "excerpt": "The entire process is powered by Computer vision, Natural Language Processing (NLP), Fuzzy Logic, and advanced Machine Learning (ML) algorithms to make business processes more efficient, optimize cost, eliminate human error, and mitigate risk. Karan ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-1d1231ed88464d0b8622a0a8b90a0e44",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-1d1231ed88464d0b8622a0a8b90a0e44",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-26T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-26-how-to-build-ai-data-engines-that-use-the-right-data-at-the-right-time.md",
       "title": "How to build AI data engines that use the right data at the right time",
       "excerpt": "Data is then fed into neural networks, the intention being that ... when it comes to iteration cycles for developing artificial intelligence (AI) systems. Across 90% of enterprises, it can take ...",
@@ -903,231 +1127,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-machine-learning-artificial-intelligence-market-size-from-2022-to-2028.md",
-      "title": "Machine Learning Artificial intelligence Market Size from 2022 to 2028",
-      "excerpt": "The \" Machine Learning Artificial intelligence Market research report \" profile investigates the company's business structure, operations, important products and services, prospects, locations and subsidiaries,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-artificial-intelligence-market-size-from-2022-to-2028-2022-07-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-artificial-intelligence-market-size-from-2022-to-2028-2022-07-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-25T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-google-fires-engineer-blake-lemoine-who-says-ai-technology-became-sentient.md",
-      "title": "Google fires engineer Blake Lemoine, who says AI technology became sentient",
-      "excerpt": "'What sort of things are you afraid of?' he asked the technology, in a Google Doc shared with Google's top executives. MOUNTAIN VIEW, Calif. -- Google has fired the engineer who claimed an ...",
-      "sourceUrl": null,
-      "webUrl": "https://6abc.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/",
-      "originalUrl": "https://6abc.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://6abc.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/",
-      "cdnAmpWebUrl": "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/",
-      "publishedDateTime": "2022-07-25T22:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "6abc News",
-        "domain": "6abc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-beeline-loans-launches-ai-powered-investor-loan-application.md",
-      "title": "Beeline Loans launches AI-powered investor loan application",
-      "excerpt": "PROVIDENCE – Digital mortgage lender Beeline Loans Inc. recently debuted a new automated platform aimed at simplifying the home loan application process for investors, according to a news release. The mobile-first offering lets property investors apply online for a conventional or debt service coverage ratio loan and offers real-time options with automated underwriting conditions,",
-      "sourceUrl": null,
-      "webUrl": "https://pbn.com/beeline-loans-launches-ai-powered-investor-loan-application/",
-      "originalUrl": "https://pbn.com/beeline-loans-launches-ai-powered-investor-loan-application/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-pbn-com.s3.amazonaws.com/2022/04/HealthiestEmployers2022revised.jpg",
-          "width": 1308,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://pbn.com/beeline-loans-launches-ai-powered-investor-loan-application/?amp=1",
-      "cdnAmpWebUrl": "https://pbn-com.cdn.ampproject.org/c/s/pbn.com/beeline-loans-launches-ai-powered-investor-loan-application/?amp=1",
-      "publishedDateTime": "2022-07-25T22:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Providence Business News",
-        "domain": "pbn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament.md",
-      "title": "AI with a vengeance: Chess-playing robot breaks 7-year-old's finger at Moscow tournament",
-      "excerpt": "MOSCOW: A chess-playing robot grabbed the finger of its 7-year-old opponent and broke it during last week's Moscow Chess Open tournament, Russian media reported Monday. \"The robot broke the child's finger,",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/articleshow/93126300.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/articleshow/93126300.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-30928,msid-93126309/chess-playing-robot-breaks-opponent-boys-finger-at-moscow-open-.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/amp_articleshow/93126300.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/amp_articleshow/93126300.cms",
-      "publishedDateTime": "2022-07-25T21:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-documents-reveal-advanced-ai-tools-google-is-selling-to-israel-the-intercept.md",
-      "title": "Documents Reveal Advanced AI Tools Google Is Selling to ‘Israel’ – The Intercept",
-      "excerpt": "Training materials reviewed by The Intercept confirm that Google is offering advanced artificial intelligence and machine-learning capabilities to the ‘Israeli’ government through its controversial “Project Nimbus” contract.",
-      "sourceUrl": null,
-      "webUrl": "https://en.abna24.com/story/1277017",
-      "originalUrl": "https://en.abna24.com/story/1277017",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.abna24.ir/image/jpeg/2022/July/26/bfb318e7-fd3c-490f-809f-ef00ade1e4d1.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-25T21:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AhlulBayt News Agency",
-        "domain": "abna24.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

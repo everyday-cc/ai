@@ -37,15 +37,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Now, you can write articles using artificial intelligence tool, like this"
-    excerpt: "The most compelling part of this article is that it has been entirely written by an Artificial Intelligence bot, OpenAI Playground, only by providing simple prompts. Though the author has edited the article,"
-    publishedDateTime: 2022-09-17T12:30:00Z
-    webUrl: "https://www.hindustantimes.com/technology/now-you-can-write-articles-using-artificial-intelligence-tool-like-this-101663244964673.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 16
 
 secured: "L4yuuIvI1kprf8kMyNHAtut4D9ZWC5zSu/WPU5aFXmCMaMZDJ2402USlk+y0yd4kZ8cR69dpmqFcxlO5lFJDw4CHFZArHRv7hNlGkYw9eZC0AWg4um8Ejo3QIos553bP0hEgDICP9IgBJJsrgTR8r8Wty+7XY3c0y69sE6Okp9+fFkAh+lHOAMkVsIHeQTFkpbDxfRY4bgxg5e3/r8jdP2tk5qt9MHJTfVBTtqN/pL2VCysHKUyjR9oQ4Fwk7gKJ+TNaNrQFS2QGbOlFYrrgFXOECdoAz2phZ5o3N36MKMUzgLCTWdjRmF+T0dQ6/8JQ8QBmFcOjbUFR+JJuAV11vLT/uyJyQFzZxuL+N4111RGcJNr1YsNAlgBnWuOggrmvV5mkP6gh04FZquZwTQcrDK5oh4sog2Xx4neirruPBK6pLxun/4w4XPz/g+0GPFSN3XRXyG1rVDM81YTb0fsAg7LDjwAYqquO1EQZvX+cUcY/PHAUZMY2vxbenPKKjgVoVfkks5eD+LI2/S/dw8kfeg==;QbGeiRiVzaATuTkWkBijNw=="
 ---

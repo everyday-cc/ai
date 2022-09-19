@@ -2,6 +2,102 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-06-21-palantir-is-a-buy-as-demand-for-ai-platforms-grows-bank-of-america-says.md",
+      "title": "Palantir is a buy as demand for AI platforms grows, Bank of America says",
+      "excerpt": "\"We see Palantir as a beneficiary of rapidly growing demand for AI-platforms in both commercial and government end-markets. Palantir's dominant position in the AI-powered software market, differentiated end-to-end & highly-secure solutions and first mover ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/06/21/palantir-is-a-buy-as-demand-for-ai-platforms-grows-bank-of-america-says.html",
+      "originalUrl": "https://www.cnbc.com/2022/06/21/palantir-is-a-buy-as-demand-for-ai-platforms-grows-bank-of-america-says.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106805361-1606944602892-gettyimages-1228810171-PALANTIR_NYSE.jpeg?v=1636407117&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-the-role-of-machine-learning-and-artificial-intelligence-in-transforming-residential-real-estate-market.md",
+      "title": "The role of machine learning and artificial intelligence in transforming residential real estate market",
+      "excerpt": "One of the primary reasons for this change is the revolutionary use of machine learning and artificial intelligence in the real estate market. While their contributions may not be evident, changes are apparent when comparing the present-day residential ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/industry/the-role-of-machine-learning-and-artificial-intelligence-in-transforming-residential-real-estate-market/2567848/",
+      "originalUrl": "https://www.financialexpress.com/industry/the-role-of-machine-learning-and-artificial-intelligence-in-transforming-residential-real-estate-market/2567848/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/06/388134892.jpg",
+          "width": 1200,
+          "height": 706,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/industry/the-role-of-machine-learning-and-artificial-intelligence-in-transforming-residential-real-estate-market/2567848/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/the-role-of-machine-learning-and-artificial-intelligence-in-transforming-residential-real-estate-market/2567848/lite/",
+      "publishedDateTime": "2022-06-21T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-06-21-new-hybrid-machine-learning-forecasts-lake-ecosystem-responses-to-climate-change.md",
       "title": "New hybrid machine learning forecasts lake ecosystem responses to climate change",
       "excerpt": "EDM can help in this context as a form of supervised machine learning, a way for computers ... of ecosystems and they are also the reality of financial markets where prediction is so challenging ...",
@@ -1234,92 +1330,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-ai-fintech-tifin-announces-launch-of-magnifi-to-stream-investing-insights.md",
-      "title": "AI Fintech TIFIN Announces Launch of Magnifi+ to “Stream” Investing Insights",
-      "excerpt": "TIFIN, a Fintech platform using artificial intelligence and \"investment-driven\" personalization, announced the launch of their Magnifi+ platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/06/191889-ai-fintech-tifin-announces-launch-of-magnifi-to-stream-investing-insights/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/06/191889-ai-fintech-tifin-announces-launch-of-magnifi-to-stream-investing-insights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2022/04/Find-Search-Money-Seek-Look-Binoculars.jpeg",
-          "width": 1280,
-          "height": 994,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/06/191889-ai-fintech-tifin-announces-launch-of-magnifi-to-stream-investing-insights/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/191889-ai-fintech-tifin-announces-launch-of-magnifi-to-stream-investing-insights/amp/",
-      "publishedDateTime": "2022-06-04T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-mumbai-based-fintech-kiyaai-launches-indias-first-banking-metaverse-kiyaverse.md",
-      "title": "Mumbai-Based Fintech Kiya.ai Launches India’s First Banking Metaverse ‘Kiyaverse’",
-      "excerpt": "Kiya.ai has launched India’s first banking Metaverse, Kiyaverse, which will be used by banks and NBFCs to enable virtual interactions.",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget",
-      "originalUrl": "https://inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2022/06/Kiyaverse-social.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget&amp",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget&amp",
-      "publishedDateTime": "2022-06-04T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

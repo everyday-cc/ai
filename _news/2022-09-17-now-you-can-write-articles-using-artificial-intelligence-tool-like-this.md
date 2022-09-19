@@ -18,29 +18,43 @@ topics:
   - AI
 
 related:
-  - title: "Anyone can use this AI art generator — that’s the risk"
-    excerpt: "That’s the basic premise of AI text-to-image programs. Users type out descriptions of whatever they like — a cyborg Joe Biden wielding a samurai sword; a medieval tapestry of frogs jousting — and these systems,"
-    publishedDateTime: 2022-09-15T12:30:00Z
-    webUrl: "https://www.theverge.com/2022/9/15/23340673/ai-image-generation-stable-diffusion-explained-ethics-copyright-data"
+  - title: "This Startup Is Using AI to Turn Video Security On Its Head"
+    excerpt: "Ambient.ai applied artificial intelligence and computer-vision intelligence to rethink security cameras. But market saturation was an even bigger challenge."
+    publishedDateTime: 2022-09-19T09:02:00Z
+    webUrl: "https://www.inc.com/christine-lagorio-chafkin/security-artificial-intelligence-ambient.html"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 49
-  - title: "Artificial intelligence thinks the Aspen area looks like this"
-    excerpt: "Aspen is known for its world-class skiing, sky-high real-estate prices and breath-taking mountain views. The town has been known to conjure artistic inspiration, as well; it’s the town where Stevie Nicks reportedly wrote the"
-    publishedDateTime: 2022-09-17T04:25:00Z
-    webUrl: "https://www.aspentimes.com/news/artificial-intelligence-thinks-the-aspen-area-looks-like-this/"
-    type: article
-    provider:
-      name: The Aspen Times
-      domain: aspentimes.com
-    quality: 37
+      name: Inc
+      domain: inc.com
+    quality: 54
     images:
-      - url: "https://cdn.aspentimes.com/wp-content/uploads/sites/5/2022/09/4154379712_maroon_bells.png"
-        width: 512
-        height: 512
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/Shikhar-Shrestha_513419_jggx7k.jpg"
+        width: 1024
+        height: 576
         isCached: true
+  - title: "Why Artificial Intelligence is Must for Cybersecurity"
+    excerpt: "How can artificial intelligence protect us from devastating cyber attacks? Some cybersecurity companies are already taking advantage of AI for good. Cybersecurity is the practice of protecting electronic information by mitigating information risks and vulnerabilities."
+    publishedDateTime: 2022-09-14T23:29:00Z
+    webUrl: "https://www.hackread.com/why-artificial-intelligence-must-cybersecurity/"
+    type: article
+    provider:
+      name: hackread
+      domain: hackread.com
+    quality: 39
+    images:
+      - url: "https://www.hackread.com/wp-content/uploads/2022/09/why-artificial-intelligence-must-cybersecurity.jpg"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Using AI to streamline Army selection boards"
+    excerpt: "Army command selection boards in the future may depend on computer automated scoring of past evaluations. LTC Kirstin Saling, director of the innovation cell at the Army Human Resources Command (HRC),"
+    publishedDateTime: 2022-09-14T17:33:00Z
+    webUrl: "https://federalnewsnetwork.com/army/2022/09/using-ai-to-streamline-army-selection-boards/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 19
 
 secured: "0qAqk/uLjQpENvxWV9fpdFSfSgY4/bQdrknh5b3Bet+WyVosiUB5Xlddx0UYSD3/PEmCneKHoui1jSufivoSlHtu7HAutfySqkGdOuvocg6MMHoYLvhqwthQzG1yiJTsiCp0vz4GT9QBoAwp9UBKyoLIRFlHSSzaE95hvTWr+x9Ekgan/Llk6ho13c7TKqoQeVJZ3dbyRLexiugfZEYXCzUlW7bZ5+XYfAEh4EhLwwT10LY/j8IYmvQiwwtPqDW5UdNXZcq87yn/JTW+reE6gxe90t5D8aIfeWZdSbbPDQBWHTBoysEOsDme0EGNJ/jwx/3eU3w2GPjHPyiw5T07lkDXe4In+oblOAO+Q9EkriwtYMwTJ92ZzCQ4+leyBcgz6z8he0tOSwvSnTQcUhYh/IlyyQtBlriLC2KRJqYfRD+Y1qrRpBvuu/WhLYy508vOE+mlLkhqSub3xT/2b5VbNSe5cf0h1k+8xEIAKZ0CtePP2LeQVws2Nl7b2Wl0Vy61GiHOadVsX4XeHRQzVvAGaw==;yHri6qaQK2AMXr4mskCHdw=="
 ---

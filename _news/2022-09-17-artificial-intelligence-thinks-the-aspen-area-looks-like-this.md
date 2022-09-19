@@ -33,15 +33,6 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 49
-  - title: "Now, you can write articles using artificial intelligence tool, like this"
-    excerpt: "The most compelling part of this article is that it has been entirely written by an Artificial Intelligence bot, OpenAI Playground, only by providing simple prompts. Though the author has edited the article,"
-    publishedDateTime: 2022-09-17T12:30:00Z
-    webUrl: "https://www.hindustantimes.com/technology/now-you-can-write-articles-using-artificial-intelligence-tool-like-this-101663244964673.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 16
 
 secured: "DxR6i5rR8dhxVD4b9Wh0kuBoooPLL8J9MkQXA1Kpl35xTkAtdl9RzDBdMGVn01L/oMJfgotkgbUv8pKYN9SvEygp9qK/QlPCnGG0NJfJHiIZtkkw4RO+SAdt1fWbu4E5cbsudYL3vsL8w5XeHDKnLNC8/utxE4vvOUZdBPRsWTzVpyfB7KpKJKA4O/C+EoM0bScLDf07gbWE+CBZHOtNa1OU0Ue1JW01NF+qCoHABHg9qQWaf6lJxFylhga+gy48L8G/xfelKbNCo1Vb0ntoAkdt9+evSR2p1EjKNcKiIjU9m2lluGD5fmA7Cjs/RyeJ/mxzrl5lnykWOHc5LN8t+rncrZrZ0AFPBAGxFTNWFsPPgVNUhEQHwEXim6XCF26IuxRVgkvUQu0f9E/wYh4U/VdT11C0zAqAHxzduJBnMVwXg0+FfacLlvlqqa+HAmnE//7RVHmEVkb2njek5QcK9GTFbelMbS5KMnKIm+TIMKp47g1ha4N+tuQfDJCUoEIoQtkTjmMjvOj6RX4OhrYHeQ==;pl/N7RK0NNYUu+kBl06xBQ=="
 ---

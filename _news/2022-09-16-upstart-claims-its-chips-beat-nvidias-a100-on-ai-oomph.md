@@ -9,8 +9,8 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/09/15/sambanova_ai_chip_nvidia/
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/09/15/sambanova_ai_chip_nvidia/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: theregister
@@ -27,21 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA’s New H100 GPU Smashes Artificial Intelligence Benchmarking Records"
-    excerpt: "Goodson, dives in as the technical community has been looking forward to seeing how NVIDIA’s monster Hopper H100 Tensor Core GPU would perform ever since its March announcement at GTC2022."
-    publishedDateTime: 2022-09-14T15:08:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records/amp/"
+  - title: "Tech war: China chip veteran says Nvidia is hard to replace in artificial intelligence, urges start-ups to catch up"
+    excerpt: "Nvidia supplies 95 per cent of general-purpose GPUs in AI training systems, said Lu Jianping of Shanghai-based chip rival Iluvatar Corex."
+    publishedDateTime: 2022-09-14T23:59:00Z
+    webUrl: "https://www.scmp.com/tech/tech-trends/article/3192500/tech-war-china-chip-veteran-says-nvidia-hard-replace-artificial?module=live&pgtype=homepage"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: scmp.com
+      domain: scmp.com
+    quality: 62
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6321ed3e42854ded081b8dca/0x0.jpg?format=jpg&width=1200"
-        width: 624
-        height: 352
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/09/14/c9acacd4-5f23-45a7-97e6-4097ddc012b8_9aca877b.jpg?itok=EAUhe_OV&v=1663157643"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Tech war: China chip veteran says Nvidia is hard to replace in artificial intelligence, urges start-ups to catch up"
+    excerpt: "Nvidia has a near monopoly on graphics processing units (GPUs) used to train artificial intelligence (AI), a chip expert at the country’s leading rival to the Californian tech giant said on ..."
+    publishedDateTime: 2022-09-16T15:27:00Z
+    webUrl: "https://www.scmp.com/tech/tech-trends/article/3192500/tech-war-china-chip-veteran-says-nvidia-hard-replace-artificial"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 62
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/09/14/c9acacd4-5f23-45a7-97e6-4097ddc012b8_9aca877b.jpg?itok=EAUhe_OV&v=1663157643"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Q2H+g/2t/F5cefBJgbjZoNngkOGLoePJDOshoNeNwNmDWTpianS1cjSr6NDQgsrKvLbQ2LVLZhPB+KalNxRn71LVRQC0OFYgA6EP3IvyGu5AIiW/P6eTGaBN0RznnvP6yGgPObMmZKO83SHQSPLhuXZyP2K7XqyHxTR/cwvl/RTSdW1wzCw6lHgN+jLycLhXHQVGBlDJ/m1a37AxwR49Nw+WlnEqjcJ/ROXcGFRVEfgx+5hsDz6v5RrRNH14u+bgdFz6gVvzoJXkKxW6DNSWuGcW1xUVrB2v3Un+nFoGTwMEMqGVFMFzNchRiJp39e5dTUQbNvZCc3OuK0tAA1eXPKjo/1rZNo0a9ILTGVfbkvvKkljd6BpcXVlkUlz7NTHHGU6LSPIDwN46KumyFnadC6xc1kySTCtkummnTh19bywBZ6+yXdFeEfLvXRaTzlj4q39gvTzR0yHIiZUwyCUKvNws/XHdiHpJlTspQy8QifQ2iVG2R8IYRwYD2Rx1BQPaioaxFm47ccsLnJAz4TGH8Q==;bzQgQaG30sRP6bhQUMAggQ=="
