@@ -72,15 +72,6 @@ related:
       name: The Week
       domain: theweek.in
     quality: 49
-  - title: "Microsoft increases the options for satellite connectivity with Azure Space"
-    excerpt: "Microsoft has been working on expanding Azure’s presence in the space and satellite connection cloud industry for the past two years through its Azure Space effort. Microsoft executives will discuss the company’s plans to grow its satellite connection offerings on."
-    publishedDateTime: 2022-09-14T12:55:00Z
-    webUrl: "https://bestgamingpro.com/microsoft-increases-the-options-for-satellite-connectivity-with-azure-space/"
-    type: article
-    provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 32
   - title: "Appfire Expands into the Microsoft Ecosystem with Acquisition"
     excerpt: "\"This acquisition represents a continued investment in our customers and an opportunity to disrupt the legacy time management market,\" comments 7pace Founder and CEO Marc Schaeffler. \"We have searched for a partner that aligns with our values,"
     publishedDateTime: 2022-09-14T15:21:00Z

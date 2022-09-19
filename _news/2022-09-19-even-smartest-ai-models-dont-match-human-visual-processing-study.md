@@ -1,44 +1,32 @@
 ---
 category: news
-title: "Even smartest AI models don't match human visual processing"
-excerpt: "Deep convolutional neural networks (DCNNs) don't see objects the way humans do -- using configural shape perception -- and that could be dangerous in real-world AI applications. The study employed novel visual stimuli called 'Frankensteins' to explore how the human brain and DCNNs process holistic,"
-publishedDateTime: 2022-09-16T21:28:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/09/220916144635.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/09/220916144635.htm"
+title: "Even smartest AI models don't match human visual processing: Study"
+excerpt: "Deep convolutional neural networks (DCNNs) do not see objects the way humans do -- using configural shape perception -- and that could be dangerous in real-world"
+publishedDateTime: 2022-09-19T04:21:00Z
+originalUrl: "https://www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/articleshow/94293780.cms"
+webUrl: "https://www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/articleshow/94293780.cms"
+ampWebUrl: "https://www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/amp_articleshow/94293780.cms"
+cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/amp_articleshow/94293780.cms"
 type: article
-quality: 49
-heat: -1
-published: false
+quality: 59
+heat: 99
+published: true
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Insider India
+  domain: businessinsider.in
 
 topics:
-  - Computer Vision
+  - Machine Learning
   - AI
 
+images:
+  - url: "https://www.businessinsider.in/thumb/94294619.cms?height=275&width=412"
+    width: 412
+    height: 275
+    isCached: true
+
 related:
-  - title: "Even smartest AI models don't match human visual processing: Study"
-    excerpt: "Deep convolutional neural networks (DCNNs) do not see objects the way humans do -- using configural shape perception -- and that could be dangerous in real-world"
-    publishedDateTime: 2022-09-19T04:21:00Z
-    webUrl: "https://www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/articleshow/94293780.cms"
-    ampWebUrl: "https://www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/amp_articleshow/94293780.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/amp_articleshow/94293780.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 59
-    images:
-      - url: "https://www.businessinsider.in/thumb/94294619.cms?height=275&width=412"
-        width: 412
-        height: 275
-        isCached: true
   - title: "Deep AI models fail to capture the configural nature of human shape perception"
     excerpt: "Deep convolutional neural networks (DCNNs) don't see objects the way humans do – using configural shape perception – and that could be dangerous in real-world AI applications, says Professor James Elder,"
     publishedDateTime: 2022-09-19T03:44:00Z
@@ -55,6 +43,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Even smartest AI models don't match human visual processing"
+    excerpt: "Deep convolutional neural networks (DCNNs) don't see objects the way humans do -- using configural shape perception -- and that could be dangerous in real-world AI applications. The study employed novel visual stimuli called 'Frankensteins' to explore how the human brain and DCNNs process holistic,"
+    publishedDateTime: 2022-09-16T21:28:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/09/220916144635.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Even smartest AI models don’t match human visual processing: Study"
     excerpt: "Deep convolutional neural networks (DCNNs) do not see objects the way humans do — using configural shape perception — and that could be dangerous in real-world artificial intelligence (Al) applications,"
     publishedDateTime: 2022-09-18T15:20:00Z
@@ -79,6 +76,6 @@ related:
       domain: eurekalert.org
     quality: 13
 
-secured: "WXcTRgdAnFz0Fy0a+lrLEaag/duCO4W184rl4FHhuoUioIHDx4JconlCjzqTm3tVhKkwH1y5TVooeZxIHn39GXtIlZt1BPykqfqgkz7/3vbRf+L4WBtYP+JGm0pm1Rkx0FAiYw1dFSwb45XAX3qPdYSJGsNPIH5IMaeF1bqJ+xnlkznIIk6G5ozb/hmvWcqU9faM39M8T2s1ejcS1fRyG+ZQgmXWiJnU5YZsQMSUDSHiA1j8wc9LTcwel7PR6FEiuppKAKyDmx6p+XTZCVecKClVYdNb62NxKEVsPTCcBSZPrAoM5ETXMsVS9VPa3qyN5Rf8XCtF0fgaYdnkiico7zSmBk6Yk9IPAFMM0tJWfAY=;KA9Gf9s9jgzKVR8fUMI7ow=="
+secured: "cZB5HhjQnoWg7DdizZeZ8+NOF1dKeFmFzf9+q1/KkSkV/sNBkM8WODQIxl2QsFRD/uvyOcPMLJscklj+95D+7gfIc+ApmJllXbeFugShokagv9ugtyyIV0j1Znanuo6gtBrKF9nsKsmVaAGr7hcN8lqI3zW1VXn+ztYOV17gAdL2CaJjVdZw0Cvjrz4xU/Vo48GdHDc+vlfsqejv9jpbVc0PEUccY2nwdq/308zE5yJMionVTPLAbnKkS62s2ce4Yh7pbpf2UNK32yscBrir+wZQOE9Sb1dWFQjvPf+4YZu5euUtGinRpW2uDnKyctHmvN4KNj17rrWL23VydcnJJR6jHVIWlXEPD/fUDThHmqY=;boMHxL1E9XxtveKWDiqbIg=="
 ---
 

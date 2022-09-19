@@ -81,15 +81,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 49
-  - title: "Microsoft increases the options for satellite connectivity with Azure Space"
-    excerpt: "Microsoft has been working on expanding Azure’s presence in the space and satellite connection cloud industry for the past two years through its Azure Space effort. Microsoft executives will discuss the company’s plans to grow its satellite connection offerings on."
-    publishedDateTime: 2022-09-14T12:55:00Z
-    webUrl: "https://bestgamingpro.com/microsoft-increases-the-options-for-satellite-connectivity-with-azure-space/"
-    type: article
-    provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 32
 
 secured: "NdZC7KDExTnvz2bgc6fSveS5YEg7xL0ruNWyNVEIsTjORXk5G6SOtbhgaxgFiKStRMIAxtTU5F7QXyIjBcQ55tEX6wkehit4cW5nqZ8g1Ss68lf75XjycndcbEuHkxVfu1prWP4bRGFmnq32uY4vXp2GpcwtktyHbIeNMOFFPTYDMjWbEjPTy8anmBsV7jqiDoGenz0v2a3ePkoQS6LEQI08SLdxZCnJ2azuSvAMKQ7YpxdtBR4dZuJsKsdkMFcMrV+m2tl+AaHpibqj9dYjDRPgOrITrc2Q2vhM8I0eVyMEYkki8ff03EiKUTtpopEfUdHCJuhCOv+zkcFyaHqJXRvxY7zTJvaxtPGn3pYNvGY=;DN+rMjM7+i6bwzHSjkJ05g=="
 ---

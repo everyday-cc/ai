@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Even smartest AI models don't match human visual processing: Study"
+    excerpt: "Deep convolutional neural networks (DCNNs) do not see objects the way humans do -- using configural shape perception -- and that could be dangerous in real-world"
+    publishedDateTime: 2022-09-19T04:21:00Z
+    webUrl: "https://www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/articleshow/94293780.cms"
+    ampWebUrl: "https://www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/amp_articleshow/94293780.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/amp_articleshow/94293780.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 59
+    images:
+      - url: "https://www.businessinsider.in/thumb/94294619.cms?height=275&width=412"
+        width: 412
+        height: 275
+        isCached: true
   - title: "Deep AI models fail to capture the configural nature of human shape perception"
     excerpt: "Deep convolutional neural networks (DCNNs) don't see objects the way humans do – using configural shape perception – and that could be dangerous in real-world AI applications, says Professor James Elder,"
     publishedDateTime: 2022-09-19T03:44:00Z
@@ -35,7 +51,7 @@ related:
     provider:
       name: News Medical
       domain: news-medical.net
-    quality: 53
+    quality: 57
     images:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg"
         width: 620

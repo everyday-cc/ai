@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-09-19-deep-ai-models-fail-to-capture-the-configural-nature-of-human-shape-perception.md",
-      "title": "Deep AI models fail to capture the configural nature of human shape perception",
-      "excerpt": "Deep convolutional neural networks (DCNNs) don't see objects the way humans do – using configural shape perception – and that could be dangerous in real-world AI applications, says Professor James Elder,",
+      "path": "_news/2022-09-19-vihaanai-is-our-plan-to-make-air-india-a-world-class-airline-wilson.md",
+      "title": "Vihaan.AI is our plan to make Air India a world class airline: Wilson",
+      "excerpt": "Air India has unveiled its comprehensive transformation plan, to establish itself, as a world-class global airline.",
       "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220916/Deep-AI-models-fail-to-capture-the-configural-nature-of-human-shape-perception.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220916/Deep-AI-models-fail-to-capture-the-configural-nature-of-human-shape-perception.aspx",
+      "webUrl": "https://www.traveldailymedia.com/vihaan-ai-is-our-plan-to-make-air-india-a-world-class-airline-wilson/",
+      "originalUrl": "https://www.traveldailymedia.com/vihaan-ai-is-our-plan-to-make-air-india-a-world-class-airline-wilson/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
-          "width": 620,
-          "height": 480,
+          "url": "https://www.traveldailymedia.com/assets/2022/09/shutterstock_308709242-scaled.jpg",
+          "width": 2048,
+          "height": 1365,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20220916/Deep-AI-models-fail-to-capture-the-configural-nature-of-human-shape-perception.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220916/Deep-AI-models-fail-to-capture-the-configural-nature-of-human-shape-perception.aspx",
-      "publishedDateTime": "2022-09-18T20:44:00-07:00",
+      "ampWebUrl": "https://www.traveldailymedia.com/vihaan-ai-is-our-plan-to-make-air-india-a-world-class-airline-wilson/amp/",
+      "cdnAmpWebUrl": "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/vihaan-ai-is-our-plan-to-make-air-india-a-world-class-airline-wilson/amp/",
+      "publishedDateTime": "2022-09-18T22:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
+        "name": "Travel Daily Media",
+        "domain": "traveldailymedia.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,6 +40,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-19-even-smartest-ai-models-dont-match-human-visual-processing-study.md",
+      "title": "Even smartest AI models don't match human visual processing: Study",
+      "excerpt": "Deep convolutional neural networks (DCNNs) do not see objects the way humans do -- using configural shape perception -- and that could be dangerous in real-world",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/articleshow/94293780.cms",
+      "originalUrl": "https://www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/articleshow/94293780.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/94294619.cms?height=275&width=412",
+          "width": 412,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/amp_articleshow/94293780.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/even-smartest-ai-models-dont-match-human-visual-processing-study/amp_articleshow/94293780.cms",
+      "publishedDateTime": "2022-09-18T21:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -744,7 +787,7 @@
       "originalUrl": "https://www.forbes.com/sites/qai/2022/09/16/how-to-use-ai-to-maximize-your-inflation-relief-payments/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1162,49 +1205,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-ecobank-partners-with-ama-academy-to-launch-fintech-training-for-journalists.md",
-      "title": "Ecobank partners with AMA Academy to launch fintech training for journalists",
-      "excerpt": "Ecobank Group has announced a partnership with AMA Academy, the only free-to-use pan-African online learning platform dedicated to upskilling journalists in Africa.",
-      "sourceUrl": null,
-      "webUrl": "https://hapakenya.com/2022/09/16/ecobank-partners-with-ama-academy-to-launch-fintech-training-for-journalists/",
-      "originalUrl": "https://hapakenya.com/2022/09/16/ecobank-partners-with-ama-academy-to-launch-fintech-training-for-journalists/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hapakenya.com/wp-content/uploads/2014/04/Ecobank.jpg",
-          "width": 640,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-16T00:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "hapakenya.com",
-        "domain": "hapakenya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

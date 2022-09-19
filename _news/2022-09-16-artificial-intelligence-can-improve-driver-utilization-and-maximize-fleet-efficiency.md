@@ -23,6 +23,17 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Dubai Taxi to use AI and RPA to improve operational efficiency"
+    excerpt: "Tesla Model 3 will soon join DTC’s taxi fleet; The company has also acquired 236 school buses equipped with the latest security systems Dubai Taxi to use AI and RPA to improve operational efficiency Artificial intelligence,"
+    publishedDateTime: 2022-09-19T05:23:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/dubai-taxi-to-use-ai-and-rpa-to-improve-operational-efficiency"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 17
+
 secured: "bXmGtSndKTHTseDnwGMnM3f+DB/EcaXuJGZXQuHpwxLnyvzwiJVeLO9evdRhSina0IfgLyNJUivymtJLd0cRGwvTUFpey27Faridw+fHg3i2mMCHYHp1Jq1Z0177aewrBjaj+DhB+QZYRrQFzuyBCfCVTwaTu4pJ+JlRXvcLxflaKAZSILrqt+Pcco6Qd1zGxTCiyZnFZr/N1johMfjcxDsp4AEDhpEVNSpOunGjH9CYEsE2r7EtCDmFELxnk+dbUe7L9XXtS3J/JON69LsBdJNX4+92IpXp50D0Yeeoy1U4tSBAnW/8k9ERWUC2Zog+xXe8vDDNKKtFbj/FDWLOMM9Ndqw2RQTPZfScMI0z0HbyDXz4whQ4YDG5nxPk5jTZYOllIC1ZXKTrBJ/tjuo58u7jd5g3tbaL6u0WjLFsBjKgUvTjg2rWSP7qF6H+M3aY4da8/NY1OxuNwZmWtfEBfvsyUR4TYVzVaCwxNO2pWgEeOvKQzYyuOtY17lHlkYkuYvy/zEOyK10Cq1b3eNAvPA==;ibdCkMNp5tNoNf2Prb+2RA=="
 ---
 

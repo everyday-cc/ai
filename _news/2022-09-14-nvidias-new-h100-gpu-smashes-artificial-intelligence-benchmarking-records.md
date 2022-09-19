@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h100-g
 ampWebUrl: "https://www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/09/14/nvidias-new-h100-gpu-smashes-artificial-intelligence-benchmarking-records/amp/"
 type: article
-quality: 102
-heat: 112
+quality: 104
+heat: 114
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AWS AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6321ed3e42854ded081b8dca/0x0.jpg?format=jpg&width=1200"
