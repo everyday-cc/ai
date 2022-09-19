@@ -2,6 +2,321 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-09-09-cognitive-overload-the-hidden-cybersecurity-threat.md",
+      "title": "Cognitive Overload: The hidden cybersecurity threat",
+      "excerpt": "Very quickly, we’ve seen this always-on cybersecurity environment leads to burnout, and there’s one major contributor: cognitive overload ... specific products and services to secure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmagazine.com/perspective/threats/cognitive-overload-the-hidden-cybersecurity-threat%EF%BF%BC",
+      "originalUrl": "https://www.scmagazine.com/perspective/threats/cognitive-overload-the-hidden-cybersecurity-threat%EF%BF%BC",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://files.scmagazine.com/wp-content/uploads/2022/09/MikeSaxton-e1662680296351.jpg",
+          "width": 1280,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-08T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SC Magazine",
+        "domain": "scmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-neural-network-software-market-growth-forecast-2022-2028-research-report-by-gmdh-artificial-intelligence-techniques-oracle.md",
+      "title": "Neural Network Software Market Growth Forecast 2022-2028 Research Report | By -GMDH, Artificial Intelligence Techniques, Oracle",
+      "excerpt": "Download Free Sample Neural Network Software Market report  The worldwide Neural Network Software Market is expected to grow at a booming CAGR of 2022-2030, rising from USD billion in 2021 to USD billion in 2028.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-growth-forecast-2022-2028-research-report-by--gmdh-artificial-intelligence-techniques-oracle-2022-09-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-growth-forecast-2022-2028-research-report-by--gmdh-artificial-intelligence-techniques-oracle-2022-09-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-08T22:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-artificial-intelligence-and-the-future-of-marketing.md",
+      "title": "Artificial Intelligence And The Future Of Marketing",
+      "excerpt": "Artificial intelligence is currently transforming marketing. Here, we look at the most exciting opportunities when it comes to using AI in marketing and explore where they are already being tapped.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intelligence-and-the-future-of-marketing/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intelligence-and-the-future-of-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/631ac44c2dd319e54f3d1994/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intelligence-and-the-future-of-marketing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intelligence-and-the-future-of-marketing/amp/",
+      "publishedDateTime": "2022-09-08T21:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-city-digital-twins-help-train-deep-learning-models-to-separate-building-facades.md",
+      "title": "City digital twins help train deep learning models to separate building facades",
+      "excerpt": "Researchers from Osaka University have found a way to use the images that were automatically generated by digital city twins to train deep learning models that can efficiently analyze images of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/09/220908100031.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/09/220908100031.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-08T20:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-teen-scientists-set-for-swiss-robotics-contest.md",
+      "title": "Teen scientists set for Swiss robotics contest",
+      "excerpt": "It is being controlled by java coding language keyed on a driver hub and a gaming pad that controls its different functions. Building, or rather, assembling robots is all fun and games to bring ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.the-star.co.ke/sasa/lifestyle/2022-09-09-teen-scientists-set-for-swiss-robotics-contest/",
+      "originalUrl": "https://www.the-star.co.ke/sasa/lifestyle/2022-09-09-teen-scientists-set-for-swiss-robotics-contest/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-08T20:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "the-star.co.ke",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-poor-periodontal-health-linked-to-cognitive-decline-dementia.md",
+      "title": "Poor Periodontal Health Linked to Cognitive Decline, Dementia",
+      "excerpt": "THURSDAY, Sept. 8, 2022 (HealthDay News) -- Poor periodontal health and tooth loss are associated with increased risks for cognitive decline and dementia, according to a review published online Sept.",
+      "sourceUrl": null,
+      "webUrl": "https://journalstar.com/lifestyles/health-med-fit/poor-periodontal-health-linked-to-cognitive-decline-dementia/article_a2eb218e-9904-5944-98ad-ad712bb4dd32.html",
+      "originalUrl": "https://journalstar.com/lifestyles/health-med-fit/poor-periodontal-health-linked-to-cognitive-decline-dementia/article_a2eb218e-9904-5944-98ad-ad712bb4dd32.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/b/80/b8048e2b-a168-5074-ab2b-c2034fb52437/631a909434446.image.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://journalstar.com/lifestyles/health-med-fit/poor-periodontal-health-linked-to-cognitive-decline-dementia/article_a2eb218e-9904-5944-98ad-ad712bb4dd32.amp.html",
+      "cdnAmpWebUrl": "https://journalstar-com.cdn.ampproject.org/c/s/journalstar.com/lifestyles/health-med-fit/poor-periodontal-health-linked-to-cognitive-decline-dementia/article_a2eb218e-9904-5944-98ad-ad712bb4dd32.amp.html",
+      "publishedDateTime": "2022-09-08T18:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lincoln Journal Star",
+        "domain": "journalstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-neural-magics-sparsity-nvidias-hopper-and-alibabas-network-among-firsts-in-latest-mlperf-ai-benchmarks.md",
+      "title": "Neural Magic's sparsity, Nvidia's Hopper, and Alibaba's network among firsts in latest MLPerf AI benchmarks",
+      "excerpt": "The latest benchmark tests of chips for AI showed new approaches to dealing with ever-increasing scale, including clusters of machines, and sparsity, the pruning of neural nets to make them more efficient.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/neural-magics-sparsity-nvidias-hopper-and-alibabas-network-among-firsts-in-latest-mlperf-ai-benchmarks/",
+      "originalUrl": "https://www.zdnet.com/article/neural-magics-sparsity-nvidias-hopper-and-alibabas-network-among-firsts-in-latest-mlperf-ai-benchmarks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/165cf796993b915bf3d6ac71f4ffcb91020a663b/2022/09/08/fa74566e-d9f2-440f-b2cd-b9565104404e/nvidia-hopper-die-crop-for-twitter.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/neural-magics-sparsity-nvidias-hopper-and-alibabas-network-among-firsts-in-latest-mlperf-ai-benchmarks/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/neural-magics-sparsity-nvidias-hopper-and-alibabas-network-among-firsts-in-latest-mlperf-ai-benchmarks/",
+      "publishedDateTime": "2022-09-08T17:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-09-09-multiple-cognitive-abilities-may-be-empirically-measured-from-complex-video-game-experiences.md",
       "title": "Multiple cognitive abilities may be empirically measured from complex video game experiences",
       "excerpt": "Parents and pundits may no longer argue that gamers are indulging in brainless activities in front of their screens. And gamers may finally feel a sense of vindication. Kyoto University and BonBon ...",
@@ -833,345 +1148,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-be-at-the-forefront-of-the-fintech-revolution-with-spjimrs-fintech-and-blockchain-programme.md",
-      "title": "Be at the forefront of the fintech revolution with SPJIMR’s Fintech and Blockchain programme",
-      "excerpt": "“[I] was able to get some great insights on applications of blockchain, cryptocurrency, AI, fintech products through engaging case studies, class discussion and applications in Python ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/spotlight/be-at-the-forefront-of-the-fintech-revolution-with-spjimrs-fintech-and-blockchain-programme/articleshow/94024712.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/spotlight/be-at-the-forefront-of-the-fintech-revolution-with-spjimrs-fintech-and-blockchain-programme/articleshow/94024712.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-94070643,width-1070,height-580,imgsize-184826,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1070,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/spotlight/be-at-the-forefront-of-the-fintech-revolution-with-spjimrs-fintech-and-blockchain-programme/amp_articleshow/94024712.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/spotlight/be-at-the-forefront-of-the-fintech-revolution-with-spjimrs-fintech-and-blockchain-programme/amp_articleshow/94024712.cms",
-      "publishedDateTime": "2022-09-08T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-baidu-announces-superconducting-quantum-computer-and-integration-solution.md",
-      "title": "Baidu Announces Superconducting Quantum Computer and Integration Solution",
-      "excerpt": "Subscribe for free. Baidu, the company behind the homonymous search engine, has announced its first quantum computing processor, named Qian Shi, along with an \"all-platform\" integration solution ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/09/Baidu-quantum-computing-platform/",
-      "originalUrl": "https://www.infoq.com/news/2022/09/Baidu-quantum-computing-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-7-ai-startups-that-stood-out-in-ycs-summer-22-batch.md",
-      "title": "7 AI startups that stood out in YC’s Summer ’22 batch",
-      "excerpt": "A number of startups in Y Combinator's 2022 Summer Batch leverage AI in innovative ways. Here's a few that caught our eye.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/08/7-ai-startups-that-stood-out-in-ycs-summer-22-batch/",
-      "originalUrl": "https://techcrunch.com/2022/09/08/7-ai-startups-that-stood-out-in-ycs-summer-22-batch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1394730671.jpg?w=1200",
-          "width": 1200,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/08/7-ai-startups-that-stood-out-in-ycs-summer-22-batch/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/08/7-ai-startups-that-stood-out-in-ycs-summer-22-batch/amp/",
-      "publishedDateTime": "2022-09-08T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-qualcomm-is-still-the-most-efficient-ai-accelerator-for-image-processing.md",
-      "title": "Qualcomm Is Still The Most Efficient AI Accelerator For Image Processing",
-      "excerpt": "Company’s recent design wins with leading server vendors indicates strong customer demand, especially in edge image processing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/09/08/qualcomm-is-still-the-most-efficient-ai-accelerator-for-image-processing/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/09/08/qualcomm-is-still-the-most-efficient-ai-accelerator-for-image-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6319090efc2d7f948d213eba/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 614,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/09/08/qualcomm-is-still-the-most-efficient-ai-accelerator-for-image-processing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/09/08/qualcomm-is-still-the-most-efficient-ai-accelerator-for-image-processing/amp/",
-      "publishedDateTime": "2022-09-08T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-uber-eats-and-nuro-sign-a-10-year-deal-to-do-robot-food-delivery-in-california-and-texas.md",
-      "title": "Uber Eats and Nuro sign a 10-year deal to do robot food delivery in California and Texas",
-      "excerpt": "Uber Eats customers in California and Texas may soon have their takeout delivered by a driverless delivery pod after the company signed a 10-year deal with autonomous driving startup Nuro.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/9/8/23339830/uber-eats-nuro-robot-delivery-ten-year-deal-california-texas",
-      "originalUrl": "https://www.theverge.com/2022/9/8/23339830/uber-eats-nuro-robot-delivery-ten-year-deal-california-texas",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/nep91_Q5GehtWtA_U2f1dgxLzNk=/0x0:2000x1125/1200x628/filters:focal(1000x563:1001x564)/cdn.vox-cdn.com/uploads/chorus_asset/file/24002511/Uber_Nuro_image_1.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-combatting-drug-diversion-with-artificial-intelligence.md",
-      "title": "Combatting Drug Diversion With Artificial Intelligence",
-      "excerpt": "One that became exasperated by the hardships of Covid-19 and led to over 200,000 deaths in 2020 and 2021 combined: drug abuse. Despite being on a steady decline since 2017, overdoses increased 30% from 2019 to 2020 and 15% from 2020 to 2021,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/08/combatting-drug-diversion-with-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/08/combatting-drug-diversion-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6318a188a51d94a606213eba/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/08/combatting-drug-diversion-with-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/08/combatting-drug-diversion-with-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-09-08T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-deepfakes-the-danger-of-artificial-intelligence-that-we-will-learn-to-manage-better.md",
-      "title": "Deepfakes - The Danger Of Artificial Intelligence That We Will Learn To Manage Better",
-      "excerpt": "Scared that deepfake technology will kill the 'truth' and undermine democracy as we know it? Don't! The same tools we use for fake emails, fake Amazon reviews, and fake bot conversations will help with deepfakes: Transparency,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lutzfinger/2022/09/08/deepfakesthe-danger-of-artificial-intelligence-that-we-will-learn-to-manage-better/",
-      "originalUrl": "https://www.forbes.com/sites/lutzfinger/2022/09/08/deepfakesthe-danger-of-artificial-intelligence-that-we-will-learn-to-manage-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/631820e023a6f13b1db586d2/0x0.jpg?format=jpg&width=1200",
-          "width": 1080,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

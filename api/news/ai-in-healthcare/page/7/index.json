@@ -2,6 +2,146 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-28-ais-progress-isnt-the-same-as-creating-human-intelligence-in-machines.md",
+      "title": "AI’s progress isn’t the same as creating human intelligence in machines",
+      "excerpt": "The artificial-­intelligence methods build predictive models that grow ... AI developers are also considering how to use these insights in robots that interact with the physical world. And AI is increasingly being applied to biology, chemistry, and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2022/06/28/1054270/2022-innovators-ai-robots/",
+      "originalUrl": "https://www.technologyreview.com/2022/06/28/1054270/2022-innovators-ai-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/06/Upload_20220609-170819.png?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2022/06/28/1054270/2022-innovators-ai-robots/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/06/28/1054270/2022-innovators-ai-robots/amp/",
+      "publishedDateTime": "2022-06-28T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-artificial-intelligence-in-cancer-diagnosis-and-therapy-market-size-worth-usd-5299-millionglobally-by-2030-at-344-cagr-emergen-research.md",
+      "title": "Artificial Intelligence in Cancer Diagnosis and Therapy Market Size Worth USD 5,299 Million,Globally, by 2030 at 34.4% CAGR: Emergen Research",
+      "excerpt": "Increased approval of AI-based devices for cancer therapy by FDA is a key factor driving AI in cancer diagnosis & therapy market revenue growth The global Artificial Intelligence (AI) in cancer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-cancer-diagnosis-and-therapy-market-size-worth-usd-5299-millionglobally-by-2030-at-34-4-cagr-emergen-research",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-cancer-diagnosis-and-therapy-market-size-worth-usd-5299-millionglobally-by-2030-at-34-4-cagr-emergen-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1656422196.png",
+          "width": 1243,
+          "height": 727,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-27T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-deploying-ai-in-healthcare-separating-the-hype-from-the-helpful.md",
+      "title": "Deploying AI in healthcare: Separating the hype from the helpful",
+      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! Of all the industries romanticizing AI,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/27/deploying-ai-in-healthcare-separating-the-hype-from-the-helpful/",
+      "originalUrl": "https://venturebeat.com/2022/06/27/deploying-ai-in-healthcare-separating-the-hype-from-the-helpful/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1216142687-e1654121302980.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/27/deploying-ai-in-healthcare-separating-the-hype-from-the-helpful/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/27/deploying-ai-in-healthcare-separating-the-hype-from-the-helpful/amp/",
+      "publishedDateTime": "2022-06-27T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-27-artificial-intelligence-in-healthcare-global-market-to-grow-at-rate-of-48-through-2026.md",
       "title": "Artificial Intelligence In Healthcare Global Market To Grow At Rate Of 48% Through 2026",
       "excerpt": "Artificial Intelligence In Healthcare Market Report 2022 – Market Size, Trends, And Global Forecast 2022-2026 The Business Research Company's Artificial Intelligence In Healthcare Global Market ...",
@@ -1246,137 +1386,6 @@
         "AI",
         "AI Hardware",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-artificial-intelligence-for-ai-to-work-data-use-must-be-right.md",
-      "title": "Artificial Intelligence: For AI to work, data use must be right",
-      "excerpt": "IT professionals in the financial services, media, energy, automotive, oil, and aerospace industries are most likely to report active deployment of AI by their company, while organisations in industries like retail, travel, healthcare and government ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/industry/technology/artificial-intelligence-for-ai-to-work-data-use-must-be-right/2562056/",
-      "originalUrl": "https://www.financialexpress.com/industry/technology/artificial-intelligence-for-ai-to-work-data-use-must-be-right/2562056/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/06/1-415.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/industry/technology/artificial-intelligence-for-ai-to-work-data-use-must-be-right/2562056/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/artificial-intelligence-for-ai-to-work-data-use-must-be-right/2562056/lite/",
-      "publishedDateTime": "2022-06-15T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-artificial-intelligence-in-healthcare-market-research-predicted-to-show-substantial-growth-in-future-by-2030.md",
-      "title": "Artificial Intelligence in Healthcare Market Research Predicted to Show Substantial Growth in Future by 2030",
-      "excerpt": "The global artificial intelligence in healthcare market is expected to reach a market size of USD 215.53 Billion by 2030 and register a substantially high CAGR over the forecast period ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-research-predicted-to-show-substantial-growth-in-future-by-2030",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-research-predicted-to-show-substantial-growth-in-future-by-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/Juneteenth-CC-BY-2.0-Wiki-600x337.jpeg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T00:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-your-subconscious-is-the-ultimate-artificial-intelligence.md",
-      "title": "Your subconscious is the ultimate ‘artificial intelligence’",
-      "excerpt": "I’ve been thinking a lot about Artificial Intelligence (AI), not about its potentials like all the articles are writing about, but about how it works, how",
-      "sourceUrl": null,
-      "webUrl": "https://businessday.ng/opinion/article/your-subconscious-is-the-ultimate-artificial-intelligence/",
-      "originalUrl": "https://businessday.ng/opinion/article/your-subconscious-is-the-ultimate-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2021/01/Untitled-design-2021-01-13T165155.785.png?resize=450%2C300&ssl=1",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://businessday.ng/amp/opinion/article/your-subconscious-is-the-ultimate-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/opinion/article/your-subconscious-is-the-ultimate-artificial-intelligence/",
-      "publishedDateTime": "2022-06-14T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businessday",
-        "domain": "businessday.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-06-17-ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson.md",
+      "title": "AI Weekly: LaMDA’s ‘sentient’ AI triggers memories of IBM Watson",
+      "excerpt": "I learned a bit about how LaMDA triggers memories of IBM Watson. Transform 2022 Join us at the leading event on applied AI for enterprise business and technology decision makers in-person July 19 ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/",
+      "originalUrl": "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-108024053-e1655405017212.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/amp/",
+      "publishedDateTime": "2022-06-16T11:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-ai-weekly-lamdas-sentient-ai-debate-triggers-memories-of-ibm-watson.md",
       "title": "AI Weekly: LaMDA’s ‘sentient’ AI debate triggers memories of IBM Watson",
       "excerpt": "I learned a bit about how LaMDA triggers memories of IBM Watson. Transform 2022 Join us at the leading event on applied AI for enterprise business and technology decision makers in-person July 19 ...",
@@ -1310,51 +1363,7 @@
         "AI",
         "AWS AI"
       ]
-    },
-    {
-      "path": "_news/2022-05-11-for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close.md",
-      "title": "For hype-wary IBM, quantum-computing sales are close, but not too close",
-      "excerpt": "IBM has set a new goal for propelling the ... the company's \"error\" predicting uses prematurely for its Watson artificial intelligence (AI) services, which delivered results in healthcare and ...",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close/91481989",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close/91481989",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-91481989,imgsize-28942,width-1200,height-628,overlay-etcio/for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close/91481989",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close/91481989",
-      "publishedDateTime": "2022-05-10T20:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cio.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Sales"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 4
 }

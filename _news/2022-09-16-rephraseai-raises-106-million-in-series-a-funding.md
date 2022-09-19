@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/en-in/news-and-trends/rephraseai-rais
 webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/rephraseai-raises-106-million-in-series-a-funding/435460"
 type: article
 quality: 67
-heat: 149
+heat: 147
 published: true
 
 provider:

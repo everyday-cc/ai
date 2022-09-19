@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google and Oxford Scientists Publish Paper Claiming AI Will \"Likely\" Annihilate Humankind"
-    excerpt: "Researchers at Google Deepmind and the University of Oxford have concluded that it is now \"likely\" superintelligent AI will be the end of humanity."
-    publishedDateTime: 2022-09-14T14:57:00Z
-    webUrl: "https://futurism.com/the-byte/google-oxford-paper-ai-humankind"
-    ampWebUrl: "https://futurism.com/google-oxford-paper-ai-humankind?amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/google-oxford-paper-ai-humankind?amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 50
-    images:
-      - url: "https://wp-assets.futurism.com/2022/09/google-oxford-paper-ai-humankind-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "6iCmOdAiwDJFZyMaYXEu3zzrh6zBwD4/TgmO3B4AsBmMO68rNNq/ENG+yvR3zCcx8NDlAteeVkQTs2krpc80xQdTvMJAragR2OK37PpaeYJxXjp98DL16Bj7a8Im7LeNOaiSJIrDXa/UPfqZ9HllRGSXL43iteiIZ/HmRCGGL7h22NcbgFBLU9Ij/MAx6pj2qCypUtHgmVvwxAa5H/i+0Aw8RYRm3a4u2KJVmJFcre+bgmWLnTJXXHy7WwYMEKXh7hzzTIKrZCrUyk+ABFAhFt5zZb3uKMahdc2hVBptq+WMYuya7eI3NnaZvx7rnp8rj9ffNSzxxYAVCHBXVUlcxs6udsDgYikiRtzMFoJhSKIHsSiOuDpX2bVpsR3iGxxXlMlJ/ec3ukIIhQz0BUIB6hvN3mdOgE4Cxolq/SuyqARXceSj/YjwihCJ0wVJH1SsJ76Sufl4oDmORABOU9+CTedtTt6tloIOonaderq8z4FESNr9Vd0JEXG8ASCcvgElINOiISnxG2hgtzmzLt0IUA==;UELVFmSX9KsHuibNyeuk+w=="
 ---

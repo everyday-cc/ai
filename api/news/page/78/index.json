@@ -2,6 +2,334 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2022-07-15-government-launches-defence-centre-for-ai-research.md",
+      "title": "Government launches Defence Centre for AI Research",
+      "excerpt": "The MoD and Alan Turing Institute announce the project as part of a wider plan to make the UK a world-leader in AI research",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368558/government-launches-defence-centre-for-ai-research",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368558/government-launches-defence-centre-for-ai-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1657881116/itpro/Dstl-logo_upscale.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-15T03:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-07-15-ai-for-revops-ready-for-takeoff.md",
+      "title": "AI For RevOps: Ready For Takeoff",
+      "excerpt": "To make a RevOps model possible, marketing must shift to also focus on opportunities and revenue in order to be able to unify their systems with sales and align on common metrics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/15/ai-for-revops-ready-for-takeoff/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/15/ai-for-revops-ready-for-takeoff/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62d024b38eaa61b14abce39d/0x0.jpg?format=jpg&crop=2768,1298,x100,y46,safe&width=1200",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/15/ai-for-revops-ready-for-takeoff/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/15/ai-for-revops-ready-for-takeoff/amp/",
+      "publishedDateTime": "2022-07-15T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-15-baidu-to-reveal-latest-updates-for-autonomous-driving-ai-cloud-large-ai-model-at-baidu-world-2022.md",
+      "title": "Baidu to Reveal Latest Updates for Autonomous Driving, AI Cloud, Large AI Model at Baidu World 2022",
+      "excerpt": "(NASDAQ: BIDU and HKEX: 9888), a leading AI company with strong Internet foundation, will virtually host its annual flagship technology conference Baidu World on July 21. Centered on the theme of “Deepening AI innovation for social growth”,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-beijing-af4b737843d939075a583b5b5f633100",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-beijing-af4b737843d939075a583b5b5f633100",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-15T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-15-data-preparation-the-key-ingredient-in-efficient-ai-algorithms-for-virtual-healthcare.md",
+      "title": "Data Preparation: The Key Ingredient In Efficient AI Algorithms For Virtual Healthcare",
+      "excerpt": "However, that concept doesn't apply to data processing. Artificial intelligence (AI) and machine learning (ML) can't properly execute without good data preparation. That's an oversimplification, but it helps explain what's going on with the whole ecosystem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/15/data-preparation-the-key-ingredient-in-efficient-ai-algorithms-for-virtual-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/15/data-preparation-the-key-ingredient-in-efficient-ai-algorithms-for-virtual-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6165e12e8a6cc7b5e99e94f3/0x0.jpg?format=jpg&crop=1307,735,x0,y67,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/15/data-preparation-the-key-ingredient-in-efficient-ai-algorithms-for-virtual-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/15/data-preparation-the-key-ingredient-in-efficient-ai-algorithms-for-virtual-healthcare/amp/",
+      "publishedDateTime": "2022-07-15T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-15-optical-illusions-could-help-us-build-the-next-generation-of-ai.md",
+      "title": "Optical illusions could help us build the next generation of AI",
+      "excerpt": "It sounds a bit like a word game, but that is it in a nutshell.” So what does this have to do with computer vision? Potentially everything. In order for a robot, for instance, to be able to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/bettering-machine-vision-ai-falling-for-optical-illusions/",
+      "originalUrl": "https://www.digitaltrends.com/computing/bettering-machine-vision-ai-falling-for-optical-illusions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/07/machine-vision-featured-image.jpg?p=1",
+          "width": 2000,
+          "height": 1334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/bettering-machine-vision-ai-falling-for-optical-illusions/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/bettering-machine-vision-ai-falling-for-optical-illusions/?amp",
+      "publishedDateTime": "2022-07-15T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-15-metas-make-a-scene-uses-ai-to-create-digital-imagery-from-text.md",
+      "title": "Meta's Make-A-Scene uses AI to create digital imagery from text",
+      "excerpt": "Meta, formerly known as Facebook, has developed a new Artificial Intelligence (AI)-based research concept that will let people use text and simple sketches",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/tech/news/metas-make-a-scene-uses-ai-to-create-digital-imagery-from-text/articleshow/92898964.cms",
+      "originalUrl": "https://www.businessinsider.in/tech/news/metas-make-a-scene-uses-ai-to-create-digital-imagery-from-text/articleshow/92898964.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/92899003.cms?height=275&width=412",
+          "width": 412,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.in/tech/news/metas-make-a-scene-uses-ai-to-create-digital-imagery-from-text/amp_articleshow/92898964.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/metas-make-a-scene-uses-ai-to-create-digital-imagery-from-text/amp_articleshow/92898964.cms",
+      "publishedDateTime": "2022-07-15T01:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-15-global-automated-machine-learning-automl-market-analysis-and-forecasts-2022-2027-researchandmarketscom.md",
+      "title": "Global Automated Machine Learning (AutoML) Market Analysis and Forecasts 2022-2027 - ResearchAndMarkets.com",
+      "excerpt": "The Global Automated Machine Learning Market (henceforth referred to as the market studied) was valued at USD 665.63 Million in 2021, and it is expected to reach USD 5,406.75 Million by 2027, registering a CAGR of 42.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/covid-technology-health-artificial-intelligence-18e3007529be4a1598d02ced31cdcc71",
+      "originalUrl": "https://apnews.com/press-release/business-wire/covid-technology-health-artificial-intelligence-18e3007529be4a1598d02ced31cdcc71",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-15T01:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-07-15-retailers-would-be-breaking-new-laws-governing-facial-recognition.md",
       "title": "Retailers would be breaking new laws governing facial recognition",
       "excerpt": "Human Rights Commissioners past and present are troubled by Wesfarmers use of AI to weed out problem customers.",
@@ -755,315 +1083,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-get-2-million-tiktok-conspiracy-translate-200-languages.md",
-      "title": "Get $2 million, TikTok conspiracy, translate 200 languages",
-      "excerpt": "You go to the hospital for a life-saving procedure. But a ransomware attack shuts everything down. Here's your self-defense strategy in case criminals try",
-      "sourceUrl": null,
-      "webUrl": "https://www.komando.com/episode/get-2-million-tiktok-conspiracy-translate-200-languages/845604/",
-      "originalUrl": "https://www.komando.com/episode/get-2-million-tiktok-conspiracy-translate-200-languages/845604/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kim Komando",
-        "domain": "komando.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-gestalt-diagnostics-announces-artificial-intelligence-requisition-engine-aire.md",
-      "title": "Gestalt Diagnostics Announces Artificial Intelligence Requisition Engine (AIRE)",
-      "excerpt": "AIRE is an Artificial Intelligence algorithm that automatically accessions cases and provides significant improvements in accuracy and efficiency",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/gestalt-diagnostics-announces-artificial-intelligence-requisition-engine-aire-1031588342",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/gestalt-diagnostics-announces-artificial-intelligence-requisition-engine-aire-1031588342",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-how-ai-bots-became-the-face-of-the-worlds-most-innovative-companies.md",
-      "title": "How AI Bots Became The Face Of The World’s Most Innovative Companies",
-      "excerpt": "Very quietly, these AI bots are revolutionizing work — becoming the face of the world’s most innovative companies. So what are they? And what's allowed them to win over employees, when so many AI projects fail to get off the ground?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moveworks/2022/07/14/how-ai-bots-became-the-face-of-the-worlds-most-innovative-companies/",
-      "originalUrl": "https://www.forbes.com/sites/moveworks/2022/07/14/how-ai-bots-became-the-face-of-the-worlds-most-innovative-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62d0504d3015048c18f35bcc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moveworks/2022/07/14/how-ai-bots-became-the-face-of-the-worlds-most-innovative-companies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moveworks/2022/07/14/how-ai-bots-became-the-face-of-the-worlds-most-innovative-companies/amp/",
-      "publishedDateTime": "2022-07-14T10:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-build-a-predictive-maintenance-solution-with-amazon-kinesis-aws-glue-and-amazon-sagemaker.md",
-      "title": "Build a predictive maintenance solution with Amazon Kinesis, AWS Glue, and Amazon SageMaker",
-      "excerpt": "Organizations are increasingly building and using machine learning (ML)-powered solutions for a variety of use cases and problems, including predictive maintenance of machine parts, product recommendations based on customer preferences, credit profiling, content moderation, fraud detection, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-predictive-maintenance-solution-with-amazon-kinesis-aws-glue-and-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-predictive-maintenance-solution-with-amazon-kinesis-aws-glue-and-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T09:26:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-in-the-age-of-ai-energy-efficiency-in-the-data-center-cant-be-ignored.md",
-      "title": "In the age of AI, energy efficiency in the data center can’t be ignored",
-      "excerpt": "Using less energy in the first place can help us all get closer — especially when it comes to energy-hungry data centers faced with increasingly heavy workloads in the age of machine learning and AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/14/in-the-age-of-ai-energy-efficiency-in-the-data-center-cant-be-ignored/",
-      "originalUrl": "https://venturebeat.com/2022/07/14/in-the-age-of-ai-energy-efficiency-in-the-data-center-cant-be-ignored/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1354126692.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/14/in-the-age-of-ai-energy-efficiency-in-the-data-center-cant-be-ignored/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/14/in-the-age-of-ai-energy-efficiency-in-the-data-center-cant-be-ignored/amp/",
-      "publishedDateTime": "2022-07-14T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company.md",
-      "title": "Tesla’s head of AI, an ardent supporter of ‘full self driving,’ has exited the company",
-      "excerpt": "Andrej Karpathy, Tesla’s director of artificial intelligence, announced Wednesday he’s leaving the company only months before its anticipated release of its long-delayed “full self-driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://kvia.com/cnn-business-consumer-3/2022/07/14/teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company/",
-      "originalUrl": "https://kvia.com/cnn-business-consumer-3/2022/07/14/teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kvia.b-cdn.net/2022/07/hypatia-h_7d277fc62268077ed482b4e6679d65f9-h_a5de2b2ec07b206570c63e15f6907e94-300.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KVIA",
-        "domain": "kvia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-google-open-sources-its-tensorflow-gnn-framework-to-encourage-graph-neural-network-productization-and-experimentation.md",
-      "title": "Google Open-Sources Its TensorFlow GNN Framework to Encourage Graph Neural Network Productization and Experimentation",
-      "excerpt": "Graph Neural Networks (GNNs) that operate on graph-based data bring multimodal capabilities to machine learning models and have practical applications in areas as diverse as the modelling of physics systems,",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2022/07/14/google-open-sources-its-tensorflow-gnn-framework-to-encourage-graph-neural-network-productization-and-experimentation/",
-      "originalUrl": "https://syncedreview.com/2022/07/14/google-open-sources-its-tensorflow-gnn-framework-to-encourage-graph-neural-network-productization-and-experimentation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
-          "width": 790,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2022/07/14/google-open-sources-its-tensorflow-gnn-framework-to-encourage-graph-neural-network-productization-and-experimentation/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/07/14/google-open-sources-its-tensorflow-gnn-framework-to-encourage-graph-neural-network-productization-and-experimentation/amp/",
-      "publishedDateTime": "2022-07-14T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "TensorFlow"
       ]
     }
   ],

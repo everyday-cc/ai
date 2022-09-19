@@ -7,7 +7,7 @@ originalUrl: "https://www.smithsonianmag.com/innovation/the-past-present-and-fut
 webUrl: "https://www.smithsonianmag.com/innovation/the-past-present-and-future-of-robotic-surgery-180980763/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision and the Future of Retail"
-    excerpt: "Computer Vision isn’t necessarily new, but its value to retailers is rapidly increasing. The overall value of the Computer Vision market is expected to reach $33 billion by 2025, up from just $2.9 billion in 2018."
-    publishedDateTime: 2022-09-15T14:00:00Z
-    webUrl: "https://www.retailtouchpoints.com/resources/computer-vision-and-the-future-of-retail"
+  - title: "Handing the Surgeon's Scalpel to a Robot"
+    excerpt: "Robots have been found in the operating suite since the 1980s for things like holding a patient's limbs in place, and later for laparoscopic surgery, in which surgeons can use remote-controlled robot arms to operate on the human body through tiny holes instead of huge cuts."
+    publishedDateTime: 2022-09-14T19:02:00Z
+    webUrl: "https://www.medscape.com/viewarticle/980798"
     type: article
     provider:
-      name: Retail TouchPoints
-      domain: retailtouchpoints.com
-    quality: 54
-    images:
-      - url: "http://www.retailtouchpoints.com/wp-content/uploads/2022/09/RTP_Asset_Mockup_Sensormatic.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Medscape
+      domain: medscape.com
+    quality: 21
 
 secured: "VuEfmBQE54QnwCvK8Oelz4IvTmiN/v8N3k2oj+ZFdX1IfSrJat8xz09l8I9T4tadxI04g3WQrFPUvyGmZhNQ0pfpHWPeUjYa5QzJwIDNxFEtBv/u/W3L/QGTLr5HRc3LDIYRwpv+NiDHiGNQxva1WlpZLoLdRBqHkWKfcCYsHLb2JgaI9hEhEUKTplohptJH/FPUzVJV8mTRc1fsWNWh1tMMTes+cV5w/y19B5VDqmHRs+drVEFJISl2mYNVdMra1lwIvofbfXysHkkB79DvH/gfn+ajmsXc2ExNUwH/0Zaipm8H7DM2gRi+ZFi8G8yiMe0X/YCVh1grxDBbmE4M2DW0NVf09U+PHUfNv71CZN84ucGVd+6wTVYFpdSQ2FNiDEAArxuRRqL70lk2IKib6G91Ryi+7e4T4ij4yJwlMxfYqbLmb5XeNaeawvVBHadxOzVkD8ewVV5wHDJgevnyCMf9qEXmClMPIDvCSt8kRpB/uAhvjK7c5c7UHSImEmJKXPuILiTc7swsRiZ4l4YjHw==;gaod1X7KI+bKKXaUUQCEXw=="
 ---

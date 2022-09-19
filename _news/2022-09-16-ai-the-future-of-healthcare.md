@@ -9,8 +9,8 @@ ampWebUrl: "https://www.globalbankingandfinance.com/ai-the-future-of-healthcare/
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/ai-the-future-of-healthcare/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: List of Banks in Belarus
@@ -27,37 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "How AI And Machine Learning Will Impact The Future Of Healthcare"
-    excerpt: "Global healthcare is facing enormous challenges, but artificial intelligence and machine learning hold the secret to transforming our ailing health system into a more equitable, efficient way to care for patients."
-    publishedDateTime: 2022-09-14T05:24:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2022/09/14/how-ai-and-machine-learning-will-impact-the-future-of-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/09/14/how-ai-and-machine-learning-will-impact-the-future-of-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/09/14/how-ai-and-machine-learning-will-impact-the-future-of-healthcare/amp/"
+  - title: "Computer Vision and the Future of Retail"
+    excerpt: "Computer Vision isn’t necessarily new, but its value to retailers is rapidly increasing. The overall value of the Computer Vision market is expected to reach $33 billion by 2025, up from just $2.9 billion in 2018."
+    publishedDateTime: 2022-09-15T14:00:00Z
+    webUrl: "https://www.retailtouchpoints.com/resources/computer-vision-and-the-future-of-retail"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 121
+      name: Retail TouchPoints
+      domain: retailtouchpoints.com
+    quality: 54
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/632164db23de9900defe585a/0x0.jpg?format=jpg&width=1200"
+      - url: "http://www.retailtouchpoints.com/wp-content/uploads/2022/09/RTP_Asset_Mockup_Sensormatic.jpg"
         width: 1200
-        height: 800
-        isCached: true
-  - title: "How AI Drives Down Healthcare Costs and Improves Quality of Care"
-    excerpt: "By Ronny Shalev, PhD, CEO of Dyad Medical Artificial intelligence (AI) is one of the main tools powering the next generation of healthcare technology. With the potential to drive down healthcare costs and improve patient outcomes,"
-    publishedDateTime: 2022-09-16T17:31:00Z
-    webUrl: "https://www.globalbankingandfinance.com/how-ai-drives-down-healthcare-costs-and-improves-quality-of-care/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/how-ai-drives-down-healthcare-costs-and-improves-quality-of-care/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-ai-drives-down-healthcare-costs-and-improves-quality-of-care/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 74
-    images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/09/129-333x500.jpg"
-        width: 333
-        height: 500
+        height: 675
         isCached: true
 
 secured: "PEmK3BrCWU3gURi0f8hJHMTkvp65KUgFgop/SmWkEfDoil/81qZXfNpV9NvJ+5edtDDP4edxfJUou6kXA73tjXkIActOj7xrNZEitVquQ2gozA2Vje/yxJvF19IIwkU3Vk2y55mYJho43CGrUp94rzJ7y5wthCpB7ok7RTYpS22dK8yzSQzhATtKVTn3VzNHI+Ww9fuwkeXPMT45mwT3ZPhxewAPeoeJQBW4J0lprLUXQUCn6iR1B23YC1cEWCE53KoWodPbiI1KlxczgVW9Pxz3Mmk1BRyOHUsG6rrXIZm1dRz0WvDhT2UtPIPwKbJuvl+VmZGl5GgQcVg63wWiZPfiEbuWiopdkK/evlGjfn6wovezUI5tcHahvgZmb2KqqeRNImfnfK5jCYDQ7kvaeWRFhxociM/0OA3ccIDhqM6/timcPYiMOm1AqGn128U05CD+d/tr0DJxWBlT6NJSlsTjtIW9uvP0k0cMzJlVBeBVFCeTXXzDInZ2ttu2xVhNTCmTcVUyk/F/Zhlbtyvlgw==;HcSU1QQAsWBo/vjAQ7Qp8A=="

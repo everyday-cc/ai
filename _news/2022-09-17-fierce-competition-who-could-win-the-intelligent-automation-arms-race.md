@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/automation/fierce-competition-who-could-win-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/automation/fierce-competition-who-could-win-the-intelligent-automation-arms-race/amp/"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

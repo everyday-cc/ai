@@ -154,7 +154,7 @@
       "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/09/17/the-creepy-problem-killing-ai-projects/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -251,7 +251,7 @@
       "originalUrl": "https://www.nextplatform.com/2022/09/14/arm-fills-in-some-gaps-and-details-in-server-chip-roadmaps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -294,7 +294,7 @@
       "originalUrl": "https://venturebeat.com/automation/fierce-competition-who-could-win-the-intelligent-automation-arms-race/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -449,7 +449,7 @@
       "originalUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-ai-revelations-and-apple-moves-to-kill-passwords/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -490,6 +490,49 @@
       "topics": [
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-17-how-ai-drives-down-healthcare-costs-and-improves-quality-of-care.md",
+      "title": "How AI Drives Down Healthcare Costs and Improves Quality of Care",
+      "excerpt": "By Ronny Shalev, PhD, CEO of Dyad Medical Artificial intelligence (AI) is one of the main tools powering the next generation of healthcare technology. With the potential to drive down healthcare costs and improve patient outcomes,",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalbankingandfinance.com/how-ai-drives-down-healthcare-costs-and-improves-quality-of-care/",
+      "originalUrl": "https://www.globalbankingandfinance.com/how-ai-drives-down-healthcare-costs-and-improves-quality-of-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/09/129-333x500.jpg",
+          "width": 333,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globalbankingandfinance.com/how-ai-drives-down-healthcare-costs-and-improves-quality-of-care/",
+      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-ai-drives-down-healthcare-costs-and-improves-quality-of-care/",
+      "publishedDateTime": "2022-09-16T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "List of Banks in Belarus",
+        "domain": "globalbankingandfinance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -605,7 +648,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/read-webpages-and-highlight-content-using-amazon-polly/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -749,6 +792,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-ai-the-future-of-healthcare.md",
+      "title": "AI: The Future of Healthcare",
+      "excerpt": "By Dr Christophe Bianchi, Chief Technologist HealthCare, Ansys The covid pandemic touched almost every aspect of our lives and its legacy can still be seen throughout society and the economy. During that time there was a laser-pointed focus placed on the healthcare industry – leading doctors and scientists instantly became household names",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalbankingandfinance.com/ai-the-future-of-healthcare/",
+      "originalUrl": "https://www.globalbankingandfinance.com/ai-the-future-of-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/07/iStock-1397174654.jpg",
+          "width": 750,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globalbankingandfinance.com/ai-the-future-of-healthcare/",
+      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/ai-the-future-of-healthcare/",
+      "publishedDateTime": "2022-09-16T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "List of Banks in Belarus",
+        "domain": "globalbankingandfinance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -907,7 +993,7 @@
       "originalUrl": "https://www.techthirsty.com/the-mysterious-mathematics-of-ai-could-be-decoded-using-the-neural-network-method/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -994,7 +1080,7 @@
       "originalUrl": "https://www.entrepreneur.com/en-in/news-and-trends/rephraseai-raises-106-million-in-series-a-funding/435460",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -1080,49 +1166,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-16-google-oxford-scientists-say-ai-will-likely-take-over-mankind-is-our-end-near.md",
-      "title": "Google, Oxford Scientists Say AI Will “Likely” Take Over Mankind; Is Our End Near?",
-      "excerpt": "Researchers from the University of Oxford along with Google Deepmind scientists have concluded that superintelligent AI is “likely” to take over humankind -- a grim scenario that several other researchers are concerned about.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizbot.com/internet/news/google-oxford-scientist-say-ai-will-likely-take-over-mankind-082634.html",
-      "originalUrl": "https://www.gizbot.com/internet/news/google-oxford-scientist-say-ai-will-likely-take-over-mankind-082634.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizbot.com/img/1200x60x675/img/2022/09/ai-taking-over-humankind-1663306039.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizbot.com/amphtml/internet/news/google-oxford-scientist-say-ai-will-likely-take-over-mankind-082634.html",
-      "cdnAmpWebUrl": "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/news/google-oxford-scientist-say-ai-will-likely-take-over-mankind-082634.html",
-      "publishedDateTime": "2022-09-15T22:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GIZBOT",
-        "domain": "gizbot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-16-machine-learning-gives-glimpse-of-how-a-dogs-brain-represents-what-it-sees.md",
       "title": "Machine learning gives glimpse of how a dog's brain represents what it sees",
       "excerpt": "Scientists have decoded visual images from a dog's brain, offering a first look at how the canine mind reconstructs what it sees.",
@@ -1163,59 +1206,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-oracle-brings-heatwave-to-aws.md",
-      "title": "Oracle Brings HeatWave To AWS",
-      "excerpt": "Senior Analyst, Servers, Matt Kimball, dives as MySQL HeatWave is a cloud database service that has enabled Oracle to create differentiation in the open-source MySQL market. MySQL HeatWave is available natively on AWS,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/09/15/oracle-brings-heatwave-to-aws/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/09/15/oracle-brings-heatwave-to-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6323c5bfd0627c92277a03a5/0x0.png?format=png&width=1200",
-          "width": 936,
-          "height": 444,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/09/15/oracle-brings-heatwave-to-aws/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/09/15/oracle-brings-heatwave-to-aws/amp/",
-      "publishedDateTime": "2022-09-15T17:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

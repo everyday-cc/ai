@@ -7,7 +7,7 @@ originalUrl: "https://www.techthirsty.com/the-mysterious-mathematics-of-ai-could
 webUrl: "https://www.techthirsty.com/the-mysterious-mathematics-of-ai-could-be-decoded-using-the-neural-network-method/"
 type: article
 quality: 81
-heat: 92
+heat: 91
 published: true
 
 provider:

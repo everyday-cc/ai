@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-16-oracle-brings-heatwave-to-aws.md",
+      "title": "Oracle Brings HeatWave To AWS",
+      "excerpt": "Senior Analyst, Servers, Matt Kimball, dives as MySQL HeatWave is a cloud database service that has enabled Oracle to create differentiation in the open-source MySQL market. MySQL HeatWave is available natively on AWS,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/09/15/oracle-brings-heatwave-to-aws/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/09/15/oracle-brings-heatwave-to-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6323c5bfd0627c92277a03a5/0x0.png?format=png&width=1200",
+          "width": 936,
+          "height": 444,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/09/15/oracle-brings-heatwave-to-aws/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/09/15/oracle-brings-heatwave-to-aws/amp/",
+      "publishedDateTime": "2022-09-15T17:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-16-soroco-scouttm-now-available-in-microsoft-azure-marketplace.md",
       "title": "Soroco ScoutTM Now Available in Microsoft Azure Marketplace",
       "excerpt": "Soroco, the world’s first work graph company, today announced the availability of Soroco ScoutTM, the flagship product powered by work graph in Microsoft Azure Marketplace, an online store providing a",
@@ -527,6 +580,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-artificial-intelligence-ai-in-healthcare-market-size-from-2022-to-2028-and-key-findings-and-segments-by-end-use-industry.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market Size From 2022 To 2028 And Key Findings and Segments by End Use Industry",
+      "excerpt": "The \"Artificial Intelligence (AI) in Healthcare Market\" provides a holistic analysis, market size and forecast from year to year, trends, growth drivers, and challenges, as well a",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-from-2022-to-2028-and-key-findings-and-segments-by-end-use-industry-2022-09-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-size-from-2022-to-2028-and-key-findings-and-segments-by-end-use-industry-2022-09-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1094,129 +1190,21 @@
       ]
     },
     {
-      "path": "_news/2022-09-14-weight-loss-and-ai-how-this-startup-is-accelerating-glucose-monitoring-for-all.md",
-      "title": "Weight Loss And AI: How This Startup Is Accelerating Glucose Monitoring For All",
-      "excerpt": "Having access to the proper tools that support a healthier life is fundamental for overall well-being. Signos is aiming to tackle the obesity epidemic by offering a new way for people to act on their body’s unique response to what and when they eat to lose weight and kickstart a healthier life.",
+      "path": "_news/2022-09-14-ai-may-destroy-humanity-deepmind-scientists-claim-in-co-authored-paper.md",
+      "title": "AI may destroy humanity, DeepMind scientists claim in co-authored paper",
+      "excerpt": "A paper co-authored with the University of Oxford argues that advanced AI may want to implement a reward system that would harm humanity.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/garydrenik/2022/09/14/weight-loss-and-ai-how-this-startup-is-accelerating-glucose-monitoring-for-all/",
-      "originalUrl": "https://www.forbes.com/sites/garydrenik/2022/09/14/weight-loss-and-ai-how-this-startup-is-accelerating-glucose-monitoring-for-all/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/630d32979a8a3c7794bf73b5/0x0.jpg?format=jpg&width=1200",
-          "width": 640,
-          "height": 456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2022/09/14/weight-loss-and-ai-how-this-startup-is-accelerating-glucose-monitoring-for-all/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/09/14/weight-loss-and-ai-how-this-startup-is-accelerating-glucose-monitoring-for-all/amp/",
-      "publishedDateTime": "2022-09-14T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-10-years-later-deep-learning-revolution-rages-on-say-ai-pioneers-hinton-lecun-and-li.md",
-      "title": "10 years later, deep learning ‘revolution’ rages on, say AI pioneers Hinton, LeCun and Li",
-      "excerpt": "On the 10th anniversary of key research that led to deep learning breakthroughs, AI luminaries say the 'revolution' will continue.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/10-years-on-ai-pioneers-hinton-lecun-li-say-deep-learning-revolution-will-continue/",
-      "originalUrl": "https://venturebeat.com/ai/10-years-on-ai-pioneers-hinton-lecun-li-say-deep-learning-revolution-will-continue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1004013312.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/10-years-on-ai-pioneers-hinton-lecun-li-say-deep-learning-revolution-will-continue/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/10-years-on-ai-pioneers-hinton-lecun-li-say-deep-learning-revolution-will-continue/amp/",
-      "publishedDateTime": "2022-09-14T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing",
-        "AI Ethics",
-        "Computer Vision",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-fed-not-backing-down-on-monetary-policy-and-investors-react-to-apple-releases-forbes-ai-newsletter-september-10th.md",
-      "title": "Fed Not Backing Down On Monetary Policy And Investors React To Apple Releases: Forbes AI Newsletter - September 10th",
-      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/09/14/fed-not-backing-down-on-monetary-policy-and-investors-react-to-apple-releases-forbes-ai-newsletterseptember-10th/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/09/14/fed-not-backing-down-on-monetary-policy-and-investors-react-to-apple-releases-forbes-ai-newsletterseptember-10th/",
+      "webUrl": "https://interestingengineering.com/innovation/ai-may-destroy-humanity-deepmind",
+      "originalUrl": "https://interestingengineering.com/innovation/ai-may-destroy-humanity-deepmind",
       "featuredContent": null,
       "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6320d869420ca819c8fe585c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
+          "url": "https://inteng-storage.s3.amazonaws.com/2022/09/14/image/jpeg/nHhLLZVLZFuzjzQfMz3AQhayfDcqXyn0x6n1ZUX6.jpg",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1224,23 +1212,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/09/14/fed-not-backing-down-on-monetary-policy-and-investors-react-to-apple-releases-forbes-ai-newsletterseptember-10th/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/09/14/fed-not-backing-down-on-monetary-policy-and-investors-react-to-apple-releases-forbes-ai-newsletterseptember-10th/amp/",
-      "publishedDateTime": "2022-09-14T04:34:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T07:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1249,6 +1228,7 @@
         "news"
       ],
       "topics": [
+        "Google AI",
         "AI"
       ]
     }

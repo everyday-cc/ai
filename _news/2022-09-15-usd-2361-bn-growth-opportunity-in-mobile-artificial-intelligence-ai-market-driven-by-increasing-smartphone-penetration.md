@@ -7,7 +7,7 @@ originalUrl: "https://it.tmcnet.com/news/2022/09/14/9673912.htm"
 webUrl: "https://it.tmcnet.com/news/2022/09/14/9673912.htm"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -25,33 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) In Education Market Size Is Expected to Hit $80 Billion By 2030"
-    excerpt: "Palm Beach, FL – September 15, 2022 – FinancialNewsMedia.com News Commentary – Artificial Intelligence (AI) is crossing over to new markets and brings additional revenues along with it. Increasing demand for Intelligent Tutoring Systems (ITSs) is fueling the AI in education industry growth."
-    publishedDateTime: 2022-09-15T12:30:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/financialnewsmedia-2022-9-15-artificial-intelligence-ai-in-education-market-size-is-expected-to-hit-80-billion-by-2030"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 42
-  - title: "Artificial Intelligence (AI) In Education Market Size Is Expected to Hit $80 Billion By 2030"
-    excerpt: "FinancialNewsMedia.com News Commentary - Artificial Intelligence (AI) is crossing over to new markets and brings additional revenues along with it. Increasing demand for Intelligent Tutoring Systems (ITSs) is fueling the AI in education industry growth."
-    publishedDateTime: 2022-09-15T18:12:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/15/9674474.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 42
-  - title: "Artificial Intelligence (AI) In Education Market Size Is Expected To Hit $80 Billion By 2030 - Financial News Media"
-    excerpt: "( MENAFN - Financial News Media) data-id='165ecfe1' data-element_type='widget' data-widget_type='theme-post-content.default'> Palm Beach, FL – September 15, 2022 – FinancialNewsMedia.com News Commentary – Artificial Intelligence (AI) is crossing over to new markets and brings additional revenues along with it."
-    publishedDateTime: 2022-09-15T18:35:00Z
-    webUrl: "https://menafn.com/1104872865/Artificial-Intelligence-AI-In-Education-Market-Size-Is-Expected-To-Hit-80-Billion-By-2030-Financial-News-Media"
-    type: article
-    provider:
-      name: MENAFN
-      domain: menafn.com
-    quality: 27
   - title: "Artificial Intelligence (AI) in Fintech Market Set to Boom Reaching USD 28.11 Billion by 2028 | BlueWeave Consulting"
     excerpt: "Global Artificial Intelligence (AI) in Fintech Market size is expanding at an impressive growth rate during the forecast period, mainly due to increasing application of the"
     publishedDateTime: 2022-09-16T15:00:00Z
@@ -61,6 +34,17 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 11
+  - title: "Asia-Pacific Digital Payments Market Set to More than Triple Its Size Crossing USD 67 Billion by 2028 | BlueWeave Consulting"
+    excerpt: "Asia-Pacific (APAC) digital payments market is booming owing to convenience of transactions, widespread usage of smartphones, and the financial inclusion opportunities"
+    publishedDateTime: 2022-09-14T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28867535/asia-pacific-digital-payments-market-set-to-more-than-triple-its-size-crossing-usd-67-billion-by-2"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28867535"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28867535"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "HtAPcbZ4ISB/cUf/OgohJufQFqqF5qJfL6Gnhjb3Eje+YG6t6avPUSccTijeuWgpqqDFMeCwP/prpTp9ZCm7xhfwG7oL7zhEdBHR5TsuUtXQdQj3DCwCsL5i6zVJvO/PcQv07gsbMbewkse6zj4PmibnDtSHy8Ic0usS612NEKvm0FPz3j/pCRdFPUEf21/4UWX7VYdVAD4G6R0tQVlpldUDqQl5tlYKTfdG2PvxQisrdvnS8R/Zi1+IrOq92bjKVT2aS5084RzzLaHyxzTKXq2+F6O9wem09qO52DdU6rEbSWeJp0uWebF7mP5t8a0550xfGkX35H+wdspPdj4Lj9WNv/qZn4Sh/d1fVm+o8cAbwYZ91N4cd2J3lnNuUI9HMn3LwgGIS5EmWTpj/x2Im38rnoX4h1N2+gZvuF1LktH9oYIhoRIC2okbRYyX+spC5P4zUf5qVP1LOpfqeuT7vxttvslqpoM9u09MM7SszjW2/R3kUa0hU0vhHcxs1k/iQimpySxzVbFDisxpJ5m5CQ==;W5Wr+Cs++D5Cd1mjlIw/bg=="
 ---
