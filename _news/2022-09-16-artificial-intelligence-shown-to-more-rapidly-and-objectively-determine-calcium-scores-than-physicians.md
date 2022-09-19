@@ -5,9 +5,11 @@ excerpt: "Cardiovascular Imaging shows that artificial intelligence tools can mo
 publishedDateTime: 2022-09-15T18:33:00Z
 originalUrl: "https://medicalxpress.com/news/2022-09-artificial-intelligence-shown-rapidly-calcium.html"
 webUrl: "https://medicalxpress.com/news/2022-09-artificial-intelligence-shown-rapidly-calcium.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-09-artificial-intelligence-shown-rapidly-calcium.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-artificial-intelligence-shown-rapidly-calcium.amp"
 type: article
-quality: 1
-heat: 1
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -16,7 +18,14 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
-secured: "YvnvbmAVw+fnTfxyI2iRk+m57yEYJEQC9A2vpxTtlDgDG3C9UzKuSu5MlywoA85gsuWhsK5x4st5yGnHO77HaHOFYK9NjUVVjAhrWW6qGczHYWzqMtvLti3W8Ngwh5FiT9HDbyFCDknzXSJD0MpH2nsV1vDSW4iS1zKYZuNbjimFR3H51ivWjNnbAVDWVbCBCKoiY2wcsPtQnSpieEMIFqfbybcktLwVBo711eT3D5E9kVkY/L0ouZklXUSTU2pD4W6eqergi0m+h7BeHXDENIaZORZxfw9pFh6PMiQz4sU44H2wCJRERFND/0v1+4XGGsa5gELNahv4zrrzU/YIsd4KPWFHectDzIx9qcEkf9NOO4MZR6oU7z5VyAX14gH8jd0OP05rWgXwc0hXSWEsk7h3HSBvEs0I0WeKaQ83nTZ5LMsRcqQO58Vq5U17fDnkOaQrw0PuATL6SlM24omI+miCbxFW7agMQf0u/g2xZcSyjpIHEr/aJd3HBIeeltEaJWdZIllGOowOdFwIycMd8g==;/IsFquv60y7W1bvupXIgew=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-66.jpg"
+    width: 2880
+    height: 2041
+    isCached: true
+
+secured: "3Wh5Qz4i17zkEZmIu0X/e/8OoyLScd0TBy++vpsXahZi4V2RarRKf4SPC0g8iYAZoq//XMeJHtxsf1rZ90smR84Csaw2z9XDV0Nv8mJzgOlMGZwQnmwj/zl4X4IF/sI7cLOmvQ/DJpoyb7pyFCZmntO5mOThyzgu1f7Mc5fEryTF3OfFkMGRBMkL3qBZinRDhmGuwBg0gPGMqCdDvYVIRCmbRTGw59bBg4WeW+vMhDCibiSdFd+NC2+8Ngmj1c3twz0duQEgEgRILm0hkyjwatnT7lCPSDIw8WwEqmWG0QQE0SAseZ1cCs1hcwMm04W7hZeqcZJD28ZVuHS2EPiv5b8JH6LfzFOrf6/qegjU1uQ=;Igz+B4m08HSa23HNCLlBLw=="
 ---
 

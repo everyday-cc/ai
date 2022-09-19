@@ -7,8 +7,8 @@ originalUrl: "https://www.inc.com/christine-lagorio-chafkin/security-artificial-
 webUrl: "https://www.inc.com/christine-lagorio-chafkin/security-artificial-intelligence-ambient.html"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Inc
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why Artificial Intelligence is Must for Cybersecurity"
-    excerpt: "How can artificial intelligence protect us from devastating cyber attacks? Some cybersecurity companies are already taking advantage of AI for good. Cybersecurity is the practice of protecting electronic information by mitigating information risks and vulnerabilities."
-    publishedDateTime: 2022-09-14T23:29:00Z
-    webUrl: "https://www.hackread.com/why-artificial-intelligence-must-cybersecurity/"
-    type: article
-    provider:
-      name: hackread
-      domain: hackread.com
-    quality: 39
-    images:
-      - url: "https://www.hackread.com/wp-content/uploads/2022/09/why-artificial-intelligence-must-cybersecurity.jpg"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "Now, you can write articles using artificial intelligence tool, like this"
     excerpt: "The most compelling part of this article is that it has been entirely written by an Artificial Intelligence bot, OpenAI Playground, only by providing simple prompts. Though the author has edited the article,"
     publishedDateTime: 2022-09-17T12:30:00Z

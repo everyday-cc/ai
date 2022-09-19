@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Case for Resisting Self-Driving Cars"
+    excerpt: "No charge. Last week, NR played host to a lively debate about self-driving cars. It began with Luther Abel rejecting (with limited exceptions) Jordan McGillis’s praise of autonomous vehicles."
+    publishedDateTime: 2022-09-17T22:55:00Z
+    webUrl: "https://www.nationalreview.com/corner/the-case-for-resisting-self-driving-cars/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 24
+    images:
+      - url: "https://www.nationalreview.com/wp-content/uploads/2017/12/autonomous-vehicles-will-spark-government-efforts-ban-driving-uber-1.jpg?fit=2057%2C1200"
+        width: 2057
+        height: 1200
+        isCached: true
   - title: "Fully autonomous cars are still an impossible dream, experts say"
     excerpt: "It is widely hoped that autonomous vehicles will one day make our roads a much safer place, but it’s not as simple as that, experts say."
     publishedDateTime: 2022-09-16T04:30:00Z

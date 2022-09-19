@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/09/15/sambanova_ai_chip_nvidia/
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/09/15/sambanova_ai_chip_nvidia/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tech war: China chip veteran says Nvidia is hard to replace in artificial intelligence, urges start-ups to catch up"
-    excerpt: "Nvidia supplies 95 per cent of general-purpose GPUs in AI training systems, said Lu Jianping of Shanghai-based chip rival Iluvatar Corex."
-    publishedDateTime: 2022-09-14T23:59:00Z
-    webUrl: "https://www.scmp.com/tech/tech-trends/article/3192500/tech-war-china-chip-veteran-says-nvidia-hard-replace-artificial?module=live&pgtype=homepage"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 62
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/09/14/c9acacd4-5f23-45a7-97e6-4097ddc012b8_9aca877b.jpg?itok=EAUhe_OV&v=1663157643"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tech war: China chip veteran says Nvidia is hard to replace in artificial intelligence, urges start-ups to catch up"
     excerpt: "Nvidia has a near monopoly on graphics processing units (GPUs) used to train artificial intelligence (AI), a chip expert at the country’s leading rival to the Californian tech giant said on ..."
     publishedDateTime: 2022-09-16T15:27:00Z

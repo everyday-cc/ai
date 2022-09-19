@@ -2,6 +2,92 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-07-08-synthetic-datas-potential-impact-on-the-future-of-artificial-intelligence-modeling.md",
+      "title": "Synthetic Data’s Potential Impact on the Future of Artificial Intelligence Modeling",
+      "excerpt": "While synthetic data can be collected via sensors and through images, videos or audio, just as real data is collected, Ali Jahanian, a former research scientist at the MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL),",
+      "sourceUrl": null,
+      "webUrl": "https://edtechmagazine.com/higher/article/2022/07/synthetic-datas-potential-impact-future-artificial-intelligence-modeling",
+      "originalUrl": "https://edtechmagazine.com/higher/article/2022/07/synthetic-datas-potential-impact-future-artificial-intelligence-modeling",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-08T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EdTech",
+        "domain": "edtechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-artificial-intelligence-in-insurtech-market-size-from-2022-to-2028-and-unlimited-opportunities-for-new-companies.md",
+      "title": "Artificial Intelligence In Insurtech Market Size From 2022 To 2028 And Unlimited Opportunities for New Companies",
+      "excerpt": "The global \" Artificial Intelligence In Insurtech market \" is projected to register healthy growth during the forecast period 2022 to 2028. It offers an in-depth examination of the factors influencing market growth;",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-insurtech-market-size-from-2022-to-2028-and-unlimited-opportunities-for-new-companies-2022-07-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-insurtech-market-size-from-2022-to-2028-and-unlimited-opportunities-for-new-companies-2022-07-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-feature-engineering-at-scale-for-healthcare-and-life-sciences-with-amazon-sagemaker-data-wrangler.md",
       "title": "Feature engineering at scale for healthcare and life sciences with Amazon SageMaker Data Wrangler",
       "excerpt": "Machine learning (ML) is disrupting a lot of industries at an unprecedented pace. The healthcare and life sciences (HCLS) industry has been going through a rapid evolution in recent years embracing ML across a multitude of use cases for delivering quality care and improving patient outcomes. In a typical",
@@ -1232,101 +1318,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-ai-disrupting-the-healthcare-sector-whats-missing-in-the-indian-healthcare-system.md",
-      "title": "AI disrupting the healthcare sector: What’s missing in the Indian Healthcare system?",
-      "excerpt": "In healthcare, artificial intelligence is becoming increasingly sophisticated at performing what humans do, but more cost-effectively and time-efficiently. AI’s potential in healthcare is enormous, becoming an increasingly important element of the healthcare ecosystem.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-disrupting-the-healthcare-sector-whats-missing-in-the-indian-healthcare-system/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-disrupting-the-healthcare-sector-whats-missing-in-the-indian-healthcare-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/75433510.cms",
-          "width": 330,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-disrupting-the-healthcare-sector-whats-missing-in-the-indian-healthcare-system/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-disrupting-the-healthcare-sector-whats-missing-in-the-indian-healthcare-system/",
-      "publishedDateTime": "2022-06-29T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-a-modern-day-revolution-how-ai-could-transform-the-healthcare-industry.md",
-      "title": "A modern-day revolution: How AI could transform the healthcare industry",
-      "excerpt": "Hear from senior executives at some of the world’s leading enterprises about their experience with applied Data & AI and the strategies they’ve adopted for success. We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/03/a-modern-day-revolution-how-ai-could-transform-the-healthcare-industry/",
-      "originalUrl": "https://venturebeat.com/2022/07/03/a-modern-day-revolution-how-ai-could-transform-the-healthcare-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1251551899-e1642523643912.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/03/a-modern-day-revolution-how-ai-could-transform-the-healthcare-industry/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/03/a-modern-day-revolution-how-ai-could-transform-the-healthcare-industry/amp/",
-      "publishedDateTime": "2022-06-28T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

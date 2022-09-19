@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 related:
   - title: "Our commitment on using AI to accelerate progress on global development goals"

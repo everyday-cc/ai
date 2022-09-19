@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Spotflock signs MoU with INCOIS to work on ocean info"
+    excerpt: "Spotflock Technologies Private Ltd., a technology company, said it has signed an MoU with the Indian National Centre for Ocean Information Services (INCOIS) for promoting ocean information and advisory services by applying ‘deep tech’ to increase the accuracy in predicting outcomes in various industries."
+    publishedDateTime: 2022-09-19T16:47:00Z
+    webUrl: "https://www.thehindu.com/business/spotflock-signs-mou-with-incois-to-work-on-ocean-info/article65911197.ece"
+    ampWebUrl: "https://www.thehindu.com/business/spotflock-signs-mou-with-incois-to-work-on-ocean-info/article65911197.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/spotflock-signs-mou-with-incois-to-work-on-ocean-info/article65911197.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 44
+    images:
+      - url: "https://www.thehindu.com/theme/images/amp-og-image.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "Spotflock Tech signs MoU with INCOIS for ocean info"
     excerpt: "The MoU amis for the developing a collaborative framework and deep technology applications in the domains of ocean science is for classifying and tracking species in Indian Ocean and identifying poten"
     publishedDateTime: 2022-09-19T15:14:00Z

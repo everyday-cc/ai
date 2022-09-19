@@ -2,6 +2,101 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2022-08-22-small-combat-robots-pack-a-punch-in-antweight-division.md",
+      "title": "Small Combat Robots Pack A Punch In Antweight Division",
+      "excerpt": "In combat robotics, contenders generally maneuver their remote-controlled machines to pin or immobilize their opponent. This can happen as a result of damaging them to the point that they stop ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2022/08/22/small-combat-robots-pack-a-punch-in-antweight-division/",
+      "originalUrl": "https://hackaday.com/2022/08/22/small-combat-robots-pack-a-punch-in-antweight-division/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2022/08/AWS64-Robots.jpg",
+          "width": 4522,
+          "height": 2544,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-21T19:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-22-ai-holdings-shares-rise-sharply-after-fiscal-year-net-profit-jump.md",
+      "title": "Ai Holdings Shares Rise Sharply After Fiscal-Year Net Profit Jump",
+      "excerpt": "By Kosaku Narioka Ai Holdings Corp. shares rose sharply Monday morning after the Japanese security-equipment company posted a 32% jump in fiscal-year",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/ai-holdings-shares-rise-sharply-after-fiscal-year-net-profit-jump-271661133332",
+      "originalUrl": "https://www.marketwatch.com/story/ai-holdings-shares-rise-sharply-after-fiscal-year-net-profit-jump-271661133332",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/ai-holdings-shares-rise-sharply-after-fiscal-year-net-profit-jump-271661133332",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-holdings-shares-rise-sharply-after-fiscal-year-net-profit-jump-271661133332",
+      "publishedDateTime": "2022-08-21T18:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-22-google-ai-flagged-parents-accounts-for-potential-abuse-over-nude-photos-of-their-sick-kids.md",
       "title": "Google AI flagged parents’ accounts for potential abuse over nude photos of their sick kids",
       "excerpt": "In 2018, Google announced the launch of its Content Safety API AI toolkit that can “proactively identify never-before-seen CSAM imagery so it can be reviewed and, if confirmed as CSAM, removed and reported as quickly as possible.” It uses the tool for ...",
@@ -1077,100 +1172,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-20-best-bitcoin-robot-2022-cheapest-robots-revealed.md",
-      "title": "Best Bitcoin Robot 2022 – Cheapest Robots Revealed",
-      "excerpt": "In terms of how Bitcoin Prime functions, the platform claims that the robot is governed by artificial intelligence (AI) and machine learning. Finally, Bitcoin Prime does not charge any fees.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business2community.com/cryptocurrency/bitcoin-robots",
-      "originalUrl": "https://www.business2community.com/cryptocurrency/bitcoin-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.business2community.com/B2C_FB.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-20T01:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business 2 Community",
-        "domain": "business2community.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-20-are-you-making-these-deadly-mistakes-with-your-ai-projects.md",
-      "title": "Are You Making These Deadly Mistakes With Your AI Projects?",
-      "excerpt": "You need enough, but not too much. “Goldilocks data” is what people often say: not too much, not too little, but just right. Unfortunately, far too often, organizations are jumping into AI projects without first addressing an understanding of their data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/20/are-you-making-these-deadly-mistakes-with-your-ai-projects/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/20/are-you-making-these-deadly-mistakes-with-your-ai-projects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62ffdc7f74be310fb95f25ec/0x0.jpg?format=jpg&crop=3000,1689,x0,y74,safe&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/20/are-you-making-these-deadly-mistakes-with-your-ai-projects/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/08/20/are-you-making-these-deadly-mistakes-with-your-ai-projects/amp/",
-      "publishedDateTime": "2022-08-19T22:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

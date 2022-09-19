@@ -2,6 +2,109 @@
   "page": 140,
   "value": [
     {
+      "path": "_news/2022-06-01-googles-massive-language-translation-work-identifies-where-it-goofs-up.md",
+      "title": "Google's massive language translation work identifies where it goofs up",
+      "excerpt": "For low-resource languages such as kalaallisut and Fula, a big effort to find out what is lost in translation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/googles-massive-language-translation-work-identifies-where-it-goofs-up/",
+      "originalUrl": "https://www.zdnet.com/article/googles-massive-language-translation-work-identifies-where-it-goofs-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/139ace89f7e872d7780a9232cf7c9507f505a04e/2022/06/01/aaee0f3c-fa3b-4649-92ea-b6c077ec2e32/c201c7dd-7cfe-44db-8c07-bb63391efdce.png?width=1200&fit=bounds&format=pjpg&auto=webp",
+          "width": 1200,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-massive-language-translation-work-identifies-where-it-goofs-up/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-massive-language-translation-work-identifies-where-it-goofs-up/",
+      "publishedDateTime": "2022-05-31T19:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-chick-fil-a-taps-refraction-ai-for-autonomous-delivery-pilot.md",
+      "title": "Chick-fil-A taps Refraction AI for autonomous delivery pilot",
+      "excerpt": "The deal with Chick-fil-A is part of tests Refraction is running to understand how it could serve quick service restaurants by maximizing profitability/effectiveness of robotic delivery",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/31/chick-fil-a-taps-refraction-ai-for-autonomous-delivery-pilot/",
+      "originalUrl": "https://techcrunch.com/2022/05/31/chick-fil-a-taps-refraction-ai-for-autonomous-delivery-pilot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/SoCo_5.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/31/chick-fil-a-taps-refraction-ai-for-autonomous-delivery-pilot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/31/chick-fil-a-taps-refraction-ai-for-autonomous-delivery-pilot/amp/",
+      "publishedDateTime": "2022-05-31T17:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-01-gretel-keeps-the-data-trail-hidden.md",
       "title": "Gretel Keeps the Data Trail Hidden",
       "excerpt": "In the financial services area, Gretel often helps companies identify ... do we augment our existing real world customer data with synthetic data to help my machine learning algorithms do better.”",
@@ -1006,81 +1109,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-refraction-ai-tests-autonomous-delivery-at-two-chick-fil-a-restaurants-in-austin-tx.md",
-      "title": "Refraction AI Tests Autonomous Delivery at Two Chick-fil-A® Restaurants in Austin, TX",
-      "excerpt": "Self-driving robots provide energy-efficient meal delivery to guests' front door. AUSTIN, Texas, May 31, 2022 /PRNewswire/ -- Refraction AI, a last-mile, autonomous robot delivery",
-      "sourceUrl": null,
-      "webUrl": "https://www.texomashomepage.com/business/press-releases/cision/20220531DA73589/refraction-ai-tests-autonomous-delivery-at-two-chick-fil-a-restaurants-in-austin-tx/",
-      "originalUrl": "https://www.texomashomepage.com/business/press-releases/cision/20220531DA73589/refraction-ai-tests-autonomous-delivery-at-two-chick-fil-a-restaurants-in-austin-tx/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TexomasHomepage.com",
-        "domain": "texomashomepage.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-earnings-outlook-for-c3ai.md",
-      "title": "Earnings Outlook For C3.ai",
-      "excerpt": "C3.ai AI is set to give its latest quarterly earnings report on Wednesday, 2022-06-01. Here's what investors need to know before the announcement. Analysts estimate that C3.ai will report an earnings per share (EPS) of $-0.29. C3.ai bulls will hope to hear ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/earnings/22/05/27474736/earnings-outlook-for-c3-ai",
-      "originalUrl": "https://www.benzinga.com/news/earnings/22/05/27474736/earnings-outlook-for-c3-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2022/ep_us_feature_image_3296.jpeg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27474736",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27474736",
-      "publishedDateTime": "2022-05-31T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

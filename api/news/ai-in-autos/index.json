@@ -112,7 +112,7 @@
       "originalUrl": "https://electrek.co/2022/09/16/tesla-full-self-driving-beta-10-69-first-drive-fail/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 234,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -197,6 +197,49 @@
         "Machine Learning",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-using-artificial-intelligence-to-improve-tuberculosis-treatments.md",
+      "title": "Using artificial intelligence to improve tuberculosis treatments",
+      "excerpt": "Imagine you have 20 new compounds that have shown some effectiveness in treating a disease like tuberculosis (TB), which affects 10 million people worldwide and kills 1.5 million each year.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.html",
+      "originalUrl": "https://phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/using-artificial-intel-9.jpg",
+          "width": 2880,
+          "height": 2225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.amp",
+      "publishedDateTime": "2022-09-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1143,41 +1186,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-10-artificial-intelligence-is-now-used-to-track-down-hate-speech.md",
-      "title": "Artificial intelligence is now used to track down hate speech",
-      "excerpt": "Meta took action on more than 15 million pieces of hate speech content on Facebook. Roughly 95% of that was detected proactively by Facebook with the help of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wxyz.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech",
-      "originalUrl": "https://www.wxyz.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-09T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WXYZ",
-        "domain": "wxyz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2022-09-10-eu-ai-acts-possible-open-source-regulation-sparks-twitter-debate.md",
       "title": "EU AI Act’s possible open-source regulation sparks Twitter debate",
       "excerpt": "Alex Engler never expected his Brookings article about the EU’s attempt to regulate open-source AI to stir up Twitter debate.",
@@ -1227,6 +1235,49 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-10-artificial-intelligence-is-now-used-to-track-down-hate-speech.md",
+      "title": "Artificial intelligence is now used to track down hate speech",
+      "excerpt": "One fix that social media companies and other online networks have relied on is artificial intelligence—to varying degrees of success. For companies with giant user bases, like Meta, artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wxyz.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech",
+      "originalUrl": "https://www.wxyz.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newsy.com/images/videos/m/1660250991_F4WYcV.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wxyz.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true",
+      "cdnAmpWebUrl": "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true",
+      "publishedDateTime": "2022-09-09T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WXYZ",
+        "domain": "wxyz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1322,60 +1373,6 @@
       "topics": [
         "AI in Healthcare",
         "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-artificial-intelligence-and-the-future-of-marketing.md",
-      "title": "Artificial Intelligence And The Future Of Marketing",
-      "excerpt": "Artificial intelligence is currently transforming marketing. Here, we look at the most exciting opportunities when it comes to using AI in marketing and explore where they are already being tapped.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intelligence-and-the-future-of-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intelligence-and-the-future-of-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/631ac44c2dd319e54f3d1994/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intelligence-and-the-future-of-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/09/09/artificial-intelligence-and-the-future-of-marketing/amp/",
-      "publishedDateTime": "2022-09-08T21:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "AI in Healthcare",
         "AI in Autos"
       ]
     }

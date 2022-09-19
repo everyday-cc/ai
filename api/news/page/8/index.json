@@ -2,6 +2,83 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-09-09-teen-scientists-set-for-swiss-robotics-contest.md",
+      "title": "Teen scientists set for Swiss robotics contest",
+      "excerpt": "It is being controlled by java coding language keyed on a driver hub and a gaming pad that controls its different functions. Building, or rather, assembling robots is all fun and games to bring ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.the-star.co.ke/sasa/lifestyle/2022-09-09-teen-scientists-set-for-swiss-robotics-contest/",
+      "originalUrl": "https://www.the-star.co.ke/sasa/lifestyle/2022-09-09-teen-scientists-set-for-swiss-robotics-contest/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-08T20:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "the-star.co.ke",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-poor-periodontal-health-linked-to-cognitive-decline-dementia.md",
+      "title": "Poor Periodontal Health Linked to Cognitive Decline, Dementia",
+      "excerpt": "THURSDAY, Sept. 8, 2022 (HealthDay News) -- Poor periodontal health and tooth loss are associated with increased risks for cognitive decline and dementia, according to a review published online Sept.",
+      "sourceUrl": null,
+      "webUrl": "https://journalstar.com/lifestyles/health-med-fit/poor-periodontal-health-linked-to-cognitive-decline-dementia/article_a2eb218e-9904-5944-98ad-ad712bb4dd32.html",
+      "originalUrl": "https://journalstar.com/lifestyles/health-med-fit/poor-periodontal-health-linked-to-cognitive-decline-dementia/article_a2eb218e-9904-5944-98ad-ad712bb4dd32.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/b/80/b8048e2b-a168-5074-ab2b-c2034fb52437/631a909434446.image.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://journalstar.com/lifestyles/health-med-fit/poor-periodontal-health-linked-to-cognitive-decline-dementia/article_a2eb218e-9904-5944-98ad-ad712bb4dd32.amp.html",
+      "cdnAmpWebUrl": "https://journalstar-com.cdn.ampproject.org/c/s/journalstar.com/lifestyles/health-med-fit/poor-periodontal-health-linked-to-cognitive-decline-dementia/article_a2eb218e-9904-5944-98ad-ad712bb4dd32.amp.html",
+      "publishedDateTime": "2022-09-08T18:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lincoln Journal Star",
+        "domain": "journalstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-09-neural-magics-sparsity-nvidias-hopper-and-alibabas-network-among-firsts-in-latest-mlperf-ai-benchmarks.md",
       "title": "Neural Magic's sparsity, Nvidia's Hopper, and Alibaba's network among firsts in latest MLPerf AI benchmarks",
       "excerpt": "The latest benchmark tests of chips for AI showed new approaches to dealing with ever-increasing scale, including clusters of machines, and sparsity, the pruning of neural nets to make them more efficient.",
@@ -1061,111 +1138,6 @@
         "AI Hardware",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-uber-eats-and-nuro-sign-a-10-year-deal-to-do-robot-food-delivery-in-california-and-texas.md",
-      "title": "Uber Eats and Nuro sign a 10-year deal to do robot food delivery in California and Texas",
-      "excerpt": "Uber Eats customers in California and Texas may soon have their takeout delivered by a driverless delivery pod after the company signed a 10-year deal with autonomous driving startup Nuro.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/9/8/23339830/uber-eats-nuro-robot-delivery-ten-year-deal-california-texas",
-      "originalUrl": "https://www.theverge.com/2022/9/8/23339830/uber-eats-nuro-robot-delivery-ten-year-deal-california-texas",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/nep91_Q5GehtWtA_U2f1dgxLzNk=/0x0:2000x1125/1200x628/filters:focal(1000x563:1001x564)/cdn.vox-cdn.com/uploads/chorus_asset/file/24002511/Uber_Nuro_image_1.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-combatting-drug-diversion-with-artificial-intelligence.md",
-      "title": "Combatting Drug Diversion With Artificial Intelligence",
-      "excerpt": "One that became exasperated by the hardships of Covid-19 and led to over 200,000 deaths in 2020 and 2021 combined: drug abuse. Despite being on a steady decline since 2017, overdoses increased 30% from 2019 to 2020 and 15% from 2020 to 2021,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/08/combatting-drug-diversion-with-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/08/combatting-drug-diversion-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6318a188a51d94a606213eba/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/08/combatting-drug-diversion-with-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/08/combatting-drug-diversion-with-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-09-08T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

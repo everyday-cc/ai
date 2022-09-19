@@ -2,6 +2,84 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2022-08-30-nec-recognised-as-one-of-the-top-10-champions-in-ai-ethics-governance-certification.md",
+      "title": "NEC recognised as one of the Top 10 Champions in AI Ethics & Governance Certification",
+      "excerpt": "The SCS is a leading tech society for industry professionals in Singapore, and in 2020, received support from IMDA to develop the world's first AI Ethics Body of Knowledge in anticipation of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/nec-recognised-one-top-10-champions-ai-ethics-governance-certification",
+      "originalUrl": "https://www.asiaone.com/business/nec-recognised-one-top-10-champions-ai-ethics-governance-certification",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T23:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-making-machine-learning-available-to-everyone-story-of-bigml.md",
+      "title": "Making Machine Learning Available to Everyone: Story of BigML",
+      "excerpt": "BigML allows you to build machine learning and deep learning models without the need for any coding. In an exclusive conversation with Analytics India Magazine, Atakan Cetinsoy, vice president, Predictive Applications at BigML, explained, “Our mission ...",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/making-machine-learning-available-to-everyone-story-of-bigml/",
+      "originalUrl": "https://analyticsindiamag.com/making-machine-learning-available-to-everyone-story-of-bigml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/export-BIGML_USERNAMEmy_name-export-BIGML_API_KEY123456789-export-BIGML_AUTHusernameBIGML_USERNAMEapi_keyBIGML_API_KEY.jpg",
+          "width": 2240,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T21:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-speech-and-voice-recognition-market-size-2022-2029-industry-trends-share-growth-swot-analysis-market-drivers.md",
       "title": "Speech and Voice Recognition Market Size [2022-2029] Industry Trends, Share, Growth, SWOT Analysis, Market Drivers",
       "excerpt": "The global speech and voice recognition market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 19.8% during the forecast period, to Reach USD 28.3 Billion by 2026, from USD 6.9 ...",
@@ -1073,104 +1151,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-aitxs-subsidiary-robotic-assistance-devices-introduces-rio-a-portable-solar-powered-security-solution.md",
-      "title": "AITX’s Subsidiary Robotic Assistance Devices Introduces RIO, a Portable Solar-Powered Security Solution",
-      "excerpt": "Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX), today announced that its wholly owned subsidiary, Robotic Assistance Devices, Inc. (RAD) has introduced RIO™, a portable, solar-powered security solution.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-robotics-artificial-intelligence-climate-and-environment-c733679ccdeb70c71283dbba1b178a4e",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-robotics-artificial-intelligence-climate-and-environment-c733679ccdeb70c71283dbba1b178a4e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T05:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-will-untether-ais-speedai240-boqueria-inferencing-chip-be-the-one.md",
-      "title": "Will Untether AI’s SpeedAI240 “Boqueria” Inferencing Chip Be “The One”?",
-      "excerpt": "One of the latest AI/ML chips to appear was revealed at last week’s Hot Chips 34 conference. Untether AI’s founder Martin Snelgrove and VP of Product Bob Beachler rolled out their company’s speedAI chip family,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2022/08/29/is-untether-ais-speedai240-boqueria-inferencing-chip-the-one/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2022/08/29/is-untether-ais-speedai240-boqueria-inferencing-chip-the-one/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/630c2f17dc25910550390ffe/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2022/08/29/is-untether-ais-speedai240-boqueria-inferencing-chip-the-one/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2022/08/29/is-untether-ais-speedai240-boqueria-inferencing-chip-the-one/amp/",
-      "publishedDateTime": "2022-08-29T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "Natural Language Processing"
       ]
     }
   ],

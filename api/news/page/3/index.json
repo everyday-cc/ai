@@ -2,61 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-09-15-perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans.md",
-      "title": "Perceptron: AI that lights up the moon, improvises grammar and teaches robots to walk like humans",
-      "excerpt": "In this edition of Perceptron, TechCrunch's semiregular review of AI research, we take a look at cutting-edge robotics, moon-scanning tech, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/14/perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans/",
-      "originalUrl": "https://techcrunch.com/2022/09/14/perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1160995648.jpg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/14/perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/14/perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans/amp/",
-      "publishedDateTime": "2022-09-14T17:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "Computer Vision",
-        "Google AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2022-09-15-chinas-most-advanced-ai-image-generator-already-blocks-political-content.md",
       "title": "China’s most advanced AI image generator already blocks political content",
       "excerpt": "ViLG, censors political text such as \"Tiananmen Square\" or names of political leaders, reports Zeyi Yang for MIT Technology Review. Image synthesis has proven popular (and controversial) recently on social media and in online art communities.",
@@ -701,6 +646,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-14-artificial-intelligence-in-healthcare-market-is-expected-to-undergo-a-cagr-of-5137-by-2029.md",
+      "title": "Artificial Intelligence In Healthcare Market Is Expected To Undergo A CAGR Of 51.37% By 2029",
+      "excerpt": "Artificial Intelligence in Healthcare market would rocket up to USD 175.22 billion by 2029 PUNE, MAHARASHTRA, INDIA, September 14, 2022 /EINPresswire.com / -- A systematic discussion in the top ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104863364/Artificial-Intelligence-In-Healthcare-Market-Is-Expected-To-Undergo-A-CAGR-Of-5137-By-2029",
+      "originalUrl": "https://menafn.com/1104863364/Artificial-Intelligence-In-Healthcare-Market-Is-Expected-To-Undergo-A-CAGR-Of-5137-By-2029",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-09/14/EP_be8c9image_story.jpeg",
+          "width": 600,
+          "height": 314,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MENAFN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-10-years-later-deep-learning-revolution-rages-on-say-ai-pioneers-hinton-lecun-and-li.md",
       "title": "10 years later, deep learning ‘revolution’ rages on, say AI pioneers Hinton, LeCun and Li",
       "excerpt": "On the 10th anniversary of key research that led to deep learning breakthroughs, AI luminaries say the 'revolution' will continue.",
@@ -1089,6 +1077,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-14-using-artificial-intelligence-to-improve-tuberculosis-treatments.md",
+      "title": "Using artificial intelligence to improve tuberculosis treatments",
+      "excerpt": "Imagine you have 20 new compounds that have shown some effectiveness in treating a disease like tuberculosis (TB), which affects 10 million people worldwide and kills 1.5 million each year.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.html",
+      "originalUrl": "https://phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/using-artificial-intel-9.jpg",
+          "width": 2880,
+          "height": 2225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.amp",
+      "publishedDateTime": "2022-09-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-dynatrace-ceo-rick-mcconnell-on-why-observability-matters-and-how-its-unique.md",
       "title": "Dynatrace CEO, Rick McConnell, On Why Observability Matters And How Its Unique",
       "excerpt": "Ranked Industry Analyst Patrick Moorhead dives into a recent conversation with Rick McConnell, Dynatrace CEO. Now, Rick has software that purports to avert the doomsday scenario. In this article, Patrick discusses why observability has become so important.",
@@ -1137,57 +1168,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-how-ai-is-being-developed-at-opm-for-cybersecurity-threats.md",
-      "title": "How AI is Being Developed at OPM for Cybersecurity Threats",
-      "excerpt": "AI in Government event with featured guest speaker Melvin Brown II, Deputy Chief Information Officer in the U.S. Office of Personnel Management and his presentation ‘How… Read More",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/calendar-event/how-ai-is-being-developed-at-opm-for-cybersecurity-threats/",
-      "originalUrl": "https://www.geekwire.com/calendar-event/how-ai-is-being-developed-at-opm-for-cybersecurity-threats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2022/09/October-2022-AI-in-Gov-Promo-Graphic.png",
-          "width": 1198,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T15:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/news/science/spotflock-tech-sig
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/science/spotflock-tech-signs-mou-with-incois-for-ocean-info/article65910047.ece/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Spotflock signs MoU with INCOIS to work on ocean info"
+    excerpt: "Spotflock Technologies Private Ltd., a technology company, said it has signed an MoU with the Indian National Centre for Ocean Information Services (INCOIS) for promoting ocean information and advisory services by applying ‘deep tech’ to increase the accuracy in predicting outcomes in various industries."
+    publishedDateTime: 2022-09-19T16:47:00Z
+    webUrl: "https://www.thehindu.com/business/spotflock-signs-mou-with-incois-to-work-on-ocean-info/article65911197.ece"
+    ampWebUrl: "https://www.thehindu.com/business/spotflock-signs-mou-with-incois-to-work-on-ocean-info/article65911197.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/spotflock-signs-mou-with-incois-to-work-on-ocean-info/article65911197.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 44
+    images:
+      - url: "https://www.thehindu.com/theme/images/amp-og-image.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "Spotflock signs MOU with INCOIS to build deep tech based offerings in weather prediction blue revolution and global environmental sustainability"
     excerpt: "Spotflock Technologies Private Limited, a deep tech company which specializes in AI, machine learning, and natural language processing, has signed an MOU with Indian National Center for Ocean Information Services (INCOIS) forpromoting ocean information and advisory services by applying deep tech to increase the accuracy in predicting outcomes in various industries."
     publishedDateTime: 2022-09-19T12:33:00Z
@@ -37,6 +53,6 @@ related:
       domain: theweek.in
     quality: 0
 
-secured: "Wp4XJ09kYnic0S+kW0njvxNz65COSz7W3RgjUBtWLrk6OLeIO5nBUx9jnC0Nu91siNftiCsD7HCjP1xTbR4CSmn84r99KOnJ8IyqkJ+g0B80xJotTRA7Bu3bGTWkQWXbXwI8scN6ZNpaQ+A/muQarOqcWJgdKN+HrXeLuiNojb8TLdr1zZWmjynw2Wum9m5n+9qYXHOWPwDImIRHhSQeZ3wYvbODA434pVyIqZDHpZTWQd40QqSGM3kIHi9wee+oBcTSdYotTHY0fJFtd+FY7uiFr3+WBo+E2J3ZNpGz2rEeRgxG6RtQPjNBwvELBmjMOmkRG/knRl7LZb5WlwIrJQLIWJCwywhNRmtM+Cr58zg=;mac2Jd8CEOOZmEMsNyOAYw=="
+secured: "TvePJbB9OJ1DaY4/4+sCSkcaudCGsNN9vIgTsvCvB666T4h5djpwVKkIxm8NcEDvOHLfUIjlNrt1a1CpIWr/D1sj2Amn7WsU/0GLSo6cY7KIeZyHCSD7qmIZJtvbvcSZkzlsxUDBSI0DUIH2SdIiM81fEUNm3qty8/GiFreOeRUCvWUzG9YRGt9/9FIBh+neVAhC44LrjESoR0uYfFWuZapjRBChmMfbLvxBdx+bjIuxsOPHkb4qvtysxlzO6Cn7DAcj+kuDjMxyd07zTBmHZwcnQBxrMvhgbssoUE7G2rtqDAOYZj9m0mdH5+THfBUMyGF+jvCwogb7VPxQZycvHjH60c0axAeKPbZFFw2wLdXV3QdtpWAMsORZjR8M52335bypKweZui8wzCTU3G98fvzKl98EURwvDbUgdvkZb2ViMF1Y1WHIMZKTB2vIERn8CbmRWmn0BflpwmMU7Edv6jDBHcgklqxAIokl2rwDwijoJcn7dQ6PaBvZvJZxqo/xx9gED1oGfMNfqZR1oW/9EQ==;IdDoCrxlUAzKnl1PDqgy0w=="
 ---
 

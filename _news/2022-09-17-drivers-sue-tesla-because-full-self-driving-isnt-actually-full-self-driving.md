@@ -105,22 +105,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Tesla sued over Autopilot, Full Self-Driving claims"
-    excerpt: "Tesla was sued Wednesday in a proposed class action accusing it and Elon Musk of falsely advertising its Autopilot and Full Self-Driving features."
-    publishedDateTime: 2022-09-14T23:22:00Z
-    webUrl: "https://www.autoblog.com/2022/09/14/tesla-lawsuit-autopilot-full-self-driving/"
-    ampWebUrl: "https://www.autoblog.com/amp/2022/09/14/tesla-lawsuit-autopilot-full-self-driving/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/09/14/tesla-lawsuit-autopilot-full-self-driving/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 74
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2020-10/0380b6e0-05a2-11eb-85db-415ddea8ac97"
-        width: 1062
-        height: 597
-        isCached: true
   - title: "Tesla drivers sue over alleged false Autopilot, Full Self-Driving claims"
     excerpt: "Class-action suit says tech \"just around the corner\" doesn't actually exist, and was just used to drum up sales Tesla was sued on Wednesday in a proposed class action accusing Elon Musk’s electric car company of misleading the public by falsely advertising its Autopilot and Full Self-Driving features."
     publishedDateTime: 2022-09-15T14:58:00Z
@@ -136,22 +120,6 @@ related:
       - url: "https://smartcdn.gprod.postmedia.digital/driving/wp-content/uploads/2022/02/Tesla-wall-connector-EV-charger-plug-cable-home-garage.png"
         width: 1800
         height: 1200
-        isCached: true
-  - title: "Tesla mislead public regarding self-driving technology, lawsuit says"
-    excerpt: "A class action lawsuit filed against Tesla Inc. alleges the auto manufacturer misled the public regarding its Autopilot, Enhanced Autopilot and Full Self-Driving"
-    publishedDateTime: 2022-09-14T23:23:00Z
-    webUrl: "https://www.kron4.com/news/tesla-mislead-public-regarding-self-driving-technology-lawsuit-says/"
-    ampWebUrl: "https://www.kron4.com/news/tesla-mislead-public-regarding-self-driving-technology-lawsuit-says/amp/"
-    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/tesla-mislead-public-regarding-self-driving-technology-lawsuit-says/amp/"
-    type: article
-    provider:
-      name: KRON4
-      domain: kron4.com
-    quality: 59
-    images:
-      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2022/07/e8fa486986d441fda5a6b83c0961e200.jpg?w=1280"
-        width: 1280
-        height: 853
         isCached: true
   - title: "Tesla sued by drivers over alleged false Autopilot, Full Self-Driving claims"
     excerpt: "Tesla Inc was sued on Wednesday in a proposed class action accusing Elon Musk's electric car company of misleading the public by falsely advertising its Autopilot and Full Self-Driving features. The complaint accused Tesla and Musk of having since 2016 deceptively advertised the technology as fully functioning or 'just around the corner' despite knowing that the technology did not work or was nonexistent,"

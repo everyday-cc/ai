@@ -24,17 +24,6 @@ images:
     height: 316
     isCached: true
 
-related:
-  - title: "Profet AI Recognized As A Representative AI Startup by Gartner"
-    excerpt: "Profet AI's AutoML platform can serve as a virtual data scientist for enterprises. With this no-code platform, domain experts without any knowledge in coding can make use of it as well. Enterprises can truly realize \"Citizen AI\" by enabling 80% of the professionals to utilize AI."
-    publishedDateTime: 2022-09-15T00:00:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/09/15/9675127.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-
 secured: "J+IPbQMO2hYO1lhKV3Xiwah49oSsYRNCw15Qz3pzawWtm0UBG7ysf7xD9DfRmcYVkcrmNfa4YJ2isojtIrLiT+hkvXdbPA5Npyk7lLfw2Os2GpOPdBvM3nIUlVFlGWjhstHdAAO/kSfc2wvdwSiKrXAQuB4wTM38NaLc6eJkzRXDahUsr3ncg6nVamlGWhYJuQF70UzHQmixY23tbKiwFpOMTJjZv3zDTbv6QBBNOSZJ6SjQjXMUBPr0juFEBTTUU6CmFn8hECZ4YEfhLqTBUb8o4AzyDX/Li5tHyRPbnwhXiCup3E1WzbF8/e3y7GSeFQAatbnpi9bN4EQlsGjS8uce+pdlam7tWZ7MwKZ26m4tIVCc7ewNisBwgYhpU/F1mGxCV/rf0oxPQLWLCDccLUPIOXqsRAHvTRU9gypp7ogvsEomQV5lBI+RVgw7PH9CASgz3jScebkN6EsebzDaaC7pWM3TJRuKmXNvCZerIqzgQRhB1DVTlXvqQiWWH+mMU8TEZoQZNQqir9MHFHwblA==;zXX29BrCFCvnUbUvv7HhOQ=="
 ---
 

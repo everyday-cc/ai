@@ -2,6 +2,101 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-29-ai-disrupting-the-healthcare-sector-whats-missing-in-the-indian-healthcare-system.md",
+      "title": "AI disrupting the healthcare sector: What’s missing in the Indian Healthcare system?",
+      "excerpt": "In healthcare, artificial intelligence is becoming increasingly sophisticated at performing what humans do, but more cost-effectively and time-efficiently. AI’s potential in healthcare is enormous, becoming an increasingly important element of the healthcare ecosystem.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-disrupting-the-healthcare-sector-whats-missing-in-the-indian-healthcare-system/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-disrupting-the-healthcare-sector-whats-missing-in-the-indian-healthcare-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/75433510.cms",
+          "width": 330,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-disrupting-the-healthcare-sector-whats-missing-in-the-indian-healthcare-system/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-disrupting-the-healthcare-sector-whats-missing-in-the-indian-healthcare-system/",
+      "publishedDateTime": "2022-06-29T02:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-a-modern-day-revolution-how-ai-could-transform-the-healthcare-industry.md",
+      "title": "A modern-day revolution: How AI could transform the healthcare industry",
+      "excerpt": "Hear from senior executives at some of the world’s leading enterprises about their experience with applied Data & AI and the strategies they’ve adopted for success. We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/03/a-modern-day-revolution-how-ai-could-transform-the-healthcare-industry/",
+      "originalUrl": "https://venturebeat.com/2022/07/03/a-modern-day-revolution-how-ai-could-transform-the-healthcare-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1251551899-e1642523643912.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/03/a-modern-day-revolution-how-ai-could-transform-the-healthcare-industry/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/03/a-modern-day-revolution-how-ai-could-transform-the-healthcare-industry/amp/",
+      "publishedDateTime": "2022-06-28T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-14-recent-digital-health-investments.md",
       "title": "14 recent digital health investments",
       "excerpt": "10. H1, a big data startup focused on healthcare, secured a series C extension June 9, bringing the total for the funding round to $123 million. 11. Artificial intelligence healthcare startup ...",
@@ -1289,92 +1384,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-aidoc-raises-110m-to-address-the-increasing-challenges-facing-health-systems-by-using-artificial-intelligence.md",
-      "title": "Aidoc raises $110M to Address the Increasing Challenges Facing Health Systems by Using Artificial Intelligence",
-      "excerpt": "Healthcare leaders face an increasingly tough economic environment and it's going to require that we use technology like artificial intelligence to re-think ways to do business\" says David Shulkin ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wpri.com/business/press-releases/cision/20220616LN91345/aidoc-raises-110m-to-address-the-increasing-challenges-facing-health-systems-by-using-artificial-intelligence/",
-      "originalUrl": "https://www.wpri.com/business/press-releases/cision/20220616LN91345/aidoc-raises-110m-to-address-the-increasing-challenges-facing-health-systems-by-using-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WPRI 12",
-        "domain": "wpri.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-aidoc-an-ai-healthcare-startup-nabs-110-million-expansion-round.md",
-      "title": "Aidoc, an AI Healthcare Startup, Nabs $110 Million Expansion Round",
-      "excerpt": "Company’s software aims to help radiologists spot serious conditions—strokes, lung clots, brain bleeds and others—more quickly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/aidoc-an-ai-healthcare-startup-nabs-110-million-expansion-round-11655373604",
-      "originalUrl": "https://www.wsj.com/articles/aidoc-an-ai-healthcare-startup-nabs-110-million-expansion-round-11655373604",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-565272/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

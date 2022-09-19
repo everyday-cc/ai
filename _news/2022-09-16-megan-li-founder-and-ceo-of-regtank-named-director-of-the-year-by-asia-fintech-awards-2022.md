@@ -24,17 +24,6 @@ images:
     height: 420
     isCached: true
 
-related:
-  - title: "MEGAN LI, FOUNDER AND CEO OF REGTANK, NAMED 'DIRECTOR OF THE YEAR' BY ASIA FINTECH AWARDS 2022"
-    excerpt: "Regtank's CEO, Megan Li, has won the Director of the Year award at the Asia FinTech Awards 2022. Recognised for having a big impact on the organisation and wider FinTech ecosystem, Megan's outstanding entrepreneurship has led to immense growth and fantastic feedback from clients."
-    publishedDateTime: 2022-09-15T00:00:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-megan-li-founder-ceo-regtank-named-director-the-/2022/09/15/9675126.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
 secured: "7jZQLEMVCbDWowOPnU2NOggcXZzsDjYIwxEJ+h1q/wxVyO0QLdeEjhf8fT3kP78X/CalC/BArevHqq3lqaBPtWXIV+huV3zh60+VCiCQG30KltPM8ub8CK4EwzZFbBUTxH6EhalYVRvb51br7eAi/yahQuh4aP9tbgXaWaHXVjT7Q/oqGP1gWrK5q1Zn1UYTBYX8v8bPvQwl5UvyV/aMv1cME4Xj2wcItWX/fQLTIb8+JojgRmcq+Q6RDJtRmU8WcINoyhyp38WZbS9mdIStvLdeP0gqgEf+8rXjfU77MYAtHFRFHyMS4aZ8pgWbuywVhyTrl0UYWaUcPiJnPTyIsVIMOo1GXzX8dBCJCRMnW1k=;qx7JTF9tkYVlaqI/RH8DGw=="
 ---
 

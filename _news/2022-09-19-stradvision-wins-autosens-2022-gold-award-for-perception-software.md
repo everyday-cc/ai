@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/stradvision-wins-a
 webUrl: "https://markets.businessinsider.com/news/stocks/stradvision-wins-autosens-2022-gold-award-for-perception-software-1031751149"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 400
     height: 400
     isCached: true
+
+related:
+  - title: "Stradvision Wins Autosens 2022 Gold Award For Perception Software'"
+    excerpt: "This is the second year in a row where StradVision's SVNet deep-learning based camera perception software has been honored as a top prize"
+    publishedDateTime: 2022-09-19T17:39:00Z
+    webUrl: "https://menafn.com/1104889135/Stradvision-Wins-Autosens-2022-Gold-Award-For-Perception-Software"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2022-09/19/PN_bbd61aa6-2_Image_In_Body.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "ucV+RIWTy3DY/a7zl3OI7o+FN9lCfU/HKOtCzE22e7GyO2dwIlARhfB6ZVgft3tZnAtCml6S141ses4IsIa4lGZCecwtGP/K+Wl3bKo0XjfXl+kFxwHDg0SE7hOVD8ij0EW+KAI4+xz4yx6cvfky7PXMusYGh0GzJsjpap6gOvb6K5XmzNWs5ItJFFravolRUl9uVagxKBFWgO27ebHGI9f2Ob+1E0R2FpOxBeJ/dG/Wb2x0kw3CZCuMJ6I9GKdyIGwFRAFNv1xlMXVf8Uvzl99+0tbPu57yFFysE+r5h07Jqx3g+VYoNCxPZ+mCfjZO1oYScJz40zsw8APpAUOXHtrc5INGVExE5+bCtvwtw1o=;CzoTh9oFqJusuH3jmrEhIQ=="
 ---
