@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-19T13:35:00Z
 originalUrl: "https://www.azorobotics.com/News.aspx?newsID=13252"
 webUrl: "https://www.azorobotics.com/News.aspx?newsID=13252"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Azorobotics

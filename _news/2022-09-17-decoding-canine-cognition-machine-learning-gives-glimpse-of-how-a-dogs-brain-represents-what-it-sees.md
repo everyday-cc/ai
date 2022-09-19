@@ -50,6 +50,15 @@ related:
         width: 1477
         height: 985
         isCached: true
+  - title: "Machine learning gives glimpse of how a dog's brain sees - study"
+    excerpt: "Recent advancements in the fields of machine learning and functional magnetic resonance imaging (fMRI) have helped to decipher visual stimuli in human and nonhuman brains. However, this research, which provides new understandings of the nature of visual perception,"
+    publishedDateTime: 2022-09-19T10:25:00Z
+    webUrl: "https://www.jpost.com/science/article-717496"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 34
 
 secured: "5mfAwXH5uIXtBj2p4tXiDa++moZxQlQdNN/fCBfOwyqunFAmukKC14TyfSBPBybDBx+kTXV3wIkx/QZw/WU22+VvChK9gJMW0xik03/T2Ag67J7MT6kHltTT/v3uoVYpquY5Qr+8YTRUYJY93qLt9dXftFF9xwv895oefRekYCergU7jRjachnL5uEj5rwbWKnZ8dh/KxIPFkWjamaFjVfUXx8dry/J6KrLX6WPvOSBfqjO3CAmxa6dWhcTjQsqoA0p/zp6JFmeMBRXfYHLRGnzdhmdn74Bidgx/7tLCC/YqCRqFGYcC3GcpxpgqQB1bxHuYk49MpRQums9anSUB5QJziMNTvMXSiFKPqTk3WDBuZYvZiir7lxbh4WhJ70Fkl8EuugHpWuLGPJhi9IcG4nLg1bbhj8wvEgrCH6Pzqmkd8JyiF5nlfzPzXXg3ZvZ2qFbuhvm7emJ6RoRU0Jna3xvWNVKPPy8EgRLiPp7Dqh+xc57gNCwVxk8rOKqPbn1Bk2H+xzBJMpAgzp7ldgXRIw==;v7MgjVz5qJMoN4dp6qRUWg=="
 ---

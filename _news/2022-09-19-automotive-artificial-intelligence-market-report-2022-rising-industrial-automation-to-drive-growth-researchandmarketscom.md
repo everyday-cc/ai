@@ -18,29 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "USD 23.61 Bn growth opportunity in Mobile Artificial Intelligence (AI) Market -- Driven by increasing smartphone penetration"
-    excerpt: "The global mobile artificial intelligence market size is expected to grow by USD 23.61 billion between 2021 and 2026, accelerating at a CAGR of 29.06% during the forecast period. The report considers various aspects such as the consumer base,"
-    publishedDateTime: 2022-09-14T19:39:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/14/9673912.htm"
+  - title: "Cognitive Systems Spending Market – Dominance of the Leading Companies Over the Industry 2026"
+    excerpt: "The global cognitive systems spending market is experiencing numerous technological advancements permitted with exceptional features for several industries, especially in the banking sector. Cognitive systems with high-definition technology can help in determining the world’s most composite data analysis difficulties by entering into the complexity of exploiting the power of big data,"
+    publishedDateTime: 2022-09-19T08:23:00Z
+    webUrl: "https://www.fmiblog.com/2022/09/19/cognitive-systems-spending-market-dominance-of-the-leading-companies-over-the-industry-2026/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 27
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 13
     images:
-      - url: "https://mma.prnewswire.com/media/1897570/Technavio_Mobile_Artificial_Intelligence_Market_Infographic.jpg"
-        width: 400
-        height: 225
+      - url: "https://www.fmiblog.com/wp-content/uploads/2022/09/Receiving-Scales-Market-420x300.jpg"
+        width: 420
+        height: 300
         isCached: true
-  - title: "Artificial Intelligence (AI) in Fintech Market Set to Boom Reaching USD 28.11 Billion by 2028 | BlueWeave Consulting"
-    excerpt: "Global Artificial Intelligence (AI) in Fintech Market size is expanding at an impressive growth rate during the forecast period, mainly due to increasing application of the"
-    publishedDateTime: 2022-09-16T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/09/g28898304/artificial-intelligence-ai-in-fintech-market-set-to-boom-reaching-usd-28-11-billion-by-2028-bluewe"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 11
 
 secured: "X1UOz4A6NMqSN4nGI95G0vnbxa80euL5rKwLqBebwRW+zYYiHLZniuYb95I4q75o+jfpDiimaN1yf5OK3dOvLeOtcFcQUoZq+ba5OZr7ABY/DSWx7dlqyDCKvsjeKJghtT5rnD4FtyJIEz2mNVo2KC3LJl41vG1+T0hFsrNo0ingROiswxam4tcbt1I3bEBuPXBLTdICgXa2PCqfFogQC04oBYODxVKil6rDxL2LQ5/ed6367JwfgQtLXH7+kcHnq2J6MTJvFODybzeD7URVyEPJtZHtuFcw1nj8822OHygelyx0Tl5rwzVi7M2vKmuhD8H7kMkbTfgpvyU/C0wyKFYPUH0P8fiTuHGvCbMuEjU=;ZwBiuATxuKtJN5JNpGNnwQ=="
 ---

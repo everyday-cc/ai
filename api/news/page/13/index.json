@@ -2,6 +2,299 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-09-05-preparing-for-future-coronavirus-variants-using-artificial-intelligence.md",
+      "title": "Preparing for future coronavirus variants using artificial intelligence",
+      "excerpt": "SARS-CoV-2 is constantly mutating and each new variant often catches the world by surprise. Take for example the highly mutated omicron variant that emerged last November and required health authorities to develop a rapid response strategy even though,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-09-future-coronavirus-variants-artificial-intelligence.html",
+      "originalUrl": "https://phys.org/news/2022-09-future-coronavirus-variants-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/preparing-for-future-c.jpg",
+          "width": 996,
+          "height": 996,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-09-future-coronavirus-variants-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-future-coronavirus-variants-artificial-intelligence.amp",
+      "publishedDateTime": "2022-09-05T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-05-wipro-ge-healthcare-launches-made-in-india-ai-enabled-cath-lab.md",
+      "title": "Wipro GE Healthcare launches ‘Made in India’ AI-enabled Cath lab",
+      "excerpt": "GE Healthcare, a medical technology, diagnostics, and digital solutions company, launched its ‘Made in India’, ‘AI-powered’ Cath lab-Optima IGS 320 to advance cardiac care in India. It is built at Wipro GE Healthcare’s new Bengaluru factory and leverages the GE proprietary AutoRight technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/companies/wipro-ge-healthcare-launches-made-in-india-ai-enabled-cath-lab/article65853078.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/companies/wipro-ge-healthcare-launches-made-in-india-ai-enabled-cath-lab/article65853078.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bl-i.thgim.com/public/incoming/199ym3/article65853073.ece/alternates/LANDSCAPE_615/Optima%20IGS320%20AI%20cathlab.PNG",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/companies/wipro-ge-healthcare-launches-made-in-india-ai-enabled-cath-lab/article65853078.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/wipro-ge-healthcare-launches-made-in-india-ai-enabled-cath-lab/article65853078.ece/amp/",
+      "publishedDateTime": "2022-09-05T04:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-09-05-ai-won-an-art-contest-and-artists-are-furious.md",
+      "title": "AI won an art contest, and artists are furious",
+      "excerpt": "“AI artwork is the ‘banana taped to the wall’ of the digital world now.” Yet while Allen didn’t use a paintbrush to create his winning piece, there was plenty of work involved, he said.",
+      "sourceUrl": null,
+      "webUrl": "https://localnews8.com/life/technology/2022/09/03/ai-won-an-art-contest-and-artists-are-furious/",
+      "originalUrl": "https://localnews8.com/life/technology/2022/09/03/ai-won-an-art-contest-and-artists-are-furious/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-05T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Local News 8",
+        "domain": "localnews8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-05-ai-generated-painting-wins-art-award-but-everyone-else-is-super-pissed.md",
+      "title": "AI-generated painting wins art award, but everyone else is super pissed",
+      "excerpt": "According to reports, there was a bit of an upheaval at the recently-concluded Colorado State Fair when an art contest held during the event awarded the grand prize to a painting produced by an artificial intelligence (AI) program.",
+      "sourceUrl": null,
+      "webUrl": "https://sea.mashable.com/tech/21298/ai-generated-painting-wins-art-award-but-everyone-else-is-super-pissed",
+      "originalUrl": "https://sea.mashable.com/tech/21298/ai-generated-painting-wins-art-award-but-everyone-else-is-super-pissed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_sea/photo/default/ai-art-wins-award-header_uc3z.620.png",
+          "width": 620,
+          "height": 310,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sea.mashable.com/tech/21298/ai-generated-painting-wins-art-award-but-everyone-else-is-super-pissed?amp=1",
+      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/21298/ai-generated-painting-wins-art-award-but-everyone-else-is-super-pissed?amp=1",
+      "publishedDateTime": "2022-09-05T00:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-05-artificial-intelligence-market-size-2022-share-segmented-by-application-geography-trends-growth-and-forecasts-2025.md",
+      "title": "Artificial Intelligence Market Size 2022 Share, Segmented by Application, Geography Trends, Growth and Forecasts 2025",
+      "excerpt": "The Global Artificial Intelligence market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2025. In 2021, the market is growing at a steady rate and with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/Artificial-Intelligence-Market-Size-2022-Share-Segmented-by-Application-Geography-Trends-Growth-and-Forecasts-2025",
+      "originalUrl": "https://www.digitaljournal.com/pr/Artificial-Intelligence-Market-Size-2022-Share-Segmented-by-Application-Geography-Trends-Growth-and-Forecasts-2025",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-05T00:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-05-server-brands-enhancing-cloud-services-subscription-business-says-digitimes-research.md",
+      "title": "Server brands enhancing cloud services subscription business, says DIGITIMES Research",
+      "excerpt": "As enterprises accelerate their pace of digital transformation and increase the use of cloud services, server brand vendors are keen on expanding their cloud services subscription business in 2022, according to.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20220905VL204.html?chid=2",
+      "originalUrl": "https://www.digitimes.com/news/a20220905VL204.html?chid=2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20220905vl204_files/1_2b.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-05T00:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-05-deep-learning-software-market-size-from-2022-to-2028-and-key-findings-and-segments-by-end-use-industry.md",
+      "title": "Deep Learning Software Market Size From 2022 To 2028 And Key Findings and Segments by End Use Industry",
+      "excerpt": "The \" Deep Learning Software market research report \" delivers a complete overview of key components like drivers, limitations, historic and current trends, technical development, and future growth. The Deep Learning Software market research report contains company analysis,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-software-market-size-from-2022-to-2028-and-key-findings-and-segments-by-end-use-industry-2022-09-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-software-market-size-from-2022-to-2028-and-key-findings-and-segments-by-end-use-industry-2022-09-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-05T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-05-iranian-authorities-plan-to-use-facial-recognition-to-enforce-new-hijab-law.md",
       "title": "Iranian authorities plan to use facial recognition to enforce new hijab law",
       "excerpt": "Government says it will use technology on public transport in crackdown on women’s dress The Iranian government is planning to use facial recognition technology on public transport to identify ...",
@@ -840,355 +1133,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-colorado-state-fair-competition-names-an-unlikely-winner-ai-made-artwork.md",
-      "title": "Colorado State Fair Competition Names An Unlikely Winner: AI-Made Artwork",
-      "excerpt": "The piece saw a storm of criticism this week as onlookers debated the use of artificial intelligence in the arts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/colorado-state-fair-ai-art_n_63106fc4e4b063d5e621ef1a",
-      "originalUrl": "https://www.huffpost.com/entry/colorado-state-fair-ai-art_n_63106fc4e4b063d5e621ef1a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/6312c3a32300001c00b7ea48.jpg?cache=Ya4ddTpBVY&ops=1200_630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.huffpost.com/entry/colorado-state-fair-ai-art_n_63106fc4e4b063d5e621ef1a/amp",
-      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/colorado-state-fair-ai-art_n_63106fc4e4b063d5e621ef1a/amp",
-      "publishedDateTime": "2022-09-03T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-ai-won-an-art-contest-and-artists-are-furious.md",
-      "title": "AI won an art contest, and artists are furious",
-      "excerpt": "Jason M. Allen was almost too nervous to enter his first art competition. Now, his award-winning image is sparking controversy about whether art can be generated by a computer, and what, exactly, it means to be an artist.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/09/03/tech/ai-art-fair-winner-controversy/index.html",
-      "originalUrl": "https://www.cnn.com/2022/09/03/tech/ai-art-fair-winner-controversy/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220902164101-01-thtre-dopra-spatial-ai-generated-art-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/09/03/tech/ai-art-fair-winner-controversy/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/03/tech/ai-art-fair-winner-controversy/index.html",
-      "publishedDateTime": "2022-09-03T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-why-bidens-speech-was-among-the-most-disgusting-speeches-ever-ron-desantis.md",
-      "title": "Why Biden's speech was among 'the most disgusting speeches' ever: Ron DeSantis",
-      "excerpt": "Florida Gov. Ron DeSantis explained why President Biden's Thursday speech was \"one of the most disgusting speeches an American president has ever given\" Friday on \"The Ingraham Angle.\" GOV.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/bidens-speech-most-disgusting-speeches-given-ron-desantis",
-      "originalUrl": "https://www.foxnews.com/media/bidens-speech-most-disgusting-speeches-given-ron-desantis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2022/02/DeSantis-biden.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/bidens-speech-most-disgusting-speeches-given-ron-desantis",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/bidens-speech-most-disgusting-speeches-given-ron-desantis",
-      "publishedDateTime": "2022-09-03T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-taking-a-ride-in-a-driverless-taxi-in-chinas-chongqing.md",
-      "title": "Taking a ride in a driverless taxi in China's Chongqing",
-      "excerpt": "There are five fully driverless Apollo Go robotaxis plying this district in the south-west of Chongqing. Nine others have a human safety driver on board, bringing the total number of the company's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.straitstimes.com/asia/east-asia/taking-a-ride-in-a-driverless-taxi-in-chinas-chongqing",
-      "originalUrl": "https://www.straitstimes.com/asia/east-asia/taking-a-ride-in-a-driverless-taxi-in-chinas-chongqing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/oembed_thumbnails/lz20A5t8HDcTfOpXoiLkFGma6pwXXHM7EbfMgDFx4a0.jpg?VersionId=FQCly_6wttWsRxugHbmmLTAoMs6P.mqX",
-          "width": 860,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-03T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Straits Times",
-        "domain": "straitstimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-unpacking-the-best-top-ten-quotes-about-artificial-intelligence-leveraging-modern-day-ai-ethics-thinking.md",
-      "title": "Unpacking The Best Top Ten Quotes About Artificial Intelligence Leveraging Modern-Day AI Ethics Thinking",
-      "excerpt": "This is a carefully devised set of Top Ten quotes about AI, providing an explanation about each quote and illuminating key insights about the future of AI, doing so with a keen eye toward the latest in AI Ethics thinking.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/09/03/unpacking-the-best-top-ten-quotes-about-artificial-intelligence-leveraging-modern-day-ai-ethics-thinking/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/09/03/unpacking-the-best-top-ten-quotes-about-artificial-intelligence-leveraging-modern-day-ai-ethics-thinking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62d7369da6293b308a7896a2/0x0.jpg?format=jpg&crop=2297,1531,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/09/03/unpacking-the-best-top-ten-quotes-about-artificial-intelligence-leveraging-modern-day-ai-ethics-thinking/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/09/03/unpacking-the-best-top-ten-quotes-about-artificial-intelligence-leveraging-modern-day-ai-ethics-thinking/amp/",
-      "publishedDateTime": "2022-09-03T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-metas-ai-chatbot-hates-mark-zuckerberg-but-does-it-care-about-racism.md",
-      "title": "Meta's AI chatbot hates Mark Zuckerberg - but does it care about racism?",
-      "excerpt": "AI chatbots learn the patterns of our prejudices, biases, preoccupations and anxieties from the linguistic data we supply them with, before paraphrasing them back at us.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/magazines/panache/metas-ai-chatbot-hates-mark-zuckerberg-but-does-it-care-about-racism/articleshow/93968867.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/magazines/panache/metas-ai-chatbot-hates-mark-zuckerberg-but-does-it-care-about-racism/articleshow/93968867.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-17778,msid-93968907/meta.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/magazines/panache/metas-ai-chatbot-hates-mark-zuckerberg-but-does-it-care-about-racism/amp_articleshow/93968867.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/metas-ai-chatbot-hates-mark-zuckerberg-but-does-it-care-about-racism/amp_articleshow/93968867.cms",
-      "publishedDateTime": "2022-09-03T03:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-why-do-we-keep-repeating-the-same-mistakes-on-ai.md",
-      "title": "Why Do We Keep Repeating The Same Mistakes On AI?",
-      "excerpt": "Artificial intelligence has been on the horizon for over seventy years. Why does it seem so close but also so unattainable? Are we repeating the same mistakes over and over?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/09/03/why-do-we-keep-repeating-the-same-mistakes-on-ai/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/09/03/why-do-we-keep-repeating-the-same-mistakes-on-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6312667f63bf3c4af5475054/0x0.jpg?format=jpg&crop=2531,1423,x158,y207,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/09/03/why-do-we-keep-repeating-the-same-mistakes-on-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/09/03/why-do-we-keep-repeating-the-same-mistakes-on-ai/amp/",
-      "publishedDateTime": "2022-09-03T01:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "Machine Learning",
-        "Natural Language Processing",
-        "AI Hardware"
       ]
     }
   ],

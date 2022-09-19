@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-08-12-food-robotics-market-2022-2027-report-size-industry-share-growth-trends-and-forecast.md",
+      "title": "Food Robotics Market 2022-2027: Report, Size, Industry Share, Growth, Trends and Forecast",
+      "excerpt": "According to IMARC Group latest report titled \" Food Robotics Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027 \", offers a comprehensive analysis of the industry,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/food-robotics-market-2022-2027-report-size-industry-share-growth-trends-and-forecast-2022-08-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/food-robotics-market-2022-2027-report-size-industry-share-growth-trends-and-forecast-2022-08-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-11T22:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-12-facebook-robot-brands-mark-zuckerberg-as-creepy-and-manipulative.md",
       "title": "Facebook robot brands Mark Zuckerberg as ‘creepy and manipulative’",
       "excerpt": "FACEBOOK supremo Mark Zuckerberg is “creepy and manipulative” — according to one of his own chatbots. The AI program, trained to have conversations like humans, also encouraged users to ditch",
@@ -1327,49 +1379,6 @@
       "provider": {
         "name": "air cargo",
         "domain": "stattimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-neurable-wants-to-let-you-control-any-device-with-your-mind.md",
-      "title": "Neurable Wants to Let You Control Any Device With Your Mind",
-      "excerpt": "There were no handheld controllers, mice, motion trackers, or keyboards, no HP Z Backpack computers, no robots ... just a chair ... Neurable's mission – “creating a world without limits,” where control over any device is a simple thought away.",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/neurable-wants-let-you-control-any-device-your-mind",
-      "originalUrl": "https://www.designnews.com/electronics-test/neurable-wants-let-you-control-any-device-your-mind",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Neurable%20headset.jpg",
-          "width": 833,
-          "height": 655,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
         "images": null,
         "publishers": null,
         "authors": null

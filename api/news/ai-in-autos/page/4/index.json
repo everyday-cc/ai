@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-30-baidu-beats-quarterly-revenue-estimates-on-cloud-business-boom.md",
+      "title": "Baidu beats quarterly revenue estimates on cloud business boom",
+      "excerpt": "China's search engine giant Baidu beat quarterly revenue estimates on Tuesday (Aug 30), underpinned by demand for its cloud and artificial intelligence-powered offerings. US-listed shares of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelnewsasia.com/business/baidu-beats-quarterly-revenue-estimates-cloud-business-boom-2909281",
+      "originalUrl": "https://www.channelnewsasia.com/business/baidu-beats-quarterly-revenue-estimates-cloud-business-boom-2909281",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--biXDvPGs--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-08-30t090706z_2_lynxmpei7t09t_rtroptp_3_usa-china-audit-investors.jpg?itok=0Es-SEjN",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-baidu-announces-second-quarter-2022-results.md",
       "title": "Baidu Announces Second Quarter 2022 Results",
       "excerpt": "Second Quarter 2022 Financial Highlights [1] Operational Highlights Corporate AI Cloud Intelligent Driving Apollo Go, Baidu's autonomous ride-hailing service, continued its solid progress in ...",
@@ -1358,59 +1401,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-the-benefits-of-artificial-intelligence.md",
-      "title": "The Benefits of Artificial Intelligence",
-      "excerpt": "Artificial intelligence benefits are realized across many sectors, from robotic process automation to self-driving cars to AI-powered data analytics platforms. Across the world of enterprise and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/enterprise-apps/benefits-of-artificial-intelligence/",
-      "originalUrl": "https://www.eweek.com/enterprise-apps/benefits-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-Database-05-1088x725-1.jpg",
-          "width": 1088,
-          "height": 725,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     }
   ],

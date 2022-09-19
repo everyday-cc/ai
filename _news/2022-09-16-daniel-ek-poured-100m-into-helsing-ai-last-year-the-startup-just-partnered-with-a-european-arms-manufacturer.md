@@ -3,8 +3,8 @@ category: news
 title: "Daniel Ek poured €100m into Helsing AI last year. The startup just partnered with a European arms manufacturer"
 excerpt: "Spotify Founder Daniel Ek pledged a personal commitment of €1 billion over the next decade to invest in European technology companies. Ek referred to these companies – operating in fields from machine learning to biotechnology,"
 publishedDateTime: 2022-09-16T14:25:00Z
-originalUrl: "https://www.musicbusinessworldwide.com/daniel-ek-poured-e100m-into-helsing-ai-last-year-the-startup-just-partnered-with-a-european-arms-manufacturer12/"
-webUrl: "https://www.musicbusinessworldwide.com/daniel-ek-poured-e100m-into-helsing-ai-last-year-the-startup-just-partnered-with-a-european-arms-manufacturer12/"
+originalUrl: "https://www.musicbusinessworldwide.com/daniel-ek-poured-e100m-into-helsing-ai-last-year-the-startup-just-partnered-with-a-european-arms-manufacturer1/"
+webUrl: "https://www.musicbusinessworldwide.com/daniel-ek-poured-e100m-into-helsing-ai-last-year-the-startup-just-partnered-with-a-european-arms-manufacturer1/"
 type: article
 quality: 17
 heat: 17
@@ -23,6 +23,6 @@ images:
     height: 650
     isCached: true
 
-secured: "gBBuqVanpg9N/Rq7P72CXCkL/HtaPzM9kU66a6UPKnNEl2UdPrA3Nwm7Di1zvtSnNNKZsg8CEKYsNBAkkpnYd5Iu8sTq+87jrDj8u8AGw1fzolHyRiqIsuof2qbxEevTOOJqlz4mqGW2oWO12GLxq6asrdwDbNiiVke6BbXDYeHffR+N7crot5CDio42n1D0132mApjQXGXF7v584FozEUW+grt/rVj1b7gQbqWWNFOhTalrabLCBJvuf0NE6BjKzvJf0gEk3lXD2fDGRlLl42eJZti2faRdWQjQfKkiTQk89B680yuWxj7rmi9wK1c2TiP1lZJ4agXq62Fq+GvEzqVQbA2hGVfU045EbBTjKObU3fgNVJMpiHIK6GGBxzN51o6L5m30pVl1AW2HnSg0RD6CgeSUtDCTqCyar9sA2vPSbKZPMa8r4HgUWQTdJUa08noti71PrNJPTT39HPWdJbeT9m7XTtnCTj80rVceqLK9nT83oSmRiBEigMl43wT478cuUVVp+u5kX40vaWbTcA==;mh6C4N58VqMyDFlZmfrBZg=="
+secured: "N31BlTUSX043+wCw/GFL1dxbaAC0GwfCB2kslCd3Kc3qW3EavOb4/wkjnbWzgqPrTTkNr9U6lRrPK4QyLUZrIN/r67mBe7ZMl6fA9CRG3wkCp5DbOtjzdRIwDlbTN3CPmtwvIJ2ugCV0PGulfaiVr8HLzk1BFuz8/z/1PCNm/SAoM98yZ2ppehE6qHGAAvYcQEwk2aT1L79/KCpAmp1ibEdH2Xov0YVbXL+UASv5IcLYtVVh/T+2P6NCUzYYUUsR2w5/Hg76RoqH61u+l9jqPr2gmC89jzRLgVMxAdjGXiz+KX/mFC7Q6rADN89QvoNNI8TpoK5oh8CqwXAudUz1bqPsFxmUyjDTHLfYY94RMks=;MiQVoRnguUQGBAs3bPJQmw=="
 ---
 

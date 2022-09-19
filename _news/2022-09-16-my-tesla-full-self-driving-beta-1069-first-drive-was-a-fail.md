@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/09/16/tesla-full-self-driving-beta-10-69-fi
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/16/tesla-full-self-driving-beta-10-69-first-drive-fail/amp/"
 type: article
 quality: 104
-heat: 274
+heat: 234
 published: true
 
 provider:
@@ -125,22 +125,6 @@ related:
         width: 1800
         height: 1200
         isCached: true
-  - title: "Tesla deceiving public on ‘Full Self-Driving’ and dangerous ‘Autopilot,’ lawsuit claims"
-    excerpt: "Tesla has claimed driver-assistance technologies are steps toward fully autonomous driving, but hasn’t come close to that goal, suit claims."
-    publishedDateTime: 2022-09-14T22:38:00Z
-    webUrl: "https://www.eastbaytimes.com/2022/09/14/tesla-deceiving-public-on-full-self-driving-and-dangerous-autopilot-lawsuit-claims/"
-    ampWebUrl: "https://www.eastbaytimes.com/2022/09/14/tesla-deceiving-public-on-full-self-driving-and-dangerous-autopilot-lawsuit-claims/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/09/14/tesla-deceiving-public-on-full-self-driving-and-dangerous-autopilot-lawsuit-claims/amp/"
-    type: article
-    provider:
-      name: EastBayTimes.com
-      domain: eastbaytimes.com
-    quality: 66
-    images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2022/09/tesla-crash-utah1-e1526338906152.jpg?w=1024&h=644"
-        width: 1024
-        height: 643
-        isCached: true
   - title: "Tesla mislead public regarding self-driving technology, lawsuit says"
     excerpt: "A class action lawsuit filed against Tesla Inc. alleges the auto manufacturer misled the public regarding its Autopilot, Enhanced Autopilot and Full Self-Driving"
     publishedDateTime: 2022-09-14T23:23:00Z
@@ -233,33 +217,6 @@ related:
       name: Daily Press
       domain: dailypress.com
     quality: 23
-  - title: "Tesla hit with new federal lawsuit over self-driving system"
-    excerpt: "Tesla is gearing up for another legal battle over its self-driving technology. Burlingame-based Cotchett, Pitre & McCarthy, LLP said Wednesday that it has filed a lawsuit against the electric automaker for allegedly misleading the public regarding its autopilot and full self-driving technology."
-    publishedDateTime: 2022-09-14T21:21:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2022/09/14/tesla-federal-lawsuit-san-francisco-self-driving.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
-  - title: "Tesla hit with new lawsuit over self-driving system"
-    excerpt: "Tesla is gearing up for another legal battle over its self-driving technology. Burlingame-based Cotchett, Pitre & McCarthy, LLP said Wednesday that it has filed a lawsuit against the electric automaker for allegedly misleading the public regarding its autopilot and full self-driving technology."
-    publishedDateTime: 2022-09-14T21:21:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2022/09/14/tesla-federal-lawsuit-san-francisco-self-driving.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
-  - title: "Tesla sued for ‘deceiving’ consumers about self-driving cars"
-    excerpt: "Tesla was sued for failing to deliver on Elon Musk’s longstanding promise to produce a fully self-driving car."
-    publishedDateTime: 2022-09-14T20:32:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2022/09/14/tesla-sued-deceiving-consumers-self-driving-cars/10381568002/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 19
 
 secured: "Ea34+foxvUSlAU/I8GkMlQYhopEub/4CsC8rS5giyz5cAEeYrGyScmKckoZyjDXYAY5c1kbYsSJeo1ZAo5ui2qHetbVqMyqm/YKyB98vLZ0ZWKLcvzuaF0bBijkkb09p1yjr6OP0UrMJuknbm9POKi1BLzC4e6kfpx6ls4GqU6XgCDvLlteOd/TMSAmgTTnPms+1ytBM995OclBs7If5IPUvcgvNSwXYS/bT+hPJFqttXeD4u6keBC/4JGF9lh7LWApxykcsR31qxezoRf2BUtxbDHLJ7uViDFOCMoFzVIEEieW7dhp4DdtWKge4uu4qOHj6UvSk60JAI8KcsfZE5H4wR81BjP0lQxexY2XI3MhW2LXFtAFlo5T/u+cnRcx8HMi8CWFdCmnkGsM4CRrNz2hAdNJCsbv9TRfHzvai7w+pgBAaANaKEX4jFo/IcGFsOtJiqcdS3O0Ch8swUq8TQJ097URdNlYn36GfxjaTRmnt43p1Iu/0/fAJFLLzB4GWAF/2q8uYBxrWfjqgABosNA==;GO3GKWmKaWugfDxvTwi79A=="
 ---

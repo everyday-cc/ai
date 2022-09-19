@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-19T12:00:00Z
 originalUrl: "https://nymag.com/intelligencer/2022/09/ai-art-is-here-and-the-world-is-already-different.html"
 webUrl: "https://nymag.com/intelligencer/2022/09/ai-art-is-here-and-the-world-is-already-different.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: nymag

@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/team-develops-approach-for-comparing-neural-n
 webUrl: "https://www.unite.ai/team-develops-approach-for-comparing-neural-networks/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1000
     height: 600
     isCached: true
-
-related:
-  - title: "New method for comparing neural networks exposes how artificial intelligence works"
-    excerpt: "A team has developed a novel approach for comparing neural networks that looks within the 'black box' of artificial intelligence to help researchers understand neural network behavior. Neural networks recognize patterns in datasets;"
-    publishedDateTime: 2022-09-14T20:18:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/09/220914102256.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 60
 
 secured: "HPS8cwtjnz5ISoV9M6NLeGahhC0iF4PPfsYyO1j41EOk90iu0ejQtCGsarlojr0ktlC/QVGpRahFBbJWMctM6BvcGcyn1t6Owlt+sRoVo5v8aio41qJgVSL4JZFJxAg3NelmFawztysb0i25opZw3GKsxzYAbuJrvTJnMytZ2FcXmiX9jTKYUQZqqNnk9tj2H9ZtHgaxgzYHvzn4taGg3U9TVYtYIy1sbFT+0MaFmk4Mz2dtkhWJV1B2TbUrtL5ft4KvcA8r2kH7JUs+YglqzzLAcBXdCBpW8u9MYpLKUsg/cc1ObEw1CWosm6pshlWNyjyUoGl0nqNSecsLcBRlS3lxYNzSGd9LPf0J0/YlaRiwLjBNw0j2FD6feR7f4AyB78PyoeUp7G/KIsy1TlZN7MFCxH+F4hgIUILJF/f6X1wQWz8n39bhGyvC4lNj1aTAnyGOvQJCgiZmyOCbK+PdJarb47yzcNuzHAZ0HXDGyyFDpAC5dCD874KvrGkv+gnD/hGPkz8KsYwsaBjxzB+Bxg==;bwZ5ysJzjmnt/+qxl7TazQ=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-19T12:00:00Z
 originalUrl: "https://www.ibtimes.com/voice-season-22-premiere-meet-judges-2022-nbc-series-3613984"
 webUrl: "https://www.ibtimes.com/voice-season-22-premiere-meet-judges-2022-nbc-series-3613984"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: International Business Times

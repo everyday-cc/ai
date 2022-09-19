@@ -10,7 +10,7 @@
       "originalUrl": "https://www.computerweekly.com/feature/Putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -46,7 +46,8 @@
         "Natural Language Processing",
         "Microsoft AI",
         "AI in Finance",
-        "AI in Autos"
+        "AI in Autos",
+        "IBM AI"
       ]
     },
     {
@@ -111,7 +112,7 @@
       "originalUrl": "https://electrek.co/2022/09/16/tesla-full-self-driving-beta-10-69-first-drive-fail/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 274,
+      "heat": 234,
       "tags": null,
       "images": [
         {
@@ -1142,6 +1143,41 @@
       ]
     },
     {
+      "path": "_news/2022-09-10-artificial-intelligence-is-now-used-to-track-down-hate-speech.md",
+      "title": "Artificial intelligence is now used to track down hate speech",
+      "excerpt": "Meta took action on more than 15 million pieces of hate speech content on Facebook. Roughly 95% of that was detected proactively by Facebook with the help of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wxyz.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech",
+      "originalUrl": "https://www.wxyz.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-09T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WXYZ",
+        "domain": "wxyz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-10-eu-ai-acts-possible-open-source-regulation-sparks-twitter-debate.md",
       "title": "EU AI Act’s possible open-source regulation sparks Twitter debate",
       "excerpt": "Alex Engler never expected his Brookings article about the EU’s attempt to regulate open-source AI to stir up Twitter debate.",
@@ -1341,49 +1377,6 @@
         "AI in Marketing",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-shenzhen-accelerates-chinas-driverless-car-dreams.md",
-      "title": "Shenzhen accelerates China’s driverless car dreams",
-      "excerpt": "If the car is completely driverless, the owner of the vehicle will be responsible. If a defect causes an accident, the car owner can seek compensation from the manufacturer. “If you want more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asahi.com/ajw/articles/14684738",
-      "originalUrl": "https://www.asahi.com/ajw/articles/14684738",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://p.potaufeu.asahi.com/0899-p/picture/26807123/58eda30a43b60ca556cbcb784174712a.jpg",
-          "width": 660,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "朝日新聞社",
-        "domain": "asahi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

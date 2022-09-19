@@ -739,6 +739,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-12-a-start-ups-evolution-from-ai-lab-to-ai-business.md",
+      "title": "A Start-up’s Evolution from AI Lab to AI Business",
+      "excerpt": "This Tokyo-based start-up has been incrementally realising the potential of AI to reshape the internet of things (IoT) – ever since shifting focus from search engines to deep learning (and dropping its original moniker, Preferred Infrastructure) ...",
+      "sourceUrl": null,
+      "webUrl": "https://knowledge.insead.edu/entrepreneurship/start-ups-evolution-ai-lab-ai-business",
+      "originalUrl": "https://knowledge.insead.edu/entrepreneurship/start-ups-evolution-ai-lab-ai-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/images/2019/11/from_ai_lab_to_ai_business.jpg?itok=RHEzbS9N",
+          "width": 1999,
+          "height": 1499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "knowledge.insead.edu",
+        "domain": "insead.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-09-10-brain-computer-interface-at-toronto-childrens-hospital-tests-the-potential-for-mind-melds-with-machines.md",
       "title": "Brain-computer interface at Toronto children’s hospital tests the potential for mind melds with machines",
       "excerpt": "Using a sensor headset, children are helping researchers fine-tune technology for turning signals in the brain into actions in the real world",
@@ -1333,49 +1376,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-07-why-household-robot-servants-are-a-lot-harder-to-build-than-robotic-vacuums.md",
-      "title": "Why Household Robot Servants are a Lot Harder to Build than Robotic Vacuums",
-      "excerpt": "Ayonga Hereid, The Ohio State University With recent advances in artificial intelligence and robotics technology, there is growing interest in developing",
-      "sourceUrl": null,
-      "webUrl": "https://innotechtoday.com/why-household-robot-servants-are-a-lot-harder-to-build-than-robotic-vacuums/",
-      "originalUrl": "https://innotechtoday.com/why-household-robot-servants-are-a-lot-harder-to-build-than-robotic-vacuums/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://innotechtoday.com/wp-content/uploads/2022/09/katarzyna-pe-Twe3VxJlDiY-unsplash.jpg",
-          "width": 1920,
-          "height": 1285,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://innotechtoday.com/why-household-robot-servants-are-a-lot-harder-to-build-than-robotic-vacuums/amp/",
-      "cdnAmpWebUrl": "https://innotechtoday-com.cdn.ampproject.org/c/s/innotechtoday.com/why-household-robot-servants-are-a-lot-harder-to-build-than-robotic-vacuums/amp/",
-      "publishedDateTime": "2022-09-07T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Innovation & Tech Today",
-        "domain": "innotechtoday.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

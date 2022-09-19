@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-19T12:07:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/vassar-public-schools-deploys-zeroeyes-ai-based-gun-detection-platform-to-prevent-and-mitigate-active-shooter-incidents-1031750503"
 webUrl: "https://markets.businessinsider.com/news/stocks/vassar-public-schools-deploys-zeroeyes-ai-based-gun-detection-platform-to-prevent-and-mitigate-active-shooter-incidents-1031750503"
 type: article
+quality: 22
+heat: 22
+published: false
 
 provider:
   name: Business Insider

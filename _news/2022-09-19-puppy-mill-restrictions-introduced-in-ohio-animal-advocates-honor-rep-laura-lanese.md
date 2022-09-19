@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-19T13:25:00Z
 originalUrl: "https://awionline.org/press-releases/puppy-mill-restrictions-introduced-ohio-animal-advocates-honor-rep-laura-lanese"
 webUrl: "https://awionline.org/press-releases/puppy-mill-restrictions-introduced-ohio-animal-advocates-honor-rep-laura-lanese"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Animal Welfare Institute

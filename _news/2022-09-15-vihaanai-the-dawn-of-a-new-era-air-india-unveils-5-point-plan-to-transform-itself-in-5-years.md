@@ -43,19 +43,14 @@ related:
         height: 1365
         isCached: true
   - title: "Air India unveils transformation plan: Vihaan.AI"
-    excerpt: "Air India today unveiled its comprehensive transformation plan, to establish itself, once again, as a world-class global airline with an"
-    publishedDateTime: 2022-09-19T05:30:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/air-india-unveils-transformation-plan-vihaanai-301626592.html"
+    excerpt: "As part of Vihaan.AI, Air India has put into place a detailed roadmap with clear milestones focussing on dramatically growing both its network and fleet, developing a completely revamped customer proposition,"
+    publishedDateTime: 2022-09-19T13:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/air-india-unveils-transformation-plan-vihaan-ai-1031750885"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1874092/Air_India_Logo.jpg?p=facebook"
-        width: 600
-        height: 314
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "ai/S/r4VW7xARctaWuYc+TRsosdo7R8qgCiLYdIBUivLfEkzOZ125IhSQA8EFA97kgV2YJD+YjHJhRWsRKnJ2oTsuct6oXLuO5dAHYPVFslPno3njL7ISCUJktad2/5PI5fo/3PPelfraJfnfmaVhrQbiX81KZPgF9p9c6JdV840tGhbr/7SnVBBGteyMuN4+rB567V/AOkJmZYhiEJCidegGZMoEeDBqwDLoew6aYTTdNDEMFEQcicoqakT+eyFtfIZElnK5ZL9Bfz2n4HTMZWiHOOIauUFMEgFckHCviPkTSShR7GkwSeDudwcjidzoq/RWKLgwrG8npHRXbCQcwBd8k40ZgiBv+ljMyQkT9M=;hzITNhd4QflPAEN95TKPNw=="
 ---

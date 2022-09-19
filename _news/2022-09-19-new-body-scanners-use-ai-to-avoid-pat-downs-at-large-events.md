@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-19T13:03:00Z
 originalUrl: "https://www.extremetech.com/electronics/339645-new-body-scanners-use-ai-to-avoid-pat-downs-at-large-events"
 webUrl: "https://www.extremetech.com/electronics/339645-new-body-scanners-use-ai-to-avoid-pat-downs-at-large-events"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: ExtremeTech

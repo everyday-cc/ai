@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-19T13:48:00Z
 originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/EXE-T/pressreleases/10264558/extendicare-top-10-undervalued-healthcare-providers-services-industry-stocks-on-tse-exe/"
 webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/EXE-T/pressreleases/10264558/extendicare-top-10-undervalued-healthcare-providers-services-industry-stocks-on-tse-exe/"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: The Globe and Mail

@@ -2,10 +2,15 @@
 category: news
 title: "Spotflock Tech signs MoU with INCOIS for ocean info"
 excerpt: "The MoU amis for the developing a collaborative framework and deep technology applications in the domains of ocean science is for classifying and tracking species in Indian Ocean and identifying poten"
-publishedDateTime: 2022-09-19T13:43:00Z
-originalUrl: "https://www.thehindubusinessline.com/companies/spotflock-tech-signs-mou-with-incois-for-ocean-info/article65910047.ece"
-webUrl: "https://www.thehindubusinessline.com/companies/spotflock-tech-signs-mou-with-incois-for-ocean-info/article65910047.ece"
+publishedDateTime: 2022-09-19T15:14:00Z
+originalUrl: "https://www.thehindubusinessline.com/news/science/spotflock-tech-signs-mou-with-incois-for-ocean-info/article65910047.ece"
+webUrl: "https://www.thehindubusinessline.com/news/science/spotflock-tech-signs-mou-with-incois-for-ocean-info/article65910047.ece"
+ampWebUrl: "https://www.thehindubusinessline.com/news/science/spotflock-tech-signs-mou-with-incois-for-ocean-info/article65910047.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/science/spotflock-tech-signs-mou-with-incois-for-ocean-info/article65910047.ece/amp/"
 type: article
+quality: 44
+heat: 44
+published: false
 
 provider:
   name: Business Line
@@ -15,6 +20,23 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "8+iSWywqnQ9n9R05zvxyZzaxNa5PW3TWhRuoP3D6JdGplTsXNkO6DQ/1y/nvZliDUrjE7iM0P90g48JXeXoVuqSm1FkVJoOHwvD8iq9scLaiNjnHR9wPcCerpP1t5Yd8I5L7K8GhhfMfMKIt7pM95O7F++t6gzutjdbxgxVT0le+DHEA+XeQl4D/XAqzNfh0Iptc1VksgVkeB44xPNlafkvGe8NVrzgqNGxyV+pWXsWSgok35ySETEIdcullIKdJ1rjMw0U9NTEosz9CR4hKGS9HUEolVqshuf7xD7l2cIEieJ3srQwcxXyezPLSygwQ/nooHRPGkwU2r7cI9moofRCG3/yRVd39ewG3R+fRKK6DYINRHQvyXj5AjTs2nTHOY4zoWfagl6rZ7NQ9RpHTpWL/vDAU817udAdweDYLDYOJ9m+aL+X3t4QrbsD5Pe9ZAY97gIFvQg2A/V1A4qp831ZHXUCRpNp6DXqlBMtm4zj8m5h3l6Mnd6g3RLFqMABYUrQwY1Sy8DIVo7g/+Gn3bg==;0O5SnrWNNApTHWH10+BISQ=="
+images:
+  - url: "https://bl-i.thgim.com/public/incoming/drnnvt/article65910430.ece/alternates/LANDSCAPE_615/bl19_INCOIS.jpg"
+    width: 615
+    height: 383
+    isCached: true
+
+related:
+  - title: "Spotflock signs MOU with INCOIS to build deep tech based offerings in weather prediction blue revolution and global environmental sustainability"
+    excerpt: "Spotflock Technologies Private Limited, a deep tech company which specializes in AI, machine learning, and natural language processing, has signed an MOU with Indian National Center for Ocean Information Services (INCOIS) forpromoting ocean information and advisory services by applying deep tech to increase the accuracy in predicting outcomes in various industries."
+    publishedDateTime: 2022-09-19T12:33:00Z
+    webUrl: "https://www.theweek.in/wire-updates/business/2022/09/19/dcm33-spotflock.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 0
+
+secured: "Wp4XJ09kYnic0S+kW0njvxNz65COSz7W3RgjUBtWLrk6OLeIO5nBUx9jnC0Nu91siNftiCsD7HCjP1xTbR4CSmn84r99KOnJ8IyqkJ+g0B80xJotTRA7Bu3bGTWkQWXbXwI8scN6ZNpaQ+A/muQarOqcWJgdKN+HrXeLuiNojb8TLdr1zZWmjynw2Wum9m5n+9qYXHOWPwDImIRHhSQeZ3wYvbODA434pVyIqZDHpZTWQd40QqSGM3kIHi9wee+oBcTSdYotTHY0fJFtd+FY7uiFr3+WBo+E2J3ZNpGz2rEeRgxG6RtQPjNBwvELBmjMOmkRG/knRl7LZb5WlwIrJQLIWJCwywhNRmtM+Cr58zg=;mac2Jd8CEOOZmEMsNyOAYw=="
 ---
 

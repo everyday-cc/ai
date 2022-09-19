@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/09/220915123716.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/09/220915123716.htm"
 type: article
 quality: 62
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
         width: 1477
         height: 985
         isCached: true
+  - title: "Machine learning gives glimpse of how a dog's brain sees - study"
+    excerpt: "Recent advancements in the fields of machine learning and functional magnetic resonance imaging (fMRI) have helped to decipher visual stimuli in human and nonhuman brains. However, this research, which provides new understandings of the nature of visual perception,"
+    publishedDateTime: 2022-09-19T10:25:00Z
+    webUrl: "https://www.jpost.com/science/article-717496"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 34
 
 secured: "LJr/WvLpjq4xs7A9+6AmRMTCk8NYkqj209OtlZapyrq0S3yatW2KGPLf7PsnUy0Q2YP1+5Ofqvqs8OPA7gl0/CuwBA5ei9HV7JNbaVkIkG2nXCBYVIPOEVW8Cn5NvWxKkeEfn0ZIhqKBwmO648apInXVoN0KOcKN/ZhARk9JyhD5MdeCHRd/AteCX3FXOMOwPZUXkmeAtmINRoklrXQn0YeRYif8/7TVxJeXmpch33sMV0GeDXd8fcGpjiFk7OQwhu6BUANqPWh53PQqWCefQXsdBZKyROEjJphFvXttqA8AN7OZ/M4U/KIyGDXea+qVS9bv3sbOqzaJ1sSccFkNaX4+5pBsyQI6O84nb2/yt34=;thMwLPDx1KVXV3x+ji/QGQ=="
 ---

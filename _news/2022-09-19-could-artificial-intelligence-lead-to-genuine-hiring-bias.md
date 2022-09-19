@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-19T13:17:00Z
 originalUrl: "https://federalnewsnetwork.com/federal-newscast/2022/09/could-artificial-intelligence-lead-to-genuine-hiring-bias/"
 webUrl: "https://federalnewsnetwork.com/federal-newscast/2022/09/could-artificial-intelligence-lead-to-genuine-hiring-bias/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: federalnewsnetwork.com

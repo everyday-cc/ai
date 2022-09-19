@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-19T13:00:00Z
 originalUrl: "https://www.seattletimes.com/business/technology/the-ais-are-here-robodogs-amazons-astro-more-attachment-issues/"
 webUrl: "https://www.seattletimes.com/business/technology/the-ais-are-here-robodogs-amazons-astro-more-attachment-issues/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Seattle Times

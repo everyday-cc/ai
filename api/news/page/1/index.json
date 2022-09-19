@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-19-inflation-problems-persist-and-ai-makes-headlines-forbes-ai-newsletter-september-17th.md",
+      "title": "Inflation Problems Persist And AI Makes Headlines: Forbes AI Newsletter - September 17th",
+      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/09/19/inflation-problems-persist-and-ai-makes-headlines-forbes-ai-newsletterseptember-17th/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/09/19/inflation-problems-persist-and-ai-makes-headlines-forbes-ai-newsletterseptember-17th/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6328702c4f81b1ab9e7a03a5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/09/19/inflation-problems-persist-and-ai-makes-headlines-forbes-ai-newsletterseptember-17th/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/09/19/inflation-problems-persist-and-ai-makes-headlines-forbes-ai-newsletterseptember-17th/amp/",
+      "publishedDateTime": "2022-09-19T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-19-how-to-leverage-aiml-for-predictive-incident-management.md",
       "title": "How To Leverage AI/ML For Predictive Incident Management",
       "excerpt": "Proactive risk mitigation must be embedded into your enterprise tech strategy to ensure disruption-free operations.",
@@ -200,7 +251,7 @@
       "originalUrl": "https://www.traveldailymedia.com/vihaan-ai-is-our-plan-to-make-air-india-a-world-class-airline-wilson/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -286,7 +337,7 @@
       "originalUrl": "https://www.computerweekly.com/feature/Putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -322,7 +373,8 @@
         "Natural Language Processing",
         "Microsoft AI",
         "AI in Finance",
-        "AI in Autos"
+        "AI in Autos",
+        "IBM AI"
       ]
     },
     {
@@ -1077,7 +1129,7 @@
       "originalUrl": "https://electrek.co/2022/09/16/tesla-full-self-driving-beta-10-69-first-drive-fail/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 274,
+      "heat": 234,
       "tags": null,
       "images": [
         {
@@ -1161,58 +1213,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-hawke-ai-ceo-discusses-marketing-advancements-that-drive-sustainability.md",
-      "title": "Hawke AI CEO Discusses Marketing Advancements That Drive Sustainability",
-      "excerpt": "As artificial intelligence can optimize processes, marketers are able to better prioritize their time and energy, leading to more sustainable marketing practices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jefffromm/2022/09/16/hawke-ai-ceo-discusses-marketing-advancements-that-drive-sustainability/",
-      "originalUrl": "https://www.forbes.com/sites/jefffromm/2022/09/16/hawke-ai-ceo-discusses-marketing-advancements-that-drive-sustainability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6320a59e6e56708735fe585a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 782,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jefffromm/2022/09/16/hawke-ai-ceo-discusses-marketing-advancements-that-drive-sustainability/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jefffromm/2022/09/16/hawke-ai-ceo-discusses-marketing-advancements-that-drive-sustainability/amp/",
-      "publishedDateTime": "2022-09-16T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

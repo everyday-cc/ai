@@ -2,6 +2,353 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2022-08-24-5g-in-healthcare-market-to-be-worth-4547-billion-by-2030-grand-view-research-inc.md",
+      "title": "5G In Healthcare Market to be Worth $454.7 Billion By 2030: Grand View Research, Inc.",
+      "excerpt": "Grand View Research, Inc. SAN FRANCISCO, /PRNewswire/ -- The global 5G in healthcare market size is expected to reach USD 454.7 billion by 2030, based on a new report by Grand View Research, Inc, expanding at a CAGR of 34.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/5g-in-healthcare-market-to-be-worth-4547-billion-by-2030-grand-view-research-inc-2022-08-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/5g-in-healthcare-market-to-be-worth-4547-billion-by-2030-grand-view-research-inc-2022-08-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-24T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-the-ai-startup-erasing-call-center-worker-accents-is-it-fighting-bias-or-perpetuating-it.md",
+      "title": "The AI startup erasing call center worker accents: is it fighting bias – or perpetuating it?",
+      "excerpt": "A Silicon Valley startup offers voice-altering tech to call center workers around the world: ‘Yes, this is wrong … but a lot of things exist in the world’",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american?source=Snapzu",
+      "originalUrl": "https://www.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american?source=Snapzu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/b78a80dcbe5e356a1d5b5cdcb8bec72fd38da9e8/453_682_6496_3898/master/6496.jpg?width=620&quality=85&auto=format&fit=max&s=506613242ac1f196cf1c3c70b0c77f6a",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american",
+      "publishedDateTime": "2022-08-24T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-capitol-records-pulls-plug-on-racist-ai-rapper-after-barely-a-week.md",
+      "title": "Capitol Records Pulls Plug On Racist ‘AI Rapper’ After Barely A Week",
+      "excerpt": "The record label pulled the controversial artist it \"signed\" after an activist group called it \"an amalgamation of gross stereotypes.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.huffpost.com/entry/ai-rapper-capitol-records-ends_n_6305a3e9e4b0e323a25a07d7?d_id=4814382&ncid_tag=tweetlnkushpmg00000050",
+      "originalUrl": "https://www.huffpost.com/entry/ai-rapper-capitol-records-ends_n_6305a3e9e4b0e323a25a07d7?d_id=4814382&ncid_tag=tweetlnkushpmg00000050",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.huffingtonpost.com/asset/6305a8232500001f00245b2f.png?cache=JGZtNfCIZ7&ops=1200_630",
+          "width": 1198,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.huffpost.com/entry/ai-rapper-capitol-records-ends_n_6305a3e9e4b0e323a25a07d7/amp",
+      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/ai-rapper-capitol-records-ends_n_6305a3e9e4b0e323a25a07d7/amp",
+      "publishedDateTime": "2022-08-24T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HuffPost",
+        "domain": "huffpost.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-ai-ethics-lucidly-questioning-this-whole-hallucinating-ai-popularized-trend-that-has-got-to-stop.md",
+      "title": "AI Ethics Lucidly Questioning This Whole Hallucinating AI Popularized Trend That Has Got To Stop",
+      "excerpt": "There is an increasing trend of referring to AI as being able to hallucinate, which AI Ethics frets about as an improper recasting of the human notion of hallucinations. Details are given and the tradeoffs of this emerging catchphrase are closely examined.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/08/24/ai-ethics-lucidly-questioning-this-whole-hallucinating-ai-popularized-trend-that-has-got-to-stop/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/08/24/ai-ethics-lucidly-questioning-this-whole-hallucinating-ai-popularized-trend-that-has-got-to-stop/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6303f876f0e6ed3c05fa8c68/0x0.jpg?format=jpg&crop=3400,1912,x129,y41,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/08/24/ai-ethics-lucidly-questioning-this-whole-hallucinating-ai-popularized-trend-that-has-got-to-stop/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/08/24/ai-ethics-lucidly-questioning-this-whole-hallucinating-ai-popularized-trend-that-has-got-to-stop/amp/",
+      "publishedDateTime": "2022-08-24T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-streamlining-lung-cancer-radiotherapy-with-deep-learning.md",
+      "title": "Streamlining lung cancer radiotherapy with Deep Learning",
+      "excerpt": "Lung cancer, the most common cancer worldwide, is targeted with radiation therapy (RT) in nearly one-half of cases. RT planning is a manual, resource-intensive process that can take days to weeks to complete,",
+      "sourceUrl": null,
+      "webUrl": "https://healthcare-in-europe.com/en/news/lung-cancer-radiotherapy-deep-learning.html",
+      "originalUrl": "https://healthcare-in-europe.com/en/news/lung-cancer-radiotherapy-deep-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthcare-in-europe.com/media/story/27271/rect-01-adobestock-296280067.jpg",
+          "width": 400,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-24T04:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "healthcare-in-europe.com",
+        "domain": "healthcare-in-europe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-best-robot-vacuums-for-pet-hair-in-2022-according-to-reviewers.md",
+      "title": "Best robot vacuums for pet hair in 2022, according to reviewers",
+      "excerpt": "The iRobot Roomba j7+ is designed with the issue of dog poop in mind ... better to control the appliance remotely. Pet owners, including this verified purchaser, love the Lefant robot vacuum ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/the-best-robot-vacuums-for-pet-hair-according-to-reviewers/",
+      "originalUrl": "https://www.cbsnews.com/essentials/the-best-robot-vacuums-for-pet-hair-according-to-reviewers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/07/27/4604bf4c-ab99-4e25-ab66-5d3d51e6e2cc/thumbnail/1200x630/6650ffd64506ce0b99930afb0d07a219/robot-vacuum-pet-header.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/the-best-robot-vacuums-for-pet-hair-according-to-reviewers/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/the-best-robot-vacuums-for-pet-hair-according-to-reviewers/",
+      "publishedDateTime": "2022-08-24T04:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-zilliz-the-startup-behind-the-milvus-open-source-vector-database-for-ai-applications-raises-60m-and-relocates-to-sf.md",
+      "title": "Zilliz, the startup behind the Milvus open-source vector database for AI applications, raises $60M and relocates to SF",
+      "excerpt": "Chinese startup Zilliz — which builds cloud-native software to process data for AI applications and unstructured data analytics, and is the creator of Milvus, the popular open source vector database for similarity searches — raised $43 million to scale its business and prep",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/24/zilliz-the-startup-behind-the-milvus-open-source-vector-database-for-ai-applications-raises-60m-and-relocates-to-sf/",
+      "originalUrl": "https://techcrunch.com/2022/08/24/zilliz-the-startup-behind-the-milvus-open-source-vector-database-for-ai-applications-raises-60m-and-relocates-to-sf/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-95769788.jpg?w=1024",
+          "width": 1024,
+          "height": 691,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/24/zilliz-the-startup-behind-the-milvus-open-source-vector-database-for-ai-applications-raises-60m-and-relocates-to-sf/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/24/zilliz-the-startup-behind-the-milvus-open-source-vector-database-for-ai-applications-raises-60m-and-relocates-to-sf/amp/",
+      "publishedDateTime": "2022-08-24T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-08-24-data-science-and-machine-learning-market-size-2022-share-growth-with-recent-trends-development-revenue-demand-and-forecast-to-2029.md",
       "title": "Data Science and Machine-Learning Market Size 2022, Share, Growth with Recent Trends, Development, Revenue, Demand and Forecast to 2029",
       "excerpt": "Pune, India Research Report on Global Data Science and Machine-Learning Platforms Market 2020-2026 Report Demand",
@@ -814,288 +1161,6 @@
       "provider": {
         "name": "AOL",
         "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-pilot-travel-centers-explores-accommodating-self-driving-trucks.md",
-      "title": "Pilot Travel Centers Explores Accommodating Self-Driving Trucks",
-      "excerpt": "Pilot Travel Centers LLC, one of the largest operators of roadside travel centers in North America, said it made an equity investment in self-driving trucking startup Kodiak Robotics Inc. and is partnering with the company to incorporate services for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/pilot-travel-centers-explores-accommodating-self-driving-trucks-11661299412",
-      "originalUrl": "https://www.wsj.com/articles/pilot-travel-centers-explores-accommodating-self-driving-trucks-11661299412",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-609383/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-robotic-legs-help-a-boy-from-hugo-now-he-hopes-to-help-others.md",
-      "title": "Robotic legs help a boy from Hugo, now he hopes to help others",
-      "excerpt": "Sometimes a simple walk around the block can become a meaningful journey. “He loves to move. He does not like sitting in his chair,” said Tiffany Goodchild, mother of 6-year-old Karter ...",
-      "sourceUrl": null,
-      "webUrl": "https://kstp.com/kstp-news/top-news/robotic-legs-help-a-boy-from-hugo-now-he-hopes-to-help-others/",
-      "originalUrl": "https://kstp.com/kstp-news/top-news/robotic-legs-help-a-boy-from-hugo-now-he-hopes-to-help-others/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSTP",
-        "domain": "kstp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-spark-teams-with-mavenir-aws-and-more-to-explore-standalone-5g.md",
-      "title": "Spark teams with Mavenir, AWS and more to explore 'standalone' 5G",
-      "excerpt": "Spark has created and run two proof-of-concepts for standalone 5G with technology providers Mavenir, AWS, Nokia and Oppo.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/700934/spark-teams-mavenir-aws-more-explore-standalone-5g/",
-      "originalUrl": "https://www.reseller.co.nz/article/700934/spark-teams-mavenir-aws-more-explore-standalone-5g/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/6-josh_bahlman_lr.jpg",
-          "width": 473,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-ray-the-machine-learning-tech-behind-openai-levels-up-to-ray-20.md",
-      "title": "Ray, the machine learning tech behind OpenAI, levels up to Ray 2.0",
-      "excerpt": "Ray, which enables machine learning models to scale across hardware resources, has released Ray 2.0 to simplify building AI workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ray-the-machine-learning-tech-behind-openai-levels-up-to-ray-2-0/",
-      "originalUrl": "https://venturebeat.com/ai/ray-the-machine-learning-tech-behind-openai-levels-up-to-ray-2-0/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/image1-4.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ray-the-machine-learning-tech-behind-openai-levels-up-to-ray-2-0/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ray-the-machine-learning-tech-behind-openai-levels-up-to-ray-2-0/amp/",
-      "publishedDateTime": "2022-08-23T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-ai-metrics-an-ai-medical-imaging-technology-startup-announces-new-chief-medical-officer-and-ceo.md",
-      "title": "AI Metrics, an AI Medical Imaging Technology Startup, Announces New Chief Medical Officer and CEO",
-      "excerpt": "Changes to executive leadership team will drive a continued focus on innovation in imaging, radiology and oncology AI Metrics, launched in 2019 by Jacobus, Paige Severino, and radiologist and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/ai-metrics-an-ai-medical-imaging-technology-startup-announces-new-chief-medical-officer-and-ceo/article_161400a4-5aa8-5c5d-8aac-b34c0c85ac9e.html",
-      "originalUrl": "https://www.news-journal.com/ai-metrics-an-ai-medical-imaging-technology-startup-announces-new-chief-medical-officer-and-ceo/article_161400a4-5aa8-5c5d-8aac-b34c0c85ac9e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-ai-powered-service-vidby-translates-zelenskyys-speeches-into-50-languages-denys-krasnikov.md",
-      "title": "AI-powered service Vidby translates Zelenskyy’s speeches into 50 languages – Denys Krasnikov",
-      "excerpt": "Meet Alexander Konovalov, Eugen von Rubenberg and Denys Krasnikov - the creators behind the unique machine video translation service called Vidby. Their online translation tool offers an unprecedented 99% translation accuracy - a result that as of now remains unmatched.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-8-23-ai-powered-service-vidby-translates-zelenskyys-speeches-into-50-languages-denys-krasnikov",
-      "originalUrl": "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-8-23-ai-powered-service-vidby-translates-zelenskyys-speeches-into-50-languages-denys-krasnikov",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Buffalo News",
-        "domain": "buffalonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-faa-oks-reliable-robotics-certification-basis-for-autoflight.md",
-      "title": "FAA OKs Reliable Robotics’ Certification Basis For Autoflight",
-      "excerpt": "The FAA has agreed to a certification basis for Reliable Robotics’ autoflight and navigation ... that would avoid fatal crashes caused by controlled flight into terrain and loss of control. “",
-      "sourceUrl": null,
-      "webUrl": "https://aviationweek.com/aerospace/advanced-air-mobility/faa-oks-reliable-robotics-certification-basis-autoflight",
-      "originalUrl": "https://aviationweek.com/aerospace/advanced-air-mobility/faa-oks-reliable-robotics-certification-basis-autoflight",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T12:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Aviation Week",
-        "domain": "aviationweek.com",
         "images": null,
         "publishers": null,
         "authors": null

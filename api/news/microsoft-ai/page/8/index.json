@@ -2,6 +2,179 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-07-18-conversational-systems-market-with-tremendous-growth-by-2029-google-cognitive-scale-ibm.md",
+      "title": "Conversational Systems Market with Tremendous growth by 2029 Google, Cognitive Scale, IBM",
+      "excerpt": "This growth can be attributed to the growing demand for artificial intelligence (AI)-based customer support services ... Google, Cognitive Scale, IBM, Hewlett Packard, Microsoft, Oracle, Nuance ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/conversational-systems-market-with-tremendous-growth-by-2029-google-cognitive-scale-ibm",
+      "originalUrl": "https://www.digitaljournal.com/pr/conversational-systems-market-with-tremendous-growth-by-2029-google-cognitive-scale-ibm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/6e04d9a5ed4a928ffe1ba6550cca9746849a3076-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-18T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-18-whats-the-better-passive-income-tech-stock-ibm-or-verizon.md",
+      "title": "What's the Better Passive Income Tech Stock: IBM or Verizon?",
+      "excerpt": "It has built on that move by acquiring over 20 smaller companies since the former head of the cloud and cognitive software ... a CAGR of 52% for the global 5G services market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/whats-the-better-passive-income-tech-stock%3A-ibm-or-verizon",
+      "originalUrl": "https://www.nasdaq.com/articles/whats-the-better-passive-income-tech-stock%3A-ibm-or-verizon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/whats-the-better-passive-income-tech-stock%3A-ibm-or-verizon?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/whats-the-better-passive-income-tech-stock%3A-ibm-or-verizon?amp",
+      "publishedDateTime": "2022-07-18T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-18-emotion-ai-a-possible-path-to-thought-policing.md",
+      "title": "Emotion AI: A possible path to thought policing",
+      "excerpt": "Community We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/17/emotion-ai-a-possible-path-to-thought-policing/",
+      "originalUrl": "https://venturebeat.com/2022/07/17/emotion-ai-a-possible-path-to-thought-policing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1273872391-Devrimb.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/17/emotion-ai-a-possible-path-to-thought-policing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/17/emotion-ai-a-possible-path-to-thought-policing/amp/",
+      "publishedDateTime": "2022-07-17T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-16-azure-static-web-apps-introduces-api-backend-options.md",
+      "title": "Azure Static Web Apps Introduces API Backend Options",
+      "excerpt": "Machine Learning, WebAssembley, modern data pipelines, the emerging Staff-Plus engineer path, and more. In this episode, Marco Valtas, technical lead for cleantech and sustainability at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2022/07/azure-swa-backend-apis/",
+      "originalUrl": "https://www.infoq.com/news/2022/07/azure-swa-backend-apis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2022/07/azure-swa-backend-apis/en/headerimage/generatedHeaderImage-1657304420868.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-16T01:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-15-top-10-data-lake-solution-vendors-in-2022.md",
       "title": "Top 10 data lake solution vendors in 2022",
       "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! What is a data lake solution?",
@@ -1181,152 +1354,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-03-cwallet-microsoft-qatar-partner-to-bring-latest-fintech-services-to-organisations-through-azure.md",
-      "title": "CWallet, Microsoft Qatar partner to bring latest fintech services to organisations through Azure",
-      "excerpt": "Under the new agreement, CWallet will leverage a number of Microsoft products and services including, but not limited to, Azure Machine Learning, Cosmos DB, Power BI, Kubernetes, Application ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gulf-times.com/story/720344/CWallet-Microsoft-Qatar-partner-to-bring-latest-fi",
-      "originalUrl": "https://www.gulf-times.com/story/720344/CWallet-Microsoft-Qatar-partner-to-bring-latest-fi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gulf-times.com/Content/Upload/Slider/720222201945358555002.jpg",
-          "width": 620,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-02T13:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf Times",
-        "domain": "gulf-times.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-five-ways-to-promote-brain-health-slow-cognitive-decline.md",
-      "title": "Five ways to promote brain health, slow cognitive decline",
-      "excerpt": "Age is the greatest risk factor for Alzheimer's disease. In fact, 1 in 3 seniors age 85 and older will have Alzheimer's disease. While some brain changes are inevitable as we age, there is a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailyherald.com/entlife/20220701/five-ways-to-promote-brain-health-slow-cognitive-decline",
-      "originalUrl": "https://www.dailyherald.com/entlife/20220701/five-ways-to-promote-brain-health-slow-cognitive-decline",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-01T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-cognitive-impairment-predicts-outcomes-for-icu-survivors.md",
-      "title": "Cognitive impairment predicts outcomes for ICU survivors",
-      "excerpt": "The researchers found that 66.6 percent of patients (213 patients) were able to complete the MoCA near discharge, while 14.7 percent could not complete it due to cognitive impairment. The median ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-07-cognitive-impairment-outcomes-icu-survivors.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-07-cognitive-impairment-outcomes-icu-survivors.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-01T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-applying-infosecurity-principles-and-practices-to-cognitive-security.md",
-      "title": "Applying Infosecurity Principles and Practices to Cognitive Security",
-      "excerpt": "Information security has the following three layers: cybersecurity, physical security and cognitive security. Cybersecurity, broadly speaking, involves machines and the networks between them. Physical security consists in protecting physical access to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infosecurity-magazine.com/opinions/applying-infosecurity-cognitive/",
-      "originalUrl": "https://www.infosecurity-magazine.com/opinions/applying-infosecurity-cognitive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-01T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Infosecurity-magazine.com",
-        "domain": "infosecurity-magazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

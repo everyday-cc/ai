@@ -7,7 +7,7 @@ originalUrl: "https://www.benzinga.com/pressreleases/22/09/g28898304/artificial-
 webUrl: "https://www.benzinga.com/pressreleases/22/09/g28898304/artificial-intelligence-ai-in-fintech-market-set-to-boom-reaching-usd-28-11-billion-by-2028-bluewe"
 type: article
 quality: 11
-heat: -1
+heat: 11
 published: false
 
 provider:
@@ -19,24 +19,10 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "USD 23.61 Bn growth opportunity in Mobile Artificial Intelligence (AI) Market -- Driven by increasing smartphone penetration"
-    excerpt: "The global mobile artificial intelligence market size is expected to grow by USD 23.61 billion between 2021 and 2026, accelerating at a CAGR of 29.06% during the forecast period. The report considers various aspects such as the consumer base,"
-    publishedDateTime: 2022-09-14T19:39:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/14/9673912.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 27
-    images:
-      - url: "https://mma.prnewswire.com/media/1897570/Technavio_Mobile_Artificial_Intelligence_Market_Infographic.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "Automotive Artificial Intelligence Market Report 2022: Rising Industrial Automation to Drive Growth - ResearchAndMarkets.com"
-    excerpt: "The global automotive artificial intelligence market size is projected to grow from USD 2.3 Billion in 2022 to USD 7.0 Billion by 2027, it is expected to grow at a CAGR of 24.1% from 2022 to 2027. The key factors contributing to the growth of the automotive artificial intelligence market include the growing adoption of ADAS technology by OEMs and the increasing use of AI to make buying decisions."
-    publishedDateTime: 2022-09-19T09:33:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-19-automotive-artificial-intelligence-market-report-2022-rising-industrial-automation-to-drive-growth-researchandmarketscom"
+  - title: "North America Fintech-as-a-Service Market to Grow at 16.3% Annually Through 2028 - ResearchAndMarkets.com"
+    excerpt: "The North America Fintech-as-a-Service Market is expected to witness market growth of 16.3% CAGR during the forecast period (2022-2028). Bank visits, standing in lines, and dealing with red tape are the stuff of the past."
+    publishedDateTime: 2022-09-16T12:32:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-16-north-america-fintech-as-a-service-market-to-grow-at-163-annually-through-2028-researchandmarketscom"
     type: article
     provider:
       name: Daily Herald

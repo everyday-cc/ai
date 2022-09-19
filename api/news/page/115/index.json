@@ -2,6 +2,310 @@
   "page": 115,
   "value": [
     {
+      "path": "_news/2022-06-17-understanding-learning-by-inference.md",
+      "title": "Understanding learning by inference",
+      "excerpt": "suggesting that Microsoft shares will likely drop soon, too. “Knowing this hidden relationship means you can learn a lot faster,” Boorman said. To investigate how humans can use a cognitive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/956279",
+      "originalUrl": "https://www.eurekalert.org/news-releases/956279",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson.md",
+      "title": "AI Weekly: LaMDA’s ‘sentient’ AI triggers memories of IBM Watson",
+      "excerpt": "I learned a bit about how LaMDA triggers memories of IBM Watson. Transform 2022 Join us at the leading event on applied AI for enterprise business and technology decision makers in-person July 19 ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/",
+      "originalUrl": "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-108024053-e1655405017212.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/amp/",
+      "publishedDateTime": "2022-06-16T11:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-horizon-robotics-releases-robot-development-platform.md",
+      "title": "Horizon Robotics releases robot development platform",
+      "excerpt": "The Horizon Hobot Platform consists of the company's Sunrise chip, the TogetherROS operating system, Boxs reference algorithm, robot application examples and supporting development tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/horizon-robotics-releases-robot-development-platform/",
+      "originalUrl": "https://www.therobotreport.com/horizon-robotics-releases-robot-development-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/06/featured-web-horizon-robotics.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T11:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-the-dream-of-edge-ai.md",
+      "title": "The Dream of Edge AI",
+      "excerpt": "While we don’t have that, clearly artificial-intelligence (AI ... And while we might not all have self-driving cars, we’re keenly aware of the developments in that space and the potential ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicdesign.com/industrial-automation/article/21244476/analog-devices-the-dream-of-edge-ai",
+      "originalUrl": "https://www.electronicdesign.com/industrial-automation/article/21244476/analog-devices-the-dream-of-edge-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/06/AI_dreamstime_l_142816613.62ab73d43c26a.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T11:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronic Design",
+        "domain": "electronicdesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-best-machine-learning-platforms-2022.md",
+      "title": "Best Machine Learning Platforms 2022",
+      "excerpt": "Machine Learning Runtime delivers scalable clusters that include AutoML and other optimization frameworks. The platform also supports collaborative notebooks and a Feature Store that simplifies MLOps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/machine-learning-solutions/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/machine-learning-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-BMC_ZSO_Image4.jpeg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-fragmented-sleep-wakefulness-after-bedtime-linked-with-lower-cognitive-function-among-african-americans.md",
+      "title": "Fragmented sleep, wakefulness after bedtime linked with lower cognitive function among African Americans",
+      "excerpt": "More fragmented sleep and longer periods of wakefulness after bedtime among a group of low-income African American adults were associated with lower cognitive function such as poor attention ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220616/Fragmented-sleep-wakefulness-after-bedtime-linked-with-lower-cognitive-function-among-African-Americans.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220616/Fragmented-sleep-wakefulness-after-bedtime-linked-with-lower-cognitive-function-among-African-Americans.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/3/Good_nights_sleep_-_Goodluz_5edf6811462b4d0280b9b9189683dde9-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20220616/Fragmented-sleep-wakefulness-after-bedtime-linked-with-lower-cognitive-function-among-African-Americans.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220616/Fragmented-sleep-wakefulness-after-bedtime-linked-with-lower-cognitive-function-among-African-Americans.aspx",
+      "publishedDateTime": "2022-06-16T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-china-automotive-voice-industry-report-2022-from-ivi-software-to-adas-voice-enabled-functions-continue-to-evolve-with-iflytek-and-cerence-leading.md",
+      "title": "China Automotive Voice Industry Report 2022: From IVI Software to ADAS, Voice-enabled Functions Continue to Evolve with iFLYTEK and Cerence Leading",
+      "excerpt": "The \"China Automotive Voice Industry Report, 2021-2022\" report has been added to ResearchAndMarkets.com's offering. Automotive voice market: The boom of self-research by OEMs will promote reform in the supply mode.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-china-automotive-voice-industry-report-2022-from-ivi-/2022/06/16/9623502.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-china-automotive-voice-industry-report-2022-from-ivi-/2022/06/16/9623502.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-there-will-never-be-a-self-driving-ferrari-ceo-vigna-says.md",
       "title": "There Will Never Be a Self-Driving Ferrari, CEO Vigna Says",
       "excerpt": "Manufacturers from Tesla Inc. to Volkswagen AG are pursuing self-driving cars. Ferrari NV is having none of it. The Italian company recently hosted a couple of artificial intelligence experts who ...",
@@ -828,306 +1132,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-baidu-tipped-to-roll-credits-on-iqiyi-stake.md",
-      "title": "Baidu tipped to roll credits on iQIYI stake",
-      "excerpt": "Chinese internet giant Baidu reportedly entered talks on selling a majority stake in iQIYI, a deal which could value the video streaming platform at about $7 billion and help fund the company’s development of emerging technologies. Reuters reported Baidu ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mobileworldlive.com/featured-content/top-three/baidu-tipped-to-roll-credits-on-iqiyi-stake",
-      "originalUrl": "https://www.mobileworldlive.com/featured-content/top-three/baidu-tipped-to-roll-credits-on-iqiyi-stake",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mobileworldlive.com/wp-content/uploads/2022/06/iQIYI_SS_generic.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/top-three/baidu-tipped-to-roll-credits-on-iqiyi-stake/amp",
-      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/baidu-tipped-to-roll-credits-on-iqiyi-stake/amp",
-      "publishedDateTime": "2022-06-16T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile World Live",
-        "domain": "mobileworldlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-acceleration-robotics-launch-robotcore-to-speed-up-ros-2-robots.md",
-      "title": "Acceleration Robotics Launch ROBOTCORE™ to Speed-up ROS 2 Robots",
-      "excerpt": "While providing a vendor-agnostic ROS-centric development flow, ROBOTCORE™ solves customer design challenges in robotic areas including sensing, perception, mapping, localization, motion control, low-level control or actuation, with speedups surpassing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/acceleration-robotics-launch-robotcore-to-speed-up-ros-2-robots/",
-      "originalUrl": "https://www.01net.it/acceleration-robotics-launch-robotcore-to-speed-up-ros-2-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.01net.it/acceleration-robotics-launch-robotcore-to-speed-up-ros-2-robots/amp/",
-      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/acceleration-robotics-launch-robotcore-to-speed-up-ros-2-robots/amp/",
-      "publishedDateTime": "2022-06-16T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-teslas-driverless-cars-saw-most-crashes-in-past-year.md",
-      "title": "Tesla’s driverless cars saw most crashes in past year",
-      "excerpt": "US senators have raised the alarm about the high number of Tesla crashes. (AP pic) WASHINGTON: Tesla Inc reported 273 vehicle crashes since July involving advanced driving assistance systems, more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.freemalaysiatoday.com/category/business/2022/06/16/teslas-driverless-cars-saw-most-crashes-in-past-year/",
-      "originalUrl": "https://www.freemalaysiatoday.com/category/business/2022/06/16/teslas-driverless-cars-saw-most-crashes-in-past-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Free Malaysia Today",
-        "domain": "freemalaysiatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-operationalizing-ethical-ai-from-the-c-suite-to-the-data-pipeline.md",
-      "title": "Operationalizing Ethical AI: From The C-Suite To The Data Pipeline",
-      "excerpt": "Now that these technologies have become more commonplace, business leaders should turn much of their focus instead on how they use and manage AI and related training data to ensure that it’s consistent with other aspects of ethical business operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/16/operationalizing-ethical-ai-from-the-c-suite-to-the-data-pipeline/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/16/operationalizing-ethical-ai-from-the-c-suite-to-the-data-pipeline/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//619e3fbd3682ccac09ae4a3e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/16/operationalizing-ethical-ai-from-the-c-suite-to-the-data-pipeline/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/16/operationalizing-ethical-ai-from-the-c-suite-to-the-data-pipeline/amp/",
-      "publishedDateTime": "2022-06-16T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-uae-to-boost-rainfall-using-ai-in-cloud-seeding-operations.md",
-      "title": "UAE to boost rainfall using AI in cloud seeding operations",
-      "excerpt": "The project will use artificial intelligence (AI) to achieve enhanced rainfall prediction. The project's focal point will be the creation of an AI research and operations testbed in the UAE. An AI framework will be built to combine satellite observations ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/weather/uae-to-boost-rainfall-using-ai-in-cloud-seeding-operations",
-      "originalUrl": "https://www.khaleejtimes.com/weather/uae-to-boost-rainfall-using-ai-in-cloud-seeding-operations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.khaleejtimes.com?uuid=b0d9d4ee-9a74-54e9-ade5-de268934f040&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84375&x=0&y=0&width=1200&height=675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khaleejtimes.com/weather/uae-to-boost-rainfall-using-ai-in-cloud-seeding-operations?amp=1",
-      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/weather/uae-to-boost-rainfall-using-ai-in-cloud-seeding-operations?amp=1",
-      "publishedDateTime": "2022-06-16T02:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-aidoc-an-ai-healthcare-startup-nabs-110-million-expansion-round.md",
-      "title": "Aidoc, an AI Healthcare Startup, Nabs $110 Million Expansion Round",
-      "excerpt": "Company’s software aims to help radiologists spot serious conditions—strokes, lung clots, brain bleeds and others—more quickly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/aidoc-an-ai-healthcare-startup-nabs-110-million-expansion-round-11655373604",
-      "originalUrl": "https://www.wsj.com/articles/aidoc-an-ai-healthcare-startup-nabs-110-million-expansion-round-11655373604",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-565272/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-apptek-named-a-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-services.md",
-      "title": "AppTek Named a Representative Vendor in 2022 Gartner® Market Guide for AI-Enabled Translation Services",
-      "excerpt": "\"Advances in AI provide new opportunities to reduce costs and improve the quality and availability of translation services,\" according to the report. \"We are honored to be recognized as one the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/n27738170/apptek-named-a-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-servi",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/n27738170/apptek-named-a-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-servi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T01:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

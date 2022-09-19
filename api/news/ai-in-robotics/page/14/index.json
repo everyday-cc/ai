@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-06-10-nala-robotics-launches-fully-autonomous-pizzeria-robot-pizzaiola.md",
+      "title": "Nala Robotics launches fully autonomous pizzeria robot Pizzaiola",
+      "excerpt": "Nala Robotics' Pizzaiola uses artificial intelligence and machine learning to precisely replicate pizzeria-style foods.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/nala-robotics-launches-fully-autonomous-pizzeria-robot-pizzaiola/",
+      "originalUrl": "https://www.therobotreport.com/nala-robotics-launches-fully-autonomous-pizzeria-robot-pizzaiola/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/06/featured-web-nala-robtoics.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-10-roborock-s7-maxv-ultra-wins-t3-award-2022-for-best-robot-vacuum.md",
       "title": "Roborock S7 MaxV Ultra Wins T3 Award 2022 for Best Robot Vacuum",
       "excerpt": "Considering the tough competition amongst its robovac peers, it's clear that the advanced object recognition technology, customized cleaning options and performance in cleaning hard floors and ...",
@@ -1227,58 +1270,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-this-business-is-deploying-40-samsung-powered-robots-to-roam-its-halls.md",
-      "title": "This business is deploying 40 Samsung-powered robots to roam its halls",
-      "excerpt": "Using a shared, cloud-based \"brain,\" the robots will move around three floors, delivering packages, coffee and lunch boxes to employees",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/this-business-is-deploying-40-samsung-powered-robots-to-roam-its-halls/",
-      "originalUrl": "https://www.zdnet.com/article/this-business-is-deploying-40-samsung-powered-robots-to-roam-its-halls/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/746c29f1daf507879ca69ec2c2afbb9217436925/2022/06/03/7459195f-c993-4e50-b290-c295f124b5ff/naver-package.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-business-is-deploying-40-samsung-powered-robots-to-roam-its-halls/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-business-is-deploying-40-samsung-powered-robots-to-roam-its-halls/",
-      "publishedDateTime": "2022-06-03T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

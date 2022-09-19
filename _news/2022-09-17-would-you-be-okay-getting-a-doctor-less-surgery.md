@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-17T12:00:00Z
 originalUrl: "https://www.theatlantic.com/technology/archive/2022/09/autonomous-robot-surgery-operations-medicine/671449/"
 webUrl: "https://www.theatlantic.com/technology/archive/2022/09/autonomous-robot-surgery-operations-medicine/671449/"
 type: article
-quality: 56
-heat: 56
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -21,7 +21,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-  - AI in Robotics
 
 images:
   - url: "https://cdn.theatlantic.com/thumbor/v9szENxl4Ozc3JpxnMJuY7ExRyc=/0x64:2995x1624/1200x625/media/img/mt/2022/09/GettyImages_636182204/original.jpg"
@@ -29,6 +28,6 @@ images:
     height: 625
     isCached: true
 
-secured: "kGTaX8vnb6LkhjJwpPIKb6cM7uTPaCqrFL9w3lEdWCNLbdCO2C1PLwPRDe1w0BPS7Akxomq0zbusGts6cU/mtm5LDsy/Dmqcz4A4+b8DGQCxmr/Mu9D6U7NXT+5YNZaqkzYnRg23bQPcTp5ICQnXVv2hKuninNYDmJkwQkSZSSH3lRRsWWvrYJpT3APb7ja5C2eYXxZbnJfR3rXSOw5oFE/VGlQNHoODCA6lnZ8No23xQHAvztlmOXehxXlWCO+UAfDZdTgsVFu0Xv8nC0CD0rf/8IwBYZS30DAXGOvEGHpC0JjncyZUPqP/3SM1sLoa6Ob59V1gHqFqZWNSyJMVJwbRtSDGVsRQ8H2PvU7ydQHOSv6l3KEICQqCQgatwwgLq7DaDmVsyGxehTJoY45K3buZgxUnRGQjBuFcDK3fvarXzYTr8qCZ4aq+jT2zU+h2lUeaxA+E6q348ENlhFU42DpSaYzFQvJKUiljjPygVN2470vaLvCPveovTTmRwgSxvVSVmc56hlG2H8159PewEA==;cZguMVGIH4MDsPLY/l0FJQ=="
+secured: "QcYsuJZyUJetwCjAi1/ZFsyOgh/OJQXiDwFmFAB+y1Ckk5W4ximHranPnhlrmkhk2XkNJ88RYveEER64NbZ/tZTNpDmBNgnjJCyRJP9cTtWLEy3/NLZoWfvSj7if8KnwhF4FO+jmGLt19G/syNiGxgkMEqCzf6jtPhzYcDKbSP8bf9Etjgctz2G3DKEEXwjjOpJ+AmVEo/FWSbpeXLJDe1iE0WbHf9OzlVcFqIzGEJ1JvYdhOU4ngWQMJ/1SVWyIw7lSq5SfyfDlg7qr7+O9b8/BuyieXHqlk/kCNYvV3iHutAooCPnXS0PlxBbnzs6Z8gSArCtTowAzkZz16Zc1HO7XR6bnbbfJSLwQEEPO0E8=;cc2PMLwaCBEYAObZON7iqw=="
 ---
 

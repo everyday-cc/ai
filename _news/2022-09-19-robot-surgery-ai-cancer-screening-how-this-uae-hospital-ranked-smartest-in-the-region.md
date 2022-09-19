@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-19T13:14:00Z
 originalUrl: "https://www.zawya.com/en/business/healthcare/robot-surgery-ai-cancer-screening-how-this-uae-hospital-ranked-smartest-in-the-region-al37ko85"
 webUrl: "https://www.zawya.com/en/business/healthcare/robot-surgery-ai-cancer-screening-how-this-uae-hospital-ranked-smartest-in-the-region-al37ko85"
 type: article
+quality: 25
+heat: 25
+published: false
 
 provider:
   name: Zawya

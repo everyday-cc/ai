@@ -2,6 +2,61 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-15-perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans.md",
+      "title": "Perceptron: AI that lights up the moon, improvises grammar and teaches robots to walk like humans",
+      "excerpt": "In this edition of Perceptron, TechCrunch's semiregular review of AI research, we take a look at cutting-edge robotics, moon-scanning tech, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/14/perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans/",
+      "originalUrl": "https://techcrunch.com/2022/09/14/perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1160995648.jpg?resize=1200,900",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/14/perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/14/perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans/amp/",
+      "publishedDateTime": "2022-09-14T17:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "Computer Vision",
+        "Google AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-09-15-chinas-most-advanced-ai-image-generator-already-blocks-political-content.md",
       "title": "China’s most advanced AI image generator already blocks political content",
       "excerpt": "ViLG, censors political text such as \"Tiananmen Square\" or names of political leaders, reports Zeyi Yang for MIT Technology Review. Image synthesis has proven popular (and controversial) recently on social media and in online art communities.",
@@ -252,6 +307,40 @@
       ]
     },
     {
+      "path": "_news/2022-09-15-study-indicates-a-daily-multivitamin-slows-cognitive-decline.md",
+      "title": "Study indicates a daily multivitamin slows cognitive decline",
+      "excerpt": "Findings recently published in the Alzheimer’s & Dementia: The Journal of the Alzheimer’s Association found that a daily multivitamin could improve cognitive function and physical health for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wcpo.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline",
+      "originalUrl": "https://www.wcpo.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T12:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WCPO Cincinnati",
+        "domain": "wcpo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-15-nike-sneaker-cleaning-robot-looks-like-a-car-wash-for-shoes.md",
       "title": "Nike Sneaker-Cleaning Robot Looks Like a Car Wash for Shoes",
       "excerpt": "At first glance, Big BILL looks like the ultimate Rube Goldberg machine (a contraption intentionally designed to complicate a simple task). Nike, however, insists BILL not only cleans shoes, but deep cleans and fixes them,",
@@ -300,6 +389,39 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-video-ai-startup-awiros-raises-7-million-in-series-a-funding.md",
+      "title": "Video AI startup Awiros raises $7 million in Series A funding",
+      "excerpt": "The startup offers a marketplace of video AI called Apps, that aims to help customers discover and adopt technology solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/business/startups/news/video-ai-startup-awiros-raises-7-million-in-series-a-funding/articleshow/94199580.cms",
+      "originalUrl": "https://www.businessinsider.in/business/startups/news/video-ai-startup-awiros-raises-7-million-in-series-a-funding/articleshow/94199580.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -545,6 +667,40 @@
       ]
     },
     {
+      "path": "_news/2022-09-14-researchers-combine-data-science-and-machine-learning-techniques-to-improve-traditional-mri-image-reconstruction.md",
+      "title": "Researchers combine data science and machine learning techniques to improve traditional MRI image reconstruction",
+      "excerpt": "University of Minnesota Twin Cities scientists and engineers have found a way to improve the performance of traditional Magnetic Resonance Imaging (MRI) reconstruction techniques, allowing for faster MRIs to improve health care.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-09-combine-science-machine-techniques-traditional.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-09-combine-science-machine-techniques-traditional.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-10-years-later-deep-learning-revolution-rages-on-say-ai-pioneers-hinton-lecun-and-li.md",
       "title": "10 years later, deep learning ‘revolution’ rages on, say AI pioneers Hinton, LeCun and Li",
       "excerpt": "On the 10th anniversary of key research that led to deep learning breakthroughs, AI luminaries say the 'revolution' will continue.",
@@ -599,6 +755,40 @@
         "AI Ethics",
         "Computer Vision",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-study-shows-daily-multivitamin-use-may-slow-cognitive-aging-for-older-adults.md",
+      "title": "Study shows daily multivitamin use may slow cognitive aging for older adults",
+      "excerpt": "Alzheimer’s & Dementia: The Journal of the Alzheimer’s Association has published “Effects of cocoa extract and a multivitamin on cognitive function: a randomized clinical trial.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/964446",
+      "originalUrl": "https://www.eurekalert.org/news-releases/964446",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -865,26 +1055,17 @@
       ]
     },
     {
-      "path": "_news/2022-09-14-researchers-combine-data-science-and-machine-learning-techniques-to-improve-traditional-mri-image-reconstruction.md",
-      "title": "Researchers combine data science and machine learning techniques to improve traditional MRI image reconstruction",
-      "excerpt": "University of Minnesota Twin Cities researchers have found a way to improve the performance of traditional Magnetic Resonance Imaging (MRI) reconstruction techniques, allowing for faster MRIs without relying on the use of newer deep learning methods.",
+      "path": "_news/2022-09-14-taking-multivitamins-may-protect-against-cognitive-decline-in-over-65s-study.md",
+      "title": "Taking multivitamins may protect against cognitive decline in over-65s – study",
+      "excerpt": "aking multivitamin supplements on a daily basis may help protect against cognitive decline in older adults, early research suggests. Scientists in the US found that consuming these vitamins for ...",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/964576",
-      "originalUrl": "https://www.eurekalert.org/news-releases/964576",
+      "webUrl": "https://www.standard.co.uk/tech/science/scientists-north-carolina-b1025582.html",
+      "originalUrl": "https://www.standard.co.uk/tech/science/scientists-north-carolina-b1025582.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/387a00b7-ce35-466a-a544-239e72a0f1d3/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -892,8 +1073,8 @@
       "publishedDateTime": "2022-09-13T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
+        "name": "London Evening Standard",
+        "domain": "standard.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -903,7 +1084,7 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1008,259 +1189,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-argo-ai-kicks-into-high-gear-to-build-a-business-out-of-av-tech.md",
-      "title": "Argo AI kicks into high gear to build a business out of AV tech",
-      "excerpt": "Argo AI, the autonomous vehicle developer backed by Ford and VW Group, revealed this week an ecosystem of products and services designed to support commercial delivery and robotaxi operations. The products — a list that includes fleet management software,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/13/argo-ai-kicks-into-high-gear-to-build-a-business-out-of-av-tech/",
-      "originalUrl": "https://techcrunch.com/2022/09/13/argo-ai-kicks-into-high-gear-to-build-a-business-out-of-av-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/09/argo-ai-hub.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/13/argo-ai-kicks-into-high-gear-to-build-a-business-out-of-av-tech/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/13/argo-ai-kicks-into-high-gear-to-build-a-business-out-of-av-tech/amp/",
-      "publishedDateTime": "2022-09-13T15:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-upset-by-high-prices-gms-cruise-develops-its-own-chips-for-self-driving-cars.md",
-      "title": "Upset by high prices, GM's Cruise develops its own chips for self-driving cars",
-      "excerpt": "A handout image shows a plate of Dune chips by General Motors' self driving vehicle unit Cruise, in San Francisco, California, U.S.. Courtesy of Cruise/Handout via REUTERS",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/news/picture/upset-by-high-prices-gms-cruise-develops-idUSKBN2QF014",
-      "originalUrl": "https://www.reuters.com/news/picture/upset-by-high-prices-gms-cruise-develops-idUSKBN2QF014",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20220914&t=2&i=1608778625&w=&fh=810&fw=545&ll=&pl=&sq=&r=LYNXMPEI8D029",
-          "width": 545,
-          "height": 726,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T14:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-a-terrifying-ai-generated-woman-is-lurking-in-the-abyss-of-latent-space.md",
-      "title": "A terrifying AI-generated woman is lurking in the abyss of latent space",
-      "excerpt": "There’s a ghost in the machine. Machine learning, that is. We are all regularly amazed by AI’s capabilities in writing and creation, but who knew it had such a capacity for instilling horror? A chilling discovery by an AI researcher finds that the “latent space” comprising a deep learning model’s memory is haunted by least",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/13/loab-ai-generated-horror/",
-      "originalUrl": "https://techcrunch.com/2022/09/13/loab-ai-generated-horror/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/09/loab-header.jpg?resize=1200,625",
-          "width": 1200,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/13/loab-ai-generated-horror/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/13/loab-ai-generated-horror/amp/",
-      "publishedDateTime": "2022-09-13T14:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-facebooks-pytorch-ai-ignites-at-the-linux-foundation.md",
-      "title": "Facebook's PyTorch AI ignites at the Linux Foundation",
-      "excerpt": "PyTorch, one of the most important machine learning frameworks around, is moving from underneath Facebook's rule to the Linux Foundation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/facebooks-pytorch-ai-ignites-at-the-linux-foundation/",
-      "originalUrl": "https://www.zdnet.com/article/facebooks-pytorch-ai-ignites-at-the-linux-foundation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b8a98f8ff4eaf8168b7a989d9f81c46665af4b35/2021/06/03/c459ab44-9e28-48af-a3f0-d043642ca070/pytorch-crop-layout-for-twitter.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebooks-pytorch-ai-ignites-at-the-linux-foundation/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebooks-pytorch-ai-ignites-at-the-linux-foundation/",
-      "publishedDateTime": "2022-09-13T13:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-new-method-for-comparing-neural-networks-exposes-how-artificial-intelligence-works.md",
-      "title": "New method for comparing neural networks exposes how artificial intelligence works",
-      "excerpt": "A team at Los Alamos National Laboratory has developed a novel approach for comparing neural networks that looks within the \"black box\" of artificial intelligence to help researchers understand neural network behavior.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-09-method-neural-networks-exposes-artificial.html",
-      "originalUrl": "https://techxplore.com/news/2022-09-method-neural-networks-exposes-artificial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/new-method-for-compari.jpg",
-          "width": 896,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-09-method-neural-networks-exposes-artificial.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-method-neural-networks-exposes-artificial.amp",
-      "publishedDateTime": "2022-09-13T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "Machine Learning"
       ]
     }
   ],

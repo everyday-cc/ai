@@ -2,6 +2,259 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-09-14-argo-ai-kicks-into-high-gear-to-build-a-business-out-of-av-tech.md",
+      "title": "Argo AI kicks into high gear to build a business out of AV tech",
+      "excerpt": "Argo AI, the autonomous vehicle developer backed by Ford and VW Group, revealed this week an ecosystem of products and services designed to support commercial delivery and robotaxi operations. The products — a list that includes fleet management software,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/13/argo-ai-kicks-into-high-gear-to-build-a-business-out-of-av-tech/",
+      "originalUrl": "https://techcrunch.com/2022/09/13/argo-ai-kicks-into-high-gear-to-build-a-business-out-of-av-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/09/argo-ai-hub.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/13/argo-ai-kicks-into-high-gear-to-build-a-business-out-of-av-tech/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/13/argo-ai-kicks-into-high-gear-to-build-a-business-out-of-av-tech/amp/",
+      "publishedDateTime": "2022-09-13T15:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-upset-by-high-prices-gms-cruise-develops-its-own-chips-for-self-driving-cars.md",
+      "title": "Upset by high prices, GM's Cruise develops its own chips for self-driving cars",
+      "excerpt": "A handout image shows a plate of Dune chips by General Motors' self driving vehicle unit Cruise, in San Francisco, California, U.S.. Courtesy of Cruise/Handout via REUTERS",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/news/picture/upset-by-high-prices-gms-cruise-develops-idUSKBN2QF014",
+      "originalUrl": "https://www.reuters.com/news/picture/upset-by-high-prices-gms-cruise-develops-idUSKBN2QF014",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20220914&t=2&i=1608778625&w=&fh=810&fw=545&ll=&pl=&sq=&r=LYNXMPEI8D029",
+          "width": 545,
+          "height": 726,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T14:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-a-terrifying-ai-generated-woman-is-lurking-in-the-abyss-of-latent-space.md",
+      "title": "A terrifying AI-generated woman is lurking in the abyss of latent space",
+      "excerpt": "There’s a ghost in the machine. Machine learning, that is. We are all regularly amazed by AI’s capabilities in writing and creation, but who knew it had such a capacity for instilling horror? A chilling discovery by an AI researcher finds that the “latent space” comprising a deep learning model’s memory is haunted by least",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/13/loab-ai-generated-horror/",
+      "originalUrl": "https://techcrunch.com/2022/09/13/loab-ai-generated-horror/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/09/loab-header.jpg?resize=1200,625",
+          "width": 1200,
+          "height": 625,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/13/loab-ai-generated-horror/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/13/loab-ai-generated-horror/amp/",
+      "publishedDateTime": "2022-09-13T14:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-facebooks-pytorch-ai-ignites-at-the-linux-foundation.md",
+      "title": "Facebook's PyTorch AI ignites at the Linux Foundation",
+      "excerpt": "PyTorch, one of the most important machine learning frameworks around, is moving from underneath Facebook's rule to the Linux Foundation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/facebooks-pytorch-ai-ignites-at-the-linux-foundation/",
+      "originalUrl": "https://www.zdnet.com/article/facebooks-pytorch-ai-ignites-at-the-linux-foundation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/b8a98f8ff4eaf8168b7a989d9f81c46665af4b35/2021/06/03/c459ab44-9e28-48af-a3f0-d043642ca070/pytorch-crop-layout-for-twitter.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebooks-pytorch-ai-ignites-at-the-linux-foundation/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebooks-pytorch-ai-ignites-at-the-linux-foundation/",
+      "publishedDateTime": "2022-09-13T13:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-new-method-for-comparing-neural-networks-exposes-how-artificial-intelligence-works.md",
+      "title": "New method for comparing neural networks exposes how artificial intelligence works",
+      "excerpt": "A team at Los Alamos National Laboratory has developed a novel approach for comparing neural networks that looks within the \"black box\" of artificial intelligence to help researchers understand neural network behavior.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-09-method-neural-networks-exposes-artificial.html",
+      "originalUrl": "https://techxplore.com/news/2022-09-method-neural-networks-exposes-artificial.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/new-method-for-compari.jpg",
+          "width": 896,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-09-method-neural-networks-exposes-artificial.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-method-neural-networks-exposes-artificial.amp",
+      "publishedDateTime": "2022-09-13T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-university-of-maryland-prof-urges-pause-on-facial-recognition.md",
       "title": "University of Maryland Prof Urges Pause on Facial Recognition",
       "excerpt": "Lauren Rhue, an assistant professor of information systems at the University of Maryland, says human intervention is necessary to mitigate bias in technologies from Amazon Rekognition, Face++ and Microsoft.",
@@ -201,6 +454,74 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-kyndis-natural-language-search-solution-recognized-as-a-kmworld-top-trend-setting-product-of-2022.md",
+      "title": "Kyndi's Natural Language Search Solution Recognized as a KMWorld Top Trend-Setting Product of 2022",
+      "excerpt": "SAN MATEO, Calif., Sept. 13, 2022 /PRNewswire/ -- Kyndi, the leading natural language processing (NLP) company, today announced that KMWorld, the premier knowledge management publication ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-journal.com/kyndis-natural-language-search-solution-recognized-as-a-kmworld-top-trend-setting-product-of-2022/article_66ee37e0-85af-5e00-9895-cf1abad99a4b.html",
+      "originalUrl": "https://www.news-journal.com/kyndis-natural-language-search-solution-recognized-as-a-kmworld-top-trend-setting-product-of-2022/article_66ee37e0-85af-5e00-9895-cf1abad99a4b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Longview News-Journal",
+        "domain": "news-journal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-13-poor-oral-health-may-raise-cognitive-decline-dementia-risk.md",
+      "title": "Poor Oral Health May Raise Cognitive Decline, Dementia Risk",
+      "excerpt": "Poor periodontal health and tooth loss may increase the risk for cognitive decline and dementia ... and regular use of basic oral health services, which may lower dementia risk to some extent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medscape.com/viewarticle/980703",
+      "originalUrl": "https://www.medscape.com/viewarticle/980703",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medscape",
+        "domain": "medscape.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -844,354 +1165,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-the-new-artificial-intelligence-of-car-audio-might-improve-more-than-just-tunes.md",
-      "title": "The New Artificial Intelligence Of Car Audio Might Improve More Than Just Tunes",
-      "excerpt": "Hollywood has perennially portrayed Artificial Intelligence (AI) as the operating layer of dystopian robots who replace unsuspecting humans and create the escalating, central conflict. Yet, AI is now enhancing entertainment and,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevetengler/2022/09/13/the-new-artificial-intelligence-of-car-audio-might-improve-more-than-just-tunes/",
-      "originalUrl": "https://www.forbes.com/sites/stevetengler/2022/09/13/the-new-artificial-intelligence-of-car-audio-might-improve-more-than-just-tunes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62f137c370d99665add408c4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevetengler/2022/09/13/the-new-artificial-intelligence-of-car-audio-might-improve-more-than-just-tunes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevetengler/2022/09/13/the-new-artificial-intelligence-of-car-audio-might-improve-more-than-just-tunes/amp/",
-      "publishedDateTime": "2022-09-13T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story.md",
-      "title": "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story",
-      "excerpt": "New Jersey, NJ -- (SBWIRE) -- 09/13/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ...",
-      "sourceUrl": null,
-      "webUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-54",
-      "originalUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-54",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T22:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insurancenewsnet.com",
-        "domain": "insurancenewsnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-why-humanity-is-needed-to-propel-conversational-ai.md",
-      "title": "Why humanity is needed to propel conversational AI",
-      "excerpt": "Conversational AI still has some way to go before all users feel accurately represented. Accounting for subtleties of dialect, the time taken for speakers to think, as well as the active nature of a conversation,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-humanity-is-needed-to-propel-conversational-ai/",
-      "originalUrl": "https://venturebeat.com/ai/why-humanity-is-needed-to-propel-conversational-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-593338488-Just_Super.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 634,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-humanity-is-needed-to-propel-conversational-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-humanity-is-needed-to-propel-conversational-ai/amp/",
-      "publishedDateTime": "2022-09-12T21:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-ibm-upgrades-linux-mainframe-boosting-availability-and-ai-performance.md",
-      "title": "IBM upgrades Linux mainframe, boosting availability and AI performance",
-      "excerpt": "Latest IBM mainframe update for Linux provides more power and resilience for mission-critical enterprise workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/ibm-upgrades-linux-mainframe-boosting-availability-and-ai-performance/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/ibm-upgrades-linux-mainframe-boosting-availability-and-ai-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/IBM_linuxone_emperor_4_data_center_091222-e1663022887839.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 901,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/data-infrastructure/ibm-upgrades-linux-mainframe-boosting-availability-and-ai-performance/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/ibm-upgrades-linux-mainframe-boosting-availability-and-ai-performance/amp/",
-      "publishedDateTime": "2022-09-12T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-new-method-for-comparing-neural-networks-exposes-how-artificial-intelligence-works.md",
-      "title": "New method for comparing neural networks exposes how artificial intelligence works",
-      "excerpt": "Neural networks are high performance, but fragile. For example, self-driving cars use neural networks to detect signs. When conditions are ideal, they do this quite well. However, the smallest ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/964598",
-      "originalUrl": "https://www.eurekalert.org/news-releases/964598",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/87aac4f7-8dbc-46a2-a15c-f5e5bf4d2be7/Rendition/thumbnail/Content/Public",
-          "width": 263,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-the-startup-making-robotic-arms-more-accessible-and-less-complicated.md",
-      "title": "The Startup Making Robotic Arms More Accessible And Less Complicated",
-      "excerpt": "Ally Robotics, a startup specializing in AI-powered robotic arms, is working on doing just that. Ally is ushering in a new era of robotics—and giving early investors a unique opportunity to join the golden age.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/sponsored/story/the-startup-making-robotic-arms-more-accessible/",
-      "originalUrl": "https://www.wired.com/sponsored/story/the-startup-making-robotic-arms-more-accessible/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6317568af64c675d6d1a517f/master/pass/Ally_Image1.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/sponsored/story/the-startup-making-robotic-arms-more-accessible/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/sponsored/story/the-startup-making-robotic-arms-more-accessible/amp",
-      "publishedDateTime": "2022-09-12T15:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-gms-cruise-robotaxi-unit-to-offer-driverless-rides-in-phoenix-austin-this-year.md",
-      "title": "GM's Cruise robotaxi unit to offer driverless rides in Phoenix, Austin this year",
-      "excerpt": "SAN FRANCISCO, Sept 12 (Reuters) - General Motors' (GM.N) self-driving technology unit Cruise plans to expand its driverless ride service to include Phoenix, Arizona, and Austin, Texas ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/gms-self-driving-car-unit-cruise-offer-driverless-rides-phoenix-austin-this-year-2022-09-12/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/gms-self-driving-car-unit-cruise-offer-driverless-rides-phoenix-austin-this-year-2022-09-12/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/3saX3QBHoGIenMphqPYPFbhgZLQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/V5CSTKDQWJOHDLDSBODB4WRHBU.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T15:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
