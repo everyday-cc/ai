@@ -10,7 +10,7 @@
       "originalUrl": "https://www.computerweekly.com/feature/Putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -563,6 +563,40 @@
         "AI in Marketing",
         "AI in Healthcare",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-upmc-leverages-artificial-intelligence-to-improve-breast-cancer-treatment.md",
+      "title": "UPMC Leverages Artificial Intelligence to Improve Breast Cancer Treatment",
+      "excerpt": "Researchers from UPMC Hillman Cancer Center have partnered with Realyze Intelligence to utilize artificial intelligence to improve treatment options for breast cancer patients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthitanalytics.com/news/upmc-leverages-artificial-intelligence-to-improve-breast-cancer-treatment",
+      "originalUrl": "https://www.healthitanalytics.com/news/upmc-leverages-artificial-intelligence-to-improve-breast-cancer-treatment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitanalytics.com/news/amp/upmc-leverages-artificial-intelligence-to-improve-breast-cancer-treatment",
+      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/upmc-leverages-artificial-intelligence-to-improve-breast-cancer-treatment",
+      "publishedDateTime": "2022-09-08T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -1331,49 +1365,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-artificial-intelligence-based-algorithm-to-be-used-for-reporting-of-lymph-node-status-in-colon-cancer.md",
-      "title": "Artificial intelligence-based algorithm to be used for reporting of lymph node status in colon cancer",
-      "excerpt": "A collaboration between Indica Labs and iCAIRD is looking at the development of an AI-based digital tool to detect cancer within lymph nodes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.labiotech.eu/trends-news/indica-labs-partners-with-icaird-on-ai-based-digital-pathology-solution/",
-      "originalUrl": "https://www.labiotech.eu/trends-news/indica-labs-partners-with-icaird-on-ai-based-digital-pathology-solution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.labiotech.eu/wp-content/uploads/2022/06/shutterstock-artificial-intelligence-.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "the Top 10",
-        "domain": "labiotech.eu",
-        "images": null,
         "publishers": null,
         "authors": null
       },

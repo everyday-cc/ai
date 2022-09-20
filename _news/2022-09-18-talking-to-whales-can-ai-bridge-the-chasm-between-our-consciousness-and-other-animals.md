@@ -8,8 +8,8 @@ webUrl: "https://www.theguardian.com/environment/2022/sep/18/talking-to-whales-w
 ampWebUrl: "https://amp.theguardian.com/environment/2022/sep/18/talking-to-whales-with-artificial-enterprise-it-may-soon-be-possible"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2022/sep/18/talking-to-whales-with-artificial-enterprise-it-may-soon-be-possible"
 type: article
-quality: 51
-heat: 51
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
   - AI
 
 images:
@@ -30,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "IgRw4O6mVjLeUE/DQrFgrvkt0vs1zY5Yiud+S1VecmgfJUIeLX8keUN0Y2P81Mktsbeu/dR2icEQKr7jS9zO914+FGSCCXbEOup1NdwXuC0uxYjj3Ge1MM/bMOOriaC3p/fob+UEaxkEjuDOKUsX5QupMeZoi4k2Y23VTiVamcvHWY6zfxZfuosRmPPkt1D++PYAPFA9NsNIvAaZ2+jfi3jSt9ps9NBUQ/Yusb/eQAWFWRiZDn+w6z1Lc7C6dktCSCmqfNxO1l4zv6xUvipZOEUCiZHHQqwPONBkxrb9Y5rr/vCRzjql6FjQHq6RS74+TVAn/zyBjDuVn2joxZf191KznvPGdkD1gjFRPd7jluY2gfq8up5LYRiebnPPJvsvHTF3dcHMjMxfl7pe3ONvqcUajWbQ4Yr4YK6C5C58EoercAUm1q85zobFtgbYMOoUTqptGGPnkmktHYYlbjyh+GZYXvm7R4w9TB7O+dQdBr9YCktyx68m6f83qzZDV6Co8JEa9zKsRK0TDy9Ptsj6xQ==;9W+RFm56lGo/Rmai1RYxVQ=="
+secured: "WEt8mG4mziq08yTaAgdDVewbd9BXlvHTBKyTtN0P5est/CDU7vEUY7jKbaHQymyy2Y/obNRvKUMOTBwWZPWr1DKp4EsgTV11ZrJ+TiezA3/FMmH2q3Whh7KcmgBmZm4pyC+kfjwQ6UWi4fqYOa+/gs+WG1wUWzEvtge7aW4I7sthUKJCSNY4Hplde6p+gKBxcOAUJKcGp56sqXcs9gys3gWTTcXeh+wO2d6I5dmcf3cYoBEFgFwwOnHXX9CQoP1MXmKFQs1VbD2cpqWeQNiM/59505n5f+6TySmpNBKCX6a635IrVr9GTK7WL/z7VmYLErXNZIPs50uV7Dqe8gqklHU3UWHc23QYuFXSXYwwp18=;YDVc+waT4magM+NtNT3/dw=="
 ---
 

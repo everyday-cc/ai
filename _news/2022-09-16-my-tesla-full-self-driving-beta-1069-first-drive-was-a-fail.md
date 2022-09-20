@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/09/16/tesla-full-self-driving-beta-10-69-fi
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/16/tesla-full-self-driving-beta-10-69-first-drive-fail/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-FSD-Beta-pedestrian-Blue-Ridge-Mountains.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Tesla faces new class-action lawsuit over marketing claims for ‘self-driving’ cars"
-    excerpt: "Electric carmaker Tesla has been hit with a new consumer class-action suit in federal court alleging the company falsely advertised its autopilot and full self-driving features."
-    publishedDateTime: 2022-09-15T17:33:00Z
-    webUrl: "https://www.washingtontimes.com/news/2022/sep/15/tesla-faces-new-class-action-lawsuit-over-marketin/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2022/sep/15/tesla-faces-new-class-action-lawsuit-over-marketin/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2022/sep/15/tesla-faces-new-class-action-lawsuit-over-marketin/"
-    type: article
-    provider:
-      name: The Washington Times
-      domain: washingtontimes.com
-    quality: 85
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2022/09/02/China_CIFTIS_28198.jpg-1cae4_c0-349-8379-5236_s1200x700.jpg?9ca9d9a317ffea0f652bc83b395cb40bfe383b16"
-        width: 1200
-        height: 700
         isCached: true
   - title: "Tesla 'Full Self-Driving' Beta opens to another 60,000 testers"
     excerpt: "Tesla is expanding the number of testers of its Full Self-Driving beta program in North America. There's now a total of 160,000 in the trial."

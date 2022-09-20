@@ -7,7 +7,7 @@ originalUrl: "https://www.asiaone.com/business/20-leading-technology-organizatio
 webUrl: "https://www.asiaone.com/business/20-leading-technology-organizations-orchestrated-loudest-fintech-show-philippines"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 600
     height: 316
     isCached: true
+
+related:
+  - title: "20+ Leading technology organisations orchestrated the loudest fintech show in the Philippines"
+    excerpt: "Leading technology organisations orchestrated the loudest fintech show in the Philippines - Southeast Asia’s most renowned FSI event, World Financial Innovation Series (WFIS) disrupted"
+    publishedDateTime: 2022-09-20T11:08:00Z
+    webUrl: "https://www.siliconindia.com/news/general/20-leading-technology-organisations-orchestrated-the-loudest-fintech-show-in-the-philippines-nid-220027-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 13
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/A3M4fVv0.jpg"
+        width: 570
+        height: 367
+        isCached: true
 
 secured: "ecGRq/wj3AuZajNxhpQK7puGafv+7q6RCKR06Bvn1bY3JIcVisjbsXT8es19dMfcG8zX5fye2eWW2oLVp3gudPZTObQkL8W5ZagfEHZFq46ZMH/jdAnaMydjowZVJx/Iiry69PdjjbxDvKhEkt9OHyUjHdsAZGvytE8bB4Fm/ps/xKHMNuh2O37p3moFxO8oT98x5eTrTFXQF/bzwFpKLZzmWblNNIF4TGSYDp1wCcP+3FAqrh8dJCoXKrUSPPg2+20cQCgBbuiGM7aKpo0zYccEadybcSkVHeh8zF3cciYbck9yPCbphBqXRjzMbzgfsDwQZ6JFkRLES7lelhESP1hLqy342HRPkLvLN4qMPp4=;69gaBnC/F1gG9km5Q3xi7w=="
 ---

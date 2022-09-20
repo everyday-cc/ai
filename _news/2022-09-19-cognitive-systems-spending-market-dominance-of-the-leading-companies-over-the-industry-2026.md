@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Robot Parts Market New Coming Industry To Witness Great Growth Opportunities In Coming Years From 2022 To 2031"
-    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication and consumer electronic componen"
-    publishedDateTime: 2022-09-19T07:50:00Z
-    webUrl: "https://menafn.com/1104886162/Robot-Parts-Market-New-Coming-Industry-To-Witness-Great-Growth-Opportunities-In-Coming-Years-From-2022-To-2031"
+  - title: "The Speech-To-Text Industry Is Taking Leaps Toward Digital Transformation That Pervade Other Industries, Too"
+    excerpt: "My colleagues in the speech-to-text industry and I have challenged our teams to future-proof our technology by building resilient technologies that can withstand the growth and pivoting of our customers’ needs."
+    publishedDateTime: 2022-09-20T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/20/the-speech-to-text-industry-is-taking-leaps-toward-digital-transformation-that-pervade-other-industries-too/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/20/the-speech-to-text-industry-is-taking-leaps-toward-digital-transformation-that-pervade-other-industries-too/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/20/the-speech-to-text-industry-is-taking-leaps-toward-digital-transformation-that-pervade-other-industries-too/amp/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
+      name: Forbes
+      domain: forbes.com
+    quality: 55
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?677017"
-        width: 375
-        height: 250
+      - url: "https://imageio.forbes.com/specials-images/imageserve/632863e848add909c4b00d1b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "YN2qtntBSeW8CRgUWBqSvSrVwCI4jPMymRN69UlFMl406VUZN+8Q7MN/alJu3fWee1Xr2mdHbbkMSSrzihKhg9c2y3yI/xplf7Sbuxj70wUtyyeAX2PDw/IHdXwNJt7/5XhSA8y/rT94pMfxGOpchkzWtjo1oBDC817W7FWLMARctDGQbgHdMkHqasbefIBlyaJ1gCeY9Q9j49AicfQefPs5gEcZFmImOC8zZIy032lk4SSaTMKAK+OP/aL1sKD3Z06ydstxeJZZ3vdQQiulHWfhpthxz8waNQq0uGQlZiTTt+uVVcRKWXDwFO+tI3eg9qX/2QHp0q49+TmBcrTlxhzYQGxRyDaUuXlVko/mg2A=;HNfR+qC9f7ZqxHLKFAhZmA=="

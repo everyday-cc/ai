@@ -19,20 +19,43 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Artificial Intelligence Robots Market Size To Record 21.3% CAGR Through 2028"
-    excerpt: "Market Study Report presents latest report on global  Artificial Intelligence (AI) Robots Market,  which evaluates the growth tr"
-    publishedDateTime: 2022-09-20T09:36:00Z
-    webUrl: "https://menafn.com/1104892877/Artificial-Intelligence-Robots-Market-Size-To-Record-213-CAGR-Through-2028"
+  - title: "Machine Learning as a Service (MLaaS) Market Size to Grow at 32.88% CAGR During the Forecast Period of 2022-2027 | 118 Report Pages"
+    excerpt: "The global Machine Learning as a Service (MLaaS) market size is expected to expand at a CAGR of 32.88% during the"
+    publishedDateTime: 2022-09-19T09:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-to-grow-at-3288-cagr-during-the-forecast-period-of-2022-2027-118-report-pages-2022-09-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing Nlp Market To Reach USD 15.7 Billion By 2022 From USD 49.4 Billion In 2031, At A CAGR Of 25.7% During The Forecast Period"
+    excerpt: "Natural Language Processing Nlp Market , 2022-2031' to its database of market research collaterals consisting of overall market scenario with prevalent and future growth prospects, among other growth strategies used by key players to stay ahead of the game."
+    publishedDateTime: 2022-09-19T06:35:00Z
+    webUrl: "https://menafn.com/1104885677/Natural-Language-Processing-Nlp-Market-To-Reach-USD-157-Billion-By-2022-From-USD-494-Billion-In-2031-At-A-CAGR-Of-257-During-The-Forecast-Period"
     type: article
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 34
+    quality: 15
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?176684"
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?677017"
         width: 375
         height: 250
         isCached: true
+  - title: "North America Fintech-as-a-Service Market to Grow at 16.3% Annually Through 2028 - ResearchAndMarkets.com"
+    excerpt: "The North America Fintech-as-a-Service Market is expected to witness market growth of 16.3% CAGR during the forecast period (2022-2028). Bank visits, standing in lines, and dealing with red tape are the stuff of the past."
+    publishedDateTime: 2022-09-16T12:32:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-16-north-america-fintech-as-a-service-market-to-grow-at-163-annually-through-2028-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "uv/n8FqGnwt/MqOI5/nQakbG8w2vSJ5QdTfHgtlPjy5zC3vpm67kBEYtufW6sCumOXoIUNkTbZZKirIDvAv4SKY6CtdvR8B9+W8EgM9HNLTrtYkLqaoDibewNCfO0+9tnyyWY/3itZJ/sRAubVpE2E2Kmh5Jqb2VMz6PnPRvD4sPhTZ1AmeSz9GWWMhcvBXXh+bbN2KriaYmgrcWWNMyinJa7J7/keGPNdNLpEBSGqyscHkw3bCYPEDRUSNIif1cIsF3i6SaYLHHvvY9T9kkJnDq9i+QBOe2X3SiNqGgfgQP0P5cjU0pHdHYZKPCSEQV970tUjAIQYYtetodyuT4NoCmaCjyO41P1pyIBFAmaTSywVyugfuSw/ZnC8Lq4FYDXe9AKu24kYYLZv2JVfHzFWEXZ8PSui2/fai3llbHJy+iZUHrXds05BqqDHbSHGjGzSOfSlrN5WN+kGXvYvY+4q1YcqgA+XlmeRDzibpE/QkZcIIyfo21bu4y93i0LHIoBtxpnfqS04Rh9L4RWtVqow==;dqSdm7JAEXLjbeRMJDnP/A=="
 ---

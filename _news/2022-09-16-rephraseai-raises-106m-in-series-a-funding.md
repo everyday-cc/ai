@@ -62,22 +62,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "AI startup Rephrase.ai raises $10.6 mn in Series A funding round"
-    excerpt: "Artificial Intelligence startup Rephrase.ai, backed by Lightspeed Ventures, has raised $10.6 million in its Series A funding round. The round was led by Red Ventures and saw participation from Silver Lake and 8VC Ventures,"
-    publishedDateTime: 2022-09-15T17:23:00Z
-    webUrl: "https://inshorts.com/en/news/ai-startup-rephraseai-raises-$106-mn-in-series-a-funding-round-1663262581246"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/ai-startup-rephraseai-raises-$106-mn-in-series-a-funding-round-1663262581246"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/ai-startup-rephraseai-raises-$106-mn-in-series-a-funding-round-1663262581246"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 57
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/09_sep/15_thu/img_1663260823085_979.jpg?"
-        width: 1080
-        height: 724
-        isCached: true
   - title: "Generative AI startup Rephrase.ai raises $10.6 million in funding led by Red Ventures"
     excerpt: "Rephrase.ai will use the funds to enhance its capabilities by integrating product experiences; scaling hiring across the business, including within the engineering, AI, product, sales, and marketing teams;"
     publishedDateTime: 2022-09-16T08:27:00Z

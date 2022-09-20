@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/feature/Putting-artificial-intelligen
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud?amp=1"
 type: article
 quality: 84
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     width: 1200
     height: 400
     isCached: true
+
+related:
+  - title: "Putting artificial intelligence and machine learning workloads in the cloud"
+    excerpt: "PA Consulting’s Lee Howells, head of AI, comments on the benefits of implementing artificial intelligence and machine learning workloads in the cloud."
+    publishedDateTime: 2022-09-20T11:11:00Z
+    webUrl: "https://www.paconsulting.com/newsroom/expert-quotes/computer-weekly-putting-artificial-intelligence-and-machine-learning-workloads-in-the-cloud-19-september-2022/"
+    type: article
+    provider:
+      name: PA Consulting Group
+      domain: paconsulting.com
+    quality: 52
+    images:
+      - url: "https://www.paconsulting.com/globalassets/images/importedimage/114631-cloud-data-900-x-450jpg"
+        width: 900
+        height: 450
+        isCached: true
 
 secured: "gYoy7A+hgD2UDQdrbtymt2o3nuDep42ihUBZigHJ1esIMQ55e7q2I1YSJgeEKs03PAYJwaXVYjyIMcMb0J8z2c89ptbEn6BlLnEKk8b1SW7HcVN+CmFw6+FPMFT0vwX3rDR//Zy1stvlIJmmN9beK7rOOK11wgC5MIqXRrybk77Q/PZH/3jsVCJpnm1pE3U5sMCwN8vBD7yIi7NqvPXyuRRZR783fry4VRuI+u+YOstkEK0m4KxL0lMOCO9cjlwM1WfPgNVZ3v/uZZXuIXtlLZQs940XrMKWWu3BkzCp04iqQNz7WTHEM+1NojE0lgpv9Kd6ysAb+gXW8cHce+bYL9PV56P+rG8Qcxa3XhPs10yN+OqrlAiCWGimy5HX9qLvuHM1APN/94YE9JAbOznX6jusVQRFGJ/r5hwGwjiQ24znpg+Lxdo1uPXfQD247Z27vG0AsGC+WNfLUIc2mAoQZrZkDIgqtB4Y5WgNcFXCt8/p9RC2y9S5A4aQacBfGAUXSr+4FN/zXCDN9t62d2Ehww==;h9aPZ5dzLgEpYjC0R+6lSQ=="
 ---
